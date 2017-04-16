@@ -1,0 +1,19 @@
+title: NEWS WEB EASY
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://newswebeasy.github.io"
+author: NewsWebEasy
+
+collections:
+  news:
+    output: true
+    permalink: /news/:categories/:year/:month/:day/:title/
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock

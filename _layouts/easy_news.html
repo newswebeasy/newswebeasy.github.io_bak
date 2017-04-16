@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body class="zh_CN mm_appmsg">
+  <div class="rich_media">
+    <div class="rich_media_inner">
+      <div>
+        <div class="rich_media_area_primary">
+          <h2 class="rich_media_title">{{ page.title_with_ruby }}</h2>
+          <div class="rich_media_meta_list">
+            <em class="rich_media_meta rich_media_meta_text">{{ page.datetime }}</em>
+            <span class="rich_media_meta rich_media_meta_text rich_media_meta_nickname">{{ site.author }}</span>
+          </div>
+          <div class="rich_media_content">
+            <p><img data-s="300,640" src="{{ page.image_url }}" data-ratio="0" data-w="640" /></p>
+            {{ page.contents }}
+            <p></p>
+            <p>
+              <audio src="{{ page.voice_url }}" controls loop autoplay style="width:100%"></audio>
+            </p>
+            <p></p>
+
+            {% for w in page.words %}
+            <p><strong>{{ w.word }}</strong></p>
+            <ul class=" list-paddingleft-2" style="list-style-type: decimal;">
+              {% for d in w.descriptions %}
+              <li>
+                <p>{{ d }}</p>
+              </li>
+              {% endfor %}
+            </ul>
+            {% endfor %}
+
+            <p><img data-type="gif" src="{{ "/assets/qrcode.gif" | relative_url }}" data-ratio="0.5064308681672026" data-w="622" /></p>
+          </div>
+
+          <div class="ct_mpda_wrp">
+            <!-- js_sponsor_ad_area -->
+          </div>
+
+          <div class="rich_media_tool">
+            [<a class="media_tool_meta meta_primary" target="_blank" href="{{ page.web_news_url }}">普通のニュースへ</a>]
+            [<a class="media_tool_meta meta_primary" target="_blank" href="{{ page.source_url }}">原文へ</a>]
+          </div>
+        </div>
+
+        {% include footer.html %}
+
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body class="zh_CN mm_appmsg">
+  <div class="rich_media">
+    <div class="rich_media_inner">
+      <div>
+        <div class="rich_media_area_primary">
+          <h2 class="rich_media_title">{{ page.title }}</h2>
+          <div class="rich_media_meta_list">
+            <em class="rich_media_meta rich_media_meta_text">{{ page.datetime }}</em>
+            <span class="rich_media_meta rich_media_meta_text rich_media_meta_nickname">{{ site.author }}</span>
+          </div>
+          <div class="rich_media_content">
+            {% if page.movie_url %}
+            <p style="text-align: center"><video src="{{ page.movie_url }}" controls loop autoplay></video></p>
+            {% endif %}
+            {% if page.image_url %}
+            <p><img data-s="300,640" src="{{ page.image_url }}" data-ratio="0" data-w="640" /></p>
+            {% endif %}
+            <p>{{ page.summary }}</p>
+            <p></p>
+            <p>{{ page.more }}</p>
+            {% for s in page.body %}
+            {% if page.image_url %}
+            <br /><h2 style="font-weight: bold">{{ s.title }}</h2><br />
+            <p>{{ s.text }}</p>
+            {% endif %}
+            {% endfor %}
+            <p><img data-type="gif" data-src="http://mmbiz.qpic.cn/mmbiz/FfkL5abaSbeBXvRdmRibZq9WE5mSJcmic2ewkDcO339NvFvhbbwugtQBfH2EBx4niccV9fj6ybhINjKpIoDtWOQdw/0?wx_fmt=gif" data-ratio="0.5064308681672026" data-w="622" /></p>
+          </div>
+
+          <div class="ct_mpda_wrp">
+            <!-- js_sponsor_ad_area -->
+          </div>
+
+          <div class="rich_media_tool">
+            [<a class="media_tool_meta meta_primary" target="_blank" href="{{ page.easy_news_url }}">イージーニュースへ</a>]
+            [<a class="media_tool_meta meta_primary" target="_blank" href="{{ page.source_url }}">原文へ</a>]
+          </div>
+        </div>
+
+        {% include footer.html %}
+
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
