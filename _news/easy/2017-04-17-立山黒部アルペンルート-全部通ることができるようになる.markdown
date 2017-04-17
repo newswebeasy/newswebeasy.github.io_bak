@@ -1,0 +1,42 @@
+---
+layout: easy_news
+categories: easy
+title: 立山黒部アルペンルート-全部通ることができるようになる
+title_with_ruby: <ruby>立山<rt>たてやま</rt></ruby><ruby>黒部<rt>くろべ</rt></ruby>アルペンルート　<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>通<rt>とお</rt></ruby>ることができるようになる
+last_modified_at: '2017-04-17T16:00:00+09:00'
+datetime: 2017年04月17日 16時00分
+description: 「立山たてやま黒部くろべアルペンルート」は、富山県とやまけんと長野県ながのけんの間あいだの高たかい山やまの中なかの約やく３７ｋｍの道みちです。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/17/k10010949621000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/17/k10010949621000.mp3
+contents: "<p>「<ruby>立山<rt>たてやま</rt></ruby><ruby>黒部<rt>くろべ</rt></ruby>アルペンルート」は、<ruby>富山県<rt>とやまけん</rt></ruby>と<ruby>長野県<rt>ながのけん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>の<ruby>高<rt>たか</rt></ruby>い<ruby>山<rt>やま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>３７ｋｍの<ruby>道<rt>みち</rt></ruby>です。<ruby>毎年<rt>まいとし</rt></ruby><ruby>冬<rt>ふゆ</rt></ruby>は<ruby>雪<rt>ゆき</rt></ruby>で<ruby>通<rt>とお</rt></ruby>ることができなくて、<ruby>春<rt>はる</rt></ruby>になってから<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>通<rt>とお</rt></ruby>ることができるようになります。</p>\n\
+  <p>１５<ruby>日<rt>にち</rt></ruby>、<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>通<rt>とお</rt></ruby>ることができるようになって、お<ruby>祝<rt>いわ</rt></ruby>いの<ruby>式<rt>しき</rt></ruby>がありました。<ruby>今年<rt>ことし</rt></ruby>は<ruby>道<rt>みち</rt></ruby>の<ruby>雪<rt>ゆき</rt></ruby>を<ruby>片<rt>かた</rt></ruby>づける<span\
+  \ style=\"color: blue;\"><ruby>作業<rt>さぎょう</rt></ruby></span>が<ruby>早<rt>はや</rt></ruby>く<ruby>終<rt>お</rt></ruby>わったため、<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>早<rt>はや</rt></ruby>く<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>通<rt>とお</rt></ruby>ることができるようになりました。しかし、この<ruby>日<rt>ひ</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>吹雪<rt>ふぶき</rt></ruby></span>で<ruby>周<rt>まわ</rt></ruby>りが<ruby>見<rt>み</rt></ruby>えなくて、<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>大<rt>おお</rt></ruby>きな<ruby>雪<rt>ゆき</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>く<span\
+  \ style=\"color: blue;\">イベント</span>は<ruby>中止<rt>ちゅうし</rt></ruby>になりました。</p>\n<p><ruby>香港<rt>ほんこん</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>香港<rt>ほんこん</rt></ruby>では<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>らないので、<ruby>雪<rt>ゆき</rt></ruby>の<ruby>山<rt>やま</rt></ruby>を<ruby>見<rt>み</rt></ruby>ることができてうれしいです。でも、<ruby>雪<rt>ゆき</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>を<ruby>見<rt>み</rt></ruby>ることができなくて<ruby>残念<rt>ざんねん</rt></ruby>です」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>立山<rt>たてやま</rt></ruby><ruby>黒部<rt>くろべ</rt></ruby>アルペンルートの<ruby>会社<rt>かいしゃ</rt></ruby>は「<ruby>外国<rt>がいこく</rt></ruby>からもたくさんの<ruby>人<rt>ひと</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>観光<rt>かんこう</rt></ruby></span>に<ruby>来<rt>き</rt></ruby>てほしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 作業
+  descriptions:
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>をすること。
+- word: 吹雪
+  descriptions:
+  - <ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>風</rb><rt>かぜ</rt></ruby>にふかれて、<ruby><rb>降</rb><rt>ふ</rt></ruby>る<ruby><rb>雪</rb><rt>ゆき</rt></ruby>。
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かいものがいっせいにたくさん<ruby><rb>散</rb><rt>ち</rt></ruby>るようす。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 観光
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。
+web_news_url: /news/web/2017/04/15/北アルプス-立山黒部アルペンルートが全線開通/
+source_url: http://www3.nhk.or.jp/news/easy/k10010949621000/k10010949621000.html
+...
