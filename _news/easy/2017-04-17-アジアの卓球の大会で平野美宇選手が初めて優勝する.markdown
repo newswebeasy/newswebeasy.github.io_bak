@@ -1,0 +1,82 @@
+---
+layout: easy_news
+categories: easy
+title: アジアの卓球の大会で平野美宇選手が初めて優勝する
+title_with_ruby: アジアの<ruby>卓球<rt>たっきゅう</rt></ruby>の<ruby>大会<rt>たいかい</rt></ruby>で<ruby>平野<rt>ひらの</rt></ruby><ruby>美宇<rt>みう</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めて<ruby>優勝<rt>ゆうしょう</rt></ruby>する
+last_modified_at: '2017-04-17T16:00:00+09:00'
+datetime: 2017年04月17日 16時00分
+description: アジアの卓球たっきゅうの大会たいかいが９日ここのかから１６日にちまで中国ちゅうごくでありました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/17/k10010949851000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/17/k10010949851000.mp3
+contents: "<p>アジアの<span style=\"color: blue;\"><ruby>卓球<rt>たっきゅう</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>が<ruby>９日<rt>ここのか</rt></ruby>から１６<ruby>日<rt>にち</rt></ruby>まで<ruby>中国<rt>ちゅうごく</rt></ruby>でありました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>平野<rt>ひらの</rt></ruby><ruby>美宇<rt>みう</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>１４日<rt>じゅうよっか</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>女子<rt>じょし</rt></ruby></span><span style=\"color:\
+  \ blue;\">シングルス</span>で、<ruby>去年<rt>きょねん</rt></ruby>の<span style=\"color: blue;\"\
+  >オリンピック</span>で<span style=\"color: blue;\"><ruby>金<rt>きん</rt></ruby></span><span\
+  \ style=\"color: blue;\">メダル</span>を<ruby>取<rt>と</rt></ruby>った<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>丁<rt>てい</rt></ruby><ruby>寧<rt>ねい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>に<ruby>勝<rt>か</rt></ruby>ちました。この<ruby>日<rt>ひ</rt></ruby>は<ruby>平野<rt>ひらの</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>の１７<ruby>歳<rt>さい</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>でした。<ruby>世界<rt>せかい</rt></ruby><span\
+  \ style=\"color: blue;\">ランキング</span>で<ruby>丁<rt>てい</rt></ruby><span style=\"color:\
+  \ blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は１<ruby>番<rt>ばん</rt></ruby>、<ruby>平野<rt>ひらの</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は１１<ruby>番<rt>ばん</rt></ruby>です。</p>\n\
+  <p>１５<ruby>日<rt>にち</rt></ruby>の<span style=\"color: blue;\"><ruby>決勝<rt>けっしょう</rt></ruby></span>では、<ruby>世界<rt>せかい</rt></ruby><span\
+  \ style=\"color: blue;\">ランキング</span>で５<ruby>番<rt>ばん</rt></ruby>の<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>陳<rt>ちん</rt></ruby><ruby>夢<rt>む</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>に３ー０で<ruby>勝<rt>か</rt></ruby>ちました。<ruby>平野<rt>ひらの</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>はこの<span style=\"color:\
+  \ blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>で<ruby>初<rt>はじ</rt></ruby>めて<span style=\"\
+  color: blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。</p>\n<p><ruby>平野<rt>ひらの</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は「<span style=\"color:\
+  \ blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>できるとは<ruby>思<rt>おも</rt></ruby>っていなかったので、<ruby>自分<rt>じぶん</rt></ruby>がいちばん<ruby>驚<rt>おどろ</rt></ruby>いています」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の<span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>がこの<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>女子<rt>じょし</rt></ruby></span><span style=\"color: blue;\">シングルス</span>で<span\
+  \ style=\"color: blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>したことは、１９９６<ruby>年<rt>ねん</rt></ruby>のあとありませんでした。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 卓球
+  descriptions:
+  - <ruby><rb>台</rb><rt>だい</rt></ruby>の<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>からラケットで<ruby><rb>球</rb><rt>たま</rt></ruby>を<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ピンポン。
+- word: 大会
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+  - ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 優勝
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>などで、<ruby><rb>一位</rb><rt>いちい</rt></ruby>で<ruby><rb>勝</rb><rt>か</rt></ruby>つこと。
+- word: 女子
+  descriptions:
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>女性</rb><rt>じょせい</rt></ruby>。
+- word: シングルス
+  descriptions:
+  - テニスや<ruby><rb>卓球</rb><rt>たっきゅう</rt></ruby>などで、<ruby><rb>一対一</rb><rt>いったいいち</rt></ruby>でする<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>四年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、一八九六<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: 金
+  descriptions:
+  - <ruby><rb>黄色</rb><rt>きいろ</rt></ruby>いつやのある、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。こがね。
+  - こがね<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+  - おかね。
+  - 「<span class="dic_sansyogogi">1)</span>」のように、だいじな。りっぱな。
+  - かなもの。
+  - <ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>金曜日</rb><rt>きんようび</rt></ruby>。
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+- word: ランキング
+  descriptions:
+  - <ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。
+- word: 決勝
+  descriptions:
+  - <ruby><rb>最後</rb><rt>さいご</rt></ruby>の<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>めること。
+  - <ruby><rb>第</rb><rt>だい</rt></ruby><ruby><rb>一位</rb><rt>いちい</rt></ruby>のものを<ruby><rb>決</rb><rt>き</rt></ruby>めること。
+web_news_url: /news/web/2017/04/16/卓球アジア選手権-平野が日本勢21年ぶりの優勝/
+source_url: http://www3.nhk.or.jp/news/easy/k10010949851000/k10010949851000.html
+...
