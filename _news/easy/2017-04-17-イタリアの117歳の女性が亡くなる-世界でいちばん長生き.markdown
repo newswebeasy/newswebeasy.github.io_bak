@@ -1,0 +1,37 @@
+---
+layout: easy_news
+categories: easy
+title: イタリアの117歳の女性が亡くなる-世界でいちばん長生き
+title_with_ruby: イタリアの１１７<ruby>歳<rt>さい</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる　<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>長生<rt>ながい</rt></ruby>き
+last_modified_at: '2017-04-17T16:00:00+09:00'
+datetime: 2017年04月17日 16時00分
+description: １５日にち、１８９９年ねんに生うまれたイタリアの女性じょせい、エマ・モラーノさんが１１７歳さいで亡なくなりました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/17/k10010950161000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/17/k10010950161000.mp3
+contents: "<p>１５<ruby>日<rt>にち</rt></ruby>、１８９９<ruby>年<rt>ねん</rt></ruby>に<ruby>生<rt>う</rt></ruby>まれたイタリアの<ruby>女性<rt>じょせい</rt></ruby>、エマ・モラーノさんが１１７<ruby>歳<rt>さい</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなりました。<ruby>世界<rt>せかい</rt></ruby>でいちばん<span\
+  \ style=\"color: blue;\"><ruby>長生<rt>ながい</rt></ruby>き</span>で、１８００<span style=\"\
+  color: blue;\"><ruby>年代<rt>ねんだい</rt></ruby></span>に<ruby>生<rt>う</rt></ruby>まれた<ruby>人<rt>ひと</rt></ruby>はもうモラーノさんだけだと<ruby>言<rt>い</rt></ruby>われていました。</p>\n\
+  <p>モラーノさんは、イタリアのベルバニアに<ruby>住<rt>す</rt></ruby>んでいました。<ruby>若<rt>わか</rt></ruby>いころ、<ruby>小<rt>ちい</rt></ruby>さい<ruby>息子<rt>むすこ</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなったり、<ruby>夫<rt>おっと</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>乱暴<rt>らんぼう</rt></ruby></span>したりして<ruby>悲<rt>かな</rt></ruby>しいことがありましたが、<ruby>明<rt>あか</rt></ruby>るい<ruby>人<rt>ひと</rt></ruby>でした。</p>\n\
+  <p>モラーノさんは、<ruby>医者<rt>いしゃ</rt></ruby>に<ruby>言<rt>い</rt></ruby>われて<ruby>子<rt>こ</rt></ruby>どものころからずっと<ruby>毎日<rt>まいにち</rt></ruby>３<ruby>個<rt>こ</rt></ruby>の<ruby>卵<rt>たまご</rt></ruby>を<ruby>食<rt>た</rt></ruby>べていました。これが<ruby>大<rt>おお</rt></ruby>きな<ruby>病気<rt>びょうき</rt></ruby>をしなかった<ruby>理由<rt>りゆう</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っていました。</p>\n\
+  <p>モラーノさんの<ruby>世話<rt>せわ</rt></ruby>をした<ruby>人<rt>ひと</rt></ruby>は「<ruby>年<rt>とし</rt></ruby>をとってもいろいろなことを<ruby>忘<rt>わす</rt></ruby>れない<ruby>人<rt>ひと</rt></ruby>でした」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>次<rt>つぎ</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby>でいちばん<span style=\"color:\
+  \ blue;\"><ruby>長生<rt>ながい</rt></ruby>き</span>の<ruby>人<rt>ひと</rt></ruby>は、１９００<ruby>年<rt>ねん</rt></ruby>に<ruby>生<rt>う</rt></ruby>まれたジャマイカの<ruby>女性<rt>じょせい</rt></ruby>だと<ruby>言<rt>い</rt></ruby>われています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 長生き
+  descriptions:
+  - <ruby><rb>長</rb><rt>なが</rt></ruby>く<ruby><rb>生</rb><rt>い</rt></ruby>きること。<ruby><rb>長命</rb><rt>ちょうめい</rt></ruby>。
+- word: 年代
+  descriptions:
+  - <ruby><rb>過</rb><rt>す</rt></ruby>ぎてきた<ruby><rb>時代</rb><rt>じだい</rt></ruby>。
+  - ひとまとまりにして<ruby><rb>区切</rb><rt>くぎ</rt></ruby>った<ruby><rb>期間</rb><rt>きかん</rt></ruby>。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>年</rb><rt>とし</rt></ruby>ごろの<ruby><rb>人</rb><rt>ひと</rt></ruby>たち。<ruby><rb>世代</rb><rt>せだい</rt></ruby>。
+- word: 乱暴
+  descriptions:
+  - あらあらしい<ruby><rb>行</rb><rt>おこな</rt></ruby>いをすること。
+  - むちゃなこと。
+  - ていねいでないこと。
+web_news_url: /news/web/2017/04/16/世界最高齢117歳のイタリア人女性が死去/
+source_url: http://www3.nhk.or.jp/news/easy/k10010950161000/k10010950161000.html
+...
