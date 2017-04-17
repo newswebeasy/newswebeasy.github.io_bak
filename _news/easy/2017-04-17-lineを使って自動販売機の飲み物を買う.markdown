@@ -1,0 +1,45 @@
+---
+layout: easy_news
+categories: easy
+title: lineを使って自動販売機の飲み物を買う
+title_with_ruby: 「ＬＩＮＥ」を<ruby>使<rt>つか</rt></ruby>って<ruby>自動販売機<rt>じどうはんばいき</rt></ruby>の<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>を<ruby>買<rt>か</rt></ruby>う
+last_modified_at: '2017-04-17T11:30:00+09:00'
+datetime: 2017年04月17日 11時30分
+description: 飲のみ物ものの会社かいしゃのキリングループは、スマートフォンの「ＬＩＮＥ」というアプリを使つかって飲のみ物ものを買かう新あたらしい自動販売機じどうはんばいきを作つくりました。
+image_url: https://newswebeasy.github.io/ja/news/easy/image/2017/04/17/k10010947461000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/17/k10010947461000.mp3
+contents: "<p><ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>のキリングループは、スマートフォンの「ＬＩＮＥ」というアプリを<ruby>使<rt>つか</rt></ruby>って<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>を<ruby>買<rt>か</rt></ruby>う<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>りました。ＬＩＮＥは<span\
+  \ style=\"color: blue;\">メッセージ</span>を<ruby>送<rt>おく</rt></ruby>ったりできるアプリで、６６００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>が<ruby>利用<rt>りよう</rt></ruby>しています。</p>\n\
+  <p><ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>を<ruby>買<rt>か</rt></ruby>うときは、このアプリを<ruby>開<rt>ひら</rt></ruby>いて<span\
+  \ style=\"color: blue;\"><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></span>の<ruby>前<rt>まえ</rt></ruby>にスマートフォンを<ruby>出<rt>だ</rt></ruby>します。お<ruby>金<rt>かね</rt></ruby>はＬＩＮＥの<span\
+  \ style=\"color: blue;\">サービス</span>を<ruby>使<rt>つか</rt></ruby>って<ruby>払<rt>はら</rt></ruby>います。<ruby>買<rt>か</rt></ruby>ったあとにもらう<span\
+  \ style=\"color: blue;\">ポイント</span>を<ruby>集<rt>あつ</rt></ruby>めると、<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>の<span\
+  \ style=\"color: blue;\">チケット</span>をもらうことができます。</p>\n<p>キリングループは、これから１<ruby>年<rt>ねん</rt></ruby>でこの<span\
+  \ style=\"color: blue;\"><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></span>を２<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby><ruby>置<rt>お</rt></ruby>きたいと<ruby>言<rt>い</rt></ruby>っています。ＬＩＮＥを<ruby>使<rt>つか</rt></ruby>っている<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>にたくさん<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>を<ruby>買<rt>か</rt></ruby>ってほしいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p>ほかの<ruby>会社<rt>かいしゃ</rt></ruby>も、<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>をたくさん<ruby>売<rt>う</rt></ruby>るためにスマートフォンを<ruby>使<rt>つか</rt></ruby>った<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\">サービス</span>を<ruby>考<rt>かんが</rt></ruby>えています。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 自動販売機
+  descriptions:
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れると、<ruby><rb>自動的</rb><rt>じどうてき</rt></ruby>に<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: メッセージ
+  descriptions:
+  - <ruby><rb>伝言</rb><rt>でんごん</rt></ruby>。
+  - <ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>のことば。<ruby><rb>声明文</rb><rt>せいめいぶん</rt></ruby>。
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: ポイント
+  descriptions:
+  - <ruby><rb>点</rb><rt>てん</rt></ruby>。<ruby><rb>要点</rb><rt>ようてん</rt></ruby>。
+  - <ruby><rb>得点</rb><rt>とくてん</rt></ruby>。<ruby><rb>点数</rb><rt>てんすう</rt></ruby>。
+  - <ruby><rb>線路</rb><rt>せんろ</rt></ruby>の<ruby><rb>分</rb><rt>わ</rt></ruby>かれ<ruby><rb>目</rb><rt>め</rt></ruby>で、<ruby><rb>車両</rb><rt>しゃりょう</rt></ruby>を<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れかえる<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>転</rb><rt>てん</rt></ruby>てつ<ruby><rb>機</rb><rt>き</rt></ruby>。
+- word: チケット
+  descriptions:
+  - きっぷ。<ruby><rb>券</rb><rt>けん</rt></ruby>。<ruby><rb>入場券</rb><rt>にゅうじょうけん</rt></ruby>・<ruby><rb>乗車券</rb><rt>じょうしゃけん</rt></ruby>・<ruby><rb>食券</rb><rt>しょっけん</rt></ruby>など。
+web_news_url: /news/web/2017/04/13/キリンとlineが新型自販機開発-スマホで飲み物購入/
+source_url: http://www3.nhk.or.jp/news/easy/k10010947461000/k10010947461000.html
+...

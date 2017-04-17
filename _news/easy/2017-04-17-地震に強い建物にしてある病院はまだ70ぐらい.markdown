@@ -1,0 +1,35 @@
+---
+layout: easy_news
+categories: easy
+title: 地震に強い建物にしてある病院はまだ70ぐらい
+title_with_ruby: <ruby>地震<rt>じしん</rt></ruby>に<ruby>強<rt>つよ</rt></ruby>い<ruby>建物<rt>たてもの</rt></ruby>にしてある<ruby>病院<rt>びょういん</rt></ruby>はまだ７０％ぐらい
+last_modified_at: '2017-04-17T11:30:00+09:00'
+datetime: 2017年04月17日 11時30分
+description: 厚生労働省こうせいろうどうしょうによると、日本にっぽんにある８４６０ぐらいの病院びょういんの中なかで、地震じしんに強つよい建物たてものにしてある病院びょういんは６０５０です。
+image_url: https://newswebeasy.github.io/ja/news/easy/image/2017/04/17/k10010947781000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/17/k10010947781000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>によると、<ruby>日本<rt>にっぽん</rt></ruby>にある８４６０ぐらいの<ruby>病院<rt>びょういん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>地震<rt>じしん</rt></ruby>に<ruby>強<rt>つよ</rt></ruby>い<ruby>建物<rt>たてもの</rt></ruby>にしてある<ruby>病院<rt>びょういん</rt></ruby>は６０５０です。まだ７１．５％です。<ruby>建物<rt>たてもの</rt></ruby>が<ruby>古<rt>ふる</rt></ruby>いのに、<ruby>強<rt>つよ</rt></ruby>さを<ruby>調<rt>しら</rt></ruby>べていない<ruby>病院<rt>びょういん</rt></ruby>は１５７０ぐらいあります。</p>\n\
+  <p>１<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>熊本県<rt>くまもとけん</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>があったとき、１５の<ruby>病院<rt>びょういん</rt></ruby>で<ruby>建物<rt>たてもの</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れる<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>くなりました。<ruby>危<rt>あぶ</rt></ruby>ないため、<ruby>入院<rt>にゅういん</rt></ruby>していた１６００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が、<ruby>病院<rt>びょういん</rt></ruby>を<ruby>出<rt>で</rt></ruby>たりほかの<ruby>病院<rt>びょういん</rt></ruby>に<ruby>移<rt>うつ</rt></ruby>ったりしなければなりませんでした。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>は、お<ruby>金<rt>かね</rt></ruby>がたくさんかかることなどが<ruby>理由<rt>りゆう</rt></ruby>で、<ruby>建物<rt>たてもの</rt></ruby>を<ruby>地震<rt>じしん</rt></ruby>に<ruby>強<rt>つよ</rt></ruby>くする<span\
+  \ style=\"color: blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>をしていない<ruby>病院<rt>びょういん</rt></ruby>があると<ruby>考<rt>かんが</rt></ruby>えています。このため、<span\
+  \ style=\"color: blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>に<ruby>必要<rt>ひつよう</rt></ruby>なお<ruby>金<rt>かね</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>一部<rt>いちぶ</rt></ruby></span>が<ruby>国<rt>くに</rt></ruby>から<ruby>出<rt>で</rt></ruby>ることを<ruby>説明<rt>せつめい</rt></ruby>して、<ruby>強<rt>つよ</rt></ruby>い<ruby>建物<rt>たてもの</rt></ruby>に<ruby>早<rt>はや</rt></ruby>くするように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 厚生労働省
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 工事
+  descriptions:
+  - <ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。
+- word: 一部
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+web_news_url: /news/web/2017/04/14/全国の病院の約3割-耐震性不十分か診断せず/
+source_url: http://www3.nhk.or.jp/news/easy/k10010947781000/k10010947781000.html
+...
