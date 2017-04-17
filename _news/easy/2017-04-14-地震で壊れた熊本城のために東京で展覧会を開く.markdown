@@ -1,0 +1,51 @@
+---
+layout: easy_news
+categories: easy
+title: 地震で壊れた熊本城のために東京で展覧会を開く
+title_with_ruby: <ruby>地震<rt>じしん</rt></ruby>で<ruby>壊<rt>こわ</rt></ruby>れた<ruby>熊本城<rt>くまもとじょう</rt></ruby>のために<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>展覧会<rt>てんらんかい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>く
+last_modified_at: '2017-04-14T11:30:00+09:00'
+datetime: 2017年04月14日 11時30分
+description: １年ねん前まえ熊本県くまもとけんで大おおきな地震じしんがありました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/14/k10010945971000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/14/k10010945971000.mp3
+contents: "<p>１<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby><ruby>熊本県<rt>くまもとけん</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>がありました。<ruby>有名<rt>ゆうめい</rt></ruby>な<span\
+  \ style=\"color: blue;\"><ruby>城<rt>しろ</rt></ruby></span>の<ruby>熊本城<rt>くまもとじょう</rt></ruby>はこの<ruby>地震<rt>じしん</rt></ruby>で<ruby>壊<rt>こわ</rt></ruby>れて、<ruby>今<rt>いま</rt></ruby>も<ruby>直<rt>なお</rt></ruby>しています。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>日本橋<rt>にほんばし</rt></ruby>にあるデパートでは、<ruby>２４日<rt>にじゅうよっか</rt></ruby>まで<ruby>熊本城<rt>くまもとじょう</rt></ruby>の<ruby>展覧会<rt>てんらんかい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いています。<ruby>展覧会<rt>てんらんかい</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>払<rt>はら</rt></ruby>ったお<ruby>金<rt>かね</rt></ruby>は、<ruby>全部<rt>ぜんぶ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>城<rt>しろ</rt></ruby></span>を<ruby>直<rt>なお</rt></ruby>すために<ruby>使<rt>つか</rt></ruby>います。</p>\n\
+  <p><ruby>会場<rt>かいじょう</rt></ruby>には、<ruby>熊本城<rt>くまもとじょう</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>があるいろいろな<ruby>物<rt>もの</rt></ruby>が７０ぐらい<ruby>並<rt>なら</rt></ruby>んでいます。\n\
+  ４００<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>に<ruby>熊本城<rt>くまもとじょう</rt></ruby>を<ruby>建<rt>た</rt></ruby>てた<ruby>加藤<rt>かとう</rt></ruby><ruby>清正<rt>きよまさ</rt></ruby>が<ruby>使<rt>つか</rt></ruby>っていた<ruby>立派<rt>りっぱ</rt></ruby>な<span\
+  \ style=\"color: blue;\">よろい</span>と<span style=\"color: blue;\">かぶと</span>もあります。１４０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>熊本城<rt>くまもとじょう</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>戦<rt>たたか</rt></ruby>い</span>があったときの<span style=\"\
+  color: blue;\"><ruby>様子<rt>ようす</rt></ruby></span>をかいた<span style=\"color: blue;\"\
+  ><ruby>版画<rt>はんが</rt></ruby></span>もあります。</p>\n<p><ruby>熊本県<rt>くまもとけん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>知事<rt>ちじ</rt></ruby></span>は<ruby>会場<rt>かいじょう</rt></ruby>で「<ruby>皆<rt>みな</rt></ruby>さん、ありがとうございます。<ruby>頑張<rt>がんば</rt></ruby>って<ruby>熊本城<rt>くまもとじょう</rt></ruby>を<ruby>早<rt>はや</rt></ruby>く<ruby>直<rt>なお</rt></ruby>したいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 城
+  descriptions:
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>、<ruby><rb>大名</rb><rt>だいみょう</rt></ruby>などが、<ruby><rb>敵</rb><rt>てき</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>大</rb><rt>おお</rt></ruby>がかりな<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+- word: よろい
+  descriptions:
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>、いくさのとき、<ruby><rb>刀</rb><rt>かたな</rt></ruby>や<ruby><rb>矢</rb><rt>や</rt></ruby>から<ruby><rb>身</rb><rt>み</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>着</rb><rt>き</rt></ruby>たもの。
+- word: かぶと
+  descriptions:
+  - <ruby><rb>武士</rb><rt>ぶし</rt></ruby>が<ruby><rb>戦</rb><rt>たたか</rt></ruby>いのときに<ruby><rb>頭</rb><rt>あたま</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るためにかぶったもの。
+- word: 戦い
+  descriptions:
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>うこと。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。<ruby><rb>争</rb><rt>あらそ</rt></ruby>い。
+  - <ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 様子
+  descriptions:
+  - ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。
+  - <ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。
+  - そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。
+  - わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。
+- word: 版画
+  descriptions:
+  - <ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>銅</rb><rt>どう</rt></ruby>・<ruby><rb>石</rb><rt>いし</rt></ruby>などの<ruby><rb>板</rb><rt>いた</rt></ruby>に<ruby><rb>絵</rb><rt>え</rt></ruby>をほり、インクや<ruby><rb>絵</rb><rt>え</rt></ruby>の<ruby><rb>具</rb><rt>ぐ</rt></ruby>などをつけて、それを<ruby><rb>紙</rb><rt>かみ</rt></ruby>にうつした<ruby><rb>絵</rb><rt>え</rt></ruby>。
+- word: 知事
+  descriptions:
+  - <ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+web_news_url: /news/web/2017/04/12/熊本城の修復支援で展覧会-東京-日本橋/
+source_url: http://www3.nhk.or.jp/news/easy/k10010945971000/k10010945971000.html
+...
