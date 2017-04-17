@@ -175,10 +175,6 @@ a {
     min-height: 1em
 }
 
-.rich_media_content em {
-    font-style: italic
-}
-
 .rich_media_content fieldset {
     min-width: 0
 }
