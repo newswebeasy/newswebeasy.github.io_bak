@@ -1,0 +1,34 @@
+---
+layout: easy_news
+categories: easy
+title: 熊本県で大きな地震が起こってから1年
+title_with_ruby: <ruby>熊本県<rt>くまもとけん</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>が<ruby>起<rt>お</rt></ruby>こってから１<ruby>年<rt>ねん</rt></ruby>
+last_modified_at: '2017-04-14T16:20:00+09:00'
+datetime: 2017年04月14日 16時20分
+description: 去年きょねんの４月がつに熊本県くまもとけんで大おおきな地震じしんがありました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/14/k10010947851000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/14/k10010947851000.mp3
+contents: "<p><ruby>去年<rt>きょねん</rt></ruby>の４<ruby>月<rt>がつ</rt></ruby>に<ruby>熊本県<rt>くまもとけん</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>がありました。<ruby>地震<rt>じしん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こっ</span>てから１<ruby>年<rt>ねん</rt></ruby>になる<ruby>１４日<rt>じゅうよっか</rt></ruby>、<ruby>熊本県庁<rt>くまもとけんちょう</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>のために<ruby>祈<rt>いの</rt></ruby>る<ruby>式<rt>しき</rt></ruby>がありました。<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>など、<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>３６０<ruby>人<rt>にん</rt></ruby>が<ruby>出席<rt>しゅっせき</rt></ruby>しました。</p>\n\
+  <p>この<ruby>地震<rt>じしん</rt></ruby>では５０<ruby>人<rt>にん</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れた<ruby>建物<rt>たてもの</rt></ruby>の<ruby>下<rt>した</rt></ruby>になったりして<ruby>亡<rt>な</rt></ruby>くなりました。<span\
+  \ style=\"color: blue;\"><ruby>避難<rt>ひなん</rt></ruby></span>したあと<ruby>体<rt>からだ</rt></ruby>の<ruby>具合<rt>ぐあい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなったりして<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>も、４<ruby>月<rt>がつ</rt></ruby>１３<ruby>日<rt>にち</rt></ruby>までに１６９<ruby>人<rt>にん</rt></ruby>います。</p>\n\
+  <p><ruby>地震<rt>じしん</rt></ruby>で<ruby>壊<rt>こわ</rt></ruby>れた<ruby>家<rt>いえ</rt></ruby>は２０<ruby>万<rt>まん</rt></ruby><ruby>軒<rt>けん</rt></ruby>ありました。<ruby>熊本県<rt>くまもとけん</rt></ruby>などは、<ruby>家<rt>いえ</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れた<ruby>人<rt>ひと</rt></ruby>などがしばらく<ruby>住<rt>す</rt></ruby>む<ruby>仮設<rt>かせつ</rt></ruby><ruby>住宅<rt>じゅうたく</rt></ruby>を<ruby>建<rt>た</rt></ruby>てたり、アパートを<ruby>借<rt>か</rt></ruby>りたりしています。<ruby>仮設<rt>かせつ</rt></ruby><ruby>住宅<rt>じゅうたく</rt></ruby>などで<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けている<ruby>人<rt>ひと</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>も４<ruby>万<rt>まん</rt></ruby>７０００<ruby>人<rt>にん</rt></ruby>ぐらいいます。</p>\n\
+  <p><ruby>益城<rt>ましき</rt></ruby><ruby>町<rt>まち</rt></ruby>にある<ruby>仮設<rt>かせつ</rt></ruby><ruby>住宅<rt>じゅうたく</rt></ruby>では<ruby>先月<rt>せんげつ</rt></ruby>、６１<ruby>歳<rt>さい</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>が<ruby>１人<rt>ひとり</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなっているのが<ruby>見<rt>み</rt></ruby>つかりました。<ruby>県<rt>けん</rt></ruby>や<ruby>町<rt>まち</rt></ruby>などは、<ruby>仮設<rt>かせつ</rt></ruby><ruby>住宅<rt>じゅうたく</rt></ruby>などに<ruby>１人<rt>ひとり</rt></ruby>で<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>に<ruby>会<rt>あ</rt></ruby>いに<ruby>行<rt>い</rt></ruby>って、<ruby>元気<rt>げんき</rt></ruby>かどうか<ruby>聞<rt>き</rt></ruby>いたりしています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 起こる
+  descriptions:
+  - <ruby><rb>始</rb><rt>はじ</rt></ruby>まる。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 避難
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。
+web_news_url: /news/web/2017/04/14/熊本地震-きょうで1年-生活環境向上が課題に/
+source_url: http://www3.nhk.or.jp/news/easy/k10010947851000/k10010947851000.html
+...
