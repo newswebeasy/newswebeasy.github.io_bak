@@ -1,0 +1,58 @@
+---
+layout: easy_news
+categories: easy
+title: インドの学校で日本のようにチームで楽しむ運動会を開く
+title_with_ruby: インドの<ruby>学校<rt>がっこう</rt></ruby>で<ruby>日本<rt>にっぽん</rt></ruby>のようにチームで<ruby>楽<rt>たの</rt></ruby>しむ<ruby>運動会<rt>うんどうかい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>く
+last_modified_at: '2017-04-18T11:30:00+09:00'
+datetime: 2017年04月18日 11時30分
+description: 日本にっぽんの学校がっこうでは、綱引つなひきや大勢おおぜいでする大おお縄跳なわとびなど、チームで競技きょうぎを楽たのしむ「運動会うんどうかい」を行おこなっています。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/18/k10010949791000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/18/k10010949791000.mp3
+contents: "<p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>学校<rt>がっこう</rt></ruby>では、<span style=\"\
+  color: blue;\"><ruby>綱引<rt>つなひ</rt></ruby>き</span>や<ruby>大勢<rt>おおぜい</rt></ruby>でする<ruby>大<rt>おお</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>縄跳<rt>なわと</rt></ruby>び</span>など、<span style=\"color:\
+  \ blue;\">チーム</span>で<span style=\"color: blue;\"><ruby>競技<rt>きょうぎ</rt></ruby></span>を<ruby>楽<rt>たの</rt></ruby>しむ「<ruby>運動会<rt>うんどうかい</rt></ruby>」を<ruby>行<rt>おこな</rt></ruby>っています。インドの<ruby>学校<rt>がっこう</rt></ruby>で１５<ruby>日<rt>にち</rt></ruby>、このような<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>運動会<rt>うんどうかい</rt></ruby>がありました。</p>\n\
+  <p>インドの<ruby>人<rt>ひと</rt></ruby>たちに、<ruby>誰<rt>だれ</rt></ruby>でも<ruby>楽<rt>たの</rt></ruby>しむことができて、<span\
+  \ style=\"color: blue;\">チームワーク</span>の<ruby>大切<rt>たいせつ</rt></ruby>さがわかる<ruby>運動会<rt>うんどうかい</rt></ruby>を<ruby>知<rt>し</rt></ruby>ってほしいと<ruby>考<rt>かんが</rt></ruby>えて、<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\">ＮＰＯ</span>が<ruby>開<rt>ひら</rt></ruby>きました。ニューデリーの<ruby>学校<rt>がっこう</rt></ruby>には、<span\
+  \ style=\"color: blue;\"><ruby>小学生<rt>しょうがくせい</rt></ruby></span>から<ruby>高校生<rt>こうこうせい</rt></ruby>まで１４００<ruby>人<rt>にん</rt></ruby>ぐらいが<ruby>集<rt>あつ</rt></ruby>まりました。</p>\n\
+  <p><ruby>大<rt>おお</rt></ruby><span style=\"color: blue;\"><ruby>縄跳<rt>なわと</rt></ruby>び</span>は、<ruby>初<rt>はじ</rt></ruby>めてする<ruby>子<rt>こ</rt></ruby>どもが<ruby>多<rt>おお</rt></ruby>くて、ほとんどの<span\
+  \ style=\"color: blue;\">チーム</span>が１<ruby>回<rt>かい</rt></ruby>も<span style=\"color:\
+  \ blue;\"><ruby>跳<rt>と</rt></ruby>ぶ</span>ことができませんでしたが、<ruby>子<rt>こ</rt></ruby>どもたちは<ruby>楽<rt>たの</rt></ruby>しそうでした。<ruby>子<rt>こ</rt></ruby>どもたちは「インドのスポーツ<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>と<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>違<rt>ちが</rt></ruby>う<span\
+  \ style=\"color: blue;\"><ruby>競技<rt>きょうぎ</rt></ruby></span>が<ruby>多<rt>おお</rt></ruby>くて、とても<ruby>楽<rt>たの</rt></ruby>しかったです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><span style=\"color: blue;\">ＮＰＯ</span>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>運動会<rt>うんどうかい</rt></ruby>のすばらしさをインドの<ruby>人<rt>ひと</rt></ruby>たちにもっと<ruby>知<rt>し</rt></ruby>ってほしいので、ほかの<ruby>学校<rt>がっこう</rt></ruby>でも<ruby>開<rt>ひら</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 綱引き
+  descriptions:
+  - <ruby><rb>一本</rb><rt>いっぽん</rt></ruby>の<ruby><rb>綱</rb><rt>つな</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>合</rb><rt>あ</rt></ruby>って、<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>比</rb><rt>くら</rt></ruby>べる<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+- word: 縄飛び
+  descriptions:
+  - <ruby><rb>縄</rb><rt>なわ</rt></ruby>を<ruby><rb>回</rb><rt>まわ</rt></ruby>して<ruby><rb>飛</rb><rt>と</rt></ruby>んだり、<ruby><rb>張</rb><rt>は</rt></ruby>った<ruby><rb>縄</rb><rt>なわ</rt></ruby>を<ruby><rb>飛</rb><rt>と</rt></ruby>びこしたりする<ruby><rb>遊</rb><rt>あそ</rt></ruby>び。
+- word: 競技
+  descriptions:
+  - わざや<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>を、<ruby><rb>比</rb><rt>くら</rt></ruby>べ<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>特</rb><rt>とく</rt></ruby>にスポーツで、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>うこと。
+- word: チームワーク
+  descriptions:
+  - チームの<ruby><rb>人</rb><rt>ひと</rt></ruby>たちがまとまってする<ruby><rb>動作</rb><rt>どうさ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、チームのまとまりぐあい。
+- word: NPO
+  descriptions:
+  - <ruby><rb>営利</rb><rt>えいり</rt></ruby>を<ruby><rb>目的</rb><rt>もくてき</rt></ruby>とせずに<ruby><rb>社会的</rb><rt>しゃかいてき</rt></ruby>な<ruby><rb>活動</rb><rt>かつどう</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+- word: 小学生
+  descriptions:
+  - <ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>に<ruby><rb>通</rb><rt>かよ</rt></ruby>っている<ruby><rb>子</rb><rt>こ</rt></ruby>ども。
+- word: 跳ぶ
+  descriptions:
+  - とびこえる。
+  - はねる。
+- word: 大会
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+  - ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+web_news_url: /news/web/2017/04/15/インドの学校で日本式の運動会/
+source_url: http://www3.nhk.or.jp/news/easy/k10010949791000/k10010949791000.html
+...
