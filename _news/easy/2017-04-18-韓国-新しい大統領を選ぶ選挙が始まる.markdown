@@ -1,0 +1,61 @@
+---
+layout: easy_news
+categories: easy
+title: 韓国-新しい大統領を選ぶ選挙が始まる
+title_with_ruby: <ruby>韓国<rt>かんこく</rt></ruby>　<ruby>新<rt>あたら</rt></ruby>しい<ruby>大統領<rt>だいとうりょう</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ<ruby>選挙<rt>せんきょ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+last_modified_at: '2017-04-18T15:45:00+09:00'
+datetime: 2017年04月18日 15時45分
+description: 韓国かんこくの前まえの大統領だいとうりょうだったパク・クネさんは、サムスングループからお金かねをもらった疑うたがいなどで辞やめさせられました。
+image_url: https://newswebeasy.github.io/ja/news/easy/image/2017/04/18/k10010951071000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/18/k10010951071000.mp3
+contents: "<p><ruby>韓国<rt>かんこく</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>だったパク・クネさんは、サムスングループからお<ruby>金<rt>かね</rt></ruby>をもらった<span\
+  \ style=\"color: blue;\"><ruby>疑<rt>うたが</rt></ruby>い</span>などで<span style=\"color:\
+  \ blue;\"><ruby>辞<rt>や</rt></ruby>め</span>させられました。<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>を<ruby>選<rt>えら</rt></ruby>ぶ<span\
+  \ style=\"color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>が１７<ruby>日<rt>にち</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まって、１５<ruby>人<rt>にん</rt></ruby>が<ruby>出<rt>で</rt></ruby>ました。</p>\n\
+  <p><ruby>最近<rt>さいきん</rt></ruby>の<span style=\"color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span>では、「<ruby>共<rt>とも</rt></ruby>に<ruby>民主党<rt>みんしゅとう</rt></ruby>」のムン・ジェインさんを<ruby>選<rt>えら</rt></ruby>ぶという<ruby>人<rt>ひと</rt></ruby>が４０％、「<ruby>国民<rt>こくみん</rt></ruby>の<ruby>党<rt>とう</rt></ruby>」のアン・チョルスさんが３７％でした。この<ruby>２人<rt>ふたり</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>くなっています。</p>\n\
+  <p><ruby>２人<rt>ふたり</rt></ruby>は、どうやって<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>に<span style=\"\
+  color: blue;\"><ruby>核兵器<rt>かくへいき</rt></ruby></span>などを<ruby>作<rt>つく</rt></ruby>ることをやめさせるかや、<ruby>国<rt>くに</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>る</span><ruby>問題<rt>もんだい</rt></ruby>などについて<ruby>自分<rt>じぶん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>考<rt>かんが</rt></ruby>え</span>を<span style=\"color:\
+  \ blue;\"><ruby>国民<rt>こくみん</rt></ruby></span>に<ruby>伝<rt>つた</rt></ruby>えています。</p>\n\
+  <p><ruby>韓国<rt>かんこく</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<span style=\"color:\
+  \ blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は５<ruby>月<rt>がつ</rt></ruby><ruby>９日<rt>ここのか</rt></ruby>に<ruby>決<rt>き</rt></ruby>まります。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 選挙
+  descriptions:
+  - ある<ruby><rb>役目</rb><rt>やくめ</rt></ruby>につく<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>選</rb><rt>えら</rt></ruby>ぶこと。
+- word: 疑い
+  descriptions:
+  - あやしいと<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>変</rb><rt>へん</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。
+- word: 辞める
+  descriptions:
+  - <ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。
+- word: 調査
+  descriptions:
+  - <ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: 核兵器
+  descriptions:
+  - <ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 考え
+  descriptions:
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えること。また、<ruby><rb>考</rb><rt>かんが</rt></ruby>えた<ruby><rb>内容</rb><rt>ないよう</rt></ruby>。
+- word: 国民
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>国籍</rb><rt>こくせき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。
+web_news_url: /news/web/2017/04/17/韓国大統領選-17日から運動期間入り-事実上2人の争い/
+source_url: http://www3.nhk.or.jp/news/easy/k10010951071000/k10010951071000.html
+...

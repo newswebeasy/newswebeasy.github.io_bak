@@ -1,0 +1,41 @@
+---
+layout: easy_news
+categories: easy
+title: aiを使ったアプリで日本語の翻訳もできるようになる
+title_with_ruby: ＡＩを<ruby>使<rt>つか</rt></ruby>ったアプリで<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>翻訳<rt>ほんやく</rt></ruby>もできるようになる
+last_modified_at: '2017-04-18T11:30:00+09:00'
+datetime: 2017年04月18日 11時30分
+description: スマートフォンのアプリでは、日本語にほんごの翻訳ほんやくは難むずかしいと言いわれていました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/18/k10010950731000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/18/k10010950731000.mp3
+contents: "<p>スマートフォンのアプリでは、<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>翻訳<rt>ほんやく</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しいと<ruby>言<rt>い</rt></ruby>われていました。しかし<span\
+  \ style=\"color: blue;\">ＩＴ</span>の<ruby>会社<rt>かいしゃ</rt></ruby>のアプリでは、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>えることができるコンピューターのＡＩの<ruby>技術<rt>ぎじゅつ</rt></ruby>で、<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>翻訳<rt>ほんやく</rt></ruby>もできるようになりました。</p>\n\
+  <p>マイクロソフトのアプリは、<ruby>例<rt>たと</rt></ruby>えば<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>話<rt>はな</rt></ruby>すと、ＡＩが<ruby>英語<rt>えいご</rt></ruby>などに<ruby>翻訳<rt>ほんやく</rt></ruby>して、<span\
+  \ style=\"color: blue;\"><ruby>相手<rt>あいて</rt></ruby></span>のスマートフォンに<span style=\"\
+  color: blue;\"><ruby>文字<rt>もじ</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>します。アプリは<span\
+  \ style=\"color: blue;\"><ruby>無料<rt>むりょう</rt></ruby></span>で、<ruby>英語<rt>えいご</rt></ruby>のほかに<ruby>中国語<rt>ちゅうごくご</rt></ruby>やアラビア<ruby>語<rt>ご</rt></ruby>など、<ruby>全部<rt>ぜんぶ</rt></ruby>で１０のことばの<ruby>翻訳<rt>ほんやく</rt></ruby>ができます。<ruby>翻訳<rt>ほんやく</rt></ruby>したことばの<ruby>音<rt>おと</rt></ruby>も<ruby>出<rt>で</rt></ruby>るため、いろいろな<ruby>国<rt>くに</rt></ruby>のことばを<ruby>話<rt>はな</rt></ruby>す<ruby>人<rt>ひと</rt></ruby>たちと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>会話<rt>かいわ</rt></ruby>ができます。</p>\n\
+  <p>グーグルのアプリでは、<ruby>町<rt>まち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>地図<rt>ちず</rt></ruby>やレストランの<span\
+  \ style=\"color: blue;\">メニュー</span>などの<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>日本語<rt>にほんご</rt></ruby>をカメラで<ruby>写<rt>うつ</rt></ruby>すと、すぐ<ruby>翻訳<rt>ほんやく</rt></ruby>できるようになりました。アプリは<span\
+  \ style=\"color: blue;\"><ruby>無料<rt>むりょう</rt></ruby></span>で、グーグルは、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>にたくさん<ruby>使<rt>つか</rt></ruby>ってほしいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: IT
+  descriptions:
+  - コンピューターを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>とした<ruby><rb>情報技術</rb><rt>じょうほうぎじゅつ</rt></ruby>。
+- word: 相手
+  descriptions:
+  - ものごとをいっしょにするときのもう<ruby><rb>一方</rb><rt>いっぽう</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>ったりするときの、もう<ruby><rb>一方</rb><rt>いっぽう</rt></ruby>の<ruby><rb>側</rb><rt>がわ</rt></ruby>。
+- word: 文字
+  descriptions:
+  - ことばを<ruby><rb>書</rb><rt>か</rt></ruby>き<ruby><rb>表</rb><rt>あらわ</rt></ruby>すための<ruby><rb>記号</rb><rt>きごう</rt></ruby>。もんじ。<ruby><rb>字</rb><rt>じ</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、かたかな・ひらがな・<ruby><rb>漢字</rb><rt>かんじ</rt></ruby>・アルファベットや<ruby><rb>数字</rb><rt>すうじ</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+- word: 無料
+  descriptions:
+  - <ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。
+- word: メニュー
+  descriptions:
+  - <ruby><rb>料理</rb><rt>りょうり</rt></ruby>のこんだて。また、それを<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>紙</rb><rt>かみ</rt></ruby>。
+  - <ruby><rb>練習</rb><rt>れんしゅう</rt></ruby>や<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>の<ruby><rb>一覧表</rb><rt>いちらんひょう</rt></ruby>。
+web_news_url: /news/web/2017/04/17/翻訳アプリ-ai活用で急速に進化-日本語への対応進む/
+source_url: http://www3.nhk.or.jp/news/easy/k10010950731000/k10010950731000.html
+...
