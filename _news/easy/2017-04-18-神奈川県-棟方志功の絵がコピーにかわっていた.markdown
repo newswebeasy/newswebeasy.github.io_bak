@@ -1,0 +1,41 @@
+---
+layout: easy_news
+categories: easy
+title: 神奈川県-棟方志功の絵がコピーにかわっていた
+title_with_ruby: <ruby>神奈川県<rt>かながわけん</rt></ruby>　<ruby>棟方<rt>むなかた</rt></ruby><ruby>志功<rt>しこう</rt></ruby>の<ruby>絵<rt>え</rt></ruby>がコピーにかわっていた
+last_modified_at: '2017-04-18T15:45:00+09:00'
+datetime: 2017年04月18日 15時45分
+description: 神奈川県かながわけんは１９７４年ねん、神奈川かながわ県民けんみんホールの幕まくのデザインにするために、世界せかいでも有名ゆうめいな棟方むなかた志功しこうさんがかいた絵えを３００万まん円えんで買かいました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/18/k10010951791000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/18/k10010951791000.mp3
+contents: "<p><ruby>神奈川県<rt>かながわけん</rt></ruby>は１９７４<ruby>年<rt>ねん</rt></ruby>、<ruby>神奈川<rt>かながわ</rt></ruby><ruby>県民<rt>けんみん</rt></ruby>ホールの<span\
+  \ style=\"color: blue;\"><ruby>幕<rt>まく</rt></ruby></span>の<span style=\"color: blue;\"\
+  >デザイン</span>にするために、<ruby>世界<rt>せかい</rt></ruby>でも<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>棟方<rt>むなかた</rt></ruby><ruby>志功<rt>しこう</rt></ruby>さんがかいた<ruby>絵<rt>え</rt></ruby>を３００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>で<ruby>買<rt>か</rt></ruby>いました。この<ruby>絵<rt>え</rt></ruby>は<ruby>縦<rt>たて</rt></ruby>が５０ｃm、<ruby>横<rt>よこ</rt></ruby>が６５ｃmぐらいの<ruby>大<rt>おお</rt></ruby>きさです。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>幕<rt>まく</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>ったあと、<ruby>絵<rt>え</rt></ruby>は<span\
+  \ style=\"color: blue;\">ホール</span>の<span style=\"color: blue;\"><ruby>館長<rt>かんちょう</rt></ruby></span>の<ruby>部屋<rt>へや</rt></ruby>に<ruby>飾<rt>かざ</rt></ruby>ってありました。２０１４<ruby>年<rt>ねん</rt></ruby>に<ruby>鎌倉<rt>かまくら</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>美術館<rt>びじゅつかん</rt></ruby>にこの<ruby>絵<rt>え</rt></ruby>を<ruby>飾<rt>かざ</rt></ruby>ったとき、<ruby>客<rt>きゃく</rt></ruby>からコピーのように<ruby>見<rt>み</rt></ruby>えると<ruby>言<rt>い</rt></ruby>われました。<ruby>美術館<rt>びじゅつかん</rt></ruby>などが<ruby>調<rt>しら</rt></ruby>べると、コピーだとわかりました。<span\
+  \ style=\"color: blue;\">ホール</span>の<ruby>人<rt>ひと</rt></ruby>たちは<ruby>絵<rt>え</rt></ruby>をさがしましたが、<ruby>見<rt>み</rt></ruby>つかりませんでした。</p>\n\
+  <p><ruby>神奈川県<rt>かながわけん</rt></ruby>などは、<ruby>絵<rt>え</rt></ruby>が<ruby>盗<rt>ぬす</rt></ruby>まれたかもしれないと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 幕
+  descriptions:
+  - <ruby><rb>仕切</rb><rt>しき</rt></ruby>りやかざりに<ruby><rb>使</rb><rt>つか</rt></ruby>う、はばの<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>布</rb><rt>ぬの</rt></ruby>。
+  - <ruby><rb>劇</rb><rt>げき</rt></ruby>のひと<ruby><rb>区切</rb><rt>くぎ</rt></ruby>り。
+  - <ruby><rb>場面</rb><rt>ばめん</rt></ruby>。<ruby><rb>場合</rb><rt>ばあい</rt></ruby>。
+  - ものごとの<ruby><rb>終</rb><rt>お</rt></ruby>わり。
+  - すもうで、<ruby><rb>幕内</rb><rt>まくうち</rt></ruby>のこと。
+  - <ruby><rb>幕府</rb><rt>ばくふ</rt></ruby>。
+- word: デザイン
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。
+  - <ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。
+- word: ホール
+  descriptions:
+  - <ruby><rb>大広間</rb><rt>おおひろま</rt></ruby>。
+  - <ruby><rb>会館</rb><rt>かいかん</rt></ruby>。
+- word: 館長
+  descriptions:
+  - <ruby><rb>図書館</rb><rt>としょかん</rt></ruby>・<ruby><rb>博物館</rb><rt>はくぶつかん</rt></ruby>・<ruby><rb>美術館</rb><rt>びじゅつかん</rt></ruby>など、「<ruby><rb>館</rb><rt>かん</rt></ruby>」のつく<ruby><rb>所</rb><rt>ところ</rt></ruby>で、もっとも<ruby><rb>責任</rb><rt>せきにん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+web_news_url: /news/web/2017/04/17/棟方志功から購入の原画がカラーコピーに-神奈川/
+source_url: http://www3.nhk.or.jp/news/easy/k10010951791000/k10010951791000.html
+...
