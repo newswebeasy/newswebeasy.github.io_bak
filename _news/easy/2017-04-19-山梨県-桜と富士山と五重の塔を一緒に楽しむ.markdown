@@ -1,0 +1,33 @@
+---
+layout: easy_news
+categories: easy
+title: 山梨県-桜と富士山と五重の塔を一緒に楽しむ
+title_with_ruby: <ruby>山梨県<rt>やまなしけん</rt></ruby>　<ruby>桜<rt>さくら</rt></ruby>と<ruby>富士山<rt>ふじさん</rt></ruby>と<ruby>五重<rt>ごじゅう</rt></ruby>の<ruby>塔<rt>とう</rt></ruby>を<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>楽<rt>たの</rt></ruby>しむ
+last_modified_at: '2017-04-19T16:25:00+09:00'
+datetime: 2017年04月19日 16時25分
+description: 山梨県やまなしけん富士吉田市ふじよしだしの新倉山浅間公園あらくらやませんげんこうえんには、ソメイヨシノという桜さくらの木きが６５０本ぽんぐらいあって、今いまたくさんの花はなが咲さいています。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/19/k10010953261000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/19/k10010953261000.mp3
+contents: "<p><ruby>山梨県<rt>やまなしけん</rt></ruby><ruby>富士吉田市<rt>ふじよしだし</rt></ruby>の<ruby>新倉山浅間公園<rt>あらくらやませんげんこうえん</rt></ruby>には、ソメイヨシノという<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>の<ruby>木<rt>き</rt></ruby>が６５０<ruby>本<rt>ぽん</rt></ruby>ぐらいあって、<ruby>今<rt>いま</rt></ruby>たくさんの<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いています。</p>\n\
+  <p>この<ruby>公園<rt>こうえん</rt></ruby>では、<span style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>と<span\
+  \ style=\"color: blue;\"><ruby>富士山<rt>ふじさん</rt></ruby></span>と<span style=\"color:\
+  \ blue;\"><ruby>五重<rt>ごじゅう</rt></ruby>の<ruby>塔<rt>とう</rt></ruby></span>の<ruby>建物<rt>たてもの</rt></ruby>を<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>見<rt>み</rt></ruby>ることができます。<ruby>公園<rt>こうえん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちは<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ったりして、<ruby>今<rt>いま</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>だけの<ruby>美<rt>うつく</rt></ruby>しい<ruby>景色<rt>けしき</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しんでいました。</p>\n\
+  <p><ruby>福岡県<rt>ふくおかけん</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>女性<rt>じょせい</rt></ruby>は「すばらしい<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>富士山<rt>ふじさん</rt></ruby></span>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>見<rt>み</rt></ruby>ることができてうれしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>公園<rt>こうえん</rt></ruby>では、４<ruby>月<rt>がつ</rt></ruby>２３<ruby>日<rt>にち</rt></ruby>まで「<ruby>桜<rt>さくら</rt></ruby>まつり」を<ruby>行<rt>おこな</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 桜
+  descriptions:
+  - <ruby><rb>山地</rb><rt>さんち</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>え、<ruby><rb>公園</rb><rt>こうえん</rt></ruby>や<ruby><rb>庭</rb><rt>にわ</rt></ruby>にも<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>木</rb><rt>き</rt></ruby>。ソメイヨシノ・シダレザクラ・ヤマザクラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>春</rb><rt>はる</rt></ruby>、うすもも<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>美</rb><rt>うつく</rt></ruby>しい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の「<ruby><rb>国花</rb><rt>こっか</rt></ruby>」とされる。
+- word: 富士山
+  descriptions:
+  - <ruby><rb>静岡県</rb><rt>しずおかけん</rt></ruby>と<ruby><rb>山梨県</rb><rt>やまなしけん</rt></ruby>の<ruby><rb>境</rb><rt>さかい</rt></ruby>にある、<ruby><rb>日本一</rb><rt>にっぽんいち</rt></ruby><ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>山</rb><rt>やま</rt></ruby>。<ruby><rb>高</rb><rt>たか</rt></ruby>さは三七七六メートル。<ruby><rb>江戸時代</rb><rt>えどじだい</rt></ruby>に<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>噴火</rb><rt>ふんか</rt></ruby>があった。
+- word: 五重の塔
+  descriptions:
+  - <ruby><rb>寺</rb><rt>てら</rt></ruby>にある、<ruby><rb>五階建</rb><rt>ごかいだ</rt></ruby>ての<ruby><rb>塔</rb><rt>とう</rt></ruby>。
+web_news_url: /news/web/2017/04/19/富士山と五重の塔に満開の桜まで絶景を満喫/
+source_url: http://www3.nhk.or.jp/news/easy/k10010953261000/k10010953261000.html
+...
