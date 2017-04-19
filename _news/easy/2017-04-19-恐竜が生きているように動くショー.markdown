@@ -1,0 +1,50 @@
+---
+layout: easy_news
+categories: easy
+title: 恐竜が生きているように動くショー
+title_with_ruby: <ruby>恐竜<rt>きょうりゅう</rt></ruby>が<ruby>生<rt>い</rt></ruby>きているように<ruby>動<rt>うご</rt></ruby>くショー
+last_modified_at: '2017-04-19T11:30:00+09:00'
+datetime: 2017年04月19日 11時30分
+description: 恐竜きょうりゅうが本当ほんとうに生いきているように動うごくショーが、２６日にちから東京とうきょうにある「渋谷しぶやヒカリエ」で始はじまります。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/19/k10010951481000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/19/k10010951481000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>恐竜<rt>きょうりゅう</rt></ruby></span>が<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>生<rt>い</rt></ruby>きているように<ruby>動<rt>うご</rt></ruby>く<span\
+  \ style=\"color: blue;\">ショー</span>が、２６<ruby>日<rt>にち</rt></ruby>から<ruby>東京<rt>とうきょう</rt></ruby>にある「<ruby>渋谷<rt>しぶや</rt></ruby>ヒカリエ」で<ruby>始<rt>はじ</rt></ruby>まります。</p>\n\
+  <p>この<span style=\"color: blue;\">ショー</span>には、<ruby>体<rt>からだ</rt></ruby>の<ruby>長<rt>なが</rt></ruby>さが８ｍのティラノサウルスなど５<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>恐竜<rt>きょうりゅう</rt></ruby></span>が<ruby>全部<rt>ぜんぶ</rt></ruby>で６<span\
+  \ style=\"color: blue;\"><ruby>頭<rt>とう</rt></ruby></span><ruby>出<rt>で</rt></ruby>ます。<span\
+  \ style=\"color: blue;\"><ruby>皮膚<rt>ひふ</rt></ruby></span>などは<ruby>本当<rt>ほんとう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>恐竜<rt>きょうりゅう</rt></ruby></span>のように<ruby>作<rt>つく</rt></ruby>ってあって、<ruby>中<rt>なか</rt></ruby>に<ruby>人<rt>ひと</rt></ruby>が<ruby>入<rt>はい</rt></ruby>って<ruby>生<rt>い</rt></ruby>きているように<ruby>動<rt>うご</rt></ruby>きます。<ruby>今<rt>いま</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>恐竜<rt>きょうりゅう</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>戦<rt>たたか</rt></ruby>う</span>ときの<ruby>動<rt>うご</rt></ruby>き<ruby>方<rt>かた</rt></ruby>などを<ruby>練習<rt>れんしゅう</rt></ruby>しています。</p>\n\
+  <p>この<span style=\"color: blue;\"><ruby>恐竜<rt>きょうりゅう</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>った<ruby>会社<rt>かいしゃ</rt></ruby>は「<ruby>子<rt>こ</rt></ruby>どもも<ruby>大人<rt>おとな</rt></ruby>も、みなさんに<ruby>楽<rt>たの</rt></ruby>しんでほしいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 恐竜
+  descriptions:
+  - <ruby><rb>中生代</rb><rt>ちゅうせいだい</rt></ruby>に<ruby><rb>栄</rb><rt>さか</rt></ruby>えた<ruby><rb>巨大</rb><rt>きょだい</rt></ruby>なは<ruby><rb>虫類</rb><rt>ちゅうるい</rt></ruby>のなかま。<ruby><rb>大</rb><rt>おお</rt></ruby>きなものは<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さ三〇メートル、<ruby><rb>重</rb><rt>おも</rt></ruby>さ五〇トンぐらいあった。<ruby><rb>化石</rb><rt>かせき</rt></ruby>として<ruby><rb>発見</rb><rt>はっけん</rt></ruby>される。
+- word: ショー
+  descriptions:
+  - <ruby><rb>新製品</rb><rt>しんせいひん</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>展示会</rb><rt>てんじかい</rt></ruby>。
+  - <ruby><rb>舞台</rb><rt>ぶたい</rt></ruby>で<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>やおどりなどを<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 頭
+  descriptions:
+  - あたま。
+  - <ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つ<ruby><rb>者</rb><rt>もの</rt></ruby>。
+  - はじめ。
+  - <ruby><rb>辺</rb><rt>あた</rt></ruby>り。<ruby><rb>付近</rb><rt>ふきん</rt></ruby>。
+  - けものを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 皮膚
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>包</rb><rt>つつ</rt></ruby>んでいる<ruby><rb>皮</rb><rt>かわ</rt></ruby>。<ruby><rb>肌</rb><rt>はだ</rt></ruby>。
+- word: 戦う
+  descriptions:
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>をする。
+  - わざを<ruby><rb>比</rb><rt>くら</rt></ruby>べて、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める。
+web_news_url: /news/web/2017/04/17/恐竜ショーを前に稽古公開-さいたま/
+source_url: http://www3.nhk.or.jp/news/easy/k10010951481000/k10010951481000.html
+...
