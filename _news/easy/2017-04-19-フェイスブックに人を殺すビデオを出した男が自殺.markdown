@@ -1,0 +1,56 @@
+---
+layout: easy_news
+categories: easy
+title: フェイスブックに人を殺すビデオを出した男が自殺
+title_with_ruby: フェイスブックに<ruby>人<rt>ひと</rt></ruby>を<ruby>殺<rt>ころ</rt></ruby>すビデオを<ruby>出<rt>だ</rt></ruby>した<ruby>男<rt>おとこ</rt></ruby>が<ruby>自殺<rt>じさつ</rt></ruby>
+last_modified_at: '2017-04-19T16:25:00+09:00'
+datetime: 2017年04月19日 16時25分
+description: アメリカのオハイオ州しゅうで１６日にち、３７歳さいの男おとこが７４歳さいの男性だんせいを銃じゅうで撃うって殺ころしました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/19/k10010953371000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/19/k10010953371000.mp3
+contents: "<p>アメリカのオハイオ<ruby>州<rt>しゅう</rt></ruby>で１６<ruby>日<rt>にち</rt></ruby>、３７<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>が７４<ruby>歳<rt>さい</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>銃<rt>じゅう</rt></ruby></span>で<span style=\"color:\
+  \ blue;\"><ruby>撃<rt>う</rt></ruby>っ</span>て<span style=\"color: blue;\"><ruby>殺<rt>ころ</rt></ruby>し</span>ました。<ruby>男<rt>おとこ</rt></ruby>は、その<span\
+  \ style=\"color: blue;\">ビデオ</span>をインターネットのフェイスブックに<ruby>出<rt>だ</rt></ruby>したあと、<ruby>車<rt>くるま</rt></ruby>で<ruby>逃<rt>に</rt></ruby>げました。</p>\n\
+  <p><ruby>警察<rt>けいさつ</rt></ruby>やＦＢＩは１８<ruby>日<rt>にち</rt></ruby>、<ruby>隣<rt>となり</rt></ruby>のペンシルベニア<ruby>州<rt>しゅう</rt></ruby>のレストランの<ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby>で<ruby>車<rt>くるま</rt></ruby>に<ruby>乗<rt>の</rt></ruby>っている<ruby>男<rt>おとこ</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました。<ruby>警察<rt>けいさつ</rt></ruby>などが<ruby>男<rt>おとこ</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>を<ruby>止<rt>と</rt></ruby>めようとすると、<ruby>男<rt>おとこ</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>銃<rt>じゅう</rt></ruby></span>で<ruby>自分<rt>じぶん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>撃<rt>う</rt></ruby>っ</span>て<span style=\"color: blue;\"\
+  ><ruby>自殺<rt>じさつ</rt></ruby></span>しました。</p>\n<p>フェイスブックは、<ruby>男<rt>おとこ</rt></ruby>が<span\
+  \ style=\"color: blue;\">ビデオ</span>を<ruby>出<rt>だ</rt></ruby>してから３<ruby>時間<rt>じかん</rt></ruby>ぐらいあとにその<span\
+  \ style=\"color: blue;\">ビデオ</span>を<ruby>消<rt>け</rt></ruby>しました。フェイスブックは、<span\
+  \ style=\"color: blue;\"><ruby>犯罪<rt>はんざい</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">ビデオ</span>が<ruby>出<rt>で</rt></ruby>た<ruby>場合<rt>ばあい</rt></ruby>、もっと<ruby>早<rt>はや</rt></ruby>く<ruby>見<rt>み</rt></ruby>つけることができるようにしたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 殺す
+  descriptions:
+  - <ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - （<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。
+  - <ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。
+- word: ビデオ
+  descriptions:
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。
+  - 「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 自殺
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>絶</rb><rt>た</rt></ruby>つこと。<ruby><rb>自害</rb><rt>じがい</rt></ruby>。
+- word: 銃
+  descriptions:
+  - <ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>・ピストルなど、<ruby><rb>弾丸</rb><rt>だんがん</rt></ruby>をうつ<ruby><rb>武器</rb><rt>ぶき</rt></ruby>。
+- word: 撃つ
+  descriptions:
+  - （<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>などを）<ruby><rb>発射</rb><rt>はっしゃ</rt></ruby>する。
+- word: 殺す
+  descriptions:
+  - <ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - （<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。
+  - <ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。
+- word: 犯罪
+  descriptions:
+  - <ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>すこと。<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>を<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。また、<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>罪</rb><rt>つみ</rt></ruby>。
+web_news_url: /news/web/2017/04/19/米で銃殺の映像を投稿した男-銃で自殺と捜査当局が発表/
+source_url: http://www3.nhk.or.jp/news/easy/k10010953371000/k10010953371000.html
+...
