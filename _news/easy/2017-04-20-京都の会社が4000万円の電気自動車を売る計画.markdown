@@ -1,0 +1,58 @@
+---
+layout: easy_news
+categories: easy
+title: 京都の会社が4000万円の電気自動車を売る計画
+title_with_ruby: <ruby>京都<rt>きょうと</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が４０００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>の<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>を<ruby>売<rt>う</rt></ruby>る<ruby>計画<rt>けいかく</rt></ruby>
+last_modified_at: '2017-04-20T11:30:00+09:00'
+datetime: 2017年04月20日 11時30分
+description: 京都きょうとにある「ＧＬＭ」という会社かいしゃが、新あたらしい電気でんき自動車じどうしゃを売うると発表はっぴょうしました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/20/k10010952651000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/20/k10010952651000.mp3
+contents: "<p><ruby>京都<rt>きょうと</rt></ruby>にある「ＧＬＭ」という<ruby>会社<rt>かいしゃ</rt></ruby>が、<ruby>新<rt>あたら</rt></ruby>しい<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>を<ruby>売<rt>う</rt></ruby>ると<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。ＧＬＭは、<ruby>京都大学<rt>きょうとだいがく</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>して２０１０<ruby>年<rt>ねん</rt></ruby>にできた<ruby>会社<rt>かいしゃ</rt></ruby>です。</p>\n\
+  <p><ruby>新<rt>あたら</rt></ruby>しい<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>は、４つのドアが<span\
+  \ style=\"color: blue;\"><ruby>翼<rt>つばさ</rt></ruby></span>のように<ruby>上<rt>あ</rt></ruby>がって<ruby>開<rt>ひら</rt></ruby>きます。１<ruby>回<rt>かい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>充電<rt>じゅうでん</rt></ruby></span>で<span style=\"color:\
+  \ blue;\"><ruby>約<rt>やく</rt></ruby></span>４００ｋｍ<ruby>走<rt>はし</rt></ruby>ることができて、<ruby>最<rt>もっと</rt></ruby>も<ruby>速<rt>はや</rt></ruby>い<span\
+  \ style=\"color: blue;\">スピード</span>は<span style=\"color: blue;\"><ruby>時速<rt>じそく</rt></ruby></span>２５０ｋｍです。</p>\n\
+  <p><ruby>会社<rt>かいしゃ</rt></ruby>は、この<ruby>車<rt>くるま</rt></ruby>を１<ruby>台<rt>だい</rt></ruby>４０００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>で<ruby>売<rt>う</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。２０１９<ruby>年<rt>ねん</rt></ruby>から、<ruby>日本<rt>にっぽん</rt></ruby>、<ruby>中国<rt>ちゅうごく</rt></ruby>、<span\
+  \ style=\"color: blue;\">ヨーロッパ</span>などで１０００<ruby>台<rt>だい</rt></ruby><ruby>売<rt>う</rt></ruby>りたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>はガソリンを<ruby>使<rt>つか</rt></ruby>わないため<span\
+  \ style=\"color: blue;\"><ruby>環境<rt>かんきょう</rt></ruby></span>にいい<ruby>車<rt>くるま</rt></ruby>で、<ruby>世界<rt>せかい</rt></ruby>では、<ruby>大<rt>おお</rt></ruby>きな<ruby>会社<rt>かいしゃ</rt></ruby><ruby>以外<rt>いがい</rt></ruby>にも、<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>をつくる<ruby>新<rt>あたら</rt></ruby>しい<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+- word: 翼
+  descriptions:
+  - （<ruby><rb>空</rb><rt>そら</rt></ruby>を<ruby><rb>飛</rb><rt>と</rt></ruby>ぶための）<ruby><rb>鳥</rb><rt>とり</rt></ruby>の<ruby><rb>羽</rb><rt>はね</rt></ruby>。
+  - <ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>のはね。
+- word: 充電
+  descriptions:
+  - <ruby><rb>蓄電池</rb><rt>ちくでんち</rt></ruby>に<ruby><rb>電気</rb><rt>でんき</rt></ruby>をたくわえること。
+  - <ruby><rb>活力</rb><rt>かつりょく</rt></ruby>をたくわえること。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: スピード
+  descriptions:
+  - <ruby><rb>速</rb><rt>はや</rt></ruby>さ。<ruby><rb>速力</rb><rt>そくりょく</rt></ruby>。
+- word: 時速
+  descriptions:
+  - <ruby><rb>一時間</rb><rt>いちじかん</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>速</rb><rt>はや</rt></ruby>さ。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: 環境
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>巻</rb><rt>ま</rt></ruby>き、<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる<ruby><rb>周</rb><rt>まわ</rt></ruby>りの<ruby><rb>世界</rb><rt>せかい</rt></ruby>。
+web_news_url: /news/web/2017/04/18/4000万円の電気自動車発売へ-京都大発ベンチャー企業/
+source_url: http://www3.nhk.or.jp/news/easy/k10010952651000/k10010952651000.html
+...

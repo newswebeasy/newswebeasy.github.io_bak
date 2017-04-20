@@ -1,0 +1,36 @@
+---
+layout: easy_news
+categories: easy
+title: 盆栽を見ながらお茶を飲む店が東京の銀座にできる
+title_with_ruby: <ruby>盆栽<rt>ぼんさい</rt></ruby>を<ruby>見<rt>み</rt></ruby>ながらお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>む<ruby>店<rt>みせ</rt></ruby>が<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>銀座<rt>ぎんざ</rt></ruby>にできる
+last_modified_at: '2017-04-20T15:45:00+09:00'
+datetime: 2017年04月20日 15時45分
+description: 盆栽ぼんさいは外国がいこくの若わかい人ひとたちなどに人気にんきになっていて、日本にっぽんからの輸出ゆしゅつが増ふえています。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/20/k10010952411000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/20/k10010952411000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>盆栽<rt>ぼんさい</rt></ruby></span>は<ruby>外国<rt>がいこく</rt></ruby>の<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>たちなどに<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>になっていて、<ruby>日本<rt>にっぽん</rt></ruby>からの<ruby>輸出<rt>ゆしゅつ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。４<ruby>月<rt>がつ</rt></ruby>２７<ruby>日<rt>にち</rt></ruby>からさいたま<ruby>市<rt>し</rt></ruby>で、<span\
+  \ style=\"color: blue;\"><ruby>盆栽<rt>ぼんさい</rt></ruby></span>を<ruby>集<rt>あつ</rt></ruby>めている<ruby>人<rt>ひと</rt></ruby>や<ruby>育<rt>そだ</rt></ruby>てている<ruby>人<rt>ひと</rt></ruby>などが<ruby>世界中<rt>せかいじゅう</rt></ruby>から<ruby>集<rt>あつ</rt></ruby>まる「<ruby>世界<rt>せかい</rt></ruby><ruby>盆栽<rt>ぼんさい</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>」が<ruby>始<rt>はじ</rt></ruby>まります。</p>\n\
+  <p><ruby>大宮<rt>おおみや</rt></ruby><ruby>盆栽<rt>ぼんさい</rt></ruby><ruby>美術館<rt>びじゅつかん</rt></ruby>などは、もっとたくさんの<ruby>人<rt>ひと</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>盆栽<rt>ぼんさい</rt></ruby></span>を<ruby>知<rt>し</rt></ruby>ってもらうために<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>銀座<rt>ぎんざ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>盆栽<rt>ぼんさい</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>ながらお<ruby>茶<rt>ちゃ</rt></ruby>などを<ruby>飲<rt>の</rt></ruby>むことができる<ruby>店<rt>みせ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。</p>\n\
+  <p><ruby>店<rt>みせ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にはたくさんの<span style=\"color:\
+  \ blue;\"><ruby>盆栽<rt>ぼんさい</rt></ruby></span>や<span style=\"color: blue;\"><ruby>盆栽<rt>ぼんさい</rt></ruby></span>の<ruby>写真<rt>しゃしん</rt></ruby>が<ruby>飾<rt>かざ</rt></ruby>ってあります。<span\
+  \ style=\"color: blue;\">メニュー</span>には、<span style=\"color: blue;\"><ruby>盆栽<rt>ぼんさい</rt></ruby></span>の<ruby>絵<rt>え</rt></ruby>をかいたお<ruby>菓子<rt>かし</rt></ruby>や<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>などがあります。オーストラリアから<ruby>来<rt>き</rt></ruby>た<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>私<rt>わたし</rt></ruby>も<span\
+  \ style=\"color: blue;\"><ruby>盆栽<rt>ぼんさい</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>っています。とてもいいお<ruby>店<rt>みせ</rt></ruby>ですね」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>この<ruby>店<rt>みせ</rt></ruby>は、４<ruby>月<rt>がつ</rt></ruby>２６<ruby>日<rt>にち</rt></ruby>までです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 盆栽
+  descriptions:
+  - <ruby><rb>鉢</rb><rt>はち</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>木</rb><rt>き</rt></ruby>を<ruby><rb>植</rb><rt>う</rt></ruby>え、<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>手入</rb><rt>てい</rt></ruby>れをして<ruby><rb>楽</rb><rt>たの</rt></ruby>しむもの。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: メニュー
+  descriptions:
+  - <ruby><rb>料理</rb><rt>りょうり</rt></ruby>のこんだて。また、それを<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>紙</rb><rt>かみ</rt></ruby>。
+  - <ruby><rb>練習</rb><rt>れんしゅう</rt></ruby>や<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>の<ruby><rb>一覧表</rb><rt>いちらんひょう</rt></ruby>。
+web_news_url: /news/web/2017/04/18/銀座で盆栽カフェ-世界盆栽大会を前に/
+source_url: http://www3.nhk.or.jp/news/easy/k10010952411000/k10010952411000.html
+...
