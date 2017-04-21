@@ -1,0 +1,41 @@
+---
+layout: easy_news
+categories: easy
+title: アマゾンが肉や魚野菜などを届けるサービスを始める
+title_with_ruby: アマゾンが<ruby>肉<rt>にく</rt></ruby>や<ruby>魚<rt>さかな</rt></ruby>、<ruby>野菜<rt>やさい</rt></ruby>などを<ruby>届<rt>とど</rt></ruby>けるサービスを<ruby>始<rt>はじ</rt></ruby>める
+last_modified_at: '2017-04-21T16:00:00+09:00'
+datetime: 2017年04月21日 16時00分
+description: インターネットでいろいろな物ものを売うっている「アマゾン」は、２１日にちから東京とうきょうで、肉にくや魚さかな、野菜やさいなど１万まん７０００以上いじょうの食品しょくひんを届とどけるサービスを始はじめました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/21/k10010956051000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/21/k10010956051000.mp3
+contents: "<p>インターネットでいろいろな<ruby>物<rt>もの</rt></ruby>を<ruby>売<rt>う</rt></ruby>っている「アマゾン」は、２１<ruby>日<rt>にち</rt></ruby>から<ruby>東京<rt>とうきょう</rt></ruby>で、<ruby>肉<rt>にく</rt></ruby>や<ruby>魚<rt>さかな</rt></ruby>、<ruby>野菜<rt>やさい</rt></ruby>など１<ruby>万<rt>まん</rt></ruby>７０００<ruby>以上<rt>いじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>食品<rt>しょくひん</rt></ruby></span>を<ruby>届<rt>とど</rt></ruby>ける<span\
+  \ style=\"color: blue;\">サービス</span>を<ruby>始<rt>はじ</rt></ruby>めました。</p>\n<p>この<span\
+  \ style=\"color: blue;\">サービス</span>を<ruby>利用<rt>りよう</rt></ruby>するためには、１<ruby>年<rt>ねん</rt></ruby>に３９００<ruby>円<rt>えん</rt></ruby><ruby>払<rt>はら</rt></ruby>う<span\
+  \ style=\"color: blue;\"><ruby>会員<rt>かいいん</rt></ruby></span>になって、そのほか１か<ruby>月<rt>げつ</rt></ruby>に５００<ruby>円<rt>えん</rt></ruby><ruby>払<rt>はら</rt></ruby>う<ruby>必要<rt>ひつよう</rt></ruby>があります。<ruby>最<rt>もっと</rt></ruby>も<ruby>早<rt>はや</rt></ruby>い<ruby>場合<rt>ばあい</rt></ruby>、<ruby>頼<rt>たの</rt></ruby>んでから４<ruby>時間<rt>じかん</rt></ruby>で<ruby>届<rt>とど</rt></ruby>けるとアマゾンは<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>この<span style=\"color: blue;\">サービス</span>を<ruby>利用<rt>りよう</rt></ruby>できる<ruby>所<rt>ところ</rt></ruby>は、<ruby>港区<rt>みなとく</rt></ruby>、<ruby>江東区<rt>こうとうく</rt></ruby>、<ruby>江戸川区<rt>えどがわく</rt></ruby>など、<ruby>東京<rt>とうきょう</rt></ruby>の６つの<ruby>区<rt>く</rt></ruby>だけですが、これから<ruby>増<rt>ふ</rt></ruby>える<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p>スーパーや<span style=\"color: blue;\">コンビニ</span>なども、<ruby>客<rt>きゃく</rt></ruby>がインターネットで<ruby>頼<rt>たの</rt></ruby>んだ<ruby>品物<rt>しなもの</rt></ruby>を<ruby>届<rt>とど</rt></ruby>ける<span\
+  \ style=\"color: blue;\">サービス</span>を<ruby>行<rt>おこな</rt></ruby>っているため、<ruby>競争<rt>きょうそう</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>激<rt>はげ</rt></ruby>しく</span>なりそうです。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: 食品
+  descriptions:
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>となるもの。<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 会員
+  descriptions:
+  - その<ruby><rb>会</rb><rt>かい</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>っている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: コンビニ
+  descriptions:
+  - <ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。
+- word: 激しい
+  descriptions:
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>いが<ruby><rb>強</rb><rt>つよ</rt></ruby>い。
+  - ものごとの<ruby><rb>程度</rb><rt>ていど</rt></ruby>がきつい。
+web_news_url: /news/web/2017/04/21/アマゾン-生鮮食品を最短4時間で配達-都内で開始/
+source_url: http://www3.nhk.or.jp/news/easy/k10010956051000/k10010956051000.html
+...
