@@ -1,0 +1,44 @@
+---
+layout: easy_news
+categories: easy
+title: 生活に満足しているか-世界の15歳に聞く
+title_with_ruby: 「<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>満足<rt>まんぞく</rt></ruby>しているか」　<ruby>世界<rt>せかい</rt></ruby>の１５<ruby>歳<rt>さい</rt></ruby>に<ruby>聞<rt>き</rt></ruby>く
+last_modified_at: '2017-04-24T11:30:00+09:00'
+datetime: 2017年04月24日 11時30分
+description: ＯＥＣＤは、世界せかいの１５歳さいの子こどもたちに「生活せいかつにどのくらい満足まんぞくしているか」を聞きいて、０〜１０の数字すうじで答こたえてもらいました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/24/k10010955991000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/24/k10010955991000.mp3
+contents: "<p>ＯＥＣＤは、<ruby>世界<rt>せかい</rt></ruby>の１５<ruby>歳<rt>さい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもたちに「<ruby>生活<rt>せいかつ</rt></ruby>にどのくらい<span\
+  \ style=\"color: blue;\"><ruby>満足<rt>まんぞく</rt></ruby></span>しているか」を<ruby>聞<rt>き</rt></ruby>いて、０〜１０の<span\
+  \ style=\"color: blue;\"><ruby>数字<rt>すうじ</rt></ruby></span>で<ruby>答<rt>こた</rt></ruby>えてもらいました。とても<span\
+  \ style=\"color: blue;\"><ruby>満足<rt>まんぞく</rt></ruby></span>している<ruby>場合<rt>ばあい</rt></ruby>は１０です。<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>高校<rt>こうこう</rt></ruby>１<ruby>年生<rt>ねんせい</rt></ruby>も６６００<ruby>人<rt>にん</rt></ruby>ぐらい<ruby>答<rt>こた</rt></ruby>えました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもたちの<span style=\"color:\
+  \ blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>は６．８で、この<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えた４７の<ruby>国<rt>くに</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>地域<rt>ちいき</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で４３<ruby>番目<rt>ばんめ</rt></ruby>でした。<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>かったのはドミニカ<ruby>共和国<rt>きょうわこく</rt></ruby>やメキシコ、オランダなどでした。<ruby>東<rt>ひがし</rt></ruby>アジアの<ruby>韓国<rt>かんこく</rt></ruby>や<ruby>台湾<rt>たいわん</rt></ruby>、<ruby>香港<rt>ほんこん</rt></ruby>などは<ruby>日本<rt>にっぽん</rt></ruby>より<ruby>低<rt>ひく</rt></ruby>くなっていました。</p>\n\
+  <p>「テストがどのくらい<ruby>心配<rt>しんぱい</rt></ruby>か」を<ruby>聞<rt>き</rt></ruby>くと、<ruby>答<rt>こた</rt></ruby>えた５６の<ruby>国<rt>くに</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>は１５<ruby>番目<rt>ばんめ</rt></ruby>に<ruby>高<rt>たか</rt></ruby>くなりました。「テストで<ruby>悪<rt>わる</rt></ruby>い<ruby>点<rt>てん</rt></ruby>をとることを<ruby>心配<rt>しんぱい</rt></ruby>している」と<ruby>答<rt>こた</rt></ruby>えた<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもは８２％もいました。</p>\n\
+  <p><ruby>専門家<rt>せんもんか</rt></ruby>は「<ruby>日本<rt>にっぽん</rt></ruby>や<ruby>東<rt>ひがし</rt></ruby>アジアの<ruby>国<rt>くに</rt></ruby>では、テストでいい<ruby>点<rt>てん</rt></ruby>をとって、<span\
+  \ style=\"color: blue;\">レベル</span>が<ruby>高<rt>たか</rt></ruby>い<ruby>学校<rt>がっこう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ることが<ruby>大事<rt>だいじ</rt></ruby>だという<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>いと<ruby>思<rt>おも</rt></ruby>います。このため、<ruby>生活<rt>せいかつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>満足<rt>まんぞく</rt></ruby></span>する<ruby>子<rt>こ</rt></ruby>どもがほかの<ruby>国<rt>くに</rt></ruby>より<ruby>少<rt>すく</rt></ruby>ないのかもしれません」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 満足
+  descriptions:
+  - すべて<ruby><rb>思</rb><rt>おも</rt></ruby>うようになっていて、<ruby><rb>不平</rb><rt>ふへい</rt></ruby>や<ruby><rb>不満</rb><rt>ふまん</rt></ruby>のないこと。
+  - <ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>であること。<ruby><rb>完全</rb><rt>かんぜん</rt></ruby>。
+- word: 数字
+  descriptions:
+  - <ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す<ruby><rb>文字</rb><rt>もじ</rt></ruby>。アラビア<ruby><rb>数字</rb><rt>すうじ</rt></ruby>（<ruby><rb>算用数字</rb><rt>さんようすうじ</rt></ruby>）、<ruby><rb>漢数字</rb><rt>かんすうじ</rt></ruby>、ローマ<ruby><rb>数字</rb><rt>すうじ</rt></ruby>などがある。
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+- word: 地域
+  descriptions:
+  - ある<ruby><rb>範囲</rb><rt>はんい</rt></ruby>に<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。
+- word: レベル
+  descriptions:
+  - <ruby><rb>評価</rb><rt>ひょうか</rt></ruby>をするときの<ruby><rb>標準</rb><rt>ひょうじゅん</rt></ruby>。<ruby><rb>水準</rb><rt>すいじゅん</rt></ruby>。
+web_news_url: /news/web/2017/04/21/15歳の生活満足度-日本は国際平均より低い/
+source_url: http://www3.nhk.or.jp/news/easy/k10010955991000/k10010955991000.html
+...

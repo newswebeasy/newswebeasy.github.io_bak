@@ -1,0 +1,32 @@
+---
+layout: easy_news
+categories: easy
+title: 原子力発電所の事故から6年-村に戻って店をまた始める
+title_with_ruby: <ruby>原子力<rt>げんしりょく</rt></ruby><ruby>発電所<rt>はつでんしょ</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>から６<ruby>年<rt>ねん</rt></ruby>　<ruby>村<rt>むら</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>って<ruby>店<rt>みせ</rt></ruby>をまた<ruby>始<rt>はじ</rt></ruby>める
+last_modified_at: '2017-04-24T15:50:00+09:00'
+datetime: 2017年04月24日 15時50分
+description: 福島県ふくしまけん飯舘村いいたてむらは６年ねん前まえの原子力げんしりょく発電所はつでんしょの事故じこで住すむことができなくなりました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/24/k10010958491000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/24/k10010958491000.mp3
+contents: "<p><ruby>福島県<rt>ふくしまけん</rt></ruby><ruby>飯舘村<rt>いいたてむら</rt></ruby>は６<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>原子力<rt>げんしりょく</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>発電所<rt>はつでんしょ</rt></ruby></span>の<ruby>事故<rt>じこ</rt></ruby>で<ruby>住<rt>す</rt></ruby>むことができなくなりました。<ruby>村<rt>むら</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちは<ruby>別<rt>べつ</rt></ruby>の<ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>をしていますが、<ruby>先月<rt>せんげつ</rt></ruby><ruby>国<rt>くに</rt></ruby>が<ruby>戻<rt>もど</rt></ruby>ってもいいと<ruby>言<rt>い</rt></ruby>って<ruby>飯館村<rt>いいたてむら</rt></ruby>に<ruby>住<rt>す</rt></ruby>むことができるようになりました。</p>\n\
+  <p><ruby>高橋<rt>たかはし</rt></ruby><ruby>義治<rt>よしはる</rt></ruby>さんは<ruby>飯館村<rt>いいたてむら</rt></ruby>で６０<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>く<span\
+  \ style=\"color: blue;\">うどん</span>の<ruby>店<rt>みせ</rt></ruby>をしていました。<ruby>村<rt>むら</rt></ruby>を<ruby>出<rt>で</rt></ruby>たあと<ruby>別<rt>べつ</rt></ruby>の<ruby>市<rt>し</rt></ruby>で<ruby>店<rt>みせ</rt></ruby>をしていましたが、<ruby>村<rt>むら</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>ってまた<ruby>店<rt>みせ</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めることにしました。</p>\n\
+  <p>２３<ruby>日<rt>にち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>１１<ruby>時<rt>じ</rt></ruby>に<ruby>店<rt>みせ</rt></ruby>が<ruby>開<rt>あ</rt></ruby>くと、<ruby>村<rt>むら</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>る<ruby>準備<rt>じゅんび</rt></ruby>をしている<ruby>人<rt>ひと</rt></ruby>などが<ruby>来<rt>き</rt></ruby>ました。みんな<ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>村<rt>むら</rt></ruby>で<ruby>食<rt>た</rt></ruby>べる<span\
+  \ style=\"color: blue;\">うどん</span>を<ruby>楽<rt>たの</rt></ruby>しみました。</p>\n<p><ruby>飯館村<rt>いいたてむら</rt></ruby>ではまだ<ruby>食堂<rt>しょくどう</rt></ruby>などの<ruby>店<rt>みせ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まっていなくて、<ruby>高橋<rt>たかはし</rt></ruby>さんの<ruby>店<rt>みせ</rt></ruby>が<ruby>最初<rt>さいしょ</rt></ruby>です。<span\
+  \ style=\"color: blue;\">うどん</span>を<ruby>食<rt>た</rt></ruby>べた<ruby>女性<rt>じょせい</rt></ruby>は「<ruby>前<rt>まえ</rt></ruby>と<ruby>変<rt>か</rt></ruby>わらない<ruby>味<rt>あじ</rt></ruby>でとてもおいしいです。<ruby>村<rt>むら</rt></ruby>に<ruby>食堂<rt>しょくどう</rt></ruby>があるのはうれしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 原子力
+  descriptions:
+  - <ruby><rb>原子核</rb><rt>げんしかく</rt></ruby>がこわれたり（<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>）、とけあったり（<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>）するときに<ruby><rb>出</rb><rt>で</rt></ruby>る、ものすごく<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>。<ruby><rb>原子</rb><rt>げんし</rt></ruby>エネルギー。
+- word: 発電所
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: うどん
+  descriptions:
+  - <ruby><rb>小麦粉</rb><rt>こむぎこ</rt></ruby>を、<ruby><rb>水</rb><rt>みず</rt></ruby>でこねてうすくのばし、<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>く<ruby><rb>切</rb><rt>き</rt></ruby>ってゆでた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+web_news_url: /news/web/2017/04/23/避難指示解除でうどん店が営業再開-福島-飯舘村/
+source_url: http://www3.nhk.or.jp/news/easy/k10010958491000/k10010958491000.html
+...

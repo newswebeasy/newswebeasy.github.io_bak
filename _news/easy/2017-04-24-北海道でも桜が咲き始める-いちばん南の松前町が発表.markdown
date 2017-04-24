@@ -1,0 +1,39 @@
+---
+layout: easy_news
+categories: easy
+title: 北海道でも桜が咲き始める-いちばん南の松前町が発表
+title_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby>でも<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>める　いちばん<ruby>南<rt>みなみ</rt></ruby>の<ruby>松前町<rt>まつまえちょう</rt></ruby>が<ruby>発表<rt>はっぴょう</rt></ruby>
+last_modified_at: '2017-04-24T15:50:00+09:00'
+datetime: 2017年04月24日 15時50分
+description: 北海道ほっかいどうのいちばん南みなみにある松前町まつまえちょうは、１万まん本ぼんの桜さくらの木きがある公園こうえんが有名ゆうめいで、大勢おおぜいの人ひとが桜さくらの花はなを見みに来きます。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/24/k10010958581000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/24/k10010958581000.mp3
+contents: "<p><ruby>北海道<rt>ほっかいどう</rt></ruby>のいちばん<ruby>南<rt>みなみ</rt></ruby>にある<ruby>松前町<rt>まつまえちょう</rt></ruby>は、１<ruby>万<rt>まん</rt></ruby><ruby>本<rt>ぼん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>の<ruby>木<rt>き</rt></ruby>がある<ruby>公園<rt>こうえん</rt></ruby>が<ruby>有名<rt>ゆうめい</rt></ruby>で、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>の<ruby>花<rt>はな</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。<ruby>毎年<rt>まいとし</rt></ruby><ruby>松前町<rt>まつまえちょう</rt></ruby>は<ruby>公園<rt>こうえん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べて<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>くと、みんなに<ruby>知<rt>し</rt></ruby>らせています。</p>\n\
+  <p>２３<ruby>日<rt>にち</rt></ruby>、ソメイヨシノという<span style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>の<ruby>花<rt>はな</rt></ruby>が５つ<ruby>咲<rt>さ</rt></ruby>いていることがわかって、<ruby>松前町<rt>まつまえちょう</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>が<ruby>咲<rt>さ</rt></ruby>きました」と<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<ruby>今年<rt>ことし</rt></ruby>はいつもの<ruby>年<rt>とし</rt></ruby>より<ruby>７日<rt>なのか</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>咲<rt>さ</rt></ruby>きました。</p>\n\
+  <p>２３<ruby>日<rt>にち</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>がよくて、<ruby>公園<rt>こうえん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は<ruby>咲<rt>さ</rt></ruby>いたばかりの<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>の<ruby>前<rt>まえ</rt></ruby>で<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>っていました。<ruby>公園<rt>こうえん</rt></ruby>を<ruby>案内<rt>あんない</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>は「いろいろな<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>桜<rt>さくら</rt></ruby></span>があって、<span style=\"color: blue;\">それぞれ</span><ruby>咲<rt>さ</rt></ruby>くころが<ruby>違<rt>ちが</rt></ruby>います。ぜひ<ruby>楽<rt>たの</rt></ruby>しんでください」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby>、<span style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>は３<ruby>月<rt>がつ</rt></ruby>２１<ruby>日<rt>にち</rt></ruby>にいちばん<ruby>早<rt>はや</rt></ruby>く<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>咲<rt>さ</rt></ruby>きました。これから<ruby>北海道<rt>ほっかいどう</rt></ruby>のいろいろな<ruby>所<rt>ところ</rt></ruby>で<ruby>咲<rt>さ</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 桜
+  descriptions:
+  - <ruby><rb>山地</rb><rt>さんち</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>え、<ruby><rb>公園</rb><rt>こうえん</rt></ruby>や<ruby><rb>庭</rb><rt>にわ</rt></ruby>にも<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>木</rb><rt>き</rt></ruby>。ソメイヨシノ・シダレザクラ・ヤマザクラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>春</rb><rt>はる</rt></ruby>、うすもも<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>美</rb><rt>うつく</rt></ruby>しい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の「<ruby><rb>国花</rb><rt>こっか</rt></ruby>」とされる。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: それぞれ
+  descriptions:
+  - めいめい。おのおの。
+web_news_url: /news/web/2017/04/23/サクラ前線が北海道に-松前町が独自の開花宣言/
+source_url: http://www3.nhk.or.jp/news/easy/k10010958581000/k10010958581000.html
+...
