@@ -1,0 +1,53 @@
+---
+layout: easy_news
+categories: easy
+title: 正方形の写真を撮って友達に見せる人が増える
+title_with_ruby: <ruby>正方形<rt>せいほうけい</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>って<ruby>友達<rt>ともだち</rt></ruby>に<ruby>見<rt>み</rt></ruby>せる<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える
+last_modified_at: '2017-04-24T11:30:00+09:00'
+datetime: 2017年04月24日 11時30分
+description: 今いままで、写真しゃしんの形かたちは縦たてか横よこに長ながい長方形ちょうほうけいが普通ふつうでした。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/24/k10010955691000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/24/k10010955691000.mp3
+contents: "<p><ruby>今<rt>いま</rt></ruby>まで、<ruby>写真<rt>しゃしん</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>は<ruby>縦<rt>たて</rt></ruby>か<ruby>横<rt>よこ</rt></ruby>に<ruby>長<rt>なが</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>長方形<rt>ちょうほうけい</rt></ruby></span>が<ruby>普通<rt>ふつう</rt></ruby>でした。しかし、<ruby>最近<rt>さいきん</rt></ruby>、インターネットで<span\
+  \ style=\"color: blue;\"><ruby>正方形<rt>せいほうけい</rt></ruby></span>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>友達<rt>ともだち</rt></ruby>などに<ruby>見<rt>み</rt></ruby>せることができる「インスタグラム」が<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>です。<span style=\"color:\
+  \ blue;\"><ruby>正方形<rt>せいほうけい</rt></ruby></span>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えているため、カメラなどの<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\">サービス</span>を<ruby>始<rt>はじ</rt></ruby>めています。</p>\n<p><ruby>富士<rt>ふじ</rt></ruby>フイルムは、<ruby>写真<rt>しゃしん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>正方形<rt>せいほうけい</rt></ruby></span>の<ruby>紙<rt>かみ</rt></ruby>に<span\
+  \ style=\"color: blue;\">プリント</span>できる<span style=\"color: blue;\">サービス</span>を<ruby>始<rt>はじ</rt></ruby>めました。<ruby>今<rt>いま</rt></ruby>までは<span\
+  \ style=\"color: blue;\"><ruby>正方形<rt>せいほうけい</rt></ruby></span>の<ruby>写真<rt>しゃしん</rt></ruby>も<span\
+  \ style=\"color: blue;\"><ruby>長方形<rt>ちょうほうけい</rt></ruby></span>の<ruby>紙<rt>かみ</rt></ruby>に<span\
+  \ style=\"color: blue;\">プリント</span>していたため、<ruby>右<rt>みぎ</rt></ruby>と<ruby>左<rt>ひだり</rt></ruby>に<ruby>白<rt>しろ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>部分<rt>ぶぶん</rt></ruby></span>ができていました。<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>渋谷<rt>しぶや</rt></ruby>にある<ruby>店<rt>みせ</rt></ruby>では、<span\
+  \ style=\"color: blue;\"><ruby>正方形<rt>せいほうけい</rt></ruby></span>の<ruby>写真<rt>しゃしん</rt></ruby>を<span\
+  \ style=\"color: blue;\">プリント</span>する<ruby>人<rt>ひと</rt></ruby>が<ruby>去年<rt>きょねん</rt></ruby>の２<ruby>倍<rt>ばい</rt></ruby>ぐらいに<ruby>増<rt>ふ</rt></ruby>えています。</p>\n\
+  <p>この<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>新<rt>あたら</rt></ruby>しいカメラも<ruby>作<rt>つく</rt></ruby>りました。<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ると、すぐにカメラから<span\
+  \ style=\"color: blue;\"><ruby>正方形<rt>せいほうけい</rt></ruby></span>の<ruby>写真<rt>しゃしん</rt></ruby>の<span\
+  \ style=\"color: blue;\">プリント</span>が<ruby>出<rt>で</rt></ruby>てくる「インスタントカメラ」です。このカメラを<ruby>来月<rt>らいげつ</rt></ruby>から<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 正方形
+  descriptions:
+  - <ruby><rb>四</rb><rt>よっ</rt></ruby>つの<ruby><rb>辺</rb><rt>へん</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さが<ruby><rb>同</rb><rt>おな</rt></ruby>じで、<ruby><rb>四</rb><rt>よっ</rt></ruby>つの<ruby><rb>角</rb><rt>かく</rt></ruby>が<ruby><rb>直角</rb><rt>ちょっかく</rt></ruby>（九〇<ruby><rb>度</rb><rt>ど</rt></ruby>）の<ruby><rb>四角形</rb><rt>しかくけい</rt></ruby>。<ruby><rb>真四角</rb><rt>ましかく</rt></ruby>。
+- word: 長方形
+  descriptions:
+  - <ruby><rb>四</rb><rt>よっ</rt></ruby>つの<ruby><rb>角</rb><rt>かく</rt></ruby>がみな<ruby><rb>直角</rb><rt>ちょっかく</rt></ruby>である<ruby><rb>長</rb><rt>なが</rt></ruby><ruby><rb>四角</rb><rt>しかく</rt></ruby>。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: プリント
+  descriptions:
+  - <ruby><rb>印刷</rb><rt>いんさつ</rt></ruby>すること。また、<ruby><rb>印刷</rb><rt>いんさつ</rt></ruby>したもの。
+  - <ruby><rb>模様</rb><rt>もよう</rt></ruby>を<ruby><rb>染</rb><rt>そ</rt></ruby>めること。また、その<ruby><rb>布</rb><rt>ぬの</rt></ruby>。
+  - とった<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>を、<ruby><rb>紙</rb><rt>かみ</rt></ruby>に<ruby><rb>焼</rb><rt>や</rt></ruby>きつけること。また、そのもの。
+- word: 部分
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>を、いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>けたものの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+web_news_url: /news/web/2017/04/20/正方形に注目-写真の形が変わる-新サービス登場/
+source_url: http://www3.nhk.or.jp/news/easy/k10010955691000/k10010955691000.html
+...
