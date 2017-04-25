@@ -85,6 +85,10 @@ a {
     padding: 0 15px 0
 }
 
+.mpda_bottom_container {
+    padding-top: 15px
+}
+
 .rich_media_title {
     margin-bottom: 10px;
     line-height: 1.4;
