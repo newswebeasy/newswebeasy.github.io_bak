@@ -1,0 +1,58 @@
+---
+layout: easy_news
+categories: easy
+title: 今年最初にとれたお茶-最も高いのは1kgで108万円
+title_with_ruby: <ruby>今年<rt>ことし</rt></ruby><ruby>最初<rt>さいしょ</rt></ruby>にとれたお<ruby>茶<rt>ちゃ</rt></ruby>　<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>いのは１ｋｇで１０８<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>
+last_modified_at: '2017-04-25T15:35:00+09:00'
+datetime: 2017年04月25日 15時35分
+description: １年ねんで最初さいしょにとれるお茶ちゃはとても香かおりがいいため、人気にんきがあります。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/25/k10010959241000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/25/k10010959241000.mp3
+contents: "<p>１<ruby>年<rt>ねん</rt></ruby>で<ruby>最初<rt>さいしょ</rt></ruby>に<span style=\"\
+  color: blue;\">とれる</span>お<ruby>茶<rt>ちゃ</rt></ruby>はとても<span style=\"color: blue;\"\
+  ><ruby>香<rt>かお</rt></ruby>り</span>がいいため、<span style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>があります。お<ruby>茶<rt>ちゃ</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>静岡市<rt>しずおかし</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>市場<rt>いちば</rt></ruby></span>で<ruby>２４日<rt>にじゅうよっか</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby><ruby>最初<rt>さいしょ</rt></ruby>に<span\
+  \ style=\"color: blue;\">とれ</span>たお<ruby>茶<rt>ちゃ</rt></ruby>の<span style=\"color:\
+  \ blue;\"><ruby>競<rt>せ</rt></ruby>り</span>がありました。</p>\n<p>いつもの<ruby>年<rt>とし</rt></ruby>は、<ruby>機械<rt>きかい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>作<rt>つく</rt></ruby>ったお<ruby>茶<rt>ちゃ</rt></ruby>がほとんどです。<ruby>今年<rt>ことし</rt></ruby>は<ruby>人<rt>ひと</rt></ruby>が<ruby>手<rt>て</rt></ruby>で<ruby>作<rt>つく</rt></ruby>ったお<ruby>茶<rt>ちゃ</rt></ruby>もあって、１ｋｇで１０８<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>になりました。これは<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>い<ruby>値段<rt>ねだん</rt></ruby>です。<ruby>機械<rt>きかい</rt></ruby>で<ruby>作<rt>つく</rt></ruby>ったお<ruby>茶<rt>ちゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では、１ｋｇで８<ruby>万<rt>まん</rt></ruby>８８００<ruby>円<rt>えん</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>い<ruby>値段<rt>ねだん</rt></ruby>になりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>市場<rt>いちば</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby>は２<ruby>月<rt>がつ</rt></ruby>から<ruby>寒<rt>さむ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いてお<ruby>茶<rt>ちゃ</rt></ruby>の<ruby>葉<rt>は</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>育<rt>そだ</rt></ruby>つ</span>のが<ruby>遅<rt>おく</rt></ruby>れましたが、やわらかくていい<ruby>葉<rt>は</rt></ruby>が<span\
+  \ style=\"color: blue;\">とれ</span>たと<ruby>言<rt>い</rt></ruby>っています。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 取れる
+  descriptions:
+  - はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。
+  - つかれなどが、なくなる。
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>ることができる。
+  - そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。
+  - <ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+- word: 取れる
+  descriptions:
+  - はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。
+  - つかれなどが、なくなる。
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>ることができる。
+  - そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。
+  - <ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+- word: 香り
+  descriptions:
+  - いいにおい。
+  - そのものから<ruby><rb>感</rb><rt>かん</rt></ruby>じられる<ruby><rb>品</rb><rt>ひん</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>さ。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: 市場
+  descriptions:
+  - <ruby><rb>商人</rb><rt>しょうにん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などを<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>買</rb><rt>か</rt></ruby>いする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>市</rb><rt>いち</rt></ruby>。
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>などの<ruby><rb>小売店</rb><rt>こうりてん</rt></ruby>が、<ruby><rb>一</rb><rt>いっ</rt></ruby>か<ruby><rb>所</rb><rt>しょ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>っている<ruby><rb>所</rb><rt>ところ</rt></ruby>。マーケット。
+- word: 競り売り
+  descriptions:
+  - <ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。
+- word: 育つ
+  descriptions:
+  - <ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+  - <ruby><rb>一人前</rb><rt>いちにんまえ</rt></ruby>になる。
+web_news_url: /news/web/2017/04/24/新茶初取り引き-1キロ108万円で最高値更新-静岡/
+source_url: http://www3.nhk.or.jp/news/easy/k10010959241000/k10010959241000.html
+...
