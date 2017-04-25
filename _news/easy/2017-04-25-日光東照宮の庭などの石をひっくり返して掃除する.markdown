@@ -1,0 +1,73 @@
+---
+layout: easy_news
+categories: easy
+title: 日光東照宮の庭などの石をひっくり返して掃除する
+title_with_ruby: <ruby>日光東照宮<rt>にっこうとうしょうぐう</rt></ruby>の<ruby>庭<rt>にわ</rt></ruby>などの<ruby>石<rt>いし</rt></ruby>をひっくり<ruby>返<rt>かえ</rt></ruby>して<ruby>掃除<rt>そうじ</rt></ruby>する
+last_modified_at: '2017-04-25T11:30:00+09:00'
+datetime: 2017年04月25日 11時30分
+description: 栃木県とちぎけん日光市にっこうしにある日光東照宮にっこうとうしょうぐうと輪王寺りんのうじは、世界遺産せかいいさんになっています。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/25/k10010958401000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/25/k10010958401000.mp3
+contents: "<p><ruby>栃木県<rt>とちぎけん</rt></ruby><ruby>日光市<rt>にっこうし</rt></ruby>にある<ruby>日光東照宮<rt>にっこうとうしょうぐう</rt></ruby>と<ruby>輪王寺<rt>りんのうじ</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>世界遺産<rt>せかいいさん</rt></ruby></span>になっています。２３<ruby>日<rt>にち</rt></ruby>、この<ruby>神社<rt>じんじゃ</rt></ruby>と<ruby>寺<rt>てら</rt></ruby>の<ruby>庭<rt>にわ</rt></ruby>などに<span\
+  \ style=\"color: blue;\"><ruby>敷<rt>し</rt></ruby>い</span>てある<ruby>栗石<rt>くりいし</rt></ruby>という<ruby>石<rt>いし</rt></ruby>を<span\
+  \ style=\"color: blue;\">ひっくり<ruby>返<rt>かえ</rt></ruby>し</span>て<ruby>掃除<rt>そうじ</rt></ruby>する<span\
+  \ style=\"color: blue;\"><ruby>行事<rt>ぎょうじ</rt></ruby></span>がありました。「<ruby>栗石返<rt>くりいしかえ</rt></ruby>し」という<span\
+  \ style=\"color: blue;\"><ruby>行事<rt>ぎょうじ</rt></ruby></span>で、<span style=\"color:\
+  \ blue;\"><ruby>江戸時代<rt>えどじだい</rt></ruby></span>から<ruby>毎年<rt>まいとし</rt></ruby><ruby>行<rt>おこな</rt></ruby>っています。</p>\n\
+  <p><ruby>日光東照宮<rt>にっこうとうしょうぐう</rt></ruby>には<ruby>町<rt>まち</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>３０００<ruby>人<rt>にん</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まって、<ruby>石<rt>いし</rt></ruby>を１つ１つ<ruby>手<rt>て</rt></ruby>で<span\
+  \ style=\"color: blue;\">ひっくり<ruby>返<rt>かえ</rt></ruby>し</span>て、<ruby>石<rt>いし</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>の<ruby>葉<rt>は</rt></ruby>やごみなどを<ruby>取<rt>と</rt></ruby>ってきれいにしました。<ruby>石<rt>いし</rt></ruby>と<ruby>石<rt>いし</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>当<rt>あ</rt></ruby>たる</span><ruby>音<rt>おと</rt></ruby>がして、<ruby>神社<rt>じんじゃ</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちが<ruby>珍<rt>めずら</rt></ruby>しそうに<ruby>見<rt>み</rt></ruby>ていました。</p>\n\
+  <p><ruby>掃除<rt>そうじ</rt></ruby>は２<ruby>時間<rt>じかん</rt></ruby>ぐらいで<ruby>終<rt>お</rt></ruby>わって、２<span\
+  \ style=\"color: blue;\">ｔ</span>の<span style=\"color: blue;\">トラック</span>３<ruby>台<rt>だい</rt></ruby>のごみが<ruby>集<rt>あつ</rt></ruby>まりました。</p>\n\
+  <p><ruby>毎年<rt>まいとし</rt></ruby><ruby>掃除<rt>そうじ</rt></ruby>に<ruby>来<rt>き</rt></ruby>ている<ruby>男性<rt>だんせい</rt></ruby>は「いつもは<ruby>見<rt>み</rt></ruby>ることができない<ruby>所<rt>ところ</rt></ruby>などに<ruby>入<rt>はい</rt></ruby>ることができます。<ruby>昔<rt>むかし</rt></ruby>からの<span\
+  \ style=\"color: blue;\"><ruby>行事<rt>ぎょうじ</rt></ruby></span>に<span style=\"color:\
+  \ blue;\"><ruby>参加<rt>さんか</rt></ruby></span>できてうれしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ひっくり返す
+  descriptions:
+  - <ruby><rb>裏返</rb><rt>うらがえ</rt></ruby>しにする。<ruby><rb>逆</rb><rt>さか</rt></ruby>さまにする。
+  - たおす。
+  - <ruby><rb>関係</rb><rt>かんけい</rt></ruby>や、<ruby><rb>立場</rb><rt>たちば</rt></ruby>を、あべこべにする。
+- word: 世界遺産
+  descriptions:
+  - ユネスコの「<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby><ruby><rb>及</rb><rt>およ</rt></ruby>び<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>の<ruby><rb>保護</rb><rt>ほご</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>条約</rb><rt>じょうやく</rt></ruby>」（「<ruby><rb>世界遺産保護条約</rb><rt>せかいいさんほごじょうやく</rt></ruby>」）にもとづいて<ruby><rb>決</rb><rt>き</rt></ruby>められた、<ruby><rb>世界的</rb><rt>せかいてき</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>す<ruby><rb>価値</rb><rt>かち</rt></ruby>があると<ruby><rb>認</rb><rt>みと</rt></ruby>められた<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>や<ruby><rb>自然</rb><rt>しぜん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby>として<ruby><rb>姫路城</rb><rt>ひめじじょう</rt></ruby>や<ruby><rb>法隆寺</rb><rt>ほうりゅうじ</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の<ruby><rb>首里城</rb><rt>しゅりじょう</rt></ruby>など、<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>として<ruby><rb>屋久島</rb><rt>やくしま</rt></ruby>や<ruby><rb>白神山地</rb><rt>しらかみさんち</rt></ruby>などが<ruby><rb>指定</rb><rt>してい</rt></ruby>されている。
+- word: 敷く
+  descriptions:
+  - <ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>広</rb><rt>ひろ</rt></ruby>げる。
+  - ものの<ruby><rb>下</rb><rt>した</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>く。<ruby><rb>敷物</rb><rt>しきもの</rt></ruby>にする。
+  - <ruby><rb>備</rb><rt>そな</rt></ruby>えつける。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>行</rb><rt>い</rt></ruby>きわたらせる。
+- word: 行事
+  descriptions:
+  - <ruby><rb>前</rb><rt>まえ</rt></ruby>もって<ruby><rb>時期</rb><rt>じき</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>めて<ruby><rb>行</rb><rt>おこな</rt></ruby>われる、もよおし。
+- word: 江戸時代
+  descriptions:
+  - <ruby><rb>徳川家康</rb><rt>とくがわいえやす</rt></ruby>が、１６０３<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>江戸</rb><rt>えど</rt></ruby>に<ruby><rb>幕府</rb><rt>ばくふ</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いてから、１８６７<ruby><rb>年</rb><rt>ねん</rt></ruby>にほろびるまでの<ruby><rb>約</rb><rt>やく</rt></ruby>２６０<ruby><rb>年間</rb><rt>ねんかん</rt></ruby>。<ruby><rb>鎖国</rb><rt>さこく</rt></ruby>のために<ruby><rb>日本</rb><rt>にっぽん</rt></ruby><ruby><rb>独特</rb><rt>どくとく</rt></ruby>の<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>栄</rb><rt>さか</rt></ruby>えた。「<ruby><rb>徳川時代</rb><rt>とくがわじだい</rt></ruby>」ともいう。
+- word: 当たる
+  descriptions:
+  - ぶつかる。
+  - <ruby><rb>命中</rb><rt>めいちゅう</rt></ruby>する。
+  - ねらったとおりうまくいく。
+  - （<ruby><rb>光</rb><rt>ひかり</rt></ruby>・<ruby><rb>風</rb><rt>かぜ</rt></ruby>などを）<ruby><rb>受</rb><rt>う</rt></ruby>けるようにする。
+  - ちょうど<ruby><rb>当</rb><rt>あ</rt></ruby>てはまる。
+  - その<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>にある。
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>ける。
+  - <ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。
+  - <ruby><rb>確</rb><rt>たし</rt></ruby>かめる。<ruby><rb>調</rb><rt>しら</rt></ruby>べる。
+  - ひどい<ruby><rb>目</rb><rt>め</rt></ruby>にあわせる。
+- word: トン
+  descriptions:
+  - メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。一トンは、一〇〇〇キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+  - <ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: トラック
+  descriptions:
+  - <ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rt></ruby>。
+- word: 参加
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。
+web_news_url: /news/web/2017/04/23/日光東照宮で栗石返し-境内の石からゴミ取り除く/
+source_url: http://www3.nhk.or.jp/news/easy/k10010958401000/k10010958401000.html
+...
