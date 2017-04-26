@@ -1,0 +1,34 @@
+---
+layout: easy_news
+categories: easy
+title: 埼玉県秩父市-シバザクラの花がたくさん咲く
+title_with_ruby: <ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>秩父市<rt>ちちぶし</rt></ruby>　シバザクラの<ruby>花<rt>はな</rt></ruby>がたくさん<ruby>咲<rt>さ</rt></ruby>く
+last_modified_at: '2017-04-26T11:30:00+09:00'
+datetime: 2017年04月26日 11時30分
+description: 埼玉県さいたまけん秩父市ちちぶしの羊山公園ひつじやまこうえんで今いま、シバザクラの花はながきれいに咲さいています。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/26/k10010959791000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/26/k10010959791000.mp3
+contents: "<p><ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>秩父市<rt>ちちぶし</rt></ruby>の<ruby>羊山公園<rt>ひつじやまこうえん</rt></ruby>で<ruby>今<rt>いま</rt></ruby>、シバザクラの<ruby>花<rt>はな</rt></ruby>がきれいに<ruby>咲<rt>さ</rt></ruby>いています。</p>\n\
+  <p><ruby>公園<rt>こうえん</rt></ruby>には、１<ruby>万<rt>まん</rt></ruby>８０００m²ぐらいの<ruby>場所<rt>ばしょ</rt></ruby>に４０<ruby>万<rt>まん</rt></ruby><ruby>本<rt>ぼん</rt></ruby>のシバザクラがあります。<span\
+  \ style=\"color: blue;\">ピンク</span>や<ruby>白<rt>しろ</rt></ruby>などの２ｃｍぐらいの<ruby>花<rt>はな</rt></ruby>がたくさん<ruby>咲<rt>さ</rt></ruby>いていて、きれいな<ruby>色<rt>いろ</rt></ruby>の<span\
+  \ style=\"color: blue;\">じゅうたん</span>のようです。</p>\n<p><ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>女性<rt>じょせい</rt></ruby>は「<ruby>思<rt>おも</rt></ruby>っていたより<ruby>広<rt>ひろ</rt></ruby>くてすばらしい<ruby>景色<rt>けしき</rt></ruby>で、<span\
+  \ style=\"color: blue;\"><ruby>感動<rt>かんどう</rt></ruby></span>しました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>秩父市<rt>ちちぶし</rt></ruby>のシバザクラは５<ruby>月<rt>がつ</rt></ruby><span style=\"\
+  color: blue;\"><ruby>上旬<rt>じょうじゅん</rt></ruby></span>ごろまで<ruby>楽<rt>たの</rt></ruby>しむことができます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ピンク
+  descriptions:
+  - もも<ruby><rb>色</rb><rt>いろ</rt></ruby>。うすい<ruby><rb>赤色</rb><rt>あかいろ</rt></ruby>。
+- word: じゅうたん
+  descriptions:
+  - ゆかにしく、<ruby><rb>厚</rb><rt>あつ</rt></ruby>い<ruby><rb>毛織物</rb><rt>けおりもの</rt></ruby>。カーペット。
+- word: 感動
+  descriptions:
+  - あるものごとに、<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>動</rb><rt>うご</rt></ruby>かされること。
+- word: 上旬
+  descriptions:
+  - <ruby><rb>月</rb><rt>つき</rt></ruby>の<ruby><rb>初</rb><rt>はじ</rt></ruby>めの<ruby><rb>十日間</rb><rt>とおかかん</rt></ruby>。
+web_news_url: /news/web/2017/04/24/40万株のシバザクラ見頃-埼玉-秩父/
+source_url: http://www3.nhk.or.jp/news/easy/k10010959791000/k10010959791000.html
+...
