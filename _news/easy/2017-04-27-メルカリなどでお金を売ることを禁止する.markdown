@@ -1,0 +1,43 @@
+---
+layout: easy_news
+categories: easy
+title: メルカリなどでお金を売ることを禁止する
+title_with_ruby: 「メルカリ」などでお<ruby>金<rt>かね</rt></ruby>を<ruby>売<rt>う</rt></ruby>ることを<ruby>禁止<rt>きんし</rt></ruby>する
+last_modified_at: '2017-04-27T11:30:00+09:00'
+datetime: 2017年04月27日 11時30分
+description: スマートフォンの「メルカリ」というアプリでは、使つかわなくなった物ものなどを簡単かんたんに売うったり買かったりすることができます。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/27/k10010959871000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/27/k10010959871000.mp3
+contents: "<p>スマートフォンの「メルカリ」というアプリでは、<ruby>使<rt>つか</rt></ruby>わなくなった<ruby>物<rt>もの</rt></ruby>などを<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>売<rt>う</rt></ruby>ったり<ruby>買<rt>か</rt></ruby>ったりすることができます。</p>\n\
+  <p>メルカリでは<ruby>最近<rt>さいきん</rt></ruby>、１<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>札<rt>さつ</rt></ruby></span>５<ruby>枚<rt>まい</rt></ruby>を５<ruby>万<rt>まん</rt></ruby>９０００<ruby>円<rt>えん</rt></ruby>など、お<ruby>金<rt>かね</rt></ruby>を<ruby>高<rt>たか</rt></ruby>く<ruby>売<rt>う</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えて<ruby>問題<rt>もんだい</rt></ruby>になっています。</p>\n\
+  <p>この<ruby>問題<rt>もんだい</rt></ruby>について「<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>困<rt>こま</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>などが、<span\
+  \ style=\"color: blue;\">クレジットカード</span>で<ruby>簡単<rt>かんたん</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>買<rt>か</rt></ruby>うことができる」と<ruby>言<rt>い</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>もいました。このためメルカリの<ruby>会社<rt>かいしゃ</rt></ruby>は、お<ruby>金<rt>かね</rt></ruby>を<ruby>売<rt>う</rt></ruby>ることを<span\
+  \ style=\"color: blue;\"><ruby>禁止<rt>きんし</rt></ruby></span>しました。</p>\n<p><ruby>金融庁<rt>きんゆうちょう</rt></ruby>は「インターネットなどでお<ruby>金<rt>かね</rt></ruby>を<ruby>高<rt>たか</rt></ruby>く<ruby>売<rt>う</rt></ruby>ることは、お<ruby>金<rt>かね</rt></ruby>を<ruby>貸<rt>か</rt></ruby>すことと<ruby>同<rt>おな</rt></ruby>じになる<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。<span style=\"\
+  color: blue;\"><ruby>許可<rt>きょか</rt></ruby></span>をもらわないでお<ruby>金<rt>かね</rt></ruby>を<ruby>貸<rt>か</rt></ruby>すと<ruby>法律<rt>ほうりつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>違反<rt>いはん</rt></ruby></span>します」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 禁止
+  descriptions:
+  - してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。
+- word: 札
+  descriptions:
+  - ふだ。
+  - <ruby><rb>紙</rb><rt>かみ</rt></ruby>のお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: クレジットカード
+  descriptions:
+  - <ruby><rb>現金</rb><rt>げんきん</rt></ruby>を<ruby><rb>払</rb><rt>はら</rt></ruby>わなくても、<ruby><rb>後払</rb><rt>あとばら</rt></ruby>いで<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>物</rb><rt>もの</rt></ruby>をすることができるカード。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 許可
+  descriptions:
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>ていたことを、よいと<ruby><rb>許</rb><rt>ゆる</rt></ruby>すこと。<ruby><rb>許</rb><rt>ゆる</rt></ruby>し。
+- word: 違反
+  descriptions:
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。
+web_news_url: /news/web/2017/04/24/メルカリに現金の出品相次ぐ-運営会社が禁止の措置/
+source_url: http://www3.nhk.or.jp/news/easy/k10010959871000/k10010959871000.html
+...

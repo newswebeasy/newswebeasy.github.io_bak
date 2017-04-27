@@ -1,0 +1,78 @@
+---
+layout: easy_news
+categories: easy
+title: 電通が大阪などでも社員を長い時間働かせていた
+title_with_ruby: <ruby>電通<rt>でんつう</rt></ruby>が<ruby>大阪<rt>おおさか</rt></ruby>などでも<ruby>社員<rt>しゃいん</rt></ruby>を<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby><ruby>働<rt>はたら</rt></ruby>かせていた
+last_modified_at: '2017-04-26T16:40:00+09:00'
+datetime: 2017年04月26日 16時40分
+description: 広告こうこくの会社かいしゃの「電通でんつう」で２０１５年ねん、社員しゃいんの女性じょせいが自殺じさつしました。
+image_url: https://newswebeasy.github.io/ja/news/easy/image/2017/04/26/k10010960431000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/26/k10010960431000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>広告<rt>こうこく</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>の「<ruby>電通<rt>でんつう</rt></ruby>」で２０１５<ruby>年<rt>ねん</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>の<ruby>女性<rt>じょせい</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>自殺<rt>じさつ</rt></ruby></span>しました。<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>女性<rt>じょせい</rt></ruby>を<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby><ruby>働<rt>はたら</rt></ruby>かせたことが<ruby>原因<rt>げんいん</rt></ruby>です。</p>\n\
+  <p><ruby>法律<rt>ほうりつ</rt></ruby>では、<span style=\"color: blue;\"><ruby>残業<rt>ざんぎょう</rt></ruby></span>する<ruby>時間<rt>じかん</rt></ruby>などは<ruby>会社<rt>かいしゃ</rt></ruby>と<span\
+  \ style=\"color: blue;\"><ruby>労働組合<rt>ろうどうくみあい</rt></ruby></span>が<ruby>相談<rt>そうだん</rt></ruby>して<ruby>決<rt>き</rt></ruby>めることになっています。<span\
+  \ style=\"color: blue;\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>は、<ruby>電通<rt>でんつう</rt></ruby>がほかにも<ruby>決<rt>き</rt></ruby>めた<ruby>時間<rt>じかん</rt></ruby>より<span\
+  \ style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>を<ruby>長<rt>なが</rt></ruby>く<ruby>働<rt>はたら</rt></ruby>かせて、<ruby>法律<rt>ほうりつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>違反<rt>いはん</rt></ruby></span>している<span style=\"color:\
+  \ blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があると<ruby>考<rt>かんが</rt></ruby>えて<ruby>調<rt>しら</rt></ruby>べました。</p>\n\
+  <p>その<span style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>、<ruby>大阪<rt>おおさか</rt></ruby>と<ruby>名古屋<rt>なごや</rt></ruby>と<ruby>京都<rt>きょうと</rt></ruby>にある３つの<ruby>事務所<rt>じむしょ</rt></ruby>で、５<ruby>人<rt>にん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>を<ruby>長<rt>なが</rt></ruby>く<ruby>働<rt>はたら</rt></ruby>かせたことが<ruby>法律<rt>ほうりつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>違反<rt>いはん</rt></ruby></span>している<span style=\"color:\
+  \ blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>がありました。<span style=\"color: blue;\"\
+  ><ruby>残業<rt>ざんぎょう</rt></ruby></span>は１か<ruby>月<rt>げつ</rt></ruby>に１００<ruby>時間<rt>じかん</rt></ruby>までだと<ruby>決<rt>き</rt></ruby>めていましたが、１０５<ruby>時間<rt>じかん</rt></ruby>になったこともありました。しかし、<span\
+  \ style=\"color: blue;\"><ruby>上司<rt>じょうし</rt></ruby></span>は<span style=\"color:\
+  \ blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>に<ruby>働<rt>はたら</rt></ruby>いた<ruby>時間<rt>じかん</rt></ruby>を<ruby>少<rt>すく</rt></ruby>なく<ruby>言<rt>い</rt></ruby>うように<span\
+  \ style=\"color: blue;\"><ruby>命令<rt>めいれい</rt></ruby></span>していました。</p>\n<p><ruby>東京<rt>とうきょう</rt></ruby>にある<span\
+  \ style=\"color: blue;\"><ruby>本社<rt>ほんしゃ</rt></ruby></span>でも、１０<ruby>人<rt>にん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>を<ruby>長<rt>なが</rt></ruby>く<ruby>働<rt>はたら</rt></ruby>かせた<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>がありましたが、<ruby>法律<rt>ほうりつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>違反<rt>いはん</rt></ruby></span>している<span style=\"color:\
+  \ blue;\"><ruby>証拠<rt>しょうこ</rt></ruby></span>は<ruby>見<rt>み</rt></ruby>つかりませんでした。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 社員
+  descriptions:
+  - その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。
+- word: 広告
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。また、<ruby><rb>知</rb><rt>し</rt></ruby>らせるために<ruby><rb>書</rb><rt>か</rt></ruby>かれたものなど。コマーシャル。
+- word: 自殺
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>絶</rb><rt>た</rt></ruby>つこと。<ruby><rb>自害</rb><rt>じがい</rt></ruby>。
+- word: 残業
+  descriptions:
+  - <ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>時間</rb><rt>じかん</rt></ruby>のあと、<ruby><rb>残</rb><rt>のこ</rt></ruby>って<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をすること。
+- word: 労働組合
+  descriptions:
+  - <ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>権利</rb><rt>けんり</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>り、<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>をよくするためにつくる<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 厚生労働省
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。
+- word: 違反
+  descriptions:
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+- word: 上役
+  descriptions:
+  - <ruby><rb>役所</rb><rt>やくしょ</rt></ruby>や<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>などで、その<ruby><rb>人</rb><rt>ひと</rt></ruby>より<ruby><rb>地位</rb><rt>ちい</rt></ruby>が<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 命令
+  descriptions:
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>言</rb><rt>い</rt></ruby>いつけること。<ruby><rb>言</rb><rt>い</rt></ruby>いつけ。
+- word: 本社
+  descriptions:
+  - <ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になっている<ruby><rb>事業所</rb><rt>じぎょうしょ</rt></ruby>。
+  - いくつかの<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>もとになっている<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>。
+  - この<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>。わが<ruby><rb>社</rb><rt>しゃ</rt></ruby>。<ruby><rb>当社</rb><rt>とうしゃ</rt></ruby>。
+- word: 証拠
+  descriptions:
+  - ものごとを<ruby><rb>明</rb><rt>あき</rt></ruby>らかにする、よりどころとなるもの。
+web_news_url: /news/web/2017/04/25/電通の3支社の幹部らを書類送検-労基法違反疑い/
+source_url: http://www3.nhk.or.jp/news/easy/k10010960431000/k10010960431000.html
+...

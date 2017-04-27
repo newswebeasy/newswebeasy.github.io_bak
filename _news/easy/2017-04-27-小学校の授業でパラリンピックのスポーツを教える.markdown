@@ -1,0 +1,60 @@
+---
+layout: easy_news
+categories: easy
+title: 小学校の授業でパラリンピックのスポーツを教える
+title_with_ruby: <ruby>小学校<rt>しょうがっこう</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>でパラリンピックのスポーツを<ruby>教<rt>おし</rt></ruby>える
+last_modified_at: '2017-04-27T11:30:00+09:00'
+datetime: 2017年04月27日 11時30分
+description: ２０２０年ねんに東京とうきょうでパラリンピックがあります。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/27/k10010960671000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/27/k10010960671000.mp3
+contents: "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<span style=\"\
+  color: blue;\">パラリンピック</span>があります。<span style=\"color: blue;\">パラリンピック</span>を<ruby>開<rt>ひら</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>委員会<rt>いいんかい</rt></ruby></span>のＩＰＣなどは、<ruby>体<rt>からだ</rt></ruby>などに<span\
+  \ style=\"color: blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>たちのスポーツを<ruby>子<rt>こ</rt></ruby>どもたちに<ruby>知<rt>し</rt></ruby>ってもらうために<ruby>本<rt>ほん</rt></ruby>や<span\
+  \ style=\"color: blue;\">ビデオ</span>を<ruby>作<rt>つく</rt></ruby>りました。そして<ruby>今月<rt>こんげつ</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>小学校<rt>しょうがっこう</rt></ruby>に<ruby>送<rt>おく</rt></ruby>りました。</p>\n\
+  <p>２５<ruby>日<rt>にち</rt></ruby>、<ruby>東京都<rt>とうきょうと</rt></ruby><ruby>東久留米市<rt>ひがしくるめし</rt></ruby>にある<ruby>小学校<rt>しょうがっこう</rt></ruby>の６<ruby>年生<rt>ねんせい</rt></ruby>のクラスで、この<ruby>本<rt>ほん</rt></ruby>や<span\
+  \ style=\"color: blue;\">ビデオ</span>を<ruby>使<rt>つか</rt></ruby>った<ruby>授業<rt>じゅぎょう</rt></ruby>がありました。<ruby>子<rt>こ</rt></ruby>どもたちはまず、<ruby>去年<rt>きょねん</rt></ruby>の<span\
+  \ style=\"color: blue;\">パラリンピック</span>の<span style=\"color: blue;\">ビデオ</span>を<ruby>見<rt>み</rt></ruby>ました。そして、<ruby>体<rt>からだ</rt></ruby>などに<span\
+  \ style=\"color: blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>たちのスポーツでは、どんな<ruby>道具<rt>どうぐ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っていてどんな<span\
+  \ style=\"color: blue;\">ルール</span>になっているかを<ruby>勉強<rt>べんきょう</rt></ruby>しました。</p>\n\
+  <p>そのあと<ruby>子<rt>こ</rt></ruby>どもたちは<ruby>体育館<rt>たいいくかん</rt></ruby>に<ruby>行<rt>い</rt></ruby>って、<ruby>座<rt>すわ</rt></ruby>ったままでする<span\
+  \ style=\"color: blue;\">バレーボール</span>の「シッティングバレーボール」をしてみました。クラスの<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>仲間<rt>なかま</rt></ruby></span>にボールを<ruby>優<rt>やさ</rt></ruby>しく<span\
+  \ style=\"color: blue;\">パス</span>することが<ruby>大事<rt>だいじ</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>いました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: 委員会
+  descriptions:
+  - <ruby><rb>委員</rb><rt>いいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>相談</rb><rt>そうだん</rt></ruby>したりものごとを<ruby><rb>決</rb><rt>き</rt></ruby>めたりする<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: 障害
+  descriptions:
+  - <ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。
+- word: ビデオ
+  descriptions:
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。
+  - 「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: ルール
+  descriptions:
+  - <ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。
+- word: バレー
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「バレーボール」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>六人</rb><rt>ろくにん</rt></ruby>、または<ruby><rb>九人</rb><rt>くにん</rt></ruby>ずつのチームが、ネットをはさんで、ボールを<ruby><rb>落</rb><rt>お</rt></ruby>とさないように<ruby><rb>手</rb><rt>て</rt></ruby>で<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+- word: 仲間
+  descriptions:
+  - いっしょにものごとをする<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>友達</rb><rt>ともだち</rt></ruby>。グループ。
+  - <ruby><rb>種類</rb><rt>しゅるい</rt></ruby>の<ruby><rb>同</rb><rt>おな</rt></ruby>じもの。
+- word: パス
+  descriptions:
+  - <ruby><rb>試験</rb><rt>しけん</rt></ruby>などに<ruby><rb>合格</rb><rt>ごうかく</rt></ruby>すること。
+  - <ruby><rb>順番</rb><rt>じゅんばん</rt></ruby>をぬかすこと。
+  - <ruby><rb>球技</rb><rt>きゅうぎ</rt></ruby>などで、ボールを<ruby><rb>味方</rb><rt>みかた</rt></ruby>に<ruby><rb>送</rb><rt>おく</rt></ruby>ること。
+  - <ruby><rb>定期券</rb><rt>ていきけん</rt></ruby>。
+web_news_url: /news/web/2017/04/25/小学校でパラリンピック競技への理解深める授業-東京/
+source_url: http://www3.nhk.or.jp/news/easy/k10010960671000/k10010960671000.html
+...
