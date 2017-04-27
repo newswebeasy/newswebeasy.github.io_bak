@@ -1,0 +1,39 @@
+---
+layout: easy_news
+categories: easy
+title: はしかにならないように外国に行く人は気をつけて
+title_with_ruby: 「はしかにならないように<ruby>外国<rt>がいこく</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>は<ruby>気<rt>き</rt></ruby>をつけて」
+last_modified_at: '2017-04-27T15:20:00+09:00'
+datetime: 2017年04月27日 15時20分
+description: 「はしか」は熱ねつが出でたり体からだに赤あかい点てんが出でたりする病気びょうきで、ウイルスでうつります。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/27/k10010962611000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/27/k10010962611000.mp3
+contents: "<p>「はしか」は<ruby>熱<rt>ねつ</rt></ruby>が<ruby>出<rt>で</rt></ruby>たり<ruby>体<rt>からだ</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>い<ruby>点<rt>てん</rt></ruby>が<ruby>出<rt>で</rt></ruby>たりする<ruby>病気<rt>びょうき</rt></ruby>で、<span\
+  \ style=\"color: blue;\">ウイルス</span>でうつります。<span style=\"color: blue;\"><ruby>妊娠<rt>にんしん</rt></ruby></span>している<ruby>人<rt>ひと</rt></ruby>がなると、おなかの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>危険<rt>きけん</rt></ruby>になる<ruby>場合<rt>ばあい</rt></ruby>があります。</p>\n\
+  <p><ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>によると、１<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>〜４<ruby>月<rt>がつ</rt></ruby>１６<ruby>日<rt>にち</rt></ruby>に<ruby>病院<rt>びょういん</rt></ruby>などではしかだとわかった<ruby>人<rt>ひと</rt></ruby>は１３９<ruby>人<rt>にん</rt></ruby>います。この<ruby>中<rt>なか</rt></ruby>の２１<ruby>人<rt>にん</rt></ruby>は<ruby>外国<rt>がいこく</rt></ruby>に<ruby>行<rt>い</rt></ruby>ったことがある<ruby>人<rt>ひと</rt></ruby>で、<ruby>特<rt>とく</rt></ruby>にアジアの<ruby>国<rt>くに</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。</p>\n\
+  <p><ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>は、これから<ruby>始<rt>はじ</rt></ruby>まる<span\
+  \ style=\"color: blue;\"><ruby>大型連休<rt>おおがたれんきゅう</rt></ruby></span>で<ruby>特<rt>とく</rt></ruby>にアジアに<ruby>行<rt>い</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>は、はしかにならないように<ruby>気<rt>き</rt></ruby>をつけてほしいと<ruby>言<rt>い</rt></ruby>っています。<ruby>外国<rt>がいこく</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に、<ruby>自分<rt>じぶん</rt></ruby>がはしかの<span\
+  \ style=\"color: blue;\">ワクチン</span>をいつ<ruby>注射<rt>ちゅうしゃ</rt></ruby>したか<ruby>調<rt>しら</rt></ruby>べるように<ruby>言<rt>い</rt></ruby>っています。<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ってきて<ruby>熱<rt>ねつ</rt></ruby>が<ruby>出<rt>で</rt></ruby>たり<ruby>体<rt>からだ</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>い<ruby>点<rt>てん</rt></ruby>が<ruby>出<rt>で</rt></ruby>たりしたら、<ruby>病院<rt>びょういん</rt></ruby>に<ruby>行<rt>い</rt></ruby>くように<ruby>言<rt>い</rt></ruby>っています。ほかの<ruby>人<rt>ひと</rt></ruby>に<span\
+  \ style=\"color: blue;\">うつさ</span>ないように、<ruby>病院<rt>びょういん</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>にまず<ruby>電話<rt>でんわ</rt></ruby>で<ruby>説明<rt>せつめい</rt></ruby>をして、<ruby>電車<rt>でんしゃ</rt></ruby>やバスなどを<ruby>使<rt>つか</rt></ruby>わないで<ruby>行<rt>い</rt></ruby>ってほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ウイルス
+  descriptions:
+  - <ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。
+- word: 妊娠
+  descriptions:
+  - おなかの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>子</rb><rt>こ</rt></ruby>どもを<ruby><rb>宿</rb><rt>やど</rt></ruby>すこと。みごもること。
+- word: ゴールデンウイーク
+  descriptions:
+  - <ruby><rb>四月</rb><rt>しがつ</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりから<ruby><rb>五月</rb><rt>ごがつ</rt></ruby>のはじめにかけての、<ruby><rb>休日</rb><rt>きゅうじつ</rt></ruby>の<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>一週間</rb><rt>いっしゅうかん</rt></ruby>。<ruby><rb>大型連休</rb><rt>おおがたれんきゅう</rt></ruby>。
+- word: ワクチン
+  descriptions:
+  - <ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>のもとになるばいきんなどから<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>薬</rb><rt>くすり</rt></ruby>。これを<ruby><rb>接種</rb><rt>せっしゅ</rt></ruby>して、その<ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>にかからないようにする。
+- word: 移す
+  descriptions:
+  - <ruby><rb>場所</rb><rt>ばしょ</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - ものごとを<ruby><rb>進</rb><rt>すす</rt></ruby>める。
+  - <ruby><rb>感染</rb><rt>かんせん</rt></ruby>させる。
+web_news_url: /news/web/2017/04/27/はしか感染に注意-渡航前にワクチンの接種歴確認を/
+source_url: http://www3.nhk.or.jp/news/easy/k10010962611000/k10010962611000.html
+...
