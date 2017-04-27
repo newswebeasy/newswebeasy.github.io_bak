@@ -1,0 +1,83 @@
+---
+layout: easy_news
+categories: easy
+title: 広島の原爆資料館-新しくなった東館がオープン
+title_with_ruby: <ruby>広島<rt>ひろしま</rt></ruby>の<ruby>原爆資料館<rt>げんばくしりょうかん</rt></ruby>　<ruby>新<rt>あたら</rt></ruby>しくなった<ruby>東<rt>ひがし</rt></ruby><ruby>館<rt>かん</rt></ruby>がオープン
+last_modified_at: '2017-04-27T15:20:00+09:00'
+datetime: 2017年04月27日 15時20分
+description: 広島市ひろしましにある原爆資料館げんばくしりょうかんの東ひがし館かんは、地震じしんで建物たてものが壊こわれないように工事こうじをするため、休やすんでいました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/27/k10010961781000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/27/k10010961781000.mp3
+contents: "<p><ruby>広島市<rt>ひろしまし</rt></ruby>にある<ruby>原爆資料館<rt>げんばくしりょうかん</rt></ruby>の<ruby>東<rt>ひがし</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>館<rt>かん</rt></ruby></span>は、<ruby>地震<rt>じしん</rt></ruby>で<ruby>建物<rt>たてもの</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れないように<span\
+  \ style=\"color: blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>をするため、<ruby>休<rt>やす</rt></ruby>んでいました。２６<ruby>日<rt>にち</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>が<ruby>終<rt>お</rt></ruby>わった<ruby>東<rt>ひがし</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>館<rt>かん</rt></ruby></span>が<span style=\"color: blue;\"\
+  >オープン</span>して、<span style=\"color: blue;\"><ruby>展示<rt>てんじ</rt></ruby></span>も<ruby>新<rt>あたら</rt></ruby>しくなりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>原爆<rt>げんばく</rt></ruby></span>で<ruby>町<rt>まち</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>一瞬<rt>いっしゅん</rt></ruby></span>で<ruby>壊<rt>こわ</rt></ruby>れる<span\
+  \ style=\"color: blue;\"><ruby>様子<rt>ようす</rt></ruby></span>をコンピューターの<span style=\"\
+  color: blue;\"><ruby>映像<rt>えいぞう</rt></ruby></span>で<ruby>見<rt>み</rt></ruby>ることができます。そのほか、<span\
+  \ style=\"color: blue;\"><ruby>原爆<rt>げんばく</rt></ruby></span>の<ruby>熱<rt>ねつ</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>溶<rt>と</rt></ruby>け</span>た<span style=\"color: blue;\"\
+  ><ruby>瓶<rt>びん</rt></ruby></span>や<span style=\"color: blue;\"><ruby>瓦<rt>かわら</rt></ruby></span>が<span\
+  \ style=\"color: blue;\"><ruby>展示<rt>てんじ</rt></ruby></span>してあって、<ruby>触<rt>さわ</rt></ruby>ることもできます。<ruby>原爆資料館<rt>げんばくしりょうかん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は「よく<span\
+  \ style=\"color: blue;\"><ruby>整理<rt>せいり</rt></ruby></span>して<span style=\"color:\
+  \ blue;\"><ruby>展示<rt>てんじ</rt></ruby></span>してあって、わかりやすかったです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>原爆資料館<rt>げんばくしりょうかん</rt></ruby>の<span style=\"color: blue;\"><ruby>本館<rt>ほんかん</rt></ruby></span>は、<span\
+  \ style=\"color: blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>をするため４<ruby>月<rt>がつ</rt></ruby>２６<ruby>日<rt>にち</rt></ruby>から<ruby>来年<rt>らいねん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>まで<ruby>休<rt>やす</rt></ruby>みます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 館
+  descriptions:
+  - <ruby><rb>家</rb><rt>いえ</rt></ruby>。<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>建物</rb><rt>たてもの</rt></ruby>につけることば。
+  - <ruby><rb>宿屋</rb><rt>やどや</rt></ruby>などの<ruby><rb>名前</rb><rt>なまえ</rt></ruby>につけることば。
+- word: オープン
+  descriptions:
+  - <ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。
+  - かくしだてをしないようす。
+  - おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。
+- word: 工事
+  descriptions:
+  - <ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。
+- word: 展示
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>並</rb><rt>なら</rt></ruby>べて、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+- word: 原子爆弾
+  descriptions:
+  - <ruby><rb>原子核分裂</rb><rt>げんしかくぶんれつ</rt></ruby>によって<ruby><rb>起</rb><rt>お</rt></ruby>こる、ものすごい<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>殺</rb><rt>ころ</rt></ruby>す。<ruby><rb>原爆</rb><rt>げんばく</rt></ruby>。
+- word: 一瞬
+  descriptions:
+  - ほんのちょっとの<ruby><rb>間</rb><rt>あいだ</rt></ruby>。
+- word: 様子
+  descriptions:
+  - ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。
+  - <ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。
+  - そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。
+  - わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。
+- word: 映像
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>によって<ruby><rb>映</rb><rt>うつ</rt></ruby>し<ruby><rb>出</rb><rt>だ</rt></ruby>された、<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+  - <ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にうかんだ<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やようす。イメージ。
+- word: 溶ける
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>などに<ruby><rb>混</rb><rt>ま</rt></ruby>ざって、<ruby><rb>元</rb><rt>もと</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>がなくなる。
+  - <ruby><rb>固</rb><rt>かた</rt></ruby>まっている<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>液体</rb><rt>えきたい</rt></ruby>のようになる。
+- word: 瓶
+  descriptions:
+  - ガラスやせともの・<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 瓦
+  descriptions:
+  - <ruby><rb>屋根</rb><rt>やね</rt></ruby>をおおうのに<ruby><rb>使</rb><rt>つか</rt></ruby>うもの。<ruby><rb>粘土</rb><rt>ねんど</rt></ruby>を<ruby><rb>固</rb><rt>かた</rt></ruby>めてのばし、かまで<ruby><rb>焼</rb><rt>や</rt></ruby>いて<ruby><rb>作</rb><rt>つく</rt></ruby>る。
+- word: 整理
+  descriptions:
+  - きちんとかたづけること。
+  - <ruby><rb>必要</rb><rt>ひつよう</rt></ruby>でないものを<ruby><rb>捨</rb><rt>す</rt></ruby>てること。
+- word: 本館
+  descriptions:
+  - いくつかある<ruby><rb>建物</rb><rt>たてもの</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で<ruby><rb>主</rb><rt>しゅ</rt></ruby>になる<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+  - この<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。<ruby><rb>当館</rb><rt>とうかん</rt></ruby>。
+web_news_url: /news/web/2017/04/26/原爆資料館東館-2年8か月ぶりに一般公開/
+source_url: http://www3.nhk.or.jp/news/easy/k10010961781000/k10010961781000.html
+...
