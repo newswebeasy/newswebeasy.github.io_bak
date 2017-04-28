@@ -1,0 +1,55 @@
+---
+layout: easy_news
+categories: easy
+title: 卒業する学生より会社が雇いたい人の数が来年も多い
+title_with_ruby: <ruby>卒業<rt>そつぎょう</rt></ruby>する<ruby>学生<rt>がくせい</rt></ruby>より<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>雇<rt>やと</rt></ruby>いたい<ruby>人<rt>ひと</rt></ruby>の<ruby>数<rt>かず</rt></ruby>が<ruby>来年<rt>らいねん</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い
+last_modified_at: '2017-04-28T11:30:00+09:00'
+datetime: 2017年04月28日 11時30分
+description: リクルートホールディングスは、働はたらいている人ひとが５人にん以上いじょういる７０００の会社かいしゃに、来年らいねん大学だいがくや大学院だいがくいんを卒業そつぎょうする学生がくせいを何なん人にん雇やとうか聞ききました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/04/28/k10010961851000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/28/k10010961851000.mp3
+contents: "<p>リクルートホールディングスは、<ruby>働<rt>はたら</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>が５<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>いる７０００の<ruby>会社<rt>かいしゃ</rt></ruby>に、<ruby>来年<rt>らいねん</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>や<ruby>大学院<rt>だいがくいん</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>する<ruby>学生<rt>がくせい</rt></ruby>を<ruby>何<rt>なん</rt></ruby><ruby>人<rt>にん</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>雇<rt>やと</rt></ruby>う</span>か<ruby>聞<rt>き</rt></ruby>きました。６０%ぐらいの<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>答<rt>こた</rt></ruby>えました。</p>\n\
+  <p>リクルートは、<ruby>会社<rt>かいしゃ</rt></ruby>が<span style=\"color: blue;\"><ruby>雇<rt>やと</rt></ruby>い</span>たい<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>と<ruby>来年<rt>らいねん</rt></ruby><ruby>卒業<rt>そつぎょう</rt></ruby>する<ruby>学生<rt>がくせい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>を<ruby>比<rt>くら</rt></ruby>べました。その<span\
+  \ style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>、<ruby>会社<rt>かいしゃ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>雇<rt>やと</rt></ruby>い</span>たい<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>が<ruby>学生<rt>がくせい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>の１．７８<ruby>倍<rt>ばい</rt></ruby>になりました。この<span\
+  \ style=\"color: blue;\"><ruby>倍率<rt>ばいりつ</rt></ruby></span>は、６<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>とし</rt></ruby>より<ruby>高<rt>たか</rt></ruby>くなりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>倍率<rt>ばいりつ</rt></ruby></span>がいちばん<ruby>高<rt>たか</rt></ruby>いのは、スーパーや<span\
+  \ style=\"color: blue;\">コンビニ</span>などの<ruby>流通業<rt>りゅうつうぎょう</rt></ruby>で、１１．３２<ruby>倍<rt>ばい</rt></ruby>でした。<ruby>次<rt>つぎ</rt></ruby>に<ruby>高<rt>たか</rt></ruby>いのは、<ruby>建物<rt>たてもの</rt></ruby>などをつくる<ruby>建設業<rt>けんせつぎょう</rt></ruby>で９．４１<ruby>倍<rt>ばい</rt></ruby>でした。どちらも<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>高<rt>たか</rt></ruby>くなりました。</p>\n\
+  <p>リクルートの<ruby>人<rt>ひと</rt></ruby>は「<ruby>学生<rt>がくせい</rt></ruby>は、<ruby>流通業<rt>りゅうつうぎょう</rt></ruby>や<ruby>建設業<rt>けんせつぎょう</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>が<ruby>厳<rt>きび</rt></ruby>しいとか、<ruby>働<rt>はたら</rt></ruby>く<ruby>時間<rt>じかん</rt></ruby>が<ruby>長<rt>なが</rt></ruby>いという<span\
+  \ style=\"color: blue;\">イメージ</span>を<ruby>持<rt>も</rt></ruby>っています。このため、<ruby>入<rt>はい</rt></ruby>りたいと<ruby>思<rt>おも</rt></ruby>う<ruby>学生<rt>がくせい</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないようです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 雇う
+  descriptions:
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>をはらって<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>をはらって<ruby><rb>車</rb><rt>くるま</rt></ruby>や<ruby><rb>船</rb><rt>ふね</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>する。
+- word: 数
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。
+  - いくつもあること。たくさん。
+  - <ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。
+- word: 雇う
+  descriptions:
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>をはらって<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>をはらって<ruby><rb>車</rb><rt>くるま</rt></ruby>や<ruby><rb>船</rb><rt>ふね</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>する。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+- word: 倍率
+  descriptions:
+  - レンズで<ruby><rb>見</rb><rt>み</rt></ruby>たときの<ruby><rb>大</rb><rt>おお</rt></ruby>きさと、ほんものの<ruby><rb>大</rb><rt>おお</rt></ruby>きさとの<ruby><rb>割合</rb><rt>わりあい</rt></ruby>。
+  - ある<ruby><rb>数</rb><rt>かず</rt></ruby>が、もとの<ruby><rb>数</rb><rt>かず</rt></ruby>の<ruby><rb>何倍</rb><rt>なんばい</rt></ruby>かを<ruby><rb>表</rb><rt>あらわ</rt></ruby>す<ruby><rb>数</rb><rt>かず</rt></ruby>。
+- word: コンビニ
+  descriptions:
+  - <ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。
+- word: イメージ
+  descriptions:
+  - <ruby><rb>想像</rb><rt>そうぞう</rt></ruby>して、<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にえがき<ruby><rb>出</rb><rt>だ</rt></ruby>す、ものの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+web_news_url: /news/web/2017/04/26/来春卒業の大学生大学院生の求人倍率-6年連続上昇/
+source_url: http://www3.nhk.or.jp/news/easy/k10010961851000/k10010961851000.html
+...
