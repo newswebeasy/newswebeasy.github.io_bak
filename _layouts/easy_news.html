@@ -19,16 +19,10 @@
             <p>
               <audio id="player" src="{{ page.voice_url }}" controls loop autoplay style="width:100%"></audio>
             </p>
-            <div class="weui-slider-box">
-              <div class="slider-label"><ruby>再生<rt>さいせい</rt></ruby><ruby>速度<rt>そくど</rt></ruby></div>
-              <div class="weui-slider">
-                <div id="sliderInner" class="weui-slider__inner">
-                  <div id="sliderTrack" style="width: 50%;" class="weui-slider__track"></div>
-                  <div id="sliderHandler" draggable="true" style="left: 50%;" class="weui-slider__handler"></div>
-                </div>
-              </div>
-              <div class="slider-label">x</div>
-              <div id="sliderValue" class="weui-slider-box__value">1.0</div>
+            <div id="speed">
+              <label><input type="radio" name="toggle" onclick="document.getElementById('player').playbackRate=1.0"><span>x 1.0</span></label>
+              <label><input type="radio" name="toggle" onclick="document.getElementById('player').playbackRate=1.2"><span>x 1.2</span></label>
+              <label><input type="radio" name="toggle" onclick="document.getElementById('player').playbackRate=1.5"><span>x 1.5</span></label>
             </div>
             <p></p>
 
@@ -68,8 +62,8 @@
       </div>
     </div>
   </div>
-  <script src="{{ "/assets/zepto.min.js" | relative_url }}"></script>
-  <script src="{{ "/assets/main.js" | relative_url }}"></script>
+  <script>
+  </script>
 </body>
 
 </html>
