@@ -453,3 +453,8 @@ img {
 #speed span {
   font-size:14px;
 }
+
+.message {
+  font-size:10px;
+  color:#7f7f7f;
+}
