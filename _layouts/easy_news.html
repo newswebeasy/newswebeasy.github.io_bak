@@ -20,7 +20,8 @@
               <audio id="player" src="{{ page.voice_url }}" controls loop autoplay style="width:100%"></audio>
             </p>
             <div id="speed">
-              <label><input type="radio" name="toggle" onclick="document.getElementById('player').playbackRate=1.0"><span>x 1.0</span></label>
+              <span><ruby>再生<rt>さいせい</rt></ruby><ruby>速度<rt>そくど</rt></ruby></span>
+              <label><input type="radio" name="toggle" onclick="document.getElementById('player').playbackRate=1.0" checked><span>x 1.0</span></label>
               <label><input type="radio" name="toggle" onclick="document.getElementById('player').playbackRate=1.2"><span>x 1.2</span></label>
               <label><input type="radio" name="toggle" onclick="document.getElementById('player').playbackRate=1.5"><span>x 1.5</span></label>
             </div>
