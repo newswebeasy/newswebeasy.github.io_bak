@@ -1,0 +1,68 @@
+---
+layout: easy_news
+categories: easy
+title: 探査機のカッシーニが初めて土星と輪の間に入る
+title_with_ruby: <ruby>探査<rt>たんさ</rt></ruby><ruby>機<rt>き</rt></ruby>の「カッシーニ」が<ruby>初<rt>はじ</rt></ruby>めて<ruby>土星<rt>どせい</rt></ruby>と<ruby>輪<rt>わ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る
+last_modified_at: '2017-04-28T15:25:00+09:00'
+datetime: 2017年04月28日 15時25分
+description: 「カッシーニ」は、土星どせいを調しらべるためにＮＡＳＡなどが作つくった探査たんさ機きで、１９９７年ねんに打うち上あげられました。
+image_url: https://newswebeasy.github.io/ja/news/easy/image/2017/04/28/k10010963911000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/04/28/k10010963911000.mp3
+contents: "<p>「カッシーニ」は、<span style=\"color: blue;\"><ruby>土星<rt>どせい</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べるためにＮＡＳＡなどが<ruby>作<rt>つく</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>探査<rt>たんさ</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>機<rt>き</rt></ruby></span>で、１９９７<ruby>年<rt>ねん</rt></ruby>に<span style=\"\
+  color: blue;\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</span>られました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>で４<ruby>月<rt>がつ</rt></ruby>２６<ruby>日<rt>にち</rt></ruby>、カッシーニが<ruby>初<rt>はじ</rt></ruby>めて<span\
+  \ style=\"color: blue;\"><ruby>土星<rt>どせい</rt></ruby></span>と<span style=\"color:\
+  \ blue;\"><ruby>輪<rt>わ</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っていきました。カッシーニは<span\
+  \ style=\"color: blue;\"><ruby>土星<rt>どせい</rt></ruby></span>から３０００ｋmぐらいの<ruby>所<rt>ところ</rt></ruby>を、<span\
+  \ style=\"color: blue;\"><ruby>時速<rt>じそく</rt></ruby></span>１２<ruby>万<rt>まん</rt></ruby>ｋm<ruby>以上<rt>いじょう</rt></ruby>で<ruby>通<rt>とお</rt></ruby>りました。</p>\n\
+  <p>カッシーニが<ruby>送<rt>おく</rt></ruby>ってきた<ruby>写真<rt>しゃしん</rt></ruby>には、<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>土星<rt>どせい</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>大気<rt>たいき</rt></ruby></span>の<span style=\"color: blue;\"><ruby>渦<rt>うず</rt></ruby></span>が<span\
+  \ style=\"color: blue;\"><ruby>写<rt>うつ</rt></ruby>っ</span>ています。ＮＡＳＡによると、これは<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>近<rt>ちか</rt></ruby>くから<ruby>撮<rt>と</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>土星<rt>どせい</rt></ruby></span>の<ruby>写真<rt>しゃしん</rt></ruby>です。</p>\n\
+  <p>カッシーニは<span style=\"color: blue;\"><ruby>土星<rt>どせい</rt></ruby></span>と<span style=\"\
+  color: blue;\"><ruby>輪<rt>わ</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>全部<rt>ぜんぶ</rt></ruby>で２２<ruby>回<rt>かい</rt></ruby><ruby>入<rt>はい</rt></ruby>って、９<ruby>月<rt>がつ</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>が<ruby>終<rt>お</rt></ruby>わる<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 探査
+  descriptions:
+  - <ruby><rb>探</rb><rt>さが</rt></ruby>して<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: 機
+  descriptions:
+  - <ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。
+  - とき。きっかけ。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>動</rb><rt>うご</rt></ruby>き。
+  - はたらき。
+  - だいじな<ruby><rb>点</rb><rt>てん</rt></ruby>。
+  - 「<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。また、<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 土星
+  descriptions:
+  - <ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>六番</rb><rt>ろくばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>星</rb><rt>ほし</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まりが<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>っているので、<ruby><rb>輪</rb><rt>わ</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれたように<ruby><rb>見</rb><rt>み</rt></ruby>える。
+- word: 輪
+  descriptions:
+  - <ruby><rb>円</rb><rt>まる</rt></ruby>い<ruby><rb>形</rb><rt>かたち</rt></ruby>。
+  - じくの<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>って、<ruby><rb>車</rb><rt>くるま</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かすもの。<ruby><rb>車輪</rb><rt>しゃりん</rt></ruby>。
+- word: 打ち上げる
+  descriptions:
+  - （<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - <ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - （<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。
+- word: 時速
+  descriptions:
+  - <ruby><rb>一時間</rb><rt>いちじかん</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>速</rb><rt>はや</rt></ruby>さ。
+- word: 大気
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>巻</rb><rt>ま</rt></ruby>く<ruby><rb>空気</rb><rt>くうき</rt></ruby>。
+- word: 渦
+  descriptions:
+  - ぐるぐると<ruby><rb>巻</rb><rt>ま</rt></ruby>きこむように<ruby><rb>回</rb><rt>まわ</rt></ruby>る、<ruby><rb>水</rb><rt>みず</rt></ruby>や<ruby><rb>空気</rb><rt>くうき</rt></ruby>の<ruby><rb>流</rb><rt>なが</rt></ruby>れ。<ruby><rb>渦巻</rb><rt>うずま</rt></ruby>き。
+  - ごみごみとした、<ruby><rb>目</rb><rt>め</rt></ruby>まぐるしい<ruby><rb>動</rb><rt>うご</rt></ruby>き。
+- word: 写る
+  descriptions:
+  - （<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>字</rb><rt>じ</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>が）すけて<ruby><rb>見</rb><rt>み</rt></ruby>える。
+  - <ruby><rb>写真</rb><rt>しゃしん</rt></ruby>にとられる。
+web_news_url: /news/web/2017/04/27/土星探査機カッシーニが捉えた画像-nasaが公開/
+source_url: http://www3.nhk.or.jp/news/easy/k10010963911000/k10010963911000.html
+...
