@@ -1,0 +1,74 @@
+---
+layout: easy_news
+categories: easy
+title: 笑いはがんの治療の役に立つかどうか研究する
+title_with_ruby: <ruby>笑<rt>わら</rt></ruby>いは「がん」の<ruby>治療<rt>ちりょう</rt></ruby>の<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つかどうか<ruby>研究<rt>けんきゅう</rt></ruby>する
+last_modified_at: '2017-05-01T11:30:00+09:00'
+datetime: 2017年05月01日 11時30分
+description: 笑わらうと、ストレスが少すくなくなるなど体からだにいいことがあると言いわれています。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/01/k10010963641000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/01/k10010963641000.mp3
+contents: "<p><ruby>笑<rt>わら</rt></ruby>うと、<span style=\"color: blue;\">ストレス</span>が<ruby>少<rt>すく</rt></ruby>なくなるなど<ruby>体<rt>からだ</rt></ruby>にいいことがあると<ruby>言<rt>い</rt></ruby>われています。<ruby>大阪<rt>おおさか</rt></ruby><ruby>国際<rt>こくさい</rt></ruby>がんセンターは、<span\
+  \ style=\"color: blue;\"><ruby>笑<rt>わら</rt></ruby>い</span>が「<span style=\"color:\
+  \ blue;\">がん</span>」の<span style=\"color: blue;\"><ruby>治療<rt>ちりょう</rt></ruby></span>の<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つかどうか<ruby>調<rt>しら</rt></ruby>べる<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めます。</p>\n\
+  <p><ruby>研究<rt>けんきゅう</rt></ruby>では、<span style=\"color: blue;\">がん</span>になって<ruby>病院<rt>びょういん</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>っている７０<ruby>人<rt>にん</rt></ruby>に、<ruby>面白<rt>おもしろ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>落語<rt>らくご</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>漫才<rt>まんざい</rt></ruby></span>などを<ruby>見<rt>み</rt></ruby>てもらいます。<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>見<rt>み</rt></ruby>た<span\
+  \ style=\"color: blue;\">グループ</span>と<ruby>半分<rt>はんぶん</rt></ruby>だけ<ruby>見<rt>み</rt></ruby>た<span\
+  \ style=\"color: blue;\">グループ</span>を<ruby>比<rt>くら</rt></ruby>べて、<ruby>体<rt>からだ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>免疫<rt>めんえき</rt></ruby></span>などに<span style=\"color:\
+  \ blue;\"><ruby>違<rt>ちが</rt></ruby>い</span>があるかどうか<ruby>調<rt>しら</rt></ruby>べます。</p>\n\
+  <p><ruby>研究<rt>けんきゅう</rt></ruby>に<span style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>する<ruby>落語<rt>らくご</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>桂<rt>かつら</rt></ruby><ruby>文珍<rt>ぶんちん</rt></ruby>さんは「<span\
+  \ style=\"color: blue;\">がん</span>になった<ruby>人<rt>ひと</rt></ruby>の<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つといいなと<ruby>思<rt>おも</rt></ruby>って、<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby>やります。<ruby>笑<rt>わら</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>痛<rt>いた</rt></ruby>み</span>を<ruby>忘<rt>わす</rt></ruby>れてほしいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>この<ruby>研究<rt>けんきゅう</rt></ruby>の<span style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>は、<ruby>専門<rt>せんもん</rt></ruby>の<ruby>雑誌<rt>ざっし</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>する<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 笑い
+  descriptions:
+  - <ruby><rb>笑</rb><rt>わら</rt></ruby>うこと。
+  - ばかにすること。
+- word: がん
+  descriptions:
+  - <ruby><rb>悪性</rb><rt>あくせい</rt></ruby>のはれものができる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にできたがん<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>がどんどん<ruby><rb>増</rb><rt>ふ</rt></ruby>えて<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>害</rb><rt>がい</rt></ruby>をあたえる。
+- word: 治療
+  descriptions:
+  - <ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがの<ruby><rb>手当</rb><rt>てあ</rt></ruby>てをして<ruby><rb>治</rb><rt>なお</rt></ruby>すこと。
+- word: ストレス
+  descriptions:
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>や<ruby><rb>気持</rb><rt>きも</rt></ruby>ちに<ruby><rb>悪</rb><rt>わる</rt></ruby>い<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる、いろいろなしげき。そのために<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>や<ruby><rb>気分</rb><rt>きぶん</rt></ruby>が、ふだんと<ruby><rb>変</rb><rt>か</rt></ruby>わる。
+- word: 落語
+  descriptions:
+  - <ruby><rb>演芸</rb><rt>えんげい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>独</rb><rt>ひと</rt></ruby>りで<ruby><rb>語</rb><rt>かた</rt></ruby>って、<ruby><rb>終</rb><rt>お</rt></ruby>わりに<ruby><rb>落</rb><rt>お</rt></ruby>ちをつける、こっけいな<ruby><rb>話</rb><rt>はなし</rt></ruby>。<ruby><rb>落</rb><rt>お</rt></ruby>としばなし。
+- word: 漫才
+  descriptions:
+  - <ruby><rb>二人</rb><rt>ふたり</rt></ruby>でこっけいな<ruby><rb>話</rb><rt>はなし</rt></ruby>のやりとりをする<ruby><rb>演芸</rb><rt>えんげい</rt></ruby>。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 免疫
+  descriptions:
+  - <ruby><rb>病気</rb><rt>びょうき</rt></ruby>にかかりにくくしている<ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらき。<ruby><rb>前</rb><rt>まえ</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>その<ruby><rb>病気</rb><rt>びょうき</rt></ruby>にかかったり、<ruby><rb>予防接種</rb><rt>よぼうせっしゅ</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けたりするとできる。
+  - それに<ruby><rb>慣</rb><rt>な</rt></ruby>れてしまって、<ruby><rb>気</rb><rt>き</rt></ruby>にしなくなること。
+- word: 違い
+  descriptions:
+  - ちがっていること。
+  - まちがい。
+  - <ruby><rb>差</rb><rt>さ</rt></ruby>。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+- word: 痛み
+  descriptions:
+  - <ruby><rb>痛</rb><rt>いた</rt></ruby>いと<ruby><rb>感</rb><rt>かん</rt></ruby>じること。
+  - <ruby><rb>苦</rb><rt>くる</rt></ruby>しみやなやみ。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+web_news_url: /news/web/2017/04/27/笑いはがん治療に役立つ落語や漫才で研究へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10010963641000/k10010963641000.html
+...

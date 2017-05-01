@@ -1,0 +1,67 @@
+---
+layout: easy_news
+categories: easy
+title: 大型連休に山に登るときは雪崩に気をつけて
+title_with_ruby: <ruby>大型連休<rt>おおがたれんきゅう</rt></ruby>に<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>るときは「<ruby>雪崩<rt>なだれ</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけて」
+last_modified_at: '2017-05-01T11:30:00+09:00'
+datetime: 2017年05月01日 11時30分
+description: 大型連休おおがたれんきゅうには毎年まいとし、山やまで雪崩なだれの事故じこが起おきています。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/01/k10010963191000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/01/k10010963191000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>大型連休<rt>おおがたれんきゅう</rt></ruby></span>には<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>山<rt>やま</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>雪崩<rt>なだれ</rt></ruby></span>の<ruby>事故<rt>じこ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>き</span>ています。このため、<ruby>国<rt>くに</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>役所<rt>やくしょ</rt></ruby></span>のスポーツ<ruby>庁<rt>ちょう</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span>や<ruby>大学<rt>だいがく</rt></ruby>、<ruby>高校<rt>こうこう</rt></ruby>などに<span\
+  \ style=\"color: blue;\"><ruby>雪崩<rt>なだれ</rt></ruby></span>に<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけるように<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>スポーツ<ruby>庁<rt>ちょう</rt></ruby>によると、<ruby>山<rt>やま</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>が<ruby>変<rt>か</rt></ruby>わりやすいため、<span\
+  \ style=\"color: blue;\"><ruby>大型連休<rt>おおがたれんきゅう</rt></ruby></span>のころでも<ruby>強<rt>つよ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>吹雪<rt>ふぶき</rt></ruby></span>になることがあります。<ruby>山<rt>やま</rt></ruby>を<ruby>登<rt>のぼ</rt></ruby>る<ruby>道<rt>みち</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りに<ruby>雪<rt>ゆき</rt></ruby>が<ruby>残<rt>のこ</rt></ruby>っていることもあります。このため、<ruby>山<rt>やま</rt></ruby>にある<ruby>雪<rt>ゆき</rt></ruby>や<ruby>天気<rt>てんき</rt></ruby>などをよく<ruby>調<rt>しら</rt></ruby>べて、<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>る<ruby>計画<rt>けいかく</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えることが<ruby>大切<rt>たいせつ</rt></ruby>です。</p>\n\
+  <p><ruby>寒<rt>さむ</rt></ruby>くなっても<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>な<ruby>服<rt>ふく</rt></ruby>や、<ruby>自分<rt>じぶん</rt></ruby>がいる<ruby>場所<rt>ばしょ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>電波<rt>でんぱ</rt></ruby></span>で<ruby>知<rt>し</rt></ruby>らせるビーコンという<ruby>小<rt>ちい</rt></ruby>さな<ruby>機械<rt>きかい</rt></ruby>、<ruby>雪<rt>ゆき</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>掘<rt>ほ</rt></ruby>る</span><span style=\"color: blue;\"\
+  >シャベル</span>なども<ruby>必要<rt>ひつよう</rt></ruby>です。<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>っているときも<ruby>天気<rt>てんき</rt></ruby>や<ruby>周<rt>まわ</rt></ruby>りの<span\
+  \ style=\"color: blue;\"><ruby>様子<rt>ようす</rt></ruby></span>をチェックして、<ruby>危険<rt>きけん</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>ったらすぐ<ruby>山<rt>やま</rt></ruby>を<ruby>下<rt>お</rt></ruby>りるようにスポーツ<ruby>庁<rt>ちょう</rt></ruby>は<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ゴールデンウイーク
+  descriptions:
+  - <ruby><rb>四月</rb><rt>しがつ</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりから<ruby><rb>五月</rb><rt>ごがつ</rt></ruby>のはじめにかけての、<ruby><rb>休日</rb><rt>きゅうじつ</rt></ruby>の<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>一週間</rb><rt>いっしゅうかん</rt></ruby>。<ruby><rb>大型連休</rb><rt>おおがたれんきゅう</rt></ruby>。
+- word: 雪崩
+  descriptions:
+  - <ruby><rb>積</rb><rt>つ</rt></ruby>もったたくさんの<ruby><rb>雪</rb><rt>ゆき</rt></ruby>が、どっとくずれ<ruby><rb>落</rb><rt>お</rt></ruby>ちること。
+  - どっと<ruby><rb>流</rb><rt>なが</rt></ruby>れたり<ruby><rb>落</rb><rt>お</rt></ruby>ちたりすること。
+- word: 起きる
+  descriptions:
+  - （<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものが）まっすぐに<ruby><rb>立</rb><rt>た</rt></ruby>つ。
+  - <ruby><rb>目</rb><rt>め</rt></ruby>が<ruby><rb>覚</rb><rt>さ</rt></ruby>める。
+  - （<ruby><rb>何</rb><rt>なに</rt></ruby>かが）<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。
+- word: 役所
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。
+- word: 都道府県
+  descriptions:
+  - <ruby><rb>全国</rb><rt>ぜんこく</rt></ruby>を四七に<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>区画</rb><rt>くかく</rt></ruby>。<ruby><rb>東京都</rb><rt>とうきょうと</rt></ruby>・<ruby><rb>北海道</rb><rt>ほっかいどう</rt></ruby>・<ruby><rb>大阪府</rb><rt>おおさかふ</rt></ruby>・<ruby><rb>京都府</rb><rt>きょうとふ</rt></ruby>と、四三の<ruby><rb>県</rb><rt>けん</rt></ruby>。
+- word: 吹雪
+  descriptions:
+  - <ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>風</rb><rt>かぜ</rt></ruby>にふかれて、<ruby><rb>降</rb><rt>ふ</rt></ruby>る<ruby><rb>雪</rb><rt>ゆき</rt></ruby>。
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かいものがいっせいにたくさん<ruby><rb>散</rb><rt>ち</rt></ruby>るようす。
+- word: 電波
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>と<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>速</rb><rt>はや</rt></ruby>さで<ruby><rb>空間</rb><rt>くうかん</rt></ruby>を<ruby><rb>運動</rb><rt>うんどう</rt></ruby>している<ruby><rb>電気</rb><rt>でんき</rt></ruby>の<ruby><rb>波</rb><rt>なみ</rt></ruby>。<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>使</rb><rt>つか</rt></ruby>われる。<ruby><rb>電磁波</rb><rt>でんじは</rt></ruby>。
+- word: 掘る
+  descriptions:
+  - <ruby><rb>地面</rb><rt>じめん</rt></ruby>に<ruby><rb>穴</rb><rt>あな</rt></ruby>をあける。
+  - <ruby><rb>土</rb><rt>つち</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から、<ruby><rb>何</rb><rt>なに</rt></ruby>かを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+- word: シャベル
+  descriptions:
+  - <ruby><rb>土</rb><rt>つち</rt></ruby>や<ruby><rb>砂</rb><rt>すな</rt></ruby>などをすくったり、<ruby><rb>穴</rb><rt>あな</rt></ruby>をほったりする、さじの<ruby><rb>形</rb><rt>かたち</rt></ruby>をした<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。スコップ。
+- word: 様子
+  descriptions:
+  - ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。
+  - <ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。
+  - そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。
+  - わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。
+web_news_url: /news/web/2017/04/27/大型連休中の登山は雪崩に注意-十分な装備を/
+source_url: http://www3.nhk.or.jp/news/easy/k10010963191000/k10010963191000.html
+...
