@@ -1,0 +1,34 @@
+---
+layout: easy_news
+categories: easy
+title: クールビズの季節-デパートが新しい商品を売り始める
+title_with_ruby: 「クールビズ」の<ruby>季節<rt>きせつ</rt></ruby>　デパートが<ruby>新<rt>あたら</rt></ruby>しい<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める
+last_modified_at: '2017-05-02T11:30:00+09:00'
+datetime: 2017年05月02日 11時30分
+description: 「クールビズ」は、暑あつい季節きせつに冷房れいぼうをあまり使つかわないように仕事しごとでも涼すずしい服ふくを着きたりすることで、今年ことしも５月がつ１日ついたちから始はじまりました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/02/k10010966941000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/02/k10010966941000.mp3
+contents: "<p>「クールビズ」は、<ruby>暑<rt>あつ</rt></ruby>い<ruby>季節<rt>きせつ</rt></ruby>に<ruby>冷房<rt>れいぼう</rt></ruby>をあまり<ruby>使<rt>つか</rt></ruby>わないように<ruby>仕事<rt>しごと</rt></ruby>でも<ruby>涼<rt>すず</rt></ruby>しい<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>たりすることで、<ruby>今年<rt>ことし</rt></ruby>も５<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まりました。</p>\n\
+  <p><ruby>上着<rt>うわぎ</rt></ruby>やネクタイをやめて、<ruby>涼<rt>すず</rt></ruby>しい<span style=\"\
+  color: blue;\"><ruby>格好<rt>かっこう</rt></ruby></span>をする<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えるため、いろいろなデパートがクールビズの<ruby>売<rt>う</rt></ruby>り<ruby>場<rt>ば</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っています。</p>\n\
+  <p><ruby>東京都<rt>とうきょうと</rt></ruby><ruby>豊島区<rt>としまく</rt></ruby>にあるデパートは、<ruby>大事<rt>だいじ</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>のときはネクタイの<ruby>代<rt>か</rt></ruby>わりにポケットチーフをしたらどうかと<ruby>考<rt>かんが</rt></ruby>えました。<ruby>今年<rt>ことし</rt></ruby>はポケットチーフを<ruby>今<rt>いま</rt></ruby>までの２<ruby>倍<rt>ばい</rt></ruby><ruby>用意<rt>ようい</rt></ruby>しました。<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は３０００<ruby>円<rt>えん</rt></ruby>〜５０００<ruby>円<rt>えん</rt></ruby>の<ruby>物<rt>もの</rt></ruby>がよく<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れる</span>と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>中央区<rt>ちゅうおうく</rt></ruby>にあるデパートでは、クールビズでも<ruby>上着<rt>うわぎ</rt></ruby>を<ruby>着<rt>き</rt></ruby>たい<ruby>人<rt>ひと</rt></ruby>のために、<ruby>絹<rt>きぬ</rt></ruby>などを<ruby>使<rt>つか</rt></ruby>って<ruby>普通<rt>ふつう</rt></ruby>より１００ｇ<ruby>以上<rt>いじょう</rt></ruby><ruby>軽<rt>かる</rt></ruby>い<ruby>上着<rt>うわぎ</rt></ruby>を<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。この<ruby>上着<rt>うわぎ</rt></ruby>は<ruby>水<rt>みず</rt></ruby>で<ruby>洗<rt>あら</rt></ruby>うこともできます。</p>\n\
+  <p>デパートは、クールビズの<ruby>新<rt>あたら</rt></ruby>しい<span style=\"color: blue;\"><ruby>商品<rt>しょうひん</rt></ruby></span>を<ruby>置<rt>お</rt></ruby>いて、<ruby>服<rt>ふく</rt></ruby>などをたくさん<ruby>売<rt>う</rt></ruby>りたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 商品
+  descriptions:
+  - <ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>買</rb><rt>か</rt></ruby>ったりするための<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+- word: 格好
+  descriptions:
+  - <ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>形</rb><rt>かたち</rt></ruby>。
+  - ていさい。
+  - ちょうど<ruby><rb>合</rb><rt>あ</rt></ruby>っているようす。
+- word: 売れる
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。
+web_news_url: /news/web/2017/04/30/クールビズ商戦が本格化-ポケットチーフなど強化/
+source_url: http://www3.nhk.or.jp/news/easy/k10010966941000/k10010966941000.html
+...
