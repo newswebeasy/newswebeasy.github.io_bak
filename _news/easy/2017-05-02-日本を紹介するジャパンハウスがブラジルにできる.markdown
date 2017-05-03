@@ -1,11 +1,14 @@
 ---
 layout: easy_news
 categories: easy
-title: 日本を紹介するジャパンハウスがブラジルにできる
+title: 日本を紹介する「ジャパン・ハウス」がブラジルにできる
 title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する「ジャパン・ハウス」がブラジルにできる
 last_modified_at: '2017-05-02T15:35:00+09:00'
 datetime: 2017年05月02日 15時35分
 description: 日本にっぽんの政府せいふは、日本にっぽんの文化ぶんかや、領土りょうどと歴史れきしなどについて外国がいこくに伝つたえる「ジャパン・ハウス」をブラジルのサンパウロに作つくりました。
+description_with_ruby: <p><ruby>日本<rt>にっぽん</rt></ruby>の<a href='javascript:void(0)'
+  class='dicWin' id='id-0000'><ruby>政府<rt>せいふ</rt></ruby></a>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や、<a
+  href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>領土<rt>りょうど</rt></ruby></a>と<ruby>歴史<rt>れきし</rt></ruby>などについて<ruby>外国<rt>がいこく</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>える「ジャパン・ハウス」をブラジルのサンパウロに<ruby>作<rt>つく</rt></ruby>りました。
 image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/02/k10010967581000.jpg
 voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/02/k10010967581000.mp3
 contents: "<p><ruby>日本<rt>にっぽん</rt></ruby>の<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や、<span\
