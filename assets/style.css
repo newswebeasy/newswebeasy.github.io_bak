@@ -97,7 +97,7 @@ a {
 }
 
 .rich_media_meta_list {
-    margin-bottom: 18px;
+    margin-bottom: 4px;
     line-height: 20px;
     font-size: 0
 }
@@ -111,7 +111,7 @@ a {
     vertical-align: middle;
     margin-right: 8px;
     margin-bottom: 10px;
-    font-size: 16px
+    font-size: 14px
 }
 
 .meta_original_tag {
