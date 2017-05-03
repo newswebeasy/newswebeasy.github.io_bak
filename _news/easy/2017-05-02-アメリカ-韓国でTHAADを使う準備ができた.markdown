@@ -1,7 +1,7 @@
 ---
 layout: easy_news
 categories: easy
-title: アメリカ-韓国でthaadを使う準備ができた
+title: アメリカ　「韓国でＴＨＡＡＤを使う準備ができた」
 title_with_ruby: アメリカ　「<ruby>韓国<rt>かんこく</rt></ruby>でＴＨＡＡＤを<ruby>使<rt>つか</rt></ruby>う<ruby>準備<rt>じゅんび</rt></ruby>ができた」
 last_modified_at: '2017-05-02T15:35:00+09:00'
 datetime: 2017年05月02日 15時35分
@@ -62,6 +62,6 @@ words:
   - <ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。
   - そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。
   - わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。
-web_news_url: /news/web/2017/05/02/米政府当局者-thaad運用可能になったこと明らかに/
+web_news_url: /news/web/2017/05/02/米政府当局者-THAAD運用可能になったこと明らかに/
 source_url: http://www3.nhk.or.jp/news/easy/k10010968561000/k10010968561000.html
 ...
