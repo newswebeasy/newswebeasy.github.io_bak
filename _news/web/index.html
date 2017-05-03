@@ -12,21 +12,22 @@ permalink: news/web/
       <div>
         <div class="rich_media_area_primary">
           <h2 class="rich_media_title">{{ page.title }}</h2>
-          <div class="rich_media_content">
-            <ul>
-              {% assign weblist = site.news | where: "categories", "web"  | sort: "last_modified_at" | reverse %}
-              {% for post in weblist limit: 10 %}
-              <li>
-                <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-                <div class="rich_media_meta_list">
-                  <em class="rich_media_meta rich_media_meta_text">{{ post.datetime }}</em>
-                </div>
-              </li>
-              {% endfor %}
-            </ul>
+          <ul>
+            {% assign weblist = site.news | where: "categories", "web"  | sort: "last_modified_at" | reverse %}
+            {% for post in weblist limit: 10 %}
+            <li class="card">
+              <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+              <div class="rich_media_meta_list">
+                <em class="rich_media_meta rich_media_meta_text">{{ post.datetime }}</em>
+              </div>
+              <div class="rich_media_content">
+                <div>{{ post.description }}</div>
+              </div>
+            </li>
+            {% endfor %}
+          </ul>
 
-            <p><img data-type="gif" src="/assets/qrcode.gif" data-ratio="0.5064308681672026" data-w="622" /></p>
-          </div>
+          <p><img data-type="gif" src="/assets/qrcode.gif" data-ratio="0.5064308681672026" data-w="622" /></p>
 
           <div class="ct_mpda_wrp">
             <!-- js_sponsor_ad_area -->

@@ -14,7 +14,7 @@
           </div>
           <div class="rich_media_content">
             {% if page.movie_url %}
-            <p style="text-align: center"><video src="{{ page.movie_url }}" controls loop autoplay></video></p>
+            <p><video src="{{ page.movie_url }}" controls loop autoplay></video></p>
             {% endif %}
             {% if page.image_url %}
             <p><img data-s="300,640" src="{{ page.image_url }}" data-ratio="0" data-w="640" /></p>
@@ -24,7 +24,7 @@
             <p>{{ page.more }}</p>
             {% for s in page.body %}
             {% if page.image_url %}
-            <br /><h2 style="font-weight: bold">{{ s.title }}</h2><br />
+            <br /><h2>{{ s.title }}</h2><br />
             <p>{{ s.text }}</p>
             {% endif %}
             {% endfor %}
