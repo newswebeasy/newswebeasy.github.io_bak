@@ -1,0 +1,88 @@
+---
+layout: easy_news
+categories: easy
+title: 宇宙ごみを片づける人工衛星を打ち上げる計画
+title_with_ruby: <ruby>宇宙<rt>うちゅう</rt></ruby>ごみを<ruby>片<rt>かた</rt></ruby>づける<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>を<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げる<ruby>計画<rt>けいかく</rt></ruby>
+last_modified_at: '2017-05-05T10:35:00+09:00'
+datetime: 2017年05月05日 10時35分
+description: 宇宙うちゅうには、使つかい終おわった人工衛星じんこうえいせいの一部いちぶなどの「宇宙うちゅうごみ」がたくさん残のこっていて問題もんだいになっています。
+description_with_ruby: <ruby>宇宙<rt>うちゅう</rt></ruby>には、<ruby>使<rt>つか</rt></ruby>い<ruby>終<rt>お</rt></ruby>わった<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>などの「<ruby>宇宙<rt>うちゅう</rt></ruby>ごみ」がたくさん<ruby>残<rt>のこ</rt></ruby>っていて<ruby>問題<rt>もんだい</rt></ruby>になっています。
+image_url: https://newswebeasy.github.io/ja/news/easy/image/2017/05/05/k10010964381000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/05/k10010964381000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>には、<ruby>使<rt>つか</rt></ruby>い<ruby>終<rt>お</rt></ruby>わった<span\
+  \ style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>の<span style=\"\
+  color: blue;\"><ruby>一部<rt>いちぶ</rt></ruby></span>などの「<ruby>宇宙<rt>うちゅう</rt></ruby>ごみ」がたくさん<ruby>残<rt>のこ</rt></ruby>っていて<ruby>問題<rt>もんだい</rt></ruby>になっています。</p>\n\
+  <p><ruby>東京都<rt>とうきょうと</rt></ruby><ruby>墨田区<rt>すみだく</rt></ruby>にある「アストロスケール」という<ruby>新<rt>あたら</rt></ruby>しい<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>宇宙<rt>うちゅう</rt></ruby>ごみを<ruby>片<rt>かた</rt></ruby>づけるための<ruby>研究<rt>けんきゅう</rt></ruby>をしています。２０１９<ruby>年<rt>ねん</rt></ruby>には、<span\
+  \ style=\"color: blue;\"><ruby>磁石<rt>じしゃく</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>って<ruby>宇宙<rt>うちゅう</rt></ruby>ごみを<ruby>集<rt>あつ</rt></ruby>めて、<span\
+  \ style=\"color: blue;\"><ruby>大気圏<rt>たいきけん</rt></ruby></span>に<ruby>入<rt>はい</rt></ruby>ったときに<span\
+  \ style=\"color: blue;\"><ruby>燃<rt>も</rt></ruby>やす</span>ことができる<span style=\"color:\
+  \ blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>を<span style=\"color: blue;\"\
+  ><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げる</span><ruby>計画<rt>けいかく</rt></ruby>です。</p>\n\
+  <p>これから<ruby>新<rt>あたら</rt></ruby>しく<span style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>を<span\
+  \ style=\"color: blue;\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げる</span>ときには、<span\
+  \ style=\"color: blue;\"><ruby>金属<rt>きんぞく</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>板<rt>いた</rt></ruby></span>を<span style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>け</span>てもらうことにします。そして、<span\
+  \ style=\"color: blue;\"><ruby>磁石<rt>じしゃく</rt></ruby></span>で<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>宇宙<rt>うちゅう</rt></ruby>ごみを<ruby>集<rt>あつ</rt></ruby>める<span\
+  \ style=\"color: blue;\">ビジネス</span>をしたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><ruby>川崎重工業<rt>かわさきじゅうこうぎょう</rt></ruby>など<ruby>大<rt>おお</rt></ruby>きい<ruby>会社<rt>かいしゃ</rt></ruby>も、<ruby>宇宙<rt>うちゅう</rt></ruby>ごみを<ruby>片<rt>かた</rt></ruby>づける<ruby>研究<rt>けんきゅう</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>進<rt>すす</rt></ruby>める</span>と<span style=\"color:\
+  \ blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しています。</p>\n<p></p>\n<p></p>"
+words:
+- word: 人工衛星
+  descriptions:
+  - ロケットで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げ、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>るようにした、<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>。<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>のようすや<ruby><rb>気象</rb><rt>きしょう</rt></ruby>などを<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>などの<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>の<ruby><rb>中継</rb><rt>ちゅうけい</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>てたりする。
+- word: 打ち上げる
+  descriptions:
+  - （<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - <ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - （<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。
+- word: 宇宙
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。
+- word: 一部
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: 磁石
+  descriptions:
+  - <ruby><rb>鉄</rb><rt>てつ</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>きつける<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>物</rb><rt>もの</rt></ruby>。マグネット。
+  - <ruby><rb>針</rb><rt>はり</rt></ruby>の<ruby><rb>指</rb><rt>さ</rt></ruby>す<ruby><rb>向</rb><rt>む</rt></ruby>きから<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>の<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>を<ruby><rb>知</rb><rt>し</rt></ruby>る<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。コンパス。
+- word: 大気圏
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りの、<ruby><rb>大気</rb><rt>たいき</rt></ruby>の<ruby><rb>広</rb><rt>ひろ</rt></ruby>がり。
+- word: 燃やす
+  descriptions:
+  - <ruby><rb>火</rb><rt>ひ</rt></ruby>をつけて、ほのおを<ruby><rb>出</rb><rt>だ</rt></ruby>させる。<ruby><rb>燃</rb><rt>も</rt></ruby>す。
+  - <ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>高</rb><rt>たか</rt></ruby>ぶらせる。
+- word: 金属
+  descriptions:
+  - ふつうは<ruby><rb>固体</rb><rt>こたい</rt></ruby>で、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>電気</rb><rt>でんき</rt></ruby>をよく<ruby><rb>伝</rb><rt>つた</rt></ruby>えるもの。<ruby><rb>鉄</rb><rt>てつ</rt></ruby>・<ruby><rb>銅</rb><rt>どう</rt></ruby>・<ruby><rb>金</rb><rt>きん</rt></ruby>・<ruby><rb>銀</rb><rt>ぎん</rt></ruby>・アルミニウムなど。
+- word: 板
+  descriptions:
+  - <ruby><rb>材木</rb><rt>ざいもく</rt></ruby>を、うすく<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。また、そのような<ruby><rb>形</rb><rt>かたち</rt></ruby>のもの。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+- word: ビジネス
+  descriptions:
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>。<ruby><rb>勤</rb><rt>つと</rt></ruby>め。<ruby><rb>商売</rb><rt>しょうばい</rt></ruby>。
+- word: 進める
+  descriptions:
+  - <ruby><rb>前</rb><rt>まえ</rt></ruby>のほうへ<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+  - <ruby><rb>程度</rb><rt>ていど</rt></ruby>を<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - ものごとを、はかどらせる。
+  - <ruby><rb>時計</rb><rt>とけい</rt></ruby>の<ruby><rb>針</rb><rt>はり</rt></ruby>を<ruby><rb>早</rb><rt>はや</rt></ruby>める。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+source_url: http://www3.nhk.or.jp/news/easy/k10010964381000/k10010964381000.html
+...
