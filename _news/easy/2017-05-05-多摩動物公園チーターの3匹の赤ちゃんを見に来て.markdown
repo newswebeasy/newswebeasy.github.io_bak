@@ -1,0 +1,45 @@
+---
+layout: easy_news
+categories: easy
+title: 多摩動物公園「チーターの３匹の赤ちゃんを見に来て」
+title_with_ruby: <ruby>多摩動物公園<rt>たまどうぶつこうえん</rt></ruby>「チーターの３<ruby>匹<rt>びき</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>て」
+last_modified_at: '2017-05-05T10:35:00+09:00'
+datetime: 2017年05月05日 10時35分
+description: 東京都とうきょうとの多摩動物公園たまどうぶつこうえんで、２月がつにチーターの赤あかちゃんが同おなじお母かあさんから３匹びき生うまれました。
+description_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>多摩動物公園<rt>たまどうぶつこうえん</rt></ruby>で、２<ruby>月<rt>がつ</rt></ruby>にチーターの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>同<rt>おな</rt></ruby>じお<ruby>母<rt>かあ</rt></ruby>さんから３<ruby>匹<rt>びき</rt></ruby><ruby>生<rt>う</rt></ruby>まれました。
+image_url: https://newswebeasy.github.io/ja/news/easy/image/2017/05/05/k10010959041000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/05/k10010959041000.mp3
+contents: "<p><ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>多摩動物公園<rt>たまどうぶつこうえん</rt></ruby>で、２<ruby>月<rt>がつ</rt></ruby>に<span\
+  \ style=\"color: blue;\">チーター</span>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>同<rt>おな</rt></ruby>じお<ruby>母<rt>かあ</rt></ruby>さんから３<ruby>匹<rt>びき</rt></ruby><ruby>生<rt>う</rt></ruby>まれました。<span\
+  \ style=\"color: blue;\"><ruby>雄<rt>おす</rt></ruby></span>が２<ruby>匹<rt>ひき</rt></ruby>で、<span\
+  \ style=\"color: blue;\"><ruby>雌<rt>めす</rt></ruby></span>が１<ruby>匹<rt>ぴき</rt></ruby>です。</p>\n\
+  <p>いま<span style=\"color: blue;\">チーター</span>は<ruby>世界<rt>せかい</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>が<ruby>少<rt>すく</rt></ruby>なくなっていて、<ruby>多摩動物公園<rt>たまどうぶつこうえん</rt></ruby>はほかの<ruby>動物園<rt>どうぶつえん</rt></ruby>などと<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>して<span style=\"color:\
+  \ blue;\">チーター</span>を<span style=\"color: blue;\"><ruby>増<rt>ふ</rt></ruby>やし</span>たいと<ruby>考<rt>かんが</rt></ruby>えています。３<ruby>匹<rt>びき</rt></ruby>を<ruby>大事<rt>だいじ</rt></ruby>に<ruby>育<rt>そだ</rt></ruby>ててきましたが、<ruby>重<rt>おも</rt></ruby>さが３.５ｋｇぐらいになって<ruby>丈夫<rt>じょうぶ</rt></ruby>になってきたため、４<ruby>月<rt>がつ</rt></ruby>からみんなに<ruby>見<rt>み</rt></ruby>せています。</p>\n\
+  <p>３<ruby>匹<rt>びき</rt></ruby>は<ruby>元気<rt>げんき</rt></ruby>に<ruby>走<rt>はし</rt></ruby>ったり<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>遊<rt>あそ</rt></ruby>んだりしています。たくさんの<ruby>人<rt>ひと</rt></ruby>たちが「かわいい」などと<ruby>言<rt>い</rt></ruby>って<ruby>見<rt>み</rt></ruby>ていました。</p>\n\
+  <p><ruby>多摩動物公園<rt>たまどうぶつこうえん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>元気<rt>げんき</rt></ruby>な３<ruby>匹<rt>びき</rt></ruby>をぜひ<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>てください」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: チータ
+  descriptions:
+  - ヒョウのなかまで、インドやアフリカの<ruby><rb>草原</rb><rt>そうげん</rt></ruby>にすむ<ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>速</rb><rt>はや</rt></ruby>いけもの。
+- word: 雄
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>男性</rb><rt>だんせい</rt></ruby>にあたるもの。
+- word: 雌
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>を<ruby><rb>生</rb><rt>う</rt></ruby>む<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>があるほう。
+- word: 数
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。
+  - いくつもあること。たくさん。
+  - <ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+source_url: http://www3.nhk.or.jp/news/easy/k10010959041000/k10010959041000.html
+...
