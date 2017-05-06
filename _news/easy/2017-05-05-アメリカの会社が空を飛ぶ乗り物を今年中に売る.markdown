@@ -1,0 +1,50 @@
+---
+layout: easy_news
+categories: easy
+title: アメリカの会社が「空を飛ぶ乗り物」を今年中に売る
+title_with_ruby: アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>が「<ruby>空<rt>そら</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ぶ<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>」を<ruby>今年<rt>ことし</rt></ruby><ruby>中<rt>じゅう</rt></ruby>に<ruby>売<rt>う</rt></ruby>る
+last_modified_at: '2017-05-05T10:35:00+09:00'
+datetime: 2017年05月05日 10時35分
+description: アメリカのキティホークという会社かいしゃが、ドローンのように「空そらを飛とぶ乗のり物もの」をつくりました。
+description_with_ruby: アメリカのキティホークという<ruby>会社<rt>かいしゃ</rt></ruby>が、ドローンのように「<ruby>空<rt>そら</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ぶ<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>」をつくりました。
+image_url: https://newswebeasy.github.io/ja/news/easy/image/2017/05/05/k10010960241000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/05/k10010960241000.mp3
+contents: "<p>アメリカのキティホークという<ruby>会社<rt>かいしゃ</rt></ruby>が、ドローンのように「<ruby>空<rt>そら</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ぶ<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>」をつくりました。</p>\n\
+  <p>この<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>はオートバイのような<ruby>形<rt>かたち</rt></ruby>をしています。<ruby>下<rt>した</rt></ruby>には８つの<span\
+  \ style=\"color: blue;\">プロペラ</span>が<span style=\"color: blue;\">つい</span>ていて、<ruby>高<rt>たか</rt></ruby>さ５ｍぐらいまで<ruby>上<rt>あ</rt></ruby>がって<ruby>飛<rt>と</rt></ruby>びます。<ruby>重<rt>おも</rt></ruby>さは<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１００ｋｇで、<span style=\"color:\
+  \ blue;\"><ruby>時速<rt>じそく</rt></ruby></span>は４０ｋmぐらいまで<ruby>出<rt>で</rt></ruby>ます。</p>\n\
+  <p><ruby>会社<rt>かいしゃ</rt></ruby>はこの<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>を<ruby>今年<rt>ことし</rt></ruby><ruby>中<rt>じゅう</rt></ruby>に<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める<ruby>予定<rt>よてい</rt></ruby>です。アメリカでは<span\
+  \ style=\"color: blue;\"><ruby>免許<rt>めんきょ</rt></ruby></span>などがなくても<ruby>運転<rt>うんてん</rt></ruby>することができますが、<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>安全<rt>あんぜん</rt></ruby>のために<ruby>人<rt>ひと</rt></ruby>がいない<ruby>湖<rt>みずうみ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>などだけで<ruby>使<rt>つか</rt></ruby>うように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>飛行機<rt>ひこうき</rt></ruby>をつくっているエアバスという<span style=\"color: blue;\">ヨーロッパ</span>の<ruby>会社<rt>かいしゃ</rt></ruby>も、「<ruby>空<rt>そら</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ぶ<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>」をつくって<ruby>今年<rt>ことし</rt></ruby>テストを<ruby>行<rt>おこな</rt></ruby>う<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: プロペラ
+  descriptions:
+  - <ruby><rb>軸</rb><rt>じく</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>る、<ruby><rb>回転羽根</rb><rt>かいてんばね</rt></ruby>。<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>や<ruby><rb>船</rb><rt>ふね</rt></ruby>などを<ruby><rb>動</rb><rt>うご</rt></ruby>かすもの。
+- word: 付く
+  descriptions:
+  - ものがくっつく。
+  - つきそう。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>わる。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まる。
+  - <ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。
+  - <ruby><rb>感</rb><rt>かん</rt></ruby>じる。
+  - ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 時速
+  descriptions:
+  - <ruby><rb>一時間</rb><rt>いちじかん</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>速</rb><rt>はや</rt></ruby>さ。
+- word: 免許
+  descriptions:
+  - あることがらについて、<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などが<ruby><rb>許</rb><rt>ゆる</rt></ruby>しをあたえること。
+  - <ruby><rb>芸</rb><rt>げい</rt></ruby>ごとで、<ruby><rb>先生</rb><rt>せんせい</rt></ruby>が<ruby><rb>弟子</rb><rt>でし</rt></ruby>にあたえる<ruby><rb>資格</rb><rt>しかく</rt></ruby>。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+source_url: http://www3.nhk.or.jp/news/easy/k10010960241000/k10010960241000.html
+...
