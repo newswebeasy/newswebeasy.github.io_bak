@@ -1,0 +1,79 @@
+---
+layout: easy_news
+categories: easy
+title: 花に自動で水や肥料をやる花壇を東京の工場などが作る
+title_with_ruby: <ruby>花<rt>はな</rt></ruby>に<ruby>自動<rt>じどう</rt></ruby>で<ruby>水<rt>みず</rt></ruby>や<ruby>肥料<rt>ひりょう</rt></ruby>をやる<ruby>花壇<rt>かだん</rt></ruby>を<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>工場<rt>こうじょう</rt></ruby>などが<ruby>作<rt>つく</rt></ruby>る
+last_modified_at: '2017-05-05T10:35:00+09:00'
+datetime: 2017年05月05日 10時35分
+description: 東京とうきょうの葛飾区かつしかくにある工場こうじょうなどのグループが、花はなに自動じどうで水みずや肥料ひりょうをやることができる花壇かだんを作つくりました。
+description_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>葛飾区<rt>かつしかく</rt></ruby>にある<ruby>工場<rt>こうじょう</rt></ruby>などのグループが、<ruby>花<rt>はな</rt></ruby>に<ruby>自動<rt>じどう</rt></ruby>で<ruby>水<rt>みず</rt></ruby>や<ruby>肥料<rt>ひりょう</rt></ruby>をやることができる<ruby>花壇<rt>かだん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja/news/easy/image/2017/05/05/k10010960591000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/05/k10010960591000.mp3
+contents: "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>葛飾区<rt>かつしかく</rt></ruby>にある<ruby>工場<rt>こうじょう</rt></ruby>などの<span\
+  \ style=\"color: blue;\">グループ</span>が、<ruby>花<rt>はな</rt></ruby>に<span style=\"color:\
+  \ blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>水<rt>みず</rt></ruby>や<span style=\"\
+  color: blue;\"><ruby>肥料<rt>ひりょう</rt></ruby></span>をやることができる<span style=\"color:\
+  \ blue;\"><ruby>花壇<rt>かだん</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>りました。</p>\n\
+  <p>この<span style=\"color: blue;\"><ruby>花壇<rt>かだん</rt></ruby></span>には２００<span style=\"\
+  color: blue;\">Ｌ</span>の<ruby>水<rt>みず</rt></ruby>や<span style=\"color: blue;\"><ruby>肥料<rt>ひりょう</rt></ruby></span>が<ruby>入<rt>はい</rt></ruby>る<span\
+  \ style=\"color: blue;\">タンク</span>と、<span style=\"color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>の<ruby>光<rt>ひかり</rt></ruby>から<ruby>電気<rt>でんき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<span\
+  \ style=\"color: blue;\">パネル</span>が<span style=\"color: blue;\">つい</span>ています。<span\
+  \ style=\"color: blue;\">タイマー</span>も<span style=\"color: blue;\">つい</span>ていて、<ruby>決<rt>き</rt></ruby>まった<ruby>時間<rt>じかん</rt></ruby>になると、<ruby>花<rt>はな</rt></ruby>に<ruby>水<rt>みず</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>肥料<rt>ひりょう</rt></ruby></span>をやります。</p>\n<p><span\
+  \ style=\"color: blue;\">グループ</span>は、この<span style=\"color: blue;\"><ruby>花壇<rt>かだん</rt></ruby></span>を<ruby>葛飾区<rt>かつしかく</rt></ruby>にある<ruby>都立<rt>とりつ</rt></ruby><ruby>農産<rt>のうさん</rt></ruby><ruby>高校<rt>こうこう</rt></ruby>に<ruby>置<rt>お</rt></ruby>きました。<ruby>生徒<rt>せいと</rt></ruby>たちはこれから１<ruby>年<rt>ねん</rt></ruby>、いろいろな<ruby>花<rt>はな</rt></ruby>を<ruby>飾<rt>かざ</rt></ruby>って、しっかりと<span\
+  \ style=\"color: blue;\"><ruby>育<rt>そだ</rt></ruby>つ</span>かどうか<ruby>調<rt>しら</rt></ruby>べます。<ruby>生徒<rt>せいと</rt></ruby>は「この<span\
+  \ style=\"color: blue;\"><ruby>花壇<rt>かだん</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>って、どうすれば<ruby>花<rt>はな</rt></ruby>が<ruby>元気<rt>げんき</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>育<rt>そだ</rt></ruby>つ</span>か<ruby>調<rt>しら</rt></ruby>べたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>葛飾区<rt>かつしかく</rt></ruby>はこの<span style=\"color: blue;\"><ruby>花壇<rt>かだん</rt></ruby></span>をまちに<ruby>置<rt>お</rt></ruby>いたり、<span\
+  \ style=\"color: blue;\">イベント</span>などで<ruby>使<rt>つか</rt></ruby>ったりしたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 自動
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。
+- word: 肥料
+  descriptions:
+  - <ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>の<ruby><rb>生長</rb><rt>せいちょう</rt></ruby>をよくするために、<ruby><rb>土</rb><rt>つち</rt></ruby>にあたえる<ruby><rb>栄養分</rb><rt>えいようぶん</rt></ruby>。
+- word: 花壇
+  descriptions:
+  - <ruby><rb>土</rb><rt>つち</rt></ruby>を<ruby><rb>盛</rb><rt>も</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>げ、<ruby><rb>仕切</rb><rt>しき</rt></ruby>りをして、<ruby><rb>草花</rb><rt>くさばな</rt></ruby>を<ruby><rb>植</rb><rt>う</rt></ruby>えた<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: リットル
+  descriptions:
+  - メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>量</rb><rt>りょう</rt></ruby>の<ruby><rb>基本</rb><rt>きほん</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。一リットルは、一〇〇〇<ruby><rb>立方</rb><rt>りっぽう</rt></ruby>センチメートル。一<ruby><rb>辺</rb><rt>ぺん</rt></ruby>が一〇センチメートルの<ruby><rb>立方体</rb><rt>りっぽうたい</rt></ruby>の<ruby><rb>体積</rb><rt>たいせき</rt></ruby>を一リットルとする。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「L」。
+- word: タンク
+  descriptions:
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>・ガス・<ruby><rb>石油</rb><rt>せきゆ</rt></ruby>などをためておく、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+  - <ruby><rb>戦車</rb><rt>せんしゃ</rt></ruby>。
+- word: 太陽
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。
+- word: パネル
+  descriptions:
+  - かべ・ゆかなどにはめこむ<ruby><rb>板</rb><rt>いた</rt></ruby>。
+  - <ruby><rb>絵</rb><rt>え</rt></ruby>をかく<ruby><rb>板</rb><rt>いた</rt></ruby>。また、<ruby><rb>板</rb><rt>いた</rt></ruby>にかいた<ruby><rb>絵</rb><rt>え</rt></ruby>。
+  - <ruby><rb>写真</rb><rt>しゃしん</rt></ruby>などをはった<ruby><rb>板</rb><rt>いた</rt></ruby>。
+- word: 付く
+  descriptions:
+  - ものがくっつく。
+  - つきそう。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>わる。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まる。
+  - <ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。
+  - <ruby><rb>感</rb><rt>かん</rt></ruby>じる。
+  - ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。
+- word: タイムスイッチ
+  descriptions:
+  - <ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>時刻</rb><rt>じこく</rt></ruby>になると、スイッチが<ruby><rb>入</rb><rt>はい</rt></ruby>ったり<ruby><rb>切</rb><rt>き</rt></ruby>れたりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。タイマー。
+- word: 育つ
+  descriptions:
+  - <ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+  - <ruby><rb>一人前</rb><rt>いちにんまえ</rt></ruby>になる。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10010960591000/k10010960591000.html
+...
