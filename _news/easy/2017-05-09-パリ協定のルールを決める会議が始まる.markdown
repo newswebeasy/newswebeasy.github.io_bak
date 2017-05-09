@@ -1,0 +1,59 @@
+---
+layout: easy_news
+categories: easy
+title: 「パリ協定」のルールを決める会議が始まる
+title_with_ruby: 「パリ<ruby>協定<rt>きょうてい</rt></ruby>」のルールを<ruby>決<rt>き</rt></ruby>める<ruby>会議<rt>かいぎ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+last_modified_at: '2017-05-09T15:45:00+09:00'
+datetime: 2017年05月09日 15時45分
+description: 地球ちきゅうの気温きおんが上あがる原因げんいんになるガスを出ださないようにするために国連こくれんで決きめた「パリ協定きょうてい」は、去年きょねん１１月がつに始はじまりました。
+description_with_ruby: <ruby>地球<rt>ちきゅう</rt></ruby>の<ruby>気温<rt>きおん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がる<ruby>原因<rt>げんいん</rt></ruby>になるガスを<ruby>出<rt>だ</rt></ruby>さないようにするために<ruby>国連<rt>こくれん</rt></ruby>で<ruby>決<rt>き</rt></ruby>めた「パリ<ruby>協定<rt>きょうてい</rt></ruby>」は、<ruby>去年<rt>きょねん</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/09/k10010974381000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/09/k10010974381000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>上<rt>あ</rt></ruby>がる<ruby>原因<rt>げんいん</rt></ruby>になるガスを<ruby>出<rt>だ</rt></ruby>さないようにするために<span\
+  \ style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>で<ruby>決<rt>き</rt></ruby>めた「パリ<ruby>協定<rt>きょうてい</rt></ruby>」は、<ruby>去年<rt>きょねん</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まりました。</p>\n\
+  <p>ドイツのボンで<ruby>８日<rt>ようか</rt></ruby>、パリ<ruby>協定<rt>きょうてい</rt></ruby>に<span style=\"\
+  color: blue;\"><ruby>参加<rt>さんか</rt></ruby></span>している１９０<ruby>以上<rt>いじょう</rt></ruby>の<ruby>国<rt>くに</rt></ruby>と<span\
+  \ style=\"color: blue;\"><ruby>地域<rt>ちいき</rt></ruby></span>が<ruby>出席<rt>しゅっせき</rt></ruby>して、<ruby>細<rt>こま</rt></ruby>かい<span\
+  \ style=\"color: blue;\">ルール</span>を<ruby>決<rt>き</rt></ruby>めるための<ruby>会議<rt>かいぎ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>会議<rt>かいぎ</rt></ruby>では<span\
+  \ style=\"color: blue;\"><ruby>参加<rt>さんか</rt></ruby></span>する<ruby>国<rt>くに</rt></ruby>が<ruby>決<rt>き</rt></ruby>めた<ruby>通<rt>とお</rt></ruby>りにガスを<span\
+  \ style=\"color: blue;\"><ruby>減<rt>へ</rt></ruby>らし</span>ているかをチェックするための<span style=\"\
+  color: blue;\">ルール</span>などを<ruby>作<rt>つく</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>上<rt>あ</rt></ruby>がる<ruby>原因<rt>げんいん</rt></ruby>になるガスを<ruby>世界<rt>せかい</rt></ruby>で２<ruby>番目<rt>ばんめ</rt></ruby>にたくさん<ruby>出<rt>だ</rt></ruby>しているアメリカは、<ruby>前<rt>まえ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>のときにパリ<ruby>協定<rt>きょうてい</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>参加<rt>さんか</rt></ruby></span>することを<ruby>決<rt>き</rt></ruby>めました。しかし、トランプ<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は<span style=\"\
+  color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>のとき、パリ<ruby>協定<rt>きょうてい</rt></ruby>から<ruby>出<rt>で</rt></ruby>ると<ruby>言<rt>い</rt></ruby>っていました。そして、パリ<ruby>協定<rt>きょうてい</rt></ruby>から<ruby>出<rt>で</rt></ruby>るかどうか、もうすぐ<ruby>決<rt>き</rt></ruby>めると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>会議<rt>かいぎ</rt></ruby>では、<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが、アメリカはパリ<ruby>協定<rt>きょうてい</rt></ruby>から<ruby>出<rt>で</rt></ruby>ないでほしいと<ruby>言<rt>い</rt></ruby>いました。この<ruby>会議<rt>かいぎ</rt></ruby>は１８<ruby>日<rt>にち</rt></ruby>まで<ruby>続<rt>つづ</rt></ruby>きます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ルール
+  descriptions:
+  - <ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを三六五<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: 気温
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった一九四五<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: 参加
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。
+- word: 地域
+  descriptions:
+  - ある<ruby><rb>範囲</rb><rt>はんい</rt></ruby>に<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。
+- word: 減らす
+  descriptions:
+  - <ruby><rb>少</rb><rt>すく</rt></ruby>なくする。
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 選挙
+  descriptions:
+  - ある<ruby><rb>役目</rb><rt>やくめ</rt></ruby>につく<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>選</rb><rt>えら</rt></ruby>ぶこと。
+web_news_url: /news/web/2017/05/09/温暖化対策のパリ協定-米にとどまること求める声相次ぐ/
+source_url: http://www3.nhk.or.jp/news/easy/k10010974381000/k10010974381000.html
+...

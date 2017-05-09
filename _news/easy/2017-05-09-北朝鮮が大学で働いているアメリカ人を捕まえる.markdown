@@ -1,0 +1,51 @@
+---
+layout: easy_news
+categories: easy
+title: 北朝鮮が大学で働いているアメリカ人を捕まえる
+title_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が<ruby>大学<rt>だいがく</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いているアメリカ<ruby>人<rt>じん</rt></ruby>を<ruby>捕<rt>つか</rt></ruby>まえる
+last_modified_at: '2017-05-09T15:45:00+09:00'
+datetime: 2017年05月09日 15時45分
+description: 北朝鮮きたちょうせんは、ピョンヤン科学技術大学かがくぎじゅつだいがくで働はたらいているアメリカ人じんを５月がつ６日むいかに捕つかまえたと発表はっぴょうしました。
+description_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は、ピョンヤン<ruby>科学技術大学<rt>かがくぎじゅつだいがく</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いているアメリカ<ruby>人<rt>じん</rt></ruby>を５<ruby>月<rt>がつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>に<ruby>捕<rt>つか</rt></ruby>まえたと<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/09/k10010974491000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/09/k10010974491000.mp3
+contents: "<p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は、ピョンヤン<ruby>科学技術大学<rt>かがくぎじゅつだいがく</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いているアメリカ<ruby>人<rt>じん</rt></ruby>を５<ruby>月<rt>がつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>に<ruby>捕<rt>つか</rt></ruby>まえたと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は、このアメリカ<ruby>人<rt>じん</rt></ruby>が<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>に<ruby>反対<rt>はんたい</rt></ruby>することをした<span\
+  \ style=\"color: blue;\"><ruby>疑<rt>うたが</rt></ruby>い</span>があると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は４<ruby>月<rt>がつ</rt></ruby>２２<ruby>日<rt>にち</rt></ruby>にもピョンヤン<ruby>科学技術大学<rt>かがくぎじゅつだいがく</rt></ruby>で<ruby>教<rt>おし</rt></ruby>えていたアメリカ<ruby>人<rt>じん</rt></ruby>を<ruby>捕<rt>つか</rt></ruby>まえました。<ruby>今<rt>いま</rt></ruby>４<ruby>人<rt>にん</rt></ruby>のアメリカ<ruby>人<rt>じん</rt></ruby>が、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>で<span\
+  \ style=\"color: blue;\">スパイ</span>などをしたという<ruby>理由<rt>りゆう</rt></ruby>で<span style=\"\
+  color: blue;\"><ruby>捕<rt>つか</rt></ruby>まっ</span>ています。</p>\n<p>５<ruby>月<rt>がつ</rt></ruby><ruby>８日<rt>ようか</rt></ruby>、アメリカの<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は<span style=\"color:\
+  \ blue;\"><ruby>記者<rt>きしゃ</rt></ruby></span>たちに、<span style=\"color: blue;\"><ruby>捕<rt>つか</rt></ruby>まっ</span>たアメリカ<ruby>人<rt>じん</rt></ruby>を<ruby>自由<rt>じゆう</rt></ruby>にしてもらうつもりだと<ruby>話<rt>はな</rt></ruby>しました。アメリカは<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>と<span\
+  \ style=\"color: blue;\"><ruby>国交<rt>こっこう</rt></ruby></span>がないため、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>にあるスウェーデンの<ruby>大使館<rt>たいしかん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>してもらうと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 疑い
+  descriptions:
+  - あやしいと<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>変</rb><rt>へん</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。
+- word: スパイ
+  descriptions:
+  - <ruby><rb>敵</rb><rt>てき</rt></ruby>の<ruby><rb>内部</rb><rt>ないぶ</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>って、<ruby><rb>秘密</rb><rt>ひみつ</rt></ruby>をさぐること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 捕まる
+  descriptions:
+  - とらえられる。つかまえられる。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 記者
+  descriptions:
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 国交
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>と<ruby><rb>国</rb><rt>くに</rt></ruby>との<ruby><rb>正式</rb><rt>せいしき</rt></ruby>なつき<ruby><rb>合</rb><rt>あ</rt></ruby>い。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+web_news_url: /news/web/2017/05/09/北朝鮮による米国人拘束-米報道官-解放に取り組む考え強調/
+source_url: http://www3.nhk.or.jp/news/easy/k10010974491000/k10010974491000.html
+...
