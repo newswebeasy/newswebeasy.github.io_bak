@@ -1,0 +1,45 @@
+---
+layout: easy_news
+categories: easy
+title: 去年６９歳で死んだ象の「はな子」の像ができる
+title_with_ruby: <ruby>去年<rt>きょねん</rt></ruby>６９<ruby>歳<rt>さい</rt></ruby>で<ruby>死<rt>し</rt></ruby>んだ<ruby>象<rt>ぞう</rt></ruby>の「はな<ruby>子<rt>こ</rt></ruby>」の<ruby>像<rt>ぞう</rt></ruby>ができる
+last_modified_at: '2017-05-09T11:30:00+09:00'
+datetime: 2017年05月09日 11時30分
+description: 東京都とうきょうと武蔵野市むさしのしの動物園どうぶつえんにいた雌めすの象ぞうの「はな子こ」は、去年きょねん５月がつに６９歳さいで死しにました。
+description_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby><ruby>武蔵野市<rt>むさしのし</rt></ruby>の<ruby>動物園<rt>どうぶつえん</rt></ruby>にいた<ruby>雌<rt>めす</rt></ruby>の<ruby>象<rt>ぞう</rt></ruby>の「はな<ruby>子<rt>こ</rt></ruby>」は、<ruby>去年<rt>きょねん</rt></ruby>５<ruby>月<rt>がつ</rt></ruby>に６９<ruby>歳<rt>さい</rt></ruby>で<ruby>死<rt>し</rt></ruby>にました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/09/k10010971381000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/09/k10010971381000.mp3
+contents: "<p><ruby>東京都<rt>とうきょうと</rt></ruby><ruby>武蔵野市<rt>むさしのし</rt></ruby>の<ruby>動物園<rt>どうぶつえん</rt></ruby>にいた<span\
+  \ style=\"color: blue;\"><ruby>雌<rt>めす</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>象<rt>ぞう</rt></ruby></span>の「はな<ruby>子<rt>こ</rt></ruby>」は、<ruby>去年<rt>きょねん</rt></ruby>５<ruby>月<rt>がつ</rt></ruby>に６９<ruby>歳<rt>さい</rt></ruby>で<ruby>死<rt>し</rt></ruby>にました。はな<ruby>子<rt>こ</rt></ruby>は、タイが<ruby>日本<rt>にっぽん</rt></ruby>にプレゼントした<span\
+  \ style=\"color: blue;\"><ruby>象<rt>ぞう</rt></ruby></span>で、とても<span style=\"color:\
+  \ blue;\"><ruby>人気<rt>にんき</rt></ruby></span>がありました。はな<ruby>子<rt>こ</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>にいる<span\
+  \ style=\"color: blue;\"><ruby>象<rt>ぞう</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>長<rt>なが</rt></ruby>く<ruby>生<rt>い</rt></ruby>きた<span\
+  \ style=\"color: blue;\"><ruby>象<rt>ぞう</rt></ruby></span>でした。</p>\n<p><ruby>武蔵野市<rt>むさしのし</rt></ruby>などは、はな<ruby>子<rt>こ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れないでほしいと<ruby>考<rt>かんが</rt></ruby>えて、<ruby>吉祥寺駅<rt>きちじょうじえき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>にはな<ruby>子<rt>こ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>像<rt>ぞう</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>りました。<ruby>５日<rt>いつか</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>像<rt>ぞう</rt></ruby></span>ができたことをお<ruby>祝<rt>いわ</rt></ruby>いする<ruby>式<rt>しき</rt></ruby>があって、３００<ruby>人<rt>にん</rt></ruby>ぐらいが<ruby>集<rt>あつ</rt></ruby>まりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>像<rt>ぞう</rt></ruby></span>は<ruby>長<rt>なが</rt></ruby>さが２ｍ５０ｃｍ、<ruby>高<rt>たか</rt></ruby>さが１ｍ５０ｃｍで、<ruby>鼻<rt>はな</rt></ruby>の<ruby>先<rt>さき</rt></ruby>と１<ruby>本<rt>ぽん</rt></ruby>の<ruby>足<rt>あし</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げてあいさつをしているように<ruby>見<rt>み</rt></ruby>えます。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>像<rt>ぞう</rt></ruby></span>を<span style=\"\
+  color: blue;\">デザイン</span>した<ruby>笛田亜希<rt>ふえだあき</rt></ruby>さんは「はな<ruby>子<rt>こ</rt></ruby>を<ruby>好<rt>す</rt></ruby>きだった<ruby>皆<rt>みな</rt></ruby>さんや<ruby>動物園<rt>どうぶつえん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちに『はな<ruby>子<rt>こ</rt></ruby>が<ruby>帰<rt>かえ</rt></ruby>ってきた』と<ruby>思<rt>おも</rt></ruby>ってもらうことができたらうれしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 象
+  descriptions:
+  - <ruby><rb>陸</rb><rt>りく</rt></ruby>にすむ<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、いちばん<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>哺乳動物</rb><rt>ほにゅうどうぶつ</rt></ruby>。アフリカゾウとインドゾウとがいる。<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>鼻</rb><rt>はな</rt></ruby>と<ruby><rb>大</rb><rt>おお</rt></ruby>きなきばを<ruby><rb>持</rb><rt>も</rt></ruby>つ。
+- word: 像
+  descriptions:
+  - かたち。<ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。
+- word: 雌
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>を<ruby><rb>生</rb><rt>う</rt></ruby>む<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>があるほう。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: デザイン
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。
+  - <ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。
+web_news_url: /news/web/2017/05/05/国内最高齢のゾウはな子の銅像が完成-除幕式/
+source_url: http://www3.nhk.or.jp/news/easy/k10010971381000/k10010971381000.html
+...
