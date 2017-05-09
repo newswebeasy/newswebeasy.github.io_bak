@@ -1,0 +1,34 @@
+---
+layout: easy_news
+categories: easy
+title: いろいろな所で山が火事になる
+title_with_ruby: いろいろな<ruby>所<rt>ところ</rt></ruby>で<ruby>山<rt>やま</rt></ruby>が<ruby>火事<rt>かじ</rt></ruby>になる
+last_modified_at: '2017-05-09T15:45:00+09:00'
+datetime: 2017年05月09日 15時45分
+description: 最近さいきん雨あめがあまり降ふっていないため、空気くうきが乾かわいています。
+description_with_ruby: <ruby>最近<rt>さいきん</rt></ruby><ruby>雨<rt>あめ</rt></ruby>があまり<ruby>降<rt>ふ</rt></ruby>っていないため、<ruby>空気<rt>くうき</rt></ruby>が<ruby>乾<rt>かわ</rt></ruby>いています。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/09/k10010974721000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/09/k10010974721000.mp3
+contents: "<p><ruby>最近<rt>さいきん</rt></ruby><ruby>雨<rt>あめ</rt></ruby>があまり<ruby>降<rt>ふ</rt></ruby>っていないため、<ruby>空気<rt>くうき</rt></ruby>が<ruby>乾<rt>かわ</rt></ruby>いています。<ruby>８日<rt>ようか</rt></ruby>は<ruby>風<rt>かぜ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>かったため、<ruby>兵庫県<rt>ひょうごけん</rt></ruby>や<ruby>宮城県<rt>みやぎけん</rt></ruby>などいろいろな<ruby>所<rt>ところ</rt></ruby>で<ruby>山<rt>やま</rt></ruby>の<ruby>火事<rt>かじ</rt></ruby>がありました。</p>\n\
+  <p><ruby>岩手県<rt>いわてけん</rt></ruby><ruby>釜石市<rt>かまいしし</rt></ruby>でも<ruby>山<rt>やま</rt></ruby>の<ruby>火事<rt>かじ</rt></ruby>があって、４００<span\
+  \ style=\"color: blue;\">ｈａ</span>ぐらい<ruby>焼<rt>や</rt></ruby>けました。<ruby>釜石市<rt>かまいしし</rt></ruby>は<ruby>火事<rt>かじ</rt></ruby>を<ruby>消<rt>け</rt></ruby>すのは<ruby>難<rt>むずか</rt></ruby>しいと<ruby>考<rt>かんが</rt></ruby>えて、１３６<ruby>軒<rt>けん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる３４８<ruby>人<rt>にん</rt></ruby>に<ruby>逃<rt>に</rt></ruby>げるように<ruby>言<rt>い</rt></ruby>いました。<ruby>９日<rt>ここのか</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby><ruby>早<rt>はや</rt></ruby>くから<span\
+  \ style=\"color: blue;\"><ruby>自衛隊<rt>じえいたい</rt></ruby></span>や<ruby>岩手県<rt>いわてけん</rt></ruby>などの<span\
+  \ style=\"color: blue;\">ヘリコプター</span>が<ruby>出<rt>で</rt></ruby>て、<ruby>火事<rt>かじ</rt></ruby>を<ruby>消<rt>け</rt></ruby>そうとしています。</p>\n\
+  <p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<span style=\"color: blue;\"><ruby>東北地方<rt>とうほくちほう</rt></ruby></span>ではこれからも<ruby>空気<rt>くうき</rt></ruby>が<ruby>乾<rt>かわ</rt></ruby>く<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>くため、<ruby>火<rt>ひ</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけるように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ヘクタール
+  descriptions:
+  - メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>土地</rb><rt>とち</rt></ruby>の<ruby><rb>面積</rb><rt>めんせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「ha」。１ヘクタールは、１００アールで、<ruby><rb>一万平方</rb><rt>いちまんへいほう</rt></ruby>メートル。
+- word: 自衛隊
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために、<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby><ruby><rb>後</rb><rt>ご</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>防衛組織</rb><rt>ぼうえいそしき</rt></ruby>。<ruby><rb>陸上</rb><rt>りくじょう</rt></ruby>・<ruby><rb>海上</rb><rt>かいじょう</rt></ruby>・<ruby><rb>航空</rb><rt>こうくう</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>かれる。
+- word: ヘリコプター
+  descriptions:
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>きなプロペラが、<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>りつけてあり、まっすぐ<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>飛</rb><rt>と</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>がったり、<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>にとまったりできる<ruby><rb>航空機</rb><rt>こうくうき</rt></ruby>。ヘリ。
+- word: 東北地方
+  descriptions:
+  - <ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>の<ruby><rb>北東部</rb><rt>ほくとうぶ</rt></ruby>にあたる<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>青森</rb><rt>あおもり</rt></ruby>・<ruby><rb>秋田</rb><rt>あきた</rt></ruby>・<ruby><rb>岩手</rb><rt>いわて</rt></ruby>・<ruby><rb>宮城</rb><rt>みやぎ</rt></ruby>・<ruby><rb>山形</rb><rt>やまがた</rt></ruby>・<ruby><rb>福島</rb><rt>ふくしま</rt></ruby>の<ruby><rb>六県</rb><rt>ろっけん</rt></ruby>がある。
+web_news_url: /news/web/2017/05/09/岩手-釜石の山火事-消火活動続く/
+source_url: http://www3.nhk.or.jp/news/easy/k10010974721000/k10010974721000.html
+...
