@@ -1,0 +1,64 @@
+---
+layout: easy_news
+categories: easy
+title: 福島県　フラダンスの新しいダンサーが練習を始める
+title_with_ruby: <ruby>福島県<rt>ふくしまけん</rt></ruby>　フラダンスの<ruby>新<rt>あたら</rt></ruby>しいダンサーが<ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める
+last_modified_at: '2017-05-10T16:05:00+09:00'
+datetime: 2017年05月10日 16時05分
+description: 福島県ふくしまけんいわき市しには、フラダンスのショーと温泉おんせんで有名ゆうめいなテーマパークがあります。
+description_with_ruby: <ruby>福島県<rt>ふくしまけん</rt></ruby>いわき<ruby>市<rt>し</rt></ruby>には、フラダンスのショーと<ruby>温泉<rt>おんせん</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>なテーマパークがあります。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/10/k10010973821000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/10/k10010973821000.mp3
+contents: "<p><ruby>福島県<rt>ふくしまけん</rt></ruby>いわき<ruby>市<rt>し</rt></ruby>には、<span style=\"\
+  color: blue;\">フラダンス</span>の<span style=\"color: blue;\">ショー</span>と<span style=\"\
+  color: blue;\"><ruby>温泉<rt>おんせん</rt></ruby></span>で<ruby>有名<rt>ゆうめい</rt></ruby>な<span\
+  \ style=\"color: blue;\">テーマパーク</span>があります。この<span style=\"color: blue;\">テーマパーク</span>に<ruby>今年<rt>ことし</rt></ruby>の<ruby>春<rt>はる</rt></ruby>、１２<ruby>人<rt>にん</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\">ダンサー</span>が<ruby>入<rt>はい</rt></ruby>りました。</p>\n<p><ruby>８日<rt>ようか</rt></ruby>から<span\
+  \ style=\"color: blue;\">フラダンス</span>の<ruby>練習<rt>れんしゅう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まって、１２<ruby>人<rt>にん</rt></ruby>は<ruby>音楽<rt>おんがく</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に、<ruby>体<rt>からだ</rt></ruby>や<ruby>足<rt>あし</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>動<rt>うご</rt></ruby>かし</span>ました。<span style=\"color:\
+  \ blue;\">フラダンス</span>の<ruby>経験<rt>けいけん</rt></ruby>がある<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くて、<ruby>踊<rt>おど</rt></ruby>り<ruby>方<rt>かた</rt></ruby>は<ruby>慣<rt>な</rt></ruby>れています。しかし、<span\
+  \ style=\"color: blue;\"><ruby>毛糸<rt>けいと</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">ひも</span>を<ruby>使<rt>つか</rt></ruby>うニュージーランドの<span style=\"color: blue;\"\
+  >ダンス</span>は、なかなかうまくできなくて、<ruby>先生<rt>せんせい</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>をしっかり<ruby>聞<rt>き</rt></ruby>いていました。</p>\n\
+  <p>いわき<ruby>市<rt>し</rt></ruby>の<ruby>下田杏南<rt>しもだあんな</rt></ruby>さんは「<ruby>小<rt>ちい</rt></ruby>さいときから<span\
+  \ style=\"color: blue;\">フラダンス</span>の<span style=\"color: blue;\">ダンサー</span>になりたいと<ruby>思<rt>おも</rt></ruby>っていました。<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>頑張<rt>がんば</rt></ruby>りたいです」と<ruby>話<rt>はな</rt></ruby>していました。<ruby>阿部真菜美<rt>あべまなみ</rt></ruby>さんは「<ruby>楽<rt>たの</rt></ruby>しく<ruby>踊<rt>おど</rt></ruby>ることができました。<ruby>私<rt>わたし</rt></ruby>の<span\
+  \ style=\"color: blue;\">ふるさと</span>の<ruby>秋田県<rt>あきたけん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>にも<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>てほしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>１２<ruby>人<rt>にん</rt></ruby>は、８<ruby>月<rt>がつ</rt></ruby>から<span style=\"color:\
+  \ blue;\">ショー</span>に<ruby>出<rt>で</rt></ruby>ます。</p>\n<p></p>\n<p></p>"
+words:
+- word: フラダンス
+  descriptions:
+  - <ruby><rb>音楽</rb><rt>おんがく</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、<ruby><rb>腰</rb><rt>こし</rt></ruby>や<ruby><rb>手</rb><rt>て</rt></ruby>をくねらせる、ハワイのおどり。
+- word: ダンサー
+  descriptions:
+  - <ruby><rb>西洋風</rb><rt>せいようふう</rt></ruby>のおどりをおどることを、<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: ショー
+  descriptions:
+  - <ruby><rb>新製品</rb><rt>しんせいひん</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>展示会</rb><rt>てんじかい</rt></ruby>。
+  - <ruby><rb>舞台</rb><rt>ぶたい</rt></ruby>で<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>やおどりなどを<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+- word: 温泉
+  descriptions:
+  - <ruby><rb>地下水</rb><rt>ちかすい</rt></ruby>が<ruby><rb>火山</rb><rt>かざん</rt></ruby>などの<ruby><rb>熱</rb><rt>ねつ</rt></ruby>で<ruby><rb>温</rb><rt>あたた</rt></ruby>められて、<ruby><rb>地下</rb><rt>ちか</rt></ruby>からわき<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>湯</rb><rt>ゆ</rt></ruby>。いろいろな<ruby><rb>成分</rb><rt>せいぶん</rt></ruby>がとけていて<ruby><rb>病気</rb><rt>びょうき</rt></ruby>に<ruby><rb>効</rb><rt>き</rt></ruby>く。また、その<ruby><rb>湯</rb><rt>ゆ</rt></ruby>の<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: テーマパーク
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つのテーマに<ruby><rb>沿</rb><rt>そ</rt></ruby>って<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>遊園地</rb><rt>ゆうえんち</rt></ruby>。ディズニーランドなど。
+- word: 動かす
+  descriptions:
+  - <ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。
+  - <ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - <ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。
+- word: 毛糸
+  descriptions:
+  - ヒツジなどの<ruby><rb>毛</rb><rt>け</rt></ruby>をより<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、<ruby><rb>糸</rb><rt>いと</rt></ruby>にしたもの。<ruby><rb>編</rb><rt>あ</rt></ruby>み<ruby><rb>物</rb><rt>もの</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+- word: ひも
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んだり、<ruby><rb>束</rb><rt>たば</rt></ruby>ねたりするのに<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>太</rb><rt>ふと</rt></ruby>い<ruby><rb>糸</rb><rt>いと</rt></ruby>のようなもの。
+- word: ダンス
+  descriptions:
+  - <ruby><rb>西洋風</rb><rt>せいようふう</rt></ruby>のおどり。
+- word: ふるさと
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>生</rb><rt>う</rt></ruby>まれ<ruby><rb>育</rb><rt>そだ</rt></ruby>った<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>故郷</rb><rt>こきょう</rt></ruby>。
+web_news_url: /news/web/2017/05/08/新人フラガール-夏のデビューへレッスン開始/
+source_url: http://www3.nhk.or.jp/news/easy/k10010973821000/k10010973821000.html
+...

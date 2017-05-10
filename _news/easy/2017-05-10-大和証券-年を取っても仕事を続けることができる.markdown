@@ -1,0 +1,45 @@
+---
+layout: easy_news
+categories: easy
+title: 大和証券　年を取っても仕事を続けることができる
+title_with_ruby: <ruby>大和証券<rt>だいわしょうけん</rt></ruby>　<ruby>年<rt>とし</rt></ruby>を<ruby>取<rt>と</rt></ruby>っても<ruby>仕事<rt>しごと</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けることができる
+last_modified_at: '2017-05-10T11:30:00+09:00'
+datetime: 2017年05月10日 11時30分
+description: 証券しょうけん会社がいしゃの大和証券だいわしょうけんグループ本社ほんしゃは、６０歳さいが定年ていねんになっています。
+description_with_ruby: <ruby>証券<rt>しょうけん</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>の<ruby>大和証券<rt>だいわしょうけん</rt></ruby>グループ<ruby>本社<rt>ほんしゃ</rt></ruby>は、６０<ruby>歳<rt>さい</rt></ruby>が<ruby>定年<rt>ていねん</rt></ruby>になっています。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/10/k10010974311000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/10/k10010974311000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>証券<rt>しょうけん</rt></ruby></span><ruby>会社<rt>がいしゃ</rt></ruby>の<ruby>大和証券<rt>だいわしょうけん</rt></ruby>グループ<ruby>本社<rt>ほんしゃ</rt></ruby>は、６０<ruby>歳<rt>さい</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>定年<rt>ていねん</rt></ruby></span>になっています。<ruby>客<rt>きゃく</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>注文<rt>ちゅうもん</rt></ruby></span>で<span style=\"color:\
+  \ blue;\"><ruby>株<rt>かぶ</rt></ruby></span>を<ruby>売<rt>う</rt></ruby>ったり<ruby>買<rt>か</rt></ruby>ったりする「<ruby>営業<rt>えいぎょう</rt></ruby>」の<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>定年<rt>ていねん</rt></ruby></span>のあとも７０<ruby>歳<rt>さい</rt></ruby>まで<ruby>働<rt>はたら</rt></ruby>くことができます。</p>\n\
+  <p><ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>ごろから、７０<ruby>歳<rt>さい</rt></ruby>を<ruby>過<rt>す</rt></ruby>ぎてもずっと<ruby>仕事<rt>しごと</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けることができるようにします。</p>\n\
+  <p><ruby>会社<rt>かいしゃ</rt></ruby>は、<span style=\"color: blue;\"><ruby>株<rt>かぶ</rt></ruby></span>で<ruby>自分<rt>じぶん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>増<rt>ふ</rt></ruby>やし</span>たいと<ruby>考<rt>かんが</rt></ruby>えるお<span\
+  \ style=\"color: blue;\"><ruby>年寄<rt>としよ</rt></ruby>り</span>などのため、<ruby>仕事<rt>しごと</rt></ruby>の<ruby>経験<rt>けいけん</rt></ruby>が<ruby>長<rt>なが</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>にずっと<ruby>働<rt>はたら</rt></ruby>いてもらいたいと<ruby>考<rt>かんが</rt></ruby>えました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 証券
+  descriptions:
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>借</rb><rt>か</rt></ruby>りているしるしとして<ruby><rb>発行</rb><rt>はっこう</rt></ruby>する<ruby><rb>書</rb><rt>か</rt></ruby>きつけ。<ruby><rb>株券</rb><rt>かぶけん</rt></ruby>など。
+- word: 定年・
+  descriptions:
+  - <ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>などで、やめることが<ruby><rb>決</rb><rt>き</rt></ruby>められている<ruby><rb>年齢</rb><rt>ねんれい</rt></ruby>。
+- word: 注文
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>らせたり、<ruby><rb>届</rb><rt>とど</rt></ruby>けさせたりすること。
+  - <ruby><rb>希望</rb><rt>きぼう</rt></ruby>や<ruby><rb>条件</rb><rt>じょうけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 株式
+  descriptions:
+  - <ruby><rb>株式会社</rb><rt>かぶしきがいしゃ</rt></ruby>の<ruby><rb>元手</rb><rt>もとで</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>総額</rb><rt>そうがく</rt></ruby>を<ruby><rb>均等</rb><rt>きんとう</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>けた、その<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つをいう。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+- word: 年寄り
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。
+  - <ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+web_news_url: /news/web/2017/05/09/再雇用の年齢制限を撤廃へ-大和証券グループ本社/
+source_url: http://www3.nhk.or.jp/news/easy/k10010974311000/k10010974311000.html
+...
