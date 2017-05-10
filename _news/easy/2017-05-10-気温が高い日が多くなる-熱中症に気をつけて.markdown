@@ -1,0 +1,51 @@
+---
+layout: easy_news
+categories: easy
+title: 気温が高い日が多くなる　熱中症に気をつけて
+title_with_ruby: <ruby>気温<rt>きおん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなる　<ruby>熱中症<rt>ねっちゅうしょう</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけて
+last_modified_at: '2017-05-10T16:05:00+09:00'
+datetime: 2017年05月10日 16時05分
+description: 今年ことしも気温きおんが高たかい日ひが多おおくなってきました。
+description_with_ruby: <ruby>今年<rt>ことし</rt></ruby>も<ruby>気温<rt>きおん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなってきました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/10/k10010975011000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/10/k10010975011000.mp3
+contents: "<p><ruby>今年<rt>ことし</rt></ruby>も<span style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなってきました。<ruby>総務省消防庁<rt>そうむしょうしょうぼうちょう</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>熱中症<rt>ねっちゅうしょう</rt></ruby></span>で<ruby>病院<rt>びょういん</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>ばれた<ruby>人<rt>ひと</rt></ruby>が<ruby>何<rt>なん</rt></ruby><ruby>人<rt>にん</rt></ruby>いるか<ruby>毎年<rt>まいとし</rt></ruby>５<ruby>月<rt>がつ</rt></ruby>から<ruby>調<rt>しら</rt></ruby>べています。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby>の５<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>～<ruby>７日<rt>なのか</rt></ruby>の１<ruby>週間<rt>しゅうかん</rt></ruby>には、４２２<ruby>人<rt>にん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>熱中症<rt>ねっちゅうしょう</rt></ruby></span>で<ruby>病院<rt>びょういん</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>ばれました。<ruby>去年<rt>きょねん</rt></ruby>より９<ruby>人<rt>にん</rt></ruby><ruby>多<rt>おお</rt></ruby>くなりました。４２２<ruby>人<rt>にん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>１人<rt>ひとり</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、１３５<ruby>人<rt>にん</rt></ruby>が<ruby>入院<rt>にゅういん</rt></ruby>しました。</p>\n\
+  <p><ruby>病院<rt>びょういん</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>ばれた<ruby>人<rt>ひと</rt></ruby>の４５％は６５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>でした。２７％は０<ruby>歳<rt>さい</rt></ruby>〜１７<ruby>歳<rt>さい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもでした。<span\
+  \ style=\"color: blue;\"><ruby>熱中症<rt>ねっちゅうしょう</rt></ruby></span>になった<ruby>場所<rt>ばしょ</rt></ruby>は、<ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>や<ruby>庭<rt>にわ</rt></ruby>が３１％、<span\
+  \ style=\"color: blue;\"><ruby>屋根<rt>やね</rt></ruby></span>がない<ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>運動場<rt>うんどうじょう</rt></ruby></span>などが２１％でした。</p>\n\
+  <p><ruby>総務省消防庁<rt>そうむしょうしょうぼうちょう</rt></ruby>は「<ruby>今<rt>いま</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>は、まだ<ruby>体<rt>からだ</rt></ruby>が<ruby>暑<rt>あつ</rt></ruby>さに<ruby>慣<rt>な</rt></ruby>れていません。<span\
+  \ style=\"color: blue;\"><ruby>急<rt>きゅう</rt></ruby>に</span><span style=\"color:\
+  \ blue;\"><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>上<rt>あ</rt></ruby>がると<span style=\"\
+  color: blue;\"><ruby>熱中症<rt>ねっちゅうしょう</rt></ruby></span>になりやすいので、<ruby>気<rt>き</rt></ruby>をつけてください」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>下<rt>した</rt></ruby>の<span style=\"color: blue;\">ウェブサイト</span>には、<span\
+  \ style=\"color: blue;\"><ruby>熱中症<rt>ねっちゅうしょう</rt></ruby></span>にならないためにどうしたらいいかをやさしい<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>書<rt>か</rt></ruby>いてあります。</p>\n\
+  <p>http://www3.nhk.or.jp/news/easy/k10010922471000/k10010922471000.html</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 気温
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。
+- word: 熱中症
+  descriptions:
+  - <ruby><rb>夏</rb><rt>なつ</rt></ruby>の<ruby><rb>暑</rb><rt>あつ</rt></ruby>さなどで、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>が<ruby><rb>体内</rb><rt>たいない</rt></ruby>にたまって<ruby><rb>起</rb><rt>お</rt></ruby>こる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。ひどい<ruby><rb>頭痛</rb><rt>ずつう</rt></ruby>がしたり、<ruby><rb>気</rb><rt>き</rt></ruby>を<ruby><rb>失</rb><rt>うしな</rt></ruby>ったりする。
+- word: 屋根
+  descriptions:
+  - <ruby><rb>雨</rb><rt>あめ</rt></ruby>などを<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために、<ruby><rb>家</rb><rt>いえ</rt></ruby>をおおうもの。
+  - <ruby><rb>上</rb><rt>うえ</rt></ruby>をおおうもの。
+  - いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 運動場
+  descriptions:
+  - <ruby><rb>運動</rb><rt>うんどう</rt></ruby>をするために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: 急に
+  descriptions:
+  - とつぜん。にわかに。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+web_news_url: /news/web/2017/05/09/熱中症で運ばれた人-全国で420人-5月第1週/
+source_url: http://www3.nhk.or.jp/news/easy/k10010975011000/k10010975011000.html
+...
