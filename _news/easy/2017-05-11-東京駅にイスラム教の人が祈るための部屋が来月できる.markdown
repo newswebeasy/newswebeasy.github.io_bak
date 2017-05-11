@@ -1,0 +1,23 @@
+---
+layout: easy_news
+categories: easy
+title: 東京駅にイスラム教の人が祈るための部屋が来月できる
+title_with_ruby: <ruby>東京駅<rt>とうきょうえき</rt></ruby>にイスラム<ruby>教<rt>きょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>祈<rt>いの</rt></ruby>るための<ruby>部屋<rt>へや</rt></ruby>が<ruby>来月<rt>らいげつ</rt></ruby>できる
+last_modified_at: '2017-05-11T11:30:00+09:00'
+datetime: 2017年05月11日 11時30分
+description: イスラム教きょうの人ひとが多おおいインドネシアやマレーシアから、日本にっぽんへ旅行りょこうに来くる人ひとが増ふえています。
+description_with_ruby: イスラム<ruby>教<rt>きょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いインドネシアやマレーシアから、<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/11/k10010975121000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/11/k10010975121000.mp3
+contents: "<p><span style=\"color: blue;\">イスラム<ruby>教<rt>きょう</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いインドネシアやマレーシアから、<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。<ruby>去年<rt>きょねん</rt></ruby>は<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>とし</rt></ruby>より３０％ぐらい<ruby>増<rt>ふ</rt></ruby>えました。</p>\n\
+  <p>このためＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>は、<span style=\"color: blue;\">イスラム<ruby>教<rt>きょう</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>が<ruby>祈<rt>いの</rt></ruby>るための<ruby>部屋<rt>へや</rt></ruby>を<ruby>東京駅<rt>とうきょうえき</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>作<rt>つく</rt></ruby>ることにしました。６<ruby>月<rt>がつ</rt></ruby><ruby>５日<rt>いつか</rt></ruby>からこの<ruby>部屋<rt>へや</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>できます。<ruby>部屋<rt>へや</rt></ruby>は、<ruby>２人<rt>ふたり</rt></ruby><ruby>入<rt>はい</rt></ruby>ることができる<ruby>広<rt>ひろ</rt></ruby>さで８m²ぐらいです。<ruby>祈<rt>いの</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>手<rt>て</rt></ruby>や<ruby>足<rt>あし</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>うための<ruby>水道<rt>すいどう</rt></ruby>もあります。</p>\n\
+  <p>ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>の<ruby>社長<rt>しゃちょう</rt></ruby>は「インドネシアやマレーシアからは、これからもっと<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>来<rt>く</rt></ruby>ると<ruby>思<rt>おも</rt></ruby>うので、<ruby>祈<rt>いの</rt></ruby>る<ruby>部屋<rt>へや</rt></ruby>などが<ruby>必要<rt>ひつよう</rt></ruby>だと<ruby>考<rt>かんが</rt></ruby>えました」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p><span style=\"color: blue;\">イスラム<ruby>教<rt>きょう</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>が<ruby>祈<rt>いの</rt></ruby>るための<ruby>部屋<rt>へや</rt></ruby>は、<ruby>羽田空港<rt>はねだくうこう</rt></ruby>や<ruby>成田空港<rt>なりたくうこう</rt></ruby>、<ruby>大阪駅<rt>おおさかえき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くなどにもあります。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: イスラム教
+  descriptions:
+  - <ruby><rb>七世紀</rb><rt>ななせいき</rt></ruby><ruby><rb>初</rb><rt>はじ</rt></ruby>め、アラビアでムハンマドが<ruby><rb>始</rb><rt>はじ</rt></ruby>めた、<ruby><rb>唯一</rb><rt>ゆいいつ</rt></ruby>の<ruby><rb>神</rb><rt>かみ</rt></ruby>アッラーを<ruby><rb>信</rb><rt>しん</rt></ruby>じる<ruby><rb>宗教</rb><rt>しゅうきょう</rt></ruby>。<ruby><rb>回教</rb><rt>かいきょう</rt></ruby>。
+web_news_url: /news/web/2017/05/09/JR東日本-東京駅にイスラム教徒の礼拝室を設置へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10010975121000/k10010975121000.html
+...
