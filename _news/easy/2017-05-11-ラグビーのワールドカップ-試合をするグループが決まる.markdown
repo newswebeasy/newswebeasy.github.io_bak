@@ -1,0 +1,64 @@
+---
+layout: easy_news
+categories: easy
+title: ラグビーのワールドカップ　試合をするグループが決まる
+title_with_ruby: ラグビーのワールドカップ　<ruby>試合<rt>しあい</rt></ruby>をするグループが<ruby>決<rt>き</rt></ruby>まる
+last_modified_at: '2017-05-11T16:05:00+09:00'
+datetime: 2017年05月11日 16時05分
+description: ２０１９年ねんにラグビーのワールドカップが初はじめて日本にっぽんであります。
+description_with_ruby: ２０１９<ruby>年<rt>ねん</rt></ruby>にラグビーのワールドカップが<ruby>初<rt>はじ</rt></ruby>めて<ruby>日本<rt>にっぽん</rt></ruby>であります。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/11/k10010976661000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/11/k10010976661000.mp3
+contents: "<p>２０１９<ruby>年<rt>ねん</rt></ruby>に<span style=\"color: blue;\">ラグビー</span>の<span\
+  \ style=\"color: blue;\">ワールドカップ</span>が<ruby>初<rt>はじ</rt></ruby>めて<ruby>日本<rt>にっぽん</rt></ruby>であります。<ruby>北海道<rt>ほっかいどう</rt></ruby>から<ruby>九州<rt>きゅうしゅう</rt></ruby>まで１２の<span\
+  \ style=\"color: blue;\"><ruby>都市<rt>とし</rt></ruby></span>で４８の<ruby>試合<rt>しあい</rt></ruby>をします。</p>\n\
+  <p>この<span style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>では、まず２０の<span\
+  \ style=\"color: blue;\">チーム</span>が４つの<span style=\"color: blue;\">グループ</span>に<span\
+  \ style=\"color: blue;\"><ruby>分<rt>わ</rt></ruby>かれ</span>て<ruby>試合<rt>しあい</rt></ruby>をします。１１<ruby>日<rt>にち</rt></ruby>、どの<span\
+  \ style=\"color: blue;\">グループ</span>に<ruby>入<rt>はい</rt></ruby>るかを<ruby>決<rt>き</rt></ruby>める<span\
+  \ style=\"color: blue;\"><ruby>抽選<rt>ちゅうせん</rt></ruby></span>がありました。<ruby>日本<rt>にっぽん</rt></ruby>はグループＡに<ruby>入<rt>はい</rt></ruby>って、アイルランドやスコットランドなどと<ruby>試合<rt>しあい</rt></ruby>をすることになりました。<ruby>世界<rt>せかい</rt></ruby>の<span\
+  \ style=\"color: blue;\">ランキング</span>で<ruby>日本<rt>にっぽん</rt></ruby>は１１<ruby>番<rt>ばん</rt></ruby>、アイルランドは４<ruby>番<rt>ばん</rt></ruby>、スコットランドは５<ruby>番<rt>ばん</rt></ruby>です。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の<span style=\"color: blue;\">コーチ</span>のジェイミー・ジョセフさんは「アイルランドもスコットランドも<ruby>強<rt>つよ</rt></ruby>い<span\
+  \ style=\"color: blue;\">チーム</span>です。<ruby>日本<rt>にっぽん</rt></ruby>のみなさんが<span style=\"\
+  color: blue;\"><ruby>応援<rt>おうえん</rt></ruby></span>に<ruby>来<rt>き</rt></ruby>てくれたら、<ruby>頑張<rt>がんば</rt></ruby>ることができると<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ラグビー
+  descriptions:
+  - １チーム１５<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が、<ruby><rb>楕円形</rb><rt>だえんけい</rt></ruby>のボールを、<ruby><rb>持</rb><rt>も</rt></ruby>って<ruby><rb>走</rb><rt>はし</rt></ruby>ったり、けったりして<ruby><rb>相手側</rb><rt>あいてがわ</rt></ruby>のゴールライン<ruby><rb>内</rb><rt>ない</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>得点</rb><rt>とくてん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+- word: ワールドカップ
+  descriptions:
+  - スポーツ<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>の<ruby><rb>世界選手権大会</rb><rt>せかいせんしゅけんたいかい</rt></ruby>の<ruby><rb>優勝者</rb><rt>ゆうしょうしゃ</rt></ruby>にあたえられるカップ。また、そのカップを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>W杯</rb><rt>ダブリューはい</rt></ruby>。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 都市
+  descriptions:
+  - たくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まり<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>町</rb><rt>まち</rt></ruby>。<ruby><rb>都会</rb><rt>とかい</rt></ruby>。
+- word: 大会
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+  - ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 分かれる
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つだったものが、<ruby><rb>別々</rb><rt>べつべつ</rt></ruby>になる。
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つのものが、いくつかに<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られる。
+- word: 抽選
+  descriptions:
+  - くじ<ruby><rb>引</rb><rt>び</rt></ruby>き。
+- word: ランキング
+  descriptions:
+  - <ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。
+- word: コーチ
+  descriptions:
+  - スポーツで、そのやり<ruby><rb>方</rb><rt>かた</rt></ruby>などを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 応援
+  descriptions:
+  - <ruby><rb>味方</rb><rt>みかた</rt></ruby>を、はげますこと。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>をかして<ruby><rb>助</rb><rt>たす</rt></ruby>けること。
+web_news_url: /news/web/2017/05/10/2019ラグビーW杯-日本の対戦相手決まる/
+source_url: http://www3.nhk.or.jp/news/easy/k10010976661000/k10010976661000.html
+...

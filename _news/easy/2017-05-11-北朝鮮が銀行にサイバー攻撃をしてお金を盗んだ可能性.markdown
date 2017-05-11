@@ -1,0 +1,79 @@
+---
+layout: easy_news
+categories: easy
+title: 北朝鮮が銀行にサイバー攻撃をしてお金を盗んだ可能性
+title_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が<ruby>銀行<rt>ぎんこう</rt></ruby>にサイバー<ruby>攻撃<rt>こうげき</rt></ruby>をしてお<ruby>金<rt>かね</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>んだ<ruby>可能性<rt>かのうせい</rt></ruby>
+last_modified_at: '2017-05-11T16:05:00+09:00'
+datetime: 2017年05月11日 16時05分
+description: 北朝鮮きたちょうせんが３０以上いじょうの国くにの銀行ぎんこうのコンピューターにサイバー攻撃こうげきをして、お金かねを盗ぬすんだ可能性かのうせいが高たかいことがわかりました。
+description_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が３０<ruby>以上<rt>いじょう</rt></ruby>の<ruby>国<rt>くに</rt></ruby>の<ruby>銀行<rt>ぎんこう</rt></ruby>のコンピューターにサイバー<ruby>攻撃<rt>こうげき</rt></ruby>をして、お<ruby>金<rt>かね</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>んだ<ruby>可能性<rt>かのうせい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いことがわかりました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/11/k10010977141000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/11/k10010977141000.mp3
+contents: "<p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が３０<ruby>以上<rt>いじょう</rt></ruby>の<ruby>国<rt>くに</rt></ruby>の<ruby>銀行<rt>ぎんこう</rt></ruby>のコンピューターにサイバー<ruby>攻撃<rt>こうげき</rt></ruby>をして、お<ruby>金<rt>かね</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>んだ<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>いことがわかりました。コンピューターの<ruby>安全<rt>あんぜん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>る</span><ruby>仕事<rt>しごと</rt></ruby>をしているアメリカやロシアの<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べてわかりました。</p>\n\
+  <p>このうち、バングラデシュ<ruby>中央銀行<rt>ちゅうおうぎんこう</rt></ruby>の<span style=\"color: blue;\"\
+  ><ruby>事件<rt>じけん</rt></ruby></span>では、<ruby>悪<rt>わる</rt></ruby>い<span style=\"color:\
+  \ blue;\">ソフトウエア</span>が<ruby>入<rt>はい</rt></ruby>った<span style=\"color: blue;\"\
+  >メール</span>が<ruby>銀行<rt>ぎんこう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>届<rt>とど</rt></ruby>き</span>ました。この<span style=\"color:\
+  \ blue;\">ソフトウエア</span>が<ruby>銀行<rt>ぎんこう</rt></ruby>のコンピューターに<ruby>入<rt>はい</rt></ruby>って、８１００<ruby>万<rt>まん</rt></ruby><span\
+  \ style=\"color: blue;\">ドル</span>をフィリピンに<ruby>送<rt>おく</rt></ruby>りました。お<ruby>金<rt>かね</rt></ruby>は、<span\
+  \ style=\"color: blue;\">ソフトウエア</span>を<ruby>送<rt>おく</rt></ruby>った<span style=\"\
+  color: blue;\">グループ</span>が<span style=\"color: blue;\"><ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>っ</span>たと<ruby>考<rt>かんが</rt></ruby>えられています。</p>\n\
+  <p>アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>によると、この<span style=\"color: blue;\">ソフトウエア</span>に<ruby>使<rt>つか</rt></ruby>われていた<span\
+  \ style=\"color: blue;\">コード</span>は、２０１４<ruby>年<rt>ねん</rt></ruby>に<ruby>映画<rt>えいが</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>がサイバー<ruby>攻撃<rt>こうげき</rt></ruby>されたときの<span\
+  \ style=\"color: blue;\">コード</span>と<ruby>同<rt>おな</rt></ruby>じでした。アメリカのＦＢＩは、２０１４<ruby>年<rt>ねん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>事件<rt>じけん</rt></ruby></span>は<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>ったと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>専門家<rt>せんもんか</rt></ruby>は、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>がサイバー<ruby>攻撃<rt>こうげき</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>核兵器<rt>かくへいき</rt></ruby></span>や<span style=\"color:\
+  \ blue;\">ミサイル</span>をつくるためのお<ruby>金<rt>かね</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めていると<ruby>心配<rt>しんぱい</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 事件
+  descriptions:
+  - ふだんないような、できごと。
+- word: ソフトウエア
+  descriptions:
+  - コンピューターを<ruby><rb>動</rb><rt>うご</rt></ruby>かすためのプログラムや<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>。ソフト。
+- word: Eメール
+  descriptions:
+  - コンピューターなどを<ruby><rb>使</rb><rt>つか</rt></ruby>って、メッセージやデータなどのやりとりをする<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>電子</rb><rt>でんし</rt></ruby>メール。メール。
+- word: 届く
+  descriptions:
+  - <ruby><rb>送</rb><rt>おく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>着</rb><rt>つ</rt></ruby>く。
+  - のばしたものが、つく。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>いなどがかなう。
+- word: ドル
+  descriptions:
+  - アメリカ・カナダなどで<ruby><rb>使</rb><rt>つか</rt></ruby>われているお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１ドルは１００セント。
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 受け取る
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>理解</rb><rt>りかい</rt></ruby>する。
+- word: コード
+  descriptions:
+  - <ruby><rb>符号</rb><rt>ふごう</rt></ruby>。<ruby><rb>暗号</rb><rt>あんごう</rt></ruby>。
+  - <ruby><rb>規則</rb><rt>きそく</rt></ruby>。
+  - <ruby><rb>情報</rb><rt>じょうほう</rt></ruby>を<ruby><rb>表現</rb><rt>ひょうげん</rt></ruby>するための<ruby><rb>符号</rb><rt>ふごう</rt></ruby>の<ruby><rb>体系</rb><rt>たいけい</rt></ruby>。
+- word: 核兵器
+  descriptions:
+  - <ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。
+- word: ミサイル
+  descriptions:
+  - ロケットなどの<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>飛</rb><rt>と</rt></ruby>び、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby><ruby><rb>装置</rb><rt>そうち</rt></ruby>によって、<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>をとらえる<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>誘導弾</rb><rt>ゆうどうだん</rt></ruby>。
+web_news_url: /news/web/2017/05/11/北朝鮮-銀行へのサイバー攻撃で多額の現金盗んだか/
+source_url: http://www3.nhk.or.jp/news/easy/k10010977141000/k10010977141000.html
+...
