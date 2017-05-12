@@ -1,0 +1,70 @@
+---
+layout: easy_news
+categories: easy
+title: 気仙沼港に今年初めてかつおを取った船が入る
+title_with_ruby: <ruby>気仙沼<rt>けせんぬま</rt></ruby><ruby>港<rt>こう</rt></ruby>に<ruby>今年<rt>ことし</rt></ruby><ruby>初<rt>はじ</rt></ruby>めてかつおを<ruby>取<rt>と</rt></ruby>った<ruby>船<rt>ふね</rt></ruby>が<ruby>入<rt>はい</rt></ruby>る
+last_modified_at: '2017-05-12T11:30:00+09:00'
+datetime: 2017年05月12日 11時30分
+description: １０日とおかの朝あさ、宮城県みやぎけんの気仙沼けせんぬま港こうに約やく８ｔのかつおを取とった青森県あおもりけんの船ふねが入はいってきました。
+description_with_ruby: <ruby>１０日<rt>とおか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>宮城県<rt>みやぎけん</rt></ruby>の<ruby>気仙沼<rt>けせんぬま</rt></ruby><ruby>港<rt>こう</rt></ruby>に<ruby>約<rt>やく</rt></ruby>８ｔのかつおを<ruby>取<rt>と</rt></ruby>った<ruby>青森県<rt>あおもりけん</rt></ruby>の<ruby>船<rt>ふね</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってきました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/12/k10010976051000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/12/k10010976051000.mp3
+contents: "<p><ruby>１０日<rt>とおか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>宮城県<rt>みやぎけん</rt></ruby>の<ruby>気仙沼<rt>けせんぬま</rt></ruby><ruby>港<rt>こう</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>８<span style=\"color: blue;\"\
+  >ｔ</span>の<span style=\"color: blue;\">かつお</span>を<ruby>取<rt>と</rt></ruby>った<ruby>青森県<rt>あおもりけん</rt></ruby>の<ruby>船<rt>ふね</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってきました。<ruby>今年<rt>ことし</rt></ruby>はいつもの<ruby>年<rt>とし</rt></ruby>より２<ruby>週間<rt>しゅうかん</rt></ruby>ぐらい<ruby>早<rt>はや</rt></ruby>く<span\
+  \ style=\"color: blue;\">かつお</span>の<span style=\"color: blue;\"><ruby>漁<rt>りょう</rt></ruby></span>が<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>港<rt>みなと</rt></ruby>では、<span\
+  \ style=\"color: blue;\">かつお</span>を<ruby>同<rt>おな</rt></ruby>じぐらいの<ruby>大<rt>おお</rt></ruby>きさや<ruby>重<rt>おも</rt></ruby>さに<span\
+  \ style=\"color: blue;\"><ruby>分<rt>わ</rt></ruby>け</span>ていました。</p>\n<p><span style=\"\
+  color: blue;\">かつお</span>を<ruby>取<rt>と</rt></ruby>ってきた<ruby>船<rt>ふね</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>今日<rt>きょう</rt></ruby>の<span\
+  \ style=\"color: blue;\">かつお</span>は<span style=\"color: blue;\"><ruby>脂<rt>あぶら</rt></ruby></span>がたくさんあっておいしいです。<ruby>皆<rt>みな</rt></ruby>さんにいっぱい<ruby>食<rt>た</rt></ruby>べてもらいたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>気仙沼<rt>けせんぬま</rt></ruby><ruby>港<rt>こう</rt></ruby>は２０１１<ruby>年<rt>ねん</rt></ruby>の<ruby>東日本大震災<rt>ひがしにほんだいしんさい</rt></ruby>のとき、<span\
+  \ style=\"color: blue;\"><ruby>津波<rt>つなみ</rt></ruby></span>で<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>がありましたが、３か<ruby>月<rt>げつ</rt></ruby>で<ruby>直<rt>なお</rt></ruby>しました。そして<ruby>去年<rt>きょねん</rt></ruby>、２０<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>日本<rt>にっぽん</rt></ruby>でいちばんたくさん<span\
+  \ style=\"color: blue;\"><ruby>生<rt>なま</rt></ruby></span>の<span style=\"color: blue;\"\
+  >かつお</span>が<ruby>集<rt>あつ</rt></ruby>まった<ruby>港<rt>みなと</rt></ruby>になりました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 鰹
+  descriptions:
+  - <ruby><rb>暖</rb><rt>あたた</rt></ruby>かい<ruby><rb>海</rb><rt>うみ</rt></ruby>を、<ruby><rb>群</rb><rt>む</rt></ruby>れを<ruby><rb>作</rb><rt>つく</rt></ruby>って<ruby><rb>泳</rb><rt>およ</rt></ruby>ぐ<ruby><rb>回遊魚</rb><rt>かいゆうぎょ</rt></ruby>。さしみで<ruby><rb>食</rb><rt>た</rt></ruby>べたり、かつおぶしなどにする。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: トン
+  descriptions:
+  - メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。一トンは、一〇〇〇キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+  - <ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: 漁
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>などをとること。
+- word: 分ける
+  descriptions:
+  - <ruby><rb>別々</rb><rt>べつべつ</rt></ruby>にする。はなす。
+  - <ruby><rb>配</rb><rt>くば</rt></ruby>る。<ruby><rb>分配</rb><rt>ぶんぱい</rt></ruby>する。
+  - <ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>に、おし<ruby><rb>開</rb><rt>ひら</rt></ruby>く。
+  - <ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>分</rb><rt>わ</rt></ruby>けにする。
+  - <ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てる。
+- word: 脂
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にある<ruby><rb>脂肪</rb><rt>しぼう</rt></ruby>。
+- word: 津波
+  descriptions:
+  - <ruby><rb>地震</rb><rt>じしん</rt></ruby>などのために、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>におし<ruby><rb>寄</rb><rt>よ</rt></ruby>せてくること。
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 生
+  descriptions:
+  - にたり、<ruby><rb>焼</rb><rt>や</rt></ruby>いたり、<ruby><rb>干</rb><rt>ほ</rt></ruby>したりしてない、そのままのもの。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>えず、そのままじかに<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+  - <ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>でないようす。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>えてないようす。
+  - じかに<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+  - <ruby><rb>生</rb><rt>なま</rt></ruby>ビールのこと。
+  - <ruby><rb>半端</rb><rt>はんぱ</rt></ruby>で、はっきりしないようす。
+web_news_url: /news/web/2017/05/10/生鮮カツオ水揚げ首位の気仙沼港-ことし初の水揚げ/
+source_url: http://www3.nhk.or.jp/news/easy/k10010976051000/k10010976051000.html
+...

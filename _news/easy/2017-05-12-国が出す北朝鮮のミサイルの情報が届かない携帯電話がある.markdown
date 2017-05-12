@@ -1,0 +1,80 @@
+---
+layout: easy_news
+categories: easy
+title: 国が出す北朝鮮のミサイルの情報が届かない携帯電話がある
+title_with_ruby: <ruby>国<rt>くに</rt></ruby>が<ruby>出<rt>だ</rt></ruby>す<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のミサイルの<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>届<rt>とど</rt></ruby>かない<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>がある
+last_modified_at: '2017-05-12T11:30:00+09:00'
+datetime: 2017年05月12日 11時30分
+description: 国くには、北朝鮮きたちょうせんのミサイルが日本にっぽんに飛とんでくる可能性かのうせいがある場合ばあい「Ｊアラート」というシステムで、みんなにすぐに危険きけんを知しらせることにしています。
+description_with_ruby: <ruby>国<rt>くに</rt></ruby>は、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のミサイルが<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>飛<rt>と</rt></ruby>んでくる<ruby>可能性<rt>かのうせい</rt></ruby>がある<ruby>場合<rt>ばあい</rt></ruby>「Ｊアラート」というシステムで、みんなにすぐに<ruby>危険<rt>きけん</rt></ruby>を<ruby>知<rt>し</rt></ruby>らせることにしています。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/12/k10010976971000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/12/k10010976971000.mp3
+contents: "<p><ruby>国<rt>くに</rt></ruby>は、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<span style=\"\
+  color: blue;\">ミサイル</span>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>飛<rt>と</rt></ruby>んでくる<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>がある<ruby>場合<rt>ばあい</rt></ruby>「Ｊアラート」という<span\
+  \ style=\"color: blue;\">システム</span>で、みんなにすぐに<ruby>危険<rt>きけん</rt></ruby>を<ruby>知<rt>し</rt></ruby>らせることにしています。スマートフォンや<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>にも「<ruby>緊急速報<rt>きんきゅうそくほう</rt></ruby>メール」で<ruby>知<rt>し</rt></ruby>らせます。</p>\n\
+  <p>しかし、<ruby>最近<rt>さいきん</rt></ruby><span style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>がある<span\
+  \ style=\"color: blue;\"><ruby>料金<rt>りょうきん</rt></ruby></span>が<ruby>安<rt>やす</rt></ruby>いスマートフォンには、この<span\
+  \ style=\"color: blue;\">メール</span>が<ruby>来<rt>こ</rt></ruby>ない<span style=\"color:\
+  \ blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があることがわかりました。<ruby>国<rt>くに</rt></ruby>は、このようなスマートフォンを<ruby>持<rt>も</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>は、「Ｊアラート」の<span\
+  \ style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>届<rt>とど</rt></ruby>く</span>アプリをスマートフォンに<ruby>入<rt>い</rt></ruby>れるように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>古<rt>ふる</rt></ruby>い<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>にもこの<span style=\"\
+  color: blue;\">メール</span>が<ruby>来<rt>こ</rt></ruby>ない<span style=\"color: blue;\"\
+  ><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。<ruby>国<rt>くに</rt></ruby>は、<ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>に<span\
+  \ style=\"color: blue;\">メール</span><span style=\"color: blue;\">アドレス</span>を<span\
+  \ style=\"color: blue;\"><ruby>登録<rt>とうろく</rt></ruby></span>して、<span style=\"color:\
+  \ blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>を<ruby>送<rt>おく</rt></ruby>ってもらうようにしたほうがいいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>国<rt>くに</rt></ruby>は、<ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>と<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>して<span style=\"color:\
+  \ blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>がみんなに<span style=\"color: blue;\"\
+  ><ruby>届<rt>とど</rt></ruby>く</span>ようにしていく<ruby>予定<rt>よてい</rt></ruby>です。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: ミサイル
+  descriptions:
+  - ロケットなどの<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>飛</rb><rt>と</rt></ruby>び、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby><ruby><rb>装置</rb><rt>そうち</rt></ruby>によって、<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>をとらえる<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>誘導弾</rb><rt>ゆうどうだん</rt></ruby>。
+- word: 情報
+  descriptions:
+  - できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+- word: 届く
+  descriptions:
+  - <ruby><rb>送</rb><rt>おく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>着</rb><rt>つ</rt></ruby>く。
+  - のばしたものが、つく。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>いなどがかなう。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: システム
+  descriptions:
+  - <ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+  - ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: 料金
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ったり、<ruby><rb>見</rb><rt>み</rt></ruby>たりしたことに<ruby><rb>対</rb><rt>たい</rt></ruby>してはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: Eメール
+  descriptions:
+  - コンピューターなどを<ruby><rb>使</rb><rt>つか</rt></ruby>って、メッセージやデータなどのやりとりをする<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>電子</rb><rt>でんし</rt></ruby>メール。メール。
+- word: 届く
+  descriptions:
+  - <ruby><rb>送</rb><rt>おく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>着</rb><rt>つ</rt></ruby>く。
+  - のばしたものが、つく。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>いなどがかなう。
+- word: アドレス
+  descriptions:
+  - <ruby><rb>住所</rb><rt>じゅうしょ</rt></ruby>。あて<ruby><rb>名</rb><rt>な</rt></ruby>。
+  - インターネットなど、コンピューターの<ruby><rb>通信</rb><rt>つうしん</rt></ruby>ネットワーク<ruby><rb>上</rb><rt>じょう</rt></ruby>に<ruby><rb>存在</rb><rt>そんざい</rt></ruby>する<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>を<ruby><rb>示</rb><rt>しめ</rt></ruby>すもの。<ruby><rb>住所</rb><rt>じゅうしょ</rt></ruby>や<ruby><rb>電話番号</rb><rt>でんわばんごう</rt></ruby>にあたる。
+- word: 登録
+  descriptions:
+  - <ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などに<ruby><rb>届</rb><rt>とど</rt></ruby>け<ruby><rb>出</rb><rt>で</rt></ruby>て、おおやけに<ruby><rb>認</rb><rt>みと</rt></ruby>めてもらうこと。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+web_news_url: /news/web/2017/05/11/ミサイル発射の避難要請-格安スマホで受信できないおそれ/
+source_url: http://www3.nhk.or.jp/news/easy/k10010976971000/k10010976971000.html
+...

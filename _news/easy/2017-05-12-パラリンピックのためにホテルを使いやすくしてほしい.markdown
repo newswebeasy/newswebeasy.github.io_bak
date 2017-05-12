@@ -1,0 +1,49 @@
+---
+layout: easy_news
+categories: easy
+title: 「パラリンピックのためにホテルを使いやすくしてほしい」
+title_with_ruby: 「パラリンピックのためにホテルを<ruby>使<rt>つか</rt></ruby>いやすくしてほしい」
+last_modified_at: '2017-05-12T15:15:00+09:00'
+datetime: 2017年05月12日 15時15分
+description: ２０２０年ねんに東京とうきょうでパラリンピックがあります。
+description_with_ruby: ２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>でパラリンピックがあります。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/12/k10010978261000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/12/k10010978261000.mp3
+contents: "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<span style=\"\
+  color: blue;\">パラリンピック</span>があります。<ruby>国際<rt>こくさい</rt></ruby>パラリンピック<ruby>委員会<rt>いいんかい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>責任者<rt>せきにんしゃ</rt></ruby></span>のハビエル・ゴンザレスさんは、<span\
+  \ style=\"color: blue;\">パラリンピック</span>の<ruby>準備<rt>じゅんび</rt></ruby>について<span style=\"\
+  color: blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う</span>ために<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>ました。</p>\n\
+  <p>１１<ruby>日<rt>にち</rt></ruby>、ゴンザレスさんは<span style=\"color: blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>い</span>のあと、<span\
+  \ style=\"color: blue;\"><ruby>記者<rt>きしゃ</rt></ruby></span>たちに「<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\">パラリンピック</span>に<ruby>興味<rt>きょうみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っています。しかし、<ruby>体<rt>からだ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>のある<ruby>人<rt>ひと</rt></ruby>が<ruby>使<rt>つか</rt></ruby>いやすいホテルはたくさんありません。<span\
+  \ style=\"color: blue;\"><ruby>車<rt>くるま</rt></ruby>いす</span>に<ruby>乗<rt>の</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>などが<ruby>使<rt>つか</rt></ruby>いやすい<ruby>部屋<rt>へや</rt></ruby>を<ruby>安<rt>やす</rt></ruby>く、<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>予約<rt>よやく</rt></ruby>できるようにしてほしいです」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: 責任者
+  descriptions:
+  - あることがらについて<ruby><rb>責任</rb><rt>せきにん</rt></ruby>を<ruby><rb>負</rb><rt>お</rt></ruby>う<ruby><rb>立場</rb><rt>たちば</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 話し合う
+  descriptions:
+  - たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。
+  - <ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。
+- word: 話し合い
+  descriptions:
+  - <ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>相談</rb><rt>そうだん</rt></ruby>。
+- word: 記者
+  descriptions:
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 障害
+  descriptions:
+  - <ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。
+- word: 車椅子
+  descriptions:
+  - <ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>病気</rb><rt>びょうき</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>などが、<ruby><rb>腰</rb><rt>こし</rt></ruby>かけたまま<ruby><rb>移動</rb><rt>いどう</rt></ruby>できるように<ruby><rb>車</rb><rt>くるま</rt></ruby>をつけた、いす。
+web_news_url: /news/web/2017/05/11/国際パラリンピック委員会-ホテル客室の改善求める/
+source_url: http://www3.nhk.or.jp/news/easy/k10010978261000/k10010978261000.html
+...
