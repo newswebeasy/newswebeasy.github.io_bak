@@ -1,0 +1,39 @@
+---
+layout: easy_news
+categories: easy
+title: 北海道釧路市　日本でいちばん遅く桜が咲いた
+title_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>釧路市<rt>くしろし</rt></ruby>　<ruby>日本<rt>にっぽん</rt></ruby>でいちばん<ruby>遅<rt>おそ</rt></ruby>く<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いた
+last_modified_at: '2017-05-15T16:35:00+09:00'
+datetime: 2017年05月15日 16時35分
+description: 北海道ほっかいどうの釧路地方気象台くしろちほうきしょうだいは、毎年まいとし、釧路市くしろしにある公園こうえんの「エゾヤマザクラ」という桜さくらを調しらべて、花はなが咲さくとみんなに知しらせています。
+description_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>釧路地方気象台<rt>くしろちほうきしょうだい</rt></ruby>は、<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>釧路市<rt>くしろし</rt></ruby>にある<ruby>公園<rt>こうえん</rt></ruby>の「エゾヤマザクラ」という<ruby>桜<rt>さくら</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べて、<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>くとみんなに<ruby>知<rt>し</rt></ruby>らせています。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/15/k10010981731000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/15/k10010981731000.mp3
+contents: "<p><ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>釧路地方気象台<rt>くしろちほうきしょうだい</rt></ruby>は、<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>釧路市<rt>くしろし</rt></ruby>にある<ruby>公園<rt>こうえん</rt></ruby>の「エゾヤマザクラ」という<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べて、<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>くとみんなに<ruby>知<rt>し</rt></ruby>らせています。</p>\n\
+  <p><ruby>１４日<rt>じゅうよっか</rt></ruby>、この<span style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>に５つ<ruby>以上<rt>いじょう</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いていたため「<ruby>釧路市<rt>くしろし</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>が<ruby>咲<rt>さ</rt></ruby>きました」と<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。この<ruby>日<rt>ひ</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>寒<rt>さむ</rt></ruby>くて４<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろの<span\
+  \ style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>でした。<ruby>公園<rt>こうえん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>女性<rt>じょせい</rt></ruby>は「まだ<ruby>寒<rt>さむ</rt></ruby>いので<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>が<ruby>咲<rt>さ</rt></ruby>いたと<ruby>聞<rt>き</rt></ruby>いて<ruby>驚<rt>おどろ</rt></ruby>きました。<ruby>早<rt>はや</rt></ruby>くたくさん<ruby>咲<rt>さ</rt></ruby>いてほしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>でいちばん<ruby>早<rt>はや</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>が<ruby>咲<rt>さ</rt></ruby>いたのは<ruby>沖縄県<rt>おきなわけん</rt></ruby><ruby>那覇<rt>なは</rt></ruby><ruby>市<rt>し</rt></ruby>で、１<ruby>月<rt>がつ</rt></ruby><ruby>１４日<rt>じゅうよっか</rt></ruby>でした。そのあとほかの<ruby>所<rt>ところ</rt></ruby>でもだんだん<ruby>咲<rt>さ</rt></ruby>いていって、４か<ruby>月<rt>げつ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>後<rt>ご</rt></ruby></span>、<ruby>最後<rt>さいご</rt></ruby>に<ruby>釧路市<rt>くしろし</rt></ruby>で<ruby>咲<rt>さ</rt></ruby>きました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 桜
+  descriptions:
+  - <ruby><rb>山地</rb><rt>さんち</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>え、<ruby><rb>公園</rb><rt>こうえん</rt></ruby>や<ruby><rb>庭</rb><rt>にわ</rt></ruby>にも<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>木</rb><rt>き</rt></ruby>。ソメイヨシノ・シダレザクラ・ヤマザクラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>春</rb><rt>はる</rt></ruby>、うすもも<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>美</rb><rt>うつく</rt></ruby>しい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の「<ruby><rb>国花</rb><rt>こっか</rt></ruby>」とされる。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 気温
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。
+- word: 後
+  descriptions:
+  - うしろ。
+  - のち。あと。
+web_news_url: /news/web/2017/05/15/北海道-釧路-全国で最も遅いサクラの開花/
+source_url: http://www3.nhk.or.jp/news/easy/k10010981731000/k10010981731000.html
+...
