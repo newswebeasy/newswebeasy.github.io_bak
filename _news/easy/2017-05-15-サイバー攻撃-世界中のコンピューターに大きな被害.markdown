@@ -1,0 +1,74 @@
+---
+layout: easy_news
+categories: easy
+title: サイバー攻撃　世界中のコンピューターに大きな被害
+title_with_ruby: サイバー<ruby>攻撃<rt>こうげき</rt></ruby>　<ruby>世界中<rt>せかいじゅう</rt></ruby>のコンピューターに<ruby>大<rt>おお</rt></ruby>きな<ruby>被害<rt>ひがい</rt></ruby>
+last_modified_at: '2017-05-15T16:35:00+09:00'
+datetime: 2017年05月15日 16時35分
+description: 先週せんしゅうの終おわりから世界中せかいじゅうで「サイバー攻撃こうげき」があって、コンピューターに被害ひがいがあった病院びょういんや会社かいしゃなどは仕事しごとができなくなって困こまっています。
+description_with_ruby: <ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりから<ruby>世界中<rt>せかいじゅう</rt></ruby>で「サイバー<ruby>攻撃<rt>こうげき</rt></ruby>」があって、コンピューターに<ruby>被害<rt>ひがい</rt></ruby>があった<ruby>病院<rt>びょういん</rt></ruby>や<ruby>会社<rt>かいしゃ</rt></ruby>などは<ruby>仕事<rt>しごと</rt></ruby>ができなくなって<ruby>困<rt>こま</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja/news/easy/image/2017/05/15/k10010981601000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/15/k10010981601000.mp3
+contents: "<p><ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりから<ruby>世界中<rt>せかいじゅう</rt></ruby>で「サイバー<ruby>攻撃<rt>こうげき</rt></ruby>」があって、コンピューターに<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>があった<ruby>病院<rt>びょういん</rt></ruby>や<ruby>会社<rt>かいしゃ</rt></ruby>などは<ruby>仕事<rt>しごと</rt></ruby>ができなくなって<ruby>困<rt>こま</rt></ruby>っています。</p>\n\
+  <p>このサイバー<ruby>攻撃<rt>こうげき</rt></ruby>は、ほかのコンピューターに<span style=\"color: blue;\">ウイルス</span>を<ruby>入<rt>い</rt></ruby>れて<span\
+  \ style=\"color: blue;\">ファイル</span>を<ruby>利用<rt>りよう</rt></ruby>できなくして、また<ruby>利用<rt>りよう</rt></ruby>したいなら<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>えと<ruby>言<rt>い</rt></ruby>ってきます。<span\
+  \ style=\"color: blue;\">ウイルス</span>は「ウィンドウズ」というＯＳ（<span style=\"color: blue;\"\
+  ><ruby>基本<rt>きほん</rt></ruby></span><span style=\"color: blue;\">ソフト</span>）の<ruby>弱<rt>よわ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>部分<rt>ぶぶん</rt></ruby></span>から<ruby>入<rt>はい</rt></ruby>ってきます。</p>\n\
+  <p><span style=\"color: blue;\">ヨーロッパ</span>の<ruby>警察<rt>けいさつ</rt></ruby>は<ruby>１４日<rt>じゅうよっか</rt></ruby>、サイバー<ruby>攻撃<rt>こうげき</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>は１５０<ruby>以上<rt>いじょう</rt></ruby>の<ruby>国<rt>くに</rt></ruby>で２０<ruby>万<rt>まん</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span>あって、これからもっと<ruby>増<rt>ふ</rt></ruby>えるだろうと<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>でも<span style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>てきています。<ruby>情報処理<rt>じょうほうしょり</rt></ruby><ruby>推進<rt>すいしん</rt></ruby><ruby>機構<rt>きこう</rt></ruby>によると、<ruby>今<rt>いま</rt></ruby>までもらったことがないような<span\
+  \ style=\"color: blue;\">メール</span>は、<span style=\"color: blue;\"><ruby>役所<rt>やくしょ</rt></ruby></span>からと<ruby>書<rt>か</rt></ruby>いてあってもうその<span\
+  \ style=\"color: blue;\">メール</span>かもしれません。<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>送<rt>おく</rt></ruby>ってきた<span\
+  \ style=\"color: blue;\">ファイル</span>を<ruby>開<rt>あ</rt></ruby>けてはいけません。そして、ウィンドウズを<ruby>使<rt>つか</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>は<ruby>弱<rt>よわ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>部分<rt>ぶぶん</rt></ruby></span>を<ruby>直<rt>なお</rt></ruby>す<span\
+  \ style=\"color: blue;\">プログラム</span>を<ruby>入<rt>い</rt></ruby>れたほうがいいです。<span style=\"\
+  color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>があったら、<ruby>次<rt>つぎ</rt></ruby>の<span\
+  \ style=\"color: blue;\">ウェブサイト</span>で<ruby>相談<rt>そうだん</rt></ruby>できます。\nhttp://www.ipa.go.jp/security/anshin/</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: コンピューターウイルス
+  descriptions:
+  - ほかのコンピューターに<ruby><rb>勝手</rb><rt>かって</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>り、プログラムをこわしたり、データを<ruby><rb>消</rb><rt>け</rt></ruby>したりするプログラム。
+- word: ファイル
+  descriptions:
+  - <ruby><rb>書類</rb><rt>しょるい</rt></ruby>などをとじこんでおくもの。<ruby><rb>書類</rb><rt>しょるい</rt></ruby>ばさみ。
+  - コンピューターであつかう<ruby><rb>文書</rb><rt>ぶんしょ</rt></ruby>や<ruby><rb>画像</rb><rt>がぞう</rt></ruby>などのデータ。
+  - <ruby><rb>書類</rb><rt>しょるい</rt></ruby>や<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>の<ruby><rb>切</rb><rt>き</rt></ruby>りぬきなどを<ruby><rb>整理</rb><rt>せいり</rt></ruby>して、とじこむこと。また、とじこんだもの。
+- word: 基本
+  descriptions:
+  - ものごとの<ruby><rb>大</rb><rt>おお</rt></ruby>もと。
+- word: ソフトウエア
+  descriptions:
+  - コンピューターを<ruby><rb>動</rb><rt>うご</rt></ruby>かすためのプログラムや<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>。ソフト。
+- word: 部分
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>を、いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>けたものの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: 件
+  descriptions:
+  - ことがら。できごと。
+  - ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: Eメール
+  descriptions:
+  - コンピューターなどを<ruby><rb>使</rb><rt>つか</rt></ruby>って、メッセージやデータなどのやりとりをする<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>電子</rb><rt>でんし</rt></ruby>メール。メール。
+- word: 役所
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。
+- word: プログラム
+  descriptions:
+  - <ruby><rb>番組</rb><rt>ばんぐみ</rt></ruby>。<ruby><rb>予定表</rb><rt>よていひょう</rt></ruby>。
+  - コンピューターに<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をさせるための<ruby><rb>手順</rb><rt>てじゅん</rt></ruby>や<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>をコンピューター<ruby><rb>用</rb><rt>よう</rt></ruby>のことばで<ruby><rb>書</rb><rt>か</rt></ruby>くこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>いたもの。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+web_news_url: /news/web/2017/05/15/サイバー攻撃-150か国で20万件以上の被害か/
+source_url: http://www3.nhk.or.jp/news/easy/k10010981601000/k10010981601000.html
+...
