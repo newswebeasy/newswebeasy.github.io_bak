@@ -1,0 +1,37 @@
+---
+layout: easy_news
+categories: easy
+title: マイクロソフト　話したことをすぐに翻訳するサービス
+title_with_ruby: マイクロソフト　<ruby>話<rt>はな</rt></ruby>したことをすぐに<ruby>翻訳<rt>ほんやく</rt></ruby>するサービス
+last_modified_at: '2017-05-15T11:30:00+09:00'
+datetime: 2017年05月15日 11時30分
+description: アメリカの会社かいしゃのマイクロソフトは、コンピューターが自分じぶんで考かんがえる「人工知能じんこうちのう」という技術ぎじゅつを使つかった新あたらしいサービスを作つくりました。
+description_with_ruby: アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>のマイクロソフトは、コンピューターが<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>える「<ruby>人工知能<rt>じんこうちのう</rt></ruby>」という<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>新<rt>あたら</rt></ruby>しいサービスを<ruby>作<rt>つく</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/15/k10010977341000.jpg
+voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/15/k10010977341000.mp3
+contents: "<p>アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>のマイクロソフトは、コンピューターが<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>える「<ruby>人工知能<rt>じんこうちのう</rt></ruby>」という<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\">サービス</span>を<ruby>作<rt>つく</rt></ruby>りました。<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>いた<span\
+  \ style=\"color: blue;\">イベント</span>で<span style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n\
+  <p>この<span style=\"color: blue;\">サービス</span>を<ruby>利用<rt>りよう</rt></ruby>すると、<ruby>話<rt>はな</rt></ruby>したことをすぐに<ruby>日本語<rt>にほんご</rt></ruby>など６０<ruby>以上<rt>いじょう</rt></ruby>のことばに<ruby>翻訳<rt>ほんやく</rt></ruby>することができます。<ruby>会議<rt>かいぎ</rt></ruby>でみんなに<ruby>話<rt>はなし</rt></ruby>をするときなどに<ruby>便利<rt>べんり</rt></ruby>です。<span\
+  \ style=\"color: blue;\">イベント</span>では、マイクロソフトの<ruby>人<rt>ひと</rt></ruby>がスペイン<ruby>語<rt>ご</rt></ruby>で<ruby>話<rt>はな</rt></ruby>すと、すぐに<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>画面<rt>がめん</rt></ruby></span>に<ruby>英語<rt>えいご</rt></ruby>の<ruby>翻訳<rt>ほんやく</rt></ruby>が<ruby>出<rt>で</rt></ruby>ました。</p>\n\
+  <p><ruby>新<rt>あたら</rt></ruby>しい<span style=\"color: blue;\">サービス</span>は、インターネットを<ruby>使<rt>つか</rt></ruby>って<ruby>自分<rt>じぶん</rt></ruby>のコンピューターやスマートフォンで<ruby>利用<rt>りよう</rt></ruby>することができます。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 画面
+  descriptions:
+  - <ruby><rb>映画</rb><rt>えいが</rt></ruby>やテレビが<ruby><rb>映</rb><rt>うつ</rt></ruby>っている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+web_news_url: /news/web/2017/05/11/マイクロソフト-ほぼ同時に翻訳-人工知能使った新技術発表/
+source_url: http://www3.nhk.or.jp/news/easy/k10010977341000/k10010977341000.html
+...
