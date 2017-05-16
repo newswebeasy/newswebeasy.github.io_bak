@@ -1,0 +1,40 @@
+---
+layout: easy_news
+categories: easy
+title: 長野県　山に登る外国人を案内する「通訳案内士」ができる
+title_with_ruby: <ruby>長野県<rt>ながのけん</rt></ruby>　<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>る<ruby>外国人<rt>がいこくじん</rt></ruby>を<ruby>案内<rt>あんない</rt></ruby>する「<ruby>通訳案内士<rt>つうやくあんないし</rt></ruby>」ができる
+last_modified_at: '2017-05-16T11:30:00+09:00'
+datetime: 2017年05月16日 11時30分
+description: 「通訳案内士つうやくあんないし」は、日本にっぽんを旅行りょこうする外国人がいこくじんを外国がいこく語ごで案内あんないする仕事しごとをします。
+description_with_ruby: 「<ruby>通訳案内士<rt>つうやくあんないし</rt></ruby>」は、<ruby>日本<rt>にっぽん</rt></ruby>を<ruby>旅行<rt>りょこう</rt></ruby>する<ruby>外国人<rt>がいこくじん</rt></ruby>を<ruby>外国<rt>がいこく</rt></ruby><ruby>語<rt>ご</rt></ruby>で<ruby>案内<rt>あんない</rt></ruby>する<ruby>仕事<rt>しごと</rt></ruby>をします。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/16/k10010980631000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/16/k10010980631000.mp3
+contents: "<p>「<ruby>通訳案内士<rt>つうやくあんないし</rt></ruby>」は、<ruby>日本<rt>にっぽん</rt></ruby>を<ruby>旅行<rt>りょこう</rt></ruby>する<ruby>外国人<rt>がいこくじん</rt></ruby>を<ruby>外国<rt>がいこく</rt></ruby><ruby>語<rt>ご</rt></ruby>で<ruby>案内<rt>あんない</rt></ruby>する<ruby>仕事<rt>しごと</rt></ruby>をします。<ruby>国<rt>くに</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>合格<rt>ごうかく</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>がなりますが、<ruby>決<rt>き</rt></ruby>められた<ruby>場所<rt>ばしょ</rt></ruby>だけで<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>場合<rt>ばあい</rt></ruby>は<ruby>試験<rt>しけん</rt></ruby>を<ruby>受<rt>う</rt></ruby>けなくても<ruby>仕事<rt>しごと</rt></ruby>ができます。</p>\n\
+  <p><ruby>長野県<rt>ながのけん</rt></ruby>では、<ruby>県<rt>けん</rt></ruby>にある<ruby>山<rt>やま</rt></ruby>だけで<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>通訳案内士<rt>つうやくあんないし</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めてできました。２か<ruby>月<rt>げつ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>研修<rt>けんしゅう</rt></ruby></span>が<ruby>終<rt>お</rt></ruby>わって、<ruby>全部<rt>ぜんぶ</rt></ruby>で１０<ruby>人<rt>にん</rt></ruby>が<ruby>英語<rt>えいご</rt></ruby>や<ruby>中国語<rt>ちゅうごくご</rt></ruby>の<ruby>通訳案内士<rt>つうやくあんないし</rt></ruby>になりました。</p>\n\
+  <p><ruby>長野県<rt>ながのけん</rt></ruby>は、１<ruby>年<rt>ねん</rt></ruby>に２<ruby>万<rt>まん</rt></ruby>６０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>県<rt>けん</rt></ruby>にある<ruby>山<rt>やま</rt></ruby>に<ruby>来<rt>く</rt></ruby>ると<ruby>考<rt>かんが</rt></ruby>えています。<ruby>通訳案内士<rt>つうやくあんないし</rt></ruby>は、<ruby>外国人<rt>がいこくじん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>って、<ruby>山<rt>やま</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>自然<rt>しぜん</rt></ruby></span>などを<ruby>説明<rt>せつめい</rt></ruby>します。</p>\n\
+  <p><ruby>長野県<rt>ながのけん</rt></ruby>は、<ruby>案内<rt>あんない</rt></ruby>してほしいという<ruby>人<rt>ひと</rt></ruby>がたくさんいたら、<ruby>通訳案内士<rt>つうやくあんないし</rt></ruby>をもっと<span\
+  \ style=\"color: blue;\"><ruby>増<rt>ふ</rt></ruby>やす</span>ことも<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 合格
+  descriptions:
+  - <ruby><rb>学校</rb><rt>がっこう</rt></ruby>や<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>の<ruby><rb>試験</rb><rt>しけん</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>かること。パス。
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>などが<ruby><rb>決</rb><rt>き</rt></ruby>められたことがらに<ruby><rb>合</rb><rt>あ</rt></ruby>っていること。
+- word: 研修
+  descriptions:
+  - <ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>や<ruby><rb>知識</rb><rt>ちしき</rt></ruby>を<ruby><rb>高</rb><rt>たか</rt></ruby>めるために、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>や<ruby><rb>実習</rb><rt>じっしゅう</rt></ruby>をすること。
+- word: 自然
+  descriptions:
+  - <ruby><rb>山</rb><rt>やま</rt></ruby>・<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>草</rb><rt>くさ</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>・<ruby><rb>雲</rb><rt>くも</rt></ruby>・<ruby><rb>雨</rb><rt>あめ</rt></ruby>・<ruby><rb>雪</rb><rt>ゆき</rt></ruby>など、<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>作</rb><rt>つく</rt></ruby>ったものでない<ruby><rb>物</rb><rt>もの</rt></ruby>。
+  - もともとの<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>備</rb><rt>そな</rt></ruby>えていること。
+  - わざとらしくないようす。
+  - ひとりでに。いつのまにか。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+web_news_url: /news/web/2017/05/14/長野県-山の通訳案内士を養成-外国人登山者に対応/
+source_url: http://www3.nhk.or.jp/news/easy/k10010980631000/k10010980631000.html
+...
