@@ -1,0 +1,48 @@
+---
+layout: easy_news
+categories: easy
+title: 痴漢をしたと言われた男性が電車にぶつかって亡くなる
+title_with_ruby: <ruby>痴漢<rt>ちかん</rt></ruby>をしたと<ruby>言<rt>い</rt></ruby>われた<ruby>男性<rt>だんせい</rt></ruby>が<ruby>電車<rt>でんしゃ</rt></ruby>にぶつかって<ruby>亡<rt>な</rt></ruby>くなる
+last_modified_at: '2017-05-16T15:30:00+09:00'
+datetime: 2017年05月16日 15時30分
+description: １５日にちの夜よる、横浜市よこはましにある青葉台あおばだい駅えきで、男性だんせいが線路せんろに降おりて、電車でんしゃにぶつかって亡なくなりました。
+description_with_ruby: １５<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>横浜市<rt>よこはまし</rt></ruby>にある<ruby>青葉台<rt>あおばだい</rt></ruby><ruby>駅<rt>えき</rt></ruby>で、<ruby>男性<rt>だんせい</rt></ruby>が<ruby>線路<rt>せんろ</rt></ruby>に<ruby>降<rt>お</rt></ruby>りて、<ruby>電車<rt>でんしゃ</rt></ruby>にぶつかって<ruby>亡<rt>な</rt></ruby>くなりました。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/16/k10010982951000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/16/k10010982951000.mp3
+contents: "<p>１５<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>横浜市<rt>よこはまし</rt></ruby>にある<ruby>青葉台<rt>あおばだい</rt></ruby><ruby>駅<rt>えき</rt></ruby>で、<ruby>男性<rt>だんせい</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>線路<rt>せんろ</rt></ruby></span>に<ruby>降<rt>お</rt></ruby>りて、<ruby>電車<rt>でんしゃ</rt></ruby>に<span\
+  \ style=\"color: blue;\">ぶつかっ</span>て<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n<p><ruby>警察<rt>けいさつ</rt></ruby>によると、この<ruby>男性<rt>だんせい</rt></ruby>は<ruby>別<rt>べつ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>っていたとき、<ruby>女性<rt>じょせい</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>を<ruby>触<rt>さわ</rt></ruby>って<ruby>痴漢<rt>ちかん</rt></ruby>をしたと<ruby>言<rt>い</rt></ruby>われて<ruby>電車<rt>でんしゃ</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>降<rt>お</rt></ruby>ろさ</span>れました。そのあと<ruby>男性<rt>だんせい</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>線路<rt>せんろ</rt></ruby></span>に<span style=\"color:\
+  \ blue;\"><ruby>飛<rt>と</rt></ruby>び<ruby>降<rt>お</rt></ruby>り</span>ました。<ruby>警察<rt>けいさつ</rt></ruby>は、<ruby>男性<rt>だんせい</rt></ruby>が<ruby>逃<rt>に</rt></ruby>げようとして、<ruby>駅<rt>えき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってきた<ruby>電車<rt>でんしゃ</rt></ruby>と<span\
+  \ style=\"color: blue;\">ぶつかっ</span>たと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n<p><ruby>東京<rt>とうきょう</rt></ruby>では<ruby>最近<rt>さいきん</rt></ruby>、<ruby>痴漢<rt>ちかん</rt></ruby>をしたと<ruby>言<rt>い</rt></ruby>われた<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>線路<rt>せんろ</rt></ruby></span>に<ruby>降<rt>お</rt></ruby>りて<ruby>逃<rt>に</rt></ruby>げる<span\
+  \ style=\"color: blue;\"><ruby>事件<rt>じけん</rt></ruby></span>が<ruby>増<rt>ふ</rt></ruby>えています。<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は「<ruby>危険<rt>きけん</rt></ruby>なので、<ruby>決<rt>けっ</rt></ruby>して<span\
+  \ style=\"color: blue;\"><ruby>線路<rt>せんろ</rt></ruby></span>に<ruby>降<rt>お</rt></ruby>りないでください」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ぶつかる
+  descriptions:
+  - <ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。
+  - <ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。
+  - <ruby><rb>重</rb><rt>かさ</rt></ruby>なる。
+- word: 線路
+  descriptions:
+  - <ruby><rb>汽車</rb><rt>きしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道筋</rb><rt>みちすじ</rt></ruby>。レール。
+- word: 降ろす
+  descriptions:
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>から<ruby><rb>低</rb><rt>ひく</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>へ<ruby><rb>移</rb><rt>うつ</rt></ruby>す。
+  - <ruby><rb>下</rb><rt>した</rt></ruby>のほうに<ruby><rb>移</rb><rt>うつ</rt></ruby>す。
+  - <ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>から<ruby><rb>外</rb><rt>そと</rt></ruby>へ<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+  - <ruby><rb>役目</rb><rt>やくめ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をやめさせる。
+- word: 飛び降りる
+  descriptions:
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>から<ruby><rb>飛</rb><rt>と</rt></ruby>んで<ruby><rb>降</rb><rt>お</rt></ruby>りる。
+  - <ruby><rb>動</rb><rt>うご</rt></ruby>いているものから<ruby><rb>飛</rb><rt>と</rt></ruby>んで<ruby><rb>降</rb><rt>お</rt></ruby>りる。
+- word: 事件
+  descriptions:
+  - ふだんないような、できごと。
+web_news_url: /news/web/2017/05/15/痴漢疑われた男性-はねられ死亡-逃げようとしたか/
+source_url: http://www3.nhk.or.jp/news/easy/k10010982951000/k10010982951000.html
+...
