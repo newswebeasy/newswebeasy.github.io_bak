@@ -1,0 +1,67 @@
+---
+layout: easy_news
+categories: easy
+title: 京都で「葵祭」　平安時代の着物を着た人たちが町を歩く
+title_with_ruby: <ruby>京都<rt>きょうと</rt></ruby>で「<ruby>葵祭<rt>あおいまつり</rt></ruby>」　<ruby>平安時代<rt>へいあんじだい</rt></ruby>の<ruby>着物<rt>きもの</rt></ruby>を<ruby>着<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちが<ruby>町<rt>まち</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>く
+last_modified_at: '2017-05-16T15:30:00+09:00'
+datetime: 2017年05月16日 15時30分
+description: 京都きょうとで有名ゆうめいなお祭まつりの１つの「葵祭あおいまつり」が１５日にちにありました。
+description_with_ruby: <ruby>京都<rt>きょうと</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>なお<ruby>祭<rt>まつ</rt></ruby>りの１つの「<ruby>葵祭<rt>あおいまつり</rt></ruby>」が１５<ruby>日<rt>にち</rt></ruby>にありました。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/16/k10010981871000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/16/k10010981871000.mp3
+contents: "<p><ruby>京都<rt>きょうと</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>なお<ruby>祭<rt>まつ</rt></ruby>りの１つの「<ruby>葵祭<rt>あおいまつり</rt></ruby>」が１５<ruby>日<rt>にち</rt></ruby>にありました。このお<ruby>祭<rt>まつ</rt></ruby>りは１４００<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>天皇<rt>てんのう</rt></ruby></span>が<ruby>米<rt>こめ</rt></ruby>などがたくさん<span\
+  \ style=\"color: blue;\"><ruby>取<rt>と</rt></ruby>れる</span>ように<ruby>祈<rt>いの</rt></ruby>ったことから<ruby>始<rt>はじ</rt></ruby>まったと<ruby>言<rt>い</rt></ruby>われています。</p>\n\
+  <p>お<ruby>祭<rt>まつ</rt></ruby>りでは、<span style=\"color: blue;\"><ruby>平安時代<rt>へいあんじだい</rt></ruby></span>の<ruby>着物<rt>きもの</rt></ruby>を<ruby>着<rt>き</rt></ruby>て、<span\
+  \ style=\"color: blue;\"><ruby>葵<rt>あおい</rt></ruby></span>の<ruby>葉<rt>は</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>飾<rt>かざ</rt></ruby>り</span>を<span style=\"color:\
+  \ blue;\"><ruby>付<rt>つ</rt></ruby>け</span>た５００<ruby>人<rt>にん</rt></ruby>ぐらいが<span\
+  \ style=\"color: blue;\"><ruby>列<rt>れつ</rt></ruby></span>になって、<ruby>昔<rt>むかし</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>天皇<rt>てんのう</rt></ruby></span>が<ruby>住<rt>す</rt></ruby>んでいた<ruby>京都御所<rt>きょうとごしょ</rt></ruby>を<ruby>出発<rt>しゅっぱつ</rt></ruby>しました。そして、<ruby>下鴨神社<rt>しもがもじんじゃ</rt></ruby>と<ruby>上賀茂神社<rt>かみがもじんじゃ</rt></ruby>までの<ruby>道<rt>みち</rt></ruby>をゆっくり<ruby>歩<rt>ある</rt></ruby>きました。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby>は<ruby>道<rt>みち</rt></ruby>に５<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>ぐらいが<ruby>来<rt>き</rt></ruby>て、お<ruby>祭<rt>まつ</rt></ruby>りを<ruby>楽<rt>たの</rt></ruby>しんでいました。<ruby>滋賀県<rt>しがけん</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>女性<rt>じょせい</rt></ruby>は「<ruby>初<rt>はじ</rt></ruby>めて<ruby>見<rt>み</rt></ruby>て、とても<span\
+  \ style=\"color: blue;\"><ruby>感動<rt>かんどう</rt></ruby></span>しました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 平安時代
+  descriptions:
+  - ７９４<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>桓武天皇</rb><rt>かんむてんのう</rt></ruby>が<ruby><rb>今</rb><rt>いま</rt></ruby>の<ruby><rb>京都</rb><rt>きょうと</rt></ruby>に<ruby><rb>都</rb><rt>みやこ</rt></ruby>をうつしてから、<ruby><rb>鎌倉幕府</rb><rt>かまくらばくふ</rt></ruby>が<ruby><rb>開</rb><rt>ひら</rt></ruby>かれるまでの、<ruby><rb>約</rb><rt>やく</rt></ruby>４００<ruby><rb>年間</rb><rt>ねんかん</rt></ruby>。<ruby><rb>貴族</rb><rt>きぞく</rt></ruby>が<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>い、<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>栄</rb><rt>さか</rt></ruby>えた。
+- word: 天皇
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>象徴</rb><rt>しょうちょう</rt></ruby>としてあおがれている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 取れる
+  descriptions:
+  - はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。
+  - つかれなどが、なくなる。
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>ることができる。
+  - そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。
+  - <ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+- word: 葵
+  descriptions:
+  - <ruby><rb>暖</rb><rt>あたた</rt></ruby>かい<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>庭</rb><rt>にわ</rt></ruby>などに<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>草花</rb><rt>くさばな</rt></ruby>。タチアオイ・モミジアオイなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>赤</rb><rt>あか</rt></ruby>・ピンク・<ruby><rb>白</rb><rt>しろ</rt></ruby>などの<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。
+- word: 飾り
+  descriptions:
+  - <ruby><rb>飾</rb><rt>かざ</rt></ruby>ること。また、<ruby><rb>飾</rb><rt>かざ</rt></ruby>って<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>見</rb><rt>み</rt></ruby>せるもの。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+- word: 列
+  descriptions:
+  - <ruby><rb>長</rb><rt>なが</rt></ruby>く<ruby><rb>並</rb><rt>なら</rt></ruby>ぶ。<ruby><rb>並</rb><rt>なら</rt></ruby>んだもの。
+  - <ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>わる。
+- word: 感動
+  descriptions:
+  - あるものごとに、<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>動</rb><rt>うご</rt></ruby>かされること。
+web_news_url: /news/web/2017/05/15/京都で葵祭-新緑の都大路に平安装束の行列/
+source_url: http://www3.nhk.or.jp/news/easy/k10010981871000/k10010981871000.html
+...
