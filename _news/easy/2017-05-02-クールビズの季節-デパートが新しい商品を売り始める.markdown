@@ -7,8 +7,8 @@ last_modified_at: '2017-05-02T11:30:00+09:00'
 datetime: 2017年05月02日 11時30分
 description: 「クールビズ」は、暑あつい季節きせつに冷房れいぼうをあまり使つかわないように仕事しごとでも涼すずしい服ふくを着きたりすることで、今年ことしも５月がつ１日ついたちから始はじまりました。
 description_with_ruby: <p>「クールビズ」は、<ruby>暑<rt>あつ</rt></ruby>い<ruby>季節<rt>きせつ</rt></ruby>に<ruby>冷房<rt>れいぼう</rt></ruby>をあまり<ruby>使<rt>つか</rt></ruby>わないように<ruby>仕事<rt>しごと</rt></ruby>でも<ruby>涼<rt>すず</rt></ruby>しい<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>たりすることで、<ruby>今年<rt>ことし</rt></ruby>も５<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まりました。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/02/k10010966941000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/02/k10010966941000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/02/k10010966941000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/02/k10010966941000.mp3
 contents: "<p>「クールビズ」は、<ruby>暑<rt>あつ</rt></ruby>い<ruby>季節<rt>きせつ</rt></ruby>に<ruby>冷房<rt>れいぼう</rt></ruby>をあまり<ruby>使<rt>つか</rt></ruby>わないように<ruby>仕事<rt>しごと</rt></ruby>でも<ruby>涼<rt>すず</rt></ruby>しい<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>たりすることで、<ruby>今年<rt>ことし</rt></ruby>も５<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まりました。</p>\n\
   <p><ruby>上着<rt>うわぎ</rt></ruby>やネクタイをやめて、<ruby>涼<rt>すず</rt></ruby>しい<span style=\"\
   color: blue;\"><ruby>格好<rt>かっこう</rt></ruby></span>をする<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えるため、いろいろなデパートがクールビズの<ruby>売<rt>う</rt></ruby>り<ruby>場<rt>ば</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っています。</p>\n\

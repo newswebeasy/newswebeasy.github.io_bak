@@ -7,8 +7,8 @@ last_modified_at: '2017-05-10T16:05:00+09:00'
 datetime: 2017年05月10日 16時05分
 description: 福島県ふくしまけんいわき市しには、フラダンスのショーと温泉おんせんで有名ゆうめいなテーマパークがあります。
 description_with_ruby: <ruby>福島県<rt>ふくしまけん</rt></ruby>いわき<ruby>市<rt>し</rt></ruby>には、フラダンスのショーと<ruby>温泉<rt>おんせん</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>なテーマパークがあります。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/10/k10010973821000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/10/k10010973821000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/10/k10010973821000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/10/k10010973821000.mp3
 contents: "<p><ruby>福島県<rt>ふくしまけん</rt></ruby>いわき<ruby>市<rt>し</rt></ruby>には、<span style=\"\
   color: blue;\">フラダンス</span>の<span style=\"color: blue;\">ショー</span>と<span style=\"\
   color: blue;\"><ruby>温泉<rt>おんせん</rt></ruby></span>で<ruby>有名<rt>ゆうめい</rt></ruby>な<span\

@@ -7,8 +7,8 @@ last_modified_at: '2017-05-15T16:35:00+09:00'
 datetime: 2017年05月15日 16時35分
 description: 北海道ほっかいどうの釧路地方気象台くしろちほうきしょうだいは、毎年まいとし、釧路市くしろしにある公園こうえんの「エゾヤマザクラ」という桜さくらを調しらべて、花はなが咲さくとみんなに知しらせています。
 description_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>釧路地方気象台<rt>くしろちほうきしょうだい</rt></ruby>は、<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>釧路市<rt>くしろし</rt></ruby>にある<ruby>公園<rt>こうえん</rt></ruby>の「エゾヤマザクラ」という<ruby>桜<rt>さくら</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べて、<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>くとみんなに<ruby>知<rt>し</rt></ruby>らせています。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/15/k10010981731000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/15/k10010981731000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/15/k10010981731000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/15/k10010981731000.mp3
 contents: "<p><ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>釧路地方気象台<rt>くしろちほうきしょうだい</rt></ruby>は、<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>釧路市<rt>くしろし</rt></ruby>にある<ruby>公園<rt>こうえん</rt></ruby>の「エゾヤマザクラ」という<span\
   \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べて、<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>くとみんなに<ruby>知<rt>し</rt></ruby>らせています。</p>\n\
   <p><ruby>１４日<rt>じゅうよっか</rt></ruby>、この<span style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>に５つ<ruby>以上<rt>いじょう</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いていたため「<ruby>釧路市<rt>くしろし</rt></ruby>で<span\

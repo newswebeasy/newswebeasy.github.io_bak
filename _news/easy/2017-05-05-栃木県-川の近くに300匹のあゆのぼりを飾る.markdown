@@ -7,8 +7,8 @@ last_modified_at: '2017-05-05T10:35:00+09:00'
 datetime: 2017年05月05日 10時35分
 description: 日本にっぽんでは５月がつ５日いつかは子こどもの日ひで、男おとこの子こが元気げんきに育そだつように「こいのぼり」を飾かざっています。
 description_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>では５<ruby>月<rt>がつ</rt></ruby><ruby>５日<rt>いつか</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どもの<ruby>日<rt>ひ</rt></ruby>で、<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>が<ruby>元気<rt>げんき</rt></ruby>に<ruby>育<rt>そだ</rt></ruby>つように「こいのぼり」を<ruby>飾<rt>かざ</rt></ruby>っています。
-image_url: https://newswebeasy.github.io/ja/news/easy/image/2017/05/05/k10010960061000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/05/k10010960061000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/easy/image/2017/05/05/k10010960061000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/05/k10010960061000.mp3
 contents: "<p><ruby>日本<rt>にっぽん</rt></ruby>では５<ruby>月<rt>がつ</rt></ruby><ruby>５日<rt>いつか</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どもの<ruby>日<rt>ひ</rt></ruby>で、<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>が<ruby>元気<rt>げんき</rt></ruby>に<span\
   \ style=\"color: blue;\"><ruby>育<rt>そだ</rt></ruby>つ</span>ように「こいのぼり」を<ruby>飾<rt>かざ</rt></ruby>っています。こいのぼりは、<span\
   \ style=\"color: blue;\">こい</span>という<ruby>魚<rt>さかな</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>をしていて、<span\

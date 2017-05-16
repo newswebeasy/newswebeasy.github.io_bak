@@ -7,8 +7,8 @@ last_modified_at: '2017-05-15T16:35:00+09:00'
 datetime: 2017年05月15日 16時35分
 description: 先週せんしゅうの終おわりから世界中せかいじゅうで「サイバー攻撃こうげき」があって、コンピューターに被害ひがいがあった病院びょういんや会社かいしゃなどは仕事しごとができなくなって困こまっています。
 description_with_ruby: <ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりから<ruby>世界中<rt>せかいじゅう</rt></ruby>で「サイバー<ruby>攻撃<rt>こうげき</rt></ruby>」があって、コンピューターに<ruby>被害<rt>ひがい</rt></ruby>があった<ruby>病院<rt>びょういん</rt></ruby>や<ruby>会社<rt>かいしゃ</rt></ruby>などは<ruby>仕事<rt>しごと</rt></ruby>ができなくなって<ruby>困<rt>こま</rt></ruby>っています。
-image_url: https://newswebeasy.github.io/ja/news/easy/image/2017/05/15/k10010981601000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/15/k10010981601000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/easy/image/2017/05/15/k10010981601000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/15/k10010981601000.mp3
 contents: "<p><ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりから<ruby>世界中<rt>せかいじゅう</rt></ruby>で「サイバー<ruby>攻撃<rt>こうげき</rt></ruby>」があって、コンピューターに<span\
   \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>があった<ruby>病院<rt>びょういん</rt></ruby>や<ruby>会社<rt>かいしゃ</rt></ruby>などは<ruby>仕事<rt>しごと</rt></ruby>ができなくなって<ruby>困<rt>こま</rt></ruby>っています。</p>\n\
   <p>このサイバー<ruby>攻撃<rt>こうげき</rt></ruby>は、ほかのコンピューターに<span style=\"color: blue;\">ウイルス</span>を<ruby>入<rt>い</rt></ruby>れて<span\

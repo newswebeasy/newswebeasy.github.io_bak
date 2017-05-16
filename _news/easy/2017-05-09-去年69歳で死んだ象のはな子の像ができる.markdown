@@ -7,8 +7,8 @@ last_modified_at: '2017-05-09T11:30:00+09:00'
 datetime: 2017年05月09日 11時30分
 description: 東京都とうきょうと武蔵野市むさしのしの動物園どうぶつえんにいた雌めすの象ぞうの「はな子こ」は、去年きょねん５月がつに６９歳さいで死しにました。
 description_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby><ruby>武蔵野市<rt>むさしのし</rt></ruby>の<ruby>動物園<rt>どうぶつえん</rt></ruby>にいた<ruby>雌<rt>めす</rt></ruby>の<ruby>象<rt>ぞう</rt></ruby>の「はな<ruby>子<rt>こ</rt></ruby>」は、<ruby>去年<rt>きょねん</rt></ruby>５<ruby>月<rt>がつ</rt></ruby>に６９<ruby>歳<rt>さい</rt></ruby>で<ruby>死<rt>し</rt></ruby>にました。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/09/k10010971381000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/09/k10010971381000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/09/k10010971381000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/09/k10010971381000.mp3
 contents: "<p><ruby>東京都<rt>とうきょうと</rt></ruby><ruby>武蔵野市<rt>むさしのし</rt></ruby>の<ruby>動物園<rt>どうぶつえん</rt></ruby>にいた<span\
   \ style=\"color: blue;\"><ruby>雌<rt>めす</rt></ruby></span>の<span style=\"color: blue;\"\
   ><ruby>象<rt>ぞう</rt></ruby></span>の「はな<ruby>子<rt>こ</rt></ruby>」は、<ruby>去年<rt>きょねん</rt></ruby>５<ruby>月<rt>がつ</rt></ruby>に６９<ruby>歳<rt>さい</rt></ruby>で<ruby>死<rt>し</rt></ruby>にました。はな<ruby>子<rt>こ</rt></ruby>は、タイが<ruby>日本<rt>にっぽん</rt></ruby>にプレゼントした<span\

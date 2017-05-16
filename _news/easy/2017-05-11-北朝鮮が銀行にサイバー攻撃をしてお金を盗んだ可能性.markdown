@@ -7,8 +7,8 @@ last_modified_at: '2017-05-11T16:05:00+09:00'
 datetime: 2017年05月11日 16時05分
 description: 北朝鮮きたちょうせんが３０以上いじょうの国くにの銀行ぎんこうのコンピューターにサイバー攻撃こうげきをして、お金かねを盗ぬすんだ可能性かのうせいが高たかいことがわかりました。
 description_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が３０<ruby>以上<rt>いじょう</rt></ruby>の<ruby>国<rt>くに</rt></ruby>の<ruby>銀行<rt>ぎんこう</rt></ruby>のコンピューターにサイバー<ruby>攻撃<rt>こうげき</rt></ruby>をして、お<ruby>金<rt>かね</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>んだ<ruby>可能性<rt>かのうせい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いことがわかりました。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/11/k10010977141000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/11/k10010977141000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/11/k10010977141000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/11/k10010977141000.mp3
 contents: "<p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が３０<ruby>以上<rt>いじょう</rt></ruby>の<ruby>国<rt>くに</rt></ruby>の<ruby>銀行<rt>ぎんこう</rt></ruby>のコンピューターにサイバー<ruby>攻撃<rt>こうげき</rt></ruby>をして、お<ruby>金<rt>かね</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>んだ<span\
   \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>いことがわかりました。コンピューターの<ruby>安全<rt>あんぜん</rt></ruby>を<span\
   \ style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>る</span><ruby>仕事<rt>しごと</rt></ruby>をしているアメリカやロシアの<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べてわかりました。</p>\n\

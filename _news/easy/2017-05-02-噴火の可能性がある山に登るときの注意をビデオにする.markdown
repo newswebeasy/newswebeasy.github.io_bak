@@ -10,8 +10,8 @@ description_with_ruby: <p><ruby>日本<rt>にっぽん</rt></ruby>には<a href=
   class='dicWin' id='id-0000'><ruby>噴火<rt>ふんか</rt></ruby></a>する<a href='javascript:void(0)'
   class='dicWin' id='id-0001'><ruby>可能性<rt>かのうせい</rt></ruby></a>がある<a href='javascript:void(0)'
   class='dicWin' id='id-0003'><ruby>火山<rt>かざん</rt></ruby></a>が１００<ruby>以上<rt>いじょう</rt></ruby>あります。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/02/k10010967481000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/02/k10010967481000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/02/k10010967481000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/02/k10010967481000.mp3
 contents: "<p><ruby>日本<rt>にっぽん</rt></ruby>には<span style=\"color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>する<span\
   \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>がある<span style=\"\
   color: blue;\"><ruby>火山<rt>かざん</rt></ruby></span>が１００<ruby>以上<rt>いじょう</rt></ruby>あります。</p>\n\

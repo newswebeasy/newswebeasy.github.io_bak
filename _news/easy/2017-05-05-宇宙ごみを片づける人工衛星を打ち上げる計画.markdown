@@ -7,8 +7,8 @@ last_modified_at: '2017-05-05T10:35:00+09:00'
 datetime: 2017年05月05日 10時35分
 description: 宇宙うちゅうには、使つかい終おわった人工衛星じんこうえいせいの一部いちぶなどの「宇宙うちゅうごみ」がたくさん残のこっていて問題もんだいになっています。
 description_with_ruby: <ruby>宇宙<rt>うちゅう</rt></ruby>には、<ruby>使<rt>つか</rt></ruby>い<ruby>終<rt>お</rt></ruby>わった<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>などの「<ruby>宇宙<rt>うちゅう</rt></ruby>ごみ」がたくさん<ruby>残<rt>のこ</rt></ruby>っていて<ruby>問題<rt>もんだい</rt></ruby>になっています。
-image_url: https://newswebeasy.github.io/ja/news/easy/image/2017/05/05/k10010964381000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/05/k10010964381000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/easy/image/2017/05/05/k10010964381000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/05/k10010964381000.mp3
 contents: "<p><span style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>には、<ruby>使<rt>つか</rt></ruby>い<ruby>終<rt>お</rt></ruby>わった<span\
   \ style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>の<span style=\"\
   color: blue;\"><ruby>一部<rt>いちぶ</rt></ruby></span>などの「<ruby>宇宙<rt>うちゅう</rt></ruby>ごみ」がたくさん<ruby>残<rt>のこ</rt></ruby>っていて<ruby>問題<rt>もんだい</rt></ruby>になっています。</p>\n\

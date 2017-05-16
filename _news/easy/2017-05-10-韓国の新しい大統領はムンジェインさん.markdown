@@ -7,8 +7,8 @@ last_modified_at: '2017-05-10T16:05:00+09:00'
 datetime: 2017年05月10日 16時05分
 description: 韓国かんこくでは、前まえの大統領だいとうりょうのパク・クネさんが大おおきな会社かいしゃからお金かねをもらった疑うたがいなどでやめさせられました。
 description_with_ruby: <ruby>韓国<rt>かんこく</rt></ruby>では、<ruby>前<rt>まえ</rt></ruby>の<ruby>大統領<rt>だいとうりょう</rt></ruby>のパク・クネさんが<ruby>大<rt>おお</rt></ruby>きな<ruby>会社<rt>かいしゃ</rt></ruby>からお<ruby>金<rt>かね</rt></ruby>をもらった<ruby>疑<rt>うたが</rt></ruby>いなどでやめさせられました。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/10/k10010975861000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/10/k10010975861000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/10/k10010975861000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/10/k10010975861000.mp3
 contents: "<p><ruby>韓国<rt>かんこく</rt></ruby>では、<ruby>前<rt>まえ</rt></ruby>の<span style=\"\
   color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>のパク・クネさんが<ruby>大<rt>おお</rt></ruby>きな<ruby>会社<rt>かいしゃ</rt></ruby>からお<ruby>金<rt>かね</rt></ruby>をもらった<span\
   \ style=\"color: blue;\"><ruby>疑<rt>うたが</rt></ruby>い</span>などでやめさせられました。<ruby>９日<rt>ここのか</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しい<span\

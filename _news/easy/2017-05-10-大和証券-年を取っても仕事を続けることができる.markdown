@@ -7,8 +7,8 @@ last_modified_at: '2017-05-10T11:30:00+09:00'
 datetime: 2017年05月10日 11時30分
 description: 証券しょうけん会社がいしゃの大和証券だいわしょうけんグループ本社ほんしゃは、６０歳さいが定年ていねんになっています。
 description_with_ruby: <ruby>証券<rt>しょうけん</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>の<ruby>大和証券<rt>だいわしょうけん</rt></ruby>グループ<ruby>本社<rt>ほんしゃ</rt></ruby>は、６０<ruby>歳<rt>さい</rt></ruby>が<ruby>定年<rt>ていねん</rt></ruby>になっています。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/10/k10010974311000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/10/k10010974311000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/10/k10010974311000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/10/k10010974311000.mp3
 contents: "<p><span style=\"color: blue;\"><ruby>証券<rt>しょうけん</rt></ruby></span><ruby>会社<rt>がいしゃ</rt></ruby>の<ruby>大和証券<rt>だいわしょうけん</rt></ruby>グループ<ruby>本社<rt>ほんしゃ</rt></ruby>は、６０<ruby>歳<rt>さい</rt></ruby>が<span\
   \ style=\"color: blue;\"><ruby>定年<rt>ていねん</rt></ruby></span>になっています。<ruby>客<rt>きゃく</rt></ruby>の<span\
   \ style=\"color: blue;\"><ruby>注文<rt>ちゅうもん</rt></ruby></span>で<span style=\"color:\

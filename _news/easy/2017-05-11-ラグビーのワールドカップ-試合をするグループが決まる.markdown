@@ -7,8 +7,8 @@ last_modified_at: '2017-05-11T16:05:00+09:00'
 datetime: 2017年05月11日 16時05分
 description: ２０１９年ねんにラグビーのワールドカップが初はじめて日本にっぽんであります。
 description_with_ruby: ２０１９<ruby>年<rt>ねん</rt></ruby>にラグビーのワールドカップが<ruby>初<rt>はじ</rt></ruby>めて<ruby>日本<rt>にっぽん</rt></ruby>であります。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/11/k10010976661000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/11/k10010976661000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/11/k10010976661000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/11/k10010976661000.mp3
 contents: "<p>２０１９<ruby>年<rt>ねん</rt></ruby>に<span style=\"color: blue;\">ラグビー</span>の<span\
   \ style=\"color: blue;\">ワールドカップ</span>が<ruby>初<rt>はじ</rt></ruby>めて<ruby>日本<rt>にっぽん</rt></ruby>であります。<ruby>北海道<rt>ほっかいどう</rt></ruby>から<ruby>九州<rt>きゅうしゅう</rt></ruby>まで１２の<span\
   \ style=\"color: blue;\"><ruby>都市<rt>とし</rt></ruby></span>で４８の<ruby>試合<rt>しあい</rt></ruby>をします。</p>\n\

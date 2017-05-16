@@ -7,8 +7,8 @@ last_modified_at: '2017-05-08T16:15:00+09:00'
 datetime: 2017年05月08日 16時15分
 description: 第２次世界大戦だいにじせかいたいせんのとき、ドイツのナチスは、オーストリアにあったマウトハウゼン強制収容所きょうせいしゅうようじょでユダヤ人じんなど１０万まん人にん以上いじょうを殺ころしました。
 description_with_ruby: <ruby>第２次世界大戦<rt>だいにじせかいたいせん</rt></ruby>のとき、ドイツのナチスは、オーストリアにあったマウトハウゼン<ruby>強制収容所<rt>きょうせいしゅうようじょ</rt></ruby>でユダヤ<ruby>人<rt>じん</rt></ruby>など１０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<ruby>殺<rt>ころ</rt></ruby>しました。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/08/k10010973171000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/08/k10010973171000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/08/k10010973171000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/08/k10010973171000.mp3
 contents: "<p><span style=\"color: blue;\"><ruby>第２次世界大戦<rt>だいにじせかいたいせん</rt></ruby></span>のとき、ドイツの<span\
   \ style=\"color: blue;\">ナチス</span>は、オーストリアにあったマウトハウゼン<ruby>強制収容所<rt>きょうせいしゅうようじょ</rt></ruby>でユダヤ<ruby>人<rt>じん</rt></ruby>など１０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<span\
   \ style=\"color: blue;\"><ruby>殺<rt>ころ</rt></ruby>し</span>ました。ドイツが<ruby>戦争<rt>せんそう</rt></ruby>に<ruby>負<rt>ま</rt></ruby>けて、１９４５<ruby>年<rt>ねん</rt></ruby>５<ruby>月<rt>がつ</rt></ruby>に<ruby>中<rt>なか</rt></ruby>にいた<ruby>人<rt>ひと</rt></ruby>たちは<ruby>自由<rt>じゆう</rt></ruby>になりました。</p>\n\

@@ -7,8 +7,8 @@ last_modified_at: '2017-05-12T15:15:00+09:00'
 datetime: 2017年05月12日 15時15分
 description: ２０２０年ねんに東京とうきょうでパラリンピックがあります。
 description_with_ruby: ２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>でパラリンピックがあります。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/12/k10010978261000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/12/k10010978261000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/12/k10010978261000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/12/k10010978261000.mp3
 contents: "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<span style=\"\
   color: blue;\">パラリンピック</span>があります。<ruby>国際<rt>こくさい</rt></ruby>パラリンピック<ruby>委員会<rt>いいんかい</rt></ruby>の<span\
   \ style=\"color: blue;\"><ruby>責任者<rt>せきにんしゃ</rt></ruby></span>のハビエル・ゴンザレスさんは、<span\

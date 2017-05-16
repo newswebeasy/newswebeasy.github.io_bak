@@ -7,8 +7,8 @@ last_modified_at: '2017-05-11T16:05:00+09:00'
 datetime: 2017年05月11日 16時05分
 description: アメリカのトランプ大統領だいとうりょうは９日ここのか、ＦＢＩの長官ちょうかんのコミーさんをやめさせました。
 description_with_ruby: アメリカのトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>は<ruby>９日<rt>ここのか</rt></ruby>、ＦＢＩの<ruby>長官<rt>ちょうかん</rt></ruby>のコミーさんをやめさせました。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/11/k10010977221000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/11/k10010977221000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/11/k10010977221000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/11/k10010977221000.mp3
 contents: "<p>アメリカのトランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は<ruby>９日<rt>ここのか</rt></ruby>、ＦＢＩの<span\
   \ style=\"color: blue;\"><ruby>長官<rt>ちょうかん</rt></ruby></span>のコミーさんを<span style=\"\
   color: blue;\">やめ</span>させました。そして、<span style=\"color: blue;\">やめ</span>させた<ruby>理由<rt>りゆう</rt></ruby>は「いい<ruby>仕事<rt>しごと</rt></ruby>をしていなかったからです」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\

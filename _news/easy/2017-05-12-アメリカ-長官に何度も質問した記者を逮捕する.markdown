@@ -7,8 +7,8 @@ last_modified_at: '2017-05-12T15:15:00+09:00'
 datetime: 2017年05月12日 15時15分
 description: ９日ここのか、アメリカのウェストバージニア州しゅうに来きたプライス厚生こうせい長官ちょうかんに、男性だんせいの記者きしゃが医療いりょう保険ほけんについて質問しつもんしました。
 description_with_ruby: <ruby>９日<rt>ここのか</rt></ruby>、アメリカのウェストバージニア<ruby>州<rt>しゅう</rt></ruby>に<ruby>来<rt>き</rt></ruby>たプライス<ruby>厚生<rt>こうせい</rt></ruby><ruby>長官<rt>ちょうかん</rt></ruby>に、<ruby>男性<rt>だんせい</rt></ruby>の<ruby>記者<rt>きしゃ</rt></ruby>が<ruby>医療<rt>いりょう</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>について<ruby>質問<rt>しつもん</rt></ruby>しました。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/12/k10010978641000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/12/k10010978641000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/12/k10010978641000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/12/k10010978641000.mp3
 contents: "<p><ruby>９日<rt>ここのか</rt></ruby>、アメリカのウェストバージニア<ruby>州<rt>しゅう</rt></ruby>に<ruby>来<rt>き</rt></ruby>たプライス<ruby>厚生<rt>こうせい</rt></ruby><span\
   \ style=\"color: blue;\"><ruby>長官<rt>ちょうかん</rt></ruby></span>に、<ruby>男性<rt>だんせい</rt></ruby>の<span\
   \ style=\"color: blue;\"><ruby>記者<rt>きしゃ</rt></ruby></span>が<span style=\"color:\

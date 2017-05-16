@@ -7,8 +7,8 @@ last_modified_at: '2017-05-09T15:45:00+09:00'
 datetime: 2017年05月09日 15時45分
 description: 北朝鮮きたちょうせんは、ピョンヤン科学技術大学かがくぎじゅつだいがくで働はたらいているアメリカ人じんを５月がつ６日むいかに捕つかまえたと発表はっぴょうしました。
 description_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は、ピョンヤン<ruby>科学技術大学<rt>かがくぎじゅつだいがく</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いているアメリカ<ruby>人<rt>じん</rt></ruby>を５<ruby>月<rt>がつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>に<ruby>捕<rt>つか</rt></ruby>まえたと<ruby>発表<rt>はっぴょう</rt></ruby>しました。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/09/k10010974491000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/09/k10010974491000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/09/k10010974491000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/09/k10010974491000.mp3
 contents: "<p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は、ピョンヤン<ruby>科学技術大学<rt>かがくぎじゅつだいがく</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いているアメリカ<ruby>人<rt>じん</rt></ruby>を５<ruby>月<rt>がつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>に<ruby>捕<rt>つか</rt></ruby>まえたと<span\
   \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は、このアメリカ<ruby>人<rt>じん</rt></ruby>が<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>に<ruby>反対<rt>はんたい</rt></ruby>することをした<span\
   \ style=\"color: blue;\"><ruby>疑<rt>うたが</rt></ruby>い</span>があると<ruby>言<rt>い</rt></ruby>っています。</p>\n\

@@ -7,8 +7,8 @@ last_modified_at: '2017-05-12T11:30:00+09:00'
 datetime: 2017年05月12日 11時30分
 description: １０日とおかの朝あさ、宮城県みやぎけんの気仙沼けせんぬま港こうに約やく８ｔのかつおを取とった青森県あおもりけんの船ふねが入はいってきました。
 description_with_ruby: <ruby>１０日<rt>とおか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>宮城県<rt>みやぎけん</rt></ruby>の<ruby>気仙沼<rt>けせんぬま</rt></ruby><ruby>港<rt>こう</rt></ruby>に<ruby>約<rt>やく</rt></ruby>８ｔのかつおを<ruby>取<rt>と</rt></ruby>った<ruby>青森県<rt>あおもりけん</rt></ruby>の<ruby>船<rt>ふね</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってきました。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/12/k10010976051000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/12/k10010976051000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/12/k10010976051000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/12/k10010976051000.mp3
 contents: "<p><ruby>１０日<rt>とおか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>宮城県<rt>みやぎけん</rt></ruby>の<ruby>気仙沼<rt>けせんぬま</rt></ruby><ruby>港<rt>こう</rt></ruby>に<span\
   \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>８<span style=\"color: blue;\"\
   >ｔ</span>の<span style=\"color: blue;\">かつお</span>を<ruby>取<rt>と</rt></ruby>った<ruby>青森県<rt>あおもりけん</rt></ruby>の<ruby>船<rt>ふね</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってきました。<ruby>今年<rt>ことし</rt></ruby>はいつもの<ruby>年<rt>とし</rt></ruby>より２<ruby>週間<rt>しゅうかん</rt></ruby>ぐらい<ruby>早<rt>はや</rt></ruby>く<span\

@@ -7,8 +7,8 @@ last_modified_at: '2017-05-02T15:35:00+09:00'
 datetime: 2017年05月02日 15時35分
 description: 日本にっぽんの政府せいふは、日本にっぽんの文化ぶんかや、領土りょうどと歴史れきしなどについて外国がいこくに伝つたえる「ジャパン・ハウス」をブラジルのサンパウロに作つくりました。
 description_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>政府<rt>せいふ</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や、<ruby>領土<rt>りょうど</rt></ruby>と<ruby>歴史<rt>れきし</rt></ruby>などについて<ruby>外国<rt>がいこく</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>える「ジャパン・ハウス」をブラジルのサンパウロに<ruby>作<rt>つく</rt></ruby>りました。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/02/k10010967581000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/02/k10010967581000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/02/k10010967581000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/02/k10010967581000.mp3
 contents: "<p><ruby>日本<rt>にっぽん</rt></ruby>の<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や、<span\
   \ style=\"color: blue;\"><ruby>領土<rt>りょうど</rt></ruby></span>と<ruby>歴史<rt>れきし</rt></ruby>などについて<ruby>外国<rt>がいこく</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>える「ジャパン・ハウス」をブラジルのサンパウロに<ruby>作<rt>つく</rt></ruby>りました。</p>\n\
   <p>４<ruby>月<rt>がつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>、ジャパン・ハウスができたお<ruby>祝<rt>いわ</rt></ruby>いの<ruby>式<rt>しき</rt></ruby>がありました。<ruby>式<rt>しき</rt></ruby>には、<ruby>麻生<rt>あそう</rt></ruby><span\

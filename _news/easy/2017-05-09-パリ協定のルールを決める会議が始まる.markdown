@@ -7,8 +7,8 @@ last_modified_at: '2017-05-09T15:45:00+09:00'
 datetime: 2017年05月09日 15時45分
 description: 地球ちきゅうの気温きおんが上あがる原因げんいんになるガスを出ださないようにするために国連こくれんで決きめた「パリ協定きょうてい」は、去年きょねん１１月がつに始はじまりました。
 description_with_ruby: <ruby>地球<rt>ちきゅう</rt></ruby>の<ruby>気温<rt>きおん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がる<ruby>原因<rt>げんいん</rt></ruby>になるガスを<ruby>出<rt>だ</rt></ruby>さないようにするために<ruby>国連<rt>こくれん</rt></ruby>で<ruby>決<rt>き</rt></ruby>めた「パリ<ruby>協定<rt>きょうてい</rt></ruby>」は、<ruby>去年<rt>きょねん</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まりました。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/09/k10010974381000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/09/k10010974381000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/09/k10010974381000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/09/k10010974381000.mp3
 contents: "<p><span style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>の<span\
   \ style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>上<rt>あ</rt></ruby>がる<ruby>原因<rt>げんいん</rt></ruby>になるガスを<ruby>出<rt>だ</rt></ruby>さないようにするために<span\
   \ style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>で<ruby>決<rt>き</rt></ruby>めた「パリ<ruby>協定<rt>きょうてい</rt></ruby>」は、<ruby>去年<rt>きょねん</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まりました。</p>\n\

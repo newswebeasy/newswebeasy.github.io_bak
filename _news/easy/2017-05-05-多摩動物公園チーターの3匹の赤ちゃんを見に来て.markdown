@@ -7,8 +7,8 @@ last_modified_at: '2017-05-05T10:35:00+09:00'
 datetime: 2017年05月05日 10時35分
 description: 東京都とうきょうとの多摩動物公園たまどうぶつこうえんで、２月がつにチーターの赤あかちゃんが同おなじお母かあさんから３匹びき生うまれました。
 description_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>多摩動物公園<rt>たまどうぶつこうえん</rt></ruby>で、２<ruby>月<rt>がつ</rt></ruby>にチーターの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>同<rt>おな</rt></ruby>じお<ruby>母<rt>かあ</rt></ruby>さんから３<ruby>匹<rt>びき</rt></ruby><ruby>生<rt>う</rt></ruby>まれました。
-image_url: https://newswebeasy.github.io/ja/news/easy/image/2017/05/05/k10010959041000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/05/k10010959041000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/easy/image/2017/05/05/k10010959041000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/05/k10010959041000.mp3
 contents: "<p><ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>多摩動物公園<rt>たまどうぶつこうえん</rt></ruby>で、２<ruby>月<rt>がつ</rt></ruby>に<span\
   \ style=\"color: blue;\">チーター</span>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>同<rt>おな</rt></ruby>じお<ruby>母<rt>かあ</rt></ruby>さんから３<ruby>匹<rt>びき</rt></ruby><ruby>生<rt>う</rt></ruby>まれました。<span\
   \ style=\"color: blue;\"><ruby>雄<rt>おす</rt></ruby></span>が２<ruby>匹<rt>ひき</rt></ruby>で、<span\

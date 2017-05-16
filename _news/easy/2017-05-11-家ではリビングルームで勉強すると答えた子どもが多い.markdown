@@ -7,8 +7,8 @@ last_modified_at: '2017-05-11T11:30:00+09:00'
 datetime: 2017年05月11日 11時30分
 description: 東京大学とうきょうだいがくとベネッセ教育総合研究所きょういくそうごうけんきゅうしょは去年きょねん、子こどもたちが学校がっこうや塾じゅく以外いがいでどこでよく勉強べんきょうするか調しらべました。
 description_with_ruby: <ruby>東京大学<rt>とうきょうだいがく</rt></ruby>とベネッセ<ruby>教育総合研究所<rt>きょういくそうごうけんきゅうしょ</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>、<ruby>子<rt>こ</rt></ruby>どもたちが<ruby>学校<rt>がっこう</rt></ruby>や<ruby>塾<rt>じゅく</rt></ruby><ruby>以外<rt>いがい</rt></ruby>でどこでよく<ruby>勉強<rt>べんきょう</rt></ruby>するか<ruby>調<rt>しら</rt></ruby>べました。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/11/k10010975761000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/11/k10010975761000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/11/k10010975761000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/11/k10010975761000.mp3
 contents: "<p><ruby>東京大学<rt>とうきょうだいがく</rt></ruby>とベネッセ<ruby>教育総合研究所<rt>きょういくそうごうけんきゅうしょ</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>、<ruby>子<rt>こ</rt></ruby>どもたちが<ruby>学校<rt>がっこう</rt></ruby>や<span\
   \ style=\"color: blue;\"><ruby>塾<rt>じゅく</rt></ruby></span><ruby>以外<rt>いがい</rt></ruby>でどこでよく<ruby>勉強<rt>べんきょう</rt></ruby>するか<ruby>調<rt>しら</rt></ruby>べました。<ruby>小学校<rt>しょうがっこう</rt></ruby>１<ruby>年生<rt>ねんせい</rt></ruby>〜３<ruby>年生<rt>ねんせい</rt></ruby>の４９００<ruby>人<rt>にん</rt></ruby>の<span\
   \ style=\"color: blue;\"><ruby>親<rt>おや</rt></ruby></span>などと、<ruby>小学校<rt>しょうがっこう</rt></ruby>４<ruby>年生<rt>ねんせい</rt></ruby>〜<ruby>高校<rt>こうこう</rt></ruby>３<ruby>年生<rt>ねんせい</rt></ruby>の１<ruby>万<rt>まん</rt></ruby>１０００<ruby>人<rt>にん</rt></ruby>が<ruby>答<rt>こた</rt></ruby>えました。</p>\n\

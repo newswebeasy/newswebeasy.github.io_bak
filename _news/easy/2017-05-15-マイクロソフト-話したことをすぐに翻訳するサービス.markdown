@@ -7,8 +7,8 @@ last_modified_at: '2017-05-15T11:30:00+09:00'
 datetime: 2017年05月15日 11時30分
 description: アメリカの会社かいしゃのマイクロソフトは、コンピューターが自分じぶんで考かんがえる「人工知能じんこうちのう」という技術ぎじゅつを使つかった新あたらしいサービスを作つくりました。
 description_with_ruby: アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>のマイクロソフトは、コンピューターが<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>える「<ruby>人工知能<rt>じんこうちのう</rt></ruby>」という<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>新<rt>あたら</rt></ruby>しいサービスを<ruby>作<rt>つく</rt></ruby>りました。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/15/k10010977341000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/15/k10010977341000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/15/k10010977341000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/15/k10010977341000.mp3
 contents: "<p>アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>のマイクロソフトは、コンピューターが<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>える「<ruby>人工知能<rt>じんこうちのう</rt></ruby>」という<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>新<rt>あたら</rt></ruby>しい<span\
   \ style=\"color: blue;\">サービス</span>を<ruby>作<rt>つく</rt></ruby>りました。<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>いた<span\
   \ style=\"color: blue;\">イベント</span>で<span style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n\

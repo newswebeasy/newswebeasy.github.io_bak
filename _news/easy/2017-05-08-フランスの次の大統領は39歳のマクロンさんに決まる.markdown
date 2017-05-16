@@ -7,8 +7,8 @@ last_modified_at: '2017-05-08T16:15:00+09:00'
 datetime: 2017年05月08日 16時15分
 description: ７日なのか、フランスの次つぎの大統領だいとうりょうを選えらぶ選挙せんきょがありました。
 description_with_ruby: <ruby>７日<rt>なのか</rt></ruby>、フランスの<ruby>次<rt>つぎ</rt></ruby>の<ruby>大統領<rt>だいとうりょう</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ<ruby>選挙<rt>せんきょ</rt></ruby>がありました。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/08/k10010973131000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/08/k10010973131000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/08/k10010973131000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/08/k10010973131000.mp3
 contents: "<p><ruby>７日<rt>なのか</rt></ruby>、フランスの<ruby>次<rt>つぎ</rt></ruby>の<span style=\"\
   color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>を<ruby>選<rt>えら</rt></ruby>ぶ<span\
   \ style=\"color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>がありました。４<ruby>月<rt>がつ</rt></ruby>の<span\

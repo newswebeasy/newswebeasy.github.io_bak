@@ -7,8 +7,8 @@ last_modified_at: '2017-05-12T11:30:00+09:00'
 datetime: 2017年05月12日 11時30分
 description: 国くには、北朝鮮きたちょうせんのミサイルが日本にっぽんに飛とんでくる可能性かのうせいがある場合ばあい「Ｊアラート」というシステムで、みんなにすぐに危険きけんを知しらせることにしています。
 description_with_ruby: <ruby>国<rt>くに</rt></ruby>は、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のミサイルが<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>飛<rt>と</rt></ruby>んでくる<ruby>可能性<rt>かのうせい</rt></ruby>がある<ruby>場合<rt>ばあい</rt></ruby>「Ｊアラート」というシステムで、みんなにすぐに<ruby>危険<rt>きけん</rt></ruby>を<ruby>知<rt>し</rt></ruby>らせることにしています。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/12/k10010976971000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/12/k10010976971000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/12/k10010976971000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/12/k10010976971000.mp3
 contents: "<p><ruby>国<rt>くに</rt></ruby>は、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<span style=\"\
   color: blue;\">ミサイル</span>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>飛<rt>と</rt></ruby>んでくる<span\
   \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>がある<ruby>場合<rt>ばあい</rt></ruby>「Ｊアラート」という<span\

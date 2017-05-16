@@ -7,8 +7,8 @@ last_modified_at: '2017-05-05T10:35:00+09:00'
 datetime: 2017年05月05日 10時35分
 description: アメリカのキティホークという会社かいしゃが、ドローンのように「空そらを飛とぶ乗のり物もの」をつくりました。
 description_with_ruby: アメリカのキティホークという<ruby>会社<rt>かいしゃ</rt></ruby>が、ドローンのように「<ruby>空<rt>そら</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ぶ<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>」をつくりました。
-image_url: https://newswebeasy.github.io/ja/news/easy/image/2017/05/05/k10010960241000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/05/k10010960241000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/easy/image/2017/05/05/k10010960241000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/05/k10010960241000.mp3
 contents: "<p>アメリカのキティホークという<ruby>会社<rt>かいしゃ</rt></ruby>が、ドローンのように「<ruby>空<rt>そら</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ぶ<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>」をつくりました。</p>\n\
   <p>この<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>はオートバイのような<ruby>形<rt>かたち</rt></ruby>をしています。<ruby>下<rt>した</rt></ruby>には８つの<span\
   \ style=\"color: blue;\">プロペラ</span>が<span style=\"color: blue;\">つい</span>ていて、<ruby>高<rt>たか</rt></ruby>さ５ｍぐらいまで<ruby>上<rt>あ</rt></ruby>がって<ruby>飛<rt>と</rt></ruby>びます。<ruby>重<rt>おも</rt></ruby>さは<span\

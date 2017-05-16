@@ -7,8 +7,8 @@ last_modified_at: '2017-05-12T15:15:00+09:00'
 datetime: 2017年05月12日 15時15分
 description: 模型もけいを作つくっている会社かいしゃが新あたらしい商品しょうひんを紹介しょうかいする「静岡しずおかホビーショー」が１１日にちから静岡市しずおかしで始はじまりました。
 description_with_ruby: <ruby>模型<rt>もけい</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っている<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する「<ruby>静岡<rt>しずおか</rt></ruby>ホビーショー」が１１<ruby>日<rt>にち</rt></ruby>から<ruby>静岡市<rt>しずおかし</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まりました。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/12/k10010977661000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/12/k10010977661000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/12/k10010977661000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/12/k10010977661000.mp3
 contents: "<p><span style=\"color: blue;\"><ruby>模型<rt>もけい</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>っている<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<span\
   \ style=\"color: blue;\"><ruby>商品<rt>しょうひん</rt></ruby></span>を<ruby>紹介<rt>しょうかい</rt></ruby>する「<ruby>静岡<rt>しずおか</rt></ruby>ホビーショー」が１１<ruby>日<rt>にち</rt></ruby>から<ruby>静岡市<rt>しずおかし</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>日本<rt>にっぽん</rt></ruby>の７８の<ruby>会社<rt>かいしゃ</rt></ruby>が、<ruby>自動車<rt>じどうしゃ</rt></ruby>や<ruby>電車<rt>でんしゃ</rt></ruby>などの<span\
   \ style=\"color: blue;\"><ruby>模型<rt>もけい</rt></ruby></span>を<ruby>紹介<rt>しょうかい</rt></ruby>しています。</p>\n\

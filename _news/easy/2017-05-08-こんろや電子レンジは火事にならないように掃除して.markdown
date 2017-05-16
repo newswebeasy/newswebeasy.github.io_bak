@@ -7,8 +7,8 @@ last_modified_at: '2017-05-08T11:30:00+09:00'
 datetime: 2017年05月08日 11時30分
 description: 製品せいひんの安全あんぜんなどを調しらべているＮＩＴＥによると、去年きょねん３月がつまでの５年ねんに、家いえのこんろや電子でんしレンジなどの事故じこが９８９件けんありました。
 description_with_ruby: <ruby>製品<rt>せいひん</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>などを<ruby>調<rt>しら</rt></ruby>べているＮＩＴＥによると、<ruby>去年<rt>きょねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>までの５<ruby>年<rt>ねん</rt></ruby>に、<ruby>家<rt>いえ</rt></ruby>のこんろや<ruby>電子<rt>でんし</rt></ruby>レンジなどの<ruby>事故<rt>じこ</rt></ruby>が９８９<ruby>件<rt>けん</rt></ruby>ありました。
-image_url: https://newswebeasy.github.io/ja/news/easy/image/2017/05/08/k10010967861000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/08/k10010967861000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/easy/image/2017/05/08/k10010967861000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/08/k10010967861000.mp3
 contents: "<p><span style=\"color: blue;\"><ruby>製品<rt>せいひん</rt></ruby></span>の<ruby>安全<rt>あんぜん</rt></ruby>などを<ruby>調<rt>しら</rt></ruby>べているＮＩＴＥによると、<ruby>去年<rt>きょねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>までの５<ruby>年<rt>ねん</rt></ruby>に、<ruby>家<rt>いえ</rt></ruby>の<span\
   \ style=\"color: blue;\">こんろ</span>や<span style=\"color: blue;\"><ruby>電子<rt>でんし</rt></ruby>レンジ</span>などの<ruby>事故<rt>じこ</rt></ruby>が９８９<span\
   \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span>ありました。２３<ruby>人<rt>にん</rt></ruby>が<ruby>火事<rt>かじ</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\

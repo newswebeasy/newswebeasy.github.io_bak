@@ -7,8 +7,8 @@ last_modified_at: '2017-05-10T11:30:00+09:00'
 datetime: 2017年05月10日 11時30分
 description: 奈良市ならしにある奈良なら公園こうえんにはたくさんの鹿しかがいます。
 description_with_ruby: <ruby>奈良市<rt>ならし</rt></ruby>にある<ruby>奈良<rt>なら</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>にはたくさんの<ruby>鹿<rt>しか</rt></ruby>がいます。
-image_url: https://newswebeasy.github.io/ja/news/web/image/2017/05/10/k10010973501000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/10/k10010973501000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/10/k10010973501000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/10/k10010973501000.mp3
 contents: "<p><ruby>奈良市<rt>ならし</rt></ruby>にある<ruby>奈良<rt>なら</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>にはたくさんの<span\
   \ style=\"color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>がいます。<ruby>７日<rt>なのか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>奈良<rt>なら</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>で<ruby>今年<rt>ことし</rt></ruby><ruby>初<rt>はじ</rt></ruby>めて<span\
   \ style=\"color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれました。<ruby>赤<rt>あか</rt></ruby>ちゃんは、<ruby>体<rt>からだ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさが６６ｃｍ、<ruby>重<rt>おも</rt></ruby>さは３５００ｇの<span\

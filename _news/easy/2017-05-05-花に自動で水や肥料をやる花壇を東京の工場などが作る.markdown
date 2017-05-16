@@ -7,8 +7,8 @@ last_modified_at: '2017-05-05T10:35:00+09:00'
 datetime: 2017年05月05日 10時35分
 description: 東京とうきょうの葛飾区かつしかくにある工場こうじょうなどのグループが、花はなに自動じどうで水みずや肥料ひりょうをやることができる花壇かだんを作つくりました。
 description_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>葛飾区<rt>かつしかく</rt></ruby>にある<ruby>工場<rt>こうじょう</rt></ruby>などのグループが、<ruby>花<rt>はな</rt></ruby>に<ruby>自動<rt>じどう</rt></ruby>で<ruby>水<rt>みず</rt></ruby>や<ruby>肥料<rt>ひりょう</rt></ruby>をやることができる<ruby>花壇<rt>かだん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。
-image_url: https://newswebeasy.github.io/ja/news/easy/image/2017/05/05/k10010960591000.jpg
-voice_url: https://newswebeasy.github.io/ja/news/easy/voice/2017/05/05/k10010960591000.mp3
+image_url: https://newswebeasy.github.io/ja201705/news/easy/image/2017/05/05/k10010960591000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/05/k10010960591000.mp3
 contents: "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>葛飾区<rt>かつしかく</rt></ruby>にある<ruby>工場<rt>こうじょう</rt></ruby>などの<span\
   \ style=\"color: blue;\">グループ</span>が、<ruby>花<rt>はな</rt></ruby>に<span style=\"color:\
   \ blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>水<rt>みず</rt></ruby>や<span style=\"\
