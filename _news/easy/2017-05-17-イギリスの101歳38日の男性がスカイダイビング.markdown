@@ -1,0 +1,29 @@
+---
+layout: easy_news
+categories: easy
+title: イギリスの１０１歳３８日の男性がスカイダイビング
+title_with_ruby: イギリスの１０１<ruby>歳<rt>さい</rt></ruby>３８<ruby>日<rt>にち</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>がスカイダイビング
+last_modified_at: '2017-05-17T11:30:00+09:00'
+datetime: 2017年05月17日 11時30分
+description: １４日じゅうよっか、イギリスの男性だんせいのベルダン・ヘイズさんが１０１歳さい３８日にちでスカイダイビングをしました。
+description_with_ruby: <ruby>１４日<rt>じゅうよっか</rt></ruby>、イギリスの<ruby>男性<rt>だんせい</rt></ruby>のベルダン・ヘイズさんが１０１<ruby>歳<rt>さい</rt></ruby>３８<ruby>日<rt>にち</rt></ruby>でスカイダイビングをしました。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/17/k10010981571000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/17/k10010981571000.mp3
+contents: "<p><ruby>１４日<rt>じゅうよっか</rt></ruby>、イギリスの<ruby>男性<rt>だんせい</rt></ruby>のベルダン・ヘイズさんが１０１<ruby>歳<rt>さい</rt></ruby>３８<ruby>日<rt>にち</rt></ruby>で<span\
+  \ style=\"color: blue;\">スカイダイビング</span>をしました。</p>\n<p>ヘイズさんは<ruby>小<rt>ちい</rt></ruby>さい<ruby>飛行機<rt>ひこうき</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って、４６００ｍの<ruby>高<rt>たか</rt></ruby>さまで<ruby>行<rt>い</rt></ruby>きました。そして、<span\
+  \ style=\"color: blue;\">スカイダイビング</span>の<ruby>先生<rt>せんせい</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>空<rt>そら</rt></ruby>に<ruby>出<rt>で</rt></ruby>たあと、<span\
+  \ style=\"color: blue;\">パラシュート</span>を<ruby>開<rt>ひら</rt></ruby>いて、ゆっくり<ruby>下<rt>した</rt></ruby>まで<ruby>降<rt>お</rt></ruby>りました。</p>\n\
+  <p>ヘイズさんは、<span style=\"color: blue;\">スカイダイビング</span>をした<ruby>人<rt>ひと</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>年<rt>とし</rt></ruby>が<ruby>上<rt>うえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>になりました。<ruby>今<rt>いま</rt></ruby>まではカナダの<ruby>男性<rt>だんせい</rt></ruby>で、１０１<ruby>歳<rt>さい</rt></ruby><ruby>３日<rt>みっか</rt></ruby>でした。</p>\n\
+  <p>ヘイズさんは、１００<ruby>歳<rt>さい</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>に<ruby>初<rt>はじ</rt></ruby>めて<span\
+  \ style=\"color: blue;\">スカイダイビング</span>をしました。「１０２<ruby>歳<rt>さい</rt></ruby>や１０３<ruby>歳<rt>さい</rt></ruby>でもやってみたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: スカイダイビング
+  descriptions:
+  - <ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>から、パラシュートを<ruby><rb>用</rb><rt>もち</rt></ruby>いて<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>に<ruby><rb>降下</rb><rt>こうか</rt></ruby>するスポーツ。
+- word: パラシュート
+  descriptions:
+  - <ruby><rb>上空</rb><rt>じょうくう</rt></ruby>から<ruby><rb>飛</rb><rt>と</rt></ruby>び<ruby><rb>降</rb><rt>お</rt></ruby>りたり<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>落</rb><rt>お</rt></ruby>としたりするとき、<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>に<ruby><rb>地面</rb><rt>じめん</rt></ruby>に<ruby><rb>着</rb><rt>つ</rt></ruby>けるように<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>傘</rb><rt>かさ</rt></ruby>のようなもの。<ruby><rb>落下傘</rb><rt>らっかさん</rt></ruby>。
+web_news_url: /news/web/2017/05/15/英101歳男性-スカイダイビングの世界最高齢記録更新/
+source_url: http://www3.nhk.or.jp/news/easy/k10010981571000/k10010981571000.html
+...
