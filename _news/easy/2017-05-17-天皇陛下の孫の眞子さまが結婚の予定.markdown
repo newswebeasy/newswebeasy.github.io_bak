@@ -1,0 +1,50 @@
+---
+layout: easy_news
+categories: easy
+title: 天皇陛下の孫の眞子さまが結婚の予定
+title_with_ruby: <ruby>天皇<rt>てんのう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>の<ruby>孫<rt>まご</rt></ruby>の<ruby>眞子<rt>まこ</rt></ruby>さまが<ruby>結婚<rt>けっこん</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>
+last_modified_at: '2017-05-17T15:40:00+09:00'
+datetime: 2017年05月17日 15時40分
+description: 天皇てんのう陛下へいかの孫まごの眞子まこさまが、大学だいがくのときの友達ともだちと結婚けっこんする予定よていだとわかりました。
+description_with_ruby: <ruby>天皇<rt>てんのう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>の<ruby>孫<rt>まご</rt></ruby>の<ruby>眞子<rt>まこ</rt></ruby>さまが、<ruby>大学<rt>だいがく</rt></ruby>のときの<ruby>友達<rt>ともだち</rt></ruby>と<ruby>結婚<rt>けっこん</rt></ruby>する<ruby>予定<rt>よてい</rt></ruby>だとわかりました。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/17/k10010983991000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/17/k10010983991000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>天皇<rt>てんのう</rt></ruby></span><span\
+  \ style=\"color: blue;\"><ruby>陛下<rt>へいか</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>孫<rt>まご</rt></ruby></span>の<ruby>眞子<rt>まこ</rt></ruby>さまが、<ruby>大学<rt>だいがく</rt></ruby>のときの<ruby>友達<rt>ともだち</rt></ruby>と<ruby>結婚<rt>けっこん</rt></ruby>する<ruby>予定<rt>よてい</rt></ruby>だとわかりました。<ruby>眞子<rt>まこ</rt></ruby>さまは、<span\
+  \ style=\"color: blue;\"><ruby>天皇<rt>てんのう</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>陛下<rt>へいか</rt></ruby></span>の２<ruby>番目<rt>ばんめ</rt></ruby>の<ruby>息子<rt>むすこ</rt></ruby>の<ruby>秋篠宮<rt>あきしののみや</rt></ruby>さまの<span\
+  \ style=\"color: blue;\"><ruby>長女<rt>ちょうじょ</rt></ruby></span>で、２５<ruby>歳<rt>さい</rt></ruby>です。</p>\n\
+  <p><ruby>結婚<rt>けっこん</rt></ruby>する<ruby>予定<rt>よてい</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>は<ruby>横浜市<rt>よこはまし</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>小室<rt>こむろ</rt></ruby><ruby>圭<rt>けい</rt></ruby>さんです。<ruby>今<rt>いま</rt></ruby>、<ruby>法律<rt>ほうりつ</rt></ruby><ruby>事務所<rt>じむしょ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。</p>\n\
+  <p><ruby>眞子<rt>まこ</rt></ruby>さまは<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>したあと、イギリスに<span\
+  \ style=\"color: blue;\"><ruby>留学<rt>りゅうがく</rt></ruby></span>して<span style=\"color:\
+  \ blue;\"><ruby>博物館<rt>はくぶつかん</rt></ruby></span>について<ruby>勉強<rt>べんきょう</rt></ruby>しました。<ruby>去年<rt>きょねん</rt></ruby>から<ruby>東京大学<rt>とうきょうだいがく</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>博物館<rt>はくぶつかん</rt></ruby></span>で<ruby>研究員<rt>けんきゅういん</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をしています。</p>\n\
+  <p><ruby>眞子<rt>まこ</rt></ruby>さまと<ruby>小室<rt>こむろ</rt></ruby>さんは５<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>に<ruby>初<rt>はじ</rt></ruby>めて<ruby>会<rt>あ</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>交際<rt>こうさい</rt></ruby></span>を<ruby>続<rt>つづ</rt></ruby>けていました。<ruby>２人<rt>ふたり</rt></ruby>の<ruby>結婚<rt>けっこん</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby>になりそうです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 天皇
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>象徴</rb><rt>しょうちょう</rt></ruby>としてあおがれている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 陛下
+  descriptions:
+  - <ruby><rb>天皇</rb><rt>てんのう</rt></ruby>や<ruby><rb>皇后</rb><rt>こうごう</rt></ruby>などを<ruby><rb>敬</rb><rt>うやま</rt></ruby>って<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶことば。
+- word: 孫
+  descriptions:
+  - その<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>どもの<ruby><rb>子</rb><rt>こ</rt></ruby>ども。
+- word: 長女
+  descriptions:
+  - きょうだいの<ruby><rb>中</rb><rt>なか</rt></ruby>でいちばん<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>生</rb><rt>う</rt></ruby>まれた<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。
+- word: 留学
+  descriptions:
+  - <ruby><rb>外国</rb><rt>がいこく</rt></ruby>に<ruby><rb>行</rb><rt>い</rt></ruby>って、<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>すること。
+- word: 博物館
+  descriptions:
+  - <ruby><rb>自然</rb><rt>しぜん</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>、<ruby><rb>歴史</rb><rt>れきし</rt></ruby>などについての<ruby><rb>資料</rb><rt>しりょう</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めて、<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。
+- word: 交際
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>と<ruby><rb>人</rb><rt>ひと</rt></ruby>とがつき<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。つき<ruby><rb>合</rb><rt>あ</rt></ruby>い。
+web_news_url: /news/web/2017/05/16/眞子さま-同級生とご婚約へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10010983991000/k10010983991000.html
+...
