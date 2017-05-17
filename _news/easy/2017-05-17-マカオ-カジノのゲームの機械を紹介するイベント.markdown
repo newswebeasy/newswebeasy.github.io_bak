@@ -1,0 +1,51 @@
+---
+layout: easy_news
+categories: easy
+title: マカオ　カジノのゲームの機械を紹介するイベント
+title_with_ruby: マカオ　カジノのゲームの<ruby>機械<rt>きかい</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント
+last_modified_at: '2017-05-17T15:40:00+09:00'
+datetime: 2017年05月17日 15時40分
+description: カジノは、お金かねを賭かけてルーレットなどのゲームで遊あそぶ場所ばしょです。
+description_with_ruby: カジノは、お<ruby>金<rt>かね</rt></ruby>を<ruby>賭<rt>か</rt></ruby>けてルーレットなどのゲームで<ruby>遊<rt>あそ</rt></ruby>ぶ<ruby>場所<rt>ばしょ</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/17/k10010984271000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/17/k10010984271000.mp3
+contents: "<p>カジノは、お<ruby>金<rt>かね</rt></ruby>を<span style=\"color: blue;\"><ruby>賭<rt>か</rt></ruby>け</span>て<span\
+  \ style=\"color: blue;\">ルーレット</span>などの<span style=\"color: blue;\">ゲーム</span>で<ruby>遊<rt>あそ</rt></ruby>ぶ<ruby>場所<rt>ばしょ</rt></ruby>です。カジノにある<span\
+  \ style=\"color: blue;\">ゲーム</span>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>機械<rt>きかい</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する<span\
+  \ style=\"color: blue;\">イベント</span>が、<ruby>中国<rt>ちゅうごく</rt></ruby>のマカオで<ruby>始<rt>はじ</rt></ruby>まりました。<span\
+  \ style=\"color: blue;\">イベント</span>には<ruby>世界<rt>せかい</rt></ruby>の１８０の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まっています。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>では<ruby>今<rt>いま</rt></ruby>、カジノは<span style=\"color:\
+  \ blue;\"><ruby>禁止<rt>きんし</rt></ruby></span>になっています。しかし、<ruby>去年<rt>きょねん</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しい<ruby>法律<rt>ほうりつ</rt></ruby>ができたため、<ruby>日本<rt>にっぽん</rt></ruby>でもこれからカジノを<ruby>作<rt>つく</rt></ruby>ることができるかもしれません。このため、いろいろな<ruby>国<rt>くに</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が、<ruby>日本<rt>にっぽん</rt></ruby>でカジノで<ruby>使<rt>つか</rt></ruby>う<ruby>機械<rt>きかい</rt></ruby>などを<ruby>売<rt>う</rt></ruby>りたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p>しかし、<ruby>日本<rt>にっぽん</rt></ruby>ではカジノに<ruby>反対<rt>はんたい</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>も<ruby>大勢<rt>おおぜい</rt></ruby>います。お<ruby>金<rt>かね</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>賭<rt>か</rt></ruby>ける</span><span style=\"color: blue;\"\
+  >ゲーム</span>をやめることができない<ruby>病気<rt>びょうき</rt></ruby>になる<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える<ruby>心配<rt>しんぱい</rt></ruby>があるからです。マカオにあるカジノの<ruby>会社<rt>かいしゃ</rt></ruby>は「できるだけ<ruby>病気<rt>びょうき</rt></ruby>にならないようにする<span\
+  \ style=\"color: blue;\"><ruby>方法<rt>ほうほう</rt></ruby></span>があるので、<ruby>日本<rt>にっぽん</rt></ruby>でもカジノを<ruby>作<rt>つく</rt></ruby>りたいです」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ゲーム
+  descriptions:
+  - <ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>遊</rb><rt>あそ</rt></ruby>び。
+  - <ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 賭ける
+  descriptions:
+  - <ruby><rb>勝</rb><rt>か</rt></ruby>ったほうがもらう<ruby><rb>約束</rb><rt>やくそく</rt></ruby>で、お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。かけごとをする。
+- word: ルーレット
+  descriptions:
+  - すりばち<ruby><rb>形</rb><rt>がた</rt></ruby>の<ruby><rb>円盤</rb><rt>えんばん</rt></ruby>に<ruby><rb>玉</rb><rt>たま</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて<ruby><rb>回</rb><rt>まわ</rt></ruby>し、<ruby><rb>止</rb><rt>と</rt></ruby>まった<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>によって<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>遊</rb><rt>あそ</rt></ruby>び<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。
+  - <ruby><rb>布</rb><rt>ぬの</rt></ruby>や<ruby><rb>紙</rb><rt>かみ</rt></ruby>に、<ruby><rb>点線</rb><rt>てんせん</rt></ruby>のしるしをつける<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。<ruby><rb>柄</rb><rt>え</rt></ruby>の<ruby><rb>先</rb><rt>さき</rt></ruby>につけた<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>歯車</rb><rt>はぐるま</rt></ruby>を<ruby><rb>転</rb><rt>ころ</rt></ruby>がして<ruby><rb>使</rb><rt>つか</rt></ruby>う。ルレット。
+- word: 禁止
+  descriptions:
+  - してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。
+- word: 賭ける
+  descriptions:
+  - <ruby><rb>勝</rb><rt>か</rt></ruby>ったほうがもらう<ruby><rb>約束</rb><rt>やくそく</rt></ruby>で、お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。かけごとをする。
+- word: 方法
+  descriptions:
+  - ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。
+web_news_url: /news/web/2017/05/17/マカオでカジノ展示会-関係者が日本進出に意欲/
+source_url: http://www3.nhk.or.jp/news/easy/k10010984271000/k10010984271000.html
+...

@@ -1,0 +1,30 @@
+---
+layout: easy_news
+categories: easy
+title: 郵便局　６２円のはがきと切手を売り始める
+title_with_ruby: <ruby>郵便局<rt>ゆうびんきょく</rt></ruby>　６２<ruby>円<rt>えん</rt></ruby>のはがきと<ruby>切手<rt>きって</rt></ruby>を<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める
+last_modified_at: '2017-05-17T11:30:00+09:00'
+datetime: 2017年05月17日 11時30分
+description: ６月がつ１日ついたちからはがきを送おくるときの料金りょうきんが１０円えん上あがって、６２円えんになります。
+description_with_ruby: ６<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>からはがきを<ruby>送<rt>おく</rt></ruby>るときの<ruby>料金<rt>りょうきん</rt></ruby>が１０<ruby>円<rt>えん</rt></ruby><ruby>上<rt>あ</rt></ruby>がって、６２<ruby>円<rt>えん</rt></ruby>になります。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/17/k10010981801000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/17/k10010981801000.mp3
+contents: "<p>６<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>からはがきを<ruby>送<rt>おく</rt></ruby>るときの<span\
+  \ style=\"color: blue;\"><ruby>料金<rt>りょうきん</rt></ruby></span>が１０<ruby>円<rt>えん</rt></ruby><ruby>上<rt>あ</rt></ruby>がって、６２<ruby>円<rt>えん</rt></ruby>になります。５<ruby>月<rt>がつ</rt></ruby>１５<ruby>日<rt>にち</rt></ruby>から、<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>などで<ruby>新<rt>あたら</rt></ruby>しい６２<ruby>円<rt>えん</rt></ruby>のはがきと<ruby>切手<rt>きって</rt></ruby>を<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。</p>\n\
+  <p><ruby>日本郵便<rt>にっぽんゆうびん</rt></ruby>は、はがきなどを<ruby>送<rt>おく</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなっていて、<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>も<ruby>上<rt>あ</rt></ruby>がっているため、<span\
+  \ style=\"color: blue;\"><ruby>料金<rt>りょうきん</rt></ruby></span>を<ruby>上<rt>あ</rt></ruby>げると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>封筒<rt>ふうとう</rt></ruby>や<ruby>本<rt>ほん</rt></ruby>などを<ruby>送<rt>おく</rt></ruby>るときの<span\
+  \ style=\"color: blue;\"><ruby>料金<rt>りょうきん</rt></ruby></span>も、<ruby>重<rt>おも</rt></ruby>さや<ruby>大<rt>おお</rt></ruby>きさで８０<ruby>円<rt>えん</rt></ruby>から１５０<ruby>円<rt>えん</rt></ruby><ruby>高<rt>たか</rt></ruby>くなる<ruby>場合<rt>ばあい</rt></ruby>があります。</p>\n\
+  <p><ruby>正月<rt>しょうがつ</rt></ruby>のあいさつに<ruby>送<rt>おく</rt></ruby>る<ruby>年賀状<rt>ねんがじょう</rt></ruby>のはがきは、５２<ruby>円<rt>えん</rt></ruby>のままです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 料金
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ったり、<ruby><rb>見</rb><rt>み</rt></ruby>たりしたことに<ruby><rb>対</rb><rt>たい</rt></ruby>してはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 給料
+  descriptions:
+  - やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。
+web_news_url: /news/web/2017/05/15/62円に値上げの切手とはがき-販売開始/
+source_url: http://www3.nhk.or.jp/news/easy/k10010981801000/k10010981801000.html
+...
