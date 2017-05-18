@@ -1,0 +1,44 @@
+---
+layout: easy_news
+categories: easy
+title: インドネシア　珍しい白いオランウータンが見つかる
+title_with_ruby: インドネシア　<ruby>珍<rt>めずら</rt></ruby>しい<ruby>白<rt>しろ</rt></ruby>いオランウータンが<ruby>見<rt>み</rt></ruby>つかる
+last_modified_at: '2017-05-18T11:30:00+09:00'
+datetime: 2017年05月18日 11時30分
+description: インドネシアのカリマンタン島とうで、体からだの毛けや皮膚ひふが白しろいオランウータンが見みつかりました。
+description_with_ruby: インドネシアのカリマンタン<ruby>島<rt>とう</rt></ruby>で、<ruby>体<rt>からだ</rt></ruby>の<ruby>毛<rt>け</rt></ruby>や<ruby>皮膚<rt>ひふ</rt></ruby>が<ruby>白<rt>しろ</rt></ruby>いオランウータンが<ruby>見<rt>み</rt></ruby>つかりました。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/18/k10010984091000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/18/k10010984091000.mp3
+contents: "<p>インドネシアのカリマンタン<ruby>島<rt>とう</rt></ruby>で、<ruby>体<rt>からだ</rt></ruby>の<ruby>毛<rt>け</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>皮膚<rt>ひふ</rt></ruby></span>が<ruby>白<rt>しろ</rt></ruby>い<span\
+  \ style=\"color: blue;\">オランウータン</span>が<ruby>見<rt>み</rt></ruby>つかりました。<ruby>島<rt>しま</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がこの<span\
+  \ style=\"color: blue;\">オランウータン</span>を<ruby>捕<rt>つか</rt></ruby>まえていましたが、<ruby>動物<rt>どうぶつ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>る</span><ruby>仕事<rt>しごと</rt></ruby>をしている<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>が<ruby>世話<rt>せわ</rt></ruby>をすることになりました。</p>\n\
+  <p>この<span style=\"color: blue;\">オランウータン</span>は５<ruby>歳<rt>さい</rt></ruby>ぐらいの<span\
+  \ style=\"color: blue;\"><ruby>雌<rt>めす</rt></ruby></span>です。<ruby>生<rt>う</rt></ruby>まれたときから<ruby>白<rt>しろ</rt></ruby>かったようで、<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>はとても<ruby>珍<rt>めずら</rt></ruby>しいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>は、この<span style=\"\
+  color: blue;\">オランウータン</span>の<ruby>名前<rt>なまえ</rt></ruby>をみんなに<ruby>考<rt>かんが</rt></ruby>えてもらうことにしました。３４００<ruby>以上<rt>いじょう</rt></ruby><ruby>集<rt>あつ</rt></ruby>まった<ruby>名前<rt>なまえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>から「アルバ」に<ruby>決<rt>き</rt></ruby>めました。この<ruby>名前<rt>なまえ</rt></ruby>はラテン<ruby>語<rt>ご</rt></ruby>で「<ruby>白<rt>しろ</rt></ruby>」という<ruby>意味<rt>いみ</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: オランウータン
+  descriptions:
+  - インドネシアのボルネオ<ruby><rb>島</rb><rt>とう</rt></ruby>やスマトラ<ruby><rb>島</rb><rt>とう</rt></ruby>の<ruby><rb>森</rb><rt>もり</rt></ruby>にすむ<ruby><rb>類人猿</rb><rt>るいじんえん</rt></ruby>。<ruby><rb>立</rb><rt>た</rt></ruby>っていても<ruby><rb>地</rb><rt>ち</rt></ruby>に<ruby><rb>届</rb><rt>とど</rt></ruby>く<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>をしている。
+- word: 皮膚
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>包</rb><rt>つつ</rt></ruby>んでいる<ruby><rb>皮</rb><rt>かわ</rt></ruby>。<ruby><rb>肌</rb><rt>はだ</rt></ruby>。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 雌
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>を<ruby><rb>生</rb><rt>う</rt></ruby>む<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>があるほう。
+web_news_url: /news/web/2017/05/16/珍しい白いオランウータン保護-インドネシア/
+source_url: http://www3.nhk.or.jp/news/easy/k10010984091000/k10010984091000.html
+...
