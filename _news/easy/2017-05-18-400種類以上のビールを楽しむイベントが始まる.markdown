@@ -1,0 +1,48 @@
+---
+layout: easy_news
+categories: easy
+title: ４００種類以上のビールを楽しむイベントが始まる
+title_with_ruby: ４００<ruby>種類<rt>しゅるい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のビールを<ruby>楽<rt>たの</rt></ruby>しむイベントが<ruby>始<rt>はじ</rt></ruby>まる
+last_modified_at: '2017-05-18T16:40:00+09:00'
+datetime: 2017年05月18日 16時40分
+description: 世界せかいの「クラフトビール」を楽たのしむイベントが１７日にちから埼玉県さいたまけんのさいたま新都心しんとしん駅えきの前まえの広場ひろばで始はじまりました。
+description_with_ruby: <ruby>世界<rt>せかい</rt></ruby>の「クラフトビール」を<ruby>楽<rt>たの</rt></ruby>しむイベントが１７<ruby>日<rt>にち</rt></ruby>から<ruby>埼玉県<rt>さいたまけん</rt></ruby>のさいたま<ruby>新都心<rt>しんとしん</rt></ruby><ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>広場<rt>ひろば</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201705/news/easy/image/2017/05/18/k10010985181000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/18/k10010985181000.mp3
+contents: "<p><ruby>世界<rt>せかい</rt></ruby>の「クラフトビール」を<ruby>楽<rt>たの</rt></ruby>しむ<span\
+  \ style=\"color: blue;\">イベント</span>が１７<ruby>日<rt>にち</rt></ruby>から<ruby>埼玉県<rt>さいたまけん</rt></ruby>のさいたま<ruby>新都心<rt>しんとしん</rt></ruby><ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>広場<rt>ひろば</rt></ruby></span>で<ruby>始<rt>はじ</rt></ruby>まりました。クラフトビールは<ruby>小<rt>ちい</rt></ruby>さい<ruby>工場<rt>こうじょう</rt></ruby>でつくったビールで、いろいろな<ruby>味<rt>あじ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむことができます。<ruby>今年<rt>ことし</rt></ruby>は<ruby>日本<rt>にっぽん</rt></ruby>や<ruby>外国<rt>がいこく</rt></ruby>の４００<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span><ruby>以上<rt>いじょう</rt></ruby>のクラフトビールを<ruby>会場<rt>かいじょう</rt></ruby>で<ruby>売<rt>う</rt></ruby>っています。</p>\n\
+  <p>ベルギーのビールの<ruby>売<rt>う</rt></ruby>り<ruby>場<rt>ば</rt></ruby>にはいろいろな<ruby>形<rt>かたち</rt></ruby>の<span\
+  \ style=\"color: blue;\">グラス</span>があって、ビールの<span style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>で<ruby>使<rt>つか</rt></ruby>う<span\
+  \ style=\"color: blue;\">グラス</span>をかえています。ベルギーで<ruby>飲<rt>の</rt></ruby>んでいる<ruby>気分<rt>きぶん</rt></ruby>になるようです。</p>\n\
+  <p><ruby>大阪<rt>おおさか</rt></ruby>の「<ruby>箕面<rt>みのお</rt></ruby>ビール」は<ruby>苦<rt>にが</rt></ruby>い<ruby>味<rt>あじ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむことができます。<ruby>世界<rt>せかい</rt></ruby>でも<ruby>有名<rt>ゆうめい</rt></ruby>なビールの<span\
+  \ style=\"color: blue;\">コンクール</span>で<span style=\"color: blue;\"><ruby>賞<rt>しょう</rt></ruby></span>をもらいました。</p>\n\
+  <p>１７<ruby>日<rt>にち</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>寒<rt>さむ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>でしたが、<ruby>会場<rt>かいじょう</rt></ruby>では<ruby>仕事<rt>しごと</rt></ruby>が<ruby>終<rt>お</rt></ruby>わった<ruby>会社員<rt>かいしゃいん</rt></ruby>などがおいしそうにビールを<ruby>飲<rt>の</rt></ruby>んでいました。</p>\n\
+  <p>この<span style=\"color: blue;\">イベント</span>は２１<ruby>日<rt>にち</rt></ruby>までです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 広場
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まれる、<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: グラス
+  descriptions:
+  - ガラスのコップ。
+- word: コンクール
+  descriptions:
+  - （<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>などのよしあしを）<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>する<ruby><rb>会</rb><rt>かい</rt></ruby>。<ruby><rb>競技会</rb><rt>きょうぎかい</rt></ruby>。
+- word: 賞
+  descriptions:
+  - ほめる。たたえる。
+  - ほうび。
+  - <ruby><rb>味</rb><rt>あじ</rt></ruby>わって<ruby><rb>楽</rb><rt>たの</rt></ruby>しむ。
+web_news_url: /news/web/2017/05/17/日本最大級のビールの祭典-さいたま市/
+source_url: http://www3.nhk.or.jp/news/easy/k10010985181000/k10010985181000.html
+...
