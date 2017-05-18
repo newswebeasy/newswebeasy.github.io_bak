@@ -1,0 +1,75 @@
+---
+layout: easy_news
+categories: easy
+title: 新聞などがトランプ大統領の問題を続けて伝える
+title_with_ruby: <ruby>新聞<rt>しんぶん</rt></ruby>などがトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けて<ruby>伝<rt>つた</rt></ruby>える
+last_modified_at: '2017-05-18T16:40:00+09:00'
+datetime: 2017年05月18日 16時40分
+description: トランプ大統領だいとうりょうは５月がつ９日ここのかに、ＦＢＩの長官ちょうかんだったコミーさんをやめさせました。
+description_with_ruby: トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>は５<ruby>月<rt>がつ</rt></ruby><ruby>９日<rt>ここのか</rt></ruby>に、ＦＢＩの<ruby>長官<rt>ちょうかん</rt></ruby>だったコミーさんをやめさせました。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/18/k10010985591000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/18/k10010985591000.mp3
+contents: "<p>トランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は５<ruby>月<rt>がつ</rt></ruby><ruby>９日<rt>ここのか</rt></ruby>に、ＦＢＩの<span\
+  \ style=\"color: blue;\"><ruby>長官<rt>ちょうかん</rt></ruby></span>のコミーさんを<span style=\"\
+  color: blue;\">やめ</span>させました。アメリカの<ruby>新聞<rt>しんぶん</rt></ruby>などは１６<ruby>日<rt>にち</rt></ruby>、トランプ<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>がコミーさんに、<span style=\"\
+  color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>補佐<rt>ほさ</rt></ruby></span><span style=\"color: blue;\"><ruby>官<rt>かん</rt></ruby></span>だったフリンさんとロシアの<ruby>関係<rt>かんけい</rt></ruby>について<ruby>調<rt>しら</rt></ruby>べないように<ruby>言<rt>い</rt></ruby>ったと<ruby>伝<rt>つた</rt></ruby>えました。<ruby>新聞<rt>しんぶん</rt></ruby>などは、フリンさんがロシアにお<ruby>金<rt>かね</rt></ruby>をもらったり<ruby>払<rt>はら</rt></ruby>ったりした<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>についてＦＢＩが<ruby>調<rt>しら</rt></ruby>べていたため、<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>が<ruby>邪魔<rt>じゃま</rt></ruby>をしたと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>与党<rt>よとう</rt></ruby></span>の<ruby>共和党<rt>きょうわとう</rt></ruby>は、<ruby>新聞<rt>しんぶん</rt></ruby>などが<ruby>伝<rt>つた</rt></ruby>えていることが<ruby>本当<rt>ほんとう</rt></ruby>かどうか<ruby>聞<rt>き</rt></ruby>くためにコミーさんを<span\
+  \ style=\"color: blue;\"><ruby>議会<rt>ぎかい</rt></ruby></span>に<ruby>呼<rt>よ</rt></ruby>ぶよう<ruby>言<rt>い</rt></ruby>いました。そしてＦＢＩにも、コミーさんとトランプ<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>が<ruby>話<rt>はな</rt></ruby>したときの<span\
+  \ style=\"color: blue;\">メモ</span>を<ruby>出<rt>だ</rt></ruby>すように<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>新聞<rt>しんぶん</rt></ruby>などは、トランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>がロシアのラブロフ<span\
+  \ style=\"color: blue;\"><ruby>外相<rt>がいしょう</rt></ruby></span>に、イスラエルから<ruby>聞<rt>き</rt></ruby>いた<span\
+  \ style=\"color: blue;\"><ruby>秘密<rt>ひみつ</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>を<ruby>話<rt>はな</rt></ruby>したとも<ruby>伝<rt>つた</rt></ruby>えました。そして、アメリカとイスラエルの<ruby>関係<rt>かんけい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなるかもしれないと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>アメリカの<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<ruby>新聞<rt>しんぶん</rt></ruby>などが<ruby>伝<rt>つた</rt></ruby>えている<ruby>問題<rt>もんだい</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>ではないと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 長官
+  descriptions:
+  - <ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>のいちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>役目</rb><rt>やくめ</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>次官</rb><rt>じかん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>。
+- word: 辞める
+  descriptions:
+  - <ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。
+- word: 補佐
+  descriptions:
+  - <ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となる<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けて、<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 官
+  descriptions:
+  - <ruby><rb>政府</rb><rt>せいふ</rt></ruby>。<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+  - <ruby><rb>役人</rb><rt>やくにん</rt></ruby>。
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>のいろいろなはたらきをするもの。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 与党
+  descriptions:
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている<ruby><rb>政党</rb><rt>せいとう</rt></ruby>。
+- word: 議会
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>に<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>について<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めをする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>の<ruby><rb>国会</rb><rt>こっかい</rt></ruby>と、<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>などの<ruby><rb>地方議会</rb><rt>ちほうぎかい</rt></ruby>とがある。
+- word: メモ
+  descriptions:
+  - <ruby><rb>忘</rb><rt>わす</rt></ruby>れないように<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、その<ruby><rb>紙</rb><rt>かみ</rt></ruby>やノート。<ruby><rb>覚</rb><rt>おぼ</rt></ruby>え<ruby><rb>書</rb><rt>が</rt></ruby>き。
+- word: 外相
+  descriptions:
+  - <ruby><rb>外務大臣</rb><rt>がいむだいじん</rt></ruby>の<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>方</rb><rt>かた</rt></ruby>。
+- word: 秘密
+  descriptions:
+  - かくして、<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>らせないこと。かくしごと。ないしょ。
+- word: 情報
+  descriptions:
+  - できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+web_news_url: /news/web/2017/05/18/疑惑続出のトランプ大統領-政権運営に不透明感も/
+source_url: http://www3.nhk.or.jp/news/easy/k10010985591000/k10010985591000.html
+...
