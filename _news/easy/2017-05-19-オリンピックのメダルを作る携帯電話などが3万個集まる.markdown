@@ -1,0 +1,57 @@
+---
+layout: easy_news
+categories: easy
+title: オリンピックのメダルを作る携帯電話などが３万個集まる
+title_with_ruby: オリンピックのメダルを<ruby>作<rt>つく</rt></ruby>る<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>などが３<ruby>万<rt>まん</rt></ruby><ruby>個<rt>こ</rt></ruby><ruby>集<rt>あつ</rt></ruby>まる
+last_modified_at: '2017-05-19T16:25:00+09:00'
+datetime: 2017年05月19日 16時25分
+description: ２０２０年ねんに東京とうきょうでオリンピックとパラリンピックがあります。
+description_with_ruby: ２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>でオリンピックとパラリンピックがあります。
+image_url: https://newswebeasy.github.io/ja201705/news/easy/image/2017/05/19/k10010986151000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/19/k10010986151000.mp3
+contents: "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<span style=\"\
+  color: blue;\">オリンピック</span>と<span style=\"color: blue;\">パラリンピック</span>があります。この２つの<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">メダル</span>は、<ruby>使<rt>つか</rt></ruby>わなくなった<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>や<span\
+  \ style=\"color: blue;\">デジタルカメラ</span>などの<ruby>中<rt>なか</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>金属<rt>きんぞく</rt></ruby></span>から<ruby>作<rt>つく</rt></ruby>ります。このため、<ruby>東京都<rt>とうきょうと</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>都庁<rt>とちょう</rt></ruby></span>に<ruby>箱<rt>はこ</rt></ruby>を<ruby>置<rt>お</rt></ruby>いて、<ruby>使<rt>つか</rt></ruby>わなくなった<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>などをみんなから<ruby>集<rt>あつ</rt></ruby>めています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>都庁<rt>とちょう</rt></ruby></span>に<ruby>集<rt>あつ</rt></ruby>まった<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>などが５<ruby>月<rt>がつ</rt></ruby><ruby>１０日<rt>とおか</rt></ruby>に３<ruby>万<rt>まん</rt></ruby><ruby>個<rt>こ</rt></ruby>になりました。<ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>小池<rt>こいけ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>知事<rt>ちじ</rt></ruby></span>は「これからも<span style=\"\
+  color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>をお<ruby>願<rt>ねが</rt></ruby>いします」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>２つの<span style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>では５０００<ruby>個<rt>こ</rt></ruby>の<span\
+  \ style=\"color: blue;\">メダル</span>を<ruby>用意<rt>ようい</rt></ruby>する<ruby>予定<rt>よてい</rt></ruby>で、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>だと２０００<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。<ruby>東京都<rt>とうきょうと</rt></ruby>は<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>などがもっと<ruby>集<rt>あつ</rt></ruby>まるように、５<ruby>月<rt>がつ</rt></ruby>１８<ruby>日<rt>にち</rt></ruby>から<ruby>箱<rt>はこ</rt></ruby>を<ruby>置<rt>お</rt></ruby>く<ruby>場所<rt>ばしょ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>都庁<rt>とちょう</rt></ruby></span>の<ruby>玄関<rt>げんかん</rt></ruby>に<ruby>変<rt>か</rt></ruby>えました。<ruby>東京都<rt>とうきょうと</rt></ruby><ruby>以外<rt>いがい</rt></ruby>でも、たくさんの<ruby>市<rt>し</rt></ruby>や<ruby>区<rt>く</rt></ruby>や<ruby>町<rt>まち</rt></ruby>が<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>などを<ruby>集<rt>あつ</rt></ruby>め<ruby>始<rt>はじ</rt></ruby>めています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>四年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、一八九六<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: 大会
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+  - ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: デジタルカメラ
+  descriptions:
+  - フィルムを<ruby><rb>使</rb><rt>つか</rt></ruby>わないで、<ruby><rb>写</rb><rt>うつ</rt></ruby>したものを<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>に<ruby><rb>変</rb><rt>か</rt></ruby>えて、<ruby><rb>記録</rb><rt>きろく</rt></ruby>できるようにしたカメラ。デジカメ。
+- word: 金属
+  descriptions:
+  - ふつうは<ruby><rb>固体</rb><rt>こたい</rt></ruby>で、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>電気</rb><rt>でんき</rt></ruby>をよく<ruby><rb>伝</rb><rt>つた</rt></ruby>えるもの。<ruby><rb>鉄</rb><rt>てつ</rt></ruby>・<ruby><rb>銅</rb><rt>どう</rt></ruby>・<ruby><rb>金</rb><rt>きん</rt></ruby>・<ruby><rb>銀</rb><rt>ぎん</rt></ruby>・アルミニウムなど。
+- word: 都庁
+  descriptions:
+  - <ruby><rb>東京都庁</rb><rt>とうきょうとちょう</rt></ruby>のこと。<ruby><rb>都民</rb><rt>とみん</rt></ruby>のために、いろいろな<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 知事
+  descriptions:
+  - <ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+web_news_url: /news/web/2017/05/18/都が回収の携帯電話など3万個突破-五輪メダル用の金属に/
+source_url: http://www3.nhk.or.jp/news/easy/k10010986151000/k10010986151000.html
+...
