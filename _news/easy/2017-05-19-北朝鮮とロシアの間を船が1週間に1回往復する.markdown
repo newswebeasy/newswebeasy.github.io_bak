@@ -1,0 +1,42 @@
+---
+layout: easy_news
+categories: easy
+title: 北朝鮮とロシアの間を船が１週間に１回往復する
+title_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>とロシアの<ruby>間<rt>あいだ</rt></ruby>を<ruby>船<rt>ふね</rt></ruby>が１<ruby>週間<rt>しゅうかん</rt></ruby>に１<ruby>回<rt>かい</rt></ruby><ruby>往復<rt>おうふく</rt></ruby>する
+last_modified_at: '2017-05-19T16:25:00+09:00'
+datetime: 2017年05月19日 16時25分
+description: 北朝鮮きたちょうせんの船ふねが、北朝鮮きたちょうせんのラジン港こうとロシアのウラジオストク港こうとの間あいだを１週間しゅうかんに１回かい、往復おうふくすることになりました。
+description_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>船<rt>ふね</rt></ruby>が、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のラジン<ruby>港<rt>こう</rt></ruby>とロシアのウラジオストク<ruby>港<rt>こう</rt></ruby>との<ruby>間<rt>あいだ</rt></ruby>を１<ruby>週間<rt>しゅうかん</rt></ruby>に１<ruby>回<rt>かい</rt></ruby>、<ruby>往復<rt>おうふく</rt></ruby>することになりました。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/19/k10010985571000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/19/k10010985571000.mp3
+contents: "<p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>船<rt>ふね</rt></ruby>が、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のラジン<ruby>港<rt>こう</rt></ruby>とロシアのウラジオストク<ruby>港<rt>こう</rt></ruby>との<ruby>間<rt>あいだ</rt></ruby>を１<ruby>週間<rt>しゅうかん</rt></ruby>に１<ruby>回<rt>かい</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>往復<rt>おうふく</rt></ruby></span>することになりました。この<ruby>船<rt>ふね</rt></ruby>は２００<ruby>人<rt>にん</rt></ruby>の<ruby>客<rt>きゃく</rt></ruby>と１５００<span\
+  \ style=\"color: blue;\">ｔ</span>の<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶことができて、マンギョンボン<ruby>号<rt>ごう</rt></ruby>という<ruby>名前<rt>なまえ</rt></ruby>です。</p>\n\
+  <p>１８<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>船<rt>ふね</rt></ruby>がウラジオストク<ruby>港<rt>こう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。<ruby>船<rt>ふね</rt></ruby>には<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>隣<rt>となり</rt></ruby>の<ruby>中国<rt>ちゅうごく</rt></ruby>からの<ruby>客<rt>きゃく</rt></ruby>などが１０<ruby>人<rt>にん</rt></ruby>ぐらい<ruby>乗<rt>の</rt></ruby>っているだけで、<ruby>荷物<rt>にもつ</rt></ruby>はありませんでした。これからはロシアから<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>や<ruby>自動車<rt>じどうしゃ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>んで、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>からロシアに<ruby>働<rt>はたら</rt></ruby>きにくる<ruby>人<rt>ひと</rt></ruby>もたくさん<ruby>利用<rt>りよう</rt></ruby>すると、ロシアの<ruby>船<rt>ふね</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が<ruby>何<rt>なん</rt></ruby><ruby>度<rt>ど</rt></ruby>も<span\
+  \ style=\"color: blue;\">ミサイル</span>を<span style=\"color: blue;\"><ruby>発射<rt>はっしゃ</rt></ruby></span>しているため、<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>は<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>との<ruby>貿易<rt>ぼうえき</rt></ruby>などをやめようとしています。しかし、ロシアは<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>との<ruby>関係<rt>かんけい</rt></ruby>を<ruby>強<rt>つよ</rt></ruby>くしているように<ruby>見<rt>み</rt></ruby>えます。<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>はロシアに、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>と<ruby>関係<rt>かんけい</rt></ruby>を<ruby>強<rt>つよ</rt></ruby>くしないように<ruby>伝<rt>つた</rt></ruby>えると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 往復
+  descriptions:
+  - <ruby><rb>行</rb><rt>い</rt></ruby>ったり<ruby><rb>来</rb><rt>き</rt></ruby>たりすること。<ruby><rb>行</rb><rt>い</rt></ruby>きと<ruby><rb>帰</rb><rt>かえ</rt></ruby>り。
+  - やり<ruby><rb>取</rb><rt>と</rt></ruby>り。
+- word: トン
+  descriptions:
+  - メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。一トンは、一〇〇〇キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+  - <ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: ミサイル
+  descriptions:
+  - ロケットなどの<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>飛</rb><rt>と</rt></ruby>び、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby><ruby><rb>装置</rb><rt>そうち</rt></ruby>によって、<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>をとらえる<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>誘導弾</rb><rt>ゆうどうだん</rt></ruby>。
+- word: 発射
+  descriptions:
+  - <ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>のたまやロケットなどを、<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+web_news_url: /news/web/2017/05/18/北朝鮮とロシア結ぶ新定期航路-第1便がウラジオ着/
+source_url: http://www3.nhk.or.jp/news/easy/k10010985571000/k10010985571000.html
+...
