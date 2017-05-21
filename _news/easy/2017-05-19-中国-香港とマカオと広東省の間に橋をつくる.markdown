@@ -1,0 +1,48 @@
+---
+layout: easy_news
+categories: easy
+title: 中国　香港とマカオと広東省の間に橋をつくる
+title_with_ruby: <ruby>中国<rt>ちゅうごく</rt></ruby>　<ruby>香港<rt>ほんこん</rt></ruby>とマカオと<ruby>広東省<rt>かんとんしょう</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>橋<rt>はし</rt></ruby>をつくる
+last_modified_at: '2017-05-19T11:30:00+09:00'
+datetime: 2017年05月19日 11時30分
+description: 中国ちゅうごくはいま、香港ほんこんとマカオと広東省かんとんしょう珠海しゅかいの間あいだに長ながさ５５ｋｍの道路どうろをつくっています。
+description_with_ruby: <ruby>中国<rt>ちゅうごく</rt></ruby>はいま、<ruby>香港<rt>ほんこん</rt></ruby>とマカオと<ruby>広東省<rt>かんとんしょう</rt></ruby><ruby>珠海<rt>しゅかい</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>長<rt>なが</rt></ruby>さ５５ｋｍの<ruby>道路<rt>どうろ</rt></ruby>をつくっています。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/19/k10010984951000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/19/k10010984951000.mp3
+contents: "<p><ruby>中国<rt>ちゅうごく</rt></ruby>はいま、<ruby>香港<rt>ほんこん</rt></ruby>とマカオと<ruby>広東省<rt>かんとんしょう</rt></ruby><ruby>珠海<rt>しゅかい</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>長<rt>なが</rt></ruby>さ５５ｋｍの<span\
+  \ style=\"color: blue;\"><ruby>道路<rt>どうろ</rt></ruby></span>をつくっています。その<ruby>間<rt>あいだ</rt></ruby>にある<ruby>海<rt>うみ</rt></ruby>では、<ruby>大<rt>おお</rt></ruby>きな<ruby>橋<rt>はし</rt></ruby>や<ruby>海<rt>うみ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>底<rt>そこ</rt></ruby></span>を<ruby>通<rt>とお</rt></ruby>る<span\
+  \ style=\"color: blue;\">トンネル</span>などをつくります。<span style=\"color: blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>にかかるお<ruby>金<rt>かね</rt></ruby>は<ruby>日本<rt>にっぽん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>で１<span\
+  \ style=\"color: blue;\"><ruby>兆<rt>ちょう</rt></ruby></span>８０００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>ぐらいです。</p>\n\
+  <p><ruby>広東省<rt>かんとんしょう</rt></ruby>の<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は１７<ruby>日<rt>にち</rt></ruby>、<ruby>長<rt>なが</rt></ruby>さ２２．９ｋｍの<ruby>大<rt>おお</rt></ruby>きな<ruby>橋<rt>はし</rt></ruby>をつくっているところを<ruby>見<rt>み</rt></ruby>せました。この<ruby>橋<rt>はし</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまでにできる<ruby>予定<rt>よてい</rt></ruby>です。<ruby>橋<rt>はし</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>では<ruby>広<rt>ひろ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>道路<rt>どうろ</rt></ruby></span>をつくる<span style=\"color:\
+  \ blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>をしていました。</p>\n<p><ruby>香港<rt>ほんこん</rt></ruby>とマカオの<ruby>間<rt>あいだ</rt></ruby>は、いま<ruby>車<rt>くるま</rt></ruby>で４<ruby>時間<rt>じかん</rt></ruby>ぐらいかかりますが、この<ruby>橋<rt>はし</rt></ruby>ができると３０<ruby>分<rt>ぷん</rt></ruby>ぐらいで<ruby>行<rt>い</rt></ruby>くことができるようになります。<span\
+  \ style=\"color: blue;\"><ruby>道路<rt>どうろ</rt></ruby></span>ができたら、<ruby>人<rt>ひと</rt></ruby>や<ruby>物<rt>もの</rt></ruby>がたくさん<ruby>通<rt>とお</rt></ruby>るようになって、<ruby>経済<rt>けいざい</rt></ruby>ももっとよくなりそうです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 道路
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>車</rb><rt>くるま</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道</rb><rt>みち</rt></ruby>。<ruby><rb>通</rb><rt>とお</rt></ruby>り<ruby><rb>道</rb><rt>みち</rt></ruby>。
+- word: 底
+  descriptions:
+  - くぼんだ<ruby><rb>物</rb><rt>もの</rt></ruby>のいちばん<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - いちばんおく<ruby><rb>深</rb><rt>ふか</rt></ruby>いところ。
+  - ものごとの<ruby><rb>果</rb><rt>は</rt></ruby>て。<ruby><rb>限</rb><rt>かぎ</rt></ruby>り。
+- word: トンネル
+  descriptions:
+  - <ruby><rb>山</rb><rt>やま</rt></ruby>や<ruby><rb>地下</rb><rt>ちか</rt></ruby>や<ruby><rb>海底</rb><rt>かいてい</rt></ruby>に<ruby><rb>穴</rb><rt>あな</rt></ruby>をあけて、<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>車</rb><rt>くるま</rt></ruby>などが<ruby><rb>通</rb><rt>とお</rt></ruby>れるようにしたもの。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>野手</rb><rt>やしゅ</rt></ruby>がゴロを<ruby><rb>取</rb><rt>と</rt></ruby>りそこなって、またの<ruby><rb>間</rb><rt>あいだ</rt></ruby>から<ruby><rb>後</rb><rt>うし</rt></ruby>ろにのがすこと。
+- word: 工事
+  descriptions:
+  - <ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。
+- word: 兆
+  descriptions:
+  - <ruby><rb>一億</rb><rt>いちおく</rt></ruby>の<ruby><rb>一万倍</rb><rt>いちまんばい</rt></ruby>。
+  - しるし。<ruby><rb>前</rb><rt>まえ</rt></ruby>ぶれ。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+web_news_url: /news/web/2017/05/17/香港マカオ中国を結ぶ巨大な橋が公開/
+source_url: http://www3.nhk.or.jp/news/easy/k10010984951000/k10010984951000.html
+...

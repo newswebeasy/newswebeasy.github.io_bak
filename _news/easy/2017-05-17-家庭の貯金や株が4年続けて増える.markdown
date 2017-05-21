@@ -1,0 +1,52 @@
+---
+layout: easy_news
+categories: easy
+title: 家庭の貯金や株が４年続けて増える
+title_with_ruby: <ruby>家庭<rt>かてい</rt></ruby>の<ruby>貯金<rt>ちょきん</rt></ruby>や<ruby>株<rt>かぶ</rt></ruby>が４<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>増<rt>ふ</rt></ruby>える
+last_modified_at: '2017-05-17T15:40:00+09:00'
+datetime: 2017年05月17日 15時40分
+description: 総務省そうむしょうによると、去年きょねん１年ねんの２人ふたり以上いじょうの家庭かていの貯金ちょきんや株かぶなどは、平均へいきんで１８２０万まん円えんでした。
+description_with_ruby: <ruby>総務省<rt>そうむしょう</rt></ruby>によると、<ruby>去年<rt>きょねん</rt></ruby>１<ruby>年<rt>ねん</rt></ruby>の<ruby>２人<rt>ふたり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>家庭<rt>かてい</rt></ruby>の<ruby>貯金<rt>ちょきん</rt></ruby>や<ruby>株<rt>かぶ</rt></ruby>などは、<ruby>平均<rt>へいきん</rt></ruby>で１８２０<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>でした。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/17/k10010983851000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/17/k10010983851000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>総務省<rt>そうむしょう</rt></ruby></span>によると、<ruby>去年<rt>きょねん</rt></ruby>１<ruby>年<rt>ねん</rt></ruby>の<ruby>２人<rt>ふたり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>家庭<rt>かてい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>貯金<rt>ちょきん</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>株<rt>かぶ</rt></ruby></span>などは、<span style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>で１８２０<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>でした。おととしより１５<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>増<rt>ふ</rt></ruby>えました。４<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>増<rt>ふ</rt></ruby>えていて、<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなりました。</p>\n\
+  <p><ruby>家庭<rt>かてい</rt></ruby>の<span style=\"color: blue;\"><ruby>代表<rt>だいひょう</rt></ruby></span>の「<ruby>世帯主<rt>せたいぬし</rt></ruby>」が４０<ruby>歳<rt>さい</rt></ruby>より<ruby>若<rt>わか</rt></ruby>い<ruby>家庭<rt>かてい</rt></ruby>では、おととしより<ruby>少<rt>すく</rt></ruby>なくなって５７４<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>でした。しかし、４０<span\
+  \ style=\"color: blue;\"><ruby>代<rt>だい</rt></ruby></span>の<ruby>家庭<rt>かてい</rt></ruby>は１０６５<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>、５０<span\
+  \ style=\"color: blue;\"><ruby>代<rt>だい</rt></ruby></span>の<ruby>家庭<rt>かてい</rt></ruby>は１８０２<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>で<ruby>増<rt>ふ</rt></ruby>えました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>総務省<rt>そうむしょう</rt></ruby></span>は「５０<span\
+  \ style=\"color: blue;\"><ruby>代<rt>だい</rt></ruby></span>の<ruby>家庭<rt>かてい</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>貯金<rt>ちょきん</rt></ruby></span>などが<ruby>増<rt>ふ</rt></ruby>え<ruby>続<rt>つづ</rt></ruby>けています。<ruby>年<rt>とし</rt></ruby>をとってから<ruby>心配<rt>しんぱい</rt></ruby>しなくてもいいように<ruby>準備<rt>じゅんび</rt></ruby>しているようです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p><ruby>家庭<rt>かてい</rt></ruby>の<span style=\"color: blue;\"><ruby>借金<rt>しゃっきん</rt></ruby></span>は<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>で５０７<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>で、<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>とし</rt></ruby>より８<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>増<rt>ふ</rt></ruby>えました。この<ruby>中<rt>なか</rt></ruby>の９０％ぐらいは、<ruby>家<rt>いえ</rt></ruby>を<ruby>買<rt>か</rt></ruby>うために<ruby>借<rt>か</rt></ruby>りたお<ruby>金<rt>かね</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 貯金
+  descriptions:
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>をためること。また、ためたお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 株式
+  descriptions:
+  - <ruby><rb>株式会社</rb><rt>かぶしきがいしゃ</rt></ruby>の<ruby><rb>元手</rb><rt>もとで</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>総額</rb><rt>そうがく</rt></ruby>を<ruby><rb>均等</rb><rt>きんとう</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>けた、その<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つをいう。
+- word: 総務省
+  descriptions:
+  - <ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>・<ruby><rb>市区町村</rb><rt>しくちょうそん</rt></ruby>などの<ruby><rb>地方自治体</rb><rt>ちほうじちたい</rt></ruby>や<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>の<ruby><rb>世話</rb><rt>せわ</rt></ruby>、<ruby><rb>郵便</rb><rt>ゆうびん</rt></ruby>・<ruby><rb>郵便貯金</rb><rt>ゆうびんちょきん</rt></ruby>・<ruby><rb>簡易保険</rb><rt>かんいほけん</rt></ruby>・<ruby><rb>電気通信</rb><rt>でんきつうしん</rt></ruby>などについての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+- word: 代表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって<ruby><rb>何</rb><rt>なに</rt></ruby>かをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>で<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>特色</rb><rt>とくしょく</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、そのもの。
+- word: 年代
+  descriptions:
+  - <ruby><rb>過</rb><rt>す</rt></ruby>ぎてきた<ruby><rb>時代</rb><rt>じだい</rt></ruby>。
+  - ひとまとまりにして<ruby><rb>区切</rb><rt>くぎ</rt></ruby>った<ruby><rb>期間</rb><rt>きかん</rt></ruby>。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>年</rb><rt>とし</rt></ruby>ごろの<ruby><rb>人</rb><rt>ひと</rt></ruby>たち。<ruby><rb>世代</rb><rt>せだい</rt></ruby>。
+- word: 借金
+  descriptions:
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>借</rb><rt>か</rt></ruby>りること。また、<ruby><rb>借</rb><rt>か</rt></ruby>りたお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+web_news_url: /news/web/2017/05/16/家庭の貯蓄額-4年連続増加で過去最高/
+source_url: http://www3.nhk.or.jp/news/easy/k10010983851000/k10010983851000.html
+...

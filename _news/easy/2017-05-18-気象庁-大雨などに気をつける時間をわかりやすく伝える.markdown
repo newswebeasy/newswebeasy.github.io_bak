@@ -1,0 +1,68 @@
+---
+layout: easy_news
+categories: easy
+title: 気象庁　大雨などに気をつける時間をわかりやすく伝える
+title_with_ruby: <ruby>気象庁<rt>きしょうちょう</rt></ruby>　<ruby>大雨<rt>おおあめ</rt></ruby>などに<ruby>気<rt>き</rt></ruby>をつける<ruby>時間<rt>じかん</rt></ruby>をわかりやすく<ruby>伝<rt>つた</rt></ruby>える
+last_modified_at: '2017-05-18T11:30:00+09:00'
+datetime: 2017年05月18日 11時30分
+description: 気象庁きしょうちょうは、大雨おおあめや洪水こうずいの警報けいほうなどを発表はっぴょうするとき、気きをつけなければならない時間じかんを「今夜こんや遅おそくまで」などと文ぶんで伝つたえていました。
+description_with_ruby: <ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>大雨<rt>おおあめ</rt></ruby>や<ruby>洪水<rt>こうずい</rt></ruby>の<ruby>警報<rt>けいほう</rt></ruby>などを<ruby>発表<rt>はっぴょう</rt></ruby>するとき、<ruby>気<rt>き</rt></ruby>をつけなければならない<ruby>時間<rt>じかん</rt></ruby>を「<ruby>今夜<rt>こんや</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くまで」などと<ruby>文<rt>ぶん</rt></ruby>で<ruby>伝<rt>つた</rt></ruby>えていました。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/18/k10010984211000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/18/k10010984211000.mp3
+contents: "<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<span style=\"color: blue;\"><ruby>大雨<rt>おおあめ</rt></ruby></span>や<span\
+  \ style=\"color: blue;\"><ruby>洪水<rt>こうずい</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>警報<rt>けいほう</rt></ruby></span>などを<span style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>するとき、<ruby>気<rt>き</rt></ruby>をつけなければならない<ruby>時間<rt>じかん</rt></ruby>を「<ruby>今夜<rt>こんや</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くまで」などと<span\
+  \ style=\"color: blue;\"><ruby>文<rt>ぶん</rt></ruby></span>で<ruby>伝<rt>つた</rt></ruby>えていました。</p>\n\
+  <p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は１７<ruby>日<rt>にち</rt></ruby>から、<ruby>気<rt>き</rt></ruby>をつけなければならない<ruby>時間<rt>じかん</rt></ruby>を<ruby>色<rt>いろ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って、<span\
+  \ style=\"color: blue;\">ウェブサイト</span>で<ruby>伝<rt>つた</rt></ruby>えています。<ruby>今<rt>いま</rt></ruby>までよりわかりやすくするために、２４<ruby>時間<rt>じかん</rt></ruby>を３<ruby>時間<rt>じかん</rt></ruby>ずつに<span\
+  \ style=\"color: blue;\"><ruby>分<rt>わ</rt></ruby>け</span>ています。</p>\n<p><span style=\"\
+  color: blue;\"><ruby>注意報<rt>ちゅういほう</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>て<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>時間<rt>じかん</rt></ruby>は「<ruby>黄色<rt>きいろ</rt></ruby>」にします。<span\
+  \ style=\"color: blue;\"><ruby>警報<rt>けいほう</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>て<ruby>危険<rt>きけん</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけなければならない<ruby>時間<rt>じかん</rt></ruby>は「<ruby>赤<rt>あか</rt></ruby>」にします。<ruby>雨<rt>あめ</rt></ruby>などがもっとひどくなりそうな<ruby>場合<rt>ばあい</rt></ruby>には<ruby>特別警報<rt>とくべつけいほう</rt></ruby>が<ruby>出<rt>で</rt></ruby>て、<ruby>最<rt>もっと</rt></ruby>も<ruby>気<rt>き</rt></ruby>をつけなければならない<ruby>時間<rt>じかん</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>紫<rt>むらさき</rt></ruby></span>」にします。</p>\n<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は「<ruby>危険<rt>きけん</rt></ruby>な<ruby>時間<rt>じかん</rt></ruby>などが<ruby>見<rt>み</rt></ruby>てすぐわかるので、<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えて<ruby>早<rt>はや</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>行動<rt>こうどう</rt></ruby></span>するようにしてください」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大雨
+  descriptions:
+  - <ruby><rb>激</rb><rt>はげ</rt></ruby>しくたくさん<ruby><rb>降</rb><rt>ふ</rt></ruby>る<ruby><rb>雨</rb><rt>あめ</rt></ruby>。<ruby><rb>豪雨</rb><rt>ごうう</rt></ruby>。
+- word: 洪水
+  descriptions:
+  - <ruby><rb>大雨</rb><rt>おおあめ</rt></ruby>や<ruby><rb>雪解</rb><rt>ゆきど</rt></ruby>け<ruby><rb>水</rb><rt>みず</rt></ruby>のため、<ruby><rb>川</rb><rt>かわ</rt></ruby>の<ruby><rb>水</rb><rt>みず</rt></ruby>があふれ<ruby><rb>出</rb><rt>で</rt></ruby>ること。<ruby><rb>大水</rb><rt>おおみず</rt></ruby>。
+  - あふれるほど<ruby><rb>多</rb><rt>おお</rt></ruby>いこと。
+- word: 警報
+  descriptions:
+  - <ruby><rb>危険</rb><rt>きけん</rt></ruby>が<ruby><rb>起</rb><rt>お</rt></ruby>こりそうなときに、<ruby><rb>警戒</rb><rt>けいかい</rt></ruby>のために<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 文
+  descriptions:
+  - ことばをつづって、ひとまとまりにしたもの。
+  - <ruby><rb>学問</rb><rt>がくもん</rt></ruby>や<ruby><rb>芸術</rb><rt>げいじゅつ</rt></ruby>。
+  - もよう。
+  - ことば。もじ。
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>の、<ruby><rb>長</rb><rt>なが</rt></ruby>さやお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+- word: 分ける
+  descriptions:
+  - <ruby><rb>別々</rb><rt>べつべつ</rt></ruby>にする。はなす。
+  - <ruby><rb>配</rb><rt>くば</rt></ruby>る。<ruby><rb>分配</rb><rt>ぶんぱい</rt></ruby>する。
+  - <ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>に、おし<ruby><rb>開</rb><rt>ひら</rt></ruby>く。
+  - <ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>分</rb><rt>わ</rt></ruby>けにする。
+  - <ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てる。
+- word: 注意報
+  descriptions:
+  - <ruby><rb>災害</rb><rt>さいがい</rt></ruby>のおそれがあるとき、<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>呼</rb><rt>よ</rt></ruby>びかける<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+- word: 紫
+  descriptions:
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>と<ruby><rb>青</rb><rt>あお</rt></ruby>の<ruby><rb>混</rb><rt>ま</rt></ruby>じった<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+  - <ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>小花</rb><rt>こばな</rt></ruby>をつける<ruby><rb>草</rb><rt>くさ</rt></ruby>。<ruby><rb>根</rb><rt>ね</rt></ruby>からむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>染料</rb><rt>せんりょう</rt></ruby>をとる。
+  - 「しょうゆ」の<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>方</rb><rt>かた</rt></ruby>。
+- word: 行動
+  descriptions:
+  - <ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。<ruby><rb>動作</rb><rt>どうさ</rt></ruby>。
+web_news_url: /news/web/2017/05/17/気象庁-大雨などの災害警戒時間帯を色分け表示/
+source_url: http://www3.nhk.or.jp/news/easy/k10010984211000/k10010984211000.html
+...

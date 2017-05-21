@@ -1,0 +1,41 @@
+---
+layout: easy_news
+categories: easy
+title: 子どもが海などで亡くなる事故は５月から増える
+title_with_ruby: <ruby>子<rt>こ</rt></ruby>どもが<ruby>海<rt>うみ</rt></ruby>などで<ruby>亡<rt>な</rt></ruby>くなる<ruby>事故<rt>じこ</rt></ruby>は５<ruby>月<rt>がつ</rt></ruby>から<ruby>増<rt>ふ</rt></ruby>える
+last_modified_at: '2017-05-19T11:30:00+09:00'
+datetime: 2017年05月19日 11時30分
+description: 消費者庁しょうひしゃちょうによると、２０１０年ねんから２０１４年ねんに海うみや川かわ、プールなどで１４歳さい以下いかの子こどもが溺おぼれて亡なくなった事故じこは２０２件けんありました。
+description_with_ruby: <ruby>消費者庁<rt>しょうひしゃちょう</rt></ruby>によると、２０１０<ruby>年<rt>ねん</rt></ruby>から２０１４<ruby>年<rt>ねん</rt></ruby>に<ruby>海<rt>うみ</rt></ruby>や<ruby>川<rt>かわ</rt></ruby>、プールなどで１４<ruby>歳<rt>さい</rt></ruby><ruby>以下<rt>いか</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもが<ruby>溺<rt>おぼ</rt></ruby>れて<ruby>亡<rt>な</rt></ruby>くなった<ruby>事故<rt>じこ</rt></ruby>は２０２<ruby>件<rt>けん</rt></ruby>ありました。
+image_url: https://newswebeasy.github.io/ja201705/news/easy/image/2017/05/19/k10010985081000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/19/k10010985081000.mp3
+contents: "<p><ruby>消費者庁<rt>しょうひしゃちょう</rt></ruby>によると、２０１０<ruby>年<rt>ねん</rt></ruby>から２０１４<ruby>年<rt>ねん</rt></ruby>に<ruby>海<rt>うみ</rt></ruby>や<ruby>川<rt>かわ</rt></ruby>、プールなどで１４<ruby>歳<rt>さい</rt></ruby><ruby>以下<rt>いか</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもが<span\
+  \ style=\"color: blue;\"><ruby>溺<rt>おぼ</rt></ruby>れ</span>て<ruby>亡<rt>な</rt></ruby>くなった<ruby>事故<rt>じこ</rt></ruby>は２０２<span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span>ありました。</p>\n<p>この<ruby>中<rt>なか</rt></ruby>でいちばん<ruby>多<rt>おお</rt></ruby>かったのは７<ruby>歳<rt>さい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもで２３<span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span>でした。<ruby>次<rt>つぎ</rt></ruby>が６<ruby>歳<rt>さい</rt></ruby>で２０<span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span>、その<ruby>次<rt>つぎ</rt></ruby>が８<ruby>歳<rt>さい</rt></ruby>で１６<span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span>でした。たくさん<ruby>動<rt>うご</rt></ruby>くようになる５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもの<ruby>事故<rt>じこ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなっています。</p>\n\
+  <p><ruby>海<rt>うみ</rt></ruby>などで<ruby>子<rt>こ</rt></ruby>どもが<ruby>亡<rt>な</rt></ruby>くなる<ruby>事故<rt>じこ</rt></ruby>は、５<ruby>月<rt>がつ</rt></ruby>から９<ruby>月<rt>がつ</rt></ruby>に<ruby>多<rt>おお</rt></ruby>くなっています。<ruby>消費者庁<rt>しょうひしゃちょう</rt></ruby>は、<ruby>海<rt>うみ</rt></ruby>や<ruby>川<rt>かわ</rt></ruby>に<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>くときは<ruby>必<rt>かなら</rt></ruby>ず<ruby>大人<rt>おとな</rt></ruby>も<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>って、<ruby>子<rt>こ</rt></ruby>どもをよく<ruby>見<rt>み</rt></ruby>ているように<ruby>言<rt>い</rt></ruby>っています。<span\
+  \ style=\"color: blue;\"><ruby>急<rt>きゅう</rt></ruby>に</span><ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ることがあるので<ruby>天気<rt>てんき</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけて、<ruby>水<rt>みず</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>浮<rt>う</rt></ruby>かぶ</span>ライフジャケットを<ruby>着<rt>き</rt></ruby>るように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 溺れる
+  descriptions:
+  - （<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で）<ruby><rb>泳</rb><rt>およ</rt></ruby>げなくて<ruby><rb>死</rb><rt>し</rt></ruby>にそうになる。また、<ruby><rb>死</rb><rt>し</rt></ruby>ぬ。
+  - （よくないことに）<ruby><rb>夢中</rb><rt>むちゅう</rt></ruby>になる。
+- word: 件
+  descriptions:
+  - ことがら。できごと。
+  - ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 急に
+  descriptions:
+  - とつぜん。にわかに。
+- word: 浮かぶ
+  descriptions:
+  - しずまないで、<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>にある。<ruby><rb>浮</rb><rt>う</rt></ruby>く。
+  - <ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>にある。
+  - かくれていたものが<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>に<ruby><rb>現</rb><rt>あらわ</rt></ruby>れる。
+web_news_url: /news/web/2017/05/17/子どもの水の死亡事故5年間で202件-夏場にかけ注意を/
+source_url: http://www3.nhk.or.jp/news/easy/k10010985081000/k10010985081000.html
+...

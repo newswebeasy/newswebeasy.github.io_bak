@@ -1,0 +1,48 @@
+---
+layout: easy_news
+categories: easy
+title: コンゴ民主共和国でエボラ出血熱　１人が亡くなる
+title_with_ruby: コンゴ<ruby>民主共和国<rt>みんしゅきょうわこく</rt></ruby>でエボラ<ruby>出血熱<rt>しゅっけつねつ</rt></ruby>　<ruby>１人<rt>ひとり</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+last_modified_at: '2017-05-16T11:30:00+09:00'
+datetime: 2017年05月16日 11時30分
+description: 「エボラ出血熱しゅっけつねつ」はエボラウイルスというウイルスでうつって、亡なくなる可能性かのうせいがとても高たかい病気びょうきです。
+description_with_ruby: 「エボラ<ruby>出血熱<rt>しゅっけつねつ</rt></ruby>」はエボラウイルスというウイルスでうつって、<ruby>亡<rt>な</rt></ruby>くなる<ruby>可能性<rt>かのうせい</rt></ruby>がとても<ruby>高<rt>たか</rt></ruby>い<ruby>病気<rt>びょうき</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/16/k10010980121000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/16/k10010980121000.mp3
+contents: "<p>「エボラ<ruby>出血熱<rt>しゅっけつねつ</rt></ruby>」はエボラウイルスという<span style=\"color:\
+  \ blue;\">ウイルス</span>でうつって、<ruby>亡<rt>な</rt></ruby>くなる<span style=\"color: blue;\"\
+  ><ruby>可能性<rt>かのうせい</rt></ruby></span>がとても<ruby>高<rt>たか</rt></ruby>い<ruby>病気<rt>びょうき</rt></ruby>です。</p>\n\
+  <p>アフリカの<span style=\"color: blue;\"><ruby>中部<rt>ちゅうぶ</rt></ruby></span>にあるコンゴ<ruby>民主共和国<rt>みんしゅきょうわこく</rt></ruby>で、エボラ<ruby>出血熱<rt>しゅっけつねつ</rt></ruby>になった<ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかりました。<span\
+  \ style=\"color: blue;\">ＷＨＯ</span>などによると、エボラ<ruby>出血熱<rt>しゅっけつねつ</rt></ruby>になった<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>が４<ruby>月<rt>がつ</rt></ruby>２２<ruby>日<rt>にち</rt></ruby>から９<ruby>人<rt>にん</rt></ruby><ruby>見<rt>み</rt></ruby>つかっていて、この<ruby>中<rt>なか</rt></ruby>の３<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。３<ruby>人<rt>にん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>１人<rt>ひとり</rt></ruby>からエボラウイルスが<ruby>見<rt>み</rt></ruby>つかっています。</p>\n\
+  <p>アフリカでは<ruby>西側<rt>にしがわ</rt></ruby>にある３つの<ruby>国<rt>くに</rt></ruby>で、２０１４<ruby>年<rt>ねん</rt></ruby>から２<ruby>年<rt>ねん</rt></ruby>ぐらいエボラ<ruby>出血熱<rt>しゅっけつねつ</rt></ruby>になる<ruby>人<rt>ひと</rt></ruby>がとても<ruby>増<rt>ふ</rt></ruby>えて、１<ruby>万<rt>まん</rt></ruby>１０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。コンゴ<ruby>民主共和国<rt>みんしゅきょうわこく</rt></ruby>でも、２０１４<ruby>年<rt>ねん</rt></ruby>に４０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p>コンゴ<ruby>民主共和国<rt>みんしゅきょうわこく</rt></ruby>の<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>などは、この<ruby>病気<rt>びょうき</rt></ruby>が<ruby>世界<rt>せかい</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>広<rt>ひろ</rt></ruby>がら</span>ないようにしなければならないと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ウイルス
+  descriptions:
+  - <ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 中部
+  descriptions:
+  - <ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>中部地方</rb><rt>ちゅうぶちほう</rt></ruby>のこと。
+- word: WHO
+  descriptions:
+  - <ruby><rb>国際連合</rb><rt>こくさいれんごう</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>保健衛生問題</rb><rt>ほけんえいせいもんだい</rt></ruby>について、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が<ruby><rb>協力</rb><rt>きょうりょく</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>機関</rb><rt>きかん</rt></ruby>。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 広がる
+  descriptions:
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>くなる。
+  - <ruby><rb>広々</rb><rt>ひろびろ</rt></ruby>と<ruby><rb>見</rb><rt>み</rt></ruby>わたせる。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+web_news_url: /news/web/2017/05/13/エボラ出血熱で死亡を確認-コンゴ民主共和国/
+source_url: http://www3.nhk.or.jp/news/easy/k10010980121000/k10010980121000.html
+...

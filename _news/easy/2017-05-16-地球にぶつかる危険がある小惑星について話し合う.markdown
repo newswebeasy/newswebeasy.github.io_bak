@@ -1,0 +1,53 @@
+---
+layout: easy_news
+categories: easy
+title: 地球にぶつかる危険がある小惑星について話し合う
+title_with_ruby: <ruby>地球<rt>ちきゅう</rt></ruby>にぶつかる<ruby>危険<rt>きけん</rt></ruby>がある<ruby>小惑星<rt>しょうわくせい</rt></ruby>について<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う
+last_modified_at: '2017-05-16T15:30:00+09:00'
+datetime: 2017年05月16日 15時30分
+description: 小惑星しょうわくせいは太陽たいようの周まわりを回まわっているとても小ちいさな星ほしです。
+description_with_ruby: <ruby>小惑星<rt>しょうわくせい</rt></ruby>は<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りを<ruby>回<rt>まわ</rt></ruby>っているとても<ruby>小<rt>ちい</rt></ruby>さな<ruby>星<rt>ほし</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/16/k10010982311000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/16/k10010982311000.mp3
+contents: "<p><ruby>小惑星<rt>しょうわくせい</rt></ruby>は<span style=\"color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>の<ruby>周<rt>まわ</rt></ruby>りを<ruby>回<rt>まわ</rt></ruby>っているとても<ruby>小<rt>ちい</rt></ruby>さな<ruby>星<rt>ほし</rt></ruby>です。<ruby>国際天文学連合<rt>こくさいてんもんがくれんごう</rt></ruby>によると、<span\
+  \ style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>に<span style=\"color:\
+  \ blue;\">ぶつかる</span><ruby>危険<rt>きけん</rt></ruby>がある<ruby>小惑星<rt>しょうわくせい</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>までに１<ruby>万<rt>まん</rt></ruby>６０００<ruby>個<rt>こ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>見<rt>み</rt></ruby>つかっています。２０１３<ruby>年<rt>ねん</rt></ruby>にはロシアに２０ｍぐらいの<ruby>大<rt>おお</rt></ruby>きさの<ruby>小惑星<rt>しょうわくせい</rt></ruby>が<ruby>落<rt>お</rt></ruby>ちて、<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１５００<ruby>人<rt>にん</rt></ruby>がけがをしました。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>で１５<ruby>日<rt>にち</rt></ruby>、<span style=\"color:\
+  \ blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>に<span style=\"color: blue;\">ぶつかる</span><ruby>危険<rt>きけん</rt></ruby>がある<ruby>小惑星<rt>しょうわくせい</rt></ruby>について<span\
+  \ style=\"color: blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う</span><ruby>会議<rt>かいぎ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まりました。２４の<ruby>国<rt>くに</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>の<ruby>研究<rt>けんきゅう</rt></ruby>をしている<ruby>人<rt>ひと</rt></ruby>など<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>２００<ruby>人<rt>にん</rt></ruby>が<ruby>出席<rt>しゅっせき</rt></ruby>しました。</p>\n\
+  <p><ruby>会議<rt>かいぎ</rt></ruby>では、ＪＡＸＡの<ruby>吉川<rt>よしかわ</rt></ruby><ruby>真<rt>まこと</rt></ruby>さんが「<ruby>今<rt>いま</rt></ruby>はアメリカなどが<span\
+  \ style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>に<span style=\"color:\
+  \ blue;\">ぶつかる</span><ruby>危険<rt>きけん</rt></ruby>がある<ruby>小惑星<rt>しょうわくせい</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べていますが、<ruby>十分<rt>じゅうぶん</rt></ruby>ではありません。<ruby>日本<rt>にっぽん</rt></ruby>やアジアの<ruby>国<rt>くに</rt></ruby>もしっかり<ruby>調<rt>しら</rt></ruby>べる<ruby>必要<rt>ひつよう</rt></ruby>があります」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p>この<ruby>会議<rt>かいぎ</rt></ruby>は１９<ruby>日<rt>にち</rt></ruby>までです。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを三六五<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: ぶつかる
+  descriptions:
+  - <ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。
+  - <ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。
+  - <ruby><rb>重</rb><rt>かさ</rt></ruby>なる。
+- word: 話し合う
+  descriptions:
+  - たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。
+  - <ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。
+- word: 太陽
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 宇宙
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。
+web_news_url: /news/web/2017/05/15/小惑星の地球衝突-対策や課題話し合う国際会議始まる/
+source_url: http://www3.nhk.or.jp/news/easy/k10010982311000/k10010982311000.html
+...
