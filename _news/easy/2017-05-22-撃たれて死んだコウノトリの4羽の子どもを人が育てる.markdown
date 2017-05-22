@@ -1,0 +1,61 @@
+---
+layout: easy_news
+categories: easy
+title: 撃たれて死んだコウノトリの４羽の子どもを人が育てる
+title_with_ruby: <ruby>撃<rt>う</rt></ruby>たれて<ruby>死<rt>し</rt></ruby>んだコウノトリの４<ruby>羽<rt>わ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもを<ruby>人<rt>ひと</rt></ruby>が<ruby>育<rt>そだ</rt></ruby>てる
+last_modified_at: '2017-05-22T16:00:00+09:00'
+datetime: 2017年05月22日 16時00分
+description: 島根県しまねけん雲南市うんなんしでは、国くにの特別とくべつ天然記念物てんねんきねんぶつのコウノトリが飛とんできて巣すを作つくりました。
+description_with_ruby: <ruby>島根県<rt>しまねけん</rt></ruby><ruby>雲南市<rt>うんなんし</rt></ruby>では、<ruby>国<rt>くに</rt></ruby>の<ruby>特別<rt>とくべつ</rt></ruby><ruby>天然記念物<rt>てんねんきねんぶつ</rt></ruby>のコウノトリが<ruby>飛<rt>と</rt></ruby>んできて<ruby>巣<rt>す</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/22/k10010989961000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/22/k10010989961000.mp3
+contents: "<p><ruby>島根県<rt>しまねけん</rt></ruby><ruby>雲南市<rt>うんなんし</rt></ruby>では、<ruby>国<rt>くに</rt></ruby>の<ruby>特別<rt>とくべつ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>天然記念物<rt>てんねんきねんぶつ</rt></ruby></span>の<span style=\"\
+  color: blue;\">コウノトリ</span>が<ruby>飛<rt>と</rt></ruby>んできて<span style=\"color: blue;\"\
+  ><ruby>巣<rt>す</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>りました。そして、４<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろに<ruby>子<rt>こ</rt></ruby>どもが４<span\
+  \ style=\"color: blue;\"><ruby>羽<rt>わ</rt></ruby></span><ruby>生<rt>う</rt></ruby>まれました。</p>\n\
+  <p>１９<ruby>日<rt>にち</rt></ruby>、お<ruby>母<rt>かあ</rt></ruby>さんの<span style=\"color:\
+  \ blue;\">コウノトリ</span>がほかの<ruby>鳥<rt>とり</rt></ruby>と<ruby>間違<rt>まちが</rt></ruby>えられて、<span\
+  \ style=\"color: blue;\"><ruby>銃<rt>じゅう</rt></ruby></span>で<span style=\"color:\
+  \ blue;\"><ruby>撃<rt>う</rt></ruby>た</span>れて<ruby>死<rt>し</rt></ruby>にました。そのあとお<ruby>父<rt>とう</rt></ruby>さんが<ruby>子<rt>こ</rt></ruby>どもに<span\
+  \ style=\"color: blue;\"><ruby>餌<rt>えさ</rt></ruby></span>をやっていました。しかし、お<ruby>父<rt>とう</rt></ruby>さんが<span\
+  \ style=\"color: blue;\"><ruby>餌<rt>えさ</rt></ruby></span>を<ruby>取<rt>と</rt></ruby>りに<ruby>行<rt>い</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>巣<rt>す</rt></ruby></span>にいない<ruby>時間<rt>じかん</rt></ruby>が<ruby>長<rt>なが</rt></ruby>くなると、<ruby>子<rt>こ</rt></ruby>どもが<span\
+  \ style=\"color: blue;\"><ruby>弱<rt>よわ</rt></ruby>っ</span>てしまうことがあります。このため、<ruby>雲南市<rt>うんなんし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どもを<span\
+  \ style=\"color: blue;\"><ruby>巣<rt>す</rt></ruby></span>から<ruby>出<rt>だ</rt></ruby>して、<ruby>兵庫県<rt>ひょうごけん</rt></ruby><ruby>豊岡市<rt>とよおかし</rt></ruby>にある「<ruby>県立<rt>けんりつ</rt></ruby>コウノトリの<ruby>郷<rt>さと</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>」で<ruby>人<rt>ひと</rt></ruby>が<ruby>育<rt>そだ</rt></ruby>てることにしました。</p>\n\
+  <p><ruby>雲南市<rt>うんなんし</rt></ruby>の<span style=\"color: blue;\"><ruby>市長<rt>しちょう</rt></ruby></span>は「お<ruby>母<rt>かあ</rt></ruby>さんが<ruby>死<rt>し</rt></ruby>んで<ruby>残念<rt>ざんねん</rt></ruby>ですが、<ruby>子<rt>こ</rt></ruby>どもは<ruby>元気<rt>げんき</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きくなってほしいです」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 撃つ
+  descriptions:
+  - （<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>などを）<ruby><rb>発射</rb><rt>はっしゃ</rt></ruby>する。
+- word: こうのとり
+  descriptions:
+  - ツルに<ruby><rb>似</rb><rt>に</rt></ruby>た、<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>鳥</rb><rt>とり</rt></ruby>。つばさが<ruby><rb>黒</rb><rt>くろ</rt></ruby>く、<ruby><rb>足</rb><rt>あし</rt></ruby>は<ruby><rb>赤</rb><rt>あか</rt></ruby>くて<ruby><rb>長</rb><rt>なが</rt></ruby>い。<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>巣</rb><rt>す</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>る。<ruby><rb>特別天然記念物</rb><rt>とくべつてんねんきねんぶつ</rt></ruby>。
+- word: 羽
+  descriptions:
+  - <ruby><rb>鳥</rb><rt>とり</rt></ruby>やウサギを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 天然記念物
+  descriptions:
+  - <ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>で、だいじにするように<ruby><rb>決</rb><rt>き</rt></ruby>められている、めずらしい<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>や<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>・<ruby><rb>鉱物</rb><rt>こうぶつ</rt></ruby>のこと。<ruby><rb>例</rb><rt>たと</rt></ruby>えば、<ruby><rb>北海道</rb><rt>ほっかいどう</rt></ruby>の<ruby><rb>阿寒湖</rb><rt>あかんこ</rt></ruby>のマリモなど。
+- word: 巣
+  descriptions:
+  - <ruby><rb>鳥</rb><rt>とり</rt></ruby>・<ruby><rb>虫</rb><rt>むし</rt></ruby>・<ruby><rb>魚</rb><rt>さかな</rt></ruby>などのすみか。
+  - （よくない<ruby><rb>者</rb><rt>もの</rt></ruby>が）<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 銃
+  descriptions:
+  - <ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>・ピストルなど、<ruby><rb>弾丸</rb><rt>だんがん</rt></ruby>をうつ<ruby><rb>武器</rb><rt>ぶき</rt></ruby>。
+- word: 餌
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てたり、とらえたりするための<ruby><rb>食物</rb><rt>しょくもつ</rt></ruby>。え。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>をさそいこむためにあたえるもの。
+- word: 弱る
+  descriptions:
+  - <ruby><rb>弱</rb><rt>よわ</rt></ruby>くなる。
+  - <ruby><rb>困</rb><rt>こま</rt></ruby>る。
+- word: 市長
+  descriptions:
+  - <ruby><rb>市</rb><rt>し</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>し、その<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとり<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+web_news_url: /news/web/2017/05/21/コウノトリのヒナ4羽を保護-健康状態は良好-島根-雲南/
+source_url: http://www3.nhk.or.jp/news/easy/k10010989961000/k10010989961000.html
+...
