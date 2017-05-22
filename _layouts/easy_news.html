@@ -2,7 +2,7 @@
 <html>
 {% include head.html %}
 
-<body class="zh_CN mm_appmsg">
+<body onload="onload()" class="zh_CN mm_appmsg">
   <div class="rich_media">
     <div class="rich_media_inner">
       <div>
@@ -15,6 +15,7 @@
           <div class="rich_media_content">
             {% if page.image_url %}
             <p><img data-s="300,640" src="{{ page.image_url }}" data-ratio="0" data-w="640" /></p>
+            <p></p>
             {% endif %}
 
             {{ page.contents }}
@@ -23,7 +24,7 @@
             <p></p>
             <p>
               <audio id="player" src="{{ page.voice_url }}" controls loop autoplay style="width:100%"></audio>
-              <a href="{{ page.voice_url }}" target="_blank" download>ダウンロード</a>
+              <a id="downloadLink" href="{{ page.voice_url }}" target="_blank" download onclick="onDownloadClick()"><img style="height:24px;width:24px;vertical-align:middle" src="{{ "/assets/download.png" | relative_url }}"/> ダウンロード</a>
             </p>
             {% endif %}
             <p></p>
@@ -66,8 +67,5 @@
       </div>
     </div>
   </div>
-  <script>
-  </script>
 </body>
-
 </html>
