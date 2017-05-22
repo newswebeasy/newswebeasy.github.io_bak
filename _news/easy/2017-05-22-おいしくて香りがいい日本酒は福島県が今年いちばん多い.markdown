@@ -1,0 +1,43 @@
+---
+layout: easy_news
+categories: easy
+title: おいしくて香りがいい日本酒は福島県が今年いちばん多い
+title_with_ruby: おいしくて<ruby>香<rt>かお</rt></ruby>りがいい<ruby>日本酒<rt>にほんしゅ</rt></ruby>は<ruby>福島県<rt>ふくしまけん</rt></ruby>が<ruby>今年<rt>ことし</rt></ruby>いちばん<ruby>多<rt>おお</rt></ruby>い
+last_modified_at: '2017-05-22T11:30:00+09:00'
+datetime: 2017年05月22日 11時30分
+description: おいしくて香かおりなどがすばらしい今年ことしの日本酒にほんしゅを決きめる会かいがありました。
+description_with_ruby: おいしくて<ruby>香<rt>かお</rt></ruby>りなどがすばらしい<ruby>今年<rt>ことし</rt></ruby>の<ruby>日本酒<rt>にほんしゅ</rt></ruby>を<ruby>決<rt>き</rt></ruby>める<ruby>会<rt>かい</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/22/k10010986121000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/22/k10010986121000.mp3
+contents: "<p>おいしくて<span style=\"color: blue;\"><ruby>香<rt>かお</rt></ruby>り</span>などがすばらしい<ruby>今年<rt>ことし</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span>を<ruby>決<rt>き</rt></ruby>める<ruby>会<rt>かい</rt></ruby>がありました。<ruby>日本中<rt>にほんじゅう</rt></ruby>から８６０の<span\
+  \ style=\"color: blue;\"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span>が<ruby>集<rt>あつ</rt></ruby>まりました。</p>\n\
+  <p><ruby>特<rt>とく</rt></ruby>にすばらしい<span style=\"color: blue;\"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span>は「<ruby>金賞<rt>きんしょう</rt></ruby>」という<span\
+  \ style=\"color: blue;\"><ruby>賞<rt>しょう</rt></ruby></span>をもらいます。<ruby>福島県<rt>ふくしまけん</rt></ruby>は２２の<ruby>酒<rt>さけ</rt></ruby>が<ruby>金賞<rt>きんしょう</rt></ruby>をもらって、５<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>日本<rt>にっぽん</rt></ruby>でいちばん<ruby>多<rt>おお</rt></ruby>くなりました。<ruby>次<rt>つぎ</rt></ruby>は<ruby>宮城県<rt>みやぎけん</rt></ruby>で２０の<ruby>酒<rt>さけ</rt></ruby>、その<ruby>次<rt>つぎ</rt></ruby>は<ruby>秋田県<rt>あきたけん</rt></ruby>で１６の<ruby>酒<rt>さけ</rt></ruby>が<ruby>金賞<rt>きんしょう</rt></ruby>をもらいました。<ruby>福島県<rt>ふくしまけん</rt></ruby>によると、<ruby>今<rt>いま</rt></ruby>までに５<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けていちばんになったのは<ruby>広島県<rt>ひろしまけん</rt></ruby>と<ruby>福島県<rt>ふくしまけん</rt></ruby>だけです。</p>\n\
+  <p><ruby>福島県<rt>ふくしまけん</rt></ruby>の<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>や<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>は、２０１１<ruby>年<rt>ねん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>原子力<rt>げんしりょく</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>発電所<rt>はつでんしょ</rt></ruby></span>の<ruby>事故<rt>じこ</rt></ruby>があったため、<ruby>安全<rt>あんぜん</rt></ruby>ではないと<ruby>思<rt>おも</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>がいます。<ruby>福島県<rt>ふくしまけん</rt></ruby>は、<ruby>県<rt>けん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span>が<ruby>安全<rt>あんぜん</rt></ruby>でおいしいことを<ruby>日本<rt>にっぽん</rt></ruby>や<ruby>外国<rt>がいこく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちにもっと<ruby>知<rt>し</rt></ruby>ってほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 香り
+  descriptions:
+  - いいにおい。
+  - そのものから<ruby><rb>感</rb><rt>かん</rt></ruby>じられる<ruby><rb>品</rb><rt>ひん</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>さ。
+- word: 日本酒
+  descriptions:
+  - <ruby><rb>米</rb><rt>こめ</rt></ruby>から<ruby><rb>造</rb><rt>つく</rt></ruby>る、<ruby><rb>日本特有</rb><rt>にっぽんとくゆう</rt></ruby>の<ruby><rb>酒</rb><rt>さけ</rt></ruby>。<ruby><rb>清酒</rb><rt>せいしゅ</rt></ruby>。
+- word: 賞
+  descriptions:
+  - ほめる。たたえる。
+  - ほうび。
+  - <ruby><rb>味</rb><rt>あじ</rt></ruby>わって<ruby><rb>楽</rb><rt>たの</rt></ruby>しむ。
+- word: 原子力
+  descriptions:
+  - <ruby><rb>原子核</rb><rt>げんしかく</rt></ruby>がこわれたり（<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>）、とけあったり（<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>）するときに<ruby><rb>出</rb><rt>で</rt></ruby>る、ものすごく<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>。<ruby><rb>原子</rb><rt>げんし</rt></ruby>エネルギー。
+- word: 発電所
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+web_news_url: /news/web/2017/05/18/新酒鑑評会-福島県が金賞数で5年連続日本一/
+source_url: http://www3.nhk.or.jp/news/easy/k10010986121000/k10010986121000.html
+...
