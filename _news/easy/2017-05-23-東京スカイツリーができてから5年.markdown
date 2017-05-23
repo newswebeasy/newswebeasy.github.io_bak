@@ -1,0 +1,34 @@
+---
+layout: easy_news
+categories: easy
+title: 東京スカイツリーができてから５年
+title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>スカイツリーができてから５<ruby>年<rt>ねん</rt></ruby>
+last_modified_at: '2017-05-23T15:45:00+09:00'
+datetime: 2017年05月23日 15時45分
+description: 東京都とうきょうと墨田区すみだくに「東京とうきょうスカイツリー」ができてから、５月がつ２２日にちで５年ねんになりました。
+description_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby><ruby>墨田区<rt>すみだく</rt></ruby>に「<ruby>東京<rt>とうきょう</rt></ruby>スカイツリー」ができてから、５<ruby>月<rt>がつ</rt></ruby>２２<ruby>日<rt>にち</rt></ruby>で５<ruby>年<rt>ねん</rt></ruby>になりました。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/23/k10010990591000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/23/k10010990591000.mp3
+contents: "<p><ruby>東京都<rt>とうきょうと</rt></ruby><ruby>墨田区<rt>すみだく</rt></ruby>に「<ruby>東京<rt>とうきょう</rt></ruby>スカイツリー」ができてから、５<ruby>月<rt>がつ</rt></ruby>２２<ruby>日<rt>にち</rt></ruby>で５<ruby>年<rt>ねん</rt></ruby>になりました。<ruby>東京<rt>とうきょう</rt></ruby>スカイツリーは<ruby>高<rt>たか</rt></ruby>さが６３４ｍの<span\
+  \ style=\"color: blue;\">タワー</span>で、<ruby>景色<rt>けしき</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむことができる<span\
+  \ style=\"color: blue;\"><ruby>展望台<rt>てんぼうだい</rt></ruby></span>などがあります。</p>\n<p><ruby>今<rt>いま</rt></ruby>までの５<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>スカイツリーに<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は２７００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>です。<ruby>最近<rt>さいきん</rt></ruby>は<ruby>外国人<rt>がいこくじん</rt></ruby>も<ruby>大勢<rt>おおぜい</rt></ruby><ruby>来<rt>き</rt></ruby>ています。</p>\n\
+  <p>２２<ruby>日<rt>にち</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は、<ruby>東京<rt>とうきょう</rt></ruby>スカイツリーや<span\
+  \ style=\"color: blue;\"><ruby>富士山<rt>ふじさん</rt></ruby></span>などの<ruby>絵<rt>え</rt></ruby>があるハンカチをもらいました。５<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の５<ruby>月<rt>がつ</rt></ruby>２２<ruby>日<rt>にち</rt></ruby>に<ruby>結婚<rt>けっこん</rt></ruby>して、<ruby>東京<rt>とうきょう</rt></ruby>スカイツリーの<ruby>前<rt>まえ</rt></ruby>で<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ったという<span\
+  \ style=\"color: blue;\"><ruby>夫婦<rt>ふうふ</rt></ruby></span>も、<ruby>子<rt>こ</rt></ruby>どもを<ruby>連<rt>つ</rt></ruby>れて３<ruby>人<rt>にん</rt></ruby>で<ruby>来<rt>き</rt></ruby>ていました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: タワー
+  descriptions:
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。<ruby><rb>塔</rb><rt>とう</rt></ruby>。
+- word: 展望台
+  descriptions:
+  - <ruby><rb>周囲</rb><rt>しゅうい</rt></ruby>をよく<ruby><rb>見</rb><rt>み</rt></ruby>わたすことのできる<ruby><rb>高台</rb><rt>たかだい</rt></ruby>。<ruby><rb>見晴</rb><rt>みは</rt></ruby>らし<ruby><rb>台</rb><rt>だい</rt></ruby>。
+- word: 富士山
+  descriptions:
+  - <ruby><rb>静岡県</rb><rt>しずおかけん</rt></ruby>と<ruby><rb>山梨県</rb><rt>やまなしけん</rt></ruby>の<ruby><rb>境</rb><rt>さかい</rt></ruby>にある、<ruby><rb>日本一</rb><rt>にっぽんいち</rt></ruby><ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>山</rb><rt>やま</rt></ruby>。<ruby><rb>高</rb><rt>たか</rt></ruby>さは三七七六メートル。<ruby><rb>江戸時代</rb><rt>えどじだい</rt></ruby>に<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>噴火</rb><rt>ふんか</rt></ruby>があった。
+- word: 夫婦
+  descriptions:
+  - <ruby><rb>結婚</rb><rt>けっこん</rt></ruby>している<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>と<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>夫</rb><rt>おっと</rt></ruby>と<ruby><rb>妻</rb><rt>つま</rt></ruby>。
+web_news_url: /news/web/2017/05/22/東京スカイツリー-開業から5年で記念イベント/
+source_url: http://www3.nhk.or.jp/news/easy/k10010990591000/k10010990591000.html
+...
