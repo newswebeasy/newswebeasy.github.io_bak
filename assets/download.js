@@ -40,7 +40,7 @@ function loadStyleText(cssText) {
   var head = document.getElementsByTagName("head")[0];
   head.appendChild(style);
 }
-var cssText = "#weixin-tip{position: fixed; left:0; top:0; background: rgba(0,0,0,0.7); filter:alpha(opacity=70); width: 100%; height:100%; z-index: 100;} #weixin-tip p{text-align: center; margin-top: 10%; padding:0 5%;} #weixin-tip img{max-width: 100%;}";
+var cssText = "#weixin-tip{position: fixed; left:0; top:0; background: rgba(0,0,0,0.7); filter:alpha(opacity=70); width: 100%; height:100%; z-index: 2147483647;} #weixin-tip p{text-align: center; margin-top: 10%; padding:0 5%;} #weixin-tip img{max-width: 100%;}";
 
 function onDownloadClick() {
   if (isWechat() && isAndroid()) {
