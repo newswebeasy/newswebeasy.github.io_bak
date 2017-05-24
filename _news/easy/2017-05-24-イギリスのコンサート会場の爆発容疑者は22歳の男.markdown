@@ -1,0 +1,54 @@
+---
+layout: easy_news
+categories: easy
+title: イギリスのコンサート会場の爆発「容疑者は２２歳の男」
+title_with_ruby: イギリスのコンサート<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>爆発<rt>ばくはつ</rt></ruby>「<ruby>容疑者<rt>ようぎしゃ</rt></ruby>は２２<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>」
+last_modified_at: '2017-05-24T16:00:00+09:00'
+datetime: 2017年05月24日 16時00分
+description: イギリスのマンチェスターで２２日にち、コンサートが終おわったばかりの会場かいじょうの近ちかくで爆発ばくはつがあって、２２人にんが亡なくなりました。
+description_with_ruby: イギリスのマンチェスターで２２<ruby>日<rt>にち</rt></ruby>、コンサートが<ruby>終<rt>お</rt></ruby>わったばかりの<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くで<ruby>爆発<rt>ばくはつ</rt></ruby>があって、２２<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。
+image_url: https://newswebeasy.github.io/ja201705/news/easy/image/2017/05/24/k10010992911000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/24/k10010992911000.mp3
+contents: "<p>イギリスのマンチェスターで２２<ruby>日<rt>にち</rt></ruby>、コンサートが<ruby>終<rt>お</rt></ruby>わったばかりの<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くで<span\
+  \ style=\"color: blue;\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>があって、２２<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。この<ruby>中<rt>なか</rt></ruby>には８<ruby>歳<rt>さい</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>もいました。２３<ruby>日<rt>にち</rt></ruby>には、マンチェスターの<span\
+  \ style=\"color: blue;\"><ruby>広場<rt>ひろば</rt></ruby></span>にたくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まって、<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>のために<ruby>祈<rt>いの</rt></ruby>りました。</p>\n\
+  <p><ruby>警察<rt>けいさつ</rt></ruby>は、２２<ruby>歳<rt>さい</rt></ruby>のサルマン・アベディ<span style=\"\
+  color: blue;\"><ruby>容疑者<rt>ようぎしゃ</rt></ruby></span>が<ruby>持<rt>も</rt></ruby>っていた<span\
+  \ style=\"color: blue;\"><ruby>爆弾<rt>ばくだん</rt></ruby></span>で<span style=\"color:\
+  \ blue;\">テロ</span>を<span style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こし</span>たと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p>イギリスのテレビなどによると、アベディ<span style=\"color: blue;\"><ruby>容疑者<rt>ようぎしゃ</rt></ruby></span>はイギリスで<ruby>生<rt>う</rt></ruby>まれて、マンチェスターに<ruby>住<rt>す</rt></ruby>んでいました。<ruby>両親<rt>りょうしん</rt></ruby>は<ruby>北<rt>きた</rt></ruby>アフリカのリビアからイギリスに<ruby>来<rt>き</rt></ruby>ました。</p>\n\
+  <p><ruby>世界中<rt>せかいじゅう</rt></ruby>で<span style=\"color: blue;\">テロ</span>を<span\
+  \ style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こし</span>ているＩＳ＝イスラミックステートはインターネットで「ＩＳの<span\
+  \ style=\"color: blue;\">メンバー</span>が<span style=\"color: blue;\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>を<span\
+  \ style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こし</span>た」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 爆発
+  descriptions:
+  - <ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>破裂</rb><rt>はれつ</rt></ruby>すること。
+  - おさえていた<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが、<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>出</rb><rt>で</rt></ruby>ること。
+- word: 容疑者
+  descriptions:
+  - <ruby><rb>罪</rb><rt>つみ</rt></ruby>をおかした<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 広場
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まれる、<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: 爆弾
+  descriptions:
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>火薬</rb><rt>かやく</rt></ruby>をつめて、<ruby><rb>投</rb><rt>な</rt></ruby>げたり<ruby><rb>落</rb><rt>お</rt></ruby>としたりして<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>させる<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。
+- word: テロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: 起こす
+  descriptions:
+  - （<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。
+  - <ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。
+  - （<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。
+  - ほりかえす。
+- word: メンバー
+  descriptions:
+  - ある<ruby><rb>会</rb><rt>かい</rt></ruby>や<ruby><rb>仲間</rb><rt>なかま</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>会員</rb><rt>かいいん</rt></ruby>。
+web_news_url: /news/web/2017/05/24/英コンサートのテロ事件-容疑者の男を特定/
+source_url: http://www3.nhk.or.jp/news/easy/k10010992911000/k10010992911000.html
+...
