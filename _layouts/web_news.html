@@ -16,7 +16,6 @@
             {% if page.movie_url %}
             <p>
               <video id="player" src="{{ page.movie_url }}" controls loop autoplay></video>
-              <a id="downloadLink" href="{{ page.movie_url }}" target="_blank" download onclick="onDownloadClick()"><img style="height:24px;width:24px;vertical-align:middle" src="{{ "/assets/download.png" | relative_url }}"/> ダウンロード</a>
             </p>
             <p></p>
             {% endif %}
