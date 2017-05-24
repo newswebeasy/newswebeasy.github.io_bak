@@ -1,0 +1,42 @@
+---
+layout: easy_news
+categories: easy
+title: 皇居の建物の歴史などを外国語で説明するアプリ
+title_with_ruby: <ruby>皇居<rt>こうきょ</rt></ruby>の<ruby>建物<rt>たてもの</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>などを<ruby>外国語<rt>がいこくご</rt></ruby>で<ruby>説明<rt>せつめい</rt></ruby>するアプリ
+last_modified_at: '2017-05-24T11:30:00+09:00'
+datetime: 2017年05月24日 11時30分
+description: 東京都とうきょうと千代田区ちよだくにある皇居こうきょでは、歴史れきしがある建物たてものなどを見みたり広ひろい庭にわを散歩さんぽしたりすることができます。
+description_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby><ruby>千代田区<rt>ちよだく</rt></ruby>にある<ruby>皇居<rt>こうきょ</rt></ruby>では、<ruby>歴史<rt>れきし</rt></ruby>がある<ruby>建物<rt>たてもの</rt></ruby>などを<ruby>見<rt>み</rt></ruby>たり<ruby>広<rt>ひろ</rt></ruby>い<ruby>庭<rt>にわ</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>したりすることができます。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/24/k10010991371000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/24/k10010991371000.mp3
+contents: "<p><ruby>東京都<rt>とうきょうと</rt></ruby><ruby>千代田区<rt>ちよだく</rt></ruby>にある<span\
+  \ style=\"color: blue;\"><ruby>皇居<rt>こうきょ</rt></ruby></span>では、<ruby>歴史<rt>れきし</rt></ruby>がある<ruby>建物<rt>たてもの</rt></ruby>などを<ruby>見<rt>み</rt></ruby>たり<ruby>広<rt>ひろ</rt></ruby>い<ruby>庭<rt>にわ</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>したりすることができます。<span\
+  \ style=\"color: blue;\"><ruby>皇居<rt>こうきょ</rt></ruby></span>に<ruby>来<rt>く</rt></ruby>る<ruby>外国人<rt>がいこくじん</rt></ruby>は<ruby>増<rt>ふ</rt></ruby>えていて、<ruby>今年<rt>ことし</rt></ruby>は４<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまでに２<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>来<rt>き</rt></ruby>ました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>宮内庁<rt>くないちょう</rt></ruby></span>は、<span style=\"\
+  color: blue;\"><ruby>皇居<rt>こうきょ</rt></ruby></span>の<ruby>建物<rt>たてもの</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>などを<ruby>日本語<rt>にほんご</rt></ruby>と<ruby>外国語<rt>がいこくご</rt></ruby>で<ruby>説明<rt>せつめい</rt></ruby>するスマートフォンのアプリを<ruby>作<rt>つく</rt></ruby>りました。<ruby>外国語<rt>がいこくご</rt></ruby>は<ruby>英語<rt>えいご</rt></ruby>、<ruby>中国語<rt>ちゅうごくご</rt></ruby>、<ruby>韓国語<rt>かんこくご</rt></ruby>、フランス<ruby>語<rt>ご</rt></ruby>、スペイン<ruby>語<rt>ご</rt></ruby>の５つです。</p>\n\
+  <p>アプリの<ruby>地図<rt>ちず</rt></ruby>では<span style=\"color: blue;\"><ruby>皇居<rt>こうきょ</rt></ruby></span>の<ruby>建物<rt>たてもの</rt></ruby>などの<ruby>番号<rt>ばんごう</rt></ruby>が<ruby>出<rt>で</rt></ruby>ます。<ruby>番号<rt>ばんごう</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶと、<ruby>説明<rt>せつめい</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んだり<ruby>聞<rt>き</rt></ruby>いたりすることができます。<ruby>昔<rt>むかし</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>天皇<rt>てんのう</rt></ruby></span>が<ruby>住<rt>す</rt></ruby>んでいた<ruby>京都<rt>きょうと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>御所<rt>ごしょ</rt></ruby></span>の<ruby>建物<rt>たてもの</rt></ruby>などの<ruby>説明<rt>せつめい</rt></ruby>もあります。このアプリは<span\
+  \ style=\"color: blue;\"><ruby>無料<rt>むりょう</rt></ruby></span>で、インターネットでスマートフォンに<ruby>入<rt>い</rt></ruby>れることができます。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>皇居<rt>こうきょ</rt></ruby></span>に<ruby>来<rt>き</rt></ruby>ていたインド<ruby>人<rt>じん</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>皇居<rt>こうきょ</rt></ruby></span>をよく<ruby>知<rt>し</rt></ruby>るためにはとても<ruby>使<rt>つか</rt></ruby>いやすいアプリだと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 皇居
+  descriptions:
+  - <ruby><rb>天皇</rb><rt>てんのう</rt></ruby>の<ruby><rb>住</rb><rt>す</rt></ruby>まい。<ruby><rb>宮城</rb><rt>きゅうじょう</rt></ruby>。
+- word: 宮内庁
+  descriptions:
+  - <ruby><rb>皇室</rb><rt>こうしつ</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>事務</rb><rt>じむ</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 天皇
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>象徴</rb><rt>しょうちょう</rt></ruby>としてあおがれている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 御所
+  descriptions:
+  - <ruby><rb>天皇</rb><rt>てんのう</rt></ruby>や<ruby><rb>皇族</rb><rt>こうぞく</rt></ruby>の<ruby><rb>住</rb><rt>す</rt></ruby>まい。
+- word: 無料
+  descriptions:
+  - <ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。
+web_news_url: /news/web/2017/05/23/皇居の史跡など多言語で解説-外国人向けアプリ/
+source_url: http://www3.nhk.or.jp/news/easy/k10010991371000/k10010991371000.html
+...
