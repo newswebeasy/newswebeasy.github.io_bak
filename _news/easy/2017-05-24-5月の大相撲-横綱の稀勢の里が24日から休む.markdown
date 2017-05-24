@@ -1,0 +1,70 @@
+---
+layout: easy_news
+categories: easy
+title: ５月の大相撲　横綱の稀勢の里が２４日から休む
+title_with_ruby: ５<ruby>月<rt>がつ</rt></ruby>の<ruby>大相撲<rt>おおずもう</rt></ruby>　<ruby>横綱<rt>よこづな</rt></ruby>の<ruby>稀勢<rt>きせ</rt></ruby>の<ruby>里<rt>さと</rt></ruby>が<ruby>２４日<rt>にじゅうよっか</rt></ruby>から<ruby>休<rt>やす</rt></ruby>む
+last_modified_at: '2017-05-24T16:00:00+09:00'
+datetime: 2017年05月24日 16時00分
+description: 東京とうきょうで１４日じゅうよっかから２８日にちまで大相撲おおずもうを行おこなっています。
+description_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>で<ruby>１４日<rt>じゅうよっか</rt></ruby>から２８<ruby>日<rt>にち</rt></ruby>まで<ruby>大相撲<rt>おおずもう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/24/k10010993031000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/24/k10010993031000.mp3
+contents: "<p><ruby>東京<rt>とうきょう</rt></ruby>で<ruby>１４日<rt>じゅうよっか</rt></ruby>から２８<ruby>日<rt>にち</rt></ruby>まで<span\
+  \ style=\"color: blue;\"><ruby>大相撲<rt>おおずもう</rt></ruby></span>を<ruby>行<rt>おこな</rt></ruby>っています。<span\
+  \ style=\"color: blue;\"><ruby>横綱<rt>よこづな</rt></ruby></span>の<ruby>稀勢<rt>きせ</rt></ruby>の<ruby>里<rt>さと</rt></ruby>が、<ruby>２４日<rt>にじゅうよっか</rt></ruby>から<ruby>休<rt>やす</rt></ruby>むことになりました。</p>\n\
+  <p><ruby>稀勢<rt>きせ</rt></ruby>の<ruby>里<rt>さと</rt></ruby>は、３<ruby>月<rt>がつ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>大相撲<rt>おおずもう</rt></ruby></span>の<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>左<rt>ひだり</rt></ruby>の<ruby>腕<rt>うで</rt></ruby>などにけがをしましたが、<span\
+  \ style=\"color: blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。４<ruby>月<rt>がつ</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>力士<rt>りきし</rt></ruby></span>がいろいろな<ruby>町<rt>まち</rt></ruby>へ<ruby>行<rt>い</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>相撲<rt>すもう</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>せる「<ruby>巡業<rt>じゅんぎょう</rt></ruby>」がありましたが、<ruby>稀勢<rt>きせ</rt></ruby>の<ruby>里<rt>さと</rt></ruby>はけがを<span\
+  \ style=\"color: blue;\"><ruby>治<rt>なお</rt></ruby>す</span>ために<ruby>休<rt>やす</rt></ruby>んでいました。そして５<ruby>月<rt>がつ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>大相撲<rt>おおずもう</rt></ruby></span>に<ruby>出<rt>で</rt></ruby>ましたが、１０<ruby>回<rt>かい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>戦<rt>たたか</rt></ruby>っ</span>て４<ruby>回<rt>かい</rt></ruby><ruby>負<rt>ま</rt></ruby>けました。</p>\n\
+  <p><ruby>稀勢<rt>きせ</rt></ruby>の<ruby>里<rt>さと</rt></ruby>の<ruby>医者<rt>いしゃ</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>胸<rt>むね</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>筋肉<rt>きんにく</rt></ruby></span>などのけがで１か<ruby>月<rt>げつ</rt></ruby>ぐらい<span style=\"\
+  color: blue;\"><ruby>治療<rt>ちりょう</rt></ruby></span>が<ruby>必要<rt>ひつよう</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>家族<rt>かぞく</rt></ruby>で<span style=\"color: blue;\"><ruby>大相撲<rt>おおずもう</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>残念<rt>ざんねん</rt></ruby>ですが、<ruby>早<rt>はや</rt></ruby>く<ruby>元気<rt>げんき</rt></ruby>になって<ruby>次<rt>つぎ</rt></ruby>の７<ruby>月<rt>がつ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>大相撲<rt>おおずもう</rt></ruby></span>に<ruby>出<rt>で</rt></ruby>てほしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大相撲
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>が<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>専門</rb><rt>せんもん</rt></ruby>の<ruby><rb>力士</rb><rt>りきし</rt></ruby>による<ruby><rb>相撲</rb><rt>すもう</rt></ruby>。
+  - <ruby><rb>相撲</rb><rt>すもう</rt></ruby>で、なかなか<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けの<ruby><rb>決</rb><rt>き</rt></ruby>まらない<ruby><rb>力</rb><rt>ちから</rt></ruby>の<ruby><rb>入</rb><rt>はい</rt></ruby>った<ruby><rb>取組</rb><rt>とりくみ</rt></ruby>。
+- word: 横綱
+  descriptions:
+  - すもうの<ruby><rb>番付</rb><rt>ばんづけ</rt></ruby>で、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>位</rb><rt>くらい</rt></ruby>。また、その<ruby><rb>力士</rb><rt>りきし</rt></ruby>。
+  - 「<span class="dic_sansyogogi">1)</span>」が<ruby><rb>土俵入</rb><rt>どひょうい</rt></ruby>りのときに、<ruby><rb>腰</rb><rt>こし</rt></ruby>にしめる<ruby><rb>太</rb><rt>ふと</rt></ruby>いつな。
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>でいちばんすぐれている<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 優勝
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>などで、<ruby><rb>一位</rb><rt>いちい</rt></ruby>で<ruby><rb>勝</rb><rt>か</rt></ruby>つこと。
+- word: 力士
+  descriptions:
+  - すもうをとることを<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。すもうとり。
+- word: 相撲
+  descriptions:
+  - <ruby><rb>土俵</rb><rt>どひょう</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>で、<ruby><rb>二人</rb><rt>ふたり</rt></ruby>が<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>組</rb><rt>く</rt></ruby>み、<ruby><rb>相手</rb><rt>あいて</rt></ruby>をたおすか、<ruby><rb>外</rb><rt>そと</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>すかして<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。<ruby><rb>国技</rb><rt>こくぎ</rt></ruby>とされる。
+- word: 治す
+  descriptions:
+  - <ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがをよくする。
+- word: 戦う
+  descriptions:
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>をする。
+  - わざを<ruby><rb>比</rb><rt>くら</rt></ruby>べて、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める。
+- word: 胸
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>で、<ruby><rb>首</rb><rt>くび</rt></ruby>と<ruby><rb>腹</rb><rt>はら</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>。<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>。
+  - <ruby><rb>心臓</rb><rt>しんぞう</rt></ruby>。
+  - <ruby><rb>肺</rb><rt>はい</rt></ruby>。
+- word: 筋肉
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かすはたらきをする、<ruby><rb>細</rb><rt>ほそ</rt></ruby>い<ruby><rb>筋</rb><rt>すじ</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まってできているもの。<ruby><rb>骨</rb><rt>ほね</rt></ruby>につながっているものと、<ruby><rb>内臓</rb><rt>ないぞう</rt></ruby>のかべを<ruby><rb>作</rb><rt>つく</rt></ruby>っているものとがある。
+- word: 治療
+  descriptions:
+  - <ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがの<ruby><rb>手当</rb><rt>てあ</rt></ruby>てをして<ruby><rb>治</rb><rt>なお</rt></ruby>すこと。
+web_news_url: /news/web/2017/05/24/稀勢の里が夏場所休場/
+source_url: http://www3.nhk.or.jp/news/easy/k10010993031000/k10010993031000.html
+...
