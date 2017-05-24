@@ -1,0 +1,48 @@
+---
+layout: easy_news
+categories: easy
+title: 口が大きい「メガマウス」というサメが千葉県で見つかる
+title_with_ruby: <ruby>口<rt>くち</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きい「メガマウス」というサメが<ruby>千葉県<rt>ちばけん</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかる
+last_modified_at: '2017-05-24T11:30:00+09:00'
+datetime: 2017年05月24日 11時30分
+description: 千葉県ちばけん館山たてやま市しの海うみで２２日にちの朝あさ、「メガマウス」と呼よばれている大おおきなサメが見みつかりました。
+description_with_ruby: <ruby>千葉県<rt>ちばけん</rt></ruby><ruby>館山<rt>たてやま</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で２２<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、「メガマウス」と<ruby>呼<rt>よ</rt></ruby>ばれている<ruby>大<rt>おお</rt></ruby>きなサメが<ruby>見<rt>み</rt></ruby>つかりました。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/24/k10010992101000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/24/k10010992101000.mp3
+contents: "<p><ruby>千葉県<rt>ちばけん</rt></ruby><ruby>館山<rt>たてやま</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で２２<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、「メガマウス」と<ruby>呼<rt>よ</rt></ruby>ばれている<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\">サメ</span>が<ruby>見<rt>み</rt></ruby>つかりました。メガマウスは<ruby>口<rt>くち</rt></ruby>がとても<ruby>大<rt>おお</rt></ruby>きくて、<span\
+  \ style=\"color: blue;\"><ruby>太平洋<rt>たいへいよう</rt></ruby></span>や<span style=\"color:\
+  \ blue;\">インド<ruby>洋<rt>よう</rt></ruby></span>などの<ruby>深<rt>ふか</rt></ruby>い<ruby>海<rt>うみ</rt></ruby>にいます。</p>\n\
+  <p><ruby>見<rt>み</rt></ruby>つかったメガマウスは５mぐらいの<ruby>大<rt>おお</rt></ruby>きさで、<ruby>海岸<rt>かいがん</rt></ruby>から１ｋmぐらいの<ruby>所<rt>ところ</rt></ruby>で<ruby>魚<rt>さかな</rt></ruby>をとるための<span\
+  \ style=\"color: blue;\"><ruby>網<rt>あみ</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っていました。<ruby>館山<rt>たてやま</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が、メガマウスを<span\
+  \ style=\"color: blue;\"><ruby>生<rt>い</rt></ruby>けす</span>に<ruby>入<rt>い</rt></ruby>れて<span\
+  \ style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>っ</span>ていましたが、２３<ruby>日<rt>にち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>、<ruby>死<rt>し</rt></ruby>んだことがわかりました。</p>\n\
+  <p>メガマウスは<ruby>何<rt>なん</rt></ruby><ruby>歳<rt>さい</rt></ruby>まで<ruby>生<rt>い</rt></ruby>きるかなど、よくわかっていないことが<ruby>多<rt>おお</rt></ruby>いため、<span\
+  \ style=\"color: blue;\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>などがたくさん<ruby>見<rt>み</rt></ruby>にきていました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 鮫
+  descriptions:
+  - <ruby><rb>暖</rb><rt>あたた</rt></ruby>かな<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>口</rb><rt>くち</rt></ruby>が<ruby><rb>横</rb><rt>よこ</rt></ruby>にさけ、するどい<ruby><rb>歯</rb><rt>は</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ。ネコザメ・シュモクザメ・ジンベイザメなど。
+- word: 太平洋
+  descriptions:
+  - アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: インド洋
+  descriptions:
+  - アジア・アフリカ・オーストラリア・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: 網
+  descriptions:
+  - <ruby><rb>糸</rb><rt>いと</rt></ruby>や<ruby><rb>針金</rb><rt>はりがね</rt></ruby>などで、<ruby><rb>目</rb><rt>め</rt></ruby>をあらく<ruby><rb>編</rb><rt>あ</rt></ruby>んだもの。<ruby><rb>虫</rb><rt>むし</rt></ruby>や<ruby><rb>魚</rb><rt>さかな</rt></ruby>・けものなどをとるのに<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+- word: 生けす
+  descriptions:
+  - とってきた<ruby><rb>魚</rb><rt>さかな</rt></ruby>を、<ruby><rb>海</rb><rt>うみ</rt></ruby>や<ruby><rb>川</rb><rt>かわ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>って<ruby><rb>生</rb><rt>い</rt></ruby>かしておく<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 水族館
+  descriptions:
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>にすむ<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>め、ガラス<ruby><rb>張</rb><rt>ば</rt></ruby>りの<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>水槽</rb><rt>すいそう</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れて、<ruby><rb>生</rb><rt>い</rt></ruby>きたままのようすを<ruby><rb>見</rb><rt>み</rt></ruby>せるようにした<ruby><rb>所</rb><rt>ところ</rt></ruby>。すいぞっかん。
+web_news_url: /news/web/2017/05/23/保護のメガマウス死ぬ-千葉-館山/
+source_url: http://www3.nhk.or.jp/news/easy/k10010992101000/k10010992101000.html
+...
