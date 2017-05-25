@@ -1,0 +1,49 @@
+---
+layout: easy_news
+newsid: k10010992841000
+categories: easy
+title: 深い海を調べるレースに出る日本の機械のテストをする
+title_with_ruby: <ruby>深<rt>ふか</rt></ruby>い<ruby>海<rt>うみ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるレースに<ruby>出<rt>で</rt></ruby>る<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>機械<rt>きかい</rt></ruby>のテストをする
+last_modified_at: '2017-05-25T11:30:00+09:00'
+datetime: 2017年05月25日 11時30分
+description: 世界せかいの２１のチームが深ふかい海うみの底そこを早はやく正ただしく調しらべるレースが９月がつにあります。
+description_with_ruby: <ruby>世界<rt>せかい</rt></ruby>の２１のチームが<ruby>深<rt>ふか</rt></ruby>い<ruby>海<rt>うみ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>を<ruby>早<rt>はや</rt></ruby>く<ruby>正<rt>ただ</rt></ruby>しく<ruby>調<rt>しら</rt></ruby>べるレースが９<ruby>月<rt>がつ</rt></ruby>にあります。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/25/k10010992841000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/25/k10010992841000.mp3
+contents: "<p><ruby>世界<rt>せかい</rt></ruby>の２１の<span style=\"color: blue;\">チーム</span>が<ruby>深<rt>ふか</rt></ruby>い<ruby>海<rt>うみ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>底<rt>そこ</rt></ruby></span>を<ruby>早<rt>はや</rt></ruby>く<ruby>正<rt>ただ</rt></ruby>しく<ruby>調<rt>しら</rt></ruby>べる<span\
+  \ style=\"color: blue;\">レース</span>が９<ruby>月<rt>がつ</rt></ruby>にあります。<ruby>日本<rt>にっぽん</rt></ruby>からは、<ruby>海洋研究開発機構<rt>かいようけんきゅうかいはつきこう</rt></ruby>などがつくった「ＫＵＲＯＳＨＩＯ」という<span\
+  \ style=\"color: blue;\">チーム</span>が<ruby>出<rt>で</rt></ruby>ます。</p>\n<p>２３<ruby>日<rt>にち</rt></ruby>、<ruby>静岡県<rt>しずおかけん</rt></ruby><ruby>沼津市<rt>ぬまづし</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で、<span\
+  \ style=\"color: blue;\">レース</span>のためにつくった<ruby>機械<rt>きかい</rt></ruby>のテストをしました。この<ruby>機械<rt>きかい</rt></ruby>には<span\
+  \ style=\"color: blue;\">センサー</span>などがあって、<ruby>海<rt>うみ</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>底<rt>そこ</rt></ruby></span>にある<ruby>物<rt>もの</rt></ruby>や<ruby>水<rt>みず</rt></ruby>の<ruby>動<rt>うご</rt></ruby>き<ruby>方<rt>かた</rt></ruby>がわかります。そして、どのように<ruby>進<rt>すす</rt></ruby>んだらいいかを<ruby>機械<rt>きかい</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>えながら、<ruby>海<rt>うみ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>底<rt>そこ</rt></ruby></span>の<ruby>形<rt>かたち</rt></ruby>などを<ruby>調<rt>しら</rt></ruby>べます。テストでは、<ruby>深<rt>ふか</rt></ruby>さ２００ｍぐらいの<ruby>海<rt>うみ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>底<rt>そこ</rt></ruby></span>を<ruby>正<rt>ただ</rt></ruby>しく<ruby>調<rt>しら</rt></ruby>べることができるかチェックしました。</p>\n\
+  <p><span style=\"color: blue;\">レース</span>では、<ruby>深<rt>ふか</rt></ruby>さ２０００ｍの<ruby>所<rt>ところ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べて、１６<ruby>時間<rt>じかん</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>海<rt>うみ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>底<rt>そこ</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>詳<rt>くわ</rt></ruby>しい</span><ruby>地図<rt>ちず</rt></ruby>をつくります。<span style=\"\
+  color: blue;\">チーム</span>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>何<rt>なん</rt></ruby><ruby>回<rt>かい</rt></ruby>もテストをして、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>高<rt>たか</rt></ruby>い<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>世界<rt>せかい</rt></ruby>に<ruby>見<rt>み</rt></ruby>せたいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: レース
+  descriptions:
+  - <ruby><rb>競走</rb><rt>きょうそう</rt></ruby>・<ruby><rb>競泳</rb><rt>きょうえい</rt></ruby>などの<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+  - <ruby><rb>競争</rb><rt>きょうそう</rt></ruby>。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 底
+  descriptions:
+  - くぼんだ<ruby><rb>物</rb><rt>もの</rt></ruby>のいちばん<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - いちばんおく<ruby><rb>深</rb><rt>ふか</rt></ruby>いところ。
+  - ものごとの<ruby><rb>果</rb><rt>は</rt></ruby>て。<ruby><rb>限</rb><rt>かぎ</rt></ruby>り。
+- word: センサー
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>、<ruby><rb>温度</rb><rt>おんど</rt></ruby>などに<ruby><rb>反応</rb><rt>はんのう</rt></ruby>して、<ruby><rb>電気的</rb><rt>でんきてき</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 詳しい
+  descriptions:
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かい。
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かいことまでよく<ruby><rb>知</rb><rt>し</rt></ruby>っている。
+web_news_url: /news/web/2017/05/24/深海探査の国際レースへ-日本チームの探査機が潜水試験/
+source_url: http://www3.nhk.or.jp/news/easy/k10010992841000/k10010992841000.html
+...
