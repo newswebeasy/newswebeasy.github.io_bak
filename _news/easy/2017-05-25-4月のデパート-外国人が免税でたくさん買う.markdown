@@ -1,0 +1,41 @@
+---
+layout: easy_news
+newsid: k10010992341000
+categories: easy
+title: ４月のデパート　外国人が「免税」でたくさん買う
+title_with_ruby: ４<ruby>月<rt>がつ</rt></ruby>のデパート　<ruby>外国人<rt>がいこくじん</rt></ruby>が「<ruby>免税<rt>めんぜい</rt></ruby>」でたくさん<ruby>買<rt>か</rt></ruby>う
+last_modified_at: '2017-05-25T11:30:00+09:00'
+datetime: 2017年05月25日 11時30分
+description: 日本百貨店協会にほんひゃっかてんきょうかいによると、日本にっぽんの２２９のデパートの４月がつの売うり上あげは、全部ぜんぶで４５２７億おく円えんでした。
+description_with_ruby: <ruby>日本百貨店協会<rt>にほんひゃっかてんきょうかい</rt></ruby>によると、<ruby>日本<rt>にっぽん</rt></ruby>の２２９のデパートの４<ruby>月<rt>がつ</rt></ruby>の<ruby>売<rt>う</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げは、<ruby>全部<rt>ぜんぶ</rt></ruby>で４５２７<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>でした。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/25/k10010992341000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/25/k10010992341000.mp3
+contents: "<p><ruby>日本百貨店協会<rt>にほんひゃっかてんきょうかい</rt></ruby>によると、<ruby>日本<rt>にっぽん</rt></ruby>の２２９のデパートの４<ruby>月<rt>がつ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げ</span>は、<ruby>全部<rt>ぜんぶ</rt></ruby>で４５２７<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>でした。<ruby>去年<rt>きょねん</rt></ruby>の４<ruby>月<rt>がつ</rt></ruby>より０．７％<ruby>増<rt>ふ</rt></ruby>えました。</p>\n\
+  <p>この<ruby>中<rt>なか</rt></ruby>で、<ruby>外国人<rt>がいこくじん</rt></ruby>が「<ruby>免税<rt>めんぜい</rt></ruby>」で<ruby>買<rt>か</rt></ruby>った<ruby>物<rt>もの</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げ</span>は２２１<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>でした。<ruby>免税<rt>めんぜい</rt></ruby>は、<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>のときに<span\
+  \ style=\"color: blue;\"><ruby>税金<rt>ぜいきん</rt></ruby></span>を<ruby>払<rt>はら</rt></ruby>う<ruby>必要<rt>ひつよう</rt></ruby>がないことです。<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>外国人<rt>がいこくじん</rt></ruby>は<ruby>増<rt>ふ</rt></ruby>えていて、１か<ruby>月<rt>げつ</rt></ruby>の<ruby>免税<rt>めんぜい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げ</span>は、<ruby>今年<rt>ことし</rt></ruby>の４<ruby>月<rt>がつ</rt></ruby>が<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなりました。</p>\n\
+  <p><ruby>日本百貨店協会<rt>にほんひゃっかてんきょうかい</rt></ruby>は、<ruby>女性<rt>じょせい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>化粧<rt>けしょう</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>品<rt>ひん</rt></ruby></span>や<ruby>靴<rt>くつ</rt></ruby>、かばん、アクセサリーなどを<ruby>買<rt>か</rt></ruby>う<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 売り上げ
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>って<ruby><rb>得</rb><rt>え</rt></ruby>たお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 税金
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>、<ruby><rb>市町村</rb><rt>しちょうそん</rt></ruby>が、そこに<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>人</rb><rt>ひと</rt></ruby>から<ruby><rb>集</rb><rt>あつ</rt></ruby>めるお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 化粧
+  descriptions:
+  - おしろいや、<ruby><rb>紅</rb><rt>べに</rt></ruby>などをつけて、<ruby><rb>顔</rb><rt>かお</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+  - <ruby><rb>外側</rb><rt>そとがわ</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+- word: 品
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。<ruby><rb>品質</rb><rt>ひんしつ</rt></ruby>。
+  - <ruby><rb>種類</rb><rt>しゅるい</rt></ruby>。
+web_news_url: /news/web/2017/05/23/デパート-外国人旅行者向け免税売り上げが過去最高/
+source_url: http://www3.nhk.or.jp/news/easy/k10010992341000/k10010992341000.html
+...
