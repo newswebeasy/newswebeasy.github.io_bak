@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010985021000
 title: 福井県にある高浜原子力発電所の４号機が運転を始める
 title_with_ruby: <ruby>福井県<rt>ふくいけん</rt></ruby>にある<ruby>高浜<rt>たかはま</rt></ruby><ruby>原子力発電所<rt>げんしりょくはつでんしょ</rt></ruby>の４<ruby>号機<rt>ごうき</rt></ruby>が<ruby>運転<rt>うんてん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める
 last_modified_at: '2017-05-18T16:40:00+09:00'

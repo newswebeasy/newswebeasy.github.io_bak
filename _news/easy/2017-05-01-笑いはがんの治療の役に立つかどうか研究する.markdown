@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010963641000
 title: 笑いはがんの治療の役に立つかどうか研究する
 title_with_ruby: <ruby>笑<rt>わら</rt></ruby>いは「がん」の<ruby>治療<rt>ちりょう</rt></ruby>の<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つかどうか<ruby>研究<rt>けんきゅう</rt></ruby>する
 last_modified_at: '2017-05-01T11:30:00+09:00'

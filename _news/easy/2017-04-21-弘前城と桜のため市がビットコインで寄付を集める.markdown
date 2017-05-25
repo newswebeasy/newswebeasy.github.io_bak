@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010954421000
 title: 弘前城と桜のため市がビットコインで寄付を集める
 title_with_ruby: <ruby>弘前城<rt>ひろさきじょう</rt></ruby>と<ruby>桜<rt>さくら</rt></ruby>のため<ruby>市<rt>し</rt></ruby>がビットコインで<ruby>寄付<rt>きふ</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>める
 last_modified_at: '2017-04-21T11:30:00+09:00'

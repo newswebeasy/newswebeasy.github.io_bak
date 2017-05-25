@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010954671000
 title: アメリカのペンス副大統領が日本で総理大臣などと会う
 title_with_ruby: アメリカのペンス<ruby>副<rt>ふく</rt></ruby><ruby>大統領<rt>だいとうりょう</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>総理大臣<rt>そうりだいじん</rt></ruby>などと<ruby>会<rt>あ</rt></ruby>う
 last_modified_at: '2017-04-20T15:45:00+09:00'

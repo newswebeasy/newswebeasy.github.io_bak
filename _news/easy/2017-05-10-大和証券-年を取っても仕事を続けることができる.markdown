@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010974311000
 title: 大和証券　年を取っても仕事を続けることができる
 title_with_ruby: <ruby>大和証券<rt>だいわしょうけん</rt></ruby>　<ruby>年<rt>とし</rt></ruby>を<ruby>取<rt>と</rt></ruby>っても<ruby>仕事<rt>しごと</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けることができる
 last_modified_at: '2017-05-10T11:30:00+09:00'

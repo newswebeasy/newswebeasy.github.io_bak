@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010967481000
 title: 噴火の可能性がある山に登るときの注意をビデオにする
 title_with_ruby: <ruby>噴火<rt>ふんか</rt></ruby>の<ruby>可能性<rt>かのうせい</rt></ruby>がある<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>るときの<ruby>注意<rt>ちゅうい</rt></ruby>をビデオにする
 last_modified_at: '2017-05-02T11:30:00+09:00'

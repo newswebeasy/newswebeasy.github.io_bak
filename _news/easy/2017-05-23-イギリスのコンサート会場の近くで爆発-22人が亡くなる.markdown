@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010991721000
 title: イギリスのコンサート会場の近くで爆発　２２人が亡くなる
 title_with_ruby: イギリスのコンサート<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くで<ruby>爆発<rt>ばくはつ</rt></ruby>　２２<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
 last_modified_at: '2017-05-23T15:45:00+09:00'

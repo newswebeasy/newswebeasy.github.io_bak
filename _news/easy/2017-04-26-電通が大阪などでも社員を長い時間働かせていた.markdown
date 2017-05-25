@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010960431000
 title: 電通が大阪などでも社員を長い時間働かせていた
 title_with_ruby: <ruby>電通<rt>でんつう</rt></ruby>が<ruby>大阪<rt>おおさか</rt></ruby>などでも<ruby>社員<rt>しゃいん</rt></ruby>を<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby><ruby>働<rt>はたら</rt></ruby>かせていた
 last_modified_at: '2017-04-26T16:40:00+09:00'

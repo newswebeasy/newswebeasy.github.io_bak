@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010990391000
 title: 北朝鮮がミサイルを発射して成功したと発表
 title_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>がミサイルを<ruby>発射<rt>はっしゃ</rt></ruby>して<ruby>成功<rt>せいこう</rt></ruby>したと<ruby>発表<rt>はっぴょう</rt></ruby>
 last_modified_at: '2017-05-22T16:00:00+09:00'

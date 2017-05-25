@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010951791000
 title: 神奈川県-棟方志功の絵がコピーにかわっていた
 title_with_ruby: <ruby>神奈川県<rt>かながわけん</rt></ruby>　<ruby>棟方<rt>むなかた</rt></ruby><ruby>志功<rt>しこう</rt></ruby>の<ruby>絵<rt>え</rt></ruby>がコピーにかわっていた
 last_modified_at: '2017-04-18T15:45:00+09:00'

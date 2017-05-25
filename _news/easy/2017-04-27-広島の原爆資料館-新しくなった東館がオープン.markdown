@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010961781000
 title: 広島の原爆資料館-新しくなった東館がオープン
 title_with_ruby: <ruby>広島<rt>ひろしま</rt></ruby>の<ruby>原爆資料館<rt>げんばくしりょうかん</rt></ruby>　<ruby>新<rt>あたら</rt></ruby>しくなった<ruby>東<rt>ひがし</rt></ruby><ruby>館<rt>かん</rt></ruby>がオープン
 last_modified_at: '2017-04-27T15:20:00+09:00'

@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010978261000
 title: 「パラリンピックのためにホテルを使いやすくしてほしい」
 title_with_ruby: 「パラリンピックのためにホテルを<ruby>使<rt>つか</rt></ruby>いやすくしてほしい」
 last_modified_at: '2017-05-12T15:15:00+09:00'

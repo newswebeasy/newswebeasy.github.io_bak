@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010951481000
 title: 恐竜が生きているように動くショー
 title_with_ruby: <ruby>恐竜<rt>きょうりゅう</rt></ruby>が<ruby>生<rt>い</rt></ruby>きているように<ruby>動<rt>うご</rt></ruby>くショー
 last_modified_at: '2017-04-19T11:30:00+09:00'

@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010953261000
 title: 山梨県-桜と富士山と五重の塔を一緒に楽しむ
 title_with_ruby: <ruby>山梨県<rt>やまなしけん</rt></ruby>　<ruby>桜<rt>さくら</rt></ruby>と<ruby>富士山<rt>ふじさん</rt></ruby>と<ruby>五重<rt>ごじゅう</rt></ruby>の<ruby>塔<rt>とう</rt></ruby>を<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>楽<rt>たの</rt></ruby>しむ
 last_modified_at: '2017-04-19T16:25:00+09:00'

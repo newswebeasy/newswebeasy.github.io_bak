@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010948271000
 title: 千葉県で女の子が遺体で見つかった事件-近くの男を逮捕
 title_with_ruby: <ruby>千葉県<rt>ちばけん</rt></ruby>で<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>が<ruby>遺体<rt>いたい</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかった<ruby>事件<rt>じけん</rt></ruby>　<ruby>近<rt>ちか</rt></ruby>くの<ruby>男<rt>おとこ</rt></ruby>を<ruby>逮捕<rt>たいほ</rt></ruby>
 last_modified_at: '2017-04-14T16:20:00+09:00'

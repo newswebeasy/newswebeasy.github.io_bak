@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010967771000
 title: 「母の日」の前に青や紫色のカーネーションを輸入
 title_with_ruby: 「<ruby>母<rt>はは</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>」の<ruby>前<rt>まえ</rt></ruby>に<ruby>青<rt>あお</rt></ruby>や<ruby>紫<rt>むらさき</rt></ruby><ruby>色<rt>いろ</rt></ruby>のカーネーションを<ruby>輸入<rt>ゆにゅう</rt></ruby>
 last_modified_at: '2017-05-08T11:30:00+09:00'

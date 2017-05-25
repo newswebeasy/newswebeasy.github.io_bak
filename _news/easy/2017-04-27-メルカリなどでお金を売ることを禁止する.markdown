@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010959871000
 title: メルカリなどでお金を売ることを禁止する
 title_with_ruby: 「メルカリ」などでお<ruby>金<rt>かね</rt></ruby>を<ruby>売<rt>う</rt></ruby>ることを<ruby>禁止<rt>きんし</rt></ruby>する
 last_modified_at: '2017-04-27T11:30:00+09:00'

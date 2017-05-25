@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010947851000
 title: 熊本県で大きな地震が起こってから1年
 title_with_ruby: <ruby>熊本県<rt>くまもとけん</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>が<ruby>起<rt>お</rt></ruby>こってから１<ruby>年<rt>ねん</rt></ruby>
 last_modified_at: '2017-04-14T16:20:00+09:00'

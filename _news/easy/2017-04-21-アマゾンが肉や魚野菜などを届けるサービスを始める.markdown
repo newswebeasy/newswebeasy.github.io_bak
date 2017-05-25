@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010956051000
 title: アマゾンが肉や魚野菜などを届けるサービスを始める
 title_with_ruby: アマゾンが<ruby>肉<rt>にく</rt></ruby>や<ruby>魚<rt>さかな</rt></ruby>、<ruby>野菜<rt>やさい</rt></ruby>などを<ruby>届<rt>とど</rt></ruby>けるサービスを<ruby>始<rt>はじ</rt></ruby>める
 last_modified_at: '2017-04-21T16:00:00+09:00'

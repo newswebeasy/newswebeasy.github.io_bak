@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010974491000
 title: 北朝鮮が大学で働いているアメリカ人を捕まえる
 title_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が<ruby>大学<rt>だいがく</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いているアメリカ<ruby>人<rt>じん</rt></ruby>を<ruby>捕<rt>つか</rt></ruby>まえる
 last_modified_at: '2017-05-09T15:45:00+09:00'

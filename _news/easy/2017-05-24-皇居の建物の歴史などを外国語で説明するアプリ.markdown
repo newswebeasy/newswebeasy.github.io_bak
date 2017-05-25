@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010991371000
 title: 皇居の建物の歴史などを外国語で説明するアプリ
 title_with_ruby: <ruby>皇居<rt>こうきょ</rt></ruby>の<ruby>建物<rt>たてもの</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>などを<ruby>外国語<rt>がいこくご</rt></ruby>で<ruby>説明<rt>せつめい</rt></ruby>するアプリ
 last_modified_at: '2017-05-24T11:30:00+09:00'

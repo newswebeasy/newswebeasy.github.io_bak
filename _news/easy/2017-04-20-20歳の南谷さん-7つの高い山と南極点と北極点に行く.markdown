@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010953971000
 title: 20歳の南谷さん-7つの高い山と南極点と北極点に行く
 title_with_ruby: ２０<ruby>歳<rt>さい</rt></ruby>の<ruby>南谷<rt>みなみや</rt></ruby>さん　７つの<ruby>高<rt>たか</rt></ruby>い<ruby>山<rt>やま</rt></ruby>と<ruby>南極点<rt>なんきょくてん</rt></ruby>と<ruby>北極点<rt>ほっきょくてん</rt></ruby>に<ruby>行<rt>い</rt></ruby>く
 last_modified_at: '2017-04-20T15:45:00+09:00'

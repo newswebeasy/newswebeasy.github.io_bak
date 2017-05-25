@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010985571000
 title: 北朝鮮とロシアの間を船が１週間に１回往復する
 title_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>とロシアの<ruby>間<rt>あいだ</rt></ruby>を<ruby>船<rt>ふね</rt></ruby>が１<ruby>週間<rt>しゅうかん</rt></ruby>に１<ruby>回<rt>かい</rt></ruby><ruby>往復<rt>おうふく</rt></ruby>する
 last_modified_at: '2017-05-19T16:25:00+09:00'

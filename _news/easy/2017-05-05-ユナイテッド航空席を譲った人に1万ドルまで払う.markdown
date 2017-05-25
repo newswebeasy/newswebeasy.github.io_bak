@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010964251000
 title: ユナイテッド航空「席を譲った人に１万ドルまで払う」
 title_with_ruby: ユナイテッド<ruby>航空<rt>こうくう</rt></ruby>「<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>に１<ruby>万<rt>まん</rt></ruby>ドルまで<ruby>払<rt>はら</rt></ruby>う」
 last_modified_at: '2017-05-05T10:35:00+09:00'

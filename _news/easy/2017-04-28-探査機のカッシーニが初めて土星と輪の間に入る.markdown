@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010963911000
 title: 探査機のカッシーニが初めて土星と輪の間に入る
 title_with_ruby: <ruby>探査<rt>たんさ</rt></ruby><ruby>機<rt>き</rt></ruby>の「カッシーニ」が<ruby>初<rt>はじ</rt></ruby>めて<ruby>土星<rt>どせい</rt></ruby>と<ruby>輪<rt>わ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る
 last_modified_at: '2017-04-28T15:25:00+09:00'

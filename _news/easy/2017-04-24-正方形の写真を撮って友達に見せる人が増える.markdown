@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010955691000
 title: 正方形の写真を撮って友達に見せる人が増える
 title_with_ruby: <ruby>正方形<rt>せいほうけい</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>って<ruby>友達<rt>ともだち</rt></ruby>に<ruby>見<rt>み</rt></ruby>せる<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える
 last_modified_at: '2017-04-24T11:30:00+09:00'

@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010958581000
 title: 北海道でも桜が咲き始める-いちばん南の松前町が発表
 title_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby>でも<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>める　いちばん<ruby>南<rt>みなみ</rt></ruby>の<ruby>松前町<rt>まつまえちょう</rt></ruby>が<ruby>発表<rt>はっぴょう</rt></ruby>
 last_modified_at: '2017-04-24T15:50:00+09:00'

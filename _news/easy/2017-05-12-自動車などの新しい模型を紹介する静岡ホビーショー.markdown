@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010977661000
 title: 自動車などの新しい模型を紹介する「静岡ホビーショー」
 title_with_ruby: <ruby>自動車<rt>じどうしゃ</rt></ruby>などの<ruby>新<rt>あたら</rt></ruby>しい<ruby>模型<rt>もけい</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する「<ruby>静岡<rt>しずおか</rt></ruby>ホビーショー」
 last_modified_at: '2017-05-12T15:15:00+09:00'

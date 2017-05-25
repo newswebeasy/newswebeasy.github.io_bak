@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010967861000
 title: 「こんろや電子レンジは火事にならないように掃除して」
 title_with_ruby: 「こんろや<ruby>電子<rt>でんし</rt></ruby>レンジは<ruby>火事<rt>かじ</rt></ruby>にならないように<ruby>掃除<rt>そうじ</rt></ruby>して」
 last_modified_at: '2017-05-08T11:30:00+09:00'

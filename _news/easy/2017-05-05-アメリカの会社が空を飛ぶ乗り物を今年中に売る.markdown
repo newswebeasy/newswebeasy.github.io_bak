@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010960241000
 title: アメリカの会社が「空を飛ぶ乗り物」を今年中に売る
 title_with_ruby: アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>が「<ruby>空<rt>そら</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ぶ<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>」を<ruby>今年<rt>ことし</rt></ruby><ruby>中<rt>じゅう</rt></ruby>に<ruby>売<rt>う</rt></ruby>る
 last_modified_at: '2017-05-05T10:35:00+09:00'

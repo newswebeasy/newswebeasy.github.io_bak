@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010988281000
 title: 沖縄県の遺跡で見つかった人の骨　日本でいちばん古いか
 title_with_ruby: <ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>遺跡<rt>いせき</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかった<ruby>人<rt>ひと</rt></ruby>の<ruby>骨<rt>ほね</rt></ruby>　<ruby>日本<rt>にっぽん</rt></ruby>でいちばん<ruby>古<rt>ふる</rt></ruby>いか
 last_modified_at: '2017-05-23T11:30:00+09:00'

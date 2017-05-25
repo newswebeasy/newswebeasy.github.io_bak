@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010983851000
 title: 家庭の貯金や株が４年続けて増える
 title_with_ruby: <ruby>家庭<rt>かてい</rt></ruby>の<ruby>貯金<rt>ちょきん</rt></ruby>や<ruby>株<rt>かぶ</rt></ruby>が４<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>増<rt>ふ</rt></ruby>える
 last_modified_at: '2017-05-17T15:40:00+09:00'

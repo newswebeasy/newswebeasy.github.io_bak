@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010981731000
 title: 北海道釧路市　日本でいちばん遅く桜が咲いた
 title_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>釧路市<rt>くしろし</rt></ruby>　<ruby>日本<rt>にっぽん</rt></ruby>でいちばん<ruby>遅<rt>おそ</rt></ruby>く<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いた
 last_modified_at: '2017-05-15T16:35:00+09:00'

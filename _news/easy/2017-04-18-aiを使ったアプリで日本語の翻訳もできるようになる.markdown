@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010950731000
 title: aiを使ったアプリで日本語の翻訳もできるようになる
 title_with_ruby: ＡＩを<ruby>使<rt>つか</rt></ruby>ったアプリで<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>翻訳<rt>ほんやく</rt></ruby>もできるようになる
 last_modified_at: '2017-04-18T11:30:00+09:00'

@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010978641000
 title: アメリカ　長官に何度も質問した記者を逮捕する
 title_with_ruby: アメリカ　<ruby>長官<rt>ちょうかん</rt></ruby>に<ruby>何<rt>なん</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>質問<rt>しつもん</rt></ruby>した<ruby>記者<rt>きしゃ</rt></ruby>を<ruby>逮捕<rt>たいほ</rt></ruby>する
 last_modified_at: '2017-05-12T15:15:00+09:00'

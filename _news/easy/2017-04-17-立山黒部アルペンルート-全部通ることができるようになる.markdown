@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010949621000
 title: 立山黒部アルペンルート-全部通ることができるようになる
 title_with_ruby: <ruby>立山<rt>たてやま</rt></ruby><ruby>黒部<rt>くろべ</rt></ruby>アルペンルート　<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>通<rt>とお</rt></ruby>ることができるようになる
 last_modified_at: '2017-04-17T16:00:00+09:00'

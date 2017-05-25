@@ -1,5 +1,13 @@
-<div class="rich_media_extra" id="js_preview_cmt" style="display:none">
+<div class="rich_media_extra" id="js_preview_cmt">
   <p class="discuss_icon_tips rich_split_tips tr">
-    <a href="##" id="js_preview_cmt_write">写留言<img class="icon_edit" src="//res.wx.qq.com/mmbizwap/zh_CN/htmledition/images/icon/appmsg/icon_edit25ded2.png"></a>
+    <!--PC版-->
+    <div id="SOHUCS" sid="news_{{ page.categories }}_{{ page.newsid }}"></div>
+    <script charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/changyan.js" ></script>
+    <script type="text/javascript">
+    window.changyan.api.config({
+    appid: 'cyt1R28iO',
+    conf: 'prod_7d548af2fb74e118dc1e6af7623e5c12'
+    });
+    </script>
   </p>
 </div>

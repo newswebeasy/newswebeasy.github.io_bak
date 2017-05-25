@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010949791000
 title: インドの学校で日本のようにチームで楽しむ運動会を開く
 title_with_ruby: インドの<ruby>学校<rt>がっこう</rt></ruby>で<ruby>日本<rt>にっぽん</rt></ruby>のようにチームで<ruby>楽<rt>たの</rt></ruby>しむ<ruby>運動会<rt>うんどうかい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>く
 last_modified_at: '2017-04-18T11:30:00+09:00'

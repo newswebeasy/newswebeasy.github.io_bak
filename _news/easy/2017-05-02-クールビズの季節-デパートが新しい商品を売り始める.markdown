@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010966941000
 title: 「クールビズ」の季節　デパートが新しい商品を売り始める
 title_with_ruby: 「クールビズ」の<ruby>季節<rt>きせつ</rt></ruby>　デパートが<ruby>新<rt>あたら</rt></ruby>しい<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める
 last_modified_at: '2017-05-02T11:30:00+09:00'

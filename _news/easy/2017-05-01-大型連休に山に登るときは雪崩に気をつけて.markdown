@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010963191000
 title: 大型連休に山に登るときは雪崩に気をつけて
 title_with_ruby: <ruby>大型連休<rt>おおがたれんきゅう</rt></ruby>に<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>るときは「<ruby>雪崩<rt>なだれ</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけて」
 last_modified_at: '2017-05-01T11:30:00+09:00'

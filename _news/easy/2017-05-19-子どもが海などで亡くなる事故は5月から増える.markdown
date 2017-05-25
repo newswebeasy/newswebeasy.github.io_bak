@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010985081000
 title: 子どもが海などで亡くなる事故は５月から増える
 title_with_ruby: <ruby>子<rt>こ</rt></ruby>どもが<ruby>海<rt>うみ</rt></ruby>などで<ruby>亡<rt>な</rt></ruby>くなる<ruby>事故<rt>じこ</rt></ruby>は５<ruby>月<rt>がつ</rt></ruby>から<ruby>増<rt>ふ</rt></ruby>える
 last_modified_at: '2017-05-19T11:30:00+09:00'

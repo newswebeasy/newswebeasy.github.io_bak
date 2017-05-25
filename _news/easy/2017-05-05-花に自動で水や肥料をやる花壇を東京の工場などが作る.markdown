@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010960591000
 title: 花に自動で水や肥料をやる花壇を東京の工場などが作る
 title_with_ruby: <ruby>花<rt>はな</rt></ruby>に<ruby>自動<rt>じどう</rt></ruby>で<ruby>水<rt>みず</rt></ruby>や<ruby>肥料<rt>ひりょう</rt></ruby>をやる<ruby>花壇<rt>かだん</rt></ruby>を<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>工場<rt>こうじょう</rt></ruby>などが<ruby>作<rt>つく</rt></ruby>る
 last_modified_at: '2017-05-05T10:35:00+09:00'

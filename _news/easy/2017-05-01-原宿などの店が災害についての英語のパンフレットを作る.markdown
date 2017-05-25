@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010965781000
 title: 原宿などの店が災害についての英語のパンフレットを作る
 title_with_ruby: <ruby>原宿<rt>はらじゅく</rt></ruby>などの<ruby>店<rt>みせ</rt></ruby>が<ruby>災害<rt>さいがい</rt></ruby>についての<ruby>英語<rt>えいご</rt></ruby>のパンフレットを<ruby>作<rt>つく</rt></ruby>る
 last_modified_at: '2017-05-01T16:05:00+09:00'

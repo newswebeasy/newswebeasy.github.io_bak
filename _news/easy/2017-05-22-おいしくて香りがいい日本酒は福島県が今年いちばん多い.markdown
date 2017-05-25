@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010986121000
 title: おいしくて香りがいい日本酒は福島県が今年いちばん多い
 title_with_ruby: おいしくて<ruby>香<rt>かお</rt></ruby>りがいい<ruby>日本酒<rt>にほんしゅ</rt></ruby>は<ruby>福島県<rt>ふくしまけん</rt></ruby>が<ruby>今年<rt>ことし</rt></ruby>いちばん<ruby>多<rt>おお</rt></ruby>い
 last_modified_at: '2017-05-22T11:30:00+09:00'

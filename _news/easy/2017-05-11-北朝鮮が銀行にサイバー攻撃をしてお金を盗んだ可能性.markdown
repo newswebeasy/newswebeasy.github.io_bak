@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010977141000
 title: 北朝鮮が銀行にサイバー攻撃をしてお金を盗んだ可能性
 title_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が<ruby>銀行<rt>ぎんこう</rt></ruby>にサイバー<ruby>攻撃<rt>こうげき</rt></ruby>をしてお<ruby>金<rt>かね</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>んだ<ruby>可能性<rt>かのうせい</rt></ruby>
 last_modified_at: '2017-05-11T16:05:00+09:00'

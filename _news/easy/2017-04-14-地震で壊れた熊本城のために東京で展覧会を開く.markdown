@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010945971000
 title: 地震で壊れた熊本城のために東京で展覧会を開く
 title_with_ruby: <ruby>地震<rt>じしん</rt></ruby>で<ruby>壊<rt>こわ</rt></ruby>れた<ruby>熊本城<rt>くまもとじょう</rt></ruby>のために<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>展覧会<rt>てんらんかい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>く
 last_modified_at: '2017-04-14T11:30:00+09:00'

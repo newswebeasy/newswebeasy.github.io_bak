@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010947781000
 title: 地震に強い建物にしてある病院はまだ70ぐらい
 title_with_ruby: <ruby>地震<rt>じしん</rt></ruby>に<ruby>強<rt>つよ</rt></ruby>い<ruby>建物<rt>たてもの</rt></ruby>にしてある<ruby>病院<rt>びょういん</rt></ruby>はまだ７０％ぐらい
 last_modified_at: '2017-04-17T11:30:00+09:00'

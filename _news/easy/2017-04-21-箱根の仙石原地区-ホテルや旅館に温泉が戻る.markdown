@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010955161000
 title: 箱根の仙石原地区-ホテルや旅館に温泉が戻る
 title_with_ruby: <ruby>箱根<rt>はこね</rt></ruby>の<ruby>仙石原<rt>せんごくはら</rt></ruby><ruby>地区<rt>ちく</rt></ruby>　ホテルや<ruby>旅館<rt>りょかん</rt></ruby>に<ruby>温泉<rt>おんせん</rt></ruby>が<ruby>戻<rt>もど</rt></ruby>る
 last_modified_at: '2017-04-21T16:00:00+09:00'

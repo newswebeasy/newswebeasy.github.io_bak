@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010981571000
 title: イギリスの１０１歳３８日の男性がスカイダイビング
 title_with_ruby: イギリスの１０１<ruby>歳<rt>さい</rt></ruby>３８<ruby>日<rt>にち</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>がスカイダイビング
 last_modified_at: '2017-05-17T11:30:00+09:00'

@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010949851000
 title: アジアの卓球の大会で平野美宇選手が初めて優勝する
 title_with_ruby: アジアの<ruby>卓球<rt>たっきゅう</rt></ruby>の<ruby>大会<rt>たいかい</rt></ruby>で<ruby>平野<rt>ひらの</rt></ruby><ruby>美宇<rt>みう</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めて<ruby>優勝<rt>ゆうしょう</rt></ruby>する
 last_modified_at: '2017-04-17T16:00:00+09:00'

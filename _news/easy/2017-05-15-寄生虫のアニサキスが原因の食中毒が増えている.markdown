@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010980371000
 title: 寄生虫のアニサキスが原因の食中毒が増えている
 title_with_ruby: <ruby>寄生虫<rt>きせいちゅう</rt></ruby>のアニサキスが<ruby>原因<rt>げんいん</rt></ruby>の<ruby>食中毒<rt>しょくちゅうどく</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えている
 last_modified_at: '2017-05-15T16:35:00+09:00'

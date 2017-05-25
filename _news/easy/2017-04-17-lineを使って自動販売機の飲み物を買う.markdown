@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010947461000
 title: lineを使って自動販売機の飲み物を買う
 title_with_ruby: 「ＬＩＮＥ」を<ruby>使<rt>つか</rt></ruby>って<ruby>自動販売機<rt>じどうはんばいき</rt></ruby>の<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>を<ruby>買<rt>か</rt></ruby>う
 last_modified_at: '2017-04-17T11:30:00+09:00'

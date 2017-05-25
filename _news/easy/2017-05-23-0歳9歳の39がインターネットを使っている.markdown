@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010990171000
 title: ０歳〜９歳の３９％がインターネットを使っている
 title_with_ruby: ０<ruby>歳<rt>さい</rt></ruby>〜９<ruby>歳<rt>さい</rt></ruby>の３９％がインターネットを<ruby>使<rt>つか</rt></ruby>っている
 last_modified_at: '2017-05-23T11:30:00+09:00'

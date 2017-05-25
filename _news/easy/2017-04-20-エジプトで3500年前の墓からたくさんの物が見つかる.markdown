@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010953491000
 title: エジプトで3500年前の墓からたくさんの物が見つかる
 title_with_ruby: エジプトで３５００<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>墓<rt>はか</rt></ruby>からたくさんの<ruby>物<rt>もの</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかる
 last_modified_at: '2017-04-20T11:30:00+09:00'

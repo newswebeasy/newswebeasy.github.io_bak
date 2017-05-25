@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010958491000
 title: 原子力発電所の事故から6年-村に戻って店をまた始める
 title_with_ruby: <ruby>原子力<rt>げんしりょく</rt></ruby><ruby>発電所<rt>はつでんしょ</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>から６<ruby>年<rt>ねん</rt></ruby>　<ruby>村<rt>むら</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>って<ruby>店<rt>みせ</rt></ruby>をまた<ruby>始<rt>はじ</rt></ruby>める
 last_modified_at: '2017-04-24T15:50:00+09:00'

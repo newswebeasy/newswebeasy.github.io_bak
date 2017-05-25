@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010952411000
 title: 盆栽を見ながらお茶を飲む店が東京の銀座にできる
 title_with_ruby: <ruby>盆栽<rt>ぼんさい</rt></ruby>を<ruby>見<rt>み</rt></ruby>ながらお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>む<ruby>店<rt>みせ</rt></ruby>が<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>銀座<rt>ぎんざ</rt></ruby>にできる
 last_modified_at: '2017-04-20T15:45:00+09:00'

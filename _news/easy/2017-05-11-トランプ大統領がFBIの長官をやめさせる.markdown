@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010977221000
 title: トランプ大統領がＦＢＩの長官をやめさせる
 title_with_ruby: トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>がＦＢＩの<ruby>長官<rt>ちょうかん</rt></ruby>をやめさせる
 last_modified_at: '2017-05-11T16:05:00+09:00'

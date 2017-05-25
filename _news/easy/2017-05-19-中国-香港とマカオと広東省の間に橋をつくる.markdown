@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010984951000
 title: 中国　香港とマカオと広東省の間に橋をつくる
 title_with_ruby: <ruby>中国<rt>ちゅうごく</rt></ruby>　<ruby>香港<rt>ほんこん</rt></ruby>とマカオと<ruby>広東省<rt>かんとんしょう</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>橋<rt>はし</rt></ruby>をつくる
 last_modified_at: '2017-05-19T11:30:00+09:00'

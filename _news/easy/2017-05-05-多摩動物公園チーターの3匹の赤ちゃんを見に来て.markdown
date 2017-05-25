@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010959041000
 title: 多摩動物公園「チーターの３匹の赤ちゃんを見に来て」
 title_with_ruby: <ruby>多摩動物公園<rt>たまどうぶつこうえん</rt></ruby>「チーターの３<ruby>匹<rt>びき</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>て」
 last_modified_at: '2017-05-05T10:35:00+09:00'

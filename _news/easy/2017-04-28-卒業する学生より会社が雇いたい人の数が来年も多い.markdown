@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010961851000
 title: 卒業する学生より会社が雇いたい人の数が来年も多い
 title_with_ruby: <ruby>卒業<rt>そつぎょう</rt></ruby>する<ruby>学生<rt>がくせい</rt></ruby>より<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>雇<rt>やと</rt></ruby>いたい<ruby>人<rt>ひと</rt></ruby>の<ruby>数<rt>かず</rt></ruby>が<ruby>来年<rt>らいねん</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い
 last_modified_at: '2017-04-28T11:30:00+09:00'

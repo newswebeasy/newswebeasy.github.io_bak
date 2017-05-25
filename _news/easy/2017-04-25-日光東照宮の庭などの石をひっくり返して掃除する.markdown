@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010958401000
 title: 日光東照宮の庭などの石をひっくり返して掃除する
 title_with_ruby: <ruby>日光東照宮<rt>にっこうとうしょうぐう</rt></ruby>の<ruby>庭<rt>にわ</rt></ruby>などの<ruby>石<rt>いし</rt></ruby>をひっくり<ruby>返<rt>かえ</rt></ruby>して<ruby>掃除<rt>そうじ</rt></ruby>する
 last_modified_at: '2017-04-25T11:30:00+09:00'

@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010964261000
 title: 安倍総理大臣がロシアでプーチン大統領と会う
 title_with_ruby: <ruby>安倍<rt>あべ</rt></ruby><ruby>総理大臣<rt>そうりだいじん</rt></ruby>がロシアでプーチン<ruby>大統領<rt>だいとうりょう</rt></ruby>と<ruby>会<rt>あ</rt></ruby>う
 last_modified_at: '2017-04-28T15:25:00+09:00'

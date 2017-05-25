@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010976051000
 title: 気仙沼港に今年初めてかつおを取った船が入る
 title_with_ruby: <ruby>気仙沼<rt>けせんぬま</rt></ruby><ruby>港<rt>こう</rt></ruby>に<ruby>今年<rt>ことし</rt></ruby><ruby>初<rt>はじ</rt></ruby>めてかつおを<ruby>取<rt>と</rt></ruby>った<ruby>船<rt>ふね</rt></ruby>が<ruby>入<rt>はい</rt></ruby>る
 last_modified_at: '2017-05-12T11:30:00+09:00'

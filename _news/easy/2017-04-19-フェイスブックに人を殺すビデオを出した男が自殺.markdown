@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010953371000
 title: フェイスブックに人を殺すビデオを出した男が自殺
 title_with_ruby: フェイスブックに<ruby>人<rt>ひと</rt></ruby>を<ruby>殺<rt>ころ</rt></ruby>すビデオを<ruby>出<rt>だ</rt></ruby>した<ruby>男<rt>おとこ</rt></ruby>が<ruby>自殺<rt>じさつ</rt></ruby>
 last_modified_at: '2017-04-19T16:25:00+09:00'

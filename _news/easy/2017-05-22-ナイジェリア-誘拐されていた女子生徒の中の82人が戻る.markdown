@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010989541000
 title: ナイジェリア　誘拐されていた女子生徒の中の８２人が戻る
 title_with_ruby: ナイジェリア　<ruby>誘拐<rt>ゆうかい</rt></ruby>されていた<ruby>女子<rt>じょし</rt></ruby><ruby>生徒<rt>せいと</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の８２<ruby>人<rt>にん</rt></ruby>が<ruby>戻<rt>もど</rt></ruby>る
 last_modified_at: '2017-05-22T16:00:00+09:00'

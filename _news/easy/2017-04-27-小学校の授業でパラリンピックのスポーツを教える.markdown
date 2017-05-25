@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010960671000
 title: 小学校の授業でパラリンピックのスポーツを教える
 title_with_ruby: <ruby>小学校<rt>しょうがっこう</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>でパラリンピックのスポーツを<ruby>教<rt>おし</rt></ruby>える
 last_modified_at: '2017-04-27T11:30:00+09:00'

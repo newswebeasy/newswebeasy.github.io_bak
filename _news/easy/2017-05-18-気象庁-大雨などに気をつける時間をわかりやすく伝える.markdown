@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010984211000
 title: 気象庁　大雨などに気をつける時間をわかりやすく伝える
 title_with_ruby: <ruby>気象庁<rt>きしょうちょう</rt></ruby>　<ruby>大雨<rt>おおあめ</rt></ruby>などに<ruby>気<rt>き</rt></ruby>をつける<ruby>時間<rt>じかん</rt></ruby>をわかりやすく<ruby>伝<rt>つた</rt></ruby>える
 last_modified_at: '2017-05-18T11:30:00+09:00'

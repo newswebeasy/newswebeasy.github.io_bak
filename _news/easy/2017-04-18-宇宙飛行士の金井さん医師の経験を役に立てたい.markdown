@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010951551000
 title: 宇宙飛行士の金井さん医師の経験を役に立てたい
 title_with_ruby: <ruby>宇宙飛行士<rt>うちゅうひこうし</rt></ruby>の<ruby>金井<rt>かない</rt></ruby>さん「<ruby>医師<rt>いし</rt></ruby>の<ruby>経験<rt>けいけん</rt></ruby>を<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>てたい」
 last_modified_at: '2017-04-18T15:45:00+09:00'

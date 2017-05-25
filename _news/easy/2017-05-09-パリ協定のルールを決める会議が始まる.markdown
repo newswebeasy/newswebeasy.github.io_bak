@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010974381000
 title: 「パリ協定」のルールを決める会議が始まる
 title_with_ruby: 「パリ<ruby>協定<rt>きょうてい</rt></ruby>」のルールを<ruby>決<rt>き</rt></ruby>める<ruby>会議<rt>かいぎ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
 last_modified_at: '2017-05-09T15:45:00+09:00'

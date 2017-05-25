@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010967581000
 title: 日本を紹介する「ジャパン・ハウス」がブラジルにできる
 title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する「ジャパン・ハウス」がブラジルにできる
 last_modified_at: '2017-05-02T15:35:00+09:00'

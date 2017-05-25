@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010985591000
 title: 新聞などがトランプ大統領の問題を続けて伝える
 title_with_ruby: <ruby>新聞<rt>しんぶん</rt></ruby>などがトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けて<ruby>伝<rt>つた</rt></ruby>える
 last_modified_at: '2017-05-18T16:40:00+09:00'

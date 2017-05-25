@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010986471000
 title: 東京都　豊洲市場を安全にするための案を専門家が説明
 title_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby>　<ruby>豊洲<rt>とよす</rt></ruby><ruby>市場<rt>しじょう</rt></ruby>を<ruby>安全<rt>あんぜん</rt></ruby>にするための<ruby>案<rt>あん</rt></ruby>を<ruby>専門家<rt>せんもんか</rt></ruby>が<ruby>説明<rt>せつめい</rt></ruby>
 last_modified_at: '2017-05-19T16:25:00+09:00'

@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010989961000
 title: 撃たれて死んだコウノトリの４羽の子どもを人が育てる
 title_with_ruby: <ruby>撃<rt>う</rt></ruby>たれて<ruby>死<rt>し</rt></ruby>んだコウノトリの４<ruby>羽<rt>わ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもを<ruby>人<rt>ひと</rt></ruby>が<ruby>育<rt>そだ</rt></ruby>てる
 last_modified_at: '2017-05-22T16:00:00+09:00'

@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010980121000
 title: コンゴ民主共和国でエボラ出血熱　１人が亡くなる
 title_with_ruby: コンゴ<ruby>民主共和国<rt>みんしゅきょうわこく</rt></ruby>でエボラ<ruby>出血熱<rt>しゅっけつねつ</rt></ruby>　<ruby>１人<rt>ひとり</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
 last_modified_at: '2017-05-16T11:30:00+09:00'

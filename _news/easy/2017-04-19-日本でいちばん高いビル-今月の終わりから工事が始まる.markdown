@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010951261000
 title: 日本でいちばん高いビル-今月の終わりから工事が始まる
 title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>でいちばん<ruby>高<rt>たか</rt></ruby>いビル　<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりから<ruby>工事<rt>こうじ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
 last_modified_at: '2017-04-19T11:30:00+09:00'

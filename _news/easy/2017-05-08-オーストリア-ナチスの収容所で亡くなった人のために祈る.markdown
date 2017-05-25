@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010973171000
 title: オーストリア　ナチスの収容所で亡くなった人のために祈る
 title_with_ruby: オーストリア　ナチスの<ruby>収容所<rt>しゅうようじょ</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>のために<ruby>祈<rt>いの</rt></ruby>る
 last_modified_at: '2017-05-08T16:15:00+09:00'

@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010964381000
 title: 宇宙ごみを片づける人工衛星を打ち上げる計画
 title_with_ruby: <ruby>宇宙<rt>うちゅう</rt></ruby>ごみを<ruby>片<rt>かた</rt></ruby>づける<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>を<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げる<ruby>計画<rt>けいかく</rt></ruby>
 last_modified_at: '2017-05-05T10:35:00+09:00'

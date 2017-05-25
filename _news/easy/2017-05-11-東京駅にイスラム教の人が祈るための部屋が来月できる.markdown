@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010975121000
 title: 東京駅にイスラム教の人が祈るための部屋が来月できる
 title_with_ruby: <ruby>東京駅<rt>とうきょうえき</rt></ruby>にイスラム<ruby>教<rt>きょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>祈<rt>いの</rt></ruby>るための<ruby>部屋<rt>へや</rt></ruby>が<ruby>来月<rt>らいげつ</rt></ruby>できる
 last_modified_at: '2017-05-11T11:30:00+09:00'

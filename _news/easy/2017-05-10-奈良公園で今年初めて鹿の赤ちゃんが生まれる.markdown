@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010973501000
 title: 奈良公園で今年初めて鹿の赤ちゃんが生まれる
 title_with_ruby: <ruby>奈良<rt>なら</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>で<ruby>今年<rt>ことし</rt></ruby><ruby>初<rt>はじ</rt></ruby>めて<ruby>鹿<rt>しか</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれる
 last_modified_at: '2017-05-10T11:30:00+09:00'

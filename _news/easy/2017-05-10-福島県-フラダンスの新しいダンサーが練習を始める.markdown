@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010973821000
 title: 福島県　フラダンスの新しいダンサーが練習を始める
 title_with_ruby: <ruby>福島県<rt>ふくしまけん</rt></ruby>　フラダンスの<ruby>新<rt>あたら</rt></ruby>しいダンサーが<ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める
 last_modified_at: '2017-05-10T16:05:00+09:00'

@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010986151000
 title: オリンピックのメダルを作る携帯電話などが３万個集まる
 title_with_ruby: オリンピックのメダルを<ruby>作<rt>つく</rt></ruby>る<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>などが３<ruby>万<rt>まん</rt></ruby><ruby>個<rt>こ</rt></ruby><ruby>集<rt>あつ</rt></ruby>まる
 last_modified_at: '2017-05-19T16:25:00+09:00'

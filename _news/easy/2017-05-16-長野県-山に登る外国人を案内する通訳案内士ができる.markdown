@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010980631000
 title: 長野県　山に登る外国人を案内する「通訳案内士」ができる
 title_with_ruby: <ruby>長野県<rt>ながのけん</rt></ruby>　<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>る<ruby>外国人<rt>がいこくじん</rt></ruby>を<ruby>案内<rt>あんない</rt></ruby>する「<ruby>通訳案内士<rt>つうやくあんないし</rt></ruby>」ができる
 last_modified_at: '2017-05-16T11:30:00+09:00'

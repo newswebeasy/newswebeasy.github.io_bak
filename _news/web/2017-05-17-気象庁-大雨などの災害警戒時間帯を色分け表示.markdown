@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+newsid: k10010984211000
 title: 気象庁 大雨などの災害警戒時間帯を色分け表示
 last_modified_at: '2017-05-17T04:46:00+09:00'
 datetime: 2017年05月17日 04時46分

@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010992531000
 title: 大分県　地面が割れていて「地すべり」の危険がある
 title_with_ruby: <ruby>大分県<rt>おおいたけん</rt></ruby>　<ruby>地面<rt>じめん</rt></ruby>が<ruby>割<rt>わ</rt></ruby>れていて「<ruby>地<rt>じ</rt></ruby>すべり」の<ruby>危険<rt>きけん</rt></ruby>がある
 last_modified_at: '2017-05-24T16:00:00+09:00'

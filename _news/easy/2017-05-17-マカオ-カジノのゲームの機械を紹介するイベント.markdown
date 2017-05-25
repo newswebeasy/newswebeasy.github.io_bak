@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010984271000
 title: マカオ　カジノのゲームの機械を紹介するイベント
 title_with_ruby: マカオ　カジノのゲームの<ruby>機械<rt>きかい</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント
 last_modified_at: '2017-05-17T15:40:00+09:00'

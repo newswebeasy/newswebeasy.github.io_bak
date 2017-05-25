@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010977341000
 title: マイクロソフト　話したことをすぐに翻訳するサービス
 title_with_ruby: マイクロソフト　<ruby>話<rt>はな</rt></ruby>したことをすぐに<ruby>翻訳<rt>ほんやく</rt></ruby>するサービス
 last_modified_at: '2017-05-15T11:30:00+09:00'

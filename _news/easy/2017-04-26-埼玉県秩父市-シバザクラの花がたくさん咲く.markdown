@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010959791000
 title: 埼玉県秩父市-シバザクラの花がたくさん咲く
 title_with_ruby: <ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>秩父市<rt>ちちぶし</rt></ruby>　シバザクラの<ruby>花<rt>はな</rt></ruby>がたくさん<ruby>咲<rt>さ</rt></ruby>く
 last_modified_at: '2017-04-26T11:30:00+09:00'

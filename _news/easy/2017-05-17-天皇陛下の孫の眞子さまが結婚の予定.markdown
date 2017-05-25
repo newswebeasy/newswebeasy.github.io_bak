@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010983991000
 title: 天皇陛下の孫の眞子さまが結婚の予定
 title_with_ruby: <ruby>天皇<rt>てんのう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>の<ruby>孫<rt>まご</rt></ruby>の<ruby>眞子<rt>まこ</rt></ruby>さまが<ruby>結婚<rt>けっこん</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>
 last_modified_at: '2017-05-17T15:40:00+09:00'

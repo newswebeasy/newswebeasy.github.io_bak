@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010959141000
 title: フランスの大統領-マクロンさんとルペンさんの2人から選ぶ
 title_with_ruby: フランスの<ruby>大統領<rt>だいとうりょう</rt></ruby>　マクロンさんとルペンさんの<ruby>２人<rt>ふたり</rt></ruby>から<ruby>選<rt>えら</rt></ruby>ぶ
 last_modified_at: '2017-04-25T15:35:00+09:00'

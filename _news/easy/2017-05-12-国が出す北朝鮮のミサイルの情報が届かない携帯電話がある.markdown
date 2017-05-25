@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010976971000
 title: 国が出す北朝鮮のミサイルの情報が届かない携帯電話がある
 title_with_ruby: <ruby>国<rt>くに</rt></ruby>が<ruby>出<rt>だ</rt></ruby>す<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のミサイルの<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>届<rt>とど</rt></ruby>かない<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>がある
 last_modified_at: '2017-05-12T11:30:00+09:00'

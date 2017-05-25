@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010975761000
 title: 「家ではリビングルームで勉強する」と答えた子どもが多い
 title_with_ruby: 「<ruby>家<rt>いえ</rt></ruby>ではリビングルームで<ruby>勉強<rt>べんきょう</rt></ruby>する」と<ruby>答<rt>こた</rt></ruby>えた<ruby>子<rt>こ</rt></ruby>どもが<ruby>多<rt>おお</rt></ruby>い
 last_modified_at: '2017-05-11T11:30:00+09:00'

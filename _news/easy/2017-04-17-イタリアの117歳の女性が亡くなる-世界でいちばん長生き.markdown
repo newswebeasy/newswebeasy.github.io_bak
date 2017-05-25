@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010950161000
 title: イタリアの117歳の女性が亡くなる-世界でいちばん長生き
 title_with_ruby: イタリアの１１７<ruby>歳<rt>さい</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる　<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>長生<rt>ながい</rt></ruby>き
 last_modified_at: '2017-04-17T16:00:00+09:00'

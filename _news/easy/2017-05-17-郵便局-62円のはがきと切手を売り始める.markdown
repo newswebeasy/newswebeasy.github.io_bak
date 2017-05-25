@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010981801000
 title: 郵便局　６２円のはがきと切手を売り始める
 title_with_ruby: <ruby>郵便局<rt>ゆうびんきょく</rt></ruby>　６２<ruby>円<rt>えん</rt></ruby>のはがきと<ruby>切手<rt>きって</rt></ruby>を<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める
 last_modified_at: '2017-05-17T11:30:00+09:00'

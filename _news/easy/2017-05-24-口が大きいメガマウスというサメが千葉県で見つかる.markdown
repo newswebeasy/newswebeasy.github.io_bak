@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010992101000
 title: 口が大きい「メガマウス」というサメが千葉県で見つかる
 title_with_ruby: <ruby>口<rt>くち</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きい「メガマウス」というサメが<ruby>千葉県<rt>ちばけん</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかる
 last_modified_at: '2017-05-24T11:30:00+09:00'

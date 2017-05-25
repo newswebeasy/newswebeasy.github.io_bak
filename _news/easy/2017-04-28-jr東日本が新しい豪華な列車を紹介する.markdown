@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010962051000
 title: jr東日本が新しい豪華な列車を紹介する
 title_with_ruby: ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>豪華<rt>ごうか</rt></ruby>な<ruby>列車<rt>れっしゃ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する
 last_modified_at: '2017-04-28T11:30:00+09:00'

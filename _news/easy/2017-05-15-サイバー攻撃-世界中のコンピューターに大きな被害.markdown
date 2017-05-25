@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010981601000
 title: サイバー攻撃　世界中のコンピューターに大きな被害
 title_with_ruby: サイバー<ruby>攻撃<rt>こうげき</rt></ruby>　<ruby>世界中<rt>せかいじゅう</rt></ruby>のコンピューターに<ruby>大<rt>おお</rt></ruby>きな<ruby>被害<rt>ひがい</rt></ruby>
 last_modified_at: '2017-05-15T16:35:00+09:00'

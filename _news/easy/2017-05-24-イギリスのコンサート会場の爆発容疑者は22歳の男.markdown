@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010992911000
 title: イギリスのコンサート会場の爆発「容疑者は２２歳の男」
 title_with_ruby: イギリスのコンサート<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>爆発<rt>ばくはつ</rt></ruby>「<ruby>容疑者<rt>ようぎしゃ</rt></ruby>は２２<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>」
 last_modified_at: '2017-05-24T16:00:00+09:00'

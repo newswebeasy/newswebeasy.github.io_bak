@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010961561000
 title: 北朝鮮軍ができてから最も大きな訓練を行った
 title_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>「<ruby>軍<rt>ぐん</rt></ruby>ができてから<ruby>最<rt>もっと</rt></ruby>も<ruby>大<rt>おお</rt></ruby>きな<ruby>訓練<rt>くんれん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>った」
 last_modified_at: '2017-04-26T16:40:00+09:00'

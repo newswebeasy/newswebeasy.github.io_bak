@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010946321000
 title: ベトナムの大学に日本のビジネスの学科が初めてできる
 title_with_ruby: ベトナムの<ruby>大学<rt>だいがく</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>のビジネスの<ruby>学科<rt>がっか</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めてできる
 last_modified_at: '2017-04-14T11:30:00+09:00'

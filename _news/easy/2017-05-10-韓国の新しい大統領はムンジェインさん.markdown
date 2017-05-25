@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010975861000
 title: 韓国の新しい大統領はムン・ジェインさん
 title_with_ruby: <ruby>韓国<rt>かんこく</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>大統領<rt>だいとうりょう</rt></ruby>はムン・ジェインさん
 last_modified_at: '2017-05-10T16:05:00+09:00'

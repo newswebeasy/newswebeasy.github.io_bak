@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010993031000
 title: ５月の大相撲　横綱の稀勢の里が２４日から休む
 title_with_ruby: ５<ruby>月<rt>がつ</rt></ruby>の<ruby>大相撲<rt>おおずもう</rt></ruby>　<ruby>横綱<rt>よこづな</rt></ruby>の<ruby>稀勢<rt>きせ</rt></ruby>の<ruby>里<rt>さと</rt></ruby>が<ruby>２４日<rt>にじゅうよっか</rt></ruby>から<ruby>休<rt>やす</rt></ruby>む
 last_modified_at: '2017-05-24T16:00:00+09:00'

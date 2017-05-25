@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010984931000
 title: 銀座のデパート「女性と子どもの浴衣をたくさん売りたい」
 title_with_ruby: <ruby>銀座<rt>ぎんざ</rt></ruby>のデパート「<ruby>女性<rt>じょせい</rt></ruby>と<ruby>子<rt>こ</rt></ruby>どもの<ruby>浴衣<rt>ゆかた</rt></ruby>をたくさん<ruby>売<rt>う</rt></ruby>りたい」
 last_modified_at: '2017-05-22T11:30:00+09:00'

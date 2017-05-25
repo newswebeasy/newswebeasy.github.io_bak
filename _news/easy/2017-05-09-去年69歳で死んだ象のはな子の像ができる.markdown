@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010971381000
 title: 去年６９歳で死んだ象の「はな子」の像ができる
 title_with_ruby: <ruby>去年<rt>きょねん</rt></ruby>６９<ruby>歳<rt>さい</rt></ruby>で<ruby>死<rt>し</rt></ruby>んだ<ruby>象<rt>ぞう</rt></ruby>の「はな<ruby>子<rt>こ</rt></ruby>」の<ruby>像<rt>ぞう</rt></ruby>ができる
 last_modified_at: '2017-05-09T11:30:00+09:00'

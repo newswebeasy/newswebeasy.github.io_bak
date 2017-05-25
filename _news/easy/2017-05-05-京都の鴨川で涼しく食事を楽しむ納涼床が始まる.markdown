@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010964371000
 title: 京都の鴨川で涼しく食事を楽しむ「納涼床」が始まる
 title_with_ruby: <ruby>京都<rt>きょうと</rt></ruby>の<ruby>鴨川<rt>かもがわ</rt></ruby>で<ruby>涼<rt>すず</rt></ruby>しく<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむ「<ruby>納涼床<rt>のうりょうゆか</rt></ruby>」が<ruby>始<rt>はじ</rt></ruby>まる
 last_modified_at: '2017-05-05T10:35:00+09:00'

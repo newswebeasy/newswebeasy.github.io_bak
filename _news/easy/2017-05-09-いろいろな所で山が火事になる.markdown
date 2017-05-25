@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010974721000
 title: いろいろな所で山が火事になる
 title_with_ruby: いろいろな<ruby>所<rt>ところ</rt></ruby>で<ruby>山<rt>やま</rt></ruby>が<ruby>火事<rt>かじ</rt></ruby>になる
 last_modified_at: '2017-05-09T15:45:00+09:00'

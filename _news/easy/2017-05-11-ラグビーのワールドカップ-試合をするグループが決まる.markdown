@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010976661000
 title: ラグビーのワールドカップ　試合をするグループが決まる
 title_with_ruby: ラグビーのワールドカップ　<ruby>試合<rt>しあい</rt></ruby>をするグループが<ruby>決<rt>き</rt></ruby>まる
 last_modified_at: '2017-05-11T16:05:00+09:00'

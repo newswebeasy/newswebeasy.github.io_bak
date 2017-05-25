@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010960061000
 title: 栃木県　川の近くに３００匹の「あゆのぼり」を飾る
 title_with_ruby: <ruby>栃木県<rt>とちぎけん</rt></ruby>　<ruby>川<rt>かわ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに３００<ruby>匹<rt>ぴき</rt></ruby>の「あゆのぼり」を<ruby>飾<rt>かざ</rt></ruby>る
 last_modified_at: '2017-05-05T10:35:00+09:00'

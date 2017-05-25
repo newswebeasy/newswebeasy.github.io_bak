@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010990961000
 title: 東京オリンピックなどのマスコット　子どもたちが選ぶ
 title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>オリンピックなどのマスコット　<ruby>子<rt>こ</rt></ruby>どもたちが<ruby>選<rt>えら</rt></ruby>ぶ
 last_modified_at: '2017-05-23T15:45:00+09:00'

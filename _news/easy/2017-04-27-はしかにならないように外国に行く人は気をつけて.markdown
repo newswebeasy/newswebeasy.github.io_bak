@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010962611000
 title: はしかにならないように外国に行く人は気をつけて
 title_with_ruby: 「はしかにならないように<ruby>外国<rt>がいこく</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>は<ruby>気<rt>き</rt></ruby>をつけて」
 last_modified_at: '2017-04-27T15:20:00+09:00'

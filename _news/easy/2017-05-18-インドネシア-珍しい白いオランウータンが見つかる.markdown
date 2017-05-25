@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010984091000
 title: インドネシア　珍しい白いオランウータンが見つかる
 title_with_ruby: インドネシア　<ruby>珍<rt>めずら</rt></ruby>しい<ruby>白<rt>しろ</rt></ruby>いオランウータンが<ruby>見<rt>み</rt></ruby>つかる
 last_modified_at: '2017-05-18T11:30:00+09:00'

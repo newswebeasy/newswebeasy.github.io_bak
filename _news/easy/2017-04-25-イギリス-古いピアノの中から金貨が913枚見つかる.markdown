@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010958121000
 title: イギリス-古いピアノの中から金貨が913枚見つかる
 title_with_ruby: イギリス　<ruby>古<rt>ふる</rt></ruby>いピアノの<ruby>中<rt>なか</rt></ruby>から<ruby>金貨<rt>きんか</rt></ruby>が９１３<ruby>枚<rt>まい</rt></ruby><ruby>見<rt>み</rt></ruby>つかる
 last_modified_at: '2017-04-25T11:30:00+09:00'

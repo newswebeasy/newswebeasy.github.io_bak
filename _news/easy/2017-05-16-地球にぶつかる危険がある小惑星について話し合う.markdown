@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010982311000
 title: 地球にぶつかる危険がある小惑星について話し合う
 title_with_ruby: <ruby>地球<rt>ちきゅう</rt></ruby>にぶつかる<ruby>危険<rt>きけん</rt></ruby>がある<ruby>小惑星<rt>しょうわくせい</rt></ruby>について<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う
 last_modified_at: '2017-05-16T15:30:00+09:00'

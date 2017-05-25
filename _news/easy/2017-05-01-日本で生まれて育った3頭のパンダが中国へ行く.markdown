@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010967361000
 title: 日本で生まれて育った3頭のパンダが中国へ行く
 title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれて<ruby>育<rt>そだ</rt></ruby>った３<ruby>頭<rt>とう</rt></ruby>のパンダが<ruby>中国<rt>ちゅうごく</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く
 last_modified_at: '2017-05-01T16:05:00+09:00'

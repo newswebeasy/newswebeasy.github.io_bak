@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010973061000
 title: 結婚したことがない５０歳の割合が今まででいちばん多くなる
 title_with_ruby: <ruby>結婚<rt>けっこん</rt></ruby>したことがない５０<ruby>歳<rt>さい</rt></ruby>の<ruby>割合<rt>わりあい</rt></ruby>が<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなる
 last_modified_at: '2017-05-09T11:30:00+09:00'

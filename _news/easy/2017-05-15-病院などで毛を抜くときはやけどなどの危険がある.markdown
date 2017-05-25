@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010978551000
 title: 病院などで毛を抜くときはやけどなどの危険がある
 title_with_ruby: <ruby>病院<rt>びょういん</rt></ruby>などで<ruby>毛<rt>け</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>くときはやけどなどの<ruby>危険<rt>きけん</rt></ruby>がある
 last_modified_at: '2017-05-15T11:30:00+09:00'

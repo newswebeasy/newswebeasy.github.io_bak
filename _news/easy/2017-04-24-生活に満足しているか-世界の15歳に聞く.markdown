@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010955991000
 title: 生活に満足しているか-世界の15歳に聞く
 title_with_ruby: 「<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>満足<rt>まんぞく</rt></ruby>しているか」　<ruby>世界<rt>せかい</rt></ruby>の１５<ruby>歳<rt>さい</rt></ruby>に<ruby>聞<rt>き</rt></ruby>く
 last_modified_at: '2017-04-24T11:30:00+09:00'

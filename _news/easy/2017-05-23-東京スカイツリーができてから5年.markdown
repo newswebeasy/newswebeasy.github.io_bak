@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010990591000
 title: 東京スカイツリーができてから５年
 title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>スカイツリーができてから５<ruby>年<rt>ねん</rt></ruby>
 last_modified_at: '2017-05-23T15:45:00+09:00'

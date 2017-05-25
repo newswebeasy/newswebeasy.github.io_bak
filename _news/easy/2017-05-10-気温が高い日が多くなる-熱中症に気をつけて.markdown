@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010975011000
 title: 気温が高い日が多くなる　熱中症に気をつけて
 title_with_ruby: <ruby>気温<rt>きおん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなる　<ruby>熱中症<rt>ねっちゅうしょう</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけて
 last_modified_at: '2017-05-10T16:05:00+09:00'

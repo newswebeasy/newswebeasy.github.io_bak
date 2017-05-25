@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010985181000
 title: ４００種類以上のビールを楽しむイベントが始まる
 title_with_ruby: ４００<ruby>種類<rt>しゅるい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のビールを<ruby>楽<rt>たの</rt></ruby>しむイベントが<ruby>始<rt>はじ</rt></ruby>まる
 last_modified_at: '2017-05-18T16:40:00+09:00'

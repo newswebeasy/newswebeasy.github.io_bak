@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010973131000
 title: フランスの次の大統領は３９歳のマクロンさんに決まる
 title_with_ruby: フランスの<ruby>次<rt>つぎ</rt></ruby>の<ruby>大統領<rt>だいとうりょう</rt></ruby>は３９<ruby>歳<rt>さい</rt></ruby>のマクロンさんに<ruby>決<rt>き</rt></ruby>まる
 last_modified_at: '2017-05-08T16:15:00+09:00'

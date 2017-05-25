@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010971841000
 title: 福岡県の沖ノ島などが７月に世界文化遺産になりそう
 title_with_ruby: <ruby>福岡県<rt>ふくおかけん</rt></ruby>の<ruby>沖<rt>おき</rt></ruby>ノ<ruby>島<rt>しま</rt></ruby>などが７<ruby>月<rt>がつ</rt></ruby>に<ruby>世界文化遺産<rt>せかいぶんかいさん</rt></ruby>になりそう
 last_modified_at: '2017-05-08T16:15:00+09:00'

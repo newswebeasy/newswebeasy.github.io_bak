@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010981871000
 title: 京都で「葵祭」　平安時代の着物を着た人たちが町を歩く
 title_with_ruby: <ruby>京都<rt>きょうと</rt></ruby>で「<ruby>葵祭<rt>あおいまつり</rt></ruby>」　<ruby>平安時代<rt>へいあんじだい</rt></ruby>の<ruby>着物<rt>きもの</rt></ruby>を<ruby>着<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちが<ruby>町<rt>まち</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>く
 last_modified_at: '2017-05-16T15:30:00+09:00'

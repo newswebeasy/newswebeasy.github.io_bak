@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010955761000
 title: お金をとられそうになったおばあさんを中学生が助ける
 title_with_ruby: お<ruby>金<rt>かね</rt></ruby>をとられそうになったおばあさんを<ruby>中学生<rt>ちゅうがくせい</rt></ruby>が<ruby>助<rt>たす</rt></ruby>ける
 last_modified_at: '2017-04-21T16:00:00+09:00'

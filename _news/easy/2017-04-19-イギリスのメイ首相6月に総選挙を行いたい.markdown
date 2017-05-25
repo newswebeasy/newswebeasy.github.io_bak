@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010953361000
 title: イギリスのメイ首相6月に総選挙を行いたい
 title_with_ruby: イギリスのメイ<ruby>首相<rt>しゅしょう</rt></ruby>「６<ruby>月<rt>がつ</rt></ruby>に<ruby>総選挙<rt>そうせんきょ</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>いたい」
 last_modified_at: '2017-04-19T16:25:00+09:00'

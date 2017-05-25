@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010968561000
 title: アメリカ　「韓国でＴＨＡＡＤを使う準備ができた」
 title_with_ruby: アメリカ　「<ruby>韓国<rt>かんこく</rt></ruby>でＴＨＡＡＤを<ruby>使<rt>つか</rt></ruby>う<ruby>準備<rt>じゅんび</rt></ruby>ができた」
 last_modified_at: '2017-05-02T15:35:00+09:00'

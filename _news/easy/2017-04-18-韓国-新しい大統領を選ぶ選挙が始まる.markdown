@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010951071000
 title: 韓国-新しい大統領を選ぶ選挙が始まる
 title_with_ruby: <ruby>韓国<rt>かんこく</rt></ruby>　<ruby>新<rt>あたら</rt></ruby>しい<ruby>大統領<rt>だいとうりょう</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ<ruby>選挙<rt>せんきょ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
 last_modified_at: '2017-04-18T15:45:00+09:00'

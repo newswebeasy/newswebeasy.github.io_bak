@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010982951000
 title: 痴漢をしたと言われた男性が電車にぶつかって亡くなる
 title_with_ruby: <ruby>痴漢<rt>ちかん</rt></ruby>をしたと<ruby>言<rt>い</rt></ruby>われた<ruby>男性<rt>だんせい</rt></ruby>が<ruby>電車<rt>でんしゃ</rt></ruby>にぶつかって<ruby>亡<rt>な</rt></ruby>くなる
 last_modified_at: '2017-05-16T15:30:00+09:00'

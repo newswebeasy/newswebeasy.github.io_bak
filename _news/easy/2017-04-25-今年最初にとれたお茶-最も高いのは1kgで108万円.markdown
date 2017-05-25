@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010959241000
 title: 今年最初にとれたお茶-最も高いのは1kgで108万円
 title_with_ruby: <ruby>今年<rt>ことし</rt></ruby><ruby>最初<rt>さいしょ</rt></ruby>にとれたお<ruby>茶<rt>ちゃ</rt></ruby>　<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>いのは１ｋｇで１０８<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>
 last_modified_at: '2017-04-25T15:35:00+09:00'

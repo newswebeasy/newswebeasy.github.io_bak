@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010960041000
 title: 2025年の万国博覧会を大阪府で開きたい
 title_with_ruby: ２０２５<ruby>年<rt>ねん</rt></ruby>の<ruby>万国博覧会<rt>ばんこくはくらんかい</rt></ruby>を<ruby>大阪府<rt>おおさかふ</rt></ruby>で<ruby>開<rt>ひら</rt></ruby>きたい
 last_modified_at: '2017-04-26T11:30:00+09:00'

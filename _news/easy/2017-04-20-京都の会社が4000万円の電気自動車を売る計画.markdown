@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+newsid: k10010952651000
 title: 京都の会社が4000万円の電気自動車を売る計画
 title_with_ruby: <ruby>京都<rt>きょうと</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が４０００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>の<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>を<ruby>売<rt>う</rt></ruby>る<ruby>計画<rt>けいかく</rt></ruby>
 last_modified_at: '2017-04-20T11:30:00+09:00'
