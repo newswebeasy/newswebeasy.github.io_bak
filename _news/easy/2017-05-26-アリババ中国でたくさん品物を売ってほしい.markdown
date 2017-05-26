@@ -1,0 +1,54 @@
+---
+layout: easy_news
+newsid: k10010995081000
+categories: easy
+title: アリババ「中国でたくさん品物を売ってほしい」
+title_with_ruby: アリババ「<ruby>中国<rt>ちゅうごく</rt></ruby>でたくさん<ruby>品物<rt>しなもの</rt></ruby>を<ruby>売<rt>う</rt></ruby>ってほしい」
+last_modified_at: '2017-05-26T16:05:00+09:00'
+datetime: 2017年05月26日 16時05分
+description: アリババグループは、中国ちゅうごくで最もっとも大おおきな買かい物もののウェブサイトの会社かいしゃです。
+description_with_ruby: アリババグループは、<ruby>中国<rt>ちゅうごく</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>大<rt>おお</rt></ruby>きな<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>のウェブサイトの<ruby>会社<rt>かいしゃ</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/26/k10010995081000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/26/k10010995081000.mp3
+contents: "<p>アリババグループは、<ruby>中国<rt>ちゅうごく</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>大<rt>おお</rt></ruby>きな<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>の<span\
+  \ style=\"color: blue;\">ウェブサイト</span>の<ruby>会社<rt>かいしゃ</rt></ruby>です。アリババグループのダニエル・チャンＣＥＯが<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、<ruby>中国<rt>ちゅうごく</rt></ruby>ではどんな<ruby>人<rt>ひと</rt></ruby>がどんな<ruby>物<rt>もの</rt></ruby>をインターネットで<ruby>買<rt>か</rt></ruby>っているかなどを<ruby>説明<rt>せつめい</rt></ruby>しました。</p>\n\
+  <p>チャンＣＥＯは、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>輸入<rt>ゆにゅう</rt></ruby>した<ruby>物<rt>もの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>物<rt>もの</rt></ruby>がいちばん<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れ</span>ていると<ruby>言<rt>い</rt></ruby>いました。そして、「<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>は<ruby>値段<rt>ねだん</rt></ruby>よりも、いい<ruby>物<rt>もの</rt></ruby>か<ruby>安全<rt>あんぜん</rt></ruby>な<ruby>物<rt>もの</rt></ruby>かどうか<ruby>考<rt>かんが</rt></ruby>えて<ruby>買<rt>か</rt></ruby>っています」と<ruby>話<rt>はな</rt></ruby>しました。チャンＣＥＯは、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>にアリババグループの<span\
+  \ style=\"color: blue;\">ウェブサイト</span>でもっと<ruby>品物<rt>しなもの</rt></ruby>を<ruby>売<rt>う</rt></ruby>ってほしいと<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>のカルビーはアリババグループと<span style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>して、シリアルを<span\
+  \ style=\"color: blue;\">ウェブサイト</span>で<ruby>売<rt>う</rt></ruby>ることにしたと<span style=\"\
+  color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<ruby>中国<rt>ちゅうごく</rt></ruby>では<span\
+  \ style=\"color: blue;\"><ruby>健康<rt>けんこう</rt></ruby></span>に<ruby>気<rt>き</rt></ruby>をつける<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなっていて、<span\
+  \ style=\"color: blue;\">とうもろこし</span>や<span style=\"color: blue;\"><ruby>麦<rt>むぎ</rt></ruby></span>などから<ruby>作<rt>つく</rt></ruby>るシリアルの<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>くなっています。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+- word: 売れる
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 健康
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。
+- word: とうもろこし
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>、じくの<ruby><rb>周</rb><rt>まわ</rt></ruby>りにびっしり<ruby><rb>並</rb><rt>なら</rt></ruby>んだ<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>い<ruby><rb>実</rb><rt>み</rt></ruby>をたくさんつける。<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>や<ruby><rb>家畜</rb><rt>かちく</rt></ruby>のえさにする。とうきび。コーン。
+- word: 麦
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>大麦</rb><rt>おおむぎ</rt></ruby>・<ruby><rb>小麦</rb><rt>こむぎ</rt></ruby>・ハダカ<ruby><rb>麦</rb><rt>むぎ</rt></ruby>・ライ<ruby><rb>麦</rb><rt>むぎ</rt></ruby>など、<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>世界的</rb><rt>せかいてき</rt></ruby>に<ruby><rb>重要</rb><rt>じゅうよう</rt></ruby>な<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+web_news_url: /news/web/2017/05/25/アリババCEO-日本企業の積極的な出店呼びかけ/
+source_url: http://www3.nhk.or.jp/news/easy/k10010995081000/k10010995081000.html
+...
