@@ -1,0 +1,58 @@
+---
+layout: easy_news
+newsid: k10010995441000
+categories: easy
+title: 使っていない土地が増える　人口が少なくなったことが原因
+title_with_ruby: <ruby>使<rt>つか</rt></ruby>っていない<ruby>土地<rt>とち</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える　<ruby>人口<rt>じんこう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなったことが<ruby>原因<rt>げんいん</rt></ruby>
+last_modified_at: '2017-05-29T11:30:00+09:00'
+datetime: 2017年05月29日 11時30分
+description: 政府せいふによると、個人こじんが持もっている土地とちの中なかで、使つかっていない土地とちは２０１３年ねんに全部ぜんぶで９８１㎢ありました。
+description_with_ruby: <ruby>政府<rt>せいふ</rt></ruby>によると、<ruby>個人<rt>こじん</rt></ruby>が<ruby>持<rt>も</rt></ruby>っている<ruby>土地<rt>とち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>使<rt>つか</rt></ruby>っていない<ruby>土地<rt>とち</rt></ruby>は２０１３<ruby>年<rt>ねん</rt></ruby>に<ruby>全部<rt>ぜんぶ</rt></ruby>で９８１㎢ありました。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/29/k10010995441000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/29/k10010995441000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>によると、<span\
+  \ style=\"color: blue;\"><ruby>個人<rt>こじん</rt></ruby></span>が<ruby>持<rt>も</rt></ruby>っている<span\
+  \ style=\"color: blue;\"><ruby>土地<rt>とち</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、<ruby>使<rt>つか</rt></ruby>っていない<span\
+  \ style=\"color: blue;\"><ruby>土地<rt>とち</rt></ruby></span>は２０１３<ruby>年<rt>ねん</rt></ruby>に<ruby>全部<rt>ぜんぶ</rt></ruby>で９８１km²ありました。これは、<ruby>東京都<rt>とうきょうと</rt></ruby>の２３<ruby>区<rt>く</rt></ruby>の１．５<ruby>倍<rt>ばい</rt></ruby>です。<ruby>使<rt>つか</rt></ruby>っていない<span\
+  \ style=\"color: blue;\"><ruby>土地<rt>とち</rt></ruby></span>は１０<ruby>年<rt>ねん</rt></ruby>で４０％<ruby>増<rt>ふ</rt></ruby>えました。</p>\n\
+  <p><ruby>人口<rt>じんこう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなっていることが<ruby>原因<rt>げんいん</rt></ruby>で、<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>都市<rt>とし</rt></ruby></span>ではない<ruby>所<rt>ところ</rt></ruby>で<ruby>使<rt>つか</rt></ruby>っていない<span\
+  \ style=\"color: blue;\"><ruby>土地<rt>とち</rt></ruby></span>が<ruby>特<rt>とく</rt></ruby>に<ruby>増<rt>ふ</rt></ruby>えています。</p>\n\
+  <p><ruby>使<rt>つか</rt></ruby>っていない<span style=\"color: blue;\"><ruby>土地<rt>とち</rt></ruby></span>にごみを<ruby>捨<rt>す</rt></ruby>てる<ruby>人<rt>ひと</rt></ruby>もいます。<ruby>誰<rt>だれ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>土地<rt>とち</rt></ruby></span>かわからない<ruby>所<rt>ところ</rt></ruby>もあって、<span\
+  \ style=\"color: blue;\"><ruby>災害<rt>さいがい</rt></ruby></span>のあとに<ruby>必要<rt>ひつよう</rt></ruby>な<span\
+  \ style=\"color: blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>ができないこともあります。</p>\n<p><span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、これからも<ruby>人口<rt>じんこう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなって、<ruby>使<rt>つか</rt></ruby>っていない<span\
+  \ style=\"color: blue;\"><ruby>土地<rt>とち</rt></ruby></span>はもっと<ruby>増<rt>ふ</rt></ruby>えると<ruby>考<rt>かんが</rt></ruby>えています。このため、<ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>などが<ruby>新<rt>あたら</rt></ruby>しい<ruby>規則<rt>きそく</rt></ruby>を<ruby>作<rt>つく</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>土地<rt>とち</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>の<ruby>代<rt>か</rt></ruby>わりにごみの<ruby>掃除<rt>そうじ</rt></ruby>などをできるようにすることが<ruby>必要<rt>ひつよう</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っています。<span\
+  \ style=\"color: blue;\">ＮＰＯ</span>などと<ruby>一緒<rt>いっしょ</rt></ruby>に、<ruby>使<rt>つか</rt></ruby>っていない<span\
+  \ style=\"color: blue;\"><ruby>土地<rt>とち</rt></ruby></span>を、<ruby>町<rt>まち</rt></ruby>を<ruby>元気<rt>げんき</rt></ruby>にするために<ruby>使<rt>つか</rt></ruby>うことも<ruby>必要<rt>ひつよう</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>"
+words:
+- word: 土地
+  descriptions:
+  - つち。<ruby><rb>大地</rb><rt>だいち</rt></ruby>。
+  - <ruby><rb>地面</rb><rt>じめん</rt></ruby>。<ruby><rb>地所</rb><rt>じしょ</rt></ruby>。
+  - その<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 個人
+  descriptions:
+  - <ruby><rb>社会</rb><rt>しゃかい</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている、<ruby><rb>一人</rb><rt>ひとり</rt></ruby><ruby><rb>一人</rb><rt>ひとり</rt></ruby>。<ruby><rb>一人</rb><rt>ひとり</rt></ruby>の<ruby><rb>人間</rb><rt>にんげん</rt></ruby>。
+- word: 都市
+  descriptions:
+  - たくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まり<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>町</rb><rt>まち</rt></ruby>。<ruby><rb>都会</rb><rt>とかい</rt></ruby>。
+- word: 災害
+  descriptions:
+  - <ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。
+- word: 工事
+  descriptions:
+  - <ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。
+- word: NPO
+  descriptions:
+  - <ruby><rb>営利</rb><rt>えいり</rt></ruby>を<ruby><rb>目的</rb><rt>もくてき</rt></ruby>とせずに<ruby><rb>社会的</rb><rt>しゃかいてき</rt></ruby>な<ruby><rb>活動</rb><rt>かつどう</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+web_news_url: /news/web/2017/05/26/人口減少で個人所有の空き地増加-早急な対策を/
+source_url: http://www3.nhk.or.jp/news/easy/k10010995441000/k10010995441000.html
+...
