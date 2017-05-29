@@ -1,0 +1,57 @@
+---
+layout: easy_news
+newsid: k10010995211000
+categories: easy
+title: 夏はエアコンや扇風機の火事に気をつけましょう
+title_with_ruby: <ruby>夏<rt>なつ</rt></ruby>はエアコンや<ruby>扇風機<rt>せんぷうき</rt></ruby>の<ruby>火事<rt>かじ</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけましょう
+last_modified_at: '2017-05-29T11:30:00+09:00'
+datetime: 2017年05月29日 11時30分
+description: 製品せいひんの安全あんぜんなどを調しらべているＮＩＴＥによると、去年きょねん３月がつまでの５年ねんに、エアコンや扇風機せんぷうきの火事かじが３４９件けんあって、１０人にんが亡なくなりました。
+description_with_ruby: <ruby>製品<rt>せいひん</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>などを<ruby>調<rt>しら</rt></ruby>べているＮＩＴＥによると、<ruby>去年<rt>きょねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>までの５<ruby>年<rt>ねん</rt></ruby>に、エアコンや<ruby>扇風機<rt>せんぷうき</rt></ruby>の<ruby>火事<rt>かじ</rt></ruby>が３４９<ruby>件<rt>けん</rt></ruby>あって、１０<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/29/k10010995211000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/29/k10010995211000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>製品<rt>せいひん</rt></ruby></span>の<ruby>安全<rt>あんぜん</rt></ruby>などを<ruby>調<rt>しら</rt></ruby>べているＮＩＴＥによると、<ruby>去年<rt>きょねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>までの５<ruby>年<rt>ねん</rt></ruby>に、エアコンや<span\
+  \ style=\"color: blue;\"><ruby>扇風機<rt>せんぷうき</rt></ruby></span>の<ruby>火事<rt>かじ</rt></ruby>が３４９<span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span>あって、１０<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p>エアコンの<ruby>火事<rt>かじ</rt></ruby>は２５９<span style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span>ありました。<ruby>火事<rt>かじ</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>は、エアコンの<span\
+  \ style=\"color: blue;\">コード</span>を<ruby>切<rt>き</rt></ruby>って<ruby>別<rt>べつ</rt></ruby>の<span\
+  \ style=\"color: blue;\">コード</span>と<span style=\"color: blue;\">つない</span>だり、エアコンに<ruby>使<rt>つか</rt></ruby>うことができない「<span\
+  \ style=\"color: blue;\"><ruby>延長<rt>えんちょう</rt></ruby></span><span style=\"color:\
+  \ blue;\">コード</span>」を<ruby>使<rt>つか</rt></ruby>ったりしたことが<ruby>多<rt>おお</rt></ruby>くなっています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>扇風機<rt>せんぷうき</rt></ruby></span>の<ruby>火事<rt>かじ</rt></ruby>は９０<span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span>ありました。<span style=\"color:\
+  \ blue;\"><ruby>部品<rt>ぶひん</rt></ruby></span>が<ruby>古<rt>ふる</rt></ruby>くなったことが<ruby>原因<rt>げんいん</rt></ruby>で<ruby>火事<rt>かじ</rt></ruby>になったことが<ruby>多<rt>おお</rt></ruby>くなっていました。<ruby>特<rt>とく</rt></ruby>に２０<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>使<rt>つか</rt></ruby>っていた<span\
+  \ style=\"color: blue;\"><ruby>扇風機<rt>せんぷうき</rt></ruby></span>の<ruby>火事<rt>かじ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなっていました。</p>\n\
+  <p>ＮＩＴＥは「エアコンや<span style=\"color: blue;\"><ruby>扇風機<rt>せんぷうき</rt></ruby></span>は６<ruby>月<rt>がつ</rt></ruby>〜８<ruby>月<rt>がつ</rt></ruby>に<ruby>使<rt>つか</rt></ruby>うことが<ruby>多<rt>おお</rt></ruby>くなるため、<ruby>火事<rt>かじ</rt></ruby>などが<ruby>増<rt>ふ</rt></ruby>えます。<span\
+  \ style=\"color: blue;\"><ruby>扇風機<rt>せんぷうき</rt></ruby></span>は、<ruby>動<rt>うご</rt></ruby>き<ruby>方<rt>かた</rt></ruby>がいつもと<ruby>違<rt>ちが</rt></ruby>っていたり<ruby>変<rt>へん</rt></ruby>な<ruby>音<rt>おと</rt></ruby>が<ruby>聞<rt>き</rt></ruby>こえたりするときは<ruby>使<rt>つか</rt></ruby>うのをやめてください」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 扇風機
+  descriptions:
+  - モーターで<ruby><rb>羽根</rb><rt>はね</rt></ruby>を<ruby><rb>回</rb><rt>まわ</rt></ruby>して、<ruby><rb>風</rb><rt>かぜ</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>機械</rb><rt>きかい</rt></ruby>。
+- word: 製品
+  descriptions:
+  - <ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+- word: 件
+  descriptions:
+  - ことがら。できごと。
+  - ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: コード
+  descriptions:
+  - ゴムやビニールを<ruby><rb>巻</rb><rt>ま</rt>いて</ruby>、<ruby><rb>電気</rb><rt>でんき</rt></ruby>が<ruby><rb>外</rb><rt>そと</rt></ruby>に<ruby><rb>流</rb><rt>なが</rt></ruby>れないようにした<ruby><rb>電線</rb><rt>でんせん</rt></ruby>
+- word: つなぐ
+  descriptions:
+  - はなれないように、ほかのものに<ruby><rb>結</rb><rt>むす</rt></ruby>びつける。
+  - はなれているものを、<ruby><rb>結</rb><rt>むす</rt></ruby>び<ruby><rb>合</rb><rt>あ</rt></ruby>わせてひと<ruby><rb>続</rb><rt>つづ</rt></ruby>きのものにする。
+  - <ruby><rb>長</rb><rt>なが</rt></ruby>く<ruby><rb>続</rb><rt>つづ</rt></ruby>くようにする。
+- word: 延長
+  descriptions:
+  - <ruby><rb>時間</rb><rt>じかん</rt></ruby>や<ruby><rb>長</rb><rt>なが</rt></ruby>さなどを、<ruby><rb>長</rb><rt>なが</rt></ruby>く<ruby><rb>延</rb><rt>の</rt></ruby>ばすこと。
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さ。
+  - ひと<ruby><rb>続</rb><rt>つづ</rt></ruby>きのもの。
+- word: 部品
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などを<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てている、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>の<ruby><rb>品</rb><rt>しな</rt></ruby>。<ruby><rb>部分品</rb><rt>ぶぶんひん</rt></ruby>。
+web_news_url: /news/web/2017/05/26/エアコンや扇風機による火災-夏を前に注意呼びかけ/
+source_url: http://www3.nhk.or.jp/news/easy/k10010995211000/k10010995211000.html
+...
