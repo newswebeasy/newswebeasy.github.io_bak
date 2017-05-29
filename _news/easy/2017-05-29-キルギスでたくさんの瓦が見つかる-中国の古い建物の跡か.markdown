@@ -1,0 +1,70 @@
+---
+layout: easy_news
+newsid: k10010998201000
+categories: easy
+title: キルギスでたくさんの瓦が見つかる　中国の古い建物の跡か
+title_with_ruby: キルギスでたくさんの<ruby>瓦<rt>かわら</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかる　<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>古<rt>ふる</rt></ruby>い<ruby>建物<rt>たてもの</rt></ruby>の<ruby>跡<rt>あと</rt></ruby>か
+last_modified_at: '2017-05-29T16:15:00+09:00'
+datetime: 2017年05月29日 16時15分
+description: 帝京大学ていきょうだいがくなどのグループは、シルクロードに関係かんけいがある遺跡いせきを調しらべています。
+description_with_ruby: <ruby>帝京大学<rt>ていきょうだいがく</rt></ruby>などのグループは、シルクロードに<ruby>関係<rt>かんけい</rt></ruby>がある<ruby>遺跡<rt>いせき</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べています。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/29/k10010998201000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/29/k10010998201000.mp3
+contents: "<p><ruby>帝京大学<rt>ていきょうだいがく</rt></ruby>などの<span style=\"color: blue;\">グループ</span>は、<span\
+  \ style=\"color: blue;\">シルクロード</span>に<ruby>関係<rt>かんけい</rt></ruby>がある<span style=\"\
+  color: blue;\"><ruby>遺跡<rt>いせき</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べています。４<ruby>月<rt>がつ</rt></ruby>〜５<ruby>月<rt>がつ</rt></ruby>には、キルギスにあるアク・ベシムという<span\
+  \ style=\"color: blue;\"><ruby>遺跡<rt>いせき</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べました。その<span\
+  \ style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>、たくさんの<span style=\"\
+  color: blue;\"><ruby>瓦<rt>かわら</rt></ruby></span>が<ruby>見<rt>み</rt></ruby>つかって、<ruby>漢字<rt>かんじ</rt></ruby>が<ruby>書<rt>か</rt></ruby>いてある<span\
+  \ style=\"color: blue;\"><ruby>瓦<rt>かわら</rt></ruby></span>もありました。</p>\n<p><ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>古<rt>ふる</rt></ruby>い<ruby>本<rt>ほん</rt></ruby>には、６５０<ruby>年<rt>ねん</rt></ruby>〜７００<ruby>年<rt>ねん</rt></ruby>ごろに、<span\
+  \ style=\"color: blue;\"><ruby>唐<rt>とう</rt></ruby></span>という<ruby>国<rt>くに</rt></ruby>の<ruby>最<rt>もっと</rt></ruby>も<ruby>西<rt>にし</rt></ruby>に、<ruby>国<rt>くに</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>る</span>ための「<ruby>砕葉鎮城<rt>さいようちんじょう</rt></ruby>」という<ruby>場所<rt>ばしょ</rt></ruby>があったと<ruby>書<rt>か</rt></ruby>いてあります。アク・ベシムがその<span\
+  \ style=\"color: blue;\"><ruby>跡<rt>あと</rt></ruby></span>かもしれないと<ruby>考<rt>かんが</rt></ruby>えられていました。</p>\n\
+  <p><span style=\"color: blue;\">グループ</span>は、<span style=\"color: blue;\"><ruby>瓦<rt>かわら</rt></ruby></span>が<ruby>見<rt>み</rt></ruby>つかった<ruby>場所<rt>ばしょ</rt></ruby>が、<span\
+  \ style=\"color: blue;\"><ruby>唐<rt>とう</rt></ruby></span>がつくった<ruby>建物<rt>たてもの</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>跡<rt>あと</rt></ruby></span>で「<ruby>砕葉鎮城<rt>さいようちんじょう</rt></ruby>」だったことが<ruby>初<rt>はじ</rt></ruby>めてわかったと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>帝京大学<rt>ていきょうだいがく</rt></ruby>の<ruby>山内和也<rt>やまうちかずや</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>は「<ruby>建物<rt>たてもの</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>跡<rt>あと</rt></ruby></span>が<ruby>見<rt>み</rt></ruby>つかったことで、<span\
+  \ style=\"color: blue;\">シルクロード</span>でどんな<span style=\"color: blue;\"><ruby>交流<rt>こうりゅう</rt></ruby></span>や<span\
+  \ style=\"color: blue;\"><ruby>争<rt>あらそ</rt></ruby>い</span>があったか、これからもっとわかるようになると<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 瓦
+  descriptions:
+  - <ruby><rb>屋根</rb><rt>やね</rt></ruby>をおおうのに<ruby><rb>使</rb><rt>つか</rt></ruby>うもの。<ruby><rb>粘土</rb><rt>ねんど</rt></ruby>を<ruby><rb>固</rb><rt>かた</rt></ruby>めてのばし、かまで<ruby><rb>焼</rb><rt>や</rt></ruby>いて<ruby><rb>作</rb><rt>つく</rt></ruby>る。
+- word: 跡
+  descriptions:
+  - <ruby><rb>残</rb><rt>のこ</rt></ruby>ったしるし。
+  - <ruby><rb>前</rb><rt>まえ</rt></ruby>に<ruby><rb>何</rb><rt>なに</rt></ruby>かがあった<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+  - ゆくえ。
+  - <ruby><rb>親</rb><rt>おや</rt></ruby>などが、<ruby><rb>残</rb><rt>のこ</rt></ruby>したもの。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: シルクロード
+  descriptions:
+  - <ruby><rb>中国</rb><rt>ちゅうごく</rt></ruby>から<ruby><rb>中央</rb><rt>ちゅうおう</rt></ruby>アジアを<ruby><rb>横断</rb><rt>おうだん</rt></ruby>して、<ruby><rb>地中海沿岸</rb><rt>ちちゅうかいえんがん</rt></ruby>に<ruby><rb>通</rb><rt>つう</rt></ruby>じていた<ruby><rb>道</rb><rt>みち</rt></ruby>。<ruby><rb>十三</rb><rt>じゅうさん</rt></ruby><ruby><rb>世紀</rb><rt>せいき</rt></ruby>ごろ、<ruby><rb>商人</rb><rt>しょうにん</rt></ruby>が<ruby><rb>中国</rb><rt>ちゅうごく</rt></ruby>の<ruby><rb>絹</rb><rt>きぬ</rt></ruby>（シルク）を、この<ruby><rb>道</rb><rt>みち</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>ってヨーロッパへ<ruby><rb>運</rb><rt>はこ</rt></ruby>んだことからの<ruby><rb>名</rb><rt>な</rt></ruby>。<ruby><rb>絹</rb><rt>きぬ</rt></ruby>の<ruby><rb>道</rb><rt>みち</rt></ruby>。
+- word: 遺跡
+  descriptions:
+  - <ruby><rb>歴史的</rb><rt>れきしてき</rt></ruby>なできごとや<ruby><rb>建物</rb><rt>たてもの</rt></ruby>のあった<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+- word: 唐
+  descriptions:
+  - <ruby><rb>中国</rb><rt>ちゅうごく</rt></ruby>の<ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>国名</rb><rt>こくめい</rt></ruby>。六一八<ruby><rb>年</rb><rt>ねん</rt></ruby>におこり、九〇七<ruby><rb>年</rb><rt>ねん</rt></ruby>にほろんだ。<ruby><rb>学問</rb><rt>がくもん</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>で、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>にも<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえた。
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>で<ruby><rb>中国</rb><rt>ちゅうごく</rt></ruby>や<ruby><rb>外国</rb><rt>がいこく</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>していったことば。から。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 交流
+  descriptions:
+  - たがいに<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>来</rb><rt>き</rt></ruby>すること。<ruby><rb>交</rb><rt>ま</rt></ruby>じり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時間</rb><rt>じかん</rt></ruby>ごとに、<ruby><rb>流</rb><rt>なが</rt></ruby>れの<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>が<ruby><rb>逆</rb><rt>ぎゃく</rt></ruby>になる<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>。
+- word: 争い
+  descriptions:
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>うこと。もめごと。けんか。
+web_news_url: /news/web/2017/05/29/キルギスで大量の瓦発見-唐の最も西の拠点跡か/
+source_url: http://www3.nhk.or.jp/news/easy/k10010998201000/k10010998201000.html
+...
