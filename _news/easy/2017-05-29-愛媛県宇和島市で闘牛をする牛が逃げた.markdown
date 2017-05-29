@@ -1,0 +1,56 @@
+---
+layout: easy_news
+newsid: k10010998161000
+categories: easy
+title: 愛媛県宇和島市で闘牛をする牛が逃げた
+title_with_ruby: <ruby>愛媛県<rt>えひめけん</rt></ruby><ruby>宇和島市<rt>うわじまし</rt></ruby>で<ruby>闘牛<rt>とうぎゅう</rt></ruby>をする<ruby>牛<rt>うし</rt></ruby>が<ruby>逃<rt>に</rt></ruby>げた
+last_modified_at: '2017-05-29T16:15:00+09:00'
+datetime: 2017年05月29日 16時15分
+description: 愛媛県えひめけん宇和島市うわじましでは牛うしと牛うしが戦たたかう「闘牛とうぎゅう」が昔むかしから盛さかんです。
+description_with_ruby: <ruby>愛媛県<rt>えひめけん</rt></ruby><ruby>宇和島市<rt>うわじまし</rt></ruby>では<ruby>牛<rt>うし</rt></ruby>と<ruby>牛<rt>うし</rt></ruby>が<ruby>戦<rt>たたか</rt></ruby>う「<ruby>闘牛<rt>とうぎゅう</rt></ruby>」が<ruby>昔<rt>むかし</rt></ruby>から<ruby>盛<rt>さか</rt></ruby>んです。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/29/k10010998161000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/29/k10010998161000.mp3
+contents: "<p><ruby>愛媛県<rt>えひめけん</rt></ruby><ruby>宇和島市<rt>うわじまし</rt></ruby>では<span\
+  \ style=\"color: blue;\"><ruby>牛<rt>うし</rt></ruby></span>と<span style=\"color: blue;\"\
+  ><ruby>牛<rt>うし</rt></ruby></span>が<span style=\"color: blue;\"><ruby>戦<rt>たたか</rt></ruby>う</span>「<ruby>闘牛<rt>とうぎゅう</rt></ruby>」が<ruby>昔<rt>むかし</rt></ruby>から<ruby>盛<rt>さか</rt></ruby>んです。<ruby>市<rt>し</rt></ruby>には<ruby>闘牛<rt>とうぎゅう</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>をする<ruby>闘牛場<rt>とうぎゅうじょう</rt></ruby>もあります。</p>\n\
+  <p>２８<ruby>日<rt>にち</rt></ruby><ruby>午後<rt>ごご</rt></ruby>６<ruby>時<rt>じ</rt></ruby>ごろ、この<ruby>闘牛場<rt>とうぎゅうじょう</rt></ruby>から<ruby>重<rt>おも</rt></ruby>さが８００ｋｇ〜９００ｋｇある<span\
+  \ style=\"color: blue;\"><ruby>牛<rt>うし</rt></ruby></span>が１<span style=\"color:\
+  \ blue;\"><ruby>頭<rt>とう</rt></ruby></span><ruby>逃<rt>に</rt></ruby>げました。</p>\n<p><ruby>逃<rt>に</rt></ruby>げた<span\
+  \ style=\"color: blue;\"><ruby>牛<rt>うし</rt></ruby></span>は、２８<ruby>日<rt>にち</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>で<ruby>足<rt>あし</rt></ruby>にけがをしたため<span\
+  \ style=\"color: blue;\"><ruby>麻酔<rt>ますい</rt></ruby></span>をしていました。そのあと<span style=\"\
+  color: blue;\"><ruby>牛<rt>うし</rt></ruby></span>の<span style=\"color: blue;\">ロープ</span>を<ruby>人<rt>ひと</rt></ruby>が<ruby>持<rt>も</rt></ruby>っていましたが、<span\
+  \ style=\"color: blue;\"><ruby>牛<rt>うし</rt></ruby></span>は<span style=\"color: blue;\"\
+  ><ruby>暴<rt>あば</rt></ruby>れ</span>て<ruby>逃<rt>に</rt></ruby>げました。<ruby>逃<rt>に</rt></ruby>げてから１<ruby>時間<rt>じかん</rt></ruby>ぐらいあとに、<ruby>警察<rt>けいさつ</rt></ruby>などが<ruby>近<rt>ちか</rt></ruby>くの<ruby>道<rt>みち</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>牛<rt>うし</rt></ruby></span>を<ruby>捕<rt>つか</rt></ruby>まえました。けがをした<ruby>人<rt>ひと</rt></ruby>はいませんでした。</p>\n\
+  <p><ruby>闘牛場<rt>とうぎゅうじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「４０<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>闘牛<rt>とうぎゅう</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をしていますが、<span\
+  \ style=\"color: blue;\"><ruby>麻酔<rt>ますい</rt></ruby></span>のあと<span style=\"color:\
+  \ blue;\"><ruby>牛<rt>うし</rt></ruby></span>が<span style=\"color: blue;\"><ruby>暴<rt>あば</rt></ruby>れ</span>たのは<ruby>初<rt>はじ</rt></ruby>めてです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 牛
+  descriptions:
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>から<ruby><rb>家畜</rb><rt>かちく</rt></ruby>として<ruby><rb>飼</rb><rt>か</rt></ruby>われてきた<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>頭</rb><rt>あたま</rt></ruby>に<ruby><rb>二本</rb><rt>にほん</rt></ruby>の<ruby><rb>角</rb><rt>つの</rt></ruby>がある。<ruby><rb>食</rb><rt>た</rt></ruby>べた<ruby><rb>草</rb><rt>くさ</rt></ruby>を、あとで<ruby><rb>口</rb><rt>くち</rt></ruby>にもどして「<ruby><rb>反</rb><rt>はん</rt></ruby>すう」する。<ruby><rb>仕事</rb><rt>しごと</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>役牛</rb><rt>えきぎゅう</rt></ruby>、<ruby><rb>乳</rb><rt>ちち</rt></ruby>をしぼる<ruby><rb>乳牛</rb><rt>にゅうぎゅう</rt></ruby>、<ruby><rb>肉</rb><rt>にく</rt></ruby>をとる<ruby><rb>肉牛</rb><rt>にくぎゅう</rt></ruby>などがいる。
+- word: 戦う
+  descriptions:
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>をする。
+  - わざを<ruby><rb>比</rb><rt>くら</rt></ruby>べて、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める。
+- word: 頭
+  descriptions:
+  - あたま。
+  - <ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つ<ruby><rb>者</rb><rt>もの</rt></ruby>。
+  - はじめ。
+  - <ruby><rb>辺</rb><rt>あた</rt></ruby>り。<ruby><rb>付近</rb><rt>ふきん</rt></ruby>。
+  - けものを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 麻酔
+  descriptions:
+  - <ruby><rb>手術</rb><rt>しゅじゅつ</rt></ruby>などのために、<ruby><rb>薬</rb><rt>くすり</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って、<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>感</rb><rt>かん</rt></ruby>じる<ruby><rb>痛</rb><rt>いた</rt></ruby>みを、<ruby><rb>一時</rb><rt>いちじ</rt></ruby>なくすこと。
+- word: ロープ
+  descriptions:
+  - あさ<ruby><rb>糸</rb><rt>いと</rt></ruby>や、<ruby><rb>針金</rb><rt>はりがね</rt></ruby>などを<ruby><rb>太</rb><rt>ふと</rt></ruby>くよった<ruby><rb>丈夫</rb><rt>じょうぶ</rt></ruby>なつな。
+- word: 暴れる
+  descriptions:
+  - <ruby><rb>乱暴</rb><rt>らんぼう</rt></ruby>なことをする。
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>うぞんぶん<ruby><rb>自由</rb><rt>じゆう</rt></ruby>なことをする。
+web_news_url: /news/web/2017/05/28/1トン近い闘牛が逃げ出す-約1時間後に捕獲-愛媛-宇和島/
+source_url: http://www3.nhk.or.jp/news/easy/k10010998161000/k10010998161000.html
+...
