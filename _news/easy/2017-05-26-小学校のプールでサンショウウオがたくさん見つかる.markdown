@@ -1,0 +1,49 @@
+---
+layout: easy_news
+newsid: k10010995021000
+categories: easy
+title: 小学校のプールでサンショウウオがたくさん見つかる
+title_with_ruby: <ruby>小学校<rt>しょうがっこう</rt></ruby>のプールでサンショウウオがたくさん<ruby>見<rt>み</rt></ruby>つかる
+last_modified_at: '2017-05-26T16:05:00+09:00'
+datetime: 2017年05月26日 16時05分
+description: サンショウウオの仲間なかまで体からだが小ちいさいカスミサンショウウオは、西日本にしにほんの川かわなどに住すんでいます。
+description_with_ruby: サンショウウオの<ruby>仲間<rt>なかま</rt></ruby>で<ruby>体<rt>からだ</rt></ruby>が<ruby>小<rt>ちい</rt></ruby>さいカスミサンショウウオは、<ruby>西日本<rt>にしにほん</rt></ruby>の<ruby>川<rt>かわ</rt></ruby>などに<ruby>住<rt>す</rt></ruby>んでいます。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/26/k10010995021000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/26/k10010995021000.mp3
+contents: "<p><span style=\"color: blue;\">サンショウウオ</span>の<span style=\"color: blue;\"\
+  ><ruby>仲間<rt>なかま</rt></ruby></span>で<ruby>体<rt>からだ</rt></ruby>が<ruby>小<rt>ちい</rt></ruby>さいカスミサンショウウオは、<ruby>西日本<rt>にしにほん</rt></ruby>の<ruby>川<rt>かわ</rt></ruby>などに<ruby>住<rt>す</rt></ruby>んでいます。<ruby>最近<rt>さいきん</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>が<ruby>少<rt>すく</rt></ruby>なくなっていて、<ruby>将来<rt>しょうらい</rt></ruby>いなくなる<ruby>心配<rt>しんぱい</rt></ruby>があります。</p>\n\
+  <p>このカスミサンショウウオが、<ruby>佐賀県<rt>さがけん</rt></ruby><ruby>唐津市<rt>からつし</rt></ruby>にある<ruby>名護屋<rt>なごや</rt></ruby><ruby>小学校<rt>しょうがっこう</rt></ruby>のプールで<ruby>見<rt>み</rt></ruby>つかりました。２５<ruby>日<rt>にち</rt></ruby>、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>プールに<ruby>入<rt>はい</rt></ruby>っていた<ruby>水<rt>みず</rt></ruby>を<ruby>出<rt>だ</rt></ruby>したら、<ruby>体<rt>からだ</rt></ruby>の<ruby>長<rt>なが</rt></ruby>さが３ｃｍ〜５ｃｍぐらいの<ruby>子<rt>こ</rt></ruby>どものカスミサンショウウオがたくさんいました。<span\
+  \ style=\"color: blue;\"><ruby>小学生<rt>しょうがくせい</rt></ruby></span>たちが１００<ruby>匹<rt>ぴき</rt></ruby>ぐらい<ruby>捕<rt>つか</rt></ruby>まえました。</p>\n\
+  <p><ruby>専門家<rt>せんもんか</rt></ruby>は「<ruby>近<rt>ちか</rt></ruby>くに<ruby>住<rt>す</rt></ruby>んでいるカスミサンショウウオがプールに<ruby>卵<rt>たまご</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>産<rt>う</rt></ruby>ん</span>だのだと<ruby>思<rt>おも</rt></ruby>います」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>小学校<rt>しょうがっこう</rt></ruby>は<ruby>捕<rt>つか</rt></ruby>まえたカスミサンショウウオを２<ruby>週間<rt>しゅうかん</rt></ruby>ぐらい<ruby>育<rt>そだ</rt></ruby>てたあと、<ruby>近<rt>ちか</rt></ruby>くの<ruby>山<rt>やま</rt></ruby>にある<ruby>川<rt>かわ</rt></ruby>などに<span\
+  \ style=\"color: blue;\"><ruby>放<rt>はな</rt></ruby>す</span><ruby>予定<rt>よてい</rt></ruby>です。６<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は「<ruby>自分<rt>じぶん</rt></ruby>の<ruby>学校<rt>がっこう</rt></ruby>に<ruby>珍<rt>めずら</rt></ruby>しい<ruby>動物<rt>どうぶつ</rt></ruby>がいて、うれしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: さんしょううお
+  descriptions:
+  - <ruby><rb>谷川</rb><rt>たにがわ</rt></ruby>などの<ruby><rb>清流</rb><rt>せいりゅう</rt></ruby>にすみ、<ruby><rb>形</rb><rt>かたち</rt></ruby>がイモリに<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。オオサンショウウオは<ruby><rb>特別</rb><rt>とくべつ</rt></ruby><ruby><rb>天然記念物</rb><rt>てんねんきねんぶつ</rt></ruby>で、<ruby><rb>大</rb><rt>おお</rt></ruby>きさが<ruby><rb>一</rb><rt>いち</rt></ruby>メートル<ruby><rb>以上</rb><rt>いじょう</rt></ruby>にもなるが、ほかの<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>は<ruby><rb>小</rb><rt>ちい</rt></ruby>さい。
+- word: 仲間
+  descriptions:
+  - いっしょにものごとをする<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>友達</rb><rt>ともだち</rt></ruby>。グループ。
+  - <ruby><rb>種類</rb><rt>しゅるい</rt></ruby>の<ruby><rb>同</rb><rt>おな</rt></ruby>じもの。
+- word: 数
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。
+  - いくつもあること。たくさん。
+  - <ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。
+- word: 小学生
+  descriptions:
+  - <ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>に<ruby><rb>通</rb><rt>かよ</rt></ruby>っている<ruby><rb>子</rb><rt>こ</rt></ruby>ども。
+- word: 産む
+  descriptions:
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+- word: 放す
+  descriptions:
+  - <ruby><rb>自由</rb><rt>じゆう</rt></ruby>にしてやる。
+  - つかんでいたのをやめる。
+  - そのままにしておく。
+web_news_url: /news/web/2017/05/25/大量のサンショウウオが小学校のプールに-佐賀/
+source_url: http://www3.nhk.or.jp/news/easy/k10010995021000/k10010995021000.html
+...

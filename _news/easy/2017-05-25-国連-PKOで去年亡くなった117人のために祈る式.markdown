@@ -1,0 +1,65 @@
+---
+layout: easy_news
+newsid: k10010994151000
+categories: easy
+title: 国連　ＰＫＯで去年亡くなった１１７人のために祈る式
+title_with_ruby: <ruby>国連<rt>こくれん</rt></ruby>　ＰＫＯで<ruby>去年<rt>きょねん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなった１１７<ruby>人<rt>にん</rt></ruby>のために<ruby>祈<rt>いの</rt></ruby>る<ruby>式<rt>しき</rt></ruby>
+last_modified_at: '2017-05-25T16:20:00+09:00'
+datetime: 2017年05月25日 16時20分
+description: 去年きょねん、国連こくれんのＰＫＯという平和へいわを守まもる活動かつどうをしていた兵士へいしや警官けいかんなどが１１７人にん亡なくなりました。
+description_with_ruby: <ruby>去年<rt>きょねん</rt></ruby>、<ruby>国連<rt>こくれん</rt></ruby>のＰＫＯという<ruby>平和<rt>へいわ</rt></ruby>を<ruby>守<rt>まも</rt></ruby>る<ruby>活動<rt>かつどう</rt></ruby>をしていた<ruby>兵士<rt>へいし</rt></ruby>や<ruby>警官<rt>けいかん</rt></ruby>などが１１７<ruby>人<rt>にん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなりました。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/25/k10010994151000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/25/k10010994151000.mp3
+contents: "<p><ruby>去年<rt>きょねん</rt></ruby>、<span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>の<span\
+  \ style=\"color: blue;\">ＰＫＯ</span>という<span style=\"color: blue;\"><ruby>平和<rt>へいわ</rt></ruby></span>を<span\
+  \ style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>る</span><span style=\"color: blue;\"\
+  ><ruby>活動<rt>かつどう</rt></ruby></span>をしていた<span style=\"color: blue;\"><ruby>兵士<rt>へいし</rt></ruby></span>や<ruby>警官<rt>けいかん</rt></ruby>などが１１７<ruby>人<rt>にん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなりました。<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>も<ruby>１人<rt>ひとり</rt></ruby><ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p>ニューヨークの<ruby>国連<rt>こくれん</rt></ruby><ruby>本部<rt>ほんぶ</rt></ruby>で<ruby>２４日<rt>にじゅうよっか</rt></ruby>、<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>のために<ruby>祈<rt>いの</rt></ruby>る<ruby>式<rt>しき</rt></ruby>がありました。<span\
+  \ style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>のグテーレス<ruby>事務総長<rt>じむそうちょう</rt></ruby>やたくさんの<ruby>国<rt>くに</rt></ruby>の<ruby>国連<rt>こくれん</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>大使<rt>たいし</rt></ruby></span>など２００<ruby>人<rt>にん</rt></ruby>が<ruby>出席<rt>しゅっせき</rt></ruby>して、<ruby>静<rt>しず</rt></ruby>かに<ruby>祈<rt>いの</rt></ruby>りました。</p>\n\
+  <p>グテーレス<ruby>事務総長<rt>じむそうちょう</rt></ruby>は「<span style=\"color: blue;\"><ruby>平和<rt>へいわ</rt></ruby></span>を<span\
+  \ style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>る</span>ためには、<ruby>危険<rt>きけん</rt></ruby>な<ruby>所<rt>ところ</rt></ruby>でも<span\
+  \ style=\"color: blue;\"><ruby>勇気<rt>ゆうき</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>する<ruby>人<rt>ひと</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>式<rt>しき</rt></ruby>のあとラクロワＰＫＯ<ruby>局長<rt>きょくちょう</rt></ruby>は、<ruby>新<rt>あたら</rt></ruby>しい<ruby>道具<rt>どうぐ</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>武器<rt>ぶき</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>増<rt>ふ</rt></ruby>やし</span>たり<ruby>女性<rt>じょせい</rt></ruby>を<ruby>多<rt>おお</rt></ruby>くしたりして、もっとよい<span\
+  \ style=\"color: blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>ができるようにしますと<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: PKO
+  descriptions:
+  - <ruby><rb>紛争</rb><rt>ふんそう</rt></ruby>の<ruby><rb>起</rb><rt>お</rt></ruby>きている<ruby><rb>地域</rb><rt>ちいき</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために、<ruby><rb>国連</rb><rt>こくれん</rt></ruby>が<ruby><rb>小規模</rb><rt>しょうきぼ</rt></ruby>の<ruby><rb>軍隊</rb><rt>ぐんたい</rt></ruby>を<ruby><rb>派遣</rb><rt>はけん</rt></ruby>して<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>活動</rb><rt>かつどう</rt></ruby>。<ruby><rb>国際連合平和維持活動</rb><rt>こくさいれんごうへいわいじかつどう</rt></ruby>。
+- word: 平和
+  descriptions:
+  - おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 活動
+  descriptions:
+  - <ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。
+- word: 兵士
+  descriptions:
+  - いちばん<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>位</rb><rt>くらい</rt></ruby>の<ruby><rb>軍人</rb><rt>ぐんじん</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。
+- word: 大使
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>して<ruby><rb>外交</rb><rt>がいこう</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>外交官</rb><rt>がいこうかん</rt></ruby>のいちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役</rb><rt>やく</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 勇気
+  descriptions:
+  - <ruby><rb>何事</rb><rt>なにごと</rt></ruby>もおそれない<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>心</rb><rt>こころ</rt></ruby>。
+- word: 武器
+  descriptions:
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>勝</rb><rt>か</rt></ruby>つための<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>や、<ruby><rb>手</rb><rt>て</rt></ruby>だて。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+web_news_url: /news/web/2017/05/25/去年PKO従事で死亡117人-国連本部で追悼式/
+source_url: http://www3.nhk.or.jp/news/easy/k10010994151000/k10010994151000.html
+...

@@ -1,0 +1,76 @@
+---
+layout: easy_news
+newsid: k10010993961000
+categories: easy
+title: 運動のあとチーズやヨーグルトを食べるとどうなるか調べる
+title_with_ruby: <ruby>運動<rt>うんどう</rt></ruby>のあとチーズやヨーグルトを<ruby>食<rt>た</rt></ruby>べるとどうなるか<ruby>調<rt>しら</rt></ruby>べる
+last_modified_at: '2017-05-25T16:20:00+09:00'
+datetime: 2017年05月25日 16時20分
+description: 信州大学しんしゅうだいがくの能勢のせ博ひろし教授きょうじゅの研究けんきゅうグループは、運動うんどうのあとチーズやヨーグルトなどの牛乳ぎゅうにゅうから作つくった物ものを食たべると、体からだがどうなるか調しらべました。
+description_with_ruby: <ruby>信州大学<rt>しんしゅうだいがく</rt></ruby>の<ruby>能勢<rt>のせ</rt></ruby><ruby>博<rt>ひろし</rt></ruby><ruby>教授<rt>きょうじゅ</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>グループは、<ruby>運動<rt>うんどう</rt></ruby>のあとチーズやヨーグルトなどの<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>から<ruby>作<rt>つく</rt></ruby>った<ruby>物<rt>もの</rt></ruby>を<ruby>食<rt>た</rt></ruby>べると、<ruby>体<rt>からだ</rt></ruby>がどうなるか<ruby>調<rt>しら</rt></ruby>べました。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/25/k10010993961000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/25/k10010993961000.mp3
+contents: "<p><ruby>信州大学<rt>しんしゅうだいがく</rt></ruby>の<ruby>能勢<rt>のせ</rt></ruby><ruby>博<rt>ひろし</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>教授<rt>きょうじゅ</rt></ruby></span>の<ruby>研究<rt>けんきゅう</rt></ruby><span\
+  \ style=\"color: blue;\">グループ</span>は、<ruby>運動<rt>うんどう</rt></ruby>のあと<span style=\"\
+  color: blue;\">チーズ</span>や<span style=\"color: blue;\">ヨーグルト</span>などの<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>から<ruby>作<rt>つく</rt></ruby>った<ruby>物<rt>もの</rt></ruby>を<ruby>食<rt>た</rt></ruby>べると、<ruby>体<rt>からだ</rt></ruby>がどうなるか<ruby>調<rt>しら</rt></ruby>べました。</p>\n\
+  <p><ruby>研究<rt>けんきゅう</rt></ruby><span style=\"color: blue;\">グループ</span>は、３<ruby>分<rt>ぷん</rt></ruby><ruby>速<rt>はや</rt></ruby>く<ruby>歩<rt>ある</rt></ruby>いて３<ruby>分<rt>ぷん</rt></ruby>ゆっくり<ruby>歩<rt>ある</rt></ruby>くことを<ruby>続<rt>つづ</rt></ruby>ける<ruby>運動<rt>うんどう</rt></ruby>をしている３７<ruby>人<rt>にん</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べました。</p>\n\
+  <p><ruby>運動<rt>うんどう</rt></ruby>のあと<ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べなかった<ruby>人<rt>ひと</rt></ruby>たちは、５か<ruby>月<rt>げつ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>後<rt>ご</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>筋肉<rt>きんにく</rt></ruby></span>の<ruby>力<rt>ちから</rt></ruby>がほとんど<ruby>変<rt>か</rt></ruby>わりませんでした。しかし、<span\
+  \ style=\"color: blue;\">チーズ</span>１<ruby>個<rt>こ</rt></ruby>とカップの<span style=\"\
+  color: blue;\">ヨーグルト</span>２<ruby>個<rt>こ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べた<ruby>人<rt>ひと</rt></ruby>たちは、<span\
+  \ style=\"color: blue;\"><ruby>筋肉<rt>きんにく</rt></ruby></span>の<ruby>力<rt>ちから</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>で８％<ruby>増<rt>ふ</rt></ruby>えました。そして、<span\
+  \ style=\"color: blue;\"><ruby>生活習慣病<rt>せいかつしゅうかんびょう</rt></ruby></span>に<ruby>関係<rt>かんけい</rt></ruby>がある２つの<span\
+  \ style=\"color: blue;\"><ruby>遺伝子<rt>いでんし</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>働<rt>はたら</rt></ruby>き</span>も<ruby>弱<rt>よわ</rt></ruby>くなっていました。</p>\n\
+  <p><ruby>能勢<rt>のせ</rt></ruby><span style=\"color: blue;\"><ruby>教授<rt>きょうじゅ</rt></ruby></span>は「<ruby>運動<rt>うんどう</rt></ruby>のあと<span\
+  \ style=\"color: blue;\">チーズ</span>や<span style=\"color: blue;\">ヨーグルト</span>などを<ruby>食<rt>た</rt></ruby>べると、<span\
+  \ style=\"color: blue;\"><ruby>生活習慣病<rt>せいかつしゅうかんびょう</rt></ruby></span>になりにくくなる<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: チーズ
+  descriptions:
+  - <ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>などを<ruby><rb>発酵</rb><rt>はっこう</rt></ruby>させて、<ruby><rb>固</rb><rt>かた</rt></ruby>めた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: ヨーグルト
+  descriptions:
+  - <ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>などに<ruby><rb>乳酸菌</rb><rt>にゅうさんきん</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>えて<ruby><rb>発酵</rb><rt>はっこう</rt></ruby>させた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 教授
+  descriptions:
+  - <ruby><rb>大学</rb><rt>だいがく</rt></ruby>の<ruby><rb>先生</rb><rt>せんせい</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>にものを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 後
+  descriptions:
+  - うしろ。
+  - のち。あと。
+- word: 筋肉
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かすはたらきをする、<ruby><rb>細</rb><rt>ほそ</rt></ruby>い<ruby><rb>筋</rb><rt>すじ</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まってできているもの。<ruby><rb>骨</rb><rt>ほね</rt></ruby>につながっているものと、<ruby><rb>内臓</rb><rt>ないぞう</rt></ruby>のかべを<ruby><rb>作</rb><rt>つく</rt></ruby>っているものとがある。
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+- word: 生活習慣病
+  descriptions:
+  - <ruby><rb>食生活</rb><rt>しょくせいかつ</rt></ruby>や<ruby><rb>運動</rb><rt>うんどう</rt></ruby>・<ruby><rb>飲酒</rb><rt>いんしゅ</rt></ruby>などの<ruby><rb>生活習慣</rb><rt>せいかつしゅうかん</rt></ruby>に<ruby><rb>深</rb><rt>ふか</rt></ruby>いかかわりのある<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。がんや<ruby><rb>高血圧</rb><rt>こうけつあつ</rt></ruby>など。もとは「<ruby><rb>成人病</rb><rt>せいじんびょう</rt></ruby>」といった。
+- word: 遺伝子
+  descriptions:
+  - <ruby><rb>染色体</rb><rt>せんしょくたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>遺伝</rb><rt>いでん</rt></ruby>のはたらきをする<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。
+- word: 働き
+  descriptions:
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>をすること。
+  - <ruby><rb>活動</rb><rt>かつどう</rt></ruby>すること。
+  - ほかに<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>や<ruby><rb>力</rb><rt>ちから</rt></ruby>をおよぼすこと。<ruby><rb>作用</rb><rt>さよう</rt></ruby>。
+  - <ruby><rb>活躍</rb><rt>かつやく</rt></ruby>。<ruby><rb>骨折</rb><rt>ほねお</rt></ruby>り。
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>をして<ruby><rb>収入</rb><rt>しゅうにゅう</rt></ruby>を<ruby><rb>得</rb><rt>え</rt></ruby>る<ruby><rb>力</rb><rt>ちから</rt></ruby>。かせぎ。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+web_news_url: /news/web/2017/05/25/運動後に乳製品摂取で生活習慣病の改善予防の可能性/
+source_url: http://www3.nhk.or.jp/news/easy/k10010993961000/k10010993961000.html
+...
