@@ -1,0 +1,55 @@
+---
+layout: easy_news
+newsid: k10010999611000
+categories: easy
+title: コンサートのギターに水素と酸素から作った電気を使う
+title_with_ruby: コンサートのギターに<ruby>水素<rt>すいそ</rt></ruby>と<ruby>酸素<rt>さんそ</rt></ruby>から<ruby>作<rt>つく</rt></ruby>った<ruby>電気<rt>でんき</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う
+last_modified_at: '2017-05-30T16:15:00+09:00'
+datetime: 2017年05月30日 16時15分
+description: 水素すいそと酸素さんそから電気でんきを作つくる「燃料電池ねんりょうでんち」は、二酸化炭素にさんかたんそを出ださないため、環境かんきょうに優やさしいエネルギーだと言いわれています。
+description_with_ruby: <ruby>水素<rt>すいそ</rt></ruby>と<ruby>酸素<rt>さんそ</rt></ruby>から<ruby>電気<rt>でんき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る「<ruby>燃料電池<rt>ねんりょうでんち</rt></ruby>」は、<ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>さないため、<ruby>環境<rt>かんきょう</rt></ruby>に<ruby>優<rt>やさ</rt></ruby>しいエネルギーだと<ruby>言<rt>い</rt></ruby>われています。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/30/k10010999611000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/30/k10010999611000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>水素<rt>すいそ</rt></ruby></span>と<span\
+  \ style=\"color: blue;\"><ruby>酸素<rt>さんそ</rt></ruby></span>から<ruby>電気<rt>でんき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る「<ruby>燃料電池<rt>ねんりょうでんち</rt></ruby>」は、<span\
+  \ style=\"color: blue;\"><ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>さないため、<span\
+  \ style=\"color: blue;\"><ruby>環境<rt>かんきょう</rt></ruby></span>に<ruby>優<rt>やさ</rt></ruby>しい<span\
+  \ style=\"color: blue;\">エネルギー</span>だと<ruby>言<rt>い</rt></ruby>われています。</p>\n<p>ロック<span\
+  \ style=\"color: blue;\">バンド</span>の「ＬＵＮＡ　ＳＥＡ」は５<ruby>月<rt>がつ</rt></ruby>２９<ruby>日<rt>にち</rt></ruby>、<ruby>燃料電池<rt>ねんりょうでんち</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ったコンサートを<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>開<rt>ひら</rt></ruby>きました。この<span\
+  \ style=\"color: blue;\">バンド</span>でギターなどを<ruby>弾<rt>ひ</rt></ruby>いているＳＵＧＩＺＯさんが<ruby>燃料電池<rt>ねんりょうでんち</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うことを<ruby>考<rt>かんが</rt></ruby>えました。</p>\n\
+  <p>２<ruby>時間<rt>じかん</rt></ruby><ruby>半<rt>はん</rt></ruby>のコンサートの<ruby>間<rt>あいだ</rt></ruby>、<ruby>外<rt>そと</rt></ruby>にある<ruby>車<rt>くるま</rt></ruby>の<ruby>燃料電池<rt>ねんりょうでんち</rt></ruby>からＳＵＧＩＺＯさんの<span\
+  \ style=\"color: blue;\"><ruby>楽器<rt>がっき</rt></ruby></span>に<ruby>電気<rt>でんき</rt></ruby>を<ruby>送<rt>おく</rt></ruby>りました。ＳＵＧＩＺＯさんはコンサートに<ruby>来<rt>き</rt></ruby>ていた１<ruby>万<rt>まん</rt></ruby>４０００<ruby>人<rt>にん</rt></ruby>の<ruby>客<rt>きゃく</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で「<ruby>今日<rt>きょう</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>水素<rt>すいそ</rt></ruby></span>に<span style=\"color:\
+  \ blue;\">エネルギー</span>をもらいました」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n<p>コンサートを<ruby>聞<rt>き</rt></ruby>いた<ruby>女性<rt>じょせい</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>水素<rt>すいそ</rt></ruby></span>から<ruby>作<rt>つく</rt></ruby>った<ruby>電気<rt>でんき</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>楽器<rt>がっき</rt></ruby></span>に<ruby>使<rt>つか</rt></ruby>っていて<ruby>驚<rt>おどろ</rt></ruby>きました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 水素
+  descriptions:
+  - いちばん<ruby><rb>軽</rb><rt>かる</rt></ruby>くて、<ruby><rb>色</rb><rt>いろ</rt></ruby>も、においもない<ruby><rb>気体</rb><rt>きたい</rt></ruby>。<ruby><rb>燃</rb><rt>も</rt></ruby>えやすい。
+- word: 酸素
+  descriptions:
+  - <ruby><rb>色</rb><rt>いろ</rt></ruby>も、においもない<ruby><rb>気体</rb><rt>きたい</rt></ruby>。<ruby><rb>空気</rb><rt>くうき</rt></ruby>や<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にふくまれていて、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>はこれを<ruby><rb>吸</rb><rt>す</rt></ruby>って<ruby><rb>生</rb><rt>い</rt></ruby>きている。また、<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>燃</rb><rt>も</rt></ruby>えるには、<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>が<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>である。
+- word: 二酸化炭素
+  descriptions:
+  - <ruby><rb>炭素</rb><rt>たんそ</rt></ruby>と<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>の<ruby><rb>化合物</rb><rt>かごうぶつ</rt></ruby>で、<ruby><rb>色</rb><rt>いろ</rt></ruby>もにおいもない<ruby><rb>気体</rb><rt>きたい</rt></ruby>。<ruby><rb>炭火</rb><rt>すみび</rt></ruby>の<ruby><rb>燃</rb><rt>も</rt></ruby>えるときなどに<ruby><rb>発生</rb><rt>はっせい</rt></ruby>し、<ruby><rb>人</rb><rt>ひと</rt></ruby>のはく<ruby><rb>息</rb><rt>いき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にもふくまれている。ドライアイス・ソーダ<ruby><rb>水</rb><rt>すい</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。<ruby><rb>炭酸</rb><rt>たんさん</rt></ruby>ガス。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「<ruby><rb>CO<span
+    class="dic_sub">2</span></rb><rt>シーオーツー</rt></ruby>」。
+- word: 環境
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>巻</rb><rt>ま</rt></ruby>き、<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる<ruby><rb>周</rb><rt>まわ</rt></ruby>りの<ruby><rb>世界</rb><rt>せかい</rt></ruby>。
+- word: エネルギー
+  descriptions:
+  - あるはたらきをすることができる<ruby><rb>力</rb><rt>ちから</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>活動</rb><rt>かつどう</rt></ruby>するもとになる<ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>元気</rb><rt>げんき</rt></ruby>。
+- word: バンド
+  descriptions:
+  - ズボンなどの、<ruby><rb>腰</rb><rt>こし</rt></ruby>をしめる<ruby><rb>帯</rb><rt>おび</rt></ruby>。ベルト。
+  - はばの<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>平</rb><rt>ひら</rt></ruby>たいひも。
+  - <ruby><rb>楽団</rb><rt>がくだん</rt></ruby>や<ruby><rb>楽隊</rb><rt>がくたい</rt></ruby>。
+- word: 楽器
+  descriptions:
+  - <ruby><rb>音楽</rb><rt>おんがく</rt></ruby>を<ruby><rb>演奏</rb><rt>えんそう</rt></ruby>するために<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>器具</rb><rt>きぐ</rt></ruby>。<ruby><rb>弦楽器</rb><rt>げんがっき</rt></ruby>・<ruby><rb>管楽器</rb><rt>かんがっき</rt></ruby>・<ruby><rb>打楽器</rb><rt>だがっき</rt></ruby>など。
+web_news_url: /news/web/2017/05/30/楽器の電源に燃料電池-LUNA-SEAのライブで/
+source_url: http://www3.nhk.or.jp/news/easy/k10010999611000/k10010999611000.html
+...
