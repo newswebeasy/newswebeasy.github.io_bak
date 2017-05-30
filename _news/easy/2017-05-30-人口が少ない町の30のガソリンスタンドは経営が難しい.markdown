@@ -1,0 +1,51 @@
+---
+layout: easy_news
+newsid: k10010997991000
+categories: easy
+title: 人口が少ない町の３０％のガソリンスタンドは経営が難しい
+title_with_ruby: <ruby>人口<rt>じんこう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ない<ruby>町<rt>まち</rt></ruby>の３０％のガソリンスタンドは<ruby>経営<rt>けいえい</rt></ruby>が<ruby>難<rt>むずか</rt></ruby>しい
+last_modified_at: '2017-05-30T11:30:00+09:00'
+datetime: 2017年05月30日 11時30分
+description: 経済産業省けいざいさんぎょうしょうは、人口じんこうが少すくなくて、ガソリンスタンドが３か所しょ以下いかの町まちについて調しらべました。
+description_with_ruby: <ruby>経済産業省<rt>けいざいさんぎょうしょう</rt></ruby>は、<ruby>人口<rt>じんこう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくて、ガソリンスタンドが３か<ruby>所<rt>しょ</rt></ruby><ruby>以下<rt>いか</rt></ruby>の<ruby>町<rt>まち</rt></ruby>について<ruby>調<rt>しら</rt></ruby>べました。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/30/k10010997991000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/30/k10010997991000.mp3
+contents: "<p><ruby>経済産業省<rt>けいざいさんぎょうしょう</rt></ruby>は、<ruby>人口<rt>じんこう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくて、ガソリンスタンドが３<span\
+  \ style=\"color: blue;\">か<ruby>所<rt>しょ</rt></ruby></span><ruby>以下<rt>いか</rt></ruby>の<ruby>町<rt>まち</rt></ruby>について<ruby>調<rt>しら</rt></ruby>べました。１０４１のガソリンスタンドが<span\
+  \ style=\"color: blue;\">アンケート</span>に<ruby>答<rt>こた</rt></ruby>えました。</p>\n<p>「<ruby>店<rt>みせ</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>ける」と<ruby>答<rt>こた</rt></ruby>えたガソリンスタンドは７２％でした。しかし「わからない」は１９％、「<ruby>店<rt>みせ</rt></ruby>をやめる」は９％で、ガソリンスタンドを<ruby>続<rt>つづ</rt></ruby>けることが<ruby>難<rt>むずか</rt></ruby>しいと<ruby>考<rt>かんが</rt></ruby>えている<ruby>店<rt>みせ</rt></ruby>が３０％ぐらいありました。</p>\n\
+  <p><ruby>続<rt>つづ</rt></ruby>けることが<ruby>難<rt>むずか</rt></ruby>しい<ruby>理由<rt>りゆう</rt></ruby>は、ガソリンが<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れ</span>なくなっていること、<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>つからないこと、<ruby>店<rt>みせ</rt></ruby>が<ruby>古<rt>ふる</rt></ruby>くなっていることなどでした。これから<ruby>人口<rt>じんこう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなると、<span\
+  \ style=\"color: blue;\"><ruby>経営<rt>けいえい</rt></ruby></span>が<ruby>難<rt>むずか</rt></ruby>しくなるガソリンスタンドがもっと<ruby>増<rt>ふ</rt></ruby>えそうです。</p>\n\
+  <p>ガソリンスタンドが<ruby>少<rt>すく</rt></ruby>ない<ruby>町<rt>まち</rt></ruby>では、<span style=\"\
+  color: blue;\"><ruby>災害<rt>さいがい</rt></ruby></span>のときにガソリンなどがなくなって<ruby>困<rt>こま</rt></ruby>る<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>もあります。このため<ruby>経済産業省<rt>けいざいさんぎょうしょう</rt></ruby>は、ガソリンスタンドが<ruby>少<rt>すく</rt></ruby>なくならないように<ruby>町<rt>まち</rt></ruby>や<ruby>店<rt>みせ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>ける</span>ことにしています。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 経営
+  descriptions:
+  - <ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。
+- word: 箇所
+  descriptions:
+  - <ruby><rb>限</rb><rt>かぎ</rt></ruby>られたところ。ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>場所</rb><rt>ばしょ</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: アンケート
+  descriptions:
+  - たくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>問</rb><rt>と</rt></ruby>い<ruby><rb>合</rb><rt>あ</rt></ruby>わせ、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>書</rb><rt>か</rt></ruby>いてもらって、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>調</rb><rt>しら</rt></ruby>べる<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。
+- word: 売れる
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。
+- word: 災害
+  descriptions:
+  - <ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+web_news_url: /news/web/2017/05/28/過疎地ガソリンスタンド-3割が事業継続の見通し立たず/
+source_url: http://www3.nhk.or.jp/news/easy/k10010997991000/k10010997991000.html
+...

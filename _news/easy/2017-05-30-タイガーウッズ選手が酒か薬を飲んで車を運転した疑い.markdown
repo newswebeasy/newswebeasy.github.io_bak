@@ -1,0 +1,70 @@
+---
+layout: easy_news
+newsid: k10010999741000
+categories: easy
+title: タイガー・ウッズ選手が酒か薬を飲んで車を運転した疑い
+title_with_ruby: タイガー・ウッズ<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>酒<rt>さけ</rt></ruby>か<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んで<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>した<ruby>疑<rt>うたが</rt></ruby>い
+last_modified_at: '2017-05-30T16:15:00+09:00'
+datetime: 2017年05月30日 16時15分
+description: アメリカのフロリダ州しゅうの警察けいさつは２９日にち、プロゴルフのタイガー・ウッズ選手せんしゅを逮捕たいほしました。
+description_with_ruby: アメリカのフロリダ<ruby>州<rt>しゅう</rt></ruby>の<ruby>警察<rt>けいさつ</rt></ruby>は２９<ruby>日<rt>にち</rt></ruby>、プロゴルフのタイガー・ウッズ<ruby>選手<rt>せんしゅ</rt></ruby>を<ruby>逮捕<rt>たいほ</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/30/k10010999741000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/30/k10010999741000.mp3
+contents: "<p>アメリカのフロリダ<ruby>州<rt>しゅう</rt></ruby>の<ruby>警察<rt>けいさつ</rt></ruby>は２９<ruby>日<rt>にち</rt></ruby>、<span\
+  \ style=\"color: blue;\">プロ</span><span style=\"color: blue;\">ゴルフ</span>のタイガー・ウッズ<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>逮捕<rt>たいほ</rt></ruby></span>しました。<ruby>警察<rt>けいさつ</rt></ruby>は、ウッズ<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>酒<rt>さけ</rt></ruby>か<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んで<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>した<span\
+  \ style=\"color: blue;\"><ruby>疑<rt>うたが</rt></ruby>い</span>があると<ruby>言<rt>い</rt></ruby>っています。<ruby>警察<rt>けいさつ</rt></ruby>は、３<ruby>時間<rt>じかん</rt></ruby>ぐらいあとにウッズ<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>釈放<rt>しゃくほう</rt></ruby></span>しました。</p>\n<p>ウッズ<span style=\"color:\
+  \ blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>世界<rt>せかい</rt></ruby><span style=\"\
+  color: blue;\">ランキング</span>で１<ruby>番<rt>ばん</rt></ruby>になったことがありますが、<ruby>最近<rt>さいきん</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>腰<rt>こし</rt></ruby></span>が<ruby>痛<rt>いた</rt></ruby>くて<span\
+  \ style=\"color: blue;\"><ruby>悩<rt>なや</rt></ruby>ん</span>でいました。ウッズ<span style=\"\
+  color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>先月<rt>せんげつ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>手術<rt>しゅじゅつ</rt></ruby></span>をして、「もう<ruby>一度<rt>いちど</rt></ruby>いい<span\
+  \ style=\"color: blue;\">ゴルフ</span>がしたいので、<ruby>頑張<rt>がんば</rt></ruby>って<span style=\"\
+  color: blue;\">リハビリ</span>をします」とインターネットに<ruby>書<rt>か</rt></ruby>いていました。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 疑い
+  descriptions:
+  - あやしいと<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>変</rb><rt>へん</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。
+- word: プロ
+  descriptions:
+  - <ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。
+  - 「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+- word: ゴルフ
+  descriptions:
+  - シバを<ruby><rb>植</rb><rt>う</rt></ruby>えた<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>に、１８か<ruby><rb>所</rb><rt>しょ</rt></ruby>の<ruby><rb>穴</rb><rt>あな</rt></ruby>（ホール）のあるコースを<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>小</rb><rt>ちい</rt></ruby>さいボールをクラブで<ruby><rb>打</rb><rt>う</rt></ruby>って、<ruby><rb>穴</rb><rt>あな</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れていく<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+- word: 逮捕
+  descriptions:
+  - <ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>がつかまえること。
+- word: 釈放
+  descriptions:
+  - つかまえた<ruby><rb>人</rb><rt>ひと</rt></ruby>などを、<ruby><rb>許</rb><rt>ゆる</rt></ruby>して<ruby><rb>自由</rb><rt>じゆう</rt></ruby>にしてやること。
+- word: ランキング
+  descriptions:
+  - <ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。
+- word: 腰
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>の、<ruby><rb>胴</rb><rt>どう</rt></ruby>と<ruby><rb>足</rb><rt>あし</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby><ruby><rb>辺</rb><rt>あた</rt></ruby>りより<ruby><rb>少</rb><rt>すこ</rt></ruby>し<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>粉</rb><rt>こな</rt></ruby>や、もちなどの、ねばり。
+- word: 悩む
+  descriptions:
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>って<ruby><rb>苦</rb><rt>くる</rt></ruby>しむ。<ruby><rb>心配</rb><rt>しんぱい</rt></ruby>する。
+  - <ruby><rb>痛</rb><rt>いた</rt></ruby>みなどで<ruby><rb>苦</rb><rt>くる</rt></ruby>しむ。
+- word: 手術
+  descriptions:
+  - <ruby><rb>医者</rb><rt>いしゃ</rt></ruby>が、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>や<ruby><rb>傷</rb><rt>きず</rt></ruby>のところを、<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>開</rb><rt>ひら</rt></ruby>いたり<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>取</rb><rt>と</rt></ruby>ったりして、<ruby><rb>治療</rb><rt>ちりょう</rt></ruby>すること。
+- word: リハビリ
+  descriptions:
+  - けがや<ruby><rb>病気</rb><rt>びょうき</rt></ruby>で<ruby><rb>歩</rb><rt>ある</rt></ruby>けなくなったり、<ruby><rb>動</rb><rt>うご</rt></ruby>かなくなったりした<ruby><rb>体</rb><rt>からだ</rt></ruby>を、もとにもどすための<ruby><rb>訓練</rb><rt>くんれん</rt></ruby>。
+web_news_url: /news/web/2017/05/30/タイガーウッズ選手を逮捕-飲酒か薬物使用で車運転の疑い/
+source_url: http://www3.nhk.or.jp/news/easy/k10010999741000/k10010999741000.html
+...
