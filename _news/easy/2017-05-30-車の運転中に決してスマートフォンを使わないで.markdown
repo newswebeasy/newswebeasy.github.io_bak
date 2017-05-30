@@ -1,0 +1,45 @@
+---
+layout: easy_news
+newsid: k10010999421000
+categories: easy
+title: 「車の運転中に決してスマートフォンを使わないで」
+title_with_ruby: 「<ruby>車<rt>くるま</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>決<rt>けっ</rt></ruby>してスマートフォンを<ruby>使<rt>つか</rt></ruby>わないで」
+last_modified_at: '2017-05-30T16:15:00+09:00'
+datetime: 2017年05月30日 16時15分
+description: 去年きょねん１０月がつ、愛知県あいちけん一宮市いちのみやしで９歳さいの則竹のりたけ敬太けいたくんが車くるまにはねられて亡なくなりました。
+description_with_ruby: <ruby>去年<rt>きょねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>、<ruby>愛知県<rt>あいちけん</rt></ruby><ruby>一宮市<rt>いちのみやし</rt></ruby>で９<ruby>歳<rt>さい</rt></ruby>の<ruby>則竹<rt>のりたけ</rt></ruby><ruby>敬太<rt>けいた</rt></ruby>くんが<ruby>車<rt>くるま</rt></ruby>にはねられて<ruby>亡<rt>な</rt></ruby>くなりました。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/30/k10010999421000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/30/k10010999421000.mp3
+contents: "<p><ruby>去年<rt>きょねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>、<ruby>愛知県<rt>あいちけん</rt></ruby><ruby>一宮市<rt>いちのみやし</rt></ruby>で９<ruby>歳<rt>さい</rt></ruby>の<ruby>則竹<rt>のりたけ</rt></ruby><ruby>敬太<rt>けいた</rt></ruby>くんが<ruby>車<rt>くるま</rt></ruby>に<span\
+  \ style=\"color: blue;\">はね</span>られて<ruby>亡<rt>な</rt></ruby>くなりました。<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>していた<ruby>男<rt>おとこ</rt></ruby>は、スマートフォンで「ポケモンＧＯ」という<span\
+  \ style=\"color: blue;\">ゲーム</span>をしながら<ruby>運転<rt>うんてん</rt></ruby>していました。</p>\n\
+  <p><ruby>敬太<rt>けいた</rt></ruby>くんの<span style=\"color: blue;\"><ruby>父親<rt>ちちおや</rt></ruby></span>の<ruby>崇智<rt>たかとし</rt></ruby>さんは５<ruby>月<rt>がつ</rt></ruby>２９<ruby>日<rt>にち</rt></ruby>、<ruby>名古屋市<rt>なごやし</rt></ruby>にある<ruby>高校<rt>こうこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>って、<ruby>生徒<rt>せいと</rt></ruby>たちに<ruby>話<rt>はなし</rt></ruby>をしました。<ruby>日本<rt>にっぽん</rt></ruby>では１８<ruby>歳<rt>さい</rt></ruby>から<ruby>車<rt>くるま</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>免許<rt>めんきょ</rt></ruby></span>を<ruby>取<rt>と</rt></ruby>ることができます。<ruby>崇智<rt>たかとし</rt></ruby>さんは「<ruby>運転<rt>うんてん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>にスマートフォンを<ruby>使<rt>つか</rt></ruby>っていたことが<ruby>原因<rt>げんいん</rt></ruby>で、<ruby>人<rt>ひと</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなることがあります。<ruby>運転<rt>うんてん</rt></ruby>することには<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>責任<rt>せきにん</rt></ruby></span>があると<ruby>考<rt>かんが</rt></ruby>えてください」と<ruby>話<rt>はな</rt></ruby>して、<span\
+  \ style=\"color: blue;\"><ruby>免許<rt>めんきょ</rt></ruby></span>を<ruby>取<rt>と</rt></ruby>ったら<ruby>運転<rt>うんてん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>決<rt>けっ</rt></ruby>してスマートフォンを<ruby>使<rt>つか</rt></ruby>わないように<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>２<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>生徒<rt>せいと</rt></ruby>は「<ruby>歩<rt>ある</rt></ruby>きながらスマートフォンを<ruby>使<rt>つか</rt></ruby>うこともやめたいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 撥ねる
+  descriptions:
+  - はじきとばす。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>除</rb><rt>のぞ</rt></ruby>く。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>にわたす<ruby><rb>分</rb><rt>ぶん</rt></ruby>の<ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>を<ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - <ruby><rb>字</rb><rt>じ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>くとき、<ruby><rb>線</rb><rt>せん</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりをはらい<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+- word: ゲーム
+  descriptions:
+  - <ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>遊</rb><rt>あそ</rt></ruby>び。
+  - <ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 父親
+  descriptions:
+  - <ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>親</rb><rt>おや</rt></ruby>。<ruby><rb>父</rb><rt>ちち</rt></ruby>。
+- word: 免許
+  descriptions:
+  - あることがらについて、<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などが<ruby><rb>許</rb><rt>ゆる</rt></ruby>しをあたえること。
+  - <ruby><rb>芸</rb><rt>げい</rt></ruby>ごとで、<ruby><rb>先生</rb><rt>せんせい</rt></ruby>が<ruby><rb>弟子</rb><rt>でし</rt></ruby>にあたえる<ruby><rb>資格</rb><rt>しかく</rt></ruby>。
+- word: 責任
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>けてしなければならない<ruby><rb>務</rb><rt>つと</rt></ruby>め。
+web_news_url: /news/web/2017/05/29/ポケモンGO事故の遺族-高校生に安全運転を訴え/
+source_url: http://www3.nhk.or.jp/news/easy/k10010999421000/k10010999421000.html
+...
