@@ -1,0 +1,46 @@
+---
+layout: easy_news
+newsid: k10011000951000
+categories: easy
+title: 日本での「表現の自由」について国連が調べる
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>での「<ruby>表現<rt>ひょうげん</rt></ruby>の<ruby>自由<rt>じゆう</rt></ruby>」について<ruby>国連<rt>こくれん</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べる
+last_modified_at: '2017-05-31T15:40:00+09:00'
+datetime: 2017年05月31日 15時40分
+description: 国連こくれんの人権理事会じんけんりじかいは、日本にっぽんでの「表現ひょうげんの自由じゆう」について調しらべるように専門家せんもんかに頼たのみました。
+description_with_ruby: <ruby>国連<rt>こくれん</rt></ruby>の<ruby>人権理事会<rt>じんけんりじかい</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>での「<ruby>表現<rt>ひょうげん</rt></ruby>の<ruby>自由<rt>じゆう</rt></ruby>」について<ruby>調<rt>しら</rt></ruby>べるように<ruby>専門家<rt>せんもんか</rt></ruby>に<ruby>頼<rt>たの</rt></ruby>みました。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/31/k10011000951000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/31/k10011000951000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>の<ruby>人権理事会<rt>じんけんりじかい</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>での「<span\
+  \ style=\"color: blue;\"><ruby>表現<rt>ひょうげん</rt></ruby></span>の<ruby>自由<rt>じゆう</rt></ruby>」について<ruby>調<rt>しら</rt></ruby>べるように<ruby>専門家<rt>せんもんか</rt></ruby>に<ruby>頼<rt>たの</rt></ruby>みました。アメリカのカリフォルニア<ruby>大学<rt>だいがく</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>教授<rt>きょうじゅ</rt></ruby></span>のデービッド・ケイさんが<ruby>調<rt>しら</rt></ruby>べて、<span\
+  \ style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>この<ruby>中<rt>なか</rt></ruby>でケイさんは「テレビや<ruby>新聞<rt>しんぶん</rt></ruby>などがニュースを<ruby>自由<rt>じゆう</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>えることができないように、<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>はいろいろなことをしている」などと<ruby>言<rt>い</rt></ruby>っています。そして、「テレビなどの<span\
+  \ style=\"color: blue;\"><ruby>表現<rt>ひょうげん</rt></ruby></span>の<ruby>自由<rt>じゆう</rt></ruby>のために、<ruby>放送<rt>ほうそう</rt></ruby>について<ruby>決<rt>き</rt></ruby>めた<ruby>法律<rt>ほうりつ</rt></ruby>を<ruby>変<rt>か</rt></ruby>える<ruby>必要<rt>ひつよう</rt></ruby>がある」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、ケイさんが<ruby>調<rt>しら</rt></ruby>べたことは<ruby>正<rt>ただ</rt></ruby>しくないと<span\
+  \ style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>の<ruby>人権理事会<rt>じんけんりじかい</rt></ruby>に<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 表現
+  descriptions:
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えたことや<ruby><rb>思</rb><rt>おも</rt></ruby>ったことを、ことば・<ruby><rb>身</rb><rt>み</rt></ruby>ぶり・<ruby><rb>文字</rb><rt>もじ</rt></ruby>・<ruby><rb>色</rb><rt>いろ</rt></ruby>・<ruby><rb>音</rb><rt>おと</rt></ruby>などで<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、その<ruby><rb>表</rb><rt>あらわ</rt></ruby>し<ruby><rb>方</rb><rt>かた</rt></ruby>。
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった一九四五<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: 教授
+  descriptions:
+  - <ruby><rb>大学</rb><rt>だいがく</rt></ruby>の<ruby><rb>先生</rb><rt>せんせい</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>にものを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+web_news_url: /news/web/2017/05/31/日本ではメディアに政府から圧力国連特別報告者勧告/
+source_url: http://www3.nhk.or.jp/news/easy/k10011000951000/k10011000951000.html
+...
