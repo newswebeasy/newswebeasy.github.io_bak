@@ -1,0 +1,58 @@
+---
+layout: easy_news
+newsid: k10010999841000
+categories: easy
+title: イエメンでコレラという病気が広がって４７１人亡くなる
+title_with_ruby: イエメンでコレラという<ruby>病気<rt>びょうき</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>がって４７１<ruby>人<rt>にん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなる
+last_modified_at: '2017-05-31T11:30:00+09:00'
+datetime: 2017年05月31日 11時30分
+description: 国くにの中なかで戦争せんそうが続つづいている中東ちゅうとうのイエメンで、コレラという病気びょうきが広ひろがっています。
+description_with_ruby: <ruby>国<rt>くに</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>戦争<rt>せんそう</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いている<ruby>中東<rt>ちゅうとう</rt></ruby>のイエメンで、コレラという<ruby>病気<rt>びょうき</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>がっています。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/31/k10010999841000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/31/k10010999841000.mp3
+contents: "<p><ruby>国<rt>くに</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>戦争<rt>せんそう</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いている<span\
+  \ style=\"color: blue;\"><ruby>中東<rt>ちゅうとう</rt></ruby></span>のイエメンで、<span style=\"\
+  color: blue;\">コレラ</span>という<ruby>病気<rt>びょうき</rt></ruby>が<span style=\"color: blue;\"\
+  ><ruby>広<rt>ひろ</rt></ruby>がっ</span>ています。<span style=\"color: blue;\">ＷＨＯ</span>によると、<span\
+  \ style=\"color: blue;\">コレラ</span>になったことがわかった<ruby>人<rt>ひと</rt></ruby>や<span style=\"\
+  color: blue;\">コレラ</span>の<span style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>は、５<ruby>月<rt>がつ</rt></ruby>２７<ruby>日<rt>にち</rt></ruby>までの１か<ruby>月<rt>げつ</rt></ruby>に５<ruby>万<rt>まん</rt></ruby>２０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>いました。この<ruby>中<rt>なか</rt></ruby>の４７１<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p>イエメンでは、<ruby>戦争<rt>せんそう</rt></ruby>で<ruby>病院<rt>びょういん</rt></ruby>などがたくさん<ruby>壊<rt>こわ</rt></ruby>れていて、<ruby>医者<rt>いしゃ</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>看護師<rt>かんごし</rt></ruby></span>、<ruby>薬<rt>くすり</rt></ruby>などが<ruby>足<rt>た</rt></ruby>りません。<span\
+  \ style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>などは、<ruby>病気<rt>びょうき</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>治療<rt>ちりょう</rt></ruby></span>ができる<ruby>場所<rt>ばしょ</rt></ruby>や<ruby>薬<rt>くすり</rt></ruby>を<ruby>用意<rt>ようい</rt></ruby>するため、<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>してほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: コレラ
+  descriptions:
+  - <ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。コレラ<ruby><rb>菌</rb><rt>きん</rt></ruby>によって<ruby><rb>発病</rb><rt>はつびょう</rt></ruby>し、<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と、<ruby><rb>激</rb><rt>はげ</rt></ruby>しい<ruby><rb>下痢</rb><rt>げり</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす。
+- word: 広がる
+  descriptions:
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>くなる。
+  - <ruby><rb>広々</rb><rt>ひろびろ</rt></ruby>と<ruby><rb>見</rb><rt>み</rt></ruby>わたせる。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+- word: 中東
+  descriptions:
+  - <ruby><rb>西</rb><rt>にし</rt></ruby>アジアからエジプトにかけての<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。イラン・イラク・アフガニスタン・トルコなどの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>。<ruby><rb>中近東</rb><rt>ちゅうきんとう</rt></ruby>。
+- word: WHO
+  descriptions:
+  - <ruby><rb>国際連合</rb><rt>こくさいれんごう</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>保健衛生問題</rb><rt>ほけんえいせいもんだい</rt></ruby>について、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が<ruby><rb>協力</rb><rt>きょうりょく</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>機関</rb><rt>きかん</rt></ruby>。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 看護師
+  descriptions:
+  - <ruby><rb>医者</rb><rt>いしゃ</rt></ruby>の<ruby><rb>手助</rb><rt>てだす</rt></ruby>けや、<ruby><rb>病人</rb><rt>びょうにん</rt></ruby>の<ruby><rb>世話</rb><rt>せわ</rt></ruby>を<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった一九四五<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: 治療
+  descriptions:
+  - <ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがの<ruby><rb>手当</rb><rt>てあ</rt></ruby>てをして<ruby><rb>治</rb><rt>なお</rt></ruby>すこと。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+web_news_url: /news/web/2017/05/30/イエメン-コレラの感染が拡大-471人死亡/
+source_url: http://www3.nhk.or.jp/news/easy/k10010999841000/k10010999841000.html
+...
