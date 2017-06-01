@@ -1,0 +1,37 @@
+---
+layout: easy_news
+newsid: k10011000371000
+categories: easy
+title: 留学生にコンビニでアルバイトをしてほしい
+title_with_ruby: <ruby>留学生<rt>りゅうがくせい</rt></ruby>にコンビニでアルバイトをしてほしい
+last_modified_at: '2017-06-01T11:30:00+09:00'
+datetime: 2017年06月01日 11時30分
+description: コンビニでは今いま、アルバイトの人ひとが足たりなくて困こまっている店みせがたくさんあります。
+description_with_ruby: コンビニでは<ruby>今<rt>いま</rt></ruby>、アルバイトの<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくて<ruby>困<rt>こま</rt></ruby>っている<ruby>店<rt>みせ</rt></ruby>がたくさんあります。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/01/k10011000371000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/01/k10011000371000.mp3
+contents: "<p><span style=\"color: blue;\">コンビニ</span>では<ruby>今<rt>いま</rt></ruby>、アルバイトの<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくて<ruby>困<rt>こま</rt></ruby>っている<ruby>店<rt>みせ</rt></ruby>がたくさんあります。</p>\n\
+  <p>ファミリーマートは<ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>留学生<rt>りゅうがくせい</rt></ruby>にアルバイトをしてもらうため、<ruby>東京<rt>とうきょう</rt></ruby>にある<span\
+  \ style=\"color: blue;\"><ruby>専門学校<rt>せんもんがっこう</rt></ruby></span>で<ruby>留学生<rt>りゅうがくせい</rt></ruby>に<ruby>働<rt>はたら</rt></ruby>く<ruby>時間<rt>じかん</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>などを<ruby>説明<rt>せつめい</rt></ruby>しました。ミャンマーやベトナムなどから<ruby>来<rt>き</rt></ruby>ている２０<ruby>人<rt>にん</rt></ruby>ぐらいが<ruby>説明<rt>せつめい</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きました。</p>\n\
+  <p>ベトナムから<ruby>来<rt>き</rt></ruby>た<ruby>留学生<rt>りゅうがくせい</rt></ruby>は「<ruby>毎日<rt>まいにち</rt></ruby><span\
+  \ style=\"color: blue;\">コンビニ</span>に<ruby>行<rt>い</rt></ruby>っているので、<ruby>働<rt>はたら</rt></ruby>いてみたいです。<ruby>日本語<rt>にほんご</rt></ruby>はまだうまくないですが、<ruby>頑張<rt>がんば</rt></ruby>りたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><span style=\"color: blue;\">コンビニ</span>の<ruby>店<rt>みせ</rt></ruby>を<span style=\"\
+  color: blue;\"><ruby>経営<rt>けいえい</rt></ruby></span>している<ruby>人<rt>ひと</rt></ruby>は「<ruby>文化<rt>ぶんか</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>うので、<ruby>仕事<rt>しごと</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えるのが<ruby>難<rt>むずか</rt></ruby>しいこともありますが、たくさんの<ruby>留学生<rt>りゅうがくせい</rt></ruby>に<ruby>働<rt>はたら</rt></ruby>いてほしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: コンビニ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「コンビニエンスストア」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。
+- word: 専門学校
+  descriptions:
+  - <ruby><rb>高等学校</rb><rt>こうとうがっこう</rt></ruby>を<ruby><rb>卒業</rb><rt>そつぎょう</rt></ruby>した<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>に<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>な<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる<ruby><rb>専門</rb><rt>せんもん</rt></ruby>の<ruby><rb>学校</rb><rt>がっこう</rt></ruby>。
+- word: 給料
+  descriptions:
+  - やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。
+- word: 経営
+  descriptions:
+  - <ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。
+web_news_url: /news/web/2017/05/30/人手不足のコンビニ-外国人留学生確保へ合同面接会/
+source_url: http://www3.nhk.or.jp/news/easy/k10011000371000/k10011000371000.html
+...

@@ -1,0 +1,30 @@
+---
+layout: easy_news
+newsid: k10011002181000
+categories: easy
+title: 赤ちゃんのおでこにはんこを押す「元気に大きくなって」
+title_with_ruby: <ruby>赤<rt>あか</rt></ruby>ちゃんのおでこにはんこを<ruby>押<rt>お</rt></ruby>す「<ruby>元気<rt>げんき</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きくなって」
+last_modified_at: '2017-06-01T15:50:00+09:00'
+datetime: 2017年06月01日 15時50分
+description: 群馬県ぐんまけん館林市たてばやししの神社じんじゃで５月がつ３１日にちと６月がつ１日ついたちに「初山大祭はつやまたいさい」がありました。
+description_with_ruby: <ruby>群馬県<rt>ぐんまけん</rt></ruby><ruby>館林市<rt>たてばやしし</rt></ruby>の<ruby>神社<rt>じんじゃ</rt></ruby>で５<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>と６<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>に「<ruby>初山大祭<rt>はつやまたいさい</rt></ruby>」がありました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/01/k10011002181000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/01/k10011002181000.mp3
+contents: "<p><ruby>群馬県<rt>ぐんまけん</rt></ruby><ruby>館林市<rt>たてばやしし</rt></ruby>の<ruby>神社<rt>じんじゃ</rt></ruby>で５<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>と６<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>に「<ruby>初山大祭<rt>はつやまたいさい</rt></ruby>」がありました。このお<ruby>祭<rt>まつ</rt></ruby>りは、<ruby>赤<rt>あか</rt></ruby>ちゃんの<span\
+  \ style=\"color: blue;\">おでこ</span>に<span style=\"color: blue;\">はんこ</span>を<ruby>押<rt>お</rt></ruby>して、<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>元気<rt>げんき</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きくなることを<ruby>祈<rt>いの</rt></ruby>ります。３５０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>続<rt>つづ</rt></ruby>いていて、<ruby>毎年<rt>まいとし</rt></ruby>１０００<ruby>人<rt>にん</rt></ruby>ぐらいの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>来<rt>き</rt></ruby>ます。</p>\n\
+  <p>３１<ruby>日<rt>にち</rt></ruby>は、<ruby>朝<rt>あさ</rt></ruby>からたくさんのお<ruby>父<rt>とう</rt></ruby>さんやお<ruby>母<rt>かあ</rt></ruby>さんが<ruby>神社<rt>じんじゃ</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>連<rt>つ</rt></ruby>れてきました。<ruby>赤<rt>あか</rt></ruby>ちゃんは、<ruby>神社<rt>じんじゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>木<rt>き</rt></ruby>の<span\
+  \ style=\"color: blue;\">はんこ</span>を<span style=\"color: blue;\">おでこ</span>に<ruby>押<rt>お</rt></ruby>してもらいました。</p>\n\
+  <p><span style=\"color: blue;\">はんこ</span>を<ruby>押<rt>お</rt></ruby>してもらう<ruby>前<rt>まえ</rt></ruby>に<ruby>泣<rt>な</rt></ruby>いてしまう<ruby>赤<rt>あか</rt></ruby>ちゃんもいて、<ruby>周<rt>まわ</rt></ruby>りの<ruby>大人<rt>おとな</rt></ruby>たちは<ruby>楽<rt>たの</rt></ruby>しそうに<ruby>笑<rt>わら</rt></ruby>っていました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: おでこ
+  descriptions:
+  - <ruby><rb>額</rb><rt>ひたい</rt></ruby>。
+  - <ruby><rb>額</rb><rt>ひたい</rt></ruby>が<ruby><rb>高</rb><rt>たか</rt></ruby>く<ruby><rb>出</rb><rt>で</rt></ruby>ていること。
+- word: 印
+  descriptions:
+  - はんこ。
+  - しるしをつける。しるし。
+web_news_url: /news/web/2017/05/31/赤ちゃんのおでこに-はんこをペッタンコ-健やかな成長を/
+source_url: http://www3.nhk.or.jp/news/easy/k10011002181000/k10011002181000.html
+...

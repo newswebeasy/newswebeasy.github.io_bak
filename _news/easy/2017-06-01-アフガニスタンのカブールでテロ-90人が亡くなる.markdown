@@ -1,0 +1,65 @@
+---
+layout: easy_news
+newsid: k10011002471000
+categories: easy
+title: アフガニスタンのカブールでテロ　９０人が亡くなる
+title_with_ruby: アフガニスタンのカブールでテロ　９０<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+last_modified_at: '2017-06-01T15:50:00+09:00'
+datetime: 2017年06月01日 15時50分
+description: アフガニスタンの首都しゅとカブールで５月がつ３１日にち、爆弾ばくだんのような物ものをたくさん乗のせた車くるまがドイツ大使館たいしかんの近ちかくで爆発ばくはつするテロがありました。
+description_with_ruby: アフガニスタンの<ruby>首都<rt>しゅと</rt></ruby>カブールで５<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>、<ruby>爆弾<rt>ばくだん</rt></ruby>のような<ruby>物<rt>もの</rt></ruby>をたくさん<ruby>乗<rt>の</rt></ruby>せた<ruby>車<rt>くるま</rt></ruby>がドイツ<ruby>大使館<rt>たいしかん</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くで<ruby>爆発<rt>ばくはつ</rt></ruby>するテロがありました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/01/k10011002471000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/01/k10011002471000.mp3
+contents: "<p>アフガニスタンの<span style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>カブールで５<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>爆弾<rt>ばくだん</rt></ruby></span>のような<ruby>物<rt>もの</rt></ruby>をたくさん<span\
+  \ style=\"color: blue;\"><ruby>乗<rt>の</rt></ruby>せ</span>た<ruby>車<rt>くるま</rt></ruby>がドイツ<ruby>大使館<rt>たいしかん</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くで<span\
+  \ style=\"color: blue;\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>する<span style=\"color:\
+  \ blue;\">テロ</span>がありました。９０<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、４００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>がけがをしました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>があった<ruby>場所<rt>ばしょ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにはいろいろな<ruby>国<rt>くに</rt></ruby>の<ruby>大使館<rt>たいしかん</rt></ruby>があって、ドイツ<ruby>大使館<rt>たいしかん</rt></ruby>などの<ruby>建物<rt>たてもの</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れました。<ruby>日本<rt>にっぽん</rt></ruby><ruby>大使館<rt>たいしかん</rt></ruby>も<ruby>窓<rt>まど</rt></ruby>のガラスが<ruby>割<rt>わ</rt></ruby>れて、<ruby>２人<rt>ふたり</rt></ruby>の<ruby>日本人<rt>にっぽんじん</rt></ruby>がけがをしました。</p>\n\
+  <p>アフガニスタンでは、タリバンやＩＳ＝イスラミックステートなどの<span style=\"color: blue;\">グループ</span>の<span\
+  \ style=\"color: blue;\">テロ</span>が<ruby>続<rt>つづ</rt></ruby>いています。タリバンはこの<span style=\"\
+  color: blue;\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>とは<ruby>関係<rt>かんけい</rt></ruby>ないと<ruby>言<rt>い</rt></ruby>っています。<ruby>警察<rt>けいさつ</rt></ruby>は、<span\
+  \ style=\"color: blue;\">テロ</span>などを<span style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こし</span>ている<span\
+  \ style=\"color: blue;\">グループ</span>が<ruby>外国<rt>がいこく</rt></ruby>の<ruby>大使館<rt>たいしかん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>攻撃<rt>こうげき</rt></ruby></span>した<span style=\"color:\
+  \ blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があると<ruby>考<rt>かんが</rt></ruby>えて<ruby>調<rt>しら</rt></ruby>べています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: テロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: 首都
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。
+- word: 爆弾
+  descriptions:
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>火薬</rb><rt>かやく</rt></ruby>をつめて、<ruby><rb>投</rb><rt>な</rt></ruby>げたり<ruby><rb>落</rb><rt>お</rt></ruby>としたりして<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>させる<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。
+- word: 乗せる
+  descriptions:
+  - <ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などに<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>む。
+  - <ruby><rb>調子</rb><rt>ちょうし</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。
+  - だます。
+- word: 爆発
+  descriptions:
+  - <ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>破裂</rb><rt>はれつ</rt></ruby>すること。
+  - おさえていた<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが、<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>出</rb><rt>で</rt></ruby>ること。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 起こす
+  descriptions:
+  - （<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。
+  - <ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。
+  - （<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。
+  - ほりかえす。
+- word: 攻撃
+  descriptions:
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>攻</rb><rt>せ</rt></ruby>めること。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>欠点</rb><rt>けってん</rt></ruby>や<ruby><rb>誤</rb><rt>あやま</rt></ruby>りを<ruby><rb>責</rb><rt>せ</rt></ruby>めること。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+web_news_url: /news/web/2017/06/01/カブール爆弾テロ事件-各国の外交施設狙ったか/
+source_url: http://www3.nhk.or.jp/news/easy/k10011002471000/k10011002471000.html
+...

@@ -1,0 +1,47 @@
+---
+layout: easy_news
+newsid: k10011000361000
+categories: easy
+title: 来年１０月から車のナンバープレートに絵を使うことができる
+title_with_ruby: <ruby>来年<rt>らいねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>から<ruby>車<rt>くるま</rt></ruby>のナンバープレートに<ruby>絵<rt>え</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うことができる
+last_modified_at: '2017-06-01T11:30:00+09:00'
+datetime: 2017年06月01日 11時30分
+description: 国土交通省こくどこうつうしょうは来年らいねんの１０月がつから、観光地かんこうちや有名ゆうめいな食たべ物ものなどの絵えを車くるまのナンバープレートに使つかうことができるようにします。
+description_with_ruby: <ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby>の１０<ruby>月<rt>がつ</rt></ruby>から、<ruby>観光地<rt>かんこうち</rt></ruby>や<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>などの<ruby>絵<rt>え</rt></ruby>を<ruby>車<rt>くるま</rt></ruby>のナンバープレートに<ruby>使<rt>つか</rt></ruby>うことができるようにします。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/01/k10011000361000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/01/k10011000361000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby></span>は<ruby>来年<rt>らいねん</rt></ruby>の１０<ruby>月<rt>がつ</rt></ruby>から、<span\
+  \ style=\"color: blue;\"><ruby>観光地<rt>かんこうち</rt></ruby></span>や<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>などの<ruby>絵<rt>え</rt></ruby>を<ruby>車<rt>くるま</rt></ruby>の<span\
+  \ style=\"color: blue;\">ナンバープレート</span>に<ruby>使<rt>つか</rt></ruby>うことができるようにします。<span\
+  \ style=\"color: blue;\">ナンバープレート</span>を<ruby>使<rt>つか</rt></ruby>って<span style=\"\
+  color: blue;\"><ruby>観光地<rt>かんこうち</rt></ruby></span>などをもっと<span style=\"color: blue;\"\
+  >ＰＲ</span>したいという<ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>があるためです。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby></span>は、<span\
+  \ style=\"color: blue;\">ナンバープレート</span>に<ruby>絵<rt>え</rt></ruby>を<ruby>使<rt>つか</rt></ruby>いたい<ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>から、<ruby>今年<rt>ことし</rt></ruby>の１２<ruby>月<rt>がつ</rt></ruby>までに<ruby>絵<rt>え</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>案<rt>あん</rt></ruby></span>を<ruby>集<rt>あつ</rt></ruby>めて<ruby>決<rt>き</rt></ruby>めることにしています。<span\
+  \ style=\"color: blue;\"><ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby></span>は「<ruby>走<rt>はし</rt></ruby>る<span\
+  \ style=\"color: blue;\"><ruby>広告<rt>こうこく</rt></ruby></span>になるので、<ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>のよさを<ruby>知<rt>し</rt></ruby>ってもらうことができると<ruby>思<rt>おも</rt></ruby>います」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ナンバープレート
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>の<ruby><rb>登録番号</rb><rt>とうろくばんごう</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>板</rb><rt>いた</rt></ruby>。
+- word: 国土交通省
+  descriptions:
+  - <ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>建物</rb><rt>たてもの</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>交通</rb><rt>こうつう</rt></ruby>・<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>の<ruby><rb>運送</rb><rt>うんそう</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>国交省</rb><rt>こっこうしょう</rt></ruby>。
+- word: 観光地
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>が<ruby><rb>美</rb><rt>うつく</rt></ruby>しかったり、<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>があったりして、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: PR
+  descriptions:
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>の<ruby><rb>内容</rb><rt>ないよう</rt></ruby>や<ruby><rb>商品</rb><rt>しょうひん</rt></ruby>のよさなどを、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>らせること。<ruby><rb>宣伝</rb><rt>せんでん</rt></ruby>。
+- word: 案
+  descriptions:
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>考</rb><rt>かんが</rt></ruby>え。<ruby><rb>計画</rb><rt>けいかく</rt></ruby>。
+  - <ruby><rb>相談</rb><rt>そうだん</rt></ruby>のことがら。
+- word: 広告
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。また、<ruby><rb>知</rb><rt>し</rt></ruby>らせるために<ruby><rb>書</rb><rt>か</rt></ruby>かれたものなど。コマーシャル。
+web_news_url: /news/web/2017/05/30/ご当地絵柄入り車のナンバープレート-来年10月から導入へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011000361000/k10011000361000.html
+...
