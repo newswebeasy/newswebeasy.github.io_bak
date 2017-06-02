@@ -1,0 +1,70 @@
+---
+layout: easy_news
+newsid: k10011002941000
+categories: easy
+title: 「東京おもちゃショー」が始まる
+title_with_ruby: 「<ruby>東京<rt>とうきょう</rt></ruby>おもちゃショー」が<ruby>始<rt>はじ</rt></ruby>まる
+last_modified_at: '2017-06-02T16:35:00+09:00'
+datetime: 2017年06月02日 16時35分
+description: 新あたらしいおもちゃを紹介しょうかいする「東京とうきょうおもちゃショー」が始はじまりました。
+description_with_ruby: <ruby>新<rt>あたら</rt></ruby>しいおもちゃを<ruby>紹介<rt>しょうかい</rt></ruby>する「<ruby>東京<rt>とうきょう</rt></ruby>おもちゃショー」が<ruby>始<rt>はじ</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/02/k10011002941000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/02/k10011002941000.mp3
+contents: "<p><ruby>新<rt>あたら</rt></ruby>しいおもちゃを<ruby>紹介<rt>しょうかい</rt></ruby>する「<ruby>東京<rt>とうきょう</rt></ruby>おもちゃショー」が<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>今年<rt>ことし</rt></ruby>は１５０ぐらいの<ruby>会社<rt>かいしゃ</rt></ruby>が３<ruby>万<rt>まん</rt></ruby>５０００のおもちゃを<ruby>紹介<rt>しょうかい</rt></ruby>しています。</p>\n\
+  <p>この<ruby>中<rt>なか</rt></ruby>には、<ruby>犬<rt>いぬ</rt></ruby>の<span style=\"color:\
+  \ blue;\"><ruby>健康<rt>けんこう</rt></ruby></span>のために、<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>散歩<rt>さんぽ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>がわかる<ruby>機械<rt>きかい</rt></ruby>があります。<ruby>犬<rt>いぬ</rt></ruby>の<ruby>首<rt>くび</rt></ruby>に<span\
+  \ style=\"color: blue;\">つける</span><ruby>小<rt>ちい</rt></ruby>さな<ruby>機械<rt>きかい</rt></ruby>で、スマートフォンのアプリに<ruby>犬<rt>いぬ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>や<ruby>体<rt>からだ</rt></ruby>の<ruby>重<rt>おも</rt></ruby>さ、<span\
+  \ style=\"color: blue;\"><ruby>年齢<rt>ねんれい</rt></ruby></span>などを<ruby>入<rt>い</rt></ruby>れると、<ruby>何<rt>なん</rt></ruby><ruby>分<rt>ぷん</rt></ruby>ぐらい<ruby>散歩<rt>さんぽ</rt></ruby>したらいいかわかります。</p>\n\
+  <p>バーチャルリアリティーの<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<span style=\"\
+  color: blue;\"><ruby>銃<rt>じゅう</rt></ruby></span>の<ruby>形<rt>かたち</rt></ruby>のおもちゃもあります。<span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>にいるような<span style=\"\
+  color: blue;\"><ruby>映像<rt>えいぞう</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>ながら、<ruby>出<rt>で</rt></ruby>てきた<span\
+  \ style=\"color: blue;\"><ruby>敵<rt>てき</rt></ruby></span>などを<span style=\"color:\
+  \ blue;\"><ruby>撃<rt>う</rt></ruby>っ</span>て<ruby>遊<rt>あそ</rt></ruby>ぶことができます。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>おもちゃショーを<ruby>開<rt>ひら</rt></ruby>いている<ruby>日本玩具協会<rt>にほんがんぐきょうかい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>昔<rt>むかし</rt></ruby>からあるおもちゃに<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って、<ruby>大人<rt>おとな</rt></ruby>も<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>楽<rt>たの</rt></ruby>しむことができるおもちゃが<ruby>増<rt>ふ</rt></ruby>えています」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>おもちゃショーは６<ruby>月<rt>がつ</rt></ruby><ruby>４日<rt>よっか</rt></ruby>まで<ruby>東京都<rt>とうきょうと</rt></ruby><ruby>江東区<rt>こうとうく</rt></ruby>にある<ruby>東京<rt>とうきょう</rt></ruby>ビッグサイトで<ruby>開<rt>ひら</rt></ruby>いています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 健康
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 年齢
+  descriptions:
+  - <ruby><rb>生</rb><rt>う</rt></ruby>まれてから<ruby><rb>今</rb><rt>いま</rt></ruby>までの<ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>数</rb><rt>かず</rt></ruby>。とし。
+- word: 銃
+  descriptions:
+  - <ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>・ピストルなど、<ruby><rb>弾丸</rb><rt>だんがん</rt></ruby>をうつ<ruby><rb>武器</rb><rt>ぶき</rt></ruby>。
+- word: 宇宙
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。
+- word: 映像
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>によって<ruby><rb>映</rb><rt>うつ</rt></ruby>し<ruby><rb>出</rb><rt>だ</rt></ruby>された、<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+  - <ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にうかんだ<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やようす。イメージ。
+- word: 敵
+  descriptions:
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>相手</rb><rt>あいて</rt></ruby>。うらみを<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>相手</rb><rt>あいて</rt></ruby>。かたき。
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>になる。
+- word: 撃つ
+  descriptions:
+  - （<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>などを）<ruby><rb>発射</rb><rt>はっしゃ</rt></ruby>する。
+web_news_url: /news/web/2017/06/01/国内最大規模のおもちゃの見本市-東京おもちゃショー開幕/
+source_url: http://www3.nhk.or.jp/news/easy/k10011002941000/k10011002941000.html
+...
