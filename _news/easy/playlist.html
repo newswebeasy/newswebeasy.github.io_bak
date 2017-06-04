@@ -18,13 +18,24 @@ description: イージーニュースを連続再生します
             <span class="rich_media_meta rich_media_meta_text rich_media_meta_nickname"><a href="/">{{ site.author }}</a></span>
           </div>
           <div class="rich_media_content">
-            <audio id="player" src="{{ page.voice_url }}" controls autoplay style="width:100%"></audio>
+            <audio id="player" src="{{ page.voice_url }}" controls autoplay style="width:100%; margin: 15px 0;"></audio>
             {% assign easylist = site.news | where: "categories", "easy" | sort: "last_modified_at" | reverse %}
             <script type="text/javascript">
               var cur = -1;
               var urls = [
-              {% for post in easylist limit: 10 %}{%if forloop.index > 1 %},{% endif %}'{{ post.voice_url }}'{% endfor %}
+              {% assign c = 0 %}
+              {% for post in easylist limit: 10 %}
+              {% if post.voice_url %}
+              '{{ post.voice_url }}',
+              {% assign c = c | plus: 1 %}
+              {% if c >= 5 %}
+              {% break %}
+              {% endif %}
+              {% endif %}
+              {% endfor %} false
               ];
+
+              urls.pop();
               var player = document.getElementById('player');
 
               player.onended = function() {
@@ -49,10 +60,17 @@ description: イージーニュースを連続再生します
               }
             </script>
             <ul>
+              {% assign c = 0 %}
               {% for post in easylist limit: 10 %}
-              <li style="margin-top: 10px;">
+              {% if post.voice_url %}
+              <li style="margin-top: 10px; border-bottom: 1px solid lightgray;">
                 <p><span class="playing-icon"></span><a href="#" onclick="play({{ forloop.index }} - 1);return false;">{{ post.title_with_ruby }}</a>　[<a style="font-size: 0.8em" href="{{ post.url }}">テキスト</a>]</p>
               </li>
+              {% assign c = c | plus: 1 %}
+              {% if c >= 5 %}
+              {% break %}
+              {% endif %}
+              {% endif %}
               {% endfor %}
             </ul>
             <script type="text/javascript">
