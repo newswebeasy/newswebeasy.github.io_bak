@@ -1,0 +1,81 @@
+---
+title: NEWS WEB
+permalink: news/web/playlist
+description: 普通のニュースを連続再生します
+---
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body class="zh_CN mm_appmsg">
+  <div class="rich_media">
+    <div class="rich_media_inner">
+      <div>
+        <div class="rich_media_area_primary">
+          <h2 class="rich_media_title">{{ page.title }}</h2>
+          <div class="rich_media_meta_list">
+            <em class="rich_media_meta rich_media_meta_text">音声再生</em>
+            <span class="rich_media_meta rich_media_meta_text rich_media_meta_nickname"><a href="/">{{ site.author }}</a></span>
+          </div>
+          <div class="rich_media_content">
+            <audio id="player" src="{{ page.voice_url }}" controls autoplay style="width:100%"></audio>
+            {% assign weblist = site.news | where: "categories", "web" | sort: "last_modified_at" | reverse %}
+            <script type="text/javascript">
+              var cur = -1;
+              var urls = [
+              {% for post in weblist limit: 10 %}{%if forloop.index > 1 %},{% endif %}'{{ post.voice_url }}'{% endfor %}
+              ];
+              var player = document.getElementById('player');
+
+              player.onended = function() {
+                var i = (cur + 1) % urls.length;
+                play(i);
+              }
+
+              function play(i) {
+                if (i != cur) {
+                  var last = cur;
+                  cur = i;
+                  player.src = urls[cur];
+                  player.load();
+                  player.play();
+
+                  var l = document.getElementsByClassName('playing-icon');
+                  if (last >= 0) {
+                    l[last].classList.remove("playing");
+                  }
+                  l[cur].classList.add("playing");
+                }
+              }
+            </script>
+            <ul>
+              {% for post in weblist limit: 10 %}
+              <li style="margin-top: 10px;">
+                <p><span class="playing-icon"></span><a href="#" onclick="play({{ forloop.index }} - 1);return false;">{{ post.title_with_ruby }}</a>　[<a style="font-size: 0.8em" href="{{ post.url }}">テキスト</a>]</p>
+              </li>
+              {% endfor %}
+            </ul>
+            <script type="text/javascript">
+              play(0);
+            </script>
+
+            <p><img data-type="gif" src="/assets/qrcode.gif" data-ratio="0.5064308681672026" data-w="622" /></p>
+          </div>
+
+          <div class="ct_mpda_wrp">
+            <!-- js_sponsor_ad_area -->
+          </div>
+
+          <div class="rich_media_tool">
+            <a class="media_tool_meta meta_primary" href="/news/easy/playlist">イージーニュース</a>
+          </div>
+        </div>
+
+        {% include footer.html %}
+
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

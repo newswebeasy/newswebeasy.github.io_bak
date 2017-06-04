@@ -406,7 +406,6 @@ img {
     line-height: 300px;
     overflow: hidden;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-    background: transparent url(/mmbizwap/zh_CN/htmledition/images/icon/appmsg/icon_appmsg_msg_closed_sprite.2x.png) no-repeat 0 0;
     width: 11px;
     height: 11px;
     vertical-align: middle;
@@ -421,6 +420,18 @@ img {
 
 .preview_appmsg .rich_media_title {
     margin-top: 1.9em
+}
+
+
+.playing-icon {
+  display: inline-block;
+  margin-right: 5px;
+  width: 14px;
+  height: 14px;
+}
+
+.playing {
+  background: url(/assets/playing.gif) no-repeat center center;
 }
 
 @media screen and (min-width:1024px) {
