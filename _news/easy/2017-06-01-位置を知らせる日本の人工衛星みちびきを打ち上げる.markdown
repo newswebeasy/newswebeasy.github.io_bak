@@ -1,0 +1,57 @@
+---
+layout: easy_news
+newsid: k10011002581000
+categories: easy
+title: 位置を知らせる日本の人工衛星「みちびき」を打ち上げる
+title_with_ruby: <ruby>位置<rt>いち</rt></ruby>を<ruby>知<rt>し</rt></ruby>らせる<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>「みちびき」を<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げる
+last_modified_at: '2017-06-01T15:50:00+09:00'
+datetime: 2017年06月01日 15時50分
+description: スマートフォンや車くるまの道みち案内あんないをするカーナビなどに使つかわれているＧＰＳは、アメリカの人工衛星じんこうえいせいを使つかって位置いちを知しらせています。
+description_with_ruby: スマートフォンや<ruby>車<rt>くるま</rt></ruby>の<ruby>道<rt>みち</rt></ruby><ruby>案内<rt>あんない</rt></ruby>をするカーナビなどに<ruby>使<rt>つか</rt></ruby>われているＧＰＳは、アメリカの<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>位置<rt>いち</rt></ruby>を<ruby>知<rt>し</rt></ruby>らせています。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/01/k10011002581000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/01/k10011002581000.mp3
+contents: "<p>スマートフォンや<ruby>車<rt>くるま</rt></ruby>の<ruby>道<rt>みち</rt></ruby><ruby>案内<rt>あんない</rt></ruby>をするカーナビなどに<ruby>使<rt>つか</rt></ruby>われているＧＰＳは、アメリカの<span\
+  \ style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>位置<rt>いち</rt></ruby></span>を<ruby>知<rt>し</rt></ruby>らせています。<ruby>日本<rt>にっぽん</rt></ruby>は６<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>、もっと<ruby>正<rt>ただ</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>位置<rt>いち</rt></ruby></span>を<ruby>知<rt>し</rt></ruby>るために<span\
+  \ style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>の「みちびき」を<span\
+  \ style=\"color: blue;\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</span>ました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>は７<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に「みちびき」を１つ<span\
+  \ style=\"color: blue;\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</span>て、テストをしていました。<ruby>今年<rt>ことし</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまでにあと２つ<span\
+  \ style=\"color: blue;\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</span>て、<ruby>全部<rt>ぜんぶ</rt></ruby>で４つにする<ruby>予定<rt>よてい</rt></ruby>です。４つのうち１つ<ruby>以上<rt>いじょう</rt></ruby>が<ruby>必<rt>かなら</rt></ruby>ず<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にいて、<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>ごろから<ruby>使<rt>つか</rt></ruby>うことができるようになる<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p>アメリカの<span style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>うと<span\
+  \ style=\"color: blue;\"><ruby>位置<rt>いち</rt></ruby></span>を１０mぐらい<ruby>間違<rt>まちが</rt></ruby>えることがありますが、「みちびき」を<ruby>使<rt>つか</rt></ruby>うと１０ｃｍより<ruby>小<rt>ちい</rt></ruby>さくなります。このため、<span\
+  \ style=\"color: blue;\"><ruby>農業<rt>のうぎょう</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>の<ruby>機械<rt>きかい</rt></ruby>を<span style=\"\
+  color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>運転<rt>うんてん</rt></ruby>したり、ドローンで<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>んだりすることができるようになると<ruby>考<rt>かんが</rt></ruby>えられています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 位置
+  descriptions:
+  - その<ruby><rb>物</rb><rt>もの</rt></ruby>がある<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+  - <ruby><rb>地位</rb><rt>ちい</rt></ruby>。<ruby><rb>立場</rb><rt>たちば</rt></ruby>。
+- word: 人工衛星
+  descriptions:
+  - ロケットで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げ、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>るようにした、<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>。<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>のようすや<ruby><rb>気象</rb><rt>きしょう</rt></ruby>などを<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>などの<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>の<ruby><rb>中継</rb><rt>ちゅうけい</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>てたりする。
+- word: 打ち上げる
+  descriptions:
+  - （<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - <ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - （<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。
+- word: 打ち上げる
+  descriptions:
+  - （<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - <ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - （<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。
+- word: 農業
+  descriptions:
+  - <ruby><rb>田</rb><rt>た</rt></ruby>や<ruby><rb>畑</rb><rt>はたけ</rt></ruby>で、<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>・<ruby><rb>野菜</rb><rt>やさい</rt></ruby>・<ruby><rb>果物</rb><rt>くだもの</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。<ruby><rb>牛</rb><rt>うし</rt></ruby>などの<ruby><rb>家畜</rb><rt>かちく</rt></ruby>を<ruby><rb>飼</rb><rt>か</rt></ruby>う<ruby><rb>仕事</rb><rt>しごと</rt></ruby>もふくめていうことがある。
+- word: 工事
+  descriptions:
+  - <ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。
+- word: 自動
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。
+web_news_url: /news/web/2017/06/01/日本版GPS衛星みちびき-打ち上げに成功/
+source_url: http://www3.nhk.or.jp/news/easy/k10011002581000/k10011002581000.html
+...

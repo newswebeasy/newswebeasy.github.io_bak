@@ -1,0 +1,66 @@
+---
+layout: easy_news
+newsid: k10011003791000
+categories: easy
+title: トランプ大統領「アメリカはパリ協定から出る」
+title_with_ruby: トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>「アメリカはパリ<ruby>協定<rt>きょうてい</rt></ruby>から<ruby>出<rt>で</rt></ruby>る」
+last_modified_at: '2017-06-02T16:35:00+09:00'
+datetime: 2017年06月02日 16時35分
+description: 地球ちきゅうの気温きおんが上あがらないようにするために二酸化炭素にさんかたんそなどのガスを減へらすと国連こくれんで決きめた「パリ協定きょうてい」が、去年きょねん１１月がつから始はじまりました。
+description_with_ruby: <ruby>地球<rt>ちきゅう</rt></ruby>の<ruby>気温<rt>きおん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がらないようにするために<ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby>などのガスを<ruby>減<rt>へ</rt></ruby>らすと<ruby>国連<rt>こくれん</rt></ruby>で<ruby>決<rt>き</rt></ruby>めた「パリ<ruby>協定<rt>きょうてい</rt></ruby>」が、<ruby>去年<rt>きょねん</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/02/k10011003791000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/02/k10011003791000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>上<rt>あ</rt></ruby>がらないようにするために<span\
+  \ style=\"color: blue;\"><ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby></span>などのガスを<span style=\"\
+  color: blue;\"><ruby>減<rt>へ</rt></ruby>らす</span>と<span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>で<ruby>決<rt>き</rt></ruby>めた「パリ<ruby>協定<rt>きょうてい</rt></ruby>」が、<ruby>去年<rt>きょねん</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>日本<rt>にっぽん</rt></ruby>など１４６の<ruby>国<rt>くに</rt></ruby>が<ruby>入<rt>はい</rt></ruby>っています。</p>\n\
+  <p>アメリカのトランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は６<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>、パリ<ruby>協定<rt>きょうてい</rt></ruby>から<ruby>出<rt>で</rt></ruby>ると<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>アメリカは<span\
+  \ style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>で、ほかの<ruby>国<rt>くに</rt></ruby>が<ruby>出<rt>だ</rt></ruby>す<span\
+  \ style=\"color: blue;\"><ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby></span>などのガスを<span style=\"\
+  color: blue;\"><ruby>減<rt>へ</rt></ruby>らす</span>ために、３０<ruby>億<rt>おく</rt></ruby><span\
+  \ style=\"color: blue;\">ドル</span><ruby>出<rt>だ</rt></ruby>すと<ruby>約束<rt>やくそく</rt></ruby>しています。トランプ<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>はこのお<ruby>金<rt>かね</rt></ruby>を、アメリカの<ruby>経済<rt>けいざい</rt></ruby>をよくするために<ruby>使<rt>つか</rt></ruby>いたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p>アメリカは<ruby>世界<rt>せかい</rt></ruby>で２<ruby>番目<rt>ばんめ</rt></ruby>にたくさん<span style=\"\
+  color: blue;\"><ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby></span>などのガスを<ruby>出<rt>だ</rt></ruby>しています。アメリカがパリ<ruby>協定<rt>きょうてい</rt></ruby>を<ruby>出<rt>で</rt></ruby>ると、ガスが<span\
+  \ style=\"color: blue;\"><ruby>減<rt>へ</rt></ruby>ら</span>なくなる<span style=\"color:\
+  \ blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>は、アメリカが<ruby>約束<rt>やくそく</rt></ruby>したお<ruby>金<rt>かね</rt></ruby>を<ruby>出<rt>だ</rt></ruby>さないと、ほかの<ruby>国<rt>くに</rt></ruby>がガスを<span\
+  \ style=\"color: blue;\"><ruby>減<rt>へ</rt></ruby>らす</span>ことも<ruby>難<rt>むずか</rt></ruby>しくなると<ruby>心配<rt>しんぱい</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを三六五<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: 気温
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。
+- word: 二酸化炭素
+  descriptions:
+  - <ruby><rb>炭素</rb><rt>たんそ</rt></ruby>と<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>の<ruby><rb>化合物</rb><rt>かごうぶつ</rt></ruby>で、<ruby><rb>色</rb><rt>いろ</rt></ruby>もにおいもない<ruby><rb>気体</rb><rt>きたい</rt></ruby>。<ruby><rb>炭火</rb><rt>すみび</rt></ruby>の<ruby><rb>燃</rb><rt>も</rt></ruby>えるときなどに<ruby><rb>発生</rb><rt>はっせい</rt></ruby>し、<ruby><rb>人</rb><rt>ひと</rt></ruby>のはく<ruby><rb>息</rb><rt>いき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にもふくまれている。ドライアイス・ソーダ<ruby><rb>水</rb><rt>すい</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。<ruby><rb>炭酸</rb><rt>たんさん</rt></ruby>ガス。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「<ruby><rb>CO<span
+    class="dic_sub">2</span></rb><rt>シーオーツー</rt></ruby>」。
+- word: 減らす
+  descriptions:
+  - <ruby><rb>少</rb><rt>すく</rt></ruby>なくする。
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった一九四五<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: ドル
+  descriptions:
+  - アメリカ・カナダなどで<ruby><rb>使</rb><rt>つか</rt></ruby>われているお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>一</rb><rt>いち</rt></ruby>ドルは一〇〇セント。
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 減る
+  descriptions:
+  - <ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。
+  - すく。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+web_news_url: /news/web/2017/06/02/トランプ大統領-パリ協定脱退の方針を発表/
+source_url: http://www3.nhk.or.jp/news/easy/k10011003791000/k10011003791000.html
+...

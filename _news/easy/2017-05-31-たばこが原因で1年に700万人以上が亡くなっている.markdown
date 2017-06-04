@@ -1,0 +1,72 @@
+---
+layout: easy_news
+newsid: k10011000881000
+categories: easy
+title: たばこが原因で１年に７００万人以上が亡くなっている
+title_with_ruby: たばこが<ruby>原因<rt>げんいん</rt></ruby>で１<ruby>年<rt>ねん</rt></ruby>に７００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなっている
+last_modified_at: '2017-05-31T15:40:00+09:00'
+datetime: 2017年05月31日 15時40分
+description: ５月がつ３１日にちは、ＷＨＯがみんなに禁煙きんえんしてほしいと考かんがえて決きめた「世界禁煙せかいきんえんデー」です。
+description_with_ruby: ５<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>は、ＷＨＯがみんなに<ruby>禁煙<rt>きんえん</rt></ruby>してほしいと<ruby>考<rt>かんが</rt></ruby>えて<ruby>決<rt>き</rt></ruby>めた「<ruby>世界禁煙<rt>せかいきんえん</rt></ruby>デー」です。
+image_url: https://newswebeasy.github.io/ja201705/news/web/image/2017/05/31/k10011000881000.jpg
+voice_url: https://newswebeasy.github.io/ja201705/news/easy/voice/2017/05/31/k10011000881000.mp3
+contents: "<p>５<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>は、<span style=\"\
+  color: blue;\">ＷＨＯ</span>がみんなに<span style=\"color: blue;\"><ruby>禁煙<rt>きんえん</rt></ruby></span>してほしいと<ruby>考<rt>かんが</rt></ruby>えて<ruby>決<rt>き</rt></ruby>めた「<ruby>世界禁煙<rt>せかいきんえん</rt></ruby>デー」です。</p>\n\
+  <p><span style=\"color: blue;\">ＷＨＯ</span>によると、たばこを<ruby>吸<rt>す</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>に１０<ruby>億<rt>おく</rt></ruby><ruby>人<rt>にん</rt></ruby>ぐらいいます。そして、たばこが<ruby>原因<rt>げんいん</rt></ruby>で１<ruby>年<rt>ねん</rt></ruby>に７００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなっています。この<ruby>中<rt>なか</rt></ruby>の８９<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>はたばこを<ruby>吸<rt>す</rt></ruby>わない<ruby>人<rt>ひと</rt></ruby>ですが、ほかの<ruby>人<rt>ひと</rt></ruby>のたばこの<span\
+  \ style=\"color: blue;\"><ruby>煙<rt>けむり</rt></ruby></span>が<ruby>原因<rt>げんいん</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなっています。</p>\n\
+  <p><span style=\"color: blue;\">ＷＨＯ</span>は、たばこが<ruby>原因<rt>げんいん</rt></ruby>で１<ruby>年<rt>ねん</rt></ruby>に１５５<span\
+  \ style=\"color: blue;\"><ruby>兆<rt>ちょう</rt></ruby></span><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>経済<rt>けいざい</rt></ruby>に<span\
+  \ style=\"color: blue;\">マイナス</span>があると<span style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>しています。<ruby>病気<rt>びょうき</rt></ruby>になってお<ruby>金<rt>かね</rt></ruby>などがかかるためです。<span\
+  \ style=\"color: blue;\"><ruby>貧<rt>まず</rt></ruby>しい</span><ruby>家庭<rt>かてい</rt></ruby>では、たばこを<ruby>買<rt>か</rt></ruby>うために<ruby>食事<rt>しょくじ</rt></ruby>や<ruby>教育<rt>きょういく</rt></ruby>などに<ruby>使<rt>つか</rt></ruby>うお<ruby>金<rt>かね</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなって、もっと<span\
+  \ style=\"color: blue;\"><ruby>貧<rt>まず</rt></ruby>しく</span>なっていると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><span style=\"color: blue;\">ＷＨＯ</span>は<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>に、たばこの<span\
+  \ style=\"color: blue;\"><ruby>税金<rt>ぜいきん</rt></ruby></span>を<ruby>高<rt>たか</rt></ruby>くしたり、<span\
+  \ style=\"color: blue;\"><ruby>広告<rt>こうこく</rt></ruby></span>をやめたりするように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: WHO
+  descriptions:
+  - <ruby><rb>国際連合</rb><rt>こくさいれんごう</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>保健衛生問題</rb><rt>ほけんえいせいもんだい</rt></ruby>について、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が<ruby><rb>協力</rb><rt>きょうりょく</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>機関</rb><rt>きかん</rt></ruby>。
+- word: 禁煙
+  descriptions:
+  - たばこをすってはいけないこと。
+  - たばこをやめること。
+- word: 煙
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>燃</rb><rt>も</rt></ruby>えるときに<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>気体</rb><rt>きたい</rt></ruby>。けむ。けぶり。
+  - けむりのように<ruby><rb>見</rb><rt>み</rt></ruby>えるもの。
+- word: 兆
+  descriptions:
+  - <ruby><rb>一億</rb><rt>いちおく</rt></ruby>の<ruby><rb>一万倍</rb><rt>いちまんばい</rt></ruby>。
+  - しるし。<ruby><rb>前</rb><rt>まえ</rt></ruby>ぶれ。
+- word: マイナス
+  descriptions:
+  - <ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>くこと。
+  - <ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>算</rb><rt>ざん</rt></ruby>のしるし。
+  - <ruby><rb>0</rb><rt>ゼロ</rt></ruby>より<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>数</rb><rt>かず</rt></ruby>のしるし。
+  - <ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>のマイナスの<ruby><rb>極</rb><rt>きょく</rt></ruby>。<ruby><rb>陰極</rb><rt>いんきょく</rt></ruby>。
+  - <ruby><rb>検査</rb><rt>けんさ</rt></ruby>などで、ある<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>が<ruby><rb>表</rb><rt>あらわ</rt></ruby>れないこと。<ruby><rb>陰性</rb><rt>いんせい</rt></ruby>。
+  - <ruby><rb>損</rb><rt>そん</rt></ruby>になること。
+  - <ruby><rb>足</rb><rt>た</rt></ruby>りないこと。
+- word: 計算
+  descriptions:
+  - <ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。
+  - <ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。
+- word: 貧しい
+  descriptions:
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>少</rb><rt>すこ</rt></ruby>ししかなく、<ruby><rb>暮</rb><rt>く</rt></ruby>らしに<ruby><rb>困</rb><rt>こま</rt></ruby>る。<ruby><rb>貧乏</rb><rt>びんぼう</rt></ruby>だ。
+  - <ruby><rb>少</rb><rt>すく</rt></ruby>ない。とぼしい。
+- word: 貧しい
+  descriptions:
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>少</rb><rt>すこ</rt></ruby>ししかなく、<ruby><rb>暮</rb><rt>く</rt></ruby>らしに<ruby><rb>困</rb><rt>こま</rt></ruby>る。<ruby><rb>貧乏</rb><rt>びんぼう</rt></ruby>だ。
+  - <ruby><rb>少</rb><rt>すく</rt></ruby>ない。とぼしい。
+- word: 税金
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>、<ruby><rb>市町村</rb><rt>しちょうそん</rt></ruby>が、そこに<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>人</rb><rt>ひと</rt></ruby>から<ruby><rb>集</rb><rt>あつ</rt></ruby>めるお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 広告
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。また、<ruby><rb>知</rb><rt>し</rt></ruby>らせるために<ruby><rb>書</rb><rt>か</rt></ruby>かれたものなど。コマーシャル。
+web_news_url: /news/web/2017/05/31/世界禁煙デー-たばこ原因の死者-年間700万人超/
+source_url: http://www3.nhk.or.jp/news/easy/k10011000881000/k10011000881000.html
+...

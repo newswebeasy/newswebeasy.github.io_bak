@@ -1,0 +1,60 @@
+---
+layout: easy_news
+newsid: k10011002281000
+categories: easy
+title: ほかの人からチケットを定価で買えるウェブサイトができる
+title_with_ruby: ほかの<ruby>人<rt>ひと</rt></ruby>からチケットを<ruby>定価<rt>ていか</rt></ruby>で<ruby>買<rt>か</rt></ruby>えるウェブサイトができる
+last_modified_at: '2017-06-02T11:30:00+09:00'
+datetime: 2017年06月02日 11時30分
+description: コンサートなどのチケットをインターネットで高たかく売うる人ひとがいて問題もんだいになっています。
+description_with_ruby: コンサートなどのチケットをインターネットで<ruby>高<rt>たか</rt></ruby>く<ruby>売<rt>う</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>がいて<ruby>問題<rt>もんだい</rt></ruby>になっています。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/02/k10011002281000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/02/k10011002281000.mp3
+contents: "<p>コンサートなどの<span style=\"color: blue;\">チケット</span>をインターネットで<ruby>高<rt>たか</rt></ruby>く<ruby>売<rt>う</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>がいて<ruby>問題<rt>もんだい</rt></ruby>になっています。<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>のある<span style=\"color:\
+  \ blue;\">チケット</span>を<span style=\"color: blue;\"><ruby>定価<rt>ていか</rt></ruby></span>の２０<ruby>倍<rt>ばい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>で<ruby>売<rt>う</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>もいます。</p>\n\
+  <p><ruby>音楽<rt>おんがく</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>人<rt>ひと</rt></ruby>などの<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>は、コンサートに<ruby>行<rt>い</rt></ruby>くことができなくなった<ruby>人<rt>ひと</rt></ruby>などから<span\
+  \ style=\"color: blue;\"><ruby>定価<rt>ていか</rt></ruby></span>で<span style=\"color:\
+  \ blue;\">チケット</span>を<ruby>買<rt>か</rt></ruby>うことができる<span style=\"color: blue;\"\
+  >ウェブサイト</span>をつくりました。この<span style=\"color: blue;\">ウェブサイト</span>は「チケトレ」という<ruby>名前<rt>なまえ</rt></ruby>です。</p>\n\
+  <p><ruby>写真<rt>しゃしん</rt></ruby>などを<ruby>送<rt>おく</rt></ruby>って<span style=\"color:\
+  \ blue;\"><ruby>登録<rt>とうろく</rt></ruby></span>すると、<span style=\"color: blue;\"><ruby>定価<rt>ていか</rt></ruby></span>に<span\
+  \ style=\"color: blue;\"><ruby>手数料<rt>てすうりょう</rt></ruby></span>を<ruby>足<rt>た</rt></ruby>した<ruby>値段<rt>ねだん</rt></ruby>で<span\
+  \ style=\"color: blue;\">チケット</span>を<ruby>売<rt>う</rt></ruby>ったり<ruby>買<rt>か</rt></ruby>ったりすることができます。<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>は、これから<span style=\"\
+  color: blue;\">チケット</span>の<span style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>を<span\
+  \ style=\"color: blue;\"><ruby>増<rt>ふ</rt></ruby>やし</span>たいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: チケット
+  descriptions:
+  - きっぷ。<ruby><rb>券</rb><rt>けん</rt></ruby>。<ruby><rb>入場券</rb><rt>にゅうじょうけん</rt></ruby>・<ruby><rb>乗車券</rb><rt>じょうしゃけん</rt></ruby>・<ruby><rb>食券</rb><rt>しょっけん</rt></ruby>など。
+- word: 定価
+  descriptions:
+  - <ruby><rb>商品</rb><rt>しょうひん</rt></ruby>につけてある、<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>値段</rb><rt>ねだん</rt></ruby>。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 登録
+  descriptions:
+  - <ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などに<ruby><rb>届</rb><rt>とど</rt></ruby>け<ruby><rb>出</rb><rt>で</rt></ruby>て、おおやけに<ruby><rb>認</rb><rt>みと</rt></ruby>めてもらうこと。
+- word: 手数料
+  descriptions:
+  - <ruby><rb>手数</rb><rt>てすう</rt></ruby>をかけたことに<ruby><rb>対</rb><rt>たい</rt></ruby>してはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+web_news_url: /news/web/2017/06/01/チケット高額転売を防げ-定価売買の公式サイト本格運用/
+source_url: http://www3.nhk.or.jp/news/easy/k10011002281000/k10011002281000.html
+...
