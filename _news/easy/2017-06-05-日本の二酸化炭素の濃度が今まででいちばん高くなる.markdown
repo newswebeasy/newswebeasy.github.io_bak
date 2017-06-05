@@ -1,0 +1,62 @@
+---
+layout: easy_news
+newsid: k10011003591000
+categories: easy
+title: 日本の二酸化炭素の濃度が今まででいちばん高くなる
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby>の<ruby>濃度<rt>のうど</rt></ruby>が<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>高<rt>たか</rt></ruby>くなる
+last_modified_at: '2017-06-05T11:30:00+09:00'
+datetime: 2017年06月05日 11時30分
+description: 気象庁きしょうちょうは、地球ちきゅうの気温きおんが上あがる原因げんいんになる二酸化炭素にさんかたんその濃度のうどを３つの場所ばしょで調しらべています。
+description_with_ruby: <ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>地球<rt>ちきゅう</rt></ruby>の<ruby>気温<rt>きおん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がる<ruby>原因<rt>げんいん</rt></ruby>になる<ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby>の<ruby>濃度<rt>のうど</rt></ruby>を３つの<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>調<rt>しら</rt></ruby>べています。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/05/k10011003591000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/05/k10011003591000.mp3
+contents: "<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<span style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>上<rt>あ</rt></ruby>がる<ruby>原因<rt>げんいん</rt></ruby>になる<span\
+  \ style=\"color: blue;\"><ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby></span>の<span style=\"\
+  color: blue;\"><ruby>濃度<rt>のうど</rt></ruby></span>を３つの<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>調<rt>しら</rt></ruby>べています。<ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<ruby>去年<rt>きょねん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>濃度<rt>のうど</rt></ruby></span>は、<ruby>岩手県<rt>いわてけん</rt></ruby><ruby>大船渡<rt>おおふなと</rt></ruby><ruby>市<rt>し</rt></ruby>で４０７．２ｐｐｍ、<ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>与那国島<rt>よなぐにじま</rt></ruby>で４０７．１ｐｐｍ、<ruby>東京都<rt>とうきょうと</rt></ruby><ruby>小笠原<rt>おがさわら</rt></ruby><ruby>村<rt>むら</rt></ruby>の<ruby>南鳥島<rt>みなみとりしま</rt></ruby>で４０４．９ｐｐｍでした。<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>で、<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>高<rt>たか</rt></ruby>くなりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>は、<ruby>世界<rt>せかい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>濃度<rt>のうど</rt></ruby></span>を４２０ｐｐｍぐらいにするように<ruby>言<rt>い</rt></ruby>っています。<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>は<ruby>毎年<rt>まいとし</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>２ｐｐｍずつ<ruby>上<rt>あ</rt></ruby>がっているため、あと１０<ruby>年<rt>ねん</rt></ruby>ぐらいで４２０ｐｐｍになる<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。</p>\n<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>さないようにする<span\
+  \ style=\"color: blue;\"><ruby>方法<rt>ほうほう</rt></ruby></span>などをしっかり<ruby>考<rt>かんが</rt></ruby>える<ruby>必要<rt>ひつよう</rt></ruby>があります」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 二酸化炭素
+  descriptions:
+  - <ruby><rb>炭素</rb><rt>たんそ</rt></ruby>と<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>の<ruby><rb>化合物</rb><rt>かごうぶつ</rt></ruby>で、<ruby><rb>色</rb><rt>いろ</rt></ruby>もにおいもない<ruby><rb>気体</rb><rt>きたい</rt></ruby>。<ruby><rb>炭火</rb><rt>すみび</rt></ruby>の<ruby><rb>燃</rb><rt>も</rt></ruby>えるときなどに<ruby><rb>発生</rb><rt>はっせい</rt></ruby>し、<ruby><rb>人</rb><rt>ひと</rt></ruby>のはく<ruby><rb>息</rb><rt>いき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にもふくまれている。ドライアイス・ソーダ<ruby><rb>水</rb><rt>すい</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。<ruby><rb>炭酸</rb><rt>たんさん</rt></ruby>ガス。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「<ruby><rb>CO<span
+    class="dic_sub">2</span></rb><rt>シーオーツー</rt></ruby>」。
+- word: 濃度
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>や<ruby><rb>気体</rb><rt>きたい</rt></ruby>のこい、うすいの<ruby><rb>度合</rb><rt>どあ</rt></ruby>い。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを三六五<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: 気温
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった一九四五<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 方法
+  descriptions:
+  - ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。
+web_news_url: /news/web/2017/06/02/国内の二酸化炭素の平均濃度-過去最高に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011003591000/k10011003591000.html
+...
