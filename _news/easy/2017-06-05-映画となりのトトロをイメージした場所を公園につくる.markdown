@@ -1,0 +1,51 @@
+---
+layout: easy_news
+newsid: k10011002901000
+categories: easy
+title: 映画「となりのトトロ」をイメージした場所を公園につくる
+title_with_ruby: <ruby>映画<rt>えいが</rt></ruby>「となりのトトロ」をイメージした<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>公園<rt>こうえん</rt></ruby>につくる
+last_modified_at: '2017-06-05T11:30:00+09:00'
+datetime: 2017年06月05日 11時30分
+description: ２００５年ねんに愛知県あいちけん長久手市ながくてしで世界せかいの国くにが参加さんかする博覧会はくらんかいがありました。
+description_with_ruby: ２００５<ruby>年<rt>ねん</rt></ruby>に<ruby>愛知県<rt>あいちけん</rt></ruby><ruby>長久手市<rt>ながくてし</rt></ruby>で<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>が<ruby>参加<rt>さんか</rt></ruby>する<ruby>博覧会<rt>はくらんかい</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/05/k10011002901000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/05/k10011002901000.mp3
+contents: "<p>２００５<ruby>年<rt>ねん</rt></ruby>に<ruby>愛知県<rt>あいちけん</rt></ruby><ruby>長久手市<rt>ながくてし</rt></ruby>で<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>参加<rt>さんか</rt></ruby></span>する<span style=\"color:\
+  \ blue;\"><ruby>博覧会<rt>はくらんかい</rt></ruby></span>がありました。<span style=\"color: blue;\"\
+  ><ruby>博覧会<rt>はくらんかい</rt></ruby></span>を<ruby>開<rt>ひら</rt></ruby>いた<ruby>場所<rt>ばしょ</rt></ruby>は<ruby>今<rt>いま</rt></ruby>、<ruby>広<rt>ひろ</rt></ruby>い<ruby>公園<rt>こうえん</rt></ruby>になっています。<ruby>公園<rt>こうえん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、スタジオジブリの<span\
+  \ style=\"color: blue;\">アニメーション</span><ruby>映画<rt>えいが</rt></ruby>「となりのトトロ」に<ruby>出<rt>で</rt></ruby>てくる<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>があります。<span\
+  \ style=\"color: blue;\"><ruby>博覧会<rt>はくらんかい</rt></ruby></span>のときに<ruby>建<rt>た</rt></ruby>てて、<ruby>今<rt>いま</rt></ruby>もたくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>ています。</p>\n\
+  <p><ruby>愛知県<rt>あいちけん</rt></ruby>はスタジオジブリと<ruby>相談<rt>そうだん</rt></ruby>して、この<ruby>公園<rt>こうえん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に「となりのトトロ」を<span\
+  \ style=\"color: blue;\">イメージ</span>した<span style=\"color: blue;\"><ruby>自然<rt>しぜん</rt></ruby></span>がたくさんある<ruby>場所<rt>ばしょ</rt></ruby>をつくることにしました。<span\
+  \ style=\"color: blue;\">オープン</span>は２０２０<ruby>年<rt>ねん</rt></ruby>よりあとになる<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p><ruby>将来<rt>しょうらい</rt></ruby>はスタジオジブリのほかの<ruby>映画<rt>えいが</rt></ruby>を<span style=\"\
+  color: blue;\">イメージ</span>した<ruby>場所<rt>ばしょ</rt></ruby>をつくることも<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: イメージ
+  descriptions:
+  - <ruby><rb>想像</rb><rt>そうぞう</rt></ruby>して、<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にえがき<ruby><rb>出</rb><rt>だ</rt></ruby>す、ものの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+- word: 参加
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。
+- word: 博覧会
+  descriptions:
+  - <ruby><rb>文化</rb><rt>ぶんか</rt></ruby>や<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>についてのいろいろな<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めて、<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せるもよおし。
+- word: アニメーション
+  descriptions:
+  - かいた<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>を、<ruby><rb>動</rb><rt>うご</rt></ruby>きに<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>撮影</rb><rt>さつえい</rt></ruby>し、それを<ruby><rb>映</rb><rt>うつ</rt></ruby>して<ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>動</rb><rt>うご</rt></ruby>いているように<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>映画</rb><rt>えいが</rt></ruby>。<ruby><rb>動画</rb><rt>どうが</rt></ruby>。アニメ。
+- word: 自然
+  descriptions:
+  - <ruby><rb>山</rb><rt>やま</rt></ruby>・<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>草</rb><rt>くさ</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>・<ruby><rb>雲</rb><rt>くも</rt></ruby>・<ruby><rb>雨</rb><rt>あめ</rt></ruby>・<ruby><rb>雪</rb><rt>ゆき</rt></ruby>など、<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>作</rb><rt>つく</rt></ruby>ったものでない<ruby><rb>物</rb><rt>もの</rt></ruby>。
+  - もともとの<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>備</rb><rt>そな</rt></ruby>えていること。
+  - わざとらしくないようす。
+  - ひとりでに。いつのまにか。
+- word: オープン
+  descriptions:
+  - <ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。
+  - かくしだてをしないようす。
+  - おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。
+web_news_url: /news/web/2017/06/01/トトロの世界を再現へ-愛地球博会場跡の公園/
+source_url: http://www3.nhk.or.jp/news/easy/k10011002901000/k10011002901000.html
+...
