@@ -1,0 +1,34 @@
+---
+layout: easy_news
+newsid: k10011006451000
+categories: easy
+title: 去年日本が出したビザが今まででいちばん多くなる
+title_with_ruby: <ruby>去年<rt>きょねん</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>が<ruby>出<rt>だ</rt></ruby>したビザが<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなる
+last_modified_at: '2017-06-06T11:30:00+09:00'
+datetime: 2017年06月06日 11時30分
+description: 外務省がいむしょうによると、去年きょねん日本にっぽんに来くる外国人がいこくじんに出だしたビザは１年ねんに５３８万まん件けんでした。
+description_with_ruby: <ruby>外務省<rt>がいむしょう</rt></ruby>によると、<ruby>去年<rt>きょねん</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>外国人<rt>がいこくじん</rt></ruby>に<ruby>出<rt>だ</rt></ruby>したビザは１<ruby>年<rt>ねん</rt></ruby>に５３８<ruby>万<rt>まん</rt></ruby><ruby>件<rt>けん</rt></ruby>でした。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/06/k10011006451000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/06/k10011006451000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>外務省<rt>がいむしょう</rt></ruby></span>によると、<ruby>去年<rt>きょねん</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>外国人<rt>がいこくじん</rt></ruby>に<ruby>出<rt>だ</rt></ruby>した<span\
+  \ style=\"color: blue;\">ビザ</span>は１<ruby>年<rt>ねん</rt></ruby>に５３８<ruby>万<rt>まん</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span>でした。<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>とし</rt></ruby>より１３％ぐらい<ruby>増<rt>ふ</rt></ruby>えて、<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなりました。</p>\n\
+  <p><span style=\"color: blue;\">ビザ</span>をもらった<ruby>人<rt>ひと</rt></ruby>の<ruby>国<rt>くに</rt></ruby>でいちばん<ruby>多<rt>おお</rt></ruby>いのは<ruby>中国<rt>ちゅうごく</rt></ruby>で７８％でした。<ruby>次<rt>つぎ</rt></ruby>はフィリピン、その<ruby>次<rt>つぎ</rt></ruby>はインドネシアでした。</p>\n\
+  <p><ruby>特<rt>とく</rt></ruby>に<ruby>中国<rt>ちゅうごく</rt></ruby>は、<ruby>決<rt>き</rt></ruby>められた<ruby>日<rt>ひ</rt></ruby>まで<ruby>何<rt>なん</rt></ruby><ruby>回<rt>かい</rt></ruby>でも<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>く</rt></ruby>ることができる「<ruby>数次<rt>すうじ</rt></ruby>ビザ」が、<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>とし</rt></ruby>の２<ruby>倍<rt>ばい</rt></ruby>の３０<ruby>万<rt>まん</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span><ruby>以上<rt>いじょう</rt></ruby>になりました。<span\
+  \ style=\"color: blue;\"><ruby>外務省<rt>がいむしょう</rt></ruby></span>は「<ruby>数次<rt>すうじ</rt></ruby>ビザがもらいやすくなったり、<ruby>利用<rt>りよう</rt></ruby>できる<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えたりしたからだと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ビザ
+  descriptions:
+  - <ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>来</rb><rt>き</rt></ruby>た<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>旅券</rb><rt>りょけん</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べ、その<ruby><rb>国</rb><rt>くに</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ることを<ruby><rb>認</rb><rt>みと</rt></ruby>める<ruby><rb>許可証</rb><rt>きょかしょう</rt></ruby>。<ruby><rb>査証</rb><rt>さしょう</rt></ruby>。
+- word: 外務省
+  descriptions:
+  - <ruby><rb>外国</rb><rt>がいこく</rt></ruby>とのつきあいや<ruby><rb>条約</rb><rt>じょうやく</rt></ruby>の<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めなどの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 件
+  descriptions:
+  - ことがら。できごと。
+  - ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+web_news_url: /news/web/2017/06/05/ビザ発給-去年は538万件余-過去最多に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011006451000/k10011006451000.html
+...
