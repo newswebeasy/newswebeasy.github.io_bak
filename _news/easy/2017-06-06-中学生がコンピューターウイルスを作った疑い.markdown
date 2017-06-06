@@ -1,0 +1,57 @@
+---
+layout: easy_news
+newsid: k10011006811000
+categories: easy
+title: 中学生がコンピューターウイルスを作った疑い
+title_with_ruby: <ruby>中学生<rt>ちゅうがくせい</rt></ruby>がコンピューターウイルスを<ruby>作<rt>つく</rt></ruby>った<ruby>疑<rt>うたが</rt></ruby>い
+last_modified_at: '2017-06-06T15:50:00+09:00'
+datetime: 2017年06月06日 15時50分
+description: 警察けいさつは５日いつか、大阪府おおさかふの１４歳さいの男おとこの中学生ちゅうがくせいをコンピューターのウイルスを作つくった疑うたがいで逮捕たいほしました。
+description_with_ruby: <ruby>警察<rt>けいさつ</rt></ruby>は<ruby>５日<rt>いつか</rt></ruby>、<ruby>大阪府<rt>おおさかふ</rt></ruby>の１４<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>の<ruby>中学生<rt>ちゅうがくせい</rt></ruby>をコンピューターのウイルスを<ruby>作<rt>つく</rt></ruby>った<ruby>疑<rt>うたが</rt></ruby>いで<ruby>逮捕<rt>たいほ</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201706/news/easy/image/2017/06/06/k10011006811000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/06/k10011006811000.mp3
+contents: "<p><ruby>警察<rt>けいさつ</rt></ruby>は<ruby>５日<rt>いつか</rt></ruby>、<ruby>大阪府<rt>おおさかふ</rt></ruby>の１４<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>の<ruby>中学生<rt>ちゅうがくせい</rt></ruby>をコンピューターの<span\
+  \ style=\"color: blue;\">ウイルス</span>を<ruby>作<rt>つく</rt></ruby>った<span style=\"color:\
+  \ blue;\"><ruby>疑<rt>うたが</rt></ruby>い</span>で<span style=\"color: blue;\"><ruby>逮捕<rt>たいほ</rt></ruby></span>しました。この<span\
+  \ style=\"color: blue;\">ウイルス</span>は、ほかの<ruby>人<rt>ひと</rt></ruby>のコンピューターを<ruby>使<rt>つか</rt></ruby>うことができなくして、<ruby>直<rt>なお</rt></ruby>したかったらお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>えと<ruby>言<rt>い</rt></ruby>います。<ruby>先月<rt>せんげつ</rt></ruby>、<ruby>同<rt>おな</rt></ruby>じ<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">ウイルス</span>が<ruby>原因<rt>げんいん</rt></ruby>で<ruby>世界中<rt>せかいじゅう</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>ました。</p>\n\
+  <p><ruby>警察<rt>けいさつ</rt></ruby>は、この<ruby>中学生<rt>ちゅうがくせい</rt></ruby>が<span style=\"\
+  color: blue;\">ウイルス</span>を<ruby>作<rt>つく</rt></ruby>ったとインターネットに<ruby>書<rt>か</rt></ruby>いたのを<ruby>見<rt>み</rt></ruby>つけました。<ruby>警察<rt>けいさつ</rt></ruby>が<ruby>中学生<rt>ちゅうがくせい</rt></ruby>のコンピューターを<ruby>調<rt>しら</rt></ruby>べると、<span\
+  \ style=\"color: blue;\">ウイルス</span>を<ruby>作<rt>つく</rt></ruby>った<span style=\"color:\
+  \ blue;\"><ruby>記録<rt>きろく</rt></ruby></span>が<ruby>残<rt>のこ</rt></ruby>っていました。<ruby>中学生<rt>ちゅうがくせい</rt></ruby>は<ruby>警察<rt>けいさつ</rt></ruby>に「<ruby>自分<rt>じぶん</rt></ruby>で<ruby>作<rt>つく</rt></ruby>って<ruby>有名<rt>ゆうめい</rt></ruby>になりたかった」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p><ruby>中学生<rt>ちゅうがくせい</rt></ruby>が<ruby>作<rt>つく</rt></ruby>った<span style=\"color:\
+  \ blue;\">ウイルス</span>は、<ruby>外国<rt>がいこく</rt></ruby>の<span style=\"color: blue;\"\
+  >ウェブサイト</span>から<ruby>誰<rt>だれ</rt></ruby>でも<span style=\"color: blue;\">ダウンロード</span>できるようになっていました。<ruby>中学生<rt>ちゅうがくせい</rt></ruby>は「<ruby>今<rt>いま</rt></ruby>まで１００<ruby>回<rt>かい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><span\
+  \ style=\"color: blue;\">ダウンロード</span>された」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: コンピューターウイルス
+  descriptions:
+  - ほかのコンピューターに<ruby><rb>勝手</rb><rt>かって</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>り、プログラムをこわしたり、データを<ruby><rb>消</rb><rt>け</rt></ruby>したりするプログラム。
+- word: 疑い
+  descriptions:
+  - あやしいと<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>変</rb><rt>へん</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。
+- word: 逮捕
+  descriptions:
+  - <ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>がつかまえること。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 記録
+  descriptions:
+  - あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+- word: ダウンロード
+  descriptions:
+  - ほかのコンピューターから<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のパソコンなどに、<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>なデータを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>入</rb><rt>い</rt></ruby>れること。
+web_news_url: /news/web/2017/06/05/身代金要求型不正ウイルス作成の疑い-中学生を逮捕/
+source_url: http://www3.nhk.or.jp/news/easy/k10011006811000/k10011006811000.html
+...
