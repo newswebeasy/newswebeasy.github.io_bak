@@ -1,0 +1,78 @@
+---
+layout: easy_news
+newsid: k10011005131000
+categories: easy
+title: タイの新しい高速鉄道で日本の新幹線の技術を使う
+title_with_ruby: タイの<ruby>新<rt>あたら</rt></ruby>しい<ruby>高速<rt>こうそく</rt></ruby><ruby>鉄道<rt>てつどう</rt></ruby>で<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う
+last_modified_at: '2017-06-06T11:30:00+09:00'
+datetime: 2017年06月06日 11時30分
+description: タイの政府せいふは、首都しゅとバンコクと北きたの方ほうのチェンマイというまちの間あいだの約やく７００ｋｍに高速こうそく鉄道てつどうをつくる計画けいかくです。
+description_with_ruby: タイの<ruby>政府<rt>せいふ</rt></ruby>は、<ruby>首都<rt>しゅと</rt></ruby>バンコクと<ruby>北<rt>きた</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>のチェンマイというまちの<ruby>間<rt>あいだ</rt></ruby>の<ruby>約<rt>やく</rt></ruby>７００ｋｍに<ruby>高速<rt>こうそく</rt></ruby><ruby>鉄道<rt>てつどう</rt></ruby>をつくる<ruby>計画<rt>けいかく</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/06/k10011005131000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/06/k10011005131000.mp3
+contents: "<p>タイの<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<span\
+  \ style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>バンコクと<ruby>北<rt>きた</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>方<rt>ほう</rt></ruby></span>のチェンマイというまちの<ruby>間<rt>あいだ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>７００ｋｍに<span style=\"color:\
+  \ blue;\"><ruby>高速<rt>こうそく</rt></ruby></span><span style=\"color: blue;\"><ruby>鉄道<rt>てつどう</rt></ruby></span>をつくる<ruby>計画<rt>けいかく</rt></ruby>です。この<span\
+  \ style=\"color: blue;\"><ruby>鉄道<rt>てつどう</rt></ruby></span>に<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>の<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>いたいと<ruby>考<rt>かんが</rt></ruby>えていて、<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>と<ruby>相談<rt>そうだん</rt></ruby>しています。</p>\n\
+  <p><ruby>今週<rt>こんしゅう</rt></ruby>、タイのアーコム<ruby>運輸<rt>うんゆ</rt></ruby><span style=\"\
+  color: blue;\"><ruby>大臣<rt>だいじん</rt></ruby></span>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。<ruby>石井<rt>いしい</rt></ruby><ruby>国土交通<rt>こくどこうつう</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>大臣<rt>だいじん</rt></ruby></span>と<ruby>会<rt>あ</rt></ruby>って、７００ｋｍ<ruby>全部<rt>ぜんぶ</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>が<ruby>走<rt>はし</rt></ruby>るための<span\
+  \ style=\"color: blue;\"><ruby>線路<rt>せんろ</rt></ruby></span>をつくることを<ruby>約束<rt>やくそく</rt></ruby>します。そして、バンコクから<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>４００ｋｍのピサヌロークというまちまでの<span\
+  \ style=\"color: blue;\"><ruby>線路<rt>せんろ</rt></ruby></span>を<ruby>先<rt>さき</rt></ruby>につくって、<ruby>運転<rt>うんてん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めることにします。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>とタイの<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は<ruby>今年<rt>ことし</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまでに、<ruby>必要<rt>ひつよう</rt></ruby>なお<ruby>金<rt>かね</rt></ruby>などをいろいろ<ruby>調<rt>しら</rt></ruby>べて、はっきり<ruby>決<rt>き</rt></ruby>めると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>タイは<ruby>日本<rt>にっぽん</rt></ruby>に、できるだけお<ruby>金<rt>かね</rt></ruby>がかからないようにしてほしい、<ruby>乗<rt>の</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>増<rt>ふ</rt></ruby>やす</span>ために<span style=\"color:\
+  \ blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>してほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 高速
+  descriptions:
+  - <ruby><rb>速度</rb><rt>そくど</rt></ruby>が<ruby><rb>速</rb><rt>はや</rt></ruby>いこと。
+- word: 鉄道
+  descriptions:
+  - <ruby><rb>鉄</rb><rt>てつ</rt></ruby>のレールをしいて、<ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>を<ruby><rb>走</rb><rt>はし</rt></ruby>らせる<ruby><rb>交通機関</rb><rt>こうつうきかん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、一八七二<ruby><rb>年</rb><rt>ねん</rt></ruby>（<ruby><rb>明治</rb><rt>めいじ</rt></ruby>五<ruby><rb>年</rb><rt>ねん</rt></ruby>）に<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>の<ruby><rb>新橋</rb><rt>しんばし</rt></ruby>と<ruby><rb>横浜</rb><rt>よこはま</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>初</rb><rt>はじ</rt></ruby>めて<ruby><rb>開通</rb><rt>かいつう</rt></ruby>した。
+- word: 新幹線
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>のおもな<ruby><rb>都市</rb><rt>とし</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで、<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶための<ruby><rb>高速鉄道</rb><rt>こうそくてつどう</rt></ruby>。<ruby><rb>東海道新幹線</rb><rt>とうかいどうしんかんせん</rt></ruby>、<ruby><rb>山陽新幹線</rb><rt>さんようしんかんせん</rt></ruby>、<ruby><rb>上越新幹線</rb><rt>じょうえつしんかんせん</rt></ruby>、<ruby><rb>長野新幹線</rb><rt>ながのしんかんせん</rt></ruby>、<ruby><rb>東北新幹線</rb><rt>とうほくしんかんせん</rt></ruby>、<ruby><rb>山形新幹線</rb><rt>やまがたしんかんせん</rt></ruby>、<ruby><rb>秋田新幹線</rb><rt>あきたしんかんせん</rt></ruby>、<ruby><rb>九州新幹線</rb><rt>きゅうしゅうしんかんせん</rt></ruby>がある。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 首都
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。
+- word: 方
+  descriptions:
+  - <ruby><rb>向</rb><rt>む</rt></ruby>き。
+  - それぞれの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。
+  - <ruby><rb>四角</rb><rt>しかく</rt></ruby>。
+  - やりかた。
+  - <ruby><rb>分</rb><rt>わ</rt></ruby>けたときの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>部類</rb><rt>ぶるい</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>をうやまって<ruby><rb>言</rb><rt>い</rt></ruby>うことば。かた。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 大臣
+  descriptions:
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>をつくり、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>で、もっとも<ruby><rb>責任</rb><rt>せきにん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>総理大臣</rb><rt>そうりだいじん</rt></ruby>と<ruby><rb>国務大臣</rb><rt>こくむだいじん</rt></ruby>とがある。
+- word: 線路
+  descriptions:
+  - <ruby><rb>汽車</rb><rt>きしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道筋</rb><rt>みちすじ</rt></ruby>。レール。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+web_news_url: /news/web/2017/06/03/タイ新幹線計画-専用レールのフル規格採用で覚書へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011005131000/k10011005131000.html
+...
