@@ -1,0 +1,44 @@
+---
+layout: easy_news
+newsid: k10011007801000
+categories: easy
+title: サウジアラビアなど６つの国がカタールとの交流をやめる
+title_with_ruby: サウジアラビアなど６つの<ruby>国<rt>くに</rt></ruby>がカタールとの<ruby>交流<rt>こうりゅう</rt></ruby>をやめる
+last_modified_at: '2017-06-06T15:50:00+09:00'
+datetime: 2017年06月06日 15時50分
+description: ５日いつか、中東ちゅうとうのサウジアラビアなど６つの国くにが、カタールとの国くにの交流こうりゅうをやめると発表はっぴょうしました。
+description_with_ruby: <ruby>５日<rt>いつか</rt></ruby>、<ruby>中東<rt>ちゅうとう</rt></ruby>のサウジアラビアなど６つの<ruby>国<rt>くに</rt></ruby>が、カタールとの<ruby>国<rt>くに</rt></ruby>の<ruby>交流<rt>こうりゅう</rt></ruby>をやめると<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/06/k10011007801000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/06/k10011007801000.mp3
+contents: "<p><ruby>５日<rt>いつか</rt></ruby>、<span style=\"color: blue;\"><ruby>中東<rt>ちゅうとう</rt></ruby></span>のサウジアラビアなど６つの<ruby>国<rt>くに</rt></ruby>が、カタールとの<ruby>国<rt>くに</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>交流<rt>こうりゅう</rt></ruby></span>をやめると<span style=\"\
+  color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。６つの<ruby>国<rt>くに</rt></ruby>は、サウジアラビア、ＵＡＥ（アラブ<ruby>首長国連邦<rt>しゅちょうこくれんぽう</rt></ruby>）、バーレーン、イエメン、エジプト、モルディブです。</p>\n\
+  <p>サウジアラビアなどはイランとけんかをしていて、「カタールは、イランと<ruby>関係<rt>かんけい</rt></ruby>がある<span style=\"\
+  color: blue;\">テロ</span>の<span style=\"color: blue;\">グループ</span>などを<ruby>手伝<rt>てつだ</rt></ruby>っている」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>６つの<ruby>国<rt>くに</rt></ruby>は、カタールから<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>外交官<rt>がいこうかん</rt></ruby></span>は<ruby>国<rt>くに</rt></ruby>から<ruby>出<rt>で</rt></ruby>るように<ruby>言<rt>い</rt></ruby>いました。サウジアラビアなどとカタールの<ruby>間<rt>あいだ</rt></ruby>では<ruby>飛行機<rt>ひこうき</rt></ruby>も<ruby>飛<rt>と</rt></ruby>ばなくなりました。</p>\n\
+  <p>カタールは「サウジアラビアなどが<ruby>言<rt>い</rt></ruby>っていることは<ruby>正<rt>ただ</rt></ruby>しくない」と<ruby>言<rt>い</rt></ruby>って、<ruby>怒<rt>おこ</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 交流
+  descriptions:
+  - たがいに<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>来</rb><rt>き</rt></ruby>すること。<ruby><rb>交</rb><rt>ま</rt></ruby>じり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時間</rb><rt>じかん</rt></ruby>ごとに、<ruby><rb>流</rb><rt>なが</rt></ruby>れの<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>が<ruby><rb>逆</rb><rt>ぎゃく</rt></ruby>になる<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>。
+- word: 中東
+  descriptions:
+  - <ruby><rb>西</rb><rt>にし</rt></ruby>アジアからエジプトにかけての<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。イラン・イラク・アフガニスタン・トルコなどの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>。<ruby><rb>中近東</rb><rt>ちゅうきんとう</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: テロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 外交官
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>として<ruby><rb>外国</rb><rt>がいこく</rt></ruby>にいて、その<ruby><rb>国</rb><rt>くに</rt></ruby>と<ruby><rb>外交</rb><rt>がいこう</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役人</rb><rt>やくにん</rt></ruby>。<ruby><rb>大使</rb><rt>たいし</rt></ruby>・<ruby><rb>公使</rb><rt>こうし</rt></ruby>などがある。
+web_news_url: /news/web/2017/06/06/カタール-国交断絶で経済への影響拡大か/
+source_url: http://www3.nhk.or.jp/news/easy/k10011007801000/k10011007801000.html
+...
