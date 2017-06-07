@@ -1,0 +1,44 @@
+---
+layout: easy_news
+newsid: k10011008251000
+categories: easy
+title: 家から逃げた大きなトカゲを９日あとに捕まえる
+title_with_ruby: <ruby>家<rt>いえ</rt></ruby>から<ruby>逃<rt>に</rt></ruby>げた<ruby>大<rt>おお</rt></ruby>きなトカゲを<ruby>９日<rt>ここのか</rt></ruby>あとに<ruby>捕<rt>つか</rt></ruby>まえる
+last_modified_at: '2017-06-07T15:50:00+09:00'
+datetime: 2017年06月07日 15時50分
+description: 静岡市しずおかしの男性だんせいが飼かっている大おおきなトカゲが、５月がつ２８日にちに男性だんせいの家いえから逃にげました。
+description_with_ruby: <ruby>静岡市<rt>しずおかし</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>が<ruby>飼<rt>か</rt></ruby>っている<ruby>大<rt>おお</rt></ruby>きなトカゲが、５<ruby>月<rt>がつ</rt></ruby>２８<ruby>日<rt>にち</rt></ruby>に<ruby>男性<rt>だんせい</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>から<ruby>逃<rt>に</rt></ruby>げました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/07/k10011008251000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/07/k10011008251000.mp3
+contents: "<p><ruby>静岡市<rt>しずおかし</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>が<span style=\"\
+  color: blue;\"><ruby>飼<rt>か</rt></ruby>っ</span>ている<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\">トカゲ</span>が、５<ruby>月<rt>がつ</rt></ruby>２８<ruby>日<rt>にち</rt></ruby>に<ruby>男性<rt>だんせい</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>から<ruby>逃<rt>に</rt></ruby>げました。<ruby>大<rt>おお</rt></ruby>きさが１ｍぐらいのコガネオオトカゲという<span\
+  \ style=\"color: blue;\">トカゲ</span>で、<ruby>体<rt>からだ</rt></ruby>の<ruby>色<rt>いろ</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>黄緑<rt>きみどり</rt></ruby></span>です。</p>\n<p><ruby>男性<rt>だんせい</rt></ruby>と<span\
+  \ style=\"color: blue;\">トカゲ</span>の<ruby>専門家<rt>せんもんか</rt></ruby>が、<ruby>逃<rt>に</rt></ruby>げた<span\
+  \ style=\"color: blue;\">トカゲ</span>をずっと<ruby>探<rt>さが</rt></ruby>していました。まちの<ruby>中<rt>なか</rt></ruby>では<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\">トカゲ</span>を<ruby>見<rt>み</rt></ruby>たという<ruby>人<rt>ひと</rt></ruby>がたくさんいました。<ruby>逃<rt>に</rt></ruby>げてから<ruby>９日<rt>ここのか</rt></ruby>あとの６<ruby>月<rt>がつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>農園<rt>のうえん</rt></ruby></span>で<span style=\"color:\
+  \ blue;\">トカゲ</span>が<ruby>見<rt>み</rt></ruby>つかって、<ruby>専門家<rt>せんもんか</rt></ruby>が<ruby>捕<rt>つか</rt></ruby>まえました。</p>\n\
+  <p><ruby>男性<rt>だんせい</rt></ruby>は「これからは<ruby>逃<rt>に</rt></ruby>げないように<ruby>気<rt>き</rt></ruby>をつけて<span\
+  \ style=\"color: blue;\"><ruby>飼<rt>か</rt></ruby>い</span>たいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: とかげ
+  descriptions:
+  - <ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>近</rb><rt>ちか</rt></ruby>くや、<ruby><rb>草</rb><rt>くさ</rt></ruby>むらなどにすむ<ruby><rb>小形</rb><rt>こがた</rt></ruby>の<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>く<ruby><rb>四本</rb><rt>よんほん</rt></ruby>の<ruby><rb>短</rb><rt>みじか</rt></ruby>い<ruby><rb>足</rb><rt>あし</rt></ruby>があり、<ruby><rb>尾</rb><rt>お</rt></ruby>をおさえると<ruby><rb>切</rb><rt>き</rt></ruby>ってにげる。
+- word: 飼う
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>にえさをあたえて<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。
+- word: 黄緑
+  descriptions:
+  - <ruby><rb>黄色</rb><rt>きいろ</rt></ruby>がかった<ruby><rb>緑色</rb><rt>みどりいろ</rt></ruby>。
+- word: 農園
+  descriptions:
+  - <ruby><rb>野菜</rb><rt>やさい</rt></ruby>・<ruby><rb>果物</rb><rt>くだもの</rt></ruby>・<ruby><rb>草花</rb><rt>くさばな</rt></ruby>などを<ruby><rb>大</rb><rt>おお</rt></ruby>がかりに<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 飼う
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>にえさをあたえて<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。
+web_news_url: /news/web/2017/06/06/住宅から逃げたオオトカゲ捕獲-静岡/
+source_url: http://www3.nhk.or.jp/news/easy/k10011008251000/k10011008251000.html
+...

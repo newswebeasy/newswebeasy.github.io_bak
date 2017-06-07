@@ -1,0 +1,39 @@
+---
+layout: easy_news
+newsid: k10011007871000
+categories: easy
+title: 人工知能を使ったスピーカーをアメリカのアップルも売る
+title_with_ruby: <ruby>人工知能<rt>じんこうちのう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ったスピーカーをアメリカのアップルも<ruby>売<rt>う</rt></ruby>る
+last_modified_at: '2017-06-07T11:30:00+09:00'
+datetime: 2017年06月07日 11時30分
+description: アメリカの会社かいしゃのアップルは、人ひとのように自分じぶんで考かんがえるコンピューターの「人工知能じんこうちのう」を使つかったスピーカーを売うると発表はっぴょうしました。
+description_with_ruby: アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>のアップルは、<ruby>人<rt>ひと</rt></ruby>のように<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>えるコンピューターの「<ruby>人工知能<rt>じんこうちのう</rt></ruby>」を<ruby>使<rt>つか</rt></ruby>ったスピーカーを<ruby>売<rt>う</rt></ruby>ると<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/07/k10011007871000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/07/k10011007871000.mp3
+contents: "<p>アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>のアップルは、<ruby>人<rt>ひと</rt></ruby>のように<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>えるコンピューターの「<ruby>人工知能<rt>じんこうちのう</rt></ruby>」を<ruby>使<rt>つか</rt></ruby>った<span\
+  \ style=\"color: blue;\">スピーカー</span>を<ruby>売<rt>う</rt></ruby>ると<span style=\"color:\
+  \ blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>この<span style=\"color:\
+  \ blue;\">スピーカー</span>は<ruby>高<rt>たか</rt></ruby>さが１７ｃｍぐらいのまるい<span style=\"color:\
+  \ blue;\"><ruby>筒<rt>つつ</rt></ruby></span>の<ruby>形<rt>かたち</rt></ruby>です。<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っている<span\
+  \ style=\"color: blue;\">マイク</span>に<ruby>人<rt>ひと</rt></ruby>が<ruby>話<rt>はな</rt></ruby>すと、<ruby>好<rt>す</rt></ruby>きな<ruby>音楽<rt>おんがく</rt></ruby>やニュースを<ruby>聞<rt>き</rt></ruby>くことができます。<ruby>話<rt>はな</rt></ruby>すだけで<ruby>部屋<rt>へや</rt></ruby>の<ruby>電気<rt>でんき</rt></ruby>やエアコンなどをつけたり<ruby>消<rt>け</rt></ruby>したりすることもできます。</p>\n\
+  <p>アメリカなど<ruby>英語<rt>えいご</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っている<ruby>国<rt>くに</rt></ruby>では、この<span\
+  \ style=\"color: blue;\">スピーカー</span>を<ruby>今年<rt>ことし</rt></ruby>１２<ruby>月<rt>がつ</rt></ruby>から<ruby>売<rt>う</rt></ruby>ります。<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>来年<rt>らいねん</rt></ruby>から<ruby>売<rt>う</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>で、<ruby>値段<rt>ねだん</rt></ruby>は３<ruby>万<rt>まん</rt></ruby>８０００<ruby>円<rt>えん</rt></ruby>ぐらいです。</p>\n\
+  <p><ruby>人工知能<rt>じんこうちのう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<span style=\"color:\
+  \ blue;\">スピーカー</span>は、アメリカのアマゾン・ドット・コムが２０１４<ruby>年<rt>ねん</rt></ruby>から、グーグルが<ruby>去年<rt>きょねん</rt></ruby>から<ruby>売<rt>う</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: スピーカー
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>の<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を、<ruby><rb>音声</rb><rt>おんせい</rt></ruby>に<ruby><rb>変</rb><rt>か</rt></ruby>えて<ruby><rb>聞</rb><rt>き</rt></ruby>かせるための<ruby><rb>器械</rb><rt>きかい</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 筒
+  descriptions:
+  - <ruby><rb>円</rb><rt>まる</rt></ruby>くて<ruby><rb>長</rb><rt>なが</rt></ruby>く、<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>空</rb><rt>あ</rt></ruby>いているもの。<ruby><rb>管</rb><rt>くだ</rt></ruby>。
+- word: マイクロホン
+  descriptions:
+  - <ruby><rb>録音</rb><rt>ろくおん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>をするとき、<ruby><rb>声</rb><rt>こえ</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>電気</rb><rt>でんき</rt></ruby>の<ruby><rb>流</rb><rt>なが</rt></ruby>れに<ruby><rb>変</rb><rt>か</rt></ruby>える<ruby><rb>器械</rb><rt>きかい</rt></ruby>。マイク。マイクロフォン。
+web_news_url: /news/web/2017/06/06/アップルもAIスピーカー発表-話しかけるだけで音楽再生/
+source_url: http://www3.nhk.or.jp/news/easy/k10011007871000/k10011007871000.html
+...
