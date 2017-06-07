@@ -1,0 +1,67 @@
+---
+layout: easy_news
+newsid: k10011006791000
+categories: easy
+title: 日本の海の底の広い所にレアメタルが入った岩がある
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>の<ruby>広<rt>ひろ</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>にレアメタルが<ruby>入<rt>はい</rt></ruby>った<ruby>岩<rt>いわ</rt></ruby>がある
+last_modified_at: '2017-06-07T11:30:00+09:00'
+datetime: 2017年06月07日 11時30分
+description: コバルトやニッケルなどの「レアメタル」は、スマートフォンのバッテリーなどを作つくるために必要ひつようですが、日本にっぽんは全部ぜんぶ輸入ゆにゅうしています。
+description_with_ruby: コバルトやニッケルなどの「レアメタル」は、スマートフォンのバッテリーなどを<ruby>作<rt>つく</rt></ruby>るために<ruby>必要<rt>ひつよう</rt></ruby>ですが、<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>輸入<rt>ゆにゅう</rt></ruby>しています。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/07/k10011006791000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/07/k10011006791000.mp3
+contents: "<p><span style=\"color: blue;\">コバルト</span>や<span style=\"color: blue;\"\
+  >ニッケル</span>などの「レアメタル」は、スマートフォンの<span style=\"color: blue;\">バッテリー</span>などを<ruby>作<rt>つく</rt></ruby>るために<ruby>必要<rt>ひつよう</rt></ruby>ですが、<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>輸入<rt>ゆにゅう</rt></ruby>しています。</p>\n\
+  <p><ruby>千葉県<rt>ちばけん</rt></ruby>の<ruby>房総<rt>ぼうそう</rt></ruby><ruby>半島<rt>はんとう</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>３５０ｋmの<ruby>海<rt>うみ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>底<rt>そこ</rt></ruby></span>で３０<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>、レアメタルが<ruby>入<rt>はい</rt></ruby>っている<span\
+  \ style=\"color: blue;\"><ruby>岩<rt>いわ</rt></ruby></span>や<ruby>石<rt>いし</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかりました。<ruby>海洋研究開発機構<rt>かいようけんきゅうかいはつきこう</rt></ruby>などは、レアメタルが<ruby>入<rt>はい</rt></ruby>っている<span\
+  \ style=\"color: blue;\"><ruby>岩<rt>いわ</rt></ruby></span>などがどのくらいあるか<span style=\"\
+  color: blue;\">ロボット</span>を<ruby>使<rt>つか</rt></ruby>って<ruby>調<rt>しら</rt></ruby>べました。</p>\n\
+  <p>その<span style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>、<ruby>深<rt>ふか</rt></ruby>さ１５００mから５５００ｍぐらいの<ruby>海<rt>うみ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>底<rt>そこ</rt></ruby></span>で、<ruby>広<rt>ひろ</rt></ruby>さ<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>９５０km²の<ruby>所<rt>ところ</rt></ruby>にレアメタルが<ruby>入<rt>はい</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>岩<rt>いわ</rt></ruby></span>などが<ruby>集<rt>あつ</rt></ruby>まっていることがわかりました。<span\
+  \ style=\"color: blue;\"><ruby>岩<rt>いわ</rt></ruby></span>などが<ruby>集<rt>あつ</rt></ruby>まっている<ruby>所<rt>ところ</rt></ruby>の<ruby>厚<rt>あつ</rt></ruby>さは１０ｃｍ<ruby>以上<rt>いじょう</rt></ruby>ありました。</p>\n\
+  <p>レアメタルが<ruby>入<rt>はい</rt></ruby>っている<span style=\"color: blue;\"><ruby>岩<rt>いわ</rt></ruby></span>などは、<span\
+  \ style=\"color: blue;\"><ruby>太平洋<rt>たいへいよう</rt></ruby></span>の<ruby>南鳥島<rt>みなみとりしま</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りの<ruby>海<rt>うみ</rt></ruby>でも<ruby>見<rt>み</rt></ruby>つかっています。<ruby>海洋研究開発機構<rt>かいようけんきゅうかいはつきこう</rt></ruby>などは、レアメタルをとることができるかどうか<ruby>調<rt>しら</rt></ruby>べています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 底
+  descriptions:
+  - くぼんだ<ruby><rb>物</rb><rt>もの</rt></ruby>のいちばん<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - いちばんおく<ruby><rb>深</rb><rt>ふか</rt></ruby>いところ。
+  - ものごとの<ruby><rb>果</rb><rt>は</rt></ruby>て。<ruby><rb>限</rb><rt>かぎ</rt></ruby>り。
+- word: 岩
+  descriptions:
+  - <ruby><rb>石</rb><rt>いし</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きなもの。<ruby><rb>岩石</rb><rt>がんせき</rt></ruby>。
+- word: コバルト
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>銀白色</rb><rt>ぎんはくしょく</rt></ruby>でかたく、<ruby><rb>酸化</rb><rt>さんか</rt></ruby>すると<ruby><rb>青</rb><rt>あお</rt></ruby>になる。<ruby><rb>合金</rb><rt>ごうきん</rt></ruby>の<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>として<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+  - <ruby><rb>空色</rb><rt>そらいろ</rt></ruby>。
+- word: ニッケル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>白</rb><rt>しろ</rt></ruby>いつやがあり、<ruby><rb>銀</rb><rt>ぎん</rt></ruby>に<ruby><rb>似</rb><rt>に</rt></ruby>ている。
+- word: バッテリー
+  descriptions:
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールの、ピッチャーとキャッチャー。
+  - <ruby><rb>充電</rb><rt>じゅうでん</rt></ruby>して、くり<ruby><rb>返</rb><rt>かえ</rt></ruby>し<ruby><rb>使</rb><rt>つか</rt></ruby>える<ruby><rb>電池</rb><rt>でんち</rt></ruby>。<ruby><rb>蓄電池</rb><rt>ちくでんち</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: ロボット
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>磁気</rb><rt>じき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。<ruby><rb>人造</rb><rt>じんぞう</rt></ruby><ruby><rb>人間</rb><rt>にんげん</rt></ruby>。
+  - <ruby><rb>工場</rb><rt>こうじょう</rt></ruby>などで<ruby><rb>人間</rb><rt>にんげん</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって、<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。
+  - （いつも）<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>いなりになって<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+- word: 太平洋
+  descriptions:
+  - アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+web_news_url: /news/web/2017/06/05/房総半島沖にレアメタル含む岩石-東京23区の15倍の規模/
+source_url: http://www3.nhk.or.jp/news/easy/k10011006791000/k10011006791000.html
+...
