@@ -1,0 +1,43 @@
+---
+layout: easy_news
+newsid: k10011008681000
+categories: easy
+title: インド　４５℃以上の暑い日が続いて３６０人が亡くなる
+title_with_ruby: インド　４５℃<ruby>以上<rt>いじょう</rt></ruby>の<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて３６０<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+last_modified_at: '2017-06-07T15:50:00+09:00'
+datetime: 2017年06月07日 15時50分
+description: インドとパキスタンでは、５月がつの終おわりごろから気温きおんが４５℃以上いじょうになる日ひが続つづいています。
+description_with_ruby: インドとパキスタンでは、５<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろから<ruby>気温<rt>きおん</rt></ruby>が４５℃<ruby>以上<rt>いじょう</rt></ruby>になる<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/07/k10011008681000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/07/k10011008681000.mp3
+contents: "<p>インドとパキスタンでは、５<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろから<span\
+  \ style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>が４５℃<ruby>以上<rt>いじょう</rt></ruby>になる<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。５<ruby>月<rt>がつ</rt></ruby>２８<ruby>日<rt>にち</rt></ruby>にはパキスタンのトゥルバットというまちで５３．５℃になりました。インドでも６<ruby>月<rt>がつ</rt></ruby><ruby>４日<rt>よっか</rt></ruby>に４８℃になったまちがありました。</p>\n\
+  <p>とても<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いているため、<span\
+  \ style=\"color: blue;\"><ruby>熱中症<rt>ねっちゅうしょう</rt></ruby></span>などで<ruby>亡<rt>な</rt></ruby>くなる<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなっています。インドでは、<ruby>外<rt>そと</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>をしていた<ruby>人<rt>ひと</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>畑<rt>はたけ</rt></ruby></span>で<ruby>仕事<rt>しごと</rt></ruby>をしていた<ruby>人<rt>ひと</rt></ruby>など３６０<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p>インドの<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>はあと１<ruby>週間<rt>しゅうかん</rt></ruby>ぐらい<ruby>続<rt>つづ</rt></ruby>くと<ruby>考<rt>かんが</rt></ruby>えていて、<span\
+  \ style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>上<rt>あ</rt></ruby>がる<ruby>昼<rt>ひる</rt></ruby>は<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>ないように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>インドとパキスタンでは、おととしもとても<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて、<ruby>全部<rt>ぜんぶ</rt></ruby>で３０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 気温
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。
+- word: 熱中症
+  descriptions:
+  - <ruby><rb>夏</rb><rt>なつ</rt></ruby>の<ruby><rb>暑</rb><rt>あつ</rt></ruby>さなどで、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>が<ruby><rb>体内</rb><rt>たいない</rt></ruby>にたまって<ruby><rb>起</rb><rt>お</rt></ruby>こる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。ひどい<ruby><rb>頭痛</rb><rt>ずつう</rt></ruby>がしたり、<ruby><rb>気</rb><rt>き</rt></ruby>を<ruby><rb>失</rb><rt>うしな</rt></ruby>ったりする。
+- word: 工事
+  descriptions:
+  - <ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。
+- word: 畑
+  descriptions:
+  - <ruby><rb>野菜</rb><rt>やさい</rt></ruby>や<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>土地</rb><rt>とち</rt></ruby>。
+  - <ruby><rb>専門</rb><rt>せんもん</rt></ruby>。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+web_news_url: /news/web/2017/06/06/インド-連日50度超える暑さで360人死亡/
+source_url: http://www3.nhk.or.jp/news/easy/k10011008681000/k10011008681000.html
+...
