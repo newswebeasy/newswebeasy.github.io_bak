@@ -1,0 +1,57 @@
+---
+layout: easy_news
+newsid: k10011009751000
+categories: easy
+title: 「大阪で万国博覧会を開きたい」宣伝で使うマークを作る
+title_with_ruby: 「<ruby>大阪<rt>おおさか</rt></ruby>で<ruby>万国博覧会<rt>ばんこくはくらんかい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>きたい」<ruby>宣伝<rt>せんでん</rt></ruby>で<ruby>使<rt>つか</rt></ruby>うマークを<ruby>作<rt>つく</rt></ruby>る
+last_modified_at: '2017-06-08T16:35:00+09:00'
+datetime: 2017年06月08日 16時35分
+description: ２０２５年ねんに「万国博覧会ばんこくはくらんかい」という世界せかいの国くにがいろいろな物ものを紹介しょうかいする大おおきなイベントがあります。
+description_with_ruby: ２０２５<ruby>年<rt>ねん</rt></ruby>に「<ruby>万国博覧会<rt>ばんこくはくらんかい</rt></ruby>」という<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>がいろいろな<ruby>物<rt>もの</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する<ruby>大<rt>おお</rt></ruby>きなイベントがあります。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/08/k10011009751000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/08/k10011009751000.mp3
+contents: "<p>２０２５<ruby>年<rt>ねん</rt></ruby>に「<ruby>万国博覧会<rt>ばんこくはくらんかい</rt></ruby>」という<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>がいろいろな<ruby>物<rt>もの</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\">イベント</span>があります。どこで<ruby>開<rt>ひら</rt></ruby>くかは、<ruby>大阪<rt>おおさか</rt></ruby>やフランスのパリなど４つの<ruby>場所<rt>ばしょ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>から<ruby>来年<rt>らいねん</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby>に<ruby>決<rt>き</rt></ruby>まります。</p>\n\
+  <p><ruby>７日<rt>なのか</rt></ruby>、<ruby>大阪<rt>おおさか</rt></ruby>で<ruby>開<rt>ひら</rt></ruby>くための<span\
+  \ style=\"color: blue;\"><ruby>宣伝<rt>せんでん</rt></ruby></span>で<ruby>使<rt>つか</rt></ruby>う<span\
+  \ style=\"color: blue;\">マーク</span>の<span style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>がありました。<span\
+  \ style=\"color: blue;\">マーク</span>は、<ruby>笑<rt>わら</rt></ruby>っている５つの<ruby>顔<rt>かお</rt></ruby>が<ruby>丸<rt>まる</rt></ruby>い<ruby>形<rt>かたち</rt></ruby>になっている<span\
+  \ style=\"color: blue;\">デザイン</span>です。<span style=\"color: blue;\">デザイン</span>を<ruby>考<rt>かんが</rt></ruby>えた<ruby>大川<rt>おおかわ</rt></ruby><ruby>幸秀<rt>ゆきひで</rt></ruby>さんによると、<ruby>楽<rt>たの</rt></ruby>しそうに<ruby>笑<rt>わら</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>たちが<ruby>世界中<rt>せかいじゅう</rt></ruby>から<ruby>集<rt>あつ</rt></ruby>まってくることを<ruby>思<rt>おも</rt></ruby>って<ruby>作<rt>つく</rt></ruby>りました。<ruby>大阪府<rt>おおさかふ</rt></ruby>の<ruby>松井<rt>まつい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>知事<rt>ちじ</rt></ruby></span>は「<ruby>見<rt>み</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しくなる<span\
+  \ style=\"color: blue;\">デザイン</span>でいいですね」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p>この<span style=\"color: blue;\">マーク</span>は、<ruby>大阪<rt>おおさか</rt></ruby>で<ruby>開<rt>ひら</rt></ruby>きたいと<ruby>伝<rt>つた</rt></ruby>える<span\
+  \ style=\"color: blue;\">パンフレット</span>や<span style=\"color: blue;\">ポスター</span>などで<ruby>使<rt>つか</rt></ruby>います。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 宣伝
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>らせ<ruby><rb>広</rb><rt>ひろ</rt></ruby>めること。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>げさに<ruby><rb>言</rb><rt>い</rt></ruby>いふらすこと。
+- word: マーク
+  descriptions:
+  - しるし。<ruby><rb>記号</rb><rt>きごう</rt></ruby>。また、しるしをつけること。
+  - <ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>目</rb><rt>め</rt></ruby>をつけて<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>すること。
+  - <ruby><rb>記録</rb><rt>きろく</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ること。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: デザイン
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。
+  - <ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。
+- word: 知事
+  descriptions:
+  - <ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: パンフレット
+  descriptions:
+  - <ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にとじた、うすい<ruby><rb>本</rb><rt>ほん</rt></ruby>。パンフ。
+- word: ポスター
+  descriptions:
+  - <ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文</rb><rt>ぶん</rt></ruby>をかいた<ruby><rb>宣伝用</rb><rt>せんでんよう</rt></ruby>の<ruby><rb>張</rb><rt>は</rt></ruby>り<ruby><rb>紙</rb><rt>がみ</rt></ruby>。
+web_news_url: /news/web/2017/06/07/大阪-万博の誘致活動に使うロゴマーク発表/
+source_url: http://www3.nhk.or.jp/news/easy/k10011009751000/k10011009751000.html
+...
