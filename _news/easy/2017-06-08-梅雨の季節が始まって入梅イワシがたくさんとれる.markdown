@@ -1,0 +1,63 @@
+---
+layout: easy_news
+newsid: k10011008011000
+categories: easy
+title: 梅雨の季節が始まって「入梅イワシ」がたくさんとれる
+title_with_ruby: <ruby>梅雨<rt>つゆ</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まって「<ruby>入梅<rt>にゅうばい</rt></ruby>イワシ」がたくさんとれる
+last_modified_at: '2017-06-08T11:30:00+09:00'
+datetime: 2017年06月08日 11時30分
+description: 梅雨つゆの季節きせつが始はじまる「入梅にゅうばい」の頃ころにとれるイワシは、いちばん脂あぶらが多おおくておいしいと言いわれています。
+description_with_ruby: <ruby>梅雨<rt>つゆ</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる「<ruby>入梅<rt>にゅうばい</rt></ruby>」の<ruby>頃<rt>ころ</rt></ruby>にとれるイワシは、いちばん<ruby>脂<rt>あぶら</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くておいしいと<ruby>言<rt>い</rt></ruby>われています。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/08/k10011008011000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/08/k10011008011000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>梅雨<rt>つゆ</rt></ruby></span>の<ruby>季節<rt>きせつ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる「<ruby>入梅<rt>にゅうばい</rt></ruby>」の<ruby>頃<rt>ころ</rt></ruby>に<span\
+  \ style=\"color: blue;\">とれる</span><span style=\"color: blue;\">イワシ</span>は、いちばん<span\
+  \ style=\"color: blue;\"><ruby>脂<rt>あぶら</rt></ruby></span>が<ruby>多<rt>おお</rt></ruby>くておいしいと<ruby>言<rt>い</rt></ruby>われています。</p>\n\
+  <p><ruby>千葉県<rt>ちばけん</rt></ruby>の<ruby>銚子市<rt>ちょうしし</rt></ruby>では「<ruby>入梅<rt>にゅうばい</rt></ruby>イワシ」と<ruby>呼<rt>よ</rt></ruby>んでいて、<ruby>今<rt>いま</rt></ruby>、たくさん<span\
+  \ style=\"color: blue;\">とれ</span>ています。<ruby>６日<rt>むいか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>は、５<span\
+  \ style=\"color: blue;\"><ruby>隻<rt>せき</rt></ruby></span>の<ruby>船<rt>ふね</rt></ruby>が７００<span\
+  \ style=\"color: blue;\">ｔ</span><ruby>以上<rt>いじょう</rt></ruby>の<span style=\"color:\
+  \ blue;\">イワシ</span>をとって、<ruby>港<rt>みなと</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>ってきました。</p>\n\
+  <p><ruby>銚子市漁協<rt>ちょうししぎょきょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>小<rt>ちい</rt></ruby>さい<span\
+  \ style=\"color: blue;\">イワシ</span>が<ruby>多<rt>おお</rt></ruby>いですが、<ruby>去年<rt>きょねん</rt></ruby>の２<ruby>倍<rt>ばい</rt></ruby>ぐらい<span\
+  \ style=\"color: blue;\">とれ</span>ていると<ruby>言<rt>い</rt></ruby>っています。<ruby>港<rt>みなと</rt></ruby>には、これから７<ruby>月<rt>がつ</rt></ruby><ruby>頃<rt>ごろ</rt></ruby>まで<span\
+  \ style=\"color: blue;\">イワシ</span>をたくさんとった<ruby>船<rt>ふね</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ります。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 梅雨
+  descriptions:
+  - <ruby><rb>六月</rb><rt>ろくがつ</rt></ruby>から<ruby><rb>七月</rb><rt>しちがつ</rt></ruby>にかけて<ruby><rb>降</rb><rt>ふ</rt></ruby>り<ruby><rb>続</rb><rt>つづ</rt></ruby>く<ruby><rb>雨</rb><rt>あめ</rt></ruby>。また、その<ruby><rb>季節</rb><rt>きせつ</rt></ruby>。ばいう。
+- word: 取れる
+  descriptions:
+  - はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。
+  - つかれなどが、なくなる。
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>ることができる。
+  - そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。
+  - <ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+- word: 鰯
+  descriptions:
+  - <ruby><rb>近海</rb><rt>きんかい</rt></ruby>の<ruby><rb>暖</rb><rt>あたた</rt></ruby>かな<ruby><rb>海</rb><rt>うみ</rt></ruby>にいる<ruby><rb>魚</rb><rt>さかな</rt></ruby>。マイワシ・ウルメイワシ・カタクチイワシがいる。<ruby><rb>背</rb><rt>せ</rt></ruby>は<ruby><rb>青黒</rb><rt>あおぐろ</rt></ruby>くて、<ruby><rb>腹</rb><rt>はら</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>い。<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にする。
+- word: 脂
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にある<ruby><rb>脂肪</rb><rt>しぼう</rt></ruby>。
+- word: 取れる
+  descriptions:
+  - はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。
+  - つかれなどが、なくなる。
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>ることができる。
+  - そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。
+  - <ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+- word: 隻
+  descriptions:
+  - ただ<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。また、ほんの<ruby><rb>少</rb><rt>すこ</rt></ruby>し。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: トン
+  descriptions:
+  - メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。一トンは、一〇〇〇キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+  - <ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+web_news_url: /news/web/2017/06/06/入梅イワシの水揚げ盛ん-千葉銚子漁港/
+source_url: http://www3.nhk.or.jp/news/easy/k10011008011000/k10011008011000.html
+...
