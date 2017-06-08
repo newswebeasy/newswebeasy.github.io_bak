@@ -1,0 +1,35 @@
+---
+layout: easy_news
+newsid: k10011008151000
+categories: easy
+title: 佐川急便　荷物を届ける人が１週間に３日休めるようにする
+title_with_ruby: <ruby>佐川急便<rt>さがわきゅうびん</rt></ruby>　<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>届<rt>とど</rt></ruby>ける<ruby>人<rt>ひと</rt></ruby>が１<ruby>週間<rt>しゅうかん</rt></ruby>に<ruby>３日<rt>みっか</rt></ruby><ruby>休<rt>やす</rt></ruby>めるようにする
+last_modified_at: '2017-06-08T11:30:00+09:00'
+datetime: 2017年06月08日 11時30分
+description: 宅配便たくはいびんの会社かいしゃは最近さいきん、車くるまで荷物にもつを届とどける人ひとが足たりなくなって困こまっています。
+description_with_ruby: <ruby>宅配便<rt>たくはいびん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>最近<rt>さいきん</rt></ruby>、<ruby>車<rt>くるま</rt></ruby>で<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>届<rt>とど</rt></ruby>ける<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなって<ruby>困<rt>こま</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/08/k10011008151000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/08/k10011008151000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>最近<rt>さいきん</rt></ruby>、<ruby>車<rt>くるま</rt></ruby>で<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>届<rt>とど</rt></ruby>ける<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなって<ruby>困<rt>こま</rt></ruby>っています。</p>\n\
+  <p><ruby>佐川急便<rt>さがわきゅうびん</rt></ruby>は、<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しく<ruby>入<rt>はい</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が１<ruby>週間<rt>しゅうかん</rt></ruby>に<ruby>３日<rt>みっか</rt></ruby><ruby>休<rt>やす</rt></ruby>むことができるようにして、<ruby>今年<rt>ことし</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>から<ruby>東京都<rt>とうきょうと</rt></ruby>と<ruby>山梨県<rt>やまなしけん</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>を<ruby>集<rt>あつ</rt></ruby>めています。</p>\n\
+  <p><ruby>今<rt>いま</rt></ruby><ruby>働<rt>はたら</rt></ruby>いている<span style=\"color: blue;\"\
+  ><ruby>社員<rt>しゃいん</rt></ruby></span>は１<ruby>週間<rt>しゅうかん</rt></ruby>に<ruby>２日<rt>ふつか</rt></ruby><ruby>休<rt>やす</rt></ruby>んでいます。１<ruby>日<rt>にち</rt></ruby>に<ruby>働<rt>はたら</rt></ruby>く<ruby>時間<rt>じかん</rt></ruby>は８<ruby>時間<rt>じかん</rt></ruby>です。<ruby>３日<rt>みっか</rt></ruby><ruby>休<rt>やす</rt></ruby>む<span\
+  \ style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>は１<ruby>日<rt>にち</rt></ruby>に１０<ruby>時間<rt>じかん</rt></ruby><ruby>働<rt>はたら</rt></ruby>くことになっています。<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ったときの<span\
+  \ style=\"color: blue;\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>はどちらもだいたい<ruby>同<rt>おな</rt></ruby>じです。</p>\n\
+  <p><ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>３日<rt>みっか</rt></ruby><ruby>休<rt>やす</rt></ruby>む<ruby>働<rt>はたら</rt></ruby>き<ruby>方<rt>かた</rt></ruby>がいいという<ruby>人<rt>ひと</rt></ruby>がたくさん<ruby>集<rt>あつ</rt></ruby>まったら、<ruby>今<rt>いま</rt></ruby><ruby>働<rt>はたら</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>もこの<ruby>働<rt>はたら</rt></ruby>き<ruby>方<rt>かた</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶことができるようにしたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p>ほかの<span style=\"color: blue;\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>のヤマト<ruby>運輸<rt>うんゆ</rt></ruby>も、<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>届<rt>とど</rt></ruby>ける<ruby>人<rt>ひと</rt></ruby>が１<ruby>週間<rt>しゅうかん</rt></ruby>に<ruby>３日<rt>みっか</rt></ruby><ruby>休<rt>やす</rt></ruby>むことができるようにしたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 宅配便
+  descriptions:
+  - <ruby><rb>荷物</rb><rt>にもつ</rt></ruby>などを、<ruby><rb>送</rb><rt>おく</rt></ruby>り<ruby><rb>先</rb><rt>さき</rt></ruby>の<ruby><rb>家</rb><rt>いえ</rt></ruby>まで<ruby><rb>届</rb><rt>とど</rt></ruby>ける<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。
+- word: 社員
+  descriptions:
+  - その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。
+- word: 給料
+  descriptions:
+  - やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。
+web_news_url: /news/web/2017/06/06/佐川急便-運転手確保へ一部地域で週休3日制導入/
+source_url: http://www3.nhk.or.jp/news/easy/k10011008151000/k10011008151000.html
+...
