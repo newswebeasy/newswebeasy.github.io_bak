@@ -1,0 +1,39 @@
+---
+layout: easy_news
+newsid: k10011009581000
+categories: easy
+title: 将棋　１４歳の藤井さんが２３回続けて試合に勝つ
+title_with_ruby: <ruby>将棋<rt>しょうぎ</rt></ruby>　１４<ruby>歳<rt>さい</rt></ruby>の<ruby>藤井<rt>ふじい</rt></ruby>さんが２３<ruby>回<rt>かい</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>試合<rt>しあい</rt></ruby>に<ruby>勝<rt>か</rt></ruby>つ
+last_modified_at: '2017-06-08T16:35:00+09:00'
+datetime: 2017年06月08日 16時35分
+description: 将棋しょうぎの藤井ふじい聡太そうたさんは去年きょねん１０月がつ、１４歳さいと２か月げつのときに今いままででいちばん若わかい将棋しょうぎのプロになりました。
+description_with_ruby: <ruby>将棋<rt>しょうぎ</rt></ruby>の<ruby>藤井<rt>ふじい</rt></ruby><ruby>聡太<rt>そうた</rt></ruby>さんは<ruby>去年<rt>きょねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>、１４<ruby>歳<rt>さい</rt></ruby>と２か<ruby>月<rt>げつ</rt></ruby>のときに<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>若<rt>わか</rt></ruby>い<ruby>将棋<rt>しょうぎ</rt></ruby>のプロになりました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/08/k10011009581000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/08/k10011009581000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<ruby>藤井<rt>ふじい</rt></ruby><ruby>聡太<rt>そうた</rt></ruby>さんは<ruby>去年<rt>きょねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>、１４<ruby>歳<rt>さい</rt></ruby>と２か<ruby>月<rt>げつ</rt></ruby>のときに<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>若<rt>わか</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">プロ</span>になりました。<ruby>藤井<rt>ふじい</rt></ruby>さんは<span style=\"color: blue;\"\
+  >プロ</span>になってから２０<ruby>回<rt>かい</rt></ruby><ruby>試合<rt>しあい</rt></ruby>をしましたが、１<ruby>回<rt>かい</rt></ruby>も<ruby>負<rt>ま</rt></ruby>けていません。</p>\n\
+  <p><ruby>藤井<rt>ふじい</rt></ruby>さんは<ruby>７日<rt>なのか</rt></ruby>、<ruby>大阪<rt>おおさか</rt></ruby>で３<ruby>回<rt>かい</rt></ruby><ruby>試合<rt>しあい</rt></ruby>をしました。<ruby>藤井<rt>ふじい</rt></ruby>さんは２<ruby>回<rt>かい</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>に<ruby>続<rt>つづ</rt></ruby>けて<ruby>勝<rt>か</rt></ruby>ったあと、３<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>でも３１<ruby>歳<rt>さい</rt></ruby>の<ruby>宮本<rt>みやもと</rt></ruby><ruby>広志<rt>ひろし</rt></ruby>さんに<ruby>勝<rt>か</rt></ruby>ちました。</p>\n\
+  <p><ruby>藤井<rt>ふじい</rt></ruby>さんは<span style=\"color: blue;\">プロ</span>になってから２３<ruby>回<rt>かい</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>勝<rt>か</rt></ruby>って、<ruby>今<rt>いま</rt></ruby>までで３<ruby>番目<rt>ばんめ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>になりました。<span style=\"\
+  color: blue;\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<span style=\"color: blue;\"\
+  >プロ</span>が<ruby>続<rt>つづ</rt></ruby>けて<ruby>勝<rt>か</rt></ruby>った<span style=\"color:\
+  \ blue;\"><ruby>記録<rt>きろく</rt></ruby></span>は、３０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>神谷<rt>かみや</rt></ruby><ruby>広志<rt>ひろし</rt></ruby>さんが２８<ruby>回<rt>かい</rt></ruby><ruby>勝<rt>か</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>がいちばんです。</p>\n<p><ruby>藤井<rt>ふじい</rt></ruby>さんは「こんなに<ruby>勝<rt>か</rt></ruby>つことができて、<ruby>自分<rt>じぶん</rt></ruby>でも<ruby>驚<rt>おどろ</rt></ruby>いています。もっと<ruby>強<rt>つよ</rt></ruby>くなるように<ruby>頑張<rt>がんば</rt></ruby>りたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 将棋
+  descriptions:
+  - <ruby><rb>縦</rb><rt>たて</rt></ruby>・<ruby><rb>横</rb><rt>よこ</rt></ruby>に一〇<ruby><rb>本</rb><rt>ぽん</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>板</rb><rt>いた</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>で、二〇<ruby><rb>枚</rb><rt>まい</rt></ruby>ずつのこまを<ruby><rb>動</rb><rt>うご</rt></ruby>かし、<ruby><rb>相手</rb><rt>あいて</rt></ruby>の<ruby><rb>王</rb><rt>おう</rt></ruby>を<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>るゲーム。
+- word: プロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。
+  - 「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+- word: 記録
+  descriptions:
+  - あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。
+web_news_url: /news/web/2017/06/07/将棋-藤井四段が23連勝-羽生三冠ら上回り歴代単独3位に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011009581000/k10011009581000.html
+...
