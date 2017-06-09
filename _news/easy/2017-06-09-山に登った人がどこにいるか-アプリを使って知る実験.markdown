@@ -1,0 +1,57 @@
+---
+layout: easy_news
+newsid: k10011010151000
+categories: easy
+title: 山に登った人がどこにいるか　アプリを使って知る実験
+title_with_ruby: <ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>がどこにいるか　アプリを<ruby>使<rt>つか</rt></ruby>って<ruby>知<rt>し</rt></ruby>る<ruby>実験<rt>じっけん</rt></ruby>
+last_modified_at: '2017-06-09T11:30:00+09:00'
+datetime: 2017年06月09日 11時30分
+description: ３年ねん前まえに御嶽山おんたけさんが噴火ふんかしたとき、助たすけに行いく人ひとたちは、山やまに登のぼった人ひとがどこにいるかわからなくて困こまりました。
+description_with_ruby: ３<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>御嶽山<rt>おんたけさん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>したとき、<ruby>助<rt>たす</rt></ruby>けに<ruby>行<rt>い</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>たちは、<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>がどこにいるかわからなくて<ruby>困<rt>こま</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/09/k10011010151000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/09/k10011010151000.mp3
+contents: "<p>３<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>御嶽山<rt>おんたけさん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>したとき、<span style=\"color:\
+  \ blue;\"><ruby>助<rt>たす</rt></ruby>け</span>に<ruby>行<rt>い</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>たちは、<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>がどこにいるかわからなくて<ruby>困<rt>こま</rt></ruby>りました。</p>\n\
+  <p><ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>がいつどこを<ruby>通<rt>とお</rt></ruby>ったかわかる<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\">システム</span>の<span style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>が、<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>、<ruby>浅間山<rt>あさまやま</rt></ruby>や<ruby>富士山<rt>ふじさん</rt></ruby>など４つの<ruby>山<rt>やま</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まります。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>では、スマートフォンにこの<span\
+  \ style=\"color: blue;\">システム</span>のアプリを<ruby>入<rt>い</rt></ruby>れて<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>ります。<ruby>登<rt>のぼ</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>が<ruby>山<rt>やま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>道<rt>みち</rt></ruby>に<ruby>置<rt>お</rt></ruby>いた<ruby>機械<rt>きかい</rt></ruby>の<ruby>横<rt>よこ</rt></ruby>を<ruby>通<rt>とお</rt></ruby>ると、<ruby>通<rt>とお</rt></ruby>った<ruby>時間<rt>じかん</rt></ruby>などの<span\
+  \ style=\"color: blue;\">データ</span>が<span style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>をする<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>のコンピューターに<ruby>集<rt>あつ</rt></ruby>まります。</p>\n\
+  <p><ruby>山<rt>やま</rt></ruby>を<ruby>下<rt>お</rt></ruby>りたという<span style=\"color: blue;\"\
+  >データ</span>がない<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>家族<rt>かぞく</rt></ruby>などに<span style=\"\
+  color: blue;\">メール</span>が<ruby>行<rt>い</rt></ruby>きます。<span style=\"color: blue;\"\
+  ><ruby>実験<rt>じっけん</rt></ruby></span>をする<span style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>は、<ruby>通<rt>とお</rt></ruby>った<ruby>場所<rt>ばしょ</rt></ruby>の<span\
+  \ style=\"color: blue;\">データ</span>で<ruby>今<rt>いま</rt></ruby>どこにいるかだいたいわかるため、すぐ<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>け</span>に<ruby>行<rt>い</rt></ruby>くことができると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 実験
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。
+- word: 噴火
+  descriptions:
+  - <ruby><rb>火山</rb><rt>かざん</rt></ruby>が<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>して、とけた<ruby><rb>溶岩</rb><rt>ようがん</rt></ruby>や、<ruby><rb>火山灰</rb><rt>かざんばい</rt></ruby>・<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>・ガスをふき<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+- word: システム
+  descriptions:
+  - <ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+  - ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。
+- word: データ
+  descriptions:
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。
+  - コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: Eメール
+  descriptions:
+  - コンピューターなどを<ruby><rb>使</rb><rt>つか</rt></ruby>って、メッセージやデータなどのやりとりをする<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>電子</rb><rt>でんし</rt></ruby>メール。メール。
+web_news_url: /news/web/2017/06/08/スマホのアプリで登山者の位置把握の実証実験へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011010151000/k10011010151000.html
+...
