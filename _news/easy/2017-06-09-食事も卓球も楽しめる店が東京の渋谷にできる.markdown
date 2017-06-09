@@ -1,0 +1,76 @@
+---
+layout: easy_news
+newsid: k10011011201000
+categories: easy
+title: 食事も卓球も楽しめる店が東京の渋谷にできる
+title_with_ruby: <ruby>食事<rt>しょくじ</rt></ruby>も<ruby>卓球<rt>たっきゅう</rt></ruby>も<ruby>楽<rt>たの</rt></ruby>しめる<ruby>店<rt>みせ</rt></ruby>が<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>渋谷<rt>しぶや</rt></ruby>にできる
+last_modified_at: '2017-06-09T15:40:00+09:00'
+datetime: 2017年06月09日 15時40分
+description: 東京とうきょうの渋谷しぶやに８日ようか、食事しょくじと卓球たっきゅうを楽たのしむことができる店みせができました。
+description_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>渋谷<rt>しぶや</rt></ruby>に<ruby>８日<rt>ようか</rt></ruby>、<ruby>食事<rt>しょくじ</rt></ruby>と<ruby>卓球<rt>たっきゅう</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむことができる<ruby>店<rt>みせ</rt></ruby>ができました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/09/k10011011201000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/09/k10011011201000.mp3
+contents: "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>渋谷<rt>しぶや</rt></ruby>に<ruby>８日<rt>ようか</rt></ruby>、<ruby>食事<rt>しょくじ</rt></ruby>と<span\
+  \ style=\"color: blue;\"><ruby>卓球<rt>たっきゅう</rt></ruby></span>を<ruby>楽<rt>たの</rt></ruby>しむことができる<ruby>店<rt>みせ</rt></ruby>ができました。</p>\n\
+  <p>１<ruby>階<rt>かい</rt></ruby>にはレストランがあって、<ruby>食事<rt>しょくじ</rt></ruby>をするテーブルのほかに<span\
+  \ style=\"color: blue;\"><ruby>卓球<rt>たっきゅう</rt></ruby></span>ができる<span style=\"\
+  color: blue;\"><ruby>台<rt>だい</rt></ruby></span>があります。レストランでは、<span style=\"color:\
+  \ blue;\">ラケット</span>の<ruby>形<rt>かたち</rt></ruby>の<ruby>皿<rt>さら</rt></ruby>に<ruby>入<rt>い</rt></ruby>れたパンケーキや、<ruby>果物<rt>くだもの</rt></ruby>のきんかんが<ruby>入<rt>はい</rt></ruby>っているお<ruby>酒<rt>さけ</rt></ruby>などを<ruby>出<rt>だ</rt></ruby>しています。パンケーキやきんかんは、<ruby>小<rt>ちい</rt></ruby>さくて<ruby>丸<rt>まる</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>卓球<rt>たっきゅう</rt></ruby></span>のボールのような<ruby>形<rt>かたち</rt></ruby>をしています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>地下<rt>ちか</rt></ruby></span>には<span style=\"\
+  color: blue;\"><ruby>卓球<rt>たっきゅう</rt></ruby></span>の<ruby>教室<rt>きょうしつ</rt></ruby>があって、<ruby>８日<rt>ようか</rt></ruby>は<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>からお<span\
+  \ style=\"color: blue;\"><ruby>年寄<rt>としよ</rt></ruby>り</span>まで３０<ruby>人<rt>にん</rt></ruby>ぐらいが<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>予約<rt>よやく</rt></ruby>をしました。<ruby>教室<rt>きょうしつ</rt></ruby>では、<span\
+  \ style=\"color: blue;\"><ruby>卓球<rt>たっきゅう</rt></ruby></span>をしている<span style=\"\
+  color: blue;\"><ruby>様子<rt>ようす</rt></ruby></span>を<ruby>撮<rt>と</rt></ruby>った<span\
+  \ style=\"color: blue;\">ビデオ</span>を<ruby>見<rt>み</rt></ruby>ながら、どうやったら<ruby>上手<rt>じょうず</rt></ruby>になるか<ruby>先生<rt>せんせい</rt></ruby>が<ruby>教<rt>おし</rt></ruby>えていました。</p>\n\
+  <p><ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>世界<rt>せかい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>で<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>若<rt>わか</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>卓球<rt>たっきゅう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>頑張<rt>がんば</rt></ruby>っています。いろいろな<ruby>人<rt>ひと</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>卓球<rt>たっきゅう</rt></ruby></span>を<ruby>楽<rt>たの</rt></ruby>しんでもらいたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 卓球
+  descriptions:
+  - <ruby><rb>台</rb><rt>だい</rt></ruby>の<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>からラケットで<ruby><rb>球</rb><rt>たま</rt></ruby>を<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ピンポン。
+- word: 台
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>をのせるもの。
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>く<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>くて<ruby><rb>平</rb><rt>たい</rt></ruby>らな<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+  - <ruby><rb>元</rb><rt>もと</rt></ruby>になるもの。
+  - <ruby><rb>車</rb><rt>くるま</rt></ruby>や<ruby><rb>機械</rb><rt>きかい</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+  - <ruby><rb>数量</rb><rt>すうりょう</rt></ruby>のだいたいの<ruby><rb>範囲</rb><rt>はんい</rt></ruby>をいうことば。
+- word: ラケット
+  descriptions:
+  - テニス・<ruby><rb>卓球</rb><rt>たっきゅう</rt></ruby>・バドミントンなどで、ボールを<ruby><rb>打</rb><rt>う</rt></ruby>つ<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。
+- word: 地下
+  descriptions:
+  - <ruby><rb>地面</rb><rt>じめん</rt></ruby>の<ruby><rb>下</rb><rt>した</rt></ruby>。<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>。
+  - <ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>世</rb><rt>よ</rt></ruby>。あの<ruby><rb>世</rb><rt>よ</rt></ruby>。
+  - <ruby><rb>秘密</rb><rt>ひみつ</rt></ruby>の<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: 年寄り
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。
+  - <ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 様子
+  descriptions:
+  - ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。
+  - <ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。
+  - そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。
+  - わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。
+- word: ビデオ
+  descriptions:
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。
+  - 「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 大会
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+  - ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+web_news_url: /news/web/2017/06/08/食事楽しみながらプレーも-ユニークな卓球施設オープン/
+source_url: http://www3.nhk.or.jp/news/easy/k10011011201000/k10011011201000.html
+...

@@ -1,0 +1,52 @@
+---
+layout: easy_news
+newsid: k10011011371000
+categories: easy
+title: プルトニウムなどの放射性物質が５人にかかる事故
+title_with_ruby: プルトニウムなどの<ruby>放射性物質<rt>ほうしゃせいぶっしつ</rt></ruby>が５<ruby>人<rt>にん</rt></ruby>にかかる<ruby>事故<rt>じこ</rt></ruby>
+last_modified_at: '2017-06-09T15:40:00+09:00'
+datetime: 2017年06月09日 15時40分
+description: 茨城県いばらきけんにある日本にほん原子力げんしりょく研究けんきゅう開発かいはつ機構きこうの大洗おおあらい研究けんきゅう開発かいはつセンターで６日むいか、プルトニウムなどの放射性物質ほうしゃせいぶっしつが、仕事しごとをしていた５人にんにかかる事故じこがありました。
+description_with_ruby: <ruby>茨城県<rt>いばらきけん</rt></ruby>にある<ruby>日本<rt>にほん</rt></ruby><ruby>原子力<rt>げんしりょく</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby><ruby>開発<rt>かいはつ</rt></ruby><ruby>機構<rt>きこう</rt></ruby>の<ruby>大洗<rt>おおあらい</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby><ruby>開発<rt>かいはつ</rt></ruby>センターで<ruby>６日<rt>むいか</rt></ruby>、プルトニウムなどの<ruby>放射性物質<rt>ほうしゃせいぶっしつ</rt></ruby>が、<ruby>仕事<rt>しごと</rt></ruby>をしていた５<ruby>人<rt>にん</rt></ruby>にかかる<ruby>事故<rt>じこ</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/09/k10011011371000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/09/k10011011371000.mp3
+contents: "<p><ruby>茨城県<rt>いばらきけん</rt></ruby>にある<ruby>日本<rt>にほん</rt></ruby><ruby>原子力<rt>げんしりょく</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby><ruby>開発<rt>かいはつ</rt></ruby><ruby>機構<rt>きこう</rt></ruby>の<ruby>大洗<rt>おおあらい</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby><ruby>開発<rt>かいはつ</rt></ruby>センターで<ruby>６日<rt>むいか</rt></ruby>、<span\
+  \ style=\"color: blue;\">プルトニウム</span>などの<ruby>放射性物質<rt>ほうしゃせいぶっしつ</rt></ruby>が、<ruby>仕事<rt>しごと</rt></ruby>をしていた５<ruby>人<rt>にん</rt></ruby>にかかる<ruby>事故<rt>じこ</rt></ruby>がありました。</p>\n\
+  <p>５<ruby>人<rt>にん</rt></ruby>が<ruby>放射性物質<rt>ほうしゃせいぶっしつ</rt></ruby>が<ruby>入<rt>はい</rt></ruby>っている<span\
+  \ style=\"color: blue;\"><ruby>容器<rt>ようき</rt></ruby></span>をチェックしようとすると<ruby>中<rt>なか</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>袋<rt>ふくろ</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>破<rt>やぶ</rt></ruby>れ</span>て、<ruby>放射性物質<rt>ほうしゃせいぶっしつ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>粉<rt>こな</rt></ruby></span>がかかりました。５<ruby>人<rt>にん</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べると、<ruby>１人<rt>ひとり</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>肺<rt>はい</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>に２<ruby>万<rt>まん</rt></ruby>２０００ベクレルの<ruby>放射性物質<rt>ほうしゃせいぶっしつ</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ったことがわかりました。</p>\n\
+  <p>この<span style=\"color: blue;\"><ruby>容器<rt>ようき</rt></ruby></span>は２６<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>からありましたが、<ruby>中<rt>なか</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べたことはありませんでした。<ruby>原子力機構<rt>げんしりょくきこう</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>の２<ruby>月<rt>がつ</rt></ruby>から、８０<ruby>個<rt>こ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>容器<rt>ようき</rt></ruby></span>のチェックを<ruby>始<rt>はじ</rt></ruby>めています。あと５０<ruby>個<rt>こ</rt></ruby><ruby>残<rt>のこ</rt></ruby>っているため、<ruby>安全<rt>あんぜん</rt></ruby>にチェックする<span\
+  \ style=\"color: blue;\"><ruby>方法<rt>ほうほう</rt></ruby></span>を<ruby>考<rt>かんが</rt></ruby>えると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: プルトニウム
+  descriptions:
+  - <ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>手</rb><rt>て</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>元素</rb><rt>げんそ</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>原子力</rb><rt>げんしりょく</rt></ruby>の<ruby><rb>燃料</rb><rt>ねんりょう</rt></ruby>となる。<ruby><rb>放射能</rb><rt>ほうしゃのう</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>っていて、<ruby><rb>有毒</rb><rt>ゆうどく</rt></ruby>。
+- word: 容器
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れるための<ruby><rb>器</rb><rt>うつわ</rt></ruby>。<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。びん・つぼ・かん・はちなど。
+- word: 袋
+  descriptions:
+  - <ruby><rb>紙</rb><rt>かみ</rt></ruby>や<ruby><rb>布</rb><rt>ぬの</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて、<ruby><rb>口</rb><rt>くち</rt></ruby>をしめるようにした<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+  - 「<span class="dic_sansyogogi">1)</span>」に<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>形</rb><rt>かたち</rt></ruby>のもの。
+- word: 破れる
+  descriptions:
+  - <ruby><rb>引</rb><rt>ひ</rt></ruby>きさける。やぶける。
+  - こわれる。
+  - ものごとが<ruby><rb>成</rb><rt>な</rt></ruby>り<ruby><rb>立</rb><rt>た</rt></ruby>たないで<ruby><rb>終</rb><rt>お</rt></ruby>わる。
+- word: 粉
+  descriptions:
+  - （<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>などを）<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>細</rb><rt>こま</rt></ruby>かにくだいたもの。<ruby><rb>粉末</rb><rt>ふんまつ</rt></ruby>。
+- word: 肺
+  descriptions:
+  - <ruby><rb>胸</rb><rt>むね</rt></ruby>の<ruby><rb>左</rb><rt>ひだり</rt></ruby>と<ruby><rb>右</rb><rt>みぎ</rt></ruby>にあって、<ruby><rb>息</rb><rt>いき</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>ったり、はいたりするはたらきをするところ。<ruby><rb>肺臓</rb><rt>はいぞう</rt></ruby>。
+- word: 方法
+  descriptions:
+  - ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。
+web_news_url: /news/web/2017/06/09/被ばく事故-核燃料貯蔵容器の点検方法など見直し検討へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011011371000/k10011011371000.html
+...
