@@ -1,0 +1,44 @@
+---
+layout: easy_news
+newsid: k10011010961000
+categories: easy
+title: 忘れ物の傘を自動販売機の横に置いて無料で貸す
+title_with_ruby: <ruby>忘<rt>わす</rt></ruby>れ<ruby>物<rt>もの</rt></ruby>の<ruby>傘<rt>かさ</rt></ruby>を<ruby>自動販売機<rt>じどうはんばいき</rt></ruby>の<ruby>横<rt>よこ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いて<ruby>無料<rt>むりょう</rt></ruby>で<ruby>貸<rt>か</rt></ruby>す
+last_modified_at: '2017-06-12T11:30:00+09:00'
+datetime: 2017年06月12日 11時30分
+description: コーヒーやジュースなどを作つくっているダイドードリンコという会社かいしゃは、自動販売機じどうはんばいきの横よこに傘かさを置おいて、無料むりょうで貸かすサービスを東京とうきょうなどで始はじめました。
+description_with_ruby: コーヒーやジュースなどを<ruby>作<rt>つく</rt></ruby>っているダイドードリンコという<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>自動販売機<rt>じどうはんばいき</rt></ruby>の<ruby>横<rt>よこ</rt></ruby>に<ruby>傘<rt>かさ</rt></ruby>を<ruby>置<rt>お</rt></ruby>いて、<ruby>無料<rt>むりょう</rt></ruby>で<ruby>貸<rt>か</rt></ruby>すサービスを<ruby>東京<rt>とうきょう</rt></ruby>などで<ruby>始<rt>はじ</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/12/k10011010961000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/12/k10011010961000.mp3
+contents: "<p>コーヒーやジュースなどを<ruby>作<rt>つく</rt></ruby>っているダイドードリンコという<ruby>会社<rt>かいしゃ</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></span>の<ruby>横<rt>よこ</rt></ruby>に<ruby>傘<rt>かさ</rt></ruby>を<ruby>置<rt>お</rt></ruby>いて、<span\
+  \ style=\"color: blue;\"><ruby>無料<rt>むりょう</rt></ruby></span>で<ruby>貸<rt>か</rt></ruby>す<span\
+  \ style=\"color: blue;\">サービス</span>を<ruby>東京<rt>とうきょう</rt></ruby>などで<ruby>始<rt>はじ</rt></ruby>めました。この<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>東急電鉄<rt>とうきゅうでんてつ</rt></ruby>など３つの<span\
+  \ style=\"color: blue;\"><ruby>鉄道<rt>てつどう</rt></ruby></span><ruby>会社<rt>がいしゃ</rt></ruby>から、<ruby>誰<rt>だれ</rt></ruby>も<ruby>取<rt>と</rt></ruby>りに<ruby>来<rt>こ</rt></ruby>なかった<ruby>忘<rt>わす</rt></ruby>れ<ruby>物<rt>もの</rt></ruby>の<ruby>傘<rt>かさ</rt></ruby>を<ruby>買<rt>か</rt></ruby>ったりもらったりして、<span\
+  \ style=\"color: blue;\"><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></span>の<ruby>横<rt>よこ</rt></ruby>に<ruby>置<rt>お</rt></ruby>きます。</p>\n\
+  <p><ruby>東急電鉄<rt>とうきゅうでんてつ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>駅<rt>えき</rt></ruby>や<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>忘<rt>わす</rt></ruby>れた<ruby>傘<rt>かさ</rt></ruby>を<ruby>取<rt>と</rt></ruby>りに<ruby>来<rt>く</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>は２０％ぐらいです。<ruby>残<rt>のこ</rt></ruby>った<ruby>傘<rt>かさ</rt></ruby>は<ruby>捨<rt>す</rt></ruby>てていたので、<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>に<ruby>使<rt>つか</rt></ruby>ってもらいたいと<ruby>思<rt>おも</rt></ruby>いました」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>ダイドードリンコは<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまでに<ruby>東京<rt>とうきょう</rt></ruby>とその<ruby>近<rt>ちか</rt></ruby>くの５つの<ruby>県<rt>けん</rt></ruby>と<ruby>愛知県<rt>あいちけん</rt></ruby>の２１０<ruby>台<rt>だい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></span>に<ruby>傘<rt>かさ</rt></ruby>を<ruby>置<rt>お</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。この<ruby>会社<rt>かいしゃ</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>関西<rt>かんさい</rt></ruby></span>でも<ruby>同<rt>おな</rt></ruby>じ<span\
+  \ style=\"color: blue;\">サービス</span>をしていて、<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>が<ruby>利用<rt>りよう</rt></ruby>していると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 自動販売機
+  descriptions:
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れると、<ruby><rb>自動的</rb><rt>じどうてき</rt></ruby>に<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 無料
+  descriptions:
+  - <ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: 鉄道
+  descriptions:
+  - <ruby><rb>鉄</rb><rt>てつ</rt></ruby>のレールをしいて、<ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>を<ruby><rb>走</rb><rt>はし</rt></ruby>らせる<ruby><rb>交通機関</rb><rt>こうつうきかん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、１８７２<ruby><rb>年</rb><rt>ねん</rt></ruby>（<ruby><rb>明治</rb><rt>めいじ</rt></ruby>５<ruby><rb>年</rb><rt>ねん</rt></ruby>）に<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>の<ruby><rb>新橋</rb><rt>しんばし</rt></ruby>と<ruby><rb>横浜</rb><rt>よこはま</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>初</rb><rt>はじ</rt></ruby>めて<ruby><rb>開通</rb><rt>かいつう</rt></ruby>した。
+- word: 関西
+  descriptions:
+  - <ruby><rb>京都</rb><rt>きょうと</rt></ruby>・<ruby><rb>大阪</rb><rt>おおさか</rt></ruby>・<ruby><rb>神戸</rb><rt>こうべ</rt></ruby>・<ruby><rb>奈良</rb><rt>なら</rt></ruby>などの<ruby><rb>地方</rb><rt>ちほう</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>すことば。
+web_news_url: /news/web/2017/06/08/忘れ物の傘-自動販売機に備え付け無料で貸し出し-東京/
+source_url: http://www3.nhk.or.jp/news/easy/k10011010961000/k10011010961000.html
+...
