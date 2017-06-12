@@ -1,0 +1,70 @@
+---
+layout: easy_news
+newsid: k10011011591000
+categories: easy
+title: 世界のスポーツ選手の収入　テニスの錦織選手は２６番目
+title_with_ruby: <ruby>世界<rt>せかい</rt></ruby>のスポーツ<ruby>選手<rt>せんしゅ</rt></ruby>の<ruby>収入<rt>しゅうにゅう</rt></ruby>　テニスの<ruby>錦織<rt>にしこり</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は２６<ruby>番目<rt>ばんめ</rt></ruby>
+last_modified_at: '2017-06-12T11:30:00+09:00'
+datetime: 2017年06月12日 11時30分
+description: アメリカの雑誌ざっし「フォーブス」は７日なのか、世界せかいのスポーツ選手せんしゅの収入しゅうにゅうのランキングを発表はっぴょうしました。
+description_with_ruby: アメリカの<ruby>雑誌<rt>ざっし</rt></ruby>「フォーブス」は<ruby>７日<rt>なのか</rt></ruby>、<ruby>世界<rt>せかい</rt></ruby>のスポーツ<ruby>選手<rt>せんしゅ</rt></ruby>の<ruby>収入<rt>しゅうにゅう</rt></ruby>のランキングを<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/12/k10011011591000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/12/k10011011591000.mp3
+contents: "<p>アメリカの<ruby>雑誌<rt>ざっし</rt></ruby>「フォーブス」は<ruby>７日<rt>なのか</rt></ruby>、<ruby>世界<rt>せかい</rt></ruby>のスポーツ<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>収入<rt>しゅうにゅう</rt></ruby></span>の<span style=\"color: blue;\">ランキング</span>を<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。６<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>までの１<ruby>年<rt>ねん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>収入<rt>しゅうにゅう</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べて、<ruby>多<rt>おお</rt></ruby>い１００<ruby>人<rt>にん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びました。</p>\n\
+  <p>１<ruby>番<rt>ばん</rt></ruby>は<span style=\"color: blue;\">サッカー</span>のポルトガル<span\
+  \ style=\"color: blue;\"><ruby>代表<rt>だいひょう</rt></ruby></span>のクリスチアーノロナウド<span style=\"\
+  color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>でした。<span style=\"color: blue;\"\
+  ><ruby>収入<rt>しゅうにゅう</rt></ruby></span>は９３００<ruby>万<rt>まん</rt></ruby><span style=\"\
+  color: blue;\">ドル</span>で、２<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて１<ruby>番<rt>ばん</rt></ruby>になりました。</p>\n\
+  <p>２<ruby>番<rt>ばん</rt></ruby>はアメリカの<span style=\"color: blue;\">バスケットボール</span><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>のレブロン・ジェームズ<span style=\"\
+  color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>で、３<ruby>番<rt>ばん</rt></ruby>は<span\
+  \ style=\"color: blue;\">サッカー</span>のアルゼンチン<span style=\"color: blue;\"><ruby>代表<rt>だいひょう</rt></ruby></span>のリオネル・メッシ<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>でした。</p>\n<p><ruby>日本人<rt>にっぽんじん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>では、テニスの<ruby>錦織<rt>にしこり</rt></ruby><ruby>圭<rt>けい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が２６<ruby>番<rt>ばん</rt></ruby>になりました。<span\
+  \ style=\"color: blue;\"><ruby>収入<rt>しゅうにゅう</rt></ruby></span>は３３９０<ruby>万<rt>まん</rt></ruby><span\
+  \ style=\"color: blue;\">ドル</span>でした。アメリカで<span style=\"color: blue;\"><ruby>野球<rt>やきゅう</rt></ruby></span>をしている<ruby>田中<rt>たなか</rt></ruby><ruby>将大<rt>まさひろ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>投手<rt>とうしゅ</rt></ruby></span>は７５<ruby>番<rt>ばん</rt></ruby>で、<span\
+  \ style=\"color: blue;\"><ruby>収入<rt>しゅうにゅう</rt></ruby></span>は２３００<ruby>万<rt>まん</rt></ruby><span\
+  \ style=\"color: blue;\">ドル</span>でした。</p>\n<p></p>\n<p></p>"
+words:
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 収入
+  descriptions:
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>が<ruby><rb>入</rb><rt>はい</rt></ruby>ること。また、そのお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: ランキング
+  descriptions:
+  - <ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: サッカー
+  descriptions:
+  - １１<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの２チームが、<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>わずに、ボールを<ruby><rb>相手</rb><rt>あいて</rt></ruby>のゴールにけりこんで<ruby><rb>得点</rb><rt>とくてん</rt></ruby>をきそう<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。フットボール。
+- word: 代表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって<ruby><rb>何</rb><rt>なに</rt></ruby>かをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>で<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>特色</rb><rt>とくしょく</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、そのもの。
+- word: ドル
+  descriptions:
+  - アメリカ・カナダなどで<ruby><rb>使</rb><rt>つか</rt></ruby>われているお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１ドルは１００セント。
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: バスケットボール
+  descriptions:
+  - ５<ruby><rb>人</rb><rt>にん</rt></ruby>ずつのチームが、<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時間内</rb><rt>じかんない</rt></ruby>に、<ruby><rb>相手側</rb><rt>あいてがわ</rt></ruby>の、つり<ruby><rb>下</rb><rt>さ</rt></ruby>げた<ruby><rb>網</rb><rt>あみ</rt></ruby>に、ボールを<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>合</rb><rt>あ</rt></ruby>ってきそう<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+- word: 野球
+  descriptions:
+  - ９<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの２チームが、たがいにバットでボールを<ruby><rb>打</rb><rt>う</rt></ruby>ってせめ<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>点</rb><rt>てん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ベースボール。
+- word: ピッチャー
+  descriptions:
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、バッターにボールを<ruby><rb>投</rb><rt>な</rt></ruby>げる<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>投手</rb><rt>とうしゅ</rt></ruby>。
+web_news_url: /news/web/2017/06/09/世界のスポーツ選手長者番付-日本人最高は錦織の26位/
+source_url: http://www3.nhk.or.jp/news/easy/k10011011591000/k10011011591000.html
+...
