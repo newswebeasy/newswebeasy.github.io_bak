@@ -1,0 +1,88 @@
+---
+layout: easy_news
+newsid: k10011013951000
+categories: easy
+title: 山形県東根市でさくらんぼの種を遠くまで飛ばす大会
+title_with_ruby: <ruby>山形県<rt>やまがたけん</rt></ruby><ruby>東根市<rt>ひがしねし</rt></ruby>でさくらんぼの<ruby>種<rt>たね</rt></ruby>を<ruby>遠<rt>とお</rt></ruby>くまで<ruby>飛<rt>と</rt></ruby>ばす<ruby>大会<rt>たいかい</rt></ruby>
+last_modified_at: '2017-06-12T16:15:00+09:00'
+datetime: 2017年06月12日 16時15分
+description: １１日にち、山形県やまがたけん東根市ひがしねしでさくらんぼを口くちに入いれて、種たねをどのくらい遠とおくに飛とばすことができるかを競争きょうそうする大会たいかいがありました。
+description_with_ruby: １１<ruby>日<rt>にち</rt></ruby>、<ruby>山形県<rt>やまがたけん</rt></ruby><ruby>東根市<rt>ひがしねし</rt></ruby>でさくらんぼを<ruby>口<rt>くち</rt></ruby>に<ruby>入<rt>い</rt></ruby>れて、<ruby>種<rt>たね</rt></ruby>をどのくらい<ruby>遠<rt>とお</rt></ruby>くに<ruby>飛<rt>と</rt></ruby>ばすことができるかを<ruby>競争<rt>きょうそう</rt></ruby>する<ruby>大会<rt>たいかい</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/12/k10011013951000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/12/k10011013951000.mp3
+contents: "<p>１１<ruby>日<rt>にち</rt></ruby>、<ruby>山形県<rt>やまがたけん</rt></ruby><ruby>東根市<rt>ひがしねし</rt></ruby>で<span\
+  \ style=\"color: blue;\">さくらんぼ</span>を<ruby>口<rt>くち</rt></ruby>に<ruby>入<rt>い</rt></ruby>れて、<span\
+  \ style=\"color: blue;\"><ruby>種<rt>たね</rt></ruby></span>をどのくらい<ruby>遠<rt>とお</rt></ruby>くに<span\
+  \ style=\"color: blue;\"><ruby>飛<rt>と</rt></ruby>ばす</span>ことができるかを<ruby>競争<rt>きょうそう</rt></ruby>する<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>がありました。<span style=\"\
+  color: blue;\">さくらんぼ</span>が<ruby>日本<rt>にっぽん</rt></ruby>でいちばん<ruby>多<rt>おお</rt></ruby>く<span\
+  \ style=\"color: blue;\">とれる</span><ruby>東根市<rt>ひがしねし</rt></ruby>は、<ruby>毎年<rt>まいとし</rt></ruby><span\
+  \ style=\"color: blue;\">さくらんぼ</span>が<span style=\"color: blue;\">とれる</span><ruby>季節<rt>きせつ</rt></ruby>にこの<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>を<ruby>開<rt>ひら</rt></ruby>いています。</p>\n\
+  <p><ruby>高<rt>たか</rt></ruby>さ５０ｃｍぐらいの<span style=\"color: blue;\"><ruby>台<rt>だい</rt></ruby></span>に<ruby>上<rt>あ</rt></ruby>がった<ruby>人<rt>ひと</rt></ruby>たちは、<ruby>体<rt>からだ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>反<rt>そ</rt></ruby>らし</span>てその<ruby>力<rt>ちから</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってできるだけ<ruby>遠<rt>とお</rt></ruby>くまで<span\
+  \ style=\"color: blue;\"><ruby>種<rt>たね</rt></ruby></span>を<span style=\"color: blue;\"\
+  ><ruby>飛<rt>と</rt></ruby>ばし</span>ました。</p>\n<p><ruby>神奈川県<rt>かながわけん</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>が<ruby>午前<rt>ごぜん</rt></ruby>、１９ｍ４０ｃｍまで<span\
+  \ style=\"color: blue;\"><ruby>飛<rt>と</rt></ruby>ばし</span>て、<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>遠<rt>とお</rt></ruby>くまで<span\
+  \ style=\"color: blue;\"><ruby>飛<rt>と</rt></ruby>ばし</span>た<span style=\"color:\
+  \ blue;\"><ruby>記録<rt>きろく</rt></ruby></span>になりました。<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>上<rt>うえ</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<span\
+  \ style=\"color: blue;\"><ruby>飛<rt>と</rt></ruby>ばす</span>といいですよ」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>を<ruby>開<rt>ひら</rt></ruby>いた<ruby>人<rt>ひと</rt></ruby>は「<ruby>東根<rt>ひがしね</rt></ruby>の<span\
+  \ style=\"color: blue;\">さくらんぼ</span>をみんなに<ruby>知<rt>し</rt></ruby>ってもらいたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: さくらんぼ
+  descriptions:
+  - <ruby><rb>桜</rb><rt>さくら</rt></ruby>の<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>実</rb><rt>み</rt></ruby>。さくらんぼう。チェリー。おうとう。
+- word: 種
+  descriptions:
+  - <ruby><rb>草木</rb><rt>くさき</rt></ruby>の、<ruby><rb>芽</rb><rt>め</rt></ruby>になるもと。
+  - もと。<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>。
+  - <ruby><rb>原因</rb><rt>げんいん</rt></ruby>。
+  - <ruby><rb>手品</rb><rt>てじな</rt></ruby>などの<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。
+- word: 飛ばす
+  descriptions:
+  - <ruby><rb>飛</rb><rt>と</rt></ruby>ぶようにする。
+  - <ruby><rb>散</rb><rt>ち</rt></ruby>らす。
+  - <ruby><rb>走</rb><rt>はし</rt></ruby>らせる。
+  - <ruby><rb>間</rb><rt>あいだ</rt></ruby>をぬいて、<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む。
+  - <ruby><rb>言</rb><rt>い</rt></ruby>いふらす。
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく…する。
+- word: 大会
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+  - ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: 取れる
+  descriptions:
+  - はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。
+  - つかれなどが、なくなる。
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>ることができる。
+  - そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。
+  - <ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+- word: 台
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>をのせるもの。
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>く<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>くて<ruby><rb>平</rb><rt>たい</rt></ruby>らな<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+  - <ruby><rb>元</rb><rt>もと</rt></ruby>になるもの。
+  - <ruby><rb>車</rb><rt>くるま</rt></ruby>や<ruby><rb>機械</rb><rt>きかい</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+  - <ruby><rb>数量</rb><rt>すうりょう</rt></ruby>のだいたいの<ruby><rb>範囲</rb><rt>はんい</rt></ruby>をいうことば。
+- word: 反らす
+  descriptions:
+  - まっすぐなものを<ruby><rb>後</rb><rt>うし</rt></ruby>ろに、または<ruby><rb>弓</rb><rt>ゆみ</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>に<ruby><rb>曲</rb><rt>ま</rt></ruby>げる。
+- word: 飛ばす
+  descriptions:
+  - <ruby><rb>飛</rb><rt>と</rt></ruby>ぶようにする。
+  - <ruby><rb>散</rb><rt>ち</rt></ruby>らす。
+  - <ruby><rb>走</rb><rt>はし</rt></ruby>らせる。
+  - <ruby><rb>間</rb><rt>あいだ</rt></ruby>をぬいて、<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む。
+  - <ruby><rb>言</rb><rt>い</rt></ruby>いふらす。
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく…する。
+- word: 記録
+  descriptions:
+  - あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。
+web_news_url: /news/web/2017/06/11/さくらんぼの種-どこまで飛ばせるか競う-山形-東根/
+source_url: http://www3.nhk.or.jp/news/easy/k10011013951000/k10011013951000.html
+...
