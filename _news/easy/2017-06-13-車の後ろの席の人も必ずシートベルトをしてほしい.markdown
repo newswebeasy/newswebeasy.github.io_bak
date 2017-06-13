@@ -1,0 +1,90 @@
+---
+layout: easy_news
+newsid: k10011014011000
+categories: easy
+title: 「車の後ろの席の人も必ずシートベルトをしてほしい」
+title_with_ruby: 「<ruby>車<rt>くるま</rt></ruby>の<ruby>後<rt>うし</rt></ruby>ろの<ruby>席<rt>せき</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>も<ruby>必<rt>かなら</rt></ruby>ずシートベルトをしてほしい」
+last_modified_at: '2017-06-13T11:30:00+09:00'
+datetime: 2017年06月13日 11時30分
+description: ２００８年ねんから、車くるまの後うしろの席せきの人ひともシートベルトをしなければなりません。
+description_with_ruby: ２００８<ruby>年<rt>ねん</rt></ruby>から、<ruby>車<rt>くるま</rt></ruby>の<ruby>後<rt>うし</rt></ruby>ろの<ruby>席<rt>せき</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>もシートベルトをしなければなりません。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/13/k10011014011000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/13/k10011014011000.mp3
+contents: "<p>２００８<ruby>年<rt>ねん</rt></ruby>から、<ruby>車<rt>くるま</rt></ruby>の<ruby>後<rt>うし</rt></ruby>ろの<ruby>席<rt>せき</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>も<span\
+  \ style=\"color: blue;\">シートベルト</span>をしなければなりません。しかし、<span style=\"color: blue;\"\
+  ><ruby>警察庁<rt>けいさつちょう</rt></ruby></span>などが<ruby>去年<rt>きょねん</rt></ruby><ruby>調<rt>しら</rt></ruby>べると、<span\
+  \ style=\"color: blue;\"><ruby>高速道路<rt>こうそくどうろ</rt></ruby></span><ruby>以外<rt>いがい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>道路<rt>どうろ</rt></ruby></span>では、<ruby>後<rt>うし</rt></ruby>ろの<ruby>席<rt>せき</rt></ruby>で<span\
+  \ style=\"color: blue;\">シートベルト</span>をしている<ruby>人<rt>ひと</rt></ruby>は３６％だけでした。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>警察庁<rt>けいさつちょう</rt></ruby></span>によると、<ruby>車<rt>くるま</rt></ruby>の<ruby>後<rt>うし</rt></ruby>ろの<ruby>席<rt>せき</rt></ruby>に<ruby>乗<rt>の</rt></ruby>っていて<ruby>事故<rt>じこ</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>１５２<ruby>人<rt>にん</rt></ruby>でした。この<ruby>中<rt>なか</rt></ruby>の７０％は<span\
+  \ style=\"color: blue;\">シートベルト</span>をしていませんでした。</p>\n<p>このため<span style=\"color:\
+  \ blue;\"><ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby></span>は、<ruby>車<rt>くるま</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は２０２０<ruby>年<rt>ねん</rt></ruby>９<ruby>月<rt>がつ</rt></ruby>から<ruby>売<rt>う</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>一部<rt>いちぶ</rt></ruby></span>に、<span style=\"color:\
+  \ blue;\"><ruby>警告<rt>けいこく</rt></ruby></span><span style=\"color: blue;\"><ruby>装置<rt>そうち</rt></ruby></span>を<span\
+  \ style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>け</span>なければならないと<ruby>決<rt>き</rt></ruby>めました。この<span\
+  \ style=\"color: blue;\"><ruby>装置<rt>そうち</rt></ruby></span>は、<span style=\"color:\
+  \ blue;\">エンジン</span>の<span style=\"color: blue;\">スイッチ</span>を<ruby>入<rt>い</rt></ruby>れたときに、<ruby>後<rt>うし</rt></ruby>ろの<ruby>席<rt>せき</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\">シートベルト</span>をしていないと<span style=\"color: blue;\">ランプ</span>で<ruby>知<rt>し</rt></ruby>らせます。そして、<ruby>車<rt>くるま</rt></ruby>が<ruby>走<rt>はし</rt></ruby>っているときに、<ruby>後<rt>うし</rt></ruby>ろの<ruby>席<rt>せき</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\">シートベルト</span>を<span style=\"color: blue;\"><ruby>外<rt>はず</rt></ruby>す</span>と<ruby>音<rt>おと</rt></ruby>で<ruby>知<rt>し</rt></ruby>らせます。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby></span>は、<ruby>車<rt>くるま</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ったときは、どこの<ruby>席<rt>せき</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>ってもみんな<span\
+  \ style=\"color: blue;\">シートベルト</span>をしてほしいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: シートベルト
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>や<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>などの<ruby><rb>座席</rb><rt>ざせき</rt></ruby>に、<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>のためについている、<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>固定</rb><rt>こてい</rt></ruby>するベルト。
+- word: 警察庁
+  descriptions:
+  - <ruby><rb>警察</rb><rt>けいさつ</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となって、<ruby><rb>各地</rb><rt>かくち</rt></ruby>の<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>を<ruby><rb>指揮</rb><rt>しき</rt></ruby>する<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 高速道路
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>が<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>走</rb><rt>はし</rt></ruby>れるように、<ruby><rb>立体交差</rb><rt>りったいこうさ</rt></ruby>にしたり、<ruby><rb>上</rb><rt>のぼ</rt></ruby>り<ruby><rb>下</rb><rt>くだ</rt></ruby>りを<ruby><rb>分</rb><rt>わ</rt></ruby>けたりした<ruby><rb>道路</rb><rt>どうろ</rt></ruby>。ハイウエー。
+- word: 道路
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>車</rb><rt>くるま</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道</rb><rt>みち</rt></ruby>。<ruby><rb>通</rb><rt>とお</rt></ruby>り<ruby><rb>道</rb><rt>みち</rt></ruby>。
+- word: 国土交通省
+  descriptions:
+  - <ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>建物</rb><rt>たてもの</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>交通</rb><rt>こうつう</rt></ruby>・<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>の<ruby><rb>運送</rb><rt>うんそう</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>国交省</rb><rt>こっこうしょう</rt></ruby>。
+- word: 一部
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: 警告
+  descriptions:
+  - <ruby><rb>前</rb><rt>まえ</rt></ruby>もって<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>すること。また、その<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>。
+- word: 装置
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>や<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>などを、<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>付</rb><rt>つ</rt></ruby>けること。また、その<ruby><rb>機械</rb><rt>きかい</rt></ruby>や<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+- word: エンジン
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>・<ruby><rb>船</rb><rt>ふね</rt></ruby>・<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>などを<ruby><rb>動</rb><rt>うご</rt></ruby>かす<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>発動機</rb><rt>はつどうき</rt></ruby>。
+- word: スイッチ
+  descriptions:
+  - <ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>したり、<ruby><rb>止</rb><rt>と</rt></ruby>めたり、<ruby><rb>切</rb><rt>き</rt></ruby>りかえたりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+  - ほかのものに<ruby><rb>切</rb><rt>き</rt></ruby>りかえること。
+- word: ランプ
+  descriptions:
+  - <ruby><rb>石油</rb><rt>せきゆ</rt></ruby>などをしみこませたしんに<ruby><rb>火</rb><rt>ひ</rt></ruby>をつけて<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>明</rb><rt>あ</rt></ruby>かり。
+  - <ruby><rb>電灯</rb><rt>でんとう</rt></ruby>。
+- word: 外す
+  descriptions:
+  - <ruby><rb>取</rb><rt>と</rt></ruby>ってはなす。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>除</rb><rt>のぞ</rt></ruby>く。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>りにがす。
+  - そらす。
+  - その<ruby><rb>場</rb><rt>ば</rt></ruby>をはなれる。
+web_news_url: /news/web/2017/06/11/後部座席のシートベルト未着用-新車に警告装置を義務づけ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011014011000/k10011014011000.html
+...
