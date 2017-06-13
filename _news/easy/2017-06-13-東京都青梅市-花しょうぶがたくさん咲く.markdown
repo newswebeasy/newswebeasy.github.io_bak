@@ -1,0 +1,43 @@
+---
+layout: easy_news
+newsid: k10011014731000
+categories: easy
+title: 東京都青梅市　「花しょうぶ」がたくさん咲く
+title_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby><ruby>青梅市<rt>おうめし</rt></ruby>　「<ruby>花<rt>はな</rt></ruby>しょうぶ」がたくさん<ruby>咲<rt>さ</rt></ruby>く
+last_modified_at: '2017-06-13T16:10:00+09:00'
+datetime: 2017年06月13日 16時10分
+description: 東京都とうきょうと青梅市おうめしの吹上ふきあげしょうぶ公園こうえんには、２４０種類しゅるいぐらいの「花はなしょうぶ」が３２００株かぶあります。
+description_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby><ruby>青梅市<rt>おうめし</rt></ruby>の<ruby>吹上<rt>ふきあげ</rt></ruby>しょうぶ<ruby>公園<rt>こうえん</rt></ruby>には、２４０<ruby>種類<rt>しゅるい</rt></ruby>ぐらいの「<ruby>花<rt>はな</rt></ruby>しょうぶ」が３２００<ruby>株<rt>かぶ</rt></ruby>あります。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/13/k10011014731000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/13/k10011014731000.mp3
+contents: "<p><ruby>東京都<rt>とうきょうと</rt></ruby><ruby>青梅市<rt>おうめし</rt></ruby>の<ruby>吹上<rt>ふきあげ</rt></ruby>しょうぶ<ruby>公園<rt>こうえん</rt></ruby>には、２４０<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>ぐらいの「<span style=\"\
+  color: blue;\"><ruby>花<rt>はな</rt></ruby>しょうぶ</span>」が３２００<span style=\"color: blue;\"\
+  ><ruby>株<rt>かぶ</rt></ruby></span>あります。<ruby>今年<rt>ことし</rt></ruby>は５<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろから<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めました。<ruby>今<rt>いま</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>紫<rt>むらさき</rt></ruby></span>や<ruby>白<rt>しろ</rt></ruby>や<ruby>黄色<rt>きいろ</rt></ruby>などのたくさんの<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いています。</p>\n\
+  <p><ruby>公園<rt>こうえん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちは、<span\
+  \ style=\"color: blue;\"><ruby>花<rt>はな</rt></ruby>しょうぶ</span>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ったり、<ruby>絵<rt>え</rt></ruby>をかいたりしていました。<ruby>絵<rt>え</rt></ruby>をかいていた<ruby>女性<rt>じょせい</rt></ruby>は「この<ruby>美<rt>うつく</rt></ruby>しさを<ruby>絵<rt>え</rt></ruby>にするのは<ruby>難<rt>むずか</rt></ruby>しいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>この<ruby>公園<rt>こうえん</rt></ruby>の<span style=\"color: blue;\"><ruby>花<rt>はな</rt></ruby>しょうぶ</span>は、６<ruby>月<rt>がつ</rt></ruby>２５<ruby>日<rt>にち</rt></ruby>ごろまで<ruby>楽<rt>たの</rt></ruby>しむことができます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 花しょうぶ
+  descriptions:
+  - <ruby><rb>水辺</rb><rt>みずべ</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>える<ruby><rb>草花</rb><rt>くさばな</rt></ruby>。<ruby><rb>葉</rb><rt>は</rt></ruby>はアヤメに<ruby><rb>似</rb><rt>に</rt></ruby>て<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い。<ruby><rb>夏</rb><rt>なつ</rt></ruby>の<ruby><rb>初</rb><rt>はじ</rt></ruby>め、むらさきや<ruby><rb>白</rb><rt>しろ</rt></ruby>などの<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 株
+  descriptions:
+  - <ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>草</rb><rt>くさ</rt></ruby>の<ruby><rb>根</rb><rt>ね</rt></ruby>もと。
+  - <ruby><rb>株式</rb><rt>かぶしき</rt></ruby>。
+  - <ruby><rb>得意</rb><rt>とくい</rt></ruby>なこと。
+  - <ruby><rb>人気</rb><rt>にんき</rt></ruby>。<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+  - <ruby><rb>根</rb><rt>ね</rt></ruby>のついたものを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 紫
+  descriptions:
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>と<ruby><rb>青</rb><rt>あお</rt></ruby>の<ruby><rb>混</rb><rt>ま</rt></ruby>じった<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+  - <ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>小花</rb><rt>こばな</rt></ruby>をつける<ruby><rb>草</rb><rt>くさ</rt></ruby>。<ruby><rb>根</rb><rt>ね</rt></ruby>からむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>染料</rb><rt>せんりょう</rt></ruby>をとる。
+  - 「しょうゆ」の<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>方</rb><rt>かた</rt></ruby>。
+web_news_url: /news/web/2017/06/12/花しょうぶが見頃-東京青梅/
+source_url: http://www3.nhk.or.jp/news/easy/k10011014731000/k10011014731000.html
+...
