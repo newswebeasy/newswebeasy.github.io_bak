@@ -1,0 +1,49 @@
+---
+layout: easy_news
+newsid: k10011015221000
+categories: easy
+title: 「５人の肺からプルトニウムは見つからなかった」
+title_with_ruby: 「５<ruby>人<rt>にん</rt></ruby>の<ruby>肺<rt>はい</rt></ruby>からプルトニウムは<ruby>見<rt>み</rt></ruby>つからなかった」
+last_modified_at: '2017-06-13T16:10:00+09:00'
+datetime: 2017年06月13日 16時10分
+description: 茨城県いばらきけんにある日本原子力研究開発機構にほんげんしりょくけんきゅうかいはつきこうの大洗研究開発おおあらいけんきゅうかいはつセンターで６日むいか、仕事しごとをしていた５人にんにプルトニウムなどの放射性物質ほうしゃせいぶっしつがかかる事故じこがありました。
+description_with_ruby: <ruby>茨城県<rt>いばらきけん</rt></ruby>にある<ruby>日本原子力研究開発機構<rt>にほんげんしりょくけんきゅうかいはつきこう</rt></ruby>の<ruby>大洗研究開発<rt>おおあらいけんきゅうかいはつ</rt></ruby>センターで<ruby>６日<rt>むいか</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby>をしていた５<ruby>人<rt>にん</rt></ruby>にプルトニウムなどの<ruby>放射性物質<rt>ほうしゃせいぶっしつ</rt></ruby>がかかる<ruby>事故<rt>じこ</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/13/k10011015221000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/13/k10011015221000.mp3
+contents: "<p><ruby>茨城県<rt>いばらきけん</rt></ruby>にある<ruby>日本原子力研究開発機構<rt>にほんげんしりょくけんきゅうかいはつきこう</rt></ruby>の<ruby>大洗研究開発<rt>おおあらいけんきゅうかいはつ</rt></ruby>センターで<ruby>６日<rt>むいか</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby>をしていた５<ruby>人<rt>にん</rt></ruby>に<span\
+  \ style=\"color: blue;\">プルトニウム</span>などの<ruby>放射性物質<rt>ほうしゃせいぶっしつ</rt></ruby>がかかる<ruby>事故<rt>じこ</rt></ruby>がありました。<ruby>原子力機構<rt>げんしりょくきこう</rt></ruby>は<ruby>８日<rt>ようか</rt></ruby>、<ruby>１人<rt>ひとり</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>肺<rt>はい</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>から２<ruby>万<rt>まん</rt></ruby>２０００ベクレルの<span\
+  \ style=\"color: blue;\">プルトニウム</span>が<ruby>見<rt>み</rt></ruby>つかったと<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>しかし、<ruby>千葉県<rt>ちばけん</rt></ruby>にある<ruby>放射線医学総合研究所<rt>ほうしゃせんいがくそうごうけんきゅうしょ</rt></ruby>が５<ruby>人<rt>にん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>肺<rt>はい</rt></ruby></span>を３<ruby>回<rt>かい</rt></ruby>〜４<ruby>回<rt>かい</rt></ruby><ruby>調<rt>しら</rt></ruby>べると、<span\
+  \ style=\"color: blue;\">プルトニウム</span>は<ruby>見<rt>み</rt></ruby>つかりませんでした。５<ruby>人<rt>にん</rt></ruby>は<ruby>入院<rt>にゅういん</rt></ruby>していますが、<span\
+  \ style=\"color: blue;\"><ruby>健康<rt>けんこう</rt></ruby></span>に<ruby>問題<rt>もんだい</rt></ruby>は<ruby>出<rt>で</rt></ruby>ていないと<span\
+  \ style=\"color: blue;\"><ruby>研究所<rt>けんきゅうしょ</rt></ruby></span>は<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>原子力機構<rt>げんしりょくきこう</rt></ruby>は、<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>調<rt>しら</rt></ruby>べたときは５<ruby>人<rt>にん</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>を<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>洗<rt>あら</rt></ruby>っていなかったため、<span\
+  \ style=\"color: blue;\"><ruby>皮膚<rt>ひふ</rt></ruby></span>に<span style=\"color:\
+  \ blue;\">プルトニウム</span>が<ruby>残<rt>のこ</rt></ruby>っていた<span style=\"color: blue;\"\
+  ><ruby>可能性<rt>かのうせい</rt></ruby></span>があると<ruby>言<rt>い</rt></ruby>っています。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 肺
+  descriptions:
+  - <ruby><rb>胸</rb><rt>むね</rt></ruby>の<ruby><rb>左</rb><rt>ひだり</rt></ruby>と<ruby><rb>右</rb><rt>みぎ</rt></ruby>にあって、<ruby><rb>息</rb><rt>いき</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>ったり、はいたりするはたらきをするところ。<ruby><rb>肺臓</rb><rt>はいぞう</rt></ruby>。
+- word: プルトニウム
+  descriptions:
+  - <ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>手</rb><rt>て</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>元素</rb><rt>げんそ</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>原子力</rb><rt>げんしりょく</rt></ruby>の<ruby><rb>燃料</rb><rt>ねんりょう</rt></ruby>となる。<ruby><rb>放射能</rb><rt>ほうしゃのう</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>っていて、<ruby><rb>有毒</rb><rt>ゆうどく</rt></ruby>。
+- word: 健康
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。
+- word: 研究所
+  descriptions:
+  - ものごとを<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>をする<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。
+- word: 皮膚
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>包</rb><rt>つつ</rt></ruby>んでいる<ruby><rb>皮</rb><rt>かわ</rt></ruby>。<ruby><rb>肌</rb><rt>はだ</rt></ruby>。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+web_news_url: /news/web/2017/06/12/作業員被ばく事故-5人の肺からプルトニウム検出されず/
+source_url: http://www3.nhk.or.jp/news/easy/k10011015221000/k10011015221000.html
+...
