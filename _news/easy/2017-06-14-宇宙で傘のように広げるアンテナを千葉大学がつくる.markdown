@@ -1,0 +1,81 @@
+---
+layout: easy_news
+newsid: k10011015201000
+categories: easy
+title: 宇宙で傘のように広げるアンテナを千葉大学がつくる
+title_with_ruby: <ruby>宇宙<rt>うちゅう</rt></ruby>で<ruby>傘<rt>かさ</rt></ruby>のように<ruby>広<rt>ひろ</rt></ruby>げるアンテナを<ruby>千葉<rt>ちば</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>がつくる
+last_modified_at: '2017-06-14T11:30:00+09:00'
+datetime: 2017年06月14日 11時30分
+description: 千葉ちば大学だいがくのグループは、宇宙うちゅうで傘かさのように広ひろげる小ちいさいアンテナをつくりました。
+description_with_ruby: <ruby>千葉<rt>ちば</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>のグループは、<ruby>宇宙<rt>うちゅう</rt></ruby>で<ruby>傘<rt>かさ</rt></ruby>のように<ruby>広<rt>ひろ</rt></ruby>げる<ruby>小<rt>ちい</rt></ruby>さいアンテナをつくりました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/14/k10011015201000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/14/k10011015201000.mp3
+contents: "<p><ruby>千葉<rt>ちば</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>の<span style=\"\
+  color: blue;\">グループ</span>は、<span style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>で<ruby>傘<rt>かさ</rt></ruby>のように<span\
+  \ style=\"color: blue;\"><ruby>広<rt>ひろ</rt></ruby>げる</span><ruby>小<rt>ちい</rt></ruby>さい<span\
+  \ style=\"color: blue;\">アンテナ</span>をつくりました。この<span style=\"color: blue;\">アンテナ</span>は、<span\
+  \ style=\"color: blue;\">レーダー</span>で<span style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>地形<rt>ちけい</rt></ruby></span>などを<ruby>調<rt>しら</rt></ruby>べる<span\
+  \ style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>に<ruby>使<rt>つか</rt></ruby>います。</p>\n\
+  <p>この<span style=\"color: blue;\">アンテナ</span>は、とても<ruby>細<rt>ほそ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>金属<rt>きんぞく</rt></ruby></span>の<ruby>糸<rt>いと</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>編<rt>あ</rt></ruby>ん</span>でつくりました。<ruby>小<rt>ちい</rt></ruby>さく<span\
+  \ style=\"color: blue;\"><ruby>折<rt>お</rt></ruby>りたたん</span>で、<ruby>縦<rt>たて</rt></ruby>と<ruby>横<rt>よこ</rt></ruby>が８０ｃｍぐらいの<span\
+  \ style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>い</rt></ruby>れることができます。<span\
+  \ style=\"color: blue;\"><ruby>広<rt>ひろ</rt></ruby>げる</span>と、<ruby>大<rt>おお</rt></ruby>きさは<span\
+  \ style=\"color: blue;\"><ruby>直径<rt>ちょっけい</rt></ruby></span>３．６ｍになります。</p>\n<p><span\
+  \ style=\"color: blue;\">レーダー</span>で<ruby>調<rt>しら</rt></ruby>べる<span style=\"color:\
+  \ blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>は、<span style=\"color: blue;\"\
+  >アンテナ</span>を<ruby>小<rt>ちい</rt></ruby>さくすることが<ruby>難<rt>むずか</rt></ruby>しかったため、<ruby>今<rt>いま</rt></ruby>までは１<ruby>台<rt>だい</rt></ruby>つくるのに１００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>かかりました。<ruby>千葉<rt>ちば</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>は、１０<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以下<rt>いか</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>をつくって、２０２０<ruby>年<rt>ねん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</span>たいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 宇宙
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。
+- word: 広げる
+  descriptions:
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>くする。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>きくする。
+  - <ruby><rb>開</rb><rt>ひら</rt></ruby>く。あける。
+  - いっぱいに<ruby><rb>並</rb><rt>なら</rt></ruby>べちらかす。
+- word: アンテナ
+  descriptions:
+  - ラジオ・テレビなどの<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>を、<ruby><rb>出</rb><rt>だ</rt></ruby>したり<ruby><rb>受</rb><rt>う</rt></ruby>けたりするための<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: レーダー
+  descriptions:
+  - <ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>によって<ruby><rb>遠</rb><rt>とお</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>にある<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>位置</rb><rt>いち</rt></ruby>や<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>をさぐる<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>電波探知機</rb><rt>でんぱたんちき</rt></ruby>。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを三六五<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: 地形
+  descriptions:
+  - <ruby><rb>海</rb><rt>うみ</rt></ruby>・<ruby><rb>陸</rb><rt>りく</rt></ruby>・<ruby><rb>山</rb><rt>やま</rt></ruby>・<ruby><rb>川</rb><rt>かわ</rt></ruby>や<ruby><rb>土地</rb><rt>とち</rt></ruby>の<ruby><rb>高低</rb><rt>こうてい</rt></ruby>などの<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。
+- word: 人工衛星
+  descriptions:
+  - ロケットで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げ、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>るようにした、<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>。<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>のようすや<ruby><rb>気象</rb><rt>きしょう</rt></ruby>などを<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>などの<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>の<ruby><rb>中継</rb><rt>ちゅうけい</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>てたりする。
+- word: 金属
+  descriptions:
+  - ふつうは<ruby><rb>固体</rb><rt>こたい</rt></ruby>で、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>電気</rb><rt>でんき</rt></ruby>をよく<ruby><rb>伝</rb><rt>つた</rt></ruby>えるもの。<ruby><rb>鉄</rb><rt>てつ</rt></ruby>・<ruby><rb>銅</rb><rt>どう</rt></ruby>・<ruby><rb>金</rb><rt>きん</rt></ruby>・<ruby><rb>銀</rb><rt>ぎん</rt></ruby>・アルミニウムなど。
+- word: 編む
+  descriptions:
+  - <ruby><rb>糸</rb><rt>いと</rt></ruby>・<ruby><rb>竹</rb><rt>たけ</rt></ruby>・<ruby><rb>針金</rb><rt>はりがね</rt></ruby>などを、たがいちがいに<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。
+  - <ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>などを<ruby><rb>集</rb><rt>あつ</rt></ruby>めて<ruby><rb>本</rb><rt>ほん</rt></ruby>にする。<ruby><rb>編集</rb><rt>へんしゅう</rt></ruby>する。
+- word: 折り畳む
+  descriptions:
+  - <ruby><rb>折</rb><rt>お</rt></ruby>り<ruby><rb>曲</rb><rt>ま</rt></ruby>げて<ruby><rb>小</rb><rt>ちい</rt></ruby>さくする。
+- word: 直径
+  descriptions:
+  - <ruby><rb>円</rb><rt>えん</rt></ruby>または<ruby><rb>球</rb><rt>きゅう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>って、<ruby><rb>円周</rb><rt>えんしゅう</rt></ruby>や<ruby><rb>球面上</rb><rt>きゅうめんじょう</rt></ruby>の<ruby><rb>二点</rb><rt>にてん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>。さしわたし。
+- word: 打ち上げる
+  descriptions:
+  - （<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - <ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - （<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。
+web_news_url: /news/web/2017/06/12/世界最小クラスのレーダー衛星を開発/
+source_url: http://www3.nhk.or.jp/news/easy/k10011015201000/k10011015201000.html
+...

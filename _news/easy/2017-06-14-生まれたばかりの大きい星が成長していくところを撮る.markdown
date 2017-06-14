@@ -1,0 +1,60 @@
+---
+layout: easy_news
+newsid: k10011016411000
+categories: easy
+title: 生まれたばかりの大きい星が成長していくところを撮る
+title_with_ruby: <ruby>生<rt>う</rt></ruby>まれたばかりの<ruby>大<rt>おお</rt></ruby>きい<ruby>星<rt>ほし</rt></ruby>が<ruby>成長<rt>せいちょう</rt></ruby>していくところを<ruby>撮<rt>と</rt></ruby>る
+last_modified_at: '2017-06-14T16:05:00+09:00'
+datetime: 2017年06月14日 16時05分
+description: 国立天文台こくりつてんもんだいなどの研究けんきゅうグループが、生うまれたばかりのとても大おおきい星ほしが成長せいちょうしていくところを世界せかいで初はじめて撮とりました。
+description_with_ruby: <ruby>国立天文台<rt>こくりつてんもんだい</rt></ruby>などの<ruby>研究<rt>けんきゅう</rt></ruby>グループが、<ruby>生<rt>う</rt></ruby>まれたばかりのとても<ruby>大<rt>おお</rt></ruby>きい<ruby>星<rt>ほし</rt></ruby>が<ruby>成長<rt>せいちょう</rt></ruby>していくところを<ruby>世界<rt>せかい</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>撮<rt>と</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/14/k10011016411000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/14/k10011016411000.mp3
+contents: "<p><ruby>国立天文台<rt>こくりつてんもんだい</rt></ruby>などの<ruby>研究<rt>けんきゅう</rt></ruby><span\
+  \ style=\"color: blue;\">グループ</span>が、<ruby>生<rt>う</rt></ruby>まれたばかりのとても<ruby>大<rt>おお</rt></ruby>きい<ruby>星<rt>ほし</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>成長<rt>せいちょう</rt></ruby></span>していくところを<ruby>世界<rt>せかい</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>撮<rt>と</rt></ruby>りました。</p>\n\
+  <p>この<ruby>星<rt>ほし</rt></ruby>は<span style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>から１４００<span\
+  \ style=\"color: blue;\"><ruby>光年<rt>こうねん</rt></ruby></span>ぐらいの<ruby>場所<rt>ばしょ</rt></ruby>にあります。<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>大<rt>おお</rt></ruby>きい<ruby>電波望遠鏡<rt>でんぱぼうえんきょう</rt></ruby>の「アルマ」で<ruby>撮<rt>と</rt></ruby>りました。アルマは、<ruby>星<rt>ほし</rt></ruby>などから<ruby>出<rt>で</rt></ruby>る<span\
+  \ style=\"color: blue;\"><ruby>電波<rt>でんぱ</rt></ruby></span>をチェックして<span style=\"\
+  color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べる<span\
+  \ style=\"color: blue;\"><ruby>望遠鏡<rt>ぼうえんきょう</rt></ruby></span>で、<span style=\"\
+  color: blue;\"><ruby>南<rt>みなみ</rt></ruby>アメリカ</span>のチリにあります。</p>\n<p><ruby>生<rt>う</rt></ruby>まれたばかりの<ruby>星<rt>ほし</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>の<ruby>細<rt>こま</rt></ruby>かいごみなどが<ruby>回<rt>まわ</rt></ruby>りながら<ruby>集<rt>あつ</rt></ruby>まって<span\
+  \ style=\"color: blue;\"><ruby>成長<rt>せいちょう</rt></ruby></span>すると<ruby>考<rt>かんが</rt></ruby>えられています。<span\
+  \ style=\"color: blue;\">グループ</span>が<ruby>撮<rt>と</rt></ruby>った<ruby>星<rt>ほし</rt></ruby>からは、ガスが<span\
+  \ style=\"color: blue;\"><ruby>渦<rt>うず</rt></ruby></span>のように<ruby>出<rt>で</rt></ruby>ていました。</p>\n\
+  <p><span style=\"color: blue;\">グループ</span>は「<ruby>大<rt>おお</rt></ruby>きい<ruby>星<rt>ほし</rt></ruby>がどのように<ruby>生<rt>う</rt></ruby>まれるかなどをもっとよく<ruby>調<rt>しら</rt></ruby>べたいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 成長
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>が<ruby><rb>育</rb><rt>そだ</rt></ruby>って<ruby><rb>大</rb><rt>おお</rt></ruby>きくなること。
+  - ものごとが<ruby><rb>発展</rb><rt>はってん</rt></ruby>すること。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを三六五<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: 光年
+  descriptions:
+  - <ruby><rb>天文学</rb><rt>てんもんがく</rt></ruby>で、<ruby><rb>距離</rb><rt>きょり</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>一光年</rb><rt>いちこうねん</rt></ruby>は、<ruby><rb>光</rb><rt>ひかり</rt></ruby>が<ruby><rb>一年間</rb><rt>いちねんかん</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>距離</rb><rt>きょり</rt></ruby>で、<ruby><rb>約</rb><rt>やく</rt></ruby>九<ruby><rb>兆</rb><rt>ちょう</rt></ruby>四六七〇<ruby><rb>億</rb><rt>おく</rt></ruby>キロメートル。
+- word: 電波
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>と<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>速</rb><rt>はや</rt></ruby>さで<ruby><rb>空間</rb><rt>くうかん</rt></ruby>を<ruby><rb>運動</rb><rt>うんどう</rt></ruby>している<ruby><rb>電気</rb><rt>でんき</rt></ruby>の<ruby><rb>波</rb><rt>なみ</rt></ruby>。<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>使</rb><rt>つか</rt></ruby>われる。<ruby><rb>電磁波</rb><rt>でんじは</rt></ruby>。
+- word: 宇宙
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。
+- word: 望遠鏡
+  descriptions:
+  - <ruby><rb>筒</rb><rt>つつ</rt></ruby>にレンズや<ruby><rb>反射鏡</rb><rt>はんしゃきょう</rt></ruby>をはめて、<ruby><rb>遠</rb><rt>とお</rt></ruby>くのものを<ruby><rb>大</rb><rt>おお</rt></ruby>きく<ruby><rb>見</rb><rt>み</rt></ruby>えるようにした<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 南アメリカ
+  descriptions:
+  - <ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>南</rb><rt>みなみ</rt></ruby>アメリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>と、<ruby><rb>周辺</rb><rt>しゅうへん</rt></ruby>の<ruby><rb>島々</rb><rt>しまじま</rt></ruby>をふくむ<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。<ruby><rb>東</rb><rt>ひがし</rt></ruby>は<ruby><rb>大西洋</rb><rt>たいせいよう</rt></ruby>、<ruby><rb>西</rb><rt>にし</rt></ruby>は<ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>に<ruby><rb>面</rb><rt>めん</rt></ruby>し、<ruby><rb>北</rb><rt>きた</rt></ruby>は<ruby><rb>北</rb><rt>きた</rt></ruby>アメリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>につながる。ブラジル・アルゼンチン・チリなどの<ruby><rb>国</rb><rt>くに</rt></ruby>がある。<ruby><rb>南米</rb><rt>なんべい</rt></ruby>。
+- word: 渦
+  descriptions:
+  - ぐるぐると<ruby><rb>巻</rb><rt>ま</rt></ruby>きこむように<ruby><rb>回</rb><rt>まわ</rt></ruby>る、<ruby><rb>水</rb><rt>みず</rt></ruby>や<ruby><rb>空気</rb><rt>くうき</rt></ruby>の<ruby><rb>流</rb><rt>なが</rt></ruby>れ。<ruby><rb>渦巻</rb><rt>うずま</rt></ruby>き。
+  - ごみごみとした、<ruby><rb>目</rb><rt>め</rt></ruby>まぐるしい<ruby><rb>動</rb><rt>うご</rt></ruby>き。
+web_news_url: /news/web/2017/06/13/世界初-巨大な赤ちゃん星の成長-観測に成功/
+source_url: http://www3.nhk.or.jp/news/easy/k10011016411000/k10011016411000.html
+...
