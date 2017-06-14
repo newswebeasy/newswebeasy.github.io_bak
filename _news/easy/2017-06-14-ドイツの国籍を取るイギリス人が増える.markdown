@@ -1,0 +1,45 @@
+---
+layout: easy_news
+newsid: k10011016861000
+categories: easy
+title: ドイツの国籍を取るイギリス人が増える
+title_with_ruby: ドイツの<ruby>国籍<rt>こくせき</rt></ruby>を<ruby>取<rt>と</rt></ruby>るイギリス<ruby>人<rt>じん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える
+last_modified_at: '2017-06-14T16:05:00+09:00'
+datetime: 2017年06月14日 16時05分
+description: 去年きょねん、２８６５人にんのイギリス人じんがドイツの国籍こくせきを取とりました。
+description_with_ruby: <ruby>去年<rt>きょねん</rt></ruby>、２８６５<ruby>人<rt>にん</rt></ruby>のイギリス<ruby>人<rt>じん</rt></ruby>がドイツの<ruby>国籍<rt>こくせき</rt></ruby>を<ruby>取<rt>と</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/14/k10011016861000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/14/k10011016861000.mp3
+contents: "<p><ruby>去年<rt>きょねん</rt></ruby>、２８６５<ruby>人<rt>にん</rt></ruby>のイギリス<ruby>人<rt>じん</rt></ruby>がドイツの<span\
+  \ style=\"color: blue;\"><ruby>国籍<rt>こくせき</rt></ruby></span>を<ruby>取<rt>と</rt></ruby>りました。これはおととしの３．６<ruby>倍<rt>ばい</rt></ruby>です。</p>\n\
+  <p>イギリスは<ruby>去年<rt>きょねん</rt></ruby>、<span style=\"color: blue;\">ＥＵ</span>から<ruby>出<rt>で</rt></ruby>ることを<span\
+  \ style=\"color: blue;\"><ruby>国民<rt>こくみん</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>投票<rt>とうひょう</rt></ruby></span>で<ruby>決<rt>き</rt></ruby>めました。そのあと、ドイツの<span\
+  \ style=\"color: blue;\"><ruby>国籍<rt>こくせき</rt></ruby></span>を<ruby>取<rt>と</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えました。イギリスが<span\
+  \ style=\"color: blue;\">ＥＵ</span>から<ruby>出<rt>で</rt></ruby>ると、イギリス<ruby>人<rt>じん</rt></ruby>が<span\
+  \ style=\"color: blue;\">ヨーロッパ</span>で<ruby>働<rt>はたら</rt></ruby>くことや、<span style=\"\
+  color: blue;\">ヨーロッパ</span>のほかの<ruby>国<rt>くに</rt></ruby>へ<ruby>自由<rt>じゆう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くことが<ruby>難<rt>むずか</rt></ruby>しくなるかもしれません。このため、ドイツの<span\
+  \ style=\"color: blue;\"><ruby>国籍<rt>こくせき</rt></ruby></span>を<ruby>取<rt>と</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えたと<ruby>考<rt>かんが</rt></ruby>えられています。</p>\n\
+  <p>イギリスは２０１９<ruby>年<rt>ねん</rt></ruby>に<span style=\"color: blue;\">ＥＵ</span>から<ruby>出<rt>で</rt></ruby>ることになるため、ドイツの<span\
+  \ style=\"color: blue;\"><ruby>国籍<rt>こくせき</rt></ruby></span>を<ruby>取<rt>と</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>はこれからもっと<ruby>増<rt>ふ</rt></ruby>えそうです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 国籍
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>国民</rb><rt>こくみん</rt></ruby>であるという<ruby><rb>身分</rb><rt>みぶん</rt></ruby>・<ruby><rb>資格</rb><rt>しかく</rt></ruby>。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>や<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>がその<ruby><rb>国</rb><rt>くに</rt></ruby>に<ruby><rb>属</rb><rt>ぞく</rt></ruby>していること。
+- word: EU
+  descriptions:
+  - イギリス・ドイツ・フランスなどヨーロッパの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が、<ruby><rb>共同</rb><rt>きょうどう</rt></ruby>で<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>をはかったり<ruby><rb>経済</rb><rt>けいざい</rt></ruby>を<ruby><rb>運営</rb><rt>うんえい</rt></ruby>したりしようとする<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+- word: 国民
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>国籍</rb><rt>こくせき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。
+- word: 投票
+  descriptions:
+  - <ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>や<ruby><rb>採決</rb><rt>さいけつ</rt></ruby>で、<ruby><rb>選</rb><rt>えら</rt></ruby>びたい<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>か<ruby><rb>反対</rb><rt>はんたい</rt></ruby>かを、<ruby><rb>紙</rb><rt>かみ</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いて<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+web_news_url: /news/web/2017/06/14/ドイツ国籍取得するイギリス人急増-EU離脱決定後/
+source_url: http://www3.nhk.or.jp/news/easy/k10011016861000/k10011016861000.html
+...
