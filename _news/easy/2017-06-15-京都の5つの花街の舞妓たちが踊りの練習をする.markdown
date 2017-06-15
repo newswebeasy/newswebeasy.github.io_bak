@@ -1,0 +1,39 @@
+---
+layout: easy_news
+newsid: k10011016681000
+categories: easy
+title: 京都の５つの花街の舞妓たちが踊りの練習をする
+title_with_ruby: <ruby>京都<rt>きょうと</rt></ruby>の５つの<ruby>花街<rt>かがい</rt></ruby>の<ruby>舞妓<rt>まいこ</rt></ruby>たちが<ruby>踊<rt>おど</rt></ruby>りの<ruby>練習<rt>れんしゅう</rt></ruby>をする
+last_modified_at: '2017-06-15T11:30:00+09:00'
+datetime: 2017年06月15日 11時30分
+description: 京都きょうとで「花街かがい」と呼よんでいる所ところには、着物きものを着きた芸妓げいこや舞妓まいこの踊おどりなどを楽たのしむことができる店みせが集あつまっています。
+description_with_ruby: <ruby>京都<rt>きょうと</rt></ruby>で「<ruby>花街<rt>かがい</rt></ruby>」と<ruby>呼<rt>よ</rt></ruby>んでいる<ruby>所<rt>ところ</rt></ruby>には、<ruby>着物<rt>きもの</rt></ruby>を<ruby>着<rt>き</rt></ruby>た<ruby>芸妓<rt>げいこ</rt></ruby>や<ruby>舞妓<rt>まいこ</rt></ruby>の<ruby>踊<rt>おど</rt></ruby>りなどを<ruby>楽<rt>たの</rt></ruby>しむことができる<ruby>店<rt>みせ</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まっています。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/15/k10011016681000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/15/k10011016681000.mp3
+contents: "<p><ruby>京都<rt>きょうと</rt></ruby>で「<ruby>花街<rt>かがい</rt></ruby>」と<ruby>呼<rt>よ</rt></ruby>んでいる<ruby>所<rt>ところ</rt></ruby>には、<ruby>着物<rt>きもの</rt></ruby>を<ruby>着<rt>き</rt></ruby>た<ruby>芸妓<rt>げいこ</rt></ruby>や<ruby>舞妓<rt>まいこ</rt></ruby>の<ruby>踊<rt>おど</rt></ruby>りなどを<ruby>楽<rt>たの</rt></ruby>しむことができる<ruby>店<rt>みせ</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まっています。５つの<ruby>花街<rt>かがい</rt></ruby>の<ruby>芸妓<rt>げいこ</rt></ruby>と<ruby>舞妓<rt>まいこ</rt></ruby>たちは、<ruby>毎年<rt>まいとし</rt></ruby><ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>踊<rt>おど</rt></ruby>りを<ruby>見<rt>み</rt></ruby>せる<span\
+  \ style=\"color: blue;\"><ruby>公演<rt>こうえん</rt></ruby></span>をしています。</p>\n<p>１３<ruby>日<rt>にち</rt></ruby>、２０<ruby>人<rt>にん</rt></ruby>の<ruby>舞妓<rt>まいこ</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まって、この<span\
+  \ style=\"color: blue;\"><ruby>公演<rt>こうえん</rt></ruby></span>のための<ruby>練習<rt>れんしゅう</rt></ruby>をしました。<ruby>今年<rt>ことし</rt></ruby>は、<ruby>京都<rt>きょうと</rt></ruby>の４つの<ruby>季節<rt>きせつ</rt></ruby>が<span\
+  \ style=\"color: blue;\">テーマ</span>の「<ruby>京小唄<rt>きょうこうた</rt></ruby>」という<ruby>踊<rt>おど</rt></ruby>りを<ruby>見<rt>み</rt></ruby>せることになっています。<span\
+  \ style=\"color: blue;\"><ruby>人間国宝<rt>にんげんこくほう</rt></ruby></span>の<ruby>井上八千代<rt>いのうえやちよ</rt></ruby>さんが、<ruby>美<rt>うつく</rt></ruby>しい<ruby>動<rt>うご</rt></ruby>き<ruby>方<rt>かた</rt></ruby>などを<ruby>教<rt>おし</rt></ruby>えました。<ruby>舞妓<rt>まいこ</rt></ruby>たちはみんなが<ruby>同<rt>おな</rt></ruby>じ<span\
+  \ style=\"color: blue;\"><ruby>動<rt>うご</rt></ruby>き</span>になるように、<ruby>何<rt>なん</rt></ruby><ruby>回<rt>かい</rt></ruby>も<ruby>練習<rt>れんしゅう</rt></ruby>しました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>公演<rt>こうえん</rt></ruby></span>は６<ruby>月<rt>がつ</rt></ruby><ruby>２４日<rt>にじゅうよっか</rt></ruby>と２５<ruby>日<rt>にち</rt></ruby>に<ruby>京都芸術劇場春秋座<rt>きょうとげいじゅつげきじょうしゅんじゅうざ</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>います。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 公演
+  descriptions:
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>で、<ruby><rb>歌</rb><rt>うた</rt></ruby>やおどりや<ruby><rb>劇</rb><rt>げき</rt></ruby>などをすること。
+- word: テーマ
+  descriptions:
+  - <ruby><rb>作品</rb><rt>さくひん</rt></ruby>にかかれていることの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。また、<ruby><rb>作品</rb><rt>さくひん</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になっている<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>主題</rb><rt>しゅだい</rt></ruby>。
+  - <ruby><rb>論文</rb><rt>ろんぶん</rt></ruby>や、<ruby><rb>演説</rb><rt>えんぜつ</rt></ruby>の<ruby><rb>題目</rb><rt>だいもく</rt></ruby>。
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>曲</rb><rt>きょく</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となっているメロディー。
+- word: 人間国宝
+  descriptions:
+  - <ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるりっぱな<ruby><rb>芸</rb><rt>げい</rt></ruby>や、わざを<ruby><rb>持</rb><rt>も</rt></ruby>っていて、<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>国宝</rb><rt>こくほう</rt></ruby>として<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>で<ruby><rb>認</rb><rt>みと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 動き
+  descriptions:
+  - <ruby><rb>動</rb><rt>うご</rt></ruby>くこと。
+  - <ruby><rb>移</rb><rt>うつ</rt></ruby>り<ruby><rb>変</rb><rt>か</rt></ruby>わり。<ruby><rb>変動</rb><rt>へんどう</rt></ruby>。<ruby><rb>変化</rb><rt>へんか</rt></ruby>。
+web_news_url: /news/web/2017/06/13/京都-舞妓たちが合同公演に向け-初稽古/
+source_url: http://www3.nhk.or.jp/news/easy/k10011016681000/k10011016681000.html
+...
