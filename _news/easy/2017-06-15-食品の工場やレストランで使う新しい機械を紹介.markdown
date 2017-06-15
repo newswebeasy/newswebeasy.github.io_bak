@@ -1,0 +1,62 @@
+---
+layout: easy_news
+newsid: k10011016291000
+categories: easy
+title: 食品の工場やレストランで使う新しい機械を紹介
+title_with_ruby: <ruby>食品<rt>しょくひん</rt></ruby>の<ruby>工場<rt>こうじょう</rt></ruby>やレストランで<ruby>使<rt>つか</rt></ruby>う<ruby>新<rt>あたら</rt></ruby>しい<ruby>機械<rt>きかい</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>
+last_modified_at: '2017-06-15T11:30:00+09:00'
+datetime: 2017年06月15日 11時30分
+description: 食品しょくひんの工場こうじょうやレストランなどで使つかう新あたらしい機械きかいを紹介しょうかいするイベントが、１３日にちから東京とうきょうで始はじまりました。
+description_with_ruby: <ruby>食品<rt>しょくひん</rt></ruby>の<ruby>工場<rt>こうじょう</rt></ruby>やレストランなどで<ruby>使<rt>つか</rt></ruby>う<ruby>新<rt>あたら</rt></ruby>しい<ruby>機械<rt>きかい</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベントが、１３<ruby>日<rt>にち</rt></ruby>から<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/15/k10011016291000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/15/k10011016291000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>食品<rt>しょくひん</rt></ruby></span>の<ruby>工場<rt>こうじょう</rt></ruby>やレストランなどで<ruby>使<rt>つか</rt></ruby>う<ruby>新<rt>あたら</rt></ruby>しい<ruby>機械<rt>きかい</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する<span\
+  \ style=\"color: blue;\">イベント</span>が、１３<ruby>日<rt>にち</rt></ruby>から<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まりました。レストランの<span\
+  \ style=\"color: blue;\">キッチン</span>などで<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>の<ruby>代<rt>か</rt></ruby>わりに、<ruby>速<rt>はや</rt></ruby>く<ruby>仕事<rt>しごと</rt></ruby>ができる<ruby>小<rt>ちい</rt></ruby>さい<ruby>機械<rt>きかい</rt></ruby>も<ruby>紹介<rt>しょうかい</rt></ruby>しています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>焼<rt>や</rt></ruby>き<ruby>鳥<rt>とり</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>るための<ruby>機械<rt>きかい</rt></ruby>は、<ruby>鳥肉<rt>とりにく</rt></ruby>の<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>に<ruby>速<rt>はや</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>串<rt>くし</rt></ruby></span>を<span style=\"color: blue;\"\
+  ><ruby>刺<rt>さ</rt></ruby>す</span>ことができます。<ruby>小<rt>ちい</rt></ruby>さいので、<ruby>必要<rt>ひつよう</rt></ruby>なときだけテーブルの<ruby>上<rt>うえ</rt></ruby>などに<ruby>置<rt>お</rt></ruby>いて<ruby>使<rt>つか</rt></ruby>うことができます。</p>\n\
+  <p><ruby>果物<rt>くだもの</rt></ruby>のジュースを<ruby>作<rt>つく</rt></ruby>るために<ruby>果物<rt>くだもの</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>皮<rt>かわ</rt></ruby></span>をとても<ruby>速<rt>はや</rt></ruby>く<ruby>取<rt>と</rt></ruby>ることができる<ruby>機械<rt>きかい</rt></ruby>や、<span\
+  \ style=\"color: blue;\">すし</span>の<span style=\"color: blue;\">のり<ruby>巻<rt>ま</rt></ruby>き</span>を<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>作<rt>つく</rt></ruby>ることができる<ruby>機械<rt>きかい</rt></ruby>などもあります。</p>\n\
+  <p><span style=\"color: blue;\">ファストフード</span>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくて<ruby>困<rt>こま</rt></ruby>っているので、<ruby>店<rt>みせ</rt></ruby>で<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ<ruby>機械<rt>きかい</rt></ruby>を<ruby>探<rt>さが</rt></ruby>しています」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>この<span style=\"color: blue;\">イベント</span>は１６<ruby>日<rt>にち</rt></ruby>まで<ruby>東京都<rt>とうきょうと</rt></ruby><ruby>江東区<rt>こうとうく</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby>ビッグサイトで<ruby>行<rt>おこな</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 食品
+  descriptions:
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>となるもの。<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: キッチン
+  descriptions:
+  - <ruby><rb>台所</rb><rt>だいどころ</rt></ruby>。<ruby><rb>調理</rb><rt>ちょうり</rt></ruby>をする<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: 焼き鳥
+  descriptions:
+  - <ruby><rb>鳥</rb><rt>とり</rt></ruby>の<ruby><rb>肉</rb><rt>にく</rt></ruby>や、もつをくしにさして<ruby><rb>焼</rb><rt>や</rt></ruby>き、<ruby><rb>味</rb><rt>あじ</rt></ruby>をつけた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 串
+  descriptions:
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>などを、<ruby><rb>突</rb><rt>つ</rt></ruby>きさすのに<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>細</rb><rt>ほそ</rt></ruby>い<ruby><rb>棒</rb><rt>ぼう</rt></ruby>。
+- word: 刺す
+  descriptions:
+  - とがったものをつき<ruby><rb>通</rb><rt>とお</rt></ruby>す。
+  - <ruby><rb>鼻</rb><rt>はな</rt></ruby>・<ruby><rb>舌</rb><rt>した</rt></ruby>・はだなどに、するどい<ruby><rb>刺激</rb><rt>しげき</rt></ruby>をあたえる。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>走者</rb><rt>そうしゃ</rt></ruby>にタッチして、アウトにする。
+- word: 皮
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>や<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>などの<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>を<ruby><rb>包</rb><rt>つつ</rt></ruby>んでいるもの。
+  - <ruby><rb>中身</rb><rt>なかみ</rt></ruby>をおおって<ruby><rb>包</rb><rt>つつ</rt></ruby>んでいるもの。
+- word: 鮨・
+  descriptions:
+  - <ruby><rb>酢</rb><rt>す</rt></ruby>で<ruby><rb>味</rb><rt>あじ</rt></ruby>をつけたご<ruby><rb>飯</rb><rt>はん</rt></ruby>に、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や、<ruby><rb>貝</rb><rt>かい</rt></ruby>・<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などをのせたり、<ruby><rb>混</rb><rt>ま</rt></ruby>ぜたりした<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。にぎりずし・<ruby><rb>巻</rb><rt>ま</rt></ruby>きずし・ちらしずしなど。
+- word: のり巻き
+  descriptions:
+  - <ruby><rb>海藻</rb><rt>かいそう</rt></ruby>のノリで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>食品</rb><rt>しょくひん</rt></ruby>で<ruby><rb>巻</rb><rt>ま</rt></ruby>いた、すし。
+- word: ファーストフード
+  descriptions:
+  - <ruby><rb>手軽</rb><rt>てがる</rt></ruby>に<ruby><rb>食</rb><rt>た</rt></ruby>べられる<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>な<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。ハンバーガーやフライドチキンなど。ファストフード。
+web_news_url: /news/web/2017/06/13/人手不足に対応-最新の調理用機械/
+source_url: http://www3.nhk.or.jp/news/easy/k10011016291000/k10011016291000.html
+...

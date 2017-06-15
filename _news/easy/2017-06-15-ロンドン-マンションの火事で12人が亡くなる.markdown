@@ -1,0 +1,33 @@
+---
+layout: easy_news
+newsid: k10011018211000
+categories: easy
+title: ロンドン　マンションの火事で１２人が亡くなる
+title_with_ruby: ロンドン　マンションの<ruby>火事<rt>かじ</rt></ruby>で１２<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+last_modified_at: '2017-06-15T15:55:00+09:00'
+datetime: 2017年06月15日 15時55分
+description: イギリスのロンドンで１４日じゅうよっかの午前ごぜん１時じごろ、２４階かい建だてのマンションが火事かじになりました。
+description_with_ruby: イギリスのロンドンで<ruby>１４日<rt>じゅうよっか</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby>１<ruby>時<rt>じ</rt></ruby>ごろ、２４<ruby>階<rt>かい</rt></ruby><ruby>建<rt>だ</rt></ruby>てのマンションが<ruby>火事<rt>かじ</rt></ruby>になりました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/15/k10011018211000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/15/k10011018211000.mp3
+contents: "<p>イギリスのロンドンで<ruby>１４日<rt>じゅうよっか</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby>１<ruby>時<rt>じ</rt></ruby>ごろ、２４<ruby>階<rt>かい</rt></ruby><ruby>建<rt>だ</rt></ruby>ての<span\
+  \ style=\"color: blue;\">マンション</span>が<ruby>火事<rt>かじ</rt></ruby>になりました。この<ruby>火事<rt>かじ</rt></ruby>で１２<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、７８<ruby>人<rt>にん</rt></ruby>が<ruby>入院<rt>にゅういん</rt></ruby>しました。</p>\n\
+  <p>この<span style=\"color: blue;\">マンション</span>は１２０の<ruby>家族<rt>かぞく</rt></ruby>が<ruby>住<rt>す</rt></ruby>むことができます。<span\
+  \ style=\"color: blue;\"><ruby>消防<rt>しょうぼう</rt></ruby></span>はいちばん<ruby>上<rt>うえ</rt></ruby>の<ruby>階<rt>かい</rt></ruby>まで<ruby>行<rt>い</rt></ruby>って、<ruby>残<rt>のこ</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>がいないか<ruby>調<rt>しら</rt></ruby>べました。しかし、<span\
+  \ style=\"color: blue;\">マンション</span>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>行方不明<rt>ゆくえふめい</rt></ruby></span>になっていると<ruby>言<rt>い</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>がいます。このため<ruby>警察<rt>けいさつ</rt></ruby>は、<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>はもっと<ruby>多<rt>おお</rt></ruby>くなるかもしれないと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><span style=\"color: blue;\">マンション</span>から<ruby>逃<rt>に</rt></ruby>げた<ruby>人<rt>ひと</rt></ruby>たちは、<ruby>火事<rt>かじ</rt></ruby>になったことを<ruby>知<rt>し</rt></ruby>らせる<ruby>火災<rt>かさい</rt></ruby><ruby>報知器<rt>ほうちき</rt></ruby>の<ruby>音<rt>おと</rt></ruby>が<ruby>小<rt>ちい</rt></ruby>さかったとか、<ruby>聞<rt>き</rt></ruby>こえなかったと<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: マンション
+  descriptions:
+  - コンクリートで<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>で、<ruby><rb>高級</rb><rt>こうきゅう</rt></ruby>な<ruby><rb>感</rb><rt>かん</rt></ruby>じがするアパート。
+- word: 消防
+  descriptions:
+  - <ruby><rb>火事</rb><rt>かじ</rt></ruby>を<ruby><rb>消</rb><rt>け</rt></ruby>したり、<ruby><rb>火災</rb><rt>かさい</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>いだりすること。
+- word: 行方不明
+  descriptions:
+  - どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。
+web_news_url: /news/web/2017/06/15/ロンドンの高層住宅火災-死者12人に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011018211000/k10011018211000.html
+...

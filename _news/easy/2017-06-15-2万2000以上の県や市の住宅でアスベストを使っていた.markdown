@@ -1,0 +1,46 @@
+---
+layout: easy_news
+newsid: k10011018031000
+categories: easy
+title: ２万２０００以上の県や市の住宅でアスベストを使っていた
+title_with_ruby: ２<ruby>万<rt>まん</rt></ruby>２０００<ruby>以上<rt>いじょう</rt></ruby>の<ruby>県<rt>けん</rt></ruby>や<ruby>市<rt>し</rt></ruby>の<ruby>住宅<rt>じゅうたく</rt></ruby>でアスベストを<ruby>使<rt>つか</rt></ruby>っていた
+last_modified_at: '2017-06-15T15:55:00+09:00'
+datetime: 2017年06月15日 15時55分
+description: アスベストは、建物たてものなどをつくるときに使つかっていました。
+description_with_ruby: アスベストは、<ruby>建物<rt>たてもの</rt></ruby>などをつくるときに<ruby>使<rt>つか</rt></ruby>っていました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/15/k10011018031000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/15/k10011018031000.mp3
+contents: "<p><span style=\"color: blue;\">アスベスト</span>は、<ruby>建物<rt>たてもの</rt></ruby>などをつくるときに<ruby>使<rt>つか</rt></ruby>っていました。<ruby>人<rt>ひと</rt></ruby>が<ruby>吸<rt>す</rt></ruby>って<ruby>体<rt>からだ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ると、<span\
+  \ style=\"color: blue;\">がん</span>などの<ruby>病気<rt>びょうき</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>になると<ruby>考<rt>かんが</rt></ruby>えられています。</p>\n\
+  <p>ＮＨＫと<span style=\"color: blue;\">アスベスト</span>で<ruby>病気<rt>びょうき</rt></ruby>になった<ruby>人<rt>ひと</rt></ruby>などの<ruby>会<rt>かい</rt></ruby>が、<ruby>県<rt>けん</rt></ruby>や<ruby>市<rt>し</rt></ruby>がつくった<span\
+  \ style=\"color: blue;\"><ruby>住宅<rt>じゅうたく</rt></ruby></span>について<span style=\"\
+  color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span>をすると、２<ruby>万<rt>まん</rt></ruby>２０００<ruby>以上<rt>いじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>住宅<rt>じゅうたく</rt></ruby></span>で<span style=\"color:\
+  \ blue;\">アスベスト</span>を<ruby>使<rt>つか</rt></ruby>っていました。<ruby>専門家<rt>せんもんか</rt></ruby>は、２３<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<span\
+  \ style=\"color: blue;\">アスベスト</span>を<ruby>吸<rt>す</rt></ruby>った<span style=\"color:\
+  \ blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span>をした<ruby>会<rt>かい</rt></ruby>には「<ruby>自分<rt>じぶん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>で<span\
+  \ style=\"color: blue;\">アスベスト</span>が<ruby>使<rt>つか</rt></ruby>われたかどうか<ruby>知<rt>し</rt></ruby>りたい」などという<ruby>電話<rt>でんわ</rt></ruby>がたくさんありました。</p>\n\
+  <p><ruby>会<rt>かい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>国<rt>くに</rt></ruby>や<ruby>県<rt>けん</rt></ruby>などは、<ruby>病気<rt>びょうき</rt></ruby>になった<ruby>人<rt>ひと</rt></ruby>と<span\
+  \ style=\"color: blue;\"><ruby>住宅<rt>じゅうたく</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">アスベスト</span>の<ruby>関係<rt>かんけい</rt></ruby>をもっとよく<ruby>調<rt>しら</rt></ruby>べなければなりません」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 住宅
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>住</rb><rt>す</rt></ruby>むための<ruby><rb>家</rb><rt>いえ</rt></ruby>。すまい。<ruby><rb>住居</rb><rt>じゅうきょ</rt></ruby>。
+- word: アスベスト
+  descriptions:
+  - <ruby><rb>岩石</rb><rt>がんせき</rt></ruby>を<ruby><rb>綿</rb><rt>わた</rt></ruby>のように<ruby><rb>加工</rb><rt>かこう</rt></ruby>したもの。<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>しにくく<ruby><rb>熱</rb><rt>ねつ</rt></ruby>に<ruby><rb>強</rb><rt>つよ</rt></ruby>いが、<ruby><rb>吸</rb><rt>す</rt></ruby>いこむと<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>害</rb><rt>がい</rt></ruby>がある。<ruby><rb>石綿</rb><rt>いしわた</rt></ruby>。
+- word: がん
+  descriptions:
+  - <ruby><rb>悪性</rb><rt>あくせい</rt></ruby>のはれものができる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にできたがん<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>がどんどん<ruby><rb>増</rb><rt>ふ</rt></ruby>えて<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>害</rb><rt>がい</rt></ruby>をあたえる。
+- word: 調査
+  descriptions:
+  - <ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+web_news_url: /news/web/2017/06/15/公営住宅のアスベスト問題-電話相談1000件超/
+source_url: http://www3.nhk.or.jp/news/easy/k10011018031000/k10011018031000.html
+...
