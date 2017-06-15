@@ -1,0 +1,56 @@
+---
+layout: easy_news
+newsid: k10011018401000
+categories: easy
+title: テロなどの犯罪を準備した人たちを罰する法律ができる
+title_with_ruby: テロなどの<ruby>犯罪<rt>はんざい</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>たちを<ruby>罰<rt>ばっ</rt></ruby>する<ruby>法律<rt>ほうりつ</rt></ruby>ができる
+last_modified_at: '2017-06-15T15:55:00+09:00'
+datetime: 2017年06月15日 15時55分
+description: テロなどの犯罪はんざいをなくすために、犯罪はんざいを計画けいかくして準備じゅんびをした人ひとたちを罰ばっする法律ほうりつができました。
+description_with_ruby: テロなどの<ruby>犯罪<rt>はんざい</rt></ruby>をなくすために、<ruby>犯罪<rt>はんざい</rt></ruby>を<ruby>計画<rt>けいかく</rt></ruby>して<ruby>準備<rt>じゅんび</rt></ruby>をした<ruby>人<rt>ひと</rt></ruby>たちを<ruby>罰<rt>ばっ</rt></ruby>する<ruby>法律<rt>ほうりつ</rt></ruby>ができました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/15/k10011018401000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/15/k10011018401000.mp3
+contents: "<p><span style=\"color: blue;\">テロ</span>などの<span style=\"color: blue;\"\
+  ><ruby>犯罪<rt>はんざい</rt></ruby></span>をなくすために、<span style=\"color: blue;\"><ruby>犯罪<rt>はんざい</rt></ruby></span>を<ruby>計画<rt>けいかく</rt></ruby>して<ruby>準備<rt>じゅんび</rt></ruby>をした<ruby>人<rt>ひと</rt></ruby>たちを<span\
+  \ style=\"color: blue;\"><ruby>罰<rt>ばっ</rt></ruby>する</span><ruby>法律<rt>ほうりつ</rt></ruby>ができました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は「２０２０<ruby>年<rt>ねん</rt></ruby>には<ruby>東京<rt>とうきょう</rt></ruby>で<span\
+  \ style=\"color: blue;\">オリンピック</span>があります。この<ruby>法律<rt>ほうりつ</rt></ruby>は<span\
+  \ style=\"color: blue;\">テロ</span>をなくすために<ruby>必要<rt>ひつよう</rt></ruby>です」などと<ruby>説明<rt>せつめい</rt></ruby>しています。</p>\n\
+  <p>しかし、<ruby>民進党<rt>みんしんとう</rt></ruby>などの<span style=\"color: blue;\"><ruby>野党<rt>やとう</rt></ruby></span>は「この<ruby>法律<rt>ほうりつ</rt></ruby>ができると、<ruby>悪<rt>わる</rt></ruby>いことをしていない<ruby>市民<rt>しみん</rt></ruby>が<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>調<rt>しら</rt></ruby>べられたり、<span\
+  \ style=\"color: blue;\"><ruby>罰<rt>ばっ</rt></ruby>せ</span>られたりするかもしれません」などと<ruby>言<rt>い</rt></ruby>って、<ruby>強<rt>つよ</rt></ruby>く<ruby>反対<rt>はんたい</rt></ruby>していました。</p>\n\
+  <p><ruby>安倍<rt>あべ</rt></ruby><span style=\"color: blue;\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>は「<span\
+  \ style=\"color: blue;\">テロ</span>をなくすために、<ruby>外国<rt>がいこく</rt></ruby>とも<span style=\"\
+  color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>していきたいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: テロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: 犯罪
+  descriptions:
+  - <ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>すこと。<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>を<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。また、<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>罪</rb><rt>つみ</rt></ruby>。
+- word: 罰する
+  descriptions:
+  - <ruby><rb>罰</rb><rt>ばつ</rt></ruby>をあたえる。こらしめる。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>四年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、一八九六<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: 野党
+  descriptions:
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っていない<ruby><rb>政党</rb><rt>せいとう</rt></ruby>。
+- word: 罰する
+  descriptions:
+  - <ruby><rb>罰</rb><rt>ばつ</rt></ruby>をあたえる。こらしめる。
+- word: 総理大臣
+  descriptions:
+  - <ruby><rb>内閣総理大臣</rb><rt>ないかくそうりだいじん</rt></ruby>のこと。<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>の<ruby><rb>最高責任者</rb><rt>さいこうせきにんしゃ</rt></ruby>で、<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>選</rb><rt>えら</rt></ruby>び、<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>が<ruby><rb>認</rb><rt>みと</rt></ruby>めて<ruby><rb>決</rb><rt>き</rt></ruby>まる。<ruby><rb>首相</rb><rt>しゅしょう</rt></ruby>。<ruby><rb>総理</rb><rt>そうり</rt></ruby>。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+web_news_url: /news/web/2017/06/15/テロ等準備罪新設法-可決成立/
+source_url: http://www3.nhk.or.jp/news/easy/k10011018401000/k10011018401000.html
+...
