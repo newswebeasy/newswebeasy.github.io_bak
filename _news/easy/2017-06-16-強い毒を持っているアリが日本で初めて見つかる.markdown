@@ -1,0 +1,70 @@
+---
+layout: easy_news
+newsid: k10011017691000
+categories: easy
+title: 強い毒を持っているアリが日本で初めて見つかる
+title_with_ruby: <ruby>強<rt>つよ</rt></ruby>い<ruby>毒<rt>どく</rt></ruby>を<ruby>持<rt>も</rt></ruby>っているアリが<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>見<rt>み</rt></ruby>つかる
+last_modified_at: '2017-06-16T11:30:00+09:00'
+datetime: 2017年06月16日 11時30分
+description: 「ヒアリ」というアリは強つよい毒どくを持もっていて、刺さされるとやけどをしたように痛いたくなります。
+description_with_ruby: 「ヒアリ」というアリは<ruby>強<rt>つよ</rt></ruby>い<ruby>毒<rt>どく</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていて、<ruby>刺<rt>さ</rt></ruby>されるとやけどをしたように<ruby>痛<rt>いた</rt></ruby>くなります。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/16/k10011017691000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/16/k10011017691000.mp3
+contents: "<p>「ヒアリ」という<span style=\"color: blue;\">アリ</span>は<ruby>強<rt>つよ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>毒<rt>どく</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>っていて、<span\
+  \ style=\"color: blue;\"><ruby>刺<rt>さ</rt></ruby>さ</span>れると<span style=\"color:\
+  \ blue;\">やけど</span>をしたように<ruby>痛<rt>いた</rt></ruby>くなります。<span style=\"color: blue;\"\
+  ><ruby>刺<rt>さ</rt></ruby>さ</span>れると、<span style=\"color: blue;\">アレルギー</span>の<span\
+  \ style=\"color: blue;\">ショック</span>で<ruby>死<rt>し</rt></ruby>ぬ<ruby>人<rt>ひと</rt></ruby>もいます。ヒアリは<span\
+  \ style=\"color: blue;\"><ruby>南<rt>みなみ</rt></ruby>アメリカ</span>にいる<span style=\"\
+  color: blue;\">アリ</span>ですが、１０<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>から<ruby>中国<rt>ちゅうごく</rt></ruby>や<ruby>台湾<rt>たいわん</rt></ruby>などアジアでも<ruby>見<rt>み</rt></ruby>つかっています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>環境省<rt>かんきょうしょう</rt></ruby></span>が<ruby>先月<rt>せんげつ</rt></ruby>、<ruby>中国<rt>ちゅうごく</rt></ruby>から<ruby>船<rt>ふね</rt></ruby>で<ruby>兵庫県<rt>ひょうごけん</rt></ruby>の<ruby>神戸<rt>こうべ</rt></ruby><ruby>港<rt>こう</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>ばれた<span\
+  \ style=\"color: blue;\">コンテナ</span>を<ruby>調<rt>しら</rt></ruby>べると、<span style=\"\
+  color: blue;\">アリ</span>が１０００<ruby>匹<rt>びき</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>見<rt>み</rt></ruby>つかりました。<ruby>専門家<rt>せんもんか</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べると、ヒアリだとわかりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>環境省<rt>かんきょうしょう</rt></ruby></span>は、すぐに<ruby>薬<rt>くすり</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>殺<rt>ころ</rt></ruby>し</span>たためヒアリがほかの<ruby>場所<rt>ばしょ</rt></ruby>にいる<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>は<ruby>低<rt>ひく</rt></ruby>いと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 毒
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>のあるもの。<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>傷</rb><rt>きず</rt></ruby>つけるもの。
+- word: 蟻
+  descriptions:
+  - <ruby><rb>土</rb><rt>つち</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>や、たおれた<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>などに<ruby><rb>巣</rb><rt>す</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>昆虫</rb><rt>こんちゅう</rt></ruby>。クロオオアリ・アミメアリなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>卵</rb><rt>たまご</rt></ruby>をうむ<ruby><rb>女王</rb><rt>じょおう</rt></ruby>アリを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>に、<ruby><rb>雄</rb><rt>おす</rt></ruby>アリと<ruby><rb>働</rb><rt>はたら</rt></ruby>きアリが<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>している。
+- word: 刺す
+  descriptions:
+  - とがったものをつき<ruby><rb>通</rb><rt>とお</rt></ruby>す。
+  - <ruby><rb>鼻</rb><rt>はな</rt></ruby>・<ruby><rb>舌</rb><rt>した</rt></ruby>・はだなどに、するどい<ruby><rb>刺激</rb><rt>しげき</rt></ruby>をあたえる。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>走者</rb><rt>そうしゃ</rt></ruby>にタッチして、アウトにする。
+- word: 火傷
+  descriptions:
+  - <ruby><rb>火</rb><rt>ひ</rt></ruby>や、<ruby><rb>熱</rb><rt>あつ</rt></ruby>いお<ruby><rb>湯</rb><rt>ゆ</rt></ruby>などにふれて、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>がただれること。
+- word: アレルギー
+  descriptions:
+  - <ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>がある<ruby><rb>特定</rb><rt>とくてい</rt></ruby>の<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>に<ruby><rb>対</rb><rt>たい</rt></ruby>して<ruby><rb>示</rb><rt>しめ</rt></ruby>す<ruby><rb>異常</rb><rt>いじょう</rt></ruby>な<ruby><rb>反応</rb><rt>はんのう</rt></ruby>。<ruby><rb>人</rb><rt>ひと</rt></ruby>によって、<ruby><rb>薬</rb><rt>くすり</rt></ruby>や<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>、<ruby><rb>花粉</rb><rt>かふん</rt></ruby>などに<ruby><rb>対</rb><rt>たい</rt></ruby>して、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>がかゆくなったり、ぶつぶつができたりすること。
+- word: ショック
+  descriptions:
+  - ある<ruby><rb>物</rb><rt>もの</rt></ruby>に<ruby><rb>加</rb><rt>くわ</rt></ruby>えられる<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>力</rb><rt>ちから</rt></ruby>。しょうげき。
+  - <ruby><rb>激</rb><rt>はげ</rt></ruby>しいおどろき。<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>動揺</rb><rt>どうよう</rt></ruby>。
+- word: 南アメリカ
+  descriptions:
+  - <ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>南</rb><rt>みなみ</rt></ruby>アメリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>と、<ruby><rb>周辺</rb><rt>しゅうへん</rt></ruby>の<ruby><rb>島々</rb><rt>しまじま</rt></ruby>をふくむ<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。<ruby><rb>東</rb><rt>ひがし</rt></ruby>は<ruby><rb>大西洋</rb><rt>たいせいよう</rt></ruby>、<ruby><rb>西</rb><rt>にし</rt></ruby>は<ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>に<ruby><rb>面</rb><rt>めん</rt></ruby>し、<ruby><rb>北</rb><rt>きた</rt></ruby>は<ruby><rb>北</rb><rt>きた</rt></ruby>アメリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>につながる。ブラジル・アルゼンチン・チリなどの<ruby><rb>国</rb><rt>くに</rt></ruby>がある。<ruby><rb>南米</rb><rt>なんべい</rt></ruby>。
+- word: 環境省
+  descriptions:
+  - <ruby><rb>公害</rb><rt>こうがい</rt></ruby>をなくし、<ruby><rb>自然</rb><rt>しぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: コンテナー
+  descriptions:
+  - <ruby><rb>貨物</rb><rt>かもつ</rt></ruby>の<ruby><rb>輸送</rb><rt>ゆそう</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>箱</rb><rt>はこ</rt></ruby>。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて、そのまま<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックで<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ。コンテナ。
+- word: 殺す
+  descriptions:
+  - <ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - （<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。
+  - <ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+web_news_url: /news/web/2017/06/14/死に至ることもある強毒ヒアリ-国内初確認/
+source_url: http://www3.nhk.or.jp/news/easy/k10011017691000/k10011017691000.html
+...
