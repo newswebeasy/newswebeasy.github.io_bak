@@ -1,0 +1,90 @@
+---
+layout: easy_news
+newsid: k10011019451000
+categories: easy
+title: 運転する人が乗っていない車を自動で走らせる実験を行う
+title_with_ruby: <ruby>運転<rt>うんてん</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>乗<rt>の</rt></ruby>っていない<ruby>車<rt>くるま</rt></ruby>を<ruby>自動<rt>じどう</rt></ruby>で<ruby>走<rt>はし</rt></ruby>らせる<ruby>実験<rt>じっけん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う
+last_modified_at: '2017-06-16T16:35:00+09:00'
+datetime: 2017年06月16日 16時35分
+description: ヤマハ発動機はつどうきと産業技術総合研究所さんぎょうぎじゅつそうごうけんきゅうしょは、運転うんてんする人ひとが乗のっていない車くるまを自動じどうで走はしらせる実験じっけんを行おこないます。
+description_with_ruby: ヤマハ<ruby>発動機<rt>はつどうき</rt></ruby>と<ruby>産業技術総合研究所<rt>さんぎょうぎじゅつそうごうけんきゅうしょ</rt></ruby>は、<ruby>運転<rt>うんてん</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>乗<rt>の</rt></ruby>っていない<ruby>車<rt>くるま</rt></ruby>を<ruby>自動<rt>じどう</rt></ruby>で<ruby>走<rt>はし</rt></ruby>らせる<ruby>実験<rt>じっけん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>います。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/16/k10011019451000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/16/k10011019451000.mp3
+contents: "<p>ヤマハ<ruby>発動機<rt>はつどうき</rt></ruby>と<ruby>産業技術総合研究所<rt>さんぎょうぎじゅつそうごうけんきゅうしょ</rt></ruby>は、<ruby>運転<rt>うんてん</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>乗<rt>の</rt></ruby>っていない<ruby>車<rt>くるま</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>走<rt>はし</rt></ruby>らせる<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>を<ruby>行<rt>おこな</rt></ruby>います。<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>には、<span style=\"color:\
+  \ blue;\">ゴルフ</span><span style=\"color: blue;\"><ruby>場<rt>じょう</rt></ruby></span>などで<ruby>使<rt>つか</rt></ruby>う<span\
+  \ style=\"color: blue;\">カート</span>を<ruby>直<rt>なお</rt></ruby>した<ruby>車<rt>くるま</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>は２６<ruby>日<rt>にち</rt></ruby>から、<ruby>沖縄県<rt>おきなわけん</rt></ruby><ruby>北谷町<rt>ちゃたんちょう</rt></ruby>にある<span\
+  \ style=\"color: blue;\"><ruby>観光地<rt>かんこうち</rt></ruby></span>で<ruby>行<rt>おこな</rt></ruby>います。<ruby>車<rt>くるま</rt></ruby>には<span\
+  \ style=\"color: blue;\">センサー</span>が<span style=\"color: blue;\">つい</span>ていて、<span\
+  \ style=\"color: blue;\"><ruby>地面<rt>じめん</rt></ruby></span>に<span style=\"color:\
+  \ blue;\"><ruby>埋<rt>う</rt></ruby>め</span>た<ruby>線<rt>せん</rt></ruby>からの<span style=\"\
+  color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>を<span style=\"color: blue;\"\
+  ><ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>り</span>ながら、<span style=\"color:\
+  \ blue;\"><ruby>時速<rt>じそく</rt></ruby></span>１０ｋmぐらいで<ruby>走<rt>はし</rt></ruby>ります。<ruby>車<rt>くるま</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>人<rt>ひと</rt></ruby>や<ruby>物<rt>もの</rt></ruby>があると、<span\
+  \ style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>止<rt>と</rt></ruby>まります。<ruby>車<rt>くるま</rt></ruby>にはカメラが<span\
+  \ style=\"color: blue;\">つい</span>ていて、<ruby>人<rt>ひと</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>の<ruby>外<rt>そと</rt></ruby>から<ruby>安全<rt>あんぜん</rt></ruby>かどうかチェックします。</p>\n\
+  <p><ruby>経済産業省<rt>けいざいさんぎょうしょう</rt></ruby>は、この<ruby>車<rt>くるま</rt></ruby>が<ruby>安全<rt>あんぜん</rt></ruby>だと<span\
+  \ style=\"color: blue;\"><ruby>確認<rt>かくにん</rt></ruby></span>できたら、いろいろな<ruby>所<rt>ところ</rt></ruby>で<ruby>使<rt>つか</rt></ruby>いたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 自動
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。
+- word: 実験
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。
+- word: ゴルフ
+  descriptions:
+  - シバを<ruby><rb>植</rb><rt>う</rt></ruby>えた<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>に、１８か<ruby><rb>所</rb><rt>しょ</rt></ruby>の<ruby><rb>穴</rb><rt>あな</rt></ruby>（ホール）のあるコースを<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>小</rb><rt>ちい</rt></ruby>さいボールをクラブで<ruby><rb>打</rb><rt>う</rt></ruby>って、<ruby><rb>穴</rb><rt>あな</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れていく<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+- word: 場
+  descriptions:
+  - ばしょ。
+- word: カート
+  descriptions:
+  - <ruby><rb>手</rb><rt>て</rt></ruby>でおす<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>車</rb><rt>くるま</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>乗</rb><rt>の</rt></ruby>せる、<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>な<ruby><rb>車</rb><rt>くるま</rt></ruby>。
+- word: 観光地
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>が<ruby><rb>美</rb><rt>うつく</rt></ruby>しかったり、<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>があったりして、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: センサー
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>、<ruby><rb>温度</rb><rt>おんど</rt></ruby>などに<ruby><rb>反応</rb><rt>はんのう</rt></ruby>して、<ruby><rb>電気的</rb><rt>でんきてき</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 付く
+  descriptions:
+  - ものがくっつく。
+  - つきそう。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>わる。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まる。
+  - <ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。
+  - <ruby><rb>感</rb><rt>かん</rt></ruby>じる。
+  - ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。
+- word: 地面
+  descriptions:
+  - <ruby><rb>土地</rb><rt>とち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>土</rb><rt>つち</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>。<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>。<ruby><rb>地</rb><rt>じ</rt></ruby>べた。
+  - <ruby><rb>土地</rb><rt>とち</rt></ruby>。<ruby><rb>地所</rb><rt>じしょ</rt></ruby>。
+- word: 埋める
+  descriptions:
+  - <ruby><rb>穴</rb><rt>あな</rt></ruby>をほって<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>土</rb><rt>つち</rt></ruby>や<ruby><rb>砂</rb><rt>すな</rt></ruby>をかぶせる。
+  - ふさいで<ruby><rb>平</rb><rt>たい</rt></ruby>らにする。
+  - すき<ruby><rb>間</rb><rt>ま</rt></ruby>なく、いっぱいにする。
+  - お<ruby><rb>湯</rb><rt>ゆ</rt></ruby>に<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて、ぬるくする。
+  - <ruby><rb>足</rb><rt>た</rt></ruby>りない<ruby><rb>分</rb><rt>ぶん</rt></ruby>を<ruby><rb>補</rb><rt>おぎな</rt></ruby>う。
+- word: 情報
+  descriptions:
+  - できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+- word: 受け取る
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>理解</rb><rt>りかい</rt></ruby>する。
+- word: 時速
+  descriptions:
+  - <ruby><rb>一時間</rb><rt>いちじかん</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>速</rb><rt>はや</rt></ruby>さ。
+- word: 確認
+  descriptions:
+  - <ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>確</rb><rt>たし</rt></ruby>かめること。
+web_news_url: /news/web/2017/06/16/ドライバーなしの車両走行実験-沖縄で今月実施へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011019451000/k10011019451000.html
+...
