@@ -1,0 +1,37 @@
+---
+layout: easy_news
+newsid: k10011017601000
+categories: easy
+title: 田沢湖からいなくなった魚「クニマスが帰ってきた」
+title_with_ruby: <ruby>田沢湖<rt>たざわこ</rt></ruby>からいなくなった<ruby>魚<rt>さかな</rt></ruby>「クニマスが<ruby>帰<rt>かえ</rt></ruby>ってきた」
+last_modified_at: '2017-06-16T11:30:00+09:00'
+datetime: 2017年06月16日 11時30分
+description: クニマスは、秋田県あきたけん仙北市せんぼくしにある田沢湖たざわこだけにいた魚さかなです。
+description_with_ruby: クニマスは、<ruby>秋田県<rt>あきたけん</rt></ruby><ruby>仙北市<rt>せんぼくし</rt></ruby>にある<ruby>田沢湖<rt>たざわこ</rt></ruby>だけにいた<ruby>魚<rt>さかな</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/16/k10011017601000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/16/k10011017601000.mp3
+contents: "<p>クニマスは、<ruby>秋田県<rt>あきたけん</rt></ruby><ruby>仙北市<rt>せんぼくし</rt></ruby>にある<ruby>田沢湖<rt>たざわこ</rt></ruby>だけにいた<ruby>魚<rt>さかな</rt></ruby>です。<ruby>湖<rt>みずうみ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>水質<rt>すいしつ</rt></ruby></span>が<ruby>変<rt>か</rt></ruby>わったため、８０<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>にいなくなったと<ruby>言<rt>い</rt></ruby>われていました。</p>\n\
+  <p>７<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>、<ruby>山梨県<rt>やまなしけん</rt></ruby>の<ruby>西湖<rt>さいこ</rt></ruby>でクニマスが<ruby>見<rt>み</rt></ruby>つかりました。<ruby>仙北市<rt>せんぼくし</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>人工授精<rt>じんこうじゅせい</rt></ruby></span>で<ruby>生<rt>う</rt></ruby>まれたクニマス１０<ruby>匹<rt>ぴき</rt></ruby>を<ruby>山梨県<rt>やまなしけん</rt></ruby>から<ruby>借<rt>か</rt></ruby>りて、この<ruby>中<rt>なか</rt></ruby>の５<ruby>匹<rt>ひき</rt></ruby>を<ruby>田沢湖<rt>たざわこ</rt></ruby>のそばの<ruby>建物<rt>たてもの</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>移<rt>うつ</rt></ruby>し</span>ました。ここで７<ruby>月<rt>がつ</rt></ruby>からみんなに<ruby>見<rt>み</rt></ruby>せることにしています。</p>\n\
+  <p>お<ruby>父<rt>とう</rt></ruby>さんが<span style=\"color: blue;\"><ruby>漁師<rt>りょうし</rt></ruby></span>だったという<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>がかかりましたが、クニマスが<ruby>帰<rt>かえ</rt></ruby>ってきてくれました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 水質
+  descriptions:
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。<ruby><rb>水</rb><rt>みず</rt></ruby>にとけている<ruby><rb>成分</rb><rt>せいぶん</rt></ruby>。
+- word: 人工授精
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>手</rb><rt>て</rt></ruby>によって、<ruby><rb>精子</rb><rt>せいし</rt></ruby>と<ruby><rb>卵子</rb><rt>らんし</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>びつけること。
+- word: 移す
+  descriptions:
+  - <ruby><rb>場所</rb><rt>ばしょ</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - ものごとを<ruby><rb>進</rb><rt>すす</rt></ruby>める。
+  - <ruby><rb>感染</rb><rt>かんせん</rt></ruby>させる。
+- word: 漁師
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>貝</rb><rt>かい</rt></ruby>などをとることを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>としている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>漁夫</rb><rt>ぎょふ</rt></ruby>。
+web_news_url: /news/web/2017/06/14/クニマス-ふるさと田沢湖のほとりの施設に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011017601000/k10011017601000.html
+...
