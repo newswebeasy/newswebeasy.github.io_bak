@@ -1,0 +1,68 @@
+---
+layout: easy_news
+newsid: k10011019711000
+categories: easy
+title: フェイスブック　テロがなくなるように人工知能を使う
+title_with_ruby: フェイスブック　テロがなくなるように<ruby>人工知能<rt>じんこうちのう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う
+last_modified_at: '2017-06-19T11:30:00+09:00'
+datetime: 2017年06月19日 11時30分
+description: インターネットのソーシャルメディアが原因げんいんで、テロなどを起おこそうという危険きけんな考かんがえ方かたを持もつ人ひとがいて、問題もんだいになっています。
+description_with_ruby: インターネットのソーシャルメディアが<ruby>原因<rt>げんいん</rt></ruby>で、テロなどを<ruby>起<rt>お</rt></ruby>こそうという<ruby>危険<rt>きけん</rt></ruby>な<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>人<rt>ひと</rt></ruby>がいて、<ruby>問題<rt>もんだい</rt></ruby>になっています。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/19/k10011019711000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/19/k10011019711000.mp3
+contents: "<p>インターネットのソーシャルメディアが<ruby>原因<rt>げんいん</rt></ruby>で、<span style=\"color:\
+  \ blue;\">テロ</span>などを<span style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こそ</span>うという<ruby>危険<rt>きけん</rt></ruby>な<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>人<rt>ひと</rt></ruby>がいて、<ruby>問題<rt>もんだい</rt></ruby>になっています。</p>\n\
+  <p><ruby>世界<rt>せかい</rt></ruby>で２０<ruby>億<rt>おく</rt></ruby><ruby>人<rt>にん</rt></ruby>ぐらいが<ruby>利用<rt>りよう</rt></ruby>しているアメリカのフェイスブックは、<span\
+  \ style=\"color: blue;\">テロ</span>がなくなるように「<ruby>人工知能<rt>じんこうちのう</rt></ruby>」を<ruby>使<rt>つか</rt></ruby>うと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<ruby>人工知能<rt>じんこうちのう</rt></ruby>は、<ruby>人<rt>ひと</rt></ruby>のように<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>えるコンピューターです。</p>\n\
+  <p><ruby>人工知能<rt>じんこうちのう</rt></ruby>は、<span style=\"color: blue;\">テロ</span>を<span\
+  \ style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こし</span>た<span style=\"color:\
+  \ blue;\"><ruby>容疑者<rt>ようぎしゃ</rt></ruby></span>の<ruby>写真<rt>しゃしん</rt></ruby>や<span\
+  \ style=\"color: blue;\">ビデオ</span>、<span style=\"color: blue;\">テロ</span>を<span\
+  \ style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こす</span>ように<ruby>言<rt>い</rt></ruby>っている<span\
+  \ style=\"color: blue;\">メッセージ</span>などを<ruby>探<rt>さが</rt></ruby>します。そして、<ruby>写真<rt>しゃしん</rt></ruby>などを<ruby>見<rt>み</rt></ruby>つけたら、フェイスブックに<ruby>出<rt>だ</rt></ruby>すことができないようにします。</p>\n\
+  <p>ほかにも、いろいろな<ruby>国<rt>くに</rt></ruby>のことばがわかる１５０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<span\
+  \ style=\"color: blue;\">メッセージ</span>などをチェックします。</p>\n<p></p>\n<p></p>"
+words:
+- word: テロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: 起こす
+  descriptions:
+  - （<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。
+  - <ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。
+  - （<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。
+  - ほりかえす。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 起こす
+  descriptions:
+  - （<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。
+  - <ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。
+  - （<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。
+  - ほりかえす。
+- word: 容疑者
+  descriptions:
+  - <ruby><rb>罪</rb><rt>つみ</rt></ruby>をおかした<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: ビデオ
+  descriptions:
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。
+  - 「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 起こす
+  descriptions:
+  - （<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。
+  - <ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。
+  - （<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。
+  - ほりかえす。
+- word: メッセージ
+  descriptions:
+  - <ruby><rb>伝言</rb><rt>でんごん</rt></ruby>。
+  - <ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>のことば。<ruby><rb>声明文</rb><rt>せいめいぶん</rt></ruby>。
+web_news_url: /news/web/2017/06/16/フェイスブック-人工知能を導入-問題ある投稿防止へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011019711000/k10011019711000.html
+...
