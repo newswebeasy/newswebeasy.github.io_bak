@@ -1,0 +1,53 @@
+---
+layout: easy_news
+newsid: k10011022421000
+categories: easy
+title: 世界で有名なゴルフの大会で松山選手が２番になる
+title_with_ruby: <ruby>世界<rt>せかい</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>なゴルフの<ruby>大会<rt>たいかい</rt></ruby>で<ruby>松山<rt>まつやま</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が２<ruby>番<rt>ばん</rt></ruby>になる
+last_modified_at: '2017-06-19T16:15:00+09:00'
+datetime: 2017年06月19日 16時15分
+description: アメリカで１５日にちから１８日にちまで、世界せかいで有名ゆうめいなゴルフの大会たいかいの「全米ぜんべいオープン」がありました。
+description_with_ruby: アメリカで１５<ruby>日<rt>にち</rt></ruby>から１８<ruby>日<rt>にち</rt></ruby>まで、<ruby>世界<rt>せかい</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>なゴルフの<ruby>大会<rt>たいかい</rt></ruby>の「<ruby>全米<rt>ぜんべい</rt></ruby>オープン」がありました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/19/k10011022421000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/19/k10011022421000.mp3
+contents: "<p>アメリカで１５<ruby>日<rt>にち</rt></ruby>から１８<ruby>日<rt>にち</rt></ruby>まで、<ruby>世界<rt>せかい</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>な<span\
+  \ style=\"color: blue;\">ゴルフ</span>の<span style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>の「<ruby>全米<rt>ぜんべい</rt></ruby>オープン」がありました。この<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>で<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>松山<rt>まつやま</rt></ruby><ruby>英樹<rt>ひでき</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>の<ruby>次<rt>つぎ</rt></ruby>の２<ruby>番<rt>ばん</rt></ruby>になりました。</p>\n\
+  <p><ruby>世界<rt>せかい</rt></ruby>の<ruby>有名<rt>ゆうめい</rt></ruby>な<span style=\"color:\
+  \ blue;\">ゴルフ</span>の<span style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>で２<ruby>番<rt>ばん</rt></ruby>になった<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、１９８０<ruby>年<rt>ねん</rt></ruby>の<ruby>青木<rt>あおき</rt></ruby><ruby>功<rt>いさお</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>に<ruby>続<rt>つづ</rt></ruby>いて<ruby>２人<rt>ふたり</rt></ruby><ruby>目<rt>め</rt></ruby>です。<span\
+  \ style=\"color: blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>した<span style=\"color:\
+  \ blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>はまだいません。</p>\n<p><ruby>松山<rt>まつやま</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は「いい<span style=\"color:\
+  \ blue;\">プレー</span>ができてうれしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n<p><ruby>松山<rt>まつやま</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>日本人<rt>にっぽんじん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>世界<rt>せかい</rt></ruby><span\
+  \ style=\"color: blue;\">ランキング</span>の２<ruby>番<rt>ばん</rt></ruby>になりました。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: ゴルフ
+  descriptions:
+  - シバを<ruby><rb>植</rb><rt>う</rt></ruby>えた<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>に、１８か<ruby><rb>所</rb><rt>しょ</rt></ruby>の<ruby><rb>穴</rb><rt>あな</rt></ruby>（ホール）のあるコースを<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>小</rb><rt>ちい</rt></ruby>さいボールをクラブで<ruby><rb>打</rb><rt>う</rt></ruby>って、<ruby><rb>穴</rb><rt>あな</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れていく<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+- word: 大会
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+  - ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 優勝
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>などで、<ruby><rb>一位</rb><rt>いちい</rt></ruby>で<ruby><rb>勝</rb><rt>か</rt></ruby>つこと。
+- word: プレー
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>・<ruby><rb>試合</rb><rt>しあい</rt></ruby>。また、その<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>動作</rb><rt>どうさ</rt></ruby>。
+  - <ruby><rb>試合</rb><rt>しあい</rt></ruby>を<ruby><rb>始</rb><rt>はじ</rt></ruby>めること。プレーボール。
+  - <ruby><rb>劇</rb><rt>げき</rt></ruby>などのもよおし<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: ランキング
+  descriptions:
+  - <ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。
+web_news_url: /news/web/2017/06/19/ゴルフ全米オープン-松山が自己最高の2位に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011022421000/k10011022421000.html
+...
