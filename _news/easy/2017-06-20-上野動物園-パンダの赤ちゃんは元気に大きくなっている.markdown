@@ -1,0 +1,41 @@
+---
+layout: easy_news
+newsid: k10011022831000
+categories: easy
+title: 上野動物園　パンダの赤ちゃんは元気に大きくなっている
+title_with_ruby: <ruby>上野<rt>うえの</rt></ruby><ruby>動物園<rt>どうぶつえん</rt></ruby>　パンダの<ruby>赤<rt>あか</rt></ruby>ちゃんは<ruby>元気<rt>げんき</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きくなっている
+last_modified_at: '2017-06-20T17:00:00+09:00'
+datetime: 2017年06月20日 17時00分
+description: １２日にちに東京とうきょうの上野うえの動物園どうぶつえんでパンダの赤あかちゃんが生うまれてから、１週間しゅうかんになりました。
+description_with_ruby: １２<ruby>日<rt>にち</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>上野<rt>うえの</rt></ruby><ruby>動物園<rt>どうぶつえん</rt></ruby>でパンダの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれてから、１<ruby>週間<rt>しゅうかん</rt></ruby>になりました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/20/k10011022831000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/20/k10011022831000.mp3
+contents: "<p>１２<ruby>日<rt>にち</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>上野<rt>うえの</rt></ruby><ruby>動物園<rt>どうぶつえん</rt></ruby>で<span\
+  \ style=\"color: blue;\">パンダ</span>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれてから、１<ruby>週間<rt>しゅうかん</rt></ruby>になりました。</p>\n\
+  <p><ruby>赤<rt>あか</rt></ruby>ちゃんは、お<ruby>母<rt>かあ</rt></ruby>さんの<span style=\"color:\
+  \ blue;\"><ruby>乳<rt>ちち</rt></ruby></span>を<ruby>飲<rt>の</rt></ruby>んで<ruby>元気<rt>げんき</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きくなっています。１７<ruby>日<rt>にち</rt></ruby>には１７９ｇになりました。<ruby>体<rt>からだ</rt></ruby>の<ruby>毛<rt>け</rt></ruby>の<ruby>色<rt>いろ</rt></ruby>は<ruby>白<rt>しろ</rt></ruby>で、<ruby>目<rt>め</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りや<ruby>耳<rt>みみ</rt></ruby>などは<ruby>薄<rt>うす</rt></ruby>い<ruby>黒<rt>くろ</rt></ruby>になりました。</p>\n\
+  <p>お<ruby>母<rt>かあ</rt></ruby>さんの「シンシン」は、ずっと<ruby>赤<rt>あか</rt></ruby>ちゃんを<span style=\"\
+  color: blue;\"><ruby>抱<rt>だ</rt></ruby>い</span>て<ruby>世話<rt>せわ</rt></ruby>をしています。<ruby>動物園<rt>どうぶつえん</rt></ruby>は、シンシンが<ruby>大好<rt>だいす</rt></ruby>きな<span\
+  \ style=\"color: blue;\">たけのこ</span>などをあげていて、これからも<span style=\"color: blue;\"><ruby>乳<rt>ちち</rt></ruby></span>がたくさん<ruby>出<rt>で</rt></ruby>るようにしたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: パンダ
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中央部</rb><rt>ちゅうおうぶ</rt></ruby>にすむけもの。ジャイアントパンダとレッサーパンダがいる。
+  - <ruby><rb>特</rb><rt>とく</rt></ruby>にジャイアントパンダ。<ruby><rb>中国西部</rb><rt>ちゅうごくせいぶ</rt></ruby>の<ruby><rb>山地</rb><rt>さんち</rt></ruby>にすむ。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>に<ruby><rb>色分</rb><rt>いろわ</rt></ruby>けされて、<ruby><rb>顔</rb><rt>かお</rt></ruby>つきや<ruby><rb>動作</rb><rt>どうさ</rt></ruby>がかわいい。
+- word: 乳
+  descriptions:
+  - <ruby><rb>生</rb><rt>う</rt></ruby>んだ<ruby><rb>子</rb><rt>こ</rt></ruby>に<ruby><rb>飲</rb><rt>の</rt></ruby>ませるために、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>の<ruby><rb>乳房</rb><rt>ちぶさ</rt></ruby>から<ruby><rb>出</rb><rt>で</rt></ruby>る、<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>色</rb><rt>いろ</rt></ruby>のしる。
+  - <ruby><rb>乳房</rb><rt>ちぶさ</rt></ruby>のこと。
+  - <ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>。
+- word: 抱く
+  descriptions:
+  - <ruby><rb>腕</rb><rt>うで</rt></ruby>でかかえて<ruby><rb>持</rb><rt>も</rt></ruby>つ。
+  - ある<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>持</rb><rt>も</rt></ruby>つ。
+  - <ruby><rb>温</rb><rt>あたた</rt></ruby>めてひなをかえす。
+- word: 竹の子
+  descriptions:
+  - <ruby><rb>竹</rb><rt>たけ</rt></ruby>の、<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>芽</rb><rt>め</rt></ruby>。<ruby><rb>茶色</rb><rt>ちゃいろ</rt></ruby>の<ruby><rb>皮</rb><rt>かわ</rt></ruby>に<ruby><rb>包</rb><rt>つつ</rt></ruby>まれている。<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>になる。
+web_news_url: /news/web/2017/06/19/パンダの赤ちゃん誕生1週間-順調に成長/
+source_url: http://www3.nhk.or.jp/news/easy/k10011022831000/k10011022831000.html
+...
