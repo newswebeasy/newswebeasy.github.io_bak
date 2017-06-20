@@ -1,0 +1,46 @@
+---
+layout: easy_news
+newsid: k10011022131000
+categories: easy
+title: ハワイ　昔と同じ形の舟が星や太陽を利用して世界を回った
+title_with_ruby: ハワイ　<ruby>昔<rt>むかし</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<ruby>形<rt>かたち</rt></ruby>の<ruby>舟<rt>ふね</rt></ruby>が<ruby>星<rt>ほし</rt></ruby>や<ruby>太陽<rt>たいよう</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>して<ruby>世界<rt>せかい</rt></ruby>を<ruby>回<rt>まわ</rt></ruby>った
+last_modified_at: '2017-06-20T11:30:00+09:00'
+datetime: 2017年06月20日 11時30分
+description: アメリカのハワイでは１７日にち、３年ねん前まえに約やく１０人にんが乗のって出発しゅっぱつした「ホクレア号ごう」という舟ふねが帰かえってきました。
+description_with_ruby: アメリカのハワイでは１７<ruby>日<rt>にち</rt></ruby>、３<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>約<rt>やく</rt></ruby>１０<ruby>人<rt>にん</rt></ruby>が<ruby>乗<rt>の</rt></ruby>って<ruby>出発<rt>しゅっぱつ</rt></ruby>した「ホクレア<ruby>号<rt>ごう</rt></ruby>」という<ruby>舟<rt>ふね</rt></ruby>が<ruby>帰<rt>かえ</rt></ruby>ってきました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/20/k10011022131000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/20/k10011022131000.mp3
+contents: "<p>アメリカのハワイでは１７<ruby>日<rt>にち</rt></ruby>、３<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１０<ruby>人<rt>にん</rt></ruby>が<ruby>乗<rt>の</rt></ruby>って<ruby>出発<rt>しゅっぱつ</rt></ruby>した「ホクレア<ruby>号<rt>ごう</rt></ruby>」という<ruby>舟<rt>ふね</rt></ruby>が<ruby>帰<rt>かえ</rt></ruby>ってきました。<ruby>舟<rt>ふね</rt></ruby>は、<ruby>昔<rt>むかし</rt></ruby>ハワイなどで<ruby>遠<rt>とお</rt></ruby>くまで<ruby>海<rt>うみ</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>るときに<ruby>使<rt>つか</rt></ruby>っていた<span\
+  \ style=\"color: blue;\">カヌー</span>と<ruby>同<rt>おな</rt></ruby>じように<ruby>作<rt>つく</rt></ruby>りました。</p>\n\
+  <p>ホクレア<ruby>号<rt>ごう</rt></ruby>は、ハワイから<ruby>西<rt>にし</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<ruby>世界<rt>せかい</rt></ruby>を<ruby>回<rt>まわ</rt></ruby>って、<ruby>海<rt>うみ</rt></ruby>を７<ruby>万<rt>まん</rt></ruby>４０００ｋｍ<ruby>渡<rt>わた</rt></ruby>ってきました。<ruby>海<rt>うみ</rt></ruby>では、<ruby>地図<rt>ちず</rt></ruby>や<span\
+  \ style=\"color: blue;\">コンパス</span>ではなくて、<ruby>星<rt>ほし</rt></ruby>や<span style=\"\
+  color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>などを<ruby>利用<rt>りよう</rt></ruby>しました。</p>\n\
+  <p>ハワイではたくさんの<ruby>船<rt>ふね</rt></ruby>と<ruby>人<rt>ひと</rt></ruby>が<ruby>迎<rt>むか</rt></ruby>えました。</p>\n\
+  <p>ホクレア<ruby>号<rt>ごう</rt></ruby>を<ruby>持<rt>も</rt></ruby>っている<span style=\"color:\
+  \ blue;\">グループ</span>は、<ruby>昔<rt>むかし</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じやり<ruby>方<rt>かた</rt></ruby>で<ruby>世界<rt>せかい</rt></ruby>を<ruby>回<rt>まわ</rt></ruby>った<ruby>舟<rt>ふね</rt></ruby>は<ruby>初<rt>はじ</rt></ruby>めてだろうと<ruby>言<rt>い</rt></ruby>っています。ホクレア<ruby>号<rt>ごう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちは、ハワイの<ruby>子<rt>こ</rt></ruby>どもたちに<ruby>海<rt>うみ</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>った<ruby>経験<rt>けいけん</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えることにしています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 太陽
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: カヌー
+  descriptions:
+  - <ruby><rb>木</rb><rt>き</rt></ruby>をくりぬいて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>丸木舟</rb><rt>まるきぶね</rt></ruby>。
+  - 「<span class="dic_sansyogogi">1)</span>」に<ruby><rb>似</rb><rt>に</rt></ruby>せて<ruby><rb>作</rb><rt>つく</rt></ruby>った、カヌー<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>うボート。また、その<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+- word: コンパス
+  descriptions:
+  - <ruby><rb>円</rb><rt>えん</rt></ruby>をかくときに<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>二本足</rb><rt>にほんあし</rt></ruby>の<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>や<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>が<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>を<ruby><rb>測</rb><rt>はか</rt></ruby>る<ruby><rb>器具</rb><rt>きぐ</rt></ruby>。<ruby><rb>羅針盤</rb><rt>らしんばん</rt></ruby>。
+  - <ruby><rb>両足</rb><rt>りょうあし</rt></ruby>の<ruby><rb>開</rb><rt>ひら</rt></ruby>き。<ruby><rb>歩</rb><rt>ほ</rt></ruby>はば。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+web_news_url: /news/web/2017/06/18/星や太陽を頼りに航海-ハワイ伝統のカヌーが世界一周/
+source_url: http://www3.nhk.or.jp/news/easy/k10011022131000/k10011022131000.html
+...
