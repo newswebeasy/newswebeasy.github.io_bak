@@ -1,0 +1,71 @@
+---
+layout: easy_news
+newsid: k10011023401000
+categories: easy
+title: イギリス　イスラム教の人たちに車が突っ込む
+title_with_ruby: イギリス　イスラム<ruby>教<rt>きょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちに<ruby>車<rt>くるま</rt></ruby>が<ruby>突<rt>つ</rt></ruby>っ<ruby>込<rt>こ</rt></ruby>む
+last_modified_at: '2017-06-20T17:00:00+09:00'
+datetime: 2017年06月20日 17時00分
+description: イギリスのロンドンで１９日にち、お祈いのりが終おわってモスクから出でてきたイスラム教きょうの人ひとたちに車くるまが突つっ込こみました。
+description_with_ruby: イギリスのロンドンで１９<ruby>日<rt>にち</rt></ruby>、お<ruby>祈<rt>いの</rt></ruby>りが<ruby>終<rt>お</rt></ruby>わってモスクから<ruby>出<rt>で</rt></ruby>てきたイスラム<ruby>教<rt>きょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちに<ruby>車<rt>くるま</rt></ruby>が<ruby>突<rt>つ</rt></ruby>っ<ruby>込<rt>こ</rt></ruby>みました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/20/k10011023401000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/20/k10011023401000.mp3
+contents: "<p>イギリスのロンドンで１９<ruby>日<rt>にち</rt></ruby>、お<ruby>祈<rt>いの</rt></ruby>りが<ruby>終<rt>お</rt></ruby>わってモスクから<ruby>出<rt>で</rt></ruby>てきた<span\
+  \ style=\"color: blue;\">イスラム<ruby>教<rt>きょう</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>たちに<ruby>車<rt>くるま</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>突<rt>つ</rt></ruby>っ<ruby>込<rt>こ</rt></ruby>み</span>ました。<ruby>１人<rt>ひとり</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、１０<ruby>人<rt>にん</rt></ruby>がけがをしました。<ruby>警察<rt>けいさつ</rt></ruby>は、<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>していた４７<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>逮捕<rt>たいほ</rt></ruby></span>しました。</p>\n<p>イギリスでは<ruby>今年<rt>ことし</rt></ruby>の３<ruby>月<rt>がつ</rt></ruby>から、<ruby>男<rt>おとこ</rt></ruby>たちが<span\
+  \ style=\"color: blue;\">イスラム<ruby>教<rt>きょう</rt></ruby></span>のためだと<ruby>考<rt>かんが</rt></ruby>えて<span\
+  \ style=\"color: blue;\">テロ</span>を<span style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こし</span>たことが３<ruby>回<rt>かい</rt></ruby>ありました。</p>\n\
+  <p>イギリスのテレビなどは、<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>していた<ruby>男<rt>おとこ</rt></ruby>が「<span\
+  \ style=\"color: blue;\">イスラム<ruby>教<rt>きょう</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>はみんな<span\
+  \ style=\"color: blue;\"><ruby>殺<rt>ころ</rt></ruby>す</span>」と<ruby>言<rt>い</rt></ruby>っていたと<ruby>伝<rt>つた</rt></ruby>えています。</p>\n\
+  <p>メイ<ruby>首相<rt>しゅしょう</rt></ruby>は、<span style=\"color: blue;\">イスラム<ruby>教<rt>きょう</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>たちを<span\
+  \ style=\"color: blue;\"><ruby>敵<rt>てき</rt></ruby></span>だと<ruby>考<rt>かんが</rt></ruby>えている<ruby>男<rt>おとこ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>事件<rt>じけん</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>起<rt>お</rt></ruby>こし</span>たと<ruby>思<rt>おも</rt></ruby>うと<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: イスラム教
+  descriptions:
+  - <ruby><rb>七世紀</rb><rt>ななせいき</rt></ruby><ruby><rb>初</rb><rt>はじ</rt></ruby>め、アラビアでムハンマドが<ruby><rb>始</rb><rt>はじ</rt></ruby>めた、<ruby><rb>唯一</rb><rt>ゆいいつ</rt></ruby>の<ruby><rb>神</rb><rt>かみ</rt></ruby>アッラーを<ruby><rb>信</rb><rt>しん</rt></ruby>じる<ruby><rb>宗教</rb><rt>しゅうきょう</rt></ruby>。<ruby><rb>回教</rb><rt>かいきょう</rt></ruby>。
+- word: 突っ込む
+  descriptions:
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>入</rb><rt>はい</rt></ruby>りこむ。
+  - <ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る。
+  - ものごとにかかわる。<ruby><rb>関係</rb><rt>かんけい</rt></ruby>する。
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れる。
+- word: 突っ込む
+  descriptions:
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>入</rb><rt>はい</rt></ruby>りこむ。
+  - <ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る。
+  - ものごとにかかわる。<ruby><rb>関係</rb><rt>かんけい</rt></ruby>する。
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れる。
+- word: 逮捕
+  descriptions:
+  - <ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>がつかまえること。
+- word: テロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: 起こす
+  descriptions:
+  - （<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。
+  - <ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。
+  - （<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。
+  - ほりかえす。
+- word: 殺す
+  descriptions:
+  - <ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - （<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。
+  - <ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。
+- word: 敵
+  descriptions:
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>相手</rb><rt>あいて</rt></ruby>。うらみを<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>相手</rb><rt>あいて</rt></ruby>。かたき。
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>になる。
+- word: 事件
+  descriptions:
+  - ふだんないような、できごと。
+web_news_url: /news/web/2017/06/20/英-イスラム教徒に車突入は相次ぐテロへの報復か/
+source_url: http://www3.nhk.or.jp/news/easy/k10011023401000/k10011023401000.html
+...
