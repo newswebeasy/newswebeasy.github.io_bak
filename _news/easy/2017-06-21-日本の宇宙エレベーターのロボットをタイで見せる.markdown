@@ -1,0 +1,77 @@
+---
+layout: easy_news
+newsid: k10011022701000
+categories: easy
+title: 日本の「宇宙エレベーター」のロボットをタイで見せる
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の「<ruby>宇宙<rt>うちゅう</rt></ruby>エレベーター」のロボットをタイで<ruby>見<rt>み</rt></ruby>せる
+last_modified_at: '2017-06-21T11:30:00+09:00'
+datetime: 2017年06月21日 11時30分
+description: 「宇宙うちゅうエレベーター」は、地球ちきゅうから高たかさ３万まん６０００ｋmにある人工衛星じんこうえいせいに、ケーブルを使つかって人ひとや物ものを運はこぶ技術ぎじゅつです。
+description_with_ruby: 「<ruby>宇宙<rt>うちゅう</rt></ruby>エレベーター」は、<ruby>地球<rt>ちきゅう</rt></ruby>から<ruby>高<rt>たか</rt></ruby>さ３<ruby>万<rt>まん</rt></ruby>６０００ｋmにある<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>に、ケーブルを<ruby>使<rt>つか</rt></ruby>って<ruby>人<rt>ひと</rt></ruby>や<ruby>物<rt>もの</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>技術<rt>ぎじゅつ</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/21/k10011022701000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/21/k10011022701000.mp3
+contents: "<p>「<ruby>宇宙<rt>うちゅう</rt></ruby>エレベーター」は、<span style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>から<ruby>高<rt>たか</rt></ruby>さ３<ruby>万<rt>まん</rt></ruby>６０００ｋmにある<span\
+  \ style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>に、<span style=\"\
+  color: blue;\">ケーブル</span>を<ruby>使<rt>つか</rt></ruby>って<ruby>人<rt>ひと</rt></ruby>や<ruby>物<rt>もの</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>技術<rt>ぎじゅつ</rt></ruby>です。</p>\n\
+  <p>タイのバンコクで１９<ruby>日<rt>にち</rt></ruby>に<span style=\"color: blue;\">イベント</span>があって、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>宇宙<rt>うちゅう</rt></ruby>エレベーターの<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>せました。<ruby>神奈川<rt>かながわ</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>たちが<ruby>作<rt>つく</rt></ruby>った<span\
+  \ style=\"color: blue;\">ロボット</span>が、<ruby>高<rt>たか</rt></ruby>さ１００ｍのビルの<ruby>屋上<rt>おくじょう</rt></ruby>まで<span\
+  \ style=\"color: blue;\">ケーブル</span>を<ruby>使<rt>つか</rt></ruby>って<span style=\"color:\
+  \ blue;\"><ruby>上<rt>のぼ</rt></ruby>っ</span>たり、<ruby>下<rt>お</rt></ruby>りたりしました。</p>\n\
+  <p><span style=\"color: blue;\">イベント</span>にはタイの<ruby>大学<rt>だいがく</rt></ruby>や<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>などが<ruby>集<rt>あつ</rt></ruby>まりました。<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>宇宙<rt>うちゅう</rt></ruby>エレベーター<ruby>協会<rt>きょうかい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>会長<rt>かいちょう</rt></ruby></span>は、「<ruby>宇宙<rt>うちゅう</rt></ruby>エレベーターは２１<span\
+  \ style=\"color: blue;\"><ruby>世紀<rt>せいき</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>中<rt>なか</rt></ruby>ごろ</span>にできると<ruby>考<rt>かんが</rt></ruby>えています。<ruby>日本<rt>にっぽん</rt></ruby>とタイで<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>宇宙<rt>うちゅう</rt></ruby>エレベーターを<ruby>作<rt>つく</rt></ruby>りましょう」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p><ruby>宇宙<rt>うちゅう</rt></ruby>エレベーターは、<span style=\"color: blue;\"><ruby>赤道<rt>せきどう</rt></ruby></span>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>作<rt>つく</rt></ruby>ったほうがいいため、<ruby>日本<rt>にっぽん</rt></ruby>はタイなど<span\
+  \ style=\"color: blue;\"><ruby>東南<rt>とうなん</rt></ruby>アジア</span>の<ruby>国<rt>くに</rt></ruby>と<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>したいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ロボット
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>磁気</rb><rt>じき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。<ruby><rb>人造</rb><rt>じんぞう</rt></ruby><ruby><rb>人間</rb><rt>にんげん</rt></ruby>。
+  - <ruby><rb>工場</rb><rt>こうじょう</rt></ruby>などで<ruby><rb>人間</rb><rt>にんげん</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって、<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。
+  - （いつも）<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>いなりになって<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: 人工衛星
+  descriptions:
+  - ロケットで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げ、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>るようにした、<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>。<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>のようすや<ruby><rb>気象</rb><rt>きしょう</rt></ruby>などを<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>などの<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>の<ruby><rb>中継</rb><rt>ちゅうけい</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>てたりする。
+- word: ケーブル
+  descriptions:
+  - <ruby><rb>針金</rb><rt>はりがね</rt></ruby>などをより<ruby><rb>合</rb><rt>あ</rt></ruby>わせた<ruby><rb>太</rb><rt>ふと</rt></ruby>いつな。
+  - <ruby><rb>何本</rb><rt>なんぼん</rt></ruby>もの<ruby><rb>電線</rb><rt>でんせん</rt></ruby>を<ruby><rb>束</rb><rt>たば</rt></ruby>ねて<ruby><rb>一本</rb><rt>いっぽん</rt></ruby>にした<ruby><rb>線</rb><rt>せん</rt></ruby>。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 上る
+  descriptions:
+  - <ruby><rb>上</rb><rt>うえ</rt></ruby>のほうへいく。
+  - <ruby><rb>川</rb><rt>かわ</rt></ruby>の<ruby><rb>上流</rb><rt>じょうりゅう</rt></ruby>へ<ruby><rb>進</rb><rt>すす</rt></ruby>む。さかのぼる。
+  - <ruby><rb>地方</rb><rt>ちほう</rt></ruby>から<ruby><rb>都</rb><rt>みやこ</rt></ruby>へ<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - <ruby><rb>地位</rb><rt>ちい</rt></ruby>が<ruby><rb>高</rb><rt>たか</rt></ruby>くなる。
+  - <ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>が、あるところまで<ruby><rb>達</rb><rt>たっ</rt></ruby>する。…にもなる。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>げられる。
+- word: 会長
+  descriptions:
+  - <ruby><rb>会</rb><rt>かい</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 世紀
+  descriptions:
+  - １００<ruby><rb>年</rb><rt>ねん</rt></ruby>を<ruby><rb>単位</rb><rt>たんい</rt></ruby>として<ruby><rb>数</rb><rt>かぞ</rt></ruby>える<ruby><rb>年代</rb><rt>ねんだい</rt></ruby>の<ruby><rb>数</rb><rt>かぞ</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>西暦</rb><rt>せいれき</rt></ruby>１<ruby><rb>年</rb><rt>ねん</rt></ruby>から１００<ruby><rb>年</rb><rt>ねん</rt></ruby>までを<ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>と<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶ。<ruby><rb>２１世紀</rb><rt>にじゅういっせいき</rt></ruby>は２００１<ruby><rb>年</rb><rt>ねん</rt></ruby>から２１００<ruby><rb>年</rb><rt>ねん</rt></ruby>まで。
+  - <ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>に<ruby><rb>１度</rb><rt>いちど</rt></ruby>しかないようなもの。
+- word: 中頃
+  descriptions:
+  - <ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>辺</rb><rt>あた</rt></ruby>り。
+- word: 赤道
+  descriptions:
+  - <ruby><rb>北極</rb><rt>ほっきょく</rt></ruby>と<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>から<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>距離</rb><rt>きょり</rt></ruby>にある<ruby><rb>点</rb><rt>てん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んだ<ruby><rb>線</rb><rt>せん</rt></ruby>。この<ruby><rb>線</rb><rt>せん</rt></ruby>を<ruby><rb>０</rb><rt>れい</rt></ruby><ruby><rb>度</rb><rt>ど</rt></ruby>として、<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>に<ruby><rb>緯度</rb><rt>いど</rt></ruby>を<ruby><rb>定</rb><rt>さだ</rt></ruby>める。
+- word: 東南アジア
+  descriptions:
+  - アジアの<ruby><rb>南東部</rb><rt>なんとうぶ</rt></ruby>。ベトナム・ラオス・カンボジア・マレーシア・タイ・ミャンマー・インドネシア・フィリピンなどの<ruby><rb>国</rb><rt>くに</rt></ruby>がある。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+web_news_url: /news/web/2017/06/19/夢の技術宇宙エレベーター-日本の学生ら披露/
+source_url: http://www3.nhk.or.jp/news/easy/k10011022701000/k10011022701000.html
+...
