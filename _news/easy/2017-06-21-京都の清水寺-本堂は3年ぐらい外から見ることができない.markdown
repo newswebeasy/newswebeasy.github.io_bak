@@ -1,0 +1,49 @@
+---
+layout: easy_news
+newsid: k10011023741000
+categories: easy
+title: 京都の清水寺　本堂は３年ぐらい外から見ることができない
+title_with_ruby: <ruby>京都<rt>きょうと</rt></ruby>の<ruby>清水寺<rt>きよみずでら</rt></ruby>　<ruby>本堂<rt>ほんどう</rt></ruby>は３<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>外<rt>そと</rt></ruby>から<ruby>見<rt>み</rt></ruby>ることができない
+last_modified_at: '2017-06-21T16:00:00+09:00'
+datetime: 2017年06月21日 16時00分
+description: 京都きょうとにある清水寺きよみずでらは有名ゆうめいなお寺てらで、１年ねんに６００万まん人にんぐらいが見みに来きます。
+description_with_ruby: <ruby>京都<rt>きょうと</rt></ruby>にある<ruby>清水寺<rt>きよみずでら</rt></ruby>は<ruby>有名<rt>ゆうめい</rt></ruby>なお<ruby>寺<rt>てら</rt></ruby>で、１<ruby>年<rt>ねん</rt></ruby>に６００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>ぐらいが<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/21/k10011023741000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/21/k10011023741000.mp3
+contents: "<p><ruby>京都<rt>きょうと</rt></ruby>にある<ruby>清水寺<rt>きよみずでら</rt></ruby>は<ruby>有名<rt>ゆうめい</rt></ruby>なお<ruby>寺<rt>てら</rt></ruby>で、１<ruby>年<rt>ねん</rt></ruby>に６００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>ぐらいが<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。<ruby>今<rt>いま</rt></ruby>、<ruby>古<rt>ふる</rt></ruby>くなった９つの<ruby>建物<rt>たてもの</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>修理<rt>しゅうり</rt></ruby></span>をしています。</p>\n<p>お<ruby>寺<rt>てら</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>中心<rt>ちゅうしん</rt></ruby></span>の<ruby>建物<rt>たてもの</rt></ruby>で、<span\
+  \ style=\"color: blue;\"><ruby>国宝<rt>こくほう</rt></ruby></span>の「<ruby>本堂<rt>ほんどう</rt></ruby>」は<span\
+  \ style=\"color: blue;\"><ruby>屋根<rt>やね</rt></ruby></span>を<ruby>新<rt>あたら</rt></ruby>しくするため、<ruby>代<rt>か</rt></ruby>わりの<span\
+  \ style=\"color: blue;\"><ruby>屋根<rt>やね</rt></ruby></span>をつくって<ruby>建物<rt>たてもの</rt></ruby>のほとんど<ruby>全部<rt>ぜんぶ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>覆<rt>おお</rt></ruby>い</span>ました。</p>\n<p><ruby>本堂<rt>ほんどう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って<span\
+  \ style=\"color: blue;\">お<ruby>参<rt>まい</rt></ruby>り</span>することはできますが、これから３<ruby>年<rt>ねん</rt></ruby>ぐらいは<ruby>本堂<rt>ほんどう</rt></ruby>を<ruby>外<rt>そと</rt></ruby>から<ruby>見<rt>み</rt></ruby>ることができなくなりました。しかし、<ruby>本堂<rt>ほんどう</rt></ruby>の「<ruby>清水<rt>きよみず</rt></ruby>の<ruby>舞台<rt>ぶたい</rt></ruby>」という<ruby>場所<rt>ばしょ</rt></ruby>から<ruby>京都<rt>きょうと</rt></ruby>の<ruby>景色<rt>けしき</rt></ruby>を<ruby>見<rt>み</rt></ruby>ることはできます。</p>\n\
+  <p><ruby>埼玉県<rt>さいたまけん</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>中学生<rt>ちゅうがくせい</rt></ruby>は「<ruby>本堂<rt>ほんどう</rt></ruby>が<ruby>外<rt>そと</rt></ruby>から<ruby>見<rt>み</rt></ruby>えなくて<ruby>残念<rt>ざんねん</rt></ruby>でしたが、<ruby>京都<rt>きょうと</rt></ruby>の<ruby>景色<rt>けしき</rt></ruby>はすばらしかったです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 修理
+  descriptions:
+  - こわれているところを<ruby><rb>直</rb><rt>なお</rt></ruby>すこと。<ruby><rb>修繕</rb><rt>しゅうぜん</rt></ruby>。
+- word: 中心
+  descriptions:
+  - <ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>。
+  - ものごとのいちばんだいじなところ。
+- word: 国宝
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>宝</rb><rt>たから</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>指定</rb><rt>してい</rt></ruby>し、<ruby><rb>保護</rb><rt>ほご</rt></ruby>している<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>・<ruby><rb>絵</rb><rt>え</rt></ruby>など。
+- word: 屋根
+  descriptions:
+  - <ruby><rb>雨</rb><rt>あめ</rt></ruby>などを<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために、<ruby><rb>家</rb><rt>いえ</rt></ruby>をおおうもの。
+  - <ruby><rb>上</rb><rt>うえ</rt></ruby>をおおうもの。
+  - いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 覆う
+  descriptions:
+  - <ruby><rb>上</rb><rt>うえ</rt></ruby>にかぶせる。
+  - <ruby><rb>包</rb><rt>つつ</rt></ruby>みかくす。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>がって、いっぱいになる。
+- word: お参り
+  descriptions:
+  - <ruby><rb>寺</rb><rt>てら</rt></ruby>や<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>へ<ruby><rb>行</rb><rt>い</rt></ruby>って<ruby><rb>拝</rb><rt>おが</rt></ruby>むこと。
+web_news_url: /news/web/2017/06/20/清水寺の本堂外観-3年近く見られない状態に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011023741000/k10011023741000.html
+...
