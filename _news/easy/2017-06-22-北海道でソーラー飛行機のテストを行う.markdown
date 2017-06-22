@@ -1,0 +1,66 @@
+---
+layout: easy_news
+newsid: k10011023971000
+categories: easy
+title: 北海道でソーラー飛行機のテストを行う
+title_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby>でソーラー<ruby>飛行機<rt>ひこうき</rt></ruby>のテストを<ruby>行<rt>おこな</rt></ruby>う
+last_modified_at: '2017-06-22T11:30:00+09:00'
+datetime: 2017年06月22日 11時30分
+description: ソーラー飛行機ひこうきは、太陽たいようの光ひかりを利用りようして飛とびます。
+description_with_ruby: ソーラー<ruby>飛行機<rt>ひこうき</rt></ruby>は、<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>して<ruby>飛<rt>と</rt></ruby>びます。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/22/k10011023971000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/22/k10011023971000.mp3
+contents: "<p>ソーラー<ruby>飛行機<rt>ひこうき</rt></ruby>は、<span style=\"color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>の<ruby>光<rt>ひかり</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>して<ruby>飛<rt>と</rt></ruby>びます。<ruby>東京<rt>とうきょう</rt></ruby>の<span\
+  \ style=\"color: blue;\">エンジニア</span>と<ruby>学生<rt>がくせい</rt></ruby>たちの<span style=\"\
+  color: blue;\">グループ</span>が、<ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>滝川市<rt>たきかわし</rt></ruby>でソーラー<ruby>飛行機<rt>ひこうき</rt></ruby>のテストを<ruby>始<rt>はじ</rt></ruby>めました。この<ruby>飛行機<rt>ひこうき</rt></ruby>には<ruby>１人<rt>ひとり</rt></ruby><ruby>乗<rt>の</rt></ruby>ることができます。</p>\n\
+  <p><ruby>木<rt>き</rt></ruby>や<span style=\"color: blue;\"><ruby>発泡<rt>はっぽう</rt></ruby>スチロール</span>などでつくっていて、<ruby>重<rt>おも</rt></ruby>さは８３ｋｇぐらい、<ruby>長<rt>なが</rt></ruby>さは９ｍ、<span\
+  \ style=\"color: blue;\"><ruby>翼<rt>つばさ</rt></ruby></span>の<ruby>長<rt>なが</rt></ruby>さは<ruby>右<rt>みぎ</rt></ruby>と<ruby>左<rt>ひだり</rt></ruby>の<ruby>両方<rt>りょうほう</rt></ruby>で１７ｍです。<span\
+  \ style=\"color: blue;\"><ruby>翼<rt>つばさ</rt></ruby></span>にある<span style=\"color:\
+  \ blue;\">ソーラー</span><span style=\"color: blue;\">パネル</span>で<span style=\"color:\
+  \ blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>の<ruby>光<rt>ひかり</rt></ruby>から<ruby>電気<rt>でんき</rt></ruby>をつくって、<span\
+  \ style=\"color: blue;\">プロペラ</span>を<span style=\"color: blue;\"><ruby>回<rt>まわ</rt></ruby>し</span>ます。</p>\n\
+  <p>テストは<ruby>２０日<rt>はつか</rt></ruby>から２３<ruby>日<rt>にち</rt></ruby>までで、<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>低<rt>ひく</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>を<ruby>飛<rt>と</rt></ruby>んでいろいろチェックして、そのあと<ruby>高<rt>たか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>を<ruby>飛<rt>と</rt></ruby>んでみます。</p>\n\
+  <p><span style=\"color: blue;\">グループ</span>は、テストに<span style=\"color: blue;\"><ruby>成功<rt>せいこう</rt></ruby></span>したら、<ruby>人<rt>ひと</rt></ruby>が<ruby>乗<rt>の</rt></ruby>るソーラー<ruby>飛行機<rt>ひこうき</rt></ruby>では<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めてになると<ruby>思<rt>おも</rt></ruby>うと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 太陽
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。
+- word: エンジニア
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>や<ruby><rb>電気</rb><rt>でんき</rt></ruby>などの<ruby><rb>技術者</rb><rt>ぎじゅつしゃ</rt></ruby>。<ruby><rb>技師</rb><rt>ぎし</rt></ruby>。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 発泡スチロール
+  descriptions:
+  - あわのような<ruby><rb>小</rb><rt>ちい</rt></ruby>さなすき<ruby><rb>間</rb><rt>ま</rt></ruby>をふくんでいる、<ruby><rb>軽</rb><rt>かる</rt></ruby>くてもろい<ruby><rb>合成樹脂</rb><rt>ごうせいじゅし</rt></ruby>。<ruby><rb>包装</rb><rt>ほうそう</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+- word: 翼
+  descriptions:
+  - （<ruby><rb>空</rb><rt>そら</rt></ruby>を<ruby><rb>飛</rb><rt>と</rt></ruby>ぶための）<ruby><rb>鳥</rb><rt>とり</rt></ruby>の<ruby><rb>羽</rb><rt>はね</rt></ruby>。
+  - <ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>のはね。
+- word: ソーラー
+  descriptions:
+  - <ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>熱</rb><rt>ねつ</rt></ruby>のこと。
+- word: パネル
+  descriptions:
+  - かべ・ゆかなどにはめこむ<ruby><rb>板</rb><rt>いた</rt></ruby>。
+  - <ruby><rb>絵</rb><rt>え</rt></ruby>をかく<ruby><rb>板</rb><rt>いた</rt></ruby>。また、<ruby><rb>板</rb><rt>いた</rt></ruby>にかいた<ruby><rb>絵</rb><rt>え</rt></ruby>。
+  - <ruby><rb>写真</rb><rt>しゃしん</rt></ruby>などをはった<ruby><rb>板</rb><rt>いた</rt></ruby>。
+- word: プロペラ
+  descriptions:
+  - <ruby><rb>軸</rb><rt>じく</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>る、<ruby><rb>回転羽根</rb><rt>かいてんばね</rt></ruby>。<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>や<ruby><rb>船</rb><rt>ふね</rt></ruby>などを<ruby><rb>動</rb><rt>うご</rt></ruby>かすもの。
+- word: 回す
+  descriptions:
+  - <ruby><rb>円</rb><rt>えん</rt></ruby>をかくように<ruby><rb>動</rb><rt>うご</rt></ruby>かす。
+  - <ruby><rb>順</rb><rt>じゅん</rt></ruby>に<ruby><rb>送</rb><rt>おく</rt></ruby>る。
+  - <ruby><rb>必要</rb><rt>ひつよう</rt></ruby>とするところへふり<ruby><rb>向</rb><rt>む</rt></ruby>ける。さし<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>巻</rb><rt>ま</rt></ruby>くようにする。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>届</rb><rt>とど</rt></ruby>かせる。
+- word: 成功
+  descriptions:
+  - ものごとが<ruby><rb>思</rb><rt>おも</rt></ruby>いどおりにうまくいくこと。
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>地位</rb><rt>ちい</rt></ruby>や<ruby><rb>財産</rb><rt>ざいさん</rt></ruby>を<ruby><rb>得</rb><rt>え</rt></ruby>ること。
+web_news_url: /news/web/2017/06/20/ソーラー飛行機の試験飛行始まる-北海道/
+source_url: http://www3.nhk.or.jp/news/easy/k10011023971000/k10011023971000.html
+...
