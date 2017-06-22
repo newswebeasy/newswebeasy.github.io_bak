@@ -1,0 +1,53 @@
+---
+layout: easy_news
+newsid: k10011024521000
+categories: easy
+title: 「モスクワ国際バレエコンクール」で日本人が１番になる
+title_with_ruby: 「モスクワ<ruby>国際<rt>こくさい</rt></ruby>バレエコンクール」で<ruby>日本人<rt>にっぽんじん</rt></ruby>が１<ruby>番<rt>ばん</rt></ruby>になる
+last_modified_at: '2017-06-22T11:30:00+09:00'
+datetime: 2017年06月22日 11時30分
+description: 「モスクワ国際こくさいバレエコンクール」は世界せかいで有名ゆうめいなバレエのコンクールで、４年ねんに１度どあります。
+description_with_ruby: 「モスクワ<ruby>国際<rt>こくさい</rt></ruby>バレエコンクール」は<ruby>世界<rt>せかい</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>なバレエのコンクールで、４<ruby>年<rt>ねん</rt></ruby>に１<ruby>度<rt>ど</rt></ruby>あります。
+image_url: https://newswebeasy.github.io/ja201706/news/easy/image/2017/06/22/k10011024521000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/22/k10011024521000.mp3
+contents: "<p>「モスクワ<ruby>国際<rt>こくさい</rt></ruby>バレエコンクール」は<ruby>世界<rt>せかい</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>な<span\
+  \ style=\"color: blue;\">バレエ</span>の<span style=\"color: blue;\">コンクール</span>で、４<ruby>年<rt>ねん</rt></ruby>に１<ruby>度<rt>ど</rt></ruby>あります。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby>、<ruby>男性<rt>だんせい</rt></ruby>と<ruby>女性<rt>じょせい</rt></ruby>が<ruby>２人<rt>ふたり</rt></ruby>で<ruby>踊<rt>おど</rt></ruby>る「デュエット」では、<ruby>日本人<rt>にっぽんじん</rt></ruby>で２５<ruby>歳<rt>さい</rt></ruby>の<ruby>大川<rt>おおかわ</rt></ruby><ruby>航矢<rt>こうや</rt></ruby>さんが、<span\
+  \ style=\"color: blue;\">シニア</span>の<ruby>男性<rt>だんせい</rt></ruby>の１<ruby>番<rt>ばん</rt></ruby>になりました。<span\
+  \ style=\"color: blue;\">シニア</span>の<ruby>女性<rt>じょせい</rt></ruby>では、２４<ruby>歳<rt>さい</rt></ruby>の<ruby>寺田<rt>てらだ</rt></ruby><ruby>翠<rt>みどり</rt></ruby>さんが３<ruby>番<rt>ばん</rt></ruby>になりました。</p>\n\
+  <p><ruby>大川<rt>おおかわ</rt></ruby>さんと<ruby>寺田<rt>てらだ</rt></ruby>さんは、ロシアの<ruby>同<rt>おな</rt></ruby>じ<span\
+  \ style=\"color: blue;\">バレエ</span><span style=\"color: blue;\"><ruby>団<rt>だん</rt></ruby></span>にいます。<ruby>２人<rt>ふたり</rt></ruby>は「<ruby>最初<rt>さいしょ</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>信<rt>しん</rt></ruby>じる</span>ことができませんでしたが、とてもうれしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>１人<rt>ひとり</rt></ruby>で<ruby>踊<rt>おど</rt></ruby>る「ソロ」では、１８<ruby>歳<rt>さい</rt></ruby>の<ruby>千野<rt>ちの</rt></ruby><ruby>円句<rt>まるく</rt></ruby>さんが<span\
+  \ style=\"color: blue;\">ジュニア</span>の<ruby>男性<rt>だんせい</rt></ruby>の１<ruby>番<rt>ばん</rt></ruby>になりました。<ruby>千野<rt>ちの</rt></ruby>さんのお<ruby>母<rt>かあ</rt></ruby>さんは<ruby>日本人<rt>にっぽんじん</rt></ruby>、お<ruby>父<rt>とう</rt></ruby>さんはロシア<ruby>人<rt>じん</rt></ruby>です。<ruby>千野<rt>ちの</rt></ruby>さんは「お<ruby>客<rt>きゃく</rt></ruby>さんに<ruby>喜<rt>よろこ</rt></ruby>んでもらうことができるいい<span\
+  \ style=\"color: blue;\">ダンサー</span>になりたいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: バレエ
+  descriptions:
+  - <ruby><rb>西洋</rb><rt>せいよう</rt></ruby>のおどり。<ruby><rb>歌</rb><rt>うた</rt></ruby>やことばを<ruby><rb>使</rb><rt>つか</rt></ruby>わずに、<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、<ruby><rb>身</rb><rt>み</rt></ruby>ぶりや、おどりだけで<ruby><rb>物語</rb><rt>ものがたり</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。
+- word: コンクール
+  descriptions:
+  - （<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>などのよしあしを）<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>する<ruby><rb>会</rb><rt>かい</rt></ruby>。<ruby><rb>競技会</rb><rt>きょうぎかい</rt></ruby>。
+- word: シニア
+  descriptions:
+  - <ruby><rb>年上</rb><rt>としうえ</rt></ruby>。<ruby><rb>上級生</rb><rt>じょうきゅうせい</rt></ruby>。
+- word: 団
+  descriptions:
+  - <ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - かたまり。
+- word: 信じる
+  descriptions:
+  - ほんとうだと<ruby><rb>心</rb><rt>こころ</rt></ruby>から<ruby><rb>思</rb><rt>おも</rt></ruby>う。
+  - <ruby><rb>神</rb><rt>かみ</rt></ruby>や、<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>を<ruby><rb>信仰</rb><rt>しんこう</rt></ruby>する。
+- word: ジュニア
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>年下</rb><rt>としした</rt></ruby>。<ruby><rb>下級生</rb><rt>かきゅうせい</rt></ruby>。
+  - <ruby><rb>二世</rb><rt>にせい</rt></ruby>。<ruby><rb>後継者</rb><rt>こうけいしゃ</rt></ruby>。
+- word: ダンサー
+  descriptions:
+  - <ruby><rb>西洋風</rb><rt>せいようふう</rt></ruby>のおどりをおどることを、<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+web_news_url: /news/web/2017/06/21/モスクワ国際バレエコンクール-日本人が1位に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011024521000/k10011024521000.html
+...
