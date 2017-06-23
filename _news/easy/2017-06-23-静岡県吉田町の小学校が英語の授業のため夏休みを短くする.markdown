@@ -1,0 +1,45 @@
+---
+layout: easy_news
+newsid: k10011027451000
+categories: easy
+title: 静岡県吉田町の小学校が英語の授業のため夏休みを短くする
+title_with_ruby: <ruby>静岡県<rt>しずおかけん</rt></ruby><ruby>吉田町<rt>よしだちょう</rt></ruby>の<ruby>小学校<rt>しょうがっこう</rt></ruby>が<ruby>英語<rt>えいご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>のため<ruby>夏休<rt>なつやす</rt></ruby>みを<ruby>短<rt>みじか</rt></ruby>くする
+last_modified_at: '2017-06-23T16:50:00+09:00'
+datetime: 2017年06月23日 16時50分
+description: 日本にっぽんの小学校しょうがっこうは、２０２０年度ねんどまでに英語えいごの授業じゅぎょうを少すこしずつ増ふやすことになっています。
+description_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>小学校<rt>しょうがっこう</rt></ruby>は、２０２０<ruby>年度<rt>ねんど</rt></ruby>までに<ruby>英語<rt>えいご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>増<rt>ふ</rt></ruby>やすことになっています。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/23/k10011027451000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/23/k10011027451000.mp3
+contents: "<p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>小学校<rt>しょうがっこう</rt></ruby>は、２０２０<span\
+  \ style=\"color: blue;\"><ruby>年度<rt>ねんど</rt></ruby></span>までに<ruby>英語<rt>えいご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>少<rt>すこ</rt></ruby>しずつ<span\
+  \ style=\"color: blue;\"><ruby>増<rt>ふ</rt></ruby>やす</span>ことになっています。</p>\n<p><ruby>静岡県<rt>しずおかけん</rt></ruby><ruby>吉田町<rt>よしだちょう</rt></ruby>は、２０１８<span\
+  \ style=\"color: blue;\"><ruby>年度<rt>ねんど</rt></ruby></span>から<ruby>夏休<rt>なつやす</rt></ruby>みなどの<ruby>長<rt>なが</rt></ruby>い<ruby>休<rt>やす</rt></ruby>みを<ruby>短<rt>みじか</rt></ruby>くして、<ruby>英語<rt>えいご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>をすることにしました。</p>\n\
+  <p><ruby>吉田町<rt>よしだちょう</rt></ruby>は２２<ruby>日<rt>にち</rt></ruby><ruby>夜<rt>よる</rt></ruby>、<ruby>小学校<rt>しょうがっこう</rt></ruby>に<ruby>子<rt>こ</rt></ruby>どもが<ruby>通<rt>かよ</rt></ruby>う<span\
+  \ style=\"color: blue;\"><ruby>親<rt>おや</rt></ruby></span>などに<ruby>説明<rt>せつめい</rt></ruby>をしました。<ruby>説明<rt>せつめい</rt></ruby>によると、<ruby>英語<rt>えいご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>をするため、<ruby>授業<rt>じゅぎょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>を１<ruby>年<rt>ねん</rt></ruby>で<ruby>１０日<rt>とおか</rt></ruby>ぐらい<span\
+  \ style=\"color: blue;\"><ruby>増<rt>ふ</rt></ruby>やし</span>ます。<ruby>夏休<rt>なつやす</rt></ruby>みは<ruby>短<rt>みじか</rt></ruby>くして、いちばん<ruby>短<rt>みじか</rt></ruby>い<ruby>場合<rt>ばあい</rt></ruby>で<ruby>１０日<rt>とおか</rt></ruby>ぐらいにします。</p>\n\
+  <p><ruby>説明<rt>せつめい</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いた<ruby>人<rt>ひと</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>親<rt>おや</rt></ruby></span>の<ruby>意見<rt>いけん</rt></ruby>ももっと<ruby>聞<rt>き</rt></ruby>いてほしいです」とか「<ruby>子<rt>こ</rt></ruby>どもは<ruby>夏休<rt>なつやす</rt></ruby>みに<span\
+  \ style=\"color: blue;\"><ruby>野球<rt>やきゅう</rt></ruby></span>の<ruby>練習<rt>れんしゅう</rt></ruby>ができなくなるかもしれないと<ruby>心配<rt>しんぱい</rt></ruby>しています」などと<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 年度
+  descriptions:
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>のつごうで<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>１年</rb><rt>いちねん</rt></ruby>の<ruby><rb>期間</rb><rt>きかん</rt></ruby>。ふつう<ruby><rb>４月</rb><rt>しがつ</rt></ruby><ruby><rb>１日</rb><rt>ついたち</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まり、<ruby><rb>翌年</rb><rt>よくねん</rt></ruby>の<ruby><rb>３月３１日</rb><rt>さんがつさんじゅういちにち</rt></ruby>に<ruby><rb>終</rb><rt>お</rt></ruby>わる。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+- word: 親
+  descriptions:
+  - <ruby><rb>父</rb><rt>ちち</rt></ruby>や<ruby><rb>母</rb><rt>はは</rt></ruby>。<ruby><rb>両親</rb><rt>りょうしん</rt></ruby>。
+  - <ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>をうんだもの。
+  - トランプやかるたなどの<ruby><rb>遊</rb><rt>あそ</rt></ruby>びで、カードを<ruby><rb>配</rb><rt>くば</rt></ruby>る<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となるもの。<ruby><rb>大</rb><rt>おお</rt></ruby>きいもの。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+- word: 野球
+  descriptions:
+  - <ruby><rb>９人</rb><rt>くにん</rt></ruby>ずつの<ruby><rb>２</rb><rt>に</rt></ruby>チームが、たがいにバットでボールを<ruby><rb>打</rb><rt>う</rt></ruby>ってせめ<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>点</rb><rt>てん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ベースボール。
+web_news_url: /news/web/2017/06/23/英語の授業時間確保で小学校の夏休み短縮-静岡-吉田町/
+source_url: http://www3.nhk.or.jp/news/easy/k10011027451000/k10011027451000.html
+...

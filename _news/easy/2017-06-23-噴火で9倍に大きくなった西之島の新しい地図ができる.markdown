@@ -1,0 +1,47 @@
+---
+layout: easy_news
+newsid: k10011026361000
+categories: easy
+title: 噴火で９倍に大きくなった西之島の新しい地図ができる
+title_with_ruby: <ruby>噴火<rt>ふんか</rt></ruby>で９<ruby>倍<rt>ばい</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きくなった<ruby>西之島<rt>にしのしま</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>地図<rt>ちず</rt></ruby>ができる
+last_modified_at: '2017-06-23T11:30:00+09:00'
+datetime: 2017年06月23日 11時30分
+description: 小笠原諸島おがさわらしょとうの父島ちちじまから西にしに１３０ｋｍの所ところにある西之島にしのしまは、２０１３年ねん１１月がつから噴火ふんかが続つづいています。
+description_with_ruby: <ruby>小笠原諸島<rt>おがさわらしょとう</rt></ruby>の<ruby>父島<rt>ちちじま</rt></ruby>から<ruby>西<rt>にし</rt></ruby>に１３０ｋｍの<ruby>所<rt>ところ</rt></ruby>にある<ruby>西之島<rt>にしのしま</rt></ruby>は、２０１３<ruby>年<rt>ねん</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby>から<ruby>噴火<rt>ふんか</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/23/k10011026361000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/23/k10011026361000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>小笠原諸島<rt>おがさわらしょとう</rt></ruby></span>の<ruby>父島<rt>ちちじま</rt></ruby>から<ruby>西<rt>にし</rt></ruby>に１３０ｋｍの<ruby>所<rt>ところ</rt></ruby>にある<ruby>西之島<rt>にしのしま</rt></ruby>は、２０１３<ruby>年<rt>ねん</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>が<ruby>続<rt>つづ</rt></ruby>いています。<span\
+  \ style=\"color: blue;\"><ruby>国土地理院<rt>こくどちりいん</rt></ruby></span>は<ruby>去年<rt>きょねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>から１２<ruby>月<rt>がつ</rt></ruby>に<ruby>西之島<rt>にしのしま</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べて、<ruby>新<rt>あたら</rt></ruby>しい<ruby>地図<rt>ちず</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。<ruby>前<rt>まえ</rt></ruby>の<ruby>地図<rt>ちず</rt></ruby>は２６<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>作<rt>つく</rt></ruby>りました。</p>\n\
+  <p><ruby>新<rt>あたら</rt></ruby>しい<ruby>地図<rt>ちず</rt></ruby>では、<ruby>島<rt>しま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>面積<rt>めんせき</rt></ruby></span>は<span style=\"color:\
+  \ blue;\"><ruby>約<rt>やく</rt></ruby></span>２．７km²で、<ruby>前<rt>まえ</rt></ruby>の９<ruby>倍<rt>ばい</rt></ruby>ぐらいの<ruby>大<rt>おお</rt></ruby>きさになりました。<ruby>島<rt>しま</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>い<ruby>場所<rt>ばしょ</rt></ruby>は１４３ｍで、<ruby>前<rt>まえ</rt></ruby>の６<ruby>倍<rt>ばい</rt></ruby>ぐらいの<ruby>高<rt>たか</rt></ruby>さになりました。</p>\n\
+  <p><ruby>新<rt>あたら</rt></ruby>しい<ruby>地図<rt>ちず</rt></ruby>は、<span style=\"color:\
+  \ blue;\"><ruby>国土地理院<rt>こくどちりいん</rt></ruby></span>の<span style=\"color: blue;\"\
+  >ウェブサイト</span>で６<ruby>月<rt>がつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>から<ruby>見<rt>み</rt></ruby>ることができます。<ruby>西之島<rt>にしのしま</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>が<ruby>続<rt>つづ</rt></ruby>いているため、<ruby>今<rt>いま</rt></ruby>も<ruby>大<rt>おお</rt></ruby>きくなっています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 噴火
+  descriptions:
+  - <ruby><rb>火山</rb><rt>かざん</rt></ruby>が<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>して、とけた<ruby><rb>溶岩</rb><rt>ようがん</rt></ruby>や、<ruby><rb>火山灰</rb><rt>かざんばい</rt></ruby>・<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>・ガスをふき<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 小笠原諸島
+  descriptions:
+  - <ruby><rb>東京都</rb><rt>とうきょうと</rt></ruby>の<ruby><rb>一部</rb><rt>いちぶ</rt></ruby>で、<ruby><rb>都心</rb><rt>としん</rt></ruby>から<ruby><rb>南</rb><rt>みなみ</rt></ruby>へ<ruby><rb>約</rb><rt>やく</rt></ruby>１２００キロメートルの<ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>にある<ruby><rb>島々</rb><rt>しまじま</rt></ruby>。おもな<ruby><rb>島</rb><rt>しま</rt></ruby>は<ruby><rb>父島</rb><rt>ちちじま</rt></ruby>と<ruby><rb>母島</rb><rt>ははじま</rt></ruby>である。
+- word: 国土地理院
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>国土</rb><rt>こくど</rt></ruby>の<ruby><rb>測量</rb><rt>そくりょう</rt></ruby>をし、<ruby><rb>地図</rb><rt>ちず</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 面積
+  descriptions:
+  - <ruby><rb>平面</rb><rt>へいめん</rt></ruby>や<ruby><rb>曲面</rb><rt>きょくめん</rt></ruby>の<ruby><rb>広</rb><rt>ひろ</rt></ruby>さ。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+web_news_url: /news/web/2017/06/22/面積は約9倍に拡大-西之島の新しい地図が完成/
+source_url: http://www3.nhk.or.jp/news/easy/k10011026361000/k10011026361000.html
+...

@@ -1,0 +1,58 @@
+---
+layout: easy_news
+newsid: k10011025441000
+categories: easy
+title: お年寄りがカラオケを使って楽しく運動をする教室
+title_with_ruby: お<ruby>年寄<rt>としよ</rt></ruby>りがカラオケを<ruby>使<rt>つか</rt></ruby>って<ruby>楽<rt>たの</rt></ruby>しく<ruby>運動<rt>うんどう</rt></ruby>をする<ruby>教室<rt>きょうしつ</rt></ruby>
+last_modified_at: '2017-06-23T11:30:00+09:00'
+datetime: 2017年06月23日 11時30分
+description: 東京都とうきょうと中野区なかのくはお年寄としよりの健康けんこうのために、歌うたいながら運動うんどうをする教室きょうしつをカラオケの会社かいしゃと始はじめました。
+description_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby><ruby>中野区<rt>なかのく</rt></ruby>はお<ruby>年寄<rt>としよ</rt></ruby>りの<ruby>健康<rt>けんこう</rt></ruby>のために、<ruby>歌<rt>うた</rt></ruby>いながら<ruby>運動<rt>うんどう</rt></ruby>をする<ruby>教室<rt>きょうしつ</rt></ruby>をカラオケの<ruby>会社<rt>かいしゃ</rt></ruby>と<ruby>始<rt>はじ</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/23/k10011025441000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/23/k10011025441000.mp3
+contents: "<p><ruby>東京都<rt>とうきょうと</rt></ruby><ruby>中野区<rt>なかのく</rt></ruby>はお<span\
+  \ style=\"color: blue;\"><ruby>年寄<rt>としよ</rt></ruby>り</span>の<span style=\"color:\
+  \ blue;\"><ruby>健康<rt>けんこう</rt></ruby></span>のために、<ruby>歌<rt>うた</rt></ruby>いながら<ruby>運動<rt>うんどう</rt></ruby>をする<ruby>教室<rt>きょうしつ</rt></ruby>を<span\
+  \ style=\"color: blue;\">カラオケ</span>の<ruby>会社<rt>かいしゃ</rt></ruby>と<ruby>始<rt>はじ</rt></ruby>めました。</p>\n\
+  <p>２１<ruby>日<rt>にち</rt></ruby>、<ruby>会場<rt>かいじょう</rt></ruby>に１３<ruby>人<rt>にん</rt></ruby>のお<span\
+  \ style=\"color: blue;\"><ruby>年寄<rt>としよ</rt></ruby>り</span>が<ruby>集<rt>あつ</rt></ruby>まりました。そして、<ruby>先生<rt>せんせい</rt></ruby>に<ruby>教<rt>おし</rt></ruby>えてもらいながら、<span\
+  \ style=\"color: blue;\">カラオケ</span>を<ruby>使<rt>つか</rt></ruby>った<ruby>運動<rt>うんどう</rt></ruby>をしました。</p>\n\
+  <p>この<ruby>運動<rt>うんどう</rt></ruby>は、<span style=\"color: blue;\">カラオケ</span>の<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>いながら<span\
+  \ style=\"color: blue;\">タオル</span>を<ruby>持<rt>も</rt></ruby>って<ruby>指<rt>ゆび</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>動<rt>うご</rt></ruby>かし</span>たり、<ruby>紙<rt>かみ</rt></ruby>の<ruby>皿<rt>さら</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>踊<rt>おど</rt></ruby>ったりします。みんなが<ruby>知<rt>し</rt></ruby>っている<ruby>歌<rt>うた</rt></ruby>で<ruby>楽<rt>たの</rt></ruby>しく<ruby>体<rt>からだ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>動<rt>うご</rt></ruby>かす</span>ことができます。７８<ruby>歳<rt>さい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>歌<rt>うた</rt></ruby>は<ruby>好<rt>す</rt></ruby>きですし、みんなで<ruby>体<rt>からだ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>動<rt>うご</rt></ruby>かす</span>と<ruby>体<rt>からだ</rt></ruby>も<ruby>温<rt>あたた</rt></ruby>かくなって<ruby>気持<rt>きも</rt></ruby>ちがいいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>教室<rt>きょうしつ</rt></ruby>は１<ruby>週間<rt>しゅうかん</rt></ruby>に１<ruby>回<rt>かい</rt></ruby>、２０の<ruby>会場<rt>かいじょう</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>います。<ruby>中野区<rt>なかのく</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>職員<rt>しょくいん</rt></ruby></span>は「いつもは<ruby>家<rt>いえ</rt></ruby>から<ruby>出<rt>で</rt></ruby>ない<ruby>人<rt>ひと</rt></ruby>も<ruby>来<rt>き</rt></ruby>て、<ruby>運動<rt>うんどう</rt></ruby>をしてほしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 年寄り
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。
+  - <ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: カラオケ
+  descriptions:
+  - <ruby><rb>歌謡曲</rb><rt>かようきょく</rt></ruby>などの<ruby><rb>歌</rb><rt>うた</rt></ruby>を<ruby><rb>歌</rb><rt>うた</rt></ruby>うための、<ruby><rb>伴奏用</rb><rt>ばんそうよう</rt></ruby>の<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>。また、それに<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>歌</rb><rt>うた</rt></ruby>うこと。
+- word: 健康
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。
+- word: タオル
+  descriptions:
+  - <ruby><rb>表</rb><rt>おもて</rt></ruby>に<ruby><rb>糸</rb><rt>いと</rt></ruby>の<ruby><rb>輪</rb><rt>わ</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>織</rb><rt>お</rt></ruby>った、<ruby><rb>厚</rb><rt>あつ</rt></ruby>くてやわらかいもめんの<ruby><rb>布</rb><rt>ぬの</rt></ruby>。また、それで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>手</rb><rt>て</rt></ruby>ふき。
+- word: 動かす
+  descriptions:
+  - <ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。
+  - <ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - <ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。
+- word: 動かす
+  descriptions:
+  - <ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。
+  - <ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - <ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。
+- word: 職員
+  descriptions:
+  - <ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+web_news_url: /news/web/2017/06/21/高齢者がカラオケで歌いながら体を動かし介護予防/
+source_url: http://www3.nhk.or.jp/news/easy/k10011025441000/k10011025441000.html
+...
