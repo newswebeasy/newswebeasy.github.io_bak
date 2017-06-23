@@ -1,0 +1,34 @@
+---
+layout: easy_news
+newsid: k10011027651000
+categories: easy
+title: 上野動物園　「パンダの赤ちゃんは女の子です」
+title_with_ruby: <ruby>上野<rt>うえの</rt></ruby><ruby>動物園<rt>どうぶつえん</rt></ruby>　「パンダの<ruby>赤<rt>あか</rt></ruby>ちゃんは<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>です」
+last_modified_at: '2017-06-23T16:50:00+09:00'
+datetime: 2017年06月23日 16時50分
+description: 東京とうきょうの上野うえの動物園どうぶつえんは、１２日にちに生うまれたパンダの赤あかちゃんは女おんなの子こだと発表はっぴょうしました。
+description_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>上野<rt>うえの</rt></ruby><ruby>動物園<rt>どうぶつえん</rt></ruby>は、１２<ruby>日<rt>にち</rt></ruby>に<ruby>生<rt>う</rt></ruby>まれたパンダの<ruby>赤<rt>あか</rt></ruby>ちゃんは<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>だと<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201706/news/easy/image/2017/06/23/k10011027651000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/23/k10011027651000.mp3
+contents: "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>上野<rt>うえの</rt></ruby><ruby>動物園<rt>どうぶつえん</rt></ruby>は、１２<ruby>日<rt>にち</rt></ruby>に<ruby>生<rt>う</rt></ruby>まれた<span\
+  \ style=\"color: blue;\">パンダ</span>の<ruby>赤<rt>あか</rt></ruby>ちゃんは<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>だと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。２２<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>専門家<rt>せんもんか</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>体<rt>からだ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べてわかりました。</p>\n\
+  <p><ruby>赤<rt>あか</rt></ruby>ちゃんは<span style=\"color: blue;\"><ruby>健康<rt>けんこう</rt></ruby></span>で、<ruby>体<rt>からだ</rt></ruby>の<ruby>重<rt>おも</rt></ruby>さは２８４ｇです。１７<ruby>日<rt>にち</rt></ruby>に<ruby>調<rt>しら</rt></ruby>べたときより１０５ｇ<ruby>増<rt>ふ</rt></ruby>えました。<ruby>大<rt>おお</rt></ruby>きさは１７．６ｃｍで、１．２ｃｍ<ruby>大<rt>おお</rt></ruby>きくなりました。</p>\n\
+  <p><span style=\"color: blue;\">パンダ</span>の<ruby>赤<rt>あか</rt></ruby>ちゃんは<ruby>生<rt>う</rt></ruby>まれて３か<ruby>月<rt>げつ</rt></ruby>ぐらいは<ruby>体<rt>からだ</rt></ruby>が<ruby>弱<rt>よわ</rt></ruby>いため、<ruby>動物園<rt>どうぶつえん</rt></ruby>はこれからも<ruby>赤<rt>あか</rt></ruby>ちゃんの<span\
+  \ style=\"color: blue;\"><ruby>健康<rt>けんこう</rt></ruby></span>に<ruby>気<rt>き</rt></ruby>をつけたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: パンダ
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中央部</rb><rt>ちゅうおうぶ</rt></ruby>にすむけもの。ジャイアントパンダとレッサーパンダがいる。
+  - <ruby><rb>特</rb><rt>とく</rt></ruby>にジャイアントパンダ。<ruby><rb>中国西部</rb><rt>ちゅうごくせいぶ</rt></ruby>の<ruby><rb>山地</rb><rt>さんち</rt></ruby>にすむ。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>に<ruby><rb>色分</rb><rt>いろわ</rt></ruby>けされて、<ruby><rb>顔</rb><rt>かお</rt></ruby>つきや<ruby><rb>動作</rb><rt>どうさ</rt></ruby>がかわいい。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 健康
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。
+web_news_url: /news/web/2017/06/23/パンダの赤ちゃん-メスと確認-上野動物園/
+source_url: http://www3.nhk.or.jp/news/easy/k10011027651000/k10011027651000.html
+...
