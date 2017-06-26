@@ -1,0 +1,57 @@
+---
+layout: easy_news
+newsid: k10011027021000
+categories: easy
+title: 白いおたまじゃくしが薄い黄色のかえるになった
+title_with_ruby: <ruby>白<rt>しろ</rt></ruby>いおたまじゃくしが<ruby>薄<rt>うす</rt></ruby>い<ruby>黄色<rt>きいろ</rt></ruby>のかえるになった
+last_modified_at: '2017-06-26T11:30:00+09:00'
+datetime: 2017年06月26日 11時30分
+description: 山口県やまぐちけん山口市やまぐちしの田たんぼで先月せんげつ、白しろいおたまじゃくしが２０匹ぴき見みつかりました。
+description_with_ruby: <ruby>山口県<rt>やまぐちけん</rt></ruby><ruby>山口市<rt>やまぐちし</rt></ruby>の<ruby>田<rt>た</rt></ruby>んぼで<ruby>先月<rt>せんげつ</rt></ruby>、<ruby>白<rt>しろ</rt></ruby>いおたまじゃくしが２０<ruby>匹<rt>ぴき</rt></ruby><ruby>見<rt>み</rt></ruby>つかりました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/26/k10011027021000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/26/k10011027021000.mp3
+contents: "<p><ruby>山口県<rt>やまぐちけん</rt></ruby><ruby>山口市<rt>やまぐちし</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>田<rt>た</rt></ruby>んぼ</span>で<ruby>先月<rt>せんげつ</rt></ruby>、<ruby>白<rt>しろ</rt></ruby>い<span\
+  \ style=\"color: blue;\">おたまじゃくし</span>が２０<ruby>匹<rt>ぴき</rt></ruby><ruby>見<rt>み</rt></ruby>つかりました。<span\
+  \ style=\"color: blue;\">おたまじゃくし</span>は<ruby>普通<rt>ふつう</rt></ruby><ruby>黒<rt>くろ</rt></ruby>くて、<ruby>白<rt>しろ</rt></ruby>いのは<ruby>珍<rt>めずら</rt></ruby>しいため、<ruby>近<rt>ちか</rt></ruby>くの<ruby>小学校<rt>しょうがっこう</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>てることにしました。</p>\n\
+  <p><ruby>子<rt>こ</rt></ruby>どもたちは<ruby>教室<rt>きょうしつ</rt></ruby>で<span style=\"color:\
+  \ blue;\">おたまじゃくし</span>を<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>育<rt>そだ</rt></ruby>てました。２<ruby>週間<rt>しゅうかん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>、３<ruby>匹<rt>びき</rt></ruby>が３ｃｍぐらいの<span\
+  \ style=\"color: blue;\">かえる</span>になりました。<span style=\"color: blue;\"><ruby>透<rt>す</rt></ruby>き<ruby>通<rt>とお</rt></ruby>っ</span>ているように<ruby>見<rt>み</rt></ruby>える<ruby>薄<rt>うす</rt></ruby>い<ruby>黄色<rt>きいろ</rt></ruby>の<span\
+  \ style=\"color: blue;\">かえる</span>です。</p>\n<p><ruby>子<rt>こ</rt></ruby>どもたちは、<span\
+  \ style=\"color: blue;\"><ruby>餌<rt>えさ</rt></ruby></span>の<ruby>虫<rt>むし</rt></ruby>をやったり<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ったりして、<ruby>育<rt>そだ</rt></ruby>てながら<ruby>勉強<rt>べんきょう</rt></ruby>しています。４<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は「このまま<ruby>元気<rt>げんき</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>育<rt>そだ</rt></ruby>っ</span>てほしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>山口県立博物館<rt>やまぐちけんりつはくぶつかん</rt></ruby>は、<ruby>白<rt>しろ</rt></ruby>い<span\
+  \ style=\"color: blue;\">おたまじゃくし</span>は<ruby>鳥<rt>とり</rt></ruby>などに<ruby>見<rt>み</rt></ruby>つかって<ruby>食<rt>た</rt></ruby>べられることが<ruby>多<rt>おお</rt></ruby>いため、<span\
+  \ style=\"color: blue;\">かえる</span>になるまで<span style=\"color: blue;\"><ruby>育<rt>そだ</rt></ruby>つ</span>ことは<ruby>少<rt>すく</rt></ruby>ないと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: おたまじゃくし
+  descriptions:
+  - カエルの<ruby><rb>子</rb><rt>こ</rt></ruby>。<ruby><rb>水中</rb><rt>すいちゅう</rt></ruby>にすみ、えらで<ruby><rb>呼吸</rb><rt>こきゅう</rt></ruby>する。<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>尾</rb><rt>お</rt></ruby>がついている。
+  - しるをすくうしゃくし。おたま。
+  - <ruby><rb>音符</rb><rt>おんぷ</rt></ruby>。「♩」など。
+- word: 蛙
+  descriptions:
+  - <ruby><rb>陸</rb><rt>りく</rt></ruby>にも<ruby><rb>水</rb><rt>みず</rt></ruby>にもすめる<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、<ruby><rb>卵</rb><rt>たまご</rt></ruby>からオタマジャクシになり、<ruby><rb>手足</rb><rt>てあし</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>てしっぽが<ruby><rb>消</rb><rt>き</rt></ruby>えるとカエルになる。
+- word: 田んぼ
+  descriptions:
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>って、イネを<ruby><rb>育</rb><rt>そだ</rt></ruby>てる<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>水田</rb><rt>すいでん</rt></ruby>。
+- word: 透き通る
+  descriptions:
+  - すけて、<ruby><rb>中</rb><rt>なか</rt></ruby>のほうや、<ruby><rb>向</rb><rt>む</rt></ruby>こうのほうが<ruby><rb>見</rb><rt>み</rt></ruby>える。
+  - <ruby><rb>声</rb><rt>こえ</rt></ruby>などがすんで、よく<ruby><rb>通</rb><rt>とお</rt></ruby>る。
+- word: 餌
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てたり、とらえたりするための<ruby><rb>食物</rb><rt>しょくもつ</rt></ruby>。え。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>をさそいこむためにあたえるもの。
+- word: 育つ
+  descriptions:
+  - <ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+  - <ruby><rb>一人前</rb><rt>いちにんまえ</rt></ruby>になる。
+- word: 育つ
+  descriptions:
+  - <ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+  - <ruby><rb>一人前</rb><rt>いちにんまえ</rt></ruby>になる。
+web_news_url: /news/web/2017/06/22/白いおたまじゃくしが透明感ある薄黄色のカエルに成長/
+source_url: http://www3.nhk.or.jp/news/easy/k10011027021000/k10011027021000.html
+...
