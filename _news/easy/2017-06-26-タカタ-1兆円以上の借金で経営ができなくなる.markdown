@@ -1,0 +1,70 @@
+---
+layout: easy_news
+newsid: k10011030331000
+categories: easy
+title: タカタ　１兆円以上の借金で経営ができなくなる
+title_with_ruby: タカタ　１<ruby>兆<rt>ちょう</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>借金<rt>しゃっきん</rt></ruby>で<ruby>経営<rt>けいえい</rt></ruby>ができなくなる
+last_modified_at: '2017-06-26T16:30:00+09:00'
+datetime: 2017年06月26日 16時30分
+description: タカタは、自動車じどうしゃに乗のっている人ひとの安全あんぜんを守まもる「エアバッグ」をつくる日本にっぽんの大おおきな会社かいしゃです。
+description_with_ruby: タカタは、<ruby>自動車<rt>じどうしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>る「エアバッグ」をつくる<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>会社<rt>かいしゃ</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/26/k10011030331000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/26/k10011030331000.mp3
+contents: "<p>タカタは、<ruby>自動車<rt>じどうしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>る</span>「エアバッグ」をつくる<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>会社<rt>かいしゃ</rt></ruby>です。しかし、アメリカでタカタのエアバッグが<ruby>正<rt>ただ</rt></ruby>しく<ruby>動<rt>うご</rt></ruby>かないで<ruby>人<rt>ひと</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる<ruby>事故<rt>じこ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて、<ruby>世界中<rt>せかいじゅう</rt></ruby>でエアバッグを<span\
+  \ style=\"color: blue;\"><ruby>無料<rt>むりょう</rt></ruby></span>で<span style=\"color:\
+  \ blue;\"><ruby>修理<rt>しゅうり</rt></ruby></span>することになりました。このため、<span style=\"color:\
+  \ blue;\"><ruby>借金<rt>しゃっきん</rt></ruby></span>が１<span style=\"color: blue;\"><ruby>兆<rt>ちょう</rt></ruby></span><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりました。</p>\n\
+  <p>２６<ruby>日<rt>にち</rt></ruby>、タカタは<ruby>自分<rt>じぶん</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>では<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けることができなくなったと<span\
+  \ style=\"color: blue;\"><ruby>裁判所<rt>さいばんしょ</rt></ruby></span>に<ruby>言<rt>い</rt></ruby>いました。<span\
+  \ style=\"color: blue;\"><ruby>裁判所<rt>さいばんしょ</rt></ruby></span>は<ruby>法律<rt>ほうりつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>会社<rt>かいしゃ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>ける</span>ことにしました。タカタは<span style=\"\
+  color: blue;\"><ruby>裁判所<rt>さいばんしょ</rt></ruby></span>に<span style=\"color: blue;\"\
+  ><ruby>助<rt>たす</rt></ruby>け</span>てもらいながら、<ruby>仕事<rt>しごと</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けます。</p>\n\
+  <p>１<span style=\"color: blue;\"><ruby>兆<rt>ちょう</rt></ruby></span><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>借金<rt>しゃっきん</rt></ruby></span>で<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けることができなくなったのは、<ruby>物<rt>もの</rt></ruby>をつくる<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>今<rt>いま</rt></ruby>までありませんでした。</p>\n\
+  <p>タカタは<ruby>世界<rt>せかい</rt></ruby>のエアバッグの３つの<ruby>大<rt>おお</rt></ruby>きな<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の１つでした。しかし、<span\
+  \ style=\"color: blue;\"><ruby>修理<rt>しゅうり</rt></ruby></span>が<ruby>遅<rt>おく</rt></ruby>れたりしたため、<ruby>客<rt>きゃく</rt></ruby>やほかの<ruby>会社<rt>かいしゃ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>評判<rt>ひょうばん</rt></ruby></span>が<ruby>悪<rt>わる</rt></ruby>くなって、<span\
+  \ style=\"color: blue;\"><ruby>経営<rt>けいえい</rt></ruby></span>ができなくなりました。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 兆
+  descriptions:
+  - <ruby><rb>一億</rb><rt>いちおく</rt></ruby>の<ruby><rb>一万倍</rb><rt>いちまんばい</rt></ruby>。
+  - しるし。<ruby><rb>前</rb><rt>まえ</rt></ruby>ぶれ。
+- word: 借金
+  descriptions:
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>借</rb><rt>か</rt></ruby>りること。また、<ruby><rb>借</rb><rt>か</rt></ruby>りたお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 経営
+  descriptions:
+  - <ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 無料
+  descriptions:
+  - <ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。
+- word: 修理
+  descriptions:
+  - こわれているところを<ruby><rb>直</rb><rt>なお</rt></ruby>すこと。<ruby><rb>修繕</rb><rt>しゅうぜん</rt></ruby>。
+- word: 裁判所
+  descriptions:
+  - <ruby><rb>裁判</rb><rt>さいばん</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>最高</rb><rt>さいこう</rt></ruby><ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>・<ruby><rb>高等</rb><rt>こうとう</rt></ruby><ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>・<ruby><rb>地方裁判所</rb><rt>ちほうさいばんしょ</rt></ruby>・<ruby><rb>家庭</rb><rt>かてい</rt></ruby><ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>・<ruby><rb>簡易</rb><rt>かんい</rt></ruby><ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>がある。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+- word: 評判
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>批評</rb><rt>ひひょう</rt></ruby>。
+  - うわさ。
+  - <ruby><rb>名高</rb><rt>なだか</rt></ruby>いこと。
+web_news_url: /news/web/2017/06/26/タカタ-民事再生法の適用申請-東京地裁に受理される/
+source_url: http://www3.nhk.or.jp/news/easy/k10011030331000/k10011030331000.html
+...
