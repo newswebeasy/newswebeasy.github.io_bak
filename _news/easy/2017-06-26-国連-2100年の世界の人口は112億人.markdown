@@ -1,0 +1,57 @@
+---
+layout: easy_news
+newsid: k10011027501000
+categories: easy
+title: 国連　「２１００年の世界の人口は１１２億人」
+title_with_ruby: <ruby>国連<rt>こくれん</rt></ruby>　「２１００<ruby>年<rt>ねん</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は１１２<ruby>億<rt>おく</rt></ruby><ruby>人<rt>にん</rt></ruby>」
+last_modified_at: '2017-06-26T11:30:00+09:00'
+datetime: 2017年06月26日 11時30分
+description: 国連こくれんは、２１００年ねんの世界せかいの人口じんこうは１１２億おく人にんになるだろうと発表はっぴょうしました。
+description_with_ruby: <ruby>国連<rt>こくれん</rt></ruby>は、２１００<ruby>年<rt>ねん</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は１１２<ruby>億<rt>おく</rt></ruby><ruby>人<rt>にん</rt></ruby>になるだろうと<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/26/k10011027501000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/26/k10011027501000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>は、２１００<ruby>年<rt>ねん</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は１１２<ruby>億<rt>おく</rt></ruby><ruby>人<rt>にん</rt></ruby>になるだろうと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<ruby>今<rt>いま</rt></ruby>、<ruby>世界<rt>せかい</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は７６<ruby>億<rt>おく</rt></ruby><ruby>人<rt>にん</rt></ruby>です。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>は、<ruby>特<rt>とく</rt></ruby>にアフリカの<ruby>国<rt>くに</rt></ruby>で<ruby>人口<rt>じんこう</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えると<ruby>言<rt>い</rt></ruby>っています。<span\
+  \ style=\"color: blue;\">エイズ</span>などの<ruby>病気<rt>びょうき</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなる<ruby>人<rt>ひと</rt></ruby>や、<ruby>子<rt>こ</rt></ruby>どものときに<ruby>亡<rt>な</rt></ruby>くなる<ruby>人<rt>ひと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなって、<ruby>長<rt>なが</rt></ruby>く<ruby>生<rt>い</rt></ruby>きる<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えると<ruby>考<rt>かんが</rt></ruby>えているからです。<ruby>人口<rt>じんこう</rt></ruby>が２<ruby>倍<rt>ばい</rt></ruby>になる<ruby>国<rt>くに</rt></ruby>もあると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>世界<rt>せかい</rt></ruby>の<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>では、<ruby>１人<rt>ひとり</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>産<rt>う</rt></ruby>む</span><ruby>子<rt>こ</rt></ruby>どもの<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>が<ruby>少<rt>すく</rt></ruby>なくなっています。このため<span\
+  \ style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>は、<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>割合<rt>わりあい</rt></ruby></span>が<ruby>低<rt>ひく</rt></ruby>くなって、２１００<ruby>年<rt>ねん</rt></ruby>には６０<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>今<rt>いま</rt></ruby>の３<ruby>倍<rt>ばい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の３１<ruby>億<rt>おく</rt></ruby><ruby>人<rt>にん</rt></ruby>になるだろうと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>は、お<span style=\"\
+  color: blue;\"><ruby>年寄<rt>としよ</rt></ruby>り</span>が<ruby>病気<rt>びょうき</rt></ruby>になったり<ruby>働<rt>はたら</rt></ruby>くことができなくなったりしても<ruby>安心<rt>あんしん</rt></ruby>して<ruby>生活<rt>せいかつ</rt></ruby>できるように、<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>努力<rt>どりょく</rt></ruby></span>しなければならないと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第２次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: AIDS
+  descriptions:
+  - エイズウイルス（<ruby><rb>HIV</rb><rt>エイチアイブイ</rt></ruby>）によって<ruby><rb>起</rb><rt>お</rt></ruby>こる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。<ruby><rb>感染</rb><rt>かんせん</rt></ruby>すると、<ruby><rb>病原菌</rb><rt>びょうげんきん</rt></ruby>に<ruby><rb>対</rb><rt>たい</rt></ruby>する<ruby><rb>体内</rb><rt>たいない</rt></ruby>の<ruby><rb>免疫</rb><rt>めんえき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>がこわされてしまう。
+- word: 産む
+  descriptions:
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+- word: 数
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。
+  - いくつもあること。たくさん。
+  - <ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。
+- word: 割合
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>と<ruby><rb>物</rb><rt>もの</rt></ruby>との<ruby><rb>関係</rb><rt>かんけい</rt></ruby>を、<ruby><rb>数</rb><rt>かず</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。<ruby><rb>割</rb><rt>わり</rt></ruby>。<ruby><rb>率</rb><rt>りつ</rt></ruby>。<ruby><rb>歩合</rb><rt>ぶあい</rt></ruby>。
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>いのほか。<ruby><rb>比較的</rb><rt>ひかくてき</rt></ruby>。
+- word: 年寄り
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。
+  - <ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 努力
+  descriptions:
+  - <ruby><rb>一生懸命</rb><rt>いっしょうけんめい</rt></ruby>にすること。
+web_news_url: /news/web/2017/06/23/2100年に世界の人口112億人に-国連報告書/
+source_url: http://www3.nhk.or.jp/news/easy/k10011027501000/k10011027501000.html
+...

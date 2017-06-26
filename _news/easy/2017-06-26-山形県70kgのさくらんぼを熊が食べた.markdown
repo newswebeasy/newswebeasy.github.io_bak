@@ -1,0 +1,62 @@
+---
+layout: easy_news
+newsid: k10011030041000
+categories: easy
+title: 山形県「７０ｋｇのさくらんぼを熊が食べた」
+title_with_ruby: <ruby>山形県<rt>やまがたけん</rt></ruby>「７０ｋｇのさくらんぼを<ruby>熊<rt>くま</rt></ruby>が<ruby>食<rt>た</rt></ruby>べた」
+last_modified_at: '2017-06-26T16:30:00+09:00'
+datetime: 2017年06月26日 16時30分
+description: ２５日にち朝あさ、山形県やまがたけん南陽市なんようしの畑はたけでさくらんぼが動物どうぶつに食たべられているのが見みつかりました。
+description_with_ruby: ２５<ruby>日<rt>にち</rt></ruby><ruby>朝<rt>あさ</rt></ruby>、<ruby>山形県<rt>やまがたけん</rt></ruby><ruby>南陽市<rt>なんようし</rt></ruby>の<ruby>畑<rt>はたけ</rt></ruby>でさくらんぼが<ruby>動物<rt>どうぶつ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べられているのが<ruby>見<rt>み</rt></ruby>つかりました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/26/k10011030041000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/26/k10011030041000.mp3
+contents: "<p>２５<ruby>日<rt>にち</rt></ruby><ruby>朝<rt>あさ</rt></ruby>、<ruby>山形県<rt>やまがたけん</rt></ruby><ruby>南陽市<rt>なんようし</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>畑<rt>はたけ</rt></ruby></span>で<span style=\"color:\
+  \ blue;\">さくらんぼ</span>が<ruby>動物<rt>どうぶつ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べられているのが<ruby>見<rt>み</rt></ruby>つかりました。８<ruby>本<rt>ほん</rt></ruby>の<ruby>木<rt>き</rt></ruby>の<ruby>全部<rt>ぜんぶ</rt></ruby>で７０ｋｇぐらいの<span\
+  \ style=\"color: blue;\">さくらんぼ</span>が<ruby>食<rt>た</rt></ruby>べられていました。</p>\n<p><ruby>２４日<rt>にじゅうよっか</rt></ruby><ruby>夜<rt>よる</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>畑<rt>はたけ</rt></ruby></span>の<ruby>近<rt>ちか</rt></ruby>くで<ruby>大<rt>おお</rt></ruby>きな<ruby>音<rt>おと</rt></ruby>がしました。<ruby>朝<rt>あさ</rt></ruby><ruby>見<rt>み</rt></ruby>ると、<span\
+  \ style=\"color: blue;\"><ruby>畑<rt>はたけ</rt></ruby></span>の<ruby>周<rt>まわ</rt></ruby>りのネットに<span\
+  \ style=\"color: blue;\"><ruby>爪<rt>つめ</rt></ruby></span>で<span style=\"color: blue;\"\
+  ><ruby>破<rt>やぶ</rt></ruby>っ</span>たような<span style=\"color: blue;\">あと</span>があって、<span\
+  \ style=\"color: blue;\">さくらんぼ</span>の<ruby>木<rt>き</rt></ruby>の<ruby>太<rt>ふと</rt></ruby>い<ruby>枝<rt>えだ</rt></ruby>が<ruby>折<rt>お</rt></ruby>れていました。<ruby>警察<rt>けいさつ</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>熊<rt>くま</rt></ruby></span>が<ruby>夜<rt>よる</rt></ruby>ネットを<span\
+  \ style=\"color: blue;\"><ruby>破<rt>やぶ</rt></ruby>っ</span>て<ruby>入<rt>はい</rt></ruby>ってきて、<span\
+  \ style=\"color: blue;\">さくらんぼ</span>を<ruby>食<rt>た</rt></ruby>べたと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><span style=\"color: blue;\">さくらんぼ</span>を<ruby>育<rt>そだ</rt></ruby>てている<ruby>人<rt>ひと</rt></ruby>は「<ruby>太<rt>ふと</rt></ruby>い<ruby>枝<rt>えだ</rt></ruby>が<ruby>折<rt>お</rt></ruby>れていて、<ruby>来年<rt>らいねん</rt></ruby>の<span\
+  \ style=\"color: blue;\">さくらんぼ</span>が<ruby>少<rt>すく</rt></ruby>なくなることが<ruby>心配<rt>しんぱい</rt></ruby>です」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>南陽市<rt>なんようし</rt></ruby>では、<ruby>２０日<rt>はつか</rt></ruby>にも<ruby>別<rt>べつ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>畑<rt>はたけ</rt></ruby></span>で５０ｋｇの<span style=\"color:\
+  \ blue;\">さくらんぼ</span>が<span style=\"color: blue;\"><ruby>熊<rt>くま</rt></ruby></span>に<ruby>食<rt>た</rt></ruby>べられました。<ruby>警察<rt>けいさつ</rt></ruby>は、また<span\
+  \ style=\"color: blue;\"><ruby>熊<rt>くま</rt></ruby></span>が<ruby>来<rt>こ</rt></ruby>ないように<span\
+  \ style=\"color: blue;\"><ruby>畑<rt>はたけ</rt></ruby></span>の<ruby>近<rt>ちか</rt></ruby>くを<ruby>見<rt>み</rt></ruby>て<ruby>回<rt>まわ</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: さくらんぼ
+  descriptions:
+  - <ruby><rb>桜</rb><rt>さくら</rt></ruby>の<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>実</rb><rt>み</rt></ruby>。さくらんぼう。チェリー。おうとう。
+- word: 熊
+  descriptions:
+  - <ruby><rb>山</rb><rt>やま</rt></ruby>にすむ<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>にはツキノワグマとヒグマがいる。<ruby><rb>冬</rb><rt>ふゆ</rt></ruby>になると<ruby><rb>穴</rb><rt>あな</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>って<ruby><rb>冬眠</rb><rt>とうみん</rt></ruby>する。
+- word: 畑
+  descriptions:
+  - <ruby><rb>野菜</rb><rt>やさい</rt></ruby>や<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>土地</rb><rt>とち</rt></ruby>。
+  - <ruby><rb>専門</rb><rt>せんもん</rt></ruby>。
+- word: 爪
+  descriptions:
+  - <ruby><rb>指</rb><rt>ゆび</rt></ruby>の<ruby><rb>先</rb><rt>さき</rt></ruby>にあり、<ruby><rb>皮</rb><rt>かわ</rt></ruby>がかたく<ruby><rb>変</rb><rt>か</rt></ruby>わったもの。
+  - <ruby><rb>琴</rb><rt>こと</rt></ruby>などをひくときに、<ruby><rb>指先</rb><rt>ゆびさき</rt></ruby>にはめるもの。
+  - <ruby><rb>引</rb><rt>ひ</rt></ruby>っかけてとめるための、<ruby><rb>小</rb><rt>ちい</rt></ruby>さなもの。
+- word: 破る
+  descriptions:
+  - <ruby><rb>紙</rb><rt>かみ</rt></ruby>や<ruby><rb>布</rb><rt>ぬの</rt></ruby>などを、<ruby><rb>引</rb><rt>ひ</rt></ruby>きさく。やぶく。
+  - こわして、あける。
+  - おだやかなようすをこわす。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたことをだめにする。
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>負</rb><rt>ま</rt></ruby>かす。
+  - ある<ruby><rb>線</rb><rt>せん</rt></ruby>をつきぬける。こえる。
+- word: 痕
+  descriptions:
+  - あと。あとに<ruby><rb>残</rb><rt>のこ</rt></ruby>った<ruby><rb>形</rb><rt>かたち</rt></ruby>。
+web_news_url: /news/web/2017/06/25/さくらんぼ70キロが食い荒らされる-熊の被害か-山形/
+source_url: http://www3.nhk.or.jp/news/easy/k10011030041000/k10011030041000.html
+...
