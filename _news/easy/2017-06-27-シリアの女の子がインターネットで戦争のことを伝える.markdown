@@ -1,0 +1,29 @@
+---
+layout: easy_news
+newsid: k10011031501000
+categories: easy
+title: シリアの女の子がインターネットで戦争のことを伝える
+title_with_ruby: シリアの<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>がインターネットで<ruby>戦争<rt>せんそう</rt></ruby>のことを<ruby>伝<rt>つた</rt></ruby>える
+last_modified_at: '2017-06-27T15:50:00+09:00'
+datetime: 2017年06月27日 15時50分
+description: アメリカの雑誌ざっしの「タイム」は毎年まいとし、「インターネットで大おおきな影響えいきょうがある人ひと」を世界中せかいじゅうから選えらんでいます。
+description_with_ruby: アメリカの<ruby>雑誌<rt>ざっし</rt></ruby>の「タイム」は<ruby>毎年<rt>まいとし</rt></ruby>、「インターネットで<ruby>大<rt>おお</rt></ruby>きな<ruby>影響<rt>えいきょう</rt></ruby>がある<ruby>人<rt>ひと</rt></ruby>」を<ruby>世界中<rt>せかいじゅう</rt></ruby>から<ruby>選<rt>えら</rt></ruby>んでいます。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/27/k10011031501000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/27/k10011031501000.mp3
+contents: "<p>アメリカの<ruby>雑誌<rt>ざっし</rt></ruby>の「タイム」は<ruby>毎年<rt>まいとし</rt></ruby>、「インターネットで<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>影響<rt>えいきょう</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>」を<ruby>世界中<rt>せかいじゅう</rt></ruby>から<ruby>選<rt>えら</rt></ruby>んでいます。<ruby>今年<rt>ことし</rt></ruby>は２５<ruby>人<rt>にん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びました。</p>\n\
+  <p>この<ruby>中<rt>なか</rt></ruby>の<ruby>１人<rt>ひとり</rt></ruby>は、シリアの８<ruby>歳<rt>さい</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>のバナ・アベドさんです。シリアでは<ruby>国<rt>くに</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>戦争<rt>せんそう</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。アベドさんは、<ruby>今<rt>いま</rt></ruby>は<ruby>隣<rt>となり</rt></ruby>の<ruby>国<rt>くに</rt></ruby>のトルコに<ruby>逃<rt>に</rt></ruby>げて<ruby>生活<rt>せいかつ</rt></ruby>していますが、<ruby>去年<rt>きょねん</rt></ruby>１２<ruby>月<rt>がつ</rt></ruby>までシリアのアレッポに<ruby>住<rt>す</rt></ruby>んでいました。<ruby>空<rt>そら</rt></ruby>からの<span\
+  \ style=\"color: blue;\"><ruby>攻撃<rt>こうげき</rt></ruby></span>で、<ruby>建物<rt>たてもの</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れたり<ruby>友達<rt>ともだち</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなったりしたことをインターネットのツイッターで<ruby>世界<rt>せかい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちに<ruby>伝<rt>つた</rt></ruby>えてきました。</p>\n\
+  <p><ruby>世界<rt>せかい</rt></ruby>で３６<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>がアベドさんのツイッターを<ruby>見<rt>み</rt></ruby>ています。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: 影響
+  descriptions:
+  - あるものごとが、ほかのものごとに<ruby><rb>力</rb><rt>ちから</rt></ruby>をおよぼして、そのようすを<ruby><rb>変</rb><rt>か</rt></ruby>えること。
+- word: 攻撃
+  descriptions:
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>攻</rb><rt>せ</rt></ruby>めること。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>欠点</rb><rt>けってん</rt></ruby>や<ruby><rb>誤</rb><rt>あやま</rt></ruby>りを<ruby><rb>責</rb><rt>せ</rt></ruby>めること。
+web_news_url: /news/web/2017/06/27/惨状伝えたシリアの少女ネット影響力25人に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011031501000/k10011031501000.html
+...
