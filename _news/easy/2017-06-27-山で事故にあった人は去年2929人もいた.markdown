@@ -1,0 +1,43 @@
+---
+layout: easy_news
+newsid: k10011030081000
+categories: easy
+title: 山で事故にあった人は去年２９２９人もいた
+title_with_ruby: <ruby>山<rt>やま</rt></ruby>で<ruby>事故<rt>じこ</rt></ruby>にあった<ruby>人<rt>ひと</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>２９２９<ruby>人<rt>にん</rt></ruby>もいた
+last_modified_at: '2017-06-27T11:30:00+09:00'
+datetime: 2017年06月27日 11時30分
+description: 警察けいさつは毎年まいとし、山やまの事故じこについて調しらべています。
+description_with_ruby: <ruby>警察<rt>けいさつ</rt></ruby>は<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>山<rt>やま</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>について<ruby>調<rt>しら</rt></ruby>べています。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/27/k10011030081000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/27/k10011030081000.mp3
+contents: "<p><ruby>警察<rt>けいさつ</rt></ruby>は<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>山<rt>やま</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>について<ruby>調<rt>しら</rt></ruby>べています。<ruby>去年<rt>きょねん</rt></ruby>、<ruby>山<rt>やま</rt></ruby>で<ruby>道<rt>みち</rt></ruby>がわからなくなったり<span\
+  \ style=\"color: blue;\"><ruby>転<rt>ころ</rt></ruby>ん</span>だりした<ruby>人<rt>ひと</rt></ruby>は２９２９<ruby>人<rt>にん</rt></ruby>いました。<ruby>調<rt>しら</rt></ruby>べ<ruby>始<rt>はじ</rt></ruby>めた１９６１<ruby>年<rt>ねん</rt></ruby>から<ruby>今<rt>いま</rt></ruby>までで２<ruby>番目<rt>ばんめ</rt></ruby>に<ruby>多<rt>おお</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>人数<rt>にんずう</rt></ruby></span>です。</p>\n<p>この<ruby>中<rt>なか</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>と<span\
+  \ style=\"color: blue;\"><ruby>行方不明<rt>ゆくえふめい</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は３１９<ruby>人<rt>にん</rt></ruby>でした。けがをした<ruby>人<rt>ひと</rt></ruby>は１１３３<ruby>人<rt>にん</rt></ruby>でした。</p>\n\
+  <p>いちばん<ruby>多<rt>おお</rt></ruby>い<span style=\"color: blue;\"><ruby>年齢<rt>ねんれい</rt></ruby></span>は６０<ruby>歳<rt>さい</rt></ruby>〜６９<ruby>歳<rt>さい</rt></ruby>で７４６<ruby>人<rt>にん</rt></ruby>、<ruby>次<rt>つぎ</rt></ruby>は７０<ruby>歳<rt>さい</rt></ruby>〜７９<ruby>歳<rt>さい</rt></ruby>で５６５<ruby>人<rt>にん</rt></ruby>でした。その<ruby>次<rt>つぎ</rt></ruby>は、５０<ruby>歳<rt>さい</rt></ruby>〜５９<ruby>歳<rt>さい</rt></ruby>で４２１<ruby>人<rt>にん</rt></ruby>、４０<ruby>歳<rt>さい</rt></ruby>〜４９<ruby>歳<rt>さい</rt></ruby>で３６６<ruby>人<rt>にん</rt></ruby>でした。<ruby>事故<rt>じこ</rt></ruby>に<span\
+  \ style=\"color: blue;\">あっ</span>た<ruby>人<rt>ひと</rt></ruby>の７５％<ruby>以上<rt>いじょう</rt></ruby>が４０<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>でした。</p>\n\
+  <p><ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>ることは、<ruby>最近<rt>さいきん</rt></ruby>４０<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>があります。<ruby>特<rt>とく</rt></ruby>に<ruby>夏<rt>なつ</rt></ruby>は<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えます。<ruby>警察<rt>けいさつ</rt></ruby>は、<ruby>天気<rt>てんき</rt></ruby>や<ruby>自分<rt>じぶん</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えて<ruby>安全<rt>あんぜん</rt></ruby>な<ruby>計画<rt>けいかく</rt></ruby>を<ruby>作<rt>つく</rt></ruby>って、<ruby>登<rt>のぼ</rt></ruby>ってほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 遭う
+  descriptions:
+  - （<ruby><rb>思</rb><rt>おも</rt></ruby>いがけないものごとに）たまたま<ruby><rb>出</rb><rt>で</rt></ruby>あう。
+- word: 転ぶ
+  descriptions:
+  - たおれる。ひっくり<ruby><rb>返</rb><rt>かえ</rt></ruby>る。
+- word: 人数
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>数</rb><rt>かず</rt></ruby>。にんず。
+- word: 行方不明
+  descriptions:
+  - どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。
+- word: 年齢
+  descriptions:
+  - <ruby><rb>生</rb><rt>う</rt></ruby>まれてから<ruby><rb>今</rb><rt>いま</rt></ruby>までの<ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>数</rb><rt>かず</rt></ruby>。とし。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+web_news_url: /news/web/2017/06/26/去年の山岳遭難-2番目の多さ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011030081000/k10011030081000.html
+...
