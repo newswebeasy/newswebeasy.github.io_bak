@@ -1,0 +1,54 @@
+---
+layout: easy_news
+newsid: k10011029851000
+categories: easy
+title: 予測では２０３３年には「空き家」が２１６０万になる
+title_with_ruby: <ruby>予測<rt>よそく</rt></ruby>では２０３３<ruby>年<rt>ねん</rt></ruby>には「<ruby>空<rt>あ</rt></ruby>き<ruby>家<rt>や</rt></ruby>」が２１６０<ruby>万<rt>まん</rt></ruby>になる
+last_modified_at: '2017-06-27T11:30:00+09:00'
+datetime: 2017年06月27日 11時30分
+description: 総務省そうむしょうが２０１３年ねんに調しらべると、人ひとが住すんでいない家いえ「空あき家や」の数かずは８２０万まんありました。
+description_with_ruby: <ruby>総務省<rt>そうむしょう</rt></ruby>が２０１３<ruby>年<rt>ねん</rt></ruby>に<ruby>調<rt>しら</rt></ruby>べると、<ruby>人<rt>ひと</rt></ruby>が<ruby>住<rt>す</rt></ruby>んでいない<ruby>家<rt>いえ</rt></ruby>「<ruby>空<rt>あ</rt></ruby>き<ruby>家<rt>や</rt></ruby>」の<ruby>数<rt>かず</rt></ruby>は８２０<ruby>万<rt>まん</rt></ruby>ありました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/27/k10011029851000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/27/k10011029851000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>総務省<rt>そうむしょう</rt></ruby></span>が２０１３<ruby>年<rt>ねん</rt></ruby>に<ruby>調<rt>しら</rt></ruby>べると、<ruby>人<rt>ひと</rt></ruby>が<ruby>住<rt>す</rt></ruby>んでいない<ruby>家<rt>いえ</rt></ruby>「<ruby>空<rt>あ</rt></ruby>き<ruby>家<rt>や</rt></ruby>」の<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>は８２０<ruby>万<rt>まん</rt></ruby>ありました。<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、１３．５％が<ruby>空<rt>あ</rt></ruby>き<ruby>家<rt>や</rt></ruby>でした。</p>\n\
+  <p><ruby>野村総合研究所<rt>のむらそうごうけんきゅうしょ</rt></ruby>は、これからの<ruby>空<rt>あ</rt></ruby>き<ruby>家<rt>や</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>を<span style=\"color: blue;\"\
+  ><ruby>予測<rt>よそく</rt></ruby></span>しました。<span style=\"color: blue;\"><ruby>予測<rt>よそく</rt></ruby></span>では、<ruby>空<rt>あ</rt></ruby>き<ruby>家<rt>や</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ったり<ruby>壊<rt>こわ</rt></ruby>したりしないと、２０３３<ruby>年<rt>ねん</rt></ruby>には２<ruby>倍<rt>ばい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の２１６６<ruby>万<rt>まん</rt></ruby>に<ruby>増<rt>ふ</rt></ruby>えて、<span\
+  \ style=\"color: blue;\"><ruby>割合<rt>わりあい</rt></ruby></span>は３０％ぐらいになります。<ruby>空<rt>あ</rt></ruby>き<ruby>家<rt>や</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える<ruby>理由<rt>りゆう</rt></ruby>は、これから<ruby>人口<rt>じんこう</rt></ruby>は<ruby>少<rt>すく</rt></ruby>なくなるのに、<ruby>新<rt>あたら</rt></ruby>しい<ruby>家<rt>いえ</rt></ruby>は<ruby>増<rt>ふ</rt></ruby>えるためだと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><ruby>空<rt>あ</rt></ruby>き<ruby>家<rt>や</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えると、<span\
+  \ style=\"color: blue;\"><ruby>犯罪<rt>はんざい</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>災害<rt>さいがい</rt></ruby></span>の<span style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>が<ruby>増<rt>ふ</rt></ruby>える<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>もあります。<ruby>野村総合研究所<rt>のむらそうごうけんきゅうしょ</rt></ruby>は、<ruby>空<rt>あ</rt></ruby>き<ruby>家<rt>や</rt></ruby>を<ruby>壊<rt>こわ</rt></ruby>すことやほかの<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えること、<ruby>新<rt>あたら</rt></ruby>しい<ruby>家<rt>いえ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えないようにすることが<ruby>必要<rt>ひつよう</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 予測
+  descriptions:
+  - <ruby><rb>前</rb><rt>まえ</rt></ruby>もって、こうなるだろうと、<ruby><rb>見当</rb><rt>けんとう</rt></ruby>をつけること。
+- word: 総務省
+  descriptions:
+  - <ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>・<ruby><rb>市区町村</rb><rt>しくちょうそん</rt></ruby>などの<ruby><rb>地方自治体</rb><rt>ちほうじちたい</rt></ruby>や<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>の<ruby><rb>世話</rb><rt>せわ</rt></ruby>、<ruby><rb>郵便</rb><rt>ゆうびん</rt></ruby>・<ruby><rb>郵便貯金</rb><rt>ゆうびんちょきん</rt></ruby>・<ruby><rb>簡易保険</rb><rt>かんいほけん</rt></ruby>・<ruby><rb>電気通信</rb><rt>でんきつうしん</rt></ruby>などについての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 数
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。
+  - いくつもあること。たくさん。
+  - <ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。
+- word: 割合
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>と<ruby><rb>物</rb><rt>もの</rt></ruby>との<ruby><rb>関係</rb><rt>かんけい</rt></ruby>を、<ruby><rb>数</rb><rt>かず</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。<ruby><rb>割</rb><rt>わり</rt></ruby>。<ruby><rb>率</rb><rt>りつ</rt></ruby>。<ruby><rb>歩合</rb><rt>ぶあい</rt></ruby>。
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>いのほか。<ruby><rb>比較的</rb><rt>ひかくてき</rt></ruby>。
+- word: 犯罪
+  descriptions:
+  - <ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>すこと。<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>を<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。また、<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>罪</rb><rt>つみ</rt></ruby>。
+- word: 災害
+  descriptions:
+  - <ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+web_news_url: /news/web/2017/06/25/空き家-16年後に2160万戸-住宅の約3割に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011029851000/k10011029851000.html
+...
