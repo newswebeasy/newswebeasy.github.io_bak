@@ -1,0 +1,60 @@
+---
+layout: easy_news
+newsid: k10011031041000
+categories: easy
+title: 「量子コンピューター」の国際会議が東京で始まる
+title_with_ruby: 「<ruby>量子<rt>りょうし</rt></ruby>コンピューター」の<ruby>国際<rt>こくさい</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>が<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まる
+last_modified_at: '2017-06-28T11:30:00+09:00'
+datetime: 2017年06月28日 11時30分
+description: 「量子りょうしコンピューター」は、とても小ちいさな電子でんしなどの物理学ぶつりがくのルールを使つかって、とても速はやく計算けいさんすることができます。
+description_with_ruby: 「<ruby>量子<rt>りょうし</rt></ruby>コンピューター」は、とても<ruby>小<rt>ちい</rt></ruby>さな<ruby>電子<rt>でんし</rt></ruby>などの<ruby>物理学<rt>ぶつりがく</rt></ruby>のルールを<ruby>使<rt>つか</rt></ruby>って、とても<ruby>速<rt>はや</rt></ruby>く<ruby>計算<rt>けいさん</rt></ruby>することができます。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/28/k10011031041000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/28/k10011031041000.mp3
+contents: "<p>「<ruby>量子<rt>りょうし</rt></ruby>コンピューター」は、とても<ruby>小<rt>ちい</rt></ruby>さな<span\
+  \ style=\"color: blue;\"><ruby>電子<rt>でんし</rt></ruby></span>などの<span style=\"color:\
+  \ blue;\"><ruby>物理学<rt>ぶつりがく</rt></ruby></span>の<span style=\"color: blue;\">ルール</span>を<ruby>使<rt>つか</rt></ruby>って、とても<ruby>速<rt>はや</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>することができます。６<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>にカナダの<ruby>会社<rt>かいしゃ</rt></ruby>が、<ruby>世界<rt>せかい</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>量子<rt>りょうし</rt></ruby>コンピューターを<ruby>作<rt>つく</rt></ruby>って<ruby>売<rt>う</rt></ruby>りました。この<ruby>量子<rt>りょうし</rt></ruby>コンピューターを<ruby>買<rt>か</rt></ruby>った<span\
+  \ style=\"color: blue;\">ＮＡＳＡ</span>やグーグルは、<ruby>今<rt>いま</rt></ruby>までのコンピューターの１<ruby>億<rt>おく</rt></ruby><ruby>倍<rt>ばい</rt></ruby>の<ruby>速<rt>はや</rt></ruby>さで<span\
+  \ style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>できたと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>で２６<ruby>日<rt>にち</rt></ruby>から、<ruby>量子<rt>りょうし</rt></ruby>コンピューターの<ruby>研究<rt>けんきゅう</rt></ruby>について<span\
+  \ style=\"color: blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う</span><ruby>国際<rt>こくさい</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>会議<rt>かいぎ</rt></ruby>には、<span\
+  \ style=\"color: blue;\">ＮＡＳＡ</span>やグーグル、<ruby>東京大学<rt>とうきょうだいがく</rt></ruby>などから２００<ruby>人<rt>にん</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まりました。</p>\n\
+  <p>グーグルは、<ruby>自分<rt>じぶん</rt></ruby>たちで<ruby>量子<rt>りょうし</rt></ruby>コンピューターを<ruby>作<rt>つく</rt></ruby>って、<ruby>人<rt>ひと</rt></ruby>のように<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>える「<ruby>人工知能<rt>じんこうちのう</rt></ruby>」に<ruby>利用<rt>りよう</rt></ruby>しようと<ruby>考<rt>かんが</rt></ruby>えていると<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>マサチューセッツ<ruby>工科<rt>こうか</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>で<ruby>研究<rt>けんきゅう</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>は、アメリカでは<ruby>国<rt>くに</rt></ruby>の<span\
+  \ style=\"color: blue;\">チーム</span>が<ruby>量子<rt>りょうし</rt></ruby>コンピューターを<ruby>作<rt>つく</rt></ruby>るための<ruby>研究<rt>けんきゅう</rt></ruby>をしていると<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>会議<rt>かいぎ</rt></ruby>は２９<ruby>日<rt>にち</rt></ruby>までで、<ruby>量子<rt>りょうし</rt></ruby>コンピューターを<ruby>何<rt>なに</rt></ruby>に<ruby>利用<rt>りよう</rt></ruby>できるかなどを<span\
+  \ style=\"color: blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>い</span>ます。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: 電子
+  descriptions:
+  - <ruby><rb>原子</rb><rt>げんし</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている、マイナスの<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>小</rb><rt>ちい</rt></ruby>さいつぶ。エレクトロン。
+  - <ruby><rb>電子工学</rb><rt>でんしこうがく</rt></ruby>を<ruby><rb>応用</rb><rt>おうよう</rt></ruby>していること。
+- word: 物理学
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>や<ruby><rb>運動</rb><rt>うんどう</rt></ruby>、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>・<ruby><rb>光</rb><rt>ひかり</rt></ruby>・<ruby><rb>電気</rb><rt>でんき</rt></ruby>・<ruby><rb>音</rb><rt>おと</rt></ruby>のはたらきなどについて<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>学問</rb><rt>がくもん</rt></ruby>。
+- word: ルール
+  descriptions:
+  - <ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。
+- word: 計算
+  descriptions:
+  - <ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。
+  - <ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。
+- word: NASA
+  descriptions:
+  - <ruby><rb>宇宙開発</rb><rt>うちゅうかいはつ</rt></ruby>のために<ruby><rb>作</rb><rt>つく</rt></ruby>られた、アメリカ<ruby><rb>政府</rb><rt>せいふ</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>。スペースシャトルの<ruby><rb>開発</rb><rt>かいはつ</rt></ruby>などをする。
+- word: 話し合う
+  descriptions:
+  - たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。
+  - <ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 話し合う
+  descriptions:
+  - たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。
+  - <ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。
+web_news_url: /news/web/2017/06/26/量子コンピューターの国際会議-東京で開催/
+source_url: http://www3.nhk.or.jp/news/easy/k10011031041000/k10011031041000.html
+...
