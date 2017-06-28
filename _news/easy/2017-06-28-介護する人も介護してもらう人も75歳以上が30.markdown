@@ -1,0 +1,36 @@
+---
+layout: easy_news
+newsid: k10011031711000
+categories: easy
+title: 「介護する人も介護してもらう人も７５歳以上」が３０％
+title_with_ruby: 「<ruby>介護<rt>かいご</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>も<ruby>介護<rt>かいご</rt></ruby>してもらう<ruby>人<rt>ひと</rt></ruby>も７５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>」が３０％
+last_modified_at: '2017-06-28T17:20:00+09:00'
+datetime: 2017年06月28日 17時20分
+description: 厚生労働省こうせいろうどうしょうは去年きょねん６月がつ、病気びょうきなどのお年寄としよりの介護かいごについて調しらべました。
+description_with_ruby: <ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>６<ruby>月<rt>がつ</rt></ruby>、<ruby>病気<rt>びょうき</rt></ruby>などのお<ruby>年寄<rt>としよ</rt></ruby>りの<ruby>介護<rt>かいご</rt></ruby>について<ruby>調<rt>しら</rt></ruby>べました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/28/k10011031711000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/28/k10011031711000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>は<ruby>去年<rt>きょねん</rt></ruby>６<ruby>月<rt>がつ</rt></ruby>、<ruby>病気<rt>びょうき</rt></ruby>などのお<span\
+  \ style=\"color: blue;\"><ruby>年寄<rt>としよ</rt></ruby>り</span>の<span style=\"color:\
+  \ blue;\"><ruby>介護<rt>かいご</rt></ruby></span>について<ruby>調<rt>しら</rt></ruby>べました。６８００<ruby>人<rt>にん</rt></ruby>ぐらいが<ruby>答<rt>こた</rt></ruby>えました。</p>\n\
+  <p>この<ruby>中<rt>なか</rt></ruby>には、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>家族<rt>かぞく</rt></ruby>がお<span\
+  \ style=\"color: blue;\"><ruby>年寄<rt>としよ</rt></ruby>り</span>の<span style=\"color:\
+  \ blue;\"><ruby>介護<rt>かいご</rt></ruby></span>をしている<ruby>家庭<rt>かてい</rt></ruby>があります。<span\
+  \ style=\"color: blue;\"><ruby>介護<rt>かいご</rt></ruby></span>をしている<ruby>人<rt>ひと</rt></ruby>も、<span\
+  \ style=\"color: blue;\"><ruby>介護<rt>かいご</rt></ruby></span>をしてもらっている<ruby>人<rt>ひと</rt></ruby>も、どちらも６５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>だった<ruby>家庭<rt>かてい</rt></ruby>は５４．７％でした。<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなりました。</p>\n\
+  <p>どちらも７５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>だった<ruby>家庭<rt>かてい</rt></ruby>は３０．２％でした。これも<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなりました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 介護
+  descriptions:
+  - <ruby><rb>病人</rb><rt>びょうにん</rt></ruby>などを<ruby><rb>介抱</rb><rt>かいほう</rt></ruby>し、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をすること。
+- word: 厚生労働省
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。
+- word: 年寄り
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。
+  - <ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+web_news_url: /news/web/2017/06/27/75歳以上の老老介護初の30超に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011031711000/k10011031711000.html
+...
