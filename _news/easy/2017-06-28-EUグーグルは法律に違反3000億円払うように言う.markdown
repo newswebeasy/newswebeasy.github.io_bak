@@ -1,0 +1,58 @@
+---
+layout: easy_news
+newsid: k10011032411000
+categories: easy
+title: ＥＵ「グーグルは法律に違反」３０００億円払うように言う
+title_with_ruby: ＥＵ「グーグルは<ruby>法律<rt>ほうりつ</rt></ruby>に<ruby>違反<rt>いはん</rt></ruby>」３０００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>払<rt>はら</rt></ruby>うように<ruby>言<rt>い</rt></ruby>う
+last_modified_at: '2017-06-28T17:20:00+09:00'
+datetime: 2017年06月28日 17時20分
+description: アメリカの会社かいしゃのグーグルは、買かい物ものができるウェブサイトのサービスをヨーロッパで行おこなっています。
+description_with_ruby: アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>のグーグルは、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>ができるウェブサイトのサービスをヨーロッパで<ruby>行<rt>おこな</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/28/k10011032411000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/28/k10011032411000.mp3
+contents: "<p>アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>のグーグルは、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>ができる<span\
+  \ style=\"color: blue;\">ウェブサイト</span>の<span style=\"color: blue;\">サービス</span>を<span\
+  \ style=\"color: blue;\">ヨーロッパ</span>で<ruby>行<rt>おこな</rt></ruby>っています。</p>\n<p><span\
+  \ style=\"color: blue;\">ＥＵ</span>のヨーロッパ<ruby>委員会<rt>いいんかい</rt></ruby>は２７<ruby>日<rt>にち</rt></ruby>、「グーグルは、<ruby>客<rt>きゃく</rt></ruby>が<ruby>買<rt>か</rt></ruby>いたい<ruby>物<rt>もの</rt></ruby>をインターネットで<ruby>調<rt>しら</rt></ruby>べたとき、ページの<span\
+  \ style=\"color: blue;\"><ruby>目立<rt>めだ</rt></ruby>つ</span><ruby>場所<rt>ばしょ</rt></ruby>にグーグルの<span\
+  \ style=\"color: blue;\">ウェブサイト</span>が<ruby>出<rt>で</rt></ruby>るようにしている」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>委員会<rt>いいんかい</rt></ruby></span>は、グーグルは、いろいろな<ruby>会社<rt>かいしゃ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>平等<rt>びょうどう</rt></ruby></span>に<ruby>競争<rt>きょうそう</rt></ruby>できるようにする<ruby>法律<rt>ほうりつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>違反<rt>いはん</rt></ruby></span>していると<ruby>考<rt>かんが</rt></ruby>えています。このため、<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>３０００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>を<ruby>払<rt>はら</rt></ruby>うようにグーグルに<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>しかし、グーグルは「<span style=\"color: blue;\">ＥＵ</span>の<ruby>意見<rt>いけん</rt></ruby>は<ruby>正<rt>ただ</rt></ruby>しくありません。これから<ruby>私<rt>わたし</rt></ruby>たちの<ruby>意見<rt>いけん</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>します」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: EU
+  descriptions:
+  - イギリス・ドイツ・フランスなどヨーロッパの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が、<ruby><rb>共同</rb><rt>きょうどう</rt></ruby>で<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>をはかったり<ruby><rb>経済</rb><rt>けいざい</rt></ruby>を<ruby><rb>運営</rb><rt>うんえい</rt></ruby>したりしようとする<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+- word: 違反
+  descriptions:
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: 目立つ
+  descriptions:
+  - はっきり<ruby><rb>見</rb><rt>み</rt></ruby>える。<ruby><rb>目</rb><rt>め</rt></ruby>につきやすい。
+- word: 委員会
+  descriptions:
+  - <ruby><rb>委員</rb><rt>いいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>相談</rb><rt>そうだん</rt></ruby>したりものごとを<ruby><rb>決</rb><rt>き</rt></ruby>めたりする<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: 平等
+  descriptions:
+  - すべて<ruby><rb>同</rb><rt>おな</rt></ruby>じであること。<ruby><rb>差別</rb><rt>さべつ</rt></ruby>のないこと。<ruby><rb>公平</rb><rt>こうへい</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+web_news_url: /news/web/2017/06/27/EUがグーグルに3000億円余の制裁金-EU競争法に違反/
+source_url: http://www3.nhk.or.jp/news/easy/k10011032411000/k10011032411000.html
+...
