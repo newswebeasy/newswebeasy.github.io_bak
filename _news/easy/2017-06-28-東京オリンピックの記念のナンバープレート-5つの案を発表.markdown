@@ -1,0 +1,80 @@
+---
+layout: easy_news
+newsid: k10011032041000
+categories: easy
+title: 東京オリンピックの記念のナンバープレート　５つの案を発表
+title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>オリンピックの<ruby>記念<rt>きねん</rt></ruby>のナンバープレート　５つの<ruby>案<rt>あん</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>
+last_modified_at: '2017-06-28T17:20:00+09:00'
+datetime: 2017年06月28日 17時20分
+description: ２０２０年ねんに東京とうきょうオリンピックとパラリンピックがあります。
+description_with_ruby: ２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>オリンピックとパラリンピックがあります。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/28/k10011032041000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/28/k10011032041000.mp3
+contents: "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby><span style=\"\
+  color: blue;\">オリンピック</span>と<span style=\"color: blue;\">パラリンピック</span>があります。<span\
+  \ style=\"color: blue;\"><ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby></span>は、<span style=\"\
+  color: blue;\"><ruby>記念<rt>きねん</rt></ruby></span>の<span style=\"color: blue;\">ナンバープレート</span>を<ruby>作<rt>つく</rt></ruby>ることにしています。２７<ruby>日<rt>にち</rt></ruby>、<ruby>集<rt>あつ</rt></ruby>まった９６の<span\
+  \ style=\"color: blue;\">デザイン</span>から５つの<span style=\"color: blue;\"><ruby>案<rt>あん</rt></ruby></span>を<ruby>選<rt>えら</rt></ruby>んで<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>この<ruby>中<rt>なか</rt></ruby>には、<span\
+  \ style=\"color: blue;\"><ruby>江戸時代<rt>えどじだい</rt></ruby></span>からある<span style=\"\
+  color: blue;\"><ruby>模様<rt>もよう</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>った<span\
+  \ style=\"color: blue;\">デザイン</span>や、いろいろなスポーツをしている<span style=\"color: blue;\"\
+  ><ruby>選手<rt>せんしゅ</rt></ruby></span>の<span style=\"color: blue;\">デザイン</span>があります。<span\
+  \ style=\"color: blue;\"><ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby></span>はインターネットで<ruby>意見<rt>いけん</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めて、７<ruby>月<rt>がつ</rt></ruby>に５つの<span\
+  \ style=\"color: blue;\"><ruby>案<rt>あん</rt></ruby></span>から１つを<ruby>決<rt>き</rt></ruby>めて、１０<ruby>月<rt>がつ</rt></ruby>から<ruby>使<rt>つか</rt></ruby>うことができるようにします。</p>\n\
+  <p>この<span style=\"color: blue;\">ナンバープレート</span>を<ruby>使<rt>つか</rt></ruby>いたい<ruby>車<rt>くるま</rt></ruby>やバス、タクシーなどは、１<ruby>台<rt>だい</rt></ruby>１０００<ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>寄付<rt>きふ</rt></ruby></span>することが<ruby>必要<rt>ひつよう</rt></ruby>です。このお<ruby>金<rt>かね</rt></ruby>で、お<span\
+  \ style=\"color: blue;\"><ruby>年寄<rt>としよ</rt></ruby>り</span>や<ruby>体<rt>からだ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>のために、バスやタクシーなどを<ruby>利用<rt>りよう</rt></ruby>しやすくする<ruby>計画<rt>けいかく</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: 記念
+  descriptions:
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>しておくこと。また、その<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: ナンバープレート
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>の<ruby><rb>登録番号</rb><rt>とうろくばんごう</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>板</rb><rt>いた</rt></ruby>。
+- word: 案
+  descriptions:
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>考</rb><rt>かんが</rt></ruby>え。<ruby><rb>計画</rb><rt>けいかく</rt></ruby>。
+  - <ruby><rb>相談</rb><rt>そうだん</rt></ruby>のことがら。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: 国土交通省
+  descriptions:
+  - <ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>建物</rb><rt>たてもの</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>交通</rb><rt>こうつう</rt></ruby>・<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>の<ruby><rb>運送</rb><rt>うんそう</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>国交省</rb><rt>こっこうしょう</rt></ruby>。
+- word: デザイン
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。
+  - <ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。
+- word: 江戸時代
+  descriptions:
+  - <ruby><rb>徳川家康</rb><rt>とくがわいえやす</rt></ruby>が、１６０３<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>江戸</rb><rt>えど</rt></ruby>に<ruby><rb>幕府</rb><rt>ばくふ</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いてから、１８６７<ruby><rb>年</rb><rt>ねん</rt></ruby>にほろびるまでの<ruby><rb>約</rb><rt>やく</rt></ruby>２６０<ruby><rb>年間</rb><rt>ねんかん</rt></ruby>。<ruby><rb>鎖国</rb><rt>さこく</rt></ruby>のために<ruby><rb>日本</rb><rt>にっぽん</rt></ruby><ruby><rb>独特</rb><rt>どくとく</rt></ruby>の<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>栄</rb><rt>さか</rt></ruby>えた。「<ruby><rb>徳川時代</rb><rt>とくがわじだい</rt></ruby>」ともいう。
+- word: 模様
+  descriptions:
+  - かざりにする<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>。
+  - ようす。ありさま。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 寄付
+  descriptions:
+  - （おおやけの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>・<ruby><rb>寺</rb><rt>てら</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けるために）お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 年寄り
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。
+  - <ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 障害
+  descriptions:
+  - <ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。
+web_news_url: /news/web/2017/06/27/東京五輪パラ-自動車用の記念ナンバープレート5案発表/
+source_url: http://www3.nhk.or.jp/news/easy/k10011032041000/k10011032041000.html
+...
