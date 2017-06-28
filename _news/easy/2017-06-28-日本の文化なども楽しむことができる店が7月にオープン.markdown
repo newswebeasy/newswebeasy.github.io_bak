@@ -1,0 +1,67 @@
+---
+layout: easy_news
+newsid: k10011030801000
+categories: easy
+title: 日本の文化なども楽しむことができる店が７月にオープン
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>なども<ruby>楽<rt>たの</rt></ruby>しむことができる<ruby>店<rt>みせ</rt></ruby>が７<ruby>月<rt>がつ</rt></ruby>にオープン
+last_modified_at: '2017-06-28T11:30:00+09:00'
+datetime: 2017年06月28日 11時30分
+description: 買かい物もののほかに日本にっぽんの文化ぶんかなども楽たのしむことができる店みせが、千葉市ちばしにオープンします。
+description_with_ruby: <ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>のほかに<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>なども<ruby>楽<rt>たの</rt></ruby>しむことができる<ruby>店<rt>みせ</rt></ruby>が、<ruby>千葉市<rt>ちばし</rt></ruby>にオープンします。
+image_url: https://newswebeasy.github.io/ja201706/news/easy/image/2017/06/28/k10011030801000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/28/k10011030801000.mp3
+contents: "<p><ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>のほかに<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>なども<ruby>楽<rt>たの</rt></ruby>しむことができる<ruby>店<rt>みせ</rt></ruby>が、<ruby>千葉市<rt>ちばし</rt></ruby>に<span\
+  \ style=\"color: blue;\">オープン</span>します。この<ruby>店<rt>みせ</rt></ruby>は、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>税金<rt>ぜいきん</rt></ruby></span>を<ruby>払<rt>はら</rt></ruby>わないで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>できる「<ruby>免税<rt>めんぜい</rt></ruby>」の<ruby>店<rt>みせ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>がつくりました。</p>\n\
+  <p><ruby>免税<rt>めんぜい</rt></ruby>の<ruby>売<rt>う</rt></ruby>り<ruby>場<rt>ば</rt></ruby>では、<span\
+  \ style=\"color: blue;\"><ruby>電化製品<rt>でんかせいひん</rt></ruby></span>や<span style=\"\
+  color: blue;\"><ruby>化粧<rt>けしょう</rt></ruby></span><span style=\"color: blue;\"><ruby>品<rt>ひん</rt></ruby></span>などを<ruby>売<rt>う</rt></ruby>っています。<ruby>外国<rt>がいこく</rt></ruby>では<ruby>売<rt>う</rt></ruby>っていないカップ<span\
+  \ style=\"color: blue;\">ラーメン</span>の<ruby>売<rt>う</rt></ruby>り<ruby>場<rt>ば</rt></ruby>もあって、お<ruby>湯<rt>ゆ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れて<ruby>食<rt>た</rt></ruby>べることができます。</p>\n\
+  <p>レストランでは、<span style=\"color: blue;\">すし</span>や<span style=\"color: blue;\"><ruby>天<rt>てん</rt></ruby>ぷら</span>などの<ruby>日本料理<rt>にほんりょうり</rt></ruby>を<ruby>食<rt>た</rt></ruby>べることができます。<span\
+  \ style=\"color: blue;\">プラスチック</span>の<span style=\"color: blue;\"><ruby>弾<rt>たま</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>る<span\
+  \ style=\"color: blue;\"><ruby>銃<rt>じゅう</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>って<ruby>遊<rt>あそ</rt></ruby>ぶ<ruby>場所<rt>ばしょ</rt></ruby>もあります。</p>\n\
+  <p>この<ruby>店<rt>みせ</rt></ruby>は７<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>に<span\
+  \ style=\"color: blue;\">オープン</span>します。</p>\n<p></p>\n<p></p>"
+words:
+- word: オープン
+  descriptions:
+  - <ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。
+  - かくしだてをしないようす。
+  - おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。
+- word: 税金
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>、<ruby><rb>市町村</rb><rt>しちょうそん</rt></ruby>が、そこに<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>人</rb><rt>ひと</rt></ruby>から<ruby><rb>集</rb><rt>あつ</rt></ruby>めるお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 電化製品
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って、はたらかせる<ruby><rb>機械</rb><rt>きかい</rt></ruby>。<ruby><rb>電気冷蔵庫</rb><rt>でんきれいぞうこ</rt></ruby>・<ruby><rb>電気洗濯機</rb><rt>でんきせんたくき</rt></ruby>など。
+- word: 化粧
+  descriptions:
+  - おしろいや、<ruby><rb>紅</rb><rt>べに</rt></ruby>などをつけて、<ruby><rb>顔</rb><rt>かお</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+  - <ruby><rb>外側</rb><rt>そとがわ</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+- word: 品
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。<ruby><rb>品質</rb><rt>ひんしつ</rt></ruby>。
+  - <ruby><rb>種類</rb><rt>しゅるい</rt></ruby>。
+- word: ラーメン
+  descriptions:
+  - <ruby><rb>中国風</rb><rt>ちゅうごくふう</rt></ruby>のめんをゆで、スープをかけた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>中華</rb><rt>ちゅうか</rt></ruby>そば。
+- word: 鮨・
+  descriptions:
+  - <ruby><rb>酢</rb><rt>す</rt></ruby>で<ruby><rb>味</rb><rt>あじ</rt></ruby>をつけたご<ruby><rb>飯</rb><rt>はん</rt></ruby>に、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や、<ruby><rb>貝</rb><rt>かい</rt></ruby>・<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などをのせたり、<ruby><rb>混</rb><rt>ま</rt></ruby>ぜたりした<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。にぎりずし・<ruby><rb>巻</rb><rt>ま</rt></ruby>きずし・ちらしずしなど。
+- word: 天ぷら
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>やエビ、<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などに、<ruby><rb>水</rb><rt>みず</rt></ruby>でといた<ruby><rb>小麦粉</rb><rt>こむぎこ</rt></ruby>をつけて、<ruby><rb>油</rb><rt>あぶら</rt></ruby>であげたもの。
+- word: プラスチック
+  descriptions:
+  - <ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>圧力</rb><rt>あつりょく</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>えて、<ruby><rb>自由</rb><rt>じゆう</rt></ruby>に<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ることができる<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>合成樹脂</rb><rt>ごうせいじゅし</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>す。<ruby><rb>使</rb><rt>つか</rt></ruby>い<ruby><rb>道</rb><rt>みち</rt></ruby>が<ruby><rb>広</rb><rt>ひろ</rt></ruby>い。
+- word: 弾丸
+  descriptions:
+  - ピストルや<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>のたま。
+  - <ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>速</rb><rt>はや</rt></ruby>いもののたとえ。
+- word: 銃
+  descriptions:
+  - <ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>・ピストルなど、<ruby><rb>弾丸</rb><rt>だんがん</rt></ruby>をうつ<ruby><rb>武器</rb><rt>ぶき</rt></ruby>。
+web_news_url: /news/web/2017/06/26/ラオックス日本体験の新型店オープンへ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011030801000/k10011030801000.html
+...
