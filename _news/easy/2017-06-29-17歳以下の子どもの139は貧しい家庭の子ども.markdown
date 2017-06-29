@@ -1,0 +1,52 @@
+---
+layout: easy_news
+newsid: k10011032311000
+categories: easy
+title: １７歳以下の子どもの１３．９％は貧しい家庭の子ども
+title_with_ruby: １７<ruby>歳<rt>さい</rt></ruby><ruby>以下<rt>いか</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもの１３．９％は<ruby>貧<rt>まず</rt></ruby>しい<ruby>家庭<rt>かてい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>ども
+last_modified_at: '2017-06-29T11:30:00+09:00'
+datetime: 2017年06月29日 11時30分
+description: 厚生労働省こうせいろうどうしょうは、貧まずしい家庭かていの子こどもがどのくらいいるか３年ねんに１回かい調しらべています。
+description_with_ruby: <ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby>は、<ruby>貧<rt>まず</rt></ruby>しい<ruby>家庭<rt>かてい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもがどのくらいいるか３<ruby>年<rt>ねん</rt></ruby>に１<ruby>回<rt>かい</rt></ruby><ruby>調<rt>しら</rt></ruby>べています。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/29/k10011032311000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/29/k10011032311000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>は、<span\
+  \ style=\"color: blue;\"><ruby>貧<rt>まず</rt></ruby>しい</span><ruby>家庭<rt>かてい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもがどのくらいいるか３<ruby>年<rt>ねん</rt></ruby>に１<ruby>回<rt>かい</rt></ruby><ruby>調<rt>しら</rt></ruby>べています。２０１５<ruby>年<rt>ねん</rt></ruby>は、１７<ruby>歳<rt>さい</rt></ruby><ruby>以下<rt>いか</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもの７<ruby>人<rt>にん</rt></ruby>に<ruby>１人<rt>ひとり</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>貧<rt>まず</rt></ruby>しい</span><ruby>家庭<rt>かてい</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>していました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>割合<rt>わりあい</rt></ruby></span>は１３．９％で、２０１２<ruby>年<rt>ねん</rt></ruby>に<ruby>調<rt>しら</rt></ruby>べたときより２．４<span\
+  \ style=\"color: blue;\">ポイント</span><ruby>低<rt>ひく</rt></ruby>くなりましたが、<ruby>世界<rt>せかい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>先進国<rt>せんしんこく</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>ではまだ<ruby>高<rt>たか</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>割合<rt>わりあい</rt></ruby></span>です。</p>\n<p><span style=\"\
+  color: blue;\"><ruby>親<rt>おや</rt></ruby></span>が<ruby>１人<rt>ひとり</rt></ruby>の<ruby>家庭<rt>かてい</rt></ruby>は、５０．８％が<span\
+  \ style=\"color: blue;\"><ruby>貧<rt>まず</rt></ruby>しい</span><ruby>家庭<rt>かてい</rt></ruby>でした。２０１２<ruby>年<rt>ねん</rt></ruby>より<ruby>少<rt>すこ</rt></ruby>し<ruby>低<rt>ひく</rt></ruby>くなりましたが、<ruby>今<rt>いま</rt></ruby>も<ruby>半分<rt>はんぶん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>貧<rt>まず</rt></ruby>しい</span><ruby>家庭<rt>かてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 貧しい
+  descriptions:
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>少</rb><rt>すこ</rt></ruby>ししかなく、<ruby><rb>暮</rb><rt>く</rt></ruby>らしに<ruby><rb>困</rb><rt>こま</rt></ruby>る。<ruby><rb>貧乏</rb><rt>びんぼう</rt></ruby>だ。
+  - <ruby><rb>少</rb><rt>すく</rt></ruby>ない。とぼしい。
+- word: 厚生労働省
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。
+- word: 割合
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>と<ruby><rb>物</rb><rt>もの</rt></ruby>との<ruby><rb>関係</rb><rt>かんけい</rt></ruby>を、<ruby><rb>数</rb><rt>かず</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。<ruby><rb>割</rb><rt>わり</rt></ruby>。<ruby><rb>率</rb><rt>りつ</rt></ruby>。<ruby><rb>歩合</rb><rt>ぶあい</rt></ruby>。
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>いのほか。<ruby><rb>比較的</rb><rt>ひかくてき</rt></ruby>。
+- word: ポイント
+  descriptions:
+  - <ruby><rb>点</rb><rt>てん</rt></ruby>。<ruby><rb>要点</rb><rt>ようてん</rt></ruby>。
+  - <ruby><rb>得点</rb><rt>とくてん</rt></ruby>。<ruby><rb>点数</rb><rt>てんすう</rt></ruby>。
+  - <ruby><rb>線路</rb><rt>せんろ</rt></ruby>の<ruby><rb>分</rb><rt>わ</rt></ruby>かれ<ruby><rb>目</rb><rt>め</rt></ruby>で、<ruby><rb>車両</rb><rt>しゃりょう</rt></ruby>を<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れかえる<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>転</rb><rt>てん</rt></ruby>てつ<ruby><rb>機</rb><rt>き</rt></ruby>。
+- word: 先進国
+  descriptions:
+  - <ruby><rb>経済</rb><rt>けいざい</rt></ruby>・<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>などが<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>んでいる<ruby><rb>国</rb><rt>くに</rt></ruby>。
+- word: 親
+  descriptions:
+  - <ruby><rb>父</rb><rt>ちち</rt></ruby>や<ruby><rb>母</rb><rt>はは</rt></ruby>。<ruby><rb>両親</rb><rt>りょうしん</rt></ruby>。
+  - <ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>をうんだもの。
+  - トランプやかるたなどの<ruby><rb>遊</rb><rt>あそ</rt></ruby>びで、カードを<ruby><rb>配</rb><rt>くば</rt></ruby>る<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となるもの。<ruby><rb>大</rb><rt>おお</rt></ruby>きいもの。
+web_news_url: /news/web/2017/06/27/子どもの貧困率139-12年ぶり改善も依然高水準/
+source_url: http://www3.nhk.or.jp/news/easy/k10011032311000/k10011032311000.html
+...
