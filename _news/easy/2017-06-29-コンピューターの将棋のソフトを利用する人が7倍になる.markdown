@@ -1,0 +1,53 @@
+---
+layout: easy_news
+newsid: k10011032431000
+categories: easy
+title: コンピューターの将棋のソフトを利用する人が７倍になる
+title_with_ruby: コンピューターの<ruby>将棋<rt>しょうぎ</rt></ruby>のソフトを<ruby>利用<rt>りよう</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が７<ruby>倍<rt>ばい</rt></ruby>になる
+last_modified_at: '2017-06-29T11:30:00+09:00'
+datetime: 2017年06月29日 11時30分
+description: 将棋しょうぎのプロで１４歳さいの藤井ふじい聡太そうたさんは、試合しあいで２９回かい続つづけて勝かって、プロの中なかでいちばん多おおく続つづけて勝かった記録きろくをつくりました。
+description_with_ruby: <ruby>将棋<rt>しょうぎ</rt></ruby>のプロで１４<ruby>歳<rt>さい</rt></ruby>の<ruby>藤井<rt>ふじい</rt></ruby><ruby>聡太<rt>そうた</rt></ruby>さんは、<ruby>試合<rt>しあい</rt></ruby>で２９<ruby>回<rt>かい</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>勝<rt>か</rt></ruby>って、プロの<ruby>中<rt>なか</rt></ruby>でいちばん<ruby>多<rt>おお</rt></ruby>く<ruby>続<rt>つづ</rt></ruby>けて<ruby>勝<rt>か</rt></ruby>った<ruby>記録<rt>きろく</rt></ruby>をつくりました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/29/k10011032431000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/29/k10011032431000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<span\
+  \ style=\"color: blue;\">プロ</span>で１４<ruby>歳<rt>さい</rt></ruby>の<ruby>藤井<rt>ふじい</rt></ruby><ruby>聡太<rt>そうた</rt></ruby>さんは、<ruby>試合<rt>しあい</rt></ruby>で２９<ruby>回<rt>かい</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>勝<rt>か</rt></ruby>って、<span\
+  \ style=\"color: blue;\">プロ</span>の<ruby>中<rt>なか</rt></ruby>でいちばん<ruby>多<rt>おお</rt></ruby>く<ruby>続<rt>つづ</rt></ruby>けて<ruby>勝<rt>か</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>をつくりました。</p>\n<p><ruby>藤井<rt>ふじい</rt></ruby>さんが<span\
+  \ style=\"color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>をつくった６<ruby>月<rt>がつ</rt></ruby>２６<ruby>日<rt>にち</rt></ruby>は、コンピューターの<span\
+  \ style=\"color: blue;\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">ソフト</span>を<span style=\"color: blue;\">ウェブサイト</span>で<ruby>利用<rt>りよう</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>がいつもの７<ruby>倍<rt>ばい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<span style=\"\
+  color: blue;\">ソフト</span>は、<ruby>最近<rt>さいきん</rt></ruby>の１０<ruby>年<rt>ねん</rt></ruby>ぐらいでどんどん<span\
+  \ style=\"color: blue;\">レベル</span>が<ruby>高<rt>たか</rt></ruby>くなっています。<span style=\"\
+  color: blue;\">プロ</span>に<ruby>勝<rt>か</rt></ruby>つことができる<span style=\"color: blue;\"\
+  >ソフト</span>も<span style=\"color: blue;\"><ruby>無料<rt>むりょう</rt></ruby></span>で<ruby>利用<rt>りよう</rt></ruby>できるようになりました。<ruby>中学生<rt>ちゅうがくせい</rt></ruby>や<ruby>高校生<rt>こうこうせい</rt></ruby>が<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>使<rt>つか</rt></ruby>うことができる<span\
+  \ style=\"color: blue;\">ソフト</span>や、スマートフォンで<ruby>利用<rt>りよう</rt></ruby>できる<span\
+  \ style=\"color: blue;\">ソフト</span>もあります。</p>\n<p></p>\n<p></p>"
+words:
+- word: 将棋
+  descriptions:
+  - <ruby><rb>縦</rb><rt>たて</rt></ruby>・<ruby><rb>横</rb><rt>よこ</rt></ruby>に１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>板</rb><rt>いた</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>で、２０<ruby><rb>枚</rb><rt>まい</rt></ruby>ずつのこまを<ruby><rb>動</rb><rt>うご</rt></ruby>かし、<ruby><rb>相手</rb><rt>あいて</rt></ruby>の<ruby><rb>王</rb><rt>おう</rt></ruby>を<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>るゲーム。
+- word: ソフトウエア
+  descriptions:
+  - コンピューターを<ruby><rb>動</rb><rt>うご</rt></ruby>かすためのプログラムや<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>。ソフト。
+- word: プロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。
+  - 「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+- word: 記録
+  descriptions:
+  - あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+- word: レベル
+  descriptions:
+  - <ruby><rb>評価</rb><rt>ひょうか</rt></ruby>をするときの<ruby><rb>標準</rb><rt>ひょうじゅん</rt></ruby>。<ruby><rb>水準</rb><rt>すいじゅん</rt></ruby>。
+- word: 無料
+  descriptions:
+  - <ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。
+web_news_url: /news/web/2017/06/27/藤井四段の活躍で人工知能搭載ソフトに注目集まる/
+source_url: http://www3.nhk.or.jp/news/easy/k10011032431000/k10011032431000.html
+...
