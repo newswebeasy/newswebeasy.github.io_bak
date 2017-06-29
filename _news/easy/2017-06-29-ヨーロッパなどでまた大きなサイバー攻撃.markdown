@@ -1,0 +1,77 @@
+---
+layout: easy_news
+newsid: k10011033831000
+categories: easy
+title: ヨーロッパなどでまた大きなサイバー攻撃
+title_with_ruby: ヨーロッパなどでまた<ruby>大<rt>おお</rt></ruby>きなサイバー<ruby>攻撃<rt>こうげき</rt></ruby>
+last_modified_at: '2017-06-29T16:00:00+09:00'
+datetime: 2017年06月29日 16時00分
+description: ヨーロッパなどで２７日にちから、たくさんの役所やくしょや会社かいしゃなどのコンピューターにウイルスが入はいる「サイバー攻撃こうげき」がありました。
+description_with_ruby: ヨーロッパなどで２７<ruby>日<rt>にち</rt></ruby>から、たくさんの<ruby>役所<rt>やくしょ</rt></ruby>や<ruby>会社<rt>かいしゃ</rt></ruby>などのコンピューターにウイルスが<ruby>入<rt>はい</rt></ruby>る「サイバー<ruby>攻撃<rt>こうげき</rt></ruby>」がありました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/29/k10011033831000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/29/k10011033831000.mp3
+contents: "<p><span style=\"color: blue;\">ヨーロッパ</span>などで２７<ruby>日<rt>にち</rt></ruby>から、たくさんの<span\
+  \ style=\"color: blue;\"><ruby>役所<rt>やくしょ</rt></ruby></span>や<ruby>会社<rt>かいしゃ</rt></ruby>などのコンピューターに<span\
+  \ style=\"color: blue;\">ウイルス</span>が<ruby>入<rt>はい</rt></ruby>る「サイバー<ruby>攻撃<rt>こうげき</rt></ruby>」がありました。</p>\n\
+  <p>ウクライナでは、<span style=\"color: blue;\"><ruby>役所<rt>やくしょ</rt></ruby></span>や<ruby>銀行<rt>ぎんこう</rt></ruby>などのコンピューターに<span\
+  \ style=\"color: blue;\">ウイルス</span>が<ruby>入<rt>はい</rt></ruby>りました。このため<span style=\"\
+  color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>のキエフでは、<ruby>銀行<rt>ぎんこう</rt></ruby>の<span\
+  \ style=\"color: blue;\">カード</span>を<ruby>使<rt>つか</rt></ruby>うことができなくなったスーパーマーケットがありました。</p>\n\
+  <p>インドでも、<span style=\"color: blue;\">コンテナ</span>を<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>会社<rt>かいしゃ</rt></ruby>のコンピューターに<span\
+  \ style=\"color: blue;\">ウイルス</span>が<ruby>入<rt>はい</rt></ruby>って、ムンバイの<ruby>港<rt>みなと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うことができなくなりました。</p>\n\
+  <p><span style=\"color: blue;\">ヨーロッパ</span>の<ruby>警察<rt>けいさつ</rt></ruby>は「このサイバー<ruby>攻撃<rt>こうげき</rt></ruby>は、５<ruby>月<rt>がつ</rt></ruby>に<ruby>世界中<rt>せかいじゅう</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>たサイバー<ruby>攻撃<rt>こうげき</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">ウイルス</span>が<ruby>原因<rt>げんいん</rt></ruby>です。<ruby>今度<rt>こんど</rt></ruby>の<span\
+  \ style=\"color: blue;\">ウイルス</span>は５<ruby>月<rt>がつ</rt></ruby>の<span style=\"color:\
+  \ blue;\">ウイルス</span>よりコンピューターを<span style=\"color: blue;\"><ruby>攻撃<rt>こうげき</rt></ruby></span>する<ruby>力<rt>ちから</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>くなっています」と<ruby>言<rt>い</rt></ruby>いました。そして、コンピューターの<span\
+  \ style=\"color: blue;\">データ</span>をほかの<ruby>場所<rt>ばしょ</rt></ruby>などにコピーして、<ruby>知<rt>し</rt></ruby>らない<ruby>人<rt>ひと</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<span\
+  \ style=\"color: blue;\">メール</span>の<span style=\"color: blue;\">ファイル</span>を<ruby>開<rt>あ</rt></ruby>けないように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: 役所
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。
+- word: コンピューターウイルス
+  descriptions:
+  - ほかのコンピューターに<ruby><rb>勝手</rb><rt>かって</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>り、プログラムをこわしたり、データを<ruby><rb>消</rb><rt>け</rt></ruby>したりするプログラム。
+- word: 首都
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。
+- word: カード
+  descriptions:
+  - <ruby><rb>紙</rb><rt>かみ</rt></ruby>を、<ruby><rb>四角</rb><rt>しかく</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さく<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。<ruby><rb>記入</rb><rt>きにゅう</rt></ruby>したり、<ruby><rb>整理</rb><rt>せいり</rt></ruby>するときなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+  - 「クレジットカード」「キャッシュカード」などの<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - トランプ（の<ruby><rb>札</rb><rt>ふだ</rt></ruby>）。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>などの、<ruby><rb>試合</rb><rt>しあい</rt></ruby>の<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。
+- word: コンテナー
+  descriptions:
+  - <ruby><rb>貨物</rb><rt>かもつ</rt></ruby>の<ruby><rb>輸送</rb><rt>ゆそう</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>箱</rb><rt>はこ</rt></ruby>。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて、そのまま<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックで<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ。コンテナ。
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 攻撃
+  descriptions:
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>攻</rb><rt>せ</rt></ruby>めること。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>欠点</rb><rt>けってん</rt></ruby>や<ruby><rb>誤</rb><rt>あやま</rt></ruby>りを<ruby><rb>責</rb><rt>せ</rt></ruby>めること。
+- word: データ
+  descriptions:
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。
+  - コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。
+- word: Eメール
+  descriptions:
+  - コンピューターなどを<ruby><rb>使</rb><rt>つか</rt></ruby>って、メッセージやデータなどのやりとりをする<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>電子</rb><rt>でんし</rt></ruby>メール。メール。
+- word: ファイル
+  descriptions:
+  - <ruby><rb>書類</rb><rt>しょるい</rt></ruby>などをとじこんでおくもの。<ruby><rb>書類</rb><rt>しょるい</rt></ruby>ばさみ。
+  - コンピューターであつかう<ruby><rb>文書</rb><rt>ぶんしょ</rt></ruby>や<ruby><rb>画像</rb><rt>がぞう</rt></ruby>などのデータ。
+  - <ruby><rb>書類</rb><rt>しょるい</rt></ruby>や<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>の<ruby><rb>切</rb><rt>き</rt></ruby>りぬきなどを<ruby><rb>整理</rb><rt>せいり</rt></ruby>して、とじこむこと。また、とじこんだもの。
+web_news_url: /news/web/2017/06/29/サイバー攻撃はより高度化欧州刑事警察機構/
+source_url: http://www3.nhk.or.jp/news/easy/k10011033831000/k10011033831000.html
+...
