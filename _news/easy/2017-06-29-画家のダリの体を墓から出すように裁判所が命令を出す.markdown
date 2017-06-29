@@ -1,0 +1,76 @@
+---
+layout: easy_news
+newsid: k10011033001000
+categories: easy
+title: 画家のダリの体を墓から出すように裁判所が命令を出す
+title_with_ruby: <ruby>画家<rt>がか</rt></ruby>のダリの<ruby>体<rt>からだ</rt></ruby>を<ruby>墓<rt>はか</rt></ruby>から<ruby>出<rt>だ</rt></ruby>すように<ruby>裁判所<rt>さいばんしょ</rt></ruby>が<ruby>命令<rt>めいれい</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す
+last_modified_at: '2017-06-29T16:00:00+09:00'
+datetime: 2017年06月29日 16時00分
+description: サルバドール・ダリは世界中せかいじゅうで有名ゆうめいなスペインの画家がかで、１９８９年ねんに亡なくなりました。
+description_with_ruby: サルバドール・ダリは<ruby>世界中<rt>せかいじゅう</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>なスペインの<ruby>画家<rt>がか</rt></ruby>で、１９８９<ruby>年<rt>ねん</rt></ruby>に<ruby>亡<rt>な</rt></ruby>くなりました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/29/k10011033001000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/29/k10011033001000.mp3
+contents: "<p>サルバドール・ダリは<ruby>世界中<rt>せかいじゅう</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>なスペインの<span\
+  \ style=\"color: blue;\"><ruby>画家<rt>がか</rt></ruby></span>で、１９８９<ruby>年<rt>ねん</rt></ruby>に<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p>ダリには<ruby>子<rt>こ</rt></ruby>どもがいません。しかし６１<ruby>歳<rt>さい</rt></ruby>のスペイン<ruby>人<rt>じん</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>が、<ruby>自分<rt>じぶん</rt></ruby>はダリの<ruby>娘<rt>むすめ</rt></ruby>だと<ruby>言<rt>い</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>裁判<rt>さいばん</rt></ruby></span>に<span style=\"color:\
+  \ blue;\"><ruby>訴<rt>うった</rt></ruby>え</span>ました。<ruby>女性<rt>じょせい</rt></ruby>は、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>母<rt>はは</rt></ruby>は<ruby>昔<rt>むかし</rt></ruby>ダリの<ruby>家<rt>いえ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いていて、<ruby>自分<rt>じぶん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>産<rt>う</rt></ruby>ん</span>だと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>スペインのマドリードの<ruby>裁判所<rt>さいばんしょ</rt></ruby>は２６<ruby>日<rt>にち</rt></ruby>、ダリの<ruby>体<rt>からだ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>墓<rt>はか</rt></ruby></span>から<ruby>出<rt>だ</rt></ruby>すように<span\
+  \ style=\"color: blue;\"><ruby>命令<rt>めいれい</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>しました。<ruby>女性<rt>じょせい</rt></ruby>がダリの<ruby>娘<rt>むすめ</rt></ruby>かどうか<span\
+  \ style=\"color: blue;\"><ruby>確<rt>たし</rt></ruby>かめる</span>には、<ruby>亡<rt>な</rt></ruby>くなったダリの<ruby>体<rt>からだ</rt></ruby>から<span\
+  \ style=\"color: blue;\">ＤＮＡ</span>を<ruby>取<rt>と</rt></ruby>って<ruby>調<rt>しら</rt></ruby>べる<ruby>必要<rt>ひつよう</rt></ruby>があるためです。</p>\n\
+  <p>この<ruby>女性<rt>じょせい</rt></ruby>がダリの<ruby>娘<rt>むすめ</rt></ruby>だった<ruby>場合<rt>ばあい</rt></ruby>、ダリが<span\
+  \ style=\"color: blue;\"><ruby>残<rt>のこ</rt></ruby>し</span>た<span style=\"color:\
+  \ blue;\"><ruby>財産<rt>ざいさん</rt></ruby></span>の<span style=\"color: blue;\"><ruby>一部<rt>いちぶ</rt></ruby></span>をもらう<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 画家
+  descriptions:
+  - <ruby><rb>絵</rb><rt>え</rt></ruby>をかくことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>絵</rb><rt>え</rt></ruby>かき。
+- word: 墓
+  descriptions:
+  - <ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>や、お<ruby><rb>骨</rb><rt>こつ</rt></ruby>をうめる<ruby><rb>所</rb><rt>ところ</rt></ruby>。また、そのしるし。
+- word: 命令
+  descriptions:
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>言</rb><rt>い</rt></ruby>いつけること。<ruby><rb>言</rb><rt>い</rt></ruby>いつけ。
+- word: 裁判
+  descriptions:
+  - <ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>が、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>にもとづいて、それがよいか<ruby><rb>悪</rb><rt>わる</rt></ruby>いかを<ruby><rb>決</rb><rt>き</rt></ruby>めること。
+- word: 訴える
+  descriptions:
+  - <ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>に<ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>て、よい<ruby><rb>悪</rb><rt>わる</rt></ruby>いを<ruby><rb>決</rb><rt>き</rt></ruby>めてもらう。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>心</rb><rt>こころ</rt></ruby>によびかける。
+  - <ruby><rb>不平</rb><rt>ふへい</rt></ruby>や<ruby><rb>痛</rb><rt>いた</rt></ruby>みなどを<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>言</rb><rt>い</rt></ruby>う。
+  - あるやり<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+- word: 産む
+  descriptions:
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+- word: 確かめる
+  descriptions:
+  - まちがいがないようにする。あやふやな<ruby><rb>点</rb><rt>てん</rt></ruby>を、はっきりさせる。
+- word: DNA
+  descriptions:
+  - <ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>の<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>遺伝子</rb><rt>いでんし</rt></ruby>を<ruby><rb>構成</rb><rt>こうせい</rt></ruby>する<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。
+- word: 残す
+  descriptions:
+  - あとに<ruby><rb>残</rb><rt>のこ</rt></ruby>るようにする。<ruby><rb>余</rb><rt>あま</rt></ruby>す。
+  - <ruby><rb>使</rb><rt>つか</rt></ruby>わないでおく。
+  - あとにとどまらせる。
+  - のちの<ruby><rb>世</rb><rt>よ</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。
+  - すもうで、もちこたえてふん<ruby><rb>張</rb><rt>ば</rt></ruby>る。
+- word: 財産
+  descriptions:
+  - （<ruby><rb>個人</rb><rt>こじん</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>の<ruby><rb>持</rb><rt>も</rt></ruby>っている）お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>・<ruby><rb>土地</rb><rt>とち</rt></ruby>・<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>など、<ruby><rb>価値</rb><rt>かち</rt></ruby>のあるもの。<ruby><rb>資産</rb><rt>しさん</rt></ruby>。
+- word: 一部
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+web_news_url: /news/web/2017/06/28/ダリの遺体掘り起こし命じる-マドリードの裁判所/
+source_url: http://www3.nhk.or.jp/news/easy/k10011033001000/k10011033001000.html
+...
