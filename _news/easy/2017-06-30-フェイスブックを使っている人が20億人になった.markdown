@@ -1,0 +1,41 @@
+---
+layout: easy_news
+newsid: k10011032841000
+categories: easy
+title: フェイスブックを使っている人が２０億人になった
+title_with_ruby: フェイスブックを<ruby>使<rt>つか</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>が２０<ruby>億<rt>おく</rt></ruby><ruby>人<rt>にん</rt></ruby>になった
+last_modified_at: '2017-06-30T11:30:00+09:00'
+datetime: 2017年06月30日 11時30分
+description: フェイスブックは、ハーバード大学だいがくの学生がくせいだったマーク・ザッカーバーグさんが２００４年ねんに作つくりました。
+description_with_ruby: フェイスブックは、ハーバード<ruby>大学<rt>だいがく</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>だったマーク・ザッカーバーグさんが２００４<ruby>年<rt>ねん</rt></ruby>に<ruby>作<rt>つく</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/30/k10011032841000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/30/k10011032841000.mp3
+contents: "<p>フェイスブックは、ハーバード<ruby>大学<rt>だいがく</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>だったマーク・ザッカーバーグさんが２００４<ruby>年<rt>ねん</rt></ruby>に<ruby>作<rt>つく</rt></ruby>りました。<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>が<ruby>友達<rt>ともだち</rt></ruby>と<span\
+  \ style=\"color: blue;\">メッセージ</span>や<ruby>写真<rt>しゃしん</rt></ruby>を<span style=\"\
+  color: blue;\">やり<ruby>取<rt>と</rt></ruby>り</span>する<span style=\"color: blue;\"\
+  >ウェブサイト</span>でしたが、<ruby>今<rt>いま</rt></ruby>では<ruby>世界中<rt>せかいじゅう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>使<rt>つか</rt></ruby>っています。</p>\n\
+  <p>２７<ruby>日<rt>にち</rt></ruby>、ザッカーバーグさんは「１か<ruby>月<rt>げつ</rt></ruby>に１<ruby>回<rt>かい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>フェイスブックを<ruby>見<rt>み</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が２０<ruby>億<rt>おく</rt></ruby><ruby>人<rt>にん</rt></ruby>になった」と<span\
+  \ style=\"color: blue;\">メッセージ</span>を<ruby>書<rt>か</rt></ruby>きました。２０１２<ruby>年<rt>ねん</rt></ruby>に１０<ruby>億<rt>おく</rt></ruby><ruby>人<rt>にん</rt></ruby>になってから５<ruby>年<rt>ねん</rt></ruby>で２<ruby>倍<rt>ばい</rt></ruby>になりました。</p>\n\
+  <p>フェイスブックでは、うそのニュースが<span style=\"color: blue;\"><ruby>広<rt>ひろ</rt></ruby>がっ</span>たり、よくない<ruby>写真<rt>しゃしん</rt></ruby>が<ruby>出<rt>で</rt></ruby>たりして、<ruby>問題<rt>もんだい</rt></ruby>になっています。フェイスブックは、<ruby>問題<rt>もんだい</rt></ruby>がある<ruby>写真<rt>しゃしん</rt></ruby>などを<ruby>探<rt>さが</rt></ruby>してインターネットに<ruby>出<rt>だ</rt></ruby>さないようにする<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: メッセージ
+  descriptions:
+  - <ruby><rb>伝言</rb><rt>でんごん</rt></ruby>。
+  - <ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>のことば。<ruby><rb>声明文</rb><rt>せいめいぶん</rt></ruby>。
+- word: やり取り
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>をやったりもらったりすること。
+  - ことばの<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>答</rb><rt>こた</rt></ruby>え。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+- word: 広がる
+  descriptions:
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>くなる。
+  - <ruby><rb>広々</rb><rt>ひろびろ</rt></ruby>と<ruby><rb>見</rb><rt>み</rt></ruby>わたせる。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+web_news_url: /news/web/2017/06/28/フェイスブック利用者-20億人超える/
+source_url: http://www3.nhk.or.jp/news/easy/k10011032841000/k10011032841000.html
+...
