@@ -1,0 +1,47 @@
+---
+layout: easy_news
+newsid: k10011034501000
+categories: easy
+title: ソニー　人気が高くなっているレコードの生産をまた始める
+title_with_ruby: ソニー　<ruby>人気<rt>にんき</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなっているレコードの<ruby>生産<rt>せいさん</rt></ruby>をまた<ruby>始<rt>はじ</rt></ruby>める
+last_modified_at: '2017-06-30T16:20:00+09:00'
+datetime: 2017年06月30日 16時20分
+description: インターネットで音楽おんがくをダウンロードして聞きく人ひとが多おおくなっています。
+description_with_ruby: インターネットで<ruby>音楽<rt>おんがく</rt></ruby>をダウンロードして<ruby>聞<rt>き</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなっています。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/30/k10011034501000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/30/k10011034501000.mp3
+contents: "<p>インターネットで<ruby>音楽<rt>おんがく</rt></ruby>を<span style=\"color: blue;\">ダウンロード</span>して<ruby>聞<rt>き</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなっています。しかし、<ruby>最近<rt>さいきん</rt></ruby>レコードを<ruby>聞<rt>き</rt></ruby>く<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>たちも<ruby>増<rt>ふ</rt></ruby>えています。レコードは<ruby>音<rt>おと</rt></ruby>に<ruby>暖<rt>あたた</rt></ruby>かさがあって、<span\
+  \ style=\"color: blue;\">ジャケット</span>の<ruby>写真<rt>しゃしん</rt></ruby>などを<ruby>楽<rt>たの</rt></ruby>しむこともできるため、<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>くなっているようです。</p>\n\
+  <p><ruby>日本<rt>にほん</rt></ruby>レコード<ruby>協会<rt>きょうかい</rt></ruby>によると、<ruby>去年<rt>きょねん</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>で<ruby>生産<rt>せいさん</rt></ruby>したレコードは７９<ruby>万<rt>まん</rt></ruby>９０００<ruby>枚<rt>まい</rt></ruby>で、５<ruby>年<rt>ねん</rt></ruby>で３．８<ruby>倍<rt>ばい</rt></ruby>に<ruby>増<rt>ふ</rt></ruby>えています。しかし、<ruby>日本<rt>にっぽん</rt></ruby>でレコードを<ruby>作<rt>つく</rt></ruby>っている<ruby>会社<rt>かいしゃ</rt></ruby>は１つだけで、<ruby>十分<rt>じゅうぶん</rt></ruby>にレコードを<ruby>生産<rt>せいさん</rt></ruby>できません。</p>\n\
+  <p>このため、<ruby>音楽<rt>おんがく</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の「ソニー・ミュージックエンタテインメント」は、<span\
+  \ style=\"color: blue;\">グループ</span>の<ruby>会社<rt>かいしゃ</rt></ruby>でまたレコードの<ruby>生産<rt>せいさん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めることにしました。この<ruby>会社<rt>かいしゃ</rt></ruby>では<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>３０<ruby>年<rt>ねん</rt></ruby>、レコードを<ruby>作<rt>つく</rt></ruby>っていませんでした。</p>\n\
+  <p>ソニーとパナソニックは<ruby>去年<rt>きょねん</rt></ruby>、レコードを<ruby>聞<rt>き</rt></ruby>くための「レコードプレーヤー」をまた<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。レコードに<ruby>関係<rt>かんけい</rt></ruby>がある<span\
+  \ style=\"color: blue;\"><ruby>商品<rt>しょうひん</rt></ruby></span>が<ruby>増<rt>ふ</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: ダウンロード
+  descriptions:
+  - ほかのコンピューターから<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のパソコンなどに、<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>なデータを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>入</rb><rt>い</rt></ruby>れること。
+- word: ジャケット
+  descriptions:
+  - <ruby><rb>前</rb><rt>まえ</rt></ruby>あきの<ruby><rb>腰</rb><rt>こし</rt></ruby>ぐらいまでの<ruby><rb>長</rb><rt>なが</rt></ruby>さのある<ruby><rb>上着</rb><rt>うわぎ</rt></ruby>。
+  - <ruby><rb>CD</rb><rt>シーディー</rt></ruby>やレコードなどを<ruby><rb>入</rb><rt>い</rt></ruby>れるもの。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 商品
+  descriptions:
+  - <ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>買</rb><rt>か</rt></ruby>ったりするための<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+web_news_url: /news/web/2017/06/29/ソニー-レコードの生産29年ぶりに再開へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011034501000/k10011034501000.html
+...

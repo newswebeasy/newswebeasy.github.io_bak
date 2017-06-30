@@ -1,0 +1,47 @@
+---
+layout: easy_news
+newsid: k10011034481000
+categories: easy
+title: 卓球の福原愛選手「秋に赤ちゃんが生まれます」
+title_with_ruby: <ruby>卓球<rt>たっきゅう</rt></ruby>の<ruby>福原<rt>ふくはら</rt></ruby><ruby>愛<rt>あい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>「<ruby>秋<rt>あき</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれます」
+last_modified_at: '2017-06-30T16:20:00+09:00'
+datetime: 2017年06月30日 16時20分
+description: 卓球たっきゅうの福原ふくはら愛あい選手せんしゅは２９日にち、「秋あきに私わたしたちの赤あかちゃんが生うまれます。
+description_with_ruby: <ruby>卓球<rt>たっきゅう</rt></ruby>の<ruby>福原<rt>ふくはら</rt></ruby><ruby>愛<rt>あい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は２９<ruby>日<rt>にち</rt></ruby>、「<ruby>秋<rt>あき</rt></ruby>に<ruby>私<rt>わたし</rt></ruby>たちの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれます。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/30/k10011034481000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/30/k10011034481000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>卓球<rt>たっきゅう</rt></ruby></span>の<ruby>福原<rt>ふくはら</rt></ruby><ruby>愛<rt>あい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は２９<ruby>日<rt>にち</rt></ruby>、「<ruby>秋<rt>あき</rt></ruby>に<ruby>私<rt>わたし</rt></ruby>たちの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれます。とてもうれしく<ruby>思<rt>おも</rt></ruby>っています。<ruby>夫<rt>おっと</rt></ruby>はいいパパになると<ruby>思<rt>おも</rt></ruby>います。<ruby>私<rt>わたし</rt></ruby>もいい<span\
+  \ style=\"color: blue;\">ママ</span>になることができるようにしっかり<ruby>勉強<rt>べんきょう</rt></ruby>して、<ruby>準備<rt>じゅんび</rt></ruby>したいです」とインターネットに<ruby>書<rt>か</rt></ruby>きました。</p>\n\
+  <p><ruby>福原<rt>ふくはら</rt></ruby><span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<span\
+  \ style=\"color: blue;\">オリンピック</span>に４<ruby>回<rt>かい</rt></ruby><ruby>出<rt>で</rt></ruby>て、<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>で２<ruby>回<rt>かい</rt></ruby><span\
+  \ style=\"color: blue;\">メダル</span>を<ruby>取<rt>と</rt></ruby>りました。<ruby>福原<rt>ふくはら</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>去年<rt>きょねん</rt></ruby>、<ruby>台湾<rt>たいわん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>卓球<rt>たっきゅう</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>の<ruby>江<rt>こう</rt></ruby><ruby>宏傑<rt>こうけつ</rt></ruby>さんと<ruby>結婚<rt>けっこん</rt></ruby>したとき、これからも<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>を<ruby>続<rt>つづ</rt></ruby>けると<ruby>言<rt>い</rt></ruby>っていました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 卓球
+  descriptions:
+  - <ruby><rb>台</rb><rt>だい</rt></ruby>の<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>からラケットで<ruby><rb>球</rb><rt>たま</rt></ruby>を<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ピンポン。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: ママ
+  descriptions:
+  - お<ruby><rb>母</rb><rt>かあ</rt></ruby>さん。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>四年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+web_news_url: /news/web/2017/06/29/卓球-福原愛選手が妊娠公表-秋に出産へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011034481000/k10011034481000.html
+...
