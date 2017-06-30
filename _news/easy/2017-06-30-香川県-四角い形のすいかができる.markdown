@@ -1,0 +1,51 @@
+---
+layout: easy_news
+newsid: k10011033011000
+categories: easy
+title: 香川県　四角い形のすいかができる
+title_with_ruby: <ruby>香川県<rt>かがわけん</rt></ruby>　<ruby>四角<rt>しかく</rt></ruby>い<ruby>形<rt>かたち</rt></ruby>のすいかができる
+last_modified_at: '2017-06-30T11:30:00+09:00'
+datetime: 2017年06月30日 11時30分
+description: 香川県かがわけん善通寺ぜんつうじ市しでは、四角しかくい形かたちのすいかを作つくっています。
+description_with_ruby: <ruby>香川県<rt>かがわけん</rt></ruby><ruby>善通寺<rt>ぜんつうじ</rt></ruby><ruby>市<rt>し</rt></ruby>では、<ruby>四角<rt>しかく</rt></ruby>い<ruby>形<rt>かたち</rt></ruby>のすいかを<ruby>作<rt>つく</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201706/news/web/image/2017/06/30/k10011033011000.jpg
+voice_url: https://newswebeasy.github.io/ja201706/news/easy/voice/2017/06/30/k10011033011000.mp3
+contents: "<p><ruby>香川県<rt>かがわけん</rt></ruby><ruby>善通寺<rt>ぜんつうじ</rt></ruby><ruby>市<rt>し</rt></ruby>では、<span\
+  \ style=\"color: blue;\"><ruby>四角<rt>しかく</rt></ruby>い</span><ruby>形<rt>かたち</rt></ruby>の<span\
+  \ style=\"color: blue;\">すいか</span>を<ruby>作<rt>つく</rt></ruby>っています。この<span style=\"\
+  color: blue;\">すいか</span>は４５<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>農家<rt>のうか</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>が<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れやすい<span\
+  \ style=\"color: blue;\">すいか</span>を<ruby>作<rt>つく</rt></ruby>ろうと<ruby>考<rt>かんが</rt></ruby>えて<ruby>作<rt>つく</rt></ruby>りました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>農家<rt>のうか</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>大<rt>おお</rt></ruby>きくなる<ruby>前<rt>まえ</rt></ruby>の<span\
+  \ style=\"color: blue;\">すいか</span>を<ruby>縦<rt>たて</rt></ruby>と<ruby>横<rt>よこ</rt></ruby>、<ruby>高<rt>たか</rt></ruby>さが１８ｃｍの<ruby>箱<rt>はこ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れて<ruby>育<rt>そだ</rt></ruby>てます。<ruby>１０日<rt>とおか</rt></ruby><ruby>過<rt>す</rt></ruby>ぎると、<span\
+  \ style=\"color: blue;\">すいか</span>は<span style=\"color: blue;\"><ruby>四角<rt>しかく</rt></ruby>い</span><ruby>形<rt>かたち</rt></ruby>になります。</p>\n\
+  <p>２８<ruby>日<rt>にち</rt></ruby>、５<ruby>軒<rt>けん</rt></ruby>の<span style=\"color: blue;\"\
+  ><ruby>農家<rt>のうか</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>たちは<span style=\"color:\
+  \ blue;\"><ruby>約<rt>やく</rt></ruby></span>２６０<ruby>個<rt>こ</rt></ruby>の<span style=\"\
+  color: blue;\">すいか</span>に<span style=\"color: blue;\"><ruby>傷<rt>きず</rt></ruby></span>がないか<ruby>調<rt>しら</rt></ruby>べてから<ruby>箱<rt>はこ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れて、<ruby>東京<rt>とうきょう</rt></ruby>や<ruby>大阪<rt>おおさか</rt></ruby>のデパートなどに<ruby>送<rt>おく</rt></ruby>る<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>四角<rt>しかく</rt></ruby>い</span><span style=\"\
+  color: blue;\">すいか</span>はあまり<ruby>甘<rt>あま</rt></ruby>くないため、<ruby>最近<rt>さいきん</rt></ruby>は<ruby>飾<rt>かざ</rt></ruby>るために<ruby>買<rt>か</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなっています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 四角
+  descriptions:
+  - <ruby><rb>四</rb><rt>よ</rt></ruby>すみに<ruby><rb>角</rb><rt>かど</rt></ruby>がある<ruby><rb>形</rb><rt>かたち</rt></ruby>。
+- word: 西瓜
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>実</rb><rt>み</rt></ruby>が、<ruby><rb>地面</rb><rt>じめん</rt></ruby>をはうつるにでき、<ruby><rb>中身</rb><rt>なかみ</rt></ruby>は<ruby><rb>赤</rb><rt>あか</rt></ruby>や<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>で<ruby><rb>水分</rb><rt>すいぶん</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>くあまい。
+- word: 農家
+  descriptions:
+  - <ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らしを<ruby><rb>立</rb><rt>た</rt></ruby>てている<ruby><rb>家</rb><rt>いえ</rt></ruby>。また、その<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 傷
+  descriptions:
+  - <ruby><rb>打</rb><rt>う</rt></ruby>ったり<ruby><rb>切</rb><rt>き</rt></ruby>ったりして、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>や<ruby><rb>肉</rb><rt>にく</rt></ruby>をいためたところ。
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>のいたんだところ。
+  - <ruby><rb>悪</rb><rt>わる</rt></ruby>い<ruby><rb>点</rb><rt>てん</rt></ruby>。<ruby><rb>欠点</rb><rt>けってん</rt></ruby>。
+web_news_url: /news/web/2017/06/28/四角いスイカの出荷始まる-香川/
+source_url: http://www3.nhk.or.jp/news/easy/k10011033011000/k10011033011000.html
+...
