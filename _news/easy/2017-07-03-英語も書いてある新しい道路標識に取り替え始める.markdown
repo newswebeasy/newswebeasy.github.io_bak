@@ -1,0 +1,53 @@
+---
+layout: easy_news
+newsid: k10011037281000
+categories: easy
+title: 英語も書いてある新しい道路標識に取り替え始める
+title_with_ruby: <ruby>英語<rt>えいご</rt></ruby>も<ruby>書<rt>か</rt></ruby>いてある<ruby>新<rt>あたら</rt></ruby>しい<ruby>道路標識<rt>どうろひょうしき</rt></ruby>に<ruby>取<rt>と</rt></ruby>り<ruby>替<rt>か</rt></ruby>え<ruby>始<rt>はじ</rt></ruby>める
+last_modified_at: '2017-07-03T17:05:00+09:00'
+datetime: 2017年07月03日 17時05分
+description: １日ついたち、交通こうつうの規則きそくなどが書かいてある道路標識どうろひょうしきを日本にっぽんのいろいろな道路どうろで取とり替かえ始はじめました。
+description_with_ruby: <ruby>１日<rt>ついたち</rt></ruby>、<ruby>交通<rt>こうつう</rt></ruby>の<ruby>規則<rt>きそく</rt></ruby>などが<ruby>書<rt>か</rt></ruby>いてある<ruby>道路標識<rt>どうろひょうしき</rt></ruby>を<ruby>日本<rt>にっぽん</rt></ruby>のいろいろな<ruby>道路<rt>どうろ</rt></ruby>で<ruby>取<rt>と</rt></ruby>り<ruby>替<rt>か</rt></ruby>え<ruby>始<rt>はじ</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/03/k10011037281000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/03/k10011037281000.mp3
+contents: "<p><ruby>１日<rt>ついたち</rt></ruby>、<ruby>交通<rt>こうつう</rt></ruby>の<ruby>規則<rt>きそく</rt></ruby>などが<ruby>書<rt>か</rt></ruby>いてある<span\
+  \ style=\"color: blue;\"><ruby>道路標識<rt>どうろひょうしき</rt></ruby></span>を<ruby>日本<rt>にっぽん</rt></ruby>のいろいろな<span\
+  \ style=\"color: blue;\"><ruby>道路<rt>どうろ</rt></ruby></span>で<ruby>取<rt>と</rt></ruby>り<ruby>替<rt>か</rt></ruby>え<ruby>始<rt>はじ</rt></ruby>めました。<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>道路標識<rt>どうろひょうしき</rt></ruby></span>には、<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>して<span\
+  \ style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こす</span><ruby>事故<rt>じこ</rt></ruby>を<ruby>少<rt>すく</rt></ruby>なくするため、<ruby>日本語<rt>にほんご</rt></ruby>だけではなくて<ruby>英語<rt>えいご</rt></ruby>も<ruby>書<rt>か</rt></ruby>いてあります。</p>\n\
+  <p><ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>苫小牧市<rt>とまこまいし</rt></ruby>の<ruby>交差点<rt>こうさてん</rt></ruby>でも<span\
+  \ style=\"color: blue;\"><ruby>道路標識<rt>どうろひょうしき</rt></ruby></span>を<ruby>取<rt>と</rt></ruby>り<ruby>替<rt>か</rt></ruby>えました。「<ruby>止<rt>と</rt></ruby>まれ」という<ruby>字<rt>じ</rt></ruby>の<ruby>下<rt>した</rt></ruby>に<ruby>英語<rt>えいご</rt></ruby>で「ＳＴＯＰ」と<ruby>書<rt>か</rt></ruby>いてあります。</p>\n\
+  <p><ruby>警察<rt>けいさつ</rt></ruby>によると、<ruby>北海道<rt>ほっかいどう</rt></ruby>では<span style=\"\
+  color: blue;\"><ruby>観光<rt>かんこう</rt></ruby></span>などに<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<span\
+  \ style=\"color: blue;\">レンタカー</span>で<span style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こす</span><ruby>事故<rt>じこ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。これから３９０<ruby>以上<rt>いじょう</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しくする<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p><ruby>京都<rt>きょうと</rt></ruby><ruby>市<rt>し</rt></ruby>でも、<ruby>警察<rt>けいさつ</rt></ruby>や<ruby>着物<rt>きもの</rt></ruby>を<ruby>着<rt>き</rt></ruby>た<ruby>女性<rt>じょせい</rt></ruby>が<ruby>外国人<rt>がいこくじん</rt></ruby>に「<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>交通<rt>こうつう</rt></ruby>の<ruby>規則<rt>きそく</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>っ</span>てください」と<ruby>言<rt>い</rt></ruby>って、<ruby>英語<rt>えいご</rt></ruby>が<ruby>書<rt>か</rt></ruby>いてある<span\
+  \ style=\"color: blue;\"><ruby>道路標識<rt>どうろひょうしき</rt></ruby></span>を<ruby>紹介<rt>しょうかい</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 道路標識
+  descriptions:
+  - <ruby><rb>道</rb><rt>みち</rt></ruby>の<ruby><rb>案内</rb><rt>あんない</rt></ruby>や<ruby><rb>交通</rb><rt>こうつう</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>のために、<ruby><rb>道路</rb><rt>どうろ</rt></ruby>にかかげてある<ruby><rb>標示板</rb><rt>ひょうじばん</rt></ruby>。
+- word: 道路
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>車</rb><rt>くるま</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道</rb><rt>みち</rt></ruby>。<ruby><rb>通</rb><rt>とお</rt></ruby>り<ruby><rb>道</rb><rt>みち</rt></ruby>。
+- word: 起こす
+  descriptions:
+  - （<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。
+  - <ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。
+  - （<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。
+  - ほりかえす。
+- word: 観光
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。
+- word: レンタカー
+  descriptions:
+  - <ruby><rb>貸</rb><rt>か</rt></ruby>し<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+web_news_url: /news/web/2017/07/01/一時停止にSTOP併記の新交通標識-北海道/
+source_url: http://www3.nhk.or.jp/news/easy/k10011037281000/k10011037281000.html
+...
