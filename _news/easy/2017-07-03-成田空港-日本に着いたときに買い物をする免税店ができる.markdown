@@ -1,0 +1,33 @@
+---
+layout: easy_news
+newsid: k10011035021000
+categories: easy
+title: 成田空港　日本に着いたときに買い物をする免税店ができる
+title_with_ruby: <ruby>成田空港<rt>なりたくうこう</rt></ruby>　<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いたときに<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をする<ruby>免税店<rt>めんぜいてん</rt></ruby>ができる
+last_modified_at: '2017-07-03T11:30:00+09:00'
+datetime: 2017年07月03日 11時30分
+description: 日本にっぽんの空港くうこうでは、税金ぜいきんを払はらわないで買かい物ものできる「免税店めんぜいてん」は、出発しゅっぱつするときだけ利用りようできます。
+description_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>空港<rt>くうこう</rt></ruby>では、<ruby>税金<rt>ぜいきん</rt></ruby>を<ruby>払<rt>はら</rt></ruby>わないで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>できる「<ruby>免税店<rt>めんぜいてん</rt></ruby>」は、<ruby>出発<rt>しゅっぱつ</rt></ruby>するときだけ<ruby>利用<rt>りよう</rt></ruby>できます。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/03/k10011035021000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/03/k10011035021000.mp3
+contents: "<p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>空港<rt>くうこう</rt></ruby>では、<span style=\"\
+  color: blue;\"><ruby>税金<rt>ぜいきん</rt></ruby></span>を<ruby>払<rt>はら</rt></ruby>わないで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>できる「<ruby>免税店<rt>めんぜいてん</rt></ruby>」は、<ruby>出発<rt>しゅっぱつ</rt></ruby>するときだけ<ruby>利用<rt>りよう</rt></ruby>できます。<ruby>成田空港<rt>なりたくうこう</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いて<span\
+  \ style=\"color: blue;\"><ruby>税関<rt>ぜいかん</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>検査<rt>けんさ</rt></ruby></span>を<ruby>受<rt>う</rt></ruby>ける<ruby>前<rt>まえ</rt></ruby>に<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>できる<ruby>免税店<rt>めんぜいてん</rt></ruby>を、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>作<rt>つく</rt></ruby>ります。</p>\n\
+  <p><ruby>成田空港<rt>なりたくうこう</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby>で５つ<ruby>新<rt>あたら</rt></ruby>しい<ruby>免税店<rt>めんぜいてん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。まず９<ruby>月<rt>がつ</rt></ruby>に<ruby>第<rt>だい</rt></ruby>２ターミナルに<ruby>広<rt>ひろ</rt></ruby>さ１００m²の<ruby>店<rt>みせ</rt></ruby>を２つ<ruby>作<rt>つく</rt></ruby>って、<ruby>外国<rt>がいこく</rt></ruby>の<ruby>酒<rt>さけ</rt></ruby>やたばこなどを<ruby>売<rt>う</rt></ruby>ります。<ruby>酒<rt>さけ</rt></ruby>やたばこの<span\
+  \ style=\"color: blue;\"><ruby>税金<rt>ぜいきん</rt></ruby></span>などを<ruby>払<rt>はら</rt></ruby>う<ruby>必要<rt>ひつよう</rt></ruby>がないため、１０％から３０％<ruby>安<rt>やす</rt></ruby>く<ruby>買<rt>か</rt></ruby>うことができます。</p>\n\
+  <p><ruby>成田空港<rt>なりたくうこう</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>った<ruby>日本人<rt>にっぽんじん</rt></ruby>が<ruby>外国<rt>がいこく</rt></ruby>の<ruby>空港<rt>くうこう</rt></ruby>で<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をして<ruby>持<rt>も</rt></ruby>って<ruby>帰<rt>かえ</rt></ruby>る<ruby>必要<rt>ひつよう</rt></ruby>がなくなるなど、<ruby>便利<rt>べんり</rt></ruby>になると<ruby>思<rt>おも</rt></ruby>います。たくさんの<ruby>人<rt>ひと</rt></ruby>に<ruby>利用<rt>りよう</rt></ruby>してほしいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>\n<p></p>"
+words:
+- word: 税金
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>、<ruby><rb>市町村</rb><rt>しちょうそん</rt></ruby>が、そこに<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>人</rb><rt>ひと</rt></ruby>から<ruby><rb>集</rb><rt>あつ</rt></ruby>めるお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 税関
+  descriptions:
+  - <ruby><rb>港</rb><rt>みなと</rt></ruby>や<ruby><rb>空港</rb><rt>くうこう</rt></ruby>や<ruby><rb>国境</rb><rt>こっきょう</rt></ruby>で、<ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>出入</rb><rt>でい</rt></ruby>りする<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、それに<ruby><rb>税金</rb><rt>ぜいきん</rt></ruby>をかけたりする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 検査
+  descriptions:
+  - <ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+web_news_url: /news/web/2017/06/30/成田空港-到着エリアにも免税店-秋に開業/
+source_url: http://www3.nhk.or.jp/news/easy/k10011035021000/k10011035021000.html
+...
