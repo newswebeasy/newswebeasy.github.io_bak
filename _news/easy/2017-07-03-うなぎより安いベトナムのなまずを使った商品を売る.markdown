@@ -1,0 +1,53 @@
+---
+layout: easy_news
+newsid: k10011034201000
+categories: easy
+title: うなぎより安いベトナムのなまずを使った商品を売る
+title_with_ruby: うなぎより<ruby>安<rt>やす</rt></ruby>いベトナムのなまずを<ruby>使<rt>つか</rt></ruby>った<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>売<rt>う</rt></ruby>る
+last_modified_at: '2017-07-03T11:30:00+09:00'
+datetime: 2017年07月03日 11時30分
+description: ７月がつ２５日にちは「土用どようのうしの日ひ」で、日本にっぽんでは昔むかしからうなぎを食たべる習慣しゅうかんがあります。
+description_with_ruby: ７<ruby>月<rt>がつ</rt></ruby>２５<ruby>日<rt>にち</rt></ruby>は「<ruby>土用<rt>どよう</rt></ruby>のうしの<ruby>日<rt>ひ</rt></ruby>」で、<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>昔<rt>むかし</rt></ruby>からうなぎを<ruby>食<rt>た</rt></ruby>べる<ruby>習慣<rt>しゅうかん</rt></ruby>があります。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/03/k10011034201000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/03/k10011034201000.mp3
+contents: "<p>７<ruby>月<rt>がつ</rt></ruby>２５<ruby>日<rt>にち</rt></ruby>は「<ruby>土用<rt>どよう</rt></ruby>のうしの<ruby>日<rt>ひ</rt></ruby>」で、<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>昔<rt>むかし</rt></ruby>から<span\
+  \ style=\"color: blue;\">うなぎ</span>を<ruby>食<rt>た</rt></ruby>べる<ruby>習慣<rt>しゅうかん</rt></ruby>があります。</p>\n\
+  <p>スーパーの「イオン」は<ruby>今年<rt>ことし</rt></ruby><ruby>初<rt>はじ</rt></ruby>めて、<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い<span\
+  \ style=\"color: blue;\">うなぎ</span>のほかに、ベトナムで<ruby>育<rt>そだ</rt></ruby>てられた<span\
+  \ style=\"color: blue;\">なまず</span>の「かば<ruby>焼<rt>や</rt></ruby>き」を<ruby>売<rt>う</rt></ruby>ることにしました。かば<ruby>焼<rt>や</rt></ruby>きは、しょうゆなどで<ruby>作<rt>つく</rt></ruby>った<span\
+  \ style=\"color: blue;\">たれ</span>を<span style=\"color: blue;\">つけ</span>て<ruby>焼<rt>や</rt></ruby>いた<ruby>料理<rt>りょうり</rt></ruby>です。この<span\
+  \ style=\"color: blue;\">なまず</span>のかば<ruby>焼<rt>や</rt></ruby>きの<ruby>値段<rt>ねだん</rt></ruby>は１６０ｇで６４５<ruby>円<rt>えん</rt></ruby>で、<span\
+  \ style=\"color: blue;\">うなぎ</span>のかば<ruby>焼<rt>や</rt></ruby>きの３０％ぐらいの<ruby>値段<rt>ねだん</rt></ruby>です。</p>\n\
+  <p>イオンは、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>てた<span style=\"color:\
+  \ blue;\">なまず</span>や、<ruby>豚肉<rt>ぶたにく</rt></ruby>のかば<ruby>焼<rt>や</rt></ruby>きなども<ruby>売<rt>う</rt></ruby>ることにしています。そして「たくさんの<ruby>人<rt>ひと</rt></ruby>にかば<ruby>焼<rt>や</rt></ruby>きを<ruby>食<rt>た</rt></ruby>べてほしいです。これからもいろいろな<span\
+  \ style=\"color: blue;\"><ruby>商品<rt>しょうひん</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>っていきたいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 鰻
+  descriptions:
+  - <ruby><rb>川</rb><rt>かわ</rt></ruby>やぬまにすむ、ぬるぬるした<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>海</rb><rt>うみ</rt></ruby>で<ruby><rb>卵</rb><rt>たまご</rt></ruby>からかえり、<ruby><rb>川</rb><rt>かわ</rt></ruby>に<ruby><rb>上</rb><rt>のぼ</rt></ruby>ってくる。かば<ruby><rb>焼</rb><rt>や</rt></ruby>きなどにして<ruby><rb>食</rb><rt>た</rt></ruby>べる。
+- word: 鯰
+  descriptions:
+  - <ruby><rb>池</rb><rt>いけ</rt></ruby>や<ruby><rb>川</rb><rt>かわ</rt></ruby>などの<ruby><rb>底</rb><rt>そこ</rt></ruby>のどろにすむ<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>茶色</rb><rt>ちゃいろ</rt></ruby>でうろこがなく、<ruby><rb>頭</rb><rt>あたま</rt></ruby>は<ruby><rb>大</rb><rt>おお</rt></ruby>きくて<ruby><rb>平</rb><rt>ひら</rt></ruby>たく、<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>になる。
+- word: 商品
+  descriptions:
+  - <ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>買</rb><rt>か</rt></ruby>ったりするための<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+- word: 垂れ
+  descriptions:
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>をつけて<ruby><rb>食</rb><rt>た</rt></ruby>べる、<ruby><rb>味</rb><rt>あじ</rt></ruby>のこいしる。
+  - <ruby><rb>漢字</rb><rt>かんじ</rt></ruby>を<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てる<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。「<ruby><rb>原</rb><rt>げん</rt></ruby>」の「厂」や「<ruby><rb>病</rb><rt>びょう</rt></ruby>」の「⽧」など、<ruby><rb>上</rb><rt>うえ</rt></ruby>から<ruby><rb>左</rb><rt>ひだり</rt></ruby>のほうに<ruby><rb>垂</rb><rt>た</rt></ruby>れる<ruby><rb>形</rb><rt>かたち</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>で、<ruby><rb>部首</rb><rt>ぶしゅ</rt></ruby>ともなる。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+web_news_url: /news/web/2017/06/29/土用のうなぎ-節約志向に海外産ナマズ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011034201000/k10011034201000.html
+...
