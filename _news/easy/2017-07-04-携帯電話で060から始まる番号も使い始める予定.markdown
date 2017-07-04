@@ -1,0 +1,29 @@
+---
+layout: easy_news
+newsid: k10011038231000
+categories: easy
+title: 携帯電話で「０６０」から始まる番号も使い始める予定
+title_with_ruby: <ruby>携帯電話<rt>けいたいでんわ</rt></ruby>で「０６０」から<ruby>始<rt>はじ</rt></ruby>まる<ruby>番号<rt>ばんごう</rt></ruby>も<ruby>使<rt>つか</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>める<ruby>予定<rt>よてい</rt></ruby>
+last_modified_at: '2017-07-04T11:30:00+09:00'
+datetime: 2017年07月04日 11時30分
+description: 今いま使つかわれている携帯電話けいたいでんわの番号ばんごうは「０９０」「０８０」「０７０」から始はじまっています。
+description_with_ruby: <ruby>今<rt>いま</rt></ruby><ruby>使<rt>つか</rt></ruby>われている<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<ruby>番号<rt>ばんごう</rt></ruby>は「０９０」「０８０」「０７０」から<ruby>始<rt>はじ</rt></ruby>まっています。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/04/k10011038231000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/04/k10011038231000.mp3
+contents: "<p><ruby>今<rt>いま</rt></ruby><ruby>使<rt>つか</rt></ruby>われている<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<ruby>番号<rt>ばんごう</rt></ruby>は「０９０」「０８０」「０７０」から<ruby>始<rt>はじ</rt></ruby>まっています。「０９０」「０８０」から<ruby>始<rt>はじ</rt></ruby>まる<ruby>番号<rt>ばんごう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなったため、<span\
+  \ style=\"color: blue;\"><ruby>総務省<rt>そうむしょう</rt></ruby></span>は２０１３<ruby>年<rt>ねん</rt></ruby>から「０７０」から<ruby>始<rt>はじ</rt></ruby>まる<ruby>番号<rt>ばんごう</rt></ruby>も<ruby>使<rt>つか</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>めました。しかし、この<ruby>番号<rt>ばんごう</rt></ruby>もだんだん<ruby>少<rt>すく</rt></ruby>なくなっていて、<ruby>残<rt>のこ</rt></ruby>っている<ruby>番号<rt>ばんごう</rt></ruby>は２５９０<ruby>万<rt>まん</rt></ruby><ruby>個<rt>こ</rt></ruby>です。</p>\n\
+  <p>スマートフォンを<ruby>使<rt>つか</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなっていて、これから「０７０」も<ruby>足<rt>た</rt></ruby>りなくなる<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。このため<span style=\"\
+  color: blue;\"><ruby>総務省<rt>そうむしょう</rt></ruby></span>は、<ruby>新<rt>あたら</rt></ruby>しく「０６０」から<ruby>始<rt>はじ</rt></ruby>まる<ruby>番号<rt>ばんごう</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>することになりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>総務省<rt>そうむしょう</rt></ruby></span>は「０７０」の<ruby>番号<rt>ばんごう</rt></ruby>がどのくらい<ruby>残<rt>のこ</rt></ruby>っているかをチェックしながら、「０６０」をいつから<ruby>使<rt>つか</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>めるか<ruby>決<rt>き</rt></ruby>める<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 総務省
+  descriptions:
+  - <ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>・<ruby><rb>市区町村</rb><rt>しくちょうそん</rt></ruby>などの<ruby><rb>地方自治体</rb><rt>ちほうじちたい</rt></ruby>や<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>の<ruby><rb>世話</rb><rt>せわ</rt></ruby>、<ruby><rb>郵便</rb><rt>ゆうびん</rt></ruby>・<ruby><rb>郵便貯金</rb><rt>ゆうびんちょきん</rt></ruby>・<ruby><rb>簡易保険</rb><rt>かんいほけん</rt></ruby>・<ruby><rb>電気通信</rb><rt>でんきつうしん</rt></ruby>などについての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+web_news_url: /news/web/2017/07/02/携帯電話に新たに060-番号不足に対応/
+source_url: http://www3.nhk.or.jp/news/easy/k10011038231000/k10011038231000.html
+...

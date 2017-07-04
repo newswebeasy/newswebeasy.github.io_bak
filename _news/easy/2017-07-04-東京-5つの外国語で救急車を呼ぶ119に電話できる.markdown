@@ -1,0 +1,30 @@
+---
+layout: easy_news
+newsid: k10011040491000
+categories: easy
+title: 東京　５つの外国語で救急車を呼ぶ「１１９」に電話できる
+title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>　５つの<ruby>外国語<rt>がいこくご</rt></ruby>で<ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>ぶ「１１９」に<ruby>電話<rt>でんわ</rt></ruby>できる
+last_modified_at: '2017-07-04T16:30:00+09:00'
+datetime: 2017年07月04日 16時30分
+description: 旅行りょこうや仕事しごとなどで日本にっぽんに来きた外国人がいこくじんが病気びょうきになったりけがをしたりして、救急車きゅうきゅうしゃで運はこばれる人ひとが増ふえています。
+description_with_ruby: <ruby>旅行<rt>りょこう</rt></ruby>や<ruby>仕事<rt>しごと</rt></ruby>などで<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>病気<rt>びょうき</rt></ruby>になったりけがをしたりして、<ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby>で<ruby>運<rt>はこ</rt></ruby>ばれる<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/04/k10011040491000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/04/k10011040491000.mp3
+contents: "<p><ruby>旅行<rt>りょこう</rt></ruby>や<ruby>仕事<rt>しごと</rt></ruby>などで<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>病気<rt>びょうき</rt></ruby>になったりけがをしたりして、<span\
+  \ style=\"color: blue;\"><ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby></span>で<ruby>運<rt>はこ</rt></ruby>ばれる<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。<ruby>東京消防庁<rt>とうきょうしょうぼうちょう</rt></ruby>によると、<ruby>去年<rt>きょねん</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby>で２３３６<ruby>人<rt>にん</rt></ruby>の<ruby>外国人<rt>がいこくじん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby></span>で<ruby>運<rt>はこ</rt></ruby>ばれました。</p>\n\
+  <p>このため、<ruby>東京消防庁<rt>とうきょうしょうぼうちょう</rt></ruby>は<ruby>今月<rt>こんげつ</rt></ruby>から、<span\
+  \ style=\"color: blue;\"><ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby></span>を<ruby>呼<rt>よ</rt></ruby>ぶ「１１９」に<ruby>電話<rt>でんわ</rt></ruby>するときに、<ruby>外国語<rt>がいこくご</rt></ruby>で<ruby>話<rt>はな</rt></ruby>すことができるようにしました。</p>\n\
+  <p><ruby>外国語<rt>がいこくご</rt></ruby>で「１１９」に<ruby>電話<rt>でんわ</rt></ruby>があったら、<ruby>東京消防庁<rt>とうきょうしょうぼうちょう</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>通訳<rt>つうやく</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>して、３<ruby>人<rt>にん</rt></ruby>で<ruby>話<rt>はな</rt></ruby>します。<ruby>英語<rt>えいご</rt></ruby>、<ruby>中国語<rt>ちゅうごくご</rt></ruby>、<ruby>韓国語<rt>かんこくご</rt></ruby>、ポルトガル<ruby>語<rt>ご</rt></ruby>、スペイン<ruby>語<rt>ご</rt></ruby>の５つの<ruby>外国語<rt>がいこくご</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うことができます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 救急車
+  descriptions:
+  - <ruby><rb>急病人</rb><rt>きゅうびょうにん</rt></ruby>やけが<ruby><rb>人</rb><rt>にん</rt></ruby>を、すぐ<ruby><rb>病院</rb><rt>びょういん</rt></ruby>へ<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。<ruby><rb>消防署</rb><rt>しょうぼうしょ</rt></ruby>で<ruby><rb>管理</rb><rt>かんり</rt></ruby>している。
+- word: 通訳
+  descriptions:
+  - ちがうことばを<ruby><rb>話</rb><rt>はな</rt></ruby>す<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>って、<ruby><rb>両方</rb><rt>りょうほう</rt></ruby>のことばを<ruby><rb>翻訳</rb><rt>ほんやく</rt></ruby>して<ruby><rb>伝</rb><rt>つた</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+web_news_url: /news/web/2017/07/03/5か国語で119番通報に対応-東京消防庁/
+source_url: http://www3.nhk.or.jp/news/easy/k10011040491000/k10011040491000.html
+...

@@ -1,0 +1,46 @@
+---
+layout: easy_news
+newsid: k10011038221000
+categories: easy
+title: 広島市　原爆の被害にあった電車に乗って原爆について知る
+title_with_ruby: <ruby>広島市<rt>ひろしまし</rt></ruby>　<ruby>原爆<rt>げんばく</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>にあった<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>原爆<rt>げんばく</rt></ruby>について<ruby>知<rt>し</rt></ruby>る
+last_modified_at: '2017-07-04T11:30:00+09:00'
+datetime: 2017年07月04日 11時30分
+description: 広島市ひろしましで２日ふつか、「被爆電車ひばくでんしゃ」に乗のって、原爆げんばくについて知しるイベントがありました。
+description_with_ruby: <ruby>広島市<rt>ひろしまし</rt></ruby>で<ruby>２日<rt>ふつか</rt></ruby>、「<ruby>被爆電車<rt>ひばくでんしゃ</rt></ruby>」に<ruby>乗<rt>の</rt></ruby>って、<ruby>原爆<rt>げんばく</rt></ruby>について<ruby>知<rt>し</rt></ruby>るイベントがありました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/04/k10011038221000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/04/k10011038221000.mp3
+contents: "<p><ruby>広島市<rt>ひろしまし</rt></ruby>で<ruby>２日<rt>ふつか</rt></ruby>、「<ruby>被爆電車<rt>ひばくでんしゃ</rt></ruby>」に<ruby>乗<rt>の</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>原爆<rt>げんばく</rt></ruby></span>について<ruby>知<rt>し</rt></ruby>る<span\
+  \ style=\"color: blue;\">イベント</span>がありました。</p>\n<p>「<ruby>被爆電車<rt>ひばくでんしゃ</rt></ruby>」は、１９４５<ruby>年<rt>ねん</rt></ruby>に<ruby>広島市<rt>ひろしまし</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>原爆<rt>げんばく</rt></ruby></span>が<ruby>落<rt>お</rt></ruby>とされたとき、<span\
+  \ style=\"color: blue;\"><ruby>原爆<rt>げんばく</rt></ruby></span>が<ruby>落<rt>お</rt></ruby>ちた<ruby>場所<rt>ばしょ</rt></ruby>から３ｋｍぐらいの<ruby>所<rt>ところ</rt></ruby>を<ruby>走<rt>はし</rt></ruby>っていて、<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>に<span style=\"color:\
+  \ blue;\">あい</span>ました。<ruby>電車<rt>でんしゃ</rt></ruby>はずっと<ruby>運転<rt>うんてん</rt></ruby>していませんでしたが、２<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>直<rt>なお</rt></ruby>して、また<ruby>走<rt>はし</rt></ruby>ることができるようになりました。</p>\n\
+  <p><span style=\"color: blue;\">イベント</span>では、４０<ruby>人<rt>にん</rt></ruby>ぐらいの<ruby>人<rt>ひと</rt></ruby>がこの<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>りました。そして、<ruby>広島市<rt>ひろしまし</rt></ruby>を<ruby>走<rt>はし</rt></ruby>る<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<span\
+  \ style=\"color: blue;\"><ruby>原爆<rt>げんばく</rt></ruby></span>が<ruby>落<rt>お</rt></ruby>とされたときの<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きました。そのときのことを<ruby>知<rt>し</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>が「<ruby>周<rt>まわ</rt></ruby>りが<ruby>焼<rt>や</rt></ruby>けて<ruby>何<rt>なに</rt></ruby>もなくなりました。<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>を<ruby>踏<rt>ふ</rt></ruby>みながら<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>逃<rt>に</rt></ruby>げたという<ruby>人<rt>ひと</rt></ruby>もいましたが、<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>もたくさんいました」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>小学生<rt>しょうがくせい</rt></ruby></span>の<ruby>娘<rt>むすめ</rt></ruby>と<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>った<ruby>女性<rt>じょせい</rt></ruby>は「<ruby>自分<rt>じぶん</rt></ruby>の<ruby>目<rt>め</rt></ruby>で<ruby>見<rt>み</rt></ruby>て<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くことができたので、<ruby>勉強<rt>べんきょう</rt></ruby>になってよかったです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 原子爆弾
+  descriptions:
+  - <ruby><rb>原子核分裂</rb><rt>げんしかくぶんれつ</rt></ruby>によって<ruby><rb>起</rb><rt>お</rt></ruby>こる、ものすごい<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>殺</rb><rt>ころ</rt></ruby>す。<ruby><rb>原爆</rb><rt>げんばく</rt></ruby>。
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 遭う
+  descriptions:
+  - （<ruby><rb>思</rb><rt>おも</rt></ruby>いがけないものごとに）たまたま<ruby><rb>出</rb><rt>で</rt></ruby>あう。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 遭う
+  descriptions:
+  - （<ruby><rb>思</rb><rt>おも</rt></ruby>いがけないものごとに）たまたま<ruby><rb>出</rb><rt>で</rt></ruby>あう。
+- word: 小学生
+  descriptions:
+  - <ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>に<ruby><rb>通</rb><rt>かよ</rt></ruby>っている<ruby><rb>子</rb><rt>こ</rt></ruby>ども。
+web_news_url: /news/web/2017/07/02/被爆電車に乗って原爆の惨状学ぶ-広島/
+source_url: http://www3.nhk.or.jp/news/easy/k10011038221000/k10011038221000.html
+...
