@@ -1,0 +1,59 @@
+---
+layout: easy_news
+newsid: k10011039391000
+categories: easy
+title: トランプ大統領　ＣＮＮを殴るビデオをツイッターに出す
+title_with_ruby: トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>　ＣＮＮを<ruby>殴<rt>なぐ</rt></ruby>るビデオをツイッターに<ruby>出<rt>だ</rt></ruby>す
+last_modified_at: '2017-07-04T16:30:00+09:00'
+datetime: 2017年07月04日 16時30分
+description: アメリカのトランプ大統領だいとうりょうは２日ふつか、ＣＮＮテレビはうそのニュースだとツイッター（Ｔｗｉｔｔｅｒ）に書かきました。
+description_with_ruby: アメリカのトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>は<ruby>２日<rt>ふつか</rt></ruby>、ＣＮＮテレビはうそのニュースだとツイッター（Ｔｗｉｔｔｅｒ）に<ruby>書<rt>か</rt></ruby>きました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/04/k10011039391000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/04/k10011039391000.mp3
+contents: "<p>アメリカのトランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は<ruby>２日<rt>ふつか</rt></ruby>、ＣＮＮテレビはうそのニュースだとツイッター（Ｔｗｉｔｔｅｒ）に<ruby>書<rt>か</rt></ruby>きました。そして、<ruby>顔<rt>かお</rt></ruby>にＣＮＮの<span\
+  \ style=\"color: blue;\">マーク</span>をつけた<ruby>人<rt>ひと</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>殴<rt>なぐ</rt></ruby>っ</span>ている<span style=\"color:\
+  \ blue;\">ビデオ</span>をツイッターに<ruby>出<rt>だ</rt></ruby>しました。</p>\n<p>この<span style=\"\
+  color: blue;\">ビデオ</span>は、トランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>が<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>になる<ruby>前<rt>まえ</rt></ruby>に、<span\
+  \ style=\"color: blue;\">プロレス</span>に<ruby>出<rt>で</rt></ruby>たときの<span style=\"\
+  color: blue;\">ビデオ</span>を<ruby>使<rt>つか</rt></ruby>って<ruby>作<rt>つく</rt></ruby>られたようです。</p>\n\
+  <p>ＣＮＮは「<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は<ruby>子<rt>こ</rt></ruby>どものようなことをやめて、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をしたほうがいいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>アメリカでは<ruby>２日<rt>ふつか</rt></ruby>、トランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>に<span\
+  \ style=\"color: blue;\"><ruby>辞<rt>や</rt></ruby>め</span>てほしいという<ruby>人<rt>ひと</rt></ruby>たちが４５の<ruby>市<rt>し</rt></ruby>で<span\
+  \ style=\"color: blue;\">デモ</span>をしました。ロサンゼルスでは５０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まりました。<span\
+  \ style=\"color: blue;\">デモ</span>をした<ruby>男性<rt>だんせい</rt></ruby>は「トランプ<span style=\"\
+  color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は<ruby>危険<rt>きけん</rt></ruby>です。<ruby>国<rt>くに</rt></ruby>のことではなくて、<ruby>自分<rt>じぶん</rt></ruby>のことだけを<ruby>考<rt>かんが</rt></ruby>えています」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 殴る
+  descriptions:
+  - <ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>打</rb><rt>う</rt></ruby>つ。
+- word: ビデオ
+  descriptions:
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。
+  - 「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: マーク
+  descriptions:
+  - しるし。<ruby><rb>記号</rb><rt>きごう</rt></ruby>。また、しるしをつけること。
+  - <ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>目</rb><rt>め</rt></ruby>をつけて<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>すること。
+  - <ruby><rb>記録</rb><rt>きろく</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ること。
+- word: 殴る
+  descriptions:
+  - <ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>打</rb><rt>う</rt></ruby>つ。
+- word: プロレス
+  descriptions:
+  - <ruby><rb>入場料</rb><rt>にゅうじょうりょう</rt></ruby>をとって<ruby><rb>見</rb><rt>み</rt></ruby>せるために<ruby><rb>行</rb><rt>おこな</rt></ruby>うレスリング。
+- word: 辞める
+  descriptions:
+  - <ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。
+- word: デモ
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>認</rb><rt>みと</rt></ruby>めさせようとして、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>勢</rb><rt>いきお</rt></ruby>いを<ruby><rb>示</rb><rt>しめ</rt></ruby>すこと。また、そのための<ruby><rb>行進</rb><rt>こうしん</rt></ruby>。
+web_news_url: /news/web/2017/07/03/トランプ大統領-CNN倒す動画投稿-メディアとの対立激しく/
+source_url: http://www3.nhk.or.jp/news/easy/k10011039391000/k10011039391000.html
+...
