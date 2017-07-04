@@ -1,0 +1,85 @@
+---
+layout: easy_news
+newsid: k10011040731000
+categories: easy
+title: 雨がたくさん降って危険な場所を地図の色で知らせる
+title_with_ruby: <ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>って<ruby>危険<rt>きけん</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>地図<rt>ちず</rt></ruby>の<ruby>色<rt>いろ</rt></ruby>で<ruby>知<rt>し</rt></ruby>らせる
+last_modified_at: '2017-07-04T16:30:00+09:00'
+datetime: 2017年07月04日 16時30分
+description: 気象庁きしょうちょうは、雨あめがたくさん降ふったとき、川かわや家いえがどのくらい危険きけんになっているか、４日よっかからウェブサイトで知しらせ始はじめました。
+description_with_ruby: <ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>ったとき、<ruby>川<rt>かわ</rt></ruby>や<ruby>家<rt>いえ</rt></ruby>がどのくらい<ruby>危険<rt>きけん</rt></ruby>になっているか、<ruby>４日<rt>よっか</rt></ruby>からウェブサイトで<ruby>知<rt>し</rt></ruby>らせ<ruby>始<rt>はじ</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201707/news/easy/image/2017/07/04/k10011040731000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/04/k10011040731000.mp3
+contents: "<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>ったとき、<ruby>川<rt>かわ</rt></ruby>や<ruby>家<rt>いえ</rt></ruby>がどのくらい<ruby>危険<rt>きけん</rt></ruby>になっているか、<ruby>４日<rt>よっか</rt></ruby>から<span\
+  \ style=\"color: blue;\">ウェブサイト</span>で<ruby>知<rt>し</rt></ruby>らせ<ruby>始<rt>はじ</rt></ruby>めました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>２<ruby>万<rt>まん</rt></ruby>の<ruby>川<rt>かわ</rt></ruby>で<ruby>水<rt>みず</rt></ruby>が<span\
+  \ style=\"color: blue;\">あふれる</span><span style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>がどのくらいあるか、その<ruby>場所<rt>ばしょ</rt></ruby>を１km²ずつ<ruby>地図<rt>ちず</rt></ruby>で４つの<ruby>色<rt>いろ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>分<rt>わ</rt></ruby>け</span>て<ruby>知<rt>し</rt></ruby>らせます。</p>\n\
+  <p>いちばん<ruby>危険<rt>きけん</rt></ruby>な<ruby>場合<rt>ばあい</rt></ruby>は<span style=\"color:\
+  \ blue;\"><ruby>紫<rt>むらさき</rt></ruby></span><ruby>色<rt>いろ</rt></ruby>、<ruby>次<rt>つぎ</rt></ruby>は<ruby>薄<rt>うす</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>紫<rt>むらさき</rt></ruby></span><ruby>色<rt>いろ</rt></ruby>、その<ruby>次<rt>つぎ</rt></ruby>は<ruby>赤<rt>あか</rt></ruby>、そして<ruby>黄色<rt>きいろ</rt></ruby>です。<span\
+  \ style=\"color: blue;\"><ruby>紫<rt>むらさき</rt></ruby></span><ruby>色<rt>いろ</rt></ruby>の<ruby>川<rt>かわ</rt></ruby>では、もう<ruby>水<rt>みず</rt></ruby>が<span\
+  \ style=\"color: blue;\">あふれ</span>て<ruby>大<rt>おお</rt></ruby>きな<span style=\"color:\
+  \ blue;\"><ruby>災害<rt>さいがい</rt></ruby></span>が<span style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こっ</span>ている<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。<ruby>薄<rt>うす</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>紫<rt>むらさき</rt></ruby></span><ruby>色<rt>いろ</rt></ruby>の<ruby>川<rt>かわ</rt></ruby>では、これから<ruby>水<rt>みず</rt></ruby>が<span\
+  \ style=\"color: blue;\">あふれ</span>て<span style=\"color: blue;\"><ruby>災害<rt>さいがい</rt></ruby></span>が<span\
+  \ style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こる</span><span style=\"color: blue;\"\
+  ><ruby>可能性<rt>かのうせい</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>いです。</p>\n<p><ruby>家<rt>いえ</rt></ruby>がたくさんある<ruby>場所<rt>ばしょ</rt></ruby>などについても、<ruby>家<rt>いえ</rt></ruby>に<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってくる<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>がある<ruby>場合<rt>ばあい</rt></ruby>、<ruby>川<rt>かわ</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように１km²ずつ４つの<ruby>色<rt>いろ</rt></ruby>で<ruby>危険<rt>きけん</rt></ruby>を<ruby>知<rt>し</rt></ruby>らせます。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>紫<rt>むらさき</rt></ruby></span><ruby>色<rt>いろ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>では、もう<ruby>家<rt>いえ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>床<rt>ゆか</rt></ruby></span>の<ruby>上<rt>うえ</rt></ruby>まで<ruby>水<rt>みず</rt></ruby>が<ruby>来<rt>き</rt></ruby>ている<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。<ruby>薄<rt>うす</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>紫<rt>むらさき</rt></ruby></span><ruby>色<rt>いろ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>では、１<ruby>時間<rt>じかん</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>床<rt>ゆか</rt></ruby></span>の<ruby>上<rt>うえ</rt></ruby>まで<ruby>水<rt>みず</rt></ruby>が<ruby>来<rt>く</rt></ruby>る<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>いです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: あふれる
+  descriptions:
+  - いっぱいになって、こぼれる。
+  - <ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 分ける
+  descriptions:
+  - <ruby><rb>別々</rb><rt>べつべつ</rt></ruby>にする。はなす。
+  - <ruby><rb>配</rb><rt>くば</rt></ruby>る。<ruby><rb>分配</rb><rt>ぶんぱい</rt></ruby>する。
+  - <ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>に、おし<ruby><rb>開</rb><rt>ひら</rt></ruby>く。
+  - <ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>分</rb><rt>わ</rt></ruby>けにする。
+  - <ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てる。
+- word: 紫
+  descriptions:
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>と<ruby><rb>青</rb><rt>あお</rt></ruby>の<ruby><rb>混</rb><rt>ま</rt></ruby>じった<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+  - <ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>小花</rb><rt>こばな</rt></ruby>をつける<ruby><rb>草</rb><rt>くさ</rt></ruby>。<ruby><rb>根</rb><rt>ね</rt></ruby>からむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>染料</rb><rt>せんりょう</rt></ruby>をとる。
+  - 「しょうゆ」の<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>方</rb><rt>かた</rt></ruby>。
+- word: あふれる
+  descriptions:
+  - いっぱいになって、こぼれる。
+  - <ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。
+- word: 災害
+  descriptions:
+  - <ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。
+- word: 起こる
+  descriptions:
+  - <ruby><rb>始</rb><rt>はじ</rt></ruby>まる。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。
+- word: 起こる
+  descriptions:
+  - <ruby><rb>始</rb><rt>はじ</rt></ruby>まる。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。
+- word: 床
+  descriptions:
+  - <ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、<ruby><rb>地面</rb><rt>じめん</rt></ruby>より<ruby><rb>高</rb><rt>たか</rt></ruby>く、<ruby><rb>板</rb><rt>いた</rt></ruby>を<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>張</rb><rt>は</rt></ruby>ったところ。
+web_news_url: /news/web/2017/07/04/浸水危険性高い地域を細かく色分け-気象庁が新情報発表へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011040731000/k10011040731000.html
+...
