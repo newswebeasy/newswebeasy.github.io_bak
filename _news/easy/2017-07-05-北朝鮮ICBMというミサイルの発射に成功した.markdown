@@ -1,0 +1,60 @@
+---
+layout: easy_news
+newsid: k10011041951000
+categories: easy
+title: 北朝鮮「ＩＣＢＭというミサイルの発射に成功した」
+title_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>「ＩＣＢＭというミサイルの<ruby>発射<rt>はっしゃ</rt></ruby>に<ruby>成功<rt>せいこう</rt></ruby>した」
+last_modified_at: '2017-07-05T15:40:00+09:00'
+datetime: 2017年07月05日 15時40分
+description: 北朝鮮きたちょうせんは４日よっか、「新あたらしく作つくったＩＣＢＭというミサイルを発射はっしゃすることに成功せいこうした」と発表はっぴょうしました。
+description_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は<ruby>４日<rt>よっか</rt></ruby>、「<ruby>新<rt>あたら</rt></ruby>しく<ruby>作<rt>つく</rt></ruby>ったＩＣＢＭというミサイルを<ruby>発射<rt>はっしゃ</rt></ruby>することに<ruby>成功<rt>せいこう</rt></ruby>した」と<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/05/k10011041951000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/05/k10011041951000.mp3
+contents: "<p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は<ruby>４日<rt>よっか</rt></ruby>、「<ruby>新<rt>あたら</rt></ruby>しく<ruby>作<rt>つく</rt></ruby>ったＩＣＢＭという<span\
+  \ style=\"color: blue;\">ミサイル</span>を<span style=\"color: blue;\"><ruby>発射<rt>はっしゃ</rt></ruby></span>することに<span\
+  \ style=\"color: blue;\"><ruby>成功<rt>せいこう</rt></ruby></span>した」と<span style=\"color:\
+  \ blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。ＩＣＢＭは、<ruby>今<rt>いま</rt></ruby>までの<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<span\
+  \ style=\"color: blue;\">ミサイル</span>より<ruby>遠<rt>とお</rt></ruby>くまで<ruby>飛<rt>と</rt></ruby>びます。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>によると、この<span\
+  \ style=\"color: blue;\">ミサイル</span>は<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のクソンから<ruby>東<rt>ひがし</rt></ruby>に９３３ｋｍ<ruby>飛<rt>と</rt></ruby>んで<span\
+  \ style=\"color: blue;\"><ruby>日本海<rt>にほんかい</rt></ruby></span>に<ruby>落<rt>お</rt></ruby>ちました。<ruby>高<rt>たか</rt></ruby>さは２８０２ｋｍまで<ruby>上<rt>あ</rt></ruby>がりました。</p>\n\
+  <p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は、アメリカまで<ruby>飛<rt>と</rt></ruby>ぶ<span style=\"\
+  color: blue;\">ミサイル</span>を<ruby>準備<rt>じゅんび</rt></ruby>していると<ruby>言<rt>い</rt></ruby>っていましたが、ＩＣＢＭを<span\
+  \ style=\"color: blue;\"><ruby>発射<rt>はっしゃ</rt></ruby></span>したと<span style=\"color:\
+  \ blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>したのは<ruby>初<rt>はじ</rt></ruby>めてです。<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は「<ruby>私<rt>わたし</rt></ruby>たちは<span\
+  \ style=\"color: blue;\"><ruby>核兵器<rt>かくへいき</rt></ruby></span>とＩＣＢＭを<ruby>持<rt>も</rt></ruby>っている。アメリカは、<span\
+  \ style=\"color: blue;\"><ruby>核兵器<rt>かくへいき</rt></ruby></span>で<ruby>戦争<rt>せんそう</rt></ruby>をすると<ruby>言<rt>い</rt></ruby>って<ruby>私<rt>わたし</rt></ruby>たちを<span\
+  \ style=\"color: blue;\"><ruby>脅<rt>おど</rt></ruby>す</span>ことができなくなるだろう」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>アメリカの<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は「<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>が<ruby>一緒<rt>いっしょ</rt></ruby>になって、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<span\
+  \ style=\"color: blue;\">ミサイル</span>の<span style=\"color: blue;\"><ruby>発射<rt>はっしゃ</rt></ruby></span>などをやめさせる<ruby>必要<rt>ひつよう</rt></ruby>がある」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: ミサイル
+  descriptions:
+  - ロケットなどの<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>飛</rb><rt>と</rt></ruby>び、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby><ruby><rb>装置</rb><rt>そうち</rt></ruby>によって、<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>をとらえる<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>誘導弾</rb><rt>ゆうどうだん</rt></ruby>。
+- word: 発射
+  descriptions:
+  - <ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>のたまやロケットなどを、<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 成功
+  descriptions:
+  - ものごとが<ruby><rb>思</rb><rt>おも</rt></ruby>いどおりにうまくいくこと。
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>地位</rb><rt>ちい</rt></ruby>や<ruby><rb>財産</rb><rt>ざいさん</rt></ruby>を<ruby><rb>得</rb><rt>え</rt></ruby>ること。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 日本海
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>東</rb><rt>ひがし</rt></ruby>と<ruby><rb>日本列島</rb><rt>にほんれっとう</rt></ruby>にはさまれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: 核兵器
+  descriptions:
+  - <ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。
+- word: 脅す
+  descriptions:
+  - こわがらせる。おどかす。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+web_news_url: /news/web/2017/07/04/北朝鮮が特別重大報道ICBM発射実験に初成功/
+source_url: http://www3.nhk.or.jp/news/easy/k10011041951000/k10011041951000.html
+...

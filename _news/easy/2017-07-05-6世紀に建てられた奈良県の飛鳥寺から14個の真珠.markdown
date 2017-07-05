@@ -1,0 +1,67 @@
+---
+layout: easy_news
+newsid: k10011040441000
+categories: easy
+title: ６世紀に建てられた奈良県の飛鳥寺から１４個の真珠
+title_with_ruby: ６<ruby>世紀<rt>せいき</rt></ruby>に<ruby>建<rt>た</rt></ruby>てられた<ruby>奈良県<rt>ならけん</rt></ruby>の<ruby>飛鳥寺<rt>あすかでら</rt></ruby>から１４<ruby>個<rt>こ</rt></ruby>の<ruby>真珠<rt>しんじゅ</rt></ruby>
+last_modified_at: '2017-07-05T11:30:00+09:00'
+datetime: 2017年07月05日 11時30分
+description: 奈良県ならけん明日香村あすかむらにある飛鳥寺あすかでらは、６世紀せいきの終おわりごろに建たてられた古ふるい寺てらです。
+description_with_ruby: <ruby>奈良県<rt>ならけん</rt></ruby><ruby>明日香村<rt>あすかむら</rt></ruby>にある<ruby>飛鳥寺<rt>あすかでら</rt></ruby>は、６<ruby>世紀<rt>せいき</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろに<ruby>建<rt>た</rt></ruby>てられた<ruby>古<rt>ふる</rt></ruby>い<ruby>寺<rt>てら</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/05/k10011040441000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/05/k10011040441000.mp3
+contents: "<p><ruby>奈良県<rt>ならけん</rt></ruby><ruby>明日香村<rt>あすかむら</rt></ruby>にある<ruby>飛鳥寺<rt>あすかでら</rt></ruby>は、６<span\
+  \ style=\"color: blue;\"><ruby>世紀<rt>せいき</rt></ruby></span>の<ruby>終<rt>お</rt></ruby>わりごろに<ruby>建<rt>た</rt></ruby>てられた<ruby>古<rt>ふる</rt></ruby>い<ruby>寺<rt>てら</rt></ruby>です。６０<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>に<ruby>飛鳥寺<rt>あすかでら</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べたとき、ガラスの<span\
+  \ style=\"color: blue;\"><ruby>玉<rt>たま</rt></ruby></span>と<ruby>一緒<rt>いっしょ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>直径<rt>ちょっけい</rt></ruby></span>２ｍｍぐらいの<ruby>丸<rt>まる</rt></ruby>い<ruby>形<rt>かたち</rt></ruby>の<ruby>物<rt>もの</rt></ruby>が１４<ruby>個<rt>こ</rt></ruby><ruby>見<rt>み</rt></ruby>つかりました。</p>\n\
+  <p><ruby>丸<rt>まる</rt></ruby>い<ruby>形<rt>かたち</rt></ruby>の<ruby>物<rt>もの</rt></ruby>は、<ruby>何<rt>なに</rt></ruby>でできているかわかっていませんでした。<ruby>奈良文化財研究所<rt>ならぶんかざいけんきゅうしょ</rt></ruby>が<span\
+  \ style=\"color: blue;\">Ｘ<ruby>線<rt>せん</rt></ruby></span>などを<ruby>使<rt>つか</rt></ruby>って<ruby>調<rt>しら</rt></ruby>べると、<span\
+  \ style=\"color: blue;\"><ruby>真珠<rt>しんじゅ</rt></ruby></span>だったことがわかりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>仏教<rt>ぶっきょう</rt></ruby></span>では、<span style=\"\
+  color: blue;\"><ruby>真珠<rt>しんじゅ</rt></ruby></span>は７つの<span style=\"color: blue;\"\
+  ><ruby>宝<rt>たから</rt></ruby></span>の１つで、<span style=\"color: blue;\"><ruby>金<rt>きん</rt></ruby></span>や<span\
+  \ style=\"color: blue;\"><ruby>銀<rt>ぎん</rt></ruby></span>と<ruby>同<rt>おな</rt></ruby>じように<ruby>大切<rt>たいせつ</rt></ruby>にされてきました。<ruby>奈良文化財研究所<rt>ならぶんかざいけんきゅうしょ</rt></ruby>は、<ruby>飛鳥寺<rt>あすかでら</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかった<span\
+  \ style=\"color: blue;\"><ruby>真珠<rt>しんじゅ</rt></ruby></span>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>寺<rt>てら</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかった<span\
+  \ style=\"color: blue;\"><ruby>真珠<rt>しんじゅ</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>ではいちばん<ruby>古<rt>ふる</rt></ruby>いと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 世紀
+  descriptions:
+  - １００<ruby><rb>年</rb><rt>ねん</rt></ruby>を<ruby><rb>単位</rb><rt>たんい</rt></ruby>として<ruby><rb>数</rb><rt>かぞ</rt></ruby>える<ruby><rb>年代</rb><rt>ねんだい</rt></ruby>の<ruby><rb>数</rb><rt>かぞ</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>西暦</rb><rt>せいれき</rt></ruby>１<ruby><rb>年</rb><rt>ねん</rt></ruby>から１００<ruby><rb>年</rb><rt>ねん</rt></ruby>までを<ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>と<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶ。<ruby><rb>２１世紀</rb><rt>にじゅういっせいき</rt></ruby>は２００１<ruby><rb>年</rb><rt>ねん</rt></ruby>から２１００<ruby><rb>年</rb><rt>ねん</rt></ruby>まで。
+  - <ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>に<ruby><rb>１度</rb><rt>いちど</rt></ruby>しかないようなもの。
+- word: 真珠
+  descriptions:
+  - アコヤガイなどの<ruby><rb>貝類</rb><rt>かいるい</rt></ruby>のからの<ruby><rb>中</rb><rt>なか</rt></ruby>にできる、<ruby><rb>銀色</rb><rt>ぎんいろ</rt></ruby>やもも<ruby><rb>色</rb><rt>いろ</rt></ruby>に<ruby><rb>光</rb><rt>ひか</rt></ruby>る<ruby><rb>玉</rb><rt>たま</rt></ruby>。<ruby><rb>指輪</rb><rt>ゆびわ</rt></ruby>や<ruby><rb>首</rb><rt>くび</rt></ruby>かざりなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。パール。
+- word: 玉
+  descriptions:
+  - <ruby><rb>宝石</rb><rt>ほうせき</rt></ruby>。
+  - <ruby><rb>美</rb><rt>うつく</rt></ruby>しいもの。<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>なもの。
+  - <ruby><rb>丸</rb><rt>まる</rt></ruby>いもの。
+  - <ruby><rb>丸</rb><rt>まる</rt></ruby>めたもの。
+  - レンズ。
+- word: 直径
+  descriptions:
+  - <ruby><rb>円</rb><rt>えん</rt></ruby>または<ruby><rb>球</rb><rt>きゅう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>って、<ruby><rb>円周</rb><rt>えんしゅう</rt></ruby>や<ruby><rb>球面上</rb><rt>きゅうめんじょう</rt></ruby>の<ruby><rb>二点</rb><rt>にてん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>。さしわたし。
+- word: エックス線
+  descriptions:
+  - <ruby><rb>目</rb><rt>め</rt></ruby>には<ruby><rb>見</rb><rt>み</rt></ruby>えないが、<ruby><rb>物</rb><rt>もの</rt></ruby>をすかし<ruby><rb>通</rb><rt>とお</rt></ruby>す<ruby><rb>力</rb><rt>ちから</rt></ruby>の<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>放射</rb><rt>ほうしゃ</rt></ruby><ruby><rb>線</rb><rt>せん</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>内部</rb><rt>ないぶ</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べるのに<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+- word: 仏教
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby><ruby><rb>３大宗教</rb><rt>さんだいしゅうきょう</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。<ruby><rb>紀元前</rb><rt>きげんぜん</rt></ruby>５００<ruby><rb>年</rb><rt>ねん</rt></ruby>ごろ、インドで<ruby><rb>釈迦</rb><rt>しゃか</rt></ruby>が<ruby><rb>説</rb><rt>と</rt></ruby>いた<ruby><rb>教</rb><rt>おし</rt></ruby>え。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>には、<ruby><rb>６</rb><rt>ろく</rt></ruby><ruby><rb>世紀</rb><rt>せいき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>ごろ<ruby><rb>中国</rb><rt>ちゅうごく</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>して<ruby><rb>伝</rb><rt>つた</rt></ruby>わった。
+- word: 宝
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>少</rb><rt>すこ</rt></ruby>ししかなく、<ruby><rb>貴重</rb><rt>きちょう</rt></ruby>なもの。<ruby><rb>金</rb><rt>きん</rt></ruby>・<ruby><rb>銀</rb><rt>ぎん</rt></ruby>・<ruby><rb>宝石</rb><rt>ほうせき</rt></ruby>など。
+  - <ruby><rb>大切</rb><rt>たいせつ</rt></ruby>な<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 金
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。<ruby><rb>金</rb><rt>きん</rt></ruby>・<ruby><rb>銀</rb><rt>ぎん</rt></ruby>・<ruby><rb>鉄</rb><rt>てつ</rt></ruby>など。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>鉄</rb><rt>てつ</rt></ruby>をいうことが<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+  - かへい。お<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 銀
+  descriptions:
+  - <ruby><rb>白</rb><rt>しろ</rt></ruby>くて<ruby><rb>美</rb><rt>うつく</rt></ruby>しいつやを<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>電気</rb><rt>でんき</rt></ruby>をよく<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>金</rb><rt>きん</rt></ruby>より<ruby><rb>軽</rb><rt>かる</rt></ruby>くてかたい。
+  - ぎん<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+  - おかね。
+  - <ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+web_news_url: /news/web/2017/07/03/飛鳥寺での約60年前の出土-真珠と確認-国内最古/
+source_url: http://www3.nhk.or.jp/news/easy/k10011040441000/k10011040441000.html
+...
