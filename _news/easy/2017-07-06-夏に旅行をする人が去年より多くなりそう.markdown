@@ -1,0 +1,36 @@
+---
+layout: easy_news
+newsid: k10011042731000
+categories: easy
+title: 夏に旅行をする人が去年より多くなりそう
+title_with_ruby: <ruby>夏<rt>なつ</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>が<ruby>去年<rt>きょねん</rt></ruby>より<ruby>多<rt>おお</rt></ruby>くなりそう
+last_modified_at: '2017-07-06T11:30:00+09:00'
+datetime: 2017年07月06日 11時30分
+description: 旅行りょこうの会社かいしゃのＪＴＢによると、７月がつ１５日にち〜８月がつ３１日にちに１泊ぱく以上いじょうの旅行りょこうをする人ひとは、去年きょねんより０．８％多おおい７７３３万まん人にんになりそうです。
+description_with_ruby: <ruby>旅行<rt>りょこう</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>のＪＴＢによると、７<ruby>月<rt>がつ</rt></ruby>１５<ruby>日<rt>にち</rt></ruby>〜８<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>に１<ruby>泊<rt>ぱく</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>より０．８％<ruby>多<rt>おお</rt></ruby>い７７３３<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>になりそうです。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/06/k10011042731000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/06/k10011042731000.mp3
+contents: "<p><ruby>旅行<rt>りょこう</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>のＪＴＢによると、７<ruby>月<rt>がつ</rt></ruby>１５<ruby>日<rt>にち</rt></ruby>〜８<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>に１<span\
+  \ style=\"color: blue;\"><ruby>泊<rt>ぱく</rt></ruby></span><ruby>以上<rt>いじょう</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>より０．８％<ruby>多<rt>おお</rt></ruby>い７７３３<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>になりそうです。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>は<ruby>３日<rt>みっか</rt></ruby><ruby>続<rt>つづ</rt></ruby>く<ruby>休<rt>やす</rt></ruby>みが２<ruby>回<rt>かい</rt></ruby>あります。<span\
+  \ style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>の<ruby>働<rt>はたら</rt></ruby>きすぎをなくそうと<ruby>考<rt>かんが</rt></ruby>える<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えたため、<ruby>仕事<rt>しごと</rt></ruby>を<ruby>休<rt>やす</rt></ruby>みやすくなったことも<ruby>理由<rt>りゆう</rt></ruby>だとＪＴＢは<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p>ＪＴＢによると、<ruby>遠<rt>とお</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>旅行<rt>りょこう</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>で、<ruby>外国<rt>がいこく</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>は２７３<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>になりそうです。<ruby>去年<rt>きょねん</rt></ruby>より３．４％<ruby>増<rt>ふ</rt></ruby>えて、１９６９<ruby>年<rt>ねん</rt></ruby>に<ruby>調<rt>しら</rt></ruby>べ<ruby>始<rt>はじ</rt></ruby>めてから２<ruby>番目<rt>ばんめ</rt></ruby>に<ruby>多<rt>おお</rt></ruby>くなりそうです。</p>\n\
+  <p><ruby>旅行<rt>りょこう</rt></ruby>に<ruby>使<rt>つか</rt></ruby>うお<ruby>金<rt>かね</rt></ruby>も、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>旅行<rt>りょこう</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>は<ruby>１人<rt>ひとり</rt></ruby>３<ruby>万<rt>まん</rt></ruby>４４００<ruby>円<rt>えん</rt></ruby>、<ruby>外国<rt>がいこく</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>は<ruby>１人<rt>ひとり</rt></ruby>２４<ruby>万<rt>まん</rt></ruby>２０００<ruby>円<rt>えん</rt></ruby>で、<ruby>去年<rt>きょねん</rt></ruby>より<ruby>増<rt>ふ</rt></ruby>えそうです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 泊
+  descriptions:
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>が<ruby><rb>港</rb><rt>みなと</rt></ruby>にとまる。
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>家</rb><rt>いえ</rt></ruby>でない<ruby><rb>所</rb><rt>ところ</rt></ruby>にとまる。
+  - あっさりしている。
+  - とまった<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 社員
+  descriptions:
+  - その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+web_news_url: /news/web/2017/07/05/夏に旅行に出かける人-4年ぶりに増加の見込み/
+source_url: http://www3.nhk.or.jp/news/easy/k10011042731000/k10011042731000.html
+...
