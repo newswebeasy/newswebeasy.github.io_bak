@@ -1,0 +1,61 @@
+---
+layout: easy_news
+newsid: k10011041571000
+categories: easy
+title: 「ふるさと納税」が４年続けて増える
+title_with_ruby: 「ふるさと<ruby>納税<rt>のうぜい</rt></ruby>」が４<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>増<rt>ふ</rt></ruby>える
+last_modified_at: '2017-07-06T11:30:00+09:00'
+datetime: 2017年07月06日 11時30分
+description: 「ふるさと納税のうぜい」は、自分じぶんが生うまれた町まちなどにお金かねを寄付きふすることです。
+description_with_ruby: 「ふるさと<ruby>納税<rt>のうぜい</rt></ruby>」は、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれた<ruby>町<rt>まち</rt></ruby>などにお<ruby>金<rt>かね</rt></ruby>を<ruby>寄付<rt>きふ</rt></ruby>することです。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/06/k10011041571000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/06/k10011041571000.mp3
+contents: "<p>「ふるさと<ruby>納税<rt>のうぜい</rt></ruby>」は、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれた<ruby>町<rt>まち</rt></ruby>などにお<ruby>金<rt>かね</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>寄付<rt>きふ</rt></ruby></span>することです。<span style=\"\
+  color: blue;\"><ruby>寄付<rt>きふ</rt></ruby></span>すると、<span style=\"color: blue;\"\
+  ><ruby>税金<rt>ぜいきん</rt></ruby></span>が<ruby>安<rt>やす</rt></ruby>くなります。</p>\n<p><span\
+  \ style=\"color: blue;\"><ruby>総務省<rt>そうむしょう</rt></ruby></span>によると、２０１６<span style=\"\
+  color: blue;\"><ruby>年度<rt>ねんど</rt></ruby></span>は<ruby>全部<rt>ぜんぶ</rt></ruby>で２８４４<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>寄付<rt>きふ</rt></ruby></span>がありました。２０１５<span style=\"\
+  color: blue;\"><ruby>年度<rt>ねんど</rt></ruby></span>の１．７<ruby>倍<rt>ばい</rt></ruby>で、４<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>増<rt>ふ</rt></ruby>えました。</p>\n\
+  <p>いちばん<ruby>多<rt>おお</rt></ruby>かったのは<ruby>宮崎県<rt>みやざきけん</rt></ruby><ruby>都城市<rt>みやこのじょうし</rt></ruby>で、７３<ruby>億<rt>おく</rt></ruby>３３００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>でした。<ruby>都城市<rt>みやこのじょうし</rt></ruby>は、１００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>寄付<rt>きふ</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>焼酎<rt>しょうちゅう</rt></ruby></span>３６５<ruby>本<rt>ほん</rt></ruby>のお<ruby>礼<rt>れい</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>贈<rt>おく</rt></ruby>っ</span>たりしていました。<ruby>次<rt>つぎ</rt></ruby>は<ruby>長野県<rt>ながのけん</rt></ruby><ruby>伊那市<rt>いなし</rt></ruby>で７２<ruby>億<rt>おく</rt></ruby>５００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>、その<ruby>次<rt>つぎ</rt></ruby>は<ruby>静岡県<rt>しずおかけん</rt></ruby><ruby>焼津市<rt>やいづし</rt></ruby>で５１<ruby>億<rt>おく</rt></ruby>２１００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>でした。</p>\n\
+  <p>たくさん<span style=\"color: blue;\"><ruby>寄付<rt>きふ</rt></ruby></span>してもらいたいと<ruby>考<rt>かんが</rt></ruby>えて、お<ruby>礼<rt>れい</rt></ruby>に<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い<ruby>品物<rt>しなもの</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>贈<rt>おく</rt></ruby>る</span><ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>などもあります。<ruby>競争<rt>きょうそう</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>激<rt>はげ</rt></ruby>しく</span>なっているため、<span style=\"\
+  color: blue;\"><ruby>総務省<rt>そうむしょう</rt></ruby></span>は、お<ruby>礼<rt>れい</rt></ruby>の<ruby>品物<rt>しなもの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>寄付<rt>きふ</rt></ruby></span>のお<ruby>金<rt>かね</rt></ruby>の３０%<ruby>以下<rt>いか</rt></ruby>にするように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: 寄付
+  descriptions:
+  - （おおやけの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>・<ruby><rb>寺</rb><rt>てら</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けるために）お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 税金
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>、<ruby><rb>市町村</rb><rt>しちょうそん</rt></ruby>が、そこに<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>人</rb><rt>ひと</rt></ruby>から<ruby><rb>集</rb><rt>あつ</rt></ruby>めるお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 総務省
+  descriptions:
+  - <ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>・<ruby><rb>市区町村</rb><rt>しくちょうそん</rt></ruby>などの<ruby><rb>地方自治体</rb><rt>ちほうじちたい</rt></ruby>や<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>の<ruby><rb>世話</rb><rt>せわ</rt></ruby>、<ruby><rb>郵便</rb><rt>ゆうびん</rt></ruby>・<ruby><rb>郵便貯金</rb><rt>ゆうびんちょきん</rt></ruby>・<ruby><rb>簡易保険</rb><rt>かんいほけん</rt></ruby>・<ruby><rb>電気通信</rb><rt>でんきつうしん</rt></ruby>などについての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 年度
+  descriptions:
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>のつごうで<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>一年</rb><rt>いちねん</rt></ruby>の<ruby><rb>期間</rb><rt>きかん</rt></ruby>。ふつう<ruby><rb>四月</rb><rt>しがつ</rt></ruby><ruby><rb>一日</rb><rt>ついたち</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まり、<ruby><rb>翌年</rb><rt>よくねん</rt></ruby>の<ruby><rb>三月三十一日</rb><rt>さんがつさんじゅういちにち</rt></ruby>に<ruby><rb>終</rb><rt>お</rt></ruby>わる。
+- word: 焼酎
+  descriptions:
+  - <ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>やサツマイモなどからつくった、<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>酒</rb><rt>さけ</rt></ruby>。
+- word: 贈る
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。
+- word: 贈る
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。
+- word: 激しい
+  descriptions:
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>いが<ruby><rb>強</rb><rt>つよ</rt></ruby>い。
+  - ものごとの<ruby><rb>程度</rb><rt>ていど</rt></ruby>がきつい。
+web_news_url: /news/web/2017/07/04/ふるさと納税の総額-4年連続で過去最高を更新/
+source_url: http://www3.nhk.or.jp/news/easy/k10011041571000/k10011041571000.html
+...
