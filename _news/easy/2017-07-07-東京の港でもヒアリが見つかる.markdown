@@ -1,0 +1,61 @@
+---
+layout: easy_news
+newsid: k10011046821000
+categories: easy
+title: 東京の港でも「ヒアリ」が見つかる
+title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>港<rt>みなと</rt></ruby>でも「ヒアリ」が<ruby>見<rt>み</rt></ruby>つかる
+last_modified_at: '2017-07-07T15:55:00+09:00'
+datetime: 2017年07月07日 15時55分
+description: 東京とうきょうの品川区しながわくにある港みなとの大井おおいふ頭とうで７月がつ３日みっか、船ふねで運はこんできたコンテナから「ヒアリ」が１匹ぴき見みつかりました。
+description_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>品川区<rt>しながわく</rt></ruby>にある<ruby>港<rt>みなと</rt></ruby>の<ruby>大井<rt>おおい</rt></ruby>ふ<ruby>頭<rt>とう</rt></ruby>で７<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>、<ruby>船<rt>ふね</rt></ruby>で<ruby>運<rt>はこ</rt></ruby>んできたコンテナから「ヒアリ」が１<ruby>匹<rt>ぴき</rt></ruby><ruby>見<rt>み</rt></ruby>つかりました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/07/k10011046821000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/07/k10011046821000.mp3
+contents: "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>品川区<rt>しながわく</rt></ruby>にある<ruby>港<rt>みなと</rt></ruby>の<ruby>大井<rt>おおい</rt></ruby>ふ<ruby>頭<rt>とう</rt></ruby>で７<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>、<ruby>船<rt>ふね</rt></ruby>で<ruby>運<rt>はこ</rt></ruby>んできた<span\
+  \ style=\"color: blue;\">コンテナ</span>から「ヒアリ」が１<ruby>匹<rt>ぴき</rt></ruby><ruby>見<rt>み</rt></ruby>つかりました。<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>港<rt>みなと</rt></ruby>でヒアリが<ruby>見<rt>み</rt></ruby>つかったのは<ruby>初<rt>はじ</rt></ruby>めてです。</p>\n\
+  <p>ヒアリは<span style=\"color: blue;\"><ruby>南<rt>みなみ</rt></ruby>アメリカ</span>で<ruby>生<rt>う</rt></ruby>まれた<span\
+  \ style=\"color: blue;\">アリ</span>です。<ruby>強<rt>つよ</rt></ruby>い<span style=\"color:\
+  \ blue;\"><ruby>毒<rt>どく</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>っていて、<span style=\"\
+  color: blue;\"><ruby>刺<rt>さ</rt></ruby>さ</span>れて<ruby>亡<rt>な</rt></ruby>くなる<ruby>人<rt>ひと</rt></ruby>もいます。<ruby>東京都<rt>とうきょうと</rt></ruby>によると、<ruby>今<rt>いま</rt></ruby>までに<span\
+  \ style=\"color: blue;\"><ruby>刺<rt>さ</rt></ruby>さ</span>れたり<ruby>体<rt>からだ</rt></ruby>の<ruby>具合<rt>ぐあい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなったりした<ruby>人<rt>ひと</rt></ruby>はいません。</p>\n\
+  <p>この<span style=\"color: blue;\">コンテナ</span>は、まず<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>港<rt>みなと</rt></ruby>から<ruby>香港<rt>ほんこん</rt></ruby>の<ruby>港<rt>みなと</rt></ruby>まで<ruby>運<rt>はこ</rt></ruby>ばれました。<ruby>香港<rt>ほんこん</rt></ruby>で<ruby>別<rt>べつ</rt></ruby>の<ruby>船<rt>ふね</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>乗<rt>の</rt></ruby>せ</span>て、６<ruby>月<rt>がつ</rt></ruby>２７<ruby>日<rt>にち</rt></ruby>に<ruby>大井<rt>おおい</rt></ruby>ふ<ruby>頭<rt>とう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。<ruby>東京都<rt>とうきょうと</rt></ruby>は、<span\
+  \ style=\"color: blue;\">アリ</span>を<span style=\"color: blue;\"><ruby>殺<rt>ころ</rt></ruby>す</span><ruby>薬<rt>くすり</rt></ruby>が<ruby>入<rt>はい</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>餌<rt>えさ</rt></ruby></span>を<ruby>置<rt>お</rt></ruby>いて、<ruby>港<rt>みなと</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>などに<ruby>気<rt>き</rt></ruby>をつけるように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>ヒアリは<ruby>今年<rt>ことし</rt></ruby>５<ruby>月<rt>がつ</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて、<ruby>神戸<rt>こうべ</rt></ruby>の<ruby>港<rt>みなと</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかりました。そのあと、<ruby>名古屋<rt>なごや</rt></ruby>と<ruby>大阪<rt>おおさか</rt></ruby>の<ruby>港<rt>みなと</rt></ruby>でも<ruby>見<rt>み</rt></ruby>つかりました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: コンテナー
+  descriptions:
+  - <ruby><rb>貨物</rb><rt>かもつ</rt></ruby>の<ruby><rb>輸送</rb><rt>ゆそう</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>箱</rb><rt>はこ</rt></ruby>。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて、そのまま<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックで<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ。コンテナ。
+- word: 南アメリカ
+  descriptions:
+  - <ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>南</rb><rt>みなみ</rt></ruby>アメリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>と、<ruby><rb>周辺</rb><rt>しゅうへん</rt></ruby>の<ruby><rb>島々</rb><rt>しまじま</rt></ruby>をふくむ<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。<ruby><rb>東</rb><rt>ひがし</rt></ruby>は<ruby><rb>大西洋</rb><rt>たいせいよう</rt></ruby>、<ruby><rb>西</rb><rt>にし</rt></ruby>は<ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>に<ruby><rb>面</rb><rt>めん</rt></ruby>し、<ruby><rb>北</rb><rt>きた</rt></ruby>は<ruby><rb>北</rb><rt>きた</rt></ruby>アメリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>につながる。ブラジル・アルゼンチン・チリなどの<ruby><rb>国</rb><rt>くに</rt></ruby>がある。<ruby><rb>南米</rb><rt>なんべい</rt></ruby>。
+- word: 蟻
+  descriptions:
+  - <ruby><rb>土</rb><rt>つち</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>や、たおれた<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>などに<ruby><rb>巣</rb><rt>す</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>昆虫</rb><rt>こんちゅう</rt></ruby>。クロオオアリ・アミメアリなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>卵</rb><rt>たまご</rt></ruby>をうむ<ruby><rb>女王</rb><rt>じょおう</rt></ruby>アリを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>に、<ruby><rb>雄</rb><rt>おす</rt></ruby>アリと<ruby><rb>働</rb><rt>はたら</rt></ruby>きアリが<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>している。
+- word: 毒
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>のあるもの。<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>傷</rb><rt>きず</rt></ruby>つけるもの。
+- word: 刺す
+  descriptions:
+  - とがったものをつき<ruby><rb>通</rb><rt>とお</rt></ruby>す。
+  - <ruby><rb>鼻</rb><rt>はな</rt></ruby>・<ruby><rb>舌</rb><rt>した</rt></ruby>・はだなどに、するどい<ruby><rb>刺激</rb><rt>しげき</rt></ruby>をあたえる。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>走者</rb><rt>そうしゃ</rt></ruby>にタッチして、アウトにする。
+- word: 乗せる
+  descriptions:
+  - <ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などに<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>む。
+  - <ruby><rb>調子</rb><rt>ちょうし</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。
+  - だます。
+- word: 殺す
+  descriptions:
+  - <ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - （<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。
+  - <ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。
+- word: 餌
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てたり、とらえたりするための<ruby><rb>食物</rb><rt>しょくもつ</rt></ruby>。え。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>をさそいこむためにあたえるもの。
+web_news_url: /news/web/2017/07/06/東京-大井ふ頭でヒアリ見つかる/
+source_url: http://www3.nhk.or.jp/news/easy/k10011046821000/k10011046821000.html
+...
