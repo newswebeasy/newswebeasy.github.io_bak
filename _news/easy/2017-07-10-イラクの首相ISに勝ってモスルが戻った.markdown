@@ -1,0 +1,80 @@
+---
+layout: easy_news
+newsid: k10011051701000
+categories: easy
+title: イラクの首相「ＩＳに勝ってモスルが戻った」
+title_with_ruby: イラクの<ruby>首相<rt>しゅしょう</rt></ruby>「ＩＳに<ruby>勝<rt>か</rt></ruby>ってモスルが<ruby>戻<rt>もど</rt></ruby>った」
+last_modified_at: '2017-07-10T17:15:00+09:00'
+datetime: 2017年07月10日 17時15分
+description: モスルはイラクで２番目ばんめに大おおきい町まちでした。
+description_with_ruby: モスルはイラクで２<ruby>番目<rt>ばんめ</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きい<ruby>町<rt>まち</rt></ruby>でした。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/10/k10011051701000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/10/k10011051701000.mp3
+contents: "<p>モスルはイラクで２<ruby>番目<rt>ばんめ</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きい<ruby>町<rt>まち</rt></ruby>でした。３<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>、<ruby>世界中<rt>せかいじゅう</rt></ruby>で<span\
+  \ style=\"color: blue;\">テロ</span>を<span style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こし</span>ているＩＳ＝イスラミックステートが<ruby>入<rt>はい</rt></ruby>ってきて、ここは<ruby>自分<rt>じぶん</rt></ruby>たちの<ruby>国<rt>くに</rt></ruby>だと<ruby>言<rt>い</rt></ruby>いました。そして、<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>税金<rt>ぜいきん</rt></ruby></span>を<ruby>集<rt>あつ</rt></ruby>めたりしました。</p>\n\
+  <p>イラクの<span style=\"color: blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>はモスルをイラクに<span\
+  \ style=\"color: blue;\"><ruby>戻<rt>もど</rt></ruby>す</span>ため、<ruby>去年<rt>きょねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>からアメリカなどと<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>してＩＳと<span style=\"\
+  color: blue;\"><ruby>戦<rt>たたか</rt></ruby>っ</span>ていました。</p>\n<p>イラクのアバディ<ruby>首相<rt>しゅしょう</rt></ruby>は<ruby>９日<rt>ここのか</rt></ruby>、モスルで<span\
+  \ style=\"color: blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>の<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いて、ＩＳに<ruby>勝<rt>か</rt></ruby>ってモスルはイラクに<ruby>戻<rt>もど</rt></ruby>ったという<span\
+  \ style=\"color: blue;\"><ruby>考<rt>かんが</rt></ruby>え</span>を<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p>モスルでは<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がイラクの<span style=\"\
+  color: blue;\"><ruby>旗<rt>はた</rt></ruby></span>を<span style=\"color: blue;\"><ruby>振<rt>ふ</rt></ruby>っ</span>て<ruby>喜<rt>よろこ</rt></ruby>んでいました。そして「<ruby>安全<rt>あんぜん</rt></ruby>になりましたが、<ruby>水<rt>みず</rt></ruby>や<ruby>電気<rt>でんき</rt></ruby>が<ruby>足<rt>た</rt></ruby>りません」とか「もう<ruby>一度<rt>いちど</rt></ruby><ruby>前<rt>まえ</rt></ruby>のようににぎやかな<ruby>町<rt>まち</rt></ruby>にしたいです」などと<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>ＩＳはシリアのラッカを<ruby>自分<rt>じぶん</rt></ruby>の<ruby>国<rt>くに</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>だと<ruby>言<rt>い</rt></ruby>っています。ラッカでもＩＳに<ruby>勝<rt>か</rt></ruby>つことができるかもしれないと<ruby>世界<rt>せかい</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>しています。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: テロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: 起こす
+  descriptions:
+  - （<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。
+  - <ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。
+  - （<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。
+  - ほりかえす。
+- word: 税金
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>、<ruby><rb>市町村</rb><rt>しちょうそん</rt></ruby>が、そこに<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>人</rb><rt>ひと</rt></ruby>から<ruby><rb>集</rb><rt>あつ</rt></ruby>めるお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 軍
+  descriptions:
+  - <ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。
+- word: 戻す
+  descriptions:
+  - もとに<ruby><rb>返</rb><rt>かえ</rt></ruby>す。
+  - <ruby><rb>胃</rb><rt>い</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>のものをはく。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+- word: 戦う
+  descriptions:
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>をする。
+  - わざを<ruby><rb>比</rb><rt>くら</rt></ruby>べて、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める。
+- word: 考え
+  descriptions:
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えること。また、<ruby><rb>考</rb><rt>かんが</rt></ruby>えた<ruby><rb>内容</rb><rt>ないよう</rt></ruby>。
+- word: 旗
+  descriptions:
+  - <ruby><rb>布</rb><rt>ぬの</rt></ruby>や<ruby><rb>紙</rb><rt>かみ</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>り、さおなどの<ruby><rb>先</rb><rt>さき</rt></ruby>につけて、かざりや<ruby><rb>目</rb><rt>め</rt></ruby>じるしとするもの。
+- word: 振る
+  descriptions:
+  - ゆり<ruby><rb>動</rb><rt>うご</rt></ruby>かす。
+  - まき<ruby><rb>散</rb><rt>ち</rt></ruby>らす。
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>割</rb><rt>わ</rt></ruby>り<ruby><rb>当</rb><rt>あ</rt></ruby>てる。
+  - つける。
+  - やめる。<ruby><rb>断</rb><rt>ことわ</rt></ruby>る。
+  - むだにする。
+  - <ruby><rb>向</rb><rt>む</rt></ruby>きを<ruby><rb>変</rb><rt>か</rt></ruby>える。
+- word: 首都
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。
+- word: 注目
+  descriptions:
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>してよく<ruby><rb>見</rb><rt>み</rt></ruby>ること。
+web_news_url: /news/web/2017/07/10/イラク首相ISに勝利しモスルを解放と表明/
+source_url: http://www3.nhk.or.jp/news/easy/k10011051701000/k10011051701000.html
+...

@@ -1,0 +1,65 @@
+---
+layout: easy_news
+newsid: k10011047291000
+categories: easy
+title: 日本とヨーロッパが水星を調べる探査機を一緒に作る
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>とヨーロッパが<ruby>水星<rt>すいせい</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べる<ruby>探査<rt>たんさ</rt></ruby><ruby>機<rt>き</rt></ruby>を<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>作<rt>つく</rt></ruby>る
+last_modified_at: '2017-07-10T11:30:00+09:00'
+datetime: 2017年07月10日 11時30分
+description: 水星すいせいは太陽たいようから最もっとも近ちかいところを回まわっています。
+description_with_ruby: <ruby>水星<rt>すいせい</rt></ruby>は<ruby>太陽<rt>たいよう</rt></ruby>から<ruby>最<rt>もっと</rt></ruby>も<ruby>近<rt>ちか</rt></ruby>いところを<ruby>回<rt>まわ</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/10/k10011047291000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/10/k10011047291000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>水星<rt>すいせい</rt></ruby></span>は<span\
+  \ style=\"color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>から<ruby>最<rt>もっと</rt></ruby>も<ruby>近<rt>ちか</rt></ruby>いところを<ruby>回<rt>まわ</rt></ruby>っています。<span\
+  \ style=\"color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>からの<ruby>熱<rt>ねつ</rt></ruby>やガスがあって、<ruby>調<rt>しら</rt></ruby>べることが<ruby>難<rt>むずか</rt></ruby>しいため、<span\
+  \ style=\"color: blue;\"><ruby>水星<rt>すいせい</rt></ruby></span>についてまだわかっていないことがたくさんあります。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>と<span style=\"color: blue;\">ヨーロッパ</span>は<span\
+  \ style=\"color: blue;\"><ruby>水星<rt>すいせい</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べる<span\
+  \ style=\"color: blue;\"><ruby>探査<rt>たんさ</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>機<rt>き</rt></ruby></span>を<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>作<rt>つく</rt></ruby>りました。この<span\
+  \ style=\"color: blue;\"><ruby>探査<rt>たんさ</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>機<rt>き</rt></ruby></span>は、<ruby>日本<rt>にっぽん</rt></ruby>のＪＡＸＡが<ruby>作<rt>つく</rt></ruby>った「ＭＭＯ」とＥＳＡ（ヨーロッパ<ruby>宇宙<rt>うちゅう</rt></ruby><ruby>機関<rt>きかん</rt></ruby>）が<ruby>作<rt>つく</rt></ruby>った「ＭＰＯ」を<span\
+  \ style=\"color: blue;\">つなげ</span>てあります。</p>\n<p><span style=\"color: blue;\"><ruby>探査<rt>たんさ</rt></ruby></span><span\
+  \ style=\"color: blue;\"><ruby>機<rt>き</rt></ruby></span>は<ruby>来年<rt>らいねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>、フランス<ruby>領<rt>りょう</rt></ruby>ギアナから<span\
+  \ style=\"color: blue;\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</span>られます。そして、２０２５<ruby>年<rt>ねん</rt></ruby>１２<ruby>月<rt>がつ</rt></ruby>ごろ、<span\
+  \ style=\"color: blue;\"><ruby>水星<rt>すいせい</rt></ruby></span>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>行<rt>い</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p>ＪＡＸＡの<ruby>齋藤<rt>さいとう</rt></ruby><ruby>義文<rt>よしふみ</rt></ruby><span style=\"color:\
+  \ blue;\"><ruby>教授<rt>きょうじゅ</rt></ruby></span>は「これから<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げの<ruby>準備<rt>じゅんび</rt></ruby>をしっかりしたいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: 水星
+  descriptions:
+  - <ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>にいちばん<ruby><rb>近</rb><rt>ちか</rt></ruby>く、いちばん<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>。
+- word: 探査
+  descriptions:
+  - <ruby><rb>探</rb><rt>さが</rt></ruby>して<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: 機
+  descriptions:
+  - <ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。
+  - とき。きっかけ。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>動</rb><rt>うご</rt></ruby>き。
+  - はたらき。
+  - だいじな<ruby><rb>点</rb><rt>てん</rt></ruby>。
+  - 「<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。また、<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 太陽
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。
+- word: つなげる
+  descriptions:
+  - <ruby><rb>結</rb><rt>むす</rt></ruby>びつけて、はなれないようにする。つなぐ。
+- word: 打ち上げる
+  descriptions:
+  - （<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - <ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - （<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。
+- word: 教授
+  descriptions:
+  - <ruby><rb>大学</rb><rt>だいがく</rt></ruby>の<ruby><rb>先生</rb><rt>せんせい</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>にものを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+web_news_url: /news/web/2017/07/06/日欧共同開発の水星探査機が完成-来年打ち上げへ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011047291000/k10011047291000.html
+...
