@@ -1,0 +1,73 @@
+---
+layout: easy_news
+newsid: k10011052121000
+categories: easy
+title: 大雨で被害があった福岡県朝倉市にボランティアが集まる
+title_with_ruby: <ruby>大雨<rt>おおあめ</rt></ruby>で<ruby>被害<rt>ひがい</rt></ruby>があった<ruby>福岡県<rt>ふくおかけん</rt></ruby><ruby>朝倉市<rt>あさくらし</rt></ruby>にボランティアが<ruby>集<rt>あつ</rt></ruby>まる
+last_modified_at: '2017-07-10T17:15:00+09:00'
+datetime: 2017年07月10日 17時15分
+description: 九州きゅうしゅうでは５日いつかから大雨おおあめが続つづいて、福岡県ふくおかけん朝倉市あさくらしでは大おおきな被害ひがいがありました。
+description_with_ruby: <ruby>九州<rt>きゅうしゅう</rt></ruby>では<ruby>５日<rt>いつか</rt></ruby>から<ruby>大雨<rt>おおあめ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて、<ruby>福岡県<rt>ふくおかけん</rt></ruby><ruby>朝倉市<rt>あさくらし</rt></ruby>では<ruby>大<rt>おお</rt></ruby>きな<ruby>被害<rt>ひがい</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/10/k10011052121000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/10/k10011052121000.mp3
+contents: "<p><ruby>九州<rt>きゅうしゅう</rt></ruby>では<ruby>５日<rt>いつか</rt></ruby>から<span style=\"\
+  color: blue;\"><ruby>大雨<rt>おおあめ</rt></ruby></span>が<ruby>続<rt>つづ</rt></ruby>いて、<ruby>福岡県<rt>ふくおかけん</rt></ruby><ruby>朝倉市<rt>あさくらし</rt></ruby>では<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>がありました。<ruby>朝倉市<rt>あさくらし</rt></ruby>の<ruby>社会福祉協議会<rt>しゃかいふくしきょうぎかい</rt></ruby>は、<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>った<ruby>家<rt>いえ</rt></ruby>の<ruby>片<rt>かた</rt></ruby>づけなどを<ruby>手伝<rt>てつだ</rt></ruby>う<span\
+  \ style=\"color: blue;\">ボランティア</span>に<ruby>来<rt>き</rt></ruby>てもらうことにしました。<ruby>宮野地区<rt>みやのちく</rt></ruby>に「ボランティアセンター」をつくって、<ruby>１０日<rt>とおか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>受<rt>う</rt></ruby>け<ruby>付<rt>つ</rt></ruby>け</span>を<ruby>始<rt>はじ</rt></ruby>めました。</p>\n\
+  <p>センターには、<span style=\"color: blue;\">ヘルメット</span>をかぶったり、<span style=\"color: blue;\"\
+  ><ruby>長靴<rt>ながぐつ</rt></ruby></span>をはいたりした<span style=\"color: blue;\">ボランティア</span>が<ruby>集<rt>あつ</rt></ruby>まりました。<span\
+  \ style=\"color: blue;\">ボランティア</span>は<span style=\"color: blue;\"><ruby>受<rt>う</rt></ruby>け<ruby>付<rt>つ</rt></ruby>け</span>が<ruby>終<rt>お</rt></ruby>わると、<ruby>車<rt>くるま</rt></ruby>に<ruby>道具<rt>どうぐ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>乗<rt>の</rt></ruby>せ</span>て<span style=\"color: blue;\"\
+  ><ruby>被害<rt>ひがい</rt></ruby></span>があった<ruby>所<rt>ところ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。そして、<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>った<ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>拭<rt>ふ</rt></ruby>い</span>たり、<ruby>家<rt>いえ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りに<span\
+  \ style=\"color: blue;\">たまっ</span>た<span style=\"color: blue;\"><ruby>土<rt>つち</rt></ruby></span>を<ruby>片<rt>かた</rt></ruby>づけたりしていました。</p>\n\
+  <p><ruby>広島県<rt>ひろしまけん</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>水<rt>みず</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>土<rt>つち</rt></ruby></span>が<ruby>重<rt>おも</rt></ruby>くなっていて、<ruby>運<rt>はこ</rt></ruby>びにくいです。<span\
+  \ style=\"color: blue;\">ボランティア</span>も<ruby>足<rt>た</rt></ruby>りないと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>った<ruby>家<rt>いえ</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいるお<span\
+  \ style=\"color: blue;\"><ruby>年寄<rt>としよ</rt></ruby>り</span>は「<span style=\"color:\
+  \ blue;\">ボランティア</span>が<ruby>来<rt>き</rt></ruby>てくれてよかったです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大雨
+  descriptions:
+  - <ruby><rb>激</rb><rt>はげ</rt></ruby>しくたくさん<ruby><rb>降</rb><rt>ふ</rt></ruby>る<ruby><rb>雨</rb><rt>あめ</rt></ruby>。<ruby><rb>豪雨</rb><rt>ごうう</rt></ruby>。
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: ボランティア
+  descriptions:
+  - <ruby><rb>社会</rb><rt>しゃかい</rt></ruby>のために、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>から<ruby><rb>進</rb><rt>すす</rt></ruby>んで、<ruby><rb>無料</rb><rt>むりょう</rt></ruby>で<ruby><rb>奉仕活動</rb><rt>ほうしかつどう</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 受け付け・
+  descriptions:
+  - <ruby><rb>申</rb><rt>もう</rt></ruby>しこみなどを<ruby><rb>受</rb><rt>う</rt></ruby>けること。
+  - <ruby><rb>訪</rb><rt>たず</rt></ruby>ねてきた<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>用事</rb><rt>ようじ</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>次</rb><rt>つ</rt></ruby>いだりする<ruby><rb>所</rb><rt>ところ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: ヘルメット
+  descriptions:
+  - <ruby><rb>危険</rb><rt>きけん</rt></ruby>や<ruby><rb>暑</rb><rt>あつ</rt></ruby>さから<ruby><rb>頭</rb><rt>あたま</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るためにかぶる、かたいぼうし。プラスチックなどでできている。
+- word: 長靴
+  descriptions:
+  - <ruby><rb>皮</rb><rt>かわ</rt></ruby>やゴムで<ruby><rb>作</rb><rt>つく</rt></ruby>った、ひざの<ruby><rb>近</rb><rt>ちか</rt></ruby>くまである<ruby><rb>長</rb><rt>なが</rt></ruby>いくつ。
+- word: 乗せる
+  descriptions:
+  - <ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などに<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>む。
+  - <ruby><rb>調子</rb><rt>ちょうし</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。
+  - だます。
+- word: 拭く
+  descriptions:
+  - きれいにするために、<ruby><rb>布</rb><rt>ぬの</rt></ruby>や<ruby><rb>紙</rb><rt>かみ</rt></ruby>などでこすって、よごれや<ruby><rb>水分</rb><rt>すいぶん</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。
+- word: たまる
+  descriptions:
+  - <ruby><rb>集</rb><rt>あつ</rt></ruby>まる。<ruby><rb>増</rb><rt>ふ</rt></ruby>える。
+  - <ruby><rb>後</rb><rt>あと</rt></ruby>まで<ruby><rb>残</rb><rt>のこ</rt></ruby>る。
+- word: 土
+  descriptions:
+  - <ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>がくだけて、<ruby><rb>粉</rb><rt>こな</rt></ruby>になったもの。どろ。
+  - <ruby><rb>陸地</rb><rt>りくち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>地面</rb><rt>じめん</rt></ruby>。
+- word: 年寄り
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。
+  - <ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+web_news_url: /news/web/2017/07/10/ボランティア受け付け始まる-福岡-朝倉/
+source_url: http://www3.nhk.or.jp/news/easy/k10011052121000/k10011052121000.html
+...
