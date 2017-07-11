@@ -1,0 +1,67 @@
+---
+layout: easy_news
+newsid: k10011048511000
+categories: easy
+title: 水の被害があったらどうするか
+title_with_ruby: <ruby>水<rt>みず</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>があったらどうするか
+last_modified_at: '2017-07-11T11:30:00+09:00'
+datetime: 2017年07月11日 11時30分
+description: 九州きゅうしゅうでは５日いつかからの雨あめで、山やまが崩くずれたり、道みちや家いえに水みずが入はいったりして、大おおきな被害ひがいが出でています。
+description_with_ruby: <ruby>九州<rt>きゅうしゅう</rt></ruby>では<ruby>５日<rt>いつか</rt></ruby>からの<ruby>雨<rt>あめ</rt></ruby>で、<ruby>山<rt>やま</rt></ruby>が<ruby>崩<rt>くず</rt></ruby>れたり、<ruby>道<rt>みち</rt></ruby>や<ruby>家<rt>いえ</rt></ruby>に<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ったりして、<ruby>大<rt>おお</rt></ruby>きな<ruby>被害<rt>ひがい</rt></ruby>が<ruby>出<rt>で</rt></ruby>ています。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/11/k10011048511000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/11/k10011048511000.mp3
+contents: "<p><ruby>九州<rt>きゅうしゅう</rt></ruby>では<ruby>５日<rt>いつか</rt></ruby>からの<ruby>雨<rt>あめ</rt></ruby>で、<ruby>山<rt>やま</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>崩<rt>くず</rt></ruby>れ</span>たり、<ruby>道<rt>みち</rt></ruby>や<ruby>家<rt>いえ</rt></ruby>に<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ったりして、<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>ています。</p>\n\
+  <p>「<ruby>震災<rt>しんさい</rt></ruby>がつなぐ<ruby>全国<rt>ぜんこく</rt></ruby>ネットワーク」という<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>は、このような<ruby>水<rt>みず</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>があったあとしなければならないことをインターネットなどで<ruby>紹介<rt>しょうかい</rt></ruby>しています。</p>\n\
+  <p><ruby>家<rt>いえ</rt></ruby>などの<ruby>写真<rt>しゃしん</rt></ruby>は<span style=\"color:\
+  \ blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>がよくわかるように<ruby>撮<rt>と</rt></ruby>ります。そして、<ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>役所<rt>やくしょ</rt></ruby></span>に<span style=\"color:\
+  \ blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>を<ruby>伝<rt>つた</rt></ruby>えて、「<span\
+  \ style=\"color: blue;\">り<ruby>災<rt>さい</rt></ruby></span><ruby>証明書<rt>しょうめいしょ</rt></ruby>」をもらうことが<ruby>大事<rt>だいじ</rt></ruby>です。<span\
+  \ style=\"color: blue;\"><ruby>保険<rt>ほけん</rt></ruby></span><ruby>会社<rt>がいしゃ</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>大家<rt>おおや</rt></ruby></span>にも<ruby>連絡<rt>れんらく</rt></ruby>します。ほかに、ぬれた<span\
+  \ style=\"color: blue;\"><ruby>家具<rt>かぐ</rt></ruby></span>や<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>などをどうするかとか、<ruby>家<rt>いえ</rt></ruby>の<ruby>掃除<rt>そうじ</rt></ruby>のやり<ruby>方<rt>かた</rt></ruby>なども<ruby>紹介<rt>しょうかい</rt></ruby>しています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は「いま<span\
+  \ style=\"color: blue;\"><ruby>避難<rt>ひなん</rt></ruby></span>している<ruby>人<rt>ひと</rt></ruby>は、これから<ruby>何<rt>なに</rt></ruby>をしなければならないのかわからなくて、<ruby>心配<rt>しんぱい</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>います。これを<ruby>読<rt>よ</rt></ruby>んで<ruby>少<rt>すこ</rt></ruby>しでも<ruby>安心<rt>あんしん</rt></ruby>してほしいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p><ruby>下<rt>した</rt></ruby>の<span style=\"color: blue;\">ブログ</span>から<ruby>見<rt>み</rt></ruby>ることができます。http://blog.canpan.info/shintsuna/</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 崩れる
+  descriptions:
+  - こわれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。
+  - ばらばらになる。<ruby><rb>乱</rb><rt>みだ</rt></ruby>れる。
+  - <ruby><rb>悪</rb><rt>わる</rt></ruby>くなる。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 役所
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。
+- word: り災
+  descriptions:
+  - <ruby><rb>災害</rb><rt>さいがい</rt></ruby>にあうこと。
+- word: 保険
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>で<ruby><rb>少</rb><rt>すこ</rt></ruby>しずつお<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てておき、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>や<ruby><rb>事故</rb><rt>じこ</rt></ruby>などの<ruby><rb>災難</rb><rt>さいなん</rt></ruby>にあった<ruby><rb>人</rb><rt>ひと</rt></ruby>が、<ruby><rb>決</rb><rt>き</rt></ruby>まったお<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>取</rb><rt>と</rt></ruby>る<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。
+- word: 大家
+  descriptions:
+  - <ruby><rb>貸家</rb><rt>かしや</rt></ruby>やアパートなどの<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>主</rb><rt>ぬし</rt></ruby>。<ruby><rb>家主</rb><rt>やぬし</rt></ruby>。
+- word: 家具
+  descriptions:
+  - <ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に、<ruby><rb>備</rb><rt>そな</rt></ruby>えつけて<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。たんす・テーブル・<ruby><rb>本箱</rb><rt>ほんばこ</rt></ruby>など。
+- word: 避難
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。
+- word: ブログ
+  descriptions:
+  - インターネット<ruby><rb>上</rb><rt>じょう</rt></ruby>で<ruby><rb>公開</rb><rt>こうかい</rt></ruby>されていて<ruby><rb>読</rb><rt>よ</rt></ruby>み<ruby><rb>手</rb><rt>て</rt></ruby>と<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>のやりとりのできる、<ruby><rb>日記</rb><rt>にっき</rt></ruby>ふうのサイト（ページ）。
+web_news_url: /news/web/2017/07/07/水害にあったときどうするか/
+source_url: http://www3.nhk.or.jp/news/easy/k10011048511000/k10011048511000.html
+...
