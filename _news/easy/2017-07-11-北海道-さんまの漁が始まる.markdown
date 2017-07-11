@@ -1,0 +1,45 @@
+---
+layout: easy_news
+newsid: k10011052611000
+categories: easy
+title: 北海道　さんまの漁が始まる
+title_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby>　さんまの<ruby>漁<rt>りょう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+last_modified_at: '2017-07-11T16:10:00+09:00'
+datetime: 2017年07月11日 16時10分
+description: 北海道ほっかいどうの東ひがしの海うみで今年ことしのさんまの漁りょうが始はじまりました。
+description_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>東<rt>ひがし</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<ruby>今年<rt>ことし</rt></ruby>のさんまの<ruby>漁<rt>りょう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/11/k10011052611000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/11/k10011052611000.mp3
+contents: "<p><ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>東<rt>ひがし</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<ruby>今年<rt>ことし</rt></ruby>の<span\
+  \ style=\"color: blue;\">さんま</span>の<span style=\"color: blue;\"><ruby>漁<rt>りょう</rt></ruby></span>が<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>１０日<rt>とおか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>釧路市<rt>くしろし</rt></ruby>にある<ruby>釧路港<rt>くしろこう</rt></ruby>と<ruby>根室市<rt>ねむろし</rt></ruby>にある<ruby>花咲港<rt>はなさきこう</rt></ruby>に、<span\
+  \ style=\"color: blue;\">さんま</span>をとった<ruby>船<rt>ふね</rt></ruby>が<ruby>戻<rt>もど</rt></ruby>ってきました。</p>\n\
+  <p><ruby>釧路港<rt>くしろこう</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>った９<span style=\"color:\
+  \ blue;\"><ruby>隻<rt>せき</rt></ruby></span>の<ruby>船<rt>ふね</rt></ruby>は、<ruby>全部<rt>ぜんぶ</rt></ruby>で２<span\
+  \ style=\"color: blue;\">ｔ</span>ぐらいの<span style=\"color: blue;\">さんま</span>をとりました。<span\
+  \ style=\"color: blue;\"><ruby>競<rt>せ</rt></ruby>り</span>では、いちばん<ruby>高<rt>たか</rt></ruby>い<span\
+  \ style=\"color: blue;\">さんま</span>が１ｋｇ１<ruby>万<rt>まん</rt></ruby>４０００<ruby>円<rt>えん</rt></ruby>ぐらいになりました。いつもの<ruby>年<rt>とし</rt></ruby>より６０００<ruby>円<rt>えん</rt></ruby>～７０００<ruby>円<rt>えん</rt></ruby><ruby>高<rt>たか</rt></ruby>くなりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>漁<rt>りょう</rt></ruby></span>をしている<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>小<rt>ちい</rt></ruby>さい<span\
+  \ style=\"color: blue;\">さんま</span>が<ruby>多<rt>おお</rt></ruby>いですが、<ruby>去年<rt>きょねん</rt></ruby>よりたくさんとることができました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 秋刀魚
+  descriptions:
+  - <ruby><rb>冷</rb><rt>つめ</rt></ruby>たい<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くとれる。
+- word: 漁
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>などをとること。
+- word: 隻
+  descriptions:
+  - ただ<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。また、ほんの<ruby><rb>少</rb><rt>すこ</rt></ruby>し。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: トン
+  descriptions:
+  - メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。１トンは、１０００キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+  - <ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: 競り売り
+  descriptions:
+  - <ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。
+web_news_url: /news/web/2017/07/10/サンマ流し網漁の初水揚げ-平年上回る高値-釧路/
+source_url: http://www3.nhk.or.jp/news/easy/k10011052611000/k10011052611000.html
+...

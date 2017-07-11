@@ -1,0 +1,48 @@
+---
+layout: easy_news
+newsid: k10011053211000
+categories: easy
+title: 富士山の５合目　９月までは自分の車で行くことができない
+title_with_ruby: <ruby>富士山<rt>ふじさん</rt></ruby>の５<ruby>合<rt>ごう</rt></ruby><ruby>目<rt>め</rt></ruby>　９<ruby>月<rt>がつ</rt></ruby>までは<ruby>自分<rt>じぶん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>で<ruby>行<rt>い</rt></ruby>くことができない
+last_modified_at: '2017-07-11T16:10:00+09:00'
+datetime: 2017年07月11日 16時10分
+description: 山梨県やまなしけんから富士山ふじさんの５合ごう目めに行いく「富士ふじスバルライン」という道みちが、１０日とおか午後ごご５時じから自分じぶんの車くるまで通とおることができなくなりました。
+description_with_ruby: <ruby>山梨県<rt>やまなしけん</rt></ruby>から<ruby>富士山<rt>ふじさん</rt></ruby>の５<ruby>合<rt>ごう</rt></ruby><ruby>目<rt>め</rt></ruby>に<ruby>行<rt>い</rt></ruby>く「<ruby>富士<rt>ふじ</rt></ruby>スバルライン」という<ruby>道<rt>みち</rt></ruby>が、<ruby>１０日<rt>とおか</rt></ruby><ruby>午後<rt>ごご</rt></ruby>５<ruby>時<rt>じ</rt></ruby>から<ruby>自分<rt>じぶん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>で<ruby>通<rt>とお</rt></ruby>ることができなくなりました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/11/k10011053211000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/11/k10011053211000.mp3
+contents: "<p><ruby>山梨県<rt>やまなしけん</rt></ruby>から<span style=\"color: blue;\"><ruby>富士山<rt>ふじさん</rt></ruby></span>の５<span\
+  \ style=\"color: blue;\"><ruby>合<rt>ごう</rt></ruby></span><ruby>目<rt>め</rt></ruby>に<ruby>行<rt>い</rt></ruby>く「<ruby>富士<rt>ふじ</rt></ruby>スバルライン」という<ruby>道<rt>みち</rt></ruby>が、<ruby>１０日<rt>とおか</rt></ruby><ruby>午後<rt>ごご</rt></ruby>５<ruby>時<rt>じ</rt></ruby>から<ruby>自分<rt>じぶん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>で<ruby>通<rt>とお</rt></ruby>ることができなくなりました。</p>\n\
+  <p><ruby>夏<rt>なつ</rt></ruby>は<span style=\"color: blue;\"><ruby>富士山<rt>ふじさん</rt></ruby></span>に<ruby>車<rt>くるま</rt></ruby>で<ruby>来<rt>く</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えます。<ruby>山梨県<rt>やまなしけん</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>環境<rt>かんきょう</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>守<rt>まも</rt></ruby>る</span>ため、９<ruby>月<rt>がつ</rt></ruby><ruby>１０日<rt>とおか</rt></ruby>まで<ruby>自分<rt>じぶん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>で<ruby>通<rt>とお</rt></ruby>ることができないようにします。<ruby>車<rt>くるま</rt></ruby>で<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は、<ruby>山<rt>やま</rt></ruby>の<ruby>下<rt>した</rt></ruby>にある<ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>を<ruby>置<rt>お</rt></ruby>いて、バスか、タクシーで５<span\
+  \ style=\"color: blue;\"><ruby>合<rt>ごう</rt></ruby></span><ruby>目<rt>め</rt></ruby>まで<ruby>行<rt>い</rt></ruby>かなければなりません。</p>\n\
+  <p><ruby>電気<rt>でんき</rt></ruby>で<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>と<span\
+  \ style=\"color: blue;\"><ruby>水素<rt>すいそ</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>って<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>排気<rt>はいき</rt></ruby>ガス</span>を<ruby>出<rt>だ</rt></ruby>さないため、<ruby>通<rt>とお</rt></ruby>ることができます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 富士山
+  descriptions:
+  - <ruby><rb>静岡県</rb><rt>しずおかけん</rt></ruby>と<ruby><rb>山梨県</rb><rt>やまなしけん</rt></ruby>の<ruby><rb>境</rb><rt>さかい</rt></ruby>にある、<ruby><rb>日本一</rb><rt>にっぽんいち</rt></ruby><ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>山</rb><rt>やま</rt></ruby>。<ruby><rb>高</rb><rt>たか</rt></ruby>さは３７７６メートル。<ruby><rb>江戸時代</rb><rt>えどじだい</rt></ruby>に<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>噴火</rb><rt>ふんか</rt></ruby>があった。
+- word: 合
+  descriptions:
+  - <ruby><rb>１</rb><rt>ひと</rt></ruby>つになる。あう。あわせる。
+  - あてはまる。
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>尺貫法</rb><rt>しゃっかんほう</rt></ruby>で、<ruby><rb>量</rb><rt>りょう</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。１<ruby><rb>合</rb><rt>ごう</rt></ruby>は、１<ruby><rb>升</rb><rt>しょう</rt></ruby>の１０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１で、<ruby><rb>約</rb><rt>やく</rt></ruby>０．１８リットル。
+  - <ruby><rb>山登</rb><rt>やまのぼ</rt></ruby>りで、<ruby><rb>頂上</rb><rt>ちょうじょう</rt></ruby>までの<ruby><rb>高</rb><rt>たか</rt></ruby>さを１０に<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 環境
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>巻</rb><rt>ま</rt></ruby>き、<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる<ruby><rb>周</rb><rt>まわ</rt></ruby>りの<ruby><rb>世界</rb><rt>せかい</rt></ruby>。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 水素
+  descriptions:
+  - いちばん<ruby><rb>軽</rb><rt>かる</rt></ruby>くて、<ruby><rb>色</rb><rt>いろ</rt></ruby>も、においもない<ruby><rb>気体</rb><rt>きたい</rt></ruby>。<ruby><rb>燃</rb><rt>も</rt></ruby>えやすい。
+- word: 排気ガス
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>などのエンジンからはき<ruby><rb>出</rb><rt>だ</rt></ruby>される、<ruby><rb>不用</rb><rt>ふよう</rt></ruby>になったガス。<ruby><rb>有害</rb><rt>ゆうがい</rt></ruby>な<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>をふくみ、<ruby><rb>大気汚染</rb><rt>たいきおせん</rt></ruby>の<ruby><rb>原因</rb><rt>げんいん</rt></ruby>になる。
+web_news_url: /news/web/2017/07/11/富士山の有料道路-マイカー規制始まる/
+source_url: http://www3.nhk.or.jp/news/easy/k10011053211000/k10011053211000.html
+...

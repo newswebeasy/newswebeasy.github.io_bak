@@ -1,0 +1,38 @@
+---
+layout: easy_news
+newsid: k10011048811000
+categories: easy
+title: 「上野動物園のパンダの赤ちゃんの名前を考えてください」
+title_with_ruby: 「<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>のパンダの<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>名前<rt>なまえ</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてください」
+last_modified_at: '2017-07-11T11:30:00+09:00'
+datetime: 2017年07月11日 11時30分
+description: 東京都とうきょうとの上野動物園うえのどうぶつえんでは、６月がつ１２日にちにパンダの赤あかちゃんが生うまれました。
+description_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>では、６<ruby>月<rt>がつ</rt></ruby>１２<ruby>日<rt>にち</rt></ruby>にパンダの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/11/k10011048811000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/11/k10011048811000.mp3
+contents: "<p><ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>では、６<ruby>月<rt>がつ</rt></ruby>１２<ruby>日<rt>にち</rt></ruby>に<span\
+  \ style=\"color: blue;\">パンダ</span>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれました。<ruby>赤<rt>あか</rt></ruby>ちゃんは<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>で、<ruby>元気<rt>げんき</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きくなっています。お<ruby>父<rt>とう</rt></ruby>さんは「リーリー」で、お<ruby>母<rt>かあ</rt></ruby>さんは「シンシン」です。</p>\n\
+  <p><ruby>東京都<rt>とうきょうと</rt></ruby>は、<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>名前<rt>なまえ</rt></ruby>をみんなに<ruby>考<rt>かんが</rt></ruby>えてもらうことにしました。７<ruby>月<rt>がつ</rt></ruby>２８<ruby>日<rt>にち</rt></ruby>からインターネットやはがきなどで<ruby>集<rt>あつ</rt></ruby>める<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p><ruby>小池<rt>こいけ</rt></ruby><span style=\"color: blue;\"><ruby>知事<rt>ちじ</rt></ruby></span>は「<ruby>赤<rt>あか</rt></ruby>ちゃんは<ruby>元気<rt>げんき</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きくなっています。<ruby>中国<rt>ちゅうごく</rt></ruby>では、<span\
+  \ style=\"color: blue;\">パンダ</span>は<ruby>生<rt>う</rt></ruby>まれてから１００<ruby>日<rt>にち</rt></ruby><ruby>元気<rt>げんき</rt></ruby>だと、そのあとも<ruby>丈夫<rt>じょうぶ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>育<rt>そだ</rt></ruby>つ</span>と<ruby>言<rt>い</rt></ruby>われています。９<ruby>月<rt>がつ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>下旬<rt>げじゅん</rt></ruby></span>ごろに<ruby>名前<rt>なまえ</rt></ruby>を<ruby>決<rt>き</rt></ruby>めたいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: パンダ
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中央部</rb><rt>ちゅうおうぶ</rt></ruby>にすむけもの。ジャイアントパンダとレッサーパンダがいる。
+  - <ruby><rb>特</rb><rt>とく</rt></ruby>にジャイアントパンダ。<ruby><rb>中国西部</rb><rt>ちゅうごくせいぶ</rt></ruby>の<ruby><rb>山地</rb><rt>さんち</rt></ruby>にすむ。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>に<ruby><rb>色分</rb><rt>いろわ</rt></ruby>けされて、<ruby><rb>顔</rb><rt>かお</rt></ruby>つきや<ruby><rb>動作</rb><rt>どうさ</rt></ruby>がかわいい。
+- word: 知事
+  descriptions:
+  - <ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 育つ
+  descriptions:
+  - <ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+  - <ruby><rb>一人前</rb><rt>いちにんまえ</rt></ruby>になる。
+- word: 下旬
+  descriptions:
+  - <ruby><rb>月</rb><rt>つき</rt></ruby>の<ruby><rb>二十一日</rb><rt>にじゅういちにち</rt></ruby>から<ruby><rb>終</rb><rt>お</rt></ruby>わりまでの、<ruby><rb>約十日間</rb><rt>やくとおかかん</rt></ruby>。
+web_news_url: /news/web/2017/07/07/パンダの赤ちゃん-28日めどに名前を公募へ-上野動物園/
+source_url: http://www3.nhk.or.jp/news/easy/k10011048811000/k10011048811000.html
+...
