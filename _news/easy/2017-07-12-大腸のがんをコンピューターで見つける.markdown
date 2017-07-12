@@ -1,0 +1,68 @@
+---
+layout: easy_news
+newsid: k10011052571000
+categories: easy
+title: 大腸のがんをコンピューターで見つける
+title_with_ruby: <ruby>大腸<rt>だいちょう</rt></ruby>のがんをコンピューターで<ruby>見<rt>み</rt></ruby>つける
+last_modified_at: '2017-07-12T11:30:00+09:00'
+datetime: 2017年07月12日 11時30分
+description: 国立こくりつがん研究けんきゅうセンターとＮＥＣは、大腸だいちょうのがんを見みつけて医者いしゃに知しらせるコンピューターのシステムを作つくりました。
+description_with_ruby: <ruby>国立<rt>こくりつ</rt></ruby>がん<ruby>研究<rt>けんきゅう</rt></ruby>センターとＮＥＣは、<ruby>大腸<rt>だいちょう</rt></ruby>のがんを<ruby>見<rt>み</rt></ruby>つけて<ruby>医者<rt>いしゃ</rt></ruby>に<ruby>知<rt>し</rt></ruby>らせるコンピューターのシステムを<ruby>作<rt>つく</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/12/k10011052571000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/12/k10011052571000.mp3
+contents: "<p><ruby>国立<rt>こくりつ</rt></ruby>がん<ruby>研究<rt>けんきゅう</rt></ruby>センターとＮＥＣは、<span\
+  \ style=\"color: blue;\"><ruby>大腸<rt>だいちょう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">がん</span>を<ruby>見<rt>み</rt></ruby>つけて<ruby>医者<rt>いしゃ</rt></ruby>に<ruby>知<rt>し</rt></ruby>らせるコンピューターの<span\
+  \ style=\"color: blue;\">システム</span>を<ruby>作<rt>つく</rt></ruby>りました。</p>\n<p>このコンピューターは、<span\
+  \ style=\"color: blue;\"><ruby>健康<rt>けんこう</rt></ruby></span>な<span style=\"color:\
+  \ blue;\"><ruby>大腸<rt>だいちょう</rt></ruby></span>と<span style=\"color: blue;\">がん</span>になった<span\
+  \ style=\"color: blue;\"><ruby>大腸<rt>だいちょう</rt></ruby></span>の<ruby>写真<rt>しゃしん</rt></ruby>を１４<ruby>万<rt>まん</rt></ruby><ruby>枚<rt>まい</rt></ruby><ruby>覚<rt>おぼ</rt></ruby>えています。<ruby>医者<rt>いしゃ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>大腸<rt>だいちょう</rt></ruby></span>にカメラを<ruby>入<rt>い</rt></ruby>れて<span\
+  \ style=\"color: blue;\"><ruby>検査<rt>けんさ</rt></ruby></span>をするときに、コンピューターが<ruby>病気<rt>びょうき</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけると<ruby>音<rt>おと</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して、<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>緑<rt>みどり</rt></ruby><ruby>色<rt>いろ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>丸<rt>まる</rt></ruby></span>で<ruby>知<rt>し</rt></ruby>らせます。</p>\n\
+  <p>２０１４<ruby>年<rt>ねん</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>で<span style=\"color:\
+  \ blue;\"><ruby>大腸<rt>だいちょう</rt></ruby></span>の<span style=\"color: blue;\">がん</span>で<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>５<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>で、<span\
+  \ style=\"color: blue;\">がん</span>の<ruby>中<rt>なか</rt></ruby>で２<ruby>番目<rt>ばんめ</rt></ruby>に<ruby>多<rt>おお</rt></ruby>くなりました。</p>\n\
+  <p><ruby>国立<rt>こくりつ</rt></ruby>がん<ruby>研究<rt>けんきゅう</rt></ruby>センターは、「<ruby>外国<rt>がいこく</rt></ruby>では<span\
+  \ style=\"color: blue;\"><ruby>大腸<rt>だいちょう</rt></ruby></span>にカメラを<ruby>入<rt>い</rt></ruby>れて<span\
+  \ style=\"color: blue;\"><ruby>検査<rt>けんさ</rt></ruby></span>をしても、２４％の<span style=\"\
+  color: blue;\">がん</span>を<ruby>見<rt>み</rt></ruby>つけることができなかったという<span style=\"color:\
+  \ blue;\"><ruby>報告<rt>ほうこく</rt></ruby></span>があります。この<span style=\"color: blue;\"\
+  >システム</span>を<ruby>使<rt>つか</rt></ruby>うと９８％<ruby>見<rt>み</rt></ruby>つけることができます。２０１９<ruby>年<rt>ねん</rt></ruby>ごろから<ruby>試験<rt>しけん</rt></ruby>をしたいと<ruby>考<rt>かんが</rt></ruby>えています」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大腸
+  descriptions:
+  - <ruby><rb>消化器</rb><rt>しょうかき</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>小腸</rb><rt>しょうちょう</rt></ruby>に<ruby><rb>続</rb><rt>つづ</rt></ruby>き、<ruby><rb>肛門</rb><rt>こうもん</rt></ruby>に<ruby><rb>至</rb><rt>いた</rt></ruby>る<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。おもに<ruby><rb>水分</rb><rt>すいぶん</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>い<ruby><rb>取</rb><rt>と</rt></ruby>るはたらきをする。
+- word: がん
+  descriptions:
+  - <ruby><rb>悪性</rb><rt>あくせい</rt></ruby>のはれものができる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にできたがん<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>がどんどん<ruby><rb>増</rb><rt>ふ</rt></ruby>えて<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>害</rb><rt>がい</rt></ruby>をあたえる。
+- word: システム
+  descriptions:
+  - <ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+  - ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。
+- word: 健康
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。
+- word: 検査
+  descriptions:
+  - <ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: 丸
+  descriptions:
+  - まるい<ruby><rb>形</rb><rt>かたち</rt></ruby>のもの。<ruby><rb>円形</rb><rt>えんけい</rt></ruby>。<ruby><rb>球形</rb><rt>きゅうけい</rt></ruby>。
+  - <ruby><rb>文</rb><rt>ぶん</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりにつける<ruby><rb>小</rb><rt>ちい</rt></ruby>さな、まるいしるし。「。」のこと。<ruby><rb>句点</rb><rt>くてん</rt></ruby>。
+  - 「<ruby><rb>完全</rb><rt>かんぜん</rt></ruby>」「<ruby><rb>全部</rb><rt>ぜんぶ</rt></ruby>」「ちょうど」などの<ruby><rb>意味</rb><rt>いみ</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>や<ruby><rb>刀</rb><rt>かたな</rt></ruby>や<ruby><rb>子</rb><rt>こ</rt></ruby>どもの<ruby><rb>名前</rb><rt>なまえ</rt></ruby>などにつけることば。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 報告
+  descriptions:
+  - ものごとのなりゆきや、<ruby><rb>結果</rb><rt>けっか</rt></ruby>などを<ruby><rb>知</rb><rt>し</rt></ruby>らせること。また、その<ruby><rb>内容</rb><rt>ないよう</rt></ruby>。
+web_news_url: /news/web/2017/07/10/大腸がん見落とし防止で人工知能使うシステム/
+source_url: http://www3.nhk.or.jp/news/easy/k10011052571000/k10011052571000.html
+...
