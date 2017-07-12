@@ -1,0 +1,93 @@
+---
+layout: easy_news
+newsid: k10011055101000
+categories: easy
+title: 九州の大雨　福岡県では今も行方不明の人が約２０人
+title_with_ruby: <ruby>九州<rt>きゅうしゅう</rt></ruby>の<ruby>大雨<rt>おおあめ</rt></ruby>　<ruby>福岡県<rt>ふくおかけん</rt></ruby>では<ruby>今<rt>いま</rt></ruby>も<ruby>行方不明<rt>ゆくえふめい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>約<rt>やく</rt></ruby>２０<ruby>人<rt>にん</rt></ruby>
+last_modified_at: '2017-07-12T16:15:00+09:00'
+datetime: 2017年07月12日 16時15分
+description: 九州きゅうしゅうの北きたのほうでは５日いつかからの大雨おおあめで、川かわの水みずがあふれたり山やまが崩くずれたりしました。
+description_with_ruby: <ruby>九州<rt>きゅうしゅう</rt></ruby>の<ruby>北<rt>きた</rt></ruby>のほうでは<ruby>５日<rt>いつか</rt></ruby>からの<ruby>大雨<rt>おおあめ</rt></ruby>で、<ruby>川<rt>かわ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>があふれたり<ruby>山<rt>やま</rt></ruby>が<ruby>崩<rt>くず</rt></ruby>れたりしました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/12/k10011055101000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/12/k10011055101000.mp3
+contents: "<p><ruby>九州<rt>きゅうしゅう</rt></ruby>の<ruby>北<rt>きた</rt></ruby>の<span style=\"\
+  color: blue;\">ほう</span>では<ruby>５日<rt>いつか</rt></ruby>からの<span style=\"color: blue;\"\
+  ><ruby>大雨<rt>おおあめ</rt></ruby></span>で、<ruby>川<rt>かわ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<span\
+  \ style=\"color: blue;\">あふれ</span>たり<ruby>山<rt>やま</rt></ruby>が<span style=\"color:\
+  \ blue;\"><ruby>崩<rt>くず</rt></ruby>れ</span>たりしました。このため、<ruby>福岡県<rt>ふくおかけん</rt></ruby>と<ruby>大分県<rt>おおいたけん</rt></ruby>で１２<ruby>日<rt>にち</rt></ruby>の<ruby>昼<rt>ひる</rt></ruby>までに２５<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p><ruby>福岡県<rt>ふくおかけん</rt></ruby>では<ruby>朝倉市<rt>あさくらし</rt></ruby>、<ruby>大分県<rt>おおいたけん</rt></ruby>では<ruby>日田市<rt>ひたし</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>ています。<ruby>５日<rt>いつか</rt></ruby>から１<ruby>週間<rt>しゅうかん</rt></ruby>が<ruby>過<rt>す</rt></ruby>ぎても、<ruby>福岡県<rt>ふくおかけん</rt></ruby>では<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>２０<ruby>人<rt>にん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>行方不明<rt>ゆくえふめい</rt></ruby></span>になっています。<ruby>川<rt>かわ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>や<ruby>山<rt>やま</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>崩<rt>くず</rt></ruby>れ</span>た<span style=\"color:\
+  \ blue;\"><ruby>土<rt>つち</rt></ruby></span>に<span style=\"color: blue;\"><ruby>流<rt>なが</rt></ruby>さ</span>れたかもしれないため、<ruby>警察<rt>けいさつ</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>自衛隊<rt>じえいたい</rt></ruby></span>は、<ruby>水<rt>みず</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>土<rt>つち</rt></ruby></span>が<span style=\"color: blue;\"\
+  ><ruby>流<rt>なが</rt></ruby>れ</span>た<ruby>場所<rt>ばしょ</rt></ruby>などで<span style=\"\
+  color: blue;\"><ruby>行方不明<rt>ゆくえふめい</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>をさがしています。</p>\n\
+  <p><ruby>福岡県<rt>ふくおかけん</rt></ruby>と<ruby>大分県<rt>おおいたけん</rt></ruby>では、<ruby>家<rt>いえ</rt></ruby>にも<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>ています。<ruby>壊<rt>こわ</rt></ruby>れた<ruby>家<rt>いえ</rt></ruby>は１８１<ruby>軒<rt>けん</rt></ruby>、<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってきた<ruby>家<rt>いえ</rt></ruby>は４３０<ruby>軒<rt>けん</rt></ruby>あることが１１<ruby>日<rt>にち</rt></ruby>までにわかっています。<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ることができないため、<ruby>学校<rt>がっこう</rt></ruby>の<ruby>建物<rt>たてもの</rt></ruby>などに<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１３００<ruby>人<rt>にん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>避難<rt>ひなん</rt></ruby></span>しています。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 大雨
+  descriptions:
+  - <ruby><rb>激</rb><rt>はげ</rt></ruby>しくたくさん<ruby><rb>降</rb><rt>ふ</rt></ruby>る<ruby><rb>雨</rb><rt>あめ</rt></ruby>。<ruby><rb>豪雨</rb><rt>ごうう</rt></ruby>。
+- word: 行方不明
+  descriptions:
+  - どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 方
+  descriptions:
+  - <ruby><rb>向</rb><rt>む</rt></ruby>き。
+  - それぞれの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。
+  - <ruby><rb>四角</rb><rt>しかく</rt></ruby>。
+  - やりかた。
+  - <ruby><rb>分</rb><rt>わ</rt></ruby>けたときの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>部類</rb><rt>ぶるい</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>をうやまって<ruby><rb>言</rb><rt>い</rt></ruby>うことば。かた。
+- word: あふれる
+  descriptions:
+  - いっぱいになって、こぼれる。
+  - <ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。
+- word: 崩れる
+  descriptions:
+  - こわれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。
+  - ばらばらになる。<ruby><rb>乱</rb><rt>みだ</rt></ruby>れる。
+  - <ruby><rb>悪</rb><rt>わる</rt></ruby>くなる。
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 土
+  descriptions:
+  - <ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>がくだけて、<ruby><rb>粉</rb><rt>こな</rt></ruby>になったもの。どろ。
+  - <ruby><rb>陸地</rb><rt>りくち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>地面</rb><rt>じめん</rt></ruby>。
+- word: 流す
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>などにうかべて<ruby><rb>動</rb><rt>うご</rt></ruby>かす。
+  - よごれを<ruby><rb>洗</rb><rt>あら</rt></ruby>い<ruby><rb>落</rb><rt>お</rt></ruby>とす。
+  - うわさなどを<ruby><rb>広</rb><rt>ひろ</rt></ruby>める。
+  - <ruby><rb>予定</rb><rt>よてい</rt></ruby>していたことを、<ruby><rb>取</rb><rt>と</rt></ruby>りやめる。
+  - そのことを<ruby><rb>気</rb><rt>き</rt></ruby>に<ruby><rb>留</rb><rt>と</rt></ruby>めない。
+- word: 自衛隊
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために、<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby><ruby><rb>後</rb><rt>ご</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>防衛組織</rb><rt>ぼうえいそしき</rt></ruby>。<ruby><rb>陸上</rb><rt>りくじょう</rt></ruby>・<ruby><rb>海上</rb><rt>かいじょう</rt></ruby>・<ruby><rb>航空</rb><rt>こうくう</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>かれる。
+- word: 流れる
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。
+  - <ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。
+  - うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - とりやめになる。
+- word: 避難
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。
+web_news_url: /news/web/2017/07/12/豪雨で不明連絡取れず約20人-範囲広げて捜索へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011055101000/k10011055101000.html
+...

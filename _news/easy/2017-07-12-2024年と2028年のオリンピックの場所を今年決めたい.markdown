@@ -1,0 +1,37 @@
+---
+layout: easy_news
+newsid: k10011055061000
+categories: easy
+title: ２０２４年と２０２８年のオリンピックの場所を今年決めたい
+title_with_ruby: ２０２４<ruby>年<rt>ねん</rt></ruby>と２０２８<ruby>年<rt>ねん</rt></ruby>のオリンピックの<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>今年<rt>ことし</rt></ruby><ruby>決<rt>き</rt></ruby>めたい
+last_modified_at: '2017-07-12T16:15:00+09:00'
+datetime: 2017年07月12日 16時15分
+description: ＩＯＣは今年ことし、２０２４年ねんのオリンピックを開ひらく場所ばしょを決きめることにしていました。
+description_with_ruby: ＩＯＣは<ruby>今年<rt>ことし</rt></ruby>、２０２４<ruby>年<rt>ねん</rt></ruby>のオリンピックを<ruby>開<rt>ひら</rt></ruby>く<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>決<rt>き</rt></ruby>めることにしていました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/12/k10011055061000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/12/k10011055061000.mp3
+contents: "<p><span style=\"color: blue;\">ＩＯＣ</span>は<ruby>今年<rt>ことし</rt></ruby>、２０２４<ruby>年<rt>ねん</rt></ruby>の<span\
+  \ style=\"color: blue;\">オリンピック</span>を<ruby>開<rt>ひら</rt></ruby>く<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>決<rt>き</rt></ruby>めることにしていました。２０２４<ruby>年<rt>ねん</rt></ruby>の<span\
+  \ style=\"color: blue;\">オリンピック</span>は５つのまちが<ruby>開<rt>ひら</rt></ruby>きたいと<ruby>言<rt>い</rt></ruby>っていましたが、とてもお<ruby>金<rt>かね</rt></ruby>がかかるため、３つのまちがやめると<ruby>言<rt>い</rt></ruby>いました。このため、いま<ruby>開<rt>ひら</rt></ruby>きたいと<ruby>言<rt>い</rt></ruby>っているのはフランスのパリとアメリカのロサンゼルスだけになりました。</p>\n\
+  <p><span style=\"color: blue;\">ＩＯＣ</span>は、パリとロサンゼルスのうち、１つのまちが２０２４<ruby>年<rt>ねん</rt></ruby>、もう１つのまちが２０２８<ruby>年<rt>ねん</rt></ruby>の<span\
+  \ style=\"color: blue;\">オリンピック</span>を<ruby>開<rt>ひら</rt></ruby>くことにしたいと<ruby>考<rt>かんが</rt></ruby>えました。そして、２つのまちがいいと<ruby>言<rt>い</rt></ruby>ったら、２０２４<ruby>年<rt>ねん</rt></ruby>と２０２８<ruby>年<rt>ねん</rt></ruby>の<span\
+  \ style=\"color: blue;\">オリンピック</span>の<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>今年<rt>ことし</rt></ruby>９<ruby>月<rt>がつ</rt></ruby>に<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>決<rt>き</rt></ruby>めることにしました。</p>\n\
+  <p><span style=\"color: blue;\">ＩＯＣ</span>のバッハ<span style=\"color: blue;\"><ruby>会長<rt>かいちょう</rt></ruby></span>は「パリとロサンゼルスと<ruby>早<rt>はや</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>い</span>を<ruby>始<rt>はじ</rt></ruby>めたいです」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: IOC
+  descriptions:
+  - オリンピック<ruby><rb>大会</rb><rt>たいかい</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いたり、オリンピック<ruby><rb>精神</rb><rt>せいしん</rt></ruby>を<ruby><rb>広</rb><rt>ひろ</rt></ruby>めたりする<ruby><rb>機関</rb><rt>きかん</rt></ruby>。
+- word: 会長
+  descriptions:
+  - <ruby><rb>会</rb><rt>かい</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 話し合い
+  descriptions:
+  - <ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>相談</rb><rt>そうだん</rt></ruby>。
+web_news_url: /news/web/2017/07/12/2024年と28年の五輪-9月に開催都市同時決定へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011055061000/k10011055061000.html
+...

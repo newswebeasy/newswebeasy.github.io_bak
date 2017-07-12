@@ -1,0 +1,65 @@
+---
+layout: easy_news
+newsid: k10011054851000
+categories: easy
+title: 木の中を食べてしまうカミキリムシの被害が増えている
+title_with_ruby: <ruby>木<rt>き</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>食<rt>た</rt></ruby>べてしまうカミキリムシの<ruby>被害<rt>ひがい</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えている
+last_modified_at: '2017-07-12T16:15:00+09:00'
+datetime: 2017年07月12日 16時15分
+description: 「クビアカツヤカミキリ」というカミキリムシは中国ちゅうごくやベトナムなどで生うまれた虫むしで、たくさん卵たまごを産うみます。
+description_with_ruby: 「クビアカツヤカミキリ」というカミキリムシは<ruby>中国<rt>ちゅうごく</rt></ruby>やベトナムなどで<ruby>生<rt>う</rt></ruby>まれた<ruby>虫<rt>むし</rt></ruby>で、たくさん<ruby>卵<rt>たまご</rt></ruby>を<ruby>産<rt>う</rt></ruby>みます。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/12/k10011054851000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/12/k10011054851000.mp3
+contents: "<p>「クビアカツヤカミキリ」という<span style=\"color: blue;\">カミキリムシ</span>は<ruby>中国<rt>ちゅうごく</rt></ruby>やベトナムなどで<ruby>生<rt>う</rt></ruby>まれた<ruby>虫<rt>むし</rt></ruby>で、たくさん<ruby>卵<rt>たまご</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>産<rt>う</rt></ruby>み</span>ます。<span style=\"color:\
+  \ blue;\"><ruby>幼虫<rt>ようちゅう</rt></ruby></span>は、<span style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>や<span\
+  \ style=\"color: blue;\"><ruby>桃<rt>もも</rt></ruby></span>、<span style=\"color: blue;\"\
+  ><ruby>梅<rt>うめ</rt></ruby></span>などの<ruby>木<rt>き</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って<ruby>木<rt>き</rt></ruby>を<ruby>食<rt>た</rt></ruby>べるため、<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>かなくなったり、<ruby>果物<rt>くだもの</rt></ruby>ができなくなったりします。</p>\n\
+  <p>この<ruby>虫<rt>むし</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>では２０１２<ruby>年<rt>ねん</rt></ruby>に<ruby>初<rt>はじ</rt></ruby>めて<ruby>見<rt>み</rt></ruby>つかりました。<ruby>森林総合研究所<rt>しんりんそうごうけんきゅうしょ</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べると、<ruby>今<rt>いま</rt></ruby>までに<ruby>東京都<rt>とうきょうと</rt></ruby>、<ruby>群馬県<rt>ぐんまけん</rt></ruby>、<ruby>栃木県<rt>とちぎけん</rt></ruby>、<ruby>埼玉県<rt>さいたまけん</rt></ruby>、<ruby>愛知県<rt>あいちけん</rt></ruby>、<ruby>大阪府<rt>おおさかふ</rt></ruby>、<ruby>徳島県<rt>とくしまけん</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかりました。<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>があった<ruby>木<rt>き</rt></ruby>は<ruby>切<rt>き</rt></ruby>っていますが、<ruby>虫<rt>むし</rt></ruby>を<ruby>全部<rt>ぜんぶ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>殺<rt>ころ</rt></ruby>す</span>ことはできません。</p>\n<p><ruby>森林総合研究所<rt>しんりんそうごうけんきゅうしょ</rt></ruby>は、このままだと<span\
+  \ style=\"color: blue;\"><ruby>桃<rt>もも</rt></ruby></span>や<span style=\"color: blue;\"\
+  ><ruby>梅<rt>うめ</rt></ruby></span>をつくっている<span style=\"color: blue;\"><ruby>農家<rt>のうか</rt></ruby></span>に<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>る<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があると<ruby>考<rt>かんが</rt></ruby>えています。<ruby>花見<rt>はなみ</rt></ruby>ができなくなる<ruby>場所<rt>ばしょ</rt></ruby>もあるかもしれないと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>森林総合研究所<rt>しんりんそうごうけんきゅうしょ</rt></ruby>は、この<ruby>虫<rt>むし</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>殺<rt>ころ</rt></ruby>す</span>ための<ruby>新<rt>あたら</rt></ruby>しい<ruby>薬<rt>くすり</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>だと<ruby>考<rt>かんが</rt></ruby>えて<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: かみきりむし
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>円筒形</rb><rt>えんとうけい</rt></ruby>でかたく、<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>触角</rb><rt>しょっかく</rt></ruby>と<ruby><rb>丈夫</rb><rt>じょうぶ</rt></ruby>なあごを<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>昆虫</rb><rt>こんちゅう</rt></ruby>。<ruby><rb>幼虫</rb><rt>ようちゅう</rt></ruby>は、テッポウムシといい、<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>害虫</rb><rt>がいちゅう</rt></ruby>。
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 産む
+  descriptions:
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+- word: 幼虫
+  descriptions:
+  - <ruby><rb>卵</rb><rt>たまご</rt></ruby>からかえったばかりで、まださなぎや<ruby><rb>成虫</rb><rt>せいちゅう</rt></ruby>になっていない<ruby><rb>虫</rb><rt>むし</rt></ruby>。
+- word: 桜
+  descriptions:
+  - <ruby><rb>山地</rb><rt>さんち</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>え、<ruby><rb>公園</rb><rt>こうえん</rt></ruby>や<ruby><rb>庭</rb><rt>にわ</rt></ruby>にも<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>木</rb><rt>き</rt></ruby>。ソメイヨシノ・シダレザクラ・ヤマザクラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>春</rb><rt>はる</rt></ruby>、うすもも<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>美</rb><rt>うつく</rt></ruby>しい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の「<ruby><rb>国花</rb><rt>こっか</rt></ruby>」とされる。
+- word: 桃
+  descriptions:
+  - <ruby><rb>果樹</rb><rt>かじゅ</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>春</rb><rt>はる</rt></ruby>、うす<ruby><rb>赤色</rb><rt>あかいろ</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>き、<ruby><rb>夏</rb><rt>なつ</rt></ruby>に、あまくて<ruby><rb>種</rb><rt>たね</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きい<ruby><rb>実</rb><rt>み</rt></ruby>がなる。
+  - <ruby><rb>桃色</rb><rt>ももいろ</rt></ruby>。
+- word: 梅
+  descriptions:
+  - <ruby><rb>春</rb><rt>はる</rt></ruby>の<ruby><rb>初</rb><rt>はじ</rt></ruby>め、<ruby><rb>葉</rb><rt>は</rt></ruby>よりも<ruby><rb>先</rb><rt>さき</rt></ruby>に、<ruby><rb>白</rb><rt>しろ</rt></ruby>や<ruby><rb>紅</rb><rt>くれない</rt></ruby>のかおりのよい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く<ruby><rb>木</rb><rt>き</rt></ruby>。<ruby><rb>六月</rb><rt>ろくがつ</rt></ruby>ごろ<ruby><rb>実</rb><rt>み</rt></ruby>が<ruby><rb>大</rb><rt>おお</rt></ruby>きくなり、<ruby><rb>梅</rb><rt>うめ</rt></ruby>ぼしや<ruby><rb>梅酒</rb><rt>うめしゅ</rt></ruby>などにする。
+- word: 殺す
+  descriptions:
+  - <ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - （<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。
+  - <ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。
+- word: 農家
+  descriptions:
+  - <ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らしを<ruby><rb>立</rb><rt>た</rt></ruby>てている<ruby><rb>家</rb><rt>いえ</rt></ruby>。また、その<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+web_news_url: /news/web/2017/07/11/大型のカミキリムシが日本侵入し被害拡大/
+source_url: http://www3.nhk.or.jp/news/easy/k10011054851000/k10011054851000.html
+...
