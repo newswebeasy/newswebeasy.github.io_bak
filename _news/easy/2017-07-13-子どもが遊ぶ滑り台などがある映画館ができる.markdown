@@ -1,0 +1,41 @@
+---
+layout: easy_news
+newsid: k10011055621000
+categories: easy
+title: 子どもが遊ぶ滑り台などがある映画館ができる
+title_with_ruby: <ruby>子<rt>こ</rt></ruby>どもが<ruby>遊<rt>あそ</rt></ruby>ぶ<ruby>滑<rt>すべ</rt></ruby>り<ruby>台<rt>だい</rt></ruby>などがある<ruby>映画館<rt>えいがかん</rt></ruby>ができる
+last_modified_at: '2017-07-13T16:25:00+09:00'
+datetime: 2017年07月13日 16時25分
+description: 愛知県あいちけん常滑とこなめ市しに、子こどもが遊あそぶ道具どうぐがある映画館えいがかんができました。
+description_with_ruby: <ruby>愛知県<rt>あいちけん</rt></ruby><ruby>常滑<rt>とこなめ</rt></ruby><ruby>市<rt>し</rt></ruby>に、<ruby>子<rt>こ</rt></ruby>どもが<ruby>遊<rt>あそ</rt></ruby>ぶ<ruby>道具<rt>どうぐ</rt></ruby>がある<ruby>映画館<rt>えいがかん</rt></ruby>ができました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/13/k10011055621000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/13/k10011055621000.mp3
+contents: "<p><ruby>愛知県<rt>あいちけん</rt></ruby><ruby>常滑<rt>とこなめ</rt></ruby><ruby>市<rt>し</rt></ruby>に、<ruby>子<rt>こ</rt></ruby>どもが<ruby>遊<rt>あそ</rt></ruby>ぶ<ruby>道具<rt>どうぐ</rt></ruby>がある<ruby>映画館<rt>えいがかん</rt></ruby>ができました。</p>\n\
+  <p>この<ruby>映画館<rt>えいがかん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、<ruby>高<rt>たか</rt></ruby>さが２ｍぐらいの<ruby>滑<rt>すべ</rt></ruby>り<ruby>台<rt>だい</rt></ruby>と、<ruby>子<rt>こ</rt></ruby>ども<ruby>用<rt>よう</rt></ruby>の<span\
+  \ style=\"color: blue;\">トランポリン</span>があります。いすには、<ruby>子<rt>こ</rt></ruby>どもが<ruby>座<rt>すわ</rt></ruby>りやすいように、<ruby>赤<rt>あか</rt></ruby>や<ruby>黄色<rt>きいろ</rt></ruby>の<ruby>柔<rt>やわ</rt></ruby>らかい<span\
+  \ style=\"color: blue;\">クッション</span>があります。</p>\n<p><ruby>映画館<rt>えいがかん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は１２<ruby>日<rt>にち</rt></ruby>、<ruby>近<rt>ちか</rt></ruby>くに<ruby>住<rt>す</rt></ruby>んでいる<ruby>子<rt>こ</rt></ruby>どもたちを<ruby>招待<rt>しょうたい</rt></ruby>しました。５<ruby>歳<rt>さい</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は<span\
+  \ style=\"color: blue;\">トランポリン</span>の<ruby>上<rt>うえ</rt></ruby>で<span style=\"\
+  color: blue;\">ジャンプ</span>しながら、「<ruby>楽<rt>たの</rt></ruby>しいです」と<ruby>元気<rt>げんき</rt></ruby>に<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>映画館<rt>えいがかん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「このような<ruby>映画館<rt>えいがかん</rt></ruby>は<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めてです。<ruby>最近<rt>さいきん</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どもがスマートフォンで<ruby>簡単<rt>かんたん</rt></ruby>に<span\
+  \ style=\"color: blue;\">ビデオ</span>などを<ruby>見<rt>み</rt></ruby>ることができるので、<ruby>映画館<rt>えいがかん</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>子<rt>こ</rt></ruby>どもが<ruby>少<rt>すく</rt></ruby>なくなるかもしれないと<ruby>心配<rt>しんぱい</rt></ruby>しています。この<ruby>映画館<rt>えいがかん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、<ruby>子<rt>こ</rt></ruby>どもたちが<ruby>映画<rt>えいが</rt></ruby>を<ruby>好<rt>す</rt></ruby>きになってほしいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: トランポリン
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>のわくに、マットをばねで<ruby><rb>取</rb><rt>と</rt></ruby>りつけた<ruby><rb>体操用具</rb><rt>たいそうようぐ</rt></ruby>。また、その<ruby><rb>上</rb><rt>うえ</rt></ruby>で、とび<ruby><rb>上</rb><rt>あ</rt></ruby>がったり、<ruby><rb>回転</rb><rt>かいてん</rt></ruby>したりする<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。<ruby><rb>商標名</rb><rt>しょうひょうめい</rt></ruby>。
+- word: クッション
+  descriptions:
+  - <ruby><rb>綿</rb><rt>わた</rt></ruby>やスポンジなどを<ruby><rb>入</rb><rt>い</rt></ruby>れ、いすの<ruby><rb>背</rb><rt>せ</rt></ruby>などに<ruby><rb>置</rb><rt>お</rt></ruby>く<ruby><rb>小</rb><rt>ちい</rt></ruby>さなふとん。
+  - はね<ruby><rb>返</rb><rt>かえ</rt></ruby>す<ruby><rb>力</rb><rt>ちから</rt></ruby>。はずみぐあい。
+- word: ジャンプ
+  descriptions:
+  - とび<ruby><rb>上</rb><rt>あ</rt></ruby>がること。
+  - スキーや<ruby><rb>陸上競技</rb><rt>りくじょうきょうぎ</rt></ruby>で、とんだ<ruby><rb>距離</rb><rt>きょり</rt></ruby>や<ruby><rb>高</rb><rt>たか</rt></ruby>さをきそう<ruby><rb>種目</rb><rt>しゅもく</rt></ruby>。
+- word: ビデオ
+  descriptions:
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。
+  - 「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+web_news_url: /news/web/2017/07/12/愛知-全国初の遊具備えた映画館オープン/
+source_url: http://www3.nhk.or.jp/news/easy/k10011055621000/k10011055621000.html
+...
