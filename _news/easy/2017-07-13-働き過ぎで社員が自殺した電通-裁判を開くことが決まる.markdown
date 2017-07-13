@@ -1,0 +1,64 @@
+---
+layout: easy_news
+newsid: k10011055851000
+categories: easy
+title: 働き過ぎで社員が自殺した電通　裁判を開くことが決まる
+title_with_ruby: <ruby>働<rt>はたら</rt></ruby>き<ruby>過<rt>す</rt></ruby>ぎで<ruby>社員<rt>しゃいん</rt></ruby>が<ruby>自殺<rt>じさつ</rt></ruby>した<ruby>電通<rt>でんつう</rt></ruby>　<ruby>裁判<rt>さいばん</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>くことが<ruby>決<rt>き</rt></ruby>まる
+last_modified_at: '2017-07-13T16:25:00+09:00'
+datetime: 2017年07月13日 16時25分
+description: ２０１５年ねん、広告こうこく会社がいしゃの「電通でんつう」の社員しゃいんで２４歳さいだった高橋たかはしまつりさんが、働はたらき過すぎで自殺じさつしました。
+description_with_ruby: ２０１５<ruby>年<rt>ねん</rt></ruby>、<ruby>広告<rt>こうこく</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>の「<ruby>電通<rt>でんつう</rt></ruby>」の<ruby>社員<rt>しゃいん</rt></ruby>で２４<ruby>歳<rt>さい</rt></ruby>だった<ruby>高橋<rt>たかはし</rt></ruby>まつりさんが、<ruby>働<rt>はたら</rt></ruby>き<ruby>過<rt>す</rt></ruby>ぎで<ruby>自殺<rt>じさつ</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201707/news/easy/image/2017/07/13/k10011055851000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/13/k10011055851000.mp3
+contents: "<p>２０１５<ruby>年<rt>ねん</rt></ruby>、<span style=\"color: blue;\"><ruby>広告<rt>こうこく</rt></ruby></span><ruby>会社<rt>がいしゃ</rt></ruby>の「<ruby>電通<rt>でんつう</rt></ruby>」の<span\
+  \ style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>で２４<ruby>歳<rt>さい</rt></ruby>だった<ruby>高橋<rt>たかはし</rt></ruby>まつりさんが、<ruby>働<rt>はたら</rt></ruby>き<ruby>過<rt>す</rt></ruby>ぎで<span\
+  \ style=\"color: blue;\"><ruby>自殺<rt>じさつ</rt></ruby></span>しました。<span style=\"color:\
+  \ blue;\"><ruby>検察庁<rt>けんさつちょう</rt></ruby></span>は、<ruby>法律<rt>ほうりつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>違反<rt>いはん</rt></ruby></span>して<span style=\"color:\
+  \ blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>を<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby><ruby>働<rt>はたら</rt></ruby>かせていたため、<ruby>電通<rt>でんつう</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>罰金<rt>ばっきん</rt></ruby></span>を<ruby>払<rt>はら</rt></ruby>わせたほうがいいと<ruby>言<rt>い</rt></ruby>いました。そして、<ruby>普通<rt>ふつう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>裁判<rt>さいばん</rt></ruby></span>は<ruby>開<rt>ひら</rt></ruby>かないで、<span\
+  \ style=\"color: blue;\"><ruby>書類<rt>しょるい</rt></ruby></span>だけで<ruby>電通<rt>でんつう</rt></ruby>が<ruby>法律<rt>ほうりつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>違反<rt>いはん</rt></ruby></span>していたかどうか<ruby>調<rt>しら</rt></ruby>べたいと<span\
+  \ style=\"color: blue;\"><ruby>裁判所<rt>さいばんしょ</rt></ruby></span>に<ruby>言<rt>い</rt></ruby>っていました。</p>\n\
+  <p>しかし、<ruby>東京簡易裁判所<rt>とうきょうかんいさいばんしょ</rt></ruby>は１２<ruby>日<rt>にち</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>書類<rt>しょるい</rt></ruby></span>だけで<ruby>調<rt>しら</rt></ruby>べるのは<ruby>十分<rt>じゅうぶん</rt></ruby>ではないと<ruby>言<rt>い</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>裁判<rt>さいばん</rt></ruby></span>を<ruby>開<rt>ひら</rt></ruby>くことを<ruby>決<rt>き</rt></ruby>めました。</p>\n\
+  <p><ruby>高橋<rt>たかはし</rt></ruby>まつりさんの<span style=\"color: blue;\"><ruby>母親<rt>ははおや</rt></ruby></span>は「<ruby>電通<rt>でんつう</rt></ruby>では、<ruby>働<rt>はたら</rt></ruby>き<ruby>過<rt>す</rt></ruby>ぎで<ruby>亡<rt>な</rt></ruby>くなった<span\
+  \ style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>がほかにもいます。そのこともよく<ruby>考<rt>かんが</rt></ruby>えていい<span\
+  \ style=\"color: blue;\"><ruby>裁判<rt>さいばん</rt></ruby></span>をしてほしいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 社員
+  descriptions:
+  - その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。
+- word: 自殺
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>絶</rb><rt>た</rt></ruby>つこと。<ruby><rb>自害</rb><rt>じがい</rt></ruby>。
+- word: 裁判
+  descriptions:
+  - <ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>が、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>にもとづいて、それがよいか<ruby><rb>悪</rb><rt>わる</rt></ruby>いかを<ruby><rb>決</rb><rt>き</rt></ruby>めること。
+- word: 広告
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。また、<ruby><rb>知</rb><rt>し</rt></ruby>らせるために<ruby><rb>書</rb><rt>か</rt></ruby>かれたものなど。コマーシャル。
+- word: 検察庁
+  descriptions:
+  - <ruby><rb>犯罪</rb><rt>はんざい</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べ、<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>にうったえる<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>検察官</rb><rt>けんさつかん</rt></ruby>は、ここで<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をしている。
+- word: 違反
+  descriptions:
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。
+- word: 罰金
+  descriptions:
+  - <ruby><rb>罰</rb><rt>ばつ</rt></ruby>として<ruby><rb>出</rb><rt>だ</rt></ruby>させるお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 書類
+  descriptions:
+  - <ruby><rb>書</rb><rt>か</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>書</rb><rt>か</rt></ruby>きつけ。<ruby><rb>文書</rb><rt>ぶんしょ</rt></ruby>。
+- word: 裁判所
+  descriptions:
+  - <ruby><rb>裁判</rb><rt>さいばん</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>最高</rb><rt>さいこう</rt></ruby><ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>・<ruby><rb>高等</rb><rt>こうとう</rt></ruby><ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>・<ruby><rb>地方裁判所</rb><rt>ちほうさいばんしょ</rt></ruby>・<ruby><rb>家庭</rb><rt>かてい</rt></ruby><ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>・<ruby><rb>簡易</rb><rt>かんい</rt></ruby><ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>がある。
+- word: 母親
+  descriptions:
+  - <ruby><rb>母</rb><rt>はは</rt></ruby>。
+web_news_url: /news/web/2017/07/12/電通の略式起訴は不相当正式裁判を決定-東京簡裁/
+source_url: http://www3.nhk.or.jp/news/easy/k10011055851000/k10011055851000.html
+...
