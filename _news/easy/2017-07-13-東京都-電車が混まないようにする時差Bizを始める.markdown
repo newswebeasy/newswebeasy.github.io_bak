@@ -1,0 +1,32 @@
+---
+layout: easy_news
+newsid: k10011053541000
+categories: easy
+title: 東京都　電車が混まないようにする「時差Ｂｉｚ」を始める
+title_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby>　<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>混<rt>こ</rt></ruby>まないようにする「<ruby>時差<rt>じさ</rt></ruby>Ｂｉｚ」を<ruby>始<rt>はじ</rt></ruby>める
+last_modified_at: '2017-07-13T11:30:00+09:00'
+datetime: 2017年07月13日 11時30分
+description: 東京都とうきょうとは１１日にちから「時差じさＢｉｚ」を始はじめました。
+description_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby>は１１<ruby>日<rt>にち</rt></ruby>から「<ruby>時差<rt>じさ</rt></ruby>Ｂｉｚ」を<ruby>始<rt>はじ</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/13/k10011053541000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/13/k10011053541000.mp3
+contents: "<p><ruby>東京都<rt>とうきょうと</rt></ruby>は１１<ruby>日<rt>にち</rt></ruby>から「<ruby>時差<rt>じさ</rt></ruby>Ｂｉｚ」を<ruby>始<rt>はじ</rt></ruby>めました。「<ruby>時差<rt>じさ</rt></ruby>Ｂｉｚ」は<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>混<rt>こ</rt></ruby>まないように、<ruby>仕事<rt>しごと</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>時間<rt>じかん</rt></ruby>を<ruby>早<rt>はや</rt></ruby>くしたり<ruby>遅<rt>おそ</rt></ruby>くしたりすることです。</p>\n\
+  <p>２６０の<ruby>会社<rt>かいしゃ</rt></ruby>などが「<ruby>時差<rt>じさ</rt></ruby>Ｂｉｚ」を<ruby>始<rt>はじ</rt></ruby>めました。<ruby>東京<rt>とうきょう</rt></ruby>メトロと<ruby>東急電鉄<rt>とうきゅうでんてつ</rt></ruby>は、<ruby>朝<rt>あさ</rt></ruby><ruby>早<rt>はや</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>に<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>増<rt>ふ</rt></ruby>やし</span>ました。</p>\n<p><ruby>港区<rt>みなとく</rt></ruby>にある<span\
+  \ style=\"color: blue;\">ＩＴ</span>の<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>仕事<rt>しごと</rt></ruby>は<ruby>午前<rt>ごぜん</rt></ruby>９<ruby>時<rt>じ</rt></ruby><ruby>半<rt>はん</rt></ruby>からですが、<ruby>午前<rt>ごぜん</rt></ruby>８<ruby>時<rt>じ</rt></ruby>と<ruby>午前<rt>ごぜん</rt></ruby>１１<ruby>時<rt>じ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めてもいいことにしました。１１<ruby>日<rt>にち</rt></ruby>は、３０<ruby>人<rt>にん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で１７<ruby>人<rt>にん</rt></ruby>が「<ruby>時差<rt>じさ</rt></ruby>Ｂｉｚ」を<ruby>行<rt>おこな</rt></ruby>いました。</p>\n\
+  <p>「<ruby>時差<rt>じさ</rt></ruby>Ｂｉｚ」は２５<ruby>日<rt>にち</rt></ruby>まで<ruby>行<rt>おこな</rt></ruby>います。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+- word: IT
+  descriptions:
+  - コンピューターを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>とした<ruby><rb>情報技術</rb><rt>じょうほうぎじゅつ</rt></ruby>。
+- word: 社員
+  descriptions:
+  - その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。
+web_news_url: /news/web/2017/07/11/時差Biz都内でスタート-通勤ラッシュ緩和で/
+source_url: http://www3.nhk.or.jp/news/easy/k10011053541000/k10011053541000.html
+...

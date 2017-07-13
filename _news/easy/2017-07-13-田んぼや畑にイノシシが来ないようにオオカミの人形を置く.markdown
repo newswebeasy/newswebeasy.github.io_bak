@@ -1,0 +1,74 @@
+---
+layout: easy_news
+newsid: k10011054821000
+categories: easy
+title: 田んぼや畑にイノシシが来ないようにオオカミの人形を置く
+title_with_ruby: <ruby>田<rt>た</rt></ruby>んぼや<ruby>畑<rt>はたけ</rt></ruby>にイノシシが<ruby>来<rt>こ</rt></ruby>ないようにオオカミの<ruby>人形<rt>にんぎょう</rt></ruby>を<ruby>置<rt>お</rt></ruby>く
+last_modified_at: '2017-07-13T11:30:00+09:00'
+datetime: 2017年07月13日 11時30分
+description: 千葉県ちばけん木更津市きさらづしでは、山やまから出でてきたイノシシなどが田たんぼの米こめや畑はたけの野菜やさいなどを食たべることが増ふえています。
+description_with_ruby: <ruby>千葉県<rt>ちばけん</rt></ruby><ruby>木更津市<rt>きさらづし</rt></ruby>では、<ruby>山<rt>やま</rt></ruby>から<ruby>出<rt>で</rt></ruby>てきたイノシシなどが<ruby>田<rt>た</rt></ruby>んぼの<ruby>米<rt>こめ</rt></ruby>や<ruby>畑<rt>はたけ</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>などを<ruby>食<rt>た</rt></ruby>べることが<ruby>増<rt>ふ</rt></ruby>えています。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/13/k10011054821000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/13/k10011054821000.mp3
+contents: "<p><ruby>千葉県<rt>ちばけん</rt></ruby><ruby>木更津市<rt>きさらづし</rt></ruby>では、<ruby>山<rt>やま</rt></ruby>から<ruby>出<rt>で</rt></ruby>てきた<span\
+  \ style=\"color: blue;\">イノシシ</span>などが<span style=\"color: blue;\"><ruby>田<rt>た</rt></ruby>んぼ</span>の<ruby>米<rt>こめ</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>畑<rt>はたけ</rt></ruby></span>の<ruby>野菜<rt>やさい</rt></ruby>などを<ruby>食<rt>た</rt></ruby>べることが<ruby>増<rt>ふ</rt></ruby>えています。<span\
+  \ style=\"color: blue;\">イノシシ</span>が<ruby>来<rt>こ</rt></ruby>ないようにするため、<ruby>触<rt>さわ</rt></ruby>ると<ruby>電気<rt>でんき</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>流<rt>なが</rt></ruby>れる</span><span style=\"color:\
+  \ blue;\"><ruby>柵<rt>さく</rt></ruby></span>などを<ruby>使<rt>つか</rt></ruby>っていますが、２０１６<span\
+  \ style=\"color: blue;\"><ruby>年度<rt>ねんど</rt></ruby></span>は２２００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>がありました。</p>\n<p>ＪＡ<ruby>木更津市<rt>きさらづし</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>があった<span style=\"color:\
+  \ blue;\"><ruby>田<rt>た</rt></ruby>んぼ</span>に１１<ruby>日<rt>にち</rt></ruby>から<span style=\"\
+  color: blue;\">オオカミ</span>の<ruby>人形<rt>にんぎょう</rt></ruby>を<ruby>置<rt>お</rt></ruby>いてみることにしました。</p>\n\
+  <p>この<ruby>人形<rt>にんぎょう</rt></ruby>には<span style=\"color: blue;\">センサー</span>があって、<span\
+  \ style=\"color: blue;\">イノシシ</span>などが<ruby>近<rt>ちか</rt></ruby>くに<ruby>来<rt>く</rt></ruby>ると、<ruby>目<rt>め</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>く<ruby>光<rt>ひか</rt></ruby>ります。<span\
+  \ style=\"color: blue;\">イノシシ</span>が<ruby>怖<rt>こわ</rt></ruby>がって<ruby>逃<rt>に</rt></ruby>げるように、<span\
+  \ style=\"color: blue;\">オオカミ</span>の<ruby>鳴<rt>な</rt></ruby>き<ruby>声<rt>ごえ</rt></ruby>など１８<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<ruby>大<rt>おお</rt></ruby>きな<ruby>音<rt>おと</rt></ruby>も<ruby>出<rt>だ</rt></ruby>します。<ruby>北海道<rt>ほっかいどう</rt></ruby>でこの<ruby>人形<rt>にんぎょう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>所<rt>ところ</rt></ruby>では、<span\
+  \ style=\"color: blue;\">シカ</span>などがあまり<ruby>来<rt>こ</rt></ruby>なくなりました。</p>\n<p>ＪＡ<ruby>木更津市<rt>きさらづし</rt></ruby>は「<span\
+  \ style=\"color: blue;\">オオカミ</span>の<ruby>人形<rt>にんぎょう</rt></ruby>で<span style=\"\
+  color: blue;\">イノシシ</span>が<ruby>少<rt>すく</rt></ruby>なくなったら、もっと<ruby>置<rt>お</rt></ruby>くつもりです」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 田んぼ
+  descriptions:
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>って、イネを<ruby><rb>育</rb><rt>そだ</rt></ruby>てる<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>水田</rb><rt>すいでん</rt></ruby>。
+- word: 畑
+  descriptions:
+  - <ruby><rb>野菜</rb><rt>やさい</rt></ruby>や<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>土地</rb><rt>とち</rt></ruby>。
+  - <ruby><rb>専門</rb><rt>せんもん</rt></ruby>。
+- word: 猪
+  descriptions:
+  - <ruby><rb>野山</rb><rt>のやま</rt></ruby>にすみ、<ruby><rb>鋭</rb><rt>するど</rt></ruby>いきばを<ruby><rb>持</rb><rt>も</rt></ruby>つけもの。ブタの<ruby><rb>祖先</rb><rt>そせん</rt></ruby>といわれるが、<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>はあらく<ruby><rb>一直線</rb><rt>いっちょくせん</rt></ruby>に<ruby><rb>走</rb><rt>はし</rt></ruby>るのが<ruby><rb>速</rb><rt>はや</rt></ruby>い。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>黒茶色</rb><rt>くろちゃいろ</rt></ruby>のあらい<ruby><rb>毛</rb><rt>け</rt></ruby>におおわれている。
+- word: 狼
+  descriptions:
+  - ユーラシアや<ruby><rb>北</rb><rt>きた</rt></ruby>アメリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>原野</rb><rt>げんや</rt></ruby>にすむ<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>形</rb><rt>かたち</rt></ruby>は<ruby><rb>犬</rb><rt>いぬ</rt></ruby>のシェパードに<ruby><rb>似</rb><rt>に</rt></ruby>ているが、<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>があらく、<ruby><rb>家畜</rb><rt>かちく</rt></ruby>や<ruby><rb>人</rb><rt>ひと</rt></ruby>をおそうこともある。かつては<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>にもすんでいた。
+- word: 流れる
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。
+  - <ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。
+  - うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - とりやめになる。
+- word: 柵
+  descriptions:
+  - <ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>竹</rb><rt>たけ</rt></ruby>などを<ruby><rb>立</rb><rt>た</rt></ruby>て、<ruby><rb>横木</rb><rt>よこぎ</rt></ruby>を<ruby><rb>打</rb><rt>う</rt></ruby>ちつけて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>囲</rb><rt>かこ</rt></ruby>い。
+- word: 年度
+  descriptions:
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>のつごうで<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>１年</rb><rt>いちねん</rt></ruby>の<ruby><rb>期間</rb><rt>きかん</rt></ruby>。ふつう<ruby><rb>４月</rb><rt>しがつ</rt></ruby><ruby><rb>１日</rb><rt>ついたち</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まり、<ruby><rb>翌年</rb><rt>よくねん</rt></ruby>の<ruby><rb>３月３１日</rb><rt>さんがつさんじゅういちにち</rt></ruby>に<ruby><rb>終</rb><rt>お</rt></ruby>わる。
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: センサー
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>、<ruby><rb>温度</rb><rt>おんど</rt></ruby>などに<ruby><rb>反応</rb><rt>はんのう</rt></ruby>して、<ruby><rb>電気的</rb><rt>でんきてき</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 鹿
+  descriptions:
+  - <ruby><rb>森林</rb><rt>しんりん</rt></ruby>や<ruby><rb>山野</rb><rt>さんや</rt></ruby>にすむ、<ruby><rb>草食</rb><rt>そうしょく</rt></ruby>のおとなしいけもの。<ruby><rb>足</rb><rt>あし</rt></ruby>は<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>く、<ruby><rb>雄</rb><rt>おす</rt></ruby>は<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>枝</rb><rt>えだ</rt></ruby>のような<ruby><rb>角</rb><rt>つの</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ。<ruby><rb>世界各地</rb><rt>せかいかくち</rt></ruby>にいる。
+web_news_url: /news/web/2017/07/11/イノシシ対策にオオカミ型装置導入-天敵で威嚇/
+source_url: http://www3.nhk.or.jp/news/easy/k10011054821000/k10011054821000.html
+...
