@@ -1,0 +1,38 @@
+---
+layout: easy_news
+newsid: k10011057901000
+categories: easy
+title: 福岡県　雨の被害があった旅館にまた泊まれるようになる
+title_with_ruby: <ruby>福岡県<rt>ふくおかけん</rt></ruby>　<ruby>雨<rt>あめ</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>があった<ruby>旅館<rt>りょかん</rt></ruby>にまた<ruby>泊<rt>と</rt></ruby>まれるようになる
+last_modified_at: '2017-07-14T16:05:00+09:00'
+datetime: 2017年07月14日 16時05分
+description: 九州きゅうしゅうでは５日いつかからたくさん雨あめが降ふって、建物たてものに水みずが入はいったりする被害ひがいがありました。
+description_with_ruby: <ruby>九州<rt>きゅうしゅう</rt></ruby>では<ruby>５日<rt>いつか</rt></ruby>からたくさん<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って、<ruby>建物<rt>たてもの</rt></ruby>に<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ったりする<ruby>被害<rt>ひがい</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/14/k10011057901000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/14/k10011057901000.mp3
+contents: "<p><ruby>九州<rt>きゅうしゅう</rt></ruby>では<ruby>５日<rt>いつか</rt></ruby>からたくさん<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って、<ruby>建物<rt>たてもの</rt></ruby>に<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ったりする<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>がありました。<ruby>福岡県<rt>ふくおかけん</rt></ruby><ruby>朝倉市<rt>あさくらし</rt></ruby>の<ruby>原鶴温泉<rt>はらづるおんせん</rt></ruby>では、１４ある<ruby>旅館<rt>りょかん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で２つの<ruby>旅館<rt>りょかん</rt></ruby>に<ruby>客<rt>きゃく</rt></ruby>が<ruby>泊<rt>と</rt></ruby>まることができなくなりました。</p>\n\
+  <p><ruby>泰泉閣<rt>たいせんかく</rt></ruby>という<ruby>旅館<rt>りょかん</rt></ruby>では、<ruby>働<rt>はたら</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>みんなで<ruby>片<rt>かた</rt></ruby>づけたり、<ruby>客<rt>きゃく</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>える<ruby>準備<rt>じゅんび</rt></ruby>をしたりして、１３<ruby>日<rt>にち</rt></ruby>からまた<ruby>客<rt>きゃく</rt></ruby>が<ruby>泊<rt>と</rt></ruby>まることができるようになりました。<ruby>旅館<rt>りょかん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが、<ruby>学校<rt>がっこう</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>来<rt>き</rt></ruby>た<ruby>長崎県<rt>ながさきけん</rt></ruby>の<ruby>中学生<rt>ちゅうがくせい</rt></ruby>２０<ruby>人<rt>にん</rt></ruby>ぐらいを<ruby>玄関<rt>げんかん</rt></ruby>で<ruby>迎<rt>むか</rt></ruby>えました。<ruby>中学生<rt>ちゅうがくせい</rt></ruby>は「<ruby>私<rt>わたし</rt></ruby>たちの<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>うように<ruby>準備<rt>じゅんび</rt></ruby>してくれて、ありがとうございました」と<ruby>旅館<rt>りょかん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>旅館<rt>りょかん</rt></ruby>の<ruby>社長<rt>しゃちょう</rt></ruby>は「<ruby>働<rt>はたら</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、<ruby>今<rt>いま</rt></ruby>も<span\
+  \ style=\"color: blue;\"><ruby>避難<rt>ひなん</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>所<rt>じょ</rt></ruby></span>から<ruby>仕事<rt>しごと</rt></ruby>に<ruby>来<rt>き</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>もいます。みんなで<ruby>頑張<rt>がんば</rt></ruby>って、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>前<rt>まえ</rt></ruby>に<ruby>進<rt>すす</rt></ruby>みたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>原鶴温泉<rt>はらづるおんせん</rt></ruby>では、<ruby>雨<rt>あめ</rt></ruby>のあと<ruby>旅館<rt>りょかん</rt></ruby>の<ruby>予約<rt>よやく</rt></ruby>を<span\
+  \ style=\"color: blue;\">キャンセル</span>した<ruby>人<rt>ひと</rt></ruby>が５０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>います。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 避難
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。
+- word: 所
+  descriptions:
+  - ところ。
+  - こと。もの。
+- word: キャンセル
+  descriptions:
+  - <ruby><rb>予約</rb><rt>よやく</rt></ruby>などを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>消</rb><rt>け</rt></ruby>すこと。
+web_news_url: /news/web/2017/07/14/豪雨被害で営業できなかった温泉旅館が再開-福岡-朝倉/
+source_url: http://www3.nhk.or.jp/news/easy/k10011057901000/k10011057901000.html
+...
