@@ -1,0 +1,77 @@
+---
+layout: easy_news
+newsid: k10011056541000
+categories: easy
+title: １兆ｔ以上の大きな氷が南極大陸から分かれた
+title_with_ruby: １<ruby>兆<rt>ちょう</rt></ruby>ｔ<ruby>以上<rt>いじょう</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>氷<rt>こおり</rt></ruby>が<ruby>南極大陸<rt>なんきょくたいりく</rt></ruby>から<ruby>分<rt>わ</rt></ruby>かれた
+last_modified_at: '2017-07-14T11:30:00+09:00'
+datetime: 2017年07月14日 11時30分
+description: イギリスのスウォンジー大学だいがくの研究けんきゅうグループは、南極大陸なんきょくたいりくで氷こおりが割われて、分わかれて、大おおきな氷こおりの山やまになったと発表はっぴょうしました。
+description_with_ruby: イギリスのスウォンジー<ruby>大学<rt>だいがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>グループは、<ruby>南極大陸<rt>なんきょくたいりく</rt></ruby>で<ruby>氷<rt>こおり</rt></ruby>が<ruby>割<rt>わ</rt></ruby>れて、<ruby>分<rt>わ</rt></ruby>かれて、<ruby>大<rt>おお</rt></ruby>きな<ruby>氷<rt>こおり</rt></ruby>の<ruby>山<rt>やま</rt></ruby>になったと<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/14/k10011056541000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/14/k10011056541000.mp3
+contents: "<p>イギリスのスウォンジー<ruby>大学<rt>だいがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby><span\
+  \ style=\"color: blue;\">グループ</span>は、<span style=\"color: blue;\"><ruby>南極大陸<rt>なんきょくたいりく</rt></ruby></span>で<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>が<ruby>割<rt>わ</rt></ruby>れて、<span\
+  \ style=\"color: blue;\"><ruby>分<rt>わ</rt></ruby>かれ</span>て、<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>の<ruby>山<rt>やま</rt></ruby>になったと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<span style=\"\
+  color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>が<ruby>撮<rt>と</rt></ruby>った<ruby>写真<rt>しゃしん</rt></ruby>などを<ruby>調<rt>しら</rt></ruby>べてわかりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>の<ruby>山<rt>やま</rt></ruby>は５８００ｋm²で、<ruby>三重県<rt>みえけん</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じぐらいの<ruby>広<rt>ひろ</rt></ruby>さです。<ruby>重<rt>おも</rt></ruby>さは１<span\
+  \ style=\"color: blue;\"><ruby>兆<rt>ちょう</rt></ruby></span><span style=\"color: blue;\"\
+  >ｔ</span><ruby>以上<rt>いじょう</rt></ruby>で、<ruby>今<rt>いま</rt></ruby>までに<ruby>見<rt>み</rt></ruby>つかった<ruby>中<rt>なか</rt></ruby>でも<ruby>特<rt>とく</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きい<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>の<ruby>山<rt>やま</rt></ruby>です。<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>分<rt>わ</rt></ruby>かれ</span>た<ruby>場所<rt>ばしょ</rt></ruby>では、<ruby>今年<rt>ことし</rt></ruby>１<ruby>月<rt>がつ</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>がどんどん<ruby>割<rt>わ</rt></ruby>れて、<span\
+  \ style=\"color: blue;\"><ruby>割<rt>わ</rt></ruby>れ<ruby>目<rt>め</rt></ruby></span>は２００ｋｍ<ruby>以上<rt>いじょう</rt></ruby>になっていました。</p>\n\
+  <p><ruby>研究<rt>けんきゅう</rt></ruby><span style=\"color: blue;\">グループ</span>は、この<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>の<ruby>山<rt>やま</rt></ruby>は<ruby>前<rt>まえ</rt></ruby>から<ruby>海<rt>うみ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>浮<rt>う</rt></ruby>い</span>ていたため、<span style=\"color:\
+  \ blue;\"><ruby>南極大陸<rt>なんきょくたいりく</rt></ruby></span>から<span style=\"color: blue;\"\
+  ><ruby>分<rt>わ</rt></ruby>かれ</span>ても、<ruby>海<rt>うみ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さは<ruby>上<rt>あ</rt></ruby>がらないと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 兆
+  descriptions:
+  - <ruby><rb>１億</rb><rt>いちおく</rt></ruby>の<ruby><rb>１万倍</rb><rt>いちまんばい</rt></ruby>。
+  - しるし。<ruby><rb>前</rb><rt>まえ</rt></ruby>ぶれ。
+- word: トン
+  descriptions:
+  - メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の１つ。１トンは、１０００キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+  - <ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: 氷
+  descriptions:
+  - <ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>〇度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。
+- word: 南極大陸
+  descriptions:
+  - <ruby><rb>南極</rb><rt>なんきょく</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>とした<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>。<ruby><rb>一年</rb><rt>いちねん</rt></ruby>じゅう<ruby><rb>厚</rb><rt>あつ</rt></ruby>い<ruby><rb>氷</rb><rt>こおり</rt></ruby>と<ruby><rb>雪</rb><rt>ゆき</rt></ruby>におおわれている。
+- word: 分かれる
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つだったものが、<ruby><rb>別々</rb><rt>べつべつ</rt></ruby>になる。
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つのものが、いくつかに<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られる。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 人工衛星
+  descriptions:
+  - ロケットで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げ、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>るようにした、<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>。<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>のようすや<ruby><rb>気象</rb><rt>きしょう</rt></ruby>などを<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>などの<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>の<ruby><rb>中継</rb><rt>ちゅうけい</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>てたりする。
+- word: 割れ目
+  descriptions:
+  - <ruby><rb>割</rb><rt>わ</rt></ruby>れたところ。さけ<ruby><rb>目</rb><rt>め</rt></ruby>。ひび。
+- word: 浮く
+  descriptions:
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>にある。うかぶ。
+  - <ruby><rb>地面</rb><rt>じめん</rt></ruby>からはなれて、<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>にある。
+  - <ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>に<ruby><rb>現</rb><rt>あらわ</rt></ruby>れる。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>がはずむ。
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>時間</rb><rt>じかん</rt></ruby>の<ruby><rb>余</rb><rt>あま</rt></ruby>りが<ruby><rb>出</rb><rt>で</rt></ruby>る。
+  - しっかりと、くっついていない。
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>にされなくなる。
+web_news_url: /news/web/2017/07/13/1兆トンの氷山-南極から分離-観測史上最大級/
+source_url: http://www3.nhk.or.jp/news/easy/k10011056541000/k10011056541000.html
+...

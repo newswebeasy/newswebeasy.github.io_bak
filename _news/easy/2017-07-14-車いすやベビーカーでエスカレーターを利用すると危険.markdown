@@ -1,0 +1,59 @@
+---
+layout: easy_news
+newsid: k10011055761000
+categories: easy
+title: 車いすやベビーカーでエスカレーターを利用すると危険
+title_with_ruby: <ruby>車<rt>くるま</rt></ruby>いすやベビーカーでエスカレーターを<ruby>利用<rt>りよう</rt></ruby>すると<ruby>危険<rt>きけん</rt></ruby>
+last_modified_at: '2017-07-14T11:30:00+09:00'
+datetime: 2017年07月14日 11時30分
+description: 香川県かがわけん高松市たかまつしで１０日とおか、８１歳さいの男性だんせいが妻つまの乗のった車くるまいすを押おしてエスカレーターを利用りようしていたとき、後うしろに落おちる事故じこがありました。
+description_with_ruby: <ruby>香川県<rt>かがわけん</rt></ruby><ruby>高松市<rt>たかまつし</rt></ruby>で<ruby>１０日<rt>とおか</rt></ruby>、８１<ruby>歳<rt>さい</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>が<ruby>妻<rt>つま</rt></ruby>の<ruby>乗<rt>の</rt></ruby>った<ruby>車<rt>くるま</rt></ruby>いすを<ruby>押<rt>お</rt></ruby>してエスカレーターを<ruby>利用<rt>りよう</rt></ruby>していたとき、<ruby>後<rt>うし</rt></ruby>ろに<ruby>落<rt>お</rt></ruby>ちる<ruby>事故<rt>じこ</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/14/k10011055761000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/14/k10011055761000.mp3
+contents: "<p><ruby>香川県<rt>かがわけん</rt></ruby><ruby>高松市<rt>たかまつし</rt></ruby>で<ruby>１０日<rt>とおか</rt></ruby>、８１<ruby>歳<rt>さい</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>が<ruby>妻<rt>つま</rt></ruby>の<ruby>乗<rt>の</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>車<rt>くるま</rt></ruby>いす</span>を<ruby>押<rt>お</rt></ruby>してエスカレーターを<ruby>利用<rt>りよう</rt></ruby>していたとき、<ruby>後<rt>うし</rt></ruby>ろに<ruby>落<rt>お</rt></ruby>ちる<ruby>事故<rt>じこ</rt></ruby>がありました。このとき、<ruby>男性<rt>だんせい</rt></ruby>の<ruby>後<rt>うし</rt></ruby>ろにいた７６<ruby>歳<rt>さい</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>が<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちて、<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p><ruby>日本<rt>にほん</rt></ruby>エレベーター<ruby>協会<rt>きょうかい</rt></ruby>によると、エスカレーターの１つの<span\
+  \ style=\"color: blue;\"><ruby>段<rt>だん</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>奥行<rt>おくゆ</rt></ruby>き</span>は<ruby>普通<rt>ふつう</rt></ruby>３８ｃｍぐらいです。<span\
+  \ style=\"color: blue;\"><ruby>車<rt>くるま</rt></ruby>いす</span>や<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>乗<rt>の</rt></ruby>ったベビーカーでエスカレーターを<ruby>利用<rt>りよう</rt></ruby>すると、<span\
+  \ style=\"color: blue;\">タイヤ</span>が<ruby>動<rt>うご</rt></ruby>いたり、<ruby>重<rt>おも</rt></ruby>くて<ruby>押<rt>お</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>が<ruby>倒<rt>たお</rt></ruby>れたりする<ruby>危険<rt>きけん</rt></ruby>があると<ruby>言<rt>い</rt></ruby>っています。このため、<span\
+  \ style=\"color: blue;\"><ruby>車<rt>くるま</rt></ruby>いす</span>やベビーカーはエスカレーターではなくて、エレベーターを<ruby>利用<rt>りよう</rt></ruby>してほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>そして、エスカレーターを<ruby>利用<rt>りよう</rt></ruby>するときは、<ruby>止<rt>と</rt></ruby>まって<span\
+  \ style=\"color: blue;\"><ruby>手<rt>て</rt></ruby>すり</span>を<span style=\"color:\
+  \ blue;\">つかん</span>で<ruby>乗<rt>の</rt></ruby>ってほしいと<ruby>言<rt>い</rt></ruby>っています。エスカレーターの<ruby>上<rt>うえ</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>くと、ほかの<ruby>人<rt>ひと</rt></ruby>に<span\
+  \ style=\"color: blue;\">ぶつかっ</span>て<ruby>落<rt>お</rt></ruby>ちる<ruby>危険<rt>きけん</rt></ruby>があるため、やめてほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 車椅子
+  descriptions:
+  - <ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>病気</rb><rt>びょうき</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>などが、<ruby><rb>腰</rb><rt>こし</rt></ruby>かけたまま<ruby><rb>移動</rb><rt>いどう</rt></ruby>できるように<ruby><rb>車</rb><rt>くるま</rt></ruby>をつけた、いす。
+- word: 段
+  descriptions:
+  - <ruby><rb>区切</rb><rt>くぎ</rt></ruby>り。
+  - かいだん。
+  - やり<ruby><rb>方</rb><rt>かた</rt></ruby>。
+  - <ruby><rb>剣道</rb><rt>けんどう</rt></ruby>、<ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>などの、<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>を<ruby><rb>示</rb><rt>しめ</rt></ruby>す<ruby><rb>位</rb><rt>くらい</rt></ruby>。
+- word: 奥行き
+  descriptions:
+  - <ruby><rb>家</rb><rt>いえ</rt></ruby>や<ruby><rb>土地</rb><rt>とち</rt></ruby>の、<ruby><rb>表</rb><rt>おもて</rt></ruby>から<ruby><rb>裏</rb><rt>うら</rt></ruby>までの<ruby><rb>長</rb><rt>なが</rt></ruby>さ。
+  - <ruby><rb>知識</rb><rt>ちしき</rt></ruby>や<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>などの<ruby><rb>奥深</rb><rt>おくぶか</rt></ruby>さ。
+- word: タイヤ
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>や<ruby><rb>自転車</rb><rt>じてんしゃ</rt></ruby>などの、<ruby><rb>車輪</rb><rt>しゃりん</rt></ruby>の<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>にはめたゴムの<ruby><rb>輪</rb><rt>わ</rt></ruby>。
+- word: 手すり
+  descriptions:
+  - <ruby><rb>橋</rb><rt>はし</rt></ruby>や、<ruby><rb>階段</rb><rt>かいだん</rt></ruby>などの、<ruby><rb>手</rb><rt>て</rt></ruby>をかけるところ。らんかん。
+- word: つかむ
+  descriptions:
+  - しっかりと、にぎって<ruby><rb>持</rb><rt>も</rt></ruby>つ。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のものにする。
+  - （だいじな<ruby><rb>点</rb><rt>てん</rt></ruby>を）<ruby><rb>理解</rb><rt>りかい</rt></ruby>する。とらえる。
+- word: ぶつかる
+  descriptions:
+  - <ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。
+  - <ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。
+  - <ruby><rb>重</rb><rt>かさ</rt></ruby>なる。
+web_news_url: /news/web/2017/07/12/車いすやベビーカー-エスカレーターは非常に危険/
+source_url: http://www3.nhk.or.jp/news/easy/k10011055761000/k10011055761000.html
+...

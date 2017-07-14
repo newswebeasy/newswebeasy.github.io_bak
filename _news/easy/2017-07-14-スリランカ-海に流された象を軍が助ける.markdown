@@ -1,0 +1,73 @@
+---
+layout: easy_news
+newsid: k10011057571000
+categories: easy
+title: スリランカ　海に流された象を軍が助ける
+title_with_ruby: スリランカ　<ruby>海<rt>うみ</rt></ruby>に<ruby>流<rt>なが</rt></ruby>された<ruby>象<rt>ぞう</rt></ruby>を<ruby>軍<rt>ぐん</rt></ruby>が<ruby>助<rt>たす</rt></ruby>ける
+last_modified_at: '2017-07-14T16:05:00+09:00'
+datetime: 2017年07月14日 16時05分
+description: スリランカで１１日にち、海うみに浮ういている象ぞうを軍ぐんが見みつけました。
+description_with_ruby: スリランカで１１<ruby>日<rt>にち</rt></ruby>、<ruby>海<rt>うみ</rt></ruby>に<ruby>浮<rt>う</rt></ruby>いている<ruby>象<rt>ぞう</rt></ruby>を<ruby>軍<rt>ぐん</rt></ruby>が<ruby>見<rt>み</rt></ruby>つけました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/14/k10011057571000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/14/k10011057571000.mp3
+contents: "<p>スリランカで１１<ruby>日<rt>にち</rt></ruby>、<ruby>海<rt>うみ</rt></ruby>に<span style=\"\
+  color: blue;\"><ruby>浮<rt>う</rt></ruby>い</span>ている<span style=\"color: blue;\"><ruby>象<rt>ぞう</rt></ruby></span>を<span\
+  \ style=\"color: blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>が<ruby>見<rt>み</rt></ruby>つけました。<span\
+  \ style=\"color: blue;\"><ruby>象<rt>ぞう</rt></ruby></span>は<ruby>水<rt>みず</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>鼻<rt>はな</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して、<ruby>海岸<rt>かいがん</rt></ruby>から１５ｋｍぐらいの<ruby>所<rt>ところ</rt></ruby>にいました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>などは<span style=\"\
+  color: blue;\"><ruby>象<rt>ぞう</rt></ruby></span>の<ruby>体<rt>からだ</rt></ruby>に<span\
+  \ style=\"color: blue;\">ロープ</span>を<span style=\"color: blue;\"><ruby>巻<rt>ま</rt></ruby>い</span>て、<ruby>船<rt>ふね</rt></ruby>で<ruby>海岸<rt>かいがん</rt></ruby>まで<ruby>引<rt>ひ</rt></ruby>いてきました。スリランカのテレビなどは、<span\
+  \ style=\"color: blue;\"><ruby>象<rt>ぞう</rt></ruby></span>を<span style=\"color: blue;\"\
+  ><ruby>助<rt>たす</rt></ruby>ける</span>のに１２<ruby>時間<rt>じかん</rt></ruby>かかったと<ruby>伝<rt>つた</rt></ruby>えています。<ruby>専門家<rt>せんもんか</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べると、<span\
+  \ style=\"color: blue;\"><ruby>象<rt>ぞう</rt></ruby></span>の<ruby>体<rt>からだ</rt></ruby>に<ruby>問題<rt>もんだい</rt></ruby>はありませんでした。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>象<rt>ぞう</rt></ruby></span>が<ruby>海<rt>うみ</rt></ruby>にいた<ruby>理由<rt>りゆう</rt></ruby>はわかっていませんが、<ruby>海<rt>うみ</rt></ruby>の<ruby>浅<rt>あさ</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>いていたときに、<span\
+  \ style=\"color: blue;\"><ruby>波<rt>なみ</rt></ruby></span>で<ruby>遠<rt>とお</rt></ruby>くまで<span\
+  \ style=\"color: blue;\"><ruby>流<rt>なが</rt></ruby>さ</span>れたようです。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 流す
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>などにうかべて<ruby><rb>動</rb><rt>うご</rt></ruby>かす。
+  - よごれを<ruby><rb>洗</rb><rt>あら</rt></ruby>い<ruby><rb>落</rb><rt>お</rt></ruby>とす。
+  - うわさなどを<ruby><rb>広</rb><rt>ひろ</rt></ruby>める。
+  - <ruby><rb>予定</rb><rt>よてい</rt></ruby>していたことを、<ruby><rb>取</rb><rt>と</rt></ruby>りやめる。
+  - そのことを<ruby><rb>気</rb><rt>き</rt></ruby>に<ruby><rb>留</rb><rt>と</rt></ruby>めない。
+- word: 象
+  descriptions:
+  - <ruby><rb>陸</rb><rt>りく</rt></ruby>にすむ<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、いちばん<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>哺乳動物</rb><rt>ほにゅうどうぶつ</rt></ruby>。アフリカゾウとインドゾウとがいる。<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>鼻</rb><rt>はな</rt></ruby>と<ruby><rb>大</rb><rt>おお</rt></ruby>きなきばを<ruby><rb>持</rb><rt>も</rt></ruby>つ。
+- word: 軍
+  descriptions:
+  - <ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+- word: 浮く
+  descriptions:
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>にある。うかぶ。
+  - <ruby><rb>地面</rb><rt>じめん</rt></ruby>からはなれて、<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>にある。
+  - <ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>に<ruby><rb>現</rb><rt>あらわ</rt></ruby>れる。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>がはずむ。
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>時間</rb><rt>じかん</rt></ruby>の<ruby><rb>余</rb><rt>あま</rt></ruby>りが<ruby><rb>出</rb><rt>で</rt></ruby>る。
+  - しっかりと、くっついていない。
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>にされなくなる。
+- word: ロープ
+  descriptions:
+  - あさ<ruby><rb>糸</rb><rt>いと</rt></ruby>や、<ruby><rb>針金</rb><rt>はりがね</rt></ruby>などを<ruby><rb>太</rb><rt>ふと</rt></ruby>くよった<ruby><rb>丈夫</rb><rt>じょうぶ</rt></ruby>なつな。
+- word: 巻く
+  descriptions:
+  - <ruby><rb>長</rb><rt>なが</rt></ruby>いものを、はしから<ruby><rb>丸</rb><rt>まる</rt></ruby>める。
+  - <ruby><rb>長</rb><rt>なが</rt></ruby>いものを<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りにからみつける。
+  - ぐるぐるとまるく<ruby><rb>動</rb><rt>うご</rt></ruby>く。また、<ruby><rb>動</rb><rt>うご</rt></ruby>かす。
+  - <ruby><rb>回</rb><rt>まわ</rt></ruby>してしめる。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>囲</rb><rt>かこ</rt></ruby>む。
+- word: 波
+  descriptions:
+  - <ruby><rb>海</rb><rt>うみ</rt></ruby>などの<ruby><rb>水面</rb><rt>すいめん</rt></ruby>が、<ruby><rb>高</rb><rt>たか</rt></ruby>くなったり<ruby><rb>低</rb><rt>ひく</rt></ruby>くなったりすること。また、<ruby><rb>水面</rb><rt>すいめん</rt></ruby>が<ruby><rb>高</rb><rt>たか</rt></ruby>く<ruby><rb>盛</rb><rt>も</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>がっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+  - ものごとの<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>が、<ruby><rb>上</rb><rt>あ</rt></ruby>がったり<ruby><rb>下</rb><rt>さ</rt></ruby>がったり、また、よくなったり<ruby><rb>悪</rb><rt>わる</rt></ruby>くなったりすること。
+  - つぎつぎとおし<ruby><rb>寄</rb><rt>よ</rt></ruby>せるものをたとえていうことば。
+web_news_url: /news/web/2017/07/13/沖合に流されたゾウをスリランカ海軍が救出/
+source_url: http://www3.nhk.or.jp/news/easy/k10011057571000/k10011057571000.html
+...
