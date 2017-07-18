@@ -1,0 +1,64 @@
+---
+layout: easy_news
+newsid: k10011056921000
+categories: easy
+title: マララさん　イラクのモスルの子どもたちに会いに行く
+title_with_ruby: マララさん　イラクのモスルの<ruby>子<rt>こ</rt></ruby>どもたちに<ruby>会<rt>あ</rt></ruby>いに<ruby>行<rt>い</rt></ruby>く
+last_modified_at: '2017-07-18T11:30:00+09:00'
+datetime: 2017年07月18日 11時30分
+description: イラクのモスルには、３年ねん前まえ、世界中せかいじゅうでテロを起おこしているＩＳ＝イスラミックステートが入はいってきて、ここは自分じぶんたちの国くにだと言いいました。
+description_with_ruby: イラクのモスルには、３<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>、<ruby>世界中<rt>せかいじゅう</rt></ruby>でテロを<ruby>起<rt>お</rt></ruby>こしているＩＳ＝イスラミックステートが<ruby>入<rt>はい</rt></ruby>ってきて、ここは<ruby>自分<rt>じぶん</rt></ruby>たちの<ruby>国<rt>くに</rt></ruby>だと<ruby>言<rt>い</rt></ruby>いました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/18/k10011056921000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/18/k10011056921000.mp3
+contents: "<p>イラクのモスルには、３<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>、<ruby>世界中<rt>せかいじゅう</rt></ruby>で<span\
+  \ style=\"color: blue;\">テロ</span>を<span style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こし</span>ているＩＳ＝イスラミックステートが<ruby>入<rt>はい</rt></ruby>ってきて、ここは<ruby>自分<rt>じぶん</rt></ruby>たちの<ruby>国<rt>くに</rt></ruby>だと<ruby>言<rt>い</rt></ruby>いました。<ruby>去年<rt>きょねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>からイラクの<span\
+  \ style=\"color: blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>などがＩＳと<span style=\"color:\
+  \ blue;\"><ruby>戦<rt>たたか</rt></ruby>っ</span>て、モスルはイラクに<ruby>戻<rt>もど</rt></ruby>りました。</p>\n\
+  <p>しかし、モスルから<span style=\"color: blue;\"><ruby>避難<rt>ひなん</rt></ruby></span>していた<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>も<ruby>近<rt>ちか</rt></ruby>くの「<ruby>避難民<rt>ひなんみん</rt></ruby>キャンプ」で<ruby>生活<rt>せいかつ</rt></ruby>しています。<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>かないで、ここで<ruby>勉強<rt>べんきょう</rt></ruby>している<ruby>子<rt>こ</rt></ruby>どももいます。</p>\n\
+  <p>１１<ruby>日<rt>にち</rt></ruby>、パキスタン<span style=\"color: blue;\"><ruby>出身<rt>しゅっしん</rt></ruby></span>のマララ・ユスフザイさんが、<ruby>避難民<rt>ひなんみん</rt></ruby>キャンプの<ruby>子<rt>こ</rt></ruby>どもたちに<ruby>会<rt>あ</rt></ruby>いに<ruby>行<rt>い</rt></ruby>きました。マララさんは、<ruby>子<rt>こ</rt></ruby>どもや<ruby>女性<rt>じょせい</rt></ruby>が<ruby>教育<rt>きょういく</rt></ruby>を<ruby>受<rt>う</rt></ruby>けるための<span\
+  \ style=\"color: blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>を<ruby>続<rt>つづ</rt></ruby>けて、<span\
+  \ style=\"color: blue;\">ノーベル<ruby>賞<rt>しょう</rt></ruby></span>をもらいました。</p>\n<p>マララさんは「モスルのまちをもう<ruby>一度<rt>いちど</rt></ruby>つくるために、そして<ruby>皆<rt>みな</rt></ruby>さんが<span\
+  \ style=\"color: blue;\"><ruby>希望<rt>きぼう</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>つために、<ruby>教育<rt>きょういく</rt></ruby>を<ruby>受<rt>う</rt></ruby>けることがとても<ruby>大切<rt>たいせつ</rt></ruby>です」と<ruby>言<rt>い</rt></ruby>って、<ruby>子<rt>こ</rt></ruby>どもたちを<span\
+  \ style=\"color: blue;\"><ruby>励<rt>はげ</rt></ruby>まし</span>ました。１３<ruby>歳<rt>さい</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は「<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いて、マララさんのようになりたいと<ruby>思<rt>おも</rt></ruby>いました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: テロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: 起こす
+  descriptions:
+  - （<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。
+  - <ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。
+  - （<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。
+  - ほりかえす。
+- word: 軍
+  descriptions:
+  - <ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。
+- word: 戦う
+  descriptions:
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>をする。
+  - わざを<ruby><rb>比</rb><rt>くら</rt></ruby>べて、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める。
+- word: 避難
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。
+- word: 出身
+  descriptions:
+  - その<ruby><rb>土地</rb><rt>とち</rt></ruby>で<ruby><rb>生</rb><rt>う</rt></ruby>まれたこと。
+  - その<ruby><rb>学校</rb><rt>がっこう</rt></ruby>を<ruby><rb>卒業</rb><rt>そつぎょう</rt></ruby>したこと。
+- word: 活動
+  descriptions:
+  - <ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。
+- word: ノーベル賞
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の、<ruby><rb>学問</rb><rt>がくもん</rt></ruby>や<ruby><rb>平和</rb><rt>へいわ</rt></ruby>のためにりっぱな<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をした<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>毎年</rb><rt>まいとし</rt></ruby>あたえられる<ruby><rb>賞</rb><rt>しょう</rt></ruby>。<ruby><rb>化学者</rb><rt>かがくしゃ</rt></ruby>ノーベルの<ruby><rb>遺言</rb><rt>ゆいごん</rt></ruby>で、この<ruby><rb>制度</rb><rt>せいど</rt></ruby>ができた。
+- word: 希望
+  descriptions:
+  - こうあってほしいと、<ruby><rb>願</rb><rt>ねが</rt></ruby>うこと。<ruby><rb>望</rb><rt>のぞ</rt></ruby>み。
+- word: 励ます
+  descriptions:
+  - <ruby><rb>元気</rb><rt>げんき</rt></ruby>をつけてやる。<ruby><rb>力</rb><rt>ちから</rt></ruby>づける。
+web_news_url: /news/web/2017/07/13/マララさん-モスル避難民の子ども激励/
+source_url: http://www3.nhk.or.jp/news/easy/k10011056921000/k10011056921000.html
+...
