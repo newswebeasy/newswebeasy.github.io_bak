@@ -1,0 +1,64 @@
+---
+layout: easy_news
+newsid: k10011062051000
+categories: easy
+title: 京都の祇園祭　２３台の山車がまちを回る
+title_with_ruby: <ruby>京都<rt>きょうと</rt></ruby>の<ruby>祇園祭<rt>ぎおんまつり</rt></ruby>　２３<ruby>台<rt>だい</rt></ruby>の<ruby>山車<rt>だし</rt></ruby>がまちを<ruby>回<rt>まわ</rt></ruby>る
+last_modified_at: '2017-07-18T15:30:00+09:00'
+datetime: 2017年07月18日 15時30分
+description: 京都きょうとの祇園祭ぎおんまつりは、１か月げつ続つづく夏なつのお祭まつりです。
+description_with_ruby: <ruby>京都<rt>きょうと</rt></ruby>の<ruby>祇園祭<rt>ぎおんまつり</rt></ruby>は、１か<ruby>月<rt>げつ</rt></ruby><ruby>続<rt>つづ</rt></ruby>く<ruby>夏<rt>なつ</rt></ruby>のお<ruby>祭<rt>まつ</rt></ruby>りです。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/18/k10011062051000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/18/k10011062051000.mp3
+contents: "<p><ruby>京都<rt>きょうと</rt></ruby>の<ruby>祇園祭<rt>ぎおんまつり</rt></ruby>は、１か<ruby>月<rt>げつ</rt></ruby><ruby>続<rt>つづ</rt></ruby>く<ruby>夏<rt>なつ</rt></ruby>のお<ruby>祭<rt>まつ</rt></ruby>りです。１７<ruby>日<rt>にち</rt></ruby>、きれいに<ruby>飾<rt>かざ</rt></ruby>った２３<ruby>台<rt>だい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>山車<rt>だし</rt></ruby></span>を<ruby>人<rt>ひと</rt></ruby>が<ruby>引<rt>ひ</rt></ruby>いて<ruby>京都<rt>きょうと</rt></ruby>のまちの<ruby>中<rt>なか</rt></ruby>を<ruby>回<rt>まわ</rt></ruby>りました。</p>\n\
+  <p>１７<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、いちばん<ruby>前<rt>まえ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>山車<rt>だし</rt></ruby></span>に<ruby>乗<rt>の</rt></ruby>った<ruby>子<rt>こ</rt></ruby>どもが<span\
+  \ style=\"color: blue;\"><ruby>縄<rt>なわ</rt></ruby></span>を<span style=\"color: blue;\"\
+  ><ruby>刀<rt>かたな</rt></ruby></span>で<ruby>切<rt>き</rt></ruby>って、<span style=\"color:\
+  \ blue;\"><ruby>山車<rt>だし</rt></ruby></span>が<ruby>出発<rt>しゅっぱつ</rt></ruby>しました。<span\
+  \ style=\"color: blue;\"><ruby>山車<rt>だし</rt></ruby></span>は、<span style=\"color:\
+  \ blue;\"><ruby>太鼓<rt>たいこ</rt></ruby></span>や<span style=\"color: blue;\"><ruby>笛<rt>ふえ</rt></ruby></span>を<span\
+  \ style=\"color: blue;\"><ruby>鳴<rt>な</rt></ruby>らし</span>ながら<ruby>京都<rt>きょうと</rt></ruby>のまちの<ruby>中<rt>なか</rt></ruby>を<ruby>回<rt>まわ</rt></ruby>りました。</p>\n\
+  <p><ruby>交差点<rt>こうさてん</rt></ruby>では、<span style=\"color: blue;\"><ruby>山車<rt>だし</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>車輪<rt>しゃりん</rt></ruby></span>の<ruby>下<rt>した</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>竹<rt>たけ</rt></ruby></span>を<ruby>置<rt>お</rt></ruby>いて、<ruby>水<rt>みず</rt></ruby>を<span\
+  \ style=\"color: blue;\">まい</span>て<ruby>滑<rt>すべ</rt></ruby>らせながら、９０<ruby>度<rt>ど</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がらせます。<ruby>見<rt>み</rt></ruby>ていた<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>乗<rt>の</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>山車<rt>だし</rt></ruby></span>が<ruby>曲<rt>ま</rt></ruby>がるところがすごかったです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>警察<rt>けいさつ</rt></ruby>は、１７<ruby>日<rt>にち</rt></ruby>にお<ruby>祭<rt>まつ</rt></ruby>りを<ruby>見<rt>み</rt></ruby>にきた<ruby>人<rt>ひと</rt></ruby>は２２<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>だったと<ruby>言<rt>い</rt></ruby>っています。<ruby>今月<rt>こんげつ</rt></ruby><ruby>２４日<rt>にじゅうよっか</rt></ruby>には、１７<ruby>日<rt>にち</rt></ruby>に<ruby>出<rt>で</rt></ruby>なかった１０<ruby>台<rt>だい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>山車<rt>だし</rt></ruby></span>が<ruby>町<rt>まち</rt></ruby>を<ruby>回<rt>まわ</rt></ruby>ります。</p>\n\
+  <p></p>\n<p></p>\n<p></p>"
+words:
+- word: 山車
+  descriptions:
+  - <ruby><rb>祭</rb><rt>まつ</rt></ruby>りのとき、いろいろなかざり<ruby><rb>物</rb><rt>もの</rt></ruby>をつけて<ruby><rb>引</rb><rt>ひ</rt></ruby>いて<ruby><rb>歩</rb><rt>ある</rt></ruby>く<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>車</rb><rt>くるま</rt></ruby>。
+- word: 縄
+  descriptions:
+  - わらやアサ・<ruby><rb>化学繊維</rb><rt>かがくせんい</rt></ruby>などを、<ruby><rb>何本</rb><rt>なんぼん</rt></ruby>も<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>くより<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>太</rb><rt>ふと</rt></ruby>めのひも。ひもより<ruby><rb>太</rb><rt>ふと</rt></ruby>く、つなより<ruby><rb>細</rb><rt>ほそ</rt></ruby>い。ロープ。
+- word: 刀
+  descriptions:
+  - <ruby><rb>片側</rb><rt>かたがわ</rt></ruby>に<ruby><rb>刃</rb><rt>は</rt></ruby>をつけた<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>武器</rb><rt>ぶき</rt></ruby>。<ruby><rb>日本刀</rb><rt>にほんとう</rt></ruby>。
+- word: 太鼓
+  descriptions:
+  - <ruby><rb>打楽器</rb><rt>だがっき</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>胴</rb><rt>どう</rt></ruby>に<ruby><rb>皮</rb><rt>かわ</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>り、ばちで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>鳴</rb><rt>な</rt></ruby>らすもの。
+- word: 笛
+  descriptions:
+  - <ruby><rb>楽器</rb><rt>がっき</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>竹</rb><rt>たけ</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などの<ruby><rb>管</rb><rt>くだ</rt></ruby>に<ruby><rb>穴</rb><rt>あな</rt></ruby>をあけ、<ruby><rb>息</rb><rt>いき</rt></ruby>をふきこんで<ruby><rb>鳴</rb><rt>な</rt></ruby>らすもの。
+  - <ruby><rb>合図</rb><rt>あいず</rt></ruby>のために、ふいて<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>子</rb><rt>こ</rt></ruby>。ホイッスル。
+- word: 鳴らす
+  descriptions:
+  - <ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+  - <ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>になる。
+  - <ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>立</rb><rt>た</rt></ruby>てる。
+- word: 車輪
+  descriptions:
+  - <ruby><rb>車</rb><rt>くるま</rt></ruby>の<ruby><rb>輪</rb><rt>わ</rt></ruby>。くるま。
+- word: 竹
+  descriptions:
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>空</rb><rt>から</rt></ruby>の<ruby><rb>茎</rb><rt>くき</rt></ruby>に、<ruby><rb>節</rb><rt>ふし</rt></ruby>のある<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>や、<ruby><rb>細工物</rb><rt>さいくもの</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>芽</rb><rt>め</rt></ruby>を「たけのこ」という。
+- word: まく
+  descriptions:
+  - （<ruby><rb>水</rb><rt>みず</rt></ruby>や<ruby><rb>花</rb><rt>はな</rt></ruby>びらなどを）<ruby><rb>散</rb><rt>ち</rt></ruby>らす。
+web_news_url: /news/web/2017/07/17/京都-祇園祭で山鉾巡行/
+source_url: http://www3.nhk.or.jp/news/easy/k10011062051000/k10011062051000.html
+...
