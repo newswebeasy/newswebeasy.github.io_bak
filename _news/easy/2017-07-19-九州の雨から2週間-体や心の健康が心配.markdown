@@ -1,0 +1,57 @@
+---
+layout: easy_news
+newsid: k10011064391000
+categories: easy
+title: 九州の雨から２週間　体や心の健康が心配
+title_with_ruby: <ruby>九州<rt>きゅうしゅう</rt></ruby>の<ruby>雨<rt>あめ</rt></ruby>から２<ruby>週間<rt>しゅうかん</rt></ruby>　<ruby>体<rt>からだ</rt></ruby>や<ruby>心<rt>こころ</rt></ruby>の<ruby>健康<rt>けんこう</rt></ruby>が<ruby>心配<rt>しんぱい</rt></ruby>
+last_modified_at: '2017-07-19T15:50:00+09:00'
+datetime: 2017年07月19日 15時50分
+description: 九州きゅうしゅうの北きたのほうでは５日いつかからたくさん雨あめが降ふって、川かわの水みずがあふれたり山やまが崩くずれたりしました。
+description_with_ruby: <ruby>九州<rt>きゅうしゅう</rt></ruby>の<ruby>北<rt>きた</rt></ruby>のほうでは<ruby>５日<rt>いつか</rt></ruby>からたくさん<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って、<ruby>川<rt>かわ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>があふれたり<ruby>山<rt>やま</rt></ruby>が<ruby>崩<rt>くず</rt></ruby>れたりしました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/19/k10011064391000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/19/k10011064391000.mp3
+contents: "<p><ruby>九州<rt>きゅうしゅう</rt></ruby>の<ruby>北<rt>きた</rt></ruby>の<span style=\"\
+  color: blue;\">ほう</span>では<ruby>５日<rt>いつか</rt></ruby>からたくさん<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って、<ruby>川<rt>かわ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<span\
+  \ style=\"color: blue;\">あふれ</span>たり<ruby>山<rt>やま</rt></ruby>が<span style=\"color:\
+  \ blue;\"><ruby>崩<rt>くず</rt></ruby>れ</span>たりしました。このため、<ruby>福岡県<rt>ふくおかけん</rt></ruby>で３１<ruby>人<rt>にん</rt></ruby>、<ruby>大分県<rt>おおいたけん</rt></ruby>で３<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。<ruby>福岡県<rt>ふくおかけん</rt></ruby>では<ruby>今<rt>いま</rt></ruby>も７<ruby>人<rt>にん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>行方不明<rt>ゆくえふめい</rt></ruby></span>になっています。</p>\n<p><ruby>５日<rt>いつか</rt></ruby>から２<ruby>週間<rt>しゅうかん</rt></ruby>が<ruby>過<rt>す</rt></ruby>ぎて、<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>があったまちに<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>たちの<ruby>体<rt>からだ</rt></ruby>や<ruby>心<rt>こころ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>健康<rt>けんこう</rt></ruby></span>が<ruby>心配<rt>しんぱい</rt></ruby>になっています。</p>\n\
+  <p><ruby>大分県<rt>おおいたけん</rt></ruby><ruby>日田市<rt>ひたし</rt></ruby>の<ruby>医者<rt>いしゃ</rt></ruby>は、<ruby>学校<rt>がっこう</rt></ruby>などに<span\
+  \ style=\"color: blue;\"><ruby>避難<rt>ひなん</rt></ruby></span>する<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて<ruby>疲<rt>つか</rt></ruby>れたり、これからの<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>心配<rt>しんぱい</rt></ruby>したりして、よく<ruby>寝<rt>ね</rt></ruby>ることができない<ruby>人<rt>ひと</rt></ruby>などが<ruby>増<rt>ふ</rt></ruby>えていると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 健康
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。
+- word: 方
+  descriptions:
+  - <ruby><rb>向</rb><rt>む</rt></ruby>き。
+  - それぞれの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。
+  - <ruby><rb>四角</rb><rt>しかく</rt></ruby>。
+  - やりかた。
+  - <ruby><rb>分</rb><rt>わ</rt></ruby>けたときの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>部類</rb><rt>ぶるい</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>をうやまって<ruby><rb>言</rb><rt>い</rt></ruby>うことば。かた。
+- word: あふれる
+  descriptions:
+  - いっぱいになって、こぼれる。
+  - <ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。
+- word: 崩れる
+  descriptions:
+  - こわれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。
+  - ばらばらになる。<ruby><rb>乱</rb><rt>みだ</rt></ruby>れる。
+  - <ruby><rb>悪</rb><rt>わる</rt></ruby>くなる。
+- word: 行方不明
+  descriptions:
+  - どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 避難
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。
+web_news_url: /news/web/2017/07/19/九州北部豪雨から2週間-長期的医療や心のケアが課題に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011064391000/k10011064391000.html
+...
