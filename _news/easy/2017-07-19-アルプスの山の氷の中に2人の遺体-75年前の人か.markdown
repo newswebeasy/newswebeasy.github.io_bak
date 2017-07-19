@@ -1,0 +1,48 @@
+---
+layout: easy_news
+newsid: k10011064671000
+categories: easy
+title: アルプスの山の氷の中に２人の遺体　７５年前の人か
+title_with_ruby: アルプスの<ruby>山<rt>やま</rt></ruby>の<ruby>氷<rt>こおり</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>２人<rt>ふたり</rt></ruby>の<ruby>遺体<rt>いたい</rt></ruby>　７５<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>か
+last_modified_at: '2017-07-19T15:50:00+09:00'
+datetime: 2017年07月19日 15時50分
+description: スイスのアルプスで１３日にち、高たかさ２６１５ｍの山やまの氷こおりの中なかから２人ふたりの遺体いたいが見みつかりました。
+description_with_ruby: スイスのアルプスで１３<ruby>日<rt>にち</rt></ruby>、<ruby>高<rt>たか</rt></ruby>さ２６１５ｍの<ruby>山<rt>やま</rt></ruby>の<ruby>氷<rt>こおり</rt></ruby>の<ruby>中<rt>なか</rt></ruby>から<ruby>２人<rt>ふたり</rt></ruby>の<ruby>遺体<rt>いたい</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかりました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/19/k10011064671000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/19/k10011064671000.mp3
+contents: "<p>スイスの<span style=\"color: blue;\">アルプス</span>で１３<ruby>日<rt>にち</rt></ruby>、<ruby>高<rt>たか</rt></ruby>さ２６１５ｍの<ruby>山<rt>やま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>から<ruby>２人<rt>ふたり</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>遺体<rt>いたい</rt></ruby></span>が<ruby>見<rt>み</rt></ruby>つかりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>遺体<rt>いたい</rt></ruby></span>の<ruby>近<rt>ちか</rt></ruby>くには<ruby>荷物<rt>にもつ</rt></ruby>がありました。スイスの<ruby>新聞<rt>しんぶん</rt></ruby>やテレビは、<ruby>２人<rt>ふたり</rt></ruby>は７５<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>行方不明<rt>ゆくえふめい</rt></ruby></span>になった４０<ruby>歳<rt>さい</rt></ruby>の<ruby>夫<rt>おっと</rt></ruby>と３７<ruby>歳<rt>さい</rt></ruby>の<ruby>妻<rt>つま</rt></ruby>だろうと<ruby>言<rt>い</rt></ruby>っています。そして、<ruby>２人<rt>ふたり</rt></ruby>は<ruby>山<rt>やま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>が<ruby>割<rt>わ</rt></ruby>れている<ruby>所<rt>ところ</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちて<ruby>亡<rt>な</rt></ruby>くなったようだと<ruby>伝<rt>つた</rt></ruby>えています。</p>\n\
+  <p><span style=\"color: blue;\">アルプス</span>では、<ruby>暑<rt>あつ</rt></ruby>さで<ruby>山<rt>やま</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>がだんだん<span style=\"color:\
+  \ blue;\">とけ</span>ています。このため、スイスの<ruby>新聞<rt>しんぶん</rt></ruby>などは、これからも<span style=\"\
+  color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>行方不明<rt>ゆくえふめい</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかるかもしれないと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: アルプス
+  descriptions:
+  - ヨーロッパ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中部</rb><rt>ちゅうぶ</rt></ruby>、スイス・フランス・イタリア・オーストリアにまたがる<ruby><rb>山脈</rb><rt>さんみゃく</rt></ruby>。モンブラン・マッターホルンなどの<ruby><rb>山々</rb><rt>やまやま</rt></ruby>が<ruby><rb>連</rb><rt>つら</rt></ruby>なる。<ruby><rb>氷河</rb><rt>ひょうが</rt></ruby>があり、<ruby><rb>風景</rb><rt>ふうけい</rt></ruby>もよい。
+  - <ruby><rb>日本</rb><rt>にほん</rt></ruby>アルプスのこと。
+- word: 氷
+  descriptions:
+  - <ruby><rb>温度</rb><rt>おんど</rt></ruby>が０&deg;Cより<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。
+- word: 遺体
+  descriptions:
+  - <ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>。
+- word: 行方不明
+  descriptions:
+  - どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。
+- word: 解ける
+  descriptions:
+  - <ruby><rb>結</rb><rt>むす</rt></ruby>んであるものが、はなれる。
+  - <ruby><rb>消</rb><rt>き</rt></ruby>える。
+  - わからなかったことが、わかる。
+  - <ruby><rb>雪</rb><rt>ゆき</rt></ruby>や<ruby><rb>氷</rb><rt>こおり</rt></ruby>などが、<ruby><rb>水</rb><rt>みず</rt></ruby>になる。
+  - <ruby><rb>気持</rb><rt>きも</rt></ruby>ちがゆるむ。
+web_news_url: /news/web/2017/07/19/アルプスの氷河から2人の遺体-75年前に不明の夫婦か/
+source_url: http://www3.nhk.or.jp/news/easy/k10011064671000/k10011064671000.html
+...
