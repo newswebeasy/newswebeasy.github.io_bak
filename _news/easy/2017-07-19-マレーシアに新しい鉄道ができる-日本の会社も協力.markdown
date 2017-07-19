@@ -1,0 +1,41 @@
+---
+layout: easy_news
+newsid: k10011062181000
+categories: easy
+title: マレーシアに新しい鉄道ができる　日本の会社も協力
+title_with_ruby: マレーシアに<ruby>新<rt>あたら</rt></ruby>しい<ruby>鉄道<rt>てつどう</rt></ruby>ができる　<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>も<ruby>協力<rt>きょうりょく</rt></ruby>
+last_modified_at: '2017-07-19T11:30:00+09:00'
+datetime: 2017年07月19日 11時30分
+description: マレーシアに新あたらしい鉄道てつどうができました。
+description_with_ruby: マレーシアに<ruby>新<rt>あたら</rt></ruby>しい<ruby>鉄道<rt>てつどう</rt></ruby>ができました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/19/k10011062181000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/19/k10011062181000.mp3
+contents: "<p>マレーシアに<ruby>新<rt>あたら</rt></ruby>しい<span style=\"color: blue;\"><ruby>鉄道<rt>てつどう</rt></ruby></span>ができました。<span\
+  \ style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>のクアラルンプールと<ruby>近<rt>ちか</rt></ruby>くのまちの<ruby>間<rt>あいだ</rt></ruby>の５０ｋｍを１<ruby>時間<rt>じかん</rt></ruby>２０<ruby>分<rt>ぷん</rt></ruby>ぐらいで<ruby>走<rt>はし</rt></ruby>ります。</p>\n\
+  <p>この<span style=\"color: blue;\"><ruby>鉄道<rt>てつどう</rt></ruby></span>をつくるために<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>も<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>しました。<span style=\"\
+  color: blue;\"><ruby>線路<rt>せんろ</rt></ruby></span>は<ruby>三菱重工業<rt>みつびしじゅうこうぎょう</rt></ruby>、<ruby>電気<rt>でんき</rt></ruby>の<span\
+  \ style=\"color: blue;\">システム</span>は<ruby>明電舎<rt>めいでんしゃ</rt></ruby>がつくりました。</p>\n\
+  <p>クアラルンプールでは、みんなが<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>時間<rt>じかん</rt></ruby>などに<ruby>道<rt>みち</rt></ruby>がとても<ruby>混<rt>こ</rt></ruby>みます。マレーシアのナジブ<ruby>首相<rt>しゅしょう</rt></ruby>は１７<ruby>日<rt>にち</rt></ruby>の<ruby>式<rt>しき</rt></ruby>で「<ruby>車<rt>くるま</rt></ruby>やバスより<ruby>早<rt>はや</rt></ruby>く<ruby>着<rt>つ</rt></ruby>くことができるので、<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>鉄道<rt>てつどう</rt></ruby></span>でみんなの<ruby>生活<rt>せいかつ</rt></ruby>も<ruby>変<rt>か</rt></ruby>わると<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: 鉄道
+  descriptions:
+  - <ruby><rb>鉄</rb><rt>てつ</rt></ruby>のレールをしいて、<ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>を<ruby><rb>走</rb><rt>はし</rt></ruby>らせる<ruby><rb>交通機関</rb><rt>こうつうきかん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、１８７２<ruby><rb>年</rb><rt>ねん</rt></ruby>（<ruby><rb>明治</rb><rt>めいじ</rt></ruby>５<ruby><rb>年</rb><rt>ねん</rt></ruby>）に<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>の<ruby><rb>新橋</rb><rt>しんばし</rt></ruby>と<ruby><rb>横浜</rb><rt>よこはま</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>初</rb><rt>はじ</rt></ruby>めて<ruby><rb>開通</rb><rt>かいつう</rt></ruby>した。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+- word: 首都
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。
+- word: 線路
+  descriptions:
+  - <ruby><rb>汽車</rb><rt>きしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道筋</rb><rt>みちすじ</rt></ruby>。レール。
+- word: システム
+  descriptions:
+  - <ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+  - ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。
+web_news_url: /news/web/2017/07/17/日本企業も参加-マレーシアで鉄道が完成/
+source_url: http://www3.nhk.or.jp/news/easy/k10011062181000/k10011062181000.html
+...
