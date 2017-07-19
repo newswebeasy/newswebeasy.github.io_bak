@@ -1,0 +1,56 @@
+---
+layout: easy_news
+newsid: k10011064531000
+categories: easy
+title: 耳に障害がある人の「デフリンピック」がトルコで始まる
+title_with_ruby: <ruby>耳<rt>みみ</rt></ruby>に<ruby>障害<rt>しょうがい</rt></ruby>がある<ruby>人<rt>ひと</rt></ruby>の「デフリンピック」がトルコで<ruby>始<rt>はじ</rt></ruby>まる
+last_modified_at: '2017-07-19T15:50:00+09:00'
+datetime: 2017年07月19日 15時50分
+description: トルコのサムスンという町まちで、１８日にちから「デフリンピック」が始はじまりました。
+description_with_ruby: トルコのサムスンという<ruby>町<rt>まち</rt></ruby>で、１８<ruby>日<rt>にち</rt></ruby>から「デフリンピック」が<ruby>始<rt>はじ</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/19/k10011064531000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/19/k10011064531000.mp3
+contents: "<p>トルコのサムスンという<ruby>町<rt>まち</rt></ruby>で、１８<ruby>日<rt>にち</rt></ruby>から「デフリンピック」が<ruby>始<rt>はじ</rt></ruby>まりました。デフリンピックは<ruby>耳<rt>みみ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>たちの<span\
+  \ style=\"color: blue;\">オリンピック</span>と<ruby>呼<rt>よ</rt></ruby>ばれています。<ruby>今年<rt>ことし</rt></ruby>は２３<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>で、９７の<ruby>国<rt>くに</rt></ruby>と<span\
+  \ style=\"color: blue;\"><ruby>地域<rt>ちいき</rt></ruby></span>から３０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>ます。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>からは１０８<ruby>人<rt>にん</rt></ruby>の<span style=\"color:\
+  \ blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が１１の<span style=\"color: blue;\"><ruby>競技<rt>きょうぎ</rt></ruby></span>に<ruby>出<rt>で</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。<ruby>日本<rt>にっぽん</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>い２５<ruby>個<rt>こ</rt></ruby>の<span\
+  \ style=\"color: blue;\">メダル</span>を<ruby>取<rt>と</rt></ruby>りたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>の<span style=\"\
+  color: blue;\">リーダー</span>で、<ruby>自転車<rt>じてんしゃ</rt></ruby>の<ruby>早瀬久美<rt>はやせくみ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は「２０２０<ruby>年<rt>ねん</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby><span\
+  \ style=\"color: blue;\">オリンピック</span>と<span style=\"color: blue;\">パラリンピック</span>に<ruby>出<rt>で</rt></ruby>る<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちが<ruby>頑張<rt>がんば</rt></ruby>ることができるように、たくさん<span\
+  \ style=\"color: blue;\">メダル</span>を<ruby>取<rt>と</rt></ruby>りたいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>デフリンピックは３０<ruby>日<rt>にち</rt></ruby>までです。</p>\n<p></p>\n<p></p>"
+words:
+- word: 障害
+  descriptions:
+  - <ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: 地域
+  descriptions:
+  - ある<ruby><rb>範囲</rb><rt>はんい</rt></ruby>に<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 競技
+  descriptions:
+  - わざや<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>を、<ruby><rb>比</rb><rt>くら</rt></ruby>べ<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>特</rb><rt>とく</rt></ruby>にスポーツで、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>うこと。
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+- word: リーダー
+  descriptions:
+  - <ruby><rb>教</rb><rt>おし</rt></ruby>え<ruby><rb>導</rb><rt>みちび</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>指導者</rb><rt>しどうしゃ</rt></ruby>。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+web_news_url: /news/web/2017/07/19/聴覚障害者の五輪デフリンピックトルコで開幕/
+source_url: http://www3.nhk.or.jp/news/easy/k10011064531000/k10011064531000.html
+...
