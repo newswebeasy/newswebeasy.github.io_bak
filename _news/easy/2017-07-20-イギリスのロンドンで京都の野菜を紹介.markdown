@@ -1,0 +1,50 @@
+---
+layout: easy_news
+newsid: k10011064711000
+categories: easy
+title: イギリスのロンドンで京都の野菜を紹介
+title_with_ruby: イギリスのロンドンで<ruby>京都<rt>きょうと</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>
+last_modified_at: '2017-07-20T11:30:00+09:00'
+datetime: 2017年07月20日 11時30分
+description: ＪＡグループ京都きょうとは１８日にち、京都きょうとのいろいろな野菜やさいをイギリスのロンドンで紹介しょうかいするイベントを開ひらきました。
+description_with_ruby: ＪＡグループ<ruby>京都<rt>きょうと</rt></ruby>は１８<ruby>日<rt>にち</rt></ruby>、<ruby>京都<rt>きょうと</rt></ruby>のいろいろな<ruby>野菜<rt>やさい</rt></ruby>をイギリスのロンドンで<ruby>紹介<rt>しょうかい</rt></ruby>するイベントを<ruby>開<rt>ひら</rt></ruby>きました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/20/k10011064711000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/20/k10011064711000.mp3
+contents: "<p>ＪＡグループ<ruby>京都<rt>きょうと</rt></ruby>は１８<ruby>日<rt>にち</rt></ruby>、<ruby>京都<rt>きょうと</rt></ruby>のいろいろな<ruby>野菜<rt>やさい</rt></ruby>をイギリスのロンドンで<ruby>紹介<rt>しょうかい</rt></ruby>する<span\
+  \ style=\"color: blue;\">イベント</span>を<ruby>開<rt>ひら</rt></ruby>きました。イギリスの<span style=\"\
+  color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>や<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>など２７０<ruby>人<rt>にん</rt></ruby>を<ruby>招待<rt>しょうたい</rt></ruby>して、<ruby>京都<rt>きょうと</rt></ruby>の<ruby>日本料理<rt>にほんりょうり</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>が<ruby>作<rt>つく</rt></ruby>った<ruby>料理<rt>りょうり</rt></ruby>を<ruby>食<rt>た</rt></ruby>べてもらいました。</p>\n\
+  <p><ruby>料理<rt>りょうり</rt></ruby>には、<ruby>京都<rt>きょうと</rt></ruby>で<ruby>作<rt>つく</rt></ruby>っている「<ruby>万願寺甘<rt>まんがんじあま</rt></ruby>とう」という<ruby>甘<rt>あま</rt></ruby>い<span\
+  \ style=\"color: blue;\">とうがらし</span>や、「<ruby>九条<rt>くじょう</rt></ruby>ねぎ」という<span\
+  \ style=\"color: blue;\">ねぎ</span>、「<ruby>賀茂<rt>かも</rt></ruby>なす」という<ruby>丸<rt>まる</rt></ruby>い<span\
+  \ style=\"color: blue;\">なす</span>などを<ruby>使<rt>つか</rt></ruby>いました。</p>\n<p><ruby>料理<rt>りょうり</rt></ruby>を<ruby>食<rt>た</rt></ruby>べた<ruby>人<rt>ひと</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>新鮮<rt>しんせん</rt></ruby></span>でおいしいです。<ruby>夏<rt>なつ</rt></ruby>の<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>にちょうどいい<ruby>味<rt>あじ</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>ＪＡグループ<ruby>京都<rt>きょうと</rt></ruby>は「イギリスなど<span style=\"color: blue;\">ヨーロッパ</span>のたくさんの<ruby>国<rt>くに</rt></ruby>で<ruby>京都<rt>きょうと</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>を<ruby>売<rt>う</rt></ruby>りたいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 唐辛子
+  descriptions:
+  - <ruby><rb>野菜</rb><rt>やさい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>実</rb><rt>み</rt></ruby>はふつう<ruby><rb>赤</rb><rt>あか</rt></ruby>く<ruby><rb>熟</rb><rt>じゅく</rt></ruby>し、からい。<ruby><rb>味</rb><rt>あじ</rt></ruby>つけに<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+- word: 葱
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る、<ruby><rb>葉</rb><rt>は</rt></ruby>が<ruby><rb>筒</rb><rt>つつ</rt></ruby>のような<ruby><rb>形</rb><rt>かたち</rt></ruby>をした<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>野菜</rb><rt>やさい</rt></ruby>。
+- word: 茄子
+  descriptions:
+  - <ruby><rb>野菜</rb><rt>やさい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>夏</rb><rt>なつ</rt></ruby>にむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>実</rb><rt>み</rt></ruby>は、こいむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>で、つけ<ruby><rb>物</rb><rt>もの</rt></ruby>などにして<ruby><rb>食</rb><rt>た</rt></ruby>べる。なすび。
+- word: 新鮮
+  descriptions:
+  - <ruby><rb>新</rb><rt>あたら</rt></ruby>しくて、<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>生</rb><rt>い</rt></ruby>きしているようす。
+  - すがすがしくて、よごれていないようす。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+web_news_url: /news/web/2017/07/19/ロンドンで京野菜を売り込む催し/
+source_url: http://www3.nhk.or.jp/news/easy/k10011064711000/k10011064711000.html
+...
