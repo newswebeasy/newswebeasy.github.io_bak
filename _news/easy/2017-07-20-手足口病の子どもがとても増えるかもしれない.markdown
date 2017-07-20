@@ -1,0 +1,57 @@
+---
+layout: easy_news
+newsid: k10011063891000
+categories: easy
+title: 手足口病の子どもがとても増えるかもしれない
+title_with_ruby: <ruby>手足口病<rt>てあしくちびょう</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもがとても<ruby>増<rt>ふ</rt></ruby>えるかもしれない
+last_modified_at: '2017-07-20T11:30:00+09:00'
+datetime: 2017年07月20日 11時30分
+description: 手足口病てあしくちびょうは、手てや足あし、口くちの中なかなどに小ちいさな粒つぶのようなものができる病気びょうきです。
+description_with_ruby: <ruby>手足口病<rt>てあしくちびょう</rt></ruby>は、<ruby>手<rt>て</rt></ruby>や<ruby>足<rt>あし</rt></ruby>、<ruby>口<rt>くち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>などに<ruby>小<rt>ちい</rt></ruby>さな<ruby>粒<rt>つぶ</rt></ruby>のようなものができる<ruby>病気<rt>びょうき</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/20/k10011063891000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/20/k10011063891000.mp3
+contents: "<p><ruby>手足口病<rt>てあしくちびょう</rt></ruby>は、<ruby>手<rt>て</rt></ruby>や<ruby>足<rt>あし</rt></ruby>、<ruby>口<rt>くち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>などに<ruby>小<rt>ちい</rt></ruby>さな<span\
+  \ style=\"color: blue;\"><ruby>粒<rt>つぶ</rt></ruby></span>のようなものができる<ruby>病気<rt>びょうき</rt></ruby>です。ひどくなって<span\
+  \ style=\"color: blue;\"><ruby>脳<rt>のう</rt></ruby></span>などに<span style=\"color:\
+  \ blue;\"><ruby>炎症<rt>えんしょう</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>ることもあります。５<ruby>歳<rt>さい</rt></ruby><ruby>以下<rt>いか</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもが<ruby>夏<rt>なつ</rt></ruby>にこの<ruby>病気<rt>びょうき</rt></ruby>になることが<ruby>多<rt>おお</rt></ruby>くて、<span\
+  \ style=\"color: blue;\">ウイルス</span>でうつります。</p>\n<p><ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>によると、７<ruby>月<rt>がつ</rt></ruby><ruby>９日<rt>ここのか</rt></ruby>までの１<ruby>週間<rt>しゅうかん</rt></ruby>に、<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>３０００の<ruby>病院<rt>びょういん</rt></ruby>で１<ruby>万<rt>まん</rt></ruby>８１５１<ruby>人<rt>にん</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもが<ruby>手足口病<rt>てあしくちびょう</rt></ruby>だとわかりました。<ruby>前<rt>まえ</rt></ruby>の１<ruby>週間<rt>しゅうかん</rt></ruby>より７０００<ruby>人<rt>にん</rt></ruby>ぐらい<ruby>増<rt>ふ</rt></ruby>えています。</p>\n\
+  <p><ruby>手足口病<rt>てあしくちびょう</rt></ruby>になった<ruby>人<rt>ひと</rt></ruby>は、２０１１<ruby>年<rt>ねん</rt></ruby>にとても<ruby>増<rt>ふ</rt></ruby>えました。<ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby>は２０１１<ruby>年<rt>ねん</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>増<rt>ふ</rt></ruby>えるかもしれないと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>は「<ruby>小<rt>ちい</rt></ruby>さな<ruby>子<rt>こ</rt></ruby>どもがいる<ruby>家<rt>いえ</rt></ruby>では、<ruby>石<rt>せっ</rt></ruby>けんでよく<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>ってください。<span\
+  \ style=\"color: blue;\"><ruby>保育園<rt>ほいくえん</rt></ruby></span>では、みんなが<ruby>使<rt>つか</rt></ruby>う<span\
+  \ style=\"color: blue;\">タオル</span>やおもちゃなどは<span style=\"color: blue;\"><ruby>消毒<rt>しょうどく</rt></ruby></span>するようにしてください」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 粒
+  descriptions:
+  - <ruby><rb>小</rb><rt>ちい</rt></ruby>さくて<ruby><rb>丸</rb><rt>まる</rt></ruby>いもの。
+  - <ruby><rb>集</rb><rt>あつ</rt></ruby>まっているものの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>質</rb><rt>しつ</rt></ruby>や<ruby><rb>大</rb><rt>おお</rt></ruby>きさ。
+  - <ruby><rb>小</rb><rt>ちい</rt></ruby>さくて<ruby><rb>丸</rb><rt>まる</rt></ruby>いものを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 脳
+  descriptions:
+  - <ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>考</rb><rt>かんが</rt></ruby>えたり<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かしたりするはたらきを<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>つところ。
+  - <ruby><rb>頭</rb><rt>あたま</rt></ruby>のはたらき。
+  - <ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となる<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 炎症
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>一部</rb><rt>いちぶ</rt></ruby>が<ruby><rb>熱</rb><rt>ねつ</rt></ruby>をもって<ruby><rb>赤</rb><rt>あか</rt></ruby>くはれたり、<ruby><rb>痛</rb><rt>いた</rt></ruby>んだりすること。
+- word: ウイルス
+  descriptions:
+  - <ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 保育所
+  descriptions:
+  - <ruby><rb>幼</rb><rt>おさな</rt></ruby>い<ruby><rb>子</rb><rt>こ</rt></ruby>どもを<ruby><rb>朝</rb><rt>あさ</rt></ruby>から<ruby><rb>夕方</rb><rt>ゆうがた</rt></ruby>まで<ruby><rb>預</rb><rt>あず</rt></ruby>かって、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。ほいくしょ。<ruby><rb>保育園</rb><rt>ほいくえん</rt></ruby>。
+- word: タオル
+  descriptions:
+  - <ruby><rb>表</rb><rt>おもて</rt></ruby>に<ruby><rb>糸</rb><rt>いと</rt></ruby>の<ruby><rb>輪</rb><rt>わ</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>織</rb><rt>お</rt></ruby>った、<ruby><rb>厚</rb><rt>あつ</rt></ruby>くてやわらかいもめんの<ruby><rb>布</rb><rt>ぬの</rt></ruby>。また、それで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>手</rb><rt>て</rt></ruby>ふき。
+- word: 消毒
+  descriptions:
+  - <ruby><rb>薬</rb><rt>くすり</rt></ruby>や、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>などで、ばいきんを<ruby><rb>殺</rb><rt>ころ</rt></ruby>すこと。
+web_news_url: /news/web/2017/07/18/手足口病-大流行のおそれ-手洗いなど徹底を/
+source_url: http://www3.nhk.or.jp/news/easy/k10011063891000/k10011063891000.html
+...

@@ -1,0 +1,76 @@
+---
+layout: easy_news
+newsid: k10011065831000
+categories: easy
+title: トランプさんがアメリカの大統領になってから半年
+title_with_ruby: トランプさんがアメリカの<ruby>大統領<rt>だいとうりょう</rt></ruby>になってから<ruby>半年<rt>はんとし</rt></ruby>
+last_modified_at: '2017-07-20T16:50:00+09:00'
+datetime: 2017年07月20日 16時50分
+description: ２０日はつか、トランプさんがアメリカの大統領だいとうりょうになってから半年はんとしになりました。
+description_with_ruby: <ruby>２０日<rt>はつか</rt></ruby>、トランプさんがアメリカの<ruby>大統領<rt>だいとうりょう</rt></ruby>になってから<ruby>半年<rt>はんとし</rt></ruby>になりました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/20/k10011065831000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/20/k10011065831000.mp3
+contents: "<p><ruby>２０日<rt>はつか</rt></ruby>、トランプさんがアメリカの<span style=\"color: blue;\"\
+  ><ruby>大統領<rt>だいとうりょう</rt></ruby></span>になってから<ruby>半年<rt>はんとし</rt></ruby>になりました。</p>\n\
+  <p>トランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>はアメリカの<span\
+  \ style=\"color: blue;\"><ruby>利益<rt>りえき</rt></ruby></span>になることをいちばん<ruby>大切<rt>たいせつ</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えて、いろいろな<ruby>国<rt>くに</rt></ruby>との<ruby>間<rt>あいだ</rt></ruby>の<ruby>貿易<rt>ぼうえき</rt></ruby>の<span\
+  \ style=\"color: blue;\">ルール</span>を<ruby>変<rt>か</rt></ruby>えようとしています。６<ruby>月<rt>がつ</rt></ruby>には、<span\
+  \ style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>上<rt>あ</rt></ruby>がらないようにするために<span\
+  \ style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>で<ruby>決<rt>き</rt></ruby>めた「パリ<ruby>協定<rt>きょうてい</rt></ruby>」から<ruby>出<rt>で</rt></ruby>ると<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。しかし、<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>はトランプ<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>の<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>に<ruby>強<rt>つよ</rt></ruby>く<ruby>反対<rt>はんたい</rt></ruby>しています。</p>\n\
+  <p>トランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は<span\
+  \ style=\"color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>のとき、オバマ<span style=\"\
+  color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>が<ruby>作<rt>つく</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>医療<rt>いりょう</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>保険<rt>ほけん</rt></ruby></span>を<ruby>変<rt>か</rt></ruby>えると<ruby>言<rt>い</rt></ruby>っていました。しかし、<span\
+  \ style=\"color: blue;\"><ruby>議会<rt>ぎかい</rt></ruby></span>が<ruby>反対<rt>はんたい</rt></ruby>しているため、まだ<ruby>変<rt>か</rt></ruby>えることができません。</p>\n\
+  <p>トランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>の<ruby>息子<rt>むすこ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>のときにロシア<ruby>人<rt>じん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>弁護士<rt>べんごし</rt></ruby></span>と<ruby>会<rt>あ</rt></ruby>ったことがわかるなど、トランプ<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>とロシアの<ruby>問題<rt>もんだい</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。<span\
+  \ style=\"color: blue;\"><ruby>議会<rt>ぎかい</rt></ruby></span>などは、ロシアとの<ruby>関係<rt>かんけい</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べています。<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>になってから<ruby>半年<rt>はんとし</rt></ruby>になっても、<ruby>政治<rt>せいじ</rt></ruby>がうまく<ruby>進<rt>すす</rt></ruby>んでいません。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 利益
+  descriptions:
+  - ためになること。<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つこと。
+  - もうけ。<ruby><rb>得</rb><rt>とく</rt></ruby>。
+- word: ルール
+  descriptions:
+  - <ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: 気温
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 選挙
+  descriptions:
+  - ある<ruby><rb>役目</rb><rt>やくめ</rt></ruby>につく<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>選</rb><rt>えら</rt></ruby>ぶこと。
+- word: 医療
+  descriptions:
+  - <ruby><rb>医者</rb><rt>いしゃ</rt></ruby>の<ruby><rb>手当</rb><rt>てあ</rt></ruby>てを<ruby><rb>受</rb><rt>う</rt></ruby>けて、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがなどを<ruby><rb>治</rb><rt>なお</rt></ruby>すこと。
+- word: 保険
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>で<ruby><rb>少</rb><rt>すこ</rt></ruby>しずつお<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てておき、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>や<ruby><rb>事故</rb><rt>じこ</rt></ruby>などの<ruby><rb>災難</rb><rt>さいなん</rt></ruby>にあった<ruby><rb>人</rb><rt>ひと</rt></ruby>が、<ruby><rb>決</rb><rt>き</rt></ruby>まったお<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>取</rb><rt>と</rt></ruby>る<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。
+- word: 議会
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>に<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>について<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めをする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>の<ruby><rb>国会</rb><rt>こっかい</rt></ruby>と、<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>などの<ruby><rb>地方議会</rb><rt>ちほうぎかい</rt></ruby>とがある。
+- word: 弁護士
+  descriptions:
+  - <ruby><rb>裁判</rb><rt>さいばん</rt></ruby>などで、<ruby><rb>事件</rb><rt>じけん</rt></ruby>に<ruby><rb>関係</rb><rt>かんけい</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>の、<ruby><rb>権利</rb><rt>けんり</rt></ruby>や<ruby><rb>利益</rb><rt>りえき</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために、<ruby><rb>本人</rb><rt>ほんにん</rt></ruby>の<ruby><rb>代理</rb><rt>だいり</rt></ruby>や<ruby><rb>弁護</rb><rt>べんご</rt></ruby>をする<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+web_news_url: /news/web/2017/07/20/トランプ政権半年-ロシア疑惑など政権運営安定せず/
+source_url: http://www3.nhk.or.jp/news/easy/k10011065831000/k10011065831000.html
+...
