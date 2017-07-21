@@ -1,0 +1,42 @@
+---
+layout: easy_news
+newsid: k10011065281000
+categories: easy
+title: 「土用のうしの日」に食べるうなぎが成田空港に着く
+title_with_ruby: 「<ruby>土用<rt>どよう</rt></ruby>のうしの<ruby>日<rt>ひ</rt></ruby>」に<ruby>食<rt>た</rt></ruby>べるうなぎが<ruby>成田空港<rt>なりたくうこう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>く
+last_modified_at: '2017-07-21T11:30:00+09:00'
+datetime: 2017年07月21日 11時30分
+description: ７月がつ２５日にちは「土用どようのうしの日ひ」で、日本にっぽんでは昔むかしからうなぎを食たべる習慣しゅうかんがあります。
+description_with_ruby: ７<ruby>月<rt>がつ</rt></ruby>２５<ruby>日<rt>にち</rt></ruby>は「<ruby>土用<rt>どよう</rt></ruby>のうしの<ruby>日<rt>ひ</rt></ruby>」で、<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>昔<rt>むかし</rt></ruby>からうなぎを<ruby>食<rt>た</rt></ruby>べる<ruby>習慣<rt>しゅうかん</rt></ruby>があります。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/21/k10011065281000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/21/k10011065281000.mp3
+contents: "<p>７<ruby>月<rt>がつ</rt></ruby>２５<ruby>日<rt>にち</rt></ruby>は「<ruby>土用<rt>どよう</rt></ruby>のうしの<ruby>日<rt>ひ</rt></ruby>」で、<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>昔<rt>むかし</rt></ruby>から<span\
+  \ style=\"color: blue;\">うなぎ</span>を<ruby>食<rt>た</rt></ruby>べる<ruby>習慣<rt>しゅうかん</rt></ruby>があります。この<ruby>日<rt>ひ</rt></ruby>のために<ruby>輸入<rt>ゆにゅう</rt></ruby>したたくさんの<span\
+  \ style=\"color: blue;\">うなぎ</span>が<ruby>成田空港<rt>なりたくうこう</rt></ruby>などに<ruby>着<rt>つ</rt></ruby>いています。</p>\n\
+  <p>１９<ruby>日<rt>にち</rt></ruby>は、<ruby>成田空港<rt>なりたくうこう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いた３<span\
+  \ style=\"color: blue;\">ｔ</span>の<span style=\"color: blue;\">うなぎ</span>を、<span\
+  \ style=\"color: blue;\"><ruby>税関<rt>ぜいかん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>が<ruby>箱<rt>はこ</rt></ruby>から<ruby>出<rt>だ</rt></ruby>して<ruby>調<rt>しら</rt></ruby>べました。</p>\n\
+  <p><span style=\"color: blue;\">うなぎ</span>を<ruby>輸入<rt>ゆにゅう</rt></ruby>する<ruby>会社<rt>かいしゃ</rt></ruby>によると、<ruby>今年<rt>ことし</rt></ruby>は<span\
+  \ style=\"color: blue;\">うなぎ</span>が<ruby>元気<rt>げんき</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きくなって、たくさん<span\
+  \ style=\"color: blue;\">とれ</span>ました。<ruby>値段<rt>ねだん</rt></ruby>はいつもの<ruby>年<rt>とし</rt></ruby>より１０％ぐらい<ruby>安<rt>やす</rt></ruby>くなっています。<ruby>社長<rt>しゃちょう</rt></ruby>は「<ruby>今年<rt>ことし</rt></ruby>の<span\
+  \ style=\"color: blue;\">うなぎ</span>は<ruby>太<rt>ふと</rt></ruby>っていて、<ruby>特<rt>とく</rt></ruby>においしいので、ぜひ<ruby>食<rt>た</rt></ruby>べてほしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 鰻
+  descriptions:
+  - <ruby><rb>川</rb><rt>かわ</rt></ruby>やぬまにすむ、ぬるぬるした<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>海</rb><rt>うみ</rt></ruby>で<ruby><rb>卵</rb><rt>たまご</rt></ruby>からかえり、<ruby><rb>川</rb><rt>かわ</rt></ruby>に<ruby><rb>上</rb><rt>のぼ</rt></ruby>ってくる。かば<ruby><rb>焼</rb><rt>や</rt></ruby>きなどにして<ruby><rb>食</rb><rt>た</rt></ruby>べる。
+- word: トン
+  descriptions:
+  - メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。１トンは、１０００キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+  - <ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: 税関
+  descriptions:
+  - <ruby><rb>港</rb><rt>みなと</rt></ruby>や<ruby><rb>空港</rb><rt>くうこう</rt></ruby>や<ruby><rb>国境</rb><rt>こっきょう</rt></ruby>で、<ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>出入</rb><rt>でい</rt></ruby>りする<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、それに<ruby><rb>税金</rb><rt>ぜいきん</rt></ruby>をかけたりする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 捕れる
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+  - とることができる。
+web_news_url: /news/web/2017/07/19/土用のうしの日前にうなぎ輸入ピーク-成田空港/
+source_url: http://www3.nhk.or.jp/news/easy/k10011065281000/k10011065281000.html
+...

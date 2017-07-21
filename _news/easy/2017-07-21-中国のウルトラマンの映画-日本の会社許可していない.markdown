@@ -1,0 +1,73 @@
+---
+layout: easy_news
+newsid: k10011067271000
+categories: easy
+title: 中国のウルトラマンの映画　日本の会社「許可していない」
+title_with_ruby: <ruby>中国<rt>ちゅうごく</rt></ruby>のウルトラマンの<ruby>映画<rt>えいが</rt></ruby>　<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>「<ruby>許可<rt>きょか</rt></ruby>していない」
+last_modified_at: '2017-07-21T16:15:00+09:00'
+datetime: 2017年07月21日 16時15分
+description: 「ウルトラマン」は日本にっぽんのテレビ番組ばんぐみや映画えいがに出でてくるヒーローで、とても人気にんきがあります。
+description_with_ruby: 「ウルトラマン」は<ruby>日本<rt>にっぽん</rt></ruby>のテレビ<ruby>番組<rt>ばんぐみ</rt></ruby>や<ruby>映画<rt>えいが</rt></ruby>に<ruby>出<rt>で</rt></ruby>てくるヒーローで、とても<ruby>人気<rt>にんき</rt></ruby>があります。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/21/k10011067271000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/21/k10011067271000.mp3
+contents: "<p>「ウルトラマン」は<ruby>日本<rt>にっぽん</rt></ruby>のテレビ<ruby>番組<rt>ばんぐみ</rt></ruby>や<ruby>映画<rt>えいが</rt></ruby>に<ruby>出<rt>で</rt></ruby>てくる<span\
+  \ style=\"color: blue;\">ヒーロー</span>で、とても<span style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>があります。</p>\n\
+  <p><ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>１０日<rt>とおか</rt></ruby>、ウルトラマンの<ruby>新<rt>あたら</rt></ruby>しい<ruby>映画<rt>えいが</rt></ruby>を<ruby>今年<rt>ことし</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>公開<rt>こうかい</rt></ruby></span>すると<span style=\"color:\
+  \ blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<span style=\"color: blue;\"\
+  ><ruby>発表<rt>はっぴょう</rt></ruby></span>した<ruby>会場<rt>かいじょう</rt></ruby>では、ウルトラマンのような<ruby>格好<rt>かっこう</rt></ruby>をした<ruby>人<rt>ひと</rt></ruby>が<ruby>映画<rt>えいが</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>宣伝<rt>せんでん</rt></ruby></span>をしました。</p>\n<p>ウルトラマンのテレビ<ruby>番組<rt>ばんぐみ</rt></ruby>や<ruby>映画<rt>えいが</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っている<ruby>円谷<rt>つぶらや</rt></ruby>プロダクションは１９<ruby>日<rt>にち</rt></ruby>、「<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>たちの<span\
+  \ style=\"color: blue;\"><ruby>許可<rt>きょか</rt></ruby></span>をもらわないでウルトラマンを<ruby>使<rt>つか</rt></ruby>っているため、<ruby>法律<rt>ほうりつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>違反<rt>いはん</rt></ruby></span>しています。ウルトラマンの<span style=\"\
+  color: blue;\">イメージ</span>も<ruby>悪<rt>わる</rt></ruby>くしています」と<ruby>言<rt>い</rt></ruby>いました。<ruby>円谷<rt>つぶらや</rt></ruby>プロダクションは、<span\
+  \ style=\"color: blue;\"><ruby>裁判<rt>さいばん</rt></ruby></span>に<span style=\"color:\
+  \ blue;\"><ruby>訴<rt>うった</rt></ruby>える</span>ことも<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は「ウルトラマンを<ruby>日本<rt>にっぽん</rt></ruby><ruby>以外<rt>いがい</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う<span\
+  \ style=\"color: blue;\"><ruby>権利<rt>けんり</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>っている<ruby>会社<rt>かいしゃ</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>許可<rt>きょか</rt></ruby></span>をもらっているため、<ruby>法律<rt>ほうりつ</rt></ruby>には<span\
+  \ style=\"color: blue;\"><ruby>違反<rt>いはん</rt></ruby></span>していません」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 許可
+  descriptions:
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>ていたことを、よいと<ruby><rb>許</rb><rt>ゆる</rt></ruby>すこと。<ruby><rb>許</rb><rt>ゆる</rt></ruby>し。
+- word: ヒーロー
+  descriptions:
+  - <ruby><rb>英雄</rb><rt>えいゆう</rt></ruby>。
+  - もっとも<ruby><rb>活躍</rb><rt>かつやく</rt></ruby>した<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>小説</rb><rt>しょうせつ</rt></ruby>や<ruby><rb>物語</rb><rt>ものがたり</rt></ruby>などの、<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>主人公</rb><rt>しゅじんこう</rt></ruby>。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: 公開
+  descriptions:
+  - だれでも<ruby><rb>自由</rb><rt>じゆう</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>たり、<ruby><rb>聞</rb><rt>き</rt></ruby>いたり、<ruby><rb>使</rb><rt>つか</rt></ruby>ったりできるようにすること。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 宣伝
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>らせ<ruby><rb>広</rb><rt>ひろ</rt></ruby>めること。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>げさに<ruby><rb>言</rb><rt>い</rt></ruby>いふらすこと。
+- word: 違反
+  descriptions:
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。
+- word: イメージ
+  descriptions:
+  - <ruby><rb>想像</rb><rt>そうぞう</rt></ruby>して、<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にえがき<ruby><rb>出</rb><rt>だ</rt></ruby>す、ものの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+- word: 裁判
+  descriptions:
+  - <ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>が、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>にもとづいて、それがよいか<ruby><rb>悪</rb><rt>わる</rt></ruby>いかを<ruby><rb>決</rb><rt>き</rt></ruby>めること。
+- word: 訴える
+  descriptions:
+  - <ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>に<ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>て、よい<ruby><rb>悪</rb><rt>わる</rt></ruby>いを<ruby><rb>決</rb><rt>き</rt></ruby>めてもらう。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>心</rb><rt>こころ</rt></ruby>によびかける。
+  - <ruby><rb>不平</rb><rt>ふへい</rt></ruby>や<ruby><rb>痛</rb><rt>いた</rt></ruby>みなどを<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>言</rb><rt>い</rt></ruby>う。
+  - あるやり<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+- word: 権利
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>社会</rb><rt>しゃかい</rt></ruby>などの<ruby><rb>決</rb><rt>き</rt></ruby>まりで<ruby><rb>認</rb><rt>みと</rt></ruby>められている<ruby><rb>利益</rb><rt>りえき</rt></ruby>。
+  - あるものごとをすることのできる<ruby><rb>資格</rb><rt>しかく</rt></ruby>。
+web_news_url: /news/web/2017/07/21/中国のウルトラマンに円谷プロが抗議/
+source_url: http://www3.nhk.or.jp/news/easy/k10011067271000/k10011067271000.html
+...
