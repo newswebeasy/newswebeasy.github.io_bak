@@ -1,0 +1,65 @@
+---
+layout: easy_news
+newsid: k10011067031000
+categories: easy
+title: アルバイトとパートの時給が今まででいちばん高くなる
+title_with_ruby: アルバイトとパートの<ruby>時給<rt>じきゅう</rt></ruby>が<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>高<rt>たか</rt></ruby>くなる
+last_modified_at: '2017-07-21T16:15:00+09:00'
+datetime: 2017年07月21日 16時15分
+description: リクルートジョブズは、会社かいしゃがアルバイトやパートを募集ぼしゅうするときの、１時間じかんの給料きゅうりょうの「時給じきゅう」を調査ちょうさしています。
+description_with_ruby: リクルートジョブズは、<ruby>会社<rt>かいしゃ</rt></ruby>がアルバイトやパートを<ruby>募集<rt>ぼしゅう</rt></ruby>するときの、１<ruby>時間<rt>じかん</rt></ruby>の<ruby>給料<rt>きゅうりょう</rt></ruby>の「<ruby>時給<rt>じきゅう</rt></ruby>」を<ruby>調査<rt>ちょうさ</rt></ruby>しています。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/21/k10011067031000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/21/k10011067031000.mp3
+contents: "<p>リクルートジョブズは、<ruby>会社<rt>かいしゃ</rt></ruby>がアルバイトやパートを<span style=\"color:\
+  \ blue;\"><ruby>募集<rt>ぼしゅう</rt></ruby></span>するときの、１<ruby>時間<rt>じかん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>の「<ruby>時給<rt>じきゅう</rt></ruby>」を<span\
+  \ style=\"color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span>しています。この<span style=\"\
+  color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span>によると、<ruby>今年<rt>ことし</rt></ruby>の６<ruby>月<rt>がつ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>首都圏<rt>しゅとけん</rt></ruby></span>と<span style=\"color:\
+  \ blue;\"><ruby>関西地方<rt>かんさいちほう</rt></ruby></span>、<span style=\"color: blue;\"\
+  ><ruby>東海地方<rt>とうかいちほう</rt></ruby></span>の<span style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>の<ruby>時給<rt>じきゅう</rt></ruby>は１０１２<ruby>円<rt>えん</rt></ruby>でした。<ruby>去年<rt>きょねん</rt></ruby>の６<ruby>月<rt>がつ</rt></ruby>より２４<ruby>円<rt>えん</rt></ruby><ruby>上<rt>あ</rt></ruby>がって、<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>高<rt>たか</rt></ruby>くなりました。</p>\n\
+  <p><ruby>場所<rt>ばしょ</rt></ruby>で<ruby>比<rt>くら</rt></ruby>べると、いちばん<ruby>高<rt>たか</rt></ruby>かったのは<span\
+  \ style=\"color: blue;\"><ruby>首都圏<rt>しゅとけん</rt></ruby></span>で１０５１<ruby>円<rt>えん</rt></ruby>でした。<ruby>次<rt>つぎ</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>関西<rt>かんさい</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>地方<rt>ちほう</rt></ruby></span>で９７４<ruby>円<rt>えん</rt></ruby>、その<ruby>次<rt>つぎ</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>東海地方<rt>とうかいちほう</rt></ruby></span>で９５２<ruby>円<rt>えん</rt></ruby>でした。</p>\n\
+  <p><ruby>時給<rt>じきゅう</rt></ruby>がいちばん<ruby>上<rt>あ</rt></ruby>がった<ruby>仕事<rt>しごと</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>事務<rt>じむ</rt></ruby></span>で、<ruby>去年<rt>きょねん</rt></ruby>より４０<ruby>円<rt>えん</rt></ruby><ruby>上<rt>あ</rt></ruby>がって１０４９<ruby>円<rt>えん</rt></ruby>になりました。レストランなどで<ruby>働<rt>はたら</rt></ruby>く<ruby>仕事<rt>しごと</rt></ruby>は２４<ruby>円<rt>えん</rt></ruby><ruby>上<rt>あ</rt></ruby>がって、９７８<ruby>円<rt>えん</rt></ruby>になりました。</p>\n\
+  <p>リクルートジョブズは「<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくてアルバイトの<ruby>時給<rt>じきゅう</rt></ruby>を<ruby>何<rt>なん</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>上<rt>あ</rt></ruby>げる<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。<ruby>時給<rt>じきゅう</rt></ruby>はこれからも<ruby>上<rt>あ</rt></ruby>がると<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 募集
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>作品</rb><rt>さくひん</rt></ruby>などを、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>呼</rb><rt>よ</rt></ruby>びかけて<ruby><rb>集</rb><rt>あつ</rt></ruby>めること。
+- word: 給料
+  descriptions:
+  - やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。
+- word: 調査
+  descriptions:
+  - <ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: 首都圏
+  descriptions:
+  - <ruby><rb>東京都</rb><rt>とうきょうと</rt></ruby>とその<ruby><rb>周</rb><rt>まわ</rt></ruby>りの<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>では、<ruby><rb>一都七県</rb><rt>いっとしちけん</rt></ruby>（<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>・<ruby><rb>神奈川</rb><rt>かながわ</rt></ruby>・<ruby><rb>埼玉</rb><rt>さいたま</rt></ruby>・<ruby><rb>千葉</rb><rt>ちば</rt></ruby>の<ruby><rb>全部</rb><rt>ぜんぶ</rt></ruby>と、<ruby><rb>茨城</rb><rt>いばらき</rt></ruby>・<ruby><rb>栃木</rb><rt>とちぎ</rt></ruby>・<ruby><rb>群馬</rb><rt>ぐんま</rt></ruby>・<ruby><rb>山梨</rb><rt>やまなし</rt></ruby>の<ruby><rb>一部</rb><rt>いちぶ</rt></ruby>）をさす。
+- word: 関西
+  descriptions:
+  - <ruby><rb>京都</rb><rt>きょうと</rt></ruby>・<ruby><rb>大阪</rb><rt>おおさか</rt></ruby>・<ruby><rb>神戸</rb><rt>こうべ</rt></ruby>・<ruby><rb>奈良</rb><rt>なら</rt></ruby>などの<ruby><rb>地方</rb><rt>ちほう</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>すことば。
+- word: 東海地方
+  descriptions:
+  - <ruby><rb>本州中央部</rb><rt>ほんしゅうちゅうおうぶ</rt></ruby>の<ruby><rb>太平洋側</rb><rt>たいへいようがわ</rt></ruby>の<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>静岡</rb><rt>しずおか</rt></ruby>・<ruby><rb>愛知</rb><rt>あいち</rt></ruby>・<ruby><rb>三重</rb><rt>みえ</rt></ruby>の<ruby><rb>三県</rb><rt>さんけん</rt></ruby>と<ruby><rb>岐阜県</rb><rt>ぎふけん</rt></ruby>の<ruby><rb>南部</rb><rt>なんぶ</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>す。
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+- word: 関西
+  descriptions:
+  - <ruby><rb>京都</rb><rt>きょうと</rt></ruby>・<ruby><rb>大阪</rb><rt>おおさか</rt></ruby>・<ruby><rb>神戸</rb><rt>こうべ</rt></ruby>・<ruby><rb>奈良</rb><rt>なら</rt></ruby>などの<ruby><rb>地方</rb><rt>ちほう</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>すことば。
+- word: 地方
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、ある<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。
+  - <ruby><rb>首都</rb><rt>しゅと</rt></ruby>でない<ruby><rb>土地</rb><rt>とち</rt></ruby>。いなか。
+- word: 事務
+  descriptions:
+  - <ruby><rb>役所</rb><rt>やくしょ</rt></ruby>や<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>などで、おもに<ruby><rb>机</rb><rt>つくえ</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>でする<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。
+web_news_url: /news/web/2017/07/21/アルバイトパートの時給-3大都市圏で過去最高/
+source_url: http://www3.nhk.or.jp/news/easy/k10011067031000/k10011067031000.html
+...
