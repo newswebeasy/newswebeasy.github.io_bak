@@ -1,0 +1,59 @@
+---
+layout: easy_news
+newsid: k10011065641000
+categories: easy
+title: 人工衛星の「みちびき」を使って自動で走るバスの実験
+title_with_ruby: <ruby>人工衛星<rt>じんこうえいせい</rt></ruby>の「みちびき」を<ruby>使<rt>つか</rt></ruby>って<ruby>自動<rt>じどう</rt></ruby>で<ruby>走<rt>はし</rt></ruby>るバスの<ruby>実験<rt>じっけん</rt></ruby>
+last_modified_at: '2017-07-21T11:30:00+09:00'
+datetime: 2017年07月21日 11時30分
+description: 「みちびき」は、スマートフォンや車くるまなどに場所ばしょを知しらせる人工衛星じんこうえいせいです。
+description_with_ruby: 「みちびき」は、スマートフォンや<ruby>車<rt>くるま</rt></ruby>などに<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>知<rt>し</rt></ruby>らせる<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/21/k10011065641000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/21/k10011065641000.mp3
+contents: "<p>「みちびき」は、スマートフォンや<ruby>車<rt>くるま</rt></ruby>などに<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>知<rt>し</rt></ruby>らせる<span\
+  \ style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>です。<ruby>今<rt>いま</rt></ruby>はアメリカの<span\
+  \ style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>っていて、１０ｍぐらい<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>間違<rt>まちが</rt></ruby>えることがあります。<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>までに「みちびき」も<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使<rt>つか</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>間違<rt>まちが</rt></ruby>い</span>を１０ｃｍより<ruby>小<rt>ちい</rt></ruby>さくしようと<ruby>計画<rt>けいかく</rt></ruby>しています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は「みちびき」を<ruby>使<rt>つか</rt></ruby>って、バスを<span\
+  \ style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>走<rt>はし</rt></ruby>らせる<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>を、<ruby>今年<rt>ことし</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby>から<ruby>沖縄県<rt>おきなわけん</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>うことにしました。「みちびき」を<ruby>使<rt>つか</rt></ruby>うと、<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くて<span\
+  \ style=\"color: blue;\"><ruby>性能<rt>せいのう</rt></ruby></span>がいい<span style=\"color:\
+  \ blue;\">レーダー</span>やカメラを<ruby>使<rt>つか</rt></ruby>わなくても、バスを<span style=\"color:\
+  \ blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>走<rt>はし</rt></ruby>らせることができると<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う<span\
+  \ style=\"color: blue;\">オリンピック</span>と<span style=\"color: blue;\">パラリンピック</span>の<ruby>会場<rt>かいじょう</rt></ruby>などで、「みちびき」を<ruby>使<rt>つか</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>走<rt>はし</rt></ruby>るバスを<ruby>使<rt>つか</rt></ruby>いたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 人工衛星
+  descriptions:
+  - ロケットで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げ、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>るようにした、<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>。<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>のようすや<ruby><rb>気象</rb><rt>きしょう</rt></ruby>などを<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>などの<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>の<ruby><rb>中継</rb><rt>ちゅうけい</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>てたりする。
+- word: 自動
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。
+- word: 実験
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。
+- word: 間違い
+  descriptions:
+  - まちがえてしまうこと。あやまり。
+  - よくないできごと。<ruby><rb>事故</rb><rt>じこ</rt></ruby>。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 性能
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などの<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>やはたらきぐあい。
+- word: レーダー
+  descriptions:
+  - <ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>によって<ruby><rb>遠</rb><rt>とお</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>にある<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>位置</rb><rt>いち</rt></ruby>や<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>をさぐる<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>電波探知機</rb><rt>でんぱたんちき</rt></ruby>。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+web_news_url: /news/web/2017/07/20/GPS衛星みちびきで-バスの自動運転実証実験へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011065641000/k10011065641000.html
+...
