@@ -1,0 +1,67 @@
+---
+layout: easy_news
+newsid: k10011070741000
+categories: easy
+title: イエメンで３７万人がコレラという病気になった可能性
+title_with_ruby: イエメンで３７<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>がコレラという<ruby>病気<rt>びょうき</rt></ruby>になった<ruby>可能性<rt>かのうせい</rt></ruby>
+last_modified_at: '2017-07-24T15:50:00+09:00'
+datetime: 2017年07月24日 15時50分
+description: イエメンでは国くにの中なかで２年ねん以上いじょう戦争せんそうが続つづいています。
+description_with_ruby: イエメンでは<ruby>国<rt>くに</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で２<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>戦争<rt>せんそう</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/24/k10011070741000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/24/k10011070741000.mp3
+contents: "<p>イエメンでは<ruby>国<rt>くに</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で２<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>戦争<rt>せんそう</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。<ruby>自分<rt>じぶん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>に<ruby>住<rt>す</rt></ruby>むことができなくて、ほかの<ruby>町<rt>まち</rt></ruby>に<ruby>逃<rt>に</rt></ruby>げている<ruby>人<rt>ひと</rt></ruby>は２００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>います。</p>\n\
+  <p>イエメンでは、<span style=\"color: blue;\">コレラ</span>という<ruby>病気<rt>びょうき</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>広<rt>ひろ</rt></ruby>がっ</span>ています。<span style=\"color:\
+  \ blue;\">コレラ</span>になった<span style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>は３７<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>になっています。イエメンで<ruby>病気<rt>びょうき</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>け</span>ている<ruby>赤十字国際委員会<rt>せきじゅうじこくさいいいんかい</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまでに、６０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<span\
+  \ style=\"color: blue;\">コレラ</span>になる<span style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>イエメンでは、<ruby>戦争<rt>せんそう</rt></ruby>で<ruby>半分<rt>はんぶん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>で<ruby>病気<rt>びょうき</rt></ruby>やけがの<span\
+  \ style=\"color: blue;\"><ruby>治療<rt>ちりょう</rt></ruby></span>ができなくなっています。<ruby>道<rt>みち</rt></ruby>にごみがたくさんあったり、<span\
+  \ style=\"color: blue;\"><ruby>下水<rt>げすい</rt></ruby></span>をきれいにすることができなかったりして、<ruby>町<rt>まち</rt></ruby>が<ruby>汚<rt>きたな</rt></ruby>くなっています。このようなことが、<span\
+  \ style=\"color: blue;\">コレラ</span>が<span style=\"color: blue;\"><ruby>広<rt>ひろ</rt></ruby>がる</span><ruby>原因<rt>げんいん</rt></ruby>になっています。</p>\n\
+  <p><ruby>赤十字国際委員会<rt>せきじゅうじこくさいいいんかい</rt></ruby>は、<span style=\"color: blue;\">コレラ</span>が<span\
+  \ style=\"color: blue;\"><ruby>広<rt>ひろ</rt></ruby>がら</span>ないように<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>にもっと<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>してほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>\n<p></p>"
+words:
+- word: コレラ
+  descriptions:
+  - <ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。コレラ<ruby><rb>菌</rb><rt>きん</rt></ruby>によって<ruby><rb>発病</rb><rt>はつびょう</rt></ruby>し、<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と、<ruby><rb>激</rb><rt>はげ</rt></ruby>しい<ruby><rb>下痢</rb><rt>げり</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 広がる
+  descriptions:
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>くなる。
+  - <ruby><rb>広々</rb><rt>ひろびろ</rt></ruby>と<ruby><rb>見</rb><rt>み</rt></ruby>わたせる。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+- word: 治療
+  descriptions:
+  - <ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがの<ruby><rb>手当</rb><rt>てあ</rt></ruby>てをして<ruby><rb>治</rb><rt>なお</rt></ruby>すこと。
+- word: 下水
+  descriptions:
+  - <ruby><rb>使</rb><rt>つか</rt></ruby>ったあとのよごれた<ruby><rb>水</rb><rt>みず</rt></ruby>。また、その<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>流</rb><rt>なが</rt></ruby>すみぞや<ruby><rb>管</rb><rt>くだ</rt></ruby>。
+- word: 広がる
+  descriptions:
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>くなる。
+  - <ruby><rb>広々</rb><rt>ひろびろ</rt></ruby>と<ruby><rb>見</rb><rt>み</rt></ruby>わたせる。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+- word: 広がる
+  descriptions:
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>くなる。
+  - <ruby><rb>広々</rb><rt>ひろびろ</rt></ruby>と<ruby><rb>見</rb><rt>み</rt></ruby>わたせる。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+web_news_url: /news/web/2017/07/24/内戦続くイエメン-コレラ感染の疑い-60万人以上のおそれ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011070741000/k10011070741000.html
+...
