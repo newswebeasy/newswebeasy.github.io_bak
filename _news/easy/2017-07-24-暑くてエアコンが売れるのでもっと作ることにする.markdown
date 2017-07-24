@@ -1,0 +1,47 @@
+---
+layout: easy_news
+newsid: k10011069331000
+categories: easy
+title: 暑くてエアコンが売れるのでもっと作ることにする
+title_with_ruby: <ruby>暑<rt>あつ</rt></ruby>くてエアコンが<ruby>売<rt>う</rt></ruby>れるのでもっと<ruby>作<rt>つく</rt></ruby>ることにする
+last_modified_at: '2017-07-24T15:50:00+09:00'
+datetime: 2017年07月24日 15時50分
+description: 最近さいきんとても暑あつい日ひが続つづいていて、エアコンが売うれています。
+description_with_ruby: <ruby>最近<rt>さいきん</rt></ruby>とても<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いていて、エアコンが<ruby>売<rt>う</rt></ruby>れています。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/24/k10011069331000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/24/k10011069331000.mp3
+contents: "<p><ruby>最近<rt>さいきん</rt></ruby>とても<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いていて、エアコンが<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れ</span>ています。エアコンの<ruby>会社<rt>かいしゃ</rt></ruby>や<ruby>店<rt>みせ</rt></ruby>は、エアコンをもっとたくさん<ruby>作<rt>つく</rt></ruby>って<ruby>売<rt>う</rt></ruby>りたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p>ダイキン<ruby>工業<rt>こうぎょう</rt></ruby>の<ruby>滋賀県<rt>しがけん</rt></ruby>にある<ruby>工場<rt>こうじょう</rt></ruby>では、<ruby>去年<rt>きょねん</rt></ruby>より１０％ぐらい<ruby>多<rt>おお</rt></ruby>くエアコンを<ruby>作<rt>つく</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>は、これからも<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>きそうなので、<span\
+  \ style=\"color: blue;\"><ruby>平日<rt>へいじつ</rt></ruby></span>の<ruby>昼<rt>ひる</rt></ruby>と<ruby>夜<rt>よる</rt></ruby>だけではなくて、<ruby>休<rt>やす</rt></ruby>みの<ruby>日<rt>ひ</rt></ruby>もエアコンを<ruby>作<rt>つく</rt></ruby>ることを<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><ruby>東京都<rt>とうきょうと</rt></ruby>にある<span style=\"color: blue;\"><ruby>電化製品<rt>でんかせいひん</rt></ruby></span>を<ruby>売<rt>う</rt></ruby>る<ruby>店<rt>みせ</rt></ruby>では、エアコンの<ruby>売<rt>う</rt></ruby>り<ruby>場<rt>ば</rt></ruby>を<ruby>大<rt>おお</rt></ruby>きくしました。<ruby>店<rt>みせ</rt></ruby>によると、<ruby>今月<rt>こんげつ</rt></ruby>はエアコンが<ruby>去年<rt>きょねん</rt></ruby>の１．６<ruby>倍<rt>ばい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れ</span>ています。<ruby>今年<rt>ことし</rt></ruby>は、<ruby>部屋<rt>へや</rt></ruby>にいる<ruby>人<rt>ひと</rt></ruby><span\
+  \ style=\"color: blue;\">それぞれ</span>に<ruby>合<rt>あ</rt></ruby>う<span style=\"color:\
+  \ blue;\"><ruby>温度<rt>おんど</rt></ruby></span>にする、<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いエアコンが<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れ</span>ています。<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>今<rt>いま</rt></ruby>までエアコンがなかった<ruby>子<rt>こ</rt></ruby>どもの<ruby>部屋<rt>へや</rt></ruby>などに<ruby>買<rt>か</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>"
+words:
+- word: 売れる
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。
+- word: 売れる
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。
+- word: 平日
+  descriptions:
+  - <ruby><rb>休</rb><rt>やす</rt></ruby>みの<ruby><rb>日</rb><rt>ひ</rt></ruby>でも<ruby><rb>祝日</rb><rt>しゅくじつ</rt></ruby>でもない<ruby><rb>日</rb><rt>ひ</rt></ruby>。ふつうの<ruby><rb>日</rb><rt>ひ</rt></ruby>。
+  - いつも。ふだん。
+- word: 電化製品
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って、はたらかせる<ruby><rb>機械</rb><rt>きかい</rt></ruby>。<ruby><rb>電気冷蔵庫</rb><rt>でんきれいぞうこ</rt></ruby>・<ruby><rb>電気洗濯機</rb><rt>でんきせんたくき</rt></ruby>など。
+- word: それぞれ
+  descriptions:
+  - めいめい。おのおの。
+- word: 温度
+  descriptions:
+  - <ruby><rb>熱</rb><rt>あつ</rt></ruby>さや<ruby><rb>冷</rb><rt>つめ</rt></ruby>たさの<ruby><rb>度合</rb><rt>どあ</rt></ruby>いを<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。
+web_news_url: /news/web/2017/07/22/猛暑でエアコン増産-販売も強化/
+source_url: http://www3.nhk.or.jp/news/easy/k10011069331000/k10011069331000.html
+...
