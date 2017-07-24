@@ -1,0 +1,41 @@
+---
+layout: easy_news
+newsid: k10011066251000
+categories: easy
+title: 愛媛県　空港にみかんのジュースが出る蛇口ができる
+title_with_ruby: <ruby>愛媛県<rt>えひめけん</rt></ruby>　<ruby>空港<rt>くうこう</rt></ruby>にみかんのジュースが<ruby>出<rt>で</rt></ruby>る<ruby>蛇口<rt>じゃぐち</rt></ruby>ができる
+last_modified_at: '2017-07-24T11:30:00+09:00'
+datetime: 2017年07月24日 11時30分
+description: 愛媛県えひめけんの松山空港まつやまくうこうに２０日はつか、みかんのジュースが出でる蛇口じゃぐちができました。
+description_with_ruby: <ruby>愛媛県<rt>えひめけん</rt></ruby>の<ruby>松山空港<rt>まつやまくうこう</rt></ruby>に<ruby>２０日<rt>はつか</rt></ruby>、みかんのジュースが<ruby>出<rt>で</rt></ruby>る<ruby>蛇口<rt>じゃぐち</rt></ruby>ができました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/24/k10011066251000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/24/k10011066251000.mp3
+contents: "<p><ruby>愛媛県<rt>えひめけん</rt></ruby>の<ruby>松山空港<rt>まつやまくうこう</rt></ruby>に<ruby>２０日<rt>はつか</rt></ruby>、<span\
+  \ style=\"color: blue;\">みかん</span>のジュースが<ruby>出<rt>で</rt></ruby>る<span style=\"\
+  color: blue;\"><ruby>蛇口<rt>じゃぐち</rt></ruby></span>ができました。<ruby>愛媛県<rt>えひめけん</rt></ruby>で<span\
+  \ style=\"color: blue;\">みかん</span>をたくさん<ruby>生産<rt>せいさん</rt></ruby>していることを<span\
+  \ style=\"color: blue;\"><ruby>宣伝<rt>せんでん</rt></ruby></span>するためです。</p>\n<p><span\
+  \ style=\"color: blue;\"><ruby>蛇口<rt>じゃぐち</rt></ruby></span>は、「ＯｒａｎｇｅＢＡＲ」という<ruby>店<rt>みせ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にあります。<ruby>客<rt>きゃく</rt></ruby>は<ruby>店<rt>みせ</rt></ruby>でコップを<ruby>買<rt>か</rt></ruby>って、<ruby>自分<rt>じぶん</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>蛇口<rt>じゃぐち</rt></ruby></span>からジュースを<ruby>入<rt>い</rt></ruby>れます。コップにはジュースを３００ｍＬ<ruby>入<rt>い</rt></ruby>れることができて、<ruby>値段<rt>ねだん</rt></ruby>は３５０<ruby>円<rt>えん</rt></ruby>です。</p>\n\
+  <p>５<ruby>歳<rt>さい</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>蛇口<rt>じゃぐち</rt></ruby></span>からジュースが<ruby>出<rt>で</rt></ruby>てきてびっくりしました。おいしかったです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>愛媛県<rt>えひめけん</rt></ruby>では、<span style=\"color: blue;\"><ruby>観光地<rt>かんこうち</rt></ruby></span>などにも<span\
+  \ style=\"color: blue;\">みかん</span>のジュースが<ruby>出<rt>で</rt></ruby>る<span style=\"\
+  color: blue;\"><ruby>蛇口<rt>じゃぐち</rt></ruby></span>があります。</p>\n<p></p>\n<p></p>"
+words:
+- word: 蜜柑
+  descriptions:
+  - <ruby><rb>暖</rb><rt>あたた</rt></ruby>かい<ruby><rb>地方</rb><rt>ちほう</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>果物</rb><rt>くだもの</rt></ruby>の<ruby><rb>木</rb><rt>き</rt></ruby>。また、その<ruby><rb>実</rb><rt>み</rt></ruby>。<ruby><rb>六月</rb><rt>ろくがつ</rt></ruby>ごろ<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>き、<ruby><rb>秋</rb><rt>あき</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりに<ruby><rb>実</rb><rt>み</rt></ruby>がなる。あまみ・<ruby><rb>酸味</rb><rt>さんみ</rt></ruby>がある。
+- word: 蛇口
+  descriptions:
+  - <ruby><rb>水道</rb><rt>すいどう</rt></ruby>の<ruby><rb>管</rb><rt>かん</rt></ruby>の<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>りつけた、<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>口</rb><rt>くち</rt></ruby>。
+- word: 宣伝
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>らせ<ruby><rb>広</rb><rt>ひろ</rt></ruby>めること。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>げさに<ruby><rb>言</rb><rt>い</rt></ruby>いふらすこと。
+- word: 観光地
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>が<ruby><rb>美</rb><rt>うつく</rt></ruby>しかったり、<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>があったりして、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+web_news_url: /news/web/2017/07/20/蛇口ひねればみかんジュース-松山空港/
+source_url: http://www3.nhk.or.jp/news/easy/k10011066251000/k10011066251000.html
+...
