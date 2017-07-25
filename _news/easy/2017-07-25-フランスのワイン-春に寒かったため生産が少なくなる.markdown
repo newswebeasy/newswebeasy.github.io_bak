@@ -1,0 +1,45 @@
+---
+layout: easy_news
+newsid: k10011071351000
+categories: easy
+title: フランスのワイン　春に寒かったため生産が少なくなる
+title_with_ruby: フランスのワイン　<ruby>春<rt>はる</rt></ruby>に<ruby>寒<rt>さむ</rt></ruby>かったため<ruby>生産<rt>せいさん</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなる
+last_modified_at: '2017-07-25T11:30:00+09:00'
+datetime: 2017年07月25日 11時30分
+description: フランスの政府せいふは、今年ことしのワインの生産せいさんは、去年きょねんより１７％少すくなくなると言いっています。
+description_with_ruby: フランスの<ruby>政府<rt>せいふ</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby>のワインの<ruby>生産<rt>せいさん</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>より１７％<ruby>少<rt>すく</rt></ruby>なくなると<ruby>言<rt>い</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/25/k10011071351000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/25/k10011071351000.mp3
+contents: "<p>フランスの<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<ruby>今年<rt>ことし</rt></ruby>の<span\
+  \ style=\"color: blue;\">ワイン</span>の<ruby>生産<rt>せいさん</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>より１７％<ruby>少<rt>すく</rt></ruby>なくなると<ruby>言<rt>い</rt></ruby>っています。<ruby>春<rt>はる</rt></ruby>、ボルドーなどぶどうを<ruby>作<rt>つく</rt></ruby>っている<ruby>所<rt>ところ</rt></ruby>がとても<ruby>寒<rt>さむ</rt></ruby>かったためです。<span\
+  \ style=\"color: blue;\"><ruby>霜<rt>しも</rt></ruby></span>が<ruby>原因<rt>げんいん</rt></ruby>でぶどうの<ruby>生産<rt>せいさん</rt></ruby>がとても<ruby>少<rt>すく</rt></ruby>なかった１９９１<ruby>年<rt>ねん</rt></ruby>より、<ruby>今年<rt>ことし</rt></ruby>はもっと<ruby>少<rt>すく</rt></ruby>なくなる<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。</p>\n<p><ruby>外国<rt>がいこく</rt></ruby>のテレビなどは、１２００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>になると<ruby>伝<rt>つた</rt></ruby>えています。<ruby>日本<rt>にっぽん</rt></ruby>はフランスからたくさん<span\
+  \ style=\"color: blue;\">ワイン</span>を<ruby>輸入<rt>ゆにゅう</rt></ruby>しているため、<span style=\"\
+  color: blue;\"><ruby>影響<rt>えいきょう</rt></ruby></span>があるかもしれません。</p>\n<p><span style=\"\
+  color: blue;\">ワイン</span>の<ruby>専門家<rt>せんもんか</rt></ruby>のフランス<ruby>人<rt>じん</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>生産<rt>せいさん</rt></ruby>は<ruby>少<rt>すく</rt></ruby>なくなりますが、<ruby>今年<rt>ことし</rt></ruby>の<span\
+  \ style=\"color: blue;\">ワイン</span>がおいしいかどうかは、これからの<ruby>天気<rt>てんき</rt></ruby>で<ruby>決<rt>き</rt></ruby>まります」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ワイン
+  descriptions:
+  - ブドウの<ruby><rb>実</rb><rt>み</rt></ruby>のしるを<ruby><rb>発酵</rb><rt>はっこう</rt></ruby>させて<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>酒</rb><rt>さけ</rt></ruby>。ぶどう<ruby><rb>酒</rb><rt>しゅ</rt></ruby>。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 霜
+  descriptions:
+  - <ruby><rb>晴</rb><rt>は</rt></ruby>れた<ruby><rb>寒</rb><rt>さむ</rt></ruby>い<ruby><rb>夜</rb><rt>よる</rt></ruby>に、<ruby><rb>空気中</rb><rt>くうきちゅう</rt></ruby>の<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>が<ruby><rb>地面</rb><rt>じめん</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>についてこおったもの。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 影響
+  descriptions:
+  - あるものごとが、ほかのものごとに<ruby><rb>力</rb><rt>ちから</rt></ruby>をおよぼして、そのようすを<ruby><rb>変</rb><rt>か</rt></ruby>えること。
+web_news_url: /news/web/2017/07/24/フランスワイン-生産量は天候不順で歴史的な低水準か/
+source_url: http://www3.nhk.or.jp/news/easy/k10011071351000/k10011071351000.html
+...
