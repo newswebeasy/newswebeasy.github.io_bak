@@ -1,0 +1,80 @@
+---
+layout: easy_news
+newsid: k10011072251000
+categories: easy
+title: オリンピックまで３年　新しい「東京五輪音頭」ができる
+title_with_ruby: オリンピックまで３<ruby>年<rt>ねん</rt></ruby>　<ruby>新<rt>あたら</rt></ruby>しい「<ruby>東京五輪音頭<rt>とうきょうごりんおんど</rt></ruby>」ができる
+last_modified_at: '2017-07-25T16:20:00+09:00'
+datetime: 2017年07月25日 16時20分
+description: ７月がつ２４日にじゅうよっか、２０２０年ねんの東京とうきょうオリンピックが始はじまるまで、あと３年ねんになりました。
+description_with_ruby: ７<ruby>月<rt>がつ</rt></ruby><ruby>２４日<rt>にじゅうよっか</rt></ruby>、２０２０<ruby>年<rt>ねん</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby>オリンピックが<ruby>始<rt>はじ</rt></ruby>まるまで、あと３<ruby>年<rt>ねん</rt></ruby>になりました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/25/k10011072251000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/25/k10011072251000.mp3
+contents: "<p>７<ruby>月<rt>がつ</rt></ruby><ruby>２４日<rt>にじゅうよっか</rt></ruby>、２０２０<ruby>年<rt>ねん</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby>オリンピックが<ruby>始<rt>はじ</rt></ruby>まるまで、あと３<ruby>年<rt>ねん</rt></ruby>になりました。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>で<ruby>２４日<rt>にじゅうよっか</rt></ruby>、「<ruby>東京<rt>とうきょう</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>五輪<rt>ごりん</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>音頭<rt>おんど</rt></ruby></span>ー２０２０－」という<ruby>歌<rt>うた</rt></ruby>と<ruby>踊<rt>おど</rt></ruby>りを<ruby>紹介<rt>しょうかい</rt></ruby>する<span\
+  \ style=\"color: blue;\">イベント</span>がありました。この<ruby>歌<rt>うた</rt></ruby>は、１９６４<ruby>年<rt>ねん</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby>オリンピックのときに<ruby>作<rt>つく</rt></ruby>った「<ruby>東京五輪音頭<rt>とうきょうごりんおんど</rt></ruby>」を<ruby>少<rt>すこ</rt></ruby>し<ruby>変<rt>か</rt></ruby>えて<ruby>新<rt>あたら</rt></ruby>しくしました。２０２０<ruby>年<rt>ねん</rt></ruby>の<span\
+  \ style=\"color: blue;\">オリンピック</span>は<ruby>夏<rt>なつ</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>うので、「<span\
+  \ style=\"color: blue;\"><ruby>入道雲<rt>にゅうどうぐも</rt></ruby></span>」や「<span style=\"\
+  color: blue;\"><ruby>蝉<rt>せみ</rt></ruby></span>の<ruby>声<rt>こえ</rt></ruby>」など<ruby>夏<rt>なつ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>表<rt>あらわ</rt></ruby>す</span>ことばを<ruby>使<rt>つか</rt></ruby>っています。</p>\n\
+  <p><span style=\"color: blue;\">イベント</span>には、３<ruby>人<rt>にん</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>歌手<rt>かしゅ</rt></ruby></span>と<span style=\"color: blue;\">オリンピック</span>や<span\
+  \ style=\"color: blue;\">パラリンピック</span>に<ruby>出<rt>で</rt></ruby>た<span style=\"\
+  color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>なども<ruby>出席<rt>しゅっせき</rt></ruby>して、<ruby>歌<rt>うた</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>合<rt>あ</rt></ruby>わせ</span>て<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>踊<rt>おど</rt></ruby>りました。<span\
+  \ style=\"color: blue;\"><ruby>歌手<rt>かしゅ</rt></ruby></span>の<ruby>石川<rt>いしかわ</rt></ruby>さゆりさんは「<ruby>元気<rt>げんき</rt></ruby>で、<ruby>明<rt>あか</rt></ruby>るく<span\
+  \ style=\"color: blue;\"><ruby>平和<rt>へいわ</rt></ruby></span>に<span style=\"color:\
+  \ blue;\">オリンピック</span>を<ruby>迎<rt>むか</rt></ruby>えることができるように、<ruby>歌<rt>うた</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>応援<rt>おうえん</rt></ruby></span>したいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: 五輪
+  descriptions:
+  - オリンピックのしるし。<ruby><rb>左</rb><rt>ひだり</rt></ruby>から<ruby><rb>青</rb><rt>あお</rt></ruby>・<ruby><rb>黄</rb><rt>き</rt></ruby>・<ruby><rb>黒</rb><rt>くろ</rt></ruby>・<ruby><rb>緑</rb><rt>みどり</rt></ruby>・<ruby><rb>赤</rb><rt>あか</rt></ruby>の<ruby><rb>順</rb><rt>じゅん</rt></ruby>に、<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>輪</rb><rt>わ</rt></ruby>で<ruby><rb>五大陸</rb><rt>ごたいりく</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>したマーク。また、オリンピックのこと。
+- word: 音頭
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>で<ruby><rb>歌</rb><rt>うた</rt></ruby>うとき、<ruby><rb>一人</rb><rt>ひとり</rt></ruby>が<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>歌</rb><rt>うた</rt></ruby>い<ruby><rb>始</rb><rt>はじ</rt></ruby>めて<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>ること。
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>で<ruby><rb>歌</rb><rt>うた</rt></ruby>ったりおどったりするための<ruby><rb>歌</rb><rt>うた</rt></ruby>やおどり。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 入道雲
+  descriptions:
+  - <ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>天気</rb><rt>てんき</rt></ruby>のよい<ruby><rb>日</rb><rt>ひ</rt></ruby>に、もくもくと<ruby><rb>空</rb><rt>そら</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>がる<ruby><rb>雲</rb><rt>くも</rt></ruby>。<ruby><rb>積乱雲</rb><rt>せきらんうん</rt></ruby>。かみなり<ruby><rb>雲</rb><rt>ぐも</rt></ruby>。
+- word: 蟬
+  descriptions:
+  - <ruby><rb>四枚</rb><rt>よんまい</rt></ruby>の<ruby><rb>羽</rb><rt>はね</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>ち、<ruby><rb>夏</rb><rt>なつ</rt></ruby>に<ruby><rb>木</rb><rt>き</rt></ruby>に<ruby><rb>止</rb><rt>と</rt></ruby>まって、<ruby><rb>雄</rb><rt>おす</rt></ruby>は<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>声</rb><rt>こえ</rt></ruby>で<ruby><rb>鳴</rb><rt>な</rt></ruby>く<ruby><rb>昆虫</rb><rt>こんちゅう</rt></ruby>。<ruby><rb>幼虫</rb><rt>ようちゅう</rt></ruby>は、<ruby><rb>土</rb><rt>つち</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で<ruby><rb>何年</rb><rt>なんねん</rt></ruby>も<ruby><rb>過</rb><rt>す</rt></ruby>ごす。
+- word: 表す
+  descriptions:
+  - <ruby><rb>気持</rb><rt>きも</rt></ruby>ちや<ruby><rb>考</rb><rt>かんが</rt></ruby>えなどを、ことばや<ruby><rb>表情</rb><rt>ひょうじょう</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>したり、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>などにしたりする。
+- word: 歌手
+  descriptions:
+  - <ruby><rb>歌</rb><rt>うた</rt></ruby>を<ruby><rb>歌</rb><rt>うた</rt></ruby>うことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 合わせる
+  descriptions:
+  - <ruby><rb>足</rb><rt>た</rt></ruby>して<ruby><rb>一</rb><rt>ひと</rt></ruby>つにする。いっしょにする。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じにする。そろえる。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じかどうか<ruby><rb>比</rb><rt>くら</rt></ruby>べる。
+- word: 平和
+  descriptions:
+  - おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。
+- word: 応援
+  descriptions:
+  - <ruby><rb>味方</rb><rt>みかた</rt></ruby>を、はげますこと。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>をかして<ruby><rb>助</rb><rt>たす</rt></ruby>けること。
+web_news_url: /news/web/2017/07/24/五輪まで3年-現代風の東京五輪音頭披露/
+source_url: http://www3.nhk.or.jp/news/easy/k10011072251000/k10011072251000.html
+...
