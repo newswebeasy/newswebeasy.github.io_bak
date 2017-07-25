@@ -1,0 +1,49 @@
+---
+layout: easy_news
+newsid: k10011072961000
+categories: easy
+title: 北朝鮮　ビールを楽しむイベントが中止になる
+title_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>　ビールを<ruby>楽<rt>たの</rt></ruby>しむイベントが<ruby>中止<rt>ちゅうし</rt></ruby>になる
+last_modified_at: '2017-07-25T16:20:00+09:00'
+datetime: 2017年07月25日 16時20分
+description: 北朝鮮きたちょうせんは、外国がいこくからたくさんの人ひとに旅行りょこうに来きてもらうため、北朝鮮きたちょうせんのビールを楽たのしむイベントを去年きょねん始はじめました。
+description_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は、<ruby>外国<rt>がいこく</rt></ruby>からたくさんの<ruby>人<rt>ひと</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>てもらうため、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のビールを<ruby>楽<rt>たの</rt></ruby>しむイベントを<ruby>去年<rt>きょねん</rt></ruby><ruby>始<rt>はじ</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/25/k10011072961000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/25/k10011072961000.mp3
+contents: "<p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は、<ruby>外国<rt>がいこく</rt></ruby>からたくさんの<ruby>人<rt>ひと</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>てもらうため、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<span\
+  \ style=\"color: blue;\">ビール</span>を<ruby>楽<rt>たの</rt></ruby>しむ<span style=\"color:\
+  \ blue;\">イベント</span>を<ruby>去年<rt>きょねん</rt></ruby><ruby>始<rt>はじ</rt></ruby>めました。<ruby>今年<rt>ことし</rt></ruby>も７<ruby>月<rt>がつ</rt></ruby>２６<ruby>日<rt>にち</rt></ruby>〜８<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>にピョンヤンでこの<span\
+  \ style=\"color: blue;\">イベント</span>を<ruby>行<rt>おこな</rt></ruby>う<ruby>予定<rt>よてい</rt></ruby>でした。７<ruby>月<rt>がつ</rt></ruby>１７<ruby>日<rt>にち</rt></ruby>には、<span\
+  \ style=\"color: blue;\">イベント</span>で<ruby>出<rt>だ</rt></ruby>す<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\">ビール</span>をテレビなどで<ruby>紹介<rt>しょうかい</rt></ruby>しました。</p>\n\
+  <p>しかし、<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>旅行会社<rt>りょこうがいしゃ</rt></ruby>などによると、この<span\
+  \ style=\"color: blue;\">イベント</span>が<ruby>中止<rt>ちゅうし</rt></ruby>になったことがわかりました。</p>\n\
+  <p><ruby>旅行会社<rt>りょこうがいしゃ</rt></ruby>は「<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>では<ruby>最近<rt>さいきん</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくて<span\
+  \ style=\"color: blue;\"><ruby>農作物<rt>のうさくぶつ</rt></ruby></span>があまりできないため、<ruby>中止<rt>ちゅうし</rt></ruby>になったかもしれない」と<ruby>言<rt>い</rt></ruby>っています。<span\
+  \ style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>は、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>では<span\
+  \ style=\"color: blue;\"><ruby>小麦<rt>こむぎ</rt></ruby></span>や<span style=\"color:\
+  \ blue;\">じゃがいも</span>などがあまりできないため、<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなる<ruby>心配<rt>しんぱい</rt></ruby>があると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ビール
+  descriptions:
+  - <ruby><rb>大麦</rb><rt>おおむぎ</rt></ruby>を<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>にした<ruby><rb>酒</rb><rt>さけ</rt></ruby>。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 農作物
+  descriptions:
+  - <ruby><rb>田</rb><rt>た</rt></ruby>や<ruby><rb>畑</rb><rt>はたけ</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>るもの。<ruby><rb>米</rb><rt>こめ</rt></ruby>・<ruby><rb>野菜</rb><rt>やさい</rt></ruby>・<ruby><rb>果物</rb><rt>くだもの</rt></ruby>など。のうさくもつ。
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第２次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: 小麦
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>実</rb><rt>み</rt></ruby>を、しょうゆ・みそを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>にしたり、<ruby><rb>小麦粉</rb><rt>こむぎこ</rt></ruby>にしたりする。
+- word: じゃがいも
+  descriptions:
+  - <ruby><rb>地下</rb><rt>ちか</rt></ruby>にできるイモを<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にする<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>のはじめ、<ruby><rb>白</rb><rt>しろ</rt></ruby>またはうすむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。ばれいしょ。
+web_news_url: /news/web/2017/07/25/北朝鮮-ビール祭り急きょ中止-深刻な干ばつ影響か/
+source_url: http://www3.nhk.or.jp/news/easy/k10011072961000/k10011072961000.html
+...
