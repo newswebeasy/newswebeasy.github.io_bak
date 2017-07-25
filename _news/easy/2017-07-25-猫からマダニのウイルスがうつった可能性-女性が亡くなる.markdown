@@ -1,0 +1,53 @@
+---
+layout: easy_news
+newsid: k10011072191000
+categories: easy
+title: 猫からマダニのウイルスがうつった可能性　女性が亡くなる
+title_with_ruby: <ruby>猫<rt>ねこ</rt></ruby>からマダニのウイルスがうつった<ruby>可能性<rt>かのうせい</rt></ruby>　<ruby>女性<rt>じょせい</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+last_modified_at: '2017-07-25T16:20:00+09:00'
+datetime: 2017年07月25日 16時20分
+description: ４年ねん前まえ、マダニという種類しゅるいのダニにかまれてウイルスがうつるＳＦＴＳという病気びょうきが日本にっぽんで初はじめて見みつかりました。
+description_with_ruby: ４<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>、マダニという<ruby>種類<rt>しゅるい</rt></ruby>のダニにかまれてウイルスがうつるＳＦＴＳという<ruby>病気<rt>びょうき</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>見<rt>み</rt></ruby>つかりました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/25/k10011072191000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/25/k10011072191000.mp3
+contents: "<p>４<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>、マダニという<span style=\"\
+  color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<span style=\"color: blue;\"\
+  >ダニ</span>にかまれて<span style=\"color: blue;\">ウイルス</span>がうつるＳＦＴＳという<ruby>病気<rt>びょうき</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>見<rt>み</rt></ruby>つかりました。<ruby>今<rt>いま</rt></ruby>までに２６６<ruby>人<rt>にん</rt></ruby>がこの<ruby>病気<rt>びょうき</rt></ruby>になって、５７<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p>５０<ruby>歳<rt>さい</rt></ruby>ぐらいの<ruby>女性<rt>じょせい</rt></ruby>が<ruby>去年<rt>きょねん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>、ＳＦＴＳになって<ruby>亡<rt>な</rt></ruby>くなりました。この<ruby>女性<rt>じょせい</rt></ruby>は<ruby>亡<rt>な</rt></ruby>くなる<ruby>１０日<rt>とおか</rt></ruby><ruby>前<rt>まえ</rt></ruby>、<ruby>病気<rt>びょうき</rt></ruby>になっていた<ruby>猫<rt>ねこ</rt></ruby>をまちで<ruby>見<rt>み</rt></ruby>つけて<ruby>病院<rt>びょういん</rt></ruby>に<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>きました。<ruby>女性<rt>じょせい</rt></ruby>はこのとき、<ruby>猫<rt>ねこ</rt></ruby>にかまれました。<span\
+  \ style=\"color: blue;\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>は、この<ruby>猫<rt>ねこ</rt></ruby>がマダニの<span\
+  \ style=\"color: blue;\">ウイルス</span>を<ruby>持<rt>も</rt></ruby>っていた<span style=\"\
+  color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>いと<ruby>言<rt>い</rt></ruby>っています。<ruby>動物<rt>どうぶつ</rt></ruby>から<ruby>人<rt>ひと</rt></ruby>にマダニの<span\
+  \ style=\"color: blue;\">ウイルス</span>がうつったことは、<ruby>今<rt>いま</rt></ruby>まで<ruby>日本<rt>にっぽん</rt></ruby>でありませんでした。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>は「マダニの<span\
+  \ style=\"color: blue;\">ウイルス</span>が<ruby>猫<rt>ねこ</rt></ruby>や<ruby>犬<rt>いぬ</rt></ruby>から<ruby>人<rt>ひと</rt></ruby>にうつることはほとんどありません。しかし、ペットを<span\
+  \ style=\"color: blue;\"><ruby>飼<rt>か</rt></ruby>っ</span>ている<ruby>人<rt>ひと</rt></ruby>は、<span\
+  \ style=\"color: blue;\">ダニ</span>を<span style=\"color: blue;\"><ruby>殺<rt>ころ</rt></ruby>す</span><ruby>薬<rt>くすり</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってください」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ウイルス
+  descriptions:
+  - <ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: だに
+  descriptions:
+  - クモに<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>八本足</rb><rt>はちほんあし</rt></ruby>の<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>虫</rb><rt>むし</rt></ruby>。<ruby><rb>人</rb><rt>ひと</rt></ruby>やけものの<ruby><rb>体</rb><rt>からだ</rt></ruby>について、<ruby><rb>血</rb><rt>ち</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>う。
+- word: 厚生労働省
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。
+- word: 飼う
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>にえさをあたえて<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。
+- word: 殺す
+  descriptions:
+  - <ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - （<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。
+  - <ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。
+web_news_url: /news/web/2017/07/24/マダニウイルス-動物から初の感染例か-50代女性死亡/
+source_url: http://www3.nhk.or.jp/news/easy/k10011072191000/k10011072191000.html
+...
