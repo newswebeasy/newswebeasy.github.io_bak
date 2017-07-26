@@ -1,0 +1,40 @@
+---
+layout: easy_news
+newsid: k10011073831000
+categories: easy
+title: 秋になっても暑さが続きそう　熱中症に気をつけて
+title_with_ruby: <ruby>秋<rt>あき</rt></ruby>になっても<ruby>暑<rt>あつ</rt></ruby>さが<ruby>続<rt>つづ</rt></ruby>きそう　<ruby>熱中症<rt>ねっちゅうしょう</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけて
+last_modified_at: '2017-07-26T16:20:00+09:00'
+datetime: 2017年07月26日 16時20分
+description: 気象庁きしょうちょうは８月がつ〜１０月がつの天気予報てんきよほうを発表はっぴょうしました。
+description_with_ruby: <ruby>気象庁<rt>きしょうちょう</rt></ruby>は８<ruby>月<rt>がつ</rt></ruby>〜１０<ruby>月<rt>がつ</rt></ruby>の<ruby>天気予報<rt>てんきよほう</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/26/k10011073831000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/26/k10011073831000.mp3
+contents: "<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は８<ruby>月<rt>がつ</rt></ruby>〜１０<ruby>月<rt>がつ</rt></ruby>の<ruby>天気予報<rt>てんきよほう</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>８<ruby>月<rt>がつ</rt></ruby>と９<ruby>月<rt>がつ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>は、いつもの<ruby>年<rt>とし</rt></ruby>より<ruby>高<rt>たか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなりそうです。１０<ruby>月<rt>がつ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>は、いつもの<ruby>年<rt>とし</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じぐらいか、いつもの<ruby>年<rt>とし</rt></ruby>より<ruby>高<rt>たか</rt></ruby>くなって、<ruby>秋<rt>あき</rt></ruby>になっても<ruby>暑<rt>あつ</rt></ruby>さが<ruby>続<rt>つづ</rt></ruby>きそうです。</p>\n\
+  <p>７<ruby>月<rt>がつ</rt></ruby>もとても<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。７<ruby>月<rt>がつ</rt></ruby>１７<ruby>日<rt>にち</rt></ruby>〜２３<ruby>日<rt>にち</rt></ruby>の１<ruby>週間<rt>しゅうかん</rt></ruby>には、６３６９<ruby>人<rt>にん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>熱中症<rt>ねっちゅうしょう</rt></ruby></span>で<ruby>病院<rt>びょういん</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>ばれました。これは<ruby>去年<rt>きょねん</rt></ruby>の<ruby>同<rt>おな</rt></ruby>じときの１．６<ruby>倍<rt>ばい</rt></ruby>です。</p>\n\
+  <p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は「<ruby>暑<rt>あつ</rt></ruby>さが<ruby>続<rt>つづ</rt></ruby>くので、<ruby>冷房<rt>れいぼう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ったり<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んだりして、<span\
+  \ style=\"color: blue;\"><ruby>熱中症<rt>ねっちゅうしょう</rt></ruby></span>に<ruby>気<rt>き</rt></ruby>をつけてください」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>下<rt>した</rt></ruby>の<span style=\"color: blue;\">ウェブサイト</span>には、<span\
+  \ style=\"color: blue;\"><ruby>熱中症<rt>ねっちゅうしょう</rt></ruby></span>にならないためにどうしたらいいかをやさしい<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>書<rt>か</rt></ruby>いてあります。</p>\n\
+  <p>http://www3.nhk.or.jp/news/easy/k10010922471000/k10010922471000.html</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 熱中症
+  descriptions:
+  - <ruby><rb>夏</rb><rt>なつ</rt></ruby>の<ruby><rb>暑</rb><rt>あつ</rt></ruby>さなどで、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>が<ruby><rb>体内</rb><rt>たいない</rt></ruby>にたまって<ruby><rb>起</rb><rt>お</rt></ruby>こる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。ひどい<ruby><rb>頭痛</rb><rt>ずつう</rt></ruby>がしたり、<ruby><rb>気</rb><rt>き</rt></ruby>を<ruby><rb>失</rb><rt>うしな</rt></ruby>ったりする。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 気温
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+web_news_url: /news/web/2017/07/25/8月~10月-全国的に厳しい残暑の予想/
+source_url: http://www3.nhk.or.jp/news/easy/k10011073831000/k10011073831000.html
+...
