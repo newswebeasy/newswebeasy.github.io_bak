@@ -1,0 +1,63 @@
+---
+layout: easy_news
+newsid: k10011074371000
+categories: easy
+title: 「最低賃金」の平均を今より２５円高くする
+title_with_ruby: 「<ruby>最低<rt>さいてい</rt></ruby><ruby>賃金<rt>ちんぎん</rt></ruby>」の<ruby>平均<rt>へいきん</rt></ruby>を<ruby>今<rt>いま</rt></ruby>より２５<ruby>円<rt>えん</rt></ruby><ruby>高<rt>たか</rt></ruby>くする
+last_modified_at: '2017-07-26T16:20:00+09:00'
+datetime: 2017年07月26日 16時20分
+description: 日本にっぽんでは、働はたらいている人ひとの生活せいかつを守まもるために「最低さいてい賃金ちんぎん」が決きまっています。
+description_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>では、<ruby>働<rt>はたら</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るために「<ruby>最低<rt>さいてい</rt></ruby><ruby>賃金<rt>ちんぎん</rt></ruby>」が<ruby>決<rt>き</rt></ruby>まっています。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/26/k10011074371000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/26/k10011074371000.mp3
+contents: "<p><ruby>日本<rt>にっぽん</rt></ruby>では、<ruby>働<rt>はたら</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>る</span>ために「<span style=\"color:\
+  \ blue;\"><ruby>最低<rt>さいてい</rt></ruby></span><span style=\"color: blue;\"><ruby>賃金<rt>ちんぎん</rt></ruby></span>」が<ruby>決<rt>き</rt></ruby>まっています。<ruby>会社<rt>かいしゃ</rt></ruby>などは、<ruby>働<rt>はたら</rt></ruby>いた<ruby>人<rt>ひと</rt></ruby>に<ruby>払<rt>はら</rt></ruby>うお<ruby>金<rt>かね</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>最低<rt>さいてい</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>賃金<rt>ちんぎん</rt></ruby></span>より<ruby>安<rt>やす</rt></ruby>くしてはいけません。<span\
+  \ style=\"color: blue;\"><ruby>最低<rt>さいてい</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>賃金<rt>ちんぎん</rt></ruby></span>は<span style=\"color: blue;\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span>が<ruby>決<rt>き</rt></ruby>めていて、<ruby>今<rt>いま</rt></ruby>の<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>は１<ruby>時間<rt>じかん</rt></ruby>８２３<ruby>円<rt>えん</rt></ruby>です。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>は<ruby>毎年<rt>まいとし</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span>が<span style=\"\
+  color: blue;\"><ruby>最低<rt>さいてい</rt></ruby></span><span style=\"color: blue;\"><ruby>賃金<rt>ちんぎん</rt></ruby></span>をいくらぐらいにしたらいいか、<ruby>会議<rt>かいぎ</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>っ</span>ています。２０１７<span\
+  \ style=\"color: blue;\"><ruby>年度<rt>ねんど</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>最低<rt>さいてい</rt></ruby></span><span style=\"color: blue;\"><ruby>賃金<rt>ちんぎん</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>は、<ruby>今<rt>いま</rt></ruby>より２５<ruby>円<rt>えん</rt></ruby><ruby>高<rt>たか</rt></ruby>い８４８<ruby>円<rt>えん</rt></ruby>にすることになりました。２<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて２５<ruby>円<rt>えん</rt></ruby><ruby>高<rt>たか</rt></ruby>くなります。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span>はこの<ruby>意見<rt>いけん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いて、<ruby>今年<rt>ことし</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>ごろ<span\
+  \ style=\"color: blue;\"><ruby>最低<rt>さいてい</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>賃金<rt>ちんぎん</rt></ruby></span>を<ruby>決<rt>き</rt></ruby>めます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 最低
+  descriptions:
+  - いちばん<ruby><rb>低</rb><rt>ひく</rt></ruby>いこと。
+  - いちばん<ruby><rb>悪</rb><rt>わる</rt></ruby>いこと。
+- word: 賃金・
+  descriptions:
+  - <ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>が、その<ruby><rb>働</rb><rt>はたら</rt></ruby>きに<ruby><rb>対</rb><rt>たい</rt></ruby>してもらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 都道府県
+  descriptions:
+  - <ruby><rb>全国</rb><rt>ぜんこく</rt></ruby>を４７に<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>区画</rb><rt>くかく</rt></ruby>。<ruby><rb>東京都</rb><rt>とうきょうと</rt></ruby>・<ruby><rb>北海道</rb><rt>ほっかいどう</rt></ruby>・<ruby><rb>大阪府</rb><rt>おおさかふ</rt></ruby>・<ruby><rb>京都府</rb><rt>きょうとふ</rt></ruby>と、４３の<ruby><rb>県</rb><rt>けん</rt></ruby>。
+- word: 厚生労働省
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。
+- word: 話し合う
+  descriptions:
+  - たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。
+  - <ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。
+- word: 年度
+  descriptions:
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>のつごうで<ruby><rb>決</rb><rt>き</rt></ruby>めた１<ruby><rb>年</rb><rt>ねん</rt></ruby>の<ruby><rb>期間</rb><rt>きかん</rt></ruby>。ふつう４<ruby><rb>月</rb><rt>がつ</rt></ruby><ruby><rb>１日</rb><rt>ついたち</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まり、<ruby><rb>翌年</rb><rt>よくねん</rt></ruby>の３<ruby><rb>月</rb><rt>がつ</rt></ruby>３１<ruby><rb>日</rb><rt>にち</rt></ruby>に<ruby><rb>終</rb><rt>お</rt></ruby>わる。
+web_news_url: /news/web/2017/07/26/最低賃金-全国平均で25円引き上げ時給848円を目安に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011074371000/k10011074371000.html
+...
