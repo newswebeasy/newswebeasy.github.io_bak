@@ -1,0 +1,23 @@
+---
+layout: easy_news
+newsid: k10011072681000
+categories: easy
+title: 沖縄県　１本の木に８００個のマンゴーができる
+title_with_ruby: <ruby>沖縄県<rt>おきなわけん</rt></ruby>　１<ruby>本<rt>ぽん</rt></ruby>の<ruby>木<rt>き</rt></ruby>に８００<ruby>個<rt>こ</rt></ruby>のマンゴーができる
+last_modified_at: '2017-07-26T11:30:00+09:00'
+datetime: 2017年07月26日 11時30分
+description: 沖縄県おきなわけん今帰仁村なきじんそんの農家のうかの比嘉ひが峯夫みねおさんは、果物くだもののマンゴーの木きを６０本ぽんぐらい育そだてています。
+description_with_ruby: <ruby>沖縄県<rt>おきなわけん</rt></ruby><ruby>今帰仁村<rt>なきじんそん</rt></ruby>の<ruby>農家<rt>のうか</rt></ruby>の<ruby>比嘉<rt>ひが</rt></ruby><ruby>峯夫<rt>みねお</rt></ruby>さんは、<ruby>果物<rt>くだもの</rt></ruby>のマンゴーの<ruby>木<rt>き</rt></ruby>を６０<ruby>本<rt>ぽん</rt></ruby>ぐらい<ruby>育<rt>そだ</rt></ruby>てています。
+image_url: https://newswebeasy.github.io/ja201707/news/easy/image/2017/07/26/k10011072681000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/26/k10011072681000.mp3
+contents: "<p><ruby>沖縄県<rt>おきなわけん</rt></ruby><ruby>今帰仁村<rt>なきじんそん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>農家<rt>のうか</rt></ruby></span>の<ruby>比嘉<rt>ひが</rt></ruby><ruby>峯夫<rt>みねお</rt></ruby>さんは、<ruby>果物<rt>くだもの</rt></ruby>のマンゴーの<ruby>木<rt>き</rt></ruby>を６０<ruby>本<rt>ぽん</rt></ruby>ぐらい<ruby>育<rt>そだ</rt></ruby>てています。この<ruby>中<rt>なか</rt></ruby>の１<ruby>本<rt>ぽん</rt></ruby>に、マンゴーが８００<ruby>個<rt>こ</rt></ruby>ぐらいできました。１<ruby>本<rt>ぽん</rt></ruby>の<ruby>木<rt>き</rt></ruby>にできるマンゴーは、<ruby>普通<rt>ふつう</rt></ruby>１００<ruby>個<rt>こ</rt></ruby>ぐらいです。８００<ruby>個<rt>こ</rt></ruby>のマンゴーができた<ruby>木<rt>き</rt></ruby>は、<ruby>高<rt>たか</rt></ruby>さが１ｍ５０ｃｍですが、<ruby>枝<rt>えだ</rt></ruby>は<ruby>横<rt>よこ</rt></ruby>に１０ｍぐらいあります。</p>\n\
+  <p><ruby>比嘉<rt>ひが</rt></ruby>さんは「１<ruby>個<rt>こ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさは<ruby>普通<rt>ふつう</rt></ruby>のマンゴーと<ruby>同<rt>おな</rt></ruby>じぐらいです。<ruby>木<rt>き</rt></ruby>がよく<ruby>頑張<rt>がんば</rt></ruby>ったと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 農家
+  descriptions:
+  - <ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らしを<ruby><rb>立</rb><rt>た</rt></ruby>てている<ruby><rb>家</rb><rt>いえ</rt></ruby>。また、その<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+web_news_url: /news/web/2017/07/24/1本の木から800個のマンゴー-沖縄/
+source_url: http://www3.nhk.or.jp/news/easy/k10011072681000/k10011072681000.html
+...
