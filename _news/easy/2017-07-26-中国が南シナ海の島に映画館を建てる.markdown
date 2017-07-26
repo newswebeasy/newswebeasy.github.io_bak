@@ -1,0 +1,41 @@
+---
+layout: easy_news
+newsid: k10011072601000
+categories: easy
+title: 中国が南シナ海の島に映画館を建てる
+title_with_ruby: <ruby>中国<rt>ちゅうごく</rt></ruby>が<ruby>南<rt>みなみ</rt></ruby>シナ<ruby>海<rt>かい</rt></ruby>の<ruby>島<rt>しま</rt></ruby>に<ruby>映画館<rt>えいがかん</rt></ruby>を<ruby>建<rt>た</rt></ruby>てる
+last_modified_at: '2017-07-26T11:30:00+09:00'
+datetime: 2017年07月26日 11時30分
+description: 南みなみシナ海かいにある西沙諸島せいさしょとう（パラセル諸島しょとう）は、中国ちゅうごくやベトナム、台湾たいわんが自分じぶんの島しまだと言いっています。
+description_with_ruby: <ruby>南<rt>みなみ</rt></ruby>シナ<ruby>海<rt>かい</rt></ruby>にある<ruby>西沙諸島<rt>せいさしょとう</rt></ruby>（パラセル<ruby>諸島<rt>しょとう</rt></ruby>）は、<ruby>中国<rt>ちゅうごく</rt></ruby>やベトナム、<ruby>台湾<rt>たいわん</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>の<ruby>島<rt>しま</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/26/k10011072601000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/26/k10011072601000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>南<rt>みなみ</rt></ruby>シナ<ruby>海<rt>かい</rt></ruby></span>にある<ruby>西沙諸島<rt>せいさしょとう</rt></ruby>（パラセル<ruby>諸島<rt>しょとう</rt></ruby>）は、<ruby>中国<rt>ちゅうごく</rt></ruby>やベトナム、<ruby>台湾<rt>たいわん</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>の<ruby>島<rt>しま</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>新華社通信<rt>しんかしゃつうしん</rt></ruby>は、<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>西沙諸島<rt>せいさしょとう</rt></ruby>にあるウッディー<ruby>島<rt>とう</rt></ruby>に<ruby>映画館<rt>えいがかん</rt></ruby>を<ruby>建<rt>た</rt></ruby>てたと<ruby>伝<rt>つた</rt></ruby>えました。<ruby>映画館<rt>えいがかん</rt></ruby>ができたお<ruby>祝<rt>いわ</rt></ruby>いの<ruby>式<rt>しき</rt></ruby>には、<span\
+  \ style=\"color: blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>など２００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>来<rt>き</rt></ruby>て、<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。この<ruby>映画館<rt>えいがかん</rt></ruby>ではこれから、<ruby>中国<rt>ちゅうごく</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<ruby>映画<rt>えいが</rt></ruby>を<ruby>毎日<rt>まいにち</rt></ruby>、<ruby>見<rt>み</rt></ruby>ることができると<ruby>伝<rt>つた</rt></ruby>えています。</p>\n\
+  <p><ruby>中国<rt>ちゅうごく</rt></ruby>は、<span style=\"color: blue;\">ミサイル</span>を<span\
+  \ style=\"color: blue;\"><ruby>撃<rt>う</rt></ruby>つ</span>ための<span style=\"color:\
+  \ blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>を<ruby>西沙諸島<rt>せいさしょとう</rt></ruby>に<ruby>置<rt>お</rt></ruby>いています。そして、<ruby>映画館<rt>えいがかん</rt></ruby>や<ruby>図書館<rt>としょかん</rt></ruby>、<ruby>体育館<rt>たいいくかん</rt></ruby>など<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>がある<ruby>建物<rt>たてもの</rt></ruby>も<ruby>建<rt>た</rt></ruby>てて、<ruby>中国<rt>ちゅうごく</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>支配<rt>しはい</rt></ruby></span>していることを<ruby>外国<rt>がいこく</rt></ruby>などに<ruby>見<rt>み</rt></ruby>せようとしているようです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 南シナ海
+  descriptions:
+  - <ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>の<ruby><rb>一部</rb><rt>いちぶ</rt></ruby>。<ruby><rb>中国</rb><rt>ちゅうごく</rt></ruby>・フィリピン・ボルネオ・インドシナ<ruby><rb>半島</rb><rt>はんとう</rt></ruby>などに<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: 軍
+  descriptions:
+  - <ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。
+- word: ミサイル
+  descriptions:
+  - ロケットなどの<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>飛</rb><rt>と</rt></ruby>び、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby><ruby><rb>装置</rb><rt>そうち</rt></ruby>によって、<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>をとらえる<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>誘導弾</rb><rt>ゆうどうだん</rt></ruby>。
+- word: 撃つ
+  descriptions:
+  - （<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>などを）<ruby><rb>発射</rb><rt>はっしゃ</rt></ruby>する。
+- word: 支配
+  descriptions:
+  - ある<ruby><rb>土地</rb><rt>とち</rt></ruby>やそこに<ruby><rb>住</rb><rt>す</rt></ruby>む<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>めること。
+  - ものごとを<ruby><rb>思</rb><rt>おも</rt></ruby>うように<ruby><rb>動</rb><rt>うご</rt></ruby>かすこと。
+web_news_url: /news/web/2017/07/24/中国-南シナ海の島に映画館-実効支配の既成事実化狙いか/
+source_url: http://www3.nhk.or.jp/news/easy/k10011072601000/k10011072601000.html
+...
