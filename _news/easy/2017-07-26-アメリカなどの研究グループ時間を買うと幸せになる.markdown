@@ -1,0 +1,48 @@
+---
+layout: easy_news
+newsid: k10011074441000
+categories: easy
+title: アメリカなどの研究グループ「時間を買うと幸せになる」
+title_with_ruby: アメリカなどの<ruby>研究<rt>けんきゅう</rt></ruby>グループ「<ruby>時間<rt>じかん</rt></ruby>を<ruby>買<rt>か</rt></ruby>うと<ruby>幸<rt>しあわ</rt></ruby>せになる」
+last_modified_at: '2017-07-26T16:20:00+09:00'
+datetime: 2017年07月26日 16時20分
+description: アメリカとカナダとオランダの研究けんきゅうグループは、時間じかんを買かうと幸しあわせになるかどうか研究けんきゅうしました。
+description_with_ruby: アメリカとカナダとオランダの<ruby>研究<rt>けんきゅう</rt></ruby>グループは、<ruby>時間<rt>じかん</rt></ruby>を<ruby>買<rt>か</rt></ruby>うと<ruby>幸<rt>しあわ</rt></ruby>せになるかどうか<ruby>研究<rt>けんきゅう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/26/k10011074441000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/26/k10011074441000.mp3
+contents: "<p>アメリカとカナダとオランダの<ruby>研究<rt>けんきゅう</rt></ruby><span style=\"color: blue;\"\
+  >グループ</span>は、<ruby>時間<rt>じかん</rt></ruby>を<ruby>買<rt>か</rt></ruby>うと<span style=\"\
+  color: blue;\"><ruby>幸<rt>しあわ</rt></ruby>せ</span>になるかどうか<ruby>研究<rt>けんきゅう</rt></ruby>しました。</p>\n\
+  <p><ruby>研究<rt>けんきゅう</rt></ruby><span style=\"color: blue;\">グループ</span>は、アメリカやカナダなど４つの<ruby>国<rt>くに</rt></ruby>の６０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べました。この<ruby>中<rt>なか</rt></ruby>の２８％<ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>家<rt>いえ</rt></ruby>に<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>届<rt>とど</rt></ruby>けてもらう<span\
+  \ style=\"color: blue;\">サービス</span>や、<ruby>掃除<rt>そうじ</rt></ruby>をしてもらう<span style=\"\
+  color: blue;\">サービス</span>を<ruby>利用<rt>りよう</rt></ruby>して<ruby>自分<rt>じぶん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>増<rt>ふ</rt></ruby>やし</span>ていました。このようにお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>って「<ruby>時間<rt>じかん</rt></ruby>を<ruby>買<rt>か</rt></ruby>う」<ruby>人<rt>ひと</rt></ruby>は、<ruby>生活<rt>せいかつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>満足<rt>まんぞく</rt></ruby></span>していると<ruby>答<rt>こた</rt></ruby>えました。</p>\n\
+  <p>このほかに<ruby>研究<rt>けんきゅう</rt></ruby><span style=\"color: blue;\">グループ</span>は、カナダに<ruby>住<rt>す</rt></ruby>む６０<ruby>人<rt>にん</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>で４５００<ruby>円<rt>えん</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>しました。そして「<ruby>時間<rt>じかん</rt></ruby>を<ruby>買<rt>か</rt></ruby>う１<ruby>週間<rt>しゅうかん</rt></ruby>」と「<ruby>物<rt>もの</rt></ruby>を<ruby>買<rt>か</rt></ruby>う１<ruby>週間<rt>しゅうかん</rt></ruby>」の<ruby>生活<rt>せいかつ</rt></ruby>をしてもらいました。その<span\
+  \ style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>「<ruby>時間<rt>じかん</rt></ruby>を<ruby>買<rt>か</rt></ruby>う１<ruby>週間<rt>しゅうかん</rt></ruby>」のほうが、<span\
+  \ style=\"color: blue;\"><ruby>幸<rt>しあわ</rt></ruby>せ</span>だと<ruby>思<rt>おも</rt></ruby>うことが<ruby>多<rt>おお</rt></ruby>いとわかりました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 幸せ
+  descriptions:
+  - <ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>満足</rb><rt>まんぞく</rt></ruby>している<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+- word: 満足
+  descriptions:
+  - すべて<ruby><rb>思</rb><rt>おも</rt></ruby>うようになっていて、<ruby><rb>不平</rb><rt>ふへい</rt></ruby>や<ruby><rb>不満</rb><rt>ふまん</rt></ruby>のないこと。
+  - <ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>であること。<ruby><rb>完全</rb><rt>かんぜん</rt></ruby>。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+web_news_url: /news/web/2017/07/26/時間を買うと幸福になる米などの研究グループが発表/
+source_url: http://www3.nhk.or.jp/news/easy/k10011074441000/k10011074441000.html
+...
