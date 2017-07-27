@@ -1,0 +1,70 @@
+---
+layout: easy_news
+newsid: k10011076061000
+categories: easy
+title: 神戸空港に向かう船で１５人がけが「何かにぶつかった」
+title_with_ruby: <ruby>神戸空港<rt>こうべくうこう</rt></ruby>に<ruby>向<rt>む</rt></ruby>かう<ruby>船<rt>ふね</rt></ruby>で１５<ruby>人<rt>にん</rt></ruby>がけが「<ruby>何<rt>なに</rt></ruby>かにぶつかった」
+last_modified_at: '2017-07-27T16:50:00+09:00'
+datetime: 2017年07月27日 16時50分
+description: ２６日にち午後ごご９時半じはんごろ、関西空港かんさいくうこうから神戸空港こうべくうこうに向むかっていた「ベイ・シャトル」という船ふねが何なにかにぶつかりました。
+description_with_ruby: ２６<ruby>日<rt>にち</rt></ruby><ruby>午後<rt>ごご</rt></ruby>９<ruby>時半<rt>じはん</rt></ruby>ごろ、<ruby>関西空港<rt>かんさいくうこう</rt></ruby>から<ruby>神戸空港<rt>こうべくうこう</rt></ruby>に<ruby>向<rt>む</rt></ruby>かっていた「ベイ・シャトル」という<ruby>船<rt>ふね</rt></ruby>が<ruby>何<rt>なに</rt></ruby>かにぶつかりました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/27/k10011076061000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/27/k10011076061000.mp3
+contents: "<p>２６<ruby>日<rt>にち</rt></ruby><ruby>午後<rt>ごご</rt></ruby>９<ruby>時半<rt>じはん</rt></ruby>ごろ、<ruby>関西空港<rt>かんさいくうこう</rt></ruby>から<ruby>神戸空港<rt>こうべくうこう</rt></ruby>に<ruby>向<rt>む</rt></ruby>かっていた「ベイ・シャトル」という<ruby>船<rt>ふね</rt></ruby>が<ruby>何<rt>なに</rt></ruby>かに<span\
+  \ style=\"color: blue;\">ぶつかり</span>ました。この<ruby>事故<rt>じこ</rt></ruby>で１５<ruby>人<rt>にん</rt></ruby>がけがをしました。この<ruby>船<rt>ふね</rt></ruby>は、<ruby>毎日<rt>まいにち</rt></ruby>２つの<ruby>空港<rt>くうこう</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>客<rt>きゃく</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>んでいて、<ruby>事故<rt>じこ</rt></ruby>のとき２９<ruby>人<rt>にん</rt></ruby>の<ruby>客<rt>きゃく</rt></ruby>が<ruby>乗<rt>の</rt></ruby>っていました。</p>\n\
+  <p><ruby>事故<rt>じこ</rt></ruby>のあと<ruby>神戸空港<rt>こうべくうこう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いた<ruby>船<rt>ふね</rt></ruby>を<ruby>見<rt>み</rt></ruby>ると、<ruby>前<rt>まえ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>方<rt>ほう</rt></ruby></span>の<ruby>左側<rt>ひだりがわ</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きく<ruby>壊<rt>こわ</rt></ruby>れて、<ruby>船<rt>ふね</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>一部<rt>いちぶ</rt></ruby></span>に<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>っていました。<span\
+  \ style=\"color: blue;\"><ruby>船長<rt>せんちょう</rt></ruby></span>は<ruby>会社<rt>かいしゃ</rt></ruby>に「<ruby>船<rt>ふね</rt></ruby>がどこにいるのかわからなくなって、<ruby>何<rt>なに</rt></ruby>かに<span\
+  \ style=\"color: blue;\">ぶつかっ</span>た」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n<p><span\
+  \ style=\"color: blue;\"><ruby>海上保安庁<rt>かいじょうほあんちょう</rt></ruby></span>によると、<ruby>神戸空港<rt>こうべくうこう</rt></ruby>から６００ｍぐらい<ruby>東<rt>ひがし</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>にある「<ruby>誘導灯<rt>ゆうどうとう</rt></ruby>」という<span\
+  \ style=\"color: blue;\">ライト</span>の<ruby>下<rt>した</rt></ruby>の<span style=\"color:\
+  \ blue;\"><ruby>方<rt>ほう</rt></ruby></span>が<ruby>壊<rt>こわ</rt></ruby>れていました。<span\
+  \ style=\"color: blue;\"><ruby>海上保安庁<rt>かいじょうほあんちょう</rt></ruby></span>は、ここに<ruby>船<rt>ふね</rt></ruby>が<span\
+  \ style=\"color: blue;\">ぶつかっ</span>たと<ruby>考<rt>かんが</rt></ruby>えて<span style=\"\
+  color: blue;\"><ruby>詳<rt>くわ</rt></ruby>しく</span><ruby>調<rt>しら</rt></ruby>べています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ぶつかる
+  descriptions:
+  - <ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。
+  - <ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。
+  - <ruby><rb>重</rb><rt>かさ</rt></ruby>なる。
+- word: ぶつかる
+  descriptions:
+  - <ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。
+  - <ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。
+  - <ruby><rb>重</rb><rt>かさ</rt></ruby>なる。
+- word: 方
+  descriptions:
+  - <ruby><rb>向</rb><rt>む</rt></ruby>き。
+  - それぞれの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。
+  - <ruby><rb>四角</rb><rt>しかく</rt></ruby>。
+  - やりかた。
+  - <ruby><rb>分</rb><rt>わ</rt></ruby>けたときの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>部類</rb><rt>ぶるい</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>をうやまって<ruby><rb>言</rb><rt>い</rt></ruby>うことば。かた。
+- word: 一部
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: 船長
+  descriptions:
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>乗組員</rb><rt>のりくみいん</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>でいちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>位</rb><rt>くらい</rt></ruby>で、<ruby><rb>航海</rb><rt>こうかい</rt></ruby>の<ruby><rb>指図</rb><rt>さしず</rt></ruby>をして<ruby><rb>船</rb><rt>ふね</rt></ruby><ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>責任</rb><rt>せきにん</rt></ruby>をもつ<ruby><rb>人</rb><rt>ひと</rt></ruby>。キャプテン。
+- word: 海上保安庁
+  descriptions:
+  - <ruby><rb>海</rb><rt>うみ</rt></ruby>や<ruby><rb>港</rb><rt>みなと</rt></ruby>で、<ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ったり、<ruby><rb>法</rb><rt>ほう</rt></ruby>に<ruby><rb>違反</rb><rt>いはん</rt></ruby>することを<ruby><rb>防</rb><rt>ふせ</rt></ruby>いだりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: ライト
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>。<ruby><rb>照明</rb><rt>しょうめい</rt></ruby>。
+  - <ruby><rb>明</rb><rt>あか</rt></ruby>るいこと。
+  - <ruby><rb>軽</rb><rt>かる</rt></ruby>いこと。
+- word: 詳しい
+  descriptions:
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かい。
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かいことまでよく<ruby><rb>知</rb><rt>し</rt></ruby>っている。
+web_news_url: /news/web/2017/07/27/神戸-高速船が誘導灯に気付かず衝突か-15人けが/
+source_url: http://www3.nhk.or.jp/news/easy/k10011076061000/k10011076061000.html
+...
