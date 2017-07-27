@@ -1,0 +1,60 @@
+---
+layout: easy_news
+newsid: k10011074991000
+categories: easy
+title: 災害のときに役に立つ物を紹介するイベント
+title_with_ruby: <ruby>災害<rt>さいがい</rt></ruby>のときに<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ<ruby>物<rt>もの</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント
+last_modified_at: '2017-07-27T16:50:00+09:00'
+datetime: 2017年07月27日 16時50分
+description: 災害さいがいのときに役やくに立たつ物ものを紹介しょうかいするイベントが２６日にち、東京とうきょうの江東区こうとうくで始はじまりました。
+description_with_ruby: <ruby>災害<rt>さいがい</rt></ruby>のときに<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ<ruby>物<rt>もの</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベントが２６<ruby>日<rt>にち</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>江東区<rt>こうとうく</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/27/k10011074991000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/27/k10011074991000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>災害<rt>さいがい</rt></ruby></span>のときに<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ<ruby>物<rt>もの</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する<span\
+  \ style=\"color: blue;\">イベント</span>が２６<ruby>日<rt>にち</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>江東区<rt>こうとうく</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>会場<rt>かいじょう</rt></ruby>では１４０の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>作<rt>つく</rt></ruby>った<ruby>新<rt>あたら</rt></ruby>しい<ruby>物<rt>もの</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>しています。</p>\n\
+  <p>このうち、<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>ったときに<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>らないようにする<span\
+  \ style=\"color: blue;\"><ruby>板<rt>いた</rt></ruby></span>は、<ruby>女性<rt>じょせい</rt></ruby>やお<span\
+  \ style=\"color: blue;\"><ruby>年寄<rt>としよ</rt></ruby>り</span>が<ruby>運<rt>はこ</rt></ruby>びやすいように<ruby>軽<rt>かる</rt></ruby>い<span\
+  \ style=\"color: blue;\">プラスチック</span>でできています。<ruby>重<rt>おも</rt></ruby>さは<span style=\"\
+  color: blue;\">アルミニウム</span>の<span style=\"color: blue;\"><ruby>板<rt>いた</rt></ruby></span>の<ruby>半分<rt>はんぶん</rt></ruby>ぐらいで、９ｋｇです。この<span\
+  \ style=\"color: blue;\"><ruby>板<rt>いた</rt></ruby></span>は、<ruby>深<rt>ふか</rt></ruby>さ５０ｃｍまでの<ruby>水<rt>みず</rt></ruby>を<ruby>止<rt>と</rt></ruby>めることができます。</p>\n\
+  <p>そのほか、いつもは<ruby>店<rt>みせ</rt></ruby>の<ruby>入<rt>い</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby>に<ruby>置<rt>お</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>看板<rt>かんばん</rt></ruby></span>で、<span style=\"color:\
+  \ blue;\"><ruby>災害<rt>さいがい</rt></ruby></span>のときはけがをした<ruby>人<rt>ひと</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>物<rt>もの</rt></ruby>もあります。</p>\n\
+  <p><ruby>会場<rt>かいじょう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は「<ruby>最近<rt>さいきん</rt></ruby>、いろいろな<ruby>場所<rt>ばしょ</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>災害<rt>さいがい</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>起<rt>お</rt></ruby>こっ</span>ています。<ruby>今<rt>いま</rt></ruby>までと<ruby>同<rt>おな</rt></ruby>じやり<ruby>方<rt>かた</rt></ruby>では<ruby>十分<rt>じゅうぶん</rt></ruby>ではないので、いい<ruby>物<rt>もの</rt></ruby>をさがしたいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p>この<span style=\"color: blue;\">イベント</span>は２８<ruby>日<rt>にち</rt></ruby>までです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 災害
+  descriptions:
+  - <ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 板
+  descriptions:
+  - <ruby><rb>材木</rb><rt>ざいもく</rt></ruby>を、うすく<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。また、そのような<ruby><rb>形</rb><rt>かたち</rt></ruby>のもの。
+- word: 年寄り
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。
+  - <ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: プラスチック
+  descriptions:
+  - <ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>圧力</rb><rt>あつりょく</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>えて、<ruby><rb>自由</rb><rt>じゆう</rt></ruby>に<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ることができる<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>合成樹脂</rb><rt>ごうせいじゅし</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>す。<ruby><rb>使</rb><rt>つか</rt></ruby>い<ruby><rb>道</rb><rt>みち</rt></ruby>が<ruby><rb>広</rb><rt>ひろ</rt></ruby>い。
+- word: アルミニウム
+  descriptions:
+  - <ruby><rb>銀色</rb><rt>ぎんいろ</rt></ruby>の、<ruby><rb>軽</rb><rt>かる</rt></ruby>くてさびにくい<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。<ruby><rb>窓</rb><rt>まど</rt></ruby>わくや、<ruby><rb>食器</rb><rt>しょっき</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。<ruby><rb>酸</rb><rt>さん</rt></ruby>に<ruby><rb>弱</rb><rt>よわ</rt></ruby>い。アルミ。
+- word: 看板
+  descriptions:
+  - <ruby><rb>人目</rb><rt>ひとめ</rt></ruby>につく<ruby><rb>所</rb><rt>ところ</rt></ruby>に、<ruby><rb>店</rb><rt>みせ</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や<ruby><rb>商品</rb><rt>しょうひん</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>などを<ruby><rb>書</rb><rt>か</rt></ruby>いて、<ruby><rb>出</rb><rt>だ</rt></ruby>しておくもの。
+  - <ruby><rb>見</rb><rt>み</rt></ruby>せかけ。
+- word: 起こる
+  descriptions:
+  - <ruby><rb>始</rb><rt>はじ</rt></ruby>まる。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。
+web_news_url: /news/web/2017/07/26/企業向けの防災用品展-大雨被害の備えに関心/
+source_url: http://www3.nhk.or.jp/news/easy/k10011074991000/k10011074991000.html
+...
