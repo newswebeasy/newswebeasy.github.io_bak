@@ -1,0 +1,31 @@
+---
+layout: easy_news
+newsid: k10011074481000
+categories: easy
+title: 北陸電力　社員が「週休３日制」で働いてみる
+title_with_ruby: <ruby>北陸電力<rt>ほくりくでんりょく</rt></ruby>　<ruby>社員<rt>しゃいん</rt></ruby>が「<ruby>週休３日制<rt>しゅうきゅうみっかせい</rt></ruby>」で<ruby>働<rt>はたら</rt></ruby>いてみる
+last_modified_at: '2017-07-27T11:30:00+09:00'
+datetime: 2017年07月27日 11時30分
+description: 社員しゃいんが１週間しゅうかんに３日みっか休やすむことができる「週休３日制しゅうきゅうみっかせい」を始はじめる会社かいしゃが増ふえてきています。
+description_with_ruby: <ruby>社員<rt>しゃいん</rt></ruby>が１<ruby>週間<rt>しゅうかん</rt></ruby>に<ruby>３日<rt>みっか</rt></ruby><ruby>休<rt>やす</rt></ruby>むことができる「<ruby>週休３日制<rt>しゅうきゅうみっかせい</rt></ruby>」を<ruby>始<rt>はじ</rt></ruby>める<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えてきています。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/27/k10011074481000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/27/k10011074481000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>が１<ruby>週間<rt>しゅうかん</rt></ruby>に<ruby>３日<rt>みっか</rt></ruby><ruby>休<rt>やす</rt></ruby>むことができる「<ruby>週休３日制<rt>しゅうきゅうみっかせい</rt></ruby>」を<ruby>始<rt>はじ</rt></ruby>める<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えてきています。</p>\n\
+  <p><ruby>北陸電力<rt>ほくりくでんりょく</rt></ruby>も、<ruby>早<rt>はや</rt></ruby>い<ruby>場合<rt>ばあい</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>から「<ruby>週休３日制<rt>しゅうきゅうみっかせい</rt></ruby>」を<ruby>始<rt>はじ</rt></ruby>めることを<ruby>考<rt>かんが</rt></ruby>えています。その<ruby>前<rt>まえ</rt></ruby>に、<ruby>今年<rt>ことし</rt></ruby>８<ruby>月<rt>がつ</rt></ruby>から<ruby>来年<rt>らいねん</rt></ruby>１<ruby>月<rt>がつ</rt></ruby>まで１００<ruby>人<rt>にん</rt></ruby>ぐらいの<span\
+  \ style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>が「<ruby>週休３日制<rt>しゅうきゅうみっかせい</rt></ruby>」で<ruby>働<rt>はたら</rt></ruby>いてみることにしました。<ruby>休<rt>やす</rt></ruby>みの<ruby>日<rt>ひ</rt></ruby>は<ruby>増<rt>ふ</rt></ruby>えますが、１<ruby>日<rt>にち</rt></ruby>に<ruby>働<rt>はたら</rt></ruby>く<ruby>時間<rt>じかん</rt></ruby>は<ruby>長<rt>なが</rt></ruby>くなります。１<ruby>週間<rt>しゅうかん</rt></ruby>に<ruby>働<rt>はたら</rt></ruby>く<ruby>時間<rt>じかん</rt></ruby>と<span\
+  \ style=\"color: blue;\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>は<ruby>今<rt>いま</rt></ruby>までと<ruby>同<rt>おな</rt></ruby>じです。</p>\n\
+  <p><ruby>北陸電力<rt>ほくりくでんりょく</rt></ruby>は「<span style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>が<ruby>働<rt>はたら</rt></ruby>きやすい<ruby>会社<rt>かいしゃ</rt></ruby>にして、<ruby>仕事<rt>しごと</rt></ruby>がうまく<ruby>進<rt>すす</rt></ruby>むようにしたいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 社員
+  descriptions:
+  - その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。
+- word: 電力
+  descriptions:
+  - <ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>によるはたらきの<ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>単位</rb><rt>たんい</rt></ruby>は、ワット。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「W」。
+- word: 給料
+  descriptions:
+  - やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。
+web_news_url: /news/web/2017/07/26/北陸電力週休3日制など新勤務制度を試験導入へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011074481000/k10011074481000.html
+...
