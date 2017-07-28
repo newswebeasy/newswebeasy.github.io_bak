@@ -1,0 +1,42 @@
+---
+layout: easy_news
+newsid: k10011076091000
+categories: easy
+title: 東京の目黒区「新しいマンションには保育所を作って」
+title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>目黒区<rt>めぐろく</rt></ruby>「<ruby>新<rt>あたら</rt></ruby>しいマンションには<ruby>保育所<rt>ほいくしょ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>って」
+last_modified_at: '2017-07-28T11:30:00+09:00'
+datetime: 2017年07月28日 11時30分
+description: 東京とうきょうの目黒区めぐろくでは今年ことし４月がつ、保育所ほいくしょが足たりないため入はいることができなかった子こどもが６１７人にんいました。
+description_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>目黒区<rt>めぐろく</rt></ruby>では<ruby>今年<rt>ことし</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>、<ruby>保育所<rt>ほいくしょ</rt></ruby>が<ruby>足<rt>た</rt></ruby>りないため<ruby>入<rt>はい</rt></ruby>ることができなかった<ruby>子<rt>こ</rt></ruby>どもが６１７<ruby>人<rt>にん</rt></ruby>いました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/28/k10011076091000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/28/k10011076091000.mp3
+contents: "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>目黒区<rt>めぐろく</rt></ruby>では<ruby>今年<rt>ことし</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>保育所<rt>ほいくしょ</rt></ruby></span>が<ruby>足<rt>た</rt></ruby>りないため<ruby>入<rt>はい</rt></ruby>ることができなかった<ruby>子<rt>こ</rt></ruby>どもが６１７<ruby>人<rt>にん</rt></ruby>いました。<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>保育所<rt>ほいくしょ</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>がありますが、まだ<ruby>足<rt>た</rt></ruby>りません。</p>\n\
+  <p>このため<ruby>目黒区<rt>めぐろく</rt></ruby>は<span style=\"color: blue;\">マンション</span>などを<ruby>建<rt>た</rt></ruby>てるときの<ruby>区<rt>く</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>決<rt>き</rt></ruby>まり</span>を<ruby>変<rt>か</rt></ruby>えることにしました。４０m²<ruby>以上<rt>いじょう</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>が５０<ruby>軒<rt>けん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>ある<span\
+  \ style=\"color: blue;\">マンション</span>などを<ruby>建<rt>た</rt></ruby>てる<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>保育所<rt>ほいくしょ</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>るかどうか<ruby>目黒区<rt>めぐろく</rt></ruby>と<span\
+  \ style=\"color: blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>わ</span>なければなりません。<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>決<rt>き</rt></ruby>まり</span>は<ruby>今年<rt>ことし</rt></ruby>の１０<ruby>月<rt>がつ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まります。</p>\n\
+  <p><ruby>目黒区<rt>めぐろく</rt></ruby>の<ruby>青木<rt>あおき</rt></ruby><ruby>英二<rt>えいじ</rt></ruby><ruby>区長<rt>くちょう</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>保育所<rt>ほいくしょ</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>ることができない<ruby>場合<rt>ばあい</rt></ruby>は、しっかり<ruby>理由<rt>りゆう</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>してもらう<ruby>予定<rt>よてい</rt></ruby>です」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: マンション
+  descriptions:
+  - コンクリートで<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>で、<ruby><rb>高級</rb><rt>こうきゅう</rt></ruby>な<ruby><rb>感</rb><rt>かん</rt></ruby>じがするアパート。
+- word: 保育所
+  descriptions:
+  - <ruby><rb>幼</rb><rt>おさな</rt></ruby>い<ruby><rb>子</rb><rt>こ</rt></ruby>どもを<ruby><rb>朝</rb><rt>あさ</rt></ruby>から<ruby><rb>夕方</rb><rt>ゆうがた</rt></ruby>まで<ruby><rb>預</rb><rt>あず</rt></ruby>かって、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。ほいくしょ。<ruby><rb>保育園</rb><rt>ほいくえん</rt></ruby>。
+- word: 決まり
+  descriptions:
+  - <ruby><rb>決</rb><rt>き</rt></ruby>められていること。<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>習慣</rb><rt>しゅうかん</rt></ruby>。
+  - しめくくり。おさまり。
+- word: 話し合う
+  descriptions:
+  - たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。
+  - <ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。
+web_news_url: /news/web/2017/07/27/マンションに保育所設置協議を義務づけへ-東京-目黒区/
+source_url: http://www3.nhk.or.jp/news/easy/k10011076091000/k10011076091000.html
+...
