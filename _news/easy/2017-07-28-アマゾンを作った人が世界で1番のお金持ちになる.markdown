@@ -1,0 +1,45 @@
+---
+layout: easy_news
+newsid: k10011077671000
+categories: easy
+title: アマゾンを作った人が世界で１番のお金持ちになる
+title_with_ruby: アマゾンを<ruby>作<rt>つく</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>が<ruby>世界<rt>せかい</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby>のお<ruby>金持<rt>かねも</rt></ruby>ちになる
+last_modified_at: '2017-07-28T16:00:00+09:00'
+datetime: 2017年07月28日 16時00分
+description: アメリカの経済けいざいの雑誌ざっし「フォーブス」は２７日にち、アメリカのアマゾン・ドット・コムという会社かいしゃを作つくったジェフ・ベゾスさんが、世界せかいで１番ばんのお金持かねもちになったと発表はっぴょうしました。
+description_with_ruby: アメリカの<ruby>経済<rt>けいざい</rt></ruby>の<ruby>雑誌<rt>ざっし</rt></ruby>「フォーブス」は２７<ruby>日<rt>にち</rt></ruby>、アメリカのアマゾン・ドット・コムという<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ったジェフ・ベゾスさんが、<ruby>世界<rt>せかい</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby>のお<ruby>金持<rt>かねも</rt></ruby>ちになったと<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/28/k10011077671000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/28/k10011077671000.mp3
+contents: "<p>アメリカの<ruby>経済<rt>けいざい</rt></ruby>の<ruby>雑誌<rt>ざっし</rt></ruby>「フォーブス」は２７<ruby>日<rt>にち</rt></ruby>、アメリカのアマゾン・ドット・コムという<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ったジェフ・ベゾスさんが、<ruby>世界<rt>せかい</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby>のお<ruby>金持<rt>かねも</rt></ruby>ちになったと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。ベゾスさんが<ruby>持<rt>も</rt></ruby>っているお<ruby>金<rt>かね</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>財産<rt>ざいさん</rt></ruby></span>は<ruby>全部<rt>ぜんぶ</rt></ruby>で９０１<ruby>億<rt>おく</rt></ruby><span\
+  \ style=\"color: blue;\">ドル</span>、<ruby>日本<rt>にっぽん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>で１０<span\
+  \ style=\"color: blue;\"><ruby>兆<rt>ちょう</rt></ruby></span><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>でした。ベゾスさんは<ruby>初<rt>はじ</rt></ruby>めて、<ruby>世界<rt>せかい</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby>のお<ruby>金持<rt>かねも</rt></ruby>ちになりました。</p>\n\
+  <p>アマゾンはインターネットでいろいろな<ruby>物<rt>もの</rt></ruby>を<ruby>売<rt>う</rt></ruby>っている<ruby>会社<rt>かいしゃ</rt></ruby>で、ベゾスさんはアマゾンの<span\
+  \ style=\"color: blue;\"><ruby>株<rt>かぶ</rt></ruby></span>を１７％ぐらい<ruby>持<rt>も</rt></ruby>っています。アマゾンの<span\
+  \ style=\"color: blue;\"><ruby>株<rt>かぶ</rt></ruby></span>が１<ruby>年<rt>ねん</rt></ruby>で４０％<ruby>以上<rt>いじょう</rt></ruby><ruby>高<rt>たか</rt></ruby>くなったため、ベゾスさんの<span\
+  \ style=\"color: blue;\"><ruby>財産<rt>ざいさん</rt></ruby></span>も<ruby>増<rt>ふ</rt></ruby>えました。</p>\n\
+  <p><ruby>今<rt>いま</rt></ruby>まで１<ruby>番<rt>ばん</rt></ruby>だったのは、マイクロソフトという<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ったビル・ゲイツさんでした。ゲイツさんが<ruby>持<rt>も</rt></ruby>っているお<ruby>金<rt>かね</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>財産<rt>ざいさん</rt></ruby></span>は<ruby>全部<rt>ぜんぶ</rt></ruby>で９００<ruby>億<rt>おく</rt></ruby><span\
+  \ style=\"color: blue;\">ドル</span>でした。</p>\n<p></p>\n<p></p>"
+words:
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 財産
+  descriptions:
+  - （<ruby><rb>個人</rb><rt>こじん</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>の<ruby><rb>持</rb><rt>も</rt></ruby>っている）お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>・<ruby><rb>土地</rb><rt>とち</rt></ruby>・<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>など、<ruby><rb>価値</rb><rt>かち</rt></ruby>のあるもの。<ruby><rb>資産</rb><rt>しさん</rt></ruby>。
+- word: ドル
+  descriptions:
+  - アメリカ・カナダなどで<ruby><rb>使</rb><rt>つか</rt></ruby>われているお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>１</rb><rt>いち</rt></ruby>ドルは１００セント。
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 兆
+  descriptions:
+  - <ruby><rb>一億</rb><rt>いちおく</rt></ruby>の<ruby><rb>一万倍</rb><rt>いちまんばい</rt></ruby>。
+  - しるし。<ruby><rb>前</rb><rt>まえ</rt></ruby>ぶれ。
+- word: 株式
+  descriptions:
+  - <ruby><rb>株式会社</rb><rt>かぶしきがいしゃ</rt></ruby>の<ruby><rb>元手</rb><rt>もとで</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>総額</rb><rt>そうがく</rt></ruby>を<ruby><rb>均等</rb><rt>きんとう</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>けた、その<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つをいう。
+web_news_url: /news/web/2017/07/28/米アマゾン創業者-世界一の富豪に米経済誌/
+source_url: http://www3.nhk.or.jp/news/easy/k10011077671000/k10011077671000.html
+...

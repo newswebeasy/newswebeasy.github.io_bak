@@ -1,0 +1,41 @@
+---
+layout: easy_news
+newsid: k10011075941000
+categories: easy
+title: イギリス　ガソリンの車は２０４０年から売ってはいけない
+title_with_ruby: イギリス　ガソリンの<ruby>車<rt>くるま</rt></ruby>は２０４０<ruby>年<rt>ねん</rt></ruby>から<ruby>売<rt>う</rt></ruby>ってはいけない
+last_modified_at: '2017-07-28T11:30:00+09:00'
+datetime: 2017年07月28日 11時30分
+description: イギリスの政府せいふは２６日にち、ガソリンやディーゼルエンジンで走はしる車くるまを売うることができるのは２０４０年ねんまでで、そのあとは売うってはいけないと言いいました。
+description_with_ruby: イギリスの<ruby>政府<rt>せいふ</rt></ruby>は２６<ruby>日<rt>にち</rt></ruby>、ガソリンやディーゼルエンジンで<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>を<ruby>売<rt>う</rt></ruby>ることができるのは２０４０<ruby>年<rt>ねん</rt></ruby>までで、そのあとは<ruby>売<rt>う</rt></ruby>ってはいけないと<ruby>言<rt>い</rt></ruby>いました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/28/k10011075941000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/28/k10011075941000.mp3
+contents: "<p>イギリスの<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は２６<ruby>日<rt>にち</rt></ruby>、ガソリンや<span\
+  \ style=\"color: blue;\">ディーゼルエンジン</span>で<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>を<ruby>売<rt>う</rt></ruby>ることができるのは２０４０<ruby>年<rt>ねん</rt></ruby>までで、そのあとは<ruby>売<rt>う</rt></ruby>ってはいけないと<ruby>言<rt>い</rt></ruby>いました。<span\
+  \ style=\"color: blue;\"><ruby>排気<rt>はいき</rt></ruby>ガス</span>で<ruby>空気<rt>くうき</rt></ruby>が<ruby>汚<rt>よご</rt></ruby>れないようにするためです。イギリスは、<ruby>電気<rt>でんき</rt></ruby>で<ruby>走<rt>はし</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>排気<rt>はいき</rt></ruby>ガス</span>を<ruby>出<rt>だ</rt></ruby>さない「<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>」をみんなが<ruby>使<rt>つか</rt></ruby>うようにしたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>フランスも、ガソリンで<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>などは２０４０<ruby>年<rt>ねん</rt></ruby>までに<ruby>売<rt>う</rt></ruby>ることができないようにすると<ruby>今月<rt>こんげつ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しています。</p>\n<p>このため、スウェーデンのボルボは、２０１９<ruby>年<rt>ねん</rt></ruby>から<ruby>作<rt>つく</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>か、<ruby>電気<rt>でんき</rt></ruby>とガソリンで<ruby>走<rt>はし</rt></ruby>る「ハイブリッド<ruby>車<rt>しゃ</rt></ruby>」にすると<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。ドイツのＢＭＷも<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>などをもっとたくさん<ruby>作<rt>つく</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p><span style=\"color: blue;\">ヨーロッパ</span>では、<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>がこれからもっと<ruby>増<rt>ふ</rt></ruby>えそうです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: ディーゼルエンジン
+  descriptions:
+  - ドイツ<ruby><rb>人</rb><rt>じん</rt></ruby>ディーゼルが<ruby><rb>発明</rb><rt>はつめい</rt></ruby>したエンジン。<ruby><rb>圧縮</rb><rt>あっしゅく</rt></ruby>した<ruby><rb>空気</rb><rt>くうき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>重油</rb><rt>じゅうゆ</rt></ruby>や<ruby><rb>軽油</rb><rt>けいゆ</rt></ruby>をふきこんで<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>させ、その<ruby><rb>勢</rb><rt>いきお</rt></ruby>いでピストンを<ruby><rb>動</rb><rt>うご</rt></ruby>かす。ジーゼルエンジン。
+- word: 排気ガス
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>などのエンジンからはき<ruby><rb>出</rb><rt>だ</rt></ruby>される、<ruby><rb>不用</rb><rt>ふよう</rt></ruby>になったガス。<ruby><rb>有害</rb><rt>ゆうがい</rt></ruby>な<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>をふくみ、<ruby><rb>大気汚染</rb><rt>たいきおせん</rt></ruby>の<ruby><rb>原因</rb><rt>げんいん</rt></ruby>になる。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+web_news_url: /news/web/2017/07/27/英-ガソリン車など2040年で販売禁止-電動化加速へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011075941000/k10011075941000.html
+...
