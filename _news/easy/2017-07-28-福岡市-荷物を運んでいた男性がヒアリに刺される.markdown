@@ -1,0 +1,57 @@
+---
+layout: easy_news
+newsid: k10011077351000
+categories: easy
+title: 福岡市　荷物を運んでいた男性がヒアリに刺される
+title_with_ruby: <ruby>福岡市<rt>ふくおかし</rt></ruby>　<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>んでいた<ruby>男性<rt>だんせい</rt></ruby>がヒアリに<ruby>刺<rt>さ</rt></ruby>される
+last_modified_at: '2017-07-28T16:00:00+09:00'
+datetime: 2017年07月28日 16時00分
+description: ヒアリは強つよい毒どくを持もっている外国がいこくのアリで、刺さされるとやけどをしたように痛いたくなります。
+description_with_ruby: ヒアリは<ruby>強<rt>つよ</rt></ruby>い<ruby>毒<rt>どく</rt></ruby>を<ruby>持<rt>も</rt></ruby>っている<ruby>外国<rt>がいこく</rt></ruby>のアリで、<ruby>刺<rt>さ</rt></ruby>されるとやけどをしたように<ruby>痛<rt>いた</rt></ruby>くなります。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/28/k10011077351000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/28/k10011077351000.mp3
+contents: "<p>ヒアリは<ruby>強<rt>つよ</rt></ruby>い<span style=\"color: blue;\"><ruby>毒<rt>どく</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>っている<ruby>外国<rt>がいこく</rt></ruby>の<span\
+  \ style=\"color: blue;\">アリ</span>で、<span style=\"color: blue;\"><ruby>刺<rt>さ</rt></ruby>さ</span>れると<span\
+  \ style=\"color: blue;\">やけど</span>をしたように<ruby>痛<rt>いた</rt></ruby>くなります。<ruby>日本<rt>にっぽん</rt></ruby>では５<ruby>月<rt>がつ</rt></ruby>ごろから、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>船<rt>ふね</rt></ruby>で<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>着<rt>つ</rt></ruby>く<ruby>港<rt>みなと</rt></ruby>などでヒアリがたくさん<ruby>見<rt>み</rt></ruby>つかっています。</p>\n\
+  <p>７<ruby>月<rt>がつ</rt></ruby>２７<ruby>日<rt>にち</rt></ruby>、<ruby>福岡市<rt>ふくおかし</rt></ruby>で<span\
+  \ style=\"color: blue;\">コンテナ</span>から<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>んでいた<ruby>男性<rt>だんせい</rt></ruby>がヒアリに<span\
+  \ style=\"color: blue;\"><ruby>刺<rt>さ</rt></ruby>さ</span>れました。<ruby>周<rt>まわ</rt></ruby>りが<span\
+  \ style=\"color: blue;\"><ruby>腫<rt>は</rt></ruby>れ</span>たため<ruby>病院<rt>びょういん</rt></ruby>に<ruby>行<rt>い</rt></ruby>きましたが、ひどいけがではありませんでした。<span\
+  \ style=\"color: blue;\"><ruby>環境省<rt>かんきょうしょう</rt></ruby></span>によると、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>人<rt>ひと</rt></ruby>がヒアリに<span\
+  \ style=\"color: blue;\"><ruby>刺<rt>さ</rt></ruby>さ</span>れたことがわかったのは<ruby>初<rt>はじ</rt></ruby>めてです。</p>\n\
+  <p>この<span style=\"color: blue;\">コンテナ</span>は７<ruby>月<rt>がつ</rt></ruby><ruby>２４日<rt>にじゅうよっか</rt></ruby>に<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>広東省<rt>かんとんしょう</rt></ruby>から<ruby>福岡市<rt>ふくおかし</rt></ruby>の<ruby>博多港<rt>はかたこう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。<ruby>中<rt>なか</rt></ruby>からヒアリが３０<ruby>匹<rt>ぴき</rt></ruby>ぐらい<ruby>見<rt>み</rt></ruby>つかりましたが、<ruby>福岡市<rt>ふくおかし</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>殺<rt>ころ</rt></ruby>し</span>ました。<ruby>博多港<rt>はかたこう</rt></ruby>では７<ruby>月<rt>がつ</rt></ruby>２１<ruby>日<rt>にち</rt></ruby>から１００<ruby>匹<rt>ぴき</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>ヒアリが<ruby>見<rt>み</rt></ruby>つかっています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 刺す
+  descriptions:
+  - とがったものをつき<ruby><rb>通</rb><rt>とお</rt></ruby>す。
+  - <ruby><rb>鼻</rb><rt>はな</rt></ruby>・<ruby><rb>舌</rb><rt>した</rt></ruby>・はだなどに、するどい<ruby><rb>刺激</rb><rt>しげき</rt></ruby>をあたえる。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>走者</rb><rt>そうしゃ</rt></ruby>にタッチして、アウトにする。
+- word: 毒
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>のあるもの。<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>傷</rb><rt>きず</rt></ruby>つけるもの。
+- word: 蟻
+  descriptions:
+  - <ruby><rb>土</rb><rt>つち</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>や、たおれた<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>などに<ruby><rb>巣</rb><rt>す</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>昆虫</rb><rt>こんちゅう</rt></ruby>。クロオオアリ・アミメアリなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>卵</rb><rt>たまご</rt></ruby>をうむ<ruby><rb>女王</rb><rt>じょおう</rt></ruby>アリを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>に、<ruby><rb>雄</rb><rt>おす</rt></ruby>アリと<ruby><rb>働</rb><rt>はたら</rt></ruby>きアリが<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>している。
+- word: 火傷
+  descriptions:
+  - <ruby><rb>火</rb><rt>ひ</rt></ruby>や、<ruby><rb>熱</rb><rt>あつ</rt></ruby>いお<ruby><rb>湯</rb><rt>ゆ</rt></ruby>などにふれて、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>がただれること。
+- word: コンテナー
+  descriptions:
+  - <ruby><rb>貨物</rb><rt>かもつ</rt></ruby>の<ruby><rb>輸送</rb><rt>ゆそう</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>箱</rb><rt>はこ</rt></ruby>。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて、そのまま<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックで<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ。コンテナ。
+- word: 腫れる
+  descriptions:
+  - けがや<ruby><rb>病気</rb><rt>びょうき</rt></ruby>などのために、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>の<ruby><rb>一部</rb><rt>いちぶ</rt></ruby>がふくれ<ruby><rb>上</rb><rt>あ</rt></ruby>がる。
+- word: 環境省
+  descriptions:
+  - <ruby><rb>公害</rb><rt>こうがい</rt></ruby>をなくし、<ruby><rb>自然</rb><rt>しぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 殺す
+  descriptions:
+  - <ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - （<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。
+  - <ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。
+web_news_url: /news/web/2017/07/27/コンテナ作業員-ヒアリに刺される-福岡/
+source_url: http://www3.nhk.or.jp/news/easy/k10011077351000/k10011077351000.html
+...
