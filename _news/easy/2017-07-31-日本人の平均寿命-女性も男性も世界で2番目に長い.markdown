@@ -1,0 +1,56 @@
+---
+layout: easy_news
+newsid: k10011076691000
+categories: easy
+title: 日本人の平均寿命　女性も男性も世界で２番目に長い
+title_with_ruby: <ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>平均<rt>へいきん</rt></ruby><ruby>寿命<rt>じゅみょう</rt></ruby>　<ruby>女性<rt>じょせい</rt></ruby>も<ruby>男性<rt>だんせい</rt></ruby>も<ruby>世界<rt>せかい</rt></ruby>で２<ruby>番目<rt>ばんめ</rt></ruby>に<ruby>長<rt>なが</rt></ruby>い
+last_modified_at: '2017-07-31T11:30:00+09:00'
+datetime: 2017年07月31日 11時30分
+description: 厚生労働省こうせいろうどうしょうによると、去年きょねんの日本人にっぽんじんの平均へいきん寿命じゅみょうは、女性じょせいが８７．１４歳さい、男性だんせいが８０．９８歳さいでした。
+description_with_ruby: <ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby>によると、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>平均<rt>へいきん</rt></ruby><ruby>寿命<rt>じゅみょう</rt></ruby>は、<ruby>女性<rt>じょせい</rt></ruby>が８７．１４<ruby>歳<rt>さい</rt></ruby>、<ruby>男性<rt>だんせい</rt></ruby>が８０．９８<ruby>歳<rt>さい</rt></ruby>でした。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/31/k10011076691000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/31/k10011076691000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>によると、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>日本人<rt>にっぽんじん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>寿命<rt>じゅみょう</rt></ruby></span>は、<ruby>女性<rt>じょせい</rt></ruby>が８７．１４<ruby>歳<rt>さい</rt></ruby>、<ruby>男性<rt>だんせい</rt></ruby>が８０．９８<ruby>歳<rt>さい</rt></ruby>でした。おととしより<ruby>女性<rt>じょせい</rt></ruby>は０．１５<ruby>歳<rt>さい</rt></ruby>、<ruby>男性<rt>だんせい</rt></ruby>は０．２３<ruby>歳<rt>さい</rt></ruby><ruby>長<rt>なが</rt></ruby>くなって、どちらも<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>長<rt>なが</rt></ruby>くなりました。</p>\n\
+  <p><ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>や<span style=\"color: blue;\"\
+  ><ruby>地域<rt>ちいき</rt></ruby></span>と<ruby>比<rt>くら</rt></ruby>べると、<ruby>女性<rt>じょせい</rt></ruby>も<ruby>男性<rt>だんせい</rt></ruby>も<ruby>世界<rt>せかい</rt></ruby>で２<ruby>番<rt>ばん</rt></ruby>になりました。１<ruby>番<rt>ばん</rt></ruby>はどちらも<ruby>香港<rt>ほんこん</rt></ruby>でした。<ruby>女性<rt>じょせい</rt></ruby>は２０１４<ruby>年<rt>ねん</rt></ruby>まで３<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>世界<rt>せかい</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby>でしたが、おととし２<ruby>番<rt>ばん</rt></ruby>になりました。<ruby>男性<rt>だんせい</rt></ruby>はおととしは４<ruby>番<rt>ばん</rt></ruby>でしたが、<ruby>去年<rt>きょねん</rt></ruby>は２つ<ruby>上<rt>あ</rt></ruby>がりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>は「<ruby>病気<rt>びょうき</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>治<rt>なお</rt></ruby>す</span><ruby>技術<rt>ぎじゅつ</rt></ruby>が<ruby>進<rt>すす</rt></ruby>んで、<span\
+  \ style=\"color: blue;\">がん</span>などの<ruby>病気<rt>びょうき</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなる<ruby>人<rt>ひと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなっています。<span\
+  \ style=\"color: blue;\"><ruby>健康<rt>けんこう</rt></ruby></span>に<ruby>気<rt>き</rt></ruby>をつける<ruby>人<rt>ひと</rt></ruby>も<ruby>増<rt>ふ</rt></ruby>えているため、これからも<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>寿命<rt>じゅみょう</rt></ruby></span>が<ruby>長<rt>なが</rt></ruby>くなる<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+- word: 寿命
+  descriptions:
+  - <ruby><rb>命</rb><rt>いのち</rt></ruby>。<ruby><rb>命</rb><rt>いのち</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さ。
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>って<ruby><rb>使</rb><rt>つか</rt></ruby>える<ruby><rb>年数</rb><rt>ねんすう</rt></ruby>。
+- word: 厚生労働省
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。
+- word: 地域
+  descriptions:
+  - ある<ruby><rb>範囲</rb><rt>はんい</rt></ruby>に<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。
+- word: 治す
+  descriptions:
+  - <ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがをよくする。
+- word: がん
+  descriptions:
+  - <ruby><rb>悪性</rb><rt>あくせい</rt></ruby>のはれものができる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にできたがん<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>がどんどん<ruby><rb>増</rb><rt>ふ</rt></ruby>えて<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>害</rb><rt>がい</rt></ruby>をあたえる。
+- word: 健康
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+web_news_url: /news/web/2017/07/27/平均寿命は過去最高更新-世界2位/
+source_url: http://www3.nhk.or.jp/news/easy/k10011076691000/k10011076691000.html
+...

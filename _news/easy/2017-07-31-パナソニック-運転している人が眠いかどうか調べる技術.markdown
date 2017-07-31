@@ -1,0 +1,47 @@
+---
+layout: easy_news
+newsid: k10011076721000
+categories: easy
+title: パナソニック　運転している人が眠いかどうか調べる技術
+title_with_ruby: パナソニック　<ruby>運転<rt>うんてん</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>が<ruby>眠<rt>ねむ</rt></ruby>いかどうか<ruby>調<rt>しら</rt></ruby>べる<ruby>技術<rt>ぎじゅつ</rt></ruby>
+last_modified_at: '2017-07-31T11:30:00+09:00'
+datetime: 2017年07月31日 11時30分
+description: 電化製品でんかせいひんを作つくっているパナソニックは、車くるまを運転うんてんしている人ひとが眠ねむいかどうかを調しらべる新あたらしい技術ぎじゅつを発表はっぴょうしました。
+description_with_ruby: <ruby>電化製品<rt>でんかせいひん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っているパナソニックは、<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>が<ruby>眠<rt>ねむ</rt></ruby>いかどうかを<ruby>調<rt>しら</rt></ruby>べる<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/31/k10011076721000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/31/k10011076721000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>電化製品<rt>でんかせいひん</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>っているパナソニックは、<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>が<ruby>眠<rt>ねむ</rt></ruby>いかどうかを<ruby>調<rt>しら</rt></ruby>べる<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p><ruby>運転<rt>うんてん</rt></ruby><ruby>席<rt>せき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>にあるカメラで、<ruby>運転<rt>うんてん</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>が<ruby>目<rt>め</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>閉<rt>と</rt></ruby>じ</span>たり<ruby>開<rt>あ</rt></ruby>けたりする<ruby>速<rt>はや</rt></ruby>さや、<ruby>眠<rt>ねむ</rt></ruby>い<ruby>顔<rt>かお</rt></ruby>をしていないかどうかなどをチェックします。<ruby>今<rt>いま</rt></ruby><ruby>眠<rt>ねむ</rt></ruby>いとわかったら、<ruby>運転<rt>うんてん</rt></ruby>をやめて<ruby>休<rt>やす</rt></ruby>むように<ruby>機械<rt>きかい</rt></ruby>が<ruby>言<rt>い</rt></ruby>います。</p>\n\
+  <p><ruby>別<rt>べつ</rt></ruby>のカメラや<span style=\"color: blue;\">センサー</span>を<ruby>使<rt>つか</rt></ruby>って、<ruby>運転<rt>うんてん</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>から<ruby>出<rt>で</rt></ruby>る<ruby>熱<rt>ねつ</rt></ruby>や<ruby>車<rt>くるま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>明<rt>あか</rt></ruby>るさを<ruby>調<rt>しら</rt></ruby>べると、１５<ruby>分<rt>ふん</rt></ruby>あとに<ruby>眠<rt>ねむ</rt></ruby>いかどうかもわかります。これから<ruby>眠<rt>ねむ</rt></ruby>くなるとわかったら、エアコンで<ruby>車<rt>くるま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>温度<rt>おんど</rt></ruby></span>を<ruby>下<rt>さ</rt></ruby>げたり、<ruby>音楽<rt>おんがく</rt></ruby>の<ruby>音<rt>おと</rt></ruby>を<ruby>大<rt>おお</rt></ruby>きくしたりして、<ruby>眠<rt>ねむ</rt></ruby>くならないようにします。<ruby>運転<rt>うんてん</rt></ruby><ruby>席<rt>せき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>画面<rt>がめん</rt></ruby></span>には、<ruby>休<rt>やす</rt></ruby>むことができる<ruby>場所<rt>ばしょ</rt></ruby>の<ruby>案内<rt>あんない</rt></ruby>を<ruby>出<rt>だ</rt></ruby>します。</p>\n\
+  <p>パナソニックは「<ruby>今年<rt>ことし</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>からこの<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>をする<ruby>予定<rt>よてい</rt></ruby>です。<ruby>運転<rt>うんてん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>眠<rt>ねむ</rt></ruby>くならないようにして<ruby>交通事故<rt>こうつうじこ</rt></ruby>を<ruby>少<rt>すく</rt></ruby>なくしたいです」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 電化製品
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って、はたらかせる<ruby><rb>機械</rb><rt>きかい</rt></ruby>。<ruby><rb>電気冷蔵庫</rb><rt>でんきれいぞうこ</rt></ruby>・<ruby><rb>電気洗濯機</rb><rt>でんきせんたくき</rt></ruby>など。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 閉じる
+  descriptions:
+  - <ruby><rb>閉</rb><rt>し</rt></ruby>める。ふさぐ。<ruby><rb>閉</rb><rt>し</rt></ruby>まる。
+  - <ruby><rb>終</rb><rt>お</rt></ruby>わりにする。
+- word: センサー
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>、<ruby><rb>温度</rb><rt>おんど</rt></ruby>などに<ruby><rb>反応</rb><rt>はんのう</rt></ruby>して、<ruby><rb>電気的</rb><rt>でんきてき</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 温度
+  descriptions:
+  - <ruby><rb>熱</rb><rt>あつ</rt></ruby>さや<ruby><rb>冷</rb><rt>つめ</rt></ruby>たさの<ruby><rb>度合</rb><rt>どあ</rt></ruby>いを<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。
+- word: 画面
+  descriptions:
+  - <ruby><rb>映画</rb><rt>えいが</rt></ruby>やテレビが<ruby><rb>映</rb><rt>うつ</rt></ruby>っている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+- word: 実験
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。
+web_news_url: /news/web/2017/07/27/パナソニック-ドライバーの眠気予測抑制技術を発表/
+source_url: http://www3.nhk.or.jp/news/easy/k10011076721000/k10011076721000.html
+...
