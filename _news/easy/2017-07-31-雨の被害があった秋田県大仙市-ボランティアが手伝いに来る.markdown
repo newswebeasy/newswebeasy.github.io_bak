@@ -1,0 +1,54 @@
+---
+layout: easy_news
+newsid: k10011080821000
+categories: easy
+title: 雨の被害があった秋田県大仙市　ボランティアが手伝いに来る
+title_with_ruby: <ruby>雨<rt>あめ</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>があった<ruby>秋田県<rt>あきたけん</rt></ruby><ruby>大仙市<rt>だいせんし</rt></ruby>　ボランティアが<ruby>手伝<rt>てつだ</rt></ruby>いに<ruby>来<rt>く</rt></ruby>る
+last_modified_at: '2017-07-31T16:00:00+09:00'
+datetime: 2017年07月31日 16時00分
+description: 秋田県あきたけんでは７月がつ２２日にちと２３日にちに雨あめがとてもたくさん降ふって、６００以上いじょうの家いえなどで床ゆかの上うえまで水みずが入はいってきました。
+description_with_ruby: <ruby>秋田県<rt>あきたけん</rt></ruby>では７<ruby>月<rt>がつ</rt></ruby>２２<ruby>日<rt>にち</rt></ruby>と２３<ruby>日<rt>にち</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>がとてもたくさん<ruby>降<rt>ふ</rt></ruby>って、６００<ruby>以上<rt>いじょう</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>などで<ruby>床<rt>ゆか</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>まで<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってきました。
+image_url: https://newswebeasy.github.io/ja201707/news/web/image/2017/07/31/k10011080821000.jpg
+voice_url: https://newswebeasy.github.io/ja201707/news/easy/voice/2017/07/31/k10011080821000.mp3
+contents: "<p><ruby>秋田県<rt>あきたけん</rt></ruby>では７<ruby>月<rt>がつ</rt></ruby>２２<ruby>日<rt>にち</rt></ruby>と２３<ruby>日<rt>にち</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>がとてもたくさん<ruby>降<rt>ふ</rt></ruby>って、６００<ruby>以上<rt>いじょう</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>などで<span\
+  \ style=\"color: blue;\"><ruby>床<rt>ゆか</rt></ruby></span>の<ruby>上<rt>うえ</rt></ruby>まで<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってきました。<ruby>特<rt>とく</rt></ruby>に<ruby>大仙市<rt>だいせんし</rt></ruby>では、<ruby>川<rt>かわ</rt></ruby>が<span\
+  \ style=\"color: blue;\">あふれ</span>てたくさんの<ruby>家<rt>いえ</rt></ruby>に<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってきて、<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>がありました。</p>\n<p>３０<ruby>日<rt>にち</rt></ruby>、<ruby>大仙市<rt>だいせんし</rt></ruby>に１８０<ruby>人<rt>にん</rt></ruby>の<span\
+  \ style=\"color: blue;\">ボランティア</span>が<ruby>来<rt>き</rt></ruby>て、<ruby>家<rt>いえ</rt></ruby>などを<ruby>片<rt>かた</rt></ruby>づける<ruby>手伝<rt>てつだ</rt></ruby>いをしました。<span\
+  \ style=\"color: blue;\">ボランティア</span>は、<span style=\"color: blue;\"><ruby>泥<rt>どろ</rt></ruby></span>で<ruby>汚<rt>よご</rt></ruby>れた<ruby>物<rt>もの</rt></ruby>を<ruby>家<rt>いえ</rt></ruby>から<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>だ</rt></ruby>して<ruby>洗<rt>あら</rt></ruby>ったり、<span\
+  \ style=\"color: blue;\">たまっ</span>た<span style=\"color: blue;\"><ruby>泥<rt>どろ</rt></ruby></span>を<ruby>掃除<rt>そうじ</rt></ruby>したりしました。</p>\n\
+  <p><ruby>宮城県<rt>みやぎけん</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<span style=\"color:\
+  \ blue;\">ボランティア</span>の<ruby>男性<rt>だんせい</rt></ruby>は「６<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>東日本大震災<rt>ひがしにほんだいしんさい</rt></ruby>のときたくさんの<span\
+  \ style=\"color: blue;\">ボランティア</span>に<span style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>け</span>てもらったので、<ruby>私<rt>わたし</rt></ruby>も<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>け</span>たいと<ruby>思<rt>おも</rt></ruby>って<ruby>来<rt>き</rt></ruby>ました。<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>頑張<rt>がんば</rt></ruby>りたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>雨<rt>あめ</rt></ruby>のあと<ruby>子<rt>こ</rt></ruby>どもの<ruby>家<rt>いえ</rt></ruby>にいるという<ruby>女性<rt>じょせい</rt></ruby>は「<span\
+  \ style=\"color: blue;\">ボランティア</span>のおかげで<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>家<rt>いえ</rt></ruby>がきれいになってきています。いつかまたこの<ruby>家<rt>いえ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>ってきたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>"
+words:
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: ボランティア
+  descriptions:
+  - <ruby><rb>社会</rb><rt>しゃかい</rt></ruby>のために、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>から<ruby><rb>進</rb><rt>すす</rt></ruby>んで、<ruby><rb>無料</rb><rt>むりょう</rt></ruby>で<ruby><rb>奉仕活動</rb><rt>ほうしかつどう</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 床
+  descriptions:
+  - <ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、<ruby><rb>地面</rb><rt>じめん</rt></ruby>より<ruby><rb>高</rb><rt>たか</rt></ruby>く、<ruby><rb>板</rb><rt>いた</rt></ruby>を<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>張</rb><rt>は</rt></ruby>ったところ。
+- word: あふれる
+  descriptions:
+  - いっぱいになって、こぼれる。
+  - <ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。
+- word: 泥
+  descriptions:
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>けのある、やわらかい<ruby><rb>土</rb><rt>つち</rt></ruby>。
+- word: たまる
+  descriptions:
+  - <ruby><rb>集</rb><rt>あつ</rt></ruby>まる。<ruby><rb>増</rb><rt>ふ</rt></ruby>える。
+  - <ruby><rb>後</rb><rt>あと</rt></ruby>まで<ruby><rb>残</rb><rt>のこ</rt></ruby>る。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+web_news_url: /news/web/2017/07/30/大雨被害の秋田大仙市に多くのボランティア/
+source_url: http://www3.nhk.or.jp/news/easy/k10011080821000/k10011080821000.html
+...
