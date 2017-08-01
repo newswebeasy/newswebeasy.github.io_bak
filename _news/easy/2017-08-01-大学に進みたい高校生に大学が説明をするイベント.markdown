@@ -1,0 +1,37 @@
+---
+layout: easy_news
+newsid: k10011080921000
+categories: easy
+title: 大学に進みたい高校生に大学が説明をするイベント
+title_with_ruby: <ruby>大学<rt>だいがく</rt></ruby>に<ruby>進<rt>すす</rt></ruby>みたい<ruby>高校生<rt>こうこうせい</rt></ruby>に<ruby>大学<rt>だいがく</rt></ruby>が<ruby>説明<rt>せつめい</rt></ruby>をするイベント
+last_modified_at: '2017-08-01T11:30:00+09:00'
+datetime: 2017年08月01日 11時30分
+description: 日本にっぽんでは大学だいがくに入はいるための試験しけんは冬ふゆ行おこなうことが多おおいため、高校生こうこうせいは進すすみたい大学だいがくを夏休なつやすみごろから決きめます。
+description_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>では<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るための<ruby>試験<rt>しけん</rt></ruby>は<ruby>冬<rt>ふゆ</rt></ruby><ruby>行<rt>おこな</rt></ruby>うことが<ruby>多<rt>おお</rt></ruby>いため、<ruby>高校生<rt>こうこうせい</rt></ruby>は<ruby>進<rt>すす</rt></ruby>みたい<ruby>大学<rt>だいがく</rt></ruby>を<ruby>夏休<rt>なつやす</rt></ruby>みごろから<ruby>決<rt>き</rt></ruby>めます。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/01/k10011080921000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/01/k10011080921000.mp3
+contents: "<p><ruby>日本<rt>にっぽん</rt></ruby>では<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るための<ruby>試験<rt>しけん</rt></ruby>は<ruby>冬<rt>ふゆ</rt></ruby><ruby>行<rt>おこな</rt></ruby>うことが<ruby>多<rt>おお</rt></ruby>いため、<ruby>高校生<rt>こうこうせい</rt></ruby>は<ruby>進<rt>すす</rt></ruby>みたい<ruby>大学<rt>だいがく</rt></ruby>を<ruby>夏休<rt>なつやす</rt></ruby>みごろから<ruby>決<rt>き</rt></ruby>めます。</p>\n\
+  <p><ruby>大学<rt>だいがく</rt></ruby>に<ruby>進<rt>すす</rt></ruby>みたい<ruby>高校生<rt>こうこうせい</rt></ruby>のために、<ruby>日本中<rt>にほんじゅう</rt></ruby>のいろいろな<ruby>大学<rt>だいがく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まって<ruby>説明<rt>せつめい</rt></ruby>をする<span\
+  \ style=\"color: blue;\">イベント</span>が<ruby>東京<rt>とうきょう</rt></ruby>でありました。２００<ruby>以上<rt>いじょう</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>が<ruby>出席<rt>しゅっせき</rt></ruby>して、<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>５<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>の<ruby>高校生<rt>こうこうせい</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まりました。<ruby>高校<rt>こうこう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るとすぐどの<ruby>大学<rt>だいがく</rt></ruby>に<ruby>行<rt>い</rt></ruby>くか<ruby>考<rt>かんが</rt></ruby>える<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いため、ほとんどが１<ruby>年生<rt>ねんせい</rt></ruby>と２<ruby>年生<rt>ねんせい</rt></ruby>でした。</p>\n\
+  <p><ruby>高校生<rt>こうこうせい</rt></ruby>は、<ruby>興味<rt>きょうみ</rt></ruby>がある<ruby>大学<rt>だいがく</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いたり、<ruby>試験<rt>しけん</rt></ruby>について<ruby>相談<rt>そうだん</rt></ruby>したりしました。<ruby>会場<rt>かいじょう</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う<ruby>大学<rt>だいがく</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>聞<rt>き</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>もいました。</p>\n\
+  <p><ruby>専門家<rt>せんもんか</rt></ruby>によると、<ruby>学部<rt>がくぶ</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>が<ruby>昔<rt>むかし</rt></ruby>より<ruby>増<rt>ふ</rt></ruby>えています。このため、<span\
+  \ style=\"color: blue;\">イベント</span>でいろいろな<ruby>学部<rt>がくぶ</rt></ruby>を<ruby>知<rt>し</rt></ruby>ってから、<ruby>大学<rt>だいがく</rt></ruby>を<ruby>決<rt>き</rt></ruby>める<ruby>高校生<rt>こうこうせい</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなっています。</p>\n\
+  <p></p>"
+words:
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+web_news_url: /news/web/2017/07/30/広がる大学選びの支援イベント/
+source_url: http://www3.nhk.or.jp/news/easy/k10011080921000/k10011080921000.html
+...
