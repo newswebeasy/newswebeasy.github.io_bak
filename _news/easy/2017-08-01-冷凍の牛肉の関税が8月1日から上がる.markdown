@@ -1,0 +1,51 @@
+---
+layout: easy_news
+newsid: k10011082531000
+categories: easy
+title: 冷凍の牛肉の関税が８月１日から上がる
+title_with_ruby: <ruby>冷凍<rt>れいとう</rt></ruby>の<ruby>牛肉<rt>ぎゅうにく</rt></ruby>の<ruby>関税<rt>かんぜい</rt></ruby>が８<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から<ruby>上<rt>あ</rt></ruby>がる
+last_modified_at: '2017-08-01T16:10:00+09:00'
+datetime: 2017年08月01日 16時10分
+description: 今年ことし４月がつから６月がつに輸入ゆにゅうした冷凍れいとうの牛肉ぎゅうにくは、去年きょねんの４月がつから６月がつより１７％以上いじょう多おおくなりました。
+description_with_ruby: <ruby>今年<rt>ことし</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>から６<ruby>月<rt>がつ</rt></ruby>に<ruby>輸入<rt>ゆにゅう</rt></ruby>した<ruby>冷凍<rt>れいとう</rt></ruby>の<ruby>牛肉<rt>ぎゅうにく</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>の４<ruby>月<rt>がつ</rt></ruby>から６<ruby>月<rt>がつ</rt></ruby>より１７％<ruby>以上<rt>いじょう</rt></ruby><ruby>多<rt>おお</rt></ruby>くなりました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/01/k10011082531000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/01/k10011082531000.mp3
+contents: "<p><ruby>今年<rt>ことし</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>から６<ruby>月<rt>がつ</rt></ruby>に<ruby>輸入<rt>ゆにゅう</rt></ruby>した<span\
+  \ style=\"color: blue;\"><ruby>冷凍<rt>れいとう</rt></ruby></span>の<ruby>牛肉<rt>ぎゅうにく</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>の４<ruby>月<rt>がつ</rt></ruby>から６<ruby>月<rt>がつ</rt></ruby>より１７％<ruby>以上<rt>いじょう</rt></ruby><ruby>多<rt>おお</rt></ruby>くなりました。このため<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<span style=\"color:\
+  \ blue;\"><ruby>冷凍<rt>れいとう</rt></ruby></span>の<ruby>牛肉<rt>ぎゅうにく</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>関税<rt>かんぜい</rt></ruby></span>を<ruby>上<rt>あ</rt></ruby>げることにしました。<span\
+  \ style=\"color: blue;\"><ruby>国際的<rt>こくさいてき</rt></ruby></span>な<ruby>貿易<rt>ぼうえき</rt></ruby>の<span\
+  \ style=\"color: blue;\">ルール</span>で、<ruby>輸入<rt>ゆにゅう</rt></ruby>した<span style=\"\
+  color: blue;\"><ruby>量<rt>りょう</rt></ruby></span>が<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>とし</rt></ruby>より１７％<ruby>以上<rt>いじょう</rt></ruby><ruby>多<rt>おお</rt></ruby>くなると、<span\
+  \ style=\"color: blue;\"><ruby>関税<rt>かんぜい</rt></ruby></span>を<ruby>上<rt>あ</rt></ruby>げると<ruby>決<rt>き</rt></ruby>まっています。</p>\n\
+  <p>アメリカやニュージーランド、カナダなどから<ruby>輸入<rt>ゆにゅう</rt></ruby>する<span style=\"color: blue;\"\
+  ><ruby>冷凍<rt>れいとう</rt></ruby></span>の<ruby>牛肉<rt>ぎゅうにく</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>関税<rt>かんぜい</rt></ruby></span>は３８．５％でした。しかし、８<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から<ruby>来年<rt>らいねん</rt></ruby>の３<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>まで５０％に<ruby>上<rt>あ</rt></ruby>がります。</p>\n\
+  <p><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby>によると、<span style=\"color: blue;\"><ruby>冷凍<rt>れいとう</rt></ruby></span>の<ruby>牛肉<rt>ぎゅうにく</rt></ruby>は<ruby>輸入<rt>ゆにゅう</rt></ruby>する<ruby>牛肉<rt>ぎゅうにく</rt></ruby>の２０％ぐらいで、<ruby>牛丼<rt>ぎゅうどん</rt></ruby>や<ruby>焼<rt>や</rt></ruby>き<ruby>肉<rt>にく</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>などが<ruby>使<rt>つか</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 冷凍
+  descriptions:
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>長</rb><rt>なが</rt></ruby>くもたせるために、<ruby><rb>凍</rb><rt>こお</rt></ruby>らせること。
+- word: 関税
+  descriptions:
+  - <ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>輸入</rb><rt>ゆにゅう</rt></ruby>する<ruby><rb>品物</rb><rt>しなもの</rt></ruby>に<ruby><rb>国</rb><rt>くに</rt></ruby>がかける<ruby><rb>税金</rb><rt>ぜいきん</rt></ruby>。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 国際的
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>に<ruby><rb>関係</rb><rt>かんけい</rt></ruby>のあるようす。
+- word: ルール
+  descriptions:
+  - <ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。
+- word: 量
+  descriptions:
+  - かさ。ますめ。
+  - ものをはかる。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>広</rb><rt>ひろ</rt></ruby>さ。<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさ。
+web_news_url: /news/web/2017/08/01/冷凍牛肉セーフガードきょうから関税引き上げ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011082531000/k10011082531000.html
+...

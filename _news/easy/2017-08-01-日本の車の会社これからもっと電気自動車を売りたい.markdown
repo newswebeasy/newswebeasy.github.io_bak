@@ -1,0 +1,49 @@
+---
+layout: easy_news
+newsid: k10011080811000
+categories: easy
+title: 日本の車の会社「これからもっと電気自動車を売りたい」
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>「これからもっと<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>を<ruby>売<rt>う</rt></ruby>りたい」
+last_modified_at: '2017-08-01T11:30:00+09:00'
+datetime: 2017年08月01日 11時30分
+description: イギリスの政府せいふは、２０４０年ねんよりあとはガソリンやディーゼルエンジンで走はしる車くるまを売うってはいけないと言いいました。
+description_with_ruby: イギリスの<ruby>政府<rt>せいふ</rt></ruby>は、２０４０<ruby>年<rt>ねん</rt></ruby>よりあとはガソリンやディーゼルエンジンで<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>を<ruby>売<rt>う</rt></ruby>ってはいけないと<ruby>言<rt>い</rt></ruby>いました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/01/k10011080811000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/01/k10011080811000.mp3
+contents: "<p>イギリスの<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、２０４０<ruby>年<rt>ねん</rt></ruby>よりあとはガソリンや<span\
+  \ style=\"color: blue;\">ディーゼルエンジン</span>で<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>を<ruby>売<rt>う</rt></ruby>ってはいけないと<ruby>言<rt>い</rt></ruby>いました。イギリス<ruby>以外<rt>いがい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>でも、<ruby>車<rt>くるま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>排気<rt>はいき</rt></ruby>ガス</span>で<ruby>空気<rt>くうき</rt></ruby>が<ruby>汚<rt>よご</rt></ruby>れないようにするために<span\
+  \ style=\"color: blue;\"><ruby>決<rt>き</rt></ruby>まり</span>を<ruby>厳<rt>きび</rt></ruby>しくしています。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>も、<ruby>電気<rt>でんき</rt></ruby>で<ruby>走<rt>はし</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>排気<rt>はいき</rt></ruby>ガス</span>を<ruby>出<rt>だ</rt></ruby>さない「<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>」をもっとつくって<ruby>売<rt>う</rt></ruby>りたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p>トヨタ<ruby>自動車<rt>じどうしゃ</rt></ruby>は、これから<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>をたくさん<ruby>生産<rt>せいさん</rt></ruby>して、２０１９<ruby>年<rt>ねん</rt></ruby>から<ruby>中国<rt>ちゅうごく</rt></ruby>で<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>を<ruby>売<rt>う</rt></ruby>りたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><ruby>日産自動車<rt>にっさんじどうしゃ</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>に、１<ruby>回<rt>かい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>充電<rt>じゅうでん</rt></ruby></span>で<ruby>長<rt>なが</rt></ruby>く<ruby>走<rt>はし</rt></ruby>ることができる<ruby>新<rt>あたら</rt></ruby>しい<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>を<ruby>日本<rt>にっぽん</rt></ruby>やアメリカ、<span\
+  \ style=\"color: blue;\">ヨーロッパ</span>で<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めます。<ruby>中国<rt>ちゅうごく</rt></ruby>では<ruby>値段<rt>ねだん</rt></ruby>が<ruby>安<rt>やす</rt></ruby>い<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しく<ruby>売<rt>う</rt></ruby>る<ruby>計画<rt>けいかく</rt></ruby>です。</p>\n\
+  <p>ホンダも<ruby>来年<rt>らいねん</rt></ruby>、<ruby>中国<rt>ちゅうごく</rt></ruby>で<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>を<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める<ruby>計画<rt>けいかく</rt></ruby>です。</p>\n\
+  <p></p>"
+words:
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: ディーゼルエンジン
+  descriptions:
+  - ドイツ<ruby><rb>人</rb><rt>じん</rt></ruby>ディーゼルが<ruby><rb>発明</rb><rt>はつめい</rt></ruby>したエンジン。<ruby><rb>圧縮</rb><rt>あっしゅく</rt></ruby>した<ruby><rb>空気</rb><rt>くうき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>重油</rb><rt>じゅうゆ</rt></ruby>や<ruby><rb>軽油</rb><rt>けいゆ</rt></ruby>をふきこんで<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>させ、その<ruby><rb>勢</rb><rt>いきお</rt></ruby>いでピストンを<ruby><rb>動</rb><rt>うご</rt></ruby>かす。ジーゼルエンジン。
+- word: 排気ガス
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>などのエンジンからはき<ruby><rb>出</rb><rt>だ</rt></ruby>される、<ruby><rb>不用</rb><rt>ふよう</rt></ruby>になったガス。<ruby><rb>有害</rb><rt>ゆうがい</rt></ruby>な<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>をふくみ、<ruby><rb>大気汚染</rb><rt>たいきおせん</rt></ruby>の<ruby><rb>原因</rb><rt>げんいん</rt></ruby>になる。
+- word: 決まり
+  descriptions:
+  - <ruby><rb>決</rb><rt>き</rt></ruby>められていること。<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>習慣</rb><rt>しゅうかん</rt></ruby>。
+  - しめくくり。おさまり。
+- word: 充電
+  descriptions:
+  - <ruby><rb>蓄電池</rb><rt>ちくでんち</rt></ruby>に<ruby><rb>電気</rb><rt>でんき</rt></ruby>をたくわえること。
+  - <ruby><rb>活力</rb><rt>かつりょく</rt></ruby>をたくわえること。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+web_news_url: /news/web/2017/07/30/日本の大手自動車メーカー-電気自動車へシフト本格化/
+source_url: http://www3.nhk.or.jp/news/easy/k10011080811000/k10011080811000.html
+...
