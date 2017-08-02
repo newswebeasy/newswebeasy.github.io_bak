@@ -1,0 +1,72 @@
+---
+layout: easy_news
+newsid: k10011082511000
+categories: easy
+title: 奈良市の郊外で畑の野菜を食べる鹿を捕まえる
+title_with_ruby: <ruby>奈良市<rt>ならし</rt></ruby>の<ruby>郊外<rt>こうがい</rt></ruby>で<ruby>畑<rt>はたけ</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる<ruby>鹿<rt>しか</rt></ruby>を<ruby>捕<rt>つか</rt></ruby>まえる
+last_modified_at: '2017-08-02T11:30:00+09:00'
+datetime: 2017年08月02日 11時30分
+description: 奈良なら公園こうえんなど奈良市ならしにいる鹿しかは、１９５７年ねんに国くにの天然記念物てんねんきねんぶつになって、守まもられています。
+description_with_ruby: <ruby>奈良<rt>なら</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>など<ruby>奈良市<rt>ならし</rt></ruby>にいる<ruby>鹿<rt>しか</rt></ruby>は、１９５７<ruby>年<rt>ねん</rt></ruby>に<ruby>国<rt>くに</rt></ruby>の<ruby>天然記念物<rt>てんねんきねんぶつ</rt></ruby>になって、<ruby>守<rt>まも</rt></ruby>られています。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/02/k10011082511000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/02/k10011082511000.mp3
+contents: "<p><ruby>奈良<rt>なら</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>など<ruby>奈良市<rt>ならし</rt></ruby>にいる<span\
+  \ style=\"color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>は、１９５７<ruby>年<rt>ねん</rt></ruby>に<ruby>国<rt>くに</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>天然記念物<rt>てんねんきねんぶつ</rt></ruby></span>になって、<span style=\"\
+  color: blue;\"><ruby>守<rt>まも</rt></ruby>ら</span>れています。しかし、<span style=\"color: blue;\"\
+  ><ruby>鹿<rt>しか</rt></ruby></span>が<ruby>多<rt>おお</rt></ruby>くなって、<ruby>奈良市<rt>ならし</rt></ruby>の<ruby>郊外<rt>こうがい</rt></ruby>などでは<span\
+  \ style=\"color: blue;\"><ruby>畑<rt>はたけ</rt></ruby></span>の<ruby>野菜<rt>やさい</rt></ruby>などが<span\
+  \ style=\"color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>に<ruby>食<rt>た</rt></ruby>べられる<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>が<ruby>増<rt>ふ</rt></ruby>えています。</p>\n\
+  <p>このため<ruby>奈良県<rt>ならけん</rt></ruby>は、<ruby>郊外<rt>こうがい</rt></ruby>で<span style=\"\
+  color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>を<ruby>捕<rt>つか</rt></ruby>まえる<span\
+  \ style=\"color: blue;\"><ruby>許可<rt>きょか</rt></ruby></span>を<ruby>国<rt>くに</rt></ruby>からもらいました。<ruby>奈良県<rt>ならけん</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>を<ruby>捕<rt>つか</rt></ruby>まえる<span\
+  \ style=\"color: blue;\">わな</span>を<ruby>郊外<rt>こうがい</rt></ruby>に<ruby>置<rt>お</rt></ruby>いて、<ruby>来年<rt>らいねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>までに１２０<ruby>匹<rt>ぴき</rt></ruby>ぐらい<ruby>捕<rt>つか</rt></ruby>まえる<ruby>計画<rt>けいかく</rt></ruby>です。</p>\n\
+  <p><ruby>奈良県<rt>ならけん</rt></ruby>は「<ruby>奈良<rt>なら</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>はこれからも<span style=\"color:\
+  \ blue;\"><ruby>守<rt>まも</rt></ruby>っ</span>ていきます。しかし、<span style=\"color: blue;\"\
+  ><ruby>農家<rt>のうか</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>たちが<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby><ruby>困<rt>こま</rt></ruby>っているので、<ruby>郊外<rt>こうがい</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>を<ruby>捕<rt>つか</rt></ruby>まえることは<span\
+  \ style=\"color: blue;\">しかたがない</span>と<ruby>思<rt>おも</rt></ruby>います」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 畑
+  descriptions:
+  - <ruby><rb>野菜</rb><rt>やさい</rt></ruby>や<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>土地</rb><rt>とち</rt></ruby>。
+  - <ruby><rb>専門</rb><rt>せんもん</rt></ruby>。
+- word: 鹿
+  descriptions:
+  - <ruby><rb>森林</rb><rt>しんりん</rt></ruby>や<ruby><rb>山野</rb><rt>さんや</rt></ruby>にすむ、<ruby><rb>草食</rb><rt>そうしょく</rt></ruby>のおとなしいけもの。<ruby><rb>足</rb><rt>あし</rt></ruby>は<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>く、<ruby><rb>雄</rb><rt>おす</rt></ruby>は<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>枝</rb><rt>えだ</rt></ruby>のような<ruby><rb>角</rb><rt>つの</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ。<ruby><rb>世界各地</rb><rt>せかいかくち</rt></ruby>にいる。
+- word: 天然記念物
+  descriptions:
+  - <ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>で、だいじにするように<ruby><rb>決</rb><rt>き</rt></ruby>められている、めずらしい<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>や<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>・<ruby><rb>鉱物</rb><rt>こうぶつ</rt></ruby>のこと。<ruby><rb>例</rb><rt>たと</rt></ruby>えば、<ruby><rb>北海道</rb><rt>ほっかいどう</rt></ruby>の<ruby><rb>阿寒湖</rb><rt>あかんこ</rt></ruby>のマリモなど。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 許可
+  descriptions:
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>ていたことを、よいと<ruby><rb>許</rb><rt>ゆる</rt></ruby>すこと。<ruby><rb>許</rb><rt>ゆる</rt></ruby>し。
+- word: わな
+  descriptions:
+  - <ruby><rb>鳥</rb><rt>とり</rt></ruby>や、けものなどをおびき<ruby><rb>寄</rb><rt>よ</rt></ruby>せて、つかまえる<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>をおとしいれるたくらみ。<ruby><rb>計略</rb><rt>けいりゃく</rt></ruby>。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 農家
+  descriptions:
+  - <ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らしを<ruby><rb>立</rb><rt>た</rt></ruby>てている<ruby><rb>家</rb><rt>いえ</rt></ruby>。また、その<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+- word: 仕方がない
+  descriptions:
+  - ほかによい<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>がない。
+  - よくない。しようがない。
+  - たまらない。
+web_news_url: /news/web/2017/08/01/国の天然記念物奈良のシカ初の捕獲開始/
+source_url: http://www3.nhk.or.jp/news/easy/k10011082511000/k10011082511000.html
+...

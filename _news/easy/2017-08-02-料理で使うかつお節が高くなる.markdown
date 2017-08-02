@@ -1,0 +1,48 @@
+---
+layout: easy_news
+newsid: k10011082331000
+categories: easy
+title: 料理で使う「かつお節」が高くなる
+title_with_ruby: <ruby>料理<rt>りょうり</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う「かつお<ruby>節<rt>ぶし</rt></ruby>」が<ruby>高<rt>たか</rt></ruby>くなる
+last_modified_at: '2017-08-02T11:30:00+09:00'
+datetime: 2017年08月02日 11時30分
+description: 日本料理にほんりょうりでよく使つかうかつお節ぶしの値段ねだんを高たかくする会社かいしゃが増ふえています。
+description_with_ruby: <ruby>日本料理<rt>にほんりょうり</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>うかつお<ruby>節<rt>ぶし</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>を<ruby>高<rt>たか</rt></ruby>くする<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/02/k10011082331000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/02/k10011082331000.mp3
+contents: "<p><ruby>日本料理<rt>にほんりょうり</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>う<span\
+  \ style=\"color: blue;\">かつお<ruby>節<rt>ぶし</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>を<ruby>高<rt>たか</rt></ruby>くする<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。</p>\n\
+  <p>ヤマキという<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>工場<rt>こうじょう</rt></ruby>から<ruby>店<rt>みせ</rt></ruby>などに<ruby>送<rt>おく</rt></ruby>る<span\
+  \ style=\"color: blue;\">かつお<ruby>節<rt>ぶし</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>商品<rt>しょうひん</rt></ruby></span>を８<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から７％〜１５％ぐらい<ruby>高<rt>たか</rt></ruby>くしました。マルトモも９<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から７％〜１１％ぐらい<ruby>高<rt>たか</rt></ruby>くします。にんべんも１０<ruby>月<rt>がつ</rt></ruby><ruby>２日<rt>ふつか</rt></ruby>から１０％〜２５％ぐらい<ruby>高<rt>たか</rt></ruby>くします。</p>\n\
+  <p><span style=\"color: blue;\">かつお<ruby>節<rt>ぶし</rt></ruby></span>の<span style=\"\
+  color: blue;\"><ruby>材料<rt>ざいりょう</rt></ruby></span>は<span style=\"color: blue;\"\
+  >かつお</span>という<ruby>魚<rt>さかな</rt></ruby>です。<ruby>会社<rt>かいしゃ</rt></ruby>によると、<span\
+  \ style=\"color: blue;\"><ruby>東南<rt>とうなん</rt></ruby>アジア</span>などで<span style=\"\
+  color: blue;\">かつお</span>の<span style=\"color: blue;\"><ruby>缶詰<rt>かんづめ</rt></ruby></span>をたくさん<ruby>作<rt>つく</rt></ruby>っていることなどが<ruby>原因<rt>げんいん</rt></ruby>で、<span\
+  \ style=\"color: blue;\">かつお</span>が<ruby>高<rt>たか</rt></ruby>くなっています。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: かつおぶし
+  descriptions:
+  - カツオの<ruby><rb>身</rb><rt>み</rt></ruby>をにて<ruby><rb>干</rb><rt>ほ</rt></ruby>して<ruby><rb>固</rb><rt>かた</rt></ruby>くしたもの。うすくけずって<ruby><rb>食</rb><rt>た</rt></ruby>べたり、だしを<ruby><rb>取</rb><rt>と</rt></ruby>ったりする。
+- word: 商品
+  descriptions:
+  - <ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>買</rb><rt>か</rt></ruby>ったりするための<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+- word: 材料
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るもとになるもの。<ruby><rb>多</rb><rt>おお</rt></ruby>くは、もとの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>が<ruby><rb>残</rb><rt>のこ</rt></ruby>っている<ruby><rb>場合</rb><rt>ばあい</rt></ruby>にいう。
+  - <ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>・<ruby><rb>表現</rb><rt>ひょうげん</rt></ruby>などのもとになるもの。
+- word: 鰹
+  descriptions:
+  - <ruby><rb>暖</rb><rt>あたた</rt></ruby>かい<ruby><rb>海</rb><rt>うみ</rt></ruby>を、<ruby><rb>群</rb><rt>む</rt></ruby>れを<ruby><rb>作</rb><rt>つく</rt></ruby>って<ruby><rb>泳</rb><rt>およ</rt></ruby>ぐ<ruby><rb>回遊魚</rb><rt>かいゆうぎょ</rt></ruby>。さしみで<ruby><rb>食</rb><rt>た</rt></ruby>べたり、かつおぶしなどにする。
+- word: 東南アジア
+  descriptions:
+  - アジアの<ruby><rb>南東部</rb><rt>なんとうぶ</rt></ruby>。ベトナム・ラオス・カンボジア・マレーシア・タイ・ミャンマー・インドネシア・フィリピンなどの<ruby><rb>国</rb><rt>くに</rt></ruby>がある。
+- word: 缶詰
+  descriptions:
+  - <ruby><rb>加工</rb><rt>かこう</rt></ruby>した<ruby><rb>食品</rb><rt>しょくひん</rt></ruby>を<ruby><rb>缶</rb><rt>かん</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>長持</rb><rt>ながも</rt></ruby>ちするようにしたもの。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>部屋</rb><rt>へや</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>などに<ruby><rb>閉</rb><rt>と</rt></ruby>じこめること。
+web_news_url: /news/web/2017/07/31/かつお節-値上げ相次ぐ-東南アジアなどで需要伸び/
+source_url: http://www3.nhk.or.jp/news/easy/k10011082331000/k10011082331000.html
+...
