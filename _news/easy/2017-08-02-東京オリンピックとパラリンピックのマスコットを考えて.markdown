@@ -1,0 +1,55 @@
+---
+layout: easy_news
+newsid: k10011083221000
+categories: easy
+title: 「東京オリンピックとパラリンピックのマスコットを考えて」
+title_with_ruby: 「<ruby>東京<rt>とうきょう</rt></ruby>オリンピックとパラリンピックのマスコットを<ruby>考<rt>かんが</rt></ruby>えて」
+last_modified_at: '2017-08-02T16:35:00+09:00'
+datetime: 2017年08月02日 16時35分
+description: ２０２０年ねんの東京とうきょうオリンピックとパラリンピックのマスコットは、みんなからデザインを集あつめて、その中なかから小学生しょうがくせいなどが選えらんで決きめます。
+description_with_ruby: ２０２０<ruby>年<rt>ねん</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby>オリンピックとパラリンピックのマスコットは、みんなからデザインを<ruby>集<rt>あつ</rt></ruby>めて、その<ruby>中<rt>なか</rt></ruby>から<ruby>小学生<rt>しょうがくせい</rt></ruby>などが<ruby>選<rt>えら</rt></ruby>んで<ruby>決<rt>き</rt></ruby>めます。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/02/k10011083221000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/02/k10011083221000.mp3
+contents: "<p>２０２０<ruby>年<rt>ねん</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby><span style=\"\
+  color: blue;\">オリンピック</span>と<span style=\"color: blue;\">パラリンピック</span>の<span style=\"\
+  color: blue;\">マスコット</span>は、みんなから<span style=\"color: blue;\">デザイン</span>を<ruby>集<rt>あつ</rt></ruby>めて、その<ruby>中<rt>なか</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>小学生<rt>しょうがくせい</rt></ruby></span>などが<ruby>選<rt>えら</rt></ruby>んで<ruby>決<rt>き</rt></ruby>めます。<span\
+  \ style=\"color: blue;\">マスコット</span>の<span style=\"color: blue;\">デザイン</span>は、<ruby>１日<rt>ついたち</rt></ruby>から<ruby>１４日<rt>じゅうよっか</rt></ruby>までインターネットで<ruby>集<rt>あつ</rt></ruby>めています。</p>\n\
+  <p><ruby>１日<rt>ついたち</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>蔵前小学校<rt>くらまえしょうがっこう</rt></ruby>で、<span\
+  \ style=\"color: blue;\">デザイン</span>を<ruby>集<rt>あつ</rt></ruby>め<ruby>始<rt>はじ</rt></ruby>めたことを<ruby>知<rt>し</rt></ruby>らせる<span\
+  \ style=\"color: blue;\">イベント</span>があって、<span style=\"color: blue;\"><ruby>小学生<rt>しょうがくせい</rt></ruby></span>など２００<ruby>人<rt>にん</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まりました。</p>\n\
+  <p><span style=\"color: blue;\">パラリンピック</span>に３<ruby>回<rt>かい</rt></ruby><ruby>出<rt>で</rt></ruby>た<ruby>田口<rt>たぐち</rt></ruby><ruby>亜希<rt>あき</rt></ruby>さんなどが「<span\
+  \ style=\"color: blue;\">マスコット</span>を<ruby>見<rt>み</rt></ruby>ると、<span style=\"\
+  color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>頑張<rt>がんば</rt></ruby>ろうと<ruby>思<rt>おも</rt></ruby>います」と<ruby>言<rt>い</rt></ruby>いました。<span\
+  \ style=\"color: blue;\"><ruby>小学生<rt>しょうがくせい</rt></ruby></span>は「<ruby>世界<rt>せかい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>好<rt>す</rt></ruby>きになるようなかわいい<span\
+  \ style=\"color: blue;\">マスコット</span>を<ruby>選<rt>えら</rt></ruby>びたいです」などと<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><span style=\"color: blue;\">マスコット</span>は、<ruby>来年<rt>らいねん</rt></ruby>の３<ruby>月<rt>がつ</rt></ruby>ごろ<ruby>決<rt>き</rt></ruby>まります。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: マスコット
+  descriptions:
+  - <ruby><rb>運</rb><rt>うん</rt></ruby>や<ruby><rb>幸</rb><rt>しあわ</rt></ruby>せを<ruby><rb>招</rb><rt>まね</rt></ruby>いてくれるもの。
+  - かわいがっている<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>や<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>など。
+- word: デザイン
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。
+  - <ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。
+- word: 小学生
+  descriptions:
+  - <ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>に<ruby><rb>通</rb><rt>かよ</rt></ruby>っている<ruby><rb>子</rb><rt>こ</rt></ruby>ども。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+web_news_url: /news/web/2017/08/01/東京五輪パラのマスコット公募始まる-小学生が呼びかけ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011083221000/k10011083221000.html
+...
