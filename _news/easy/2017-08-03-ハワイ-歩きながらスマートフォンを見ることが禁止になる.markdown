@@ -1,0 +1,54 @@
+---
+layout: easy_news
+newsid: k10011085511000
+categories: easy
+title: ハワイ　歩きながらスマートフォンを見ることが禁止になる
+title_with_ruby: ハワイ　<ruby>歩<rt>ある</rt></ruby>きながらスマートフォンを<ruby>見<rt>み</rt></ruby>ることが<ruby>禁止<rt>きんし</rt></ruby>になる
+last_modified_at: '2017-08-03T16:25:00+09:00'
+datetime: 2017年08月03日 16時25分
+description: アメリカのハワイ州しゅうホノルル市しでは１０月がつから、道みちを渡わたっているときに、スマートフォンやコンピューターなどを見みたり触さわったりすることが禁止きんしになります。
+description_with_ruby: アメリカのハワイ<ruby>州<rt>しゅう</rt></ruby>ホノルル<ruby>市<rt>し</rt></ruby>では１０<ruby>月<rt>がつ</rt></ruby>から、<ruby>道<rt>みち</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>っているときに、スマートフォンやコンピューターなどを<ruby>見<rt>み</rt></ruby>たり<ruby>触<rt>さわ</rt></ruby>ったりすることが<ruby>禁止<rt>きんし</rt></ruby>になります。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/03/k10011085511000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/03/k10011085511000.mp3
+contents: "<p>アメリカのハワイ<ruby>州<rt>しゅう</rt></ruby>ホノルル<ruby>市<rt>し</rt></ruby>では１０<ruby>月<rt>がつ</rt></ruby>から、<ruby>道<rt>みち</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>っているときに、スマートフォンやコンピューターなどを<ruby>見<rt>み</rt></ruby>たり<ruby>触<rt>さわ</rt></ruby>ったりすることが<span\
+  \ style=\"color: blue;\"><ruby>禁止<rt>きんし</rt></ruby></span>になります。</p>\n<p><ruby>警官<rt>けいかん</rt></ruby>に<ruby>見<rt>み</rt></ruby>つかったら、<ruby>初<rt>はじ</rt></ruby>めての<ruby>場合<rt>ばあい</rt></ruby>は１５<span\
+  \ style=\"color: blue;\">ドル</span>から３５<span style=\"color: blue;\">ドル</span>の<span\
+  \ style=\"color: blue;\"><ruby>罰金<rt>ばっきん</rt></ruby></span>を<ruby>払<rt>はら</rt></ruby>わなくてはいけません。２<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>からはもっと<ruby>高<rt>たか</rt></ruby>くなります。</p>\n\
+  <p>アメリカではほとんどの<span style=\"color: blue;\"><ruby>州<rt>しゅう</rt></ruby></span>で、<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>しながらスマートフォンを<ruby>触<rt>さわ</rt></ruby>ることが<span\
+  \ style=\"color: blue;\"><ruby>禁止<rt>きんし</rt></ruby></span>になっています。しかし、<ruby>歩<rt>ある</rt></ruby>いているときに<span\
+  \ style=\"color: blue;\"><ruby>禁止<rt>きんし</rt></ruby></span>するのは、<ruby>大<rt>おお</rt></ruby>きな<ruby>市<rt>し</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めてです。</p>\n\
+  <p>ホノルル<ruby>市<rt>し</rt></ruby>の<span style=\"color: blue;\"><ruby>市長<rt>しちょう</rt></ruby></span>は「ホノルルでは<ruby>歩<rt>ある</rt></ruby>きながらスマートフォンを<ruby>使<rt>つか</rt></ruby>っていたお<span\
+  \ style=\"color: blue;\"><ruby>年寄<rt>としよ</rt></ruby>り</span>などの<ruby>事故<rt>じこ</rt></ruby>がたくさんあります。<ruby>市<rt>し</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>命<rt>いのち</rt></ruby></span>を<ruby>大事<rt>だいじ</rt></ruby>にしていることを<ruby>伝<rt>つた</rt></ruby>えたいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 禁止
+  descriptions:
+  - してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。
+- word: ドル
+  descriptions:
+  - アメリカ・カナダなどで<ruby><rb>使</rb><rt>つか</rt></ruby>われているお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>１</rb><rt>いち</rt></ruby>ドルは１００セント。
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 罰金
+  descriptions:
+  - <ruby><rb>罰</rb><rt>ばつ</rt></ruby>として<ruby><rb>出</rb><rt>だ</rt></ruby>させるお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 州
+  descriptions:
+  - <ruby><rb>大陸</rb><rt>たいりく</rt></ruby>。
+  - （<ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>や、<ruby><rb>今</rb><rt>いま</rt></ruby>のアメリカなどで）<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をするつごうで<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>区切</rb><rt>くぎ</rt></ruby>り。
+  - す。<ruby><rb>川</rb><rt>かわ</rt></ruby>などの<ruby><rb>土</rb><rt>つち</rt></ruby>や<ruby><rb>砂</rb><rt>すな</rt></ruby>が<ruby><rb>積</rb><rt>つ</rt></ruby>もってできた<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>陸地</rb><rt>りくち</rt></ruby>。
+- word: 市長
+  descriptions:
+  - <ruby><rb>市</rb><rt>し</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>し、その<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとり<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 年寄り
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。
+  - <ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 命
+  descriptions:
+  - <ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>生</rb><rt>い</rt></ruby>きているもとになる<ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>生命</rb><rt>せいめい</rt></ruby>。
+  - <ruby><rb>生</rb><rt>い</rt></ruby>きている<ruby><rb>間</rb><rt>あいだ</rt></ruby>。
+  - いちばん<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>なもの。
+web_news_url: /news/web/2017/08/03/歩きスマホを条例で禁止-ホノルル/
+source_url: http://www3.nhk.or.jp/news/easy/k10011085511000/k10011085511000.html
+...
