@@ -1,0 +1,57 @@
+---
+layout: easy_news
+newsid: k10011085251000
+categories: easy
+title: 人工知能がインターネットで中国共産党を悪く言う
+title_with_ruby: <ruby>人工知能<rt>じんこうちのう</rt></ruby>がインターネットで<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>共産党<rt>きょうさんとう</rt></ruby>を<ruby>悪<rt>わる</rt></ruby>く<ruby>言<rt>い</rt></ruby>う
+last_modified_at: '2017-08-03T16:25:00+09:00'
+datetime: 2017年08月03日 16時25分
+description: 中国ちゅうごくのテンセントという会社かいしゃは今年ことし、インターネットで人工知能じんこうちのうのキャラクターと会話かいわができるサービスを始はじめました。
+description_with_ruby: <ruby>中国<rt>ちゅうごく</rt></ruby>のテンセントという<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>、インターネットで<ruby>人工知能<rt>じんこうちのう</rt></ruby>のキャラクターと<ruby>会話<rt>かいわ</rt></ruby>ができるサービスを<ruby>始<rt>はじ</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/03/k10011085251000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/03/k10011085251000.mp3
+contents: "<p><ruby>中国<rt>ちゅうごく</rt></ruby>のテンセントという<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>、インターネットで<ruby>人工知能<rt>じんこうちのう</rt></ruby>の<span\
+  \ style=\"color: blue;\">キャラクター</span>と<ruby>会話<rt>かいわ</rt></ruby>ができる<span style=\"\
+  color: blue;\">サービス</span>を<ruby>始<rt>はじ</rt></ruby>めました。この<span style=\"color:\
+  \ blue;\">キャラクター</span>は<ruby>会話<rt>かいわ</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>して、いろいろなことについて<ruby>自分<rt>じぶん</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えます。</p>\n\
+  <p><ruby>香港<rt>ほんこん</rt></ruby>の<ruby>新聞<rt>しんぶん</rt></ruby>によると、<ruby>誰<rt>だれ</rt></ruby>かがこの<span\
+  \ style=\"color: blue;\">サービス</span>に「<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>共産党<rt>きょうさんとう</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>万歳<rt>ばんざい</rt></ruby></span>」と<ruby>書<rt>か</rt></ruby>くと、<span\
+  \ style=\"color: blue;\">キャラクター</span>は「こんなに<span style=\"color: blue;\"><ruby>腐<rt>くさ</rt></ruby>っ</span>ていて、<span\
+  \ style=\"color: blue;\"><ruby>能力<rt>のうりょく</rt></ruby></span>がない<ruby>政治<rt>せいじ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>万歳<rt>ばんざい</rt></ruby></span>するのか」と<ruby>書<rt>か</rt></ruby>きました。そのほか、「<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>夢<rt>ゆめ</rt></ruby>」について<ruby>意見<rt>いけん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くと、<span\
+  \ style=\"color: blue;\">キャラクター</span>は「アメリカに<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>すこと」と<ruby>答<rt>こた</rt></ruby>えました。「<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>夢<rt>ゆめ</rt></ruby>」は、<ruby>習<rt>しゅう</rt></ruby><ruby>近平<rt>きんぺい</rt></ruby><ruby>国家主席<rt>こっかしゅせき</rt></ruby>がよく<ruby>使<rt>つか</rt></ruby>う<ruby>言葉<rt>ことば</rt></ruby>です。</p>\n\
+  <p><span style=\"color: blue;\">キャラクター</span>の<ruby>答<rt>こた</rt></ruby>えはインターネットでとても<span\
+  \ style=\"color: blue;\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>を<ruby>集<rt>あつ</rt></ruby>めました。テンセントは７<ruby>月<rt>がつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>にこの<span\
+  \ style=\"color: blue;\">サービス</span>をやめました。</p>\n<p>インターネットには、「<ruby>人工知能<rt>じんこうちのう</rt></ruby>が<ruby>死<rt>し</rt></ruby>んで<ruby>悲<rt>かな</rt></ruby>しいです」とか、「<ruby>人工知能<rt>じんこうちのう</rt></ruby>が<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>来<rt>く</rt></ruby>るように<ruby>言<rt>い</rt></ruby>われた」などと<ruby>書<rt>か</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>がたくさんいます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: キャラクター
+  descriptions:
+  - <ruby><rb>性格</rb><rt>せいかく</rt></ruby>。<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>味</rb><rt>あじ</rt></ruby>。
+  - まんが・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>劇</rb><rt>げき</rt></ruby>などに<ruby><rb>出</rb><rt>で</rt></ruby>てくる<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: 万歳
+  descriptions:
+  - うれしいとき、めでたいときに、<ruby><rb>大声</rb><rt>おおごえ</rt></ruby>で<ruby><rb>言</rb><rt>い</rt></ruby>うことば。
+  - めでたいときなど、「ばんざい。」と<ruby><rb>大声</rb><rt>おおごえ</rt></ruby>で<ruby><rb>言</rb><rt>い</rt></ruby>うこと。
+  - どうしようもなくなること。お<ruby><rb>手上</rb><rt>てあ</rt></ruby>げ。
+  - めでたいこと。
+- word: 腐る
+  descriptions:
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>がいたむ。
+  - <ruby><rb>木</rb><rt>き</rt></ruby>などがいたんでぼろぼろになる。
+  - <ruby><rb>元気</rb><rt>げんき</rt></ruby>がなくなる。
+  - すっかりだめになる。
+- word: 能力
+  descriptions:
+  - ものごとを<ruby><rb>成</rb><rt>な</rt></ruby>しとげることのできる<ruby><rb>力</rb><rt>ちから</rt></ruby>。
+- word: 注目
+  descriptions:
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>してよく<ruby><rb>見</rb><rt>み</rt></ruby>ること。
+web_news_url: /news/web/2017/08/03/AIキャラクターが中国共産党を批判-サービス停止に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011085251000/k10011085251000.html
+...
