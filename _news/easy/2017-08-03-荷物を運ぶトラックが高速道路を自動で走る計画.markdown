@@ -1,0 +1,49 @@
+---
+layout: easy_news
+newsid: k10011083951000
+categories: easy
+title: 荷物を運ぶトラックが高速道路を自動で走る計画
+title_with_ruby: <ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶトラックが<ruby>高速道路<rt>こうそくどうろ</rt></ruby>を<ruby>自動<rt>じどう</rt></ruby>で<ruby>走<rt>はし</rt></ruby>る<ruby>計画<rt>けいかく</rt></ruby>
+last_modified_at: '2017-08-03T11:30:00+09:00'
+datetime: 2017年08月03日 11時30分
+description: 警察庁けいさつちょうは１日ついたち、人ひとが乗のらないで自動じどうで走はしる車くるまについて専門家せんもんかと会議かいぎを開ひらきました。
+description_with_ruby: <ruby>警察庁<rt>けいさつちょう</rt></ruby>は<ruby>１日<rt>ついたち</rt></ruby>、<ruby>人<rt>ひと</rt></ruby>が<ruby>乗<rt>の</rt></ruby>らないで<ruby>自動<rt>じどう</rt></ruby>で<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>について<ruby>専門家<rt>せんもんか</rt></ruby>と<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>きました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/03/k10011083951000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/03/k10011083951000.mp3
+contents: "<p><ruby>警察庁<rt>けいさつちょう</rt></ruby>は<ruby>１日<rt>ついたち</rt></ruby>、<ruby>人<rt>ひと</rt></ruby>が<ruby>乗<rt>の</rt></ruby>らないで<span\
+  \ style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>について<ruby>専門家<rt>せんもんか</rt></ruby>と<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>きました。この<ruby>中<rt>なか</rt></ruby>で、<ruby>人<rt>ひと</rt></ruby>が<ruby>運転<rt>うんてん</rt></ruby>している<span\
+  \ style=\"color: blue;\">トラック</span>の<ruby>後<rt>うし</rt></ruby>ろに<ruby>続<rt>つづ</rt></ruby>いて、<ruby>人<rt>ひと</rt></ruby>が<ruby>乗<rt>の</rt></ruby>っていない<span\
+  \ style=\"color: blue;\">トラック</span>が<span style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>走<rt>はし</rt></ruby>ることができるようにする<ruby>計画<rt>けいかく</rt></ruby>について<span\
+  \ style=\"color: blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>い</span>ました。</p>\n\
+  <p><ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>会社<rt>かいしゃ</rt></ruby>では<ruby>最近<rt>さいきん</rt></ruby>、<span\
+  \ style=\"color: blue;\">トラック</span>を<ruby>運転<rt>うんてん</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくて<ruby>困<rt>こま</rt></ruby>っています。この<ruby>計画<rt>けいかく</rt></ruby>では、<span\
+  \ style=\"color: blue;\">トラック</span>を<ruby>運転<rt>うんてん</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>は<ruby>１人<rt>ひとり</rt></ruby>ですが、たくさんの<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶことができます。<ruby>会議<rt>かいぎ</rt></ruby>では、２０２０<ruby>年<rt>ねん</rt></ruby>までに<ruby>神奈川県<rt>かながわけん</rt></ruby>と<ruby>愛知県<rt>あいちけん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>の「<ruby>新東名<rt>しんとうめい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>高速道路<rt>こうそくどうろ</rt></ruby></span>」で、この<span style=\"\
+  color: blue;\">トラック</span>が<ruby>走<rt>はし</rt></ruby>ることができるようにしようと<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p><ruby>警察庁<rt>けいさつちょう</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>では、この<ruby>計画<rt>けいかく</rt></ruby>のために<ruby>必要<rt>ひつよう</rt></ruby>な<span\
+  \ style=\"color: blue;\">ルール</span>などをこれから<span style=\"color: blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う</span>ことにしています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: トラック
+  descriptions:
+  - <ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rt></ruby>。
+- word: 高速道路
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>が<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>走</rb><rt>はし</rt></ruby>れるように、<ruby><rb>立体交差</rb><rt>りったいこうさ</rt></ruby>にしたり、<ruby><rb>上</rb><rt>のぼ</rt></ruby>り<ruby><rb>下</rb><rt>くだ</rt></ruby>りを<ruby><rb>分</rb><rt>わ</rt></ruby>けたりした<ruby><rb>道路</rb><rt>どうろ</rt></ruby>。ハイウエー。
+- word: 自動
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。
+- word: 話し合う
+  descriptions:
+  - たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。
+  - <ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。
+- word: ルール
+  descriptions:
+  - <ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。
+- word: 話し合う
+  descriptions:
+  - たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。
+  - <ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。
+web_news_url: /news/web/2017/08/02/トラックの自動運転-3年後までに高速道路で実現へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011083951000/k10011083951000.html
+...
