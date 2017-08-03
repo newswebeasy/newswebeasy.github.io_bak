@@ -1,0 +1,74 @@
+---
+layout: easy_news
+newsid: k10011084651000
+categories: easy
+title: 上野動物園のパンダの赤ちゃん　両方の目が開く
+title_with_ruby: <ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>のパンダの<ruby>赤<rt>あか</rt></ruby>ちゃん　<ruby>両方<rt>りょうほう</rt></ruby>の<ruby>目<rt>め</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>く
+last_modified_at: '2017-08-03T16:25:00+09:00'
+datetime: 2017年08月03日 16時25分
+description: 東京とうきょうの上野動物園うえのどうぶつえんでは６月がつ１２日にちにパンダの赤あかちゃんが生うまれました。
+description_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>では６<ruby>月<rt>がつ</rt></ruby>１２<ruby>日<rt>にち</rt></ruby>にパンダの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/03/k10011084651000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/03/k10011084651000.mp3
+contents: "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>では６<ruby>月<rt>がつ</rt></ruby>１２<ruby>日<rt>にち</rt></ruby>に<span\
+  \ style=\"color: blue;\">パンダ</span>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれました。８<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>、<ruby>動物園<rt>どうぶつえん</rt></ruby>は<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>体<rt>からだ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べました。<ruby>体<rt>からだ</rt></ruby>の<ruby>重<rt>おも</rt></ruby>さは２３４１．２ｇで、<ruby>１０日<rt>とおか</rt></ruby><ruby>前<rt>まえ</rt></ruby>より６８４．７ｇ<ruby>増<rt>ふ</rt></ruby>えました。<ruby>体<rt>からだ</rt></ruby>の<ruby>長<rt>なが</rt></ruby>さは４０．６ｃｍで、６．５ｃｍ<ruby>大<rt>おお</rt></ruby>きくなりました。</p>\n\
+  <p><ruby>動物園<rt>どうぶつえん</rt></ruby>が<ruby>撮<rt>と</rt></ruby>った<span style=\"color:\
+  \ blue;\">ビデオ</span>を<ruby>見<rt>み</rt></ruby>ると、<ruby>赤<rt>あか</rt></ruby>ちゃんは<ruby>両方<rt>りょうほう</rt></ruby>の<ruby>目<rt>め</rt></ruby>がしっかり<ruby>開<rt>ひら</rt></ruby>いています。そして、おなかを<span\
+  \ style=\"color: blue;\"><ruby>床<rt>ゆか</rt></ruby></span>に<span style=\"color: blue;\"\
+  >つけ</span>たまま<ruby>進<rt>すす</rt></ruby>んだり、<span style=\"color: blue;\"><ruby>転<rt>ころ</rt></ruby>がっ</span>て<ruby>体<rt>からだ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>向<rt>む</rt></ruby>き</span>を<ruby>変<rt>か</rt></ruby>えたりしています。</p>\n\
+  <p>お<ruby>母<rt>かあ</rt></ruby>さんの「シンシン」は、<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>体<rt>からだ</rt></ruby>を<span\
+  \ style=\"color: blue;\">なめ</span>たり<span style=\"color: blue;\"><ruby>乳<rt>ちち</rt></ruby></span>をあげたりして、<ruby>世話<rt>せわ</rt></ruby>をしています。</p>\n\
+  <p><ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>は「これからも、シンシンが<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>をしっかり<ruby>食<rt>た</rt></ruby>べるように<ruby>気<rt>き</rt></ruby>をつけながら、<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>大事<rt>だいじ</rt></ruby>に<ruby>育<rt>そだ</rt></ruby>てていきます」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: パンダ
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中央部</rb><rt>ちゅうおうぶ</rt></ruby>にすむけもの。ジャイアントパンダとレッサーパンダがいる。
+  - <ruby><rb>特</rb><rt>とく</rt></ruby>にジャイアントパンダ。<ruby><rb>中国西部</rb><rt>ちゅうごくせいぶ</rt></ruby>の<ruby><rb>山地</rb><rt>さんち</rt></ruby>にすむ。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>に<ruby><rb>色分</rb><rt>いろわ</rt></ruby>けされて、<ruby><rb>顔</rb><rt>かお</rt></ruby>つきや<ruby><rb>動作</rb><rt>どうさ</rt></ruby>がかわいい。
+- word: ビデオ
+  descriptions:
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。
+  - 「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 床
+  descriptions:
+  - <ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、<ruby><rb>地面</rb><rt>じめん</rt></ruby>より<ruby><rb>高</rb><rt>たか</rt></ruby>く、<ruby><rb>板</rb><rt>いた</rt></ruby>を<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>張</rb><rt>は</rt></ruby>ったところ。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+- word: 転がる
+  descriptions:
+  - ころころと<ruby><rb>回</rb><rt>まわ</rt></ruby>って<ruby><rb>動</rb><rt>うご</rt></ruby>く。<ruby><rb>転</rb><rt>ころ</rt></ruby>げる。
+  - たおれる。<ruby><rb>転</rb><rt>ころ</rt></ruby>ぶ。<ruby><rb>転</rb><rt>ころ</rt></ruby>げる。
+  - いくらでもある。
+- word: 向き
+  descriptions:
+  - <ruby><rb>向</rb><rt>む</rt></ruby>いている<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>。
+  - ちょうど<ruby><rb>合</rb><rt>あ</rt></ruby>っていること。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>。おかた。
+  - <ruby><rb>話</rb><rt>はなし</rt></ruby>や<ruby><rb>用事</rb><rt>ようじ</rt></ruby>などの<ruby><rb>内容</rb><rt>ないよう</rt></ruby>。
+  - くせや<ruby><rb>傾向</rb><rt>けいこう</rt></ruby>。
+- word: なめる
+  descriptions:
+  - <ruby><rb>舌</rb><rt>した</rt></ruby>で<ruby><rb>物</rb><rt>もの</rt></ruby>にさわる。<ruby><rb>味</rb><rt>あじ</rt></ruby>をみる。
+  - <ruby><rb>経験</rb><rt>けいけん</rt></ruby>する。<ruby><rb>味</rb><rt>あじ</rt></ruby>わう。
+  - <ruby><rb>軽</rb><rt>かる</rt></ruby>くみる。ばかにする。
+  - <ruby><rb>火</rb><rt>ひ</rt></ruby>が<ruby><rb>燃</rb><rt>も</rt></ruby>える。
+- word: 乳
+  descriptions:
+  - <ruby><rb>生</rb><rt>う</rt></ruby>んだ<ruby><rb>子</rb><rt>こ</rt></ruby>に<ruby><rb>飲</rb><rt>の</rt></ruby>ませるために、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>の<ruby><rb>乳房</rb><rt>ちぶさ</rt></ruby>から<ruby><rb>出</rb><rt>で</rt></ruby>る、<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>色</rb><rt>いろ</rt></ruby>のしる。
+  - <ruby><rb>乳房</rb><rt>ちぶさ</rt></ruby>のこと。
+  - <ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>。
+web_news_url: /news/web/2017/08/02/上野のパンダの赤ちゃん-両目しっかり開く/
+source_url: http://www3.nhk.or.jp/news/easy/k10011084651000/k10011084651000.html
+...
