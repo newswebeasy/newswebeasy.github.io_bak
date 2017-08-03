@@ -1,0 +1,52 @@
+---
+layout: easy_news
+newsid: k10011082901000
+categories: easy
+title: スイスに人が歩く新しいつり橋ができる　世界でいちばん長い
+title_with_ruby: スイスに<ruby>人<rt>ひと</rt></ruby>が<ruby>歩<rt>ある</rt></ruby>く<ruby>新<rt>あたら</rt></ruby>しいつり<ruby>橋<rt>ばし</rt></ruby>ができる　<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>長<rt>なが</rt></ruby>い
+last_modified_at: '2017-08-03T11:30:00+09:00'
+datetime: 2017年08月03日 11時30分
+description: アルプスのマッターホルンを歩あるく人ひとのために、スイスのツェルマットとグラヘンの間あいだに長ながさ４９４ｍのつり橋ばしができました。
+description_with_ruby: アルプスのマッターホルンを<ruby>歩<rt>ある</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>のために、スイスのツェルマットとグラヘンの<ruby>間<rt>あいだ</rt></ruby>に<ruby>長<rt>なが</rt></ruby>さ４９４ｍのつり<ruby>橋<rt>ばし</rt></ruby>ができました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/03/k10011082901000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/03/k10011082901000.mp3
+contents: "<p><span style=\"color: blue;\">アルプス</span>の<span style=\"color: blue;\"\
+  >マッターホルン</span>を<ruby>歩<rt>ある</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>のために、スイスのツェルマットとグラヘンの<ruby>間<rt>あいだ</rt></ruby>に<ruby>長<rt>なが</rt></ruby>さ４９４ｍの<span\
+  \ style=\"color: blue;\">つり<ruby>橋<rt>ばし</rt></ruby></span>ができました。<ruby>車<rt>くるま</rt></ruby>は<ruby>通<rt>とお</rt></ruby>ることができません。<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>長<rt>なが</rt></ruby>い<span\
+  \ style=\"color: blue;\">つり<ruby>橋<rt>ばし</rt></ruby></span>です。この<ruby>橋<rt>はし</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>谷<rt>たに</rt></ruby></span>の<ruby>上<rt>うえ</rt></ruby>に<span\
+  \ style=\"color: blue;\">かかっ</span>ていて、<span style=\"color: blue;\"><ruby>谷<rt>たに</rt></ruby></span>からの<ruby>高<rt>たか</rt></ruby>さは８５ｍ、<span\
+  \ style=\"color: blue;\"><ruby>幅<rt>はば</rt></ruby></span>は６５ｃｍです。</p>\n<p><span\
+  \ style=\"color: blue;\"><ruby>観光<rt>かんこう</rt></ruby></span>の<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>人<rt>ひと</rt></ruby>は、<span\
+  \ style=\"color: blue;\">アルプス</span>の<ruby>山<rt>やま</rt></ruby>がきれいに<ruby>見<rt>み</rt></ruby>えるので、たくさんの<ruby>人<rt>ひと</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>観光<rt>かんこう</rt></ruby></span>に<ruby>来<rt>き</rt></ruby>てほしいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: つり橋
+  descriptions:
+  - <ruby><rb>両岸</rb><rt>りょうがん</rt></ruby>からつなを<ruby><rb>張</rb><rt>は</rt></ruby>りわたし、そのつなにつるしてある<ruby><rb>橋</rb><rt>はし</rt></ruby>。
+- word: アルプス
+  descriptions:
+  - ヨーロッパ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中部</rb><rt>ちゅうぶ</rt></ruby>、スイス・フランス・イタリア・オーストリアにまたがる<ruby><rb>山脈</rb><rt>さんみゃく</rt></ruby>。モンブラン・マッターホルンなどの<ruby><rb>山々</rb><rt>やまやま</rt></ruby>が<ruby><rb>連</rb><rt>つら</rt></ruby>なる。<ruby><rb>氷河</rb><rt>ひょうが</rt></ruby>があり、<ruby><rb>風景</rb><rt>ふうけい</rt></ruby>もよい。
+  - <ruby><rb>日本</rb><rt>にほん</rt></ruby>アルプスのこと。
+- word: マッターホルン
+  descriptions:
+  - スイスとイタリアとの<ruby><rb>国境</rb><rt>こっきょう</rt></ruby>のアルプスにある<ruby><rb>山</rb><rt>やま</rt></ruby>。<ruby><rb>頂上</rb><rt>ちょうじょう</rt></ruby>は<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>立</rb><rt>た</rt></ruby>っている。
+- word: 谷
+  descriptions:
+  - <ruby><rb>山</rb><rt>やま</rt></ruby>と<ruby><rb>山</rb><rt>やま</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>の、くぼんだ<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>いものにはさまれた<ruby><rb>低</rb><rt>ひく</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 架かる
+  descriptions:
+  - （<ruby><rb>橋</rb><rt>はし</rt></ruby>などが）<ruby><rb>岸</rb><rt>きし</rt></ruby>から<ruby><rb>岸</rb><rt>きし</rt></ruby>へわたされる。
+- word: 幅
+  descriptions:
+  - <ruby><rb>横</rb><rt>よこ</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さ。
+  - へだたり。<ruby><rb>開</rb><rt>ひら</rt></ruby>き。
+  - ゆとり。よゆう。
+- word: 観光
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。
+web_news_url: /news/web/2017/08/01/全長500メートル-世界最長のつり橋開通-スイス/
+source_url: http://www3.nhk.or.jp/news/easy/k10011082901000/k10011082901000.html
+...
