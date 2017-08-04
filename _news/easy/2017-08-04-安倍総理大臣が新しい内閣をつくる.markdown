@@ -1,0 +1,64 @@
+---
+layout: easy_news
+newsid: k10011086741000
+categories: easy
+title: 安倍総理大臣が新しい内閣をつくる
+title_with_ruby: <ruby>安倍<rt>あべ</rt></ruby><ruby>総理大臣<rt>そうりだいじん</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>内閣<rt>ないかく</rt></ruby>をつくる
+last_modified_at: '2017-08-04T16:10:00+09:00'
+datetime: 2017年08月04日 16時10分
+description: 安倍あべ総理大臣そうりだいじんは３日みっか、１９人にんの大臣だいじんのうち１３人にんを変かえて、新あたらしい内閣ないかくをつくりました。
+description_with_ruby: <ruby>安倍<rt>あべ</rt></ruby><ruby>総理大臣<rt>そうりだいじん</rt></ruby>は<ruby>３日<rt>みっか</rt></ruby>、１９<ruby>人<rt>にん</rt></ruby>の<ruby>大臣<rt>だいじん</rt></ruby>のうち１３<ruby>人<rt>にん</rt></ruby>を<ruby>変<rt>か</rt></ruby>えて、<ruby>新<rt>あたら</rt></ruby>しい<ruby>内閣<rt>ないかく</rt></ruby>をつくりました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/04/k10011086741000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/04/k10011086741000.mp3
+contents: "<p><ruby>安倍<rt>あべ</rt></ruby><span style=\"color: blue;\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>は<ruby>３日<rt>みっか</rt></ruby>、１９<ruby>人<rt>にん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>大臣<rt>だいじん</rt></ruby></span>のうち１３<ruby>人<rt>にん</rt></ruby>を<ruby>変<rt>か</rt></ruby>えて、<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>内閣<rt>ないかく</rt></ruby></span>をつくりました。</p>\n<p><ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>内閣<rt>ないかく</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>の<ruby>年<rt>とし</rt></ruby>は６１．６<ruby>歳<rt>さい</rt></ruby>です。<ruby>最<rt>もっと</rt></ruby>も<ruby>若<rt>わか</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>大臣<rt>だいじん</rt></ruby></span>は５２<ruby>歳<rt>さい</rt></ruby>です。<ruby>女性<rt>じょせい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>大臣<rt>だいじん</rt></ruby></span>は<ruby>２人<rt>ふたり</rt></ruby>で、<ruby>前<rt>まえ</rt></ruby>より<ruby>１人<rt>ひとり</rt></ruby><ruby>少<rt>すく</rt></ruby>なくなりました。</p>\n\
+  <p><ruby>安倍<rt>あべ</rt></ruby><span style=\"color: blue;\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>は「<span\
+  \ style=\"color: blue;\"><ruby>国民<rt>こくみん</rt></ruby></span>からの<span style=\"color:\
+  \ blue;\"><ruby>信用<rt>しんよう</rt></ruby></span>が<ruby>低<rt>ひく</rt></ruby>くなったことを<ruby>深<rt>ふか</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>反省<rt>はんせい</rt></ruby></span>しています」と<ruby>言<rt>い</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>国民<rt>こくみん</rt></ruby></span>に<ruby>謝<rt>あやま</rt></ruby>りました。そして、「<span\
+  \ style=\"color: blue;\">スタート</span>に<ruby>戻<rt>もど</rt></ruby>った<ruby>気持<rt>きも</rt></ruby>ちで、<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>を<ruby>上<rt>あ</rt></ruby>げたり<ruby>仕事<rt>しごと</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>増<rt>ふ</rt></ruby>やし</span>たりして、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>経済<rt>けいざい</rt></ruby>がよくなるように<ruby>頑張<rt>がんば</rt></ruby>ります」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 総理大臣
+  descriptions:
+  - <ruby><rb>内閣総理大臣</rb><rt>ないかくそうりだいじん</rt></ruby>のこと。<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>の<ruby><rb>最高責任者</rb><rt>さいこうせきにんしゃ</rt></ruby>で、<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>選</rb><rt>えら</rt></ruby>び、<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>が<ruby><rb>認</rb><rt>みと</rt></ruby>めて<ruby><rb>決</rb><rt>き</rt></ruby>まる。<ruby><rb>首相</rb><rt>しゅしょう</rt></ruby>。<ruby><rb>総理</rb><rt>そうり</rt></ruby>。
+- word: 内閣
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>大臣</rb><rt>だいじん</rt></ruby>たちの<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。<ruby><rb>政府</rb><rt>せいふ</rt></ruby>。
+- word: 大臣
+  descriptions:
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>をつくり、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>で、もっとも<ruby><rb>責任</rb><rt>せきにん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>総理大臣</rb><rt>そうりだいじん</rt></ruby>と<ruby><rb>国務大臣</rb><rt>こくむだいじん</rt></ruby>とがある。
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+- word: 国民
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>国籍</rb><rt>こくせき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。
+- word: 信用
+  descriptions:
+  - <ruby><rb>信</rb><rt>しん</rt></ruby>じて<ruby><rb>疑</rb><rt>うたが</rt></ruby>わないこと。
+  - <ruby><rb>人々</rb><rt>ひとびと</rt></ruby>から<ruby><rb>信</rb><rt>しん</rt></ruby>じられていること。
+- word: 反省
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>行</rb><rt>おこな</rt></ruby>いをふり<ruby><rb>返</rb><rt>かえ</rt></ruby>って、よく<ruby><rb>考</rb><rt>かんが</rt></ruby>えてみること。
+- word: スタート
+  descriptions:
+  - <ruby><rb>出発</rb><rt>しゅっぱつ</rt></ruby>。
+- word: 給料
+  descriptions:
+  - やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+web_news_url: /news/web/2017/08/04/改造内閣発足-国民の疑念払拭が課題に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011086741000/k10011086741000.html
+...

@@ -1,0 +1,62 @@
+---
+layout: easy_news
+newsid: k10011084681000
+categories: easy
+title: 懐かしいラジカセを１００台集めた展示会
+title_with_ruby: <ruby>懐<rt>なつ</rt></ruby>かしいラジカセを１００<ruby>台<rt>だい</rt></ruby><ruby>集<rt>あつ</rt></ruby>めた<ruby>展示<rt>てんじ</rt></ruby><ruby>会<rt>かい</rt></ruby>
+last_modified_at: '2017-08-04T11:30:00+09:00'
+datetime: 2017年08月04日 11時30分
+description: ラジオとカセットプレーヤーが一ひとつになった「ラジカセ」を日本にっぽんで売うり始はじめてから、今年ことしで５０年ねん目めです。
+description_with_ruby: ラジオとカセットプレーヤーが<ruby>一<rt>ひと</rt></ruby>つになった「ラジカセ」を<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めてから、<ruby>今年<rt>ことし</rt></ruby>で５０<ruby>年<rt>ねん</rt></ruby><ruby>目<rt>め</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/04/k10011084681000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/04/k10011084681000.mp3
+contents: "<p>ラジオと<span style=\"color: blue;\">カセット</span><span style=\"color: blue;\"\
+  >プレーヤー</span>が<ruby>一<rt>ひと</rt></ruby>つになった「ラジカセ」を<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めてから、<ruby>今年<rt>ことし</rt></ruby>で５０<ruby>年<rt>ねん</rt></ruby><ruby>目<rt>め</rt></ruby>です。<ruby>東京<rt>とうきょう</rt></ruby>にあるデパートの<ruby>西武<rt>せいぶ</rt></ruby><ruby>渋谷<rt>しぶや</rt></ruby><ruby>店<rt>てん</rt></ruby>は、１９６８<ruby>年<rt>ねん</rt></ruby>から１９９３<ruby>年<rt>ねん</rt></ruby>に<ruby>売<rt>う</rt></ruby>っていたラジカセを<ruby>集<rt>あつ</rt></ruby>めた<span\
+  \ style=\"color: blue;\"><ruby>展示<rt>てんじ</rt></ruby></span><ruby>会<rt>かい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いています。</p>\n\
+  <p><ruby>会場<rt>かいじょう</rt></ruby>では、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>売<rt>う</rt></ruby>られたアイワのラジカセなど、<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１００<ruby>台<rt>だい</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>展示<rt>てんじ</rt></ruby></span>しています。このうち、１９７９<ruby>年<rt>ねん</rt></ruby>に<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めた<ruby>三洋電機<rt>さんようでんき</rt></ruby>のラジカセは、<ruby>小<rt>ちい</rt></ruby>さくて、<ruby>赤<rt>あか</rt></ruby>などきれいな<ruby>色<rt>いろ</rt></ruby>だったため、<ruby>女性<rt>じょせい</rt></ruby>などに<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>がありました。<span style=\"\
+  color: blue;\"><ruby>展示<rt>てんじ</rt></ruby></span><ruby>会<rt>かい</rt></ruby>では、ラジカセで<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くこともできます。</p>\n\
+  <p>２２<ruby>歳<rt>さい</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>は「ラジカセは<span style=\"\
+  color: blue;\">デザイン</span>がとてもかわいいです。<span style=\"color: blue;\">ＣＤ</span>と<ruby>比<rt>くら</rt></ruby>べると<ruby>音<rt>おと</rt></ruby>が<ruby>暖<rt>あたた</rt></ruby>かいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。５６<ruby>歳<rt>さい</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>昔<rt>むかし</rt></ruby>、ラジオを<span\
+  \ style=\"color: blue;\">カセット</span>に<span style=\"color: blue;\"><ruby>録音<rt>ろくおん</rt></ruby></span>して<ruby>友達<rt>ともだち</rt></ruby>に<ruby>貸<rt>か</rt></ruby>したり<ruby>借<rt>か</rt></ruby>りたりしていました。とても<span\
+  \ style=\"color: blue;\"><ruby>懐<rt>なつ</rt></ruby>かしい</span>です」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>この<span style=\"color: blue;\"><ruby>展示<rt>てんじ</rt></ruby></span><ruby>会<rt>かい</rt></ruby>は、<ruby>今月<rt>こんげつ</rt></ruby><ruby>１４日<rt>じゅうよっか</rt></ruby>までです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 懐かしい
+  descriptions:
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>のことに<ruby><rb>心</rb><rt>こころ</rt></ruby>がひかれる。したわしい。
+- word: 展示
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>並</rb><rt>なら</rt></ruby>べて、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+- word: カセット
+  descriptions:
+  - <ruby><rb>録音</rb><rt>ろくおん</rt></ruby>または<ruby><rb>録画</rb><rt>ろくが</rt></ruby>テープを<ruby><rb>収</rb><rt>おさ</rt></ruby>めてあるケース。そのまま<ruby><rb>機械</rb><rt>きかい</rt></ruby>への<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れができる。
+- word: プレーヤー
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>音楽</rb><rt>おんがく</rt></ruby>を、<ruby><rb>演奏</rb><rt>えんそう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - レコードプレーヤーなどのこと。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: デザイン
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。
+  - <ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。
+- word: CD
+  descriptions:
+  - <ruby><rb>音楽</rb><rt>おんがく</rt></ruby>などの<ruby><rb>音声情報</rb><rt>おんせいじょうほう</rt></ruby>を<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>にして<ruby><rb>記録</rb><rt>きろく</rt></ruby>した<ruby><rb>円盤</rb><rt>えんばん</rt></ruby>。
+- word: 録音
+  descriptions:
+  - レコードやテープなどに<ruby><rb>声</rb><rt>こえ</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>収</rb><rt>おさ</rt></ruby>めること。また、その<ruby><rb>音</rb><rt>おと</rt></ruby>。
+web_news_url: /news/web/2017/08/02/懐かしいラジカセ展-若い世代も関心/
+source_url: http://www3.nhk.or.jp/news/easy/k10011084681000/k10011084681000.html
+...
