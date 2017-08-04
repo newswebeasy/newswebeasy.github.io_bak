@@ -1,0 +1,61 @@
+---
+layout: easy_news
+newsid: k10011085581000
+categories: easy
+title: アメリカ　社員の手の中に情報が入ったチップを入れる
+title_with_ruby: アメリカ　<ruby>社員<rt>しゃいん</rt></ruby>の<ruby>手<rt>て</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ったチップを<ruby>入<rt>い</rt></ruby>れる
+last_modified_at: '2017-08-04T11:30:00+09:00'
+datetime: 2017年08月04日 11時30分
+description: アメリカのウィスコンシン州しゅうにある会社かいしゃは、注射ちゅうしゃ器きを使つかって社員しゃいんの手ての中なかに小ちいさいチップを入いれることにしました。
+description_with_ruby: アメリカのウィスコンシン<ruby>州<rt>しゅう</rt></ruby>にある<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>注射<rt>ちゅうしゃ</rt></ruby><ruby>器<rt>き</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>社員<rt>しゃいん</rt></ruby>の<ruby>手<rt>て</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>小<rt>ちい</rt></ruby>さいチップを<ruby>入<rt>い</rt></ruby>れることにしました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/04/k10011085581000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/04/k10011085581000.mp3
+contents: "<p>アメリカのウィスコンシン<ruby>州<rt>しゅう</rt></ruby>にある<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>注射<rt>ちゅうしゃ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>器<rt>き</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>の<ruby>手<rt>て</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>小<rt>ちい</rt></ruby>さい<span\
+  \ style=\"color: blue;\">チップ</span>を<ruby>入<rt>い</rt></ruby>れることにしました。<span style=\"\
+  color: blue;\">チップ</span>にはその<ruby>人<rt>ひと</rt></ruby>の<span style=\"color: blue;\"\
+  ><ruby>情報<rt>じょうほう</rt></ruby></span>がたくさん<ruby>入<rt>はい</rt></ruby>っています。</p>\n\
+  <p>８<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>の<ruby>半分<rt>はんぶん</rt></ruby>の４０<ruby>人<rt>にん</rt></ruby>ぐらいの<ruby>手<rt>て</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<span\
+  \ style=\"color: blue;\">チップ</span>を<ruby>入<rt>い</rt></ruby>れました。この<ruby>人<rt>ひと</rt></ruby>たちは<span\
+  \ style=\"color: blue;\">チップ</span>を<ruby>入<rt>い</rt></ruby>れたいと<ruby>言<rt>い</rt></ruby>っていました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>が<span style=\"\
+  color: blue;\">チップ</span>を<ruby>入<rt>い</rt></ruby>れた<ruby>手<rt>て</rt></ruby>を<span\
+  \ style=\"color: blue;\">センサー</span>の<ruby>前<rt>まえ</rt></ruby>に<ruby>出<rt>だ</rt></ruby>すと、ドアの<ruby>鍵<rt>かぎ</rt></ruby>が<ruby>開<rt>あ</rt></ruby>いたり、パソコンの<span\
+  \ style=\"color: blue;\">ログイン</span>ができたりしました。<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にある<ruby>店<rt>みせ</rt></ruby>で<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をしたときお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>うこともできました。</p>\n\
+  <p><ruby>専門家<rt>せんもんか</rt></ruby>は、<ruby>将来<rt>しょうらい</rt></ruby><ruby>誰<rt>だれ</rt></ruby>がどこで<ruby>何<rt>なに</rt></ruby>をしているか<ruby>知<rt>し</rt></ruby>るために、この<ruby>技術<rt>ぎじゅつ</rt></ruby>が<ruby>利用<rt>りよう</rt></ruby>されるかもしれないと<ruby>言<rt>い</rt></ruby>っています。<ruby>手<rt>て</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<span\
+  \ style=\"color: blue;\">チップ</span>を<ruby>入<rt>い</rt></ruby>れた<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>健康<rt>けんこう</rt></ruby></span>が<ruby>心配<rt>しんぱい</rt></ruby>だという<ruby>意見<rt>いけん</rt></ruby>もあります。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 社員
+  descriptions:
+  - その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。
+- word: 情報
+  descriptions:
+  - できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+- word: チップ
+  descriptions:
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かく<ruby><rb>刻</rb><rt>きざ</rt></ruby>んだ<ruby><rb>木材</rb><rt>もくざい</rt></ruby>。
+  - <ruby><rb>野菜</rb><rt>やさい</rt></ruby>や<ruby><rb>果物</rb><rt>くだもの</rt></ruby>をうすく<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。チップス。
+  - <ruby><rb>IC</rb><rt>アイシー</rt></ruby>を<ruby><rb>組</rb><rt>く</rt></ruby>みこんだ<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さなケース。
+- word: 器
+  descriptions:
+  - <ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+  - <ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。
+  - <ruby><rb>才能</rb><rt>さいのう</rt></ruby>。
+  - <ruby><rb>生</rb><rt>い</rt></ruby>きるためのはたらきをするもの。
+- word: センサー
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>、<ruby><rb>温度</rb><rt>おんど</rt></ruby>などに<ruby><rb>反応</rb><rt>はんのう</rt></ruby>して、<ruby><rb>電気的</rb><rt>でんきてき</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: ログイン
+  descriptions:
+  - コンピューターやネットワークなどへ<ruby><rb>接続</rb><rt>せつぞく</rt></ruby>すること。ログオン。
+- word: 健康
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。
+web_news_url: /news/web/2017/08/03/米企業-社員の手にマイクロチップ埋め込む/
+source_url: http://www3.nhk.or.jp/news/easy/k10011085581000/k10011085581000.html
+...
