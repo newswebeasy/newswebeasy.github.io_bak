@@ -1,0 +1,55 @@
+---
+layout: easy_news
+newsid: k10011086851000
+categories: easy
+title: エールフランスの飛行機「北朝鮮の近くを飛ばない」
+title_with_ruby: エールフランスの<ruby>飛行機<rt>ひこうき</rt></ruby>「<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くを<ruby>飛<rt>と</rt></ruby>ばない」
+last_modified_at: '2017-08-04T16:10:00+09:00'
+datetime: 2017年08月04日 16時10分
+description: 北朝鮮きたちょうせんは先月せんげつ２８日にち、ミサイルを発射はっしゃする実験じっけんを行おこないました。
+description_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>２８<ruby>日<rt>にち</rt></ruby>、ミサイルを<ruby>発射<rt>はっしゃ</rt></ruby>する<ruby>実験<rt>じっけん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>いました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/04/k10011086851000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/04/k10011086851000.mp3
+contents: "<p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby>２８<ruby>日<rt>にち</rt></ruby>、<span\
+  \ style=\"color: blue;\">ミサイル</span>を<span style=\"color: blue;\"><ruby>発射<rt>はっしゃ</rt></ruby></span>する<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>を<ruby>行<rt>おこな</rt></ruby>いました。アメリカの<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<span style=\"color:\
+  \ blue;\">ミサイル</span>が<span style=\"color: blue;\"><ruby>日本海<rt>にほんかい</rt></ruby></span>に<ruby>落<rt>お</rt></ruby>ちる<ruby>少<rt>すこ</rt></ruby>し<ruby>前<rt>まえ</rt></ruby>に、<ruby>東京<rt>とうきょう</rt></ruby>を<ruby>出発<rt>しゅっぱつ</rt></ruby>してパリに<ruby>向<rt>む</rt></ruby>かっていたエールフランスの<ruby>飛行機<rt>ひこうき</rt></ruby>がその<ruby>近<rt>ちか</rt></ruby>くを<ruby>飛<rt>と</rt></ruby>んでいたと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>エールフランスは<ruby>３日<rt>みっか</rt></ruby>、この<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>飛<rt>と</rt></ruby>んでいた<span\
+  \ style=\"color: blue;\">ルート</span>は、ほかの<span style=\"color: blue;\"><ruby>航空<rt>こうくう</rt></ruby></span><ruby>会社<rt>がいしゃ</rt></ruby>もたくさん<ruby>利用<rt>りよう</rt></ruby>していて、<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>問題<rt>もんだい</rt></ruby>はなかったと<ruby>言<rt>い</rt></ruby>いました。しかし、もっと<ruby>安全<rt>あんぜん</rt></ruby>にするために、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くを<ruby>飛<rt>と</rt></ruby>ばないようにすると<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。これからは、<ruby>日本<rt>にっぽん</rt></ruby>とフランスの<ruby>間<rt>あいだ</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ぶ<ruby>飛行機<rt>ひこうき</rt></ruby>は<ruby>韓国<rt>かんこく</rt></ruby>や<ruby>中国<rt>ちゅうごく</rt></ruby>、ロシアの<ruby>上<rt>うえ</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ぶと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>アメリカの<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>がほかの<ruby>国<rt>くに</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>しないで<span\
+  \ style=\"color: blue;\">ミサイル</span>を<span style=\"color: blue;\"><ruby>発射<rt>はっしゃ</rt></ruby></span>する<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>をするため、<ruby>飛行機<rt>ひこうき</rt></ruby>や<ruby>船<rt>ふね</rt></ruby>は<ruby>危険<rt>きけん</rt></ruby>になっていると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ミサイル
+  descriptions:
+  - ロケットなどの<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>飛</rb><rt>と</rt></ruby>び、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby><ruby><rb>装置</rb><rt>そうち</rt></ruby>によって、<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>をとらえる<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>誘導弾</rb><rt>ゆうどうだん</rt></ruby>。
+- word: 発射
+  descriptions:
+  - <ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>のたまやロケットなどを、<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 実験
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 日本海
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>東</rb><rt>ひがし</rt></ruby>と<ruby><rb>日本列島</rb><rt>にほんれっとう</rt></ruby>にはさまれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: ルート
+  descriptions:
+  - <ruby><rb>道路</rb><rt>どうろ</rt></ruby>。
+  - <ruby><rb>道筋</rb><rt>みちすじ</rt></ruby>。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>づる。
+- word: 航空
+  descriptions:
+  - <ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>などで<ruby><rb>空</rb><rt>そら</rt></ruby>を<ruby><rb>飛</rb><rt>と</rt></ruby>ぶこと。
+web_news_url: /news/web/2017/08/04/仏航空会社-北朝鮮周辺の飛行禁止空域を拡大/
+source_url: http://www3.nhk.or.jp/news/easy/k10011086851000/k10011086851000.html
+...
