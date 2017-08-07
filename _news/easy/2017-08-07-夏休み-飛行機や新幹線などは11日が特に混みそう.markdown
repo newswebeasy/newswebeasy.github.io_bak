@@ -1,0 +1,43 @@
+---
+layout: easy_news
+newsid: k10011086301000
+categories: easy
+title: 夏休み　飛行機や新幹線などは１１日が特に混みそう
+title_with_ruby: <ruby>夏休<rt>なつやす</rt></ruby>み　<ruby>飛行機<rt>ひこうき</rt></ruby>や<ruby>新幹線<rt>しんかんせん</rt></ruby>などは１１<ruby>日<rt>にち</rt></ruby>が<ruby>特<rt>とく</rt></ruby>に<ruby>混<rt>こ</rt></ruby>みそう
+last_modified_at: '2017-08-07T11:30:00+09:00'
+datetime: 2017年08月07日 11時30分
+description: ８月がつ中旬ちゅうじゅんは、夏休なつやすみでふるさとに帰かえったり遊あそびに行いったりする人ひとが多おおくなります。
+description_with_ruby: ８<ruby>月<rt>がつ</rt></ruby><ruby>中旬<rt>ちゅうじゅん</rt></ruby>は、<ruby>夏休<rt>なつやす</rt></ruby>みでふるさとに<ruby>帰<rt>かえ</rt></ruby>ったり<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>ったりする<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなります。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/07/k10011086301000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/07/k10011086301000.mp3
+contents: "<p>８<ruby>月<rt>がつ</rt></ruby><span style=\"color: blue;\"><ruby>中旬<rt>ちゅうじゅん</rt></ruby></span>は、<ruby>夏休<rt>なつやす</rt></ruby>みで<span\
+  \ style=\"color: blue;\">ふるさと</span>に<ruby>帰<rt>かえ</rt></ruby>ったり<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>ったりする<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなります。このため、<ruby>飛行機<rt>ひこうき</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>高速道路<rt>こうそくどうろ</rt></ruby></span>が<ruby>混<rt>こ</rt></ruby>みます。<ruby>今年<rt>ことし</rt></ruby>は、<ruby>飛行機<rt>ひこうき</rt></ruby>と<span\
+  \ style=\"color: blue;\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>の<ruby>予約<rt>よやく</rt></ruby>が<ruby>去年<rt>きょねん</rt></ruby>より１０％ぐらい<ruby>多<rt>おお</rt></ruby>くなっています。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>から<ruby>日本<rt>にっぽん</rt></ruby>のほかの<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>向<rt>む</rt></ruby>かう「<ruby>下<rt>くだ</rt></ruby>り」の<ruby>飛行機<rt>ひこうき</rt></ruby>は、１１<ruby>日<rt>にち</rt></ruby>が<ruby>特<rt>とく</rt></ruby>に<ruby>混<rt>こ</rt></ruby>みそうです。<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>向<rt>む</rt></ruby>かう「<ruby>上<rt>のぼ</rt></ruby>り」の<ruby>飛行機<rt>ひこうき</rt></ruby>は、１５<ruby>日<rt>にち</rt></ruby>〜１６<ruby>日<rt>にち</rt></ruby>と１９<ruby>日<rt>にち</rt></ruby>〜<ruby>２０日<rt>はつか</rt></ruby>が<ruby>混<rt>こ</rt></ruby>みそうです。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>は、「<ruby>下<rt>くだ</rt></ruby>り」は１１<ruby>日<rt>にち</rt></ruby>、「<ruby>上<rt>のぼ</rt></ruby>り」は１５<ruby>日<rt>にち</rt></ruby>が<ruby>特<rt>とく</rt></ruby>に<ruby>混<rt>こ</rt></ruby>みそうです。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>高速道路<rt>こうそくどうろ</rt></ruby></span>は、「<ruby>下<rt>くだ</rt></ruby>り」は１１<ruby>日<rt>にち</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>からとても<ruby>混<rt>こ</rt></ruby>んで、<ruby>車<rt>くるま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>列<rt>れつ</rt></ruby></span>が４０ｋｍ<ruby>以上<rt>いじょう</rt></ruby><ruby>続<rt>つづ</rt></ruby>く<ruby>所<rt>ところ</rt></ruby>がありそうです。「<ruby>上<rt>のぼ</rt></ruby>り」は<ruby>１４日<rt>じゅうよっか</rt></ruby>が<ruby>混<rt>こ</rt></ruby>みそうです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 新幹線
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>のおもな<ruby><rb>都市</rb><rt>とし</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで、<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶための<ruby><rb>高速鉄道</rb><rt>こうそくてつどう</rt></ruby>。<ruby><rb>東海道新幹線</rb><rt>とうかいどうしんかんせん</rt></ruby>、<ruby><rb>山陽新幹線</rb><rt>さんようしんかんせん</rt></ruby>、<ruby><rb>上越新幹線</rb><rt>じょうえつしんかんせん</rt></ruby>、<ruby><rb>長野新幹線</rb><rt>ながのしんかんせん</rt></ruby>、<ruby><rb>東北新幹線</rb><rt>とうほくしんかんせん</rt></ruby>、<ruby><rb>山形新幹線</rb><rt>やまがたしんかんせん</rt></ruby>、<ruby><rb>秋田新幹線</rb><rt>あきたしんかんせん</rt></ruby>、<ruby><rb>九州新幹線</rb><rt>きゅうしゅうしんかんせん</rt></ruby>がある。
+- word: 中旬
+  descriptions:
+  - <ruby><rb>月</rb><rt>つき</rt></ruby>の１１<ruby><rb>日</rb><rt>にち</rt></ruby>から<ruby><rb>２０日</rb><rt>はつか</rt></ruby>までの<ruby><rb>間</rb><rt>あいだ</rt></ruby>。
+- word: ふるさと
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>生</rb><rt>う</rt></ruby>まれ<ruby><rb>育</rb><rt>そだ</rt></ruby>った<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>故郷</rb><rt>こきょう</rt></ruby>。
+- word: 高速道路
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>が<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>走</rb><rt>はし</rt></ruby>れるように、<ruby><rb>立体交差</rb><rt>りったいこうさ</rt></ruby>にしたり、<ruby><rb>上</rb><rt>のぼ</rt></ruby>り<ruby><rb>下</rb><rt>くだ</rt></ruby>りを<ruby><rb>分</rb><rt>わ</rt></ruby>けたりした<ruby><rb>道路</rb><rt>どうろ</rt></ruby>。ハイウエー。
+- word: 列
+  descriptions:
+  - <ruby><rb>長</rb><rt>なが</rt></ruby>く<ruby><rb>並</rb><rt>なら</rt></ruby>ぶ。<ruby><rb>並</rb><rt>なら</rt></ruby>んだもの。
+  - <ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>わる。
+web_news_url: /news/web/2017/08/03/お盆の帰省ラッシュ-8月11日がピーク/
+source_url: http://www3.nhk.or.jp/news/easy/k10011086301000/k10011086301000.html
+...
