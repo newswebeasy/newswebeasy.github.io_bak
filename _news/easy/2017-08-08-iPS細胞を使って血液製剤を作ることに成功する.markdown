@@ -1,0 +1,58 @@
+---
+layout: easy_news
+newsid: k10011092061000
+categories: easy
+title: ｉＰＳ細胞を使って血液製剤を作ることに成功する
+title_with_ruby: ｉＰＳ<ruby>細胞<rt>さいぼう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>血液製剤<rt>けつえきせいざい</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ることに<ruby>成功<rt>せいこう</rt></ruby>する
+last_modified_at: '2017-08-08T16:20:00+09:00'
+datetime: 2017年08月08日 16時20分
+description: 手術しゅじゅつで出でた血液けつえきを止とめるときなどに使つかう薬くすりの「血液製剤けつえきせいざい」は、健康けんこうな人ひとからもらった血液けつえきの血小板けっしょうばんから作つくります。
+description_with_ruby: <ruby>手術<rt>しゅじゅつ</rt></ruby>で<ruby>出<rt>で</rt></ruby>た<ruby>血液<rt>けつえき</rt></ruby>を<ruby>止<rt>と</rt></ruby>めるときなどに<ruby>使<rt>つか</rt></ruby>う<ruby>薬<rt>くすり</rt></ruby>の「<ruby>血液製剤<rt>けつえきせいざい</rt></ruby>」は、<ruby>健康<rt>けんこう</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>からもらった<ruby>血液<rt>けつえき</rt></ruby>の<ruby>血小板<rt>けっしょうばん</rt></ruby>から<ruby>作<rt>つく</rt></ruby>ります。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/08/k10011092061000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/08/k10011092061000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>手術<rt>しゅじゅつ</rt></ruby></span>で<ruby>出<rt>で</rt></ruby>た<span\
+  \ style=\"color: blue;\"><ruby>血液<rt>けつえき</rt></ruby></span>を<ruby>止<rt>と</rt></ruby>めるときなどに<ruby>使<rt>つか</rt></ruby>う<ruby>薬<rt>くすり</rt></ruby>の「<ruby>血液製剤<rt>けつえきせいざい</rt></ruby>」は、<span\
+  \ style=\"color: blue;\"><ruby>健康<rt>けんこう</rt></ruby></span>な<ruby>人<rt>ひと</rt></ruby>からもらった<span\
+  \ style=\"color: blue;\"><ruby>血液<rt>けつえき</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>血小板<rt>けっしょうばん</rt></ruby></span>から<ruby>作<rt>つく</rt></ruby>ります。<ruby>将来<rt>しょうらい</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>血液<rt>けつえき</rt></ruby></span>をくれる<ruby>人<rt>ひと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなって<ruby>足<rt>た</rt></ruby>りなくなることが<ruby>心配<rt>しんぱい</rt></ruby>されています。</p>\n\
+  <p><ruby>京都<rt>きょうと</rt></ruby>のメガカリオンという<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>体<rt>からだ</rt></ruby>のいろいろな<span\
+  \ style=\"color: blue;\"><ruby>部分<rt>ぶぶん</rt></ruby></span>になる「ｉＰＳ<ruby>細胞<rt>さいぼう</rt></ruby>」を<ruby>京都大学<rt>きょうとだいがく</rt></ruby>からもらって、<span\
+  \ style=\"color: blue;\"><ruby>血小板<rt>けっしょうばん</rt></ruby></span>になる<span style=\"\
+  color: blue;\"><ruby>細胞<rt>さいぼう</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>る<ruby>研究<rt>けんきゅう</rt></ruby>をしました。そして、<ruby>薬<rt>くすり</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>などと<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>して、この<span style=\"\
+  color: blue;\"><ruby>細胞<rt>さいぼう</rt></ruby></span>をとてもたくさん<ruby>作<rt>つく</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>血小板<rt>けっしょうばん</rt></ruby></span>にして、<ruby>血液製剤<rt>けつえきせいざい</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ることに<span\
+  \ style=\"color: blue;\"><ruby>成功<rt>せいこう</rt></ruby></span>しました。この<ruby>血液製剤<rt>けつえきせいざい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってみる<ruby>試験<rt>しけん</rt></ruby>を<ruby>来年<rt>らいねん</rt></ruby>ごろから<ruby>始<rt>はじ</rt></ruby>める<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p>この<ruby>新<rt>あたら</rt></ruby>しいやり<ruby>方<rt>かた</rt></ruby>で<ruby>血液製剤<rt>けつえきせいざい</rt></ruby>を<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>作<rt>つく</rt></ruby>ることができるようになるかもしれません。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 成功
+  descriptions:
+  - ものごとが<ruby><rb>思</rb><rt>おも</rt></ruby>いどおりにうまくいくこと。
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>地位</rb><rt>ちい</rt></ruby>や<ruby><rb>財産</rb><rt>ざいさん</rt></ruby>を<ruby><rb>得</rb><rt>え</rt></ruby>ること。
+- word: 手術
+  descriptions:
+  - <ruby><rb>医者</rb><rt>いしゃ</rt></ruby>が、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>や<ruby><rb>傷</rb><rt>きず</rt></ruby>のところを、<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>開</rb><rt>ひら</rt></ruby>いたり<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>取</rb><rt>と</rt></ruby>ったりして、<ruby><rb>治療</rb><rt>ちりょう</rt></ruby>すること。
+- word: 血液
+  descriptions:
+  - <ruby><rb>血</rb><rt>ち</rt></ruby>。
+- word: 健康
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。
+- word: 血小板
+  descriptions:
+  - <ruby><rb>血液</rb><rt>けつえき</rt></ruby>の<ruby><rb>成分</rb><rt>せいぶん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。けがをしたときなどに、<ruby><rb>傷口</rb><rt>きずぐち</rt></ruby>の<ruby><rb>血</rb><rt>ち</rt></ruby>を<ruby><rb>固</rb><rt>かた</rt></ruby>まらせる。
+- word: 部分
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>を、いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>けたものの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: 細胞
+  descriptions:
+  - <ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てている、いちばん<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+web_news_url: /news/web/2017/08/07/iPS細胞使った血液製剤の製法確立-京都/
+source_url: http://www3.nhk.or.jp/news/easy/k10011092061000/k10011092061000.html
+...
