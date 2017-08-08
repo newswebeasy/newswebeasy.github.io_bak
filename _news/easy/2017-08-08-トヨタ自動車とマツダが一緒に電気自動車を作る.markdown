@@ -1,0 +1,56 @@
+---
+layout: easy_news
+newsid: k10011087541000
+categories: easy
+title: トヨタ自動車とマツダが一緒に電気自動車を作る
+title_with_ruby: トヨタ<ruby>自動車<rt>じどうしゃ</rt></ruby>とマツダが<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る
+last_modified_at: '2017-08-08T11:30:00+09:00'
+datetime: 2017年08月08日 11時30分
+description: トヨタ自動車じどうしゃとマツダは、電気でんきで走はしる「電気自動車でんきじどうしゃ」などを一緒いっしょに作つくるため、それぞれが相手あいての会社かいしゃの株式かぶしきを買かって協力きょうりょくすることにしました。
+description_with_ruby: トヨタ<ruby>自動車<rt>じどうしゃ</rt></ruby>とマツダは、<ruby>電気<rt>でんき</rt></ruby>で<ruby>走<rt>はし</rt></ruby>る「<ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby>」などを<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>作<rt>つく</rt></ruby>るため、それぞれが<ruby>相手<rt>あいて</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>株式<rt>かぶしき</rt></ruby>を<ruby>買<rt>か</rt></ruby>って<ruby>協力<rt>きょうりょく</rt></ruby>することにしました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/08/k10011087541000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/08/k10011087541000.mp3
+contents: "<p>トヨタ<ruby>自動車<rt>じどうしゃ</rt></ruby>とマツダは、<ruby>電気<rt>でんき</rt></ruby>で<ruby>走<rt>はし</rt></ruby>る「<ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby>」などを<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>作<rt>つく</rt></ruby>るため、<span\
+  \ style=\"color: blue;\">それぞれ</span>が<span style=\"color: blue;\"><ruby>相手<rt>あいて</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>株式<rt>かぶしき</rt></ruby></span>を<ruby>買<rt>か</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>することにしました。<span style=\"\
+  color: blue;\">それぞれ</span>の<span style=\"color: blue;\"><ruby>株式<rt>かぶしき</rt></ruby></span>を５００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>で<ruby>買<rt>か</rt></ruby>います。２つの<ruby>会社<rt>かいしゃ</rt></ruby>は２<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>環境<rt>かんきょう</rt></ruby></span>にいい<ruby>車<rt>くるま</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<ruby>技術<rt>ぎじゅつ</rt></ruby>などで<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>しています。</p>\n<p><ruby>今<rt>いま</rt></ruby>まで２つの<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby>を<ruby>売<rt>う</rt></ruby>っていませんでした。しかし、<span\
+  \ style=\"color: blue;\">ヨーロッパ</span>やアメリカ、<ruby>中国<rt>ちゅうごく</rt></ruby>では、<span\
+  \ style=\"color: blue;\"><ruby>排気<rt>はいき</rt></ruby>ガス</span>で<ruby>空気<rt>くうき</rt></ruby>が<ruby>汚<rt>よご</rt></ruby>れないように<span\
+  \ style=\"color: blue;\"><ruby>決<rt>き</rt></ruby>まり</span>を<ruby>厳<rt>きび</rt></ruby>しくしています。このため、２つの<ruby>会社<rt>かいしゃ</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>して、<span style=\"\
+  color: blue;\"><ruby>排気<rt>はいき</rt></ruby>ガス</span>を<ruby>出<rt>だ</rt></ruby>さない<ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby>などを<ruby>作<rt>つく</rt></ruby>ってたくさん<ruby>売<rt>う</rt></ruby>りたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><ruby>世界<rt>せかい</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は、これから<ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby>などの<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>で<ruby>競争<rt>きょうそう</rt></ruby>していくことになりそうです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: それぞれ
+  descriptions:
+  - めいめい。おのおの。
+- word: 相手
+  descriptions:
+  - ものごとをいっしょにするときのもう<ruby><rb>一方</rb><rt>いっぽう</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>ったりするときの、もう<ruby><rb>一方</rb><rt>いっぽう</rt></ruby>の<ruby><rb>側</rb><rt>がわ</rt></ruby>。
+- word: 株式
+  descriptions:
+  - <ruby><rb>株式会社</rb><rt>かぶしきがいしゃ</rt></ruby>の<ruby><rb>元手</rb><rt>もとで</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>総額</rb><rt>そうがく</rt></ruby>を<ruby><rb>均等</rb><rt>きんとう</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>けた、その<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つをいう。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+- word: 環境
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>巻</rb><rt>ま</rt></ruby>き、<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる<ruby><rb>周</rb><rt>まわ</rt></ruby>りの<ruby><rb>世界</rb><rt>せかい</rt></ruby>。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: 排気ガス
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>などのエンジンからはき<ruby><rb>出</rb><rt>だ</rt></ruby>される、<ruby><rb>不用</rb><rt>ふよう</rt></ruby>になったガス。<ruby><rb>有害</rb><rt>ゆうがい</rt></ruby>な<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>をふくみ、<ruby><rb>大気汚染</rb><rt>たいきおせん</rt></ruby>の<ruby><rb>原因</rb><rt>げんいん</rt></ruby>になる。
+- word: 決まり
+  descriptions:
+  - <ruby><rb>決</rb><rt>き</rt></ruby>められていること。<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>習慣</rb><rt>しゅうかん</rt></ruby>。
+  - しめくくり。おさまり。
+web_news_url: /news/web/2017/08/04/トヨタとマツダが資本提携-電気自動車を共同開発へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011087541000/k10011087541000.html
+...
