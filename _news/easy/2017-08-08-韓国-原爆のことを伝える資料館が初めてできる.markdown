@@ -1,0 +1,44 @@
+---
+layout: easy_news
+newsid: k10011089801000
+categories: easy
+title: 韓国　原爆のことを伝える資料館が初めてできる
+title_with_ruby: <ruby>韓国<rt>かんこく</rt></ruby>　<ruby>原爆<rt>げんばく</rt></ruby>のことを<ruby>伝<rt>つた</rt></ruby>える<ruby>資料館<rt>しりょうかん</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めてできる
+last_modified_at: '2017-08-08T16:20:00+09:00'
+datetime: 2017年08月08日 16時20分
+description: ８月がつ６日むいか、広島ひろしまに原爆げんばくが落おとされてから７２年ねんになりました。
+description_with_ruby: ８<ruby>月<rt>がつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>、<ruby>広島<rt>ひろしま</rt></ruby>に<ruby>原爆<rt>げんばく</rt></ruby>が<ruby>落<rt>お</rt></ruby>とされてから７２<ruby>年<rt>ねん</rt></ruby>になりました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/08/k10011089801000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/08/k10011089801000.mp3
+contents: "<p>８<ruby>月<rt>がつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>、<ruby>広島<rt>ひろしま</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>原爆<rt>げんばく</rt></ruby></span>が<ruby>落<rt>お</rt></ruby>とされてから７２<ruby>年<rt>ねん</rt></ruby>になりました。この<ruby>日<rt>ひ</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>原爆<rt>げんばく</rt></ruby></span>のひどさや<ruby>怖<rt>こわ</rt></ruby>さを<ruby>伝<rt>つた</rt></ruby>える<ruby>資料館<rt>しりょうかん</rt></ruby>が<ruby>韓国<rt>かんこく</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めてハプチョンという<ruby>町<rt>まち</rt></ruby>にできました。ハプチョンには、<ruby>広島<rt>ひろしま</rt></ruby>や<ruby>長崎<rt>ながさき</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>原爆<rt>げんばく</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>に<span style=\"color: blue;\">あっ</span>た<ruby>韓国<rt>かんこく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが<ruby>今<rt>いま</rt></ruby>も<ruby>大勢<rt>おおぜい</rt></ruby><ruby>住<rt>す</rt></ruby>んでいます。</p>\n\
+  <p><ruby>資料館<rt>しりょうかん</rt></ruby>では、<span style=\"color: blue;\"><ruby>原爆<rt>げんばく</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>に<span style=\"color:\
+  \ blue;\">あっ</span>た<ruby>人<rt>ひと</rt></ruby>が<ruby>書<rt>か</rt></ruby>いた<ruby>文章<rt>ぶんしょう</rt></ruby>や<ruby>使<rt>つか</rt></ruby>っていた<ruby>物<rt>もの</rt></ruby>などを<ruby>見<rt>み</rt></ruby>ることができます。<ruby>６日<rt>むいか</rt></ruby>の<ruby>式<rt>しき</rt></ruby>には、<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>に<span style=\"color:\
+  \ blue;\">あっ</span>た<ruby>人<rt>ひと</rt></ruby>や<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>など<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>３００<ruby>人<rt>にん</rt></ruby>が<ruby>出席<rt>しゅっせき</rt></ruby>しました。</p>\n\
+  <p><ruby>資料館<rt>しりょうかん</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>高校生<rt>こうこうせい</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>原爆<rt>げんばく</rt></ruby></span>について<ruby>今<rt>いま</rt></ruby>までよく<ruby>知<rt>し</rt></ruby>りませんでした。たくさんの<ruby>人<rt>ひと</rt></ruby>に<ruby>来<rt>き</rt></ruby>てほしいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 原子爆弾
+  descriptions:
+  - <ruby><rb>原子核分裂</rb><rt>げんしかくぶんれつ</rt></ruby>によって<ruby><rb>起</rb><rt>お</rt></ruby>こる、ものすごい<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>殺</rb><rt>ころ</rt></ruby>す。<ruby><rb>原爆</rb><rt>げんばく</rt></ruby>。
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 遭う
+  descriptions:
+  - （<ruby><rb>思</rb><rt>おも</rt></ruby>いがけないものごとに）たまたま<ruby><rb>出</rb><rt>で</rt></ruby>あう。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+web_news_url: /news/web/2017/08/06/韓国で初めての原爆資料館がオープン/
+source_url: http://www3.nhk.or.jp/news/easy/k10011089801000/k10011089801000.html
+...

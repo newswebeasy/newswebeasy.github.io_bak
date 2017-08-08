@@ -1,0 +1,41 @@
+---
+layout: easy_news
+newsid: k10011091071000
+categories: easy
+title: 乗る前に料金を決めるタクシーの実験が東京都で始まる
+title_with_ruby: <ruby>乗<rt>の</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>料金<rt>りょうきん</rt></ruby>を<ruby>決<rt>き</rt></ruby>めるタクシーの<ruby>実験<rt>じっけん</rt></ruby>が<ruby>東京都<rt>とうきょうと</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まる
+last_modified_at: '2017-08-08T16:20:00+09:00'
+datetime: 2017年08月08日 16時20分
+description: 日本にっぽんのタクシーは乗のった距離きょりと時間じかんで料金りょうきんが変かわるため、乗のる前まえにはいくら払はらうかわかりません。
+description_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>のタクシーは<ruby>乗<rt>の</rt></ruby>った<ruby>距離<rt>きょり</rt></ruby>と<ruby>時間<rt>じかん</rt></ruby>で<ruby>料金<rt>りょうきん</rt></ruby>が<ruby>変<rt>か</rt></ruby>わるため、<ruby>乗<rt>の</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>にはいくら<ruby>払<rt>はら</rt></ruby>うかわかりません。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/08/k10011091071000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/08/k10011091071000.mp3
+contents: "<p><ruby>日本<rt>にっぽん</rt></ruby>のタクシーは<ruby>乗<rt>の</rt></ruby>った<span style=\"\
+  color: blue;\"><ruby>距離<rt>きょり</rt></ruby></span>と<ruby>時間<rt>じかん</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>料金<rt>りょうきん</rt></ruby></span>が<ruby>変<rt>か</rt></ruby>わるため、<ruby>乗<rt>の</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>にはいくら<ruby>払<rt>はら</rt></ruby>うかわかりません。</p>\n\
+  <p><ruby>国<rt>くに</rt></ruby>と、<ruby>東京都<rt>とうきょうと</rt></ruby>にある４つのタクシー<ruby>会社<rt>がいしゃ</rt></ruby>が<ruby>７日<rt>なのか</rt></ruby>、<ruby>乗<rt>の</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>料金<rt>りょうきん</rt></ruby></span>を<ruby>決<rt>き</rt></ruby>めるタクシーの<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>を<ruby>始<rt>はじ</rt></ruby>めました。<ruby>利用<rt>りよう</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>は、タクシー<ruby>会社<rt>がいしゃ</rt></ruby>のスマートフォンのアプリに<ruby>乗<rt>の</rt></ruby>る<ruby>場所<rt>ばしょ</rt></ruby>と<ruby>行<rt>い</rt></ruby>く<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れて<span\
+  \ style=\"color: blue;\"><ruby>料金<rt>りょうきん</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べます。その<span\
+  \ style=\"color: blue;\"><ruby>料金<rt>りょうきん</rt></ruby></span>でいいと<ruby>思<rt>おも</rt></ruby>ったら、<span\
+  \ style=\"color: blue;\"><ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>ん</span>でタクシーに<ruby>来<rt>き</rt></ruby>てもらいます。<ruby>道<rt>みち</rt></ruby>が<ruby>混<rt>こ</rt></ruby>んでいても<span\
+  \ style=\"color: blue;\"><ruby>料金<rt>りょうきん</rt></ruby></span>は<ruby>高<rt>たか</rt></ruby>くなりません。アプリには<ruby>英語<rt>えいご</rt></ruby>も<ruby>出<rt>で</rt></ruby>て、<ruby>旅行<rt>りょこう</rt></ruby>している<ruby>外国人<rt>がいこくじん</rt></ruby>も<ruby>利用<rt>りよう</rt></ruby>できます。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>は、<ruby>東京都<rt>とうきょうと</rt></ruby>の２３の<ruby>区<rt>く</rt></ruby>などで４６００<ruby>台<rt>だい</rt></ruby>のタクシーを<ruby>使<rt>つか</rt></ruby>って、１０<ruby>月<rt>がつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>まで<ruby>行<rt>おこな</rt></ruby>います。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 料金
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ったり、<ruby><rb>見</rb><rt>み</rt></ruby>たりしたことに<ruby><rb>対</rb><rt>たい</rt></ruby>してはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 実験
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。
+- word: 距離
+  descriptions:
+  - <ruby><rb>二</rb><rt>ふた</rt></ruby>つの<ruby><rb>点</rb><rt>てん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さ。
+  - へだたり。<ruby><rb>道</rb><rt>みち</rt></ruby>のり。
+- word: 申し込む
+  descriptions:
+  - <ruby><rb>望</rb><rt>のぞ</rt></ruby>みを、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>申</rb><rt>もう</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れる。
+web_news_url: /news/web/2017/08/07/目的地までの運賃を先決め-タクシーの実証実験/
+source_url: http://www3.nhk.or.jp/news/easy/k10011091071000/k10011091071000.html
+...
