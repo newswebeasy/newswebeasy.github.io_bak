@@ -1,0 +1,45 @@
+---
+layout: easy_news
+newsid: k10011091641000
+categories: easy
+title: 文部科学省「夜間中学を都道府県に１つ以上作ってほしい」
+title_with_ruby: <ruby>文部科学省<rt>もんぶかがくしょう</rt></ruby>「<ruby>夜間中学<rt>やかんちゅうがく</rt></ruby>を<ruby>都道府県<rt>とどうふけん</rt></ruby>に１つ<ruby>以上<rt>いじょう</rt></ruby><ruby>作<rt>つく</rt></ruby>ってほしい」
+last_modified_at: '2017-08-09T11:30:00+09:00'
+datetime: 2017年08月09日 11時30分
+description: 「夜間中学やかんちゅうがく」は、市しや町まちの中学校ちゅうがっこうで夜よる授業じゅぎょうをするクラスで、中学校ちゅうがっこうを卒業そつぎょうできなかった人ひとや、外国人がいこくじんの子こどもなどが勉強べんきょうしています。
+description_with_ruby: 「<ruby>夜間中学<rt>やかんちゅうがく</rt></ruby>」は、<ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>の<ruby>中学校<rt>ちゅうがっこう</rt></ruby>で<ruby>夜<rt>よる</rt></ruby><ruby>授業<rt>じゅぎょう</rt></ruby>をするクラスで、<ruby>中学校<rt>ちゅうがっこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>できなかった<ruby>人<rt>ひと</rt></ruby>や、<ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもなどが<ruby>勉強<rt>べんきょう</rt></ruby>しています。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/09/k10011091641000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/09/k10011091641000.mp3
+contents: "<p>「<ruby>夜間中学<rt>やかんちゅうがく</rt></ruby>」は、<ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>の<ruby>中学校<rt>ちゅうがっこう</rt></ruby>で<ruby>夜<rt>よる</rt></ruby><ruby>授業<rt>じゅぎょう</rt></ruby>をするクラスで、<ruby>中学校<rt>ちゅうがっこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>できなかった<ruby>人<rt>ひと</rt></ruby>や、<ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもなどが<ruby>勉強<rt>べんきょう</rt></ruby>しています。<ruby>今<rt>いま</rt></ruby>は８つの<ruby>都<rt>と</rt></ruby>と<span\
+  \ style=\"color: blue;\"><ruby>府<rt>ふ</rt></ruby></span>と<ruby>県<rt>けん</rt></ruby>に３１あるだけです。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>文部科学省<rt>もんぶかがくしょう</rt></ruby></span>は、<ruby>全部<rt>ぜんぶ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span>に１つ<ruby>以上<rt>いじょう</rt></ruby><ruby>夜間中学<rt>やかんちゅうがく</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ってほしいと<ruby>考<rt>かんが</rt></ruby>えて、<ruby>７日<rt>なのか</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>教育委員会<rt>きょういくいいんかい</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>などを<ruby>集<rt>あつ</rt></ruby>めて<ruby>説明会<rt>せつめいかい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>きました。</p>\n\
+  <p><ruby>説明会<rt>せつめいかい</rt></ruby>では「<span style=\"color: blue;\"><ruby>国勢調査<rt>こくせいちょうさ</rt></ruby></span>によると、<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>ったことがなかったり、<ruby>学校<rt>がっこう</rt></ruby>を<ruby>途中<rt>とちゅう</rt></ruby>でやめたりした１５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が１２<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>います。<ruby>中学校<rt>ちゅうがっこう</rt></ruby>の<ruby>教育<rt>きょういく</rt></ruby>を<ruby>受<rt>う</rt></ruby>ける<span\
+  \ style=\"color: blue;\"><ruby>権利<rt>けんり</rt></ruby></span>はみんなにあります。<ruby>夜間中学<rt>やかんちゅうがく</rt></ruby>は<ruby>必要<rt>ひつよう</rt></ruby>です」と<ruby>話<rt>はな</rt></ruby>しました。そして、<ruby>今<rt>いま</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>っていない<ruby>中学生<rt>ちゅうがくせい</rt></ruby>も<ruby>夜間中学<rt>やかんちゅうがく</rt></ruby>に<ruby>入<rt>い</rt></ruby>れてほしいと<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 文部科学省
+  descriptions:
+  - <ruby><rb>教育</rb><rt>きょういく</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>についての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や<ruby><rb>科学技術</rb><rt>かがくぎじゅつ</rt></ruby>を<ruby><rb>発展</rb><rt>はってん</rt></ruby>させる<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>文科省</rb><rt>もんかしょう</rt></ruby>。
+- word: 都道府県
+  descriptions:
+  - <ruby><rb>全国</rb><rt>ぜんこく</rt></ruby>を４７に<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>区画</rb><rt>くかく</rt></ruby>。<ruby><rb>東京都</rb><rt>とうきょうと</rt></ruby>・<ruby><rb>北海道</rb><rt>ほっかいどう</rt></ruby>・<ruby><rb>大阪府</rb><rt>おおさかふ</rt></ruby>・<ruby><rb>京都府</rb><rt>きょうとふ</rt></ruby>と、４３の<ruby><rb>県</rb><rt>けん</rt></ruby>。
+- word: 府
+  descriptions:
+  - <ruby><rb>全国</rb><rt>ぜんこく</rt></ruby>を<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>区切</rb><rt>くぎ</rt></ruby>りの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>大阪府</rb><rt>おおさかふ</rt></ruby>と<ruby><rb>京都府</rb><rt>きょうとふ</rt></ruby>がある。
+  - みやこ。<ruby><rb>中心地</rb><rt>ちゅうしんち</rt></ruby>。
+  - <ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 教育委員会
+  descriptions:
+  - <ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>や<ruby><rb>市区町村</rb><rt>しくちょうそん</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>かれていて、<ruby><rb>教育</rb><rt>きょういく</rt></ruby>について<ruby><rb>相談</rb><rt>そうだん</rt></ruby>し、<ruby><rb>計画</rb><rt>けいかく</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てる<ruby><rb>委員会</rb><rt>いいんかい</rt></ruby>。
+- word: 国勢調査
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>のありさまを<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>人口</rb><rt>じんこう</rt></ruby>などを<ruby><rb>全国</rb><rt>ぜんこく</rt></ruby>いっせいに<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: 権利
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>社会</rb><rt>しゃかい</rt></ruby>などの<ruby><rb>決</rb><rt>き</rt></ruby>まりで<ruby><rb>認</rb><rt>みと</rt></ruby>められている<ruby><rb>利益</rb><rt>りえき</rt></ruby>。
+  - あるものごとをすることのできる<ruby><rb>資格</rb><rt>しかく</rt></ruby>。
+web_news_url: /news/web/2017/08/07/夜間中学をすべての都道府県に-文部科学省説明会/
+source_url: http://www3.nhk.or.jp/news/easy/k10011091641000/k10011091641000.html
+...
