@@ -1,0 +1,58 @@
+---
+layout: easy_news
+newsid: k10011093961000
+categories: easy
+title: 台風５号　調べ始めてから３番目に長く続いた台風になる
+title_with_ruby: <ruby>台風<rt>たいふう</rt></ruby>５<ruby>号<rt>ごう</rt></ruby>　<ruby>調<rt>しら</rt></ruby>べ<ruby>始<rt>はじ</rt></ruby>めてから３<ruby>番目<rt>ばんめ</rt></ruby>に<ruby>長<rt>なが</rt></ruby>く<ruby>続<rt>つづ</rt></ruby>いた<ruby>台風<rt>たいふう</rt></ruby>になる
+last_modified_at: '2017-08-09T16:40:00+09:00'
+datetime: 2017年08月09日 16時40分
+description: ７月がつ２１日にちに太平洋たいへいようで生うまれた台風たいふう５号ごうは、日本にっぽんの南みなみの海うみを北きたへ進すすみました。
+description_with_ruby: ７<ruby>月<rt>がつ</rt></ruby>２１<ruby>日<rt>にち</rt></ruby>に<ruby>太平洋<rt>たいへいよう</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれた<ruby>台風<rt>たいふう</rt></ruby>５<ruby>号<rt>ごう</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>南<rt>みなみ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>を<ruby>北<rt>きた</rt></ruby>へ<ruby>進<rt>すす</rt></ruby>みました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/09/k10011093961000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/09/k10011093961000.mp3
+contents: "<p>７<ruby>月<rt>がつ</rt></ruby>２１<ruby>日<rt>にち</rt></ruby>に<span style=\"\
+  color: blue;\"><ruby>太平洋<rt>たいへいよう</rt></ruby></span>で<ruby>生<rt>う</rt></ruby>まれた<ruby>台風<rt>たいふう</rt></ruby>５<ruby>号<rt>ごう</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>南<rt>みなみ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>を<ruby>北<rt>きた</rt></ruby>へ<ruby>進<rt>すす</rt></ruby>みました。<ruby>鹿児島県<rt>かごしまけん</rt></ruby>の<ruby>奄美地方<rt>あまみちほう</rt></ruby>では、とてもたくさん<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>りました。そのあと<span\
+  \ style=\"color: blue;\"><ruby>九州<rt>きゅうしゅう</rt></ruby></span>と<span style=\"color:\
+  \ blue;\"><ruby>四国<rt>しこく</rt></ruby></span>の<ruby>南<rt>みなみ</rt></ruby>へ<ruby>向<rt>む</rt></ruby>かって、<span\
+  \ style=\"color: blue;\"><ruby>近畿地方<rt>きんきちほう</rt></ruby></span>や<span style=\"\
+  color: blue;\"><ruby>北陸地方<rt>ほくりくちほう</rt></ruby></span>を<ruby>通<rt>とお</rt></ruby>りました。そして、８<ruby>月<rt>がつ</rt></ruby><ruby>９日<rt>ここのか</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>３<ruby>時<rt>じ</rt></ruby>に、<ruby>山形県<rt>やまがたけん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>沖<rt>おき</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>日本海<rt>にほんかい</rt></ruby></span>で<ruby>台風<rt>たいふう</rt></ruby>ではなくなりました。</p>\n\
+  <p><ruby>台風<rt>たいふう</rt></ruby>５<ruby>号<rt>ごう</rt></ruby>は<ruby>生<rt>う</rt></ruby>まれてから１８<ruby>日<rt>にち</rt></ruby>と１８<ruby>時間<rt>じかん</rt></ruby><ruby>続<rt>つづ</rt></ruby>いて、<ruby>気象庁<rt>きしょうちょう</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べ<ruby>始<rt>はじ</rt></ruby>めてから３<ruby>番目<rt>ばんめ</rt></ruby>に<ruby>長<rt>なが</rt></ruby>く<ruby>続<rt>つづ</rt></ruby>いた<ruby>台風<rt>たいふう</rt></ruby>になりました。</p>\n\
+  <p>この<ruby>台風<rt>たいふう</rt></ruby>で<ruby>２人<rt>ふたり</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、５２<ruby>人<rt>にん</rt></ruby>がけがをしました。<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>で<ruby>家<rt>いえ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>一部<rt>いちぶ</rt></ruby></span>が<ruby>壊<rt>こわ</rt></ruby>れたり、<ruby>川<rt>かわ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<span\
+  \ style=\"color: blue;\">あふれ</span>たりしました。</p>\n<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>台風<rt>たいふう</rt></ruby>５<ruby>号<rt>ごう</rt></ruby>はとてもゆっくり<ruby>進<rt>すす</rt></ruby>んだため<ruby>長<rt>なが</rt></ruby>く<ruby>続<rt>つづ</rt></ruby>いたと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 太平洋
+  descriptions:
+  - アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: 九州地方
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>南西部</rb><rt>なんせいぶ</rt></ruby>にある<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>福岡</rb><rt>ふくおか</rt></ruby>・<ruby><rb>佐賀</rb><rt>さが</rt></ruby>・<ruby><rb>長崎</rb><rt>ながさき</rt></ruby>・<ruby><rb>熊本</rb><rt>くまもと</rt></ruby>・<ruby><rb>大分</rb><rt>おおいた</rt></ruby>・<ruby><rb>宮崎</rb><rt>みやざき</rt></ruby>・<ruby><rb>鹿児島</rb><rt>かごしま</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の八<ruby><rb>県</rb><rt>けん</rt></ruby>がある。
+- word: 四国地方
+  descriptions:
+  - <ruby><rb>瀬戸内海</rb><rt>せとないかい</rt></ruby>をはさんで<ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>と<ruby><rb>向</rb><rt>む</rt></ruby>かい<ruby><rb>合</rb><rt>あ</rt></ruby>っている<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>島</rb><rt>しま</rt></ruby>。<ruby><rb>香川</rb><rt>かがわ</rt></ruby>・<ruby><rb>高知</rb><rt>こうち</rt></ruby>・<ruby><rb>愛媛</rb><rt>えひめ</rt></ruby>・<ruby><rb>徳島</rb><rt>とくしま</rt></ruby>の四<ruby><rb>県</rb><rt>けん</rt></ruby>がある。
+- word: 近畿地方
+  descriptions:
+  - <ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>の<ruby><rb>中央</rb><rt>ちゅうおう</rt></ruby>から<ruby><rb>少</rb><rt>すこ</rt></ruby>し<ruby><rb>西</rb><rt>にし</rt></ruby>にある<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>京都</rb><rt>きょうと</rt></ruby>・<ruby><rb>大阪</rb><rt>おおさか</rt></ruby>の<ruby><rb>二</rb><rt>ふた</rt></ruby>つの<ruby><rb>府</rb><rt>ふ</rt></ruby>と、<ruby><rb>兵庫</rb><rt>ひょうご</rt></ruby>・<ruby><rb>奈良</rb><rt>なら</rt></ruby>・<ruby><rb>和歌山</rb><rt>わかやま</rt></ruby>・<ruby><rb>滋賀</rb><rt>しが</rt></ruby>・<ruby><rb>三重</rb><rt>みえ</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>県</rb><rt>けん</rt></ruby>がある。
+- word: 北陸
+  descriptions:
+  - <ruby><rb>中部地方</rb><rt>ちゅうぶちほう</rt></ruby>のうち、<ruby><rb>日本海側</rb><rt>にほんかいがわ</rt></ruby>の<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>福井</rb><rt>ふくい</rt></ruby>・<ruby><rb>石川</rb><rt>いしかわ</rt></ruby>・<ruby><rb>富山</rb><rt>とやま</rt></ruby>・<ruby><rb>新潟</rb><rt>にいがた</rt></ruby>の<ruby><rb>四県</rb><rt>よんけん</rt></ruby>。
+- word: 沖
+  descriptions:
+  - <ruby><rb>海</rb><rt>うみ</rt></ruby>や<ruby><rb>湖</rb><rt>みずうみ</rt></ruby>で、<ruby><rb>岸</rb><rt>きし</rt></ruby>から<ruby><rb>遠</rb><rt>とお</rt></ruby>くはなれた<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 日本海
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>東</rb><rt>ひがし</rt></ruby>と<ruby><rb>日本列島</rb><rt>にほんれっとう</rt></ruby>にはさまれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: 一部
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: あふれる
+  descriptions:
+  - いっぱいになって、こぼれる。
+  - <ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。
+web_news_url: /news/web/2017/08/09/台風5号の寿命-過去3番目に長く/
+source_url: http://www3.nhk.or.jp/news/easy/k10011093961000/k10011093961000.html
+...
