@@ -1,0 +1,53 @@
+---
+layout: easy_news
+newsid: k10011091201000
+categories: easy
+title: 暑い夏の東京オリンピック　霧で涼しくなるベンチの研究
+title_with_ruby: <ruby>暑<rt>あつ</rt></ruby>い<ruby>夏<rt>なつ</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby>オリンピック　<ruby>霧<rt>きり</rt></ruby>で<ruby>涼<rt>すず</rt></ruby>しくなるベンチの<ruby>研究<rt>けんきゅう</rt></ruby>
+last_modified_at: '2017-08-09T11:30:00+09:00'
+datetime: 2017年08月09日 11時30分
+description: ２０２０年ねんの東京とうきょうオリンピックとパラリンピックは、暑あつい夏なつに開ひらきます。
+description_with_ruby: ２０２０<ruby>年<rt>ねん</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby>オリンピックとパラリンピックは、<ruby>暑<rt>あつ</rt></ruby>い<ruby>夏<rt>なつ</rt></ruby>に<ruby>開<rt>ひら</rt></ruby>きます。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/09/k10011091201000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/09/k10011091201000.mp3
+contents: "<p>２０２０<ruby>年<rt>ねん</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby><span style=\"\
+  color: blue;\">オリンピック</span>と<span style=\"color: blue;\">パラリンピック</span>は、<ruby>暑<rt>あつ</rt></ruby>い<ruby>夏<rt>なつ</rt></ruby>に<ruby>開<rt>ひら</rt></ruby>きます。</p>\n\
+  <p><ruby>東京都農林総合研究<rt>とうきょうとのうりんそうごうけんきゅう</rt></ruby>センターと<ruby>群馬大学<rt>ぐんまだいがく</rt></ruby>は、<ruby>試合<rt>しあい</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>などが<ruby>涼<rt>すず</rt></ruby>しくなるようにしたいと<ruby>考<rt>かんが</rt></ruby>えています。そして、<ruby>木<rt>き</rt></ruby>の<ruby>下<rt>した</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>る<span\
+  \ style=\"color: blue;\">ベンチ</span>を<ruby>作<rt>つく</rt></ruby>って、<span style=\"color:\
+  \ blue;\"><ruby>霧<rt>きり</rt></ruby></span>で<ruby>周<rt>まわ</rt></ruby>りの<span style=\"\
+  color: blue;\"><ruby>温度<rt>おんど</rt></ruby></span>を<ruby>下<rt>さ</rt></ruby>げる<ruby>研究<rt>けんきゅう</rt></ruby>をしています。この<span\
+  \ style=\"color: blue;\">ベンチ</span>は１ｍ７０ｃｍの<ruby>高<rt>たか</rt></ruby>さから<span style=\"\
+  color: blue;\"><ruby>霧<rt>きり</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>ます。</p>\n\
+  <p><ruby>７日<rt>なのか</rt></ruby>、<span style=\"color: blue;\"><ruby>車<rt>くるま</rt></ruby>いす</span>に<ruby>乗<rt>の</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>たちにこの<span\
+  \ style=\"color: blue;\">ベンチ</span>を<ruby>利用<rt>りよう</rt></ruby>してもらうと、<span style=\"\
+  color: blue;\"><ruby>霧<rt>きり</rt></ruby></span>が<ruby>顔<rt>かお</rt></ruby>にかかるようにしてほしいなどの<ruby>意見<rt>いけん</rt></ruby>がありました。<ruby>利用<rt>りよう</rt></ruby>した<ruby>男性<rt>だんせい</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>熱中症<rt>ねっちゅうしょう</rt></ruby></span>をなくすために、<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ<span\
+  \ style=\"color: blue;\">ベンチ</span>を<ruby>作<rt>つく</rt></ruby>ってほしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: 霧
+  descriptions:
+  - <ruby><rb>空気中</rb><rt>くうきちゅう</rt></ruby>の<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>が<ruby><rb>冷</rb><rt>ひ</rt></ruby>えて<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>水玉</rb><rt>みずたま</rt></ruby>となり、<ruby><rb>地表</rb><rt>ちひょう</rt></ruby>の<ruby><rb>近</rb><rt>ちか</rt></ruby>くにけむりのようにうかんだもの。うすいものを「もや」、また、<ruby><rb>春</rb><rt>はる</rt></ruby>のものを「かすみ」ということがある。
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かい<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>玉</rb><rt>たま</rt></ruby>。
+- word: ベンチ
+  descriptions:
+  - <ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>腰</rb><rt>こし</rt></ruby>かけ。<ruby><rb>長</rb><rt>なが</rt></ruby>いす。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>などで、<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>・<ruby><rb>監督</rb><rt>かんとく</rt></ruby>のいる<ruby><rb>席</rb><rt>せき</rt></ruby>。また、<ruby><rb>作戦</rb><rt>さくせん</rt></ruby>を<ruby><rb>指示</rb><rt>しじ</rt></ruby>する<ruby><rb>監督</rb><rt>かんとく</rt></ruby>・コーチ。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: 温度
+  descriptions:
+  - <ruby><rb>熱</rb><rt>あつ</rt></ruby>さや<ruby><rb>冷</rb><rt>つめ</rt></ruby>たさの<ruby><rb>度合</rb><rt>どあ</rt></ruby>いを<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。
+- word: 車椅子
+  descriptions:
+  - <ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>病気</rb><rt>びょうき</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>などが、<ruby><rb>腰</rb><rt>こし</rt></ruby>かけたまま<ruby><rb>移動</rb><rt>いどう</rt></ruby>できるように<ruby><rb>車</rb><rt>くるま</rt></ruby>をつけた、いす。
+- word: 熱中症
+  descriptions:
+  - <ruby><rb>夏</rb><rt>なつ</rt></ruby>の<ruby><rb>暑</rb><rt>あつ</rt></ruby>さなどで、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>が<ruby><rb>体内</rb><rt>たいない</rt></ruby>にたまって<ruby><rb>起</rb><rt>お</rt></ruby>こる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。ひどい<ruby><rb>頭痛</rb><rt>ずつう</rt></ruby>がしたり、<ruby><rb>気</rb><rt>き</rt></ruby>を<ruby><rb>失</rb><rt>うしな</rt></ruby>ったりする。
+web_news_url: /news/web/2017/08/07/東京五輪パラに向け暑さ対策の実験/
+source_url: http://www3.nhk.or.jp/news/easy/k10011091201000/k10011091201000.html
+...
