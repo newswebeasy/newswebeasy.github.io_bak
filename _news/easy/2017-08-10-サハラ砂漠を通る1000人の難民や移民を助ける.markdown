@@ -1,0 +1,84 @@
+---
+layout: easy_news
+newsid: k10011095411000
+categories: easy
+title: サハラ砂漠を通る１０００人の難民や移民を助ける
+title_with_ruby: サハラ<ruby>砂漠<rt>さばく</rt></ruby>を<ruby>通<rt>とお</rt></ruby>る１０００<ruby>人<rt>にん</rt></ruby>の<ruby>難民<rt>なんみん</rt></ruby>や<ruby>移民<rt>いみん</rt></ruby>を<ruby>助<rt>たす</rt></ruby>ける
+last_modified_at: '2017-08-10T16:50:00+09:00'
+datetime: 2017年08月10日 16時50分
+description: 大勢おおぜいの難民なんみんや移民いみんが今いま、アフリカから地中海ちちゅうかいを渡わたってヨーロッパに向むかっています。
+description_with_ruby: <ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>難民<rt>なんみん</rt></ruby>や<ruby>移民<rt>いみん</rt></ruby>が<ruby>今<rt>いま</rt></ruby>、アフリカから<ruby>地中海<rt>ちちゅうかい</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>ってヨーロッパに<ruby>向<rt>む</rt></ruby>かっています。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/10/k10011095411000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/10/k10011095411000.mp3
+contents: "<p><ruby>大勢<rt>おおぜい</rt></ruby>の<span style=\"color: blue;\"><ruby>難民<rt>なんみん</rt></ruby></span>や<span\
+  \ style=\"color: blue;\"><ruby>移民<rt>いみん</rt></ruby></span>が<ruby>今<rt>いま</rt></ruby>、アフリカから<span\
+  \ style=\"color: blue;\"><ruby>地中海<rt>ちちゅうかい</rt></ruby></span>を<ruby>渡<rt>わた</rt></ruby>って<span\
+  \ style=\"color: blue;\">ヨーロッパ</span>に<ruby>向<rt>む</rt></ruby>かっています。<ruby>特<rt>とく</rt></ruby>に<ruby>北<rt>きた</rt></ruby>アフリカのニジェールからリビアを<ruby>通<rt>とお</rt></ruby>ることが<ruby>多<rt>おお</rt></ruby>くなっています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>は、ニジェールの<span\
+  \ style=\"color: blue;\">サハラ<ruby>砂漠<rt>さばく</rt></ruby></span>で、<ruby>今年<rt>ことし</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>から<ruby>全部<rt>ぜんぶ</rt></ruby>で１０００<ruby>人<rt>にん</rt></ruby>ぐらいの<span\
+  \ style=\"color: blue;\"><ruby>難民<rt>なんみん</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>移民<rt>いみん</rt></ruby></span>を<span style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>け</span>たと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。７<ruby>月<rt>がつ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>下旬<rt>げじゅん</rt></ruby></span>には、<ruby>西<rt>にし</rt></ruby>アフリカのガンビアやセネガルから<ruby>来<rt>き</rt></ruby>た２３<ruby>人<rt>にん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>け</span>ました。<span style=\"color:\
+  \ blue;\"><ruby>難民<rt>なんみん</rt></ruby></span>などを<ruby>外国<rt>がいこく</rt></ruby>に<ruby>入<rt>い</rt></ruby>れる<span\
+  \ style=\"color: blue;\"><ruby>商売<rt>しょうばい</rt></ruby></span>をする<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>砂漠<rt>さばく</rt></ruby></span>に<span style=\"color:\
+  \ blue;\"><ruby>残<rt>のこ</rt></ruby>し</span>ていった<ruby>人<rt>ひと</rt></ruby>たちで、この<ruby>中<rt>なか</rt></ruby>には７<ruby>歳<rt>さい</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>もいました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>は、<span style=\"\
+  color: blue;\"><ruby>砂漠<rt>さばく</rt></ruby></span>だと<ruby>見<rt>み</rt></ruby>つかりにくいため、<span\
+  \ style=\"color: blue;\"><ruby>砂漠<rt>さばく</rt></ruby></span>を<ruby>通<rt>とお</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>難民<rt>なんみん</rt></ruby></span>などを<ruby>外国<rt>がいこく</rt></ruby>に<ruby>入<rt>い</rt></ruby>れる<span\
+  \ style=\"color: blue;\"><ruby>商売<rt>しょうばい</rt></ruby></span>が<ruby>増<rt>ふ</rt></ruby>えていると<ruby>言<rt>い</rt></ruby>っています。しかし、<ruby>水<rt>みず</rt></ruby>などが<ruby>少<rt>すく</rt></ruby>ない<span\
+  \ style=\"color: blue;\"><ruby>砂漠<rt>さばく</rt></ruby></span>を<ruby>通<rt>とお</rt></ruby>ることは<ruby>危険<rt>きけん</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: サハラ砂漠
+  descriptions:
+  - アフリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>北部</rb><rt>ほくぶ</rt></ruby>にある、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でもっとも<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>砂漠</rb><rt>さばく</rt></ruby>。
+- word: 難民
+  descriptions:
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>や<ruby><rb>天災</rb><rt>てんさい</rt></ruby>のために、<ruby><rb>家</rb><rt>いえ</rt></ruby>を<ruby><rb>失</rb><rt>うしな</rt></ruby>い、よその<ruby><rb>土地</rb><rt>とち</rt></ruby>へにげてきた<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。
+- word: 移民
+  descriptions:
+  - <ruby><rb>働</rb><rt>はたら</rt></ruby>くために、<ruby><rb>外国</rb><rt>がいこく</rt></ruby>に<ruby><rb>移</rb><rt>うつ</rt></ruby>り<ruby><rb>住</rb><rt>す</rt></ruby>むこと。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+- word: 地中海
+  descriptions:
+  - ヨーロッパ・アジア・アフリカの<ruby><rb>三大陸</rb><rt>さんたいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた<ruby><rb>東西</rb><rt>とうざい</rt></ruby>に<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 下旬
+  descriptions:
+  - <ruby><rb>月</rb><rt>つき</rt></ruby>の<ruby><rb>二十一日</rb><rt>にじゅういちにち</rt></ruby>から<ruby><rb>終</rb><rt>お</rt></ruby>わりまでの、<ruby><rb>約十日間</rb><rt>やくとおかかん</rt></ruby>。
+- word: 商売
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を、<ruby><rb>仕入</rb><rt>しい</rt></ruby>れて<ruby><rb>売</rb><rt>う</rt></ruby>ること。あきない。
+  - <ruby><rb>生活</rb><rt>せいかつ</rt></ruby>のためにしている<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>。
+- word: 砂漠・
+  descriptions:
+  - <ruby><rb>砂地</rb><rt>すなじ</rt></ruby>がむき<ruby><rb>出</rb><rt>だ</rt></ruby>しになっている<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。かわいた<ruby><rb>気候</rb><rt>きこう</rt></ruby>のため<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>が<ruby><rb>育</rb><rt>そだ</rt></ruby>ちにくい。ゴビ<ruby><rb>砂漠</rb><rt>さばく</rt></ruby>・サハラ<ruby><rb>砂漠</rb><rt>さばく</rt></ruby>など。
+- word: 残す
+  descriptions:
+  - あとに<ruby><rb>残</rb><rt>のこ</rt></ruby>るようにする。<ruby><rb>余</rb><rt>あま</rt></ruby>す。
+  - <ruby><rb>使</rb><rt>つか</rt></ruby>わないでおく。
+  - あとにとどまらせる。
+  - のちの<ruby><rb>世</rb><rt>よ</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。
+  - すもうで、もちこたえてふん<ruby><rb>張</rb><rt>ば</rt></ruby>る。
+web_news_url: /news/web/2017/08/10/サハラ砂漠で難民や移民-4月以降-約1000人を保護/
+source_url: http://www3.nhk.or.jp/news/easy/k10011095411000/k10011095411000.html
+...
