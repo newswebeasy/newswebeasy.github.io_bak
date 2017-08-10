@@ -1,0 +1,52 @@
+---
+layout: easy_news
+newsid: k10011095621000
+categories: easy
+title: 中国の九寨溝でマグニチュード７の地震
+title_with_ruby: <ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>九寨溝<rt>きゅうさいこう</rt></ruby>でマグニチュード７の<ruby>地震<rt>じしん</rt></ruby>
+last_modified_at: '2017-08-10T16:50:00+09:00'
+datetime: 2017年08月10日 16時50分
+description: ８日ようかの夜よる、中国ちゅうごくの四川省しせんしょうの九寨溝きゅうさいこうという所ところでマグニチュード７（Ｍ７）の地震じしんがありました。
+description_with_ruby: <ruby>８日<rt>ようか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>四川省<rt>しせんしょう</rt></ruby>の<ruby>九寨溝<rt>きゅうさいこう</rt></ruby>という<ruby>所<rt>ところ</rt></ruby>でマグニチュード７（Ｍ７）の<ruby>地震<rt>じしん</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/10/k10011095621000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/10/k10011095621000.mp3
+contents: "<p><ruby>８日<rt>ようか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>四川省<rt>しせんしょう</rt></ruby>の<ruby>九寨溝<rt>きゅうさいこう</rt></ruby>という<ruby>所<rt>ところ</rt></ruby>で<span\
+  \ style=\"color: blue;\">マグニチュード</span>７（Ｍ７）の<ruby>地震<rt>じしん</rt></ruby>がありました。<ruby>九寨溝<rt>きゅうさいこう</rt></ruby>は<span\
+  \ style=\"color: blue;\">ユネスコ</span>の<span style=\"color: blue;\"><ruby>世界遺産<rt>せかいいさん</rt></ruby></span>になっていて、<ruby>世界中<rt>せかいじゅう</rt></ruby>から<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がきれいな<ruby>景色<rt>けしき</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。</p>\n\
+  <p>この<ruby>地震<rt>じしん</rt></ruby>で、たくさんの<ruby>建物<rt>たてもの</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れたり<ruby>山<rt>やま</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>崩<rt>くず</rt></ruby>れ</span>たりしました。<ruby>中国<rt>ちゅうごく</rt></ruby>のテレビは、<ruby>１０日<rt>とおか</rt></ruby>の<ruby>昼<rt>ひる</rt></ruby>までに１９<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、３４３<ruby>人<rt>にん</rt></ruby>がけがをしたと<ruby>言<rt>い</rt></ruby>っています。<ruby>地震<rt>じしん</rt></ruby>は１０００<ruby>回<rt>かい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>続<rt>つづ</rt></ruby>いていて、<ruby>警察<rt>けいさつ</rt></ruby>などは<ruby>地震<rt>じしん</rt></ruby>があった<ruby>所<rt>ところ</rt></ruby>にいる<ruby>人<rt>ひと</rt></ruby>たちを<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>け</span>に<ruby>行<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>中国<rt>ちゅうごく</rt></ruby>の<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>ていた<ruby>人<rt>ひと</rt></ruby>など６<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>が<ruby>安全<rt>あんぜん</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>避難<rt>ひなん</rt></ruby></span>したと<ruby>言<rt>い</rt></ruby>っています。<span\
+  \ style=\"color: blue;\"><ruby>避難<rt>ひなん</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>たちは、<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>が<ruby>用意<rt>ようい</rt></ruby>したバスに<ruby>乗<rt>の</rt></ruby>って、<ruby>四川省<rt>しせんしょう</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>町<rt>まち</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<ruby>出発<rt>しゅっぱつ</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: マグニチュード
+  descriptions:
+  - <ruby><rb>地震</rb><rt>じしん</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさの<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: UNESCO
+  descriptions:
+  - <ruby><rb>国連</rb><rt>こくれん</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つで、<ruby><rb>教育</rb><rt>きょういく</rt></ruby>や<ruby><rb>科学</rb><rt>かがく</rt></ruby>、また<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>を<ruby><rb>通</rb><rt>つう</rt></ruby>じて、たがいに<ruby><rb>理解</rb><rt>りかい</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ることを<ruby><rb>目的</rb><rt>もくてき</rt></ruby>としている。
+- word: 世界遺産
+  descriptions:
+  - ユネスコの「<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby><ruby><rb>及</rb><rt>およ</rt></ruby>び<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>の<ruby><rb>保護</rb><rt>ほご</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>条約</rb><rt>じょうやく</rt></ruby>」（「<ruby><rb>世界遺産保護条約</rb><rt>せかいいさんほごじょうやく</rt></ruby>」）にもとづいて<ruby><rb>決</rb><rt>き</rt></ruby>められた、<ruby><rb>世界的</rb><rt>せかいてき</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>す<ruby><rb>価値</rb><rt>かち</rt></ruby>があると<ruby><rb>認</rb><rt>みと</rt></ruby>められた<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>や<ruby><rb>自然</rb><rt>しぜん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby>として<ruby><rb>姫路城</rb><rt>ひめじじょう</rt></ruby>や<ruby><rb>法隆寺</rb><rt>ほうりゅうじ</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の<ruby><rb>首里城</rb><rt>しゅりじょう</rt></ruby>など、<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>として<ruby><rb>屋久島</rb><rt>やくしま</rt></ruby>や<ruby><rb>白神山地</rb><rt>しらかみさんち</rt></ruby>などが<ruby><rb>指定</rb><rt>してい</rt></ruby>されている。
+- word: 崩れる
+  descriptions:
+  - こわれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。
+  - ばらばらになる。<ruby><rb>乱</rb><rt>みだ</rt></ruby>れる。
+  - <ruby><rb>悪</rb><rt>わる</rt></ruby>くなる。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 避難
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。
+web_news_url: /news/web/2017/08/10/中国-四川省の地震-救出活動と観光客の避難続く/
+source_url: http://www3.nhk.or.jp/news/easy/k10011095621000/k10011095621000.html
+...
