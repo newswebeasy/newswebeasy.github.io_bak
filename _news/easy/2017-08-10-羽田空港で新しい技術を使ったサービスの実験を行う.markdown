@@ -1,0 +1,62 @@
+---
+layout: easy_news
+newsid: k10011093441000
+categories: easy
+title: 羽田空港で新しい技術を使ったサービスの実験を行う
+title_with_ruby: <ruby>羽田空港<rt>はねだくうこう</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ったサービスの<ruby>実験<rt>じっけん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う
+last_modified_at: '2017-08-10T11:30:00+09:00'
+datetime: 2017年08月10日 11時30分
+description: 羽田空港はねだくうこうは、インターネットなどの新あたらしい技術ぎじゅつを使つかったサービスの実験じっけんを始はじめました。
+description_with_ruby: <ruby>羽田空港<rt>はねだくうこう</rt></ruby>は、インターネットなどの<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ったサービスの<ruby>実験<rt>じっけん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/10/k10011093441000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/10/k10011093441000.mp3
+contents: "<p><ruby>羽田空港<rt>はねだくうこう</rt></ruby>は、インターネットなどの<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<span\
+  \ style=\"color: blue;\">サービス</span>の<span style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>を<ruby>始<rt>はじ</rt></ruby>めました。<ruby>外国人<rt>がいこくじん</rt></ruby>や<ruby>体<rt>からだ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>が<ruby>利用<rt>りよう</rt></ruby>しやすい<ruby>空港<rt>くうこう</rt></ruby>にするため、インターネットの<ruby>会社<rt>かいしゃ</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>電化製品<rt>でんかせいひん</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>っています。</p>\n\
+  <p>スマートフォンでバスの<span style=\"color: blue;\"><ruby>乗<rt>の</rt></ruby>り<ruby>場<rt>ば</rt></ruby></span>の<ruby>案内<rt>あんない</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ると、<span\
+  \ style=\"color: blue;\"><ruby>乗<rt>の</rt></ruby>り<ruby>場<rt>ば</rt></ruby></span>までの<ruby>地図<rt>ちず</rt></ruby>と<ruby>説明<rt>せつめい</rt></ruby>が４つの<ruby>外国語<rt>がいこくご</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>画面<rt>がめん</rt></ruby></span>に<ruby>出<rt>で</rt></ruby>る<span\
+  \ style=\"color: blue;\">サービス</span>もあります。</p>\n<p><span style=\"color: blue;\"\
+  ><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>走<rt>はし</rt></ruby>る<span style=\"color:\
+  \ blue;\"><ruby>車<rt>くるま</rt></ruby>いす</span>に<ruby>乗<rt>の</rt></ruby>って、スマートフォンで<ruby>空港<rt>くうこう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>行<rt>い</rt></ruby>きたい<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>決<rt>き</rt></ruby>めると、<ruby>人<rt>ひと</rt></ruby>や<ruby>物<rt>もの</rt></ruby>などに<span\
+  \ style=\"color: blue;\">ぶつから</span>ないようにして<ruby>向<rt>む</rt></ruby>かいます。</p>\n<p><ruby>飛行機<rt>ひこうき</rt></ruby>に<ruby>乗<rt>の</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>荷物<rt>にもつ</rt></ruby>などをチェックする<ruby>場所<rt>ばしょ</rt></ruby>が<ruby>混<rt>こ</rt></ruby>んでいるかどうかを<ruby>調<rt>しら</rt></ruby>べて、すいている<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>案内<rt>あんない</rt></ruby>する<span\
+  \ style=\"color: blue;\">サービス</span>もあります。</p>\n<p><ruby>羽田空港<rt>はねだくうこう</rt></ruby>は、<ruby>来年<rt>らいねん</rt></ruby>の３<ruby>月<rt>がつ</rt></ruby>までいろいろな<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>を<ruby>行<rt>おこな</rt></ruby>って、もっと<ruby>利用<rt>りよう</rt></ruby>しやすい<ruby>空港<rt>くうこう</rt></ruby>にしたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: 実験
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。
+- word: 障害
+  descriptions:
+  - <ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。
+- word: 電化製品
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って、はたらかせる<ruby><rb>機械</rb><rt>きかい</rt></ruby>。<ruby><rb>電気冷蔵庫</rb><rt>でんきれいぞうこ</rt></ruby>・<ruby><rb>電気洗濯機</rb><rt>でんきせんたくき</rt></ruby>など。
+- word: 乗り場
+  descriptions:
+  - <ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>に<ruby><rb>乗</rb><rt>の</rt></ruby>るための、<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: 画面
+  descriptions:
+  - <ruby><rb>映画</rb><rt>えいが</rt></ruby>やテレビが<ruby><rb>映</rb><rt>うつ</rt></ruby>っている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+- word: 自動
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。
+- word: 車椅子
+  descriptions:
+  - <ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>病気</rb><rt>びょうき</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>などが、<ruby><rb>腰</rb><rt>こし</rt></ruby>かけたまま<ruby><rb>移動</rb><rt>いどう</rt></ruby>できるように<ruby><rb>車</rb><rt>くるま</rt></ruby>をつけた、いす。
+- word: ぶつかる
+  descriptions:
+  - <ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。
+  - <ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。
+  - <ruby><rb>重</rb><rt>かさ</rt></ruby>なる。
+web_news_url: /news/web/2017/08/08/羽田空港で情報通信技術の実証実験始まる/
+source_url: http://www3.nhk.or.jp/news/easy/k10011093441000/k10011093441000.html
+...
