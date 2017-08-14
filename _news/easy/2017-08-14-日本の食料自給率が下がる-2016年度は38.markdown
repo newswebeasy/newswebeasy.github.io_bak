@@ -1,0 +1,45 @@
+---
+layout: easy_news
+newsid: k10011094581000
+categories: easy
+title: 日本の食料自給率が下がる　２０１６年度は３８％
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>食料自給率<rt>しょくりょうじきゅうりつ</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がる　２０１６<ruby>年度<rt>ねんど</rt></ruby>は３８％
+last_modified_at: '2017-08-14T11:30:00+09:00'
+datetime: 2017年08月14日 11時30分
+description: 農林水産省のうりんすいさんしょうは毎年まいとし、日本にっぽんの人ひとたちが食たべている物ものの中なかで、日本にっぽんで作つくった物ものがどのくらいあるかを計算けいさんした「食料自給率しょくりょうじきゅうりつ」を発表はっぴょうしています。
+description_with_ruby: <ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby>は<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが<ruby>食<rt>た</rt></ruby>べている<ruby>物<rt>もの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>作<rt>つく</rt></ruby>った<ruby>物<rt>もの</rt></ruby>がどのくらいあるかを<ruby>計算<rt>けいさん</rt></ruby>した「<ruby>食料自給率<rt>しょくりょうじきゅうりつ</rt></ruby>」を<ruby>発表<rt>はっぴょう</rt></ruby>しています。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/14/k10011094581000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/14/k10011094581000.mp3
+contents: "<p><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby>は<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが<ruby>食<rt>た</rt></ruby>べている<ruby>物<rt>もの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>作<rt>つく</rt></ruby>った<ruby>物<rt>もの</rt></ruby>がどのくらいあるかを<span\
+  \ style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>した「<ruby>食料自給率<rt>しょくりょうじきゅうりつ</rt></ruby>」を<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しています。</p>\n<p><ruby>今年<rt>ことし</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>によると、２０１６<span style=\"\
+  color: blue;\"><ruby>年度<rt>ねんど</rt></ruby></span>の<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>食料自給率<rt>しょくりょうじきゅうりつ</rt></ruby>は３８％でした。２０１０<span\
+  \ style=\"color: blue;\"><ruby>年度<rt>ねんど</rt></ruby></span>〜２０１５<span style=\"color:\
+  \ blue;\"><ruby>年度<rt>ねんど</rt></ruby></span>はずっと３９％でした。<ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby>は、２０１６<ruby>年<rt>ねん</rt></ruby>に<ruby>北海道<rt>ほっかいどう</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>台風<rt>たいふう</rt></ruby>が<ruby>来<rt>き</rt></ruby>て<span\
+  \ style=\"color: blue;\"><ruby>小麦<rt>こむぎ</rt></ruby></span>などの<ruby>生産<rt>せいさん</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なかったりしたため、<ruby>食料自給率<rt>しょくりょうじきゅうりつ</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がったと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>食料自給率<rt>しょくりょうじきゅうりつ</rt></ruby>がいちばん<ruby>高<rt>たか</rt></ruby>かったのは１９６０<span\
+  \ style=\"color: blue;\"><ruby>年度<rt>ねんど</rt></ruby></span>で７９％でした。そのあとだんだん<ruby>下<rt>さ</rt></ruby>がって、<ruby>今<rt>いま</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>先進国<rt>せんしんこく</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>でいちばん<ruby>低<rt>ひく</rt></ruby>くなっています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 年度
+  descriptions:
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>のつごうで<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>一年</rb><rt>いちねん</rt></ruby>の<ruby><rb>期間</rb><rt>きかん</rt></ruby>。ふつう４<ruby><rb>月</rb><rt>がつ</rt></ruby><ruby><rb>１日</rb><rt>ついたち</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まり、<ruby><rb>翌年</rb><rt>よくねん</rt></ruby>の３<ruby><rb>月</rb><rt>がつ</rt></ruby>３１<ruby><rb>日</rb><rt>にち</rt></ruby>に<ruby><rb>終</rb><rt>お</rt></ruby>わる。
+- word: 計算
+  descriptions:
+  - <ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。
+  - <ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 小麦
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>実</rb><rt>み</rt></ruby>を、しょうゆ・みそを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>にしたり、<ruby><rb>小麦粉</rb><rt>こむぎこ</rt></ruby>にしたりする。
+- word: 先進国
+  descriptions:
+  - <ruby><rb>経済</rb><rt>けいざい</rt></ruby>・<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>などが<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>んでいる<ruby><rb>国</rb><rt>くに</rt></ruby>。
+web_news_url: /news/web/2017/08/09/昨年度の食料自給率38-6年ぶり低下-過去2番目の低さ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011094581000/k10011094581000.html
+...

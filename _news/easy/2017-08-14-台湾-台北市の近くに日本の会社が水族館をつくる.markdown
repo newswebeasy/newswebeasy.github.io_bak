@@ -1,0 +1,56 @@
+---
+layout: easy_news
+newsid: k10011094761000
+categories: easy
+title: 台湾　台北市の近くに日本の会社が水族館をつくる
+title_with_ruby: <ruby>台湾<rt>たいわん</rt></ruby>　<ruby>台北市<rt>たいほくし</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>水族館<rt>すいぞくかん</rt></ruby>をつくる
+last_modified_at: '2017-08-14T11:30:00+09:00'
+datetime: 2017年08月14日 11時30分
+description: 台湾たいわんの台北市たいほくしに近ちかい桃園市とうえんしに、日本にっぽんの会社かいしゃが大おおきな水族館すいぞくかんをつくることになりました。
+description_with_ruby: <ruby>台湾<rt>たいわん</rt></ruby>の<ruby>台北市<rt>たいほくし</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>い<ruby>桃園市<rt>とうえんし</rt></ruby>に、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きな<ruby>水族館<rt>すいぞくかん</rt></ruby>をつくることになりました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/14/k10011094761000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/14/k10011094761000.mp3
+contents: "<p><ruby>台湾<rt>たいわん</rt></ruby>の<ruby>台北市<rt>たいほくし</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>い<ruby>桃園市<rt>とうえんし</rt></ruby>に、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>をつくることになりました。この<ruby>会社<rt>かいしゃ</rt></ruby>は「<ruby>横浜<rt>よこはま</rt></ruby>・<ruby>八景島<rt>はっけいじま</rt></ruby>シーパラダイス」など４つの<span\
+  \ style=\"color: blue;\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>経営<rt>けいえい</rt></ruby></span>しています。</p>\n<p><ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>は、ショッピングセンターなどがあって<span\
+  \ style=\"color: blue;\"><ruby>週末<rt>しゅうまつ</rt></ruby></span>にたくさん<ruby>人<rt>ひと</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まる<ruby>場所<rt>ばしょ</rt></ruby>につくります。<ruby>建物<rt>たてもの</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>地上<rt>ちじょう</rt></ruby></span>３<ruby>階<rt>がい</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>地下<rt>ちか</rt></ruby></span>２<ruby>階<rt>かい</rt></ruby>で<ruby>広<rt>ひろ</rt></ruby>さは１<ruby>万<rt>まん</rt></ruby>５０００m²です。</p>\n\
+  <p><ruby>９日<rt>ここのか</rt></ruby>、<span style=\"color: blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>を<ruby>始<rt>はじ</rt></ruby>める<ruby>式<rt>しき</rt></ruby>がありました。<ruby>桃園市<rt>とうえんし</rt></ruby>の<ruby>鄭文燦<rt>ていぶんさん</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>市長<rt>しちょう</rt></ruby></span>は「<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>にたくさん<ruby>人<rt>ひと</rt></ruby>が<ruby>来<rt>く</rt></ruby>るようになって、まちが<ruby>元気<rt>げんき</rt></ruby>になると<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p><ruby>台湾<rt>たいわん</rt></ruby>には<ruby>海<rt>うみ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに４つ<span\
+  \ style=\"color: blue;\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>がありますが、<ruby>大<rt>おお</rt></ruby>きなまちの<ruby>中<rt>なか</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>ができるのは<ruby>初<rt>はじ</rt></ruby>めてです。<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>はいろいろ<ruby>楽<rt>たの</rt></ruby>しむことができるため、<ruby>台湾<rt>たいわん</rt></ruby>では<ruby>楽<rt>たの</rt></ruby>しみにしている<ruby>人<rt>ひと</rt></ruby>がたくさんいます。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>は２０２０<ruby>年<rt>ねん</rt></ruby>にできる<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 水族館
+  descriptions:
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>にすむ<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>め、ガラス<ruby><rb>張</rb><rt>ば</rt></ruby>りの<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>水槽</rb><rt>すいそう</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れて、<ruby><rb>生</rb><rt>い</rt></ruby>きたままのようすを<ruby><rb>見</rb><rt>み</rt></ruby>せるようにした<ruby><rb>所</rb><rt>ところ</rt></ruby>。すいぞっかん。
+- word: 経営
+  descriptions:
+  - <ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。
+- word: 週末
+  descriptions:
+  - <ruby><rb>一週間</rb><rt>いっしゅうかん</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わり。ウイークエンド。
+- word: 地上
+  descriptions:
+  - <ruby><rb>地面</rb><rt>じめん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>。
+- word: 地下
+  descriptions:
+  - <ruby><rb>地面</rb><rt>じめん</rt></ruby>の<ruby><rb>下</rb><rt>した</rt></ruby>。<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>。
+  - <ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>世</rb><rt>よ</rt></ruby>。あの<ruby><rb>世</rb><rt>よ</rt></ruby>。
+  - <ruby><rb>秘密</rb><rt>ひみつ</rt></ruby>の<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: 工事
+  descriptions:
+  - <ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。
+- word: 市長
+  descriptions:
+  - <ruby><rb>市</rb><rt>し</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>し、その<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとり<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+web_news_url: /news/web/2017/08/09/台湾の台北郊外に日本の水族館が進出へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011094761000/k10011094761000.html
+...

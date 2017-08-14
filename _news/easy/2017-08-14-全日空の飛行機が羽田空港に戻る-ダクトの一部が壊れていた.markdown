@@ -1,0 +1,43 @@
+---
+layout: easy_news
+newsid: k10011098411000
+categories: easy
+title: 全日空の飛行機が羽田空港に戻る　ダクトの一部が壊れていた
+title_with_ruby: <ruby>全日空<rt>ぜんにっくう</rt></ruby>の<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>羽田空港<rt>はねだくうこう</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>る　ダクトの<ruby>一部<rt>いちぶ</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れていた
+last_modified_at: '2017-08-14T16:30:00+09:00'
+datetime: 2017年08月14日 16時30分
+description: １２日にちの夜よる、羽田空港はねだくうこうから大阪空港おおさかくうこうに向むかっていた全日空ぜんにっくうの飛行機ひこうきが、飛とんでから３０分ぷんぐらいあとに羽田空港はねだくうこうに戻もどりました。
+description_with_ruby: １２<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>羽田空港<rt>はねだくうこう</rt></ruby>から<ruby>大阪空港<rt>おおさかくうこう</rt></ruby>に<ruby>向<rt>む</rt></ruby>かっていた<ruby>全日空<rt>ぜんにっくう</rt></ruby>の<ruby>飛行機<rt>ひこうき</rt></ruby>が、<ruby>飛<rt>と</rt></ruby>んでから３０<ruby>分<rt>ぷん</rt></ruby>ぐらいあとに<ruby>羽田空港<rt>はねだくうこう</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/14/k10011098411000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/14/k10011098411000.mp3
+contents: "<p>１２<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>羽田空港<rt>はねだくうこう</rt></ruby>から<ruby>大阪空港<rt>おおさかくうこう</rt></ruby>に<ruby>向<rt>む</rt></ruby>かっていた<ruby>全日空<rt>ぜんにっくう</rt></ruby>の<ruby>飛行機<rt>ひこうき</rt></ruby>が、<ruby>飛<rt>と</rt></ruby>んでから３０<ruby>分<rt>ぷん</rt></ruby>ぐらいあとに<ruby>羽田空港<rt>はねだくうこう</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>りました。<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>気圧<rt>きあつ</rt></ruby></span>が<ruby>下<rt>さ</rt></ruby>がらないようにする<span\
+  \ style=\"color: blue;\">システム</span>に<ruby>問題<rt>もんだい</rt></ruby>があると<ruby>知<rt>し</rt></ruby>らせる<ruby>音<rt>おと</rt></ruby>が<ruby>鳴<rt>な</rt></ruby>ったためです。</p>\n\
+  <p>ボーイング７７７という<ruby>飛行機<rt>ひこうき</rt></ruby>で、<ruby>客<rt>きゃく</rt></ruby>など<ruby>全部<rt>ぜんぶ</rt></ruby>で２７３<ruby>人<rt>にん</rt></ruby>が<ruby>乗<rt>の</rt></ruby>っていました。<ruby>全日空<rt>ぜんにっくう</rt></ruby>は、けがをした<ruby>人<rt>ひと</rt></ruby>はいませんが、<ruby>気分<rt>きぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>が<ruby>２人<rt>ふたり</rt></ruby>いたと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>全日空<rt>ぜんにっくう</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べると、<span style=\"color:\
+  \ blue;\"><ruby>車輪<rt>しゃりん</rt></ruby></span>を<ruby>入<rt>い</rt></ruby>れるところにある「ダクト」という<ruby>空気<rt>くうき</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る<span\
+  \ style=\"color: blue;\"><ruby>管<rt>くだ</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>一部<rt>いちぶ</rt></ruby></span>が<ruby>壊<rt>こわ</rt></ruby>れていることがわかりました。<ruby>全日空<rt>ぜんにっくう</rt></ruby>は、ダクトが<ruby>壊<rt>こわ</rt></ruby>れたため、<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>空気<rt>くうき</rt></ruby>がだんだん<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>て<span\
+  \ style=\"color: blue;\"><ruby>気圧<rt>きあつ</rt></ruby></span>が<ruby>下<rt>さ</rt></ruby>がったと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: 一部
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: 気圧
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）が<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>をおしつけている<ruby><rb>力</rb><rt>ちから</rt></ruby>。ふつう、ヘクトパスカルで<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。１０１３ヘクトパスカルを１<ruby><rb>気圧</rb><rt>きあつ</rt></ruby>といい、<ruby><rb>水銀柱</rb><rt>すいぎんちゅう</rt></ruby>を７６０ミリメートルの<ruby><rb>高</rb><rt>たか</rt></ruby>さにおし<ruby><rb>上</rb><rt>あ</rt></ruby>げる<ruby><rb>圧力</rb><rt>あつりょく</rt></ruby>に<ruby><rb>等</rb><rt>ひと</rt></ruby>しい。
+- word: システム
+  descriptions:
+  - <ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+  - ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。
+- word: 車輪
+  descriptions:
+  - <ruby><rb>車</rb><rt>くるま</rt></ruby>の<ruby><rb>輪</rb><rt>わ</rt></ruby>。くるま。
+- word: 管
+  descriptions:
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>穴</rb><rt>あな</rt></ruby>が<ruby><rb>空</rb><rt>あ</rt></ruby>いている、<ruby><rb>丸</rb><rt>まる</rt></ruby>くて<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>いもの。つつ。パイプ。
+web_news_url: /news/web/2017/08/13/全日空機の羽田引き返し-ダクト破損で気圧低下か/
+source_url: http://www3.nhk.or.jp/news/easy/k10011098411000/k10011098411000.html
+...
