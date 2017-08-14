@@ -1,0 +1,56 @@
+---
+layout: easy_news
+newsid: k10011097661000
+categories: easy
+title: 世界でいちばん長く生きていた男性が１１３歳で亡くなる
+title_with_ruby: <ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>長<rt>なが</rt></ruby>く<ruby>生<rt>い</rt></ruby>きていた<ruby>男性<rt>だんせい</rt></ruby>が１１３<ruby>歳<rt>さい</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなる
+last_modified_at: '2017-08-14T16:30:00+09:00'
+datetime: 2017年08月14日 16時30分
+description: １１日にち、イスラエルの男性だんせいのイスラエル・クリスタルさんが１１３歳さいで亡なくなりました。
+description_with_ruby: １１<ruby>日<rt>にち</rt></ruby>、イスラエルの<ruby>男性<rt>だんせい</rt></ruby>のイスラエル・クリスタルさんが１１３<ruby>歳<rt>さい</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなりました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/14/k10011097661000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/14/k10011097661000.mp3
+contents: "<p>１１<ruby>日<rt>にち</rt></ruby>、イスラエルの<ruby>男性<rt>だんせい</rt></ruby>のイスラエル・クリスタルさんが１１３<ruby>歳<rt>さい</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p>クリスタルさんは１９０３<ruby>年<rt>ねん</rt></ruby>にポーランドで<ruby>生<rt>う</rt></ruby>まれました。<span\
+  \ style=\"color: blue;\"><ruby>第２次世界大戦<rt>だいにじせかいたいせん</rt></ruby></span>のとき、クリスタルさんと<ruby>家族<rt>かぞく</rt></ruby>は、ドイツの<span\
+  \ style=\"color: blue;\">ナチス</span>がたくさんの<ruby>人<rt>ひと</rt></ruby>を<span style=\"\
+  color: blue;\"><ruby>殺<rt>ころ</rt></ruby>し</span>た「アウシュビッツ<ruby>強制<rt>きょうせい</rt></ruby><ruby>収容所<rt>しゅうようじょ</rt></ruby>」に<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>かれました。</p>\n\
+  <p>ここでクリスタルさんの<ruby>妻<rt>つま</rt></ruby>と<ruby>２人<rt>ふたり</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもは<span\
+  \ style=\"color: blue;\"><ruby>殺<rt>ころ</rt></ruby>さ</span>れました。<span style=\"color:\
+  \ blue;\"><ruby>助<rt>たす</rt></ruby>かっ</span>たクリスタルさんは、<ruby>戦争<rt>せんそう</rt></ruby>が<ruby>終<rt>お</rt></ruby>わったあと、イスラエルでお<ruby>菓子<rt>かし</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いて<ruby>働<rt>はたら</rt></ruby>いていました。</p>\n\
+  <p><ruby>去年<rt>きょねん</rt></ruby>１<ruby>月<rt>がつ</rt></ruby>、<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>長<rt>なが</rt></ruby>く<ruby>生<rt>い</rt></ruby>きている<ruby>男性<rt>だんせい</rt></ruby>になったクリスタルさんは「<ruby>人<rt>ひと</rt></ruby>はみんな<span\
+  \ style=\"color: blue;\"><ruby>運命<rt>うんめい</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>っていて、<ruby>長<rt>なが</rt></ruby>く<ruby>生<rt>い</rt></ruby>きるための<ruby>特別<rt>とくべつ</rt></ruby>な<span\
+  \ style=\"color: blue;\"><ruby>方法<rt>ほうほう</rt></ruby></span>はありません」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 第２次世界大戦
+  descriptions:
+  - １９３９<ruby><rb>年</rb><rt>ねん</rt></ruby>から１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>まで、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>・ドイツ・イタリアが、イギリス・フランス・アメリカ・ソ<ruby><rb>連</rb><rt>れん</rt></ruby>・<ruby><rb>中国</rb><rt>ちゅうごく</rt></ruby>などの<ruby><rb>連合国</rb><rt>れんごうこく</rt></ruby>と<ruby><rb>戦</rb><rt>たたか</rt></ruby>った<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>（<ruby><rb>昭和</rb><rt>しょうわ</rt></ruby>２０<ruby><rb>年</rb><rt>ねん</rt></ruby>）８<ruby><rb>月</rb><rt>がつ</rt></ruby>１５<ruby><rb>日</rb><rt>にち</rt></ruby>に<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>が<ruby><rb>降伏</rb><rt>こうふく</rt></ruby>して<ruby><rb>終</rb><rt>お</rt></ruby>わった。
+- word: ナチス
+  descriptions:
+  - <ruby><rb>第一次世界大戦後</rb><rt>だいいちじせかいたいせんご</rt></ruby>にドイツでできた<ruby><rb>政党</rb><rt>せいとう</rt></ruby>。<ruby><rb>党首</rb><rt>とうしゅ</rt></ruby>ヒトラーの<ruby><rb>独裁</rb><rt>どくさい</rt></ruby>のもと、<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>起</rb><rt>お</rt></ruby>こしたが、<ruby><rb>連合国</rb><rt>れんごうこく</rt></ruby>に<ruby><rb>負</rb><rt>ま</rt></ruby>けた。ナチ。
+- word: 殺す
+  descriptions:
+  - <ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - （<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。
+  - <ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。
+- word: 殺す
+  descriptions:
+  - <ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - （<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。
+  - <ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。
+- word: 助かる
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないこと、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、のがれる。
+  - <ruby><rb>費用</rb><rt>ひよう</rt></ruby>や<ruby><rb>苦労</rb><rt>くろう</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくてすむ。
+- word: 運命
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>にしたり、<ruby><rb>不幸</rb><rt>ふこう</rt></ruby>にしたりする<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>ではどうにもできないめぐり<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。<ruby><rb>運</rb><rt>うん</rt></ruby>。
+- word: 方法
+  descriptions:
+  - ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。
+web_news_url: /news/web/2017/08/12/世界最高齢男性が113歳で死去-ホロコースト生存者/
+source_url: http://www3.nhk.or.jp/news/easy/k10011097661000/k10011097661000.html
+...
