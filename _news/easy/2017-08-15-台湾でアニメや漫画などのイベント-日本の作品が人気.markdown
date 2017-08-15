@@ -1,0 +1,74 @@
+---
+layout: easy_news
+newsid: k10011096021000
+categories: easy
+title: 台湾でアニメや漫画などのイベント　日本の作品が人気
+title_with_ruby: <ruby>台湾<rt>たいわん</rt></ruby>でアニメや<ruby>漫画<rt>まんが</rt></ruby>などのイベント　<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>作品<rt>さくひん</rt></ruby>が<ruby>人気<rt>にんき</rt></ruby>
+last_modified_at: '2017-08-15T11:30:00+09:00'
+datetime: 2017年08月15日 11時30分
+description: 台湾たいわんで、アニメや漫画まんが、ゲームなどを紹介しょうかいしたり売うったりする大おおきなイベントがありました。
+description_with_ruby: <ruby>台湾<rt>たいわん</rt></ruby>で、アニメや<ruby>漫画<rt>まんが</rt></ruby>、ゲームなどを<ruby>紹介<rt>しょうかい</rt></ruby>したり<ruby>売<rt>う</rt></ruby>ったりする<ruby>大<rt>おお</rt></ruby>きなイベントがありました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/15/k10011096021000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/15/k10011096021000.mp3
+contents: "<p><ruby>台湾<rt>たいわん</rt></ruby>で、<span style=\"color: blue;\">アニメ</span>や<ruby>漫画<rt>まんが</rt></ruby>、<span\
+  \ style=\"color: blue;\">ゲーム</span>などを<ruby>紹介<rt>しょうかい</rt></ruby>したり<ruby>売<rt>う</rt></ruby>ったりする<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\">イベント</span>がありました。<ruby>日本<rt>にっぽん</rt></ruby>や<ruby>台湾<rt>たいわん</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>などが、<ruby>毎年<rt>まいとし</rt></ruby><ruby>夏休<rt>なつやす</rt></ruby>みにこの<span\
+  \ style=\"color: blue;\">イベント</span>を<ruby>開<rt>ひら</rt></ruby>いています。<ruby>最近<rt>さいきん</rt></ruby>は５０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>来<rt>き</rt></ruby>ています。</p>\n\
+  <p><ruby>会場<rt>かいじょう</rt></ruby>では、７０の<ruby>会社<rt>かいしゃ</rt></ruby>が<span style=\"\
+  color: blue;\"><ruby>作品<rt>さくひん</rt></ruby></span>や<span style=\"color: blue;\"\
+  >キャラクター</span>を<ruby>使<rt>つか</rt></ruby>った<span style=\"color: blue;\"><ruby>商品<rt>しょうひん</rt></ruby></span>を<ruby>売<rt>う</rt></ruby>りました。<ruby>台湾<rt>たいわん</rt></ruby>では<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>漫画<rt>まんが</rt></ruby>や<span\
+  \ style=\"color: blue;\">アニメ</span>などが<span style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>で、<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>作品<rt>さくひん</rt></ruby></span>をたくさん<ruby>売<rt>う</rt></ruby>っていました。<span\
+  \ style=\"color: blue;\">イベント</span>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、<ruby>始<rt>はじ</rt></ruby>まる<ruby>３日<rt>みっか</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>並<rt>なら</rt></ruby>んで<ruby>待<rt>ま</rt></ruby>っていた<ruby>人<rt>ひと</rt></ruby>もいました。</p>\n\
+  <p><ruby>特<rt>とく</rt></ruby>に<span style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>だったのは、<ruby>買<rt>か</rt></ruby>うと、<ruby>特別<rt>とくべつ</rt></ruby>な<span\
+  \ style=\"color: blue;\">チケット</span>をもらうことができる<span style=\"color: blue;\">ポスター</span>です。この<span\
+  \ style=\"color: blue;\">チケット</span>で、<ruby>日本<rt>にっぽん</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>声優<rt>せいゆう</rt></ruby></span>が<span style=\"color: blue;\"\
+  >サイン</span>をする<span style=\"color: blue;\">イベント</span>に<ruby>行<rt>い</rt></ruby>くことができます。</p>\n\
+  <p><span style=\"color: blue;\">アイドル</span>の<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>が<ruby>出<rt>で</rt></ruby>てくる<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\">アニメ</span>の<span style=\"color: blue;\">ゲーム</span>で<ruby>遊<rt>あそ</rt></ruby>ぶ<ruby>所<rt>ところ</rt></ruby>にもたくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>来<rt>き</rt></ruby>ていました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: アニメーション
+  descriptions:
+  - かいた<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>を、<ruby><rb>動</rb><rt>うご</rt></ruby>きに<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>撮影</rb><rt>さつえい</rt></ruby>し、それを<ruby><rb>映</rb><rt>うつ</rt></ruby>して<ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>動</rb><rt>うご</rt></ruby>いているように<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>映画</rb><rt>えいが</rt></ruby>。<ruby><rb>動画</rb><rt>どうが</rt></ruby>。アニメ。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 作品
+  descriptions:
+  - <ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。<ruby><rb>文学</rb><rt>ぶんがく</rt></ruby>・<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>・<ruby><rb>美術</rb><rt>びじゅつ</rt></ruby>などで、<ruby><rb>作者</rb><rt>さくしゃ</rt></ruby>が<ruby><rb>創造</rb><rt>そうぞう</rt></ruby>したもの。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: ゲーム
+  descriptions:
+  - <ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>遊</rb><rt>あそ</rt></ruby>び。
+  - <ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: キャラクター
+  descriptions:
+  - <ruby><rb>性格</rb><rt>せいかく</rt></ruby>。<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>味</rb><rt>あじ</rt></ruby>。
+  - まんが・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>劇</rb><rt>げき</rt></ruby>などに<ruby><rb>出</rb><rt>で</rt></ruby>てくる<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。
+- word: 商品
+  descriptions:
+  - <ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>買</rb><rt>か</rt></ruby>ったりするための<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+- word: チケット
+  descriptions:
+  - きっぷ。<ruby><rb>券</rb><rt>けん</rt></ruby>。<ruby><rb>入場券</rb><rt>にゅうじょうけん</rt></ruby>・<ruby><rb>乗車券</rb><rt>じょうしゃけん</rt></ruby>・<ruby><rb>食券</rb><rt>しょっけん</rt></ruby>など。
+- word: ポスター
+  descriptions:
+  - <ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文</rb><rt>ぶん</rt></ruby>をかいた<ruby><rb>宣伝用</rb><rt>せんでんよう</rt></ruby>の<ruby><rb>張</rb><rt>は</rt></ruby>り<ruby><rb>紙</rb><rt>がみ</rt></ruby>。
+- word: 声優
+  descriptions:
+  - ラジオドラマや<ruby><rb>外国</rb><rt>がいこく</rt></ruby>の<ruby><rb>映画</rb><rt>えいが</rt></ruby>のふきかえ、アニメーションなどで、<ruby><rb>声</rb><rt>こえ</rt></ruby>だけの<ruby><rb>出演</rb><rt>しゅつえん</rt></ruby>をする<ruby><rb>俳優</rb><rt>はいゆう</rt></ruby>。
+- word: サイン
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>くこと。<ruby><rb>署名</rb><rt>しょめい</rt></ruby>。
+  - <ruby><rb>合図</rb><rt>あいず</rt></ruby>。しるし。
+- word: アイドル
+  descriptions:
+  - みんなのあこがれになっている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>人気者</rb><rt>にんきもの</rt></ruby>。
+web_news_url: /news/web/2017/08/10/台湾-アジア最大級のアニメマンガ展-日本作品が人気/
+source_url: http://www3.nhk.or.jp/news/easy/k10011096021000/k10011096021000.html
+...

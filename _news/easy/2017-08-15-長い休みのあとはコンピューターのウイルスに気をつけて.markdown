@@ -1,0 +1,63 @@
+---
+layout: easy_news
+newsid: k10011099221000
+categories: easy
+title: 「長い休みのあとはコンピューターのウイルスに気をつけて」
+title_with_ruby: 「<ruby>長<rt>なが</rt></ruby>い<ruby>休<rt>やす</rt></ruby>みのあとはコンピューターのウイルスに<ruby>気<rt>き</rt></ruby>をつけて」
+last_modified_at: '2017-08-15T16:25:00+09:00'
+datetime: 2017年08月15日 16時25分
+description: 夏休なつやすみのあとなどに久ひさしぶりに会社かいしゃのパソコンを使つかってメールを開ひらくと、コンピューターにウイルスが入はいってしまうことがあります。
+description_with_ruby: <ruby>夏休<rt>なつやす</rt></ruby>みのあとなどに<ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>会社<rt>かいしゃ</rt></ruby>のパソコンを<ruby>使<rt>つか</rt></ruby>ってメールを<ruby>開<rt>ひら</rt></ruby>くと、コンピューターにウイルスが<ruby>入<rt>はい</rt></ruby>ってしまうことがあります。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/15/k10011099221000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/15/k10011099221000.mp3
+contents: "<p><ruby>夏休<rt>なつやす</rt></ruby>みのあとなどに<ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>会社<rt>かいしゃ</rt></ruby>のパソコンを<ruby>使<rt>つか</rt></ruby>って<span\
+  \ style=\"color: blue;\">メール</span>を<ruby>開<rt>ひら</rt></ruby>くと、コンピューターに<span style=\"\
+  color: blue;\">ウイルス</span>が<ruby>入<rt>はい</rt></ruby>ってしまうことがあります。</p>\n<p>コンピューターの<span\
+  \ style=\"color: blue;\">セキュリティー</span>の<ruby>会社<rt>かいしゃ</rt></ruby>によると、<ruby>仕事<rt>しごと</rt></ruby>の<span\
+  \ style=\"color: blue;\">メール</span>のように<span style=\"color: blue;\">タイトル</span>に「<span\
+  \ style=\"color: blue;\"><ruby>見積<rt>みつもり</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>書<rt>しょ</rt></ruby></span>」などと<ruby>書<rt>か</rt></ruby>いて<span style=\"\
+  color: blue;\">ウイルス</span>を<ruby>送<rt>おく</rt></ruby>ってくる<span style=\"color: blue;\"\
+  >メール</span>が<ruby>多<rt>おお</rt></ruby>くなっています。<ruby>知<rt>し</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<span\
+  \ style=\"color: blue;\">ウイルス</span>を<ruby>送<rt>おく</rt></ruby>ってくる<span style=\"\
+  color: blue;\">メール</span>もあります。</p>\n<p>このような<span style=\"color: blue;\">メール</span>の<span\
+  \ style=\"color: blue;\">ファイル</span>を<ruby>開<rt>ひら</rt></ruby>くと、<span style=\"\
+  color: blue;\">ウイルス</span>が<ruby>入<rt>はい</rt></ruby>って、パソコンを<ruby>使<rt>つか</rt></ruby>うことができなくなります。そして、パソコンを<ruby>直<rt>なお</rt></ruby>すために<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>えと<ruby>言<rt>い</rt></ruby>われることがあります。</p>\n\
+  <p><span style=\"color: blue;\">セキュリティー</span>の<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>長<rt>なが</rt></ruby>い<ruby>休<rt>やす</rt></ruby>みのあと<span\
+  \ style=\"color: blue;\">メール</span>の<span style=\"color: blue;\">ファイル</span>を<ruby>開<rt>ひら</rt></ruby>くときは<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけるように<ruby>言<rt>い</rt></ruby>っています。そして、パソコンを<ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>使<rt>つか</rt></ruby>うときは、<span\
+  \ style=\"color: blue;\">ソフトウエア</span>をいちばん<ruby>新<rt>あたら</rt></ruby>しくするように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: コンピューターウイルス
+  descriptions:
+  - ほかのコンピューターに<ruby><rb>勝手</rb><rt>かって</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>り、プログラムをこわしたり、データを<ruby><rb>消</rb><rt>け</rt></ruby>したりするプログラム。
+- word: Eメール
+  descriptions:
+  - コンピューターなどを<ruby><rb>使</rb><rt>つか</rt></ruby>って、メッセージやデータなどのやりとりをする<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>電子</rb><rt>でんし</rt></ruby>メール。メール。
+- word: セキュリティー
+  descriptions:
+  - <ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ること。<ruby><rb>防犯</rb><rt>ぼうはん</rt></ruby>。
+- word: タイトル
+  descriptions:
+  - <ruby><rb>本</rb><rt>ほん</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>などの<ruby><rb>題名</rb><rt>だいめい</rt></ruby>。
+  - <ruby><rb>映画</rb><rt>えいが</rt></ruby>の<ruby><rb>字幕</rb><rt>じまく</rt></ruby>。
+  - スポーツで、<ruby><rb>選手権</rb><rt>せんしゅけん</rt></ruby>。
+- word: 見積もり
+  descriptions:
+  - <ruby><rb>必要</rb><rt>ひつよう</rt></ruby>な<ruby><rb>費用</rb><rt>ひよう</rt></ruby>・<ruby><rb>日数</rb><rt>にっすう</rt></ruby>・<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>などを、ざっと<ruby><rb>計算</rb><rt>けいさん</rt></ruby>すること。
+- word: 書
+  descriptions:
+  - かく。かいたもの。
+  - <ruby><rb>本</rb><rt>ほん</rt></ruby>。
+  - <ruby><rb>文字</rb><rt>もじ</rt></ruby>。<ruby><rb>文字</rb><rt>もじ</rt></ruby>の<ruby><rb>書</rb><rt>か</rt></ruby>き<ruby><rb>方</rb><rt>かた</rt></ruby>。
+- word: ファイル
+  descriptions:
+  - <ruby><rb>書類</rb><rt>しょるい</rt></ruby>などをとじこんでおくもの。<ruby><rb>書類</rb><rt>しょるい</rt></ruby>ばさみ。
+  - コンピューターであつかう<ruby><rb>文書</rb><rt>ぶんしょ</rt></ruby>や<ruby><rb>画像</rb><rt>がぞう</rt></ruby>などのデータ。
+  - <ruby><rb>書類</rb><rt>しょるい</rt></ruby>や<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>の<ruby><rb>切</rb><rt>き</rt></ruby>りぬきなどを<ruby><rb>整理</rb><rt>せいり</rt></ruby>して、とじこむこと。また、とじこんだもの。
+- word: ソフトウエア
+  descriptions:
+  - コンピューターを<ruby><rb>動</rb><rt>うご</rt></ruby>かすためのプログラムや<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>。ソフト。
+web_news_url: /news/web/2017/08/14/ウイルスに注意を-休み明けのパソコン利用/
+source_url: http://www3.nhk.or.jp/news/easy/k10011099221000/k10011099221000.html
+...

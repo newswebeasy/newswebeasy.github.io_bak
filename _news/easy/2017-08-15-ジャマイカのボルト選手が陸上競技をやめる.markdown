@@ -1,0 +1,77 @@
+---
+layout: easy_news
+newsid: k10011099711000
+categories: easy
+title: ジャマイカのボルト選手が陸上競技をやめる
+title_with_ruby: ジャマイカのボルト<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>陸上競技<rt>りくじょうきょうぎ</rt></ruby>をやめる
+last_modified_at: '2017-08-15T16:25:00+09:00'
+datetime: 2017年08月15日 16時25分
+description: ジャマイカのウサイン・ボルト選手せんしゅは、陸上競技りくじょうきょうぎの男子だんし１００ｍで、世界せかいでいちばん速はやい９秒びょう５８の記録きろくを持もっています。
+description_with_ruby: ジャマイカのウサイン・ボルト<ruby>選手<rt>せんしゅ</rt></ruby>は、<ruby>陸上競技<rt>りくじょうきょうぎ</rt></ruby>の<ruby>男子<rt>だんし</rt></ruby>１００ｍで、<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>速<rt>はや</rt></ruby>い９<ruby>秒<rt>びょう</rt></ruby>５８の<ruby>記録<rt>きろく</rt></ruby>を<ruby>持<rt>も</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/15/k10011099711000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/15/k10011099711000.mp3
+contents: "<p>ジャマイカのウサイン・ボルト<span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、<span\
+  \ style=\"color: blue;\"><ruby>陸上競技<rt>りくじょうきょうぎ</rt></ruby></span>の<span style=\"\
+  color: blue;\"><ruby>男子<rt>だんし</rt></ruby></span>１００ｍで、<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>速<rt>はや</rt></ruby>い９<span\
+  \ style=\"color: blue;\"><ruby>秒<rt>びょう</rt></ruby></span>５８の<span style=\"color:\
+  \ blue;\"><ruby>記録<rt>きろく</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>っています。</p>\n\
+  <p>イギリスのロンドンで<span style=\"color: blue;\"><ruby>陸上競技<rt>りくじょうきょうぎ</rt></ruby></span>の<ruby>世界選手権<rt>せかいせんしゅけん</rt></ruby>がありました。ボルト<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は１００ｍに<ruby>出<rt>で</rt></ruby>て、<span\
+  \ style=\"color: blue;\"><ruby>銅<rt>どう</rt></ruby></span><span style=\"color: blue;\"\
+  >メダル</span>を<ruby>取<rt>と</rt></ruby>りました。そのあと４００m<span style=\"color: blue;\">リレー</span>にも<ruby>出<rt>で</rt></ruby>ましたが、<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>足<rt>あし</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなって<ruby>走<rt>はし</rt></ruby>ることができなくなりました。このため、ジャマイカは<span\
+  \ style=\"color: blue;\">ゴール</span>をすることができませんでした。</p>\n<p><ruby>世界選手権<rt>せかいせんしゅけん</rt></ruby>が<ruby>終<rt>お</rt></ruby>わった１３<ruby>日<rt>にち</rt></ruby>、ボルト<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>競技<rt>きょうぎ</rt></ruby></span>をやめる<ruby>式<rt>しき</rt></ruby>がありました。ボルト<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、<span style=\"color:\
+  \ blue;\">スタート</span>をする<ruby>場所<rt>ばしょ</rt></ruby>でお<ruby>祈<rt>いの</rt></ruby>りをしながら<span\
+  \ style=\"color: blue;\"><ruby>競技場<rt>きょうぎじょう</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>を<ruby>回<rt>まわ</rt></ruby>りました。ボルト<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は「<span style=\"color:\
+  \ blue;\"><ruby>陸上競技<rt>りくじょうきょうぎ</rt></ruby></span>が<ruby>私<rt>わたし</rt></ruby>の<ruby>全部<rt>ぜんぶ</rt></ruby>でした。これからも<span\
+  \ style=\"color: blue;\"><ruby>陸上競技<rt>りくじょうきょうぎ</rt></ruby></span>のために<ruby>頑張<rt>がんば</rt></ruby>りたいです」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 陸上競技
+  descriptions:
+  - <ruby><rb>走</rb><rt>はし</rt></ruby>る・<ruby><rb>投</rb><rt>な</rt></ruby>げる・<ruby><rb>跳</rb><rt>と</rt></ruby>ぶなどのスポーツ。トラックとフィールドの<ruby><rb>二種類</rb><rt>にしゅるい</rt></ruby>がある。<ruby><rb>陸上</rb><rt>りくじょう</rt></ruby>。
+- word: 男子
+  descriptions:
+  - <ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。
+  - おとこ。
+- word: 秒
+  descriptions:
+  - <ruby><rb>時間</rb><rt>じかん</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。一<ruby><rb>分</rb><rt>ぷん</rt></ruby>の六〇<ruby><rb>分</rb><rt>ぶん</rt></ruby>の一。
+  - <ruby><rb>角度</rb><rt>かくど</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。一<ruby><rb>分</rb><rt>ぷん</rt></ruby>の六〇<ruby><rb>分</rb><rt>ぶん</rt></ruby>の一。
+- word: 記録
+  descriptions:
+  - あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。
+- word: 銅
+  descriptions:
+  - <ruby><rb>熱</rb><rt>ねつ</rt></ruby>や、<ruby><rb>電気</rb><rt>でんき</rt></ruby>をよく<ruby><rb>伝</rb><rt>つた</rt></ruby>える、<ruby><rb>赤</rb><rt>あか</rt></ruby>っぽい<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。あかがね。
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+- word: リレー
+  descriptions:
+  - <ruby><rb>順々</rb><rt>じゅんじゅん</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>えわたしていくこと。
+  - <ruby><rb>陸上競技</rb><rt>りくじょうきょうぎ</rt></ruby>・<ruby><rb>水泳</rb><rt>すいえい</rt></ruby><ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>で、ひと<ruby><rb>組</rb><rt>く</rt></ruby>みの<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が、つぎつぎに<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>距離</rb><rt>きょり</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けついで、<ruby><rb>速</rb><rt>はや</rt></ruby>さを<ruby><rb>争</rb><rt>あらそ</rt></ruby>うもの。
+- word: ゴール
+  descriptions:
+  - <ruby><rb>競走</rb><rt>きょうそう</rt></ruby>で、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>決勝点</rb><rt>けっしょうてん</rt></ruby>。
+  - バスケットボール・サッカーなどで、ボールを<ruby><rb>入</rb><rt>い</rt></ruby>れると<ruby><rb>点</rb><rt>てん</rt></ruby>になる<ruby><rb>所</rb><rt>ところ</rt></ruby>。また、そこにボールを<ruby><rb>入</rb><rt>い</rt></ruby>れること。
+  - <ruby><rb>目標</rb><rt>もくひょう</rt></ruby>の<ruby><rb>最後</rb><rt>さいご</rt></ruby>の<ruby><rb>点</rb><rt>てん</rt></ruby>。
+- word: 競技
+  descriptions:
+  - わざや<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>を、<ruby><rb>比</rb><rt>くら</rt></ruby>べ<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>特</rb><rt>とく</rt></ruby>にスポーツで、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>うこと。
+- word: スタート
+  descriptions:
+  - <ruby><rb>出発</rb><rt>しゅっぱつ</rt></ruby>。
+- word: 競技場
+  descriptions:
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>をするための<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。スタジアム。
+web_news_url: /news/web/2017/08/14/ボルト-陸上世界選手権終え引退セレモニー/
+source_url: http://www3.nhk.or.jp/news/easy/k10011099711000/k10011099711000.html
+...
