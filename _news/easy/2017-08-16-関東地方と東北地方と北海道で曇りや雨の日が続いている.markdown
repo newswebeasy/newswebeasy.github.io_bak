@@ -1,0 +1,53 @@
+---
+layout: easy_news
+newsid: k10011100941000
+categories: easy
+title: 関東地方と東北地方と北海道で曇りや雨の日が続いている
+title_with_ruby: <ruby>関東地方<rt>かんとうちほう</rt></ruby>と<ruby>東北地方<rt>とうほくちほう</rt></ruby>と<ruby>北海道<rt>ほっかいどう</rt></ruby>で<ruby>曇<rt>くも</rt></ruby>りや<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いている
+last_modified_at: '2017-08-16T16:30:00+09:00'
+datetime: 2017年08月16日 16時30分
+description: 気象庁きしょうちょうによると、関東地方かんとうちほうでは７月がつの終おわりごろから、東北地方とうほくちほうと北海道ほっかいどうの東側ひがしがわでは８月がつの初はじめごろから、曇くもりや雨あめの日ひが多おおくなっています。
+description_with_ruby: <ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<ruby>関東地方<rt>かんとうちほう</rt></ruby>では７<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろから、<ruby>東北地方<rt>とうほくちほう</rt></ruby>と<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>東側<rt>ひがしがわ</rt></ruby>では８<ruby>月<rt>がつ</rt></ruby>の<ruby>初<rt>はじ</rt></ruby>めごろから、<ruby>曇<rt>くも</rt></ruby>りや<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなっています。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/16/k10011100941000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/16/k10011100941000.mp3
+contents: "<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<span style=\"color: blue;\"><ruby>関東地方<rt>かんとうちほう</rt></ruby></span>では７<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろから、<span\
+  \ style=\"color: blue;\"><ruby>東北地方<rt>とうほくちほう</rt></ruby></span>と<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>東側<rt>ひがしがわ</rt></ruby>では８<ruby>月<rt>がつ</rt></ruby>の<ruby>初<rt>はじ</rt></ruby>めごろから、<ruby>曇<rt>くも</rt></ruby>りや<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなっています。<span\
+  \ style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>も、いつもの<ruby>年<rt>とし</rt></ruby>より２℃〜３℃<ruby>低<rt>ひく</rt></ruby>くなっています。</p>\n\
+  <p>７<ruby>月<rt>がつ</rt></ruby>２６<ruby>日<rt>にち</rt></ruby>〜８<ruby>月<rt>がつ</rt></ruby><ruby>１４日<rt>じゅうよっか</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>関東地方<rt>かんとうちほう</rt></ruby></span>で<span style=\"\
+  color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>ていた<ruby>時間<rt>じかん</rt></ruby>は、いつもの<ruby>年<rt>とし</rt></ruby>の<ruby>半分<rt>はんぶん</rt></ruby><ruby>以下<rt>いか</rt></ruby>でした。<ruby>宮城県<rt>みやぎけん</rt></ruby><ruby>仙台市<rt>せんだいし</rt></ruby>でも、８<ruby>月<rt>がつ</rt></ruby><ruby>５日<rt>いつか</rt></ruby>〜<ruby>１４日<rt>じゅうよっか</rt></ruby>はいつもの<ruby>年<rt>とし</rt></ruby>の１１％だけでした。</p>\n\
+  <p><ruby>東京都<rt>とうきょうと</rt></ruby>の<span style=\"color: blue;\"><ruby>市場<rt>いちば</rt></ruby></span>では、<span\
+  \ style=\"color: blue;\">ほうれんそう</span>の<ruby>値段<rt>ねだん</rt></ruby>がいつもの<ruby>年<rt>とし</rt></ruby>の１．５<ruby>倍<rt>ばい</rt></ruby>に<ruby>上<rt>あ</rt></ruby>がっています。<span\
+  \ style=\"color: blue;\">なす</span>や<span style=\"color: blue;\">きゅうり</span>なども<ruby>少<rt>すこ</rt></ruby>し<ruby>高<rt>たか</rt></ruby>くなっています。</p>\n\
+  <p><ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<span style=\"color: blue;\"><ruby>関東地方<rt>かんとうちほう</rt></ruby></span>や<span\
+  \ style=\"color: blue;\"><ruby>東北地方<rt>とうほくちほう</rt></ruby></span>と<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>東側<rt>ひがしがわ</rt></ruby>では、これからも１<ruby>週間<rt>しゅうかん</rt></ruby>ぐらいは<ruby>曇<rt>くも</rt></ruby>りや<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなりそうです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 関東地方
+  descriptions:
+  - <ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>ほどにある、<ruby><rb>太平洋側</rb><rt>たいへいようがわ</rt></ruby>の<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>・<ruby><rb>神奈川</rb><rt>かながわ</rt></ruby>・<ruby><rb>埼玉</rb><rt>さいたま</rt></ruby>・<ruby><rb>千葉</rb><rt>ちば</rt></ruby>・<ruby><rb>群馬</rb><rt>ぐんま</rt></ruby>・<ruby><rb>栃木</rb><rt>とちぎ</rt></ruby>・<ruby><rb>茨城</rb><rt>いばらき</rt></ruby>の<ruby><rb>一都六県</rb><rt>いっとろっけん</rt></ruby>がある。
+- word: 東北地方
+  descriptions:
+  - <ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>の<ruby><rb>北東部</rb><rt>ほくとうぶ</rt></ruby>にあたる<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>青森</rb><rt>あおもり</rt></ruby>・<ruby><rb>秋田</rb><rt>あきた</rt></ruby>・<ruby><rb>岩手</rb><rt>いわて</rt></ruby>・<ruby><rb>宮城</rb><rt>みやぎ</rt></ruby>・<ruby><rb>山形</rb><rt>やまがた</rt></ruby>・<ruby><rb>福島</rb><rt>ふくしま</rt></ruby>の<ruby><rb>六県</rb><rt>ろっけん</rt></ruby>がある。
+- word: 気温
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。
+- word: 太陽
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。
+- word: 市場
+  descriptions:
+  - <ruby><rb>商人</rb><rt>しょうにん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などを<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>買</rb><rt>か</rt></ruby>いする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>市</rb><rt>いち</rt></ruby>。
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>などの<ruby><rb>小売店</rb><rt>こうりてん</rt></ruby>が、<ruby><rb>一</rb><rt>いっ</rt></ruby>か<ruby><rb>所</rb><rt>しょ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>っている<ruby><rb>所</rb><rt>ところ</rt></ruby>。マーケット。
+- word: ほうれんそう
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>野菜</rb><rt>やさい</rt></ruby>。<ruby><rb>葉</rb><rt>は</rt></ruby>はこい<ruby><rb>緑色</rb><rt>みどりいろ</rt></ruby>で、<ruby><rb>根</rb><rt>ね</rt></ruby>が<ruby><rb>赤</rb><rt>あか</rt></ruby>い。ゆでたりいためたりして<ruby><rb>食</rb><rt>た</rt></ruby>べる。
+- word: 茄子
+  descriptions:
+  - <ruby><rb>野菜</rb><rt>やさい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>夏</rb><rt>なつ</rt></ruby>にむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>実</rb><rt>み</rt></ruby>は、こいむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>で、つけ<ruby><rb>物</rb><rt>もの</rt></ruby>などにして<ruby><rb>食</rb><rt>た</rt></ruby>べる。なすび。
+- word: 胡瓜
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>野菜</rb><rt>やさい</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>に<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>き、<ruby><rb>緑色</rb><rt>みどりいろ</rt></ruby>の<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>実</rb><rt>み</rt></ruby>がなる。つけ<ruby><rb>物</rb><rt>もの</rt></ruby>やサラダにして<ruby><rb>食</rb><rt>た</rt></ruby>べる。
+web_news_url: /news/web/2017/08/15/曇りや雨続き日照不足-農作物など注意-北日本と関東/
+source_url: http://www3.nhk.or.jp/news/easy/k10011100941000/k10011100941000.html
+...

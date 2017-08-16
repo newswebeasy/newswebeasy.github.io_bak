@@ -1,0 +1,55 @@
+---
+layout: easy_news
+newsid: k10011100171000
+categories: easy
+title: 北朝鮮　ＩＣＢＭのためにソビエトのエンジンを買った可能性
+title_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>　ＩＣＢＭのためにソビエトのエンジンを<ruby>買<rt>か</rt></ruby>った<ruby>可能性<rt>かのうせい</rt></ruby>
+last_modified_at: '2017-08-16T16:30:00+09:00'
+datetime: 2017年08月16日 16時30分
+description: 北朝鮮きたちょうせんは、アメリカまで飛とぶＩＣＢＭという新あたらしいミサイルを作つくっています。
+description_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は、アメリカまで<ruby>飛<rt>と</rt></ruby>ぶＩＣＢＭという<ruby>新<rt>あたら</rt></ruby>しいミサイルを<ruby>作<rt>つく</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/16/k10011100171000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/16/k10011100171000.mp3
+contents: "<p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は、アメリカまで<ruby>飛<rt>と</rt></ruby>ぶＩＣＢＭという<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\">ミサイル</span>を<ruby>作<rt>つく</rt></ruby>っています。７<ruby>月<rt>がつ</rt></ruby>にもＩＣＢＭを<span\
+  \ style=\"color: blue;\"><ruby>発射<rt>はっしゃ</rt></ruby></span>する<span style=\"color:\
+  \ blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>をしました。</p>\n<p>アメリカの<ruby>専門家<rt>せんもんか</rt></ruby>がこの<span\
+  \ style=\"color: blue;\">ミサイル</span>の<span style=\"color: blue;\">ビデオ</span>を<span\
+  \ style=\"color: blue;\"><ruby>詳<rt>くわ</rt></ruby>しく</span><ruby>見<rt>み</rt></ruby>ました。<ruby>専門家<rt>せんもんか</rt></ruby>は、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のＩＣＢＭは、<span\
+  \ style=\"color: blue;\">ソビエト</span>が<ruby>作<rt>つく</rt></ruby>っていたＩＣＢＭの<span style=\"\
+  color: blue;\">エンジン</span>をよくして<ruby>使<rt>つか</rt></ruby>っていると<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><span style=\"color: blue;\">ソビエト</span>の<span style=\"color: blue;\">エンジン</span>を<ruby>作<rt>つく</rt></ruby>っていた<ruby>工場<rt>こうじょう</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>のウクライナにあって、<ruby>去年<rt>きょねん</rt></ruby>お<ruby>金<rt>かね</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくて<ruby>困<rt>こま</rt></ruby>っていました。<ruby>専門家<rt>せんもんか</rt></ruby>は、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が<span\
+  \ style=\"color: blue;\">ソビエト</span>の<span style=\"color: blue;\">エンジン</span>を<ruby>買<rt>か</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ソビエト連邦
+  descriptions:
+  - １９１７<ruby><rb>年</rb><rt>ねん</rt></ruby>に、ロシア<ruby><rb>帝国</rb><rt>ていこく</rt></ruby>をたおしてできた<ruby><rb>国</rb><rt>くに</rt></ruby>。１９９１<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>解体</rb><rt>かいたい</rt></ruby>して、<ruby><rb>今</rb><rt>いま</rt></ruby>のロシアやカザフスタンなどに<ruby><rb>分</rb><rt>わ</rt></ruby>かれた。ソ<ruby><rb>連</rb><rt>れん</rt></ruby>。
+- word: エンジン
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>・<ruby><rb>船</rb><rt>ふね</rt></ruby>・<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>などを<ruby><rb>動</rb><rt>うご</rt></ruby>かす<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>発動機</rb><rt>はつどうき</rt></ruby>。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: ミサイル
+  descriptions:
+  - ロケットなどの<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>飛</rb><rt>と</rt></ruby>び、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby><ruby><rb>装置</rb><rt>そうち</rt></ruby>によって、<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>をとらえる<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>誘導弾</rb><rt>ゆうどうだん</rt></ruby>。
+- word: 発射
+  descriptions:
+  - <ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>のたまやロケットなどを、<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 実験
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。
+- word: ビデオ
+  descriptions:
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。
+  - 「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 詳しい
+  descriptions:
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かい。
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かいことまでよく<ruby><rb>知</rb><rt>し</rt></ruby>っている。
+web_news_url: /news/web/2017/08/15/北朝鮮-ICBM開発で旧ソビエト製ロケットエンジン入手か/
+source_url: http://www3.nhk.or.jp/news/easy/k10011100171000/k10011100171000.html
+...
