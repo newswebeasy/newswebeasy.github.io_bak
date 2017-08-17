@@ -1,0 +1,29 @@
+---
+layout: easy_news
+newsid: k10011101951000
+categories: easy
+title: 京都　３００年以上前から続く「五山送り火」
+title_with_ruby: <ruby>京都<rt>きょうと</rt></ruby>　３００<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>続<rt>つづ</rt></ruby>く「<ruby>五山<rt>ござん</rt></ruby><ruby>送<rt>おく</rt></ruby>り<ruby>火<rt>び</rt></ruby>」
+last_modified_at: '2017-08-17T16:20:00+09:00'
+datetime: 2017年08月17日 16時20分
+description: 京都きょうとで１６日にちの夜よる、３００年ねん以上いじょう前まえから続つづく行事ぎょうじの「五山ござん送おくり火び」がありました。
+description_with_ruby: <ruby>京都<rt>きょうと</rt></ruby>で１６<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、３００<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>続<rt>つづ</rt></ruby>く<ruby>行事<rt>ぎょうじ</rt></ruby>の「<ruby>五山<rt>ござん</rt></ruby><ruby>送<rt>おく</rt></ruby>り<ruby>火<rt>び</rt></ruby>」がありました。
+image_url: https://newswebeasy.github.io/ja201708/news/easy/image/2017/08/17/k10011101951000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/17/k10011101951000.mp3
+contents: "<p><ruby>京都<rt>きょうと</rt></ruby>で１６<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、３００<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>続<rt>つづ</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>行事<rt>ぎょうじ</rt></ruby></span>の「<ruby>五山<rt>ござん</rt></ruby><ruby>送<rt>おく</rt></ruby>り<ruby>火<rt>び</rt></ruby>」がありました。<ruby>町<rt>まち</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りの５つの<ruby>山<rt>やま</rt></ruby>に<ruby>火<rt>ひ</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>字<rt>じ</rt></ruby>などを<ruby>作<rt>つく</rt></ruby>ります。</p>\n\
+  <p><ruby>午後<rt>ごご</rt></ruby>８<ruby>時<rt>じ</rt></ruby>、<ruby>大文字山<rt>だいもんじやま</rt></ruby>で「<ruby>大<rt>だい</rt></ruby>」の<ruby>字<rt>じ</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>に<ruby>並<rt>なら</rt></ruby>べた<span\
+  \ style=\"color: blue;\"><ruby>板<rt>いた</rt></ruby></span>に<ruby>火<rt>ひ</rt></ruby>をつけました。<ruby>暗<rt>くら</rt></ruby>い<ruby>山<rt>やま</rt></ruby>に「<ruby>大<rt>だい</rt></ruby>」の<ruby>字<rt>じ</rt></ruby>が<ruby>明<rt>あか</rt></ruby>るくはっきり<ruby>見<rt>み</rt></ruby>えました。そのあと、ほかの<ruby>山<rt>やま</rt></ruby>でも「<ruby>妙<rt>みょう</rt></ruby>」の<ruby>字<rt>じ</rt></ruby>や<ruby>船<rt>ふね</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>などができました。</p>\n\
+  <p><ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がビルの<ruby>屋上<rt>おくじょう</rt></ruby>などから、<ruby>山<rt>やま</rt></ruby>に<ruby>火<rt>ひ</rt></ruby>でかいたような<ruby>字<rt>じ</rt></ruby>や<ruby>形<rt>かたち</rt></ruby>を<ruby>見<rt>み</rt></ruby>て<ruby>楽<rt>たの</rt></ruby>しみました。<ruby>大阪<rt>おおさか</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>男性<rt>だんせい</rt></ruby>は「これからもずっとこの<span\
+  \ style=\"color: blue;\"><ruby>行事<rt>ぎょうじ</rt></ruby></span>を<ruby>続<rt>つづ</rt></ruby>けてほしいですね」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 行事
+  descriptions:
+  - <ruby><rb>前</rb><rt>まえ</rt></ruby>もって<ruby><rb>時期</rb><rt>じき</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>めて<ruby><rb>行</rb><rt>おこな</rt></ruby>われる、もよおし。
+- word: 板
+  descriptions:
+  - <ruby><rb>材木</rb><rt>ざいもく</rt></ruby>を、うすく<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。また、そのような<ruby><rb>形</rb><rt>かたち</rt></ruby>のもの。
+web_news_url: /news/web/2017/08/16/お盆の伝統行事京都五山送り火/
+source_url: http://www3.nhk.or.jp/news/easy/k10011101951000/k10011101951000.html
+...
