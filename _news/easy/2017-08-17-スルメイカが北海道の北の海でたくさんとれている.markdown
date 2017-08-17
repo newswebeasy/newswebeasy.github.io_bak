@@ -1,0 +1,44 @@
+---
+layout: easy_news
+newsid: k10011099801000
+categories: easy
+title: スルメイカが北海道の北の海でたくさんとれている
+title_with_ruby: スルメイカが<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>北<rt>きた</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>でたくさんとれている
+last_modified_at: '2017-08-17T11:30:00+09:00'
+datetime: 2017年08月17日 11時30分
+description: 日本にっぽんではスルメイカというイカをよく食たべますが、最近さいきんはあまりとれなくなっています。
+description_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>ではスルメイカというイカをよく<ruby>食<rt>た</rt></ruby>べますが、<ruby>最近<rt>さいきん</rt></ruby>はあまりとれなくなっています。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/17/k10011099801000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/17/k10011099801000.mp3
+contents: "<p><ruby>日本<rt>にっぽん</rt></ruby>ではスルメイカという<span style=\"color: blue;\">イカ</span>をよく<ruby>食<rt>た</rt></ruby>べますが、<ruby>最近<rt>さいきん</rt></ruby>はあまり<span\
+  \ style=\"color: blue;\">とれ</span>なくなっています。<ruby>去年<rt>きょねん</rt></ruby>はそれまでの３０<ruby>年<rt>ねん</rt></ruby>でいちばん<ruby>少<rt>すく</rt></ruby>なくなりました。</p>\n\
+  <p><ruby>国<rt>くに</rt></ruby>の「<ruby>水産研究<rt>すいさんけんきゅう</rt></ruby>・<ruby>教育機構<rt>きょういくきこう</rt></ruby>」によると、<ruby>今年<rt>ことし</rt></ruby>の１<ruby>月<rt>がつ</rt></ruby>〜６<ruby>月<rt>がつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>日本海<rt>にほんかい</rt></ruby></span>や<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<span\
+  \ style=\"color: blue;\"><ruby>太平洋<rt>たいへいよう</rt></ruby></span>で<span style=\"color:\
+  \ blue;\">とれ</span>たスルメイカは、<ruby>去年<rt>きょねん</rt></ruby>よりも２０％ぐらい<ruby>少<rt>すく</rt></ruby>なくなっています。</p>\n\
+  <p>しかし、<ruby>北海道<rt>ほっかいどう</rt></ruby>のいちばん<ruby>北<rt>きた</rt></ruby>にある<ruby>稚内市<rt>わっかないし</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>では、７<ruby>月<rt>がつ</rt></ruby>からスルメイカがたくさん<span\
+  \ style=\"color: blue;\">とれ</span>ています。<ruby>稚内市<rt>わっかないし</rt></ruby>の<ruby>港<rt>みなと</rt></ruby>から<ruby>出<rt>で</rt></ruby>た<ruby>船<rt>ふね</rt></ruby>は、７<ruby>月<rt>がつ</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>の１５<ruby>倍<rt>ばい</rt></ruby>ぐらいスルメイカをとりました。このため、<ruby>北海道<rt>ほっかいどう</rt></ruby>だけではなくて<ruby>鳥取県<rt>とっとりけん</rt></ruby>など<ruby>遠<rt>とお</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>からもたくさんの<ruby>船<rt>ふね</rt></ruby>が<ruby>来<rt>き</rt></ruby>ています。</p>\n\
+  <p><ruby>専門家<rt>せんもんか</rt></ruby>は「<ruby>海<rt>うみ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>温度<rt>おんど</rt></ruby></span>などが<ruby>変<rt>か</rt></ruby>わって、<span\
+  \ style=\"color: blue;\">イカ</span>がたくさん<ruby>集<rt>あつ</rt></ruby>まる<ruby>所<rt>ところ</rt></ruby>も<ruby>変<rt>か</rt></ruby>わったのかもしれません」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 捕れる
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+  - とることができる。
+- word: 烏賊
+  descriptions:
+  - <ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。スルメイカ・ヤリイカ・ホタルイカなど。<ruby><rb>胴</rb><rt>どう</rt></ruby>は<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>いふくろの<ruby><rb>形</rb><rt>かたち</rt></ruby>で、１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>の<ruby><rb>足</rb><rt>あし</rt></ruby>が<ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>から<ruby><rb>出</rb><rt>で</rt></ruby>ている。<ruby><rb>敵</rb><rt>てき</rt></ruby>にあうと、すみをはいてにげる。
+- word: 日本海
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>東</rb><rt>ひがし</rt></ruby>と<ruby><rb>日本列島</rb><rt>にほんれっとう</rt></ruby>にはさまれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: 太平洋
+  descriptions:
+  - アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: 温度
+  descriptions:
+  - <ruby><rb>熱</rb><rt>あつ</rt></ruby>さや<ruby><rb>冷</rb><rt>つめ</rt></ruby>たさの<ruby><rb>度合</rb><rt>どあ</rt></ruby>いを<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。
+web_news_url: /news/web/2017/08/15/スルメイカ求め稚内沖合に全国から漁船集結/
+source_url: http://www3.nhk.or.jp/news/easy/k10011099801000/k10011099801000.html
+...
