@@ -1,0 +1,32 @@
+---
+layout: easy_news
+newsid: k10011100001000
+categories: easy
+title: イギリス　修理のためビッグベンの鐘を４年止める
+title_with_ruby: イギリス　<ruby>修理<rt>しゅうり</rt></ruby>のためビッグベンの<ruby>鐘<rt>かね</rt></ruby>を４<ruby>年<rt>ねん</rt></ruby><ruby>止<rt>と</rt></ruby>める
+last_modified_at: '2017-08-17T11:30:00+09:00'
+datetime: 2017年08月17日 11時30分
+description: イギリスのロンドンにある議会ぎかいの建物たてものは１８５９年ねんにできました。
+description_with_ruby: イギリスのロンドンにある<ruby>議会<rt>ぎかい</rt></ruby>の<ruby>建物<rt>たてもの</rt></ruby>は１８５９<ruby>年<rt>ねん</rt></ruby>にできました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/17/k10011100001000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/17/k10011100001000.mp3
+contents: "<p>イギリスのロンドンにある<span style=\"color: blue;\"><ruby>議会<rt>ぎかい</rt></ruby></span>の<ruby>建物<rt>たてもの</rt></ruby>は１８５９<ruby>年<rt>ねん</rt></ruby>にできました。<ruby>建物<rt>たてもの</rt></ruby>には<span\
+  \ style=\"color: blue;\"><ruby>鐘<rt>かね</rt></ruby></span>が<ruby>鳴<rt>な</rt></ruby>る<ruby>大<rt>おお</rt></ruby>きな<ruby>時計<rt>とけい</rt></ruby>があって「ビッグベン」と<ruby>呼<rt>よ</rt></ruby>ばれています。</p>\n\
+  <p>イギリスの<span style=\"color: blue;\"><ruby>議会<rt>ぎかい</rt></ruby></span>は、<ruby>古<rt>ふる</rt></ruby>くなったビッグベンを<ruby>直<rt>なお</rt></ruby>すため、８<ruby>月<rt>がつ</rt></ruby>２１<ruby>日<rt>にち</rt></ruby><ruby>昼<rt>ひる</rt></ruby>から２０２１<ruby>年<rt>ねん</rt></ruby>まで、<span\
+  \ style=\"color: blue;\"><ruby>鐘<rt>かね</rt></ruby></span>を<ruby>止<rt>と</rt></ruby>めると<ruby>言<rt>い</rt></ruby>いました。これから、<ruby>字<rt>じ</rt></ruby>が<ruby>書<rt>か</rt></ruby>いてあるところをきれいに<ruby>洗<rt>あら</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>修理<rt>しゅうり</rt></ruby></span>などを<ruby>行<rt>おこな</rt></ruby>います。</p>\n\
+  <p>ビッグベンの<span style=\"color: blue;\"><ruby>鐘<rt>かね</rt></ruby></span>はこれから４<ruby>年<rt>ねん</rt></ruby><ruby>鳴<rt>な</rt></ruby>りませんが、１２<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>や<ruby>戦争<rt>せんそう</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>のために<ruby>祈<rt>いの</rt></ruby>る<ruby>日<rt>ひ</rt></ruby>などは<ruby>鳴<rt>な</rt></ruby>ることになっています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 修理
+  descriptions:
+  - こわれているところを<ruby><rb>直</rb><rt>なお</rt></ruby>すこと。<ruby><rb>修繕</rb><rt>しゅうぜん</rt></ruby>。
+- word: 鐘
+  descriptions:
+  - （<ruby><rb>寺</rb><rt>てら</rt></ruby>や<ruby><rb>教会</rb><rt>きょうかい</rt></ruby>などにある）つり<ruby><rb>鐘</rb><rt>がね</rt></ruby>。または、その<ruby><rb>音</rb><rt>おと</rt></ruby>。
+- word: 議会
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>に<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>について<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めをする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>の<ruby><rb>国会</rb><rt>こっかい</rt></ruby>と、<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>などの<ruby><rb>地方議会</rb><rt>ちほうぎかい</rt></ruby>とがある。
+web_news_url: /news/web/2017/08/15/イギリス-ビッグベンの鐘-4年間停止へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011100001000/k10011100001000.html
+...
