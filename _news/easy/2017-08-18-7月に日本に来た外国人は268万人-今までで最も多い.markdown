@@ -1,0 +1,31 @@
+---
+layout: easy_news
+newsid: k10011101731000
+categories: easy
+title: ７月に日本に来た外国人は２６８万人　今までで最も多い
+title_with_ruby: ７<ruby>月<rt>がつ</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>は２６８<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>　<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い
+last_modified_at: '2017-08-18T11:30:00+09:00'
+datetime: 2017年08月18日 11時30分
+description: 日本政府観光局にほんせいふかんこうきょくによると、７月がつに日本にっぽんに旅行りょこうに来きた外国人がいこくじんは２６８万まん１５００人にんでした。
+description_with_ruby: <ruby>日本政府観光局<rt>にほんせいふかんこうきょく</rt></ruby>によると、７<ruby>月<rt>がつ</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>は２６８<ruby>万<rt>まん</rt></ruby>１５００<ruby>人<rt>にん</rt></ruby>でした。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/18/k10011101731000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/18/k10011101731000.mp3
+contents: "<p><ruby>日本政府観光局<rt>にほんせいふかんこうきょく</rt></ruby>によると、７<ruby>月<rt>がつ</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>は２６８<ruby>万<rt>まん</rt></ruby>１５００<ruby>人<rt>にん</rt></ruby>でした。<ruby>去年<rt>きょねん</rt></ruby>の７<ruby>月<rt>がつ</rt></ruby>より３８<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>増<rt>ふ</rt></ruby>えて、１か<ruby>月<rt>げつ</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>では<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>くなりました。</p>\n\
+  <p>１<ruby>番<rt>ばん</rt></ruby><ruby>多<rt>おお</rt></ruby>かったのは<ruby>中国<rt>ちゅうごく</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>で７８<ruby>万<rt>まん</rt></ruby>８００<ruby>人<rt>にん</rt></ruby>でした。ことし５<ruby>月<rt>がつ</rt></ruby>に、<ruby>中国<rt>ちゅうごく</rt></ruby>から<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\">ビザ</span>が<ruby>取<rt>と</rt></ruby>りやすくなったため、<ruby>去年<rt>きょねん</rt></ruby>の７<ruby>月<rt>がつ</rt></ruby>より６．８％<ruby>増<rt>ふ</rt></ruby>えました。</p>\n\
+  <p>２<ruby>番目<rt>ばんめ</rt></ruby>に<ruby>多<rt>おお</rt></ruby>かったのは<ruby>韓国<rt>かんこく</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>で、６４<ruby>万<rt>まん</rt></ruby>４０００<ruby>人<rt>にん</rt></ruby>でした。<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>関西空港<rt>かんさいくうこう</rt></ruby>や<ruby>新千歳空港<rt>しんちとせくうこう</rt></ruby>などの<ruby>間<rt>あいだ</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ぶ<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えたため、<ruby>去年<rt>きょねん</rt></ruby>の７<ruby>月<rt>がつ</rt></ruby>より４４％<ruby>増<rt>ふ</rt></ruby>えました。</p>\n\
+  <p>３<ruby>番目<rt>ばんめ</rt></ruby>は<ruby>台湾<rt>たいわん</rt></ruby>で４４<ruby>万<rt>まん</rt></ruby>６６００<ruby>人<rt>にん</rt></ruby>、４<ruby>番目<rt>ばんめ</rt></ruby>は<ruby>香港<rt>ほんこん</rt></ruby>で２３<ruby>万<rt>まん</rt></ruby>４６００<ruby>人<rt>にん</rt></ruby>でした。<ruby>中国<rt>ちゅうごく</rt></ruby>と<ruby>韓国<rt>かんこく</rt></ruby>、<ruby>台湾<rt>たいわん</rt></ruby>、<ruby>香港<rt>ほんこん</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>くなりました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 数
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。
+  - いくつもあること。たくさん。
+  - <ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。
+- word: ビザ
+  descriptions:
+  - <ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>来</rb><rt>き</rt></ruby>た<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>旅券</rb><rt>りょけん</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べ、その<ruby><rb>国</rb><rt>くに</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ることを<ruby><rb>認</rb><rt>みと</rt></ruby>める<ruby><rb>許可証</rb><rt>きょかしょう</rt></ruby>。<ruby><rb>査証</rb><rt>さしょう</rt></ruby>。
+web_news_url: /news/web/2017/08/16/7月の外国人旅行者268万人余-単月では過去最高更新/
+source_url: http://www3.nhk.or.jp/news/easy/k10011101731000/k10011101731000.html
+...
