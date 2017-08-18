@@ -1,0 +1,58 @@
+---
+layout: easy_news
+newsid: k10011102991000
+categories: easy
+title: スペイン　車が突っ込むテロで１３人が亡くなる
+title_with_ruby: スペイン　<ruby>車<rt>くるま</rt></ruby>が<ruby>突<rt>つ</rt></ruby>っ<ruby>込<rt>こ</rt></ruby>むテロで１３<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+last_modified_at: '2017-08-18T16:30:00+09:00'
+datetime: 2017年08月18日 16時30分
+description: スペインのバルセロナで１７日にちの夕方ゆうがた、観光かんこうに来きた人ひとなど大勢おおぜいの人ひとがいた道みちに車くるまが突つっ込こみました。
+description_with_ruby: スペインのバルセロナで１７<ruby>日<rt>にち</rt></ruby>の<ruby>夕方<rt>ゆうがた</rt></ruby>、<ruby>観光<rt>かんこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>など<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がいた<ruby>道<rt>みち</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>が<ruby>突<rt>つ</rt></ruby>っ<ruby>込<rt>こ</rt></ruby>みました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/18/k10011102991000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/18/k10011102991000.mp3
+contents: "<p>スペインのバルセロナで１７<ruby>日<rt>にち</rt></ruby>の<ruby>夕方<rt>ゆうがた</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>観光<rt>かんこう</rt></ruby></span>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>など<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がいた<ruby>道<rt>みち</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>突<rt>つ</rt></ruby>っ<ruby>込<rt>こ</rt></ruby>み</span>ました。<ruby>警察<rt>けいさつ</rt></ruby>によると、この<span\
+  \ style=\"color: blue;\"><ruby>事件<rt>じけん</rt></ruby></span>で１３<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、１００<ruby>人<rt>にん</rt></ruby>ぐらいがけがをしました。</p>\n\
+  <p>スペインのテレビなどは、<ruby>車<rt>くるま</rt></ruby>は<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>歩<rt>ある</rt></ruby>いている<ruby>中<rt>なか</rt></ruby>を５００ｍ<ruby>以上<rt>いじょう</rt></ruby><ruby>走<rt>はし</rt></ruby>ったと<ruby>伝<rt>つた</rt></ruby>えています。<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>していた<ruby>男<rt>おとこ</rt></ruby>は<ruby>逃<rt>に</rt></ruby>げていて、<ruby>警察<rt>けいさつ</rt></ruby>がさがしています。</p>\n\
+  <p>スペインのラホイ<ruby>首相<rt>しゅしょう</rt></ruby>は、この<span style=\"color: blue;\"><ruby>事件<rt>じけん</rt></ruby></span>は<span\
+  \ style=\"color: blue;\">テロ</span>だと<ruby>言<rt>い</rt></ruby>いました。</p>\n<p><ruby>警察<rt>けいさつ</rt></ruby>によると、この<span\
+  \ style=\"color: blue;\"><ruby>事件<rt>じけん</rt></ruby></span>より<ruby>少<rt>すこ</rt></ruby>し<ruby>前<rt>まえ</rt></ruby>にバルセロナから２００ｋｍぐらいの<ruby>所<rt>ところ</rt></ruby>で<ruby>建物<rt>たてもの</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>する<span style=\"color:\
+  \ blue;\"><ruby>事件<rt>じけん</rt></ruby></span>がありました。<ruby>警察<rt>けいさつ</rt></ruby>は、この<span\
+  \ style=\"color: blue;\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>に<ruby>関係<rt>かんけい</rt></ruby>がある<span\
+  \ style=\"color: blue;\"><ruby>疑<rt>うたが</rt></ruby>い</span>で<ruby>２人<rt>ふたり</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>を<ruby>捕<rt>つか</rt></ruby>まえました。<ruby>警察<rt>けいさつ</rt></ruby>は、この<ruby>２人<rt>ふたり</rt></ruby>がバルセロナの<span\
+  \ style=\"color: blue;\"><ruby>事件<rt>じけん</rt></ruby></span>にも<ruby>関係<rt>かんけい</rt></ruby>があると<ruby>考<rt>かんが</rt></ruby>えて<ruby>調<rt>しら</rt></ruby>べています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 突っ込む
+  descriptions:
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>入</rb><rt>はい</rt></ruby>りこむ。
+  - <ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る。
+  - ものごとにかかわる。<ruby><rb>関係</rb><rt>かんけい</rt></ruby>する。
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れる。
+- word: テロ
+  descriptions:
+  - <ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: 観光
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。
+- word: 突っ込む
+  descriptions:
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>入</rb><rt>はい</rt></ruby>りこむ。
+  - <ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る。
+  - ものごとにかかわる。<ruby><rb>関係</rb><rt>かんけい</rt></ruby>する。
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れる。
+- word: 事件
+  descriptions:
+  - ふだんないような、できごと。
+- word: 爆発
+  descriptions:
+  - <ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>破裂</rb><rt>はれつ</rt></ruby>すること。
+  - おさえていた<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが、<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>出</rb><rt>で</rt></ruby>ること。
+- word: 疑い
+  descriptions:
+  - あやしいと<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>変</rb><rt>へん</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。
+web_news_url: /news/web/2017/08/18/バルセロナでテロ-110人以上が死傷-男2人拘束/
+source_url: http://www3.nhk.or.jp/news/easy/k10011102991000/k10011102991000.html
+...
