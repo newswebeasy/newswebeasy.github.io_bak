@@ -1,0 +1,59 @@
+---
+layout: easy_news
+newsid: k10011103181000
+categories: easy
+title: マララさん　今年の秋にオックスフォード大学に入学する
+title_with_ruby: マララさん　<ruby>今年<rt>ことし</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>にオックスフォード<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入学<rt>にゅうがく</rt></ruby>する
+last_modified_at: '2017-08-21T11:30:00+09:00'
+datetime: 2017年08月21日 11時30分
+description: ノーベル賞しょうをもらったマララ・ユスフザイさんは１７日にち、今年ことしの秋あきにイギリスのオックスフォード大学だいがくに入学にゅうがくするとツイッター（Ｔｗｉｔｔｅｒ）に書かきました。
+description_with_ruby: ノーベル<ruby>賞<rt>しょう</rt></ruby>をもらったマララ・ユスフザイさんは１７<ruby>日<rt>にち</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>にイギリスのオックスフォード<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入学<rt>にゅうがく</rt></ruby>するとツイッター（Ｔｗｉｔｔｅｒ）に<ruby>書<rt>か</rt></ruby>きました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/21/k10011103181000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/21/k10011103181000.mp3
+contents: "<p><span style=\"color: blue;\">ノーベル<ruby>賞<rt>しょう</rt></ruby></span>をもらったマララ・ユスフザイさんは１７<ruby>日<rt>にち</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>にイギリスのオックスフォード<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入学<rt>にゅうがく</rt></ruby>するとツイッター（Ｔｗｉｔｔｅｒ）に<ruby>書<rt>か</rt></ruby>きました。マララさんは<ruby>大学<rt>だいがく</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>哲学<rt>てつがく</rt></ruby></span>と<ruby>政治<rt>せいじ</rt></ruby>、<ruby>経済<rt>けいざい</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>をします。</p>\n\
+  <p>オックスフォード<ruby>大学<rt>だいがく</rt></ruby>は、イギリスのメイ<ruby>首相<rt>しゅしょう</rt></ruby>など<ruby>多<rt>おお</rt></ruby>くの<ruby>政治家<rt>せいじか</rt></ruby>が<ruby>勉強<rt>べんきょう</rt></ruby>した<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>大学<rt>だいがく</rt></ruby>です。マララさんが<span\
+  \ style=\"color: blue;\"><ruby>尊敬<rt>そんけい</rt></ruby></span>しているパキスタンで<ruby>初<rt>はじ</rt></ruby>めての<ruby>女性<rt>じょせい</rt></ruby>の<ruby>首相<rt>しゅしょう</rt></ruby>だったブットさんも<ruby>同<rt>おな</rt></ruby>じ<ruby>大学<rt>だいがく</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>しました。</p>\n\
+  <p>マララさんは２０<ruby>歳<rt>さい</rt></ruby>で、パキスタン<span style=\"color: blue;\"><ruby>出身<rt>しゅっしん</rt></ruby></span>です。マララさんはパキスタンで<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>が<ruby>教育<rt>きょういく</rt></ruby>を<ruby>受<rt>う</rt></ruby>けるための<span\
+  \ style=\"color: blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>をしていましたが、２０１２<ruby>年<rt>ねん</rt></ruby>に<ruby>反対<rt>はんたい</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>たちに<span\
+  \ style=\"color: blue;\"><ruby>銃<rt>じゅう</rt></ruby></span>で<span style=\"color:\
+  \ blue;\"><ruby>撃<rt>う</rt></ruby>た</span>れて<ruby>大<rt>おお</rt></ruby>きなけがをしました。そのあと、マララさんはイギリスの<ruby>高校<rt>こうこう</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>いながら<span\
+  \ style=\"color: blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>を<ruby>続<rt>つづ</rt></ruby>けて、１７<ruby>歳<rt>さい</rt></ruby>のときに<span\
+  \ style=\"color: blue;\">ノーベル<ruby>賞<rt>しょう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>平和<rt>へいわ</rt></ruby></span><span style=\"color: blue;\"><ruby>賞<rt>しょう</rt></ruby></span>をもらいました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ノーベル賞
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の、<ruby><rb>学問</rb><rt>がくもん</rt></ruby>や<ruby><rb>平和</rb><rt>へいわ</rt></ruby>のためにりっぱな<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をした<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>毎年</rb><rt>まいとし</rt></ruby>あたえられる<ruby><rb>賞</rb><rt>しょう</rt></ruby>。<ruby><rb>化学者</rb><rt>かがくしゃ</rt></ruby>ノーベルの<ruby><rb>遺言</rb><rt>ゆいごん</rt></ruby>で、この<ruby><rb>制度</rb><rt>せいど</rt></ruby>ができた。
+- word: 哲学
+  descriptions:
+  - ものごとの、<ruby><rb>大</rb><rt>おお</rt></ruby>もとのわけや、<ruby><rb>理屈</rb><rt>りくつ</rt></ruby>を<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>学問</rb><rt>がくもん</rt></ruby>。
+- word: 尊敬
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>心</rb><rt>こころ</rt></ruby>からえらいと<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。
+- word: 出身
+  descriptions:
+  - その<ruby><rb>土地</rb><rt>とち</rt></ruby>で<ruby><rb>生</rb><rt>う</rt></ruby>まれたこと。
+  - その<ruby><rb>学校</rb><rt>がっこう</rt></ruby>を<ruby><rb>卒業</rb><rt>そつぎょう</rt></ruby>したこと。
+- word: 活動
+  descriptions:
+  - <ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。
+- word: 銃
+  descriptions:
+  - <ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>・ピストルなど、<ruby><rb>弾丸</rb><rt>だんがん</rt></ruby>をうつ<ruby><rb>武器</rb><rt>ぶき</rt></ruby>。
+- word: 撃つ
+  descriptions:
+  - （<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>などを）<ruby><rb>発射</rb><rt>はっしゃ</rt></ruby>する。
+- word: 平和
+  descriptions:
+  - おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。
+- word: 賞
+  descriptions:
+  - ほめる。たたえる。
+  - ほうび。
+  - <ruby><rb>味</rb><rt>あじ</rt></ruby>わって<ruby><rb>楽</rb><rt>たの</rt></ruby>しむ。
+web_news_url: /news/web/2017/08/18/ノーベル平和賞マララさん-オックスフォード大進学へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011103181000/k10011103181000.html
+...

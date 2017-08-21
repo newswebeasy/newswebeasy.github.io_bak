@@ -1,0 +1,54 @@
+---
+layout: easy_news
+newsid: k10011105701000
+categories: easy
+title: 大阪のＵＳＪで客が乗ったままジェットコースターが止まる
+title_with_ruby: <ruby>大阪<rt>おおさか</rt></ruby>のＵＳＪで<ruby>客<rt>きゃく</rt></ruby>が<ruby>乗<rt>の</rt></ruby>ったままジェットコースターが<ruby>止<rt>と</rt></ruby>まる
+last_modified_at: '2017-08-21T16:30:00+09:00'
+datetime: 2017年08月21日 16時30分
+description: 大阪おおさかにあるテーマパークの「ユニバーサル・スタジオ・ジャパン（ＵＳＪ）」には、空そらを飛とんでいるように体からだを下したに向むけて乗のるジェットコースターがあります。
+description_with_ruby: <ruby>大阪<rt>おおさか</rt></ruby>にあるテーマパークの「ユニバーサル・スタジオ・ジャパン（ＵＳＪ）」には、<ruby>空<rt>そら</rt></ruby>を<ruby>飛<rt>と</rt></ruby>んでいるように<ruby>体<rt>からだ</rt></ruby>を<ruby>下<rt>した</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて<ruby>乗<rt>の</rt></ruby>るジェットコースターがあります。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/21/k10011105701000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/21/k10011105701000.mp3
+contents: "<p><ruby>大阪<rt>おおさか</rt></ruby>にある<span style=\"color: blue;\">テーマパーク</span>の「ユニバーサル・スタジオ・ジャパン（ＵＳＪ）」には、<ruby>空<rt>そら</rt></ruby>を<ruby>飛<rt>と</rt></ruby>んでいるように<ruby>体<rt>からだ</rt></ruby>を<ruby>下<rt>した</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>向<rt>む</rt></ruby>け</span>て<ruby>乗<rt>の</rt></ruby>る<span\
+  \ style=\"color: blue;\">ジェットコースター</span>があります。</p>\n<p><ruby>２０日<rt>はつか</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>４<ruby>時<rt>じ</rt></ruby>ごろ、この<span\
+  \ style=\"color: blue;\">ジェットコースター</span>が<ruby>出発<rt>しゅっぱつ</rt></ruby>してすぐに<ruby>止<rt>と</rt></ruby>まりました。ユニバーサル・スタジオ・ジャパンは、<ruby>入<rt>はい</rt></ruby>ってはいけない<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>子<rt>こ</rt></ruby>どもがいるのを<span\
+  \ style=\"color: blue;\">スタッフ</span>が<ruby>見<rt>み</rt></ruby>つけて、<ruby>安全<rt>あんぜん</rt></ruby>のために<ruby>止<rt>と</rt></ruby>めたと<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p>３０<ruby>人<rt>にん</rt></ruby>ぐらいの<ruby>客<rt>きゃく</rt></ruby>が<ruby>体<rt>からだ</rt></ruby>を<ruby>下<rt>した</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>向<rt>む</rt></ruby>け</span>たままになっていましたが、<span style=\"\
+  color: blue;\">スタッフ</span>が３０<ruby>分<rt>ぷん</rt></ruby>ぐらいでみんなを<span style=\"color:\
+  \ blue;\"><ruby>降<rt>お</rt></ruby>ろし</span>ました。けがをした<ruby>人<rt>ひと</rt></ruby>や<ruby>気分<rt>きぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>はいませんでした。</p>\n\
+  <p>この<span style=\"color: blue;\">ジェットコースター</span>は、そのあとはいつもと<ruby>同<rt>おな</rt></ruby>じように<ruby>運転<rt>うんてん</rt></ruby>しています。ユニバーサル・スタジオ・ジャパンは「<ruby>安全<rt>あんぜん</rt></ruby>のために<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>止<rt>と</rt></ruby>めることはよくあります。<span\
+  \ style=\"color: blue;\"><ruby>理解<rt>りかい</rt></ruby></span>してもらいたいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ジェットコースター
+  descriptions:
+  - <ruby><rb>遊園地</rb><rt>ゆうえんち</rt></ruby>の<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>急</rb><rt>きゅう</rt></ruby>な<ruby><rb>上</rb><rt>のぼ</rt></ruby>り<ruby><rb>下</rb><rt>くだ</rt></ruby>りやカーブのあるレールの<ruby><rb>上</rb><rt>うえ</rt></ruby>を<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>走</rb><rt>はし</rt></ruby>る、<ruby><rb>小型</rb><rt>こがた</rt></ruby>の<ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>。
+- word: テーマパーク
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つのテーマに<ruby><rb>沿</rb><rt>そ</rt></ruby>って<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>遊園地</rb><rt>ゆうえんち</rt></ruby>。ディズニーランドなど。
+- word: 向ける
+  descriptions:
+  - <ruby><rb>向</rb><rt>む</rt></ruby>くようにする。<ruby><rb>向</rb><rt>む</rt></ruby>かせる。
+  - その<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>を<ruby><rb>目</rb><rt>め</rt></ruby>ざす。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>行</rb><rt>い</rt></ruby>かせる。
+  - ふり<ruby><rb>当</rb><rt>あ</rt></ruby>てる。
+- word: スタッフ
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>のために、それぞれの<ruby><rb>役割</rb><rt>やくわり</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>って<ruby><rb>働</rb><rt>はたら</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>たち。
+  - <ruby><rb>映画</rb><rt>えいが</rt></ruby>や<ruby><rb>劇</rb><rt>げき</rt></ruby>、テレビなどで、<ruby><rb>出演者</rb><rt>しゅつえんしゃ</rt></ruby><ruby><rb>以外</rb><rt>いがい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>係</rb><rt>かかり</rt></ruby>。<ruby><rb>監督</rb><rt>かんとく</rt></ruby>・カメラマン・<ruby><rb>道具係</rb><rt>どうぐがかり</rt></ruby>など。
+- word: 降ろす
+  descriptions:
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>から<ruby><rb>低</rb><rt>ひく</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>へ<ruby><rb>移</rb><rt>うつ</rt></ruby>す。
+  - <ruby><rb>下</rb><rt>した</rt></ruby>のほうに<ruby><rb>移</rb><rt>うつ</rt></ruby>す。
+  - <ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>から<ruby><rb>外</rb><rt>そと</rt></ruby>へ<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+  - <ruby><rb>役目</rb><rt>やくめ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をやめさせる。
+- word: 理解
+  descriptions:
+  - ものごとの<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>や、<ruby><rb>理屈</rb><rt>りくつ</rt></ruby>がわかること。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>気持</rb><rt>きも</rt></ruby>ちやようすをくみ<ruby><rb>取</rb><rt>と</rt></ruby>ること。
+web_news_url: /news/web/2017/08/20/USJでジェットコースターが緊急停止-利用客が一時宙づりに/
+source_url: http://www3.nhk.or.jp/news/easy/k10011105701000/k10011105701000.html
+...
