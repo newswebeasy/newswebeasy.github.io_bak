@@ -1,0 +1,48 @@
+---
+layout: easy_news
+newsid: k10011105461000
+categories: easy
+title: 北海道の港から大きな船がさんまをとりに海に向かう
+title_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>港<rt>みなと</rt></ruby>から<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>がさんまをとりに<ruby>海<rt>うみ</rt></ruby>に<ruby>向<rt>む</rt></ruby>かう
+last_modified_at: '2017-08-21T16:30:00+09:00'
+datetime: 2017年08月21日 16時30分
+description: さんまは、日本人にっぽんじんが好すきな魚さかなの１つで、焼やいたりして食たべます。
+description_with_ruby: さんまは、<ruby>日本人<rt>にっぽんじん</rt></ruby>が<ruby>好<rt>す</rt></ruby>きな<ruby>魚<rt>さかな</rt></ruby>の１つで、<ruby>焼<rt>や</rt></ruby>いたりして<ruby>食<rt>た</rt></ruby>べます。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/21/k10011105461000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/21/k10011105461000.mp3
+contents: "<p><span style=\"color: blue;\">さんま</span>は、<ruby>日本人<rt>にっぽんじん</rt></ruby>が<ruby>好<rt>す</rt></ruby>きな<ruby>魚<rt>さかな</rt></ruby>の１つで、<ruby>焼<rt>や</rt></ruby>いたりして<ruby>食<rt>た</rt></ruby>べます。</p>\n\
+  <p><ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>東<rt>ひがし</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>では７<ruby>月<rt>がつ</rt></ruby>から１１<ruby>月<rt>がつ</rt></ruby>ごろまで<span\
+  \ style=\"color: blue;\">さんま</span>の<span style=\"color: blue;\"><ruby>漁<rt>りょう</rt></ruby></span>をします。８<ruby>月<rt>がつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>、１００<span\
+  \ style=\"color: blue;\">ｔ</span><ruby>以上<rt>いじょう</rt></ruby>ある<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>の<span\
+  \ style=\"color: blue;\">さんま</span>の<span style=\"color: blue;\"><ruby>漁<rt>りょう</rt></ruby></span>が<ruby>始<rt>はじ</rt></ruby>まりました。</p>\n\
+  <p><ruby>根室市<rt>ねむろし</rt></ruby>の<ruby>花咲港<rt>はなさきこう</rt></ruby>では<ruby>２０日<rt>はつか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>が２０<span\
+  \ style=\"color: blue;\"><ruby>隻<rt>せき</rt></ruby></span>ぐらい<span style=\"color:\
+  \ blue;\">さんま</span>をとるために<ruby>近<rt>ちか</rt></ruby>くの<ruby>海<rt>うみ</rt></ruby>に<ruby>向<rt>む</rt></ruby>かいました。</p>\n\
+  <p><ruby>国<rt>くに</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>によると、<ruby>今年<rt>ことし</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>海<rt>うみ</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<span\
+  \ style=\"color: blue;\">さんま</span>は、<ruby>今<rt>いま</rt></ruby>まででいちばん<span style=\"\
+  color: blue;\">とれ</span>なかった<ruby>去年<rt>きょねん</rt></ruby>より<ruby>少<rt>すく</rt></ruby>なくなりそうです。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>漁<rt>りょう</rt></ruby></span>に<ruby>向<rt>む</rt></ruby>かう<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>頑張<rt>がんば</rt></ruby>ってたくさんとってきます」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 秋刀魚
+  descriptions:
+  - <ruby><rb>冷</rb><rt>つめ</rt></ruby>たい<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くとれる。
+- word: 漁
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>などをとること。
+- word: トン
+  descriptions:
+  - メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。１トンは、１０００キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+  - <ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: 隻
+  descriptions:
+  - ただ<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。また、ほんの<ruby><rb>少</rb><rt>すこ</rt></ruby>し。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 捕れる
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+  - とることができる。
+web_news_url: /news/web/2017/08/20/秋サンマ漁が本格化-大型船一斉に出港-北海道/
+source_url: http://www3.nhk.or.jp/news/easy/k10011105461000/k10011105461000.html
+...
