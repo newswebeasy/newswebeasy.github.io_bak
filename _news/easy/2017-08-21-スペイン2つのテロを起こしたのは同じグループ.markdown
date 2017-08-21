@@ -1,0 +1,90 @@
+---
+layout: easy_news
+newsid: k10011105761000
+categories: easy
+title: スペイン「２つのテロを起こしたのは同じグループ」
+title_with_ruby: スペイン「２つのテロを<ruby>起<rt>お</rt></ruby>こしたのは<ruby>同<rt>おな</rt></ruby>じグループ」
+last_modified_at: '2017-08-21T16:30:00+09:00'
+datetime: 2017年08月21日 16時30分
+description: スペインのバルセロナで１７日にち、観光かんこうをしていた人ひとなどが大勢おおぜいいた道みちに車くるまが突つっ込こみました。
+description_with_ruby: スペインのバルセロナで１７<ruby>日<rt>にち</rt></ruby>、<ruby>観光<rt>かんこう</rt></ruby>をしていた<ruby>人<rt>ひと</rt></ruby>などが<ruby>大勢<rt>おおぜい</rt></ruby>いた<ruby>道<rt>みち</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>が<ruby>突<rt>つ</rt></ruby>っ<ruby>込<rt>こ</rt></ruby>みました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/21/k10011105761000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/21/k10011105761000.mp3
+contents: "<p>スペインのバルセロナで１７<ruby>日<rt>にち</rt></ruby>、<span style=\"color: blue;\"\
+  ><ruby>観光<rt>かんこう</rt></ruby></span>をしていた<ruby>人<rt>ひと</rt></ruby>などが<ruby>大勢<rt>おおぜい</rt></ruby>いた<ruby>道<rt>みち</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>突<rt>つ</rt></ruby>っ<ruby>込<rt>こ</rt></ruby>み</span>ました。そのあと、バルセロナから１２０ｋｍぐらい<span\
+  \ style=\"color: blue;\"><ruby>南西<rt>なんせい</rt></ruby></span>にある<ruby>町<rt>まち</rt></ruby>でも<ruby>車<rt>くるま</rt></ruby>が<ruby>道<rt>みち</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>突<rt>つ</rt></ruby>っ<ruby>込<rt>こ</rt></ruby>み</span>ました。この２つの<span\
+  \ style=\"color: blue;\"><ruby>事件<rt>じけん</rt></ruby></span>で１４<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、１２０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>がけがをしました。</p>\n\
+  <p><ruby>警察<rt>けいさつ</rt></ruby>は、２つの<span style=\"color: blue;\"><ruby>事件<rt>じけん</rt></ruby></span>は<ruby>同<rt>おな</rt></ruby>じ<span\
+  \ style=\"color: blue;\">グループ</span>が<span style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こし</span>た<span\
+  \ style=\"color: blue;\">テロ</span>だと<ruby>考<rt>かんが</rt></ruby>えています。そして、<ruby>今<rt>いま</rt></ruby>も<ruby>逃<rt>に</rt></ruby>げている<span\
+  \ style=\"color: blue;\"><ruby>犯人<rt>はんにん</rt></ruby></span>の<ruby>男<rt>おとこ</rt></ruby>をさがしています。</p>\n\
+  <p>スペインのテレビなどは、<span style=\"color: blue;\"><ruby>犯人<rt>はんにん</rt></ruby></span>の<span\
+  \ style=\"color: blue;\">グループ</span>はモロッコ<span style=\"color: blue;\"><ruby>国籍<rt>こくせき</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>若者<rt>わかもの</rt></ruby></span>など１２<ruby>人<rt>にん</rt></ruby>で、ほとんどがバルセロナの<ruby>近<rt>ちか</rt></ruby>くの<ruby>町<rt>まち</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいたと<ruby>伝<rt>つた</rt></ruby>えました。そして、その<ruby>町<rt>まち</rt></ruby>にいた<span\
+  \ style=\"color: blue;\">イスラム<ruby>教<rt>きょう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>指導<rt>しどう</rt></ruby></span><span style=\"color: blue;\"><ruby>者<rt>しゃ</rt></ruby></span>が<ruby>男<rt>おとこ</rt></ruby>たちに<ruby>危険<rt>きけん</rt></ruby>な<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えた<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>２０日<rt>はつか</rt></ruby>、バルセロナの<ruby>教会<rt>きょうかい</rt></ruby>でこの<span style=\"\
+  color: blue;\">テロ</span>で<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>たちのために<ruby>祈<rt>いの</rt></ruby>る<ruby>式<rt>しき</rt></ruby>がありました。スペインの<span\
+  \ style=\"color: blue;\"><ruby>国王<rt>こくおう</rt></ruby></span>や<ruby>首相<rt>しゅしょう</rt></ruby>、<ruby>大勢<rt>おおぜい</rt></ruby>のスペイン<ruby>人<rt>じん</rt></ruby>や<ruby>外国人<rt>がいこくじん</rt></ruby>などが<ruby>出席<rt>しゅっせき</rt></ruby>して<ruby>祈<rt>いの</rt></ruby>りました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: テロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: 起こす
+  descriptions:
+  - （<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。
+  - <ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。
+  - （<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。
+  - ほりかえす。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 観光
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。
+- word: 突っ込む
+  descriptions:
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>入</rb><rt>はい</rt></ruby>りこむ。
+  - <ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る。
+  - ものごとにかかわる。<ruby><rb>関係</rb><rt>かんけい</rt></ruby>する。
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れる。
+- word: 南西
+  descriptions:
+  - <ruby><rb>南</rb><rt>みなみ</rt></ruby>と<ruby><rb>西</rb><rt>にし</rt></ruby>の<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>。<ruby><rb>西南</rb><rt>せいなん</rt></ruby>。
+- word: 事件
+  descriptions:
+  - ふだんないような、できごと。
+- word: 犯人
+  descriptions:
+  - <ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 国籍
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>国民</rb><rt>こくみん</rt></ruby>であるという<ruby><rb>身分</rb><rt>みぶん</rt></ruby>・<ruby><rb>資格</rb><rt>しかく</rt></ruby>。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>や<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>がその<ruby><rb>国</rb><rt>くに</rt></ruby>に<ruby><rb>属</rb><rt>ぞく</rt></ruby>していること。
+- word: 若者
+  descriptions:
+  - <ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>青年</rb><rt>せいねん</rt></ruby>。わこうど。
+- word: イスラム教
+  descriptions:
+  - <ruby><rb>七世紀</rb><rt>ななせいき</rt></ruby><ruby><rb>初</rb><rt>はじ</rt></ruby>め、アラビアでムハンマドが<ruby><rb>始</rb><rt>はじ</rt></ruby>めた、<ruby><rb>唯一</rb><rt>ゆいいつ</rt></ruby>の<ruby><rb>神</rb><rt>かみ</rt></ruby>アッラーを<ruby><rb>信</rb><rt>しん</rt></ruby>じる<ruby><rb>宗教</rb><rt>しゅうきょう</rt></ruby>。<ruby><rb>回教</rb><rt>かいきょう</rt></ruby>。
+- word: 指導
+  descriptions:
+  - <ruby><rb>教</rb><rt>おし</rt></ruby>え<ruby><rb>導</rb><rt>みちび</rt></ruby>くこと。
+- word: 者
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - ものごと。ことがら。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 国王
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める<ruby><rb>王</rb><rt>おう</rt></ruby>。
+web_news_url: /news/web/2017/08/20/スペインテロ-イスラム教指導者に-過激思想吹き込まれたか/
+source_url: http://www3.nhk.or.jp/news/easy/k10011105761000/k10011105761000.html
+...
