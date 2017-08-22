@@ -1,0 +1,39 @@
+---
+layout: easy_news
+newsid: k10011107021000
+categories: easy
+title: アメリカで西から東まで「皆既日食」が見えた
+title_with_ruby: アメリカで<ruby>西<rt>にし</rt></ruby>から<ruby>東<rt>ひがし</rt></ruby>まで「<ruby>皆既日食<rt>かいきにっしょく</rt></ruby>」が<ruby>見<rt>み</rt></ruby>えた
+last_modified_at: '2017-08-22T16:20:00+09:00'
+datetime: 2017年08月22日 16時20分
+description: アメリカで２１日にち、西にしのオレゴン州しゅうから東ひがしのサウスカロライナ州しゅうまでの１４の州しゅうで「皆既日食かいきにっしょく」がありました。
+description_with_ruby: アメリカで２１<ruby>日<rt>にち</rt></ruby>、<ruby>西<rt>にし</rt></ruby>のオレゴン<ruby>州<rt>しゅう</rt></ruby>から<ruby>東<rt>ひがし</rt></ruby>のサウスカロライナ<ruby>州<rt>しゅう</rt></ruby>までの１４の<ruby>州<rt>しゅう</rt></ruby>で「<ruby>皆既日食<rt>かいきにっしょく</rt></ruby>」がありました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/22/k10011107021000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/22/k10011107021000.mp3
+contents: "<p>アメリカで２１<ruby>日<rt>にち</rt></ruby>、<ruby>西<rt>にし</rt></ruby>のオレゴン<ruby>州<rt>しゅう</rt></ruby>から<ruby>東<rt>ひがし</rt></ruby>のサウスカロライナ<ruby>州<rt>しゅう</rt></ruby>までの１４の<span\
+  \ style=\"color: blue;\"><ruby>州<rt>しゅう</rt></ruby></span>で「<ruby>皆既日食<rt>かいきにっしょく</rt></ruby>」がありました。<ruby>皆既日食<rt>かいきにっしょく</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>と<ruby>月<rt>つき</rt></ruby>と<span\
+  \ style=\"color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>がまっすぐに<ruby>並<rt>なら</rt></ruby>んだとき、<span\
+  \ style=\"color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>の<ruby>前<rt>まえ</rt></ruby>に<ruby>月<rt>つき</rt></ruby>があって、<span\
+  \ style=\"color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>が<ruby>見<rt>み</rt></ruby>えなくなることです。</p>\n\
+  <p>アメリカで<ruby>西<rt>にし</rt></ruby>から<ruby>東<rt>ひがし</rt></ruby>まで<ruby>皆既日食<rt>かいきにっしょく</rt></ruby>が<ruby>見<rt>み</rt></ruby>えたことは、９９<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の１９１８<ruby>年<rt>ねん</rt></ruby>からありませんでした。</p>\n\
+  <p>イリノイ<ruby>州<rt>しゅう</rt></ruby>では、<ruby>大学<rt>だいがく</rt></ruby>に１<ruby>万<rt>まん</rt></ruby>５０００<ruby>人<rt>にん</rt></ruby>ぐらいが<ruby>集<rt>あつ</rt></ruby>まって、みんなで<ruby>皆既日食<rt>かいきにっしょく</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しみました。<span\
+  \ style=\"color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>が<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>見<rt>み</rt></ruby>えなくなったあと、<span\
+  \ style=\"color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>の<ruby>光<rt>ひかり</rt></ruby>が<ruby>月<rt>つき</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りから<ruby>少<rt>すこ</rt></ruby>し<ruby>見<rt>み</rt></ruby>えて<ruby>指輪<rt>ゆびわ</rt></ruby>のような<ruby>形<rt>かたち</rt></ruby>になりました。<ruby>見<rt>み</rt></ruby>ていた<ruby>人<rt>ひと</rt></ruby>たちは、<ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して<ruby>喜<rt>よろこ</rt></ruby>んでいました。</p>\n\
+  <p>２１<ruby>日<rt>にち</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>がよかったため、アメリカではたくさんの<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>皆既日食<rt>かいきにっしょく</rt></ruby>を<ruby>見<rt>み</rt></ruby>ることができました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 州
+  descriptions:
+  - <ruby><rb>大陸</rb><rt>たいりく</rt></ruby>。
+  - （<ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>や、<ruby><rb>今</rb><rt>いま</rt></ruby>のアメリカなどで）<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をするつごうで<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>区切</rb><rt>くぎ</rt></ruby>り。
+  - す。<ruby><rb>川</rb><rt>かわ</rt></ruby>などの<ruby><rb>土</rb><rt>つち</rt></ruby>や<ruby><rb>砂</rb><rt>すな</rt></ruby>が<ruby><rb>積</rb><rt>つ</rt></ruby>もってできた<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>陸地</rb><rt>りくち</rt></ruby>。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: 太陽
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。
+web_news_url: /news/web/2017/08/22/100年ぶり-アメリカ横断の皆既日食-全米でフィーバー/
+source_url: http://www3.nhk.or.jp/news/easy/k10011107021000/k10011107021000.html
+...

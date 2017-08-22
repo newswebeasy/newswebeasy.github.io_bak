@@ -1,0 +1,55 @@
+---
+layout: easy_news
+newsid: k10011106191000
+categories: easy
+title: 雨の被害で早く夏休みになった学校　２学期も早く始まる
+title_with_ruby: <ruby>雨<rt>あめ</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>で<ruby>早<rt>はや</rt></ruby>く<ruby>夏休<rt>なつやす</rt></ruby>みになった<ruby>学校<rt>がっこう</rt></ruby>　２<ruby>学期<rt>がっき</rt></ruby>も<ruby>早<rt>はや</rt></ruby>く<ruby>始<rt>はじ</rt></ruby>まる
+last_modified_at: '2017-08-22T16:20:00+09:00'
+datetime: 2017年08月22日 16時20分
+description: 福岡県ふくおかけんでは７月がつに雨あめがたくさん降ふりました。
+description_with_ruby: <ruby>福岡県<rt>ふくおかけん</rt></ruby>では７<ruby>月<rt>がつ</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/22/k10011106191000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/22/k10011106191000.mp3
+contents: "<p><ruby>福岡県<rt>ふくおかけん</rt></ruby>では７<ruby>月<rt>がつ</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>りました。<ruby>朝倉市<rt>あさくらし</rt></ruby>と<ruby>東峰村<rt>とうほうむら</rt></ruby>の<ruby>小学校<rt>しょうがっこう</rt></ruby>と<ruby>中学校<rt>ちゅうがっこう</rt></ruby>では、<span\
+  \ style=\"color: blue;\"><ruby>校舎<rt>こうしゃ</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>土<rt>つち</rt></ruby></span>や<ruby>木<rt>き</rt></ruby>などが<ruby>入<rt>はい</rt></ruby>る<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>たため、いつもより<ruby>１０日<rt>とおか</rt></ruby>ぐらい<ruby>早<rt>はや</rt></ruby>く<ruby>夏休<rt>なつやす</rt></ruby>みになりました。このため２<span\
+  \ style=\"color: blue;\"><ruby>学期<rt>がっき</rt></ruby></span>は、いつもより<ruby>早<rt>はや</rt></ruby>い８<ruby>月<rt>がつ</rt></ruby>２１<ruby>日<rt>にち</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まりました。</p>\n\
+  <p><ruby>朝倉市<rt>あさくらし</rt></ruby>では<ruby>志波<rt>しわ</rt></ruby><ruby>小学校<rt>しょうがっこう</rt></ruby>と<ruby>松末<rt>ますえ</rt></ruby><ruby>小学校<rt>しょうがっこう</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>校舎<rt>こうしゃ</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>うことができなくなりました。このため、２つの<ruby>小学校<rt>しょうがっこう</rt></ruby>は<ruby>久喜宮<rt>くぐみや</rt></ruby><ruby>小学校<rt>しょうがっこう</rt></ruby>の<span\
+  \ style=\"color: blue;\">グラウンド</span>に<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>建物<rt>たてもの</rt></ruby>を<ruby>建<rt>た</rt></ruby>てて、<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>います。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>始業式<rt>しぎょうしき</rt></ruby></span>のあと、３つの<ruby>小学校<rt>しょうがっこう</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもたち１３０<ruby>人<rt>にん</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まる<ruby>式<rt>しき</rt></ruby>がありました。<ruby>松末<rt>ますえ</rt></ruby><ruby>小学校<rt>しょうがっこう</rt></ruby>の６<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>が「みんな<ruby>今<rt>いま</rt></ruby>までと<ruby>同<rt>おな</rt></ruby>じようにがんばります。<span\
+  \ style=\"color: blue;\">よろしく</span>お<ruby>願<rt>ねが</rt></ruby>いします」とあいさつしました。</p>\n\
+  <p>３つの<ruby>小学校<rt>しょうがっこう</rt></ruby>は<ruby>時々<rt>ときどき</rt></ruby>、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>をしたり<span\
+  \ style=\"color: blue;\"><ruby>行事<rt>ぎょうじ</rt></ruby></span>を<ruby>行<rt>おこな</rt></ruby>ったりする<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 学期
+  descriptions:
+  - <ruby><rb>学校</rb><rt>がっこう</rt></ruby>で、<ruby><rb>一年間</rb><rt>いちねんかん</rt></ruby>を<ruby><rb>二</rb><rt>ふた</rt></ruby>つか<ruby><rb>三</rb><rt>みっ</rt></ruby>つに<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>期間</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: 校舎
+  descriptions:
+  - <ruby><rb>学校</rb><rt>がっこう</rt></ruby>の<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+- word: 土
+  descriptions:
+  - <ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>がくだけて、<ruby><rb>粉</rb><rt>こな</rt></ruby>になったもの。どろ。
+  - <ruby><rb>陸地</rb><rt>りくち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>地面</rb><rt>じめん</rt></ruby>。
+- word: グラウンド
+  descriptions:
+  - <ruby><rb>運動場</rb><rt>うんどうじょう</rt></ruby>。<ruby><rb>競技場</rb><rt>きょうぎじょう</rt></ruby>。グランド。
+- word: 始業式
+  descriptions:
+  - <ruby><rb>学年</rb><rt>がくねん</rt></ruby>や<ruby><rb>学期</rb><rt>がっき</rt></ruby>が<ruby><rb>始</rb><rt>はじ</rt></ruby>まる<ruby><rb>時</rb><rt>とき</rt></ruby>に<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>式</rb><rt>しき</rt></ruby>。
+- word: よろしく
+  descriptions:
+  - うまく。<ruby><rb>適当</rb><rt>てきとう</rt></ruby>に。
+  - これからのことをたのむときなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>のことば。
+- word: 行事
+  descriptions:
+  - <ruby><rb>前</rb><rt>まえ</rt></ruby>もって<ruby><rb>時期</rb><rt>じき</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>めて<ruby><rb>行</rb><rt>おこな</rt></ruby>われる、もよおし。
+web_news_url: /news/web/2017/08/21/豪雨被害で夏休み前倒しの小中学校-一足早く2学期-福岡/
+source_url: http://www3.nhk.or.jp/news/easy/k10011106191000/k10011106191000.html
+...
