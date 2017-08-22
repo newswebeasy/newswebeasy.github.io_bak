@@ -1,0 +1,58 @@
+---
+layout: easy_news
+newsid: k10011104821000
+categories: easy
+title: 埼玉県　いちばん重いすいかを決めるイベント
+title_with_ruby: <ruby>埼玉県<rt>さいたまけん</rt></ruby>　いちばん<ruby>重<rt>おも</rt></ruby>いすいかを<ruby>決<rt>き</rt></ruby>めるイベント
+last_modified_at: '2017-08-22T11:30:00+09:00'
+datetime: 2017年08月22日 11時30分
+description: 埼玉県さいたまけん桶川市おけがわしで、大おおきく育そだてたすいかを集あつめて、どれがいちばん重おもいかを決きめるイベントがありました。
+description_with_ruby: <ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>桶川市<rt>おけがわし</rt></ruby>で、<ruby>大<rt>おお</rt></ruby>きく<ruby>育<rt>そだ</rt></ruby>てたすいかを<ruby>集<rt>あつ</rt></ruby>めて、どれがいちばん<ruby>重<rt>おも</rt></ruby>いかを<ruby>決<rt>き</rt></ruby>めるイベントがありました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/22/k10011104821000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/22/k10011104821000.mp3
+contents: "<p><ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>桶川市<rt>おけがわし</rt></ruby>で、<ruby>大<rt>おお</rt></ruby>きく<ruby>育<rt>そだ</rt></ruby>てた<span\
+  \ style=\"color: blue;\">すいか</span>を<ruby>集<rt>あつ</rt></ruby>めて、どれがいちばん<ruby>重<rt>おも</rt></ruby>いかを<ruby>決<rt>き</rt></ruby>める<span\
+  \ style=\"color: blue;\">イベント</span>がありました。この<span style=\"color: blue;\">イベント</span>は、<ruby>桶川市<rt>おけがわし</rt></ruby>をもっと<ruby>知<rt>し</rt></ruby>ってほしいと<ruby>考<rt>かんが</rt></ruby>えて、<span\
+  \ style=\"color: blue;\"><ruby>農業<rt>のうぎょう</rt></ruby></span>をしている<ruby>人<rt>ひと</rt></ruby>などの<span\
+  \ style=\"color: blue;\">グループ</span>が<ruby>毎年<rt>まいとし</rt></ruby><ruby>行<rt>おこな</rt></ruby>っています。</p>\n\
+  <p><ruby>会場<rt>かいじょう</rt></ruby>には３０<ruby>個<rt>こ</rt></ruby>ぐらいの<span style=\"color:\
+  \ blue;\">すいか</span>が<ruby>集<rt>あつ</rt></ruby>まりました。<span style=\"color: blue;\"\
+  ><ruby>農業<rt>のうぎょう</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>や<ruby>中学生<rt>ちゅうがくせい</rt></ruby>などが、<span\
+  \ style=\"color: blue;\">イベント</span>を<ruby>行<rt>おこな</rt></ruby>う<span style=\"color:\
+  \ blue;\">グループ</span>から５<ruby>月<rt>がつ</rt></ruby>に<span style=\"color: blue;\"><ruby>苗<rt>なえ</rt></ruby></span>をもらって<ruby>育<rt>そだ</rt></ruby>てました。<ruby>今年<rt>ことし</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて、<span\
+  \ style=\"color: blue;\">すいか</span>が<span style=\"color: blue;\"><ruby>腐<rt>くさ</rt></ruby>っ</span>たり<ruby>割<rt>わ</rt></ruby>れたりしたため、<ruby>集<rt>あつ</rt></ruby>まった<span\
+  \ style=\"color: blue;\">すいか</span>は<ruby>去年<rt>きょねん</rt></ruby>より<ruby>少<rt>すく</rt></ruby>なくなりました。</p>\n\
+  <p><ruby>重<rt>おも</rt></ruby>さを<ruby>調<rt>しら</rt></ruby>べた<span style=\"color: blue;\"\
+  ><ruby>結果<rt>けっか</rt></ruby></span>、６７<ruby>歳<rt>さい</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>が<ruby>育<rt>そだ</rt></ruby>てた７８ｋｇぐらいの<span\
+  \ style=\"color: blue;\">すいか</span>が１<ruby>番<rt>ばん</rt></ruby>になりました。この<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>雨<rt>あめ</rt></ruby>で<span\
+  \ style=\"color: blue;\">すいか</span>が<ruby>悪<rt>わる</rt></ruby>くならないように<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>育<rt>そだ</rt></ruby>てました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 西瓜
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>実</rb><rt>み</rt></ruby>が、<ruby><rb>地面</rb><rt>じめん</rt></ruby>をはうつるにでき、<ruby><rb>中身</rb><rt>なかみ</rt></ruby>は<ruby><rb>赤</rb><rt>あか</rt></ruby>や<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>で<ruby><rb>水分</rb><rt>すいぶん</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>くあまい。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 農業
+  descriptions:
+  - <ruby><rb>田</rb><rt>た</rt></ruby>や<ruby><rb>畑</rb><rt>はたけ</rt></ruby>で、<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>・<ruby><rb>野菜</rb><rt>やさい</rt></ruby>・<ruby><rb>果物</rb><rt>くだもの</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。<ruby><rb>牛</rb><rt>うし</rt></ruby>などの<ruby><rb>家畜</rb><rt>かちく</rt></ruby>を<ruby><rb>飼</rb><rt>か</rt></ruby>う<ruby><rb>仕事</rb><rt>しごと</rt></ruby>もふくめていうことがある。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 苗
+  descriptions:
+  - <ruby><rb>芽</rb><rt>め</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>したばかりの<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。また、<ruby><rb>植</rb><rt>う</rt></ruby>えつける<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。
+- word: 腐る
+  descriptions:
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>がいたむ。
+  - <ruby><rb>木</rb><rt>き</rt></ruby>などがいたんでぼろぼろになる。
+  - <ruby><rb>元気</rb><rt>げんき</rt></ruby>がなくなる。
+  - すっかりだめになる。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+web_news_url: /news/web/2017/08/19/重さ自慢-巨大スイカのコンテスト-埼玉-桶川/
+source_url: http://www3.nhk.or.jp/news/easy/k10011104821000/k10011104821000.html
+...
