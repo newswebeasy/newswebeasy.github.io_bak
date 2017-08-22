@@ -1,0 +1,55 @@
+---
+layout: easy_news
+newsid: k10011106611000
+categories: easy
+title: アメリカ軍の船がタンカーとぶつかって１０人が行方不明
+title_with_ruby: アメリカ<ruby>軍<rt>ぐん</rt></ruby>の<ruby>船<rt>ふね</rt></ruby>がタンカーとぶつかって１０<ruby>人<rt>にん</rt></ruby>が<ruby>行方不明<rt>ゆくえふめい</rt></ruby>
+last_modified_at: '2017-08-22T16:20:00+09:00'
+datetime: 2017年08月22日 16時20分
+description: ２１日にちの朝あさ、アメリカ軍ぐんの船ふねがシンガポールの近ちかくでタンカーとぶつかりました。
+description_with_ruby: ２１<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、アメリカ<ruby>軍<rt>ぐん</rt></ruby>の<ruby>船<rt>ふね</rt></ruby>がシンガポールの<ruby>近<rt>ちか</rt></ruby>くでタンカーとぶつかりました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/22/k10011106611000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/22/k10011106611000.mp3
+contents: "<p>２１<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、アメリカ<span style=\"\
+  color: blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>の<ruby>船<rt>ふね</rt></ruby>がシンガポールの<ruby>近<rt>ちか</rt></ruby>くで<span\
+  \ style=\"color: blue;\">タンカー</span>と<span style=\"color: blue;\">ぶつかり</span>ました。この<ruby>事故<rt>じこ</rt></ruby>で、アメリカ<span\
+  \ style=\"color: blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>の<ruby>船<rt>ふね</rt></ruby>に<ruby>乗<rt>の</rt></ruby>っていた５<ruby>人<rt>にん</rt></ruby>がけがをして、１０<ruby>人<rt>にん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>行方不明<rt>ゆくえふめい</rt></ruby></span>になっています。</p>\n<p>この<ruby>船<rt>ふね</rt></ruby>は<ruby>神奈川県<rt>かながわけん</rt></ruby>の<ruby>横須賀基地<rt>よこすかきち</rt></ruby>を<ruby>出発<rt>しゅっぱつ</rt></ruby>して、<span\
+  \ style=\"color: blue;\"><ruby>南<rt>みなみ</rt></ruby>シナ<ruby>海<rt>かい</rt></ruby></span>にある<ruby>南沙<rt>なんさ</rt></ruby><ruby>諸島<rt>しょとう</rt></ruby>（スプラトリー<ruby>諸島<rt>しょとう</rt></ruby>）に<ruby>行<rt>い</rt></ruby>ってから、シンガポールに<ruby>向<rt>む</rt></ruby>かっていました。<ruby>船<rt>ふね</rt></ruby>は<ruby>左側<rt>ひだりがわ</rt></ruby>の<ruby>後<rt>うし</rt></ruby>ろが<ruby>大<rt>おお</rt></ruby>きく<ruby>壊<rt>こわ</rt></ruby>れましたが、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>でシンガポールの<ruby>港<rt>みなと</rt></ruby>まで<ruby>行<rt>い</rt></ruby>きました。</p>\n\
+  <p>アメリカ<span style=\"color: blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>の<ruby>船<rt>ふね</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>の６<ruby>月<rt>がつ</rt></ruby>にも、<ruby>静岡県<rt>しずおかけん</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>海<rt>うみ</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>と<span\
+  \ style=\"color: blue;\">ぶつかっ</span>て７<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなっています。</p>\n\
+  <p>アメリカ<span style=\"color: blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>は、<ruby>世界中<rt>せかいじゅう</rt></ruby>にある<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>船<rt>ふね</rt></ruby>を１<ruby>日<rt>にち</rt></ruby>か<ruby>２日<rt>ふつか</rt></ruby><ruby>止<rt>と</rt></ruby>めて<ruby>安全<rt>あんぜん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>確<rt>たし</rt></ruby>かめる</span>と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 軍
+  descriptions:
+  - <ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。
+- word: タンカー
+  descriptions:
+  - <ruby><rb>石油</rb><rt>せきゆ</rt></ruby>などを<ruby><rb>積</rb><rt>つ</rt></ruby>んで<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>船</rb><rt>ふね</rt></ruby>。<ruby><rb>油送船</rb><rt>ゆそうせん</rt></ruby>。
+- word: ぶつかる
+  descriptions:
+  - <ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。
+  - <ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。
+  - <ruby><rb>重</rb><rt>かさ</rt></ruby>なる。
+- word: 行方不明
+  descriptions:
+  - どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。
+- word: ぶつかる
+  descriptions:
+  - <ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。
+  - <ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。
+  - <ruby><rb>重</rb><rt>かさ</rt></ruby>なる。
+- word: 南シナ海
+  descriptions:
+  - <ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>の<ruby><rb>一部</rb><rt>いちぶ</rt></ruby>。<ruby><rb>中国</rb><rt>ちゅうごく</rt></ruby>・フィリピン・ボルネオ・インドシナ<ruby><rb>半島</rb><rt>はんとう</rt></ruby>などに<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: 確かめる
+  descriptions:
+  - まちがいがないようにする。あやふやな<ruby><rb>点</rb><rt>てん</rt></ruby>を、はっきりさせる。
+web_news_url: /news/web/2017/08/21/米イージス艦事故-4か国合同で不明の10人捜索/
+source_url: http://www3.nhk.or.jp/news/easy/k10011106611000/k10011106611000.html
+...
