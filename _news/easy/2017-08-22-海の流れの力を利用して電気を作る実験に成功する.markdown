@@ -1,0 +1,75 @@
+---
+layout: easy_news
+newsid: k10011105301000
+categories: easy
+title: 海の流れの力を利用して電気を作る実験に成功する
+title_with_ruby: <ruby>海<rt>うみ</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れの<ruby>力<rt>ちから</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>して<ruby>電気<rt>でんき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<ruby>実験<rt>じっけん</rt></ruby>に<ruby>成功<rt>せいこう</rt></ruby>する
+last_modified_at: '2017-08-22T11:30:00+09:00'
+datetime: 2017年08月22日 11時30分
+description: 国くにのＮＥＤＯとＩＨＩという会社かいしゃは、鹿児島県かごしまけんの口之島くちのしまの近ちかくで、海うみの流ながれの力ちからを利用りようして電気でんきを作つくる実験じっけんを１４日じゅうよっかから行おこないました。
+description_with_ruby: <ruby>国<rt>くに</rt></ruby>のＮＥＤＯとＩＨＩという<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>鹿児島県<rt>かごしまけん</rt></ruby>の<ruby>口之島<rt>くちのしま</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くで、<ruby>海<rt>うみ</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れの<ruby>力<rt>ちから</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>して<ruby>電気<rt>でんき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<ruby>実験<rt>じっけん</rt></ruby>を<ruby>１４日<rt>じゅうよっか</rt></ruby>から<ruby>行<rt>おこな</rt></ruby>いました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/22/k10011105301000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/22/k10011105301000.mp3
+contents: "<p><ruby>国<rt>くに</rt></ruby>のＮＥＤＯとＩＨＩという<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>鹿児島県<rt>かごしまけん</rt></ruby>の<ruby>口之島<rt>くちのしま</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くで、<ruby>海<rt>うみ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>流<rt>なが</rt></ruby>れ</span>の<ruby>力<rt>ちから</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>して<ruby>電気<rt>でんき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>を<ruby>１４日<rt>じゅうよっか</rt></ruby>から<ruby>行<rt>おこな</rt></ruby>いました。</p>\n\
+  <p><ruby>口之島<rt>くちのしま</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>には<span style=\"color:\
+  \ blue;\"><ruby>黒潮<rt>くろしお</rt></ruby></span>という<span style=\"color: blue;\"><ruby>流<rt>なが</rt></ruby>れ</span>があります。<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>では、<ruby>海<rt>うみ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>さ２０ｍ〜５０ｍの<ruby>所<rt>ところ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いた<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\">タービン</span>が<span style=\"color: blue;\"><ruby>黒潮<rt>くろしお</rt></ruby></span>の<ruby>強<rt>つよ</rt></ruby>い<ruby>力<rt>ちから</rt></ruby>で<ruby>回<rt>まわ</rt></ruby>って、３０<span\
+  \ style=\"color: blue;\">ｋW</span>までの<ruby>電気<rt>でんき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ることに<span\
+  \ style=\"color: blue;\"><ruby>成功<rt>せいこう</rt></ruby></span>しました。<ruby>海<rt>うみ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>流<rt>なが</rt></ruby>れ</span>の<ruby>力<rt>ちから</rt></ruby>で<ruby>電気<rt>でんき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ったのは<ruby>世界<rt>せかい</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めてです。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>流<rt>なが</rt></ruby>れる</span><ruby>力<rt>ちから</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>黒潮<rt>くろしお</rt></ruby></span>を<ruby>利用<rt>りよう</rt></ruby>したら、<span\
+  \ style=\"color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>の<ruby>光<rt>ひかり</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>するよりうまく<ruby>電気<rt>でんき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ることができると<ruby>言<rt>い</rt></ruby>われています。ＮＥＤＯとＩＨＩは、どのくらいお<ruby>金<rt>かね</rt></ruby>がかかるかなど<ruby>調<rt>しら</rt></ruby>べて、２０２０<ruby>年<rt>ねん</rt></ruby>には<ruby>電気<rt>でんき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p>ＩＨＩは「<ruby>口之島<rt>くちのしま</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>は、<span style=\"\
+  color: blue;\"><ruby>流<rt>なが</rt></ruby>れ</span>の<ruby>強<rt>つよ</rt></ruby>さや<span\
+  \ style=\"color: blue;\"><ruby>方向<rt>ほうこう</rt></ruby></span>があまり<ruby>変<rt>か</rt></ruby>わらないので、<span\
+  \ style=\"color: blue;\"><ruby>詳<rt>くわ</rt></ruby>しく</span><ruby>調<rt>しら</rt></ruby>べて<ruby>電気<rt>でんき</rt></ruby>をたくさん<ruby>作<rt>つく</rt></ruby>りたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 流れ
+  descriptions:
+  - <ruby><rb>流</rb><rt>なが</rt></ruby>れる<ruby><rb>水</rb><rt>みず</rt></ruby>。<ruby><rb>川</rb><rt>かわ</rt></ruby>。
+  - （<ruby><rb>川</rb><rt>かわ</rt></ruby>のように）<ruby><rb>絶</rb><rt>た</rt></ruby>えることなく<ruby><rb>動</rb><rt>うご</rt></ruby>いているもの。
+  - <ruby><rb>移</rb><rt>うつ</rt></ruby>り<ruby><rb>変</rb><rt>か</rt></ruby>わり。
+  - <ruby><rb>系統</rb><rt>けいとう</rt></ruby>。つながり。<ruby><rb>血筋</rb><rt>ちすじ</rt></ruby>。
+  - とりやめになること。
+- word: 実験
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。
+- word: 成功
+  descriptions:
+  - ものごとが<ruby><rb>思</rb><rt>おも</rt></ruby>いどおりにうまくいくこと。
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>地位</rb><rt>ちい</rt></ruby>や<ruby><rb>財産</rb><rt>ざいさん</rt></ruby>を<ruby><rb>得</rb><rt>え</rt></ruby>ること。
+- word: 黒潮
+  descriptions:
+  - <ruby><rb>日本列島</rb><rt>にほんれっとう</rt></ruby>に<ruby><rb>沿</rb><rt>そ</rt></ruby>って、<ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>を<ruby><rb>南</rb><rt>みなみ</rt></ruby>から<ruby><rb>北</rb><rt>きた</rt></ruby>へ<ruby><rb>流</rb><rt>なが</rt></ruby>れる<ruby><rb>暖流</rb><rt>だんりゅう</rt></ruby>。<ruby><rb>海水</rb><rt>かいすい</rt></ruby>はあい<ruby><rb>色</rb><rt>いろ</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>える。<ruby><rb>日本海流</rb><rt>にほんかいりゅう</rt></ruby>。
+- word: タービン
+  descriptions:
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>や<ruby><rb>蒸気</rb><rt>じょうき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>羽根車</rb><rt>はねぐるま</rt></ruby>を<ruby><rb>回転</rb><rt>かいてん</rt></ruby>させ、<ruby><rb>動力</rb><rt>どうりょく</rt></ruby>を<ruby><rb>得</rb><rt>え</rt></ruby>る<ruby><rb>機械</rb><rt>きかい</rt></ruby>。
+- word: キロワット
+  descriptions:
+  - <ruby><rb>電力</rb><rt>でんりょく</rt></ruby>のはたらきを<ruby><rb>表</rb><rt>あらわ</rt></ruby>す<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。１キロワットは、１０００ワット。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「kW」。
+- word: 流れる
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。
+  - <ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。
+  - うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - とりやめになる。
+- word: 太陽
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。
+- word: 方向
+  descriptions:
+  - <ruby><rb>向</rb><rt>む</rt></ruby>き。<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>。
+  - <ruby><rb>目当</rb><rt>めあ</rt></ruby>て。<ruby><rb>方針</rb><rt>ほうしん</rt></ruby>。
+- word: 詳しい
+  descriptions:
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かい。
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かいことまでよく<ruby><rb>知</rb><rt>し</rt></ruby>っている。
+web_news_url: /news/web/2017/08/20/海流発電の実証実験-発電成功-鹿児島-トカラ列島沖/
+source_url: http://www3.nhk.or.jp/news/easy/k10011105301000/k10011105301000.html
+...
