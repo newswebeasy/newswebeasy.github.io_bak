@@ -1,0 +1,40 @@
+---
+layout: easy_news
+newsid: k10011108151000
+categories: easy
+title: 日本の高校生が国連の人に「核兵器をなくしてほしい」
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>高校生<rt>こうこうせい</rt></ruby>が<ruby>国連<rt>こくれん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に「<ruby>核兵器<rt>かくへいき</rt></ruby>をなくしてほしい」
+last_modified_at: '2017-08-23T16:30:00+09:00'
+datetime: 2017年08月23日 16時30分
+description: 今いま、スイスにある国連こくれんのヨーロッパ本部ほんぶで、世界せかいの国くにが兵器へいきなどを少すくなくするために会議かいぎを行おこなっています。
+description_with_ruby: <ruby>今<rt>いま</rt></ruby>、スイスにある<ruby>国連<rt>こくれん</rt></ruby>のヨーロッパ<ruby>本部<rt>ほんぶ</rt></ruby>で、<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>が<ruby>兵器<rt>へいき</rt></ruby>などを<ruby>少<rt>すく</rt></ruby>なくするために<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/23/k10011108151000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/23/k10011108151000.mp3
+contents: "<p><ruby>今<rt>いま</rt></ruby>、スイスにある<span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>のヨーロッパ<ruby>本部<rt>ほんぶ</rt></ruby>で、<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>兵器<rt>へいき</rt></ruby></span>などを<ruby>少<rt>すく</rt></ruby>なくするために<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>っています。</p>\n\
+  <p>２２<ruby>日<rt>にち</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>高校生<rt>こうこうせい</rt></ruby>２２<ruby>人<rt>にん</rt></ruby>がヨーロッパ<ruby>本部<rt>ほんぶ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。この<ruby>中<rt>なか</rt></ruby>には、<span\
+  \ style=\"color: blue;\"><ruby>原爆<rt>げんばく</rt></ruby></span>が<ruby>落<rt>お</rt></ruby>とされた<ruby>広島<rt>ひろしま</rt></ruby>と<ruby>長崎<rt>ながさき</rt></ruby>の<ruby>高校生<rt>こうこうせい</rt></ruby>もいます。</p>\n\
+  <p><ruby>高校生<rt>こうこうせい</rt></ruby>たちは<span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>に、<span\
+  \ style=\"color: blue;\"><ruby>核兵器<rt>かくへいき</rt></ruby></span>をなくしてほしいという<ruby>気持<rt>きも</rt></ruby>ちを<ruby>英語<rt>えいご</rt></ruby>で<ruby>伝<rt>つた</rt></ruby>えました。<ruby>長崎<rt>ながさき</rt></ruby>の<ruby>高校生<rt>こうこうせい</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>原爆<rt>げんばく</rt></ruby></span>でひどいけがをした<ruby>人<rt>ひと</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>せて、<ruby>決<rt>けっ</rt></ruby>して<span\
+  \ style=\"color: blue;\"><ruby>核兵器<rt>かくへいき</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>ってはいけないと<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>そして、<ruby>高校生<rt>こうこうせい</rt></ruby>たちは、<ruby>日本<rt>にっぽん</rt></ruby>の２１<ruby>万<rt>まん</rt></ruby>４０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>核兵器<rt>かくへいき</rt></ruby></span>をなくしてほしいと<ruby>考<rt>かんが</rt></ruby>えて<ruby>名前<rt>なまえ</rt></ruby>を<ruby>書<rt>か</rt></ruby>いたたくさんの<ruby>紙<rt>かみ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>に<ruby>渡<rt>わた</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: 核兵器
+  descriptions:
+  - <ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。
+- word: 兵器
+  descriptions:
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>器械</rb><rt>きかい</rt></ruby>や<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。<ruby><rb>武器</rb><rt>ぶき</rt></ruby>。
+- word: 原子爆弾
+  descriptions:
+  - <ruby><rb>原子核分裂</rb><rt>げんしかくぶんれつ</rt></ruby>によって<ruby><rb>起</rb><rt>お</rt></ruby>こる、ものすごい<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>殺</rb><rt>ころ</rt></ruby>す。<ruby><rb>原爆</rb><rt>げんばく</rt></ruby>。
+web_news_url: /news/web/2017/08/23/日本の高校生-核廃絶願い21万人の署名を国連に提出/
+source_url: http://www3.nhk.or.jp/news/easy/k10011108151000/k10011108151000.html
+...
