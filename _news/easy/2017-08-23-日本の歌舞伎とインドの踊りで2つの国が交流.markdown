@@ -1,0 +1,58 @@
+---
+layout: easy_news
+newsid: k10011106891000
+categories: easy
+title: 日本の歌舞伎とインドの踊りで２つの国が交流
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>歌舞伎<rt>かぶき</rt></ruby>とインドの<ruby>踊<rt>おど</rt></ruby>りで２つの<ruby>国<rt>くに</rt></ruby>が<ruby>交流<rt>こうりゅう</rt></ruby>
+last_modified_at: '2017-08-23T11:30:00+09:00'
+datetime: 2017年08月23日 11時30分
+description: インドのニューデリーにある日本にっぽん大使館たいしかんで、日本にっぽんの歌舞伎かぶきとインドのカタカリという踊おどりを見みせるイベントがありました。
+description_with_ruby: インドのニューデリーにある<ruby>日本<rt>にっぽん</rt></ruby><ruby>大使館<rt>たいしかん</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>歌舞伎<rt>かぶき</rt></ruby>とインドのカタカリという<ruby>踊<rt>おど</rt></ruby>りを<ruby>見<rt>み</rt></ruby>せるイベントがありました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/23/k10011106891000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/23/k10011106891000.mp3
+contents: "<p>インドのニューデリーにある<ruby>日本<rt>にっぽん</rt></ruby><ruby>大使館<rt>たいしかん</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>歌舞伎<rt>かぶき</rt></ruby></span>とインドのカタカリという<ruby>踊<rt>おど</rt></ruby>りを<ruby>見<rt>み</rt></ruby>せる<span\
+  \ style=\"color: blue;\">イベント</span>がありました。<ruby>日本<rt>にっぽん</rt></ruby>とインドの<span\
+  \ style=\"color: blue;\"><ruby>交流<rt>こうりゅう</rt></ruby></span>を<ruby>盛<rt>さか</rt></ruby>んにするため、<ruby>日本<rt>にっぽん</rt></ruby><ruby>大使館<rt>たいしかん</rt></ruby>が９０<ruby>人<rt>にん</rt></ruby>ぐらいを<ruby>招待<rt>しょうたい</rt></ruby>して<ruby>開<rt>ひら</rt></ruby>きました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>歌舞伎<rt>かぶき</rt></ruby></span>では、<span style=\"\
+  color: blue;\"><ruby>俳優<rt>はいゆう</rt></ruby></span>の<ruby>尾上<rt>おのえ</rt></ruby><ruby>菊之助<rt>きくのすけ</rt></ruby>さんが「<ruby>鐘ヶ岬<rt>かねがみさき</rt></ruby>」という<span\
+  \ style=\"color: blue;\"><ruby>劇<rt>げき</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>せました。<ruby>菊之助<rt>きくのすけ</rt></ruby>さんは、<ruby>女性<rt>じょせい</rt></ruby>が<ruby>男性<rt>だんせい</rt></ruby>を<ruby>好<rt>す</rt></ruby>きになった<ruby>気持<rt>きも</rt></ruby>ちを<ruby>踊<rt>おど</rt></ruby>りで<span\
+  \ style=\"color: blue;\"><ruby>表現<rt>ひょうげん</rt></ruby></span>して、<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>拍手<rt>はくしゅ</rt></ruby></span>をもらいました。</p>\n<p>カタカリはインドで<ruby>昔<rt>むかし</rt></ruby>から<ruby>続<rt>つづ</rt></ruby>いている<ruby>踊<rt>おど</rt></ruby>りです。<span\
+  \ style=\"color: blue;\"><ruby>歌舞伎<rt>かぶき</rt></ruby></span>と<ruby>同<rt>おな</rt></ruby>じように、<ruby>男性<rt>だんせい</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>化粧<rt>けしょう</rt></ruby></span>をして<ruby>踊<rt>おど</rt></ruby>ります。</p>\n\
+  <p>インド<ruby>人<rt>じん</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>は「<span style=\"color:\
+  \ blue;\"><ruby>歌舞伎<rt>かぶき</rt></ruby></span>はカタカリと<ruby>似<rt>に</rt></ruby>ている<ruby>所<rt>ところ</rt></ruby>もあるので、<ruby>興味<rt>きょうみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ちました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 歌舞伎
+  descriptions:
+  - <ruby><rb>江戸時代</rb><rt>えどじだい</rt></ruby>にさかんになった、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby><ruby><rb>独特</rb><rt>どくとく</rt></ruby>の<ruby><rb>劇</rb><rt>げき</rt></ruby>。<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>役者</rb><rt>やくしゃ</rt></ruby>だけで<ruby><rb>演</rb><rt>えん</rt></ruby>じる。
+- word: 交流
+  descriptions:
+  - たがいに<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>来</rb><rt>き</rt></ruby>すること。<ruby><rb>交</rb><rt>ま</rt></ruby>じり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時間</rb><rt>じかん</rt></ruby>ごとに、<ruby><rb>流</rb><rt>なが</rt></ruby>れの<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>が<ruby><rb>逆</rb><rt>ぎゃく</rt></ruby>になる<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 俳優
+  descriptions:
+  - <ruby><rb>劇</rb><rt>げき</rt></ruby>・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・テレビなどで、<ruby><rb>役</rb><rt>やく</rt></ruby>を<ruby><rb>演</rb><rt>えん</rt></ruby>じる<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>役者</rb><rt>やくしゃ</rt></ruby>。
+- word: 劇
+  descriptions:
+  - <ruby><rb>激</rb><rt>はげ</rt></ruby>しい。
+  - しばい。ドラマ。
+- word: 表現
+  descriptions:
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えたことや<ruby><rb>思</rb><rt>おも</rt></ruby>ったことを、ことば・<ruby><rb>身</rb><rt>み</rt></ruby>ぶり・<ruby><rb>文字</rb><rt>もじ</rt></ruby>・<ruby><rb>色</rb><rt>いろ</rt></ruby>・<ruby><rb>音</rb><rt>おと</rt></ruby>などで<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、その<ruby><rb>表</rb><rt>あらわ</rt></ruby>し<ruby><rb>方</rb><rt>かた</rt></ruby>。
+- word: 拍手
+  descriptions:
+  - ほめるときや、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>のときなどに、<ruby><rb>手</rb><rt>て</rt></ruby>のひらを<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 化粧
+  descriptions:
+  - おしろいや、<ruby><rb>紅</rb><rt>べに</rt></ruby>などをつけて、<ruby><rb>顔</rb><rt>かお</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+  - <ruby><rb>外側</rb><rt>そとがわ</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+web_news_url: /news/web/2017/08/22/歌舞伎とインドの伝統舞踊が夢の競演/
+source_url: http://www3.nhk.or.jp/news/easy/k10011106891000/k10011106891000.html
+...
