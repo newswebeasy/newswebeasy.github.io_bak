@@ -1,0 +1,71 @@
+---
+layout: easy_news
+newsid: k10011107491000
+categories: easy
+title: 暑い季節は食中毒に気をつけて
+title_with_ruby: <ruby>暑<rt>あつ</rt></ruby>い<ruby>季節<rt>きせつ</rt></ruby>は<ruby>食中毒<rt>しょくちゅうどく</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけて
+last_modified_at: '2017-08-23T16:30:00+09:00'
+datetime: 2017年08月23日 16時30分
+description: 埼玉県さいたまけんと群馬県ぐんまけんにある３つの店みせでポテトサラダを買かって食たべた１４人にんが、下痢げりをしたりおなかが痛いたくなったりしました。
+description_with_ruby: <ruby>埼玉県<rt>さいたまけん</rt></ruby>と<ruby>群馬県<rt>ぐんまけん</rt></ruby>にある３つの<ruby>店<rt>みせ</rt></ruby>でポテトサラダを<ruby>買<rt>か</rt></ruby>って<ruby>食<rt>た</rt></ruby>べた１４<ruby>人<rt>にん</rt></ruby>が、<ruby>下痢<rt>げり</rt></ruby>をしたりおなかが<ruby>痛<rt>いた</rt></ruby>くなったりしました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/23/k10011107491000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/23/k10011107491000.mp3
+contents: "<p><ruby>埼玉県<rt>さいたまけん</rt></ruby>と<ruby>群馬県<rt>ぐんまけん</rt></ruby>にある３つの<ruby>店<rt>みせ</rt></ruby>でポテトサラダを<ruby>買<rt>か</rt></ruby>って<ruby>食<rt>た</rt></ruby>べた１４<ruby>人<rt>にん</rt></ruby>が、<span\
+  \ style=\"color: blue;\"><ruby>下痢<rt>げり</rt></ruby></span>をしたりおなかが<ruby>痛<rt>いた</rt></ruby>くなったりしました。この<ruby>中<rt>なか</rt></ruby>の１０<ruby>人<rt>にん</rt></ruby>は、<ruby>体<rt>からだ</rt></ruby>から「Ｏ１５７」という<span\
+  \ style=\"color: blue;\"><ruby>菌<rt>きん</rt></ruby></span>が<ruby>見<rt>み</rt></ruby>つかりました。「Ｏ１５７」はひどい<span\
+  \ style=\"color: blue;\"><ruby>食中毒<rt>しょくちゅうどく</rt></ruby></span>の<ruby>原因<rt>げんいん</rt></ruby>になります。３つの<ruby>店<rt>みせ</rt></ruby>は、<ruby>同<rt>おな</rt></ruby>じ<ruby>工場<rt>こうじょう</rt></ruby>で<ruby>作<rt>つく</rt></ruby>ったポテトサラダに、<span\
+  \ style=\"color: blue;\">ハム</span>や<span style=\"color: blue;\">りんご</span>などを<ruby>入<rt>い</rt></ruby>れて<ruby>売<rt>う</rt></ruby>っていました。</p>\n\
+  <p><ruby>専門家<rt>せんもんか</rt></ruby>によると、<ruby>子<rt>こ</rt></ruby>どもやお<span style=\"\
+  color: blue;\"><ruby>年寄<rt>としよ</rt></ruby>り</span>は「Ｏ１５７」が<ruby>原因<rt>げんいん</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなることがあります。</p>\n\
+  <p><ruby>専門家<rt>せんもんか</rt></ruby>は、<ruby>店<rt>みせ</rt></ruby>で<ruby>買<rt>か</rt></ruby>った<ruby>料理<rt>りょうり</rt></ruby>はすぐ<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れて、できるだけ<ruby>早<rt>はや</rt></ruby>く<ruby>食<rt>た</rt></ruby>べるように<ruby>言<rt>い</rt></ruby>っています。<ruby>暑<rt>あつ</rt></ruby>い<ruby>季節<rt>きせつ</rt></ruby>は、<ruby>肉<rt>にく</rt></ruby>だけではなくて、サラダなど<span\
+  \ style=\"color: blue;\"><ruby>生<rt>なま</rt></ruby></span>の<ruby>野菜<rt>やさい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>料理<rt>りょうり</rt></ruby>にも<ruby>気<rt>き</rt></ruby>をつけてください。<ruby>野菜<rt>やさい</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>い</span>ている<span style=\"color:\
+  \ blue;\"><ruby>土<rt>つち</rt></ruby></span>をよく<ruby>洗<rt>あら</rt></ruby>うことが<ruby>大切<rt>たいせつ</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 食中毒
+  descriptions:
+  - ばいきんがついたり、<ruby><rb>毒</rb><rt>どく</rt></ruby>のある<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>を、<ruby><rb>食</rb><rt>た</rt></ruby>べたり<ruby><rb>飲</rb><rt>の</rt></ruby>んだりして<ruby><rb>病気</rb><rt>びょうき</rt></ruby>になること。<ruby><rb>食</rb><rt>しょく</rt></ruby>あたり。
+- word: 下痢
+  descriptions:
+  - おなかをこわして、<ruby><rb>水</rb><rt>みず</rt></ruby>けの<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>大便</rb><rt>だいべん</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>ること。<ruby><rb>腹</rb><rt>はら</rt></ruby>くだし。
+- word: 菌
+  descriptions:
+  - <ruby><rb>目</rb><rt>め</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>えない、ごく<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。<ruby><rb>物</rb><rt>もの</rt></ruby>をくさらせたり<ruby><rb>病気</rb><rt>びょうき</rt></ruby>のもとになったりする。バクテリア。
+  - カビやキノコなどの<ruby><rb>胞子植物</rb><rt>ほうししょくぶつ</rt></ruby>。また、キノコの<ruby><rb>胞子</rb><rt>ほうし</rt></ruby>。
+- word: ハム
+  descriptions:
+  - ブタの<ruby><rb>肉</rb><rt>にく</rt></ruby>を<ruby><rb>塩</rb><rt>しお</rt></ruby>づけにして、けむりでいぶした<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+  - アマチュア（しろうと）の、<ruby><rb>無線通信</rb><rt>むせんつうしん</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: りんご
+  descriptions:
+  - <ruby><rb>寒</rb><rt>さむ</rt></ruby>い<ruby><rb>地方</rb><rt>ちほう</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>られる<ruby><rb>果物</rb><rt>くだもの</rt></ruby>。あまずっぱくて、かおりがよい。<ruby><rb>五月</rb><rt>ごがつ</rt></ruby>ごろ<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>き、<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>実</rb><rt>みの</rt></ruby>る。
+- word: 年寄り
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。
+  - <ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 生
+  descriptions:
+  - にたり、<ruby><rb>焼</rb><rt>や</rt></ruby>いたり、<ruby><rb>干</rb><rt>ほ</rt></ruby>したりしてない、そのままのもの。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>えず、そのままじかに<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+  - <ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>でないようす。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>えてないようす。
+  - じかに<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+  - <ruby><rb>生</rb><rt>なま</rt></ruby>ビールのこと。
+  - <ruby><rb>半端</rb><rt>はんぱ</rt></ruby>で、はっきりしないようす。
+- word: 付く
+  descriptions:
+  - ものがくっつく。
+  - つきそう。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>わる。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まる。
+  - <ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。
+  - <ruby><rb>感</rb><rt>かん</rt></ruby>じる。
+  - ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。
+- word: 土
+  descriptions:
+  - <ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>がくだけて、<ruby><rb>粉</rb><rt>こな</rt></ruby>になったもの。どろ。
+  - <ruby><rb>陸地</rb><rt>りくち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>地面</rb><rt>じめん</rt></ruby>。
+web_news_url: /news/web/2017/08/22/O157対策-冷蔵庫で保管し早めに食べて/
+source_url: http://www3.nhk.or.jp/news/easy/k10011107491000/k10011107491000.html
+...
