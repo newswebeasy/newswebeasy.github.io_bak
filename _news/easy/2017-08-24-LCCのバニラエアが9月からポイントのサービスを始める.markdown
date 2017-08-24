@@ -1,0 +1,41 @@
+---
+layout: easy_news
+newsid: k10011107541000
+categories: easy
+title: ＬＣＣのバニラエアが９月からポイントのサービスを始める
+title_with_ruby: ＬＣＣのバニラエアが９<ruby>月<rt>がつ</rt></ruby>からポイントのサービスを<ruby>始<rt>はじ</rt></ruby>める
+last_modified_at: '2017-08-24T11:30:00+09:00'
+datetime: 2017年08月24日 11時30分
+description: 飛行機ひこうき代だいが安やすい航空こうくう会社がいしゃをＬＣＣと言いいます。
+description_with_ruby: <ruby>飛行機<rt>ひこうき</rt></ruby><ruby>代<rt>だい</rt></ruby>が<ruby>安<rt>やす</rt></ruby>い<ruby>航空<rt>こうくう</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>をＬＣＣと<ruby>言<rt>い</rt></ruby>います。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/24/k10011107541000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/24/k10011107541000.mp3
+contents: "<p><ruby>飛行機<rt>ひこうき</rt></ruby><ruby>代<rt>だい</rt></ruby>が<ruby>安<rt>やす</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>航空<rt>こうくう</rt></ruby></span><ruby>会社<rt>がいしゃ</rt></ruby>をＬＣＣと<ruby>言<rt>い</rt></ruby>います。ＬＣＣのバニラエアは、<ruby>飛行機<rt>ひこうき</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ると<span\
+  \ style=\"color: blue;\">ポイント</span>をもらうことができる<span style=\"color: blue;\">サービス</span>を９<ruby>月<rt>がつ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めます。<ruby>集<rt>あつ</rt></ruby>まった<span\
+  \ style=\"color: blue;\">ポイント</span>は、<ruby>飛行機<rt>ひこうき</rt></ruby>の<span style=\"\
+  color: blue;\">チケット</span>を<ruby>買<rt>か</rt></ruby>うときなどにお<ruby>金<rt>かね</rt></ruby>の<ruby>代<rt>か</rt></ruby>わりに<ruby>使<rt>つか</rt></ruby>うことができます。</p>\n\
+  <p><span style=\"color: blue;\">ポイント</span>の<span style=\"color: blue;\">サービス</span>は、ほかの<span\
+  \ style=\"color: blue;\"><ruby>航空<rt>こうくう</rt></ruby></span><ruby>会社<rt>がいしゃ</rt></ruby>にもありますが、<ruby>日本<rt>にっぽん</rt></ruby>のＬＣＣでは<ruby>初<rt>はじ</rt></ruby>めてです。</p>\n\
+  <p>ＬＣＣはほかにもいろいろな<span style=\"color: blue;\">サービス</span>を<ruby>始<rt>はじ</rt></ruby>めています。「ピーチ・アビエーション」では、<ruby>空<rt>あ</rt></ruby>いている<ruby>隣<rt>となり</rt></ruby>の<ruby>席<rt>せき</rt></ruby>を<ruby>安<rt>やす</rt></ruby>く<ruby>買<rt>か</rt></ruby>うことができます。「ジェットスター・ジャパン」では、スマートフォンだけで<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>予約<rt>よやく</rt></ruby>や<ruby>乗<rt>の</rt></ruby>るときの<span\
+  \ style=\"color: blue;\">チケット</span>のチェックなどが<ruby>全部<rt>ぜんぶ</rt></ruby>できます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ポイント
+  descriptions:
+  - <ruby><rb>点</rb><rt>てん</rt></ruby>。<ruby><rb>要点</rb><rt>ようてん</rt></ruby>。
+  - <ruby><rb>得点</rb><rt>とくてん</rt></ruby>。<ruby><rb>点数</rb><rt>てんすう</rt></ruby>。
+  - <ruby><rb>線路</rb><rt>せんろ</rt></ruby>の<ruby><rb>分</rb><rt>わ</rt></ruby>かれ<ruby><rb>目</rb><rt>め</rt></ruby>で、<ruby><rb>車両</rb><rt>しゃりょう</rt></ruby>を<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れかえる<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>転</rb><rt>てん</rt></ruby>てつ<ruby><rb>機</rb><rt>き</rt></ruby>。
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: 航空
+  descriptions:
+  - <ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>などで<ruby><rb>空</rb><rt>そら</rt></ruby>を<ruby><rb>飛</rb><rt>と</rt></ruby>ぶこと。
+- word: チケット
+  descriptions:
+  - きっぷ。<ruby><rb>券</rb><rt>けん</rt></ruby>。<ruby><rb>入場券</rb><rt>にゅうじょうけん</rt></ruby>・<ruby><rb>乗車券</rb><rt>じょうしゃけん</rt></ruby>・<ruby><rb>食券</rb><rt>しょっけん</rt></ruby>など。
+web_news_url: /news/web/2017/08/22/バニラエア-ポイントサービス導入へ-LCCで初めて/
+source_url: http://www3.nhk.or.jp/news/easy/k10011107541000/k10011107541000.html
+...
