@@ -1,0 +1,66 @@
+---
+layout: easy_news
+newsid: k10011108621000
+categories: easy
+title: 天気が悪い日が続いて野菜の値段が上がる
+title_with_ruby: <ruby>天気<rt>てんき</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて<ruby>野菜<rt>やさい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がる
+last_modified_at: '2017-08-24T15:30:00+09:00'
+datetime: 2017年08月24日 15時30分
+description: 東北地方とうほくちほうと北海道ほっかいどうの東側ひがしがわと関東地方かんとうちほうでは、７月がつの終おわりごろから雨あめや曇くもりの日ひが多おおくて、気温きおんが低ひくい日ひが続つづきました。
+description_with_ruby: <ruby>東北地方<rt>とうほくちほう</rt></ruby>と<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>東側<rt>ひがしがわ</rt></ruby>と<ruby>関東地方<rt>かんとうちほう</rt></ruby>では、７<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろから<ruby>雨<rt>あめ</rt></ruby>や<ruby>曇<rt>くも</rt></ruby>りの<ruby>日<rt>ひ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くて、<ruby>気温<rt>きおん</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>きました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/24/k10011108621000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/24/k10011108621000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>東北地方<rt>とうほくちほう</rt></ruby></span>と<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>東側<rt>ひがしがわ</rt></ruby>と<span\
+  \ style=\"color: blue;\"><ruby>関東地方<rt>かんとうちほう</rt></ruby></span>では、７<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろから<ruby>雨<rt>あめ</rt></ruby>や<ruby>曇<rt>くも</rt></ruby>りの<ruby>日<rt>ひ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くて、<span\
+  \ style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>低<rt>ひく</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>きました。このため、<span\
+  \ style=\"color: blue;\">きゅうり</span>や<span style=\"color: blue;\">トマト</span>などの<ruby>野菜<rt>やさい</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>育<rt>そだ</rt></ruby>つ</span>のが<ruby>遅<rt>おく</rt></ruby>れています。</p>\n\
+  <p><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby>は２３<ruby>日<rt>にち</rt></ruby>、４７０のスーパーなどで<ruby>調<rt>しら</rt></ruby>べた５つの<ruby>野菜<rt>やさい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p><span\
+  \ style=\"color: blue;\">きゅうり</span>の１ｋｇの<ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>は、その<ruby>前<rt>まえ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>週<rt>しゅう</rt></ruby></span>より１９％<ruby>上<rt>あ</rt></ruby>がりました。<span\
+  \ style=\"color: blue;\">トマト</span>の<ruby>値段<rt>ねだん</rt></ruby>は１２％<ruby>上<rt>あ</rt></ruby>がりました。どちらの<ruby>野菜<rt>やさい</rt></ruby>もいつもの<ruby>年<rt>とし</rt></ruby>より１０％<ruby>以上<rt>いじょう</rt></ruby><ruby>高<rt>たか</rt></ruby>くなっています。<span\
+  \ style=\"color: blue;\">キャベツ</span>は<ruby>前<rt>まえ</rt></ruby>の<span style=\"color:\
+  \ blue;\"><ruby>週<rt>しゅう</rt></ruby></span>より２６％<ruby>上<rt>あ</rt></ruby>がって、いつもの<ruby>年<rt>とし</rt></ruby>より４％<ruby>高<rt>たか</rt></ruby>くなりました。</p>\n\
+  <p><span style=\"color: blue;\">レタス</span>と<span style=\"color: blue;\">たまねぎ</span>も<ruby>前<rt>まえ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>週<rt>しゅう</rt></ruby></span>より<ruby>高<rt>たか</rt></ruby>くなりましたが、いつもの<ruby>年<rt>とし</rt></ruby>よりは<ruby>安<rt>やす</rt></ruby>くなっています。</p>\n\
+  <p><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby>は「これから<ruby>天気<rt>てんき</rt></ruby>がいい<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いても、８<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろまでは<ruby>高<rt>たか</rt></ruby>い<ruby>値段<rt>ねだん</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>くと<ruby>思<rt>おも</rt></ruby>います」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>\n<p></p>"
+words:
+- word: 東北地方
+  descriptions:
+  - <ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>の<ruby><rb>北東部</rb><rt>ほくとうぶ</rt></ruby>にあたる<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>青森</rb><rt>あおもり</rt></ruby>・<ruby><rb>秋田</rb><rt>あきた</rt></ruby>・<ruby><rb>岩手</rb><rt>いわて</rt></ruby>・<ruby><rb>宮城</rb><rt>みやぎ</rt></ruby>・<ruby><rb>山形</rb><rt>やまがた</rt></ruby>・<ruby><rb>福島</rb><rt>ふくしま</rt></ruby>の<ruby><rb>六県</rb><rt>ろっけん</rt></ruby>がある。
+- word: 関東地方
+  descriptions:
+  - <ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>ほどにある、<ruby><rb>太平洋側</rb><rt>たいへいようがわ</rt></ruby>の<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>・<ruby><rb>神奈川</rb><rt>かながわ</rt></ruby>・<ruby><rb>埼玉</rb><rt>さいたま</rt></ruby>・<ruby><rb>千葉</rb><rt>ちば</rt></ruby>・<ruby><rb>群馬</rb><rt>ぐんま</rt></ruby>・<ruby><rb>栃木</rb><rt>とちぎ</rt></ruby>・<ruby><rb>茨城</rb><rt>いばらき</rt></ruby>の<ruby><rb>一都六県</rb><rt>いっとろっけん</rt></ruby>がある。
+- word: 気温
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。
+- word: 胡瓜
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>野菜</rb><rt>やさい</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>に<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>き、<ruby><rb>緑色</rb><rt>みどりいろ</rt></ruby>の<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>実</rb><rt>み</rt></ruby>がなる。つけ<ruby><rb>物</rb><rt>もの</rt></ruby>やサラダにして<ruby><rb>食</rb><rt>た</rt></ruby>べる。
+- word: トマト
+  descriptions:
+  - ナスのなかまの<ruby><rb>野菜</rb><rt>やさい</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>赤</rb><rt>あか</rt></ruby>く<ruby><rb>熟</rb><rt>じゅく</rt></ruby>した<ruby><rb>実</rb><rt>み</rt></ruby>を、<ruby><rb>生</rb><rt>なま</rt></ruby>で<ruby><rb>食</rb><rt>た</rt></ruby>べたり、<ruby><rb>料理</rb><rt>りょうり</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>ったりする。
+- word: 育つ
+  descriptions:
+  - <ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+  - <ruby><rb>一人前</rb><rt>いちにんまえ</rt></ruby>になる。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 週
+  descriptions:
+  - <ruby><rb>日曜</rb><rt>にちよう</rt></ruby>から<ruby><rb>土曜</rb><rt>どよう</rt></ruby>までの<ruby><rb>七日間</rb><rt>なのかかん</rt></ruby>。
+- word: キャベツ
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>野菜</rb><rt>やさい</rt></ruby>。<ruby><rb>短</rb><rt>みじか</rt></ruby>い<ruby><rb>茎</rb><rt>くき</rt></ruby>に、<ruby><rb>厚</rb><rt>あつ</rt></ruby>くて<ruby><rb>大</rb><rt>おお</rt></ruby>きい<ruby><rb>葉</rb><rt>は</rt></ruby>が<ruby><rb>重</rb><rt>かさ</rt></ruby>なって、<ruby><rb>球</rb><rt>たま</rt></ruby>のように<ruby><rb>巻</rb><rt>ま</rt></ruby>く。カンラン。タマナ。
+- word: レタス
+  descriptions:
+  - キャベツに<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>西洋野菜</rb><rt>せいようやさい</rt></ruby>。サラダなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。タマヂシャ。
+- word: たまねぎ
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>野菜</rb><rt>やさい</rt></ruby>の<ruby><rb>一種</rb><rt>いっしゅ</rt></ruby>。<ruby><rb>地下</rb><rt>ちか</rt></ruby>の<ruby><rb>茎</rb><rt>くき</rt></ruby>が<ruby><rb>球形</rb><rt>きゅうけい</rt></ruby>になって、<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>になる。
+web_news_url: /news/web/2017/08/23/天候不順で野菜の小売価格も上昇/
+source_url: http://www3.nhk.or.jp/news/easy/k10011108621000/k10011108621000.html
+...
