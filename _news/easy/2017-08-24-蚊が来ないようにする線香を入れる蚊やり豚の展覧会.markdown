@@ -1,0 +1,44 @@
+---
+layout: easy_news
+newsid: k10011107821000
+categories: easy
+title: 蚊が来ないようにする線香を入れる「蚊やり豚」の展覧会
+title_with_ruby: <ruby>蚊<rt>か</rt></ruby>が<ruby>来<rt>こ</rt></ruby>ないようにする<ruby>線香<rt>せんこう</rt></ruby>を<ruby>入<rt>い</rt></ruby>れる「<ruby>蚊<rt>か</rt></ruby>やり<ruby>豚<rt>ぶた</rt></ruby>」の<ruby>展覧会<rt>てんらんかい</rt></ruby>
+last_modified_at: '2017-08-24T11:30:00+09:00'
+datetime: 2017年08月24日 11時30分
+description: 三重県みえけん四日市市よっかいちしで、いろいろな絵えをかいたり色いろを塗ぬったりした「蚊かやり豚ぶた」の展覧会てんらんかいを行おこなっています。
+description_with_ruby: <ruby>三重県<rt>みえけん</rt></ruby><ruby>四日市市<rt>よっかいちし</rt></ruby>で、いろいろな<ruby>絵<rt>え</rt></ruby>をかいたり<ruby>色<rt>いろ</rt></ruby>を<ruby>塗<rt>ぬ</rt></ruby>ったりした「<ruby>蚊<rt>か</rt></ruby>やり<ruby>豚<rt>ぶた</rt></ruby>」の<ruby>展覧会<rt>てんらんかい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201708/news/easy/image/2017/08/24/k10011107821000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/24/k10011107821000.mp3
+contents: "<p><ruby>三重県<rt>みえけん</rt></ruby><ruby>四日市市<rt>よっかいちし</rt></ruby>で、いろいろな<ruby>絵<rt>え</rt></ruby>をかいたり<ruby>色<rt>いろ</rt></ruby>を<ruby>塗<rt>ぬ</rt></ruby>ったりした「<ruby>蚊<rt>か</rt></ruby>やり<ruby>豚<rt>ぶた</rt></ruby>」の<ruby>展覧会<rt>てんらんかい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>っています。<ruby>蚊<rt>か</rt></ruby>やり<ruby>豚<rt>ぶた</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>豚<rt>ぶた</rt></ruby></span>の<ruby>形<rt>かたち</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>焼<rt>や</rt></ruby>き<ruby>物<rt>もの</rt></ruby></span>で、<span\
+  \ style=\"color: blue;\"><ruby>蚊<rt>か</rt></ruby></span>が<ruby>来<rt>こ</rt></ruby>ないようにする<span\
+  \ style=\"color: blue;\"><ruby>線香<rt>せんこう</rt></ruby></span>を<ruby>入<rt>い</rt></ruby>れて<ruby>使<rt>つか</rt></ruby>います。</p>\n\
+  <p><ruby>四日市市<rt>よっかいちし</rt></ruby>の「<ruby>萬古焼<rt>ばんこやき</rt></ruby>」という<span style=\"\
+  color: blue;\"><ruby>焼<rt>や</rt></ruby>き<ruby>物<rt>もの</rt></ruby></span>を<ruby>紹介<rt>しょうかい</rt></ruby>するために、５０<ruby>個<rt>こ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めて<ruby>見<rt>み</rt></ruby>せています。<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>で６<ruby>月<rt>がつ</rt></ruby>に<ruby>生<rt>う</rt></ruby>まれた<span\
+  \ style=\"color: blue;\">パンダ</span>の<ruby>赤<rt>あか</rt></ruby>ちゃんのように、<ruby>耳<rt>みみ</rt></ruby>や<ruby>目<rt>め</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りを<ruby>黒<rt>くろ</rt></ruby>く<ruby>塗<rt>ぬ</rt></ruby>った<ruby>蚊<rt>か</rt></ruby>やり<ruby>豚<rt>ぶた</rt></ruby>もあります。</p>\n\
+  <p><ruby>愛知県<rt>あいちけん</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>全部<rt>ぜんぶ</rt></ruby>よくできていておもしろいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>展覧会<rt>てんらんかい</rt></ruby>は９<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>までです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 蚊
+  descriptions:
+  - めすが<ruby><rb>人</rb><rt>ひと</rt></ruby>などの<ruby><rb>血</rb><rt>ち</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>う、<ruby><rb>昆虫</rb><rt>こんちゅう</rt></ruby>。アカイエカ・ハマダラカなど。<ruby><rb>幼虫</rb><rt>ようちゅう</rt></ruby>はぼうふら。<ruby><rb>病気</rb><rt>びょうき</rt></ruby>のもとになる<ruby><rb>菌</rb><rt>きん</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶことがある。
+- word: 線香
+  descriptions:
+  - かおりのよい<ruby><rb>草</rb><rt>くさ</rt></ruby>や<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>葉</rb><rt>は</rt></ruby>の<ruby><rb>粉</rb><rt>こな</rt></ruby>を、<ruby><rb>線</rb><rt>せん</rt></ruby>のように<ruby><rb>細</rb><rt>ほそ</rt></ruby>く<ruby><rb>練</rb><rt>ね</rt></ruby>り<ruby><rb>固</rb><rt>かた</rt></ruby>めたもの。<ruby><rb>仏壇</rb><rt>ぶつだん</rt></ruby>などでたく。
+- word: 豚
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>飼</rb><rt>か</rt></ruby>われているけもの。ずんぐり<ruby><rb>太</rb><rt>ふと</rt></ruby>っている。<ruby><rb>肉</rb><rt>にく</rt></ruby>は<ruby><rb>食</rb><rt>た</rt></ruby>べられ、<ruby><rb>皮</rb><rt>かわ</rt></ruby>も<ruby><rb>使</rb><rt>つか</rt></ruby>われる。
+- word: 焼き物
+  descriptions:
+  - <ruby><rb>土</rb><rt>つち</rt></ruby>を<ruby><rb>焼</rb><rt>や</rt></ruby>いて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>陶器</rb><rt>とうき</rt></ruby>や<ruby><rb>磁器</rb><rt>じき</rt></ruby>など。
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>肉</rb><rt>にく</rt></ruby>などを、<ruby><rb>火</rb><rt>ひ</rt></ruby>で<ruby><rb>焼</rb><rt>や</rt></ruby>いた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: パンダ
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中央部</rb><rt>ちゅうおうぶ</rt></ruby>にすむけもの。ジャイアントパンダとレッサーパンダがいる。
+  - <ruby><rb>特</rb><rt>とく</rt></ruby>にジャイアントパンダ。<ruby><rb>中国西部</rb><rt>ちゅうごくせいぶ</rt></ruby>の<ruby><rb>山地</rb><rt>さんち</rt></ruby>にすむ。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>に<ruby><rb>色分</rb><rt>いろわ</rt></ruby>けされて、<ruby><rb>顔</rb><rt>かお</rt></ruby>つきや<ruby><rb>動作</rb><rt>どうさ</rt></ruby>がかわいい。
+web_news_url: /news/web/2017/08/22/蚊やり豚の作品展-三重-四日市/
+source_url: http://www3.nhk.or.jp/news/easy/k10011107821000/k10011107821000.html
+...
