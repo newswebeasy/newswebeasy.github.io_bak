@@ -1,0 +1,73 @@
+---
+layout: easy_news
+newsid: k10011108481000
+categories: easy
+title: ３００以上の会社が葬式などの新しいサービスを紹介する
+title_with_ruby: ３００<ruby>以上<rt>いじょう</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>葬式<rt>そうしき</rt></ruby>などの<ruby>新<rt>あたら</rt></ruby>しいサービスを<ruby>紹介<rt>しょうかい</rt></ruby>する
+last_modified_at: '2017-08-24T15:30:00+09:00'
+datetime: 2017年08月24日 15時30分
+description: 日本にっぽんで去年きょねん亡なくなった人ひとは約やく１３０万まん人にんで、２０年ねん前まえの１．５倍ばいぐらいになっています。
+description_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>で<ruby>去年<rt>きょねん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>は<ruby>約<rt>やく</rt></ruby>１３０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>で、２０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の１．５<ruby>倍<rt>ばい</rt></ruby>ぐらいになっています。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/24/k10011108481000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/24/k10011108481000.mp3
+contents: "<p><ruby>日本<rt>にっぽん</rt></ruby>で<ruby>去年<rt>きょねん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１３０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>で、２０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の１．５<ruby>倍<rt>ばい</rt></ruby>ぐらいになっています。<ruby>自分<rt>じぶん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなったあとの<span\
+  \ style=\"color: blue;\"><ruby>葬式<rt>そうしき</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>墓<rt>はか</rt></ruby></span>について<ruby>考<rt>かんが</rt></ruby>えている<ruby>人<rt>ひと</rt></ruby>も<ruby>増<rt>ふ</rt></ruby>えています。</p>\n\
+  <p>２３<ruby>日<rt>にち</rt></ruby>から<ruby>東京<rt>とうきょう</rt></ruby>ビッグサイトで、３００<ruby>以上<rt>いじょう</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>葬式<rt>そうしき</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>墓<rt>はか</rt></ruby></span>などの<span style=\"color: blue;\">サービス</span>を<ruby>紹介<rt>しょうかい</rt></ruby>する<span\
+  \ style=\"color: blue;\">イベント</span>が<ruby>始<rt>はじ</rt></ruby>まりました。</p>\n<p><ruby>会場<rt>かいじょう</rt></ruby>には、<span\
+  \ style=\"color: blue;\">ＩＴ</span>の<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\">サービス</span>がたくさんあります。<ruby>例<rt>たと</rt></ruby>えば、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>のカメラで<span\
+  \ style=\"color: blue;\"><ruby>墓<rt>はか</rt></ruby></span>などに<ruby>貼<rt>は</rt></ruby>ったＱＲコードを<ruby>撮<rt>と</rt></ruby>ると、<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>の<ruby>昔<rt>むかし</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>などをすぐに<ruby>見<rt>み</rt></ruby>ることができます。お<span\
+  \ style=\"color: blue;\"><ruby>坊<rt>ぼう</rt></ruby>さん</span>の<ruby>代<rt>か</rt></ruby>わりに<span\
+  \ style=\"color: blue;\">ロボット</span>がお<span style=\"color: blue;\"><ruby>経<rt>きょう</rt></ruby></span>を<ruby>読<rt>よ</rt></ruby>んだり、<span\
+  \ style=\"color: blue;\"><ruby>葬式<rt>そうしき</rt></ruby></span>に<ruby>来<rt>く</rt></ruby>ることができない<ruby>人<rt>ひと</rt></ruby>のためにインターネットで<ruby>式<rt>しき</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>様子<rt>ようす</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>せたりする<span\
+  \ style=\"color: blue;\">サービス</span>もあります。</p>\n<p><ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「みんなが<ruby>興味<rt>きょうみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>つような<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\">サービス</span>をいろいろ<ruby>考<rt>かんが</rt></ruby>えていきたいです」と<ruby>話<rt>はな</rt></ruby>していました。この<span\
+  \ style=\"color: blue;\">イベント</span>は２５<ruby>日<rt>にち</rt></ruby>までです。</p>\n<p></p>"
+words:
+- word: 葬式
+  descriptions:
+  - <ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>を、とむらう<ruby><rb>儀式</rb><rt>ぎしき</rt></ruby>。とむらい。<ruby><rb>葬儀</rb><rt>そうぎ</rt></ruby>。
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 墓
+  descriptions:
+  - <ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>や、お<ruby><rb>骨</rb><rt>こつ</rt></ruby>をうめる<ruby><rb>所</rb><rt>ところ</rt></ruby>。また、そのしるし。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: IT
+  descriptions:
+  - コンピューターを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>とした<ruby><rb>情報技術</rb><rt>じょうほうぎじゅつ</rt></ruby>。
+- word: 坊さん
+  descriptions:
+  - <ruby><rb>仏</rb><rt>ほとけ</rt></ruby>に<ruby><rb>仕</rb><rt>つか</rt></ruby>える<ruby><rb>人</rb><rt>ひと</rt></ruby>。「<ruby><rb>僧侶</rb><rt>そうりょ</rt></ruby>」を<ruby><rb>親</rb><rt>した</rt></ruby>しみ<ruby><rb>敬</rb><rt>うやま</rt></ruby>って<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶことば。
+- word: ロボット
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>磁気</rb><rt>じき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。<ruby><rb>人造</rb><rt>じんぞう</rt></ruby><ruby><rb>人間</rb><rt>にんげん</rt></ruby>。
+  - <ruby><rb>工場</rb><rt>こうじょう</rt></ruby>などで<ruby><rb>人間</rb><rt>にんげん</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって、<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。
+  - （いつも）<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>いなりになって<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 経
+  descriptions:
+  - <ruby><rb>仏</rb><rt>ほとけ</rt></ruby>の<ruby><rb>教</rb><rt>おし</rt></ruby>えを<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>文</rb><rt>ぶん</rt></ruby>。お<ruby><rb>経</rb><rt>きょう</rt></ruby>。
+- word: 様子
+  descriptions:
+  - ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。
+  - <ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。
+  - そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。
+  - わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。
+web_news_url: /news/web/2017/08/23/自分らしい葬儀や供養を-エンディング産業展始まる/
+source_url: http://www3.nhk.or.jp/news/easy/k10011108481000/k10011108481000.html
+...
