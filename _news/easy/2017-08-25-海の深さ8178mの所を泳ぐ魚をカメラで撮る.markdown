@@ -1,0 +1,59 @@
+---
+layout: easy_news
+newsid: k10011110041000
+categories: easy
+title: 海の深さ８１７８ｍの所を泳ぐ魚をカメラで撮る
+title_with_ruby: <ruby>海<rt>うみ</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>さ８１７８ｍの<ruby>所<rt>ところ</rt></ruby>を<ruby>泳<rt>およ</rt></ruby>ぐ<ruby>魚<rt>さかな</rt></ruby>をカメラで<ruby>撮<rt>と</rt></ruby>る
+last_modified_at: '2017-08-25T16:30:00+09:00'
+datetime: 2017年08月25日 16時30分
+description: 海うみの深ふかい所ところでは水みずの圧力あつりょくが強つよいため、魚さかながいるのは深ふかさ８２００ｍまでだと考かんがえられています。
+description_with_ruby: <ruby>海<rt>うみ</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>では<ruby>水<rt>みず</rt></ruby>の<ruby>圧力<rt>あつりょく</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>いため、<ruby>魚<rt>さかな</rt></ruby>がいるのは<ruby>深<rt>ふか</rt></ruby>さ８２００ｍまでだと<ruby>考<rt>かんが</rt></ruby>えられています。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/25/k10011110041000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/25/k10011110041000.mp3
+contents: "<p><ruby>海<rt>うみ</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>では<ruby>水<rt>みず</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>圧力<rt>あつりょく</rt></ruby></span>が<ruby>強<rt>つよ</rt></ruby>いため、<ruby>魚<rt>さかな</rt></ruby>がいるのは<ruby>深<rt>ふか</rt></ruby>さ８２００ｍまでだと<ruby>考<rt>かんが</rt></ruby>えられています。これを<span\
+  \ style=\"color: blue;\"><ruby>確<rt>たし</rt></ruby>かめる</span>ため、<ruby>海洋研究開発機構<rt>かいようけんきゅうかいはつきこう</rt></ruby>とＮＨＫは<ruby>今年<rt>ことし</rt></ruby>５<ruby>月<rt>がつ</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>太平洋<rt>たいへいよう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">マリアナ<ruby>海溝<rt>かいこう</rt></ruby></span>で、<ruby>深<rt>ふか</rt></ruby>さ８１７８ｍまでカメラを<span\
+  \ style=\"color: blue;\"><ruby>降<rt>お</rt></ruby>ろし</span>ました。とてもきれいに<ruby>写<rt>うつ</rt></ruby>すことができる４Ｋカメラを<ruby>使<rt>つか</rt></ruby>いました。</p>\n\
+  <p>１７<ruby>時間<rt>じかん</rt></ruby><ruby>半<rt>はん</rt></ruby>が<ruby>過<rt>す</rt></ruby>ぎたころ、<ruby>魚<rt>さかな</rt></ruby>が１<ruby>匹<rt>ぴき</rt></ruby>カメラに<span\
+  \ style=\"color: blue;\"><ruby>映<rt>うつ</rt></ruby>り</span>ました。この<ruby>魚<rt>さかな</rt></ruby>はシンカイクサウオという<ruby>魚<rt>さかな</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>仲間<rt>なかま</rt></ruby></span>のようです。<ruby>体<rt>からだ</rt></ruby>の<ruby>長<rt>なが</rt></ruby>さは２０ｃｍぐらいで、<ruby>色<rt>いろ</rt></ruby>は<ruby>白<rt>しろ</rt></ruby>です。<ruby>頭<rt>あたま</rt></ruby>のほうが<ruby>大<rt>おお</rt></ruby>きくて、ゆっくり<ruby>泳<rt>およ</rt></ruby>ぎます。</p>\n\
+  <p>これは<ruby>海<rt>うみ</rt></ruby>の<ruby>最<rt>もっと</rt></ruby>も<ruby>深<rt>ふか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>にいる<ruby>魚<rt>さかな</rt></ruby>をカメラで<ruby>撮<rt>と</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>になりました。</p>\n<p><ruby>海洋研究開発機構<rt>かいようけんきゅうかいはつきこう</rt></ruby>の<ruby>専門家<rt>せんもんか</rt></ruby>は「<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>魚<rt>さかな</rt></ruby>がいて、とてもうれしいです。これから<ruby>海<rt>うみ</rt></ruby>のとても<ruby>深<rt>ふか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>にいる<ruby>魚<rt>さかな</rt></ruby>をもっと<ruby>研究<rt>けんきゅう</rt></ruby>したいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 圧力
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>をおしつける<ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>空気</rb><rt>くうき</rt></ruby>の<ruby><rb>圧力</rb><rt>あつりょく</rt></ruby>を<ruby><rb>気圧</rb><rt>きあつ</rt></ruby>、<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>圧力</rb><rt>あつりょく</rt></ruby>を<ruby><rb>水圧</rb><rt>すいあつ</rt></ruby>という。
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>強</rb><rt>つよ</rt></ruby>くはたらきかけること。
+- word: 確かめる
+  descriptions:
+  - まちがいがないようにする。あやふやな<ruby><rb>点</rb><rt>てん</rt></ruby>を、はっきりさせる。
+- word: 太平洋
+  descriptions:
+  - アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: マリアナ海溝
+  descriptions:
+  - <ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>の<ruby><rb>西部</rb><rt>せいぶ</rt></ruby>、マリアナ<ruby><rb>諸島</rb><rt>しょとう</rt></ruby>の<ruby><rb>東</rb><rt>ひがし</rt></ruby>の<ruby><rb>海底</rb><rt>かいてい</rt></ruby>にある<ruby><rb>溝</rb><rt>みぞ</rt></ruby>。<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>深</rb><rt>ふか</rt></ruby>い<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>（<ruby><rb>深</rb><rt>ふか</rt></ruby>さ<ruby><rb>一万</rb><rt>いちまん</rt></ruby>メートル<ruby><rb>以上</rb><rt>いじょう</rt></ruby>）がある。
+- word: 降ろす
+  descriptions:
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>から<ruby><rb>低</rb><rt>ひく</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>へ<ruby><rb>移</rb><rt>うつ</rt></ruby>す。
+  - <ruby><rb>下</rb><rt>した</rt></ruby>のほうに<ruby><rb>移</rb><rt>うつ</rt></ruby>す。
+  - <ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>から<ruby><rb>外</rb><rt>そと</rt></ruby>へ<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+  - <ruby><rb>役目</rb><rt>やくめ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をやめさせる。
+- word: 映る
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やかげなどが、ほかの<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>に<ruby><rb>現</rb><rt>あらわ</rt></ruby>れる。
+  - <ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>合</rb><rt>あ</rt></ruby>わせがよい。
+- word: 仲間
+  descriptions:
+  - いっしょにものごとをする<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>友達</rb><rt>ともだち</rt></ruby>。グループ。
+  - <ruby><rb>種類</rb><rt>しゅるい</rt></ruby>の<ruby><rb>同</rb><rt>おな</rt></ruby>じもの。
+- word: 記録
+  descriptions:
+  - あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。
+web_news_url: /news/web/2017/08/24/最深8000メートル余で魚の撮影に成功-生態系解明に期待/
+source_url: http://www3.nhk.or.jp/news/easy/k10011110041000/k10011110041000.html
+...
