@@ -1,0 +1,65 @@
+---
+layout: easy_news
+newsid: k10011110171000
+categories: easy
+title: 宇宙飛行士の金井さん「訓練も準備も予定どおりです」
+title_with_ruby: <ruby>宇宙飛行士<rt>うちゅうひこうし</rt></ruby>の<ruby>金井<rt>かない</rt></ruby>さん「<ruby>訓練<rt>くんれん</rt></ruby>も<ruby>準備<rt>じゅんび</rt></ruby>も<ruby>予定<rt>よてい</rt></ruby>どおりです」
+last_modified_at: '2017-08-25T16:30:00+09:00'
+datetime: 2017年08月25日 16時30分
+description: 金井かない宣茂のりしげさんは、日本人にっぽんじんで１２人にん目めの宇宙飛行士うちゅうひこうしです。
+description_with_ruby: <ruby>金井<rt>かない</rt></ruby><ruby>宣茂<rt>のりしげ</rt></ruby>さんは、<ruby>日本人<rt>にっぽんじん</rt></ruby>で１２<ruby>人<rt>にん</rt></ruby><ruby>目<rt>め</rt></ruby>の<ruby>宇宙飛行士<rt>うちゅうひこうし</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/25/k10011110171000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/25/k10011110171000.mp3
+contents: "<p><ruby>金井<rt>かない</rt></ruby><ruby>宣茂<rt>のりしげ</rt></ruby>さんは、<ruby>日本人<rt>にっぽんじん</rt></ruby>で１２<ruby>人<rt>にん</rt></ruby><ruby>目<rt>め</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>宇宙飛行士<rt>うちゅうひこうし</rt></ruby></span>です。<ruby>金井<rt>かない</rt></ruby>さんは、<ruby>今年<rt>ことし</rt></ruby>１２<ruby>月<rt>がつ</rt></ruby>に<ruby>国際<rt>こくさい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby>ステーション</span>に<ruby>行<rt>い</rt></ruby>って、６か<ruby>月<rt>げつ</rt></ruby>ぐらいいる<ruby>予定<rt>よてい</rt></ruby>です。<span\
+  \ style=\"color: blue;\"><ruby>医師<rt>いし</rt></ruby></span>をしていた<ruby>金井<rt>かない</rt></ruby>さんは、<span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>にいると<span style=\"color:\
+  \ blue;\"><ruby>生物<rt>せいぶつ</rt></ruby></span>の<ruby>体<rt>からだ</rt></ruby>がどうなるか<ruby>調<rt>しら</rt></ruby>べる<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>や<ruby>新<rt>あたら</rt></ruby>しい<ruby>薬<rt>くすり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>るための<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>をします。</p>\n<p><ruby>金井<rt>かない</rt></ruby>さんは<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>２４日<rt>にじゅうよっか</rt></ruby>、<ruby>新聞<rt>しんぶん</rt></ruby>やテレビなどの<span\
+  \ style=\"color: blue;\"><ruby>記者<rt>きしゃ</rt></ruby></span>を<ruby>集<rt>あつ</rt></ruby>めて、<ruby>話<rt>はなし</rt></ruby>をしました。<ruby>金井<rt>かない</rt></ruby>さんは「<span\
+  \ style=\"color: blue;\"><ruby>訓練<rt>くんれん</rt></ruby></span>も<ruby>準備<rt>じゅんび</rt></ruby>も<ruby>予定<rt>よてい</rt></ruby>どおり<ruby>進<rt>すす</rt></ruby>んでいます。<span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>でしっかり<ruby>仕事<rt>しごと</rt></ruby>ができると<ruby>思<rt>おも</rt></ruby>います」と<ruby>言<rt>い</rt></ruby>いました。そして、「<span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>で<ruby>人<rt>ひと</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>る</span>ための<ruby>研究<rt>けんきゅう</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>にいる<ruby>人<rt>ひと</rt></ruby>のためにも<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つと<ruby>考<rt>かんが</rt></ruby>えています」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>金井<rt>かない</rt></ruby>さんは<ruby>来月<rt>らいげつ</rt></ruby>アメリカに<ruby>戻<rt>もど</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>に<ruby>行<rt>い</rt></ruby>くための<span\
+  \ style=\"color: blue;\"><ruby>訓練<rt>くんれん</rt></ruby></span>を<ruby>続<rt>つづ</rt></ruby>ける<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 宇宙飛行士
+  descriptions:
+  - <ruby><rb>宇宙船</rb><rt>うちゅうせん</rt></ruby>や<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>ステーションの<ruby><rb>乗組員</rb><rt>のりくみいん</rt></ruby>。
+- word: 訓練
+  descriptions:
+  - <ruby><rb>教</rb><rt>おし</rt></ruby>えて、<ruby><rb>慣</rb><rt>な</rt></ruby>れさせること。また、うまくできるように<ruby><rb>練習</rb><rt>れんしゅう</rt></ruby>すること。
+- word: 宇宙ステーション
+  descriptions:
+  - スペースシャトルなどで<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby><ruby><rb>旅行</rb><rt>りょこう</rt></ruby>や、<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>での<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>の<ruby><rb>基地</rb><rt>きち</rt></ruby>として、その<ruby><rb>中</rb><rt>なか</rt></ruby>でたくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>続</rb><rt>つづ</rt></ruby>けられる<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>人工衛星</rb><rt>じんこうえいせい</rt></ruby>。
+- word: 医師
+  descriptions:
+  - <ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがを<ruby><rb>治</rb><rt>なお</rt></ruby>すことを<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>とする<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>。
+- word: 宇宙
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。
+- word: 生物
+  descriptions:
+  - <ruby><rb>命</rb><rt>いのち</rt></ruby>のあるもの。<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>と<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。
+- word: 実験
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。
+- word: 記者
+  descriptions:
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを三六五<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+web_news_url: /news/web/2017/08/24/金井宇宙飛行士訓練も準備も順調で自信感じる/
+source_url: http://www3.nhk.or.jp/news/easy/k10011110171000/k10011110171000.html
+...

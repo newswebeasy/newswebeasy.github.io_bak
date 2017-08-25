@@ -1,0 +1,48 @@
+---
+layout: easy_news
+newsid: k10011108021000
+categories: easy
+title: ベトナム　日本の宅配便の会社が新鮮な野菜や魚を届ける
+title_with_ruby: ベトナム　<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>宅配便<rt>たくはいびん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>野菜<rt>やさい</rt></ruby>や<ruby>魚<rt>さかな</rt></ruby>を<ruby>届<rt>とど</rt></ruby>ける
+last_modified_at: '2017-08-25T11:30:00+09:00'
+datetime: 2017年08月25日 11時30分
+description: 宅配便たくはいびんの会社かいしゃのヤマトホールディングスは、ベトナムのホーチミン市しで新鮮しんせんな野菜やさいや魚さかななどを届とどける仕事しごとを始はじめることにしました。
+description_with_ruby: <ruby>宅配便<rt>たくはいびん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>のヤマトホールディングスは、ベトナムのホーチミン<ruby>市<rt>し</rt></ruby>で<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>野菜<rt>やさい</rt></ruby>や<ruby>魚<rt>さかな</rt></ruby>などを<ruby>届<rt>とど</rt></ruby>ける<ruby>仕事<rt>しごと</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めることにしました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/25/k10011108021000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/25/k10011108021000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>のヤマトホールディングスは、ベトナムのホーチミン<ruby>市<rt>し</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>新鮮<rt>しんせん</rt></ruby></span>な<ruby>野菜<rt>やさい</rt></ruby>や<ruby>魚<rt>さかな</rt></ruby>などを<ruby>届<rt>とど</rt></ruby>ける<ruby>仕事<rt>しごと</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めることにしました。そのためにホーチミン<ruby>市<rt>し</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。</p>\n\
+  <p>この<ruby>会社<rt>かいしゃ</rt></ruby>は、<span style=\"color: blue;\"><ruby>冷<rt>ひ</rt></ruby>やし</span>たり<span\
+  \ style=\"color: blue;\"><ruby>冷凍<rt>れいとう</rt></ruby></span>したりした<ruby>野菜<rt>やさい</rt></ruby>などを<ruby>日本<rt>にっぽん</rt></ruby>から<ruby>輸入<rt>ゆにゅう</rt></ruby>して、<ruby>空港<rt>くうこう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにつくった<ruby>建物<rt>たてもの</rt></ruby>に<ruby>置<rt>お</rt></ruby>きます。そして、<ruby>冷<rt>つめ</rt></ruby>たいまま<ruby>運<rt>はこ</rt></ruby>ぶことができる<span\
+  \ style=\"color: blue;\">トラック</span>やオートバイで<ruby>日本料理<rt>にほんりょうり</rt></ruby>のレストランなどに<ruby>届<rt>とど</rt></ruby>けます。</p>\n\
+  <p><ruby>社長<rt>しゃちょう</rt></ruby>は「<ruby>日本<rt>にっぽん</rt></ruby>でしてきたやり<ruby>方<rt>かた</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>新鮮<rt>しんせん</rt></ruby></span>な<ruby>品物<rt>しなもの</rt></ruby>を<ruby>届<rt>とど</rt></ruby>けたいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p>ベトナムは<ruby>人口<rt>じんこう</rt></ruby>が９０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になっていて、<ruby>経済<rt>けいざい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>成長<rt>せいちょう</rt></ruby></span>も<ruby>続<rt>つづ</rt></ruby>いています。<ruby>大<rt>おお</rt></ruby>きい<ruby>町<rt>まち</rt></ruby>では<ruby>日本料理<rt>にほんりょうり</rt></ruby>のレストランも<ruby>増<rt>ふ</rt></ruby>えています。<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>将来<rt>しょうらい</rt></ruby>ホーチミン<ruby>市<rt>し</rt></ruby><ruby>以外<rt>いがい</rt></ruby>でもこの<ruby>仕事<rt>しごと</rt></ruby>をしたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>"
+words:
+- word: 宅配便
+  descriptions:
+  - <ruby><rb>荷物</rb><rt>にもつ</rt></ruby>などを、<ruby><rb>送</rb><rt>おく</rt></ruby>り<ruby><rb>先</rb><rt>さき</rt></ruby>の<ruby><rb>家</rb><rt>いえ</rt></ruby>まで<ruby><rb>届</rb><rt>とど</rt></ruby>ける<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。
+- word: 新鮮
+  descriptions:
+  - <ruby><rb>新</rb><rt>あたら</rt></ruby>しくて、<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>生</rb><rt>い</rt></ruby>きしているようす。
+  - すがすがしくて、よごれていないようす。
+- word: 冷やす
+  descriptions:
+  - <ruby><rb>冷</rb><rt>つめ</rt></ruby>たくする。
+  - びっくりする。
+  - <ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>落</rb><rt>お</rt></ruby>ち<ruby><rb>着</rb><rt>つ</rt></ruby>かせる。
+- word: 冷凍
+  descriptions:
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>長</rb><rt>なが</rt></ruby>くもたせるために、<ruby><rb>凍</rb><rt>こお</rt></ruby>らせること。
+- word: トラック
+  descriptions:
+  - <ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rt></ruby>。
+- word: 成長
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>が<ruby><rb>育</rb><rt>そだ</rt></ruby>って<ruby><rb>大</rb><rt>おお</rt></ruby>きくなること。
+  - ものごとが<ruby><rb>発展</rb><rt>はってん</rt></ruby>すること。
+web_news_url: /news/web/2017/08/23/ヤマト-ベトナムで日本の生鮮品の保冷配送事業へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011108021000/k10011108021000.html
+...
