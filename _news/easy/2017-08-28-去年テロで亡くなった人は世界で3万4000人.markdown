@@ -1,0 +1,47 @@
+---
+layout: easy_news
+newsid: k10011111301000
+categories: easy
+title: 去年テロで亡くなった人は世界で３万４０００人
+title_with_ruby: <ruby>去年<rt>きょねん</rt></ruby>テロで<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>で３<ruby>万<rt>まん</rt></ruby>４０００<ruby>人<rt>にん</rt></ruby>
+last_modified_at: '2017-08-28T11:30:00+09:00'
+datetime: 2017年08月28日 11時30分
+description: アメリカのメリーランド大学だいがくは世界せかいのテロについて調しらべています。
+description_with_ruby: アメリカのメリーランド<ruby>大学<rt>だいがく</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>のテロについて<ruby>調<rt>しら</rt></ruby>べています。
+image_url: https://newswebeasy.github.io/ja201708/news/easy/image/2017/08/28/k10011111301000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/28/k10011111301000.mp3
+contents: "<p>アメリカのメリーランド<ruby>大学<rt>だいがく</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>の<span\
+  \ style=\"color: blue;\">テロ</span>について<ruby>調<rt>しら</rt></ruby>べています。<ruby>大学<rt>だいがく</rt></ruby>によると、<ruby>去年<rt>きょねん</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>３<ruby>万<rt>まん</rt></ruby>４０００<ruby>人<rt>にん</rt></ruby>が<span\
+  \ style=\"color: blue;\">テロ</span>で<ruby>亡<rt>な</rt></ruby>くなりました。おととしよりも１０％<ruby>少<rt>すく</rt></ruby>なかったと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>このうち、<span style=\"color: blue;\"><ruby>中東<rt>ちゅうとう</rt></ruby></span>と<ruby>北<rt>きた</rt></ruby>アフリカで<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>が５５％で、<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１<ruby>万<rt>まん</rt></ruby>９０００<ruby>人<rt>にん</rt></ruby>でした。<ruby>次<rt>つぎ</rt></ruby>に<ruby>多<rt>おお</rt></ruby>かった<ruby>南<rt>みなみ</rt></ruby>アジアは２２％で、<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>７０００<ruby>人<rt>にん</rt></ruby>でした。</p>\n\
+  <p><span style=\"color: blue;\">ヨーロッパ</span>では<ruby>去年<rt>きょねん</rt></ruby>、ベルギーの<span\
+  \ style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>ブリュッセルやフランスのニースなどで<span\
+  \ style=\"color: blue;\">テロ</span>が<ruby>続<rt>つづ</rt></ruby>きましたが、<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>は３５０<ruby>人<rt>にん</rt></ruby>で、<ruby>世界<rt>せかい</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の１％でした。</p>\n\
+  <p>ＩＳ＝イスラミックステートと<ruby>関係<rt>かんけい</rt></ruby>がある<span style=\"color: blue;\">テロ</span>で<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１<ruby>万<rt>まん</rt></ruby>１０００<ruby>人<rt>にん</rt></ruby>で、おととしより３９％<ruby>増<rt>ふ</rt></ruby>えました。メリーランド<ruby>大学<rt>だいがく</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>もＩＳは<ruby>世界中<rt>せかいじゅう</rt></ruby>で<span\
+  \ style=\"color: blue;\">テロ</span>の<ruby>原因<rt>げんいん</rt></ruby>になっていると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: テロ
+  descriptions:
+  - <ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 中東
+  descriptions:
+  - <ruby><rb>西</rb><rt>にし</rt></ruby>アジアからエジプトにかけての<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。イラン・イラク・アフガニスタン・トルコなどの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>。<ruby><rb>中近東</rb><rt>ちゅうきんとう</rt></ruby>。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: 首都
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。
+web_news_url: /news/web/2017/08/25/テロによる死者-世界で3万4000人/
+source_url: http://www3.nhk.or.jp/news/easy/k10011111301000/k10011111301000.html
+...
