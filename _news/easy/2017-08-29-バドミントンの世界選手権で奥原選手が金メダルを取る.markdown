@@ -1,0 +1,75 @@
+---
+layout: easy_news
+newsid: k10011115061000
+categories: easy
+title: バドミントンの世界選手権で奥原選手が金メダルを取る
+title_with_ruby: バドミントンの<ruby>世界選手権<rt>せかいせんしゅけん</rt></ruby>で<ruby>奥原<rt>おくはら</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>金<rt>きん</rt></ruby>メダルを<ruby>取<rt>と</rt></ruby>る
+last_modified_at: '2017-08-29T16:50:00+09:00'
+datetime: 2017年08月29日 16時50分
+description: イギリスでバドミントンの世界選手権せかいせんしゅけんという大会たいかいがあって、２７日にち、女子じょしシングルスの金きんメダルを決きめる試合しあいがありました。
+description_with_ruby: イギリスでバドミントンの<ruby>世界選手権<rt>せかいせんしゅけん</rt></ruby>という<ruby>大会<rt>たいかい</rt></ruby>があって、２７<ruby>日<rt>にち</rt></ruby>、<ruby>女子<rt>じょし</rt></ruby>シングルスの<ruby>金<rt>きん</rt></ruby>メダルを<ruby>決<rt>き</rt></ruby>める<ruby>試合<rt>しあい</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/29/k10011115061000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/29/k10011115061000.mp3
+contents: "<p>イギリスで<span style=\"color: blue;\">バドミントン</span>の<ruby>世界選手権<rt>せかいせんしゅけん</rt></ruby>という<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>があって、２７<ruby>日<rt>にち</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>女子<rt>じょし</rt></ruby></span><span style=\"color:\
+  \ blue;\">シングルス</span>の<span style=\"color: blue;\"><ruby>金<rt>きん</rt></ruby></span><span\
+  \ style=\"color: blue;\">メダル</span>を<ruby>決<rt>き</rt></ruby>める<ruby>試合<rt>しあい</rt></ruby>がありました。<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>奥原<rt>おくはら</rt></ruby><ruby>希望<rt>のぞみ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>とインドのブイシンデュ・プサルラ<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>試合<rt>しあい</rt></ruby>をしました。</p>\n\
+  <p><ruby>奥原<rt>おくはら</rt></ruby><span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>世界<rt>せかい</rt></ruby><span\
+  \ style=\"color: blue;\">ランキング</span>で１２<ruby>番<rt>ばん</rt></ruby>、プサルラ<span style=\"\
+  color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は４<ruby>番<rt>ばん</rt></ruby>です。<ruby>足<rt>あし</rt></ruby>がよく<ruby>動<rt>うご</rt></ruby>く<ruby>奥原<rt>おくはら</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<span style=\"color:\
+  \ blue;\"><ruby>第<rt>だい</rt></ruby></span>１ゲームを<ruby>取<rt>と</rt></ruby>りましたが、<span\
+  \ style=\"color: blue;\"><ruby>第<rt>だい</rt></ruby></span>２ゲームはプサルラ<span style=\"\
+  color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>取<rt>と</rt></ruby>りました。</p>\n\
+  <p>そして、<ruby>最後<rt>さいご</rt></ruby>の<span style=\"color: blue;\"><ruby>第<rt>だい</rt></ruby></span>３ゲームは<ruby>奥原<rt>おくはら</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が２２ー２０で<ruby>取<rt>と</rt></ruby>って、<ruby>試合<rt>しあい</rt></ruby>に<ruby>勝<rt>か</rt></ruby>ちました。<span\
+  \ style=\"color: blue;\">バドミントン</span>の<ruby>世界選手権<rt>せかいせんしゅけん</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>女子<rt>じょし</rt></ruby></span><span style=\"color: blue;\">シングルス</span>で<span\
+  \ style=\"color: blue;\"><ruby>金<rt>きん</rt></ruby></span><span style=\"color: blue;\"\
+  >メダル</span>を<ruby>取<rt>と</rt></ruby>ったのは<ruby>初<rt>はじ</rt></ruby>めてです。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: バドミントン
+  descriptions:
+  - ネットをはさんで、<ruby><rb>羽根</rb><rt>はね</rt></ruby>のついたボール（シャトル）を、ラケットで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 金
+  descriptions:
+  - <ruby><rb>黄色</rb><rt>きいろ</rt></ruby>いつやのある、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。こがね。
+  - こがね<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+  - おかね。
+  - 「<span class="dic_sansyogogi">1)</span>」のように、だいじな。りっぱな。
+  - かなもの。
+  - <ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>金曜日</rb><rt>きんようび</rt></ruby>。
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+- word: 大会
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+  - ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: 女子
+  descriptions:
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>女性</rb><rt>じょせい</rt></ruby>。
+- word: シングルス
+  descriptions:
+  - テニスや<ruby><rb>卓球</rb><rt>たっきゅう</rt></ruby>などで、<ruby><rb>一対一</rb><rt>いったいいち</rt></ruby>でする<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: ランキング
+  descriptions:
+  - <ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。
+- word: 第
+  descriptions:
+  - ものごとの<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>。
+  - <ruby><rb>試験</rb><rt>しけん</rt></ruby>。
+  - <ruby><rb>数字</rb><rt>すうじ</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>につけて<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。
+web_news_url: /news/web/2017/08/28/バドミントン世界選手権-女子シングルスで奥原が金メダル/
+source_url: http://www3.nhk.or.jp/news/easy/k10011115061000/k10011115061000.html
+...
