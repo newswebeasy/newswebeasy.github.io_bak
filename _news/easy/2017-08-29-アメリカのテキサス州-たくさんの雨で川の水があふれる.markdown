@@ -1,0 +1,52 @@
+---
+layout: easy_news
+newsid: k10011116441000
+categories: easy
+title: アメリカのテキサス州　たくさんの雨で川の水があふれる
+title_with_ruby: アメリカのテキサス<ruby>州<rt>しゅう</rt></ruby>　たくさんの<ruby>雨<rt>あめ</rt></ruby>で<ruby>川<rt>かわ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>があふれる
+last_modified_at: '2017-08-29T16:50:00+09:00'
+datetime: 2017年08月29日 16時50分
+description: ２５日にち、アメリカのテキサス州しゅうにハリケーンが来きて、とてもたくさんの雨あめが降ふりました。
+description_with_ruby: ２５<ruby>日<rt>にち</rt></ruby>、アメリカのテキサス<ruby>州<rt>しゅう</rt></ruby>にハリケーンが<ruby>来<rt>き</rt></ruby>て、とてもたくさんの<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/29/k10011116441000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/29/k10011116441000.mp3
+contents: "<p>２５<ruby>日<rt>にち</rt></ruby>、アメリカのテキサス<ruby>州<rt>しゅう</rt></ruby>に<span\
+  \ style=\"color: blue;\">ハリケーン</span>が<ruby>来<rt>き</rt></ruby>て、とてもたくさんの<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>りました。<ruby>雨<rt>あめ</rt></ruby>はそのあとも<ruby>続<rt>つづ</rt></ruby>いて、<ruby>大<rt>おお</rt></ruby>きなまちのヒューストンなどでは<ruby>川<rt>かわ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<span\
+  \ style=\"color: blue;\">あふれ</span>ました。アメリカの<ruby>新聞<rt>しんぶん</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>までに８<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなったと<ruby>伝<rt>つた</rt></ruby>えています。</p>\n\
+  <p><ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>などに<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってきて、<ruby>逃<rt>に</rt></ruby>げることができなくなった<ruby>人<rt>ひと</rt></ruby>も<ruby>大勢<rt>おおぜい</rt></ruby>います。<ruby>警察<rt>けいさつ</rt></ruby>が３０００<ruby>人<rt>にん</rt></ruby>ぐらい<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>け</span>ましたが、<ruby>今<rt>いま</rt></ruby>も<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>け</span>てほしいという<ruby>電話<rt>でんわ</rt></ruby>が１５０<span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span>ぐらい<ruby>来<rt>き</rt></ruby>ています。</p>\n\
+  <p>アメリカの<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ることができないため<span\
+  \ style=\"color: blue;\"><ruby>避難<rt>ひなん</rt></ruby></span>する<ruby>場所<rt>ばしょ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>は３<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>いると<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: あふれる
+  descriptions:
+  - いっぱいになって、こぼれる。
+  - <ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。
+- word: ハリケーン
+  descriptions:
+  - メキシコ<ruby><rb>湾</rb><rt>わん</rt></ruby>や<ruby><rb>西</rb><rt>にし</rt></ruby>インド<ruby><rb>諸島</rb><rt>しょとう</rt></ruby><ruby><rb>付近</rb><rt>ふきん</rt></ruby>で<ruby><rb>発生</rb><rt>はっせい</rt></ruby>して、<ruby><rb>北</rb><rt>きた</rt></ruby>アメリカをおそう<ruby><rb>暴風雨</rb><rt>ぼうふうう</rt></ruby>。
+- word: あふれる
+  descriptions:
+  - いっぱいになって、こぼれる。
+  - <ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+- word: 件
+  descriptions:
+  - ことがら。できごと。
+  - ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 避難
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。
+web_news_url: /news/web/2017/08/29/米南部ハリケーン直撃-取り残された人の救出急ぐ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011116441000/k10011116441000.html
+...
