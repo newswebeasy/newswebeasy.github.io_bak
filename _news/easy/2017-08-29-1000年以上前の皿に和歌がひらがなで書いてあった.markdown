@@ -1,0 +1,82 @@
+---
+layout: easy_news
+newsid: k10011112541000
+categories: easy
+title: １０００年以上前の皿に和歌がひらがなで書いてあった
+title_with_ruby: １０００<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>皿<rt>さら</rt></ruby>に<ruby>和歌<rt>わか</rt></ruby>がひらがなで<ruby>書<rt>か</rt></ruby>いてあった
+last_modified_at: '2017-08-29T11:30:00+09:00'
+datetime: 2017年08月29日 11時30分
+description: 山梨県やまなしけん甲州市こうしゅうしにある「ケカチ遺跡いせき」は、１０００年ねん以上いじょう前まえに人ひとが住すんでいた所ところです。
+description_with_ruby: <ruby>山梨県<rt>やまなしけん</rt></ruby><ruby>甲州市<rt>こうしゅうし</rt></ruby>にある「ケカチ<ruby>遺跡<rt>いせき</rt></ruby>」は、１０００<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>人<rt>ひと</rt></ruby>が<ruby>住<rt>す</rt></ruby>んでいた<ruby>所<rt>ところ</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/29/k10011112541000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/29/k10011112541000.mp3
+contents: "<p><ruby>山梨県<rt>やまなしけん</rt></ruby><ruby>甲州市<rt>こうしゅうし</rt></ruby>にある「ケカチ<ruby>遺跡<rt>いせき</rt></ruby>」は、１０００<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>人<rt>ひと</rt></ruby>が<ruby>住<rt>す</rt></ruby>んでいた<ruby>所<rt>ところ</rt></ruby>です。この<span\
+  \ style=\"color: blue;\"><ruby>遺跡<rt>いせき</rt></ruby></span>から<ruby>去年<rt>きょねん</rt></ruby>５<ruby>月<rt>がつ</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>土<rt>つち</rt></ruby></span>を<ruby>焼<rt>や</rt></ruby>いて<ruby>作<rt>つく</rt></ruby>った<ruby>皿<rt>さら</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかりました。<span\
+  \ style=\"color: blue;\"><ruby>直径<rt>ちょっけい</rt></ruby></span>１２ｃｍの<ruby>皿<rt>さら</rt></ruby>には<span\
+  \ style=\"color: blue;\"><ruby>和歌<rt>わか</rt></ruby></span>がひらがなで<ruby>書<rt>か</rt></ruby>いてあって、<ruby>歴史<rt>れきし</rt></ruby>や<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>専門家<rt>せんもんか</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べていました。</p>\n\
+  <p><ruby>山梨県立博物館<rt>やまなしけんりつはくぶつかん</rt></ruby>の<ruby>平川<rt>ひらかわ</rt></ruby><ruby>南<rt>みなみ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>館長<rt>かんちょう</rt></ruby></span>によると、<span style=\"\
+  color: blue;\"><ruby>和歌<rt>わか</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>には「しけいと」という<ruby>糸<rt>いと</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>表<rt>あらわ</rt></ruby>す</span>ことばがありました。<ruby>細<rt>ほそ</rt></ruby>い<ruby>糸<rt>いと</rt></ruby>のように<span\
+  \ style=\"color: blue;\"><ruby>切<rt>き</rt></ruby>れ</span>そうな<ruby>人<rt>ひと</rt></ruby>と<ruby>人<rt>ひと</rt></ruby>の<ruby>関係<rt>かんけい</rt></ruby>を<ruby>思<rt>おも</rt></ruby>って<ruby>作<rt>つく</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>和歌<rt>わか</rt></ruby></span>だろうと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>では、<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>漢字<rt>かんじ</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>を<ruby>変<rt>か</rt></ruby>えてひらがなを<ruby>作<rt>つく</rt></ruby>って、１０<span\
+  \ style=\"color: blue;\"><ruby>世紀<rt>せいき</rt></ruby></span>ごろからひらがなを<ruby>使<rt>つか</rt></ruby>うようになったと<ruby>言<rt>い</rt></ruby>われています。</p>\n\
+  <p><ruby>平川<rt>ひらかわ</rt></ruby><span style=\"color: blue;\"><ruby>館長<rt>かんちょう</rt></ruby></span>は「ひらがながいつごろできたかがわかる<ruby>大事<rt>だいじ</rt></ruby>な<span\
+  \ style=\"color: blue;\"><ruby>発見<rt>はっけん</rt></ruby></span>です。<ruby>山梨県<rt>やまなしけん</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかりましたから、<span\
+  \ style=\"color: blue;\"><ruby>地方<rt>ちほう</rt></ruby></span>にもひらがなの<ruby>文化<rt>ぶんか</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>広<rt>ひろ</rt></ruby>がっ</span>ていたことがわかります」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 和歌
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>に<ruby><rb>昔</rb><rt>むかし</rt></ruby>からある、<ruby><rb>長歌</rb><rt>ちょうか</rt></ruby>や<ruby><rb>短歌</rb><rt>たんか</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>短歌</rb><rt>たんか</rt></ruby>のこと。
+- word: 遺跡
+  descriptions:
+  - <ruby><rb>歴史的</rb><rt>れきしてき</rt></ruby>なできごとや<ruby><rb>建物</rb><rt>たてもの</rt></ruby>のあった<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: 土
+  descriptions:
+  - <ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>がくだけて、<ruby><rb>粉</rb><rt>こな</rt></ruby>になったもの。どろ。
+  - <ruby><rb>陸地</rb><rt>りくち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>地面</rb><rt>じめん</rt></ruby>。
+- word: 直径
+  descriptions:
+  - <ruby><rb>円</rb><rt>えん</rt></ruby>または<ruby><rb>球</rb><rt>きゅう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>って、<ruby><rb>円周</rb><rt>えんしゅう</rt></ruby>や<ruby><rb>球面上</rb><rt>きゅうめんじょう</rt></ruby>の<ruby><rb>二点</rb><rt>にてん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>。さしわたし。
+- word: 館長
+  descriptions:
+  - <ruby><rb>図書館</rb><rt>としょかん</rt></ruby>・<ruby><rb>博物館</rb><rt>はくぶつかん</rt></ruby>・<ruby><rb>美術館</rb><rt>びじゅつかん</rt></ruby>など、「<ruby><rb>館</rb><rt>かん</rt></ruby>」のつく<ruby><rb>所</rb><rt>ところ</rt></ruby>で、もっとも<ruby><rb>責任</rb><rt>せきにん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 表す
+  descriptions:
+  - <ruby><rb>気持</rb><rt>きも</rt></ruby>ちや<ruby><rb>考</rb><rt>かんが</rt></ruby>えなどを、ことばや<ruby><rb>表情</rb><rt>ひょうじょう</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>したり、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>などにしたりする。
+- word: 切れる
+  descriptions:
+  - <ruby><rb>切</rb><rt>き</rt></ruby>ることができる。
+  - いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>かれる。
+  - つながりがなくなる。
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>が、なくなる。
+  - こわれる。<ruby><rb>破</rb><rt>やぶ</rt></ruby>れる。
+  - <ruby><rb>頭</rb><rt>あたま</rt></ruby>がよくて、てきぱき<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする。
+  - <ruby><rb>横</rb><rt>よこ</rt></ruby>へそれる。
+  - <ruby><rb>足</rb><rt>た</rt></ruby>りない。
+  - <ruby><rb>終</rb><rt>お</rt></ruby>わる。
+  - …することができる。
+- word: 世紀
+  descriptions:
+  - １００<ruby><rb>年</rb><rt>ねん</rt></ruby>を<ruby><rb>単位</rb><rt>たんい</rt></ruby>として<ruby><rb>数</rb><rt>かぞ</rt></ruby>える<ruby><rb>年代</rb><rt>ねんだい</rt></ruby>の<ruby><rb>数</rb><rt>かぞ</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>西暦</rb><rt>せいれき</rt></ruby>１<ruby><rb>年</rb><rt>ねん</rt></ruby>から１００<ruby><rb>年</rb><rt>ねん</rt></ruby>までを<ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>と<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶ。<ruby><rb>２１世紀</rb><rt>にじゅういっせいき</rt></ruby>は２００１<ruby><rb>年</rb><rt>ねん</rt></ruby>から２１００<ruby><rb>年</rb><rt>ねん</rt></ruby>まで。
+  - <ruby><rb>一世紀</rb><rt>いっせいき</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>しかないようなもの。
+- word: 発見
+  descriptions:
+  - まだ<ruby><rb>知</rb><rt>し</rt></ruby>られていないものを、<ruby><rb>初</rb><rt>はじ</rt></ruby>めて<ruby><rb>見</rb><rt>み</rt></ruby>つけ<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 地方
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、ある<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。
+  - <ruby><rb>首都</rb><rt>しゅと</rt></ruby>でない<ruby><rb>土地</rb><rt>とち</rt></ruby>。いなか。
+- word: 広がる
+  descriptions:
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>くなる。
+  - <ruby><rb>広々</rb><rt>ひろびろ</rt></ruby>と<ruby><rb>見</rb><rt>み</rt></ruby>わたせる。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+web_news_url: /news/web/2017/08/25/和歌を刻んだ土器-かな文字の成り立ち裏付けか-山梨/
+source_url: http://www3.nhk.or.jp/news/easy/k10011112541000/k10011112541000.html
+...
