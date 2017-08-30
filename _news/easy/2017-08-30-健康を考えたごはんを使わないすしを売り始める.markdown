@@ -1,0 +1,90 @@
+---
+layout: easy_news
+newsid: k10011117561000
+categories: easy
+title: 健康を考えた「ごはんを使わないすし」を売り始める
+title_with_ruby: <ruby>健康<rt>けんこう</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えた「ごはんを<ruby>使<rt>つか</rt></ruby>わないすし」を<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める
+last_modified_at: '2017-08-30T16:00:00+09:00'
+datetime: 2017年08月30日 16時00分
+description: 健康けんこうを考かんがえて糖分とうぶんが少すくない食事しょくじをしたいと思おもう人ひとが増ふえています。
+description_with_ruby: <ruby>健康<rt>けんこう</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えて<ruby>糖分<rt>とうぶん</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ない<ruby>食事<rt>しょくじ</rt></ruby>をしたいと<ruby>思<rt>おも</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/30/k10011117561000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/30/k10011117561000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>健康<rt>けんこう</rt></ruby></span>を<ruby>考<rt>かんが</rt></ruby>えて<span\
+  \ style=\"color: blue;\"><ruby>糖分<rt>とうぶん</rt></ruby></span>が<ruby>少<rt>すく</rt></ruby>ない<ruby>食事<rt>しょくじ</rt></ruby>をしたいと<ruby>思<rt>おも</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。</p>\n\
+  <p>「くら<ruby>寿司<rt>ずし</rt></ruby>」という<span style=\"color: blue;\"><ruby>回転<rt>かいてん</rt></ruby></span><span\
+  \ style=\"color: blue;\">ずし</span>の<ruby>会社<rt>かいしゃ</rt></ruby>は、８<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>から３９０<ruby>以上<rt>いじょう</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>で「ごはんを<ruby>使<rt>つか</rt></ruby>わない<span\
+  \ style=\"color: blue;\">すし</span>」を<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めます。</p>\n\
+  <p><ruby>会社<rt>かいしゃ</rt></ruby>によると、ごはんの<ruby>代<rt>か</rt></ruby>わりに<ruby>細<rt>こま</rt></ruby>かく<ruby>切<rt>き</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>大根<rt>だいこん</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>います。<ruby>上<rt>うえ</rt></ruby>に<span\
+  \ style=\"color: blue;\">まぐろ</span>などの<ruby>魚<rt>さかな</rt></ruby>を<span style=\"\
+  color: blue;\"><ruby>乗<rt>の</rt></ruby>せ</span>たり、<span style=\"color: blue;\">のり</span>で<span\
+  \ style=\"color: blue;\"><ruby>巻<rt>ま</rt></ruby>い</span>たりします。この<span style=\"\
+  color: blue;\"><ruby>大根<rt>だいこん</rt></ruby></span>は<span style=\"color: blue;\"\
+  ><ruby>酢<rt>す</rt></ruby></span>などを<ruby>使<rt>つか</rt></ruby>って、<span style=\"color:\
+  \ blue;\">すし</span>のごはんのようにしたと<ruby>言<rt>い</rt></ruby>っています。<ruby>値段<rt>ねだん</rt></ruby>はこの<ruby>店<rt>みせ</rt></ruby>の<ruby>普通<rt>ふつう</rt></ruby>の<span\
+  \ style=\"color: blue;\">すし</span>と<ruby>同<rt>おな</rt></ruby>じですが、<span style=\"\
+  color: blue;\"><ruby>糖分<rt>とうぶん</rt></ruby></span>は６０％〜８０％ぐらい<ruby>少<rt>すく</rt></ruby>なくなっています。</p>\n\
+  <p><ruby>牛丼<rt>ぎゅうどん</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>では、ごはんを<ruby>使<rt>つか</rt></ruby>わない<ruby>料理<rt>りょうり</rt></ruby>や<span\
+  \ style=\"color: blue;\">カロリー</span>が<ruby>低<rt>ひく</rt></ruby>い<ruby>料理<rt>りょうり</rt></ruby>を<ruby>売<rt>う</rt></ruby>っています。<span\
+  \ style=\"color: blue;\">ラーメン</span>の<ruby>店<rt>みせ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、<span\
+  \ style=\"color: blue;\"><ruby>麺<rt>めん</rt></ruby></span>の<ruby>代<rt>か</rt></ruby>わりに<ruby>豚肉<rt>ぶたにく</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う<ruby>料理<rt>りょうり</rt></ruby>を<ruby>売<rt>う</rt></ruby>る<ruby>店<rt>みせ</rt></ruby>もあります。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 健康
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。
+- word: 鮨・
+  descriptions:
+  - <ruby><rb>酢</rb><rt>す</rt></ruby>で<ruby><rb>味</rb><rt>あじ</rt></ruby>をつけたご<ruby><rb>飯</rb><rt>はん</rt></ruby>に、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や、<ruby><rb>貝</rb><rt>かい</rt></ruby>・<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などをのせたり、<ruby><rb>混</rb><rt>ま</rt></ruby>ぜたりした<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。にぎりずし・<ruby><rb>巻</rb><rt>ま</rt></ruby>きずし・ちらしずしなど。
+- word: 糖分
+  descriptions:
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>にふくまれているあまみ。<ruby><rb>砂糖</rb><rt>さとう</rt></ruby>の<ruby><rb>成分</rb><rt>せいぶん</rt></ruby>。
+- word: 回転
+  descriptions:
+  - くるくる<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。また、<ruby><rb>回</rb><rt>まわ</rt></ruby>すこと。
+  - <ruby><rb>頭</rb><rt>あたま</rt></ruby>がよくはたらくこと。
+  - お<ruby><rb>客</rb><rt>きゃく</rt></ruby>がつぎつぎに<ruby><rb>入</rb><rt>い</rt></ruby>れかわること。
+- word: 鮨・
+  descriptions:
+  - <ruby><rb>酢</rb><rt>す</rt></ruby>で<ruby><rb>味</rb><rt>あじ</rt></ruby>をつけたご<ruby><rb>飯</rb><rt>はん</rt></ruby>に、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や、<ruby><rb>貝</rb><rt>かい</rt></ruby>・<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などをのせたり、<ruby><rb>混</rb><rt>ま</rt></ruby>ぜたりした<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。にぎりずし・<ruby><rb>巻</rb><rt>ま</rt></ruby>きずし・ちらしずしなど。
+- word: 大根
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>野菜</rb><rt>やさい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>白</rb><rt>しろ</rt></ruby>くて<ruby><rb>太</rb><rt>ふと</rt></ruby>い<ruby><rb>根</rb><rt>ね</rt></ruby>を<ruby><rb>食</rb><rt>た</rt></ruby>べる。
+  - <ruby><rb>下手</rb><rt>へた</rt></ruby>な<ruby><rb>役者</rb><rt>やくしゃ</rt></ruby>。
+- word: 鮪
+  descriptions:
+  - <ruby><rb>暖</rb><rt>あたた</rt></ruby>かな<ruby><rb>海</rb><rt>うみ</rt></ruby>を<ruby><rb>回遊</rb><rt>かいゆう</rt></ruby>する<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>魚</rb><rt>さかな</rt></ruby>。メバチ・キハダマグロ・クロマグロなどがいる。さし<ruby><rb>身</rb><rt>み</rt></ruby>やすしにして<ruby><rb>食</rb><rt>た</rt></ruby>べる。
+- word: 乗せる
+  descriptions:
+  - <ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などに<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>む。
+  - <ruby><rb>調子</rb><rt>ちょうし</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。
+  - だます。
+- word: 海苔
+  descriptions:
+  - <ruby><rb>海中</rb><rt>かいちゅう</rt></ruby>の<ruby><rb>岩</rb><rt>いわ</rt></ruby>などにコケのようについている<ruby><rb>海藻</rb><rt>かいそう</rt></ruby>。アサクサノリ・アオノリなど。
+  - アサクサノリなどを、<ruby><rb>紙</rb><rt>かみ</rt></ruby>のようにうすくのばして、かわかした<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 巻く
+  descriptions:
+  - <ruby><rb>長</rb><rt>なが</rt></ruby>いものを、はしから<ruby><rb>丸</rb><rt>まる</rt></ruby>める。
+  - <ruby><rb>長</rb><rt>なが</rt></ruby>いものを<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りにからみつける。
+  - ぐるぐるとまるく<ruby><rb>動</rb><rt>うご</rt></ruby>く。また、<ruby><rb>動</rb><rt>うご</rt></ruby>かす。
+  - <ruby><rb>回</rb><rt>まわ</rt></ruby>してしめる。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>囲</rb><rt>かこ</rt></ruby>む。
+- word: 酢
+  descriptions:
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>味</rb><rt>あじ</rt></ruby>つけに<ruby><rb>使</rb><rt>つか</rt></ruby>う、すっぱい<ruby><rb>液体</rb><rt>えきたい</rt></ruby>。
+- word: カロリー
+  descriptions:
+  - <ruby><rb>熱量</rb><rt>ねつりょう</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>一</rb><rt>いち</rt></ruby>カロリーは、<ruby><rb>一</rb><rt>いち</rt></ruby>グラムの<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>温度</rb><rt>おんど</rt></ruby>を<ruby><rb>一度</rb><rt>いちど</rt></ruby>だけ<ruby><rb>上</rb><rt>あ</rt></ruby>げるのに<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>な<ruby><rb>熱量</rb><rt>ねつりょう</rt></ruby>。
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>にふくまれている、<ruby><rb>栄養</rb><rt>えいよう</rt></ruby>の<ruby><rb>量</rb><rt>りょう</rt></ruby>をはかる<ruby><rb>単位</rb><rt>たんい</rt></ruby>。ふつうは、キロカロリーを<ruby><rb>単位</rb><rt>たんい</rt></ruby>とする。
+- word: ラーメン
+  descriptions:
+  - <ruby><rb>中国風</rb><rt>ちゅうごくふう</rt></ruby>のめんをゆで、スープをかけた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>中華</rb><rt>ちゅうか</rt></ruby>そば。
+- word: 麺
+  descriptions:
+  - そば・うどんなど。
+web_news_url: /news/web/2017/08/29/コメ使わないすし販売へ-糖質制限ニーズ高まりで/
+source_url: http://www3.nhk.or.jp/news/easy/k10011117561000/k10011117561000.html
+...
