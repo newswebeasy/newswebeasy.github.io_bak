@@ -1,0 +1,67 @@
+---
+layout: easy_news
+newsid: k10011117791000
+categories: easy
+title: 格安スマホには「Ｊアラート」が届かなかった
+title_with_ruby: <ruby>格安<rt>かくやす</rt></ruby>スマホには「Ｊアラート」が<ruby>届<rt>とど</rt></ruby>かなかった
+last_modified_at: '2017-08-30T16:00:00+09:00'
+datetime: 2017年08月30日 16時00分
+description: 北朝鮮きたちょうせんが２９日にちに発射はっしゃしたミサイルは、北海道ほっかいどうの上うえを通とおって太平洋たいへいように落おちました。
+description_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が２９<ruby>日<rt>にち</rt></ruby>に<ruby>発射<rt>はっしゃ</rt></ruby>したミサイルは、<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>を<ruby>通<rt>とお</rt></ruby>って<ruby>太平洋<rt>たいへいよう</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/30/k10011117791000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/30/k10011117791000.mp3
+contents: "<p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が２９<ruby>日<rt>にち</rt></ruby>に<span style=\"\
+  color: blue;\"><ruby>発射<rt>はっしゃ</rt></ruby></span>した<span style=\"color: blue;\"\
+  >ミサイル</span>は、<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>を<ruby>通<rt>とお</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>太平洋<rt>たいへいよう</rt></ruby></span>に<ruby>落<rt>お</rt></ruby>ちました。<span\
+  \ style=\"color: blue;\">ミサイル</span>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>飛<rt>と</rt></ruby>んでくる<ruby>危険<rt>きけん</rt></ruby>があるとき、<ruby>国<rt>くに</rt></ruby>は「Ｊアラート」を<ruby>出<rt>だ</rt></ruby>して、すぐに<span\
+  \ style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>を<ruby>伝<rt>つた</rt></ruby>えます。「Ｊアラート」が<ruby>出<rt>で</rt></ruby>ると、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>はスマートフォンや<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>に<span\
+  \ style=\"color: blue;\">メール</span>を<ruby>送<rt>おく</rt></ruby>って<span style=\"color:\
+  \ blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>を<ruby>伝<rt>つた</rt></ruby>えます。</p>\n\
+  <p>しかし、<ruby>安<rt>やす</rt></ruby>く<ruby>利用<rt>りよう</rt></ruby>できるスマートフォンの「<ruby>格安<rt>かくやす</rt></ruby>スマホ」などの<ruby>中<rt>なか</rt></ruby>には、「Ｊアラート」が<span\
+  \ style=\"color: blue;\"><ruby>届<rt>とど</rt></ruby>か</span>ない<ruby>物<rt>もの</rt></ruby>がありました。２９<ruby>日<rt>にち</rt></ruby>、たくさんの<ruby>人<rt>ひと</rt></ruby>がインターネットに「Ｊアラート」が<span\
+  \ style=\"color: blue;\"><ruby>届<rt>とど</rt></ruby>か</span>なかったと<ruby>書<rt>か</rt></ruby>いていました。</p>\n\
+  <p><ruby>国<rt>くに</rt></ruby>は、「Ｊアラート」のアプリを<ruby>入<rt>い</rt></ruby>れたり、<ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>などが<span\
+  \ style=\"color: blue;\">メール</span>で<ruby>危険<rt>きけん</rt></ruby>を<ruby>知<rt>し</rt></ruby>らせる<span\
+  \ style=\"color: blue;\">サービス</span>に<span style=\"color: blue;\"><ruby>登録<rt>とうろく</rt></ruby></span>したりして、<span\
+  \ style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>届<rt>とど</rt></ruby>く</span>ようにしてほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 届く
+  descriptions:
+  - <ruby><rb>送</rb><rt>おく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>着</rb><rt>つ</rt></ruby>く。
+  - のばしたものが、つく。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>いなどがかなう。
+- word: 発射
+  descriptions:
+  - <ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>のたまやロケットなどを、<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: ミサイル
+  descriptions:
+  - ロケットなどの<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>飛</rb><rt>と</rt></ruby>び、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby><ruby><rb>装置</rb><rt>そうち</rt></ruby>によって、<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>をとらえる<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>誘導弾</rb><rt>ゆうどうだん</rt></ruby>。
+- word: 太平洋
+  descriptions:
+  - アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: 情報
+  descriptions:
+  - できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+- word: Eメール
+  descriptions:
+  - コンピューターなどを<ruby><rb>使</rb><rt>つか</rt></ruby>って、メッセージやデータなどのやりとりをする<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>電子</rb><rt>でんし</rt></ruby>メール。メール。
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: 登録
+  descriptions:
+  - <ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などに<ruby><rb>届</rb><rt>とど</rt></ruby>け<ruby><rb>出</rb><rt>で</rt></ruby>て、おおやけに<ruby><rb>認</rb><rt>みと</rt></ruby>めてもらうこと。
+- word: 届く
+  descriptions:
+  - <ruby><rb>送</rb><rt>おく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>着</rb><rt>つ</rt></ruby>く。
+  - のばしたものが、つく。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>いなどがかなう。
+web_news_url: /news/web/2017/08/29/Jアラート-格安スマホで受信できず/
+source_url: http://www3.nhk.or.jp/news/easy/k10011117791000/k10011117791000.html
+...
