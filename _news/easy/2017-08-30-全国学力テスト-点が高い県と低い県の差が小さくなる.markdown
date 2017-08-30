@@ -1,0 +1,52 @@
+---
+layout: easy_news
+newsid: k10011115781000
+categories: easy
+title: 「全国学力テスト」　点が高い県と低い県の差が小さくなる
+title_with_ruby: 「<ruby>全国学力<rt>ぜんこくがくりょく</rt></ruby>テスト」　<ruby>点<rt>てん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い<ruby>県<rt>けん</rt></ruby>と<ruby>低<rt>ひく</rt></ruby>い<ruby>県<rt>けん</rt></ruby>の<ruby>差<rt>さ</rt></ruby>が<ruby>小<rt>ちい</rt></ruby>さくなる
+last_modified_at: '2017-08-30T11:30:00+09:00'
+datetime: 2017年08月30日 11時30分
+description: 文部科学省もんぶかがくしょうは毎年まいとし、小学校しょうがっこう６年生ねんせいと中学校ちゅうがっこう３年生ねんせいに「全国学力ぜんこくがくりょくテスト」を行おこなっています。
+description_with_ruby: <ruby>文部科学省<rt>もんぶかがくしょう</rt></ruby>は<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>小学校<rt>しょうがっこう</rt></ruby>６<ruby>年生<rt>ねんせい</rt></ruby>と<ruby>中学校<rt>ちゅうがっこう</rt></ruby>３<ruby>年生<rt>ねんせい</rt></ruby>に「<ruby>全国学力<rt>ぜんこくがくりょく</rt></ruby>テスト」を<ruby>行<rt>おこな</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/30/k10011115781000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/30/k10011115781000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>文部科学省<rt>もんぶかがくしょう</rt></ruby></span>は<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>小学校<rt>しょうがっこう</rt></ruby>６<ruby>年生<rt>ねんせい</rt></ruby>と<ruby>中学校<rt>ちゅうがっこう</rt></ruby>３<ruby>年生<rt>ねんせい</rt></ruby>に「<ruby>全国学力<rt>ぜんこくがくりょく</rt></ruby>テスト」を<ruby>行<rt>おこな</rt></ruby>っています。<ruby>今年<rt>ことし</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>２００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもが、<span\
+  \ style=\"color: blue;\"><ruby>国語<rt>こくご</rt></ruby></span>と<span style=\"color:\
+  \ blue;\"><ruby>算数<rt>さんすう</rt></ruby></span>と<ruby>数学<rt>すうがく</rt></ruby>のテストを<ruby>受<rt>う</rt></ruby>けました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>でテストの<ruby>点<rt>てん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>かった<ruby>所<rt>ところ</rt></ruby>は、<ruby>小学校<rt>しょうがっこう</rt></ruby>は<ruby>秋田県<rt>あきたけん</rt></ruby>と<ruby>石川県<rt>いしかわけん</rt></ruby>でした。<ruby>中学校<rt>ちゅうがっこう</rt></ruby>は<ruby>秋田県<rt>あきたけん</rt></ruby>と<ruby>石川県<rt>いしかわけん</rt></ruby>と<ruby>福井県<rt>ふくいけん</rt></ruby>でした。</p>\n\
+  <p><ruby>小学校<rt>しょうがっこう</rt></ruby>で<ruby>点<rt>てん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>かった<ruby>県<rt>けん</rt></ruby>と<ruby>低<rt>ひく</rt></ruby>かった<ruby>県<rt>けん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>差<rt>さ</rt></ruby></span>は、１０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>より<ruby>小<rt>ちい</rt></ruby>さくなりました。<span\
+  \ style=\"color: blue;\"><ruby>文部科学省<rt>もんぶかがくしょう</rt></ruby></span>は、<ruby>点<rt>てん</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>い<ruby>県<rt>けん</rt></ruby>もだんだん<span\
+  \ style=\"color: blue;\">レベル</span>が<ruby>上<rt>あ</rt></ruby>がっていると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 差
+  descriptions:
+  - ちがい。へだたり。
+  - ある<ruby><rb>数</rb><rt>かず</rt></ruby>からほかの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>残</rb><rt>のこ</rt></ruby>りの<ruby><rb>数</rb><rt>かず</rt></ruby>。
+- word: 文部科学省
+  descriptions:
+  - <ruby><rb>教育</rb><rt>きょういく</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>についての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や<ruby><rb>科学技術</rb><rt>かがくぎじゅつ</rt></ruby>を<ruby><rb>発展</rb><rt>はってん</rt></ruby>させる<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>文科省</rb><rt>もんかしょう</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 国語
+  descriptions:
+  - それぞれの<ruby><rb>国</rb><rt>くに</rt></ruby>で、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>たちに<ruby><rb>使</rb><rt>つか</rt></ruby>われていることば。
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>で<ruby><rb>使</rb><rt>つか</rt></ruby>われていることば。<ruby><rb>日本語</rb><rt>にほんご</rt></ruby>。
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>学校</rb><rt>がっこう</rt></ruby>で、<ruby><rb>日本語</rb><rt>にほんご</rt></ruby>を<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>する<ruby><rb>教科</rb><rt>きょうか</rt></ruby>。<ruby><rb>国語科</rb><rt>こくごか</rt></ruby>。
+- word: 算数
+  descriptions:
+  - <ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>の<ruby><rb>科目</rb><rt>かもく</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>数</rb><rt>かず</rt></ruby>の<ruby><rb>計算</rb><rt>けいさん</rt></ruby>や<ruby><rb>図形</rb><rt>ずけい</rt></ruby>など、<ruby><rb>初歩</rb><rt>しょほ</rt></ruby>の<ruby><rb>数学</rb><rt>すうがく</rt></ruby>を<ruby><rb>習</rb><rt>なら</rt></ruby>う。
+- word: 都道府県
+  descriptions:
+  - <ruby><rb>全国</rb><rt>ぜんこく</rt></ruby>を４７に<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>区画</rb><rt>くかく</rt></ruby>。<ruby><rb>東京都</rb><rt>とうきょうと</rt></ruby>・<ruby><rb>北海道</rb><rt>ほっかいどう</rt></ruby>・<ruby><rb>大阪府</rb><rt>おおさかふ</rt></ruby>・<ruby><rb>京都府</rb><rt>きょうとふ</rt></ruby>と、４３の<ruby><rb>県</rb><rt>けん</rt></ruby>。
+- word: レベル
+  descriptions:
+  - <ruby><rb>評価</rb><rt>ひょうか</rt></ruby>をするときの<ruby><rb>標準</rb><rt>ひょうじゅん</rt></ruby>。<ruby><rb>水準</rb><rt>すいじゅん</rt></ruby>。
+web_news_url: /news/web/2017/08/28/全国学力テスト-上位と下位の差縮まり学力底上げ進む/
+source_url: http://www3.nhk.or.jp/news/easy/k10011115781000/k10011115781000.html
+...
