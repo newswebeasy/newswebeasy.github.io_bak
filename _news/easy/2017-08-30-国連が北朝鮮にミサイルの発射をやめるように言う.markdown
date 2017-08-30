@@ -1,0 +1,53 @@
+---
+layout: easy_news
+newsid: k10011118681000
+categories: easy
+title: 国連が北朝鮮にミサイルの発射をやめるように言う
+title_with_ruby: <ruby>国連<rt>こくれん</rt></ruby>が<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>にミサイルの<ruby>発射<rt>はっしゃ</rt></ruby>をやめるように<ruby>言<rt>い</rt></ruby>う
+last_modified_at: '2017-08-30T16:00:00+09:00'
+datetime: 2017年08月30日 16時00分
+description: 北朝鮮きたちょうせんは２９日にち、北海道ほっかいどうの上うえを通とおるミサイルを発射はっしゃしました。
+description_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は２９<ruby>日<rt>にち</rt></ruby>、<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>を<ruby>通<rt>とお</rt></ruby>るミサイルを<ruby>発射<rt>はっしゃ</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/30/k10011118681000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/30/k10011118681000.mp3
+contents: "<p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は２９<ruby>日<rt>にち</rt></ruby>、<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>を<ruby>通<rt>とお</rt></ruby>る<span\
+  \ style=\"color: blue;\">ミサイル</span>を<span style=\"color: blue;\"><ruby>発射<rt>はっしゃ</rt></ruby></span>しました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>とアメリカ、<ruby>韓国<rt>かんこく</rt></ruby>は、<span style=\"\
+  color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>安全保障理事会<rt>あんぜんほしょうりじかい</rt></ruby></span>に<ruby>急<rt>いそ</rt></ruby>いで<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>くように<ruby>言<rt>い</rt></ruby>いました。<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>の３０<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>安全保障理事会<rt>あんぜんほしょうりじかい</rt></ruby></span>は<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いて、すぐに<span\
+  \ style=\"color: blue;\">ミサイル</span>の<span style=\"color: blue;\"><ruby>発射<rt>はっしゃ</rt></ruby></span>をやめるように<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>に<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の<span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span><span\
+  \ style=\"color: blue;\"><ruby>大使<rt>たいし</rt></ruby></span>は「<ruby>早<rt>はや</rt></ruby>く<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>くことができてよかったです。<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>が<ruby>言<rt>い</rt></ruby>ったことを<span\
+  \ style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>っ</span>てほしいです」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>中国<rt>ちゅうごく</rt></ruby>とロシアは、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>をどうしたらいいかアメリカや<ruby>日本<rt>にっぽん</rt></ruby>と<ruby>違<rt>ちが</rt></ruby>う<ruby>意見<rt>いけん</rt></ruby>を<ruby>持<rt>も</rt></ruby>っています。しかし、<ruby>中国<rt>ちゅうごく</rt></ruby>とロシアも<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>に<span\
+  \ style=\"color: blue;\">ミサイル</span>の<span style=\"color: blue;\"><ruby>発射<rt>はっしゃ</rt></ruby></span>をやめるように<ruby>言<rt>い</rt></ruby>うことに<span\
+  \ style=\"color: blue;\"><ruby>賛成<rt>さんせい</rt></ruby></span>しました。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: ミサイル
+  descriptions:
+  - ロケットなどの<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>飛</rb><rt>と</rt></ruby>び、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby><ruby><rb>装置</rb><rt>そうち</rt></ruby>によって、<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>をとらえる<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>誘導弾</rb><rt>ゆうどうだん</rt></ruby>。
+- word: 発射
+  descriptions:
+  - <ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>のたまやロケットなどを、<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 安全保障理事会
+  descriptions:
+  - <ruby><rb>国連</rb><rt>こくれん</rt></ruby>の<ruby><rb>主要機関</rb><rt>しゅようきかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>国際社会</rb><rt>こくさいしゃかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ることを<ruby><rb>目的</rb><rt>もくてき</rt></ruby>とし、１５の<ruby><rb>国連加盟国</rb><rt>こくれんかめいこく</rt></ruby>で<ruby><rb>構成</rb><rt>こうせい</rt></ruby>されている。
+- word: 大使
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>して<ruby><rb>外交</rb><rt>がいこう</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>外交官</rb><rt>がいこうかん</rt></ruby>のいちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役</rb><rt>やく</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 賛成
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えをよいと<ruby><rb>認</rb><rt>みと</rt></ruby>めること。<ruby><rb>同意</rb><rt>どうい</rt></ruby>すること。
+web_news_url: /news/web/2017/08/30/国連安保理-ミサイル発射の即時停止求める議長声明採択/
+source_url: http://www3.nhk.or.jp/news/easy/k10011118681000/k10011118681000.html
+...
