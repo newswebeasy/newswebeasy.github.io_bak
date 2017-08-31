@@ -1,0 +1,50 @@
+---
+layout: easy_news
+newsid: k10011120141000
+categories: easy
+title: スペイン　今年もトマトを投げるお祭りを楽しむ
+title_with_ruby: スペイン　<ruby>今年<rt>ことし</rt></ruby>もトマトを<ruby>投<rt>な</rt></ruby>げるお<ruby>祭<rt>まつ</rt></ruby>りを<ruby>楽<rt>たの</rt></ruby>しむ
+last_modified_at: '2017-08-31T16:10:00+09:00'
+datetime: 2017年08月31日 16時10分
+description: ８月がつ３０日にち、今年ことしもスペインのブニョールという町まちで、たくさんのトマトを投なげるお祭まつりがありました。
+description_with_ruby: ８<ruby>月<rt>がつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>もスペインのブニョールという<ruby>町<rt>まち</rt></ruby>で、たくさんのトマトを<ruby>投<rt>な</rt></ruby>げるお<ruby>祭<rt>まつ</rt></ruby>りがありました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/31/k10011120141000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/31/k10011120141000.mp3
+contents: "<p>８<ruby>月<rt>がつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>もスペインのブニョールという<ruby>町<rt>まち</rt></ruby>で、たくさんの<span\
+  \ style=\"color: blue;\">トマト</span>を<ruby>投<rt>な</rt></ruby>げるお<ruby>祭<rt>まつ</rt></ruby>りがありました。<ruby>世界中<rt>せかいじゅう</rt></ruby>から２<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まりました。</p>\n\
+  <p>スペインでは１７<ruby>日<rt>にち</rt></ruby>にバルセロナなどで<span style=\"color: blue;\">テロ</span>がありました。<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>突<rt>つ</rt></ruby>っ<ruby>込<rt>こ</rt></ruby>ん</span>だりして、１６<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。このため、<ruby>今年<rt>ことし</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>銃<rt>じゅう</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>った<ruby>警官<rt>けいかん</rt></ruby>がお<ruby>祭<rt>まつ</rt></ruby>りの<ruby>会場<rt>かいじょう</rt></ruby>にたくさんいました。<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>入<rt>い</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby>では、お<ruby>祭<rt>まつ</rt></ruby>りに<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>が<ruby>危険<rt>きけん</rt></ruby>な<ruby>物<rt>もの</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていないかどうかチェックしました。</p>\n\
+  <p>しかし、お<ruby>祭<rt>まつ</rt></ruby>りが<ruby>始<rt>はじ</rt></ruby>まると、<ruby>会場<rt>かいじょう</rt></ruby>はとてもにぎやかになりました。<ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>しながらほかの<ruby>人<rt>ひと</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<span\
+  \ style=\"color: blue;\">トマト</span>を<ruby>投<rt>な</rt></ruby>げて、みんなの<ruby>体<rt>からだ</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>真<rt>ま</rt></ruby>っ<ruby>赤<rt>か</rt></ruby></span>になりました。<ruby>全部<rt>ぜんぶ</rt></ruby>で１６０<span\
+  \ style=\"color: blue;\">ｔ</span>ぐらいの<span style=\"color: blue;\">トマト</span>を<ruby>投<rt>な</rt></ruby>げて、たくさんの<ruby>人<rt>ひと</rt></ruby>がお<ruby>祭<rt>まつ</rt></ruby>りを<ruby>楽<rt>たの</rt></ruby>しんでいました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: トマト
+  descriptions:
+  - ナスのなかまの<ruby><rb>野菜</rb><rt>やさい</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>赤</rb><rt>あか</rt></ruby>く<ruby><rb>熟</rb><rt>じゅく</rt></ruby>した<ruby><rb>実</rb><rt>み</rt></ruby>を、<ruby><rb>生</rb><rt>なま</rt></ruby>で<ruby><rb>食</rb><rt>た</rt></ruby>べたり、<ruby><rb>料理</rb><rt>りょうり</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>ったりする。
+- word: テロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: 突っ込む
+  descriptions:
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>入</rb><rt>はい</rt></ruby>りこむ。
+  - <ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る。
+  - ものごとにかかわる。<ruby><rb>関係</rb><rt>かんけい</rt></ruby>する。
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れる。
+- word: 銃
+  descriptions:
+  - <ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>・ピストルなど、<ruby><rb>弾丸</rb><rt>だんがん</rt></ruby>をうつ<ruby><rb>武器</rb><rt>ぶき</rt></ruby>。
+- word: 真っ赤
+  descriptions:
+  - たいへん<ruby><rb>赤</rb><rt>あか</rt></ruby>いようす。
+  - まるっきり。
+- word: トン
+  descriptions:
+  - メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。１トンは、１０００キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+  - <ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+web_news_url: /news/web/2017/08/31/テロ事件発生で厳重警戒の中-伝統のトマト祭り-スペイン/
+source_url: http://www3.nhk.or.jp/news/easy/k10011120141000/k10011120141000.html
+...

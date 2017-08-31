@@ -1,0 +1,62 @@
+---
+layout: easy_news
+newsid: k10011117851000
+categories: easy
+title: 「金星の赤道の上では秒速９０mのとても強い風」
+title_with_ruby: 「<ruby>金星<rt>きんせい</rt></ruby>の<ruby>赤道<rt>せきどう</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>では<ruby>秒速<rt>びょうそく</rt></ruby>９０mのとても<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>」
+last_modified_at: '2017-08-31T11:30:00+09:00'
+datetime: 2017年08月31日 11時30分
+description: 宇宙うちゅうの研究けんきゅうなどをしている日本にっぽんのＪＡＸＡは７年ねん前まえ、金星きんせいを調しらべるために探査たんさ機きの「あかつき」を打うち上あげました。
+description_with_ruby: <ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>などをしている<ruby>日本<rt>にっぽん</rt></ruby>のＪＡＸＡは７<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>、<ruby>金星<rt>きんせい</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるために<ruby>探査<rt>たんさ</rt></ruby><ruby>機<rt>き</rt></ruby>の「あかつき」を<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/31/k10011117851000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/31/k10011117851000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>の<ruby>研究<rt>けんきゅう</rt></ruby>などをしている<ruby>日本<rt>にっぽん</rt></ruby>のＪＡＸＡは７<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>金星<rt>きんせい</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べるために<span\
+  \ style=\"color: blue;\"><ruby>探査<rt>たんさ</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>機<rt>き</rt></ruby></span>の「あかつき」を<span style=\"color: blue;\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</span>ました。</p>\n\
+  <p><ruby>今<rt>いま</rt></ruby>までに、<span style=\"color: blue;\"><ruby>金星<rt>きんせい</rt></ruby></span>では<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>いていることがわかっていました。<ruby>風<rt>かぜ</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>さはどの<ruby>場所<rt>ばしょ</rt></ruby>でも<ruby>同<rt>おな</rt></ruby>じだと<ruby>考<rt>かんが</rt></ruby>えられていました。</p>\n\
+  <p><ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>とＪＡＸＡなどの<span style=\"\
+  color: blue;\">グループ</span>は、<ruby>去年<rt>きょねん</rt></ruby>の７<ruby>月<rt>がつ</rt></ruby>に「あかつき」が<ruby>撮<rt>と</rt></ruby>った<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べました。その<span\
+  \ style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>、<ruby>風<rt>かぜ</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>さは<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>違<rt>ちが</rt></ruby>うことがわかりました。<span\
+  \ style=\"color: blue;\"><ruby>金星<rt>きんせい</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>赤道<rt>せきどう</rt></ruby></span>の<ruby>上<rt>うえ</rt></ruby>の<ruby>空<rt>そら</rt></ruby>では、<span\
+  \ style=\"color: blue;\"><ruby>秒速<rt>びょうそく</rt></ruby></span>９０ｍのとても<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>いていたときがありました。これは、ほかの<ruby>場所<rt>ばしょ</rt></ruby>よりも<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>でした。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 金星
+  descriptions:
+  - <ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>に<ruby><rb>二番</rb><rt>にばん</rt></ruby>めに<ruby><rb>近</rb><rt>ちか</rt></ruby>い<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>一番星</rb><rt>いちばんぼし</rt></ruby>。<ruby><rb>朝</rb><rt>あさ</rt></ruby>、<ruby><rb>見</rb><rt>み</rt></ruby>えるときは、「<ruby><rb>明</rb><rt>あ</rt></ruby>けの<ruby><rb>明星</rb><rt>みょうじょう</rt></ruby>」、<ruby><rb>夕方</rb><rt>ゆうがた</rt></ruby>のときは、「<ruby><rb>宵</rb><rt>よい</rt></ruby>の<ruby><rb>明星</rb><rt>みょうじょう</rt></ruby>」と<ruby><rb>呼</rb><rt>よ</rt></ruby>ばれる。
+- word: 赤道
+  descriptions:
+  - <ruby><rb>北極</rb><rt>ほっきょく</rt></ruby>と<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>から<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>距離</rb><rt>きょり</rt></ruby>にある<ruby><rb>点</rb><rt>てん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んだ<ruby><rb>線</rb><rt>せん</rt></ruby>。この<ruby><rb>線</rb><rt>せん</rt></ruby>を<ruby><rb>０</rb><rt>れい</rt></ruby><ruby><rb>度</rb><rt>ど</rt></ruby>として、<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>に<ruby><rb>緯度</rb><rt>いど</rt></ruby>を<ruby><rb>定</rb><rt>さだ</rt></ruby>める。
+- word: 秒速
+  descriptions:
+  - <ruby><rb>一秒間</rb><rt>いちびょうかん</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>速</rb><rt>はや</rt></ruby>さ。
+- word: 宇宙
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。
+- word: 探査
+  descriptions:
+  - <ruby><rb>探</rb><rt>さが</rt></ruby>して<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: 機
+  descriptions:
+  - <ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。
+  - とき。きっかけ。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>動</rb><rt>うご</rt></ruby>き。
+  - はたらき。
+  - だいじな<ruby><rb>点</rb><rt>てん</rt></ruby>。
+  - 「<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。また、<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 打ち上げる
+  descriptions:
+  - （<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - <ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - （<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+web_news_url: /news/web/2017/08/29/金星の赤道上空で猛烈な風を観測-探査機あかつき/
+source_url: http://www3.nhk.or.jp/news/easy/k10011117851000/k10011117851000.html
+...
