@@ -1,0 +1,36 @@
+---
+layout: easy_news
+newsid: k10011117591000
+categories: easy
+title: 「戦争などのため飲む水がない人が１億８０００万人いる」
+title_with_ruby: 「<ruby>戦争<rt>せんそう</rt></ruby>などのため<ruby>飲<rt>の</rt></ruby>む<ruby>水<rt>みず</rt></ruby>がない<ruby>人<rt>ひと</rt></ruby>が１<ruby>億<rt>おく</rt></ruby>８０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>いる」
+last_modified_at: '2017-08-31T11:30:00+09:00'
+datetime: 2017年08月31日 11時30分
+description: ユニセフは、戦争せんそうをしている国くにや政治せいじの問題もんだいがある国くにで、飲のむ水みずがない人ひとが１億おく８０００万まん人にん以上いじょういると発表はっぴょうしました。
+description_with_ruby: ユニセフは、<ruby>戦争<rt>せんそう</rt></ruby>をしている<ruby>国<rt>くに</rt></ruby>や<ruby>政治<rt>せいじ</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>がある<ruby>国<rt>くに</rt></ruby>で、<ruby>飲<rt>の</rt></ruby>む<ruby>水<rt>みず</rt></ruby>がない<ruby>人<rt>ひと</rt></ruby>が１<ruby>億<rt>おく</rt></ruby>８０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>いると<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201708/news/web/image/2017/08/31/k10011117591000.jpg
+voice_url: https://newswebeasy.github.io/ja201708/news/easy/voice/2017/08/31/k10011117591000.mp3
+contents: "<p><span style=\"color: blue;\">ユニセフ</span>は、<ruby>戦争<rt>せんそう</rt></ruby>をしている<ruby>国<rt>くに</rt></ruby>や<ruby>政治<rt>せいじ</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>がある<ruby>国<rt>くに</rt></ruby>で、<ruby>飲<rt>の</rt></ruby>む<ruby>水<rt>みず</rt></ruby>がない<ruby>人<rt>ひと</rt></ruby>が１<ruby>億<rt>おく</rt></ruby>８０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>いると<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>イエメンでは、<ruby>国<rt>くに</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で２<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>戦争<rt>せんそう</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いていて、<ruby>大<rt>おお</rt></ruby>きなまちに<ruby>水<rt>みず</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る<span\
+  \ style=\"color: blue;\"><ruby>管<rt>くだ</rt></ruby></span>などが<ruby>壊<rt>こわ</rt></ruby>れています。このため、<ruby>飲<rt>の</rt></ruby>む<ruby>水<rt>みず</rt></ruby>がない<ruby>人<rt>ひと</rt></ruby>が１５００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>ぐらいいます。</p>\n\
+  <p>シリアでも、<ruby>国<rt>くに</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>戦争<rt>せんそう</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いているため、<ruby>飲<rt>の</rt></ruby>む<ruby>水<rt>みず</rt></ruby>がない<ruby>人<rt>ひと</rt></ruby>が１５００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>います。この<ruby>中<rt>なか</rt></ruby>には、<ruby>子<rt>こ</rt></ruby>どもが６４０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>います。</p>\n\
+  <p><span style=\"color: blue;\">ユニセフ</span>は、このような<ruby>国<rt>くに</rt></ruby>では、<ruby>特<rt>とく</rt></ruby>に<ruby>子<rt>こ</rt></ruby>どもたちを<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>け</span>なければならないと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: UNICEF
+  descriptions:
+  - <ruby><rb>国連</rb><rt>こくれん</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つで、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>の<ruby><rb>不幸</rb><rt>ふこう</rt></ruby>な<ruby><rb>子</rb><rt>こ</rt></ruby>どもたちを<ruby><rb>助</rb><rt>たす</rt></ruby>ける<ruby><rb>活動</rb><rt>かつどう</rt></ruby>をする。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 管
+  descriptions:
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>穴</rb><rt>あな</rt></ruby>が<ruby><rb>空</rb><rt>あ</rt></ruby>いている、<ruby><rb>丸</rb><rt>まる</rt></ruby>くて<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>いもの。つつ。パイプ。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+web_news_url: /news/web/2017/08/29/世界で1億8000万人が飲料水得られず-ユニセフ推計/
+source_url: http://www3.nhk.or.jp/news/easy/k10011117591000/k10011117591000.html
+...
