@@ -1,0 +1,69 @@
+---
+layout: easy_news
+newsid: k10011121361000
+categories: easy
+title: イギリスのメイ首相が日本に来て安倍総理大臣と会う
+title_with_ruby: イギリスのメイ<ruby>首相<rt>しゅしょう</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て<ruby>安倍<rt>あべ</rt></ruby><ruby>総理大臣<rt>そうりだいじん</rt></ruby>と<ruby>会<rt>あ</rt></ruby>う
+last_modified_at: '2017-09-01T16:00:00+09:00'
+datetime: 2017年09月01日 16時00分
+description: イギリスのメイ首相しゅしょうは８月がつ３０日にち、日本にっぽんに来きました。
+description_with_ruby: イギリスのメイ<ruby>首相<rt>しゅしょう</rt></ruby>は８<ruby>月<rt>がつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>ました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/01/k10011121361000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/01/k10011121361000.mp3
+contents: "<p>イギリスのメイ<ruby>首相<rt>しゅしょう</rt></ruby>は８<ruby>月<rt>がつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>ました。３１<ruby>日<rt>にち</rt></ruby>は、<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>安倍<rt>あべ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>と<ruby>会<rt>あ</rt></ruby>って、<ruby>話<rt>はなし</rt></ruby>をしました。</p>\n\
+  <p><ruby>２人<rt>ふたり</rt></ruby>は、<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>を<ruby>通<rt>とお</rt></ruby>る<span\
+  \ style=\"color: blue;\">ミサイル</span>を<span style=\"color: blue;\"><ruby>発射<rt>はっしゃ</rt></ruby></span>した<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>について<ruby>話<rt>はな</rt></ruby>しました。そして、<span\
+  \ style=\"color: blue;\">ミサイル</span>の<span style=\"color: blue;\"><ruby>発射<rt>はっしゃ</rt></ruby></span>や<span\
+  \ style=\"color: blue;\"><ruby>核実験<rt>かくじっけん</rt></ruby></span>をやめさせるために、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>にもっと<ruby>厳<rt>きび</rt></ruby>しくすると<ruby>決<rt>き</rt></ruby>めました。</p>\n\
+  <p>イギリスは<ruby>去年<rt>きょねん</rt></ruby>、<span style=\"color: blue;\">ＥＵ</span>から<ruby>出<rt>で</rt></ruby>ることを<ruby>決<rt>き</rt></ruby>めました。<ruby>安倍<rt>あべ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>は、<span style=\"\
+  color: blue;\">ＥＵ</span>から<ruby>出<rt>で</rt></ruby>ても、イギリスで<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>困<rt>こま</rt></ruby>らないようにしてほしいと<ruby>言<rt>い</rt></ruby>いました。メイ<ruby>首相<rt>しゅしょう</rt></ruby>は「<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>と<ruby>話<rt>はなし</rt></ruby>をしながら、<ruby>問題<rt>もんだい</rt></ruby>が<ruby>出<rt>で</rt></ruby>ないようにします」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>では２０１９<ruby>年<rt>ねん</rt></ruby>に<span style=\"color:\
+  \ blue;\">ラグビー</span>の<span style=\"color: blue;\">ワールドカップ</span>、２０２０<ruby>年<rt>ねん</rt></ruby>に<span\
+  \ style=\"color: blue;\">オリンピック</span>と<span style=\"color: blue;\">パラリンピック</span>を<ruby>行<rt>おこな</rt></ruby>います。<ruby>２人<rt>ふたり</rt></ruby>は<span\
+  \ style=\"color: blue;\">テロ</span>などが<span style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こら</span>ないように<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>すると<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>メイ<ruby>首相<rt>しゅしょう</rt></ruby>は９<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>を<ruby>出発<rt>しゅっぱつ</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 総理大臣
+  descriptions:
+  - <ruby><rb>内閣総理大臣</rb><rt>ないかくそうりだいじん</rt></ruby>のこと。<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>の<ruby><rb>最高責任者</rb><rt>さいこうせきにんしゃ</rt></ruby>で、<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>選</rb><rt>えら</rt></ruby>び、<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>が<ruby><rb>認</rb><rt>みと</rt></ruby>めて<ruby><rb>決</rb><rt>き</rt></ruby>まる。<ruby><rb>首相</rb><rt>しゅしょう</rt></ruby>。<ruby><rb>総理</rb><rt>そうり</rt></ruby>。
+- word: ミサイル
+  descriptions:
+  - ロケットなどの<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>飛</rb><rt>と</rt></ruby>び、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby><ruby><rb>装置</rb><rt>そうち</rt></ruby>によって、<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>をとらえる<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>誘導弾</rb><rt>ゆうどうだん</rt></ruby>。
+- word: 発射
+  descriptions:
+  - <ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>のたまやロケットなどを、<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 核実験
+  descriptions:
+  - <ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>の<ruby><rb>威力</rb><rt>いりょく</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べる<ruby><rb>実験</rb><rt>じっけん</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や<ruby><rb>水素</rb><rt>すいそ</rt></ruby><ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>の<ruby><rb>実験</rb><rt>じっけん</rt></ruby>。
+- word: EU
+  descriptions:
+  - イギリス・ドイツ・フランスなどヨーロッパの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が、<ruby><rb>共同</rb><rt>きょうどう</rt></ruby>で<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>をはかったり<ruby><rb>経済</rb><rt>けいざい</rt></ruby>を<ruby><rb>運営</rb><rt>うんえい</rt></ruby>したりしようとする<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+- word: ラグビー
+  descriptions:
+  - １チーム１５<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が、<ruby><rb>楕円形</rb><rt>だえんけい</rt></ruby>のボールを、<ruby><rb>持</rb><rt>も</rt></ruby>って<ruby><rb>走</rb><rt>はし</rt></ruby>ったり、けったりして<ruby><rb>相手側</rb><rt>あいてがわ</rt></ruby>のゴールライン<ruby><rb>内</rb><rt>ない</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>得点</rb><rt>とくてん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+- word: ワールドカップ
+  descriptions:
+  - スポーツ<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>の<ruby><rb>世界選手権大会</rb><rt>せかいせんしゅけんたいかい</rt></ruby>の<ruby><rb>優勝者</rb><rt>ゆうしょうしゃ</rt></ruby>にあたえられるカップ。また、そのカップを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>W杯</rb><rt>ダブリューはい</rt></ruby>。
+- word: オリンピック
+  descriptions:
+  - ４<ruby><rb>年</rb><rt>ねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。４<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: テロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: 起こる
+  descriptions:
+  - <ruby><rb>始</rb><rt>はじ</rt></ruby>まる。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+web_news_url: /news/web/2017/08/31/日英首脳会談-北朝鮮への圧力強化で共同声明/
+source_url: http://www3.nhk.or.jp/news/easy/k10011121361000/k10011121361000.html
+...
