@@ -1,0 +1,33 @@
+---
+layout: easy_news
+newsid: k10011119661000
+categories: easy
+title: 熊本県　いじめを早く見つけるためにアプリを使う
+title_with_ruby: <ruby>熊本県<rt>くまもとけん</rt></ruby>　いじめを<ruby>早<rt>はや</rt></ruby>く<ruby>見<rt>み</rt></ruby>つけるためにアプリを<ruby>使<rt>つか</rt></ruby>う
+last_modified_at: '2017-09-01T11:30:00+09:00'
+datetime: 2017年09月01日 11時30分
+description: 熊本県くまもとけんの教育委員会きょういくいいんかいは、インターネットを使つかったいじめなどを早はやく見みつけるために、生徒せいとにスマートフォンなどのアプリを使つかってもらうことにしました。
+description_with_ruby: <ruby>熊本県<rt>くまもとけん</rt></ruby>の<ruby>教育委員会<rt>きょういくいいんかい</rt></ruby>は、インターネットを<ruby>使<rt>つか</rt></ruby>ったいじめなどを<ruby>早<rt>はや</rt></ruby>く<ruby>見<rt>み</rt></ruby>つけるために、<ruby>生徒<rt>せいと</rt></ruby>にスマートフォンなどのアプリを<ruby>使<rt>つか</rt></ruby>ってもらうことにしました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/01/k10011119661000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/01/k10011119661000.mp3
+contents: "<p><ruby>熊本県<rt>くまもとけん</rt></ruby>の<span style=\"color: blue;\"><ruby>教育委員会<rt>きょういくいいんかい</rt></ruby></span>は、インターネットを<ruby>使<rt>つか</rt></ruby>った<span\
+  \ style=\"color: blue;\">いじめ</span>などを<ruby>早<rt>はや</rt></ruby>く<ruby>見<rt>み</rt></ruby>つけるために、<ruby>生徒<rt>せいと</rt></ruby>にスマートフォンなどのアプリを<ruby>使<rt>つか</rt></ruby>ってもらうことにしました。<ruby>生徒<rt>せいと</rt></ruby>は、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>書<rt>か</rt></ruby>かなくても、<span\
+  \ style=\"color: blue;\">いじめ</span>を<ruby>知<rt>し</rt></ruby>らせることができます。</p>\n<p><ruby>生徒<rt>せいと</rt></ruby>はアプリで<ruby>自分<rt>じぶん</rt></ruby>の<ruby>学校<rt>がっこう</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んで、どんな<span\
+  \ style=\"color: blue;\">いじめ</span>があったかを<ruby>書<rt>か</rt></ruby>くことができます。インターネットに<ruby>出<rt>で</rt></ruby>ている<span\
+  \ style=\"color: blue;\"><ruby>悪口<rt>わるくち</rt></ruby></span>などを<ruby>写真<rt>しゃしん</rt></ruby>に<ruby>撮<rt>と</rt></ruby>って<ruby>送<rt>おく</rt></ruby>ることもできます。</p>\n\
+  <p><ruby>熊本県<rt>くまもとけん</rt></ruby>の<span style=\"color: blue;\"><ruby>教育委員会<rt>きょういくいいんかい</rt></ruby></span>は、９<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から３つの<ruby>学校<rt>がっこう</rt></ruby>の<ruby>中学生<rt>ちゅうがくせい</rt></ruby>と<ruby>高校生<rt>こうこうせい</rt></ruby>２６００<ruby>人<rt>にん</rt></ruby>ぐらいにアプリを<ruby>使<rt>つか</rt></ruby>ってもらいます。<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>からは<ruby>県<rt>けん</rt></ruby>の<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>高校<rt>こうこう</rt></ruby>の<ruby>生徒<rt>せいと</rt></ruby>が<ruby>使<rt>つか</rt></ruby>うことができるようにしたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>教育委員会<rt>きょういくいいんかい</rt></ruby></span>は「<ruby>誰<rt>だれ</rt></ruby>が<ruby>知<rt>し</rt></ruby>らせたかわからないので、<ruby>安心<rt>あんしん</rt></ruby>して<ruby>使<rt>つか</rt></ruby>ってください」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: いじめ
+  descriptions:
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>が<ruby><rb>困</rb><rt>こま</rt></ruby>ることをしたり、いやがることを<ruby><rb>言</rb><rt>い</rt></ruby>ったりして、<ruby><rb>苦</rb><rt>くる</rt></ruby>しめること。
+- word: 教育委員会
+  descriptions:
+  - <ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>や<ruby><rb>市区町村</rb><rt>しくちょうそん</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>かれていて、<ruby><rb>教育</rb><rt>きょういく</rt></ruby>について<ruby><rb>相談</rb><rt>そうだん</rt></ruby>し、<ruby><rb>計画</rb><rt>けいかく</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てる<ruby><rb>委員会</rb><rt>いいんかい</rt></ruby>。
+- word: 悪口
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>悪</rb><rt>わる</rt></ruby>く<ruby><rb>言</rb><rt>い</rt></ruby>うこと。また、そのことば。わるぐち。<ruby><rb>悪口</rb><rt>あっこう</rt></ruby>。
+web_news_url: /news/web/2017/08/30/熊本県教委-生徒いじめ匿名通報アプリ試験導入へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011119661000/k10011119661000.html
+...
