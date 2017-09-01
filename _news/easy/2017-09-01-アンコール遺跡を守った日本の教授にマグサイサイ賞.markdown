@@ -1,0 +1,72 @@
+---
+layout: easy_news
+newsid: k10011121611000
+categories: easy
+title: アンコール遺跡を守った日本の教授に「マグサイサイ賞」
+title_with_ruby: アンコール<ruby>遺跡<rt>いせき</rt></ruby>を<ruby>守<rt>まも</rt></ruby>った<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>教授<rt>きょうじゅ</rt></ruby>に「マグサイサイ<ruby>賞<rt>しょう</rt></ruby>」
+last_modified_at: '2017-09-01T16:00:00+09:00'
+datetime: 2017年09月01日 16時00分
+description: フィリピンの「マグサイサイ賞しょう」は、アジアの平和へいわや社会しゃかいのためにすばらしい活動かつどうをした人ひとなどに贈おくる賞しょうです。
+description_with_ruby: フィリピンの「マグサイサイ<ruby>賞<rt>しょう</rt></ruby>」は、アジアの<ruby>平和<rt>へいわ</rt></ruby>や<ruby>社会<rt>しゃかい</rt></ruby>のためにすばらしい<ruby>活動<rt>かつどう</rt></ruby>をした<ruby>人<rt>ひと</rt></ruby>などに<ruby>贈<rt>おく</rt></ruby>る<ruby>賞<rt>しょう</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/01/k10011121611000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/01/k10011121611000.mp3
+contents: "<p>フィリピンの「マグサイサイ<ruby>賞<rt>しょう</rt></ruby>」は、アジアの<span style=\"color: blue;\"\
+  ><ruby>平和<rt>へいわ</rt></ruby></span>や<ruby>社会<rt>しゃかい</rt></ruby>のためにすばらしい<span style=\"\
+  color: blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>をした<ruby>人<rt>ひと</rt></ruby>などに<span\
+  \ style=\"color: blue;\"><ruby>贈<rt>おく</rt></ruby>る</span><span style=\"color: blue;\"\
+  ><ruby>賞<rt>しょう</rt></ruby></span>です。「アジアの<span style=\"color: blue;\">ノーベル<ruby>賞<rt>しょう</rt></ruby></span>」とも<ruby>呼<rt>よ</rt></ruby>ばれています。</p>\n\
+  <p>８<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>のマグサイサイ<ruby>賞<rt>しょう</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>贈<rt>おく</rt></ruby>る</span><ruby>式<rt>しき</rt></ruby>がフィリピンのマニラでありました。<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>上智大学<rt>じょうちだいがく</rt></ruby>の<ruby>石澤<rt>いしざわ</rt></ruby><ruby>良昭<rt>よしあき</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>教授<rt>きょうじゅ</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>賞<rt>しょう</rt></ruby></span>をもらいました。</p>\n<p><ruby>石澤<rt>いしざわ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>教授<rt>きょうじゅ</rt></ruby></span>は７９<ruby>歳<rt>さい</rt></ruby>で、カンボジアにある<span\
+  \ style=\"color: blue;\"><ruby>世界遺産<rt>せかいいさん</rt></ruby></span>の「アンコール<span style=\"\
+  color: blue;\"><ruby>遺跡<rt>いせき</rt></ruby></span>」の<ruby>研究<rt>けんきゅう</rt></ruby>を５０<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>続<rt>つづ</rt></ruby>けています。<ruby>戦争<rt>せんそう</rt></ruby>で<ruby>壊<rt>こわ</rt></ruby>れたアンコール<span\
+  \ style=\"color: blue;\"><ruby>遺跡<rt>いせき</rt></ruby></span>を<ruby>直<rt>なお</rt></ruby>したり、<span\
+  \ style=\"color: blue;\"><ruby>遺跡<rt>いせき</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>守<rt>まも</rt></ruby>る</span>ために<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>技術<rt>ぎじゅつ</rt></ruby>などをカンボジアの<ruby>人<rt>ひと</rt></ruby>に<ruby>教<rt>おし</rt></ruby>えたりして、カンボジアの<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にしてきました。</p>\n\
+  <p><ruby>石澤<rt>いしざわ</rt></ruby><span style=\"color: blue;\"><ruby>教授<rt>きょうじゅ</rt></ruby></span>は「カンボジアの<ruby>人<rt>ひと</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>続<rt>つづ</rt></ruby>けてきた<span\
+  \ style=\"color: blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>で<span style=\"color:\
+  \ blue;\"><ruby>賞<rt>しょう</rt></ruby></span>をもらうことができて、うれしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 遺跡
+  descriptions:
+  - <ruby><rb>歴史的</rb><rt>れきしてき</rt></ruby>なできごとや<ruby><rb>建物</rb><rt>たてもの</rt></ruby>のあった<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 教授
+  descriptions:
+  - <ruby><rb>大学</rb><rt>だいがく</rt></ruby>の<ruby><rb>先生</rb><rt>せんせい</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>にものを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 平和
+  descriptions:
+  - おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。
+- word: 活動
+  descriptions:
+  - <ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。
+- word: 贈る
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。
+- word: 賞
+  descriptions:
+  - ほめる。たたえる。
+  - ほうび。
+  - <ruby><rb>味</rb><rt>あじ</rt></ruby>わって<ruby><rb>楽</rb><rt>たの</rt></ruby>しむ。
+- word: ノーベル賞
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の、<ruby><rb>学問</rb><rt>がくもん</rt></ruby>や<ruby><rb>平和</rb><rt>へいわ</rt></ruby>のためにりっぱな<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をした<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>毎年</rb><rt>まいとし</rt></ruby>あたえられる<ruby><rb>賞</rb><rt>しょう</rt></ruby>。<ruby><rb>化学者</rb><rt>かがくしゃ</rt></ruby>ノーベルの<ruby><rb>遺言</rb><rt>ゆいごん</rt></ruby>で、この<ruby><rb>制度</rb><rt>せいど</rt></ruby>ができた。
+- word: 世界遺産
+  descriptions:
+  - ユネスコの「<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby><ruby><rb>及</rb><rt>およ</rt></ruby>び<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>の<ruby><rb>保護</rb><rt>ほご</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>条約</rb><rt>じょうやく</rt></ruby>」（「<ruby><rb>世界遺産保護条約</rb><rt>せかいいさんほごじょうやく</rt></ruby>」）にもとづいて<ruby><rb>決</rb><rt>き</rt></ruby>められた、<ruby><rb>世界的</rb><rt>せかいてき</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>す<ruby><rb>価値</rb><rt>かち</rt></ruby>があると<ruby><rb>認</rb><rt>みと</rt></ruby>められた<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>や<ruby><rb>自然</rb><rt>しぜん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby>として<ruby><rb>姫路城</rb><rt>ひめじじょう</rt></ruby>や<ruby><rb>法隆寺</rb><rt>ほうりゅうじ</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の<ruby><rb>首里城</rb><rt>しゅりじょう</rt></ruby>など、<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>として<ruby><rb>屋久島</rb><rt>やくしま</rt></ruby>や<ruby><rb>白神山地</rb><rt>しらかみさんち</rt></ruby>などが<ruby><rb>指定</rb><rt>してい</rt></ruby>されている。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+web_news_url: /news/web/2017/09/01/マグサイサイ賞に上智大教授-アンコール遺跡群修復に尽力/
+source_url: http://www3.nhk.or.jp/news/easy/k10011121611000/k10011121611000.html
+...
