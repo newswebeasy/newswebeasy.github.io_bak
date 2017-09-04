@@ -1,0 +1,59 @@
+---
+layout: easy_news
+newsid: k10011125651000
+categories: easy
+title: 柔道の新しい種目の「団体」で日本が金メダルを取る
+title_with_ruby: <ruby>柔道<rt>じゅうどう</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>種目<rt>しゅもく</rt></ruby>の「<ruby>団体<rt>だんたい</rt></ruby>」で<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>金<rt>きん</rt></ruby>メダルを<ruby>取<rt>と</rt></ruby>る
+last_modified_at: '2017-09-04T15:45:00+09:00'
+datetime: 2017年09月04日 15時45分
+description: 柔道じゅうどうの世界選手権せかいせんしゅけんという大会たいかいがハンガリーであって、３日みっか、「団体だんたい」の試合しあいが初はじめてありました。
+description_with_ruby: <ruby>柔道<rt>じゅうどう</rt></ruby>の<ruby>世界選手権<rt>せかいせんしゅけん</rt></ruby>という<ruby>大会<rt>たいかい</rt></ruby>がハンガリーであって、<ruby>３日<rt>みっか</rt></ruby>、「<ruby>団体<rt>だんたい</rt></ruby>」の<ruby>試合<rt>しあい</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めてありました。
+image_url: https://newswebeasy.github.io/ja201709/news/easy/image/2017/09/04/k10011125651000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/04/k10011125651000.mp3
+contents: "<p><ruby>柔道<rt>じゅうどう</rt></ruby>の<ruby>世界選手権<rt>せかいせんしゅけん</rt></ruby>という<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>がハンガリーであって、<ruby>３日<rt>みっか</rt></ruby>、「<ruby>団体<rt>だんたい</rt></ruby>」の<ruby>試合<rt>しあい</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めてありました。</p>\n\
+  <p><ruby>団体<rt>だんたい</rt></ruby>は<ruby>柔道<rt>じゅうどう</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>種目<rt>しゅもく</rt></ruby></span>です。<ruby>男性<rt>だんせい</rt></ruby>３<ruby>人<rt>にん</rt></ruby>と<ruby>女性<rt>じょせい</rt></ruby>３<ruby>人<rt>にん</rt></ruby>が１つの<span\
+  \ style=\"color: blue;\">チーム</span>になって、<ruby>１人<rt>ひとり</rt></ruby>ずつ<ruby>試合<rt>しあい</rt></ruby>をします。２０２０<ruby>年<rt>ねん</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby><span\
+  \ style=\"color: blue;\">オリンピック</span>の<ruby>柔道<rt>じゅうどう</rt></ruby>でも<ruby>行<rt>おこな</rt></ruby>うことが<ruby>決<rt>き</rt></ruby>まっています。</p>\n\
+  <p><ruby>３日<rt>みっか</rt></ruby>の<ruby>団体<rt>だんたい</rt></ruby>の<span style=\"color:\
+  \ blue;\"><ruby>決勝<rt>けっしょう</rt></ruby></span>では、<ruby>日本<rt>にっぽん</rt></ruby>とブラジルが<ruby>試合<rt>しあい</rt></ruby>をしました。<ruby>日本<rt>にっぽん</rt></ruby>は６<ruby>人<rt>にん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>みんなが<ruby>試合<rt>しあい</rt></ruby>に<ruby>勝<rt>か</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>金<rt>きん</rt></ruby></span><span style=\"color: blue;\"\
+  >メダル</span>を<ruby>取<rt>と</rt></ruby>りました。</p>\n<p></p>\n<p></p>"
+words:
+- word: 種目
+  descriptions:
+  - <ruby><rb>種類</rb><rt>しゅるい</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>名前</rb><rt>なまえ</rt></ruby>。
+- word: 金
+  descriptions:
+  - <ruby><rb>黄色</rb><rt>きいろ</rt></ruby>いつやのある、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。こがね。
+  - こがね<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+  - おかね。
+  - 「<span class="dic_sansyogogi">1)</span>」のように、だいじな。りっぱな。
+  - かなもの。
+  - <ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>金曜日</rb><rt>きんようび</rt></ruby>。
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+- word: 大会
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+  - ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８６９<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: 決勝
+  descriptions:
+  - <ruby><rb>最後</rb><rt>さいご</rt></ruby>の<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>めること。
+  - <ruby><rb>第</rb><rt>だい</rt></ruby><ruby><rb>一位</rb><rt>いちい</rt></ruby>のものを<ruby><rb>決</rb><rt>き</rt></ruby>めること。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+web_news_url: /news/web/2017/09/04/柔道世界選手権-男女混合の団体-日本が金メダル/
+source_url: http://www3.nhk.or.jp/news/easy/k10011125651000/k10011125651000.html
+...
