@@ -1,0 +1,68 @@
+---
+layout: easy_news
+newsid: k10011125121000
+categories: easy
+title: 北朝鮮が「ＩＣＢＭで飛ばす水爆の実験に成功した」と発表
+title_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が「ＩＣＢＭで<ruby>飛<rt>と</rt></ruby>ばす<ruby>水爆<rt>すいばく</rt></ruby>の<ruby>実験<rt>じっけん</rt></ruby>に<ruby>成功<rt>せいこう</rt></ruby>した」と<ruby>発表<rt>はっぴょう</rt></ruby>
+last_modified_at: '2017-09-04T15:45:00+09:00'
+datetime: 2017年09月04日 15時45分
+description: 北朝鮮きたちょうせんは３日みっか、テレビで「水爆すいばくの実験じっけんに成功せいこうした」と発表はっぴょうしました。
+description_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は<ruby>３日<rt>みっか</rt></ruby>、テレビで「<ruby>水爆<rt>すいばく</rt></ruby>の<ruby>実験<rt>じっけん</rt></ruby>に<ruby>成功<rt>せいこう</rt></ruby>した」と<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/04/k10011125121000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/04/k10011125121000.mp3
+contents: "<p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は<ruby>３日<rt>みっか</rt></ruby>、テレビで「<span\
+  \ style=\"color: blue;\"><ruby>水爆<rt>すいばく</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>に<span style=\"color: blue;\"><ruby>成功<rt>せいこう</rt></ruby></span>した」と<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。ＩＣＢＭという<span style=\"\
+  color: blue;\">ミサイル</span>でこの<span style=\"color: blue;\"><ruby>水爆<rt>すいばく</rt></ruby></span>を<span\
+  \ style=\"color: blue;\"><ruby>飛<rt>と</rt></ruby>ばす</span>ことができると<ruby>言<rt>い</rt></ruby>っています。テレビには、<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>の<ruby>前<rt>まえ</rt></ruby>にキム・ジョンウン<ruby>朝鮮労働党委員長<rt>ちょうせんろうどうとういいんちょう</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>水爆<rt>すいばく</rt></ruby></span>だという<ruby>物<rt>もの</rt></ruby>を<ruby>見<rt>み</rt></ruby>ている<ruby>写真<rt>しゃしん</rt></ruby>も<ruby>出<rt>で</rt></ruby>ました。</p>\n\
+  <p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が<span style=\"color: blue;\"><ruby>核兵器<rt>かくへいき</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>をするのは６<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>です。この<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>は<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>大<rt>おお</rt></ruby>きい<span\
+  \ style=\"color: blue;\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>だと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>アメリカがトランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>になってから、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>核兵器<rt>かくへいき</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>をするのは<ruby>初<rt>はじ</rt></ruby>めてです。<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>はトランプ<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>に、<ruby>自分<rt>じぶん</rt></ruby>たちは<span\
+  \ style=\"color: blue;\"><ruby>核兵器<rt>かくへいき</rt></ruby></span>やＩＣＢＭを<ruby>作<rt>つく</rt></ruby>る<ruby>技術<rt>ぎじゅつ</rt></ruby>があると<ruby>強<rt>つよ</rt></ruby>く<ruby>言<rt>い</rt></ruby>いたいようです。</p>\n\
+  <p></p>"
+words:
+- word: 飛ばす
+  descriptions:
+  - <ruby><rb>飛</rb><rt>と</rt></ruby>ぶようにする。
+  - <ruby><rb>散</rb><rt>ち</rt></ruby>らす。
+  - <ruby><rb>走</rb><rt>はし</rt></ruby>らせる。
+  - <ruby><rb>間</rb><rt>あいだ</rt></ruby>をぬいて、<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む。
+  - <ruby><rb>言</rb><rt>い</rt></ruby>いふらす。
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく…する。
+- word: 水素爆弾
+  descriptions:
+  - <ruby><rb>水素</rb><rt>すいそ</rt></ruby>の<ruby><rb>原子核</rb><rt>げんしかく</rt></ruby>どうしがしょうとつしてヘリウムに<ruby><rb>変</rb><rt>か</rt></ruby>わるときに<ruby><rb>出</rb><rt>だ</rt></ruby>す、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>水爆</rb><rt>すいばく</rt></ruby>。
+- word: 実験
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。
+- word: 成功
+  descriptions:
+  - ものごとが<ruby><rb>思</rb><rt>おも</rt></ruby>いどおりにうまくいくこと。
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>地位</rb><rt>ちい</rt></ruby>や<ruby><rb>財産</rb><rt>ざいさん</rt></ruby>を<ruby><rb>得</rb><rt>え</rt></ruby>ること。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: ミサイル
+  descriptions:
+  - ロケットなどの<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>飛</rb><rt>と</rt></ruby>び、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby><ruby><rb>装置</rb><rt>そうち</rt></ruby>によって、<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>をとらえる<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>誘導弾</rb><rt>ゆうどうだん</rt></ruby>。
+- word: 核兵器
+  descriptions:
+  - <ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。
+- word: 爆発
+  descriptions:
+  - <ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>破裂</rb><rt>はれつ</rt></ruby>すること。
+  - おさえていた<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが、<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>出</rb><rt>で</rt></ruby>ること。
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+web_news_url: /news/web/2017/09/03/北朝鮮ICBM用水爆実験成功トランプ政権揺さぶりか/
+source_url: http://www3.nhk.or.jp/news/easy/k10011125121000/k10011125121000.html
+...
