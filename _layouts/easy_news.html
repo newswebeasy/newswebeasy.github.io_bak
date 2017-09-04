@@ -18,8 +18,6 @@
             <p></p>
             {% endif %}
 
-            {{ page.contents }}
-
             {% if page.voice_url %}
             <p></p>
             <p>
@@ -28,6 +26,8 @@
             </p>
             {% endif %}
             <p></p>
+
+            {{ page.contents }}
 
             {% for w in page.words %}
             <p><strong>{{ w.word }}</strong></p>
