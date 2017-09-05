@@ -1,0 +1,61 @@
+---
+layout: easy_news
+newsid: k10011127151000
+categories: easy
+title: アメリカ「もっと厳しい北朝鮮への制裁が必要」
+title_with_ruby: アメリカ「もっと<ruby>厳<rt>きび</rt></ruby>しい<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>への<ruby>制裁<rt>せいさい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>」
+last_modified_at: '2017-09-05T15:30:00+09:00'
+datetime: 2017年09月05日 15時30分
+description: 北朝鮮きたちょうせんは９月がつ３日みっか、核兵器かくへいきの実験じっけんをしました。
+description_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は９<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>、<ruby>核兵器<rt>かくへいき</rt></ruby>の<ruby>実験<rt>じっけん</rt></ruby>をしました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/05/k10011127151000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/05/k10011127151000.mp3
+contents: "<p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は９<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>核兵器<rt>かくへいき</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>をしました。<span style=\"color: blue;\"\
+  ><ruby>国連<rt>こくれん</rt></ruby></span>の<span style=\"color: blue;\"><ruby>安全保障理事会<rt>あんぜんほしょうりじかい</rt></ruby></span>は<ruby>４日<rt>よっか</rt></ruby>、<ruby>急<rt>いそ</rt></ruby>いで<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>きました。</p>\n\
+  <p>アメリカの<span style=\"color: blue;\"><ruby>大使<rt>たいし</rt></ruby></span>は<ruby>会議<rt>かいぎ</rt></ruby>で、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>への<span\
+  \ style=\"color: blue;\"><ruby>制裁<rt>せいさい</rt></ruby></span>を<ruby>今<rt>いま</rt></ruby>までよりもっと<ruby>厳<rt>きび</rt></ruby>しくしなければならないと<ruby>言<rt>い</rt></ruby>いました。そして、<ruby>今月<rt>こんげつ</rt></ruby>１１<ruby>日<rt>にち</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>制裁<rt>せいさい</rt></ruby></span>をするかどうか<ruby>決<rt>き</rt></ruby>めたいと<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の<span style=\"color: blue;\"><ruby>大使<rt>たいし</rt></ruby></span>も、<ruby>今<rt>いま</rt></ruby>までの<span\
+  \ style=\"color: blue;\"><ruby>制裁<rt>せいさい</rt></ruby></span>は<ruby>十分<rt>じゅうぶん</rt></ruby>ではないので、もっと<ruby>強<rt>つよ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>制裁<rt>せいさい</rt></ruby></span>が<ruby>必要<rt>ひつよう</rt></ruby>だと<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>新<rt>あたら</rt></ruby>しい<span style=\"color: blue;\"><ruby>制裁<rt>せいさい</rt></ruby></span>では、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>石油<rt>せきゆ</rt></ruby></span>を<ruby>輸出<rt>ゆしゅつ</rt></ruby>したり、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>中国<rt>ちゅうごく</rt></ruby>やロシアに<ruby>働<rt>はたら</rt></ruby>きに<ruby>行<rt>い</rt></ruby>ったりすることを<span\
+  \ style=\"color: blue;\"><ruby>禁止<rt>きんし</rt></ruby></span>する<span style=\"color:\
+  \ blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。</p>\n<p>しかし、<ruby>中国<rt>ちゅうごく</rt></ruby>とロシアの<span\
+  \ style=\"color: blue;\"><ruby>大使<rt>たいし</rt></ruby></span>は、<ruby>今<rt>いま</rt></ruby>までの<span\
+  \ style=\"color: blue;\"><ruby>制裁<rt>せいさい</rt></ruby></span>をしっかりやれば<ruby>十分<rt>じゅうぶん</rt></ruby>だと<ruby>言<rt>い</rt></ruby>いました。<ruby>日本<rt>にっぽん</rt></ruby>やアメリカと、<ruby>中国<rt>ちゅうごく</rt></ruby>やロシアは<ruby>意見<rt>いけん</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 制裁
+  descriptions:
+  - <ruby><rb>悪</rb><rt>わる</rt></ruby>いことをしたり、<ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>守</rb><rt>まも</rt></ruby>らなかったりした<ruby><rb>人</rb><rt>ひと</rt></ruby>を、こらしめること。
+- word: 核兵器
+  descriptions:
+  - <ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。
+- word: 実験
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: 安全保障理事会
+  descriptions:
+  - <ruby><rb>国連</rb><rt>こくれん</rt></ruby>の<ruby><rb>主要機関</rb><rt>しゅようきかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>国際社会</rb><rt>こくさいしゃかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ることを<ruby><rb>目的</rb><rt>もくてき</rt></ruby>とし、１５の<ruby><rb>国連加盟国</rb><rt>こくれんかめいこく</rt></ruby>で<ruby><rb>構成</rb><rt>こうせい</rt></ruby>されている。
+- word: 大使
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>して<ruby><rb>外交</rb><rt>がいこう</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>外交官</rb><rt>がいこうかん</rt></ruby>のいちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役</rb><rt>やく</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 石油
+  descriptions:
+  - <ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>から<ruby><rb>出</rb><rt>で</rt></ruby>る、<ruby><rb>黒</rb><rt>くろ</rt></ruby>くどろどろした<ruby><rb>燃</rb><rt>も</rt></ruby>えやすい<ruby><rb>油</rb><rt>あぶら</rt></ruby>。<ruby><rb>大昔</rb><rt>おおむかし</rt></ruby>の<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>が<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>にうまってできたもの。<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>からとったままのものを<ruby><rb>原油</rb><rt>げんゆ</rt></ruby>といい、ガソリン・<ruby><rb>軽油</rb><rt>けいゆ</rt></ruby>・<ruby><rb>灯油</rb><rt>とうゆ</rt></ruby>・<ruby><rb>重油</rb><rt>じゅうゆ</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る。<ruby><rb>化学工業</rb><rt>かがくこうぎょう</rt></ruby>の<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>としても<ruby><rb>使</rb><rt>つか</rt></ruby>われる。
+  - 「<span class="dic_sansyogogi">1)</span>」から<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>燃料</rb><rt>ねんりょう</rt></ruby>やじゅんかつ<ruby><rb>油</rb><rt>ゆ</rt></ruby>などの<ruby><rb>製品</rb><rt>せいひん</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>灯油</rb><rt>とうゆ</rt></ruby>のこと。
+- word: 禁止
+  descriptions:
+  - してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+web_news_url: /news/web/2017/09/05/国連安保理-米新たな制裁決議を-中ロは慎重/
+source_url: http://www3.nhk.or.jp/news/easy/k10011127151000/k10011127151000.html
+...
