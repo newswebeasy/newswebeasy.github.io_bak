@@ -1,0 +1,61 @@
+---
+layout: easy_news
+newsid: k10011126641000
+categories: easy
+title: スマートフォンなど１４万台がサイバー攻撃に悪用される
+title_with_ruby: スマートフォンなど１４<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby>がサイバー<ruby>攻撃<rt>こうげき</rt></ruby>に<ruby>悪用<rt>あくよう</rt></ruby>される
+last_modified_at: '2017-09-05T15:30:00+09:00'
+datetime: 2017年09月05日 15時30分
+description: １００以上いじょうの国くにの約やく１４万まん台だいのスマートフォンなどが、会社かいしゃなどのコンピューターに不正ふせいに入はいる「サイバー攻撃こうげき」に悪用あくようされたことがわかりました。
+description_with_ruby: １００<ruby>以上<rt>いじょう</rt></ruby>の<ruby>国<rt>くに</rt></ruby>の<ruby>約<rt>やく</rt></ruby>１４<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby>のスマートフォンなどが、<ruby>会社<rt>かいしゃ</rt></ruby>などのコンピューターに<ruby>不正<rt>ふせい</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る「サイバー<ruby>攻撃<rt>こうげき</rt></ruby>」に<ruby>悪用<rt>あくよう</rt></ruby>されたことがわかりました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/05/k10011126641000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/05/k10011126641000.mp3
+contents: "<p>１００<ruby>以上<rt>いじょう</rt></ruby>の<ruby>国<rt>くに</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１４<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby>のスマートフォンなどが、<ruby>会社<rt>かいしゃ</rt></ruby>などのコンピューターに<span\
+  \ style=\"color: blue;\"><ruby>不正<rt>ふせい</rt></ruby></span>に<ruby>入<rt>はい</rt></ruby>る「サイバー<ruby>攻撃<rt>こうげき</rt></ruby>」に<span\
+  \ style=\"color: blue;\"><ruby>悪用<rt>あくよう</rt></ruby></span>されたことがわかりました。アメリカや<span\
+  \ style=\"color: blue;\">ヨーロッパ</span>、アジアの５０<ruby>以上<rt>いじょう</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>で、インターネットを<ruby>使<rt>つか</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>ができなくなったりしました。</p>\n\
+  <p>コンピューターの<span style=\"color: blue;\">セキュリティー</span>の<ruby>会社<rt>かいしゃ</rt></ruby>によると、グーグルの「アンドロイド」を<ruby>使<rt>つか</rt></ruby>っているスマートフォンなどが<span\
+  \ style=\"color: blue;\"><ruby>悪用<rt>あくよう</rt></ruby></span>されていました。<ruby>会社<rt>かいしゃ</rt></ruby>は、グーグルの<span\
+  \ style=\"color: blue;\">ウェブサイト</span>から<span style=\"color: blue;\">ダウンロード</span>できるアプリに、<span\
+  \ style=\"color: blue;\"><ruby>不正<rt>ふせい</rt></ruby></span>な<span style=\"color:\
+  \ blue;\">プログラム</span>が<ruby>入<rt>はい</rt></ruby>っていたと<ruby>考<rt>かんが</rt></ruby>えています。このアプリが<ruby>入<rt>はい</rt></ruby>ったスマートフォンなどを、<ruby>誰<rt>だれ</rt></ruby>かが<ruby>別<rt>べつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>動<rt>うご</rt></ruby>かし</span>てサイバー<ruby>攻撃<rt>こうげき</rt></ruby>をしたと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>不正<rt>ふせい</rt></ruby></span>なアプリは３００<ruby>個<rt>こ</rt></ruby>ぐらい<ruby>見<rt>み</rt></ruby>つかって、グーグルは<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>消<rt>け</rt></ruby>したと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 悪用
+  descriptions:
+  - もともとの<ruby><rb>使</rb><rt>つか</rt></ruby>い<ruby><rb>方</rb><rt>かた</rt></ruby>から<ruby><rb>外</rb><rt>はず</rt></ruby>れて、よくないことに<ruby><rb>使</rb><rt>つか</rt></ruby>うこと。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 不正
+  descriptions:
+  - <ruby><rb>正</rb><rt>ただ</rt></ruby>しくないこと。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: セキュリティー
+  descriptions:
+  - <ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ること。<ruby><rb>防犯</rb><rt>ぼうはん</rt></ruby>。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+- word: ダウンロード
+  descriptions:
+  - ほかのコンピューターから<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のパソコンなどに、<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>なデータを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>入</rb><rt>い</rt></ruby>れること。
+- word: プログラム
+  descriptions:
+  - <ruby><rb>番組</rb><rt>ばんぐみ</rt></ruby>。<ruby><rb>予定表</rb><rt>よていひょう</rt></ruby>。
+  - コンピューターに<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をさせるための<ruby><rb>手順</rb><rt>てじゅん</rt></ruby>や<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>をコンピューター<ruby><rb>用</rb><rt>よう</rt></ruby>のことばで<ruby><rb>書</rb><rt>か</rt></ruby>くこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>いたもの。
+- word: 動かす
+  descriptions:
+  - <ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。
+  - <ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - <ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。
+web_news_url: /news/web/2017/09/04/スマホ14万台乗っ取りサイバー攻撃-新たな手口に警戒を/
+source_url: http://www3.nhk.or.jp/news/easy/k10011126641000/k10011126641000.html
+...
