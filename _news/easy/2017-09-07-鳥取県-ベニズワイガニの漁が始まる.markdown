@@ -1,0 +1,53 @@
+---
+layout: easy_news
+newsid: k10011128721000
+categories: easy
+title: 鳥取県　ベニズワイガニの漁が始まる
+title_with_ruby: <ruby>鳥取県<rt>とっとりけん</rt></ruby>　ベニズワイガニの<ruby>漁<rt>りょう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+last_modified_at: '2017-09-07T16:00:00+09:00'
+datetime: 2017年09月07日 16時00分
+description: 日本海にほんかいでは毎年まいとし９月がつから次つぎの年としの６月がつまで、ベニズワイガニというかにの漁りょうをします。
+description_with_ruby: <ruby>日本海<rt>にほんかい</rt></ruby>では<ruby>毎年<rt>まいとし</rt></ruby>９<ruby>月<rt>がつ</rt></ruby>から<ruby>次<rt>つぎ</rt></ruby>の<ruby>年<rt>とし</rt></ruby>の６<ruby>月<rt>がつ</rt></ruby>まで、ベニズワイガニというかにの<ruby>漁<rt>りょう</rt></ruby>をします。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/07/k10011128721000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/07/k10011128721000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>日本海<rt>にほんかい</rt></ruby></span>では<ruby>毎年<rt>まいとし</rt></ruby>９<ruby>月<rt>がつ</rt></ruby>から<ruby>次<rt>つぎ</rt></ruby>の<ruby>年<rt>とし</rt></ruby>の６<ruby>月<rt>がつ</rt></ruby>まで、ベニズワイガニという<span\
+  \ style=\"color: blue;\">かに</span>の<span style=\"color: blue;\"><ruby>漁<rt>りょう</rt></ruby></span>をします。この<span\
+  \ style=\"color: blue;\">かに</span>が<ruby>少<rt>すく</rt></ruby>なくならないように、７<ruby>月<rt>がつ</rt></ruby>と８<ruby>月<rt>がつ</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>漁<rt>りょう</rt></ruby></span>を<ruby>休<rt>やす</rt></ruby>んでいます。<ruby>今年<rt>ことし</rt></ruby>も９<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>漁<rt>りょう</rt></ruby></span>が<ruby>始<rt>はじ</rt></ruby>まりました。</p>\n\
+  <p><ruby>５日<rt>いつか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<span style=\"color: blue;\"\
+  ><ruby>漁<rt>りょう</rt></ruby></span>に<ruby>行<rt>い</rt></ruby>っていた１<span style=\"color:\
+  \ blue;\"><ruby>隻<rt>せき</rt></ruby></span>の<ruby>船<rt>ふね</rt></ruby>が、<ruby>鳥取県<rt>とっとりけん</rt></ruby><ruby>境港市<rt>さかいみなとし</rt></ruby>の<ruby>港<rt>みなと</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>ってきました。この<ruby>港<rt>みなと</rt></ruby>には、<span\
+  \ style=\"color: blue;\"><ruby>日本海<rt>にほんかい</rt></ruby></span>でとったベニズワイガニが<ruby>日本<rt>にっぽん</rt></ruby>でいちばん<ruby>多<rt>おお</rt></ruby>く<ruby>集<rt>あつ</rt></ruby>まります。<span\
+  \ style=\"color: blue;\"><ruby>競<rt>せ</rt></ruby>り</span>では、<span style=\"color:\
+  \ blue;\">かに</span>を<ruby>買<rt>か</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>が<ruby>色<rt>いろ</rt></ruby>をチェックしたり、<span\
+  \ style=\"color: blue;\">かに</span>を<ruby>触<rt>さわ</rt></ruby>ったりしていました。３０ｋｇの<ruby>値段<rt>ねだん</rt></ruby>は１<ruby>万<rt>まん</rt></ruby>１１００<ruby>円<rt>えん</rt></ruby>ぐらいで、<ruby>去年<rt>きょねん</rt></ruby>より１４００<ruby>円<rt>えん</rt></ruby>ぐらい<ruby>高<rt>たか</rt></ruby>くなりました。</p>\n\
+  <p><ruby>戻<rt>もど</rt></ruby>ってきた<ruby>船<rt>ふね</rt></ruby>は、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<span\
+  \ style=\"color: blue;\">ミサイル</span>が<ruby>落<rt>お</rt></ruby>ちたことがある<span style=\"\
+  color: blue;\"><ruby>日本海<rt>にほんかい</rt></ruby></span>で<span style=\"color: blue;\"\
+  ><ruby>漁<rt>りょう</rt></ruby></span>をしていました。<span style=\"color: blue;\"><ruby>漁<rt>りょう</rt></ruby></span>をしている<ruby>人<rt>ひと</rt></ruby>は「<ruby>家族<rt>かぞく</rt></ruby>も<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<span\
+  \ style=\"color: blue;\">ミサイル</span>を<ruby>心配<rt>しんぱい</rt></ruby>していると<ruby>思<rt>おも</rt></ruby>います。<ruby>私<rt>わたし</rt></ruby>たちは<ruby>何<rt>なに</rt></ruby>もできませんが、<ruby>早<rt>はや</rt></ruby>くやめてもらいたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 漁
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>などをとること。
+- word: 日本海
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>東</rb><rt>ひがし</rt></ruby>と<ruby><rb>日本列島</rb><rt>にほんれっとう</rt></ruby>にはさまれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: 蟹
+  descriptions:
+  - かたいこうらでおおわれた<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむタカアシガニ・ケガニや、<ruby><rb>谷川</rb><rt>たにがわ</rt></ruby>にすむサワガニなどがいる。<ruby><rb>足</rb><rt>あし</rt></ruby>が１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>あり、そのうちの２<ruby><rb>本</rb><rt>ほん</rt></ruby>がはさみになっている。
+- word: 隻
+  descriptions:
+  - ただ<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。また、ほんの<ruby><rb>少</rb><rt>すこ</rt></ruby>し。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 競り売り
+  descriptions:
+  - <ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。
+- word: ミサイル
+  descriptions:
+  - ロケットなどの<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>飛</rb><rt>と</rt></ruby>び、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby><ruby><rb>装置</rb><rt>そうち</rt></ruby>によって、<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>をとらえる<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>誘導弾</rb><rt>ゆうどうだん</rt></ruby>。
+web_news_url: /news/web/2017/09/06/ベニズワイガニの初水揚げ-鳥取-境港/
+source_url: http://www3.nhk.or.jp/news/easy/k10011128721000/k10011128721000.html
+...
