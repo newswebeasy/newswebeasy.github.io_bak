@@ -1,0 +1,77 @@
+---
+layout: easy_news
+newsid: k10011126061000
+categories: easy
+title: 車の火事　ドライブレコーダーの電池から火が出た可能性
+title_with_ruby: <ruby>車<rt>くるま</rt></ruby>の<ruby>火事<rt>かじ</rt></ruby>　ドライブレコーダーの<ruby>電池<rt>でんち</rt></ruby>から<ruby>火<rt>ひ</rt></ruby>が<ruby>出<rt>で</rt></ruby>た<ruby>可能性<rt>かのうせい</rt></ruby>
+last_modified_at: '2017-09-05T11:30:00+09:00'
+datetime: 2017年09月05日 11時30分
+description: 止とめてあった車くるまが焼やける火事かじが２０１５年ねんから続つづきました。
+description_with_ruby: <ruby>止<rt>と</rt></ruby>めてあった<ruby>車<rt>くるま</rt></ruby>が<ruby>焼<rt>や</rt></ruby>ける<ruby>火事<rt>かじ</rt></ruby>が２０１５<ruby>年<rt>ねん</rt></ruby>から<ruby>続<rt>つづ</rt></ruby>きました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/05/k10011126061000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/05/k10011126061000.mp3
+contents: "<p><ruby>止<rt>と</rt></ruby>めてあった<ruby>車<rt>くるま</rt></ruby>が<ruby>焼<rt>や</rt></ruby>ける<ruby>火事<rt>かじ</rt></ruby>が２０１５<ruby>年<rt>ねん</rt></ruby>から<ruby>続<rt>つづ</rt></ruby>きました。<span\
+  \ style=\"color: blue;\"><ruby>消防署<rt>しょうぼうしょ</rt></ruby></span>などが<ruby>調<rt>しら</rt></ruby>べた<span\
+  \ style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>、４<span style=\"color:\
+  \ blue;\"><ruby>件<rt>けん</rt></ruby></span>の<ruby>火事<rt>かじ</rt></ruby>では<ruby>車<rt>くるま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の「ドライブレコーダー」から<ruby>火<rt>ひ</rt></ruby>が<ruby>出<rt>で</rt></ruby>たことがわかりました。</p>\n\
+  <p>このドライブレコーダーは<ruby>全部<rt>ぜんぶ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>にあるユピテルという<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>売<rt>う</rt></ruby>った「ＤＲＹーＦＨ２００」でした。ドライブレコーダーにはカメラが<span\
+  \ style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>い</span>ていて、<ruby>車<rt>くるま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>から<ruby>外<rt>そと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>映像<rt>えいぞう</rt></ruby></span>を<ruby>撮<rt>と</rt></ruby>ったり<ruby>音<rt>おと</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>したりすることができます。</p>\n<p><ruby>今年<rt>ことし</rt></ruby>５<ruby>月<rt>がつ</rt></ruby>に<ruby>兵庫県<rt>ひょうごけん</rt></ruby>と<ruby>神奈川県<rt>かながわけん</rt></ruby>であった２<span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span>の<ruby>火事<rt>かじ</rt></ruby>では、このドライブレコーダーの<ruby>中<rt>なか</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>電池<rt>でんち</rt></ruby></span>から<ruby>火<rt>ひ</rt></ruby>が<ruby>出<rt>で</rt></ruby>た<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>いことがわかりました。ユピテルによると、このドライブレコーダーは２０１２<ruby>年<rt>ねん</rt></ruby>〜２０１３<ruby>年<rt>ねん</rt></ruby>に９<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby>ぐらい<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れ</span>ました。<ruby>今<rt>いま</rt></ruby>までに、<span\
+  \ style=\"color: blue;\"><ruby>電池<rt>でんち</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>膨<rt>ふく</rt></ruby>らん</span>だり<ruby>熱<rt>あつ</rt></ruby>くなったりして<ruby>困<rt>こま</rt></ruby>るという<ruby>相談<rt>そうだん</rt></ruby>が１００<span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span><ruby>以上<rt>いじょう</rt></ruby>ありました。</p>\n\
+  <p>ユピテルは、このドライブレコーダーを<ruby>使<rt>つか</rt></ruby>わないように<ruby>言<rt>い</rt></ruby>っています。そして<ruby>４日<rt>よっか</rt></ruby>から、<span\
+  \ style=\"color: blue;\"><ruby>無料<rt>むりょう</rt></ruby></span>で<ruby>新<rt>あたら</rt></ruby>しい<ruby>物<rt>もの</rt></ruby>と<ruby>取<rt>と</rt></ruby>り<ruby>替<rt>か</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>\n<p></p>"
+words:
+- word: 電池
+  descriptions:
+  - <ruby><rb>薬</rb><rt>くすり</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などのはたらきで、<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>が<ruby><rb>起</rb><rt>お</rt></ruby>きるようにしてある<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 消防署
+  descriptions:
+  - <ruby><rb>消防</rb><rt>しょうぼう</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をしたり、<ruby><rb>急病</rb><rt>きゅうびょう</rt></ruby>や<ruby><rb>事故</rb><rt>じこ</rt></ruby>にあった<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けたりする<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+- word: 件
+  descriptions:
+  - ことがら。できごと。
+  - ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 付く
+  descriptions:
+  - ものがくっつく。
+  - つきそう。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>わる。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まる。
+  - <ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。
+  - <ruby><rb>感</rb><rt>かん</rt></ruby>じる。
+  - ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。
+- word: 映像
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>によって<ruby><rb>映</rb><rt>うつ</rt></ruby>し<ruby><rb>出</rb><rt>だ</rt></ruby>された、<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+  - <ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にうかんだ<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やようす。イメージ。
+- word: 記録
+  descriptions:
+  - あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。
+- word: 売れる
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。
+- word: 膨らむ
+  descriptions:
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>盛</rb><rt>も</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>がって、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。ふくれて<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+- word: 無料
+  descriptions:
+  - <ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。
+web_news_url: /news/web/2017/09/04/ドライブレコーダーから出火-約8万5000台リコール/
+source_url: http://www3.nhk.or.jp/news/easy/k10011126061000/k10011126061000.html
+...

@@ -1,0 +1,41 @@
+---
+layout: easy_news
+newsid: k10011127041000
+categories: easy
+title: スマートフォンを使ってコンビニで電気などの料金を払う
+title_with_ruby: スマートフォンを<ruby>使<rt>つか</rt></ruby>ってコンビニで<ruby>電気<rt>でんき</rt></ruby>などの<ruby>料金<rt>りょうきん</rt></ruby>を<ruby>払<rt>はら</rt></ruby>う
+last_modified_at: '2017-09-06T11:30:00+09:00'
+datetime: 2017年09月06日 11時30分
+description: 三井みつい住友すみとも銀行ぎんこうとＮＥＣは、スマートフォンを使つかってコンビニで電気でんきやガスなどの料金りょうきんを払はらうことができる新あたらしいシステムをつくりました。
+description_with_ruby: <ruby>三井<rt>みつい</rt></ruby><ruby>住友<rt>すみとも</rt></ruby><ruby>銀行<rt>ぎんこう</rt></ruby>とＮＥＣは、スマートフォンを<ruby>使<rt>つか</rt></ruby>ってコンビニで<ruby>電気<rt>でんき</rt></ruby>やガスなどの<ruby>料金<rt>りょうきん</rt></ruby>を<ruby>払<rt>はら</rt></ruby>うことができる<ruby>新<rt>あたら</rt></ruby>しいシステムをつくりました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/06/k10011127041000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/06/k10011127041000.mp3
+contents: "<p><ruby>三井<rt>みつい</rt></ruby><ruby>住友<rt>すみとも</rt></ruby><ruby>銀行<rt>ぎんこう</rt></ruby>とＮＥＣは、スマートフォンを<ruby>使<rt>つか</rt></ruby>って<span\
+  \ style=\"color: blue;\">コンビニ</span>で<ruby>電気<rt>でんき</rt></ruby>やガスなどの<span style=\"\
+  color: blue;\"><ruby>料金<rt>りょうきん</rt></ruby></span>を<ruby>払<rt>はら</rt></ruby>うことができる<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\">システム</span>をつくりました。この<span style=\"color: blue;\">システム</span>のアプリをスマートフォンに<ruby>入<rt>い</rt></ruby>れると、<span\
+  \ style=\"color: blue;\"><ruby>料金<rt>りょうきん</rt></ruby></span>を<ruby>払<rt>はら</rt></ruby>うときに<ruby>必要<rt>ひつよう</rt></ruby>な<span\
+  \ style=\"color: blue;\">バーコード</span>が<span style=\"color: blue;\"><ruby>画面<rt>がめん</rt></ruby></span>に<ruby>出<rt>で</rt></ruby>て、<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>払<rt>はら</rt></ruby>うことができます。</p>\n\
+  <p>「ミニストップ」と<ruby>北海道<rt>ほっかいどう</rt></ruby>の「セコマ」は、<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまでにこの<span\
+  \ style=\"color: blue;\">システム</span>を<ruby>入<rt>い</rt></ruby>れます。「セブンーイレブン・ジャパン」でも、<ruby>来年<rt>らいねん</rt></ruby>から<ruby>入<rt>い</rt></ruby>れる<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: コンビニ
+  descriptions:
+  - <ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。
+- word: 料金
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ったり、<ruby><rb>見</rb><rt>み</rt></ruby>たりしたことに<ruby><rb>対</rb><rt>たい</rt></ruby>してはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: システム
+  descriptions:
+  - <ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+  - ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。
+- word: バーコード
+  descriptions:
+  - <ruby><rb>商品</rb><rt>しょうひん</rt></ruby>の<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>や<ruby><rb>製造</rb><rt>せいぞう</rt></ruby><ruby><rb>年月日</rb><rt>ねんがっぴ</rt></ruby>などを<ruby><rb>表</rb><rt>あらわ</rt></ruby>す<ruby><rb>符号</rb><rt>ふごう</rt></ruby>。<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>の、<ruby><rb>太</rb><rt>ふと</rt></ruby>い・<ruby><rb>細</rb><rt>ほそ</rt></ruby>いを<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせてある。コンピューターによる<ruby><rb>商品</rb><rt>しょうひん</rt></ruby>の<ruby><rb>管理</rb><rt>かんり</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+- word: 画面
+  descriptions:
+  - <ruby><rb>映画</rb><rt>えいが</rt></ruby>やテレビが<ruby><rb>映</rb><rt>うつ</rt></ruby>っている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+web_news_url: /news/web/2017/09/05/コンビニ各社-スマホで公共料金など支払い導入へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011127041000/k10011127041000.html
+...

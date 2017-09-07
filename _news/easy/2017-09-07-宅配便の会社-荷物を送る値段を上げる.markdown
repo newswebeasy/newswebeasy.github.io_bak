@@ -1,0 +1,47 @@
+---
+layout: easy_news
+newsid: k10011127821000
+categories: easy
+title: 宅配便の会社　荷物を送る値段を上げる
+title_with_ruby: <ruby>宅配便<rt>たくはいびん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>　<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る<ruby>値段<rt>ねだん</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げる
+last_modified_at: '2017-09-07T11:30:00+09:00'
+datetime: 2017年09月07日 11時30分
+description: インターネットで買かい物ものをする人ひとが増ふえて、宅配便たくはいびんの会社かいしゃは、荷物にもつを届とどける人ひとが足たりなくて困こまっています。
+description_with_ruby: インターネットで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えて、<ruby>宅配便<rt>たくはいびん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>届<rt>とど</rt></ruby>ける<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくて<ruby>困<rt>こま</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/07/k10011127821000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/07/k10011127821000.mp3
+contents: "<p>インターネットで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えて、<span\
+  \ style=\"color: blue;\"><ruby>宅配便<rt>たくはいびん</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>届<rt>とど</rt></ruby>ける<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくて<ruby>困<rt>こま</rt></ruby>っています。どこの<ruby>会社<rt>かいしゃ</rt></ruby>も、<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>届<rt>とど</rt></ruby>ける<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>を<ruby>上<rt>あ</rt></ruby>げているため、<ruby>必要<rt>ひつよう</rt></ruby>なお<ruby>金<rt>かね</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。</p>\n\
+  <p>このためヤマト<ruby>運輸<rt>うんゆ</rt></ruby>は、１０<ruby>月<rt>がつ</rt></ruby>から<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る<ruby>値段<rt>ねだん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>で１５％<ruby>上<rt>あ</rt></ruby>げることを<ruby>決<rt>き</rt></ruby>めています。<ruby>佐川急便<rt>さがわきゅうびん</rt></ruby>も１１<ruby>月<rt>がつ</rt></ruby>から<ruby>上<rt>あ</rt></ruby>げる<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p><ruby>日本郵便<rt>にっぽんゆうびん</rt></ruby>も<ruby>５日<rt>いつか</rt></ruby>、<ruby>来年<rt>らいねん</rt></ruby>の３<ruby>月<rt>がつ</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>で１２％<ruby>上<rt>あ</rt></ruby>げると<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<ruby>日本郵便<rt>にっぽんゆうびん</rt></ruby>は、<span\
+  \ style=\"color: blue;\">クレジットカード</span>などで<ruby>先<rt>さき</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>ったときは<ruby>値段<rt>ねだん</rt></ruby>を<ruby>安<rt>やす</rt></ruby>くする<span\
+  \ style=\"color: blue;\">サービス</span>なども<ruby>始<rt>はじ</rt></ruby>めると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 宅配便
+  descriptions:
+  - <ruby><rb>荷物</rb><rt>にもつ</rt></ruby>などを、<ruby><rb>送</rb><rt>おく</rt></ruby>り<ruby><rb>先</rb><rt>さき</rt></ruby>の<ruby><rb>家</rb><rt>いえ</rt></ruby>まで<ruby><rb>届</rb><rt>とど</rt></ruby>ける<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。
+- word: 給料
+  descriptions:
+  - やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: クレジットカード
+  descriptions:
+  - <ruby><rb>現金</rb><rt>げんきん</rt></ruby>を<ruby><rb>払</rb><rt>はら</rt></ruby>わなくても、<ruby><rb>後払</rb><rt>あとばら</rt></ruby>いで<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>物</rb><rt>もの</rt></ruby>をすることができるカード。
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+web_news_url: /news/web/2017/09/05/ゆうパック-平均12値上げへ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011127821000/k10011127821000.html
+...

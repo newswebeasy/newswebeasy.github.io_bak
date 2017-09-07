@@ -1,0 +1,74 @@
+---
+layout: easy_news
+newsid: k10011127761000
+categories: easy
+title: ウサイン・ボルトさんがイベントのために京都に来る
+title_with_ruby: ウサイン・ボルトさんがイベントのために<ruby>京都<rt>きょうと</rt></ruby>に<ruby>来<rt>く</rt></ruby>る
+last_modified_at: '2017-09-06T16:55:00+09:00'
+datetime: 2017年09月06日 16時55分
+description: ジャマイカのウサイン・ボルトさんは、陸上競技りくじょうきょうぎの男子だんし１００ｍで、世界せかいでいちばん速はやい９秒びょう５８の記録きろくを持もっています。
+description_with_ruby: ジャマイカのウサイン・ボルトさんは、<ruby>陸上競技<rt>りくじょうきょうぎ</rt></ruby>の<ruby>男子<rt>だんし</rt></ruby>１００ｍで、<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>速<rt>はや</rt></ruby>い９<ruby>秒<rt>びょう</rt></ruby>５８の<ruby>記録<rt>きろく</rt></ruby>を<ruby>持<rt>も</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/06/k10011127761000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/06/k10011127761000.mp3
+contents: "<p>ジャマイカのウサイン・ボルトさんは、<span style=\"color: blue;\"><ruby>陸上競技<rt>りくじょうきょうぎ</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>男子<rt>だんし</rt></ruby></span>１００ｍで、<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>速<rt>はや</rt></ruby>い９<span\
+  \ style=\"color: blue;\"><ruby>秒<rt>びょう</rt></ruby></span>５８の<span style=\"color:\
+  \ blue;\"><ruby>記録<rt>きろく</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>っています。<ruby>先月<rt>せんげつ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>を<span style=\"color:\
+  \ blue;\">やめ</span>たボルトさんは、<span style=\"color: blue;\">イベント</span>に<ruby>出<rt>で</rt></ruby>るために<ruby>京都<rt>きょうと</rt></ruby>に<ruby>来<rt>き</rt></ruby>ました。</p>\n\
+  <p><ruby>子<rt>こ</rt></ruby>どもたちが<ruby>走<rt>はし</rt></ruby>る<span style=\"color: blue;\"\
+  >イベント</span>で、ボルトさんは「<ruby>腕<rt>うで</rt></ruby>を<ruby>速<rt>はや</rt></ruby>く<span style=\"\
+  color: blue;\"><ruby>振<rt>ふ</rt></ruby>り</span>ましょう」と<span style=\"color: blue;\"\
+  >アドバイス</span>をしました。ボルトさんは、<ruby>着物<rt>きもの</rt></ruby>を<ruby>着<rt>き</rt></ruby>た<ruby>舞妓<rt>まいこ</rt></ruby>や<ruby>子<rt>こ</rt></ruby>どもたちと<ruby>一緒<rt>いっしょ</rt></ruby>に、みんなが<ruby>知<rt>し</rt></ruby>っている<span\
+  \ style=\"color: blue;\"><ruby>弓<rt>ゆみ</rt></ruby></span>を<ruby>引<rt>ひ</rt></ruby>く<span\
+  \ style=\"color: blue;\">ポーズ</span>もしました。</p>\n<p>ボルトさんは「<ruby>京都<rt>きょうと</rt></ruby>にはすばらしいお<ruby>寺<rt>てら</rt></ruby>もあると<ruby>聞<rt>き</rt></ruby>いているので、ぜひ<ruby>行<rt>い</rt></ruby>ってみたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 陸上競技
+  descriptions:
+  - <ruby><rb>走</rb><rt>はし</rt></ruby>る・<ruby><rb>投</rb><rt>な</rt></ruby>げる・<ruby><rb>跳</rb><rt>と</rt></ruby>ぶなどのスポーツ。トラックとフィールドの<ruby><rb>二種類</rb><rt>にしゅるい</rt></ruby>がある。<ruby><rb>陸上</rb><rt>りくじょう</rt></ruby>。
+- word: 男子
+  descriptions:
+  - <ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。
+  - おとこ。
+- word: 秒
+  descriptions:
+  - <ruby><rb>時間</rb><rt>じかん</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。
+  - <ruby><rb>角度</rb><rt>かくど</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。
+- word: 記録
+  descriptions:
+  - あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 辞める
+  descriptions:
+  - <ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。
+- word: 振る
+  descriptions:
+  - ゆり<ruby><rb>動</rb><rt>うご</rt></ruby>かす。
+  - まき<ruby><rb>散</rb><rt>ち</rt></ruby>らす。
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>割</rb><rt>わ</rt></ruby>り<ruby><rb>当</rb><rt>あ</rt></ruby>てる。
+  - つける。
+  - やめる。<ruby><rb>断</rb><rt>ことわ</rt></ruby>る。
+  - むだにする。
+  - <ruby><rb>向</rb><rt>む</rt></ruby>きを<ruby><rb>変</rb><rt>か</rt></ruby>える。
+- word: アドバイス
+  descriptions:
+  - ちょっとしたことを<ruby><rb>教</rb><rt>おし</rt></ruby>えて<ruby><rb>助</rb><rt>たす</rt></ruby>けること。また、そのことば。<ruby><rb>助言</rb><rt>じょげん</rt></ruby>。
+- word: 弓
+  descriptions:
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>武器</rb><rt>ぶき</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。つるを<ruby><rb>張</rb><rt>は</rt></ruby>り、<ruby><rb>矢</rb><rt>や</rt></ruby>をつがえて<ruby><rb>射</rb><rt>い</rt></ruby>る<ruby><rb>物</rb><rt>もの</rt></ruby>。
+  - バイオリンやチェロなどをひく<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。
+- word: ポーズ
+  descriptions:
+  - <ruby><rb>写真</rb><rt>しゃしん</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>などの<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>の<ruby><rb>姿勢</rb><rt>しせい</rt></ruby>。
+  - <ruby><rb>見</rb><rt>み</rt></ruby>せかけ。
+web_news_url: /news/web/2017/09/05/ウサインボルトさん-京都-祇園で子どもと交流/
+source_url: http://www3.nhk.or.jp/news/easy/k10011127761000/k10011127761000.html
+...

@@ -1,0 +1,89 @@
+---
+layout: easy_news
+newsid: k10011129871000
+categories: easy
+title: アメリカ　首都ワシントンと１５の州が政府を訴える
+title_with_ruby: アメリカ　<ruby>首都<rt>しゅと</rt></ruby>ワシントンと１５の<ruby>州<rt>しゅう</rt></ruby>が<ruby>政府<rt>せいふ</rt></ruby>を<ruby>訴<rt>うった</rt></ruby>える
+last_modified_at: '2017-09-07T16:00:00+09:00'
+datetime: 2017年09月07日 16時00分
+description: アメリカには、子こどものときに親おやと一緒いっしょに、法律ほうりつに違反いはんしてメキシコなどから入はいって来きた若わかい人ひとがたくさんいます。
+description_with_ruby: アメリカには、<ruby>子<rt>こ</rt></ruby>どものときに<ruby>親<rt>おや</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に、<ruby>法律<rt>ほうりつ</rt></ruby>に<ruby>違反<rt>いはん</rt></ruby>してメキシコなどから<ruby>入<rt>はい</rt></ruby>って<ruby>来<rt>き</rt></ruby>た<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>がたくさんいます。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/07/k10011129871000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/07/k10011129871000.mp3
+contents: "<p>アメリカには、<ruby>子<rt>こ</rt></ruby>どものときに<span style=\"color: blue;\"><ruby>親<rt>おや</rt></ruby></span>と<ruby>一緒<rt>いっしょ</rt></ruby>に、<ruby>法律<rt>ほうりつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>違反<rt>いはん</rt></ruby></span>してメキシコなどから<ruby>入<rt>はい</rt></ruby>って<ruby>来<rt>き</rt></ruby>た<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>がたくさんいます。<ruby>前<rt>まえ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>だったオバマさんは２０１２<ruby>年<rt>ねん</rt></ruby>、このような<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>たちがアメリカに<ruby>住<rt>す</rt></ruby>んだり<ruby>働<rt>はたら</rt></ruby>いたりすることができる<span\
+  \ style=\"color: blue;\"><ruby>許可<rt>きょか</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>しました。</p>\n\
+  <p>アメリカの<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は<ruby>５日<rt>いつか</rt></ruby>、この<span\
+  \ style=\"color: blue;\"><ruby>許可<rt>きょか</rt></ruby></span>は<span style=\"color:\
+  \ blue;\"><ruby>憲法<rt>けんぽう</rt></ruby></span>に<span style=\"color: blue;\"><ruby>違反<rt>いはん</rt></ruby></span>しているため、やめると<ruby>決<rt>き</rt></ruby>めました。</p>\n\
+  <p><ruby>６日<rt>むいか</rt></ruby>、<span style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>ワシントンと１５の<span\
+  \ style=\"color: blue;\"><ruby>州<rt>しゅう</rt></ruby></span>は<span style=\"color:\
+  \ blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>が<ruby>決<rt>き</rt></ruby>めたことは<span\
+  \ style=\"color: blue;\"><ruby>差別<rt>さべつ</rt></ruby></span>で、<ruby>経済<rt>けいざい</rt></ruby>を<ruby>悪<rt>わる</rt></ruby>くすると<ruby>言<rt>い</rt></ruby>いました。そして、<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>が<ruby>決<rt>き</rt></ruby>めたことをやめさせるようにニューヨークの<ruby>連邦<rt>れんぽう</rt></ruby><ruby>裁判所<rt>さいばんしょ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>訴<rt>うった</rt></ruby>え</span>ました。</p>\n<p>アメリカの<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<span style=\"color:\
+  \ blue;\"><ruby>許可<rt>きょか</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>はこれから６か<ruby>月<rt>げつ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>、アメリカにいてもいいと<ruby>言<rt>い</rt></ruby>いました。その<ruby>間<rt>あいだ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>議会<rt>ぎかい</rt></ruby></span>が<ruby>何<rt>なに</rt></ruby>か<ruby>考<rt>かんが</rt></ruby>えないと、８０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>たちが<ruby>生<rt>う</rt></ruby>まれた<ruby>国<rt>くに</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>戻<rt>もど</rt></ruby>さ</span>れる<span style=\"color:\
+  \ blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。</p>\n<p></p>\n<p></p>"
+words:
+- word: 首都
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。
+- word: 州
+  descriptions:
+  - <ruby><rb>大陸</rb><rt>たいりく</rt></ruby>。
+  - （<ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>や、<ruby><rb>今</rb><rt>いま</rt></ruby>のアメリカなどで）<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をするつごうで<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>区切</rb><rt>くぎ</rt></ruby>り。
+  - す。<ruby><rb>川</rb><rt>かわ</rt></ruby>などの<ruby><rb>土</rb><rt>つち</rt></ruby>や<ruby><rb>砂</rb><rt>すな</rt></ruby>が<ruby><rb>積</rb><rt>つ</rt></ruby>もってできた<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>陸地</rb><rt>りくち</rt></ruby>。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 訴える
+  descriptions:
+  - <ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>に<ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>て、よい<ruby><rb>悪</rb><rt>わる</rt></ruby>いを<ruby><rb>決</rb><rt>き</rt></ruby>めてもらう。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>心</rb><rt>こころ</rt></ruby>によびかける。
+  - <ruby><rb>不平</rb><rt>ふへい</rt></ruby>や<ruby><rb>痛</rb><rt>いた</rt></ruby>みなどを<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>言</rb><rt>い</rt></ruby>う。
+  - あるやり<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+- word: 親
+  descriptions:
+  - <ruby><rb>父</rb><rt>ちち</rt></ruby>や<ruby><rb>母</rb><rt>はは</rt></ruby>。<ruby><rb>両親</rb><rt>りょうしん</rt></ruby>。
+  - <ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>をうんだもの。
+  - トランプやかるたなどの<ruby><rb>遊</rb><rt>あそ</rt></ruby>びで、カードを<ruby><rb>配</rb><rt>くば</rt></ruby>る<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となるもの。<ruby><rb>大</rb><rt>おお</rt></ruby>きいもの。
+- word: 違反
+  descriptions:
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 許可
+  descriptions:
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>ていたことを、よいと<ruby><rb>許</rb><rt>ゆる</rt></ruby>すこと。<ruby><rb>許</rb><rt>ゆる</rt></ruby>し。
+- word: 憲法
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>成</rb><rt>な</rt></ruby>り<ruby><rb>立</rb><rt>た</rt></ruby>っていく<ruby><rb>上</rb><rt>うえ</rt></ruby>で、いちばんだいじなことを<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>。
+- word: 差別
+  descriptions:
+  - あるものとほかのものとの<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>差</rb><rt>さ</rt></ruby>をつけて、あつかい<ruby><rb>方</rb><rt>かた</rt></ruby>をちがわせること。
+- word: 訴える
+  descriptions:
+  - <ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>に<ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>て、よい<ruby><rb>悪</rb><rt>わる</rt></ruby>いを<ruby><rb>決</rb><rt>き</rt></ruby>めてもらう。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>心</rb><rt>こころ</rt></ruby>によびかける。
+  - <ruby><rb>不平</rb><rt>ふへい</rt></ruby>や<ruby><rb>痛</rb><rt>いた</rt></ruby>みなどを<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>言</rb><rt>い</rt></ruby>う。
+  - あるやり<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+- word: 議会
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>に<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>について<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めをする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>の<ruby><rb>国会</rb><rt>こっかい</rt></ruby>と、<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>などの<ruby><rb>地方議会</rb><rt>ちほうぎかい</rt></ruby>とがある。
+- word: 戻す
+  descriptions:
+  - もとに<ruby><rb>返</rb><rt>かえ</rt></ruby>す。
+  - <ruby><rb>胃</rb><rt>い</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>のものをはく。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+web_news_url: /news/web/2017/09/07/米-不法入国移民の子の在留措置撤廃で15州が提訴/
+source_url: http://www3.nhk.or.jp/news/easy/k10011129871000/k10011129871000.html
+...

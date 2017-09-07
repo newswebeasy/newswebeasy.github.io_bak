@@ -1,0 +1,59 @@
+---
+layout: easy_news
+newsid: k10011127161000
+categories: easy
+title: オバマさんがトランプ大統領に手紙を書いていた
+title_with_ruby: オバマさんがトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>に<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>書<rt>か</rt></ruby>いていた
+last_modified_at: '2017-09-06T16:55:00+09:00'
+datetime: 2017年09月06日 16時55分
+description: アメリカのオバマさんが今年ことし１月がつに大統領だいとうりょうをやめるとき、次つぎのトランプ大統領だいとうりょうに手紙てがみを書かいていたことがわかりました。
+description_with_ruby: アメリカのオバマさんが<ruby>今年<rt>ことし</rt></ruby>１<ruby>月<rt>がつ</rt></ruby>に<ruby>大統領<rt>だいとうりょう</rt></ruby>をやめるとき、<ruby>次<rt>つぎ</rt></ruby>のトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>に<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>書<rt>か</rt></ruby>いていたことがわかりました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/06/k10011127161000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/06/k10011127161000.mp3
+contents: "<p>アメリカのオバマさんが<ruby>今年<rt>ことし</rt></ruby>１<ruby>月<rt>がつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>を<span style=\"\
+  color: blue;\">やめる</span>とき、<ruby>次<rt>つぎ</rt></ruby>のトランプ<span style=\"color: blue;\"\
+  ><ruby>大統領<rt>だいとうりょう</rt></ruby></span>に<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>書<rt>か</rt></ruby>いていたことがわかりました。</p>\n\
+  <p>オバマさんの<ruby>手紙<rt>てがみ</rt></ruby>は、<ruby>最初<rt>さいしょ</rt></ruby>に「<span style=\"\
+  color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>の<ruby>仕事<rt>しごと</rt></ruby>はどうしたら<span\
+  \ style=\"color: blue;\"><ruby>成功<rt>せいこう</rt></ruby></span>するかわからない<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>なので、<ruby>私<rt>わたし</rt></ruby>の<span\
+  \ style=\"color: blue;\">アドバイス</span>が<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つかどうかわかりませんが」と<ruby>書<rt>か</rt></ruby>いてあります。</p>\n\
+  <p><ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>との<ruby>関係<rt>かんけい</rt></ruby>については「アメリカの<span\
+  \ style=\"color: blue;\">リーダーシップ</span>が<ruby>世界<rt>せかい</rt></ruby>のために<ruby>必要<rt>ひつよう</rt></ruby>です」と<ruby>書<rt>か</rt></ruby>いてあります。そして、「<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>はアメリカの<span style=\"\
+  color: blue;\"><ruby>民主的<rt>みんしゅてき</rt></ruby></span>な<span style=\"color: blue;\"\
+  >ルール</span>を<span style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>っ</span>て、<ruby>法律<rt>ほうりつ</rt></ruby>やみんなの<ruby>自由<rt>じゆう</rt></ruby>などを<ruby>大切<rt>たいせつ</rt></ruby>にしなければなりません」と<ruby>書<rt>か</rt></ruby>いてあります。</p>\n\
+  <p><ruby>手紙<rt>てがみ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>したアメリカのテレビは、トランプ<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>はオバマさんの<span style=\"\
+  color: blue;\">アドバイス</span>を<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>てていないと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 辞める
+  descriptions:
+  - <ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。
+- word: 成功
+  descriptions:
+  - ものごとが<ruby><rb>思</rb><rt>おも</rt></ruby>いどおりにうまくいくこと。
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>地位</rb><rt>ちい</rt></ruby>や<ruby><rb>財産</rb><rt>ざいさん</rt></ruby>を<ruby><rb>得</rb><rt>え</rt></ruby>ること。
+- word: アドバイス
+  descriptions:
+  - ちょっとしたことを<ruby><rb>教</rb><rt>おし</rt></ruby>えて<ruby><rb>助</rb><rt>たす</rt></ruby>けること。また、そのことば。<ruby><rb>助言</rb><rt>じょげん</rt></ruby>。
+- word: リーダーシップ
+  descriptions:
+  - リーダーとしての、<ruby><rb>地位</rb><rt>ちい</rt></ruby>や<ruby><rb>力</rb><rt>ちから</rt></ruby>。
+- word: 民主的
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えを、だいじにするようす。
+- word: ルール
+  descriptions:
+  - <ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+web_news_url: /news/web/2017/09/05/オバマ氏民主主義守ってトランプ大統領宛てに手紙残す/
+source_url: http://www3.nhk.or.jp/news/easy/k10011127161000/k10011127161000.html
+...
