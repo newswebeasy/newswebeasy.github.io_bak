@@ -1,0 +1,66 @@
+---
+layout: easy_news
+newsid: k10011129721000
+categories: easy
+title: 日本航空の飛行機　エンジンの中の羽が２００枚以上壊れる
+title_with_ruby: <ruby>日本航空<rt>にほんこうくう</rt></ruby>の<ruby>飛行機<rt>ひこうき</rt></ruby>　エンジンの<ruby>中<rt>なか</rt></ruby>の<ruby>羽<rt>はね</rt></ruby>が２００<ruby>枚<rt>まい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>壊<rt>こわ</rt></ruby>れる
+last_modified_at: '2017-09-07T16:00:00+09:00'
+datetime: 2017年09月07日 16時00分
+description: ５日いつか、羽田はねだ空港くうこうを出発しゅっぱつしてニューヨークに向むかっていた日本航空にほんこうくうのボーイング７７７という飛行機ひこうきは、飛とんでからすぐあとに、左ひだりのエンジンから火ひが出でました。
+description_with_ruby: <ruby>５日<rt>いつか</rt></ruby>、<ruby>羽田<rt>はねだ</rt></ruby><ruby>空港<rt>くうこう</rt></ruby>を<ruby>出発<rt>しゅっぱつ</rt></ruby>してニューヨークに<ruby>向<rt>む</rt></ruby>かっていた<ruby>日本航空<rt>にほんこうくう</rt></ruby>のボーイング７７７という<ruby>飛行機<rt>ひこうき</rt></ruby>は、<ruby>飛<rt>と</rt></ruby>んでからすぐあとに、<ruby>左<rt>ひだり</rt></ruby>のエンジンから<ruby>火<rt>ひ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/07/k10011129721000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/07/k10011129721000.mp3
+contents: "<p><ruby>５日<rt>いつか</rt></ruby>、<ruby>羽田<rt>はねだ</rt></ruby><ruby>空港<rt>くうこう</rt></ruby>を<ruby>出発<rt>しゅっぱつ</rt></ruby>してニューヨークに<ruby>向<rt>む</rt></ruby>かっていた<ruby>日本航空<rt>にほんこうくう</rt></ruby>のボーイング７７７という<ruby>飛行機<rt>ひこうき</rt></ruby>は、<ruby>飛<rt>と</rt></ruby>んでからすぐあとに、<ruby>左<rt>ひだり</rt></ruby>の<span\
+  \ style=\"color: blue;\">エンジン</span>から<ruby>火<rt>ひ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ました。このため<ruby>飛行機<rt>ひこうき</rt></ruby>は、<ruby>急<rt>いそ</rt></ruby>いで<ruby>羽田<rt>はねだ</rt></ruby><ruby>空港<rt>くうこう</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>りました。</p>\n\
+  <p><ruby>日本航空<rt>にほんこうくう</rt></ruby>がこの<ruby>飛行機<rt>ひこうき</rt></ruby>を<span style=\"\
+  color: blue;\"><ruby>詳<rt>くわ</rt></ruby>しく</span><ruby>調<rt>しら</rt></ruby>べると、<span\
+  \ style=\"color: blue;\">エンジン</span>の<ruby>中<rt>なか</rt></ruby>にある<span style=\"\
+  color: blue;\">タービン</span>の<span style=\"color: blue;\"><ruby>羽<rt>はね</rt></ruby></span>が２００<ruby>枚<rt>まい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>壊<rt>こわ</rt></ruby>れていました。<span\
+  \ style=\"color: blue;\">エンジン</span>の<span style=\"color: blue;\">カバー</span>に<ruby>小<rt>ちい</rt></ruby>さな<span\
+  \ style=\"color: blue;\"><ruby>穴<rt>あな</rt></ruby></span>があって、<span style=\"color:\
+  \ blue;\"><ruby>翼<rt>つばさ</rt></ruby></span>に<span style=\"color: blue;\"><ruby>傷<rt>きず</rt></ruby></span>もありました。</p>\n\
+  <p><ruby>日本航空<rt>にほんこうくう</rt></ruby>は、<ruby>前<rt>まえ</rt></ruby>に<ruby>飛<rt>と</rt></ruby>んだときや<span\
+  \ style=\"color: blue;\"><ruby>検査<rt>けんさ</rt></ruby></span>したときはこの<ruby>飛行機<rt>ひこうき</rt></ruby>に<ruby>問題<rt>もんだい</rt></ruby>がなかったと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>国<rt>くに</rt></ruby>の<ruby>運輸<rt>うんゆ</rt></ruby><ruby>安全<rt>あんぜん</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>は、<ruby>大<rt>おお</rt></ruby>きな<ruby>事故<rt>じこ</rt></ruby>になっていたかもしれないと<ruby>考<rt>かんが</rt></ruby>えて、<ruby>７日<rt>なのか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>からこの<ruby>飛行機<rt>ひこうき</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: エンジン
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>・<ruby><rb>船</rb><rt>ふね</rt></ruby>・<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>などを<ruby><rb>動</rb><rt>うご</rt></ruby>かす<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>発動機</rb><rt>はつどうき</rt></ruby>。
+- word: 羽
+  descriptions:
+  - <ruby><rb>鳥</rb><rt>とり</rt></ruby>や<ruby><rb>昆虫</rb><rt>こんちゅう</rt></ruby>などのつばさ。
+  - <ruby><rb>鳥</rb><rt>とり</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>えている<ruby><rb>毛</rb><rt>け</rt></ruby>。<ruby><rb>羽毛</rb><rt>うもう</rt></ruby>。
+  - <ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>のつばさ。
+- word: 詳しい
+  descriptions:
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かい。
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かいことまでよく<ruby><rb>知</rb><rt>し</rt></ruby>っている。
+- word: タービン
+  descriptions:
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>や<ruby><rb>蒸気</rb><rt>じょうき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>羽根車</rb><rt>はねぐるま</rt></ruby>を<ruby><rb>回転</rb><rt>かいてん</rt></ruby>させ、<ruby><rb>動力</rb><rt>どうりょく</rt></ruby>を<ruby><rb>得</rb><rt>え</rt></ruby>る<ruby><rb>機械</rb><rt>きかい</rt></ruby>。
+- word: カバー
+  descriptions:
+  - おおうもの。
+  - <ruby><rb>足</rb><rt>た</rt></ruby>りないところを、<ruby><rb>補</rb><rt>おぎな</rt></ruby>うこと。
+- word: 穴
+  descriptions:
+  - くぼんだ<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+  - <ruby><rb>向</rb><rt>む</rt></ruby>こうまでつきぬけている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>弱</rb><rt>よわ</rt></ruby>いところ。
+  - <ruby><rb>損</rb><rt>そん</rt></ruby>。<ruby><rb>不足</rb><rt>ふそく</rt></ruby>。
+- word: 翼
+  descriptions:
+  - （<ruby><rb>空</rb><rt>そら</rt></ruby>を<ruby><rb>飛</rb><rt>と</rt></ruby>ぶための）<ruby><rb>鳥</rb><rt>とり</rt></ruby>の<ruby><rb>羽</rb><rt>はね</rt></ruby>。
+  - <ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>のはね。
+- word: 傷
+  descriptions:
+  - <ruby><rb>打</rb><rt>う</rt></ruby>ったり<ruby><rb>切</rb><rt>き</rt></ruby>ったりして、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>や<ruby><rb>肉</rb><rt>にく</rt></ruby>をいためたところ。
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>のいたんだところ。
+  - <ruby><rb>悪</rb><rt>わる</rt></ruby>い<ruby><rb>点</rb><rt>てん</rt></ruby>。<ruby><rb>欠点</rb><rt>けってん</rt></ruby>。
+- word: 検査
+  descriptions:
+  - <ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+web_news_url: /news/web/2017/09/07/緊急着陸のJAL機-タービンの羽根200枚以上損傷/
+source_url: http://www3.nhk.or.jp/news/easy/k10011129721000/k10011129721000.html
+...
