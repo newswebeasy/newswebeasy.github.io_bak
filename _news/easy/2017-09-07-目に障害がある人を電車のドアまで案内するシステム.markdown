@@ -1,0 +1,79 @@
+---
+layout: easy_news
+newsid: k10011128211000
+categories: easy
+title: 目に障害がある人を電車のドアまで案内するシステム
+title_with_ruby: <ruby>目<rt>め</rt></ruby>に<ruby>障害<rt>しょうがい</rt></ruby>がある<ruby>人<rt>ひと</rt></ruby>を<ruby>電車<rt>でんしゃ</rt></ruby>のドアまで<ruby>案内<rt>あんない</rt></ruby>するシステム
+last_modified_at: '2017-09-07T11:30:00+09:00'
+datetime: 2017年09月07日 11時30分
+description: 駅えきのホームから人ひとが線路せんろに落おちないようにするための「ホームドア」の中なかには、ロープや棒ぼうを使つかった柵さくのような物ものもあります。
+description_with_ruby: <ruby>駅<rt>えき</rt></ruby>のホームから<ruby>人<rt>ひと</rt></ruby>が<ruby>線路<rt>せんろ</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちないようにするための「ホームドア」の<ruby>中<rt>なか</rt></ruby>には、ロープや<ruby>棒<rt>ぼう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>柵<rt>さく</rt></ruby>のような<ruby>物<rt>もの</rt></ruby>もあります。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/07/k10011128211000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/07/k10011128211000.mp3
+contents: "<p><ruby>駅<rt>えき</rt></ruby>の<span style=\"color: blue;\">ホーム</span>から<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>線路<rt>せんろ</rt></ruby></span>に<ruby>落<rt>お</rt></ruby>ちないようにするための「ホームドア」の<ruby>中<rt>なか</rt></ruby>には、<span\
+  \ style=\"color: blue;\">ロープ</span>や<span style=\"color: blue;\"><ruby>棒<rt>ぼう</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>柵<rt>さく</rt></ruby></span>のような<ruby>物<rt>もの</rt></ruby>もあります。<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>来<rt>く</rt></ruby>ると<span\
+  \ style=\"color: blue;\">ロープ</span>や<span style=\"color: blue;\"><ruby>棒<rt>ぼう</rt></ruby></span>が<ruby>上<rt>あ</rt></ruby>がって、<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ることができます。ドアの<ruby>場所<rt>ばしょ</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>が<ruby>違<rt>ちが</rt></ruby>う<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>来<rt>き</rt></ruby>ても<ruby>使<rt>つか</rt></ruby>うことができます。</p>\n\
+  <p>しかし、<ruby>目<rt>め</rt></ruby>に<span style=\"color: blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>は、このようなホームドアは<span\
+  \ style=\"color: blue;\"><ruby>幅<rt>はば</rt></ruby></span>が<ruby>広<rt>ひろ</rt></ruby>いため、<ruby>電車<rt>でんしゃ</rt></ruby>のドアがどこにあるかわかりにくいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>このため、<span style=\"color: blue;\"><ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby></span>は、<ruby>目<rt>め</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>を<ruby>電車<rt>でんしゃ</rt></ruby>のドアの<ruby>前<rt>まえ</rt></ruby>まで<ruby>案内<rt>あんない</rt></ruby>する<span\
+  \ style=\"color: blue;\">システム</span>の<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。この<span\
+  \ style=\"color: blue;\">システム</span>では、<span style=\"color: blue;\">ホーム</span>にあるカメラが、<ruby>目<rt>め</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>が<ruby>持<rt>も</rt></ruby>っている<ruby>白<rt>しろ</rt></ruby>い<span\
+  \ style=\"color: blue;\">つえ</span>や<ruby>一緒<rt>いっしょ</rt></ruby>にいる<ruby>犬<rt>いぬ</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけます。そして、<span\
+  \ style=\"color: blue;\">スピーカー</span>から<ruby>出<rt>で</rt></ruby>る<ruby>声<rt>こえ</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>のドアまで<ruby>案内<rt>あんない</rt></ruby>します。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby></span>は、<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\">システム</span>ができたら、<ruby>駅<rt>えき</rt></ruby>でテストをしたあと<ruby>使<rt>つか</rt></ruby>うことにしたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 障害
+  descriptions:
+  - <ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。
+- word: システム
+  descriptions:
+  - <ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+  - ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。
+- word: プラットホーム
+  descriptions:
+  - <ruby><rb>駅</rb><rt>えき</rt></ruby>で<ruby><rb>乗客</rb><rt>じょうきゃく</rt></ruby>が<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>降</rb><rt>お</rt></ruby>りする<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。ホーム。
+- word: 線路
+  descriptions:
+  - <ruby><rb>汽車</rb><rt>きしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道筋</rb><rt>みちすじ</rt></ruby>。レール。
+- word: ロープ
+  descriptions:
+  - あさ<ruby><rb>糸</rb><rt>いと</rt></ruby>や、<ruby><rb>針金</rb><rt>はりがね</rt></ruby>などを<ruby><rb>太</rb><rt>ふと</rt></ruby>くよった<ruby><rb>丈夫</rb><rt>じょうぶ</rt></ruby>なつな。
+- word: 棒
+  descriptions:
+  - <ruby><rb>持</rb><rt>も</rt></ruby>てるくらいの<ruby><rb>長</rb><rt>なが</rt></ruby>さの、<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>竹</rb><rt>たけ</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。
+  - まっすぐに<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>線</rb><rt>せん</rt></ruby>。
+  - まっすぐ。ただそのまま。
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。
+- word: 柵
+  descriptions:
+  - <ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>竹</rb><rt>たけ</rt></ruby>などを<ruby><rb>立</rb><rt>た</rt></ruby>て、<ruby><rb>横木</rb><rt>よこぎ</rt></ruby>を<ruby><rb>打</rb><rt>う</rt></ruby>ちつけて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>囲</rb><rt>かこ</rt></ruby>い。
+- word: 数
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。
+  - いくつもあること。たくさん。
+  - <ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。
+- word: 幅
+  descriptions:
+  - <ruby><rb>横</rb><rt>よこ</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さ。
+  - へだたり。<ruby><rb>開</rb><rt>ひら</rt></ruby>き。
+  - ゆとり。よゆう。
+- word: 国土交通省
+  descriptions:
+  - <ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>建物</rb><rt>たてもの</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>交通</rb><rt>こうつう</rt></ruby>・<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>の<ruby><rb>運送</rb><rt>うんそう</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>国交省</rb><rt>こっこうしょう</rt></ruby>。
+- word: 杖
+  descriptions:
+  - <ruby><rb>歩</rb><rt>ある</rt></ruby>きやすいように<ruby><rb>持</rb><rt>も</rt></ruby>つ、<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>棒</rb><rt>ぼう</rt></ruby>。ステッキ。
+- word: スピーカー
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>の<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を、<ruby><rb>音声</rb><rt>おんせい</rt></ruby>に<ruby><rb>変</rb><rt>か</rt></ruby>えて<ruby><rb>聞</rb><rt>き</rt></ruby>かせるための<ruby><rb>器械</rb><rt>きかい</rt></ruby>。
+web_news_url: /news/web/2017/09/06/ホーム転落対策-ドアの前まで誘導-新技術開発へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011128211000/k10011128211000.html
+...
