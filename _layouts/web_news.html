@@ -26,10 +26,10 @@
             <p></p>
             <p>{{ page.more }}</p>
             {% for s in page.body %}
-            {% if page.image_url %}
+            {% if s.title %}
             <br /><h2>{{ s.title }}</h2><br />
-            <p>{{ s.text }}</p>
             {% endif %}
+            <p>{{ s.text }}</p>
             {% endfor %}
 
             <p><img data-type="gif" src="/assets/qrcode.gif" data-ratio="0.5064308681672026" data-w="622" /></p>
