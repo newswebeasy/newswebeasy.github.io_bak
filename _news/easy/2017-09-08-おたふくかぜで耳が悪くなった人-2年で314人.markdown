@@ -1,0 +1,51 @@
+---
+layout: easy_news
+newsid: k10011127941000
+categories: easy
+title: 「おたふくかぜ」で耳が悪くなった人　２年で３１４人
+title_with_ruby: 「おたふくかぜ」で<ruby>耳<rt>みみ</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>　２<ruby>年<rt>ねん</rt></ruby>で３１４<ruby>人<rt>にん</rt></ruby>
+last_modified_at: '2017-09-08T11:30:00+09:00'
+datetime: 2017年09月08日 11時30分
+description: 「おたふくかぜ」は子こどもがなりやすい、ウイルスでうつる病気びょうきです。
+description_with_ruby: 「おたふくかぜ」は<ruby>子<rt>こ</rt></ruby>どもがなりやすい、ウイルスでうつる<ruby>病気<rt>びょうき</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/08/k10011127941000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/08/k10011127941000.mp3
+contents: "<p>「おたふくかぜ」は<ruby>子<rt>こ</rt></ruby>どもがなりやすい、<span style=\"color: blue;\"\
+  >ウイルス</span>でうつる<ruby>病気<rt>びょうき</rt></ruby>です。この<ruby>病気<rt>びょうき</rt></ruby>になると、<ruby>熱<rt>ねつ</rt></ruby>が<ruby>出<rt>で</rt></ruby>たり<ruby>耳<rt>みみ</rt></ruby>の<ruby>下<rt>した</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>腫<rt>は</rt></ruby>れ</span>たりします。<ruby>日本<rt>にほん</rt></ruby><ruby>耳鼻<rt>じび</rt></ruby><ruby>咽喉科<rt>いんこうか</rt></ruby><ruby>学会<rt>がっかい</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>とおととし、<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>８０００の<ruby>病院<rt>びょういん</rt></ruby>などでおたふくかぜになった<ruby>人<rt>ひと</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べました。</p>\n\
+  <p>その<span style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>、３１４<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がおたふくかぜになって<ruby>耳<rt>みみ</rt></ruby>がよく<ruby>聞<rt>き</rt></ruby>こえなくなったことがわかりました。この<ruby>中<rt>なか</rt></ruby>の１４<ruby>人<rt>にん</rt></ruby>は、<ruby>両方<rt>りょうほう</rt></ruby>の<ruby>耳<rt>みみ</rt></ruby>がよく<ruby>聞<rt>き</rt></ruby>こえなくなりました。よく<ruby>聞<rt>き</rt></ruby>こえなくなった<ruby>人<rt>ひと</rt></ruby>の<ruby>半分<rt>はんぶん</rt></ruby>ぐらいの４９％は、１０<ruby>歳<rt>さい</rt></ruby>より<ruby>小<rt>ちい</rt></ruby>さい<ruby>子<rt>こ</rt></ruby>どもでした。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>学会<rt>がっかい</rt></ruby></span>は、おたふくかぜで<ruby>耳<rt>みみ</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなると、<span\
+  \ style=\"color: blue;\"><ruby>治<rt>なお</rt></ruby>す</span>ことが<ruby>難<rt>むずか</rt></ruby>しいので、<ruby>子<rt>こ</rt></ruby>どもはできるだけ<span\
+  \ style=\"color: blue;\">ワクチン</span>を<ruby>注射<rt>ちゅうしゃ</rt></ruby>するように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>では、おたふくかぜの<span style=\"color: blue;\">ワクチン</span>は<ruby>自分<rt>じぶん</rt></ruby>でお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>わなければなりません。このため<span\
+  \ style=\"color: blue;\"><ruby>学会<rt>がっかい</rt></ruby></span>は、みんなが<span style=\"\
+  color: blue;\">ワクチン</span>を<ruby>注射<rt>ちゅうしゃ</rt></ruby>できるように<ruby>国<rt>くに</rt></ruby>がお<ruby>金<rt>かね</rt></ruby>を<ruby>出<rt>だ</rt></ruby>してほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ウイルス
+  descriptions:
+  - <ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。
+- word: 腫れる
+  descriptions:
+  - けがや<ruby><rb>病気</rb><rt>びょうき</rt></ruby>などのために、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>の<ruby><rb>一部</rb><rt>いちぶ</rt></ruby>がふくれ<ruby><rb>上</rb><rt>あ</rt></ruby>がる。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+- word: 学会
+  descriptions:
+  - <ruby><rb>専門</rb><rt>せんもん</rt></ruby>の<ruby><rb>学問</rb><rt>がくもん</rt></ruby>を、<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>するためにできている<ruby><rb>研究者</rb><rt>けんきゅうしゃ</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。また、その<ruby><rb>会合</rb><rt>かいごう</rt></ruby>。
+- word: 治す
+  descriptions:
+  - <ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがをよくする。
+- word: ワクチン
+  descriptions:
+  - <ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>のもとになるばいきんなどから<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>薬</rb><rt>くすり</rt></ruby>。これを<ruby><rb>接種</rb><rt>せっしゅ</rt></ruby>して、その<ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>にかからないようにする。
+web_news_url: /news/web/2017/09/05/おたふくかぜで難聴-2年間で314人に上る/
+source_url: http://www3.nhk.or.jp/news/easy/k10011127941000/k10011127941000.html
+...
