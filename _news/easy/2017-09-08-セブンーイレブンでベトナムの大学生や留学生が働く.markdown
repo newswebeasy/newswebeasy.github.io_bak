@@ -1,0 +1,41 @@
+---
+layout: easy_news
+newsid: k10011130691000
+categories: easy
+title: セブンーイレブンでベトナムの大学生や留学生が働く
+title_with_ruby: セブンーイレブンでベトナムの<ruby>大学生<rt>だいがくせい</rt></ruby>や<ruby>留学生<rt>りゅうがくせい</rt></ruby>が<ruby>働<rt>はたら</rt></ruby>く
+last_modified_at: '2017-09-08T16:05:00+09:00'
+datetime: 2017年09月08日 16時05分
+description: コンビニの「セブンーイレブン」が、ベトナムの大学生だいがくせいや留学生りゅうがくせいに働はたらいてもらうため、ベトナムの６つの大学だいがくなどと協力きょうりょくすることになりました。
+description_with_ruby: コンビニの「セブンーイレブン」が、ベトナムの<ruby>大学生<rt>だいがくせい</rt></ruby>や<ruby>留学生<rt>りゅうがくせい</rt></ruby>に<ruby>働<rt>はたら</rt></ruby>いてもらうため、ベトナムの６つの<ruby>大学<rt>だいがく</rt></ruby>などと<ruby>協力<rt>きょうりょく</rt></ruby>することになりました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/08/k10011130691000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/08/k10011130691000.mp3
+contents: "<p><span style=\"color: blue;\">コンビニ</span>の「セブンーイレブン」が、ベトナムの<ruby>大学生<rt>だいがくせい</rt></ruby>や<ruby>留学生<rt>りゅうがくせい</rt></ruby>に<ruby>働<rt>はたら</rt></ruby>いてもらうため、ベトナムの６つの<ruby>大学<rt>だいがく</rt></ruby>などと<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>することになりました。</p>\n\
+  <p>セブンーイレブンの<ruby>会社<rt>かいしゃ</rt></ruby>は、ベトナムのハノイ<ruby>大学<rt>だいがく</rt></ruby>などの<ruby>学生<rt>がくせい</rt></ruby>に、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いて<span\
+  \ style=\"color: blue;\"><ruby>経営<rt>けいえい</rt></ruby></span>の<ruby>勉強<rt>べんきょう</rt></ruby>をしてもらいます。<ruby>日本語<rt>にほんご</rt></ruby>などの<ruby>勉強<rt>べんきょう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>留学生<rt>りゅうがくせい</rt></ruby>にもアルバイトをしてもらいます。</p>\n\
+  <p><ruby>最近<rt>さいきん</rt></ruby>、<span style=\"color: blue;\">コンビニ</span>の<ruby>店員<rt>てんいん</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなっているため、<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>店<rt>みせ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>増<rt>ふ</rt></ruby>やし</span>たいと<ruby>考<rt>かんが</rt></ruby>えています。ベトナムの<ruby>人<rt>ひと</rt></ruby>が<ruby>将来<rt>しょうらい</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>をするための<ruby>教育<rt>きょういく</rt></ruby>にも<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p>セブンーイレブンの<ruby>社長<rt>しゃちょう</rt></ruby>は「ベトナムの<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>は<ruby>元気<rt>げんき</rt></ruby>があってまじめに<ruby>働<rt>はたら</rt></ruby>くので、たくさんの<ruby>人<rt>ひと</rt></ruby>に<ruby>頑張<rt>がんば</rt></ruby>ってほしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の<span style=\"color: blue;\">コンビニ</span>では、「ファミリーマート」も<ruby>留学生<rt>りゅうがくせい</rt></ruby>にアルバイトをしてもらうため、<ruby>東京<rt>とうきょう</rt></ruby>にある<span\
+  \ style=\"color: blue;\"><ruby>専門学校<rt>せんもんがっこう</rt></ruby></span>と<span style=\"\
+  color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>しています。</p>\n<p></p>"
+words:
+- word: コンビニ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「コンビニエンスストア」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+- word: 経営
+  descriptions:
+  - <ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+- word: 専門学校
+  descriptions:
+  - <ruby><rb>高等学校</rb><rt>こうとうがっこう</rt></ruby>を<ruby><rb>卒業</rb><rt>そつぎょう</rt></ruby>した<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>に<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>な<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる<ruby><rb>専門</rb><rt>せんもん</rt></ruby>の<ruby><rb>学校</rb><rt>がっこう</rt></ruby>。
+web_news_url: /news/web/2017/09/07/セブンーイレブン-留学生受け入れでベトナムの大学と合意/
+source_url: http://www3.nhk.or.jp/news/easy/k10011130691000/k10011130691000.html
+...

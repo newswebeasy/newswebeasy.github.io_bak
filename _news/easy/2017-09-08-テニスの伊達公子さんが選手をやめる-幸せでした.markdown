@@ -1,0 +1,56 @@
+---
+layout: easy_news
+newsid: k10011130441000
+categories: easy
+title: テニスの伊達公子さんが選手をやめる　「幸せでした」
+title_with_ruby: テニスの<ruby>伊達<rt>だて</rt></ruby><ruby>公子<rt>きみこ</rt></ruby>さんが<ruby>選手<rt>せんしゅ</rt></ruby>をやめる　「<ruby>幸<rt>しあわ</rt></ruby>せでした」
+last_modified_at: '2017-09-08T16:05:00+09:00'
+datetime: 2017年09月08日 16時05分
+description: テニスの選手せんしゅで４６歳さいの伊達だて公子きみこさんは８月がつ２８日にち、選手せんしゅをやめるとインターネットのブログに書かきました。
+description_with_ruby: テニスの<ruby>選手<rt>せんしゅ</rt></ruby>で４６<ruby>歳<rt>さい</rt></ruby>の<ruby>伊達<rt>だて</rt></ruby><ruby>公子<rt>きみこ</rt></ruby>さんは８<ruby>月<rt>がつ</rt></ruby>２８<ruby>日<rt>にち</rt></ruby>、<ruby>選手<rt>せんしゅ</rt></ruby>をやめるとインターネットのブログに<ruby>書<rt>か</rt></ruby>きました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/08/k10011130441000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/08/k10011130441000.mp3
+contents: "<p>テニスの<span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>で４６<ruby>歳<rt>さい</rt></ruby>の<ruby>伊達<rt>だて</rt></ruby><ruby>公子<rt>きみこ</rt></ruby>さんは８<ruby>月<rt>がつ</rt></ruby>２８<ruby>日<rt>にち</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>を<span style=\"color:\
+  \ blue;\">やめる</span>とインターネットの<span style=\"color: blue;\">ブログ</span>に<ruby>書<rt>か</rt></ruby>きました。<ruby>伊達<rt>だて</rt></ruby>さんは<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>い、<ruby>世界<rt>せかい</rt></ruby><span\
+  \ style=\"color: blue;\">ランキング</span>の４<ruby>番<rt>ばん</rt></ruby>になったことがあります。<ruby>伊達<rt>だて</rt></ruby>さんは１９９６<ruby>年<rt>ねん</rt></ruby>に<ruby>一度<rt>いちど</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>を<span style=\"color:\
+  \ blue;\">やめ</span>ましたが、２００８<ruby>年<rt>ねん</rt></ruby>に３７<ruby>歳<rt>さい</rt></ruby>で、また<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>に<ruby>戻<rt>もど</rt></ruby>りました。</p>\n\
+  <p><ruby>伊達<rt>だて</rt></ruby>さんは９<ruby>月<rt>がつ</rt></ruby><ruby>７日<rt>なのか</rt></ruby>、<ruby>世界<rt>せかい</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちと<ruby>試合<rt>しあい</rt></ruby>をした<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>有明<rt>ありあけ</rt></ruby>コロシアムで、<span\
+  \ style=\"color: blue;\"><ruby>記者<rt>きしゃ</rt></ruby></span>たちを<ruby>集<rt>あつ</rt></ruby>めて<ruby>話<rt>はなし</rt></ruby>をしました。<ruby>伊達<rt>だて</rt></ruby>さんは「けがをしたところが<ruby>痛<rt>いた</rt></ruby>くて、<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>練習<rt>れんしゅう</rt></ruby>ができなくなりました。まだやめたくない<ruby>気持<rt>きも</rt></ruby>ちと、<ruby>十分<rt>じゅうぶん</rt></ruby>やったという<ruby>気持<rt>きも</rt></ruby>ちが<ruby>半分<rt>はんぶん</rt></ruby>ずつあります」と<ruby>言<rt>い</rt></ruby>いました。そして、「テニスとスポーツが<ruby>好<rt>す</rt></ruby>きなので、<ruby>長<rt>なが</rt></ruby>く<ruby>続<rt>つづ</rt></ruby>けることができたと<ruby>思<rt>おも</rt></ruby>います。<ruby>二<rt>に</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>世界<rt>せかい</rt></ruby>でテニスができて、<span\
+  \ style=\"color: blue;\"><ruby>幸<rt>しあわ</rt></ruby>せ</span>でした」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>伊達<rt>だて</rt></ruby>さんが<ruby>出<rt>で</rt></ruby>る<ruby>最後<rt>さいご</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>は、<ruby>今月<rt>こんげつ</rt></ruby>１２<ruby>日<rt>にち</rt></ruby>から<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まります。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 辞める
+  descriptions:
+  - <ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。
+- word: 幸せ
+  descriptions:
+  - <ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>満足</rb><rt>まんぞく</rt></ruby>している<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。
+- word: ブログ
+  descriptions:
+  - インターネット<ruby><rb>上</rb><rt>じょう</rt></ruby>で<ruby><rb>公開</rb><rt>こうかい</rt></ruby>されていて<ruby><rb>読</rb><rt>よ</rt></ruby>み<ruby><rb>手</rb><rt>て</rt></ruby>と<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>のやりとりのできる、<ruby><rb>日記</rb><rt>にっき</rt></ruby>ふうのサイト（ページ）。
+- word: ランキング
+  descriptions:
+  - <ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。
+- word: 辞める
+  descriptions:
+  - <ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。
+- word: 記者
+  descriptions:
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 大会
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+  - ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+web_news_url: /news/web/2017/09/07/テニス伊達が引退会見幸せなアスリートだった/
+source_url: http://www3.nhk.or.jp/news/easy/k10011130441000/k10011130441000.html
+...
