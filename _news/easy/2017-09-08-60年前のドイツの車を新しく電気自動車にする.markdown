@@ -1,0 +1,69 @@
+---
+layout: easy_news
+newsid: k10011129201000
+categories: easy
+title: ６０年前のドイツの車を新しく電気自動車にする
+title_with_ruby: ６０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>のドイツの<ruby>車<rt>くるま</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しく<ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby>にする
+last_modified_at: '2017-09-08T11:30:00+09:00'
+datetime: 2017年09月08日 11時30分
+description: 宮城県みやぎけん岩沼市いわぬましにあるバスの会社かいしゃが、故障こしょうして乗のることができなくなった昔むかしの車くるまを新あたらしく電気自動車でんきじどうしゃにしました。
+description_with_ruby: <ruby>宮城県<rt>みやぎけん</rt></ruby><ruby>岩沼市<rt>いわぬまし</rt></ruby>にあるバスの<ruby>会社<rt>かいしゃ</rt></ruby>が、<ruby>故障<rt>こしょう</rt></ruby>して<ruby>乗<rt>の</rt></ruby>ることができなくなった<ruby>昔<rt>むかし</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しく<ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby>にしました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/08/k10011129201000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/08/k10011129201000.mp3
+contents: "<p><ruby>宮城県<rt>みやぎけん</rt></ruby><ruby>岩沼市<rt>いわぬまし</rt></ruby>にあるバスの<ruby>会社<rt>かいしゃ</rt></ruby>が、<ruby>故障<rt>こしょう</rt></ruby>して<ruby>乗<rt>の</rt></ruby>ることができなくなった<ruby>昔<rt>むかし</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しく<ruby>電気自動車<rt>でんきじどうしゃ</rt></ruby>にしました。</p>\n\
+  <p>この<ruby>車<rt>くるま</rt></ruby>は、６０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>にドイツでつくられた「メッサーシュミットＫＲ２００」という<ruby>車<rt>くるま</rt></ruby>で、<ruby>２人<rt>ふたり</rt></ruby><ruby>乗<rt>の</rt></ruby>ることができます。バスの<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>社長<rt>しゃちょう</rt></ruby>の<ruby>祖父<rt>そふ</rt></ruby>が<ruby>買<rt>か</rt></ruby>って、そのあと<span\
+  \ style=\"color: blue;\"><ruby>父親<rt>ちちおや</rt></ruby></span>も<ruby>乗<rt>の</rt></ruby>って<ruby>社長<rt>しゃちょう</rt></ruby>も<ruby>乗<rt>の</rt></ruby>っていました。</p>\n\
+  <p>しかし、<span style=\"color: blue;\">エンジン</span>が<ruby>古<rt>ふる</rt></ruby>くなって<ruby>直<rt>なお</rt></ruby>すことが<ruby>難<rt>むずか</rt></ruby>しくなりました。このため、<ruby>車<rt>くるま</rt></ruby>から<span\
+  \ style=\"color: blue;\">エンジン</span>とガソリンを<ruby>入<rt>い</rt></ruby>れる<span style=\"\
+  color: blue;\">タンク</span>を<ruby>取<rt>と</rt></ruby>って、<ruby>代<rt>か</rt></ruby>わりに<span\
+  \ style=\"color: blue;\">モーター</span>と<span style=\"color: blue;\"><ruby>電池<rt>でんち</rt></ruby></span>を<span\
+  \ style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>け</span>ました。</p>\n<p><ruby>６日<rt>むいか</rt></ruby>に、<ruby>新<rt>あたら</rt></ruby>しくなった<ruby>車<rt>くるま</rt></ruby>をみんなに<ruby>見<rt>み</rt></ruby>せました。<ruby>昔<rt>むかし</rt></ruby>のままのかわいい<span\
+  \ style=\"color: blue;\">デザイン</span>の<ruby>車<rt>くるま</rt></ruby>は、<ruby>静<rt>しず</rt></ruby>かに<ruby>走<rt>はし</rt></ruby>っていました。１<ruby>回<rt>かい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>充電<rt>じゅうでん</rt></ruby></span>で１００ｋｍぐらい、<span style=\"\
+  color: blue;\"><ruby>時速<rt>じそく</rt></ruby></span>８０ｋｍで<ruby>走<rt>はし</rt></ruby>ることができます。</p>\n\
+  <p><ruby>社長<rt>しゃちょう</rt></ruby>は「<ruby>大切<rt>たいせつ</rt></ruby>にしていた<ruby>車<rt>くるま</rt></ruby>が、<ruby>昔<rt>むかし</rt></ruby>のように<ruby>走<rt>はし</rt></ruby>ることができるようになってうれしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 父親
+  descriptions:
+  - <ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>親</rb><rt>おや</rt></ruby>。<ruby><rb>父</rb><rt>ちち</rt></ruby>。
+- word: エンジン
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>・<ruby><rb>船</rb><rt>ふね</rt></ruby>・<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>などを<ruby><rb>動</rb><rt>うご</rt></ruby>かす<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>発動機</rb><rt>はつどうき</rt></ruby>。
+- word: タンク
+  descriptions:
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>・ガス・<ruby><rb>石油</rb><rt>せきゆ</rt></ruby>などをためておく、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+  - <ruby><rb>戦車</rb><rt>せんしゃ</rt></ruby>。
+- word: モーター
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>蒸気</rb><rt>じょうき</rt></ruby>・ガソリンなどで、<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かす<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>機械</rb><rt>きかい</rt></ruby>。<ruby><rb>電動機</rb><rt>でんどうき</rt></ruby>。<ruby><rb>発動機</rb><rt>はつどうき</rt></ruby>。
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。
+- word: 電池
+  descriptions:
+  - <ruby><rb>薬</rb><rt>くすり</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などのはたらきで、<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>が<ruby><rb>起</rb><rt>お</rt></ruby>きるようにしてある<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+- word: デザイン
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。
+  - <ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。
+- word: 充電
+  descriptions:
+  - <ruby><rb>蓄電池</rb><rt>ちくでんち</rt></ruby>に<ruby><rb>電気</rb><rt>でんき</rt></ruby>をたくわえること。
+  - <ruby><rb>活力</rb><rt>かつりょく</rt></ruby>をたくわえること。
+- word: 時速
+  descriptions:
+  - <ruby><rb>一時間</rb><rt>いちじかん</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>速</rb><rt>はや</rt></ruby>さ。
+web_news_url: /news/web/2017/09/06/60年前のドイツ製クラシックカーが電気自動車に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011129201000/k10011129201000.html
+...
