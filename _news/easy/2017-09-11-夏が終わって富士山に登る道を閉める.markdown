@@ -1,0 +1,47 @@
+---
+layout: easy_news
+newsid: k10011134241000
+categories: easy
+title: 夏が終わって富士山に登る道を閉める
+title_with_ruby: <ruby>夏<rt>なつ</rt></ruby>が<ruby>終<rt>お</rt></ruby>わって<ruby>富士山<rt>ふじさん</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>る<ruby>道<rt>みち</rt></ruby>を<ruby>閉<rt>し</rt></ruby>める
+last_modified_at: '2017-09-11T15:40:00+09:00'
+datetime: 2017年09月11日 15時40分
+description: これから雪ゆきが降ふる季節きせつになるため、静岡県しずおかけんと山梨県やまなしけんでは富士山ふじさんに登のぼる４つの道みちを閉しめました。
+description_with_ruby: これから<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る<ruby>季節<rt>きせつ</rt></ruby>になるため、<ruby>静岡県<rt>しずおかけん</rt></ruby>と<ruby>山梨県<rt>やまなしけん</rt></ruby>では<ruby>富士山<rt>ふじさん</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>る４つの<ruby>道<rt>みち</rt></ruby>を<ruby>閉<rt>し</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/11/k10011134241000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/11/k10011134241000.mp3
+contents: "<p>これから<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る<ruby>季節<rt>きせつ</rt></ruby>になるため、<ruby>静岡県<rt>しずおかけん</rt></ruby>と<ruby>山梨県<rt>やまなしけん</rt></ruby>では<span\
+  \ style=\"color: blue;\"><ruby>富士山<rt>ふじさん</rt></ruby></span>に<ruby>登<rt>のぼ</rt></ruby>る４つの<ruby>道<rt>みち</rt></ruby>を<ruby>閉<rt>し</rt></ruby>めました。１１<ruby>日<rt>にち</rt></ruby>から、<span\
+  \ style=\"color: blue;\"><ruby>頂上<rt>ちょうじょう</rt></ruby></span>まで<ruby>登<rt>のぼ</rt></ruby>ることができなくなりました。</p>\n\
+  <p>５<span style=\"color: blue;\"><ruby>合<rt>ごう</rt></ruby></span><ruby>目<rt>め</rt></ruby>の<ruby>須走口<rt>すばしりぐち</rt></ruby>という<ruby>入<rt>い</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby>では、<ruby>１０日<rt>とおか</rt></ruby><ruby>午後<rt>ごご</rt></ruby>５<ruby>時<rt>じ</rt></ruby>ごろ<ruby>静岡県<rt>しずおかけん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>職員<rt>しょくいん</rt></ruby></span>が、<ruby>道<rt>みち</rt></ruby>を<ruby>閉<rt>し</rt></ruby>めたことを<ruby>知<rt>し</rt></ruby>らせる<span\
+  \ style=\"color: blue;\"><ruby>看板<rt>かんばん</rt></ruby></span>を<ruby>置<rt>お</rt></ruby>きました。<ruby>静岡県<rt>しずおかけん</rt></ruby>から<ruby>登<rt>のぼ</rt></ruby>るほかの２つの<ruby>道<rt>みち</rt></ruby>と、<ruby>山梨県<rt>やまなしけん</rt></ruby>から<ruby>登<rt>のぼ</rt></ruby>る<ruby>道<rt>みち</rt></ruby>も<ruby>閉<rt>し</rt></ruby>めました。</p>\n\
+  <p><ruby>初<rt>はじ</rt></ruby>めて<span style=\"color: blue;\"><ruby>富士山<rt>ふじさん</rt></ruby></span>に<ruby>登<rt>のぼ</rt></ruby>った７３<ruby>歳<rt>さい</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>朝<rt>あさ</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>日<rt>ひ</rt></ruby>の<ruby>出<rt>で</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>ることができてよかったです。８０<ruby>歳<rt>さい</rt></ruby>になったらまた<ruby>登<rt>のぼ</rt></ruby>りたいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 富士山
+  descriptions:
+  - <ruby><rb>静岡県</rb><rt>しずおかけん</rt></ruby>と<ruby><rb>山梨県</rb><rt>やまなしけん</rt></ruby>の<ruby><rb>境</rb><rt>さかい</rt></ruby>にある、<ruby><rb>日本一</rb><rt>にっぽんいち</rt></ruby><ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>山</rb><rt>やま</rt></ruby>。<ruby><rb>高</rb><rt>たか</rt></ruby>さは３７７６メートル。<ruby><rb>江戸時代</rb><rt>えどじだい</rt></ruby>に<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>噴火</rb><rt>ふんか</rt></ruby>があった。
+- word: 頂
+  descriptions:
+  - <ruby><rb>山</rb><rt>やま</rt></ruby>などのいちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>頂上</rb><rt>ちょうじょう</rt></ruby>。
+- word: 合
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つになる。あう。あわせる。
+  - あてはまる。
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>尺貫法</rb><rt>しゃっかんほう</rt></ruby>で、<ruby><rb>量</rb><rt>りょう</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。１<ruby><rb>合</rb><rt>ごう</rt></ruby>は、１<ruby><rb>升</rb><rt>しょう</rt></ruby>の１０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１で、<ruby><rb>約</rb><rt>やく</rt></ruby>０・１８リットル。
+  - <ruby><rb>山登</rb><rt>やまのぼ</rt></ruby>りで、<ruby><rb>頂上</rb><rt>ちょうじょう</rt></ruby>までの<ruby><rb>高</rb><rt>たか</rt></ruby>さを１０に<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 職員
+  descriptions:
+  - <ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 看板
+  descriptions:
+  - <ruby><rb>人目</rb><rt>ひとめ</rt></ruby>につく<ruby><rb>所</rb><rt>ところ</rt></ruby>に、<ruby><rb>店</rb><rt>みせ</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や<ruby><rb>商品</rb><rt>しょうひん</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>などを<ruby><rb>書</rb><rt>か</rt></ruby>いて、<ruby><rb>出</rb><rt>だ</rt></ruby>しておくもの。
+  - <ruby><rb>見</rb><rt>み</rt></ruby>せかけ。
+- word: 日の出
+  descriptions:
+  - <ruby><rb>太陽</rb><rt>たいよう</rt></ruby>がのぼること。また、その<ruby><rb>時刻</rb><rt>じこく</rt></ruby>。
+web_news_url: /news/web/2017/09/10/富士山の登山道閉鎖-夏山シーズン終わる/
+source_url: http://www3.nhk.or.jp/news/easy/k10011134241000/k10011134241000.html
+...
