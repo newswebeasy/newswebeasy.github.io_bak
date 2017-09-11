@@ -1,0 +1,53 @@
+---
+layout: easy_news
+newsid: k10011131041000
+categories: easy
+title: 紙の段ボールで蒸気機関車を作る
+title_with_ruby: <ruby>紙<rt>かみ</rt></ruby>の<ruby>段<rt>だん</rt></ruby>ボールで<ruby>蒸気機関車<rt>じょうききかんしゃ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る
+last_modified_at: '2017-09-11T11:30:00+09:00'
+datetime: 2017年09月11日 11時30分
+description: 工芸品こうげいひんを作つくる仕事しごとをしている島しま英雄ひでおさんは、紙かみの段だんボールで「Ｃ６２」という蒸気機関車じょうききかんしゃを作つくりました。
+description_with_ruby: <ruby>工芸品<rt>こうげいひん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>島<rt>しま</rt></ruby><ruby>英雄<rt>ひでお</rt></ruby>さんは、<ruby>紙<rt>かみ</rt></ruby>の<ruby>段<rt>だん</rt></ruby>ボールで「Ｃ６２」という<ruby>蒸気機関車<rt>じょうききかんしゃ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/11/k10011131041000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/11/k10011131041000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>工芸品<rt>こうげいひん</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>る<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>島<rt>しま</rt></ruby><ruby>英雄<rt>ひでお</rt></ruby>さんは、<ruby>紙<rt>かみ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>段<rt>だん</rt></ruby>ボール</span>で「Ｃ６２」という<span style=\"\
+  color: blue;\"><ruby>蒸気機関車<rt>じょうききかんしゃ</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>りました。<ruby>大<rt>おお</rt></ruby>きさは<ruby>本当<rt>ほんとう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>蒸気機関車<rt>じょうききかんしゃ</rt></ruby></span>と<ruby>同<rt>おな</rt></ruby>じで、<ruby>長<rt>なが</rt></ruby>さが２２ｍ、<ruby>高<rt>たか</rt></ruby>さが４ｍです。</p>\n\
+  <p><ruby>島<rt>しま</rt></ruby>さんは、<ruby>福岡県<rt>ふくおかけん</rt></ruby><ruby>筑後<rt>ちくご</rt></ruby><ruby>市<rt>し</rt></ruby>にある<ruby>会社<rt>かいしゃ</rt></ruby>からもらった<span\
+  \ style=\"color: blue;\"><ruby>段<rt>だん</rt></ruby>ボール</span>を３<span style=\"color:\
+  \ blue;\">ｔ</span><ruby>以上<rt>いじょう</rt></ruby><ruby>使<rt>つか</rt></ruby>って、この<ruby>会社<rt>かいしゃ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>倉庫<rt>そうこ</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で<ruby>去年<rt>きょねん</rt></ruby>の１<ruby>月<rt>がつ</rt></ruby>から<ruby>作<rt>つく</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。</p>\n\
+  <p>この<span style=\"color: blue;\"><ruby>蒸気機関車<rt>じょうききかんしゃ</rt></ruby></span>は、<span\
+  \ style=\"color: blue;\"><ruby>車輪<rt>しゃりん</rt></ruby></span>など２０００<ruby>個<rt>こ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>部品<rt>ぶひん</rt></ruby></span>からできています。<ruby>島<rt>しま</rt></ruby>さんは「<ruby>本当<rt>ほんとう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>蒸気機関車<rt>じょうききかんしゃ</rt></ruby></span>と<ruby>同<rt>おな</rt></ruby>じように<ruby>作<rt>つく</rt></ruby>ったので、<ruby>細<rt>こま</rt></ruby>かいところまで<ruby>見<rt>み</rt></ruby>てほしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>この<span style=\"color: blue;\"><ruby>蒸気機関車<rt>じょうききかんしゃ</rt></ruby></span>は、<ruby>今月<rt>こんげつ</rt></ruby>２８<ruby>日<rt>にち</rt></ruby>から<ruby>筑後<rt>ちくご</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>九州芸文館<rt>きゅうしゅうげいぶんかん</rt></ruby>で<ruby>見<rt>み</rt></ruby>ることができます。</p>\n\
+  <p></p>\n<p></p>\n<p></p>"
+words:
+- word: 段ボール
+  descriptions:
+  - <ruby><rb>二枚</rb><rt>にまい</rt></ruby>の<ruby><rb>厚手</rb><rt>あつで</rt></ruby>のボール<ruby><rb>紙</rb><rt>がみ</rt></ruby>の<ruby><rb>内側</rb><rt>うちがわ</rt></ruby>に、<ruby><rb>波形</rb><rt>なみがた</rt></ruby>の<ruby><rb>紙</rb><rt>かみ</rt></ruby>をはり<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。
+- word: 蒸気機関車
+  descriptions:
+  - <ruby><rb>石炭</rb><rt>せきたん</rt></ruby>を<ruby><rb>燃</rb><rt>も</rt></ruby>やして、<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>蒸気</rb><rt>じょうき</rt></ruby>にかえ、その<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>でピストンを<ruby><rb>動</rb><rt>うご</rt></ruby>かし、<ruby><rb>車輪</rb><rt>しゃりん</rt></ruby>を<ruby><rb>回</rb><rt>まわ</rt></ruby>す<ruby><rb>仕組</rb><rt>しく</rt></ruby>みの<ruby><rb>車</rb><rt>くるま</rt></ruby>。<ruby><rb>汽車</rb><rt>きしゃ</rt></ruby>。<ruby><rb>SL</rb><rt>エスエル</rt></ruby>。
+- word: 工芸品
+  descriptions:
+  - <ruby><rb>生活</rb><rt>せいかつ</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>つ<ruby><rb>品物</rb><rt>しなもの</rt></ruby>で、<ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>作</rb><rt>つく</rt></ruby>られているもの。
+- word: トン
+  descriptions:
+  - メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。1トンは、１０００キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+  - <ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: 倉庫
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>をしまっておく<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+- word: 車輪
+  descriptions:
+  - <ruby><rb>車</rb><rt>くるま</rt></ruby>の<ruby><rb>輪</rb><rt>わ</rt></ruby>。くるま。
+- word: 部品
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などを<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てている、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>の<ruby><rb>品</rb><rt>しな</rt></ruby>。<ruby><rb>部分品</rb><rt>ぶぶんひん</rt></ruby>。
+web_news_url: /news/web/2017/09/07/段ボールで原寸大の蒸気機関車を制作-福岡-筑後/
+source_url: http://www3.nhk.or.jp/news/easy/k10011131041000/k10011131041000.html
+...
