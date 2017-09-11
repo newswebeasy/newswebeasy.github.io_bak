@@ -1,0 +1,57 @@
+---
+layout: easy_news
+newsid: k10011130581000
+categories: easy
+title: 家の中の火災警報器「正しく音が出るかチェックして」
+title_with_ruby: <ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>火災警報器<rt>かさいけいほうき</rt></ruby>「<ruby>正<rt>ただ</rt></ruby>しく<ruby>音<rt>おと</rt></ruby>が<ruby>出<rt>で</rt></ruby>るかチェックして」
+last_modified_at: '2017-09-11T11:30:00+09:00'
+datetime: 2017年09月11日 11時30分
+description: 火災警報器かさいけいほうきは、建物たてものの中なかの煙けむりや熱ねつをセンサーで見みつけると、音おとなどを出だして火事かじだと知しらせる機械きかいです。
+description_with_ruby: <ruby>火災警報器<rt>かさいけいほうき</rt></ruby>は、<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>煙<rt>けむり</rt></ruby>や<ruby>熱<rt>ねつ</rt></ruby>をセンサーで<ruby>見<rt>み</rt></ruby>つけると、<ruby>音<rt>おと</rt></ruby>などを<ruby>出<rt>だ</rt></ruby>して<ruby>火事<rt>かじ</rt></ruby>だと<ruby>知<rt>し</rt></ruby>らせる<ruby>機械<rt>きかい</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/11/k10011130581000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/11/k10011130581000.mp3
+contents: "<p><ruby>火災警報器<rt>かさいけいほうき</rt></ruby>は、<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>煙<rt>けむり</rt></ruby></span>や<ruby>熱<rt>ねつ</rt></ruby>を<span\
+  \ style=\"color: blue;\">センサー</span>で<ruby>見<rt>み</rt></ruby>つけると、<ruby>音<rt>おと</rt></ruby>などを<ruby>出<rt>だ</rt></ruby>して<ruby>火事<rt>かじ</rt></ruby>だと<ruby>知<rt>し</rt></ruby>らせる<ruby>機械<rt>きかい</rt></ruby>です。この<ruby>機械<rt>きかい</rt></ruby>を<ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>け</span>なければならないと<ruby>法律<rt>ほうりつ</rt></ruby>で<ruby>決<rt>き</rt></ruby>まってから、１０<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりました。</p>\n\
+  <p><ruby>国民生活<rt>こくみんせいかつ</rt></ruby>センターによると、「<ruby>音<rt>おと</rt></ruby>が<ruby>止<rt>と</rt></ruby>まらない」など<ruby>火災警報器<rt>かさいけいほうき</rt></ruby>についての<ruby>相談<rt>そうだん</rt></ruby>が<ruby>今<rt>いま</rt></ruby>までの５<ruby>年<rt>ねん</rt></ruby>に１４１<span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span>ありました。インターネットの<span style=\"\
+  color: blue;\">アンケート</span>では、「<ruby>火事<rt>かじ</rt></ruby>になったのに<ruby>音<rt>おと</rt></ruby>が<ruby>出<rt>で</rt></ruby>なかった」とか「<ruby>火事<rt>かじ</rt></ruby>ではないのに<ruby>音<rt>おと</rt></ruby>が<ruby>出<rt>で</rt></ruby>た」などと<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>が１３％いました。</p>\n\
+  <p><ruby>総務省<rt>そうむしょう</rt></ruby><ruby>消防庁<rt>しょうぼうちょう</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>あった<ruby>火事<rt>かじ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の９１<span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span>で、<ruby>機械<rt>きかい</rt></ruby>から<ruby>正<rt>ただ</rt></ruby>しく<ruby>音<rt>おと</rt></ruby>が<ruby>出<rt>で</rt></ruby>なかったと<ruby>言<rt>い</rt></ruby>っています。<span\
+  \ style=\"color: blue;\"><ruby>電池<rt>でんち</rt></ruby></span>がなくなったことや、<ruby>細<rt>こま</rt></ruby>かいごみが<ruby>入<rt>はい</rt></ruby>っていたことなどが<ruby>原因<rt>げんいん</rt></ruby>のようです。</p>\n\
+  <p><ruby>国民生活<rt>こくみんせいかつ</rt></ruby>センターは「<ruby>火災警報器<rt>かさいけいほうき</rt></ruby>は１０<ruby>年<rt>ねん</rt></ruby>ぐらいで<ruby>壊<rt>こわ</rt></ruby>れやすくなります。<ruby>火事<rt>かじ</rt></ruby>のとき<ruby>正<rt>ただ</rt></ruby>しく<ruby>音<rt>おと</rt></ruby>が<ruby>出<rt>で</rt></ruby>るように、<ruby>時々<rt>ときどき</rt></ruby>チェックをしてください」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 煙
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>燃</rb><rt>も</rt></ruby>えるときに<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>気体</rb><rt>きたい</rt></ruby>。けむ。けぶり。
+  - けむりのように<ruby><rb>見</rb><rt>み</rt></ruby>えるもの。
+- word: センサー
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>、<ruby><rb>温度</rb><rt>おんど</rt></ruby>などに<ruby><rb>反応</rb><rt>はんのう</rt></ruby>して、<ruby><rb>電気的</rb><rt>でんきてき</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+- word: 件
+  descriptions:
+  - ことがら。できごと。
+  - ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: アンケート
+  descriptions:
+  - たくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>問</rb><rt>と</rt></ruby>い<ruby><rb>合</rb><rt>あ</rt></ruby>わせ、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>書</rb><rt>か</rt></ruby>いてもらって、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>調</rb><rt>しら</rt></ruby>べる<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。
+- word: 電池
+  descriptions:
+  - <ruby><rb>薬</rb><rt>くすり</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などのはたらきで、<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>が<ruby><rb>起</rb><rt>お</rt></ruby>きるようにしてある<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。
+web_news_url: /news/web/2017/09/07/長期使用の住宅用火災警報器-不具合相次ぐ-定期的点検を/
+source_url: http://www3.nhk.or.jp/news/easy/k10011130581000/k10011130581000.html
+...
