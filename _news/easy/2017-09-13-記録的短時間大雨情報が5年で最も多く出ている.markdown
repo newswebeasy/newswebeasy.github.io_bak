@@ -1,0 +1,36 @@
+---
+layout: easy_news
+newsid: k10011135781000
+categories: easy
+title: 「記録的短時間大雨情報」が５年で最も多く出ている
+title_with_ruby: 「<ruby>記録的<rt>きろくてき</rt></ruby><ruby>短時間<rt>たんじかん</rt></ruby><ruby>大雨<rt>おおあめ</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>」が５<ruby>年<rt>ねん</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>く<ruby>出<rt>で</rt></ruby>ている
+last_modified_at: '2017-09-13T11:30:00+09:00'
+datetime: 2017年09月13日 11時30分
+description: 気象庁きしょうちょうは、１時間じかんに８０ｍｍ〜１２０ｍｍのとてもたくさんの雨あめが降ふったとき「記録的きろくてき短時間たんじかん大雨おおあめ情報じょうほう」という情報じょうほうを出だします。
+description_with_ruby: <ruby>気象庁<rt>きしょうちょう</rt></ruby>は、１<ruby>時間<rt>じかん</rt></ruby>に８０ｍｍ〜１２０ｍｍのとてもたくさんの<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ったとき「<ruby>記録的<rt>きろくてき</rt></ruby><ruby>短時間<rt>たんじかん</rt></ruby><ruby>大雨<rt>おおあめ</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>」という<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>出<rt>だ</rt></ruby>します。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/13/k10011135781000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/13/k10011135781000.mp3
+contents: "<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は、１<ruby>時間<rt>じかん</rt></ruby>に８０ｍｍ〜１２０ｍｍのとてもたくさんの<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ったとき「<ruby>記録的<rt>きろくてき</rt></ruby><ruby>短時間<rt>たんじかん</rt></ruby><ruby>大雨<rt>おおあめ</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>」という<span\
+  \ style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>します。そして<span\
+  \ style=\"color: blue;\"><ruby>災害<rt>さいがい</rt></ruby></span>に<ruby>気<rt>き</rt></ruby>をつけるように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby>は９<ruby>月<rt>がつ</rt></ruby>１１<ruby>日<rt>にち</rt></ruby>までにこの<span\
+  \ style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>を８６<ruby>回<rt>かい</rt></ruby><ruby>出<rt>だ</rt></ruby>しました。<ruby>去年<rt>きょねん</rt></ruby>までの５<ruby>年<rt>ねん</rt></ruby>と<ruby>比<rt>くら</rt></ruby>べると<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>くなっています。</p>\n\
+  <p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>雨<rt>あめ</rt></ruby>がどのくらい<ruby>降<rt>ふ</rt></ruby>ったか、<ruby>去年<rt>きょねん</rt></ruby>９<ruby>月<rt>がつ</rt></ruby>までは３０<ruby>分<rt>ぷん</rt></ruby>に１<ruby>回<rt>かい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>していましたが、<ruby>今<rt>いま</rt></ruby>は１０<ruby>分<rt>ぷん</rt></ruby>に１<ruby>回<rt>かい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>しています。このため、<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>でとてもたくさんの<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ったときに「<ruby>記録的<rt>きろくてき</rt></ruby><ruby>短時間<rt>たんじかん</rt></ruby><ruby>大雨<rt>おおあめ</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>」を<ruby>出<rt>だ</rt></ruby>すことが<ruby>多<rt>おお</rt></ruby>くなりました。<ruby>今年<rt>ことし</rt></ruby>７<ruby>月<rt>がつ</rt></ruby><ruby>５日<rt>いつか</rt></ruby>に<ruby>福岡県<rt>ふくおかけん</rt></ruby>と<ruby>大分県<rt>おおいたけん</rt></ruby>でたくさんの<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ったときは、７<ruby>時間<rt>じかん</rt></ruby>に１８<ruby>回<rt>かい</rt></ruby><ruby>出<rt>だ</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 情報
+  descriptions:
+  - できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+- word: 災害
+  descriptions:
+  - <ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。
+- word: 計算
+  descriptions:
+  - <ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。
+  - <ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。
+web_news_url: /news/web/2017/09/12/記録的短時間大雨情報の発表回数-すでに過去5年間で最多/
+source_url: http://www3.nhk.or.jp/news/easy/k10011135781000/k10011135781000.html
+...

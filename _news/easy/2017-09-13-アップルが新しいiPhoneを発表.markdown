@@ -1,0 +1,52 @@
+---
+layout: easy_news
+newsid: k10011137151000
+categories: easy
+title: アップルが新しいｉＰｈｏｎｅを発表
+title_with_ruby: アップルが<ruby>新<rt>あたら</rt></ruby>しいｉＰｈｏｎｅを<ruby>発表<rt>はっぴょう</rt></ruby>
+last_modified_at: '2017-09-13T16:30:00+09:00'
+datetime: 2017年09月13日 16時30分
+description: アメリカのアップルが２００７年ねんに初はじめてスマートフォンのｉＰｈｏｎｅを発表はっぴょうしてから、今年ことしで１０年ねんです。
+description_with_ruby: アメリカのアップルが２００７<ruby>年<rt>ねん</rt></ruby>に<ruby>初<rt>はじ</rt></ruby>めてスマートフォンのｉＰｈｏｎｅを<ruby>発表<rt>はっぴょう</rt></ruby>してから、<ruby>今年<rt>ことし</rt></ruby>で１０<ruby>年<rt>ねん</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/13/k10011137151000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/13/k10011137151000.mp3
+contents: "<p>アメリカのアップルが２００７<ruby>年<rt>ねん</rt></ruby>に<ruby>初<rt>はじ</rt></ruby>めてスマートフォンのｉＰｈｏｎｅを<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>してから、<ruby>今年<rt>ことし</rt></ruby>で１０<ruby>年<rt>ねん</rt></ruby>です。アップルは１２<ruby>日<rt>にち</rt></ruby>、１０<ruby>年<rt>ねん</rt></ruby>になった<span\
+  \ style=\"color: blue;\"><ruby>記念<rt>きねん</rt></ruby></span>の「ｉＰｈｏｎｅＸ」など、<ruby>新<rt>あたら</rt></ruby>しいｉＰｈｏｎｅを３つ<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>「ｉＰｈｏｎｅＸ」は、<ruby>今<rt>いま</rt></ruby>まで<span\
+  \ style=\"color: blue;\"><ruby>画面<rt>がめん</rt></ruby></span>の<ruby>下<rt>した</rt></ruby>にあったボタンがなくなりました。ボタンを<ruby>押<rt>お</rt></ruby>す<ruby>代<rt>か</rt></ruby>わりに、<span\
+  \ style=\"color: blue;\"><ruby>画面<rt>がめん</rt></ruby></span>に<ruby>置<rt>お</rt></ruby>いた<ruby>指<rt>ゆび</rt></ruby>を<ruby>下<rt>した</rt></ruby>から<ruby>上<rt>うえ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>動<rt>うご</rt></ruby>かし</span>ます。<ruby>自分<rt>じぶん</rt></ruby><ruby>以外<rt>いがい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>使<rt>つか</rt></ruby>うことができないように、<ruby>使<rt>つか</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>をカメラがチェックしてロックを<span\
+  \ style=\"color: blue;\"><ruby>外<rt>はず</rt></ruby>す</span>こともできます。<ruby>値段<rt>ねだん</rt></ruby>は１０<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>で、１１<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>から<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めます。</p>\n\
+  <p>アップルは２００７<ruby>年<rt>ねん</rt></ruby>からほとんど<ruby>毎年<rt>まいとし</rt></ruby><ruby>新<rt>あたら</rt></ruby>しいｉＰｈｏｎｅを<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>していて、<ruby>世界<rt>せかい</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>くなっています。<ruby>日本<rt>にっぽん</rt></ruby>では、いま<ruby>使<rt>つか</rt></ruby>われているスマートフォンの<ruby>半分<rt>はんぶん</rt></ruby>がｉＰｈｏｎｅになっています。</p>\n\
+  <p></p>"
+words:
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 記念
+  descriptions:
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>しておくこと。また、その<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 画面
+  descriptions:
+  - <ruby><rb>映画</rb><rt>えいが</rt></ruby>やテレビが<ruby><rb>映</rb><rt>うつ</rt></ruby>っている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+- word: 動かす
+  descriptions:
+  - <ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。
+  - <ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - <ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。
+- word: 外す
+  descriptions:
+  - <ruby><rb>取</rb><rt>と</rt></ruby>ってはなす。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>除</rb><rt>のぞ</rt></ruby>く。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>りにがす。
+  - そらす。
+  - その<ruby><rb>場</rb><rt>ば</rt></ruby>をはなれる。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+web_news_url: /news/web/2017/09/13/新型iPhone発表-顔認証でロック解除など新機能搭載/
+source_url: http://www3.nhk.or.jp/news/easy/k10011137151000/k10011137151000.html
+...

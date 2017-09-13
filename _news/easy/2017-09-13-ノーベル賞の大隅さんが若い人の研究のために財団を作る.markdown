@@ -1,0 +1,58 @@
+---
+layout: easy_news
+newsid: k10011136611000
+categories: easy
+title: ノーベル賞の大隅さんが若い人の研究のために財団を作る
+title_with_ruby: ノーベル<ruby>賞<rt>しょう</rt></ruby>の<ruby>大隅<rt>おおすみ</rt></ruby>さんが<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>のために<ruby>財団<rt>ざいだん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る
+last_modified_at: '2017-09-13T16:30:00+09:00'
+datetime: 2017年09月13日 16時30分
+description: 去年きょねんノーベル賞しょうをもらった大隅おおすみ良典よしのりさんが、若わかい人ひとたちの科学かがくの研究けんきゅうのためにお金かねを出だす財団ざいだんを作つくりました。
+description_with_ruby: <ruby>去年<rt>きょねん</rt></ruby>ノーベル<ruby>賞<rt>しょう</rt></ruby>をもらった<ruby>大隅<rt>おおすみ</rt></ruby><ruby>良典<rt>よしのり</rt></ruby>さんが、<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>たちの<ruby>科学<rt>かがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>のためにお<ruby>金<rt>かね</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す<ruby>財団<rt>ざいだん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/13/k10011136611000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/13/k10011136611000.mp3
+contents: "<p><ruby>去年<rt>きょねん</rt></ruby><span style=\"color: blue;\">ノーベル<ruby>賞<rt>しょう</rt></ruby></span>をもらった<ruby>大隅<rt>おおすみ</rt></ruby><ruby>良典<rt>よしのり</rt></ruby>さんが、<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>たちの<ruby>科学<rt>かがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>のためにお<ruby>金<rt>かね</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す<span\
+  \ style=\"color: blue;\"><ruby>財団<rt>ざいだん</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>りました。<span\
+  \ style=\"color: blue;\"><ruby>財団<rt>ざいだん</rt></ruby></span>は、<ruby>大隅<rt>おおすみ</rt></ruby>さんが<span\
+  \ style=\"color: blue;\">ノーベル<ruby>賞<rt>しょう</rt></ruby></span>などでもらった１<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>や、<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>してくれる<ruby>会社<rt>かいしゃ</rt></ruby>などのお<ruby>金<rt>かね</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。<ruby>特<rt>とく</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>生物<rt>せいぶつ</rt></ruby></span>などの<ruby>研究<rt>けんきゅう</rt></ruby>がもっとできるようにしたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><ruby>最近<rt>さいきん</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>科学<rt>かがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>は<span\
+  \ style=\"color: blue;\">レベル</span>が<ruby>下<rt>さ</rt></ruby>がっていると<ruby>言<rt>い</rt></ruby>われています。<ruby>世界<rt>せかい</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>している<span style=\"\
+  color: blue;\"><ruby>論文<rt>ろんぶん</rt></ruby></span>は、<ruby>日本<rt>にっぽん</rt></ruby>より<ruby>中国<rt>ちゅうごく</rt></ruby>やドイツのほうが<ruby>多<rt>おお</rt></ruby>くなっています。</p>\n\
+  <p><ruby>大隅<rt>おおすみ</rt></ruby>さんは、<ruby>去年<rt>きょねん</rt></ruby>も<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>のために<ruby>東京工業大学<rt>とうきょうこうぎょうだいがく</rt></ruby>に１<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>寄付<rt>きふ</rt></ruby></span>しました。</p>\n<p><ruby>大隅<rt>おおすみ</rt></ruby>さんは「<ruby>今<rt>いま</rt></ruby>までに<ruby>誰<rt>だれ</rt></ruby>もしなかったような<ruby>研究<rt>けんきゅう</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>応援<rt>おうえん</rt></ruby></span>したいです」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>\n<p></p>"
+words:
+- word: ノーベル賞
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の、<ruby><rb>学問</rb><rt>がくもん</rt></ruby>や<ruby><rb>平和</rb><rt>へいわ</rt></ruby>のためにりっぱな<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をした<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>毎年</rb><rt>まいとし</rt></ruby>あたえられる<ruby><rb>賞</rb><rt>しょう</rt></ruby>。<ruby><rb>化学者</rb><rt>かがくしゃ</rt></ruby>ノーベルの<ruby><rb>遺言</rb><rt>ゆいごん</rt></ruby>で、この<ruby><rb>制度</rb><rt>せいど</rt></ruby>ができた。
+- word: 財団
+  descriptions:
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>もうけのためでなく、おおやけのために、お<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めて<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>団体</rb><rt>だんたい</rt></ruby>や<ruby><rb>組織</rb><rt>そしき</rt></ruby>。<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>で<ruby><rb>認</rb><rt>みと</rt></ruby>められたものを、<ruby><rb>財団法人</rb><rt>ざいだんほうじん</rt></ruby>という。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+- word: 生物
+  descriptions:
+  - <ruby><rb>命</rb><rt>いのち</rt></ruby>のあるもの。<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>と<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。
+- word: レベル
+  descriptions:
+  - <ruby><rb>評価</rb><rt>ひょうか</rt></ruby>をするときの<ruby><rb>標準</rb><rt>ひょうじゅん</rt></ruby>。<ruby><rb>水準</rb><rt>すいじゅん</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 論文
+  descriptions:
+  - ある<ruby><rb>問題</rb><rt>もんだい</rt></ruby>についての<ruby><rb>考</rb><rt>かんが</rt></ruby>えや、<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>した<ruby><rb>結果</rb><rt>けっか</rt></ruby>を、<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てて<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>。
+- word: 寄付
+  descriptions:
+  - （おおやけの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>・<ruby><rb>寺</rb><rt>てら</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けるために）お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 応援
+  descriptions:
+  - <ruby><rb>味方</rb><rt>みかた</rt></ruby>を、はげますこと。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>をかして<ruby><rb>助</rb><rt>たす</rt></ruby>けること。
+web_news_url: /news/web/2017/09/12/ノーベル賞の大隅さん-研究費を助成の新財団設立/
+source_url: http://www3.nhk.or.jp/news/easy/k10011136611000/k10011136611000.html
+...
