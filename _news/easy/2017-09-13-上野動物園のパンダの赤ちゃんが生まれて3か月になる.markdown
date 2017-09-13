@@ -1,0 +1,25 @@
+---
+layout: easy_news
+newsid: k10011136271000
+categories: easy
+title: 上野動物園のパンダの赤ちゃんが生まれて３か月になる
+title_with_ruby: <ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>のパンダの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれて３か<ruby>月<rt>げつ</rt></ruby>になる
+last_modified_at: '2017-09-13T16:30:00+09:00'
+datetime: 2017年09月13日 16時30分
+description: 東京とうきょうの上野動物園うえのどうぶつえんで６月がつ１２日にちにパンダの赤あかちゃんが生うまれて３か月げつになりました。
+description_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>で６<ruby>月<rt>がつ</rt></ruby>１２<ruby>日<rt>にち</rt></ruby>にパンダの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれて３か<ruby>月<rt>げつ</rt></ruby>になりました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/13/k10011136271000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/13/k10011136271000.mp3
+contents: "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>で６<ruby>月<rt>がつ</rt></ruby>１２<ruby>日<rt>にち</rt></ruby>に<span\
+  \ style=\"color: blue;\">パンダ</span>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれて３か<ruby>月<rt>げつ</rt></ruby>になりました。<ruby>赤<rt>あか</rt></ruby>ちゃんもお<ruby>母<rt>かあ</rt></ruby>さんの「シンシン」も<ruby>元気<rt>げんき</rt></ruby>です。</p>\n\
+  <p><ruby>動物園<rt>どうぶつえん</rt></ruby>によると、<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>体<rt>からだ</rt></ruby>の<ruby>長<rt>なが</rt></ruby>さは６２.４ｃｍ、<ruby>重<rt>おも</rt></ruby>さは５４００ｇになりました。<ruby>目<rt>め</rt></ruby>はまだよく<ruby>見<rt>み</rt></ruby>えませんが、<ruby>歯<rt>は</rt></ruby>は４<ruby>本<rt>ほん</rt></ruby><ruby>出<rt>で</rt></ruby>てきて、<ruby>前<rt>まえ</rt></ruby>の<ruby>足<rt>あし</rt></ruby>に<ruby>力<rt>ちから</rt></ruby>を<ruby>入<rt>い</rt></ruby>れてゆっくり<ruby>進<rt>すす</rt></ruby>むこともあります。</p>\n\
+  <p><ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>名前<rt>なまえ</rt></ruby>はみんなに<ruby>考<rt>かんが</rt></ruby>えてもらって、３２<ruby>万<rt>まん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>集<rt>あつ</rt></ruby>まりました。<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろに<ruby>名前<rt>なまえ</rt></ruby>が<ruby>決<rt>き</rt></ruby>まる<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: パンダ
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中央部</rb><rt>ちゅうおうぶ</rt></ruby>にすむけもの。ジャイアントパンダとレッサーパンダがいる。
+  - <ruby><rb>特</rb><rt>とく</rt></ruby>にジャイアントパンダ。<ruby><rb>中国西部</rb><rt>ちゅうごくせいぶ</rt></ruby>の<ruby><rb>山地</rb><rt>さんち</rt></ruby>にすむ。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>に<ruby><rb>色分</rb><rt>いろわ</rt></ruby>けされて、<ruby><rb>顔</rb><rt>かお</rt></ruby>つきや<ruby><rb>動作</rb><rt>どうさ</rt></ruby>がかわいい。
+web_news_url: /news/web/2017/09/12/パンダの赤ちゃん生後3か月-順調に成長/
+source_url: http://www3.nhk.or.jp/news/easy/k10011136271000/k10011136271000.html
+...
