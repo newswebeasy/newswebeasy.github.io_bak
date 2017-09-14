@@ -1,0 +1,42 @@
+---
+layout: easy_news
+newsid: k10011138371000
+categories: easy
+title: ２０２４年のオリンピックはパリ　２０２８年はロサンゼルス
+title_with_ruby: ２０２４<ruby>年<rt>ねん</rt></ruby>のオリンピックはパリ　２０２８<ruby>年<rt>ねん</rt></ruby>はロサンゼルス
+last_modified_at: '2017-09-14T16:30:00+09:00'
+datetime: 2017年09月14日 16時30分
+description: 東京とうきょうの次つぎの２０２４年ねんの夏なつのオリンピックとパラリンピックは、初はじめは５つの都市としが開ひらきたいと言いっていました。
+description_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>次<rt>つぎ</rt></ruby>の２０２４<ruby>年<rt>ねん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>のオリンピックとパラリンピックは、<ruby>初<rt>はじ</rt></ruby>めは５つの<ruby>都市<rt>とし</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>きたいと<ruby>言<rt>い</rt></ruby>っていました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/14/k10011138371000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/14/k10011138371000.mp3
+contents: "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>次<rt>つぎ</rt></ruby>の２０２４<ruby>年<rt>ねん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>の<span\
+  \ style=\"color: blue;\">オリンピック</span>と<span style=\"color: blue;\">パラリンピック</span>は、<ruby>初<rt>はじ</rt></ruby>めは５つの<span\
+  \ style=\"color: blue;\"><ruby>都市<rt>とし</rt></ruby></span>が<ruby>開<rt>ひら</rt></ruby>きたいと<ruby>言<rt>い</rt></ruby>っていました。しかし、お<ruby>金<rt>かね</rt></ruby>がたくさんかかるため、フランスのパリとアメリカのロサンゼルス<ruby>以外<rt>いがい</rt></ruby>の３つの<span\
+  \ style=\"color: blue;\"><ruby>都市<rt>とし</rt></ruby></span>がやめると<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><span style=\"color: blue;\">ＩＯＣ</span>は、やめると<ruby>言<rt>い</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>都市<rt>とし</rt></ruby></span>が<ruby>多<rt>おお</rt></ruby>かったことをとても<ruby>心配<rt>しんぱい</rt></ruby>しています。このため<span\
+  \ style=\"color: blue;\">ＩＯＣ</span>は、２０２４<ruby>年<rt>ねん</rt></ruby>だけではなくて２０２８<ruby>年<rt>ねん</rt></ruby>の<span\
+  \ style=\"color: blue;\">オリンピック</span>も、パリとロサンゼルスから<ruby>決<rt>き</rt></ruby>めることにしました。</p>\n\
+  <p>１３<ruby>日<rt>にち</rt></ruby>の<span style=\"color: blue;\">ＩＯＣ</span>の<ruby>会議<rt>かいぎ</rt></ruby>で、パリとロサンゼルスが<span\
+  \ style=\"color: blue;\">オリンピック</span>の<ruby>計画<rt>けいかく</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>しました。</p>\n\
+  <p>パリは、<ruby>今<rt>いま</rt></ruby>ある<ruby>建物<rt>たてもの</rt></ruby>などを<ruby>使<rt>つか</rt></ruby>ってお<ruby>金<rt>かね</rt></ruby>がかからないようにして、セーヌ<ruby>川<rt>がわ</rt></ruby>などの<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>も<ruby>利用<rt>りよう</rt></ruby>する<ruby>計画<rt>けいかく</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>しました。ロサンゼルスは、<span\
+  \ style=\"color: blue;\">オリンピック</span>を２<ruby>回<rt>かい</rt></ruby><ruby>開<rt>ひら</rt></ruby>いた<ruby>経験<rt>けいけん</rt></ruby>を<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>説明<rt>せつめい</rt></ruby>しました。</p>\n\
+  <p>そして、２０２４<ruby>年<rt>ねん</rt></ruby>の<span style=\"color: blue;\">オリンピック</span>はパリ、２０２８<ruby>年<rt>ねん</rt></ruby>はロサンゼルスで<ruby>開<rt>ひら</rt></ruby>くことが<ruby>決<rt>き</rt></ruby>まりました。</p>\n\
+  <p></p>\n<p></p>\n<p></p>"
+words:
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: 都市
+  descriptions:
+  - たくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まり<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>町</rb><rt>まち</rt></ruby>。<ruby><rb>都会</rb><rt>とかい</rt></ruby>。
+- word: IOC
+  descriptions:
+  - オリンピック<ruby><rb>大会</rb><rt>たいかい</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いたり、オリンピック<ruby><rb>精神</rb><rt>せいしん</rt></ruby>を<ruby><rb>広</rb><rt>ひろ</rt></ruby>めたりする<ruby><rb>機関</rb><rt>きかん</rt></ruby>。
+web_news_url: /news/web/2017/09/14/オリンピック-24年パリ-28年ロスに正式決定/
+source_url: http://www3.nhk.or.jp/news/easy/k10011138371000/k10011138371000.html
+...
