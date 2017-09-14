@@ -1,0 +1,62 @@
+---
+layout: easy_news
+newsid: k10011136881000
+categories: easy
+title: 山形県　長靴を投げて何点取ったか競争するイベント
+title_with_ruby: <ruby>山形県<rt>やまがたけん</rt></ruby>　<ruby>長靴<rt>ながぐつ</rt></ruby>を<ruby>投<rt>な</rt></ruby>げて<ruby>何<rt>なん</rt></ruby><ruby>点<rt>てん</rt></ruby><ruby>取<rt>と</rt></ruby>ったか<ruby>競争<rt>きょうそう</rt></ruby>するイベント
+last_modified_at: '2017-09-14T11:30:00+09:00'
+datetime: 2017年09月14日 11時30分
+description: 山形県やまがたけん尾花沢市おばなざわしで、点数てんすうが書かいてあるところに長靴ながぐつを投なげて、何なん点てん取とったか競争きょうそうするイベントがありました。
+description_with_ruby: <ruby>山形県<rt>やまがたけん</rt></ruby><ruby>尾花沢市<rt>おばなざわし</rt></ruby>で、<ruby>点数<rt>てんすう</rt></ruby>が<ruby>書<rt>か</rt></ruby>いてあるところに<ruby>長靴<rt>ながぐつ</rt></ruby>を<ruby>投<rt>な</rt></ruby>げて、<ruby>何<rt>なん</rt></ruby><ruby>点<rt>てん</rt></ruby><ruby>取<rt>と</rt></ruby>ったか<ruby>競争<rt>きょうそう</rt></ruby>するイベントがありました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/14/k10011136881000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/14/k10011136881000.mp3
+contents: "<p><ruby>山形県<rt>やまがたけん</rt></ruby><ruby>尾花沢市<rt>おばなざわし</rt></ruby>で、<span\
+  \ style=\"color: blue;\"><ruby>点数<rt>てんすう</rt></ruby></span>が<ruby>書<rt>か</rt></ruby>いてあるところに<span\
+  \ style=\"color: blue;\"><ruby>長靴<rt>ながぐつ</rt></ruby></span>を<ruby>投<rt>な</rt></ruby>げて、<ruby>何<rt>なん</rt></ruby><ruby>点<rt>てん</rt></ruby><ruby>取<rt>と</rt></ruby>ったか<ruby>競争<rt>きょうそう</rt></ruby>する<span\
+  \ style=\"color: blue;\">イベント</span>がありました。この<span style=\"color: blue;\">イベント</span>は、<ruby>尾花沢市<rt>おばなざわし</rt></ruby>の<ruby>玉野地区<rt>たまのちく</rt></ruby>と<ruby>宮城県<rt>みやぎけん</rt></ruby><ruby>加美町<rt>かみまち</rt></ruby>の<ruby>小野田地区<rt>おのだちく</rt></ruby>が５<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>毎年<rt>まいとし</rt></ruby><ruby>行<rt>おこな</rt></ruby>っていて、<ruby>今年<rt>ことし</rt></ruby>は８５<ruby>人<rt>にん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>参加<rt>さんか</rt></ruby></span>しました。</p>\n<p><ruby>会場<rt>かいじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>床<rt>ゆか</rt></ruby></span>には、１〜１０の<span style=\"\
+  color: blue;\"><ruby>数字<rt>すうじ</rt></ruby></span>が<ruby>貼<rt>は</rt></ruby>ってあります。<span\
+  \ style=\"color: blue;\"><ruby>長靴<rt>ながぐつ</rt></ruby></span>を<ruby>投<rt>な</rt></ruby>げて、<span\
+  \ style=\"color: blue;\"><ruby>数字<rt>すうじ</rt></ruby></span>の<ruby>上<rt>うえ</rt></ruby>で<ruby>止<rt>と</rt></ruby>まると<span\
+  \ style=\"color: blue;\"><ruby>点数<rt>てんすう</rt></ruby></span>が<ruby>入<rt>はい</rt></ruby>ります。<ruby>投<rt>な</rt></ruby>げた<span\
+  \ style=\"color: blue;\"><ruby>長靴<rt>ながぐつ</rt></ruby></span>は<ruby>落<rt>お</rt></ruby>ちてからどこへ<ruby>行<rt>い</rt></ruby>くかわかりません。１０のところで<ruby>止<rt>と</rt></ruby>まると、みんな<ruby>喜<rt>よろこ</rt></ruby>びました。</p>\n\
+  <p>８６<ruby>歳<rt>さい</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>は「<span style=\"color:\
+  \ blue;\"><ruby>健康<rt>けんこう</rt></ruby></span>のためにもいいと<ruby>思<rt>おも</rt></ruby>います。これから２つの<span\
+  \ style=\"color: blue;\"><ruby>地区<rt>ちく</rt></ruby></span>がもっと<span style=\"color:\
+  \ blue;\"><ruby>仲<rt>なか</rt></ruby></span>よくなるといいですね」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: 長靴
+  descriptions:
+  - <ruby><rb>皮</rb><rt>かわ</rt></ruby>やゴムで<ruby><rb>作</rb><rt>つく</rt></ruby>った、ひざの<ruby><rb>近</rb><rt>ちか</rt></ruby>くまである<ruby><rb>長</rb><rt>なが</rt></ruby>いくつ。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 点数
+  descriptions:
+  - <ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>や<ruby><rb>試合</rb><rt>しあい</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>を、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>の<ruby><rb>数</rb><rt>かず</rt></ruby>。
+- word: 参加
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。
+- word: 床
+  descriptions:
+  - <ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、<ruby><rb>地面</rb><rt>じめん</rt></ruby>より<ruby><rb>高</rb><rt>たか</rt></ruby>く、<ruby><rb>板</rb><rt>いた</rt></ruby>を<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>張</rb><rt>は</rt></ruby>ったところ。
+- word: 数字
+  descriptions:
+  - <ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す<ruby><rb>文字</rb><rt>もじ</rt></ruby>。アラビア<ruby><rb>数字</rb><rt>すうじ</rt></ruby>（<ruby><rb>算用数字</rb><rt>さんようすうじ</rt></ruby>）、<ruby><rb>漢数字</rb><rt>かんすうじ</rt></ruby>、ローマ<ruby><rb>数字</rb><rt>すうじ</rt></ruby>などがある。
+- word: 健康
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。
+- word: 地区
+  descriptions:
+  - <ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>範囲</rb><rt>はんい</rt></ruby>の<ruby><rb>土地</rb><rt>とち</rt></ruby>。
+- word: 仲
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>と<ruby><rb>人</rb><rt>ひと</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>がら。
+web_news_url: /news/web/2017/09/12/長靴投げて得点競うフライングシューズ大会-山形/
+source_url: http://www3.nhk.or.jp/news/easy/k10011136881000/k10011136881000.html
+...
