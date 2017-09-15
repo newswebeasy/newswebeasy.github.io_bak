@@ -1,0 +1,48 @@
+---
+layout: easy_news
+newsid: k10011138391000
+categories: easy
+title: 歌手のレディー・ガガさん　病気のため１２月から休む
+title_with_ruby: <ruby>歌手<rt>かしゅ</rt></ruby>のレディー・ガガさん　<ruby>病気<rt>びょうき</rt></ruby>のため１２<ruby>月<rt>がつ</rt></ruby>から<ruby>休<rt>やす</rt></ruby>む
+last_modified_at: '2017-09-15T11:30:00+09:00'
+datetime: 2017年09月15日 11時30分
+description: アメリカの歌手かしゅのレディー・ガガさんは１２日にち、ツイッター（Ｔｗｉｔｔｅｒ）に、「線維筋痛症せんいきんつうしょう」という病気びょうきになったと書かきました。
+description_with_ruby: アメリカの<ruby>歌手<rt>かしゅ</rt></ruby>のレディー・ガガさんは１２<ruby>日<rt>にち</rt></ruby>、ツイッター（Ｔｗｉｔｔｅｒ）に、「<ruby>線維筋痛症<rt>せんいきんつうしょう</rt></ruby>」という<ruby>病気<rt>びょうき</rt></ruby>になったと<ruby>書<rt>か</rt></ruby>きました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/15/k10011138391000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/15/k10011138391000.mp3
+contents: "<p>アメリカの<span style=\"color: blue;\"><ruby>歌手<rt>かしゅ</rt></ruby></span>のレディー・ガガさんは１２<ruby>日<rt>にち</rt></ruby>、ツイッター（Ｔｗｉｔｔｅｒ）に、「<ruby>線維筋痛症<rt>せんいきんつうしょう</rt></ruby>」という<ruby>病気<rt>びょうき</rt></ruby>になったと<ruby>書<rt>か</rt></ruby>きました。<span\
+  \ style=\"color: blue;\"><ruby>関節<rt>かんせつ</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>筋肉<rt>きんにく</rt></ruby></span>など<ruby>体<rt>からだ</rt></ruby>の<ruby>全部<rt>ぜんぶ</rt></ruby>がとても<ruby>痛<rt>いた</rt></ruby>くなったり、<ruby>動<rt>うご</rt></ruby>きにくくなったりする<ruby>病気<rt>びょうき</rt></ruby>です。</p>\n\
+  <p>この<ruby>病気<rt>びょうき</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>はまだわかっていません。よく<ruby>眠<rt>ねむ</rt></ruby>ることができなかったり、<ruby>気持<rt>きも</rt></ruby>ちが<span\
+  \ style=\"color: blue;\"><ruby>落<rt>お</rt></ruby>ち<ruby>込<rt>こ</rt></ruby>ん</span>だりすることもあります。<ruby>日本<rt>にっぽん</rt></ruby>にも、この<ruby>病気<rt>びょうき</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が２００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>ぐらいいると<ruby>考<rt>かんが</rt></ruby>えられています。</p>\n\
+  <p>ガガさんは、<ruby>今<rt>いま</rt></ruby>いろいろな<ruby>国<rt>くに</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>っているコンサートが<ruby>終<rt>お</rt></ruby>わったあと、１２<ruby>月<rt>がつ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>中旬<rt>ちゅうじゅん</rt></ruby></span>から<ruby>休<rt>やす</rt></ruby>むことにしています。</p>\n\
+  <p>ガガさんはツイッターに「この<ruby>病気<rt>びょうき</rt></ruby>のことをもっと<ruby>知<rt>し</rt></ruby>ってほしいと<ruby>思<rt>おも</rt></ruby>います。そして、<ruby>同<rt>おな</rt></ruby>じ<ruby>病気<rt>びょうき</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが<span\
+  \ style=\"color: blue;\">つながる</span>ことができるようにしたいです」と<ruby>書<rt>か</rt></ruby>いています。</p>\n\
+  <p></p>"
+words:
+- word: 歌手
+  descriptions:
+  - <ruby><rb>歌</rb><rt>うた</rt></ruby>を<ruby><rb>歌</rb><rt>うた</rt></ruby>うことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 関節
+  descriptions:
+  - <ruby><rb>二</rb><rt>ふた</rt></ruby>つの<ruby><rb>骨</rb><rt>ほね</rt></ruby>と<ruby><rb>骨</rb><rt>ほね</rt></ruby>とが、<ruby><rb>動</rb><rt>うご</rt></ruby>くようにつながっているところ。
+- word: 筋肉
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かすはたらきをする、<ruby><rb>細</rb><rt>ほそ</rt></ruby>い<ruby><rb>筋</rb><rt>すじ</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まってできているもの。<ruby><rb>骨</rb><rt>ほね</rt></ruby>につながっているものと、<ruby><rb>内臓</rb><rt>ないぞう</rt></ruby>のかべを<ruby><rb>作</rb><rt>つく</rt></ruby>っているものとがある。
+- word: 落ち込む
+  descriptions:
+  - <ruby><rb>穴</rb><rt>あな</rt></ruby>などに<ruby><rb>落</rb><rt>お</rt></ruby>ちる。
+  - <ruby><rb>周</rb><rt>まわ</rt></ruby>りよりへこむ。
+  - （<ruby><rb>成績</rb><rt>せいせき</rt></ruby>などが）<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>下</rb><rt>さ</rt></ruby>がる。
+  - しずんだ<ruby><rb>気分</rb><rt>きぶん</rt></ruby>になる。
+- word: 中旬
+  descriptions:
+  - <ruby><rb>月</rb><rt>つき</rt></ruby>の<ruby><rb>１１</rb><rt>じゅういち</rt></ruby><ruby><rb>日</rb><rt>にち</rt></ruby>から<ruby><rb>２０日</rb><rt>はつか</rt></ruby>までの<ruby><rb>間</rb><rt>あいだ</rt></ruby>。
+- word: つながる
+  descriptions:
+  - はなれているものが<ruby><rb>結</rb><rt>むす</rt></ruby>ばれる。
+  - <ruby><rb>関係</rb><rt>かんけい</rt></ruby>がある。<ruby><rb>結</rb><rt>むす</rt></ruby>びつく。
+web_news_url: /news/web/2017/09/14/レディーガガさん病名公表-12月以降活動休止へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011138391000/k10011138391000.html
+...
