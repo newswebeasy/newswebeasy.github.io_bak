@@ -1,0 +1,70 @@
+---
+layout: easy_news
+newsid: k10011139311000
+categories: easy
+title: 地球の温暖化を調べるための新しい人工衛星ができる
+title_with_ruby: <ruby>地球<rt>ちきゅう</rt></ruby>の<ruby>温暖化<rt>おんだんか</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるための<ruby>新<rt>あたら</rt></ruby>しい<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>ができる
+last_modified_at: '2017-09-19T11:30:00+09:00'
+datetime: 2017年09月19日 11時30分
+description: 地球ちきゅうの温暖化おんだんかを調しらべるための日本にっぽんの新あたらしい人工衛星じんこうえいせい「しきさい」ができました。
+description_with_ruby: <ruby>地球<rt>ちきゅう</rt></ruby>の<ruby>温暖化<rt>おんだんか</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるための<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>「しきさい」ができました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/19/k10011139311000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/19/k10011139311000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>温暖化<rt>おんだんか</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べるための<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>「しきさい」ができました。</p>\n\
+  <p>「しきさい」は<ruby>横<rt>よこ</rt></ruby>の<ruby>長<rt>なが</rt></ruby>さが２．６ｍ、<ruby>高<rt>たか</rt></ruby>さが４．７ｍです。２つの<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\">センサー</span>で、<span style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>の<ruby>木<rt>き</rt></ruby>や<ruby>草<rt>くさ</rt></ruby>、<ruby>空気<rt>くうき</rt></ruby>の<ruby>中<rt>なか</rt></ruby>のとても<ruby>細<rt>こま</rt></ruby>かい<span\
+  \ style=\"color: blue;\"><ruby>粒子<rt>りゅうし</rt></ruby></span>などがどのくらいあるかを<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>詳<rt>くわ</rt></ruby>しく</span><ruby>調<rt>しら</rt></ruby>べます。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>温暖化<rt>おんだんか</rt></ruby></span>が<ruby>進<rt>すす</rt></ruby>むと、<ruby>普通<rt>ふつう</rt></ruby>よりとてもたくさん<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るなどの<span\
+  \ style=\"color: blue;\"><ruby>異常<rt>いじょう</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>気象<rt>きしょう</rt></ruby></span>が<ruby>増<rt>ふ</rt></ruby>えると<ruby>専門家<rt>せんもんか</rt></ruby>は<ruby>考<rt>かんが</rt></ruby>えています。「しきさい」が<ruby>調<rt>しら</rt></ruby>べた<span\
+  \ style=\"color: blue;\">データ</span>を<ruby>使<rt>つか</rt></ruby>うと、<span style=\"color:\
+  \ blue;\"><ruby>温暖化<rt>おんだんか</rt></ruby></span>がどのくらい<ruby>進<rt>すす</rt></ruby>むかが<ruby>今<rt>いま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>よりわかるようになると<ruby>考<rt>かんが</rt></ruby>えられています。</p>\n\
+  <p>「しきさい」は<ruby>来年<rt>らいねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまでに<ruby>日本<rt>にっぽん</rt></ruby>の「Ｈ２Ａ」という<span\
+  \ style=\"color: blue;\">ロケット</span>で<span style=\"color: blue;\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</span>られる<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>３番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: 地球温暖化
+  descriptions:
+  - <ruby><rb>大気中</rb><rt>たいきちゅう</rt></ruby>の<ruby><rb>二酸化炭素</rb><rt>にさんかたんそ</rt></ruby>（<ruby><rb>CO<span
+    class="dic_sub">2</span></rb><rt>シーオーツー</rt></ruby>）が<ruby><rb>増</rb><rt>ふ</rt></ruby>えて、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>気温</rb><rt>きおん</rt></ruby>が<ruby><rb>上</rb><rt>あ</rt></ruby>がること。<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>や<ruby><rb>北極</rb><rt>ほっきょく</rt></ruby>の<ruby><rb>氷</rb><rt>こおり</rt></ruby>が<ruby><rb>解</rb><rt>と</rt></ruby>けて<ruby><rb>海面</rb><rt>かいめん</rt></ruby>が<ruby><rb>高</rb><rt>たか</rt></ruby>くなったり、<ruby><rb>農作物</rb><rt>のうさくぶつ</rt></ruby>にひがいが<ruby><rb>出</rb><rt>で</rt></ruby>たりする。
+- word: 人工衛星
+  descriptions:
+  - ロケットで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げ、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>るようにした、<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>。<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>のようすや<ruby><rb>気象</rb><rt>きしょう</rt></ruby>などを<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>などの<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>の<ruby><rb>中継</rb><rt>ちゅうけい</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>てたりする。
+- word: センサー
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>、<ruby><rb>温度</rb><rt>おんど</rt></ruby>などに<ruby><rb>反応</rb><rt>はんのう</rt></ruby>して、<ruby><rb>電気的</rb><rt>でんきてき</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 粒子
+  descriptions:
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かいつぶ。
+- word: 詳しい
+  descriptions:
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かい。
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かいことまでよく<ruby><rb>知</rb><rt>し</rt></ruby>っている。
+- word: 異常
+  descriptions:
+  - ふつうとちがう<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>なようす。
+- word: 気象
+  descriptions:
+  - <ruby><rb>天候</rb><rt>てんこう</rt></ruby>・<ruby><rb>風速</rb><rt>ふうそく</rt></ruby>・<ruby><rb>気圧</rb><rt>きあつ</rt></ruby>など、<ruby><rb>大気中</rb><rt>たいきちゅう</rt></ruby>に<ruby><rb>起</rb><rt>お</rt></ruby>こる<ruby><rb>天気</rb><rt>てんき</rt></ruby>のようす。
+- word: データ
+  descriptions:
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。
+  - コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。
+- word: ロケット
+  descriptions:
+  - <ruby><rb>筒</rb><rt>つつ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れた<ruby><rb>火薬</rb><rt>かやく</rt></ruby>などを<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>させ、<ruby><rb>後</rb><rt>うし</rt></ruby>ろへふき<ruby><rb>出</rb><rt>だ</rt></ruby>すガスの<ruby><rb>勢</rb><rt>いきお</rt></ruby>いの<ruby><rb>反動</rb><rt>はんどう</rt></ruby>で、<ruby><rb>飛</rb><rt>と</rt></ruby>ぶ<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。また、それを<ruby><rb>装置</rb><rt>そうち</rt></ruby>した<ruby><rb>飛行物体</rb><rt>ひこうぶったい</rt></ruby>。
+- word: 打ち上げる
+  descriptions:
+  - （<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - <ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - （<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。
+web_news_url: /news/web/2017/09/14/気候変動観測衛星しきさい完成-温暖化予測の向上へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011139311000/k10011139311000.html
+...
