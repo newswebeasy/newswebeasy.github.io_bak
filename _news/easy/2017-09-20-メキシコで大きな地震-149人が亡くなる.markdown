@@ -1,0 +1,41 @@
+---
+layout: easy_news
+newsid: k10011148681000
+categories: easy
+title: メキシコで大きな地震　１４９人が亡くなる
+title_with_ruby: メキシコで<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>　１４９<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+last_modified_at: '2017-09-20T15:55:00+09:00'
+datetime: 2017年09月20日 15時55分
+description: 日本にっぽんの時間じかんの２０日はつか午前ごぜん３時じごろ、メキシコのプエブラ州しゅうでマグニチュード７．１（Ｍ７．１）の大おおきな地震じしんがありました。
+description_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>の<ruby>２０日<rt>はつか</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>３<ruby>時<rt>じ</rt></ruby>ごろ、メキシコのプエブラ<ruby>州<rt>しゅう</rt></ruby>でマグニチュード７．１（Ｍ７．１）の<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/20/k10011148681000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/20/k10011148681000.mp3
+contents: "<p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>の<ruby>２０日<rt>はつか</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>３<ruby>時<rt>じ</rt></ruby>ごろ、メキシコのプエブラ<ruby>州<rt>しゅう</rt></ruby>で<span\
+  \ style=\"color: blue;\">マグニチュード</span>７．１（Ｍ７．１）の<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>がありました。プエブラ<ruby>州<rt>しゅう</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>のメキシコシティーなどでは<ruby>強<rt>つよ</rt></ruby>く<ruby>揺<rt>ゆ</rt></ruby>れて、たくさんの<ruby>建物<rt>たてもの</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>通信社<rt>つうしんしゃ</rt></ruby></span>などは、<ruby>２０日<rt>はつか</rt></ruby>の<ruby>昼<rt>ひる</rt></ruby>までに１４９<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなったと<ruby>伝<rt>つた</rt></ruby>えています。メキシコシティーでは<span\
+  \ style=\"color: blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>などが、<ruby>壊<rt>こわ</rt></ruby>れた<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>から<ruby>出<rt>で</rt></ruby>ることができなくなった<ruby>人<rt>ひと</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>け</span>ています。</p>\n<p>３８０<ruby>万<rt>まん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>などで<ruby>電気<rt>でんき</rt></ruby>が<ruby>止<rt>と</rt></ruby>まっていて、ガスが<ruby>止<rt>と</rt></ruby>まっている<ruby>所<rt>ところ</rt></ruby>もあります。</p>\n\
+  <p>メキシコでは、<ruby>今月<rt>こんげつ</rt></ruby><ruby>８日<rt>ようか</rt></ruby>にも<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>があって９０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなっています。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: マグニチュード
+  descriptions:
+  - <ruby><rb>地震</rb><rt>じしん</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさの<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: 首都
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。
+- word: 通信社
+  descriptions:
+  - ニュースを<ruby><rb>集</rb><rt>あつ</rt></ruby>めて、<ruby><rb>新聞社</rb><rt>しんぶんしゃ</rt></ruby>・<ruby><rb>放送局</rb><rt>ほうそうきょく</rt></ruby>・<ruby><rb>雑誌社</rb><rt>ざっししゃ</rt></ruby>などに<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>。
+- word: 軍
+  descriptions:
+  - <ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+web_news_url: /news/web/2017/09/20/メキシコで地震-少なくとも149人死亡-非常事態宣言/
+source_url: http://www3.nhk.or.jp/news/easy/k10011148681000/k10011148681000.html
+...
