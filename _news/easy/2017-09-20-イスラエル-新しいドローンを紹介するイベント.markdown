@@ -1,0 +1,48 @@
+---
+layout: easy_news
+newsid: k10011146951000
+categories: easy
+title: イスラエル　新しいドローンを紹介するイベント
+title_with_ruby: イスラエル　<ruby>新<rt>あたら</rt></ruby>しいドローンを<ruby>紹介<rt>しょうかい</rt></ruby>するイベント
+last_modified_at: '2017-09-20T11:30:00+09:00'
+datetime: 2017年09月20日 11時30分
+description: イスラエルで新あたらしいドローンなどを紹介しょうかいするイベントがありました。
+description_with_ruby: イスラエルで<ruby>新<rt>あたら</rt></ruby>しいドローンなどを<ruby>紹介<rt>しょうかい</rt></ruby>するイベントがありました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/20/k10011146951000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/20/k10011146951000.mp3
+contents: "<p>イスラエルで<ruby>新<rt>あたら</rt></ruby>しいドローンなどを<ruby>紹介<rt>しょうかい</rt></ruby>する<span\
+  \ style=\"color: blue;\">イベント</span>がありました。イスラエルはドローンをたくさん<ruby>輸出<rt>ゆしゅつ</rt></ruby>したいと<ruby>考<rt>かんが</rt></ruby>えていて、<span\
+  \ style=\"color: blue;\">イベント</span>には３０の<ruby>会社<rt>かいしゃ</rt></ruby>が<span style=\"\
+  color: blue;\"><ruby>参加<rt>さんか</rt></ruby></span>しました。</p>\n<p><ruby>自動車<rt>じどうしゃ</rt></ruby>のような<ruby>形<rt>かたち</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きなドローンは、３つの<span\
+  \ style=\"color: blue;\">プロペラ</span>で<ruby>飛<rt>と</rt></ruby>んで、７００ｋｇの<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶことができます。<span\
+  \ style=\"color: blue;\"><ruby>災害<rt>さいがい</rt></ruby></span>があったとき、<span style=\"\
+  color: blue;\">ヘリコプター</span>が<ruby>降<rt>お</rt></ruby>りることができない<ruby>狭<rt>せま</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>にも、<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>物<rt>もの</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶことができます。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>半径<rt>はんけい</rt></ruby></span>１５０ｋｍの<ruby>場所<rt>ばしょ</rt></ruby>で２４<ruby>時間<rt>じかん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>飛<rt>と</rt></ruby>び<ruby>続<rt>つづ</rt></ruby>けることができるドローンもあります。アフリカの<ruby>国<rt>くに</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>密猟<rt>みつりょう</rt></ruby></span>で<ruby>動物<rt>どうぶつ</rt></ruby>を<ruby>捕<rt>つか</rt></ruby>まえている<ruby>人<rt>ひと</rt></ruby>がいないかなどを、このドローンを<ruby>使<rt>つか</rt></ruby>って<ruby>調<rt>しら</rt></ruby>べています。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 参加
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。
+- word: プロペラ
+  descriptions:
+  - <ruby><rb>軸</rb><rt>じく</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>る、<ruby><rb>回転羽根</rb><rt>かいてんばね</rt></ruby>。<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>や<ruby><rb>船</rb><rt>ふね</rt></ruby>などを<ruby><rb>動</rb><rt>うご</rt></ruby>かすもの。
+- word: 災害
+  descriptions:
+  - <ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。
+- word: ヘリコプター
+  descriptions:
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>きなプロペラが、<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>りつけてあり、まっすぐ<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>飛</rb><rt>と</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>がったり、<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>にとまったりできる<ruby><rb>航空機</rb><rt>こうくうき</rt></ruby>。ヘリ。
+- word: 半径
+  descriptions:
+  - <ruby><rb>円</rb><rt>えん</rt></ruby>や<ruby><rb>球</rb><rt>きゅう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>と、<ruby><rb>円周</rb><rt>えんしゅう</rt></ruby>または<ruby><rb>球面</rb><rt>きゅうめん</rt></ruby>とを<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さ。<ruby><rb>直径</rb><rt>ちょっけい</rt></ruby>の<ruby><rb>半分</rb><rt>はんぶん</rt></ruby>。
+- word: 密猟
+  descriptions:
+  - とってはいけない<ruby><rb>鳥</rb><rt>とり</rt></ruby>やけものを、こっそりとること。
+web_news_url: /news/web/2017/09/19/最新ドローン見本市-重さ700キロ運搬24時間飛行/
+source_url: http://www3.nhk.or.jp/news/easy/k10011146951000/k10011146951000.html
+...
