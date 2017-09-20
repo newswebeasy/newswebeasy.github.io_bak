@@ -1,0 +1,51 @@
+---
+layout: easy_news
+newsid: k10011146321000
+categories: easy
+title: コンビニが自動販売機で食べ物などを売る
+title_with_ruby: コンビニが<ruby>自動販売機<rt>じどうはんばいき</rt></ruby>で<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>などを<ruby>売<rt>う</rt></ruby>る
+last_modified_at: '2017-09-20T15:55:00+09:00'
+datetime: 2017年09月20日 15時55分
+description: 会社かいしゃや工場こうじょうなどの建物たてものの中なかに自動販売機じどうはんばいきを置おいて、弁当べんとうやおにぎり、お菓子かしなどを売うるコンビニが多おおくなっています。
+description_with_ruby: <ruby>会社<rt>かいしゃ</rt></ruby>や<ruby>工場<rt>こうじょう</rt></ruby>などの<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>自動販売機<rt>じどうはんばいき</rt></ruby>を<ruby>置<rt>お</rt></ruby>いて、<ruby>弁当<rt>べんとう</rt></ruby>やおにぎり、お<ruby>菓子<rt>かし</rt></ruby>などを<ruby>売<rt>う</rt></ruby>るコンビニが<ruby>多<rt>おお</rt></ruby>くなっています。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/20/k10011146321000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/20/k10011146321000.mp3
+contents: "<p><ruby>会社<rt>かいしゃ</rt></ruby>や<ruby>工場<rt>こうじょう</rt></ruby>などの<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></span>を<ruby>置<rt>お</rt></ruby>いて、<ruby>弁当<rt>べんとう</rt></ruby>や<span\
+  \ style=\"color: blue;\">おにぎり</span>、お<ruby>菓子<rt>かし</rt></ruby>などを<ruby>売<rt>う</rt></ruby>る<span\
+  \ style=\"color: blue;\">コンビニ</span>が<ruby>多<rt>おお</rt></ruby>くなっています。</p>\n<p>ファミリーマートは２１００<ruby>台<rt>だい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>置<rt>お</rt></ruby>いています。<span\
+  \ style=\"color: blue;\"><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></span>を<ruby>大<rt>おお</rt></ruby>きくして、<ruby>品物<rt>しなもの</rt></ruby>をたくさん<ruby>売<rt>う</rt></ruby>ることができるようにしたと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>セブンーイレブン・ジャパンは、<ruby>狭<rt>せま</rt></ruby>い<ruby>場所<rt>ばしょ</rt></ruby>でも<ruby>置<rt>お</rt></ruby>くことができる<span\
+  \ style=\"color: blue;\"><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>りました。これから５００<ruby>台<rt>だい</rt></ruby><ruby>置<rt>お</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p>ローソンは、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にある<ruby>店<rt>みせ</rt></ruby>で、<ruby>店員<rt>てんいん</rt></ruby>がいなくても<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>ができるレジを<ruby>今年<rt>ことし</rt></ruby>の７<ruby>月<rt>がつ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めました。<ruby>客<rt>きゃく</rt></ruby>が<ruby>品物<rt>しなもの</rt></ruby>をレジの<ruby>機械<rt>きかい</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>近<rt>ちか</rt></ruby>づけ</span>て、ＳｕｉｃａやＰＡＳＭＯなどの<span\
+  \ style=\"color: blue;\">ＩＣ</span><span style=\"color: blue;\">カード</span>で<ruby>払<rt>はら</rt></ruby>います。</p>\n\
+  <p><ruby>最近<rt>さいきん</rt></ruby>、どの<span style=\"color: blue;\">コンビニ</span>も<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなっています。<span\
+  \ style=\"color: blue;\"><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></span>などは<ruby>店員<rt>てんいん</rt></ruby>がいなくてもいいため、これからもっと<ruby>多<rt>おお</rt></ruby>くなりそうです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: コンビニ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>のコンビニエンスストアの<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。
+- word: 自動販売機
+  descriptions:
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れると、<ruby><rb>自動的</rb><rt>じどうてき</rt></ruby>に<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: お握り
+  descriptions:
+  - おむすび。にぎり<ruby><rb>飯</rb><rt>めし</rt></ruby>。
+- word: 近付ける
+  descriptions:
+  - <ruby><rb>近</rb><rt>ちか</rt></ruby>くに<ruby><rb>寄</rb><rt>よ</rt></ruby>せる。
+  - そばへ<ruby><rb>寄</rb><rt>よ</rt></ruby>せて、<ruby><rb>親</rb><rt>した</rt></ruby>しくする。
+- word: IC
+  descriptions:
+  - さまざまな<ruby><rb>部品</rb><rt>ぶひん</rt></ruby>から<ruby><rb>配線</rb><rt>はいせん</rt></ruby>までを<ruby><rb>一</rb><rt>ひと</rt></ruby>つに<ruby><rb>組</rb><rt>く</rt></ruby>みこんで、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さいところにたくさんの<ruby><rb>回路</rb><rt>かいろ</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。<ruby><rb>小型</rb><rt>こがた</rt></ruby>で<ruby><rb>軽</rb><rt>かる</rt></ruby>く、<ruby><rb>計算機</rb><rt>けいさんき</rt></ruby>やコンピューターなどに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。<ruby><rb>集積回路</rb><rt>しゅうせきかいろ</rt></ruby>。
+- word: カード
+  descriptions:
+  - <ruby><rb>紙</rb><rt>かみ</rt></ruby>を、<ruby><rb>四角</rb><rt>しかく</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さく<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。<ruby><rb>記入</rb><rt>きにゅう</rt></ruby>したり、<ruby><rb>整理</rb><rt>せいり</rt></ruby>するときなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+  - 「クレジットカード」「キャッシュカード」などの<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - トランプ（の<ruby><rb>札</rb><rt>ふだ</rt></ruby>）。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>などの、<ruby><rb>試合</rb><rt>しあい</rt></ruby>の<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。
+web_news_url: /news/web/2017/09/18/自販機型コンビニにセブンーイレブンが参入/
+source_url: http://www3.nhk.or.jp/news/easy/k10011146321000/k10011146321000.html
+...
