@@ -1,0 +1,54 @@
+---
+layout: easy_news
+newsid: k10011150011000
+categories: easy
+title: 「子どもを車に乗せるときはチャイルドシートを使って」
+title_with_ruby: 「<ruby>子<rt>こ</rt></ruby>どもを<ruby>車<rt>くるま</rt></ruby>に<ruby>乗<rt>の</rt></ruby>せるときはチャイルドシートを<ruby>使<rt>つか</rt></ruby>って」
+last_modified_at: '2017-09-21T16:30:00+09:00'
+datetime: 2017年09月21日 16時30分
+description: 日本にっぽんでは、０歳さい〜５歳さいの子こどもを車くるまに乗のせるとき安全あんぜんのためチャイルドシートを使つかうことが法律ほうりつで決きまっています。
+description_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>では、０<ruby>歳<rt>さい</rt></ruby>〜５<ruby>歳<rt>さい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもを<ruby>車<rt>くるま</rt></ruby>に<ruby>乗<rt>の</rt></ruby>せるとき<ruby>安全<rt>あんぜん</rt></ruby>のためチャイルドシートを<ruby>使<rt>つか</rt></ruby>うことが<ruby>法律<rt>ほうりつ</rt></ruby>で<ruby>決<rt>き</rt></ruby>まっています。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/21/k10011150011000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/21/k10011150011000.mp3
+contents: "<p><ruby>日本<rt>にっぽん</rt></ruby>では、０<ruby>歳<rt>さい</rt></ruby>〜５<ruby>歳<rt>さい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもを<ruby>車<rt>くるま</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>乗<rt>の</rt></ruby>せる</span>とき<ruby>安全<rt>あんぜん</rt></ruby>のためチャイルドシートを<ruby>使<rt>つか</rt></ruby>うことが<ruby>法律<rt>ほうりつ</rt></ruby>で<ruby>決<rt>き</rt></ruby>まっています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>警察庁<rt>けいさつちょう</rt></ruby></span>は、２０１２<ruby>年<rt>ねん</rt></ruby>〜２０１６<ruby>年<rt>ねん</rt></ruby>にあった<ruby>交通事故<rt>こうつうじこ</rt></ruby>について<span\
+  \ style=\"color: blue;\"><ruby>詳<rt>くわ</rt></ruby>しく</span><ruby>調<rt>しら</rt></ruby>べました。<ruby>車<rt>くるま</rt></ruby>に<ruby>乗<rt>の</rt></ruby>っていて<ruby>亡<rt>な</rt></ruby>くなった０<ruby>歳<rt>さい</rt></ruby>〜５<ruby>歳<rt>さい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもは５６<ruby>人<rt>にん</rt></ruby>いました。この<ruby>中<rt>なか</rt></ruby>の４０<ruby>人<rt>にん</rt></ruby>はチャイルドシートを<ruby>使<rt>つか</rt></ruby>っていませんでした。</p>\n\
+  <p><ruby>亡<rt>な</rt></ruby>くなった<ruby>子<rt>こ</rt></ruby>どもとひどいけがをした<ruby>子<rt>こ</rt></ruby>どもは<ruby>全部<rt>ぜんぶ</rt></ruby>で１９９<ruby>人<rt>にん</rt></ruby>いて、<span\
+  \ style=\"color: blue;\">シートベルト</span>などをしないで<ruby>座<rt>すわ</rt></ruby>っていたのは２９％でした。２３％は<ruby>大人<rt>おとな</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>抱<rt>だ</rt></ruby>い</span>ていて、１８％は<ruby>大人<rt>おとな</rt></ruby>の<span\
+  \ style=\"color: blue;\">シートベルト</span>をしていました。<ruby>大人<rt>おとな</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>抱<rt>だ</rt></ruby>い</span>たり<ruby>大人<rt>おとな</rt></ruby>の<span\
+  \ style=\"color: blue;\">シートベルト</span>をしたりしていても、<ruby>事故<rt>じこ</rt></ruby>のとき<ruby>子<rt>こ</rt></ruby>どもを<ruby>十分<rt>じゅうぶん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>る</span>ことができないことがわかります。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>警察庁<rt>けいさつちょう</rt></ruby></span>は、２１<ruby>日<rt>にち</rt></ruby>〜３０<ruby>日<rt>にち</rt></ruby>の「<ruby>秋<rt>あき</rt></ruby>の<ruby>全国<rt>ぜんこく</rt></ruby><ruby>交通<rt>こうつう</rt></ruby><ruby>安全<rt>あんぜん</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>」で、<ruby>小<rt>ちい</rt></ruby>さい<ruby>子<rt>こ</rt></ruby>どもを<ruby>車<rt>くるま</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>乗<rt>の</rt></ruby>せる</span>ときは<ruby>必<rt>かなら</rt></ruby>ずチャイルドシートを<ruby>使<rt>つか</rt></ruby>うように<ruby>言<rt>い</rt></ruby>うことにしています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 乗せる
+  descriptions:
+  - <ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などに<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>む。
+  - <ruby><rb>調子</rb><rt>ちょうし</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。
+  - だます。
+- word: 警察庁
+  descriptions:
+  - <ruby><rb>警察</rb><rt>けいさつ</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となって、<ruby><rb>各地</rb><rt>かくち</rt></ruby>の<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>を<ruby><rb>指揮</rb><rt>しき</rt></ruby>する<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 詳しい
+  descriptions:
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かい。
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かいことまでよく<ruby><rb>知</rb><rt>し</rt></ruby>っている。
+- word: シートベルト
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>や<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>などの<ruby><rb>座席</rb><rt>ざせき</rt></ruby>に、<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>のためについている、<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>固定</rb><rt>こてい</rt></ruby>するベルト。
+- word: 抱く
+  descriptions:
+  - <ruby><rb>腕</rb><rt>うで</rt></ruby>でかかえて<ruby><rb>持</rb><rt>も</rt></ruby>つ。
+  - ある<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>持</rb><rt>も</rt></ruby>つ。
+  - <ruby><rb>温</rb><rt>あたた</rt></ruby>めてひなをかえす。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+web_news_url: /news/web/2017/09/21/6歳未満-車の事故で死亡の7割がチャイルドシート未使用/
+source_url: http://www3.nhk.or.jp/news/easy/k10011150011000/k10011150011000.html
+...
