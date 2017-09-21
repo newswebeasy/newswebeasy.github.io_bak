@@ -1,0 +1,57 @@
+---
+layout: easy_news
+newsid: k10011148981000
+categories: easy
+title: 宮城県女川港に今年最初のサンマ　今まででいちばん遅い
+title_with_ruby: <ruby>宮城県<rt>みやぎけん</rt></ruby><ruby>女川港<rt>おながわこう</rt></ruby>に<ruby>今年<rt>ことし</rt></ruby><ruby>最初<rt>さいしょ</rt></ruby>のサンマ　<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>遅<rt>おそ</rt></ruby>い
+last_modified_at: '2017-09-21T16:30:00+09:00'
+datetime: 2017年09月21日 16時30分
+description: 今年ことしは日本中にほんじゅうでサンマがあまりとれていません。
+description_with_ruby: <ruby>今年<rt>ことし</rt></ruby>は<ruby>日本中<rt>にほんじゅう</rt></ruby>でサンマがあまりとれていません。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/21/k10011148981000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/21/k10011148981000.mp3
+contents: "<p><ruby>今年<rt>ことし</rt></ruby>は<ruby>日本中<rt>にほんじゅう</rt></ruby>で<span style=\"\
+  color: blue;\">サンマ</span>があまり<span style=\"color: blue;\">とれ</span>ていません。<ruby>宮城県<rt>みやぎけん</rt></ruby>の<ruby>女川港<rt>おながわこう</rt></ruby>に<ruby>２０日<rt>はつか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<span\
+  \ style=\"color: blue;\">サンマ</span>をとった<ruby>船<rt>ふね</rt></ruby>が、<ruby>今年<rt>ことし</rt></ruby><ruby>初<rt>はじ</rt></ruby>めて<ruby>着<rt>つ</rt></ruby>きました。<span\
+  \ style=\"color: blue;\">サンマ</span>をとった<ruby>船<rt>ふね</rt></ruby>が<ruby>女川港<rt>おながわこう</rt></ruby>に<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いた<ruby>日<rt>ひ</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>より１５<ruby>日<rt>にち</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くて、<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>遅<rt>おそ</rt></ruby>くなりました。</p>\n\
+  <p>この<ruby>日<rt>ひ</rt></ruby>は、８５<span style=\"color: blue;\">ｔ</span>の<span style=\"\
+  color: blue;\">サンマ</span>が<ruby>港<rt>みなと</rt></ruby>に<span style=\"color: blue;\"\
+  ><ruby>届<rt>とど</rt></ruby>き</span>ました。<ruby>港<rt>みなと</rt></ruby>では、<span style=\"\
+  color: blue;\"><ruby>市場<rt>いちば</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>たちが<span\
+  \ style=\"color: blue;\">サンマ</span>の<ruby>大<rt>おお</rt></ruby>きさや<span style=\"color:\
+  \ blue;\"><ruby>新鮮<rt>しんせん</rt></ruby></span>さを<ruby>調<rt>しら</rt></ruby>べていました。１２０ｇぐらいの<ruby>小<rt>ちい</rt></ruby>さな<span\
+  \ style=\"color: blue;\">サンマ</span>が<ruby>多<rt>おお</rt></ruby>くて、いつもの<ruby>年<rt>とし</rt></ruby>に<ruby>多<rt>おお</rt></ruby>い１６０ｇぐらいの<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\">サンマ</span>はほとんどありませんでした。</p>\n<p><ruby>女川港<rt>おながわこう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>市場<rt>いちば</rt></ruby></span>で<ruby>働<rt>はたら</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>は「こんなに<ruby>小<rt>ちい</rt></ruby>さな<span\
+  \ style=\"color: blue;\">サンマ</span>は<ruby>初<rt>はじ</rt></ruby>めてなので、お<ruby>客<rt>きゃく</rt></ruby>さんがどう<ruby>思<rt>おも</rt></ruby>うか<ruby>心配<rt>しんぱい</rt></ruby>です。<ruby>味<rt>あじ</rt></ruby>はいいので、たくさんの<ruby>人<rt>ひと</rt></ruby>に<ruby>食<rt>た</rt></ruby>べてほしいです」と<ruby>言<rt>い</rt></ruby>っていました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 秋刀魚
+  descriptions:
+  - <ruby><rb>冷</rb><rt>つめ</rt></ruby>たい<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くとれる。
+- word: 捕れる
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+  - とることができる。
+- word: トン
+  descriptions:
+  - メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。１トンは、１０００キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+  - <ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: 届く
+  descriptions:
+  - <ruby><rb>送</rb><rt>おく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>着</rb><rt>つ</rt></ruby>く。
+  - のばしたものが、つく。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>いなどがかなう。
+- word: 市場
+  descriptions:
+  - <ruby><rb>商人</rb><rt>しょうにん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などを<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>買</rb><rt>か</rt></ruby>いする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>市</rb><rt>いち</rt></ruby>。
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>などの<ruby><rb>小売店</rb><rt>こうりてん</rt></ruby>が、<ruby><rb>一</rb><rt>いっ</rt></ruby>か<ruby><rb>所</rb><rt>しょ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>っている<ruby><rb>所</rb><rt>ところ</rt></ruby>。マーケット。
+- word: 新鮮
+  descriptions:
+  - <ruby><rb>新</rb><rt>あたら</rt></ruby>しくて、<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>生</rb><rt>い</rt></ruby>きしているようす。
+  - すがすがしくて、よごれていないようす。
+web_news_url: /news/web/2017/09/20/サンマ不漁-女川港で遅い初水揚げ-宮城/
+source_url: http://www3.nhk.or.jp/news/easy/k10011148981000/k10011148981000.html
+...
