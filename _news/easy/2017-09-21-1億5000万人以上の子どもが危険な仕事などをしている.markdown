@@ -1,0 +1,35 @@
+---
+layout: easy_news
+newsid: k10011148481000
+categories: easy
+title: １億５０００万人以上の子どもが危険な仕事などをしている
+title_with_ruby: １<ruby>億<rt>おく</rt></ruby>５０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもが<ruby>危険<rt>きけん</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>などをしている
+last_modified_at: '2017-09-21T11:30:00+09:00'
+datetime: 2017年09月21日 11時30分
+description: 国連こくれんによると、去年きょねん、世界せかいの５歳さい〜１７歳さいの子こどもの中なかの１億おく５１６０万まん人にんが、危険きけんな仕事しごとや体からだに悪わるい影響えいきょうがある仕事しごとをしていました。
+description_with_ruby: <ruby>国連<rt>こくれん</rt></ruby>によると、<ruby>去年<rt>きょねん</rt></ruby>、<ruby>世界<rt>せかい</rt></ruby>の５<ruby>歳<rt>さい</rt></ruby>〜１７<ruby>歳<rt>さい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもの<ruby>中<rt>なか</rt></ruby>の１<ruby>億<rt>おく</rt></ruby>５１６０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>が、<ruby>危険<rt>きけん</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>や<ruby>体<rt>からだ</rt></ruby>に<ruby>悪<rt>わる</rt></ruby>い<ruby>影響<rt>えいきょう</rt></ruby>がある<ruby>仕事<rt>しごと</rt></ruby>をしていました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/21/k10011148481000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/21/k10011148481000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>によると、<ruby>去年<rt>きょねん</rt></ruby>、<ruby>世界<rt>せかい</rt></ruby>の５<ruby>歳<rt>さい</rt></ruby>〜１７<ruby>歳<rt>さい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもの<ruby>中<rt>なか</rt></ruby>の１<ruby>億<rt>おく</rt></ruby>５１６０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>が、<ruby>危険<rt>きけん</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>や<ruby>体<rt>からだ</rt></ruby>に<ruby>悪<rt>わる</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>影響<rt>えいきょう</rt></ruby></span>がある<ruby>仕事<rt>しごと</rt></ruby>をしていました。これは、<ruby>世界<rt>せかい</rt></ruby>の５<ruby>歳<rt>さい</rt></ruby>〜１７<ruby>歳<rt>さい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもの１０％です。</p>\n\
+  <p>いちばん<ruby>多<rt>おお</rt></ruby>かった<ruby>所<rt>ところ</rt></ruby>はアフリカで、７２１０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>いました。<ruby>次<rt>つぎ</rt></ruby>はアジアと<span\
+  \ style=\"color: blue;\"><ruby>太平洋<rt>たいへいよう</rt></ruby></span>にある<ruby>国<rt>くに</rt></ruby>で６２００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>でした。</p>\n\
+  <p><ruby>子<rt>こ</rt></ruby>どもの<ruby>仕事<rt>しごと</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、<ruby>山<rt>やま</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>金属<rt>きんぞく</rt></ruby></span>をとったり<ruby>建物<rt>たてもの</rt></ruby>などをつくったりする<ruby>仕事<rt>しごと</rt></ruby>がありました。とても<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby><ruby>働<rt>はたら</rt></ruby>かなければならない<ruby>子<rt>こ</rt></ruby>どももいました。</p>\n\
+  <p></p>\n<p></p>\n<p></p>"
+words:
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: 影響
+  descriptions:
+  - あるものごとが、ほかのものごとに<ruby><rb>力</rb><rt>ちから</rt></ruby>をおよぼして、そのようすを<ruby><rb>変</rb><rt>か</rt></ruby>えること。
+- word: 太平洋
+  descriptions:
+  - アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: 金属
+  descriptions:
+  - ふつうは<ruby><rb>固体</rb><rt>こたい</rt></ruby>で、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>電気</rb><rt>でんき</rt></ruby>をよく<ruby><rb>伝</rb><rt>つた</rt></ruby>えるもの。<ruby><rb>鉄</rb><rt>てつ</rt></ruby>・<ruby><rb>銅</rb><rt>どう</rt></ruby>・<ruby><rb>金</rb><rt>きん</rt></ruby>・<ruby><rb>銀</rb><rt>ぎん</rt></ruby>・アルミニウムなど。
+web_news_url: /news/web/2017/09/20/世界の1億5000万人余が児童労働-国連調査/
+source_url: http://www3.nhk.or.jp/news/easy/k10011148481000/k10011148481000.html
+...
