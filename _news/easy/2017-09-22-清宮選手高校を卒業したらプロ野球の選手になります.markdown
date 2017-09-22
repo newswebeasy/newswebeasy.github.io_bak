@@ -1,0 +1,64 @@
+---
+layout: easy_news
+newsid: k10011152101000
+categories: easy
+title: 清宮選手「高校を卒業したらプロ野球の選手になります」
+title_with_ruby: <ruby>清宮<rt>きよみや</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>「<ruby>高校<rt>こうこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>したらプロ<ruby>野球<rt>やきゅう</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>になります」
+last_modified_at: '2017-09-22T15:50:00+09:00'
+datetime: 2017年09月22日 15時50分
+description: 高校こうこう３年生ねんせいの清宮きよみや幸太郎こうたろう選手せんしゅは、３年ねんの間あいだにホームランを１１１本ぽん打うちました。
+description_with_ruby: <ruby>高校<rt>こうこう</rt></ruby>３<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>清宮<rt>きよみや</rt></ruby><ruby>幸太郎<rt>こうたろう</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は、３<ruby>年<rt>ねん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にホームランを１１１<ruby>本<rt>ぽん</rt></ruby><ruby>打<rt>う</rt></ruby>ちました。
+image_url: https://newswebeasy.github.io/ja201709/news/easy/image/2017/09/22/k10011152101000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/22/k10011152101000.mp3
+contents: "<p><ruby>高校<rt>こうこう</rt></ruby>３<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>清宮<rt>きよみや</rt></ruby><ruby>幸太郎<rt>こうたろう</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、３<ruby>年<rt>ねん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<span\
+  \ style=\"color: blue;\">ホームラン</span>を１１１<ruby>本<rt>ぽん</rt></ruby><ruby>打<rt>う</rt></ruby>ちました。これは<ruby>高校生<rt>こうこうせい</rt></ruby>が<ruby>打<rt>う</rt></ruby>った<span\
+  \ style=\"color: blue;\">ホームラン</span>の<ruby>中<rt>なか</rt></ruby>で、いちばん<ruby>多<rt>おお</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>です。<ruby>清宮<rt>きよみや</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>早稲田実業<rt>わせだじつぎょう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>したあと、<ruby>大学<rt>だいがく</rt></ruby>に<ruby>行<rt>い</rt></ruby>くか、<span\
+  \ style=\"color: blue;\">プロ</span><span style=\"color: blue;\"><ruby>野球<rt>やきゅう</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>になるか、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>していました。</p>\n<p><ruby>清宮<rt>きよみや</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は２１<ruby>日<rt>にち</rt></ruby>、<ruby>高校<rt>こうこう</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>記者<rt>きしゃ</rt></ruby></span>たちを<ruby>集<rt>あつ</rt></ruby>めて「<span\
+  \ style=\"color: blue;\">プロ</span>になることに<ruby>決<rt>き</rt></ruby>めました」と<ruby>言<rt>い</rt></ruby>いました。そして、「<ruby>大<rt>おお</rt></ruby>きな<ruby>夢<rt>ゆめ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>挑戦<rt>ちょうせん</rt></ruby></span>したいと<ruby>思<rt>おも</rt></ruby>いました。<ruby>日本<rt>にっぽん</rt></ruby>でいちばんたくさん<span\
+  \ style=\"color: blue;\">ホームラン</span>を<ruby>打<rt>う</rt></ruby>つような<span style=\"\
+  color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>になりたいと<ruby>考<rt>かんが</rt></ruby>えています」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p>ほとんどの<span style=\"color: blue;\">プロ</span><span style=\"color: blue;\"><ruby>野球<rt>やきゅう</rt></ruby></span><span\
+  \ style=\"color: blue;\">チーム</span>は、<ruby>清宮<rt>きよみや</rt></ruby><span style=\"\
+  color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>に<ruby>入<rt>はい</rt></ruby>ってほしいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: プロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。
+  - 「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+- word: 野球
+  descriptions:
+  - <ruby><rb>九人</rb><rt>くにん</rt></ruby>ずつの<ruby><rb>二</rb><rt>に</rt></ruby>チームが、たがいにバットでボールを<ruby><rb>打</rb><rt>う</rt></ruby>ってせめ<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>点</rb><rt>てん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ベースボール。
+- word: ホームラン
+  descriptions:
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>打</rb><rt>う</rt></ruby>った<ruby><rb>球</rb><rt>たま</rt></ruby>が<ruby><rb>外野</rb><rt>がいや</rt></ruby>のスタンドに<ruby><rb>入</rb><rt>はい</rt></ruby>ったりして、<ruby><rb>打者</rb><rt>だしゃ</rt></ruby>が<ruby><rb>一気</rb><rt>いっき</rt></ruby>に<ruby><rb>本塁</rb><rt>ほんるい</rt></ruby>まで<ruby><rb>帰</rb><rt>かえ</rt></ruby>ることのできるヒット。ホーマー。<ruby><rb>本塁打</rb><rt>ほんるいだ</rt></ruby>。
+- word: 記録
+  descriptions:
+  - あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。
+- word: 注目
+  descriptions:
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>してよく<ruby><rb>見</rb><rt>み</rt></ruby>ること。
+- word: 記者
+  descriptions:
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 挑戦
+  descriptions:
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>いをしかけること。チャレンジ。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+web_news_url: /news/web/2017/09/22/早実-清宮選手がプロ野球志望成長させていただける球団に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011152101000/k10011152101000.html
+...

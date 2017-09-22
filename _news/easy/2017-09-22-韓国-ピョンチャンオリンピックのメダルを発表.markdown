@@ -1,0 +1,80 @@
+---
+layout: easy_news
+newsid: k10011150621000
+categories: easy
+title: 韓国　ピョンチャンオリンピックのメダルを発表
+title_with_ruby: <ruby>韓国<rt>かんこく</rt></ruby>　ピョンチャンオリンピックのメダルを<ruby>発表<rt>はっぴょう</rt></ruby>
+last_modified_at: '2017-09-22T15:50:00+09:00'
+datetime: 2017年09月22日 15時50分
+description: 来年らいねん２月がつ、韓国かんこくのピョンチャンで冬ふゆのオリンピックがあります。
+description_with_ruby: <ruby>来年<rt>らいねん</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>、<ruby>韓国<rt>かんこく</rt></ruby>のピョンチャンで<ruby>冬<rt>ふゆ</rt></ruby>のオリンピックがあります。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/22/k10011150621000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/22/k10011150621000.mp3
+contents: "<p><ruby>来年<rt>らいねん</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>、<ruby>韓国<rt>かんこく</rt></ruby>のピョンチャンで<ruby>冬<rt>ふゆ</rt></ruby>の<span\
+  \ style=\"color: blue;\">オリンピック</span>があります。この<span style=\"color: blue;\">オリンピック</span>の<span\
+  \ style=\"color: blue;\">メダル</span>ができて、２１<ruby>日<rt>にち</rt></ruby>にアメリカと<ruby>韓国<rt>かんこく</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>がありました。アメリカで<ruby>開<rt>ひら</rt></ruby>いた<span\
+  \ style=\"color: blue;\">イベント</span>には、ニューヨークに<ruby>行<rt>い</rt></ruby>っている<ruby>韓国<rt>かんこく</rt></ruby>のムン・ジェイン<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>も<ruby>出席<rt>しゅっせき</rt></ruby>しました。</p>\n\
+  <p><span style=\"color: blue;\">メダル</span>の<ruby>表<rt>おもて</rt></ruby>には<span style=\"\
+  color: blue;\">オリンピック</span>の<span style=\"color: blue;\">マーク</span>の５つの<span style=\"\
+  color: blue;\"><ruby>輪<rt>わ</rt></ruby></span>があります。<ruby>裏<rt>うら</rt></ruby>には<span\
+  \ style=\"color: blue;\"><ruby>競技<rt>きょうぎ</rt></ruby></span>の<ruby>名前<rt>なまえ</rt></ruby>が<ruby>英語<rt>えいご</rt></ruby>で<ruby>書<rt>か</rt></ruby>いてあります。<span\
+  \ style=\"color: blue;\">メダル</span>の<ruby>周<rt>まわ</rt></ruby>りには<ruby>韓国語<rt>かんこくご</rt></ruby>で「ピョンチャンオリンピック２０１８」と<ruby>書<rt>か</rt></ruby>いてあります。<span\
+  \ style=\"color: blue;\">リボン</span>は<ruby>韓国<rt>かんこく</rt></ruby>に<ruby>昔<rt>むかし</rt></ruby>からある<ruby>絹<rt>きぬ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>織物<rt>おりもの</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>っていて、<ruby>色<rt>いろ</rt></ruby>は<ruby>青<rt>あお</rt></ruby><ruby>緑<rt>みどり</rt></ruby>と<span\
+  \ style=\"color: blue;\">ピンク</span>です。</p>\n<p>ピョンチャンの<span style=\"color: blue;\"\
+  >オリンピック</span>は<ruby>準備<rt>じゅんび</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れていると<ruby>言<rt>い</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>もいます。しかし、ムン<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は「<ruby>世界<rt>せかい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちを<ruby>迎<rt>むか</rt></ruby>える<ruby>準備<rt>じゅんび</rt></ruby>はできています」と<ruby>言<rt>い</rt></ruby>いました。そして、「<span\
+  \ style=\"color: blue;\"><ruby>平和<rt>へいわ</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">オリンピック</span>にしたいです。<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が<span style=\"color:\
+  \ blue;\">オリンピック</span>に<span style=\"color: blue;\"><ruby>参加<rt>さんか</rt></ruby></span>することも、できないとは<ruby>考<rt>かんが</rt></ruby>えていません」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>\n<p></p>"
+words:
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: マーク
+  descriptions:
+  - しるし。<ruby><rb>記号</rb><rt>きごう</rt></ruby>。また、しるしをつけること。
+  - <ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>目</rb><rt>め</rt></ruby>をつけて<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>すること。
+  - <ruby><rb>記録</rb><rt>きろく</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ること。
+- word: 輪
+  descriptions:
+  - <ruby><rb>円</rb><rt>まる</rt></ruby>い<ruby><rb>形</rb><rt>かたち</rt></ruby>。
+  - じくの<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>って、<ruby><rb>車</rb><rt>くるま</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かすもの。<ruby><rb>車輪</rb><rt>しゃりん</rt></ruby>。
+- word: 競技
+  descriptions:
+  - わざや<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>を、<ruby><rb>比</rb><rt>くら</rt></ruby>べ<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>特</rb><rt>とく</rt></ruby>にスポーツで、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>うこと。
+- word: リボン
+  descriptions:
+  - かざりのために<ruby><rb>使</rb><rt>つか</rt></ruby>う、きれいな<ruby><rb>色</rb><rt>いろ</rt></ruby>の、はばのせまい<ruby><rb>布</rb><rt>ぬの</rt></ruby>。また、そのかざり。
+- word: 織物
+  descriptions:
+  - <ruby><rb>縦糸</rb><rt>たていと</rt></ruby>と<ruby><rb>横糸</rb><rt>よこいと</rt></ruby>とを<ruby><rb>交差</rb><rt>こうさ</rt></ruby>させて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>布</rb><rt>ぬの</rt></ruby>。
+- word: ピンク
+  descriptions:
+  - もも<ruby><rb>色</rb><rt>いろ</rt></ruby>。うすい<ruby><rb>赤色</rb><rt>あかいろ</rt></ruby>。
+- word: 平和
+  descriptions:
+  - おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。
+- word: 参加
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。
+web_news_url: /news/web/2017/09/21/ピョンチャン五輪のメダル公開/
+source_url: http://www3.nhk.or.jp/news/easy/k10011150621000/k10011150621000.html
+...

@@ -1,0 +1,28 @@
+---
+layout: easy_news
+newsid: k10011149561000
+categories: easy
+title: 日本に旅行に来た外国人　今年はもう２０００万人以上
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>　<ruby>今年<rt>ことし</rt></ruby>はもう２０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>
+last_modified_at: '2017-09-22T11:30:00+09:00'
+datetime: 2017年09月22日 11時30分
+description: 日本政府観光局にほんせいふかんこうきょくは、今年ことし日本にっぽんに旅行りょこうに来きた外国人がいこくじんが９月がつ１５日にちまでに２０００万まん人にん以上いじょうになったと発表はっぴょうしました。
+description_with_ruby: <ruby>日本政府観光局<rt>にほんせいふかんこうきょく</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が９<ruby>月<rt>がつ</rt></ruby>１５<ruby>日<rt>にち</rt></ruby>までに２０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になったと<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/22/k10011149561000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/22/k10011149561000.mp3
+contents: "<p><ruby>日本政府観光局<rt>にほんせいふかんこうきょく</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が９<ruby>月<rt>がつ</rt></ruby>１５<ruby>日<rt>にち</rt></ruby>までに２０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になったと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<ruby>去年<rt>きょねん</rt></ruby>は、１０<ruby>月<rt>がつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>に２０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりました。<ruby>今年<rt>ことし</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>より１か<ruby>月<rt>げつ</rt></ruby><ruby>半<rt>はん</rt></ruby>ぐらい<ruby>早<rt>はや</rt></ruby>くなっています。</p>\n\
+  <p><ruby>外国<rt>がいこく</rt></ruby>から<ruby>来<rt>く</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えた<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby>５<ruby>月<rt>がつ</rt></ruby>に<ruby>中国<rt>ちゅうごく</rt></ruby>から<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\">ビザ</span>が<ruby>取<rt>と</rt></ruby>りやすくなったことや、<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ぶ<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えたことなどです。</p>\n\
+  <p><ruby>観光庁<rt>かんこうちょう</rt></ruby>は「たくさんの<ruby>外国人<rt>がいこくじん</rt></ruby>に<ruby>来<rt>き</rt></ruby>てもらうために、<ruby>国<rt>くに</rt></ruby>やいろいろな<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>頑張<rt>がんば</rt></ruby>っています。これからも、<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>外国人<rt>がいこくじん</rt></ruby>がもっと<ruby>便利<rt>べんり</rt></ruby>になるようにしていきたいです」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: ビザ
+  descriptions:
+  - <ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>来</rb><rt>き</rt></ruby>た<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>旅券</rb><rt>りょけん</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べ、その<ruby><rb>国</rb><rt>くに</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ることを<ruby><rb>認</rb><rt>みと</rt></ruby>める<ruby><rb>許可証</rb><rt>きょかしょう</rt></ruby>。<ruby><rb>査証</rb><rt>さしょう</rt></ruby>。
+web_news_url: /news/web/2017/09/20/ことしの外国人旅行者-早くも2000万人突破/
+source_url: http://www3.nhk.or.jp/news/easy/k10011149561000/k10011149561000.html
+...
