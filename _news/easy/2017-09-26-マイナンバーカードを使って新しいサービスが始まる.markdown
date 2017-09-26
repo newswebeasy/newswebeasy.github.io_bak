@@ -1,0 +1,89 @@
+---
+layout: easy_news
+newsid: k10011154761000
+categories: easy
+title: 「マイナンバーカードを使って」新しいサービスが始まる
+title_with_ruby: 「マイナンバーカードを<ruby>使<rt>つか</rt></ruby>って」<ruby>新<rt>あたら</rt></ruby>しいサービスが<ruby>始<rt>はじ</rt></ruby>まる
+last_modified_at: '2017-09-26T11:30:00+09:00'
+datetime: 2017年09月26日 11時30分
+description: 日本にっぽんに住すんでいる人ひとはみんな、国くにが決きめた番号ばんごうの「マイナンバー」を持もっています。
+description_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>はみんな、<ruby>国<rt>くに</rt></ruby>が<ruby>決<rt>き</rt></ruby>めた<ruby>番号<rt>ばんごう</rt></ruby>の「マイナンバー」を<ruby>持<rt>も</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/26/k10011154761000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/26/k10011154761000.mp3
+contents: "<p><ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>はみんな、<ruby>国<rt>くに</rt></ruby>が<ruby>決<rt>き</rt></ruby>めた<ruby>番号<rt>ばんごう</rt></ruby>の「マイナンバー」を<ruby>持<rt>も</rt></ruby>っています。マイナンバーカードは、この<ruby>番号<rt>ばんごう</rt></ruby>やその<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>が<ruby>入<rt>はい</rt></ruby>っている<span\
+  \ style=\"color: blue;\">カード</span>です。<span style=\"color: blue;\"><ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>む</span>と<ruby>作<rt>つく</rt></ruby>ってくれますが、９<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>にマイナンバーカードを<ruby>持<rt>も</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>は９．６％だけです。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>総務省<rt>そうむしょう</rt></ruby></span>は、もっとマイナンバーカードを<ruby>使<rt>つか</rt></ruby>ってほしいと<ruby>考<rt>かんが</rt></ruby>えて、<ruby>県<rt>けん</rt></ruby>や<ruby>市<rt>し</rt></ruby>などと<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>して２５<ruby>日<rt>にち</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\">サービス</span>を<ruby>始<rt>はじ</rt></ruby>めました。</p>\n<p><ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\">サービス</span>では、マイナンバーカードに<span style=\"color: blue;\">ポイント</span>を<span\
+  \ style=\"color: blue;\">ためる</span>ことができるようにします。<span style=\"color: blue;\">ポイント</span>は、<ruby>県<rt>けん</rt></ruby>や<ruby>市<rt>し</rt></ruby>の<span\
+  \ style=\"color: blue;\">ボランティア</span>などをするともらうことができて、<span style=\"color: blue;\"\
+  ><ruby>一部<rt>いちぶ</rt></ruby></span>の<span style=\"color: blue;\">クレジットカード</span>などの<span\
+  \ style=\"color: blue;\">ポイント</span>から<span style=\"color: blue;\">かえる</span>こともできます。この<span\
+  \ style=\"color: blue;\">ポイント</span>を<ruby>使<rt>つか</rt></ruby>って、インターネットの<span style=\"\
+  color: blue;\">サイト</span>で<ruby>県<rt>けん</rt></ruby>や<ruby>市<rt>し</rt></ruby>の<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>物<rt>もの</rt></ruby>などを<ruby>買<rt>か</rt></ruby>うことができます。</p>\n\
+  <p>１０<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりからは、マイナンバーカードで<ruby>利用<rt>りよう</rt></ruby>できるインターネットの<span\
+  \ style=\"color: blue;\">サイト</span>「マイナポータル」も<ruby>始<rt>はじ</rt></ruby>まります。この<span\
+  \ style=\"color: blue;\">サイト</span>では<span style=\"color: blue;\"><ruby>保育所<rt>ほいくしょ</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>み</span>などができるようになります。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: 情報
+  descriptions:
+  - できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+- word: カード
+  descriptions:
+  - <ruby><rb>紙</rb><rt>かみ</rt></ruby>を、<ruby><rb>四角</rb><rt>しかく</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さく<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。<ruby><rb>記入</rb><rt>きにゅう</rt></ruby>したり、<ruby><rb>整理</rb><rt>せいり</rt></ruby>するときなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+  - 「クレジットカード」「キャッシュカード」などの<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - トランプ（の<ruby><rb>札</rb><rt>ふだ</rt></ruby>）。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>などの、<ruby><rb>試合</rb><rt>しあい</rt></ruby>の<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。
+- word: 申し込む
+  descriptions:
+  - <ruby><rb>望</rb><rt>のぞ</rt></ruby>みを、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>申</rb><rt>もう</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れる。
+- word: 総務省
+  descriptions:
+  - <ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>・<ruby><rb>市区町村</rb><rt>しくちょうそん</rt></ruby>などの<ruby><rb>地方自治体</rb><rt>ちほうじちたい</rt></ruby>や<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>の<ruby><rb>世話</rb><rt>せわ</rt></ruby>、<ruby><rb>郵便</rb><rt>ゆうびん</rt></ruby>・<ruby><rb>郵便貯金</rb><rt>ゆうびんちょきん</rt></ruby>・<ruby><rb>簡易保険</rb><rt>かんいほけん</rt></ruby>・<ruby><rb>電気通信</rb><rt>でんきつうしん</rt></ruby>などについての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+- word: ポイント
+  descriptions:
+  - <ruby><rb>点</rb><rt>てん</rt></ruby>。<ruby><rb>要点</rb><rt>ようてん</rt></ruby>。
+  - <ruby><rb>得点</rb><rt>とくてん</rt></ruby>。<ruby><rb>点数</rb><rt>てんすう</rt></ruby>。
+  - <ruby><rb>線路</rb><rt>せんろ</rt></ruby>の<ruby><rb>分</rb><rt>わ</rt></ruby>かれ<ruby><rb>目</rb><rt>め</rt></ruby>で、<ruby><rb>車両</rb><rt>しゃりょう</rt></ruby>を<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れかえる<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>転</rb><rt>てん</rt></ruby>てつ<ruby><rb>機</rb><rt>き</rt></ruby>。
+- word: ためる
+  descriptions:
+  - <ruby><rb>集</rb><rt>あつ</rt></ruby>めておく。
+  - たくわえる。
+  - し<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+- word: ボランティア
+  descriptions:
+  - <ruby><rb>社会</rb><rt>しゃかい</rt></ruby>のために、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>から<ruby><rb>進</rb><rt>すす</rt></ruby>んで、<ruby><rb>無料</rb><rt>むりょう</rt></ruby>で<ruby><rb>奉仕活動</rb><rt>ほうしかつどう</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 一部
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: クレジットカード
+  descriptions:
+  - <ruby><rb>現金</rb><rt>げんきん</rt></ruby>を<ruby><rb>払</rb><rt>はら</rt></ruby>わなくても、<ruby><rb>後払</rb><rt>あとばら</rt></ruby>いで<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>物</rb><rt>もの</rt></ruby>をすることができるカード。
+- word: 換える
+  descriptions:
+  - <ruby><rb>別</rb><rt>べつ</rt></ruby>のものと<ruby><rb>取</rb><rt>と</rt></ruby>りかえる。<ruby><rb>交換</rb><rt>こうかん</rt></ruby>する。
+  - <ruby><rb>新</rb><rt>あたら</rt></ruby>しく<ruby><rb>別</rb><rt>べつ</rt></ruby>のものにする。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+- word: 保育所
+  descriptions:
+  - <ruby><rb>幼</rb><rt>おさな</rt></ruby>い<ruby><rb>子</rb><rt>こ</rt></ruby>どもを<ruby><rb>朝</rb><rt>あさ</rt></ruby>から<ruby><rb>夕方</rb><rt>ゆうがた</rt></ruby>まで<ruby><rb>預</rb><rt>あず</rt></ruby>かって、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。ほいくしょ。<ruby><rb>保育園</rb><rt>ほいくえん</rt></ruby>。
+- word: 申し込み
+  descriptions:
+  - <ruby><rb>申</rb><rt>もう</rt></ruby>しこむこと。
+web_news_url: /news/web/2017/09/25/マイナンバーカード普及へ-新サービス開始/
+source_url: http://www3.nhk.or.jp/news/easy/k10011154761000/k10011154761000.html
+...
