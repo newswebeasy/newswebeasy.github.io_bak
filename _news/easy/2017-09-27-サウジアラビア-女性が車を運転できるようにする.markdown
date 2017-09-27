@@ -1,0 +1,37 @@
+---
+layout: easy_news
+newsid: k10011157911000
+categories: easy
+title: サウジアラビア　女性が車を運転できるようにする
+title_with_ruby: サウジアラビア　<ruby>女性<rt>じょせい</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>できるようにする
+last_modified_at: '2017-09-27T16:00:00+09:00'
+datetime: 2017年09月27日 16時00分
+description: 世界せかいでサウジアラビアだけは、女性じょせいが車くるまを運転うんてんしてはいけないことになっています。
+description_with_ruby: <ruby>世界<rt>せかい</rt></ruby>でサウジアラビアだけは、<ruby>女性<rt>じょせい</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>してはいけないことになっています。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/27/k10011157911000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/27/k10011157911000.mp3
+contents: "<p><ruby>世界<rt>せかい</rt></ruby>でサウジアラビアだけは、<ruby>女性<rt>じょせい</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>してはいけないことになっています。</p>\n\
+  <p>サウジアラビアのサルマン<span style=\"color: blue;\"><ruby>国王<rt>こくおう</rt></ruby></span>は２６<ruby>日<rt>にち</rt></ruby>、<ruby>女性<rt>じょせい</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>できるようにすることを<ruby>決<rt>き</rt></ruby>めたと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<ruby>来年<rt>らいねん</rt></ruby>の６<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまでに、<ruby>女性<rt>じょせい</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>できるように<ruby>法律<rt>ほうりつ</rt></ruby>を<ruby>変<rt>か</rt></ruby>えます。</p>\n\
+  <p>サウジアラビアでは、<ruby>男性<rt>だんせい</rt></ruby>だけが<ruby>入<rt>はい</rt></ruby>ることができた<span\
+  \ style=\"color: blue;\"><ruby>競技場<rt>きょうぎじょう</rt></ruby></span>に、<ruby>先週<rt>せんしゅう</rt></ruby>から<ruby>女性<rt>じょせい</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってもいいことにしました。サルマン<span\
+  \ style=\"color: blue;\"><ruby>国王<rt>こくおう</rt></ruby></span>などは、<span style=\"color:\
+  \ blue;\"><ruby>石油<rt>せきゆ</rt></ruby></span><ruby>以外<rt>いがい</rt></ruby>の<ruby>産業<rt>さんぎょう</rt></ruby>も<ruby>盛<rt>さか</rt></ruby>んにするために、もっと<ruby>女性<rt>じょせい</rt></ruby>が<ruby>社会<rt>しゃかい</rt></ruby>に<ruby>出<rt>で</rt></ruby>て<ruby>仕事<rt>しごと</rt></ruby>をしてほしいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>\n<p></p>"
+words:
+- word: 国王
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める<ruby><rb>王</rb><rt>おう</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 競技場
+  descriptions:
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>をするための<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。スタジアム。
+- word: 石油
+  descriptions:
+  - <ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>から<ruby><rb>出</rb><rt>で</rt></ruby>る、<ruby><rb>黒</rb><rt>くろ</rt></ruby>くどろどろした<ruby><rb>燃</rb><rt>も</rt></ruby>えやすい<ruby><rb>油</rb><rt>あぶら</rt></ruby>。<ruby><rb>大昔</rb><rt>おおむかし</rt></ruby>の<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>が<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>にうまってできたもの。<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>からとったままのものを<ruby><rb>原油</rb><rt>げんゆ</rt></ruby>といい、ガソリン・<ruby><rb>軽油</rb><rt>けいゆ</rt></ruby>・<ruby><rb>灯油</rb><rt>とうゆ</rt></ruby>・<ruby><rb>重油</rb><rt>じゅうゆ</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る。<ruby><rb>化学工業</rb><rt>かがくこうぎょう</rt></ruby>の<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>としても<ruby><rb>使</rb><rt>つか</rt></ruby>われる。
+  - 「<span class="dic_sansyogogi">1)</span>」から<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>燃料</rb><rt>ねんりょう</rt></ruby>やじゅんかつ<ruby><rb>油</rb><rt>ゆ</rt></ruby>などの<ruby><rb>製品</rb><rt>せいひん</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>灯油</rb><rt>とうゆ</rt></ruby>のこと。
+web_news_url: /news/web/2017/09/27/サウジアラビア-女性の車の運転-解禁へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011157911000/k10011157911000.html
+...
