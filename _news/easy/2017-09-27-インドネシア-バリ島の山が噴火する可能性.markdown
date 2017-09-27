@@ -1,0 +1,58 @@
+---
+layout: easy_news
+newsid: k10011157761000
+categories: easy
+title: インドネシア　バリ島の山が噴火する可能性
+title_with_ruby: インドネシア　バリ<ruby>島<rt>とう</rt></ruby>の<ruby>山<rt>やま</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>する<ruby>可能性<rt>かのうせい</rt></ruby>
+last_modified_at: '2017-09-27T16:00:00+09:00'
+datetime: 2017年09月27日 16時00分
+description: インドネシアのバリ島とうにあるアグン山さんは、高たかさが３０００ｍ以上いじょうの火山かざんです。
+description_with_ruby: インドネシアのバリ<ruby>島<rt>とう</rt></ruby>にあるアグン<ruby>山<rt>さん</rt></ruby>は、<ruby>高<rt>たか</rt></ruby>さが３０００ｍ<ruby>以上<rt>いじょう</rt></ruby>の<ruby>火山<rt>かざん</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/27/k10011157761000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/27/k10011157761000.mp3
+contents: "<p>インドネシアのバリ<ruby>島<rt>とう</rt></ruby>にあるアグン<ruby>山<rt>さん</rt></ruby>は、<ruby>高<rt>たか</rt></ruby>さが３０００ｍ<ruby>以上<rt>いじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>火山<rt>かざん</rt></ruby></span>です。</p>\n<p>アグン<ruby>山<rt>さん</rt></ruby>では<ruby>最近<rt>さいきん</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>火山<rt>かざん</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>しているときに<span style=\"color: blue;\"\
+  ><ruby>起<rt>お</rt></ruby>こる</span><ruby>地震<rt>じしん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えていて、<span\
+  \ style=\"color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>する<span style=\"color:\
+  \ blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>くなっています。このため、<span\
+  \ style=\"color: blue;\"><ruby>噴火口<rt>ふんかこう</rt></ruby></span>から<span style=\"color:\
+  \ blue;\"><ruby>半径<rt>はんけい</rt></ruby></span>９ｋｍ〜１２ｋｍの<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってはいけないことになりました。<ruby>安全<rt>あんぜん</rt></ruby>のために７<ruby>万<rt>まん</rt></ruby>５０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>避難<rt>ひなん</rt></ruby></span>しています。</p>\n<p>アグン<ruby>山<rt>さん</rt></ruby>は１９６３<ruby>年<rt>ねん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>して１０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。インドネシアのジョコ<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は２６<ruby>日<rt>にち</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>避難<rt>ひなん</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>たちがいる<ruby>所<rt>ところ</rt></ruby>に<ruby>行<rt>い</rt></ruby>って、<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>物<rt>もの</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>しました。そして、「みなさんの<ruby>安全<rt>あんぜん</rt></ruby>をいちばん<ruby>大切<rt>たいせつ</rt></ruby>にします」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 噴火
+  descriptions:
+  - <ruby><rb>火山</rb><rt>かざん</rt></ruby>が<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>して、とけた<ruby><rb>溶岩</rb><rt>ようがん</rt></ruby>や、<ruby><rb>火山灰</rb><rt>かざんばい</rt></ruby>・<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>・ガスをふき<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 火山
+  descriptions:
+  - <ruby><rb>地下</rb><rt>ちか</rt></ruby>のマグマが、<ruby><rb>地表</rb><rt>ちひょう</rt></ruby>にふき<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>山</rb><rt>やま</rt></ruby>となっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 活動
+  descriptions:
+  - <ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。
+- word: 起こる
+  descriptions:
+  - <ruby><rb>始</rb><rt>はじ</rt></ruby>まる。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。
+- word: 噴火口
+  descriptions:
+  - <ruby><rb>噴火</rb><rt>ふんか</rt></ruby>のときに、とけた<ruby><rb>岩</rb><rt>いわ</rt></ruby>やガスなどのふき<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>火口</rb><rt>かこう</rt></ruby>。
+- word: 半径
+  descriptions:
+  - <ruby><rb>円</rb><rt>えん</rt></ruby>や<ruby><rb>球</rb><rt>きゅう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>と、<ruby><rb>円周</rb><rt>えんしゅう</rt></ruby>または<ruby><rb>球面</rb><rt>きゅうめん</rt></ruby>とを<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さ。<ruby><rb>直径</rb><rt>ちょっけい</rt></ruby>の<ruby><rb>半分</rb><rt>はんぶん</rt></ruby>。
+- word: 避難
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+web_news_url: /news/web/2017/09/27/バリ島-火山噴火の可能性高まる7万5000人超避難/
+source_url: http://www3.nhk.or.jp/news/easy/k10011157761000/k10011157761000.html
+...
