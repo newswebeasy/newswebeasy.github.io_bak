@@ -1,0 +1,40 @@
+---
+layout: easy_news
+newsid: k10011158211000
+categories: easy
+title: ツイッター　英語などは今までの２倍書くことができる
+title_with_ruby: ツイッター　<ruby>英語<rt>えいご</rt></ruby>などは<ruby>今<rt>いま</rt></ruby>までの２<ruby>倍<rt>ばい</rt></ruby><ruby>書<rt>か</rt></ruby>くことができる
+last_modified_at: '2017-09-28T17:45:00+09:00'
+datetime: 2017年09月28日 17時45分
+description: 「ツイッター」は、インターネットに１４０字じ以内いないの文章ぶんしょうを書かくことができるサービスです。
+description_with_ruby: 「ツイッター」は、インターネットに１４０<ruby>字<rt>じ</rt></ruby><ruby>以内<rt>いない</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>書<rt>か</rt></ruby>くことができるサービスです。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/28/k10011158211000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/28/k10011158211000.mp3
+contents: "<p>「ツイッター」は、インターネットに１４０<ruby>字<rt>じ</rt></ruby><ruby>以内<rt>いない</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>書<rt>か</rt></ruby>くことができる<span\
+  \ style=\"color: blue;\">サービス</span>です。アメリカのツイッターの<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>日本語<rt>にほんご</rt></ruby>と<ruby>中国語<rt>ちゅうごくご</rt></ruby>、<ruby>韓国語<rt>かんこくご</rt></ruby><ruby>以外<rt>いがい</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>までの２<ruby>倍<rt>ばい</rt></ruby>の２８０<ruby>字<rt>じ</rt></ruby>まで<ruby>書<rt>か</rt></ruby>くことができるようにしました。</p>\n\
+  <p><ruby>会社<rt>かいしゃ</rt></ruby>によると、<ruby>英語<rt>えいご</rt></ruby>で<ruby>書<rt>か</rt></ruby>いてある<ruby>文章<rt>ぶんしょう</rt></ruby>の９％は１４０<ruby>字<rt>じ</rt></ruby>で、<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>が<ruby>字<rt>じ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>が<ruby>足<rt>た</rt></ruby>りないと<ruby>思<rt>おも</rt></ruby>っていました。このため、<ruby>会社<rt>かいしゃ</rt></ruby>は２<ruby>倍<rt>ばい</rt></ruby>にしてみたと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>日本語<rt>にほんご</rt></ruby>で<ruby>書<rt>か</rt></ruby>いてある<ruby>文章<rt>ぶんしょう</rt></ruby>のほとんどは１５<ruby>字<rt>じ</rt></ruby>ぐらいで、１４０<ruby>字<rt>じ</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>は０．４％だけなので、<span\
+  \ style=\"color: blue;\"><ruby>増<rt>ふ</rt></ruby>やさ</span>ないと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>字<rt>じ</rt></ruby>の<span style=\"color: blue;\"\
+  ><ruby>数<rt>かず</rt></ruby></span>を<span style=\"color: blue;\"><ruby>増<rt>ふ</rt></ruby>やし</span>てもっと<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>に<ruby>利用<rt>りよう</rt></ruby>してほしいと<ruby>考<rt>かんが</rt></ruby>えているようです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: 数
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。
+  - いくつもあること。たくさん。
+  - <ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+web_news_url: /news/web/2017/09/27/ツイッター投稿-280字までOK-でも日本語は除外/
+source_url: http://www3.nhk.or.jp/news/easy/k10011158211000/k10011158211000.html
+...
