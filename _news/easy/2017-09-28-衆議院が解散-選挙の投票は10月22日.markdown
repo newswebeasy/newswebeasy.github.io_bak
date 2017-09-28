@@ -1,0 +1,54 @@
+---
+layout: easy_news
+newsid: k10011159691000
+categories: easy
+title: 衆議院が解散　選挙の投票は１０月２２日
+title_with_ruby: <ruby>衆議院<rt>しゅうぎいん</rt></ruby>が<ruby>解散<rt>かいさん</rt></ruby>　<ruby>選挙<rt>せんきょ</rt></ruby>の<ruby>投票<rt>とうひょう</rt></ruby>は１０<ruby>月<rt>がつ</rt></ruby>２２<ruby>日<rt>にち</rt></ruby>
+last_modified_at: '2017-09-28T17:45:00+09:00'
+datetime: 2017年09月28日 17時45分
+description: ２８日にち、衆議院しゅうぎいんが解散かいさんしました。
+description_with_ruby: ２８<ruby>日<rt>にち</rt></ruby>、<ruby>衆議院<rt>しゅうぎいん</rt></ruby>が<ruby>解散<rt>かいさん</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/28/k10011159691000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/28/k10011159691000.mp3
+contents: "<p>２８<ruby>日<rt>にち</rt></ruby>、<span style=\"color: blue;\"><ruby>衆議院<rt>しゅうぎいん</rt></ruby></span>が<span\
+  \ style=\"color: blue;\"><ruby>解散<rt>かいさん</rt></ruby></span>しました。</p>\n<p><ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>議員<rt>ぎいん</rt></ruby></span>を<ruby>選<rt>えら</rt></ruby>ぶ<span\
+  \ style=\"color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>は１０<ruby>月<rt>がつ</rt></ruby><ruby>１０日<rt>とおか</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まって、２２<ruby>日<rt>にち</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>投票<rt>とうひょう</rt></ruby></span>を<ruby>行<rt>おこな</rt></ruby>います。<ruby>今年<rt>ことし</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>国会<rt>こっかい</rt></ruby></span>で、<span style=\"color:\
+  \ blue;\"><ruby>衆議院<rt>しゅうぎいん</rt></ruby></span>の<span style=\"color: blue;\"><ruby>議員<rt>ぎいん</rt></ruby></span>を１０<ruby>人<rt>にん</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>減<rt>へ</rt></ruby>らす</span>と<ruby>決<rt>き</rt></ruby>まりました。このため、<ruby>今度<rt>こんど</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>では４６５<ruby>人<rt>にん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>議員<rt>ぎいん</rt></ruby></span>を<ruby>選<rt>えら</rt></ruby>びます。</p>\n\
+  <p>おととし<ruby>法律<rt>ほうりつ</rt></ruby>が<ruby>変<rt>か</rt></ruby>わって、１８<ruby>歳<rt>さい</rt></ruby>と１９<ruby>歳<rt>さい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>も<span\
+  \ style=\"color: blue;\"><ruby>投票<rt>とうひょう</rt></ruby></span>できるようになりました。１８<ruby>歳<rt>さい</rt></ruby>と１９<ruby>歳<rt>さい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>投票<rt>とうひょう</rt></ruby></span>できる<ruby>初<rt>はじ</rt></ruby>めての<span\
+  \ style=\"color: blue;\"><ruby>衆議院<rt>しゅうぎいん</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>になります。</p>\n<p></p>\n<p></p>"
+words:
+- word: 衆議院
+  descriptions:
+  - <ruby><rb>参議院</rb><rt>さんぎいん</rt></ruby>とともに<ruby><rb>国会</rb><rt>こっかい</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている<ruby><rb>仕組</rb><rt>しく</rt></ruby>みの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>や<ruby><rb>予算</rb><rt>よさん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>上</rb><rt>うえ</rt></ruby>で、<ruby><rb>参議院</rb><rt>さんぎいん</rt></ruby>より<ruby><rb>大</rb><rt>おお</rt></ruby>きい<ruby><rb>権限</rb><rt>けんげん</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ。<ruby><rb>解散</rb><rt>かいさん</rt></ruby>することがある。
+- word: 解散
+  descriptions:
+  - <ruby><rb>集</rb><rt>あつ</rt></ruby>まっていた<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>別</rb><rt>わか</rt></ruby>れること。
+  - <ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などが<ruby><rb>活動</rb><rt>かつどう</rt></ruby>をやめること。
+  - <ruby><rb>衆議院</rb><rt>しゅうぎいん</rt></ruby>で、<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>の<ruby><rb>資格</rb><rt>しかく</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>を<ruby><rb>閉</rb><rt>と</rt></ruby>じること。
+- word: 選挙
+  descriptions:
+  - ある<ruby><rb>役目</rb><rt>やくめ</rt></ruby>につく<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>選</rb><rt>えら</rt></ruby>ぶこと。
+- word: 投票
+  descriptions:
+  - <ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>や<ruby><rb>採決</rb><rt>さいけつ</rt></ruby>で、<ruby><rb>選</rb><rt>えら</rt></ruby>びたい<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>か<ruby><rb>反対</rb><rt>はんたい</rt></ruby>かを、<ruby><rb>紙</rb><rt>かみ</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いて<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 議員
+  descriptions:
+  - <ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>で<ruby><rb>選</rb><rt>えら</rt></ruby>ばれ、<ruby><rb>国会</rb><rt>こっかい</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>で、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>することをいろいろ<ruby><rb>相談</rb><rt>そうだん</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>・<ruby><rb>県議会議員</rb><rt>けんぎかいぎいん</rt></ruby>など。
+- word: 国会
+  descriptions:
+  - <ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>のやり<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>相談</rb><rt>そうだん</rt></ruby>して<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>。<ruby><rb>衆議院</rb><rt>しゅうぎいん</rt></ruby>と<ruby><rb>参議院</rb><rt>さんぎいん</rt></ruby>とがある。
+- word: 減らす
+  descriptions:
+  - <ruby><rb>少</rb><rt>すく</rt></ruby>なくする。
+web_news_url: /news/web/2017/09/28/衆議院が解散-衆院選10月10日公示-22日投票へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011159691000/k10011159691000.html
+...
