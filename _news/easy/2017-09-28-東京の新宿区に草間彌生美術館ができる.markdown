@@ -1,0 +1,62 @@
+---
+layout: easy_news
+newsid: k10011156961000
+categories: easy
+title: 東京の新宿区に「草間彌生美術館」ができる
+title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>新宿区<rt>しんじゅくく</rt></ruby>に「<ruby>草間彌生美術館<rt>くさまやよいびじゅつかん</rt></ruby>」ができる
+last_modified_at: '2017-09-28T11:30:00+09:00'
+datetime: 2017年09月28日 11時30分
+description: ８８歳さいの草間彌生くさまやよいさんは水玉みずたまの絵えなどが有名ゆうめいな芸術家げいじゅつかで、世界せかいでも人気にんきがあります。
+description_with_ruby: ８８<ruby>歳<rt>さい</rt></ruby>の<ruby>草間彌生<rt>くさまやよい</rt></ruby>さんは<ruby>水玉<rt>みずたま</rt></ruby>の<ruby>絵<rt>え</rt></ruby>などが<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>芸術家<rt>げいじゅつか</rt></ruby>で、<ruby>世界<rt>せかい</rt></ruby>でも<ruby>人気<rt>にんき</rt></ruby>があります。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/28/k10011156961000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/28/k10011156961000.mp3
+contents: "<p>８８<ruby>歳<rt>さい</rt></ruby>の<ruby>草間彌生<rt>くさまやよい</rt></ruby>さんは<span\
+  \ style=\"color: blue;\"><ruby>水玉<rt>みずたま</rt></ruby></span>の<ruby>絵<rt>え</rt></ruby>などが<ruby>有名<rt>ゆうめい</rt></ruby>な<span\
+  \ style=\"color: blue;\"><ruby>芸術家<rt>げいじゅつか</rt></ruby></span>で、<ruby>世界<rt>せかい</rt></ruby>でも<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>があります。<ruby>草間<rt>くさま</rt></ruby>さんの<ruby>絵<rt>え</rt></ruby>などを<ruby>集<rt>あつ</rt></ruby>めた「<ruby>草間彌生美術館<rt>くさまやよいびじゅつかん</rt></ruby>」が<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>新宿区<rt>しんじゅくく</rt></ruby>にできました。<ruby>白<rt>しろ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>水玉<rt>みずたま</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>模様<rt>もよう</rt></ruby></span>がある５<ruby>階<rt>かい</rt></ruby><ruby>建<rt>だ</rt></ruby>ての<ruby>建物<rt>たてもの</rt></ruby>で、１０<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>に<span\
+  \ style=\"color: blue;\">オープン</span>します。</p>\n<p><ruby>鏡<rt>かがみ</rt></ruby>がある<ruby>暗<rt>くら</rt></ruby>い<ruby>部屋<rt>へや</rt></ruby>では、<span\
+  \ style=\"color: blue;\"><ruby>水玉<rt>みずたま</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>模様<rt>もよう</rt></ruby></span>の<ruby>黄色<rt>きいろ</rt></ruby>い<span style=\"\
+  color: blue;\">かぼちゃ</span>がたくさん<ruby>光<rt>ひか</rt></ruby>っています。<span style=\"color:\
+  \ blue;\"><ruby>金色<rt>きんいろ</rt></ruby></span>や<span style=\"color: blue;\">ピンク</span>を<ruby>使<rt>つか</rt></ruby>った<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\">かぼちゃ</span>の<span style=\"color: blue;\"><ruby>作品<rt>さくひん</rt></ruby></span>もあります。<ruby>草間<rt>くさま</rt></ruby>さんは「<ruby>前<rt>まえ</rt></ruby>からつくりたいと<ruby>思<rt>おも</rt></ruby>っていた<ruby>美術館<rt>びじゅつかん</rt></ruby>で、みなさんに<span\
+  \ style=\"color: blue;\"><ruby>作品<rt>さくひん</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>てもらうことができて、<ruby>本当<rt>ほんとう</rt></ruby>にうれしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>美術館<rt>びじゅつかん</rt></ruby>は、<ruby>見<rt>み</rt></ruby>ることができる<ruby>時間<rt>じかん</rt></ruby>が１<ruby>日<rt>にち</rt></ruby>４<ruby>回<rt>かい</rt></ruby><ruby>決<rt>き</rt></ruby>まっていて、<ruby>予約<rt>よやく</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 水玉
+  descriptions:
+  - <ruby><rb>丸</rb><rt>まる</rt></ruby>く<ruby><rb>玉</rb><rt>たま</rt></ruby>になった<ruby><rb>水</rb><rt>みず</rt></ruby>のしずく。
+  - <ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>円</rb><rt>えん</rt></ruby>を<ruby><rb>散</rb><rt>ち</rt></ruby>らしたような<ruby><rb>模様</rb><rt>もよう</rt></ruby>。<ruby><rb>水玉</rb><rt>みずたま</rt></ruby><ruby><rb>模様</rb><rt>もよう</rt></ruby>。
+- word: 芸術家
+  descriptions:
+  - <ruby><rb>芸術</rb><rt>げいじゅつ</rt></ruby>を<ruby><rb>仕事</rb><rt>しごと</rt></ruby>としている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>音楽家</rb><rt>おんがくか</rt></ruby>や<ruby><rb>画家</rb><rt>がか</rt></ruby>など。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: 模様
+  descriptions:
+  - かざりにする<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>。
+  - ようす。ありさま。
+- word: オープン
+  descriptions:
+  - <ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。
+  - かくしだてをしないようす。
+  - おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。
+- word: 南瓜
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>野菜</rb><rt>やさい</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>に<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>き、<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>実</rb><rt>み</rt></ruby>がなる。とうなす。
+- word: 金色
+  descriptions:
+  - <ruby><rb>金</rb><rt>きん</rt></ruby>のように<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>く<ruby><rb>光</rb><rt>ひか</rt></ruby>っている<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+- word: ピンク
+  descriptions:
+  - もも<ruby><rb>色</rb><rt>いろ</rt></ruby>。うすい<ruby><rb>赤色</rb><rt>あかいろ</rt></ruby>。
+- word: 作品
+  descriptions:
+  - <ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。<ruby><rb>文学</rb><rt>ぶんがく</rt></ruby>・<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>・<ruby><rb>美術</rb><rt>びじゅつ</rt></ruby>などで、<ruby><rb>作者</rb><rt>さくしゃ</rt></ruby>が<ruby><rb>創造</rb><rt>そうぞう</rt></ruby>したもの。
+web_news_url: /news/web/2017/09/26/草間彌生美術館オープン前に内覧会/
+source_url: http://www3.nhk.or.jp/news/easy/k10011156961000/k10011156961000.html
+...
