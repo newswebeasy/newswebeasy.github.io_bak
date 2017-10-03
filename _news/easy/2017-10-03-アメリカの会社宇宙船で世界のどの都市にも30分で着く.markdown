@@ -1,0 +1,63 @@
+---
+layout: easy_news
+newsid: k10011162741000
+categories: easy
+title: アメリカの会社「宇宙船で世界のどの都市にも３０分で着く」
+title_with_ruby: アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>「<ruby>宇宙船<rt>うちゅうせん</rt></ruby>で<ruby>世界<rt>せかい</rt></ruby>のどの<ruby>都市<rt>とし</rt></ruby>にも３０<ruby>分<rt>ぷん</rt></ruby>で<ruby>着<rt>つ</rt></ruby>く」
+last_modified_at: '2017-10-03T11:30:00+09:00'
+datetime: 2017年10月03日 11時30分
+description: アメリカの「スペースＸ」という会社かいしゃのイーロン・マスクＣＥＯは２９日にち、宇宙船うちゅうせんに客きゃくを乗のせて世界せかいの都市としの間あいだを飛とぶ計画けいかくを発表はっぴょうしました。
+description_with_ruby: アメリカの「スペースＸ」という<ruby>会社<rt>かいしゃ</rt></ruby>のイーロン・マスクＣＥＯは２９<ruby>日<rt>にち</rt></ruby>、<ruby>宇宙船<rt>うちゅうせん</rt></ruby>に<ruby>客<rt>きゃく</rt></ruby>を<ruby>乗<rt>の</rt></ruby>せて<ruby>世界<rt>せかい</rt></ruby>の<ruby>都市<rt>とし</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ぶ<ruby>計画<rt>けいかく</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/03/k10011162741000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/03/k10011162741000.mp3
+contents: "<p>アメリカの「スペースＸ」という<ruby>会社<rt>かいしゃ</rt></ruby>のイーロン・マスクＣＥＯは２９<ruby>日<rt>にち</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>宇宙船<rt>うちゅうせん</rt></ruby></span>に<ruby>客<rt>きゃく</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>乗<rt>の</rt></ruby>せ</span>て<ruby>世界<rt>せかい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>都市<rt>とし</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ぶ<ruby>計画<rt>けいかく</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p><span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>によると、<span style=\"\
+  color: blue;\"><ruby>宇宙船<rt>うちゅうせん</rt></ruby></span>は<span style=\"color: blue;\"\
+  ><ruby>宇宙<rt>うちゅう</rt></ruby></span>で<span style=\"color: blue;\"><ruby>時速<rt>じそく</rt></ruby></span>２<ruby>万<rt>まん</rt></ruby>７０００ｋｍまで<ruby>出<rt>で</rt></ruby>ます。<ruby>東京<rt>とうきょう</rt></ruby>〜ロサンゼルスは３２<ruby>分<rt>ふん</rt></ruby>、ニューヨーク〜<ruby>上海<rt>しゃんはい</rt></ruby>は３９<ruby>分<rt>ふん</rt></ruby>、ニューヨーク〜パリは３０<ruby>分<rt>ぷん</rt></ruby>で<ruby>行<rt>い</rt></ruby>くことができます。<ruby>世界<rt>せかい</rt></ruby>のどの<span\
+  \ style=\"color: blue;\"><ruby>都市<rt>とし</rt></ruby></span>にも<ruby>大体<rt>だいたい</rt></ruby>３０<ruby>分<rt>ぷん</rt></ruby>で<ruby>着<rt>つ</rt></ruby>きます。</p>\n\
+  <p><ruby>出発<rt>しゅっぱつ</rt></ruby>のとき、<ruby>乗<rt>の</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>は３Ｇぐらいの<ruby>力<rt>ちから</rt></ruby>を<ruby>体<rt>からだ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>感<rt>かん</rt></ruby>じる</span>と<ruby>言<rt>い</rt></ruby>われています。マスクＣＥＯは「３Ｇは<span\
+  \ style=\"color: blue;\"><ruby>遊園地<rt>ゆうえんち</rt></ruby></span>の<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>感<rt>かん</rt></ruby>じる</span>ぐらいの<ruby>力<rt>ちから</rt></ruby>です。<span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>では<ruby>天気<rt>てんき</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなることもないし、<ruby>大<rt>おお</rt></ruby>きく<ruby>揺<rt>ゆ</rt></ruby>れることもありません」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p>スペースＸは、<span style=\"color: blue;\"><ruby>料金<rt>りょうきん</rt></ruby></span>は<ruby>飛行機<rt>ひこうき</rt></ruby>のエコノミークラスと<ruby>同<rt>おな</rt></ruby>じぐらいにしたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 宇宙船
+  descriptions:
+  - <ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>飛行</rb><rt>ひこう</rt></ruby>するための<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 都市
+  descriptions:
+  - たくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まり<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>町</rb><rt>まち</rt></ruby>。<ruby><rb>都会</rb><rt>とかい</rt></ruby>。
+- word: 乗せる
+  descriptions:
+  - <ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などに<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>む。
+  - <ruby><rb>調子</rb><rt>ちょうし</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。
+  - だます。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 宇宙
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。
+- word: 時速
+  descriptions:
+  - <ruby><rb>一時間</rb><rt>いちじかん</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>速</rb><rt>はや</rt></ruby>さ。
+- word: 感じる
+  descriptions:
+  - <ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。
+  - <ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。
+- word: 遊園地
+  descriptions:
+  - <ruby><rb>楽</rb><rt>たの</rt></ruby>しく<ruby><rb>遊</rb><rt>あそ</rt></ruby>べるように、<ruby><rb>遊</rb><rt>あそ</rt></ruby>び<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>などが<ruby><rb>備</rb><rt>そな</rt></ruby>えてある<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 料金
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ったり、<ruby><rb>見</rb><rt>み</rt></ruby>たりしたことに<ruby><rb>対</rb><rt>たい</rt></ruby>してはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+web_news_url: /news/web/2017/09/30/宇宙船であらゆる都市間を約30分で移動-米企業が計画/
+source_url: http://www3.nhk.or.jp/news/easy/k10011162741000/k10011162741000.html
+...
