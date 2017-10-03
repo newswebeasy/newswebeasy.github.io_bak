@@ -1,0 +1,49 @@
+---
+layout: easy_news
+newsid: k10011165461000
+categories: easy
+title: 日産自動車　客に売った１２１万台の検査に問題があった
+title_with_ruby: <ruby>日産自動車<rt>にっさんじどうしゃ</rt></ruby>　<ruby>客<rt>きゃく</rt></ruby>に<ruby>売<rt>う</rt></ruby>った１２１<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby>の<ruby>検査<rt>けんさ</rt></ruby>に<ruby>問題<rt>もんだい</rt></ruby>があった
+last_modified_at: '2017-10-03T17:08:11+09:00'
+datetime: 2017年10月03日 17時08分
+description: 日産自動車にっさんじどうしゃは、工場こうじょうで作つくった車くるまの安全あんぜんなどを調しらべる検査けんさのしかたに問題もんだいがあったことがわかりました。
+description_with_ruby: <ruby>日産自動車<rt>にっさんじどうしゃ</rt></ruby>は、<ruby>工場<rt>こうじょう</rt></ruby>で<ruby>作<rt>つく</rt></ruby>った<ruby>車<rt>くるま</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>などを<ruby>調<rt>しら</rt></ruby>べる<ruby>検査<rt>けんさ</rt></ruby>のしかたに<ruby>問題<rt>もんだい</rt></ruby>があったことがわかりました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/03/k10011165461000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/03/k10011165461000.mp3
+contents: "<p><ruby>日産自動車<rt>にっさんじどうしゃ</rt></ruby>は、<ruby>工場<rt>こうじょう</rt></ruby>で<ruby>作<rt>つく</rt></ruby>った<ruby>車<rt>くるま</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>などを<ruby>調<rt>しら</rt></ruby>べる<span\
+  \ style=\"color: blue;\"><ruby>検査<rt>けんさ</rt></ruby></span>のしかたに<ruby>問題<rt>もんだい</rt></ruby>があったことがわかりました。<ruby>日本<rt>にっぽん</rt></ruby>にある<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>工場<rt>こうじょう</rt></ruby>で、<ruby>国<rt>くに</rt></ruby>の<span\
+  \ style=\"color: blue;\">ルール</span>を<span style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>ら</span>ないで、<span\
+  \ style=\"color: blue;\"><ruby>検査<rt>けんさ</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>資格<rt>しかく</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>っていない<ruby>人<rt>ひと</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べていました。</p>\n\
+  <p><ruby>日産自動車<rt>にっさんじどうしゃ</rt></ruby>の<ruby>西川<rt>さいかわ</rt></ruby><ruby>廣人<rt>ひろと</rt></ruby><ruby>社長<rt>しゃちょう</rt></ruby>は<ruby>２日<rt>ふつか</rt></ruby>、２０１４<ruby>年<rt>ねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>〜<ruby>今年<rt>ことし</rt></ruby>９<ruby>月<rt>がつ</rt></ruby>に<ruby>工場<rt>こうじょう</rt></ruby>で<ruby>作<rt>つく</rt></ruby>って、<ruby>客<rt>きゃく</rt></ruby>に<ruby>売<rt>う</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１２１<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>検査<rt>けんさ</rt></ruby></span>に<ruby>問題<rt>もんだい</rt></ruby>があったと<ruby>言<rt>い</rt></ruby>いました。そして、<ruby>売<rt>う</rt></ruby>った<ruby>車<rt>くるま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>検査<rt>けんさ</rt></ruby></span>をもう<ruby>一度<rt>いちど</rt></ruby>することにしました。このために<ruby>必要<rt>ひつよう</rt></ruby>なお<ruby>金<rt>かね</rt></ruby>は２５０<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になるだろうと<ruby>言<rt>い</rt></ruby>っています。<ruby>西川<rt>さいかわ</rt></ruby><ruby>社長<rt>しゃちょう</rt></ruby>は「お<ruby>客<rt>きゃく</rt></ruby>さまに<ruby>本当<rt>ほんとう</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ない</span>と<ruby>思<rt>おも</rt></ruby>います」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: 検査
+  descriptions:
+  - <ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: ルール
+  descriptions:
+  - <ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 資格
+  descriptions:
+  - <ruby><rb>何</rb><rt>なに</rt></ruby>かをするときの、その<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>身分</rb><rt>みぶん</rt></ruby>や<ruby><rb>立場</rb><rt>たちば</rt></ruby>。
+  - ある<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>などにつくための<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>な<ruby><rb>条件</rb><rt>じょうけん</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 申し訳ない
+  descriptions:
+  - <ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>訳</rb><rt>わけ</rt></ruby>ができない。<ruby><rb>大変</rb><rt>たいへん</rt></ruby>すまない。
+web_news_url: /news/web/2017/10/02/日産-検査不備で121万台をリコール-社長が陳謝/
+source_url: http://www3.nhk.or.jp/news/easy/k10011165461000/k10011165461000.html
+...
