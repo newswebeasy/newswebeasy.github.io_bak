@@ -1,0 +1,36 @@
+---
+layout: easy_news
+newsid: k10011166801000
+categories: easy
+title: 北海道　体が全部黒くて珍しいキタキツネがいた
+title_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby>　<ruby>体<rt>からだ</rt></ruby>が<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>黒<rt>くろ</rt></ruby>くて<ruby>珍<rt>めずら</rt></ruby>しいキタキツネがいた
+last_modified_at: '2017-10-04T16:50:00+09:00'
+datetime: 2017年10月04日 16時50分
+description: 北海道ほっかいどう斜里町しゃりちょうにある知床博物館しれとこはくぶつかんは、山やまにいる動物どうぶつを調しらべるためにカメラを置おいています。
+description_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>斜里町<rt>しゃりちょう</rt></ruby>にある<ruby>知床博物館<rt>しれとこはくぶつかん</rt></ruby>は、<ruby>山<rt>やま</rt></ruby>にいる<ruby>動物<rt>どうぶつ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるためにカメラを<ruby>置<rt>お</rt></ruby>いています。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/04/k10011166801000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/04/k10011166801000.mp3
+contents: "<p><ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>斜里町<rt>しゃりちょう</rt></ruby>にある<ruby>知床博物館<rt>しれとこはくぶつかん</rt></ruby>は、<ruby>山<rt>やま</rt></ruby>にいる<ruby>動物<rt>どうぶつ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるためにカメラを<ruby>置<rt>お</rt></ruby>いています。</p>\n\
+  <p>９<ruby>月<rt>がつ</rt></ruby>２３<ruby>日<rt>にち</rt></ruby>、<ruby>大<rt>おお</rt></ruby>きさが１ｍぐらいで、<ruby>体<rt>からだ</rt></ruby>が<ruby>黒<rt>くろ</rt></ruby>い<span\
+  \ style=\"color: blue;\">きつね</span>がカメラに<span style=\"color: blue;\"><ruby>映<rt>うつ</rt></ruby>っ</span>ていました。この<span\
+  \ style=\"color: blue;\">きつね</span>はキタキツネという<span style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>です。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>博物館<rt>はくぶつかん</rt></ruby></span>は、<ruby>北海道<rt>ほっかいどう</rt></ruby>には<ruby>背中<rt>せなか</rt></ruby>などが<ruby>黒<rt>くろ</rt></ruby>いキタキツネはいますが、<ruby>体<rt>からだ</rt></ruby>が<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>黒<rt>くろ</rt></ruby>いキタキツネは<ruby>珍<rt>めずら</rt></ruby>しいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>知床博物館<rt>しれとこはくぶつかん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「１０<ruby>年<rt>ねん</rt></ruby><ruby>働<rt>はたら</rt></ruby>いていますが、<ruby>黒<rt>くろ</rt></ruby>いキタキツネを<ruby>初<rt>はじ</rt></ruby>めて<ruby>見<rt>み</rt></ruby>ました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 狐
+  descriptions:
+  - <ruby><rb>山</rb><rt>やま</rt></ruby>や<ruby><rb>林</rb><rt>はやし</rt></ruby>にすむ、<ruby><rb>犬</rb><rt>いぬ</rt></ruby>に<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>毛</rb><rt>け</rt></ruby>が<ruby><rb>茶色</rb><rt>ちゃいろ</rt></ruby>で、<ruby><rb>口</rb><rt>くち</rt></ruby>がつき<ruby><rb>出</rb><rt>で</rt></ruby>ていて、<ruby><rb>尾</rb><rt>お</rt></ruby>が<ruby><rb>太</rb><rt>ふと</rt></ruby>く<ruby><rb>長</rb><rt>なが</rt></ruby>い。<ruby><rb>昔</rb><rt>むかし</rt></ruby>から、おいなりさんのお<ruby><rb>使</rb><rt>つか</rt></ruby>いとか、<ruby><rb>人</rb><rt>ひと</rt></ruby>をだますとかいわれてきた。
+- word: 映る
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やかげなどが、ほかの<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>に<ruby><rb>現</rb><rt>あらわ</rt></ruby>れる。
+  - <ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>合</rb><rt>あ</rt></ruby>わせがよい。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 博物館
+  descriptions:
+  - <ruby><rb>自然</rb><rt>しぜん</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>、<ruby><rb>歴史</rb><rt>れきし</rt></ruby>などについての<ruby><rb>資料</rb><rt>しりょう</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めて、<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。
+web_news_url: /news/web/2017/10/04/北海道-全身が真っ黒な珍しいキタキツネを撮影/
+source_url: http://www3.nhk.or.jp/news/easy/k10011166801000/k10011166801000.html
+...
