@@ -1,0 +1,30 @@
+---
+layout: easy_news
+newsid: k10011165751000
+categories: easy
+title: 旅行に来た外国人が東京で使ったお金が少なくなる
+title_with_ruby: <ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>使<rt>つか</rt></ruby>ったお<ruby>金<rt>かね</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなる
+last_modified_at: '2017-10-04T11:30:00+09:00'
+datetime: 2017年10月04日 11時30分
+description: 東京都とうきょうとは、去年きょねん４月がつ〜今年ことし３月がつに日本にっぽんへ旅行りょこうに来きた外国人がいこくじんが東京とうきょうでお金かねをいくら使つかったかなどを調しらべました。
+description_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>〜<ruby>今年<rt>ことし</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>東京<rt>とうきょう</rt></ruby>でお<ruby>金<rt>かね</rt></ruby>をいくら<ruby>使<rt>つか</rt></ruby>ったかなどを<ruby>調<rt>しら</rt></ruby>べました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/04/k10011165751000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/04/k10011165751000.mp3
+contents: "<p><ruby>東京都<rt>とうきょうと</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>〜<ruby>今年<rt>ことし</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>東京<rt>とうきょう</rt></ruby>でお<ruby>金<rt>かね</rt></ruby>をいくら<ruby>使<rt>つか</rt></ruby>ったかなどを<ruby>調<rt>しら</rt></ruby>べました。<ruby>羽田空港<rt>はねだくうこう</rt></ruby>と<ruby>成田空港<rt>なりたくうこう</rt></ruby>で<ruby>外国人<rt>がいこくじん</rt></ruby>に<ruby>聞<rt>き</rt></ruby>きました。</p>\n\
+  <p><ruby>１人<rt>ひとり</rt></ruby>が<ruby>使<rt>つか</rt></ruby>ったお<ruby>金<rt>かね</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>で１３<ruby>万<rt>まん</rt></ruby>１８７１<ruby>円<rt>えん</rt></ruby>で、その<ruby>前<rt>まえ</rt></ruby>の１<ruby>年<rt>ねん</rt></ruby>より２<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>ぐらい<ruby>少<rt>すく</rt></ruby>なくなりました。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>で<ruby>何<rt>なに</rt></ruby>をしたか<ruby>聞<rt>き</rt></ruby>くと、いちばん<ruby>多<rt>おお</rt></ruby>かった<ruby>答<rt>こた</rt></ruby>えは「<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむ」でした。「<span\
+  \ style=\"color: blue;\"><ruby>日用品<rt>にちようひん</rt></ruby></span>などを<ruby>買<rt>か</rt></ruby>う」や「<ruby>高<rt>たか</rt></ruby>いビルや<ruby>新<rt>あたら</rt></ruby>しい<ruby>建物<rt>たてもの</rt></ruby>などがあるまちを<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>く」という<ruby>答<rt>こた</rt></ruby>えもたくさんありました。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>のどこへ<ruby>行<rt>い</rt></ruby>ったか<ruby>聞<rt>き</rt></ruby>くと、いちばん<ruby>多<rt>おお</rt></ruby>かった<ruby>答<rt>こた</rt></ruby>えは「<ruby>新宿<rt>しんじゅく</rt></ruby>・<ruby>大久保<rt>おおくぼ</rt></ruby>」でした。「<ruby>浅草<rt>あさくさ</rt></ruby>」と「<ruby>銀座<rt>ぎんざ</rt></ruby>」と「<ruby>渋谷<rt>しぶや</rt></ruby>」もたくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>行<rt>い</rt></ruby>っていました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+- word: 日用品
+  descriptions:
+  - <ruby><rb>家庭</rb><rt>かてい</rt></ruby>でふだん<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+web_news_url: /news/web/2017/10/03/都内の外国人旅行者-支出額約2万円減-爆買い減速で/
+source_url: http://www3.nhk.or.jp/news/easy/k10011165751000/k10011165751000.html
+...
