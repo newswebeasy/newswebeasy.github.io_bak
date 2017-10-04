@@ -1,0 +1,83 @@
+---
+layout: easy_news
+newsid: k10011167111000
+categories: easy
+title: アメリカのヤフー「盗まれたＩＤの情報は３０億件だった」
+title_with_ruby: アメリカのヤフー「<ruby>盗<rt>ぬす</rt></ruby>まれたＩＤの<ruby>情報<rt>じょうほう</rt></ruby>は３０<ruby>億<rt>おく</rt></ruby><ruby>件<rt>けん</rt></ruby>だった」
+last_modified_at: '2017-10-04T16:50:00+09:00'
+datetime: 2017年10月04日 16時50分
+description: アメリカのＩＴの会社かいしゃのヤフーのコンピューターに、２０１３年ねん、インターネットを使つかった「サイバー攻撃こうげき」がありました。
+description_with_ruby: アメリカのＩＴの<ruby>会社<rt>かいしゃ</rt></ruby>のヤフーのコンピューターに、２０１３<ruby>年<rt>ねん</rt></ruby>、インターネットを<ruby>使<rt>つか</rt></ruby>った「サイバー<ruby>攻撃<rt>こうげき</rt></ruby>」がありました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/04/k10011167111000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/04/k10011167111000.mp3
+contents: "<p>アメリカの<span style=\"color: blue;\">ＩＴ</span>の<ruby>会社<rt>かいしゃ</rt></ruby>のヤフーのコンピューターに、２０１３<ruby>年<rt>ねん</rt></ruby>、インターネットを<ruby>使<rt>つか</rt></ruby>った「サイバー<ruby>攻撃<rt>こうげき</rt></ruby>」がありました。ヤフーは<ruby>去年<rt>きょねん</rt></ruby>１２<ruby>月<rt>がつ</rt></ruby>に、このサイバー<ruby>攻撃<rt>こうげき</rt></ruby>が<ruby>原因<rt>げんいん</rt></ruby>で、ヤフーの<span\
+  \ style=\"color: blue;\">メール</span>などを<ruby>使<rt>つか</rt></ruby>っている１０<ruby>億<rt>おく</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span>の<span style=\"color: blue;\"\
+  >ＩＤ</span>の<span style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>が<ruby>盗<rt>ぬす</rt></ruby>まれたと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p><ruby>今年<rt>ことし</rt></ruby>６<ruby>月<rt>がつ</rt></ruby>、アメリカの<span\
+  \ style=\"color: blue;\"><ruby>通信<rt>つうしん</rt></ruby></span><ruby>会社<rt>がいしゃ</rt></ruby>がヤフーの<span\
+  \ style=\"color: blue;\"><ruby>事業<rt>じぎょう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>一部<rt>いちぶ</rt></ruby></span>を<ruby>買<rt>か</rt></ruby>いました。この<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>連絡<rt>れんらく</rt></ruby>があって<ruby>調<rt>しら</rt></ruby>べると、<ruby>盗<rt>ぬす</rt></ruby>まれた<span\
+  \ style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>は、２０１３<ruby>年<rt>ねん</rt></ruby>に<span\
+  \ style=\"color: blue;\">ＩＤ</span>を<ruby>持<rt>も</rt></ruby>っていた<span style=\"color:\
+  \ blue;\"><ruby>全員<rt>ぜんいん</rt></ruby></span>の３０<ruby>億<rt>おく</rt></ruby><span style=\"\
+  color: blue;\"><ruby>件<rt>けん</rt></ruby></span>だったことがわかりました。</p>\n<p>この<ruby>会社<rt>かいしゃ</rt></ruby>によると、<ruby>盗<rt>ぬす</rt></ruby>まれた<span\
+  \ style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>は、<ruby>名前<rt>なまえ</rt></ruby>や<ruby>誕生日<rt>たんじょうび</rt></ruby>、<span\
+  \ style=\"color: blue;\">メール</span>の<span style=\"color: blue;\">アドレス</span>などです。<span\
+  \ style=\"color: blue;\">パスワード</span>や<span style=\"color: blue;\">クレジットカード</span>の<ruby>番号<rt>ばんごう</rt></ruby>や<ruby>銀行<rt>ぎんこう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>口座<rt>こうざ</rt></ruby></span>の<ruby>番号<rt>ばんごう</rt></ruby>は<ruby>盗<rt>ぬす</rt></ruby>まれていないと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>のヤフーは、<ruby>日本<rt>にっぽん</rt></ruby>とアメリカのヤフーは<ruby>別<rt>べつ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>で、<ruby>違<rt>ちが</rt></ruby>うコンピューターを<ruby>使<rt>つか</rt></ruby>っているので、<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\">ＩＤ</span>の<span style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>は<ruby>盗<rt>ぬす</rt></ruby>まれていないと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ID
+  descriptions:
+  - <ruby><rb>身分</rb><rt>みぶん</rt></ruby>を<ruby><rb>証明</rb><rt>しょうめい</rt></ruby>すること。
+  - <ruby><rb>個人</rb><rt>こじん</rt></ruby>を<ruby><rb>見分</rb><rt>みわ</rt></ruby>ける<ruby><rb>番号</rb><rt>ばんごう</rt></ruby>。<ruby><rb>暗証番号</rb><rt>あんしょうばんごう</rt></ruby>。
+- word: 情報
+  descriptions:
+  - できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+- word: 件
+  descriptions:
+  - ことがら。できごと。
+  - ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: IT
+  descriptions:
+  - コンピューターを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>とした<ruby><rb>情報技術</rb><rt>じょうほうぎじゅつ</rt></ruby>。
+- word: Eメール
+  descriptions:
+  - コンピューターなどを<ruby><rb>使</rb><rt>つか</rt></ruby>って、メッセージやデータなどのやりとりをする<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>電子</rb><rt>でんし</rt></ruby>メール。メール。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 通信
+  descriptions:
+  - <ruby><rb>便</rb><rt>たよ</rt></ruby>り。<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+  - <ruby><rb>郵便</rb><rt>ゆうびん</rt></ruby>・<ruby><rb>電信</rb><rt>でんしん</rt></ruby>・<ruby><rb>電話</rb><rt>でんわ</rt></ruby>などで、<ruby><rb>連絡</rb><rt>れんらく</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。
+- word: 事業
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>のためになる、<ruby><rb>大</rb><rt>おお</rt></ruby>がかりな<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。
+  - <ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>や<ruby><rb>店</rb><rt>みせ</rt></ruby>を<ruby><rb>経営</rb><rt>けいえい</rt></ruby>すること。
+- word: 一部
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: 全員
+  descriptions:
+  - <ruby><rb>全部</rb><rt>ぜんぶ</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。みんな。
+- word: アドレス
+  descriptions:
+  - <ruby><rb>住所</rb><rt>じゅうしょ</rt></ruby>。あて<ruby><rb>名</rb><rt>な</rt></ruby>。
+  - インターネットなど、コンピューターの<ruby><rb>通信</rb><rt>つうしん</rt></ruby>ネットワーク<ruby><rb>上</rb><rt>じょう</rt></ruby>に<ruby><rb>存在</rb><rt>そんざい</rt></ruby>する<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>を<ruby><rb>示</rb><rt>しめ</rt></ruby>すもの。<ruby><rb>住所</rb><rt>じゅうしょ</rt></ruby>や<ruby><rb>電話番号</rb><rt>でんわばんごう</rt></ruby>にあたる。
+- word: パスワード
+  descriptions:
+  - コンピューターを<ruby><rb>使</rb><rt>つか</rt></ruby>うときなどに、その<ruby><rb>人</rb><rt>ひと</rt></ruby>であることを<ruby><rb>確認</rb><rt>かくにん</rt></ruby>する、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>なことばや<ruby><rb>符号</rb><rt>ふごう</rt></ruby>。
+- word: クレジットカード
+  descriptions:
+  - <ruby><rb>現金</rb><rt>げんきん</rt></ruby>を<ruby><rb>払</rb><rt>はら</rt></ruby>わなくても、<ruby><rb>後払</rb><rt>あとばら</rt></ruby>いで<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>物</rb><rt>もの</rt></ruby>をすることができるカード。
+- word: 口座
+  descriptions:
+  - <ruby><rb>銀行</rb><rt>ぎんこう</rt></ruby>などでお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れのために<ruby><rb>設</rb><rt>もう</rt></ruby>けられた、もとになる<ruby><rb>帳簿</rb><rt>ちょうぼ</rt></ruby>。
+web_news_url: /news/web/2017/10/04/米ヤフー-盗まれた個人情報は全利用者の30億件/
+source_url: http://www3.nhk.or.jp/news/easy/k10011167111000/k10011167111000.html
+...
