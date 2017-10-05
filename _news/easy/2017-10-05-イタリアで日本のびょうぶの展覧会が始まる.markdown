@@ -1,0 +1,63 @@
+---
+layout: easy_news
+newsid: k10011167021000
+categories: easy
+title: イタリアで日本の「びょうぶ」の展覧会が始まる
+title_with_ruby: イタリアで<ruby>日本<rt>にっぽん</rt></ruby>の「びょうぶ」の<ruby>展覧会<rt>てんらんかい</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+last_modified_at: '2017-10-05T11:30:00+09:00'
+datetime: 2017年10月05日 11時30分
+description: 日本にっぽんとイタリアが国くにの交流こうりゅうを始はじめてから１５０年ねんになりました。
+description_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>とイタリアが<ruby>国<rt>くに</rt></ruby>の<ruby>交流<rt>こうりゅう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めてから１５０<ruby>年<rt>ねん</rt></ruby>になりました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/05/k10011167021000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/05/k10011167021000.mp3
+contents: "<p><ruby>日本<rt>にっぽん</rt></ruby>とイタリアが<ruby>国<rt>くに</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>交流<rt>こうりゅう</rt></ruby></span>を<ruby>始<rt>はじ</rt></ruby>めてから１５０<ruby>年<rt>ねん</rt></ruby>になりました。<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>文化庁<rt>ぶんかちょう</rt></ruby>は、イタリアのフィレンツェの<ruby>美術館<rt>びじゅつかん</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\">びょうぶ</span>の<ruby>展覧会<rt>てんらんかい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>室町時代<rt>むろまちじだい</rt></ruby></span>から<span\
+  \ style=\"color: blue;\"><ruby>江戸時代<rt>えどじだい</rt></ruby></span>に<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>自然<rt>しぜん</rt></ruby></span>などの<ruby>絵<rt>え</rt></ruby>をかいた３９の<span\
+  \ style=\"color: blue;\">びょうぶ</span>を<ruby>紹介<rt>しょうかい</rt></ruby>しています。<ruby>国<rt>くに</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>宝<rt>たから</rt></ruby></span>になっている<span style=\"color:\
+  \ blue;\">びょうぶ</span>もあります。</p>\n<p><ruby>大阪<rt>おおさか</rt></ruby>の<ruby>天野山金剛寺<rt>あまのさんこんごうじ</rt></ruby>という<ruby>寺<rt>てら</rt></ruby>の<span\
+  \ style=\"color: blue;\">びょうぶ</span>には、<ruby>春<rt>はる</rt></ruby>に<ruby>咲<rt>さ</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>や<ruby>秋<rt>あき</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>紅葉<rt>こうよう</rt></ruby></span>などがかいてあります。<ruby>京都<rt>きょうと</rt></ruby>の<ruby>相国寺<rt>しょうこくじ</rt></ruby>という<ruby>寺<rt>てら</rt></ruby>の<span\
+  \ style=\"color: blue;\">びょうぶ</span>には、３<ruby>匹<rt>びき</rt></ruby>のかわいい<span style=\"\
+  color: blue;\"><ruby>猿<rt>さる</rt></ruby></span>がかいてあります。</p>\n<p><ruby>美術館<rt>びじゅつかん</rt></ruby>は「<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>に<ruby>興味<rt>きょうみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ついい<ruby>機会<rt>きかい</rt></ruby>になると<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しています。この<ruby>展覧会<rt>てんらんかい</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby>１<ruby>月<rt>がつ</rt></ruby><ruby>７日<rt>なのか</rt></ruby>までです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: びょうぶ
+  descriptions:
+  - <ruby><rb>折</rb><rt>お</rt></ruby>り<ruby><rb>曲</rb><rt>ま</rt></ruby>げて、<ruby><rb>部屋</rb><rt>へや</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>て、<ruby><rb>仕切</rb><rt>しき</rt></ruby>りやかざりなどにする<ruby><rb>家具</rb><rt>かぐ</rt></ruby>。
+- word: 交流
+  descriptions:
+  - たがいに<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>来</rb><rt>き</rt></ruby>すること。<ruby><rb>交</rb><rt>ま</rt></ruby>じり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時間</rb><rt>じかん</rt></ruby>ごとに、<ruby><rb>流</rb><rt>なが</rt></ruby>れの<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>が<ruby><rb>逆</rb><rt>ぎゃく</rt></ruby>になる<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>。
+- word: 室町時代
+  descriptions:
+  - １３３６<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>足利尊氏</rb><rt>あしかがたかうじ</rt></ruby>が<ruby><rb>京都</rb><rt>きょうと</rt></ruby>に<ruby><rb>幕府</rb><rt>ばくふ</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いてから、１５７３<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>織田信長</rb><rt>おだのぶなが</rt></ruby>にほろぼされるまでの<ruby><rb>時代</rb><rt>じだい</rt></ruby>。「<ruby><rb>室町</rb><rt>むろまち</rt></ruby>」は<ruby><rb>幕府</rb><rt>ばくふ</rt></ruby>のあった<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: 江戸時代
+  descriptions:
+  - <ruby><rb>徳川家康</rb><rt>とくがわいえやす</rt></ruby>が、１６０３<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>江戸</rb><rt>えど</rt></ruby>に<ruby><rb>幕府</rb><rt>ばくふ</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いてから、１８６７<ruby><rb>年</rb><rt>ねん</rt></ruby>にほろびるまでの<ruby><rb>約</rb><rt>やく</rt></ruby>２６０<ruby><rb>年間</rb><rt>ねんかん</rt></ruby>。<ruby><rb>鎖国</rb><rt>さこく</rt></ruby>のために<ruby><rb>日本</rb><rt>にっぽん</rt></ruby><ruby><rb>独特</rb><rt>どくとく</rt></ruby>の<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>栄</rb><rt>さか</rt></ruby>えた。「<ruby><rb>徳川時代</rb><rt>とくがわじだい</rt></ruby>」ともいう。
+- word: 自然
+  descriptions:
+  - <ruby><rb>山</rb><rt>やま</rt></ruby>・<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>草</rb><rt>くさ</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>・<ruby><rb>雲</rb><rt>くも</rt></ruby>・<ruby><rb>雨</rb><rt>あめ</rt></ruby>・<ruby><rb>雪</rb><rt>ゆき</rt></ruby>など、<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>作</rb><rt>つく</rt></ruby>ったものでない<ruby><rb>物</rb><rt>もの</rt></ruby>。
+  - もともとの<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>備</rb><rt>そな</rt></ruby>えていること。
+  - わざとらしくないようす。
+  - ひとりでに。いつのまにか。
+- word: 宝
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>少</rb><rt>すこ</rt></ruby>ししかなく、<ruby><rb>貴重</rb><rt>きちょう</rt></ruby>なもの。<ruby><rb>金</rb><rt>きん</rt></ruby>・<ruby><rb>銀</rb><rt>ぎん</rt></ruby>・<ruby><rb>宝石</rb><rt>ほうせき</rt></ruby>など。
+  - <ruby><rb>大切</rb><rt>たいせつ</rt></ruby>な<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 桜
+  descriptions:
+  - <ruby><rb>山地</rb><rt>さんち</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>え、<ruby><rb>公園</rb><rt>こうえん</rt></ruby>や<ruby><rb>庭</rb><rt>にわ</rt></ruby>にも<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>木</rb><rt>き</rt></ruby>。ソメイヨシノ・シダレザクラ・ヤマザクラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>春</rb><rt>はる</rt></ruby>、うすもも<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>美</rb><rt>うつく</rt></ruby>しい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の「<ruby><rb>国花</rb><rt>こっか</rt></ruby>」とされる。
+- word: 紅葉
+  descriptions:
+  - <ruby><rb>秋</rb><rt>あき</rt></ruby>になって、<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>葉</rb><rt>は</rt></ruby>が<ruby><rb>赤</rb><rt>あか</rt></ruby>くなること。また、その<ruby><rb>葉</rb><rt>は</rt></ruby>。
+- word: 猿
+  descriptions:
+  - <ruby><rb>森林</rb><rt>しんりん</rt></ruby>にすみ、<ruby><rb>木登</rb><rt>きのぼ</rt></ruby>りがうまく、<ruby><rb>群</rb><rt>む</rt></ruby>れを<ruby><rb>作</rb><rt>つく</rt></ruby>って<ruby><rb>暮</rb><rt>く</rt></ruby>らしている<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。チンパンジー・ゴリラ・オランウータン・テナガザルなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>にはニホンザルがいる。
+web_news_url: /news/web/2017/10/04/イタリアでびょうぶ展-日本人の自然観に称賛/
+source_url: http://www3.nhk.or.jp/news/easy/k10011167021000/k10011167021000.html
+...
