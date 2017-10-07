@@ -1,0 +1,51 @@
+---
+layout: easy_news
+newsid: k10011150991000
+categories: easy
+title: 東京の新宿に夏目漱石の記念館ができる
+title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>新宿<rt>しんじゅく</rt></ruby>に<ruby>夏目<rt>なつめ</rt></ruby><ruby>漱石<rt>そうせき</rt></ruby>の<ruby>記念<rt>きねん</rt></ruby><ruby>館<rt>かん</rt></ruby>ができる
+last_modified_at: '2017-09-25T11:30:00+09:00'
+datetime: 2017年09月25日 11時30分
+description: 今年ことしは、作家さっかの夏目なつめ漱石そうせきが生うまれてから１５０年ねんになります。
+description_with_ruby: <ruby>今年<rt>ことし</rt></ruby>は、<ruby>作家<rt>さっか</rt></ruby>の<ruby>夏目<rt>なつめ</rt></ruby><ruby>漱石<rt>そうせき</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれてから１５０<ruby>年<rt>ねん</rt></ruby>になります。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/25/k10011150991000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/25/k10011150991000.mp3
+contents: "<p><ruby>今年<rt>ことし</rt></ruby>は、<span style=\"color: blue;\"><ruby>作家<rt>さっか</rt></ruby></span>の<ruby>夏目<rt>なつめ</rt></ruby><ruby>漱石<rt>そうせき</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれてから１５０<ruby>年<rt>ねん</rt></ruby>です。<ruby>漱石<rt>そうせき</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれた<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>新宿区<rt>しんじゅくく</rt></ruby>に<ruby>２４日<rt>にじゅうよっか</rt></ruby>、<ruby>漱石<rt>そうせき</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>記念<rt>きねん</rt></ruby></span>する「<ruby>漱石<rt>そうせき</rt></ruby><ruby>山房<rt>さんぼう</rt></ruby><ruby>記念<rt>きねん</rt></ruby><ruby>館<rt>かん</rt></ruby>」ができました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>記念<rt>きねん</rt></ruby></span><span style=\"\
+  color: blue;\"><ruby>館<rt>かん</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>には、<ruby>漱石<rt>そうせき</rt></ruby>が<ruby>年<rt>とし</rt></ruby>をとってから<ruby>住<rt>す</rt></ruby>んでいた<ruby>家<rt>いえ</rt></ruby>を<ruby>昔<rt>むかし</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>作<rt>つく</rt></ruby>った<ruby>場所<rt>ばしょ</rt></ruby>もあります。<ruby>漱石<rt>そうせき</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、２０００<ruby>冊<rt>さつ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>や<ruby>小<rt>ちい</rt></ruby>さな<ruby>机<rt>つくえ</rt></ruby>があって、<ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>書<rt>か</rt></ruby>いている<ruby>漱石<rt>そうせき</rt></ruby>が<ruby>見<rt>み</rt></ruby>えるようです。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>記念<rt>きねん</rt></ruby></span><span style=\"\
+  color: blue;\"><ruby>館<rt>かん</rt></ruby></span>では、<ruby>漱石<rt>そうせき</rt></ruby>が<ruby>書<rt>か</rt></ruby>いた<ruby>手紙<rt>てがみ</rt></ruby>や、<ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>着<rt>き</rt></ruby>ていた<ruby>着物<rt>きもの</rt></ruby>なども<ruby>見<rt>み</rt></ruby>ることができます。そのほか、<span\
+  \ style=\"color: blue;\"><ruby>記念<rt>きねん</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>館<rt>かん</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>にある<ruby>喫茶店<rt>きっさてん</rt></ruby>で、<ruby>漱石<rt>そうせき</rt></ruby>が<ruby>好<rt>す</rt></ruby>きだった<span\
+  \ style=\"color: blue;\">いちご</span>のジャムなどを<ruby>食<rt>た</rt></ruby>べることができます。</p>\n\
+  <p><ruby>新宿区<rt>しんじゅくく</rt></ruby>は「<ruby>漱石<rt>そうせき</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>にしていた<ruby>机<rt>つくえ</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>文房具<rt>ぶんぼうぐ</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>て、<ruby>漱石<rt>そうせき</rt></ruby>が<ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>書<rt>か</rt></ruby>いていたころを<span\
+  \ style=\"color: blue;\"><ruby>感<rt>かん</rt></ruby>じ</span>てほしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>\n<p></p>"
+words:
+- word: 記念
+  descriptions:
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>しておくこと。また、その<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 館
+  descriptions:
+  - <ruby><rb>家</rb><rt>いえ</rt></ruby>。<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>建物</rb><rt>たてもの</rt></ruby>につけることば。
+  - <ruby><rb>宿屋</rb><rt>やどや</rt></ruby>などの<ruby><rb>名前</rb><rt>なまえ</rt></ruby>につけることば。
+- word: 作家
+  descriptions:
+  - <ruby><rb>小説</rb><rt>しょうせつ</rt></ruby>や<ruby><rb>劇</rb><rt>げき</rt></ruby>・<ruby><rb>童話</rb><rt>どうわ</rt></ruby>などを<ruby><rb>書</rb><rt>か</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 苺
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>やビニルハウスに<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>春</rb><rt>はる</rt></ruby>に<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>き、<ruby><rb>実</rb><rt>み</rt></ruby>は<ruby><rb>熟</rb><rt>じゅく</rt></ruby>すと<ruby><rb>赤</rb><rt>あか</rt></ruby>くなって<ruby><rb>食</rb><rt>た</rt></ruby>べられる。ストロベリー。
+- word: 文房具
+  descriptions:
+  - <ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>したり、ものを<ruby><rb>書</rb><rt>か</rt></ruby>いたりするときに<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>用具</rb><rt>ようぐ</rt></ruby>。<ruby><rb>紙</rb><rt>かみ</rt></ruby>・<ruby><rb>鉛筆</rb><rt>えんぴつ</rt></ruby>・ノートなど。<ruby><rb>文具</rb><rt>ぶんぐ</rt></ruby>。
+- word: 感じる
+  descriptions:
+  - <ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。
+  - <ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。
+web_news_url: /news/web/2017/09/21/夏目漱石の記念館が完成-東京-新宿/
+source_url: http://www3.nhk.or.jp/news/easy/k10011150991000/k10011150991000.html
+...

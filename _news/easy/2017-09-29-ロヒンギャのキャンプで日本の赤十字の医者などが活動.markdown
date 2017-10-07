@@ -1,0 +1,83 @@
+---
+layout: easy_news
+newsid: k10011161131000
+categories: easy
+title: ロヒンギャのキャンプで日本の赤十字の医者などが活動
+title_with_ruby: ロヒンギャのキャンプで<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>赤十字<rt>せきじゅうじ</rt></ruby>の<ruby>医者<rt>いしゃ</rt></ruby>などが<ruby>活動<rt>かつどう</rt></ruby>
+last_modified_at: '2017-09-29T17:15:00+09:00'
+datetime: 2017年09月29日 17時15分
+description: ミャンマーではイスラム教きょうを信しんじるロヒンギャのグループと軍ぐんなどの戦たたかいがあって、大勢おおぜいのロヒンギャの人ひとたちが隣となりのバングラデシュに逃にげています。
+description_with_ruby: ミャンマーではイスラム<ruby>教<rt>きょう</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じるロヒンギャのグループと<ruby>軍<rt>ぐん</rt></ruby>などの<ruby>戦<rt>たたか</rt></ruby>いがあって、<ruby>大勢<rt>おおぜい</rt></ruby>のロヒンギャの<ruby>人<rt>ひと</rt></ruby>たちが<ruby>隣<rt>となり</rt></ruby>のバングラデシュに<ruby>逃<rt>に</rt></ruby>げています。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/29/k10011161131000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/29/k10011161131000.mp3
+contents: "<p>ミャンマーでは<span style=\"color: blue;\">イスラム<ruby>教<rt>きょう</rt></ruby></span>を<span\
+  \ style=\"color: blue;\"><ruby>信<rt>しん</rt></ruby>じる</span>ロヒンギャの<span style=\"\
+  color: blue;\">グループ</span>と<span style=\"color: blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>などの<span\
+  \ style=\"color: blue;\"><ruby>戦<rt>たたか</rt></ruby>い</span>があって、<ruby>大勢<rt>おおぜい</rt></ruby>のロヒンギャの<ruby>人<rt>ひと</rt></ruby>たちが<ruby>隣<rt>となり</rt></ruby>のバングラデシュに<ruby>逃<rt>に</rt></ruby>げています。<span\
+  \ style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>は、９<ruby>月<rt>がつ</rt></ruby>２８<ruby>日<rt>にち</rt></ruby>までにバングラデシュに<ruby>逃<rt>に</rt></ruby>げたロヒンギャの<ruby>人<rt>ひと</rt></ruby>たちが５０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になったと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p><ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>赤十字<rt>せきじゅうじ</rt></ruby></span>の<ruby>医者<rt>いしゃ</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>看護師<rt>かんごし</rt></ruby></span>など１０<ruby>人<rt>にん</rt></ruby>が、ロヒンギャの<ruby>人<rt>ひと</rt></ruby>たちが<ruby>集<rt>あつ</rt></ruby>まる<span\
+  \ style=\"color: blue;\">キャンプ</span>で<span style=\"color: blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>しています。<span\
+  \ style=\"color: blue;\">キャンプ</span>では<ruby>熱<rt>ねつ</rt></ruby>が<ruby>出<rt>で</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>下痢<rt>げり</rt></ruby></span>をした<ruby>人<rt>ひと</rt></ruby>などが<ruby>大勢<rt>おおぜい</rt></ruby><ruby>集<rt>あつ</rt></ruby>まって、<ruby>医者<rt>いしゃ</rt></ruby>に<span\
+  \ style=\"color: blue;\">みて</span>もらったり、<ruby>薬<rt>くすり</rt></ruby>をもらったりしていました。</p>\n\
+  <p><ruby>逃<rt>に</rt></ruby>げてきた<ruby>人<rt>ひと</rt></ruby>が<span style=\"color: blue;\"\
+  ><ruby>急<rt>きゅう</rt></ruby>に</span><ruby>増<rt>ふ</rt></ruby>えたため、トイレや<ruby>水<rt>みず</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなっています。このため、<ruby>病気<rt>びょうき</rt></ruby>になる<ruby>人<rt>ひと</rt></ruby>がもっと<ruby>増<rt>ふ</rt></ruby>える<ruby>心配<rt>しんぱい</rt></ruby>があります。<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>赤十字<rt>せきじゅうじ</rt></ruby></span>はこれから４か<ruby>月<rt>げつ</rt></ruby>ぐらいの<ruby>間<rt>あいだ</rt></ruby>、<ruby>医者<rt>いしゃ</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>看護師<rt>かんごし</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>交代<rt>こうたい</rt></ruby></span>で<ruby>送<rt>おく</rt></ruby>ろうと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: キャンプ
+  descriptions:
+  - <ruby><rb>野</rb><rt>の</rt></ruby>や<ruby><rb>山</rb><rt>やま</rt></ruby>にテントを<ruby><rb>張</rb><rt>は</rt></ruby>って<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>すること。
+  - <ruby><rb>運動</rb><rt>うんどう</rt></ruby>の<ruby><rb>練習</rb><rt>れんしゅう</rt></ruby>のための<ruby><rb>合宿</rb><rt>がっしゅく</rt></ruby>。
+- word: 赤十字
+  descriptions:
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>のときには、<ruby><rb>中立</rb><rt>ちゅうりつ</rt></ruby>の<ruby><rb>立場</rb><rt>たちば</rt></ruby>で、けが<ruby><rb>人</rb><rt>にん</rt></ruby>の<ruby><rb>手当</rb><rt>てあ</rt></ruby>てをし、<ruby><rb>平和</rb><rt>へいわ</rt></ruby>なときは、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>の<ruby><rb>治療</rb><rt>ちりょう</rt></ruby>や<ruby><rb>災害</rb><rt>さいがい</rt></ruby>の<ruby><rb>救護</rb><rt>きゅうご</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>国際的</rb><rt>こくさいてき</rt></ruby>な<ruby><rb>組織</rb><rt>そしき</rt></ruby>。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>は、スイスのジュネーブにある。<ruby><rb>赤十字社</rb><rt>せきじゅうじしゃ</rt></ruby>。
+- word: 活動
+  descriptions:
+  - <ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。
+- word: イスラム教
+  descriptions:
+  - <ruby><rb>七世紀</rb><rt>ななせいき</rt></ruby><ruby><rb>初</rb><rt>はじ</rt></ruby>め、アラビアでムハンマドが<ruby><rb>始</rb><rt>はじ</rt></ruby>めた、<ruby><rb>唯一</rb><rt>ゆいいつ</rt></ruby>の<ruby><rb>神</rb><rt>かみ</rt></ruby>アッラーを<ruby><rb>信</rb><rt>しん</rt></ruby>じる<ruby><rb>宗教</rb><rt>しゅうきょう</rt></ruby>。<ruby><rb>回教</rb><rt>かいきょう</rt></ruby>。
+- word: 信じる
+  descriptions:
+  - ほんとうだと<ruby><rb>心</rb><rt>こころ</rt></ruby>から<ruby><rb>思</rb><rt>おも</rt></ruby>う。
+  - <ruby><rb>神</rb><rt>かみ</rt></ruby>や、<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>を<ruby><rb>信仰</rb><rt>しんこう</rt></ruby>する。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 軍
+  descriptions:
+  - <ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。
+- word: 戦い
+  descriptions:
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>うこと。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。<ruby><rb>争</rb><rt>あらそ</rt></ruby>い。
+  - <ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 看護師
+  descriptions:
+  - <ruby><rb>医者</rb><rt>いしゃ</rt></ruby>の<ruby><rb>手助</rb><rt>てだす</rt></ruby>けや、<ruby><rb>病人</rb><rt>びょうにん</rt></ruby>の<ruby><rb>世話</rb><rt>せわ</rt></ruby>を<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 下痢
+  descriptions:
+  - おなかをこわして、<ruby><rb>水</rb><rt>みず</rt></ruby>けの<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>大便</rb><rt>だいべん</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>ること。<ruby><rb>腹</rb><rt>はら</rt></ruby>くだし。
+- word: 急に
+  descriptions:
+  - とつぜん。にわかに。
+- word: 交代・
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>入</rb><rt>い</rt></ruby>れかわること。かわり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。
+- word: 診る
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>のようすを<ruby><rb>調</rb><rt>しら</rt></ruby>べる。<ruby><rb>診察</rb><rt>しんさつ</rt></ruby>する。
+web_news_url: /news/web/2017/09/29/ロヒンギャの避難-50万人超と発表-国連/
+source_url: http://www3.nhk.or.jp/news/easy/k10011161131000/k10011161131000.html
+...

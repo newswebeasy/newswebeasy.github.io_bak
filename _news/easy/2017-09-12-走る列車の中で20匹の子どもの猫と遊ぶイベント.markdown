@@ -1,0 +1,68 @@
+---
+layout: easy_news
+newsid: k10011134181000
+categories: easy
+title: 走る列車の中で２０匹の子どもの猫と遊ぶイベント
+title_with_ruby: <ruby>走<rt>はし</rt></ruby>る<ruby>列車<rt>れっしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で２０<ruby>匹<rt>ぴき</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもの<ruby>猫<rt>ねこ</rt></ruby>と<ruby>遊<rt>あそ</rt></ruby>ぶイベント
+last_modified_at: '2017-09-12T11:30:00+09:00'
+datetime: 2017年09月12日 11時30分
+description: 岐阜県ぎふけんと三重県みえけんを走はしる養老鉄道ようろうてつどうの列車れっしゃの中なかで、子こどもの猫ねこと遊あそぶことができるイベントがありました。
+description_with_ruby: <ruby>岐阜県<rt>ぎふけん</rt></ruby>と<ruby>三重県<rt>みえけん</rt></ruby>を<ruby>走<rt>はし</rt></ruby>る<ruby>養老鉄道<rt>ようろうてつどう</rt></ruby>の<ruby>列車<rt>れっしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>子<rt>こ</rt></ruby>どもの<ruby>猫<rt>ねこ</rt></ruby>と<ruby>遊<rt>あそ</rt></ruby>ぶことができるイベントがありました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/12/k10011134181000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/12/k10011134181000.mp3
+contents: "<p><ruby>岐阜県<rt>ぎふけん</rt></ruby>と<ruby>三重県<rt>みえけん</rt></ruby>を<ruby>走<rt>はし</rt></ruby>る<ruby>養老鉄道<rt>ようろうてつどう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>列車<rt>れっしゃ</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、<ruby>子<rt>こ</rt></ruby>どもの<ruby>猫<rt>ねこ</rt></ruby>と<ruby>遊<rt>あそ</rt></ruby>ぶことができる<span\
+  \ style=\"color: blue;\">イベント</span>がありました。この<span style=\"color: blue;\">イベント</span>は、<span\
+  \ style=\"color: blue;\"><ruby>飼<rt>か</rt></ruby>う</span><ruby>人<rt>ひと</rt></ruby>がいない<ruby>猫<rt>ねこ</rt></ruby>などを<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>ける</span><span style=\"color:\
+  \ blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>をしている<span style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>と<ruby>養老鉄道<rt>ようろうてつどう</rt></ruby>が<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>開<rt>ひら</rt></ruby>きました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>列車<rt>れっしゃ</rt></ruby></span>には８０<ruby>人<rt>にん</rt></ruby>ぐらいが<ruby>乗<rt>の</rt></ruby>って、この<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>助<rt>たす</rt></ruby>け</span>た２０<ruby>匹<rt>ぴき</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもの<ruby>猫<rt>ねこ</rt></ruby>と<ruby>遊<rt>あそ</rt></ruby>びました。<span\
+  \ style=\"color: blue;\"><ruby>列車<rt>れっしゃ</rt></ruby></span>が<ruby>走<rt>はし</rt></ruby>っている２<ruby>時間<rt>じかん</rt></ruby>ぐらいの<ruby>間<rt>あいだ</rt></ruby>、<ruby>猫<rt>ねこ</rt></ruby>を<ruby>触<rt>さわ</rt></ruby>ったり<span\
+  \ style=\"color: blue;\"><ruby>抱<rt>だ</rt></ruby>い</span>たりして<ruby>楽<rt>たの</rt></ruby>しんでいました。</p>\n\
+  <p>この<span style=\"color: blue;\">イベント</span>は<span style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>があって、<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>もいました。<ruby>愛知県<rt>あいちけん</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>女性<rt>じょせい</rt></ruby>は「いろいろな<ruby>猫<rt>ねこ</rt></ruby>と<ruby>遊<rt>あそ</rt></ruby>ぶことができて、とてもよかったです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>この<span style=\"color: blue;\">イベント</span>に<span style=\"color: blue;\"><ruby>参加<rt>さんか</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>が<ruby>払<rt>はら</rt></ruby>ったお<ruby>金<rt>かね</rt></ruby>は、<ruby>猫<rt>ねこ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>ける</span><span style=\"color:\
+  \ blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>にも<ruby>使<rt>つか</rt></ruby>うことになっています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 列車
+  descriptions:
+  - <ruby><rb>何台</rb><rt>なんだい</rt></ruby>もつながっている、<ruby><rb>客車</rb><rt>きゃくしゃ</rt></ruby>や<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 飼う
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>にえさをあたえて<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+- word: 活動
+  descriptions:
+  - <ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+- word: 抱く
+  descriptions:
+  - <ruby><rb>腕</rb><rt>うで</rt></ruby>でかかえて<ruby><rb>持</rb><rt>も</rt></ruby>つ。
+  - ある<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>持</rb><rt>も</rt></ruby>つ。
+  - <ruby><rb>温</rb><rt>あたた</rt></ruby>めてひなをかえす。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: 参加
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。
+web_news_url: /news/web/2017/09/10/ねこカフェ列車が運行-養老鉄道/
+source_url: http://www3.nhk.or.jp/news/easy/k10011134181000/k10011134181000.html
+...

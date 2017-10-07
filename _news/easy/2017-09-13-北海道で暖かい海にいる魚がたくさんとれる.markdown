@@ -1,0 +1,76 @@
+---
+layout: easy_news
+newsid: k10011135531000
+categories: easy
+title: 北海道で暖かい海にいる魚がたくさんとれる
+title_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby>で<ruby>暖<rt>あたた</rt></ruby>かい<ruby>海<rt>うみ</rt></ruby>にいる<ruby>魚<rt>さかな</rt></ruby>がたくさんとれる
+last_modified_at: '2017-09-13T11:30:00+09:00'
+datetime: 2017年09月13日 11時30分
+description: 北海道ほっかいどうでは、サケをとる季節きせつになりました。
+description_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby>では、サケをとる<ruby>季節<rt>きせつ</rt></ruby>になりました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/13/k10011135531000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/13/k10011135531000.mp3
+contents: "<p><ruby>北海道<rt>ほっかいどう</rt></ruby>では、<span style=\"color: blue;\">サケ</span>をとる<ruby>季節<rt>きせつ</rt></ruby>になりました。<ruby>登別<rt>のぼりべつ</rt></ruby>などの<span\
+  \ style=\"color: blue;\"><ruby>漁協<rt>ぎょきょう</rt></ruby></span>によると、１<ruby>日<rt>にち</rt></ruby>から１１<ruby>日<rt>にち</rt></ruby>までに<span\
+  \ style=\"color: blue;\">とれ</span>た<span style=\"color: blue;\">サケ</span>は、いつもの<ruby>年<rt>とし</rt></ruby>より<ruby>少<rt>すく</rt></ruby>ない１５<span\
+  \ style=\"color: blue;\">ｔ</span>ぐらいでした。しかし、<span style=\"color: blue;\">ブリ</span>は１３０<span\
+  \ style=\"color: blue;\">ｔ</span>も<span style=\"color: blue;\">とれ</span>ました。</p>\n\
+  <p><span style=\"color: blue;\">ブリ</span>は<ruby>暖<rt>あたた</rt></ruby>かい<ruby>海<rt>うみ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きなので、<ruby>今<rt>いま</rt></ruby>まで<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>北<rt>きた</rt></ruby>の<span\
+  \ style=\"color: blue;\">ほう</span>にある<ruby>北海道<rt>ほっかいどう</rt></ruby>まではあまり<ruby>来<rt>き</rt></ruby>ませんでした。<ruby>去年<rt>きょねん</rt></ruby>１<ruby>年<rt>ねん</rt></ruby>に<span\
+  \ style=\"color: blue;\">とれ</span>た<span style=\"color: blue;\">ブリ</span>は１５<span\
+  \ style=\"color: blue;\">ｔ</span>でした。しかし<ruby>最近<rt>さいきん</rt></ruby>、<span style=\"\
+  color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>上<rt>あ</rt></ruby>がっていることなどが<ruby>原因<rt>げんいん</rt></ruby>で、<ruby>北海道<rt>ほっかいどう</rt></ruby>で<span\
+  \ style=\"color: blue;\">ブリ</span>がたくさん<span style=\"color: blue;\">とれ</span>ています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>漁師<rt>りょうし</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い<span\
+  \ style=\"color: blue;\">サケ</span>があまり<span style=\"color: blue;\">とれ</span>なくて、<ruby>安<rt>やす</rt></ruby>い<span\
+  \ style=\"color: blue;\">ブリ</span>ばかりで<ruby>困<rt>こま</rt></ruby>っています」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 取れる
+  descriptions:
+  - はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。
+  - つかれなどが、なくなる。
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>ることができる。
+  - そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。
+  - <ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+- word: 鮭
+  descriptions:
+  - <ruby><rb>川</rb><rt>かわ</rt></ruby>で<ruby><rb>生</rb><rt>う</rt></ruby>まれ、<ruby><rb>海</rb><rt>うみ</rt></ruby>に<ruby><rb>下</rb><rt>くだ</rt></ruby>って<ruby><rb>育</rb><rt>そだ</rt></ruby>ち、<ruby><rb>寒流</rb><rt>かんりゅう</rt></ruby>にすむ<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>四</rb><rt>し</rt></ruby>、<ruby><rb>五</rb><rt>ご</rt></ruby><ruby><rb>年</rb><rt>ねん</rt></ruby>たつと、<ruby><rb>秋</rb><rt>あき</rt></ruby>、<ruby><rb>生</rb><rt>う</rt></ruby>まれた<ruby><rb>川</rb><rt>かわ</rt></ruby>をさかのぼって<ruby><rb>卵</rb><rt>たまご</rt></ruby>を<ruby><rb>産</rb><rt>う</rt></ruby>む。<ruby><rb>身</rb><rt>み</rt></ruby>だけでなく、<ruby><rb>卵</rb><rt>たまご</rt></ruby>も「すじこ」「イクラ」と<ruby><rb>呼</rb><rt>よ</rt></ruby>ばれて<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にする。シャケ。アキアジ。
+- word: 漁業協同組合
+  descriptions:
+  - <ruby><rb>漁民</rb><rt>ぎょみん</rt></ruby>が<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>助</rb><rt>たす</rt></ruby>け<ruby><rb>合</rb><rt>あ</rt></ruby>いの<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組合員</rb><rt>くみあいいん</rt></ruby>のために<ruby><rb>協同</rb><rt>きょうどう</rt></ruby>で<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>買</rb><rt>か</rt></ruby>ったり、とったり<ruby><rb>作</rb><rt>つく</rt></ruby>ったりしたものを<ruby><rb>販売</rb><rt>はんばい</rt></ruby>したりする。また、お<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>預</rb><rt>あず</rt></ruby>かったり、<ruby><rb>貸</rb><rt>か</rt></ruby>したりもする。<ruby><rb>漁協</rb><rt>ぎょきょう</rt></ruby>。<ruby><rb>J</rb><rt>ジェー</rt></ruby><ruby><rb>F</rb><rt>エフ</rt></ruby>。
+- word: 捕れる
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+  - とることができる。
+- word: トン
+  descriptions:
+  - メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。１トンは、１０００キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+  - <ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: ぶり
+  descriptions:
+  - <ruby><rb>暖</rb><rt>あたた</rt></ruby>かな<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>背</rb><rt>せ</rt></ruby>は<ruby><rb>青</rb><rt>あお</rt></ruby>く<ruby><rb>腹</rb><rt>はら</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>い。<ruby><rb>横腹</rb><rt>よこはら</rt></ruby>に<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>い<ruby><rb>筋</rb><rt>すじ</rt></ruby>がある。<ruby><rb>育</rb><rt>そだ</rt></ruby>つにつれて<ruby><rb>名前</rb><rt>なまえ</rt></ruby>が<ruby><rb>変</rb><rt>か</rt></ruby>わる<ruby><rb>出世魚</rb><rt>しゅっせうお</rt></ruby>。<ruby><rb>関東</rb><rt>かんとう</rt></ruby>では、ワカシ→イナダ→ワラサ→ブリ、<ruby><rb>関西</rb><rt>かんさい</rt></ruby>では、ツバス→ハマチ→メジロ→ブリと<ruby><rb>変</rb><rt>か</rt></ruby>わる。
+- word: 方
+  descriptions:
+  - <ruby><rb>向</rb><rt>む</rt></ruby>き。
+  - それぞれの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。
+  - <ruby><rb>四角</rb><rt>しかく</rt></ruby>。
+  - やりかた。
+  - <ruby><rb>分</rb><rt>わ</rt></ruby>けたときの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>部類</rb><rt>ぶるい</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>をうやまって<ruby><rb>言</rb><rt>い</rt></ruby>うことば。かた。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: 気温
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。
+- word: 漁師
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>貝</rb><rt>かい</rt></ruby>などをとることを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>としている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>漁夫</rb><rt>ぎょふ</rt></ruby>。
+web_news_url: /news/web/2017/09/11/秋サケの定置網に大量のブリ-北海道の漁業者に戸惑い/
+source_url: http://www3.nhk.or.jp/news/easy/k10011135531000/k10011135531000.html
+...

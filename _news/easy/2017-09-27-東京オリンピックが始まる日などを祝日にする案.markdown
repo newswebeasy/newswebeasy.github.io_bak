@@ -1,0 +1,47 @@
+---
+layout: easy_news
+newsid: k10011156101000
+categories: easy
+title: 東京オリンピックが始まる日などを祝日にする案
+title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>オリンピックが<ruby>始<rt>はじ</rt></ruby>まる<ruby>日<rt>ひ</rt></ruby>などを<ruby>祝日<rt>しゅくじつ</rt></ruby>にする<ruby>案<rt>あん</rt></ruby>
+last_modified_at: '2017-09-27T11:30:00+09:00'
+datetime: 2017年09月27日 11時30分
+description: ２０２０年ねんに東京とうきょうでオリンピックを開ひらくときは、日本にっぽんや外国がいこくから多おおくの人ひとが東京とうきょうに来きます。
+description_with_ruby: ２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>でオリンピックを<ruby>開<rt>ひら</rt></ruby>くときは、<ruby>日本<rt>にっぽん</rt></ruby>や<ruby>外国<rt>がいこく</rt></ruby>から<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>が<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/27/k10011156101000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/27/k10011156101000.mp3
+contents: "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<span style=\"\
+  color: blue;\">オリンピック</span>を<ruby>開<rt>ひら</rt></ruby>くときは、<ruby>日本<rt>にっぽん</rt></ruby>や<ruby>外国<rt>がいこく</rt></ruby>から<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>が<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。<span\
+  \ style=\"color: blue;\"><ruby>国会<rt>こっかい</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>議員<rt>ぎいん</rt></ruby></span>の<span style=\"color: blue;\">グループ</span>は、<ruby>電車<rt>でんしゃ</rt></ruby>や<ruby>道<rt>みち</rt></ruby>が<ruby>混<rt>こ</rt></ruby>まないようにするために、<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>祝日<rt>しゅくじつ</rt></ruby></span>をつくって、<ruby>休<rt>やす</rt></ruby>みにしようと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><span style=\"color: blue;\">グループ</span>は、<span style=\"color: blue;\">オリンピック</span>が<ruby>始<rt>はじ</rt></ruby>まる<ruby>日<rt>ひ</rt></ruby>の７<ruby>月<rt>がつ</rt></ruby><ruby>２４日<rt>にじゅうよっか</rt></ruby>と<ruby>前<rt>まえ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>の７<ruby>月<rt>がつ</rt></ruby>２３<ruby>日<rt>にち</rt></ruby>、<ruby>終<rt>お</rt></ruby>わった<ruby>次<rt>つぎ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>の８<ruby>月<rt>がつ</rt></ruby><ruby>１０日<rt>とおか</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>祝日<rt>しゅくじつ</rt></ruby></span>にする<span style=\"color:\
+  \ blue;\"><ruby>案<rt>あん</rt></ruby></span>を<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p>２０２０<ruby>年<rt>ねん</rt></ruby>だけこの３つの<ruby>日<rt>ひ</rt></ruby>を<span style=\"color:\
+  \ blue;\"><ruby>祝日<rt>しゅくじつ</rt></ruby></span>にして、<ruby>代<rt>か</rt></ruby>わりに７<ruby>月<rt>がつ</rt></ruby>の「<ruby>海<rt>うみ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>」と、８<ruby>月<rt>がつ</rt></ruby>の「<ruby>山<rt>やま</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>」、１０<ruby>月<rt>がつ</rt></ruby>の「<ruby>体育<rt>たいいく</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>」の<span\
+  \ style=\"color: blue;\"><ruby>祝日<rt>しゅくじつ</rt></ruby></span>をやめたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 祝日
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>がみんなで<ruby><rb>祝</rb><rt>いわ</rt></ruby>う<ruby><rb>日</rb><rt>ひ</rt></ruby>。
+- word: 案
+  descriptions:
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>考</rb><rt>かんが</rt></ruby>え。<ruby><rb>計画</rb><rt>けいかく</rt></ruby>。
+  - <ruby><rb>相談</rb><rt>そうだん</rt></ruby>のことがら。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>四年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、一八九六<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: 国会
+  descriptions:
+  - <ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>のやり<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>相談</rb><rt>そうだん</rt></ruby>して<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>。<ruby><rb>衆議院</rb><rt>しゅうぎいん</rt></ruby>と<ruby><rb>参議院</rb><rt>さんぎいん</rt></ruby>とがある。
+- word: 議員
+  descriptions:
+  - <ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>で<ruby><rb>選</rb><rt>えら</rt></ruby>ばれ、<ruby><rb>国会</rb><rt>こっかい</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>で、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>することをいろいろ<ruby><rb>相談</rb><rt>そうだん</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>・<ruby><rb>県議会議員</rb><rt>けんぎかいぎいん</rt></ruby>など。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+web_news_url: /news/web/2017/09/26/東京五輪の祝日-開会式当日など3日を検討/
+source_url: http://www3.nhk.or.jp/news/easy/k10011156101000/k10011156101000.html
+...

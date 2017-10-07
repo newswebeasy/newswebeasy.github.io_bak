@@ -1,0 +1,45 @@
+---
+layout: easy_news
+newsid: k10011136391000
+categories: easy
+title: 難民の子どもの半分以上が学校に通うことができない
+title_with_ruby: <ruby>難民<rt>なんみん</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもの<ruby>半分<rt>はんぶん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>学校<rt>がっこう</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>うことができない
+last_modified_at: '2017-09-14T11:30:00+09:00'
+datetime: 2017年09月14日 11時30分
+description: 国連こくれんのＵＮＨＣＲによると、５歳さい〜１７歳さいの難民なんみんは世界せかいに約やく６４０万まん人にんいます。
+description_with_ruby: <ruby>国連<rt>こくれん</rt></ruby>のＵＮＨＣＲによると、５<ruby>歳<rt>さい</rt></ruby>〜１７<ruby>歳<rt>さい</rt></ruby>の<ruby>難民<rt>なんみん</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>に<ruby>約<rt>やく</rt></ruby>６４０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>います。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/14/k10011136391000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/14/k10011136391000.mp3
+contents: "<p></p>\n<p><span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>のＵＮＨＣＲによると、５<ruby>歳<rt>さい</rt></ruby>〜１７<ruby>歳<rt>さい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>難民<rt>なんみん</rt></ruby></span>は<ruby>世界<rt>せかい</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>６４０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>います。その<ruby>半分<rt>はんぶん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>３５０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>は<ruby>学校<rt>がっこう</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>うことができなくなっています。</p>\n\
+  <p><ruby>世界<rt>せかい</rt></ruby>では、<ruby>小学校<rt>しょうがっこう</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>う<span\
+  \ style=\"color: blue;\"><ruby>年齢<rt>ねんれい</rt></ruby></span>の<ruby>子<rt>こ</rt></ruby>どもの９１％、<ruby>中学校<rt>ちゅうがっこう</rt></ruby>や<ruby>高校<rt>こうこう</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>う<span\
+  \ style=\"color: blue;\"><ruby>年齢<rt>ねんれい</rt></ruby></span>の<ruby>子<rt>こ</rt></ruby>どもの８４％が<ruby>学校<rt>がっこう</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>っています。しかし、<span\
+  \ style=\"color: blue;\"><ruby>難民<rt>なんみん</rt></ruby></span>の<ruby>場合<rt>ばあい</rt></ruby>、<ruby>小学校<rt>しょうがっこう</rt></ruby>は６１％、<ruby>中学校<rt>ちゅうがっこう</rt></ruby>や<ruby>高校<rt>こうこう</rt></ruby>は２３％だけです。</p>\n\
+  <p>ＵＮＨＣＲは「<ruby>教育<rt>きょういく</rt></ruby>を<ruby>受<rt>う</rt></ruby>けることは、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>国<rt>くに</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ったときのためにとても<ruby>大切<rt>たいせつ</rt></ruby>です。<span\
+  \ style=\"color: blue;\"><ruby>難民<rt>なんみん</rt></ruby></span>の<ruby>子<rt>こ</rt></ruby>どもたちが<ruby>学校<rt>がっこう</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>うことができるように、<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>支援<rt>しえん</rt></ruby></span>が<ruby>必要<rt>ひつよう</rt></ruby>です」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 難民
+  descriptions:
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>や<ruby><rb>天災</rb><rt>てんさい</rt></ruby>のために、<ruby><rb>家</rb><rt>いえ</rt></ruby>を<ruby><rb>失</rb><rt>うしな</rt></ruby>い、よその<ruby><rb>土地</rb><rt>とち</rt></ruby>へにげてきた<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第２次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 年齢
+  descriptions:
+  - <ruby><rb>生</rb><rt>う</rt></ruby>まれてから<ruby><rb>今</rb><rt>いま</rt></ruby>までの<ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>数</rb><rt>かず</rt></ruby>。とし。
+- word: 支援
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>をそえて<ruby><rb>助</rb><rt>たす</rt></ruby>けること。
+web_news_url: /news/web/2017/09/12/難民の子どもの半数超が学校に通えず-国連報告書/
+source_url: http://www3.nhk.or.jp/news/easy/k10011136391000/k10011136391000.html
+...

@@ -1,0 +1,47 @@
+---
+layout: easy_news
+newsid: k10011156371000
+categories: easy
+title: 愛媛県松山市の道後温泉に新しい建物がオープン
+title_with_ruby: <ruby>愛媛県<rt>えひめけん</rt></ruby><ruby>松山市<rt>まつやまし</rt></ruby>の<ruby>道後温泉<rt>どうごおんせん</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>建物<rt>たてもの</rt></ruby>がオープン
+last_modified_at: '2017-09-26T15:30:00+09:00'
+datetime: 2017年09月26日 15時30分
+description: 道後温泉どうごおんせんは愛媛県えひめけん松山市まつやましにある有名ゆうめいな温泉おんせんです。
+description_with_ruby: <ruby>道後温泉<rt>どうごおんせん</rt></ruby>は<ruby>愛媛県<rt>えひめけん</rt></ruby><ruby>松山市<rt>まつやまし</rt></ruby>にある<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>温泉<rt>おんせん</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/26/k10011156371000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/26/k10011156371000.mp3
+contents: "<p><ruby>道後温泉<rt>どうごおんせん</rt></ruby>は<ruby>愛媛県<rt>えひめけん</rt></ruby><ruby>松山市<rt>まつやまし</rt></ruby>にある<ruby>有名<rt>ゆうめい</rt></ruby>な<span\
+  \ style=\"color: blue;\"><ruby>温泉<rt>おんせん</rt></ruby></span>です。ここに１２０<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>からある「<ruby>道後温泉<rt>どうごおんせん</rt></ruby><ruby>本館<rt>ほんかん</rt></ruby>」という<ruby>建物<rt>たてもの</rt></ruby>では、<ruby>大<rt>おお</rt></ruby>きな<ruby>風呂<rt>ふろ</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>温泉<rt>おんせん</rt></ruby></span>を<ruby>楽<rt>たの</rt></ruby>しむことができます。</p>\n\
+  <p><ruby>松山市<rt>まつやまし</rt></ruby>はもっとたくさんの<ruby>人<rt>ひと</rt></ruby>に<ruby>来<rt>き</rt></ruby>てほしいと<ruby>考<rt>かんが</rt></ruby>えて、２０<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>かけて、もう１つ<ruby>新<rt>あたら</rt></ruby>しい<ruby>建物<rt>たてもの</rt></ruby>をつくりました。</p>\n\
+  <p>この<ruby>建物<rt>たてもの</rt></ruby>は、１４００<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>の<ruby>建物<rt>たてもの</rt></ruby>のようにつくりました。この<ruby>時代<rt>じだい</rt></ruby>に<ruby>政治<rt>せいじ</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>った<ruby>聖徳太子<rt>しょうとくたいし</rt></ruby>という<ruby>人<rt>ひと</rt></ruby>が、<ruby>道後温泉<rt>どうごおんせん</rt></ruby>に<ruby>来<rt>き</rt></ruby>たことがあると<ruby>言<rt>い</rt></ruby>われているためです。<ruby>風呂<rt>ふろ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>場<rt>ば</rt></ruby></span>の<ruby>壁<rt>かべ</rt></ruby>には、<ruby>松山市<rt>まつやまし</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<span\
+  \ style=\"color: blue;\"><ruby>瀬戸内海<rt>せとないかい</rt></ruby>などの<ruby>景色<rt>けしき</rt></ruby>がかいてあります。</span></p>\n\
+  <p>２６<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しい<ruby>建物<rt>たてもの</rt></ruby>が<span\
+  \ style=\"color: blue;\">オープン</span>して、<ruby>松山市<rt>まつやまし</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>観光<rt>かんこう</rt></ruby></span>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>などが<span\
+  \ style=\"color: blue;\"><ruby>温泉<rt>おんせん</rt></ruby></span>を<ruby>楽<rt>たの</rt></ruby>しんでいました。<ruby>松山市<rt>まつやまし</rt></ruby>は、<ruby>新<rt>あたら</rt></ruby>しい<ruby>建物<rt>たてもの</rt></ruby>には１<ruby>年<rt>ねん</rt></ruby>に３０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>来<rt>く</rt></ruby>ると<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>\n<p></p>"
+words:
+- word: オープン
+  descriptions:
+  - <ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。
+  - かくしだてをしないようす。
+  - おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。
+- word: 温泉
+  descriptions:
+  - <ruby><rb>地下水</rb><rt>ちかすい</rt></ruby>が<ruby><rb>火山</rb><rt>かざん</rt></ruby>などの<ruby><rb>熱</rb><rt>ねつ</rt></ruby>で<ruby><rb>温</rb><rt>あたた</rt></ruby>められて、<ruby><rb>地下</rb><rt>ちか</rt></ruby>からわき<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>湯</rb><rt>ゆ</rt></ruby>。いろいろな<ruby><rb>成分</rb><rt>せいぶん</rt></ruby>がとけていて<ruby><rb>病気</rb><rt>びょうき</rt></ruby>に<ruby><rb>効</rb><rt>き</rt></ruby>く。また、その<ruby><rb>湯</rb><rt>ゆ</rt></ruby>の<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: 場
+  descriptions:
+  - <ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+  - <ruby><rb>場合</rb><rt>ばあい</rt></ruby>。とき。
+  - <ruby><rb>劇</rb><rt>げき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>一場面</rb><rt>いちばめん</rt></ruby>。
+- word: 瀬戸内海
+  descriptions:
+  - <ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>・<ruby><rb>四国</rb><rt>しこく</rt></ruby>・<ruby><rb>九州</rb><rt>きゅうしゅう</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>島々</rb><rt>しまじま</rt></ruby>がある。<ruby><rb>気候</rb><rt>きこう</rt></ruby>は<ruby><rb>温暖</rb><rt>おんだん</rt></ruby>で<ruby><rb>雨</rb><rt>あめ</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>ない。
+- word: 観光
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。
+web_news_url: /news/web/2017/09/26/松山-道後温泉に新温泉施設がオープン/
+source_url: http://www3.nhk.or.jp/news/easy/k10011156371000/k10011156371000.html
+...

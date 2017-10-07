@@ -1,0 +1,52 @@
+---
+layout: easy_news
+newsid: k10011154591000
+categories: easy
+title: 沖縄県　「クロウミガメ」の赤ちゃんが生まれる
+title_with_ruby: <ruby>沖縄県<rt>おきなわけん</rt></ruby>　「クロウミガメ」の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれる
+last_modified_at: '2017-09-26T11:30:00+09:00'
+datetime: 2017年09月26日 11時30分
+description: 沖縄県おきなわけん本部町もとぶちょうにある海洋博公園かいようはくこうえんでは、１８年ねん前まえと８年ねん前まえに沖縄県おきなわけんの海うみで助たすけた雄おすと雌めすの「クロウミガメ」を育そだてています。
+description_with_ruby: <ruby>沖縄県<rt>おきなわけん</rt></ruby><ruby>本部町<rt>もとぶちょう</rt></ruby>にある<ruby>海洋博公園<rt>かいようはくこうえん</rt></ruby>では、１８<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>と８<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<ruby>助<rt>たす</rt></ruby>けた<ruby>雄<rt>おす</rt></ruby>と<ruby>雌<rt>めす</rt></ruby>の「クロウミガメ」を<ruby>育<rt>そだ</rt></ruby>てています。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/26/k10011154591000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/26/k10011154591000.mp3
+contents: "<p><ruby>沖縄県<rt>おきなわけん</rt></ruby><ruby>本部町<rt>もとぶちょう</rt></ruby>にある<ruby>海洋博公園<rt>かいようはくこうえん</rt></ruby>では、１８<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>と８<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>け</span>た<span style=\"color:\
+  \ blue;\"><ruby>雄<rt>おす</rt></ruby></span>と<span style=\"color: blue;\"><ruby>雌<rt>めす</rt></ruby></span>の「クロウミガメ」を<ruby>育<rt>そだ</rt></ruby>てています。クロウミガメは、<ruby>普通<rt>ふつう</rt></ruby>はメキシコやペルーなどの<ruby>海<rt>うみ</rt></ruby>にいる<span\
+  \ style=\"color: blue;\"><ruby>亀<rt>かめ</rt></ruby></span>です。</p>\n<p><ruby>今年<rt>ことし</rt></ruby>の６<ruby>月<rt>がつ</rt></ruby>〜８<ruby>月<rt>がつ</rt></ruby>に、<span\
+  \ style=\"color: blue;\"><ruby>雌<rt>めす</rt></ruby></span>が２６２<ruby>個<rt>こ</rt></ruby>の<ruby>卵<rt>たまご</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>産<rt>う</rt></ruby>み</span>ました。そして、９<ruby>月<rt>がつ</rt></ruby>１６<ruby>日<rt>にち</rt></ruby>までに１１<ruby>匹<rt>ぴき</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれました。<ruby>海洋博公園<rt>かいようはくこうえん</rt></ruby>は、<ruby>人<rt>ひと</rt></ruby>が<ruby>育<rt>そだ</rt></ruby>てたクロウミガメから<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれたのは、<ruby>世界<rt>せかい</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めてだと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>今<rt>いま</rt></ruby>、<ruby>海洋博公園<rt>かいようはくこうえん</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>亀<rt>かめ</rt></ruby></span>のプールでは、<span style=\"color: blue;\"\
+  ><ruby>直径<rt>ちょっけい</rt></ruby></span>７ｃｍぐらいの<ruby>赤<rt>あか</rt></ruby>ちゃんの<span style=\"\
+  color: blue;\"><ruby>亀<rt>かめ</rt></ruby></span>が<ruby>元気<rt>げんき</rt></ruby>よく<ruby>泳<rt>およ</rt></ruby>いでいます。<ruby>遊<rt>あそ</rt></ruby>びに<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちは、かわいい<span\
+  \ style=\"color: blue;\"><ruby>亀<rt>かめ</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>て<ruby>楽<rt>たの</rt></ruby>しんでいます。</p>\n\
+  <p><ruby>海洋博公園<rt>かいようはくこうえん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「クロウミガメがいつ<ruby>卵<rt>たまご</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>産<rt>う</rt></ruby>む</span>かなどがわかったので、これからも<ruby>大事<rt>だいじ</rt></ruby>に<ruby>育<rt>そだ</rt></ruby>てていろいろ<ruby>調<rt>しら</rt></ruby>べたいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+- word: 雄
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>男性</rb><rt>だんせい</rt></ruby>にあたるもの。
+- word: 雌
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>を<ruby><rb>生</rb><rt>う</rt></ruby>む<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>があるほう。
+- word: 亀
+  descriptions:
+  - <ruby><rb>水中</rb><rt>すいちゅう</rt></ruby>や<ruby><rb>陸上</rb><rt>りくじょう</rt></ruby>で<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>し、<ruby><rb>体</rb><rt>からだ</rt></ruby>がかたいこうらでおおわれた<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>池</rb><rt>いけ</rt></ruby>や<ruby><rb>川</rb><rt>かわ</rt></ruby>にすむイシガメ・スッポン、<ruby><rb>陸</rb><rt>りく</rt></ruby>にすむゾウガメ、<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむアカウミガメなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。ほとんどの<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>首</rb><rt>くび</rt></ruby>や<ruby><rb>尾</rb><rt>お</rt></ruby>、<ruby><rb>足</rb><rt>あし</rt></ruby>をこうらの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>引</rb><rt>ひ</rt></ruby>っこめることができる。
+- word: 産む
+  descriptions:
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+- word: 直径
+  descriptions:
+  - <ruby><rb>円</rb><rt>えん</rt></ruby>または<ruby><rb>球</rb><rt>きゅう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>って、<ruby><rb>円周</rb><rt>えんしゅう</rt></ruby>や<ruby><rb>球面上</rb><rt>きゅうめんじょう</rt></ruby>の<ruby><rb>二点</rb><rt>にてん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>。さしわたし。
+- word: 産む
+  descriptions:
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+web_news_url: /news/web/2017/09/24/クロウミガメの赤ちゃん誕生-飼育下での繁殖は世界初-沖縄/
+source_url: http://www3.nhk.or.jp/news/easy/k10011154591000/k10011154591000.html
+...

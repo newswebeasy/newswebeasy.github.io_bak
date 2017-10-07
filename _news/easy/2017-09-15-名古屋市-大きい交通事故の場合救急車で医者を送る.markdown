@@ -1,0 +1,44 @@
+---
+layout: easy_news
+newsid: k10011138181000
+categories: easy
+title: 名古屋市　大きい交通事故の場合救急車で医者を送る
+title_with_ruby: <ruby>名古屋市<rt>なごやし</rt></ruby>　<ruby>大<rt>おお</rt></ruby>きい<ruby>交通事故<rt>こうつうじこ</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby><ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby>で<ruby>医者<rt>いしゃ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る
+last_modified_at: '2017-09-15T11:30:00+09:00'
+datetime: 2017年09月15日 11時30分
+description: 愛知県あいちけん名古屋市なごやしは、交通事故こうつうじこでひどいけがをした人ひとを助たすけるため、救急車きゅうきゅうしゃで医者いしゃを事故じこの場所ばしょにすぐ送おくることにしました。
+description_with_ruby: <ruby>愛知県<rt>あいちけん</rt></ruby><ruby>名古屋市<rt>なごやし</rt></ruby>は、<ruby>交通事故<rt>こうつうじこ</rt></ruby>でひどいけがをした<ruby>人<rt>ひと</rt></ruby>を<ruby>助<rt>たす</rt></ruby>けるため、<ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby>で<ruby>医者<rt>いしゃ</rt></ruby>を<ruby>事故<rt>じこ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>にすぐ<ruby>送<rt>おく</rt></ruby>ることにしました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/15/k10011138181000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/15/k10011138181000.mp3
+contents: "<p><ruby>愛知県<rt>あいちけん</rt></ruby><ruby>名古屋市<rt>なごやし</rt></ruby>は、<ruby>交通事故<rt>こうつうじこ</rt></ruby>でひどいけがをした<ruby>人<rt>ひと</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>ける</span>ため、<span style=\"color:\
+  \ blue;\"><ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby></span>で<ruby>医者<rt>いしゃ</rt></ruby>を<ruby>事故<rt>じこ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>にすぐ<ruby>送<rt>おく</rt></ruby>ることにしました。</p>\n\
+  <p><ruby>名古屋市<rt>なごやし</rt></ruby>によると、<ruby>交通事故<rt>こうつうじこ</rt></ruby>でけがをした<ruby>人<rt>ひと</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>から<ruby>出<rt>で</rt></ruby>ることができなくて、すぐ<ruby>病院<rt>びょういん</rt></ruby>へ<ruby>運<rt>はこ</rt></ruby>ぶことができない<ruby>場合<rt>ばあい</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなっています。このような<ruby>場合<rt>ばあい</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby></span>に<ruby>乗<rt>の</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>だけで<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>ける</span>ことは<ruby>難<rt>むずか</rt></ruby>しくなります。このため、<ruby>病院<rt>びょういん</rt></ruby>にいる<ruby>医者<rt>いしゃ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby></span>に<ruby>乗<rt>の</rt></ruby>って、<ruby>事故<rt>じこ</rt></ruby>があった<ruby>場所<rt>ばしょ</rt></ruby>にすぐ<ruby>行<rt>い</rt></ruby>くことができるようにしたいと<ruby>考<rt>かんが</rt></ruby>えました。<ruby>病院<rt>びょういん</rt></ruby>などに<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>してもらって、２０１８<span style=\"\
+  color: blue;\"><ruby>年度<rt>ねんど</rt></ruby></span>から<ruby>始<rt>はじ</rt></ruby>める<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p><ruby>愛知県<rt>あいちけん</rt></ruby>で<ruby>今年<rt>ことし</rt></ruby>になってから<ruby>交通事故<rt>こうつうじこ</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>でいちばん<ruby>多<rt>おお</rt></ruby>い１３４<ruby>人<rt>にん</rt></ruby>になっています。<ruby>名古屋市<rt>なごやし</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きい<ruby>交通事故<rt>こうつうじこ</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>、<ruby>医者<rt>いしゃ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>って、<ruby>亡<rt>な</rt></ruby>くなる<ruby>人<rt>ひと</rt></ruby>を<ruby>少<rt>すく</rt></ruby>なくしたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 救急車
+  descriptions:
+  - <ruby><rb>急病人</rb><rt>きゅうびょうにん</rt></ruby>やけが<ruby><rb>人</rb><rt>にん</rt></ruby>を、すぐ<ruby><rb>病院</rb><rt>びょういん</rt></ruby>へ<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。<ruby><rb>消防署</rb><rt>しょうぼうしょ</rt></ruby>で<ruby><rb>管理</rb><rt>かんり</rt></ruby>している。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+- word: 年度
+  descriptions:
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>のつごうで<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>一年</rb><rt>いちねん</rt></ruby>の<ruby><rb>期間</rb><rt>きかん</rt></ruby>。ふつう<ruby><rb>四月</rb><rt>しがつ</rt></ruby><ruby><rb>一日</rb><rt>ついたち</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まり、<ruby><rb>翌年</rb><rt>よくねん</rt></ruby>の<ruby><rb>三月三十一日</rb><rt>さんがつさんじゅういちにち</rt></ruby>に<ruby><rb>終</rb><rt>お</rt></ruby>わる。
+- word: 都道府県
+  descriptions:
+  - <ruby><rb>全国</rb><rt>ぜんこく</rt></ruby>を四七に<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>区画</rb><rt>くかく</rt></ruby>。<ruby><rb>東京都</rb><rt>とうきょうと</rt></ruby>・<ruby><rb>北海道</rb><rt>ほっかいどう</rt></ruby>・<ruby><rb>大阪府</rb><rt>おおさかふ</rt></ruby>・<ruby><rb>京都府</rb><rt>きょうとふ</rt></ruby>と、四三の<ruby><rb>県</rb><rt>けん</rt></ruby>。
+web_news_url: /news/web/2017/09/14/全国初-救急車で医師を事故現場に派遣へ-名古屋/
+source_url: http://www3.nhk.or.jp/news/easy/k10011138181000/k10011138181000.html
+...

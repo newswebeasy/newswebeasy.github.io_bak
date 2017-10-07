@@ -1,0 +1,61 @@
+---
+layout: easy_news
+newsid: k10011147741000
+categories: easy
+title: 「戦争のとき８３人が自殺した所だと知らなかった」
+title_with_ruby: 「<ruby>戦争<rt>せんそう</rt></ruby>のとき８３<ruby>人<rt>にん</rt></ruby>が<ruby>自殺<rt>じさつ</rt></ruby>した<ruby>所<rt>ところ</rt></ruby>だと<ruby>知<rt>し</rt></ruby>らなかった」
+last_modified_at: '2017-09-20T15:55:00+09:00'
+datetime: 2017年09月20日 15時55分
+description: 沖縄県おきなわけんの読谷村よみたんそんには「チビチリガマ」という大おおきくて深ふかい穴あながあります。
+description_with_ruby: <ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>読谷村<rt>よみたんそん</rt></ruby>には「チビチリガマ」という<ruby>大<rt>おお</rt></ruby>きくて<ruby>深<rt>ふか</rt></ruby>い<ruby>穴<rt>あな</rt></ruby>があります。
+image_url: https://newswebeasy.github.io/ja201709/news/easy/image/2017/09/20/k10011147741000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/20/k10011147741000.mp3
+contents: "<p><ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>読谷村<rt>よみたんそん</rt></ruby>には「チビチリガマ」という<ruby>大<rt>おお</rt></ruby>きくて<ruby>深<rt>ふか</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>穴<rt>あな</rt></ruby></span>があります。<span style=\"color:\
+  \ blue;\"><ruby>太平洋戦争<rt>たいへいようせんそう</rt></ruby></span>の<ruby>終<rt>お</rt></ruby>わりごろ、<ruby>読谷村<rt>よみたんそん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちがこの<span\
+  \ style=\"color: blue;\"><ruby>穴<rt>あな</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>に<ruby>逃<rt>に</rt></ruby>げたあと<span\
+  \ style=\"color: blue;\"><ruby>自殺<rt>じさつ</rt></ruby></span>して、８３<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p>チビチリガマで１２<ruby>日<rt>にち</rt></ruby>、<span style=\"color: blue;\"><ruby>穴<rt>あな</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>にあった<span\
+  \ style=\"color: blue;\"><ruby>折<rt>お</rt></ruby>り<ruby>紙<rt>がみ</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>鶴<rt>つる</rt></ruby></span>や<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>の<ruby>物<rt>もの</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>されているのが<ruby>見<rt>み</rt></ruby>つかりました。<span\
+  \ style=\"color: blue;\"><ruby>折<rt>お</rt></ruby>り<ruby>紙<rt>がみ</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>鶴<rt>つる</rt></ruby></span>は、<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>のために<ruby>祈<rt>いの</rt></ruby>って<ruby>作<rt>つく</rt></ruby>った<ruby>物<rt>もの</rt></ruby>です。<ruby>警察<rt>けいさつ</rt></ruby>は、<ruby>沖縄県<rt>おきなわけん</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる１６<ruby>歳<rt>さい</rt></ruby>〜１９<ruby>歳<rt>さい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>少年<rt>しょうねん</rt></ruby></span>４<ruby>人<rt>にん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>逮捕<rt>たいほ</rt></ruby></span>しました。</p>\n<p><ruby>警察<rt>けいさつ</rt></ruby>によると、<span\
+  \ style=\"color: blue;\"><ruby>少年<rt>しょうねん</rt></ruby></span>のほとんどが「<ruby>遊<rt>あそ</rt></ruby>びでやった」とか、<ruby>戦争<rt>せんそう</rt></ruby>のときこの<span\
+  \ style=\"color: blue;\"><ruby>穴<rt>あな</rt></ruby></span>で<ruby>何<rt>なに</rt></ruby>があったかについて「よく<ruby>知<rt>し</rt></ruby>らなかった」などと<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p>チビチリガマで<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>平和<rt>へいわ</rt></ruby></span>の<ruby>大切<rt>たいせつ</rt></ruby>さをどうやって<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>に<ruby>教<rt>おし</rt></ruby>えていくか、<ruby>考<rt>かんが</rt></ruby>えなければならないと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 自殺
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>絶</rb><rt>た</rt></ruby>つこと。<ruby><rb>自害</rb><rt>じがい</rt></ruby>。
+- word: 穴
+  descriptions:
+  - くぼんだ<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+  - <ruby><rb>向</rb><rt>む</rt></ruby>こうまでつきぬけている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>弱</rb><rt>よわ</rt></ruby>いところ。
+  - <ruby><rb>損</rb><rt>そん</rt></ruby>。<ruby><rb>不足</rb><rt>ふそく</rt></ruby>。
+- word: 太平洋戦争
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>のうち、１９４１<ruby><rb>年</rb><rt>ねん</rt></ruby>から１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>まで、<ruby><rb>太平洋地域</rb><rt>たいへいようちいき</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われた<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>と、アメリカ・イギリスなどの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>との<ruby><rb>戦</rb><rt>たたか</rt></ruby>いで、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>が<ruby><rb>敗</rb><rt>やぶ</rt></ruby>れて<ruby><rb>終</rb><rt>お</rt></ruby>わった。
+- word: 折り紙
+  descriptions:
+  - <ruby><rb>色紙</rb><rt>いろがみ</rt></ruby>を<ruby><rb>折</rb><rt>お</rt></ruby>って、いろいろな<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>遊</rb><rt>あそ</rt></ruby>び。また、その<ruby><rb>紙</rb><rt>かみ</rt></ruby>。
+- word: 鶴
+  descriptions:
+  - <ruby><rb>水辺</rb><rt>みずべ</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らす<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>渡</rb><rt>わた</rt></ruby>り<ruby><rb>鳥</rb><rt>どり</rt></ruby>。<ruby><rb>首</rb><rt>くび</rt></ruby>と<ruby><rb>足</rb><rt>あし</rt></ruby>とくちばしが<ruby><rb>長</rb><rt>なが</rt></ruby>い。<ruby><rb>昔</rb><rt>むかし</rt></ruby>から、めでたい<ruby><rb>鳥</rb><rt>とり</rt></ruby>として<ruby><rb>知</rb><rt>し</rt></ruby>られている。
+- word: 少年
+  descriptions:
+  - <ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。
+- word: 逮捕
+  descriptions:
+  - <ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>がつかまえること。
+- word: 平和
+  descriptions:
+  - おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。
+web_news_url: /news/web/2017/09/19/チビチリガマ荒し-逮捕の少年歴史を詳しく知らず/
+source_url: http://www3.nhk.or.jp/news/easy/k10011147741000/k10011147741000.html
+...

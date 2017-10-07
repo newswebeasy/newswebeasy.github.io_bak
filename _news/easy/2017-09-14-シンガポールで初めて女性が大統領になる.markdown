@@ -1,0 +1,70 @@
+---
+layout: easy_news
+newsid: k10011137831000
+categories: easy
+title: シンガポールで初めて女性が大統領になる
+title_with_ruby: シンガポールで<ruby>初<rt>はじ</rt></ruby>めて<ruby>女性<rt>じょせい</rt></ruby>が<ruby>大統領<rt>だいとうりょう</rt></ruby>になる
+last_modified_at: '2017-09-14T16:30:00+09:00'
+datetime: 2017年09月14日 16時30分
+description: シンガポールでは１３日にちから大統領だいとうりょうを選えらぶ選挙せんきょがあって、ハリマ・ヤコブさんが大統領だいとうりょうになることが決きまりました。
+description_with_ruby: シンガポールでは１３<ruby>日<rt>にち</rt></ruby>から<ruby>大統領<rt>だいとうりょう</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ<ruby>選挙<rt>せんきょ</rt></ruby>があって、ハリマ・ヤコブさんが<ruby>大統領<rt>だいとうりょう</rt></ruby>になることが<ruby>決<rt>き</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/14/k10011137831000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/14/k10011137831000.mp3
+contents: "<p>シンガポールでは１３<ruby>日<rt>にち</rt></ruby>から<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>を<ruby>選<rt>えら</rt></ruby>ぶ<span\
+  \ style=\"color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>があって、ハリマ・ヤコブさんが<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>になることが<ruby>決<rt>き</rt></ruby>まりました。ハリマさんは６３<ruby>歳<rt>さい</rt></ruby>で、シンガポールの<span\
+  \ style=\"color: blue;\"><ruby>議会<rt>ぎかい</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>議長<rt>ぎちょう</rt></ruby></span>でした。シンガポールで<ruby>初<rt>はじ</rt></ruby>めての<ruby>女性<rt>じょせい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>です。</p>\n<p>シンガポールにはいろいろな<span\
+  \ style=\"color: blue;\"><ruby>民族<rt>みんぞく</rt></ruby></span>が<ruby>住<rt>す</rt></ruby>んでいて、<ruby>国<rt>くに</rt></ruby>の<span\
+  \ style=\"color: blue;\">シンボル</span>の<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>はいろいろな<span\
+  \ style=\"color: blue;\"><ruby>民族<rt>みんぞく</rt></ruby></span>から<ruby>選<rt>えら</rt></ruby>ぶようにしています。５<ruby>回<rt>かい</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>に<ruby>選<rt>えら</rt></ruby>ばれなかった<span\
+  \ style=\"color: blue;\"><ruby>民族<rt>みんぞく</rt></ruby></span>があったら、<ruby>次<rt>つぎ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>ではその<span style=\"color:\
+  \ blue;\"><ruby>民族<rt>みんぞく</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>だけが<span\
+  \ style=\"color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>に<ruby>出<rt>で</rt></ruby>ることになっています。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby>の<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>に<ruby>出<rt>で</rt></ruby>ることができるのは、マレー<span\
+  \ style=\"color: blue;\"><ruby>系<rt>けい</rt></ruby></span>という<span style=\"color:\
+  \ blue;\"><ruby>民族<rt>みんぞく</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>だけでした。そして、<span\
+  \ style=\"color: blue;\"><ruby>条件<rt>じょうけん</rt></ruby></span>をチェックすると、ハリマさん<ruby>以外<rt>いがい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>に<ruby>出<rt>で</rt></ruby>ることができませんでした。このため、<span\
+  \ style=\"color: blue;\"><ruby>投票<rt>とうひょう</rt></ruby></span>はしないで、ハリマさんが<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>に<ruby>決<rt>き</rt></ruby>まりました。</p>\n\
+  <p>ハリマさんは「<span style=\"color: blue;\"><ruby>投票<rt>とうひょう</rt></ruby></span>がない<span\
+  \ style=\"color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>で<ruby>決<rt>き</rt></ruby>まりましたが、シンガポールの<ruby>人<rt>ひと</rt></ruby>たちみんなのために<ruby>働<rt>はたら</rt></ruby>くつもりです」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 選挙
+  descriptions:
+  - ある<ruby><rb>役目</rb><rt>やくめ</rt></ruby>につく<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>選</rb><rt>えら</rt></ruby>ぶこと。
+- word: 議会
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>に<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>について<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めをする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>の<ruby><rb>国会</rb><rt>こっかい</rt></ruby>と、<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>などの<ruby><rb>地方議会</rb><rt>ちほうぎかい</rt></ruby>とがある。
+- word: 議長
+  descriptions:
+  - <ruby><rb>会議</rb><rt>かいぎ</rt></ruby>を<ruby><rb>進</rb><rt>すす</rt></ruby>めたり、まとめたりする<ruby><rb>役</rb><rt>やく</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 民族
+  descriptions:
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>祖先</rb><rt>そせん</rt></ruby>から<ruby><rb>起</rb><rt>お</rt></ruby>こり、<ruby><rb>同</rb><rt>おな</rt></ruby>じことばや<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 象徴
+  descriptions:
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>え・<ruby><rb>気持</rb><rt>きも</rt></ruby>ちなど、<ruby><rb>目</rb><rt>め</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>えないものを、<ruby><rb>色</rb><rt>いろ</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>・<ruby><rb>形</rb><rt>かたち</rt></ruby>などにたとえて<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。シンボル。
+- word: 系
+  descriptions:
+  - つながり。つながりになったもののひとまとまり。
+  - <ruby><rb>血筋</rb><rt>ちすじ</rt></ruby>。
+- word: 条件
+  descriptions:
+  - ものごとが<ruby><rb>成</rb><rt>な</rt></ruby>り<ruby><rb>立</rb><rt>た</rt></ruby>つために<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>なことがら。
+  - あることを<ruby><rb>決</rb><rt>き</rt></ruby>めるのに、<ruby><rb>約束</rb><rt>やくそく</rt></ruby>しておくことがら。
+- word: 投票
+  descriptions:
+  - <ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>や<ruby><rb>採決</rb><rt>さいけつ</rt></ruby>で、<ruby><rb>選</rb><rt>えら</rt></ruby>びたい<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>か<ruby><rb>反対</rb><rt>はんたい</rt></ruby>かを、<ruby><rb>紙</rb><rt>かみ</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いて<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+web_news_url: /news/web/2017/09/13/シンガポールに初の女性大統領誕生へ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011137831000/k10011137831000.html
+...

@@ -1,0 +1,82 @@
+---
+layout: easy_news
+newsid: k10011141381000
+categories: easy
+title: 土星を調べる「カッシーニ」　２０年続いた仕事が終わる
+title_with_ruby: <ruby>土星<rt>どせい</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べる「カッシーニ」　２０<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>いた<ruby>仕事<rt>しごと</rt></ruby>が<ruby>終<rt>お</rt></ruby>わる
+last_modified_at: '2017-09-19T16:30:00+09:00'
+datetime: 2017年09月19日 16時30分
+description: 「カッシーニ」は、土星どせいを調しらべるためにＮＡＳＡなどが作つくった探査たんさ機きで、１９９７年ねんに地球ちきゅうを出発しゅっぱつしました。
+description_with_ruby: 「カッシーニ」は、<ruby>土星<rt>どせい</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるためにＮＡＳＡなどが<ruby>作<rt>つく</rt></ruby>った<ruby>探査<rt>たんさ</rt></ruby><ruby>機<rt>き</rt></ruby>で、１９９７<ruby>年<rt>ねん</rt></ruby>に<ruby>地球<rt>ちきゅう</rt></ruby>を<ruby>出発<rt>しゅっぱつ</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201709/news/easy/image/2017/09/19/k10011141381000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/19/k10011141381000.mp3
+contents: "<p>「カッシーニ」は、<span style=\"color: blue;\"><ruby>土星<rt>どせい</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べるために<span\
+  \ style=\"color: blue;\">ＮＡＳＡ</span>などが<ruby>作<rt>つく</rt></ruby>った<span style=\"\
+  color: blue;\"><ruby>探査<rt>たんさ</rt></ruby></span><span style=\"color: blue;\"><ruby>機<rt>き</rt></ruby></span>で、１９９７<ruby>年<rt>ねん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>を<ruby>出発<rt>しゅっぱつ</rt></ruby>しました。</p>\n\
+  <p>カッシーニは、<span style=\"color: blue;\"><ruby>土星<rt>どせい</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>輪<rt>わ</rt></ruby></span>がはっきり<ruby>見<rt>み</rt></ruby>える<ruby>写真<rt>しゃしん</rt></ruby>などを<ruby>撮<rt>と</rt></ruby>りました。<span\
+  \ style=\"color: blue;\"><ruby>土星<rt>どせい</rt></ruby></span>の<ruby>周<rt>まわ</rt></ruby>りを<ruby>回<rt>まわ</rt></ruby>っている<ruby>星<rt>ほし</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べて、<span\
+  \ style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span><ruby>以外<rt>いがい</rt></ruby>の<ruby>星<rt>ほし</rt></ruby>にとても<ruby>小<rt>ちい</rt></ruby>さな<span\
+  \ style=\"color: blue;\"><ruby>生物<rt>せいぶつ</rt></ruby></span>がいる<span style=\"color:\
+  \ blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があることもわかりました。</p>\n<p><ruby>今年<rt>ことし</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>からカッシーニは<span\
+  \ style=\"color: blue;\"><ruby>土星<rt>どせい</rt></ruby></span>と<span style=\"color:\
+  \ blue;\"><ruby>輪<rt>わ</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>土星<rt>どせい</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>大気<rt>たいき</rt></ruby></span>の<ruby>大<rt>おお</rt></ruby>きな<span style=\"\
+  color: blue;\"><ruby>渦<rt>うず</rt></ruby></span>を<ruby>撮<rt>と</rt></ruby>りました。</p>\n\
+  <p>カッシーニは<ruby>今月<rt>こんげつ</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>が<ruby>終<rt>お</rt></ruby>わる<ruby>予定<rt>よてい</rt></ruby>でした。そのあと<span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>のごみにならないように、<span style=\"\
+  color: blue;\"><ruby>土星<rt>どせい</rt></ruby></span>の<span style=\"color: blue;\"><ruby>大気<rt>たいき</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>燃<rt>も</rt></ruby>え</span>てなくなることになっていました。９<ruby>月<rt>がつ</rt></ruby>１５<ruby>日<rt>にち</rt></ruby>、カッシーニから<span\
+  \ style=\"color: blue;\">ＮＡＳＡ</span>に<ruby>連絡<rt>れんらく</rt></ruby>が<ruby>来<rt>こ</rt></ruby>なくなって、２０<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>いたカッシーニの<ruby>仕事<rt>しごと</rt></ruby>が<ruby>終<rt>お</rt></ruby>わりました。</p>\n\
+  <p></p>\n<p></p>\n<p></p>"
+words:
+- word: 土星
+  descriptions:
+  - <ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>６番</rb><rt>ろくばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>星</rb><rt>ほし</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まりが<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>っているので、<ruby><rb>輪</rb><rt>わ</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれたように<ruby><rb>見</rb><rt>み</rt></ruby>える。
+- word: NASA
+  descriptions:
+  - <ruby><rb>宇宙開発</rb><rt>うちゅうかいはつ</rt></ruby>のために<ruby><rb>作</rb><rt>つく</rt></ruby>られた、アメリカ<ruby><rb>政府</rb><rt>せいふ</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>。スペースシャトルの<ruby><rb>開発</rb><rt>かいはつ</rt></ruby>などをする。
+- word: 探査
+  descriptions:
+  - <ruby><rb>探</rb><rt>さが</rt></ruby>して<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: 機
+  descriptions:
+  - <ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。
+  - とき。きっかけ。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>動</rb><rt>うご</rt></ruby>き。
+  - はたらき。
+  - だいじな<ruby><rb>点</rb><rt>てん</rt></ruby>。
+  - 「<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。また、<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>３番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: 輪
+  descriptions:
+  - <ruby><rb>円</rb><rt>まる</rt></ruby>い<ruby><rb>形</rb><rt>かたち</rt></ruby>。
+  - じくの<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>って、<ruby><rb>車</rb><rt>くるま</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かすもの。<ruby><rb>車輪</rb><rt>しゃりん</rt></ruby>。
+- word: 生物
+  descriptions:
+  - <ruby><rb>命</rb><rt>いのち</rt></ruby>のあるもの。<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>と<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 大気
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>巻</rb><rt>ま</rt></ruby>く<ruby><rb>空気</rb><rt>くうき</rt></ruby>。
+- word: 渦
+  descriptions:
+  - ぐるぐると<ruby><rb>巻</rb><rt>ま</rt></ruby>きこむように<ruby><rb>回</rb><rt>まわ</rt></ruby>る、<ruby><rb>水</rb><rt>みず</rt></ruby>や<ruby><rb>空気</rb><rt>くうき</rt></ruby>の<ruby><rb>流</rb><rt>なが</rt></ruby>れ。<ruby><rb>渦巻</rb><rt>うずま</rt></ruby>き。
+  - ごみごみとした、<ruby><rb>目</rb><rt>め</rt></ruby>まぐるしい<ruby><rb>動</rb><rt>うご</rt></ruby>き。
+- word: 宇宙
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。
+- word: 燃える
+  descriptions:
+  - <ruby><rb>火</rb><rt>ひ</rt></ruby>がついて、ほのおが<ruby><rb>上</rb><rt>あ</rt></ruby>がる。
+  - <ruby><rb>燃</rb><rt>も</rt></ruby>えているようなようすになる。
+  - その<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが、さかんに<ruby><rb>起</rb><rt>お</rt></ruby>こる。
+web_news_url: /news/web/2017/09/15/土星探査機カッシーニ-燃え尽きて20年間の任務終了/
+source_url: http://www3.nhk.or.jp/news/easy/k10011141381000/k10011141381000.html
+...

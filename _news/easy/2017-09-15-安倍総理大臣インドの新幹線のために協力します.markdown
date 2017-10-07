@@ -1,0 +1,55 @@
+---
+layout: easy_news
+newsid: k10011139031000
+categories: easy
+title: 安倍総理大臣「インドの新幹線のために協力します」
+title_with_ruby: <ruby>安倍<rt>あべ</rt></ruby><ruby>総理大臣<rt>そうりだいじん</rt></ruby>「インドの<ruby>新幹線<rt>しんかんせん</rt></ruby>のために<ruby>協力<rt>きょうりょく</rt></ruby>します」
+last_modified_at: '2017-09-15T16:50:00+09:00'
+datetime: 2017年09月15日 16時50分
+description: インドの政府せいふは２０２３年ねんに、ムンバイとアーメダバードの間あいだに、日本にっぽんの新幹線しんかんせんの技術ぎじゅつを使つかった新あたらしい鉄道てつどうを作つくることを計画けいかくしています。
+description_with_ruby: インドの<ruby>政府<rt>せいふ</rt></ruby>は２０２３<ruby>年<rt>ねん</rt></ruby>に、ムンバイとアーメダバードの<ruby>間<rt>あいだ</rt></ruby>に、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>新<rt>あたら</rt></ruby>しい<ruby>鉄道<rt>てつどう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ることを<ruby>計画<rt>けいかく</rt></ruby>しています。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/15/k10011139031000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/15/k10011139031000.mp3
+contents: "<p>インドの<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は２０２３<ruby>年<rt>ねん</rt></ruby>に、ムンバイとアーメダバードの<ruby>間<rt>あいだ</rt></ruby>に、<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>の<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>鉄道<rt>てつどう</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>ることを<ruby>計画<rt>けいかく</rt></ruby>しています。<span\
+  \ style=\"color: blue;\"><ruby>鉄道<rt>てつどう</rt></ruby></span>の<ruby>長<rt>なが</rt></ruby>さは<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>５００ｋｍです。</p>\n<p>インドに<ruby>行<rt>い</rt></ruby>っていた<ruby>安倍<rt>あべ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>は<ruby>１４日<rt>じゅうよっか</rt></ruby>、アーメダバードで、<ruby>運転<rt>うんてん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>研修<rt>けんしゅう</rt></ruby></span>などを<ruby>行<rt>おこな</rt></ruby>う<ruby>建物<rt>たてもの</rt></ruby>を<ruby>建<rt>た</rt></ruby>てる<ruby>式<rt>しき</rt></ruby>に、モディ<ruby>首相<rt>しゅしょう</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>出席<rt>しゅっせき</rt></ruby>しました。</p>\n\
+  <p><ruby>安倍<rt>あべ</rt></ruby><span style=\"color: blue;\"><ruby>総理大臣<rt>そうりだいじん</rt></ruby></span>は<ruby>式<rt>しき</rt></ruby>で「モディ<ruby>首相<rt>しゅしょう</rt></ruby>は、<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>鉄道<rt>てつどう</rt></ruby></span>に<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>の<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うことを<ruby>決<rt>き</rt></ruby>めました。<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>と<ruby>会社<rt>かいしゃ</rt></ruby>はみんなでモディ<ruby>首相<rt>しゅしょう</rt></ruby>の<ruby>計画<rt>けいかく</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>します」とあいさつしました。そして「インドの<ruby>人<rt>ひと</rt></ruby>のために、インドのいろいろな<ruby>所<rt>ところ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>を<ruby>走<rt>はし</rt></ruby>らせることができるようにがんばります」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>インドでは、ほかにも<ruby>新<rt>あたら</rt></ruby>しい<span style=\"color: blue;\"><ruby>鉄道<rt>てつどう</rt></ruby></span>を６つ<ruby>作<rt>つく</rt></ruby>る<ruby>計画<rt>けいかく</rt></ruby>があります。</p>\n\
+  <p></p>"
+words:
+- word: 総理大臣
+  descriptions:
+  - <ruby><rb>内閣総理大臣</rb><rt>ないかくそうりだいじん</rt></ruby>のこと。<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>の<ruby><rb>最高責任者</rb><rt>さいこうせきにんしゃ</rt></ruby>で、<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>選</rb><rt>えら</rt></ruby>び、<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>が<ruby><rb>認</rb><rt>みと</rt></ruby>めて<ruby><rb>決</rb><rt>き</rt></ruby>まる。<ruby><rb>首相</rb><rt>しゅしょう</rt></ruby>。<ruby><rb>総理</rb><rt>そうり</rt></ruby>。
+- word: 新幹線
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>のおもな<ruby><rb>都市</rb><rt>とし</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで、<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶための<ruby><rb>高速鉄道</rb><rt>こうそくてつどう</rt></ruby>。<ruby><rb>東海道新幹線</rb><rt>とうかいどうしんかんせん</rt></ruby>、<ruby><rb>山陽新幹線</rb><rt>さんようしんかんせん</rt></ruby>、<ruby><rb>上越新幹線</rb><rt>じょうえつしんかんせん</rt></ruby>、<ruby><rb>長野新幹線</rb><rt>ながのしんかんせん</rt></ruby>、<ruby><rb>東北新幹線</rb><rt>とうほくしんかんせん</rt></ruby>、<ruby><rb>山形新幹線</rb><rt>やまがたしんかんせん</rt></ruby>、<ruby><rb>秋田新幹線</rb><rt>あきたしんかんせん</rt></ruby>、<ruby><rb>九州新幹線</rb><rt>きゅうしゅうしんかんせん</rt></ruby>がある。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 鉄道
+  descriptions:
+  - <ruby><rb>鉄</rb><rt>てつ</rt></ruby>のレールをしいて、<ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>を<ruby><rb>走</rb><rt>はし</rt></ruby>らせる<ruby><rb>交通機関</rb><rt>こうつうきかん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、１８７２<ruby><rb>年</rb><rt>ねん</rt></ruby>（<ruby><rb>明治</rb><rt>めいじ</rt></ruby>５<ruby><rb>年</rb><rt>ねん</rt></ruby>）に<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>の<ruby><rb>新橋</rb><rt>しんばし</rt></ruby>と<ruby><rb>横浜</rb><rt>よこはま</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>初</rb><rt>はじ</rt></ruby>めて<ruby><rb>開通</rb><rt>かいつう</rt></ruby>した。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 研修
+  descriptions:
+  - <ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>や<ruby><rb>知識</rb><rt>ちしき</rt></ruby>を<ruby><rb>高</rb><rt>たか</rt></ruby>めるために、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>や<ruby><rb>実習</rb><rt>じっしゅう</rt></ruby>をすること。
+web_news_url: /news/web/2017/09/14/首相-インド全域で日本の新幹線技術採用に期待/
+source_url: http://www3.nhk.or.jp/news/easy/k10011139031000/k10011139031000.html
+...

@@ -1,0 +1,47 @@
+---
+layout: easy_news
+newsid: k10011160281000
+categories: easy
+title: 会社で働く人の１年の収入　去年は平均４２１万円
+title_with_ruby: <ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>の１<ruby>年<rt>ねん</rt></ruby>の<ruby>収入<rt>しゅうにゅう</rt></ruby>　<ruby>去年<rt>きょねん</rt></ruby>は<ruby>平均<rt>へいきん</rt></ruby>４２１<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>
+last_modified_at: '2017-10-02T11:30:00+09:00'
+datetime: 2017年10月02日 11時30分
+description: 国税庁こくぜいちょうによると、去年きょねん１年ねん続つづけて会社かいしゃで働はたらいた人ひとの収入しゅうにゅうの平均へいきんは、４２１万まん６０００円えんでした。
+description_with_ruby: <ruby>国税庁<rt>こくぜいちょう</rt></ruby>によると、<ruby>去年<rt>きょねん</rt></ruby>１<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いた<ruby>人<rt>ひと</rt></ruby>の<ruby>収入<rt>しゅうにゅう</rt></ruby>の<ruby>平均<rt>へいきん</rt></ruby>は、４２１<ruby>万<rt>まん</rt></ruby>６０００<ruby>円<rt>えん</rt></ruby>でした。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/02/k10011160281000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/02/k10011160281000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>国税庁<rt>こくぜいちょう</rt></ruby></span>によると、<ruby>去年<rt>きょねん</rt></ruby>１<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いた<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>収入<rt>しゅうにゅう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>は、４２１<ruby>万<rt>まん</rt></ruby>６０００<ruby>円<rt>えん</rt></ruby>でした。おととしに<ruby>比<rt>くら</rt></ruby>べて１<ruby>万<rt>まん</rt></ruby>２０００<ruby>円<rt>えん</rt></ruby><ruby>多<rt>おお</rt></ruby>くなって、４<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>増<rt>ふ</rt></ruby>えました。<ruby>男性<rt>だんせい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>は５２１<ruby>万<rt>まん</rt></ruby>１０００<ruby>円<rt>えん</rt></ruby>で、<ruby>女性<rt>じょせい</rt></ruby>は２７９<ruby>万<rt>まん</rt></ruby>７０００<ruby>円<rt>えん</rt></ruby>でした。</p>\n\
+  <p>パートやアルバイトで<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>は１７２<ruby>万<rt>まん</rt></ruby>１０００<ruby>円<rt>えん</rt></ruby>で、パートなどではない<ruby>正社員<rt>せいしゃいん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>は４８６<ruby>万<rt>まん</rt></ruby>９０００<ruby>円<rt>えん</rt></ruby>で、どちらも<ruby>増<rt>ふ</rt></ruby>えました。パートやアルバイトの<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>収入<rt>しゅうにゅう</rt></ruby></span>は、<ruby>正社員<rt>せいしゃいん</rt></ruby>に<ruby>比<rt>くら</rt></ruby>べて３１４<ruby>万<rt>まん</rt></ruby>８０００<ruby>円<rt>えん</rt></ruby><ruby>低<rt>ひく</rt></ruby>くて、その<span\
+  \ style=\"color: blue;\"><ruby>差<rt>さ</rt></ruby></span>は４<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>大<rt>おお</rt></ruby>きくなりました。</p>\n\
+  <p>１<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>働<rt>はたら</rt></ruby>いた<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>は４８６９<ruby>万<rt>まん</rt></ruby>１０００<ruby>人<rt>にん</rt></ruby>で、<ruby>女性<rt>じょせい</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えたことなどから<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなりました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 収入
+  descriptions:
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>が<ruby><rb>入</rb><rt>はい</rt></ruby>ること。また、そのお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+- word: 国税庁
+  descriptions:
+  - <ruby><rb>国税</rb><rt>こくぜい</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>りあつかい、また、<ruby><rb>税務署</rb><rt>ぜいむしょ</rt></ruby>を<ruby><rb>監督</rb><rt>かんとく</rt></ruby>する<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 差
+  descriptions:
+  - ちがい。へだたり。
+  - ある<ruby><rb>数</rb><rt>かず</rt></ruby>からほかの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>残</rb><rt>のこ</rt></ruby>りの<ruby><rb>数</rb><rt>かず</rt></ruby>。
+- word: 数
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。
+  - いくつもあること。たくさん。
+  - <ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。
+web_news_url: /news/web/2017/09/28/平均年収421万円余-4年連続増も格差拡大/
+source_url: http://www3.nhk.or.jp/news/easy/k10011160281000/k10011160281000.html
+...

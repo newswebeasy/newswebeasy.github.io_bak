@@ -1,0 +1,55 @@
+---
+layout: easy_news
+newsid: k10011157321000
+categories: easy
+title: 東京の渋谷　大勢の人がいるスクランブル交差点に車
+title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>渋谷<rt>しぶや</rt></ruby>　<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がいるスクランブル<ruby>交差点<rt>こうさてん</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>
+last_modified_at: '2017-09-27T16:00:00+09:00'
+datetime: 2017年09月27日 16時00分
+description: 東京とうきょうの渋谷しぶやにあるスクランブル交差点こうさてんは、一度いちどにとてもたくさんの人ひとが渡わたることで有名ゆうめいです。
+description_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>渋谷<rt>しぶや</rt></ruby>にあるスクランブル<ruby>交差点<rt>こうさてん</rt></ruby>は、<ruby>一度<rt>いちど</rt></ruby>にとてもたくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>渡<rt>わた</rt></ruby>ることで<ruby>有名<rt>ゆうめい</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/27/k10011157321000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/27/k10011157321000.mp3
+contents: "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>渋谷<rt>しぶや</rt></ruby>にある<span style=\"\
+  color: blue;\">スクランブル<ruby>交差点<rt>こうさてん</rt></ruby></span>は、<ruby>一度<rt>いちど</rt></ruby>にとてもたくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>渡<rt>わた</rt></ruby>ることで<ruby>有名<rt>ゆうめい</rt></ruby>です。<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>外国人<rt>がいこくじん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>の<ruby>場所<rt>ばしょ</rt></ruby>にもなっています。</p>\n\
+  <p>２５<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\">スクランブル<ruby>交差点<rt>こうさてん</rt></ruby></span>を<ruby>渡<rt>わた</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めたとき、１<ruby>台<rt>だい</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>が<span\
+  \ style=\"color: blue;\">スピード</span>を<ruby>出<rt>だ</rt></ruby>しながら<ruby>走<rt>はし</rt></ruby>ってきました。<ruby>歩<rt>ある</rt></ruby>いていた<ruby>人<rt>ひと</rt></ruby>たちは<ruby>急<rt>いそ</rt></ruby>いで<ruby>逃<rt>に</rt></ruby>げたため、けがをしませんでしたが、<ruby>大<rt>おお</rt></ruby>きな<ruby>事故<rt>じこ</rt></ruby>になる<ruby>危険<rt>きけん</rt></ruby>がありました。</p>\n\
+  <p>この<ruby>車<rt>くるま</rt></ruby>は<ruby>交差点<rt>こうさてん</rt></ruby>に<ruby>走<rt>はし</rt></ruby>ってくる<ruby>前<rt>まえ</rt></ruby>、<ruby>近<rt>ちか</rt></ruby>くの<ruby>道<rt>みち</rt></ruby>に<ruby>止<rt>と</rt></ruby>まっていました。<ruby>警察<rt>けいさつ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>の<ruby>運転手<rt>うんてんしゅ</rt></ruby>に<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>こうとすると、<ruby>車<rt>くるま</rt></ruby>は<ruby>走<rt>はし</rt></ruby>って<ruby>逃<rt>に</rt></ruby>げたため、<span\
+  \ style=\"color: blue;\">パトカー</span>が<span style=\"color: blue;\"><ruby>追<rt>お</rt></ruby>っ</span>ていました。</p>\n\
+  <p><ruby>警察<rt>けいさつ</rt></ruby>は、<ruby>車<rt>くるま</rt></ruby>を<span style=\"color:\
+  \ blue;\"><ruby>追<rt>お</rt></ruby>い</span><ruby>続<rt>つづ</rt></ruby>けると<ruby>危険<rt>きけん</rt></ruby>なため、<span\
+  \ style=\"color: blue;\"><ruby>追<rt>お</rt></ruby>う</span>ことをやめました。<ruby>警察<rt>けいさつ</rt></ruby>は<ruby>逃<rt>に</rt></ruby>げた<ruby>車<rt>くるま</rt></ruby>をさがしています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: スクランブル交差点
+  descriptions:
+  - <ruby><rb>歩行者</rb><rt>ほこうしゃ</rt></ruby>がどの<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>にも<ruby><rb>自由</rb><rt>じゆう</rt></ruby>に<ruby><rb>横断</rb><rt>おうだん</rt></ruby>できるように、<ruby><rb>信号</rb><rt>しんごう</rt></ruby>ですべての<ruby><rb>車</rb><rt>くるま</rt></ruby>を<ruby><rb>止</rb><rt>と</rt></ruby>めるようにした<ruby><rb>交差点</rb><rt>こうさてん</rt></ruby>。スクランブル。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: スピード
+  descriptions:
+  - <ruby><rb>速</rb><rt>はや</rt></ruby>さ。<ruby><rb>速力</rb><rt>そくりょく</rt></ruby>。
+- word: パトカー
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>のパトロールカーの<ruby><rb>略。</rb><rt>りゃく</rt></ruby><ruby><rb>見回</rb><rt>みまわ</rt></ruby>りをしたり<ruby><rb>事件</rb><rt>じけん</rt></ruby>の<ruby><rb>現場</rb><rt>げんば</rt></ruby>に<ruby><rb>急</rb><rt>いそ</rt></ruby>いだりするのに<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>の<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。
+- word: 追う
+  descriptions:
+  - <ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>所</rb><rt>ところ</rt></ruby>へ、<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>着</rb><rt>つ</rt></ruby>こうとする。
+  - <ruby><rb>無理</rb><rt>むり</rt></ruby>にほかの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>へ<ruby><rb>行</rb><rt>い</rt></ruby>かせる。
+  - <ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>に<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>進</rb><rt>すす</rt></ruby>む。
+- word: 追う
+  descriptions:
+  - <ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>所</rb><rt>ところ</rt></ruby>へ、<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>着</rb><rt>つ</rt></ruby>こうとする。
+  - <ruby><rb>無理</rb><rt>むり</rt></ruby>にほかの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>へ<ruby><rb>行</rb><rt>い</rt></ruby>かせる。
+  - <ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>に<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>進</rb><rt>すす</rt></ruby>む。
+- word: 追う
+  descriptions:
+  - <ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>所</rb><rt>ところ</rt></ruby>へ、<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>着</rb><rt>つ</rt></ruby>こうとする。
+  - <ruby><rb>無理</rb><rt>むり</rt></ruby>にほかの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>へ<ruby><rb>行</rb><rt>い</rt></ruby>かせる。
+  - <ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>に<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>進</rb><rt>すす</rt></ruby>む。
+web_news_url: /news/web/2017/09/26/渋谷スクランブル交差点に信号無視の車-あわや大事故に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011157321000/k10011157321000.html
+...

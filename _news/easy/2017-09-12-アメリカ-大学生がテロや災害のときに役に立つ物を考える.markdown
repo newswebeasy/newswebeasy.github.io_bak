@@ -1,0 +1,87 @@
+---
+layout: easy_news
+newsid: k10011135971000
+categories: easy
+title: アメリカ　大学生がテロや災害のときに役に立つ物を考える
+title_with_ruby: アメリカ　<ruby>大学生<rt>だいがくせい</rt></ruby>がテロや<ruby>災害<rt>さいがい</rt></ruby>のときに<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ<ruby>物<rt>もの</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>える
+last_modified_at: '2017-09-12T16:20:00+09:00'
+datetime: 2017年09月12日 16時20分
+description: ９月がつ１１日にち、アメリカのニューヨークのビルなどに飛行機ひこうきが突つっ込こむテロが起おこってから１６年ねんになりました。
+description_with_ruby: ９<ruby>月<rt>がつ</rt></ruby>１１<ruby>日<rt>にち</rt></ruby>、アメリカのニューヨークのビルなどに<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>突<rt>つ</rt></ruby>っ<ruby>込<rt>こ</rt></ruby>むテロが<ruby>起<rt>お</rt></ruby>こってから１６<ruby>年<rt>ねん</rt></ruby>になりました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/12/k10011135971000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/12/k10011135971000.mp3
+contents: "<p>９<ruby>月<rt>がつ</rt></ruby>１１<ruby>日<rt>にち</rt></ruby>、アメリカのニューヨークのビルなどに<ruby>飛行機<rt>ひこうき</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>突<rt>つ</rt></ruby>っ<ruby>込<rt>こ</rt></ruby>む</span><span\
+  \ style=\"color: blue;\">テロ</span>が<span style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こっ</span>てから１６<ruby>年<rt>ねん</rt></ruby>になりました。ニューヨークにあるパーソンズ<ruby>美術<rt>びじゅつ</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>では、<ruby>学生<rt>がくせい</rt></ruby>たちが<span\
+  \ style=\"color: blue;\">テロ</span>や<span style=\"color: blue;\"><ruby>災害<rt>さいがい</rt></ruby></span>のときに<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ<ruby>物<rt>もの</rt></ruby>の<span\
+  \ style=\"color: blue;\">デザイン</span>を<ruby>考<rt>かんが</rt></ruby>えることになりました。</p>\n\
+  <p>１９９５<ruby>年<rt>ねん</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>があった<ruby>神戸市<rt>こうべし</rt></ruby>の<span\
+  \ style=\"color: blue;\">ＮＰＯ</span>も<span style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>しています。<span\
+  \ style=\"color: blue;\">ＮＰＯ</span>の<ruby>人<rt>ひと</rt></ruby>は１１<ruby>日<rt>にち</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>たちが<ruby>考<rt>かんが</rt></ruby>えた<span\
+  \ style=\"color: blue;\"><ruby>包帯<rt>ほうたい</rt></ruby></span>や<span style=\"color:\
+  \ blue;\">マスク</span>になる<span style=\"color: blue;\"><ruby>布<rt>ぬの</rt></ruby></span>や、<span\
+  \ style=\"color: blue;\">ギプス</span>の<ruby>代<rt>か</rt></ruby>わりになる<span style=\"\
+  color: blue;\"><ruby>袋<rt>ふくろ</rt></ruby></span>などを<ruby>学生<rt>がくせい</rt></ruby>たちに<ruby>紹介<rt>しょうかい</rt></ruby>しました。</p>\n\
+  <p><ruby>学生<rt>がくせい</rt></ruby>たちはニューヨークでどんな<ruby>物<rt>もの</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>か<ruby>調<rt>しら</rt></ruby>べて、<span\
+  \ style=\"color: blue;\">デザイン</span>を<ruby>考<rt>かんが</rt></ruby>えて<ruby>作<rt>つく</rt></ruby>った<ruby>物<rt>もの</rt></ruby>を<ruby>来年<rt>らいねん</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>する<ruby>予定<rt>よてい</rt></ruby>です。<ruby>学生<rt>がくせい</rt></ruby>は「お<span\
+  \ style=\"color: blue;\"><ruby>年寄<rt>としよ</rt></ruby>り</span>や<ruby>子<rt>こ</rt></ruby>どもの<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ<span\
+  \ style=\"color: blue;\">デザイン</span>を<ruby>考<rt>かんが</rt></ruby>えたいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: テロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: 災害
+  descriptions:
+  - <ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。
+- word: 突っ込む
+  descriptions:
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>入</rb><rt>はい</rt></ruby>りこむ。
+  - <ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る。
+  - ものごとにかかわる。<ruby><rb>関係</rb><rt>かんけい</rt></ruby>する。
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れる。
+- word: 起こる
+  descriptions:
+  - <ruby><rb>始</rb><rt>はじ</rt></ruby>まる。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。
+- word: デザイン
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。
+  - <ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。
+- word: NPO
+  descriptions:
+  - <ruby><rb>営利</rb><rt>えいり</rt></ruby>を<ruby><rb>目的</rb><rt>もくてき</rt></ruby>とせずに<ruby><rb>社会的</rb><rt>しゃかいてき</rt></ruby>な<ruby><rb>活動</rb><rt>かつどう</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+- word: 包帯
+  descriptions:
+  - <ruby><rb>傷口</rb><rt>きずぐち</rt></ruby>などをおおうために<ruby><rb>巻</rb><rt>ま</rt></ruby>く、<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>いきれ。
+- word: マスク
+  descriptions:
+  - お<ruby><rb>面</rb><rt>めん</rt></ruby>。<ruby><rb>仮面</rb><rt>かめん</rt></ruby>。
+  - ほこりなどを<ruby><rb>吸</rb><rt>す</rt></ruby>わないように、<ruby><rb>口</rb><rt>くち</rt></ruby>や<ruby><rb>鼻</rb><rt>はな</rt></ruby>をおおう<ruby><rb>布</rb><rt>ぬの</rt></ruby>。
+  - ガスなどを<ruby><rb>吸</rb><rt>す</rt></ruby>わないように、<ruby><rb>消防士</rb><rt>しょうぼうし</rt></ruby>などが<ruby><rb>顔</rb><rt>かお</rt></ruby>につけるお<ruby><rb>面</rb><rt>めん</rt></ruby>。<ruby><rb>防毒面</rb><rt>ぼうどくめん</rt></ruby>。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、キャッチャーや<ruby><rb>球審</rb><rt>きゅうしん</rt></ruby>がかぶるもの。
+  - <ruby><rb>顔</rb><rt>かお</rt></ruby>。<ruby><rb>顔</rb><rt>かお</rt></ruby>だち。
+- word: 布
+  descriptions:
+  - <ruby><rb>糸</rb><rt>いと</rt></ruby>で<ruby><rb>織</rb><rt>お</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>織物</rb><rt>おりもの</rt></ruby>。きれ。
+- word: ギプス
+  descriptions:
+  - <ruby><rb>包帯</rb><rt>ほうたい</rt></ruby>に<ruby><rb>石</rb><rt>せっ</rt></ruby>こうをぬって<ruby><rb>固</rb><rt>かた</rt></ruby>めたもの。<ruby><rb>骨</rb><rt>ほね</rt></ruby>が<ruby><rb>折</rb><rt>お</rt></ruby>れたりしたとき、そこが<ruby><rb>動</rb><rt>うご</rt></ruby>かないようにする。ギブス。
+- word: 袋
+  descriptions:
+  - <ruby><rb>紙</rb><rt>かみ</rt></ruby>や<ruby><rb>布</rb><rt>ぬの</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて、<ruby><rb>口</rb><rt>くち</rt></ruby>をしめるようにした<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+  - 「<span class="dic_sansyogogi">1)</span>」に<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>形</rb><rt>かたち</rt></ruby>のもの。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 年寄り
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。
+  - <ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+web_news_url: /news/web/2017/09/12/NYで美術大学生が防災用品などのデザイン制作/
+source_url: http://www3.nhk.or.jp/news/easy/k10011135971000/k10011135971000.html
+...

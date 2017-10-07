@@ -1,0 +1,41 @@
+---
+layout: easy_news
+newsid: k10011156771000
+categories: easy
+title: 旅行に来た外国人が高速道路を安く利用できるようにする
+title_with_ruby: <ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>高速道路<rt>こうそくどうろ</rt></ruby>を<ruby>安<rt>やす</rt></ruby>く<ruby>利用<rt>りよう</rt></ruby>できるようにする
+last_modified_at: '2017-09-29T11:30:00+09:00'
+datetime: 2017年09月29日 11時30分
+description: 日本にっぽんへ旅行りょこうに来きて、レンタカーを借かりる外国人がいこくじんが増ふえていて、２０１５年ねんには７０万まん５０００人にんぐらいがレンタカーを借かりたと言いわれています。
+description_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、レンタカーを<ruby>借<rt>か</rt></ruby>りる<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えていて、２０１５<ruby>年<rt>ねん</rt></ruby>には７０<ruby>万<rt>まん</rt></ruby>５０００<ruby>人<rt>にん</rt></ruby>ぐらいがレンタカーを<ruby>借<rt>か</rt></ruby>りたと<ruby>言<rt>い</rt></ruby>われています。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/29/k10011156771000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/29/k10011156771000.mp3
+contents: "<p><ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、<span\
+  \ style=\"color: blue;\">レンタカー</span>を<ruby>借<rt>か</rt></ruby>りる<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えていて、２０１５<ruby>年<rt>ねん</rt></ruby>には７０<ruby>万<rt>まん</rt></ruby>５０００<ruby>人<rt>にん</rt></ruby>ぐらいが<span\
+  \ style=\"color: blue;\">レンタカー</span>を<ruby>借<rt>か</rt></ruby>りたと<ruby>言<rt>い</rt></ruby>われています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>高速道路<rt>こうそくどうろ</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>などは、<span\
+  \ style=\"color: blue;\">レンタカー</span>を<ruby>借<rt>か</rt></ruby>りた<ruby>外国人<rt>がいこくじん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>高速道路<rt>こうそくどうろ</rt></ruby></span>を<ruby>安<rt>やす</rt></ruby>く<ruby>利用<rt>りよう</rt></ruby>できる<span\
+  \ style=\"color: blue;\">サービス</span>を<ruby>来月<rt>らいげつ</rt></ruby>１３<ruby>日<rt>にち</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めることにしました。<ruby>利用<rt>りよう</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>は、７つの<span\
+  \ style=\"color: blue;\">レンタカー</span>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>などで<span\
+  \ style=\"color: blue;\"><ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>み</span>ます。２<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>払<rt>はら</rt></ruby>ったら１<ruby>週間<rt>しゅうかん</rt></ruby>、３<ruby>万<rt>まん</rt></ruby>４０００<ruby>円<rt>えん</rt></ruby><ruby>払<rt>はら</rt></ruby>ったら２<ruby>週間<rt>しゅうかん</rt></ruby>、ほとんどの<span\
+  \ style=\"color: blue;\"><ruby>高速道路<rt>こうそくどうろ</rt></ruby></span>を<ruby>自由<rt>じゆう</rt></ruby>に<ruby>利用<rt>りよう</rt></ruby>できます。</p>\n\
+  <p>インターネットには「<span style=\"color: blue;\"><ruby>高速道路<rt>こうそくどうろ</rt></ruby></span>を<ruby>利用<rt>りよう</rt></ruby>して、<ruby>外国人<rt>がいこくじん</rt></ruby>にもっといろいろな<ruby>所<rt>ところ</rt></ruby>に<ruby>行<rt>い</rt></ruby>ってほしい」とか「<ruby>外国人<rt>がいこくじん</rt></ruby>だけ<ruby>安<rt>やす</rt></ruby>くなるのはおかしい」「<ruby>事故<rt>じこ</rt></ruby>が<ruby>心配<rt>しんぱい</rt></ruby>だ」などの<ruby>意見<rt>いけん</rt></ruby>が<ruby>出<rt>で</rt></ruby>ています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 高速道路
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>が<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>走</rb><rt>はし</rt></ruby>れるように、<ruby><rb>立体交差</rb><rt>りったいこうさ</rt></ruby>にしたり、<ruby><rb>上</rb><rt>のぼ</rt></ruby>り<ruby><rb>下</rb><rt>くだ</rt></ruby>りを<ruby><rb>分</rb><rt>わ</rt></ruby>けたりした<ruby><rb>道路</rb><rt>どうろ</rt></ruby>。ハイウエー。
+- word: レンタカー
+  descriptions:
+  - <ruby><rb>貸</rb><rt>か</rt></ruby>し<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: 申し込む
+  descriptions:
+  - <ruby><rb>望</rb><rt>のぞ</rt></ruby>みを、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>申</rb><rt>もう</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れる。
+web_news_url: /news/web/2017/09/26/一定料金で高速道路乗り放題-外国人向けサービスを来月から/
+source_url: http://www3.nhk.or.jp/news/easy/k10011156771000/k10011156771000.html
+...

@@ -1,0 +1,55 @@
+---
+layout: easy_news
+newsid: k10011167531000
+categories: easy
+title: 岩手県　サンマがとれなくて缶詰の工場を閉める
+title_with_ruby: <ruby>岩手県<rt>いわてけん</rt></ruby>　サンマがとれなくて<ruby>缶詰<rt>かんづめ</rt></ruby>の<ruby>工場<rt>こうじょう</rt></ruby>を<ruby>閉<rt>し</rt></ruby>める
+last_modified_at: '2017-10-05T17:40:00+09:00'
+datetime: 2017年10月05日 17時40分
+description: 最近さいきん、日本にっぽんの海うみでサンマがあまりとれません。
+description_with_ruby: <ruby>最近<rt>さいきん</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>でサンマがあまりとれません。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/05/k10011167531000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/05/k10011167531000.mp3
+contents: "<p><ruby>最近<rt>さいきん</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<span\
+  \ style=\"color: blue;\">サンマ</span>があまり<span style=\"color: blue;\">とれ</span>ません。<ruby>岩手県<rt>いわてけん</rt></ruby>でも、<ruby>今年<rt>ことし</rt></ruby><ruby>港<rt>みなと</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>届<rt>とど</rt></ruby>い</span>た<span style=\"color:\
+  \ blue;\">サンマ</span>は９<ruby>月<rt>がつ</rt></ruby>までに１５８０<span style=\"color: blue;\"\
+  >ｔ</span>ぐらいで、１９９４<ruby>年<rt>ねん</rt></ruby>から<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>少<rt>すく</rt></ruby>なくなっています。</p>\n\
+  <p><span style=\"color: blue;\">サンマ</span>の<span style=\"color: blue;\"><ruby>缶詰<rt>かんづめ</rt></ruby></span>などを<ruby>作<rt>つく</rt></ruby>っている<ruby>岩手県<rt>いわてけん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は、<span\
+  \ style=\"color: blue;\">サンマ</span>が<ruby>足<rt>た</rt></ruby>りないため、<ruby>宮古市<rt>みやこし</rt></ruby>にある<ruby>工場<rt>こうじょう</rt></ruby>を１１<ruby>月<rt>がつ</rt></ruby>から<ruby>閉<rt>し</rt></ruby>めて<ruby>休<rt>やす</rt></ruby>むことにしました。この<ruby>工場<rt>こうじょう</rt></ruby>では８８<ruby>人<rt>にん</rt></ruby>が<ruby>働<rt>はたら</rt></ruby>いていましたが、その<ruby>中<rt>なか</rt></ruby>の７６<ruby>人<rt>にん</rt></ruby>が<ruby>工場<rt>こうじょう</rt></ruby>を<span\
+  \ style=\"color: blue;\">やめ</span>ます。</p>\n<p><ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>岩手県<rt>いわてけん</rt></ruby>にあるほかの<ruby>工場<rt>こうじょう</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けると<ruby>言<rt>い</rt></ruby>っています。そして「<span\
+  \ style=\"color: blue;\">サンマ</span>が<span style=\"color: blue;\">とれる</span>ようになったら、<ruby>工場<rt>こうじょう</rt></ruby>をまた<ruby>始<rt>はじ</rt></ruby>めることができるように<ruby>頑張<rt>がんば</rt></ruby>りたいです」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 秋刀魚
+  descriptions:
+  - <ruby><rb>冷</rb><rt>つめ</rt></ruby>たい<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くとれる。
+- word: 捕れる
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+  - とることができる。
+- word: 缶詰
+  descriptions:
+  - <ruby><rb>加工</rb><rt>かこう</rt></ruby>した<ruby><rb>食品</rb><rt>しょくひん</rt></ruby>を<ruby><rb>缶</rb><rt>かん</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>長持</rb><rt>ながも</rt></ruby>ちするようにしたもの。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>部屋</rb><rt>へや</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>などに<ruby><rb>閉</rb><rt>と</rt></ruby>じこめること。
+- word: 届く
+  descriptions:
+  - <ruby><rb>送</rb><rt>おく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>着</rb><rt>つ</rt></ruby>く。
+  - のばしたものが、つく。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>いなどがかなう。
+- word: トン
+  descriptions:
+  - メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。１トンは、１０００キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+  - <ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: 辞める
+  descriptions:
+  - <ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。
+- word: 捕れる
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+  - とることができる。
+web_news_url: /news/web/2017/10/04/サンマ不漁で缶詰工場休止へ-岩手-宮古/
+source_url: http://www3.nhk.or.jp/news/easy/k10011167531000/k10011167531000.html
+...

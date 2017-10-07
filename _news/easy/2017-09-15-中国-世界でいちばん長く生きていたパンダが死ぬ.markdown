@@ -1,0 +1,46 @@
+---
+layout: easy_news
+newsid: k10011139051000
+categories: easy
+title: 中国　世界でいちばん長く生きていたパンダが死ぬ
+title_with_ruby: <ruby>中国<rt>ちゅうごく</rt></ruby>　<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>長<rt>なが</rt></ruby>く<ruby>生<rt>い</rt></ruby>きていたパンダが<ruby>死<rt>し</rt></ruby>ぬ
+last_modified_at: '2017-09-15T16:50:00+09:00'
+datetime: 2017年09月15日 16時50分
+description: １３日にち、中国ちゅうごくの福建省ふっけんしょうにあるパンダ研究けんきゅうセンターで、３７歳さいのメスのパンダの「バス」が、年としをとったため死しにました。
+description_with_ruby: １３<ruby>日<rt>にち</rt></ruby>、<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>福建省<rt>ふっけんしょう</rt></ruby>にあるパンダ<ruby>研究<rt>けんきゅう</rt></ruby>センターで、３７<ruby>歳<rt>さい</rt></ruby>のメスのパンダの「バス」が、<ruby>年<rt>とし</rt></ruby>をとったため<ruby>死<rt>し</rt></ruby>にました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/15/k10011139051000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/15/k10011139051000.mp3
+contents: "<p>１３<ruby>日<rt>にち</rt></ruby>、<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>福建省<rt>ふっけんしょう</rt></ruby>にあるパンダ<ruby>研究<rt>けんきゅう</rt></ruby>センターで、３７<ruby>歳<rt>さい</rt></ruby>の<span\
+  \ style=\"color: blue;\">メス</span>の<span style=\"color: blue;\">パンダ</span>の「バス」が、<ruby>年<rt>とし</rt></ruby>をとったため<ruby>死<rt>し</rt></ruby>にました。</p>\n\
+  <p>バスは、<ruby>今年<rt>ことし</rt></ruby>１<ruby>月<rt>がつ</rt></ruby>に「<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>長<rt>なが</rt></ruby>く<ruby>生<rt>い</rt></ruby>きている<span\
+  \ style=\"color: blue;\">パンダ</span>」というギネスの<span style=\"color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>になりました。<ruby>人<rt>ひと</rt></ruby>の<ruby>年<rt>とし</rt></ruby>にすると１００<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>です。バスは<ruby>自転車<rt>じてんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ったり、ボールを<ruby>投<rt>な</rt></ruby>げたりすることができて、<ruby>世界中<rt>せかいじゅう</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>がありました。</p>\n<p>バスは、<ruby>今年<rt>ことし</rt></ruby>になってから<ruby>体<rt>からだ</rt></ruby>の<ruby>具合<rt>ぐあい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなって、７<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろには<ruby>歩<rt>ある</rt></ruby>くことができなくなりました。</p>\n\
+  <p>パンダ<ruby>研究<rt>けんきゅう</rt></ruby>センターは、バスを<span style=\"color: blue;\"><ruby>標本<rt>ひょうほん</rt></ruby></span>にして、これからもみんなが<ruby>見<rt>み</rt></ruby>ることができるようにする<ruby>予定<rt>よてい</rt></ruby>です。「バスは<ruby>私<rt>わたし</rt></ruby>たちの<ruby>心<rt>こころ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にずっと<ruby>残<rt>のこ</rt></ruby>ります。バスを<span\
+  \ style=\"color: blue;\"><ruby>愛<rt>あい</rt></ruby>し</span>てくれてありがとうございました」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>\n<p></p>"
+words:
+- word: パンダ
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中央部</rb><rt>ちゅうおうぶ</rt></ruby>にすむけもの。ジャイアントパンダとレッサーパンダがいる。
+  - <ruby><rb>特</rb><rt>とく</rt></ruby>にジャイアントパンダ。<ruby><rb>中国西部</rb><rt>ちゅうごくせいぶ</rt></ruby>の<ruby><rb>山地</rb><rt>さんち</rt></ruby>にすむ。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>に<ruby><rb>色分</rb><rt>いろわ</rt></ruby>けされて、<ruby><rb>顔</rb><rt>かお</rt></ruby>つきや<ruby><rb>動作</rb><rt>どうさ</rt></ruby>がかわいい。
+- word: 雌
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>を<ruby><rb>生</rb><rt>う</rt></ruby>む<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>があるほう。
+- word: 記録
+  descriptions:
+  - あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: 標本
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>・<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>・<ruby><rb>鉱物</rb><rt>こうぶつ</rt></ruby>などの、<ruby><rb>実物</rb><rt>じつぶつ</rt></ruby>の<ruby><rb>見本</rb><rt>みほん</rt></ruby>。サンプル。
+- word: 愛する
+  descriptions:
+  - かわいがる。
+  - <ruby><rb>好</rb><rt>す</rt></ruby>きだ。<ruby><rb>好</rb><rt>この</rt></ruby>む。
+  - <ruby><rb>大切</rb><rt>たいせつ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。
+web_news_url: /news/web/2017/09/14/中国-世界最高齢のパンダ37歳で死ぬ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011139051000/k10011139051000.html
+...

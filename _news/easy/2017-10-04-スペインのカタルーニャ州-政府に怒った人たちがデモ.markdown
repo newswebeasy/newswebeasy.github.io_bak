@@ -1,0 +1,82 @@
+---
+layout: easy_news
+newsid: k10011166931000
+categories: easy
+title: スペインのカタルーニャ州　政府に怒った人たちがデモ
+title_with_ruby: スペインのカタルーニャ<ruby>州<rt>しゅう</rt></ruby>　<ruby>政府<rt>せいふ</rt></ruby>に<ruby>怒<rt>おこ</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>たちがデモ
+last_modified_at: '2017-10-04T16:50:00+09:00'
+datetime: 2017年10月04日 16時50分
+description: スペインのカタルーニャ州しゅうで１日ついたち、スペインから独立どくりつすることに賛成さんせいか反対はんたいか、住すんでいる人ひとたちが投票とうひょうしました。
+description_with_ruby: スペインのカタルーニャ<ruby>州<rt>しゅう</rt></ruby>で<ruby>１日<rt>ついたち</rt></ruby>、スペインから<ruby>独立<rt>どくりつ</rt></ruby>することに<ruby>賛成<rt>さんせい</rt></ruby>か<ruby>反対<rt>はんたい</rt></ruby>か、<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>たちが<ruby>投票<rt>とうひょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/04/k10011166931000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/04/k10011166931000.mp3
+contents: "<p>スペインのカタルーニャ<ruby>州<rt>しゅう</rt></ruby>で<ruby>１日<rt>ついたち</rt></ruby>、スペインから<span\
+  \ style=\"color: blue;\"><ruby>独立<rt>どくりつ</rt></ruby></span>することに<span style=\"\
+  color: blue;\"><ruby>賛成<rt>さんせい</rt></ruby></span>か<ruby>反対<rt>はんたい</rt></ruby>か、<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>たちが<span\
+  \ style=\"color: blue;\"><ruby>投票<rt>とうひょう</rt></ruby></span>しました。</p>\n<p>スペインの<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、この<span style=\"color:\
+  \ blue;\"><ruby>投票<rt>とうひょう</rt></ruby></span>は<span style=\"color: blue;\"><ruby>憲法<rt>けんぽう</rt></ruby></span>に<span\
+  \ style=\"color: blue;\"><ruby>違反<rt>いはん</rt></ruby></span>していると<ruby>言<rt>い</rt></ruby>いました。このため、<span\
+  \ style=\"color: blue;\"><ruby>投票<rt>とうひょう</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>所<rt>じょ</rt></ruby></span>では<ruby>警察<rt>けいさつ</rt></ruby>が<span style=\"\
+  color: blue;\"><ruby>投票<rt>とうひょう</rt></ruby></span>を<ruby>止<rt>と</rt></ruby>めようとして、<span\
+  \ style=\"color: blue;\"><ruby>投票<rt>とうひょう</rt></ruby></span>をしようとする<ruby>人<rt>ひと</rt></ruby>たちと<span\
+  \ style=\"color: blue;\"><ruby>争<rt>あらそ</rt></ruby>い</span>ました。<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がけがをしました。</p>\n\
+  <p><ruby>３日<rt>みっか</rt></ruby>、カタルーニャ<ruby>州<rt>しゅう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>に<ruby>怒<rt>おこ</rt></ruby>って、いろいろな<ruby>所<rt>ところ</rt></ruby>で<span\
+  \ style=\"color: blue;\">デモ</span>を<ruby>行<rt>おこな</rt></ruby>いました。<ruby>警察<rt>けいさつ</rt></ruby>によると、バルセロナの<span\
+  \ style=\"color: blue;\"><ruby>中心<rt>ちゅうしん</rt></ruby></span>では７０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>ぐらいが<ruby>集<rt>あつ</rt></ruby>まりました。<ruby>集<rt>あつ</rt></ruby>まった<ruby>人<rt>ひと</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>民主主義<rt>みんしゅしゅぎ</rt></ruby></span>の<ruby>国<rt>くに</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>がしたことは<span style=\"\
+  color: blue;\"><ruby>許<rt>ゆる</rt></ruby>す</span>ことができません」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: デモ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「デモンストレーション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>認</rb><rt>みと</rt></ruby>めさせようとして、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>勢</rb><rt>いきお</rt></ruby>いを<ruby><rb>示</rb><rt>しめ</rt></ruby>すこと。また、そのための<ruby><rb>行進</rb><rt>こうしん</rt></ruby>。
+- word: 独立
+  descriptions:
+  - ほかの<ruby><rb>助</rb><rt>たす</rt></ruby>けや<ruby><rb>支配</rb><rt>しはい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないで、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>だけでやっていくこと。<ruby><rb>独</rb><rt>ひと</rt></ruby>り<ruby><rb>立</rb><rt>だ</rt></ruby>ち。
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つだけはなれていること。
+- word: 賛成
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えをよいと<ruby><rb>認</rb><rt>みと</rt></ruby>めること。<ruby><rb>同意</rb><rt>どうい</rt></ruby>すること。
+- word: 投票
+  descriptions:
+  - <ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>や<ruby><rb>採決</rb><rt>さいけつ</rt></ruby>で、<ruby><rb>選</rb><rt>えら</rt></ruby>びたい<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>か<ruby><rb>反対</rb><rt>はんたい</rt></ruby>かを、<ruby><rb>紙</rb><rt>かみ</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いて<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 憲法
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>成</rb><rt>な</rt></ruby>り<ruby><rb>立</rb><rt>た</rt></ruby>っていく<ruby><rb>上</rb><rt>うえ</rt></ruby>で、いちばんだいじなことを<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>。
+- word: 違反
+  descriptions:
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。
+- word: 所
+  descriptions:
+  - ところ。
+  - こと。もの。
+- word: 争う
+  descriptions:
+  - たがいに<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>勝</rb><rt>か</rt></ruby>とうとする。<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>する。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>合</rb><rt>あ</rt></ruby>う。
+  - けんかをする。
+  - ゆっくりしていられない。
+- word: 中心
+  descriptions:
+  - <ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>。
+  - ものごとのいちばんだいじなところ。
+- word: 民主主義
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める<ruby><rb>権利</rb><rt>けんり</rt></ruby>が<ruby><rb>国民</rb><rt>こくみん</rt></ruby>にあり、<ruby><rb>国民全体</rb><rt>こくみんぜんたい</rt></ruby>の<ruby><rb>幸</rb><rt>しあわ</rt></ruby>せや<ruby><rb>利益</rb><rt>りえき</rt></ruby>を<ruby><rb>考</rb><rt>かんが</rt></ruby>えて<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>めようとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。デモクラシー。
+- word: 許す
+  descriptions:
+  - とがめないで<ruby><rb>済</rb><rt>す</rt></ruby>ませる。
+  - してもよいと<ruby><rb>認</rb><rt>みと</rt></ruby>める。
+  - <ruby><rb>聞</rb><rt>き</rt></ruby>き<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>入</rb><rt>い</rt></ruby>れる。
+  - <ruby><rb>気</rb><rt>き</rt></ruby>をゆるめる。<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>解</rb><rt>と</rt></ruby>ける。
+web_news_url: /news/web/2017/10/04/スペイン-カタルーニャ州-各地で警察への抗議デモ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011166931000/k10011166931000.html
+...

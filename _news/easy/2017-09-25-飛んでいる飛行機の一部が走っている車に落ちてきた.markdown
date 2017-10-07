@@ -1,0 +1,55 @@
+---
+layout: easy_news
+newsid: k10011154221000
+categories: easy
+title: 飛んでいる飛行機の一部が走っている車に落ちてきた
+title_with_ruby: <ruby>飛<rt>と</rt></ruby>んでいる<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>が<ruby>走<rt>はし</rt></ruby>っている<ruby>車<rt>くるま</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちてきた
+last_modified_at: '2017-09-25T17:00:00+09:00'
+datetime: 2017年09月25日 17時00分
+description: ２３日にち午前ごぜん１１時じごろ、大阪市おおさかしの大おおきな道みちを走はしっていた車くるまに空そらからパネルが落おちてきてぶつかりました。
+description_with_ruby: ２３<ruby>日<rt>にち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>１１<ruby>時<rt>じ</rt></ruby>ごろ、<ruby>大阪市<rt>おおさかし</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>道<rt>みち</rt></ruby>を<ruby>走<rt>はし</rt></ruby>っていた<ruby>車<rt>くるま</rt></ruby>に<ruby>空<rt>そら</rt></ruby>からパネルが<ruby>落<rt>お</rt></ruby>ちてきてぶつかりました。
+image_url: https://newswebeasy.github.io/ja201709/news/web/image/2017/09/25/k10011154221000.jpg
+voice_url: https://newswebeasy.github.io/ja201709/news/easy/voice/2017/09/25/k10011154221000.mp3
+contents: "<p>２３<ruby>日<rt>にち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>１１<ruby>時<rt>じ</rt></ruby>ごろ、<ruby>大阪市<rt>おおさかし</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>道<rt>みち</rt></ruby>を<ruby>走<rt>はし</rt></ruby>っていた<ruby>車<rt>くるま</rt></ruby>に<ruby>空<rt>そら</rt></ruby>から<span\
+  \ style=\"color: blue;\">パネル</span>が<ruby>落<rt>お</rt></ruby>ちてきて<span style=\"color:\
+  \ blue;\">ぶつかり</span>ました。<ruby>車<rt>くるま</rt></ruby>は<span style=\"color: blue;\"\
+  ><ruby>屋根<rt>やね</rt></ruby></span>が<span style=\"color: blue;\">へこん</span>で、<ruby>後<rt>うし</rt></ruby>ろの<ruby>窓<rt>まど</rt></ruby>ガラスが<ruby>割<rt>わ</rt></ruby>れました。<ruby>運転<rt>うんてん</rt></ruby>していた<ruby>人<rt>ひと</rt></ruby>などにけがはありませんでした。</p>\n\
+  <p>この<span style=\"color: blue;\">パネル</span>は、<ruby>関西空港<rt>かんさいくうこう</rt></ruby>からオランダに<ruby>向<rt>む</rt></ruby>かって<ruby>飛<rt>と</rt></ruby>んでいたＫＬＭオランダ<ruby>航空<rt>こうくう</rt></ruby>の<ruby>飛行機<rt>ひこうき</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>胴体<rt>どうたい</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>一部<rt>いちぶ</rt></ruby></span>でした。<ruby>縦<rt>たて</rt></ruby>６０ｃｍ、<ruby>横<rt>よこ</rt></ruby>１ｍの<ruby>大<rt>おお</rt></ruby>きさで、<ruby>重<rt>おも</rt></ruby>さは４．３ｋｇぐらいありました。</p>\n\
+  <p><ruby>飛行機<rt>ひこうき</rt></ruby>はそのまま<ruby>飛<rt>と</rt></ruby>び<ruby>続<rt>つづ</rt></ruby>けてオランダに<ruby>着<rt>つ</rt></ruby>きました。</p>\n\
+  <p><ruby>国<rt>くに</rt></ruby>は、<ruby>大<rt>おお</rt></ruby>きな<ruby>事故<rt>じこ</rt></ruby>になっていたかもしれないと<ruby>考<rt>かんが</rt></ruby>えて、<ruby>落<rt>お</rt></ruby>ちてきた<span\
+  \ style=\"color: blue;\">パネル</span>などを<ruby>調<rt>しら</rt></ruby>べています。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 一部
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: パネル
+  descriptions:
+  - かべ・ゆかなどにはめこむ<ruby><rb>板</rb><rt>いた</rt></ruby>。
+  - <ruby><rb>絵</rb><rt>え</rt></ruby>をかく<ruby><rb>板</rb><rt>いた</rt></ruby>。また、<ruby><rb>板</rb><rt>いた</rt></ruby>にかいた<ruby><rb>絵</rb><rt>え</rt></ruby>。
+  - <ruby><rb>写真</rb><rt>しゃしん</rt></ruby>などをはった<ruby><rb>板</rb><rt>いた</rt></ruby>。
+- word: ぶつかる
+  descriptions:
+  - <ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。
+  - <ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。
+  - <ruby><rb>重</rb><rt>かさ</rt></ruby>なる。
+- word: 屋根
+  descriptions:
+  - <ruby><rb>雨</rb><rt>あめ</rt></ruby>などを<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために、<ruby><rb>家</rb><rt>いえ</rt></ruby>をおおうもの。
+  - <ruby><rb>上</rb><rt>うえ</rt></ruby>をおおうもの。
+  - いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: へこむ
+  descriptions:
+  - そこだけが、<ruby><rb>周</rb><rt>まわ</rt></ruby>りより<ruby><rb>低</rb><rt>ひく</rt></ruby>く<ruby><rb>落</rb><rt>お</rt></ruby>ちこむ。
+  - やりこめられる。<ruby><rb>負</rb><rt>ま</rt></ruby>ける。
+- word: 胴体
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の、<ruby><rb>胸</rb><rt>むね</rt></ruby>や<ruby><rb>腹</rb><rt>はら</rt></ruby>の<ruby><rb>辺</rb><rt>あた</rt></ruby>りのこと。<ruby><rb>胴</rb><rt>どう</rt></ruby>。
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>の、<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+web_news_url: /news/web/2017/09/24/旅客機のパネル落下-走行中の車にぶつかる-大阪/
+source_url: http://www3.nhk.or.jp/news/easy/k10011154221000/k10011154221000.html
+...

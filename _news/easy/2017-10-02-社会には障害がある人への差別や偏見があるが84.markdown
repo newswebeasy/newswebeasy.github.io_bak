@@ -1,0 +1,49 @@
+---
+layout: easy_news
+newsid: k10011163191000
+categories: easy
+title: 「社会には障害がある人への差別や偏見がある」が８４％
+title_with_ruby: 「<ruby>社会<rt>しゃかい</rt></ruby>には<ruby>障害<rt>しょうがい</rt></ruby>がある<ruby>人<rt>ひと</rt></ruby>への<ruby>差別<rt>さべつ</rt></ruby>や<ruby>偏見<rt>へんけん</rt></ruby>がある」が８４％
+last_modified_at: '2017-10-02T16:50:00+09:00'
+datetime: 2017年10月02日 16時50分
+description: 内閣府ないかくふは８月がつに、体からだなどに障害しょうがいがある人ひとへの差別さべつなどについて１８歳さい以上いじょうの人ひとに聞ききました。
+description_with_ruby: <ruby>内閣府<rt>ないかくふ</rt></ruby>は８<ruby>月<rt>がつ</rt></ruby>に、<ruby>体<rt>からだ</rt></ruby>などに<ruby>障害<rt>しょうがい</rt></ruby>がある<ruby>人<rt>ひと</rt></ruby>への<ruby>差別<rt>さべつ</rt></ruby>などについて１８<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>聞<rt>き</rt></ruby>きました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/02/k10011163191000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/02/k10011163191000.mp3
+contents: "<p><ruby>内閣府<rt>ないかくふ</rt></ruby>は８<ruby>月<rt>がつ</rt></ruby>に、<ruby>体<rt>からだ</rt></ruby>などに<span\
+  \ style=\"color: blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>への<span\
+  \ style=\"color: blue;\"><ruby>差別<rt>さべつ</rt></ruby></span>などについて１８<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>聞<rt>き</rt></ruby>きました。１７７１<ruby>人<rt>にん</rt></ruby>が<ruby>答<rt>こた</rt></ruby>えました。</p>\n\
+  <p>「<ruby>社会<rt>しゃかい</rt></ruby>には<span style=\"color: blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>への<span\
+  \ style=\"color: blue;\"><ruby>差別<rt>さべつ</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>偏見<rt>へんけん</rt></ruby></span>があると<ruby>思<rt>おも</rt></ruby>うか」という<ruby>質問<rt>しつもん</rt></ruby>に、「ある」と<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>は８３．９％でした。そして「ある」と<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>に、５<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>より<span\
+  \ style=\"color: blue;\"><ruby>差別<rt>さべつ</rt></ruby></span>などが<ruby>少<rt>すく</rt></ruby>なくなってよくなったか<ruby>聞<rt>き</rt></ruby>きました。「よくなった」は５０．７％、「よくなっていない」は４１．５％でした。</p>\n\
+  <p><ruby>去年<rt>きょねん</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>に、<span style=\"color:\
+  \ blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>への<span\
+  \ style=\"color: blue;\"><ruby>差別<rt>さべつ</rt></ruby></span>をなくすための<ruby>新<rt>あたら</rt></ruby>しい<ruby>法律<rt>ほうりつ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まりました。この<ruby>法律<rt>ほうりつ</rt></ruby>を<ruby>知<rt>し</rt></ruby>っているか<ruby>聞<rt>き</rt></ruby>くと、「<ruby>知<rt>し</rt></ruby>っている」と<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>は２１．９％でした。</p>\n\
+  <p><ruby>内閣府<rt>ないかくふ</rt></ruby>は「<ruby>去年<rt>きょねん</rt></ruby>、<span style=\"color:\
+  \ blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>たちがたくさん<ruby>亡<rt>な</rt></ruby>くなる<span\
+  \ style=\"color: blue;\"><ruby>事件<rt>じけん</rt></ruby></span>がありました。<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>命<rt>いのち</rt></ruby></span>の<ruby>大切<rt>たいせつ</rt></ruby>さを<ruby>伝<rt>つた</rt></ruby>えて、<ruby>新<rt>あたら</rt></ruby>しい<ruby>法律<rt>ほうりつ</rt></ruby>をもっと<ruby>知<rt>し</rt></ruby>ってもらうことができるようにします」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 障害
+  descriptions:
+  - <ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。
+- word: 差別
+  descriptions:
+  - あるものとほかのものとの<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>差</rb><rt>さ</rt></ruby>をつけて、あつかい<ruby><rb>方</rb><rt>かた</rt></ruby>をちがわせること。
+- word: 偏見
+  descriptions:
+  - かたよった<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>見方</rb><rt>みかた</rt></ruby>。
+- word: 事件
+  descriptions:
+  - ふだんないような、できごと。
+- word: 命
+  descriptions:
+  - <ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>生</rb><rt>い</rt></ruby>きているもとになる<ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>生命</rb><rt>せいめい</rt></ruby>。
+  - <ruby><rb>生</rb><rt>い</rt></ruby>きている<ruby><rb>間</rb><rt>あいだ</rt></ruby>。
+  - いちばん<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>なもの。
+web_news_url: /news/web/2017/09/30/障害者への差別や偏見ある80超-内閣府調査/
+source_url: http://www3.nhk.or.jp/news/easy/k10011163191000/k10011163191000.html
+...
