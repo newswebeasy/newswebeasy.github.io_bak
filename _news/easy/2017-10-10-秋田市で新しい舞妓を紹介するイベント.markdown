@@ -1,0 +1,43 @@
+---
+layout: easy_news
+newsid: k10011169251000
+categories: easy
+title: 秋田市で新しい舞妓を紹介するイベント
+title_with_ruby: <ruby>秋田市<rt>あきたし</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しい<ruby>舞妓<rt>まいこ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント
+last_modified_at: '2017-10-10T11:30:00+09:00'
+datetime: 2017年10月10日 11時30分
+description: 秋田市あきたしには昔むかし、たくさんの芸者げいしゃや舞妓まいこがいました。
+description_with_ruby: <ruby>秋田市<rt>あきたし</rt></ruby>には<ruby>昔<rt>むかし</rt></ruby>、たくさんの<ruby>芸者<rt>げいしゃ</rt></ruby>や<ruby>舞妓<rt>まいこ</rt></ruby>がいました。
+image_url: https://newswebeasy.github.io/ja201710/news/easy/image/2017/10/10/k10011169251000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/10/k10011169251000.mp3
+contents: "<p><ruby>秋田市<rt>あきたし</rt></ruby>には<ruby>昔<rt>むかし</rt></ruby>、たくさんの<ruby>芸者<rt>げいしゃ</rt></ruby>や<ruby>舞妓<rt>まいこ</rt></ruby>がいました。<ruby>秋田市<rt>あきたし</rt></ruby>にある<ruby>会社<rt>かいしゃ</rt></ruby>は、いなくなった<ruby>舞妓<rt>まいこ</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しく<ruby>育<rt>そだ</rt></ruby>てて、<ruby>舞妓<rt>まいこ</rt></ruby>に<ruby>会<rt>あ</rt></ruby>う<span\
+  \ style=\"color: blue;\">イベント</span>や<span style=\"color: blue;\">ツアー</span>を<ruby>開<rt>ひら</rt></ruby>いています。</p>\n\
+  <p><ruby>秋田市<rt>あきたし</rt></ruby>の<ruby>千秋<rt>せんしゅう</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>で<ruby>５日<rt>いつか</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しく<ruby>舞妓<rt>まいこ</rt></ruby>になった<ruby>佳乃藤<rt>かのふじ</rt></ruby>さんを<ruby>紹介<rt>しょうかい</rt></ruby>する<span\
+  \ style=\"color: blue;\">イベント</span>がありました。きれいな<ruby>着物<rt>きもの</rt></ruby>を<ruby>着<rt>き</rt></ruby>た<ruby>佳乃藤<rt>かのふじ</rt></ruby>さんは、<span\
+  \ style=\"color: blue;\"><ruby>花嫁<rt>はなよめ</rt></ruby></span>さんになりたいと<ruby>思<rt>おも</rt></ruby>う<ruby>若<rt>わか</rt></ruby>い<ruby>女性<rt>じょせい</rt></ruby>の<ruby>踊<rt>おど</rt></ruby>りを<ruby>踊<rt>おど</rt></ruby>りました。</p>\n\
+  <p><ruby>佳乃藤<rt>かのふじ</rt></ruby>さんは<ruby>高校生<rt>こうこうせい</rt></ruby>のときに<ruby>秋田<rt>あきた</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>民謡<rt>みんよう</rt></ruby></span>を<ruby>習<rt>なら</rt></ruby>っていて、<ruby>舞妓<rt>まいこ</rt></ruby>になるために１<ruby>年<rt>ねん</rt></ruby>、<ruby>歌<rt>うた</rt></ruby>や<ruby>踊<rt>おど</rt></ruby>りの<ruby>練習<rt>れんしゅう</rt></ruby>をしてきました。<ruby>佳乃藤<rt>かのふじ</rt></ruby>さんは「<ruby>人<rt>ひと</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>踊<rt>おど</rt></ruby>るのは<ruby>初<rt>はじ</rt></ruby>めてなので<span\
+  \ style=\"color: blue;\"><ruby>緊張<rt>きんちょう</rt></ruby></span>しました。みなさんに<span style=\"\
+  color: blue;\"><ruby>民謡<rt>みんよう</rt></ruby></span>の<ruby>楽<rt>たの</rt></ruby>しさを<ruby>伝<rt>つた</rt></ruby>えることができる<ruby>舞妓<rt>まいこ</rt></ruby>になりたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: ツアー
+  descriptions:
+  - <ruby><rb>観光</rb><rt>かんこう</rt></ruby>やスポーツなどのために、<ruby><rb>団体</rb><rt>だんたい</rt></ruby>で<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>。
+- word: 花嫁
+  descriptions:
+  - もうすぐ<ruby><rb>結婚式</rb><rt>けっこんしき</rt></ruby>を<ruby><rb>挙</rb><rt>あ</rt></ruby>げる、または<ruby><rb>挙</rb><rt>あ</rt></ruby>げたばかりの<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>新婦</rb><rt>しんぷ</rt></ruby>。
+- word: 民謡
+  descriptions:
+  - その<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちの<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>生</rb><rt>う</rt></ruby>まれ、その<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>や、<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが<ruby><rb>表</rb><rt>あらわ</rt></ruby>されている<ruby><rb>歌</rb><rt>うた</rt></ruby>。
+- word: 緊張
+  descriptions:
+  - <ruby><rb>気持</rb><rt>きも</rt></ruby>ちや<ruby><rb>態度</rb><rt>たいど</rt></ruby>が、<ruby><rb>引</rb><rt>ひ</rt></ruby>きしまること。
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>いごとなどが、<ruby><rb>今</rb><rt>いま</rt></ruby>にも<ruby><rb>起</rb><rt>お</rt></ruby>こりそうなようす。
+web_news_url: /news/web/2017/10/06/あきた舞妓6期生のお披露目/
+source_url: http://www3.nhk.or.jp/news/easy/k10011169251000/k10011169251000.html
+...
