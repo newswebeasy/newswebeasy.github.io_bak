@@ -1,0 +1,38 @@
+---
+layout: easy_news
+newsid: k10011172681000
+categories: easy
+title: レンタカーの会社　外国人に車を貸す前に交通ルールを説明
+title_with_ruby: レンタカーの<ruby>会社<rt>かいしゃ</rt></ruby>　<ruby>外国人<rt>がいこくじん</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>を<ruby>貸<rt>か</rt></ruby>す<ruby>前<rt>まえ</rt></ruby>に<ruby>交通<rt>こうつう</rt></ruby>ルールを<ruby>説明<rt>せつめい</rt></ruby>
+last_modified_at: '2017-10-11T11:30:00+09:00'
+datetime: 2017年10月11日 11時30分
+description: 日本にっぽんに旅行りょこうに来きた外国人がいこくじんが運転うんてんするレンタカーの事故じこが増ふえています。
+description_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>運転<rt>うんてん</rt></ruby>するレンタカーの<ruby>事故<rt>じこ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/11/k10011172681000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/11/k10011172681000.mp3
+contents: "<p><ruby>日本<rt>にっぽん</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>運転<rt>うんてん</rt></ruby>する<span\
+  \ style=\"color: blue;\">レンタカー</span>の<ruby>事故<rt>じこ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。<span\
+  \ style=\"color: blue;\">レンタカー</span>の<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>外国人<rt>がいこくじん</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>を<ruby>貸<rt>か</rt></ruby>す<ruby>前<rt>まえ</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>交通<rt>こうつう</rt></ruby><span\
+  \ style=\"color: blue;\">ルール</span>などを<ruby>説明<rt>せつめい</rt></ruby>して、<ruby>事故<rt>じこ</rt></ruby>を<ruby>少<rt>すく</rt></ruby>なくしようとしています。</p>\n\
+  <p>「ニッポンレンタカー」という<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>交差点<rt>こうさてん</rt></ruby>で<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がるときなど<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>運転<rt>うんてん</rt></ruby>するときに<ruby>気<rt>き</rt></ruby>をつけることを<ruby>英語<rt>えいご</rt></ruby>や<ruby>中国語<rt>ちゅうごくご</rt></ruby>、<ruby>韓国語<rt>かんこくご</rt></ruby>で<ruby>書<rt>か</rt></ruby>いた<ruby>紙<rt>かみ</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>しています。<ruby>今年<rt>ことし</rt></ruby>の８<ruby>月<rt>がつ</rt></ruby>からは、<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>道路標識<rt>どうろひょうしき</rt></ruby></span>の<ruby>説明<rt>せつめい</rt></ruby>もしています。</p>\n\
+  <p>「オリックス<ruby>自動車<rt>じどうしゃ</rt></ruby>」という<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>運転<rt>うんてん</rt></ruby>するときに<ruby>気<rt>き</rt></ruby>をつけることを、パソコンなどを<ruby>使<rt>つか</rt></ruby>って５つの<ruby>外国語<rt>がいこくご</rt></ruby>で<ruby>説明<rt>せつめい</rt></ruby>しています。</p>\n\
+  <p>「パーク２４」という<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>運転<rt>うんてん</rt></ruby>していることを<ruby>知<rt>し</rt></ruby>らせる<span\
+  \ style=\"color: blue;\">ステッカー</span>を<ruby>用意<rt>ようい</rt></ruby>しています。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: レンタカー
+  descriptions:
+  - <ruby><rb>貸</rb><rt>か</rt></ruby>し<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。
+- word: ルール
+  descriptions:
+  - <ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。
+- word: 道路標識
+  descriptions:
+  - <ruby><rb>道</rb><rt>みち</rt></ruby>の<ruby><rb>案内</rb><rt>あんない</rt></ruby>や<ruby><rb>交通</rb><rt>こうつう</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>のために、<ruby><rb>道路</rb><rt>どうろ</rt></ruby>にかかげてある<ruby><rb>標示板</rb><rt>ひょうじばん</rt></ruby>。
+- word: ステッカー
+  descriptions:
+  - <ruby><rb>宣伝</rb><rt>せんでん</rt></ruby>や<ruby><rb>目印</rb><rt>めじるし</rt></ruby>などのためにはる、<ruby><rb>小</rb><rt>ちい</rt></ruby>さなはり<ruby><rb>紙</rb><rt>がみ</rt></ruby>。
+web_news_url: /news/web/2017/10/09/外国人旅行者のレンタカー事故増加-各社が対策強化/
+source_url: http://www3.nhk.or.jp/news/easy/k10011172681000/k10011172681000.html
+...
