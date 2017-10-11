@@ -1,0 +1,70 @@
+---
+layout: easy_news
+newsid: k10011174261000
+categories: easy
+title: スペインのカタルーニャ州「今すぐには独立しない」
+title_with_ruby: スペインのカタルーニャ<ruby>州<rt>しゅう</rt></ruby>「<ruby>今<rt>いま</rt></ruby>すぐには<ruby>独立<rt>どくりつ</rt></ruby>しない」
+last_modified_at: '2017-10-11T16:10:00+09:00'
+datetime: 2017年10月11日 16時10分
+description: スペインのカタルーニャ州しゅうで１日ついたち、スペインから独立どくりつすることに賛成さんせいか反対はんたいか、住すんでいる人ひとたちが投票とうひょうをしました。
+description_with_ruby: スペインのカタルーニャ<ruby>州<rt>しゅう</rt></ruby>で<ruby>１日<rt>ついたち</rt></ruby>、スペインから<ruby>独立<rt>どくりつ</rt></ruby>することに<ruby>賛成<rt>さんせい</rt></ruby>か<ruby>反対<rt>はんたい</rt></ruby>か、<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>たちが<ruby>投票<rt>とうひょう</rt></ruby>をしました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/11/k10011174261000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/11/k10011174261000.mp3
+contents: "<p>スペインのカタルーニャ<ruby>州<rt>しゅう</rt></ruby>で<ruby>１日<rt>ついたち</rt></ruby>、スペインから<span\
+  \ style=\"color: blue;\"><ruby>独立<rt>どくりつ</rt></ruby></span>することに<span style=\"\
+  color: blue;\"><ruby>賛成<rt>さんせい</rt></ruby></span>か<ruby>反対<rt>はんたい</rt></ruby>か、<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>たちが<span\
+  \ style=\"color: blue;\"><ruby>投票<rt>とうひょう</rt></ruby></span>をしました。カタルーニャ<ruby>州<rt>しゅう</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>賛成<rt>さんせい</rt></ruby></span>が９０%<ruby>以上<rt>いじょう</rt></ruby>だったと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>カタルーニャ<ruby>州<rt>しゅう</rt></ruby>のプチデモン<ruby>首相<rt>しゅしょう</rt></ruby>は<ruby>１０日<rt>とおか</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>州<rt>しゅう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>議会<rt>ぎかい</rt></ruby></span>で「<ruby>私<rt>わたし</rt></ruby>たちは<span\
+  \ style=\"color: blue;\"><ruby>独立<rt>どくりつ</rt></ruby></span>して<ruby>国<rt>くに</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<span\
+  \ style=\"color: blue;\"><ruby>権利<rt>けんり</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>ちました。しかし、<span\
+  \ style=\"color: blue;\"><ruby>独立<rt>どくりつ</rt></ruby></span>するためにはスペインの<span style=\"\
+  color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>と<ruby>話<rt>はなし</rt></ruby>をしなければなりません」と<ruby>言<rt>い</rt></ruby>いました。このため、<span\
+  \ style=\"color: blue;\"><ruby>独立<rt>どくりつ</rt></ruby></span>するという<span style=\"\
+  color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>は<ruby>今<rt>いま</rt></ruby>すぐにはしないと<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>しかし、スペインの<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<span\
+  \ style=\"color: blue;\"><ruby>投票<rt>とうひょう</rt></ruby></span>は<span style=\"color:\
+  \ blue;\"><ruby>憲法<rt>けんぽう</rt></ruby></span>に<span style=\"color: blue;\"><ruby>違反<rt>いはん</rt></ruby></span>しているため、<span\
+  \ style=\"color: blue;\"><ruby>独立<rt>どくりつ</rt></ruby></span>についてカタルーニャ<ruby>州<rt>しゅう</rt></ruby>と<ruby>話<rt>はなし</rt></ruby>をするつもりはないと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 独立
+  descriptions:
+  - ほかの<ruby><rb>助</rb><rt>たす</rt></ruby>けや<ruby><rb>支配</rb><rt>しはい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないで、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>だけでやっていくこと。<ruby><rb>独</rb><rt>ひと</rt></ruby>り<ruby><rb>立</rb><rt>だ</rt></ruby>ち。
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つだけはなれていること。
+- word: 賛成
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えをよいと<ruby><rb>認</rb><rt>みと</rt></ruby>めること。<ruby><rb>同意</rb><rt>どうい</rt></ruby>すること。
+- word: 投票
+  descriptions:
+  - <ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>や<ruby><rb>採決</rb><rt>さいけつ</rt></ruby>で、<ruby><rb>選</rb><rt>えら</rt></ruby>びたい<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>か<ruby><rb>反対</rb><rt>はんたい</rt></ruby>かを、<ruby><rb>紙</rb><rt>かみ</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いて<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 州
+  descriptions:
+  - <ruby><rb>大陸</rb><rt>たいりく</rt></ruby>。
+  - （<ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>や、<ruby><rb>今</rb><rt>いま</rt></ruby>のアメリカなどで）<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をするつごうで<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>区切</rb><rt>くぎ</rt></ruby>り。
+  - す。<ruby><rb>川</rb><rt>かわ</rt></ruby>などの<ruby><rb>土</rb><rt>つち</rt></ruby>や<ruby><rb>砂</rb><rt>すな</rt></ruby>が<ruby><rb>積</rb><rt>つ</rt></ruby>もってできた<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>陸地</rb><rt>りくち</rt></ruby>。
+- word: 議会
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>に<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>について<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めをする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>の<ruby><rb>国会</rb><rt>こっかい</rt></ruby>と、<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>などの<ruby><rb>地方議会</rb><rt>ちほうぎかい</rt></ruby>とがある。
+- word: 権利
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>社会</rb><rt>しゃかい</rt></ruby>などの<ruby><rb>決</rb><rt>き</rt></ruby>まりで<ruby><rb>認</rb><rt>みと</rt></ruby>められている<ruby><rb>利益</rb><rt>りえき</rt></ruby>。
+  - あるものごとをすることのできる<ruby><rb>資格</rb><rt>しかく</rt></ruby>。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 憲法
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>成</rb><rt>な</rt></ruby>り<ruby><rb>立</rb><rt>た</rt></ruby>っていく<ruby><rb>上</rb><rt>うえ</rt></ruby>で、いちばんだいじなことを<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>。
+- word: 違反
+  descriptions:
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。
+web_news_url: /news/web/2017/10/11/カタルーニャ州首相独立を延期/
+source_url: http://www3.nhk.or.jp/news/easy/k10011174261000/k10011174261000.html
+...
