@@ -1,0 +1,66 @@
+---
+layout: easy_news
+newsid: k10011174451000
+categories: easy
+title: 鹿児島県と宮崎県の間の新燃岳で噴火「山に入らないで」
+title_with_ruby: <ruby>鹿児島県<rt>かごしまけん</rt></ruby>と<ruby>宮崎県<rt>みやざきけん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>の<ruby>新燃岳<rt>しんもえだけ</rt></ruby>で<ruby>噴火<rt>ふんか</rt></ruby>「<ruby>山<rt>やま</rt></ruby>に<ruby>入<rt>はい</rt></ruby>らないで」
+last_modified_at: '2017-10-11T16:10:00+09:00'
+datetime: 2017年10月11日 16時10分
+description: １１日にちの朝あさ、鹿児島県かごしまけんと宮崎県みやざきけんの間あいだにある新燃岳しんもえだけという山やまで小ちいさな噴火ふんかがありました。
+description_with_ruby: １１<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>鹿児島県<rt>かごしまけん</rt></ruby>と<ruby>宮崎県<rt>みやざきけん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にある<ruby>新燃岳<rt>しんもえだけ</rt></ruby>という<ruby>山<rt>やま</rt></ruby>で<ruby>小<rt>ちい</rt></ruby>さな<ruby>噴火<rt>ふんか</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/11/k10011174451000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/11/k10011174451000.mp3
+contents: "<p>１１<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>鹿児島県<rt>かごしまけん</rt></ruby>と<ruby>宮崎県<rt>みやざきけん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にある<ruby>新燃岳<rt>しんもえだけ</rt></ruby>という<ruby>山<rt>やま</rt></ruby>で<ruby>小<rt>ちい</rt></ruby>さな<span\
+  \ style=\"color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>がありました。<span style=\"\
+  color: blue;\"><ruby>煙<rt>けむり</rt></ruby></span>は<span style=\"color: blue;\"><ruby>火口<rt>かこう</rt></ruby></span>から３００ｍの<ruby>高<rt>たか</rt></ruby>さまで<ruby>上<rt>あ</rt></ruby>がって、そのあとも<span\
+  \ style=\"color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>が<ruby>続<rt>つづ</rt></ruby>いています。</p>\n\
+  <p><ruby>新燃岳<rt>しんもえだけ</rt></ruby>では、<ruby>先月<rt>せんげつ</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>下旬<rt>げじゅん</rt></ruby></span>から<span style=\"color: blue;\"\
+  ><ruby>火山<rt>かざん</rt></ruby></span>の<span style=\"color: blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>が<ruby>原因<rt>げんいん</rt></ruby>の<ruby>地震<rt>じしん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えました。このため<ruby>気象庁<rt>きしょうちょう</rt></ruby>は<ruby>今月<rt>こんげつ</rt></ruby><ruby>５日<rt>いつか</rt></ruby>、「<ruby>噴火<rt>ふんか</rt></ruby><ruby>警戒<rt>けいかい</rt></ruby>」の<span\
+  \ style=\"color: blue;\">レベル</span>を２と<span style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>して、<span\
+  \ style=\"color: blue;\"><ruby>火口<rt>かこう</rt></ruby></span>の<ruby>近<rt>ちか</rt></ruby>くには<ruby>行<rt>い</rt></ruby>かないように<ruby>言<rt>い</rt></ruby>っていました。</p>\n\
+  <p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>新燃岳<rt>しんもえだけ</rt></ruby>ではこれからも<ruby>今<rt>いま</rt></ruby>より<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>起<rt>お</rt></ruby>こる</span><span style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があると<ruby>考<rt>かんが</rt></ruby>えていて、「<ruby>噴火<rt>ふんか</rt></ruby><ruby>警戒<rt>けいかい</rt></ruby>」の<span\
+  \ style=\"color: blue;\">レベル</span>を３に<ruby>上<rt>あ</rt></ruby>げました。そして、<span style=\"\
+  color: blue;\"><ruby>火口<rt>かこう</rt></ruby></span>から２ｋｍぐらいの<ruby>所<rt>ところ</rt></ruby>では、<ruby>大<rt>おお</rt></ruby>きな<ruby>石<rt>いし</rt></ruby>が<ruby>飛<rt>と</rt></ruby>んでくる<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があるので<ruby>山<rt>やま</rt></ruby>に<ruby>入<rt>はい</rt></ruby>らないように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>新燃岳<rt>しんもえだけ</rt></ruby>では、６<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>にも<span\
+  \ style=\"color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>がありました。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 噴火
+  descriptions:
+  - <ruby><rb>火山</rb><rt>かざん</rt></ruby>が<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>して、とけた<ruby><rb>溶岩</rb><rt>ようがん</rt></ruby>や、<ruby><rb>火山灰</rb><rt>かざんばい</rt></ruby>・<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>・ガスをふき<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 煙
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>燃</rb><rt>も</rt></ruby>えるときに<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>気体</rb><rt>きたい</rt></ruby>。けむ。けぶり。
+  - けむりのように<ruby><rb>見</rb><rt>み</rt></ruby>えるもの。
+- word: 噴火口
+  descriptions:
+  - <ruby><rb>噴火</rb><rt>ふんか</rt></ruby>のときに、とけた<ruby><rb>岩</rb><rt>いわ</rt></ruby>やガスなどのふき<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>火口</rb><rt>かこう</rt></ruby>。
+- word: 下旬
+  descriptions:
+  - <ruby><rb>月</rb><rt>つき</rt></ruby>の<ruby><rb>２１日</rb><rt>にじゅういちにち</rt></ruby>から<ruby><rb>終</rb><rt>お</rt></ruby>わりまでの、<ruby><rb>約１０日間</rb><rt>やくとおかかん</rt></ruby>。
+- word: 火山
+  descriptions:
+  - <ruby><rb>地下</rb><rt>ちか</rt></ruby>のマグマが、<ruby><rb>地表</rb><rt>ちひょう</rt></ruby>にふき<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>山</rb><rt>やま</rt></ruby>となっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 活動
+  descriptions:
+  - <ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。
+- word: レベル
+  descriptions:
+  - <ruby><rb>評価</rb><rt>ひょうか</rt></ruby>をするときの<ruby><rb>標準</rb><rt>ひょうじゅん</rt></ruby>。<ruby><rb>水準</rb><rt>すいじゅん</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 起こる
+  descriptions:
+  - <ruby><rb>始</rb><rt>はじ</rt></ruby>まる。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+web_news_url: /news/web/2017/10/11/新燃岳-噴火警戒レベル3に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011174451000/k10011174451000.html
+...

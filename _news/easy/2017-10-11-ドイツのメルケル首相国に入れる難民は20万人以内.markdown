@@ -1,0 +1,47 @@
+---
+layout: easy_news
+newsid: k10011173041000
+categories: easy
+title: ドイツのメルケル首相「国に入れる難民は２０万人以内」
+title_with_ruby: ドイツのメルケル<ruby>首相<rt>しゅしょう</rt></ruby>「<ruby>国<rt>くに</rt></ruby>に<ruby>入<rt>い</rt></ruby>れる<ruby>難民<rt>なんみん</rt></ruby>は２０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以内<rt>いない</rt></ruby>」
+last_modified_at: '2017-10-11T11:30:00+09:00'
+datetime: 2017年10月11日 11時30分
+description: ドイツには難民なんみんや移民いみんが大勢おおぜい来きていて、おととしは８９万まん人にん、去年きょねんは２８万まん人にんが来きました。
+description_with_ruby: ドイツには<ruby>難民<rt>なんみん</rt></ruby>や<ruby>移民<rt>いみん</rt></ruby>が<ruby>大勢<rt>おおぜい</rt></ruby><ruby>来<rt>き</rt></ruby>ていて、おととしは８９<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>、<ruby>去年<rt>きょねん</rt></ruby>は２８<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>が<ruby>来<rt>き</rt></ruby>ました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/11/k10011173041000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/11/k10011173041000.mp3
+contents: "<p>ドイツには<span style=\"color: blue;\"><ruby>難民<rt>なんみん</rt></ruby></span>や<span\
+  \ style=\"color: blue;\"><ruby>移民<rt>いみん</rt></ruby></span>が<ruby>大勢<rt>おおぜい</rt></ruby><ruby>来<rt>き</rt></ruby>ていて、おととしは８９<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>、<ruby>去年<rt>きょねん</rt></ruby>は２８<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>が<ruby>来<rt>き</rt></ruby>ました。メルケル<ruby>首相<rt>しゅしょう</rt></ruby>は、ドイツに<ruby>来<rt>き</rt></ruby>た<span\
+  \ style=\"color: blue;\"><ruby>難民<rt>なんみん</rt></ruby></span>は<ruby>国<rt>くに</rt></ruby>に<ruby>入<rt>い</rt></ruby>れようと<ruby>言<rt>い</rt></ruby>ってきました。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby>９<ruby>月<rt>がつ</rt></ruby>のドイツの<span style=\"color:\
+  \ blue;\"><ruby>議会<rt>ぎかい</rt></ruby></span>の<span style=\"color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>で、<span\
+  \ style=\"color: blue;\"><ruby>難民<rt>なんみん</rt></ruby></span>を<ruby>国<rt>くに</rt></ruby>に<ruby>入<rt>い</rt></ruby>れることに<ruby>反対<rt>はんたい</rt></ruby>している<span\
+  \ style=\"color: blue;\"><ruby>政党<rt>せいとう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>議員<rt>ぎいん</rt></ruby></span>が３<ruby>番目<rt>ばんめ</rt></ruby>に<ruby>多<rt>おお</rt></ruby>く<ruby>選<rt>えら</rt></ruby>ばれました。メルケル<ruby>首相<rt>しゅしょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>政党<rt>せいとう</rt></ruby></span>は、いちばん<ruby>多<rt>おお</rt></ruby>くの<span\
+  \ style=\"color: blue;\"><ruby>議員<rt>ぎいん</rt></ruby></span>が<ruby>選<rt>えら</rt></ruby>ばれましたが、<ruby>前<rt>まえ</rt></ruby>より<ruby>少<rt>すく</rt></ruby>なくなりました。</p>\n\
+  <p>メルケル<ruby>首相<rt>しゅしょう</rt></ruby>は１０<ruby>月<rt>がつ</rt></ruby><ruby>９日<rt>ここのか</rt></ruby>、<ruby>今<rt>いま</rt></ruby>までの<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>を<ruby>変<rt>か</rt></ruby>えて「これからは<ruby>国<rt>くに</rt></ruby>に<ruby>入<rt>い</rt></ruby>れる<span\
+  \ style=\"color: blue;\"><ruby>難民<rt>なんみん</rt></ruby></span>を１<ruby>年<rt>ねん</rt></ruby>に２０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以内<rt>いない</rt></ruby>にします」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 難民
+  descriptions:
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>や<ruby><rb>天災</rb><rt>てんさい</rt></ruby>のために、<ruby><rb>家</rb><rt>いえ</rt></ruby>を<ruby><rb>失</rb><rt>うしな</rt></ruby>い、よその<ruby><rb>土地</rb><rt>とち</rt></ruby>へにげてきた<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。
+- word: 移民
+  descriptions:
+  - <ruby><rb>働</rb><rt>はたら</rt></ruby>くために、<ruby><rb>外国</rb><rt>がいこく</rt></ruby>に<ruby><rb>移</rb><rt>うつ</rt></ruby>り<ruby><rb>住</rb><rt>す</rt></ruby>むこと。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 議会
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>に<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>について<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めをする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>の<ruby><rb>国会</rb><rt>こっかい</rt></ruby>と、<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>などの<ruby><rb>地方議会</rb><rt>ちほうぎかい</rt></ruby>とがある。
+- word: 選挙
+  descriptions:
+  - ある<ruby><rb>役目</rb><rt>やくめ</rt></ruby>につく<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>選</rb><rt>えら</rt></ruby>ぶこと。
+- word: 政党
+  descriptions:
+  - <ruby><rb>政治</rb><rt>せいじ</rt></ruby>について、<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>人</rb><rt>ひと</rt></ruby>たちが<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 議員
+  descriptions:
+  - <ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>で<ruby><rb>選</rb><rt>えら</rt></ruby>ばれ、<ruby><rb>国会</rb><rt>こっかい</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>で、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>することをいろいろ<ruby><rb>相談</rb><rt>そうだん</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>・<ruby><rb>県議会議員</rb><rt>けんぎかいぎいん</rt></ruby>など。
+web_news_url: /news/web/2017/10/10/独メルケル首相-難民受け入れ20万人上限/
+source_url: http://www3.nhk.or.jp/news/easy/k10011173041000/k10011173041000.html
+...
