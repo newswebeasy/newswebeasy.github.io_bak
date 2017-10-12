@@ -1,0 +1,41 @@
+---
+layout: easy_news
+newsid: k10011175871000
+categories: easy
+title: アメリカのカリフォルニア州　山の火事で２０人以上亡くなる
+title_with_ruby: アメリカのカリフォルニア<ruby>州<rt>しゅう</rt></ruby>　<ruby>山<rt>やま</rt></ruby>の<ruby>火事<rt>かじ</rt></ruby>で２０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>亡<rt>な</rt></ruby>くなる
+last_modified_at: '2017-10-12T16:40:00+09:00'
+datetime: 2017年10月12日 16時40分
+description: アメリカのカリフォルニア州しゅうの北きたの山やまで８日ようか、火事かじが起おこりました。
+description_with_ruby: アメリカのカリフォルニア<ruby>州<rt>しゅう</rt></ruby>の<ruby>北<rt>きた</rt></ruby>の<ruby>山<rt>やま</rt></ruby>で<ruby>８日<rt>ようか</rt></ruby>、<ruby>火事<rt>かじ</rt></ruby>が<ruby>起<rt>お</rt></ruby>こりました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/12/k10011175871000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/12/k10011175871000.mp3
+contents: "<p>アメリカのカリフォルニア<ruby>州<rt>しゅう</rt></ruby>の<ruby>北<rt>きた</rt></ruby>の<ruby>山<rt>やま</rt></ruby>で<ruby>８日<rt>ようか</rt></ruby>、<ruby>火事<rt>かじ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こり</span>ました。<ruby>熱<rt>あつ</rt></ruby>くて<ruby>乾<rt>かわ</rt></ruby>いた<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>いているため、<ruby>火事<rt>かじ</rt></ruby>はどんどん<ruby>大<rt>おお</rt></ruby>きくなっています。</p>\n\
+  <p>カリフォルニア<ruby>州<rt>しゅう</rt></ruby>によると、１１<ruby>日<rt>にち</rt></ruby>までに<ruby>焼<rt>や</rt></ruby>けた<ruby>広<rt>ひろ</rt></ruby>さは７<ruby>万<rt>まん</rt></ruby><span\
+  \ style=\"color: blue;\">ｈａ</span>ぐらいになりました。２３<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、<ruby>家<rt>いえ</rt></ruby>など３５００の<ruby>建物<rt>たてもの</rt></ruby>が<ruby>焼<rt>や</rt></ruby>けました。２<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>避難<rt>ひなん</rt></ruby></span>しています。<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うことができなくて<ruby>連絡<rt>れんらく</rt></ruby>できない<ruby>人<rt>ひと</rt></ruby>もいて、ソノマ<ruby>郡<rt>ぐん</rt></ruby>ではどこにいるかわからない<ruby>人<rt>ひと</rt></ruby>が２８５<ruby>人<rt>にん</rt></ruby>います。</p>\n\
+  <p>カリフォルニア<ruby>州<rt>しゅう</rt></ruby>のブラウン<span style=\"color: blue;\"><ruby>知事<rt>ちじ</rt></ruby></span>は「<ruby>今<rt>いま</rt></ruby>までも<ruby>大<rt>おお</rt></ruby>きな<ruby>山<rt>やま</rt></ruby>の<ruby>火事<rt>かじ</rt></ruby>はあったが、これはいちばん<ruby>大<rt>おお</rt></ruby>きくてひどい<ruby>火事<rt>かじ</rt></ruby>だ」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>カリフォルニア<ruby>州<rt>しゅう</rt></ruby>では、<ruby>同<rt>おな</rt></ruby>じころ２０<ruby>以上<rt>いじょう</rt></ruby>の<ruby>山<rt>やま</rt></ruby>の<ruby>火事<rt>かじ</rt></ruby>があって、８０００<ruby>人<rt>にん</rt></ruby>が<ruby>火<rt>ひ</rt></ruby>を<ruby>消<rt>け</rt></ruby>す<span\
+  \ style=\"color: blue;\"><ruby>作業<rt>さぎょう</rt></ruby></span>を<ruby>続<rt>つづ</rt></ruby>けています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 起こる
+  descriptions:
+  - <ruby><rb>始</rb><rt>はじ</rt></ruby>まる。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。
+- word: ヘクタール
+  descriptions:
+  - メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>土地</rb><rt>とち</rt></ruby>の<ruby><rb>面積</rb><rt>めんせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「ha」。１ヘクタールは、１００アールで、<ruby><rb>１万平方</rb><rt>いちまんへいほう</rt></ruby>メートル。
+- word: 避難
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。
+- word: 知事
+  descriptions:
+  - <ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 作業
+  descriptions:
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>をすること。
+web_news_url: /news/web/2017/10/12/米カリフォルニア州の山火事-火の勢い衰えず-死者23人に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011175871000/k10011175871000.html
+...
