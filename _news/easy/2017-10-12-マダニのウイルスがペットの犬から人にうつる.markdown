@@ -1,0 +1,33 @@
+---
+layout: easy_news
+newsid: k10011173871000
+categories: easy
+title: マダニのウイルスがペットの犬から人にうつる
+title_with_ruby: マダニのウイルスがペットの<ruby>犬<rt>いぬ</rt></ruby>から<ruby>人<rt>ひと</rt></ruby>にうつる
+last_modified_at: '2017-10-12T11:30:00+09:00'
+datetime: 2017年10月12日 11時30分
+description: 厚生労働省こうせいろうどうしょうによると、今年ことし６月がつ、徳島県とくしまけんの男性だんせいのペットの犬いぬの具合ぐあいが悪わるくなりました。
+description_with_ruby: <ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby>によると、<ruby>今年<rt>ことし</rt></ruby>６<ruby>月<rt>がつ</rt></ruby>、<ruby>徳島県<rt>とくしまけん</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>のペットの<ruby>犬<rt>いぬ</rt></ruby>の<ruby>具合<rt>ぐあい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなりました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/12/k10011173871000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/12/k10011173871000.mp3
+contents: "<p><span style=\"color: blue;\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>によると、<ruby>今年<rt>ことし</rt></ruby>６<ruby>月<rt>がつ</rt></ruby>、<ruby>徳島県<rt>とくしまけん</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>のペットの<ruby>犬<rt>いぬ</rt></ruby>の<ruby>具合<rt>ぐあい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなりました。<ruby>病院<rt>びょういん</rt></ruby>で<ruby>犬<rt>いぬ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べると、マダニという<span\
+  \ style=\"color: blue;\">ダニ</span>にかまれてうつる<span style=\"color: blue;\">ウイルス</span>が<ruby>見<rt>み</rt></ruby>つかりました。そのあと<ruby>男性<rt>だんせい</rt></ruby>も<ruby>体<rt>からだ</rt></ruby>の<ruby>具合<rt>ぐあい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなって、<ruby>同<rt>おな</rt></ruby>じ<span\
+  \ style=\"color: blue;\">ウイルス</span>がうつっていることがわかりました。</p>\n<p><ruby>男性<rt>だんせい</rt></ruby>はマダニにかまれていませんでした。このため、<span\
+  \ style=\"color: blue;\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>は、ペットの<ruby>犬<rt>いぬ</rt></ruby>から<ruby>男性<rt>だんせい</rt></ruby>に<span\
+  \ style=\"color: blue;\">ウイルス</span>がうつったと<ruby>考<rt>かんが</rt></ruby>えています。この<span\
+  \ style=\"color: blue;\">ウイルス</span>がペットの<ruby>犬<rt>いぬ</rt></ruby>から<ruby>人<rt>ひと</rt></ruby>にうつったことがわかったのは<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>初<rt>はじ</rt></ruby>めてです。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>は、ペットの<ruby>具合<rt>ぐあい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いときは、あまり<ruby>触<rt>さわ</rt></ruby>らないようにして、すぐに<ruby>動物<rt>どうぶつ</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>くように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ウイルス
+  descriptions:
+  - <ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。
+- word: 厚生労働省
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。
+- word: だに
+  descriptions:
+  - クモに<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>八本足</rb><rt>はちほんあし</rt></ruby>の<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>虫</rb><rt>むし</rt></ruby>。<ruby><rb>人</rb><rt>ひと</rt></ruby>やけものの<ruby><rb>体</rb><rt>からだ</rt></ruby>について、<ruby><rb>血</rb><rt>ち</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>う。
+web_news_url: /news/web/2017/10/10/マダニ媒介ウイルス-ペットの犬から人に感染-国内で初/
+source_url: http://www3.nhk.or.jp/news/easy/k10011173871000/k10011173871000.html
+...
