@@ -1,0 +1,68 @@
+---
+layout: easy_news
+newsid: k10011176341000
+categories: easy
+title: アメリカが「ユネスコから出る」と言う
+title_with_ruby: アメリカが「ユネスコから<ruby>出<rt>で</rt></ruby>る」と<ruby>言<rt>い</rt></ruby>う
+last_modified_at: '2017-10-13T16:40:00+09:00'
+datetime: 2017年10月13日 16時40分
+description: アメリカの政府せいふは１２日にち、来年らいねんの１２月がつ３１日にちにユネスコから出でると言いいました。
+description_with_ruby: アメリカの<ruby>政府<rt>せいふ</rt></ruby>は１２<ruby>日<rt>にち</rt></ruby>、<ruby>来年<rt>らいねん</rt></ruby>の１２<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>にユネスコから<ruby>出<rt>で</rt></ruby>ると<ruby>言<rt>い</rt></ruby>いました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/13/k10011176341000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/13/k10011176341000.mp3
+contents: "<p>アメリカの<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は１２<ruby>日<rt>にち</rt></ruby>、<ruby>来年<rt>らいねん</rt></ruby>の１２<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>に<span\
+  \ style=\"color: blue;\">ユネスコ</span>から<ruby>出<rt>で</rt></ruby>ると<ruby>言<rt>い</rt></ruby>いました。そして、<span\
+  \ style=\"color: blue;\">ユネスコ</span>はイスラエルに<span style=\"color: blue;\"><ruby>偏見<rt>へんけん</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>っていて<span\
+  \ style=\"color: blue;\"><ruby>中立<rt>ちゅうりつ</rt></ruby></span>ではないと<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><span style=\"color: blue;\">ユネスコ</span>は<ruby>今年<rt>ことし</rt></ruby>の７<ruby>月<rt>がつ</rt></ruby>、「ヘブロン<ruby>旧市街<rt>きゅうしがい</rt></ruby>」という<ruby>町<rt>まち</rt></ruby>をパレスチナの<span\
+  \ style=\"color: blue;\"><ruby>世界遺産<rt>せかいいさん</rt></ruby></span>にすると<ruby>決<rt>き</rt></ruby>めました。パレスチナと<span\
+  \ style=\"color: blue;\"><ruby>争<rt>あらそ</rt></ruby>い</span>を<ruby>続<rt>つづ</rt></ruby>けるイスラエルは、これに<ruby>反対<rt>はんたい</rt></ruby>しました。</p>\n\
+  <p>アメリカは２０１１<ruby>年<rt>ねん</rt></ruby>、<span style=\"color: blue;\">ユネスコ</span>がパレスチナを<ruby>入<rt>い</rt></ruby>れたことに<ruby>反対<rt>はんたい</rt></ruby>して、<span\
+  \ style=\"color: blue;\">ユネスコ</span>にお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>わなくなりました。アメリカが<ruby>払<rt>はら</rt></ruby>っていないお<ruby>金<rt>かね</rt></ruby>は６００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になっています。</p>\n\
+  <p><span style=\"color: blue;\">ユネスコ</span>の<span style=\"color: blue;\"><ruby>代表<rt>だいひょう</rt></ruby></span>のボコバ<ruby>事務局長<rt>じむきょくちょう</rt></ruby>は「<span\
+  \ style=\"color: blue;\">ユネスコ</span>は、<ruby>世界中<rt>せかいじゅう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>にしている<span\
+  \ style=\"color: blue;\"><ruby>文化遺産<rt>ぶんかいさん</rt></ruby></span>を<span style=\"\
+  color: blue;\">テロ</span>から<span style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>っ</span>たり、<ruby>危険<rt>きけん</rt></ruby>な<span\
+  \ style=\"color: blue;\"><ruby>考<rt>かんが</rt></ruby>え</span>を<ruby>持<rt>も</rt></ruby>つ<ruby>人<rt>ひと</rt></ruby>がいなくなるように<ruby>教育<rt>きょういく</rt></ruby>したりしています。アメリカが<span\
+  \ style=\"color: blue;\">ユネスコ</span>から<ruby>出<rt>で</rt></ruby>ると<ruby>言<rt>い</rt></ruby>って、とても<ruby>残念<rt>ざんねん</rt></ruby>です」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: UNESCO
+  descriptions:
+  - <ruby><rb>国連</rb><rt>こくれん</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つで、<ruby><rb>教育</rb><rt>きょういく</rt></ruby>や<ruby><rb>科学</rb><rt>かがく</rt></ruby>、また<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>を<ruby><rb>通</rb><rt>つう</rt></ruby>じて、たがいに<ruby><rb>理解</rb><rt>りかい</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ることを<ruby><rb>目的</rb><rt>もくてき</rt></ruby>としている。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 偏見
+  descriptions:
+  - かたよった<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>見方</rb><rt>みかた</rt></ruby>。
+- word: 中立
+  descriptions:
+  - どちらにも<ruby><rb>味方</rb><rt>みかた</rt></ruby>しないこと。
+- word: 世界遺産
+  descriptions:
+  - ユネスコの「<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby><ruby><rb>及</rb><rt>およ</rt></ruby>び<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>の<ruby><rb>保護</rb><rt>ほご</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>条約</rb><rt>じょうやく</rt></ruby>」（「<ruby><rb>世界遺産保護条約</rb><rt>せかいいさんほごじょうやく</rt></ruby>」）にもとづいて<ruby><rb>決</rb><rt>き</rt></ruby>められた、<ruby><rb>世界的</rb><rt>せかいてき</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>す<ruby><rb>価値</rb><rt>かち</rt></ruby>があると<ruby><rb>認</rb><rt>みと</rt></ruby>められた<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>や<ruby><rb>自然</rb><rt>しぜん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby>として<ruby><rb>姫路城</rb><rt>ひめじじょう</rt></ruby>や<ruby><rb>法隆寺</rb><rt>ほうりゅうじ</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の<ruby><rb>首里城</rb><rt>しゅりじょう</rt></ruby>など、<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>として<ruby><rb>屋久島</rb><rt>やくしま</rt></ruby>や<ruby><rb>白神山地</rb><rt>しらかみさんち</rt></ruby>などが<ruby><rb>指定</rb><rt>してい</rt></ruby>されている。
+- word: 争い
+  descriptions:
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>うこと。もめごと。けんか。
+- word: 代表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって<ruby><rb>何</rb><rt>なに</rt></ruby>かをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>で<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>特色</rb><rt>とくしょく</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、そのもの。
+- word: 文化遺産
+  descriptions:
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>残</rb><rt>のこ</rt></ruby>したすぐれた<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>。
+- word: テロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 考え
+  descriptions:
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えること。また、<ruby><rb>考</rb><rt>かんが</rt></ruby>えた<ruby><rb>内容</rb><rt>ないよう</rt></ruby>。
+web_news_url: /news/web/2017/10/12/トランプ政権-ユネスコ脱退を表明-反イスラエル的と批判/
+source_url: http://www3.nhk.or.jp/news/easy/k10011176341000/k10011176341000.html
+...

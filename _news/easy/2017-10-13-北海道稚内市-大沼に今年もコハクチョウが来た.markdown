@@ -1,0 +1,71 @@
+---
+layout: easy_news
+newsid: k10011174651000
+categories: easy
+title: 北海道稚内市　大沼に今年もコハクチョウが来た
+title_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>稚内市<rt>わっかないし</rt></ruby>　<ruby>大沼<rt>おおぬま</rt></ruby>に<ruby>今年<rt>ことし</rt></ruby>もコハクチョウが<ruby>来<rt>き</rt></ruby>た
+last_modified_at: '2017-10-13T11:30:00+09:00'
+datetime: 2017年10月13日 11時30分
+description: コハクチョウという白鳥はくちょうはロシアのシベリアで卵たまごを産うんで、子こどもを育そだてます。
+description_with_ruby: コハクチョウという<ruby>白鳥<rt>はくちょう</rt></ruby>はロシアのシベリアで<ruby>卵<rt>たまご</rt></ruby>を<ruby>産<rt>う</rt></ruby>んで、<ruby>子<rt>こ</rt></ruby>どもを<ruby>育<rt>そだ</rt></ruby>てます。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/13/k10011174651000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/13/k10011174651000.mp3
+contents: "<p>コハクチョウという<span style=\"color: blue;\"><ruby>白鳥<rt>はくちょう</rt></ruby></span>はロシアのシベリアで<ruby>卵<rt>たまご</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>産<rt>う</rt></ruby>ん</span>で、<ruby>子<rt>こ</rt></ruby>どもを<ruby>育<rt>そだ</rt></ruby>てます。そして、<ruby>寒<rt>さむ</rt></ruby>くなる<ruby>前<rt>まえ</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>飛<rt>と</rt></ruby>んできて、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>本州<rt>ほんしゅう</rt></ruby></span>にいます。ロシアから<span style=\"\
+  color: blue;\"><ruby>本州<rt>ほんしゅう</rt></ruby></span>に<ruby>向<rt>む</rt></ruby>かう<ruby>途中<rt>とちゅう</rt></ruby>、<ruby>毎年<rt>まいとし</rt></ruby><ruby>北海道<rt>ほっかいどう</rt></ruby>のいちばん<ruby>北<rt>きた</rt></ruby>にある<ruby>稚内市<rt>わっかないし</rt></ruby>の<ruby>大沼<rt>おおぬま</rt></ruby>という<span\
+  \ style=\"color: blue;\"><ruby>沼<rt>ぬま</rt></ruby></span>でしばらく<ruby>休<rt>やす</rt></ruby>みます。</p>\n\
+  <p><ruby>３日<rt>みっか</rt></ruby>、<ruby>大沼<rt>おおぬま</rt></ruby>に<ruby>今年<rt>ことし</rt></ruby><ruby>最初<rt>さいしょ</rt></ruby>のコハクチョウが<ruby>飛<rt>と</rt></ruby>んできました。１１<ruby>日<rt>にち</rt></ruby>には１５００<span\
+  \ style=\"color: blue;\"><ruby>羽<rt>わ</rt></ruby></span>ぐらいのコハクチョウが<ruby>大沼<rt>おおぬま</rt></ruby>で<ruby>休<rt>やす</rt></ruby>んでいました。<ruby>夏<rt>なつ</rt></ruby>に<ruby>生<rt>う</rt></ruby>まれてまだ<span\
+  \ style=\"color: blue;\"><ruby>灰色<rt>はいいろ</rt></ruby></span>の<ruby>毛<rt>け</rt></ruby>がある<ruby>子<rt>こ</rt></ruby>どもの<ruby>鳥<rt>とり</rt></ruby>もいました。</p>\n\
+  <p><ruby>大沼<rt>おおぬま</rt></ruby>では７<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>鳥<rt>とり</rt></ruby>から<span\
+  \ style=\"color: blue;\">ウイルス</span>が<ruby>見<rt>み</rt></ruby>つかったため、<ruby>人<rt>ひと</rt></ruby>が<ruby>鳥<rt>とり</rt></ruby>に<ruby>触<rt>さわ</rt></ruby>ることができないように<ruby>周<rt>まわ</rt></ruby>りに<span\
+  \ style=\"color: blue;\">ネット</span>を<ruby>置<rt>お</rt></ruby>いています。<ruby>大沼<rt>おおぬま</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちは、<ruby>大<rt>おお</rt></ruby>きく<span\
+  \ style=\"color: blue;\"><ruby>羽<rt>はね</rt></ruby></span>を<span style=\"color: blue;\"\
+  ><ruby>広<rt>ひろ</rt></ruby>げる</span>コハクチョウを<span style=\"color: blue;\">ネット</span>の<ruby>外<rt>そと</rt></ruby>から<ruby>見<rt>み</rt></ruby>て、<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>っていました。</p>\n\
+  <p>コハクチョウは、もうすぐ<span style=\"color: blue;\"><ruby>本州<rt>ほんしゅう</rt></ruby></span>に<ruby>飛<rt>と</rt></ruby>んでいきます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 白鳥
+  descriptions:
+  - <ruby><rb>首</rb><rt>くび</rt></ruby>が<ruby><rb>長</rb><rt>なが</rt></ruby>く、<ruby><rb>羽</rb><rt>はね</rt></ruby>が<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>水鳥</rb><rt>みずとり</rt></ruby>。<ruby><rb>冬</rb><rt>ふゆ</rt></ruby>、シベリアから、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>北</rb><rt>きた</rt></ruby>の<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>湖</rb><rt>みずうみ</rt></ruby>や<ruby><rb>湾</rb><rt>わん</rt></ruby>にわたってくる。
+- word: 産む
+  descriptions:
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+- word: 本州
+  descriptions:
+  - <ruby><rb>日本列島</rb><rt>にっぽんれっとう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、いちばん<ruby><rb>大</rb><rt>おお</rt></ruby>きい<ruby><rb>島</rb><rt>しま</rt></ruby>。
+- word: 沼
+  descriptions:
+  - しぜんに、<ruby><rb>陸</rb><rt>りく</rt></ruby>のくぼみに<ruby><rb>水</rb><rt>みず</rt></ruby>がたまった<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>湖</rb><rt>みずうみ</rt></ruby>より<ruby><rb>浅</rb><rt>あさ</rt></ruby>いが、どろが<ruby><rb>深</rb><rt>ふか</rt></ruby>くて、モなどが<ruby><rb>生</rb><rt>は</rt></ruby>えている。
+- word: 羽
+  descriptions:
+  - <ruby><rb>鳥</rb><rt>とり</rt></ruby>やウサギを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 灰色
+  descriptions:
+  - <ruby><rb>灰</rb><rt>はい</rt></ruby>のような<ruby><rb>色</rb><rt>いろ</rt></ruby>。ねずみ<ruby><rb>色</rb><rt>いろ</rt></ruby>。グレー。
+  - <ruby><rb>希望</rb><rt>きぼう</rt></ruby>がないこと。
+  - <ruby><rb>疑</rb><rt>うたが</rt></ruby>わしいこと。
+- word: ウイルス
+  descriptions:
+  - <ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。
+- word: ネット
+  descriptions:
+  - <ruby><rb>網</rb><rt>あみ</rt></ruby>。
+  - テニス・バレーボール・バドミントン・<ruby><rb>卓球</rb><rt>たっきゅう</rt></ruby>などで、コートの<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>にしきってある<ruby><rb>網</rb><rt>あみ</rt></ruby>。
+  - 「ネットワーク」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - 「インターネット」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+- word: 羽
+  descriptions:
+  - <ruby><rb>鳥</rb><rt>とり</rt></ruby>や<ruby><rb>昆虫</rb><rt>こんちゅう</rt></ruby>などのつばさ。
+  - <ruby><rb>鳥</rb><rt>とり</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>えている<ruby><rb>毛</rb><rt>け</rt></ruby>。<ruby><rb>羽毛</rb><rt>うもう</rt></ruby>。
+  - <ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>のつばさ。
+- word: 広げる
+  descriptions:
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>くする。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>きくする。
+  - <ruby><rb>開</rb><rt>ひら</rt></ruby>く。あける。
+  - いっぱいに<ruby><rb>並</rb><rt>なら</rt></ruby>べちらかす。
+web_news_url: /news/web/2017/10/11/冬の使者コハクチョウ飛来-北海道-稚内/
+source_url: http://www3.nhk.or.jp/news/easy/k10011174651000/k10011174651000.html
+...
