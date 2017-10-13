@@ -1,0 +1,61 @@
+---
+layout: easy_news
+newsid: k10011175971000
+categories: easy
+title: 世界の都市のランキング　東京は去年と同じ３番
+title_with_ruby: <ruby>世界<rt>せかい</rt></ruby>の<ruby>都市<rt>とし</rt></ruby>のランキング　<ruby>東京<rt>とうきょう</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ３<ruby>番<rt>ばん</rt></ruby>
+last_modified_at: '2017-10-13T16:40:00+09:00'
+datetime: 2017年10月13日 16時40分
+description: 都市戦略研究所としせんりゃくけんきゅうじょは、世界せかいの都市としの「経済けいざい」「文化ぶんか・交流こうりゅう」「交通こうつう」など６つを比くらべて、毎年まいとしランキングを発表はっぴょうしています。
+description_with_ruby: <ruby>都市戦略研究所<rt>としせんりゃくけんきゅうじょ</rt></ruby>は、<ruby>世界<rt>せかい</rt></ruby>の<ruby>都市<rt>とし</rt></ruby>の「<ruby>経済<rt>けいざい</rt></ruby>」「<ruby>文化<rt>ぶんか</rt></ruby>・<ruby>交流<rt>こうりゅう</rt></ruby>」「<ruby>交通<rt>こうつう</rt></ruby>」など６つを<ruby>比<rt>くら</rt></ruby>べて、<ruby>毎年<rt>まいとし</rt></ruby>ランキングを<ruby>発表<rt>はっぴょう</rt></ruby>しています。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/13/k10011175971000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/13/k10011175971000.mp3
+contents: "<p><ruby>都市戦略研究所<rt>としせんりゃくけんきゅうじょ</rt></ruby>は、<ruby>世界<rt>せかい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>都市<rt>とし</rt></ruby></span>の「<ruby>経済<rt>けいざい</rt></ruby>」「<ruby>文化<rt>ぶんか</rt></ruby>・<span\
+  \ style=\"color: blue;\"><ruby>交流<rt>こうりゅう</rt></ruby></span>」「<ruby>交通<rt>こうつう</rt></ruby>」など６つを<ruby>比<rt>くら</rt></ruby>べて、<ruby>毎年<rt>まいとし</rt></ruby><span\
+  \ style=\"color: blue;\">ランキング</span>を<span style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しています。<ruby>今年<rt>ことし</rt></ruby>は４４の<span\
+  \ style=\"color: blue;\"><ruby>都市<rt>とし</rt></ruby></span>について<ruby>調<rt>しら</rt></ruby>べました。</p>\n\
+  <p>１<ruby>番<rt>ばん</rt></ruby>はイギリスのロンドン、２<ruby>番<rt>ばん</rt></ruby>はアメリカのニューヨークです。<ruby>東京<rt>とうきょう</rt></ruby>は３<ruby>番<rt>ばん</rt></ruby>で、<ruby>初<rt>はじ</rt></ruby>めてフランスのパリより<ruby>上<rt>うえ</rt></ruby>になった<ruby>去年<rt>きょねん</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じです。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>研究所<rt>けんきゅうじょ</rt></ruby></span>によると、<ruby>東京<rt>とうきょう</rt></ruby>は<ruby>外国<rt>がいこく</rt></ruby>から<ruby>来<rt>く</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えて「<ruby>文化<rt>ぶんか</rt></ruby>・<span\
+  \ style=\"color: blue;\"><ruby>交流<rt>こうりゅう</rt></ruby></span>」の<span style=\"color:\
+  \ blue;\"><ruby>点数<rt>てんすう</rt></ruby></span>が<ruby>上<rt>あ</rt></ruby>がっています。<ruby>飛行機<rt>ひこうき</rt></ruby>を<ruby>乗<rt>の</rt></ruby>り<ruby>換<rt>か</rt></ruby>えないで<ruby>行<rt>い</rt></ruby>ったり<ruby>来<rt>き</rt></ruby>たりできる<ruby>外国<rt>がいこく</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>都市<rt>とし</rt></ruby></span>が<ruby>増<rt>ふ</rt></ruby>えて「<ruby>交通<rt>こうつう</rt></ruby>」の<span\
+  \ style=\"color: blue;\"><ruby>点数<rt>てんすう</rt></ruby></span>も<ruby>上<rt>あ</rt></ruby>がりました。このため、２<ruby>番<rt>ばん</rt></ruby>のニューヨークと<ruby>東京<rt>とうきょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>差<rt>さ</rt></ruby></span>が<ruby>小<rt>ちい</rt></ruby>さくなっています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>研究所<rt>けんきゅうじょ</rt></ruby></span>は「これから、２０２０<ruby>年<rt>ねん</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby><span\
+  \ style=\"color: blue;\">オリンピック</span>のためのいろいろな<span style=\"color: blue;\"><ruby>政策<rt>せいさく</rt></ruby></span>が<ruby>進<rt>すす</rt></ruby>んでいったら、<ruby>東京<rt>とうきょう</rt></ruby>が２<ruby>番<rt>ばん</rt></ruby>になることもできます」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 都市
+  descriptions:
+  - たくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まり<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>町</rb><rt>まち</rt></ruby>。<ruby><rb>都会</rb><rt>とかい</rt></ruby>。
+- word: ランキング
+  descriptions:
+  - <ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。
+- word: 交流
+  descriptions:
+  - たがいに<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>来</rb><rt>き</rt></ruby>すること。<ruby><rb>交</rb><rt>ま</rt></ruby>じり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時間</rb><rt>じかん</rt></ruby>ごとに、<ruby><rb>流</rb><rt>なが</rt></ruby>れの<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>が<ruby><rb>逆</rb><rt>ぎゃく</rt></ruby>になる<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 研究所
+  descriptions:
+  - ものごとを<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>をする<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。
+- word: 点数
+  descriptions:
+  - <ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>や<ruby><rb>試合</rb><rt>しあい</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>を、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>の<ruby><rb>数</rb><rt>かず</rt></ruby>。
+- word: 差
+  descriptions:
+  - ちがい。へだたり。
+  - ある<ruby><rb>数</rb><rt>かず</rt></ruby>からほかの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>残</rb><rt>のこ</rt></ruby>りの<ruby><rb>数</rb><rt>かず</rt></ruby>。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: 政策
+  descriptions:
+  - <ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>上</rb><rt>うえ</rt></ruby>での<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>や、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>のやり<ruby><rb>方</rb><rt>かた</rt></ruby>。
+web_news_url: /news/web/2017/10/12/世界都市ランキング-東京は3位を維持/
+source_url: http://www3.nhk.or.jp/news/easy/k10011175971000/k10011175971000.html
+...
