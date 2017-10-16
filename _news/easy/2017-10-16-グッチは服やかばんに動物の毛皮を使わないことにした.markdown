@@ -1,0 +1,74 @@
+---
+layout: easy_news
+newsid: k10011176591000
+categories: easy
+title: 「グッチ」は服やかばんに動物の毛皮を使わないことにした
+title_with_ruby: 「グッチ」は<ruby>服<rt>ふく</rt></ruby>やかばんに<ruby>動物<rt>どうぶつ</rt></ruby>の<ruby>毛皮<rt>けがわ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>わないことにした
+last_modified_at: '2017-10-16T11:30:00+09:00'
+datetime: 2017年10月16日 11時30分
+description: 「グッチ」のマルコ・ビッザーリＣＥＯは１１日にち、来年らいねんからグッチの服ふくやかばんに、ミンクやウサギなどの動物どうぶつの毛皮けがわを使つかわないと言いいました。
+description_with_ruby: 「グッチ」のマルコ・ビッザーリＣＥＯは１１<ruby>日<rt>にち</rt></ruby>、<ruby>来年<rt>らいねん</rt></ruby>からグッチの<ruby>服<rt>ふく</rt></ruby>やかばんに、ミンクやウサギなどの<ruby>動物<rt>どうぶつ</rt></ruby>の<ruby>毛皮<rt>けがわ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>わないと<ruby>言<rt>い</rt></ruby>いました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/16/k10011176591000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/16/k10011176591000.mp3
+contents: "<p>「グッチ」のマルコ・ビッザーリＣＥＯは１１<ruby>日<rt>にち</rt></ruby>、<ruby>来年<rt>らいねん</rt></ruby>からグッチの<ruby>服<rt>ふく</rt></ruby>やかばんに、<span\
+  \ style=\"color: blue;\">ミンク</span>や<span style=\"color: blue;\">ウサギ</span>などの<ruby>動物<rt>どうぶつ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>毛皮<rt>けがわ</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>わないと<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>世界<rt>せかい</rt></ruby>で<ruby>動物<rt>どうぶつ</rt></ruby>を<span style=\"color:\
+  \ blue;\"><ruby>守<rt>まも</rt></ruby>る</span><span style=\"color: blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>をしている<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>などは、<ruby>動物<rt>どうぶつ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>毛皮<rt>けがわ</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>うことに<ruby>反対<rt>はんたい</rt></ruby>しています。<span\
+  \ style=\"color: blue;\"><ruby>毛皮<rt>けがわ</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>っていない<span\
+  \ style=\"color: blue;\">ブランド</span>をみんなに<ruby>知<rt>し</rt></ruby>ってもらう<span style=\"\
+  color: blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>もしています。</p>\n<p>ビッザーリＣＥＯは「どうしたら<span\
+  \ style=\"color: blue;\"><ruby>環境<rt>かんきょう</rt></ruby></span>と<ruby>動物<rt>どうぶつ</rt></ruby>にいいかを<ruby>考<rt>かんが</rt></ruby>えながら、これからも<span\
+  \ style=\"color: blue;\"><ruby>努力<rt>どりょく</rt></ruby></span>を<ruby>続<rt>つづ</rt></ruby>けます」と<ruby>話<rt>はな</rt></ruby>しました。グッチは、<ruby>今<rt>いま</rt></ruby>ある<span\
+  \ style=\"color: blue;\"><ruby>毛皮<rt>けがわ</rt></ruby></span>の<ruby>服<rt>ふく</rt></ruby>などは<span\
+  \ style=\"color: blue;\">オークション</span>に<ruby>出<rt>だ</rt></ruby>して、<ruby>売<rt>う</rt></ruby>ったお<ruby>金<rt>かね</rt></ruby>を<ruby>動物<rt>どうぶつ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>る</span><span style=\"color: blue;\"\
+  ><ruby>活動<rt>かつどう</rt></ruby></span>をしている<span style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>に<span\
+  \ style=\"color: blue;\"><ruby>寄付<rt>きふ</rt></ruby></span>すると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>動物<rt>どうぶつ</rt></ruby>を<span style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>る</span><span\
+  \ style=\"color: blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>をしている<span style=\"\
+  color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>は、グッチのように<ruby>動物<rt>どうぶつ</rt></ruby>を<ruby>大事<rt>だいじ</rt></ruby>にしようとする<span\
+  \ style=\"color: blue;\">ブランド</span>がもっと<ruby>増<rt>ふ</rt></ruby>えてほしいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 毛皮
+  descriptions:
+  - <ruby><rb>毛</rb><rt>け</rt></ruby>がついている<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>皮</rb><rt>かわ</rt></ruby>。
+- word: ミンク
+  descriptions:
+  - イタチに<ruby><rb>似</rb><rt>に</rt></ruby>たけもの。<ruby><rb>毛</rb><rt>け</rt></ruby>は<ruby><rb>黒茶色</rb><rt>くろちゃいろ</rt></ruby>でやわらかく、つやがあるので、<ruby><rb>高級</rb><rt>こうきゅう</rt></ruby>な<ruby><rb>毛皮</rb><rt>けがわ</rt></ruby>にされる。
+- word: 兎
+  descriptions:
+  - <ruby><rb>耳</rb><rt>みみ</rt></ruby>が<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>小形</rb><rt>こがた</rt></ruby>の<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>野山</rb><rt>のやま</rt></ruby>にすむノウサギ、<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>飼</rb><rt>か</rt></ruby>われたりするシロウサギ・アンゴラウサギなどがいる。ぴょんぴょんと、はねながら<ruby><rb>走</rb><rt>はし</rt></ruby>る。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 活動
+  descriptions:
+  - <ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: ブランド
+  descriptions:
+  - <ruby><rb>商標</rb><rt>しょうひょう</rt></ruby>。
+  - すぐれた<ruby><rb>製品</rb><rt>せいひん</rt></ruby>で<ruby><rb>知</rb><rt>し</rt></ruby>られた<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>。また、そこで<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>商品</rb><rt>しょうひん</rt></ruby>。
+- word: 環境
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>巻</rb><rt>ま</rt></ruby>き、<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる<ruby><rb>周</rb><rt>まわ</rt></ruby>りの<ruby><rb>世界</rb><rt>せかい</rt></ruby>。
+- word: 努力
+  descriptions:
+  - <ruby><rb>一生懸命</rb><rt>いっしょうけんめい</rt></ruby>にすること。
+- word: 競り売り
+  descriptions:
+  - <ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。
+- word: 寄付
+  descriptions:
+  - （おおやけの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>・<ruby><rb>寺</rb><rt>てら</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けるために）お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+web_news_url: /news/web/2017/10/13/高級ブランドグッチ-毛皮の使用取りやめへ/
+source_url: http://www3.nhk.or.jp/news/easy/k10011176591000/k10011176591000.html
+...
