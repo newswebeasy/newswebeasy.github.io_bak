@@ -1,0 +1,95 @@
+---
+layout: easy_news
+newsid: k10011176071000
+categories: easy
+title: 対馬で見つかったカワウソは「韓国から海を流れてきた」
+title_with_ruby: <ruby>対馬<rt>つしま</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかったカワウソは「<ruby>韓国<rt>かんこく</rt></ruby>から<ruby>海<rt>うみ</rt></ruby>を<ruby>流<rt>なが</rt></ruby>れてきた」
+last_modified_at: '2017-10-16T11:30:00+09:00'
+datetime: 2017年10月16日 11時30分
+description: 今年ことしの２月がつ、長崎県ながさきけんの対馬つしまに置おいたビデオに、野生やせいのカワウソが写うつっていました。
+description_with_ruby: <ruby>今年<rt>ことし</rt></ruby>の２<ruby>月<rt>がつ</rt></ruby>、<ruby>長崎県<rt>ながさきけん</rt></ruby>の<ruby>対馬<rt>つしま</rt></ruby>に<ruby>置<rt>お</rt></ruby>いたビデオに、<ruby>野生<rt>やせい</rt></ruby>のカワウソが<ruby>写<rt>うつ</rt></ruby>っていました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/16/k10011176071000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/16/k10011176071000.mp3
+contents: "<p><ruby>今年<rt>ことし</rt></ruby>の２<ruby>月<rt>がつ</rt></ruby>、<ruby>長崎県<rt>ながさきけん</rt></ruby>の<ruby>対馬<rt>つしま</rt></ruby>に<ruby>置<rt>お</rt></ruby>いた<span\
+  \ style=\"color: blue;\">ビデオ</span>に、<span style=\"color: blue;\"><ruby>野生<rt>やせい</rt></ruby></span>の<span\
+  \ style=\"color: blue;\">カワウソ</span>が<span style=\"color: blue;\"><ruby>写<rt>うつ</rt></ruby>っ</span>ていました。<ruby>日本<rt>にっぽん</rt></ruby>では４０<ruby>年<rt>ねん</rt></ruby>ぐらい、<span\
+  \ style=\"color: blue;\"><ruby>野生<rt>やせい</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">カワウソ</span>が<ruby>見<rt>み</rt></ruby>つかっていませんでした。<span style=\"color: blue;\"\
+  ><ruby>環境省<rt>かんきょうしょう</rt></ruby></span>は、<ruby>日本<rt>にっぽん</rt></ruby>からいなくなった「ニホンカワウソ」が<ruby>生<rt>い</rt></ruby>きている<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があるため、８<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろから<ruby>対馬<rt>つしま</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span>をしていました。</p>\n<p><span\
+  \ style=\"color: blue;\">カワウソ</span>の<span style=\"color: blue;\">ふん</span>の<span\
+  \ style=\"color: blue;\">ＤＮＡ</span>を<ruby>調<rt>しら</rt></ruby>べた<span style=\"color:\
+  \ blue;\"><ruby>結果<rt>けっか</rt></ruby></span>、<ruby>対馬<rt>つしま</rt></ruby>の<span style=\"\
+  color: blue;\">カワウソ</span>は、<ruby>韓国<rt>かんこく</rt></ruby>やロシアのサハリンにいる「ユーラシアカワウソ」の<span\
+  \ style=\"color: blue;\"><ruby>雄<rt>おす</rt></ruby></span>だとわかりました。<ruby>川<rt>かわ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くでは、<span\
+  \ style=\"color: blue;\"><ruby>幅<rt>はば</rt></ruby></span>が５ｃｍぐらいの、<span style=\"\
+  color: blue;\">カワウソ</span>の<span style=\"color: blue;\"><ruby>足跡<rt>あしあと</rt></ruby></span>のようなものも<ruby>見<rt>み</rt></ruby>つかりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span>をした<ruby>筑紫女学園大学<rt>ちくしじょがくえんだいがく</rt></ruby>の<ruby>佐々木<rt>ささき</rt></ruby><ruby>浩<rt>ひろし</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>教授<rt>きょうじゅ</rt></ruby></span>は「ニホンカワウソがいる<span style=\"\
+  color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>はとても<ruby>低<rt>ひく</rt></ruby>くなりましたが、<ruby>対馬<rt>つしま</rt></ruby>に<span\
+  \ style=\"color: blue;\">カワウソ</span>がいることがわかってうれしいです。<ruby>韓国<rt>かんこく</rt></ruby>から<ruby>海<rt>うみ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>流<rt>なが</rt></ruby>れ</span>てきた<span style=\"color:\
+  \ blue;\">カワウソ</span>が<ruby>対馬<rt>つしま</rt></ruby>に<ruby>住<rt>す</rt></ruby>むようになったと<ruby>考<rt>かんが</rt></ruby>えています」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: かわうそ
+  descriptions:
+  - <ruby><rb>水辺</rb><rt>みずべ</rt></ruby>にすむ<ruby><rb>小形</rb><rt>こがた</rt></ruby>の<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>足</rb><rt>あし</rt></ruby>に<ruby><rb>水</rb><rt>みず</rt></ruby>かきがあり、<ruby><rb>泳</rb><rt>およ</rt></ruby>ぎながら<ruby><rb>小動物</rb><rt>しょうどうぶつ</rt></ruby>をつかまえて<ruby><rb>食</rb><rt>た</rt></ruby>べる。<ruby><rb>特別天然記念物</rb><rt>とくべつてんねんきねんぶつ</rt></ruby>。
+- word: 流れる
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。
+  - <ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。
+  - うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - とりやめになる。
+- word: ビデオ
+  descriptions:
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。
+  - 「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 野生
+  descriptions:
+  - <ruby><rb>動植物</rb><rt>どうしょくぶつ</rt></ruby>が、<ruby><rb>山</rb><rt>やま</rt></ruby>や<ruby><rb>野原</rb><rt>のはら</rt></ruby>でしぜんに<ruby><rb>育</rb><rt>そだ</rt></ruby>ち、<ruby><rb>生</rb><rt>い</rt></ruby>きていること。
+- word: 写る
+  descriptions:
+  - （<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>字</rb><rt>じ</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>が）すけて<ruby><rb>見</rb><rt>み</rt></ruby>える。
+  - <ruby><rb>写真</rb><rt>しゃしん</rt></ruby>にとられる。
+- word: 環境省
+  descriptions:
+  - <ruby><rb>公害</rb><rt>こうがい</rt></ruby>をなくし、<ruby><rb>自然</rb><rt>しぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 調査
+  descriptions:
+  - <ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: 糞
+  descriptions:
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>消化</rb><rt>しょうか</rt></ruby>したあと、<ruby><rb>体外</rb><rt>たいがい</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>されるもの。<ruby><rb>大便</rb><rt>だいべん</rt></ruby>。
+- word: DNA
+  descriptions:
+  - <ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>の<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>遺伝子</rb><rt>いでんし</rt></ruby>を<ruby><rb>構成</rb><rt>こうせい</rt></ruby>する<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+- word: 雄
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>男性</rb><rt>だんせい</rt></ruby>にあたるもの。
+- word: 幅
+  descriptions:
+  - <ruby><rb>横</rb><rt>よこ</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さ。
+  - へだたり。<ruby><rb>開</rb><rt>ひら</rt></ruby>き。
+  - ゆとり。よゆう。
+- word: 足跡
+  descriptions:
+  - <ruby><rb>歩</rb><rt>ある</rt></ruby>いたあとに<ruby><rb>残</rb><rt>のこ</rt></ruby>る<ruby><rb>足</rb><rt>あし</rt></ruby>のあと。
+  - にげた<ruby><rb>道筋</rb><rt>みちすじ</rt></ruby>。
+  - <ruby><rb>今</rb><rt>いま</rt></ruby>までにやってきたこと。
+- word: 教授
+  descriptions:
+  - <ruby><rb>大学</rb><rt>だいがく</rt></ruby>の<ruby><rb>先生</rb><rt>せんせい</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>にものを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+web_news_url: /news/web/2017/10/12/対馬でユーラシアカワウソの生息確認-韓国から漂着か/
+source_url: http://www3.nhk.or.jp/news/easy/k10011176071000/k10011176071000.html
+...
