@@ -1,0 +1,76 @@
+---
+layout: easy_news
+newsid: k10011178511000
+categories: easy
+title: 宇宙に運ばれたりんごを「宇宙りんご」という名前で売り出す
+title_with_ruby: <ruby>宇宙<rt>うちゅう</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>ばれたりんごを「<ruby>宇宙<rt>うちゅう</rt></ruby>りんご」という<ruby>名前<rt>なまえ</rt></ruby>で<ruby>売<rt>う</rt></ruby>り<ruby>出<rt>だ</rt></ruby>す
+last_modified_at: '2017-10-17T11:30:00+09:00'
+datetime: 2017年10月17日 11時30分
+description: 茨城県いばらきけん大子町だいごまちでは、濃こい赤あかい色いろをしていて味あじが濃こい「秋映あきばえ」というりんごを作つくっていて、今いまたくさん取とれています。
+description_with_ruby: <ruby>茨城県<rt>いばらきけん</rt></ruby><ruby>大子町<rt>だいごまち</rt></ruby>では、<ruby>濃<rt>こ</rt></ruby>い<ruby>赤<rt>あか</rt></ruby>い<ruby>色<rt>いろ</rt></ruby>をしていて<ruby>味<rt>あじ</rt></ruby>が<ruby>濃<rt>こ</rt></ruby>い「<ruby>秋映<rt>あきばえ</rt></ruby>」というりんごを<ruby>作<rt>つく</rt></ruby>っていて、<ruby>今<rt>いま</rt></ruby>たくさん<ruby>取<rt>と</rt></ruby>れています。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/17/k10011178511000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/17/k10011178511000.mp3
+contents: "<p><ruby>茨城県<rt>いばらきけん</rt></ruby><ruby>大子町<rt>だいごまち</rt></ruby>では、<span\
+  \ style=\"color: blue;\"><ruby>濃<rt>こ</rt></ruby>い</span><ruby>赤<rt>あか</rt></ruby>い<ruby>色<rt>いろ</rt></ruby>をしていて<ruby>味<rt>あじ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>濃<rt>こ</rt></ruby>い</span>「<ruby>秋映<rt>あきばえ</rt></ruby>」という<span\
+  \ style=\"color: blue;\">りんご</span>を<ruby>作<rt>つく</rt></ruby>っていて、<ruby>今<rt>いま</rt></ruby>たくさん<span\
+  \ style=\"color: blue;\"><ruby>取<rt>と</rt></ruby>れ</span>ています。</p>\n<p>「<ruby>秋映<rt>あきばえ</rt></ruby>」は、<ruby>味<rt>あじ</rt></ruby>がよくて<span\
+  \ style=\"color: blue;\"><ruby>腐<rt>くさ</rt></ruby>り</span>にくいため、<ruby>国際<rt>こくさい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby>ステーション</span>に<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>に<ruby>選<rt>えら</rt></ruby>ばれました。そして、<ruby>去年<rt>きょねん</rt></ruby>１２<ruby>月<rt>がつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>宇宙船<rt>うちゅうせん</rt></ruby></span>で<span style=\"color:\
+  \ blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>に<ruby>運<rt>はこ</rt></ruby>ばれました。</p>\n\
+  <p><ruby>大子町<rt>だいごまち</rt></ruby>では、<ruby>今年<rt>ことし</rt></ruby>から「<ruby>秋映<rt>あきばえ</rt></ruby>」を「<ruby>宇宙<rt>うちゅう</rt></ruby>りんご」という<ruby>名前<rt>なまえ</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>り<ruby>出<rt>だ</rt></ruby>す</span>ことになりました。<span\
+  \ style=\"color: blue;\">ポスター</span>などを<ruby>作<rt>つく</rt></ruby>って、<span style=\"\
+  color: blue;\"><ruby>宣伝<rt>せんでん</rt></ruby></span>しています。</p>\n<p><span style=\"\
+  color: blue;\">りんご</span>を<ruby>作<rt>つく</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>は「<ruby>大子町<rt>だいごまち</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、<ruby>取<rt>と</rt></ruby>ったばかりのおいしい<span\
+  \ style=\"color: blue;\">りんご</span>を<ruby>食<rt>た</rt></ruby>べてください。<ruby>大子町<rt>だいごまち</rt></ruby>の<span\
+  \ style=\"color: blue;\">りんご</span>が<ruby>有名<rt>ゆうめい</rt></ruby>になったらうれしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 宇宙
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。
+- word: りんご
+  descriptions:
+  - <ruby><rb>寒</rb><rt>さむ</rt></ruby>い<ruby><rb>地方</rb><rt>ちほう</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>られる<ruby><rb>果物</rb><rt>くだもの</rt></ruby>。あまずっぱくて、かおりがよい。<ruby><rb>五月</rb><rt>ごがつ</rt></ruby>ごろ<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>き、<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>実</rb><rt>みの</rt></ruby>る。
+- word: 売り出す
+  descriptions:
+  - <ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>始</rb><rt>はじ</rt></ruby>める。
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られ<ruby><rb>始</rb><rt>はじ</rt></ruby>める。
+- word: 濃い
+  descriptions:
+  - <ruby><rb>色合</rb><rt>いろあ</rt></ruby>いや<ruby><rb>味</rb><rt>あじ</rt></ruby>などが<ruby><rb>強</rb><rt>つよ</rt></ruby>い。
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>にふくまれているものの、<ruby><rb>度合</rb><rt>どあ</rt></ruby>いが<ruby><rb>高</rb><rt>たか</rt></ruby>い。
+  - びっしりとすき<ruby><rb>間</rb><rt>ま</rt></ruby>がない。
+  - そのような<ruby><rb>感</rb><rt>かん</rt></ruby>じが<ruby><rb>強</rb><rt>つよ</rt></ruby>い。
+- word: 取れる
+  descriptions:
+  - はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。
+  - つかれなどが、なくなる。
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>ることができる。
+  - そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。
+  - <ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+- word: 腐る
+  descriptions:
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>がいたむ。
+  - <ruby><rb>木</rb><rt>き</rt></ruby>などがいたんでぼろぼろになる。
+  - <ruby><rb>元気</rb><rt>げんき</rt></ruby>がなくなる。
+  - すっかりだめになる。
+- word: 宇宙ステーション
+  descriptions:
+  - スペースシャトルなどで<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby><ruby><rb>旅行</rb><rt>りょこう</rt></ruby>や、<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>での<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>の<ruby><rb>基地</rb><rt>きち</rt></ruby>として、その<ruby><rb>中</rb><rt>なか</rt></ruby>でたくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>続</rb><rt>つづ</rt></ruby>けられる<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>人工衛星</rb><rt>じんこうえいせい</rt></ruby>。
+- word: 宇宙船
+  descriptions:
+  - <ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>飛行</rb><rt>ひこう</rt></ruby>するための<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: ポスター
+  descriptions:
+  - <ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文</rb><rt>ぶん</rt></ruby>をかいた<ruby><rb>宣伝用</rb><rt>せんでんよう</rt></ruby>の<ruby><rb>張</rb><rt>は</rt></ruby>り<ruby><rb>紙</rb><rt>がみ</rt></ruby>。
+- word: 宣伝
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>らせ<ruby><rb>広</rb><rt>ひろ</rt></ruby>めること。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>げさに<ruby><rb>言</rb><rt>い</rt></ruby>いふらすこと。
+web_news_url: /news/web/2017/10/15/茨城-大子町-宇宙りんごをPR/
+source_url: http://www3.nhk.or.jp/news/easy/k10011178511000/k10011178511000.html
+...
