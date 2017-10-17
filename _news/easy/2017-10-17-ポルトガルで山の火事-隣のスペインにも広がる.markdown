@@ -1,0 +1,65 @@
+---
+layout: easy_news
+newsid: k10011179871000
+categories: easy
+title: ポルトガルで山の火事　隣のスペインにも広がる
+title_with_ruby: ポルトガルで<ruby>山<rt>やま</rt></ruby>の<ruby>火事<rt>かじ</rt></ruby>　<ruby>隣<rt>となり</rt></ruby>のスペインにも<ruby>広<rt>ひろ</rt></ruby>がる
+last_modified_at: '2017-10-17T16:10:00+09:00'
+datetime: 2017年10月17日 16時10分
+description: １５日にち、ポルトガルの中部ちゅうぶと北きたのほうの山やまで大おおきな火事かじがありました。
+description_with_ruby: １５<ruby>日<rt>にち</rt></ruby>、ポルトガルの<ruby>中部<rt>ちゅうぶ</rt></ruby>と<ruby>北<rt>きた</rt></ruby>のほうの<ruby>山<rt>やま</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>火事<rt>かじ</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/17/k10011179871000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/17/k10011179871000.mp3
+contents: "<p>１５<ruby>日<rt>にち</rt></ruby>、ポルトガルの<span style=\"color: blue;\"><ruby>中部<rt>ちゅうぶ</rt></ruby></span>と<ruby>北<rt>きた</rt></ruby>の<span\
+  \ style=\"color: blue;\">ほう</span>の<ruby>山<rt>やま</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>火事<rt>かじ</rt></ruby>がありました。１６<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>になっても、６０<ruby>以上<rt>いじょう</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>火事<rt>かじ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。ポルトガルの<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>によると、３６<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、７<ruby>人<rt>にん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>行方不明<rt>ゆくえふめい</rt></ruby></span>になっています。コスタ<ruby>首相<rt>しゅしょう</rt></ruby>は、<ruby>周<rt>まわ</rt></ruby>りの<ruby>国<rt>くに</rt></ruby>にポルトガルを<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>け</span>てほしいと<ruby>頼<rt>たの</rt></ruby>みました。</p>\n\
+  <p><ruby>火事<rt>かじ</rt></ruby>は<ruby>隣<rt>となり</rt></ruby>のスペインにも<span style=\"color:\
+  \ blue;\"><ruby>広<rt>ひろ</rt></ruby>がっ</span>ています。スペインの<ruby>山<rt>やま</rt></ruby>では<ruby>別<rt>べつ</rt></ruby>の<ruby>火事<rt>かじ</rt></ruby>もあって、４<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p>ポルトガルのテレビなどは、<span style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>くて<ruby>風<rt>かぜ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いていることや、<ruby>空気<rt>くうき</rt></ruby>が<ruby>乾<rt>かわ</rt></ruby>いていることも<ruby>原因<rt>げんいん</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>ポルトガルでは６<ruby>月<rt>がつ</rt></ruby>にも<ruby>山<rt>やま</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>火事<rt>かじ</rt></ruby>があって、６４<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 広がる
+  descriptions:
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>くなる。
+  - <ruby><rb>広々</rb><rt>ひろびろ</rt></ruby>と<ruby><rb>見</rb><rt>み</rt></ruby>わたせる。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+- word: 中部
+  descriptions:
+  - <ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>中部地方</rb><rt>ちゅうぶちほう</rt></ruby>のこと。
+- word: 方
+  descriptions:
+  - <ruby><rb>向</rb><rt>む</rt></ruby>き。
+  - それぞれの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。
+  - <ruby><rb>四角</rb><rt>しかく</rt></ruby>。
+  - やりかた。
+  - <ruby><rb>分</rb><rt>わ</rt></ruby>けたときの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>部類</rb><rt>ぶるい</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>をうやまって<ruby><rb>言</rb><rt>い</rt></ruby>うことば。かた。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 行方不明
+  descriptions:
+  - どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+- word: 広がる
+  descriptions:
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>くなる。
+  - <ruby><rb>広々</rb><rt>ひろびろ</rt></ruby>と<ruby><rb>見</rb><rt>み</rt></ruby>わたせる。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+- word: 気温
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。
+web_news_url: /news/web/2017/10/17/ポルトガルの山火事-隣国スペインにも拡大-40人死亡/
+source_url: http://www3.nhk.or.jp/news/easy/k10011179871000/k10011179871000.html
+...

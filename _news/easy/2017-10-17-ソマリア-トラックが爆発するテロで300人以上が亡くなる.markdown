@@ -1,0 +1,65 @@
+---
+layout: easy_news
+newsid: k10011180171000
+categories: easy
+title: ソマリア　トラックが爆発するテロで３００人以上が亡くなる
+title_with_ruby: ソマリア　トラックが<ruby>爆発<rt>ばくはつ</rt></ruby>するテロで３００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+last_modified_at: '2017-10-17T16:10:00+09:00'
+datetime: 2017年10月17日 16時10分
+description: アフリカにあるソマリアの首都しゅとモガディシオで１４日じゅうよっか、トラックが爆発ばくはつするテロがありました。
+description_with_ruby: アフリカにあるソマリアの<ruby>首都<rt>しゅと</rt></ruby>モガディシオで<ruby>１４日<rt>じゅうよっか</rt></ruby>、トラックが<ruby>爆発<rt>ばくはつ</rt></ruby>するテロがありました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/17/k10011180171000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/17/k10011180171000.mp3
+contents: "<p>アフリカにあるソマリアの<span style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>モガディシオで<ruby>１４日<rt>じゅうよっか</rt></ruby>、<span\
+  \ style=\"color: blue;\">トラック</span>が<span style=\"color: blue;\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>する<span\
+  \ style=\"color: blue;\">テロ</span>がありました。<span style=\"color: blue;\">トラック</span>はホテルや<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>の<ruby>建物<rt>たてもの</rt></ruby>などが<ruby>集<rt>あつ</rt></ruby>まる<ruby>場所<rt>ばしょ</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>して、たくさんの<ruby>建物<rt>たてもの</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れました。モガディシオの<ruby>病院<rt>びょういん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>によると、３００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、４００<ruby>人<rt>にん</rt></ruby>ぐらいがけがをしました。</p>\n\
+  <p>モガディシオでは<ruby>病院<rt>びょういん</rt></ruby>が<ruby>足<rt>た</rt></ruby>りないため、トルコは<ruby>飛行機<rt>ひこうき</rt></ruby>を<ruby>出<rt>だ</rt></ruby>してけがをした<ruby>人<rt>ひと</rt></ruby>をトルコの<ruby>病院<rt>びょういん</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>ぶことにしました。</p>\n\
+  <p>ソマリアでは<ruby>国<rt>くに</rt></ruby>の<ruby>中<rt>なか</rt></ruby>での<ruby>戦争<rt>せんそう</rt></ruby>が２０<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>続<rt>つづ</rt></ruby>いていましたが、<span\
+  \ style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>や<ruby>外国<rt>がいこく</rt></ruby>などが<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>して、５<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>今<rt>いま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>ができました。<span style=\"\
+  color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、「アッシャバーブ」という<span style=\"color:\
+  \ blue;\">グループ</span>が<ruby>１４日<rt>じゅうよっか</rt></ruby>の<span style=\"color: blue;\"\
+  >テロ</span>を<span style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こし</span>たと<ruby>考<rt>かんが</rt></ruby>えています。この<span\
+  \ style=\"color: blue;\">グループ</span>はソマリアなどで<ruby>何<rt>なん</rt></ruby><ruby>度<rt>ど</rt></ruby>も<span\
+  \ style=\"color: blue;\">テロ</span>を<span style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こし</span>ています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: トラック
+  descriptions:
+  - <ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rt></ruby>。
+- word: 爆発
+  descriptions:
+  - <ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>破裂</rb><rt>はれつ</rt></ruby>すること。
+  - おさえていた<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが、<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>出</rb><rt>で</rt></ruby>ること。
+- word: テロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: 首都
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 起こす
+  descriptions:
+  - （<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。
+  - <ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。
+  - （<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。
+  - ほりかえす。
+web_news_url: /news/web/2017/10/17/ソマリア首都の爆弾テロ-死者300人を超える/
+source_url: http://www3.nhk.or.jp/news/easy/k10011180171000/k10011180171000.html
+...

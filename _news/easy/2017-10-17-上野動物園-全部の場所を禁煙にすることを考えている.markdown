@@ -1,0 +1,40 @@
+---
+layout: easy_news
+newsid: k10011178821000
+categories: easy
+title: 上野動物園　全部の場所を禁煙にすることを考えている
+title_with_ruby: <ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>　<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>禁煙<rt>きんえん</rt></ruby>にすることを<ruby>考<rt>かんが</rt></ruby>えている
+last_modified_at: '2017-10-17T11:30:00+09:00'
+datetime: 2017年10月17日 11時30分
+description: 東京とうきょうの上野動物園うえのどうぶつえんは、パンダの赤あかちゃん「シャンシャン」を１２月がつごろからみんなに見みせる予定よていです。
+description_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>は、パンダの<ruby>赤<rt>あか</rt></ruby>ちゃん「シャンシャン」を１２<ruby>月<rt>がつ</rt></ruby>ごろからみんなに<ruby>見<rt>み</rt></ruby>せる<ruby>予定<rt>よてい</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/17/k10011178821000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/17/k10011178821000.mp3
+contents: "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>は、<span\
+  \ style=\"color: blue;\">パンダ</span>の<ruby>赤<rt>あか</rt></ruby>ちゃん「シャンシャン」を１２<ruby>月<rt>がつ</rt></ruby>ごろからみんなに<ruby>見<rt>み</rt></ruby>せる<ruby>予定<rt>よてい</rt></ruby>です。このため、これからたくさんの<ruby>家族<rt>かぞく</rt></ruby>が<ruby>動物園<rt>どうぶつえん</rt></ruby>に<ruby>来<rt>く</rt></ruby>ると<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><ruby>東京動物園協会<rt>とうきょうどうぶつえんきょうかい</rt></ruby>などは、<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>の<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>禁煙<rt>きんえん</rt></ruby></span>にして、たばこを<ruby>吸<rt>す</rt></ruby>ってはいけないことにしたいと<ruby>考<rt>かんが</rt></ruby>えています。<ruby>子<rt>こ</rt></ruby>どもなどが、ほかの<ruby>人<rt>ひと</rt></ruby>のたばこの<span\
+  \ style=\"color: blue;\"><ruby>煙<rt>けむり</rt></ruby></span>を<ruby>吸<rt>す</rt></ruby>わないようにするためです。</p>\n\
+  <p><ruby>東京動物園協会<rt>とうきょうどうぶつえんきょうかい</rt></ruby>などは、シャンシャンをみんなに<ruby>見<rt>み</rt></ruby>せる<ruby>前<rt>まえ</rt></ruby>に、<ruby>会議<rt>かいぎ</rt></ruby>をして<span\
+  \ style=\"color: blue;\"><ruby>禁煙<rt>きんえん</rt></ruby></span>にするかどうか<ruby>決<rt>き</rt></ruby>めたいと<ruby>考<rt>かんが</rt></ruby>えています。そのあと、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>葛西臨海水族園<rt>かさいりんかいすいぞくえん</rt></ruby>なども<span\
+  \ style=\"color: blue;\"><ruby>禁煙<rt>きんえん</rt></ruby></span>にできるかどうか<ruby>考<rt>かんが</rt></ruby>えると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>でまず<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>禁煙<rt>きんえん</rt></ruby></span>にできたら、<ruby>同<rt>おな</rt></ruby>じように<span\
+  \ style=\"color: blue;\"><ruby>禁煙<rt>きんえん</rt></ruby></span>にする<ruby>動物園<rt>どうぶつえん</rt></ruby>なども<ruby>増<rt>ふ</rt></ruby>えると<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 禁煙
+  descriptions:
+  - たばこをすってはいけないこと。
+  - たばこをやめること。
+- word: パンダ
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中央部</rb><rt>ちゅうおうぶ</rt></ruby>にすむけもの。ジャイアントパンダとレッサーパンダがいる。
+  - <ruby><rb>特</rb><rt>とく</rt></ruby>にジャイアントパンダ。<ruby><rb>中国西部</rb><rt>ちゅうごくせいぶ</rt></ruby>の<ruby><rb>山地</rb><rt>さんち</rt></ruby>にすむ。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>に<ruby><rb>色分</rb><rt>いろわ</rt></ruby>けされて、<ruby><rb>顔</rb><rt>かお</rt></ruby>つきや<ruby><rb>動作</rb><rt>どうさ</rt></ruby>がかわいい。
+- word: 煙
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>燃</rb><rt>も</rt></ruby>えるときに<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>気体</rb><rt>きたい</rt></ruby>。けむ。けぶり。
+  - けむりのように<ruby><rb>見</rb><rt>み</rt></ruby>えるもの。
+web_news_url: /news/web/2017/10/16/上野動物園-園内全域の禁煙を検討/
+source_url: http://www3.nhk.or.jp/news/easy/k10011178821000/k10011178821000.html
+...
