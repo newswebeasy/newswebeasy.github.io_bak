@@ -1,0 +1,54 @@
+---
+layout: easy_news
+newsid: k10011179621000
+categories: easy
+title: たくさん荷物を運ぶ長いトラックを運転する実験が始まる
+title_with_ruby: たくさん<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>長<rt>なが</rt></ruby>いトラックを<ruby>運転<rt>うんてん</rt></ruby>する<ruby>実験<rt>じっけん</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+last_modified_at: '2017-10-18T11:30:00+09:00'
+datetime: 2017年10月18日 11時30分
+description: 荷物にもつを運はこぶ会社かいしゃは、車くるまを運転うんてんする人ひとが足たりなくて困こまっています。
+description_with_ruby: <ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくて<ruby>困<rt>こま</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/18/k10011179621000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/18/k10011179621000.mp3
+contents: "<p><ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくて<ruby>困<rt>こま</rt></ruby>っています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby></span>などは、<span\
+  \ style=\"color: blue;\">トラック</span>の<ruby>後<rt>うし</rt></ruby>ろに<span style=\"color:\
+  \ blue;\">トレーラー</span>を<span style=\"color: blue;\">つなげ</span>て、１<ruby>回<rt>かい</rt></ruby>にたくさんの<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶことを<ruby>計画<rt>けいかく</rt></ruby>しています。<ruby>去年<rt>きょねん</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby>から、<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>会社<rt>かいしゃ</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にこのような<ruby>長<rt>なが</rt></ruby>い<span\
+  \ style=\"color: blue;\">トラック</span>が<ruby>道<rt>みち</rt></ruby>を<ruby>走<rt>はし</rt></ruby>っても<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>問題<rt>もんだい</rt></ruby>がないか<ruby>調<rt>しら</rt></ruby>べています。</p>\n\
+  <p>「<ruby>福山通運<rt>ふくやまつううん</rt></ruby>」は１６<ruby>日<rt>にち</rt></ruby>から、<span style=\"\
+  color: blue;\">トレーラー</span>を<span style=\"color: blue;\">つなげる</span>と<ruby>長<rt>なが</rt></ruby>さが２５ｍになる<span\
+  \ style=\"color: blue;\">トラック</span>を<ruby>運転<rt>うんてん</rt></ruby>する<span style=\"\
+  color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>を<ruby>始<rt>はじ</rt></ruby>めました。<span\
+  \ style=\"color: blue;\">トラック</span>２<ruby>台<rt>だい</rt></ruby>の<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶことができます。</p>\n\
+  <p><ruby>普通<rt>ふつう</rt></ruby>の<ruby>道<rt>みち</rt></ruby>を<ruby>走<rt>はし</rt></ruby>ることができる<ruby>車<rt>くるま</rt></ruby>は、<ruby>長<rt>なが</rt></ruby>さ２１ｍ<ruby>以下<rt>いか</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>です。このため<ruby>特別<rt>とくべつ</rt></ruby>な<span\
+  \ style=\"color: blue;\"><ruby>許可<rt>きょか</rt></ruby></span>をもらって、１<ruby>週間<rt>しゅうかん</rt></ruby>に<ruby>３日<rt>みっか</rt></ruby>、<ruby>愛知県<rt>あいちけん</rt></ruby>と<ruby>静岡県<rt>しずおかけん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>高速道路<rt>こうそくどうろ</rt></ruby></span>を<ruby>走<rt>はし</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: トラック
+  descriptions:
+  - <ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rt></ruby>。
+- word: 実験
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。
+- word: 国土交通省
+  descriptions:
+  - <ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>建物</rb><rt>たてもの</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>交通</rb><rt>こうつう</rt></ruby>・<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>の<ruby><rb>運送</rb><rt>うんそう</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>国交省</rb><rt>こっこうしょう</rt></ruby>。
+- word: トレーラー
+  descriptions:
+  - エンジンがなく、<ruby><rb>他</rb><rt>た</rt></ruby>の<ruby><rb>車</rb><rt>くるま</rt></ruby>に<ruby><rb>引</rb><rt>ひ</rt></ruby>かれる<ruby><rb>形</rb><rt>かたち</rt></ruby>で<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>車</rb><rt>くるま</rt></ruby>。
+- word: つなげる
+  descriptions:
+  - <ruby><rb>結</rb><rt>むす</rt></ruby>びつけて、はなれないようにする。つなぐ。
+- word: つなげる
+  descriptions:
+  - <ruby><rb>結</rb><rt>むす</rt></ruby>びつけて、はなれないようにする。つなぐ。
+- word: 許可
+  descriptions:
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>ていたことを、よいと<ruby><rb>許</rb><rt>ゆる</rt></ruby>すこと。<ruby><rb>許</rb><rt>ゆる</rt></ruby>し。
+- word: 高速道路
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>が<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>走</rb><rt>はし</rt></ruby>れるように、<ruby><rb>立体交差</rb><rt>りったいこうさ</rt></ruby>にしたり、<ruby><rb>上</rb><rt>のぼ</rt></ruby>り<ruby><rb>下</rb><rt>くだ</rt></ruby>りを<ruby><rb>分</rb><rt>わ</rt></ruby>けたりした<ruby><rb>道路</rb><rt>どうろ</rt></ruby>。ハイウエー。
+web_news_url: /news/web/2017/10/16/運送業界-人手不足でダブル連結トラックの運用実験/
+source_url: http://www3.nhk.or.jp/news/easy/k10011179621000/k10011179621000.html
+...
