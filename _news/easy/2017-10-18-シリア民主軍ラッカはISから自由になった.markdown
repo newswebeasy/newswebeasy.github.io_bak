@@ -1,0 +1,52 @@
+---
+layout: easy_news
+newsid: k10011181151000
+categories: easy
+title: シリア民主軍「ラッカはＩＳから自由になった」
+title_with_ruby: シリア<ruby>民主軍<rt>みんしゅぐん</rt></ruby>「ラッカはＩＳから<ruby>自由<rt>じゆう</rt></ruby>になった」
+last_modified_at: '2017-10-18T18:10:00+09:00'
+datetime: 2017年10月18日 18時10分
+description: 世界中せかいじゅうでテロを続つづけているＩＳ＝イスラミックステートは、３年ねん前まえからシリアのラッカを支配しはいして、ここは自分じぶんたちの国くにの首都しゅとだと言いっていました。
+description_with_ruby: <ruby>世界中<rt>せかいじゅう</rt></ruby>でテロを<ruby>続<rt>つづ</rt></ruby>けているＩＳ＝イスラミックステートは、３<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>からシリアのラッカを<ruby>支配<rt>しはい</rt></ruby>して、ここは<ruby>自分<rt>じぶん</rt></ruby>たちの<ruby>国<rt>くに</rt></ruby>の<ruby>首都<rt>しゅと</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っていました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/18/k10011181151000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/18/k10011181151000.mp3
+contents: "<p><ruby>世界中<rt>せかいじゅう</rt></ruby>で<span style=\"color: blue;\">テロ</span>を<ruby>続<rt>つづ</rt></ruby>けているＩＳ＝イスラミックステートは、３<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>からシリアのラッカを<span\
+  \ style=\"color: blue;\"><ruby>支配<rt>しはい</rt></ruby></span>して、ここは<ruby>自分<rt>じぶん</rt></ruby>たちの<ruby>国<rt>くに</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>だと<ruby>言<rt>い</rt></ruby>っていました。</p>\n\
+  <p>シリア<ruby>民主軍<rt>みんしゅぐん</rt></ruby>は、ラッカを<span style=\"color: blue;\"><ruby>取<rt>と</rt></ruby>り<ruby>戻<rt>もど</rt></ruby>す</span>ためにＩＳと<span\
+  \ style=\"color: blue;\"><ruby>戦<rt>たたか</rt></ruby>っ</span>ていました。そして１７<ruby>日<rt>にち</rt></ruby>、「ラッカはＩＳから<ruby>自由<rt>じゆう</rt></ruby>になった」と<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>ＩＳは<ruby>今<rt>いま</rt></ruby>まで、イラクとシリアのたくさんのまちを<span\
+  \ style=\"color: blue;\"><ruby>支配<rt>しはい</rt></ruby></span>してきました。しかし、イラクやシリア、アメリカ、ロシアなどの<span\
+  \ style=\"color: blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>と<span style=\"color: blue;\"\
+  ><ruby>戦<rt>たたか</rt></ruby>っ</span>たあと、ＩＳは<span style=\"color: blue;\"><ruby>支配<rt>しはい</rt></ruby></span>していた<ruby>場所<rt>ばしょ</rt></ruby>を１つずつなくしました。そして、<span\
+  \ style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>だと<ruby>言<rt>い</rt></ruby>っていた<ruby>場所<rt>ばしょ</rt></ruby>もなくしました。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: テロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: 支配
+  descriptions:
+  - ある<ruby><rb>土地</rb><rt>とち</rt></ruby>やそこに<ruby><rb>住</rb><rt>す</rt></ruby>む<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>めること。
+  - ものごとを<ruby><rb>思</rb><rt>おも</rt></ruby>うように<ruby><rb>動</rb><rt>うご</rt></ruby>かすこと。
+- word: 首都
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。
+- word: 取り戻す
+  descriptions:
+  - <ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>返</rb><rt>かえ</rt></ruby>す。
+  - <ruby><rb>回復</rb><rt>かいふく</rt></ruby>する。
+- word: 戦う
+  descriptions:
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>をする。
+  - わざを<ruby><rb>比</rb><rt>くら</rt></ruby>べて、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 軍
+  descriptions:
+  - <ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。
+web_news_url: /news/web/2017/10/18/IS標ぼうの国家事実上崩壊も長期の過激派対策必要/
+source_url: http://www3.nhk.or.jp/news/easy/k10011181151000/k10011181151000.html
+...
