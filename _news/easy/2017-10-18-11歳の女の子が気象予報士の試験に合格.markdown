@@ -1,0 +1,43 @@
+---
+layout: easy_news
+newsid: k10011179451000
+categories: easy
+title: １１歳の女の子が気象予報士の試験に合格
+title_with_ruby: １１<ruby>歳<rt>さい</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>が<ruby>気象予報士<rt>きしょうよほうし</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>
+last_modified_at: '2017-10-18T11:30:00+09:00'
+datetime: 2017年10月18日 11時30分
+description: 北海道ほっかいどう北見市きたみしに住すんでいる小学校しょうがっこう６年生ねんせいの本田ほんだまりあさんが、気象予報士きしょうよほうしの試験しけんに合格ごうかくしました。
+description_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>北見市<rt>きたみし</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>小学校<rt>しょうがっこう</rt></ruby>６<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>本田<rt>ほんだ</rt></ruby>まりあさんが、<ruby>気象予報士<rt>きしょうよほうし</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/18/k10011179451000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/18/k10011179451000.mp3
+contents: "<p><ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>北見市<rt>きたみし</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>小学校<rt>しょうがっこう</rt></ruby>６<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>本田<rt>ほんだ</rt></ruby>まりあさんが、<span\
+  \ style=\"color: blue;\"><ruby>気象予報士<rt>きしょうよほうし</rt></ruby></span>の<ruby>試験<rt>しけん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>合格<rt>ごうかく</rt></ruby></span>しました。</p>\n<p>この<ruby>試験<rt>しけん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>合格<rt>ごうかく</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>今<rt>いま</rt></ruby>まで<ruby>最<rt>もっと</rt></ruby>も<ruby>若<rt>わか</rt></ruby>かった<ruby>人<rt>ひと</rt></ruby>は、１２<ruby>歳<rt>さい</rt></ruby>１１か<ruby>月<rt>げつ</rt></ruby>でした。<ruby>本田<rt>ほんだ</rt></ruby>さんは１１<ruby>歳<rt>さい</rt></ruby>１１か<ruby>月<rt>げつ</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>合格<rt>ごうかく</rt></ruby></span>したので、<ruby>最<rt>もっと</rt></ruby>も<ruby>若<rt>わか</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>です。<ruby>本田<rt>ほんだ</rt></ruby>さんがこの<ruby>試験<rt>しけん</rt></ruby>を<ruby>受<rt>う</rt></ruby>けたのは４<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>で、<span\
+  \ style=\"color: blue;\"><ruby>合格<rt>ごうかく</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>は４．９％だけでした。</p>\n\
+  <p><ruby>本田<rt>ほんだ</rt></ruby>さんは<ruby>小学校<rt>しょうがっこう</rt></ruby>４<ruby>年生<rt>ねんせい</rt></ruby>のとき、「なぜ<ruby>雲<rt>くも</rt></ruby>は<ruby>落<rt>お</rt></ruby>ちないのか」と<span\
+  \ style=\"color: blue;\"><ruby>疑問<rt>ぎもん</rt></ruby></span>に<ruby>思<rt>おも</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>気象予報士<rt>きしょうよほうし</rt></ruby></span>の<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。<ruby>試験<rt>しけん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>は、<ruby>毎日<rt>まいにち</rt></ruby>１<ruby>時間<rt>じかん</rt></ruby><ruby>半<rt>はん</rt></ruby>ぐらい<ruby>勉強<rt>べんきょう</rt></ruby>していました。</p>\n\
+  <p><ruby>本田<rt>ほんだ</rt></ruby>さんは、「<ruby>勉強<rt>べんきょう</rt></ruby>したらいろいろなことがわかるようになるので、<ruby>楽<rt>たの</rt></ruby>しいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 気象予報士
+  descriptions:
+  - <ruby><rb>気象庁</rb><rt>きしょうちょう</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>されるデータをもとに、<ruby><rb>天気予報</rb><rt>てんきよほう</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>資格</rb><rt>しかく</rt></ruby>をもっている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 合格
+  descriptions:
+  - <ruby><rb>学校</rb><rt>がっこう</rt></ruby>や<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>の<ruby><rb>試験</rb><rt>しけん</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>かること。パス。
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>などが<ruby><rb>決</rb><rt>き</rt></ruby>められたことがらに<ruby><rb>合</rb><rt>あ</rt></ruby>っていること。
+- word: 記録
+  descriptions:
+  - あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。
+- word: 疑問
+  descriptions:
+  - <ruby><rb>疑</rb><rt>うたが</rt></ruby>わしいこと。<ruby><rb>疑</rb><rt>うたが</rt></ruby>い。
+  - わからないこと。
+web_news_url: /news/web/2017/10/16/11歳の女の子が気象予報士に-最年少で合格/
+source_url: http://www3.nhk.or.jp/news/easy/k10011179451000/k10011179451000.html
+...
