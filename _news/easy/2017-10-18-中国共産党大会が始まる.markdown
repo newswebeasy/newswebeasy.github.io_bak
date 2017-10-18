@@ -1,0 +1,65 @@
+---
+layout: easy_news
+newsid: k10011181401000
+categories: easy
+title: 中国共産党大会が始まる
+title_with_ruby: <ruby>中国共産党大会<rt>ちゅうごくきょうさんとうたいかい</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+last_modified_at: '2017-10-18T18:10:00+09:00'
+datetime: 2017年10月18日 18時10分
+description: 中国ちゅうごくでは５年ねんに１度ど、政治せいじのしかたなどを話はなし合あう中国共産党大会ちゅうごくきょうさんとうたいかいを開ひらいています。
+description_with_ruby: <ruby>中国<rt>ちゅうごく</rt></ruby>では５<ruby>年<rt>ねん</rt></ruby>に１<ruby>度<rt>ど</rt></ruby>、<ruby>政治<rt>せいじ</rt></ruby>のしかたなどを<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う<ruby>中国共産党大会<rt>ちゅうごくきょうさんとうたいかい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いています。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/18/k10011181401000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/18/k10011181401000.mp3
+contents: "<p><ruby>中国<rt>ちゅうごく</rt></ruby>では５<ruby>年<rt>ねん</rt></ruby>に１<ruby>度<rt>ど</rt></ruby>、<ruby>政治<rt>せいじ</rt></ruby>のしかたなどを<span\
+  \ style=\"color: blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う</span><ruby>中国共産党大会<rt>ちゅうごくきょうさんとうたいかい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いています。<ruby>北京<rt>ぺきん</rt></ruby>で１８<ruby>日<rt>にち</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>２３００<ruby>人<rt>にん</rt></ruby>が<ruby>出席<rt>しゅっせき</rt></ruby>して、この<ruby>党大会<rt>とうたいかい</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まりました。</p>\n\
+  <p><ruby>中国共産党<rt>ちゅうごくきょうさんとう</rt></ruby>の<span style=\"color: blue;\">トップ</span>の<ruby>習<rt>しゅう</rt></ruby><ruby>近平<rt>きんぺい</rt></ruby><ruby>総書記<rt>そうしょき</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>までの５<ruby>年<rt>ねん</rt></ruby>について、「<span\
+  \ style=\"color: blue;\"><ruby>汚職<rt>おしょく</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>貧<rt>まず</rt></ruby>しい</span><ruby>人<rt>ひと</rt></ruby>たちの<ruby>問題<rt>もんだい</rt></ruby>など、たくさんの<ruby>難<rt>むずか</rt></ruby>しい<ruby>問題<rt>もんだい</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>解決<rt>かいけつ</rt></ruby></span>して、<ruby>政治<rt>せいじ</rt></ruby>や<ruby>社会<rt>しゃかい</rt></ruby>を<ruby>変<rt>か</rt></ruby>えてきました」と<ruby>話<rt>はな</rt></ruby>しました。そして、これから３０<ruby>年<rt>ねん</rt></ruby><ruby>頑張<rt>がんば</rt></ruby>って、<ruby>国<rt>くに</rt></ruby>ができてから１００<ruby>年<rt>ねん</rt></ruby>になるまでにもっと<span\
+  \ style=\"color: blue;\"><ruby>発展<rt>はってん</rt></ruby></span>した<span style=\"color:\
+  \ blue;\"><ruby>社会主義<rt>しゃかいしゅぎ</rt></ruby></span>の<ruby>国<rt>くに</rt></ruby>にすると<ruby>強<rt>つよ</rt></ruby>く<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>党大会<rt>とうたいかい</rt></ruby>は<ruby>２４日<rt>にじゅうよっか</rt></ruby>までで、２５<ruby>日<rt>にち</rt></ruby>に<ruby>中国共産党<rt>ちゅうごくきょうさんとう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>最高<rt>さいこう</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>幹部<rt>かんぶ</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>たちを<ruby>新<rt>あたら</rt></ruby>しく<ruby>選<rt>えら</rt></ruby>ぶ<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: 話し合う
+  descriptions:
+  - たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。
+  - <ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: トップ
+  descriptions:
+  - <ruby><rb>先頭</rb><rt>せんとう</rt></ruby>。<ruby><rb>真</rb><rt>ま</rt></ruby>っ<ruby><rb>先</rb><rt>さき</rt></ruby>。<ruby><rb>一番</rb><rt>いちばん</rt></ruby>。
+- word: 汚職
+  descriptions:
+  - <ruby><rb>地位</rb><rt>ちい</rt></ruby>や<ruby><rb>役目</rb><rt>やくめ</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>して、お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のものにすること。
+- word: 貧しい
+  descriptions:
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>少</rb><rt>すこ</rt></ruby>ししかなく、<ruby><rb>暮</rb><rt>く</rt></ruby>らしに<ruby><rb>困</rb><rt>こま</rt></ruby>る。<ruby><rb>貧乏</rb><rt>びんぼう</rt></ruby>だ。
+  - <ruby><rb>少</rb><rt>すく</rt></ruby>ない。とぼしい。
+- word: 解決
+  descriptions:
+  - <ruby><rb>事件</rb><rt>じけん</rt></ruby>や<ruby><rb>問題</rb><rt>もんだい</rt></ruby>がうまくかたづくこと。
+- word: 発展
+  descriptions:
+  - <ruby><rb>栄</rb><rt>さか</rt></ruby>えていくこと。<ruby><rb>勢</rb><rt>いきお</rt></ruby>いが、のび<ruby><rb>広</rb><rt>ひろ</rt></ruby>がること。
+  - <ruby><rb>次</rb><rt>つぎ</rt></ruby>の<ruby><rb>段階</rb><rt>だんかい</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>むこと。
+- word: 社会主義
+  descriptions:
+  - <ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>労働</rb><rt>ろうどう</rt></ruby>に<ruby><rb>応</rb><rt>おう</rt></ruby>じて<ruby><rb>利益</rb><rt>りえき</rt></ruby>が<ruby><rb>得</rb><rt>え</rt></ruby>られ、<ruby><rb>資本家</rb><rt>しほんか</rt></ruby>と<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>の<ruby><rb>対立</rb><rt>たいりつ</rt></ruby>をなくそうとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。
+- word: 最高
+  descriptions:
+  - いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>いこと。
+  - いちばんよいこと。
+- word: 幹部
+  descriptions:
+  - <ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。
+web_news_url: /news/web/2017/10/18/中国共産党大会始まる-習氏社会主義の現代国家築く/
+source_url: http://www3.nhk.or.jp/news/easy/k10011181401000/k10011181401000.html
+...
