@@ -1,0 +1,53 @@
+---
+layout: easy_news
+newsid: k10011181951000
+categories: easy
+title: ＥＵが神戸製鋼所の製品を飛行機に使わないように言う
+title_with_ruby: ＥＵが<ruby>神戸製鋼所<rt>こうべせいこうしょ</rt></ruby>の<ruby>製品<rt>せいひん</rt></ruby>を<ruby>飛行機<rt>ひこうき</rt></ruby>に<ruby>使<rt>つか</rt></ruby>わないように<ruby>言<rt>い</rt></ruby>う
+last_modified_at: '2017-10-19T16:20:00+09:00'
+datetime: 2017年10月19日 16時20分
+description: 神戸製鋼所こうべせいこうしょは鉄てつやアルミなどの製品せいひんを作つくっている会社かいしゃです。
+description_with_ruby: <ruby>神戸製鋼所<rt>こうべせいこうしょ</rt></ruby>は<ruby>鉄<rt>てつ</rt></ruby>やアルミなどの<ruby>製品<rt>せいひん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っている<ruby>会社<rt>かいしゃ</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/19/k10011181951000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/19/k10011181951000.mp3
+contents: "<p><ruby>神戸製鋼所<rt>こうべせいこうしょ</rt></ruby>は<span style=\"color: blue;\"><ruby>鉄<rt>てつ</rt></ruby></span>や<span\
+  \ style=\"color: blue;\">アルミ</span>などの<span style=\"color: blue;\"><ruby>製品<rt>せいひん</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>っている<ruby>会社<rt>かいしゃ</rt></ruby>です。<ruby>神戸製鋼所<rt>こうべせいこうしょ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>製品<rt>せいひん</rt></ruby></span>は、<ruby>飛行機<rt>ひこうき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っているボーイングや<ruby>自動車<rt>じどうしゃ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っているＧＭ＝ゼネラル・モーターズなどの<ruby>会社<rt>かいしゃ</rt></ruby>でも<ruby>使<rt>つか</rt></ruby>われています。</p>\n\
+  <p><ruby>先週<rt>せんしゅう</rt></ruby>、<ruby>神戸製鋼所<rt>こうべせいこうしょ</rt></ruby>が<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>製品<rt>せいひん</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>検査<rt>けんさ</rt></ruby></span>の<span style=\"color: blue;\">データ</span>を<ruby>変<rt>か</rt></ruby>えたり、うそを<ruby>言<rt>い</rt></ruby>ったりしていたことがわかりました。<ruby>神戸製鋼所<rt>こうべせいこうしょ</rt></ruby>によると、<ruby>問題<rt>もんだい</rt></ruby>のある<span\
+  \ style=\"color: blue;\"><ruby>製品<rt>せいひん</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>っている<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>や<ruby>外国<rt>がいこく</rt></ruby>に５００ぐらいあります。</p>\n\
+  <p><span style=\"color: blue;\">ＥＵ</span>の<ruby>航空安全局<rt>こうくうあんぜんきょく</rt></ruby>は１７<ruby>日<rt>にち</rt></ruby>、<ruby>安全<rt>あんぜん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>確<rt>たし</rt></ruby>かめる</span>まで<ruby>神戸製鋼所<rt>こうべせいこうしょ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>製品<rt>せいひん</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>わないように<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>などに<ruby>言<rt>い</rt></ruby>いました。そして、<ruby>飛行機<rt>ひこうき</rt></ruby>に<ruby>神戸製鋼所<rt>こうべせいこうしょ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>製品<rt>せいひん</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>っている<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>国<rt>くに</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>したり、<ruby>安全<rt>あんぜん</rt></ruby>かどうかしっかり<span\
+  \ style=\"color: blue;\"><ruby>検査<rt>けんさ</rt></ruby></span>するように<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: EU
+  descriptions:
+  - イギリス・ドイツ・フランスなどヨーロッパの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が、<ruby><rb>共同</rb><rt>きょうどう</rt></ruby>で<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>をはかったり<ruby><rb>経済</rb><rt>けいざい</rt></ruby>を<ruby><rb>運営</rb><rt>うんえい</rt></ruby>したりしようとする<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+- word: 製品
+  descriptions:
+  - <ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+- word: 鉄
+  descriptions:
+  - <ruby><rb>鉄鉱石</rb><rt>てっこうせき</rt></ruby>から<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>した<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。かたくて<ruby><rb>使</rb><rt>つか</rt></ruby>いみちが<ruby><rb>広</rb><rt>ひろ</rt></ruby>い。
+  - かたくて<ruby><rb>強</rb><rt>つよ</rt></ruby>い。
+  - <ruby><rb>鉄道</rb><rt>てつどう</rt></ruby>のこと。
+- word: アルミニウム
+  descriptions:
+  - <ruby><rb>銀色</rb><rt>ぎんいろ</rt></ruby>の、<ruby><rb>軽</rb><rt>かる</rt></ruby>くてさびにくい<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。<ruby><rb>窓</rb><rt>まど</rt></ruby>わくや、<ruby><rb>食器</rb><rt>しょっき</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。<ruby><rb>酸</rb><rt>さん</rt></ruby>に<ruby><rb>弱</rb><rt>よわ</rt></ruby>い。アルミ。
+- word: 検査
+  descriptions:
+  - <ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: データ
+  descriptions:
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。
+  - コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。
+- word: 確かめる
+  descriptions:
+  - まちがいがないようにする。あやふやな<ruby><rb>点</rb><rt>てん</rt></ruby>を、はっきりさせる。
+web_news_url: /news/web/2017/10/18/神戸製鋼製品の不使用を勧告-欧州の航空安全局/
+source_url: http://www3.nhk.or.jp/news/easy/k10011181951000/k10011181951000.html
+...
