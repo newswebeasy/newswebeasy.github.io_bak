@@ -1,0 +1,47 @@
+---
+layout: easy_news
+newsid: k10011180201000
+categories: easy
+title: 埼玉県　建物の中にあるスキー場でゲレンデの準備
+title_with_ruby: <ruby>埼玉県<rt>さいたまけん</rt></ruby>　<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にあるスキー<ruby>場<rt>じょう</rt></ruby>でゲレンデの<ruby>準備<rt>じゅんび</rt></ruby>
+last_modified_at: '2017-10-19T11:30:00+09:00'
+datetime: 2017年10月19日 11時30分
+description: 埼玉県さいたまけん所沢市ところざわしにある狭山さやまスキー場じょうは、建物たてものの中なかでスキーを楽たのしむことができる所ところです。
+description_with_ruby: <ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>所沢市<rt>ところざわし</rt></ruby>にある<ruby>狭山<rt>さやま</rt></ruby>スキー<ruby>場<rt>じょう</rt></ruby>は、<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でスキーを<ruby>楽<rt>たの</rt></ruby>しむことができる<ruby>所<rt>ところ</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/19/k10011180201000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/19/k10011180201000.mp3
+contents: "<p><ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>所沢市<rt>ところざわし</rt></ruby>にある<ruby>狭山<rt>さやま</rt></ruby>スキー<ruby>場<rt>じょう</rt></ruby>は、<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<span\
+  \ style=\"color: blue;\">スキー</span>を<ruby>楽<rt>たの</rt></ruby>しむことができる<ruby>所<rt>ところ</rt></ruby>です。<ruby>雪<rt>ゆき</rt></ruby>は<ruby>機械<rt>きかい</rt></ruby>で<ruby>作<rt>つく</rt></ruby>ります。<ruby>今年<rt>ことし</rt></ruby>の<span\
+  \ style=\"color: blue;\">オープン</span>は１０<ruby>月<rt>がつ</rt></ruby>２１<ruby>日<rt>にち</rt></ruby>です。</p>\n\
+  <p><ruby>今<rt>いま</rt></ruby>、<ruby>雪<rt>ゆき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>って<span\
+  \ style=\"color: blue;\">ゲレンデ</span>に<span style=\"color: blue;\">まい</span>たり、<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>車<rt>くるま</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>雪<rt>ゆき</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>平<rt>たい</rt></ruby>ら</span>にしたりしています。<ruby>雪<rt>ゆき</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>さは７０ｃｍにする<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p><span style=\"color: blue;\">スキー</span><span style=\"color: blue;\"><ruby>場<rt>じょう</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>初<rt>はじ</rt></ruby>めて<span\
+  \ style=\"color: blue;\">スキー</span>をする<ruby>人<rt>ひと</rt></ruby>や<ruby>子<rt>こ</rt></ruby>どもたちも<ruby>安心<rt>あんしん</rt></ruby>して<ruby>滑<rt>すべ</rt></ruby>ることができるように<ruby>準備<rt>じゅんび</rt></ruby>します」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: スキー
+  descriptions:
+  - くつに<ruby><rb>取</rb><rt>と</rt></ruby>りつけて、<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>板</rb><rt>いた</rt></ruby>。
+  - 「<span class="dic_sansyogogi">1)</span>」を<ruby><rb>使</rb><rt>つか</rt></ruby>って<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。
+- word: 場
+  descriptions:
+  - ばしょ。
+- word: ゲレンデ
+  descriptions:
+  - スキー<ruby><rb>場</rb><rt>じょう</rt></ruby>で、<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>斜面</rb><rt>しゃめん</rt></ruby>となっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: オープン
+  descriptions:
+  - <ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。
+  - かくしだてをしないようす。
+  - おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。
+- word: まく
+  descriptions:
+  - （<ruby><rb>水</rb><rt>みず</rt></ruby>や<ruby><rb>花</rb><rt>はな</rt></ruby>びらなどを）<ruby><rb>散</rb><rt>ち</rt></ruby>らす。
+- word: 平ら
+  descriptions:
+  - でこぼこしていないようす。
+  - <ruby><rb>楽</rb><rt>らく</rt></ruby>な<ruby><rb>姿勢</rb><rt>しせい</rt></ruby>ですわるようす。
+web_news_url: /news/web/2017/10/17/屋内スキー場でゲレンデづくり-埼玉-所沢/
+source_url: http://www3.nhk.or.jp/news/easy/k10011180201000/k10011180201000.html
+...
