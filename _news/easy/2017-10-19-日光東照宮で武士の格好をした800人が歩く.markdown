@@ -1,0 +1,56 @@
+---
+layout: easy_news
+newsid: k10011180401000
+categories: easy
+title: 日光東照宮で武士の格好をした８００人が歩く
+title_with_ruby: <ruby>日光東照宮<rt>にっこうとうしょうぐう</rt></ruby>で<ruby>武士<rt>ぶし</rt></ruby>の<ruby>格好<rt>かっこう</rt></ruby>をした８００<ruby>人<rt>にん</rt></ruby>が<ruby>歩<rt>ある</rt></ruby>く
+last_modified_at: '2017-10-19T11:30:00+09:00'
+datetime: 2017年10月19日 11時30分
+description: 栃木県とちぎけん日光市にっこうしにある日光東照宮にっこうとうしょうぐうで１７日にち、「百物揃ひゃくものぞろい千人武者行列せんにんむしゃぎょうれつ」という行事ぎょうじがありました。
+description_with_ruby: <ruby>栃木県<rt>とちぎけん</rt></ruby><ruby>日光市<rt>にっこうし</rt></ruby>にある<ruby>日光東照宮<rt>にっこうとうしょうぐう</rt></ruby>で１７<ruby>日<rt>にち</rt></ruby>、「<ruby>百物揃<rt>ひゃくものぞろい</rt></ruby><ruby>千人武者行列<rt>せんにんむしゃぎょうれつ</rt></ruby>」という<ruby>行事<rt>ぎょうじ</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/19/k10011180401000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/19/k10011180401000.mp3
+contents: "<p><ruby>栃木県<rt>とちぎけん</rt></ruby><ruby>日光市<rt>にっこうし</rt></ruby>にある<ruby>日光東照宮<rt>にっこうとうしょうぐう</rt></ruby>で１７<ruby>日<rt>にち</rt></ruby>、「<ruby>百物揃<rt>ひゃくものぞろい</rt></ruby><ruby>千人武者行列<rt>せんにんむしゃぎょうれつ</rt></ruby>」という<span\
+  \ style=\"color: blue;\"><ruby>行事<rt>ぎょうじ</rt></ruby></span>がありました。<ruby>毎年<rt>まいとし</rt></ruby><ruby>春<rt>はる</rt></ruby>と<ruby>秋<rt>あき</rt></ruby>にあって、<span\
+  \ style=\"color: blue;\"><ruby>武士<rt>ぶし</rt></ruby></span>などの<span style=\"color:\
+  \ blue;\"><ruby>格好<rt>かっこう</rt></ruby></span>をした８００<ruby>人<rt>にん</rt></ruby>ぐらいの<ruby>人<rt>ひと</rt></ruby>が、１ｋｍの<ruby>道<rt>みち</rt></ruby>をゆっくり<ruby>歩<rt>ある</rt></ruby>きました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>江戸時代<rt>えどじだい</rt></ruby></span>に、<ruby>徳川家康<rt>とくがわいえやす</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなったあと<span\
+  \ style=\"color: blue;\"><ruby>骨<rt>ほね</rt></ruby></span>を<ruby>今<rt>いま</rt></ruby>の<ruby>静岡県<rt>しずおかけん</rt></ruby>から<ruby>日光東照宮<rt>にっこうとうしょうぐう</rt></ruby>まで<ruby>運<rt>はこ</rt></ruby>んだときと<ruby>同<rt>おな</rt></ruby>じような<span\
+  \ style=\"color: blue;\"><ruby>格好<rt>かっこう</rt></ruby></span>をしています。</p>\n<p><ruby>東京<rt>とうきょう</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>女性<rt>じょせい</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>江戸時代<rt>えどじだい</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>感<rt>かん</rt></ruby>じる</span><ruby>美<rt>うつく</rt></ruby>しい<span style=\"\
+  color: blue;\"><ruby>行列<rt>ぎょうれつ</rt></ruby></span>で、すばらしいと<ruby>思<rt>おも</rt></ruby>いました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 武士
+  descriptions:
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>、<ruby><rb>武芸</rb><rt>ぶげい</rt></ruby>を<ruby><rb>身</rb><rt>み</rt></ruby>につけて、いくさで<ruby><rb>戦</rb><rt>たたか</rt></ruby>った<ruby><rb>人</rb><rt>ひと</rt></ruby>。さむらい。
+- word: 格好・
+  descriptions:
+  - <ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>形</rb><rt>かたち</rt></ruby>。
+  - ていさい。
+  - ちょうど<ruby><rb>合</rb><rt>あ</rt></ruby>っているようす。
+- word: 行事
+  descriptions:
+  - <ruby><rb>前</rb><rt>まえ</rt></ruby>もって<ruby><rb>時期</rb><rt>じき</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>めて<ruby><rb>行</rb><rt>おこな</rt></ruby>われる、もよおし。
+- word: 江戸時代
+  descriptions:
+  - <ruby><rb>徳川家康</rb><rt>とくがわいえやす</rt></ruby>が、１６０３<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>江戸</rb><rt>えど</rt></ruby>に<ruby><rb>幕府</rb><rt>ばくふ</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いてから、１８６７<ruby><rb>年</rb><rt>ねん</rt></ruby>にほろびるまでの<ruby><rb>約</rb><rt>やく</rt></ruby>２６０<ruby><rb>年間</rb><rt>ねんかん</rt></ruby>。<ruby><rb>鎖国</rb><rt>さこく</rt></ruby>のために<ruby><rb>日本</rb><rt>にっぽん</rt></ruby><ruby><rb>独特</rb><rt>どくとく</rt></ruby>の<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>栄</rb><rt>さか</rt></ruby>えた。「<ruby><rb>徳川時代</rb><rt>とくがわじだい</rt></ruby>」ともいう。
+- word: 骨
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>支</rb><rt>ささ</rt></ruby>えているかたいもの。
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>のしんにする<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>竹</rb><rt>たけ</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。
+  - ものごとの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。
+  - へこたれない<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。
+  - <ruby><rb>苦労</rb><rt>くろう</rt></ruby>なこと。
+- word: 感じる
+  descriptions:
+  - <ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。
+  - <ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。
+- word: 行列
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>などが、<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>よく<ruby><rb>並</rb><rt>なら</rt></ruby>ぶこと。<ruby><rb>順</rb><rt>じゅん</rt></ruby>に<ruby><rb>並</rb><rt>なら</rt></ruby>んだ<ruby><rb>列</rb><rt>れつ</rt></ruby>。
+web_news_url: /news/web/2017/10/17/日光東照宮で武者行列-800人が参道練り歩き/
+source_url: http://www3.nhk.or.jp/news/easy/k10011180401000/k10011180401000.html
+...
