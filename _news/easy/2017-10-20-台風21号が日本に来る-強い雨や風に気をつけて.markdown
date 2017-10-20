@@ -1,0 +1,66 @@
+---
+layout: easy_news
+newsid: k10011183821000
+categories: easy
+title: 台風２１号が日本に来る　強い雨や風に気をつけて
+title_with_ruby: <ruby>台風<rt>たいふう</rt></ruby>２１<ruby>号<rt>ごう</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>く</rt></ruby>る　<ruby>強<rt>つよ</rt></ruby>い<ruby>雨<rt>あめ</rt></ruby>や<ruby>風<rt>かぜ</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけて
+last_modified_at: '2017-10-20T16:15:00+09:00'
+datetime: 2017年10月20日 16時15分
+description: 台風たいふう２１号ごうがフィリピンの東ひがしの海うみから、北きたに向むかって進すすんでいます。
+description_with_ruby: <ruby>台風<rt>たいふう</rt></ruby>２１<ruby>号<rt>ごう</rt></ruby>がフィリピンの<ruby>東<rt>ひがし</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>から、<ruby>北<rt>きた</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<ruby>進<rt>すす</rt></ruby>んでいます。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/20/k10011183821000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/20/k10011183821000.mp3
+contents: "<p><ruby>台風<rt>たいふう</rt></ruby>２１<span style=\"color: blue;\"><ruby>号<rt>ごう</rt></ruby></span>がフィリピンの<ruby>東<rt>ひがし</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>から、<ruby>北<rt>きた</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<ruby>進<rt>すす</rt></ruby>んでいます。<ruby>台風<rt>たいふう</rt></ruby>はこれからもっと<ruby>強<rt>つよ</rt></ruby>くなって、２１<ruby>日<rt>にち</rt></ruby>の<ruby>夕方<rt>ゆうがた</rt></ruby>ごろ、<ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>大東島<rt>だいとうじま</rt></ruby><ruby>地方<rt>ちほう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>来<rt>き</rt></ruby>そうです。そして２２<ruby>日<rt>にち</rt></ruby>から２３<ruby>日<rt>にち</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に、<span\
+  \ style=\"color: blue;\"><ruby>九州<rt>きゅうしゅう</rt></ruby></span>から<span style=\"color:\
+  \ blue;\"><ruby>本州<rt>ほんしゅう</rt></ruby></span>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>来<rt>き</rt></ruby>そうです。</p>\n\
+  <p><ruby>台風<rt>たいふう</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>くに<ruby>来<rt>く</rt></ruby>ると、<ruby>沖縄県<rt>おきなわけん</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>本州<rt>ほんしゅう</rt></ruby></span>の<ruby>広<rt>ひろ</rt></ruby>い<ruby>場所<rt>ばしょ</rt></ruby>で、とても<ruby>強<rt>つよ</rt></ruby>い<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>る<ruby>心配<rt>しんぱい</rt></ruby>があります。<ruby>風<rt>かぜ</rt></ruby>もとても<ruby>強<rt>つよ</rt></ruby>くなって、<ruby>海<rt>うみ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>波<rt>なみ</rt></ruby></span>もとても<ruby>高<rt>たか</rt></ruby>くなります。</p>\n\
+  <p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>山<rt>やま</rt></ruby>や<span style=\"color:\
+  \ blue;\"><ruby>崖<rt>がけ</rt></ruby></span>が<span style=\"color: blue;\"><ruby>崩<rt>くず</rt></ruby>れ</span>たり、<ruby>川<rt>かわ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<span\
+  \ style=\"color: blue;\">あふれ</span>たりするかもしれないため、<ruby>台風<rt>たいふう</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>や<ruby>天気予報<rt>てんきよほう</rt></ruby>をよく<ruby>見<rt>み</rt></ruby>てほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>下<rt>した</rt></ruby>の<span style=\"color: blue;\">ウェブサイト</span>には、<ruby>台風<rt>たいふう</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>くに<ruby>来<rt>き</rt></ruby>たときに<ruby>気<rt>き</rt></ruby>をつけることがやさしい<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>書<rt>か</rt></ruby>いてあります。</p>\n\
+  <p>http://www3.nhk.or.jp/news/easy/k10010922391000/k10010922391000.html</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 号
+  descriptions:
+  - さけぶ。わめく。
+  - しるし。<ruby><rb>合図</rb><rt>あいず</rt></ruby>。
+  - <ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>名</rb><rt>な</rt></ruby>。
+  - <ruby><rb>数字</rb><rt>すうじ</rt></ruby>につけて、<ruby><rb>順番</rb><rt>じゅんばん</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。
+  - <ruby><rb>作家</rb><rt>さっか</rt></ruby>や<ruby><rb>画家</rb><rt>がか</rt></ruby>などが、<ruby><rb>本名</rb><rt>ほんみょう</rt></ruby>のほかにつける<ruby><rb>名前</rb><rt>なまえ</rt></ruby>。
+  - <ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>や<ruby><rb>船</rb><rt>ふね</rt></ruby>などの<ruby><rb>名前</rb><rt>なまえ</rt></ruby>のあとにつけることば。
+- word: 九州地方
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>南西部</rb><rt>なんせいぶ</rt></ruby>にある<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>福岡</rb><rt>ふくおか</rt></ruby>・<ruby><rb>佐賀</rb><rt>さが</rt></ruby>・<ruby><rb>長崎</rb><rt>ながさき</rt></ruby>・<ruby><rb>熊本</rb><rt>くまもと</rt></ruby>・<ruby><rb>大分</rb><rt>おおいた</rt></ruby>・<ruby><rb>宮崎</rb><rt>みやざき</rt></ruby>・<ruby><rb>鹿児島</rb><rt>かごしま</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の八<ruby><rb>県</rb><rt>けん</rt></ruby>がある。
+- word: 本州
+  descriptions:
+  - <ruby><rb>日本列島</rb><rt>にっぽんれっとう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、いちばん<ruby><rb>大</rb><rt>おお</rt></ruby>きい<ruby><rb>島</rb><rt>しま</rt></ruby>。
+- word: 波
+  descriptions:
+  - <ruby><rb>海</rb><rt>うみ</rt></ruby>などの<ruby><rb>水面</rb><rt>すいめん</rt></ruby>が、<ruby><rb>高</rb><rt>たか</rt></ruby>くなったり<ruby><rb>低</rb><rt>ひく</rt></ruby>くなったりすること。また、<ruby><rb>水面</rb><rt>すいめん</rt></ruby>が<ruby><rb>高</rb><rt>たか</rt></ruby>く<ruby><rb>盛</rb><rt>も</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>がっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+  - ものごとの<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>が、<ruby><rb>上</rb><rt>あ</rt></ruby>がったり<ruby><rb>下</rb><rt>さ</rt></ruby>がったり、また、よくなったり<ruby><rb>悪</rb><rt>わる</rt></ruby>くなったりすること。
+  - つぎつぎとおし<ruby><rb>寄</rb><rt>よ</rt></ruby>せるものをたとえていうことば。
+- word: 崖
+  descriptions:
+  - <ruby><rb>山</rb><rt>やま</rt></ruby>や<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>などの、けずり<ruby><rb>取</rb><rt>と</rt></ruby>られて<ruby><rb>険</rb><rt>けわ</rt></ruby>しい<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 崩れる
+  descriptions:
+  - こわれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。
+  - ばらばらになる。<ruby><rb>乱</rb><rt>みだ</rt></ruby>れる。
+  - <ruby><rb>悪</rb><rt>わる</rt></ruby>くなる。
+- word: あふれる
+  descriptions:
+  - いっぱいになって、こぼれる。
+  - <ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。
+- word: 情報
+  descriptions:
+  - できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+web_news_url: /news/web/2017/10/20/台風21号-あす大東島地方に接近-広範囲で大荒れに/
+source_url: http://www3.nhk.or.jp/news/easy/k10011183821000/k10011183821000.html
+...
