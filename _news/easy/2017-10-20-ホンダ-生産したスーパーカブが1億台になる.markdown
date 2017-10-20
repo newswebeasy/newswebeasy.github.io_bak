@@ -1,0 +1,40 @@
+---
+layout: easy_news
+newsid: k10011182201000
+categories: easy
+title: ホンダ　生産した「スーパーカブ」が１億台になる
+title_with_ruby: ホンダ　<ruby>生産<rt>せいさん</rt></ruby>した「スーパーカブ」が１<ruby>億<rt>おく</rt></ruby><ruby>台<rt>だい</rt></ruby>になる
+last_modified_at: '2017-10-20T11:30:00+09:00'
+datetime: 2017年10月20日 11時30分
+description: 「スーパーカブ」は１９５８年ねんからホンダが作つくっているオートバイです。
+description_with_ruby: 「スーパーカブ」は１９５８<ruby>年<rt>ねん</rt></ruby>からホンダが<ruby>作<rt>つく</rt></ruby>っているオートバイです。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/20/k10011182201000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/20/k10011182201000.mp3
+contents: "<p>「スーパーカブ」は１９５８<ruby>年<rt>ねん</rt></ruby>からホンダが<ruby>作<rt>つく</rt></ruby>っているオートバイです。<ruby>生産<rt>せいさん</rt></ruby>した「スーパーカブ」が<ruby>今月<rt>こんげつ</rt></ruby>で１<ruby>億<rt>おく</rt></ruby><ruby>台<rt>だい</rt></ruby>になりました。<ruby>世界<rt>せかい</rt></ruby>でこんなに<ruby>多<rt>おお</rt></ruby>く<ruby>生産<rt>せいさん</rt></ruby>したオートバイはありません。ホンダは１９<ruby>日<rt>にち</rt></ruby>に<ruby>熊本県<rt>くまもとけん</rt></ruby>の<ruby>工場<rt>こうじょう</rt></ruby>で１<ruby>億<rt>おく</rt></ruby><ruby>台<rt>だい</rt></ruby>のお<ruby>祝<rt>いわ</rt></ruby>いの<ruby>式<rt>しき</rt></ruby>をしました。</p>\n\
+  <p>「スーパーカブ」は<ruby>小<rt>ちい</rt></ruby>さくて、<span style=\"color: blue;\">パワー</span>があって、ガソリンをあまり<ruby>使<rt>つか</rt></ruby>いません。<ruby>女性<rt>じょせい</rt></ruby>も<ruby>乗<rt>の</rt></ruby>りやすくて、<ruby>足<rt>あし</rt></ruby>だけで<span\
+  \ style=\"color: blue;\">ギア</span>を<ruby>変<rt>か</rt></ruby>えることができる<span style=\"\
+  color: blue;\">デザイン</span>で、<span style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>ました。１９６０<ruby>年<rt>ねん</rt></ruby>には<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>生産<rt>せいさん</rt></ruby>するオートバイの<ruby>半分<rt>はんぶん</rt></ruby>ぐらいが「スーパーカブ」になりました。</p>\n\
+  <p><ruby>今<rt>いま</rt></ruby>「スーパーカブ」は<span style=\"color: blue;\"><ruby>東南<rt>とうなん</rt></ruby>アジア</span>など<ruby>外国<rt>がいこく</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>があって、１６０<ruby>以上<rt>いじょう</rt></ruby>の<ruby>国<rt>くに</rt></ruby>などでたくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>乗<rt>の</rt></ruby>っています。ホンダは<ruby>世界中<rt>せかいじゅう</rt></ruby>で１<ruby>年<rt>ねん</rt></ruby>に３００<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby>ぐらい<ruby>生産<rt>せいさん</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: パワー
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>馬力</rb><rt>ばりき</rt></ruby>。<ruby><rb>権力</rb><rt>けんりょく</rt></ruby>。<ruby><rb>軍事力</rb><rt>ぐんじりょく</rt></ruby>。
+- word: ギア
+  descriptions:
+  - <ruby><rb>歯車</rb><rt>はぐるま</rt></ruby>。
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>や<ruby><rb>自転車</rb><rt>じてんしゃ</rt></ruby>などの<ruby><rb>変速装置</rb><rt>へんそくそうち</rt></ruby>。
+- word: デザイン
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。
+  - <ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: 東南アジア
+  descriptions:
+  - アジアの<ruby><rb>南東部</rb><rt>なんとうぶ</rt></ruby>。ベトナム・ラオス・カンボジア・マレーシア・タイ・ミャンマー・インドネシア・フィリピンなどの<ruby><rb>国</rb><rt>くに</rt></ruby>がある。
+web_news_url: /news/web/2017/10/19/ホンダスーパーカブ-世界初の生産台数1億台に/
+source_url: http://www3.nhk.or.jp/news/easy/k10011182201000/k10011182201000.html
+...
