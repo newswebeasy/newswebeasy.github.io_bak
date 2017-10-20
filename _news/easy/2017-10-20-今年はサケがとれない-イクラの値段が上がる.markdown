@@ -1,0 +1,49 @@
+---
+layout: easy_news
+newsid: k10011180881000
+categories: easy
+title: 今年はサケがとれない　イクラの値段が上がる
+title_with_ruby: <ruby>今年<rt>ことし</rt></ruby>はサケがとれない　イクラの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がる
+last_modified_at: '2017-10-20T11:30:00+09:00'
+datetime: 2017年10月20日 11時30分
+description: 秋あきはサケがたくさんとれる季節きせつです。
+description_with_ruby: <ruby>秋<rt>あき</rt></ruby>はサケがたくさんとれる<ruby>季節<rt>きせつ</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/20/k10011180881000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/20/k10011180881000.mp3
+contents: "<p><ruby>秋<rt>あき</rt></ruby>は<span style=\"color: blue;\">サケ</span>がたくさん<span\
+  \ style=\"color: blue;\">とれる</span><ruby>季節<rt>きせつ</rt></ruby>です。しかし、<ruby>今年<rt>ことし</rt></ruby>は<ruby>北海道<rt>ほっかいどう</rt></ruby>で<span\
+  \ style=\"color: blue;\">サケ</span>があまり<span style=\"color: blue;\">とれ</span>ないため、<span\
+  \ style=\"color: blue;\">サケ</span>の<ruby>卵<rt>たまご</rt></ruby>のイクラも<ruby>少<rt>すく</rt></ruby>なくなっています。<ruby>日本<rt>にっぽん</rt></ruby>ではお<ruby>正月<rt>しょうがつ</rt></ruby>や<span\
+  \ style=\"color: blue;\">お<ruby>歳暮<rt>せいぼ</rt></ruby></span>のために１２<ruby>月<rt>がつ</rt></ruby>にイクラを<ruby>買<rt>か</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなるため、<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がっています。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>築地<rt>つきじ</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>は、イクラ５００ｇの<ruby>値段<rt>ねだん</rt></ruby>を<ruby>来月<rt>らいげつ</rt></ruby>から、<ruby>今<rt>いま</rt></ruby>までの<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１．８<ruby>倍<rt>ばい</rt></ruby>の９８００<ruby>円<rt>えん</rt></ruby>にすると<ruby>決<rt>き</rt></ruby>めました。<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、こんなに<ruby>値段<rt>ねだん</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げたのは<ruby>初<rt>はじ</rt></ruby>めてだと<ruby>言<rt>い</rt></ruby>っています。<ruby>北海道<rt>ほっかいどう</rt></ruby>のイクラが<ruby>足<rt>た</rt></ruby>りなくなるかもしれないため、<ruby>来月<rt>らいげつ</rt></ruby>からはアメリカやロシアなど<ruby>外国<rt>がいこく</rt></ruby>のイクラも<ruby>売<rt>う</rt></ruby>ると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「イクラがキャビアのように<span style=\"\
+  color: blue;\"><ruby>高級<rt>こうきゅう</rt></ruby></span>なものになってきました。<ruby>客<rt>きゃく</rt></ruby>が<ruby>値段<rt>ねだん</rt></ruby>に<ruby>驚<rt>おどろ</rt></ruby>いて、<ruby>買<rt>か</rt></ruby>わなくなるかもしれないと<ruby>心配<rt>しんぱい</rt></ruby>しています」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 鮭
+  descriptions:
+  - <ruby><rb>川</rb><rt>かわ</rt></ruby>で<ruby><rb>生</rb><rt>う</rt></ruby>まれ、<ruby><rb>海</rb><rt>うみ</rt></ruby>に<ruby><rb>下</rb><rt>くだ</rt></ruby>って<ruby><rb>育</rb><rt>そだ</rt></ruby>ち、<ruby><rb>寒流</rb><rt>かんりゅう</rt></ruby>にすむ<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>四</rb><rt>し</rt></ruby>、<ruby><rb>五</rb><rt>ご</rt></ruby><ruby><rb>年</rb><rt>ねん</rt></ruby>たつと、<ruby><rb>秋</rb><rt>あき</rt></ruby>、<ruby><rb>生</rb><rt>う</rt></ruby>まれた<ruby><rb>川</rb><rt>かわ</rt></ruby>をさかのぼって<ruby><rb>卵</rb><rt>たまご</rt></ruby>を<ruby><rb>産</rb><rt>う</rt></ruby>む。<ruby><rb>身</rb><rt>み</rt></ruby>だけでなく、<ruby><rb>卵</rb><rt>たまご</rt></ruby>も「すじこ」「イクラ」と<ruby><rb>呼</rb><rt>よ</rt></ruby>ばれて<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にする。シャケ。アキアジ。
+- word: 捕れる
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+  - とることができる。
+- word: 捕れる
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+  - とることができる。
+- word: 歳暮
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>暮</rb><rt>く</rt></ruby>れ。<ruby><rb>年末</rb><rt>ねんまつ</rt></ruby>。
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>暮</rb><rt>く</rt></ruby>れに、<ruby><rb>日</rb><rt>ひ</rt></ruby>ごろ<ruby><rb>世話</rb><rt>せわ</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>におくるおくり<ruby><rb>物</rb><rt>もの</rt></ruby>。お<ruby><rb>歳暮</rb><rt>せいぼ</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 高級
+  descriptions:
+  - <ruby><rb>品質</rb><rt>ひんしつ</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>高</rb><rt>たか</rt></ruby>いこと。
+web_news_url: /news/web/2017/10/18/イクラの値上げ相次ぐ-秋サケ不漁の影響/
+source_url: http://www3.nhk.or.jp/news/easy/k10011180881000/k10011180881000.html
+...
