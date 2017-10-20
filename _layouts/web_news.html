@@ -14,28 +14,36 @@
           </div>
           <div class="rich_media_content">
             {% if page.movie_url %}
-            <p>
-              <video id="player" src="{{ page.movie_url }}" controls loop autoplay></video>
-            </p>
+            <p><video id="player" src="{{ page.movie_url }}" controls loop autoplay></video></p>
             <p></p>
-            {% endif %}
-            {% if page.image_url %}
+            {% elsif page.image_url %}
             <p><img data-s="300,640" src="{{ page.image_url }}" data-ratio="0" data-w="640" /></p>
+            <p></p>
+            {% elsif page.img %}
+            <p><img data-s="300,640" src="{{ page.img }}" data-ratio="0" data-w="640" /></p>
+            <p></p>
             {% endif %}
             <p>{{ page.summary }}</p>
             <p></p>
             <p>{{ page.more }}</p>
             {% for s in page.body %}
+            <p></p>
             {% if s.title %}
-            <br /><h2>{{ s.title }}</h2>
+            <h2>{{ s.title }}</h2>
             {% endif %}
-            {% if s.img %}
-            <p><img data-s="300,640" src="{{ s.img }}" data-ratio="0" data-w="640" /></p>
-            {% if s.caption %}
-            <p style="text-align: center;font-size: 0.8em;font-weight: bold">{{ s.caption }}</p>
-            {% endif %}
-            {% endif %}
+            {% if s.text %}
             <p>{{ s.text }}</p>
+            {% endif %}
+            {% if s.movie_url %}
+            <p><video id="player" src="{{ s.movie_url }}" controls loop autoplay></video></p>
+            <p></p>
+            {% elsif s.image_url %}
+            <p></p>
+            <p><img data-s="300,640" src="{{ s.image_url }}" data-ratio="0" data-w="640" /></p>
+            {% endif %}
+            {% if s.caption %}
+            <p class="caption">{{ s.caption }}</p>
+            {% endif %}
             {% endfor %}
 
             <p><img data-type="gif" src="/assets/qrcode.gif" data-ratio="0.5064308681672026" data-w="622" /></p>
@@ -49,7 +57,7 @@
             {% if page.easy_news_url %}
             <a class="media_tool_meta meta_primary" href="{{ page.easy_news_url }}">イージーニュース</a> |
             {% endif %}
-            <a class="media_tool_meta meta_primary" href="{{ page.source_url }}">原文</a>
+            <a class="media_tool_meta meta_primary" href="{{ page.source_url }}" target="_blank">原文</a>
           </div>
         </div>
 
