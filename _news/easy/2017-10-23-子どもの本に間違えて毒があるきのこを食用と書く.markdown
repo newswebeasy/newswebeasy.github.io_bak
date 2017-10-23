@@ -1,0 +1,62 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011184461000
+last_modified_at: '2017-10-23T17:20:00+09:00'
+datetime: 2017年10月23日 17時20分
+title: 子どもの本に間違えて毒があるきのこを「食用」と書く
+title_with_ruby: <ruby>子<rt>こ</rt></ruby>どもの<ruby>本<rt>ほん</rt></ruby>に<ruby>間違<rt>まちが</rt></ruby>えて<ruby>毒<rt>どく</rt></ruby>があるきのこを「<ruby>食用<rt>しょくよう</rt></ruby>」と<ruby>書<rt>か</rt></ruby>く
+outline: <ruby>小学館<rt>しょうがくかん</rt></ruby>は６<ruby>月<rt>がつ</rt></ruby>に『<ruby>小学館<rt>しょうがくかん</rt></ruby>の<ruby>図鑑<rt>ずかん</rt></ruby>ＮＥＯ　きのこ』という<ruby>子<rt>こ</rt></ruby>どものための<ruby>本<rt>ほん</rt></ruby>を<ruby>出<rt>だ</rt></ruby>しました。
+outline_with_ruby: <ruby>小学館<rt>しょうがくかん</rt></ruby>は６<ruby>月<rt>がつ</rt></ruby>に『<ruby>小学館<rt>しょうがくかん</rt></ruby>の<ruby>図鑑<rt>ずかん</rt></ruby>ＮＥＯ　きのこ』という<ruby>子<rt>こ</rt></ruby>どものための<ruby>本<rt>ほん</rt></ruby>を<ruby>出<rt>だ</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/23/K10011184461_1710202046_1710202050_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/23/k10011184461000.mp3
+content_with_ruby: "<p><ruby>小学館<rt>しょうがくかん</rt></ruby>は６<ruby>月<rt>がつ</rt></ruby>に『<ruby>小学館<rt>しょうがくかん</rt></ruby>の<ruby>図鑑<rt>ずかん</rt></ruby>ＮＥＯ　きのこ』という<ruby>子<rt>こ</rt></ruby>どものための<ruby>本<rt>ほん</rt></ruby>を<ruby>出<rt>だ</rt></ruby>しました。<ruby>日本<rt>にっぽん</rt></ruby>にある７００<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>ぐらいの<span style=\"color:\
+  \ blue;\">きのこ</span>を、<ruby>子<rt>こ</rt></ruby>どもにわかるように<ruby>絵<rt>え</rt></ruby>や<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>説明<rt>せつめい</rt></ruby>しています。</p>\n\
+  <p>この<ruby>本<rt>ほん</rt></ruby>の「ヒョウモンクロシメジ」という<span style=\"color: blue;\"><ruby>毒<rt>どく</rt></ruby></span>がある<span\
+  \ style=\"color: blue;\">きのこ</span>の<ruby>説明<rt>せつめい</rt></ruby>に「<span style=\"\
+  color: blue;\"><ruby>食用<rt>しょくよう</rt></ruby></span>」と<ruby>書<rt>か</rt></ruby>いていたことがわかりました。ヒョウモンクロシメジは、<ruby>少<rt>すこ</rt></ruby>しでも<ruby>食<rt>た</rt></ruby>べると<span\
+  \ style=\"color: blue;\"><ruby>吐<rt>は</rt></ruby>い</span>たり<span style=\"color:\
+  \ blue;\"><ruby>下痢<rt>げり</rt></ruby></span>をしたり、おなかが<ruby>痛<rt>いた</rt></ruby>くなったりします。</p>\n\
+  <p><ruby>小学館<rt>しょうがくかん</rt></ruby>によると、<ruby>本<rt>ほん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っているとき、チェックした<ruby>専門家<rt>せんもんか</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>間違<rt>まちが</rt></ruby>い</span>だと<ruby>言<rt>い</rt></ruby>われたのに、<ruby>直<rt>なお</rt></ruby>さないで<ruby>出<rt>だ</rt></ruby>してしまいました。<ruby>今月<rt>こんげつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>、<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んだ<ruby>人<rt>ひと</rt></ruby>に<ruby>言<rt>い</rt></ruby>われて、<ruby>間違<rt>まちが</rt></ruby>えたままだったことがわかりました。</p>\n\
+  <p>この<ruby>本<rt>ほん</rt></ruby>は<ruby>今<rt>いま</rt></ruby>までに５<ruby>万<rt>まん</rt></ruby><ruby>冊<rt>さつ</rt></ruby>ぐらい<ruby>作<rt>つく</rt></ruby>って、１<ruby>万<rt>まん</rt></ruby>６０００<ruby>冊<rt>さつ</rt></ruby>ぐらい<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れ</span>ました。<ruby>小学館<rt>しょうがくかん</rt></ruby>は<ruby>買<rt>か</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>や<ruby>本屋<rt>ほんや</rt></ruby>などにこの<ruby>本<rt>ほん</rt></ruby>を<ruby>会社<rt>かいしゃ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>戻<rt>もど</rt></ruby>し</span>てほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 毒
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>のあるもの。<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>傷</rb><rt>きず</rt></ruby>つけるもの。
+- word: 茸
+  descriptions:
+  - <ruby><rb>木</rb><rt>こ</rt></ruby>かげの<ruby><rb>地面</rb><rt>じめん</rt></ruby>やたおれた<ruby><rb>木</rb><rt>き</rt></ruby>などに<ruby><rb>生</rb><rt>は</rt></ruby>える<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。シイタケ・マツタケ・ナメコなど<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>になるものと、<ruby><rb>毒</rb><rt>どく</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つものなど、<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。たいてい、かさのような<ruby><rb>形</rb><rt>かたち</rt></ruby>をしていて、<ruby><rb>胞子</rb><rt>ほうし</rt></ruby>で<ruby><rb>増</rb><rt>ふ</rt></ruby>える。
+- word: 食用
+  descriptions:
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>になること。<ruby><rb>食</rb><rt>た</rt></ruby>べられること。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 吐く
+  descriptions:
+  - <ruby><rb>口</rb><rt>くち</rt></ruby>から<ruby><rb>外</rb><rt>そと</rt></ruby>へ<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>からふき<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+  - <ruby><rb>口</rb><rt>くち</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>言</rb><rt>い</rt></ruby>う。
+- word: 下痢
+  descriptions:
+  - おなかをこわして、<ruby><rb>水</rb><rt>みず</rt></ruby>けの<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>大便</rb><rt>だいべん</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>ること。<ruby><rb>腹</rb><rt>はら</rt></ruby>くだし。
+- word: 間違い
+  descriptions:
+  - まちがえてしまうこと。あやまり。
+  - よくないできごと。<ruby><rb>事故</rb><rt>じこ</rt></ruby>。
+- word: 売れる
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。
+- word: 戻す
+  descriptions:
+  - もとに<ruby><rb>返</rb><rt>かえ</rt></ruby>す。
+  - <ruby><rb>胃</rb><rt>い</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>のものをはく。
+source_url: http://www3.nhk.or.jp/news/easy/k10011184461000/k10011184461000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/20/子ども向け図鑑に毒きのこを食用と誤記-小学館
+...

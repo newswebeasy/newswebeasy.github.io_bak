@@ -1,0 +1,59 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011182781000
+last_modified_at: '2017-10-23T12:30:00+09:00'
+datetime: 2017年10月23日 12時30分
+title: 去年５歳より小さな子どもが５６０万人亡くなった
+title_with_ruby: <ruby>去年<rt>きょねん</rt></ruby>５<ruby>歳<rt>さい</rt></ruby>より<ruby>小<rt>ちい</rt></ruby>さな<ruby>子<rt>こ</rt></ruby>どもが５６０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなった
+outline: ユニセフやＷＨＯなどによると、<ruby>去年<rt>きょねん</rt></ruby><ruby>世界<rt>せかい</rt></ruby>で、５<ruby>歳<rt>さい</rt></ruby>より<ruby>小<rt>ちい</rt></ruby>さな<ruby>子<rt>こ</rt></ruby>どもが５６０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなりました。
+outline_with_ruby: ユニセフやＷＨＯなどによると、<ruby>去年<rt>きょねん</rt></ruby><ruby>世界<rt>せかい</rt></ruby>で、５<ruby>歳<rt>さい</rt></ruby>より<ruby>小<rt>ちい</rt></ruby>さな<ruby>子<rt>こ</rt></ruby>どもが５６０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなりました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/23/K10011182781_1710191543_1710191548_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/23/k10011182781000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\">ユニセフ</span>や<span style=\"color:\
+  \ blue;\">ＷＨＯ</span>などによると、<ruby>去年<rt>きょねん</rt></ruby><ruby>世界<rt>せかい</rt></ruby>で、５<ruby>歳<rt>さい</rt></ruby>より<ruby>小<rt>ちい</rt></ruby>さな<ruby>子<rt>こ</rt></ruby>どもが５６０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p>この<ruby>中<rt>なか</rt></ruby>の<span style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>８０％は、インドなどの<ruby>南<rt>みなみ</rt></ruby>アジアと、ナイジェリアなど<span\
+  \ style=\"color: blue;\">サハラ<ruby>砂漠<rt>さばく</rt></ruby></span>より<ruby>南<rt>みなみ</rt></ruby>にあるアフリカの<ruby>国<rt>くに</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>子<rt>こ</rt></ruby>どもたちでした。<ruby>汚<rt>きたな</rt></ruby>い<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>したり、<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>食<rt>た</rt></ruby>べることができなかったりしていた<ruby>子<rt>こ</rt></ruby>どもたちが、<span\
+  \ style=\"color: blue;\"><ruby>肺炎<rt>はいえん</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>下痢<rt>げり</rt></ruby></span>、<span style=\"color: blue;\">マラリア</span>で<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p><span style=\"color: blue;\">ユニセフ</span>は、このままだと、２０３０<ruby>年<rt>ねん</rt></ruby>までに６０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもが<ruby>亡<rt>な</rt></ruby>くなる<ruby>心配<rt>しんぱい</rt></ruby>があると<ruby>言<rt>い</rt></ruby>っています。しかし、<span\
+  \ style=\"color: blue;\">ワクチン</span>を<ruby>注射<rt>ちゅうしゃ</rt></ruby>したり、きれいな<ruby>所<rt>ところ</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>できるようにしたら、<ruby>亡<rt>な</rt></ruby>くなる<ruby>子<rt>こ</rt></ruby>どもを<span\
+  \ style=\"color: blue;\"><ruby>減<rt>へ</rt></ruby>らす</span>ことができるので、<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>してほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: UNICEF
+  descriptions:
+  - <ruby><rb>国連</rb><rt>こくれん</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つで、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>の<ruby><rb>不幸</rb><rt>ふこう</rt></ruby>な<ruby><rb>子</rb><rt>こ</rt></ruby>どもたちを<ruby><rb>助</rb><rt>たす</rt></ruby>ける<ruby><rb>活動</rb><rt>かつどう</rt></ruby>をする。
+- word: WHO
+  descriptions:
+  - <ruby><rb>国際連合</rb><rt>こくさいれんごう</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>保健衛生問題</rb><rt>ほけんえいせいもんだい</rt></ruby>について、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が<ruby><rb>協力</rb><rt>きょうりょく</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>機関</rb><rt>きかん</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: サハラ砂漠
+  descriptions:
+  - アフリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>北部</rb><rt>ほくぶ</rt></ruby>にある、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でもっとも<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>砂漠</rb><rt>さばく</rt></ruby>。
+- word: 肺炎
+  descriptions:
+  - <ruby><rb>細菌</rb><rt>さいきん</rt></ruby>によって<ruby><rb>起</rb><rt>お</rt></ruby>こる<ruby><rb>肺</rb><rt>はい</rt></ruby>の<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>る。
+- word: 下痢
+  descriptions:
+  - おなかをこわして、<ruby><rb>水</rb><rt>みず</rt></ruby>けの<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>大便</rb><rt>だいべん</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>ること。<ruby><rb>腹</rb><rt>はら</rt></ruby>くだし。
+- word: マラリア
+  descriptions:
+  - <ruby><rb>熱帯地方</rb><rt>ねったいちほう</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>。ハマダラカというカがなかだちをする。
+- word: ワクチン
+  descriptions:
+  - <ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>のもとになるばいきんなどから<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>薬</rb><rt>くすり</rt></ruby>。これを<ruby><rb>接種</rb><rt>せっしゅ</rt></ruby>して、その<ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>にかからないようにする。
+- word: 減らす
+  descriptions:
+  - <ruby><rb>少</rb><rt>すく</rt></ruby>なくする。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011182781000/k10011182781000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/19/ユニセフ5歳未満で死亡-去年1年で560万人
+...

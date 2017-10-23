@@ -14,4 +14,5 @@ more: これは、アメリカやイギリスなどの環境問題の専門家�
 body:
 - {}
 source_url: http://www3.nhk.or.jp/news/html/20171021/k10011184721000.html
+easy_news_url: https://newswebeasy.github.io/news/easy/2017/10/23/空気の汚染などが原因で900万人が亡くなる
 ...
