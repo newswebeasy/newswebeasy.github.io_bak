@@ -23,26 +23,48 @@
             <p><img data-s="300,640" src="{{ page.img }}" data-ratio="0" data-w="640" /></p>
             <p></p>
             {% endif %}
+            {% if page.summary %}
             <p>{{ page.summary }}</p>
             <p></p>
+            {% endif %}
+            {% if page.more %}
             <p>{{ page.more }}</p>
-            {% for s in page.body %}
             <p></p>
+            {% endif %}
+            {% for s in page.body %}
             {% if s.title %}
             <h2>{{ s.title }}</h2>
             {% endif %}
+            {% if s.textPos == 'top' %}
             {% if s.text %}
             <p>{{ s.text }}</p>
+            <p></p>
             {% endif %}
             {% if s.movie_url %}
             <p><video id="player" src="{{ s.movie_url }}" controls loop autoplay></video></p>
             <p></p>
             {% elsif s.image_url %}
-            <p></p>
             <p><img data-s="300,640" src="{{ s.image_url }}" data-ratio="0" data-w="640" /></p>
-            {% endif %}
             {% if s.caption %}
             <p class="caption">{{ s.caption }}</p>
+            {% endif %}
+            <p></p>
+            {% endif %}
+            {% else %}
+            {% if s.movie_url %}
+            <p><video id="player" src="{{ s.movie_url }}" controls loop autoplay></video></p>
+            <p></p>
+            {% elsif s.image_url %}
+            <p><img data-s="300,640" src="{{ s.image_url }}" data-ratio="0" data-w="640" /></p>
+            {% if s.caption %}
+            <p class="caption">{{ s.caption }}</p>
+            {% endif %}
+            <p></p>
+            {% endif %}
+            {% if s.text %}
+            <p>{{ s.text }}</p>
+            <p></p>
+            {% endif %}
             {% endif %}
             {% endfor %}
 
