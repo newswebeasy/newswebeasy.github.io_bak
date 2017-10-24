@@ -1,0 +1,98 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011185101000
+last_modified_at: '2017-10-24T12:30:00+09:00'
+datetime: 2017年10月24日 12時30分
+title: 日本の電化製品の会社が自動で走る車の研究を進める
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>電化製品<rt>でんかせいひん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>自動<rt>じどう</rt></ruby>で<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>める
+outline: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>電化製品<rt>でんかせいひん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が、<ruby>人<rt>ひと</rt></ruby>が<ruby>運転<rt>うんてん</rt></ruby>しなくても<ruby>自動<rt>じどう</rt></ruby>で<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めています。
+outline_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>電化製品<rt>でんかせいひん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が、<ruby>人<rt>ひと</rt></ruby>が<ruby>運転<rt>うんてん</rt></ruby>しなくても<ruby>自動<rt>じどう</rt></ruby>で<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めています。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/24/K10011185101_1710211747_1710211751_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/24/k10011185101000.mp3
+content_with_ruby: "<p><ruby>日本<rt>にっぽん</rt></ruby>の<span style=\"color: blue;\"><ruby>電化製品<rt>でんかせいひん</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>が、<ruby>人<rt>ひと</rt></ruby>が<ruby>運転<rt>うんてん</rt></ruby>しなくても<span\
+  \ style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>進<rt>すす</rt></ruby>め</span>ています。テレビやパソコンなどがあまり<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れ</span>なくなっているためです。<span style=\"\
+  color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>は、<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>研究<rt>けんきゅう</rt></ruby>した<ruby>高<rt>たか</rt></ruby>い<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うことができて、<ruby>世界<rt>せかい</rt></ruby>でたくさん<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れる</span>と<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p>「パナソニック」が<ruby>作<rt>つく</rt></ruby>った<span style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>には、６つの<ruby>特別<rt>とくべつ</rt></ruby>なカメラが<span\
+  \ style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>い</span>ています。<ruby>道<rt>みち</rt></ruby>に<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>急<rt>きゅう</rt></ruby>に</span><ruby>出<rt>で</rt></ruby>てくると、カメラがすぐ<ruby>見<rt>み</rt></ruby>つけて、<ruby>車<rt>くるま</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>止<rt>と</rt></ruby>まります。</p>\n\
+  <p>「<ruby>三菱電機<rt>みつびしでんき</rt></ruby>」は、「みちびき」という<span style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>で<span\
+  \ style=\"color: blue;\"><ruby>位置<rt>いち</rt></ruby></span>を<ruby>知<rt>し</rt></ruby>らせながら、<span\
+  \ style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>しています。「みちびき」が<ruby>知<rt>し</rt></ruby>らせる<span\
+  \ style=\"color: blue;\"><ruby>位置<rt>いち</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>間違<rt>まちが</rt></ruby>い</span>は、<ruby>車<rt>くるま</rt></ruby>が<ruby>止<rt>と</rt></ruby>まっているときは６ｃｍ、<ruby>走<rt>はし</rt></ruby>っているときでも１２ｃｍだけです。このため、<ruby>狭<rt>せま</rt></ruby>い<ruby>道<rt>みち</rt></ruby>でも、<span\
+  \ style=\"color: blue;\">ぶつから</span>ないで<ruby>走<rt>はし</rt></ruby>ることができます。</p>\n\
+  <p>アメリカの<span style=\"color: blue;\">ＩＴ</span>の<ruby>会社<rt>かいしゃ</rt></ruby>も<span\
+  \ style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っています。<ruby>世界<rt>せかい</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>競争<rt>きょうそう</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>激<rt>はげ</rt></ruby>しく</span>なりそうです。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 電化製品
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って、はたらかせる<ruby><rb>機械</rb><rt>きかい</rt></ruby>。<ruby><rb>電気冷蔵庫</rb><rt>でんきれいぞうこ</rt></ruby>・<ruby><rb>電気洗濯機</rb><rt>でんきせんたくき</rt></ruby>など。
+- word: 自動
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。
+- word: 進める
+  descriptions:
+  - <ruby><rb>前</rb><rt>まえ</rt></ruby>のほうへ<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+  - <ruby><rb>程度</rb><rt>ていど</rt></ruby>を<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - ものごとを、はかどらせる。
+  - <ruby><rb>時計</rb><rt>とけい</rt></ruby>の<ruby><rb>針</rb><rt>はり</rt></ruby>を<ruby><rb>早</rb><rt>はや</rt></ruby>める。
+- word: 進める
+  descriptions:
+  - <ruby><rb>前</rb><rt>まえ</rt></ruby>のほうへ<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+  - <ruby><rb>程度</rb><rt>ていど</rt></ruby>を<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - ものごとを、はかどらせる。
+  - <ruby><rb>時計</rb><rt>とけい</rt></ruby>の<ruby><rb>針</rb><rt>はり</rt></ruby>を<ruby><rb>早</rb><rt>はや</rt></ruby>める。
+- word: 売れる
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。
+- word: 売れる
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。
+- word: 付く
+  descriptions:
+  - ものがくっつく。
+  - つきそう。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>わる。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まる。
+  - <ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。
+  - <ruby><rb>感</rb><rt>かん</rt></ruby>じる。
+  - ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。
+- word: 急に
+  descriptions:
+  - とつぜん。にわかに。
+- word: 人工衛星
+  descriptions:
+  - ロケットで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げ、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>るようにした、<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>。<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>のようすや<ruby><rb>気象</rb><rt>きしょう</rt></ruby>などを<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>などの<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>の<ruby><rb>中継</rb><rt>ちゅうけい</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>てたりする。
+- word: 位置
+  descriptions:
+  - その<ruby><rb>物</rb><rt>もの</rt></ruby>がある<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+  - <ruby><rb>地位</rb><rt>ちい</rt></ruby>。<ruby><rb>立場</rb><rt>たちば</rt></ruby>。
+- word: 間違い
+  descriptions:
+  - まちがえてしまうこと。あやまり。
+  - よくないできごと。<ruby><rb>事故</rb><rt>じこ</rt></ruby>。
+- word: ぶつかる
+  descriptions:
+  - <ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。
+  - <ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。
+  - <ruby><rb>重</rb><rt>かさ</rt></ruby>なる。
+- word: IT
+  descriptions:
+  - コンピューターを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>とした<ruby><rb>情報技術</rb><rt>じょうほうぎじゅつ</rt></ruby>。
+- word: 激しい
+  descriptions:
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>いが<ruby><rb>強</rb><rt>つよ</rt></ruby>い。
+  - ものごとの<ruby><rb>程度</rb><rt>ていど</rt></ruby>がきつい。
+source_url: http://www3.nhk.or.jp/news/easy/k10011185101000/k10011185101000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/21/日本の電機メーカー-自動運転に自社技術を-事業強化
+...
