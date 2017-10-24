@@ -1,0 +1,60 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011194701000
+last_modified_at: '2017-10-24T17:00:00+09:00'
+datetime: 2017年10月24日 17時00分
+title: 大きな荷物を持った人や車いすを使う人に便利なタクシー
+title_with_ruby: <ruby>大<rt>おお</rt></ruby>きな<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>や<ruby>車<rt>くるま</rt></ruby>いすを<ruby>使<rt>つか</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>に<ruby>便利<rt>べんり</rt></ruby>なタクシー
+outline: <ruby>旅行<rt>りょこう</rt></ruby>などで<ruby>大<rt>おお</rt></ruby>きな<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>や、<ruby>車<rt>くるま</rt></ruby>いすを<ruby>使<rt>つか</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>などに<ruby>便利<rt>べんり</rt></ruby>なタクシーが<ruby>走<rt>はし</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。
+outline_with_ruby: <ruby>旅行<rt>りょこう</rt></ruby>などで<ruby>大<rt>おお</rt></ruby>きな<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>や、<ruby>車<rt>くるま</rt></ruby>いすを<ruby>使<rt>つか</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>などに<ruby>便利<rt>べんり</rt></ruby>なタクシーが<ruby>走<rt>はし</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/24/K10011194701_1710231802_1710231817_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/24/k10011194701000.mp3
+content_with_ruby: "<p><ruby>旅行<rt>りょこう</rt></ruby>などで<ruby>大<rt>おお</rt></ruby>きな<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>や、<span\
+  \ style=\"color: blue;\"><ruby>車<rt>くるま</rt></ruby>いす</span>を<ruby>使<rt>つか</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>などに<ruby>便利<rt>べんり</rt></ruby>なタクシーが<ruby>走<rt>はし</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。<ruby>東京<rt>とうきょう</rt></ruby>で２３<ruby>日<rt>にち</rt></ruby>、<ruby>自動車<rt>じどうしゃ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<ruby>会社<rt>かいしゃ</rt></ruby>やタクシーの<ruby>会社<rt>かいしゃ</rt></ruby>の<span\
+  \ style=\"color: blue;\">グループ</span>が<ruby>集<rt>あつ</rt></ruby>まって<ruby>出発<rt>しゅっぱつ</rt></ruby>の<ruby>式<rt>しき</rt></ruby>をしました。</p>\n\
+  <p>このタクシーは、<span style=\"color: blue;\"><ruby>天井<rt>てんじょう</rt></ruby></span>が<ruby>今<rt>いま</rt></ruby>までより２０ｃｍ<ruby>高<rt>たか</rt></ruby>くて、<span\
+  \ style=\"color: blue;\"><ruby>床<rt>ゆか</rt></ruby></span>が５ｃｍ<ruby>低<rt>ひく</rt></ruby>くなりました。<ruby>色<rt>いろ</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>濃<rt>こ</rt></ruby>い</span><ruby>青<rt>あお</rt></ruby>です。</p>\n\
+  <p><ruby>運転<rt>うんてん</rt></ruby><ruby>席<rt>せき</rt></ruby>の<ruby>隣<rt>となり</rt></ruby>の<ruby>席<rt>せき</rt></ruby>や<ruby>後<rt>うし</rt></ruby>ろの<ruby>席<rt>せき</rt></ruby>のいすを<span\
+  \ style=\"color: blue;\"><ruby>折<rt>お</rt></ruby>り<ruby>畳<rt>たた</rt></ruby>む</span>と、<ruby>中<rt>なか</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>くなって、スーツケースなど<ruby>大<rt>おお</rt></ruby>きな<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>置<rt>お</rt></ruby>いたりできます。<span\
+  \ style=\"color: blue;\"><ruby>車<rt>くるま</rt></ruby>いす</span>を<ruby>押<rt>お</rt></ruby>してもらって<ruby>乗<rt>の</rt></ruby>ることができるように、<span\
+  \ style=\"color: blue;\">スロープ</span>もあります。</p>\n<p>タクシーの<ruby>会社<rt>かいしゃ</rt></ruby>の<span\
+  \ style=\"color: blue;\">グループ</span>は、このようなタクシーをこれから<ruby>多<rt>おお</rt></ruby>くする<ruby>計画<rt>けいかく</rt></ruby>です。<ruby>東京<rt>とうきょう</rt></ruby>で<span\
+  \ style=\"color: blue;\">オリンピック</span>と<span style=\"color: blue;\">パラリンピック</span>がある２０２０<ruby>年<rt>ねん</rt></ruby>までに、<ruby>日本<rt>にっぽん</rt></ruby>のタクシーの３０％をこのようなタクシーにしたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 車椅子
+  descriptions:
+  - <ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>病気</rb><rt>びょうき</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>などが、<ruby><rb>腰</rb><rt>こし</rt></ruby>かけたまま<ruby><rb>移動</rb><rt>いどう</rt></ruby>できるように<ruby><rb>車</rb><rt>くるま</rt></ruby>をつけた、いす。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 天井
+  descriptions:
+  - <ruby><rb>部屋</rb><rt>へや</rt></ruby>の<ruby><rb>上部</rb><rt>じょうぶ</rt></ruby>に<ruby><rb>板</rb><rt>いた</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>ったもの。また、その<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - ものごとのいちばん<ruby><rb>高</rb><rt>たか</rt></ruby>いところ。
+- word: 床
+  descriptions:
+  - <ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、<ruby><rb>地面</rb><rt>じめん</rt></ruby>より<ruby><rb>高</rb><rt>たか</rt></ruby>く、<ruby><rb>板</rb><rt>いた</rt></ruby>を<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>張</rb><rt>は</rt></ruby>ったところ。
+- word: 濃い
+  descriptions:
+  - <ruby><rb>色合</rb><rt>いろあ</rt></ruby>いや<ruby><rb>味</rb><rt>あじ</rt></ruby>などが<ruby><rb>強</rb><rt>つよ</rt></ruby>い。
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>にふくまれているものの、<ruby><rb>度合</rb><rt>どあ</rt></ruby>いが<ruby><rb>高</rb><rt>たか</rt></ruby>い。
+  - びっしりとすき<ruby><rb>間</rb><rt>ま</rt></ruby>がない。
+  - そのような<ruby><rb>感</rb><rt>かん</rt></ruby>じが<ruby><rb>強</rb><rt>つよ</rt></ruby>い。
+- word: 折り畳む
+  descriptions:
+  - <ruby><rb>折</rb><rt>お</rt></ruby>り<ruby><rb>曲</rb><rt>ま</rt></ruby>げて<ruby><rb>小</rb><rt>ちい</rt></ruby>さくする。
+- word: スロープ
+  descriptions:
+  - <ruby><rb>土地</rb><rt>とち</rt></ruby>の、ななめになっているところ。けいしゃ。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>４年</rb><rt>よねん</rt></ruby>に<ruby><rb>１度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011194701000/k10011194701000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/23/旅行者や車いすに優しい新型タクシー出発式
+...

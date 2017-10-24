@@ -1,0 +1,70 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011195311000
+last_modified_at: '2017-10-24T17:00:00+09:00'
+datetime: 2017年10月24日 17時00分
+title: ロヒンギャを助けるために世界の国が３９０億円出す
+title_with_ruby: ロヒンギャを<ruby>助<rt>たす</rt></ruby>けるために<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>が３９０<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>出<rt>だ</rt></ruby>す
+outline: ミャンマーにはイスラム<ruby>教<rt>きょう</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じるロヒンギャと<ruby>呼<rt>よ</rt></ruby>ばれる<ruby>人<rt>ひと</rt></ruby>たちがいます。
+outline_with_ruby: ミャンマーにはイスラム<ruby>教<rt>きょう</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じるロヒンギャと<ruby>呼<rt>よ</rt></ruby>ばれる<ruby>人<rt>ひと</rt></ruby>たちがいます。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/24/K10011195311_1710240544_1710240549_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/24/k10011195311000.mp3
+content_with_ruby: "<p>ミャンマーには<span style=\"color: blue;\">イスラム<ruby>教<rt>きょう</rt></ruby></span>を<span\
+  \ style=\"color: blue;\"><ruby>信<rt>しん</rt></ruby>じる</span>ロヒンギャと<ruby>呼<rt>よ</rt></ruby>ばれる<ruby>人<rt>ひと</rt></ruby>たちがいます。<ruby>今年<rt>ことし</rt></ruby>の８<ruby>月<rt>がつ</rt></ruby>、ロヒンギャの<span\
+  \ style=\"color: blue;\"><ruby>武器<rt>ぶき</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>った<span\
+  \ style=\"color: blue;\">グループ</span>と<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>戦<rt>たたか</rt></ruby>い</span>が<span style=\"color:\
+  \ blue;\"><ruby>起<rt>お</rt></ruby>こり</span>ました。<span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>は、６０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のロヒンギャの<ruby>人<rt>ひと</rt></ruby>が<ruby>隣<rt>となり</rt></ruby>のバングラデシュに<ruby>逃<rt>に</rt></ruby>げたと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>などはスイスのジュネーブで２３<ruby>日<rt>にち</rt></ruby>、ロヒンギャの<ruby>人<rt>ひと</rt></ruby>たちを<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>ける</span>ための<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>きました。そして、<ruby>日本<rt>にっぽん</rt></ruby>など３５の<ruby>国<rt>くに</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>して、<ruby>日本<rt>にっぽん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>で３９０<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<ruby>出<rt>だ</rt></ruby>すと<ruby>決<rt>き</rt></ruby>めました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>は、ロヒンギャの<ruby>人<rt>ひと</rt></ruby>たちに<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>や<ruby>薬<rt>くすり</rt></ruby>を<ruby>用意<rt>ようい</rt></ruby>するために、<ruby>来年<rt>らいねん</rt></ruby>の２<ruby>月<rt>がつ</rt></ruby>までに<ruby>日本<rt>にっぽん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>で４９０<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>なのでもっと<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>してほしいと<ruby>言<rt>い</rt></ruby>いました。そして、ロヒンギャの<ruby>人<rt>ひと</rt></ruby>たちが<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ることができるようにしてほしいとミャンマーの<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>に<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+- word: イスラム教
+  descriptions:
+  - <ruby><rb>七世紀</rb><rt>ななせいき</rt></ruby><ruby><rb>初</rb><rt>はじ</rt></ruby>め、アラビアでムハンマドが<ruby><rb>始</rb><rt>はじ</rt></ruby>めた、<ruby><rb>唯一</rb><rt>ゆいいつ</rt></ruby>の<ruby><rb>神</rb><rt>かみ</rt></ruby>アッラーを<ruby><rb>信</rb><rt>しん</rt></ruby>じる<ruby><rb>宗教</rb><rt>しゅうきょう</rt></ruby>。<ruby><rb>回教</rb><rt>かいきょう</rt></ruby>。
+- word: 信じる
+  descriptions:
+  - ほんとうだと<ruby><rb>心</rb><rt>こころ</rt></ruby>から<ruby><rb>思</rb><rt>おも</rt></ruby>う。
+  - <ruby><rb>神</rb><rt>かみ</rt></ruby>や、<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>を<ruby><rb>信仰</rb><rt>しんこう</rt></ruby>する。
+- word: 武器
+  descriptions:
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>勝</rb><rt>か</rt></ruby>つための<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>や、<ruby><rb>手</rb><rt>て</rt></ruby>だて。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 戦い
+  descriptions:
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>うこと。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。<ruby><rb>争</rb><rt>あらそ</rt></ruby>い。
+  - <ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 起こる
+  descriptions:
+  - <ruby><rb>始</rb><rt>はじ</rt></ruby>まる。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011195311000/k10011195311000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/24/ロヒンギャ支援に各国が390億円拠出へ
+...

@@ -1,0 +1,18 @@
+---
+layout: web_news
+categories: web
+newsid: k10011194231000
+title: 札幌で初雪を観測
+last_modified_at: '2017-10-23T16:33:00+09:00'
+datetime: 2017年10月23日 16時33分
+summary: 札幌市で２３日午前８時半ごろ、みぞれが降り、札幌管区気象台は「札幌市で初雪を観測した」と発表しました。気象台によりますと、初雪の観測は、平年より５日早く去年より３日遅いということです。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/23/K10011194231_1710231248_1710231251_01_02.jpg
+movie_url: https://newswebeasy.github.io/ja201710/news/web/movie/2017/10/23/k10011194231_201710231613_201710231614.mp4
+voice_url: https://newswebeasy.github.io/ja201710/news/web/voice/2017/10/23/k10011194231_201710231613_201710231614.mp3
+body:
+- text: 北海道では内陸を中心に雪となっていて、午後２時現在の積雪は、南富良野町幾寅で１３センチ、層雲峡で１２センチなどとなっています。<br /><br />道内では、上空には寒気が流れ込み、２４日にかけて重く湿った雪が降り、平地でも雪の量が多くなるおそれがあります。<br
+    />２４日昼までの２４時間に降る雪の量は、オホーツク海側と日本海側の内陸で４０センチ、太平洋側の内陸で３０センチと予想されていて、気象台は、交通への影響や農業施設の被害、電線への着雪、停電などに十分注意するよう呼びかけています。
+  image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/23/K10011194231_1710231248_1710231251_01_03.jpg
+source_url: http://www3.nhk.or.jp/news/html/20171023/k10011194231000.html
+easy_news_url: https://newswebeasy.github.io/news/easy/2017/10/24/北海道に冷たい空気が入って雪が降る
+...

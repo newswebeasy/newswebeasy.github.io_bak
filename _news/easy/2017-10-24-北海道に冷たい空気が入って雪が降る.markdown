@@ -1,0 +1,34 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011194231000
+last_modified_at: '2017-10-24T17:00:00+09:00'
+datetime: 2017年10月24日 17時00分
+title: 北海道に冷たい空気が入って雪が降る
+title_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby>に<ruby>冷<rt>つめ</rt></ruby>たい<ruby>空気<rt>くうき</rt></ruby>が<ruby>入<rt>はい</rt></ruby>って<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る
+outline: とても<ruby>大<rt>おお</rt></ruby>きな「<ruby>台風<rt>たいふう</rt></ruby>２１<ruby>号<rt>ごう</rt></ruby>」は２３<ruby>日<rt>にち</rt></ruby>、<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>来<rt>き</rt></ruby>ました。
+outline_with_ruby: とても<ruby>大<rt>おお</rt></ruby>きな「<ruby>台風<rt>たいふう</rt></ruby>２１<ruby>号<rt>ごう</rt></ruby>」は２３<ruby>日<rt>にち</rt></ruby>、<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>来<rt>き</rt></ruby>ました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/24/K10011194231_1710231248_1710231251_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/24/k10011194231000.mp3
+content_with_ruby: "<p>とても<ruby>大<rt>おお</rt></ruby>きな「<ruby>台風<rt>たいふう</rt></ruby>２１<ruby>号<rt>ごう</rt></ruby>」は２３<ruby>日<rt>にち</rt></ruby>、<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>来<rt>き</rt></ruby>ました。<ruby>北海道<rt>ほっかいどう</rt></ruby>には<ruby>北<rt>きた</rt></ruby>から<ruby>冷<rt>つめ</rt></ruby>たい<ruby>空気<rt>くうき</rt></ruby>が<ruby>入<rt>はい</rt></ruby>って、<ruby>多<rt>おお</rt></ruby>くの<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>りました。</p>\n\
+  <p><ruby>札幌市<rt>さっぽろし</rt></ruby>でも<ruby>初<rt>はじ</rt></ruby>めて<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>りました。<span\
+  \ style=\"color: blue;\"><ruby>気象台<rt>きしょうだい</rt></ruby></span>によると、<ruby>札幌市<rt>さっぽろし</rt></ruby>で<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ったのはいつもの<ruby>年<rt>とし</rt></ruby>より<ruby>５日<rt>いつか</rt></ruby><ruby>早<rt>はや</rt></ruby>くなりました。</p>\n\
+  <p><ruby>北見市<rt>きたみし</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>山<rt>やま</rt></ruby>の<ruby>道<rt>みち</rt></ruby>では<ruby>午後<rt>ごご</rt></ruby>に<ruby>雪<rt>ゆき</rt></ruby>が３０ｃｍぐらい<span\
+  \ style=\"color: blue;\"><ruby>積<rt>つ</rt></ruby>もっ</span>て、<span style=\"color:\
+  \ blue;\">トラック</span>が<ruby>滑<rt>すべ</rt></ruby>って<ruby>動<rt>うご</rt></ruby>くことができなくなりました。ほかの<ruby>車<rt>くるま</rt></ruby>も<ruby>道<rt>みち</rt></ruby>を<ruby>通<rt>とお</rt></ruby>ることができなくなって、たくさんの<ruby>車<rt>くるま</rt></ruby>も<ruby>止<rt>と</rt></ruby>まっていました。<ruby>警察<rt>けいさつ</rt></ruby>などが<span\
+  \ style=\"color: blue;\">トラック</span>を<ruby>別<rt>べつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>んで、<ruby>夜<rt>よる</rt></ruby>７<ruby>時<rt>じ</rt></ruby>ごろ<ruby>道<rt>みち</rt></ruby>を<ruby>通<rt>とお</rt></ruby>ることができるようになりました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 気象台
+  descriptions:
+  - <ruby><rb>気象</rb><rt>きしょう</rt></ruby>や<ruby><rb>地震</rb><rt>じしん</rt></ruby>の<ruby><rb>観測</rb><rt>かんそく</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>天気予報</rb><rt>てんきよほう</rt></ruby>の<ruby><rb>発表</rb><rt>はっぴょう</rt></ruby>もする。
+- word: 積もる
+  descriptions:
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かい<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>重</rb><rt>かさ</rt></ruby>なってたまる。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じようなことが<ruby><rb>何度</rb><rt>なんど</rt></ruby>も<ruby><rb>重</rb><rt>かさ</rt></ruby>なって、だんだん<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+- word: トラック
+  descriptions:
+  - <ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011194231000/k10011194231000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/23/札幌で初雪を観測
+...
