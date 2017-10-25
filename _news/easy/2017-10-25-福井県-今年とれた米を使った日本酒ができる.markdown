@@ -1,0 +1,52 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011196291000
+last_modified_at: '2017-10-25T17:10:00+09:00'
+datetime: 2017年10月25日 17時10分
+title: 福井県　今年とれた米を使った日本酒ができる
+title_with_ruby: <ruby>福井県<rt>ふくいけん</rt></ruby>　<ruby>今年<rt>ことし</rt></ruby>とれた<ruby>米<rt>こめ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>日本酒<rt>にほんしゅ</rt></ruby>ができる
+outline: <ruby>福井県<rt>ふくいけん</rt></ruby><ruby>勝山市<rt>かつやまし</rt></ruby>で１００<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>続<rt>つづ</rt></ruby>いているお<ruby>酒<rt>さけ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>２４日<rt>にじゅうよっか</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>とれた<ruby>米<rt>こめ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>日本酒<rt>にほんしゅ</rt></ruby>ができました。
+outline_with_ruby: <ruby>福井県<rt>ふくいけん</rt></ruby><ruby>勝山市<rt>かつやまし</rt></ruby>で１００<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>続<rt>つづ</rt></ruby>いているお<ruby>酒<rt>さけ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>２４日<rt>にじゅうよっか</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>とれた<ruby>米<rt>こめ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>日本酒<rt>にほんしゅ</rt></ruby>ができました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/25/K10011196291_1710242102_1710250118_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/25/k10011196291000.mp3
+content_with_ruby: "<p><ruby>福井県<rt>ふくいけん</rt></ruby><ruby>勝山市<rt>かつやまし</rt></ruby>で１００<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>続<rt>つづ</rt></ruby>いているお<ruby>酒<rt>さけ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>２４日<rt>にじゅうよっか</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby><span\
+  \ style=\"color: blue;\">とれ</span>た<ruby>米<rt>こめ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span>ができました。<ruby>会社<rt>かいしゃ</rt></ruby>では、１０<ruby>月<rt>がつ</rt></ruby>の<ruby>初<rt>はじ</rt></ruby>めからこの<span\
+  \ style=\"color: blue;\"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span>をつくっていました。</p>\n<p><span\
+  \ style=\"color: blue;\"><ruby>発酵<rt>はっこう</rt></ruby></span>した<ruby>米<rt>こめ</rt></ruby>を<ruby>大<rt>おお</rt></ruby>きな<ruby>機械<rt>きかい</rt></ruby>で<span\
+  \ style=\"color: blue;\">しぼる</span>と、<ruby>新<rt>あたら</rt></ruby>しくできたお<ruby>酒<rt>さけ</rt></ruby>が<ruby>出<rt>で</rt></ruby>てきます。<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、<span\
+  \ style=\"color: blue;\"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span>のいい<ruby>匂<rt>にお</rt></ruby>いが<span\
+  \ style=\"color: blue;\"><ruby>広<rt>ひろ</rt></ruby>がり</span>ました。</p>\n<p><ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>新<rt>あたら</rt></ruby>しくできた<span\
+  \ style=\"color: blue;\"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span>をおいしい<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>楽<rt>たの</rt></ruby>しんでほしいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 取れる
+  descriptions:
+  - はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。
+  - つかれなどが、なくなる。
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>ることができる。
+  - そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。
+  - <ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+- word: 日本酒
+  descriptions:
+  - <ruby><rb>米</rb><rt>こめ</rt></ruby>から<ruby><rb>造</rb><rt>つく</rt></ruby>る、<ruby><rb>日本特有</rb><rt>にっぽんとくゆう</rt></ruby>の<ruby><rb>酒</rb><rt>さけ</rt></ruby>。<ruby><rb>清酒</rb><rt>せいしゅ</rt></ruby>。
+- word: 発酵
+  descriptions:
+  - <ruby><rb>米</rb><rt>こめ</rt></ruby>・<ruby><rb>麦</rb><rt>むぎ</rt></ruby>・<ruby><rb>豆</rb><rt>まめ</rt></ruby>・<ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>などに、<ruby><rb>酵母菌</rb><rt>こうぼきん</rt></ruby>やバクテリアがはたらいて、アルコールや、<ruby><rb>乳酸</rb><rt>にゅうさん</rt></ruby>などができること。<ruby><rb>酒</rb><rt>さけ</rt></ruby>・みそ・チーズなどをつくるのに<ruby><rb>利用</rb><rt>りよう</rt></ruby>する。
+- word: 搾る
+  descriptions:
+  - <ruby><rb>強</rb><rt>つよ</rt></ruby>くしめて、<ruby><rb>水</rb><rt>みず</rt></ruby>けを<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>などを、<ruby><rb>無理</rb><rt>むり</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>立</rb><rt>た</rt></ruby>てる。
+  - ひどくしかる。
+  - <ruby><rb>厳</rb><rt>きび</rt></ruby>しくきたえる。
+- word: 広がる
+  descriptions:
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>くなる。
+  - <ruby><rb>広々</rb><rt>ひろびろ</rt></ruby>と<ruby><rb>見</rb><rt>み</rt></ruby>わたせる。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011196291000/k10011196291000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/25/地元の新米仕込んだ新酒の初しぼり-福井
+...

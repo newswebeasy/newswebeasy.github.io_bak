@@ -1,0 +1,74 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011196631000
+last_modified_at: '2017-10-25T17:10:00+09:00'
+datetime: 2017年10月25日 17時10分
+title: アインシュタインのメモがオークションで２億円
+title_with_ruby: アインシュタインのメモがオークションで２<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>
+outline: ノーベル<ruby>賞<rt>しょう</rt></ruby>をもらった<ruby>物理<rt>ぶつり</rt></ruby><ruby>学者<rt>がくしゃ</rt></ruby>のアインシュタインは１９２２<ruby>年<rt>ねん</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>帝国<rt>ていこく</rt></ruby>ホテルに<ruby>泊<rt>と</rt></ruby>まりました。
+outline_with_ruby: ノーベル<ruby>賞<rt>しょう</rt></ruby>をもらった<ruby>物理<rt>ぶつり</rt></ruby><ruby>学者<rt>がくしゃ</rt></ruby>のアインシュタインは１９２２<ruby>年<rt>ねん</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>帝国<rt>ていこく</rt></ruby>ホテルに<ruby>泊<rt>と</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/25/K10011196631_1710250839_1710250844_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/25/k10011196631000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\">ノーベル<ruby>賞<rt>しょう</rt></ruby></span>をもらった<span\
+  \ style=\"color: blue;\"><ruby>物理<rt>ぶつり</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>学者<rt>がくしゃ</rt></ruby></span>のアインシュタインは１９２２<ruby>年<rt>ねん</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>帝国<rt>ていこく</rt></ruby>ホテルに<ruby>泊<rt>と</rt></ruby>まりました。アインシュタインはホテルで、<ruby>日本人<rt>にっぽんじん</rt></ruby>の<span\
+  \ style=\"color: blue;\">ボーイ</span>に<span style=\"color: blue;\">チップ</span>の<ruby>代<rt>か</rt></ruby>わりに２<ruby>枚<rt>まい</rt></ruby>の<span\
+  \ style=\"color: blue;\">メモ</span>を<ruby>渡<rt>わた</rt></ruby>しました。<span style=\"\
+  color: blue;\">メモ</span>の１<ruby>枚<rt>まい</rt></ruby>にはドイツ<ruby>語<rt>ご</rt></ruby>で「<span\
+  \ style=\"color: blue;\"><ruby>意志<rt>いし</rt></ruby></span>があるところに<ruby>道<rt>みち</rt></ruby>は<ruby>開<rt>ひら</rt></ruby>く」と<ruby>書<rt>か</rt></ruby>いてあります。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>中東<rt>ちゅうとう</rt></ruby></span>のエルサレムで、２<ruby>枚<rt>まい</rt></ruby>の<span\
+  \ style=\"color: blue;\">メモ</span>の<span style=\"color: blue;\">オークション</span>がありました。ドイツに<ruby>住<rt>す</rt></ruby>んでいる<span\
+  \ style=\"color: blue;\">ボーイ</span>の<span style=\"color: blue;\"><ruby>親戚<rt>しんせき</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\">オークション</span>に<ruby>出<rt>だ</rt></ruby>しました。<span style=\"\
+  color: blue;\">メモ</span>は２<ruby>枚<rt>まい</rt></ruby>で１８０<ruby>万<rt>まん</rt></ruby><span\
+  \ style=\"color: blue;\">ドル</span>、<ruby>日本<rt>にっぽん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>で２<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>ぐらいになりました。</p>\n\
+  <p>アインシュタインは<span style=\"color: blue;\">ボーイ</span>に「<span style=\"color: blue;\"\
+  ><ruby>運<rt>うん</rt></ruby></span>がよかったら、<span style=\"color: blue;\">メモ</span>は<ruby>普通<rt>ふつう</rt></ruby>の<span\
+  \ style=\"color: blue;\">チップ</span>よりも<ruby>高<rt>たか</rt></ruby>い<ruby>値段<rt>ねだん</rt></ruby>になるでしょう」と<ruby>話<rt>はな</rt></ruby>していたようです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: メモ
+  descriptions:
+  - <ruby><rb>忘</rb><rt>わす</rt></ruby>れないように<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、その<ruby><rb>紙</rb><rt>かみ</rt></ruby>やノート。<ruby><rb>覚</rb><rt>おぼ</rt></ruby>え<ruby><rb>書</rb><rt>が</rt></ruby>き。
+- word: 競り売り
+  descriptions:
+  - <ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。
+- word: ノーベル賞
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の、<ruby><rb>学問</rb><rt>がくもん</rt></ruby>や<ruby><rb>平和</rb><rt>へいわ</rt></ruby>のためにりっぱな<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をした<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>毎年</rb><rt>まいとし</rt></ruby>あたえられる<ruby><rb>賞</rb><rt>しょう</rt></ruby>。<ruby><rb>化学者</rb><rt>かがくしゃ</rt></ruby>ノーベルの<ruby><rb>遺言</rb><rt>ゆいごん</rt></ruby>で、この<ruby><rb>制度</rb><rt>せいど</rt></ruby>ができた。
+- word: 物理学
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>や<ruby><rb>運動</rb><rt>うんどう</rt></ruby>、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>・<ruby><rb>光</rb><rt>ひかり</rt></ruby>・<ruby><rb>電気</rb><rt>でんき</rt></ruby>・<ruby><rb>音</rb><rt>おと</rt></ruby>のはたらきなどについて<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>学問</rb><rt>がくもん</rt></ruby>。
+- word: 学者
+  descriptions:
+  - <ruby><rb>学問</rb><rt>がくもん</rt></ruby>を<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>学問</rb><rt>がくもん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: ボーイ
+  descriptions:
+  - <ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。<ruby><rb>少年</rb><rt>しょうねん</rt></ruby>。
+  - ホテルやレストランの、サービス<ruby><rb>係</rb><rt>がかり</rt></ruby>の<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: チップ
+  descriptions:
+  - お<ruby><rb>礼</rb><rt>れい</rt></ruby>としてわたすお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 意志
+  descriptions:
+  - <ruby><rb>何</rb><rt>なに</rt></ruby>かをやりとげようとする<ruby><rb>心</rb><rt>こころ</rt></ruby>。
+  - はっきりとした<ruby><rb>考</rb><rt>かんが</rt></ruby>え。
+- word: 中東
+  descriptions:
+  - <ruby><rb>西</rb><rt>にし</rt></ruby>アジアからエジプトにかけての<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。イラン・イラク・アフガニスタン・トルコなどの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>。<ruby><rb>中近東</rb><rt>ちゅうきんとう</rt></ruby>。
+- word: 親類
+  descriptions:
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>親</rb><rt>おや</rt></ruby>から<ruby><rb>分</rb><rt>わ</rt></ruby>かれたり、<ruby><rb>結婚</rb><rt>けっこん</rt></ruby>でつながったりしている<ruby><rb>人</rb><rt>ひと</rt></ruby>たち。<ruby><rb>身内</rb><rt>みうち</rt></ruby>。<ruby><rb>親戚</rb><rt>しんせき</rt></ruby>。
+- word: ドル
+  descriptions:
+  - アメリカ・カナダなどで<ruby><rb>使</rb><rt>つか</rt></ruby>われているお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>１</rb><rt>いち</rt></ruby>ドルは１００セント。
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 運
+  descriptions:
+  - はこぶ。
+  - <ruby><rb>動</rb><rt>うご</rt></ruby>かす。
+  - めぐり<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011196631000/k10011196631000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/25/アインシュタインがホテルのボーイに渡したメモ-2億円余で落札
+...
