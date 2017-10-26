@@ -1,0 +1,63 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011196971000
+last_modified_at: '2017-10-26T17:10:00+09:00'
+datetime: 2017年10月26日 17時10分
+title: 中国共産党のトップ　次の５年も習近平総書記
+title_with_ruby: <ruby>中国共産党<rt>ちゅうごくきょうさんとう</rt></ruby>のトップ　<ruby>次<rt>つぎ</rt></ruby>の５<ruby>年<rt>ねん</rt></ruby>も<ruby>習<rt>しゅう</rt></ruby><ruby>近平<rt>きんぺい</rt></ruby><ruby>総書記<rt>そうしょき</rt></ruby>
+outline: <ruby>中国共産党<rt>ちゅうごくきょうさんとう</rt></ruby>は２５<ruby>日<rt>にち</rt></ruby>に<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いて、これから５<ruby>年<rt>ねん</rt></ruby>の<ruby>党<rt>とう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby>なメンバーになる<ruby>最高指導部<rt>さいこうしどうぶ</rt></ruby>の７<ruby>人<rt>にん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びました。
+outline_with_ruby: <ruby>中国共産党<rt>ちゅうごくきょうさんとう</rt></ruby>は２５<ruby>日<rt>にち</rt></ruby>に<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いて、これから５<ruby>年<rt>ねん</rt></ruby>の<ruby>党<rt>とう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby>なメンバーになる<ruby>最高指導部<rt>さいこうしどうぶ</rt></ruby>の７<ruby>人<rt>にん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/26/K10011196971_1710251416_1710251425_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/26/k10011196971000.mp3
+content_with_ruby: "<p><ruby>中国共産党<rt>ちゅうごくきょうさんとう</rt></ruby>は２５<ruby>日<rt>にち</rt></ruby>に<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いて、これから５<ruby>年<rt>ねん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>党<rt>とう</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>重要<rt>じゅうよう</rt></ruby></span>な<span style=\"color: blue;\">メンバー</span>になる<ruby>最高指導部<rt>さいこうしどうぶ</rt></ruby>の７<ruby>人<rt>にん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びました。<span\
+  \ style=\"color: blue;\"><ruby>党<rt>とう</rt></ruby></span>の<span style=\"color: blue;\"\
+  >トップ</span>の<ruby>総書記<rt>そうしょき</rt></ruby>には、<ruby>習<rt>しゅう</rt></ruby><ruby>近平<rt>きんぺい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>氏<rt>し</rt></ruby></span>をもう<ruby>一度<rt>いちど</rt></ruby><ruby>選<rt>えら</rt></ruby>びました。\n\
+  <ruby>李<rt>り</rt></ruby><ruby>克強<rt>こっきょう</rt></ruby><ruby>首相<rt>しゅしょう</rt></ruby>も、もう<ruby>一度<rt>いちど</rt></ruby><ruby>最高指導部<rt>さいこうしどうぶ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りました。ほかの５<ruby>人<rt>にん</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>になりましたが、<ruby>次<rt>つぎ</rt></ruby>の<span\
+  \ style=\"color: blue;\">リーダー</span>になるような<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>は<ruby>入<rt>はい</rt></ruby>りませんでした。<ruby>習<rt>しゅう</rt></ruby><ruby>総書記<rt>そうしょき</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>信頼<rt>しんらい</rt></ruby></span>する<ruby>人<rt>ひと</rt></ruby>を<ruby>最高指導部<rt>さいこうしどうぶ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れて、<ruby>自分<rt>じぶん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>権力<rt>けんりょく</rt></ruby></span>が<ruby>集<rt>あつ</rt></ruby>まるようにしたと<ruby>言<rt>い</rt></ruby>われています。</p>\n\
+  <p><ruby>習<rt>しゅう</rt></ruby><ruby>総書記<rt>そうしょき</rt></ruby>は「<ruby>私<rt>わたし</rt></ruby>たちは、みなさんの<span\
+  \ style=\"color: blue;\"><ruby>期待<rt>きたい</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>裏切<rt>うらぎ</rt></ruby>ら</span>ないように<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>働<rt>はたら</rt></ruby>きます」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: トップ
+  descriptions:
+  - <ruby><rb>先頭</rb><rt>せんとう</rt></ruby>。<ruby><rb>真</rb><rt>ま</rt></ruby>っ<ruby><rb>先</rb><rt>さき</rt></ruby>。<ruby><rb>一番</rb><rt>いちばん</rt></ruby>。
+- word: 党
+  descriptions:
+  - なかま。<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>持</rb><rt>も</rt></ruby>っている<ruby><rb>人</rb><rt>ひと</rt></ruby>たちが<ruby><rb>作</rb><rt>つく</rt></ruby>っている<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 重要
+  descriptions:
+  - だいじである。<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>。
+- word: メンバー
+  descriptions:
+  - ある<ruby><rb>会</rb><rt>かい</rt></ruby>や<ruby><rb>仲間</rb><rt>なかま</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>会員</rb><rt>かいいん</rt></ruby>。
+- word: 氏
+  descriptions:
+  - みょうじ。<ruby><rb>祖先</rb><rt>そせん</rt></ruby>が<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>家</rb><rt>いえ</rt></ruby>であることを<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>敬</rb><rt>うやま</rt></ruby>って、その<ruby><rb>人</rb><rt>ひと</rt></ruby>をさして<ruby><rb>言</rb><rt>い</rt></ruby>うことば。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>などのあとにつけて、<ruby><rb>敬</rb><rt>うやま</rt></ruby>う<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。
+- word: リーダー
+  descriptions:
+  - <ruby><rb>教</rb><rt>おし</rt></ruby>え<ruby><rb>導</rb><rt>みちび</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>指導者</rb><rt>しどうしゃ</rt></ruby>。
+- word: 信頼
+  descriptions:
+  - <ruby><rb>信</rb><rt>しん</rt></ruby>じて、たよりにすること。
+- word: 権力
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>従</rb><rt>したが</rt></ruby>わせる<ruby><rb>力</rb><rt>ちから</rt></ruby>。
+- word: 期待
+  descriptions:
+  - そうなってほしいと、<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で<ruby><rb>待</rb><rt>ま</rt></ruby>つこと。あてにすること。
+- word: 裏切る
+  descriptions:
+  - <ruby><rb>味方</rb><rt>みかた</rt></ruby>をだます。
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>っていたのとは、<ruby><rb>反対</rb><rt>はんたい</rt></ruby>になる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011196971000/k10011196971000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/25/中国-2期目の習近平指導部が発足
+...
