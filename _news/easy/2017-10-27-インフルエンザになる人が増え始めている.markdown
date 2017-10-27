@@ -8,6 +8,7 @@ title: インフルエンザになる人が増え始めている
 title_with_ruby: インフルエンザになる<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>え<ruby>始<rt>はじ</rt></ruby>めている
 outline: <ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>によると、インフルエンザになった<ruby>人<rt>ひと</rt></ruby>は、<ruby>沖縄県<rt>おきなわけん</rt></ruby>では<ruby>夏<rt>なつ</rt></ruby>ごろから<ruby>多<rt>おお</rt></ruby>くなっていて、<ruby>長崎県<rt>ながさきけん</rt></ruby>や<ruby>山口県<rt>やまぐちけん</rt></ruby>など<ruby>西日本<rt>にしにほん</rt></ruby>では<ruby>今月<rt>こんげつ</rt></ruby>から<ruby>増<rt>ふ</rt></ruby>え<ruby>始<rt>はじ</rt></ruby>めています。
 outline_with_ruby: <ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>によると、インフルエンザになった<ruby>人<rt>ひと</rt></ruby>は、<ruby>沖縄県<rt>おきなわけん</rt></ruby>では<ruby>夏<rt>なつ</rt></ruby>ごろから<ruby>多<rt>おお</rt></ruby>くなっていて、<ruby>長崎県<rt>ながさきけん</rt></ruby>や<ruby>山口県<rt>やまぐちけん</rt></ruby>など<ruby>西日本<rt>にしにほん</rt></ruby>では<ruby>今月<rt>こんげつ</rt></ruby>から<ruby>増<rt>ふ</rt></ruby>え<ruby>始<rt>はじ</rt></ruby>めています。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/25/K10011197001_1710251421_1710251427_01_02.jpg
 voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/27/k10011197001000.mp3
 content_with_ruby: "<p><ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>によると、<span\
   \ style=\"color: blue;\">インフルエンザ</span>になった<ruby>人<rt>ひと</rt></ruby>は、<ruby>沖縄県<rt>おきなわけん</rt></ruby>では<ruby>夏<rt>なつ</rt></ruby>ごろから<ruby>多<rt>おお</rt></ruby>くなっていて、<ruby>長崎県<rt>ながさきけん</rt></ruby>や<ruby>山口県<rt>やまぐちけん</rt></ruby>など<ruby>西日本<rt>にしにほん</rt></ruby>では<ruby>今月<rt>こんげつ</rt></ruby>から<ruby>増<rt>ふ</rt></ruby>え<ruby>始<rt>はじ</rt></ruby>めています。</p>\n\
