@@ -44,7 +44,7 @@
             <p><video id="player" src="{{ s.movie_url }}" controls loop autoplay></video></p>
             <p></p>
             {% elsif s.image_url %}
-            <p><img data-s="300,640" src="{{ s.image_url }}" data-ratio="0" data-w="640" /></p>
+            <p><img class="fullwidth" data-s="300,640" src="{{ s.image_url }}" data-ratio="0" data-w="640" /></p>
             {% if s.caption %}
             <p class="caption">{{ s.caption }}</p>
             {% endif %}
@@ -55,7 +55,7 @@
             <p><video id="player" src="{{ s.movie_url }}" controls loop autoplay></video></p>
             <p></p>
             {% elsif s.image_url %}
-            <p><img data-s="300,640" src="{{ s.image_url }}" data-ratio="0" data-w="640" /></p>
+            <p><img class="fullwidth" data-s="300,640" src="{{ s.image_url }}" data-ratio="0" data-w="640" /></p>
             {% if s.caption %}
             <p class="caption">{{ s.caption }}</p>
             {% endif %}

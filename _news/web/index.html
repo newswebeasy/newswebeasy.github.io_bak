@@ -9,8 +9,8 @@ permalink: news/web/
 <body class="zh_CN mm_appmsg">
   <div class="rich_media">
     <div class="rich_media_inner">
-      <div>
-        <div class="rich_media_area_primary">
+      <div class="rich_media_area_primary">
+        <div>
           <h2 class="rich_media_title">{{ page.title }}</h2>
           <div class="rich_media_content">
             <ul>
@@ -22,7 +22,10 @@ permalink: news/web/
                   <em class="rich_media_meta rich_media_meta_text">{{ post.datetime }}</em>
                 </div>
                 <div class="rich_media_content">
-                  <div>{{ post.description }}</div>
+                  {% if post.image_url %}
+                  <p><img class="fullwidth" data-s="300,640" src="{{ post.image_url }}" data-ratio="0" data-w="640" /></p>
+                  {% endif %}
+                  {{ post.summary }}
                 </div>
               </li>
               {% endfor %}
@@ -34,17 +37,21 @@ permalink: news/web/
           <div class="ct_mpda_wrp">
             <!-- js_sponsor_ad_area -->
           </div>
-
-          <div class="rich_media_tool">
-            <a class="media_tool_meta meta_primary" href="/news/web/playlist">すべて再生</a>
-            <a class="media_tool_meta meta_primary" href="/news/easy/">イージーニュース</a>
-            <a class="media_tool_meta meta_primary" href="{{ site.nhk_news_web_home }}">原文</a>
-          </div>
         </div>
 
-        {% include footer.html %}
-
+        <div class="rich_media_tool">
+          <a class="media_tool_meta meta_primary" href="/news/web/playlist">すべて再生</a>
+          <a class="media_tool_meta meta_primary" href="/news/easy/">イージーニュース</a>
+          <a class="media_tool_meta meta_primary" href="{{ site.nhk_news_web_home }}">原文</a>
+        </div>
       </div>
+
+      <div class="rich_media_area_extra">
+        <div class="mpda_bottom_container">
+            <!-- js_sponsor_ad_area -->
+        </div>
+      </div>
+
     </div>
   </div>
 </body>
