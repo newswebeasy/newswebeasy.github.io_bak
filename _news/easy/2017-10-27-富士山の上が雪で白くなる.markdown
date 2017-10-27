@@ -1,0 +1,49 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011198291000
+last_modified_at: '2017-10-27T17:20:00+09:00'
+datetime: 2017年10月27日 17時20分
+title: 富士山の上が雪で白くなる
+title_with_ruby: <ruby>富士山<rt>ふじさん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>が<ruby>雪<rt>ゆき</rt></ruby>で<ruby>白<rt>しろ</rt></ruby>くなる
+outline: <ruby>山梨県<rt>やまなしけん</rt></ruby><ruby>富士吉田<rt>ふじよしだ</rt></ruby><ruby>市<rt>し</rt></ruby>は２６<ruby>日<rt>にち</rt></ruby>、<ruby>富士山<rt>ふじさん</rt></ruby>が<ruby>頂上<rt>ちょうじょう</rt></ruby>から<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>ぐらいまで<ruby>雪<rt>ゆき</rt></ruby>で<ruby>白<rt>しろ</rt></ruby>くなったと<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+outline_with_ruby: <ruby>山梨県<rt>やまなしけん</rt></ruby><ruby>富士吉田<rt>ふじよしだ</rt></ruby><ruby>市<rt>し</rt></ruby>は２６<ruby>日<rt>にち</rt></ruby>、<ruby>富士山<rt>ふじさん</rt></ruby>が<ruby>頂上<rt>ちょうじょう</rt></ruby>から<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>ぐらいまで<ruby>雪<rt>ゆき</rt></ruby>で<ruby>白<rt>しろ</rt></ruby>くなったと<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/27/K10011198291_1710261221_1710261229_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/27/k10011198291000.mp3
+content_with_ruby: "<p><ruby>山梨県<rt>やまなしけん</rt></ruby><ruby>富士吉田<rt>ふじよしだ</rt></ruby><ruby>市<rt>し</rt></ruby>は２６<ruby>日<rt>にち</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>富士山<rt>ふじさん</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>頂上<rt>ちょうじょう</rt></ruby></span>から<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>ぐらいまで<ruby>雪<rt>ゆき</rt></ruby>で<ruby>白<rt>しろ</rt></ruby>くなったと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<ruby>今年<rt>ことし</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>より１か<ruby>月<rt>げつ</rt></ruby>ぐらい<ruby>遅<rt>おそ</rt></ruby>く<ruby>雪<rt>ゆき</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>積<rt>つ</rt></ruby>もっ</span>たきれいな<span style=\"color:\
+  \ blue;\"><ruby>富士山<rt>ふじさん</rt></ruby></span>が<ruby>見<rt>み</rt></ruby>えました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>気象台<rt>きしょうだい</rt></ruby></span>は<ruby>今月<rt>こんげつ</rt></ruby>２３<ruby>日<rt>にち</rt></ruby>に、<span\
+  \ style=\"color: blue;\"><ruby>富士山<rt>ふじさん</rt></ruby></span>の<ruby>上<rt>うえ</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>白<rt>しろ</rt></ruby>くなったと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しましたが、<ruby>雪<rt>ゆき</rt></ruby>はあまり<ruby>多<rt>おお</rt></ruby>くありませんでした。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>富士山<rt>ふじさん</rt></ruby></span>がよく<ruby>見<rt>み</rt></ruby>える<ruby>公園<rt>こうえん</rt></ruby>には、<span\
+  \ style=\"color: blue;\"><ruby>観光<rt>かんこう</rt></ruby></span>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>などが<ruby>集<rt>あつ</rt></ruby>まって、<ruby>雪<rt>ゆき</rt></ruby>で<ruby>白<rt>しろ</rt></ruby>くなった<span\
+  \ style=\"color: blue;\"><ruby>富士山<rt>ふじさん</rt></ruby></span>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>っていました。<ruby>埼玉県<rt>さいたまけん</rt></ruby>から<ruby>来<rt>き</rt></ruby>た７０<ruby>歳<rt>さい</rt></ruby>ぐらいの<ruby>男性<rt>だんせい</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>富士山<rt>ふじさん</rt></ruby></span>は<ruby>雪<rt>ゆき</rt></ruby>で<ruby>白<rt>しろ</rt></ruby>くなったほうが<ruby>美<rt>うつく</rt></ruby>しいですね」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>\n<p></p>\n<p></p>"
+words:
+- word: 富士山
+  descriptions:
+  - <ruby><rb>静岡県</rb><rt>しずおかけん</rt></ruby>と<ruby><rb>山梨県</rb><rt>やまなしけん</rt></ruby>の<ruby><rb>境</rb><rt>さかい</rt></ruby>にある、<ruby><rb>日本一</rb><rt>にっぽんいち</rt></ruby><ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>山</rb><rt>やま</rt></ruby>。<ruby><rb>高</rb><rt>たか</rt></ruby>さは３７７６メートル。<ruby><rb>江戸時代</rb><rt>えどじだい</rt></ruby>に<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>噴火</rb><rt>ふんか</rt></ruby>があった。
+- word: 頂
+  descriptions:
+  - <ruby><rb>山</rb><rt>やま</rt></ruby>などのいちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>頂上</rb><rt>ちょうじょう</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 積もる
+  descriptions:
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かい<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>重</rb><rt>かさ</rt></ruby>なってたまる。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じようなことが<ruby><rb>何度</rb><rt>なんど</rt></ruby>も<ruby><rb>重</rb><rt>かさ</rt></ruby>なって、だんだん<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+- word: 気象台
+  descriptions:
+  - <ruby><rb>気象</rb><rt>きしょう</rt></ruby>や<ruby><rb>地震</rb><rt>じしん</rt></ruby>の<ruby><rb>観測</rb><rt>かんそく</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>天気予報</rb><rt>てんきよほう</rt></ruby>の<ruby><rb>発表</rb><rt>はっぴょう</rt></ruby>もする。
+- word: 観光
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011198291000/k10011198291000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/26/富士山で初雪化粧宣言山梨-富士吉田
+...

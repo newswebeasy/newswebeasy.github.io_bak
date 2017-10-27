@@ -1,0 +1,48 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011197841000
+last_modified_at: '2017-10-27T12:30:00+09:00'
+datetime: 2017年10月27日 12時30分
+title: 将棋の藤井聡太さんが来年高校に行くと決める
+title_with_ruby: <ruby>将棋<rt>しょうぎ</rt></ruby>の<ruby>藤井聡太<rt>ふじいそうた</rt></ruby>さんが<ruby>来年<rt>らいねん</rt></ruby><ruby>高校<rt>こうこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くと<ruby>決<rt>き</rt></ruby>める
+outline: <ruby>中学校<rt>ちゅうがっこう</rt></ruby>３<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>藤井聡太<rt>ふじいそうた</rt></ruby>さんは<ruby>去年<rt>きょねん</rt></ruby>、<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>若<rt>わか</rt></ruby>い<ruby>将棋<rt>しょうぎ</rt></ruby>のプロになりました。
+outline_with_ruby: <ruby>中学校<rt>ちゅうがっこう</rt></ruby>３<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>藤井聡太<rt>ふじいそうた</rt></ruby>さんは<ruby>去年<rt>きょねん</rt></ruby>、<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>若<rt>わか</rt></ruby>い<ruby>将棋<rt>しょうぎ</rt></ruby>のプロになりました。
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/27/k10011197841000.mp3
+content_with_ruby: "<p><ruby>中学校<rt>ちゅうがっこう</rt></ruby>３<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>藤井聡太<rt>ふじいそうた</rt></ruby>さんは<ruby>去年<rt>きょねん</rt></ruby>、<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>若<rt>わか</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">プロ</span>になりました。<ruby>藤井<rt>ふじい</rt></ruby>さんは<span style=\"color: blue;\"\
+  >プロ</span>になってから<ruby>続<rt>つづ</rt></ruby>けて２９<ruby>回<rt>かい</rt></ruby><ruby>勝<rt>か</rt></ruby>って、いちばん<ruby>多<rt>おお</rt></ruby>く<ruby>続<rt>つづ</rt></ruby>けて<ruby>勝<rt>か</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>をつくりました。</p>\n<p><ruby>藤井<rt>ふじい</rt></ruby>さんは<ruby>来年<rt>らいねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>に<ruby>中学校<rt>ちゅうがっこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>したあと、<ruby>高校<rt>こうこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くか、<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>かないで<span\
+  \ style=\"color: blue;\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>だけをするか<ruby>決<rt>き</rt></ruby>めていませんでした。</p>\n\
+  <p><ruby>日本<rt>にほん</rt></ruby><ruby>将棋<rt>しょうぎ</rt></ruby><ruby>連盟<rt>れんめい</rt></ruby>は２６<ruby>日<rt>にち</rt></ruby>、<ruby>藤井<rt>ふじい</rt></ruby>さんが<ruby>高校<rt>こうこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くことに<ruby>決<rt>き</rt></ruby>めたと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<ruby>藤井<rt>ふじい</rt></ruby>さんは<ruby>今<rt>いま</rt></ruby>、<ruby>中学校<rt>ちゅうがっこう</rt></ruby>から<ruby>高校<rt>こうこう</rt></ruby>まで６<ruby>年<rt>ねん</rt></ruby><ruby>通<rt>かよ</rt></ruby>うことができる<ruby>学校<rt>がっこう</rt></ruby>にいるので、そのまま<ruby>高校<rt>こうこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。</p>\n\
+  <p><ruby>藤井<rt>ふじい</rt></ruby>さんは「<ruby>全部<rt>ぜんぶ</rt></ruby>のことを<span style=\"\
+  color: blue;\">プラス</span>にする<ruby>気持<rt>きも</rt></ruby>ちで、これからも<ruby>進<rt>すす</rt></ruby>んでいきたいです」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 将棋
+  descriptions:
+  - <ruby><rb>縦</rb><rt>たて</rt></ruby>・<ruby><rb>横</rb><rt>よこ</rt></ruby>に１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>板</rb><rt>いた</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>で、２０<ruby><rb>枚</rb><rt>まい</rt></ruby>ずつのこまを<ruby><rb>動</rb><rt>うご</rt></ruby>かし、<ruby><rb>相手</rb><rt>あいて</rt></ruby>の<ruby><rb>王</rb><rt>おう</rt></ruby>を<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>るゲーム。
+- word: プロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。
+  - 「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+- word: 記録
+  descriptions:
+  - あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: プラス
+  descriptions:
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>えること。<ruby><rb>足</rb><rt>た</rt></ruby>すこと。
+  - ためになること。
+  - <ruby><rb>足</rb><rt>た</rt></ruby>し<ruby><rb>算</rb><rt>ざん</rt></ruby>のしるし。
+  - <ruby><rb>0</rb><rt>ゼロ</rt></ruby>より<ruby><rb>大</rb><rt>おお</rt></ruby>きい<ruby><rb>数</rb><rt>すう</rt></ruby>。<ruby><rb>正</rb><rt>せい</rt></ruby>の<ruby><rb>数</rb><rt>すう</rt></ruby>。
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>の<ruby><rb>陽極</rb><rt>ようきょく</rt></ruby>。プラス<ruby><rb>極</rb><rt>きょく</rt></ruby>。
+  - <ruby><rb>検査</rb><rt>けんさ</rt></ruby>などで、ある<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>が<ruby><rb>表</rb><rt>あらわ</rt></ruby>れること。<ruby><rb>陽性</rb><rt>ようせい</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011197841000/k10011197841000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/26/藤井聡太四段-高校進学へ-将棋と学業の両立目指す
+...

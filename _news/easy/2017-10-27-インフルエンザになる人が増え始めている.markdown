@@ -1,0 +1,43 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011197001000
+last_modified_at: '2017-10-27T12:30:00+09:00'
+datetime: 2017年10月27日 12時30分
+title: インフルエンザになる人が増え始めている
+title_with_ruby: インフルエンザになる<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>え<ruby>始<rt>はじ</rt></ruby>めている
+outline: <ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>によると、インフルエンザになった<ruby>人<rt>ひと</rt></ruby>は、<ruby>沖縄県<rt>おきなわけん</rt></ruby>では<ruby>夏<rt>なつ</rt></ruby>ごろから<ruby>多<rt>おお</rt></ruby>くなっていて、<ruby>長崎県<rt>ながさきけん</rt></ruby>や<ruby>山口県<rt>やまぐちけん</rt></ruby>など<ruby>西日本<rt>にしにほん</rt></ruby>では<ruby>今月<rt>こんげつ</rt></ruby>から<ruby>増<rt>ふ</rt></ruby>え<ruby>始<rt>はじ</rt></ruby>めています。
+outline_with_ruby: <ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>によると、インフルエンザになった<ruby>人<rt>ひと</rt></ruby>は、<ruby>沖縄県<rt>おきなわけん</rt></ruby>では<ruby>夏<rt>なつ</rt></ruby>ごろから<ruby>多<rt>おお</rt></ruby>くなっていて、<ruby>長崎県<rt>ながさきけん</rt></ruby>や<ruby>山口県<rt>やまぐちけん</rt></ruby>など<ruby>西日本<rt>にしにほん</rt></ruby>では<ruby>今月<rt>こんげつ</rt></ruby>から<ruby>増<rt>ふ</rt></ruby>え<ruby>始<rt>はじ</rt></ruby>めています。
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/27/k10011197001000.mp3
+content_with_ruby: "<p><ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>によると、<span\
+  \ style=\"color: blue;\">インフルエンザ</span>になった<ruby>人<rt>ひと</rt></ruby>は、<ruby>沖縄県<rt>おきなわけん</rt></ruby>では<ruby>夏<rt>なつ</rt></ruby>ごろから<ruby>多<rt>おお</rt></ruby>くなっていて、<ruby>長崎県<rt>ながさきけん</rt></ruby>や<ruby>山口県<rt>やまぐちけん</rt></ruby>など<ruby>西日本<rt>にしにほん</rt></ruby>では<ruby>今月<rt>こんげつ</rt></ruby>から<ruby>増<rt>ふ</rt></ruby>え<ruby>始<rt>はじ</rt></ruby>めています。</p>\n\
+  <p><ruby>国<rt>くに</rt></ruby>によると、<ruby>日本<rt>にっぽん</rt></ruby>では<span style=\"color:\
+  \ blue;\">インフルエンザ</span>の<span style=\"color: blue;\">ワクチン</span>を<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>までに２５２８<ruby>万<rt>まん</rt></ruby><ruby>本<rt>ぼん</rt></ruby><ruby>作<rt>つく</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。<ruby>今<rt>いま</rt></ruby>までと<ruby>違<rt>ちが</rt></ruby>う<span\
+  \ style=\"color: blue;\">タイプ</span>の<span style=\"color: blue;\">ワクチン</span>も<ruby>使<rt>つか</rt></ruby>うことにしたため<ruby>作<rt>つく</rt></ruby>るのが<ruby>遅<rt>おく</rt></ruby>れて、１<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>使<rt>つか</rt></ruby>った<span\
+  \ style=\"color: blue;\">ワクチン</span>より１１４<ruby>万<rt>まん</rt></ruby><ruby>本<rt>ぼん</rt></ruby><ruby>少<rt>すく</rt></ruby>なくなります。<ruby>国<rt>くに</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>検査<rt>けんさ</rt></ruby></span>などを<ruby>急<rt>いそ</rt></ruby>いで、<span\
+  \ style=\"color: blue;\">ワクチン</span>を<ruby>早<rt>はや</rt></ruby>く<ruby>用意<rt>ようい</rt></ruby>したいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><span style=\"color: blue;\">インフルエンザ</span>になる<ruby>人<rt>ひと</rt></ruby>は<ruby>毎年<rt>まいとし</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろからとても<ruby>多<rt>おお</rt></ruby>くなります。<ruby>病院<rt>びょういん</rt></ruby>などは、いつ<span\
+  \ style=\"color: blue;\">ワクチン</span>を<ruby>注射<rt>ちゅうしゃ</rt></ruby>するか、<ruby>特<rt>とく</rt></ruby>に<ruby>子<rt>こ</rt></ruby>どもやお<span\
+  \ style=\"color: blue;\"><ruby>年寄<rt>としよ</rt></ruby>り</span>はなるべく<ruby>早<rt>はや</rt></ruby>く<ruby>相談<rt>そうだん</rt></ruby>してほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: インフルエンザ
+  descriptions:
+  - のどや<ruby><rb>気管</rb><rt>きかん</rt></ruby>などが、ウイルスによってただれる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。かぜに<ruby><rb>似</rb><rt>に</rt></ruby>ているが、<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>て、うつりやすい。<ruby><rb>流行性感冒</rb><rt>りゅうこうせいかんぼう</rt></ruby>。<ruby><rb>流感</rb><rt>りゅうかん</rt></ruby>。
+- word: ワクチン
+  descriptions:
+  - <ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>のもとになるばいきんなどから<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>薬</rb><rt>くすり</rt></ruby>。これを<ruby><rb>接種</rb><rt>せっしゅ</rt></ruby>して、その<ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>にかからないようにする。
+- word: タイプ
+  descriptions:
+  - <ruby><rb>型</rb><rt>かた</rt></ruby>。<ruby><rb>類型</rb><rt>るいけい</rt></ruby>。
+- word: 検査
+  descriptions:
+  - <ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: 年寄り
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。
+  - <ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011197001000/k10011197001000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/25/インフルエンザ患者増-ワクチン不足に備えも
+...
