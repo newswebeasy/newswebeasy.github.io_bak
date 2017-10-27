@@ -20,7 +20,7 @@
 
             {% if page.voice_url %}
             <p>
-              <audio id="player" src="{{ page.voice_url }}" controls loop autoplay style="width:100%"></audio>
+              <audio id="player" class="fullwidth" src="{{ page.voice_url }}" controls loop autoplay style="width:100%"></audio>
               <a id="downloadLink" href="{{ page.voice_url }}" target="_blank" download onclick="onDownloadClick()"><img style="height:24px;width:24px;vertical-align:middle" src="{{ "/assets/download.png" | relative_url }}"/> ダウンロード</a>
             </p>
             <p></p>
