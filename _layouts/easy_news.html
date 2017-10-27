@@ -14,18 +14,17 @@
           </div>
           <div class="rich_media_content">
             {% if page.image_url %}
-            <p><img data-s="300,640" src="{{ page.image_url }}" data-ratio="0" data-w="640" /></p>
+            <p><img class="fullwidth" data-s="300,640" src="{{ page.image_url }}" data-ratio="0" data-w="640" /></p>
             <p></p>
             {% endif %}
 
             {% if page.voice_url %}
-            <p></p>
             <p>
               <audio id="player" src="{{ page.voice_url }}" controls loop autoplay style="width:100%"></audio>
               <a id="downloadLink" href="{{ page.voice_url }}" target="_blank" download onclick="onDownloadClick()"><img style="height:24px;width:24px;vertical-align:middle" src="{{ "/assets/download.png" | relative_url }}"/> ダウンロード</a>
             </p>
-            {% endif %}
             <p></p>
+            {% endif %}
 
             {% if page.content_with_ruby %}
             {{ page.content_with_ruby }}
@@ -45,7 +44,7 @@
             </ul>
             {% endfor %}
 
-            <p><img data-type="gif" src="/assets/qrcode.gif" data-ratio="0.5064308681672026" data-w="622" /></p>
+            <p><img class="fullwidth" data-type="gif" src="/assets/qrcode.gif" data-ratio="0.5064308681672026" data-w="622" /></p>
           </div>
 
           <div class="ct_mpda_wrp">
@@ -54,7 +53,7 @@
 
           <div class="rich_media_tool">
             {% if page.web_news_url %}
-            <a class="media_tool_meta meta_primary" href="{{ page.web_news_url }}">普通のニュース</a> |
+            <a class="media_tool_meta meta_primary" href="{{ page.web_news_url }}">普通のニュース</a>
             {% endif %}
             <a class="media_tool_meta meta_primary" href="{{ page.source_url }}" target="_blank">原文</a>
           </div>

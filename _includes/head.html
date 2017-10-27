@@ -1,7 +1,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0,viewport-fit=cover">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <meta name="format-detection" content="telephone=no">
@@ -11,8 +11,13 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.description | strip_html | normalize_whitespace | escape }}">
 
-  <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
+  <link rel="shortcut icon" type="image/png" href="/assets/easy_icon.png">
+  <link rel="stylesheet" href="{{ "/assets/appmsg.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
+
+  {% if page.categories %}
   <script src="/assets/download.js"></script>
+  {% endif %}
 </head>

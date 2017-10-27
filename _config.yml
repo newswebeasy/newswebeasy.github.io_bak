@@ -3,6 +3,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://newswebeasy.github.io"
 author: NewsWebEasy
 
+nhk_news_web_home: http://www.nhk.or.jp/news/
+nhk_news_web_easy_home: http://www.nhk.or.jp/news/easy/
+
 collections:
   news:
     output: true

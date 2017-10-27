@@ -1,6 +1,8 @@
 ---
 title: NEWS WEB EASY
 description: 「NEWS WEB EASY」は小学生・中学生の皆さんや、日本に住んでいる外国人の皆さんのために、分かりやすいことばでニュースを伝えるウェブサイトです。漢字には全部ひらがなで読み方をつけました。難しいことばには辞書の説明をつけました。そして、できるだけやさしいことばでニュースを書いています。やさしいことばで書いたニュースは音で聞くこともできます。
+title_with_ruby: <ruby>NEWS<rt>ニュース</rt></ruby> <ruby>WEB<rt>ウェブ</rt></ruby> <ruby>EASY<rt>イージー</rt></ruty>
+content_with_ruby: <p>「NEWS WEB EASY」は<ruby>小学生<rt>しょうがくせい</rt></ruby>・<ruby>中学生<rt>ちゅうがくせい</rt></ruby>の<ruby>皆<rt>みな</rt></ruby>さんや、<ruby>日本<rt>にほん</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>皆<rt>みな</rt></ruby>さんのために、<ruby>分<rt>わ</rt></ruby>かりやすいことばでニュースを<ruby>伝<rt>つた</rt></ruby>えるウェブサイトです。<ruby>漢字<rt>かんじ</rt></ruby>には<ruby>全部<rt>ぜんぶ</rt></ruby>ひらがなで<ruby>読<rt>よ</rt></ruby>み<ruby>方<rt>かた</rt></ruby>をつけました。<ruby>難<rt>むずか</rt></ruby>しいことばには<ruby>辞書<rt>じしょ</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>をつけました。そして、できるだけやさしいことばでニュースを<ruby>書<rt>か</rt></ruby>いています。やさしいことばで<ruby>書<rt>か</rt></ruby>いたニュースは<ruby>音<rt>おと</rt></ruby>で<ruby>聞<rt>き</rt></ruby>くこともできます。</p><p></p>
 ---
 <!DOCTYPE html>
 <html>
@@ -9,28 +11,33 @@ description: 「NEWS WEB EASY」は小学生・中学生の皆さんや、日本
 <body class="zh_CN mm_appmsg">
   <div class="rich_media">
     <div class="rich_media_inner">
-      <div>
-        <div class="rich_media_area_primary">
-          <h2 class="rich_media_title"><ruby>NEWS<rt>ニュース</rt></ruby> <ruby>WEB<rt>ウェブ</rt></ruby> <ruby>EASY<rt>イージー</rt></ruty></h2>
-          <div class="rich_media_content">
-            <p>「NEWS WEB EASY」は<ruby>小学生<rt>しょうがくせい</rt></ruby>・<ruby>中学生<rt>ちゅうがくせい</rt></ruby>の<ruby>皆<rt>みな</rt></ruby>さんや、<ruby>日本<rt>にほん</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>皆<rt>みな</rt></ruby>さんのために、<ruby>分<rt>わ</rt></ruby>かりやすいことばでニュースを<ruby>伝<rt>つた</rt></ruby>えるウェブサイトです。
-<ruby>漢字<rt>かんじ</rt></ruby>には<ruby>全部<rt>ぜんぶ</rt></ruby>ひらがなで<ruby>読<rt>よ</rt></ruby>み<ruby>方<rt>かた</rt></ruby>をつけました。
-<ruby>難<rt>むずか</rt></ruby>しいことばには<ruby>辞書<rt>じしょ</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>をつけました。
-そして、できるだけやさしいことばでニュースを<ruby>書<rt>か</rt></ruby>いています。
-やさしいことばで<ruby>書<rt>か</rt></ruby>いたニュースは<ruby>音<rt>おと</rt></ruby>で<ruby>聞<rt>き</rt></ruby>くこともできます。
-</p>
-            <p></p>
-            <p><img data-type="gif" src="/assets/qrcode.gif" data-ratio="0.5064308681672026" data-w="622" /></p>
-          </div>
 
-          <div class="rich_media_tool">
-            <a class="media_tool_meta meta_primary" href="/news/easy/">イージーニュース</a> |
-            <a class="media_tool_meta meta_primary" href="/news/web/">普通のニュース</a> |
-            <a class="media_tool_meta meta_primary" target="_blank" href="http://www.nhk.or.jp/news/easy/index.html">原文</a>
+      <div class="rich_media_area_primary">
+        <div>
+          <h2 class="rich_media_title">{{ page.title_with_ruby }}</h2>
+          <div class="rich_media_content">
+            {{ page.content_with_ruby }}
+            <p><img class="fullwidth" data-type="gif" src="/assets/qrcode.gif" data-ratio="0.5064308681672026" data-w="622" /></p>
+          </div>
+          <div class="ct_mpda_wrp">
+            <!-- js_sponsor_ad_area -->
           </div>
         </div>
+        <div class="rich_media_tool">
+          <a class="media_tool_meta meta_primary" href="/news/easy/">イージーニュース</a>
+          <a class="media_tool_meta meta_primary" href="/news/web/">普通のニュース</a>
+          <a class="media_tool_meta meta_primary" target="_blank" href="{{ site.nhk_news_web_easy_home}}">原文</a>
+        </div>
       </div>
+
+      <div class="rich_media_area_extra">
+        <div class="mpda_bottom_container">
+            <!-- js_sponsor_ad_area -->
+        </div>
+      </div>
+
     </div>
   </div>
 </body>
+
 </html>
