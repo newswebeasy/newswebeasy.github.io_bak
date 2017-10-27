@@ -4,9 +4,10 @@ categories: easy
 newsid: k10011198291000
 last_modified_at: '2017-10-27T17:20:00+09:00'
 datetime: 2017年10月27日 17時20分
+description: 山梨県富士吉田市は２６日、富士山が頂上から真ん中ぐらいまで雪で白くなったと発表しました。
 title: 富士山の上が雪で白くなる
 title_with_ruby: <ruby>富士山<rt>ふじさん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>が<ruby>雪<rt>ゆき</rt></ruby>で<ruby>白<rt>しろ</rt></ruby>くなる
-outline: <ruby>山梨県<rt>やまなしけん</rt></ruby><ruby>富士吉田<rt>ふじよしだ</rt></ruby><ruby>市<rt>し</rt></ruby>は２６<ruby>日<rt>にち</rt></ruby>、<ruby>富士山<rt>ふじさん</rt></ruby>が<ruby>頂上<rt>ちょうじょう</rt></ruby>から<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>ぐらいまで<ruby>雪<rt>ゆき</rt></ruby>で<ruby>白<rt>しろ</rt></ruby>くなったと<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+outline: 山梨県富士吉田市は２６日、富士山が頂上から真ん中ぐらいまで雪で白くなったと発表しました。
 outline_with_ruby: <ruby>山梨県<rt>やまなしけん</rt></ruby><ruby>富士吉田<rt>ふじよしだ</rt></ruby><ruby>市<rt>し</rt></ruby>は２６<ruby>日<rt>にち</rt></ruby>、<ruby>富士山<rt>ふじさん</rt></ruby>が<ruby>頂上<rt>ちょうじょう</rt></ruby>から<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>ぐらいまで<ruby>雪<rt>ゆき</rt></ruby>で<ruby>白<rt>しろ</rt></ruby>くなったと<ruby>発表<rt>はっぴょう</rt></ruby>しました。
 image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/26/K10011198291_1710261221_1710261229_01_03.jpg
 voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/27/k10011198291000.mp3

@@ -4,9 +4,10 @@ categories: easy
 newsid: k10011198151000
 last_modified_at: '2017-10-27T17:20:00+09:00'
 datetime: 2017年10月27日 17時20分
+description: 栃木県那須町にある動物園「那須どうぶつ王国」では、冬になると、ねずみの仲間のカピバラを外の温泉のお風呂に入れています。
 title: 栃木県の動物園のカピバラ　もみじが入ったお風呂に入る
 title_with_ruby: <ruby>栃木県<rt>とちぎけん</rt></ruby>の<ruby>動物園<rt>どうぶつえん</rt></ruby>のカピバラ　もみじが<ruby>入<rt>はい</rt></ruby>ったお<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る
-outline: <ruby>栃木県<rt>とちぎけん</rt></ruby><ruby>那須町<rt>なすまち</rt></ruby>にある<ruby>動物園<rt>どうぶつえん</rt></ruby>「<ruby>那須<rt>なす</rt></ruby>どうぶつ<ruby>王国<rt>おうこく</rt></ruby>」では、<ruby>冬<rt>ふゆ</rt></ruby>になると、ねずみの<ruby>仲間<rt>なかま</rt></ruby>のカピバラを<ruby>外<rt>そと</rt></ruby>の<ruby>温泉<rt>おんせん</rt></ruby>のお<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れています。
+outline: 栃木県那須町にある動物園「那須どうぶつ王国」では、冬になると、ねずみの仲間のカピバラを外の温泉のお風呂に入れています。
 outline_with_ruby: <ruby>栃木県<rt>とちぎけん</rt></ruby><ruby>那須町<rt>なすまち</rt></ruby>にある<ruby>動物園<rt>どうぶつえん</rt></ruby>「<ruby>那須<rt>なす</rt></ruby>どうぶつ<ruby>王国<rt>おうこく</rt></ruby>」では、<ruby>冬<rt>ふゆ</rt></ruby>になると、ねずみの<ruby>仲間<rt>なかま</rt></ruby>のカピバラを<ruby>外<rt>そと</rt></ruby>の<ruby>温泉<rt>おんせん</rt></ruby>のお<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れています。
 image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/26/K10011198151_1710261109_1710261113_01_02.jpg
 voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/27/k10011198151000.mp3

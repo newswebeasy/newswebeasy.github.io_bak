@@ -4,9 +4,10 @@ categories: easy
 newsid: k10011199611000
 last_modified_at: '2017-10-27T17:20:00+09:00'
 datetime: 2017年10月27日 17時20分
+description: 去年１０月に亡くなったタイのプミポン国王のお葬式が２５日に始まりました。
 title: タイ　去年亡くなったプミポン国王のお葬式
 title_with_ruby: タイ　<ruby>去年<rt>きょねん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなったプミポン<ruby>国王<rt>こくおう</rt></ruby>のお<ruby>葬式<rt>そうしき</rt></ruby>
-outline: <ruby>去年<rt>きょねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>に<ruby>亡<rt>な</rt></ruby>くなったタイのプミポン<ruby>国王<rt>こくおう</rt></ruby>のお<ruby>葬式<rt>そうしき</rt></ruby>が２５<ruby>日<rt>にち</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まりました。
+outline: 去年１０月に亡くなったタイのプミポン国王のお葬式が２５日に始まりました。
 outline_with_ruby: <ruby>去年<rt>きょねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>に<ruby>亡<rt>な</rt></ruby>くなったタイのプミポン<ruby>国王<rt>こくおう</rt></ruby>のお<ruby>葬式<rt>そうしき</rt></ruby>が２５<ruby>日<rt>にち</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まりました。
 image_url: https://newswebeasy.github.io/ja201710/news/easy/image/2017/10/27/k10011199611000.jpg
 voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/27/k10011199611000.mp3
