@@ -31,7 +31,10 @@
             <p>{{ page.more }}</p>
             <p></p>
             {% endif %}
+            {% capture body_size %}{{ page.title | size }}{% endcapture %}
+            {% if body_size > 1 %}
             {% include adsense_web_content.html %}
+            {% endif %}
             {% for s in page.body %}
             {% if s.title %}
             <h2>{{ s.title }}</h2>
