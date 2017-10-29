@@ -31,6 +31,7 @@
             <p>{{ page.more }}</p>
             <p></p>
             {% endif %}
+            {% include adsense_web_content.html %}
             {% for s in page.body %}
             {% if s.title %}
             <h2>{{ s.title }}</h2>
@@ -85,7 +86,7 @@
 
         <div class="rich_media_area_extra">
           <div class="mpda_bottom_container">
-          {% include adsense_web.html %}
+          {% include adsense_web_footer.html %}
           </div>
         </div>
 
