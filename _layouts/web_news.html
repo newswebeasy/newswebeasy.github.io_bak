@@ -15,21 +15,21 @@
           <div class="rich_media_content">
             {% if page.movie_url %}
             <p><video id="player" class="fullwidth" src="{{ page.movie_url }}" controls loop autoplay></video></p>
-            <p></p>
+            <p class="blank"></p>
             {% elsif page.image_url %}
             <p><img class="fullwidth" data-s="300,640" src="{{ page.image_url }}" data-ratio="0" data-w="640" /></p>
-            <p></p>
+            <p class="blank"></p>
             {% elsif page.img %}
             <p><img class="fullwidth" data-s="300,640" src="{{ page.img }}" data-ratio="0" data-w="640" /></p>
-            <p></p>
+            <p class="blank"></p>
             {% endif %}
             {% if page.summary %}
-            <p>{{ page.summary }}</p>
-            <p></p>
+            <p class="summary">{{ page.summary }}</p>
+            <p class="blank"></p>
             {% endif %}
             {% if page.more %}
-            <p>{{ page.more }}</p>
-            <p></p>
+            <p class="more">{{ page.more }}</p>
+            <p class="blank"></p>
             {% endif %}
             {% capture body_size %}{{ page.title | size }}{% endcapture %}
             {% if body_size > 1 %}
@@ -41,33 +41,33 @@
             {% endif %}
             {% if s.textPos == 'top' %}
             {% if s.text %}
-            <p>{{ s.text }}</p>
-            <p></p>
+            <p class="body_text">{{ s.text }}</p>
+            <p class="blank"></p>
             {% endif %}
             {% if s.movie_url %}
             <p><video id="player" class="fullwidth" src="{{ s.movie_url }}" controls loop autoplay></video></p>
-            <p></p>
+            <p class="blank"></p>
             {% elsif s.image_url %}
             <p><img class="fullwidth" data-s="300,640" src="{{ s.image_url }}" data-ratio="0" data-w="640" /></p>
             {% if s.caption %}
             <p class="caption">{{ s.caption }}</p>
             {% endif %}
-            <p></p>
+            <p class="blank"></p>
             {% endif %}
             {% else %}
             {% if s.movie_url %}
             <p><video id="player" src="{{ s.movie_url }}" controls loop autoplay></video></p>
-            <p></p>
+            <p class="blank"></p>
             {% elsif s.image_url %}
             <p><img class="fullwidth" data-s="300,640" src="{{ s.image_url }}" data-ratio="0" data-w="640" /></p>
             {% if s.caption %}
             <p class="caption">{{ s.caption }}</p>
             {% endif %}
-            <p></p>
+            <p class="blank"></p>
             {% endif %}
             {% if s.text %}
-            <p>{{ s.text }}</p>
-            <p></p>
+            <p class="body_text">{{ s.text }}</p>
+            <p class="blank"></p>
             {% endif %}
             {% endif %}
             {% endfor %}
