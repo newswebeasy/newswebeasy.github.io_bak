@@ -31,10 +31,6 @@
             <p class="more">{{ page.more }}</p>
             <p class="blank"></p>
             {% endif %}
-            {% if page.body %}
-            {% include adsense_web_content.html %}
-            <p class="blank"></p>
-            {% endif %}
             {% for s in page.body %}
             {% if s.title %}
             <h2>{{ s.title }}</h2>
@@ -53,6 +49,9 @@
             <p class="caption">{{ s.caption }}</p>
             {% endif %}
             <p class="blank"></p>
+            {% elsif s.text %}
+            {% include adsense_web_content.html %}
+            <p class="blank"></p>
             {% endif %}
             {% else %}
             {% if s.movie_url %}
@@ -63,6 +62,9 @@
             {% if s.caption %}
             <p class="caption">{{ s.caption }}</p>
             {% endif %}
+            <p class="blank"></p>
+            {% elsif s.text %}
+            {% include adsense_web_content.html %}
             <p class="blank"></p>
             {% endif %}
             {% if s.text %}
