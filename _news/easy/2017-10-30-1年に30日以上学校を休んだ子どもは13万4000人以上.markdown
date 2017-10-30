@@ -1,0 +1,40 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011199541000
+last_modified_at: '2017-10-30T12:30:00+09:00'
+datetime: 2017年10月30日 12時30分
+description: 文部科学省は、病気などの理由以外で、１年に３０日以上学校を休んだ子どもが、２０１６年度に１３万４３９８人いたと発表しました。
+title: １年に３０日以上学校を休んだ子どもは１３万４０００人以上
+title_with_ruby: １<ruby>年<rt>ねん</rt></ruby>に３０<ruby>日<rt>にち</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>んだ<ruby>子<rt>こ</rt></ruby>どもは１３<ruby>万<rt>まん</rt></ruby>４０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>
+outline: 文部科学省は、病気などの理由以外で、１年に３０日以上学校を休んだ子どもが、２０１６年度に１３万４３９８人いたと発表しました。
+outline_with_ruby: <ruby>文部科学省<rt>もんぶかがくしょう</rt></ruby>は、<ruby>病気<rt>びょうき</rt></ruby>などの<ruby>理由<rt>りゆう</rt></ruby><ruby>以外<rt>いがい</rt></ruby>で、１<ruby>年<rt>ねん</rt></ruby>に３０<ruby>日<rt>にち</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>んだ<ruby>子<rt>こ</rt></ruby>どもが、２０１６<ruby>年度<rt>ねんど</rt></ruby>に１３<ruby>万<rt>まん</rt></ruby>４３９８<ruby>人<rt>にん</rt></ruby>いたと<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/27/K10011199541_1710270613_1710270636_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/30/k10011199541000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>文部科学省<rt>もんぶかがくしょう</rt></ruby></span>は、<ruby>病気<rt>びょうき</rt></ruby>などの<ruby>理由<rt>りゆう</rt></ruby><ruby>以外<rt>いがい</rt></ruby>で、１<ruby>年<rt>ねん</rt></ruby>に３０<ruby>日<rt>にち</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>んだ<ruby>子<rt>こ</rt></ruby>どもが、２０１６<span\
+  \ style=\"color: blue;\"><ruby>年度<rt>ねんど</rt></ruby></span>に１３<ruby>万<rt>まん</rt></ruby>４３９８<ruby>人<rt>にん</rt></ruby>いたと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>とし</rt></ruby>より８４０７<ruby>人<rt>にん</rt></ruby><ruby>増<rt>ふ</rt></ruby>えて、<ruby>最近<rt>さいきん</rt></ruby>の１０<ruby>年<rt>ねん</rt></ruby>でいちばん<ruby>多<rt>おお</rt></ruby>くなりました。</p>\n\
+  <p>この<ruby>中<rt>なか</rt></ruby>で<span style=\"color: blue;\"><ruby>小学生<rt>しょうがくせい</rt></ruby></span>は３<ruby>万<rt>まん</rt></ruby>１１５１<ruby>人<rt>にん</rt></ruby>で、<ruby>中学生<rt>ちゅうがくせい</rt></ruby>は１０<ruby>万<rt>まん</rt></ruby>３２４７<ruby>人<rt>にん</rt></ruby>です。９０<ruby>日<rt>にち</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>休<rt>やす</rt></ruby>んだ<ruby>子<rt>こ</rt></ruby>どもは７<ruby>万<rt>まん</rt></ruby>７４５０<ruby>人<rt>にん</rt></ruby>で、３０<ruby>日<rt>にち</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>休<rt>やす</rt></ruby>んだ<ruby>子<rt>こ</rt></ruby>どもの５８％ぐらいです。</p>\n\
+  <p><ruby>休<rt>やす</rt></ruby>んだ<ruby>理由<rt>りゆう</rt></ruby>でいちばん<ruby>多<rt>おお</rt></ruby>いのは、「<ruby>家族<rt>かぞく</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>との<ruby>関係<rt>かんけい</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>不安<rt>ふあん</rt></ruby></span>に<ruby>思<rt>おも</rt></ruby>う」です。<ruby>次<rt>つぎ</rt></ruby>に<ruby>多<rt>おお</rt></ruby>いのは「<ruby>何<rt>なに</rt></ruby>もしたくない」です。</p>\n\
+  <p><ruby>専門家<rt>せんもんか</rt></ruby>は、<ruby>子<rt>こ</rt></ruby>どもには<ruby>学校<rt>がっこう</rt></ruby><ruby>以外<rt>いがい</rt></ruby>にも<ruby>安心<rt>あんしん</rt></ruby>できる<ruby>場所<rt>ばしょ</rt></ruby>や、<ruby>相談<rt>そうだん</rt></ruby>できる<ruby>人<rt>ひと</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>\n<p></p>"
+words:
+- word: 文部科学省
+  descriptions:
+  - <ruby><rb>教育</rb><rt>きょういく</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>についての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や<ruby><rb>科学技術</rb><rt>かがくぎじゅつ</rt></ruby>を<ruby><rb>発展</rb><rt>はってん</rt></ruby>させる<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>文科省</rb><rt>もんかしょう</rt></ruby>。
+- word: 年度
+  descriptions:
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>のつごうで<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>１年</rb><rt>いちねん</rt></ruby>の<ruby><rb>期間</rb><rt>きかん</rt></ruby>。ふつう<ruby><rb>４月</rb><rt>しがつ</rt></ruby><ruby><rb>１日</rb><rt>ついたち</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まり、<ruby><rb>翌年</rb><rt>よくねん</rt></ruby>の<ruby><rb>３月３１日</rb><rt>さんがつさんじゅういちにち</rt></ruby>に<ruby><rb>終</rb><rt>お</rt></ruby>わる。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 小学生
+  descriptions:
+  - <ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>に<ruby><rb>通</rb><rt>かよ</rt></ruby>っている<ruby><rb>子</rb><rt>こ</rt></ruby>ども。
+- word: 不安
+  descriptions:
+  - <ruby><rb>気</rb><rt>き</rt></ruby>がかりなこと。<ruby><rb>心配</rb><rt>しんぱい</rt></ruby>なこと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011199541000/k10011199541000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/27/不登校13万4000人超-過去10年で最多
+...

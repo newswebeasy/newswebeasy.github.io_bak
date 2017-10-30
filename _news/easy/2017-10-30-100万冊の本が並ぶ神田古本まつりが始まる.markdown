@@ -1,0 +1,37 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011199781000
+last_modified_at: '2017-10-30T17:10:00+09:00'
+datetime: 2017年10月30日 17時10分
+description: 東京の神田には、古い本や読み終わった本を売る古本の店が集まっていて、毎年秋に「神田古本まつり」という催しを開いています。
+title: １００万冊の本が並ぶ「神田古本まつり」が始まる
+title_with_ruby: １００<ruby>万<rt>まん</rt></ruby><ruby>冊<rt>さつ</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>が<ruby>並<rt>なら</rt></ruby>ぶ「<ruby>神田<rt>かんだ</rt></ruby><ruby>古本<rt>ふるほん</rt></ruby>まつり」が<ruby>始<rt>はじ</rt></ruby>まる
+outline: 東京の神田には、古い本や読み終わった本を売る古本の店が集まっていて、毎年秋に「神田古本まつり」という催しを開いています。
+outline_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>神田<rt>かんだ</rt></ruby>には、<ruby>古<rt>ふる</rt></ruby>い<ruby>本<rt>ほん</rt></ruby>や<ruby>読<rt>よ</rt></ruby>み<ruby>終<rt>お</rt></ruby>わった<ruby>本<rt>ほん</rt></ruby>を<ruby>売<rt>う</rt></ruby>る<ruby>古本<rt>ふるほん</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まっていて、<ruby>毎年<rt>まいとし</rt></ruby><ruby>秋<rt>あき</rt></ruby>に「<ruby>神田<rt>かんだ</rt></ruby><ruby>古本<rt>ふるほん</rt></ruby>まつり」という<ruby>催<rt>もよお</rt></ruby>しを<ruby>開<rt>ひら</rt></ruby>いています。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/27/K10011199781_1710271150_1710271159_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/30/k10011199781000.mp3
+content_with_ruby: "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>神田<rt>かんだ</rt></ruby>には、<ruby>古<rt>ふる</rt></ruby>い<ruby>本<rt>ほん</rt></ruby>や<ruby>読<rt>よ</rt></ruby>み<ruby>終<rt>お</rt></ruby>わった<ruby>本<rt>ほん</rt></ruby>を<ruby>売<rt>う</rt></ruby>る<ruby>古本<rt>ふるほん</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まっていて、<ruby>毎年<rt>まいとし</rt></ruby><ruby>秋<rt>あき</rt></ruby>に「<ruby>神田<rt>かんだ</rt></ruby><ruby>古本<rt>ふるほん</rt></ruby>まつり」という<span\
+  \ style=\"color: blue;\"><ruby>催<rt>もよお</rt></ruby>し</span>を<ruby>開<rt>ひら</rt></ruby>いています。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby>は１００<ruby>軒<rt>けん</rt></ruby>ぐらいの<ruby>店<rt>みせ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>参加<rt>さんか</rt></ruby></span>して、２７<ruby>日<rt>にち</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>店<rt>みせ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>道<rt>みち</rt></ruby>などに<ruby>文学<rt>ぶんがく</rt></ruby>や<ruby>歴史<rt>れきし</rt></ruby>などいろいろな<ruby>本<rt>ほん</rt></ruby>が１００<ruby>万<rt>まん</rt></ruby><ruby>冊<rt>さつ</rt></ruby>ぐらい<ruby>並<rt>なら</rt></ruby>んでいます。<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>来<rt>き</rt></ruby>て、<ruby>興味<rt>きょうみ</rt></ruby>がある<ruby>本<rt>ほん</rt></ruby>を<ruby>探<rt>さが</rt></ruby>していました。<ruby>外国人<rt>がいこくじん</rt></ruby>も<ruby>大勢<rt>おおぜい</rt></ruby><ruby>来<rt>き</rt></ruby>ていました。<span\
+  \ style=\"color: blue;\"><ruby>催<rt>もよお</rt></ruby>し</span>を<ruby>開<rt>ひら</rt></ruby>いた<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>は、<ruby>古本<rt>ふるほん</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い<ruby>神田<rt>かんだ</rt></ruby>は<ruby>外国人<rt>がいこくじん</rt></ruby>にも<ruby>有名<rt>ゆうめい</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>神奈川県<rt>かながわけん</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>女性<rt>じょせい</rt></ruby>は「<ruby>子<rt>こ</rt></ruby>どもの<ruby>本<rt>ほん</rt></ruby>を<ruby>探<rt>さが</rt></ruby>しに<ruby>来<rt>き</rt></ruby>ました。にぎやかでとても<ruby>楽<rt>たの</rt></ruby>しいです」と<ruby>話<rt>はな</rt></ruby>していました。この<span\
+  \ style=\"color: blue;\"><ruby>催<rt>もよお</rt></ruby>し</span>は１１<ruby>月<rt>がつ</rt></ruby><ruby>５日<rt>いつか</rt></ruby>までです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 催し
+  descriptions:
+  - <ruby><rb>会</rb><rt>かい</rt></ruby>などの<ruby><rb>計画</rb><rt>けいかく</rt></ruby>。くわだて。
+  - <ruby><rb>催</rb><rt>もよお</rt></ruby>し<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 参加
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+source_url: http://www3.nhk.or.jp/news/easy/k10011199781000/k10011199781000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/27/神田で古本まつり-100万冊の古書並ぶ-東京
+...

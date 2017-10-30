@@ -1,0 +1,56 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011199451000
+last_modified_at: '2017-10-30T12:30:00+09:00'
+datetime: 2017年10月30日 12時30分
+description: スーパーコンピューターは、計算が非常に速くできるコンピューターで、科学技術の仕事をする会社や研究所などが使っています。
+title: 日本で１番計算が速いスーパーコンピューターを作る
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby><ruby>計算<rt>けいさん</rt></ruby>が<ruby>速<rt>はや</rt></ruby>いスーパーコンピューターを<ruby>作<rt>つく</rt></ruby>る
+outline: スーパーコンピューターは、計算が非常に速くできるコンピューターで、科学技術の仕事をする会社や研究所などが使っています。
+outline_with_ruby: スーパーコンピューターは、<ruby>計算<rt>けいさん</rt></ruby>が<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>速<rt>はや</rt></ruby>くできるコンピューターで、<ruby>科学<rt>かがく</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>会社<rt>かいしゃ</rt></ruby>や<ruby>研究所<rt>けんきゅうじょ</rt></ruby>などが<ruby>使<rt>つか</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/27/K10011199451_1710270642_1710270644_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/30/k10011199451000.mp3
+content_with_ruby: "<p>スーパーコンピューターは、<span style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>が<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>速<rt>はや</rt></ruby>くできるコンピューターで、<ruby>科学<rt>かがく</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>会社<rt>かいしゃ</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>研究所<rt>けんきゅうじょ</rt></ruby></span>などが<ruby>使<rt>つか</rt></ruby>っています。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の２つの<ruby>会社<rt>かいしゃ</rt></ruby>が２６<ruby>日<rt>にち</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>が<ruby>速<rt>はや</rt></ruby>いスーパーコンピューターを<ruby>作<rt>つく</rt></ruby>ったと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。「Ｇｙｏｕｋｏｕ（<ruby>暁光<rt>ぎょうこう</rt></ruby>）」という<ruby>名前<rt>なまえ</rt></ruby>で、１<span\
+  \ style=\"color: blue;\"><ruby>秒<rt>びょう</rt></ruby></span>に１<ruby>京<rt>けい</rt></ruby>４１３０<span\
+  \ style=\"color: blue;\"><ruby>兆<rt>ちょう</rt></ruby></span><ruby>回<rt>かい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>ができます。１<ruby>京<rt>けい</rt></ruby>は１<span\
+  \ style=\"color: blue;\"><ruby>兆<rt>ちょう</rt></ruby></span>の１<ruby>万<rt>まん</rt></ruby><ruby>倍<rt>ばい</rt></ruby>です。</p>\n\
+  <p><ruby>作<rt>つく</rt></ruby>ったのは「ＥｘａＳｃａｌｅｒ」と「ＰＥＺＹＣｏｍｐｕｔｉｎｇ」という<ruby>会社<rt>かいしゃ</rt></ruby>です。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby>６<ruby>月<rt>がつ</rt></ruby>の<span style=\"color: blue;\"\
+  >ランキング</span>と<ruby>比<rt>くら</rt></ruby>べると、「Ｇｙｏｕｋｏｕ」は<span style=\"color: blue;\"\
+  ><ruby>計算<rt>けいさん</rt></ruby></span>の<ruby>速<rt>はや</rt></ruby>さでは<ruby>世界<rt>せかい</rt></ruby>で６<ruby>番<rt>ばん</rt></ruby>になります。１Ｗの<ruby>電気<rt>でんき</rt></ruby>で１<span\
+  \ style=\"color: blue;\"><ruby>秒<rt>びょう</rt></ruby></span>に１４６<ruby>億<rt>おく</rt></ruby>９０００<ruby>万<rt>まん</rt></ruby><ruby>回<rt>かい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>ができるため、<ruby>世界<rt>せかい</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby><ruby>少<rt>すく</rt></ruby>ない<ruby>電気<rt>でんき</rt></ruby>で<ruby>動<rt>うご</rt></ruby>くスーパーコンピューターになります。</p>\n\
+  <p><ruby>次<rt>つぎ</rt></ruby>の<span style=\"color: blue;\">ランキング</span>は１１<ruby>月<rt>がつ</rt></ruby>に<ruby>決<rt>き</rt></ruby>まるため、２つの<ruby>会社<rt>かいしゃ</rt></ruby>はもっと<span\
+  \ style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>が<ruby>速<rt>はや</rt></ruby>くて、<ruby>電気<rt>でんき</rt></ruby>をあまり<ruby>使<rt>つか</rt></ruby>わないスーパーコンピューターにしたいと<ruby>言<rt>い</rt></ruby>っています。</p>"
+words:
+- word: 計算
+  descriptions:
+  - <ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。
+  - <ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。
+- word: 研究所
+  descriptions:
+  - ものごとを<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>をする<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 秒
+  descriptions:
+  - <ruby><rb>時間</rb><rt>じかん</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。
+  - <ruby><rb>角度</rb><rt>かくど</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。
+- word: 兆
+  descriptions:
+  - <ruby><rb>一億</rb><rt>いちおく</rt></ruby>の<ruby><rb>一万倍</rb><rt>いちまんばい</rt></ruby>。
+  - しるし。<ruby><rb>前</rb><rt>まえ</rt></ruby>ぶれ。
+- word: ランキング
+  descriptions:
+  - <ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011199451000/k10011199451000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/27/国内最速スーパーコンピューター-ベンチャーが開発
+...

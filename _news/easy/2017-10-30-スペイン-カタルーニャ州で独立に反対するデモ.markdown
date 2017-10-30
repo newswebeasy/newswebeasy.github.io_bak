@@ -1,0 +1,94 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011203661000
+last_modified_at: '2017-10-30T17:10:00+09:00'
+datetime: 2017年10月30日 17時10分
+description: スペインのカタルーニャ州の議会は２７日、スペインから独立すると発表しました。
+title: スペイン　カタルーニャ州で独立に反対するデモ
+title_with_ruby: スペイン　カタルーニャ<ruby>州<rt>しゅう</rt></ruby>で<ruby>独立<rt>どくりつ</rt></ruby>に<ruby>反対<rt>はんたい</rt></ruby>するデモ
+outline: スペインのカタルーニャ州の議会は２７日、スペインから独立すると発表しました。
+outline_with_ruby: スペインのカタルーニャ<ruby>州<rt>しゅう</rt></ruby>の<ruby>議会<rt>ぎかい</rt></ruby>は２７<ruby>日<rt>にち</rt></ruby>、スペインから<ruby>独立<rt>どくりつ</rt></ruby>すると<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/30/K10011203661_1710300508_1710300510_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/30/k10011203661000.mp3
+content_with_ruby: "<p>スペインのカタルーニャ<ruby>州<rt>しゅう</rt></ruby>の<span style=\"color:\
+  \ blue;\"><ruby>議会<rt>ぎかい</rt></ruby></span>は２７<ruby>日<rt>にち</rt></ruby>、スペインから<span\
+  \ style=\"color: blue;\"><ruby>独立<rt>どくりつ</rt></ruby></span>すると<span style=\"color:\
+  \ blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>２９<ruby>日<rt>にち</rt></ruby>、カタルーニャ<ruby>州<rt>しゅう</rt></ruby>のバルセロナで<span\
+  \ style=\"color: blue;\"><ruby>独立<rt>どくりつ</rt></ruby></span>に<ruby>反対<rt>はんたい</rt></ruby>する<span\
+  \ style=\"color: blue;\">デモ</span>がありました。<ruby>警察<rt>けいさつ</rt></ruby>によると、３０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>ぐらいが<ruby>集<rt>あつ</rt></ruby>まりました。<ruby>集<rt>あつ</rt></ruby>まった<ruby>人<rt>ひと</rt></ruby>たちは、スペインの<span\
+  \ style=\"color: blue;\"><ruby>旗<rt>はた</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>って「カタルーニャはスペインの<span\
+  \ style=\"color: blue;\"><ruby>一部<rt>いちぶ</rt></ruby></span>だ」などと<ruby>言<rt>い</rt></ruby>って、スペインの<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>いながら<ruby>歩<rt>ある</rt></ruby>きました。</p>\n\
+  <p>スペインの<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<span style=\"\
+  color: blue;\"><ruby>独立<rt>どくりつ</rt></ruby></span>は<span style=\"color: blue;\"\
+  ><ruby>憲法<rt>けんぽう</rt></ruby></span>に<span style=\"color: blue;\"><ruby>違反<rt>いはん</rt></ruby></span>していると<ruby>言<rt>い</rt></ruby>って、カタルーニャ<ruby>州<rt>しゅう</rt></ruby>の<ruby>首相<rt>しゅしょう</rt></ruby>を<span\
+  \ style=\"color: blue;\">やめ</span>させて、<ruby>国<rt>くに</rt></ruby>が<span style=\"color:\
+  \ blue;\"><ruby>州<rt>しゅう</rt></ruby></span>の<ruby>政治<rt>せいじ</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>うつもりです。しかし、カタルーニャ<ruby>州<rt>しゅう</rt></ruby>には<span\
+  \ style=\"color: blue;\"><ruby>絶対<rt>ぜったい</rt></ruby></span>に<span style=\"color:\
+  \ blue;\"><ruby>独立<rt>どくりつ</rt></ruby></span>すると<ruby>言<rt>い</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>もいます。</p>\n\
+  <p>スペインの<ruby>新聞<rt>しんぶん</rt></ruby>は、<span style=\"color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span>によると、<span\
+  \ style=\"color: blue;\"><ruby>独立<rt>どくりつ</rt></ruby></span>に<span style=\"color:\
+  \ blue;\"><ruby>賛成<rt>さんせい</rt></ruby></span>している<span style=\"color: blue;\"><ruby>政党<rt>せいとう</rt></ruby></span>がいいという<ruby>人<rt>ひと</rt></ruby>は４２．５％、<ruby>反対<rt>はんたい</rt></ruby>している<span\
+  \ style=\"color: blue;\"><ruby>政党<rt>せいとう</rt></ruby></span>がいいという<ruby>人<rt>ひと</rt></ruby>は４３．４％だったと<ruby>伝<rt>つた</rt></ruby>えました。カタルーニャ<ruby>州<rt>しゅう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でも<ruby>意見<rt>いけん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>分<rt>わ</rt></ruby>かれ</span>ています。</p>\n<p></p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 独立
+  descriptions:
+  - ほかの<ruby><rb>助</rb><rt>たす</rt></ruby>けや<ruby><rb>支配</rb><rt>しはい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないで、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>だけでやっていくこと。<ruby><rb>独</rb><rt>ひと</rt></ruby>り<ruby><rb>立</rb><rt>だ</rt></ruby>ち。
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つだけはなれていること。
+- word: デモ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「デモンストレーション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>認</rb><rt>みと</rt></ruby>めさせようとして、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>勢</rb><rt>いきお</rt></ruby>いを<ruby><rb>示</rb><rt>しめ</rt></ruby>すこと。また、そのための<ruby><rb>行進</rb><rt>こうしん</rt></ruby>。
+- word: 議会
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>に<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>について<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めをする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>の<ruby><rb>国会</rb><rt>こっかい</rt></ruby>と、<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>などの<ruby><rb>地方議会</rb><rt>ちほうぎかい</rt></ruby>とがある。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 旗
+  descriptions:
+  - <ruby><rb>布</rb><rt>ぬの</rt></ruby>や<ruby><rb>紙</rb><rt>かみ</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>り、さおなどの<ruby><rb>先</rb><rt>さき</rt></ruby>につけて、かざりや<ruby><rb>目</rb><rt>め</rt></ruby>じるしとするもの。
+- word: 一部
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 憲法
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>成</rb><rt>な</rt></ruby>り<ruby><rb>立</rb><rt>た</rt></ruby>っていく<ruby><rb>上</rb><rt>うえ</rt></ruby>で、いちばんだいじなことを<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>。
+- word: 違反
+  descriptions:
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。
+- word: 辞める
+  descriptions:
+  - <ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。
+- word: 州
+  descriptions:
+  - <ruby><rb>大陸</rb><rt>たいりく</rt></ruby>。
+  - （<ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>や、<ruby><rb>今</rb><rt>いま</rt></ruby>のアメリカなどで）<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をするつごうで<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>区切</rb><rt>くぎ</rt></ruby>り。
+  - す。<ruby><rb>川</rb><rt>かわ</rt></ruby>などの<ruby><rb>土</rb><rt>つち</rt></ruby>や<ruby><rb>砂</rb><rt>すな</rt></ruby>が<ruby><rb>積</rb><rt>つ</rt></ruby>もってできた<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>陸地</rb><rt>りくち</rt></ruby>。
+- word: 絶対
+  descriptions:
+  - ほかに<ruby><rb>比</rb><rt>くら</rt></ruby>べるものがないこと。
+  - まちがいなく。<ruby><rb>必</rb><rt>かなら</rt></ruby>ず。
+  - けっして。とうてい。
+- word: 調査
+  descriptions:
+  - <ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: 賛成
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えをよいと<ruby><rb>認</rb><rt>みと</rt></ruby>めること。<ruby><rb>同意</rb><rt>どうい</rt></ruby>すること。
+- word: 政党
+  descriptions:
+  - <ruby><rb>政治</rb><rt>せいじ</rt></ruby>について、<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>人</rb><rt>ひと</rt></ruby>たちが<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 分かれる
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つだったものが、<ruby><rb>別々</rb><rt>べつべつ</rt></ruby>になる。
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つのものが、いくつかに<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011203661000/k10011203661000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/30/スペイン-カタルーニャ州-独立反対の大規模デモ
+...
