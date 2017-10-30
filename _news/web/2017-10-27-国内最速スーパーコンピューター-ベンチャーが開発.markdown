@@ -14,8 +14,6 @@ more: 計算速度が国内最速となるスーパーコンピューターの�
   /><br />「Ｇｙｏｕｋｏｕ」は２社が独自に開発したプロセッサーを冷却用の液体に浸すことで、速い計算と高い省エネ性能を実現したということで、１１月発表される次回の世界ランキングに向けて、さらなる性能の向上を目指すとしています。
 movie_url: https://newswebeasy.github.io/ja201710/news/web/movie/2017/10/27/k10011199451_201710271006_201710271006.mp4
 voice_url: https://newswebeasy.github.io/ja201710/news/web/voice/2017/10/27/k10011199451_201710271006_201710271006.mp3
-body:
-- {}
 source_url: http://www3.nhk.or.jp/news/html/20171027/k10011199451000.html
 easy_news_url: https://newswebeasy.github.io/news/easy/2017/10/30/日本で1番計算が速いスーパーコンピューターを作る
 ...

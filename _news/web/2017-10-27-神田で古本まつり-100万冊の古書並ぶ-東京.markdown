@@ -14,8 +14,6 @@ more: 「神田古本まつり」は秋の読書週間に合わせて毎年開�
   />「神田古本まつり」は来月５日まで開かれています。
 movie_url: https://newswebeasy.github.io/ja201710/news/web/movie/2017/10/27/k10011199781_201710271222_201710271225.mp4
 voice_url: https://newswebeasy.github.io/ja201710/news/web/voice/2017/10/27/k10011199781_201710271222_201710271225.mp3
-body:
-- {}
 source_url: http://www3.nhk.or.jp/news/html/20171027/k10011199781000.html
 easy_news_url: https://newswebeasy.github.io/news/easy/2017/10/30/100万冊の本が並ぶ神田古本まつりが始まる
 ...
