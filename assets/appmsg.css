@@ -97,6 +97,10 @@ span.rich_media_meta_nickname {
   color: #3e3e3e
 }
 
+.rich_media_content p {
+  min-height: 1em;
+}
+
 @media(min-device-width:375px) and (max-device-width:667px) and (-webkit-min-device-pixel-ratio:2) {
   .mm_appmsg .rich_media_inner, .mm_appmsg .rich_media_meta {
     font-size: 17px
