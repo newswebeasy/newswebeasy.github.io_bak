@@ -1,0 +1,55 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011204081000
+last_modified_at: '2017-10-31T17:50:00+09:00'
+datetime: 2017年10月31日 17時50分
+description: ヨーロッパで２９日、たくさんの雨が降って強い風が吹きました。
+title: ヨーロッパ　たくさんの雨と強い風で５人亡くなる
+title_with_ruby: ヨーロッパ　たくさんの<ruby>雨<rt>あめ</rt></ruby>と<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>で５<ruby>人<rt>にん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなる
+outline: ヨーロッパで２９日、たくさんの雨が降って強い風が吹きました。
+outline_with_ruby: ヨーロッパで２９<ruby>日<rt>にち</rt></ruby>、たくさんの<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>きました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/30/K10011204081_1710301509_1710301513_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/31/k10011204081000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\">ヨーロッパ</span>で２９<ruby>日<rt>にち</rt></ruby>、たくさんの<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>きました。このため、ドイツとポーランドとチェコで、<ruby>川<rt>かわ</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>溺<rt>おぼ</rt></ruby>れ</span>た<ruby>人<rt>ひと</rt></ruby>や<ruby>風<rt>かぜ</rt></ruby>で<ruby>倒<rt>たお</rt></ruby>れた<ruby>木<rt>き</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>当<rt>あ</rt></ruby>たっ</span>た<ruby>人<rt>ひと</rt></ruby>などがいました。５<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p>ドイツのハンブルクでは<ruby>川<rt>かわ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<span style=\"\
+  color: blue;\">あふれ</span>て、<ruby>車<rt>くるま</rt></ruby>が<ruby>動<rt>うご</rt></ruby>くことができなくなりました。たくさんの<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>観光<rt>かんこう</rt></ruby></span>に<ruby>来<rt>く</rt></ruby>る<ruby>魚<rt>さかな</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>市場<rt>いちば</rt></ruby></span>も、<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ったため<ruby>閉<rt>し</rt></ruby>めました。ドイツのいろいろな<ruby>所<rt>ところ</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby>をやめました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: 溺れる
+  descriptions:
+  - （<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で）<ruby><rb>泳</rb><rt>およ</rt></ruby>げなくて<ruby><rb>死</rb><rt>し</rt></ruby>にそうになる。また、<ruby><rb>死</rb><rt>し</rt></ruby>ぬ。
+  - （よくないことに）<ruby><rb>夢中</rb><rt>むちゅう</rt></ruby>になる。
+- word: 当たる
+  descriptions:
+  - ぶつかる。
+  - <ruby><rb>命中</rb><rt>めいちゅう</rt></ruby>する。
+  - ねらったとおりうまくいく。
+  - （<ruby><rb>光</rb><rt>ひかり</rt></ruby>・<ruby><rb>風</rb><rt>かぜ</rt></ruby>などを）<ruby><rb>受</rb><rt>う</rt></ruby>けるようにする。
+  - ちょうど<ruby><rb>当</rb><rt>あ</rt></ruby>てはまる。
+  - その<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>にある。
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>ける。
+  - <ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。
+  - <ruby><rb>確</rb><rt>たし</rt></ruby>かめる。<ruby><rb>調</rb><rt>しら</rt></ruby>べる。
+  - ひどい<ruby><rb>目</rb><rt>め</rt></ruby>にあわせる。
+- word: あふれる
+  descriptions:
+  - いっぱいになって、こぼれる。
+  - <ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。
+- word: 観光
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。
+- word: 市場
+  descriptions:
+  - <ruby><rb>商人</rb><rt>しょうにん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などを<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>買</rb><rt>か</rt></ruby>いする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>市</rb><rt>いち</rt></ruby>。
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>などの<ruby><rb>小売店</rb><rt>こうりてん</rt></ruby>が、<ruby><rb>一</rb><rt>いっ</rt></ruby>か<ruby><rb>所</rb><rt>しょ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>っている<ruby><rb>所</rb><rt>ところ</rt></ruby>。マーケット。
+source_url: http://www3.nhk.or.jp/news/easy/k10011204081000/k10011204081000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/30/ヨーロッパやアメリカで大雨と強風-被害広がる
+...

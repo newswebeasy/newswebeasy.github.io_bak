@@ -1,0 +1,91 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011205151000
+last_modified_at: '2017-10-31T17:50:00+09:00'
+datetime: 2017年10月31日 17時50分
+description: ユネスコは、世界の古い文書や絵などを「世界の記憶」にして守っています。
+title: ユネスコの「世界の記憶」　「朝鮮通信使」の資料など２つ
+title_with_ruby: ユネスコの「<ruby>世界<rt>せかい</rt></ruby>の<ruby>記憶<rt>きおく</rt></ruby>」　「<ruby>朝鮮通信使<rt>ちょうせんつうしんし</rt></ruby>」の<ruby>資料<rt>しりょう</rt></ruby>など２つ
+outline: ユネスコは、世界の古い文書や絵などを「世界の記憶」にして守っています。
+outline_with_ruby: ユネスコは、<ruby>世界<rt>せかい</rt></ruby>の<ruby>古<rt>ふる</rt></ruby>い<ruby>文書<rt>ぶんしょ</rt></ruby>や<ruby>絵<rt>え</rt></ruby>などを「<ruby>世界<rt>せかい</rt></ruby>の<ruby>記憶<rt>きおく</rt></ruby>」にして<ruby>守<rt>まも</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201710/news/easy/image/2017/10/31/k10011205151000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/31/k10011205151000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\">ユネスコ</span>は、<ruby>世界<rt>せかい</rt></ruby>の<ruby>古<rt>ふる</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>文書<rt>ぶんしょ</rt></ruby></span>や<ruby>絵<rt>え</rt></ruby>などを「<ruby>世界<rt>せかい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>記憶<rt>きおく</rt></ruby></span>」にして<span style=\"color:\
+  \ blue;\"><ruby>守<rt>まも</rt></ruby>っ</span>ています。<span style=\"color: blue;\">ユネスコ</span>は、<ruby>日本<rt>にっぽん</rt></ruby>と<ruby>韓国<rt>かんこく</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>が<ruby>一緒<rt>いっしょ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>ん</span>だ「<ruby>朝鮮通信使<rt>ちょうせんつうしんし</rt></ruby>」の<span\
+  \ style=\"color: blue;\"><ruby>資料<rt>しりょう</rt></ruby></span>と、<ruby>日本<rt>にっぽん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>ん</span>だ「<ruby>上野三碑<rt>こうづけさんぴ</rt></ruby>」を「<ruby>世界<rt>せかい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>記憶<rt>きおく</rt></ruby></span>」にすると<ruby>決<rt>き</rt></ruby>めました。</p>\n\
+  <p><ruby>朝鮮通信使<rt>ちょうせんつうしんし</rt></ruby>は、<span style=\"color: blue;\"><ruby>江戸時代<rt>えどじだい</rt></ruby></span>に<ruby>朝鮮<rt>ちょうせん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>国王<rt>こくおう</rt></ruby></span>が<ruby>手紙<rt>てがみ</rt></ruby>などを<ruby>届<rt>とど</rt></ruby>けるために<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>送<rt>おく</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>たちです。<ruby>朝鮮通信使<rt>ちょうせんつうしんし</rt></ruby>は<ruby>日本<rt>にっぽん</rt></ruby>に１２<ruby>回<rt>かい</rt></ruby><ruby>来<rt>き</rt></ruby>て、<ruby>多<rt>おお</rt></ruby>いときは<span\
+  \ style=\"color: blue;\"><ruby>学者<rt>がくしゃ</rt></ruby></span>や<ruby>医者<rt>いしゃ</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>画家<rt>がか</rt></ruby></span>など５００<ruby>人<rt>にん</rt></ruby>ぐらいが<ruby>日本人<rt>にっぽんじん</rt></ruby>と<span\
+  \ style=\"color: blue;\"><ruby>交流<rt>こうりゅう</rt></ruby></span>しました。</p>\n<p>「<ruby>上野三碑<rt>こうづけさんぴ</rt></ruby>」は、７<span\
+  \ style=\"color: blue;\"><ruby>世紀<rt>せいき</rt></ruby></span>から８<span style=\"color:\
+  \ blue;\"><ruby>世紀<rt>せいき</rt></ruby></span>に<ruby>群馬県<rt>ぐんまけん</rt></ruby><ruby>高崎市<rt>たかさきし</rt></ruby>で<ruby>作<rt>つく</rt></ruby>られた３つの<span\
+  \ style=\"color: blue;\"><ruby>石碑<rt>せきひ</rt></ruby></span>です。<span style=\"color:\
+  \ blue;\"><ruby>石碑<rt>せきひ</rt></ruby></span>から、<ruby>東<rt>ひがし</rt></ruby>アジアとの<span\
+  \ style=\"color: blue;\"><ruby>交流<rt>こうりゅう</rt></ruby></span>や<ruby>社会<rt>しゃかい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>様子<rt>ようす</rt></ruby></span>がわかります。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: UNESCO
+  descriptions:
+  - <ruby><rb>国連</rb><rt>こくれん</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つで、<ruby><rb>教育</rb><rt>きょういく</rt></ruby>や<ruby><rb>科学</rb><rt>かがく</rt></ruby>、また<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>を<ruby><rb>通</rb><rt>つう</rt></ruby>じて、たがいに<ruby><rb>理解</rb><rt>りかい</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ることを<ruby><rb>目的</rb><rt>もくてき</rt></ruby>としている。
+- word: 記憶
+  descriptions:
+  - <ruby><rb>覚</rb><rt>おぼ</rt></ruby>えること。<ruby><rb>覚</rb><rt>おぼ</rt></ruby>えていること。
+- word: 資料
+  descriptions:
+  - <ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>や<ruby><rb>調査</rb><rt>ちょうさ</rt></ruby>のもととして<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>。
+- word: 文書
+  descriptions:
+  - <ruby><rb>文字</rb><rt>もじ</rt></ruby>で<ruby><rb>書</rb><rt>か</rt></ruby>いたもの。<ruby><rb>書</rb><rt>か</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>事務的</rb><rt>じむてき</rt></ruby>な<ruby><rb>書類</rb><rt>しょるい</rt></ruby>。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 申し込む
+  descriptions:
+  - <ruby><rb>望</rb><rt>のぞ</rt></ruby>みを、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>申</rb><rt>もう</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れる。
+- word: 江戸時代
+  descriptions:
+  - <ruby><rb>徳川家康</rb><rt>とくがわいえやす</rt></ruby>が、１６０３<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>江戸</rb><rt>えど</rt></ruby>に<ruby><rb>幕府</rb><rt>ばくふ</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いてから、１８６７<ruby><rb>年</rb><rt>ねん</rt></ruby>にほろびるまでの<ruby><rb>約</rb><rt>やく</rt></ruby>２６０<ruby><rb>年間</rb><rt>ねんかん</rt></ruby>。<ruby><rb>鎖国</rb><rt>さこく</rt></ruby>のために<ruby><rb>日本</rb><rt>にっぽん</rt></ruby><ruby><rb>独特</rb><rt>どくとく</rt></ruby>の<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>栄</rb><rt>さか</rt></ruby>えた。「<ruby><rb>徳川時代</rb><rt>とくがわじだい</rt></ruby>」ともいう。
+- word: 国王
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める<ruby><rb>王</rb><rt>おう</rt></ruby>。
+- word: 学者
+  descriptions:
+  - <ruby><rb>学問</rb><rt>がくもん</rt></ruby>を<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>学問</rb><rt>がくもん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 画家
+  descriptions:
+  - <ruby><rb>絵</rb><rt>え</rt></ruby>をかくことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>絵</rb><rt>え</rt></ruby>かき。
+- word: 交流
+  descriptions:
+  - たがいに<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>来</rb><rt>き</rt></ruby>すること。<ruby><rb>交</rb><rt>ま</rt></ruby>じり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時間</rb><rt>じかん</rt></ruby>ごとに、<ruby><rb>流</rb><rt>なが</rt></ruby>れの<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>が<ruby><rb>逆</rb><rt>ぎゃく</rt></ruby>になる<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>。
+- word: 世紀
+  descriptions:
+  - １００<ruby><rb>年</rb><rt>ねん</rt></ruby>を<ruby><rb>単位</rb><rt>たんい</rt></ruby>として<ruby><rb>数</rb><rt>かぞ</rt></ruby>える<ruby><rb>年代</rb><rt>ねんだい</rt></ruby>の<ruby><rb>数</rb><rt>かぞ</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>西暦</rb><rt>せいれき</rt></ruby>１<ruby><rb>年</rb><rt>ねん</rt></ruby>から１００<ruby><rb>年</rb><rt>ねん</rt></ruby>までを<ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>と<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶ。<ruby><rb>２１世紀</rb><rt>にじゅういっせいき</rt></ruby>は２００１<ruby><rb>年</rb><rt>ねん</rt></ruby>から２１００<ruby><rb>年</rb><rt>ねん</rt></ruby>まで。
+  - <ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>に<ruby><rb>１度</rb><rt>いちど</rt></ruby>しかないようなもの。
+- word: 石碑
+  descriptions:
+  - <ruby><rb>記念</rb><rt>きねん</rt></ruby>のことばを<ruby><rb>刻</rb><rt>きざ</rt></ruby>んで<ruby><rb>建</rb><rt>た</rt></ruby>てた<ruby><rb>石</rb><rt>いし</rt></ruby>。
+  - <ruby><rb>墓</rb><rt>はか</rt></ruby>に<ruby><rb>建</rb><rt>た</rt></ruby>てる<ruby><rb>石</rb><rt>いし</rt></ruby>。<ruby><rb>墓石</rb><rt>はかいし</rt></ruby>。
+- word: 様子
+  descriptions:
+  - ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。
+  - <ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。
+  - そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。
+  - わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011205151000/k10011205151000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/31/ユネスコ世界の記憶に朝鮮通信使と上野三碑
+...

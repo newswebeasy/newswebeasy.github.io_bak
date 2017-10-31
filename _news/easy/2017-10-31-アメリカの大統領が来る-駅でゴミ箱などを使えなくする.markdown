@@ -1,0 +1,60 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011205101000
+last_modified_at: '2017-10-31T17:50:00+09:00'
+datetime: 2017年10月31日 17時50分
+description: １１月５日から７日まで、アメリカのトランプ大統領が日本に来ます。
+title: アメリカの大統領が来る　駅でゴミ箱などを使えなくする
+title_with_ruby: アメリカの<ruby>大統領<rt>だいとうりょう</rt></ruby>が<ruby>来<rt>く</rt></ruby>る　<ruby>駅<rt>えき</rt></ruby>でゴミ<ruby>箱<rt>ばこ</rt></ruby>などを<ruby>使<rt>つか</rt></ruby>えなくする
+outline: １１月５日から７日まで、アメリカのトランプ大統領が日本に来ます。
+outline_with_ruby: １１<ruby>月<rt>がつ</rt></ruby><ruby>５日<rt>いつか</rt></ruby>から<ruby>７日<rt>なのか</rt></ruby>まで、アメリカのトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/31/K10011205101_1710310536_1710310556_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/31/k10011205101000.mp3
+content_with_ruby: "<p>１１<ruby>月<rt>がつ</rt></ruby><ruby>５日<rt>いつか</rt></ruby>から<ruby>７日<rt>なのか</rt></ruby>まで、アメリカのトランプ<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>メトロは１０<ruby>月<rt>がつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>から、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>地下鉄<rt>ちかてつ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>一部<rt>いちぶ</rt></ruby></span>の<ruby>駅<rt>えき</rt></ruby>で<span\
+  \ style=\"color: blue;\">コインロッカー</span>を<ruby>使<rt>つか</rt></ruby>うことができないようにしています。ゴミ<ruby>箱<rt>ばこ</rt></ruby>は、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>で<ruby>使<rt>つか</rt></ruby>うことができないようにします。<span\
+  \ style=\"color: blue;\">コインロッカー</span>やゴミ<ruby>箱<rt>ばこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>爆弾<rt>ばくだん</rt></ruby></span>などを<ruby>置<rt>お</rt></ruby>くことができないようにするためです。</p>\n\
+  <p><ruby>駅<rt>えき</rt></ruby>にいた<ruby>男性<rt>だんせい</rt></ruby>は「<span style=\"color:\
+  \ blue;\">テロ</span>が<span style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こら</span>ないようにするためには、<ruby>不便<rt>ふべん</rt></ruby>でも<span\
+  \ style=\"color: blue;\">しかたがない</span>と<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>も１１<ruby>月<rt>がつ</rt></ruby><ruby>４日<rt>よっか</rt></ruby>から、<ruby>東京<rt>とうきょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>一部<rt>いちぶ</rt></ruby></span>の<ruby>駅<rt>えき</rt></ruby>で<span\
+  \ style=\"color: blue;\">コインロッカー</span>やゴミ<ruby>箱<rt>ばこ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うことを<span\
+  \ style=\"color: blue;\"><ruby>禁止<rt>きんし</rt></ruby></span>します。</p>\n<p><ruby>東京<rt>とうきょう</rt></ruby>メトロやＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>は、<ruby>駅<rt>えき</rt></ruby>や<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>危険<rt>きけん</rt></ruby>がないかどうかチェックを<ruby>厳<rt>きび</rt></ruby>しくします。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 一部
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: コインロッカー
+  descriptions:
+  - （<ruby><rb>駅</rb><rt>えき</rt></ruby>などに<ruby><rb>備</rb><rt>そな</rt></ruby>えてある）コインを<ruby><rb>入</rb><rt>い</rt></ruby>れて<ruby><rb>使用</rb><rt>しよう</rt></ruby>するロッカー。
+- word: 爆弾
+  descriptions:
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>火薬</rb><rt>かやく</rt></ruby>をつめて、<ruby><rb>投</rb><rt>な</rt></ruby>げたり<ruby><rb>落</rb><rt>お</rt></ruby>としたりして<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>させる<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。
+- word: テロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: 起こる
+  descriptions:
+  - <ruby><rb>始</rb><rt>はじ</rt></ruby>まる。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。
+- word: 仕方がない
+  descriptions:
+  - ほかによい<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>がない。
+  - よくない。しようがない。
+  - たまらない。
+- word: 禁止
+  descriptions:
+  - してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011205101000/k10011205101000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/31/米大統領来日で駅のロッカーゴミ箱使用禁止
+...
