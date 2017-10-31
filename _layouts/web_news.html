@@ -49,7 +49,7 @@
             <p class="caption">{{ s.caption }}</p>
             {% endif %}
             <p class="blank"></p>
-            {% elsif s.text %}
+            {% elsif s.text and s.title %}
             {% include adsense_web_content.html %}
             <p class="blank"></p>
             {% endif %}
@@ -63,7 +63,7 @@
             <p class="caption">{{ s.caption }}</p>
             {% endif %}
             <p class="blank"></p>
-            {% elsif s.text %}
+            {% elsif s.text and s.title  %}
             {% include adsense_web_content.html %}
             <p class="blank"></p>
             {% endif %}
