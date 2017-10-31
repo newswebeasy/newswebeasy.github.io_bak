@@ -1,0 +1,49 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011203251000
+last_modified_at: '2017-10-31T12:30:00+09:00'
+datetime: 2017年10月31日 12時30分
+description: 群馬県大泉町は人口４万２０００人で、この中の４０００人以上が日系ブラジル人などのブラジル人です。
+title: ブラジル人が多い群馬県大泉町でサンバを楽しむイベント
+title_with_ruby: ブラジル<ruby>人<rt>じん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い<ruby>群馬県<rt>ぐんまけん</rt></ruby><ruby>大泉町<rt>おおいずみまち</rt></ruby>でサンバを<ruby>楽<rt>たの</rt></ruby>しむイベント
+outline: 群馬県大泉町は人口４万２０００人で、この中の４０００人以上が日系ブラジル人などのブラジル人です。
+outline_with_ruby: <ruby>群馬県<rt>ぐんまけん</rt></ruby><ruby>大泉町<rt>おおいずみまち</rt></ruby>は<ruby>人口<rt>じんこう</rt></ruby>４<ruby>万<rt>まん</rt></ruby>２０００<ruby>人<rt>にん</rt></ruby>で、この<ruby>中<rt>なか</rt></ruby>の４０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>日系<rt>にっけい</rt></ruby>ブラジル<ruby>人<rt>じん</rt></ruby>などのブラジル<ruby>人<rt>じん</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/29/K10011203251_1710291949_1710291959_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/31/k10011203251000.mp3
+content_with_ruby: "<p><ruby>群馬県<rt>ぐんまけん</rt></ruby><ruby>大泉町<rt>おおいずみまち</rt></ruby>は<ruby>人口<rt>じんこう</rt></ruby>４<ruby>万<rt>まん</rt></ruby>２０００<ruby>人<rt>にん</rt></ruby>で、この<ruby>中<rt>なか</rt></ruby>の４０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>日系<rt>にっけい</rt></ruby>ブラジル<ruby>人<rt>じん</rt></ruby>などのブラジル<ruby>人<rt>じん</rt></ruby>です。<ruby>日系<rt>にっけい</rt></ruby>ブラジル<ruby>人<rt>じん</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>親<rt>おや</rt></ruby></span>や<ruby>祖父<rt>そふ</rt></ruby>などが<ruby>日本人<rt>にっぽんじん</rt></ruby>です。</p>\n\
+  <p><ruby>大泉町<rt>おおいずみまち</rt></ruby>は<ruby>町<rt>まち</rt></ruby>のよさを<ruby>知<rt>し</rt></ruby>ってもらいたいと<ruby>考<rt>かんが</rt></ruby>えて、サンバの<ruby>音楽<rt>おんがく</rt></ruby>や<ruby>踊<rt>おど</rt></ruby>りを<ruby>楽<rt>たの</rt></ruby>しむ<span\
+  \ style=\"color: blue;\">イベント</span>を<ruby>毎年<rt>まいとし</rt></ruby><ruby>開<rt>ひら</rt></ruby>いています。<ruby>今年<rt>ことし</rt></ruby>は１０<ruby>月<rt>がつ</rt></ruby>２９<ruby>日<rt>にち</rt></ruby>に<span\
+  \ style=\"color: blue;\">イベント</span>があって、４つの<span style=\"color: blue;\">チーム</span>が<ruby>踊<rt>おど</rt></ruby>ったり<span\
+  \ style=\"color: blue;\"><ruby>演奏<rt>えんそう</rt></ruby></span>したりしました。<ruby>大泉町<rt>おおいずみまち</rt></ruby>の<ruby>日系<rt>にっけい</rt></ruby>ブラジル<ruby>人<rt>じん</rt></ruby>たちが<ruby>作<rt>つく</rt></ruby>った<span\
+  \ style=\"color: blue;\">チーム</span>も、<ruby>美<rt>うつく</rt></ruby>しい<span style=\"\
+  color: blue;\"><ruby>衣装<rt>いしょう</rt></ruby></span>でサンバを<ruby>踊<rt>おど</rt></ruby>りました。</p>\n\
+  <p><ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>女性<rt>じょせい</rt></ruby>は「<ruby>楽<rt>たの</rt></ruby>しい<ruby>音楽<rt>おんがく</rt></ruby>で、<ruby>私<rt>わたし</rt></ruby>も<ruby>体<rt>からだ</rt></ruby>が<ruby>動<rt>うご</rt></ruby>きそうになりました。<ruby>踊<rt>おど</rt></ruby>りを<ruby>近<rt>ちか</rt></ruby>くで<ruby>見<rt>み</rt></ruby>ることができてよかったです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>日系<rt>にっけい</rt></ruby>ブラジル<ruby>人<rt>じん</rt></ruby>の<span style=\"color:\
+  \ blue;\">チーム</span>の<ruby>角田<rt>かくた</rt></ruby>ルミさんは「<ruby>台風<rt>たいふう</rt></ruby>が<ruby>心配<rt>しんぱい</rt></ruby>でしたが、<span\
+  \ style=\"color: blue;\">イベント</span>ができてよかったです。みなさんが<ruby>喜<rt>よろこ</rt></ruby>んでいて、うれしくなりました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 親
+  descriptions:
+  - <ruby><rb>父</rb><rt>ちち</rt></ruby>や<ruby><rb>母</rb><rt>はは</rt></ruby>。<ruby><rb>両親</rb><rt>りょうしん</rt></ruby>。
+  - <ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>をうんだもの。
+  - トランプやかるたなどの<ruby><rb>遊</rb><rt>あそ</rt></ruby>びで、カードを<ruby><rb>配</rb><rt>くば</rt></ruby>る<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となるもの。<ruby><rb>大</rb><rt>おお</rt></ruby>きいもの。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 演奏
+  descriptions:
+  - <ruby><rb>楽器</rb><rt>がっき</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って、<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>をかなでること。
+- word: 衣装
+  descriptions:
+  - <ruby><rb>着物</rb><rt>きもの</rt></ruby>。<ruby><rb>衣服</rb><rt>いふく</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011203251000/k10011203251000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/29/ブラジルのサンバ楽しむイベント-群馬-大泉町
+...

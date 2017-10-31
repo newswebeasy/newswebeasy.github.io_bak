@@ -1,0 +1,67 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011200331000
+last_modified_at: '2017-10-31T12:30:00+09:00'
+datetime: 2017年10月31日 12時30分
+description: ２８日、東京の市ヶ谷に「東京アニメセンター」がオープンしました。
+title: アニメの文化を伝える「東京アニメセンター」ができる
+title_with_ruby: アニメの<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>える「<ruby>東京<rt>とうきょう</rt></ruby>アニメセンター」ができる
+outline: ２８日、東京の市ヶ谷に「東京アニメセンター」がオープンしました。
+outline_with_ruby: ２８<ruby>日<rt>にち</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>市ヶ谷<rt>いちがや</rt></ruby>に「<ruby>東京<rt>とうきょう</rt></ruby>アニメセンター」がオープンしました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/27/K10011200331_1710271915_1710271936_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/10/31/k10011200331000.mp3
+content_with_ruby: "<p>２８<ruby>日<rt>にち</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>市ヶ谷<rt>いちがや</rt></ruby>に「<ruby>東京<rt>とうきょう</rt></ruby>アニメセンター」が<span\
+  \ style=\"color: blue;\">オープン</span>しました。<span style=\"color: blue;\">アニメ</span>の<ruby>会社<rt>かいしゃ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>と<span style=\"color:\
+  \ blue;\"><ruby>印刷<rt>いんさつ</rt></ruby></span><ruby>会社<rt>がいしゃ</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\">アニメ</span>をもっと<ruby>知<rt>し</rt></ruby>ってほしいと<ruby>考<rt>かんが</rt></ruby>えてつくりました。</p>\n\
+  <p>このセンターでは、<span style=\"color: blue;\">アニメ</span>の<span style=\"color: blue;\"\
+  >キャラクター</span>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ることができます。<ruby>昔<rt>むかし</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>があった<span style=\"color:\
+  \ blue;\">アニメ</span>を<ruby>作<rt>つく</rt></ruby>るときに<ruby>使<rt>つか</rt></ruby>った<ruby>絵<rt>え</rt></ruby>を<ruby>見<rt>み</rt></ruby>ることもできます。<span\
+  \ style=\"color: blue;\">アニメ</span>や<ruby>漫画<rt>まんが</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ることに<ruby>興味<rt>きょうみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってもらうため、<ruby>絵<rt>え</rt></ruby>をかくときに<ruby>使<rt>つか</rt></ruby>う<ruby>新<rt>あたら</rt></ruby>しい<ruby>機械<rt>きかい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってみる<span\
+  \ style=\"color: blue;\">コーナー</span>もあります。<span style=\"color: blue;\">アニメ</span>を<ruby>作<rt>つく</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>を<ruby>育<rt>そだ</rt></ruby>てるため、<span\
+  \ style=\"color: blue;\">プロ</span>の<ruby>人<rt>ひと</rt></ruby>がインターネットで<ruby>絵<rt>え</rt></ruby>のかき<ruby>方<rt>かた</rt></ruby>などを<ruby>教<rt>おし</rt></ruby>える<ruby>講義<rt>こうぎ</rt></ruby>も<ruby>行<rt>おこな</rt></ruby>うことにしています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>印刷<rt>いんさつ</rt></ruby></span><ruby>会社<rt>がいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\">アニメ</span>は<ruby>外国<rt>がいこく</rt></ruby>でも<span style=\"\
+  color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>があります。このセンターから<span style=\"color:\
+  \ blue;\">アニメ</span>の<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えたいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: アニメーション
+  descriptions:
+  - かいた<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>を、<ruby><rb>動</rb><rt>うご</rt></ruby>きに<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>撮影</rb><rt>さつえい</rt></ruby>し、それを<ruby><rb>映</rb><rt>うつ</rt></ruby>して<ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>動</rb><rt>うご</rt></ruby>いているように<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>映画</rb><rt>えいが</rt></ruby>。<ruby><rb>動画</rb><rt>どうが</rt></ruby>。アニメ。
+- word: オープン
+  descriptions:
+  - <ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。
+  - かくしだてをしないようす。
+  - おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 印刷
+  descriptions:
+  - <ruby><rb>文字</rb><rt>もじ</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>などを<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>版</rb><rt>はん</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>印刷機</rb><rt>いんさつき</rt></ruby>でインクをつけて<ruby><rb>同</rb><rt>おな</rt></ruby>じものをたくさん<ruby><rb>刷</rb><rt>す</rt></ruby>ること。
+- word: キャラクター
+  descriptions:
+  - <ruby><rb>性格</rb><rt>せいかく</rt></ruby>。<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>味</rb><rt>あじ</rt></ruby>。
+  - まんが・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>劇</rb><rt>げき</rt></ruby>などに<ruby><rb>出</rb><rt>で</rt></ruby>てくる<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: コーナー
+  descriptions:
+  - （<ruby><rb>物</rb><rt>もの</rt></ruby>の）すみ。
+  - <ruby><rb>競走</rb><rt>きょうそう</rt></ruby>のコースで、<ruby><rb>曲</rb><rt>ま</rt></ruby>がり<ruby><rb>角</rb><rt>かど</rt></ruby>。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、ホームベースの<ruby><rb>角</rb><rt>かど</rt></ruby>。
+  - ボクシングなどで、<ruby><rb>四角</rb><rt>しかく</rt></ruby>いリングのすみ。
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>展示</rb><rt>てんじ</rt></ruby>したりするために、<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: プロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。
+  - 「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011200331000/k10011200331000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/27/クールジャパン-アニメ文化の拠点-完成
+...
