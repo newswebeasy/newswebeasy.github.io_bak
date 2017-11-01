@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body class="zh_CN mm_appmsg">
+  <div class="rich_media">
+    <div class="rich_media_inner">
+
+      <div class="rich_media_area_primary">
+
+        <div>
+          <h2 class="rich_media_title">{{ page.title }}</h2>
+
+          <div class="rich_media_meta_list">
+            <em class="rich_media_meta rich_media_meta_text">音声再生</em>
+            <a class="rich_media_meta rich_media_meta_link rich_media_meta_nickname" href="/">NewsWebEasy</a>
+          </div>
+
+          <div class="rich_media_content">
+
+            <p class="blank"></p>
+            <p><audio id="player" class="fullwidth" controls autoplay></audio></p>
+            <p class="blank"></p>
+
+            {% assign newslist = site.news | sort: "last_modified_at" | reverse %}
+            <script type="text/javascript">
+              var cur = -1;
+              var urls = [
+              {% assign c = 0 %}
+              {% for post in newslist limit: 50 %}
+              {% if post.categories == page.categories and post.voice_url %}
+              '{{ post.voice_url }}',
+              {% assign c = c | plus: 1 %}
+              {% if c >= 5 %}
+              {% break %}
+              {% endif %}
+              {% endif %}
+              {% endfor %} false
+              ];
+
+              urls.pop();
+              var player = document.getElementById('player');
+
+              player.onended = function() {
+                var i = (cur + 1) % urls.length;
+                play(i);
+              }
+
+              function play(i) {
+                if (i != cur) {
+                  var last = cur;
+                  cur = i;
+                  player.src = urls[cur];
+                  player.load();
+                  player.play();
+
+                  var l = document.getElementsByClassName('playing-icon');
+                  if (last >= 0) {
+                    l[last].classList.remove("playing");
+                  }
+                  l[cur].classList.add("playing");
+                }
+              }
+            </script>
+            <ul>
+              {% assign c = 0 %}
+              {% for post in newslist limit: 50 %}
+              {% if post.categories == page.categories and post.voice_url %}
+              <li class="card">
+                <p><span class="playing-icon"></span><a href="#" onclick="play({{ c }});return false;">{% if page.categories contains 'easy' %}{{ post.title_with_ruby }}{% else %}{{ post.title }}{% endif %}</a>　[<a style="font-size: 0.8em" href="{{ post.url }}">テキスト</a>]</p>
+              </li>
+              {% assign c = c | plus: 1 %}
+              {% if c >= 5 %}
+              {% break %}
+              {% endif %}
+              {% endif %}
+              {% endfor %}
+            </ul>
+            <script type="text/javascript">
+              play(0);
+            </script>
+
+            <p><img class="fullwidth" data-type="gif" src="/assets/qrcode.gif" data-ratio="0.5064308681672026" data-w="622" /></p>
+          </div>
+
+          <div class="ct_mpda_wrp">
+            <!-- js_sponsor_ad_area -->
+          </div>
+        </div>
+
+        <div class="rich_media_tool">
+          {% unless page.categories contains 'easy' %}
+          <a class="media_tool_meta meta_primary" href="/news/easy/playlist">イージーニュース</a>
+          {% endunless %}
+          {% unless page.categories contains 'web' %}
+          <a class="media_tool_meta meta_primary" href="/news/web/playlist"><ruby>普通<rt>ふつう</rt></ruby>のニュース</a>
+          {% endunless %}
+        </div>
+      </div>
+
+      <div class="rich_media_area_extra">
+        <div class="mpda_bottom_container">
+            <!-- js_sponsor_ad_area -->
+        </div>
+      </div>
+
+    </div>
+  </div>
+</body>
+
+</html>
