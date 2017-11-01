@@ -1,0 +1,89 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011204471000
+last_modified_at: '2017-11-01T12:30:00+09:00'
+datetime: 2017年11月01日 12時30分
+description: 世界中でテロを続けているＩＳ＝イスラミックステートは、シリアのラッカを支配していました。
+title: 日本人の看護師「ラッカのために支援を続けてほしい」
+title_with_ruby: <ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>看護師<rt>かんごし</rt></ruby>「ラッカのために<ruby>支援<rt>しえん</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けてほしい」
+outline: 世界中でテロを続けているＩＳ＝イスラミックステートは、シリアのラッカを支配していました。
+outline_with_ruby: <ruby>世界中<rt>せかいじゅう</rt></ruby>でテロを<ruby>続<rt>つづ</rt></ruby>けているＩＳ＝イスラミックステートは、シリアのラッカを<ruby>支配<rt>しはい</rt></ruby>していました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/30/K10011204471_1710301827_1710302016_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/11/01/k10011204471000.mp3
+content_with_ruby: "<p><ruby>世界中<rt>せかいじゅう</rt></ruby>で<span style=\"color: blue;\"\
+  >テロ</span>を<ruby>続<rt>つづ</rt></ruby>けているＩＳ＝イスラミックステートは、シリアのラッカを<span style=\"color:\
+  \ blue;\"><ruby>支配<rt>しはい</rt></ruby></span>していました。シリア<ruby>民主軍<rt>みんしゅぐん</rt></ruby>はＩＳと<span\
+  \ style=\"color: blue;\"><ruby>戦<rt>たたか</rt></ruby>い</span>を<ruby>続<rt>つづ</rt></ruby>けて、１０<ruby>月<rt>がつ</rt></ruby>にＩＳからラッカを<span\
+  \ style=\"color: blue;\"><ruby>取<rt>と</rt></ruby>り<ruby>戻<rt>もど</rt></ruby>し</span>ました。</p>\n\
+  <p><ruby>日本人<rt>にっぽんじん</rt></ruby>の<span style=\"color: blue;\"><ruby>看護師<rt>かんごし</rt></ruby></span>の<ruby>白川<rt>しらかわ</rt></ruby><ruby>優子<rt>ゆうこ</rt></ruby>さんは<ruby>今年<rt>ことし</rt></ruby>７<ruby>月<rt>がつ</rt></ruby>〜９<ruby>月<rt>がつ</rt></ruby>、ラッカの<ruby>近<rt>ちか</rt></ruby>くの<ruby>病院<rt>びょういん</rt></ruby>に<ruby>行<rt>い</rt></ruby>っていました。<ruby>白川<rt>しらかわ</rt></ruby>さんは、<span\
+  \ style=\"color: blue;\"><ruby>国際的<rt>こくさいてき</rt></ruby></span>な<span style=\"color:\
+  \ blue;\">ＮＧＯ</span>の「<ruby>国境<rt>こっきょう</rt></ruby>なき<ruby>医師団<rt>いしだん</rt></ruby>」の<span\
+  \ style=\"color: blue;\">メンバー</span>です。</p>\n<p><ruby>白川<rt>しらかわ</rt></ruby>さんによると、<span\
+  \ style=\"color: blue;\"><ruby>戦<rt>たたか</rt></ruby>い</span>が<ruby>続<rt>つづ</rt></ruby>くラッカから<ruby>逃<rt>に</rt></ruby>げようとした<ruby>人<rt>ひと</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、ＩＳが<span\
+  \ style=\"color: blue;\"><ruby>地面<rt>じめん</rt></ruby></span>に<span style=\"color:\
+  \ blue;\"><ruby>埋<rt>う</rt></ruby>め</span>た<span style=\"color: blue;\"><ruby>爆弾<rt>ばくだん</rt></ruby></span>でけがをして、<ruby>手<rt>て</rt></ruby>や<ruby>足<rt>あし</rt></ruby>をなくした<ruby>人<rt>ひと</rt></ruby>が<ruby>大勢<rt>おおぜい</rt></ruby>いました。</p>\n\
+  <p>ラッカには、<span style=\"color: blue;\"><ruby>地面<rt>じめん</rt></ruby></span>に<span style=\"\
+  color: blue;\"><ruby>埋<rt>う</rt></ruby>め</span>た<span style=\"color: blue;\"><ruby>爆弾<rt>ばくだん</rt></ruby></span>や、<ruby>空<rt>そら</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>攻撃<rt>こうげき</rt></ruby></span>があったとき<span style=\"\
+  color: blue;\"><ruby>爆発<rt>ばくはつ</rt></ruby></span>しなかった<span style=\"color: blue;\"\
+  ><ruby>爆弾<rt>ばくだん</rt></ruby></span>などが<ruby>今<rt>いま</rt></ruby>も<ruby>残<rt>のこ</rt></ruby>っています。<ruby>白川<rt>しらかわ</rt></ruby>さんは、<span\
+  \ style=\"color: blue;\"><ruby>爆弾<rt>ばくだん</rt></ruby></span>などを<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>片<rt>かた</rt></ruby>づけるために、<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>支援<rt>しえん</rt></ruby></span>を<ruby>続<rt>つづ</rt></ruby>けてほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 看護師
+  descriptions:
+  - <ruby><rb>医者</rb><rt>いしゃ</rt></ruby>の<ruby><rb>手助</rb><rt>てだす</rt></ruby>けや、<ruby><rb>病人</rb><rt>びょうにん</rt></ruby>の<ruby><rb>世話</rb><rt>せわ</rt></ruby>を<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 支援
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>をそえて<ruby><rb>助</rb><rt>たす</rt></ruby>けること。
+- word: テロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: 支配
+  descriptions:
+  - ある<ruby><rb>土地</rb><rt>とち</rt></ruby>やそこに<ruby><rb>住</rb><rt>す</rt></ruby>む<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>めること。
+  - ものごとを<ruby><rb>思</rb><rt>おも</rt></ruby>うように<ruby><rb>動</rb><rt>うご</rt></ruby>かすこと。
+- word: 戦い
+  descriptions:
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>うこと。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。<ruby><rb>争</rb><rt>あらそ</rt></ruby>い。
+  - <ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 取り戻す
+  descriptions:
+  - <ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>返</rb><rt>かえ</rt></ruby>す。
+  - <ruby><rb>回復</rb><rt>かいふく</rt></ruby>する。
+- word: 国際的
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>に<ruby><rb>関係</rb><rt>かんけい</rt></ruby>のあるようす。
+- word: NGO
+  descriptions:
+  - <ruby><rb>貧困</rb><rt>ひんこん</rt></ruby>・<ruby><rb>飢餓</rb><rt>きが</rt></ruby>・<ruby><rb>難民</rb><rt>なんみん</rt></ruby>・<ruby><rb>環境</rb><rt>かんきょう</rt></ruby>などの<ruby><rb>問題</rb><rt>もんだい</rt></ruby>に<ruby><rb>国境</rb><rt>こっきょう</rt></ruby>をこえて<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>組</rb><rt>く</rt></ruby>む、<ruby><rb>民間</rb><rt>みんかん</rt></ruby>の<ruby><rb>援助団体</rb><rt>えんじょだんたい</rt></ruby>のこと。
+- word: メンバー
+  descriptions:
+  - ある<ruby><rb>会</rb><rt>かい</rt></ruby>や<ruby><rb>仲間</rb><rt>なかま</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>会員</rb><rt>かいいん</rt></ruby>。
+- word: 地面
+  descriptions:
+  - <ruby><rb>土地</rb><rt>とち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>土</rb><rt>つち</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>。<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>。<ruby><rb>地</rb><rt>じ</rt></ruby>べた。
+  - <ruby><rb>土地</rb><rt>とち</rt></ruby>。<ruby><rb>地所</rb><rt>じしょ</rt></ruby>。
+- word: 埋める
+  descriptions:
+  - <ruby><rb>穴</rb><rt>あな</rt></ruby>をほって<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>土</rb><rt>つち</rt></ruby>や<ruby><rb>砂</rb><rt>すな</rt></ruby>をかぶせる。
+  - ふさいで<ruby><rb>平</rb><rt>たい</rt></ruby>らにする。
+  - すき<ruby><rb>間</rb><rt>ま</rt></ruby>なく、いっぱいにする。
+  - お<ruby><rb>湯</rb><rt>ゆ</rt></ruby>に<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて、ぬるくする。
+  - <ruby><rb>足</rb><rt>た</rt></ruby>りない<ruby><rb>分</rb><rt>ぶん</rt></ruby>を<ruby><rb>補</rb><rt>おぎな</rt></ruby>う。
+- word: 爆弾
+  descriptions:
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>火薬</rb><rt>かやく</rt></ruby>をつめて、<ruby><rb>投</rb><rt>な</rt></ruby>げたり<ruby><rb>落</rb><rt>お</rt></ruby>としたりして<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>させる<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。
+- word: 攻撃
+  descriptions:
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>攻</rb><rt>せ</rt></ruby>めること。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>欠点</rb><rt>けってん</rt></ruby>や<ruby><rb>誤</rb><rt>あやま</rt></ruby>りを<ruby><rb>責</rb><rt>せ</rt></ruby>めること。
+- word: 爆発
+  descriptions:
+  - <ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>破裂</rb><rt>はれつ</rt></ruby>すること。
+  - おさえていた<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが、<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>出</rb><rt>で</rt></ruby>ること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011204471000/k10011204471000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/30/日本人看護師-ラッカへの継続支援訴える
+...

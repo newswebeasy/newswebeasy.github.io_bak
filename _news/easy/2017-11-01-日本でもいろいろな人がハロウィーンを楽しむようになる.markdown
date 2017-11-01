@@ -1,0 +1,71 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011206121000
+last_modified_at: '2017-11-01T17:30:00+09:00'
+datetime: 2017年11月01日 17時30分
+description: １０月３１日のハロウィーンは、日本では子どもや若い人だけが楽しむイベントでした。
+title: 日本でもいろいろな人がハロウィーンを楽しむようになる
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>でもいろいろな<ruby>人<rt>ひと</rt></ruby>がハロウィーンを<ruby>楽<rt>たの</rt></ruby>しむようになる
+outline: １０月３１日のハロウィーンは、日本では子どもや若い人だけが楽しむイベントでした。
+outline_with_ruby: １０<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>のハロウィーンは、<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>子<rt>こ</rt></ruby>どもや<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>だけが<ruby>楽<rt>たの</rt></ruby>しむイベントでした。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/31/K10011206121_1710311903_1710311918_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/11/01/k10011206121000.mp3
+content_with_ruby: "<p>１０<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>の<span\
+  \ style=\"color: blue;\">ハロウィーン</span>は、<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>子<rt>こ</rt></ruby>どもや<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>だけが<ruby>楽<rt>たの</rt></ruby>しむ<span\
+  \ style=\"color: blue;\">イベント</span>でした。しかし<ruby>最近<rt>さいきん</rt></ruby>は、いろいろな<ruby>人<rt>ひと</rt></ruby>が<ruby>毎年<rt>まいとし</rt></ruby><ruby>秋<rt>あき</rt></ruby>に<ruby>楽<rt>たの</rt></ruby>しむ<span\
+  \ style=\"color: blue;\">イベント</span>になっています。</p>\n<p><ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>銀座<rt>ぎんざ</rt></ruby>にある<ruby>会社<rt>かいしゃ</rt></ruby>では３１<ruby>日<rt>にち</rt></ruby>、５０<ruby>人<rt>にん</rt></ruby>ぐらいの<span\
+  \ style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>が、<span style=\"color:\
+  \ blue;\">お<ruby>化<rt>ば</rt></ruby>け</span>や<span style=\"color: blue;\">アニメ</span>の<span\
+  \ style=\"color: blue;\">キャラクター</span>などの<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>て<ruby>仕事<rt>しごと</rt></ruby>をしました。</p>\n\
+  <p><ruby>福岡県<rt>ふくおかけん</rt></ruby><ruby>福岡市<rt>ふくおかし</rt></ruby>にあるタクシーの<ruby>会社<rt>かいしゃ</rt></ruby>は「ハロウィーンタクシー」という<ruby>特別<rt>とくべつ</rt></ruby>なタクシーを<ruby>運転<rt>うんてん</rt></ruby>しました。<ruby>運転手<rt>うんてんしゅ</rt></ruby>は<span\
+  \ style=\"color: blue;\">お<ruby>化<rt>ば</rt></ruby>け</span>の<span style=\"color:\
+  \ blue;\"><ruby>化粧<rt>けしょう</rt></ruby></span>をしています。</p>\n<p><span style=\"color:\
+  \ blue;\"><ruby>記念日<rt>きねんび</rt></ruby></span>の<ruby>研究<rt>けんきゅう</rt></ruby>などをしている<ruby>日本記念日協会<rt>にほんきねんびきょうかい</rt></ruby>は、<span\
+  \ style=\"color: blue;\">ハロウィーン</span>に<ruby>関係<rt>かんけい</rt></ruby>がある<ruby>品物<rt>しなもの</rt></ruby>やレストランなどの<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げ</span>がどのくらいになるか<span\
+  \ style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>しています。<ruby>今年<rt>ことし</rt></ruby>は、<span\
+  \ style=\"color: blue;\">バレンタインデー</span>と<ruby>同<rt>おな</rt></ruby>じぐらいの１３０５<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>で、<ruby>母<rt>はは</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>の１１３５<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>より<ruby>多<rt>おお</rt></ruby>くなると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ハロウィーン
+  descriptions:
+  - <ruby><rb>聖人</rb><rt>せいじん</rt></ruby>を<ruby><rb>記念</rb><rt>きねん</rt></ruby>するキリスト<ruby><rb>教</rb><rt>きょう</rt></ruby>の<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>（<ruby><rb>十一月</rb><rt>じゅういちがつ</rt></ruby><ruby><rb>一日</rb><rt>ついたち</rt></ruby>）の<ruby><rb>前夜祭</rb><rt>ぜんやさい</rt></ruby>。アメリカなどではカボチャをくりぬいてかざったり、<ruby><rb>子</rb><rt>こ</rt></ruby>どもたちが<ruby><rb>仮装</rb><rt>かそう</rt></ruby>して<ruby><rb>家々</rb><rt>いえいえ</rt></ruby>を<ruby><rb>回</rb><rt>まわ</rt></ruby>ったりする。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 社員
+  descriptions:
+  - その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。
+- word: お化け
+  descriptions:
+  - <ruby><rb>化</rb><rt>ば</rt></ruby>け<ruby><rb>物</rb><rt>もの</rt></ruby>。ゆうれい。
+- word: アニメーション
+  descriptions:
+  - かいた<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>を、<ruby><rb>動</rb><rt>うご</rt></ruby>きに<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>撮影</rb><rt>さつえい</rt></ruby>し、それを<ruby><rb>映</rb><rt>うつ</rt></ruby>して<ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>動</rb><rt>うご</rt></ruby>いているように<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>映画</rb><rt>えいが</rt></ruby>。<ruby><rb>動画</rb><rt>どうが</rt></ruby>。アニメ。
+- word: キャラクター
+  descriptions:
+  - <ruby><rb>性格</rb><rt>せいかく</rt></ruby>。<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>味</rb><rt>あじ</rt></ruby>。
+  - まんが・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>劇</rb><rt>げき</rt></ruby>などに<ruby><rb>出</rb><rt>で</rt></ruby>てくる<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。
+- word: 化粧
+  descriptions:
+  - おしろいや、<ruby><rb>紅</rb><rt>べに</rt></ruby>などをつけて、<ruby><rb>顔</rb><rt>かお</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+  - <ruby><rb>外側</rb><rt>そとがわ</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+- word: 記念日
+  descriptions:
+  - あるできごとを<ruby><rb>記念</rb><rt>きねん</rt></ruby>する<ruby><rb>日</rb><rt>ひ</rt></ruby>。
+- word: 売り上げ
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>って<ruby><rb>得</rb><rt>え</rt></ruby>たお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 計算
+  descriptions:
+  - <ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。
+  - <ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。
+- word: バレンタインデー
+  descriptions:
+  - キリスト<ruby><rb>教</rb><rt>きょう</rt></ruby>の<ruby><rb>聖人</rb><rt>せいじん</rt></ruby>バレンタインを<ruby><rb>記念</rb><rt>きねん</rt></ruby>する<ruby><rb>日</rb><rt>ひ</rt></ruby>。<ruby><rb>二月</rb><rt>にがつ</rt></ruby><ruby><rb>十四日</rb><rt>じゅうよっか</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では<ruby><rb>女性</rb><rt>じょせい</rt></ruby>から<ruby><rb>男性</rb><rt>だんせい</rt></ruby>へ、チョコレートなどのプレゼントをおくる<ruby><rb>習慣</rb><rt>しゅうかん</rt></ruby>がある。
+source_url: http://www3.nhk.or.jp/news/easy/k10011206121000/k10011206121000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/31/結構盛り上がってますハロウィーン
+...

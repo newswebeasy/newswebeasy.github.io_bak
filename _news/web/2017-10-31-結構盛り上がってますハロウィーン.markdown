@@ -40,4 +40,5 @@ body:
   image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/31/K10011206121_1710311903_1710311918_01_08.jpg
 - text: ほんの数年前まで、ハロウィーンといえば一部の若者だけが盛り上がるイベントというイメージもありましたが、今や秋の恒例行事として定着しつつあります。地域でも会社でも楽しめるハロウィーン。その盛り上がりは今後も続きそうです。
 source_url: http://www3.nhk.or.jp/news/html/20171031/k10011206121000.html
+easy_news_url: https://newswebeasy.github.io/news/easy/2017/11/01/日本でもいろいろな人がハロウィーンを楽しむようになる
 ...

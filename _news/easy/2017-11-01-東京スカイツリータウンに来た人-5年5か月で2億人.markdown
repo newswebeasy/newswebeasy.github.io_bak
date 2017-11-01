@@ -1,0 +1,42 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011203781000
+last_modified_at: '2017-11-01T12:30:00+09:00'
+datetime: 2017年11月01日 12時30分
+description: 東京の墨田区にある東京スカイツリーは高さ６３４ｍのタワーで、２０１２年５月にできました。
+title: 「東京スカイツリータウン」に来た人　５年５か月で２億人
+title_with_ruby: 「<ruby>東京<rt>とうきょう</rt></ruby>スカイツリータウン」に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>　５<ruby>年<rt>ねん</rt></ruby>５か<ruby>月<rt>げつ</rt></ruby>で２<ruby>億<rt>おく</rt></ruby><ruby>人<rt>にん</rt></ruby>
+outline: 東京の墨田区にある東京スカイツリーは高さ６３４ｍのタワーで、２０１２年５月にできました。
+outline_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>墨田区<rt>すみだく</rt></ruby>にある<ruby>東京<rt>とうきょう</rt></ruby>スカイツリーは<ruby>高<rt>たか</rt></ruby>さ６３４ｍのタワーで、２０１２<ruby>年<rt>ねん</rt></ruby>５<ruby>月<rt>がつ</rt></ruby>にできました。
+image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/30/K10011203781_1710301047_1710301059_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/11/01/k10011203781000.mp3
+content_with_ruby: "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>墨田区<rt>すみだく</rt></ruby>にある<ruby>東京<rt>とうきょう</rt></ruby>スカイツリーは<ruby>高<rt>たか</rt></ruby>さ６３４ｍの<span\
+  \ style=\"color: blue;\">タワー</span>で、２０１２<ruby>年<rt>ねん</rt></ruby>５<ruby>月<rt>がつ</rt></ruby>にできました。<ruby>東京<rt>とうきょう</rt></ruby>スカイツリーの<ruby>周<rt>まわ</rt></ruby>りには、レストランなど３００<ruby>以上<rt>いじょう</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>や、<span\
+  \ style=\"color: blue;\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>などがある「<ruby>東京<rt>とうきょう</rt></ruby>スカイツリータウン」があります。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>スカイツリータウンは、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちにも<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>があります。１０<ruby>月<rt>がつ</rt></ruby><ruby>８日<rt>ようか</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>スカイツリータウンに<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>が２<ruby>億<rt>おく</rt></ruby><ruby>人<rt>にん</rt></ruby>になりました。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>スカイツリーの<span style=\"color: blue;\"><ruby>展望台<rt>てんぼうだい</rt></ruby></span>に<ruby>登<rt>のぼ</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>は２７００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>でした。<ruby>会社<rt>かいしゃ</rt></ruby>は、いろいろな<span\
+  \ style=\"color: blue;\">イベント</span>を<ruby>行<rt>おこな</rt></ruby>って、もっと<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>展望台<rt>てんぼうだい</rt></ruby></span>に<ruby>登<rt>のぼ</rt></ruby>ってほしいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: タワー
+  descriptions:
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。<ruby><rb>塔</rb><rt>とう</rt></ruby>。
+- word: 水族館
+  descriptions:
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>にすむ<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>め、ガラス<ruby><rb>張</rb><rt>ば</rt></ruby>りの<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>水槽</rb><rt>すいそう</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れて、<ruby><rb>生</rb><rt>い</rt></ruby>きたままのようすを<ruby><rb>見</rb><rt>み</rt></ruby>せるようにした<ruby><rb>所</rb><rt>ところ</rt></ruby>。すいぞっかん。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: 展望台
+  descriptions:
+  - <ruby><rb>周囲</rb><rt>しゅうい</rt></ruby>をよく<ruby><rb>見</rb><rt>み</rt></ruby>わたすことのできる<ruby><rb>高台</rb><rt>たかだい</rt></ruby>。<ruby><rb>見晴</rb><rt>みは</rt></ruby>らし<ruby><rb>台</rb><rt>だい</rt></ruby>。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011203781000/k10011203781000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/30/東京スカイツリーの複合施設-5年5か月で来場者2億人に
+...

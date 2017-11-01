@@ -1,0 +1,49 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011206541000
+last_modified_at: '2017-11-01T17:30:00+09:00'
+datetime: 2017年11月01日 17時30分
+description: アメリカのニューヨークのマンハッタンで１０月３１日午後３時ごろ、車が自転車に乗っていた人や歩いていた人をはねました。
+title: ニューヨーク　車が自転車などをはねて８人が亡くなる
+title_with_ruby: ニューヨーク　<ruby>車<rt>くるま</rt></ruby>が<ruby>自転車<rt>じてんしゃ</rt></ruby>などをはねて８<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+outline: アメリカのニューヨークのマンハッタンで１０月３１日午後３時ごろ、車が自転車に乗っていた人や歩いていた人をはねました。
+outline_with_ruby: アメリカのニューヨークのマンハッタンで１０<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby><ruby>午後<rt>ごご</rt></ruby>３<ruby>時<rt>じ</rt></ruby>ごろ、<ruby>車<rt>くるま</rt></ruby>が<ruby>自転車<rt>じてんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>っていた<ruby>人<rt>ひと</rt></ruby>や<ruby>歩<rt>ある</rt></ruby>いていた<ruby>人<rt>ひと</rt></ruby>をはねました。
+image_url: https://newswebeasy.github.io/ja201710/news/easy/image/2017/11/01/k10011206541000.jpg
+voice_url: https://newswebeasy.github.io/ja201710/news/easy/voice/2017/11/01/k10011206541000.mp3
+content_with_ruby: "<p>アメリカのニューヨークのマンハッタンで１０<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby><ruby>午後<rt>ごご</rt></ruby>３<ruby>時<rt>じ</rt></ruby>ごろ、<ruby>車<rt>くるま</rt></ruby>が<ruby>自転車<rt>じてんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>っていた<ruby>人<rt>ひと</rt></ruby>や<ruby>歩<rt>ある</rt></ruby>いていた<ruby>人<rt>ひと</rt></ruby>を<span\
+  \ style=\"color: blue;\">はね</span>ました。<ruby>警察<rt>けいさつ</rt></ruby>によると、８<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって１１<ruby>人<rt>にん</rt></ruby>がけがをしました。</p>\n\
+  <p><ruby>警察<rt>けいさつ</rt></ruby>は、<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>していた２９<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>をすぐに<ruby>捕<rt>つか</rt></ruby>まえました。アメリカのテレビなどによると、<ruby>男<rt>おとこ</rt></ruby>はウズベキスタンから<ruby>来<rt>き</rt></ruby>てアメリカに<ruby>住<rt>す</rt></ruby>んでいました。<ruby>男<rt>おとこ</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>を<ruby>降<rt>お</rt></ruby>りたとき、<ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>で「<span\
+  \ style=\"color: blue;\"><ruby>神<rt>かみ</rt></ruby></span>は<span style=\"color: blue;\"\
+  ><ruby>偉大<rt>いだい</rt></ruby></span>だ」という<ruby>意味<rt>いみ</rt></ruby>のアラビア<ruby>語<rt>ご</rt></ruby>のことばを<ruby>言<rt>い</rt></ruby>いました。<ruby>車<rt>くるま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、<ruby>世界中<rt>せかいじゅう</rt></ruby>で<span\
+  \ style=\"color: blue;\">テロ</span>を<ruby>続<rt>つづ</rt></ruby>けているＩＳ＝イスラミックステートのためにやったという<span\
+  \ style=\"color: blue;\"><ruby>内容<rt>ないよう</rt></ruby></span>を<ruby>書<rt>か</rt></ruby>いた<ruby>紙<rt>かみ</rt></ruby>もありました。</p>\n\
+  <p>ニューヨークの<span style=\"color: blue;\"><ruby>市長<rt>しちょう</rt></ruby></span>は「これは<span\
+  \ style=\"color: blue;\">テロ</span>だ」と<ruby>言<rt>い</rt></ruby>って、<ruby>警察<rt>けいさつ</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 撥ねる
+  descriptions:
+  - はじきとばす。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>除</rb><rt>のぞ</rt></ruby>く。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>にわたす<ruby><rb>分</rb><rt>ぶん</rt></ruby>の<ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>を<ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - <ruby><rb>字</rb><rt>じ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>くとき、<ruby><rb>線</rb><rt>せん</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりをはらい<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+- word: 神
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>知恵</rb><rt>ちえ</rt></ruby>では<ruby><rb>考</rb><rt>かんが</rt></ruby>えられない、ふしぎな<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つと<ruby><rb>信</rb><rt>しん</rt></ruby>じられているもの。
+- word: 偉大
+  descriptions:
+  - たいへんすぐれて、りっぱなようす。
+- word: テロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: 内容
+  descriptions:
+  - <ruby><rb>中身</rb><rt>なかみ</rt></ruby>。
+  - <ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>や<ruby><rb>話</rb><rt>はなし</rt></ruby>によって、<ruby><rb>表</rb><rt>あらわ</rt></ruby>されたもの。
+- word: 市長
+  descriptions:
+  - <ruby><rb>市</rb><rt>し</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>し、その<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとり<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011206541000/k10011206541000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/01/NY市長会見卑劣なテロ-車突っ込み8人死亡-男を拘束
+...
