@@ -15,19 +15,26 @@ permalink: news/web/
           <div class="rich_media_content">
             <ul>
               {% assign weblist = site.news | where: "categories", "web"  | sort: "last_modified_at" | reverse %}
+              {% assign c = 0 %}
               {% for post in weblist limit: 10 %}
               <li class="card">
+                {% if post.image_url %}
+                <p><img class="fullwidth" data-s="300,640" src="{{ post.image_url }}" data-ratio="0" data-w="640" /></p>
+                {% endif %}
                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                 <div class="rich_media_meta_list">
                   <em class="rich_media_meta rich_media_meta_text">{{ post.datetime }}</em>
                 </div>
                 <div class="rich_media_content">
-                  {% if post.image_url %}
-                  <p><img class="fullwidth" data-s="300,640" src="{{ post.image_url }}" data-ratio="0" data-w="640" /></p>
-                  {% endif %}
                   <p class="summary">{{ post.summary }}</p>
                 </div>
               </li>
+              {% if c == 4 %}
+              <li class="card">
+              {% include adsense_web_footer.html %}
+              </li>
+              {% endif %}
+              {% assign c = c | plus: 1 %}
               {% endfor %}
             </ul>
 
@@ -48,7 +55,7 @@ permalink: news/web/
 
       <div class="rich_media_area_extra">
         <div class="mpda_bottom_container">
-            <!-- js_sponsor_ad_area -->
+        {% include adsense_web_footer.html %}
         </div>
       </div>
 

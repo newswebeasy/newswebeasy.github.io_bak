@@ -17,14 +17,14 @@ permalink: news/easy/
               {% assign easylist = site.news | where: "categories", "easy"  | sort: "last_modified_at" | reverse %}
               {% for post in easylist limit: 10 %}
               <li class="card">
+                {% if post.image_url %}
+                <p><img class="fullwidth" data-s="300,640" src="{{ post.image_url }}" data-ratio="0" data-w="640" /></p>
+                {% endif %}
                 <h2><a href="{{ post.url }}">{{ post.title_with_ruby }}</a></h2>
                 <div class="rich_media_meta_list">
                   <em class="rich_media_meta rich_media_meta_text">{{ post.datetime }}</em>
                 </div>
                 <div class="rich_media_content">
-                  {% if post.image_url %}
-                  <p><img class="fullwidth" data-s="300,640" src="{{ post.image_url }}" data-ratio="0" data-w="640" /></p>
-                  {% endif %}
                   {{ post.outline_with_ruby }}
                 </div>
               </li>
@@ -38,6 +38,7 @@ permalink: news/easy/
             <!-- js_sponsor_ad_area -->
           </div>
         </div>
+
         <div class="rich_media_tool">
           <a class="media_tool_meta meta_primary" href="/news/easy/playlist">すべて再生</a>
           <a class="media_tool_meta meta_primary" href="/news/web/">普通のニュース</a>
@@ -47,7 +48,7 @@ permalink: news/easy/
 
       <div class="rich_media_area_extra">
         <div class="mpda_bottom_container">
-            <!-- js_sponsor_ad_area -->
+        {% include adsense_easy.html %}
         </div>
       </div>
 
