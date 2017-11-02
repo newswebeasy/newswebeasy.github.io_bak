@@ -1,0 +1,34 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011205661000
+last_modified_at: '2017-11-02T12:30:00+09:00'
+datetime: 2017年11月02日 12時30分
+description: 和歌山県白浜町にある動物園「アドベンチャーワールド」で今年９月、ライオンの雄の赤ちゃんが同じお母さんから３匹生まれました。
+title: 和歌山県の動物園　３匹のライオンの赤ちゃんが大きくなる
+title_with_ruby: <ruby>和歌山県<rt>わかやまけん</rt></ruby>の<ruby>動物園<rt>どうぶつえん</rt></ruby>　３<ruby>匹<rt>びき</rt></ruby>のライオンの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>大<rt>おお</rt></ruby>きくなる
+outline: 和歌山県白浜町にある動物園「アドベンチャーワールド」で今年９月、ライオンの雄の赤ちゃんが同じお母さんから３匹生まれました。
+outline_with_ruby: <ruby>和歌山県<rt>わかやまけん</rt></ruby><ruby>白浜町<rt>しらはまちょう</rt></ruby>にある<ruby>動物園<rt>どうぶつえん</rt></ruby>「アドベンチャーワールド」で<ruby>今年<rt>ことし</rt></ruby>９<ruby>月<rt>がつ</rt></ruby>、ライオンの<ruby>雄<rt>おす</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>同<rt>おな</rt></ruby>じお<ruby>母<rt>かあ</rt></ruby>さんから３<ruby>匹<rt>びき</rt></ruby><ruby>生<rt>う</rt></ruby>まれました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/10/31/K10011205661_1710311448_1710311451_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/02/k10011205661000.mp3
+content_with_ruby: "<p><ruby>和歌山県<rt>わかやまけん</rt></ruby><ruby>白浜町<rt>しらはまちょう</rt></ruby>にある<ruby>動物園<rt>どうぶつえん</rt></ruby>「アドベンチャーワールド」で<ruby>今年<rt>ことし</rt></ruby>９<ruby>月<rt>がつ</rt></ruby>、<span\
+  \ style=\"color: blue;\">ライオン</span>の<span style=\"color: blue;\"><ruby>雄<rt>おす</rt></ruby></span>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>同<rt>おな</rt></ruby>じお<ruby>母<rt>かあ</rt></ruby>さんから３<ruby>匹<rt>びき</rt></ruby><ruby>生<rt>う</rt></ruby>まれました。</p>\n\
+  <p>１０<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>、<ruby>動物園<rt>どうぶつえん</rt></ruby>は<span\
+  \ style=\"color: blue;\">ライオン</span>の<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>重<rt>おも</rt></ruby>さを<ruby>調<rt>しら</rt></ruby>べているところをみんなに<ruby>見<rt>み</rt></ruby>せました。３<ruby>匹<rt>びき</rt></ruby>は<ruby>生<rt>う</rt></ruby>まれたときの４<ruby>倍<rt>ばい</rt></ruby>ぐらいの５ｋｇ<ruby>以上<rt>いじょう</rt></ruby>になっていました。</p>\n\
+  <p><ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>見<rt>み</rt></ruby>た<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は「<ruby>目<rt>め</rt></ruby>が<ruby>丸<rt>まる</rt></ruby>くて、とてもかわいかったです」と<ruby>話<rt>はな</rt></ruby>していました。<ruby>動物園<rt>どうぶつえん</rt></ruby>は「<ruby>生<rt>う</rt></ruby>まれたときは<ruby>小<rt>ちい</rt></ruby>さい<ruby>猫<rt>ねこ</rt></ruby>のようでした。これからの<span\
+  \ style=\"color: blue;\"><ruby>成長<rt>せいちょう</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>ていてください」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ライオン
+  descriptions:
+  - アフリカなどの<ruby><rb>草原</rb><rt>そうげん</rt></ruby>にすむ、けもの。<ruby><rb>雄</rb><rt>おす</rt></ruby>は、<ruby><rb>長</rb><rt>なが</rt></ruby>いたてがみがある。「<ruby><rb>百獣</rb><rt>ひゃくじゅう</rt></ruby>の<ruby><rb>王</rb><rt>おう</rt></ruby>」といわれる。しし。
+- word: 雄
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>男性</rb><rt>だんせい</rt></ruby>にあたるもの。
+- word: 成長
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>が<ruby><rb>育</rb><rt>そだ</rt></ruby>って<ruby><rb>大</rb><rt>おお</rt></ruby>きくなること。
+  - ものごとが<ruby><rb>発展</rb><rt>はってん</rt></ruby>すること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011205661000/k10011205661000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/10/31/ライオンの3つ子の赤ちゃん-体重測定-和歌山-白浜町
+...

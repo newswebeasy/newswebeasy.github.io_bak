@@ -1,0 +1,48 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011206961000
+last_modified_at: '2017-11-02T17:40:00+09:00'
+datetime: 2017年11月02日 17時40分
+description: 来年２月９日から韓国のピョンチャンで冬のオリンピックが始まります。
+title: 韓国で冬のオリンピックの聖火リレーが始まる
+title_with_ruby: <ruby>韓国<rt>かんこく</rt></ruby>で<ruby>冬<rt>ふゆ</rt></ruby>のオリンピックの<ruby>聖火<rt>せいか</rt></ruby>リレーが<ruby>始<rt>はじ</rt></ruby>まる
+outline: 来年２月９日から韓国のピョンチャンで冬のオリンピックが始まります。
+outline_with_ruby: <ruby>来年<rt>らいねん</rt></ruby>２<ruby>月<rt>がつ</rt></ruby><ruby>９日<rt>ここのか</rt></ruby>から<ruby>韓国<rt>かんこく</rt></ruby>のピョンチャンで<ruby>冬<rt>ふゆ</rt></ruby>のオリンピックが<ruby>始<rt>はじ</rt></ruby>まります。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/01/K10011206961_1711011521_1711011533_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/02/k10011206961000.mp3
+content_with_ruby: "<p><ruby>来年<rt>らいねん</rt></ruby>２<ruby>月<rt>がつ</rt></ruby><ruby>９日<rt>ここのか</rt></ruby>から<ruby>韓国<rt>かんこく</rt></ruby>のピョンチャンで<ruby>冬<rt>ふゆ</rt></ruby>の<span\
+  \ style=\"color: blue;\">オリンピック</span>が<ruby>始<rt>はじ</rt></ruby>まります。１００<ruby>日<rt>にち</rt></ruby><ruby>前<rt>まえ</rt></ruby>の１１<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>、<span\
+  \ style=\"color: blue;\">オリンピック</span>の<span style=\"color: blue;\"><ruby>聖火<rt>せいか</rt></ruby></span>がギリシャから<ruby>韓国<rt>かんこく</rt></ruby>の<ruby>空港<rt>くうこう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。</p>\n\
+  <p><ruby>韓国<rt>かんこく</rt></ruby>のイ・ナギョン<ruby>首相<rt>しゅしょう</rt></ruby>が<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>走<rt>はし</rt></ruby>る<span\
+  \ style=\"color: blue;\">フィギュアスケート</span>の<span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>に<span\
+  \ style=\"color: blue;\"><ruby>聖火<rt>せいか</rt></ruby></span>を<ruby>運<rt>はこ</rt></ruby>ぶトーチを<ruby>渡<rt>わた</rt></ruby>して、<span\
+  \ style=\"color: blue;\"><ruby>聖火<rt>せいか</rt></ruby></span><span style=\"color:\
+  \ blue;\">リレー</span>が<ruby>始<rt>はじ</rt></ruby>まりました。</p>\n<p><ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby>で７５００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>ぐらいなので、<span\
+  \ style=\"color: blue;\"><ruby>聖火<rt>せいか</rt></ruby></span>を<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>人<rt>ひと</rt></ruby>は７５００<ruby>人<rt>にん</rt></ruby>にしました。<ruby>来年<rt>らいねん</rt></ruby>は２０１８<ruby>年<rt>ねん</rt></ruby>なので２０１８ｋｍを<span\
+  \ style=\"color: blue;\">リレー</span>して、<span style=\"color: blue;\">オリンピック</span>の<ruby>会場<rt>かいじょう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きます。</p>\n\
+  <p><ruby>韓国<rt>かんこく</rt></ruby>では、ピョンチャンの<span style=\"color: blue;\">オリンピック</span>に<ruby>興味<rt>きょうみ</rt></ruby>がある<ruby>人<rt>ひと</rt></ruby>はあまり<ruby>多<rt>おお</rt></ruby>くないと<ruby>言<rt>い</rt></ruby>われています。<span\
+  \ style=\"color: blue;\">オリンピック</span>の<ruby>組織委員会<rt>そしきいいんかい</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>聖火<rt>せいか</rt></ruby></span><span style=\"color:\
+  \ blue;\">リレー</span>が<ruby>始<rt>はじ</rt></ruby>まって、<ruby>興味<rt>きょうみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えてほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: 聖火
+  descriptions:
+  - <ruby><rb>神</rb><rt>かみ</rt></ruby>にささげる<ruby><rb>火</rb><rt>ひ</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、オリンピック<ruby><rb>大会</rb><rt>たいかい</rt></ruby>の<ruby><rb>期間中</rb><rt>きかんちゅう</rt></ruby>、<ruby><rb>燃</rb><rt>も</rt></ruby>やし<ruby><rb>続</rb><rt>つづ</rt></ruby>ける<ruby><rb>火</rb><rt>ひ</rt></ruby>。ギリシャのオリンピアで<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>点火</rb><rt>てんか</rt></ruby>され、<ruby><rb>会場</rb><rt>かいじょう</rt></ruby>まで<ruby><rb>聖火</rb><rt>せいか</rt></ruby>リレーで<ruby><rb>運</rb><rt>はこ</rt></ruby>ばれる。
+- word: リレー
+  descriptions:
+  - <ruby><rb>順々</rb><rt>じゅんじゅん</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>えわたしていくこと。
+  - <ruby><rb>陸上競技</rb><rt>りくじょうきょうぎ</rt></ruby>・<ruby><rb>水泳</rb><rt>すいえい</rt></ruby><ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>で、ひと<ruby><rb>組</rb><rt>く</rt></ruby>みの<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が、つぎつぎに<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>距離</rb><rt>きょり</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けついで、<ruby><rb>速</rb><rt>はや</rt></ruby>さを<ruby><rb>争</rb><rt>あらそ</rt></ruby>うもの。
+- word: フィギュア
+  descriptions:
+  - <ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>を、<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせておどるようにすべって、<ruby><rb>美</rb><rt>うつく</rt></ruby>しさやわざをきそうスケート<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011206961000/k10011206961000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/01/ピョンチャン五輪まで100日-韓国で聖火リレー始まる
+...

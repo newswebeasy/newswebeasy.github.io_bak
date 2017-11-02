@@ -1,0 +1,87 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011207621000
+last_modified_at: '2017-11-02T17:40:00+09:00'
+datetime: 2017年11月02日 17時40分
+description: 東京電力の福島第一原子力発電所では、建物の周りの土を凍らせて、氷の壁を作っています。
+title: 福島第一原発　建物の周りの土の中に氷の壁ができる
+title_with_ruby: <ruby>福島第一原発<rt>ふくしまだいいちげんぱつ</rt></ruby>　<ruby>建物<rt>たてもの</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りの<ruby>土<rt>つち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>氷<rt>こおり</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>ができる
+outline: 東京電力の福島第一原子力発電所では、建物の周りの土を凍らせて、氷の壁を作っています。
+outline_with_ruby: <ruby>東京電力<rt>とうきょうでんりょく</rt></ruby>の<ruby>福島第一原子力発電所<rt>ふくしまだいいちげんしりょくはつでんしょ</rt></ruby>では、<ruby>建物<rt>たてもの</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りの<ruby>土<rt>つち</rt></ruby>を<ruby>凍<rt>こお</rt></ruby>らせて、<ruby>氷<rt>こおり</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/02/K10011207621_1711020558_1711020657_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/02/k10011207621000.mp3
+content_with_ruby: "<p><ruby>東京電力<rt>とうきょうでんりょく</rt></ruby>の<ruby>福島第一原子力発電所<rt>ふくしまだいいちげんしりょくはつでんしょ</rt></ruby>では、<ruby>建物<rt>たてもの</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りの<span\
+  \ style=\"color: blue;\"><ruby>土<rt>つち</rt></ruby></span>を<span style=\"color: blue;\"\
+  ><ruby>凍<rt>こお</rt></ruby>ら</span>せて、<span style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>の<ruby>壁<rt>かべ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っています。<span\
+  \ style=\"color: blue;\"><ruby>地下<rt>ちか</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>流<rt>なが</rt></ruby>れる</span><ruby>水<rt>みず</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れた<span\
+  \ style=\"color: blue;\"><ruby>原発<rt>げんぱつ</rt></ruby></span>の<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>放射線<rt>ほうしゃせん</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>す<span\
+  \ style=\"color: blue;\"><ruby>物質<rt>ぶっしつ</rt></ruby></span>で<ruby>汚<rt>よご</rt></ruby>れた<ruby>水<rt>みず</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えないようにするためです。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>の<ruby>壁<rt>かべ</rt></ruby>の<ruby>長<rt>なが</rt></ruby>さは<ruby>全部<rt>ぜんぶ</rt></ruby>で１．５ｋｍです。<span\
+  \ style=\"color: blue;\"><ruby>土<rt>つち</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>に<span\
+  \ style=\"color: blue;\">パイプ</span>を<ruby>入<rt>い</rt></ruby>れて、その<ruby>中<rt>なか</rt></ruby>にー３０℃の<span\
+  \ style=\"color: blue;\"><ruby>液体<rt>えきたい</rt></ruby></span>を<ruby>入<rt>い</rt></ruby>れて<span\
+  \ style=\"color: blue;\"><ruby>土<rt>つち</rt></ruby></span>を<span style=\"color: blue;\"\
+  ><ruby>凍<rt>こお</rt></ruby>ら</span>せます。</p>\n<p><ruby>東京電力<rt>とうきょうでんりょく</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>８<ruby>月<rt>がつ</rt></ruby>から<ruby>残<rt>のこ</rt></ruby>っていた７ｍを<span\
+  \ style=\"color: blue;\"><ruby>凍<rt>こお</rt></ruby>ら</span>せ<ruby>始<rt>はじ</rt></ruby>めて、ほとんど<span\
+  \ style=\"color: blue;\"><ruby>凍<rt>こお</rt></ruby>っ</span>たことがわかりました。この<span style=\"\
+  color: blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>が<ruby>始<rt>はじ</rt></ruby>まってから１<ruby>年<rt>ねん</rt></ruby>７か<ruby>月<rt>げつ</rt></ruby>で、<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>の<ruby>壁<rt>かべ</rt></ruby>が<ruby>大体<rt>だいたい</rt></ruby>できました。</p>\n\
+  <p><ruby>東京電力<rt>とうきょうでんりょく</rt></ruby>はこれから、<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>地下<rt>ちか</rt></ruby></span>から<ruby>入<rt>はい</rt></ruby>る<ruby>水<rt>みず</rt></ruby>をどのくらい<span\
+  \ style=\"color: blue;\"><ruby>減<rt>へ</rt></ruby>らす</span>ことができるか<ruby>調<rt>しら</rt></ruby>べます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 土
+  descriptions:
+  - <ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>がくだけて、<ruby><rb>粉</rb><rt>こな</rt></ruby>になったもの。どろ。
+  - <ruby><rb>陸地</rb><rt>りくち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>地面</rb><rt>じめん</rt></ruby>。
+- word: 氷
+  descriptions:
+  - <ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>０度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。
+- word: 凍る
+  descriptions:
+  - <ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。
+- word: 地下
+  descriptions:
+  - <ruby><rb>地面</rb><rt>じめん</rt></ruby>の<ruby><rb>下</rb><rt>した</rt></ruby>。<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>。
+  - <ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>世</rb><rt>よ</rt></ruby>。あの<ruby><rb>世</rb><rt>よ</rt></ruby>。
+  - <ruby><rb>秘密</rb><rt>ひみつ</rt></ruby>の<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: 流れる
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。
+  - <ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。
+  - うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - とりやめになる。
+- word: 原発
+  descriptions:
+  - 「<ruby><rb>原子力発電所</rb><rt>げんしりょくはつでんしょ</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+- word: 放射線
+  descriptions:
+  - ウランやラジウムなどの<ruby><rb>放射性</rb><rt>ほうしゃせい</rt></ruby><ruby><rb>元素</rb><rt>げんそ</rt></ruby>がこわれて、ほかの<ruby><rb>元素</rb><rt>げんそ</rt></ruby>に<ruby><rb>変</rb><rt>か</rt></ruby>わるときに<ruby><rb>出</rb><rt>だ</rt></ruby>すもの。<ruby><rb>大量</rb><rt>たいりょう</rt></ruby>に<ruby><rb>浴</rb><rt>あ</rt></ruby>びると<ruby><rb>有害</rb><rt>ゆうがい</rt></ruby>である。
+- word: 物質
+  descriptions:
+  - <ruby><rb>見</rb><rt>み</rt></ruby>たりさわったりすることができるもの。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+- word: パイプ
+  descriptions:
+  - <ruby><rb>管</rb><rt>くだ</rt></ruby>。ガスや<ruby><rb>水</rb><rt>みず</rt></ruby>などを<ruby><rb>送</rb><rt>おく</rt></ruby>るのに<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>管</rb><rt>くだ</rt></ruby>。
+  - <ruby><rb>西洋風</rb><rt>せいようふう</rt></ruby>のたばこをすう<ruby><rb>用具</rb><rt>ようぐ</rt></ruby>。
+  - <ruby><rb>通</rb><rt>つう</rt></ruby>じ<ruby><rb>合</rb><rt>あ</rt></ruby>うようにすること。
+- word: 液体
+  descriptions:
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>や<ruby><rb>油</rb><rt>あぶら</rt></ruby>のように、<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>形</rb><rt>かたち</rt></ruby>がなく、<ruby><rb>流</rb><rt>なが</rt></ruby>れる<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>のあるもの。
+- word: 凍る
+  descriptions:
+  - <ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。
+- word: 工事
+  descriptions:
+  - <ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。
+- word: 減らす
+  descriptions:
+  - <ruby><rb>少</rb><rt>すく</rt></ruby>なくする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011207621000/k10011207621000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/02/汚染水対策の凍土壁おおむね完成-福島第一原発
+...

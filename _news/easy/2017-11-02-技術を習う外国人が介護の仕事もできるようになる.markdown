@@ -1,0 +1,47 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011206401000
+last_modified_at: '2017-11-02T12:30:00+09:00'
+datetime: 2017年11月02日 12時30分
+description: 外国人技能実習生は、発展途上国から日本に来て、工場などで働きながら技術を習っています。
+title: 技術を習う外国人が介護の仕事もできるようになる
+title_with_ruby: <ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>習<rt>なら</rt></ruby>う<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>介護<rt>かいご</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>もできるようになる
+outline: 外国人技能実習生は、発展途上国から日本に来て、工場などで働きながら技術を習っています。
+outline_with_ruby: <ruby>外国人技能実習生<rt>がいこくじんぎのうじっしゅうせい</rt></ruby>は、<ruby>発展途上国<rt>はってんとじょうこく</rt></ruby>から<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、<ruby>工場<rt>こうじょう</rt></ruby>などで<ruby>働<rt>はたら</rt></ruby>きながら<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>習<rt>なら</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/01/K10011206401_1711010122_1711010427_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/02/k10011206401000.mp3
+content_with_ruby: "<p><ruby>外国人技能実習生<rt>がいこくじんぎのうじっしゅうせい</rt></ruby>は、<span style=\"\
+  color: blue;\"><ruby>発展途上国<rt>はってんとじょうこく</rt></ruby></span>から<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、<ruby>工場<rt>こうじょう</rt></ruby>などで<ruby>働<rt>はたら</rt></ruby>きながら<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>習<rt>なら</rt></ruby>っています。<ruby>今<rt>いま</rt></ruby>まではお<span\
+  \ style=\"color: blue;\"><ruby>年寄<rt>としよ</rt></ruby>り</span>などの<span style=\"color:\
+  \ blue;\"><ruby>介護<rt>かいご</rt></ruby></span>の<ruby>仕事<rt>しごと</rt></ruby>はできませんでしたが、<ruby>新<rt>あたら</rt></ruby>しい<ruby>法律<rt>ほうりつ</rt></ruby>ができて１１<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>からできるようになりました。</p>\n\
+  <p>３<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><span style=\"color: blue;\"\
+  ><ruby>介護<rt>かいご</rt></ruby></span>を<ruby>行<rt>おこな</rt></ruby>ってきた<span style=\"\
+  color: blue;\"><ruby>施設<rt>しせつ</rt></ruby></span>や<ruby>病院<rt>びょういん</rt></ruby>で、<ruby>実習生<rt>じっしゅうせい</rt></ruby>は<ruby>働<rt>はたら</rt></ruby>きながらお<ruby>風呂<rt>ふろ</rt></ruby>や<ruby>食事<rt>しょくじ</rt></ruby>などの<span\
+  \ style=\"color: blue;\"><ruby>介護<rt>かいご</rt></ruby></span>のしかたを<ruby>習<rt>なら</rt></ruby>うことができます。<ruby>実習生<rt>じっしゅうせい</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>基本<rt>きほん</rt></ruby></span>の<ruby>日本語<rt>にほんご</rt></ruby>がわかることが<ruby>必要<rt>ひつよう</rt></ruby>です。<ruby>長<rt>なが</rt></ruby>い<ruby>場合<rt>ばあい</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>に５<ruby>年<rt>ねん</rt></ruby>いることができます。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>介護<rt>かいご</rt></ruby></span>を<ruby>行<rt>おこな</rt></ruby>う<span\
+  \ style=\"color: blue;\"><ruby>施設<rt>しせつ</rt></ruby></span>などでは、<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくて<ruby>困<rt>こま</rt></ruby>っています。このため<span\
+  \ style=\"color: blue;\"><ruby>施設<rt>しせつ</rt></ruby></span>などでは、<span style=\"color:\
+  \ blue;\"><ruby>介護<rt>かいご</rt></ruby></span>の<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>実習生<rt>じっしゅうせい</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えてほしいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 介護
+  descriptions:
+  - <ruby><rb>病人</rb><rt>びょうにん</rt></ruby>などを<ruby><rb>介抱</rb><rt>かいほう</rt></ruby>し、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をすること。
+- word: 発展途上国
+  descriptions:
+  - <ruby><rb>経済</rb><rt>けいざい</rt></ruby>や<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>などが、<ruby><rb>発展</rb><rt>はってん</rt></ruby>の<ruby><rb>途中</rb><rt>とちゅう</rt></ruby>にある<ruby><rb>国</rb><rt>くに</rt></ruby>。
+- word: 年寄り
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。
+  - <ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 施設
+  descriptions:
+  - <ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>利用</rb><rt>りよう</rt></ruby>できるように<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>設備</rb><rt>せつび</rt></ruby>。
+- word: 基本
+  descriptions:
+  - ものごとの<ruby><rb>大</rb><rt>おお</rt></ruby>もと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011206401000/k10011206401000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/01/外国人技能実習制度-介護施設でも受け入れ可能に
+...

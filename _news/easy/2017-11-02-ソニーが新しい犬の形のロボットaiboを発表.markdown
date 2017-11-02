@@ -1,0 +1,77 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011206981000
+last_modified_at: '2017-11-02T17:40:00+09:00'
+datetime: 2017年11月02日 17時40分
+description: ソニーは１９９９年、犬の形をした「ＡＩＢＯ」というロボットを作りました。
+title: ソニーが新しい犬の形のロボット「ａｉｂｏ」を発表
+title_with_ruby: ソニーが<ruby>新<rt>あたら</rt></ruby>しい<ruby>犬<rt>いぬ</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>のロボット「ａｉｂｏ」を<ruby>発表<rt>はっぴょう</rt></ruby>
+outline: ソニーは１９９９年、犬の形をした「ＡＩＢＯ」というロボットを作りました。
+outline_with_ruby: ソニーは１９９９<ruby>年<rt>ねん</rt></ruby>、<ruby>犬<rt>いぬ</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>をした「ＡＩＢＯ」というロボットを<ruby>作<rt>つく</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/01/K10011206981_1711011526_1711011542_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/02/k10011206981000.mp3
+content_with_ruby: "<p>ソニーは１９９９<ruby>年<rt>ねん</rt></ruby>、<ruby>犬<rt>いぬ</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>をした「ＡＩＢＯ」という<span\
+  \ style=\"color: blue;\">ロボット</span>を<ruby>作<rt>つく</rt></ruby>りました。ＡＩＢＯは<ruby>値段<rt>ねだん</rt></ruby>が２５<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>ぐらいで、<ruby>全部<rt>ぜんぶ</rt></ruby>で１５<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れ</span>ました。しかし、<ruby>会社<rt>かいしゃ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>経営<rt>けいえい</rt></ruby></span>が<ruby>悪<rt>わる</rt></ruby>くなったため、２００６<ruby>年<rt>ねん</rt></ruby>に<ruby>生産<rt>せいさん</rt></ruby>をやめました。</p>\n\
+  <p>ソニーの<ruby>平井<rt>ひらい</rt></ruby><ruby>一夫<rt>かずお</rt></ruby><ruby>社長<rt>しゃちょう</rt></ruby>は、<ruby>新<rt>あたら</rt></ruby>しい<ruby>犬<rt>いぬ</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>の<span\
+  \ style=\"color: blue;\">ロボット</span>を<ruby>来年<rt>らいねん</rt></ruby>１<ruby>月<rt>がつ</rt></ruby>１１<ruby>日<rt>にち</rt></ruby>から<ruby>売<rt>う</rt></ruby>ると<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\">ロボット</span>の<ruby>名前<rt>なまえ</rt></ruby>は、<span style=\"\
+  color: blue;\">アルファベット</span>の<span style=\"color: blue;\"><ruby>小文字<rt>こもじ</rt></ruby></span>で「ａｉｂｏ」です。</p>\n\
+  <p>ａｉｂｏの<ruby>目<rt>め</rt></ruby>はスマートフォンやテレビの<span style=\"color: blue;\"><ruby>画面<rt>がめん</rt></ruby></span>に<ruby>使<rt>つか</rt></ruby>う「<ruby>有機<rt>ゆうき</rt></ruby>ＥＬパネル」でできていて、<ruby>気持<rt>きも</rt></ruby>ちを<span\
+  \ style=\"color: blue;\"><ruby>表<rt>あらわ</rt></ruby>す</span>ことができます。そして、２０<ruby>以上<rt>いじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\">センサー</span>を<ruby>使<rt>つか</rt></ruby>って<ruby>人<rt>ひと</rt></ruby>や<ruby>部屋<rt>へや</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>様子<rt>ようす</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べて、<ruby>体<rt>からだ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>動<rt>うご</rt></ruby>かし</span>たり<ruby>歩<rt>ある</rt></ruby>いたりします。</p>\n\
+  <p>ａｉｂｏには、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>えるコンピューターのＡＩが<ruby>入<rt>はい</rt></ruby>っていて、<ruby>人<rt>ひと</rt></ruby>と<ruby>話<rt>はな</rt></ruby>したことなどを<ruby>勉強<rt>べんきょう</rt></ruby>して<ruby>覚<rt>おぼ</rt></ruby>えます。<ruby>値段<rt>ねだん</rt></ruby>は１９<ruby>万<rt>まん</rt></ruby>８０００<ruby>円<rt>えん</rt></ruby>です。</p>\n\
+  <p><ruby>平井<rt>ひらい</rt></ruby><ruby>社長<rt>しゃちょう</rt></ruby>は「ソニーが<ruby>持<rt>も</rt></ruby>っている<span\
+  \ style=\"color: blue;\">ロボット</span>と<span style=\"color: blue;\">センサー</span>の<ruby>技術<rt>ぎじゅつ</rt></ruby>にＡＩを<ruby>足<rt>た</rt></ruby>して、これからも<ruby>新<rt>あたら</rt></ruby>しい<ruby>物<rt>もの</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っていきたいです」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ロボット
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>磁気</rb><rt>じき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。<ruby><rb>人造</rb><rt>じんぞう</rt></ruby><ruby><rb>人間</rb><rt>にんげん</rt></ruby>。
+  - <ruby><rb>工場</rb><rt>こうじょう</rt></ruby>などで<ruby><rb>人間</rb><rt>にんげん</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって、<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。
+  - （いつも）<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>いなりになって<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 売れる
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。
+- word: 経営
+  descriptions:
+  - <ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。
+- word: アルファベット
+  descriptions:
+  - ローマ<ruby><rb>字</rb><rt>じ</rt></ruby>を、<ruby><rb>A</rb><rt>エー</rt></ruby>・<ruby><rb>B</rb><rt>ビー</rt></ruby>・<ruby><rb>C</rb><rt>シー</rt></ruby>…というふうに<ruby><rb>Z</rb><rt>ゼット</rt></ruby>まで<ruby><rb>順</rb><rt>じゅん</rt></ruby>に<ruby><rb>並</rb><rt>なら</rt></ruby>べたもの。２６<ruby><rb>文字</rb><rt>もじ</rt></ruby>ある。
+- word: 小文字
+  descriptions:
+  - <ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>字</rb><rt>じ</rt></ruby>。
+  - ローマ<ruby><rb>字</rb><rt>じ</rt></ruby>や<ruby><rb>英語</rb><rt>えいご</rt></ruby>などで<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>文字</rb><rt>もじ</rt></ruby>。「<ruby><rb>a</rb><rt>エー</rt></ruby>・<ruby><rb>b</rb><rt>ビー</rt></ruby>・<ruby><rb>c</rb><rt>シー</rt></ruby>」など。
+- word: 画面
+  descriptions:
+  - <ruby><rb>映画</rb><rt>えいが</rt></ruby>やテレビが<ruby><rb>映</rb><rt>うつ</rt></ruby>っている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+- word: 表す
+  descriptions:
+  - <ruby><rb>気持</rb><rt>きも</rt></ruby>ちや<ruby><rb>考</rb><rt>かんが</rt></ruby>えなどを、ことばや<ruby><rb>表情</rb><rt>ひょうじょう</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>したり、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>などにしたりする。
+- word: センサー
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>、<ruby><rb>温度</rb><rt>おんど</rt></ruby>などに<ruby><rb>反応</rb><rt>はんのう</rt></ruby>して、<ruby><rb>電気的</rb><rt>でんきてき</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 様子
+  descriptions:
+  - ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。
+  - <ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。
+  - そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。
+  - わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。
+- word: 動かす
+  descriptions:
+  - <ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。
+  - <ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - <ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011206981000/k10011206981000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/01/ソニー-12年ぶり犬型ロボットaibo発売へ
+...
