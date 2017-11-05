@@ -5,7 +5,7 @@ function setLevel(level) {
   for (var i = 1; i < 10; i++) {
     var l = document.querySelectorAll('rt[data-level="' + i + '"]');
     for (var j = 0; j < l.length; j++) {
-      if (i < value) {
+      if (i < level) {
         l[j].classList.add('hidden');
       } else {
         l[j].classList.remove('hidden');
@@ -17,8 +17,8 @@ function setLevel(level) {
 var slider = document.getElementById('slider');
 if (slider) {
   slider.oninput = function(event) {
-    var value = parseInt(event.target.value);
-    setLevel(value);
+    var level = parseInt(event.target.value);
+    setLevel(level);
   }
 
   slider.value = '4';
