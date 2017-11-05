@@ -23,6 +23,21 @@ li.dict {
   background: url(/assets/playing.gif) no-repeat center center;
 }
 
+.slider_bar {
+  /*display: flex;*/
+  display: none;
+  margin: 10px 0;
+}
+
+.slider {
+  flex: 1;
+  margin: 0 10px;
+}
+
+rt.hidden {
+  display: none;
+}
+
 #speed label {
   display: inline-block;
   width: 50px;
