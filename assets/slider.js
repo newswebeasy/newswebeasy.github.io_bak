@@ -23,4 +23,3 @@ if (slider) {
 
   slider.value = '4';
 }
-
