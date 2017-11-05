@@ -1,6 +1,6 @@
 function setLevel(level) {
   var label = document.getElementById('level');
-  label.innerHTML = value;
+  label.innerHTML = level;
 
   for (var i = 1; i < 10; i++) {
     var l = document.querySelectorAll('rt[data-level="' + i + '"]');

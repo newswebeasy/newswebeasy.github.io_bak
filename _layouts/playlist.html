@@ -67,7 +67,7 @@
               {% for post in newslist limit: 50 %}
               {% if post.categories == page.categories and post.voice_url %}
               <li class="card">
-                <p><span class="playing-icon"></span><a href="#" onclick="play({{ c }});return false;">{% if page.categories contains 'easy' %}{{ post.title_with_ruby }}{% else %}{{ post.title }}{% endif %}</a>　[<a style="font-size: 0.8em" href="{{ post.url }}">テキスト</a>]</p>
+                <p><span class="playing-icon"></span><a href="#" onclick="play({{ c }});return false;">{% if post.title_with_ruby %}{{ post.title_with_ruby }}{% else %}{{ post.title }}{% endif %}</a>　[<a style="font-size: 0.8em" href="{{ post.url }}">テキスト</a>]</p>
               </li>
               {% assign c = c | plus: 1 %}
               {% if c >= 5 %}
