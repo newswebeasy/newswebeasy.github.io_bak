@@ -7,7 +7,7 @@
     <div class="rich_media_inner">
       <div>
         <div class="rich_media_area_primary">
-          <h2 class="rich_media_title">{{ page.title }}</h2>
+          <h2 class="rich_media_title">{% if page.title_with_ruby %}{{ page.title_with_ruby }}{% else %}{{ page.title }}{% endif %}</h2>
           <div class="rich_media_meta_list">
             <em class="rich_media_meta rich_media_meta_text">{{ page.datetime }}</em>
             <span class="rich_media_meta rich_media_meta_text rich_media_meta_nickname"><a href="/">{{ site.author }}</a></span>
