@@ -13,10 +13,10 @@
             <span class="rich_media_meta rich_media_meta_text rich_media_meta_nickname"><a href="/">{{ site.author }}</a></span>
           </div>
           <div class="rich_media_content">
-            <div class="slider_bar">
-              <span style="float:left;"><ruby>振<rt data-ruby-level="7">ふ</rt></ruby>り<ruby>仮名<rt data-ruby-level="7">がな</rt></ruby>レベル</span>
-              <input id="slider" class="slider" type="range" min="1" max="9"/>
-              <span id="level" style="float:left"></span>
+            <div class="furigana_bar">
+              <span><ruby>振<rt data-ruby-level="7">ふ</rt></ruby>り<ruby>仮名<rt data-ruby-level="7">がな</rt></ruby>レベル</span>
+              <input id="furigana_slider" class="furigana_slider" type="range" min="1" max="9"/>
+              <span id="level"></span>
             </div>
             {% if page.movie_url %}
             <p><video id="player" class="fullwidth" src="{{ page.movie_url }}" controls loop autoplay></video></p>
@@ -103,7 +103,7 @@
       </div>
     </div>
   </div>
-  <script src="/assets/slider.js"></script>
+  <script src="/assets/furigana_slider.js"></script>
 </body>
 
 </html>

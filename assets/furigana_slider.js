@@ -14,7 +14,7 @@ function setLevel(level) {
   }
 }
 
-var slider = document.getElementById('slider');
+var slider = document.getElementById('furigana_slider');
 if (slider) {
   slider.oninput = function(event) {
     var level = parseInt(event.target.value);
