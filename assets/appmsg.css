@@ -156,7 +156,7 @@ span.rich_media_meta_nickname {
 }
 
 .rich_media_tool .meta_primary {
-  float: left;
+  /*float: left;*/
   margin-right: 10px
 }
 

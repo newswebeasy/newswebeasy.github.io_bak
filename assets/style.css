@@ -24,8 +24,8 @@ li.dict {
 }
 
 .furigana_bar {
-  /*display: flex;*/
-  display: none;
+  display: flex;
+  /*display: none;*/
   margin: 10px 0;
 }
 
