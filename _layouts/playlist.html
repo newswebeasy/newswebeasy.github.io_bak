@@ -12,7 +12,7 @@
           <h2 class="rich_media_title">{{ page.title }}</h2>
 
           <div class="rich_media_meta_list">
-            <em class="rich_media_meta rich_media_meta_text">音声再生</em>
+            <em class="rich_media_meta rich_media_meta_text">{% if page.categories contains 'easy' %}<ruby>音声<rt>おんせい</rt></ruby><ruby>再生<rt>さいせい</rt></ruby>{% else %}音声再生{% endif %}</em>
             <a class="rich_media_meta rich_media_meta_link rich_media_meta_nickname" href="/">NewsWebEasy</a>
           </div>
 
@@ -67,7 +67,7 @@
               {% for post in newslist limit: 50 %}
               {% if post.categories == page.categories and post.voice_url %}
               <li class="card">
-                <p><span class="playing-icon"></span><a href="#" onclick="play({{ c }});return false;">{% if post.title_with_ruby %}{{ post.title_with_ruby }}{% else %}{{ post.title }}{% endif %}</a>　[<a style="font-size: 0.8em" href="{{ post.url }}">テキスト</a>]</p>
+                <p><span class="playing-icon"></span><a href="#" onclick="play({{ c }});return false;">{% if page.categories contains 'easy' %}{{ post.title_with_ruby }}{% else %}{{ post.title }}{% endif %}</a>　[<a style="font-size: 0.8em" href="{{ post.url }}">テキスト</a>]</p>
               </li>
               {% assign c = c | plus: 1 %}
               {% if c >= 5 %}

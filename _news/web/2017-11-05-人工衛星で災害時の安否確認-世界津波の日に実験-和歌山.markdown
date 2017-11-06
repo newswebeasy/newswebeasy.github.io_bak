@@ -1,0 +1,78 @@
+---
+layout: web_news
+categories: web
+newsid: k10011211491000
+title: 人工衛星で災害時の安否確認 世界津波の日に実験 和歌山
+title_with_ruby: <ruby>人工<rt data-ruby-level="2">じんこう</rt></ruby><ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>で<ruby>災害時<rt
+  data-ruby-level="5">さいがいじ</rt></ruby>の<ruby>安否<rt data-ruby-level="6">あんぴ</rt></ruby><ruby>確認<rt
+  data-ruby-level="7">かくにん</rt></ruby> <ruby>世界<rt data-ruby-level="3">せかい</rt></ruby><ruby>津波<rt
+  data-ruby-level="7">つなみ</rt></ruby>の<ruby>日<rt data-ruby-level="1">ひ</rt></ruby>に<ruby>実験<rt
+  data-ruby-level="4">じっけん</rt></ruby> <ruby>和歌山<rt data-ruby-level="3">わかやま</rt></ruby>
+last_modified_at: '2017-11-05T19:03:00+09:00'
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>11<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>05<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 19<ruby>時<rt data-ruby-level="2">じ</rt></ruby>03<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ５日は国連が定めた「世界津波の日」です。和歌山県広川町では、南海トラフの巨大地震による津波に備えて、人工衛星を活用して住民の安否情報などを確認するシステムの初めての実証試験が行われました。
+summary: ５<ruby>日<rt data-ruby-level="1">にち</rt></ruby>は<ruby>国連<rt data-ruby-level="4">こくれん</rt></ruby>が<ruby>定<rt
+  data-ruby-level="3">さだ</rt></ruby>めた「<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby><ruby>津波<rt
+  data-ruby-level="7">つなみ</rt></ruby>の<ruby>日<rt data-ruby-level="1">ひ</rt></ruby>」です。<ruby>和歌山県<rt
+  data-ruby-level="3">わかやまけん</rt></ruby><ruby>広川町<rt data-ruby-level="2">ひろかわちょう</rt></ruby>では、<ruby>南海<rt
+  data-ruby-level="2">なんかい</rt></ruby>トラフの<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>による<ruby>津波<rt data-ruby-level="7">つなみ</rt></ruby>に<ruby>備<rt
+  data-ruby-level="5">そな</rt></ruby>えて、<ruby>人工<rt data-ruby-level="2">じんこう</rt></ruby><ruby>衛星<rt
+  data-ruby-level="5">えいせい</rt></ruby>を<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>して<ruby>住民<rt
+  data-ruby-level="4">じゅうみん</rt></ruby>の<ruby>安否<rt data-ruby-level="6">あんぴ</rt></ruby><ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>などを<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>するシステムの<ruby>初<rt
+  data-ruby-level="4">はじ</rt></ruby>めての<ruby>実証<rt data-ruby-level="5">じっしょう</rt></ruby><ruby>試験<rt
+  data-ruby-level="4">しけん</rt></ruby>が<ruby>行<rt data-ruby-level="2">おこな</rt></ruby>われました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/05/K10011211491_1711051819_1711051822_01_02.jpg
+more: このシステムは<ruby>内閣府<rt data-ruby-level="6">ないかくふ</rt></ruby>が<ruby>災害<rt data-ruby-level="5">さいがい</rt></ruby>で<ruby>地上<rt
+  data-ruby-level="2">ちじょう</rt></ruby>の<ruby>通信<rt data-ruby-level="4">つうしん</rt></ruby><ruby>設備<rt
+  data-ruby-level="5">せつび</rt></ruby>が<ruby>使<rt data-ruby-level="3">つか</rt></ruby>えなくなった<ruby>場合<rt
+  data-ruby-level="2">ばあい</rt></ruby>でも、<ruby>日本版<rt data-ruby-level="5">にほんばん</rt></ruby>ＧＰＳ<ruby>衛星<rt
+  data-ruby-level="5">えいせい</rt></ruby>「みちびき」を<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>して<ruby>住民<rt
+  data-ruby-level="4">じゅうみん</rt></ruby>の<ruby>安否<rt data-ruby-level="6">あんぴ</rt></ruby><ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>などを<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>できるよう<ruby>整備<rt
+  data-ruby-level="5">せいび</rt></ruby>を<ruby>進<rt data-ruby-level="3">すす</rt></ruby>め、<ruby>来年度<rt
+  data-ruby-level="3">らいねんど</rt></ruby>からの<ruby>試験<rt data-ruby-level="4">しけん</rt></ruby><ruby>運用<rt
+  data-ruby-level="3">うんよう</rt></ruby>を<ruby>目指<rt data-ruby-level="3">めざ</rt></ruby>しています。<br
+  /><br />５<ruby>日<rt data-ruby-level="1">にち</rt></ruby>は<ruby>和歌山県<rt data-ruby-level="3">わかやまけん</rt></ruby><ruby>広川町<rt
+  data-ruby-level="2">ひろかわちょう</rt></ruby>で<ruby>津波<rt data-ruby-level="7">つなみ</rt></ruby>に<ruby>備<rt
+  data-ruby-level="5">そな</rt></ruby>えた<ruby>避難<rt data-ruby-level="7">ひなん</rt></ruby><ruby>訓練<rt
+  data-ruby-level="4">くんれん</rt></ruby>に<ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせて<ruby>初<rt
+  data-ruby-level="4">はじ</rt></ruby>めての<ruby>実証<rt data-ruby-level="5">じっしょう</rt></ruby><ruby>試験<rt
+  data-ruby-level="4">しけん</rt></ruby>を<ruby>行<rt data-ruby-level="2">おこな</rt></ruby>い、<ruby>住民<rt
+  data-ruby-level="4">じゅうみん</rt></ruby>などおよそ９０<ruby>人<rt data-ruby-level="1">にん</rt></ruby>が<ruby>参加<rt
+  data-ruby-level="4">さんか</rt></ruby>しました。<br /><br /><ruby>避難<rt data-ruby-level="7">ひなん</rt></ruby><ruby>場所<rt
+  data-ruby-level="3">ばしょ</rt></ruby>となる<ruby>高台<rt data-ruby-level="2">たかだい</rt></ruby>の<ruby>神社<rt
+  data-ruby-level="3">じんじゃ</rt></ruby>には<ruby>専用<rt data-ruby-level="6">せんよう</rt></ruby>のアンテナやパソコンが<ruby>設置<rt
+  data-ruby-level="5">せっち</rt></ruby>され、<ruby>避難<rt data-ruby-level="7">ひなん</rt></ruby>してきた<ruby>住民<rt
+  data-ruby-level="4">じゅうみん</rt></ruby>の<ruby>名前<rt data-ruby-level="2">なまえ</rt></ruby>や<ruby>年齢<rt
+  data-ruby-level="7">ねんれい</rt></ruby>などの<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>が<ruby>登録<rt
+  data-ruby-level="4">とうろく</rt></ruby>されると<ruby>人工<rt data-ruby-level="2">じんこう</rt></ruby><ruby>衛星<rt
+  data-ruby-level="5">えいせい</rt></ruby>を<ruby>通<rt data-ruby-level="2">つう</rt></ruby>じて<ruby>内閣府<rt
+  data-ruby-level="6">ないかくふ</rt></ruby>にデータが<ruby>送<rt data-ruby-level="3">おく</rt></ruby>られました。<br
+  /><br />システムでは<ruby>避難<rt data-ruby-level="7">ひなん</rt></ruby>した<ruby>人数<rt data-ruby-level="2">にんずう</rt></ruby>やけがの<ruby>状況<rt
+  data-ruby-level="7">じょうきょう</rt></ruby>などの<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>も<ruby>送<rt
+  data-ruby-level="3">おく</rt></ruby>ることができ、<ruby>速<rt data-ruby-level="7">すみ</rt></ruby>やかな<ruby>救援<rt
+  data-ruby-level="7">きゅうえん</rt></ruby><ruby>活動<rt data-ruby-level="3">かつどう</rt></ruby>に<ruby>役立<rt
+  data-ruby-level="3">やくだ</rt></ruby>てられるということです。<br /><br /><ruby>参加<rt data-ruby-level="4">さんか</rt></ruby>した<ruby>小学<rt
+  data-ruby-level="1">しょうがく</rt></ruby>６<ruby>年生<rt data-ruby-level="1">ねんせい</rt></ruby>の<ruby>男<rt
+  data-ruby-level="1">おとこ</rt></ruby>の<ruby>子<rt data-ruby-level="1">こ</rt></ruby>は「<ruby>入力<rt
+  data-ruby-level="1">にゅうりょく</rt></ruby><ruby>操作<rt data-ruby-level="6">そうさ</rt></ruby>も<ruby>簡単<rt
+  data-ruby-level="6">かんたん</rt></ruby>でとても<ruby>心強<rt data-ruby-level="2">こころづよ</rt></ruby>いです」と<ruby>話<rt
+  data-ruby-level="2">はな</rt></ruby>していました。<br /><br /><ruby>内閣府<rt data-ruby-level="6">ないかくふ</rt></ruby><ruby>準天頂<rt
+  data-ruby-level="6">じゅんてんちょう</rt></ruby><ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>システム<ruby>戦略室<rt
+  data-ruby-level="5">せんりゃくしつ</rt></ruby>の<ruby>川津<rt data-ruby-level="7">かわづ</rt></ruby><ruby>泰彦<rt
+  data-ruby-level="8">やすひこ</rt></ruby><ruby>室長<rt data-ruby-level="2">しつちょう</rt></ruby><ruby>補佐<rt
+  data-ruby-level="7">ほさ</rt></ruby>は「<ruby>災害時<rt data-ruby-level="5">さいがいじ</rt></ruby>に<ruby>孤立<rt
+  data-ruby-level="7">こりつ</rt></ruby>しそうな<ruby>避難所<rt data-ruby-level="7">ひなんじょ</rt></ruby>を<ruby>中心<rt
+  data-ruby-level="2">ちゅうしん</rt></ruby>に<ruby>配備<rt data-ruby-level="5">はいび</rt></ruby>を<ruby>進<rt
+  data-ruby-level="3">すす</rt></ruby>め、<ruby>防災力<rt data-ruby-level="5">ぼうさいりょく</rt></ruby>の<ruby>向上<rt
+  data-ruby-level="3">こうじょう</rt></ruby>に<ruby>役立<rt data-ruby-level="3">やくだ</rt></ruby>てたい」と<ruby>話<rt
+  data-ruby-level="2">はな</rt></ruby>していました。
+movie_url: https://newswebeasy.github.io/ja201711/news/web/movie/2017/11/05/k10011211491_201711052118_201711052120.mp4
+voice_url: https://newswebeasy.github.io/ja201711/news/web/voice/2017/11/05/k10011211491_201711052118_201711052120.mp3
+source_url: http://www3.nhk.or.jp/news/html/20171105/k10011211491000.html
+easy_news_url: https://newswebeasy.github.io/news/easy/2017/11/06/世界津波の日-津波から逃げる練習などを行った
+...

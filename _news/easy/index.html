@@ -13,6 +13,13 @@ permalink: news/easy/
         <div>
           <h2 class="rich_media_title">{{ page.title }}</h2>
           <div class="rich_media_content">
+            <div style="margin: 10px 0">
+              <span><ruby>振<rt>ふ</rt></ruby>り<ruby>仮名<rt>がな</rt></ruby><ruby>表示<rt>ひょうじ</rt></ruby></span>
+              <label class="switch">
+                <input id="furigana_toggle" type="checkbox" checked/>
+                <span class="slider round"></span>
+              </label>
+            </div>
             <ul>
               {% assign easylist = site.news | where: "categories", "easy"  | sort: "last_modified_at" | reverse %}
               {% for post in easylist limit: 10 %}
@@ -42,7 +49,7 @@ permalink: news/easy/
         <div class="rich_media_tool">
           <a class="media_tool_meta meta_primary" href="/news/easy/playlist">すべて<ruby>再生<rt>さいせい</rt></ruby></a>
           <a class="media_tool_meta meta_primary" href="/news/web/"><ruby>普通<rt>ふつう</rt></ruby>のニュース</a>
-          <a class="media_tool_meta meta_primary" href="{{ site.nhk_news_web_easy_home }}"><ruby>原文<rt>げんぶん</rt></ruby></a>
+          <a class="media_tool_meta meta_primary" href="{{ site.nhk_news_web_easy_home }}"><ruby>閲読<rt>えつどく</rt></ruby><ruby>原文<rt>げんぶん</rt></ruby></a>
         </div>
       </div>
 
@@ -54,6 +61,7 @@ permalink: news/easy/
 
     </div>
   </div>
+  <script src="/assets/furigana_toggle.js"></script>
 </body>
 
 </html>

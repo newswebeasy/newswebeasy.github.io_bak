@@ -1,0 +1,58 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011210761000
+last_modified_at: '2017-11-06T17:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>06<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 岐阜県大垣市の公園で４日にイベントがあって、ドローンで空からお菓子を落として、集まった人に配っていました。
+title: 岐阜県のイベントでドローンが落ちて６人がけがをする
+title_with_ruby: <ruby>岐阜県<rt>ぎふけん</rt></ruby>のイベントでドローンが<ruby>落<rt>お</rt></ruby>ちて６<ruby>人<rt>にん</rt></ruby>がけがをする
+outline: 岐阜県大垣市の公園で４日にイベントがあって、ドローンで空からお菓子を落として、集まった人に配っていました。
+outline_with_ruby: <ruby>岐阜県<rt>ぎふけん</rt></ruby><ruby>大垣市<rt>おおがきし</rt></ruby>の<ruby>公園<rt>こうえん</rt></ruby>で<ruby>４日<rt>よっか</rt></ruby>にイベントがあって、ドローンで<ruby>空<rt>そら</rt></ruby>からお<ruby>菓子<rt>かし</rt></ruby>を<ruby>落<rt>お</rt></ruby>として、<ruby>集<rt>あつ</rt></ruby>まった<ruby>人<rt>ひと</rt></ruby>に<ruby>配<rt>くば</rt></ruby>っていました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/05/K10011210761_1711050616_1711050617_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/06/k10011210761000.mp3
+content_with_ruby: "<p><ruby>岐阜県<rt>ぎふけん</rt></ruby><ruby>大垣市<rt>おおがきし</rt></ruby>の<ruby>公園<rt>こうえん</rt></ruby>で<ruby>４日<rt>よっか</rt></ruby>に<span\
+  \ style=\"color: blue;\">イベント</span>があって、ドローンで<ruby>空<rt>そら</rt></ruby>からお<ruby>菓子<rt>かし</rt></ruby>を<ruby>落<rt>お</rt></ruby>として、<ruby>集<rt>あつ</rt></ruby>まった<ruby>人<rt>ひと</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>配<rt>くば</rt></ruby>っ</span>ていました。このドローンが<span style=\"\
+  color: blue;\"><ruby>突然<rt>とつぜん</rt></ruby></span><ruby>落<rt>お</rt></ruby>ちて、<ruby>子<rt>こ</rt></ruby>どもなど６<ruby>人<rt>にん</rt></ruby>が<ruby>顔<rt>かお</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>に<ruby>軽<rt>かる</rt></ruby>いけがをしました。</p>\n\
+  <p><ruby>警察<rt>けいさつ</rt></ruby>などによると、ドローンは<ruby>長<rt>なが</rt></ruby>さが８５ｃｍ、<ruby>高<rt>たか</rt></ruby>さが５５ｃｍ、<ruby>重<rt>おも</rt></ruby>さが４ｋｇです。<ruby>各務原市<rt>かかみがはらし</rt></ruby>のドローンの<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>が、<ruby>国<rt>くに</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>許可<rt>きょか</rt></ruby></span>をもらって<span style=\"color:\
+  \ blue;\"><ruby>飛<rt>と</rt></ruby>ばし</span>ていました。</p>\n<p><ruby>男性<rt>だんせい</rt></ruby>は「ドローンは１０ｍぐらいのところを<ruby>飛<rt>と</rt></ruby>んでいました。<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>は<ruby>吹<rt>ふ</rt></ruby>いていませんでしたが、ドローンが<span\
+  \ style=\"color: blue;\"><ruby>操作<rt>そうさ</rt></ruby></span>したとおりに<ruby>飛<rt>と</rt></ruby>ばなくなって、そのまま<ruby>落<rt>お</rt></ruby>ちてしまいました」と<ruby>説明<rt>せつめい</rt></ruby>しました。そして「<ruby>楽<rt>たの</rt></ruby>しみにしていた<ruby>人<rt>ひと</rt></ruby>やけがをした<ruby>人<rt>ひと</rt></ruby>には、<ruby>本当<rt>ほんとう</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ない</span>と<ruby>思<rt>おも</rt></ruby>っています」と<ruby>謝<rt>あやま</rt></ruby>りました。</p>\n\
+  <p><ruby>警察<rt>けいさつ</rt></ruby>は<ruby>男性<rt>だんせい</rt></ruby>から<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いて、<ruby>事故<rt>じこ</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 配る
+  descriptions:
+  - <ruby><rb>分</rb><rt>わ</rt></ruby>けて、わたす。
+  - <ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>行</rb><rt>い</rt></ruby>きわたらせる。
+- word: 突然
+  descriptions:
+  - <ruby><rb>急</rb><rt>きゅう</rt></ruby>に。思いがけなく。
+- word: 許可
+  descriptions:
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>ていたことを、よいと<ruby><rb>許</rb><rt>ゆる</rt></ruby>すこと。<ruby><rb>許</rb><rt>ゆる</rt></ruby>し。
+- word: 飛ばす
+  descriptions:
+  - <ruby><rb>飛</rb><rt>と</rt></ruby>ぶようにする。
+  - <ruby><rb>散</rb><rt>ち</rt></ruby>らす。
+  - <ruby><rb>走</rb><rt>はし</rt></ruby>らせる。
+  - <ruby><rb>間</rb><rt>あいだ</rt></ruby>をぬいて、<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む。
+  - <ruby><rb>言</rb><rt>い</rt></ruby>いふらす。
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく…する。
+- word: 操作
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などを<ruby><rb>操</rb><rt>あやつ</rt></ruby>ること。
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを、やりくりすること。
+- word: 申し訳ない
+  descriptions:
+  - <ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>訳</rb><rt>わけ</rt></ruby>ができない。<ruby><rb>大変</rb><rt>たいへん</rt></ruby>すまない。
+source_url: http://www3.nhk.or.jp/news/easy/k10011210761000/k10011210761000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/05/ドローン落下事故-操縦男性コントロールきかず
+...
