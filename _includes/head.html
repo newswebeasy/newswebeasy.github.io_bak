@@ -17,7 +17,7 @@
   <link rel="stylesheet" href="{{ "/assets/appmsg.css" | relative_url }}">
   <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
 
-  {% if page.categories %}
+  {% if page.categories contains 'easy' %}
   <script src="/assets/download.js"></script>
   {% endif %}
 </head>
