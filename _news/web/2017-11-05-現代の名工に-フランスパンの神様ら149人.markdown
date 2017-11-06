@@ -3,15 +3,65 @@ layout: web_news
 categories: web
 newsid: k10011211271000
 title: 「現代の名工」に “フランスパンの神様”ら149人
+title_with_ruby: 「<ruby>現代<rt data-ruby-level="5">げんだい</rt></ruby>の<ruby>名工<rt data-ruby-level="2">めいこう</rt></ruby>」に
+  “フランスパンの<ruby>神様<rt data-ruby-level="3">かみさま</rt></ruby>”ら149<ruby>人<rt data-ruby-level="1">にん</rt></ruby>
 last_modified_at: '2017-11-05T15:18:00+09:00'
-datetime: 2017年11月05日 15時18分
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>11<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>05<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 15<ruby>時<rt data-ruby-level="2">じ</rt></ruby>18<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
 description: 伝統工芸から最先端の工業技術までものづくりで特に優れた技能を持つ「現代の名工」に全国の１４９人が選ばれました。
-summary: 伝統工芸から最先端の工業技術までものづくりで特に優れた技能を持つ「現代の名工」に全国の１４９人が選ばれました。
+summary: <ruby>伝統<rt data-ruby-level="5">でんとう</rt></ruby><ruby>工芸<rt data-ruby-level="4">こうげい</rt></ruby>から<ruby>最先端<rt
+  data-ruby-level="7">さいせんたん</rt></ruby>の<ruby>工業<rt data-ruby-level="3">こうぎょう</rt></ruby><ruby>技術<rt
+  data-ruby-level="5">ぎじゅつ</rt></ruby>までものづくりで<ruby>特<rt data-ruby-level="4">とく</rt></ruby>に<ruby>優<rt
+  data-ruby-level="7">すぐ</rt></ruby>れた<ruby>技能<rt data-ruby-level="5">ぎのう</rt></ruby>を<ruby>持<rt
+  data-ruby-level="3">も</rt></ruby>つ「<ruby>現代<rt data-ruby-level="5">げんだい</rt></ruby>の<ruby>名工<rt
+  data-ruby-level="2">めいこう</rt></ruby>」に<ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby>の１４９<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>が<ruby>選<rt data-ruby-level="4">えら</rt></ruby>ばれました。
 image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/05/K10011211271_1711051445_1711051448_01_02.jpg
-more: 優れたものづくりの技能を多くの人に知ってもらい、若者に受け継いでもらおうと厚生労働省は「現代の名工」として毎年、職人や技術者を表彰しています。ことしは全国で１４９人が選ばれました。<br
-  /><br />このうち兵庫県芦屋市のパン職人、フィリップ・ビゴさん（７５）は母国のフランスで１５歳からパン作りの修行を始めました。当時、パリで第一人者とされる職人に学び昭和４０年、２２歳のときに神戸市に拠点を置くパン店に招かれ、来日しました。<br
-  /><br />そして、全国各地で本場のフランスパンの作り方を広めた一方、みずから営むパン店などで若手職人の育成にも積極的に取り組みました。２００３年にはフランスで最も名誉ある国家勲章「レジオン・ドヌール勲章」を受章し、今では「フランスパンの神様」とも呼ばれています。<br
-  /><br />ビゴさんは「大変うれしいです。昔はフランスパンといえば、『固くて食べられない』とも言われましたが、ちゃんとしたパンを作り続けることで、『おいしい』と評価してくれる人が増えていきました。パンを作る大切さを今後も伝えていきたいです」と話していました。<br
-  /><br />「現代の名工」の表彰式は６日東京・新宿区で行われます。
+more: <ruby>優<rt data-ruby-level="7">すぐ</rt></ruby>れたものづくりの<ruby>技能<rt data-ruby-level="5">ぎのう</rt></ruby>を<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>くの<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>に<ruby>知<rt
+  data-ruby-level="2">し</rt></ruby>ってもらい、<ruby>若者<rt data-ruby-level="6">わかもの</rt></ruby>に<ruby>受<rt
+  data-ruby-level="7">う</rt></ruby>け<ruby>継<rt data-ruby-level="7">つ</rt></ruby>いでもらおうと<ruby>厚生労働省<rt
+  data-ruby-level="7">こうせいろうどうしょう</rt></ruby>は「<ruby>現代<rt data-ruby-level="5">げんだい</rt></ruby>の<ruby>名工<rt
+  data-ruby-level="2">めいこう</rt></ruby>」として<ruby>毎年<rt data-ruby-level="2">まいとし</rt></ruby>、<ruby>職人<rt
+  data-ruby-level="5">しょくにん</rt></ruby>や<ruby>技術者<rt data-ruby-level="5">ぎじゅつしゃ</rt></ruby>を<ruby>表彰<rt
+  data-ruby-level="7">ひょうしょう</rt></ruby>しています。ことしは<ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby>で１４９<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>が<ruby>選<rt data-ruby-level="4">えら</rt></ruby>ばれました。<br
+  /><br />このうち<ruby>兵庫県<rt data-ruby-level="7">ひょうごけん</rt></ruby><ruby>芦屋市<rt data-ruby-level="8">あしやし</rt></ruby>のパン<ruby>職人<rt
+  data-ruby-level="5">しょくにん</rt></ruby>、フィリップ・ビゴさん（７５）は<ruby>母国<rt data-ruby-level="2">ぼこく</rt></ruby>のフランスで１５<ruby>歳<rt
+  data-ruby-level="7">さい</rt></ruby>からパン<ruby>作<rt data-ruby-level="2">づく</rt></ruby>りを<ruby>始<rt
+  data-ruby-level="3">はじ</rt></ruby>めました。<ruby>当時<rt data-ruby-level="2">とうじ</rt></ruby>、パリで<ruby>第一人者<rt
+  data-ruby-level="3">だいいちにんしゃ</rt></ruby>とされる<ruby>職人<rt data-ruby-level="5">しょくにん</rt></ruby>に<ruby>学<rt
+  data-ruby-level="1">まな</rt></ruby>び<ruby>昭和<rt data-ruby-level="3">しょうわ</rt></ruby>４０<ruby>年<rt
+  data-ruby-level="1">ねん</rt></ruby>、２２<ruby>歳<rt data-ruby-level="7">さい</rt></ruby>のときに<ruby>神戸市<rt
+  data-ruby-level="8">こうべし</rt></ruby>に<ruby>拠点<rt data-ruby-level="7">きょてん</rt></ruby>を<ruby>置<rt
+  data-ruby-level="4">お</rt></ruby>くパン<ruby>店<rt data-ruby-level="2">てん</rt></ruby>に<ruby>招<rt
+  data-ruby-level="5">まね</rt></ruby>かれ、<ruby>来日<rt data-ruby-level="2">らいにち</rt></ruby>しました。<br
+  /><br />そして、<ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby><ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>で<ruby>本場<rt
+  data-ruby-level="2">ほんば</rt></ruby>のフランスパンの<ruby>作<rt data-ruby-level="2">つく</rt></ruby>り<ruby>方<rt
+  data-ruby-level="2">かた</rt></ruby>を<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>めた<ruby>一方<rt
+  data-ruby-level="2">いっぽう</rt></ruby>、みずから<ruby>営<rt data-ruby-level="5">いとな</rt></ruby>むパン<ruby>店<rt
+  data-ruby-level="2">てん</rt></ruby>などで<ruby>若手<rt data-ruby-level="6">わかて</rt></ruby><ruby>職人<rt
+  data-ruby-level="5">しょくにん</rt></ruby>の<ruby>育成<rt data-ruby-level="4">いくせい</rt></ruby>にも<ruby>積極的<rt
+  data-ruby-level="4">せっきょくてき</rt></ruby>に<ruby>取<rt data-ruby-level="3">と</rt></ruby>り<ruby>組<rt
+  data-ruby-level="3">く</rt></ruby>みました。２００３<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>にはフランスで<ruby>最<rt
+  data-ruby-level="4">もっと</rt></ruby>も<ruby>名誉<rt data-ruby-level="7">めいよ</rt></ruby>ある<ruby>国家<rt
+  data-ruby-level="2">こっか</rt></ruby><ruby>勲章<rt data-ruby-level="7">くんしょう</rt></ruby>「レジオン・ドヌール<ruby>勲章<rt
+  data-ruby-level="7">くんしょう</rt></ruby>」を<ruby>受章<rt data-ruby-level="3">じゅしょう</rt></ruby>し、<ruby>今<rt
+  data-ruby-level="2">いま</rt></ruby>では「フランスパンの<ruby>神様<rt data-ruby-level="3">かみさま</rt></ruby>」とも<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>ばれています。<br /><br />ビゴさんは「<ruby>大変<rt data-ruby-level="4">たいへん</rt></ruby>うれしいです。<ruby>昔<rt
+  data-ruby-level="3">むかし</rt></ruby>はフランスパンといえば、『<ruby>固<rt data-ruby-level="4">かた</rt></ruby>くて<ruby>食<rt
+  data-ruby-level="2">た</rt></ruby>べられない』とも<ruby>言<rt data-ruby-level="2">い</rt></ruby>われましたが、ちゃんとしたパンを<ruby>作<rt
+  data-ruby-level="4">つく</rt></ruby>り<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>けることで、『おいしい』と<ruby>評価<rt
+  data-ruby-level="5">ひょうか</rt></ruby>してくれる<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>が<ruby>増<rt
+  data-ruby-level="5">ふ</rt></ruby>えていきました。パンを<ruby>作<rt data-ruby-level="2">つく</rt></ruby>る<ruby>大切<rt
+  data-ruby-level="2">たいせつ</rt></ruby>さを<ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>も<ruby>伝<rt
+  data-ruby-level="4">つた</rt></ruby>えていきたいです」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。<br
+  /><br />「<ruby>現代<rt data-ruby-level="5">げんだい</rt></ruby>の<ruby>名工<rt data-ruby-level="2">めいこう</rt></ruby>」の<ruby>表彰式<rt
+  data-ruby-level="7">ひょうしょうしき</rt></ruby>は６<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>東京<rt
+  data-ruby-level="2">とうきょう</rt></ruby>・<ruby>新宿区<rt data-ruby-level="3">しんじゅくく</rt></ruby>で<ruby>行<rt
+  data-ruby-level="2">おこな</rt></ruby>われます。
+movie_url: https://newswebeasy.github.io/ja201711/news/web/movie/2017/11/05/k10011211271_201711052102_201711052104.mp4
+voice_url: https://newswebeasy.github.io/ja201711/news/web/voice/2017/11/05/k10011211271_201711052102_201711052104.mp3
 source_url: http://www3.nhk.or.jp/news/html/20171105/k10011211271000.html
 ...

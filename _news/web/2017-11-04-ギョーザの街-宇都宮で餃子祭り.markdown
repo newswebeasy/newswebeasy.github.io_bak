@@ -3,15 +3,50 @@ layout: web_news
 categories: web
 newsid: k10011210261000
 title: ギョーザの街 宇都宮で「餃子祭り」
+title_with_ruby: ギョーザの<ruby>街<rt data-ruby-level="4">まち</rt></ruby> <ruby>宇都宮<rt data-ruby-level="8">うつのみや</rt></ruby>で「<ruby>餃子<rt
+  data-ruby-level="8">ぎょーざ</rt></ruby><ruby>祭<rt data-ruby-level="3">まつ</rt></ruby>り」
 last_modified_at: '2017-11-04T12:49:00+09:00'
-datetime: 2017年11月04日 12時49分
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>11<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>04<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 12<ruby>時<rt data-ruby-level="2">じ</rt></ruby>49<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
 description: 「ギョーザの街」として知られる宇都宮市で、さまざまな店のギョーザが楽しめる催しが始まり、大勢の人でにぎわっています。
-summary: 「ギョーザの街」として知られる宇都宮市で、さまざまな店のギョーザが楽しめる催しが始まり、大勢の人でにぎわっています。
+summary: 「ギョーザの<ruby>街<rt data-ruby-level="4">まち</rt></ruby>」として<ruby>知<rt data-ruby-level="2">し</rt></ruby>られる<ruby>宇都宮市<rt
+  data-ruby-level="8">うつのみやし</rt></ruby>で、さまざまな<ruby>店<rt data-ruby-level="2">みせ</rt></ruby>のギョーザが<ruby>楽<rt
+  data-ruby-level="2">たの</rt></ruby>しめる<ruby>催<rt data-ruby-level="7">もよお</rt></ruby>しが<ruby>始<rt
+  data-ruby-level="3">はじ</rt></ruby>まり、<ruby>大勢<rt data-ruby-level="5">おおぜい</rt></ruby>の<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>でにぎわっています。
 image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/04/K10011210261_1711041250_1711041252_01_03.jpg
-more: 「宇都宮餃子祭り」は、名物のギョーザを多くの人に味わってもらおうと、毎年、この時期に開かれています。<br /><br />ことしは、これまでで最も多い２８の店が参加しています。会場の宇都宮城址公園には、店のテントがずらりと並び、焼きギョーザや水ギョーザなどの自慢の品を、３個１００円で販売しています。<br
-  /><br />テントの前には、催しが始まる午前１０時の前から長い列ができ、訪れた人たちは、熱々のギョーザを受け取ると、早速ほおばっていました。<br /><br
-  />東京から来た３０代の女性は「ギョーザが大好きなので絶対に来たいと思っていました。いろいろなお店のギョーザが食べられるのでとても楽しいです」と話していました。<br
-  /><br />「宇都宮餃子祭り」は、４日と５日、午後４時まで開かれています。
+more: 「<ruby>宇都宮<rt data-ruby-level="8">うつのみや</rt></ruby><ruby>餃子<rt data-ruby-level="8">ぎょーざ</rt></ruby><ruby>祭<rt
+  data-ruby-level="3">まつ</rt></ruby>り」は、<ruby>名物<rt data-ruby-level="3">めいぶつ</rt></ruby>のギョーザを<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>くの<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>に<ruby>味<rt
+  data-ruby-level="3">あじ</rt></ruby>わってもらおうと、<ruby>毎年<rt data-ruby-level="2">まいとし</rt></ruby>、この<ruby>時期<rt
+  data-ruby-level="3">じき</rt></ruby>に<ruby>開<rt data-ruby-level="3">ひら</rt></ruby>かれています。<br
+  /><br />ことしは、これまでで<ruby>最<rt data-ruby-level="4">もっと</rt></ruby>も<ruby>多<rt data-ruby-level="2">おお</rt></ruby>い２８の<ruby>店<rt
+  data-ruby-level="2">みせ</rt></ruby>が<ruby>参加<rt data-ruby-level="4">さんか</rt></ruby>しています。<ruby>会場<rt
+  data-ruby-level="2">かいじょう</rt></ruby>の<ruby>宇都宮<rt data-ruby-level="8">うつのみや</rt></ruby><ruby>城址<rt
+  data-ruby-level="8">じょうし</rt></ruby><ruby>公園<rt data-ruby-level="2">こうえん</rt></ruby>には、<ruby>店<rt
+  data-ruby-level="2">みせ</rt></ruby>のテントがずらりと<ruby>並<rt data-ruby-level="6">なら</rt></ruby>び、<ruby>焼<rt
+  data-ruby-level="4">や</rt></ruby>きギョーザや<ruby>水<rt data-ruby-level="1">すい</rt></ruby><ruby>ギョーザ<rt
+  data-ruby-level="1">ぎょーざ</rt></ruby>などの<ruby>自慢<rt data-ruby-level="7">じまん</rt></ruby>の<ruby>品<rt
+  data-ruby-level="3">しな</rt></ruby>を、３<ruby>個<rt data-ruby-level="5">こ</rt></ruby>１００<ruby>円<rt
+  data-ruby-level="1">えん</rt></ruby>で<ruby>販売<rt data-ruby-level="7">はんばい</rt></ruby>しています。<br
+  /><br />テントの<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>には、<ruby>催<rt data-ruby-level="7">もよお</rt></ruby>しが<ruby>始<rt
+  data-ruby-level="3">はじ</rt></ruby>まる<ruby>午前<rt data-ruby-level="2">ごぜん</rt></ruby>１０<ruby>時<rt
+  data-ruby-level="2">じ</rt></ruby>の<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>から<ruby>長<rt
+  data-ruby-level="2">なが</rt></ruby>い<ruby>列<rt data-ruby-level="3">れつ</rt></ruby>ができ、<ruby>訪<rt
+  data-ruby-level="7">おとず</rt></ruby>れた<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>たちは、<ruby>熱々<rt
+  data-ruby-level="4">あつあつ</rt></ruby>のギョーザを<ruby>受<rt data-ruby-level="3">う</rt></ruby>け<ruby>取<rt
+  data-ruby-level="3">と</rt></ruby>ると、<ruby>早速<rt data-ruby-level="7">さっそく</rt></ruby>ほおばっていました。<br
+  /><br /><ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>から<ruby>来<rt data-ruby-level="2">き</rt></ruby>た３０<ruby>代<rt
+  data-ruby-level="3">だい</rt></ruby>の<ruby>女性<rt data-ruby-level="5">じょせい</rt></ruby>は「ギョーザが<ruby>大好<rt
+  data-ruby-level="4">だいす</rt></ruby>きなので<ruby>絶対<rt data-ruby-level="5">ぜったい</rt></ruby>に<ruby>来<rt
+  data-ruby-level="2">き</rt></ruby>たいと<ruby>思<rt data-ruby-level="2">おも</rt></ruby>っていました。いろいろなお<ruby>店<rt
+  data-ruby-level="2">みせ</rt></ruby>のギョーザが<ruby>食<rt data-ruby-level="2">た</rt></ruby>べられるのでとても<ruby>楽<rt
+  data-ruby-level="2">たの</rt></ruby>しいです」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。<br
+  /><br />「<ruby>宇都宮<rt data-ruby-level="8">うつのみや</rt></ruby><ruby>餃子<rt data-ruby-level="8">ぎょーざ</rt></ruby><ruby>祭<rt
+  data-ruby-level="3">まつ</rt></ruby>り」は、４<ruby>日<rt data-ruby-level="1">にち</rt></ruby>と５<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>、<ruby>午後<rt data-ruby-level="2">ごご</rt></ruby>４<ruby>時<rt
+  data-ruby-level="2">じ</rt></ruby>まで<ruby>開<rt data-ruby-level="3">ひら</rt></ruby>かれています。
 movie_url: https://newswebeasy.github.io/ja201711/news/web/movie/2017/11/04/k10011210261_201711041250_201711041252.mp4
 voice_url: https://newswebeasy.github.io/ja201711/news/web/voice/2017/11/04/k10011210261_201711041250_201711041252.mp3
 source_url: http://www3.nhk.or.jp/news/html/20171104/k10011210261000.html

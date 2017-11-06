@@ -3,20 +3,97 @@ layout: web_news
 categories: web
 newsid: k10011210301000
 title: イバンカ氏 日比谷公園などで散策楽しむ
+title_with_ruby: イバン<ruby>カ<rt data-ruby-level="4">か</rt></ruby><ruby>氏<rt data-ruby-level="4">し</rt></ruby>
+  <ruby>日比谷公園<rt data-ruby-level="8">ひびやこうえん</rt></ruby>などで<ruby>散策<rt data-ruby-level="6">さんさく</rt></ruby><ruby>楽<rt
+  data-ruby-level="2">たの</rt></ruby>しむ
 last_modified_at: '2017-11-04T14:44:00+09:00'
-datetime: 2017年11月04日 14時44分
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>11<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>04<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 14<ruby>時<rt data-ruby-level="2">じ</rt></ruby>44<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
 description: アメリカのトランプ大統領の長女で大統領補佐官を務めるイバンカ氏は４日、都内の公園を散策するなどして日本での最後のひとときを過ごしました。
-summary: アメリカのトランプ大統領の長女で大統領補佐官を務めるイバンカ氏は４日、都内の公園を散策するなどして日本での最後のひとときを過ごしました。
+summary: アメリカのトランプ<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby>の<ruby>長女<rt
+  data-ruby-level="2">ちょうじょ</rt></ruby>で<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby><ruby>補佐官<rt
+  data-ruby-level="7">ほさかん</rt></ruby>を<ruby>務<rt data-ruby-level="5">つと</rt></ruby>めるイバン<ruby>カ<rt
+  data-ruby-level="4">か</rt></ruby><ruby>氏<rt data-ruby-level="4">し</rt></ruby>は４<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>、<ruby>都内<rt data-ruby-level="3">とない</rt></ruby>の<ruby>公園<rt
+  data-ruby-level="2">こうえん</rt></ruby>を<ruby>散策<rt data-ruby-level="6">さんさく</rt></ruby>するなどして<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>での<ruby>最後<rt data-ruby-level="4">さいご</rt></ruby>のひとときを<ruby>過<rt
+  data-ruby-level="5">す</rt></ruby>ごしました。
 image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/04/K10011210301_1711041218_1711041223_01_03.jpg
-more: イバンカ氏は、４日午前、東京・千代田区の日比谷公園を訪れ、警備の人たちに囲まれながら花や植物を見て回りました。そのあと皇居前広場に向かい、時折、立ち止まっては皇居や橋などを背景に写真を撮っていたほか、集まった人たちに笑顔で手を振っていました。<br
-  /><br />公園や皇居の前では、イバンカ氏に気づいた大勢の人たちが近くでひと目見ようと続々と集まり、スマートフォンで写真を撮ったり、手を振ったりしていました。皇居前広場では、イバンカ氏に近づこうとした報道陣や集まった人たちを阻止しようと警備の人が大声を出すなどの一幕もありました。<br
-  /><br />赤いバラを手に、イバンカ氏の車を見送った１０歳の男の子は「こっちに向かって手を振ってくれました。同じホテルに泊まっていたのでイバンカさんに渡そうと思ったのですが、タイミングがありませんでした」と話していました。<br
-  />また、子どもたちと皇居の周りを走っていたという長野から来た男性は「イバンカさんは美しく、ひときわ目立っていました。長野からきょう来て、せっかくだから走ってみようと思ったら見かけたので、ラッキーでした」と話していました。<br
-  /><br />イバンカ氏は、４日午後、帰国する予定です。
+more: イバン<ruby>カ<rt data-ruby-level="4">か</rt></ruby><ruby>氏<rt data-ruby-level="4">し</rt></ruby>は、４<ruby>日午前<rt
+  data-ruby-level="2">にちごぜん</rt></ruby>、<ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>・<ruby>千代田区<rt
+  data-ruby-level="3">ちよだく</rt></ruby>の<ruby>日比谷公園<rt data-ruby-level="8">ひびやこうえん</rt></ruby>を<ruby>訪<rt
+  data-ruby-level="7">おとず</rt></ruby>れ、<ruby>警備<rt data-ruby-level="6">けいび</rt></ruby>の<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>たちに<ruby>囲<rt data-ruby-level="4">かこ</rt></ruby>まれながら<ruby>花<rt
+  data-ruby-level="1">はな</rt></ruby>や<ruby>植物<rt data-ruby-level="3">しょくぶつ</rt></ruby>を<ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>て<ruby>回<rt data-ruby-level="2">まわ</rt></ruby>りました。そのあと<ruby>皇居前<rt
+  data-ruby-level="6">こうきょまえ</rt></ruby><ruby>広場<rt data-ruby-level="2">ひろば</rt></ruby>に<ruby>向<rt
+  data-ruby-level="3">む</rt></ruby>かい、<ruby>時折<rt data-ruby-level="4">ときおり</rt></ruby>、<ruby>立<rt
+  data-ruby-level="2">た</rt></ruby>ち<ruby>止<rt data-ruby-level="2">ど</rt></ruby>まっては<ruby>皇居<rt
+  data-ruby-level="6">こうきょ</rt></ruby>や<ruby>橋<rt data-ruby-level="3">はし</rt></ruby>などを<ruby>背景<rt
+  data-ruby-level="6">はいけい</rt></ruby>に<ruby>写真<rt data-ruby-level="3">しゃしん</rt></ruby>を<ruby>撮<rt
+  data-ruby-level="7">と</rt></ruby>っていたほか、<ruby>集<rt data-ruby-level="3">あつ</rt></ruby>まった<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>たちに<ruby>笑顔<rt data-ruby-level="7">えがお</rt></ruby>で<ruby>手<rt
+  data-ruby-level="1">て</rt></ruby>を<ruby>振<rt data-ruby-level="7">ふ</rt></ruby>っていました。<br
+  /><br /><ruby>公園<rt data-ruby-level="2">こうえん</rt></ruby>や<ruby>皇居<rt data-ruby-level="6">こうきょ</rt></ruby>の<ruby>前<rt
+  data-ruby-level="2">まえ</rt></ruby>では、イバン<ruby>カ<rt data-ruby-level="4">か</rt></ruby><ruby>氏<rt
+  data-ruby-level="4">し</rt></ruby>に<ruby>気<rt data-ruby-level="1">き</rt></ruby>づいた<ruby>大勢<rt
+  data-ruby-level="5">おおぜい</rt></ruby>の<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>たちが<ruby>近<rt
+  data-ruby-level="2">ちか</rt></ruby>くでひと<ruby>目<rt data-ruby-level="1">め</rt></ruby><ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>ようと<ruby>続々<rt data-ruby-level="4">ぞくぞく</rt></ruby>と<ruby>集<rt
+  data-ruby-level="3">あつ</rt></ruby>まり、スマートフォンで<ruby>写真<rt data-ruby-level="3">しゃしん</rt></ruby>を<ruby>撮<rt
+  data-ruby-level="7">と</rt></ruby>ったり、<ruby>手<rt data-ruby-level="1">て</rt></ruby>を<ruby>振<rt
+  data-ruby-level="7">ふ</rt></ruby>ったりしていました。<ruby>皇居前<rt data-ruby-level="6">こうきょまえ</rt></ruby><ruby>広場<rt
+  data-ruby-level="2">ひろば</rt></ruby>では、イバン<ruby>カ<rt data-ruby-level="4">か</rt></ruby><ruby>氏<rt
+  data-ruby-level="4">し</rt></ruby>に<ruby>近<rt data-ruby-level="2">ちか</rt></ruby>づこうとした<ruby>報道陣<rt
+  data-ruby-level="7">ほうどうじん</rt></ruby>や<ruby>集<rt data-ruby-level="3">あつ</rt></ruby>まった<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>たちを<ruby>阻止<rt data-ruby-level="7">そし</rt></ruby>しようと<ruby>警備<rt
+  data-ruby-level="6">けいび</rt></ruby>の<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>が<ruby>大声<rt
+  data-ruby-level="2">おおごえ</rt></ruby>を<ruby>出<rt data-ruby-level="1">だ</rt></ruby>すなどの<ruby>一幕<rt
+  data-ruby-level="6">ひとまく</rt></ruby>もありました。<br /><br /><ruby>赤<rt data-ruby-level="1">あか</rt></ruby>いバラを<ruby>手<rt
+  data-ruby-level="1">て</rt></ruby>に、イバン<ruby>カ<rt data-ruby-level="4">か</rt></ruby><ruby>氏<rt
+  data-ruby-level="4">し</rt></ruby>の<ruby>車<rt data-ruby-level="1">くるま</rt></ruby>を<ruby>見送<rt
+  data-ruby-level="3">みおく</rt></ruby>った１０<ruby>歳<rt data-ruby-level="7">さい</rt></ruby>の<ruby>男<rt
+  data-ruby-level="1">おとこ</rt></ruby>の<ruby>子<rt data-ruby-level="1">こ</rt></ruby>は「こっちに<ruby>向<rt
+  data-ruby-level="3">む</rt></ruby>かって<ruby>手<rt data-ruby-level="1">て</rt></ruby>を<ruby>振<rt
+  data-ruby-level="7">ふ</rt></ruby>ってくれました。<ruby>同<rt data-ruby-level="2">おな</rt></ruby>じホテルに<ruby>泊<rt
+  data-ruby-level="7">と</rt></ruby>まっていたのでイバンカさんに<ruby>渡<rt data-ruby-level="7">わた</rt></ruby>そうと<ruby>思<rt
+  data-ruby-level="2">おも</rt></ruby>ったのですが、タイミングがありませんでした」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。<br
+  />また、<ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもたちと<ruby>皇居<rt data-ruby-level="6">こうきょ</rt></ruby>の<ruby>周<rt
+  data-ruby-level="4">まわ</rt></ruby>りを<ruby>走<rt data-ruby-level="2">はし</rt></ruby>っていたという<ruby>長野<rt
+  data-ruby-level="2">ながの</rt></ruby>から<ruby>来<rt data-ruby-level="2">き</rt></ruby>た<ruby>男性<rt
+  data-ruby-level="5">だんせい</rt></ruby>は「イバンカさんは<ruby>美<rt data-ruby-level="3">うつく</rt></ruby>しく、ひときわ<ruby>目立<rt
+  data-ruby-level="1">めだ</rt></ruby>っていました。<ruby>長野<rt data-ruby-level="2">ながの</rt></ruby>からきょう<ruby>来<rt
+  data-ruby-level="2">き</rt></ruby>て、せっかくだから<ruby>走<rt data-ruby-level="2">はし</rt></ruby>ってみようと<ruby>思<rt
+  data-ruby-level="2">おも</rt></ruby>ったら<ruby>見<rt data-ruby-level="1">み</rt></ruby>かけたので、ラッキーでした」と<ruby>話<rt
+  data-ruby-level="2">はな</rt></ruby>していました。<br /><br />イバン<ruby>カ<rt data-ruby-level="4">か</rt></ruby><ruby>氏<rt
+  data-ruby-level="4">し</rt></ruby>は、４<ruby>日午後<rt data-ruby-level="2">にちごご</rt></ruby>、<ruby>帰国<rt
+  data-ruby-level="2">きこく</rt></ruby>する<ruby>予定<rt data-ruby-level="3">よてい</rt></ruby>です。
 movie_url: https://newswebeasy.github.io/ja201711/news/web/movie/2017/11/04/k10011210301_201711041344_201711041508.mp4
 voice_url: https://newswebeasy.github.io/ja201711/news/web/voice/2017/11/04/k10011210301_201711041344_201711041508.mp3
 body:
-- title: 「心を動かされた」
-  text: イバンカ氏は4日午前、都内を散策した際、皇居前広場で撮影した２枚の写真をＳＮＳに投稿しました。<br /><br />インスタグラムに投稿された写真は、皇居の二重橋の前で撮影されたもので、サングラスをかけピンクの花模様をあしらった黒い服を着たイバンカ氏が笑顔で写っています。イバンカ氏は「アメリカに飛行機で戻る前に、日比谷公園と皇居前広場を散策する機会がありました。東京の壮大な歴史と美しさに心を動かされました」というコメントを添えています。
+- title: 「<ruby>心<rt data-ruby-level="2">こころ</rt></ruby>を<ruby>動<rt data-ruby-level="3">うご</rt></ruby>かされた」
+  text: イバン<ruby>カ<rt data-ruby-level="4">か</rt></ruby><ruby>氏<rt data-ruby-level="4">し</rt></ruby>は4<ruby>日午前<rt
+    data-ruby-level="2">にちごぜん</rt></ruby>、<ruby>都内<rt data-ruby-level="3">とない</rt></ruby>を<ruby>散策<rt
+    data-ruby-level="6">さんさく</rt></ruby>した<ruby>際<rt data-ruby-level="5">さい</rt></ruby>、<ruby>皇居前<rt
+    data-ruby-level="6">こうきょまえ</rt></ruby><ruby>広場<rt data-ruby-level="2">ひろば</rt></ruby>で<ruby>撮影<rt
+    data-ruby-level="7">さつえい</rt></ruby>した２<ruby>枚<rt data-ruby-level="6">まい</rt></ruby>の<ruby>写真<rt
+    data-ruby-level="3">しゃしん</rt></ruby>をＳＮＳに<ruby>投稿<rt data-ruby-level="7">とうこう</rt></ruby>しました。<br
+    /><br />インスタグラムに<ruby>投稿<rt data-ruby-level="7">とうこう</rt></ruby>された<ruby>写真<rt
+    data-ruby-level="3">しゃしん</rt></ruby>は、<ruby>皇居<rt data-ruby-level="6">こうきょ</rt></ruby>の<ruby>二重橋<rt
+    data-ruby-level="3">にじゅうばし</rt></ruby>の<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>で<ruby>撮影<rt
+    data-ruby-level="7">さつえい</rt></ruby>されたもので、サングラスをかけピンクの<ruby>花模様<rt data-ruby-level="6">はなもよう</rt></ruby>をあしらった<ruby>黒<rt
+    data-ruby-level="2">くろ</rt></ruby>い<ruby>服<rt data-ruby-level="3">ふく</rt></ruby>を<ruby>着<rt
+    data-ruby-level="3">き</rt></ruby>たイバン<ruby>カ<rt data-ruby-level="4">か</rt></ruby><ruby>氏<rt
+    data-ruby-level="4">し</rt></ruby>が<ruby>笑顔<rt data-ruby-level="7">えがお</rt></ruby>で<ruby>写<rt
+    data-ruby-level="3">うつ</rt></ruby>っています。イバン<ruby>カ<rt data-ruby-level="4">か</rt></ruby><ruby>氏<rt
+    data-ruby-level="4">し</rt></ruby>は「アメリカに<ruby>飛行機<rt data-ruby-level="4">ひこうき</rt></ruby>で<ruby>戻<rt
+    data-ruby-level="7">もど</rt></ruby>る<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>に、<ruby>日比谷公園<rt
+    data-ruby-level="8">ひびやこうえん</rt></ruby>と<ruby>皇居前<rt data-ruby-level="6">こうきょまえ</rt></ruby><ruby>広場<rt
+    data-ruby-level="2">ひろば</rt></ruby>を<ruby>散策<rt data-ruby-level="6">さんさく</rt></ruby>する<ruby>機会<rt
+    data-ruby-level="4">きかい</rt></ruby>がありました。<ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>の<ruby>壮大<rt
+    data-ruby-level="7">そうだい</rt></ruby>な<ruby>歴史<rt data-ruby-level="4">れきし</rt></ruby>と<ruby>美<rt
+    data-ruby-level="3">うつく</rt></ruby>しさに<ruby>心<rt data-ruby-level="2">こころ</rt></ruby>を<ruby>動<rt
+    data-ruby-level="3">うご</rt></ruby>かされました」というコメントを<ruby>添<rt data-ruby-level="7">そ</rt></ruby>えています。
 source_url: http://www3.nhk.or.jp/news/html/20171104/k10011210301000.html
 ...

@@ -3,16 +3,71 @@ layout: web_news
 categories: web
 newsid: k10011210011000
 title: 世界の温室効果ガス濃度 去年過去最高に
+title_with_ruby: <ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>の<ruby>温室<rt data-ruby-level="3">おんしつ</rt></ruby><ruby>効果<rt
+  data-ruby-level="5">こうか</rt></ruby>ガス<ruby>濃度<rt data-ruby-level="7">のうど</rt></ruby>
+  <ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby><ruby>過去<rt data-ruby-level="5">かこ</rt></ruby><ruby>最高<rt
+  data-ruby-level="4">さいこう</rt></ruby>に
 last_modified_at: '2017-11-04T05:24:00+09:00'
-datetime: 2017年11月04日 05時24分
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>11<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>04<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 05<ruby>時<rt data-ruby-level="2">じ</rt></ruby>24<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
 description: 地球温暖化の原因となる３種類の温室効果ガスの世界の平均濃度が、去年はいずれも解析を始めてから最も高い値になり、このうち二酸化炭素は、前の年からの増加量も過去最多となったことが、ＷＭＯ＝世界気象機関の解析でわかりました。
-summary: 地球温暖化の原因となる３種類の温室効果ガスの世界の平均濃度が、去年はいずれも解析を始めてから最も高い値になり、このうち二酸化炭素は、前の年からの増加量も過去最多となったことが、ＷＭＯ＝世界気象機関の解析でわかりました。
+summary: <ruby>地球<rt data-ruby-level="3">ちきゅう</rt></ruby><ruby>温暖化<rt data-ruby-level="6">おんだんか</rt></ruby>の<ruby>原因<rt
+  data-ruby-level="5">げんいん</rt></ruby>となる３<ruby>種類<rt data-ruby-level="4">しゅるい</rt></ruby>の<ruby>温室<rt
+  data-ruby-level="3">おんしつ</rt></ruby><ruby>効果<rt data-ruby-level="5">こうか</rt></ruby>ガスの<ruby>世界<rt
+  data-ruby-level="3">せかい</rt></ruby>の<ruby>平均<rt data-ruby-level="5">へいきん</rt></ruby><ruby>濃度<rt
+  data-ruby-level="7">のうど</rt></ruby>が、<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>はいずれも<ruby>解析<rt
+  data-ruby-level="7">かいせき</rt></ruby>を<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>めてから<ruby>最<rt
+  data-ruby-level="4">もっと</rt></ruby>も<ruby>高<rt data-ruby-level="2">たか</rt></ruby>い<ruby>値<rt
+  data-ruby-level="6">ね</rt></ruby>になり、このうち<ruby>二酸化<rt data-ruby-level="5">にさんか</rt></ruby><ruby>炭素<rt
+  data-ruby-level="5">たんそ</rt></ruby>は、<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>の<ruby>年<rt
+  data-ruby-level="2">とし</rt></ruby>からの<ruby>増加量<rt data-ruby-level="5">ぞうかりょう</rt></ruby>も<ruby>過去<rt
+  data-ruby-level="5">かこ</rt></ruby><ruby>最多<rt data-ruby-level="4">さいた</rt></ruby>となったことが、ＷＭＯ＝<ruby>世界<rt
+  data-ruby-level="3">せかい</rt></ruby><ruby>気象<rt data-ruby-level="4">きしょう</rt></ruby><ruby>機関<rt
+  data-ruby-level="4">きかん</rt></ruby>の<ruby>解析<rt data-ruby-level="7">かいせき</rt></ruby>でわかりました。
 image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/04/K10011210011_1711040619_1711040625_01_03.jpg
-more: ＷＭＯは、地球温暖化の原因となる主要な３種類の温室効果ガスについて、世界の気象当局や研究機関が観測しているデータを解析し、去年のデータを発表しました。<br
-  /><br />それによりますと、二酸化炭素の世界の平均濃度は、年々上昇を続け、去年は４０３．３ｐｐｍと、世界各地で観測を始めた１９８４年以降、最も高くなりました。<br
-  /><br />また、前の年からの増加量も３．３ｐｐｍと過去最も多くなり、最近１０年間の１年当たりの平均増加量の１．５倍近くに達しています。<br /><br
-  />このほかの温室効果ガスの世界の平均濃度は、メタンが１８５３ｐｐｂ、一酸化二窒素が３２８．９ｐｐｂと、いずれも去年を上回り、観測史上、最も高くなりました。<br
-  /><br />ＷＭＯの解析で中心的な役割を果たした気象庁は、「短時間に大雨が降るケースが徐々に増えるなど、地球温暖化による災害のリスクが高まりつつあると考えられ、引き続き温暖化対策に取り組む必要がある」と話しています。
+more: ＷＭＯは、<ruby>地球<rt data-ruby-level="3">ちきゅう</rt></ruby><ruby>温暖化<rt data-ruby-level="6">おんだんか</rt></ruby>の<ruby>原因<rt
+  data-ruby-level="5">げんいん</rt></ruby>となる<ruby>主要<rt data-ruby-level="4">しゅよう</rt></ruby>な３<ruby>種類<rt
+  data-ruby-level="4">しゅるい</rt></ruby>の<ruby>温室<rt data-ruby-level="3">おんしつ</rt></ruby><ruby>効果<rt
+  data-ruby-level="5">こうか</rt></ruby>ガスについて、<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>の<ruby>気象<rt
+  data-ruby-level="4">きしょう</rt></ruby><ruby>当局<rt data-ruby-level="3">とうきょく</rt></ruby>や<ruby>研究<rt
+  data-ruby-level="3">けんきゅう</rt></ruby><ruby>機関<rt data-ruby-level="4">きかん</rt></ruby>が<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>しているデータを<ruby>解析<rt data-ruby-level="7">かいせき</rt></ruby>し、<ruby>去年<rt
+  data-ruby-level="3">きょねん</rt></ruby>のデータを<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>しました。<br
+  /><br />それによりますと、<ruby>二酸化<rt data-ruby-level="5">にさんか</rt></ruby><ruby>炭素<rt data-ruby-level="5">たんそ</rt></ruby>の<ruby>世界<rt
+  data-ruby-level="3">せかい</rt></ruby>の<ruby>平均<rt data-ruby-level="5">へいきん</rt></ruby><ruby>濃度<rt
+  data-ruby-level="7">のうど</rt></ruby>は、<ruby>年々<rt data-ruby-level="1">ねんねん</rt></ruby><ruby>上昇<rt
+  data-ruby-level="7">じょうしょう</rt></ruby>を<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>け、<ruby>去年<rt
+  data-ruby-level="3">きょねん</rt></ruby>は４０３．３ｐｐｍと、<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby><ruby>各地<rt
+  data-ruby-level="4">かくち</rt></ruby>で<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>を<ruby>始<rt
+  data-ruby-level="3">はじ</rt></ruby>めた１９８４<ruby>年以降<rt data-ruby-level="6">ねんいこう</rt></ruby>、<ruby>最<rt
+  data-ruby-level="4">もっと</rt></ruby>も<ruby>高<rt data-ruby-level="2">たか</rt></ruby>くなりました。<br
+  /><br />また、<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>の<ruby>年<rt data-ruby-level="2">とし</rt></ruby>からの<ruby>増加量<rt
+  data-ruby-level="5">ぞうかりょう</rt></ruby>も３．３ｐｐｍと<ruby>過去<rt data-ruby-level="5">かこ</rt></ruby><ruby>最<rt
+  data-ruby-level="4">もっと</rt></ruby>も<ruby>多<rt data-ruby-level="2">おお</rt></ruby>くなり、<ruby>最近<rt
+  data-ruby-level="4">さいきん</rt></ruby>１０<ruby>年間<rt data-ruby-level="2">ねんかん</rt></ruby>の１<ruby>年<rt
+  data-ruby-level="1">ねん</rt></ruby><ruby>当<rt data-ruby-level="2">あ</rt></ruby>たりの<ruby>平均<rt
+  data-ruby-level="5">へいきん</rt></ruby><ruby>増加量<rt data-ruby-level="5">ぞうかりょう</rt></ruby>の１．５<ruby>倍<rt
+  data-ruby-level="3">ばい</rt></ruby><ruby>近<rt data-ruby-level="2">ちか</rt></ruby>くに<ruby>達<rt
+  data-ruby-level="4">たっ</rt></ruby>しています。<br /><br />このほかの<ruby>温室<rt data-ruby-level="3">おんしつ</rt></ruby><ruby>効果<rt
+  data-ruby-level="5">こうか</rt></ruby>ガスの<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>の<ruby>平均<rt
+  data-ruby-level="5">へいきん</rt></ruby><ruby>濃度<rt data-ruby-level="7">のうど</rt></ruby>は、メタンが１８５３ｐｐｂ、<ruby>一酸化<rt
+  data-ruby-level="5">いっさんか</rt></ruby><ruby>二窒素<rt data-ruby-level="7">にちっそ</rt></ruby>が３２８．９ｐｐｂと、いずれも<ruby>去年<rt
+  data-ruby-level="3">きょねん</rt></ruby>を<ruby>上回<rt data-ruby-level="2">うわまわ</rt></ruby>り、<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby><ruby>史上<rt data-ruby-level="4">しじょう</rt></ruby>、<ruby>最<rt
+  data-ruby-level="4">もっと</rt></ruby>も<ruby>高<rt data-ruby-level="2">たか</rt></ruby>くなりました。<br
+  /><br />ＷＭＯの<ruby>解析<rt data-ruby-level="7">かいせき</rt></ruby>で<ruby>中心的<rt data-ruby-level="4">ちゅうしんてき</rt></ruby>な<ruby>役割<rt
+  data-ruby-level="6">やくわり</rt></ruby>を<ruby>果<rt data-ruby-level="4">は</rt></ruby>たした<ruby>気象庁<rt
+  data-ruby-level="6">きしょうちょう</rt></ruby>は、「<ruby>短時間<rt data-ruby-level="3">たんじかん</rt></ruby>に<ruby>大雨<rt
+  data-ruby-level="1">おおあめ</rt></ruby>が<ruby>降<rt data-ruby-level="6">ふ</rt></ruby>るケースが<ruby>徐々<rt
+  data-ruby-level="7">じょじょ</rt></ruby>に<ruby>増<rt data-ruby-level="5">ふ</rt></ruby>えるなど、<ruby>地球<rt
+  data-ruby-level="3">ちきゅう</rt></ruby><ruby>温暖化<rt data-ruby-level="6">おんだんか</rt></ruby>による<ruby>災害<rt
+  data-ruby-level="5">さいがい</rt></ruby>のリスクが<ruby>高<rt data-ruby-level="2">たか</rt></ruby>まりつつあると<ruby>考<rt
+  data-ruby-level="2">かんが</rt></ruby>えられ、<ruby>引<rt data-ruby-level="4">ひ</rt></ruby>き<ruby>続<rt
+  data-ruby-level="4">つづ</rt></ruby>き<ruby>温暖化<rt data-ruby-level="6">おんだんか</rt></ruby><ruby>対策<rt
+  data-ruby-level="6">たいさく</rt></ruby>に<ruby>取<rt data-ruby-level="3">と</rt></ruby>り<ruby>組<rt
+  data-ruby-level="3">く</rt></ruby>む<ruby>必要<rt data-ruby-level="4">ひつよう</rt></ruby>がある」と<ruby>話<rt
+  data-ruby-level="2">はな</rt></ruby>しています。
 movie_url: https://newswebeasy.github.io/ja201711/news/web/movie/2017/11/04/k10011210011_201711040619_201711040625.mp4
 voice_url: https://newswebeasy.github.io/ja201711/news/web/voice/2017/11/04/k10011210011_201711040619_201711040625.mp3
 source_url: http://www3.nhk.or.jp/news/html/20171104/k10011210011000.html

@@ -3,25 +3,196 @@ layout: web_news
 categories: web
 newsid: k10011210711000
 title: トランプ大統領きょう訪日 首脳会談やゴルフ
+title_with_ruby: トランプ<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby>きょう<ruby>訪日<rt
+  data-ruby-level="6">ほうにち</rt></ruby> <ruby>首脳<rt data-ruby-level="6">しゅのう</rt></ruby><ruby>会談<rt
+  data-ruby-level="3">かいだん</rt></ruby>やゴルフ
 last_modified_at: '2017-11-05T05:35:00+09:00'
-datetime: 2017年11月05日 05時35分
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>11<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>05<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 05<ruby>時<rt data-ruby-level="2">じ</rt></ruby>35<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
 description: アメリカのトランプ大統領は５日から日本を訪問し、安倍総理大臣とゴルフをするほか、６日は首脳会談などに臨むことにしていて、両首脳は北朝鮮への圧力強化に向け、中国などに働きかけを強めていくことを確認する見通しです。一方、日本側ではトランプ大統領が貿易赤字の削減を重視していることから、２国間の貿易協定の交渉を求めてくるのではないかと懸念する声も出ています。
-summary: アメリカのトランプ大統領は５日から日本を訪問し、安倍総理大臣とゴルフをするほか、６日は首脳会談などに臨むことにしていて、両首脳は北朝鮮への圧力強化に向け、中国などに働きかけを強めていくことを確認する見通しです。一方、日本側ではトランプ大統領が貿易赤字の削減を重視していることから、２国間の貿易協定の交渉を求めてくるのではないかと懸念する声も出ています。
+summary: アメリカのトランプ<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby>は５<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>から<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>を<ruby>訪問<rt
+  data-ruby-level="6">ほうもん</rt></ruby>し、<ruby>安倍<rt data-ruby-level="8">あべ</rt></ruby><ruby>総理<rt
+  data-ruby-level="5">そうり</rt></ruby><ruby>大臣<rt data-ruby-level="4">だいじん</rt></ruby>とゴルフをするほか、６<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>は<ruby>首脳<rt data-ruby-level="6">しゅのう</rt></ruby><ruby>会談<rt
+  data-ruby-level="3">かいだん</rt></ruby>などに<ruby>臨<rt data-ruby-level="7">のぞ</rt></ruby>むことにしていて、<ruby>両首脳<rt
+  data-ruby-level="6">りょうしゅのう</rt></ruby>は<ruby>北朝鮮<rt data-ruby-level="7">きたちょうせん</rt></ruby>への<ruby>圧力<rt
+  data-ruby-level="5">あつりょく</rt></ruby><ruby>強化<rt data-ruby-level="3">きょうか</rt></ruby>に<ruby>向<rt
+  data-ruby-level="3">む</rt></ruby>け、<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>などに<ruby>働<rt
+  data-ruby-level="4">はたら</rt></ruby>きかけを<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>めていくことを<ruby>確認<rt
+  data-ruby-level="7">かくにん</rt></ruby>する<ruby>見通<rt data-ruby-level="2">みとお</rt></ruby>しです。<ruby>一方<rt
+  data-ruby-level="2">いっぽう</rt></ruby>、<ruby>日本側<rt data-ruby-level="4">にほんがわ</rt></ruby>ではトランプ<ruby>大統領<rt
+  data-ruby-level="5">だいとうりょう</rt></ruby>が<ruby>貿易<rt data-ruby-level="5">ぼうえき</rt></ruby><ruby>赤字<rt
+  data-ruby-level="1">あかじ</rt></ruby>の<ruby>削減<rt data-ruby-level="7">さくげん</rt></ruby>を<ruby>重視<rt
+  data-ruby-level="6">じゅうし</rt></ruby>していることから、２<ruby>国間<rt data-ruby-level="2">こくかん</rt></ruby>の<ruby>貿易<rt
+  data-ruby-level="5">ぼうえき</rt></ruby><ruby>協定<rt data-ruby-level="4">きょうてい</rt></ruby>の<ruby>交渉<rt
+  data-ruby-level="7">こうしょう</rt></ruby>を<ruby>求<rt data-ruby-level="4">もと</rt></ruby>めてくるのではないかと<ruby>懸念<rt
+  data-ruby-level="7">けねん</rt></ruby>する<ruby>声<rt data-ruby-level="2">こえ</rt></ruby>も<ruby>出<rt
+  data-ruby-level="1">で</rt></ruby>ています。
 image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/05/K10011210711_1711050507_1711050508_01_03.jpg
-more: アメリカのトランプ大統領はアジア歴訪の最初の訪問国となる日本を就任後、初めて５日から３日間の日程で訪れます。<br /><br />安倍総理大臣は５日午後、トランプ大統領とともに、現在世界ランキング４位のプロゴルファー松山英樹選手も交えてゴルフをプレーするほか、夫妻で夕食をともにすることにしています。<br
-  /><br />そして、両首脳は６日、ワーキングランチ、首脳会談、さらには北朝鮮による拉致被害者の家族との面会などに臨んだあと、会談の成果などについて記者会見で発表することにしています。<br
-  /><br />両首脳は一連の会談で、緊迫する北朝鮮情勢を取り上げ、圧力を強化するため、中国などに対し、一層積極的な役割を果たすよう連携して働きかけを強めていくことなどを確認する見通しです。<br
-  /><br />また、安倍総理大臣は中国の海洋進出を踏まえ、みずからが先に提唱した「自由で開かれたインド太平洋戦略」に沿って、法の支配や航行の自由など、基本的な価値の普及と定着に賛同する国との協力を構築していくことで一致したい考えです。<br
-  /><br />さらに、経済分野で両首脳は、エネルギー分野での協力の強化に向けて両国の経済対話の枠組みで協議を進めることや、第三国でのインフラ整備を協力して進めていくことなどで一致する見通しです。<br
-  /><br />一方、トランプ大統領が貿易赤字の削減を重視していることから、日本側ではトランプ大統領がＦＴＡ＝自由貿易協定など、２国間の貿易協定の交渉を求めてくるのではないかと懸念する声も出ています。
+more: アメリカのトランプ<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby>はアジア<ruby>歴訪<rt
+  data-ruby-level="6">れきほう</rt></ruby>の<ruby>最初<rt data-ruby-level="4">さいしょ</rt></ruby>の<ruby>訪問国<rt
+  data-ruby-level="6">ほうもんこく</rt></ruby>となる<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>を<ruby>就任後<rt
+  data-ruby-level="6">しゅうにんご</rt></ruby>、<ruby>初<rt data-ruby-level="4">はじ</rt></ruby>めて５<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>から３<ruby>日間<rt data-ruby-level="2">にちかん</rt></ruby>の<ruby>日程<rt
+  data-ruby-level="5">にってい</rt></ruby>で<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れます。<br
+  /><br /><ruby>安倍<rt data-ruby-level="8">あべ</rt></ruby><ruby>総理<rt data-ruby-level="5">そうり</rt></ruby><ruby>大臣<rt
+  data-ruby-level="4">だいじん</rt></ruby>は５<ruby>日午後<rt data-ruby-level="2">にちごご</rt></ruby>、トランプ<ruby>大統領<rt
+  data-ruby-level="5">だいとうりょう</rt></ruby>とともに、<ruby>現在<rt data-ruby-level="5">げんざい</rt></ruby><ruby>世界<rt
+  data-ruby-level="3">せかい</rt></ruby>ランキング４<ruby>位<rt data-ruby-level="4">い</rt></ruby>のプロゴルファー<ruby>松山<rt
+  data-ruby-level="4">まつやま</rt></ruby><ruby>英樹<rt data-ruby-level="8">ひでき</rt></ruby><ruby>選手<rt
+  data-ruby-level="4">せんしゅ</rt></ruby>も<ruby>交<rt data-ruby-level="2">まじ</rt></ruby>えてゴルフをプレーするほか、<ruby>夫妻<rt
+  data-ruby-level="5">ふさい</rt></ruby>で<ruby>夕食<rt data-ruby-level="2">ゆうしょく</rt></ruby>をともにすることにしています。<br
+  /><br />そして、<ruby>両首脳<rt data-ruby-level="6">りょうしゅのう</rt></ruby>は６<ruby>日<rt data-ruby-level="1">にち</rt></ruby>、ワーキングランチ、<ruby>首脳<rt
+  data-ruby-level="6">しゅのう</rt></ruby><ruby>会談<rt data-ruby-level="3">かいだん</rt></ruby>、さらには<ruby>北朝鮮<rt
+  data-ruby-level="7">きたちょうせん</rt></ruby>による<ruby>拉致<rt data-ruby-level="7">らち</rt></ruby><ruby>被害者<rt
+  data-ruby-level="7">ひがいしゃ</rt></ruby>の<ruby>家族<rt data-ruby-level="3">かぞく</rt></ruby>との<ruby>面会<rt
+  data-ruby-level="3">めんかい</rt></ruby>などに<ruby>臨<rt data-ruby-level="7">のぞ</rt></ruby>んだあと、<ruby>会談<rt
+  data-ruby-level="3">かいだん</rt></ruby>の<ruby>成果<rt data-ruby-level="4">せいか</rt></ruby>などについて<ruby>記者会見<rt
+  data-ruby-level="3">きしゃかいけん</rt></ruby>で<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>することにしています。<br
+  /><br /><ruby>両首脳<rt data-ruby-level="6">りょうしゅのう</rt></ruby>は<ruby>一連<rt data-ruby-level="4">いちれん</rt></ruby>の<ruby>会談<rt
+  data-ruby-level="3">かいだん</rt></ruby>で、<ruby>緊迫<rt data-ruby-level="7">きんぱく</rt></ruby>する<ruby>北朝鮮<rt
+  data-ruby-level="7">きたちょうせん</rt></ruby><ruby>情勢<rt data-ruby-level="5">じょうせい</rt></ruby>を<ruby>取<rt
+  data-ruby-level="3">と</rt></ruby>り<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げ、<ruby>圧力<rt
+  data-ruby-level="5">あつりょく</rt></ruby>を<ruby>強化<rt data-ruby-level="3">きょうか</rt></ruby>するため、<ruby>中国<rt
+  data-ruby-level="2">ちゅうごく</rt></ruby>などに<ruby>対<rt data-ruby-level="3">たい</rt></ruby>し、<ruby>一層<rt
+  data-ruby-level="6">いっそう</rt></ruby><ruby>積極的<rt data-ruby-level="4">せっきょくてき</rt></ruby>な<ruby>役割<rt
+  data-ruby-level="6">やくわり</rt></ruby>を<ruby>果<rt data-ruby-level="4">は</rt></ruby>たすよう<ruby>連携<rt
+  data-ruby-level="7">れんけい</rt></ruby>して<ruby>働<rt data-ruby-level="4">はたら</rt></ruby>きかけを<ruby>強<rt
+  data-ruby-level="2">つよ</rt></ruby>めていくことなどを<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>する<ruby>見通<rt
+  data-ruby-level="2">みとお</rt></ruby>しです。<br /><br />また、<ruby>安倍<rt data-ruby-level="8">あべ</rt></ruby><ruby>総理<rt
+  data-ruby-level="5">そうり</rt></ruby><ruby>大臣<rt data-ruby-level="4">だいじん</rt></ruby>は<ruby>中国<rt
+  data-ruby-level="2">ちゅうごく</rt></ruby>の<ruby>海洋<rt data-ruby-level="3">かいよう</rt></ruby><ruby>進出<rt
+  data-ruby-level="3">しんしゅつ</rt></ruby>を<ruby>踏<rt data-ruby-level="7">ふ</rt></ruby>まえ、みずからが<ruby>先<rt
+  data-ruby-level="1">さき</rt></ruby>に<ruby>提唱<rt data-ruby-level="5">ていしょう</rt></ruby>した「<ruby>自由<rt
+  data-ruby-level="3">じゆう</rt></ruby>で<ruby>開<rt data-ruby-level="3">ひら</rt></ruby>かれたインド<ruby>太平洋<rt
+  data-ruby-level="3">たいへいよう</rt></ruby><ruby>戦略<rt data-ruby-level="5">せんりゃく</rt></ruby>」に<ruby>沿<rt
+  data-ruby-level="6">そ</rt></ruby>って、<ruby>法<rt data-ruby-level="4">ほう</rt></ruby>の<ruby>支配<rt
+  data-ruby-level="5">しはい</rt></ruby>や<ruby>航行<rt data-ruby-level="4">こうこう</rt></ruby>の<ruby>自由<rt
+  data-ruby-level="3">じゆう</rt></ruby>など、<ruby>基本的<rt data-ruby-level="5">きほんてき</rt></ruby>な<ruby>価値<rt
+  data-ruby-level="6">かち</rt></ruby>の<ruby>普及<rt data-ruby-level="7">ふきゅう</rt></ruby>と<ruby>定着<rt
+  data-ruby-level="3">ていちゃく</rt></ruby>に<ruby>賛同<rt data-ruby-level="5">さんどう</rt></ruby>する<ruby>国<rt
+  data-ruby-level="2">くに</rt></ruby>との<ruby>協力<rt data-ruby-level="4">きょうりょく</rt></ruby>を<ruby>構築<rt
+  data-ruby-level="5">こうちく</rt></ruby>していくことで<ruby>一致<rt data-ruby-level="7">いっち</rt></ruby>したい<ruby>考<rt
+  data-ruby-level="2">かんが</rt></ruby>えです。<br /><br />さらに、<ruby>経済<rt data-ruby-level="6">けいざい</rt></ruby><ruby>分野<rt
+  data-ruby-level="2">ぶんや</rt></ruby>で<ruby>両首脳<rt data-ruby-level="6">りょうしゅのう</rt></ruby>は、エネルギー<ruby>分野<rt
+  data-ruby-level="2">ぶんや</rt></ruby>での<ruby>協力<rt data-ruby-level="4">きょうりょく</rt></ruby>の<ruby>強化<rt
+  data-ruby-level="3">きょうか</rt></ruby>に<ruby>向<rt data-ruby-level="3">む</rt></ruby>けて<ruby>両国<rt
+  data-ruby-level="3">りょうこく</rt></ruby>の<ruby>経済<rt data-ruby-level="6">けいざい</rt></ruby><ruby>対話<rt
+  data-ruby-level="3">たいわ</rt></ruby>の<ruby>枠組<rt data-ruby-level="7">わくぐ</rt></ruby>みで<ruby>協議<rt
+  data-ruby-level="4">きょうぎ</rt></ruby>を<ruby>進<rt data-ruby-level="3">すす</rt></ruby>めることや、<ruby>第三国<rt
+  data-ruby-level="3">だいさんごく</rt></ruby>でのインフラ<ruby>整備<rt data-ruby-level="5">せいび</rt></ruby>を<ruby>協力<rt
+  data-ruby-level="4">きょうりょく</rt></ruby>して<ruby>進<rt data-ruby-level="3">すす</rt></ruby>めていくことなどで<ruby>一致<rt
+  data-ruby-level="7">いっち</rt></ruby>する<ruby>見通<rt data-ruby-level="2">みとお</rt></ruby>しです。<br
+  /><br /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>、トランプ<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby>が<ruby>貿易<rt
+  data-ruby-level="5">ぼうえき</rt></ruby><ruby>赤字<rt data-ruby-level="1">あかじ</rt></ruby>の<ruby>削減<rt
+  data-ruby-level="7">さくげん</rt></ruby>を<ruby>重視<rt data-ruby-level="6">じゅうし</rt></ruby>していることから、<ruby>日本側<rt
+  data-ruby-level="4">にほんがわ</rt></ruby>ではトランプ<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby>がＦＴＡ＝<ruby>自由貿易協定<rt
+  data-ruby-level="5">じゆうぼうえききょうてい</rt></ruby>など、２<ruby>国間<rt data-ruby-level="2">こくかん</rt></ruby>の<ruby>貿易<rt
+  data-ruby-level="5">ぼうえき</rt></ruby><ruby>協定<rt data-ruby-level="4">きょうてい</rt></ruby>の<ruby>交渉<rt
+  data-ruby-level="7">こうしょう</rt></ruby>を<ruby>求<rt data-ruby-level="4">もと</rt></ruby>めてくるのではないかと<ruby>懸念<rt
+  data-ruby-level="7">けねん</rt></ruby>する<ruby>声<rt data-ruby-level="2">こえ</rt></ruby>も<ruby>出<rt
+  data-ruby-level="1">で</rt></ruby>ています。
 movie_url: https://newswebeasy.github.io/ja201711/news/web/movie/2017/11/05/k10011210711_201711050507_201711050508.mp4
 voice_url: https://newswebeasy.github.io/ja201711/news/web/voice/2017/11/05/k10011210711_201711050507_201711050508.mp3
 body:
-- title: 安倍首相とトランプ大統領
-  text: 安倍総理大臣とアメリカのトランプ大統領は、プライベートな交流も重ねながら信頼関係を深めてきました。<br /><br />２人の最初の接触はトランプ氏が大統領選挙に勝利した直後の去年１１月でした。安倍総理大臣はペルーで開かれるＡＰＥＣ＝アジア太平洋経済協力会議の首脳会議に先立って、アメリカ・ニューヨークを訪れ、「トランプタワー」で非公式に会談しました。日本の総理大臣がアメリカ大統領選挙に勝利した候補者と大統領就任前に会談するのは極めて異例で、トランプ大統領にとっても大統領選挙で勝利したあと、初めての外国の首脳との会談でした。<br
-    /><br />そして、トランプ政権発足から１か月足らずのことし２月、最初の日米首脳会談が行われました。両首脳は日米同盟の重要性を確認したうえで、アメリカが核戦力を含む軍事力で日本を守る「拡大抑止」を引き続き提供する方針などを盛り込んだ共同声明を発表しました。トランプ大統領は共同記者会見で、「安倍総理大臣とは相性がいい。すばらしい関係を築けると思う」と最初の会談を振り返りました。<br
-    /><br />日米首脳会談を終えた２人は、そのまま南部フロリダ州パームビーチにアメリカの大統領専用機・エアフォース・ワンで移動しました。そして、大統領の別荘に宿泊した翌日、共通の趣味であるゴルフを楽しみました。トランプ大統領は、この時の様子をみずからのツイッターに投稿していて、ゴルフウェア姿の安倍総理大臣とトランプ大統領がハイタッチするなど、両首脳の親密さがうかがえます。<br
-    /><br />フロリダ滞在中には北朝鮮が弾道ミサイルを発射し、安倍総理大臣とトランプ大統領は夕食会のさなかに急きょ対応を協議しました。２人は並んで声明を発表し、安倍総理大臣が「北朝鮮のミサイル発射は断じて容認できない。日米同盟をさらに緊密化し、強化していくことで完全に一致した」と述べたのに対し、トランプ大統領も「すべての人はアメリカが日本と１００％ともにあることを知るべきだ」と応じました。<br
-    /><br />両首脳はトランプ大統領の就任後、これまでに４回会談し、電話でも１６回にわたって会談して、北朝鮮問題をめぐる対応などを協議してきました。衆議院選挙の翌日の先月２３日の電話会談では、トランプ大統領が安倍総理大臣に選挙結果への祝意を伝えています。
+- title: <ruby>安倍<rt data-ruby-level="8">あべ</rt></ruby><ruby>首相<rt data-ruby-level="7">しゅしょう</rt></ruby>とトランプ<ruby>大統領<rt
+    data-ruby-level="5">だいとうりょう</rt></ruby>
+  text: <ruby>安倍<rt data-ruby-level="8">あべ</rt></ruby><ruby>総理<rt data-ruby-level="5">そうり</rt></ruby><ruby>大臣<rt
+    data-ruby-level="4">だいじん</rt></ruby>とアメリカのトランプ<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby>は、プライベートな<ruby>交流<rt
+    data-ruby-level="3">こうりゅう</rt></ruby>も<ruby>重<rt data-ruby-level="3">かさ</rt></ruby>ねながら<ruby>信頼<rt
+    data-ruby-level="7">しんらい</rt></ruby><ruby>関係<rt data-ruby-level="4">かんけい</rt></ruby>を<ruby>深<rt
+    data-ruby-level="3">ふか</rt></ruby>めてきました。<br /><br />２<ruby>人<rt data-ruby-level="1">にん</rt></ruby>の<ruby>最初<rt
+    data-ruby-level="4">さいしょ</rt></ruby>の<ruby>接触<rt data-ruby-level="7">せっしょく</rt></ruby>はトランプ<ruby>氏<rt
+    data-ruby-level="4">し</rt></ruby>が<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby><ruby>選挙<rt
+    data-ruby-level="4">せんきょ</rt></ruby>に<ruby>勝利<rt data-ruby-level="4">しょうり</rt></ruby>した<ruby>直後<rt
+    data-ruby-level="2">ちょくご</rt></ruby>の<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>１１<ruby>月<rt
+    data-ruby-level="1">がつ</rt></ruby>でした。<ruby>安倍<rt data-ruby-level="8">あべ</rt></ruby><ruby>総理<rt
+    data-ruby-level="5">そうり</rt></ruby><ruby>大臣<rt data-ruby-level="4">だいじん</rt></ruby>はペルーで<ruby>開<rt
+    data-ruby-level="3">ひら</rt></ruby>かれるＡＰＥＣ＝アジア<ruby>太平洋<rt data-ruby-level="3">たいへいよう</rt></ruby><ruby>経済<rt
+    data-ruby-level="6">けいざい</rt></ruby><ruby>協力<rt data-ruby-level="4">きょうりょく</rt></ruby><ruby>会議<rt
+    data-ruby-level="4">かいぎ</rt></ruby>の<ruby>首脳<rt data-ruby-level="6">しゅのう</rt></ruby><ruby>会議<rt
+    data-ruby-level="4">かいぎ</rt></ruby>に<ruby>先立<rt data-ruby-level="1">さきだ</rt></ruby>って、アメリカ・ニューヨークを<ruby>訪<rt
+    data-ruby-level="7">おとず</rt></ruby>れ、「トランプタワー」で<ruby>非公式<rt data-ruby-level="5">ひこうしき</rt></ruby>に<ruby>会談<rt
+    data-ruby-level="3">かいだん</rt></ruby>しました。<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>総理<rt
+    data-ruby-level="5">そうり</rt></ruby><ruby>大臣<rt data-ruby-level="4">だいじん</rt></ruby>がアメリカ<ruby>大統領<rt
+    data-ruby-level="5">だいとうりょう</rt></ruby><ruby>選挙<rt data-ruby-level="4">せんきょ</rt></ruby>に<ruby>勝利<rt
+    data-ruby-level="4">しょうり</rt></ruby>した<ruby>候補者<rt data-ruby-level="6">こうほしゃ</rt></ruby>と<ruby>大統領<rt
+    data-ruby-level="5">だいとうりょう</rt></ruby><ruby>就任前<rt data-ruby-level="6">しゅうにんまえ</rt></ruby>に<ruby>会談<rt
+    data-ruby-level="3">かいだん</rt></ruby>するのは<ruby>極<rt data-ruby-level="7">きわ</rt></ruby>めて<ruby>異例<rt
+    data-ruby-level="6">いれい</rt></ruby>で、トランプ<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby>にとっても<ruby>大統領<rt
+    data-ruby-level="5">だいとうりょう</rt></ruby><ruby>選挙<rt data-ruby-level="4">せんきょ</rt></ruby>で<ruby>勝利<rt
+    data-ruby-level="4">しょうり</rt></ruby>したあと、<ruby>初<rt data-ruby-level="4">はじ</rt></ruby>めての<ruby>外国<rt
+    data-ruby-level="2">がいこく</rt></ruby>の<ruby>首脳<rt data-ruby-level="6">しゅのう</rt></ruby>との<ruby>会談<rt
+    data-ruby-level="3">かいだん</rt></ruby>でした。<br /><br />そして、トランプ<ruby>政権<rt data-ruby-level="6">せいけん</rt></ruby><ruby>発足<rt
+    data-ruby-level="7">ほっそく</rt></ruby>から１か<ruby>月<rt data-ruby-level="1">げつ</rt></ruby><ruby>足<rt
+    data-ruby-level="1">た</rt></ruby>らずのことし２<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>、<ruby>最初<rt
+    data-ruby-level="4">さいしょ</rt></ruby>の<ruby>日米<rt data-ruby-level="2">にちべい</rt></ruby><ruby>首脳<rt
+    data-ruby-level="6">しゅのう</rt></ruby><ruby>会談<rt data-ruby-level="3">かいだん</rt></ruby>が<ruby>行<rt
+    data-ruby-level="2">おこな</rt></ruby>われました。<ruby>両首脳<rt data-ruby-level="6">りょうしゅのう</rt></ruby>は<ruby>日米<rt
+    data-ruby-level="2">にちべい</rt></ruby><ruby>同盟<rt data-ruby-level="6">どうめい</rt></ruby>の<ruby>重要性<rt
+    data-ruby-level="5">じゅうようせい</rt></ruby>を<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>したうえで、アメリカが<ruby>核戦力<rt
+    data-ruby-level="7">かくせんりょく</rt></ruby>を<ruby>含<rt data-ruby-level="7">ふく</rt></ruby>む<ruby>軍事力<rt
+    data-ruby-level="4">ぐんじりょく</rt></ruby>で<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>を<ruby>守<rt
+    data-ruby-level="3">まも</rt></ruby>る「<ruby>拡大<rt data-ruby-level="6">かくだい</rt></ruby><ruby>抑止<rt
+    data-ruby-level="7">よくし</rt></ruby>」を<ruby>引<rt data-ruby-level="4">ひ</rt></ruby>き<ruby>続<rt
+    data-ruby-level="4">つづ</rt></ruby>き<ruby>提供<rt data-ruby-level="6">ていきょう</rt></ruby>する<ruby>方針<rt
+    data-ruby-level="6">ほうしん</rt></ruby>などを<ruby>盛<rt data-ruby-level="7">も</rt></ruby>り<ruby>込<rt
+    data-ruby-level="7">こ</rt></ruby>んだ<ruby>共同<rt data-ruby-level="4">きょうどう</rt></ruby><ruby>声明<rt
+    data-ruby-level="2">せいめい</rt></ruby>を<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>しました。トランプ<ruby>大統領<rt
+    data-ruby-level="5">だいとうりょう</rt></ruby>は<ruby>共同<rt data-ruby-level="4">きょうどう</rt></ruby><ruby>記者会見<rt
+    data-ruby-level="3">きしゃかいけん</rt></ruby>で、「<ruby>安倍<rt data-ruby-level="8">あべ</rt></ruby><ruby>総理<rt
+    data-ruby-level="5">そうり</rt></ruby><ruby>大臣<rt data-ruby-level="4">だいじん</rt></ruby>とは<ruby>相性<rt
+    data-ruby-level="7">あいしょう</rt></ruby>がいい。すばらしい<ruby>関係<rt data-ruby-level="4">かんけい</rt></ruby>を<ruby>築<rt
+    data-ruby-level="5">きず</rt></ruby>けると<ruby>思<rt data-ruby-level="2">おも</rt></ruby>う」と<ruby>最初<rt
+    data-ruby-level="4">さいしょ</rt></ruby>の<ruby>会談<rt data-ruby-level="3">かいだん</rt></ruby>を<ruby>振<rt
+    data-ruby-level="7">ふ</rt></ruby>り<ruby>返<rt data-ruby-level="7">かえ</rt></ruby>りました。<br
+    /><br /><ruby>日米<rt data-ruby-level="2">にちべい</rt></ruby><ruby>首脳<rt data-ruby-level="6">しゅのう</rt></ruby><ruby>会談<rt
+    data-ruby-level="3">かいだん</rt></ruby>を<ruby>終<rt data-ruby-level="3">お</rt></ruby>えた２<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>は、そのまま<ruby>南部<rt data-ruby-level="3">なんぶ</rt></ruby><ruby>フロリダ<rt
+    data-ruby-level="3">ふろりだ</rt></ruby><ruby>州<rt data-ruby-level="3">しゅう</rt></ruby>パームビーチにアメリカの<ruby>大統領<rt
+    data-ruby-level="5">だいとうりょう</rt></ruby><ruby>専用機<rt data-ruby-level="6">せんようき</rt></ruby>・エアフォース・ワンで<ruby>移動<rt
+    data-ruby-level="5">いどう</rt></ruby>しました。そして、<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby>の<ruby>別荘<rt
+    data-ruby-level="7">べっそう</rt></ruby>に<ruby>宿泊<rt data-ruby-level="7">しゅくはく</rt></ruby>した<ruby>翌日<rt
+    data-ruby-level="6">よくじつ</rt></ruby>、<ruby>共通<rt data-ruby-level="4">きょうつう</rt></ruby>の<ruby>趣味<rt
+    data-ruby-level="7">しゅみ</rt></ruby>であるゴルフを<ruby>楽<rt data-ruby-level="2">たの</rt></ruby>しみました。トランプ<ruby>大統領<rt
+    data-ruby-level="5">だいとうりょう</rt></ruby>は、この<ruby>時<rt data-ruby-level="2">とき</rt></ruby>の<ruby>様子<rt
+    data-ruby-level="3">ようす</rt></ruby>をみずからのツイッターに<ruby>投稿<rt data-ruby-level="7">とうこう</rt></ruby>していて、ゴルフウェア<ruby>姿<rt
+    data-ruby-level="6">すがた</rt></ruby>の<ruby>安倍<rt data-ruby-level="8">あべ</rt></ruby><ruby>総理<rt
+    data-ruby-level="5">そうり</rt></ruby><ruby>大臣<rt data-ruby-level="4">だいじん</rt></ruby>とトランプ<ruby>大統領<rt
+    data-ruby-level="5">だいとうりょう</rt></ruby>がハイタッチするなど、<ruby>両首脳<rt data-ruby-level="6">りょうしゅのう</rt></ruby>の<ruby>親密<rt
+    data-ruby-level="6">しんみつ</rt></ruby>さがうかがえます。<br /><br />フロリダ<ruby>滞在中<rt data-ruby-level="7">たいざいちゅう</rt></ruby>には<ruby>北朝鮮<rt
+    data-ruby-level="7">きたちょうせん</rt></ruby>が<ruby>弾道<rt data-ruby-level="7">だんどう</rt></ruby>ミサイルを<ruby>発射<rt
+    data-ruby-level="6">はっしゃ</rt></ruby>し、<ruby>安倍<rt data-ruby-level="8">あべ</rt></ruby><ruby>総理<rt
+    data-ruby-level="5">そうり</rt></ruby><ruby>大臣<rt data-ruby-level="4">だいじん</rt></ruby>とトランプ<ruby>大統領<rt
+    data-ruby-level="5">だいとうりょう</rt></ruby>は<ruby>夕食会<rt data-ruby-level="2">ゆうしょくかい</rt></ruby>のさなかに<ruby>急<rt
+    data-ruby-level="3">きゅう</rt></ruby>きょ<ruby>対応<rt data-ruby-level="5">たいおう</rt></ruby>を<ruby>協議<rt
+    data-ruby-level="4">きょうぎ</rt></ruby>しました。２<ruby>人<rt data-ruby-level="1">にん</rt></ruby>は<ruby>並<rt
+    data-ruby-level="6">なら</rt></ruby>んで<ruby>声明<rt data-ruby-level="2">せいめい</rt></ruby>を<ruby>発表<rt
+    data-ruby-level="3">はっぴょう</rt></ruby>し、<ruby>安倍<rt data-ruby-level="8">あべ</rt></ruby><ruby>総理<rt
+    data-ruby-level="5">そうり</rt></ruby><ruby>大臣<rt data-ruby-level="4">だいじん</rt></ruby>が「<ruby>北朝鮮<rt
+    data-ruby-level="7">きたちょうせん</rt></ruby>のミサイル<ruby>発射<rt data-ruby-level="6">はっしゃ</rt></ruby>は<ruby>断<rt
+    data-ruby-level="5">だん</rt></ruby>じて<ruby>容認<rt data-ruby-level="7">ようにん</rt></ruby>できない。<ruby>日米<rt
+    data-ruby-level="2">にちべい</rt></ruby><ruby>同盟<rt data-ruby-level="6">どうめい</rt></ruby>をさらに<ruby>緊密化<rt
+    data-ruby-level="7">きんみつか</rt></ruby>し、<ruby>強化<rt data-ruby-level="3">きょうか</rt></ruby>していくことで<ruby>完全<rt
+    data-ruby-level="4">かんぜん</rt></ruby>に<ruby>一致<rt data-ruby-level="7">いっち</rt></ruby>した」と<ruby>述<rt
+    data-ruby-level="5">の</rt></ruby>べたのに<ruby>対<rt data-ruby-level="3">たい</rt></ruby>し、トランプ<ruby>大統領<rt
+    data-ruby-level="5">だいとうりょう</rt></ruby>も「すべての<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>はアメリカが<ruby>日本<rt
+    data-ruby-level="1">にっぽん</rt></ruby>と１００％ともにあることを<ruby>知<rt data-ruby-level="2">し</rt></ruby>るべきだ」と<ruby>応<rt
+    data-ruby-level="5">おう</rt></ruby>じました。<br /><br /><ruby>両首脳<rt data-ruby-level="6">りょうしゅのう</rt></ruby>はトランプ<ruby>大統領<rt
+    data-ruby-level="5">だいとうりょう</rt></ruby>の<ruby>就任後<rt data-ruby-level="6">しゅうにんご</rt></ruby>、これまでに４<ruby>回<rt
+    data-ruby-level="2">かい</rt></ruby><ruby>会談<rt data-ruby-level="3">かいだん</rt></ruby>し、<ruby>電話<rt
+    data-ruby-level="2">でんわ</rt></ruby>でも１６<ruby>回<rt data-ruby-level="2">かい</rt></ruby>にわたって<ruby>会談<rt
+    data-ruby-level="3">かいだん</rt></ruby>して、<ruby>北朝鮮<rt data-ruby-level="7">きたちょうせん</rt></ruby><ruby>問題<rt
+    data-ruby-level="3">もんだい</rt></ruby>をめぐる<ruby>対応<rt data-ruby-level="5">たいおう</rt></ruby>などを<ruby>協議<rt
+    data-ruby-level="4">きょうぎ</rt></ruby>してきました。<ruby>衆議院<rt data-ruby-level="6">しゅうぎいん</rt></ruby><ruby>選挙<rt
+    data-ruby-level="4">せんきょ</rt></ruby>の<ruby>翌日<rt data-ruby-level="6">よくじつ</rt></ruby>の<ruby>先月<rt
+    data-ruby-level="1">せんげつ</rt></ruby>２３<ruby>日<rt data-ruby-level="1">にち</rt></ruby>の<ruby>電話<rt
+    data-ruby-level="2">でんわ</rt></ruby><ruby>会談<rt data-ruby-level="3">かいだん</rt></ruby>では、トランプ<ruby>大統領<rt
+    data-ruby-level="5">だいとうりょう</rt></ruby>が<ruby>安倍<rt data-ruby-level="8">あべ</rt></ruby><ruby>総理<rt
+    data-ruby-level="5">そうり</rt></ruby><ruby>大臣<rt data-ruby-level="4">だいじん</rt></ruby>に<ruby>選挙<rt
+    data-ruby-level="4">せんきょ</rt></ruby><ruby>結果<rt data-ruby-level="4">けっか</rt></ruby>への<ruby>祝意<rt
+    data-ruby-level="4">しゅくい</rt></ruby>を<ruby>伝<rt data-ruby-level="4">つた</rt></ruby>えています。
 source_url: http://www3.nhk.or.jp/news/html/20171105/k10011210711000.html
 ...

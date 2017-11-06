@@ -3,14 +3,63 @@ layout: web_news
 categories: web
 newsid: k10011209391000
 title: 米アップル スマホ販売が好調で増収増益
+title_with_ruby: <ruby>米<rt data-ruby-level="2">べい</rt></ruby>アップル スマホ<ruby>販売<rt
+  data-ruby-level="7">はんばい</rt></ruby>が<ruby>好調<rt data-ruby-level="4">こうちょう</rt></ruby>で<ruby>増収<rt
+  data-ruby-level="6">ぞうしゅう</rt></ruby><ruby>増益<rt data-ruby-level="5">ぞうえき</rt></ruby>
 last_modified_at: '2017-11-03T09:35:00+09:00'
-datetime: 2017年11月03日 09時35分
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>11<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>03<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 09<ruby>時<rt data-ruby-level="2">じ</rt></ruby>35<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
 description: アメリカのＩＴ企業アップルは、ことし９月までの３か月間の決算を発表し、主力のスマートフォンの販売が世界的に伸びたことなどから増収増益となり、最終利益は日本円で１兆２０００億円をこえました。
-summary: アメリカのＩＴ企業アップルは、ことし９月までの３か月間の決算を発表し、主力のスマートフォンの販売が世界的に伸びたことなどから増収増益となり、最終利益は日本円で１兆２０００億円をこえました。
+summary: アメリカのＩＴ<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>アップルは、ことし９<ruby>月<rt
+  data-ruby-level="1">がつ</rt></ruby>までの３か<ruby>月間<rt data-ruby-level="2">げつかん</rt></ruby>の<ruby>決算<rt
+  data-ruby-level="3">けっさん</rt></ruby>を<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>し、<ruby>主力<rt
+  data-ruby-level="3">しゅりょく</rt></ruby>のスマートフォンの<ruby>販売<rt data-ruby-level="7">はんばい</rt></ruby>が<ruby>世界的<rt
+  data-ruby-level="4">せかいてき</rt></ruby>に<ruby>伸<rt data-ruby-level="7">の</rt></ruby>びたことなどから<ruby>増収<rt
+  data-ruby-level="6">ぞうしゅう</rt></ruby><ruby>増益<rt data-ruby-level="5">ぞうえき</rt></ruby>となり、<ruby>最終<rt
+  data-ruby-level="4">さいしゅう</rt></ruby><ruby>利益<rt data-ruby-level="5">りえき</rt></ruby>は<ruby>日本円<rt
+  data-ruby-level="1">にほんえん</rt></ruby>で１<ruby>兆<rt data-ruby-level="4">ちょう</rt></ruby>２０００<ruby>億円<rt
+  data-ruby-level="4">おくえん</rt></ruby>をこえました。
 image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/03/K10011209391_1711030835_1711030835_01_02.jpg
-more: アップルが２日に発表した、ことし７月から９月までの決算によりますと、売り上げは５２５億ドル（日本円でおよそ６兆円）となり、前の年の同じ時期と比べて１２．２％増えました。<br
-  /><br />売り上げを地域別に見ると、これまでマイナスが続いていた香港などを含む中国で１２％の増加となった一方で、日本は１１％の減少となりました。最終的な利益は１０７億ドル（日本円で１兆２０００億円余り）となり、前の年の同じ時期を１８．９％上回って増収増益となりました。<br
-  /><br />この３か月間に販売された主力のスマートフォンのｉＰｈｏｎｅは、４６６７万台で前の年の同じ時期の実績を２．６％上回ったほか、タブレット端末は１０３２万台で１１．４％増えました。<br
-  /><br />ことし９月下旬に発売されたｉＰｈｏｎｅ８は、今回の決算にほとんど反映されていないほか、価格が１２万円をこえることで注目されるｉＰｈｏｎｅＸが３日に発売されることを踏まえて、アップルのティム・クックＣＥＯは電話会見で「すばらしい３か月だったが、次の３か月も強い決算内容となると予想している」と述べ、今後の販売にも自信を示しました。
+more: アップルが２<ruby>日<rt data-ruby-level="1">にち</rt></ruby>に<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>した、ことし７<ruby>月<rt
+  data-ruby-level="1">がつ</rt></ruby>から９<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>までの<ruby>決算<rt
+  data-ruby-level="3">けっさん</rt></ruby>によりますと、<ruby>売<rt data-ruby-level="2">う</rt></ruby>り<ruby>上<rt
+  data-ruby-level="2">あ</rt></ruby>げは５２５<ruby>億<rt data-ruby-level="4">おく</rt></ruby>ドル（<ruby>日本円<rt
+  data-ruby-level="1">にほんえん</rt></ruby>でおよそ６<ruby>兆円<rt data-ruby-level="4">ちょうえん</rt></ruby>）となり、<ruby>前<rt
+  data-ruby-level="2">まえ</rt></ruby>の<ruby>年<rt data-ruby-level="2">とし</rt></ruby>の<ruby>同<rt
+  data-ruby-level="2">おな</rt></ruby>じ<ruby>時期<rt data-ruby-level="3">じき</rt></ruby>と<ruby>比<rt
+  data-ruby-level="5">くら</rt></ruby>べて１２．２％<ruby>増<rt data-ruby-level="5">ふ</rt></ruby>えました。<br
+  /><br /><ruby>売<rt data-ruby-level="2">う</rt></ruby>り<ruby>上<rt data-ruby-level="2">あ</rt></ruby>げを<ruby>地域別<rt
+  data-ruby-level="6">ちいきべつ</rt></ruby>に<ruby>見<rt data-ruby-level="1">み</rt></ruby>ると、これまでマイナスが<ruby>続<rt
+  data-ruby-level="4">つづ</rt></ruby>いていた<ruby>香港<rt data-ruby-level="8">ほんこん</rt></ruby>などを<ruby>含<rt
+  data-ruby-level="7">ふく</rt></ruby>む<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>で１２％の<ruby>増加<rt
+  data-ruby-level="5">ぞうか</rt></ruby>となった<ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>で、<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>は１１％の<ruby>減少<rt data-ruby-level="5">げんしょう</rt></ruby>となりました。<ruby>最終的<rt
+  data-ruby-level="4">さいしゅうてき</rt></ruby>な<ruby>利益<rt data-ruby-level="5">りえき</rt></ruby>は１０７<ruby>億<rt
+  data-ruby-level="4">おく</rt></ruby>ドル（<ruby>日本円<rt data-ruby-level="1">にほんえん</rt></ruby>で１<ruby>兆<rt
+  data-ruby-level="4">ちょう</rt></ruby>２０００<ruby>億円<rt data-ruby-level="4">おくえん</rt></ruby><ruby>余<rt
+  data-ruby-level="5">あま</rt></ruby>り）となり、<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>の<ruby>年<rt
+  data-ruby-level="2">とし</rt></ruby>の<ruby>同<rt data-ruby-level="2">おな</rt></ruby>じ<ruby>時期<rt
+  data-ruby-level="3">じき</rt></ruby>を１８．９％<ruby>上回<rt data-ruby-level="2">うわまわ</rt></ruby>って<ruby>増収<rt
+  data-ruby-level="6">ぞうしゅう</rt></ruby><ruby>増益<rt data-ruby-level="5">ぞうえき</rt></ruby>となりました。<br
+  /><br />この３か<ruby>月間<rt data-ruby-level="2">げつかん</rt></ruby>に<ruby>販売<rt data-ruby-level="7">はんばい</rt></ruby>された<ruby>主力<rt
+  data-ruby-level="3">しゅりょく</rt></ruby>のスマートフォンのｉＰｈｏｎｅは、４６６７<ruby>万台<rt data-ruby-level="2">まんだい</rt></ruby>で<ruby>前<rt
+  data-ruby-level="2">まえ</rt></ruby>の<ruby>年<rt data-ruby-level="2">とし</rt></ruby>の<ruby>同<rt
+  data-ruby-level="2">おな</rt></ruby>じ<ruby>時期<rt data-ruby-level="3">じき</rt></ruby>の<ruby>実績<rt
+  data-ruby-level="5">じっせき</rt></ruby>を２．６％<ruby>上回<rt data-ruby-level="2">うわまわ</rt></ruby>ったほか、タブレット<ruby>端末<rt
+  data-ruby-level="7">たんまつ</rt></ruby>は１０３２<ruby>万台<rt data-ruby-level="2">まんだい</rt></ruby>で１１．４％<ruby>増<rt
+  data-ruby-level="5">ふ</rt></ruby>えました。<br /><br />ことし９<ruby>月下旬<rt data-ruby-level="7">がつげじゅん</rt></ruby>に<ruby>発売<rt
+  data-ruby-level="3">はつばい</rt></ruby>されたｉＰｈｏｎｅ８は、<ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>の<ruby>決算<rt
+  data-ruby-level="3">けっさん</rt></ruby>にほとんど<ruby>反映<rt data-ruby-level="6">はんえい</rt></ruby>されていないほか、<ruby>価格<rt
+  data-ruby-level="5">かかく</rt></ruby>が１２<ruby>万円<rt data-ruby-level="2">まんえん</rt></ruby>をこえることで<ruby>注目<rt
+  data-ruby-level="3">ちゅうもく</rt></ruby>されるｉＰｈｏｎｅＸが３<ruby>日<rt data-ruby-level="1">にち</rt></ruby>に<ruby>発売<rt
+  data-ruby-level="3">はつばい</rt></ruby>されることを<ruby>踏<rt data-ruby-level="7">ふ</rt></ruby>まえて、アップルのティム・クックＣＥＯは<ruby>電話<rt
+  data-ruby-level="2">でんわ</rt></ruby><ruby>会見<rt data-ruby-level="2">かいけん</rt></ruby>で「すばらしい３か<ruby>月<rt
+  data-ruby-level="1">げつ</rt></ruby>だったが、<ruby>次<rt data-ruby-level="3">つぎ</rt></ruby>の３か<ruby>月<rt
+  data-ruby-level="1">げつ</rt></ruby>も<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>い<ruby>決算<rt
+  data-ruby-level="3">けっさん</rt></ruby><ruby>内容<rt data-ruby-level="5">ないよう</rt></ruby>となると<ruby>予想<rt
+  data-ruby-level="3">よそう</rt></ruby>している」と<ruby>述<rt data-ruby-level="5">の</rt></ruby>べ、<ruby>今後<rt
+  data-ruby-level="2">こんご</rt></ruby>の<ruby>販売<rt data-ruby-level="7">はんばい</rt></ruby>にも<ruby>自信<rt
+  data-ruby-level="4">じしん</rt></ruby>を<ruby>示<rt data-ruby-level="5">しめ</rt></ruby>しました。
 source_url: http://www3.nhk.or.jp/news/html/20171103/k10011209391000.html
 ...

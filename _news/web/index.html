@@ -13,8 +13,13 @@ permalink: news/web/
         <div>
           <h2 class="rich_media_title">{{ page.title }}</h2>
           <div class="rich_media_content">
+            <div class="furigana_bar">
+              <span><ruby>振<rt data-ruby-level="7">ふ</rt></ruby>り<ruby>仮名<rt data-ruby-level="7">がな</rt></ruby>レベル</span>
+              <input id="furigana_slider" class="furigana_slider" type="range" min="1" max="9"/>
+              <span id="level"></span>
+            </div>
             <ul>
-              {% assign weblist = site.news | where: "categories", "web"  | sort: "last_modified_at" | reverse %}
+              {% assign weblist = site.news | where: "categories", "web" | sort: "last_modified_at" | reverse %}
               {% assign c = 0 %}
               {% for post in weblist limit: 10 %}
               <li class="card">
@@ -31,7 +36,7 @@ permalink: news/web/
               </li>
               {% if c == 4 %}
               <li class="card">
-              {% include adsense_web_stream.html %}
+                {% include adsense_web_stream.html %}
               </li>
               {% endif %}
               {% assign c = c | plus: 1 %}
@@ -47,20 +52,21 @@ permalink: news/web/
         </div>
 
         <div class="rich_media_tool">
-          <a class="media_tool_meta meta_primary" href="/news/web/playlist">すべて再生</a>
+          <a class="media_tool_meta meta_primary" href="/news/web/playlist">すべて<ruby>再生<rt data-ruby-level="5">さいせい</rt></ruby></a>
           <a class="media_tool_meta meta_primary" href="/news/easy/">イージーニュース</a>
-          <a class="media_tool_meta meta_primary" href="{{ site.nhk_news_web_home }}">原文</a>
+          <a class="media_tool_meta meta_primary" href="{{ site.nhk_news_web_home }}"><ruby>原文<rt data-ruby-level="2">げんぶん</rt></ruby></a>
         </div>
       </div>
 
       <div class="rich_media_area_extra">
         <div class="mpda_bottom_container">
-        {% include adsense_web_footer.html %}
+          {% include adsense_web_footer.html %}
         </div>
       </div>
 
     </div>
   </div>
+  <script src="/assets/furigana_slider.js"></script>
 </body>
 
 </html>

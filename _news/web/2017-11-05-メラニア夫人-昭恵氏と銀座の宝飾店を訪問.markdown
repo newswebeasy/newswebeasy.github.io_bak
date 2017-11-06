@@ -3,19 +3,87 @@ layout: web_news
 categories: web
 newsid: k10011211421000
 title: メラニア夫人 昭恵氏と銀座の宝飾店を訪問
+title_with_ruby: メラニア<ruby>夫人<rt data-ruby-level="4">ふじん</rt></ruby> <ruby>昭恵<rt data-ruby-level="8">あきえ</rt></ruby><ruby>氏<rt
+  data-ruby-level="4">し</rt></ruby>と<ruby>銀座<rt data-ruby-level="6">ぎんざ</rt></ruby>の<ruby>宝飾店<rt
+  data-ruby-level="7">ほうしょくてん</rt></ruby>を<ruby>訪問<rt data-ruby-level="6">ほうもん</rt></ruby>
 last_modified_at: '2017-11-05T18:40:00+09:00'
-datetime: 2017年11月05日 18時40分
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>11<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>05<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 18<ruby>時<rt data-ruby-level="2">じ</rt></ruby>40<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
 description: トランプ大統領とともに日本を訪問しているメラニア夫人は、５日午後、安倍総理大臣の夫人、昭恵氏とともに都内にある宝飾店を訪れ、真珠の養殖の歴史などについて説明を受けました。
-summary: トランプ大統領とともに日本を訪問しているメラニア夫人は、５日午後、安倍総理大臣の夫人、昭恵氏とともに都内にある宝飾店を訪れ、真珠の養殖の歴史などについて説明を受けました。
+summary: トランプ<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby>とともに<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>を<ruby>訪問<rt
+  data-ruby-level="6">ほうもん</rt></ruby>しているメラニア<ruby>夫人<rt data-ruby-level="4">ふじん</rt></ruby>は、５<ruby>日午後<rt
+  data-ruby-level="2">にちごご</rt></ruby>、<ruby>安倍<rt data-ruby-level="8">あべ</rt></ruby><ruby>総理<rt
+  data-ruby-level="5">そうり</rt></ruby><ruby>大臣<rt data-ruby-level="4">だいじん</rt></ruby>の<ruby>夫人<rt
+  data-ruby-level="4">ふじん</rt></ruby>、<ruby>昭恵<rt data-ruby-level="8">あきえ</rt></ruby><ruby>氏<rt
+  data-ruby-level="4">し</rt></ruby>とともに<ruby>都内<rt data-ruby-level="3">とない</rt></ruby>にある<ruby>宝飾店<rt
+  data-ruby-level="7">ほうしょくてん</rt></ruby>を<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れ、<ruby>真珠<rt
+  data-ruby-level="7">しんじゅ</rt></ruby>の<ruby>養殖<rt data-ruby-level="7">ようしょく</rt></ruby>の<ruby>歴史<rt
+  data-ruby-level="4">れきし</rt></ruby>などについて<ruby>説明<rt data-ruby-level="4">せつめい</rt></ruby>を<ruby>受<rt
+  data-ruby-level="3">う</rt></ruby>けました。
 image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/05/K10011211421_1711051751_1711051753_01_02.jpg
+movie_url: https://newswebeasy.github.io/ja201711/news/web/movie/2017/11/05/k10011211421_201711051940_201711051957.mp4
+voice_url: https://newswebeasy.github.io/ja201711/news/web/voice/2017/11/05/k10011211421_201711051940_201711051957.mp3
 body:
-- text: メラニア夫人は５日昼過ぎ、東京・銀座にある真珠を中心に扱う宝飾店を訪れ、昭恵夫人の出迎えを受けたメラニア夫人は「こんにちは、お元気ですか？お会いできてうれしいです」と笑顔であいさつしていました。<br
-    /><br />このあと２人は、三重県で海女をしている女性たちなどから、真珠の種類や採取方法について説明を受け、メラニア夫人は、熱心に説明に聞き入り、時折、質問もしていたということです。そして、メラニア夫人は帰り際、昭恵夫人に「楽しめましたか？」と尋ねられると、笑顔でうなずいていました。<br
-    /><br />説明を行った宝飾店の担当者は「ちょっとしたしぐさなどがチャーミングな女性だと思いました。昭恵夫人ともフレンドリーで、いい関係だと感じました」と話していました。<br
-    />また、海女の里中咲季さんは「すごく気さくな方で、握手を向こうから求めてくださいました。私は海女デビューして１か月なので、『おめでとう』と言ってもらい、優しい方だと思いました」と話していました。
+- text: メラニア<ruby>夫人<rt data-ruby-level="4">ふじん</rt></ruby>は５<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>昼過<rt
+    data-ruby-level="5">ひるす</rt></ruby>ぎ、<ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>・<ruby>銀座<rt
+    data-ruby-level="6">ぎんざ</rt></ruby>にある<ruby>真珠<rt data-ruby-level="7">しんじゅ</rt></ruby>を<ruby>中心<rt
+    data-ruby-level="2">ちゅうしん</rt></ruby>に<ruby>扱<rt data-ruby-level="7">あつか</rt></ruby>う<ruby>宝飾店<rt
+    data-ruby-level="7">ほうしょくてん</rt></ruby>を<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れ、<ruby>昭恵<rt
+    data-ruby-level="8">あきえ</rt></ruby><ruby>夫人<rt data-ruby-level="4">ふじん</rt></ruby>の<ruby>出迎<rt
+    data-ruby-level="7">でむか</rt></ruby>えを<ruby>受<rt data-ruby-level="3">う</rt></ruby>けたメラニア<ruby>夫人<rt
+    data-ruby-level="4">ふじん</rt></ruby>は「こんにちは、お<ruby>元気<rt data-ruby-level="2">げんき</rt></ruby>ですか？お<ruby>会<rt
+    data-ruby-level="2">あ</rt></ruby>いできてうれしいです」と<ruby>笑顔<rt data-ruby-level="7">えがお</rt></ruby>であいさつしていました。<br
+    /><br />このあと２<ruby>人<rt data-ruby-level="1">にん</rt></ruby>は、<ruby>三重県<rt data-ruby-level="7">みえけん</rt></ruby>で<ruby>海女<rt
+    data-ruby-level="8">あま</rt></ruby>をしている<ruby>女性<rt data-ruby-level="5">じょせい</rt></ruby>たちなどから、<ruby>真珠<rt
+    data-ruby-level="7">しんじゅ</rt></ruby>の<ruby>種類<rt data-ruby-level="4">しゅるい</rt></ruby>や<ruby>採取<rt
+    data-ruby-level="5">さいしゅ</rt></ruby><ruby>方法<rt data-ruby-level="4">ほうほう</rt></ruby>について<ruby>説明<rt
+    data-ruby-level="4">せつめい</rt></ruby>を<ruby>受<rt data-ruby-level="3">う</rt></ruby>け、メラニア<ruby>夫人<rt
+    data-ruby-level="4">ふじん</rt></ruby>は、<ruby>熱心<rt data-ruby-level="4">ねっしん</rt></ruby>に<ruby>説明<rt
+    data-ruby-level="4">せつめい</rt></ruby>に<ruby>聞<rt data-ruby-level="2">き</rt></ruby>き<ruby>入<rt
+    data-ruby-level="2">い</rt></ruby>り、<ruby>時折<rt data-ruby-level="4">ときおり</rt></ruby>、<ruby>質問<rt
+    data-ruby-level="5">しつもん</rt></ruby>もしていたということです。そして、メラニア<ruby>夫人<rt data-ruby-level="4">ふじん</rt></ruby>は<ruby>帰<rt
+    data-ruby-level="7">かえ</rt></ruby>り<ruby>際<rt data-ruby-level="7">ぎわ</rt></ruby>、<ruby>昭恵<rt
+    data-ruby-level="8">あきえ</rt></ruby><ruby>夫人<rt data-ruby-level="4">ふじん</rt></ruby>に「<ruby>楽<rt
+    data-ruby-level="2">たの</rt></ruby>しめましたか？」と<ruby>尋<rt data-ruby-level="7">たず</rt></ruby>ねられると、<ruby>笑顔<rt
+    data-ruby-level="7">えがお</rt></ruby>でうなずいていました。<br /><br /><ruby>説明<rt data-ruby-level="4">せつめい</rt></ruby>を<ruby>行<rt
+    data-ruby-level="2">い</rt></ruby>った<ruby>宝飾店<rt data-ruby-level="7">ほうしょくてん</rt></ruby>の<ruby>担当者<rt
+    data-ruby-level="6">たんとうしゃ</rt></ruby>は「ちょっとしたしぐさなどがチャーミングな<ruby>女性<rt data-ruby-level="5">じょせい</rt></ruby>だと<ruby>思<rt
+    data-ruby-level="2">おも</rt></ruby>いました。<ruby>昭恵<rt data-ruby-level="8">あきえ</rt></ruby><ruby>夫人<rt
+    data-ruby-level="4">ふじん</rt></ruby>ともフレンドリーで、いい<ruby>関係<rt data-ruby-level="4">かんけい</rt></ruby>だと<ruby>感<rt
+    data-ruby-level="3">かん</rt></ruby>じました」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。<br
+    />また、<ruby>海女<rt data-ruby-level="8">あま</rt></ruby>の<ruby>里中<rt data-ruby-level="2">さとなか</rt></ruby><ruby>咲季<rt
+    data-ruby-level="7">さき</rt></ruby>さんは「すごく<ruby>気<rt data-ruby-level="1">き</rt></ruby>さくな<ruby>方<rt
+    data-ruby-level="2">ほう</rt></ruby>で、<ruby>握手<rt data-ruby-level="7">あくしゅ</rt></ruby>を<ruby>向<rt
+    data-ruby-level="3">む</rt></ruby>こうから<ruby>求<rt data-ruby-level="4">もと</rt></ruby>めてくださいました。<ruby>私<rt
+    data-ruby-level="8">わたし</rt></ruby>は<ruby>海女<rt data-ruby-level="8">あま</rt></ruby>デビューして１か<ruby>月<rt
+    data-ruby-level="1">げつ</rt></ruby>なので、『おめでとう』と<ruby>言<rt data-ruby-level="2">い</rt></ruby>ってもらい、<ruby>優<rt
+    data-ruby-level="7">やさ</rt></ruby>しい<ruby>方<rt data-ruby-level="2">ほう</rt></ruby>だと<ruby>思<rt
+    data-ruby-level="2">おも</rt></ruby>いました」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。
   image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/05/K10011211421_1711051751_1711051753_01_03.jpg
-- title: 集まった多くの人が姿を見られず
-  text: メラニア夫人が訪れた東京・銀座の宝飾店の近くには夫人の姿を一目見ようと大勢の買い物客などが集まりました。しかし、夫人が滞在したおよそ１時間半にわたって店の前の通りは封鎖され、多くの人が姿を直接見られないまま夫人を乗せた車は店をあとにしました。<br
-    /><br />メラニア夫人の動画をスマートフォンで撮ろうと思ったという女性は「メラニア夫人が店の中にいると知ってびっくりしました。ちらっとでもいいから姿を見たかったです」と話していました。
+- title: <ruby>集<rt data-ruby-level="3">あつ</rt></ruby>まった<ruby>多<rt data-ruby-level="2">おお</rt></ruby>くの<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>が<ruby>姿<rt data-ruby-level="6">すがた</rt></ruby>を<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>られず
+  text: メラニア<ruby>夫人<rt data-ruby-level="4">ふじん</rt></ruby>が<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れた<ruby>東京<rt
+    data-ruby-level="2">とうきょう</rt></ruby>・<ruby>銀座<rt data-ruby-level="6">ぎんざ</rt></ruby>の<ruby>宝飾店<rt
+    data-ruby-level="7">ほうしょくてん</rt></ruby>の<ruby>近<rt data-ruby-level="2">ちか</rt></ruby>くには<ruby>夫人<rt
+    data-ruby-level="4">ふじん</rt></ruby>の<ruby>姿<rt data-ruby-level="6">すがた</rt></ruby>を<ruby>一目<rt
+    data-ruby-level="1">ひとめ</rt></ruby><ruby>見<rt data-ruby-level="1">み</rt></ruby>ようと<ruby>大勢<rt
+    data-ruby-level="5">おおぜい</rt></ruby>の<ruby>買<rt data-ruby-level="3">か</rt></ruby>い<ruby>物客<rt
+    data-ruby-level="3">ものきゃく</rt></ruby>などが<ruby>集<rt data-ruby-level="3">あつ</rt></ruby>まりました。しかし、<ruby>夫人<rt
+    data-ruby-level="4">ふじん</rt></ruby>が<ruby>滞在<rt data-ruby-level="7">たいざい</rt></ruby>したおよそ１<ruby>時間半<rt
+    data-ruby-level="2">じかんはん</rt></ruby>にわたって<ruby>店<rt data-ruby-level="2">みせ</rt></ruby>の<ruby>前<rt
+    data-ruby-level="2">まえ</rt></ruby>の<ruby>通<rt data-ruby-level="2">とお</rt></ruby>りは<ruby>封鎖<rt
+    data-ruby-level="7">ふうさ</rt></ruby>され、<ruby>多<rt data-ruby-level="2">おお</rt></ruby>くの<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>が<ruby>姿<rt data-ruby-level="6">すがた</rt></ruby>を<ruby>直接<rt
+    data-ruby-level="5">ちょくせつ</rt></ruby><ruby>見<rt data-ruby-level="1">み</rt></ruby>られないまま<ruby>夫人<rt
+    data-ruby-level="4">ふじん</rt></ruby>を<ruby>乗<rt data-ruby-level="3">の</rt></ruby>せた<ruby>車<rt
+    data-ruby-level="1">くるま</rt></ruby>は<ruby>店<rt data-ruby-level="2">みせ</rt></ruby>をあとにしました。<br
+    /><br />メラニア<ruby>夫人<rt data-ruby-level="4">ふじん</rt></ruby>の<ruby>動画<rt data-ruby-level="3">どうが</rt></ruby>をスマートフォンで<ruby>撮<rt
+    data-ruby-level="7">と</rt></ruby>ろうと<ruby>思<rt data-ruby-level="2">おも</rt></ruby>ったという<ruby>女性<rt
+    data-ruby-level="5">じょせい</rt></ruby>は「メラニア<ruby>夫人<rt data-ruby-level="4">ふじん</rt></ruby>が<ruby>店<rt
+    data-ruby-level="2">みせ</rt></ruby>の<ruby>中<rt data-ruby-level="1">なか</rt></ruby>にいると<ruby>知<rt
+    data-ruby-level="2">し</rt></ruby>ってびっくりしました。ちらっとでもいいから<ruby>姿<rt data-ruby-level="6">すがた</rt></ruby>を<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>たかったです」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。
 source_url: http://www3.nhk.or.jp/news/html/20171105/k10011211421000.html
 ...
