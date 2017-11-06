@@ -3,63 +3,303 @@ layout: web_news
 categories: web
 newsid: k10011204481000
 title: あなたのお子さんはどのくらい習い事をしていますか？
+title_with_ruby: あなたのお<ruby>子<rt data-ruby-level="1">こ</rt></ruby>さんはどのくらい<ruby>習<rt
+  data-ruby-level="3">なら</rt></ruby>い<ruby>事<rt data-ruby-level="3">ごと</rt></ruby>をしていますか？
 last_modified_at: '2017-10-31T12:09:00+09:00'
-datetime: 2017年10月31日 12時09分
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>10<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>31<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 12<ruby>時<rt data-ruby-level="2">じ</rt></ruby>09<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
 description: スイミングに体操、バレエ、ピアノに英語など本当にさまざまな習い事があります。子ども自身が「やりたい」と言って始めることから「体と心を鍛えさせたい！」「国際舞台で活躍する人材に！」といった親の希望や願望がきっかけになることもあるようです。取材班は、子どもを持つママ記者３人。何かと気になる「子どもたちの習い事」をテーマに取材してみました。（ネットワーク報道部記者
   野町かずみ 飯田暁子 大窪奈緒子）
-summary: スイミングに体操、バレエ、ピアノに英語など本当にさまざまな習い事があります。子ども自身が「やりたい」と言って始めることから「体と心を鍛えさせたい！」「国際舞台で活躍する人材に！」といった親の希望や願望がきっかけになることもあるようです。取材班は、子どもを持つママ記者３人。何かと気になる「子どもたちの習い事」をテーマに取材してみました。（ネットワーク報道部記者
-  野町かずみ 飯田暁子 大窪奈緒子）
-image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/31/K10011204481_1710301932_1710301935_01_02.jpg
+summary: スイミングに<ruby>体操<rt data-ruby-level="6">たいそう</rt></ruby>、バレエ、ピアノに<ruby>英語<rt
+  data-ruby-level="4">えいご</rt></ruby>など<ruby>本当<rt data-ruby-level="2">ほんとう</rt></ruby>にさまざまな<ruby>習<rt
+  data-ruby-level="3">なら</rt></ruby>い<ruby>事<rt data-ruby-level="3">ごと</rt></ruby>があります。<ruby>子<rt
+  data-ruby-level="1">こ</rt></ruby>ども<ruby>自身<rt data-ruby-level="3">じしん</rt></ruby>が「やりたい」と<ruby>言<rt
+  data-ruby-level="2">い</rt></ruby>って<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>めることから「<ruby>体<rt
+  data-ruby-level="2">からだ</rt></ruby>と<ruby>心<rt data-ruby-level="2">こころ</rt></ruby>を<ruby>鍛<rt
+  data-ruby-level="7">きた</rt></ruby>えさせたい！」「<ruby>国際<rt data-ruby-level="5">こくさい</rt></ruby><ruby>舞台<rt
+  data-ruby-level="7">ぶたい</rt></ruby>で<ruby>活躍<rt data-ruby-level="7">かつやく</rt></ruby>する<ruby>人材<rt
+  data-ruby-level="4">じんざい</rt></ruby>に！」といった<ruby>親<rt data-ruby-level="2">おや</rt></ruby>の<ruby>希望<rt
+  data-ruby-level="4">きぼう</rt></ruby>や<ruby>願望<rt data-ruby-level="4">がんぼう</rt></ruby>がきっかけになることもあるようです。<ruby>取材班<rt
+  data-ruby-level="6">しゅざいはん</rt></ruby>は、<ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもを<ruby>持<rt
+  data-ruby-level="3">も</rt></ruby>つママ<ruby>記者<rt data-ruby-level="3">きしゃ</rt></ruby>３<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>。<ruby>何<rt data-ruby-level="2">なに</rt></ruby>かと<ruby>気<rt
+  data-ruby-level="1">き</rt></ruby>になる「<ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもたちの<ruby>習<rt
+  data-ruby-level="3">なら</rt></ruby>い<ruby>事<rt data-ruby-level="3">ごと</rt></ruby>」をテーマに<ruby>取材<rt
+  data-ruby-level="4">しゅざい</rt></ruby>してみました。（ネットワーク<ruby>報道部<rt data-ruby-level="5">ほうどうぶ</rt></ruby><ruby>記者<rt
+  data-ruby-level="3">きしゃ</rt></ruby> <ruby>野町<rt data-ruby-level="2">のまち</rt></ruby>かずみ
+  <ruby>飯田<rt data-ruby-level="8">いいだ</rt></ruby><ruby>暁子<rt data-ruby-level="8">あきこ</rt></ruby>
+  <ruby>大窪<rt data-ruby-level="8">おおくぼ</rt></ruby><ruby>奈緒子<rt data-ruby-level="7">なおこ</rt></ruby>）
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/10/31/K10011204481_1710301932_1710301935_01_02.jpg
 body:
-- title: 習い事にかける費用は？
-  text: 取材のきっかけになったのは先週公表された「学校外教育活動に関する調査２０１７」という調査結果です。民間の教育研究所のベネッセ教育総合研究所が保護者の教育観を探ろうと全国の幼児から高校生の子どもを持つ母親を対象に行ったもので、１万５０００人余りが回答しています。<br
-    /><br />まずは、気になった結果をいくつかピックアップしてみます。金額はいずれも１か月あたりの支出額です。
-- text: <span class="pattern_1">学校外の教育活動、いわゆる習い事にかける費用は？</span><br />平均で<span class="pattern_1">幼児が６５００円</span>、<span
-    class="pattern_1">小学生が１万５３００円</span>、<span class="pattern_1">中学生が２万２２００円</span>、<span
-    class="pattern_1">高校生が１万６９００円</span>だそうです。今も昔も、心と体を鍛えたいとスポーツや運動の習い事をする子どもたちは多いようです。
+- title: <ruby>習<rt data-ruby-level="3">なら</rt></ruby>い<ruby>事<rt data-ruby-level="3">ごと</rt></ruby>にかける<ruby>費用<rt
+    data-ruby-level="4">ひよう</rt></ruby>は？
+  text: <ruby>取材<rt data-ruby-level="4">しゅざい</rt></ruby>のきっかけになったのは<ruby>先週<rt data-ruby-level="2">せんしゅう</rt></ruby><ruby>公表<rt
+    data-ruby-level="3">こうひょう</rt></ruby>された「<ruby>学校外<rt data-ruby-level="2">がっこうがい</rt></ruby><ruby>教育<rt
+    data-ruby-level="3">きょういく</rt></ruby><ruby>活動<rt data-ruby-level="3">かつどう</rt></ruby>に<ruby>関<rt
+    data-ruby-level="4">かん</rt></ruby>する<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby>２０１７」という<ruby>調査<rt
+    data-ruby-level="5">ちょうさ</rt></ruby><ruby>結果<rt data-ruby-level="4">けっか</rt></ruby>です。<ruby>民間<rt
+    data-ruby-level="4">みんかん</rt></ruby>の<ruby>教育<rt data-ruby-level="3">きょういく</rt></ruby><ruby>研究所<rt
+    data-ruby-level="3">けんきゅうじょ</rt></ruby>のベネッセ<ruby>教育<rt data-ruby-level="3">きょういく</rt></ruby><ruby>総合<rt
+    data-ruby-level="5">そうごう</rt></ruby><ruby>研究所<rt data-ruby-level="3">けんきゅうじょ</rt></ruby>が<ruby>保護者<rt
+    data-ruby-level="5">ほごしゃ</rt></ruby>の<ruby>教育観<rt data-ruby-level="4">きょういくかん</rt></ruby>を<ruby>探<rt
+    data-ruby-level="7">さぐ</rt></ruby>ろうと<ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby>の<ruby>幼児<rt
+    data-ruby-level="6">ようじ</rt></ruby>から<ruby>高校生<rt data-ruby-level="2">こうこうせい</rt></ruby>の<ruby>子<rt
+    data-ruby-level="1">こ</rt></ruby>どもを<ruby>持<rt data-ruby-level="3">も</rt></ruby>つ<ruby>母親<rt
+    data-ruby-level="2">ははおや</rt></ruby>を<ruby>対象<rt data-ruby-level="4">たいしょう</rt></ruby>に<ruby>行<rt
+    data-ruby-level="4">おこな</rt></ruby>ったもので、１<ruby>万<rt data-ruby-level="2">まん</rt></ruby>５０００<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby><ruby>余<rt data-ruby-level="5">あま</rt></ruby>りが<ruby>回答<rt
+    data-ruby-level="2">かいとう</rt></ruby>しています。<br /><br />まずは、<ruby>気<rt data-ruby-level="1">き</rt></ruby>になった<ruby>結果<rt
+    data-ruby-level="4">けっか</rt></ruby>をいくつかピックアップしてみます。<ruby>金額<rt data-ruby-level="5">きんがく</rt></ruby>はいずれも１か<ruby>月<rt
+    data-ruby-level="1">げつ</rt></ruby>あたりの<ruby>支出額<rt data-ruby-level="5">ししゅつがく</rt></ruby>です。
+- text: <span class="pattern_1"><ruby>学校外<rt data-ruby-level="2">がっこうがい</rt></ruby>の<ruby>教育<rt
+    data-ruby-level="3">きょういく</rt></ruby><ruby>活動<rt data-ruby-level="3">かつどう</rt></ruby>、いわゆる<ruby>習<rt
+    data-ruby-level="3">なら</rt></ruby>い<ruby>事<rt data-ruby-level="3">ごと</rt></ruby>にかける<ruby>費用<rt
+    data-ruby-level="4">ひよう</rt></ruby>は？</span><br /><ruby>平均<rt data-ruby-level="5">へいきん</rt></ruby>で<span
+    class="pattern_1"><ruby>幼児<rt data-ruby-level="6">ようじ</rt></ruby>が６５００<ruby>円<rt
+    data-ruby-level="1">えん</rt></ruby></span>、<span class="pattern_1"><ruby>小学生<rt
+    data-ruby-level="1">しょうがくせい</rt></ruby>が１<ruby>万<rt data-ruby-level="2">まん</rt></ruby>５３００<ruby>円<rt
+    data-ruby-level="1">えん</rt></ruby></span>、<span class="pattern_1"><ruby>中学生<rt
+    data-ruby-level="1">ちゅうがくせい</rt></ruby>が２<ruby>万<rt data-ruby-level="2">まん</rt></ruby>２２００<ruby>円<rt
+    data-ruby-level="1">えん</rt></ruby></span>、<span class="pattern_1"><ruby>高校生<rt
+    data-ruby-level="2">こうこうせい</rt></ruby>が１<ruby>万<rt data-ruby-level="2">まん</rt></ruby>６９００<ruby>円<rt
+    data-ruby-level="1">えん</rt></ruby></span>だそうです。<ruby>今<rt data-ruby-level="2">いま</rt></ruby>も<ruby>昔<rt
+    data-ruby-level="3">むかし</rt></ruby>も、<ruby>心<rt data-ruby-level="2">こころ</rt></ruby>と<ruby>体<rt
+    data-ruby-level="2">からだ</rt></ruby>を<ruby>鍛<rt data-ruby-level="7">きた</rt></ruby>えたいとスポーツや<ruby>運動<rt
+    data-ruby-level="3">うんどう</rt></ruby>の<ruby>習<rt data-ruby-level="3">なら</rt></ruby>い<ruby>事<rt
+    data-ruby-level="3">ごと</rt></ruby>をする<ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもたちは<ruby>多<rt
+    data-ruby-level="2">おお</rt></ruby>いようです。
   textPos: bottom
-  image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/31/K10011204481_1710302116_1710302122_01_03.jpg
-- title: １番人気はスイミング
-  text: 小学生では、３人に２人近く（６３．６％）が定期的にスポーツ活動をしていると回答し、最も多かったのがスイミングで小学生では３人に１人（３３．６％）に上っています。
+  image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/10/31/K10011204481_1710302116_1710302122_01_03.jpg
+- title: １<ruby>番<rt data-ruby-level="2">ばん</rt></ruby><ruby>人気<rt data-ruby-level="1">にんき</rt></ruby>はスイミング
+  text: <ruby>小学生<rt data-ruby-level="1">しょうがくせい</rt></ruby>では、３<ruby>人<rt data-ruby-level="1">にん</rt></ruby>に２<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby><ruby>近<rt data-ruby-level="2">ちか</rt></ruby>く（６３．６％）が<ruby>定期的<rt
+    data-ruby-level="4">ていきてき</rt></ruby>にスポーツ<ruby>活動<rt data-ruby-level="3">かつどう</rt></ruby>をしていると<ruby>回答<rt
+    data-ruby-level="2">かいとう</rt></ruby>し、<ruby>最<rt data-ruby-level="4">もっと</rt></ruby>も<ruby>多<rt
+    data-ruby-level="2">おお</rt></ruby>かったのがスイミングで<ruby>小学生<rt data-ruby-level="1">しょうがくせい</rt></ruby>では３<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>に１<ruby>人<rt data-ruby-level="1">にん</rt></ruby>（３３．６％）に<ruby>上<rt
+    data-ruby-level="1">のぼ</rt></ruby>っています。
   textPos: bottom
-  image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/31/K10011204481_1710302141_1710302145_01_04.jpg
-- text: 年代別にみると<span class="pattern_1">スポーツ活動にかける費用のピークは小学３年生で５１００円</span>となっています。<br
-    /><br />記者たちのまわりでも赤ちゃんのころから親子一緒に遊ぶスイミングスクールに通っている、人気のスクールに通うために何か月もキャンセル待ちしているなどの話も見聞きします。
-- title: 習い事の支出 ピークは中学３年生
-  text: また、<span class="pattern_1">塾なども含めた学校外の活動費で支出が最も多かったのが２万５９００円の中学３年生</span>でした。やはり高校受験を控えていることが大きな要因のようです。
-- title: 都市部ほど支出多く
-  text: 今回の調査結果を居住地の人口規模別でみると<span class="pattern_1">都市部ほど支出額が多い傾向</span>が見られます。５万人未満では９９００円でしたが民間経営の塾やスポーツ施設が多くある政令指定都市や特別区ではおよそ１．８倍の１万７５００円となっています。
+  image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/10/31/K10011204481_1710302141_1710302145_01_04.jpg
+- text: <ruby>年代別<rt data-ruby-level="4">ねんだいべつ</rt></ruby>にみると<span class="pattern_1">スポーツ<ruby>活動<rt
+    data-ruby-level="3">かつどう</rt></ruby>にかける<ruby>費用<rt data-ruby-level="4">ひよう</rt></ruby>のピークは<ruby>小学<rt
+    data-ruby-level="1">しょうがく</rt></ruby>３<ruby>年生<rt data-ruby-level="1">ねんせい</rt></ruby>で５１００<ruby>円<rt
+    data-ruby-level="1">えん</rt></ruby></span>となっています。<br /><br /><ruby>記者<rt data-ruby-level="3">きしゃ</rt></ruby>たちのまわりでも<ruby>赤<rt
+    data-ruby-level="1">あか</rt></ruby>ちゃんのころから<ruby>親子<rt data-ruby-level="2">おやこ</rt></ruby><ruby>一緒<rt
+    data-ruby-level="7">いっしょ</rt></ruby>に<ruby>遊<rt data-ruby-level="3">あそ</rt></ruby>ぶスイミングスクールに<ruby>通<rt
+    data-ruby-level="2">とお</rt></ruby>っている、<ruby>人気<rt data-ruby-level="1">にんき</rt></ruby>のスクールに<ruby>通<rt
+    data-ruby-level="2">かよ</rt></ruby>うために<ruby>何<rt data-ruby-level="2">なん</rt></ruby>か<ruby>月<rt
+    data-ruby-level="2">げつ</rt></ruby>もキャンセル<ruby>待<rt data-ruby-level="3">ま</rt></ruby>ちしているなどの<ruby>話<rt
+    data-ruby-level="2">はなし</rt></ruby>も<ruby>見聞<rt data-ruby-level="2">みき</rt></ruby>きします。
+- title: <ruby>習<rt data-ruby-level="3">なら</rt></ruby>い<ruby>事<rt data-ruby-level="3">ごと</rt></ruby>の<ruby>支出<rt
+    data-ruby-level="5">ししゅつ</rt></ruby> ピークは<ruby>中学<rt data-ruby-level="1">ちゅうがく</rt></ruby>３<ruby>年生<rt
+    data-ruby-level="1">ねんせい</rt></ruby>
+  text: また、<span class="pattern_1"><ruby>塾<rt data-ruby-level="7">じゅく</rt></ruby>なども<ruby>含<rt
+    data-ruby-level="7">ふく</rt></ruby>めた<ruby>学校外<rt data-ruby-level="2">がっこうがい</rt></ruby>の<ruby>活動費<rt
+    data-ruby-level="4">かつどうひ</rt></ruby>で<ruby>支出<rt data-ruby-level="5">ししゅつ</rt></ruby>が<ruby>最<rt
+    data-ruby-level="4">もっと</rt></ruby>も<ruby>多<rt data-ruby-level="2">おお</rt></ruby>かったのが２<ruby>万<rt
+    data-ruby-level="2">まん</rt></ruby>５９００<ruby>円<rt data-ruby-level="1">えん</rt></ruby>の<ruby>中学<rt
+    data-ruby-level="1">ちゅうがく</rt></ruby>３<ruby>年生<rt data-ruby-level="1">ねんせい</rt></ruby></span>でした。やはり<ruby>高校<rt
+    data-ruby-level="2">こうこう</rt></ruby><ruby>受験<rt data-ruby-level="4">じゅけん</rt></ruby>を<ruby>控<rt
+    data-ruby-level="7">ひか</rt></ruby>えていることが<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きな<ruby>要因<rt
+    data-ruby-level="5">よういん</rt></ruby>のようです。
+- title: <ruby>都市部<rt data-ruby-level="3">としぶ</rt></ruby>ほど<ruby>支出<rt data-ruby-level="5">ししゅつ</rt></ruby><ruby>多<rt
+    data-ruby-level="2">おお</rt></ruby>く
+  text: <ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>の<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby><ruby>結果<rt
+    data-ruby-level="4">けっか</rt></ruby>を<ruby>居住地<rt data-ruby-level="5">きょじゅうち</rt></ruby>の<ruby>人口<rt
+    data-ruby-level="1">じんこう</rt></ruby><ruby>規模別<rt data-ruby-level="6">きぼべつ</rt></ruby>でみると<span
+    class="pattern_1"><ruby>都市部<rt data-ruby-level="3">としぶ</rt></ruby>ほど<ruby>支出額<rt
+    data-ruby-level="5">ししゅつがく</rt></ruby>が<ruby>多<rt data-ruby-level="2">おお</rt></ruby>い<ruby>傾向<rt
+    data-ruby-level="7">けいこう</rt></ruby></span>が<ruby>見<rt data-ruby-level="1">み</rt></ruby>られます。５<ruby>万<rt
+    data-ruby-level="2">まん</rt></ruby><ruby>人未満<rt data-ruby-level="4">にんみまん</rt></ruby>では９９００<ruby>円<rt
+    data-ruby-level="1">えん</rt></ruby>でしたが<ruby>民間<rt data-ruby-level="4">みんかん</rt></ruby><ruby>経営<rt
+    data-ruby-level="5">けいえい</rt></ruby>の<ruby>塾<rt data-ruby-level="7">じゅく</rt></ruby>やスポーツ<ruby>施設<rt
+    data-ruby-level="7">しせつ</rt></ruby>が<ruby>多<rt data-ruby-level="2">おお</rt></ruby>くある<ruby>政令<rt
+    data-ruby-level="5">せいれい</rt></ruby><ruby>指定都市<rt data-ruby-level="3">していとし</rt></ruby>や<ruby>特別区<rt
+    data-ruby-level="4">とくべつく</rt></ruby>ではおよそ１．８<ruby>倍<rt data-ruby-level="3">ばい</rt></ruby>の１<ruby>万<rt
+    data-ruby-level="2">まん</rt></ruby>７５００<ruby>円<rt data-ruby-level="1">えん</rt></ruby>となっています。
   textPos: bottom
-  image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/31/K10011204481_1710302116_1710302122_01_05.jpg
-- title: 親の収入による格差も
-  text: 世帯収入別でも活動費にかける差が見られ４００万円未満では８０００円となっているのに対し年収８００万円以上の世帯では２万５０００円と３倍以上の差となっています。<span
-    class="pattern_1">親の収入による教育格差が指摘されていることを表すデータの一つ</span>と言えそうです。
+  image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/10/31/K10011204481_1710302116_1710302122_01_05.jpg
+- title: <ruby>親<rt data-ruby-level="2">おや</rt></ruby>の<ruby>収入<rt data-ruby-level="6">しゅうにゅう</rt></ruby>による<ruby>格差<rt
+    data-ruby-level="5">かくさ</rt></ruby>も
+  text: <ruby>世帯<rt data-ruby-level="4">せたい</rt></ruby><ruby>収入別<rt data-ruby-level="6">しゅうにゅうべつ</rt></ruby>でも<ruby>活動費<rt
+    data-ruby-level="4">かつどうひ</rt></ruby>にかける<ruby>差<rt data-ruby-level="4">さ</rt></ruby>が<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>られ４００<ruby>万<rt data-ruby-level="2">まん</rt></ruby><ruby>円未満<rt
+    data-ruby-level="4">えんみまん</rt></ruby>では８０００<ruby>円<rt data-ruby-level="1">えん</rt></ruby>となっているのに<ruby>対<rt
+    data-ruby-level="3">たい</rt></ruby>し<ruby>年収<rt data-ruby-level="6">ねんしゅう</rt></ruby>８００<ruby>万<rt
+    data-ruby-level="2">まん</rt></ruby><ruby>円以上<rt data-ruby-level="4">えんいじょう</rt></ruby>の<ruby>世帯<rt
+    data-ruby-level="4">せたい</rt></ruby>では２<ruby>万<rt data-ruby-level="2">まん</rt></ruby>５０００<ruby>円<rt
+    data-ruby-level="1">えん</rt></ruby>と３<ruby>倍以上<rt data-ruby-level="4">ばいいじょう</rt></ruby>の<ruby>差<rt
+    data-ruby-level="4">さ</rt></ruby>となっています。<span class="pattern_1"><ruby>親<rt data-ruby-level="2">おや</rt></ruby>の<ruby>収入<rt
+    data-ruby-level="6">しゅうにゅう</rt></ruby>による<ruby>教育<rt data-ruby-level="3">きょういく</rt></ruby><ruby>格差<rt
+    data-ruby-level="5">かくさ</rt></ruby>が<ruby>指摘<rt data-ruby-level="7">してき</rt></ruby>されていることを<ruby>表<rt
+    data-ruby-level="3">あらわ</rt></ruby>すデータの<ruby>一<rt data-ruby-level="1">ひと</rt></ruby>つ</span>と<ruby>言<rt
+    data-ruby-level="2">い</rt></ruby>えそうです。
   textPos: bottom
-  image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/31/K10011204481_1710302117_1710302126_01_06.jpg
-- title: 運動や芸術の習い事よりも学習塾系を重視する傾向
-  text: ベネッセ教育総合研究所では同様の調査を４年前の２０１３年と８年前の２００９年にも行っています。それと比較してみると母親の“子育て感”の変化が読み取れます。
-- text: 「運動やスポーツをするよりももっと勉強してほしい」かとの質問に対して「とてもそう思う」、「まあまあそう思う」の回答の合計は２００９年の２６．８％から今回２０１７年は３９．４％と１３ポイント近く増えているのです。<br
-    />特に「幼児」では１４．４％から２７．４％と２倍近くに、「小学生」でも２４．３％から３７．５％と１．５倍に増えています。<br /><br /><span
-    class="pattern_1">「勉強をもっと」という意識は子どもを持つ親に広がっていることがうかがえます</span>。
+  image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/10/31/K10011204481_1710302117_1710302126_01_06.jpg
+- title: <ruby>運動<rt data-ruby-level="3">うんどう</rt></ruby>や<ruby>芸術<rt data-ruby-level="5">げいじゅつ</rt></ruby>の<ruby>習<rt
+    data-ruby-level="3">なら</rt></ruby>い<ruby>事<rt data-ruby-level="3">ごと</rt></ruby>よりも<ruby>学習塾<rt
+    data-ruby-level="7">がくしゅうじゅく</rt></ruby><ruby>系<rt data-ruby-level="6">けい</rt></ruby>を<ruby>重視<rt
+    data-ruby-level="6">じゅうし</rt></ruby>する<ruby>傾向<rt data-ruby-level="7">けいこう</rt></ruby>
+  text: ベネッセ<ruby>教育<rt data-ruby-level="3">きょういく</rt></ruby><ruby>総合<rt data-ruby-level="5">そうごう</rt></ruby><ruby>研究所<rt
+    data-ruby-level="3">けんきゅうじょ</rt></ruby>では<ruby>同様<rt data-ruby-level="3">どうよう</rt></ruby>の<ruby>調査<rt
+    data-ruby-level="5">ちょうさ</rt></ruby>を４<ruby>年前<rt data-ruby-level="2">ねんまえ</rt></ruby>の２０１３<ruby>年<rt
+    data-ruby-level="1">ねん</rt></ruby>と８<ruby>年前<rt data-ruby-level="2">ねんまえ</rt></ruby>の２００９<ruby>年<rt
+    data-ruby-level="1">ねん</rt></ruby>にも<ruby>行<rt data-ruby-level="2">おこな</rt></ruby>っています。それと<ruby>比較<rt
+    data-ruby-level="7">ひかく</rt></ruby>してみると<ruby>母親<rt data-ruby-level="2">ははおや</rt></ruby>の“<ruby>子育<rt
+    data-ruby-level="3">こそだ</rt></ruby>て<ruby>感<rt data-ruby-level="3">かん</rt></ruby>”の<ruby>変化<rt
+    data-ruby-level="4">へんか</rt></ruby>が<ruby>読<rt data-ruby-level="3">よ</rt></ruby>み<ruby>取<rt
+    data-ruby-level="3">と</rt></ruby>れます。
+- text: 「<ruby>運動<rt data-ruby-level="3">うんどう</rt></ruby>やスポーツをするよりももっと<ruby>勉強<rt
+    data-ruby-level="3">べんきょう</rt></ruby>してほしい」かとの<ruby>質問<rt data-ruby-level="5">しつもん</rt></ruby>に<ruby>対<rt
+    data-ruby-level="3">たい</rt></ruby>して「とてもそう<ruby>思<rt data-ruby-level="2">おも</rt></ruby>う」、「まあまあそう<ruby>思<rt
+    data-ruby-level="2">おも</rt></ruby>う」の<ruby>回答<rt data-ruby-level="2">かいとう</rt></ruby>の<ruby>合計<rt
+    data-ruby-level="2">ごうけい</rt></ruby>は２００９<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>の２６．８％から<ruby>今回<rt
+    data-ruby-level="2">こんかい</rt></ruby>２０１７<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>は３９．４％と１３ポイント<ruby>近<rt
+    data-ruby-level="2">ちか</rt></ruby>く<ruby>増<rt data-ruby-level="5">ふ</rt></ruby>えているのです。<br
+    /><ruby>特<rt data-ruby-level="4">とく</rt></ruby>に「<ruby>幼児<rt data-ruby-level="6">ようじ</rt></ruby>」では１４．４％から２７．４％と２<ruby>倍<rt
+    data-ruby-level="3">ばい</rt></ruby><ruby>近<rt data-ruby-level="2">ちか</rt></ruby>くに、「<ruby>小学生<rt
+    data-ruby-level="1">しょうがくせい</rt></ruby>」でも２４．３％から３７．５％と１．５<ruby>倍<rt data-ruby-level="3">ばい</rt></ruby>に<ruby>増<rt
+    data-ruby-level="5">ふ</rt></ruby>えています。<br /><br /><span class="pattern_1">「<ruby>勉強<rt
+    data-ruby-level="3">べんきょう</rt></ruby>をもっと」という<ruby>意識<rt data-ruby-level="5">いしき</rt></ruby>は<ruby>子<rt
+    data-ruby-level="1">こ</rt></ruby>どもを<ruby>持<rt data-ruby-level="3">も</rt></ruby>つ<ruby>親<rt
+    data-ruby-level="2">おや</rt></ruby>に<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>がっていることがうかがえます</span>。
   textPos: bottom
-  image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/31/K10011204481_1710302117_1710302122_01_07.jpg
-- title: 背景に教育改革が…
-  text: 学習を重視する保護者の意識について調査を行ったベネッセ教育総合研究所では、２０１９年度から小学校高学年で英語が正式な教科となることや、２０２０年度には思考力や判断力を問うため、国語や数学の試験に記述式の問題の導入や、英語のテストでＴＯＥＦＬなど民間の検定試験を使うなど、大学の入試改革があることが背景にあると分析しているそうです。<span
-    class="pattern_1">教育を取り巻く大きな変化を保護者が不安に思い「勉強シフト！」が始まっている</span>との見方です。
-- title: 勉強シフトに専門家は警鐘
-  text: 幼児教育について研究している東京大学大学院総合文化研究科の開一夫教授に今回の結果で見えた親の“勉強シフト”について尋ねてみると調査を行った研究所とほぼ同じような感想でした。<br
-    /><br /><span class="pattern_1">「２０２０年度の大学入試改革では、思考力や判断力それに表現力など、学習塾だけでは培うのが難しいであろう分野が入試に取り入れられる方向で議論が進んでいます。それにもかかわらず子どもたちにより勉強をさせたいという傾向がうかがえる今回の結果にはとても驚いています」</span><br
-    /><br />そのうえで開教授は幼少期の習い事については<span class="pattern_1">「塾や習い事で主に身につくのは計算が早くなる、字が上手に書けるようになる、とび箱が跳べるようになるなど、短期的で目に見えてわかりやすい事柄です。長期的に見た社会で役立つ能力が必ずしも育まれているわけではありません。習い事を増やすほどに、友人と遊ぶ時間や親と食卓を囲みながらゆっくりと話す時間が減っていくことも認識したうえでその習い事が本当に必要か判断してほしいです」</span>と提言しています。
-  image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/31/K10011204481_1710301931_1710301935_01_03.jpg
-- title: 費用が大きな負担に
-  text: また、家計の面からも習い事にかける費用をバランスよく考える必要があるとの指摘もあります。
-- text: ベネッセ教育総合研究所の調査では「教育にお金がかかり過ぎると思う」かとの質問に対して、「とてもそう思う」「まあまあそう思う」の回答の合計は６７．２％に上りました。
+  image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/10/31/K10011204481_1710302117_1710302122_01_07.jpg
+- title: <ruby>背景<rt data-ruby-level="6">はいけい</rt></ruby>に<ruby>教育<rt data-ruby-level="3">きょういく</rt></ruby><ruby>改革<rt
+    data-ruby-level="6">かいかく</rt></ruby>が…
+  text: <ruby>学習<rt data-ruby-level="3">がくしゅう</rt></ruby>を<ruby>重視<rt data-ruby-level="6">じゅうし</rt></ruby>する<ruby>保護者<rt
+    data-ruby-level="5">ほごしゃ</rt></ruby>の<ruby>意識<rt data-ruby-level="5">いしき</rt></ruby>について<ruby>調査<rt
+    data-ruby-level="5">ちょうさ</rt></ruby>を<ruby>行<rt data-ruby-level="2">い</rt></ruby>ったベネッセ<ruby>教育<rt
+    data-ruby-level="3">きょういく</rt></ruby><ruby>総合<rt data-ruby-level="5">そうごう</rt></ruby><ruby>研究所<rt
+    data-ruby-level="3">けんきゅうじょ</rt></ruby>では、２０１９<ruby>年度<rt data-ruby-level="3">ねんど</rt></ruby>から<ruby>小学校<rt
+    data-ruby-level="1">しょうがっこう</rt></ruby><ruby>高学年<rt data-ruby-level="2">こうがくねん</rt></ruby>で<ruby>英語<rt
+    data-ruby-level="4">えいご</rt></ruby>が<ruby>正式<rt data-ruby-level="3">せいしき</rt></ruby>な<ruby>教科<rt
+    data-ruby-level="2">きょうか</rt></ruby>となることや、２０２０<ruby>年度<rt data-ruby-level="3">ねんど</rt></ruby>には<ruby>思考力<rt
+    data-ruby-level="2">しこうりょく</rt></ruby>や<ruby>判断力<rt data-ruby-level="5">はんだんりょく</rt></ruby>を<ruby>問<rt
+    data-ruby-level="3">と</rt></ruby>うため、<ruby>国語<rt data-ruby-level="2">こくご</rt></ruby>や<ruby>数学<rt
+    data-ruby-level="2">すうがく</rt></ruby>の<ruby>試験<rt data-ruby-level="4">しけん</rt></ruby>に<ruby>記述式<rt
+    data-ruby-level="5">きじゅつしき</rt></ruby>の<ruby>問題<rt data-ruby-level="3">もんだい</rt></ruby>の<ruby>導入<rt
+    data-ruby-level="5">どうにゅう</rt></ruby>や、<ruby>英語<rt data-ruby-level="4">えいご</rt></ruby>のテストでＴＯＥＦＬなど<ruby>民間<rt
+    data-ruby-level="4">みんかん</rt></ruby>の<ruby>検定<rt data-ruby-level="5">けんてい</rt></ruby><ruby>試験<rt
+    data-ruby-level="4">しけん</rt></ruby>を<ruby>使<rt data-ruby-level="3">つか</rt></ruby>うなど、<ruby>大学<rt
+    data-ruby-level="1">だいがく</rt></ruby>の<ruby>入試<rt data-ruby-level="4">にゅうし</rt></ruby><ruby>改革<rt
+    data-ruby-level="6">かいかく</rt></ruby>があることが<ruby>背景<rt data-ruby-level="6">はいけい</rt></ruby>にあると<ruby>分析<rt
+    data-ruby-level="7">ぶんせき</rt></ruby>しているそうです。<span class="pattern_1"><ruby>教育<rt
+    data-ruby-level="3">きょういく</rt></ruby>を<ruby>取<rt data-ruby-level="6">と</rt></ruby>り<ruby>巻<rt
+    data-ruby-level="6">ま</rt></ruby>く<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きな<ruby>変化<rt
+    data-ruby-level="4">へんか</rt></ruby>を<ruby>保護者<rt data-ruby-level="5">ほごしゃ</rt></ruby>が<ruby>不安<rt
+    data-ruby-level="4">ふあん</rt></ruby>に<ruby>思<rt data-ruby-level="2">おも</rt></ruby>い「<ruby>勉強<rt
+    data-ruby-level="3">べんきょう</rt></ruby>シフト！」が<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>まっている</span>との<ruby>見方<rt
+    data-ruby-level="2">みかた</rt></ruby>です。
+- title: <ruby>勉強<rt data-ruby-level="3">べんきょう</rt></ruby>シフトに<ruby>専門家<rt data-ruby-level="6">せんもんか</rt></ruby>は<ruby>警鐘<rt
+    data-ruby-level="7">けいしょう</rt></ruby>
+  text: <ruby>幼児<rt data-ruby-level="6">ようじ</rt></ruby><ruby>教育<rt data-ruby-level="3">きょういく</rt></ruby>について<ruby>研究<rt
+    data-ruby-level="3">けんきゅう</rt></ruby>している<ruby>東京大学<rt data-ruby-level="2">とうきょうだいがく</rt></ruby><ruby>大学院<rt
+    data-ruby-level="3">だいがくいん</rt></ruby><ruby>総合<rt data-ruby-level="5">そうごう</rt></ruby><ruby>文化<rt
+    data-ruby-level="3">ぶんか</rt></ruby><ruby>研究科<rt data-ruby-level="3">けんきゅうか</rt></ruby>の<ruby>開<rt
+    data-ruby-level="8">ひらき</rt></ruby><ruby>一夫<rt data-ruby-level="8">かずお</rt></ruby><ruby>教授<rt
+    data-ruby-level="5">きょうじゅ</rt></ruby>に<ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>の<ruby>結果<rt
+    data-ruby-level="4">けっか</rt></ruby>で<ruby>見<rt data-ruby-level="1">み</rt></ruby>えた<ruby>親<rt
+    data-ruby-level="2">おや</rt></ruby>の“<ruby>勉強<rt data-ruby-level="3">べんきょう</rt></ruby>シフト”について<ruby>尋<rt
+    data-ruby-level="7">たず</rt></ruby>ねてみると<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby>を<ruby>行<rt
+    data-ruby-level="2">い</rt></ruby>った<ruby>研究所<rt data-ruby-level="3">けんきゅうじょ</rt></ruby>とほぼ<ruby>同<rt
+    data-ruby-level="2">おな</rt></ruby>じような<ruby>感想<rt data-ruby-level="3">かんそう</rt></ruby>でした。<br
+    /><br /><span class="pattern_1">「２０２０<ruby>年度<rt data-ruby-level="3">ねんど</rt></ruby>の<ruby>大学<rt
+    data-ruby-level="1">だいがく</rt></ruby><ruby>入試<rt data-ruby-level="4">にゅうし</rt></ruby><ruby>改革<rt
+    data-ruby-level="6">かいかく</rt></ruby>では、<ruby>思考力<rt data-ruby-level="2">しこうりょく</rt></ruby>や<ruby>判断力<rt
+    data-ruby-level="5">はんだんりょく</rt></ruby>それに<ruby>表現力<rt data-ruby-level="5">ひょうげんりょく</rt></ruby>など、<ruby>学習塾<rt
+    data-ruby-level="7">がくしゅうじゅく</rt></ruby>だけでは<ruby>培<rt data-ruby-level="7">つちか</rt></ruby>うのが<ruby>難<rt
+    data-ruby-level="6">むずか</rt></ruby>しいであろう<ruby>分野<rt data-ruby-level="2">ぶんや</rt></ruby>が<ruby>入試<rt
+    data-ruby-level="4">にゅうし</rt></ruby>に<ruby>取<rt data-ruby-level="3">と</rt></ruby>り<ruby>入<rt
+    data-ruby-level="3">い</rt></ruby>れられる<ruby>方向<rt data-ruby-level="3">ほうこう</rt></ruby>で<ruby>議論<rt
+    data-ruby-level="6">ぎろん</rt></ruby>が<ruby>進<rt data-ruby-level="3">すす</rt></ruby>んでいます。それにもかかわらず<ruby>子<rt
+    data-ruby-level="1">こ</rt></ruby>どもたちにより<ruby>勉強<rt data-ruby-level="3">べんきょう</rt></ruby>をさせたいという<ruby>傾向<rt
+    data-ruby-level="7">けいこう</rt></ruby>がうかがえる<ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>の<ruby>結果<rt
+    data-ruby-level="4">けっか</rt></ruby>にはとても<ruby>驚<rt data-ruby-level="7">おどろ</rt></ruby>いています」</span><br
+    /><br />そのうえで<ruby>開<rt data-ruby-level="3">かい</rt></ruby><ruby>教授<rt data-ruby-level="5">きょうじゅ</rt></ruby>は<ruby>幼少期<rt
+    data-ruby-level="6">ようしょうき</rt></ruby>の<ruby>習<rt data-ruby-level="3">なら</rt></ruby>い<ruby>事<rt
+    data-ruby-level="3">ごと</rt></ruby>については<span class="pattern_1">「<ruby>塾<rt data-ruby-level="7">じゅく</rt></ruby>や<ruby>習<rt
+    data-ruby-level="3">なら</rt></ruby>い<ruby>事<rt data-ruby-level="3">ごと</rt></ruby>で<ruby>主<rt
+    data-ruby-level="3">おも</rt></ruby>に<ruby>身<rt data-ruby-level="3">み</rt></ruby>につくのは<ruby>計算<rt
+    data-ruby-level="2">けいさん</rt></ruby>が<ruby>早<rt data-ruby-level="1">はや</rt></ruby>くなる、<ruby>字<rt
+    data-ruby-level="1">じ</rt></ruby>が<ruby>上手<rt data-ruby-level="8">じょうず</rt></ruby>に<ruby>書<rt
+    data-ruby-level="2">か</rt></ruby>けるようになる、とび<ruby>箱<rt data-ruby-level="3">ばこ</rt></ruby>が<ruby>跳<rt
+    data-ruby-level="7">と</rt></ruby>べるようになるなど、<ruby>短期的<rt data-ruby-level="4">たんきてき</rt></ruby>で<ruby>目<rt
+    data-ruby-level="1">め</rt></ruby>に<ruby>見<rt data-ruby-level="1">み</rt></ruby>えてわかりやすい<ruby>事柄<rt
+    data-ruby-level="7">ことがら</rt></ruby>です。<ruby>長期的<rt data-ruby-level="4">ちょうきてき</rt></ruby>に<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>た<ruby>社会<rt data-ruby-level="2">しゃかい</rt></ruby>で<ruby>役立<rt
+    data-ruby-level="3">やくだ</rt></ruby>つ<ruby>能力<rt data-ruby-level="5">のうりょく</rt></ruby>が<ruby>必<rt
+    data-ruby-level="4">かなら</rt></ruby>ずしも<ruby>育<rt data-ruby-level="8">はぐく</rt></ruby>まれているわけではありません。<ruby>習<rt
+    data-ruby-level="3">なら</rt></ruby>い<ruby>事<rt data-ruby-level="3">ごと</rt></ruby>を<ruby>増<rt
+    data-ruby-level="5">ふ</rt></ruby>やすほどに、<ruby>友人<rt data-ruby-level="2">ゆうじん</rt></ruby>と<ruby>遊<rt
+    data-ruby-level="3">あそ</rt></ruby>ぶ<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>や<ruby>親<rt
+    data-ruby-level="2">おや</rt></ruby>と<ruby>食卓<rt data-ruby-level="7">しょくたく</rt></ruby>を<ruby>囲<rt
+    data-ruby-level="4">かこ</rt></ruby>みながらゆっくりと<ruby>話<rt data-ruby-level="2">はな</rt></ruby>す<ruby>時間<rt
+    data-ruby-level="2">じかん</rt></ruby>が<ruby>減<rt data-ruby-level="5">へ</rt></ruby>っていくことも<ruby>認識<rt
+    data-ruby-level="7">にんしき</rt></ruby>したうえでその<ruby>習<rt data-ruby-level="3">なら</rt></ruby>い<ruby>事<rt
+    data-ruby-level="3">ごと</rt></ruby>が<ruby>本当<rt data-ruby-level="2">ほんとう</rt></ruby>に<ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>か<ruby>判断<rt data-ruby-level="5">はんだん</rt></ruby>してほしいです」</span>と<ruby>提言<rt
+    data-ruby-level="5">ていげん</rt></ruby>しています。
+  image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/10/31/K10011204481_1710301931_1710301935_01_03.jpg
+- title: <ruby>費用<rt data-ruby-level="4">ひよう</rt></ruby>が<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きな<ruby>負担<rt
+    data-ruby-level="6">ふたん</rt></ruby>に
+  text: また、<ruby>家計<rt data-ruby-level="2">かけい</rt></ruby>の<ruby>面<rt data-ruby-level="3">めん</rt></ruby>からも<ruby>習<rt
+    data-ruby-level="3">なら</rt></ruby>い<ruby>事<rt data-ruby-level="3">ごと</rt></ruby>にかける<ruby>費用<rt
+    data-ruby-level="4">ひよう</rt></ruby>をバランスよく<ruby>考<rt data-ruby-level="2">かんが</rt></ruby>える<ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>があるとの<ruby>指摘<rt data-ruby-level="7">してき</rt></ruby>もあります。
+- text: ベネッセ<ruby>教育<rt data-ruby-level="3">きょういく</rt></ruby><ruby>総合<rt data-ruby-level="5">そうごう</rt></ruby><ruby>研究所<rt
+    data-ruby-level="3">けんきゅうじょ</rt></ruby>の<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby>では「<ruby>教育<rt
+    data-ruby-level="3">きょういく</rt></ruby>にお<ruby>金<rt data-ruby-level="1">かね</rt></ruby>がかかり<ruby>過<rt
+    data-ruby-level="5">す</rt></ruby>ぎると<ruby>思<rt data-ruby-level="2">おも</rt></ruby>う」かとの<ruby>質問<rt
+    data-ruby-level="5">しつもん</rt></ruby>に<ruby>対<rt data-ruby-level="3">たい</rt></ruby>して、「とてもそう<ruby>思<rt
+    data-ruby-level="2">おも</rt></ruby>う」「まあまあそう<ruby>思<rt data-ruby-level="2">おも</rt></ruby>う」の<ruby>回答<rt
+    data-ruby-level="2">かいとう</rt></ruby>の<ruby>合計<rt data-ruby-level="2">ごうけい</rt></ruby>は６７．２％に<ruby>上<rt
+    data-ruby-level="1">のぼ</rt></ruby>りました。
   textPos: bottom
-  image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/31/K10011204481_1710302117_1710302122_01_09.jpg
-- title: いちばんお金がかかるのは大学進学時をお忘れなく！
-  text: この結果をファイナンシャルプランナーの岩永真理さんに尋ねてみると、<span class="pattern_1">「子どもが１０歳ごろまでがお金の貯め時で、私立大学に行くことも想定して１８歳までに４００万円ぐらい用意しておくといいとアドバイスしていますが、幼いうちから習いごとをさせているためなかなかお金が貯まらないというケースも見られます」</span>と言います。岩永さんは<span
-    class="pattern_1">「子どものために教育費は削りがたいというご家庭が多いですが、給料が右肩上がりではないこの時代、大学に行く頃になってお金が足りずに子どもにとって借金ともいえる奨学金に頼ることになったり大学進学を諦めたりすることになっては本末転倒です。教育費も聖域ではなく時には習い事を辞めるという選択も必要ではないでしょうか」</span>と話していました。<br
-    /><br />子どもの将来のためには早くから学ばせたい、多少の無理をしても習わせたいと思う気持ちはどの親にもあると思います。ただ、わが子にとってどれがいい道なのか、そして家庭に負担になりすぎていないのか、ちょっと立ち止まって考えてみるのも必要なのではないかというのが、取材したママ記者３人の感想でした。
-  image_url: https://newswebeasy.github.io/ja201710/news/web/image/2017/10/31/K10011204481_1710301931_1710301935_01_04.jpg
+  image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/10/31/K10011204481_1710302117_1710302122_01_09.jpg
+- title: いちばんお<ruby>金<rt data-ruby-level="1">かね</rt></ruby>がかかるのは<ruby>大学<rt data-ruby-level="1">だいがく</rt></ruby><ruby>進学時<rt
+    data-ruby-level="3">しんがくじ</rt></ruby>をお<ruby>忘<rt data-ruby-level="6">わす</rt></ruby>れなく！
+  text: この<ruby>結果<rt data-ruby-level="4">けっか</rt></ruby>をファイナンシャルプランナーの<ruby>岩永<rt
+    data-ruby-level="5">いわなが</rt></ruby><ruby>真理<rt data-ruby-level="3">まり</rt></ruby>さんに<ruby>尋<rt
+    data-ruby-level="7">たず</rt></ruby>ねてみると、<span class="pattern_1">「<ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもが１０<ruby>歳<rt
+    data-ruby-level="7">さい</rt></ruby>ごろまでがお<ruby>金<rt data-ruby-level="1">かね</rt></ruby>の<ruby>貯<rt
+    data-ruby-level="8">た</rt></ruby>め<ruby>時<rt data-ruby-level="2">どき</rt></ruby>で、<ruby>私立<rt
+    data-ruby-level="6">しりつ</rt></ruby><ruby>大学<rt data-ruby-level="1">だいがく</rt></ruby>に<ruby>行<rt
+    data-ruby-level="2">い</rt></ruby>くことも<ruby>想定<rt data-ruby-level="3">そうてい</rt></ruby>して１８<ruby>歳<rt
+    data-ruby-level="7">さい</rt></ruby>までに４００<ruby>万<rt data-ruby-level="2">まん</rt></ruby><ruby>円<rt
+    data-ruby-level="1">えん</rt></ruby>ぐらい<ruby>用意<rt data-ruby-level="3">ようい</rt></ruby>しておくといいとアドバイスしていますが、<ruby>幼<rt
+    data-ruby-level="6">おさな</rt></ruby>いうちから<ruby>習<rt data-ruby-level="3">なら</rt></ruby>いごとをさせているためなかなかお<ruby>金<rt
+    data-ruby-level="1">かね</rt></ruby>が<ruby>貯<rt data-ruby-level="8">た</rt></ruby>まらないというケースも<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>られます」</span>と<ruby>言<rt data-ruby-level="2">い</rt></ruby>います。<ruby>岩永<rt
+    data-ruby-level="5">いわなが</rt></ruby>さんは<span class="pattern_1">「<ruby>子<rt data-ruby-level="1">こ</rt></ruby>どものために<ruby>教育費<rt
+    data-ruby-level="4">きょういくひ</rt></ruby>は<ruby>削<rt data-ruby-level="7">けず</rt></ruby>りがたいというご<ruby>家庭<rt
+    data-ruby-level="3">かてい</rt></ruby>が<ruby>多<rt data-ruby-level="2">おお</rt></ruby>いですが、<ruby>給料<rt
+    data-ruby-level="4">きゅうりょう</rt></ruby>が<ruby>右肩<rt data-ruby-level="7">みぎかた</rt></ruby><ruby>上<rt
+    data-ruby-level="1">あ</rt></ruby>がりではないこの<ruby>時代<rt data-ruby-level="3">じだい</rt></ruby>、<ruby>大学<rt
+    data-ruby-level="1">だいがく</rt></ruby>に<ruby>行<rt data-ruby-level="2">い</rt></ruby>く<ruby>頃<rt
+    data-ruby-level="7">ころ</rt></ruby>になってお<ruby>金<rt data-ruby-level="1">かね</rt></ruby>が<ruby>足<rt
+    data-ruby-level="1">た</rt></ruby>りずに<ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもにとって<ruby>借金<rt
+    data-ruby-level="4">しゃっきん</rt></ruby>ともいえる<ruby>奨学金<rt data-ruby-level="7">しょうがくきん</rt></ruby>に<ruby>頼<rt
+    data-ruby-level="7">たよ</rt></ruby>ることになったり<ruby>大学<rt data-ruby-level="1">だいがく</rt></ruby><ruby>進学<rt
+    data-ruby-level="3">しんがく</rt></ruby>を<ruby>諦<rt data-ruby-level="7">あきら</rt></ruby>めたりすることになっては<ruby>本末転倒<rt
+    data-ruby-level="7">ほんまつてんとう</rt></ruby>です。<ruby>教育費<rt data-ruby-level="4">きょういくひ</rt></ruby>も<ruby>聖域<rt
+    data-ruby-level="6">せいいき</rt></ruby>ではなく<ruby>時<rt data-ruby-level="2">とき</rt></ruby>には<ruby>習<rt
+    data-ruby-level="3">なら</rt></ruby>い<ruby>事<rt data-ruby-level="3">ごと</rt></ruby>を<ruby>辞<rt
+    data-ruby-level="7">や</rt></ruby>めるという<ruby>選択<rt data-ruby-level="7">せんたく</rt></ruby>も<ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>ではないでしょうか」</span>と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。<br
+    /><br /><ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもの<ruby>将来<rt data-ruby-level="6">しょうらい</rt></ruby>のためには<ruby>早<rt
+    data-ruby-level="1">はや</rt></ruby>くから<ruby>学<rt data-ruby-level="1">まな</rt></ruby>ばせたい、<ruby>多少<rt
+    data-ruby-level="2">たしょう</rt></ruby>の<ruby>無理<rt data-ruby-level="4">むり</rt></ruby>をしても<ruby>習<rt
+    data-ruby-level="3">なら</rt></ruby>わせたいと<ruby>思<rt data-ruby-level="2">おも</rt></ruby>う<ruby>気持<rt
+    data-ruby-level="3">きも</rt></ruby>ちはどの<ruby>親<rt data-ruby-level="2">おや</rt></ruby>にもあると<ruby>思<rt
+    data-ruby-level="2">おも</rt></ruby>います。ただ、わが<ruby>子<rt data-ruby-level="1">こ</rt></ruby>にとってどれがいい<ruby>道<rt
+    data-ruby-level="2">みち</rt></ruby>なのか、そして<ruby>家庭<rt data-ruby-level="3">かてい</rt></ruby>に<ruby>負担<rt
+    data-ruby-level="6">ふたん</rt></ruby>になりすぎていないのか、ちょっと<ruby>立<rt data-ruby-level="2">た</rt></ruby>ち<ruby>止<rt
+    data-ruby-level="2">ど</rt></ruby>まって<ruby>考<rt data-ruby-level="2">かんが</rt></ruby>えてみるのも<ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>なのではないかというのが、<ruby>取材<rt data-ruby-level="4">しゅざい</rt></ruby>したママ<ruby>記者<rt
+    data-ruby-level="3">きしゃ</rt></ruby>３<ruby>人<rt data-ruby-level="1">にん</rt></ruby>の<ruby>感想<rt
+    data-ruby-level="3">かんそう</rt></ruby>でした。
+  image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/10/31/K10011204481_1710301931_1710301935_01_04.jpg
 source_url: http://www3.nhk.or.jp/news/html/20171031/k10011204481000.html
 ...
