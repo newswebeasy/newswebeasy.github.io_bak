@@ -3,7 +3,7 @@ function setLevel(level) {
   label.innerHTML = level;
 
   for (var i = 1; i < 10; i++) {
-    var l = document.querySelectorAll('rt[data-level="' + i + '"]');
+    var l = document.querySelectorAll('[data-ruby-level="' + i + '"]');
     for (var j = 0; j < l.length; j++) {
       if (i < level) {
         l[j].classList.add('hidden');
