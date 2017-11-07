@@ -46,7 +46,7 @@ li.dict {
 .switch {
   position: relative;
   display: inline-block;
-  vertical-align: text-top;
+  vertical-align: text-bottom;
   width: 40px;
   height: 23px;
 }
