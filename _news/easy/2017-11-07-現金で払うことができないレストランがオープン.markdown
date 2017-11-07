@@ -1,0 +1,56 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011213571000
+last_modified_at: '2017-11-07T17:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>07<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: レストランの会社のロイヤルホールディングスは、現金で払うことができない店を東京都中央区にオープンしました。
+title: 現金で払うことができないレストランがオープン
+title_with_ruby: <ruby>現金<rt>げんきん</rt></ruby>で<ruby>払<rt>はら</rt></ruby>うことができないレストランがオープン
+outline: レストランの会社のロイヤルホールディングスは、現金で払うことができない店を東京都中央区にオープンしました。
+outline_with_ruby: レストランの<ruby>会社<rt>かいしゃ</rt></ruby>のロイヤルホールディングスは、<ruby>現金<rt>げんきん</rt></ruby>で<ruby>払<rt>はら</rt></ruby>うことができない<ruby>店<rt>みせ</rt></ruby>を<ruby>東京都<rt>とうきょうと</rt></ruby><ruby>中央区<rt>ちゅうおうく</rt></ruby>にオープンしました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/07/K10011213571_1711070440_1711070551_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/07/k10011213571000.mp3
+content_with_ruby: "<p>レストランの<ruby>会社<rt>かいしゃ</rt></ruby>のロイヤルホールディングスは、<span style=\"\
+  color: blue;\"><ruby>現金<rt>げんきん</rt></ruby></span>で<ruby>払<rt>はら</rt></ruby>うことができない<ruby>店<rt>みせ</rt></ruby>を<ruby>東京都<rt>とうきょうと</rt></ruby><ruby>中央区<rt>ちゅうおうく</rt></ruby>に<span\
+  \ style=\"color: blue;\">オープン</span>しました。</p>\n<p><ruby>客<rt>きゃく</rt></ruby>はテーブルの<ruby>上<rt>うえ</rt></ruby>にあるコンピューターで<ruby>料理<rt>りょうり</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>注文<rt>ちゅうもん</rt></ruby></span>します。お<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>うときはレジに<ruby>行<rt>い</rt></ruby>かないで、<span\
+  \ style=\"color: blue;\">クレジットカード</span>や<span style=\"color: blue;\">ＩＣ</span><span\
+  \ style=\"color: blue;\">カード</span>、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>払<rt>はら</rt></ruby>います。</p>\n\
+  <p><ruby>最近<rt>さいきん</rt></ruby>、レストランでは<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなっています。<ruby>店員<rt>てんいん</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>少<rt>すく</rt></ruby>なくできるため、<ruby>会社<rt>かいしゃ</rt></ruby>はこのような<ruby>店<rt>みせ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>増<rt>ふ</rt></ruby>やす</span>ことを<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 現金
+  descriptions:
+  - <ruby><rb>手</rb><rt>て</rt></ruby>もとにあるお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+  - <ruby><rb>小切手</rb><rt>こぎって</rt></ruby>などではなく、<ruby><rb>実際</rb><rt>じっさい</rt></ruby>のお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+  - その<ruby><rb>場</rb><rt>ば</rt></ruby>の<ruby><rb>損得</rb><rt>そんとく</rt></ruby>で、<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>変</rb><rt>か</rt></ruby>えるようす。
+- word: オープン
+  descriptions:
+  - <ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。
+  - かくしだてをしないようす。
+  - おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。
+- word: 注文
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>らせたり、<ruby><rb>届</rb><rt>とど</rt></ruby>けさせたりすること。
+  - <ruby><rb>希望</rb><rt>きぼう</rt></ruby>や<ruby><rb>条件</rb><rt>じょうけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: クレジットカード
+  descriptions:
+  - <ruby><rb>現金</rb><rt>げんきん</rt></ruby>を<ruby><rb>払</rb><rt>はら</rt></ruby>わなくても、<ruby><rb>後払</rb><rt>あとばら</rt></ruby>いで<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>物</rb><rt>もの</rt></ruby>をすることができるカード。
+- word: IC
+  descriptions:
+  - さまざまな<ruby><rb>部品</rb><rt>ぶひん</rt></ruby>から<ruby><rb>配線</rb><rt>はいせん</rt></ruby>までを<ruby><rb>一</rb><rt>ひと</rt></ruby>つに<ruby><rb>組</rb><rt>く</rt></ruby>みこんで、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さいところにたくさんの<ruby><rb>回路</rb><rt>かいろ</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。<ruby><rb>小型</rb><rt>こがた</rt></ruby>で<ruby><rb>軽</rb><rt>かる</rt></ruby>く、<ruby><rb>計算機</rb><rt>けいさんき</rt></ruby>やコンピューターなどに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。<ruby><rb>集積回路</rb><rt>しゅうせきかいろ</rt></ruby>。
+- word: カード
+  descriptions:
+  - <ruby><rb>紙</rb><rt>かみ</rt></ruby>を、<ruby><rb>四角</rb><rt>しかく</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さく<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。<ruby><rb>記入</rb><rt>きにゅう</rt></ruby>したり、<ruby><rb>整理</rb><rt>せいり</rt></ruby>するときなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+  - 「クレジットカード」「キャッシュカード」などの<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - トランプ（の<ruby><rb>札</rb><rt>ふだ</rt></ruby>）。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>などの、<ruby><rb>試合</rb><rt>しあい</rt></ruby>の<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011213571000/k10011213571000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/07/現金が使えない店-都内に試験的にオープン
+...
