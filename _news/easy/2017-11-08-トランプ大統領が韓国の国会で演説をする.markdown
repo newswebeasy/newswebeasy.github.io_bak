@@ -1,0 +1,54 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011215341000
+last_modified_at: '2017-11-08T17:40:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>08<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ふん</rt></ruby>
+description: アジアの国をまわっているアメリカのトランプ大統領は７日、日本を出発したあと韓国に着きました。
+title: トランプ大統領が韓国の国会で演説をする
+title_with_ruby: トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>が<ruby>韓国<rt>かんこく</rt></ruby>の<ruby>国会<rt>こっかい</rt></ruby>で<ruby>演説<rt>えんぜつ</rt></ruby>をする
+outline: アジアの国をまわっているアメリカのトランプ大統領は７日、日本を出発したあと韓国に着きました。
+outline_with_ruby: アジアの<ruby>国<rt>くに</rt></ruby>をまわっているアメリカのトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>は<ruby>７日<rt>なのか</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>を<ruby>出発<rt>しゅっぱつ</rt></ruby>したあと<ruby>韓国<rt>かんこく</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/08/K10011215341_1711081145_1711081145_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/08/k10011215341000.mp3
+content_with_ruby: "<p>アジアの<ruby>国<rt>くに</rt></ruby>をまわっているアメリカのトランプ<span style=\"\
+  color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は<ruby>７日<rt>なのか</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>を<ruby>出発<rt>しゅっぱつ</rt></ruby>したあと<ruby>韓国<rt>かんこく</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。そして、<ruby>韓国<rt>かんこく</rt></ruby>のムン・ジェイン<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>と<ruby>会<rt>あ</rt></ruby>って、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>などについて<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p>トランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は<ruby>８日<rt>ようか</rt></ruby>、<ruby>韓国<rt>かんこく</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>国会<rt>こっかい</rt></ruby></span>で<span style=\"color:\
+  \ blue;\"><ruby>演説<rt>えんぜつ</rt></ruby></span>をして、<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>は<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>核兵器<rt>かくへいき</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>つことを<span\
+  \ style=\"color: blue;\"><ruby>許<rt>ゆる</rt></ruby>す</span>ことはできないと<ruby>言<rt>い</rt></ruby>いました。そして、「アメリカは<ruby>強<rt>つよ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>っている。<ruby>私<rt>わたし</rt></ruby>たちの<ruby>力<rt>ちから</rt></ruby>が<ruby>弱<rt>よわ</rt></ruby>いと<ruby>思<rt>おも</rt></ruby>ってはいけない」と<ruby>言<rt>い</rt></ruby>って、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>警告<rt>けいこく</rt></ruby></span>しました。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 国会
+  descriptions:
+  - <ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>のやり<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>相談</rb><rt>そうだん</rt></ruby>して<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>。<ruby><rb>衆議院</rb><rt>しゅうぎいん</rt></ruby>と<ruby><rb>参議院</rb><rt>さんぎいん</rt></ruby>とがある。
+- word: 演説
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>で、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>意見</rb><rt>いけん</rt></ruby>や<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>述</rb><rt>の</rt></ruby>べること。
+- word: 核兵器
+  descriptions:
+  - <ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。
+- word: 許す
+  descriptions:
+  - とがめないで<ruby><rb>済</rb><rt>す</rt></ruby>ませる。
+  - してもよいと<ruby><rb>認</rb><rt>みと</rt></ruby>める。
+  - <ruby><rb>聞</rb><rt>き</rt></ruby>き<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>入</rb><rt>い</rt></ruby>れる。
+  - <ruby><rb>気</rb><rt>き</rt></ruby>をゆるめる。<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>解</rb><rt>と</rt></ruby>ける。
+- word: 軍
+  descriptions:
+  - <ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。
+- word: 警告
+  descriptions:
+  - <ruby><rb>前</rb><rt>まえ</rt></ruby>もって<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>すること。また、その<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011215341000/k10011215341000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/08/トランプ大統領-最大限の圧力各国に呼びかけ
+...
