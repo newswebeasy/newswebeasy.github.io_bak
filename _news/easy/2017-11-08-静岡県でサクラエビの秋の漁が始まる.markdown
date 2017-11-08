@@ -1,0 +1,75 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011212411000
+last_modified_at: '2017-11-08T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>08<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 静岡県の駿河湾でとれるサクラエビは、体の長さが４ｃｍぐらいの小さいえびで、桜のようなピンク色をしています。
+title: 静岡県でサクラエビの秋の漁が始まる
+title_with_ruby: <ruby>静岡県<rt>しずおかけん</rt></ruby>でサクラエビの<ruby>秋<rt>あき</rt></ruby>の<ruby>漁<rt>りょう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+outline: 静岡県の駿河湾でとれるサクラエビは、体の長さが４ｃｍぐらいの小さいえびで、桜のようなピンク色をしています。
+outline_with_ruby: <ruby>静岡県<rt>しずおかけん</rt></ruby>の<ruby>駿河湾<rt>するがわん</rt></ruby>でとれるサクラエビは、<ruby>体<rt>からだ</rt></ruby>の<ruby>長<rt>なが</rt></ruby>さが４ｃｍぐらいの<ruby>小<rt>ちい</rt></ruby>さいえびで、<ruby>桜<rt>さくら</rt></ruby>のようなピンク<ruby>色<rt>いろ</rt></ruby>をしています。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/06/K10011212411_1711061728_1711061728_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/08/k10011212411000.mp3
+content_with_ruby: "<p><ruby>静岡県<rt>しずおかけん</rt></ruby>の<ruby>駿河湾<rt>するがわん</rt></ruby>で<span\
+  \ style=\"color: blue;\">とれる</span>サクラエビは、<ruby>体<rt>からだ</rt></ruby>の<ruby>長<rt>なが</rt></ruby>さが４ｃｍぐらいの<ruby>小<rt>ちい</rt></ruby>さい<span\
+  \ style=\"color: blue;\">えび</span>で、<span style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>のような<span\
+  \ style=\"color: blue;\">ピンク</span><ruby>色<rt>いろ</rt></ruby>をしています。サクラエビの<span style=\"\
+  color: blue;\"><ruby>漁<rt>りょう</rt></ruby></span>は、<ruby>卵<rt>たまご</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>産<rt>う</rt></ruby>む</span><ruby>季節<rt>きせつ</rt></ruby><ruby>以外<rt>いがい</rt></ruby>の<ruby>春<rt>はる</rt></ruby>と<ruby>秋<rt>あき</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>います。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>の<span style=\"color: blue;\"\
+  ><ruby>漁<rt>りょう</rt></ruby></span>が１１<ruby>月<rt>がつ</rt></ruby><ruby>５日<rt>いつか</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>先月<rt>せんげつ</rt></ruby>、<ruby>台風<rt>たいふう</rt></ruby>が<ruby>来<rt>き</rt></ruby>て<span\
+  \ style=\"color: blue;\"><ruby>波<rt>なみ</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いていたため、<ruby>予定<rt>よてい</rt></ruby>より<ruby>１０日<rt>とおか</rt></ruby><ruby>遅<rt>おく</rt></ruby>れました。<ruby>５日<rt>いつか</rt></ruby>に<span\
+  \ style=\"color: blue;\">とれ</span>たサクラエビは<ruby>全部<rt>ぜんぶ</rt></ruby>で<span style=\"\
+  color: blue;\"><ruby>約<rt>やく</rt></ruby></span>８<span style=\"color: blue;\">ｔ</span>で、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>半分<rt>はんぶん</rt></ruby>ぐらいでした。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>漁<rt>りょう</rt></ruby></span>をする<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>は、まだ<span style=\"color:\
+  \ blue;\"><ruby>漁<rt>りょう</rt></ruby></span>に<ruby>出<rt>で</rt></ruby>ることができない<ruby>人<rt>ひと</rt></ruby>がいるので、これからもっと<ruby>増<rt>ふ</rt></ruby>えてほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 漁
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>などをとること。
+- word: 捕れる
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+  - とることができる。
+- word: 海老・
+  descriptions:
+  - <ruby><rb>海</rb><rt>うみ</rt></ruby>や<ruby><rb>川</rb><rt>かわ</rt></ruby>などにすみ、<ruby><rb>体</rb><rt>からだ</rt></ruby>が、<ruby><rb>節</rb><rt>ふし</rt></ruby>のあるかたいからに<ruby><rb>包</rb><rt>つつ</rt></ruby>まれた<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>の<ruby><rb>足</rb><rt>あし</rt></ruby>と、<ruby><rb>２本</rb><rt>にほん</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>いひげがある。
+- word: 桜
+  descriptions:
+  - <ruby><rb>山地</rb><rt>さんち</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>え、<ruby><rb>公園</rb><rt>こうえん</rt></ruby>や<ruby><rb>庭</rb><rt>にわ</rt></ruby>にも<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>木</rb><rt>き</rt></ruby>。ソメイヨシノ・シダレザクラ・ヤマザクラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>春</rb><rt>はる</rt></ruby>、うすもも<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>美</rb><rt>うつく</rt></ruby>しい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の「<ruby><rb>国花</rb><rt>こっか</rt></ruby>」とされる。
+- word: ピンク
+  descriptions:
+  - もも<ruby><rb>色</rb><rt>いろ</rt></ruby>。うすい<ruby><rb>赤色</rb><rt>あかいろ</rt></ruby>。
+- word: 産む
+  descriptions:
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+- word: 波
+  descriptions:
+  - <ruby><rb>海</rb><rt>うみ</rt></ruby>などの<ruby><rb>水面</rb><rt>すいめん</rt></ruby>が、<ruby><rb>高</rb><rt>たか</rt></ruby>くなったり<ruby><rb>低</rb><rt>ひく</rt></ruby>くなったりすること。また、<ruby><rb>水面</rb><rt>すいめん</rt></ruby>が<ruby><rb>高</rb><rt>たか</rt></ruby>く<ruby><rb>盛</rb><rt>も</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>がっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+  - ものごとの<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>が、<ruby><rb>上</rb><rt>あ</rt></ruby>がったり<ruby><rb>下</rb><rt>さ</rt></ruby>がったり、また、よくなったり<ruby><rb>悪</rb><rt>わる</rt></ruby>くなったりすること。
+  - つぎつぎとおし<ruby><rb>寄</rb><rt>よ</rt></ruby>せるものをたとえていうことば。
+- word: 捕れる
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+  - とることができる。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: トン
+  descriptions:
+  - メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。１トンは、１０００キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+  - <ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+source_url: http://www3.nhk.or.jp/news/easy/k10011212411000/k10011212411000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/06/駿河湾特産のサクラエビ-秋の漁が解禁
+...

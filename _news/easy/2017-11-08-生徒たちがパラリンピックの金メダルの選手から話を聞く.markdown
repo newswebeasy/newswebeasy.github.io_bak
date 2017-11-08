@@ -1,0 +1,63 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011212841000
+last_modified_at: '2017-11-08T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>08<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 東京都足立区の花畑中学校で６日、生徒たちがパラリンピックで金メダルを取った選手から話を聞きました。
+title: 生徒たちがパラリンピックの金メダルの選手から話を聞く
+title_with_ruby: <ruby>生徒<rt>せいと</rt></ruby>たちがパラリンピックの<ruby>金<rt>きん</rt></ruby>メダルの<ruby>選手<rt>せんしゅ</rt></ruby>から<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>く
+outline: 東京都足立区の花畑中学校で６日、生徒たちがパラリンピックで金メダルを取った選手から話を聞きました。
+outline_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby><ruby>足立区<rt>あだちく</rt></ruby>の<ruby>花畑中学校<rt>はなはたちゅうがっこう</rt></ruby>で<ruby>６日<rt>むいか</rt></ruby>、<ruby>生徒<rt>せいと</rt></ruby>たちがパラリンピックで<ruby>金<rt>きん</rt></ruby>メダルを<ruby>取<rt>と</rt></ruby>った<ruby>選手<rt>せんしゅ</rt></ruby>から<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/06/K10011212841_1711061624_1711061626_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/08/k10011212841000.mp3
+content_with_ruby: "<p><ruby>東京都<rt>とうきょうと</rt></ruby><ruby>足立区<rt>あだちく</rt></ruby>の<ruby>花畑中学校<rt>はなはたちゅうがっこう</rt></ruby>で<ruby>６日<rt>むいか</rt></ruby>、<ruby>生徒<rt>せいと</rt></ruby>たちが<span\
+  \ style=\"color: blue;\">パラリンピック</span>で<span style=\"color: blue;\"><ruby>金<rt>きん</rt></ruby></span><span\
+  \ style=\"color: blue;\">メダル</span>を<ruby>取<rt>と</rt></ruby>った<span style=\"color:\
+  \ blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>から<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きました。<ruby>生徒<rt>せいと</rt></ruby>たちに、とても<span\
+  \ style=\"color: blue;\">つらい</span>ことがあっても<ruby>負<rt>ま</rt></ruby>けない<ruby>気持<rt>きも</rt></ruby>ちが<ruby>大切<rt>たいせつ</rt></ruby>だと<ruby>知<rt>し</rt></ruby>ってもらうためです。</p>\n\
+  <p><ruby>話<rt>はなし</rt></ruby>をした<ruby>人<rt>ひと</rt></ruby>は、<span style=\"color:\
+  \ blue;\">パラリンピック</span>の<span style=\"color: blue;\"><ruby>卓球<rt>たっきゅう</rt></ruby></span>で２<ruby>回<rt>かい</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>金<rt>きん</rt></ruby></span><span style=\"color: blue;\"\
+  >メダル</span>を<ruby>取<rt>と</rt></ruby>ったオランダのケリー・ファン・ゾン<span style=\"color: blue;\"\
+  ><ruby>選手<rt>せんしゅ</rt></ruby></span>です。ゾン<span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は「<ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どもの<ruby>頃<rt>ころ</rt></ruby>から<ruby>足<rt>あし</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>がありました。でも、<span style=\"\
+  color: blue;\"><ruby>諦<rt>あきら</rt></ruby>め</span>ないで１<ruby>日<rt>にち</rt></ruby>５<ruby>時間<rt>じかん</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けました」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p>３<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>生徒<rt>せいと</rt></ruby>は「<ruby>来年<rt>らいねん</rt></ruby>は<ruby>高校<rt>こうこう</rt></ruby>の<ruby>入学<rt>にゅうがく</rt></ruby><ruby>試験<rt>しけん</rt></ruby>があります。<ruby>私<rt>わたし</rt></ruby>も<ruby>頑張<rt>がんば</rt></ruby>りたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: 金
+  descriptions:
+  - <ruby><rb>黄色</rb><rt>きいろ</rt></ruby>いつやのある、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。こがね。
+  - こがね<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+  - おかね。
+  - 「<span class="dic_sansyogogi">1)</span>」のように、だいじな。りっぱな。
+  - かなもの。
+  - <ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>金曜日</rb><rt>きんようび</rt></ruby>。
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: つらい
+  descriptions:
+  - （<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが）がまんできないほど<ruby><rb>苦</rb><rt>くる</rt></ruby>しい。
+- word: 卓球
+  descriptions:
+  - <ruby><rb>台</rb><rt>だい</rt></ruby>の<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>からラケットで<ruby><rb>球</rb><rt>たま</rt></ruby>を<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ピンポン。
+- word: 障害
+  descriptions:
+  - <ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。
+- word: 諦める
+  descriptions:
+  - もうだめだと<ruby><rb>思</rb><rt>おも</rt></ruby>って、やめる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011212841000/k10011212841000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/06/困難に負けない気持ち-パラリンピック金メダリストに聞く
+...
