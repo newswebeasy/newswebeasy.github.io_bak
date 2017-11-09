@@ -1,0 +1,40 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011214121000
+last_modified_at: '2017-11-09T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>09<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 宇宙飛行士の野口聡一さんが、２０１９年の終わりごろから６か月、国際宇宙ステーションへ行くことになりました。
+title: 宇宙飛行士の野口聡一さん　２０１９年に３回目の宇宙
+title_with_ruby: <ruby>宇宙飛行士<rt>うちゅうひこうし</rt></ruby>の<ruby>野口聡一<rt>のぐちそういち</rt></ruby>さん　２０１９<ruby>年<rt>ねん</rt></ruby>に３<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>の<ruby>宇宙<rt>うちゅう</rt></ruby>
+outline: 宇宙飛行士の野口聡一さんが、２０１９年の終わりごろから６か月、国際宇宙ステーションへ行くことになりました。
+outline_with_ruby: <ruby>宇宙飛行士<rt>うちゅうひこうし</rt></ruby>の<ruby>野口聡一<rt>のぐちそういち</rt></ruby>さんが、２０１９<ruby>年<rt>ねん</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろから６か<ruby>月<rt>げつ</rt></ruby>、<ruby>国際<rt>こくさい</rt></ruby><ruby>宇宙<rt>うちゅう</rt></ruby>ステーションへ<ruby>行<rt>い</rt></ruby>くことになりました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/07/K10011214121_1711071510_1711071510_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/09/k10011214121000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>宇宙飛行士<rt>うちゅうひこうし</rt></ruby></span>の<ruby>野口聡一<rt>のぐちそういち</rt></ruby>さんが、２０１９<ruby>年<rt>ねん</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろから６か<ruby>月<rt>げつ</rt></ruby>、<ruby>国際<rt>こくさい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby>ステーション</span>へ<ruby>行<rt>い</rt></ruby>くことになりました。<ruby>日本<rt>にっぽん</rt></ruby>のＪＡＸＡによると、<ruby>野口<rt>のぐち</rt></ruby>さんはロシアかアメリカの<span\
+  \ style=\"color: blue;\"><ruby>宇宙船<rt>うちゅうせん</rt></ruby></span>で<ruby>行<rt>い</rt></ruby>きます。</p>\n\
+  <p><ruby>野口<rt>のぐち</rt></ruby>さんは<ruby>今<rt>いま</rt></ruby>５２<ruby>歳<rt>さい</rt></ruby>です。２００５<ruby>年<rt>ねん</rt></ruby>に<ruby>初<rt>はじ</rt></ruby>めて<span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>へ<ruby>行<rt>い</rt></ruby>って、<ruby>国際<rt>こくさい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby>ステーション</span>をつくる<ruby>仕事<rt>しごと</rt></ruby>をしました。２００９<ruby>年<rt>ねん</rt></ruby>には５か<ruby>月<rt>げつ</rt></ruby>ぐらい<ruby>国際<rt>こくさい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby>ステーション</span>へ<ruby>行<rt>い</rt></ruby>っていました。<ruby>野口<rt>のぐち</rt></ruby>さんが<span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>へ<ruby>行<rt>い</rt></ruby>くのは、<ruby>次<rt>つぎ</rt></ruby>が３<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>になります。</p>\n\
+  <p><ruby>野口<rt>のぐち</rt></ruby>さんは「<ruby>今<rt>いま</rt></ruby>までの<ruby>経験<rt>けいけん</rt></ruby>を<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>てて<ruby>仕事<rt>しごと</rt></ruby>をしたいです」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 宇宙飛行士
+  descriptions:
+  - <ruby><rb>宇宙船</rb><rt>うちゅうせん</rt></ruby>や<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>ステーションの<ruby><rb>乗組員</rb><rt>のりくみいん</rt></ruby>。
+- word: 宇宙
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。
+- word: 宇宙ステーション
+  descriptions:
+  - スペースシャトルなどで<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby><ruby><rb>旅行</rb><rt>りょこう</rt></ruby>や、<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>での<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>の<ruby><rb>基地</rb><rt>きち</rt></ruby>として、その<ruby><rb>中</rb><rt>なか</rt></ruby>でたくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>続</rb><rt>つづ</rt></ruby>けられる<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>人工衛星</rb><rt>じんこうえいせい</rt></ruby>。
+- word: 宇宙船
+  descriptions:
+  - <ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>飛行</rb><rt>ひこう</rt></ruby>するための<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011214121000/k10011214121000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/07/野口聡一さん-2年後に3回目の宇宙飛行へ
+...

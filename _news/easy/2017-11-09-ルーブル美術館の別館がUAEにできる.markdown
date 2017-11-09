@@ -1,0 +1,42 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011214441000
+last_modified_at: '2017-11-09T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>09<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ＵＡＥ（アラブ首長国連邦）に「ルーブル・アブダビ」という名前の美術館ができました。
+title: ルーブル美術館の別館がＵＡＥにできる
+title_with_ruby: ルーブル<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>別館<rt>べっかん</rt></ruby>がＵＡＥにできる
+outline: ＵＡＥ（アラブ首長国連邦）に「ルーブル・アブダビ」という名前の美術館ができました。
+outline_with_ruby: ＵＡＥ（アラブ<ruby>首長国連邦<rt>しゅちょうこくれんぽう</rt></ruby>）に「ルーブル・アブダビ」という<ruby>名前<rt>なまえ</rt></ruby>の<ruby>美術館<rt>びじゅつかん</rt></ruby>ができました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/07/K10011214441_1711071642_1711071643_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/09/k10011214441000.mp3
+content_with_ruby: "<p>ＵＡＥ（アラブ<ruby>首長国連邦<rt>しゅちょうこくれんぽう</rt></ruby>）に「ルーブル・アブダビ」という<ruby>名前<rt>なまえ</rt></ruby>の<ruby>美術館<rt>びじゅつかん</rt></ruby>ができました。フランスの<ruby>有名<rt>ゆうめい</rt></ruby>なルーブル<ruby>美術館<rt>びじゅつかん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>別館<rt>べっかん</rt></ruby></span>で、フランス<ruby>以外<rt>いがい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>にできたのは<ruby>初<rt>はじ</rt></ruby>めてです。ＵＡＥとフランスが<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>してつくりました。</p>\n<p>「ルーブル・アブダビ」は、フランスの<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>美術館<rt>びじゅつかん</rt></ruby>から<ruby>絵<rt>え</rt></ruby>などを<ruby>借<rt>か</rt></ruby>りることになっています。１１<ruby>日<rt>にち</rt></ruby>に<span\
+  \ style=\"color: blue;\">オープン</span>して、レオナルド・ダビンチやゴッホがかいた<ruby>絵<rt>え</rt></ruby>などをみんなに<ruby>見<rt>み</rt></ruby>せます。</p>\n\
+  <p>ＵＡＥは<span style=\"color: blue;\"><ruby>原油<rt>げんゆ</rt></ruby></span>の<ruby>輸出<rt>ゆしゅつ</rt></ruby>だけではなくて、<span\
+  \ style=\"color: blue;\"><ruby>観光<rt>かんこう</rt></ruby></span>や<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>盛<rt>さか</rt></ruby>んにしたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 別館
+  descriptions:
+  - <ruby><rb>本館</rb><rt>ほんかん</rt></ruby>のほかに、<ruby><rb>別</rb><rt>べつ</rt></ruby>に<ruby><rb>建</rb><rt>た</rt></ruby>てた<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+- word: オープン
+  descriptions:
+  - <ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。
+  - かくしだてをしないようす。
+  - おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。
+- word: 原油
+  descriptions:
+  - <ruby><rb>地下</rb><rt>ちか</rt></ruby>からくみ<ruby><rb>上</rb><rt>あ</rt></ruby>げたままで、まだ<ruby><rb>精製</rb><rt>せいせい</rt></ruby>していない<ruby><rb>石油</rb><rt>せきゆ</rt></ruby>。
+- word: 観光
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011214441000/k10011214441000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/07/ルーブル美術館初の海外別館-ルーブルアブダビが完成
+...
