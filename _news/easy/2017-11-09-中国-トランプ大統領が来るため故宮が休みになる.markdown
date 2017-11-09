@@ -1,0 +1,58 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011215921000
+last_modified_at: '2017-11-09T17:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>09<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: アジアの国をまわっているアメリカのトランプ大統領は８日、韓国から中国に着きました。
+title: 中国　トランプ大統領が来るため「故宮」が休みになる
+title_with_ruby: <ruby>中国<rt>ちゅうごく</rt></ruby>　トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>が<ruby>来<rt>く</rt></ruby>るため「<ruby>故宮<rt>こきゅう</rt></ruby>」が<ruby>休<rt>やす</rt></ruby>みになる
+outline: アジアの国をまわっているアメリカのトランプ大統領は８日、韓国から中国に着きました。
+outline_with_ruby: アジアの<ruby>国<rt>くに</rt></ruby>をまわっているアメリカのトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>は<ruby>８日<rt>ようか</rt></ruby>、<ruby>韓国<rt>かんこく</rt></ruby>から<ruby>中国<rt>ちゅうごく</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。
+image_url: https://newswebeasy.github.io/ja201711/news/easy/image/2017/11/09/k10011215921000.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/09/k10011215921000.mp3
+content_with_ruby: "<p>アジアの<ruby>国<rt>くに</rt></ruby>をまわっているアメリカのトランプ<span style=\"\
+  color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は<ruby>８日<rt>ようか</rt></ruby>、<ruby>韓国<rt>かんこく</rt></ruby>から<ruby>中国<rt>ちゅうごく</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>習<rt>しゅう</rt></ruby><ruby>近平<rt>きんぺい</rt></ruby><ruby>国家主席<rt>こっかしゅせき</rt></ruby>はトランプ<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>を<ruby>北京<rt>ぺきん</rt></ruby>にある<span\
+  \ style=\"color: blue;\"><ruby>世界遺産<rt>せかいいさん</rt></ruby></span>の「<ruby>故宮<rt>こきゅう</rt></ruby>」に<ruby>案内<rt>あんない</rt></ruby>しました。<ruby>故宮<rt>こきゅう</rt></ruby>は<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>昔<rt>むかし</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>皇帝<rt>こうてい</rt></ruby></span>が<ruby>住<rt>す</rt></ruby>んでいた<ruby>場所<rt>ばしょ</rt></ruby>で、<ruby>今<rt>いま</rt></ruby>は<ruby>有名<rt>ゆうめい</rt></ruby>な<span\
+  \ style=\"color: blue;\"><ruby>観光地<rt>かんこうち</rt></ruby></span>になっています。</p>\n<p><ruby>８日<rt>ようか</rt></ruby>はトランプ<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>が<ruby>来<rt>く</rt></ruby>るため、<ruby>故宮<rt>こきゅう</rt></ruby>が<ruby>休<rt>やす</rt></ruby>みになりました。しかし、<ruby>休<rt>やす</rt></ruby>みになったことを<ruby>知<rt>し</rt></ruby>らないで<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちが<ruby>入<rt>い</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>集<rt>あつ</rt></ruby>まっていました。<ruby>中国<rt>ちゅうごく</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>東北<rt>とうほく</rt></ruby></span>の<ruby>町<rt>まち</rt></ruby>から<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>残念<rt>ざんねん</rt></ruby>ですが、<span\
+  \ style=\"color: blue;\">しかたがない</span>です。またあした<ruby>来<rt>き</rt></ruby>ます」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>北京<rt>ぺきん</rt></ruby>では、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>警官<rt>けいかん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>警備<rt>けいび</rt></ruby></span>をしています。トランプ<span style=\"\
+  color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>が<ruby>泊<rt>と</rt></ruby>まっているホテルの<ruby>周<rt>まわ</rt></ruby>りには、<ruby>高<rt>たか</rt></ruby>さ２ｍ<ruby>以上<rt>いじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>柵<rt>さく</rt></ruby></span>ができました。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 世界遺産
+  descriptions:
+  - ユネスコの「<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby><ruby><rb>及</rb><rt>およ</rt></ruby>び<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>の<ruby><rb>保護</rb><rt>ほご</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>条約</rb><rt>じょうやく</rt></ruby>」（「<ruby><rb>世界遺産保護条約</rb><rt>せかいいさんほごじょうやく</rt></ruby>」）にもとづいて<ruby><rb>決</rb><rt>き</rt></ruby>められた、<ruby><rb>世界的</rb><rt>せかいてき</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>す<ruby><rb>価値</rb><rt>かち</rt></ruby>があると<ruby><rb>認</rb><rt>みと</rt></ruby>められた<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>や<ruby><rb>自然</rb><rt>しぜん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby>として<ruby><rb>姫路城</rb><rt>ひめじじょう</rt></ruby>や<ruby><rb>法隆寺</rb><rt>ほうりゅうじ</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の<ruby><rb>首里城</rb><rt>しゅりじょう</rt></ruby>など、<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>として<ruby><rb>屋久島</rb><rt>やくしま</rt></ruby>や<ruby><rb>白神山地</rb><rt>しらかみさんち</rt></ruby>などが<ruby><rb>指定</rb><rt>してい</rt></ruby>されている。
+- word: 皇帝
+  descriptions:
+  - <ruby><rb>君主</rb><rt>くんしゅ</rt></ruby>。<ruby><rb>王</rb><rt>おう</rt></ruby>。
+- word: 観光地
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>が<ruby><rb>美</rb><rt>うつく</rt></ruby>しかったり、<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>があったりして、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 北東
+  descriptions:
+  - <ruby><rb>北</rb><rt>きた</rt></ruby>と<ruby><rb>東</rb><rt>ひがし</rt></ruby>の<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>。<ruby><rb>東北</rb><rt>とうほく</rt></ruby>。
+- word: 仕方がない
+  descriptions:
+  - ほかによい<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>がない。
+  - よくない。しようがない。
+  - たまらない。
+- word: 警備
+  descriptions:
+  - <ruby><rb>悪</rb><rt>わる</rt></ruby>いことが<ruby><rb>起</rb><rt>お</rt></ruby>こらないように、<ruby><rb>気</rb><rt>き</rt></ruby>をつけて<ruby><rb>守</rb><rt>まも</rt></ruby>ること。
+- word: 柵
+  descriptions:
+  - <ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>竹</rb><rt>たけ</rt></ruby>などを<ruby><rb>立</rb><rt>た</rt></ruby>て、<ruby><rb>横木</rb><rt>よこぎ</rt></ruby>を<ruby><rb>打</rb><rt>う</rt></ruby>ちつけて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>囲</rb><rt>かこ</rt></ruby>い。
+source_url: http://www3.nhk.or.jp/news/easy/k10011215921000/k10011215921000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/08/故宮は臨時閉館-北京は厳重警備
+...

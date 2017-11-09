@@ -1,0 +1,45 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011215541000
+last_modified_at: '2017-11-09T17:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>09<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 「かずのこ」はニシンという魚の卵です。
+title: 北海道の函館　正月に食べる「かずのこ」をたくさん作る
+title_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>函館<rt>はこだて</rt></ruby>　<ruby>正月<rt>しょうがつ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べる「かずのこ」をたくさん<ruby>作<rt>つく</rt></ruby>る
+outline: 「かずのこ」はニシンという魚の卵です。
+outline_with_ruby: 「かずのこ」はニシンという<ruby>魚<rt>さかな</rt></ruby>の<ruby>卵<rt>たまご</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/08/K10011215541_1711081255_1711081306_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/09/k10011215541000.mp3
+content_with_ruby: "<p>「かずのこ」はニシンという<ruby>魚<rt>さかな</rt></ruby>の<ruby>卵<rt>たまご</rt></ruby>です。<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>正月<rt>しょうがつ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べる「<span\
+  \ style=\"color: blue;\">おせち<ruby>料理<rt>りょうり</rt></ruby></span>」などにかずのこを<ruby>使<rt>つか</rt></ruby>います。</p>\n\
+  <p><ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>函館市<rt>はこだてし</rt></ruby>にある<ruby>工場<rt>こうじょう</rt></ruby>では<ruby>今<rt>いま</rt></ruby>、かずのこをたくさん<ruby>作<rt>つく</rt></ruby>っています。かずのこは、ニシンの<ruby>卵<rt>たまご</rt></ruby>を<ruby>塩<rt>しお</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>漬<rt>つ</rt></ruby>け</span>て<ruby>作<rt>つく</rt></ruby>ります。<ruby>工場<rt>こうじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>卵<rt>たまご</rt></ruby>がちょうどいい<ruby>固<rt>かた</rt></ruby>さになっているか<span\
+  \ style=\"color: blue;\"><ruby>確<rt>たし</rt></ruby>かめ</span>ながら、<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>箱<rt>はこ</rt></ruby>に<ruby>並<rt>なら</rt></ruby>べていました。<ruby>日本<rt>にっぽん</rt></ruby>では<span\
+  \ style=\"color: blue;\">お<ruby>歳暮<rt>せいぼ</rt></ruby></span>や<span style=\"color:\
+  \ blue;\">おせち<ruby>料理<rt>りょうり</rt></ruby></span>のためにかずのこを<ruby>買<rt>か</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いため、<ruby>工場<rt>こうじょう</rt></ruby>では１２<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまで<ruby>忙<rt>いそが</rt></ruby>しい<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>きます。</p>\n\
+  <p>かずのこを<ruby>作<rt>つく</rt></ruby>る<span style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は「かずのこは<ruby>昔<rt>むかし</rt></ruby>から<ruby>正月<rt>しょうがつ</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>です。<ruby>家族<rt>かぞく</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まるときに、みんなで<ruby>楽<rt>たの</rt></ruby>しく<ruby>食<rt>た</rt></ruby>べてほしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: お節料理
+  descriptions:
+  - <ruby><rb>正月</rb><rt>しょうがつ</rt></ruby>や<ruby><rb>節句</rb><rt>せっく</rt></ruby>などに<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>料理</rb><rt>りょうり</rt></ruby>。ふつう<ruby><rb>正月</rb><rt>しょうがつ</rt></ruby>の、こぶ<ruby><rb>巻</rb><rt>ま</rt></ruby>きや<ruby><rb>煮</rb><rt>に</rt></ruby>しめなどのこと。
+- word: 漬
+  descriptions:
+  - つける。ひたす。つかる。
+  - つけ<ruby><rb>物</rb><rt>もの</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る。
+- word: 確かめる
+  descriptions:
+  - まちがいがないようにする。あやふやな<ruby><rb>点</rb><rt>てん</rt></ruby>を、はっきりさせる。
+- word: 歳暮
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>暮</rb><rt>く</rt></ruby>れ。<ruby><rb>年末</rb><rt>ねんまつ</rt></ruby>。
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>暮</rb><rt>く</rt></ruby>れに、<ruby><rb>日</rb><rt>ひ</rt></ruby>ごろ<ruby><rb>世話</rb><rt>せわ</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>におくるおくり<ruby><rb>物</rb><rt>もの</rt></ruby>。お<ruby><rb>歳暮</rb><rt>せいぼ</rt></ruby>。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+source_url: http://www3.nhk.or.jp/news/easy/k10011215541000/k10011215541000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/08/正月用かずのこ作り-早くも最盛期
+...
