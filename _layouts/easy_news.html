@@ -2,7 +2,7 @@
 <html>
 {% include head.html %}
 
-<body onload="onload()" class="zh_CN mm_appmsg">
+<body onload="onloaded()" class="zh_CN mm_appmsg">
   <div class="rich_media">
     <div class="rich_media_inner">
       <div>
@@ -22,7 +22,7 @@
             </div>
             {% if page.image_url %}
             <p><img class="fullwidth" data-s="300,640" src="{{ page.image_url }}" data-ratio="0" data-w="640" /></p>
-            <p></p>
+            <p class="blank"></p>
             {% endif %}
 
             {% if page.voice_url %}
@@ -30,23 +30,23 @@
               <audio id="player" class="fullwidth" src="{{ page.voice_url }}" controls loop autoplay style="width:100%"></audio>
               <a id="downloadLink" href="{{ page.voice_url }}" target="_blank" download onclick="onDownloadClick()"><img style="height:24px;width:24px;vertical-align:middle" src="{{ "/assets/download.png" | relative_url }}"/> ダウンロード</a>
             </p>
-            <p></p>
+            <p class="blank"></p>
             {% endif %}
 
+            <div class="easynewscontent">
             {% if page.content_with_ruby %}
             {{ page.content_with_ruby }}
             {% endif %}
             {% if page.contents %}
             {{ page.contents }}
             {% endif %}
+            </div>
 
             {% for w in page.words %}
-            <p><strong>{{ w.word }}</strong></p>
+            <p class="wordtitle">{{ w.word }}</p>
             <ul class="list-paddingleft-2" style="list-style-type: decimal;">
               {% for d in w.descriptions %}
-              <li class="dict">
-                <p>{{ d }}</p>
-              </li>
+              <li class="dict">{{ d }}</li>
               {% endfor %}
             </ul>
             {% endfor %}

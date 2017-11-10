@@ -2,14 +2,34 @@
   width: 100%;
 }
 
+.wordtitle {
+  line-height: 2.4;
+  padding-top: 15px;
+  font-weight: bold;
+}
+
 li.dict {
   margin-left: 1.5em;
+  line-height: 2.4;
 }
 
 .card {
   padding-bottom: 10px;
   margin-bottom: 10px;
   border-bottom: 1px solid #e7e7eb;
+}
+
+.easynewscontent>p {
+  line-height: 2.4;
+  padding-bottom: 15px;
+}
+
+h2.subtitle, .summary, .more, .body_text, .caption {
+  line-height: 2.4;
+}
+
+h2.subtitle {
+  padding-bottom: 10px;
 }
 
 .playing-icon {
@@ -25,7 +45,6 @@ li.dict {
 
 .furigana_bar {
   display: flex;
-  /*display: none;*/
   margin: 10px 0;
   -webkit-align-items: center;
   align-items: center;

@@ -53,7 +53,7 @@ function onDownloadClick() {
   }
 }
 
-function onload() {
+function onloaded() {
   var d = document.getElementById("downloadLink");
   if (d) {
     d.style.display = isIos() ? "none" : "inherit";

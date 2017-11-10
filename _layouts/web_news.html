@@ -2,7 +2,7 @@
 <html>
 {% include head.html %}
 
-<body onload="onload()" class="zh_CN mm_appmsg">
+<body onload="onloaded()" class="zh_CN mm_appmsg">
   <div class="rich_media">
     <div class="rich_media_inner">
       <div>
@@ -38,7 +38,7 @@
             {% endif %}
             {% for s in page.body %}
             {% if s.title %}
-            <h2>{{ s.title }}</h2>
+            <h2 class="subtitle">{{ s.title }}</h2>
             {% endif %}
             {% if s.textPos == 'top' %}
             {% if s.text %}
