@@ -1,0 +1,42 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011217511000
+last_modified_at: '2017-11-10T18:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>10<ruby>日<rt>にち</rt></ruby>
+  18<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 旅行などで日本に来る外国人が増えています。
+title: 外国から旅行に来た人が病院を探すためのアプリができる
+title_with_ruby: <ruby>外国<rt>がいこく</rt></ruby>から<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>が<ruby>病院<rt>びょういん</rt></ruby>を<ruby>探<rt>さが</rt></ruby>すためのアプリができる
+outline: 旅行などで日本に来る外国人が増えています。
+outline_with_ruby: <ruby>旅行<rt>りょこう</rt></ruby>などで<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/09/K10011217511_1711091810_1711091905_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/10/k10011217511000.mp3
+content_with_ruby: "<p><ruby>旅行<rt>りょこう</rt></ruby>などで<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。<ruby>外国人<rt>がいこくじん</rt></ruby>がスマートフォンで<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>病院<rt>びょういん</rt></ruby>を<ruby>探<rt>さが</rt></ruby>すことができる<span\
+  \ style=\"color: blue;\"><ruby>無料<rt>むりょう</rt></ruby></span>のアプリができました。<ruby>病気<rt>びょうき</rt></ruby>やけがをした<ruby>外国人<rt>がいこくじん</rt></ruby>のために<span\
+  \ style=\"color: blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>をしている<span style=\"\
+  color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>が<ruby>作<rt>つく</rt></ruby>りました。</p>\n\
+  <p>このアプリは<ruby>英語<rt>えいご</rt></ruby>と<ruby>中国語<rt>ちゅうごくご</rt></ruby>で<ruby>使<rt>つか</rt></ruby>うことができます。そして、<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>来<rt>き</rt></ruby>たときの<ruby>準備<rt>じゅんび</rt></ruby>をしている<ruby>近<rt>ちか</rt></ruby>くの<ruby>病院<rt>びょういん</rt></ruby>を<ruby>地図<rt>ちず</rt></ruby>で<ruby>知<rt>し</rt></ruby>らせます。<ruby>今<rt>いま</rt></ruby>、<ruby>病院<rt>びょういん</rt></ruby>が<ruby>開<rt>あ</rt></ruby>いている<ruby>時間<rt>じかん</rt></ruby>かどうかもわかります。<ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、<ruby>日本語<rt>にほんご</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>看板<rt>かんばん</rt></ruby></span>を<ruby>読<rt>よ</rt></ruby>むことができないため<ruby>病院<rt>びょういん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いてもわからない<ruby>人<rt>ひと</rt></ruby>がいます。このアプリは<ruby>外国語<rt>がいこくご</rt></ruby>と<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>書<rt>か</rt></ruby>いてあるので、<span\
+  \ style=\"color: blue;\"><ruby>看板<rt>かんばん</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>て<ruby>比<rt>くら</rt></ruby>べることができます。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>によると、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>が<ruby>病院<rt>びょういん</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>手伝<rt>てつだ</rt></ruby>いをする<span\
+  \ style=\"color: blue;\"><ruby>無料<rt>むりょう</rt></ruby></span>のアプリができたのは<ruby>初<rt>はじ</rt></ruby>めてです。このアプリは<ruby>今月<rt>こんげつ</rt></ruby>２７<ruby>日<rt>にち</rt></ruby>から<ruby>使<rt>つか</rt></ruby>うことができます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 無料
+  descriptions:
+  - <ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。
+- word: 活動
+  descriptions:
+  - <ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 看板
+  descriptions:
+  - <ruby><rb>人目</rb><rt>ひとめ</rt></ruby>につく<ruby><rb>所</rb><rt>ところ</rt></ruby>に、<ruby><rb>店</rb><rt>みせ</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や<ruby><rb>商品</rb><rt>しょうひん</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>などを<ruby><rb>書</rb><rt>か</rt></ruby>いて、<ruby><rb>出</rb><rt>だ</rt></ruby>しておくもの。
+  - <ruby><rb>見</rb><rt>み</rt></ruby>せかけ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011217511000/k10011217511000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/09/外国人観光客向け-医療支援用アプリを開発
+...

@@ -1,0 +1,83 @@
+---
+layout: web_news
+categories: web
+newsid: k10011217511000
+title: 外国人観光客向け 医療支援用アプリを開発
+title_with_ruby: <ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby><ruby>観光客<rt data-ruby-level="4">かんこうきゃく</rt></ruby><ruby>向<rt
+  data-ruby-level="3">む</rt></ruby>け <ruby>医療<rt data-ruby-level="7">いりょう</rt></ruby><ruby>支援<rt
+  data-ruby-level="7">しえん</rt></ruby><ruby>用<rt data-ruby-level="2">よう</rt></ruby>アプリを<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>
+last_modified_at: '2017-11-09T18:18:00+09:00'
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>11<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>09<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 18<ruby>時<rt data-ruby-level="2">じ</rt></ruby>18<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 日本を訪れる外国人が増加する中、外国人観光客を受け入れる態勢が整った医療機関をスマートフォンで簡単に探すことができる無料のアプリが開発され、運用の開始を前に９日、関係者に公開されました。
+summary: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>を<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れる<ruby>外国人<rt
+  data-ruby-level="2">がいこくじん</rt></ruby>が<ruby>増加<rt data-ruby-level="5">ぞうか</rt></ruby>する<ruby>中<rt
+  data-ruby-level="1">なか</rt></ruby>、<ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby><ruby>観光客<rt
+  data-ruby-level="4">かんこうきゃく</rt></ruby>を<ruby>受<rt data-ruby-level="3">う</rt></ruby>け<ruby>入<rt
+  data-ruby-level="3">い</rt></ruby>れる<ruby>態勢<rt data-ruby-level="5">たいせい</rt></ruby>が<ruby>整<rt
+  data-ruby-level="3">ととの</rt></ruby>った<ruby>医療<rt data-ruby-level="7">いりょう</rt></ruby><ruby>機関<rt
+  data-ruby-level="4">きかん</rt></ruby>をスマートフォンで<ruby>簡単<rt data-ruby-level="6">かんたん</rt></ruby>に<ruby>探<rt
+  data-ruby-level="6">さが</rt></ruby>すことができる<ruby>無料<rt data-ruby-level="4">むりょう</rt></ruby>のアプリが<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>され、<ruby>運用<rt data-ruby-level="3">うんよう</rt></ruby>の<ruby>開始<rt
+  data-ruby-level="3">かいし</rt></ruby>を<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>に９<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>、<ruby>関係者<rt data-ruby-level="4">かんけいしゃ</rt></ruby>に<ruby>公開<rt
+  data-ruby-level="3">こうかい</rt></ruby>されました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/09/K10011217511_1711091810_1711091905_01_03.jpg
+more: このスマートフォン<ruby>用<rt data-ruby-level="2">よう</rt></ruby>の<ruby>無料<rt data-ruby-level="4">むりょう</rt></ruby>のアプリは、<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>を<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れている<ruby>外国人<rt
+  data-ruby-level="2">がいこくじん</rt></ruby>の<ruby>医療<rt data-ruby-level="7">いりょう</rt></ruby><ruby>支援<rt
+  data-ruby-level="7">しえん</rt></ruby>を<ruby>行<rt data-ruby-level="2">おこな</rt></ruby>っている<ruby>団体<rt
+  data-ruby-level="5">だんたい</rt></ruby>が<ruby>作<rt data-ruby-level="2">つく</rt></ruby>り、９<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>、<ruby>都内<rt data-ruby-level="3">とない</rt></ruby>で<ruby>関係者<rt
+  data-ruby-level="4">かんけいしゃ</rt></ruby>を<ruby>集<rt data-ruby-level="3">あつ</rt></ruby>めて<ruby>公開<rt
+  data-ruby-level="3">こうかい</rt></ruby>されました。<br /><br />アプリは<ruby>英語<rt data-ruby-level="4">えいご</rt></ruby>と<ruby>中国語<rt
+  data-ruby-level="2">ちゅうごくご</rt></ruby>に<ruby>対応<rt data-ruby-level="5">たいおう</rt></ruby>していて、<ruby>外国人<rt
+  data-ruby-level="2">がいこくじん</rt></ruby><ruby>観光客<rt data-ruby-level="4">かんこうきゃく</rt></ruby>を<ruby>受<rt
+  data-ruby-level="3">う</rt></ruby>け<ruby>入<rt data-ruby-level="3">い</rt></ruby>れる<ruby>態勢<rt
+  data-ruby-level="5">たいせい</rt></ruby>が<ruby>整<rt data-ruby-level="3">ととの</rt></ruby>っている<ruby>全国<rt
+  data-ruby-level="3">ぜんこく</rt></ruby>およそ２５０の<ruby>医療<rt data-ruby-level="7">いりょう</rt></ruby><ruby>機関<rt
+  data-ruby-level="4">きかん</rt></ruby>の<ruby>中<rt data-ruby-level="1">なか</rt></ruby>から、<ruby>近<rt
+  data-ruby-level="2">ちか</rt></ruby>くにあるものが<ruby>地図上<rt data-ruby-level="2">ちずじょう</rt></ruby>に<ruby>表示<rt
+  data-ruby-level="5">ひょうじ</rt></ruby>されるほか、その<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>に<ruby>診療<rt
+  data-ruby-level="7">しんりょう</rt></ruby>を<ruby>受<rt data-ruby-level="4">う</rt></ruby>け<ruby>付<rt
+  data-ruby-level="4">つ</rt></ruby>けているかも<ruby>一覧表<rt data-ruby-level="6">いちらんひょう</rt></ruby>でわかるようになっています。<br
+  />また<ruby>病院<rt data-ruby-level="3">びょういん</rt></ruby>の<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>についても<ruby>日本語<rt
+  data-ruby-level="2">にほんご</rt></ruby>の<ruby>看板<rt data-ruby-level="6">かんばん</rt></ruby>がわからないという<ruby>声<rt
+  data-ruby-level="2">こえ</rt></ruby>が<ruby>多<rt data-ruby-level="2">おお</rt></ruby>いことから、リストには<ruby>日本語<rt
+  data-ruby-level="2">にほんご</rt></ruby>の<ruby>表記<rt data-ruby-level="3">ひょうき</rt></ruby>も<ruby>併<rt
+  data-ruby-level="7">あわ</rt></ruby>せて<ruby>記<rt data-ruby-level="2">しる</rt></ruby>し、<ruby>看板<rt
+  data-ruby-level="6">かんばん</rt></ruby>と<ruby>見比<rt data-ruby-level="5">みくら</rt></ruby>べることができるよう<ruby>工夫<rt
+  data-ruby-level="7">くふう</rt></ruby>されています。<br /><br />さらに<ruby>受診<rt data-ruby-level="7">じゅしん</rt></ruby>する<ruby>際<rt
+  data-ruby-level="5">さい</rt></ruby>の<ruby>注意点<rt data-ruby-level="3">ちゅういてん</rt></ruby>なども<ruby>記<rt
+  data-ruby-level="2">しる</rt></ruby>されていて、<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>健康保険<rt
+  data-ruby-level="5">けんこうほけん</rt></ruby>が<ruby>使<rt data-ruby-level="3">つか</rt></ruby>えない<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>は<ruby>病院<rt data-ruby-level="3">びょういん</rt></ruby>ごとに<ruby>費用<rt
+  data-ruby-level="4">ひよう</rt></ruby>が<ruby>変<rt data-ruby-level="4">か</rt></ruby>わる<ruby>可能性<rt
+  data-ruby-level="5">かのうせい</rt></ruby>があるほか、<ruby>医師<rt data-ruby-level="5">いし</rt></ruby>の<ruby>紹介状<rt
+  data-ruby-level="7">しょうかいじょう</rt></ruby>がないと<ruby>費用<rt data-ruby-level="4">ひよう</rt></ruby>が<ruby>高<rt
+  data-ruby-level="2">たか</rt></ruby>くなる<ruby>病院<rt data-ruby-level="3">びょういん</rt></ruby>があることなどを<ruby>説明<rt
+  data-ruby-level="4">せつめい</rt></ruby>しています。<br /><br /><ruby>団体<rt data-ruby-level="5">だんたい</rt></ruby>によりますと、<ruby>外国人<rt
+  data-ruby-level="2">がいこくじん</rt></ruby><ruby>観光客<rt data-ruby-level="4">かんこうきゃく</rt></ruby>を<ruby>医療面<rt
+  data-ruby-level="7">いりょうめん</rt></ruby>で<ruby>支援<rt data-ruby-level="7">しえん</rt></ruby>する<ruby>無料<rt
+  data-ruby-level="4">むりょう</rt></ruby>のアプリは<ruby>初<rt data-ruby-level="4">はじ</rt></ruby>めてだとしていて、<ruby>今月<rt
+  data-ruby-level="2">こんげつ</rt></ruby>２７<ruby>日<rt data-ruby-level="1">にち</rt></ruby>から<ruby>利用<rt
+  data-ruby-level="4">りよう</rt></ruby>できるということです。<br /><br />アプリを<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>した<ruby>訪日<rt
+  data-ruby-level="6">ほうにち</rt></ruby><ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby><ruby>医療<rt
+  data-ruby-level="7">いりょう</rt></ruby><ruby>支援<rt data-ruby-level="7">しえん</rt></ruby><ruby>機構<rt
+  data-ruby-level="5">きこう</rt></ruby>の<ruby>落合<rt data-ruby-level="3">おちあい</rt></ruby><ruby>慈<rt
+  data-ruby-level="8">ちか</rt></ruby><ruby>之<rt data-ruby-level="8">の</rt></ruby><ruby>理事長<rt
+  data-ruby-level="3">りじちょう</rt></ruby>は「<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>を<ruby>訪<rt
+  data-ruby-level="7">おとず</rt></ruby>れる<ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby>が<ruby>増<rt
+  data-ruby-level="5">ふ</rt></ruby>える<ruby>中<rt data-ruby-level="1">なか</rt></ruby>、<ruby>医療<rt
+  data-ruby-level="7">いりょう</rt></ruby>の<ruby>面<rt data-ruby-level="3">めん</rt></ruby>でも<ruby>受<rt
+  data-ruby-level="3">う</rt></ruby>け<ruby>入<rt data-ruby-level="3">い</rt></ruby>れ<ruby>態勢<rt
+  data-ruby-level="5">たいせい</rt></ruby>を<ruby>一歩<rt data-ruby-level="2">いっぽ</rt></ruby><ruby>一歩<rt
+  data-ruby-level="2">いっぽ</rt></ruby>、<ruby>整<rt data-ruby-level="3">ととの</rt></ruby>えていきたい」と<ruby>話<rt
+  data-ruby-level="2">はな</rt></ruby>しています。
+movie_url: https://newswebeasy.github.io/ja201711/news/web/movie/2017/11/09/k10011217511_201711091858_201711091905.mp4
+voice_url: https://newswebeasy.github.io/ja201711/news/web/voice/2017/11/09/k10011217511_201711091858_201711091905.mp3
+source_url: http://www3.nhk.or.jp/news/html/20171109/k10011217511000.html
+easy_news_url: https://newswebeasy.github.io/news/easy/2017/11/10/外国から旅行に来た人が病院を探すためのアプリができる
+...

@@ -1,0 +1,62 @@
+---
+layout: web_news
+categories: web
+newsid: k10011216081000
+title: ロボットが手話読み取り音声に 技術公開
+title_with_ruby: ロボットが<ruby>手話<rt data-ruby-level="2">しゅわ</rt></ruby><ruby>読<rt data-ruby-level="3">よ</rt></ruby>み<ruby>取<rt
+  data-ruby-level="3">と</rt></ruby>り<ruby>音声<rt data-ruby-level="2">おんせい</rt></ruby>に
+  <ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby><ruby>公開<rt data-ruby-level="3">こうかい</rt></ruby>
+last_modified_at: '2017-11-08T19:29:00+09:00'
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>11<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>08<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 19<ruby>時<rt data-ruby-level="2">じ</rt></ruby>29<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ２足歩行型のロボットが、手話を読み取って音声に変換するなどして、耳の不自由な人との会話を支援する技術の開発が進められていて、８日、デモンストレーションが公開されました。
+summary: ２<ruby>足<rt data-ruby-level="1">そく</rt></ruby><ruby>歩行<rt data-ruby-level="2">ほこう</rt></ruby><ruby>型<rt
+  data-ruby-level="4">がた</rt></ruby>のロボットが、<ruby>手話<rt data-ruby-level="2">しゅわ</rt></ruby>を<ruby>読<rt
+  data-ruby-level="3">よ</rt></ruby>み<ruby>取<rt data-ruby-level="3">と</rt></ruby>って<ruby>音声<rt
+  data-ruby-level="2">おんせい</rt></ruby>に<ruby>変換<rt data-ruby-level="7">へんかん</rt></ruby>するなどして、<ruby>耳<rt
+  data-ruby-level="1">みみ</rt></ruby>の<ruby>不自由<rt data-ruby-level="4">ふじゆう</rt></ruby>な<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>との<ruby>会話<rt data-ruby-level="2">かいわ</rt></ruby>を<ruby>支援<rt
+  data-ruby-level="7">しえん</rt></ruby>する<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>の<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>が<ruby>進<rt data-ruby-level="3">すす</rt></ruby>められていて、８<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>、デモンストレーションが<ruby>公開<rt data-ruby-level="3">こうかい</rt></ruby>されました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/08/K10011216081_1711081825_1711081829_01_03.jpg
+more: この<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>は、<ruby>電機<rt data-ruby-level="4">でんき</rt></ruby>メーカーのシャープが、<ruby>去年<rt
+  data-ruby-level="3">きょねん</rt></ruby><ruby>発売<rt data-ruby-level="3">はつばい</rt></ruby>した<ruby>電話<rt
+  data-ruby-level="2">でんわ</rt></ruby>の<ruby>機能<rt data-ruby-level="5">きのう</rt></ruby>を<ruby>持<rt
+  data-ruby-level="3">も</rt></ruby>つ２<ruby>足<rt data-ruby-level="1">そく</rt></ruby><ruby>歩行<rt
+  data-ruby-level="2">ほこう</rt></ruby><ruby>型<rt data-ruby-level="4">がた</rt></ruby>ロボットの<ruby>新<rt
+  data-ruby-level="2">あら</rt></ruby>たな<ruby>機能<rt data-ruby-level="5">きのう</rt></ruby>として、ＮＴＴデータと<ruby>共同<rt
+  data-ruby-level="4">きょうどう</rt></ruby>で<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>を<ruby>進<rt
+  data-ruby-level="3">すす</rt></ruby>めています。<br /><br />ロボットの<ruby>額<rt data-ruby-level="5">がく</rt></ruby>の<ruby>位置<rt
+  data-ruby-level="4">いち</rt></ruby>にあるカメラに<ruby>向<rt data-ruby-level="3">む</rt></ruby>かって<ruby>手話<rt
+  data-ruby-level="2">しゅわ</rt></ruby>をするとＡＩ＝<ruby>人工<rt data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt
+  data-ruby-level="5">ちのう</rt></ruby>が<ruby>解析<rt data-ruby-level="7">かいせき</rt></ruby>し、<ruby>音声<rt
+  data-ruby-level="2">おんせい</rt></ruby>に<ruby>変換<rt data-ruby-level="7">へんかん</rt></ruby>して<ruby>読<rt
+  data-ruby-level="2">よ</rt></ruby>み<ruby>上<rt data-ruby-level="2">あ</rt></ruby>げます。またロボットに<ruby>向<rt
+  data-ruby-level="3">む</rt></ruby>かって<ruby>言葉<rt data-ruby-level="3">ことば</rt></ruby>を<ruby>発<rt
+  data-ruby-level="3">はっ</rt></ruby>すると<ruby>文字<rt data-ruby-level="1">もじ</rt></ruby>に<ruby>変換<rt
+  data-ruby-level="7">へんかん</rt></ruby>して、<ruby>背中<rt data-ruby-level="6">せなか</rt></ruby>にある<ruby>液晶<rt
+  data-ruby-level="7">えきしょう</rt></ruby>ディスプレーに<ruby>表示<rt data-ruby-level="5">ひょうじ</rt></ruby>します。<br
+  />この２つの<ruby>機能<rt data-ruby-level="5">きのう</rt></ruby>を<ruby>組<rt data-ruby-level="2">く</rt></ruby>み<ruby>合<rt
+  data-ruby-level="2">あ</rt></ruby>わせることで、<ruby>手話<rt data-ruby-level="2">しゅわ</rt></ruby>ができなくても<ruby>耳<rt
+  data-ruby-level="1">みみ</rt></ruby>の<ruby>不自由<rt data-ruby-level="4">ふじゆう</rt></ruby>な<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>と<ruby>円滑<rt data-ruby-level="7">えんかつ</rt></ruby>に<ruby>会話<rt
+  data-ruby-level="2">かいわ</rt></ruby>ができる<ruby>仕組<rt data-ruby-level="3">しく</rt></ruby>みです。<br
+  /><br /><ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>は<ruby>手話<rt data-ruby-level="2">しゅわ</rt></ruby>を<ruby>単語<rt
+  data-ruby-level="4">たんご</rt></ruby>のレベルでなく、<ruby>文章<rt data-ruby-level="3">ぶんしょう</rt></ruby>に<ruby>翻訳<rt
+  data-ruby-level="7">ほんやく</rt></ruby>する<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>の<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>を<ruby>進<rt data-ruby-level="3">すす</rt></ruby>め、<ruby>東京<rt
+  data-ruby-level="2">とうきょう</rt></ruby>オリンピック・パラリンピックが<ruby>開<rt data-ruby-level="3">ひら</rt></ruby>かれる２０２０<ruby>年<rt
+  data-ruby-level="1">ねん</rt></ruby>までの<ruby>実用化<rt data-ruby-level="3">じつようか</rt></ruby>を<ruby>目指<rt
+  data-ruby-level="3">めざ</rt></ruby>すということです。<br /><br />ＮＴＴデータの<ruby>谷中<rt data-ruby-level="8">やなか</rt></ruby><ruby>一勝<rt
+  data-ruby-level="3">いっしょう</rt></ruby><ruby>部長<rt data-ruby-level="3">ぶちょう</rt></ruby>は「<ruby>公共<rt
+  data-ruby-level="4">こうきょう</rt></ruby>の<ruby>場<rt data-ruby-level="2">ば</rt></ruby>など<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>くの<ruby>場面<rt data-ruby-level="3">ばめん</rt></ruby>で、コミュニケーションの<ruby>道具<rt
+  data-ruby-level="3">どうぐ</rt></ruby>として<ruby>使<rt data-ruby-level="3">つか</rt></ruby>われるようにしたい」と<ruby>話<rt
+  data-ruby-level="2">はな</rt></ruby>しています。
+movie_url: https://newswebeasy.github.io/ja201711/news/web/movie/2017/11/08/k10011216081_201711081825_201711081827.mp4
+voice_url: https://newswebeasy.github.io/ja201711/news/web/voice/2017/11/08/k10011216081_201711081825_201711081827.mp3
+source_url: http://www3.nhk.or.jp/news/html/20171108/k10011216081000.html
+easy_news_url: https://newswebeasy.github.io/news/easy/2017/11/10/ロボットが手話を通訳して会話を手伝う
+...

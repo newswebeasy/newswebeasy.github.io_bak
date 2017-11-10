@@ -1,0 +1,69 @@
+---
+layout: web_news
+categories: web
+newsid: k10011216251000
+title: 大人用ベッドから赤ちゃん転落 事故相次ぎ注意呼びかけ
+title_with_ruby: <ruby>大人用<rt data-ruby-level="8">おとなよう</rt></ruby>ベッドから<ruby>赤<rt
+  data-ruby-level="1">あか</rt></ruby>ちゃん<ruby>転落<rt data-ruby-level="3">てんらく</rt></ruby>
+  <ruby>事故<rt data-ruby-level="5">じこ</rt></ruby><ruby>相次<rt data-ruby-level="3">あいつ</rt></ruby>ぎ<ruby>注意<rt
+  data-ruby-level="3">ちゅうい</rt></ruby><ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけ
+last_modified_at: '2017-11-08T20:40:00+09:00'
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>11<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>08<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 20<ruby>時<rt data-ruby-level="2">じ</rt></ruby>40<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 寝返りができるようになった赤ちゃんが、大人用のベッドで寝ている間に転落してけがをしたり死亡したりする事故が相次いでいることから、消費者庁は、２歳になるまでは、ベビーベッドで寝かせるなど事故に注意するよう呼びかけています。
+summary: <ruby>寝返<rt data-ruby-level="7">ねがえ</rt></ruby>りができるようになった<ruby>赤<rt data-ruby-level="1">あか</rt></ruby>ちゃんが、<ruby>大人用<rt
+  data-ruby-level="8">おとなよう</rt></ruby>のベッドで<ruby>寝<rt data-ruby-level="7">ね</rt></ruby>ている<ruby>間<rt
+  data-ruby-level="2">あいだ</rt></ruby>に<ruby>転落<rt data-ruby-level="3">てんらく</rt></ruby>してけがをしたり<ruby>死亡<rt
+  data-ruby-level="6">しぼう</rt></ruby>したりする<ruby>事故<rt data-ruby-level="5">じこ</rt></ruby>が<ruby>相次<rt
+  data-ruby-level="3">あいつ</rt></ruby>いでいることから、<ruby>消費者<rt data-ruby-level="4">しょうひしゃ</rt></ruby><ruby>庁<rt
+  data-ruby-level="6">ちょう</rt></ruby>は、２<ruby>歳<rt data-ruby-level="7">さい</rt></ruby>になるまでは、ベビーベッドで<ruby>寝<rt
+  data-ruby-level="7">ね</rt></ruby>かせるなど<ruby>事故<rt data-ruby-level="5">じこ</rt></ruby>に<ruby>注意<rt
+  data-ruby-level="3">ちゅうい</rt></ruby>するよう<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけています。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/08/K10011216251_1711081953_1711082002_01_02.jpg
+body:
+- text: <ruby>消費者<rt data-ruby-level="4">しょうひしゃ</rt></ruby><ruby>庁<rt data-ruby-level="6">ちょう</rt></ruby>が、<ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby><ruby>提供<rt data-ruby-level="6">ていきょう</rt></ruby>を<ruby>受<rt
+    data-ruby-level="3">う</rt></ruby>けている<ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby>の２３の<ruby>医療<rt
+    data-ruby-level="7">いりょう</rt></ruby><ruby>機関<rt data-ruby-level="4">きかん</rt></ruby>から<ruby>寄<rt
+    data-ruby-level="5">よ</rt></ruby>せられたさまざまな<ruby>事故<rt data-ruby-level="5">じこ</rt></ruby>の<ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby>を<ruby>分析<rt data-ruby-level="7">ぶんせき</rt></ruby>したところ、<ruby>大人用<rt
+    data-ruby-level="8">おとなよう</rt></ruby>のベッドに<ruby>寝<rt data-ruby-level="7">ね</rt></ruby>かせられた１<ruby>歳以下<rt
+    data-ruby-level="7">さいいか</rt></ruby>の<ruby>赤<rt data-ruby-level="1">あか</rt></ruby>ちゃんが<ruby>転落<rt
+    data-ruby-level="3">てんらく</rt></ruby>した<ruby>事故<rt data-ruby-level="5">じこ</rt></ruby>は、<ruby>調査<rt
+    data-ruby-level="5">ちょうさ</rt></ruby>が<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>まってからことし６<ruby>月末<rt
+    data-ruby-level="4">がつまつ</rt></ruby>までの６<ruby>年半<rt data-ruby-level="2">ねんはん</rt></ruby>で、５６４<ruby>件<rt
+    data-ruby-level="5">けん</rt></ruby>に<ruby>上<rt data-ruby-level="1">のぼ</rt></ruby>っていました。<br
+    /><br />このうち４<ruby>年前<rt data-ruby-level="2">ねんまえ</rt></ruby>には、<ruby>大人用<rt data-ruby-level="8">おとなよう</rt></ruby>ベッドで<ruby>寝<rt
+    data-ruby-level="7">ね</rt></ruby>ていた０<ruby>歳<rt data-ruby-level="7">さい</rt></ruby>の<ruby>赤<rt
+    data-ruby-level="1">あか</rt></ruby>ちゃんが、<ruby>親<rt data-ruby-level="2">おや</rt></ruby>のいない<ruby>間<rt
+    data-ruby-level="2">あいだ</rt></ruby>に<ruby>転落<rt data-ruby-level="3">てんらく</rt></ruby>して<ruby>壁<rt
+    data-ruby-level="7">かべ</rt></ruby>とベッドの<ruby>間<rt data-ruby-level="2">あいだ</rt></ruby>に<ruby>挟<rt
+    data-ruby-level="7">はさ</rt></ruby>まり、<ruby>窒息<rt data-ruby-level="7">ちっそく</rt></ruby>して<ruby>死亡<rt
+    data-ruby-level="6">しぼう</rt></ruby>したということです。<br /><br />このほかベッドから<ruby>転落<rt
+    data-ruby-level="3">てんらく</rt></ruby>して<ruby>頭<rt data-ruby-level="2">あたま</rt></ruby>を<ruby>骨折<rt
+    data-ruby-level="6">こっせつ</rt></ruby>するなど<ruby>大<rt data-ruby-level="1">だい</rt></ruby>けがをした<ruby>事故<rt
+    data-ruby-level="5">じこ</rt></ruby>も１９<ruby>件<rt data-ruby-level="5">けん</rt></ruby>に<ruby>上<rt
+    data-ruby-level="1">のぼ</rt></ruby>っていて、<ruby>特<rt data-ruby-level="4">とく</rt></ruby>に<ruby>寝返<rt
+    data-ruby-level="7">ねがえ</rt></ruby>りが<ruby>打<rt data-ruby-level="3">う</rt></ruby>てるようになった１<ruby>歳未満<rt
+    data-ruby-level="7">さいみまん</rt></ruby>の<ruby>赤<rt data-ruby-level="1">あか</rt></ruby>ちゃんの<ruby>場合<rt
+    data-ruby-level="2">ばあい</rt></ruby>、<ruby>頭<rt data-ruby-level="2">あたま</rt></ruby>が<ruby>重<rt
+    data-ruby-level="3">おも</rt></ruby>いことに<ruby>加<rt data-ruby-level="4">くわ</rt></ruby>えて<ruby>何<rt
+    data-ruby-level="2">なに</rt></ruby>かに<ruby>挟<rt data-ruby-level="7">はさ</rt></ruby>まっても<ruby>自力<rt
+    data-ruby-level="2">じりき</rt></ruby>で<ruby>抜<rt data-ruby-level="7">ぬ</rt></ruby>け<ruby>出<rt
+    data-ruby-level="7">だ</rt></ruby>すことができず、<ruby>事故<rt data-ruby-level="5">じこ</rt></ruby>につながるケースが<ruby>目立<rt
+    data-ruby-level="1">めだ</rt></ruby>つということです。<br /><br /><ruby>消費者<rt data-ruby-level="4">しょうひしゃ</rt></ruby><ruby>庁<rt
+    data-ruby-level="6">ちょう</rt></ruby>の<ruby>岡村<rt data-ruby-level="7">おかむら</rt></ruby><ruby>和美<rt
+    data-ruby-level="8">かずみ</rt></ruby><ruby>長官<rt data-ruby-level="4">ちょうかん</rt></ruby>は「『まだ<ruby>動<rt
+    data-ruby-level="3">うご</rt></ruby>けないはず』と<ruby>思<rt data-ruby-level="2">おも</rt></ruby>って<ruby>大人用<rt
+    data-ruby-level="8">おとなよう</rt></ruby>のベッドに<ruby>寝<rt data-ruby-level="7">ね</rt></ruby>かせず、２<ruby>歳<rt
+    data-ruby-level="7">さい</rt></ruby>になるまでは、ベビーベッドに<ruby>寝<rt data-ruby-level="7">ね</rt></ruby>かせてほしい」としたうえで、<ruby>大人用<rt
+    data-ruby-level="8">おとなよう</rt></ruby>のベッドを<ruby>使<rt data-ruby-level="3">つか</rt></ruby>う<ruby>際<rt
+    data-ruby-level="5">さい</rt></ruby>は<ruby>赤<rt data-ruby-level="1">あか</rt></ruby>ちゃんから<ruby>目<rt
+    data-ruby-level="1">め</rt></ruby>を<ruby>離<rt data-ruby-level="7">はな</rt></ruby>さないよう<ruby>呼<rt
+    data-ruby-level="6">よ</rt></ruby>びかけています。
+  textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/08/K10011216251_1711081953_1711082002_01_03.jpg
+source_url: http://www3.nhk.or.jp/news/html/20171108/k10011216251000.html
+easy_news_url: https://newswebeasy.github.io/news/easy/2017/11/10/赤ちゃんが大人のベッドから落ちる事故が多い
+...

@@ -1,0 +1,61 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011217391000
+last_modified_at: '2017-11-10T18:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>10<ruby>日<rt>にち</rt></ruby>
+  18<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 富山湾でとれたベニズワイガニというかには、富山県魚津市にたくさん集まります。
+title: 富山県　小学校の給食で１人１匹のベニズワイガニ
+title_with_ruby: <ruby>富山県<rt>とやまけん</rt></ruby>　<ruby>小学校<rt>しょうがっこう</rt></ruby>の<ruby>給食<rt>きゅうしょく</rt></ruby>で<ruby>１人<rt>ひとり</rt></ruby>１<ruby>匹<rt>ぴき</rt></ruby>のベニズワイガニ
+outline: 富山湾でとれたベニズワイガニというかには、富山県魚津市にたくさん集まります。
+outline_with_ruby: <ruby>富山湾<rt>とやまわん</rt></ruby>でとれたベニズワイガニというかには、<ruby>富山県<rt>とやまけん</rt></ruby><ruby>魚津市<rt>うおづし</rt></ruby>にたくさん<ruby>集<rt>あつ</rt></ruby>まります。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/09/K10011217391_1711091631_1711091633_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/10/k10011217391000.mp3
+content_with_ruby: "<p><ruby>富山湾<rt>とやまわん</rt></ruby>で<span style=\"color: blue;\"\
+  >とれ</span>たベニズワイガニという<span style=\"color: blue;\">かに</span>は、<ruby>富山県<rt>とやまけん</rt></ruby><ruby>魚津市<rt>うおづし</rt></ruby>にたくさん<ruby>集<rt>あつ</rt></ruby>まります。<ruby>魚津市<rt>うおづし</rt></ruby>の<ruby>経田小学校<rt>きょうでんしょうがっこう</rt></ruby>の６<ruby>年生<rt>ねんせい</rt></ruby>が、<ruby>９日<rt>ここのか</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>給食<rt>きゅうしょく</rt></ruby></span>で、<span style=\"color:\
+  \ blue;\">とれ</span>たばかりのベニズワイガニを<ruby>食<rt>た</rt></ruby>べました。<ruby>長<rt>なが</rt></ruby>さが６０ｃｍのベニズワイガニで、３１<ruby>人<rt>にん</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもたちが<ruby>１人<rt>ひとり</rt></ruby>１<ruby>匹<rt>ぴき</rt></ruby>ずつ<ruby>食<rt>た</rt></ruby>べました。</p>\n\
+  <p><ruby>魚津市<rt>うおづし</rt></ruby>の<span style=\"color: blue;\"><ruby>漁師<rt>りょうし</rt></ruby></span>などの<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>が、<ruby>自分<rt>じぶん</rt></ruby>たちの<ruby>町<rt>まち</rt></ruby>のベニズワイガニの<ruby>味<rt>あじ</rt></ruby>を<ruby>子<rt>こ</rt></ruby>どもたちに<ruby>楽<rt>たの</rt></ruby>しんでほしいと<ruby>考<rt>かんが</rt></ruby>えて、<ruby>小学校<rt>しょうがっこう</rt></ruby>に<ruby>届<rt>とど</rt></ruby>けました。</p>\n\
+  <p><ruby>子<rt>こ</rt></ruby>どもたちは<ruby>食<rt>た</rt></ruby>べ<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてもらいながら、<span\
+  \ style=\"color: blue;\"><ruby>新鮮<rt>しんせん</rt></ruby></span>な<ruby>味<rt>あじ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しんでいました。そして「<span\
+  \ style=\"color: blue;\"><ruby>給食<rt>きゅうしょく</rt></ruby></span>で<span style=\"color:\
+  \ blue;\">かに</span>を<ruby>食<rt>た</rt></ruby>べることができると<ruby>思<rt>おも</rt></ruby>っていませんでした」とか「<ruby>本当<rt>ほんとう</rt></ruby>においしかったです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>魚津市<rt>うおづし</rt></ruby>では<ruby>今月<rt>こんげつ</rt></ruby>、<span style=\"color:\
+  \ blue;\"><ruby>公立<rt>こうりつ</rt></ruby></span>の<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>小学校<rt>しょうがっこう</rt></ruby>１０<span\
+  \ style=\"color: blue;\"><ruby>校<rt>こう</rt></ruby></span>で、６<ruby>年生<rt>ねんせい</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>給食<rt>きゅうしょく</rt></ruby></span>でベニズワイガニを<ruby>食<rt>た</rt></ruby>べます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 給食
+  descriptions:
+  - <ruby><rb>学校</rb><rt>がっこう</rt></ruby>などで、<ruby><rb>児童</rb><rt>じどう</rt></ruby>や<ruby><rb>生徒</rb><rt>せいと</rt></ruby>に<ruby><rb>食事</rb><rt>しょくじ</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。また、その<ruby><rb>食事</rb><rt>しょくじ</rt></ruby>。
+- word: 捕れる
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+  - とることができる。
+- word: 蟹
+  descriptions:
+  - かたいこうらでおおわれた<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむタカアシガニ・ケガニや、<ruby><rb>谷川</rb><rt>たにがわ</rt></ruby>にすむサワガニなどがいる。<ruby><rb>足</rb><rt>あし</rt></ruby>が１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>あり、そのうちの２<ruby><rb>本</rb><rt>ほん</rt></ruby>がはさみになっている。
+- word: 漁師
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>貝</rb><rt>かい</rt></ruby>などをとることを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>としている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>漁夫</rb><rt>ぎょふ</rt></ruby>。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 新鮮
+  descriptions:
+  - <ruby><rb>新</rb><rt>あたら</rt></ruby>しくて、<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>生</rb><rt>い</rt></ruby>きしているようす。
+  - すがすがしくて、よごれていないようす。
+- word: 公立
+  descriptions:
+  - <ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>や<ruby><rb>市町村</rb><rt>しちょうそん</rt></ruby>などが<ruby><rb>運営</rb><rt>うんえい</rt></ruby>すること。
+- word: 校
+  descriptions:
+  - ものごとを<ruby><rb>教</rb><rt>おし</rt></ruby>え、ならうところ。
+  - <ruby><rb>原稿</rb><rt>げんこう</rt></ruby>などと、<ruby><rb>比</rb><rt>くら</rt></ruby>べ<ruby><rb>合</rb><rt>あ</rt></ruby>わせてただす。
+source_url: http://www3.nhk.or.jp/news/easy/k10011217391000/k10011217391000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/09/冬の味覚-ベニズワイガニを給食に-富山-魚津
+...

@@ -1,0 +1,62 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011216251000
+last_modified_at: '2017-11-10T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>10<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 消費者庁によると、１歳以下の赤ちゃんが大人のベッドから落ちる事故が、６年６か月の間に５６４件ありました。
+title: 赤ちゃんが大人のベッドから落ちる事故が多い
+title_with_ruby: <ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>大人<rt>おとな</rt></ruby>のベッドから<ruby>落<rt>お</rt></ruby>ちる<ruby>事故<rt>じこ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い
+outline: 消費者庁によると、１歳以下の赤ちゃんが大人のベッドから落ちる事故が、６年６か月の間に５６４件ありました。
+outline_with_ruby: <ruby>消費者庁<rt>しょうひしゃちょう</rt></ruby>によると、１<ruby>歳<rt>さい</rt></ruby><ruby>以下<rt>いか</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>大人<rt>おとな</rt></ruby>のベッドから<ruby>落<rt>お</rt></ruby>ちる<ruby>事故<rt>じこ</rt></ruby>が、６<ruby>年<rt>ねん</rt></ruby>６か<ruby>月<rt>げつ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に５６４<ruby>件<rt>けん</rt></ruby>ありました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/08/K10011216251_1711081953_1711082002_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/10/k10011216251000.mp3
+content_with_ruby: "<p><ruby>消費者庁<rt>しょうひしゃちょう</rt></ruby>によると、１<ruby>歳<rt>さい</rt></ruby><ruby>以下<rt>いか</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>大人<rt>おとな</rt></ruby>のベッドから<ruby>落<rt>お</rt></ruby>ちる<ruby>事故<rt>じこ</rt></ruby>が、６<ruby>年<rt>ねん</rt></ruby>６か<ruby>月<rt>げつ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に５６４<span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span>ありました。</p>\n<p>４<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>には、<ruby>大人<rt>おとな</rt></ruby>のベッドで<ruby>寝<rt>ね</rt></ruby>ていた０<ruby>歳<rt>さい</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんがベッドから<ruby>落<rt>お</rt></ruby>ちて、<ruby>壁<rt>かべ</rt></ruby>とベッドの<ruby>間<rt>あいだ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>挟<rt>はさ</rt></ruby>まる</span><ruby>事故<rt>じこ</rt></ruby>がありました。<ruby>近<rt>ちか</rt></ruby>くに<ruby>誰<rt>だれ</rt></ruby>もいなかったため、<ruby>赤<rt>あか</rt></ruby>ちゃんは<span\
+  \ style=\"color: blue;\"><ruby>息<rt>いき</rt></ruby></span>ができなくなって<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p><ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>大人<rt>おとな</rt></ruby>のベッドから<ruby>落<rt>お</rt></ruby>ちて<ruby>頭<rt>あたま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>骨<rt>ほね</rt></ruby></span>を<ruby>折<rt>お</rt></ruby>るなど、<ruby>大<rt>おお</rt></ruby>きなけがをした<ruby>事故<rt>じこ</rt></ruby>も１９<span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span>ありました。<span style=\"color:\
+  \ blue;\"><ruby>転<rt>ころ</rt></ruby>がっ</span>て<ruby>体<rt>からだ</rt></ruby>を<span style=\"\
+  color: blue;\"><ruby>動<rt>うご</rt></ruby>かす</span>ことができるようになったばかりの<ruby>赤<rt>あか</rt></ruby>ちゃんは、<ruby>特<rt>とく</rt></ruby>に<ruby>事故<rt>じこ</rt></ruby>になりやすいと<ruby>消費者庁<rt>しょうひしゃちょう</rt></ruby>は<ruby>言<rt>い</rt></ruby>っています。<ruby>頭<rt>あたま</rt></ruby>が<ruby>重<rt>おも</rt></ruby>くて<ruby>何<rt>なに</rt></ruby>かに<span\
+  \ style=\"color: blue;\"><ruby>挟<rt>はさ</rt></ruby>まっ</span>ても<ruby>自分<rt>じぶん</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>で<ruby>出<rt>で</rt></ruby>ることができないためです。</p>\n\
+  <p><ruby>消費者庁<rt>しょうひしゃちょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>赤<rt>あか</rt></ruby>ちゃんが２<ruby>歳<rt>さい</rt></ruby>になるまでは<ruby>大人<rt>おとな</rt></ruby>のベッドではなくて、<ruby>赤<rt>あか</rt></ruby>ちゃん<ruby>用<rt>よう</rt></ruby>のベッドを<ruby>使<rt>つか</rt></ruby>ったほうがいいです」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 件
+  descriptions:
+  - ことがら。できごと。
+  - ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 挟まる
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>と<ruby><rb>物</rb><rt>もの</rt></ruby>との、せまい<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る。
+  - <ruby><rb>対立</rb><rt>たいりつ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つ。
+- word: 息
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>が<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>るために、<ruby><rb>空気</rb><rt>くうき</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>ったり、はいたりすること。また、その<ruby><rb>空気</rb><rt>くうき</rt></ruby>。
+- word: 骨
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>支</rb><rt>ささ</rt></ruby>えているかたいもの。
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>のしんにする<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>竹</rb><rt>たけ</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。
+  - ものごとの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。
+  - へこたれない<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。
+  - <ruby><rb>苦労</rb><rt>くろう</rt></ruby>なこと。
+- word: 転がる
+  descriptions:
+  - ころころと<ruby><rb>回</rb><rt>まわ</rt></ruby>って<ruby><rb>動</rb><rt>うご</rt></ruby>く。<ruby><rb>転</rb><rt>ころ</rt></ruby>げる。
+  - たおれる。<ruby><rb>転</rb><rt>ころ</rt></ruby>ぶ。<ruby><rb>転</rb><rt>ころ</rt></ruby>げる。
+  - いくらでもある。
+- word: 動かす
+  descriptions:
+  - <ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。
+  - <ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - <ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。
+- word: 挟まる
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>と<ruby><rb>物</rb><rt>もの</rt></ruby>との、せまい<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る。
+  - <ruby><rb>対立</rb><rt>たいりつ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011216251000/k10011216251000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/08/大人用ベッドから赤ちゃん転落-事故相次ぎ注意呼びかけ
+...
