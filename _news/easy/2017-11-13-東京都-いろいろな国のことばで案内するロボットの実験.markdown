@@ -1,0 +1,73 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011217621000
+last_modified_at: '2017-11-13T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 東京都は、旅行に来た外国人などに、ロボットを使って観光地や都庁の案内をする実験を１３日から始めます。
+title: 東京都　いろいろな国のことばで案内するロボットの実験
+title_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby>　いろいろな<ruby>国<rt>くに</rt></ruby>のことばで<ruby>案内<rt>あんない</rt></ruby>するロボットの<ruby>実験<rt>じっけん</rt></ruby>
+outline: 東京都は、旅行に来た外国人などに、ロボットを使って観光地や都庁の案内をする実験を１３日から始めます。
+outline_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby>は、<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>などに、ロボットを<ruby>使<rt>つか</rt></ruby>って<ruby>観光地<rt>かんこうち</rt></ruby>や<ruby>都庁<rt>とちょう</rt></ruby>の<ruby>案内<rt>あんない</rt></ruby>をする<ruby>実験<rt>じっけん</rt></ruby>を１３<ruby>日<rt>にち</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めます。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/09/K10011217621_1711091836_1711091837_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/13/k10011217621000.mp3
+content_with_ruby: "<p><ruby>東京都<rt>とうきょうと</rt></ruby>は、<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>などに、<span\
+  \ style=\"color: blue;\">ロボット</span>を<ruby>使<rt>つか</rt></ruby>って<span style=\"color:\
+  \ blue;\"><ruby>観光地<rt>かんこうち</rt></ruby></span>や<span style=\"color: blue;\"><ruby>都庁<rt>とちょう</rt></ruby></span>の<ruby>案内<rt>あんない</rt></ruby>をする<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>を１３<ruby>日<rt>にち</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めます。</p>\n\
+  <p><ruby>９日<rt>ここのか</rt></ruby>、<span style=\"color: blue;\"><ruby>都庁<rt>とちょう</rt></ruby></span>で<span\
+  \ style=\"color: blue;\">イベント</span>があって、<ruby>日本語<rt>にほんご</rt></ruby>や<ruby>英語<rt>えいご</rt></ruby>、<ruby>中国語<rt>ちゅうごくご</rt></ruby>、<ruby>韓国語<rt>かんこくご</rt></ruby>などがわかる５<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">ロボット</span>を<ruby>見<rt>み</rt></ruby>せました。<ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>小池<rt>こいけ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>知事<rt>ちじ</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>都庁<rt>とちょう</rt></ruby></span>のビルの<ruby>高<rt>たか</rt></ruby>さを<ruby>聞<rt>き</rt></ruby>くと、<span\
+  \ style=\"color: blue;\">ロボット</span>は「２４３ｍだよ」と<ruby>答<rt>こた</rt></ruby>えました。<ruby>英語<rt>えいご</rt></ruby>で<ruby>東京都<rt>とうきょうと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>世界遺産<rt>せかいいさん</rt></ruby></span>について<ruby>聞<rt>き</rt></ruby>くと、<span\
+  \ style=\"color: blue;\">ロボット</span>も<ruby>英語<rt>えいご</rt></ruby>で「<span style=\"\
+  color: blue;\"><ruby>小笠原諸島<rt>おがさわらしょとう</rt></ruby></span>です」と<ruby>答<rt>こた</rt></ruby>えました。<ruby>見<rt>み</rt></ruby>ていた<ruby>人<rt>ひと</rt></ruby>たちも<ruby>楽<rt>たの</rt></ruby>しそうでした。</p>\n\
+  <p><ruby>東京都<rt>とうきょうと</rt></ruby>は、<ruby>来年<rt>らいねん</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろまでこの<span\
+  \ style=\"color: blue;\">ロボット</span>を<span style=\"color: blue;\"><ruby>都庁<rt>とちょう</rt></ruby></span>の２つの<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いて、<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>に<span\
+  \ style=\"color: blue;\">ロボット</span>と<ruby>会話<rt>かいわ</rt></ruby>をしてもらいます。そして、２０２０<ruby>年<rt>ねん</rt></ruby>の<span\
+  \ style=\"color: blue;\">オリンピック</span>と<span style=\"color: blue;\">パラリンピック</span>で<ruby>使<rt>つか</rt></ruby>うことができるようにしたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ロボット
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>磁気</rb><rt>じき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。<ruby><rb>人造</rb><rt>じんぞう</rt></ruby><ruby><rb>人間</rb><rt>にんげん</rt></ruby>。
+  - <ruby><rb>工場</rb><rt>こうじょう</rt></ruby>などで<ruby><rb>人間</rb><rt>にんげん</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって、<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。
+  - （いつも）<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>いなりになって<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 実験
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。
+- word: 観光地
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>が<ruby><rb>美</rb><rt>うつく</rt></ruby>しかったり、<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>があったりして、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 都庁
+  descriptions:
+  - <ruby><rb>東京都庁</rb><rt>とうきょうとちょう</rt></ruby>のこと。<ruby><rb>都民</rb><rt>とみん</rt></ruby>のために、いろいろな<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 知事
+  descriptions:
+  - <ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 世界遺産
+  descriptions:
+  - ユネスコの「<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby><ruby><rb>及</rb><rt>およ</rt></ruby>び<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>の<ruby><rb>保護</rb><rt>ほご</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>条約</rb><rt>じょうやく</rt></ruby>」（「<ruby><rb>世界遺産保護条約</rb><rt>せかいいさんほごじょうやく</rt></ruby>」）にもとづいて<ruby><rb>決</rb><rt>き</rt></ruby>められた、<ruby><rb>世界的</rb><rt>せかいてき</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>す<ruby><rb>価値</rb><rt>かち</rt></ruby>があると<ruby><rb>認</rb><rt>みと</rt></ruby>められた<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>や<ruby><rb>自然</rb><rt>しぜん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby>として<ruby><rb>姫路城</rb><rt>ひめじじょう</rt></ruby>や<ruby><rb>法隆寺</rb><rt>ほうりゅうじ</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の<ruby><rb>首里城</rb><rt>しゅりじょう</rt></ruby>など、<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>として<ruby><rb>屋久島</rb><rt>やくしま</rt></ruby>や<ruby><rb>白神山地</rb><rt>しらかみさんち</rt></ruby>などが<ruby><rb>指定</rb><rt>してい</rt></ruby>されている。
+- word: 小笠原諸島
+  descriptions:
+  - <ruby><rb>東京都</rb><rt>とうきょうと</rt></ruby>の<ruby><rb>一部</rb><rt>いちぶ</rt></ruby>で、<ruby><rb>都心</rb><rt>としん</rt></ruby>から<ruby><rb>南</rb><rt>みなみ</rt></ruby>へ<ruby><rb>約</rb><rt>やく</rt></ruby>１２００キロメートルの<ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>にある<ruby><rb>島々</rb><rt>しまじま</rt></ruby>。おもな<ruby><rb>島</rb><rt>しま</rt></ruby>は<ruby><rb>父島</rb><rt>ちちじま</rt></ruby>と<ruby><rb>母島</rb><rt>ははじま</rt></ruby>である。
+- word: オリンピック
+  descriptions:
+  - ４<ruby><rb>年</rb><rt>ねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。４<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011217621000/k10011217621000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/09/東京五輪に向け-多言語案内ロボットお披露目-都庁
+...

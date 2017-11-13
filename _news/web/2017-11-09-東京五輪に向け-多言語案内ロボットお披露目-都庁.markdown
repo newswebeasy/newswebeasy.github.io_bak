@@ -1,0 +1,71 @@
+---
+layout: web_news
+categories: web
+newsid: k10011217621000
+title: 東京五輪に向け 多言語案内ロボットお披露目 都庁
+title_with_ruby: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby><ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby>に<ruby>向<rt
+  data-ruby-level="3">む</rt></ruby>け <ruby>多言語<rt data-ruby-level="2">たげんご</rt></ruby><ruby>案内<rt
+  data-ruby-level="4">あんない</rt></ruby>ロボットお<ruby>披露目<rt data-ruby-level="7">ひろめ</rt></ruby>
+  <ruby>都庁<rt data-ruby-level="6">とちょう</rt></ruby>
+last_modified_at: '2017-11-09T18:47:00+09:00'
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>11<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>09<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 18<ruby>時<rt data-ruby-level="2">じ</rt></ruby>47<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 東京オリンピック・パラリンピックに向け、東京都庁でロボットが外国人観光客などをもてなす実証実験が始まるのを前に９日、合わせて５種類のロボットがお披露目されました。
+summary: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>オリンピック・パラリンピックに<ruby>向<rt
+  data-ruby-level="3">む</rt></ruby>け、<ruby>東京都庁<rt data-ruby-level="6">とうきょうとちょう</rt></ruby>でロボットが<ruby>外国人<rt
+  data-ruby-level="2">がいこくじん</rt></ruby><ruby>観光客<rt data-ruby-level="4">かんこうきゃく</rt></ruby>などをもてなす<ruby>実証<rt
+  data-ruby-level="5">じっしょう</rt></ruby><ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>が<ruby>始<rt
+  data-ruby-level="3">はじ</rt></ruby>まるのを<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>に９<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>、<ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせて５<ruby>種類<rt
+  data-ruby-level="4">しゅるい</rt></ruby>のロボットがお<ruby>披露目<rt data-ruby-level="7">ひろめ</rt></ruby>されました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/09/K10011217621_1711091836_1711091837_01_02.jpg
+body:
+- text: <ruby>東京都<rt data-ruby-level="3">とうきょうと</rt></ruby>は、<ruby>今月<rt data-ruby-level="2">こんげつ</rt></ruby>１３<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>からロボットを<ruby>都庁内<rt data-ruby-level="6">とちょうない</rt></ruby>に<ruby>設置<rt
+    data-ruby-level="5">せっち</rt></ruby>して、<ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby><ruby>観光客<rt
+    data-ruby-level="4">かんこうきゃく</rt></ruby>などをもてなす<ruby>実証<rt data-ruby-level="5">じっしょう</rt></ruby><ruby>実験<rt
+    data-ruby-level="4">じっけん</rt></ruby>を<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>めることにしています。<br
+    /><br /><ruby>開始<rt data-ruby-level="3">かいし</rt></ruby>を<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>に９<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>、<ruby>都庁<rt data-ruby-level="6">とちょう</rt></ruby>でイベントが<ruby>開<rt
+    data-ruby-level="3">ひら</rt></ruby>かれ、<ruby>日本語<rt data-ruby-level="2">にほんご</rt></ruby>と<ruby>英語<rt
+    data-ruby-level="4">えいご</rt></ruby>をはじめ、<ruby>中国語<rt data-ruby-level="2">ちゅうごくご</rt></ruby>や<ruby>韓国語<rt
+    data-ruby-level="7">かんこくご</rt></ruby>に<ruby>対応<rt data-ruby-level="5">たいおう</rt></ruby>するタイプなど<ruby>合<rt
+    data-ruby-level="2">あ</rt></ruby>わせて５<ruby>種類<rt data-ruby-level="4">しゅるい</rt></ruby>のロボットがお<ruby>披露目<rt
+    data-ruby-level="7">ひろめ</rt></ruby>されました。<br /><br /><ruby>小池<rt data-ruby-level="2">こいけ</rt></ruby><ruby>知事<rt
+    data-ruby-level="3">ちじ</rt></ruby>が、<ruby>都庁<rt data-ruby-level="6">とちょう</rt></ruby><ruby>舎<rt
+    data-ruby-level="5">しゃ</rt></ruby>のビルの<ruby>高<rt data-ruby-level="2">たか</rt></ruby>さを<ruby>尋<rt
+    data-ruby-level="7">たず</rt></ruby>ねると、ロボットが「２４３メートルだよ」と<ruby>答<rt data-ruby-level="2">こた</rt></ruby>えたほか、<ruby>知事<rt
+    data-ruby-level="3">ちじ</rt></ruby>が<ruby>得意<rt data-ruby-level="4">とくい</rt></ruby>の<ruby>英語<rt
+    data-ruby-level="4">えいご</rt></ruby>で<ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>の<ruby>世界<rt
+    data-ruby-level="3">せかい</rt></ruby><ruby>遺産<rt data-ruby-level="6">いさん</rt></ruby>について<ruby>聞<rt
+    data-ruby-level="2">き</rt></ruby>くと、ロボットも<ruby>英語<rt data-ruby-level="4">えいご</rt></ruby>で「<ruby>小笠原<rt
+    data-ruby-level="8">おがさわら</rt></ruby><ruby>諸島<rt data-ruby-level="6">しょとう</rt></ruby>です」と<ruby>応<rt
+    data-ruby-level="5">おう</rt></ruby>じる<ruby>場面<rt data-ruby-level="3">ばめん</rt></ruby>もあり、<ruby>都庁<rt
+    data-ruby-level="6">とちょう</rt></ruby>を<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れた<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>たちは<ruby>感心<rt data-ruby-level="3">かんしん</rt></ruby>の<ruby>声<rt
+    data-ruby-level="2">こえ</rt></ruby>を<ruby>上<rt data-ruby-level="1">あ</rt></ruby>げていました。<br
+    /><br /><ruby>小池<rt data-ruby-level="2">こいけ</rt></ruby><ruby>知事<rt data-ruby-level="3">ちじ</rt></ruby>は「これから<ruby>海外<rt
+    data-ruby-level="2">かいがい</rt></ruby>のお<ruby>客様<rt data-ruby-level="3">きゃくさま</rt></ruby>が<ruby>来<rt
+    data-ruby-level="2">こ</rt></ruby>られるに<ruby>当<rt data-ruby-level="2">あ</rt></ruby>たり、<ruby>猫<rt
+    data-ruby-level="7">ねこ</rt></ruby>の<ruby>手<rt data-ruby-level="7">て</rt></ruby>も<ruby>借<rt
+    data-ruby-level="4">か</rt></ruby>りたいということでロボットの<ruby>手<rt data-ruby-level="1">て</rt></ruby>を<ruby>借<rt
+    data-ruby-level="4">か</rt></ruby>りることにした。<ruby>観光<rt data-ruby-level="4">かんこう</rt></ruby><ruby>案内<rt
+    data-ruby-level="4">あんない</rt></ruby>の<ruby>実用化<rt data-ruby-level="3">じつようか</rt></ruby>とともに、<ruby>都<rt
+    data-ruby-level="3">と</rt></ruby>としてこうした<ruby>先端<rt data-ruby-level="7">せんたん</rt></ruby><ruby>技術<rt
+    data-ruby-level="5">ぎじゅつ</rt></ruby>や<ruby>社会<rt data-ruby-level="2">しゃかい</rt></ruby><ruby>実験<rt
+    data-ruby-level="4">じっけん</rt></ruby>も<ruby>進<rt data-ruby-level="3">すす</rt></ruby>めていきたい」と<ruby>話<rt
+    data-ruby-level="2">はな</rt></ruby>していました。<br /><br />ロボットは、<ruby>来年<rt data-ruby-level="2">らいねん</rt></ruby>２<ruby>月下旬<rt
+    data-ruby-level="7">がつげじゅん</rt></ruby>まで<ruby>都庁<rt data-ruby-level="6">とちょう</rt></ruby><ruby>第<rt
+    data-ruby-level="3">だい</rt></ruby>１<ruby>庁舎<rt data-ruby-level="6">ちょうしゃ</rt></ruby>の２<ruby>階<rt
+    data-ruby-level="3">かい</rt></ruby>や<ruby>南側<rt data-ruby-level="4">みなみがわ</rt></ruby><ruby>展望室<rt
+    data-ruby-level="6">てんぼうしつ</rt></ruby>に<ruby>設置<rt data-ruby-level="5">せっち</rt></ruby>され、<ruby>都<rt
+    data-ruby-level="3">と</rt></ruby>は３<ruby>年後<rt data-ruby-level="2">ねんご</rt></ruby>の<ruby>東京<rt
+    data-ruby-level="2">とうきょう</rt></ruby><ruby>大会<rt data-ruby-level="2">たいかい</rt></ruby>での<ruby>実用化<rt
+    data-ruby-level="3">じつようか</rt></ruby>を<ruby>目指<rt data-ruby-level="3">めざ</rt></ruby>しています。
+  image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/09/K10011217621_1711091836_1711091837_01_05.jpg
+- textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/09/K10011217621_1711091836_1711091837_01_03.jpg
+source_url: http://www3.nhk.or.jp/news/html/20171109/k10011217621000.html
+easy_news_url: https://newswebeasy.github.io/news/easy/2017/11/13/東京都-いろいろな国のことばで案内するロボットの実験
+...
