@@ -1,0 +1,48 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011218061000
+last_modified_at: '2017-11-13T17:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: スーパーやデパート、コンビニなどの店で働いている人たちの団体が、客に迷惑な行動をされた経験について初めて調査しました。
+title: スーパーなどで働く人の７０％が客に迷惑な行動をされた
+title_with_ruby: スーパーなどで<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>の７０％が<ruby>客<rt>きゃく</rt></ruby>に<ruby>迷惑<rt>めいわく</rt></ruby>な<ruby>行動<rt>こうどう</rt></ruby>をされた
+outline: スーパーやデパート、コンビニなどの店で働いている人たちの団体が、客に迷惑な行動をされた経験について初めて調査しました。
+outline_with_ruby: スーパーやデパート、コンビニなどの<ruby>店<rt>みせ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>たちの<ruby>団体<rt>だんたい</rt></ruby>が、<ruby>客<rt>きゃく</rt></ruby>に<ruby>迷惑<rt>めいわく</rt></ruby>な<ruby>行動<rt>こうどう</rt></ruby>をされた<ruby>経験<rt>けいけん</rt></ruby>について<ruby>初<rt>はじ</rt></ruby>めて<ruby>調査<rt>ちょうさ</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/09/K10011218061_1711092153_1711092154_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/13/k10011218061000.mp3
+content_with_ruby: "<p>スーパーやデパート、<span style=\"color: blue;\">コンビニ</span>などの<ruby>店<rt>みせ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>たちの<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>が、<ruby>客<rt>きゃく</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>迷惑<rt>めいわく</rt></ruby></span>な<span style=\"color:\
+  \ blue;\"><ruby>行動<rt>こうどう</rt></ruby></span>をされた<ruby>経験<rt>けいけん</rt></ruby>について<ruby>初<rt>はじ</rt></ruby>めて<span\
+  \ style=\"color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span>しました。５<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>答<rt>こた</rt></ruby>えました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span>によると、<ruby>働<rt>はたら</rt></ruby>いているとき<ruby>客<rt>きゃく</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>迷惑<rt>めいわく</rt></ruby></span>な<span style=\"color:\
+  \ blue;\"><ruby>行動<rt>こうどう</rt></ruby></span>をされたことがある<ruby>人<rt>ひと</rt></ruby>は、３<ruby>万<rt>まん</rt></ruby>６０００<ruby>人<rt>にん</rt></ruby>でした。<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>の７０％になりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>迷惑<rt>めいわく</rt></ruby></span>な<span style=\"\
+  color: blue;\"><ruby>行動<rt>こうどう</rt></ruby></span>は、「ひどいことを<ruby>言<rt>い</rt></ruby>われた」が４９％、「<ruby>同<rt>おな</rt></ruby>じことをずっと<ruby>言<rt>い</rt></ruby>われた」が２９％、「<ruby>叱<rt>しか</rt></ruby>られたりした」が２７％でした。「セクシュアルハラスメントをされた」という<ruby>人<rt>ひと</rt></ruby>も１０％ぐらいいました。そして、そのような<ruby>経験<rt>けいけん</rt></ruby>が<ruby>原因<rt>げんいん</rt></ruby>で「<ruby>心<rt>こころ</rt></ruby>の<ruby>病気<rt>びょうき</rt></ruby>になった」と<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>が３５９<ruby>人<rt>にん</rt></ruby>いました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span>した<span style=\"\
+  color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>では「<ruby>店<rt>みせ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>はこんなに<ruby>大変<rt>たいへん</rt></ruby>なのかと<ruby>驚<rt>おどろ</rt></ruby>きました。ひどい<span\
+  \ style=\"color: blue;\"><ruby>行動<rt>こうどう</rt></ruby></span>には、<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>客<rt>きゃく</rt></ruby>にしっかり<ruby>言<rt>い</rt></ruby>ったり、<ruby>国<rt>くに</rt></ruby>が<ruby>法律<rt>ほうりつ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ったりしてほしいです」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 迷惑
+  descriptions:
+  - ほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>がしたことで、いやな<ruby><rb>思</rb><rt>おも</rt></ruby>いをしたり<ruby><rb>困</rb><rt>こま</rt></ruby>ったりすること。
+- word: 行動
+  descriptions:
+  - <ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。<ruby><rb>動作</rb><rt>どうさ</rt></ruby>。
+- word: コンビニ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「コンビニエンスストア」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 調査
+  descriptions:
+  - <ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011218061000/k10011218061000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/09/悪質クレーム-流通業で働く人の7割が経験-初の実態調査
+...

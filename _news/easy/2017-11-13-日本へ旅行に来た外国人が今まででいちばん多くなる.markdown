@@ -1,0 +1,30 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011218521000
+last_modified_at: '2017-11-13T17:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 今年日本へ旅行に来た外国人は、１１月４日に、２４０３万９７００人以上になりました。
+title: 日本へ旅行に来た外国人が今まででいちばん多くなる
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなる
+outline: 今年日本へ旅行に来た外国人は、１１月４日に、２４０３万９７００人以上になりました。
+outline_with_ruby: <ruby>今年<rt>ことし</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>は、１１<ruby>月<rt>がつ</rt></ruby><ruby>４日<rt>よっか</rt></ruby>に、２４０３<ruby>万<rt>まん</rt></ruby>９７００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/10/K10011218521_1711101107_1711101107_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/13/k10011218521000.mp3
+content_with_ruby: "<p><ruby>今年<rt>ことし</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>は、１１<ruby>月<rt>がつ</rt></ruby><ruby>４日<rt>よっか</rt></ruby>に、２４０３<ruby>万<rt>まん</rt></ruby>９７００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりました。<ruby>去年<rt>きょねん</rt></ruby>１<ruby>月<rt>がつ</rt></ruby>から１２<ruby>月<rt>がつ</rt></ruby>までより<ruby>多<rt>おお</rt></ruby>くて、<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなりました。</p>\n\
+  <p><ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>は、２０１３<ruby>年<rt>ねん</rt></ruby>に<ruby>初<rt>はじ</rt></ruby>めて１０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になってから、<ruby>毎年<rt>まいとし</rt></ruby><ruby>増<rt>ふ</rt></ruby>え<ruby>続<rt>つづ</rt></ruby>けています。<ruby>中国<rt>ちゅうごく</rt></ruby>やロシアから<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\">ビザ</span>を<ruby>取<rt>と</rt></ruby>りやすくなったり、<ruby>韓国<rt>かんこく</rt></ruby>や<ruby>香港<rt>ほんこん</rt></ruby>などとの<ruby>間<rt>あいだ</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ぶ<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えたりしたためです。</p>\n\
+  <p><ruby>国<rt>くに</rt></ruby>は、２０２０<ruby>年<rt>ねん</rt></ruby>までに<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>外国人<rt>がいこくじん</rt></ruby>を４０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>にしたいと<ruby>考<rt>かんが</rt></ruby>えています。そのためには<ruby>毎年<rt>まいとし</rt></ruby>１５％ぐらいずつ<ruby>増<rt>ふ</rt></ruby>えることが<ruby>必要<rt>ひつよう</rt></ruby>です。このため、<ruby>東京<rt>とうきょう</rt></ruby>や<ruby>大阪<rt>おおさか</rt></ruby>、<ruby>京都<rt>きょうと</rt></ruby><ruby>以外<rt>いがい</rt></ruby>にも<ruby>泊<rt>と</rt></ruby>まる<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えるように、いろいろな<span\
+  \ style=\"color: blue;\"><ruby>観光地<rt>かんこうち</rt></ruby></span>を<ruby>紹介<rt>しょうかい</rt></ruby>していくことにしています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ビザ
+  descriptions:
+  - <ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>来</rb><rt>き</rt></ruby>た<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>旅券</rb><rt>りょけん</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べ、その<ruby><rb>国</rb><rt>くに</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ることを<ruby><rb>認</rb><rt>みと</rt></ruby>める<ruby><rb>許可証</rb><rt>きょかしょう</rt></ruby>。<ruby><rb>査証</rb><rt>さしょう</rt></ruby>。
+- word: 観光地
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>が<ruby><rb>美</rb><rt>うつく</rt></ruby>しかったり、<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>があったりして、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011218521000/k10011218521000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/10/ことしの外国人旅行者数-過去最高に
+...
