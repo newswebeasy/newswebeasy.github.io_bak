@@ -1,0 +1,67 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011222441000
+last_modified_at: '2017-11-14T17:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: １２日の夜、イランとイラクの間にある国境の近くでマグニチュード７．３（Ｍ７．３）の大きな地震がありました。
+title: イランとイラクの国境で地震　４５０人以上が亡くなる
+title_with_ruby: イランとイラクの<ruby>国境<rt>こっきょう</rt></ruby>で<ruby>地震<rt>じしん</rt></ruby>　４５０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+outline: １２日の夜、イランとイラクの間にある国境の近くでマグニチュード７．３（Ｍ７．３）の大きな地震がありました。
+outline_with_ruby: １２<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、イランとイラクの<ruby>間<rt>あいだ</rt></ruby>にある<ruby>国境<rt>こっきょう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くでマグニチュード７．３（Ｍ７．３）の<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/14/K10011222441_1711140617_1711140619_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/14/k10011222441000.mp3
+content_with_ruby: "<p>１２<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、イランとイラクの<ruby>間<rt>あいだ</rt></ruby>にある<span\
+  \ style=\"color: blue;\"><ruby>国境<rt>こっきょう</rt></ruby></span>の<ruby>近<rt>ちか</rt></ruby>くで<span\
+  \ style=\"color: blue;\">マグニチュード</span>７．３（Ｍ７．３）の<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>がありました。イランの<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は４４５<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、７１００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>がけがをしたと<ruby>言<rt>い</rt></ruby>っています。イラクの<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>も７<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、５００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>がけがをしたと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>イランで<span style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>が<ruby>大<rt>おお</rt></ruby>きかった<ruby>場所<rt>ばしょ</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>土<rt>つち</rt></ruby></span>などを<span style=\"color:\
+  \ blue;\"><ruby>固<rt>かた</rt></ruby>め</span>たれんがで<ruby>建<rt>た</rt></ruby>てた<ruby>家<rt>いえ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いため、<ruby>地震<rt>じしん</rt></ruby>でたくさんの<ruby>家<rt>いえ</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れました。<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は<span style=\"color:\
+  \ blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>して、<ruby>壊<rt>こわ</rt></ruby>れた<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>けよ</span>うとしています。しかし、<ruby>道<rt>みち</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>くことができない<ruby>所<rt>ところ</rt></ruby>もあるため、<ruby>時間<rt>じかん</rt></ruby>がかかりそうです。</p>\n\
+  <p>イラクでも<span style=\"color: blue;\"><ruby>国境<rt>こっきょう</rt></ruby></span>の<ruby>近<rt>ちか</rt></ruby>くで<ruby>建物<rt>たてもの</rt></ruby>がたくさん<ruby>壊<rt>こわ</rt></ruby>れていて、<ruby>病院<rt>びょういん</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れたところもあります。トルコは<ruby>隣<rt>となり</rt></ruby>の<ruby>国<rt>くに</rt></ruby>のイラクへ<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>け</span>に<ruby>行<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 国境
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>と<ruby><rb>国</rb><rt>くに</rt></ruby>との<ruby><rb>境</rb><rt>さかい</rt></ruby>。くにざかい。
+- word: マグニチュード
+  descriptions:
+  - <ruby><rb>地震</rb><rt>じしん</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさの<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 土
+  descriptions:
+  - <ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>がくだけて、<ruby><rb>粉</rb><rt>こな</rt></ruby>になったもの。どろ。
+  - <ruby><rb>陸地</rb><rt>りくち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>地面</rb><rt>じめん</rt></ruby>。
+- word: 固める
+  descriptions:
+  - やわらかいものを<ruby><rb>固</rb><rt>かた</rt></ruby>くする。
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>所</rb><rt>ところ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>める。
+  - <ruby><rb>確</rb><rt>たし</rt></ruby>かにする。しっかりと<ruby><rb>動</rb><rt>うご</rt></ruby>かないようにする。
+  - しっかりと<ruby><rb>守</rb><rt>まも</rt></ruby>る。
+- word: 軍
+  descriptions:
+  - <ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+source_url: http://www3.nhk.or.jp/news/easy/k10011222441000/k10011222441000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/14/イランイラクの国境付近の地震-死者が450人超える
+...

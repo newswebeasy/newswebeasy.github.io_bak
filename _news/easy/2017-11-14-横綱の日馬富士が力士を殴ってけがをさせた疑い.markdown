@@ -1,0 +1,77 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011222581000
+last_modified_at: '2017-11-14T17:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 福岡市で１２日から大相撲が始まっています。
+title: 横綱の日馬富士が力士を殴ってけがをさせた疑い
+title_with_ruby: <ruby>横綱<rt>よこづな</rt></ruby>の<ruby>日馬富士<rt>はるまふじ</rt></ruby>が<ruby>力士<rt>りきし</rt></ruby>を<ruby>殴<rt>なぐ</rt></ruby>ってけがをさせた<ruby>疑<rt>うたが</rt></ruby>い
+outline: 福岡市で１２日から大相撲が始まっています。
+outline_with_ruby: <ruby>福岡市<rt>ふくおかし</rt></ruby>で１２<ruby>日<rt>にち</rt></ruby>から<ruby>大相撲<rt>おおずもう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まっています。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/14/K10011222581_1711141032_1711141033_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/14/k10011222581000.mp3
+content_with_ruby: "<p><ruby>福岡市<rt>ふくおかし</rt></ruby>で１２<ruby>日<rt>にち</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>大相撲<rt>おおずもう</rt></ruby></span>が<ruby>始<rt>はじ</rt></ruby>まっています。<span\
+  \ style=\"color: blue;\"><ruby>横綱<rt>よこづな</rt></ruby></span>の<ruby>日馬富士<rt>はるまふじ</rt></ruby>が<ruby>貴ノ岩<rt>たかのいわ</rt></ruby>という<span\
+  \ style=\"color: blue;\"><ruby>力士<rt>りきし</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>殴<rt>なぐ</rt></ruby>っ</span>てけがをさせた<span style=\"color: blue;\"><ruby>疑<rt>うたが</rt></ruby>い</span>があることがわかりました。</p>\n\
+  <p><ruby>貴ノ岩<rt>たかのいわ</rt></ruby>は<ruby>頭<rt>あたま</rt></ruby>の<span style=\"color:\
+  \ blue;\"><ruby>骨<rt>ほね</rt></ruby></span>を<ruby>折<rt>お</rt></ruby>るけがをして、１２<ruby>日<rt>にち</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>大相撲<rt>おおずもう</rt></ruby></span>を<ruby>休<rt>やす</rt></ruby>んでいます。<ruby>日馬富士<rt>はるまふじ</rt></ruby>と<ruby>貴ノ岩<rt>たかのいわ</rt></ruby>はモンゴル<span\
+  \ style=\"color: blue;\"><ruby>出身<rt>しゅっしん</rt></ruby></span>です。</p>\n<p><ruby>相撲<rt>すもう</rt></ruby><ruby>協会<rt>きょうかい</rt></ruby>と<ruby>関係<rt>かんけい</rt></ruby>がある<ruby>人<rt>ひと</rt></ruby>は「<ruby>先月<rt>せんげつ</rt></ruby>２６<ruby>日<rt>にち</rt></ruby>にモンゴル<span\
+  \ style=\"color: blue;\"><ruby>出身<rt>しゅっしん</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>力士<rt>りきし</rt></ruby></span>が<ruby>集<rt>あつ</rt></ruby>まったときに<ruby>日馬富士<rt>はるまふじ</rt></ruby>が<ruby>貴ノ岩<rt>たかのいわ</rt></ruby>を<span\
+  \ style=\"color: blue;\">ビール</span>の<span style=\"color: blue;\"><ruby>瓶<rt>びん</rt></ruby></span>で<span\
+  \ style=\"color: blue;\"><ruby>殴<rt>なぐ</rt></ruby>っ</span>た」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p><ruby>日馬富士<rt>はるまふじ</rt></ruby>は<ruby>１４日<rt>じゅうよっか</rt></ruby>から<span style=\"\
+  color: blue;\"><ruby>大相撲<rt>おおずもう</rt></ruby></span>を<ruby>休<rt>やす</rt></ruby>むことになりました。そして、「いろいろな<ruby>人<rt>ひと</rt></ruby>たちに、<span\
+  \ style=\"color: blue;\"><ruby>迷惑<rt>めいわく</rt></ruby></span>をかけました。<span style=\"\
+  color: blue;\"><ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ありません</span>」と<ruby>言<rt>い</rt></ruby>って<ruby>謝<rt>あやま</rt></ruby>りました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 横綱
+  descriptions:
+  - すもうの<ruby><rb>番付</rb><rt>ばんづけ</rt></ruby>で、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>位</rb><rt>くらい</rt></ruby>。また、その<ruby><rb>力士</rb><rt>りきし</rt></ruby>。
+  - 「<span class="dic_sansyogogi">1)</span>」が<ruby><rb>土俵入</rb><rt>どひょうい</rt></ruby>りのときに、<ruby><rb>腰</rb><rt>こし</rt></ruby>にしめる<ruby><rb>太</rb><rt>ふと</rt></ruby>いつな。
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>でいちばんすぐれている<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 力士
+  descriptions:
+  - すもうをとることを<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。すもうとり。
+- word: 殴る
+  descriptions:
+  - <ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>打</rb><rt>う</rt></ruby>つ。
+- word: 疑い
+  descriptions:
+  - あやしいと<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>変</rb><rt>へん</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。
+- word: 大相撲
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>が<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>専門</rb><rt>せんもん</rt></ruby>の<ruby><rb>力士</rb><rt>りきし</rt></ruby>による<ruby><rb>相撲</rb><rt>すもう</rt></ruby>。
+  - <ruby><rb>相撲</rb><rt>すもう</rt></ruby>で、なかなか<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けの<ruby><rb>決</rb><rt>き</rt></ruby>まらない<ruby><rb>力</rb><rt>ちから</rt></ruby>の<ruby><rb>入</rb><rt>はい</rt></ruby>った<ruby><rb>取組</rb><rt>とりくみ</rt></ruby>。
+- word: 骨
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>支</rb><rt>ささ</rt></ruby>えているかたいもの。
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>のしんにする<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>竹</rb><rt>たけ</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。
+  - ものごとの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。
+  - へこたれない<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。
+  - <ruby><rb>苦労</rb><rt>くろう</rt></ruby>なこと。
+- word: 出身
+  descriptions:
+  - その<ruby><rb>土地</rb><rt>とち</rt></ruby>で<ruby><rb>生</rb><rt>う</rt></ruby>まれたこと。
+  - その<ruby><rb>学校</rb><rt>がっこう</rt></ruby>を<ruby><rb>卒業</rb><rt>そつぎょう</rt></ruby>したこと。
+- word: ビール
+  descriptions:
+  - <ruby><rb>大麦</rb><rt>おおむぎ</rt></ruby>を<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>にした<ruby><rb>酒</rb><rt>さけ</rt></ruby>。
+- word: 瓶
+  descriptions:
+  - ガラスやせともの・<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 迷惑
+  descriptions:
+  - ほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>がしたことで、いやな<ruby><rb>思</rb><rt>おも</rt></ruby>いをしたり<ruby><rb>困</rb><rt>こま</rt></ruby>ったりすること。
+- word: 申し訳ない
+  descriptions:
+  - <ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>訳</rb><rt>わけ</rt></ruby>ができない。<ruby><rb>大変</rb><rt>たいへん</rt></ruby>すまない。
+source_url: http://www3.nhk.or.jp/news/easy/k10011222581000/k10011222581000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/14/横綱日馬富士-きょうから休場-貴ノ岩に暴行疑い-協会が調査
+...

@@ -1,0 +1,43 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011221771000
+last_modified_at: '2017-11-14T17:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 奈良県桜井市にある大神神社は、お酒の神様で有名な神社です。
+title: 奈良県の神社　いいお酒ができるように新しい杉玉を飾る
+title_with_ruby: <ruby>奈良県<rt>ならけん</rt></ruby>の<ruby>神社<rt>じんじゃ</rt></ruby>　いいお<ruby>酒<rt>さけ</rt></ruby>ができるように<ruby>新<rt>あたら</rt></ruby>しい<ruby>杉玉<rt>すぎたま</rt></ruby>を<ruby>飾<rt>かざ</rt></ruby>る
+outline: 奈良県桜井市にある大神神社は、お酒の神様で有名な神社です。
+outline_with_ruby: <ruby>奈良県<rt>ならけん</rt></ruby><ruby>桜井市<rt>さくらいし</rt></ruby>にある<ruby>大神神社<rt>おおみわじんじゃ</rt></ruby>は、お<ruby>酒<rt>さけ</rt></ruby>の<ruby>神<rt>かみ</rt></ruby><ruby>様<rt>さま</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>神社<rt>じんじゃ</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/13/K10011221771_1711131425_1711131430_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/14/k10011221771000.mp3
+content_with_ruby: "<p><ruby>奈良県<rt>ならけん</rt></ruby><ruby>桜井市<rt>さくらいし</rt></ruby>にある<ruby>大神神社<rt>おおみわじんじゃ</rt></ruby>は、お<ruby>酒<rt>さけ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>神<rt>かみ</rt></ruby></span><ruby>様<rt>さま</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>神社<rt>じんじゃ</rt></ruby>です。いいお<ruby>酒<rt>さけ</rt></ruby>をつくることができるように<ruby>祈<rt>いの</rt></ruby>って、<ruby>丸<rt>まる</rt></ruby>くて<ruby>大<rt>おお</rt></ruby>きい<ruby>杉玉<rt>すぎたま</rt></ruby>を<ruby>神社<rt>じんじゃ</rt></ruby>の<ruby>建物<rt>たてもの</rt></ruby>に<ruby>飾<rt>かざ</rt></ruby>っています。この<ruby>杉玉<rt>すぎたま</rt></ruby>は、<ruby>大神神社<rt>おおみわじんじゃ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>神<rt>かみ</rt></ruby></span><ruby>様<rt>さま</rt></ruby>になっている<ruby>三輪山<rt>みわやま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>杉<rt>すぎ</rt></ruby></span>でできています。</p>\n<p><ruby>今年<rt>ことし</rt></ruby>も<span\
+  \ style=\"color: blue;\"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span>をつくり<ruby>始<rt>はじ</rt></ruby>める<ruby>季節<rt>きせつ</rt></ruby>になって、１３<ruby>日<rt>にち</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>杉玉<rt>すぎたま</rt></ruby>を<ruby>飾<rt>かざ</rt></ruby>りました。<ruby>大<rt>おお</rt></ruby>きさは<span\
+  \ style=\"color: blue;\"><ruby>直径<rt>ちょっけい</rt></ruby></span>１ｍ７０ｃｍ、<ruby>重<rt>おも</rt></ruby>さは２５０ｋｇです。<ruby>神社<rt>じんじゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が８<ruby>人<rt>にん</rt></ruby>で<ruby>建物<rt>たてもの</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>天井<rt>てんじょう</rt></ruby></span>に<ruby>杉玉<rt>すぎたま</rt></ruby>を<ruby>飾<rt>かざ</rt></ruby>りました。</p>\n\
+  <p><ruby>神社<rt>じんじゃ</rt></ruby>は、お<ruby>酒<rt>さけ</rt></ruby>をつくる<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>飾<rt>かざ</rt></ruby>るための<ruby>杉玉<rt>すぎたま</rt></ruby>もたくさん<ruby>用意<rt>ようい</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 神
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>知恵</rb><rt>ちえ</rt></ruby>では<ruby><rb>考</rb><rt>かんが</rt></ruby>えられない、ふしぎな<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つと<ruby><rb>信</rb><rt>しん</rt></ruby>じられているもの。
+- word: 杉
+  descriptions:
+  - すぎ。<ruby><rb>幹</rb><rt>みき</rt></ruby>がまっすぐで、<ruby><rb>針</rb><rt>はり</rt></ruby>のような<ruby><rb>葉</rb><rt>は</rt></ruby>が<ruby><rb>一年</rb><rt>いちねん</rt></ruby>じゅう<ruby><rb>緑色</rb><rt>みどりいろ</rt></ruby>をしている<ruby><rb>高木</rb><rt>こうぼく</rt></ruby>。<ruby><rb>建築</rb><rt>けんちく</rt></ruby>や<ruby><rb>家具</rb><rt>かぐ</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。
+- word: 日本酒
+  descriptions:
+  - <ruby><rb>米</rb><rt>こめ</rt></ruby>から<ruby><rb>造</rb><rt>つく</rt></ruby>る、<ruby><rb>日本特有</rb><rt>にっぽんとくゆう</rt></ruby>の<ruby><rb>酒</rb><rt>さけ</rt></ruby>。<ruby><rb>清酒</rb><rt>せいしゅ</rt></ruby>。
+- word: 直径
+  descriptions:
+  - <ruby><rb>円</rb><rt>えん</rt></ruby>または<ruby><rb>球</rb><rt>きゅう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>って、<ruby><rb>円周</rb><rt>えんしゅう</rt></ruby>や<ruby><rb>球面上</rb><rt>きゅうめんじょう</rt></ruby>の<ruby><rb>二点</rb><rt>にてん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>。さしわたし。
+- word: 天井
+  descriptions:
+  - <ruby><rb>部屋</rb><rt>へや</rt></ruby>の<ruby><rb>上部</rb><rt>じょうぶ</rt></ruby>に<ruby><rb>板</rb><rt>いた</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>ったもの。また、その<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - ものごとのいちばん<ruby><rb>高</rb><rt>たか</rt></ruby>いところ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011221771000/k10011221771000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/13/酒造りのお守り大杉玉の掛け替え-奈良-桜井
+...
