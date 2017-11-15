@@ -1,0 +1,54 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011221621000
+last_modified_at: '2017-11-15T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 富士山の環境を守るため、山梨県の富士吉田市などは富士山に登った人などが捨てた缶やペットボトルなどのごみを拾っています。
+title: 富士山のごみが３年続けて増える
+title_with_ruby: <ruby>富士山<rt>ふじさん</rt></ruby>のごみが３<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>増<rt>ふ</rt></ruby>える
+outline: 富士山の環境を守るため、山梨県の富士吉田市などは富士山に登った人などが捨てた缶やペットボトルなどのごみを拾っています。
+outline_with_ruby: <ruby>富士山<rt>ふじさん</rt></ruby>の<ruby>環境<rt>かんきょう</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るため、<ruby>山梨県<rt>やまなしけん</rt></ruby>の<ruby>富士吉田市<rt>ふじよしだし</rt></ruby>などは<ruby>富士山<rt>ふじさん</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>などが<ruby>捨<rt>す</rt></ruby>てた<ruby>缶<rt>かん</rt></ruby>やペットボトルなどのごみを<ruby>拾<rt>ひろ</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/13/K10011221621_1711131148_1711131149_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/15/k10011221621000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>富士山<rt>ふじさん</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>環境<rt>かんきょう</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>守<rt>まも</rt></ruby>る</span>ため、<ruby>山梨県<rt>やまなしけん</rt></ruby>の<ruby>富士吉田市<rt>ふじよしだし</rt></ruby>などは<span\
+  \ style=\"color: blue;\"><ruby>富士山<rt>ふじさん</rt></ruby></span>に<ruby>登<rt>のぼ</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>などが<ruby>捨<rt>す</rt></ruby>てた<span\
+  \ style=\"color: blue;\"><ruby>缶<rt>かん</rt></ruby></span>や<span style=\"color: blue;\"\
+  >ペットボトル</span>などのごみを<ruby>拾<rt>ひろ</rt></ruby>っています。</p>\n<p><ruby>今年<rt>ことし</rt></ruby>７<ruby>月<rt>がつ</rt></ruby>から１０<ruby>月<rt>がつ</rt></ruby>までに<ruby>拾<rt>ひろ</rt></ruby>ったごみは<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１６００ｋｇでした。<ruby>去年<rt>きょねん</rt></ruby>より<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>４５０ｋｇ<ruby>増<rt>ふ</rt></ruby>えました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>富士山<rt>ふじさん</rt></ruby></span>は２０１３<ruby>年<rt>ねん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>世界文化遺産<rt>せかいぶんかいさん</rt></ruby></span>になりました。このときは<ruby>一度<rt>いちど</rt></ruby>ごみが<ruby>少<rt>すく</rt></ruby>なくなりましたが、そのあとは３<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>増<rt>ふ</rt></ruby>えています。</p>\n\
+  <p><ruby>富士吉田市<rt>ふじよしだし</rt></ruby>は「<span style=\"color: blue;\"><ruby>富士山<rt>ふじさん</rt></ruby></span>に<ruby>来<rt>く</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>たちに、ごみは<ruby>必<rt>かなら</rt></ruby>ず<ruby>持<rt>も</rt></ruby>って<ruby>帰<rt>かえ</rt></ruby>るように<ruby>伝<rt>つた</rt></ruby>えていきたいです」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 富士山
+  descriptions:
+  - <ruby><rb>静岡県</rb><rt>しずおかけん</rt></ruby>と<ruby><rb>山梨県</rb><rt>やまなしけん</rt></ruby>の<ruby><rb>境</rb><rt>さかい</rt></ruby>にある、<ruby><rb>日本一</rb><rt>にっぽんいち</rt></ruby><ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>山</rb><rt>やま</rt></ruby>。<ruby><rb>高</rb><rt>たか</rt></ruby>さは３７７６メートル。<ruby><rb>江戸時代</rb><rt>えどじだい</rt></ruby>に<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>噴火</rb><rt>ふんか</rt></ruby>があった。
+- word: 環境
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>巻</rb><rt>ま</rt></ruby>き、<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる<ruby><rb>周</rb><rt>まわ</rt></ruby>りの<ruby><rb>世界</rb><rt>せかい</rt></ruby>。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 缶
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: ペットボトル
+  descriptions:
+  - <ruby><rb>樹脂製</rb><rt>じゅしせい</rt></ruby>の<ruby><rb>容器</rb><rt>ようき</rt></ruby>。<ruby><rb>軽</rb><rt>かる</rt></ruby>くて<ruby><rb>丈夫</rb><rt>じょうぶ</rt></ruby>なので<ruby><rb>飲</rb><rt>の</rt></ruby>み<ruby><rb>物</rb><rt>もの</rt></ruby>などの<ruby><rb>容器</rb><rt>ようき</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>われる。ポリエチレンテレフタレートの<ruby><rb>頭文字</rb><rt>かしらもじ</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>って<ruby><rb>PET</rb><rt>ぺット</rt></ruby>という。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 世界遺産
+  descriptions:
+  - ユネスコの「<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby><ruby><rb>及</rb><rt>およ</rt></ruby>び<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>の<ruby><rb>保護</rb><rt>ほご</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>条約</rb><rt>じょうやく</rt></ruby>」（「<ruby><rb>世界遺産保護条約</rb><rt>せかいいさんほごじょうやく</rt></ruby>」）にもとづいて<ruby><rb>決</rb><rt>き</rt></ruby>められた、<ruby><rb>世界的</rb><rt>せかいてき</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>す<ruby><rb>価値</rb><rt>かち</rt></ruby>があると<ruby><rb>認</rb><rt>みと</rt></ruby>められた<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>や<ruby><rb>自然</rb><rt>しぜん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby>として<ruby><rb>姫路城</rb><rt>ひめじじょう</rt></ruby>や<ruby><rb>法隆寺</rb><rt>ほうりゅうじ</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の<ruby><rb>首里城</rb><rt>しゅりじょう</rt></ruby>など、<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>として<ruby><rb>屋久島</rb><rt>やくしま</rt></ruby>や<ruby><rb>白神山地</rb><rt>しらかみさんち</rt></ruby>などが<ruby><rb>指定</rb><rt>してい</rt></ruby>されている。
+source_url: http://www3.nhk.or.jp/news/easy/k10011221621000/k10011221621000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/13/富士山のごみ-3年連続で増加
+...

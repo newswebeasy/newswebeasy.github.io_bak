@@ -1,0 +1,46 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011222541000
+last_modified_at: '2017-11-15T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: アメリカの国際教育研究所によると、２０１６年〜２０１７年の１年間に世界の国からアメリカの大学などに留学した人は１０７万８８２２人いました。
+title: 日本からアメリカに留学した人の数は２０年前の半分以下
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>からアメリカに<ruby>留学<rt>りゅうがく</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>の<ruby>数<rt>かず</rt></ruby>は２０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>半分<rt>はんぶん</rt></ruby><ruby>以下<rt>いか</rt></ruby>
+outline: アメリカの国際教育研究所によると、２０１６年〜２０１７年の１年間に世界の国からアメリカの大学などに留学した人は１０７万８８２２人いました。
+outline_with_ruby: アメリカの<ruby>国際教育<rt>こくさいきょういく</rt></ruby><ruby>研究所<rt>けんきゅうしょ</rt></ruby>によると、２０１６<ruby>年<rt>ねん</rt></ruby>〜２０１７<ruby>年<rt>ねん</rt></ruby>の１<ruby>年<rt>ねん</rt></ruby><ruby>間<rt>かん</rt></ruby>に<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>からアメリカの<ruby>大学<rt>だいがく</rt></ruby>などに<ruby>留学<rt>りゅうがく</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>は１０７<ruby>万<rt>まん</rt></ruby>８８２２<ruby>人<rt>にん</rt></ruby>いました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/14/K10011222541_1711140917_1711140920_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/15/k10011222541000.mp3
+content_with_ruby: "<p>アメリカの<ruby>国際教育<rt>こくさいきょういく</rt></ruby><ruby>研究所<rt>けんきゅうしょ</rt></ruby>によると、２０１６<ruby>年<rt>ねん</rt></ruby>〜２０１７<ruby>年<rt>ねん</rt></ruby>の１<ruby>年<rt>ねん</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>間<rt>かん</rt></ruby></span>に<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>からアメリカの<ruby>大学<rt>だいがく</rt></ruby>などに<span\
+  \ style=\"color: blue;\"><ruby>留学<rt>りゅうがく</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>は１０７<ruby>万<rt>まん</rt></ruby>８８２２<ruby>人<rt>にん</rt></ruby>いました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>からの<ruby>留学生<rt>りゅうがくせい</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>数<rt>かず</rt></ruby></span>は１<ruby>万<rt>まん</rt></ruby>８７８０<ruby>人<rt>にん</rt></ruby>で、<ruby>世界<rt>せかい</rt></ruby>で８<ruby>番目<rt>ばんめ</rt></ruby>でした。２０<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby>でしたが、<ruby>最近<rt>さいきん</rt></ruby>はそのころの<ruby>半分<rt>はんぶん</rt></ruby><ruby>以下<rt>いか</rt></ruby>になっています。<span\
+  \ style=\"color: blue;\"><ruby>研究所<rt>けんきゅうしょ</rt></ruby></span>は、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>子<rt>こ</rt></ruby>どもが<ruby>少<rt>すく</rt></ruby>なくなったことなどが<ruby>原因<rt>げんいん</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>中国<rt>ちゅうごく</rt></ruby>とインドからの<ruby>留学生<rt>りゅうがくせい</rt></ruby>は<ruby>増<rt>ふ</rt></ruby>えています。２０１６<ruby>年<rt>ねん</rt></ruby>〜２０１７<ruby>年<rt>ねん</rt></ruby>にアメリカに<span\
+  \ style=\"color: blue;\"><ruby>留学<rt>りゅうがく</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>の<ruby>半分<rt>はんぶん</rt></ruby>が<ruby>中国<rt>ちゅうごく</rt></ruby>とインドの<ruby>学生<rt>がくせい</rt></ruby>でした。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 留学
+  descriptions:
+  - <ruby><rb>外国</rb><rt>がいこく</rt></ruby>に<ruby><rb>行</rb><rt>い</rt></ruby>って、<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>すること。
+- word: 数
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。
+  - いくつもあること。たくさん。
+  - <ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。
+- word: 間
+  descriptions:
+  - あいだ。へだたり。
+  - ひろがり。
+  - ある<ruby><rb>関係</rb><rt>かんけい</rt></ruby>をもったまとまり。
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>のようすをうかがう。
+  - へや。へやを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>尺貫法</rb><rt>しゃっかんほう</rt></ruby>で、<ruby><rb>長</rb><rt>なが</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>一間</rb><rt>いっけん</rt></ruby>は<ruby><rb>約</rb><rt>やく</rt></ruby>一・八メートル。
+- word: 研究所
+  descriptions:
+  - ものごとを<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>をする<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011222541000/k10011222541000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/14/アメリカへの留学生減少傾向続く-20年前の40程度
+...

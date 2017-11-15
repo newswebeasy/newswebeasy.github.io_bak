@@ -1,0 +1,63 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011222731000
+last_modified_at: '2017-11-15T17:40:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ふん</rt></ruby>
+description: 北海道函館市では、冬になると「ササラ電車」が走って、線路に積もった雪を掃きます。
+title: 北海道函館市　線路の雪を掃く「ササラ電車」を点検する
+title_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>函館市<rt>はこだてし</rt></ruby>　<ruby>線路<rt>せんろ</rt></ruby>の<ruby>雪<rt>ゆき</rt></ruby>を<ruby>掃<rt>は</rt></ruby>く「ササラ<ruby>電車<rt>でんしゃ</rt></ruby>」を<ruby>点検<rt>てんけん</rt></ruby>する
+outline: 北海道函館市では、冬になると「ササラ電車」が走って、線路に積もった雪を掃きます。
+outline_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>函館市<rt>はこだてし</rt></ruby>では、<ruby>冬<rt>ふゆ</rt></ruby>になると「ササラ<ruby>電車<rt>でんしゃ</rt></ruby>」が<ruby>走<rt>はし</rt></ruby>って、<ruby>線路<rt>せんろ</rt></ruby>に<ruby>積<rt>つ</rt></ruby>もった<ruby>雪<rt>ゆき</rt></ruby>を<ruby>掃<rt>は</rt></ruby>きます。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/14/K10011222731_1711141213_1711141217_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/15/k10011222731000.mp3
+content_with_ruby: "<p><ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>函館市<rt>はこだてし</rt></ruby>では、<ruby>冬<rt>ふゆ</rt></ruby>になると「ササラ<ruby>電車<rt>でんしゃ</rt></ruby>」が<ruby>走<rt>はし</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>線路<rt>せんろ</rt></ruby></span>に<span style=\"color:\
+  \ blue;\"><ruby>積<rt>つ</rt></ruby>もっ</span>た<ruby>雪<rt>ゆき</rt></ruby>を<span style=\"\
+  color: blue;\"><ruby>掃<rt>は</rt></ruby>き</span>ます。ササラは<ruby>細<rt>ほそ</rt></ruby>く<ruby>切<rt>き</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>竹<rt>たけ</rt></ruby></span>を<ruby>集<rt>あつ</rt></ruby>めて<ruby>作<rt>つく</rt></ruby>った<span\
+  \ style=\"color: blue;\">ブラシ</span>です。<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>と<ruby>後<rt>うし</rt></ruby>ろに<span\
+  \ style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>け</span>たササラが<ruby>回<rt>まわ</rt></ruby>って、<ruby>雪<rt>ゆき</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>掃<rt>は</rt></ruby>き</span>ます。</p>\n<p><ruby>１４日<rt>じゅうよっか</rt></ruby>、もうすぐ<ruby>冬<rt>ふゆ</rt></ruby>になるため、ササラが<ruby>問題<rt>もんだい</rt></ruby>なく<ruby>回<rt>まわ</rt></ruby>るかどうかなどを<span\
+  \ style=\"color: blue;\"><ruby>点検<rt>てんけん</rt></ruby></span>して、<ruby>電車<rt>でんしゃ</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>してみました。<ruby>黄色<rt>きいろ</rt></ruby>と<ruby>茶色<rt>ちゃいろ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>色<rt>いろ</rt></ruby>ももう<ruby>一度<rt>いちど</rt></ruby><ruby>塗<rt>ぬ</rt></ruby>ってきれいにしてあります。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>点検<rt>てんけん</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>は「<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っても<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>時間<rt>じかん</rt></ruby><ruby>通<rt>どお</rt></ruby>りに<ruby>走<rt>はし</rt></ruby>るようにしたいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 線路
+  descriptions:
+  - <ruby><rb>汽車</rb><rt>きしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道筋</rb><rt>みちすじ</rt></ruby>。レール。
+- word: 掃く
+  descriptions:
+  - ほうきで、ごみをどける。そうじをする。
+- word: 点検
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つよく<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: 積もる
+  descriptions:
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かい<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>重</rb><rt>かさ</rt></ruby>なってたまる。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じようなことが<ruby><rb>何度</rb><rt>なんど</rt></ruby>も<ruby><rb>重</rb><rt>かさ</rt></ruby>なって、だんだん<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+- word: 掃く
+  descriptions:
+  - ほうきで、ごみをどける。そうじをする。
+- word: 竹
+  descriptions:
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>空</rb><rt>から</rt></ruby>の<ruby><rb>茎</rb><rt>くき</rt></ruby>に、<ruby><rb>節</rb><rt>ふし</rt></ruby>のある<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>や、<ruby><rb>細工物</rb><rt>さいくもの</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>芽</rb><rt>め</rt></ruby>を「たけのこ」という。
+- word: ブラシ
+  descriptions:
+  - はけ。<ruby><rb>細</rb><rt>こま</rt></ruby>かいほこりやよごれを<ruby><rb>取</rb><rt>と</rt></ruby>るもの。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+source_url: http://www3.nhk.or.jp/news/easy/k10011222731000/k10011222731000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/14/冬の訪れ前にササラ電車の試運転-北海道-函館
+...

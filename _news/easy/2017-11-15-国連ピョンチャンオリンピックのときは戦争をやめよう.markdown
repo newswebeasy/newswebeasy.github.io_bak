@@ -1,0 +1,72 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011222871000
+last_modified_at: '2017-11-15T17:40:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ふん</rt></ruby>
+description: 韓国のピョンチャンで来年２月にオリンピック、３月にパラリンピックがあります。
+title: 国連「ピョンチャンオリンピックのときは戦争をやめよう」
+title_with_ruby: <ruby>国連<rt>こくれん</rt></ruby>「ピョンチャンオリンピックのときは<ruby>戦争<rt>せんそう</rt></ruby>をやめよう」
+outline: 韓国のピョンチャンで来年２月にオリンピック、３月にパラリンピックがあります。
+outline_with_ruby: <ruby>韓国<rt>かんこく</rt></ruby>のピョンチャンで<ruby>来年<rt>らいねん</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>にオリンピック、３<ruby>月<rt>がつ</rt></ruby>にパラリンピックがあります。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/14/K10011222871_1711141418_1711141420_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/15/k10011222871000.mp3
+content_with_ruby: "<p><ruby>韓国<rt>かんこく</rt></ruby>のピョンチャンで<ruby>来年<rt>らいねん</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>に<span\
+  \ style=\"color: blue;\">オリンピック</span>、３<ruby>月<rt>がつ</rt></ruby>に<span style=\"\
+  color: blue;\">パラリンピック</span>があります。</p>\n<p><span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>は１３<ruby>日<rt>にち</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>で、この２つの<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>のときは<ruby>戦争<rt>せんそう</rt></ruby>をやめようと<span\
+  \ style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>に<ruby>入<rt>はい</rt></ruby>っている<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>国<rt>くに</rt></ruby>に<ruby>言<rt>い</rt></ruby>うことを<ruby>決<rt>き</rt></ruby>めました。<span\
+  \ style=\"color: blue;\">オリンピック</span>の<ruby>７日<rt>なのか</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<span\
+  \ style=\"color: blue;\">パラリンピック</span>の<ruby>７日<rt>なのか</rt></ruby>あとまでやめようと<ruby>言<rt>い</rt></ruby>います。</p>\n\
+  <p><span style=\"color: blue;\">オリンピック</span>の<span style=\"color: blue;\">フィギュアスケート</span>で<span\
+  \ style=\"color: blue;\"><ruby>金<rt>きん</rt></ruby></span><span style=\"color: blue;\"\
+  >メダル</span>を<ruby>取<rt>と</rt></ruby>って、<span style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>宣伝<rt>せんでん</rt></ruby></span>などの<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>韓国<rt>かんこく</rt></ruby>のキム・ヨナさんは「ピョンチャンオリンピックが<span\
+  \ style=\"color: blue;\"><ruby>平和<rt>へいわ</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">イベント</span>になって、みんなの<ruby>心<rt>こころ</rt></ruby>を１つにすると<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>４年</rb><rt>よねん</rt></ruby>に<ruby><rb>１度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: 大会
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+  - ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: フィギュア
+  descriptions:
+  - <ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>を、<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせておどるようにすべって、<ruby><rb>美</rb><rt>うつく</rt></ruby>しさやわざをきそうスケート<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+- word: 金
+  descriptions:
+  - <ruby><rb>黄色</rb><rt>きいろ</rt></ruby>いつやのある、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。こがね。
+  - こがね<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+  - おかね。
+  - 「<span class="dic_sansyogogi">1)</span>」のように、だいじな。りっぱな。
+  - かなもの。
+  - <ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>金曜日</rb><rt>きんようび</rt></ruby>。
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+- word: 宣伝
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>らせ<ruby><rb>広</rb><rt>ひろ</rt></ruby>めること。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>げさに<ruby><rb>言</rb><rt>い</rt></ruby>いふらすこと。
+- word: 平和
+  descriptions:
+  - おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011222871000/k10011222871000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/14/国連-ピョンチャン五輪で停戦決議採択
+...

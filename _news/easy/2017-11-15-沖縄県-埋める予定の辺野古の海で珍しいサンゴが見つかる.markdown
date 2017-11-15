@@ -1,0 +1,82 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011223391000
+last_modified_at: '2017-11-15T17:40:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ふん</rt></ruby>
+description: アメリカと日本の政府は、沖縄県にあるアメリカ軍の普天間基地を日本に返すことに決めました。
+title: 沖縄県　埋める予定の辺野古の海で珍しいサンゴが見つかる
+title_with_ruby: <ruby>沖縄県<rt>おきなわけん</rt></ruby>　<ruby>埋<rt>う</rt></ruby>める<ruby>予定<rt>よてい</rt></ruby>の<ruby>辺野古<rt>へのこ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<ruby>珍<rt>めずら</rt></ruby>しいサンゴが<ruby>見<rt>み</rt></ruby>つかる
+outline: アメリカと日本の政府は、沖縄県にあるアメリカ軍の普天間基地を日本に返すことに決めました。
+outline_with_ruby: アメリカと<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>政府<rt>せいふ</rt></ruby>は、<ruby>沖縄県<rt>おきなわけん</rt></ruby>にあるアメリカ<ruby>軍<rt>ぐん</rt></ruby>の<ruby>普天間基地<rt>ふてんまきち</rt></ruby>を<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>返<rt>かえ</rt></ruby>すことに<ruby>決<rt>き</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/14/K10011223391_1711142032_1711142036_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/15/k10011223391000.mp3
+content_with_ruby: "<p>アメリカと<ruby>日本<rt>にっぽん</rt></ruby>の<span style=\"color: blue;\"\
+  ><ruby>政府<rt>せいふ</rt></ruby></span>は、<ruby>沖縄県<rt>おきなわけん</rt></ruby>にあるアメリカ<span\
+  \ style=\"color: blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>の<ruby>普天間基地<rt>ふてんまきち</rt></ruby>を<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>返<rt>かえ</rt></ruby>すことに<ruby>決<rt>き</rt></ruby>めました。そして、<ruby>名護市<rt>なごし</rt></ruby><ruby>辺野古<rt>へのこ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>埋<rt>う</rt></ruby>め</span>て<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>基地<rt>きち</rt></ruby></span>をつくることになりました。<ruby>今年<rt>ことし</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>が<ruby>始<rt>はじ</rt></ruby>まっています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>防衛省<rt>ぼうえいしょう</rt></ruby></span>によると、<span\
+  \ style=\"color: blue;\"><ruby>埋<rt>う</rt></ruby>める</span><ruby>予定<rt>よてい</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>初<rt>はじ</rt></ruby>めに「オキナワハマサンゴ」と「ヒメサンゴ」という<ruby>珍<rt>めずら</rt></ruby>しい<span\
+  \ style=\"color: blue;\">サンゴ</span>がたくさん<ruby>見<rt>み</rt></ruby>つかりました。どちらの<span\
+  \ style=\"color: blue;\">サンゴ</span>も、<ruby>将来<rt>しょうらい</rt></ruby>いなくなる<span style=\"\
+  color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。</p>\n<p><ruby>辺野古<rt>へのこ</rt></ruby>では７<ruby>月<rt>がつ</rt></ruby>にも、<span\
+  \ style=\"color: blue;\"><ruby>埋<rt>う</rt></ruby>める</span><ruby>予定<rt>よてい</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で「オキナワハマサンゴ」が<ruby>見<rt>み</rt></ruby>つかっています。<span\
+  \ style=\"color: blue;\"><ruby>防衛省<rt>ぼうえいしょう</rt></ruby></span>は<ruby>沖縄県<rt>おきなわけん</rt></ruby>に、この<span\
+  \ style=\"color: blue;\">サンゴ</span>を<ruby>別<rt>べつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>移<rt>うつ</rt></ruby>す</span>ことを<span style=\"color:\
+  \ blue;\"><ruby>許可<rt>きょか</rt></ruby></span>してほしいと<ruby>言<rt>い</rt></ruby>いました。しかし、<ruby>沖縄県<rt>おきなわけん</rt></ruby>は<ruby>辺野古<rt>へのこ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>基地<rt>きち</rt></ruby></span>をつくることに<ruby>反対<rt>はんたい</rt></ruby>していて、<span\
+  \ style=\"color: blue;\"><ruby>許可<rt>きょか</rt></ruby></span>するかどうか<ruby>答<rt>こた</rt></ruby>えていません。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 埋める
+  descriptions:
+  - <ruby><rb>穴</rb><rt>あな</rt></ruby>をほって<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>土</rb><rt>つち</rt></ruby>や<ruby><rb>砂</rb><rt>すな</rt></ruby>をかぶせる。
+  - ふさいで<ruby><rb>平</rb><rt>たい</rt></ruby>らにする。
+  - すき<ruby><rb>間</rb><rt>ま</rt></ruby>なく、いっぱいにする。
+  - お<ruby><rb>湯</rb><rt>ゆ</rt></ruby>に<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて、ぬるくする。
+  - <ruby><rb>足</rb><rt>た</rt></ruby>りない<ruby><rb>分</rb><rt>ぶん</rt></ruby>を<ruby><rb>補</rb><rt>おぎな</rt></ruby>う。
+- word: 珊瑚
+  descriptions:
+  - <ruby><rb>暖</rb><rt>あたた</rt></ruby>かい<ruby><rb>海</rb><rt>うみ</rt></ruby>にいるサンゴチュウという<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>が<ruby><rb>群</rb><rt>む</rt></ruby>れをなして、<ruby><rb>海底</rb><rt>かいてい</rt></ruby>の<ruby><rb>岩</rb><rt>いわ</rt></ruby>などにつき、<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>枝</rb><rt>えだ</rt></ruby>のような<ruby><rb>形</rb><rt>かたち</rt></ruby>に<ruby><rb>成長</rb><rt>せいちょう</rt></ruby>したもの。また、それが<ruby><rb>死</rb><rt>し</rt></ruby>んで<ruby><rb>残</rb><rt>のこ</rt></ruby>った<ruby><rb>骨</rb><rt>ほね</rt></ruby>のようなもの。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 軍
+  descriptions:
+  - <ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。
+- word: 埋める
+  descriptions:
+  - <ruby><rb>穴</rb><rt>あな</rt></ruby>をほって<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>土</rb><rt>つち</rt></ruby>や<ruby><rb>砂</rb><rt>すな</rt></ruby>をかぶせる。
+  - ふさいで<ruby><rb>平</rb><rt>たい</rt></ruby>らにする。
+  - すき<ruby><rb>間</rb><rt>ま</rt></ruby>なく、いっぱいにする。
+  - お<ruby><rb>湯</rb><rt>ゆ</rt></ruby>に<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて、ぬるくする。
+  - <ruby><rb>足</rb><rt>た</rt></ruby>りない<ruby><rb>分</rb><rt>ぶん</rt></ruby>を<ruby><rb>補</rb><rt>おぎな</rt></ruby>う。
+- word: 基地
+  descriptions:
+  - ものごとをおし<ruby><rb>進</rb><rt>すす</rt></ruby>めるときの、よりどころとする<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: 工事
+  descriptions:
+  - <ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。
+- word: 防衛省
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>防衛</rb><rt>ぼうえい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>ち、<ruby><rb>自衛隊</rb><rt>じえいたい</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>仕切</rb><rt>しき</rt></ruby>る<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 移す
+  descriptions:
+  - <ruby><rb>場所</rb><rt>ばしょ</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - ものごとを<ruby><rb>進</rb><rt>すす</rt></ruby>める。
+  - <ruby><rb>感染</rb><rt>かんせん</rt></ruby>させる。
+- word: 許可
+  descriptions:
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>ていたことを、よいと<ruby><rb>許</rb><rt>ゆる</rt></ruby>すこと。<ruby><rb>許</rb><rt>ゆる</rt></ruby>し。
+source_url: http://www3.nhk.or.jp/news/easy/k10011223391000/k10011223391000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/14/辺野古埋め立て予定地で希少サンゴ-新たに発見
+...
