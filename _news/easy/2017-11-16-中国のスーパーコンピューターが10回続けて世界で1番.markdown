@@ -1,0 +1,55 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011223151000
+last_modified_at: '2017-11-16T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: アメリカなどの専門家のグループは、世界のスーパーコンピューターの計算の速さを比べて、ランキングを発表しました。
+title: 中国のスーパーコンピューターが１０回続けて世界で１番
+title_with_ruby: <ruby>中国<rt>ちゅうごく</rt></ruby>のスーパーコンピューターが１０<ruby>回<rt>かい</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>世界<rt>せかい</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby>
+outline: アメリカなどの専門家のグループは、世界のスーパーコンピューターの計算の速さを比べて、ランキングを発表しました。
+outline_with_ruby: アメリカなどの<ruby>専門家<rt>せんもんか</rt></ruby>のグループは、<ruby>世界<rt>せかい</rt></ruby>のスーパーコンピューターの<ruby>計算<rt>けいさん</rt></ruby>の<ruby>速<rt>はや</rt></ruby>さを<ruby>比<rt>くら</rt></ruby>べて、ランキングを<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/14/K10011223151_1711141751_1711141751_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/16/k10011223151000.mp3
+content_with_ruby: "<p>アメリカなどの<ruby>専門家<rt>せんもんか</rt></ruby>の<span style=\"color:\
+  \ blue;\">グループ</span>は、<ruby>世界<rt>せかい</rt></ruby>のスーパーコンピューターの<span style=\"color:\
+  \ blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>の<ruby>速<rt>はや</rt></ruby>さを<ruby>比<rt>くら</rt></ruby>べて、<span\
+  \ style=\"color: blue;\">ランキング</span>を<span style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n\
+  <p>１<ruby>番<rt>ばん</rt></ruby>は<ruby>中国<rt>ちゅうごく</rt></ruby>の「<ruby>神威<rt>しんい</rt></ruby>・<ruby>太湖之光<rt>たいこのひかり</rt></ruby>」で、１<span\
+  \ style=\"color: blue;\"><ruby>秒<rt>びょう</rt></ruby></span>に９<ruby>京<rt>けい</rt></ruby>３０００<span\
+  \ style=\"color: blue;\"><ruby>兆<rt>ちょう</rt></ruby></span><ruby>回<rt>かい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>ができます。１<ruby>京<rt>けい</rt></ruby>は１<span\
+  \ style=\"color: blue;\"><ruby>兆<rt>ちょう</rt></ruby></span>の１<ruby>万<rt>まん</rt></ruby><ruby>倍<rt>ばい</rt></ruby>です。<span\
+  \ style=\"color: blue;\">ランキング</span>の<span style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>は１<ruby>年<rt>ねん</rt></ruby>に２<ruby>回<rt>かい</rt></ruby>あって、<ruby>中国<rt>ちゅうごく</rt></ruby>は２０１３<ruby>年<rt>ねん</rt></ruby>６<ruby>月<rt>がつ</rt></ruby>から１０<ruby>回<rt>かい</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて１<ruby>番<rt>ばん</rt></ruby>です。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>作<rt>つく</rt></ruby>った「Ｇｙｏｕｋｏｕ（<ruby>暁光<rt>ぎょうこう</rt></ruby>）」の<span\
+  \ style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>の<ruby>速<rt>はや</rt></ruby>さは１<span\
+  \ style=\"color: blue;\"><ruby>秒<rt>びょう</rt></ruby></span>に１<ruby>京<rt>けい</rt></ruby>９１４０<span\
+  \ style=\"color: blue;\"><ruby>兆<rt>ちょう</rt></ruby></span><ruby>回<rt>かい</rt></ruby>で、４<ruby>番<rt>ばん</rt></ruby>になりました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 計算
+  descriptions:
+  - <ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。
+  - <ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。
+- word: ランキング
+  descriptions:
+  - <ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 秒
+  descriptions:
+  - <ruby><rb>時間</rb><rt>じかん</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。
+  - <ruby><rb>角度</rb><rt>かくど</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。
+- word: 兆
+  descriptions:
+  - <ruby><rb>１億</rb><rt>いちおく</rt></ruby>の<ruby><rb>１万倍</rb><rt>いちまんばい</rt></ruby>。
+  - しるし。<ruby><rb>前</rb><rt>まえ</rt></ruby>ぶれ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011223151000/k10011223151000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/14/スパコン世界ランク-中国勢が10期連続で1位-日本勢4位
+...

@@ -1,0 +1,101 @@
+---
+layout: web_news
+categories: web
+newsid: k10011223151000
+title: スパコン世界ランク 中国勢が10期連続で1位 日本勢４位
+title_with_ruby: スパコン<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>ランク <ruby>中<rt
+  data-ruby-level="1">ちゅう</rt></ruby><ruby>国勢<rt data-ruby-level="5">こくせい</rt></ruby>が10<ruby>期<rt
+  data-ruby-level="3">き</rt></ruby><ruby>連続<rt data-ruby-level="4">れんぞく</rt></ruby>で1<ruby>位<rt
+  data-ruby-level="4">い</rt></ruby> <ruby>日本勢<rt data-ruby-level="5">にほんぜい</rt></ruby>４<ruby>位<rt
+  data-ruby-level="4">い</rt></ruby>
+last_modified_at: '2017-11-14T18:25:00+09:00'
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>11<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>14<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 18<ruby>時<rt data-ruby-level="2">じ</rt></ruby>25<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: スーパーコンピューターの計算速度に関する最新の世界ランキングが発表され、中国が１０期連続で１位を守るとともに、上位５００台に占める数でもアメリカを大差で抜いて世界トップとなりました。日本からは、ベンチャー企業２社が開発したスーパーコンピューターが、最高の４位に入っています。
+summary: スーパーコンピューターの<ruby>計算<rt data-ruby-level="2">けいさん</rt></ruby><ruby>速度<rt data-ruby-level="3">そくど</rt></ruby>に<ruby>関<rt
+  data-ruby-level="4">かん</rt></ruby>する<ruby>最新<rt data-ruby-level="4">さいしん</rt></ruby>の<ruby>世界<rt
+  data-ruby-level="3">せかい</rt></ruby>ランキングが<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>され、<ruby>中国<rt
+  data-ruby-level="2">ちゅうごく</rt></ruby>が１０<ruby>期<rt data-ruby-level="3">き</rt></ruby><ruby>連続<rt
+  data-ruby-level="4">れんぞく</rt></ruby>で１<ruby>位<rt data-ruby-level="4">い</rt></ruby>を<ruby>守<rt
+  data-ruby-level="3">まも</rt></ruby>るとともに、<ruby>上位<rt data-ruby-level="4">じょうい</rt></ruby>５００<ruby>台<rt
+  data-ruby-level="2">だい</rt></ruby>に<ruby>占<rt data-ruby-level="7">し</rt></ruby>める<ruby>数<rt
+  data-ruby-level="2">かず</rt></ruby>でもアメリカを<ruby>大差<rt data-ruby-level="4">たいさ</rt></ruby>で<ruby>抜<rt
+  data-ruby-level="7">ぬ</rt></ruby>いて<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>トップとなりました。<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>からは、ベンチャー<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>２<ruby>社<rt
+  data-ruby-level="2">しゃ</rt></ruby>が<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>したスーパーコンピューターが、<ruby>最高<rt
+  data-ruby-level="4">さいこう</rt></ruby>の４<ruby>位<rt data-ruby-level="4">い</rt></ruby>に<ruby>入<rt
+  data-ruby-level="1">はい</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/14/K10011223151_1711141751_1711141751_01_02.jpg
+more: アメリカなどの<ruby>専門家<rt data-ruby-level="6">せんもんか</rt></ruby>が<ruby>半<rt data-ruby-level="2">はん</rt></ruby><ruby>年<rt
+  data-ruby-level="3">ねん</rt></ruby>に１<ruby>度<rt data-ruby-level="3">ど</rt></ruby>まとめている、スーパーコンピューターの<ruby>計算<rt
+  data-ruby-level="2">けいさん</rt></ruby><ruby>速度<rt data-ruby-level="3">そくど</rt></ruby>に<ruby>関<rt
+  data-ruby-level="4">かん</rt></ruby>する<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>ランキング「ＴＯＰ５００」の<ruby>最新<rt
+  data-ruby-level="4">さいしん</rt></ruby><ruby>結果<rt data-ruby-level="4">けっか</rt></ruby>が<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>され、<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>の「<ruby>神威<rt
+  data-ruby-level="8">かもい</rt></ruby>・<ruby>太湖<rt data-ruby-level="3">たいこ</rt></ruby><ruby>之<rt
+  data-ruby-level="8">の</rt></ruby><ruby>光<rt data-ruby-level="2">ひかり</rt></ruby>」が１<ruby>秒<rt
+  data-ruby-level="3">びょう</rt></ruby><ruby>当<rt data-ruby-level="2">あ</rt></ruby>たり９<ruby>京<rt
+  data-ruby-level="2">きょう</rt></ruby>３０００<ruby>兆<rt data-ruby-level="4">ちょう</rt></ruby><ruby>回<rt
+  data-ruby-level="2">かい</rt></ruby>の<ruby>計算<rt data-ruby-level="2">けいさん</rt></ruby><ruby>速度<rt
+  data-ruby-level="3">そくど</rt></ruby>で、４<ruby>期<rt data-ruby-level="3">き</rt></ruby><ruby>続<rt
+  data-ruby-level="4">つづ</rt></ruby>けて１<ruby>位<rt data-ruby-level="4">い</rt></ruby>を<ruby>守<rt
+  data-ruby-level="3">まも</rt></ruby>りました。<ruby>中<rt data-ruby-level="1">ちゅう</rt></ruby><ruby>国勢<rt
+  data-ruby-level="5">こくせい</rt></ruby>の１<ruby>位<rt data-ruby-level="4">い</rt></ruby><ruby>獲得<rt
+  data-ruby-level="7">かくとく</rt></ruby>は、２０１３<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>６<ruby>月以来<rt
+  data-ruby-level="4">がついらい</rt></ruby>１０<ruby>期<rt data-ruby-level="3">き</rt></ruby><ruby>連続<rt
+  data-ruby-level="4">れんぞく</rt></ruby>です。<br /><br />また、<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>はＴＯＰ５００に<ruby>占<rt
+  data-ruby-level="7">し</rt></ruby>める<ruby>数<rt data-ruby-level="2">かず</rt></ruby>でも<ruby>今期<rt
+  data-ruby-level="3">こんき</rt></ruby>、２０２<ruby>台<rt data-ruby-level="2">だい</rt></ruby>がランクインし、アメリカの１４３<ruby>台<rt
+  data-ruby-level="2">だい</rt></ruby>を<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きく<ruby>上回<rt
+  data-ruby-level="2">うわまわ</rt></ruby>って<ruby>大差<rt data-ruby-level="4">たいさ</rt></ruby>で<ruby>世界<rt
+  data-ruby-level="3">せかい</rt></ruby>のトップに<ruby>立<rt data-ruby-level="1">た</rt></ruby>ちました。<br
+  /><br /><ruby>日本勢<rt data-ruby-level="5">にほんぜい</rt></ruby>では、ベンチャー<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>のＥｘａＳｃａｌｅｒとＰＥＺＹＣｏｍｐｕｔｉｎｇが<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>した「Ｇｙｏｕｋｏｕ（<ruby>暁光<rt data-ruby-level="7">ぎょうこう</rt></ruby>）」が、１<ruby>秒<rt
+  data-ruby-level="3">びょう</rt></ruby><ruby>当<rt data-ruby-level="2">あ</rt></ruby>たり１<ruby>京<rt
+  data-ruby-level="2">きょう</rt></ruby>９１４０<ruby>兆<rt data-ruby-level="4">ちょう</rt></ruby><ruby>回<rt
+  data-ruby-level="2">かい</rt></ruby>の<ruby>計算<rt data-ruby-level="2">けいさん</rt></ruby><ruby>速度<rt
+  data-ruby-level="3">そくど</rt></ruby>で４<ruby>位<rt data-ruby-level="4">い</rt></ruby>に<ruby>入<rt
+  data-ruby-level="1">はい</rt></ruby>りました。<br /><br />２<ruby>社<rt data-ruby-level="2">しゃ</rt></ruby>のスーパーコンピューターは、<ruby>同時<rt
+  data-ruby-level="2">どうじ</rt></ruby>に<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>された<ruby>省<rt
+  data-ruby-level="4">しょう</rt></ruby><ruby>エネ<rt data-ruby-level="4">えね</rt></ruby><ruby>性能<rt
+  data-ruby-level="5">せいのう</rt></ruby>を<ruby>比較<rt data-ruby-level="7">ひかく</rt></ruby>するランキング「Ｇｒｅｅｎ５００」でも、１<ruby>位<rt
+  data-ruby-level="4">い</rt></ruby>から３<ruby>位<rt data-ruby-level="4">い</rt></ruby>までを<ruby>独占<rt
+  data-ruby-level="7">どくせん</rt></ruby>していて、<ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby><ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>した「Ｇｙｏｕｋｏｕ」も<ruby>消費<rt data-ruby-level="4">しょうひ</rt></ruby><ruby>電力<rt
+  data-ruby-level="2">でんりょく</rt></ruby>１ワット<ruby>当<rt data-ruby-level="2">あ</rt></ruby>たりの<ruby>計算<rt
+  data-ruby-level="2">けいさん</rt></ruby><ruby>回数<rt data-ruby-level="2">かいすう</rt></ruby>が、１<ruby>秒間<rt
+  data-ruby-level="3">びょうかん</rt></ruby>に１４１<ruby>億<rt data-ruby-level="4">おく</rt></ruby>７０００<ruby>万<rt
+  data-ruby-level="2">まん</rt></ruby><ruby>回<rt data-ruby-level="2">かい</rt></ruby>となり、５<ruby>位<rt
+  data-ruby-level="4">い</rt></ruby>に<ruby>入<rt data-ruby-level="1">はい</rt></ruby>りました。
+body:
+- title: <ruby>東大<rt data-ruby-level="2">とうだい</rt></ruby> <ruby>中村<rt data-ruby-level="1">なかむら</rt></ruby>センター<ruby>長<rt
+    data-ruby-level="2">ちょう</rt></ruby>「<ruby>投<rt data-ruby-level="3">とう</rt></ruby>じられる<ruby>国家<rt
+    data-ruby-level="2">こっか</rt></ruby><ruby>予算<rt data-ruby-level="3">よさん</rt></ruby>の<ruby>額<rt
+    data-ruby-level="5">がく</rt></ruby>に<ruby>左右<rt data-ruby-level="1">さゆう</rt></ruby>される」
+  text: <ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>のＴＯＰ５００の<ruby>結果<rt data-ruby-level="4">けっか</rt></ruby>について、スーパーコンピューターの<ruby>開発<rt
+    data-ruby-level="3">かいはつ</rt></ruby>に<ruby>詳<rt data-ruby-level="7">くわ</rt></ruby>しい<ruby>東京大学<rt
+    data-ruby-level="2">とうきょうだいがく</rt></ruby><ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby><ruby>基盤<rt
+    data-ruby-level="7">きばん</rt></ruby>センターの<ruby>中村<rt data-ruby-level="1">なかむら</rt></ruby><ruby>宏<rt
+    data-ruby-level="8">ひろし</rt></ruby>センター<ruby>長<rt data-ruby-level="2">ちょう</rt></ruby>は「スーパーコンピューターの<ruby>利用<rt
+    data-ruby-level="4">りよう</rt></ruby>はビッグデータやＡＩなどの<ruby>分野<rt data-ruby-level="2">ぶんや</rt></ruby>にも<ruby>広<rt
+    data-ruby-level="2">ひろ</rt></ruby>がっており、<ruby>社会<rt data-ruby-level="2">しゃかい</rt></ruby><ruby>基盤<rt
+    data-ruby-level="7">きばん</rt></ruby>インフラとしての<ruby>重要性<rt data-ruby-level="5">じゅうようせい</rt></ruby>はますます<ruby>増大<rt
+    data-ruby-level="5">ぞうだい</rt></ruby>している。ＴＯＰ５００のランクインの<ruby>数<rt data-ruby-level="2">かず</rt></ruby>は、この<ruby>分野<rt
+    data-ruby-level="2">ぶんや</rt></ruby>に<ruby>投<rt data-ruby-level="3">とう</rt></ruby>じられている<ruby>国家<rt
+    data-ruby-level="2">こっか</rt></ruby><ruby>予算<rt data-ruby-level="3">よさん</rt></ruby>の<ruby>額<rt
+    data-ruby-level="5">がく</rt></ruby>に<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きく<ruby>左右<rt
+    data-ruby-level="1">さゆう</rt></ruby>されていて、<ruby>予算額<rt data-ruby-level="5">よさんがく</rt></ruby>でアメリカを<ruby>上回<rt
+    data-ruby-level="2">うわまわ</rt></ruby>る<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>がトップに<ruby>立<rt
+    data-ruby-level="1">た</rt></ruby>つことは<ruby>驚<rt data-ruby-level="7">おどろ</rt></ruby>きではない。<ruby>重要<rt
+    data-ruby-level="4">じゅうよう</rt></ruby>なことは<ruby>社会<rt data-ruby-level="2">しゃかい</rt></ruby>が<ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>とする<ruby>役割<rt data-ruby-level="6">やくわり</rt></ruby>を<ruby>担<rt
+    data-ruby-level="7">にな</rt></ruby>うことであり、その<ruby>意味<rt data-ruby-level="3">いみ</rt></ruby>では<ruby>日本<rt
+    data-ruby-level="1">にっぽん</rt></ruby>も<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>としのぎを<ruby>削<rt
+    data-ruby-level="7">けず</rt></ruby>っているが、<ruby>予算額<rt data-ruby-level="5">よさんがく</rt></ruby>では<ruby>中国<rt
+    data-ruby-level="2">ちゅうごく</rt></ruby>、アメリカに<ruby>水<rt data-ruby-level="1">みず</rt></ruby>をあけられていることは<ruby>大<rt
+    data-ruby-level="1">おお</rt></ruby>きな<ruby>懸念<rt data-ruby-level="7">けねん</rt></ruby><ruby>材料<rt
+    data-ruby-level="4">ざいりょう</rt></ruby>だ」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>しています。
+source_url: https://www3.nhk.or.jp/news/html/20171114/k10011223151000.html
+easy_news_url: https://newswebeasy.github.io/news/easy/2017/11/16/中国のスーパーコンピューターが10回続けて世界で1番
+...
