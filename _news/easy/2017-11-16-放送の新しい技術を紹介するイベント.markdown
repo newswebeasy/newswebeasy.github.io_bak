@@ -1,0 +1,49 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011224391000
+last_modified_at: '2017-11-16T17:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 放送の新しい技術を紹介するイベントが１５日から千葉市の幕張メッセで始まりました。
+title: 放送の新しい技術を紹介するイベント
+title_with_ruby: <ruby>放送<rt>ほうそう</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント
+outline: 放送の新しい技術を紹介するイベントが１５日から千葉市の幕張メッセで始まりました。
+outline_with_ruby: <ruby>放送<rt>ほうそう</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベントが１５<ruby>日<rt>にち</rt></ruby>から<ruby>千葉市<rt>ちばし</rt></ruby>の<ruby>幕張<rt>まくはり</rt></ruby>メッセで<ruby>始<rt>はじ</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/15/K10011224391_1711151528_1711151529_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/16/k10011224391000.mp3
+content_with_ruby: "<p><ruby>放送<rt>ほうそう</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する<span\
+  \ style=\"color: blue;\">イベント</span>が１５<ruby>日<rt>にち</rt></ruby>から<ruby>千葉市<rt>ちばし</rt></ruby>の<ruby>幕張<rt>まくはり</rt></ruby>メッセで<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>今年<rt>ことし</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>や<ruby>外国<rt>がいこく</rt></ruby>の１１３９の<ruby>会社<rt>かいしゃ</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>しています。</p>\n\
+  <p>ソニーは、ニュースを<ruby>上手<rt>じょうず</rt></ruby>に<ruby>読<rt>よ</rt></ruby>むＣＧ＝コンピューターグラフィックスの<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>しています。ＣＧのアナウンサーがニュースを<ruby>読<rt>よ</rt></ruby>むと、<ruby>顔<rt>かお</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>表情<rt>ひょうじょう</rt></ruby></span>も<ruby>変<rt>か</rt></ruby>わります。</p>\n\
+  <p><ruby>富士通<rt>ふじつう</rt></ruby>は、<ruby>日本語<rt>にほんご</rt></ruby>をすぐに<ruby>英語<rt>えいご</rt></ruby>などに<ruby>翻訳<rt>ほんやく</rt></ruby>して、<span\
+  \ style=\"color: blue;\"><ruby>画面<rt>がめん</rt></ruby></span>に<ruby>出<rt>だ</rt></ruby>す<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>しています。１９の<ruby>外国語<rt>がいこくご</rt></ruby>を<ruby>翻訳<rt>ほんやく</rt></ruby>することができます。この<ruby>技術<rt>ぎじゅつ</rt></ruby>はスポーツの<ruby>放送<rt>ほうそう</rt></ruby>などに<ruby>使<rt>つか</rt></ruby>うことができそうです。</p>\n\
+  <p>ＮＨＫは、<span style=\"color: blue;\">ハイビジョン</span>の１６<ruby>倍<rt>ばい</rt></ruby>きれいな「８Ｋ」のカメラで<ruby>撮<rt>と</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>映像<rt>えいぞう</rt></ruby></span>を<ruby>放送<rt>ほうそう</rt></ruby>する<ruby>車<rt>くるま</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>しています。８Ｋの<ruby>放送<rt>ほうそう</rt></ruby>は、<ruby>来年<rt>らいねん</rt></ruby>１２<ruby>月<rt>がつ</rt></ruby>にＮＨＫで<ruby>始<rt>はじ</rt></ruby>まります。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 表情
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>顔</rb><rt>かお</rt></ruby>や<ruby><rb>身</rb><rt>み</rt></ruby>ぶりに<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、その<ruby><rb>顔</rb><rt>かお</rt></ruby>つき。
+- word: 画面
+  descriptions:
+  - <ruby><rb>映画</rb><rt>えいが</rt></ruby>やテレビが<ruby><rb>映</rb><rt>うつ</rt></ruby>っている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+- word: ハイビジョン
+  descriptions:
+  - <ruby><rb>鮮明</rb><rt>せんめい</rt></ruby>な<ruby><rb>画像</rb><rt>がぞう</rt></ruby>と<ruby><rb>良質</rb><rt>りょうしつ</rt></ruby>な<ruby><rb>音声</rb><rt>おんせい</rt></ruby>を<ruby><rb>実現</rb><rt>じつげん</rt></ruby>した<ruby><rb>最新式</rb><rt>さいしんしき</rt></ruby>のテレビ。
+- word: 映像
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>によって<ruby><rb>映</rb><rt>うつ</rt></ruby>し<ruby><rb>出</rb><rt>だ</rt></ruby>された、<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+  - <ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にうかんだ<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やようす。イメージ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011224391000/k10011224391000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/15/8Kなど最新技術を紹介-国際放送機器展-始まる
+...

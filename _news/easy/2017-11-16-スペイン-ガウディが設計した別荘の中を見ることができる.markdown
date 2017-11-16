@@ -1,0 +1,72 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011225121000
+last_modified_at: '2017-11-16T17:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: スペインのバルセロナにある「カサ・ビセンス」は、世界で有名な建築家のアントニオ・ガウディが初めて設計した別荘だと言われています。
+title: スペイン　ガウディが設計した別荘の中を見ることができる
+title_with_ruby: スペイン　ガウディが<ruby>設計<rt>せっけい</rt></ruby>した<ruby>別荘<rt>べっそう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>見<rt>み</rt></ruby>ることができる
+outline: スペインのバルセロナにある「カサ・ビセンス」は、世界で有名な建築家のアントニオ・ガウディが初めて設計した別荘だと言われています。
+outline_with_ruby: スペインのバルセロナにある「カサ・ビセンス」は、<ruby>世界<rt>せかい</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>建築<rt>けんちく</rt></ruby><ruby>家<rt>か</rt></ruby>のアントニオ・ガウディが<ruby>初<rt>はじ</rt></ruby>めて<ruby>設計<rt>せっけい</rt></ruby>した<ruby>別荘<rt>べっそう</rt></ruby>だと<ruby>言<rt>い</rt></ruby>われています。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/16/K10011225121_1711160431_1711160445_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/16/k10011225121000.mp3
+content_with_ruby: "<p>スペインのバルセロナにある「カサ・ビセンス」は、<ruby>世界<rt>せかい</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>な<span\
+  \ style=\"color: blue;\"><ruby>建築<rt>けんちく</rt></ruby></span><ruby>家<rt>か</rt></ruby>のアントニオ・ガウディが<ruby>初<rt>はじ</rt></ruby>めて<span\
+  \ style=\"color: blue;\"><ruby>設計<rt>せっけい</rt></ruby></span>した<span style=\"color:\
+  \ blue;\"><ruby>別荘<rt>べっそう</rt></ruby></span>だと<ruby>言<rt>い</rt></ruby>われています。１３０<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>建<rt>た</rt></ruby>てられた「カサ・ビセンス」の<ruby>中<rt>なか</rt></ruby>に、<ruby>初<rt>はじ</rt></ruby>めて<ruby>入<rt>はい</rt></ruby>ることができるようになります。</p>\n\
+  <p><ruby>建物<rt>たてもの</rt></ruby>の<ruby>外<rt>そと</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>にはマリーゴールドの<ruby>花<rt>はな</rt></ruby>をかいた<span\
+  \ style=\"color: blue;\">タイル</span>が<ruby>貼<rt>は</rt></ruby>ってあります。<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には<span\
+  \ style=\"color: blue;\">オリーブ</span>などを<span style=\"color: blue;\">デザイン</span>した<span\
+  \ style=\"color: blue;\"><ruby>飾<rt>かざ</rt></ruby>り</span>があります。ガウディが<span style=\"\
+  color: blue;\"><ruby>設計<rt>せっけい</rt></ruby></span>したほかの<ruby>建物<rt>たてもの</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように、<span\
+  \ style=\"color: blue;\"><ruby>自然<rt>しぜん</rt></ruby></span>に<ruby>合<rt>あ</rt></ruby>うような<span\
+  \ style=\"color: blue;\">デザイン</span>になっています。</p>\n<p><ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ったことがある<ruby>男性<rt>だんせい</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>天井<rt>てんじょう</rt></ruby></span>や<ruby>部屋<rt>へや</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>飾<rt>かざ</rt></ruby>り</span>を<ruby>見<rt>み</rt></ruby>て、<span\
+  \ style=\"color: blue;\"><ruby>自然<rt>しぜん</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>にいるように<span\
+  \ style=\"color: blue;\"><ruby>感<rt>かん</rt></ruby>じ</span>ました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 設計
+  descriptions:
+  - <ruby><rb>家</rb><rt>いえ</rt></ruby>や<ruby><rb>機械</rb><rt>きかい</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>るとき、その<ruby><rb>計画</rb><rt>けいかく</rt></ruby>を<ruby><rb>細</rb><rt>こま</rt></ruby>かく<ruby><rb>図</rb><rt>ず</rt></ruby>にかくこと。また、その<ruby><rb>計画</rb><rt>けいかく</rt></ruby>。
+  - <ruby><rb>人生</rb><rt>じんせい</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>などの<ruby><rb>計画</rb><rt>けいかく</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てること。
+- word: 別荘
+  descriptions:
+  - <ruby><rb>海岸</rb><rt>かいがん</rt></ruby>や<ruby><rb>高原</rb><rt>こうげん</rt></ruby>などに、ふだん<ruby><rb>住</rb><rt>す</rt></ruby>む<ruby><rb>家</rb><rt>いえ</rt></ruby>とは<ruby><rb>別</rb><rt>べつ</rt></ruby>に<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>家</rb><rt>いえ</rt></ruby>。
+- word: 建築
+  descriptions:
+  - <ruby><rb>家</rb><rt>いえ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>などの<ruby><rb>建物</rb><rt>たてもの</rt></ruby>を<ruby><rb>建</rb><rt>た</rt></ruby>てること。
+- word: タイル
+  descriptions:
+  - <ruby><rb>粘土</rb><rt>ねんど</rt></ruby>を<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>板</rb><rt>いた</rt></ruby>のような<ruby><rb>形</rb><rt>かたち</rt></ruby>に<ruby><rb>焼</rb><rt>や</rt></ruby>いて<ruby><rb>色</rb><rt>いろ</rt></ruby>をつけ、つやを<ruby><rb>出</rb><rt>だ</rt></ruby>した<ruby><rb>建築</rb><rt>けんちく</rt></ruby>の<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>。ふろ<ruby><rb>場</rb><rt>ば</rt></ruby>などにはる。
+- word: オリーブ
+  descriptions:
+  - <ruby><rb>実</rb><rt>み</rt></ruby>からオリーブ<ruby><rb>油</rb><rt>ゆ</rt></ruby>をとる<ruby><rb>木</rb><rt>き</rt></ruby>。<ruby><rb>地中海地方</rb><rt>ちちゅうかいちほう</rt></ruby>や<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>小豆島</rb><rt>しょうどしま</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: デザイン
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。
+  - <ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。
+- word: 飾り
+  descriptions:
+  - <ruby><rb>飾</rb><rt>かざ</rt></ruby>ること。また、<ruby><rb>飾</rb><rt>かざ</rt></ruby>って<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>見</rb><rt>み</rt></ruby>せるもの。
+- word: 自然
+  descriptions:
+  - <ruby><rb>山</rb><rt>やま</rt></ruby>・<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>草</rb><rt>くさ</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>・<ruby><rb>雲</rb><rt>くも</rt></ruby>・<ruby><rb>雨</rb><rt>あめ</rt></ruby>・<ruby><rb>雪</rb><rt>ゆき</rt></ruby>など、<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>作</rb><rt>つく</rt></ruby>ったものでない<ruby><rb>物</rb><rt>もの</rt></ruby>。
+  - もともとの<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>備</rb><rt>そな</rt></ruby>えていること。
+  - わざとらしくないようす。
+  - ひとりでに。いつのまにか。
+- word: 天井
+  descriptions:
+  - <ruby><rb>部屋</rb><rt>へや</rt></ruby>の<ruby><rb>上部</rb><rt>じょうぶ</rt></ruby>に<ruby><rb>板</rb><rt>いた</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>ったもの。また、その<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - ものごとのいちばん<ruby><rb>高</rb><rt>たか</rt></ruby>いところ。
+- word: 感じる
+  descriptions:
+  - <ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。
+  - <ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。
+source_url: http://www3.nhk.or.jp/news/easy/k10011225121000/k10011225121000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/16/ガウディ設計の別荘が初公開へ-スペイン
+...
