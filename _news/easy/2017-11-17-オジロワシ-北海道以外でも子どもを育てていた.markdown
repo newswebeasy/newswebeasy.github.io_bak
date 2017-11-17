@@ -1,0 +1,80 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011225501000
+last_modified_at: '2017-11-17T17:20:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>17<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: オジロワシは、アジアとヨーロッパの北のほうにいる大きなワシです。
+title: オジロワシ　北海道以外でも子どもを育てていた
+title_with_ruby: オジロワシ　<ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>以外<rt>いがい</rt></ruby>でも<ruby>子<rt>こ</rt></ruby>どもを<ruby>育<rt>そだ</rt></ruby>てていた
+outline: オジロワシは、アジアとヨーロッパの北のほうにいる大きなワシです。
+outline_with_ruby: オジロワシは、アジアとヨーロッパの<ruby>北<rt>きた</rt></ruby>のほうにいる<ruby>大<rt>おお</rt></ruby>きなワシです。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/16/K10011225501_1711161332_1711161335_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/17/k10011225501000.mp3
+content_with_ruby: "<p>オジロワシは、アジアと<span style=\"color: blue;\">ヨーロッパ</span>の<ruby>北<rt>きた</rt></ruby>の<span\
+  \ style=\"color: blue;\">ほう</span>にいる<ruby>大<rt>おお</rt></ruby>きな<span style=\"color:\
+  \ blue;\">ワシ</span>です。<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>北海道<rt>ほっかいどう</rt></ruby>だけで<ruby>卵<rt>たまご</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>産<rt>う</rt></ruby>ん</span>で<ruby>子<rt>こ</rt></ruby>どもを<ruby>育<rt>そだ</rt></ruby>てていると<ruby>考<rt>かんが</rt></ruby>えられていて、<ruby>将来<rt>しょうらい</rt></ruby>いなくなる<ruby>心配<rt>しんぱい</rt></ruby>があります。</p>\n\
+  <p>「<ruby>日本野鳥<rt>にほんやちょう</rt></ruby>の<ruby>会<rt>かい</rt></ruby>」は<ruby>去年<rt>きょねん</rt></ruby>、<ruby>青森県<rt>あおもりけん</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span>を<ruby>行<rt>おこな</rt></ruby>いました。その<span\
+  \ style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>、<ruby>六ヶ所村<rt>ろっかしょむら</rt></ruby>の<ruby>林<rt>はやし</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>巣<rt>す</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>っているオジロワシの<span\
+  \ style=\"color: blue;\"><ruby>雄<rt>おす</rt></ruby></span>と<span style=\"color: blue;\"\
+  ><ruby>雌<rt>めす</rt></ruby></span>と２<span style=\"color: blue;\"><ruby>羽<rt>わ</rt></ruby></span>の<ruby>子<rt>こ</rt></ruby>どもが<ruby>見<rt>み</rt></ruby>つかりました。<ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>以外<rt>いがい</rt></ruby>で<ruby>子<rt>こ</rt></ruby>どもを<ruby>育<rt>そだ</rt></ruby>てているオジロワシが<ruby>見<rt>み</rt></ruby>つかったのは<ruby>初<rt>はじ</rt></ruby>めてです。<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>には、<ruby>青森県<rt>あおもりけん</rt></ruby>の<ruby>津軽地方<rt>つがるちほう</rt></ruby>でも<ruby>子<rt>こ</rt></ruby>どもを<ruby>育<rt>そだ</rt></ruby>てているオジロワシが<ruby>見<rt>み</rt></ruby>つかりました。</p>\n\
+  <p><ruby>日本野鳥<rt>にほんやちょう</rt></ruby>の<ruby>会<rt>かい</rt></ruby>は、オジロワシが<span style=\"\
+  color: blue;\"><ruby>巣<rt>す</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>る<span style=\"\
+  color: blue;\"><ruby>松<rt>まつ</rt></ruby></span>や<span style=\"color: blue;\"><ruby>杉<rt>すぎ</rt></ruby></span>の<ruby>木<rt>き</rt></ruby>が<ruby>青森県<rt>あおもりけん</rt></ruby>で<ruby>増<rt>ふ</rt></ruby>えていることが<ruby>理由<rt>りゆう</rt></ruby>の１つかもしれないと<ruby>言<rt>い</rt></ruby>っています。<ruby>専門家<rt>せんもんか</rt></ruby>は「オジロワシを<ruby>大切<rt>たいせつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>る</span>ために、<ruby>子<rt>こ</rt></ruby>どもを<ruby>育<rt>そだ</rt></ruby>てている<ruby>所<rt>ところ</rt></ruby>には<ruby>行<rt>い</rt></ruby>かないようにしてください」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: 方
+  descriptions:
+  - <ruby><rb>向</rb><rt>む</rt></ruby>き。
+  - それぞれの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。
+  - <ruby><rb>四角</rb><rt>しかく</rt></ruby>。
+  - やりかた。
+  - <ruby><rb>分</rb><rt>わ</rt></ruby>けたときの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>部類</rb><rt>ぶるい</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>をうやまって<ruby><rb>言</rb><rt>い</rt></ruby>うことば。かた。
+- word: 鷲
+  descriptions:
+  - <ruby><rb>森</rb><rt>もり</rt></ruby>や<ruby><rb>山</rb><rt>やま</rt></ruby>にすむ、くちばしとつめのするどい<ruby><rb>鳥</rb><rt>とり</rt></ruby>。タカの<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>のうち、<ruby><rb>大</rb><rt>おお</rt></ruby>きなものをいう。イヌワシ・オジロワシなどがいるが、しだいに<ruby><rb>数</rb><rt>かず</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなっている。
+- word: 産む
+  descriptions:
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+- word: 調査
+  descriptions:
+  - <ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+- word: 巣
+  descriptions:
+  - <ruby><rb>鳥</rb><rt>とり</rt></ruby>・<ruby><rb>虫</rb><rt>むし</rt></ruby>・<ruby><rb>魚</rb><rt>さかな</rt></ruby>などのすみか。
+  - （よくない<ruby><rb>者</rb><rt>もの</rt></ruby>が）<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 雄
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>男性</rb><rt>だんせい</rt></ruby>にあたるもの。
+- word: 雌
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>を<ruby><rb>生</rb><rt>う</rt></ruby>む<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>があるほう。
+- word: 羽
+  descriptions:
+  - <ruby><rb>鳥</rb><rt>とり</rt></ruby>やウサギを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 松
+  descriptions:
+  - <ruby><rb>幹</rb><rt>みき</rt></ruby>はざらざらして、<ruby><rb>針</rb><rt>はり</rt></ruby>のような<ruby><rb>緑</rb><rt>みどり</rt></ruby>の<ruby><rb>葉</rb><rt>は</rt></ruby>を<ruby><rb>一年</rb><rt>いちねん</rt></ruby>じゅうつけている<ruby><rb>木</rb><rt>き</rt></ruby>。アカマツ・クロマツ・エゾマツなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>枝</rb><rt>えだ</rt></ruby>を<ruby><rb>正月</rb><rt>しょうがつ</rt></ruby>の<ruby><rb>門松</rb><rt>かどまつ</rt></ruby>として<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+- word: 杉
+  descriptions:
+  - すぎ。<ruby><rb>幹</rb><rt>みき</rt></ruby>がまっすぐで、<ruby><rb>針</rb><rt>はり</rt></ruby>のような<ruby><rb>葉</rb><rt>は</rt></ruby>が<ruby><rb>一年</rb><rt>いちねん</rt></ruby>じゅう<ruby><rb>緑色</rb><rt>みどりいろ</rt></ruby>をしている<ruby><rb>高木</rb><rt>こうぼく</rt></ruby>。<ruby><rb>建築</rb><rt>けんちく</rt></ruby>や<ruby><rb>家具</rb><rt>かぐ</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011225501000/k10011225501000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/16/北海道のみのオジロワシ-本州で繁殖を初確認-青森
+...

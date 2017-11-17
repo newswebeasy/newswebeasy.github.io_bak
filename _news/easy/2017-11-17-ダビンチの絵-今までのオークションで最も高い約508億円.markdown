@@ -1,0 +1,52 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011225421000
+last_modified_at: '2017-11-17T17:20:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>17<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: レオナルド・ダビンチは「モナリザ」という有名な絵をかいた、ルネサンスの芸術家です。
+title: ダビンチの絵　今までのオークションで最も高い約５０８億円
+title_with_ruby: ダビンチの<ruby>絵<rt>え</rt></ruby>　<ruby>今<rt>いま</rt></ruby>までのオークションで<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>い<ruby>約<rt>やく</rt></ruby>５０８<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>
+outline: レオナルド・ダビンチは「モナリザ」という有名な絵をかいた、ルネサンスの芸術家です。
+outline_with_ruby: レオナルド・ダビンチは「モナリザ」という<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>絵<rt>え</rt></ruby>をかいた、ルネサンスの<ruby>芸術家<rt>げいじゅつか</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/16/K10011225421_1711161215_1711161216_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/17/k10011225421000.mp3
+content_with_ruby: "<p>レオナルド・ダビンチは「モナリザ」という<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>絵<rt>え</rt></ruby>をかいた、<span\
+  \ style=\"color: blue;\">ルネサンス</span>の<span style=\"color: blue;\"><ruby>芸術家<rt>げいじゅつか</rt></ruby></span>です。ダビンチの<ruby>絵<rt>え</rt></ruby>は<ruby>今<rt>いま</rt></ruby>、１６<ruby>枚<rt>まい</rt></ruby><ruby>残<rt>のこ</rt></ruby>っています。</p>\n\
+  <p>アメリカのニューヨークで１５<ruby>日<rt>にち</rt></ruby>、ダビンチが１５００<ruby>年<rt>ねん</rt></ruby>ごろにかいた「サルバトール・ムンディ」という<ruby>絵<rt>え</rt></ruby>の<span\
+  \ style=\"color: blue;\">オークション</span>がありました。<ruby>青<rt>あお</rt></ruby>い<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>たキリストが<ruby>右<rt>みぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げて、<ruby>左<rt>ひだり</rt></ruby>の<ruby>手<rt>て</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>水晶<rt>すいしょう</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>っている<ruby>絵<rt>え</rt></ruby>です。</p>\n\
+  <p>この<ruby>絵<rt>え</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>５０８<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>になりました。<span\
+  \ style=\"color: blue;\">オークション</span>の<ruby>会社<rt>かいしゃ</rt></ruby>は、<span style=\"\
+  color: blue;\"><ruby>美術品<rt>びじゅつひん</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>い<ruby>値段<rt>ねだん</rt></ruby>になったと<ruby>言<rt>い</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>はこの<ruby>絵<rt>え</rt></ruby>を<ruby>買<rt>か</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>などを<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>していません。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 競り売り
+  descriptions:
+  - <ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: ルネサンス
+  descriptions:
+  - <ruby><rb>十四</rb><rt>じゅうよん</rt></ruby><ruby><rb>世紀</rb><rt>せいき</rt></ruby>の<ruby><rb>末</rb><rt>すえ</rt></ruby>から<ruby><rb>十六</rb><rt>じゅうろく</rt></ruby><ruby><rb>世紀</rb><rt>せいき</rt></ruby>にかけてイタリアに<ruby><rb>起</rb><rt>お</rt></ruby>こり、ヨーロッパに<ruby><rb>広</rb><rt>ひろ</rt></ruby>がった<ruby><rb>運動</rb><rt>うんどう</rt></ruby>。<ruby><rb>昔</rb><rt>むかし</rt></ruby>のギリシャ・ローマの<ruby><rb>学問</rb><rt>がくもん</rt></ruby>・<ruby><rb>芸術</rb><rt>げいじゅつ</rt></ruby>のような、<ruby><rb>人間</rb><rt>にんげん</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にした<ruby><rb>新</rb><rt>あたら</rt></ruby>しい<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こそうとした。<ruby><rb>文芸復興</rb><rt>ぶんげいふっこう</rt></ruby>。ルネッサンス。
+- word: 芸術家
+  descriptions:
+  - <ruby><rb>芸術</rb><rt>げいじゅつ</rt></ruby>を<ruby><rb>仕事</rb><rt>しごと</rt></ruby>としている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>音楽家</rb><rt>おんがくか</rt></ruby>や<ruby><rb>画家</rb><rt>がか</rt></ruby>など。
+- word: 水晶
+  descriptions:
+  - <ruby><rb>石英</rb><rt>せきえい</rt></ruby>が<ruby><rb>六角形</rb><rt>ろっかくけい</rt></ruby>の<ruby><rb>柱</rb><rt>はしら</rt></ruby>になっている<ruby><rb>鉱物</rb><rt>こうぶつ</rt></ruby>。はんこやかざり<ruby><rb>物</rb><rt>もの</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+- word: 美術品
+  descriptions:
+  - <ruby><rb>絵</rb><rt>え</rt></ruby>・<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>など、<ruby><rb>美術</rb><rt>びじゅつ</rt></ruby>として<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのある<ruby><rb>作品</rb><rt>さくひん</rt></ruby>。<ruby><rb>美術作品</rb><rt>びじゅつさくひん</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011225421000/k10011225421000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/16/ダビンチの幻の作品-史上最高500億円超で落札
+...
