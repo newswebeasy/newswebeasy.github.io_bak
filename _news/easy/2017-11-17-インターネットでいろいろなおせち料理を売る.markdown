@@ -1,0 +1,52 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011224501000
+last_modified_at: '2017-11-17T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>17<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 正月まであと１か月半ぐらいになりました。
+title: インターネットでいろいろな「おせち料理」を売る
+title_with_ruby: インターネットでいろいろな「おせち<ruby>料理<rt>りょうり</rt></ruby>」を<ruby>売<rt>う</rt></ruby>る
+outline: 正月まであと１か月半ぐらいになりました。
+outline_with_ruby: <ruby>正月<rt>しょうがつ</rt></ruby>まであと１か<ruby>月<rt>げつ</rt></ruby><ruby>半<rt>はん</rt></ruby>ぐらいになりました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/15/K10011224501_1711151928_1711151938_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/17/k10011224501000.mp3
+content_with_ruby: "<p><ruby>正月<rt>しょうがつ</rt></ruby>まであと１か<ruby>月<rt>げつ</rt></ruby><ruby>半<rt>はん</rt></ruby>ぐらいになりました。インターネットでいろいろな<ruby>物<rt>もの</rt></ruby>を<ruby>売<rt>う</rt></ruby>っている<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>正月<rt>しょうがつ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べる「<span\
+  \ style=\"color: blue;\">おせち<ruby>料理<rt>りょうり</rt></ruby></span>」をたくさん<ruby>売<rt>う</rt></ruby>りたいと<ruby>考<rt>かんが</rt></ruby>えています。<span\
+  \ style=\"color: blue;\">おせち<ruby>料理<rt>りょうり</rt></ruby></span>は、いろいろな<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>箱<rt>はこ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れた<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>料理<rt>りょうり</rt></ruby>です。</p>\n\
+  <p>「アマゾン」は、２１<ruby>個<rt>こ</rt></ruby>の<ruby>箱<rt>はこ</rt></ruby>を<span style=\"color:\
+  \ blue;\"><ruby>重<rt>かさ</rt></ruby>ね</span>た<span style=\"color: blue;\">おせち<ruby>料理<rt>りょうり</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>りました。<ruby>高<rt>たか</rt></ruby>さは１ｍ<ruby>以上<rt>いじょう</rt></ruby>になります。１８<ruby>人<rt>にん</rt></ruby>で<ruby>食<rt>た</rt></ruby>べることができて、<ruby>値段<rt>ねだん</rt></ruby>は２０<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>です。<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>たちがパーティーをするときに<ruby>買<rt>か</rt></ruby>ってほしいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p>「ヤフー」や「<ruby>楽天<rt>らくてん</rt></ruby>」は、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>料理<rt>りょうり</rt></ruby>が<ruby>入<rt>はい</rt></ruby>っている<span\
+  \ style=\"color: blue;\"><ruby>商品<rt>しょうひん</rt></ruby></span>も<ruby>売<rt>う</rt></ruby>っています。<span\
+  \ style=\"color: blue;\">おせち<ruby>料理<rt>りょうり</rt></ruby></span>を<ruby>買<rt>か</rt></ruby>う<ruby>前<rt>まえ</rt></ruby>に<ruby>味<rt>あじ</rt></ruby>をチェックすることができます。この<span\
+  \ style=\"color: blue;\"><ruby>商品<rt>しょうひん</rt></ruby></span>を<ruby>楽<rt>たの</rt></ruby>しむお<span\
+  \ style=\"color: blue;\"><ruby>年寄<rt>としよ</rt></ruby>り</span>が<ruby>増<rt>ふ</rt></ruby>えているため、「ヤフー」は<span\
+  \ style=\"color: blue;\"><ruby>商品<rt>しょうひん</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>を<ruby>去年<rt>きょねん</rt></ruby>の３<ruby>倍<rt>ばい</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>増<rt>ふ</rt></ruby>やし</span>たと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: お節料理
+  descriptions:
+  - <ruby><rb>正月</rb><rt>しょうがつ</rt></ruby>や<ruby><rb>節句</rb><rt>せっく</rt></ruby>などに<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>料理</rb><rt>りょうり</rt></ruby>。ふつう<ruby><rb>正月</rb><rt>しょうがつ</rt></ruby>の、こぶ<ruby><rb>巻</rb><rt>ま</rt></ruby>きや<ruby><rb>煮</rb><rt>に</rt></ruby>しめなどのこと。
+- word: 重ねる
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に、ほかの<ruby><rb>物</rb><rt>もの</rt></ruby>をのせる。
+  - くり<ruby><rb>返</rb><rt>かえ</rt></ruby>す。
+- word: 商品
+  descriptions:
+  - <ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>買</rb><rt>か</rt></ruby>ったりするための<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+- word: 年寄り
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。
+  - <ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011224501000/k10011224501000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/15/ネット通販各社-おせち料理販売に注力-21段18人分も
+...
