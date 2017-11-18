@@ -79,6 +79,9 @@
     player.onplay = function(e) {
       playing.classList.add("playing");
     }
+    player.onpause = function(e) {
+      playing.classList.remove("playing");
+    }
 
     function play(el) {
       if (el != playing) {
