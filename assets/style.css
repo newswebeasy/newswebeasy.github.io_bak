@@ -14,9 +14,35 @@ li.dict {
 }
 
 .card {
-  padding-bottom: 10px;
-  margin-bottom: 10px;
+  display: block;
+  padding: 8px 0;
+}
+
+.card:not(:last-of-type) {
   border-bottom: 1px solid #e7e7eb;
+}
+
+.playing:before {
+  content: url('playing.gif');
+  float: right;
+}
+
+.card .newstitle {
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.card .newsdate {
+  font-size: 0.8em;
+  color: #8c8c8c;
+}
+
+.newslist {
+  margin-bottom: 20px;
+}
+
+.newslist h2.newstitle {
+  margin-right: 19px;
 }
 
 .easynewscontent>p {
@@ -30,17 +56,6 @@ h2.subtitle, .summary, .more, .body_text, .caption {
 
 h2.subtitle {
   padding-bottom: 10px;
-}
-
-.playing-icon {
-  display: inline-block;
-  margin-right: 5px;
-  width: 14px;
-  height: 14px;
-}
-
-.playing {
-  background: url(/assets/playing.gif) no-repeat center center;
 }
 
 .furigana_bar {

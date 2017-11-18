@@ -18,67 +18,24 @@
 
           <div class="rich_media_content">
 
-            <p class="blank"></p>
-            <p><audio id="player" class="fullwidth" controls autoplay></audio></p>
-            <p class="blank"></p>
+            <p><audio id="player" style="margin:20px 0; width:100%" controls></audio></p>
 
             {% assign newslist = site.news | sort: "last_modified_at" | reverse %}
-            <script type="text/javascript">
-              var cur = -1;
-              var urls = [
-              {% assign c = 0 %}
+            {% assign c = 0 %}
+            <div class="newslist">
               {% for post in newslist limit: 50 %}
               {% if post.categories == page.categories and post.voice_url %}
-              '{{ post.voice_url }}',
-              {% assign c = c | plus: 1 %}
-              {% if c >= 5 %}
-              {% break %}
-              {% endif %}
-              {% endif %}
-              {% endfor %} false
-              ];
-
-              urls.pop();
-              var player = document.getElementById('player');
-
-              player.onended = function() {
-                var i = (cur + 1) % urls.length;
-                play(i);
-              }
-
-              function play(i) {
-                if (i != cur) {
-                  var last = cur;
-                  cur = i;
-                  player.src = urls[cur];
-                  player.load();
-                  player.play();
-
-                  var l = document.getElementsByClassName('playing-icon');
-                  if (last >= 0) {
-                    l[last].classList.remove("playing");
-                  }
-                  l[cur].classList.add("playing");
-                }
-              }
-            </script>
-            <ul>
-              {% assign c = 0 %}
-              {% for post in newslist limit: 50 %}
-              {% if post.categories == page.categories and post.voice_url %}
-              <li class="card">
-                <p><span class="playing-icon"></span><a href="#" onclick="play({{ c }});return false;">{% if page.categories contains 'easy' %}{{ post.title_with_ruby }}{% else %}{{ post.title }}{% endif %}</a>　[<a style="font-size: 0.8em" href="{{ post.url }}">テキスト</a>]</p>
-              </li>
+              <a class="card" href="#" onclick="return play(this)" data-voice-url="{{ post.voice_url }}">
+                <h2 class="newstitle">{% if page.categories contains 'easy' %}{{ post.title_with_ruby }}{% else %}{{ post.title }}{% endif %}</h2>
+                <p class="newsdate">{{ post.last_modified_at | date: "%m月%d日 %H時%M分" }}</p>
+              </a>
               {% assign c = c | plus: 1 %}
               {% if c >= 5 %}
               {% break %}
               {% endif %}
               {% endif %}
               {% endfor %}
-            </ul>
-            <script type="text/javascript">
-              play(0);
-            </script>
+            </div>
 
             <p><img class="fullwidth" data-type="gif" src="/assets/qrcode.gif" data-ratio="0.5064308681672026" data-w="622" /></p>
           </div>
@@ -106,6 +63,49 @@
 
     </div>
   </div>
+
+  <script type="text/javascript">
+    var playing = null;
+    var playlist = document.getElementsByClassName('card');
+
+    var player = document.getElementById('player');
+    player.load();
+
+    var repeat_one = false;
+    player.onended = function() {
+      if (repeat_one) {
+        player.play();
+      } else {
+        var next = playing.nextElementSibling || playlist[0];
+        play(next);
+      }
+    }
+    player.onplay = function(e) {
+      playing.classList.add("playing");
+    }
+
+    function play(el) {
+      if (el != playing) {
+        var last = playing;
+        playing = el;
+        player.src = playing.dataset.voiceUrl;
+        player.load();
+
+        if (last) {
+          last.classList.remove("playing");
+        }
+      }
+
+      if (player.paused) {
+        player.play();
+      }
+
+      return false;
+    }
+
+    play(playlist[0]);
+  </script>
+
 </body>
 
 </html>
