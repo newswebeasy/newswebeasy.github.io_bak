@@ -30,7 +30,7 @@
                 <p class="newsdate">{{ post.last_modified_at | date: "%m月%d日 %H時%M分" }}</p>
               </a>
               {% assign c = c | plus: 1 %}
-              {% if c >= 5 %}
+              {% if c >= 10 %}
               {% break %}
               {% endif %}
               {% endif %}
@@ -49,7 +49,7 @@
           {% endunless %}
           <a class="media_tool_meta meta_primary" href="/radionews/">ラジオニュース</a>
         </div>
-        
+
       </div>
 
       <div class="rich_media_area_extra">
