@@ -1,0 +1,76 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011228821000
+last_modified_at: '2017-11-20T17:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: サウジアラビアでは、次の王になる予定のムハンマド皇太子などが、不正に財産を集めた人を調べています。
+title: サウジアラビア　捕まった王子に財産を国に出せと言う
+title_with_ruby: サウジアラビア　<ruby>捕<rt>つか</rt></ruby>まった<ruby>王子<rt>おうじ</rt></ruby>に<ruby>財産<rt>ざいさん</rt></ruby>を<ruby>国<rt>くに</rt></ruby>に<ruby>出<rt>だ</rt></ruby>せと<ruby>言<rt>い</rt></ruby>う
+outline: サウジアラビアでは、次の王になる予定のムハンマド皇太子などが、不正に財産を集めた人を調べています。
+outline_with_ruby: サウジアラビアでは、<ruby>次<rt>つぎ</rt></ruby>の<ruby>王<rt>おう</rt></ruby>になる<ruby>予定<rt>よてい</rt></ruby>のムハンマド<ruby>皇太子<rt>こうたいし</rt></ruby>などが、<ruby>不正<rt>ふせい</rt></ruby>に<ruby>財産<rt>ざいさん</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めた<ruby>人<rt>ひと</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べています。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/19/K10011228821_1711191931_1711191933_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/20/k10011228821000.mp3
+content_with_ruby: "<p>サウジアラビアでは、<ruby>次<rt>つぎ</rt></ruby>の<span style=\"color: blue;\"\
+  ><ruby>王<rt>おう</rt></ruby></span>になる<ruby>予定<rt>よてい</rt></ruby>のムハンマド<ruby>皇太子<rt>こうたいし</rt></ruby>などが、<span\
+  \ style=\"color: blue;\"><ruby>不正<rt>ふせい</rt></ruby></span>に<span style=\"color:\
+  \ blue;\"><ruby>財産<rt>ざいさん</rt></ruby></span>を<ruby>集<rt>あつ</rt></ruby>めた<ruby>人<rt>ひと</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べています。<ruby>今<rt>いま</rt></ruby>までに、<span\
+  \ style=\"color: blue;\"><ruby>地位<rt>ちい</rt></ruby></span>を<ruby>利用<rt>りよう</rt></ruby>して<span\
+  \ style=\"color: blue;\"><ruby>不正<rt>ふせい</rt></ruby></span>に<span style=\"color:\
+  \ blue;\"><ruby>財産<rt>ざいさん</rt></ruby></span>を<ruby>集<rt>あつ</rt></ruby>めたという<ruby>理由<rt>りゆう</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>王子<rt>おうじ</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>大臣<rt>だいじん</rt></ruby></span>など２０１<ruby>人<rt>にん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>捕<rt>つか</rt></ruby>まり</span>ました。</p>\n<p><ruby>外国<rt>がいこく</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>通信社<rt>つうしんしゃ</rt></ruby></span>によると、サウジアラビアの<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は<span style=\"color:\
+  \ blue;\"><ruby>捕<rt>つか</rt></ruby>まっ</span>た<ruby>人<rt>ひと</rt></ruby>に、<span style=\"\
+  color: blue;\"><ruby>不正<rt>ふせい</rt></ruby></span>に<ruby>集<rt>あつ</rt></ruby>めた<span\
+  \ style=\"color: blue;\"><ruby>財産<rt>ざいさん</rt></ruby></span>を<ruby>国<rt>くに</rt></ruby>に<ruby>出<rt>だ</rt></ruby>せば<ruby>自由<rt>じゆう</rt></ruby>にすると<ruby>言<rt>い</rt></ruby>っています。その<span\
+  \ style=\"color: blue;\"><ruby>財産<rt>ざいさん</rt></ruby></span>は<ruby>全部<rt>ぜんぶ</rt></ruby>で５<span\
+  \ style=\"color: blue;\"><ruby>兆<rt>ちょう</rt></ruby></span><ruby>円<rt>えん</rt></ruby>〜１０<span\
+  \ style=\"color: blue;\"><ruby>兆<rt>ちょう</rt></ruby></span><ruby>円<rt>えん</rt></ruby>ぐらいになります。</p>\n\
+  <p>ムハンマド<ruby>皇太子<rt>こうたいし</rt></ruby>はたくさんの<span style=\"color: blue;\"><ruby>財産<rt>ざいさん</rt></ruby></span>を<ruby>国<rt>くに</rt></ruby>のものにして、<ruby>経済<rt>けいざい</rt></ruby>をよくするために<ruby>使<rt>つか</rt></ruby>うのかもしれないと<ruby>言<rt>い</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>もいます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 捕まる
+  descriptions:
+  - とらえられる。つかまえられる。
+- word: 王子
+  descriptions:
+  - <ruby><rb>王</rb><rt>おう</rt></ruby>のむすこ。
+- word: 財産
+  descriptions:
+  - （<ruby><rb>個人</rb><rt>こじん</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>の<ruby><rb>持</rb><rt>も</rt></ruby>っている）お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>・<ruby><rb>土地</rb><rt>とち</rt></ruby>・<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>など、<ruby><rb>価値</rb><rt>かち</rt></ruby>のあるもの。<ruby><rb>資産</rb><rt>しさん</rt></ruby>。
+- word: 王
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める<ruby><rb>人</rb><rt>ひと</rt></ruby>。おうさま。
+  - そのことにいちばんすぐれていること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>の<ruby><rb>王将</rb><rt>おうしょう</rt></ruby>。
+- word: 不正
+  descriptions:
+  - <ruby><rb>正</rb><rt>ただ</rt></ruby>しくないこと。
+- word: 地位
+  descriptions:
+  - <ruby><rb>位</rb><rt>くらい</rt></ruby>。<ruby><rb>身分</rb><rt>みぶん</rt></ruby>。
+  - <ruby><rb>位置</rb><rt>いち</rt></ruby>。
+- word: 大臣
+  descriptions:
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>をつくり、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>で、もっとも<ruby><rb>責任</rb><rt>せきにん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>総理大臣</rb><rt>そうりだいじん</rt></ruby>と<ruby><rb>国務大臣</rb><rt>こくむだいじん</rt></ruby>とがある。
+- word: 捕まる
+  descriptions:
+  - とらえられる。つかまえられる。
+- word: 通信社
+  descriptions:
+  - ニュースを<ruby><rb>集</rb><rt>あつ</rt></ruby>めて、<ruby><rb>新聞社</rb><rt>しんぶんしゃ</rt></ruby>・<ruby><rb>放送局</rb><rt>ほうそうきょく</rt></ruby>・<ruby><rb>雑誌社</rb><rt>ざっししゃ</rt></ruby>などに<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 兆
+  descriptions:
+  - <ruby><rb>一億</rb><rt>いちおく</rt></ruby>の<ruby><rb>一万倍</rb><rt>いちまんばい</rt></ruby>。
+  - しるし。<ruby><rb>前</rb><rt>まえ</rt></ruby>ぶれ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011228821000/k10011228821000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/19/サウジで王子ら一斉拘束-釈放の条件に財産放棄提示か
+...

@@ -1,0 +1,75 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011228581000
+last_modified_at: '2017-11-20T17:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ダウン症の人は、染色体に異常があって、いろいろな障害が出ます。
+title: 東京でイベント「ダウン症のことを知ってほしい」
+title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>でイベント「ダウン<ruby>症<rt>しょう</rt></ruby>のことを<ruby>知<rt>し</rt></ruby>ってほしい」
+outline: ダウン症の人は、染色体に異常があって、いろいろな障害が出ます。
+outline_with_ruby: ダウン<ruby>症<rt>しょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>染色体<rt>せんしょくたい</rt></ruby>に<ruby>異常<rt>いじょう</rt></ruby>があって、いろいろな<ruby>障害<rt>しょうがい</rt></ruby>が<ruby>出<rt>で</rt></ruby>ます。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/19/K10011228581_1711191309_1711191324_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/20/k10011228581000.mp3
+content_with_ruby: "<p>ダウン<ruby>症<rt>しょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>染色体<rt>せんしょくたい</rt></ruby></span>に<span style=\"\
+  color: blue;\"><ruby>異常<rt>いじょう</rt></ruby></span>があって、いろいろな<span style=\"color:\
+  \ blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>ます。</p>\n\
+  <p>１９<ruby>日<rt>にち</rt></ruby>、ダウン<ruby>症<rt>しょう</rt></ruby>についてみんなに<ruby>知<rt>し</rt></ruby>ってもらう<span\
+  \ style=\"color: blue;\">イベント</span>が<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>新宿<rt>しんじゅく</rt></ruby>でありました。<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>公園<rt>こうえん</rt></ruby>にはダウン<ruby>症<rt>しょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>やその<ruby>家族<rt>かぞく</rt></ruby>など１５００<ruby>人<rt>にん</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まりました。</p>\n\
+  <p><ruby>初<rt>はじ</rt></ruby>めに、<span style=\"color: blue;\">ステージ</span>でダウン<ruby>症<rt>しょう</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもたちが<span\
+  \ style=\"color: blue;\">ダンス</span>をしました。そのあと、<span style=\"color: blue;\"><ruby>風船<rt>ふうせん</rt></ruby></span>や<span\
+  \ style=\"color: blue;\"><ruby>旗<rt>はた</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>って、<ruby>公園<rt>こうえん</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くをみんなで<ruby>歩<rt>ある</rt></ruby>きました。<ruby>道<rt>みち</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>たちに<ruby>手<rt>て</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>振<rt>ふ</rt></ruby>り</span>ながら、<span style=\"color:\
+  \ blue;\"><ruby>笑顔<rt>えがお</rt></ruby></span>で<ruby>歩<rt>ある</rt></ruby>きました。</p>\n\
+  <p><span style=\"color: blue;\">イベント</span>を<ruby>開<rt>ひら</rt></ruby>いた<span style=\"\
+  color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は「ダウン<ruby>症<rt>しょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちは<ruby>元気<rt>げんき</rt></ruby>に<ruby>明<rt>あか</rt></ruby>るく<ruby>生活<rt>せいかつ</rt></ruby>しています。<span\
+  \ style=\"color: blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>もない<ruby>人<rt>ひと</rt></ruby>も<ruby>大切<rt>たいせつ</rt></ruby>にする<ruby>社会<rt>しゃかい</rt></ruby>になってほしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 染色体
+  descriptions:
+  - <ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>が<ruby><rb>分裂</rb><rt>ぶんれつ</rt></ruby>するときに、<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>現</rb><rt>あらわ</rt></ruby>れるひも<ruby><rb>状</rb><rt>じょう</rt></ruby>のもの。<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>遺伝子</rb><rt>いでんし</rt></ruby>が<ruby><rb>入</rb><rt>はい</rt></ruby>っている。
+- word: 異常
+  descriptions:
+  - ふつうとちがう<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>なようす。
+- word: 障害
+  descriptions:
+  - <ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。
+- word: ステージ
+  descriptions:
+  - <ruby><rb>舞台</rb><rt>ぶたい</rt></ruby>。
+- word: ダンス
+  descriptions:
+  - <ruby><rb>西洋風</rb><rt>せいようふう</rt></ruby>のおどり。
+- word: 風船
+  descriptions:
+  - <ruby><rb>紙</rb><rt>かみ</rt></ruby>やゴムのふくろの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>空気</rb><rt>くうき</rt></ruby>などを<ruby><rb>入</rb><rt>い</rt></ruby>れてふくらませ<ruby><rb>飛</rb><rt>と</rt></ruby>ばして<ruby><rb>遊</rb><rt>あそ</rt></ruby>ぶおもちゃ。
+- word: 旗
+  descriptions:
+  - <ruby><rb>布</rb><rt>ぬの</rt></ruby>や<ruby><rb>紙</rb><rt>かみ</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>り、さおなどの<ruby><rb>先</rb><rt>さき</rt></ruby>につけて、かざりや<ruby><rb>目</rb><rt>め</rt></ruby>じるしとするもの。
+- word: 振る
+  descriptions:
+  - ゆり<ruby><rb>動</rb><rt>うご</rt></ruby>かす。
+  - まき<ruby><rb>散</rb><rt>ち</rt></ruby>らす。
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>割</rb><rt>わ</rt></ruby>り<ruby><rb>当</rb><rt>あ</rt></ruby>てる。
+  - つける。
+  - やめる。<ruby><rb>断</rb><rt>ことわ</rt></ruby>る。
+  - むだにする。
+  - <ruby><rb>向</rb><rt>む</rt></ruby>きを<ruby><rb>変</rb><rt>か</rt></ruby>える。
+- word: 笑顔
+  descriptions:
+  - にっこり<ruby><rb>笑</rb><rt>わら</rt></ruby>っている<ruby><rb>顔</rb><rt>かお</rt></ruby>。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+source_url: http://www3.nhk.or.jp/news/easy/k10011228581000/k10011228581000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/19/ダウン症に理解を-東京でパレード
+...
