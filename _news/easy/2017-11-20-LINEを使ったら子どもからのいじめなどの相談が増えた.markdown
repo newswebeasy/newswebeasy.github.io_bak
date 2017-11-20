@@ -1,0 +1,47 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011225821000
+last_modified_at: '2017-11-20T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 長野県などは今年の９月から２週間、スマートフォンでメッセージを送るＬＩＮＥを使って、子どもがいじめなどの相談ができるようにしました。
+title: ＬＩＮＥを使ったら子どもからのいじめなどの相談が増えた
+title_with_ruby: ＬＩＮＥを<ruby>使<rt>つか</rt></ruby>ったら<ruby>子<rt>こ</rt></ruby>どもからのいじめなどの<ruby>相談<rt>そうだん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えた
+outline: 長野県などは今年の９月から２週間、スマートフォンでメッセージを送るＬＩＮＥを使って、子どもがいじめなどの相談ができるようにしました。
+outline_with_ruby: <ruby>長野県<rt>ながのけん</rt></ruby>などは<ruby>今年<rt>ことし</rt></ruby>の９<ruby>月<rt>がつ</rt></ruby>から２<ruby>週間<rt>しゅうかん</rt></ruby>、スマートフォンでメッセージを<ruby>送<rt>おく</rt></ruby>るＬＩＮＥを<ruby>使<rt>つか</rt></ruby>って、<ruby>子<rt>こ</rt></ruby>どもがいじめなどの<ruby>相談<rt>そうだん</rt></ruby>ができるようにしました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/16/K10011225821_1711161715_1711161715_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/20/k10011225821000.mp3
+content_with_ruby: "<p><ruby>長野県<rt>ながのけん</rt></ruby>などは<ruby>今年<rt>ことし</rt></ruby>の９<ruby>月<rt>がつ</rt></ruby>から２<ruby>週間<rt>しゅうかん</rt></ruby>、スマートフォンで<span\
+  \ style=\"color: blue;\">メッセージ</span>を<ruby>送<rt>おく</rt></ruby>るＬＩＮＥを<ruby>使<rt>つか</rt></ruby>って、<ruby>子<rt>こ</rt></ruby>どもが<span\
+  \ style=\"color: blue;\">いじめ</span>などの<ruby>相談<rt>そうだん</rt></ruby>ができるようにしました。２<ruby>週間<rt>しゅうかん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に、<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１５００<ruby>人<rt>にん</rt></ruby>の<ruby>中学生<rt>ちゅうがくせい</rt></ruby>と<ruby>高校生<rt>こうこうせい</rt></ruby>から<ruby>連絡<rt>れんらく</rt></ruby>がありました。このうち、５４７の<ruby>相談<rt>そうだん</rt></ruby>を<ruby>受<rt>う</rt></ruby>けました。<ruby>長野県<rt>ながのけん</rt></ruby>が１<ruby>年<rt>ねん</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>で<ruby>受<rt>う</rt></ruby>ける<ruby>相談<rt>そうだん</rt></ruby>の２<ruby>倍<rt>ばい</rt></ruby>でした。</p>\n\
+  <p><ruby>相談<rt>そうだん</rt></ruby>の<span style=\"color: blue;\"><ruby>内容<rt>ないよう</rt></ruby></span>は、<ruby>友達<rt>ともだち</rt></ruby>との<ruby>関係<rt>かんけい</rt></ruby>や<ruby>勉強<rt>べんきょう</rt></ruby>についてが<ruby>半分<rt>はんぶん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>でした。<span\
+  \ style=\"color: blue;\">いじめ</span>や<span style=\"color: blue;\"><ruby>自殺<rt>じさつ</rt></ruby></span>についての<ruby>相談<rt>そうだん</rt></ruby>もありました。</p>\n\
+  <p><ruby>専門家<rt>せんもんか</rt></ruby>は「<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>たちはＬＩＮＥなどのＳＮＳをよく<ruby>使<rt>つか</rt></ruby>っています。ＳＮＳで<ruby>相談<rt>そうだん</rt></ruby>できるようにして、<ruby>早<rt>はや</rt></ruby>く<ruby>問題<rt>もんだい</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけることが<ruby>大切<rt>たいせつ</rt></ruby>です」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>ＬＩＮＥの<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>子<rt>こ</rt></ruby>どもが<span style=\"\
+  color: blue;\"><ruby>自殺<rt>じさつ</rt></ruby></span>を<ruby>考<rt>かんが</rt></ruby>えるなどとても<ruby>困<rt>こま</rt></ruby>っている<ruby>場合<rt>ばあい</rt></ruby>は、すぐに<ruby>電話<rt>でんわ</rt></ruby>で<ruby>相談<rt>そうだん</rt></ruby>できるようにしたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: いじめ
+  descriptions:
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>が<ruby><rb>困</rb><rt>こま</rt></ruby>ることをしたり、いやがることを<ruby><rb>言</rb><rt>い</rt></ruby>ったりして、<ruby><rb>苦</rb><rt>くる</rt></ruby>しめること。
+- word: メッセージ
+  descriptions:
+  - <ruby><rb>伝言</rb><rt>でんごん</rt></ruby>。
+  - <ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>のことば。<ruby><rb>声明文</rb><rt>せいめいぶん</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 内容
+  descriptions:
+  - <ruby><rb>中身</rb><rt>なかみ</rt></ruby>。
+  - <ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>や<ruby><rb>話</rb><rt>はなし</rt></ruby>によって、<ruby><rb>表</rb><rt>あらわ</rt></ruby>されたもの。
+- word: 自殺
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>絶</rb><rt>た</rt></ruby>つこと。<ruby><rb>自害</rb><rt>じがい</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011225821000/k10011225821000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/16/子どものいじめや自殺の相談-SNS活用で大幅増
+...

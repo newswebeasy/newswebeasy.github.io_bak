@@ -1,0 +1,50 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011226261000
+last_modified_at: '2017-11-20T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 厚生労働省によると、今年大学を卒業して会社に入った社員の最初の給料は、平均で２０万６１００円でした。
+title: 今年大学を卒業した社員の最初の給料は今までで最も高い
+title_with_ruby: <ruby>今年<rt>ことし</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>社員<rt>しゃいん</rt></ruby>の<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>給料<rt>きゅうりょう</rt></ruby>は<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>い
+outline: 厚生労働省によると、今年大学を卒業して会社に入った社員の最初の給料は、平均で２０万６１００円でした。
+outline_with_ruby: <ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby>によると、<ruby>今年<rt>ことし</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>して<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った<ruby>社員<rt>しゃいん</rt></ruby>の<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>給料<rt>きゅうりょう</rt></ruby>は、<ruby>平均<rt>へいきん</rt></ruby>で２０<ruby>万<rt>まん</rt></ruby>６１００<ruby>円<rt>えん</rt></ruby>でした。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/17/K10011226261_1711170027_1711170405_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/20/k10011226261000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>によると、<ruby>今年<rt>ことし</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>して<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>の<ruby>最初<rt>さいしょ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>は、<span style=\"color:\
+  \ blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>で２０<ruby>万<rt>まん</rt></ruby>６１００<ruby>円<rt>えん</rt></ruby>でした。<ruby>去年<rt>きょねん</rt></ruby>より１．３％<ruby>増<rt>ふ</rt></ruby>えて、２７００<ruby>円<rt>えん</rt></ruby><ruby>高<rt>たか</rt></ruby>くなりました。<span\
+  \ style=\"color: blue;\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>が<span style=\"\
+  color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１<ruby>万<rt>まん</rt></ruby>５０００の<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>聞<rt>き</rt></ruby>いてわかりました。</p>\n\
+  <p><ruby>最初<rt>さいしょ</rt></ruby>の<span style=\"color: blue;\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>は４<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>高<rt>たか</rt></ruby>くなっていて、１９７６<ruby>年<rt>ねん</rt></ruby>から<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>高<rt>たか</rt></ruby>くなりました。</p>\n\
+  <p><ruby>男性<rt>だんせい</rt></ruby>は２０<ruby>万<rt>まん</rt></ruby>７８００<ruby>円<rt>えん</rt></ruby>、<ruby>女性<rt>じょせい</rt></ruby>は２０<ruby>万<rt>まん</rt></ruby>４１００<ruby>円<rt>えん</rt></ruby>でした。<ruby>去年<rt>きょねん</rt></ruby>より<ruby>男性<rt>だんせい</rt></ruby>は０．９％、<ruby>女性<rt>じょせい</rt></ruby>は２．１％<ruby>増<rt>ふ</rt></ruby>えました。<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くて<ruby>大<rt>おお</rt></ruby>きい<ruby>会社<rt>かいしゃ</rt></ruby>のほうが、<ruby>去年<rt>きょねん</rt></ruby>より<ruby>増<rt>ふ</rt></ruby>えた<span\
+  \ style=\"color: blue;\"><ruby>割合<rt>わりあい</rt></ruby></span>が<ruby>大<rt>おお</rt></ruby>きくなっています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 社員
+  descriptions:
+  - その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。
+- word: 給料
+  descriptions:
+  - やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。
+- word: 厚生労働省
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 割合
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>と<ruby><rb>物</rb><rt>もの</rt></ruby>との<ruby><rb>関係</rb><rt>かんけい</rt></ruby>を、<ruby><rb>数</rb><rt>かず</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。<ruby><rb>割</rb><rt>わり</rt></ruby>。<ruby><rb>率</rb><rt>りつ</rt></ruby>。<ruby><rb>歩合</rb><rt>ぶあい</rt></ruby>。
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>いのほか。<ruby><rb>比較的</rb><rt>ひかくてき</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011226261000/k10011226261000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/17/大卒新入社員の初任給-2年連続で過去最高
+...
