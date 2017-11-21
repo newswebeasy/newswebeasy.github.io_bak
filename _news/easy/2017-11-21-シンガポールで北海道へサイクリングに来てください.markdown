@@ -1,0 +1,57 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011228111000
+last_modified_at: '2017-11-21T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: １８日、シンガポールであった自転車の大きなイベントに、北海道南富良野町の人たちが参加して、北海道のサイクリングを紹介しました。
+title: シンガポールで「北海道へサイクリングに来てください」
+title_with_ruby: シンガポールで「<ruby>北海道<rt>ほっかいどう</rt></ruby>へサイクリングに<ruby>来<rt>き</rt></ruby>てください」
+outline: １８日、シンガポールであった自転車の大きなイベントに、北海道南富良野町の人たちが参加して、北海道のサイクリングを紹介しました。
+outline_with_ruby: １８<ruby>日<rt>にち</rt></ruby>、シンガポールであった<ruby>自転車<rt>じてんしゃ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きなイベントに、<ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>南富良野町<rt>みなみふらのちょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが<ruby>参加<rt>さんか</rt></ruby>して、<ruby>北海道<rt>ほっかいどう</rt></ruby>のサイクリングを<ruby>紹介<rt>しょうかい</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/18/K10011228111_1711182057_1711182112_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/21/k10011228111000.mp3
+content_with_ruby: "<p>１８<ruby>日<rt>にち</rt></ruby>、シンガポールであった<ruby>自転車<rt>じてんしゃ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\">イベント</span>に、<ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>南富良野町<rt>みなみふらのちょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが<span\
+  \ style=\"color: blue;\"><ruby>参加<rt>さんか</rt></ruby></span>して、<ruby>北海道<rt>ほっかいどう</rt></ruby>の<span\
+  \ style=\"color: blue;\">サイクリング</span>を<ruby>紹介<rt>しょうかい</rt></ruby>しました。シンガポールでは<ruby>今<rt>いま</rt></ruby>、<span\
+  \ style=\"color: blue;\">サイクリング</span>が<span style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>で、<span\
+  \ style=\"color: blue;\">イベント</span>にも<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>来<rt>き</rt></ruby>ていました。</p>\n\
+  <p><ruby>北海道<rt>ほっかいどう</rt></ruby>は<ruby>最近<rt>さいきん</rt></ruby>、<ruby>外国<rt>がいこく</rt></ruby>から<span\
+  \ style=\"color: blue;\">サイクリング</span>に<ruby>来<rt>く</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>がたくさんいます。<ruby>南富良野町<rt>みなみふらのちょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちは、<ruby>夏<rt>なつ</rt></ruby>には<span\
+  \ style=\"color: blue;\">ラベンダー</span>や<span style=\"color: blue;\">ひまわり</span>が<ruby>咲<rt>さ</rt></ruby>くきれいな<ruby>景色<rt>けしき</rt></ruby>を<ruby>見<rt>み</rt></ruby>ながら<span\
+  \ style=\"color: blue;\">サイクリング</span>ができると<ruby>説明<rt>せつめい</rt></ruby>しました。</p>\n\
+  <p><ruby>説明<rt>せつめい</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いたシンガポールの<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>北海道<rt>ほっかいどう</rt></ruby>は<ruby>景色<rt>けしき</rt></ruby>がよくて、<ruby>空気<rt>くうき</rt></ruby>も<span\
+  \ style=\"color: blue;\"><ruby>自然<rt>しぜん</rt></ruby></span>もきれいですね。<ruby>行<rt>い</rt></ruby>ってみたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>南富良野町<rt>みなみふらのちょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「シンガポールから<ruby>北海道<rt>ほっかいどう</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>飛行機<rt>ひこうき</rt></ruby>もできたので<ruby>行<rt>い</rt></ruby>きやすくなりました。ぜひ<ruby>自転車<rt>じてんしゃ</rt></ruby>で<ruby>北海道<rt>ほっかいどう</rt></ruby>を<ruby>回<rt>まわ</rt></ruby>ってください」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: サイクリング
+  descriptions:
+  - <ruby><rb>楽</rb><rt>たの</rt></ruby>しみなどのために、<ruby><rb>自転車</rb><rt>じてんしゃ</rt></ruby>で<ruby><rb>遠乗</rb><rt>とおの</rt></ruby>りをすること。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 参加
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: ラベンダー
+  descriptions:
+  - うすむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>穂</rb><rt>ほ</rt></ruby>のように<ruby><rb>咲</rb><rt>さ</rt></ruby>く、<ruby><rb>背</rb><rt>せ</rt></ruby>の<ruby><rb>低</rb><rt>ひく</rt></ruby>い<ruby><rb>木</rb><rt>き</rt></ruby>。<ruby><rb>花</rb><rt>はな</rt></ruby>から<ruby><rb>香水</rb><rt>こうすい</rt></ruby>などの<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>をとる。
+- word: ひまわり
+  descriptions:
+  - キクのなかまの<ruby><rb>草花</rb><rt>くさばな</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>二</rb><rt>に</rt></ruby>メートルをこす<ruby><rb>茎</rb><rt>くき</rt></ruby>の<ruby><rb>先</rb><rt>さき</rt></ruby>に、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>種</rb><rt>たね</rt></ruby>は<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にしたり、<ruby><rb>油</rb><rt>あぶら</rt></ruby>をとったりする。
+- word: 自然
+  descriptions:
+  - <ruby><rb>山</rb><rt>やま</rt></ruby>・<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>草</rb><rt>くさ</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>・<ruby><rb>雲</rb><rt>くも</rt></ruby>・<ruby><rb>雨</rb><rt>あめ</rt></ruby>・<ruby><rb>雪</rb><rt>ゆき</rt></ruby>など、<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>作</rb><rt>つく</rt></ruby>ったものでない<ruby><rb>物</rb><rt>もの</rt></ruby>。
+  - もともとの<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>備</rb><rt>そな</rt></ruby>えていること。
+  - わざとらしくないようす。
+  - ひとりでに。いつのまにか。
+source_url: http://www3.nhk.or.jp/news/easy/k10011228111000/k10011228111000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/18/サイクリング人気のシンガポールで北海道の自転車旅PR
+...

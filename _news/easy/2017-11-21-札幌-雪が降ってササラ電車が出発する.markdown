@@ -1,0 +1,65 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011227751000
+last_modified_at: '2017-11-21T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 北海道の札幌市では１８日午前０時ごろから雪が降り始めました。
+title: 札幌　雪が降って「ササラ電車」が出発する
+title_with_ruby: <ruby>札幌<rt>さっぽろ</rt></ruby>　<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って「ササラ<ruby>電車<rt>でんしゃ</rt></ruby>」が<ruby>出発<rt>しゅっぱつ</rt></ruby>する
+outline: 北海道の札幌市では１８日午前０時ごろから雪が降り始めました。
+outline_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>札幌市<rt>さっぽろし</rt></ruby>では１８<ruby>日<rt>にち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>０<ruby>時<rt>じ</rt></ruby>ごろから<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/18/K10011227751_1711180652_1711180655_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/21/k10011227751000.mp3
+content_with_ruby: "<p><ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>札幌市<rt>さっぽろし</rt></ruby>では１８<ruby>日<rt>にち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>０<ruby>時<rt>じ</rt></ruby>ごろから<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。<ruby>午前<rt>ごぜん</rt></ruby>３<ruby>時<rt>じ</rt></ruby>には<ruby>町<rt>まち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>走<rt>はし</rt></ruby>る<ruby>電車<rt>でんしゃ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>線路<rt>せんろ</rt></ruby></span>の<ruby>上<rt>うえ</rt></ruby>に<ruby>雪<rt>ゆき</rt></ruby>が１０ｃｍぐらい<span\
+  \ style=\"color: blue;\"><ruby>積<rt>つ</rt></ruby>もっ</span>たため、「ササラ<ruby>電車<rt>でんしゃ</rt></ruby>」が<ruby>出発<rt>しゅっぱつ</rt></ruby>しました。</p>\n\
+  <p>「ササラ」は、<span style=\"color: blue;\"><ruby>竹<rt>たけ</rt></ruby></span>を<ruby>細<rt>ほそ</rt></ruby>く<ruby>切<rt>き</rt></ruby>って<ruby>作<rt>つく</rt></ruby>った<ruby>長<rt>なが</rt></ruby>さ３０ｃｍぐらいの<span\
+  \ style=\"color: blue;\">ブラシ</span>です。ササラ<ruby>電車<rt>でんしゃ</rt></ruby>は<ruby>前<rt>まえ</rt></ruby>と<ruby>後<rt>うし</rt></ruby>ろについているササラを<span\
+  \ style=\"color: blue;\"><ruby>回<rt>まわ</rt></ruby>し</span>て、<span style=\"color:\
+  \ blue;\"><ruby>線路<rt>せんろ</rt></ruby></span>の<ruby>上<rt>うえ</rt></ruby>の<ruby>雪<rt>ゆき</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>掃<rt>は</rt></ruby>い</span>て<span style=\"color: blue;\"\
+  ><ruby>飛<rt>と</rt></ruby>ばし</span>ます。</p>\n<p><ruby>午前<rt>ごぜん</rt></ruby>４<ruby>時<rt>じ</rt></ruby><ruby>半<rt>はん</rt></ruby>に<ruby>出発<rt>しゅっぱつ</rt></ruby>した２<ruby>台<rt>だい</rt></ruby>のササラ<ruby>電車<rt>でんしゃ</rt></ruby>は、<ruby>雪<rt>ゆき</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>掃<rt>は</rt></ruby>き</span>ながらゆっくり<ruby>進<rt>すす</rt></ruby>んでいました。</p>\n\
+  <p>ササラ<ruby>電車<rt>でんしゃ</rt></ruby>は１９２５<ruby>年<rt>ねん</rt></ruby>から<ruby>走<rt>はし</rt></ruby>っていて、<ruby>来年<rt>らいねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>ごろまで<ruby>雪<rt>ゆき</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>積<rt>つ</rt></ruby>もっ</span>たときに<ruby>走<rt>はし</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 線路
+  descriptions:
+  - <ruby><rb>汽車</rb><rt>きしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道筋</rb><rt>みちすじ</rt></ruby>。レール。
+- word: 積もる
+  descriptions:
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かい<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>重</rb><rt>かさ</rt></ruby>なってたまる。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じようなことが<ruby><rb>何度</rb><rt>なんど</rt></ruby>も<ruby><rb>重</rb><rt>かさ</rt></ruby>なって、だんだん<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+- word: 竹
+  descriptions:
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>空</rb><rt>から</rt></ruby>の<ruby><rb>茎</rb><rt>くき</rt></ruby>に、<ruby><rb>節</rb><rt>ふし</rt></ruby>のある<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>や、<ruby><rb>細工物</rb><rt>さいくもの</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>芽</rb><rt>め</rt></ruby>を「たけのこ」という。
+- word: ブラシ
+  descriptions:
+  - はけ。<ruby><rb>細</rb><rt>こま</rt></ruby>かいほこりやよごれを<ruby><rb>取</rb><rt>と</rt></ruby>るもの。
+- word: 回す
+  descriptions:
+  - <ruby><rb>円</rb><rt>えん</rt></ruby>をかくように<ruby><rb>動</rb><rt>うご</rt></ruby>かす。
+  - <ruby><rb>順</rb><rt>じゅん</rt></ruby>に<ruby><rb>送</rb><rt>おく</rt></ruby>る。
+  - <ruby><rb>必要</rb><rt>ひつよう</rt></ruby>とするところへふり<ruby><rb>向</rb><rt>む</rt></ruby>ける。さし<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>巻</rb><rt>ま</rt></ruby>くようにする。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>届</rb><rt>とど</rt></ruby>かせる。
+- word: 掃く
+  descriptions:
+  - ほうきで、ごみをどける。そうじをする。
+- word: 飛ばす
+  descriptions:
+  - <ruby><rb>飛</rb><rt>と</rt></ruby>ぶようにする。
+  - <ruby><rb>散</rb><rt>ち</rt></ruby>らす。
+  - <ruby><rb>走</rb><rt>はし</rt></ruby>らせる。
+  - <ruby><rb>間</rb><rt>あいだ</rt></ruby>をぬいて、<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む。
+  - <ruby><rb>言</rb><rt>い</rt></ruby>いふらす。
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく…する。
+- word: 掃く
+  descriptions:
+  - ほうきで、ごみをどける。そうじをする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011227751000/k10011227751000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/18/札幌-ササラ電車この冬初出動
+...

@@ -1,0 +1,86 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011229751000
+last_modified_at: '2017-11-21T17:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: お年寄りや体に障害がある人の介護などの役に立つ新しい機械の展示会が東京ビッグサイトで始まりました。
+title: 介護などの役に立つ機械を会社や大学が紹介
+title_with_ruby: <ruby>介護<rt>かいご</rt></ruby>などの<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ<ruby>機械<rt>きかい</rt></ruby>を<ruby>会社<rt>かいしゃ</rt></ruby>や<ruby>大学<rt>だいがく</rt></ruby>が<ruby>紹介<rt>しょうかい</rt></ruby>
+outline: お年寄りや体に障害がある人の介護などの役に立つ新しい機械の展示会が東京ビッグサイトで始まりました。
+outline_with_ruby: お<ruby>年寄<rt>としよ</rt></ruby>りや<ruby>体<rt>からだ</rt></ruby>に<ruby>障害<rt>しょうがい</rt></ruby>がある<ruby>人<rt>ひと</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>などの<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ<ruby>新<rt>あたら</rt></ruby>しい<ruby>機械<rt>きかい</rt></ruby>の<ruby>展示<rt>てんじ</rt></ruby><ruby>会<rt>かい</rt></ruby>が<ruby>東京<rt>とうきょう</rt></ruby>ビッグサイトで<ruby>始<rt>はじ</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/20/K10011229751_1711201811_1711201813_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/21/k10011229751000.mp3
+content_with_ruby: "<p>お<span style=\"color: blue;\"><ruby>年寄<rt>としよ</rt></ruby>り</span>や<ruby>体<rt>からだ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>介護<rt>かいご</rt></ruby></span>などの<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ<ruby>新<rt>あたら</rt></ruby>しい<ruby>機械<rt>きかい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>展示<rt>てんじ</rt></ruby></span><ruby>会<rt>かい</rt></ruby>が<ruby>東京<rt>とうきょう</rt></ruby>ビッグサイトで<ruby>始<rt>はじ</rt></ruby>まりました。３３９の<ruby>会社<rt>かいしゃ</rt></ruby>や<ruby>大学<rt>だいがく</rt></ruby>などが<ruby>機械<rt>きかい</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>しています。</p>\n\
+  <p>この<ruby>中<rt>なか</rt></ruby>には、<ruby>人<rt>ひと</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>手<rt>て</rt></ruby>が<ruby>動<rt>うご</rt></ruby>いて、<ruby>物<rt>もの</rt></ruby>を<ruby>持<rt>も</rt></ruby>つことができる<span\
+  \ style=\"color: blue;\">ロボット</span>があります。<ruby>手<rt>て</rt></ruby>に<ruby>機械<rt>きかい</rt></ruby>を<span\
+  \ style=\"color: blue;\">つけ</span>た<ruby>人<rt>ひと</rt></ruby>が<span style=\"color:\
+  \ blue;\">ペットボトル</span>とコップを<ruby>持<rt>も</rt></ruby>つような<span style=\"color: blue;\"\
+  ><ruby>動<rt>うご</rt></ruby>き</span>をすると、<ruby>別<rt>べつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>にいる<span\
+  \ style=\"color: blue;\">ロボット</span>も<ruby>同<rt>おな</rt></ruby>じように<ruby>動<rt>うご</rt></ruby>いてコップに<ruby>水<rt>みず</rt></ruby>を<ruby>入<rt>い</rt></ruby>れることができます。</p>\n\
+  <p>このほか、<ruby>体<rt>からだ</rt></ruby>に<span style=\"color: blue;\">つける</span>と<ruby>普通<rt>ふつう</rt></ruby>の３０％ぐらいの<ruby>力<rt>ちから</rt></ruby>で<ruby>重<rt>おも</rt></ruby>い<ruby>物<rt>もの</rt></ruby>を<ruby>持<rt>も</rt></ruby>つことができる<ruby>機械<rt>きかい</rt></ruby>もあります。<ruby>人<rt>ひと</rt></ruby>と<ruby>会話<rt>かいわ</rt></ruby>ができる<span\
+  \ style=\"color: blue;\">ぬいぐるみ</span>のような<span style=\"color: blue;\">ロボット</span>などもあります。</p>\n\
+  <p>この<span style=\"color: blue;\"><ruby>展示<rt>てんじ</rt></ruby></span><ruby>会<rt>かい</rt></ruby>は２２<ruby>日<rt>にち</rt></ruby>までです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 介護
+  descriptions:
+  - <ruby><rb>病人</rb><rt>びょうにん</rt></ruby>などを<ruby><rb>介抱</rb><rt>かいほう</rt></ruby>し、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をすること。
+- word: 年寄り
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。
+  - <ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 障害
+  descriptions:
+  - <ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。
+- word: 展示
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>並</rb><rt>なら</rt></ruby>べて、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+- word: ロボット
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>磁気</rb><rt>じき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。<ruby><rb>人造</rb><rt>じんぞう</rt></ruby><ruby><rb>人間</rb><rt>にんげん</rt></ruby>。
+  - <ruby><rb>工場</rb><rt>こうじょう</rt></ruby>などで<ruby><rb>人間</rb><rt>にんげん</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって、<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。
+  - （いつも）<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>いなりになって<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+- word: ペットボトル
+  descriptions:
+  - <ruby><rb>樹脂製</rb><rt>じゅしせい</rt></ruby>の<ruby><rb>容器</rb><rt>ようき</rt></ruby>。<ruby><rb>軽</rb><rt>かる</rt></ruby>くて<ruby><rb>丈夫</rb><rt>じょうぶ</rt></ruby>なので<ruby><rb>飲</rb><rt>の</rt></ruby>み<ruby><rb>物</rb><rt>もの</rt></ruby>などの<ruby><rb>容器</rb><rt>ようき</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>われる。ポリエチレンテレフタレートの<ruby><rb>頭文字</rb><rt>かしらもじ</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>って<ruby><rb>PET</rb><rt>ぺット</rt></ruby>という。
+- word: 動き
+  descriptions:
+  - <ruby><rb>動</rb><rt>うご</rt></ruby>くこと。
+  - <ruby><rb>移</rb><rt>うつ</rt></ruby>り<ruby><rb>変</rb><rt>か</rt></ruby>わり。<ruby><rb>変動</rb><rt>へんどう</rt></ruby>。<ruby><rb>変化</rb><rt>へんか</rt></ruby>。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+- word: 縫いぐるみ
+  descriptions:
+  - <ruby><rb>布</rb><rt>ぬの</rt></ruby>などのふくろに、<ruby><rb>綿</rb><rt>わた</rt></ruby>などをつめて<ruby><rb>作</rb><rt>つく</rt></ruby>った、<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などの<ruby><rb>形</rb><rt>かたち</rt></ruby>をしたもの。
+  - <ruby><rb>劇</rb><rt>げき</rt></ruby>などで<ruby><rb>着</rb><rt>き</rt></ruby>る、<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などの<ruby><rb>形</rb><rt>かたち</rt></ruby>をした<ruby><rb>衣装</rb><rt>いしょう</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011229751000/k10011229751000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/20/水注ぐロボットも-福祉機器展-東京ビックサイト
+...
