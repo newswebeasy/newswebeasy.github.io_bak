@@ -1,0 +1,72 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011231671000
+last_modified_at: '2017-11-22T17:20:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: クロマグロはすしなどで人気がある魚です。
+title: 大西洋のクロマグロ　来年は今年より多く取ってもいい
+title_with_ruby: <ruby>大西洋<rt>たいせいよう</rt></ruby>のクロマグロ　<ruby>来年<rt>らいねん</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>より<ruby>多<rt>おお</rt></ruby>く<ruby>取<rt>と</rt></ruby>ってもいい
+outline: クロマグロはすしなどで人気がある魚です。
+outline_with_ruby: クロマグロはすしなどで<ruby>人気<rt>にんき</rt></ruby>がある<ruby>魚<rt>さかな</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/22/K10011231671_1711220621_1711220622_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/22/k10011231671000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\">クロマグロ</span>は<span style=\"color:\
+  \ blue;\">すし</span>などで<span style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>がある<ruby>魚<rt>さかな</rt></ruby>です。しかし、<ruby>取<rt>と</rt></ruby>りすぎたため、だんだん<ruby>少<rt>すく</rt></ruby>なくなっています。<span\
+  \ style=\"color: blue;\">ヨーロッパ</span>の<ruby>国<rt>くに</rt></ruby>や<ruby>日本<rt>にっぽん</rt></ruby>などは、<span\
+  \ style=\"color: blue;\"><ruby>大西洋<rt>たいせいよう</rt></ruby></span>と<span style=\"color:\
+  \ blue;\"><ruby>地中海<rt>ちちゅうかい</rt></ruby></span>の<span style=\"color: blue;\">クロマグロ</span>をどのくらい<ruby>取<rt>と</rt></ruby>ってもいいか、ＩＣＣＡＴという<span\
+  \ style=\"color: blue;\"><ruby>委員会<rt>いいんかい</rt></ruby></span>の<ruby>会議<rt>かいぎ</rt></ruby>で<ruby>決<rt>き</rt></ruby>めています。</p>\n\
+  <p><ruby>来年<rt>らいねん</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby>より<span style=\"color:\
+  \ blue;\"><ruby>約<rt>やく</rt></ruby></span>１９％<ruby>多<rt>おお</rt></ruby>い２<ruby>万<rt>まん</rt></ruby>８２００<span\
+  \ style=\"color: blue;\">ｔ</span>の<span style=\"color: blue;\">クロマグロ</span>を<ruby>取<rt>と</rt></ruby>ってもいいことが<ruby>決<rt>き</rt></ruby>まりました。この<ruby>中<rt>なか</rt></ruby>で<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>取<rt>と</rt></ruby>ってもいい<span\
+  \ style=\"color: blue;\">クロマグロ</span>は、<ruby>今年<rt>ことし</rt></ruby>より１８％<ruby>多<rt>おお</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>２２８０<span style=\"color:\
+  \ blue;\">ｔ</span>です。<span style=\"color: blue;\"><ruby>大西洋<rt>たいせいよう</rt></ruby></span>と<span\
+  \ style=\"color: blue;\"><ruby>地中海<rt>ちちゅうかい</rt></ruby></span>では、<span style=\"\
+  color: blue;\">クロマグロ</span>が<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>増<rt>ふ</rt></ruby>えているからです。</p>\n\
+  <p>２０２０<ruby>年<rt>ねん</rt></ruby>には、<span style=\"color: blue;\">ヨーロッパ</span>の<ruby>国<rt>くに</rt></ruby>や<ruby>日本<rt>にっぽん</rt></ruby>などは<ruby>全部<rt>ぜんぶ</rt></ruby>で３<ruby>万<rt>まん</rt></ruby>６０００<span\
+  \ style=\"color: blue;\">ｔ</span><ruby>取<rt>と</rt></ruby>ってもいいことも<ruby>決<rt>き</rt></ruby>まりました。<ruby>今年<rt>ことし</rt></ruby>より<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>５２％<ruby>多<rt>おお</rt></ruby>くなります。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>で<ruby>食<rt>た</rt></ruby>べている<span style=\"color:\
+  \ blue;\">クロマグロ</span>の４０％は、<ruby>日本<rt>にっぽん</rt></ruby>やほかの<ruby>国<rt>くに</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>大西洋<rt>たいせいよう</rt></ruby></span>で<ruby>取<rt>と</rt></ruby>った<span\
+  \ style=\"color: blue;\">クロマグロ</span>です。これから<span style=\"color: blue;\"><ruby>大西洋<rt>たいせいよう</rt></ruby></span>でたくさん<span\
+  \ style=\"color: blue;\">クロマグロ</span>を<ruby>取<rt>と</rt></ruby>ることができるようになると、<ruby>値段<rt>ねだん</rt></ruby>も<ruby>安<rt>やす</rt></ruby>くなりそうです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大西洋
+  descriptions:
+  - ヨーロッパやアフリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>と<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>にある<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: 鮪
+  descriptions:
+  - <ruby><rb>暖</rb><rt>あたた</rt></ruby>かな<ruby><rb>海</rb><rt>うみ</rt></ruby>を<ruby><rb>回遊</rb><rt>かいゆう</rt></ruby>する<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>魚</rb><rt>さかな</rt></ruby>。メバチ・キハダマグロ・クロマグロなどがいる。さし<ruby><rb>身</rb><rt>み</rt></ruby>やすしにして<ruby><rb>食</rb><rt>た</rt></ruby>べる。
+- word: 鮨・
+  descriptions:
+  - <ruby><rb>酢</rb><rt>す</rt></ruby>で<ruby><rb>味</rb><rt>あじ</rt></ruby>をつけたご<ruby><rb>飯</rb><rt>はん</rt></ruby>に、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や、<ruby><rb>貝</rb><rt>かい</rt></ruby>・<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などをのせたり、<ruby><rb>混</rb><rt>ま</rt></ruby>ぜたりした<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。にぎりずし・<ruby><rb>巻</rb><rt>ま</rt></ruby>きずし・ちらしずしなど。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: 地中海
+  descriptions:
+  - ヨーロッパ・アジア・アフリカの<ruby><rb>三大陸</rb><rt>さんたいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた<ruby><rb>東西</rb><rt>とうざい</rt></ruby>に<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: 委員会
+  descriptions:
+  - <ruby><rb>委員</rb><rt>いいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>相談</rb><rt>そうだん</rt></ruby>したりものごとを<ruby><rb>決</rb><rt>き</rt></ruby>めたりする<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: トン
+  descriptions:
+  - メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。１トンは、１０００キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+  - <ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011231671000/k10011231671000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/22/大西洋クロマグロ-漁獲枠-4年連続拡大で合意
+...

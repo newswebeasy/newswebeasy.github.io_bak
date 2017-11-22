@@ -1,0 +1,48 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011228751000
+last_modified_at: '2017-11-22T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: マンションなどにある「宅配ボックス」は、出かけているときに届いた荷物を入れてもらうロッカーのような物です。
+title: 全部の部屋に１つずつ宅配ボックスがあるマンション
+title_with_ruby: <ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>に１つずつ<ruby>宅配<rt>たくはい</rt></ruby>ボックスがあるマンション
+outline: マンションなどにある「宅配ボックス」は、出かけているときに届いた荷物を入れてもらうロッカーのような物です。
+outline_with_ruby: マンションなどにある「<ruby>宅配<rt>たくはい</rt></ruby>ボックス」は、<ruby>出<rt>で</rt></ruby>かけているときに<ruby>届<rt>とど</rt></ruby>いた<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れてもらうロッカーのような<ruby>物<rt>もの</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/19/K10011228751_1711191803_1711191804_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/22/k10011228751000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\">マンション</span>などにある「<ruby>宅配<rt>たくはい</rt></ruby>ボックス」は、<ruby>出<rt>で</rt></ruby>かけているときに<span\
+  \ style=\"color: blue;\"><ruby>届<rt>とど</rt></ruby>い</span>た<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れてもらう<span\
+  \ style=\"color: blue;\">ロッカー</span>のような<ruby>物<rt>もの</rt></ruby>です。インターネットで<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えているため、<ruby>宅配<rt>たくはい</rt></ruby>ボックスが<ruby>足<rt>た</rt></ruby>りなくなることがあります。<span\
+  \ style=\"color: blue;\"><ruby>配達<rt>はいたつ</rt></ruby></span>する<ruby>人<rt>ひと</rt></ruby>はもう<ruby>一度<rt>いちど</rt></ruby><ruby>届<rt>とど</rt></ruby>けに<ruby>来<rt>こ</rt></ruby>なければなりません。</p>\n\
+  <p><ruby>大京<rt>だいきょう</rt></ruby>という<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が１つずつ<ruby>宅配<rt>たくはい</rt></ruby>ボックスを<ruby>使<rt>つか</rt></ruby>うことができる<span\
+  \ style=\"color: blue;\">マンション</span>を<ruby>東京都<rt>とうきょうと</rt></ruby><ruby>豊島区<rt>としまく</rt></ruby>で<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。１つの<ruby>宅配<rt>たくはい</rt></ruby>ボックスは<ruby>縦<rt>たて</rt></ruby>が２４ｃｍ、<ruby>横<rt>よこ</rt></ruby>が３０ｃｍ、<span\
+  \ style=\"color: blue;\"><ruby>奥<rt>おく</rt></ruby></span>までの<ruby>長<rt>なが</rt></ruby>さが４５ｃｍです。<ruby>会社<rt>かいしゃ</rt></ruby>は、このような<ruby>宅配<rt>たくはい</rt></ruby>ボックスがある<span\
+  \ style=\"color: blue;\">マンション</span>を、これから<ruby>多<rt>おお</rt></ruby>くしたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>野村不動産<rt>のむらふどうさん</rt></ruby>は、<span style=\"color: blue;\"><ruby>届<rt>とど</rt></ruby>い</span>た<ruby>手紙<rt>てがみ</rt></ruby>などを<ruby>入<rt>い</rt></ruby>れるポストが<ruby>大<rt>おお</rt></ruby>きい<span\
+  \ style=\"color: blue;\">マンション</span>も<ruby>売<rt>う</rt></ruby>っています。インターネットで<ruby>買<rt>か</rt></ruby>った<ruby>本<rt>ほん</rt></ruby>なども<ruby>入<rt>い</rt></ruby>れることができます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: マンション
+  descriptions:
+  - コンクリートで<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>で、<ruby><rb>高級</rb><rt>こうきゅう</rt></ruby>な<ruby><rb>感</rb><rt>かん</rt></ruby>じがするアパート。
+- word: 届く
+  descriptions:
+  - <ruby><rb>送</rb><rt>おく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>着</rb><rt>つ</rt></ruby>く。
+  - のばしたものが、つく。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>いなどがかなう。
+- word: ロッカー
+  descriptions:
+  - <ruby><rb>荷物</rb><rt>にもつ</rt></ruby>や<ruby><rb>洋服</rb><rt>ようふく</rt></ruby>などを<ruby><rb>入</rb><rt>い</rt></ruby>れておく、かぎのついた<ruby><rb>戸棚</rb><rt>とだな</rt></ruby>。
+- word: 配達
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>配</rb><rt>くば</rt></ruby>って<ruby><rb>届</rb><rt>とど</rt></ruby>けること。
+- word: 奥
+  descriptions:
+  - <ruby><rb>入</rb><rt>い</rt></ruby>り<ruby><rb>口</rb><rt>ぐち</rt></ruby>から<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>入</rb><rt>はい</rt></ruby>りこんだ<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+  - ほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にはわからないこと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011228751000/k10011228751000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/19/部屋ごとに宅配ボックス-不動産各社で販売進む
+...

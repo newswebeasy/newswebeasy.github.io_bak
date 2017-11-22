@@ -1,0 +1,60 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011229651000
+last_modified_at: '2017-11-22T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 三菱電機は、駅や電車で将来使う新しい技術を発表しました。
+title: 駅や電車で使う新しい技術を紹介
+title_with_ruby: <ruby>駅<rt>えき</rt></ruby>や<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>
+outline: 三菱電機は、駅や電車で将来使う新しい技術を発表しました。
+outline_with_ruby: <ruby>三菱電機<rt>みつびしでんき</rt></ruby>は、<ruby>駅<rt>えき</rt></ruby>や<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>将来<rt>しょうらい</rt></ruby><ruby>使<rt>つか</rt></ruby>う<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/20/K10011229651_1711201715_1711201716_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/22/k10011229651000.mp3
+content_with_ruby: "<p><ruby>三菱電機<rt>みつびしでんき</rt></ruby>は、<ruby>駅<rt>えき</rt></ruby>や<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>将来<rt>しょうらい</rt></ruby><ruby>使<rt>つか</rt></ruby>う<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p><span\
+  \ style=\"color: blue;\">ゲート</span>がない<span style=\"color: blue;\"><ruby>改札<rt>かいさつ</rt></ruby></span>では、<ruby>切符<rt>きっぷ</rt></ruby>の<ruby>代<rt>か</rt></ruby>わりに<ruby>使<rt>つか</rt></ruby>うＳｕｉｃａなどのＩＣカードをポケットやかばんに<ruby>入<rt>い</rt></ruby>れたまま<ruby>通<rt>とお</rt></ruby>ることができます。ＩＣカードを<ruby>特別<rt>とくべつ</rt></ruby>な<span\
+  \ style=\"color: blue;\">ケース</span>に<ruby>入<rt>い</rt></ruby>れておくと、<span style=\"\
+  color: blue;\"><ruby>改札<rt>かいさつ</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>床<rt>ゆか</rt></ruby></span>に<span style=\"color: blue;\"><ruby>埋<rt>う</rt></ruby>め</span>てある<ruby>機械<rt>きかい</rt></ruby>がどの<ruby>駅<rt>えき</rt></ruby>で<ruby>乗<rt>の</rt></ruby>ったかなどを<ruby>調<rt>しら</rt></ruby>べます。<span\
+  \ style=\"color: blue;\">ゲート</span>がないため、<span style=\"color: blue;\"><ruby>車<rt>くるま</rt></ruby>いす</span>やベビーカーが<ruby>通<rt>とお</rt></ruby>りやすくなります。</p>\n\
+  <p><ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>席<rt>せき</rt></ruby>のように<ruby>特急<rt>とっきゅう</rt></ruby>などの<ruby>席<rt>せき</rt></ruby>につける<span\
+  \ style=\"color: blue;\">ディスプレー</span>も<ruby>紹介<rt>しょうかい</rt></ruby>しました。この<span\
+  \ style=\"color: blue;\">ディスプレー</span>で<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>たり、<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>や<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>を<ruby>頼<rt>たの</rt></ruby>んだりすることができます。</p>\n\
+  <p><ruby>三菱電機<rt>みつびしでんき</rt></ruby>は、２０２５<ruby>年<rt>ねん</rt></ruby>ごろから<ruby>駅<rt>えき</rt></ruby>や<ruby>電車<rt>でんしゃ</rt></ruby>などでこの<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>いたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: ゲート
+  descriptions:
+  - <ruby><rb>門</rb><rt>もん</rt></ruby>。<ruby><rb>出入</rb><rt>でい</rt></ruby>り<ruby><rb>口</rb><rt>ぐち</rt></ruby>。
+- word: 改札
+  descriptions:
+  - （<ruby><rb>駅</rb><rt>えき</rt></ruby>などの<ruby><rb>出入</rb><rt>でい</rt></ruby>り<ruby><rb>口</rb><rt>ぐち</rt></ruby>で）<ruby><rb>乗客</rb><rt>じょうきゃく</rt></ruby>のきっぷを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。また、その<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: ケース
+  descriptions:
+  - <ruby><rb>箱</rb><rt>はこ</rt></ruby>。<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+  - <ruby><rb>場合</rb><rt>ばあい</rt></ruby>。できごと。
+- word: 床
+  descriptions:
+  - <ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、<ruby><rb>地面</rb><rt>じめん</rt></ruby>より<ruby><rb>高</rb><rt>たか</rt></ruby>く、<ruby><rb>板</rb><rt>いた</rt></ruby>を<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>張</rb><rt>は</rt></ruby>ったところ。
+- word: 埋める
+  descriptions:
+  - <ruby><rb>穴</rb><rt>あな</rt></ruby>をほって<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>土</rb><rt>つち</rt></ruby>や<ruby><rb>砂</rb><rt>すな</rt></ruby>をかぶせる。
+  - ふさいで<ruby><rb>平</rb><rt>たい</rt></ruby>らにする。
+  - すき<ruby><rb>間</rb><rt>ま</rt></ruby>なく、いっぱいにする。
+  - お<ruby><rb>湯</rb><rt>ゆ</rt></ruby>に<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて、ぬるくする。
+  - <ruby><rb>足</rb><rt>た</rt></ruby>りない<ruby><rb>分</rb><rt>ぶん</rt></ruby>を<ruby><rb>補</rb><rt>おぎな</rt></ruby>う。
+- word: 車椅子
+  descriptions:
+  - <ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>病気</rb><rt>びょうき</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>などが、<ruby><rb>腰</rb><rt>こし</rt></ruby>かけたまま<ruby><rb>移動</rb><rt>いどう</rt></ruby>できるように<ruby><rb>車</rb><rt>くるま</rt></ruby>をつけた、いす。
+- word: ディスプレー
+  descriptions:
+  - <ruby><rb>商品</rb><rt>しょうひん</rt></ruby>などのかざりつけ。<ruby><rb>展示</rb><rt>てんじ</rt></ruby>。
+  - コンピューターで、<ruby><rb>文字</rb><rt>もじ</rt></ruby>や<ruby><rb>図表</rb><rt>ずひょう</rt></ruby>を<ruby><rb>映</rb><rt>うつ</rt></ruby>し<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011229651000/k10011229651000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/20/ICカードかざさず通過-ゲートのない改札口-鉄道新技術
+...

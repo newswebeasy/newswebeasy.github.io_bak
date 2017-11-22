@@ -1,0 +1,113 @@
+---
+layout: web_news
+categories: web
+newsid: k10011229651000
+title: ＩＣカードかざさず通過 ゲートのない改札口 鉄道新技術
+title_with_ruby: ＩＣカードかざさず<ruby>通過<rt data-ruby-level="5">つうか</rt></ruby> ゲートのない<ruby>改札口<rt
+  data-ruby-level="4">かいさつぐち</rt></ruby> <ruby>鉄道<rt data-ruby-level="3">てつどう</rt></ruby><ruby>新技術<rt
+  data-ruby-level="5">しんぎじゅつ</rt></ruby>
+last_modified_at: '2017-11-20T18:10:00+09:00'
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>11<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>20<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 18<ruby>時<rt data-ruby-level="2">じ</rt></ruby>10<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ＩＣカードをかざさなくても通ることができるゲートのない改札口や、旅客機のようにディスプレーを備えた座席など、鉄道に関する新しい技術を大手電機メーカーが発表しました。
+summary: ＩＣカードをかざさなくても<ruby>通<rt data-ruby-level="2">とお</rt></ruby>ることができるゲートのない<ruby>改札口<rt
+  data-ruby-level="4">かいさつぐち</rt></ruby>や、<ruby>旅客機<rt data-ruby-level="7">りょかっき</rt></ruby>のようにディスプレーを<ruby>備<rt
+  data-ruby-level="5">そな</rt></ruby>えた<ruby>座席<rt data-ruby-level="6">ざせき</rt></ruby>など、<ruby>鉄道<rt
+  data-ruby-level="3">てつどう</rt></ruby>に<ruby>関<rt data-ruby-level="4">かん</rt></ruby>する<ruby>新<rt
+  data-ruby-level="2">あたら</rt></ruby>しい<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>を<ruby>大手<rt
+  data-ruby-level="1">おおて</rt></ruby><ruby>電機<rt data-ruby-level="4">でんき</rt></ruby>メーカーが<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/20/K10011229651_1711201715_1711201716_01_02.jpg
+more: <ruby>三菱電機<rt data-ruby-level="8">みつびしでんき</rt></ruby>が<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>したのは、<ruby>列車<rt
+  data-ruby-level="3">れっしゃ</rt></ruby>や<ruby>駅<rt data-ruby-level="3">えき</rt></ruby>など<ruby>未来<rt
+  data-ruby-level="4">みらい</rt></ruby>の<ruby>鉄道<rt data-ruby-level="3">てつどう</rt></ruby>をコンセプトにしたさまざまな<ruby>技術<rt
+  data-ruby-level="5">ぎじゅつ</rt></ruby>です。このうち、ゲートのない<ruby>改札口<rt data-ruby-level="4">かいさつぐち</rt></ruby>は、ＩＣカードをかざさなくても<ruby>通<rt
+  data-ruby-level="2">とお</rt></ruby>ることができる<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>です。ＩＣカードを<ruby>専用<rt
+  data-ruby-level="6">せんよう</rt></ruby>のケースに<ruby>入<rt data-ruby-level="1">い</rt></ruby>れると、<ruby>床<rt
+  data-ruby-level="7">ゆか</rt></ruby>に<ruby>埋<rt data-ruby-level="7">う</rt></ruby>め<ruby>込<rt
+  data-ruby-level="7">こ</rt></ruby>まれた<ruby>受信機<rt data-ruby-level="4">じゅしんき</rt></ruby>が<ruby>乗車駅<rt
+  data-ruby-level="3">じょうしゃえき</rt></ruby>などのデータを<ruby>受信<rt data-ruby-level="4">じゅしん</rt></ruby>する<ruby>仕組<rt
+  data-ruby-level="3">しく</rt></ruby>みで、<ruby>車<rt data-ruby-level="1">くるま</rt></ruby>いすやベビーカーが<ruby>通<rt
+  data-ruby-level="2">とお</rt></ruby>りやすく、<ruby>混雑時<rt data-ruby-level="5">こんざつじ</rt></ruby>にゲートに<ruby>引<rt
+  data-ruby-level="2">ひ</rt></ruby>っかかり、<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>の<ruby>流<rt
+  data-ruby-level="3">なが</rt></ruby>れを<ruby>妨<rt data-ruby-level="7">さまた</rt></ruby>げる<ruby>事態<rt
+  data-ruby-level="5">じたい</rt></ruby>も<ruby>防<rt data-ruby-level="5">ふせ</rt></ruby>ぐことができるといいます。<br
+  /><br />また、この<ruby>改札口<rt data-ruby-level="4">かいさつぐち</rt></ruby>では、カメラの<ruby>映像<rt
+  data-ruby-level="6">えいぞう</rt></ruby>をＡＩが<ruby>分析<rt data-ruby-level="7">ぶんせき</rt></ruby>して<ruby>車<rt
+  data-ruby-level="1">くるま</rt></ruby>いすに<ruby>乗<rt data-ruby-level="3">の</rt></ruby>るなど<ruby>乗<rt
+  data-ruby-level="6">の</rt></ruby>り<ruby>降<rt data-ruby-level="6">お</rt></ruby>りの<ruby>際<rt
+  data-ruby-level="5">さい</rt></ruby>に<ruby>介助<rt data-ruby-level="7">かいじょ</rt></ruby>が<ruby>必要<rt
+  data-ruby-level="4">ひつよう</rt></ruby>な<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>をいち<ruby>早<rt
+  data-ruby-level="1">はや</rt></ruby>く<ruby>捉<rt data-ruby-level="7">とら</rt></ruby>えることもできるということです。<br
+  /><br /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>、２０<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>公開<rt
+  data-ruby-level="3">こうかい</rt></ruby>された<ruby>未来<rt data-ruby-level="4">みらい</rt></ruby>の<ruby>列車<rt
+  data-ruby-level="3">れっしゃ</rt></ruby>の<ruby>座席<rt data-ruby-level="6">ざせき</rt></ruby>は、<ruby>旅客機<rt
+  data-ruby-level="7">りょかっき</rt></ruby>のようにそれぞれにディスプレーが<ruby>備<rt data-ruby-level="5">そな</rt></ruby>えられています。<ruby>特急<rt
+  data-ruby-level="4">とっきゅう</rt></ruby><ruby>列車<rt data-ruby-level="3">れっしゃ</rt></ruby>などの<ruby>指定席<rt
+  data-ruby-level="4">していせき</rt></ruby>を<ruby>想定<rt data-ruby-level="3">そうてい</rt></ruby>していて、<ruby>到着<rt
+  data-ruby-level="7">とうちゃく</rt></ruby><ruby>時刻<rt data-ruby-level="6">じこく</rt></ruby>までに<ruby>見終<rt
+  data-ruby-level="3">みお</rt></ruby>えることができる<ruby>映画<rt data-ruby-level="6">えいが</rt></ruby>を<ruby>選<rt
+  data-ruby-level="4">えら</rt></ruby>んだり、<ruby>車内<rt data-ruby-level="2">しゃない</rt></ruby><ruby>販売<rt
+  data-ruby-level="7">はんばい</rt></ruby>を<ruby>注文<rt data-ruby-level="3">ちゅうもん</rt></ruby>したりすることができるということです。<br
+  /><br /><ruby>会社<rt data-ruby-level="2">かいしゃ</rt></ruby>では、こうした<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>を２０２５<ruby>年以降<rt
+  data-ruby-level="6">ねんいこう</rt></ruby>に<ruby>実用化<rt data-ruby-level="3">じつようか</rt></ruby>したいとしています。<br
+  /><ruby>三菱電機<rt data-ruby-level="8">みつびしでんき</rt></ruby>デザイン<ruby>研究所<rt data-ruby-level="3">けんきゅうじょ</rt></ruby>の<ruby>阿部<rt
+  data-ruby-level="8">あべ</rt></ruby><ruby>敬人<rt data-ruby-level="8">ひろと</rt></ruby><ruby>所長<rt
+  data-ruby-level="3">しょちょう</rt></ruby>は「<ruby>公共<rt data-ruby-level="4">こうきょう</rt></ruby><ruby>交通<rt
+  data-ruby-level="2">こうつう</rt></ruby><ruby>機関<rt data-ruby-level="4">きかん</rt></ruby>にも<ruby>最先端<rt
+  data-ruby-level="7">さいせんたん</rt></ruby>の<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>を<ruby>導入<rt
+  data-ruby-level="5">どうにゅう</rt></ruby>し、より<ruby>利便性<rt data-ruby-level="5">りべんせい</rt></ruby>の<ruby>高<rt
+  data-ruby-level="2">たか</rt></ruby>いサービスを<ruby>提供<rt data-ruby-level="6">ていきょう</rt></ruby>していきたい」と<ruby>話<rt
+  data-ruby-level="2">はな</rt></ruby>していました。
+movie_url: https://newswebeasy.github.io/ja201711/news/web/movie/2017/11/20/k10011229651_201711201807_201711201812.mp4
+voice_url: https://newswebeasy.github.io/ja201711/news/web/voice/2017/11/20/k10011229651_201711201807_201711201812.mp3
+body:
+- title: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>が<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>みを<ruby>持<rt
+    data-ruby-level="3">も</rt></ruby>つ<ruby>鉄道<rt data-ruby-level="3">てつどう</rt></ruby><ruby>事業<rt
+    data-ruby-level="3">じぎょう</rt></ruby>
+  text: <ruby>車両<rt data-ruby-level="3">しゃりょう</rt></ruby>の<ruby>製造<rt data-ruby-level="5">せいぞう</rt></ruby>や<ruby>安全<rt
+    data-ruby-level="3">あんぜん</rt></ruby>で<ruby>正確<rt data-ruby-level="5">せいかく</rt></ruby>な<ruby>運行<rt
+    data-ruby-level="3">うんこう</rt></ruby>といった<ruby>鉄道<rt data-ruby-level="3">てつどう</rt></ruby>に<ruby>関<rt
+    data-ruby-level="8">かか</rt></ruby>わる<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>は<ruby>日本<rt
+    data-ruby-level="1">にっぽん</rt></ruby>の<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>が<ruby>世界的<rt
+    data-ruby-level="4">せかいてき</rt></ruby>に<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>みをもつ<ruby>分野<rt
+    data-ruby-level="2">ぶんや</rt></ruby>で、<ruby>各社<rt data-ruby-level="4">かくしゃ</rt></ruby>とも<ruby>成長<rt
+    data-ruby-level="4">せいちょう</rt></ruby>が<ruby>見<rt data-ruby-level="1">み</rt></ruby><ruby>込<rt
+    data-ruby-level="7">こ</rt></ruby>める<ruby>海外<rt data-ruby-level="2">かいがい</rt></ruby>での<ruby>事業<rt
+    data-ruby-level="3">じぎょう</rt></ruby>に<ruby>力<rt data-ruby-level="1">ちから</rt></ruby>を<ruby>入<rt
+    data-ruby-level="1">い</rt></ruby>れています。<br /><br />このうち<ruby>日立製作所<rt data-ruby-level="5">ひたちせいさくしょ</rt></ruby>はおととし、イギリスの<ruby>北部<rt
+    data-ruby-level="3">ほくぶ</rt></ruby>で<ruby>車両<rt data-ruby-level="3">しゃりょう</rt></ruby>を<ruby>製造<rt
+    data-ruby-level="5">せいぞう</rt></ruby>する<ruby>工場<rt data-ruby-level="2">こうじょう</rt></ruby>を<ruby>建設<rt
+    data-ruby-level="5">けんせつ</rt></ruby>したほか、イタリアでは<ruby>現地<rt data-ruby-level="5">げんち</rt></ruby>の<ruby>大手<rt
+    data-ruby-level="1">おおて</rt></ruby>メーカーの<ruby>信号<rt data-ruby-level="4">しんごう</rt></ruby>や<ruby>車両<rt
+    data-ruby-level="3">しゃりょう</rt></ruby>の<ruby>事業<rt data-ruby-level="3">じぎょう</rt></ruby>を<ruby>買収<rt
+    data-ruby-level="6">ばいしゅう</rt></ruby>しました。<br /><br />また、<ruby>川崎重工業<rt data-ruby-level="7">かわさきじゅうこうぎょう</rt></ruby>は、おととし、ワシントンで２２０<ruby>両<rt
+    data-ruby-level="3">りょう</rt></ruby>の<ruby>地下鉄<rt data-ruby-level="3">ちかてつ</rt></ruby>の<ruby>車両<rt
+    data-ruby-level="3">しゃりょう</rt></ruby>を<ruby>受注<rt data-ruby-level="3">じゅちゅう</rt></ruby>したほか、<ruby>去年<rt
+    data-ruby-level="3">きょねん</rt></ruby>はニューヨークで６０<ruby>両<rt data-ruby-level="3">りょう</rt></ruby>の<ruby>車両<rt
+    data-ruby-level="3">しゃりょう</rt></ruby>の<ruby>契約<rt data-ruby-level="7">けいやく</rt></ruby>を<ruby>成立<rt
+    data-ruby-level="4">せいりつ</rt></ruby>させるなどアメリカを<ruby>中心<rt data-ruby-level="2">ちゅうしん</rt></ruby>に<ruby>大型<rt
+    data-ruby-level="4">おおがた</rt></ruby><ruby>受注<rt data-ruby-level="3">じゅちゅう</rt></ruby>を<ruby>重<rt
+    data-ruby-level="3">かさ</rt></ruby>ねています。<br /><br />こうした<ruby>車両<rt data-ruby-level="3">しゃりょう</rt></ruby>の<ruby>製造<rt
+    data-ruby-level="5">せいぞう</rt></ruby>や<ruby>安全<rt data-ruby-level="3">あんぜん</rt></ruby>で<ruby>正確<rt
+    data-ruby-level="5">せいかく</rt></ruby>な<ruby>運行<rt data-ruby-level="3">うんこう</rt></ruby>に<ruby>加<rt
+    data-ruby-level="4">くわ</rt></ruby>え、<ruby>誰<rt data-ruby-level="7">だれ</rt></ruby>もがより<ruby>快適<rt
+    data-ruby-level="5">かいてき</rt></ruby>に<ruby>移動<rt data-ruby-level="5">いどう</rt></ruby>できる<ruby>交通<rt
+    data-ruby-level="2">こうつう</rt></ruby><ruby>手段<rt data-ruby-level="6">しゅだん</rt></ruby>を<ruby>実現<rt
+    data-ruby-level="5">じつげん</rt></ruby>しようというのが<ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>、<ruby>三菱電機<rt
+    data-ruby-level="8">みつびしでんき</rt></ruby>が<ruby>公開<rt data-ruby-level="3">こうかい</rt></ruby>した<ruby>技術<rt
+    data-ruby-level="5">ぎじゅつ</rt></ruby>です。<br /><br /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>、<ruby>鉄道<rt
+    data-ruby-level="3">てつどう</rt></ruby><ruby>会社<rt data-ruby-level="2">がいしゃ</rt></ruby>でも<ruby>鉄道<rt
+    data-ruby-level="3">てつどう</rt></ruby>をより<ruby>快適<rt data-ruby-level="5">かいてき</rt></ruby>な<ruby>移動<rt
+    data-ruby-level="5">いどう</rt></ruby><ruby>手段<rt data-ruby-level="6">しゅだん</rt></ruby>にしていこうという<ruby>動<rt
+    data-ruby-level="3">うご</rt></ruby>きが<ruby>出<rt data-ruby-level="1">で</rt></ruby>ています。<br
+    /><br /><ruby>ＪＲ東日本<rt data-ruby-level="2">じぇーあーるひがしにほん</rt></ruby>では、バスやタクシーなどと<ruby>連携<rt
+    data-ruby-level="7">れんけい</rt></ruby>して<ruby>目的地<rt data-ruby-level="4">もくてきち</rt></ruby>へのスムーズな<ruby>移動<rt
+    data-ruby-level="5">いどう</rt></ruby>の<ruby>方法<rt data-ruby-level="4">ほうほう</rt></ruby>を<ruby>検討<rt
+    data-ruby-level="6">けんとう</rt></ruby>しようと、<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>や<ruby>大学<rt
+    data-ruby-level="1">だいがく</rt></ruby>とともに<ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>、ワーキンググループを<ruby>立<rt
+    data-ruby-level="1">た</rt></ruby>ち<ruby>上<rt data-ruby-level="1">あ</rt></ruby>げることにしています。
+source_url: http://www3.nhk.or.jp/news/html/20171120/k10011229651000.html
+easy_news_url: https://newswebeasy.github.io/news/easy/2017/11/22/駅や電車で使う新しい技術を紹介
+...

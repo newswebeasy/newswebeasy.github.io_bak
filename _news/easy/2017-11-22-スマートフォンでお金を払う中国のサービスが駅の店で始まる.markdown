@@ -1,0 +1,46 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011230911000
+last_modified_at: '2017-11-22T17:20:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: 中国では、スマートフォンでお金を払う「アリペイ」と「ウィーチャットペイ」というサービスを利用する人が増えています。
+title: スマートフォンでお金を払う中国のサービスが駅の店で始まる
+title_with_ruby: スマートフォンでお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>う<ruby>中国<rt>ちゅうごく</rt></ruby>のサービスが<ruby>駅<rt>えき</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まる
+outline: 中国では、スマートフォンでお金を払う「アリペイ」と「ウィーチャットペイ」というサービスを利用する人が増えています。
+outline_with_ruby: <ruby>中国<rt>ちゅうごく</rt></ruby>では、スマートフォンでお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>う「アリペイ」と「ウィーチャットペイ」というサービスを<ruby>利用<rt>りよう</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/21/K10011230911_1711211624_1711211654_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/22/k10011230911000.mp3
+content_with_ruby: "<p><ruby>中国<rt>ちゅうごく</rt></ruby>では、スマートフォンでお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>う「アリペイ」と「ウィーチャットペイ」という<span\
+  \ style=\"color: blue;\">サービス</span>を<ruby>利用<rt>りよう</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>にあるショッピングセンターの「アトレ」は、<ruby>上野駅<rt>うえのえき</rt></ruby>と<ruby>秋葉原駅<rt>あきはばらえき</rt></ruby>でこの<span\
+  \ style=\"color: blue;\">サービス</span>を<ruby>始<rt>はじ</rt></ruby>めました。</p>\n<p>この<span\
+  \ style=\"color: blue;\">サービス</span>では、<ruby>客<rt>きゃく</rt></ruby>がスマートフォンの<span\
+  \ style=\"color: blue;\"><ruby>画面<rt>がめん</rt></ruby></span>を<ruby>店<rt>みせ</rt></ruby>のコンピューターの<ruby>前<rt>まえ</rt></ruby>に<ruby>出<rt>だ</rt></ruby>すだけで、お<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>うことができます。<span\
+  \ style=\"color: blue;\">サービス</span>が<ruby>始<rt>はじ</rt></ruby>まった２１<ruby>日<rt>にち</rt></ruby>、<ruby>上野駅<rt>うえのえき</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>化粧<rt>けしょう</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>品<rt>ひん</rt></ruby></span>を<ruby>売<rt>う</rt></ruby>る<ruby>店<rt>みせ</rt></ruby>では、<ruby>中国<rt>ちゅうごく</rt></ruby>から<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>がスマートフォンでお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>っていました。</p>\n\
+  <p>アトレは、<ruby>中国<rt>ちゅうごく</rt></ruby>から<ruby>来<rt>く</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>え<ruby>続<rt>つづ</rt></ruby>けているため、この<span\
+  \ style=\"color: blue;\">サービス</span>を<ruby>利用<rt>りよう</rt></ruby>してたくさん<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>してほしいと<ruby>考<rt>かんが</rt></ruby>えています。<ruby>来年<rt>らいねん</rt></ruby>の６<ruby>月<rt>がつ</rt></ruby>までに、２２の<ruby>駅<rt>えき</rt></ruby>にあるアトレの１５００の<ruby>店<rt>みせ</rt></ruby>で、この<span\
+  \ style=\"color: blue;\">サービス</span>を<ruby>始<rt>はじ</rt></ruby>める<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: 画面
+  descriptions:
+  - <ruby><rb>映画</rb><rt>えいが</rt></ruby>やテレビが<ruby><rb>映</rb><rt>うつ</rt></ruby>っている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+- word: 化粧
+  descriptions:
+  - おしろいや、<ruby><rb>紅</rb><rt>べに</rt></ruby>などをつけて、<ruby><rb>顔</rb><rt>かお</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+  - <ruby><rb>外側</rb><rt>そとがわ</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+- word: 品
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。<ruby><rb>品質</rb><rt>ひんしつ</rt></ruby>。
+  - <ruby><rb>種類</rb><rt>しゅるい</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011230911000/k10011230911000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/21/JR東日本の駅ビルで中国の電子決済始まる
+...
