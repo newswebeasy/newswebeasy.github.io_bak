@@ -1,0 +1,55 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011232091000
+last_modified_at: '2017-11-24T17:40:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ふん</rt></ruby>
+description: 熊本市の議会に２２日、議員の緒方夕佳さんが、生まれてから７か月の赤ちゃんを連れて出席しようとしました。
+title: 女性の議員が赤ちゃんを連れて議会に出席しようとする
+title_with_ruby: <ruby>女性<rt>じょせい</rt></ruby>の<ruby>議員<rt>ぎいん</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>連<rt>つ</rt></ruby>れて<ruby>議会<rt>ぎかい</rt></ruby>に<ruby>出席<rt>しゅっせき</rt></ruby>しようとする
+outline: 熊本市の議会に２２日、議員の緒方夕佳さんが、生まれてから７か月の赤ちゃんを連れて出席しようとしました。
+outline_with_ruby: <ruby>熊本市<rt>くまもとし</rt></ruby>の<ruby>議会<rt>ぎかい</rt></ruby>に２２<ruby>日<rt>にち</rt></ruby>、<ruby>議員<rt>ぎいん</rt></ruby>の<ruby>緒方<rt>おがた</rt></ruby><ruby>夕佳<rt>ゆうか</rt></ruby>さんが、<ruby>生<rt>う</rt></ruby>まれてから７か<ruby>月<rt>げつ</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>連<rt>つ</rt></ruby>れて<ruby>出席<rt>しゅっせき</rt></ruby>しようとしました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/22/K10011232091_1711221545_1711221545_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/24/k10011232091000.mp3
+content_with_ruby: "<p><ruby>熊本市<rt>くまもとし</rt></ruby>の<span style=\"color: blue;\"\
+  ><ruby>議会<rt>ぎかい</rt></ruby></span>に２２<ruby>日<rt>にち</rt></ruby>、<span style=\"color:\
+  \ blue;\"><ruby>議員<rt>ぎいん</rt></ruby></span>の<ruby>緒方<rt>おがた</rt></ruby><ruby>夕佳<rt>ゆうか</rt></ruby>さんが、<ruby>生<rt>う</rt></ruby>まれてから７か<ruby>月<rt>げつ</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>連<rt>つ</rt></ruby>れて<ruby>出席<rt>しゅっせき</rt></ruby>しようとしました。</p>\n\
+  <p><ruby>熊本市<rt>くまもとし</rt></ruby>の<span style=\"color: blue;\"><ruby>議会<rt>ぎかい</rt></ruby></span>の<ruby>規則<rt>きそく</rt></ruby>では、<span\
+  \ style=\"color: blue;\"><ruby>議員<rt>ぎいん</rt></ruby></span><ruby>以外<rt>いがい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>議会<rt>ぎかい</rt></ruby></span>に<ruby>出席<rt>しゅっせき</rt></ruby>することはできません。ほかの<span\
+  \ style=\"color: blue;\"><ruby>議員<rt>ぎいん</rt></ruby></span>が<ruby>緒方<rt>おがた</rt></ruby>さんに<span\
+  \ style=\"color: blue;\"><ruby>議会<rt>ぎかい</rt></ruby></span>の<ruby>部屋<rt>へや</rt></ruby>から<ruby>出<rt>で</rt></ruby>るように<ruby>言<rt>い</rt></ruby>ったため、<span\
+  \ style=\"color: blue;\"><ruby>議長<rt>ぎちょう</rt></ruby></span>などと<ruby>一緒<rt>いっしょ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>い</span>ました。その<span\
+  \ style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>、<ruby>緒方<rt>おがた</rt></ruby>さんは<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>世話<rt>せわ</rt></ruby>を<ruby>友達<rt>ともだち</rt></ruby>に<ruby>頼<rt>たの</rt></ruby>んで<span\
+  \ style=\"color: blue;\"><ruby>議会<rt>ぎかい</rt></ruby></span>に<ruby>出席<rt>しゅっせき</rt></ruby>することになりました。<span\
+  \ style=\"color: blue;\"><ruby>議会<rt>ぎかい</rt></ruby></span>は４０<ruby>分<rt>ぷん</rt></ruby><ruby>遅<rt>おく</rt></ruby>れて<ruby>始<rt>はじ</rt></ruby>まりました。</p>\n\
+  <p><ruby>緒方<rt>おがた</rt></ruby>さんは「<ruby>私<rt>わたし</rt></ruby>は<ruby>子<rt>こ</rt></ruby>どもを<ruby>育<rt>そだ</rt></ruby>てている<ruby>人<rt>ひと</rt></ruby>たちの<span\
+  \ style=\"color: blue;\"><ruby>代表<rt>だいひょう</rt></ruby></span>なので、<ruby>子<rt>こ</rt></ruby>どもと<ruby>一緒<rt>いっしょ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>議会<rt>ぎかい</rt></ruby></span>に<ruby>出席<rt>しゅっせき</rt></ruby>することができるようにしたいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 議員
+  descriptions:
+  - <ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>で<ruby><rb>選</rb><rt>えら</rt></ruby>ばれ、<ruby><rb>国会</rb><rt>こっかい</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>で、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>することをいろいろ<ruby><rb>相談</rb><rt>そうだん</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>・<ruby><rb>県議会議員</rb><rt>けんぎかいぎいん</rt></ruby>など。
+- word: 議会
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>に<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>について<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めをする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>の<ruby><rb>国会</rb><rt>こっかい</rt></ruby>と、<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>などの<ruby><rb>地方議会</rb><rt>ちほうぎかい</rt></ruby>とがある。
+- word: 議長
+  descriptions:
+  - <ruby><rb>会議</rb><rt>かいぎ</rt></ruby>を<ruby><rb>進</rb><rt>すす</rt></ruby>めたり、まとめたりする<ruby><rb>役</rb><rt>やく</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 話し合う
+  descriptions:
+  - たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。
+  - <ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+- word: 代表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって<ruby><rb>何</rb><rt>なに</rt></ruby>かをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>で<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>特色</rb><rt>とくしょく</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、そのもの。
+source_url: http://www3.nhk.or.jp/news/easy/k10011232091000/k10011232091000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/22/女性議員が議会に子連れ出席求め-開会遅れる-熊本市議会
+...
