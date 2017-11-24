@@ -1,0 +1,85 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011231511000
+last_modified_at: '2017-11-24T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: イスラム教を信じる女性たちは、髪や肌を見せないようにするために「ヒジャブ」というスカーフを使っています。
+title: イスラム教の女性に「カワイイ」デザインのスカーフを紹介する
+title_with_ruby: イスラム<ruby>教<rt>きょう</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>に「カワイイ」デザインのスカーフを<ruby>紹介<rt>しょうかい</rt></ruby>する
+outline: イスラム教を信じる女性たちは、髪や肌を見せないようにするために「ヒジャブ」というスカーフを使っています。
+outline_with_ruby: イスラム<ruby>教<rt>きょう</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じる<ruby>女性<rt>じょせい</rt></ruby>たちは、<ruby>髪<rt>かみ</rt></ruby>や<ruby>肌<rt>はだ</rt></ruby>を<ruby>見<rt>み</rt></ruby>せないようにするために「ヒジャブ」というスカーフを<ruby>使<rt>つか</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/22/K10011231511_1711220514_1711220515_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/24/k10011231511000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\">イスラム<ruby>教<rt>きょう</rt></ruby></span>を<span\
+  \ style=\"color: blue;\"><ruby>信<rt>しん</rt></ruby>じる</span><ruby>女性<rt>じょせい</rt></ruby>たちは、<ruby>髪<rt>かみ</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>肌<rt>はだ</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>せないようにするために「ヒジャブ」という<span\
+  \ style=\"color: blue;\">スカーフ</span>を<ruby>使<rt>つか</rt></ruby>っています。</p>\n<p><ruby>東京<rt>とうきょう</rt></ruby>で２１<ruby>日<rt>にち</rt></ruby>、かわいい<span\
+  \ style=\"color: blue;\">デザイン</span>のヒジャブを<ruby>紹介<rt>しょうかい</rt></ruby>する<span style=\"\
+  color: blue;\">ショー</span>がありました。<span style=\"color: blue;\">イスラム<ruby>教<rt>きょう</rt></ruby></span>の<ruby>女性<rt>じょせい</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>の「カワイイ」<span\
+  \ style=\"color: blue;\">ファッション</span>を<ruby>楽<rt>たの</rt></ruby>しんでもらいたいと<ruby>考<rt>かんが</rt></ruby>えて、<ruby>日本<rt>にっぽん</rt></ruby>などの１０の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>きました。</p>\n\
+  <p><ruby>明<rt>あか</rt></ruby>るい<ruby>色<rt>いろ</rt></ruby>の<span style=\"color: blue;\"\
+  ><ruby>布<rt>ぬの</rt></ruby></span>に、フリルや<ruby>花<rt>はな</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>飾<rt>かざ</rt></ruby>り</span>を<span style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>け</span>たヒジャブもありました。<ruby>着物<rt>きもの</rt></ruby>など<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\">イメージ</span>で<ruby>作<rt>つく</rt></ruby>った<ruby>服<rt>ふく</rt></ruby>に<ruby>合<rt>あ</rt></ruby>うヒジャブもありました。</p>\n\
+  <p>マレーシアの<ruby>女性<rt>じょせい</rt></ruby>は「かわいい<span style=\"color: blue;\">デザイン</span>がすばらしいです」と<ruby>話<rt>はな</rt></ruby>していました。インドネシアの<ruby>女性<rt>じょせい</rt></ruby>は「ヒジャブから<ruby>髪<rt>かみ</rt></ruby>が<ruby>出<rt>で</rt></ruby>てしまって、<span\
+  \ style=\"color: blue;\">イスラム<ruby>教<rt>きょう</rt></ruby></span>の<ruby>規則<rt>きそく</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないものもありましたが、<span\
+  \ style=\"color: blue;\">イスラム<ruby>教<rt>きょう</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>理解<rt>りかい</rt></ruby></span>したいという<ruby>気持<rt>きも</rt></ruby>ちはすばらしいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: イスラム教
+  descriptions:
+  - <ruby><rb>七世紀</rb><rt>ななせいき</rt></ruby><ruby><rb>初</rb><rt>はじ</rt></ruby>め、アラビアでムハンマドが<ruby><rb>始</rb><rt>はじ</rt></ruby>めた、<ruby><rb>唯一</rb><rt>ゆいいつ</rt></ruby>の<ruby><rb>神</rb><rt>かみ</rt></ruby>アッラーを<ruby><rb>信</rb><rt>しん</rt></ruby>じる<ruby><rb>宗教</rb><rt>しゅうきょう</rt></ruby>。<ruby><rb>回教</rb><rt>かいきょう</rt></ruby>。
+- word: デザイン
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。
+  - <ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。
+- word: スカーフ
+  descriptions:
+  - えりもとをかざったり、<ruby><rb>頭</rb><rt>あたま</rt></ruby>にかぶったりする<ruby><rb>布</rb><rt>ぬの</rt></ruby>。
+- word: 信じる
+  descriptions:
+  - ほんとうだと<ruby><rb>心</rb><rt>こころ</rt></ruby>から<ruby><rb>思</rb><rt>おも</rt></ruby>う。
+  - <ruby><rb>神</rb><rt>かみ</rt></ruby>や、<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>を<ruby><rb>信仰</rb><rt>しんこう</rt></ruby>する。
+- word: 肌
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>。
+  - <ruby><rb>土地</rb><rt>とち</rt></ruby>などの<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。
+  - <ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。
+- word: ショー
+  descriptions:
+  - <ruby><rb>新製品</rb><rt>しんせいひん</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>展示会</rb><rt>てんじかい</rt></ruby>。
+  - <ruby><rb>舞台</rb><rt>ぶたい</rt></ruby>で<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>やおどりなどを<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+- word: ファッション
+  descriptions:
+  - <ruby><rb>流行</rb><rt>りゅうこう</rt></ruby>。はやり。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>服装</rb><rt>ふくそう</rt></ruby>についていう。
+- word: 布
+  descriptions:
+  - <ruby><rb>糸</rb><rt>いと</rt></ruby>で<ruby><rb>織</rb><rt>お</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>織物</rb><rt>おりもの</rt></ruby>。きれ。
+- word: 飾り
+  descriptions:
+  - <ruby><rb>飾</rb><rt>かざ</rt></ruby>ること。また、<ruby><rb>飾</rb><rt>かざ</rt></ruby>って<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>見</rb><rt>み</rt></ruby>せるもの。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+- word: イメージ
+  descriptions:
+  - <ruby><rb>想像</rb><rt>そうぞう</rt></ruby>して、<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にえがき<ruby><rb>出</rb><rt>だ</rt></ruby>す、ものの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+- word: 理解
+  descriptions:
+  - ものごとの<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>や、<ruby><rb>理屈</rb><rt>りくつ</rt></ruby>がわかること。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>気持</rb><rt>きも</rt></ruby>ちやようすをくみ<ruby><rb>取</rb><rt>と</rt></ruby>ること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011231511000/k10011231511000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/22/kawaii-ヒジャブのファッションショー初開催-東京浅草
+...
