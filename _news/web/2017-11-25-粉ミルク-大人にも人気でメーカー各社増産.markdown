@@ -6,9 +6,9 @@ title: 粉ミルク 大人にも人気でメーカー各社増産
 title_with_ruby: <ruby>粉<rt data-ruby-level="4">こな</rt></ruby><ruby>ミルク<rt data-ruby-level="4">みるく</rt></ruby>
   <ruby>大人<rt data-ruby-level="8">おとな</rt></ruby>にも<ruby>人気<rt data-ruby-level="1">にんき</rt></ruby>でメーカー<ruby>各社<rt
   data-ruby-level="4">かくしゃ</rt></ruby><ruby>増産<rt data-ruby-level="5">ぞうさん</rt></ruby>
-last_modified_at: '2017-11-25T15:04:00+09:00'
+last_modified_at: '2017-11-25T20:22:00+09:00'
 datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>11<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>25<ruby>日<rt
-  data-ruby-level="1">にち</rt></ruby> 15<ruby>時<rt data-ruby-level="2">じ</rt></ruby>04<ruby>分<rt
+  data-ruby-level="1">にち</rt></ruby> 20<ruby>時<rt data-ruby-level="2">じ</rt></ruby>22<ruby>分<rt
   data-ruby-level="2">ふん</rt></ruby>
 description: 健康志向の高まりで、大人でも「粉ミルク」を飲む人が増え人気となっていることから、メーカー各社が大人向けの商品を開発し増産に乗り出しています。
 summary: <ruby>健康<rt data-ruby-level="4">けんこう</rt></ruby><ruby>志向<rt data-ruby-level="5">しこう</rt></ruby>の<ruby>高<rt
@@ -69,5 +69,7 @@ more: <ruby>粉<rt data-ruby-level="4">こな</rt></ruby><ruby>ミルク<rt data
   data-ruby-level="5">ふ</rt></ruby>えると<ruby>思<rt data-ruby-level="2">おも</rt></ruby>われるので、<ruby>供給<rt
   data-ruby-level="6">きょうきゅう</rt></ruby><ruby>体制<rt data-ruby-level="5">たいせい</rt></ruby>を<ruby>整<rt
   data-ruby-level="3">ととの</rt></ruby>えたい」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>しています。
+movie_url: https://newswebeasy.github.io/ja201711/news/web/movie/2017/11/25/k10011235271_201711251920_201711251921.mp4
+voice_url: https://newswebeasy.github.io/ja201711/news/web/voice/2017/11/25/k10011235271_201711251920_201711251921.mp3
 source_url: http://www3.nhk.or.jp/news/html/20171125/k10011235271000.html
 ...
