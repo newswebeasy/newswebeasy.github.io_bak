@@ -1,0 +1,67 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011232821000
+last_modified_at: '2017-11-27T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 病院ではがんの治療のために「抗がん剤」という薬を使いますが、全部使わないで残ることがあります。
+title: 捨てたがんの薬「計算すると７３８億円になる」
+title_with_ruby: <ruby>捨<rt>す</rt></ruby>てたがんの<ruby>薬<rt>くすり</rt></ruby>「<ruby>計算<rt>けいさん</rt></ruby>すると７３８<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>になる」
+outline: 病院ではがんの治療のために「抗がん剤」という薬を使いますが、全部使わないで残ることがあります。
+outline_with_ruby: <ruby>病院<rt>びょういん</rt></ruby>ではがんの<ruby>治療<rt>ちりょう</rt></ruby>のために「<ruby>抗<rt>こう</rt></ruby>がん<ruby>剤<rt>ざい</rt></ruby>」という<ruby>薬<rt>くすり</rt></ruby>を<ruby>使<rt>つか</rt></ruby>いますが、<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>使<rt>つか</rt></ruby>わないで<ruby>残<rt>のこ</rt></ruby>ることがあります。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/23/K10011232821_1711230708_1711230710_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/27/k10011232821000.mp3
+content_with_ruby: "<p><ruby>病院<rt>びょういん</rt></ruby>では<span style=\"color: blue;\"\
+  >がん</span>の<span style=\"color: blue;\"><ruby>治療<rt>ちりょう</rt></ruby></span>のために「<ruby>抗<rt>こう</rt></ruby>がん<ruby>剤<rt>ざい</rt></ruby>」という<ruby>薬<rt>くすり</rt></ruby>を<ruby>使<rt>つか</rt></ruby>いますが、<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>使<rt>つか</rt></ruby>わないで<ruby>残<rt>のこ</rt></ruby>ることがあります。<ruby>慶応大学大学院<rt>けいおうだいがくだいがくいん</rt></ruby>の<ruby>岩本隆<rt>いわもとたかし</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>は、<ruby>使<rt>つか</rt></ruby>ったあとに<ruby>残<rt>のこ</rt></ruby>って<ruby>捨<rt>す</rt></ruby>てた<ruby>抗<rt>こう</rt></ruby>がん<ruby>剤<rt>ざい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>割合<rt>わりあい</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べました。<ruby>去年<rt>きょねん</rt></ruby>７<ruby>月<rt>がつ</rt></ruby>〜<ruby>今年<rt>ことし</rt></ruby>６<ruby>月<rt>がつ</rt></ruby>に<ruby>売<rt>う</rt></ruby>っていた１００<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<ruby>抗<rt>こう</rt></ruby>がん<ruby>剤<rt>ざい</rt></ruby>について、<ruby>国立<rt>こくりつ</rt></ruby>がん<ruby>研究<rt>けんきゅう</rt></ruby>センターと<ruby>一緒<rt>いっしょ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>しました。</p>\n<p>その<span\
+  \ style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>、<ruby>捨<rt>す</rt></ruby>てた<ruby>抗<rt>こう</rt></ruby>がん<ruby>剤<rt>ざい</rt></ruby>が１０％ぐらいあることがわかりました。<ruby>値段<rt>ねだん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>すると７３８<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>になります。ベッドの<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>が２００<ruby>以上<rt>いじょう</rt></ruby>ある<ruby>大<rt>おお</rt></ruby>きい<ruby>病院<rt>びょういん</rt></ruby>が６００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>ぐらいの<ruby>抗<rt>こう</rt></ruby>がん<ruby>剤<rt>ざい</rt></ruby>を<ruby>捨<rt>す</rt></ruby>てていました。</p>\n\
+  <p><ruby>岩本<rt>いわもと</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>は「<ruby>残<rt>のこ</rt></ruby>った<ruby>薬<rt>くすり</rt></ruby>を<ruby>捨<rt>す</rt></ruby>てないでほかの<ruby>人<rt>ひと</rt></ruby>に<ruby>使<rt>つか</rt></ruby>うようにすると、<ruby>国<rt>くに</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>医療<rt>いりょう</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>費<rt>ひ</rt></ruby></span>を１<ruby>年<rt>ねん</rt></ruby>で５００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>ぐらい<span\
+  \ style=\"color: blue;\"><ruby>減<rt>へ</rt></ruby>らす</span>ことができるかもしれません」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: がん
+  descriptions:
+  - <ruby><rb>悪性</rb><rt>あくせい</rt></ruby>のはれものができる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にできたがん<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>がどんどん<ruby><rb>増</rb><rt>ふ</rt></ruby>えて<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>害</rb><rt>がい</rt></ruby>をあたえる。
+- word: 計算
+  descriptions:
+  - <ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。
+  - <ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。
+- word: 治療
+  descriptions:
+  - <ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがの<ruby><rb>手当</rb><rt>てあ</rt></ruby>てをして<ruby><rb>治</rb><rt>なお</rt></ruby>すこと。
+- word: 割合
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>と<ruby><rb>物</rb><rt>もの</rt></ruby>との<ruby><rb>関係</rb><rt>かんけい</rt></ruby>を、<ruby><rb>数</rb><rt>かず</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。<ruby><rb>割</rb><rt>わり</rt></ruby>。<ruby><rb>率</rb><rt>りつ</rt></ruby>。<ruby><rb>歩合</rb><rt>ぶあい</rt></ruby>。
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>いのほか。<ruby><rb>比較的</rb><rt>ひかくてき</rt></ruby>。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+- word: 数
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。
+  - いくつもあること。たくさん。
+  - <ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。
+- word: 医療
+  descriptions:
+  - <ruby><rb>医者</rb><rt>いしゃ</rt></ruby>の<ruby><rb>手当</rb><rt>てあ</rt></ruby>てを<ruby><rb>受</rb><rt>う</rt></ruby>けて、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがなどを<ruby><rb>治</rb><rt>なお</rt></ruby>すこと。
+- word: 費
+  descriptions:
+  - <ruby><rb>必要</rb><rt>ひつよう</rt></ruby>なお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+  - <ruby><rb>使</rb><rt>つか</rt></ruby>い<ruby><rb>減</rb><rt>へ</rt></ruby>らす。
+- word: 減らす
+  descriptions:
+  - <ruby><rb>少</rb><rt>すく</rt></ruby>なくする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011232821000/k10011232821000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/23/使い切れず廃棄の抗がん剤-年間730億円余-専門家調査
+...

@@ -1,0 +1,44 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011235711000
+last_modified_at: '2017-11-27T17:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 化粧品会社の「ポーラ」は２５日、会社の商品を売っている店が、ドアに「中国人は入らないでください」という紙を貼っていたと発表しました。
+title: ポーラ　店が「中国人は入らないで」と貼ったことを謝る
+title_with_ruby: ポーラ　<ruby>店<rt>みせ</rt></ruby>が「<ruby>中国人<rt>ちゅうごくじん</rt></ruby>は<ruby>入<rt>はい</rt></ruby>らないで」と<ruby>貼<rt>は</rt></ruby>ったことを<ruby>謝<rt>あやま</rt></ruby>る
+outline: 化粧品会社の「ポーラ」は２５日、会社の商品を売っている店が、ドアに「中国人は入らないでください」という紙を貼っていたと発表しました。
+outline_with_ruby: <ruby>化粧<rt>けしょう</rt></ruby><ruby>品<rt>ひん</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>の「ポーラ」は２５<ruby>日<rt>にち</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>売<rt>う</rt></ruby>っている<ruby>店<rt>みせ</rt></ruby>が、ドアに「<ruby>中国人<rt>ちゅうごくじん</rt></ruby>は<ruby>入<rt>はい</rt></ruby>らないでください」という<ruby>紙<rt>かみ</rt></ruby>を<ruby>貼<rt>は</rt></ruby>っていたと<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/25/K10011235711_1711260007_1711260008_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/27/k10011235711000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>化粧<rt>けしょう</rt></ruby></span><span\
+  \ style=\"color: blue;\"><ruby>品<rt>ひん</rt></ruby></span><ruby>会社<rt>がいしゃ</rt></ruby>の「ポーラ」は２５<ruby>日<rt>にち</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>商品<rt>しょうひん</rt></ruby></span>を<ruby>売<rt>う</rt></ruby>っている<ruby>店<rt>みせ</rt></ruby>が、ドアに「<ruby>中国人<rt>ちゅうごくじん</rt></ruby>は<ruby>入<rt>はい</rt></ruby>らないでください」という<ruby>紙<rt>かみ</rt></ruby>を<ruby>貼<rt>は</rt></ruby>っていたと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>ポーラは、<ruby>貼<rt>は</rt></ruby>ってあった<ruby>紙<rt>かみ</rt></ruby>を<ruby>捨<rt>す</rt></ruby>てさせました。そして「<ruby>本当<rt>ほんとう</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>なく</span><ruby>思<rt>おも</rt></ruby>っています」と<ruby>謝<rt>あやま</rt></ruby>って、この<ruby>店<rt>みせ</rt></ruby>を<ruby>閉<rt>し</rt></ruby>めると<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<ruby>店<rt>みせ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>などは<ruby>言<rt>い</rt></ruby>っていません。</p>\n\
+  <p><ruby>中国<rt>ちゅうごく</rt></ruby>では<ruby>２４日<rt>にじゅうよっか</rt></ruby>、<ruby>貼<rt>は</rt></ruby>ってあった<ruby>紙<rt>かみ</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>がインターネットに<ruby>出<rt>で</rt></ruby>ていました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 化粧
+  descriptions:
+  - おしろいや、<ruby><rb>紅</rb><rt>べに</rt></ruby>などをつけて、<ruby><rb>顔</rb><rt>かお</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+  - <ruby><rb>外側</rb><rt>そとがわ</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+- word: 品
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。<ruby><rb>品質</rb><rt>ひんしつ</rt></ruby>。
+  - <ruby><rb>種類</rb><rt>しゅるい</rt></ruby>。
+- word: 商品
+  descriptions:
+  - <ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>買</rb><rt>か</rt></ruby>ったりするための<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 申し訳ない
+  descriptions:
+  - <ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>訳</rb><rt>わけ</rt></ruby>ができない。<ruby><rb>大変</rb><rt>たいへん</rt></ruby>すまない。
+source_url: http://www3.nhk.or.jp/news/easy/k10011235711000/k10011235711000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/25/ポーラの店舗が中国人お断りの貼り紙で謝罪
+...

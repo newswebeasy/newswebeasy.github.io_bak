@@ -1,0 +1,44 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011236461000
+last_modified_at: '2017-11-27T17:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 埼玉県羽生市で２５日と２６日、県や市などを紹介するキャラクターを集めたイベントがありました。
+title: 埼玉県で県や市のキャラクターが３００以上集まるイベント
+title_with_ruby: <ruby>埼玉県<rt>さいたまけん</rt></ruby>で<ruby>県<rt>けん</rt></ruby>や<ruby>市<rt>し</rt></ruby>のキャラクターが３００<ruby>以上<rt>いじょう</rt></ruby><ruby>集<rt>あつ</rt></ruby>まるイベント
+outline: 埼玉県羽生市で２５日と２６日、県や市などを紹介するキャラクターを集めたイベントがありました。
+outline_with_ruby: <ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>羽生市<rt>はにゅうし</rt></ruby>で２５<ruby>日<rt>にち</rt></ruby>と２６<ruby>日<rt>にち</rt></ruby>、<ruby>県<rt>けん</rt></ruby>や<ruby>市<rt>し</rt></ruby>などを<ruby>紹介<rt>しょうかい</rt></ruby>するキャラクターを<ruby>集<rt>あつ</rt></ruby>めたイベントがありました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/26/K10011236461_1711262046_1711262048_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/27/k10011236461000.mp3
+content_with_ruby: "<p><ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>羽生市<rt>はにゅうし</rt></ruby>で２５<ruby>日<rt>にち</rt></ruby>と２６<ruby>日<rt>にち</rt></ruby>、<ruby>県<rt>けん</rt></ruby>や<ruby>市<rt>し</rt></ruby>などを<ruby>紹介<rt>しょうかい</rt></ruby>する<span\
+  \ style=\"color: blue;\">キャラクター</span>を<ruby>集<rt>あつ</rt></ruby>めた<span style=\"\
+  color: blue;\">イベント</span>がありました。</p>\n<p><span style=\"color: blue;\">キャラクター</span>を<ruby>使<rt>つか</rt></ruby>って、もっと<ruby>町<rt>まち</rt></ruby>を<ruby>知<rt>し</rt></ruby>ってもらいたいと<ruby>考<rt>かんが</rt></ruby>えている<ruby>羽生市<rt>はにゅうし</rt></ruby>などが、<ruby>毎年<rt>まいとし</rt></ruby>この<span\
+  \ style=\"color: blue;\">イベント</span>を<ruby>開<rt>ひら</rt></ruby>いています。<ruby>会場<rt>かいじょう</rt></ruby>には、<ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>深谷市<rt>ふかやし</rt></ruby>の「ふっかちゃん」や、<ruby>群馬県<rt>ぐんまけん</rt></ruby>の「ぐんまちゃん」など３００<ruby>以上<rt>いじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\">キャラクター</span>が<ruby>集<rt>あつ</rt></ruby>まりました。</p>\n<p><span\
+  \ style=\"color: blue;\">キャラクター</span>たちは、かわいく<ruby>動<rt>うご</rt></ruby>きながら<ruby>自分<rt>じぶん</rt></ruby>の<ruby>町<rt>まち</rt></ruby>の<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>などを<ruby>紹介<rt>しょうかい</rt></ruby>したり、<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ったりしていました。いろいろな<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>た<span\
+  \ style=\"color: blue;\">キャラクター</span>たちの<span style=\"color: blue;\">ファッションショー</span>や<span\
+  \ style=\"color: blue;\">ダンス</span>もありました。<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちは、いつもと<ruby>違<rt>ちが</rt></ruby>う<span\
+  \ style=\"color: blue;\">キャラクター</span>たちを<ruby>楽<rt>たの</rt></ruby>しんでいました。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>女性<rt>じょせい</rt></ruby>は「<span\
+  \ style=\"color: blue;\">キャラクター</span>たちは<ruby>柔<rt>やわ</rt></ruby>らかくてかわいくて、とても<ruby>楽<rt>たの</rt></ruby>しい<ruby>気持<rt>きも</rt></ruby>ちになります」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: キャラクター
+  descriptions:
+  - <ruby><rb>性格</rb><rt>せいかく</rt></ruby>。<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>味</rb><rt>あじ</rt></ruby>。
+  - まんが・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>劇</rb><rt>げき</rt></ruby>などに<ruby><rb>出</rb><rt>で</rt></ruby>てくる<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: ファッションショー
+  descriptions:
+  - デザイナーが<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>新</rb><rt>あたら</rt></ruby>しい<ruby><rb>型</rb><rt>かた</rt></ruby>の<ruby><rb>服</rb><rt>ふく</rt></ruby>などを<ruby><rb>発表</rb><rt>はっぴょう</rt></ruby>する<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: ダンス
+  descriptions:
+  - <ruby><rb>西洋風</rb><rt>せいようふう</rt></ruby>のおどり。
+source_url: http://www3.nhk.or.jp/news/easy/k10011236461000/k10011236461000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/26/全国から300超が集合世界キャラクターさみっと埼玉
+...

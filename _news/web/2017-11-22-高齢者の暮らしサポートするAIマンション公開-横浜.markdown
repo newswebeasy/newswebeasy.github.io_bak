@@ -1,0 +1,72 @@
+---
+layout: web_news
+categories: web
+newsid: k10011232381000
+title: 高齢者の暮らしサポートするＡＩマンション公開 横浜
+title_with_ruby: <ruby>高齢者<rt data-ruby-level="7">こうれいしゃ</rt></ruby>の<ruby>暮<rt data-ruby-level="6">く</rt></ruby>らしサポートするＡＩマンション<ruby>公開<rt
+  data-ruby-level="3">こうかい</rt></ruby> <ruby>横浜<rt data-ruby-level="7">よこはま</rt></ruby>
+last_modified_at: '2017-11-22T18:43:00+09:00'
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>11<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>22<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 18<ruby>時<rt data-ruby-level="2">じ</rt></ruby>43<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 超高齢社会の中で、ＡＩ＝人工知能などの最新技術を駆使して、高齢者の暮らしをサポートするマンションが横浜市に建設され、２２日公開されました。
+summary: <ruby>超<rt data-ruby-level="7">ちょう</rt></ruby><ruby>高齢<rt data-ruby-level="7">こうれい</rt></ruby><ruby>社会<rt
+  data-ruby-level="2">しゃかい</rt></ruby>の<ruby>中<rt data-ruby-level="1">なか</rt></ruby>で、ＡＩ＝<ruby>人工<rt
+  data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt data-ruby-level="5">ちのう</rt></ruby>などの<ruby>最新<rt
+  data-ruby-level="4">さいしん</rt></ruby><ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>を<ruby>駆使<rt
+  data-ruby-level="7">くし</rt></ruby>して、<ruby>高齢者<rt data-ruby-level="7">こうれいしゃ</rt></ruby>の<ruby>暮<rt
+  data-ruby-level="6">く</rt></ruby>らしをサポートするマンションが<ruby>横浜市<rt data-ruby-level="7">よこはまし</rt></ruby>に<ruby>建設<rt
+  data-ruby-level="5">けんせつ</rt></ruby>され、２２<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>公開<rt
+  data-ruby-level="3">こうかい</rt></ruby>されました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/22/K10011232381_1711221745_1711221749_01_02.jpg
+movie_url: https://newswebeasy.github.io/ja201711/news/web/movie/2017/11/22/k10011232381_201711221832_201711221834.mp4
+voice_url: https://newswebeasy.github.io/ja201711/news/web/voice/2017/11/22/k10011232381_201711221832_201711221834.mp3
+body:
+- text: <ruby>横浜市<rt data-ruby-level="7">よこはまし</rt></ruby><ruby>住宅<rt data-ruby-level="6">じゅうたく</rt></ruby><ruby>供給<rt
+    data-ruby-level="6">きょうきゅう</rt></ruby><ruby>公社<rt data-ruby-level="2">こうしゃ</rt></ruby>が<ruby>市内<rt
+    data-ruby-level="2">しない</rt></ruby>に<ruby>建設<rt data-ruby-level="5">けんせつ</rt></ruby>したこのマンションは<ruby>通信<rt
+    data-ruby-level="4">つうしん</rt></ruby><ruby>大手<rt data-ruby-level="1">おおて</rt></ruby>のソフトバンクやネット<ruby>通販<rt
+    data-ruby-level="7">つうはん</rt></ruby><ruby>大手<rt data-ruby-level="1">おおて</rt></ruby>のアマゾンなどが<ruby>参加<rt
+    data-ruby-level="4">さんか</rt></ruby>し、１９９<ruby>戸<rt data-ruby-level="2">こ</rt></ruby>すべてにＡＩ＝<ruby>人工<rt
+    data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt data-ruby-level="5">ちのう</rt></ruby>を<ruby>取<rt
+    data-ruby-level="3">と</rt></ruby>り<ruby>入<rt data-ruby-level="3">い</rt></ruby>れた<ruby>最<rt
+    data-ruby-level="4">さい</rt></ruby><ruby>新技術<rt data-ruby-level="5">しんぎじゅつ</rt></ruby>を<ruby>備<rt
+    data-ruby-level="5">そな</rt></ruby>えています。<br /><br /><ruby>各部屋<rt data-ruby-level="8">かくへや</rt></ruby>には、ＡＩスピーカーが<ruby>設置<rt
+    data-ruby-level="5">せっち</rt></ruby>され、<ruby>声<rt data-ruby-level="2">こえ</rt></ruby>で<ruby>指示<rt
+    data-ruby-level="5">しじ</rt></ruby>することで<ruby>照明<rt data-ruby-level="4">しょうめい</rt></ruby>やエアコンなどの<ruby>家電<rt
+    data-ruby-level="2">かでん</rt></ruby>の<ruby>操作<rt data-ruby-level="6">そうさ</rt></ruby>ができます。また、<ruby>人工<rt
+    data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt data-ruby-level="5">ちのう</rt></ruby>が１<ruby>秒<rt
+    data-ruby-level="3">びょう</rt></ruby>ごとに<ruby>電力<rt data-ruby-level="2">でんりょく</rt></ruby>の<ruby>使用状況<rt
+    data-ruby-level="7">しようじょうきょう</rt></ruby>のデータを<ruby>蓄積<rt data-ruby-level="7">ちくせき</rt></ruby>して<ruby>分析<rt
+    data-ruby-level="7">ぶんせき</rt></ruby>し、<ruby>炊飯器<rt data-ruby-level="7">すいはんき</rt></ruby>や<ruby>洗濯機<rt
+    data-ruby-level="7">せんたくき</rt></ruby>が<ruby>使<rt data-ruby-level="3">つか</rt></ruby>われているかなど、<ruby>入居<rt
+    data-ruby-level="5">にゅうきょ</rt></ruby>している<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>の<ruby>生活<rt
+    data-ruby-level="2">せいかつ</rt></ruby>をきめ<ruby>細<rt data-ruby-level="2">こま</rt></ruby>かく<ruby>把握<rt
+    data-ruby-level="7">はあく</rt></ruby>します。<br /><br />この<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>は、スマートフォンのアプリを<ruby>通<rt
+    data-ruby-level="2">つう</rt></ruby>じて<ruby>離<rt data-ruby-level="7">はな</rt></ruby>れて<ruby>暮<rt
+    data-ruby-level="6">く</rt></ruby>らす<ruby>家族<rt data-ruby-level="3">かぞく</rt></ruby>にも<ruby>届<rt
+    data-ruby-level="6">とど</rt></ruby>けられ、<ruby>入居<rt data-ruby-level="5">にゅうきょ</rt></ruby>しているお<ruby>年寄<rt
+    data-ruby-level="5">としよ</rt></ruby>りの<ruby>生活<rt data-ruby-level="2">せいかつ</rt></ruby>を<ruby>見守<rt
+    data-ruby-level="3">みまも</rt></ruby>り<ruby>異変<rt data-ruby-level="6">いへん</rt></ruby>をキャッチできるということです。さらに、ＡＩスピーカーが<ruby>電気<rt
+    data-ruby-level="2">でんき</rt></ruby><ruby>料金<rt data-ruby-level="4">りょうきん</rt></ruby>などを<ruby>知<rt
+    data-ruby-level="2">し</rt></ruby>らせてくれるほか、<ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>は<ruby>就寝<rt
+    data-ruby-level="7">しゅうしん</rt></ruby><ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>なども<ruby>分析<rt
+    data-ruby-level="7">ぶんせき</rt></ruby>して<ruby>健康<rt data-ruby-level="4">けんこう</rt></ruby><ruby>管理<rt
+    data-ruby-level="4">かんり</rt></ruby>のサポートもできるようになるということです。<br /><br /><ruby>横浜市<rt
+    data-ruby-level="7">よこはまし</rt></ruby><ruby>住宅<rt data-ruby-level="6">じゅうたく</rt></ruby><ruby>供給<rt
+    data-ruby-level="6">きょうきゅう</rt></ruby><ruby>公社<rt data-ruby-level="2">こうしゃ</rt></ruby>の<ruby>今村<rt
+    data-ruby-level="2">いまむら</rt></ruby><ruby>美幸<rt data-ruby-level="8">みゆき</rt></ruby><ruby>主事<rt
+    data-ruby-level="3">しゅじ</rt></ruby>は「<ruby>高齢<rt data-ruby-level="7">こうれい</rt></ruby><ruby>社会<rt
+    data-ruby-level="2">しゃかい</rt></ruby>が<ruby>進<rt data-ruby-level="3">すす</rt></ruby>んでも<ruby>人工<rt
+    data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt data-ruby-level="5">ちのう</rt></ruby>を<ruby>活用<rt
+    data-ruby-level="2">かつよう</rt></ruby>することで<ruby>快適<rt data-ruby-level="5">かいてき</rt></ruby>で<ruby>健康<rt
+    data-ruby-level="4">けんこう</rt></ruby>な<ruby>生活<rt data-ruby-level="2">せいかつ</rt></ruby>を<ruby>送<rt
+    data-ruby-level="3">おく</rt></ruby>ってほしい」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>しています。<br
+    /><br />マンションはすでにほとんどが<ruby>分譲<rt data-ruby-level="7">ぶんじょう</rt></ruby>されていて、<ruby>来年<rt
+    data-ruby-level="2">らいねん</rt></ruby>１<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>から<ruby>入居<rt
+    data-ruby-level="5">にゅうきょ</rt></ruby>が<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>まるということです。
+  textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/22/K10011232381_1711221832_1711221835_01_04.jpg
+source_url: http://www3.nhk.or.jp/news/html/20171122/k10011232381000.html
+easy_news_url: https://newswebeasy.github.io/news/easy/2017/11/27/横浜市-住んでいる人の生活をAIで手伝うマンション
+...
