@@ -1,0 +1,51 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011237201000
+last_modified_at: '2017-11-28T17:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 「量子コンピューター」は、スーパーコンピューターよりずっと速く計算できるコンピューターです。
+title: 日本の「量子コンピューター」が使えるウェブサイト
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の「<ruby>量子<rt>りょうし</rt></ruby>コンピューター」が<ruby>使<rt>つか</rt></ruby>えるウェブサイト
+outline: 「量子コンピューター」は、スーパーコンピューターよりずっと速く計算できるコンピューターです。
+outline_with_ruby: 「<ruby>量子<rt>りょうし</rt></ruby>コンピューター」は、スーパーコンピューターよりずっと<ruby>速<rt>はや</rt></ruby>く<ruby>計算<rt>けいさん</rt></ruby>できるコンピューターです。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/27/K10011237201_1711271813_1711271827_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/28/k10011237201000.mp3
+content_with_ruby: "<p>「<ruby>量子<rt>りょうし</rt></ruby>コンピューター」は、スーパーコンピューターよりずっと<ruby>速<rt>はや</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>できるコンピューターです。<ruby>光<rt>ひかり</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>粒<rt>つぶ</rt></ruby></span>など<ruby>量子<rt>りょうし</rt></ruby>という<span\
+  \ style=\"color: blue;\"><ruby>物質<rt>ぶっしつ</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">ルール</span>を<ruby>使<rt>つか</rt></ruby>っています。</p>\n<p>ＮＴＴや<ruby>国立情報学研究所<rt>こくりつじょうほうがくけんきゅうじょ</rt></ruby>などは、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>量子<rt>りょうし</rt></ruby>コンピューターを<ruby>作<rt>つく</rt></ruby>りました。ＮＴＴなどによると、スーパーコンピューターの１００<ruby>倍<rt>ばい</rt></ruby><ruby>速<rt>はや</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>することもできます。</p>\n<p>２７<ruby>日<rt>にち</rt></ruby>、インターネットを<ruby>使<rt>つか</rt></ruby>ってこのコンピューターで<span\
+  \ style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>してみることができる<span style=\"\
+  color: blue;\">ウェブサイト</span>ができました。<ruby>日本<rt>にっぽん</rt></ruby>だけではなくて、アメリカ、ロシア、<ruby>中国<rt>ちゅうごく</rt></ruby>など<ruby>世界<rt>せかい</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>者<rt>しゃ</rt></ruby></span>たちがこの<span style=\"color:\
+  \ blue;\">ウェブサイト</span>に<ruby>来<rt>き</rt></ruby>ています。</p>\n<p></p>\n<p></p>"
+words:
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+- word: 計算
+  descriptions:
+  - <ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。
+  - <ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。
+- word: 粒
+  descriptions:
+  - <ruby><rb>小</rb><rt>ちい</rt></ruby>さくて<ruby><rb>丸</rb><rt>まる</rt></ruby>いもの。
+  - <ruby><rb>集</rb><rt>あつ</rt></ruby>まっているものの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>質</rb><rt>しつ</rt></ruby>や<ruby><rb>大</rb><rt>おお</rt></ruby>きさ。
+  - <ruby><rb>小</rb><rt>ちい</rt></ruby>さくて<ruby><rb>丸</rb><rt>まる</rt></ruby>いものを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 物質
+  descriptions:
+  - <ruby><rb>見</rb><rt>み</rt></ruby>たりさわったりすることができるもの。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+- word: ルール
+  descriptions:
+  - <ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。
+- word: 者
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - ものごと。ことがら。
+source_url: http://www3.nhk.or.jp/news/easy/k10011237201000/k10011237201000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/27/初の国産量子コンピューター-計算能力の体験サイト公開
+...
