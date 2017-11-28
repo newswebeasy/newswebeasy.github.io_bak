@@ -1,0 +1,49 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011236281000
+last_modified_at: '2017-11-28T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 日本では最近、コンピューターのＡＩという技術で、どの課にどの人を置くか決める会社が出てきています。
+title: ＡＩが社員のデータを調べて仕事に合った人を選ぶ
+title_with_ruby: ＡＩが<ruby>社員<rt>しゃいん</rt></ruby>のデータを<ruby>調<rt>しら</rt></ruby>べて<ruby>仕事<rt>しごと</rt></ruby>に<ruby>合<rt>あ</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ
+outline: 日本では最近、コンピューターのＡＩという技術で、どの課にどの人を置くか決める会社が出てきています。
+outline_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>では<ruby>最近<rt>さいきん</rt></ruby>、コンピューターのＡＩという<ruby>技術<rt>ぎじゅつ</rt></ruby>で、どの<ruby>課<rt>か</rt></ruby>にどの<ruby>人<rt>ひと</rt></ruby>を<ruby>置<rt>お</rt></ruby>くか<ruby>決<rt>き</rt></ruby>める<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>出<rt>で</rt></ruby>てきています。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/26/K10011236281_1711261802_1711261803_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/28/k10011236281000.mp3
+content_with_ruby: "<p><ruby>日本<rt>にっぽん</rt></ruby>では<ruby>最近<rt>さいきん</rt></ruby>、コンピューターのＡＩという<ruby>技術<rt>ぎじゅつ</rt></ruby>で、どの<span\
+  \ style=\"color: blue;\"><ruby>課<rt>か</rt></ruby></span>にどの<ruby>人<rt>ひと</rt></ruby>を<ruby>置<rt>お</rt></ruby>くか<ruby>決<rt>き</rt></ruby>める<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>出<rt>で</rt></ruby>てきています。ＡＩを<ruby>利用<rt>りよう</rt></ruby>した<span\
+  \ style=\"color: blue;\">システム</span>を<ruby>使<rt>つか</rt></ruby>うと、コンピューターが<span style=\"\
+  color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>の<ruby>経験<rt>けいけん</rt></ruby>などを<ruby>考<rt>かんが</rt></ruby>えて、<ruby>仕事<rt>しごと</rt></ruby>に<ruby>合<rt>あ</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>を<ruby>選<rt>えら</rt></ruby>びます。</p>\n\
+  <p>「<ruby>東京<rt>とうきょう</rt></ruby>エレクトロン」という<ruby>会社<rt>かいしゃ</rt></ruby>は、１<ruby>万<rt>まん</rt></ruby>２０００<ruby>人<rt>にん</rt></ruby>ぐらいの<span\
+  \ style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>の<ruby>経験<rt>けいけん</rt></ruby>や<ruby>外国語<rt>がいこくご</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>などを<span\
+  \ style=\"color: blue;\">データ</span>にして、ＡＩを<ruby>利用<rt>りよう</rt></ruby>した<span style=\"\
+  color: blue;\">システム</span>を<ruby>使<rt>つか</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>めました。<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>までのやり<ruby>方<rt>かた</rt></ruby>より<ruby>仕事<rt>しごと</rt></ruby>がうまく<ruby>進<rt>すす</rt></ruby>むようになったと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><span style=\"color: blue;\">データ</span>にない<ruby>仕事<rt>しごと</rt></ruby>をどう<span\
+  \ style=\"color: blue;\"><ruby>評価<rt>ひょうか</rt></ruby></span>するかなどは、これから<ruby>考<rt>かんが</rt></ruby>えなければならないと<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 社員
+  descriptions:
+  - その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。
+- word: データ
+  descriptions:
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。
+  - コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。
+- word: 課
+  descriptions:
+  - <ruby><rb>役所</rb><rt>やくしょ</rt></ruby>や<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>で、<ruby><rb>仕事</rb><rt>しごと</rt></ruby>ごとに<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>区分</rb><rt>くわ</rt></ruby>け。
+  - わりあて。わりあてたもの。
+- word: システム
+  descriptions:
+  - <ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+  - ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。
+- word: 評価
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>の<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>めること。
+  - ものごとのよしあしや、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちを<ruby><rb>決</rb><rt>き</rt></ruby>めること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011236281000/k10011236281000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/26/人工知能で社員データ分析-最適人事で人手不足に対応
+...
