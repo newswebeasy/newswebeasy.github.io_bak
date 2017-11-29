@@ -1,0 +1,61 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011237051000
+last_modified_at: '2017-11-29T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>29<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 化粧品の会社の資生堂は、スマートフォンを使って、その日の肌に合う化粧品を家で作ることができる機械を発表しました。
+title: その日の肌に合う化粧品を家で作る機械
+title_with_ruby: その<ruby>日<rt>ひ</rt></ruby>の<ruby>肌<rt>はだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う<ruby>化粧<rt>けしょう</rt></ruby><ruby>品<rt>ひん</rt></ruby>を<ruby>家<rt>いえ</rt></ruby>で<ruby>作<rt>つく</rt></ruby>る<ruby>機械<rt>きかい</rt></ruby>
+outline: 化粧品の会社の資生堂は、スマートフォンを使って、その日の肌に合う化粧品を家で作ることができる機械を発表しました。
+outline_with_ruby: <ruby>化粧<rt>けしょう</rt></ruby><ruby>品<rt>ひん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>資生堂<rt>しせいどう</rt></ruby>は、スマートフォンを<ruby>使<rt>つか</rt></ruby>って、その<ruby>日<rt>ひ</rt></ruby>の<ruby>肌<rt>はだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う<ruby>化粧<rt>けしょう</rt></ruby><ruby>品<rt>ひん</rt></ruby>を<ruby>家<rt>いえ</rt></ruby>で<ruby>作<rt>つく</rt></ruby>ることができる<ruby>機械<rt>きかい</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/27/K10011237051_1711271722_1711271730_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/29/k10011237051000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>化粧<rt>けしょう</rt></ruby></span><span\
+  \ style=\"color: blue;\"><ruby>品<rt>ひん</rt></ruby></span>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>資生堂<rt>しせいどう</rt></ruby>は、スマートフォンを<ruby>使<rt>つか</rt></ruby>って、その<ruby>日<rt>ひ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>肌<rt>はだ</rt></ruby></span>に<ruby>合<rt>あ</rt></ruby>う<span\
+  \ style=\"color: blue;\"><ruby>化粧<rt>けしょう</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>品<rt>ひん</rt></ruby></span>を<ruby>家<rt>いえ</rt></ruby>で<ruby>作<rt>つく</rt></ruby>ることができる<ruby>機械<rt>きかい</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>アプリを<ruby>入<rt>い</rt></ruby>れたスマートフォンで<span\
+  \ style=\"color: blue;\"><ruby>肌<rt>はだ</rt></ruby></span>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ると、アプリが<span\
+  \ style=\"color: blue;\"><ruby>肌<rt>はだ</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>水分<rt>すいぶん</rt></ruby></span>などを<ruby>調<rt>しら</rt></ruby>べます。そして、<span style=\"\
+  color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>や<span style=\"color: blue;\"><ruby>湿度<rt>しつど</rt></ruby></span>なども<ruby>考<rt>かんが</rt></ruby>えて、その<ruby>日<rt>ひ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>肌<rt>はだ</rt></ruby></span>にいちばん<ruby>合<rt>あ</rt></ruby>うように、<ruby>乳液<rt>にゅうえき</rt></ruby>などの<span\
+  \ style=\"color: blue;\"><ruby>化粧<rt>けしょう</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>品<rt>ひん</rt></ruby></span>を<ruby>機械<rt>きかい</rt></ruby>が<ruby>作<rt>つく</rt></ruby>ります。</p>\n\
+  <p><ruby>資生堂<rt>しせいどう</rt></ruby>は「その<ruby>日<rt>ひ</rt></ruby>の<span style=\"color:\
+  \ blue;\"><ruby>肌<rt>はだ</rt></ruby></span>に<ruby>合<rt>あ</rt></ruby>う<span style=\"\
+  color: blue;\"><ruby>化粧<rt>けしょう</rt></ruby></span><span style=\"color: blue;\"><ruby>品<rt>ひん</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>いたい<ruby>女性<rt>じょせい</rt></ruby>は<ruby>大勢<rt>おおぜい</rt></ruby>います」と<ruby>言<rt>い</rt></ruby>っています。たくさんの<ruby>人<rt>ひと</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くため、<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>からこの<ruby>機械<rt>きかい</rt></ruby>を<ruby>売<rt>う</rt></ruby>ってみる<ruby>計画<rt>けいかく</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 肌
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>。
+  - <ruby><rb>土地</rb><rt>とち</rt></ruby>などの<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。
+  - <ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。
+- word: 化粧
+  descriptions:
+  - おしろいや、<ruby><rb>紅</rb><rt>べに</rt></ruby>などをつけて、<ruby><rb>顔</rb><rt>かお</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+  - <ruby><rb>外側</rb><rt>そとがわ</rt></ruby>をきれいに<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+- word: 品
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。<ruby><rb>品質</rb><rt>ひんしつ</rt></ruby>。
+  - <ruby><rb>種類</rb><rt>しゅるい</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 水分
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>にふくまれている<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>量</rb><rt>りょう</rt></ruby>。みずけ。
+- word: 気温
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。
+- word: 湿度
+  descriptions:
+  - <ruby><rb>空気中</rb><rt>くうきちゅう</rt></ruby>にふくまれている、<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>の<ruby><rb>割合</rb><rt>わりあい</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011237051000/k10011237051000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/27/スマホ使って自分だけの化粧品を
+...

@@ -1,0 +1,62 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011236951000
+last_modified_at: '2017-11-29T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>29<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 「レアアース」はとても珍しい金属で、電気自動車やスマートフォンなどを作るために必要です。
+title: 日本の海で取ったレアアースからＬＥＤライトを作る
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<ruby>取<rt>と</rt></ruby>ったレアアースからＬＥＤライトを<ruby>作<rt>つく</rt></ruby>る
+outline: 「レアアース」はとても珍しい金属で、電気自動車やスマートフォンなどを作るために必要です。
+outline_with_ruby: 「レアアース」はとても<ruby>珍<rt>めずら</rt></ruby>しい<ruby>金属<rt>きんぞく</rt></ruby>で、<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>やスマートフォンなどを<ruby>作<rt>つく</rt></ruby>るために<ruby>必要<rt>ひつよう</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/27/K10011236951_1711271619_1711271623_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/29/k10011236951000.mp3
+content_with_ruby: "<p>「レアアース」はとても<ruby>珍<rt>めずら</rt></ruby>しい<span style=\"color:\
+  \ blue;\"><ruby>金属<rt>きんぞく</rt></ruby></span>で、<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>やスマートフォンなどを<ruby>作<rt>つく</rt></ruby>るために<ruby>必要<rt>ひつよう</rt></ruby>です。<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>南鳥島<rt>みなみとりしま</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くで２０１２<ruby>年<rt>ねん</rt></ruby>、<ruby>海<rt>うみ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>底<rt>そこ</rt></ruby></span>にある<span style=\"color:\
+  \ blue;\"><ruby>泥<rt>どろ</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>から、たくさんのレアアースが<ruby>見<rt>み</rt></ruby>つかりました。</p>\n\
+  <p><ruby>東京大学<rt>とうきょうだいがく</rt></ruby>の<span style=\"color: blue;\">グループ</span>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<ruby>取<rt>と</rt></ruby>ったレアアースを<ruby>使<rt>つか</rt></ruby>って<span\
+  \ style=\"color: blue;\">ＬＥＤ</span><span style=\"color: blue;\">ライト</span>を<ruby>作<rt>つく</rt></ruby>りました。<span\
+  \ style=\"color: blue;\">グループ</span>によると、<ruby>海<rt>うみ</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>底<rt>そこ</rt></ruby></span>にあるレアアースから<span style=\"color: blue;\"\
+  ><ruby>製品<rt>せいひん</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>ったのは、<ruby>世界<rt>せかい</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めてです。</p>\n\
+  <p><span style=\"color: blue;\">グループ</span>は、２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う<span\
+  \ style=\"color: blue;\">オリンピック</span>と<span style=\"color: blue;\">パラリンピック</span>の<ruby>会場<rt>かいじょう</rt></ruby>で、この<span\
+  \ style=\"color: blue;\">ＬＥＤ</span><span style=\"color: blue;\">ライト</span>を<ruby>使<rt>つか</rt></ruby>ってほしいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: LED
+  descriptions:
+  - <ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>が<ruby><rb>流</rb><rt>なが</rt></ruby>れると、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>さずに<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。<ruby><rb>電力消費</rb><rt>でんりょくしょうひ</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なく、<ruby><rb>寿命</rb><rt>じゅみょう</rt></ruby>が<ruby><rb>長</rb><rt>なが</rt></ruby>いため、<ruby><rb>白熱電球</rb><rt>はくねつでんきゅう</rt></ruby>や<ruby><rb>蛍光灯</rb><rt>けいこうとう</rt></ruby>にかわる<ruby><rb>光源</rb><rt>こうげん</rt></ruby>として<ruby><rb>使</rb><rt>つか</rt></ruby>われる。
+- word: ライト
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>。<ruby><rb>照明</rb><rt>しょうめい</rt></ruby>。
+  - <ruby><rb>明</rb><rt>あか</rt></ruby>るいこと。
+  - <ruby><rb>軽</rb><rt>かる</rt></ruby>いこと。
+- word: 金属
+  descriptions:
+  - ふつうは<ruby><rb>固体</rb><rt>こたい</rt></ruby>で、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>電気</rb><rt>でんき</rt></ruby>をよく<ruby><rb>伝</rb><rt>つた</rt></ruby>えるもの。<ruby><rb>鉄</rb><rt>てつ</rt></ruby>・<ruby><rb>銅</rb><rt>どう</rt></ruby>・<ruby><rb>金</rb><rt>きん</rt></ruby>・<ruby><rb>銀</rb><rt>ぎん</rt></ruby>・アルミニウムなど。
+- word: 底
+  descriptions:
+  - くぼんだ<ruby><rb>物</rb><rt>もの</rt></ruby>のいちばん<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - いちばんおく<ruby><rb>深</rb><rt>ふか</rt></ruby>いところ。
+  - ものごとの<ruby><rb>果</rb><rt>は</rt></ruby>て。<ruby><rb>限</rb><rt>かぎ</rt></ruby>り。
+- word: 泥
+  descriptions:
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>けのある、やわらかい<ruby><rb>土</rb><rt>つち</rt></ruby>。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 製品
+  descriptions:
+  - <ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>４年</rb><rt>よねん</rt></ruby>に<ruby><rb>１度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011236951000/k10011236951000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/27/日本の海底レアアースでLED-東大などが成功
+...
