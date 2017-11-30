@@ -1,0 +1,52 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011241011000
+last_modified_at: '2017-11-30T16:40:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ふん</rt></ruby>
+description: ２９日、北朝鮮が発射したミサイルが日本海に落ちました。
+title: ミサイルを発射した北朝鮮について国連が会議を開く
+title_with_ruby: ミサイルを<ruby>発射<rt>はっしゃ</rt></ruby>した<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>について<ruby>国連<rt>こくれん</rt></ruby>が<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>く
+outline: ２９日、北朝鮮が発射したミサイルが日本海に落ちました。
+outline_with_ruby: ２９<ruby>日<rt>にち</rt></ruby>、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が<ruby>発射<rt>はっしゃ</rt></ruby>したミサイルが<ruby>日本海<rt>にほんかい</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/30/K10011241011_1711301216_1711301218_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/30/k10011241011000.mp3
+content_with_ruby: "<p>２９<ruby>日<rt>にち</rt></ruby>、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>発射<rt>はっしゃ</rt></ruby></span>した<span style=\"color:\
+  \ blue;\">ミサイル</span>が<span style=\"color: blue;\"><ruby>日本海<rt>にほんかい</rt></ruby></span>に<ruby>落<rt>お</rt></ruby>ちました。<ruby>専門家<rt>せんもんか</rt></ruby>などは、この<span\
+  \ style=\"color: blue;\">ミサイル</span>はアメリカに<span style=\"color: blue;\"><ruby>届<rt>とど</rt></ruby>く</span>ぐらい<ruby>遠<rt>とお</rt></ruby>くまで<ruby>飛<rt>と</rt></ruby>ぶと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>とアメリカと<ruby>韓国<rt>かんこく</rt></ruby>は、<span style=\"\
+  color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>安全保障理事会<rt>あんぜんほしょうりじかい</rt></ruby></span>に<ruby>急<rt>いそ</rt></ruby>いで<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>くように<ruby>言<rt>い</rt></ruby>いました。<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>の３０<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>安全保障理事会<rt>あんぜんほしょうりじかい</rt></ruby></span>は<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>きました。</p>\n\
+  <p>アメリカは<ruby>世界中<rt>せかいじゅう</rt></ruby>の<ruby>国<rt>くに</rt></ruby>に、<ruby>貿易<rt>ぼうえき</rt></ruby>など<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>との<ruby>関係<rt>かんけい</rt></ruby>を<ruby>全部<rt>ぜんぶ</rt></ruby>やめるように<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>しかし<ruby>中国<rt>ちゅうごく</rt></ruby>とロシアは、アメリカの<ruby>言<rt>い</rt></ruby>う<ruby>通<rt>とお</rt></ruby>りにすると<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちの<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなるので<ruby>反対<rt>はんたい</rt></ruby>だと<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>アメリカや<ruby>日本<rt>にっぽん</rt></ruby>と、<ruby>中国<rt>ちゅうごく</rt></ruby>やロシアの<ruby>意見<rt>いけん</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>っているので、<span\
+  \ style=\"color: blue;\"><ruby>安全保障理事会<rt>あんぜんほしょうりじかい</rt></ruby></span>がどうするかまだ<ruby>決<rt>き</rt></ruby>まっていません。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ミサイル
+  descriptions:
+  - ロケットなどの<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>飛</rb><rt>と</rt></ruby>び、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby><ruby><rb>装置</rb><rt>そうち</rt></ruby>によって、<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>をとらえる<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>誘導弾</rb><rt>ゆうどうだん</rt></ruby>。
+- word: 発射
+  descriptions:
+  - <ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>のたまやロケットなどを、<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: 日本海
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>東</rb><rt>ひがし</rt></ruby>と<ruby><rb>日本列島</rb><rt>にほんれっとう</rt></ruby>にはさまれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: 届く
+  descriptions:
+  - <ruby><rb>送</rb><rt>おく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>着</rb><rt>つ</rt></ruby>く。
+  - のばしたものが、つく。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>いなどがかなう。
+- word: 安全保障理事会
+  descriptions:
+  - <ruby><rb>国連</rb><rt>こくれん</rt></ruby>の<ruby><rb>主要機関</rb><rt>しゅようきかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>国際社会</rb><rt>こくさいしゃかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ることを<ruby><rb>目的</rb><rt>もくてき</rt></ruby>とし、１５の<ruby><rb>国連加盟国</rb><rt>こくれんかめいこく</rt></ruby>で<ruby><rb>構成</rb><rt>こうせい</rt></ruby>されている。
+source_url: http://www3.nhk.or.jp/news/easy/k10011241011000/k10011241011000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/30/国連安保理-米と中ロの立場の違い際立つ
+...

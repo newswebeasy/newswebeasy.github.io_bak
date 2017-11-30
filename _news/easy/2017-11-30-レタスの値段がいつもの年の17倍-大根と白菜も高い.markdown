@@ -1,0 +1,67 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011240001000
+last_modified_at: '2017-11-30T16:40:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ふん</rt></ruby>
+description: 農林水産省は、４７０のスーパーなどで、キャベツ、レタス、トマト、白菜、大根の５つの野菜の値段を調べています。
+title: レタスの値段がいつもの年の１．７倍　大根と白菜も高い
+title_with_ruby: レタスの<ruby>値段<rt>ねだん</rt></ruby>がいつもの<ruby>年<rt>とし</rt></ruby>の１．７<ruby>倍<rt>ばい</rt></ruby>　<ruby>大根<rt>だいこん</rt></ruby>と<ruby>白菜<rt>はくさい</rt></ruby>も<ruby>高<rt>たか</rt></ruby>い
+outline: 農林水産省は、４７０のスーパーなどで、キャベツ、レタス、トマト、白菜、大根の５つの野菜の値段を調べています。
+outline_with_ruby: <ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby>は、４７０のスーパーなどで、キャベツ、レタス、トマト、<ruby>白菜<rt>はくさい</rt></ruby>、<ruby>大根<rt>だいこん</rt></ruby>の５つの<ruby>野菜<rt>やさい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べています。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/29/K10011240001_1711291730_1711291731_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/30/k10011240001000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby></span>は、４７０のスーパーなどで、<span\
+  \ style=\"color: blue;\">キャベツ</span>、<span style=\"color: blue;\">レタス</span>、<span\
+  \ style=\"color: blue;\">トマト</span>、<span style=\"color: blue;\"><ruby>白菜<rt>はくさい</rt></ruby></span>、<span\
+  \ style=\"color: blue;\"><ruby>大根<rt>だいこん</rt></ruby></span>の５つの<ruby>野菜<rt>やさい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べています。そして、１ｋｇの<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>を<ruby>毎週<rt>まいしゅう</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しています。</p>\n<p>２９<ruby>日<rt>にち</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>によると、<span style=\"\
+  color: blue;\">レタス</span>と<span style=\"color: blue;\"><ruby>大根<rt>だいこん</rt></ruby></span>と<span\
+  \ style=\"color: blue;\"><ruby>白菜<rt>はくさい</rt></ruby></span>はいつもの<ruby>年<rt>とし</rt></ruby>より<ruby>高<rt>たか</rt></ruby>くなりました。<span\
+  \ style=\"color: blue;\">キャベツ</span>と<span style=\"color: blue;\">トマト</span>は<ruby>少<rt>すこ</rt></ruby>し<ruby>安<rt>やす</rt></ruby>くなりました。</p>\n\
+  <p><span style=\"color: blue;\">レタス</span>はいつもの<ruby>年<rt>とし</rt></ruby>の１．７４<ruby>倍<rt>ばい</rt></ruby>で８７３<ruby>円<rt>えん</rt></ruby>でした。<span\
+  \ style=\"color: blue;\"><ruby>大根<rt>だいこん</rt></ruby></span>は１．１３<ruby>倍<rt>ばい</rt></ruby>の１９０<ruby>円<rt>えん</rt></ruby>で、<span\
+  \ style=\"color: blue;\"><ruby>白菜<rt>はくさい</rt></ruby></span>は１．０４<ruby>倍<rt>ばい</rt></ruby>の２０９<ruby>円<rt>えん</rt></ruby>でした。１０<ruby>月<rt>がつ</rt></ruby>に<ruby>台風<rt>たいふう</rt></ruby>が<ruby>来<rt>き</rt></ruby>たり<ruby>雨<rt>あめ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いたりして、<ruby>野菜<rt>やさい</rt></ruby>があまり<span\
+  \ style=\"color: blue;\"><ruby>育<rt>そだ</rt></ruby>た</span>なかったため、<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby></span>は「<span\
+  \ style=\"color: blue;\"><ruby>大根<rt>だいこん</rt></ruby></span>と<span style=\"color:\
+  \ blue;\"><ruby>白菜<rt>はくさい</rt></ruby></span>はこれからもっと<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなるかもしれません。<span\
+  \ style=\"color: blue;\">レタス</span>は１２<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまで<ruby>高<rt>たか</rt></ruby>い<ruby>値段<rt>ねだん</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>きそうです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: レタス
+  descriptions:
+  - キャベツに<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>西洋野菜</rb><rt>せいようやさい</rt></ruby>。サラダなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。タマヂシャ。
+- word: 大根
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>野菜</rb><rt>やさい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>白</rb><rt>しろ</rt></ruby>くて<ruby><rb>太</rb><rt>ふと</rt></ruby>い<ruby><rb>根</rb><rt>ね</rt></ruby>を<ruby><rb>食</rb><rt>た</rt></ruby>べる。
+  - <ruby><rb>下手</rb><rt>へた</rt></ruby>な<ruby><rb>役者</rb><rt>やくしゃ</rt></ruby>。
+- word: 白菜
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>野菜</rb><rt>やさい</rt></ruby>。<ruby><rb>葉</rb><rt>は</rt></ruby>は<ruby><rb>重</rb><rt>かさ</rt></ruby>なり<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>根</rb><rt>ね</rt></ruby>もとは<ruby><rb>白</rb><rt>しろ</rt></ruby>くて<ruby><rb>厚</rb><rt>あつ</rt></ruby>い。つけ<ruby><rb>物</rb><rt>もの</rt></ruby>やなべ<ruby><rb>物</rb><rt>もの</rt></ruby>にする。
+- word: 農林水産省
+  descriptions:
+  - <ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>・<ruby><rb>林業</rb><rt>りんぎょう</rt></ruby>・<ruby><rb>水産業</rb><rt>すいさんぎょう</rt></ruby>・<ruby><rb>畜産業</rb><rt>ちくさんぎょう</rt></ruby>などについての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>農水省</rb><rt>のうすいしょう</rt></ruby>。
+- word: キャベツ
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>野菜</rb><rt>やさい</rt></ruby>。<ruby><rb>短</rb><rt>みじか</rt></ruby>い<ruby><rb>茎</rb><rt>くき</rt></ruby>に、<ruby><rb>厚</rb><rt>あつ</rt></ruby>くて<ruby><rb>大</rb><rt>おお</rt></ruby>きい<ruby><rb>葉</rb><rt>は</rt></ruby>が<ruby><rb>重</rb><rt>かさ</rt></ruby>なって、<ruby><rb>球</rb><rt>たま</rt></ruby>のように<ruby><rb>巻</rb><rt>ま</rt></ruby>く。カンラン。タマナ。
+- word: トマト
+  descriptions:
+  - ナスのなかまの<ruby><rb>野菜</rb><rt>やさい</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>赤</rb><rt>あか</rt></ruby>く<ruby><rb>熟</rb><rt>じゅく</rt></ruby>した<ruby><rb>実</rb><rt>み</rt></ruby>を、<ruby><rb>生</rb><rt>なま</rt></ruby>で<ruby><rb>食</rb><rt>た</rt></ruby>べたり、<ruby><rb>料理</rb><rt>りょうり</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>ったりする。
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 育つ
+  descriptions:
+  - <ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+  - <ruby><rb>一人前</rb><rt>いちにんまえ</rt></ruby>になる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011240001000/k10011240001000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/29/野菜価格高騰-レタスは平年の17倍
+...

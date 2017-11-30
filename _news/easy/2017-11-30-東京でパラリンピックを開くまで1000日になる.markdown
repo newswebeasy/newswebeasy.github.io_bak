@@ -1,0 +1,69 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011240321000
+last_modified_at: '2017-11-30T16:40:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ふん</rt></ruby>
+description: ２９日、東京でパラリンピックを開くまで１０００日になりました。
+title: 東京でパラリンピックを開くまで１０００日になる
+title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>でパラリンピックを<ruby>開<rt>ひら</rt></ruby>くまで１０００<ruby>日<rt>にち</rt></ruby>になる
+outline: ２９日、東京でパラリンピックを開くまで１０００日になりました。
+outline_with_ruby: ２９<ruby>日<rt>にち</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>でパラリンピックを<ruby>開<rt>ひら</rt></ruby>くまで１０００<ruby>日<rt>にち</rt></ruby>になりました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/29/K10011240321_1711292057_1711292100_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/30/k10011240321000.mp3
+content_with_ruby: "<p>２９<ruby>日<rt>にち</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>で<span\
+  \ style=\"color: blue;\">パラリンピック</span>を<ruby>開<rt>ひら</rt></ruby>くまで１０００<ruby>日<rt>にち</rt></ruby>になりました。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>墨田区<rt>すみだく</rt></ruby>にある<ruby>東京<rt>とうきょう</rt></ruby>スカイツリーで、<span\
+  \ style=\"color: blue;\"><ruby>記念<rt>きねん</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">イベント</span>がありました。<span style=\"color: blue;\">パラリンピック</span>の<ruby>準備<rt>じゅんび</rt></ruby>をしている<ruby>組織委員会<rt>そしきいいんかい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>や<ruby>水泳<rt>すいえい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>などが<ruby>出席<rt>しゅっせき</rt></ruby>しました。<ruby>組織委員会<rt>そしきいいんかい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「２０２０<ruby>年<rt>ねん</rt></ruby>には、<span\
+  \ style=\"color: blue;\">パラリンピック</span>の<ruby>会場<rt>かいじょう</rt></ruby>を<span style=\"\
+  color: blue;\"><ruby>満員<rt>まんいん</rt></ruby></span>にしたいと<ruby>思<rt>おも</rt></ruby>っています。みなさん、<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>活躍<rt>かつやく</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>にきてください」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>午後<rt>ごご</rt></ruby>６<ruby>時<rt>じ</rt></ruby>ごろ、<ruby>東京<rt>とうきょう</rt></ruby>スカイツリーの<span\
+  \ style=\"color: blue;\">ライト</span>がついて、<ruby>赤<rt>あか</rt></ruby>、<ruby>青<rt>あお</rt></ruby>、<ruby>緑<rt>みどり</rt></ruby>の３つの<ruby>色<rt>いろ</rt></ruby>に<ruby>光<rt>ひか</rt></ruby>りました。<ruby>赤<rt>あか</rt></ruby>、<ruby>青<rt>あお</rt></ruby>、<ruby>緑<rt>みどり</rt></ruby>は<span\
+  \ style=\"color: blue;\">パラリンピック</span>の<span style=\"color: blue;\">マーク</span>の<ruby>色<rt>いろ</rt></ruby>です。</p>\n\
+  <p><span style=\"color: blue;\">イベント</span>では、<ruby>体<rt>からだ</rt></ruby>に<span style=\"\
+  color: blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>のスポーツをすることもできました。２４<ruby>歳<rt>さい</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>は、<ruby>足<rt>あし</rt></ruby>をなくした<ruby>人<rt>ひと</rt></ruby>がスポーツをするときに<ruby>使<rt>つか</rt></ruby>う<ruby>義足<rt>ぎそく</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってみました。<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>義足<rt>ぎそく</rt></ruby>で<ruby>走<rt>はし</rt></ruby>るのは<ruby>大変<rt>たいへん</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>いました。<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>がどのくらいの<ruby>速<rt>はや</rt></ruby>さで<ruby>走<rt>はし</rt></ruby>っているのか<ruby>見<rt>み</rt></ruby>たくなりました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。４<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: 記念
+  descriptions:
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>しておくこと。また、その<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 満員
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>がいっぱいで、それ<ruby><rb>以上</rb><rt>いじょう</rt></ruby>は、<ruby><rb>入</rb><rt>はい</rt></ruby>れないこと。
+  - <ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>会場</rb><rt>かいじょう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に、<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>人数</rb><rt>にんずう</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>入</rb><rt>はい</rt></ruby>ること。
+- word: 活躍
+  descriptions:
+  - めざましく<ruby><rb>働</rb><rt>はたら</rt></ruby>くこと。
+- word: ライト
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>。<ruby><rb>照明</rb><rt>しょうめい</rt></ruby>。
+  - <ruby><rb>明</rb><rt>あか</rt></ruby>るいこと。
+  - <ruby><rb>軽</rb><rt>かる</rt></ruby>いこと。
+- word: マーク
+  descriptions:
+  - しるし。<ruby><rb>記号</rb><rt>きごう</rt></ruby>。また、しるしをつけること。
+  - <ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>目</rb><rt>め</rt></ruby>をつけて<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>すること。
+  - <ruby><rb>記録</rb><rt>きろく</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ること。
+- word: 障害
+  descriptions:
+  - <ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011240321000/k10011240321000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/29/東京パラまで1000日-スカイツリー3色にライトアップ
+...
