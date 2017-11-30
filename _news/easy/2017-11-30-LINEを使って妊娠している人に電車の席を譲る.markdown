@@ -1,0 +1,66 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011238871000
+last_modified_at: '2017-11-30T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ＬＩＮＥはスマートフォンなどに入れて使うアプリで、メッセージを送ることができます。
+title: ＬＩＮＥを使って妊娠している人に電車の席を譲る
+title_with_ruby: ＬＩＮＥを<ruby>使<rt>つか</rt></ruby>って<ruby>妊娠<rt>にんしん</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>に<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>る
+outline: ＬＩＮＥはスマートフォンなどに入れて使うアプリで、メッセージを送ることができます。
+outline_with_ruby: ＬＩＮＥはスマートフォンなどに<ruby>入<rt>い</rt></ruby>れて<ruby>使<rt>つか</rt></ruby>うアプリで、メッセージを<ruby>送<rt>おく</rt></ruby>ることができます。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/29/K10011238871_1711290124_1711290517_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/30/k10011238871000.mp3
+content_with_ruby: "<p>ＬＩＮＥはスマートフォンなどに<ruby>入<rt>い</rt></ruby>れて<ruby>使<rt>つか</rt></ruby>うアプリで、<span\
+  \ style=\"color: blue;\">メッセージ</span>を<ruby>送<rt>おく</rt></ruby>ることができます。<ruby>地下鉄<rt>ちかてつ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby>メトロは、<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でＬＩＮＥを<ruby>使<rt>つか</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>妊娠<rt>にんしん</rt></ruby></span>している<ruby>人<rt>ひと</rt></ruby>に<ruby>席<rt>せき</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>譲<rt>ゆず</rt></ruby>る</span>ことができる<span style=\"color:\
+  \ blue;\">サービス</span>を<ruby>考<rt>かんが</rt></ruby>えています。<ruby>大日本印刷<rt>だいにっぽんいんさつ</rt></ruby>とＬＩＮＥの<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>います。</p>\n\
+  <p>この<span style=\"color: blue;\">サービス</span>では、<span style=\"color: blue;\"><ruby>妊娠<rt>にんしん</rt></ruby></span>している<ruby>人<rt>ひと</rt></ruby>が<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で「<ruby>座<rt>すわ</rt></ruby>りたい」という<span\
+  \ style=\"color: blue;\">メッセージ</span>をＬＩＮＥで<ruby>送<rt>おく</rt></ruby>ります。<ruby>席<rt>せき</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>譲<rt>ゆず</rt></ruby>り</span>たいと<ruby>考<rt>かんが</rt></ruby>えている<ruby>人<rt>ひと</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>登録<rt>とうろく</rt></ruby></span>をしておくと、その<span style=\"\
+  color: blue;\">メッセージ</span>が<ruby>来<rt>き</rt></ruby>ます。<span style=\"color: blue;\"\
+  ><ruby>妊娠<rt>にんしん</rt></ruby></span>している<ruby>人<rt>ひと</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<span\
+  \ style=\"color: blue;\"><ruby>車両<rt>しゃりょう</rt></ruby></span>に<ruby>乗<rt>の</rt></ruby>っていたら、<ruby>席<rt>せき</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>をＬＩＮＥで<ruby>教<rt>おし</rt></ruby>えて、<ruby>席<rt>せき</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>譲<rt>ゆず</rt></ruby>る</span>ことができます。</p>\n<p><ruby>東京<rt>とうきょう</rt></ruby>メトロなどは、<ruby>銀座<rt>ぎんざ</rt></ruby><ruby>線<rt>せん</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>で１２<ruby>月<rt>がつ</rt></ruby>１１<ruby>日<rt>にち</rt></ruby>から１５<ruby>日<rt>にち</rt></ruby>まで、この<span\
+  \ style=\"color: blue;\">サービス</span>のテストを<ruby>行<rt>おこな</rt></ruby>います。テストに<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>してくれる<ruby>人<rt>ひと</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 妊娠
+  descriptions:
+  - おなかの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>子</rb><rt>こ</rt></ruby>どもを<ruby><rb>宿</rb><rt>やど</rt></ruby>すこと。みごもること。
+- word: 譲る
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>物</rb><rt>もの</rt></ruby>を、<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>に、お<ruby><rb>金</rb><rt>かね</rt></ruby>と<ruby><rb>引</rb><rt>ひ</rt></ruby>きかえにわたす。
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>より<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>先</rb><rt>さき</rt></ruby>にする。
+  - <ruby><rb>日時</rb><rt>にちじ</rt></ruby>を<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>延</rb><rt>の</rt></ruby>ばす。
+- word: メッセージ
+  descriptions:
+  - <ruby><rb>伝言</rb><rt>でんごん</rt></ruby>。
+  - <ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>のことば。<ruby><rb>声明文</rb><rt>せいめいぶん</rt></ruby>。
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: 譲る
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>物</rb><rt>もの</rt></ruby>を、<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>に、お<ruby><rb>金</rb><rt>かね</rt></ruby>と<ruby><rb>引</rb><rt>ひ</rt></ruby>きかえにわたす。
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>より<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>先</rb><rt>さき</rt></ruby>にする。
+  - <ruby><rb>日時</rb><rt>にちじ</rt></ruby>を<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>延</rb><rt>の</rt></ruby>ばす。
+- word: 登録
+  descriptions:
+  - <ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などに<ruby><rb>届</rb><rt>とど</rt></ruby>け<ruby><rb>出</rb><rt>で</rt></ruby>て、おおやけに<ruby><rb>認</rb><rt>みと</rt></ruby>めてもらうこと。
+- word: 車両
+  descriptions:
+  - <ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>・<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>などのこと。また、その<ruby><rb>一台</rb><rt>いちだい</rt></ruby><ruby><rb>一台</rb><rt>いちだい</rt></ruby>。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011238871000/k10011238871000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/29/妊婦と乗客をLINEで結び地下鉄で座席譲る実験
+...

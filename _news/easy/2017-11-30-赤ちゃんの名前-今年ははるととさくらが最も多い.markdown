@@ -1,0 +1,30 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011238081000
+last_modified_at: '2017-11-30T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>11<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 明治安田生命は、今年生まれた赤ちゃんの中から、約１万６３００人の名前を調べました。
+title: 赤ちゃんの名前　今年は「はると」と「さくら」が最も多い
+title_with_ruby: <ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>名前<rt>なまえ</rt></ruby>　<ruby>今年<rt>ことし</rt></ruby>は「はると」と「さくら」が<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い
+outline: 明治安田生命は、今年生まれた赤ちゃんの中から、約１万６３００人の名前を調べました。
+outline_with_ruby: <ruby>明治安田生命<rt>めいじやすだせいめい</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby><ruby>生<rt>う</rt></ruby>まれた<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>中<rt>なか</rt></ruby>から、<ruby>約<rt>やく</rt></ruby>１<ruby>万<rt>まん</rt></ruby>６３００<ruby>人<rt>にん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べました。
+image_url: https://newswebeasy.github.io/ja201711/news/web/image/2017/11/28/K10011238081_1711281459_1711281520_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201711/news/easy/voice/2017/11/30/k10011238081000.mp3
+content_with_ruby: "<p><ruby>明治安田生命<rt>めいじやすだせいめい</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby><ruby>生<rt>う</rt></ruby>まれた<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>中<rt>なか</rt></ruby>から、<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１<ruby>万<rt>まん</rt></ruby>６３００<ruby>人<rt>にん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べました。</p>\n\
+  <p><ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>でいちばん<ruby>多<rt>おお</rt></ruby>かった<ruby>名前<rt>なまえ</rt></ruby>は３つで、「<ruby>陽翔<rt>はると</rt></ruby>」「<ruby>悠真<rt>ゆうま</rt></ruby>」「<ruby>悠人<rt>ゆうと</rt></ruby>」です。「<ruby>陽翔<rt>はると</rt></ruby>」という<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>書<rt>か</rt></ruby>いて「ひなと」、「<ruby>悠真<rt>ゆうま</rt></ruby>」は「はるま」、「<ruby>悠人<rt>ゆうと</rt></ruby>」は「はると」などと<ruby>読<rt>よ</rt></ruby>むこともあります。</p>\n\
+  <p><ruby>名前<rt>なまえ</rt></ruby>の<ruby>読<rt>よ</rt></ruby>み<ruby>方<rt>かた</rt></ruby>では、<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は９<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて「はると」が１<ruby>番<rt>ばん</rt></ruby>でした。</p>\n\
+  <p><ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>でいちばん<ruby>多<rt>おお</rt></ruby>かった<ruby>名前<rt>なまえ</rt></ruby>は２つで、「<ruby>咲良<rt>さくら</rt></ruby>」と「<ruby>結菜<rt>ゆいな</rt></ruby>」です。「<ruby>咲良<rt>さくら</rt></ruby>」という<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>書<rt>か</rt></ruby>いて「さら」、「<ruby>結菜<rt>ゆいな</rt></ruby>」は「ゆな」などと<ruby>読<rt>よ</rt></ruby>むこともあります。</p>\n\
+  <p><ruby>名前<rt>なまえ</rt></ruby>の<ruby>読<rt>よ</rt></ruby>み<ruby>方<rt>かた</rt></ruby>では、<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は「さくら」が<ruby>初<rt>はじ</rt></ruby>めて１<ruby>番<rt>ばん</rt></ruby>になりました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+source_url: http://www3.nhk.or.jp/news/easy/k10011238081000/k10011238081000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/28/子どもの名前人気-男の子ははると女の子はさくら
+...

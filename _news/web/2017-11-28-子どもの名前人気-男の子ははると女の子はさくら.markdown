@@ -80,4 +80,5 @@ more: この<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby>は、<r
 movie_url: https://newswebeasy.github.io/ja201711/news/web/movie/2017/11/28/k10011238081_201711281744_201711281745.mp4
 voice_url: https://newswebeasy.github.io/ja201711/news/web/voice/2017/11/28/k10011238081_201711281744_201711281745.mp3
 source_url: http://www3.nhk.or.jp/news/html/20171128/k10011238081000.html
+easy_news_url: https://newswebeasy.github.io/news/easy/2017/11/30/赤ちゃんの名前-今年ははるととさくらが最も多い
 ...
