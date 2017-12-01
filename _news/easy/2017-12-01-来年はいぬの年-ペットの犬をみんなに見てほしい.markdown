@@ -1,0 +1,52 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011238171000
+last_modified_at: '2017-12-01T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>01<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 来年は十二支で「いぬ」の年です。
+title: 来年は「いぬ」の年　ペットの犬をみんなに見てほしい
+title_with_ruby: <ruby>来年<rt>らいねん</rt></ruby>は「いぬ」の<ruby>年<rt>とし</rt></ruby>　ペットの<ruby>犬<rt>いぬ</rt></ruby>をみんなに<ruby>見<rt>み</rt></ruby>てほしい
+outline: 来年は十二支で「いぬ」の年です。
+outline_with_ruby: <ruby>来年<rt>らいねん</rt></ruby>は<ruby>十二支<rt>じゅうにし</rt></ruby>で「いぬ」の<ruby>年<rt>とし</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/11/28/K10011238171_1711281642_1711281648_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/01/k10011238171000.mp3
+content_with_ruby: "<p><ruby>来年<rt>らいねん</rt></ruby>は<span style=\"color: blue;\"><ruby>十二支<rt>じゅうにし</rt></ruby></span>で「いぬ」の<ruby>年<rt>とし</rt></ruby>です。<ruby>犬<rt>いぬ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きな<ruby>人<rt>ひと</rt></ruby>は、<ruby>正月<rt>しょうがつ</rt></ruby>のあいさつに<ruby>送<rt>おく</rt></ruby>る<ruby>年賀状<rt>ねんがじょう</rt></ruby>にペットの<ruby>犬<rt>いぬ</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ったりして<ruby>準備<rt>じゅんび</rt></ruby>をしています。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>にあるペットの<ruby>服<rt>ふく</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<ruby>店<rt>みせ</rt></ruby>では、<ruby>正月<rt>しょうがつ</rt></ruby>のきれいな<ruby>着物<rt>きもの</rt></ruby>や<span\
+  \ style=\"color: blue;\">ドレス</span>を<ruby>犬<rt>いぬ</rt></ruby>のために<ruby>作<rt>つく</rt></ruby>っています。できた<ruby>着物<rt>きもの</rt></ruby>を<ruby>取<rt>と</rt></ruby>りに<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は「<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>家族<rt>かぞく</rt></ruby>なのでいい<ruby>物<rt>もの</rt></ruby>にしたいと<ruby>思<rt>おも</rt></ruby>いました。これから<ruby>年賀状<rt>ねんがじょう</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ります」と<ruby>言<rt>い</rt></ruby>って、<ruby>絹<rt>きぬ</rt></ruby>の<ruby>着物<rt>きもの</rt></ruby>などに４<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>払<rt>はら</rt></ruby>っていました。</p>\n\
+  <p><span style=\"color: blue;\">プロ</span>の<span style=\"color: blue;\">カメラマン</span>が<ruby>犬<rt>いぬ</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>る<span\
+  \ style=\"color: blue;\">スタジオ</span>もあります。<ruby>犬<rt>いぬ</rt></ruby>を<span style=\"\
+  color: blue;\">シャンプー</span>してから<ruby>年賀状<rt>ねんがじょう</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>りに<ruby>来<rt>く</rt></ruby>る<ruby>客<rt>きゃく</rt></ruby>もいました。<ruby>客<rt>きゃく</rt></ruby>の<ruby>１人<rt>ひとり</rt></ruby>は「<ruby>次<rt>つぎ</rt></ruby>のいぬの<ruby>年<rt>とし</rt></ruby>は１２<ruby>年<rt>ねん</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>後<rt>ご</rt></ruby></span>です。そのときこの<ruby>犬<rt>いぬ</rt></ruby>が<ruby>生<rt>い</rt></ruby>きているかどうかわかりません。いま<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>っておきたいんです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 十二支
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>生</rb><rt>う</rt></ruby>まれた<ruby><rb>年</rb><rt>とし</rt></ruby>や<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>・<ruby><rb>時刻</rb><rt>じこく</rt></ruby>を<ruby><rb>示</rb><rt>しめ</rt></ruby>す１２の<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>名</rb><rt>な</rt></ruby>。<ruby><rb>子</rb><rt>ね</rt></ruby>（ねずみ）・<ruby><rb>丑</rb><rt>うし</rt></ruby>・<ruby><rb>寅</rb><rt>とら</rt></ruby>・<ruby><rb>卯</rb><rt>う</rt></ruby>（うさぎ）・<ruby><rb>辰</rb><rt>たつ</rt></ruby>（りゅう）・<ruby><rb>巳</rb><rt>み</rt></ruby>（へび）・<ruby><rb>午</rb><rt>うま</rt></ruby>・<ruby><rb>未</rb><rt>ひつじ</rt></ruby>・<ruby><rb>申</rb><rt>さる</rt></ruby>・<ruby><rb>酉</rb><rt>とり</rt></ruby>（にわとり）・<ruby><rb>戌</rb><rt>いぬ</rt></ruby>・<ruby><rb>亥</rb><rt>い</rt></ruby>（いのしし）のこと。
+- word: ドレス
+  descriptions:
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>着</rb><rt>き</rt></ruby>る<ruby><rb>礼服</rb><rt>れいふく</rt></ruby>。
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>洋服</rb><rt>ようふく</rt></ruby>。
+- word: プロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。
+  - 「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+- word: カメラマン
+  descriptions:
+  - <ruby><rb>写真</rb><rt>しゃしん</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>、ビデオなどの<ruby><rb>撮影</rb><rt>さつえい</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: スタジオ
+  descriptions:
+  - <ruby><rb>写真</rb><rt>しゃしん</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>のさつえいをする<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+  - ラジオやテレビの<ruby><rb>放送室</rb><rt>ほうそうしつ</rt></ruby>。
+  - <ruby><rb>録音</rb><rt>ろくおん</rt></ruby>をする<ruby><rb>部屋</rb><rt>へや</rt></ruby>。
+- word: シャンプー
+  descriptions:
+  - かみを<ruby><rb>洗</rb><rt>あら</rt></ruby>うときに<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>液体</rb><rt>えきたい</rt></ruby>。また、それで<ruby><rb>洗</rb><rt>あら</rt></ruby>うこと。
+- word: 後
+  descriptions:
+  - うしろ。
+  - のち。あと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011238171000/k10011238171000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/28/戌年イヤーで愛犬家も大忙し
+...

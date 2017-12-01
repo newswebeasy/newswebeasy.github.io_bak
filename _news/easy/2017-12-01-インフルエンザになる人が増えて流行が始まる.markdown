@@ -1,0 +1,77 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011241291000
+last_modified_at: '2017-12-01T18:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>01<ruby>日<rt>にち</rt></ruby>
+  18<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 東京都はインフルエンザになった人の数を４１９の病院で調べています。
+title: インフルエンザになる人が増えて流行が始まる
+title_with_ruby: インフルエンザになる<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えて<ruby>流行<rt>りゅうこう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+outline: 東京都はインフルエンザになった人の数を４１９の病院で調べています。
+outline_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby>はインフルエンザになった<ruby>人<rt>ひと</rt></ruby>の<ruby>数<rt>かず</rt></ruby>を４１９の<ruby>病院<rt>びょういん</rt></ruby>で<ruby>調<rt>しら</rt></ruby>べています。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/11/30/K10011241291_1711301505_1711301507_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/01/k10011241291000.mp3
+content_with_ruby: "<p><ruby>東京都<rt>とうきょうと</rt></ruby>は<span style=\"color: blue;\"\
+  >インフルエンザ</span>になった<ruby>人<rt>ひと</rt></ruby>の<span style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>を４１９の<ruby>病院<rt>びょういん</rt></ruby>で<ruby>調<rt>しら</rt></ruby>べています。１１<ruby>月<rt>げつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>からの１<ruby>週間<rt>しゅうかん</rt></ruby>に<span\
+  \ style=\"color: blue;\">インフルエンザ</span>になって<ruby>病院<rt>びょういん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>は、１つの<ruby>病院<rt>びょういん</rt></ruby>で１．８６<ruby>人<rt>にん</rt></ruby>でした。<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>が<ruby>１人<rt>ひとり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になると、<span\
+  \ style=\"color: blue;\"><ruby>流行<rt>りゅうこう</rt></ruby></span>が<ruby>始<rt>はじ</rt></ruby>まったと<ruby>考<rt>かんが</rt></ruby>えます。このため、<ruby>東京都<rt>とうきょうと</rt></ruby>は１１<ruby>月<rt>がつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>で<span\
+  \ style=\"color: blue;\">インフルエンザ</span>の<span style=\"color: blue;\"><ruby>流行<rt>りゅうこう</rt></ruby></span>が<ruby>始<rt>はじ</rt></ruby>まったと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p><span\
+  \ style=\"color: blue;\">インフルエンザ</span>になった<ruby>子<rt>こ</rt></ruby>どもが<ruby>増<rt>ふ</rt></ruby>えてクラスなどを<ruby>休<rt>やす</rt></ruby>みにした<span\
+  \ style=\"color: blue;\"><ruby>幼稚園<rt>ようちえん</rt></ruby></span>や<ruby>学校<rt>がっこう</rt></ruby>は、５８ありました。</p>\n\
+  <p><ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>も１２<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>に、<ruby>日本中<rt>にほんじゅう</rt></ruby>で<span\
+  \ style=\"color: blue;\">インフルエンザ</span>の<span style=\"color: blue;\"><ruby>流行<rt>りゅうこう</rt></ruby></span>が<ruby>始<rt>はじ</rt></ruby>まったと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p><ruby>専門家<rt>せんもんか</rt></ruby>は、<ruby>手<rt>て</rt></ruby>をしっかり<ruby>洗<rt>あら</rt></ruby>ったり、<span\
+  \ style=\"color: blue;\">せき</span>や<span style=\"color: blue;\">くしゃみ</span>が<ruby>出<rt>で</rt></ruby>る<ruby>場合<rt>ばあい</rt></ruby>は<span\
+  \ style=\"color: blue;\">マスク</span>をしたりして、<span style=\"color: blue;\">インフルエンザ</span>にならないように<ruby>気<rt>き</rt></ruby>をつけてほしいと<ruby>言<rt>い</rt></ruby>っています。お<span\
+  \ style=\"color: blue;\"><ruby>年寄<rt>としよ</rt></ruby>り</span>などには、<ruby>早<rt>はや</rt></ruby>く<span\
+  \ style=\"color: blue;\">インフルエンザ</span>の<span style=\"color: blue;\">ワクチン</span>の<ruby>注射<rt>ちゅうしゃ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けるように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: インフルエンザ
+  descriptions:
+  - のどや<ruby><rb>気管</rb><rt>きかん</rt></ruby>などが、ウイルスによってただれる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。かぜに<ruby><rb>似</rb><rt>に</rt></ruby>ているが、<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>て、うつりやすい。<ruby><rb>流行性感冒</rb><rt>りゅうこうせいかんぼう</rt></ruby>。<ruby><rb>流感</rb><rt>りゅうかん</rt></ruby>。
+- word: 流行
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>くはやること。はやり。
+- word: 数
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。
+  - いくつもあること。たくさん。
+  - <ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 幼稚園
+  descriptions:
+  - <ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>どもに、<ruby><rb>集団生活</rb><rt>しゅうだんせいかつ</rt></ruby>に<ruby><rb>慣</rb><rt>な</rt></ruby>れさせるため、いろいろのことを<ruby><rb>教</rb><rt>おし</rt></ruby>える<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 咳
+  descriptions:
+  - のどや<ruby><rb>気管</rb><rt>きかん</rt></ruby>がしげきされて、<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>息</rb><rt>いき</rt></ruby>。
+- word: くしゃみ
+  descriptions:
+  - <ruby><rb>鼻</rb><rt>はな</rt></ruby>のねんまくが、しげきを<ruby><rb>受</rb><rt>う</rt></ruby>けて、<ruby><rb>急</rb><rt>きゅう</rt></ruby>にふき<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>息</rb><rt>いき</rt></ruby>。はくしょん。
+- word: マスク
+  descriptions:
+  - お<ruby><rb>面</rb><rt>めん</rt></ruby>。<ruby><rb>仮面</rb><rt>かめん</rt></ruby>。
+  - ほこりなどを<ruby><rb>吸</rb><rt>す</rt></ruby>わないように、<ruby><rb>口</rb><rt>くち</rt></ruby>や<ruby><rb>鼻</rb><rt>はな</rt></ruby>をおおう<ruby><rb>布</rb><rt>ぬの</rt></ruby>。
+  - ガスなどを<ruby><rb>吸</rb><rt>す</rt></ruby>わないように、<ruby><rb>消防士</rb><rt>しょうぼうし</rt></ruby>などが<ruby><rb>顔</rb><rt>かお</rt></ruby>につけるお<ruby><rb>面</rb><rt>めん</rt></ruby>。<ruby><rb>防毒面</rb><rt>ぼうどくめん</rt></ruby>。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、キャッチャーや<ruby><rb>球審</rb><rt>きゅうしん</rt></ruby>がかぶるもの。
+  - <ruby><rb>顔</rb><rt>かお</rt></ruby>。<ruby><rb>顔</rb><rt>かお</rt></ruby>だち。
+- word: 年寄り
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。
+  - <ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: ワクチン
+  descriptions:
+  - <ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>のもとになるばいきんなどから<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>薬</rb><rt>くすり</rt></ruby>。これを<ruby><rb>接種</rb><rt>せっしゅ</rt></ruby>して、その<ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>にかからないようにする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011241291000/k10011241291000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/11/30/東京都-インフルエンザ流行始まる発表
+...
