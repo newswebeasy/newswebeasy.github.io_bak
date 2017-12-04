@@ -1,0 +1,68 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011244481000
+last_modified_at: '2017-12-04T16:40:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>04<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ふん</rt></ruby>
+description: 福岡県朝倉市では、７月にたくさん雨が降って大きな被害がありました。
+title: 福岡県　「おしろい祭り」でまちが元気になるように祈る
+title_with_ruby: <ruby>福岡県<rt>ふくおかけん</rt></ruby>　「おしろい<ruby>祭<rt>まつ</rt></ruby>り」でまちが<ruby>元気<rt>げんき</rt></ruby>になるように<ruby>祈<rt>いの</rt></ruby>る
+outline: 福岡県朝倉市では、７月にたくさん雨が降って大きな被害がありました。
+outline_with_ruby: <ruby>福岡県<rt>ふくおかけん</rt></ruby><ruby>朝倉市<rt>あさくらし</rt></ruby>では、７<ruby>月<rt>がつ</rt></ruby>にたくさん<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って<ruby>大<rt>おお</rt></ruby>きな<ruby>被害<rt>ひがい</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/02/K10011244481_1712021917_1712021920_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/04/k10011244481000.mp3
+content_with_ruby: "<p><ruby>福岡県<rt>ふくおかけん</rt></ruby><ruby>朝倉市<rt>あさくらし</rt></ruby>では、７<ruby>月<rt>がつ</rt></ruby>にたくさん<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>がありました。<ruby>杷木大山地区<rt>はきおおやまちく</rt></ruby>では１６の<ruby>家<rt>いえ</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れて、<ruby>今<rt>いま</rt></ruby>も６つの<ruby>家庭<rt>かてい</rt></ruby>が<ruby>別<rt>べつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>して<ruby>生活<rt>せいかつ</rt></ruby>しています。</p>\n\
+  <p>この<span style=\"color: blue;\"><ruby>地区<rt>ちく</rt></ruby></span>には、<ruby>女性<rt>じょせい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>神<rt>かみ</rt></ruby></span><ruby>様<rt>さま</rt></ruby>がいる<ruby>神社<rt>じんじゃ</rt></ruby>があって、<ruby>毎年<rt>まいとし</rt></ruby>１２<ruby>月<rt>がつ</rt></ruby><ruby>２日<rt>ふつか</rt></ruby>に「おしろい<ruby>祭<rt>まつ</rt></ruby>り」というお<ruby>祭<rt>まつ</rt></ruby>りを<ruby>行<rt>おこな</rt></ruby>っています。<ruby>今年<rt>ことし</rt></ruby><span\
+  \ style=\"color: blue;\">とれ</span>た<ruby>米<rt>こめ</rt></ruby>の<span style=\"color:\
+  \ blue;\"><ruby>粉<rt>こな</rt></ruby></span>と<ruby>水<rt>みず</rt></ruby>で<ruby>作<rt>つく</rt></ruby>った「おしろい」を<ruby>顔<rt>かお</rt></ruby>に<ruby>塗<rt>ぬ</rt></ruby>ります。おしろいが<ruby>顔<rt>かお</rt></ruby>にきれいに<span\
+  \ style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>く</span>と、<ruby>来年<rt>らいねん</rt></ruby>は<ruby>米<rt>こめ</rt></ruby>がたくさん<span\
+  \ style=\"color: blue;\">とれる</span>と<ruby>言<rt>い</rt></ruby>われています。</p>\n<p><ruby>今年<rt>ことし</rt></ruby>は、<ruby>別<rt>べつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>も<ruby>来<rt>き</rt></ruby>て、５０<ruby>人<rt>にん</rt></ruby>ぐらいが<ruby>集<rt>あつ</rt></ruby>まりました。そして、<ruby>米<rt>こめ</rt></ruby>がたくさん<span\
+  \ style=\"color: blue;\">とれる</span>ことと、まちが<ruby>元気<rt>げんき</rt></ruby>になることを<span\
+  \ style=\"color: blue;\"><ruby>神<rt>かみ</rt></ruby></span><ruby>様<rt>さま</rt></ruby>に<ruby>祈<rt>いの</rt></ruby>りました。</p>\n\
+  <p><ruby>男性<rt>だんせい</rt></ruby>は<ruby>白<rt>しろ</rt></ruby>く<ruby>塗<rt>ぬ</rt></ruby>った<ruby>顔<rt>かお</rt></ruby>で「<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>のことは<ruby>少<rt>すこ</rt></ruby>しの<ruby>間<rt>あいだ</rt></ruby><ruby>忘<rt>わす</rt></ruby>れることができました。これからは<ruby>笑<rt>わら</rt></ruby>っていこうと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 地区
+  descriptions:
+  - <ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>範囲</rb><rt>はんい</rt></ruby>の<ruby><rb>土地</rb><rt>とち</rt></ruby>。
+- word: 神
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>知恵</rb><rt>ちえ</rt></ruby>では<ruby><rb>考</rb><rt>かんが</rt></ruby>えられない、ふしぎな<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つと<ruby><rb>信</rb><rt>しん</rt></ruby>じられているもの。
+- word: 取れる
+  descriptions:
+  - はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。
+  - つかれなどが、なくなる。
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>ることができる。
+  - そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。
+  - <ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+- word: 粉
+  descriptions:
+  - （<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>などを）<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>細</rb><rt>こま</rt></ruby>かにくだいたもの。<ruby><rb>粉末</rb><rt>ふんまつ</rt></ruby>。
+- word: 付く
+  descriptions:
+  - ものがくっつく。
+  - つきそう。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>わる。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まる。
+  - <ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。
+  - <ruby><rb>感</rb><rt>かん</rt></ruby>じる。
+  - ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。
+- word: 取れる
+  descriptions:
+  - はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。
+  - つかれなどが、なくなる。
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>ることができる。
+  - そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。
+  - <ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011244481000/k10011244481000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/02/豪雨災害からの復興願いおしろい祭り-福岡-朝倉
+...
