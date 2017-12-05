@@ -1,0 +1,84 @@
+---
+layout: web_news
+categories: web
+newsid: k10011246821000
+title: 九州・四国・中国地方 各地で初雪 交通影響など注意
+title_with_ruby: <ruby>九州<rt data-ruby-level="3">きゅうしゅう</rt></ruby>・<ruby>四国<rt data-ruby-level="2">しこく</rt></ruby>・<ruby>中国地方<rt
+  data-ruby-level="2">ちゅうごくちほう</rt></ruby> <ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>で<ruby>初雪<rt
+  data-ruby-level="4">はつゆき</rt></ruby> <ruby>交通<rt data-ruby-level="2">こうつう</rt></ruby><ruby>影響<rt
+  data-ruby-level="7">えいきょう</rt></ruby>など<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>
+last_modified_at: '2017-12-05T13:49:00+09:00'
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>12<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>05<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 13<ruby>時<rt data-ruby-level="2">じ</rt></ruby>49<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 上空に強い寒気が流れ込んで冷え込みが強まり、九州や四国、中国地方の各地で初雪を観測しました。西日本では山沿いを中心に雪の量が多くなる見込みで、気象庁は、積雪や路面の凍結による交通への影響などに注意するよう呼びかけています。
+summary: <ruby>上空<rt data-ruby-level="1">じょうくう</rt></ruby>に<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>い<ruby>寒気<rt
+  data-ruby-level="3">かんき</rt></ruby>が<ruby>流<rt data-ruby-level="7">なが</rt></ruby>れ<ruby>込<rt
+  data-ruby-level="7">こ</rt></ruby>んで<ruby>冷<rt data-ruby-level="7">ひ</rt></ruby>え<ruby>込<rt
+  data-ruby-level="7">こ</rt></ruby>みが<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>まり、<ruby>九州<rt
+  data-ruby-level="3">きゅうしゅう</rt></ruby>や<ruby>四国<rt data-ruby-level="2">しこく</rt></ruby>、<ruby>中国地方<rt
+  data-ruby-level="2">ちゅうごくちほう</rt></ruby>の<ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>で<ruby>初雪<rt
+  data-ruby-level="4">はつゆき</rt></ruby>を<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>しました。<ruby>西日本<rt
+  data-ruby-level="2">にしにほん</rt></ruby>では<ruby>山沿<rt data-ruby-level="6">やまぞ</rt></ruby>いを<ruby>中心<rt
+  data-ruby-level="2">ちゅうしん</rt></ruby>に<ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>の<ruby>量<rt
+  data-ruby-level="4">りょう</rt></ruby>が<ruby>多<rt data-ruby-level="2">おお</rt></ruby>くなる<ruby>見込<rt
+  data-ruby-level="7">みこ</rt></ruby>みで、<ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>は、<ruby>積雪<rt
+  data-ruby-level="4">せきせつ</rt></ruby>や<ruby>路面<rt data-ruby-level="3">ろめん</rt></ruby>の<ruby>凍結<rt
+  data-ruby-level="7">とうけつ</rt></ruby>による<ruby>交通<rt data-ruby-level="2">こうつう</rt></ruby>への<ruby>影響<rt
+  data-ruby-level="7">えいきょう</rt></ruby>などに<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>するよう<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけています。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/05/K10011246821_1712051156_1712051203_01_02.jpg
+more: <ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>によりますと、<ruby>西日本<rt data-ruby-level="2">にしにほん</rt></ruby>の<ruby>上空<rt
+  data-ruby-level="1">じょうくう</rt></ruby>１５００メートル<ruby>付近<rt data-ruby-level="4">ふきん</rt></ruby>に<ruby>氷点下<rt
+  data-ruby-level="3">ひょうてんか</rt></ruby>９<ruby>度<rt data-ruby-level="3">ど</rt></ruby><ruby>前後<rt
+  data-ruby-level="2">ぜんご</rt></ruby>の<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>い<ruby>寒気<rt
+  data-ruby-level="3">かんき</rt></ruby>が<ruby>流<rt data-ruby-level="7">なが</rt></ruby>れ<ruby>込<rt
+  data-ruby-level="7">こ</rt></ruby>んでいる<ruby>影響<rt data-ruby-level="7">えいきょう</rt></ruby>で<ruby>九州<rt
+  data-ruby-level="3">きゅうしゅう</rt></ruby>や<ruby>四国<rt data-ruby-level="2">しこく</rt></ruby>、<ruby>中国地方<rt
+  data-ruby-level="2">ちゅうごくちほう</rt></ruby>など<ruby>西日本<rt data-ruby-level="2">にしにほん</rt></ruby>の<ruby>山沿<rt
+  data-ruby-level="6">やまぞ</rt></ruby>いを<ruby>中心<rt data-ruby-level="2">ちゅうしん</rt></ruby>に<ruby>雪<rt
+  data-ruby-level="2">ゆき</rt></ruby>が<ruby>降<rt data-ruby-level="6">ふ</rt></ruby>っているほか、<ruby>平地<rt
+  data-ruby-level="3">ひらち</rt></ruby>でもところによって<ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>となりました。<br
+  /><br /><ruby>福岡市<rt data-ruby-level="7">ふくおかし</rt></ruby>では５<ruby>日午前<rt data-ruby-level="2">にちごぜん</rt></ruby>６<ruby>時<rt
+  data-ruby-level="2">じ</rt></ruby>の<ruby>気温<rt data-ruby-level="3">きおん</rt></ruby>が４<ruby>度<rt
+  data-ruby-level="3">ど</rt></ruby>７<ruby>分<rt data-ruby-level="2">ふん</rt></ruby>と１２<ruby>月<rt
+  data-ruby-level="1">がつ</rt></ruby><ruby>下旬<rt data-ruby-level="7">げじゅん</rt></ruby><ruby>並<rt
+  data-ruby-level="6">な</rt></ruby>みの<ruby>冷<rt data-ruby-level="7">ひ</rt></ruby>え<ruby>込<rt
+  data-ruby-level="7">こ</rt></ruby>みとなり、<ruby>午前<rt data-ruby-level="2">ごぜん</rt></ruby>７<ruby>時半<rt
+  data-ruby-level="2">じはん</rt></ruby>ごろにはみぞれが<ruby>降<rt data-ruby-level="6">ふ</rt></ruby>って<ruby>気象台<rt
+  data-ruby-level="4">きしょうだい</rt></ruby>は<ruby>初雪<rt data-ruby-level="4">はつゆき</rt></ruby>を<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>したと<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>しました。<br
+  /><br />このほか、<ruby>松江市<rt data-ruby-level="7">まつえし</rt></ruby>や<ruby>山口県下<rt data-ruby-level="3">やまぐちけんか</rt></ruby><ruby>関市<rt
+  data-ruby-level="4">せきし</rt></ruby>、<ruby>高松市<rt data-ruby-level="4">たかまつし</rt></ruby>、<ruby>熊本市<rt
+  data-ruby-level="7">くまもとし</rt></ruby>、<ruby>佐賀市<rt data-ruby-level="7">さがし</rt></ruby>で<ruby>初雪<rt
+  data-ruby-level="4">はつゆき</rt></ruby>を<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>しました。<ruby>松江市<rt
+  data-ruby-level="7">まつえし</rt></ruby>では<ruby>平年<rt data-ruby-level="3">へいねん</rt></ruby>と<ruby>同<rt
+  data-ruby-level="2">おな</rt></ruby>じ、<ruby>九州<rt data-ruby-level="3">きゅうしゅう</rt></ruby>や<ruby>四国<rt
+  data-ruby-level="2">しこく</rt></ruby>の<ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>では<ruby>平年<rt
+  data-ruby-level="3">へいねん</rt></ruby>に<ruby>比<rt data-ruby-level="5">くら</rt></ruby>べて１０<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>から１８<ruby>日早<rt data-ruby-level="1">にちはや</rt></ruby>い<ruby>初雪<rt
+  data-ruby-level="4">はつゆき</rt></ruby>です。<br /><br />５<ruby>日<rt data-ruby-level="1">にち</rt></ruby>、<ruby>日中<rt
+  data-ruby-level="1">にっちゅう</rt></ruby>も<ruby>気温<rt data-ruby-level="3">きおん</rt></ruby>があまり<ruby>上<rt
+  data-ruby-level="1">あ</rt></ruby>がらない<ruby>見込<rt data-ruby-level="7">みこ</rt></ruby>みで、<ruby>最<rt
+  data-ruby-level="4">さい</rt></ruby><ruby>高気温<rt data-ruby-level="3">こうきおん</rt></ruby>は<ruby>松江市<rt
+  data-ruby-level="7">まつえし</rt></ruby>で７<ruby>度<rt data-ruby-level="3">ど</rt></ruby>、<ruby>福岡市<rt
+  data-ruby-level="7">ふくおかし</rt></ruby>や<ruby>広島市<rt data-ruby-level="3">ひろしまし</rt></ruby>で８<ruby>度<rt
+  data-ruby-level="3">ど</rt></ruby>、<ruby>大阪市<rt data-ruby-level="8">おおさかし</rt></ruby>で１０<ruby>度<rt
+  data-ruby-level="3">ど</rt></ruby>など<ruby>平年<rt data-ruby-level="3">へいねん</rt></ruby>を４<ruby>度<rt
+  data-ruby-level="3">ど</rt></ruby>から６<ruby>度<rt data-ruby-level="3">ど</rt></ruby>ほど<ruby>下回<rt
+  data-ruby-level="2">したまわ</rt></ruby>る<ruby>予想<rt data-ruby-level="3">よそう</rt></ruby>です。<br
+  /><br /><ruby>西日本<rt data-ruby-level="2">にしにほん</rt></ruby>では、５<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>夜<rt
+  data-ruby-level="2">よる</rt></ruby>にかけて<ruby>山沿<rt data-ruby-level="6">やまぞ</rt></ruby>いを<ruby>中心<rt
+  data-ruby-level="2">ちゅうしん</rt></ruby>に<ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>の<ruby>量<rt
+  data-ruby-level="4">りょう</rt></ruby>が<ruby>多<rt data-ruby-level="2">おお</rt></ruby>くなる<ruby>見込<rt
+  data-ruby-level="7">みこ</rt></ruby>みで、<ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>は<ruby>積雪<rt
+  data-ruby-level="4">せきせつ</rt></ruby>や<ruby>路面<rt data-ruby-level="3">ろめん</rt></ruby>の<ruby>凍結<rt
+  data-ruby-level="7">とうけつ</rt></ruby>による<ruby>交通<rt data-ruby-level="2">こうつう</rt></ruby>への<ruby>影響<rt
+  data-ruby-level="7">えいきょう</rt></ruby>、<ruby>農作物<rt data-ruby-level="3">のうさくもつ</rt></ruby>の<ruby>管理<rt
+  data-ruby-level="4">かんり</rt></ruby>に<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>するよう<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけています。
+movie_url: https://newswebeasy.github.io/ja201712/news/web/movie/2017/12/05/k10011246821_201712051214_201712051217.mp4
+voice_url: https://newswebeasy.github.io/ja201712/news/web/voice/2017/12/05/k10011246821_201712051214_201712051217.mp3
+source_url: http://www3.nhk.or.jp/news/html/20171205/k10011246821000.html
+easy_news_url: https://newswebeasy.github.io/news/easy/2017/12/05/九州と四国と中国地方で初雪
+...

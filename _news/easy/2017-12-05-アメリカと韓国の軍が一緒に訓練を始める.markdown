@@ -1,0 +1,82 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011246011000
+last_modified_at: '2017-12-05T16:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>05<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: アメリカと韓国の軍は４日から、韓国で一緒に訓練を始めました。
+title: アメリカと韓国の軍が一緒に訓練を始める
+title_with_ruby: アメリカと<ruby>韓国<rt>かんこく</rt></ruby>の<ruby>軍<rt>ぐん</rt></ruby>が<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>訓練<rt>くんれん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める
+outline: アメリカと韓国の軍は４日から、韓国で一緒に訓練を始めました。
+outline_with_ruby: アメリカと<ruby>韓国<rt>かんこく</rt></ruby>の<ruby>軍<rt>ぐん</rt></ruby>は<ruby>４日<rt>よっか</rt></ruby>から、<ruby>韓国<rt>かんこく</rt></ruby>で<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>訓練<rt>くんれん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/04/K10011246011_1712041909_1712041911_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/05/k10011246011000.mp3
+content_with_ruby: "<p>アメリカと<ruby>韓国<rt>かんこく</rt></ruby>の<span style=\"color: blue;\"\
+  ><ruby>軍<rt>ぐん</rt></ruby></span>は<ruby>４日<rt>よっか</rt></ruby>から、<ruby>韓国<rt>かんこく</rt></ruby>で<ruby>一緒<rt>いっしょ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>訓練<rt>くんれん</rt></ruby></span>を<ruby>始<rt>はじ</rt></ruby>めました。アメリカ<ruby>軍<rt>ぐん</rt></ruby>によると、アメリカと<ruby>韓国<rt>かんこく</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>の<ruby>飛行機<rt>ひこうき</rt></ruby>を２３０<span\
+  \ style=\"color: blue;\"><ruby>機<rt>き</rt></ruby></span><ruby>以上<rt>いじょう</rt></ruby><ruby>使<rt>つか</rt></ruby>って、<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>訓練<rt>くんれん</rt></ruby></span>になる<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>訓練<rt>くんれん</rt></ruby></span>では、<ruby>韓国<rt>かんこく</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってきた<span\
+  \ style=\"color: blue;\"><ruby>敵<rt>てき</rt></ruby></span>の<ruby>飛行機<rt>ひこうき</rt></ruby>や、<span\
+  \ style=\"color: blue;\"><ruby>地上<rt>ちじょう</rt></ruby></span>にある<span style=\"color:\
+  \ blue;\">ミサイル</span>を<span style=\"color: blue;\"><ruby>発射<rt>はっしゃ</rt></ruby></span>する<ruby>台<rt>だい</rt></ruby>などを<span\
+  \ style=\"color: blue;\"><ruby>撃<rt>う</rt></ruby>つ</span><ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>います。<ruby>海<rt>うみ</rt></ruby>から<ruby>来<rt>く</rt></ruby>る<span\
+  \ style=\"color: blue;\"><ruby>敵<rt>てき</rt></ruby></span>を<span style=\"color: blue;\"\
+  ><ruby>攻撃<rt>こうげき</rt></ruby></span>する<span style=\"color: blue;\"><ruby>訓練<rt>くんれん</rt></ruby></span>も<ruby>行<rt>おこな</rt></ruby>います。<span\
+  \ style=\"color: blue;\"><ruby>訓練<rt>くんれん</rt></ruby></span>は<ruby>８日<rt>ようか</rt></ruby>まで<ruby>続<rt>つづ</rt></ruby>きます。</p>\n\
+  <p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は、<span style=\"color: blue;\"><ruby>朝鮮半島<rt>ちょうせんはんとう</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>平和<rt>へいわ</rt></ruby></span>を<ruby>壊<rt>こわ</rt></ruby>して、<ruby>戦争<rt>せんそう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>を<ruby>高<rt>たか</rt></ruby>くすると<ruby>言<rt>い</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>訓練<rt>くんれん</rt></ruby></span>に<ruby>反対<rt>はんたい</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 軍
+  descriptions:
+  - <ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。
+- word: 訓練
+  descriptions:
+  - <ruby><rb>教</rb><rt>おし</rt></ruby>えて、<ruby><rb>慣</rb><rt>な</rt></ruby>れさせること。また、うまくできるように<ruby><rb>練習</rb><rt>れんしゅう</rt></ruby>すること。
+- word: 機
+  descriptions:
+  - <ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。
+  - とき。きっかけ。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>動</rb><rt>うご</rt></ruby>き。
+  - はたらき。
+  - だいじな<ruby><rb>点</rb><rt>てん</rt></ruby>。
+  - 「<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。また、<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 敵
+  descriptions:
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>相手</rb><rt>あいて</rt></ruby>。うらみを<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>相手</rb><rt>あいて</rt></ruby>。かたき。
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>になる。
+- word: 地上
+  descriptions:
+  - <ruby><rb>地面</rb><rt>じめん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>。
+- word: ミサイル
+  descriptions:
+  - ロケットなどの<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>飛</rb><rt>と</rt></ruby>び、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby><ruby><rb>装置</rb><rt>そうち</rt></ruby>によって、<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>をとらえる<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>誘導弾</rb><rt>ゆうどうだん</rt></ruby>。
+- word: 発射
+  descriptions:
+  - <ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>のたまやロケットなどを、<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 撃つ
+  descriptions:
+  - （<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>などを）<ruby><rb>発射</rb><rt>はっしゃ</rt></ruby>する。
+- word: 攻撃
+  descriptions:
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>攻</rb><rt>せ</rt></ruby>めること。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>欠点</rb><rt>けってん</rt></ruby>や<ruby><rb>誤</rb><rt>あやま</rt></ruby>りを<ruby><rb>責</rb><rt>せ</rt></ruby>めること。
+- word: 朝鮮半島
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>東岸</rb><rt>とうがん</rt></ruby>からつき<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>半島</rb><rt>はんとう</rt></ruby>。<ruby><rb>朝鮮海峡</rb><rt>ちょうせんかいきょう</rt></ruby>をはさんで<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>に<ruby><rb>対</rb><rt>たい</rt></ruby>している。
+- word: 平和
+  descriptions:
+  - おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+source_url: http://www3.nhk.or.jp/news/easy/k10011246011000/k10011246011000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/04/米韓共同軍事訓練-B1爆撃機も投入へ
+...

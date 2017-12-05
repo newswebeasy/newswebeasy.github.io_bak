@@ -72,4 +72,5 @@ more: このうち、<ruby>最大手<rt data-ruby-level="4">さいおおて</rt>
 movie_url: https://newswebeasy.github.io/ja201712/news/web/movie/2017/12/02/k10011244331_201712021915_201712021919.mp4
 voice_url: https://newswebeasy.github.io/ja201712/news/web/voice/2017/12/02/k10011244331_201712021915_201712021919.mp3
 source_url: http://www3.nhk.or.jp/news/html/20171202/k10011244331000.html
+easy_news_url: https://newswebeasy.github.io/news/easy/2017/12/05/コンビニが自転車シェアリングのサービスなどを始める
 ...

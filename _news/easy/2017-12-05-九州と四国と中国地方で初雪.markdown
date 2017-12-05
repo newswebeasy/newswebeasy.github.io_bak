@@ -1,0 +1,45 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011246821000
+last_modified_at: '2017-12-05T16:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>05<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 気象庁によると、九州や四国、中国地方などで高さ１５００ｍの空にー９℃ぐらいの冷たい空気が入ってきました。
+title: 九州と四国と中国地方で初雪
+title_with_ruby: <ruby>九州<rt>きゅうしゅう</rt></ruby>と<ruby>四国<rt>しこく</rt></ruby>と<ruby>中国地方<rt>ちゅうごくちほう</rt></ruby>で<ruby>初雪<rt>はつゆき</rt></ruby>
+outline: 気象庁によると、九州や四国、中国地方などで高さ１５００ｍの空にー９℃ぐらいの冷たい空気が入ってきました。
+outline_with_ruby: <ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<ruby>九州<rt>きゅうしゅう</rt></ruby>や<ruby>四国<rt>しこく</rt></ruby>、<ruby>中国地方<rt>ちゅうごくちほう</rt></ruby>などで<ruby>高<rt>たか</rt></ruby>さ１５００ｍの<ruby>空<rt>そら</rt></ruby>にー９℃ぐらいの<ruby>冷<rt>つめ</rt></ruby>たい<ruby>空気<rt>くうき</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってきました。
+image_url: https://newswebeasy.github.io/ja201712/news/easy/image/2017/12/05/k10011246821000.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/05/k10011246821000.mp3
+content_with_ruby: "<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<span style=\"color: blue;\"\
+  ><ruby>九州<rt>きゅうしゅう</rt></ruby></span>や<span style=\"color: blue;\"><ruby>四国<rt>しこく</rt></ruby></span>、<span\
+  \ style=\"color: blue;\"><ruby>中国地方<rt>ちゅうごくちほう</rt></ruby></span>などで<ruby>高<rt>たか</rt></ruby>さ１５００ｍの<ruby>空<rt>そら</rt></ruby>にー９℃ぐらいの<ruby>冷<rt>つめ</rt></ruby>たい<ruby>空気<rt>くうき</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってきました。このため<ruby>５日<rt>いつか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>九州<rt>きゅうしゅう</rt></ruby></span>では<ruby>福岡市<rt>ふくおかし</rt></ruby>と<ruby>熊本市<rt>くまもとし</rt></ruby>と<ruby>佐賀市<rt>さがし</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>四国<rt>しこく</rt></ruby></span>では<ruby>高松市<rt>たかまつし</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>中国地方<rt>ちゅうごくちほう</rt></ruby></span>では<ruby>松江市<rt>まつえし</rt></ruby>と<ruby>下関市<rt>しものせきし</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>初雪<rt>はつゆき</rt></ruby></span>がありました。<span style=\"\
+  color: blue;\"><ruby>九州<rt>きゅうしゅう</rt></ruby></span>と<span style=\"color: blue;\"\
+  ><ruby>四国<rt>しこく</rt></ruby></span>では、いつもの<ruby>年<rt>とし</rt></ruby>より<ruby>１０日<rt>とおか</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>りました。</p>\n\
+  <p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>５日<rt>いつか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>まで<ruby>山<rt>やま</rt></ruby>などで<ruby>雪<rt>ゆき</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>りそうだと<ruby>言<rt>い</rt></ruby>っています。<ruby>道<rt>みち</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>凍<rt>こお</rt></ruby>る</span>かもしれないため、<ruby>車<rt>くるま</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby>などに<ruby>気<rt>き</rt></ruby>をつけてほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 九州地方
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>南西部</rb><rt>なんせいぶ</rt></ruby>にある<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>福岡</rb><rt>ふくおか</rt></ruby>・<ruby><rb>佐賀</rb><rt>さが</rt></ruby>・<ruby><rb>長崎</rb><rt>ながさき</rt></ruby>・<ruby><rb>熊本</rb><rt>くまもと</rt></ruby>・<ruby><rb>大分</rb><rt>おおいた</rt></ruby>・<ruby><rb>宮崎</rb><rt>みやざき</rt></ruby>・<ruby><rb>鹿児島</rb><rt>かごしま</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の八<ruby><rb>県</rb><rt>けん</rt></ruby>がある。
+- word: 四国地方
+  descriptions:
+  - <ruby><rb>瀬戸内海</rb><rt>せとないかい</rt></ruby>をはさんで<ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>と<ruby><rb>向</rb><rt>む</rt></ruby>かい<ruby><rb>合</rb><rt>あ</rt></ruby>っている<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>島</rb><rt>しま</rt></ruby>。<ruby><rb>香川</rb><rt>かがわ</rt></ruby>・<ruby><rb>高知</rb><rt>こうち</rt></ruby>・<ruby><rb>愛媛</rb><rt>えひめ</rt></ruby>・<ruby><rb>徳島</rb><rt>とくしま</rt></ruby>の四<ruby><rb>県</rb><rt>けん</rt></ruby>がある。
+- word: 中国地方
+  descriptions:
+  - <ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>の<ruby><rb>西部</rb><rt>せいぶ</rt></ruby>にあり、<ruby><rb>北</rb><rt>きた</rt></ruby>は<ruby><rb>日本海</rb><rt>にほんかい</rt></ruby>に、<ruby><rb>南</rb><rt>みなみ</rt></ruby>は<ruby><rb>瀬戸内海</rb><rt>せとないかい</rt></ruby>に<ruby><rb>面</rb><rt>めん</rt></ruby>する<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>岡山</rb><rt>おかやま</rt></ruby>・<ruby><rb>広島</rb><rt>ひろしま</rt></ruby>・<ruby><rb>山口</rb><rt>やまぐち</rt></ruby>・<ruby><rb>島根</rb><rt>しまね</rt></ruby>・<ruby><rb>鳥取</rb><rt>とっとり</rt></ruby>の<ruby><rb>五県</rb><rt>ごけん</rt></ruby>がある。<ruby><rb>中国</rb><rt>ちゅうごく</rt></ruby>。
+- word: 初雪
+  descriptions:
+  - その<ruby><rb>冬</rb><rt>ふゆ</rt></ruby>、<ruby><rb>初</rb><rt>はじ</rt></ruby>めて<ruby><rb>降</rb><rt>ふ</rt></ruby>った<ruby><rb>雪</rb><rt>ゆき</rt></ruby>。
+- word: 凍る
+  descriptions:
+  - <ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011246821000/k10011246821000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/05/九州四国中国地方-各地で初雪-交通影響など注意
+...
