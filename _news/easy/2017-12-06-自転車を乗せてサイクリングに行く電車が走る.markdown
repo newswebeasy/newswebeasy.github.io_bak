@@ -1,0 +1,54 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011245681000
+last_modified_at: '2017-12-06T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>06<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ＪＲ東日本は来年の１月６日から、自転車を乗せてサイクリングに行くことができる電車の運転を始めます。
+title: 自転車を乗せてサイクリングに行く電車が走る
+title_with_ruby: <ruby>自転車<rt>じてんしゃ</rt></ruby>を<ruby>乗<rt>の</rt></ruby>せてサイクリングに<ruby>行<rt>い</rt></ruby>く<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>走<rt>はし</rt></ruby>る
+outline: ＪＲ東日本は来年の１月６日から、自転車を乗せてサイクリングに行くことができる電車の運転を始めます。
+outline_with_ruby: ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby>の１<ruby>月<rt>がつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>から、<ruby>自転車<rt>じてんしゃ</rt></ruby>を<ruby>乗<rt>の</rt></ruby>せてサイクリングに<ruby>行<rt>い</rt></ruby>くことができる<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めます。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/04/K10011245681_1712041341_1712041415_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/06/k10011245681000.mp3
+content_with_ruby: "<p>ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby>の１<ruby>月<rt>がつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>から、<ruby>自転車<rt>じてんしゃ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>乗<rt>の</rt></ruby>せ</span>て<span style=\"color: blue;\"\
+  >サイクリング</span>に<ruby>行<rt>い</rt></ruby>くことができる<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めます。<ruby>電車<rt>でんしゃ</rt></ruby>は、<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>、<ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>両国駅<rt>りょうごくえき</rt></ruby>を<ruby>出発<rt>しゅっぱつ</rt></ruby>して、<ruby>千葉県<rt>ちばけん</rt></ruby>の<ruby>勝浦駅<rt>かつうらえき</rt></ruby>や<ruby>銚子駅<rt>ちょうしえき</rt></ruby>などへ<ruby>行<rt>い</rt></ruby>きます。</p>\n\
+  <p>この<ruby>電車<rt>でんしゃ</rt></ruby>は６<span style=\"color: blue;\"><ruby>両<rt>りょう</rt></ruby></span>で、９９<ruby>台<rt>だい</rt></ruby>の<ruby>自転車<rt>じてんしゃ</rt></ruby>を<span\
+  \ style=\"color: blue;\">たたま</span>ないで<span style=\"color: blue;\"><ruby>乗<rt>の</rt></ruby>せる</span>ことができます。<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いたあとすぐ<span\
+  \ style=\"color: blue;\">サイクリング</span>を<ruby>楽<rt>たの</rt></ruby>しむことができます。</p>\n\
+  <p>ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>で１<ruby>日<rt>にち</rt></ruby>か<ruby>２日<rt>ふつか</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>む</span>と、この<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ることができます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 乗せる
+  descriptions:
+  - <ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などに<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>む。
+  - <ruby><rb>調子</rb><rt>ちょうし</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。
+  - だます。
+- word: サイクリング
+  descriptions:
+  - <ruby><rb>楽</rb><rt>たの</rt></ruby>しみなどのために、<ruby><rb>自転車</rb><rt>じてんしゃ</rt></ruby>で<ruby><rb>遠乗</rb><rt>とおの</rt></ruby>りをすること。
+- word: 両
+  descriptions:
+  - <ruby><rb>二</rb><rt>ふた</rt></ruby>つ。
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>のお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+  - <ruby><rb>鉄道</rb><rt>てつどう</rt></ruby>で、<ruby><rb>車</rb><rt>くるま</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 畳む
+  descriptions:
+  - <ruby><rb>折</rb><rt>お</rt></ruby>って、<ruby><rb>重</rb><rt>かさ</rt></ruby>ねる。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>がっているものを、すぼめる。
+  - <ruby><rb>商売</rb><rt>しょうばい</rt></ruby>をやめる。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にしまう。
+- word: 乗せる
+  descriptions:
+  - <ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などに<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>む。
+  - <ruby><rb>調子</rb><rt>ちょうし</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。
+  - だます。
+- word: 申し込む
+  descriptions:
+  - <ruby><rb>望</rb><rt>のぞ</rt></ruby>みを、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>申</rb><rt>もう</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011245681000/k10011245681000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/04/サイクルトレインの車両を公開-千葉
+...

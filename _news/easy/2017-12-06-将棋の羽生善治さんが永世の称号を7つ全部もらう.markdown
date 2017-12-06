@@ -1,0 +1,59 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011247171000
+last_modified_at: '2017-12-06T17:20:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>06<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: 将棋のプロは、同じ大会で何回もトップになると、「永世」という称号をもらって、プロをやめたあともトップだと言うことができます。
+title: 将棋の羽生善治さんが「永世」の称号を７つ全部もらう
+title_with_ruby: <ruby>将棋<rt>しょうぎ</rt></ruby>の<ruby>羽生<rt>はぶ</rt></ruby><ruby>善治<rt>よしはる</rt></ruby>さんが「<ruby>永世<rt>えいせい</rt></ruby>」の<ruby>称号<rt>しょうごう</rt></ruby>を７つ<ruby>全部<rt>ぜんぶ</rt></ruby>もらう
+outline: 将棋のプロは、同じ大会で何回もトップになると、「永世」という称号をもらって、プロをやめたあともトップだと言うことができます。
+outline_with_ruby: <ruby>将棋<rt>しょうぎ</rt></ruby>のプロは、<ruby>同<rt>おな</rt></ruby>じ<ruby>大会<rt>たいかい</rt></ruby>で<ruby>何<rt>なん</rt></ruby><ruby>回<rt>かい</rt></ruby>もトップになると、「<ruby>永世<rt>えいせい</rt></ruby>」という<ruby>称号<rt>しょうごう</rt></ruby>をもらって、プロをやめたあともトップだと<ruby>言<rt>い</rt></ruby>うことができます。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/05/K10011247171_1712051629_1712051629_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/06/k10011247171000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<span\
+  \ style=\"color: blue;\">プロ</span>は、<ruby>同<rt>おな</rt></ruby>じ<span style=\"color:\
+  \ blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>で<ruby>何<rt>なん</rt></ruby><ruby>回<rt>かい</rt></ruby>も<span\
+  \ style=\"color: blue;\">トップ</span>になると、「<ruby>永世<rt>えいせい</rt></ruby>」という<span style=\"\
+  color: blue;\"><ruby>称号<rt>しょうごう</rt></ruby></span>をもらって、<span style=\"color: blue;\"\
+  >プロ</span>を<span style=\"color: blue;\">やめ</span>たあとも<span style=\"color: blue;\"\
+  >トップ</span>だと<ruby>言<rt>い</rt></ruby>うことができます。この<span style=\"color: blue;\"><ruby>称号<rt>しょうごう</rt></ruby></span>をもらうことができる<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>は、<ruby>全部<rt>ぜんぶ</rt></ruby>で７つあります。</p>\n\
+  <p><ruby>羽生<rt>はぶ</rt></ruby><ruby>善治<rt>よしはる</rt></ruby>さんは、６つの<span style=\"color:\
+  \ blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>でこの<span style=\"color: blue;\"><ruby>称号<rt>しょうごう</rt></ruby></span>をもらっていました。まだもらっていない<ruby>竜王戦<rt>りゅうおうせん</rt></ruby>という<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>で、もう１<ruby>回<rt>かい</rt></ruby><span\
+  \ style=\"color: blue;\">トップ</span>になると、７つ<ruby>目<rt>め</rt></ruby>の「<ruby>永世<rt>えいせい</rt></ruby>」の<span\
+  \ style=\"color: blue;\"><ruby>称号<rt>しょうごう</rt></ruby></span>をもらうことになっていました。</p>\n\
+  <p><ruby>羽生<rt>はぶ</rt></ruby>さんは<ruby>６日<rt>むいか</rt></ruby>、この<span style=\"color:\
+  \ blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>で<ruby>渡辺<rt>わたなべ</rt></ruby><ruby>明<rt>あきら</rt></ruby>さんと<ruby>試合<rt>しあい</rt></ruby>をして<span\
+  \ style=\"color: blue;\">トップ</span>になりました。<ruby>羽生<rt>はぶ</rt></ruby>さんは、<span style=\"\
+  color: blue;\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<span style=\"color: blue;\"\
+  >プロ</span>で<ruby>初<rt>はじ</rt></ruby>めて７つ<ruby>全部<rt>ぜんぶ</rt></ruby>の「<ruby>永世<rt>えいせい</rt></ruby>」の<span\
+  \ style=\"color: blue;\"><ruby>称号<rt>しょうごう</rt></ruby></span>をもらいました。</p>\n<p><ruby>羽生<rt>はぶ</rt></ruby>さんは「まだ<span\
+  \ style=\"color: blue;\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>のことを<ruby>何<rt>なに</rt></ruby>もわかっていないという<ruby>気持<rt>きも</rt></ruby>ちで、これからも<ruby>頑張<rt>がんば</rt></ruby>りたいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 将棋
+  descriptions:
+  - <ruby><rb>縦</rb><rt>たて</rt></ruby>・<ruby><rb>横</rb><rt>よこ</rt></ruby>に１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>板</rb><rt>いた</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>で、２０<ruby><rb>枚</rb><rt>まい</rt></ruby>ずつのこまを<ruby><rb>動</rb><rt>うご</rt></ruby>かし、<ruby><rb>相手</rb><rt>あいて</rt></ruby>の<ruby><rb>王</rb><rt>おう</rt></ruby>を<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>るゲーム。
+- word: 称号
+  descriptions:
+  - めいよある<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>名</rb><rt>な</rt></ruby>。
+- word: プロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。
+  - 「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+- word: 大会
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+  - ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: トップ
+  descriptions:
+  - <ruby><rb>先頭</rb><rt>せんとう</rt></ruby>。<ruby><rb>真</rb><rt>ま</rt></ruby>っ<ruby><rb>先</rb><rt>さき</rt></ruby>。<ruby><rb>一番</rb><rt>いちばん</rt></ruby>。
+- word: 辞める
+  descriptions:
+  - <ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。
+source_url: http://www3.nhk.or.jp/news/easy/k10011247171000/k10011247171000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/05/将棋-羽生棋聖が前人未到の永世七冠達成
+...

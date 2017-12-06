@@ -1,0 +1,67 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011247931000
+last_modified_at: '2017-12-06T17:20:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>06<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: ＩＯＣは５日、ロシアが選手に禁止されている薬を使う「ドーピング」をさせて、そのことを隠していたと発表しました。
+title: ロシアの選手のチームはオリンピックに出ることができない
+title_with_ruby: ロシアの<ruby>選手<rt>せんしゅ</rt></ruby>のチームはオリンピックに<ruby>出<rt>で</rt></ruby>ることができない
+outline: ＩＯＣは５日、ロシアが選手に禁止されている薬を使う「ドーピング」をさせて、そのことを隠していたと発表しました。
+outline_with_ruby: ＩＯＣは<ruby>５日<rt>いつか</rt></ruby>、ロシアが<ruby>選手<rt>せんしゅ</rt></ruby>に<ruby>禁止<rt>きんし</rt></ruby>されている<ruby>薬<rt>くすり</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う「ドーピング」をさせて、そのことを<ruby>隠<rt>かく</rt></ruby>していたと<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201712/news/easy/image/2017/12/06/k10011247931000.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/06/k10011247931000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\">ＩＯＣ</span>は<ruby>５日<rt>いつか</rt></ruby>、ロシアが<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>に<span style=\"color:\
+  \ blue;\"><ruby>禁止<rt>きんし</rt></ruby></span>されている<ruby>薬<rt>くすり</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う「ドーピング」をさせて、そのことを<span\
+  \ style=\"color: blue;\"><ruby>隠<rt>かく</rt></ruby>し</span>ていたと<span style=\"color:\
+  \ blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>このため<span style=\"color:\
+  \ blue;\">ＩＯＣ</span>は、ロシアの<span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>の<span\
+  \ style=\"color: blue;\">チーム</span>は、<ruby>来年<rt>らいねん</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>のピョンチャンオリンピックに<ruby>出<rt>で</rt></ruby>ることができないと<ruby>決<rt>き</rt></ruby>めました。</p>\n\
+  <p>しかし「<ruby>今<rt>いま</rt></ruby>までの<ruby>全部<rt>ぜんぶ</rt></ruby>のドーピングの<span style=\"\
+  color: blue;\"><ruby>検査<rt>けんさ</rt></ruby></span>で<ruby>問題<rt>もんだい</rt></ruby>がなかった」などの<ruby>厳<rt>きび</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>条件<rt>じょうけん</rt></ruby></span>に<ruby>合<rt>あ</rt></ruby>う<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、<ruby>出<rt>で</rt></ruby>ることができるようにしました。ロシアの<span\
+  \ style=\"color: blue;\"><ruby>旗<rt>はた</rt></ruby></span>ではなくて、<span style=\"color:\
+  \ blue;\">オリンピック</span>の<span style=\"color: blue;\"><ruby>旗<rt>はた</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>います。</p>\n\
+  <p>ドーピングが<ruby>原因<rt>げんいん</rt></ruby>で、<ruby>国<rt>くに</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>の<span style=\"color: blue;\"\
+  >チーム</span>が<span style=\"color: blue;\">オリンピック</span>に<ruby>出<rt>で</rt></ruby>ることができなくなるのは、<ruby>今<rt>いま</rt></ruby>までで<ruby>初<rt>はじ</rt></ruby>めてです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: IOC
+  descriptions:
+  - オリンピック<ruby><rb>大会</rb><rt>たいかい</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いたり、オリンピック<ruby><rb>精神</rb><rt>せいしん</rt></ruby>を<ruby><rb>広</rb><rt>ひろ</rt></ruby>めたりする<ruby><rb>機関</rb><rt>きかん</rt></ruby>。
+- word: 禁止
+  descriptions:
+  - してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。
+- word: 隠す
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>えないようにする。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>られないようにする。<ruby><rb>秘密</rb><rt>ひみつ</rt></ruby>にする。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 検査
+  descriptions:
+  - <ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: 条件
+  descriptions:
+  - ものごとが<ruby><rb>成</rb><rt>な</rt></ruby>り<ruby><rb>立</rb><rt>た</rt></ruby>つために<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>なことがら。
+  - あることを<ruby><rb>決</rb><rt>き</rt></ruby>めるのに、<ruby><rb>約束</rb><rt>やくそく</rt></ruby>しておくことがら。
+- word: 旗
+  descriptions:
+  - <ruby><rb>布</rb><rt>ぬの</rt></ruby>や<ruby><rb>紙</rb><rt>かみ</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>り、さおなどの<ruby><rb>先</rb><rt>さき</rt></ruby>につけて、かざりや<ruby><rb>目</rb><rt>め</rt></ruby>じるしとするもの。
+source_url: http://www3.nhk.or.jp/news/easy/k10011247931000/k10011247931000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/06/IOC-ロシア選手団の五輪出場認めず-個人は条件つきで容認
+...
