@@ -1,0 +1,71 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011249301000
+last_modified_at: '2017-12-07T16:40:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>07<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ふん</rt></ruby>
+description: アメリカのトランプ大統領は６日、エルサレムがイスラエルの首都だと認めると言いました。
+title: トランプ大統領「イスラエルの首都はエルサレム」
+title_with_ruby: トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>「イスラエルの<ruby>首都<rt>しゅと</rt></ruby>はエルサレム」
+outline: アメリカのトランプ大統領は６日、エルサレムがイスラエルの首都だと認めると言いました。
+outline_with_ruby: アメリカのトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>は<ruby>６日<rt>むいか</rt></ruby>、エルサレムがイスラエルの<ruby>首都<rt>しゅと</rt></ruby>だと<ruby>認<rt>みと</rt></ruby>めると<ruby>言<rt>い</rt></ruby>いました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/07/K10011249301_1712070709_1712070715_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/07/k10011249301000.mp3
+content_with_ruby: "<p>アメリカのトランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は<ruby>６日<rt>むいか</rt></ruby>、エルサレムがイスラエルの<span\
+  \ style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>だと<span style=\"color:\
+  \ blue;\"><ruby>認<rt>みと</rt></ruby>める</span>と<ruby>言<rt>い</rt></ruby>いました。そして、<ruby>今<rt>いま</rt></ruby>はテルアビブにあるアメリカ<ruby>大使館<rt>たいしかん</rt></ruby>をエルサレムに<span\
+  \ style=\"color: blue;\"><ruby>移<rt>うつ</rt></ruby>す</span>と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>イスラエルは<ruby>前<rt>まえ</rt></ruby>から、エルサレムが<span style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>だと<ruby>言<rt>い</rt></ruby>っています。しかし、パレスチナの<ruby>人<rt>ひと</rt></ruby>たちも<ruby>将来<rt>しょうらい</rt></ruby><ruby>国<rt>くに</rt></ruby>をつくるときにはエルサレムを<span\
+  \ style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>にすると<ruby>言<rt>い</rt></ruby>っています。このため<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>は、エルサレムがイスラエルの<span\
+  \ style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>だと<span style=\"color:\
+  \ blue;\"><ruby>認<rt>みと</rt></ruby>め</span>ていません。</p>\n<p>パレスチナの<ruby>人<rt>ひと</rt></ruby>たちは、トランプ<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>が<ruby>言<rt>い</rt></ruby>ったことに<ruby>怒<rt>おこ</rt></ruby>って、いろいろな<ruby>場所<rt>ばしょ</rt></ruby>で<span\
+  \ style=\"color: blue;\">デモ</span>をしています。</p>\n<p><span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>のグテーレス<ruby>事務総長<rt>じむそうちょう</rt></ruby>は「エルサレムについては、イスラエルとパレスチナが<span\
+  \ style=\"color: blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>っ</span>て<ruby>決<rt>き</rt></ruby>めることです」と<ruby>言<rt>い</rt></ruby>いました。そして、トランプ<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>が<ruby>決<rt>き</rt></ruby>めたことは<span\
+  \ style=\"color: blue;\"><ruby>平和<rt>へいわ</rt></ruby></span>を<ruby>壊<rt>こわ</rt></ruby>す<ruby>危険<rt>きけん</rt></ruby>があると<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 首都
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。
+- word: 認める
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>る。
+  - <ruby><rb>確</rb><rt>たし</rt></ruby>かにそのとおりだと<ruby><rb>判断</rb><rt>はんだん</rt></ruby>する。
+  - <ruby><rb>承知</rb><rt>しょうち</rt></ruby>する。<ruby><rb>許</rb><rt>ゆる</rt></ruby>す。
+  - <ruby><rb>値打</rb><rt>ねう</rt></ruby>ちがあると<ruby><rb>考</rb><rt>かんが</rt></ruby>える。<ruby><rb>評価</rb><rt>ひょうか</rt></ruby>する。
+  - <ruby><rb>確</rb><rt>たし</rt></ruby>かに<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のしたことであると<ruby><rb>同意</rb><rt>どうい</rt></ruby>する。
+- word: 移す
+  descriptions:
+  - <ruby><rb>場所</rb><rt>ばしょ</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - ものごとを<ruby><rb>進</rb><rt>すす</rt></ruby>める。
+  - <ruby><rb>感染</rb><rt>かんせん</rt></ruby>させる。
+- word: 認める
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>る。
+  - <ruby><rb>確</rb><rt>たし</rt></ruby>かにそのとおりだと<ruby><rb>判断</rb><rt>はんだん</rt></ruby>する。
+  - <ruby><rb>承知</rb><rt>しょうち</rt></ruby>する。<ruby><rb>許</rb><rt>ゆる</rt></ruby>す。
+  - <ruby><rb>値打</rb><rt>ねう</rt></ruby>ちがあると<ruby><rb>考</rb><rt>かんが</rt></ruby>える。<ruby><rb>評価</rb><rt>ひょうか</rt></ruby>する。
+  - <ruby><rb>確</rb><rt>たし</rt></ruby>かに<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のしたことであると<ruby><rb>同意</rb><rt>どうい</rt></ruby>する。
+- word: デモ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「デモンストレーション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>認</rb><rt>みと</rt></ruby>めさせようとして、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>勢</rb><rt>いきお</rt></ruby>いを<ruby><rb>示</rb><rt>しめ</rt></ruby>すこと。また、そのための<ruby><rb>行進</rb><rt>こうしん</rt></ruby>。
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: 話し合う
+  descriptions:
+  - たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。
+  - <ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。
+- word: 平和
+  descriptions:
+  - おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011249301000/k10011249301000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/07/トランプ大統領-エルサレムをイスラエル首都に認定宣言
+...

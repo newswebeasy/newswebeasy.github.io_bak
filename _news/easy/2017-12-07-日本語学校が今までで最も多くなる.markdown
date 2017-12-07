@@ -1,0 +1,53 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011247651000
+last_modified_at: '2017-12-07T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>07<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 政府は、日本に来る留学生を２０２０年までに３０万人に増やしたいと考えて、留学のビザを取りやすくしたりしています。
+title: 日本語学校が今までで最も多くなる
+title_with_ruby: <ruby>日本語<rt>にほんご</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>が<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>くなる
+outline: 政府は、日本に来る留学生を２０２０年までに３０万人に増やしたいと考えて、留学のビザを取りやすくしたりしています。
+outline_with_ruby: <ruby>政府<rt>せいふ</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>留学生<rt>りゅうがくせい</rt></ruby>を２０２０<ruby>年<rt>ねん</rt></ruby>までに３０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>に<ruby>増<rt>ふ</rt></ruby>やしたいと<ruby>考<rt>かんが</rt></ruby>えて、<ruby>留学<rt>りゅうがく</rt></ruby>のビザを<ruby>取<rt>と</rt></ruby>りやすくしたりしています。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/05/K10011247651_1712051955_1712051959_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/07/k10011247651000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>留学生<rt>りゅうがくせい</rt></ruby>を２０２０<ruby>年<rt>ねん</rt></ruby>までに３０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>増<rt>ふ</rt></ruby>やし</span>たいと<ruby>考<rt>かんが</rt></ruby>えて、<span\
+  \ style=\"color: blue;\"><ruby>留学<rt>りゅうがく</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">ビザ</span>を<ruby>取<rt>と</rt></ruby>りやすくしたりしています。</p>\n<p><ruby>留学生<rt>りゅうがくせい</rt></ruby>が<ruby>通<rt>かよ</rt></ruby>う<ruby>日本語<rt>にほんご</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>も<ruby>増<rt>ふ</rt></ruby>えていて、<ruby>今年<rt>ことし</rt></ruby>は<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い６４３になりました。この<ruby>中<rt>なか</rt></ruby>で、５<ruby>年<rt>ねん</rt></ruby><ruby>以内<rt>いない</rt></ruby>にできた<ruby>新<rt>あたら</rt></ruby>しい<ruby>学校<rt>がっこう</rt></ruby>は２０６あります。</p>\n\
+  <p><ruby>学校<rt>がっこう</rt></ruby>を<span style=\"color: blue;\"><ruby>経営<rt>けいえい</rt></ruby></span>している<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>教育<rt>きょういく</rt></ruby>と<ruby>関係<rt>かんけい</rt></ruby>がある<ruby>会社<rt>かいしゃ</rt></ruby>のほかに、<span\
+  \ style=\"color: blue;\"><ruby>不動産<rt>ふどうさん</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>介護<rt>かいご</rt></ruby></span>、<span style=\"color: blue;\"><ruby>建設<rt>けんせつ</rt></ruby></span>などの<ruby>会社<rt>かいしゃ</rt></ruby>も<ruby>増<rt>ふ</rt></ruby>えています。</p>\n\
+  <p><ruby>法律<rt>ほうりつ</rt></ruby>では、<ruby>留学生<rt>りゅうがくせい</rt></ruby>は１<ruby>週間<rt>しゅうかん</rt></ruby>に２８<ruby>時間<rt>じかん</rt></ruby><ruby>以内<rt>いない</rt></ruby>ならアルバイトをしてもいいことになっています。<ruby>専門家<rt>せんもんか</rt></ruby>は「<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りないため、<ruby>留学生<rt>りゅうがくせい</rt></ruby>にアルバイトをしてほしいと<ruby>考<rt>かんが</rt></ruby>えて<ruby>日本語<rt>にほんご</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>をつくる<ruby>会社<rt>かいしゃ</rt></ruby>もあると<ruby>思<rt>おも</rt></ruby>います」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+- word: 留学
+  descriptions:
+  - <ruby><rb>外国</rb><rt>がいこく</rt></ruby>に<ruby><rb>行</rb><rt>い</rt></ruby>って、<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>すること。
+- word: ビザ
+  descriptions:
+  - <ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>来</rb><rt>き</rt></ruby>た<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>旅券</rb><rt>りょけん</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べ、その<ruby><rb>国</rb><rt>くに</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ることを<ruby><rb>認</rb><rt>みと</rt></ruby>める<ruby><rb>許可証</rb><rt>きょかしょう</rt></ruby>。<ruby><rb>査証</rb><rt>さしょう</rt></ruby>。
+- word: 経営
+  descriptions:
+  - <ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。
+- word: 不動産
+  descriptions:
+  - <ruby><rb>土地</rb><rt>とち</rt></ruby>や<ruby><rb>建物</rb><rt>たてもの</rt></ruby>など、<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>歩</rb><rt>ある</rt></ruby>きできない<ruby><rb>財産</rb><rt>ざいさん</rt></ruby>。
+- word: 介護
+  descriptions:
+  - <ruby><rb>病人</rb><rt>びょうにん</rt></ruby>などを<ruby><rb>介抱</rb><rt>かいほう</rt></ruby>し、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をすること。
+- word: 建設
+  descriptions:
+  - <ruby><rb>建物</rb><rt>たてもの</rt></ruby>や<ruby><rb>道</rb><rt>みち</rt></ruby>などを、<ruby><rb>新</rb><rt>あたら</rt></ruby>しく<ruby><rb>造</rb><rt>つく</rt></ruby>ること。
+  - <ruby><rb>組織</rb><rt>そしき</rt></ruby>などを<ruby><rb>新</rb><rt>あたら</rt></ruby>しく<ruby><rb>作</rb><rt>つく</rt></ruby>ること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011247651000/k10011247651000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/05/日本語学校急増-5年で200校以上新設-背景に人手不足か
+...

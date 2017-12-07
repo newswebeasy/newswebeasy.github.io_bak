@@ -1,0 +1,62 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011246891000
+last_modified_at: '2017-12-07T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>07<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 愛媛県松山市にある道後温泉は、１年に１００万人以上が来る有名な温泉です。
+title: 愛媛県　道後温泉で新しい年を迎えるための掃除を行う
+title_with_ruby: <ruby>愛媛県<rt>えひめけん</rt></ruby>　<ruby>道後温泉<rt>どうごおんせん</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しい<ruby>年<rt>とし</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えるための<ruby>掃除<rt>そうじ</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う
+outline: 愛媛県松山市にある道後温泉は、１年に１００万人以上が来る有名な温泉です。
+outline_with_ruby: <ruby>愛媛県<rt>えひめけん</rt></ruby><ruby>松山市<rt>まつやまし</rt></ruby>にある<ruby>道後温泉<rt>どうごおんせん</rt></ruby>は、１<ruby>年<rt>ねん</rt></ruby>に１００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>来<rt>く</rt></ruby>る<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>温泉<rt>おんせん</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/05/K10011246891_1712051224_1712051316_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/07/k10011246891000.mp3
+content_with_ruby: "<p><ruby>愛媛県<rt>えひめけん</rt></ruby><ruby>松山市<rt>まつやまし</rt></ruby>にある<ruby>道後温泉<rt>どうごおんせん</rt></ruby>は、１<ruby>年<rt>ねん</rt></ruby>に１００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>来<rt>く</rt></ruby>る<ruby>有名<rt>ゆうめい</rt></ruby>な<span\
+  \ style=\"color: blue;\"><ruby>温泉<rt>おんせん</rt></ruby></span>です。「<ruby>道後温泉本館<rt>どうごおんせんほんかん</rt></ruby>」で<ruby>５日<rt>いつか</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しい<ruby>年<rt>とし</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えるために、<ruby>建物<rt>たてもの</rt></ruby>の<ruby>外<rt>そと</rt></ruby>や<ruby>中<rt>なか</rt></ruby>をきれいに<ruby>掃除<rt>そうじ</rt></ruby>しました。<ruby>今<rt>いま</rt></ruby>の<ruby>道後温泉本館<rt>どうごおんせんほんかん</rt></ruby>は１２０<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>からあって、<ruby>国<rt>くに</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>重要文化財<rt>じゅうようぶんかざい</rt></ruby></span>になっています。</p>\n\
+  <p><ruby>松山市<rt>まつやまし</rt></ruby>の<span style=\"color: blue;\"><ruby>職員<rt>しょくいん</rt></ruby></span>や<span\
+  \ style=\"color: blue;\">ボランティア</span>の<ruby>人<rt>ひと</rt></ruby>などが、<span style=\"\
+  color: blue;\"><ruby>竹<rt>たけ</rt></ruby></span>の<ruby>先<rt>さき</rt></ruby>に<span\
+  \ style=\"color: blue;\">ささ</span>の<ruby>葉<rt>は</rt></ruby>を<span style=\"color:\
+  \ blue;\">つけ</span>た<ruby>長<rt>なが</rt></ruby>さ６ｍぐらいの<span style=\"color: blue;\"\
+  >ほうき</span>で、<ruby>建物<rt>たてもの</rt></ruby>をきれいにしました。<ruby>風呂<rt>ふろ</rt></ruby>から<ruby>出<rt>で</rt></ruby>たあと<ruby>休<rt>やす</rt></ruby>む<ruby>部屋<rt>へや</rt></ruby>では、１２０<ruby>枚<rt>まい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>畳<rt>たたみ</rt></ruby>をきれいにするため<ruby>外<rt>そと</rt></ruby>へ<ruby>運<rt>はこ</rt></ruby>びました。</p>\n\
+  <p><ruby>松山市<rt>まつやまし</rt></ruby>の<span style=\"color: blue;\"><ruby>職員<rt>しょくいん</rt></ruby></span>は「<ruby>来年<rt>らいねん</rt></ruby>も、<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>が<ruby>気持<rt>きも</rt></ruby>ちよく<ruby>利用<rt>りよう</rt></ruby>できるようにしっかり<ruby>掃除<rt>そうじ</rt></ruby>したいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 温泉
+  descriptions:
+  - <ruby><rb>地下水</rb><rt>ちかすい</rt></ruby>が<ruby><rb>火山</rb><rt>かざん</rt></ruby>などの<ruby><rb>熱</rb><rt>ねつ</rt></ruby>で<ruby><rb>温</rb><rt>あたた</rt></ruby>められて、<ruby><rb>地下</rb><rt>ちか</rt></ruby>からわき<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>湯</rb><rt>ゆ</rt></ruby>。いろいろな<ruby><rb>成分</rb><rt>せいぶん</rt></ruby>がとけていて<ruby><rb>病気</rb><rt>びょうき</rt></ruby>に<ruby><rb>効</rb><rt>き</rt></ruby>く。また、その<ruby><rb>湯</rb><rt>ゆ</rt></ruby>の<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: 重要文化財
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>から<ruby><rb>保護</rb><rt>ほご</rt></ruby>するように<ruby><rb>指定</rb><rt>してい</rt></ruby>された、<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>な<ruby><rb>建築物</rb><rt>けんちくぶつ</rt></ruby>・<ruby><rb>美術品</rb><rt>びじゅつひん</rt></ruby>などの<ruby><rb>文化財</rb><rt>ぶんかざい</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>にすぐれたものは<ruby><rb>国宝</rb><rt>こくほう</rt></ruby>に<ruby><rb>指定</rb><rt>してい</rt></ruby>される。<ruby><rb>重文</rb><rt>じゅうぶん</rt></ruby>。
+- word: 職員
+  descriptions:
+  - <ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: ボランティア
+  descriptions:
+  - <ruby><rb>社会</rb><rt>しゃかい</rt></ruby>のために、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>から<ruby><rb>進</rb><rt>すす</rt></ruby>んで、<ruby><rb>無料</rb><rt>むりょう</rt></ruby>で<ruby><rb>奉仕活動</rb><rt>ほうしかつどう</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 竹
+  descriptions:
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>空</rb><rt>から</rt></ruby>の<ruby><rb>茎</rb><rt>くき</rt></ruby>に、<ruby><rb>節</rb><rt>ふし</rt></ruby>のある<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>や、<ruby><rb>細工物</rb><rt>さいくもの</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>芽</rb><rt>め</rt></ruby>を「たけのこ」という。
+- word: 笹
+  descriptions:
+  - せいの<ruby><rb>低</rb><rt>ひく</rt></ruby>い<ruby><rb>細</rb><rt>ほそ</rt></ruby>いタケで、<ruby><rb>茎</rb><rt>くき</rt></ruby>にタケノコの<ruby><rb>皮</rb><rt>かわ</rt></ruby>がついているもの。クマザサ・オカメザサなどがある。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+- word: ほうき
+  descriptions:
+  - ちりや、ごみをはく<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011246891000/k10011246891000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/05/道後温泉で年末恒例の大掃除-松山
+...
