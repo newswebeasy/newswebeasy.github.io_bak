@@ -58,6 +58,10 @@ h2.subtitle {
   padding-bottom: 10px;
 }
 
+.relatednews {
+  padding-bottom: 50px;
+}
+
 .furigana_bar {
   display: flex;
   margin: 10px 0;

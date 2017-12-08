@@ -42,6 +42,15 @@
             {% endif %}
             </div>
 
+            {% if page.related_news %}
+            <div class="relatednews">
+            <strong style="color: #8fbf30"><ruby>関連<rt>かんれん</rt></ruby>ニュース</strong>
+            {% for n in page.related_news %}
+            <p><a href="{{ n.git_url }}">{{ n.title }}</a></p>
+            {% endfor %}
+            </div>
+            {% endif %}
+
             {% for w in page.words %}
             <p class="wordtitle">{{ w.word }}</p>
             <ul class="list-paddingleft-2" style="list-style-type: decimal;">
