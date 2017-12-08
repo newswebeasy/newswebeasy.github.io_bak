@@ -45,17 +45,17 @@ web_news_url: https://newswebeasy.github.io/news/web/2017/12/06/ぐるなびと�
 related_news:
 - title: <ruby>日本<rt>にっぽん</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>　<ruby>今年<rt>ことし</rt></ruby>はもう２０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>
   mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650630458&idx=2&sn=904badcb518e255c76b48ee40db1589f&chksm=82d52e81b5a2a797c032febcaca1762f53b4b1407be4b02e0bd9788bfa0d610a74702ecf644e#rd
-  git_url: https://raw.githubusercontent.com/newswebeasy/newswebeasy.github.io/master/_news/easy/2017-09-22-日本に旅行に来た外国人-今年はもう2000万人以上.markdown
+  git_url: https://newswebeasy.github.io/news/easy/2017/09/22/日本に旅行に来た外国人-今年はもう2000万人以上/
 - title: <ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなる
   mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650631368&idx=1&sn=e3a5fe2530558fadf8a45e7a49a425f8&chksm=82d52b73b5a2a2656976a6bf8776c21fc18ba6689e966c7916073a72007cec02633280522f63#rd
-  git_url: https://raw.githubusercontent.com/newswebeasy/newswebeasy.github.io/master/_news/easy/2017-11-13-日本へ旅行に来た外国人が今まででいちばん多くなる.markdown
+  git_url: https://newswebeasy.github.io/news/easy/2017/11/13/日本へ旅行に来た外国人が今まででいちばん多くなる/
 - title: <ruby>日本<rt>にっぽん</rt></ruby>の「<ruby>量子<rt>りょうし</rt></ruby>コンピューター」が<ruby>使<rt>つか</rt></ruby>えるウェブサイト
   mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650631540&idx=1&sn=ff22de7327f9c418b5f6cf3a82421b83&chksm=82d52acfb5a2a3d9e7768869a11bc8cbb5c0720666b98c05614fa5aa5b7a8bebc95c06ced698#rd
-  git_url: https://raw.githubusercontent.com/newswebeasy/newswebeasy.github.io/master/_news/easy/2017-11-28-日本の量子コンピューターが使えるウェブサイト.markdown
+  git_url: https://newswebeasy.github.io/news/easy/2017/11/28/日本の量子コンピューターが使えるウェブサイト/
 - title: 「<ruby>世界津波<rt>せかいつなみ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>」　<ruby>津波<rt>つなみ</rt></ruby>から<ruby>逃<rt>に</rt></ruby>げる<ruby>練習<rt>れんしゅう</rt></ruby>などを<ruby>行<rt>おこな</rt></ruby>った
   mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650631273&idx=5&sn=6082b874c46d64c9d54a74a13bb2c6dc&chksm=82d52bd2b5a2a2c475dd3b18d349c40e1874c5c4ceec0095c70bfb36e93a7f4add64d773bdb8#rd
-  git_url: https://raw.githubusercontent.com/newswebeasy/newswebeasy.github.io/master/_news/easy/2017-11-06-世界津波の日-津波から逃げる練習などを行った.markdown
+  git_url: https://newswebeasy.github.io/news/easy/2017/11/06/世界津波の日-津波から逃げる練習などを行った/
 - title: 「<ruby>記録的<rt>きろくてき</rt></ruby><ruby>短時間<rt>たんじかん</rt></ruby><ruby>大雨<rt>おおあめ</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>」が５<ruby>年<rt>ねん</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>く<ruby>出<rt>で</rt></ruby>ている
   mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650630298&idx=5&sn=1c981978a2cbb0fdcb60ba08cc3ab3e1&chksm=82d52f21b5a2a637226d33f11b37d8d42a17e100de1ccac95b6e9a897114d85ed265d2790844#rd
-  git_url: https://raw.githubusercontent.com/newswebeasy/newswebeasy.github.io/master/_news/easy/2017-09-13-記録的短時間大雨情報が5年で最も多く出ている.markdown
+  git_url: https://newswebeasy.github.io/news/easy/2017/09/13/記録的短時間大雨情報が5年で最も多く出ている/
 ...

@@ -35,17 +35,17 @@ web_news_url: https://newswebeasy.github.io/news/web/2017/12/07/年末年始の�
 related_news:
 - title: <ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなる
   mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650631368&idx=1&sn=e3a5fe2530558fadf8a45e7a49a425f8&chksm=82d52b73b5a2a2656976a6bf8776c21fc18ba6689e966c7916073a72007cec02633280522f63#rd
-  git_url: https://raw.githubusercontent.com/newswebeasy/newswebeasy.github.io/master/_news/easy/2017-11-13-日本へ旅行に来た外国人が今まででいちばん多くなる.markdown
+  git_url: https://newswebeasy.github.io/news/easy/2017/11/13/日本へ旅行に来た外国人が今まででいちばん多くなる/
 - title: <ruby>日本<rt>にっぽん</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>　<ruby>今年<rt>ことし</rt></ruby>はもう２０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>
   mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650630458&idx=2&sn=904badcb518e255c76b48ee40db1589f&chksm=82d52e81b5a2a797c032febcaca1762f53b4b1407be4b02e0bd9788bfa0d610a74702ecf644e#rd
-  git_url: https://raw.githubusercontent.com/newswebeasy/newswebeasy.github.io/master/_news/easy/2017-09-22-日本に旅行に来た外国人-今年はもう2000万人以上.markdown
+  git_url: https://newswebeasy.github.io/news/easy/2017/09/22/日本に旅行に来た外国人-今年はもう2000万人以上/
 - title: <ruby>日本航空<rt>にほんこうくう</rt></ruby>　<ruby>外国<rt>がいこく</rt></ruby>を<ruby>旅行<rt>りょこう</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>のための<ruby>新<rt>あたら</rt></ruby>しいカードを<ruby>作<rt>つく</rt></ruby>る
   mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650630714&idx=6&sn=cfd76c07d8be855fe7f747845d33cf3a&chksm=82d52d81b5a2a4975c56aeec4795c7b24893af372bb1f3045a6cac60473888e66656c1cb2018#rd
-  git_url: https://raw.githubusercontent.com/newswebeasy/newswebeasy.github.io/master/_news/easy/2017-10-05-日本航空-外国を旅行する人のための新しいカードを作る.markdown
+  git_url: https://newswebeasy.github.io/news/easy/2017/10/05/日本航空-外国を旅行する人のための新しいカードを作る/
 - title: <ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>使<rt>つか</rt></ruby>ったお<ruby>金<rt>かね</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなる
   mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650630692&idx=1&sn=2973f43e253ca015ba6b64444dd3ef60&chksm=82d52d9fb5a2a489f18262df007f89a7d12476fff6447129f5b75ac1039144e1b5fff5fcd31f#rd
-  git_url: https://raw.githubusercontent.com/newswebeasy/newswebeasy.github.io/master/_news/easy/2017-10-04-旅行に来た外国人が東京で使ったお金が少なくなる.markdown
+  git_url: https://newswebeasy.github.io/news/easy/2017/10/04/旅行に来た外国人が東京で使ったお金が少なくなる/
 - title: <ruby>外国<rt>がいこく</rt></ruby>から<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>が<ruby>病院<rt>びょういん</rt></ruby>を<ruby>探<rt>さが</rt></ruby>すためのアプリができる
   mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650631340&idx=4&sn=14c3cb5898a5eaeee227cfafbf1049cc&chksm=82d52b17b5a2a2016df8bfc21d1dfb719fd4cd0f07e58d9beffb4c5008368d24b31f38e62bf0#rd
-  git_url: https://raw.githubusercontent.com/newswebeasy/newswebeasy.github.io/master/_news/easy/2017-11-10-外国から旅行に来た人が病院を探すためのアプリができる.markdown
+  git_url: https://newswebeasy.github.io/news/easy/2017/11/10/外国から旅行に来た人が病院を探すためのアプリができる/
 ...
