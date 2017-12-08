@@ -1,0 +1,56 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011248661000
+last_modified_at: '2017-12-08T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>08<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: レストランやお酒を飲む店を紹介するウェブサイトの「ぐるなび」と、タイの観光庁が協力することになりました。
+title: 「ぐるなび」がタイ観光庁と協力してタイの情報を紹介
+title_with_ruby: 「ぐるなび」がタイ<ruby>観光庁<rt>かんこうちょう</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>してタイの<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>
+outline: レストランやお酒を飲む店を紹介するウェブサイトの「ぐるなび」と、タイの観光庁が協力することになりました。
+outline_with_ruby: レストランやお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>む<ruby>店<rt>みせ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するウェブサイトの「ぐるなび」と、タイの<ruby>観光庁<rt>かんこうちょう</rt></ruby>が<ruby>協力<rt>きょうりょく</rt></ruby>することになりました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/06/K10011248661_1712061730_1712061740_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/08/k10011248661000.mp3
+content_with_ruby: "<p>レストランやお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>む<ruby>店<rt>みせ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する<span\
+  \ style=\"color: blue;\">ウェブサイト</span>の「ぐるなび」と、タイの<ruby>観光庁<rt>かんこうちょう</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>することになりました。タイの<ruby>観光庁<rt>かんこうちょう</rt></ruby>は、タイで<ruby>有名<rt>ゆうめい</rt></ruby>なレストランや<span\
+  \ style=\"color: blue;\"><ruby>観光地<rt>かんこうち</rt></ruby></span>などの<span style=\"\
+  color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>を「ぐるなび」に<ruby>知<rt>し</rt></ruby>らせます。そして、「ぐるなび」がこの<span\
+  \ style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>を<span style=\"color:\
+  \ blue;\">ウェブサイト</span>に<ruby>出<rt>だ</rt></ruby>します。</p>\n<p><ruby>日本<rt>にっぽん</rt></ruby>からタイに<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby>１５０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>ぐらいになります。タイの<ruby>観光庁<rt>かんこうちょう</rt></ruby>は、「この<span\
+  \ style=\"color: blue;\">ウェブサイト</span>を<ruby>見<rt>み</rt></ruby>て、もっと<ruby>多<rt>おお</rt></ruby>くの<ruby>日本人<rt>にっぽんじん</rt></ruby>がタイに<ruby>来<rt>く</rt></ruby>るようになると<ruby>思<rt>おも</rt></ruby>います。２０２０<ruby>年<rt>ねん</rt></ruby>には、１<ruby>年<rt>ねん</rt></ruby>に２００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>の<ruby>日本人<rt>にっぽんじん</rt></ruby>がタイに<ruby>来<rt>く</rt></ruby>るようにしたいです」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>「ぐるなび」の<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>外国<rt>がいこく</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>を<span style=\"color: blue;\"\
+  ><ruby>増<rt>ふ</rt></ruby>やし</span>たいと<ruby>考<rt>かんが</rt></ruby>えていて、「<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちにも<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+- word: 情報
+  descriptions:
+  - できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+- word: 観光地
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>が<ruby><rb>美</rb><rt>うつく</rt></ruby>しかったり、<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>があったりして、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011248661000/k10011248661000.html
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/06/ぐるなびとタイ観光庁-観光客誘致で連携
+related_news:
+- mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650630458&idx=2&sn=904badcb518e255c76b48ee40db1589f&chksm=82d52e81b5a2a797c032febcaca1762f53b4b1407be4b02e0bd9788bfa0d610a74702ecf644e#rd
+  title: <ruby>日本<rt>にっぽん</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>　<ruby>今年<rt>ことし</rt></ruby>はもう２０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>
+- mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650631368&idx=1&sn=e3a5fe2530558fadf8a45e7a49a425f8&chksm=82d52b73b5a2a2656976a6bf8776c21fc18ba6689e966c7916073a72007cec02633280522f63#rd
+  title: <ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなる
+- mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650631540&idx=1&sn=ff22de7327f9c418b5f6cf3a82421b83&chksm=82d52acfb5a2a3d9e7768869a11bc8cbb5c0720666b98c05614fa5aa5b7a8bebc95c06ced698#rd
+  title: <ruby>日本<rt>にっぽん</rt></ruby>の「<ruby>量子<rt>りょうし</rt></ruby>コンピューター」が<ruby>使<rt>つか</rt></ruby>えるウェブサイト
+- mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650631273&idx=5&sn=6082b874c46d64c9d54a74a13bb2c6dc&chksm=82d52bd2b5a2a2c475dd3b18d349c40e1874c5c4ceec0095c70bfb36e93a7f4add64d773bdb8#rd
+  title: 「<ruby>世界津波<rt>せかいつなみ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>」　<ruby>津波<rt>つなみ</rt></ruby>から<ruby>逃<rt>に</rt></ruby>げる<ruby>練習<rt>れんしゅう</rt></ruby>などを<ruby>行<rt>おこな</rt></ruby>った
+- mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650630298&idx=5&sn=1c981978a2cbb0fdcb60ba08cc3ab3e1&chksm=82d52f21b5a2a637226d33f11b37d8d42a17e100de1ccac95b6e9a897114d85ed265d2790844#rd
+  title: 「<ruby>記録的<rt>きろくてき</rt></ruby><ruby>短時間<rt>たんじかん</rt></ruby><ruby>大雨<rt>おおあめ</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>」が５<ruby>年<rt>ねん</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>く<ruby>出<rt>で</rt></ruby>ている
+...
