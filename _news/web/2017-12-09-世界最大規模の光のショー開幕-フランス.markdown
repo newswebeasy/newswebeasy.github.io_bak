@@ -66,21 +66,16 @@ more: 「<ruby>光<rt data-ruby-level="2">ひかり</rt></ruby>の<ruby>祭典<r
   data-ruby-level="6">まいばん</rt></ruby><ruby>行<rt data-ruby-level="2">おこな</rt></ruby>われます。
 source_url: http://www3.nhk.or.jp/news/html/20171209/k10011252191000.html
 related_news:
-- title: <ruby>敬老<rt data-ruby-level="6">けいろう</rt></ruby>の<ruby>日<rt data-ruby-level="1">ひ</rt></ruby>
-    <ruby>国内<rt data-ruby-level="2">こくない</rt></ruby><ruby>最高齢<rt data-ruby-level="7">さいこうれい</rt></ruby>１１７<ruby>歳<rt
-    data-ruby-level="7">さい</rt></ruby><ruby>女性<rt data-ruby-level="5">じょせい</rt></ruby>の<ruby>長寿<rt
-    data-ruby-level="7">ちょうじゅ</rt></ruby><ruby>祝<rt data-ruby-level="4">いわ</rt></ruby>う
-  url: https://newswebeasy.github.io/news/web/2017/09/18/世界最大規模の光のショー開幕-フランス
-  mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650630366&idx=2&sn=832bd0fc8fce69ec0df76a76773ccbe1&chksm=82d52f65b5a2a673a64b8ece4737ea80db9ad54dc9b7196121ac516a11acca8158aba5e26a64#rd
-- title: <ruby>野口<rt data-ruby-level="2">のぐち</rt></ruby><ruby>聡一<rt data-ruby-level="8">そういち</rt></ruby>さん
-    ２<ruby>年後<rt data-ruby-level="2">ねんご</rt></ruby>に３<ruby>回目<rt data-ruby-level="2">かいめ</rt></ruby>の<ruby>宇宙<rt
-    data-ruby-level="6">うちゅう</rt></ruby><ruby>飛行<rt data-ruby-level="4">ひこう</rt></ruby>へ
-  url: https://newswebeasy.github.io/news/web/2017/11/07/世界最大規模の光のショー開幕-フランス
-  mp_url: false
-- title: <ruby>糖尿病<rt data-ruby-level="7">とうにょうびょう</rt></ruby>の<ruby>疑<rt data-ruby-level="6">うたが</rt></ruby>い<ruby>強<rt
-    data-ruby-level="2">つよ</rt></ruby>い<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>は<ruby>推計<rt
-    data-ruby-level="6">すいけい</rt></ruby>１０００<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>
-    <ruby>厚労省<rt data-ruby-level="7">こうろうしょう</rt></ruby><ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby>
-  url: https://newswebeasy.github.io/news/web/2017/09/21/世界最大規模の光のショー開幕-フランス
-  mp_url: false
+- title: 「<ruby>草間<rt data-ruby-level="2">くさま</rt></ruby><ruby>彌生<rt data-ruby-level="8">やよい</rt></ruby><ruby>美術館<rt
+    data-ruby-level="5">びじゅつかん</rt></ruby>」オープン<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>に<ruby>内覧会<rt
+    data-ruby-level="6">ないらんかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/09/26/草間彌生美術館オープン前に内覧会
+- title: ダビンチの<ruby>幻<rt data-ruby-level="7">まぼろし</rt></ruby>の<ruby>作品<rt data-ruby-level="3">さくひん</rt></ruby>
+    <ruby>史上<rt data-ruby-level="4">しじょう</rt></ruby><ruby>最高<rt data-ruby-level="4">さいこう</rt></ruby>500<ruby>億円<rt
+    data-ruby-level="4">おくえん</rt></ruby><ruby>超<rt data-ruby-level="7">ちょう</rt></ruby>で<ruby>落札<rt
+    data-ruby-level="4">らくさつ</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/11/16/ダビンチの幻の作品-史上最高500億円超で落札
+- title: <ruby>世界<rt data-ruby-level="3">せかい</rt></ruby><ruby>遺産<rt data-ruby-level="6">いさん</rt></ruby>
+    <ruby>理念<rt data-ruby-level="4">りねん</rt></ruby>と<ruby>現実<rt data-ruby-level="5">げんじつ</rt></ruby>のはざまで
+  url: https://newswebeasy.github.io/news/web/2017/10/04/世界遺産-理念と現実のはざまで
 ...
