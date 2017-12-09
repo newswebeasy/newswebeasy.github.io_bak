@@ -79,6 +79,15 @@
             {% endif %}
             {% endfor %}
 
+            {% if page.related_news %}
+            <div class="relatednews">
+            <h2 class="subtitle" style="color: #8fbf30;"><ruby>関連<rt data-ruby-level="4">かんれん</rt></ruby>ニュース</h2>
+            {% for n in page.related_news %}
+            <p><a href="{{ n.url }}">{{ n.title }}</a></p>
+            {% endfor %}
+            </div>
+            {% endif %}
+
             <p style="color: red;">※プログラムでふりがなを<ruby>付<rt data-ruby-level="4">つ</rt></ruby>けっているので、<ruby> 間違<rt data-ruby-level="7">まちが</rt></ruby>っている<ruby>場合<rt data-ruby-level="2">ばあ い</rt></ruby>もあります。</p>
             <p><img class="fullwidth" data-type="gif" src="/assets/qrcode.gif" data-ratio="0.5064308681672026" data-w="622" /></p>
           </div>

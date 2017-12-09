@@ -44,9 +44,9 @@
 
             {% if page.related_news %}
             <div class="relatednews">
-            <strong style="color: #8fbf30"><ruby>関連<rt>かんれん</rt></ruby>ニュース</strong>
+            <h2 class="subtitle" style="color: #8fbf30;"><ruby>関連<rt>かんれん</rt></ruby>ニュース</h2>
             {% for n in page.related_news %}
-            <p><a href="{{ n.git_url }}">{{ n.title }}</a></p>
+            <p><a href="{{ n.url }}">{{ n.title }}</a></p>
             {% endfor %}
             </div>
             {% endif %}
