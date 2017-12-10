@@ -73,6 +73,10 @@ more: ７<ruby>日<rt data-ruby-level="1">にち</rt></ruby>、<ruby>アメリ�
 movie_url: https://newswebeasy.github.io/ja201712/news/web/movie/2017/12/08/k10011250601_201712080436_201712080442.mp4
 voice_url: https://newswebeasy.github.io/ja201712/news/web/voice/2017/12/08/k10011250601_201712080436_201712080442.mp3
 source_url: http://www3.nhk.or.jp/news/html/20171208/k10011250601000.html
+easy_title_with_ruby: <ruby>沖縄<rt data-ruby-level="7">おきなわ</rt></ruby> <ruby>アメリカ<rt
+  data-ruby-level="4">あめりか</rt></ruby><ruby>軍<rt data-ruby-level="4">ぐん</rt></ruby>のヘリコプターから<ruby>保育園<rt
+  data-ruby-level="5">ほいくえん</rt></ruby>に<ruby>何<rt data-ruby-level="2">なに</rt></ruby>かが<ruby>落<rt
+  data-ruby-level="3">お</rt></ruby>ちる
 easy_news_url: https://newswebeasy.github.io/news/easy/2017/12/08/沖縄-アメリカ軍のヘリコプターから保育園に何かが落ちる
 related_news:
 - title: <ruby>米軍<rt data-ruby-level="4">べいぐん</rt></ruby><ruby>大型<rt data-ruby-level="4">おおがた</rt></ruby>ヘリ<ruby>炎上<rt
