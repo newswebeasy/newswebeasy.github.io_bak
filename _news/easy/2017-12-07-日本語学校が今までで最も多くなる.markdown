@@ -50,4 +50,11 @@ words:
   - <ruby><rb>組織</rb><rt>そしき</rt></ruby>などを<ruby><rb>新</rb><rt>あたら</rt></ruby>しく<ruby><rb>作</rb><rt>つく</rt></ruby>ること。
 source_url: http://www3.nhk.or.jp/news/easy/k10011247651000/k10011247651000.html
 web_news_url: https://newswebeasy.github.io/news/web/2017/12/05/日本語学校急増-5年で200校以上新設-背景に人手不足か
+related_news:
+- title: <ruby>日本<rt>にっぽん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>きたい<ruby>留学生<rt>りゅうがくせい</rt></ruby>と<ruby>世界<rt>せかい</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>話<rt>はな</rt></ruby>す<ruby>会<rt>かい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/10/19/日本で働きたい留学生と世界で仕事をする会社が話す会
+- title: <ruby>日本<rt>にっぽん</rt></ruby>からアメリカに<ruby>留学<rt>りゅうがく</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>の<ruby>数<rt>かず</rt></ruby>は２０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>半分<rt>はんぶん</rt></ruby><ruby>以下<rt>いか</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/11/15/日本からアメリカに留学した人の数は20年前の半分以下
+- title: <ruby>東芝<rt>とうしば</rt></ruby>　<ruby>半導体<rt>はんどうたい</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>売<rt>う</rt></ruby>る<ruby>契約<rt>けいやく</rt></ruby>をする
+  url: https://newswebeasy.github.io/news/easy/2017/09/29/東芝-半導体の会社を売る契約をする
 ...

@@ -53,5 +53,13 @@ words:
   - <ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って、はたらかせる<ruby><rb>機械</rb><rt>きかい</rt></ruby>。<ruby><rb>電気冷蔵庫</rb><rt>でんきれいぞうこ</rt></ruby>・<ruby><rb>電気洗濯機</rb><rt>でんきせんたくき</rt></ruby>など。
 source_url: http://www3.nhk.or.jp/news/easy/k10011248841000/k10011248841000.html
 web_news_url: https://newswebeasy.github.io/news/web/2017/12/06/北朝鮮木造船-無人島から50点以上持ち出しか
-related_news: []
+related_news:
+- title: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>がミサイルを<ruby>発射<rt>はっしゃ</rt></ruby>　４０００ｋｍ<ruby>以上<rt>いじょう</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さまで<ruby>飛<rt>と</rt></ruby>ぶ
+  url: https://newswebeasy.github.io/news/easy/2017/11/29/北朝鮮がミサイルを発射-4000km以上の高さまで飛ぶ
+- title: <ruby>国連<rt>こくれん</rt></ruby>が<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>への<ruby>新<rt>あたら</rt></ruby>しい<ruby>制裁<rt>せいさい</rt></ruby>を<ruby>決<rt>き</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2017/09/12/国連が北朝鮮への新しい制裁を決める
+- title: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>がミサイルを<ruby>発射<rt>はっしゃ</rt></ruby>　<ruby>前<rt>まえ</rt></ruby>より１０００ｋｍ<ruby>遠<rt>とお</rt></ruby>くまで<ruby>飛<rt>と</rt></ruby>ぶ
+  url: https://newswebeasy.github.io/news/easy/2017/09/15/北朝鮮がミサイルを発射-前より1000km遠くまで飛ぶ
+- title: ミサイルを<ruby>発射<rt>はっしゃ</rt></ruby>した<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>について<ruby>国連<rt>こくれん</rt></ruby>が<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2017/11/30/ミサイルを発射した北朝鮮について国連が会議を開く
 ...
