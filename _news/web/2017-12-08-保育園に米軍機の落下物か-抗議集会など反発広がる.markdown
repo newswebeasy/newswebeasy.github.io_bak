@@ -75,11 +75,6 @@ voice_url: https://newswebeasy.github.io/ja201712/news/web/voice/2017/12/08/k100
 source_url: http://www3.nhk.or.jp/news/html/20171208/k10011250601000.html
 easy_news_url: https://newswebeasy.github.io/news/easy/2017/12/08/沖縄-アメリカ軍のヘリコプターから保育園に何かが落ちる
 related_news:
-- title: <ruby>保育園<rt data-ruby-level="5">ほいくえん</rt></ruby>に<ruby>米軍機<rt data-ruby-level="4">べいぐんき</rt></ruby>の<ruby>落下物<rt
-    data-ruby-level="3">らっかぶつ</rt></ruby>か <ruby>抗議<rt data-ruby-level="7">こうぎ</rt></ruby><ruby>集会<rt
-    data-ruby-level="3">しゅうかい</rt></ruby>など<ruby>反発<rt data-ruby-level="3">はんぱつ</rt></ruby><ruby>広<rt
-    data-ruby-level="2">ひろ</rt></ruby>がる
-  url: https://newswebeasy.github.io/news/web/2017/12/08/保育園に米軍機の落下物か-抗議集会など反発広がる
 - title: <ruby>米軍<rt data-ruby-level="4">べいぐん</rt></ruby><ruby>大型<rt data-ruby-level="4">おおがた</rt></ruby>ヘリ<ruby>炎上<rt
     data-ruby-level="7">えんじょう</rt></ruby> <ruby>沖縄県<rt data-ruby-level="7">おきなわけん</rt></ruby>が<ruby>強<rt
     data-ruby-level="2">つよ</rt></ruby>く<ruby>抗議<rt data-ruby-level="7">こうぎ</rt></ruby>へ

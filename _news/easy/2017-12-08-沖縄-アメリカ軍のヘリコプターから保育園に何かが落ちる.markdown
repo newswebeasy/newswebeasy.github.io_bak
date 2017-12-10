@@ -103,8 +103,6 @@ words:
 source_url: http://www3.nhk.or.jp/news/easy/k10011250601000/k10011250601000.html
 web_news_url: https://newswebeasy.github.io/news/web/2017/12/08/保育園に米軍機の落下物か-抗議集会など反発広がる
 related_news:
-- title: <ruby>沖縄<rt>おきなわ</rt></ruby>　アメリカ<ruby>軍<rt>ぐん</rt></ruby>のヘリコプターから<ruby>保育園<rt>ほいくえん</rt></ruby>に<ruby>何<rt>なに</rt></ruby>かが<ruby>落<rt>お</rt></ruby>ちる
-  url: https://newswebeasy.github.io/news/easy/2017/12/08/沖縄-アメリカ軍のヘリコプターから保育園に何かが落ちる
 - title: <ruby>沖縄県<rt>おきなわけん</rt></ruby>　アメリカ<ruby>軍<rt>ぐん</rt></ruby>のヘリコプターが<ruby>訓練<rt>くんれん</rt></ruby>をしていて<ruby>火事<rt>かじ</rt></ruby>
   url: https://newswebeasy.github.io/news/easy/2017/10/12/沖縄県-アメリカ軍のヘリコプターが訓練をしていて火事
 ...
