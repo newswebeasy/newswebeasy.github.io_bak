@@ -103,19 +103,8 @@ words:
 source_url: http://www3.nhk.or.jp/news/easy/k10011250601000/k10011250601000.html
 web_news_url: https://newswebeasy.github.io/news/web/2017/12/08/保育園に米軍機の落下物か-抗議集会など反発広がる
 related_news:
+- title: <ruby>沖縄<rt>おきなわ</rt></ruby>　アメリカ<ruby>軍<rt>ぐん</rt></ruby>のヘリコプターから<ruby>保育園<rt>ほいくえん</rt></ruby>に<ruby>何<rt>なに</rt></ruby>かが<ruby>落<rt>お</rt></ruby>ちる
+  url: https://newswebeasy.github.io/news/easy/2017/12/08/沖縄-アメリカ軍のヘリコプターから保育園に何かが落ちる
 - title: <ruby>沖縄県<rt>おきなわけん</rt></ruby>　アメリカ<ruby>軍<rt>ぐん</rt></ruby>のヘリコプターが<ruby>訓練<rt>くんれん</rt></ruby>をしていて<ruby>火事<rt>かじ</rt></ruby>
-  mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650630835&idx=2&sn=163137e50bf49d808487f25a7bbf83e0&chksm=82d52d08b5a2a41ef477c88f5e1f663c62b9357469723c865d3ba9e5ec86c96875ff2e38968e#rd
-  git_url: https://newswebeasy.github.io/news/easy/2017/10/12/沖縄県-アメリカ軍のヘリコプターが訓練をしていて火事/
-- title: <ruby>沖縄県<rt>おきなわけん</rt></ruby>　アメリカ<ruby>軍<rt>ぐん</rt></ruby>の<ruby>兵士<rt>へいし</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>して<ruby>人<rt>ひと</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる<ruby>事故<rt>じこ</rt></ruby>
-  mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650631473&idx=3&sn=9828ae0252027e7a66fcd46ec6d759ca&chksm=82d52a8ab5a2a39cd4e705015269204de35bab7875b1cb06151fbd1776cf01465571ceb732ad#rd
-  git_url: https://newswebeasy.github.io/news/easy/2017/11/21/沖縄県-アメリカ軍の兵士が車を運転して人が亡くなる事故/
-- title: <ruby>沖縄県<rt>おきなわけん</rt></ruby>　<ruby>埋<rt>う</rt></ruby>める<ruby>予定<rt>よてい</rt></ruby>の<ruby>辺野古<rt>へのこ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<ruby>珍<rt>めずら</rt></ruby>しいサンゴが<ruby>見<rt>み</rt></ruby>つかる
-  mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650631396&idx=4&sn=6689a9d149eaba73df17d9a4626d3f6a&chksm=82d52b5fb5a2a249572fc0f68679112accea0bf67c0ee8f7575a9362c642d5c893822a60e124#rd
-  git_url: https://newswebeasy.github.io/news/easy/2017/11/15/沖縄県-埋める予定の辺野古の海で珍しいサンゴが見つかる/
-- title: <ruby>岐阜県<rt>ぎふけん</rt></ruby>のイベントでドローンが<ruby>落<rt>お</rt></ruby>ちて６<ruby>人<rt>にん</rt></ruby>がけがをする
-  mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650631273&idx=3&sn=ab94eff3c91cf28fb82ce190d75a476c&chksm=82d52bd2b5a2a2c4dd6d855a392050cabca356ec40aa82b48a6e07b0fe54813165c475152de4#rd
-  git_url: https://newswebeasy.github.io/news/easy/2017/11/06/岐阜県のイベントでドローンが落ちて6人がけがをする/
-- title: １<ruby>億<rt>おく</rt></ruby>５０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもが<ruby>危険<rt>きけん</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>などをしている
-  mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650630429&idx=5&sn=b2473666a08141bf517a3ecd6a1c6d8b&chksm=82d52ea6b5a2a7b07b5d1971b806af2582dfb504f5d735f10847a6b3f60143451e36f920e0fe#rd
-  git_url: https://newswebeasy.github.io/news/easy/2017/09/21/1億5000万人以上の子どもが危険な仕事などをしている/
+  url: https://newswebeasy.github.io/news/easy/2017/10/12/沖縄県-アメリカ軍のヘリコプターが訓練をしていて火事
 ...
