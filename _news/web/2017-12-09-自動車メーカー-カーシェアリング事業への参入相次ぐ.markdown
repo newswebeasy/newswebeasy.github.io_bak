@@ -63,8 +63,22 @@ movie_url: https://newswebeasy.github.io/ja201712/news/web/movie/2017/12/09/k100
 voice_url: https://newswebeasy.github.io/ja201712/news/web/voice/2017/12/09/k10011252651_201712091811_201712091815.mp3
 source_url: http://www3.nhk.or.jp/news/html/20171209/k10011252651000.html
 related_news:
-- title: <ruby>自動車<rt data-ruby-level="3">じどうしゃ</rt></ruby>メーカー カーシェアリング<ruby>事業<rt
-    data-ruby-level="3">じぎょう</rt></ruby>への<ruby>参入<rt data-ruby-level="4">さんにゅう</rt></ruby><ruby>相次<rt
-    data-ruby-level="3">あいつ</rt></ruby>ぐ
-  url: https://newswebeasy.github.io/news/web/2017/12/09/自動車メーカー-カーシェアリング事業への参入相次ぐ
+- title: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby><ruby>モーターショー<rt data-ruby-level="2">もーたーしょー</rt></ruby>
+    28<ruby>日<rt data-ruby-level="1">にち</rt></ruby>から<ruby>一般<rt data-ruby-level="7">いっぱん</rt></ruby><ruby>公開<rt
+    data-ruby-level="3">こうかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/10/28/東京モーターショー-28日から一般公開
+- title: メーカーへの<ruby>信頼<rt data-ruby-level="7">しんらい</rt></ruby><ruby>揺<rt data-ruby-level="7">ゆ</rt></ruby>らぐ<ruby>中<rt
+    data-ruby-level="1">なか</rt></ruby> <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby><ruby>モーターショー<rt
+    data-ruby-level="2">もーたーしょー</rt></ruby>の<ruby>内容<rt data-ruby-level="5">ないよう</rt></ruby>は
+  url: https://newswebeasy.github.io/news/web/2017/10/25/メーカーへの信頼揺らぐ中-東京モーターショーの内容は
+- title: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby> <ruby>広州<rt data-ruby-level="3">こうしゅう</rt></ruby>モーターショー<ruby>開幕<rt
+    data-ruby-level="6">かいまく</rt></ruby> ＥＶモデル<ruby>競<rt data-ruby-level="7">きそ</rt></ruby>う
+  url: https://newswebeasy.github.io/news/web/2017/11/17/中国-広州モーターショー開幕-EVモデル競う
+- title: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby> <ruby>一定<rt data-ruby-level="3">いってい</rt></ruby><ruby>割合<rt
+    data-ruby-level="6">わりあい</rt></ruby>でＥＶなど<ruby>生産<rt data-ruby-level="4">せいさん</rt></ruby><ruby>義務<rt
+    data-ruby-level="5">ぎむ</rt></ruby>づけの<ruby>新規制<rt data-ruby-level="5">しんきせい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/09/28/中国-一定割合でEVなど生産義務づけの新規制
+- title: ＳＵＢＡＲＵでも<ruby>無資格<rt data-ruby-level="5">むしかく</rt></ruby><ruby>検査<rt data-ruby-level="5">けんさ</rt></ruby><ruby>発覚<rt
+    data-ruby-level="4">はっかく</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/10/27/SUBARUでも無資格検査発覚
 ...
