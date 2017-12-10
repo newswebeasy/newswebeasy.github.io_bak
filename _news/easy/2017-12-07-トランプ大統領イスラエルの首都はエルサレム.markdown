@@ -68,4 +68,15 @@ words:
   - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。
 source_url: http://www3.nhk.or.jp/news/easy/k10011249301000/k10011249301000.html
 web_news_url: https://newswebeasy.github.io/news/web/2017/12/07/トランプ大統領-エルサレムをイスラエル首都に認定宣言
+related_news:
+- title: トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>が<ruby>韓国<rt>かんこく</rt></ruby>の<ruby>国会<rt>こっかい</rt></ruby>で<ruby>演説<rt>えんぜつ</rt></ruby>をする
+  url: https://newswebeasy.github.io/news/easy/2017/11/08/トランプ大統領が韓国の国会で演説をする
+- title: アメリカが「ユネスコから<ruby>出<rt>で</rt></ruby>る」と<ruby>言<rt>い</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2017/10/13/アメリカがユネスコから出ると言う
+- title: トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て<ruby>安倍<rt>あべ</rt></ruby><ruby>総理大臣<rt>そうりだいじん</rt></ruby>と<ruby>会<rt>あ</rt></ruby>って<ruby>話<rt>はな</rt></ruby>す
+  url: https://newswebeasy.github.io/news/easy/2017/11/06/トランプ大統領が日本に来て安倍総理大臣と会って話す
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>　トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>が<ruby>来<rt>く</rt></ruby>るため「<ruby>故宮<rt>こきゅう</rt></ruby>」が<ruby>休<rt>やす</rt></ruby>みになる
+  url: https://newswebeasy.github.io/news/easy/2017/11/09/中国-トランプ大統領が来るため故宮が休みになる
+- title: アフリカのジンバブエ　ムガベ<ruby>大統領<rt>だいとうりょう</rt></ruby>がやめる
+  url: https://newswebeasy.github.io/news/easy/2017/11/24/アフリカのジンバブエ-ムガベ大統領がやめる
 ...

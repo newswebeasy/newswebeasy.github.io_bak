@@ -53,4 +53,5 @@ words:
   - <ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って、はたらかせる<ruby><rb>機械</rb><rt>きかい</rt></ruby>。<ruby><rb>電気冷蔵庫</rb><rt>でんきれいぞうこ</rt></ruby>・<ruby><rb>電気洗濯機</rb><rt>でんきせんたくき</rt></ruby>など。
 source_url: http://www3.nhk.or.jp/news/easy/k10011248841000/k10011248841000.html
 web_news_url: https://newswebeasy.github.io/news/web/2017/12/06/北朝鮮木造船-無人島から50点以上持ち出しか
+related_news: []
 ...

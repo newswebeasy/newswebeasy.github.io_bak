@@ -101,18 +101,13 @@ source_url: http://www3.nhk.or.jp/news/easy/k10011249481000/k10011249481000.html
 web_news_url: https://newswebeasy.github.io/news/web/2017/12/07/東京五輪パラ-大会のマスコット3候補を発表
 related_news:
 - title: <ruby>国連<rt>こくれん</rt></ruby>「ピョンチャンオリンピックのときは<ruby>戦争<rt>せんそう</rt></ruby>をやめよう」
-  mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650631396&idx=5&sn=21bcb01ef2e1fc0478f0765443b3d06d&chksm=82d52b5fb5a2a2495e3389686d212d216ee9ad940bcb56a899b3ecac1fca5e868b3059d84ac3#rd
-  git_url: https://newswebeasy.github.io/news/easy/2017/11/15/国連ピョンチャンオリンピックのときは戦争をやめよう/
+  url: https://newswebeasy.github.io/news/easy/2017/11/15/国連ピョンチャンオリンピックのときは戦争をやめよう
 - title: <ruby>東京<rt>とうきょう</rt></ruby>オリンピックが<ruby>始<rt>はじ</rt></ruby>まる<ruby>日<rt>ひ</rt></ruby>などを<ruby>祝日<rt>しゅくじつ</rt></ruby>にする<ruby>案<rt>あん</rt></ruby>
-  mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650630577&idx=2&sn=c484201b8a35fad9e432a18ed5ad5d2e&chksm=82d52e0ab5a2a71c3101d24218e633f86cc51d172683ff8c96f5384163f32f192c14cca8a1dd#rd
-  git_url: https://newswebeasy.github.io/news/easy/2017/09/27/東京オリンピックが始まる日などを祝日にする案/
+  url: https://newswebeasy.github.io/news/easy/2017/09/27/東京オリンピックが始まる日などを祝日にする案
 - title: <ruby>東京<rt>とうきょう</rt></ruby>でパラリンピックを<ruby>開<rt>ひら</rt></ruby>くまで１０００<ruby>日<rt>にち</rt></ruby>になる
-  mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650631569&idx=4&sn=df604da3e56878ea8a77dad0f54d73d0&chksm=82d52a2ab5a2a33c461b91d829e434b9e9f282cc0a3620ab8779090ce63d04628bf7a6f006d5#rd
-  git_url: https://newswebeasy.github.io/news/easy/2017/11/30/東京でパラリンピックを開くまで1000日になる/
+  url: https://newswebeasy.github.io/news/easy/2017/11/30/東京でパラリンピックを開くまで1000日になる
 - title: <ruby>韓国<rt>かんこく</rt></ruby>　ピョンチャンオリンピックのメダルを<ruby>発表<rt>はっぴょう</rt></ruby>
-  mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650630458&idx=1&sn=f33e7c25700537278616ec4fb20fa3ae&chksm=82d52e81b5a2a7973f6b053543c126cb3d197bceff6b55a320154f8f847b5eefde9ce87d8348#rd
-  git_url: https://newswebeasy.github.io/news/easy/2017/09/22/韓国-ピョンチャンオリンピックのメダルを発表/
+  url: https://newswebeasy.github.io/news/easy/2017/09/22/韓国-ピョンチャンオリンピックのメダルを発表
 - title: <ruby>高校<rt>こうこう</rt></ruby>の「<ruby>生物<rt>せいぶつ</rt></ruby>」　「<ruby>覚<rt>おぼ</rt></ruby>えることばを<ruby>減<rt>へ</rt></ruby>らして<ruby>考<rt>かんが</rt></ruby>える<ruby>科目<rt>かもく</rt></ruby>に」
-  mp_url: http://mp.weixin.qq.com/s?__biz=MzAwMTIyNTQyOA==&mid=2650630617&idx=3&sn=8a459cd980e172a1114e24c779be2a15&chksm=82d52e62b5a2a774ffd3c6bcd62740e87b23db406d4c596c6f4f8cc09ab0251c2d15d719c9d3#rd
-  git_url: https://newswebeasy.github.io/news/easy/2017/09/29/高校の生物-覚えることばを減らして考える科目に/
+  url: https://newswebeasy.github.io/news/easy/2017/09/29/高校の生物-覚えることばを減らして考える科目に
 ...

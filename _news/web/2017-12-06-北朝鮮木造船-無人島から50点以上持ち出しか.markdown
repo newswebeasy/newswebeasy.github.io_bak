@@ -63,4 +63,9 @@ more: <ruby>北海道<rt data-ruby-level="2">ほっかいどう</rt></ruby><ruby
   data-ruby-level="3">すす</rt></ruby>めています。
 source_url: http://www3.nhk.or.jp/news/html/20171206/k10011248841000.html
 easy_news_url: https://newswebeasy.github.io/news/easy/2017/12/07/北朝鮮の船か-日本に流されてくる船が増えている
+related_news:
+- title: <ruby>港<rt data-ruby-level="3">みなと</rt></ruby>も<ruby>小屋<rt data-ruby-level="3">こや</rt></ruby>も<ruby>家電<rt
+    data-ruby-level="2">かでん</rt></ruby>もあるの？ <ruby>知<rt data-ruby-level="2">し</rt></ruby>られざる「<ruby>無人島<rt
+    data-ruby-level="4">むじんとう</rt></ruby>」の<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/06/港も小屋も家電もあるの-知られざる無人島の世界
 ...

@@ -64,4 +64,25 @@ more: 「ぐるなび」と<ruby>タイ<rt data-ruby-level="2">たい</rt></ruby
   data-ruby-level="3">じっかん</rt></ruby>している」と<ruby>述<rt data-ruby-level="5">の</rt></ruby>べました。
 source_url: http://www3.nhk.or.jp/news/html/20171206/k10011248661000.html
 easy_news_url: https://newswebeasy.github.io/news/easy/2017/12/08/ぐるなびがタイ観光庁と協力してタイの情報を紹介
+related_news:
+- title: ことしの<ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby><ruby>旅行者<rt data-ruby-level="3">りょこうしゃ</rt></ruby><ruby>数<rt
+    data-ruby-level="2">すう</rt></ruby> <ruby>過去<rt data-ruby-level="5">かこ</rt></ruby><ruby>最高<rt
+    data-ruby-level="4">さいこう</rt></ruby>に
+  url: https://newswebeasy.github.io/news/web/2017/11/10/ことしの外国人旅行者数-過去最高に
+- title: <ruby>豪州<rt data-ruby-level="7">ごうしゅう</rt></ruby>「エアーズロック」の<ruby>岩登<rt data-ruby-level="3">いわのぼ</rt></ruby>り
+    ２<ruby>年後<rt data-ruby-level="2">ねんご</rt></ruby>に<ruby>禁止<rt data-ruby-level="5">きんし</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2017/11/01/豪州エアーズロックの岩登り-2年後に禁止へ
+- title: タイのプミポン<ruby>前国王<rt data-ruby-level="2">ぜんこくおう</rt></ruby> <ruby>火葬<rt data-ruby-level="7">かそう</rt></ruby>の<ruby>儀式<rt
+    data-ruby-level="7">ぎしき</rt></ruby> <ruby>大勢<rt data-ruby-level="5">おおぜい</rt></ruby>の<ruby>市民<rt
+    data-ruby-level="4">しみん</rt></ruby>が<ruby>最後<rt data-ruby-level="4">さいご</rt></ruby>の<ruby>別<rt
+    data-ruby-level="4">わか</rt></ruby>れ
+  url: https://newswebeasy.github.io/news/web/2017/10/27/タイのプミポン前国王-火葬の儀式-大勢の市民が最後の別れ
+- title: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby> <ruby>国慶節<rt data-ruby-level="7">こっけいせつ</rt></ruby>の<ruby>大型<rt
+    data-ruby-level="4">おおがた</rt></ruby><ruby>連休前<rt data-ruby-level="4">れんきゅうまえ</rt></ruby>に<ruby>出国<rt
+    data-ruby-level="2">しゅっこく</rt></ruby>ラッシュ<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/web/2017/09/30/中国-国慶節の大型連休前に出国ラッシュ始まる
+- title: サイクリング<ruby>人気<rt data-ruby-level="1">にんき</rt></ruby>のシンガポールで<ruby>北海道<rt
+    data-ruby-level="2">ほっかいどう</rt></ruby>の<ruby>自転車<rt data-ruby-level="3">じてんしゃ</rt></ruby><ruby>旅<rt
+    data-ruby-level="3">たび</rt></ruby>ＰＲ
+  url: https://newswebeasy.github.io/news/web/2017/11/18/サイクリング人気のシンガポールで北海道の自転車旅PR
 ...

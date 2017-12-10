@@ -163,4 +163,25 @@ body:
     data-ruby-level="2">はな</rt></ruby>しました。
 source_url: http://www3.nhk.or.jp/news/html/20171207/k10011249481000.html
 easy_news_url: https://newswebeasy.github.io/news/easy/2017/12/08/オリンピックとパラリンピックのマスコットに3つの案
+related_news:
+- title: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>パラまで1000<ruby>日<rt data-ruby-level="1">にち</rt></ruby>
+    スカイツリー3<ruby>色<rt data-ruby-level="2">しょく</rt></ruby>にライトアップ
+  url: https://newswebeasy.github.io/news/web/2017/11/29/東京パラまで1000日-スカイツリー3色にライトアップ
+- title: ダビンチの<ruby>幻<rt data-ruby-level="7">まぼろし</rt></ruby>の<ruby>作品<rt data-ruby-level="3">さくひん</rt></ruby>
+    <ruby>史上<rt data-ruby-level="4">しじょう</rt></ruby><ruby>最高<rt data-ruby-level="4">さいこう</rt></ruby>500<ruby>億円<rt
+    data-ruby-level="4">おくえん</rt></ruby><ruby>超<rt data-ruby-level="7">ちょう</rt></ruby>で<ruby>落札<rt
+    data-ruby-level="4">らくさつ</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/11/16/ダビンチの幻の作品-史上最高500億円超で落札
+- title: <ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby>から300<ruby>超<rt data-ruby-level="7">ちょう</rt></ruby>が<ruby>集合<rt
+    data-ruby-level="3">しゅうごう</rt></ruby>「<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>キャラクターさみっと」<ruby>埼玉<rt
+    data-ruby-level="7">さいたま</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/11/26/全国から300超が集合世界キャラクターさみっと埼玉
+- title: ピョンチャン<ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby>まで100<ruby>日<rt data-ruby-level="1">にち</rt></ruby>
+    <ruby>韓国<rt data-ruby-level="7">かんこく</rt></ruby>で<ruby>聖火<rt data-ruby-level="6">せいか</rt></ruby>リレー<ruby>始<rt
+    data-ruby-level="3">はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/web/2017/11/01/ピョンチャン五輪まで100日-韓国で聖火リレー始まる
+- title: <ruby>国連<rt data-ruby-level="4">こくれん</rt></ruby> ピョンチャン<ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby>で<ruby>停戦<rt
+    data-ruby-level="4">ていせん</rt></ruby><ruby>決議<rt data-ruby-level="4">けつぎ</rt></ruby><ruby>採択<rt
+    data-ruby-level="7">さいたく</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/11/14/国連-ピョンチャン五輪で停戦決議採択
 ...
