@@ -101,8 +101,8 @@ words:
   - <ruby><rb>言</rb><rt>い</rt></ruby>いふらす。
   - <ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく…する。
 source_url: http://www3.nhk.or.jp/news/easy/k10011250601000/k10011250601000.html
-web_title_with_ruby: <ruby>保育園<rt>ほいくえん</rt></ruby>に<ruby>米軍機<rt>べいぐんき</rt></ruby>の落下物か
-  <ruby>抗議<rt>こうぎ</rt></ruby>集会など反発広がる
+web_title_with_ruby: <ruby>保育園<rt>ほいくえん</rt></ruby>に<ruby>米軍機<rt>べいぐんき</rt></ruby>の<ruby>落下物<rt>らっかぶつ</rt></ruby>か
+  <ruby>抗議<rt>こうぎ</rt></ruby><ruby>集会<rt>しゅうかい</rt></ruby>など<ruby>反発<rt>はんぱつ</rt></ruby><ruby>広<rt>ひろ</rt></ruby>がる
 web_news_url: https://newswebeasy.github.io/news/web/2017/12/08/保育園に米軍機の落下物か-抗議集会など反発広がる
 related_news:
 - title: <ruby>沖縄県<rt>おきなわけん</rt></ruby>　アメリカ<ruby>軍<rt>ぐん</rt></ruby>のヘリコプターが<ruby>訓練<rt>くんれん</rt></ruby>をしていて<ruby>火事<rt>かじ</rt></ruby>
