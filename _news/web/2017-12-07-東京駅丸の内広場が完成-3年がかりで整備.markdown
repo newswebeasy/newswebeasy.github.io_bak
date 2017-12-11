@@ -149,8 +149,4 @@ related_news:
     <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>は３<ruby>位<rt data-ruby-level="4">い</rt></ruby>を<ruby>維持<rt
     data-ruby-level="7">いじ</rt></ruby>
   url: https://newswebeasy.github.io/news/web/2017/10/12/世界都市ランキング-東京は3位を維持
-- title: <ruby>世界<rt data-ruby-level="3">せかい</rt></ruby><ruby>都市<rt data-ruby-level="3">とし</rt></ruby>ランキング
-    <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>は３<ruby>位<rt data-ruby-level="4">い</rt></ruby>を<ruby>維持<rt
-    data-ruby-level="7">いじ</rt></ruby>
-  url: https://newswebeasy.github.io/news/web/2017/10/12/世界都市ランキング-東京は3位を維持
 ...
