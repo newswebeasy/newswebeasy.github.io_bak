@@ -98,6 +98,8 @@ words:
   descriptions:
   - <ruby><rb>子</rb><rt>こ</rt></ruby>どもに<ruby><rb>話</rb><rt>はな</rt></ruby>してやる、<ruby><rb>昔</rb><rt>むかし</rt></ruby>から<ruby><rb>伝</rb><rt>つた</rt></ruby>わるお<ruby><rb>話</rb><rt>はなし</rt></ruby>。「ももたろう」「かちかち<ruby><rb>山</rb><rt>やま</rt></ruby>」など。
 source_url: http://www3.nhk.or.jp/news/easy/k10011249481000/k10011249481000.html
+web_title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby><ruby>五輪<rt>ごりん</rt></ruby>・<ruby>パラ<rt>ぱら</rt></ruby>
+  <ruby>大会<rt>たいかい</rt></ruby>の<ruby>マスコット<rt>ますこっと</rt></ruby>３<ruby>候補<rt>こうほ</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>
 web_news_url: https://newswebeasy.github.io/news/web/2017/12/07/東京五輪パラ-大会のマスコット3候補を発表
 related_news:
 - title: <ruby>国連<rt>こくれん</rt></ruby>「ピョンチャンオリンピックのときは<ruby>戦争<rt>せんそう</rt></ruby>をやめよう」

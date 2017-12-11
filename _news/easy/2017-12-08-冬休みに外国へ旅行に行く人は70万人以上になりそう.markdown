@@ -31,6 +31,8 @@ words:
   descriptions:
   - <ruby><rb>給料</rb><rt>きゅうりょう</rt></ruby>のほかに、<ruby><rb>夏</rb><rt>なつ</rt></ruby>と<ruby><rb>年末</rb><rt>ねんまつ</rt></ruby>などに<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>にもらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>賞与</rb><rt>しょうよ</rt></ruby>。
 source_url: http://www3.nhk.or.jp/news/easy/k10011249151000/k10011249151000.html
+web_title_with_ruby: <ruby>年末<rt>ねんまつ</rt></ruby><ruby>年始<rt>ねんし</rt></ruby>の<ruby>海外旅行<rt>かいがいりょこう</rt></ruby>
+  70<ruby>万人<rt>まんにん</rt></ruby><ruby>超<rt>こ</rt></ruby>え<ruby>過去<rt>かこ</rt></ruby><ruby>最高<rt>さいこう</rt></ruby>の<ruby>見通<rt>みとお</rt></ruby>し
 web_news_url: https://newswebeasy.github.io/news/web/2017/12/07/年末年始の海外旅行-70万人超え過去最高の見通し
 related_news:
 - title: <ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなる

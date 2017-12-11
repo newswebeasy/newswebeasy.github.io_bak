@@ -41,6 +41,8 @@ words:
   descriptions:
   - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
 source_url: http://www3.nhk.or.jp/news/easy/k10011248661000/k10011248661000.html
+web_title_with_ruby: 「ぐるなび」と<ruby>タイ<rt>たい</rt></ruby><ruby>観光庁<rt>かんこうちょう</rt></ruby>
+  <ruby>観光客<rt>かんこうきゃく</rt></ruby><ruby>誘致<rt>ゆうち</rt></ruby>で<ruby>連携<rt>れんけい</rt></ruby>
 web_news_url: https://newswebeasy.github.io/news/web/2017/12/06/ぐるなびとタイ観光庁-観光客誘致で連携
 related_news:
 - title: <ruby>日本<rt>にっぽん</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>　<ruby>今年<rt>ことし</rt></ruby>はもう２０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>
