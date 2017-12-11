@@ -229,7 +229,7 @@ span.rich_media_meta_nickname {
   span.rich_media_meta_nickname {
   }
   .rich_media_content {
-    /*min-height: 350px*/
+    min-height: 150px
   }
   .rich_media_title {
     padding-bottom: 10px;
