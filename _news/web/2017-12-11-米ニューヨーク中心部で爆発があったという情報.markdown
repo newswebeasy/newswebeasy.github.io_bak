@@ -1,0 +1,66 @@
+---
+layout: web_news
+categories: web
+newsid: k10011255141000
+title: 米ニューヨーク中心部で爆発があったという情報
+title_with_ruby: <ruby>米<rt data-ruby-level="2">べい</rt></ruby><ruby>ニューヨーク<rt data-ruby-level="2">にゅーよーく</rt></ruby><ruby>中心部<rt
+  data-ruby-level="3">ちゅうしんぶ</rt></ruby>で<ruby>爆発<rt data-ruby-level="7">ばくはつ</rt></ruby>があったという<ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>
+last_modified_at: '2017-12-11T23:16:00+09:00'
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>12<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>11<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 23<ruby>時<rt data-ruby-level="2">じ</rt></ruby>16<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: アメリカ、ニューヨークのマンハッタン中心部で日本時間の１１日夜、爆発があったという情報があり、警察などが確認を急いでいます。
+summary: アメリカ、ニューヨークのマンハッタン<ruby>中心部<rt data-ruby-level="3">ちゅうしんぶ</rt></ruby>で<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby><ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>の１１<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby><ruby>夜<rt data-ruby-level="2">よる</rt></ruby>、<ruby>爆発<rt
+  data-ruby-level="7">ばくはつ</rt></ruby>があったという<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>があり、<ruby>警察<rt
+  data-ruby-level="6">けいさつ</rt></ruby>などが<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>を<ruby>急<rt
+  data-ruby-level="3">いそ</rt></ruby>いでいます。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/11/K10011255141_1712112211_1712112212_01_02.jpg
+more: <ruby>詳<rt data-ruby-level="7">くわ</rt></ruby>しい<ruby>状況<rt data-ruby-level="7">じょうきょう</rt></ruby>はわかっていませんが、ＣＮＮテレビは、<ruby>警察<rt
+  data-ruby-level="6">けいさつ</rt></ruby>は、１<ruby>人<rt data-ruby-level="1">にん</rt></ruby>を<ruby>拘束<rt
+  data-ruby-level="7">こうそく</rt></ruby>して<ruby>調<rt data-ruby-level="3">しら</rt></ruby>べていると<ruby>伝<rt
+  data-ruby-level="4">つた</rt></ruby>えています。また<ruby>地元<rt data-ruby-level="2">じもと</rt></ruby>の<ruby>テレビ<rt
+  data-ruby-level="3">てれび</rt></ruby><ruby>局<rt data-ruby-level="3">きょく</rt></ruby>はけが<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>が<ruby>出<rt data-ruby-level="1">で</rt></ruby>ていると<ruby>伝<rt
+  data-ruby-level="4">つた</rt></ruby>えています。<ruby>現場<rt data-ruby-level="5">げんば</rt></ruby><ruby>付近<rt
+  data-ruby-level="4">ふきん</rt></ruby>を<ruby>撮影<rt data-ruby-level="7">さつえい</rt></ruby>した<ruby>映像<rt
+  data-ruby-level="6">えいぞう</rt></ruby>からは<ruby>多<rt data-ruby-level="2">おお</rt></ruby>くの<ruby>警察<rt
+  data-ruby-level="6">けいさつ</rt></ruby>や<ruby>消防<rt data-ruby-level="5">しょうぼう</rt></ruby>の<ruby>車両<rt
+  data-ruby-level="3">しゃりょう</rt></ruby>が<ruby>集<rt data-ruby-level="3">あつ</rt></ruby>まり、<ruby>警察官<rt
+  data-ruby-level="6">けいさつかん</rt></ruby>などが<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>のために<ruby>行<rt
+  data-ruby-level="7">い</rt></ruby>き<ruby>交<rt data-ruby-level="7">か</rt></ruby>う<ruby>様子<rt
+  data-ruby-level="3">ようす</rt></ruby>が<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>できます。
+body:
+- text: アメリカ・ホワイトハウスのサンダース<ruby>報道官<rt data-ruby-level="5">ほうどうかん</rt></ruby>は、ツイッターに「<ruby>大統領<rt
+    data-ruby-level="5">だいとうりょう</rt></ruby>はニューヨークの<ruby>爆発<rt data-ruby-level="7">ばくはつ</rt></ruby>について<ruby>報告<rt
+    data-ruby-level="5">ほうこく</rt></ruby>を<ruby>受<rt data-ruby-level="3">う</rt></ruby>けた」と<ruby>書<rt
+    data-ruby-level="7">か</rt></ruby>き<ruby>込<rt data-ruby-level="7">こ</rt></ruby>み、トランプ<ruby>大統領<rt
+    data-ruby-level="5">だいとうりょう</rt></ruby>がこの<ruby>件<rt data-ruby-level="5">けん</rt></ruby>で<ruby>説明<rt
+    data-ruby-level="4">せつめい</rt></ruby>を<ruby>受<rt data-ruby-level="3">う</rt></ruby>けたことを<ruby>明<rt
+    data-ruby-level="2">あき</rt></ruby>らかにしました。
+source_url: http://www3.nhk.or.jp/news/html/20171211/k10011255141000.html
+related_news:
+- title: ＮＹ<ruby>市長<rt data-ruby-level="2">しちょう</rt></ruby><ruby>会見<rt data-ruby-level="2">かいけん</rt></ruby>「<ruby>卑劣<rt
+    data-ruby-level="7">ひれつ</rt></ruby>なテロ」 <ruby>車<rt data-ruby-level="1">くるま</rt></ruby><ruby>突<rt
+    data-ruby-level="7">つ</rt></ruby>っ<ruby>込<rt data-ruby-level="7">こ</rt></ruby>み８<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby><ruby>死亡<rt data-ruby-level="6">しぼう</rt></ruby>
+    <ruby>男<rt data-ruby-level="1">おとこ</rt></ruby>を<ruby>拘束<rt data-ruby-level="7">こうそく</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/11/01/NY市長会見卑劣なテロ-車突っ込み8人死亡-男を拘束
+- title: トランプ<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby> <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>でツイッター<ruby>使<rt
+    data-ruby-level="3">つか</rt></ruby>えるかと<ruby>関心<rt data-ruby-level="4">かんしん</rt></ruby><ruby>集<rt
+    data-ruby-level="3">あつ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/web/2017/11/08/トランプ大統領-中国でツイッター使えるかと関心集まる
+- title: トランプ<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby>きょう<ruby>訪日<rt data-ruby-level="6">ほうにち</rt></ruby>
+    <ruby>首脳<rt data-ruby-level="6">しゅのう</rt></ruby><ruby>会談<rt data-ruby-level="3">かいだん</rt></ruby>やゴルフ
+  url: https://newswebeasy.github.io/news/web/2017/11/05/トランプ大統領きょう訪日-首脳会談やゴルフ
+- title: トランプ<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby>が<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>に<ruby>到着<rt
+    data-ruby-level="7">とうちゃく</rt></ruby> <ruby>故宮<rt data-ruby-level="5">こきゅう</rt></ruby>で<ruby>習<rt
+    data-ruby-level="3">しゅう</rt></ruby><ruby>国家<rt data-ruby-level="2">こっか</rt></ruby><ruby>主席<rt
+    data-ruby-level="4">しゅせき</rt></ruby>と<ruby>交流<rt data-ruby-level="3">こうりゅう</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2017/11/08/トランプ大統領が中国に到着-故宮で習国家主席と交流へ
+- title: “<ruby>核<rt data-ruby-level="7">かく</rt></ruby>のフットボール”か <ruby>横田基地<rt data-ruby-level="5">よこたきち</rt></ruby>でカメラが<ruby>捉<rt
+    data-ruby-level="7">とら</rt></ruby>える
+  url: https://newswebeasy.github.io/news/web/2017/11/05/核のフットボールか-横田基地でカメラが捉える
+...
