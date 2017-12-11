@@ -49,6 +49,8 @@ words:
   - <ruby><rb>建物</rb><rt>たてもの</rt></ruby>や<ruby><rb>道</rb><rt>みち</rt></ruby>などを、<ruby><rb>新</rb><rt>あたら</rt></ruby>しく<ruby><rb>造</rb><rt>つく</rt></ruby>ること。
   - <ruby><rb>組織</rb><rt>そしき</rt></ruby>などを<ruby><rb>新</rb><rt>あたら</rt></ruby>しく<ruby><rb>作</rb><rt>つく</rt></ruby>ること。
 source_url: http://www3.nhk.or.jp/news/easy/k10011247651000/k10011247651000.html
+web_title_with_ruby: <ruby>日本語<rt>にほんご</rt></ruby><ruby>学校<rt>がっこう</rt></ruby><ruby>急増<rt>きゅうぞう</rt></ruby>
+  ５<ruby>年<rt>ねん</rt></ruby>で200<ruby>校<rt>こう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>新設<rt>しんせつ</rt></ruby>  <ruby>背景<rt>はいけい</rt></ruby>に<ruby>人手<rt>ひとで</rt></ruby><ruby>不足<rt>ぶそく</rt></ruby>か
 web_news_url: https://newswebeasy.github.io/news/web/2017/12/05/日本語学校急増-5年で200校以上新設-背景に人手不足か
 related_news:
 - title: <ruby>日本<rt>にっぽん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>きたい<ruby>留学生<rt>りゅうがくせい</rt></ruby>と<ruby>世界<rt>せかい</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>話<rt>はな</rt></ruby>す<ruby>会<rt>かい</rt></ruby>
