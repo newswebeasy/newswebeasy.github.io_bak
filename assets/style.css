@@ -1,3 +1,7 @@
+p.blank {
+  min-height: 1em;
+}
+
 .fullwidth {
   width: 100%;
 }
