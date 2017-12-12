@@ -1,0 +1,47 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011252001000
+last_modified_at: '2017-12-12T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ８日、兵庫県神戸市で「神戸ルミナリエ」が始まりました。
+title: いろいろな色の光でまちを飾る「神戸ルミナリエ」が始まる
+title_with_ruby: いろいろな<ruby>色<rt>いろ</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>でまちを<ruby>飾<rt>かざ</rt></ruby>る「<ruby>神戸<rt>こうべ</rt></ruby>ルミナリエ」が<ruby>始<rt>はじ</rt></ruby>まる
+outline: ８日、兵庫県神戸市で「神戸ルミナリエ」が始まりました。
+outline_with_ruby: <ruby>８日<rt>ようか</rt></ruby>、<ruby>兵庫県<rt>ひょうごけん</rt></ruby><ruby>神戸市<rt>こうべし</rt></ruby>で「<ruby>神戸<rt>こうべ</rt></ruby>ルミナリエ」が<ruby>始<rt>はじ</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/08/K10011252001_1712082107_1712082108_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/12/k10011252001000.mp3
+content_with_ruby: "<p><ruby>８日<rt>ようか</rt></ruby>、<ruby>兵庫県<rt>ひょうごけん</rt></ruby><ruby>神戸市<rt>こうべし</rt></ruby>で「<ruby>神戸<rt>こうべ</rt></ruby>ルミナリエ」が<ruby>始<rt>はじ</rt></ruby>まりました。いろいろな<ruby>色<rt>いろ</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>でまちを<ruby>飾<rt>かざ</rt></ruby>る<span\
+  \ style=\"color: blue;\">イベント</span>です。</p>\n<p><ruby>神戸市<rt>こうべし</rt></ruby>は１９９５<ruby>年<rt>ねん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>阪神<rt>はんしん</rt></ruby>・<ruby>淡路大震災<rt>あわじだいしんさい</rt></ruby></span>で<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>がありました。このとき<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>のために<ruby>祈<rt>いの</rt></ruby>りたいと<ruby>考<rt>かんが</rt></ruby>えました。そして、まちを<ruby>明<rt>あか</rt></ruby>るくにぎやかにしたいと<ruby>考<rt>かんが</rt></ruby>えて、この<span\
+  \ style=\"color: blue;\">イベント</span>が<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>今年<rt>ことし</rt></ruby>は２３<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>で、<ruby>去年<rt>きょねん</rt></ruby>より１０<ruby>万<rt>まん</rt></ruby><ruby>個<rt>こ</rt></ruby><ruby>多<rt>おお</rt></ruby>い４０<ruby>万<rt>まん</rt></ruby><ruby>個<rt>こ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>電球<rt>でんきゅう</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>っています。</p>\n\
+  <p><ruby>８日<rt>ようか</rt></ruby>は、<ruby>集<rt>あつ</rt></ruby>まった<ruby>人<rt>ひと</rt></ruby>たちが<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>のために<ruby>祈<rt>いの</rt></ruby>ったあと、<ruby>電気<rt>でんき</rt></ruby>をつけました。<ruby>会場<rt>かいじょう</rt></ruby>には<ruby>光<rt>ひかり</rt></ruby>で<ruby>作<rt>つく</rt></ruby>った<ruby>教会<rt>きょうかい</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>塔<rt>とう</rt></ruby></span>などがあって、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がゆっくり<ruby>歩<rt>ある</rt></ruby>きながら<ruby>美<rt>うつく</rt></ruby>しい<ruby>光<rt>ひかり</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しんでいました。</p>\n\
+  <p>「<ruby>神戸<rt>こうべ</rt></ruby>ルミナリエ」は１７<ruby>日<rt>にち</rt></ruby>までです。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 阪神淡路大震災
+  descriptions:
+  - １９９５<ruby><rb>年</rb><rt>ねん</rt></ruby>（<ruby><rb>平成</rb><rt>へいせい</rt></ruby>７<ruby><rb>年</rb><rt>ねん</rt></ruby>）<ruby><rb>１月</rb><rt>いちがつ</rt></ruby><ruby><rb>１７日</rb><rt>じゅうしちにち</rt></ruby>、<ruby><rb>兵庫県</rb><rt>ひょうごけん</rt></ruby><ruby><rb>南部</rb><rt>なんぶ</rt></ruby>に<ruby><rb>起</rb><rt>お</rt></ruby>きた<ruby><rb>大地震</rb><rt>おおじしん</rt></ruby>による<ruby><rb>災害</rb><rt>さいがい</rt></ruby>。<ruby><rb>死者</rb><rt>ししゃ</rt></ruby>が<ruby><rb>約</rb><rt>やく</rt></ruby>６５００<ruby><rb>人</rb><rt>にん</rt></ruby>も<ruby><rb>出</rb><rt>で</rt></ruby>るなどの<ruby><rb>大被害</rb><rt>だいひがい</rt></ruby>をもたらした。
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 電球
+  descriptions:
+  - <ruby><rb>電灯</rb><rt>でんとう</rt></ruby>のガラスの<ruby><rb>球</rb><rt>たま</rt></ruby>。<ruby><rb>球</rb><rt>たま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に、フィラメントが<ruby><rb>入</rb><rt>い</rt></ruby>れてある。
+- word: 塔
+  descriptions:
+  - <ruby><rb>寺</rb><rt>てら</rt></ruby>で、<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>や<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>骨</rb><rt>ほね</rt></ruby>をとむらうために<ruby><rb>建</rb><rt>た</rt></ruby>てた<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>くそびえる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。タワー。
+source_url: http://www3.nhk.or.jp/news/easy/k10011252001000/k10011252001000.html
+web_title_with_ruby: 「<ruby>神戸<rt>こうべ</rt></ruby><ruby>ルミナリエ<rt>るみなりえ</rt></ruby>」<ruby>始<rt>はじ</rt></ruby>まる
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/08/神戸ルミナリエ始まる
+related_news: []
+...

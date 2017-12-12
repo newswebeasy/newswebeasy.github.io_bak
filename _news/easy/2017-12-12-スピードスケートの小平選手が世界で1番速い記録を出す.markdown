@@ -1,0 +1,96 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011254041000
+last_modified_at: '2017-12-12T17:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: アメリカのソルトレークシティーでスピードスケートのワールドカップがありました。
+title: スピードスケートの小平選手が世界で１番速い記録を出す
+title_with_ruby: スピードスケートの<ruby>小平<rt>こだいら</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>世界<rt>せかい</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby><ruby>速<rt>はや</rt></ruby>い<ruby>記録<rt>きろく</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す
+outline: アメリカのソルトレークシティーでスピードスケートのワールドカップがありました。
+outline_with_ruby: アメリカのソルトレークシティーでスピードスケートのワールドカップがありました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/11/K10011254041_1712110716_1712110718_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/12/k10011254041000.mp3
+content_with_ruby: "<p>アメリカのソルトレークシティーで<span style=\"color: blue;\">スピード</span><span\
+  \ style=\"color: blue;\">スケート</span>の<span style=\"color: blue;\">ワールドカップ</span>がありました。<ruby>１０日<rt>とおか</rt></ruby>、<ruby>小平<rt>こだいら</rt></ruby><ruby>奈緒<rt>なお</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が１０００ｍの<ruby>試合<rt>しあい</rt></ruby>に<ruby>出<rt>で</rt></ruby>ました。</p>\n\
+  <p><ruby>小平<rt>こだいら</rt></ruby><span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<span\
+  \ style=\"color: blue;\">スタート</span>からとても<ruby>速<rt>はや</rt></ruby>く<ruby>滑<rt>すべ</rt></ruby>って、１<ruby>分<rt>ぷん</rt></ruby>１２<span\
+  \ style=\"color: blue;\"><ruby>秒<rt>びょう</rt></ruby></span>０９で<span style=\"color:\
+  \ blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。<ruby>今<rt>いま</rt></ruby>までの<ruby>世界<rt>せかい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>より０<span style=\"color:\
+  \ blue;\"><ruby>秒<rt>びょう</rt></ruby></span>０９<ruby>速<rt>はや</rt></ruby>くて、<ruby>世界<rt>せかい</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby><ruby>速<rt>はや</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>になりました。<ruby>小平<rt>こだいら</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>女子<rt>じょし</rt></ruby></span>で<ruby>初<rt>はじ</rt></ruby>めて、<span\
+  \ style=\"color: blue;\"><ruby>個人<rt>こじん</rt></ruby></span>の１つの<span style=\"color:\
+  \ blue;\"><ruby>種目<rt>しゅもく</rt></ruby></span>で<ruby>世界<rt>せかい</rt></ruby><span style=\"\
+  color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>しました。</p>\n\
+  <p>３１<ruby>歳<rt>さい</rt></ruby>の<ruby>小平<rt>こだいら</rt></ruby><span style=\"color:\
+  \ blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>今<rt>いま</rt></ruby>までに２<ruby>回<rt>かい</rt></ruby><span\
+  \ style=\"color: blue;\">オリンピック</span>に<ruby>出<rt>で</rt></ruby>ていますが、<span style=\"\
+  color: blue;\"><ruby>個人<rt>こじん</rt></ruby></span>の<span style=\"color: blue;\"><ruby>種目<rt>しゅもく</rt></ruby></span>の<span\
+  \ style=\"color: blue;\">メダル</span>は<ruby>取<rt>と</rt></ruby>っていません。<ruby>小平<rt>こだいら</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は「この<ruby>試合<rt>しあい</rt></ruby>でうまくできなかったことがいくつかありました。<ruby>来年<rt>らいねん</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>のピョンチャンオリンピックまでに、できるようにしたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: スピード
+  descriptions:
+  - <ruby><rb>速</rb><rt>はや</rt></ruby>さ。<ruby><rb>速力</rb><rt>そくりょく</rt></ruby>。
+- word: スケート
+  descriptions:
+  - <ruby><rb>底</rb><rt>そこ</rt></ruby>に<ruby><rb>金具</rb><rt>かなぐ</rt></ruby>の<ruby><rb>刃</rb><rt>は</rt></ruby>がついているくつをはいて、<ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。アイススケート。また、そのためのくつ。
+  - 「ローラースケート」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 記録
+  descriptions:
+  - あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。
+- word: ワールドカップ
+  descriptions:
+  - スポーツ<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>の<ruby><rb>世界選手権大会</rb><rt>せかいせんしゅけんたいかい</rt></ruby>の<ruby><rb>優勝者</rb><rt>ゆうしょうしゃ</rt></ruby>にあたえられるカップ。また、そのカップを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>W杯</rb><rt>ダブリューはい</rt></ruby>。
+- word: スタート
+  descriptions:
+  - <ruby><rb>出発</rb><rt>しゅっぱつ</rt></ruby>。
+- word: 秒
+  descriptions:
+  - <ruby><rb>時間</rb><rt>じかん</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。
+  - <ruby><rb>角度</rb><rt>かくど</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。
+- word: 優勝
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>などで、<ruby><rb>一位</rb><rt>いちい</rt></ruby>で<ruby><rb>勝</rb><rt>か</rt></ruby>つこと。
+- word: 女子
+  descriptions:
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>女性</rb><rt>じょせい</rt></ruby>。
+- word: 個人
+  descriptions:
+  - <ruby><rb>社会</rb><rt>しゃかい</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている、<ruby><rb>一人</rb><rt>ひとり</rt></ruby><ruby><rb>一人</rb><rt>ひとり</rt></ruby>。<ruby><rb>一人</rb><rt>ひとり</rt></ruby>の<ruby><rb>人間</rb><rt>にんげん</rt></ruby>。
+- word: 種目
+  descriptions:
+  - <ruby><rb>種類</rb><rt>しゅるい</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>名前</rb><rt>なまえ</rt></ruby>。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011254041000/k10011254041000.html
+web_title_with_ruby: <ruby>スピード<rt>すぴーど</rt></ruby><ruby>スケート<rt>すけーと</rt></ruby>
+  <ruby>小平<rt>こだいら</rt></ruby> 1000<ruby>メートル<rt>めーとる</rt></ruby>で<ruby>世界<rt>せかい</rt></ruby><ruby>新記録<rt>しんきろく</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/11/スピードスケート-小平-1000メートルで世界新記録
+related_news:
+- title: <ruby>体操<rt>たいそう</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>　<ruby>白井<rt>しらい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>と<ruby>村上<rt>むらかみ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>金<rt>きん</rt></ruby>メダル
+  url: https://newswebeasy.github.io/news/easy/2017/10/10/体操の世界大会-白井選手と村上選手が金メダル
+- title: カナダのフィギュアスケートの<ruby>大会<rt>たいかい</rt></ruby>で<ruby>宇野<rt>うの</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/10/30/カナダのフィギュアスケートの大会で宇野選手が優勝
+- title: ロシアの<ruby>選手<rt>せんしゅ</rt></ruby>のチームはオリンピックに<ruby>出<rt>で</rt></ruby>ることができない
+  url: https://newswebeasy.github.io/news/easy/2017/12/06/ロシアの選手のチームはオリンピックに出ることができない
+- title: <ruby>清宮<rt>きよみや</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>「<ruby>高校<rt>こうこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>したらプロ<ruby>野球<rt>やきゅう</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>になります」
+  url: https://newswebeasy.github.io/news/easy/2017/09/22/清宮選手高校を卒業したらプロ野球の選手になります
+- title: <ruby>生徒<rt>せいと</rt></ruby>たちがパラリンピックの<ruby>金<rt>きん</rt></ruby>メダルの<ruby>選手<rt>せんしゅ</rt></ruby>から<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2017/11/08/生徒たちがパラリンピックの金メダルの選手から話を聞く
+...

@@ -1,0 +1,58 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011254231000
+last_modified_at: '2017-12-12T17:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 外国の大使が新しくなるとき、皇居で式があります。
+title: 外国の大使が馬車に乗って東京駅から皇居へ行く
+title_with_ruby: <ruby>外国<rt>がいこく</rt></ruby>の<ruby>大使<rt>たいし</rt></ruby>が<ruby>馬車<rt>ばしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>東京駅<rt>とうきょうえき</rt></ruby>から<ruby>皇居<rt>こうきょ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く
+outline: 外国の大使が新しくなるとき、皇居で式があります。
+outline_with_ruby: <ruby>外国<rt>がいこく</rt></ruby>の<ruby>大使<rt>たいし</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しくなるとき、<ruby>皇居<rt>こうきょ</rt></ruby>で<ruby>式<rt>しき</rt></ruby>があります。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/11/K10011254231_1712111205_1712111207_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/12/k10011254231000.mp3
+content_with_ruby: "<p><ruby>外国<rt>がいこく</rt></ruby>の<span style=\"color: blue;\"><ruby>大使<rt>たいし</rt></ruby></span>が<ruby>新<rt>あたら</rt></ruby>しくなるとき、<span\
+  \ style=\"color: blue;\"><ruby>皇居<rt>こうきょ</rt></ruby></span>で<ruby>式<rt>しき</rt></ruby>があります。<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>大使<rt>たいし</rt></ruby></span>は<span style=\"color:\
+  \ blue;\"><ruby>馬車<rt>ばしゃ</rt></ruby></span>に<ruby>乗<rt>の</rt></ruby>って<ruby>東京駅<rt>とうきょうえき</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>皇居<rt>こうきょ</rt></ruby></span>へ<ruby>行<rt>い</rt></ruby>きますが、<ruby>東京駅<rt>とうきょうえき</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りでは２００７<ruby>年<rt>ねん</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>をしていました。このため、<span style=\"\
+  color: blue;\"><ruby>馬車<rt>ばしゃ</rt></ruby></span>は<ruby>別<rt>べつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>皇居<rt>こうきょ</rt></ruby></span>へ<ruby>行<rt>い</rt></ruby>っていましたが、<span\
+  \ style=\"color: blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>が<ruby>終<rt>お</rt></ruby>わって、また<ruby>東京駅<rt>とうきょうえき</rt></ruby>から<ruby>行<rt>い</rt></ruby>くことになりました。</p>\n\
+  <p>１１<ruby>日<rt>にち</rt></ruby>、アフリカのベナンの<span style=\"color: blue;\"><ruby>大使<rt>たいし</rt></ruby></span>とエジプトの<span\
+  \ style=\"color: blue;\"><ruby>大使<rt>たいし</rt></ruby></span>の<ruby>式<rt>しき</rt></ruby>がありました。<span\
+  \ style=\"color: blue;\"><ruby>大使<rt>たいし</rt></ruby></span>が<ruby>乗<rt>の</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>馬車<rt>ばしゃ</rt></ruby></span>は、<ruby>東京駅<rt>とうきょうえき</rt></ruby>を<ruby>出発<rt>しゅっぱつ</rt></ruby>して<span\
+  \ style=\"color: blue;\"><ruby>皇居<rt>こうきょ</rt></ruby></span>までの<ruby>道<rt>みち</rt></ruby>をゆっくり<ruby>走<rt>はし</rt></ruby>りました。<span\
+  \ style=\"color: blue;\"><ruby>観光<rt>かんこう</rt></ruby></span>に<ruby>来<rt>き</rt></ruby>ていた<ruby>人<rt>ひと</rt></ruby>などは、<ruby>美<rt>うつく</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>馬車<rt>ばしゃ</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>て<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ったりしていました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大使
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>して<ruby><rb>外交</rb><rt>がいこう</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>外交官</rb><rt>がいこうかん</rt></ruby>のいちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役</rb><rt>やく</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 馬車
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>を<ruby><rb>乗</rb><rt>の</rt></ruby>せて、<ruby><rb>馬</rb><rt>うま</rt></ruby>に<ruby><rb>引</rb><rt>ひ</rt></ruby>かせる<ruby><rb>車</rb><rt>くるま</rt></ruby>。
+- word: 皇居
+  descriptions:
+  - <ruby><rb>天皇</rb><rt>てんのう</rt></ruby>の<ruby><rb>住</rb><rt>す</rt></ruby>まい。<ruby><rb>宮城</rb><rt>きゅうじょう</rt></ruby>。
+- word: 工事
+  descriptions:
+  - <ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。
+- word: 観光
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011254231000/k10011254231000.html
+web_title_with_ruby: <ruby>東京駅<rt>とうきょうえき</rt></ruby>と<ruby>皇居<rt>こうきょ</rt></ruby><ruby>結<rt>むす</rt></ruby>ぶ<ruby>馬車<rt>ばしゃ</rt></ruby><ruby>列<rt>れつ</rt></ruby>が<ruby>復活<rt>ふっかつ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/11/東京駅と皇居結ぶ馬車列が復活
+related_news:
+- title: 「<ruby>東京<rt>とうきょう</rt></ruby>スカイツリータウン」に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>　５<ruby>年<rt>ねん</rt></ruby>５か<ruby>月<rt>げつ</rt></ruby>で２<ruby>億<rt>おく</rt></ruby><ruby>人<rt>にん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/11/01/東京スカイツリータウンに来た人-5年5か月で2億人
+- title: <ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>使<rt>つか</rt></ruby>ったお<ruby>金<rt>かね</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなる
+  url: https://newswebeasy.github.io/news/easy/2017/10/04/旅行に来た外国人が東京で使ったお金が少なくなる
+- title: <ruby>世界<rt>せかい</rt></ruby>の<ruby>都市<rt>とし</rt></ruby>のランキング　<ruby>東京<rt>とうきょう</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ３<ruby>番<rt>ばん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/10/13/世界の都市のランキング-東京は去年と同じ3番
+...
