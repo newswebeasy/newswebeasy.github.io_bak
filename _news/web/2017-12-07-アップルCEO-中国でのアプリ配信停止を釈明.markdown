@@ -1,0 +1,94 @@
+---
+layout: web_news
+categories: web
+newsid: k10011249281000
+title: アップルＣＥＯ 中国でのアプリ配信停止を釈明
+title_with_ruby: アップルＣＥＯ <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>でのアプリ<ruby>配信<rt
+  data-ruby-level="4">はいしん</rt></ruby><ruby>停止<rt data-ruby-level="4">ていし</rt></ruby>を<ruby>釈明<rt
+  data-ruby-level="7">しゃくめい</rt></ruby>
+last_modified_at: '2017-12-07T04:24:00+09:00'
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>12<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>07<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 04<ruby>時<rt data-ruby-level="2">じ</rt></ruby>24<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: アメリカのＩＴ企業アップルのＣＥＯは中国で開かれたフォーラムで、ネット規制を強める中国政府の要請に従って、規制の網をくぐり抜けてサイトを閲覧できるアプリの配信を停止したことについて、「自由は信奉しているが、外にいては変えることはできない」と述べ、批判に対して釈明しました。
+summary: アメリカのＩＴ<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>アップルのＣＥＯは<ruby>中国<rt
+  data-ruby-level="2">ちゅうごく</rt></ruby>で<ruby>開<rt data-ruby-level="3">ひら</rt></ruby>かれたフォーラムで、ネット<ruby>規制<rt
+  data-ruby-level="5">きせい</rt></ruby>を<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>める<ruby>中国<rt
+  data-ruby-level="2">ちゅうごく</rt></ruby><ruby>政府<rt data-ruby-level="5">せいふ</rt></ruby>の<ruby>要請<rt
+  data-ruby-level="7">ようせい</rt></ruby>に<ruby>従<rt data-ruby-level="6">したが</rt></ruby>って、<ruby>規制<rt
+  data-ruby-level="5">きせい</rt></ruby>の<ruby>網<rt data-ruby-level="7">あみ</rt></ruby>をくぐり<ruby>抜<rt
+  data-ruby-level="7">ぬ</rt></ruby>けてサイトを<ruby>閲覧<rt data-ruby-level="7">えつらん</rt></ruby>できるアプリの<ruby>配信<rt
+  data-ruby-level="4">はいしん</rt></ruby>を<ruby>停止<rt data-ruby-level="4">ていし</rt></ruby>したことについて、「<ruby>自由<rt
+  data-ruby-level="3">じゆう</rt></ruby>は<ruby>信奉<rt data-ruby-level="7">しんぽう</rt></ruby>しているが、<ruby>外<rt
+  data-ruby-level="2">そと</rt></ruby>にいては<ruby>変<rt data-ruby-level="4">か</rt></ruby>えることはできない」と<ruby>述<rt
+  data-ruby-level="5">の</rt></ruby>べ、<ruby>批判<rt data-ruby-level="6">ひはん</rt></ruby>に<ruby>対<rt
+  data-ruby-level="3">たい</rt></ruby>して<ruby>釈明<rt data-ruby-level="7">しゃくめい</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/07/K10011249281_1712070642_1712070711_01_02.jpg
+more: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby><ruby>南部<rt data-ruby-level="3">なんぶ</rt></ruby>・<ruby>広東省<rt
+  data-ruby-level="8">かんとんしょう</rt></ruby><ruby>広州<rt data-ruby-level="3">こうしゅう</rt></ruby>ではアメリカの<ruby>経済誌<rt
+  data-ruby-level="6">けいざいし</rt></ruby>が<ruby>主催<rt data-ruby-level="7">しゅさい</rt></ruby>し、<ruby>世界<rt
+  data-ruby-level="3">せかい</rt></ruby>の<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby><ruby>経営者<rt
+  data-ruby-level="5">けいえいしゃ</rt></ruby>が<ruby>参加<rt data-ruby-level="4">さんか</rt></ruby>する「フォーチュングローバルフォーラム」が６<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>、<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>まりました。<br
+  /><br />この<ruby>中<rt data-ruby-level="1">なか</rt></ruby>でアップルのティム・クックＣＥＯは、ネット<ruby>上<rt
+  data-ruby-level="1">じょう</rt></ruby>の<ruby>言論<rt data-ruby-level="6">げんろん</rt></ruby>に<ruby>対<rt
+  data-ruby-level="3">たい</rt></ruby>する<ruby>規制<rt data-ruby-level="5">きせい</rt></ruby>を<ruby>強<rt
+  data-ruby-level="2">つよ</rt></ruby>めている<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby><ruby>政府<rt
+  data-ruby-level="5">せいふ</rt></ruby>からの<ruby>要請<rt data-ruby-level="7">ようせい</rt></ruby>に<ruby>従<rt
+  data-ruby-level="6">したが</rt></ruby>って、<ruby>規制<rt data-ruby-level="5">きせい</rt></ruby>の<ruby>網<rt
+  data-ruby-level="7">あみ</rt></ruby>をくぐり<ruby>抜<rt data-ruby-level="7">ぬ</rt></ruby>けてサイトを<ruby>閲覧<rt
+  data-ruby-level="7">えつらん</rt></ruby>できるＶＰＮと<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>ばれるアプリの<ruby>一部<rt
+  data-ruby-level="3">いちぶ</rt></ruby>を<ruby>配信<rt data-ruby-level="4">はいしん</rt></ruby>サービスから<ruby>削除<rt
+  data-ruby-level="7">さくじょ</rt></ruby>したことについて「<ruby>アメリカ<rt data-ruby-level="1">あめりか</rt></ruby><ruby>人<rt
+  data-ruby-level="1">じん</rt></ruby>として<ruby>自由<rt data-ruby-level="3">じゆう</rt></ruby>を<ruby>信奉<rt
+  data-ruby-level="7">しんぽう</rt></ruby>しているが、<ruby>国<rt data-ruby-level="2">くに</rt></ruby>にはそれぞれの<ruby>法律<rt
+  data-ruby-level="6">ほうりつ</rt></ruby>と<ruby>規制<rt data-ruby-level="5">きせい</rt></ruby>がある。<ruby>外<rt
+  data-ruby-level="2">そと</rt></ruby>にいては<ruby>変<rt data-ruby-level="4">か</rt></ruby>えることはできないので、<ruby>市場<rt
+  data-ruby-level="2">しじょう</rt></ruby>に<ruby>入<rt data-ruby-level="1">はい</rt></ruby>ることを<ruby>選<rt
+  data-ruby-level="4">えら</rt></ruby>んだ」と<ruby>述<rt data-ruby-level="5">の</rt></ruby>べ、<ruby>言論<rt
+  data-ruby-level="6">げんろん</rt></ruby>の<ruby>自由<rt data-ruby-level="3">じゆう</rt></ruby>より<ruby>自社<rt
+  data-ruby-level="2">じしゃ</rt></ruby>の<ruby>利益<rt data-ruby-level="5">りえき</rt></ruby>を<ruby>優先<rt
+  data-ruby-level="6">ゆうせん</rt></ruby>したのではないかという<ruby>批判<rt data-ruby-level="6">ひはん</rt></ruby>に<ruby>対<rt
+  data-ruby-level="3">たい</rt></ruby>して<ruby>釈明<rt data-ruby-level="7">しゃくめい</rt></ruby>しました。そのうえで「いつかは<ruby>以前<rt
+  data-ruby-level="4">いぜん</rt></ruby>の<ruby>状態<rt data-ruby-level="5">じょうたい</rt></ruby>に<ruby>戻<rt
+  data-ruby-level="7">もど</rt></ruby>るだろうと<ruby>希望<rt data-ruby-level="4">きぼう</rt></ruby>を<ruby>持<rt
+  data-ruby-level="3">も</rt></ruby>っている」と<ruby>述<rt data-ruby-level="5">の</rt></ruby>べました。<br
+  /><br /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>、<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby><ruby>経済<rt
+  data-ruby-level="6">けいざい</rt></ruby>の<ruby>展望<rt data-ruby-level="6">てんぼう</rt></ruby>について<ruby>中国<rt
+  data-ruby-level="2">ちゅうごく</rt></ruby>の<ruby>企業家<rt data-ruby-level="7">きぎょうか</rt></ruby>からは、<ruby>前向<rt
+  data-ruby-level="3">まえむ</rt></ruby>きな<ruby>発言<rt data-ruby-level="3">はつげん</rt></ruby>が<ruby>相次<rt
+  data-ruby-level="3">あいつ</rt></ruby>ぎ、ネット<ruby>通販<rt data-ruby-level="7">つうはん</rt></ruby><ruby>最大手<rt
+  data-ruby-level="4">さいおおて</rt></ruby>「アリババグループ」のジャック・マー<ruby>会長<rt data-ruby-level="2">かいちょう</rt></ruby>は、「<ruby>中国<rt
+  data-ruby-level="2">ちゅうごく</rt></ruby>には１つの<ruby>政党<rt data-ruby-level="6">せいとう</rt></ruby>しかないと<ruby>批判<rt
+  data-ruby-level="6">ひはん</rt></ruby>する<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>もいるが、<ruby>政治<rt
+  data-ruby-level="5">せいじ</rt></ruby><ruby>体制<rt data-ruby-level="5">たいせい</rt></ruby>が<ruby>安定<rt
+  data-ruby-level="3">あんてい</rt></ruby>しているので、さらなる<ruby>成長<rt data-ruby-level="4">せいちょう</rt></ruby>を<ruby>確信<rt
+  data-ruby-level="5">かくしん</rt></ruby>している」と<ruby>述<rt data-ruby-level="5">の</rt></ruby>べました。
+movie_url: https://newswebeasy.github.io/ja201712/news/web/movie/2017/12/07/k10011249281_201712071011_201712071012.mp4
+voice_url: https://newswebeasy.github.io/ja201712/news/web/voice/2017/12/07/k10011249281_201712071011_201712071012.mp3
+source_url: http://www3.nhk.or.jp/news/html/20171207/k10011249281000.html
+related_news:
+- title: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby> ネットの<ruby>必要性<rt data-ruby-level="5">ひつようせい</rt></ruby><ruby>強調<rt
+    data-ruby-level="3">きょうちょう</rt></ruby>も<ruby>規制<rt data-ruby-level="5">きせい</rt></ruby>は<ruby>正当化<rt
+    data-ruby-level="3">せいとうか</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/03/中国-ネットの必要性強調も規制は正当化
+- title: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby> ネット<ruby>大手<rt data-ruby-level="1">おおて</rt></ruby>３<ruby>社<rt
+    data-ruby-level="2">しゃ</rt></ruby> を「<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby><ruby>規制<rt
+    data-ruby-level="5">きせい</rt></ruby><ruby>不十分<rt data-ruby-level="4">ふじゅうぶん</rt></ruby>」で<ruby>罰金<rt
+    data-ruby-level="7">ばっきん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/09/26/中国-ネット大手3社-を情報規制不十分で罰金
+- title: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby> <ruby>一定<rt data-ruby-level="3">いってい</rt></ruby><ruby>割合<rt
+    data-ruby-level="6">わりあい</rt></ruby>でＥＶなど<ruby>生産<rt data-ruby-level="4">せいさん</rt></ruby><ruby>義務<rt
+    data-ruby-level="5">ぎむ</rt></ruby>づけの<ruby>新規制<rt data-ruby-level="5">しんきせい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/09/28/中国-一定割合でEVなど生産義務づけの新規制
+- title: トランプ<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby> <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>でツイッター<ruby>使<rt
+    data-ruby-level="3">つか</rt></ruby>えるかと<ruby>関心<rt data-ruby-level="4">かんしん</rt></ruby><ruby>集<rt
+    data-ruby-level="3">あつ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/web/2017/11/08/トランプ大統領-中国でツイッター使えるかと関心集まる
+- title: <ruby>日中<rt data-ruby-level="1">にっちゅう</rt></ruby><ruby>国交<rt data-ruby-level="2">こっこう</rt></ruby><ruby>正常化<rt
+    data-ruby-level="5">せいじょうか</rt></ruby>４５<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>
+    <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>で<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby><ruby>文化<rt
+    data-ruby-level="3">ぶんか</rt></ruby><ruby>紹介<rt data-ruby-level="7">しょうかい</rt></ruby>の<ruby>催<rt
+    data-ruby-level="7">もよお</rt></ruby>し
+  url: https://newswebeasy.github.io/news/web/2017/10/21/日中国交正常化45年-東京で中国文化紹介の催し
+...
