@@ -397,12 +397,13 @@ related_news:
     <ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>は<ruby>条件<rt data-ruby-level="5">じょうけん</rt></ruby>つきで<ruby>容認<rt
     data-ruby-level="7">ようにん</rt></ruby>
   url: https://newswebeasy.github.io/news/web/2017/12/06/IOC-ロシア選手団の五輪出場認めず-個人は条件つきで容認
+- title: <ruby>大谷<rt data-ruby-level="2">おおたに</rt></ruby> エンジェルス<ruby>入団<rt data-ruby-level="5">にゅうだん</rt></ruby><ruby>会見<rt
+    data-ruby-level="2">かいけん</rt></ruby>「<ruby>縁<rt data-ruby-level="7">えん</rt></ruby>みたいなもの<ruby>感<rt
+    data-ruby-level="3">かん</rt></ruby>じた」
+  url: https://newswebeasy.github.io/news/web/2017/12/10/大谷-エンジェルス入団会見縁みたいなもの感じた
 - title: <ruby>早実<rt data-ruby-level="3">そうじつ</rt></ruby> <ruby>清宮<rt data-ruby-level="4">きよみや</rt></ruby><ruby>選手<rt
     data-ruby-level="4">せんしゅ</rt></ruby>が<ruby>プロ<rt data-ruby-level="3">ぷろ</rt></ruby><ruby>野球<rt
     data-ruby-level="3">やきゅう</rt></ruby><ruby>志望<rt data-ruby-level="5">しぼう</rt></ruby>「<ruby>成長<rt
     data-ruby-level="4">せいちょう</rt></ruby>させていただける<ruby>球団<rt data-ruby-level="5">きゅうだん</rt></ruby>に」
   url: https://newswebeasy.github.io/news/web/2017/09/22/早実-清宮選手がプロ野球志望成長させていただける球団に
-- title: フィギュア<ruby>男子<rt data-ruby-level="1">だんし</rt></ruby>シングル <ruby>宇野<rt data-ruby-level="6">うの</rt></ruby>が<ruby>優勝<rt
-    data-ruby-level="6">ゆうしょう</rt></ruby>
-  url: https://newswebeasy.github.io/news/web/2017/10/29/フィギュア男子シングル-宇野が優勝
 ...

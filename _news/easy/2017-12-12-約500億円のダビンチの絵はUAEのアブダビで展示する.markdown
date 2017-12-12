@@ -60,8 +60,8 @@ web_news_url: https://newswebeasy.github.io/news/web/2017/12/09/史上最高額�
 related_news:
 - title: ダビンチの<ruby>絵<rt>え</rt></ruby>のオークション「１００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりそう」
   url: https://newswebeasy.github.io/news/easy/2017/10/13/ダビンチの絵のオークション100億円以上になりそう
-- title: ルーブル<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>別館<rt>べっかん</rt></ruby>がＵＡＥにできる
-  url: https://newswebeasy.github.io/news/easy/2017/11/09/ルーブル美術館の別館がUAEにできる
 - title: ダビンチの<ruby>絵<rt>え</rt></ruby>　<ruby>今<rt>いま</rt></ruby>までのオークションで<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>い<ruby>約<rt>やく</rt></ruby>５０８<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>
   url: https://newswebeasy.github.io/news/easy/2017/11/17/ダビンチの絵-今までのオークションで最も高い約508億円
+- title: ルーブル<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>別館<rt>べっかん</rt></ruby>がＵＡＥにできる
+  url: https://newswebeasy.github.io/news/easy/2017/11/09/ルーブル美術館の別館がUAEにできる
 ...
