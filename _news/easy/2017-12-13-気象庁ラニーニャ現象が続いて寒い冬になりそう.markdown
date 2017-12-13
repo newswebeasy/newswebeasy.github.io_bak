@@ -1,0 +1,79 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011254501000
+last_modified_at: '2017-12-13T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 「ラニーニャ現象」は、ペルーの沖の赤道の近くにある太平洋で、海の温度が低くなることです。
+title: 気象庁「ラニーニャ現象が続いて寒い冬になりそう」
+title_with_ruby: <ruby>気象庁<rt>きしょうちょう</rt></ruby>「ラニーニャ<ruby>現象<rt>げんしょう</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて<ruby>寒<rt>さむ</rt></ruby>い<ruby>冬<rt>ふゆ</rt></ruby>になりそう」
+outline: 「ラニーニャ現象」は、ペルーの沖の赤道の近くにある太平洋で、海の温度が低くなることです。
+outline_with_ruby: 「ラニーニャ<ruby>現象<rt>げんしょう</rt></ruby>」は、ペルーの<ruby>沖<rt>おき</rt></ruby>の<ruby>赤道<rt>せきどう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くにある<ruby>太平洋<rt>たいへいよう</rt></ruby>で、<ruby>海<rt>うみ</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>くなることです。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/11/K10011254501_1712111646_1712111651_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/13/k10011254501000.mp3
+content_with_ruby: "<p>「ラニーニャ<ruby>現象<rt>げんしょう</rt></ruby>」は、ペルーの<span style=\"color:\
+  \ blue;\"><ruby>沖<rt>おき</rt></ruby></span>の<span style=\"color: blue;\"><ruby>赤道<rt>せきどう</rt></ruby></span>の<ruby>近<rt>ちか</rt></ruby>くにある<span\
+  \ style=\"color: blue;\"><ruby>太平洋<rt>たいへいよう</rt></ruby></span>で、<ruby>海<rt>うみ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>温度<rt>おんど</rt></ruby></span>が<ruby>低<rt>ひく</rt></ruby>くなることです。</p>\n\
+  <p><ruby>気象庁<rt>きしょうちょう</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べると、<ruby>今年<rt>ことし</rt></ruby>７<ruby>月<rt>がつ</rt></ruby>から１１<ruby>月<rt>がつ</rt></ruby>までのこの<ruby>場所<rt>ばしょ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>温度<rt>おんど</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>が、<span style=\"color: blue;\"><ruby>基準<rt>きじゅん</rt></ruby></span>より０．５<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>低<rt>ひく</rt></ruby>くなっていました。<ruby>気象庁<rt>きしょうちょう</rt></ruby>はラニーニャ<ruby>現象<rt>げんしょう</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こっ</span>ていて、<ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>まで<ruby>続<rt>つづ</rt></ruby>きそうだと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>ラニーニャ<ruby>現象<rt>げんしょう</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こる</span>と、<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>冬<rt>ふゆ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>がいつもの<ruby>年<rt>とし</rt></ruby>より<ruby>低<rt>ひく</rt></ruby>くなることが<ruby>多<rt>おお</rt></ruby>くなります。<ruby>気象庁<rt>きしょうちょう</rt></ruby>は「これから<ruby>寒<rt>さむ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて、<ruby>雪<rt>ゆき</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>る<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があるので、<ruby>天気予報<rt>てんきよほう</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけてください」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 沖
+  descriptions:
+  - <ruby><rb>海</rb><rt>うみ</rt></ruby>や<ruby><rb>湖</rb><rt>みずうみ</rt></ruby>で、<ruby><rb>岸</rb><rt>きし</rt></ruby>から<ruby><rb>遠</rb><rt>とお</rt></ruby>くはなれた<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 赤道
+  descriptions:
+  - <ruby><rb>北極</rb><rt>ほっきょく</rt></ruby>と<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>から<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>距離</rb><rt>きょり</rt></ruby>にある<ruby><rb>点</rb><rt>てん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んだ<ruby><rb>線</rb><rt>せん</rt></ruby>。この<ruby><rb>線</rb><rt>せん</rt></ruby>を<ruby><rb>０</rb><rt>れい</rt></ruby><ruby><rb>度</rb><rt>ど</rt></ruby>として、<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>に<ruby><rb>緯度</rb><rt>いど</rt></ruby>を<ruby><rb>定</rb><rt>さだ</rt></ruby>める。
+- word: 太平洋
+  descriptions:
+  - アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: 温度
+  descriptions:
+  - <ruby><rb>熱</rb><rt>あつ</rt></ruby>さや<ruby><rb>冷</rb><rt>つめ</rt></ruby>たさの<ruby><rb>度合</rb><rt>どあ</rt></ruby>いを<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+- word: 基準
+  descriptions:
+  - ものごとを<ruby><rb>比</rb><rt>くら</rt></ruby>べるとき、そのもととなるよりどころ。<ruby><rb>標準</rb><rt>ひょうじゅん</rt></ruby>。
+- word: 起こる
+  descriptions:
+  - <ruby><rb>始</rb><rt>はじ</rt></ruby>まる。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 起こる
+  descriptions:
+  - <ruby><rb>始</rb><rt>はじ</rt></ruby>まる。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。
+- word: 気温
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+source_url: http://www3.nhk.or.jp/news/easy/k10011254501000/k10011254501000.html
+web_title_with_ruby: <ruby>今冬<rt>こんとう</rt></ruby>の<ruby>寒<rt>さむ</rt></ruby>さに<ruby>注意<rt>ちゅうい</rt></ruby>を
+  「<ruby>ラニーニャ<rt>らにーにゃ</rt></ruby><ruby>現象<rt>げんしょう</rt></ruby>」<ruby>発生<rt>はっせい</rt></ruby>か
+  <ruby>気象庁<rt>きしょうちょう</rt></ruby><ruby>発表<rt>はっぴょう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/11/今冬の寒さに注意を-ラニーニャ現象発生か-気象庁発表
+related_news:
+- title: <ruby>世界<rt>せかい</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby>で<ruby>酸性<rt>さんせい</rt></ruby>になっている
+  url: https://newswebeasy.github.io/news/easy/2017/12/05/世界の海の水が二酸化炭素で酸性になっている
+- title: <ruby>台風<rt>たいふう</rt></ruby>２１<ruby>号<rt>ごう</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>く</rt></ruby>る　<ruby>強<rt>つよ</rt></ruby>い<ruby>雨<rt>あめ</rt></ruby>や<ruby>風<rt>かぜ</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけて
+  url: https://newswebeasy.github.io/news/easy/2017/10/20/台風21号が日本に来る-強い雨や風に気をつけて
+- title: <ruby>九州<rt>きゅうしゅう</rt></ruby>と<ruby>四国<rt>しこく</rt></ruby>と<ruby>中国地方<rt>ちゅうごくちほう</rt></ruby>で<ruby>初雪<rt>はつゆき</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/12/05/九州と四国と中国地方で初雪
+- title: <ruby>東京<rt>とうきょう</rt></ruby>オリンピックで<ruby>水泳<rt>すいえい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>海<rt>うみ</rt></ruby>　<ruby>大腸菌<rt>だいちょうきん</rt></ruby>などが<ruby>多<rt>おお</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2017/10/05/東京オリンピックで水泳を行う海-大腸菌などが多い
+...
