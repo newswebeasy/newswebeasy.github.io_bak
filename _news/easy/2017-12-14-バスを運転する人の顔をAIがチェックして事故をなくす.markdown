@@ -1,0 +1,56 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011255951000
+last_modified_at: '2017-12-14T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 通信会社のＫＤＤＩと千葉市のバス会社の小湊鐵道が、コンピューターのＡＩの技術を使って、バスの事故をなくすシステムを考えています。
+title: バスを運転する人の顔をＡＩがチェックして事故をなくす
+title_with_ruby: バスを<ruby>運転<rt>うんてん</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>をＡＩがチェックして<ruby>事故<rt>じこ</rt></ruby>をなくす
+outline: 通信会社のＫＤＤＩと千葉市のバス会社の小湊鐵道が、コンピューターのＡＩの技術を使って、バスの事故をなくすシステムを考えています。
+outline_with_ruby: <ruby>通信<rt>つうしん</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>のＫＤＤＩと<ruby>千葉市<rt>ちばし</rt></ruby>のバス<ruby>会社<rt>がいしゃ</rt></ruby>の<ruby>小湊鐵道<rt>こみなとてつどう</rt></ruby>が、コンピューターのＡＩの<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って、バスの<ruby>事故<rt>じこ</rt></ruby>をなくすシステムを<ruby>考<rt>かんが</rt></ruby>えています。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/12/K10011255951_1712121709_1712121710_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/14/k10011255951000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>通信<rt>つうしん</rt></ruby></span><ruby>会社<rt>がいしゃ</rt></ruby>のＫＤＤＩと<ruby>千葉市<rt>ちばし</rt></ruby>のバス<ruby>会社<rt>がいしゃ</rt></ruby>の<ruby>小湊鐵道<rt>こみなとてつどう</rt></ruby>が、コンピューターのＡＩの<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って、バスの<ruby>事故<rt>じこ</rt></ruby>をなくす<span\
+  \ style=\"color: blue;\">システム</span>を<ruby>考<rt>かんが</rt></ruby>えています。</p>\n<p>バスの<ruby>運転<rt>うんてん</rt></ruby><ruby>席<rt>せき</rt></ruby>にあるカメラで、<ruby>運転<rt>うんてん</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>を５<span\
+  \ style=\"color: blue;\"><ruby>秒<rt>びょう</rt></ruby></span>に１<ruby>回<rt>かい</rt></ruby><ruby>撮<rt>と</rt></ruby>って、ＡＩが<ruby>顔<rt>かお</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>向<rt>む</rt></ruby>き</span>や<ruby>目<rt>め</rt></ruby>の<ruby>動<rt>うご</rt></ruby>き<ruby>方<rt>かた</rt></ruby>などを<ruby>調<rt>しら</rt></ruby>べます。そして、しっかり<ruby>前<rt>まえ</rt></ruby>を<ruby>見<rt>み</rt></ruby>て<ruby>運転<rt>うんてん</rt></ruby>しているかどうかなどをチェックします。</p>\n\
+  <p>この<ruby>写真<rt>しゃしん</rt></ruby>の<span style=\"color: blue;\">データ</span>とバスが<ruby>走<rt>はし</rt></ruby>った<ruby>場所<rt>ばしょ</rt></ruby>などの<span\
+  \ style=\"color: blue;\">データ</span>を<ruby>使<rt>つか</rt></ruby>うと、<ruby>運転<rt>うんてん</rt></ruby>のしかたに<ruby>危険<rt>きけん</rt></ruby>がないかどうかがわかります。<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>運転<rt>うんてん</rt></ruby>するための<ruby>教育<rt>きょういく</rt></ruby>に<ruby>利用<rt>りよう</rt></ruby>できます。</p>\n\
+  <p>２つの<ruby>会社<rt>かいしゃ</rt></ruby>は、この<span style=\"color: blue;\">システム</span>をもっとよくして、バスに<ruby>使<rt>つか</rt></ruby>うことができるようにしたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 通信
+  descriptions:
+  - <ruby><rb>便</rb><rt>たよ</rt></ruby>り。<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+  - <ruby><rb>郵便</rb><rt>ゆうびん</rt></ruby>・<ruby><rb>電信</rb><rt>でんしん</rt></ruby>・<ruby><rb>電話</rb><rt>でんわ</rt></ruby>などで、<ruby><rb>連絡</rb><rt>れんらく</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。
+- word: システム
+  descriptions:
+  - <ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+  - ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。
+- word: 秒
+  descriptions:
+  - <ruby><rb>時間</rb><rt>じかん</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。
+  - <ruby><rb>角度</rb><rt>かくど</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。
+- word: 向き
+  descriptions:
+  - <ruby><rb>向</rb><rt>む</rt></ruby>いている<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>。
+  - ちょうど<ruby><rb>合</rb><rt>あ</rt></ruby>っていること。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>。おかた。
+  - <ruby><rb>話</rb><rt>はなし</rt></ruby>や<ruby><rb>用事</rb><rt>ようじ</rt></ruby>などの<ruby><rb>内容</rb><rt>ないよう</rt></ruby>。
+  - くせや<ruby><rb>傾向</rb><rt>けいこう</rt></ruby>。
+- word: データ
+  descriptions:
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。
+  - コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011255951000/k10011255951000.html
+web_title_with_ruby: ＡＩで<ruby>バス<rt>ばす</rt></ruby><ruby>運転手<rt>うんてんしゅ</rt></ruby>の<ruby>表情<rt>ひょうじょう</rt></ruby>など<ruby>分析<rt>ぶんせき</rt></ruby>
+  <ruby>安全<rt>あんぜん</rt></ruby><ruby>管理<rt>かんり</rt></ruby>の<ruby>新<rt>しん</rt></ruby><ruby>システム<rt>しすてむ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/12/AIでバス運転手の表情など分析-安全管理の新システム
+related_news:
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>　<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>長<rt>なが</rt></ruby>く<ruby>生<rt>い</rt></ruby>きていたパンダが<ruby>死<rt>し</rt></ruby>ぬ
+  url: https://newswebeasy.github.io/news/easy/2017/09/15/中国-世界でいちばん長く生きていたパンダが死ぬ
+- title: ＡＩが<ruby>社員<rt>しゃいん</rt></ruby>のデータを<ruby>調<rt>しら</rt></ruby>べて<ruby>仕事<rt>しごと</rt></ruby>に<ruby>合<rt>あ</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ
+  url: https://newswebeasy.github.io/news/easy/2017/11/28/AIが社員のデータを調べて仕事に合った人を選ぶ
+...

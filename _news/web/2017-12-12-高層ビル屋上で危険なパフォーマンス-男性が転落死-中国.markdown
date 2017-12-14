@@ -72,8 +72,16 @@ more: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby><ruby>国�
   data-ruby-level="6">よ</rt></ruby>んでいます。
 movie_url: https://newswebeasy.github.io/ja201712/news/web/movie/2017/12/12/k10011255841_201712121738_201712121741.mp4
 voice_url: https://newswebeasy.github.io/ja201712/news/web/voice/2017/12/12/k10011255841_201712121738_201712121741.mp3
-source_url: http://www3.nhk.or.jp/news/html/20171212/k10011255841000.html
+source_url: https://www3.nhk.or.jp/news/html/20171212/k10011255841000.html
+easy_title_with_ruby: ビルで<ruby>危険<rt data-ruby-level="6">きけん</rt></ruby>なことをしてビデオを<ruby>撮<rt
+  data-ruby-level="7">と</rt></ruby>る<ruby>男性<rt data-ruby-level="5">だんせい</rt></ruby>が<ruby>落<rt
+  data-ruby-level="3">お</rt></ruby>ちて<ruby>亡<rt data-ruby-level="7">な</rt></ruby>くなる
+easy_news_url: https://newswebeasy.github.io/news/easy/2017/12/14/ビルで危険なことをしてビデオを撮る男性が落ちて亡くなる
 related_news:
+- title: アップルＣＥＯ <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>でのアプリ<ruby>配信<rt
+    data-ruby-level="4">はいしん</rt></ruby><ruby>停止<rt data-ruby-level="4">ていし</rt></ruby>を<ruby>釈明<rt
+    data-ruby-level="7">しゃくめい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/07/アップルCEO-中国でのアプリ配信停止を釈明
 - title: トランプ<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby> <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>でツイッター<ruby>使<rt
     data-ruby-level="3">つか</rt></ruby>えるかと<ruby>関心<rt data-ruby-level="4">かんしん</rt></ruby><ruby>集<rt
     data-ruby-level="3">あつ</rt></ruby>まる
@@ -93,11 +101,4 @@ related_news:
     data-ruby-level="3">ぶんか</rt></ruby><ruby>紹介<rt data-ruby-level="7">しょうかい</rt></ruby>の<ruby>催<rt
     data-ruby-level="7">もよお</rt></ruby>し
   url: https://newswebeasy.github.io/news/web/2017/10/21/日中国交正常化45年-東京で中国文化紹介の催し
-- title: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby><ruby>共産党<rt data-ruby-level="6">きょうさんとう</rt></ruby><ruby>大会<rt
-    data-ruby-level="2">たいかい</rt></ruby><ruby>始<rt data-ruby-level="3">はじ</rt></ruby>まる
-    <ruby>習<rt data-ruby-level="3">しゅう</rt></ruby><ruby>氏<rt data-ruby-level="4">し</rt></ruby>「<ruby>社会<rt
-    data-ruby-level="2">しゃかい</rt></ruby><ruby>主義<rt data-ruby-level="5">しゅぎ</rt></ruby>の<ruby>現代<rt
-    data-ruby-level="5">げんだい</rt></ruby><ruby>国家<rt data-ruby-level="2">こっか</rt></ruby><ruby>築<rt
-    data-ruby-level="5">きず</rt></ruby>く」
-  url: https://newswebeasy.github.io/news/web/2017/10/18/中国共産党大会始まる-習氏社会主義の現代国家築く
 ...

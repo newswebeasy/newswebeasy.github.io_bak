@@ -1,0 +1,99 @@
+---
+layout: web_news
+categories: web
+newsid: k10011255951000
+title: ＡＩでバス運転手の表情など分析 安全管理の新システム
+title_with_ruby: ＡＩでバス<ruby>運転手<rt data-ruby-level="3">うんてんしゅ</rt></ruby>の<ruby>表情<rt
+  data-ruby-level="5">ひょうじょう</rt></ruby>など<ruby>分析<rt data-ruby-level="7">ぶんせき</rt></ruby>
+  <ruby>安全<rt data-ruby-level="3">あんぜん</rt></ruby><ruby>管理<rt data-ruby-level="4">かんり</rt></ruby>の<ruby>新<rt
+  data-ruby-level="2">しん</rt></ruby>システム
+last_modified_at: '2017-12-12T16:50:00+09:00'
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>12<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>12<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 16<ruby>時<rt data-ruby-level="2">じ</rt></ruby>50<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 路線バスの事故防止につなげるため、運転中のドライバーの表情や目の動きなどをカメラの画像を通じてＡＩ＝人工知能が分析して、事故につながりかねない運転のくせなどを見つけ出す、安全管理の新たなシステムが開発されました。
+summary: <ruby>路線<rt data-ruby-level="3">ろせん</rt></ruby>バスの<ruby>事故<rt data-ruby-level="5">じこ</rt></ruby><ruby>防止<rt
+  data-ruby-level="5">ぼうし</rt></ruby>につなげるため、<ruby>運転中<rt data-ruby-level="3">うんてんちゅう</rt></ruby>のドライバーの<ruby>表情<rt
+  data-ruby-level="5">ひょうじょう</rt></ruby>や<ruby>目<rt data-ruby-level="1">め</rt></ruby>の<ruby>動<rt
+  data-ruby-level="3">うご</rt></ruby>きなどをカメラの<ruby>画像<rt data-ruby-level="5">がぞう</rt></ruby>を<ruby>通<rt
+  data-ruby-level="2">つう</rt></ruby>じてＡＩ＝<ruby>人工<rt data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt
+  data-ruby-level="5">ちのう</rt></ruby>が<ruby>分析<rt data-ruby-level="7">ぶんせき</rt></ruby>して、<ruby>事故<rt
+  data-ruby-level="5">じこ</rt></ruby>につながりかねない<ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby>のくせなどを<ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>つけ<ruby>出<rt data-ruby-level="1">だ</rt></ruby>す、<ruby>安全<rt
+  data-ruby-level="3">あんぜん</rt></ruby><ruby>管理<rt data-ruby-level="4">かんり</rt></ruby>の<ruby>新<rt
+  data-ruby-level="2">あら</rt></ruby>たなシステムが<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>されました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/12/K10011255951_1712121709_1712121710_01_02.jpg
+more: システムは<ruby>通信<rt data-ruby-level="4">つうしん</rt></ruby><ruby>大手<rt data-ruby-level="1">おおて</rt></ruby>の「ＫＤＤＩ」と、<ruby>千葉市<rt
+  data-ruby-level="3">ちばし</rt></ruby>のバス<ruby>会社<rt data-ruby-level="2">がいしゃ</rt></ruby>「<ruby>小湊<rt
+  data-ruby-level="8">こみなと</rt></ruby><ruby>鐵道<rt data-ruby-level="8">てつどう</rt></ruby>」が<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>しました。<br /><br /><ruby>運転席<rt data-ruby-level="4">うんてんせき</rt></ruby>につけられたカメラが５<ruby>秒<rt
+  data-ruby-level="3">びょう</rt></ruby>ごとにドライバーの<ruby>顔<rt data-ruby-level="2">かお</rt></ruby>を<ruby>撮影<rt
+  data-ruby-level="7">さつえい</rt></ruby>し、それをＡＩ＝<ruby>人工<rt data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt
+  data-ruby-level="5">ちのう</rt></ruby>のシステムが<ruby>分析<rt data-ruby-level="7">ぶんせき</rt></ruby>する<ruby>仕組<rt
+  data-ruby-level="3">しく</rt></ruby>みです。<br /><br /><ruby>顔<rt data-ruby-level="2">かお</rt></ruby>の<ruby>表情<rt
+  data-ruby-level="5">ひょうじょう</rt></ruby>や<ruby>向<rt data-ruby-level="3">む</rt></ruby>き、<ruby>目<rt
+  data-ruby-level="1">め</rt></ruby>の<ruby>動<rt data-ruby-level="3">うご</rt></ruby>きなどから、ＡＩが、ドライバーの<ruby>運転中<rt
+  data-ruby-level="3">うんてんちゅう</rt></ruby>の<ruby>感情<rt data-ruby-level="5">かんじょう</rt></ruby>の<ruby>変化<rt
+  data-ruby-level="4">へんか</rt></ruby>や、<ruby>脇見<rt data-ruby-level="7">わきみ</rt></ruby><ruby>運転<rt
+  data-ruby-level="3">うんてん</rt></ruby>をしていないかを<ruby>判断<rt data-ruby-level="5">はんだん</rt></ruby>します。<br
+  /><br />またＧＰＳで<ruby>記録<rt data-ruby-level="4">きろく</rt></ruby>したバスの<ruby>走行<rt data-ruby-level="2">そうこう</rt></ruby>データと<ruby>合<rt
+  data-ruby-level="2">あ</rt></ruby>わせることで、<ruby>事故<rt data-ruby-level="5">じこ</rt></ruby>につながりかねない<ruby>運転<rt
+  data-ruby-level="3">うんてん</rt></ruby>のくせなどを<ruby>特定<rt data-ruby-level="4">とくてい</rt></ruby>し、<ruby>安全<rt
+  data-ruby-level="3">あんぜん</rt></ruby><ruby>管理<rt data-ruby-level="4">かんり</rt></ruby>の<ruby>教育<rt
+  data-ruby-level="3">きょういく</rt></ruby>や<ruby>指導<rt data-ruby-level="5">しどう</rt></ruby>に<ruby>役立<rt
+  data-ruby-level="3">やくだ</rt></ruby>てることもできるということです。<br /><br /><ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>、こうしたシステムが<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>されたのは、<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>１<ruby>月<rt
+  data-ruby-level="1">がつ</rt></ruby>に<ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby>した<ruby>長野県<rt
+  data-ruby-level="3">ながのけん</rt></ruby><ruby>軽井沢町<rt data-ruby-level="7">かるいざわまち</rt></ruby>でのスキーバス<ruby>事故<rt
+  data-ruby-level="5">じこ</rt></ruby>を<ruby>受<rt data-ruby-level="3">う</rt></ruby>け、<ruby>国土交通省<rt
+  data-ruby-level="4">こくどこうつうしょう</rt></ruby>が<ruby>貸<rt data-ruby-level="5">か</rt></ruby>し<ruby>切<rt
+  data-ruby-level="5">き</rt></ruby>りバスの<ruby>会社<rt data-ruby-level="2">かいしゃ</rt></ruby>にドライブレコーダーの<ruby>映像<rt
+  data-ruby-level="6">えいぞう</rt></ruby>の<ruby>記録<rt data-ruby-level="4">きろく</rt></ruby>を<ruby>活用<rt
+  data-ruby-level="2">かつよう</rt></ruby>した<ruby>指導<rt data-ruby-level="5">しどう</rt></ruby><ruby>監督<rt
+  data-ruby-level="7">かんとく</rt></ruby>を<ruby>義務<rt data-ruby-level="5">ぎむ</rt></ruby>づけるなど、ドライバー<ruby>教育<rt
+  data-ruby-level="3">きょういく</rt></ruby>の<ruby>強化<rt data-ruby-level="3">きょうか</rt></ruby>を<ruby>求<rt
+  data-ruby-level="4">もと</rt></ruby>めていることが<ruby>背景<rt data-ruby-level="6">はいけい</rt></ruby>にあります。<br
+  /><br />システムは<ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>、<ruby>本格的<rt data-ruby-level="5">ほんかくてき</rt></ruby>な<ruby>実用化<rt
+  data-ruby-level="3">じつようか</rt></ruby>を<ruby>目指<rt data-ruby-level="3">めざ</rt></ruby>して<ruby>改良<rt
+  data-ruby-level="4">かいりょう</rt></ruby>が<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>けられます。<br
+  /><br /><ruby>小湊<rt data-ruby-level="8">こみなと</rt></ruby><ruby>鐵道<rt data-ruby-level="8">てつどう</rt></ruby>バス<ruby>部<rt
+  data-ruby-level="3">ぶ</rt></ruby>の<ruby>小杉<rt data-ruby-level="7">こすぎ</rt></ruby><ruby>直次<rt
+  data-ruby-level="3">なおじ</rt></ruby><ruby>長<rt data-ruby-level="2">ちょう</rt></ruby>は「<ruby>人命<rt
+  data-ruby-level="3">じんめい</rt></ruby>を<ruby>預<rt data-ruby-level="5">あず</rt></ruby>かる<ruby>以上<rt
+  data-ruby-level="4">いじょう</rt></ruby>、バス<ruby>会社<rt data-ruby-level="2">がいしゃ</rt></ruby>にとっては<ruby>安全<rt
+  data-ruby-level="3">あんぜん</rt></ruby>を<ruby>追求<rt data-ruby-level="4">ついきゅう</rt></ruby>するのは<ruby>永遠<rt
+  data-ruby-level="5">えいえん</rt></ruby>のテーマであり、ドライバーの<ruby>教育<rt data-ruby-level="3">きょういく</rt></ruby><ruby>指導<rt
+  data-ruby-level="5">しどう</rt></ruby>を<ruby>充実<rt data-ruby-level="7">じゅうじつ</rt></ruby>させたい」と<ruby>話<rt
+  data-ruby-level="2">はな</rt></ruby>しています。
+source_url: https://www3.nhk.or.jp/news/html/20171212/k10011255951000.html
+easy_title_with_ruby: バスを<ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby>する<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>の<ruby>顔<rt data-ruby-level="2">かお</rt></ruby>をＡＩがチェックして<ruby>事故<rt
+  data-ruby-level="5">じこ</rt></ruby>をなくす
+easy_news_url: https://newswebeasy.github.io/news/easy/2017/12/14/バスを運転する人の顔をAIがチェックして事故をなくす
+related_news:
+- title: <ruby>人工<rt data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt data-ruby-level="5">ちのう</rt></ruby>で<ruby>社員<rt
+    data-ruby-level="3">しゃいん</rt></ruby>データ<ruby>分析<rt data-ruby-level="7">ぶんせき</rt></ruby>
+    <ruby>最適<rt data-ruby-level="5">さいてき</rt></ruby><ruby>人事<rt data-ruby-level="3">じんじ</rt></ruby>で<ruby>人手<rt
+    data-ruby-level="1">ひとで</rt></ruby><ruby>不足<rt data-ruby-level="4">ぶそく</rt></ruby>に<ruby>対応<rt
+    data-ruby-level="5">たいおう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/11/26/人工知能で社員データ分析-最適人事で人手不足に対応
+- title: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>電機<rt data-ruby-level="4">でんき</rt></ruby>メーカー
+    <ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby>に<ruby>自社<rt
+    data-ruby-level="2">じしゃ</rt></ruby><ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>を
+    <ruby>事業<rt data-ruby-level="3">じぎょう</rt></ruby><ruby>強化<rt data-ruby-level="3">きょうか</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/10/21/日本の電機メーカー-自動運転に自社技術を-事業強化
+- title: <ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby><ruby>旅行者<rt data-ruby-level="3">りょこうしゃ</rt></ruby>のレンタカー<ruby>事故<rt
+    data-ruby-level="5">じこ</rt></ruby><ruby>増加<rt data-ruby-level="5">ぞうか</rt></ruby>
+    <ruby>各社<rt data-ruby-level="4">かくしゃ</rt></ruby>が<ruby>対策<rt data-ruby-level="6">たいさく</rt></ruby><ruby>強化<rt
+    data-ruby-level="3">きょうか</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/10/09/外国人旅行者のレンタカー事故増加-各社が対策強化
+- title: メーカーへの<ruby>信頼<rt data-ruby-level="7">しんらい</rt></ruby><ruby>揺<rt data-ruby-level="7">ゆ</rt></ruby>らぐ<ruby>中<rt
+    data-ruby-level="1">なか</rt></ruby> <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby><ruby>モーターショー<rt
+    data-ruby-level="2">もーたーしょー</rt></ruby>の<ruby>内容<rt data-ruby-level="5">ないよう</rt></ruby>は
+  url: https://newswebeasy.github.io/news/web/2017/10/25/メーカーへの信頼揺らぐ中-東京モーターショーの内容は
+- title: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>の<ruby>電気<rt data-ruby-level="2">でんき</rt></ruby><ruby>自動車<rt
+    data-ruby-level="3">じどうしゃ</rt></ruby>メーカー <ruby>米<rt data-ruby-level="2">べい</rt></ruby>で<ruby>電動<rt
+    data-ruby-level="3">でんどう</rt></ruby>バス <ruby>年<rt data-ruby-level="1">ねん</rt></ruby>１５００<ruby>台<rt
+    data-ruby-level="2">だい</rt></ruby><ruby>生産<rt data-ruby-level="4">せいさん</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2017/10/07/中国の電気自動車メーカー-米で電動バス-年1500台生産へ
+...

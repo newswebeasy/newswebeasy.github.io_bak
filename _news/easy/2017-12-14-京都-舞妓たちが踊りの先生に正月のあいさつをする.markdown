@@ -1,0 +1,30 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011257121000
+last_modified_at: '2017-12-14T16:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 京都では１２月１３日は正月を迎える準備を始める日です。
+title: 京都　舞妓たちが踊りの先生に正月のあいさつをする
+title_with_ruby: <ruby>京都<rt>きょうと</rt></ruby>　<ruby>舞妓<rt>まいこ</rt></ruby>たちが<ruby>踊<rt>おど</rt></ruby>りの<ruby>先生<rt>せんせい</rt></ruby>に<ruby>正月<rt>しょうがつ</rt></ruby>のあいさつをする
+outline: 京都では１２月１３日は正月を迎える準備を始める日です。
+outline_with_ruby: <ruby>京都<rt>きょうと</rt></ruby>では１２<ruby>月<rt>がつ</rt></ruby>１３<ruby>日<rt>にち</rt></ruby>は<ruby>正月<rt>しょうがつ</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>える<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める<ruby>日<rt>ひ</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/13/K10011257121_1712131307_1712131352_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/14/k10011257121000.mp3
+content_with_ruby: "<p><ruby>京都<rt>きょうと</rt></ruby>では１２<ruby>月<rt>がつ</rt></ruby>１３<ruby>日<rt>にち</rt></ruby>は<ruby>正月<rt>しょうがつ</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>える<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める<ruby>日<rt>ひ</rt></ruby>です。<ruby>芸妓<rt>げいこ</rt></ruby>や<ruby>舞妓<rt>まいこ</rt></ruby>はこの<ruby>日<rt>ひ</rt></ruby>に、<ruby>踊<rt>おど</rt></ruby>りの<ruby>先生<rt>せんせい</rt></ruby>や<ruby>歌<rt>うた</rt></ruby>や<ruby>踊<rt>おど</rt></ruby>りを<ruby>見<rt>み</rt></ruby>せる<ruby>店<rt>みせ</rt></ruby>などへ<ruby>正月<rt>しょうがつ</rt></ruby>のあいさつに<ruby>行<rt>い</rt></ruby>く<ruby>習慣<rt>しゅうかん</rt></ruby>があります。</p>\n\
+  <p><ruby>踊<rt>おど</rt></ruby>りを<ruby>教<rt>おし</rt></ruby>えている<ruby>井上<rt>いのうえ</rt></ruby><ruby>八千代<rt>やちよ</rt></ruby>さんの<ruby>所<rt>ところ</rt></ruby>へは、<ruby>芸妓<rt>げいこ</rt></ruby>や<ruby>舞妓<rt>まいこ</rt></ruby>が<ruby>着物<rt>きもの</rt></ruby>を<ruby>着<rt>き</rt></ruby>てあいさつに<ruby>来<rt>き</rt></ruby>ました。<ruby>芸妓<rt>げいこ</rt></ruby>や<ruby>舞妓<rt>まいこ</rt></ruby>は「おめでとうございます。これからもよろしくお<ruby>願<rt>ねが</rt></ruby>いします」とあいさつをしました。<ruby>井上<rt>いのうえ</rt></ruby>さんは「おめでとうございます。<ruby>頑張<rt>がんば</rt></ruby>ってくださいね」などと<ruby>言<rt>い</rt></ruby>って、お<ruby>祝<rt>いわ</rt></ruby>いの<span\
+  \ style=\"color: blue;\"><ruby>扇子<rt>せんす</rt></ruby></span>を<ruby>渡<rt>わた</rt></ruby>しました。</p>\n\
+  <p>あいさつをした<ruby>舞妓<rt>まいこ</rt></ruby>は「<ruby>先生<rt>せんせい</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いて、<ruby>新<rt>あたら</rt></ruby>しい<ruby>気持<rt>きも</rt></ruby>ちで<ruby>来年<rt>らいねん</rt></ruby>も<ruby>頑張<rt>がんば</rt></ruby>ろうと<ruby>思<rt>おも</rt></ruby>いました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 扇子
+  descriptions:
+  - あおいで<ruby><rb>風</rb><rt>かぜ</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こすもので、<ruby><rb>折</rb><rt>お</rt></ruby>りたたむようにできている。おうぎ。すえひろ（がり）。
+source_url: http://www3.nhk.or.jp/news/easy/k10011257121000/k10011257121000.html
+web_title_with_ruby: <ruby>京都<rt>きょうと</rt></ruby> <ruby>祇園<rt>ぎおん</rt></ruby> <ruby>舞妓<rt>まいこ</rt></ruby>らが<ruby>年末<rt>ねんまつ</rt></ruby><ruby>恒例<rt>こうれい</rt></ruby>の<ruby>事始<rt>ことはじ</rt></ruby>め
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/13/京都-祇園-舞妓らが年末恒例の事始め
+related_news:
+- title: <ruby>秋田市<rt>あきたし</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しい<ruby>舞妓<rt>まいこ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント
+  url: https://newswebeasy.github.io/news/easy/2017/10/10/秋田市で新しい舞妓を紹介するイベント
+...
