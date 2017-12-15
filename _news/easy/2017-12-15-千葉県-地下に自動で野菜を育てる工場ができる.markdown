@@ -1,0 +1,76 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011257501000
+last_modified_at: '2017-12-15T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 千葉県習志野市の地下１０ｍの所には、電気の線や水道を通すためのトンネルがあります。
+title: 千葉県　地下に自動で野菜を育てる工場ができる
+title_with_ruby: <ruby>千葉県<rt>ちばけん</rt></ruby>　<ruby>地下<rt>ちか</rt></ruby>に<ruby>自動<rt>じどう</rt></ruby>で<ruby>野菜<rt>やさい</rt></ruby>を<ruby>育<rt>そだ</rt></ruby>てる<ruby>工場<rt>こうじょう</rt></ruby>ができる
+outline: 千葉県習志野市の地下１０ｍの所には、電気の線や水道を通すためのトンネルがあります。
+outline_with_ruby: <ruby>千葉県<rt>ちばけん</rt></ruby><ruby>習志野市<rt>ならしのし</rt></ruby>の<ruby>地下<rt>ちか</rt></ruby>１０ｍの<ruby>所<rt>ところ</rt></ruby>には、<ruby>電気<rt>でんき</rt></ruby>の<ruby>線<rt>せん</rt></ruby>や<ruby>水道<rt>すいどう</rt></ruby>を<ruby>通<rt>とお</rt></ruby>すためのトンネルがあります。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/13/K10011257501_1712131858_1712131902_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/15/k10011257501000.mp3
+content_with_ruby: "<p><ruby>千葉県<rt>ちばけん</rt></ruby><ruby>習志野市<rt>ならしのし</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>地下<rt>ちか</rt></ruby></span>１０ｍの<ruby>所<rt>ところ</rt></ruby>には、<ruby>電気<rt>でんき</rt></ruby>の<ruby>線<rt>せん</rt></ruby>や<ruby>水道<rt>すいどう</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>通<rt>とお</rt></ruby>す</span>ための<span style=\"color:\
+  \ blue;\">トンネル</span>があります。<span style=\"color: blue;\">トンネル</span>の<ruby>長<rt>なが</rt></ruby>さは３．１ｋｍですが、そのうち１．３ｋｍは２０<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>使<rt>つか</rt></ruby>っていません。この<span\
+  \ style=\"color: blue;\">トンネル</span>の<ruby>中<rt>なか</rt></ruby>に<ruby>野菜<rt>やさい</rt></ruby><ruby>工場<rt>こうじょう</rt></ruby>ができて、１０<ruby>月<rt>がつ</rt></ruby>から２つの<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>野菜<rt>やさい</rt></ruby>を<ruby>育<rt>そだ</rt></ruby>てています。</p>\n\
+  <p><ruby>工場<rt>こうじょう</rt></ruby>では、<span style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<span\
+  \ style=\"color: blue;\">レタス</span>などの<ruby>野菜<rt>やさい</rt></ruby>に<ruby>水<rt>みず</rt></ruby>をやったり、<span\
+  \ style=\"color: blue;\">ライト</span>を<ruby>明<rt>あか</rt></ruby>るくしたり<ruby>暗<rt>くら</rt></ruby>くしたりします。<span\
+  \ style=\"color: blue;\"><ruby>地下<rt>ちか</rt></ruby></span>は<span style=\"color:\
+  \ blue;\"><ruby>温度<rt>おんど</rt></ruby></span>や<span style=\"color: blue;\"><ruby>湿度<rt>しつど</rt></ruby></span>があまり<ruby>変<rt>か</rt></ruby>わらないため、<ruby>電気<rt>でんき</rt></ruby><ruby>代<rt>だい</rt></ruby>を<ruby>普通<rt>ふつう</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby><ruby>工場<rt>こうじょう</rt></ruby>の３０%ぐらいにすることができます。</p>\n\
+  <p><ruby>今<rt>いま</rt></ruby>は<ruby>工場<rt>こうじょう</rt></ruby>の<ruby>長<rt>なが</rt></ruby>さは３０mですが、２０２０<ruby>年<rt>ねん</rt></ruby>までに８００ｍに<ruby>大<rt>おお</rt></ruby>きくする<ruby>計画<rt>けいかく</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 地下
+  descriptions:
+  - <ruby><rb>地面</rb><rt>じめん</rt></ruby>の<ruby><rb>下</rb><rt>した</rt></ruby>。<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>。
+  - <ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>世</rb><rt>よ</rt></ruby>。あの<ruby><rb>世</rb><rt>よ</rt></ruby>。
+  - <ruby><rb>秘密</rb><rt>ひみつ</rt></ruby>の<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: 自動
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。
+- word: 通す
+  descriptions:
+  - <ruby><rb>一方</rb><rt>いっぽう</rt></ruby>から<ruby><rb>他方</rb><rt>たほう</rt></ruby>に<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>着</rb><rt>つ</rt></ruby>くようにする。
+  - <ruby><rb>向</rb><rt>む</rt></ruby>こうに<ruby><rb>届</rb><rt>とど</rt></ruby>かせる。
+  - <ruby><rb>通</rb><rt>とお</rt></ruby>らせる。
+  - <ruby><rb>終</rb><rt>お</rt></ruby>わりまでつらぬきとおす。
+  - <ruby><rb>導</rb><rt>みちび</rt></ruby>き<ruby><rb>入</rb><rt>い</rt></ruby>れる。
+  - <ruby><rb>仲立</rb><rt>なかだ</rt></ruby>ちにする。
+  - ひととおり<ruby><rb>見</rb><rt>み</rt></ruby>る。
+  - くぐらせる。
+  - <ruby><rb>認</rb><rt>みと</rt></ruby>める。<ruby><rb>認</rb><rt>みと</rt></ruby>めさせる。
+  - <ruby><rb>終</rb><rt>お</rt></ruby>わりまでし<ruby><rb>続</rb><rt>つづ</rt></ruby>ける。
+- word: トンネル
+  descriptions:
+  - <ruby><rb>山</rb><rt>やま</rt></ruby>や<ruby><rb>地下</rb><rt>ちか</rt></ruby>や<ruby><rb>海底</rb><rt>かいてい</rt></ruby>に<ruby><rb>穴</rb><rt>あな</rt></ruby>をあけて、<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>車</rb><rt>くるま</rt></ruby>などが<ruby><rb>通</rb><rt>とお</rt></ruby>れるようにしたもの。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>野手</rb><rt>やしゅ</rt></ruby>がゴロを<ruby><rb>取</rb><rt>と</rt></ruby>りそこなって、またの<ruby><rb>間</rb><rt>あいだ</rt></ruby>から<ruby><rb>後</rb><rt>うし</rt></ruby>ろにのがすこと。
+- word: レタス
+  descriptions:
+  - キャベツに<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>西洋野菜</rb><rt>せいようやさい</rt></ruby>。サラダなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。タマヂシャ。
+- word: ライト
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>。<ruby><rb>照明</rb><rt>しょうめい</rt></ruby>。
+  - <ruby><rb>明</rb><rt>あか</rt></ruby>るいこと。
+  - <ruby><rb>軽</rb><rt>かる</rt></ruby>いこと。
+- word: 温度
+  descriptions:
+  - <ruby><rb>熱</rb><rt>あつ</rt></ruby>さや<ruby><rb>冷</rb><rt>つめ</rt></ruby>たさの<ruby><rb>度合</rb><rt>どあ</rt></ruby>いを<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。
+- word: 湿度
+  descriptions:
+  - <ruby><rb>空気中</rb><rt>くうきちゅう</rt></ruby>にふくまれている、<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>の<ruby><rb>割合</rb><rt>わりあい</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011257501000/k10011257501000.html
+web_title_with_ruby: <ruby>共同溝<rt>きょうどうこう</rt></ruby>を<ruby>活用<rt>かつよう</rt></ruby>
+  <ruby>地下<rt>ちか</rt></ruby>に<ruby>野菜<rt>やさい</rt></ruby><ruby>工場<rt>こうじょう</rt></ruby>
+  <ruby>千葉<rt>ちば</rt></ruby> <ruby>幕張<rt>まくはり</rt></ruby><ruby>新都心<rt>しんとしん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/13/共同溝を活用-地下に野菜工場-千葉-幕張新都心
+related_news:
+- title: <ruby>岩手県<rt>いわてけん</rt></ruby>　サンマがとれなくて<ruby>缶詰<rt>かんづめ</rt></ruby>の<ruby>工場<rt>こうじょう</rt></ruby>を<ruby>閉<rt>し</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2017/10/05/岩手県-サンマがとれなくて缶詰の工場を閉める
+- title: <ruby>日産自動車<rt>にっさんじどうしゃ</rt></ruby>　<ruby>客<rt>きゃく</rt></ruby>に<ruby>売<rt>う</rt></ruby>った１２１<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby>の<ruby>検査<rt>けんさ</rt></ruby>に<ruby>問題<rt>もんだい</rt></ruby>があった
+  url: https://newswebeasy.github.io/news/easy/2017/10/03/日産自動車-客に売った121万台の検査に問題があった
+...

@@ -1,0 +1,88 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011257261000
+last_modified_at: '2017-12-15T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 愛知県犬山市にある犬山城は国の宝になっている城です。
+title: 犬山城で「すす払い」　今年の汚れを掃除する
+title_with_ruby: <ruby>犬山城<rt>いぬやまじょう</rt></ruby>で「すす<ruby>払<rt>はら</rt></ruby>い」　<ruby>今年<rt>ことし</rt></ruby>の<ruby>汚<rt>よご</rt></ruby>れを<ruby>掃除<rt>そうじ</rt></ruby>する
+outline: 愛知県犬山市にある犬山城は国の宝になっている城です。
+outline_with_ruby: <ruby>愛知県<rt>あいちけん</rt></ruby><ruby>犬山市<rt>いぬやまし</rt></ruby>にある<ruby>犬山城<rt>いぬやまじょう</rt></ruby>は<ruby>国<rt>くに</rt></ruby>の<ruby>宝<rt>たから</rt></ruby>になっている<ruby>城<rt>しろ</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/13/K10011257261_1712131458_1712131500_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/15/k10011257261000.mp3
+content_with_ruby: "<p><ruby>愛知県<rt>あいちけん</rt></ruby><ruby>犬山市<rt>いぬやまし</rt></ruby>にある<ruby>犬山城<rt>いぬやまじょう</rt></ruby>は<ruby>国<rt>くに</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>宝<rt>たから</rt></ruby></span>になっている<span style=\"color:\
+  \ blue;\"><ruby>城<rt>しろ</rt></ruby></span>です。<ruby>犬山城<rt>いぬやまじょう</rt></ruby>は<ruby>毎年<rt>まいとし</rt></ruby>、１<ruby>年<rt>ねん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>汚<rt>よご</rt></ruby>れ</span>を<ruby>掃除<rt>そうじ</rt></ruby>する「すす<ruby>払<rt>はら</rt></ruby>い」を<ruby>行<rt>おこな</rt></ruby>っています。</p>\n\
+  <p>１３<ruby>日<rt>にち</rt></ruby>、<ruby>犬山市<rt>いぬやまし</rt></ruby>の<ruby>観光協会<rt>かんこうきょうかい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>職員<rt>しょくいん</rt></ruby></span>７<ruby>人<rt>にん</rt></ruby>が<ruby>今年<rt>ことし</rt></ruby>の「すす<ruby>払<rt>はら</rt></ruby>い」を<ruby>行<rt>おこな</rt></ruby>いました。<span\
+  \ style=\"color: blue;\"><ruby>職員<rt>しょくいん</rt></ruby></span>たちは、<span style=\"\
+  color: blue;\">ささ</span>の<ruby>葉<rt>は</rt></ruby>を<span style=\"color: blue;\">つけ</span>た<ruby>長<rt>なが</rt></ruby>さ７ｍぐらいの<span\
+  \ style=\"color: blue;\"><ruby>竹<rt>たけ</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>屋根<rt>やね</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>天井<rt>てんじょう</rt></ruby></span>などを<ruby>掃除<rt>そうじ</rt></ruby>しました。</p>\n\
+  <p><ruby>犬山城<rt>いぬやまじょう</rt></ruby>は、インターネットに<ruby>出<rt>だ</rt></ruby>してみんなに<ruby>見<rt>み</rt></ruby>せたくなる<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ることができる<ruby>場所<rt>ばしょ</rt></ruby>や<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>をたくさん<ruby>紹介<rt>しょうかい</rt></ruby>して、<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>になりました。<ruby>今年<rt>ことし</rt></ruby><ruby>犬山城<rt>いぬやまじょう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は１２<ruby>日<rt>にち</rt></ruby>までで、<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>５４<ruby>万<rt>まん</rt></ruby>７０００<ruby>人<rt>にん</rt></ruby>になりました。<ruby>去年<rt>きょねん</rt></ruby>より１<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>ぐらい<ruby>多<rt>おお</rt></ruby>くなって、<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなりました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 汚れ
+  descriptions:
+  - よごれていること。また、よごれている<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 宝
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>少</rb><rt>すこ</rt></ruby>ししかなく、<ruby><rb>貴重</rb><rt>きちょう</rt></ruby>なもの。<ruby><rb>金</rb><rt>きん</rt></ruby>・<ruby><rb>銀</rb><rt>ぎん</rt></ruby>・<ruby><rb>宝石</rb><rt>ほうせき</rt></ruby>など。
+  - <ruby><rb>大切</rb><rt>たいせつ</rt></ruby>な<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 城
+  descriptions:
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>、<ruby><rb>大名</rb><rt>だいみょう</rt></ruby>などが、<ruby><rb>敵</rb><rt>てき</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>大</rb><rt>おお</rt></ruby>がかりな<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+- word: 職員
+  descriptions:
+  - <ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 笹
+  descriptions:
+  - せいの<ruby><rb>低</rb><rt>ひく</rt></ruby>い<ruby><rb>細</rb><rt>ほそ</rt></ruby>いタケで、<ruby><rb>茎</rb><rt>くき</rt></ruby>にタケノコの<ruby><rb>皮</rb><rt>かわ</rt></ruby>がついているもの。クマザサ・オカメザサなどがある。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+- word: 竹
+  descriptions:
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>空</rb><rt>から</rt></ruby>の<ruby><rb>茎</rb><rt>くき</rt></ruby>に、<ruby><rb>節</rb><rt>ふし</rt></ruby>のある<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>や、<ruby><rb>細工物</rb><rt>さいくもの</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>芽</rb><rt>め</rt></ruby>を「たけのこ」という。
+- word: 屋根
+  descriptions:
+  - <ruby><rb>雨</rb><rt>あめ</rt></ruby>などを<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために、<ruby><rb>家</rb><rt>いえ</rt></ruby>をおおうもの。
+  - <ruby><rb>上</rb><rt>うえ</rt></ruby>をおおうもの。
+  - いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 天井
+  descriptions:
+  - <ruby><rb>部屋</rb><rt>へや</rt></ruby>の<ruby><rb>上部</rb><rt>じょうぶ</rt></ruby>に<ruby><rb>板</rb><rt>いた</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>ったもの。また、その<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - ものごとのいちばん<ruby><rb>高</rb><rt>たか</rt></ruby>いところ。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+source_url: http://www3.nhk.or.jp/news/easy/k10011257261000/k10011257261000.html
+web_title_with_ruby: <ruby>国宝<rt>こくほう</rt></ruby>の<ruby>犬山城<rt>いぬやまじょう</rt></ruby>で<ruby>年末<rt>ねんまつ</rt></ruby><ruby>恒例<rt>こうれい</rt></ruby>のすす<ruby>払<rt>はら</rt></ruby>い
+  <ruby>愛知<rt>あいち</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/13/国宝の犬山城で年末恒例のすす払い-愛知
+related_news:
+- title: <ruby>愛媛県<rt>えひめけん</rt></ruby>　<ruby>道後温泉<rt>どうごおんせん</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しい<ruby>年<rt>とし</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えるための<ruby>掃除<rt>そうじ</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2017/12/07/愛媛県-道後温泉で新しい年を迎えるための掃除を行う
+- title: <ruby>日本<rt>にっぽん</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>　<ruby>今年<rt>ことし</rt></ruby>はもう２０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/09/22/日本に旅行に来た外国人-今年はもう2000万人以上
+...
