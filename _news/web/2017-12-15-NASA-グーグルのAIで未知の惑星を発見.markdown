@@ -1,0 +1,95 @@
+---
+layout: web_news
+categories: web
+newsid: k10011259781000
+title: ＮＡＳＡ グーグルのＡＩで未知の惑星を発見
+title_with_ruby: ＮＡＳＡ グーグルのＡＩで<ruby>未知<rt data-ruby-level="4">みち</rt></ruby>の<ruby>惑星<rt
+  data-ruby-level="7">わくせい</rt></ruby>を<ruby>発見<rt data-ruby-level="3">はっけん</rt></ruby>
+last_modified_at: '2017-12-15T11:37:00+09:00'
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>12<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>15<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 11<ruby>時<rt data-ruby-level="2">じ</rt></ruby>37<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ＮＡＳＡ＝アメリカ航空宇宙局は、宇宙望遠鏡の観測データを人工知能に学習させて解析したところ、未知の惑星が見つかったと発表しました。今後の観測に人工知能を活用できると期待しています。
+summary: ＮＡＳＡ＝アメリカ<ruby>航空<rt data-ruby-level="4">こうくう</rt></ruby><ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby><ruby>局<rt
+  data-ruby-level="3">きょく</rt></ruby>は、<ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby><ruby>望遠鏡<rt
+  data-ruby-level="4">ぼうえんきょう</rt></ruby>の<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>データを<ruby>人工<rt
+  data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt data-ruby-level="5">ちのう</rt></ruby>に<ruby>学習<rt
+  data-ruby-level="3">がくしゅう</rt></ruby>させて<ruby>解析<rt data-ruby-level="7">かいせき</rt></ruby>したところ、<ruby>未知<rt
+  data-ruby-level="4">みち</rt></ruby>の<ruby>惑星<rt data-ruby-level="7">わくせい</rt></ruby>が<ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>つかったと<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>しました。<ruby>今後<rt
+  data-ruby-level="2">こんご</rt></ruby>の<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>に<ruby>人工<rt
+  data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt data-ruby-level="5">ちのう</rt></ruby>を<ruby>活用<rt
+  data-ruby-level="2">かつよう</rt></ruby>できると<ruby>期待<rt data-ruby-level="3">きたい</rt></ruby>しています。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/15/K10011259781_1712151135_1712151137_01_02.jpg
+movie_url: https://newswebeasy.github.io/ja201712/news/web/movie/2017/12/15/k10011259781_201712151218_201712151220.mp4
+voice_url: https://newswebeasy.github.io/ja201712/news/web/voice/2017/12/15/k10011259781_201712151218_201712151220.mp3
+body:
+- text: <ruby>惑星<rt data-ruby-level="7">わくせい</rt></ruby>は、<ruby>地球<rt data-ruby-level="3">ちきゅう</rt></ruby>のようにみずからは<ruby>光<rt
+    data-ruby-level="2">ひかり</rt></ruby>を<ruby>放<rt data-ruby-level="3">はな</rt></ruby>たないため、<ruby>太陽<rt
+    data-ruby-level="3">たいよう</rt></ruby>のように<ruby>光<rt data-ruby-level="2">ひかり</rt></ruby>を<ruby>放<rt
+    data-ruby-level="3">はな</rt></ruby>つ<ruby>恒星<rt data-ruby-level="7">こうせい</rt></ruby>の<ruby>前<rt
+    data-ruby-level="2">まえ</rt></ruby>を<ruby>横切<rt data-ruby-level="3">よこぎ</rt></ruby>った<ruby>際<rt
+    data-ruby-level="5">さい</rt></ruby>に<ruby>光<rt data-ruby-level="2">ひかり</rt></ruby>が<ruby>弱<rt
+    data-ruby-level="2">よわ</rt></ruby>まることから、その<ruby>存在<rt data-ruby-level="6">そんざい</rt></ruby>がようやくわかります。このため、<ruby>遠<rt
+    data-ruby-level="2">とお</rt></ruby>くにある<ruby>惑星<rt data-ruby-level="7">わくせい</rt></ruby>の<ruby>特定<rt
+    data-ruby-level="4">とくてい</rt></ruby>は、<ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby>にあるほかの<ruby>星<rt
+    data-ruby-level="2">ほし</rt></ruby>の<ruby>光<rt data-ruby-level="2">ひかり</rt></ruby>が<ruby>混<rt
+    data-ruby-level="5">こん</rt></ruby>じるなどの<ruby>理由<rt data-ruby-level="3">りゆう</rt></ruby>で<ruby>難<rt
+    data-ruby-level="6">むずか</rt></ruby>しいとされてきました。<br /><br />ＮＡＳＡは、<ruby>新<rt data-ruby-level="2">あたら</rt></ruby>しい<ruby>惑星<rt
+    data-ruby-level="7">わくせい</rt></ruby>を<ruby>見<rt data-ruby-level="1">み</rt></ruby>つけ<ruby>出<rt
+    data-ruby-level="1">だ</rt></ruby>そうと、<ruby>大手<rt data-ruby-level="1">おおて</rt></ruby>ＩＴ<ruby>企業<rt
+    data-ruby-level="7">きぎょう</rt></ruby>グーグルが<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>した<ruby>人工<rt
+    data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt data-ruby-level="5">ちのう</rt></ruby>に、<ruby>宇宙<rt
+    data-ruby-level="6">うちゅう</rt></ruby><ruby>望遠鏡<rt data-ruby-level="4">ぼうえんきょう</rt></ruby>で<ruby>観測<rt
+    data-ruby-level="5">かんそく</rt></ruby>した<ruby>星<rt data-ruby-level="2">ほし</rt></ruby>の<ruby>光<rt
+    data-ruby-level="2">ひかり</rt></ruby>のデータを<ruby>学習<rt data-ruby-level="3">がくしゅう</rt></ruby>させて<ruby>惑星<rt
+    data-ruby-level="7">わくせい</rt></ruby>があるかどうかを<ruby>解析<rt data-ruby-level="7">かいせき</rt></ruby>させました。その<ruby>結果<rt
+    data-ruby-level="4">けっか</rt></ruby>、<ruby>地球<rt data-ruby-level="3">ちきゅう</rt></ruby>から２５４５<ruby>光年<rt
+    data-ruby-level="2">こうねん</rt></ruby><ruby>離<rt data-ruby-level="7">はな</rt></ruby>れたケプラー９０という<ruby>恒星<rt
+    data-ruby-level="7">こうせい</rt></ruby>の<ruby>周<rt data-ruby-level="4">まわ</rt></ruby>りで、これまで<ruby>全<rt
+    data-ruby-level="3">まった</rt></ruby>く<ruby>知<rt data-ruby-level="2">し</rt></ruby>られていなかった<ruby>惑星<rt
+    data-ruby-level="7">わくせい</rt></ruby>が<ruby>見<rt data-ruby-level="1">み</rt></ruby>つかったということです。<br
+    /><br /><ruby>新<rt data-ruby-level="2">あら</rt></ruby>たに<ruby>見<rt data-ruby-level="1">み</rt></ruby>つかった<ruby>惑星<rt
+    data-ruby-level="7">わくせい</rt></ruby>は、１４<ruby>日半<rt data-ruby-level="2">にちはん</rt></ruby>ほどで<ruby>恒星<rt
+    data-ruby-level="7">こうせい</rt></ruby>の<ruby>周<rt data-ruby-level="4">まわ</rt></ruby>りを<ruby>回<rt
+    data-ruby-level="2">まわ</rt></ruby>っていて、<ruby>表面<rt data-ruby-level="3">ひょうめん</rt></ruby><ruby>温度<rt
+    data-ruby-level="3">おんど</rt></ruby>は４００<ruby>度<rt data-ruby-level="3">ど</rt></ruby>を<ruby>超<rt
+    data-ruby-level="7">こ</rt></ruby>え、<ruby>生命<rt data-ruby-level="3">せいめい</rt></ruby>を<ruby>育<rt
+    data-ruby-level="8">はぐく</rt></ruby>むことができる<ruby>環境<rt data-ruby-level="7">かんきょう</rt></ruby>ではないということです。「ケプラー９０」には、すでに７つの<ruby>惑星<rt
+    data-ruby-level="7">わくせい</rt></ruby>があることが<ruby>知<rt data-ruby-level="2">し</rt></ruby>られていて、<ruby>今回<rt
+    data-ruby-level="2">こんかい</rt></ruby>の<ruby>発見<rt data-ruby-level="3">はっけん</rt></ruby>で<ruby>惑星<rt
+    data-ruby-level="7">わくせい</rt></ruby>の<ruby>数<rt data-ruby-level="2">かず</rt></ruby>は８つとなり、<ruby>太陽系<rt
+    data-ruby-level="6">たいようけい</rt></ruby>と<ruby>並<rt data-ruby-level="6">なら</rt></ruby>んで<ruby>最<rt
+    data-ruby-level="4">もっと</rt></ruby>も<ruby>多<rt data-ruby-level="2">おお</rt></ruby>いということです。<br
+    /><br />ＮＡＳＡの<ruby>担当者<rt data-ruby-level="6">たんとうしゃ</rt></ruby>は「<ruby>人工<rt
+    data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt data-ruby-level="5">ちのう</rt></ruby>は<ruby>人間<rt
+    data-ruby-level="2">にんげん</rt></ruby>が<ruby>処理<rt data-ruby-level="6">しょり</rt></ruby>しきれない<ruby>膨大<rt
+    data-ruby-level="7">ぼうだい</rt></ruby>なデータから<ruby>本物<rt data-ruby-level="3">ほんもの</rt></ruby>の<ruby>惑星<rt
+    data-ruby-level="7">わくせい</rt></ruby>を<ruby>見<rt data-ruby-level="1">み</rt></ruby>つけ<ruby>出<rt
+    data-ruby-level="1">だ</rt></ruby>してくれる」と<ruby>未知<rt data-ruby-level="4">みち</rt></ruby>の<ruby>惑星<rt
+    data-ruby-level="7">わくせい</rt></ruby>のさらなる<ruby>発見<rt data-ruby-level="3">はっけん</rt></ruby>に<ruby>期待<rt
+    data-ruby-level="3">きたい</rt></ruby>しています。
+  image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/15/K10011259781_1712151135_1712151137_01_03.jpg
+source_url: https://www3.nhk.or.jp/news/html/20171215/k10011259781000.html
+related_news:
+- title: 「ＡｌｐｈａＧｏ」が<ruby>進化<rt data-ruby-level="3">しんか</rt></ruby> <ruby>囲碁<rt data-ruby-level="7">いご</rt></ruby>の<ruby>打<rt
+    data-ruby-level="3">う</rt></ruby>ち<ruby>手<rt data-ruby-level="3">て</rt></ruby><ruby>教<rt
+    data-ruby-level="2">おし</rt></ruby>えずに<ruby>従来型<rt data-ruby-level="6">じゅうらいがた</rt></ruby><ruby>破<rt
+    data-ruby-level="5">やぶ</rt></ruby>る
+  url: https://newswebeasy.github.io/news/web/2017/10/19/AlphaGoが進化-囲碁の打ち手教えずに従来型破る
+- title: <ruby>野口<rt data-ruby-level="2">のぐち</rt></ruby><ruby>聡一<rt data-ruby-level="8">そういち</rt></ruby>さん
+    ２<ruby>年後<rt data-ruby-level="2">ねんご</rt></ruby>に３<ruby>回目<rt data-ruby-level="2">かいめ</rt></ruby>の<ruby>宇宙<rt
+    data-ruby-level="6">うちゅう</rt></ruby><ruby>飛行<rt data-ruby-level="4">ひこう</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2017/11/07/野口聡一さん-2年後に3回目の宇宙飛行へ
+- title: <ruby>月<rt data-ruby-level="1">つき</rt></ruby>の<ruby>地下<rt data-ruby-level="2">ちか</rt></ruby>に<ruby>巨大<rt
+    data-ruby-level="7">きょだい</rt></ruby>な<ruby>空洞<rt data-ruby-level="7">くうどう</rt></ruby><ruby>発見<rt
+    data-ruby-level="3">はっけん</rt></ruby> <ruby>月面<rt data-ruby-level="3">げつめん</rt></ruby><ruby>基地<rt
+    data-ruby-level="5">きち</rt></ruby>として<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>の<ruby>可能性<rt
+    data-ruby-level="5">かのうせい</rt></ruby>も
+  url: https://newswebeasy.github.io/news/web/2017/10/18/月の地下に巨大な空洞発見-月面基地として活用の可能性も
+- title: 「<ruby>火球<rt data-ruby-level="3">かきゅう</rt></ruby>」か <ruby>広範囲<rt data-ruby-level="7">こうはんい</rt></ruby>で<ruby>謎<rt
+    data-ruby-level="7">なぞ</rt></ruby>の<ruby>光<rt data-ruby-level="2">ひかり</rt></ruby>の<ruby>目撃<rt
+    data-ruby-level="7">もくげき</rt></ruby><ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby><ruby>相次<rt
+    data-ruby-level="3">あいつ</rt></ruby>ぐ
+  url: https://newswebeasy.github.io/news/web/2017/11/21/火球か-広範囲で謎の光の目撃情報相次ぐ
+...
