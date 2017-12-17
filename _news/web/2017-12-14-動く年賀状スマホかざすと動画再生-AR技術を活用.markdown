@@ -1,0 +1,70 @@
+---
+layout: web_news
+categories: web
+newsid: k10011259261000
+title: 「動く年賀状」スマホかざすと動画再生 ＡＲ技術を活用
+title_with_ruby: 「<ruby>動<rt data-ruby-level="3">うご</rt></ruby>く<ruby>年賀状<rt data-ruby-level="5">ねんがじょう</rt></ruby>」スマホかざすと<ruby>動画<rt
+  data-ruby-level="3">どうが</rt></ruby><ruby>再生<rt data-ruby-level="5">さいせい</rt></ruby>
+  ＡＲ<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>を<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>
+last_modified_at: '2017-12-14T22:24:00+09:00'
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>12<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>14<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 22<ruby>時<rt data-ruby-level="2">じ</rt></ruby>24<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ＡＲ＝と呼ばれるＩＴ技術を活用し、年賀状にスマートフォンをかざすと動画が再生される「動く年賀状」が開発され、１５日から松江市で販売されます。
+summary: ＡＲ＝と<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>ばれるＩＴ<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>を<ruby>活用<rt
+  data-ruby-level="2">かつよう</rt></ruby>し、<ruby>年賀状<rt data-ruby-level="5">ねんがじょう</rt></ruby>にスマートフォンをかざすと<ruby>動画<rt
+  data-ruby-level="3">どうが</rt></ruby>が<ruby>再生<rt data-ruby-level="5">さいせい</rt></ruby>される「<ruby>動<rt
+  data-ruby-level="3">うご</rt></ruby>く<ruby>年賀状<rt data-ruby-level="5">ねんがじょう</rt></ruby>」が<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>され、１５<ruby>日<rt data-ruby-level="1">にち</rt></ruby>から<ruby>松江市<rt
+  data-ruby-level="7">まつえし</rt></ruby>で<ruby>販売<rt data-ruby-level="7">はんばい</rt></ruby>されます。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/14/K10011259261_1712142249_1712142252_01_03.jpg
+more: 「<ruby>動<rt data-ruby-level="3">うご</rt></ruby>く<ruby>年賀状<rt data-ruby-level="5">ねんがじょう</rt></ruby>」は、<ruby>松江市<rt
+  data-ruby-level="7">まつえし</rt></ruby>と<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>郵便<rt
+  data-ruby-level="6">ゆうびん</rt></ruby>やＩＴ<ruby>サービス<rt data-ruby-level="2">さーびす</rt></ruby><ruby>会社<rt
+  data-ruby-level="2">がいしゃ</rt></ruby>「<ruby>日本<rt data-ruby-level="1">にほん</rt></ruby><ruby>ユニシス<rt
+  data-ruby-level="1">ゆにしす</rt></ruby>」などが<ruby>共同<rt data-ruby-level="4">きょうどう</rt></ruby>で<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>したもので、<ruby>松江<rt data-ruby-level="7">まつえ</rt></ruby><ruby>歴史館<rt
+  data-ruby-level="4">れきしかん</rt></ruby>の<ruby>館内<rt data-ruby-level="3">かんない</rt></ruby>に<ruby>設置<rt
+  data-ruby-level="5">せっち</rt></ruby>された<ruby>専用<rt data-ruby-level="6">せんよう</rt></ruby>のロボットに<ruby>取<rt
+  data-ruby-level="4">と</rt></ruby>り<ruby>付<rt data-ruby-level="4">つ</rt></ruby>けられたカメラを<ruby>使<rt
+  data-ruby-level="3">つか</rt></ruby>い、<ruby>誰<rt data-ruby-level="7">だれ</rt></ruby>でも<ruby>作<rt
+  data-ruby-level="2">つく</rt></ruby>ることができます。<br /><br /><ruby>利用者<rt data-ruby-level="4">りようしゃ</rt></ruby>がこのカメラで<ruby>思<rt
+  data-ruby-level="2">おも</rt></ruby>い<ruby>思<rt data-ruby-level="2">おも</rt></ruby>いに<ruby>写真<rt
+  data-ruby-level="3">しゃしん</rt></ruby>と<ruby>動画<rt data-ruby-level="3">どうが</rt></ruby>の<ruby>両方<rt
+  data-ruby-level="3">りょうほう</rt></ruby>を<ruby>撮影<rt data-ruby-level="7">さつえい</rt></ruby>すると、<ruby>写真<rt
+  data-ruby-level="3">しゃしん</rt></ruby>だけが<ruby>印刷<rt data-ruby-level="4">いんさつ</rt></ruby>された<ruby>年賀状<rt
+  data-ruby-level="5">ねんがじょう</rt></ruby>がプリントアウトされます。<br /><br />この<ruby>年賀状<rt data-ruby-level="5">ねんがじょう</rt></ruby>には<ruby>一緒<rt
+  data-ruby-level="7">いっしょ</rt></ruby>に<ruby>撮影<rt data-ruby-level="7">さつえい</rt></ruby>した<ruby>動画<rt
+  data-ruby-level="3">どうが</rt></ruby>の<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>も<ruby>記録<rt
+  data-ruby-level="4">きろく</rt></ruby>され、スマートフォンをかざすと<ruby>画面上<rt data-ruby-level="3">がめんじょう</rt></ruby>に<ruby>動画<rt
+  data-ruby-level="3">どうが</rt></ruby>が<ruby>再生<rt data-ruby-level="5">さいせい</rt></ruby>される<ruby>仕組<rt
+  data-ruby-level="3">しく</rt></ruby>みで、ＡＲ＝<ruby>拡張<rt data-ruby-level="6">かくちょう</rt></ruby><ruby>現実<rt
+  data-ruby-level="5">げんじつ</rt></ruby>と<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>ばれるＩＴ<ruby>技術<rt
+  data-ruby-level="5">ぎじゅつ</rt></ruby>が<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>されています。<br
+  /><br />「<ruby>動<rt data-ruby-level="3">うご</rt></ruby>く<ruby>年賀状<rt data-ruby-level="5">ねんがじょう</rt></ruby>」は１５<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>から<ruby>来年<rt data-ruby-level="2">らいねん</rt></ruby>１<ruby>月<rt
+  data-ruby-level="1">がつ</rt></ruby>３<ruby>日<rt data-ruby-level="1">にち</rt></ruby>まで、２<ruby>枚<rt
+  data-ruby-level="6">まい</rt></ruby>１<ruby>組<rt data-ruby-level="2">くみ</rt></ruby>５００<ruby>円<rt
+  data-ruby-level="1">えん</rt></ruby>で<ruby>販売<rt data-ruby-level="7">はんばい</rt></ruby>される<ruby>予定<rt
+  data-ruby-level="3">よてい</rt></ruby>で、<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>に<ruby>参加<rt
+  data-ruby-level="4">さんか</rt></ruby>した<ruby>松江市<rt data-ruby-level="7">まつえし</rt></ruby>の<ruby>松浦<rt
+  data-ruby-level="7">まつうら</rt></ruby><ruby>市長<rt data-ruby-level="2">しちょう</rt></ruby>は「<ruby>年賀状<rt
+  data-ruby-level="5">ねんがじょう</rt></ruby><ruby>以外<rt data-ruby-level="4">いがい</rt></ruby>にも<ruby>季節<rt
+  data-ruby-level="4">きせつ</rt></ruby>の<ruby>便<rt data-ruby-level="4">たよ</rt></ruby>りなどさまざまな<ruby>活用<rt
+  data-ruby-level="2">かつよう</rt></ruby><ruby>方法<rt data-ruby-level="4">ほうほう</rt></ruby>が<ruby>考<rt
+  data-ruby-level="2">かんが</rt></ruby>えられる。まずは<ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>、<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>くの<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>に<ruby>体験<rt
+  data-ruby-level="4">たいけん</rt></ruby>してもらい<ruby>松江<rt data-ruby-level="7">まつえ</rt></ruby>の<ruby>魅力<rt
+  data-ruby-level="7">みりょく</rt></ruby>を<ruby>発信<rt data-ruby-level="4">はっしん</rt></ruby>してほしい」と<ruby>話<rt
+  data-ruby-level="2">はな</rt></ruby>しています。
+movie_url: https://newswebeasy.github.io/ja201712/news/web/movie/2017/12/14/k10011259261_201712142251_201712142252.mp4
+voice_url: https://newswebeasy.github.io/ja201712/news/web/voice/2017/12/14/k10011259261_201712142251_201712142252.mp3
+source_url: https://www3.nhk.or.jp/news/html/20171214/k10011259261000.html
+related_news:
+- title: <ruby>戌年<rt data-ruby-level="8">いぬどし</rt></ruby>イヤーで<ruby>愛犬家<rt data-ruby-level="4">あいけんか</rt></ruby>も<ruby>大忙<rt
+    data-ruby-level="7">おおいそが</rt></ruby>し
+  url: https://newswebeasy.github.io/news/web/2017/11/28/戌年イヤーで愛犬家も大忙し
+- title: “えとのいぬを<ruby>年賀状<rt data-ruby-level="5">ねんがじょう</rt></ruby>に”  <ruby>秋田犬<rt
+    data-ruby-level="2">あきたいぬ</rt></ruby>のふるさとにぎわう
+  url: https://newswebeasy.github.io/news/web/2017/11/12/えとのいぬを年賀状に-秋田犬のふるさとにぎわう
+...
