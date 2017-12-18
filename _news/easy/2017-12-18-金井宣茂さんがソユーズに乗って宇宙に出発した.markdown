@@ -1,0 +1,68 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011261791000
+last_modified_at: '2017-12-18T16:20:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: 金井宣茂さんは、日本人で１２人目の宇宙飛行士です。
+title: 金井宣茂さんが「ソユーズ」に乗って宇宙に出発した
+title_with_ruby: <ruby>金井<rt>かない</rt></ruby><ruby>宣茂<rt>のりしげ</rt></ruby>さんが「ソユーズ」に<ruby>乗<rt>の</rt></ruby>って<ruby>宇宙<rt>うちゅう</rt></ruby>に<ruby>出発<rt>しゅっぱつ</rt></ruby>した
+outline: 金井宣茂さんは、日本人で１２人目の宇宙飛行士です。
+outline_with_ruby: <ruby>金井<rt>かない</rt></ruby><ruby>宣茂<rt>のりしげ</rt></ruby>さんは、<ruby>日本人<rt>にっぽんじん</rt></ruby>で１２<ruby>人<rt>にん</rt></ruby><ruby>目<rt>め</rt></ruby>の<ruby>宇宙飛行士<rt>うちゅうひこうし</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/17/K10011261791_1712171809_1712171811_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/18/k10011261791000.mp3
+content_with_ruby: "<p><ruby>金井<rt>かない</rt></ruby><ruby>宣茂<rt>のりしげ</rt></ruby>さんは、<ruby>日本人<rt>にっぽんじん</rt></ruby>で１２<ruby>人<rt>にん</rt></ruby><ruby>目<rt>め</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>宇宙飛行士<rt>うちゅうひこうし</rt></ruby></span>です。<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>の１７<ruby>日<rt>にち</rt></ruby><ruby>午後<rt>ごご</rt></ruby>４<ruby>時<rt>じ</rt></ruby>２１<ruby>分<rt>ぷん</rt></ruby>、<ruby>金井<rt>かない</rt></ruby>さんが<ruby>乗<rt>の</rt></ruby>ったロシアの<span\
+  \ style=\"color: blue;\"><ruby>宇宙船<rt>うちゅうせん</rt></ruby></span>の「ソユーズ」が、カザフスタンから<span\
+  \ style=\"color: blue;\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</span>られました。</p>\n\
+  <p>ソユーズは１９<ruby>日<rt>にち</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>５<ruby>時<rt>じ</rt></ruby>４０<ruby>分<rt>ぷん</rt></ruby>ごろ<ruby>国際<rt>こくさい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby>ステーション</span>に<ruby>着<rt>つ</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。<span\
+  \ style=\"color: blue;\"><ruby>医師<rt>いし</rt></ruby></span>をしていた<ruby>金井<rt>かない</rt></ruby>さんは<ruby>来年<rt>らいねん</rt></ruby>６<ruby>月<rt>がつ</rt></ruby>まで、<span\
+  \ style=\"color: blue;\">アルツハイマー<ruby>病<rt>びょう</rt></ruby></span>などを<ruby>研究<rt>けんきゅう</rt></ruby>するための<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>や、<span style=\"color:\
+  \ blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>にいると<ruby>人<rt>ひと</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>がどうなるか<ruby>調<rt>しら</rt></ruby>べる<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>をします。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 宇宙
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。
+- word: 宇宙飛行士
+  descriptions:
+  - <ruby><rb>宇宙船</rb><rt>うちゅうせん</rt></ruby>や<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>ステーションの<ruby><rb>乗組員</rb><rt>のりくみいん</rt></ruby>。
+- word: 宇宙船
+  descriptions:
+  - <ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>飛行</rb><rt>ひこう</rt></ruby>するための<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 打ち上げる
+  descriptions:
+  - （<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - <ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - （<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。
+- word: 宇宙ステーション
+  descriptions:
+  - スペースシャトルなどで<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby><ruby><rb>旅行</rb><rt>りょこう</rt></ruby>や、<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>での<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>の<ruby><rb>基地</rb><rt>きち</rt></ruby>として、その<ruby><rb>中</rb><rt>なか</rt></ruby>でたくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>続</rb><rt>つづ</rt></ruby>けられる<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>人工衛星</rb><rt>じんこうえいせい</rt></ruby>。
+- word: 医師
+  descriptions:
+  - <ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがを<ruby><rb>治</rb><rt>なお</rt></ruby>すことを<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>とする<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>。
+- word: アルツハイマー病
+  descriptions:
+  - <ruby><rb>脳</rb><rt>のう</rt></ruby>が<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>むことによって、<ruby><rb>脳</rb><rt>のう</rt></ruby>のはたらきが<ruby><rb>悪</rb><rt>わる</rt></ruby>くなる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。
+- word: 実験
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011261791000/k10011261791000.html
+web_title_with_ruby: <ruby>金井<rt>かない</rt></ruby><ruby>宣茂<rt>のりしげ</rt></ruby>さん<ruby>搭乗<rt>とうじょう</rt></ruby>の「<ruby>ソユーズ<rt>そゆーず</rt></ruby>」<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ<ruby>成功<rt>せいこう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/17/金井宣茂さん搭乗のソユーズ打ち上げ成功
+related_news:
+- title: <ruby>宇宙飛行士<rt>うちゅうひこうし</rt></ruby>の<ruby>野口聡一<rt>のぐちそういち</rt></ruby>さん　２０１９<ruby>年<rt>ねん</rt></ruby>に３<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>の<ruby>宇宙<rt>うちゅう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/11/09/宇宙飛行士の野口聡一さん-2019年に3回目の宇宙
+- title: ＮＡＳＡ「<ruby>月<rt>つき</rt></ruby>の<ruby>地下<rt>ちか</rt></ruby>で<ruby>宇宙飛行士<rt>うちゅうひこうし</rt></ruby>が<ruby>生活<rt>せいかつ</rt></ruby>できるかもしれない」
+  url: https://newswebeasy.github.io/news/easy/2017/11/13/NASA月の地下で宇宙飛行士が生活できるかもしれない
+- title: <ruby>月<rt>つき</rt></ruby>の<ruby>地下<rt>ちか</rt></ruby>に<ruby>長<rt>なが</rt></ruby>さ５０ｋｍの<ruby>穴<rt>あな</rt></ruby>があることがわかる
+  url: https://newswebeasy.github.io/news/easy/2017/10/19/月の地下に長さ50kmの穴があることがわかる
+- title: アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>「<ruby>宇宙船<rt>うちゅうせん</rt></ruby>で<ruby>世界<rt>せかい</rt></ruby>のどの<ruby>都市<rt>とし</rt></ruby>にも３０<ruby>分<rt>ぷん</rt></ruby>で<ruby>着<rt>つ</rt></ruby>く」
+  url: https://newswebeasy.github.io/news/easy/2017/10/03/アメリカの会社宇宙船で世界のどの都市にも30分で着く
+- title: <ruby>宇宙<rt>うちゅう</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>ばれたりんごを「<ruby>宇宙<rt>うちゅう</rt></ruby>りんご」という<ruby>名前<rt>なまえ</rt></ruby>で<ruby>売<rt>う</rt></ruby>り<ruby>出<rt>だ</rt></ruby>す
+  url: https://newswebeasy.github.io/news/easy/2017/10/17/宇宙に運ばれたりんごを宇宙りんごという名前で売り出す
+...

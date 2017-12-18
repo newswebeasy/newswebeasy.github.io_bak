@@ -1,0 +1,88 @@
+---
+layout: web_news
+categories: web
+newsid: k10011259351000
+title: 世界初 割れてもすぐ直るガラス開発 東大の研究グループ
+title_with_ruby: <ruby>世界初<rt data-ruby-level="4">せかいはつ</rt></ruby> <ruby>割<rt data-ruby-level="6">わ</rt></ruby>れてもすぐ<ruby>直<rt
+  data-ruby-level="2">なお</rt></ruby>るガラス<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>
+  <ruby>東大<rt data-ruby-level="2">とうだい</rt></ruby>の<ruby>研究<rt data-ruby-level="3">けんきゅう</rt></ruby>グループ
+last_modified_at: '2017-12-15T05:12:00+09:00'
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>12<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>15<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 05<ruby>時<rt data-ruby-level="2">じ</rt></ruby>12<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 割れても、断面を押しつけるだけで元どおりに修復できるガラス材料の開発に、東京大学の研究グループが世界で初めて成功しました。
+summary: <ruby>割<rt data-ruby-level="6">わ</rt></ruby>れても、<ruby>断面<rt data-ruby-level="5">だんめん</rt></ruby>を<ruby>押<rt
+  data-ruby-level="7">お</rt></ruby>しつけるだけで<ruby>元<rt data-ruby-level="2">もと</rt></ruby>どおりに<ruby>修復<rt
+  data-ruby-level="5">しゅうふく</rt></ruby>できるガラス<ruby>材料<rt data-ruby-level="4">ざいりょう</rt></ruby>の<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>に、<ruby>東京大学<rt data-ruby-level="2">とうきょうだいがく</rt></ruby>の<ruby>研究<rt
+  data-ruby-level="3">けんきゅう</rt></ruby>グループが<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>で<ruby>初<rt
+  data-ruby-level="4">はじ</rt></ruby>めて<ruby>成功<rt data-ruby-level="4">せいこう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/15/K10011259351_1712150520_1712150521_01_03.jpg
+movie_url: https://newswebeasy.github.io/ja201712/news/web/movie/2017/12/15/k10011259351_201712150520_201712150520.mp4
+voice_url: https://newswebeasy.github.io/ja201712/news/web/voice/2017/12/15/k10011259351_201712150520_201712150520.mp3
+body:
+- text: <ruby>割<rt data-ruby-level="6">わ</rt></ruby>れても<ruby>直<rt data-ruby-level="2">なお</rt></ruby>るガラスは<ruby>東京大学<rt
+    data-ruby-level="2">とうきょうだいがく</rt></ruby>の<ruby>相田<rt data-ruby-level="3">あいだ</rt></ruby><ruby>卓三<rt
+    data-ruby-level="8">たくぞう</rt></ruby><ruby>教授<rt data-ruby-level="5">きょうじゅ</rt></ruby>と<ruby>博士<rt
+    data-ruby-level="4">はくし</rt></ruby><ruby>課程<rt data-ruby-level="5">かてい</rt></ruby>の<ruby>大学院生<rt
+    data-ruby-level="3">だいがくいんせい</rt></ruby><ruby>柳沢<rt data-ruby-level="7">やなぎさわ</rt></ruby><ruby>佑<rt
+    data-ruby-level="8">ゆうや</rt></ruby>さんらの<ruby>研究<rt data-ruby-level="3">けんきゅう</rt></ruby>グループが<ruby>開発<rt
+    data-ruby-level="3">かいはつ</rt></ruby>しました。<br /><br /><ruby>研究<rt data-ruby-level="3">けんきゅう</rt></ruby>グループは<ruby>新<rt
+    data-ruby-level="2">あら</rt></ruby>たな<ruby>接着剤<rt data-ruby-level="7">せっちゃくざい</rt></ruby>の<ruby>開発<rt
+    data-ruby-level="3">かいはつ</rt></ruby>を<ruby>進<rt data-ruby-level="3">すす</rt></ruby>めていましたが、<ruby>偶然<rt
+    data-ruby-level="7">ぐうぜん</rt></ruby>、<ruby>固<rt data-ruby-level="4">かた</rt></ruby>くさらさらした<ruby>手触<rt
+    data-ruby-level="7">てざわ</rt></ruby>りの<ruby>物質<rt data-ruby-level="5">ぶっしつ</rt></ruby>に<ruby>自然<rt
+    data-ruby-level="4">しぜん</rt></ruby>に<ruby>元<rt data-ruby-level="2">もと</rt></ruby>どおりになる<ruby>自己<rt
+    data-ruby-level="6">じこ</rt></ruby><ruby>修復<rt data-ruby-level="5">しゅうふく</rt></ruby><ruby>機能<rt
+    data-ruby-level="5">きのう</rt></ruby>があることを<ruby>発見<rt data-ruby-level="3">はっけん</rt></ruby>しました。<br
+    /><br />この<ruby>物質<rt data-ruby-level="5">ぶっしつ</rt></ruby>は「ポリエーテルチオ<ruby>尿素<rt
+    data-ruby-level="7">にょうそ</rt></ruby>」と<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>ばれるもので、これを<ruby>材料<rt
+    data-ruby-level="4">ざいりょう</rt></ruby>に<ruby>作<rt data-ruby-level="2">つく</rt></ruby>ったガラスは<ruby>割<rt
+    data-ruby-level="6">わ</rt></ruby>れても<ruby>数十<rt data-ruby-level="2">すうじゅう</rt></ruby><ruby>秒間<rt
+    data-ruby-level="3">びょうかん</rt></ruby>、<ruby>断面<rt data-ruby-level="5">だんめん</rt></ruby>を<ruby>押<rt
+    data-ruby-level="7">お</rt></ruby>しつければ<ruby>元<rt data-ruby-level="2">もと</rt></ruby>どおりに<ruby>修復<rt
+    data-ruby-level="5">しゅうふく</rt></ruby>できます。<br />また<ruby>数時間<rt data-ruby-level="2">すうじかん</rt></ruby>あれば<ruby>元<rt
+    data-ruby-level="2">もと</rt></ruby>の<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>さに<ruby>戻<rt
+    data-ruby-level="7">もど</rt></ruby>ることも<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>できたということです。<br
+    /><br />こうした<ruby>室温<rt data-ruby-level="3">しつおん</rt></ruby><ruby>環境<rt data-ruby-level="7">かんきょう</rt></ruby>で<ruby>壊<rt
+    data-ruby-level="7">こわ</rt></ruby>れても<ruby>自己<rt data-ruby-level="6">じこ</rt></ruby><ruby>修復<rt
+    data-ruby-level="5">しゅうふく</rt></ruby>できる<ruby>物質<rt data-ruby-level="5">ぶっしつ</rt></ruby>はゴムのような<ruby>柔<rt
+    data-ruby-level="7">やわ</rt></ruby>らかい<ruby>材料<rt data-ruby-level="4">ざいりょう</rt></ruby>では<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>つかっていましたが、ガラスのような<ruby>固<rt data-ruby-level="4">かた</rt></ruby>い<ruby>材料<rt
+    data-ruby-level="4">ざいりょう</rt></ruby>では<ruby>実現<rt data-ruby-level="5">じつげん</rt></ruby>が<ruby>難<rt
+    data-ruby-level="6">むずか</rt></ruby>しいとされていました。<br /><br /><ruby>柳沢<rt data-ruby-level="7">やなぎさわ</rt></ruby>さんは「<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>つけたときは<ruby>自分<rt data-ruby-level="2">じぶん</rt></ruby>も<ruby>半信半疑<rt
+    data-ruby-level="6">はんしんはんぎ</rt></ruby>だったし、<ruby>論文<rt data-ruby-level="6">ろんぶん</rt></ruby>もさまざまな<ruby>指摘<rt
+    data-ruby-level="7">してき</rt></ruby>を<ruby>受<rt data-ruby-level="3">う</rt></ruby>け<ruby>何度<rt
+    data-ruby-level="3">なんど</rt></ruby>も<ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>を<ruby>繰<rt
+    data-ruby-level="7">く</rt></ruby>り<ruby>返<rt data-ruby-level="7">かえ</rt></ruby>した。<ruby>直<rt
+    data-ruby-level="2">なお</rt></ruby>るガラスは、<ruby>壊<rt data-ruby-level="7">こわ</rt></ruby>れたら<ruby>捨<rt
+    data-ruby-level="6">す</rt></ruby>てるというサイクルとは<ruby>異<rt data-ruby-level="6">こと</rt></ruby>なる<ruby>環境<rt
+    data-ruby-level="7">かんきょう</rt></ruby>に<ruby>優<rt data-ruby-level="7">やさ</rt></ruby>しい<ruby>材料<rt
+    data-ruby-level="4">ざいりょう</rt></ruby>になればうれしい」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。
+  image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/15/K10011259351_1712150043_1712150512_01_03.jpg
+source_url: https://www3.nhk.or.jp/news/html/20171215/k10011259351000.html
+easy_title_with_ruby: <ruby>割<rt data-ruby-level="6">わ</rt></ruby>れても<ruby>直<rt data-ruby-level="2">なお</rt></ruby>すことができるガラスを<ruby>世界<rt
+  data-ruby-level="3">せかい</rt></ruby>で<ruby>初<rt data-ruby-level="4">はじ</rt></ruby>めて<ruby>作<rt
+  data-ruby-level="2">つく</rt></ruby>る
+easy_news_url: https://newswebeasy.github.io/news/easy/2017/12/18/割れても直すことができるガラスを世界で初めて作る
+related_news:
+- title: <ruby>日本人<rt data-ruby-level="1">にほんじん</rt></ruby>は<ruby>ノーベル<rt data-ruby-level="4">のーべる</rt></ruby><ruby>賞<rt
+    data-ruby-level="4">しょう</rt></ruby>を<ruby>取<rt data-ruby-level="3">と</rt></ruby>れなくなる？
+    <ruby>過去<rt data-ruby-level="5">かこ</rt></ruby>の<ruby>受賞者<rt data-ruby-level="4">じゅしょうしゃ</rt></ruby>が<ruby>懸念<rt
+    data-ruby-level="7">けねん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/09/23/日本人はノーベル賞を取れなくなる-過去の受賞者が懸念
+- title: <ruby>脳<rt data-ruby-level="6">のう</rt></ruby>に<ruby>薬<rt data-ruby-level="3">くすり</rt></ruby>を<ruby>運<rt
+    data-ruby-level="3">はこ</rt></ruby>ぶ<ruby>超小型<rt data-ruby-level="7">ちょうこがた</rt></ruby>カプセルを<ruby>開発<rt
+    data-ruby-level="3">かいはつ</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/10/29/脳に薬を運ぶ超小型カプセルを開発
+- title: “<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>海底<rt data-ruby-level="4">かいてい</rt></ruby>レアアース”でＬＥＤ
+    <ruby>東大<rt data-ruby-level="2">とうだい</rt></ruby>などが<ruby>成功<rt data-ruby-level="4">せいこう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/11/27/日本の海底レアアースでLED-東大などが成功
+- title: <ruby>大気<rt data-ruby-level="1">たいき</rt></ruby><ruby>汚染<rt data-ruby-level="7">おせん</rt></ruby>など<ruby>公害<rt
+    data-ruby-level="4">こうがい</rt></ruby><ruby>原因<rt data-ruby-level="5">げんいん</rt></ruby>で<ruby>約<rt
+    data-ruby-level="4">やく</rt></ruby>900<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>が<ruby>死亡<rt
+    data-ruby-level="6">しぼう</rt></ruby> <ruby>米英<rt data-ruby-level="4">べいえい</rt></ruby>の<ruby>専門家<rt
+    data-ruby-level="6">せんもんか</rt></ruby>ら<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/10/21/大気汚染など公害原因で約900万人が死亡-米英の専門家ら発表
+...

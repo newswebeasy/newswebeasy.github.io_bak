@@ -1,0 +1,77 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011261681000
+last_modified_at: '2017-12-18T16:20:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: 日本には、昔からお正月にする「羽根つき」という遊びがあります。
+title: 今年ニュースになった人などをかいた羽子板を見せる
+title_with_ruby: <ruby>今年<rt>ことし</rt></ruby>ニュースになった<ruby>人<rt>ひと</rt></ruby>などをかいた<ruby>羽子板<rt>はごいた</rt></ruby>を<ruby>見<rt>み</rt></ruby>せる
+outline: 日本には、昔からお正月にする「羽根つき」という遊びがあります。
+outline_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>には、<ruby>昔<rt>むかし</rt></ruby>からお<ruby>正月<rt>しょうがつ</rt></ruby>にする「<ruby>羽根<rt>はね</rt></ruby>つき」という<ruby>遊<rt>あそ</rt></ruby>びがあります。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/17/K10011261681_1712171228_1712171238_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/18/k10011261681000.mp3
+content_with_ruby: "<p><ruby>日本<rt>にっぽん</rt></ruby>には、<ruby>昔<rt>むかし</rt></ruby>からお<ruby>正月<rt>しょうがつ</rt></ruby>にする「<ruby>羽根<rt>はね</rt></ruby>つき」という<ruby>遊<rt>あそ</rt></ruby>びがあります。「<span\
+  \ style=\"color: blue;\"><ruby>羽子板<rt>はごいた</rt></ruby></span>」という<span style=\"\
+  color: blue;\"><ruby>板<rt>いた</rt></ruby></span>を<span style=\"color: blue;\">ラケット</span>のように<ruby>持<rt>も</rt></ruby>って、<ruby>２人<rt>ふたり</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>羽根<rt>はね</rt></ruby></span>をボールのように<ruby>打<rt>う</rt></ruby>ちます。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>にある<ruby>人形<rt>にんぎょう</rt></ruby>をつくる<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>毎年<rt>まいとし</rt></ruby>、ニュースになった<ruby>人<rt>ひと</rt></ruby>などの<span\
+  \ style=\"color: blue;\">デザイン</span>で<span style=\"color: blue;\"><ruby>羽子板<rt>はごいた</rt></ruby></span>をつくっています。<ruby>今年<rt>ことし</rt></ruby>は８<ruby>枚<rt>まい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>羽子板<rt>はごいた</rt></ruby></span>をつくって、<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>新宿<rt>しんじゅく</rt></ruby>にあるデパートで<ruby>見<rt>み</rt></ruby>せています。<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>で６<ruby>月<rt>がつ</rt></ruby>に<ruby>生<rt>う</rt></ruby>まれた<span\
+  \ style=\"color: blue;\">パンダ</span>の<ruby>赤<rt>あか</rt></ruby>ちゃん「シャンシャン」をかいた<span\
+  \ style=\"color: blue;\"><ruby>羽子板<rt>はごいた</rt></ruby></span>もあります。<span style=\"\
+  color: blue;\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<ruby>藤井聡太<rt>ふじいそうた</rt></ruby>さんと<span\
+  \ style=\"color: blue;\"><ruby>卓球<rt>たっきゅう</rt></ruby></span>の<ruby>張本智和<rt>はりもとともかず</rt></ruby>さんをかいた<span\
+  \ style=\"color: blue;\"><ruby>羽子板<rt>はごいた</rt></ruby></span>もあります。<ruby>２人<rt>ふたり</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>とても<span\
+  \ style=\"color: blue;\"><ruby>活躍<rt>かつやく</rt></ruby></span>した<ruby>中学生<rt>ちゅうがくせい</rt></ruby>です。</p>\n\
+  <p><ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>女性<rt>じょせい</rt></ruby>は「ニュースを<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>しながら<ruby>見<rt>み</rt></ruby>ているようでした」と<ruby>話<rt>はな</rt></ruby>していました。<span\
+  \ style=\"color: blue;\"><ruby>羽子板<rt>はごいた</rt></ruby></span>は、１９<ruby>日<rt>にち</rt></ruby>までこのデパートで<ruby>見<rt>み</rt></ruby>ることができます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 羽子板
+  descriptions:
+  - <ruby><rb>羽根</rb><rt>はね</rt></ruby>つきに<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>柄</rb><rt>え</rt></ruby>の<ruby><rb>付</rb><rt>つ</rt></ruby>いた、<ruby><rb>絵</rb><rt>え</rt></ruby>やかざりのある<ruby><rb>板</rb><rt>いた</rt></ruby>。
+- word: 板
+  descriptions:
+  - <ruby><rb>材木</rb><rt>ざいもく</rt></ruby>を、うすく<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。また、そのような<ruby><rb>形</rb><rt>かたち</rt></ruby>のもの。
+- word: ラケット
+  descriptions:
+  - テニス・<ruby><rb>卓球</rb><rt>たっきゅう</rt></ruby>・バドミントンなどで、ボールを<ruby><rb>打</rb><rt>う</rt></ruby>つ<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。
+- word: 羽根
+  descriptions:
+  - <ruby><rb>黒</rb><rt>くろ</rt></ruby>い<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>玉</rb><rt>たま</rt></ruby>に<ruby><rb>鳥</rb><rt>とり</rt></ruby>の<ruby><rb>羽</rb><rt>はね</rt></ruby>をつけて、<ruby><rb>羽子板</rb><rt>はごいた</rt></ruby>でつくもの。<ruby><rb>羽子</rb><rt>はご</rt></ruby>。
+  - <ruby><rb>器械</rb><rt>きかい</rt></ruby>につけた、<ruby><rb>羽</rb><rt>はね</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>をしたもの。
+- word: デザイン
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。
+  - <ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。
+- word: パンダ
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中央部</rb><rt>ちゅうおうぶ</rt></ruby>にすむけもの。ジャイアントパンダとレッサーパンダがいる。
+  - <ruby><rb>特</rb><rt>とく</rt></ruby>にジャイアントパンダ。<ruby><rb>中国西部</rb><rt>ちゅうごくせいぶ</rt></ruby>の<ruby><rb>山地</rb><rt>さんち</rt></ruby>にすむ。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>に<ruby><rb>色分</rb><rt>いろわ</rt></ruby>けされて、<ruby><rb>顔</rb><rt>かお</rt></ruby>つきや<ruby><rb>動作</rb><rt>どうさ</rt></ruby>がかわいい。
+- word: 将棋
+  descriptions:
+  - <ruby><rb>縦</rb><rt>たて</rt></ruby>・<ruby><rb>横</rb><rt>よこ</rt></ruby>に１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>板</rb><rt>いた</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>で、２０<ruby><rb>枚</rb><rt>まい</rt></ruby>ずつのこまを<ruby><rb>動</rb><rt>うご</rt></ruby>かし、<ruby><rb>相手</rb><rt>あいて</rt></ruby>の<ruby><rb>王</rb><rt>おう</rt></ruby>を<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>るゲーム。
+- word: 卓球
+  descriptions:
+  - <ruby><rb>台</rb><rt>だい</rt></ruby>の<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>からラケットで<ruby><rb>球</rb><rt>たま</rt></ruby>を<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ピンポン。
+- word: 活躍
+  descriptions:
+  - めざましく<ruby><rb>働</rb><rt>はたら</rt></ruby>くこと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011261681000/k10011261681000.html
+web_title_with_ruby: 「<ruby>変<rt>か</rt></ruby>わり<ruby>羽子板<rt>はごいた</rt></ruby>」<ruby>展示<rt>てんじ</rt></ruby><ruby>始<rt>はじ</rt></ruby>まる
+  <ruby>シャンシャン<rt>しゃんしゃん</rt></ruby>や<ruby>藤井<rt>ふじい</rt></ruby><ruby>四段<rt>よだん</rt></ruby>も
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/17/変わり羽子板展示始まる-シャンシャンや藤井四段も
+related_news:
+- title: パンダの「シャンシャン」は１９<ruby>日<rt>にち</rt></ruby>から<ruby>見<rt>み</rt></ruby>ることができる
+  url: https://newswebeasy.github.io/news/easy/2017/12/04/パンダのシャンシャンは19日から見ることができる
+- title: <ruby>和歌山県<rt>わかやまけん</rt></ruby>の<ruby>動物園<rt>どうぶつえん</rt></ruby>　３<ruby>匹<rt>びき</rt></ruby>のライオンの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>大<rt>おお</rt></ruby>きくなる
+  url: https://newswebeasy.github.io/news/easy/2017/11/02/和歌山県の動物園-3匹のライオンの赤ちゃんが大きくなる
+- title: <ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>のパンダのシャンシャンが１０ｋｇ<ruby>以上<rt>いじょう</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2017/11/21/上野動物園のパンダのシャンシャンが10kg以上になる
+- title: <ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>使<rt>つか</rt></ruby>ったお<ruby>金<rt>かね</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなる
+  url: https://newswebeasy.github.io/news/easy/2017/10/04/旅行に来た外国人が東京で使ったお金が少なくなる
+- title: <ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>　<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>禁煙<rt>きんえん</rt></ruby>にすることを<ruby>考<rt>かんが</rt></ruby>えている
+  url: https://newswebeasy.github.io/news/easy/2017/10/17/上野動物園-全部の場所を禁煙にすることを考えている
+...

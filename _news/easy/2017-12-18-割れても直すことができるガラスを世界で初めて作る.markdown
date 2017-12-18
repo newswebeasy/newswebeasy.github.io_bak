@@ -1,0 +1,63 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011259351000
+last_modified_at: '2017-12-18T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 東京大学の研究グループは、割れても簡単に直すことができるガラスを世界で初めて作りました。
+title: 割れても直すことができるガラスを世界で初めて作る
+title_with_ruby: <ruby>割<rt>わ</rt></ruby>れても<ruby>直<rt>なお</rt></ruby>すことができるガラスを<ruby>世界<rt>せかい</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>作<rt>つく</rt></ruby>る
+outline: 東京大学の研究グループは、割れても簡単に直すことができるガラスを世界で初めて作りました。
+outline_with_ruby: <ruby>東京大学<rt>とうきょうだいがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>グループは、<ruby>割<rt>わ</rt></ruby>れても<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>直<rt>なお</rt></ruby>すことができるガラスを<ruby>世界<rt>せかい</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>作<rt>つく</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/15/K10011259351_1712150520_1712150521_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/18/k10011259351000.mp3
+content_with_ruby: "<p><ruby>東京大学<rt>とうきょうだいがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby><span\
+  \ style=\"color: blue;\">グループ</span>は、<ruby>割<rt>わ</rt></ruby>れても<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>直<rt>なお</rt></ruby>すことができるガラスを<ruby>世界<rt>せかい</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>作<rt>つく</rt></ruby>りました。</p>\n\
+  <p><ruby>研究<rt>けんきゅう</rt></ruby><span style=\"color: blue;\">グループ</span>は、<ruby>別<rt>べつ</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>をしているとき、<ruby>形<rt>かたち</rt></ruby>を<ruby>変<rt>か</rt></ruby>えても<ruby>同<rt>おな</rt></ruby>じ<ruby>形<rt>かたち</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>る<span\
+  \ style=\"color: blue;\"><ruby>物質<rt>ぶっしつ</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>つけました。そして、この「ポリエーテルチオ<ruby>尿素<rt>にょうそ</rt></ruby>」という<span\
+  \ style=\"color: blue;\"><ruby>物質<rt>ぶっしつ</rt></ruby></span>でガラスを<ruby>作<rt>つく</rt></ruby>ってみました。このガラスは<ruby>割<rt>わ</rt></ruby>れても、<ruby>割<rt>わ</rt></ruby>れた<ruby>所<rt>ところ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>け</span>てしばらく<ruby>強<rt>つよ</rt></ruby>く<ruby>押<rt>お</rt></ruby>していると、<ruby>割<rt>わ</rt></ruby>れる<ruby>前<rt>まえ</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じようになります。<ruby>強<rt>つよ</rt></ruby>さも<ruby>割<rt>わ</rt></ruby>れる<ruby>前<rt>まえ</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じです。</p>\n\
+  <p><ruby>普通<rt>ふつう</rt></ruby>の<span style=\"color: blue;\"><ruby>温度<rt>おんど</rt></ruby></span>で<ruby>同<rt>おな</rt></ruby>じ<ruby>形<rt>かたち</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>る<span\
+  \ style=\"color: blue;\"><ruby>物質<rt>ぶっしつ</rt></ruby></span>は、<span style=\"color:\
+  \ blue;\">ゴム</span>のような<ruby>柔<rt>やわ</rt></ruby>らかい<ruby>物<rt>もの</rt></ruby>ではありましたが、ガラスのような<ruby>固<rt>かた</rt></ruby>い<ruby>物<rt>もの</rt></ruby>では<ruby>難<rt>むずか</rt></ruby>しいと<ruby>言<rt>い</rt></ruby>われていました。</p>\n\
+  <p><ruby>研究<rt>けんきゅう</rt></ruby><span style=\"color: blue;\">グループ</span>の<ruby>人<rt>ひと</rt></ruby>は「この<span\
+  \ style=\"color: blue;\"><ruby>物質<rt>ぶっしつ</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>つけたときは<ruby>自分<rt>じぶん</rt></ruby>でも<ruby>本当<rt>ほんとう</rt></ruby>だろうかと<ruby>思<rt>おも</rt></ruby>いました。ガラスは<ruby>割<rt>わ</rt></ruby>れたら<ruby>捨<rt>す</rt></ruby>てていましたが、もう<ruby>一度<rt>いちど</rt></ruby><ruby>利用<rt>りよう</rt></ruby>できるようになったらうれしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 物質
+  descriptions:
+  - <ruby><rb>見</rb><rt>み</rt></ruby>たりさわったりすることができるもの。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+- word: 温度
+  descriptions:
+  - <ruby><rb>熱</rb><rt>あつ</rt></ruby>さや<ruby><rb>冷</rb><rt>つめ</rt></ruby>たさの<ruby><rb>度合</rb><rt>どあ</rt></ruby>いを<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。
+- word: ゴム
+  descriptions:
+  - <ruby><rb>熱帯地方</rb><rt>ねったいちほう</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>える、ゴムの<ruby><rb>木</rb><rt>き</rt></ruby>のしるで<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。のび<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>みする。タイヤ、ボール、くつの<ruby><rb>底</rb><rt>そこ</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+source_url: http://www3.nhk.or.jp/news/easy/k10011259351000/k10011259351000.html
+web_title_with_ruby: <ruby>世界初<rt>せかいはつ</rt></ruby> <ruby>割<rt>わ</rt></ruby>れてもすぐ<ruby>直<rt>なお</rt></ruby>る<ruby>ガラス<rt>がらす</rt></ruby><ruby>開発<rt>かいはつ</rt></ruby>
+  <ruby>東大<rt>とうだい</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby><ruby>グループ<rt>ぐるーぷ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/15/世界初-割れてもすぐ直るガラス開発-東大の研究グループ
+related_news:
+- title: <ruby>台風<rt>たいふう</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>飛行機<rt>ひこうき</rt></ruby>で<ruby>入<rt>はい</rt></ruby>って<ruby>調<rt>しら</rt></ruby>べた
+  url: https://newswebeasy.github.io/news/easy/2017/10/23/台風の中心に飛行機で入って調べた
+- title: <ruby>空気<rt>くうき</rt></ruby>の<ruby>汚染<rt>おせん</rt></ruby>などが<ruby>原因<rt>げんいん</rt></ruby>で９００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2017/10/23/空気の汚染などが原因で900万人が亡くなる
+- title: <ruby>凍<rt>こお</rt></ruby>った<ruby>土<rt>つち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>から１<ruby>万<rt>まん</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>にいなくなった<ruby>動物<rt>どうぶつ</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかる
+  url: https://newswebeasy.github.io/news/easy/2017/11/17/凍った土の中から1万年前にいなくなった動物が見つかる
+...
