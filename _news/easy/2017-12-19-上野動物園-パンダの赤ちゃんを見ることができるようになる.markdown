@@ -1,0 +1,51 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011263591000
+last_modified_at: '2017-12-19T15:50:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>
+  15<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: １９日、東京都の上野動物園で今年６月に生まれたパンダの赤ちゃん「シャンシャン」を見ることができるようになりました。
+title: 上野動物園　パンダの赤ちゃんを見ることができるようになる
+title_with_ruby: <ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>　パンダの<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>見<rt>み</rt></ruby>ることができるようになる
+outline: １９日、東京都の上野動物園で今年６月に生まれたパンダの赤ちゃん「シャンシャン」を見ることができるようになりました。
+outline_with_ruby: １９<ruby>日<rt>にち</rt></ruby>、<ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>で<ruby>今年<rt>ことし</rt></ruby>６<ruby>月<rt>がつ</rt></ruby>に<ruby>生<rt>う</rt></ruby>まれたパンダの<ruby>赤<rt>あか</rt></ruby>ちゃん「シャンシャン」を<ruby>見<rt>み</rt></ruby>ることができるようになりました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/19/K10011263591_1712191006_1712191007_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/19/k10011263591000.mp3
+content_with_ruby: "<p>１９<ruby>日<rt>にち</rt></ruby>、<ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>で<ruby>今年<rt>ことし</rt></ruby>６<ruby>月<rt>がつ</rt></ruby>に<ruby>生<rt>う</rt></ruby>まれた<span\
+  \ style=\"color: blue;\">パンダ</span>の<ruby>赤<rt>あか</rt></ruby>ちゃん「シャンシャン」を<ruby>見<rt>み</rt></ruby>ることができるようになりました。</p>\n\
+  <p>シャンシャンは<ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>木<rt>き</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>ったり、<span\
+  \ style=\"color: blue;\"><ruby>竹<rt>たけ</rt></ruby></span>をかんだりしていました。お<ruby>母<rt>かあ</rt></ruby>さんの<span\
+  \ style=\"color: blue;\"><ruby>乳<rt>ちち</rt></ruby></span>も<ruby>飲<rt>の</rt></ruby>んでいて、<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちは<ruby>喜<rt>よろこ</rt></ruby>んで<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>っていました。５<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は「かぜをひかないで、<ruby>元気<rt>げんき</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きくなってほしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>来年<rt>らいねん</rt></ruby>１<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまでは１<ruby>日<rt>にち</rt></ruby>に２０００<ruby>人<rt>にん</rt></ruby>ぐらいがシャンシャンを<ruby>見<rt>み</rt></ruby>ることができます。１９<ruby>日<rt>にち</rt></ruby>は４６<ruby>倍<rt>ばい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>み</span>ました。</p>\n\
+  <p>シャンシャンが<ruby>今<rt>いま</rt></ruby><ruby>何<rt>なに</rt></ruby>をしているか、インターネットでも<ruby>見<rt>み</rt></ruby>ることができます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: パンダ
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中央部</rb><rt>ちゅうおうぶ</rt></ruby>にすむけもの。ジャイアントパンダとレッサーパンダがいる。
+  - <ruby><rb>特</rb><rt>とく</rt></ruby>にジャイアントパンダ。<ruby><rb>中国西部</rb><rt>ちゅうごくせいぶ</rt></ruby>の<ruby><rb>山地</rb><rt>さんち</rt></ruby>にすむ。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>に<ruby><rb>色分</rb><rt>いろわ</rt></ruby>けされて、<ruby><rb>顔</rb><rt>かお</rt></ruby>つきや<ruby><rb>動作</rb><rt>どうさ</rt></ruby>がかわいい。
+- word: 竹
+  descriptions:
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>空</rb><rt>から</rt></ruby>の<ruby><rb>茎</rb><rt>くき</rt></ruby>に、<ruby><rb>節</rb><rt>ふし</rt></ruby>のある<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>や、<ruby><rb>細工物</rb><rt>さいくもの</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>芽</rb><rt>め</rt></ruby>を「たけのこ」という。
+- word: 乳
+  descriptions:
+  - <ruby><rb>生</rb><rt>う</rt></ruby>んだ<ruby><rb>子</rb><rt>こ</rt></ruby>に<ruby><rb>飲</rb><rt>の</rt></ruby>ませるために、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>の<ruby><rb>乳房</rb><rt>ちぶさ</rt></ruby>から<ruby><rb>出</rb><rt>で</rt></ruby>る、<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>色</rb><rt>いろ</rt></ruby>のしる。
+  - <ruby><rb>乳房</rb><rt>ちぶさ</rt></ruby>のこと。
+  - <ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>。
+- word: 申し込む
+  descriptions:
+  - <ruby><rb>望</rb><rt>のぞ</rt></ruby>みを、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>申</rb><rt>もう</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011263591000/k10011263591000.html
+web_title_with_ruby: <ruby>シャンシャン<rt>しゃんしゃん</rt></ruby> <ruby>一般<rt>いっぱん</rt></ruby><ruby>公開<rt>こうかい</rt></ruby><ruby>始<rt>はじ</rt></ruby>まる
+  <ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/19/シャンシャン-一般公開始まる-上野動物園
+related_news:
+- title: パンダの「シャンシャン」は１９<ruby>日<rt>にち</rt></ruby>から<ruby>見<rt>み</rt></ruby>ることができる
+  url: https://newswebeasy.github.io/news/easy/2017/12/04/パンダのシャンシャンは19日から見ることができる
+- title: <ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>のパンダのシャンシャンが１０ｋｇ<ruby>以上<rt>いじょう</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2017/11/21/上野動物園のパンダのシャンシャンが10kg以上になる
+- title: <ruby>和歌山県<rt>わかやまけん</rt></ruby>の<ruby>動物園<rt>どうぶつえん</rt></ruby>　３<ruby>匹<rt>びき</rt></ruby>のライオンの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>大<rt>おお</rt></ruby>きくなる
+  url: https://newswebeasy.github.io/news/easy/2017/11/02/和歌山県の動物園-3匹のライオンの赤ちゃんが大きくなる
+...

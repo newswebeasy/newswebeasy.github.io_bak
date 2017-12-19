@@ -1,0 +1,84 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011263621000
+last_modified_at: '2017-12-19T15:50:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>
+  15<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: アメリカで１８日午前８時ごろ、ワシントン州のシアトルからオレゴン州に向かっていた列車が脱線しました。
+title: アメリカで列車が脱線して下の道路に落ちる
+title_with_ruby: アメリカで<ruby>列車<rt>れっしゃ</rt></ruby>が<ruby>脱線<rt>だっせん</rt></ruby>して<ruby>下<rt>した</rt></ruby>の<ruby>道路<rt>どうろ</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちる
+outline: アメリカで１８日午前８時ごろ、ワシントン州のシアトルからオレゴン州に向かっていた列車が脱線しました。
+outline_with_ruby: アメリカで１８<ruby>日<rt>にち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>８<ruby>時<rt>じ</rt></ruby>ごろ、ワシントン<ruby>州<rt>しゅう</rt></ruby>のシアトルからオレゴン<ruby>州<rt>しゅう</rt></ruby>に<ruby>向<rt>む</rt></ruby>かっていた<ruby>列車<rt>れっしゃ</rt></ruby>が<ruby>脱線<rt>だっせん</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/19/K10011263621_1712191034_1712191034_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/19/k10011263621000.mp3
+content_with_ruby: "<p>アメリカで１８<ruby>日<rt>にち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>８<ruby>時<rt>じ</rt></ruby>ごろ、ワシントン<ruby>州<rt>しゅう</rt></ruby>のシアトルからオレゴン<ruby>州<rt>しゅう</rt></ruby>に<ruby>向<rt>む</rt></ruby>かっていた<span\
+  \ style=\"color: blue;\"><ruby>列車<rt>れっしゃ</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>脱線<rt>だっせん</rt></ruby></span>しました。<span style=\"color: blue;\"><ruby>線路<rt>せんろ</rt></ruby></span>の<ruby>下<rt>した</rt></ruby>には<span\
+  \ style=\"color: blue;\"><ruby>道路<rt>どうろ</rt></ruby></span>がありました。</p>\n<p><span\
+  \ style=\"color: blue;\"><ruby>脱線<rt>だっせん</rt></ruby></span>した<span style=\"color:\
+  \ blue;\"><ruby>車両<rt>しゃりょう</rt></ruby></span>が<ruby>下<rt>した</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>道路<rt>どうろ</rt></ruby></span>に<ruby>落<rt>お</rt></ruby>ちて、<ruby>車<rt>くるま</rt></ruby>５<ruby>台<rt>だい</rt></ruby>と<span\
+  \ style=\"color: blue;\">トレーラー</span>２<ruby>台<rt>だい</rt></ruby>に<span style=\"color:\
+  \ blue;\">ぶつかり</span>ました。<ruby>警察<rt>けいさつ</rt></ruby>によると、３<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１００<ruby>人<rt>にん</rt></ruby>が<ruby>病院<rt>びょういん</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>ばれました。</p>\n\
+  <p>この<span style=\"color: blue;\"><ruby>列車<rt>れっしゃ</rt></ruby></span>には、<ruby>客<rt>きゃく</rt></ruby>が７７<ruby>人<rt>にん</rt></ruby>と<span\
+  \ style=\"color: blue;\"><ruby>乗員<rt>じょういん</rt></ruby></span>が７<ruby>人<rt>にん</rt></ruby><ruby>乗<rt>の</rt></ruby>っていました。<ruby>乗<rt>の</rt></ruby>っていた<ruby>男性<rt>だんせい</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>列車<rt>れっしゃ</rt></ruby></span>が<span style=\"color:\
+  \ blue;\">カーブ</span>に<ruby>入<rt>はい</rt></ruby>ったとき<span style=\"color: blue;\"><ruby>急<rt>きゅう</rt></ruby>に</span><ruby>揺<rt>ゆ</rt></ruby>れて、<ruby>体<rt>からだ</rt></ruby>がとんで<ruby>前<rt>まえ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>に<span\
+  \ style=\"color: blue;\">ぶつかり</span>ました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>ワシントン<ruby>州<rt>しゅう</rt></ruby>によると、<span style=\"color: blue;\"><ruby>列車<rt>れっしゃ</rt></ruby></span>が<span\
+  \ style=\"color: blue;\"><ruby>脱線<rt>だっせん</rt></ruby></span>した<ruby>所<rt>ところ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しくできた<span\
+  \ style=\"color: blue;\"><ruby>線路<rt>せんろ</rt></ruby></span>でした。</p>\n<p></p>\n<p></p>"
+words:
+- word: 列車
+  descriptions:
+  - <ruby><rb>何台</rb><rt>なんだい</rt></ruby>もつながっている、<ruby><rb>客車</rb><rt>きゃくしゃ</rt></ruby>や<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>。
+- word: 脱線
+  descriptions:
+  - <ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>などが、<ruby><rb>線路</rb><rt>せんろ</rt></ruby>から<ruby><rb>外</rb><rt>はず</rt></ruby>れること。
+  - <ruby><rb>話</rb><rt>はなし</rt></ruby>や<ruby><rb>行動</rb><rt>こうどう</rt></ruby>が<ruby><rb>横道</rb><rt>よこみち</rt></ruby>へそれること。
+- word: 道路
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>車</rb><rt>くるま</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道</rb><rt>みち</rt></ruby>。<ruby><rb>通</rb><rt>とお</rt></ruby>り<ruby><rb>道</rb><rt>みち</rt></ruby>。
+- word: 線路
+  descriptions:
+  - <ruby><rb>汽車</rb><rt>きしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道筋</rb><rt>みちすじ</rt></ruby>。レール。
+- word: 車両
+  descriptions:
+  - <ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>・<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>などのこと。また、その<ruby><rb>一台</rb><rt>いちだい</rt></ruby><ruby><rb>一台</rb><rt>いちだい</rt></ruby>。
+- word: トレーラー
+  descriptions:
+  - エンジンがなく、<ruby><rb>他</rb><rt>た</rt></ruby>の<ruby><rb>車</rb><rt>くるま</rt></ruby>に<ruby><rb>引</rb><rt>ひ</rt></ruby>かれる<ruby><rb>形</rb><rt>かたち</rt></ruby>で<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>車</rb><rt>くるま</rt></ruby>。
+- word: ぶつかる
+  descriptions:
+  - <ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。
+  - <ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。
+  - <ruby><rb>重</rb><rt>かさ</rt></ruby>なる。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 乗員
+  descriptions:
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>・<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>・<ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>などに<ruby><rb>乗</rb><rt>の</rt></ruby>りこんで、<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>乗務員</rb><rt>じょうむいん</rt></ruby>。
+- word: カーブ
+  descriptions:
+  - <ruby><rb>曲</rb><rt>ま</rt></ruby>がること。また、<ruby><rb>曲</rb><rt>ま</rt></ruby>がっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>投手</rb><rt>とうしゅ</rt></ruby>の<ruby><rb>投</rb><rt>な</rt></ruby>げる<ruby><rb>球</rb><rt>たま</rt></ruby>が<ruby><rb>打者</rb><rt>だしゃ</rt></ruby>の<ruby><rb>近</rb><rt>ちか</rt></ruby>くで<ruby><rb>曲</rb><rt>ま</rt></ruby>がること。また、その<ruby><rb>球</rb><rt>たま</rt></ruby>。
+- word: 急に
+  descriptions:
+  - とつぜん。にわかに。
+source_url: http://www3.nhk.or.jp/news/easy/k10011263621000/k10011263621000.html
+web_title_with_ruby: <ruby>米<rt>べい</rt></ruby> <ruby>列車<rt>れっしゃ</rt></ruby><ruby>脱線<rt>だっせん</rt></ruby>
+  3<ruby>人<rt>にん</rt></ruby><ruby>死亡<rt>しぼう</rt></ruby> <ruby>約<rt>やく</rt></ruby>100<ruby>人<rt>にん</rt></ruby>けが
+  <ruby>区間<rt>くかん</rt></ruby>は<ruby>運用<rt>うんよう</rt></ruby><ruby>始<rt>はじ</rt></ruby>まったばかり
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/19/米-列車脱線-3人死亡-約100人けが-区間は運用始まったばかり
+related_news:
+- title: ニューヨーク　<ruby>車<rt>くるま</rt></ruby>が<ruby>自転車<rt>じてんしゃ</rt></ruby>などをはねて８<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2017/11/01/ニューヨーク-車が自転車などをはねて8人が亡くなる
+- title: <ruby>飛<rt>と</rt></ruby>んでいる<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>が<ruby>走<rt>はし</rt></ruby>っている<ruby>車<rt>くるま</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちてきた
+  url: https://newswebeasy.github.io/news/easy/2017/09/25/飛んでいる飛行機の一部が走っている車に落ちてきた
+...
