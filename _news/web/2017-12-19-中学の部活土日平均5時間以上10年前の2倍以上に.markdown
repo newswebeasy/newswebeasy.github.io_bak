@@ -1,0 +1,90 @@
+---
+layout: web_news
+categories: web
+newsid: k10011263171000
+title: 中学の部活「土日平均５時間以上」１０年前の２倍以上に
+title_with_ruby: <ruby>中学<rt data-ruby-level="1">ちゅうがく</rt></ruby>の<ruby>部活<rt data-ruby-level="3">ぶかつ</rt></ruby>「<ruby>土日<rt
+  data-ruby-level="1">どにち</rt></ruby><ruby>平均<rt data-ruby-level="5">へいきん</rt></ruby>５<ruby>時間<rt
+  data-ruby-level="2">じかん</rt></ruby><ruby>以上<rt data-ruby-level="4">いじょう</rt></ruby>」１０<ruby>年前<rt
+  data-ruby-level="2">ねんまえ</rt></ruby>の２<ruby>倍以上<rt data-ruby-level="4">ばいいじょう</rt></ruby>に
+last_modified_at: '2017-12-19T05:03:00+09:00'
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>12<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>19<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 05<ruby>時<rt data-ruby-level="2">じ</rt></ruby>03<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 教員の部活動への負担が問題となる中、文部科学省が中学校の部活動の時間について調査した結果、土日の平均の活動時間が５時間以上の教員が１０年前より２倍以上に増えていることがわかりました。文部科学省は「教員の負担を減らすため、早急に対策を検討したい」としています。
+summary: <ruby>教員<rt data-ruby-level="3">きょういん</rt></ruby>の<ruby>部活動<rt data-ruby-level="3">ぶかつどう</rt></ruby>への<ruby>負担<rt
+  data-ruby-level="6">ふたん</rt></ruby>が<ruby>問題<rt data-ruby-level="3">もんだい</rt></ruby>となる<ruby>中<rt
+  data-ruby-level="1">なか</rt></ruby>、<ruby>文部科学省<rt data-ruby-level="4">もんぶかがくしょう</rt></ruby>が<ruby>中学校<rt
+  data-ruby-level="1">ちゅうがっこう</rt></ruby>の<ruby>部活動<rt data-ruby-level="3">ぶかつどう</rt></ruby>の<ruby>時間<rt
+  data-ruby-level="2">じかん</rt></ruby>について<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby>した<ruby>結果<rt
+  data-ruby-level="4">けっか</rt></ruby>、<ruby>土日<rt data-ruby-level="1">どにち</rt></ruby>の<ruby>平均<rt
+  data-ruby-level="5">へいきん</rt></ruby>の<ruby>活動<rt data-ruby-level="3">かつどう</rt></ruby><ruby>時間<rt
+  data-ruby-level="2">じかん</rt></ruby>が５<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby><ruby>以上<rt
+  data-ruby-level="4">いじょう</rt></ruby>の<ruby>教員<rt data-ruby-level="3">きょういん</rt></ruby>が１０<ruby>年<rt
+  data-ruby-level="1">ねん</rt></ruby><ruby>前<rt data-ruby-level="2">まえ</rt></ruby>より２<ruby>倍以上<rt
+  data-ruby-level="4">ばいいじょう</rt></ruby>に<ruby>増<rt data-ruby-level="5">ふ</rt></ruby>えていることがわかりました。<ruby>文部科学省<rt
+  data-ruby-level="4">もんぶかがくしょう</rt></ruby>は「<ruby>教員<rt data-ruby-level="3">きょういん</rt></ruby>の<ruby>負担<rt
+  data-ruby-level="6">ふたん</rt></ruby>を<ruby>減<rt data-ruby-level="5">へ</rt></ruby>らすため、<ruby>早急<rt
+  data-ruby-level="7">さっきゅう</rt></ruby>に<ruby>対策<rt data-ruby-level="6">たいさく</rt></ruby>を<ruby>検討<rt
+  data-ruby-level="6">けんとう</rt></ruby>したい」としています。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/19/K10011263171_1712182131_1712190503_01_02.jpg
+more: この<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby>は、<ruby>教員<rt data-ruby-level="3">きょういん</rt></ruby>の<ruby>部活動<rt
+  data-ruby-level="3">ぶかつどう</rt></ruby>の<ruby>負担<rt data-ruby-level="6">ふたん</rt></ruby>が<ruby>増<rt
+  data-ruby-level="5">ま</rt></ruby>しているという<ruby>声<rt data-ruby-level="2">こえ</rt></ruby>を<ruby>受<rt
+  data-ruby-level="3">う</rt></ruby>けて、<ruby>文部科学省<rt data-ruby-level="4">もんぶかがくしょう</rt></ruby>が１０<ruby>年<rt
+  data-ruby-level="1">ねん</rt></ruby>ぶりに<ruby>実施<rt data-ruby-level="7">じっし</rt></ruby>し、<ruby>中学校<rt
+  data-ruby-level="1">ちゅうがっこう</rt></ruby>で<ruby>運動部<rt data-ruby-level="3">うんどうぶ</rt></ruby>の<ruby>顧問<rt
+  data-ruby-level="7">こもん</rt></ruby>をしているおよそ５３００<ruby>人<rt data-ruby-level="1">にん</rt></ruby>の<ruby>教員<rt
+  data-ruby-level="3">きょういん</rt></ruby>が<ruby>回答<rt data-ruby-level="2">かいとう</rt></ruby>しました。<br
+  /><br />このうち、<ruby>土日<rt data-ruby-level="1">どにち</rt></ruby>の<ruby>部活動<rt data-ruby-level="3">ぶかつどう</rt></ruby>の<ruby>平均<rt
+  data-ruby-level="5">へいきん</rt></ruby><ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>が２<ruby>時間<rt
+  data-ruby-level="2">じかん</rt></ruby>から３<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby><ruby>未満<rt
+  data-ruby-level="4">みまん</rt></ruby>に<ruby>上<rt data-ruby-level="1">のぼ</rt></ruby>ると<ruby>答<rt
+  data-ruby-level="2">こた</rt></ruby>えた<ruby>教員<rt data-ruby-level="3">きょういん</rt></ruby>は１５．９％で、<ruby>前回<rt
+  data-ruby-level="2">ぜんかい</rt></ruby>の１０<ruby>年<rt data-ruby-level="1">ねん</rt></ruby><ruby>前<rt
+  data-ruby-level="2">まえ</rt></ruby>より４．３ポイント<ruby>増<rt data-ruby-level="5">ふ</rt></ruby>えました。<br
+  /><br />さらに、５<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby><ruby>以上<rt data-ruby-level="4">いじょう</rt></ruby><ruby>活動<rt
+  data-ruby-level="3">かつどう</rt></ruby>していると<ruby>答<rt data-ruby-level="2">こた</rt></ruby>えた<ruby>教員<rt
+  data-ruby-level="3">きょういん</rt></ruby>は２４．４％で、<ruby>前回<rt data-ruby-level="2">ぜんかい</rt></ruby>より１３．３ポイント<ruby>増<rt
+  data-ruby-level="5">ふ</rt></ruby>えるなど、<ruby>部活動<rt data-ruby-level="3">ぶかつどう</rt></ruby>の<ruby>時間<rt
+  data-ruby-level="2">じかん</rt></ruby>が<ruby>長期化<rt data-ruby-level="3">ちょうきか</rt></ruby>している<ruby>実態<rt
+  data-ruby-level="5">じったい</rt></ruby>が<ruby>明<rt data-ruby-level="2">あき</rt></ruby>らかになりました。<br
+  /><br /><ruby>文部科学省<rt data-ruby-level="4">もんぶかがくしょう</rt></ruby>は、<ruby>土日<rt data-ruby-level="1">どにち</rt></ruby>の<ruby>部活動<rt
+  data-ruby-level="3">ぶかつどう</rt></ruby>は３<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>から４<ruby>時間<rt
+  data-ruby-level="2">じかん</rt></ruby><ruby>程度<rt data-ruby-level="5">ていど</rt></ruby>で<ruby>終<rt
+  data-ruby-level="3">お</rt></ruby>えるよう<ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby>の<ruby>学校<rt
+  data-ruby-level="1">がっこう</rt></ruby>に<ruby>通知<rt data-ruby-level="2">つうち</rt></ruby>していて、<ruby>今回<rt
+  data-ruby-level="2">こんかい</rt></ruby>の<ruby>結果<rt data-ruby-level="4">けっか</rt></ruby>について「<ruby>教員<rt
+  data-ruby-level="3">きょういん</rt></ruby>にかかる<ruby>負担<rt data-ruby-level="6">ふたん</rt></ruby>を<ruby>減<rt
+  data-ruby-level="5">へ</rt></ruby>らすため、<ruby>外部<rt data-ruby-level="3">がいぶ</rt></ruby>の<ruby>人材<rt
+  data-ruby-level="4">じんざい</rt></ruby>を<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>するなど<ruby>早急<rt
+  data-ruby-level="7">さっきゅう</rt></ruby>に<ruby>対策<rt data-ruby-level="6">たいさく</rt></ruby>を<ruby>取<rt
+  data-ruby-level="3">と</rt></ruby>りまとめたい」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>しています。
+source_url: https://www3.nhk.or.jp/news/html/20171219/k10011263171000.html
+easy_title_with_ruby: <ruby>中学校<rt data-ruby-level="1">ちゅうがっこう</rt></ruby>の<ruby>部活動<rt
+  data-ruby-level="3">ぶかつどう</rt></ruby>の<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>
+  １０<ruby>年<rt data-ruby-level="1">ねん</rt></ruby><ruby>前<rt data-ruby-level="2">まえ</rt></ruby>より<ruby>長<rt
+  data-ruby-level="2">なが</rt></ruby>くなる
+easy_news_url: https://newswebeasy.github.io/news/easy/2017/12/20/中学校の部活動の時間-10年前より長くなる
+related_news:
+- title: <ruby>日本人<rt data-ruby-level="1">にほんじん</rt></ruby>は<ruby>ノーベル<rt data-ruby-level="4">のーべる</rt></ruby><ruby>賞<rt
+    data-ruby-level="4">しょう</rt></ruby>を<ruby>取<rt data-ruby-level="3">と</rt></ruby>れなくなる？
+    <ruby>過去<rt data-ruby-level="5">かこ</rt></ruby>の<ruby>受賞者<rt data-ruby-level="4">じゅしょうしゃ</rt></ruby>が<ruby>懸念<rt
+    data-ruby-level="7">けねん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/09/23/日本人はノーベル賞を取れなくなる-過去の受賞者が懸念
+- title: <ruby>母子家庭<rt data-ruby-level="3">ぼしかてい</rt></ruby>の<ruby>平均<rt data-ruby-level="5">へいきん</rt></ruby><ruby>年収<rt
+    data-ruby-level="6">ねんしゅう</rt></ruby>350<ruby>万<rt data-ruby-level="2">まん</rt></ruby><ruby>円<rt
+    data-ruby-level="1">えん</rt></ruby> <ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもいる<ruby>全世帯<rt
+    data-ruby-level="4">ぜんせたい</rt></ruby><ruby>平均<rt data-ruby-level="5">へいきん</rt></ruby>の<ruby>半分<rt
+    data-ruby-level="2">はんぶん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/16/母子家庭の平均年収350万円-子どもいる全世帯平均の半分
+- title: <ruby>国際<rt data-ruby-level="5">こくさい</rt></ruby><ruby>学力<rt data-ruby-level="1">がくりょく</rt></ruby><ruby>調査<rt
+    data-ruby-level="5">ちょうさ</rt></ruby> <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>は２<ruby>位<rt
+    data-ruby-level="4">い</rt></ruby> 「<ruby>協同<rt data-ruby-level="4">きょうどう</rt></ruby>して<ruby>問題<rt
+    data-ruby-level="3">もんだい</rt></ruby><ruby>解決<rt data-ruby-level="5">かいけつ</rt></ruby>する<ruby>力<rt
+    data-ruby-level="1">ちから</rt></ruby>」
+  url: https://newswebeasy.github.io/news/web/2017/11/21/国際学力調査-日本は2位-協同して問題解決する力
+- title: あなたのお<ruby>子<rt data-ruby-level="1">こ</rt></ruby>さんはどのくらい<ruby>習<rt data-ruby-level="3">なら</rt></ruby>い<ruby>事<rt
+    data-ruby-level="3">ごと</rt></ruby>をしていますか？
+  url: https://newswebeasy.github.io/news/web/2017/10/31/あなたのお子さんはどのくらい習い事をしていますか
+...

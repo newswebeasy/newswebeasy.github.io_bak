@@ -1,0 +1,67 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011263171000
+last_modified_at: '2017-12-20T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 文部科学省は、授業のあとに行う部活動の時間について調べました。
+title: 中学校の部活動の時間　１０年前より長くなる
+title_with_ruby: <ruby>中学校<rt>ちゅうがっこう</rt></ruby>の<ruby>部活動<rt>ぶかつどう</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>　１０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>より<ruby>長<rt>なが</rt></ruby>くなる
+outline: 文部科学省は、授業のあとに行う部活動の時間について調べました。
+outline_with_ruby: <ruby>文部科学省<rt>もんぶかがくしょう</rt></ruby>は、<ruby>授業<rt>じゅぎょう</rt></ruby>のあとに<ruby>行<rt>おこな</rt></ruby>う<ruby>部活動<rt>ぶかつどう</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>について<ruby>調<rt>しら</rt></ruby>べました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/19/K10011263171_1712182131_1712190503_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/20/k10011263171000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>文部科学省<rt>もんぶかがくしょう</rt></ruby></span>は、<ruby>授業<rt>じゅぎょう</rt></ruby>のあとに<ruby>行<rt>おこな</rt></ruby>う<span\
+  \ style=\"color: blue;\"><ruby>部活動<rt>ぶかつどう</rt></ruby></span>の<ruby>時間<rt>じかん</rt></ruby>について<ruby>調<rt>しら</rt></ruby>べました。<ruby>中学校<rt>ちゅうがっこう</rt></ruby>で<ruby>運動<rt>うんどう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>部活動<rt>ぶかつどう</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>担当<rt>たんとう</rt></ruby></span>している<span style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>５３００<ruby>人<rt>にん</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>が<ruby>答<rt>こた</rt></ruby>えました。</p>\n\
+  <p>その<span style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>、<ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>部活動<rt>ぶかつどう</rt></ruby></span>の<ruby>時間<rt>じかん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>で２<ruby>時間<rt>じかん</rt></ruby>から３<ruby>時間<rt>じかん</rt></ruby>と<ruby>答<rt>こた</rt></ruby>えた<ruby>先生<rt>せんせい</rt></ruby>は１５．９％でした。１０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>より４．３<span\
+  \ style=\"color: blue;\">ポイント</span><ruby>増<rt>ふ</rt></ruby>えました。５<ruby>時間<rt>じかん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>と<ruby>答<rt>こた</rt></ruby>えた<ruby>先生<rt>せんせい</rt></ruby>は２４．４％でした。１０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>より１３．３<span\
+  \ style=\"color: blue;\">ポイント</span><ruby>増<rt>ふ</rt></ruby>えました。<ruby>調<rt>しら</rt></ruby>べた<span\
+  \ style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>、<span style=\"color:\
+  \ blue;\"><ruby>部活動<rt>ぶかつどう</rt></ruby></span>の<ruby>時間<rt>じかん</rt></ruby>が<ruby>長<rt>なが</rt></ruby>くなっていることがわかりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>文部科学省<rt>もんぶかがくしょう</rt></ruby></span>は<ruby>学校<rt>がっこう</rt></ruby>に、<ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>部活動<rt>ぶかつどう</rt></ruby></span>の<ruby>時間<rt>じかん</rt></ruby>は３<ruby>時間<rt>じかん</rt></ruby>から４<ruby>時間<rt>じかん</rt></ruby>ぐらいにするように<ruby>言<rt>い</rt></ruby>っています。<span\
+  \ style=\"color: blue;\"><ruby>文部科学省<rt>もんぶかがくしょう</rt></ruby></span>は「<ruby>先生<rt>せんせい</rt></ruby><ruby>以外<rt>いがい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>部活動<rt>ぶかつどう</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>担当<rt>たんとう</rt></ruby></span>してもらったりして、<ruby>先生<rt>せんせい</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>少<rt>すく</rt></ruby>なくしたいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 部活
+  descriptions:
+  - <ruby><rb>学校</rb><rt>がっこう</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>うクラブ<ruby><rb>活動</rb><rt>かつどう</rt></ruby>。
+- word: 文部科学省
+  descriptions:
+  - <ruby><rb>教育</rb><rt>きょういく</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>についての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や<ruby><rb>科学技術</rb><rt>かがくぎじゅつ</rt></ruby>を<ruby><rb>発展</rb><rt>はってん</rt></ruby>させる<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>文科省</rb><rt>もんかしょう</rt></ruby>。
+- word: 担当
+  descriptions:
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>や<ruby><rb>役目</rb><rt>やくめ</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>つこと。また、<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+- word: ポイント
+  descriptions:
+  - <ruby><rb>点</rb><rt>てん</rt></ruby>。<ruby><rb>要点</rb><rt>ようてん</rt></ruby>。
+  - <ruby><rb>得点</rb><rt>とくてん</rt></ruby>。<ruby><rb>点数</rb><rt>てんすう</rt></ruby>。
+  - <ruby><rb>線路</rb><rt>せんろ</rt></ruby>の<ruby><rb>分</rb><rt>わ</rt></ruby>かれ<ruby><rb>目</rb><rt>め</rt></ruby>で、<ruby><rb>車両</rb><rt>しゃりょう</rt></ruby>を<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れかえる<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>転</rb><rt>てん</rt></ruby>てつ<ruby><rb>機</rb><rt>き</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011263171000/k10011263171000.html
+web_title_with_ruby: <ruby>中学<rt>ちゅうがく</rt></ruby>の<ruby>部活<rt>ぶかつ</rt></ruby>「<ruby>土日<rt>どにち</rt></ruby><ruby>平均<rt>へいきん</rt></ruby>５<ruby>時間<rt>じかん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>」１０<ruby>年前<rt>ねんまえ</rt></ruby>の２<ruby>倍以上<rt>ばいいじょう</rt></ruby>に
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/19/中学の部活土日平均5時間以上10年前の2倍以上に
+related_news:
+- title: 「みんなで<ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>する<ruby>力<rt>ちから</rt></ruby>」<ruby>日本<rt>にっぽん</rt></ruby>の１５<ruby>歳<rt>さい</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>で２<ruby>番<rt>ばん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/11/24/みんなで問題を解決する力日本の15歳は世界で2番
+- title: クリーニングの<ruby>店<rt>みせ</rt></ruby>　２５<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>客<rt>きゃく</rt></ruby>が<ruby>取<rt>と</rt></ruby>りに<ruby>来<rt>こ</rt></ruby>ない<ruby>服<rt>ふく</rt></ruby>もある
+  url: https://newswebeasy.github.io/news/easy/2017/09/21/クリーニングの店-25年以上客が取りに来ない服もある
+...

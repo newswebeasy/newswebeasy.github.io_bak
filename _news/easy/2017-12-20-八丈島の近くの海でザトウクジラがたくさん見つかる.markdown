@@ -1,0 +1,58 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011264271000
+last_modified_at: '2017-12-20T16:40:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ふん</rt></ruby>
+description: 東京から南に約２９０ｋｍの所にある八丈島の近くには、おととしからザトウクジラという鯨がたくさん集まるようになりました。
+title: 八丈島の近くの海でザトウクジラがたくさん見つかる
+title_with_ruby: <ruby>八丈島<rt>はちじょうじま</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>海<rt>うみ</rt></ruby>でザトウクジラがたくさん<ruby>見<rt>み</rt></ruby>つかる
+outline: 東京から南に約２９０ｋｍの所にある八丈島の近くには、おととしからザトウクジラという鯨がたくさん集まるようになりました。
+outline_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>から<ruby>南<rt>みなみ</rt></ruby>に<ruby>約<rt>やく</rt></ruby>２９０ｋｍの<ruby>所<rt>ところ</rt></ruby>にある<ruby>八丈島<rt>はちじょうじま</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くには、おととしからザトウクジラという<ruby>鯨<rt>くじら</rt></ruby>がたくさん<ruby>集<rt>あつ</rt></ruby>まるようになりました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/19/K10011264271_1712191804_1712191816_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/20/k10011264271000.mp3
+content_with_ruby: "<p><ruby>東京<rt>とうきょう</rt></ruby>から<ruby>南<rt>みなみ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>２９０ｋｍの<ruby>所<rt>ところ</rt></ruby>にある<ruby>八丈島<rt>はちじょうじま</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くには、おととしからザトウクジラという<span\
+  \ style=\"color: blue;\"><ruby>鯨<rt>くじら</rt></ruby></span>がたくさん<ruby>集<rt>あつ</rt></ruby>まるようになりました。<ruby>今月<rt>こんげつ</rt></ruby>も、<span\
+  \ style=\"color: blue;\"><ruby>息<rt>いき</rt></ruby></span>をするための「<ruby>潮吹<rt>しおふ</rt></ruby>き」をしながら<ruby>泳<rt>およ</rt></ruby>ぐ<span\
+  \ style=\"color: blue;\"><ruby>鯨<rt>くじら</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>ることができました。</p>\n\
+  <p><ruby>八丈町<rt>はちじょうまち</rt></ruby>は、<ruby>東京海洋大学<rt>とうきょうかいようだいがく</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にザトウクジラについて<ruby>調<rt>しら</rt></ruby>べていて、１９<ruby>日<rt>にち</rt></ruby>、<ruby>今<rt>いま</rt></ruby>までに<ruby>調<rt>しら</rt></ruby>べた<span\
+  \ style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>する<ruby>会<rt>かい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>きました。<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>によると、ザトウクジラは、<ruby>八丈島<rt>はちじょうじま</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りの<ruby>水<rt>みず</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>さが２００ｍより<ruby>浅<rt>あさ</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>でたくさん<ruby>見<rt>み</rt></ruby>つかっています。<ruby>海<rt>うみ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>温度<rt>おんど</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>くなると、ザトウクジラが<ruby>増<rt>ふ</rt></ruby>えることもわかりました。</p>\n\
+  <p><ruby>町<rt>まち</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>仕事<rt>しごと</rt></ruby>の<ruby>休<rt>やす</rt></ruby>み<ruby>時間<rt>じかん</rt></ruby>に<ruby>海<rt>うみ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>楽<rt>たの</rt></ruby>しみができました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 鯨
+  descriptions:
+  - <ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>大形</rb><rt>おおがた</rt></ruby>の<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。シロナガスクジラ・マッコウクジラ・セミクジラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>哺乳類</rb><rt>ほにゅうるい</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>は<ruby><rb>乳</rb><rt>ちち</rt></ruby>を<ruby><rb>飲</rb><rt>の</rt></ruby>んで<ruby><rb>育</rb><rt>そだ</rt></ruby>つ。
+- word: 息
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>が<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>るために、<ruby><rb>空気</rb><rt>くうき</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>ったり、はいたりすること。また、その<ruby><rb>空気</rb><rt>くうき</rt></ruby>。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 温度
+  descriptions:
+  - <ruby><rb>熱</rb><rt>あつ</rt></ruby>さや<ruby><rb>冷</rb><rt>つめ</rt></ruby>たさの<ruby><rb>度合</rb><rt>どあ</rt></ruby>いを<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。
+source_url: http://www3.nhk.or.jp/news/easy/k10011264271000/k10011264271000.html
+web_title_with_ruby: <ruby>八丈島<rt>はちじょうじま</rt></ruby>で<ruby>ザトウクジラ<rt>ざとうくじら</rt></ruby>の<ruby>調査<rt>ちょうさ</rt></ruby><ruby>報告会<rt>ほうこくかい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/19/八丈島でザトウクジラの調査報告会
+related_news:
+- title: <ruby>世界<rt>せかい</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby>で<ruby>酸性<rt>さんせい</rt></ruby>になっている
+  url: https://newswebeasy.github.io/news/easy/2017/12/05/世界の海の水が二酸化炭素で酸性になっている
+- title: パンダの「シャンシャン」は１９<ruby>日<rt>にち</rt></ruby>から<ruby>見<rt>み</rt></ruby>ることができる
+  url: https://newswebeasy.github.io/news/easy/2017/12/04/パンダのシャンシャンは19日から見ることができる
+- title: <ruby>東京<rt>とうきょう</rt></ruby>オリンピックで<ruby>水泳<rt>すいえい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>海<rt>うみ</rt></ruby>　<ruby>大腸菌<rt>だいちょうきん</rt></ruby>などが<ruby>多<rt>おお</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2017/10/05/東京オリンピックで水泳を行う海-大腸菌などが多い
+...
