@@ -1,0 +1,74 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011265301000
+last_modified_at: '2017-12-21T17:40:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ふん</rt></ruby>
+description: 東京都は築地市場が古くなったため、豊洲に新しい市場を作りました。
+title: 東京の豊洲市場　来年１０月１１日にオープンすると決まる
+title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>豊洲市場<rt>とよすしじょう</rt></ruby>　<ruby>来年<rt>らいねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>１１<ruby>日<rt>にち</rt></ruby>にオープンすると<ruby>決<rt>き</rt></ruby>まる
+outline: 東京都は築地市場が古くなったため、豊洲に新しい市場を作りました。
+outline_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby>は<ruby>築地市場<rt>つきじしじょう</rt></ruby>が<ruby>古<rt>ふる</rt></ruby>くなったため、<ruby>豊洲<rt>とよす</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>市場<rt>しじょう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/20/K10011265301_1712201343_1712201351_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/21/k10011265301000.mp3
+content_with_ruby: "<p><ruby>東京都<rt>とうきょうと</rt></ruby>は<ruby>築地市場<rt>つきじしじょう</rt></ruby>が<ruby>古<rt>ふる</rt></ruby>くなったため、<ruby>豊洲<rt>とよす</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>市場<rt>しじょう</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>りました。しかし、<ruby>豊洲市場<rt>とよすしじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>地下<rt>ちか</rt></ruby></span>から<ruby>体<rt>からだ</rt></ruby>に<ruby>悪<rt>わる</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>物質<rt>ぶっしつ</rt></ruby></span>が<ruby>見<rt>み</rt></ruby>つかったため、<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>市場<rt>しじょう</rt></ruby></span>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>すことができなくなっていました。</p>\n\
+  <p><ruby>２０日<rt>はつか</rt></ruby>、<ruby>東京都<rt>とうきょうと</rt></ruby>と<span style=\"color:\
+  \ blue;\"><ruby>市場<rt>しじょう</rt></ruby></span>で<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>たちが<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>きました。<ruby>東京都<rt>とうきょうと</rt></ruby>は<ruby>豊洲市場<rt>とよすしじょう</rt></ruby>を<ruby>安全<rt>あんぜん</rt></ruby>にするための<span\
+  \ style=\"color: blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>を<ruby>来年<rt>らいねん</rt></ruby>７<ruby>月<rt>がつ</rt></ruby>までに<ruby>終<rt>お</rt></ruby>わらせると<ruby>言<rt>い</rt></ruby>いました。そして、<ruby>豊洲市場<rt>とよすしじょう</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>１１<ruby>日<rt>にち</rt></ruby>に<span\
+  \ style=\"color: blue;\">オープン</span>すると<ruby>決<rt>き</rt></ruby>まりました。</p>\n<p><ruby>築地市場協会<rt>つきじしじょうきょうかい</rt></ruby>の<ruby>伊藤<rt>いとう</rt></ruby><ruby>裕康<rt>ひろやす</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>会長<rt>かいちょう</rt></ruby></span>は「<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>がかかりましたが、みんなで<ruby>意見<rt>いけん</rt></ruby>を<span\
+  \ style=\"color: blue;\">まとめ</span>て、<span style=\"color: blue;\">オープン</span>の<ruby>日<rt>ひ</rt></ruby>を<ruby>決<rt>き</rt></ruby>めることができてよかったです」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p><ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>小池<rt>こいけ</rt></ruby><span style=\"color:\
+  \ blue;\"><ruby>知事<rt>ちじ</rt></ruby></span>は「<ruby>専門家<rt>せんもんか</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>確認<rt>かくにん</rt></ruby></span>してもらったときに、<ruby>私<rt>わたし</rt></ruby>からみなさんに<ruby>安全<rt>あんぜん</rt></ruby>で<ruby>安心<rt>あんしん</rt></ruby>できる<ruby>豊洲市場<rt>とよすしじょう</rt></ruby>になったとお<ruby>伝<rt>つた</rt></ruby>えします」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: オープン
+  descriptions:
+  - <ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。
+  - かくしだてをしないようす。
+  - おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。
+- word: 市場
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などを、<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時</rb><rt>とき</rt></ruby>にせり<ruby><rb>売</rb><rt>う</rt></ruby>りする<ruby><rb>所</rb><rt>ところ</rt></ruby>。いちば。
+  - ものを<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>買</rb><rt>か</rt></ruby>いする<ruby><rb>範囲</rb><rt>はんい</rt></ruby>。マーケット。
+  - <ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>手</rb><rt>て</rt></ruby>と<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>で<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>引</rb><rt>ひ</rt></ruby>きを<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 地下
+  descriptions:
+  - <ruby><rb>地面</rb><rt>じめん</rt></ruby>の<ruby><rb>下</rb><rt>した</rt></ruby>。<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>。
+  - <ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>世</rb><rt>よ</rt></ruby>。あの<ruby><rb>世</rb><rt>よ</rt></ruby>。
+  - <ruby><rb>秘密</rb><rt>ひみつ</rt></ruby>の<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: 物質
+  descriptions:
+  - <ruby><rb>見</rb><rt>み</rt></ruby>たりさわったりすることができるもの。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+- word: 工事
+  descriptions:
+  - <ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。
+- word: 会長
+  descriptions:
+  - <ruby><rb>会</rb><rt>かい</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: まとめる
+  descriptions:
+  - ばらばらだったものを<ruby><rb>一</rb><rt>ひと</rt></ruby>つにする。
+  - うまく<ruby><rb>解決</rb><rt>かいけつ</rt></ruby>する。
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つのものとして、きちんと<ruby><rb>仕上</rb><rt>しあ</rt></ruby>げる。
+- word: 知事
+  descriptions:
+  - <ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 確認
+  descriptions:
+  - <ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>確</rb><rt>たし</rt></ruby>かめること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011265301000/k10011265301000.html
+web_title_with_ruby: <ruby>豊洲<rt>とよす</rt></ruby><ruby>市場<rt>しじょう</rt></ruby> <ruby>来年<rt>らいねん</rt></ruby>10<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby><ruby>オープン<rt>おーぷん</rt></ruby>
+  <ruby>決定<rt>けってい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/20/豊洲市場-来年10月11日オープン-決定
+related_news:
+- title: <ruby>兵庫県<rt>ひょうごけん</rt></ruby><ruby>明石市<rt>あかしし</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>火事<rt>かじ</rt></ruby>　<ruby>店<rt>みせ</rt></ruby>や<ruby>家<rt>いえ</rt></ruby>が３０<ruby>以上<rt>いじょう</rt></ruby><ruby>焼<rt>や</rt></ruby>ける
+  url: https://newswebeasy.github.io/news/easy/2017/10/26/兵庫県明石市で大きな火事-店や家が30以上焼ける
+...

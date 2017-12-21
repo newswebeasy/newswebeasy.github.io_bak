@@ -1,0 +1,59 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011263901000
+last_modified_at: '2017-12-21T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 「のとてまり」は、石川県の奥能登で作っている高級なしいたけです。
+title: 石川県　しいたけが６個で１７万円になる
+title_with_ruby: <ruby>石川県<rt>いしかわけん</rt></ruby>　しいたけが６<ruby>個<rt>こ</rt></ruby>で１７<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>になる
+outline: 「のとてまり」は、石川県の奥能登で作っている高級なしいたけです。
+outline_with_ruby: 「のとてまり」は、<ruby>石川県<rt>いしかわけん</rt></ruby>の<ruby>奥能登<rt>おくのと</rt></ruby>で<ruby>作<rt>つく</rt></ruby>っている<ruby>高級<rt>こうきゅう</rt></ruby>なしいたけです。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/19/K10011263901_1712191356_1712191357_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/21/k10011263901000.mp3
+content_with_ruby: "<p>「のとてまり」は、<ruby>石川県<rt>いしかわけん</rt></ruby>の<ruby>奥能登<rt>おくのと</rt></ruby>で<ruby>作<rt>つく</rt></ruby>っている<span\
+  \ style=\"color: blue;\"><ruby>高級<rt>こうきゅう</rt></ruby></span>な<span style=\"color:\
+  \ blue;\">しいたけ</span>です。<span style=\"color: blue;\"><ruby>直径<rt>ちょっけい</rt></ruby></span>は８ｃｍ<ruby>以上<rt>いじょう</rt></ruby>、<ruby>厚<rt>あつ</rt></ruby>さは３ｃｍ<ruby>以上<rt>いじょう</rt></ruby>あります。</p>\n\
+  <p>「のとてまり」をとることができる<ruby>季節<rt>きせつ</rt></ruby>になって、１９<ruby>日<rt>にち</rt></ruby>に<ruby>金沢市<rt>かなざわし</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>市場<rt>いちば</rt></ruby></span>で<span style=\"color:\
+  \ blue;\"><ruby>競<rt>せ</rt></ruby>り</span>がありました。いちばん<span style=\"color: blue;\"\
+  ><ruby>高級<rt>こうきゅう</rt></ruby></span>な「のとてまり」が６<ruby>個<rt>こ</rt></ruby>で１７<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>になりました。<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>高<rt>たか</rt></ruby>くなりました。</p>\n\
+  <p>この<span style=\"color: blue;\">しいたけ</span>を<ruby>買<rt>か</rt></ruby>ったフランス<ruby>料理<rt>りょうり</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>高級<rt>こうきゅう</rt></ruby></span>な<span style=\"color:\
+  \ blue;\">しいたけ</span>を<ruby>料理<rt>りょうり</rt></ruby>するのが<ruby>楽<rt>たの</rt></ruby>しみです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>「のとてまり」は３<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまで<span style=\"\
+  color: blue;\"><ruby>市場<rt>いちば</rt></ruby></span>に<ruby>出<rt>で</rt></ruby>ます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 椎茸
+  descriptions:
+  - シイやナラのかれ<ruby><rb>木</rb><rt>き</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>えるキノコ。<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にする。
+- word: 高級
+  descriptions:
+  - <ruby><rb>品質</rb><rt>ひんしつ</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>高</rb><rt>たか</rt></ruby>いこと。
+- word: 直径
+  descriptions:
+  - <ruby><rb>円</rb><rt>えん</rt></ruby>または<ruby><rb>球</rb><rt>きゅう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>って、<ruby><rb>円周</rb><rt>えんしゅう</rt></ruby>や<ruby><rb>球面上</rb><rt>きゅうめんじょう</rt></ruby>の<ruby><rb>二点</rb><rt>にてん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>。さしわたし。
+- word: 市場
+  descriptions:
+  - <ruby><rb>商人</rb><rt>しょうにん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などを<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>買</rb><rt>か</rt></ruby>いする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>市</rb><rt>いち</rt></ruby>。
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>などの<ruby><rb>小売店</rb><rt>こうりてん</rt></ruby>が、<ruby><rb>一</rb><rt>いっ</rt></ruby>か<ruby><rb>所</rb><rt>しょ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>っている<ruby><rb>所</rb><rt>ところ</rt></ruby>。マーケット。
+- word: 競り売り
+  descriptions:
+  - <ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。
+source_url: http://www3.nhk.or.jp/news/easy/k10011263901000/k10011263901000.html
+web_title_with_ruby: しいたけ１<ruby>箱<rt>はこ</rt></ruby>６<ruby>個<rt>こ</rt></ruby><ruby>入<rt>い</rt></ruby>り17<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>！
+  <ruby>初<rt>はつ</rt></ruby><ruby>競<rt>せ</rt></ruby>りで<ruby>最高値<rt>さいこうち</rt></ruby><ruby>更新<rt>こうしん</rt></ruby>
+  <ruby>石川<rt>いしかわ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/19/しいたけ1箱6個入り17万円-初競りで最高値更新-石川
+related_news:
+- title: インターネットでいろいろな「おせち<ruby>料理<rt>りょうり</rt></ruby>」を<ruby>売<rt>う</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2017/11/17/インターネットでいろいろなおせち料理を売る
+- title: <ruby>兵庫県<rt>ひょうごけん</rt></ruby><ruby>明石市<rt>あかしし</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>火事<rt>かじ</rt></ruby>　<ruby>店<rt>みせ</rt></ruby>や<ruby>家<rt>いえ</rt></ruby>が３０<ruby>以上<rt>いじょう</rt></ruby><ruby>焼<rt>や</rt></ruby>ける
+  url: https://newswebeasy.github.io/news/easy/2017/10/26/兵庫県明石市で大きな火事-店や家が30以上焼ける
+- title: インドネシアへの<ruby>輸出<rt>ゆしゅつ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まった「<ruby>近江牛<rt>おうみぎゅう</rt></ruby>」の<ruby>料理<rt>りょうり</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2017/11/08/インドネシアへの輸出が始まった近江牛の料理を紹介する
+- title: <ruby>今年<rt>ことし</rt></ruby>はサケがとれない　イクラの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がる
+  url: https://newswebeasy.github.io/news/easy/2017/10/20/今年はサケがとれない-イクラの値段が上がる
+...

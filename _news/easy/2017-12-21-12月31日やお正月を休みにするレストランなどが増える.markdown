@@ -1,0 +1,34 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011262791000
+last_modified_at: '2017-12-21T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: レストランなどは今、働く人が足りなくて困っています。
+title: １２月３１日やお正月を休みにするレストランなどが増える
+title_with_ruby: １２<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>やお<ruby>正月<rt>しょうがつ</rt></ruby>を<ruby>休<rt>やす</rt></ruby>みにするレストランなどが<ruby>増<rt>ふ</rt></ruby>える
+outline: レストランなどは今、働く人が足りなくて困っています。
+outline_with_ruby: レストランなどは<ruby>今<rt>いま</rt></ruby>、<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくて<ruby>困<rt>こま</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/18/K10011262791_1712181654_1712181718_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/21/k10011262791000.mp3
+content_with_ruby: "<p>レストランなどは<ruby>今<rt>いま</rt></ruby>、<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくて<ruby>困<rt>こま</rt></ruby>っています。このため、<ruby>毎日<rt>まいにち</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>営業<rt>えいぎょう</rt></ruby></span>しているレストランなどで、１２<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>やお<ruby>正月<rt>しょうがつ</rt></ruby>を<ruby>休<rt>やす</rt></ruby>みにする<ruby>店<rt>みせ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。</p>\n\
+  <p>「<ruby>大戸屋<rt>おおとや</rt></ruby>」は、１４６の<ruby>店<rt>みせ</rt></ruby>の<ruby>半分<rt>はんぶん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の８０ぐらいの<ruby>店<rt>みせ</rt></ruby>で、１２<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>と<ruby>来年<rt>らいねん</rt></ruby>１<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>を<ruby>休<rt>やす</rt></ruby>みにすることにしました。「<ruby>天狗<rt>てんぐ</rt></ruby>」も、<ruby>今年<rt>ことし</rt></ruby>から１２<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>を<ruby>休<rt>やす</rt></ruby>みにします。</p>\n\
+  <p>「<ruby>天丼<rt>てんどん</rt></ruby>てんや」と「ロイヤルホスト」も、ほとんどの<ruby>店<rt>みせ</rt></ruby>で<ruby>来年<rt>らいねん</rt></ruby>から１<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>を<ruby>休<rt>やす</rt></ruby>みにします。</p>\n\
+  <p>レストランなどは、<ruby>休<rt>やす</rt></ruby>みを<ruby>多<rt>おお</rt></ruby>くして<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>をもっと<ruby>集<rt>あつ</rt></ruby>めたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 営業
+  descriptions:
+  - もうけるために<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や<ruby><rb>商売</rb><rt>しょうばい</rt></ruby>をすること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011262791000/k10011262791000.html
+web_title_with_ruby: <ruby>外食<rt>がいしょく</rt></ruby><ruby>チェーン<rt>ちぇーん</rt></ruby>で<ruby>広<rt>ひろ</rt></ruby>がる<ruby>年末<rt>ねんまつ</rt></ruby><ruby>年始<rt>ねんし</rt></ruby><ruby>休業<rt>きゅうぎょう</rt></ruby>
+  「<ruby>大戸屋<rt>おおとや</rt></ruby>」も
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/18/外食チェーンで広がる年末年始休業-大戸屋も
+related_news:
+- title: <ruby>現金<rt>げんきん</rt></ruby>で<ruby>払<rt>はら</rt></ruby>うことができないレストランがオープン
+  url: https://newswebeasy.github.io/news/easy/2017/11/07/現金で払うことができないレストランがオープン
+- title: <ruby>兵庫県<rt>ひょうごけん</rt></ruby><ruby>明石市<rt>あかしし</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>火事<rt>かじ</rt></ruby>　<ruby>店<rt>みせ</rt></ruby>や<ruby>家<rt>いえ</rt></ruby>が３０<ruby>以上<rt>いじょう</rt></ruby><ruby>焼<rt>や</rt></ruby>ける
+  url: https://newswebeasy.github.io/news/easy/2017/10/26/兵庫県明石市で大きな火事-店や家が30以上焼ける
+...
