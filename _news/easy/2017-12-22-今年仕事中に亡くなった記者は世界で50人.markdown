@@ -1,0 +1,87 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011264811000
+last_modified_at: '2017-12-22T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 「国境なき記者団」という記者の団体は、毎年、仕事中に亡くなった記者の数を調べています。
+title: 今年仕事中に亡くなった記者は世界で５０人
+title_with_ruby: <ruby>今年<rt>ことし</rt></ruby><ruby>仕事<rt>しごと</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>亡<rt>な</rt></ruby>くなった<ruby>記者<rt>きしゃ</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>で５０<ruby>人<rt>にん</rt></ruby>
+outline: 「国境なき記者団」という記者の団体は、毎年、仕事中に亡くなった記者の数を調べています。
+outline_with_ruby: 「<ruby>国境<rt>こっきょう</rt></ruby>なき<ruby>記者団<rt>きしゃだん</rt></ruby>」という<ruby>記者<rt>きしゃ</rt></ruby>の<ruby>団体<rt>だんたい</rt></ruby>は、<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>亡<rt>な</rt></ruby>くなった<ruby>記者<rt>きしゃ</rt></ruby>の<ruby>数<rt>かず</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べています。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/19/K10011264811_1712200943_1712200951_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/22/k10011264811000.mp3
+content_with_ruby: "<p>「<ruby>国境<rt>こっきょう</rt></ruby>なき<ruby>記者団<rt>きしゃだん</rt></ruby>」という<span\
+  \ style=\"color: blue;\"><ruby>記者<rt>きしゃ</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>は、<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>亡<rt>な</rt></ruby>くなった<span\
+  \ style=\"color: blue;\"><ruby>記者<rt>きしゃ</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>数<rt>かず</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べています。<ruby>今年<rt>ことし</rt></ruby>は、<ruby>今月<rt>こんげつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>までに５０<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなったと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p><ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>くの<span\
+  \ style=\"color: blue;\"><ruby>記者<rt>きしゃ</rt></ruby></span>が<ruby>亡<rt>な</rt></ruby>くなった<ruby>国<rt>くに</rt></ruby>はシリアでした。シリアでは<ruby>国<rt>くに</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>戦争<rt>せんそう</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて、１２<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。<span\
+  \ style=\"color: blue;\"><ruby>麻薬<rt>まやく</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>事件<rt>じけん</rt></ruby></span>が<ruby>続<rt>つづ</rt></ruby>いているメキシコでも１１<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>地中海<rt>ちちゅうかい</rt></ruby></span>にあるマルタでは１０<ruby>月<rt>がつ</rt></ruby>、ダフネ・カルアナガリチアさんが<span\
+  \ style=\"color: blue;\"><ruby>爆弾<rt>ばくだん</rt></ruby></span>で<span style=\"color:\
+  \ blue;\"><ruby>殺<rt>ころ</rt></ruby>さ</span>れました。カルアナガリチアさんは、<span style=\"color:\
+  \ blue;\"><ruby>税金<rt>ぜいきん</rt></ruby></span>を<ruby>払<rt>はら</rt></ruby>わなくてもいいようにタックスヘイブンの<ruby>国<rt>くに</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>している<ruby>政治家<rt>せいじか</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べていました。</p>\n\
+  <p><ruby>国境<rt>こっきょう</rt></ruby>なき<ruby>記者団<rt>きしゃだん</rt></ruby>は「<span style=\"\
+  color: blue;\"><ruby>記者<rt>きしゃ</rt></ruby></span>が<ruby>調<rt>しら</rt></ruby>べて<ruby>新聞<rt>しんぶん</rt></ruby>やテレビなどで<ruby>知<rt>し</rt></ruby>らせないと、<span\
+  \ style=\"color: blue;\"><ruby>不正<rt>ふせい</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>暴力<rt>ぼうりょく</rt></ruby></span>をなくすことはできません」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 記者
+  descriptions:
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 数
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。
+  - いくつもあること。たくさん。
+  - <ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 麻薬
+  descriptions:
+  - <ruby><rb>神経</rb><rt>しんけい</rt></ruby>をしびれさせ、<ruby><rb>感</rb><rt>かん</rt></ruby>じる<ruby><rb>力</rb><rt>ちから</rt></ruby>をなくさせる<ruby><rb>薬</rb><rt>くすり</rt></ruby>。<ruby><rb>麻酔</rb><rt>ますい</rt></ruby>や<ruby><rb>痛</rb><rt>いた</rt></ruby>み<ruby><rb>止</rb><rt>ど</rt></ruby>めに<ruby><rb>使</rb><rt>つか</rt></ruby>う。<ruby><rb>医療</rb><rt>いりょう</rt></ruby><ruby><rb>以外</rb><rt>いがい</rt></ruby>には<ruby><rb>使用</rb><rt>しよう</rt></ruby>を<ruby><rb>禁止</rb><rt>きんし</rt></ruby>されている。
+- word: 事件
+  descriptions:
+  - ふだんないような、できごと。
+- word: 地中海
+  descriptions:
+  - ヨーロッパ・アジア・アフリカの<ruby><rb>三大陸</rb><rt>さんたいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた<ruby><rb>東西</rb><rt>とうざい</rt></ruby>に<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: 爆弾
+  descriptions:
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>火薬</rb><rt>かやく</rt></ruby>をつめて、<ruby><rb>投</rb><rt>な</rt></ruby>げたり<ruby><rb>落</rb><rt>お</rt></ruby>としたりして<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>させる<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。
+- word: 殺す
+  descriptions:
+  - <ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - （<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。
+  - <ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。
+- word: 税金
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>、<ruby><rb>市町村</rb><rt>しちょうそん</rt></ruby>が、そこに<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>人</rb><rt>ひと</rt></ruby>から<ruby><rb>集</rb><rt>あつ</rt></ruby>めるお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 不正
+  descriptions:
+  - <ruby><rb>正</rb><rt>ただ</rt></ruby>しくないこと。
+- word: 暴力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>でする、<ruby><rb>乱暴</rb><rt>らんぼう</rt></ruby>な<ruby><rb>行</rb><rt>おこな</rt></ruby>い。
+source_url: http://www3.nhk.or.jp/news/easy/k10011264811000/k10011264811000.html
+web_title_with_ruby: ことし <ruby>世界<rt>せかい</rt></ruby><ruby>各地<rt>かくち</rt></ruby>の<ruby>ジャーナリスト<rt>じゃーなりすと</rt></ruby>
+  ５０<ruby>人<rt>にん</rt></ruby><ruby>犠牲<rt>ぎせい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/19/ことし-世界各地のジャーナリスト-50人犠牲
+related_news:
+- title: <ruby>空気<rt>くうき</rt></ruby>の<ruby>汚染<rt>おせん</rt></ruby>などが<ruby>原因<rt>げんいん</rt></ruby>で９００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2017/10/23/空気の汚染などが原因で900万人が亡くなる
+- title: 「パラダイスペーパー」タックスヘイブンを<ruby>利用<rt>りよう</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/11/07/パラダイスペーパータックスヘイブンを利用した人を発表
+- title: <ruby>去年<rt>きょねん</rt></ruby>５<ruby>歳<rt>さい</rt></ruby>より<ruby>小<rt>ちい</rt></ruby>さな<ruby>子<rt>こ</rt></ruby>どもが５６０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなった
+  url: https://newswebeasy.github.io/news/easy/2017/10/23/去年5歳より小さな子どもが560万人亡くなった
+...

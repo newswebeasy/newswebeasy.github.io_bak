@@ -1,0 +1,79 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011266091000
+last_modified_at: '2017-12-22T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ＮＨＫは、２０２０年に東京で開くオリンピックとパラリンピックについて日本人に調査をしました。
+title: ２０２０年の東京オリンピックに関心がある人は８０％
+title_with_ruby: ２０２０<ruby>年<rt>ねん</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby>オリンピックに<ruby>関心<rt>かんしん</rt></ruby>がある<ruby>人<rt>ひと</rt></ruby>は８０％
+outline: ＮＨＫは、２０２０年に東京で開くオリンピックとパラリンピックについて日本人に調査をしました。
+outline_with_ruby: ＮＨＫは、２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>開<rt>ひら</rt></ruby>くオリンピックとパラリンピックについて<ruby>日本人<rt>にっぽんじん</rt></ruby>に<ruby>調査<rt>ちょうさ</rt></ruby>をしました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/21/K10011266091_1712210437_1712210442_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/22/k10011266091000.mp3
+content_with_ruby: "<p>ＮＨＫは、２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>開<rt>ひら</rt></ruby>く<span\
+  \ style=\"color: blue;\">オリンピック</span>と<span style=\"color: blue;\">パラリンピック</span>について<ruby>日本人<rt>にっぽんじん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span>をしました。</p>\n<p>２０<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の２４７９<ruby>人<rt>にん</rt></ruby>のうち、<span\
+  \ style=\"color: blue;\">オリンピック</span>に「<span style=\"color: blue;\"><ruby>関心<rt>かんしん</rt></ruby></span>がある」と<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>は８０％でした。<span\
+  \ style=\"color: blue;\"><ruby>年齢<rt>ねんれい</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>のほうが<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>より<span\
+  \ style=\"color: blue;\"><ruby>関心<rt>かんしん</rt></ruby></span>がありました。<span style=\"\
+  color: blue;\">パラリンピック</span>に「<span style=\"color: blue;\"><ruby>関心<rt>かんしん</rt></ruby></span>がある」と<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>は６１％でした。</p>\n\
+  <p><span style=\"color: blue;\">オリンピック</span>でどんなスポーツを<ruby>見<rt>み</rt></ruby>たいかという<ruby>質問<rt>しつもん</rt></ruby>には、７１％の<ruby>人<rt>ひと</rt></ruby>が「<span\
+  \ style=\"color: blue;\"><ruby>体操<rt>たいそう</rt></ruby></span>」、６６％の<ruby>人<rt>ひと</rt></ruby>が「<span\
+  \ style=\"color: blue;\"><ruby>陸上競技<rt>りくじょうきょうぎ</rt></ruby></span>」、５６％の<ruby>人<rt>ひと</rt></ruby>が「<span\
+  \ style=\"color: blue;\"><ruby>競泳<rt>きょうえい</rt></ruby></span>」を<ruby>選<rt>えら</rt></ruby>びました。<ruby>東京<rt>とうきょう</rt></ruby>オリンピックで<ruby>初<rt>はじ</rt></ruby>めて<ruby>行<rt>おこな</rt></ruby>う「スポーツクライミング」や「スケートボード」は１５％ぐらいでした。みんなに<ruby>新<rt>あたら</rt></ruby>しいスポーツを<ruby>知<rt>し</rt></ruby>ってもらうことが<ruby>大切<rt>たいせつ</rt></ruby>だとわかりました。</p>\n\
+  <p><ruby>会場<rt>かいじょう</rt></ruby>や<ruby>交通<rt>こうつう</rt></ruby>などの<ruby>準備<rt>じゅんび</rt></ruby>については「うまく<ruby>進<rt>すす</rt></ruby>んでいない」と<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>が６２％いました。<ruby>去年<rt>きょねん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span>と<ruby>比<rt>くら</rt></ruby>べると、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>来<rt>き</rt></ruby>たお<ruby>客<rt>きゃく</rt></ruby>さんをどう<ruby>迎<rt>むか</rt></ruby>えるかとか、いい<span\
+  \ style=\"color: blue;\">ボランティア</span>が<ruby>集<rt>あつ</rt></ruby>まるかと<ruby>心配<rt>しんぱい</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>割合<rt>わりあい</rt></ruby></span>が<ruby>増<rt>ふ</rt></ruby>えました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 関心
+  descriptions:
+  - あることをもっと<ruby><rb>知</rb><rt>し</rt></ruby>りたいと<ruby><rb>思</rb><rt>おも</rt></ruby>ったり、おもしろいと<ruby><rb>思</rb><rt>おも</rt></ruby>ったりして、<ruby><rb>心</rb><rt>こころ</rt></ruby>にかけること。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>４年</rb><rt>よねん</rt></ruby>に<ruby><rb>１度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: 調査
+  descriptions:
+  - <ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: 年齢
+  descriptions:
+  - <ruby><rb>生</rb><rt>う</rt></ruby>まれてから<ruby><rb>今</rb><rt>いま</rt></ruby>までの<ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>数</rb><rt>かず</rt></ruby>。とし。
+- word: 体操
+  descriptions:
+  - <ruby><rb>規則</rb><rt>きそく</rt></ruby><ruby><rb>正</rb><rt>ただ</rt></ruby>しく<ruby><rb>手足</rb><rt>てあし</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かす<ruby><rb>運動</rb><rt>うんどう</rt></ruby>。
+  - 「<ruby><rb>体操競技</rb><rt>たいそうきょうぎ</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+- word: 陸上競技
+  descriptions:
+  - <ruby><rb>走</rb><rt>はし</rt></ruby>る・<ruby><rb>投</rb><rt>な</rt></ruby>げる・<ruby><rb>跳</rb><rt>と</rt></ruby>ぶなどのスポーツ。トラックとフィールドの<ruby><rb>二種類</rb><rt>にしゅるい</rt></ruby>がある。<ruby><rb>陸上</rb><rt>りくじょう</rt></ruby>。
+- word: 競泳
+  descriptions:
+  - <ruby><rb>泳</rb><rt>およ</rt></ruby>ぐ<ruby><rb>速</rb><rt>はや</rt></ruby>さを、<ruby><rb>競</rb><rt>きそ</rt></ruby>うこと。
+- word: ボランティア
+  descriptions:
+  - <ruby><rb>社会</rb><rt>しゃかい</rt></ruby>のために、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>から<ruby><rb>進</rb><rt>すす</rt></ruby>んで、<ruby><rb>無料</rb><rt>むりょう</rt></ruby>で<ruby><rb>奉仕活動</rb><rt>ほうしかつどう</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 割合
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>と<ruby><rb>物</rb><rt>もの</rt></ruby>との<ruby><rb>関係</rb><rt>かんけい</rt></ruby>を、<ruby><rb>数</rb><rt>かず</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。<ruby><rb>割</rb><rt>わり</rt></ruby>。<ruby><rb>率</rb><rt>りつ</rt></ruby>。<ruby><rb>歩合</rb><rt>ぶあい</rt></ruby>。
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>いのほか。<ruby><rb>比較的</rb><rt>ひかくてき</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011266091000/k10011266091000.html
+web_title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby><ruby>五輪<rt>ごりん</rt></ruby>と<ruby>パラリンピック<rt>ぱらりんぴっく</rt></ruby>
+  <ruby>関心<rt>かんしん</rt></ruby>に<ruby>差<rt>さ</rt></ruby> ＮＨＫ<ruby>世論調査<rt>よろんちょうさ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/21/東京五輪とパラリンピック-関心に差-NHK世論調査
+related_news:
+- title: <ruby>国連<rt>こくれん</rt></ruby>「ピョンチャンオリンピックのときは<ruby>戦争<rt>せんそう</rt></ruby>をやめよう」
+  url: https://newswebeasy.github.io/news/easy/2017/11/15/国連ピョンチャンオリンピックのときは戦争をやめよう
+- title: <ruby>東京<rt>とうきょう</rt></ruby>でパラリンピックを<ruby>開<rt>ひら</rt></ruby>くまで１０００<ruby>日<rt>にち</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2017/11/30/東京でパラリンピックを開くまで1000日になる
+- title: 「みんなで<ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>する<ruby>力<rt>ちから</rt></ruby>」<ruby>日本<rt>にっぽん</rt></ruby>の１５<ruby>歳<rt>さい</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>で２<ruby>番<rt>ばん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/11/24/みんなで問題を解決する力日本の15歳は世界で2番
+- title: <ruby>世界<rt>せかい</rt></ruby>の<ruby>都市<rt>とし</rt></ruby>のランキング　<ruby>東京<rt>とうきょう</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ３<ruby>番<rt>ばん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/10/13/世界の都市のランキング-東京は去年と同じ3番
+- title: オリンピックとパラリンピックのマスコットに３つの<ruby>案<rt>あん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/12/08/オリンピックとパラリンピックのマスコットに3つの案
+...

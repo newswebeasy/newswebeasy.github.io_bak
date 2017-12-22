@@ -1,0 +1,106 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011267591000
+last_modified_at: '2017-12-22T17:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: アメリカのトランプ大統領は６日、エルサレムがイスラエルの首都だと認めると言いました。
+title: 国連　「エルサレムが首都」と言うアメリカを認めない
+title_with_ruby: <ruby>国連<rt>こくれん</rt></ruby>　「エルサレムが<ruby>首都<rt>しゅと</rt></ruby>」と<ruby>言<rt>い</rt></ruby>うアメリカを<ruby>認<rt>みと</rt></ruby>めない
+outline: アメリカのトランプ大統領は６日、エルサレムがイスラエルの首都だと認めると言いました。
+outline_with_ruby: アメリカのトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>は<ruby>６日<rt>むいか</rt></ruby>、エルサレムがイスラエルの<ruby>首都<rt>しゅと</rt></ruby>だと<ruby>認<rt>みと</rt></ruby>めると<ruby>言<rt>い</rt></ruby>いました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/22/K10011267591_1712220408_1712220408_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/22/k10011267591000.mp3
+content_with_ruby: "<p>アメリカのトランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は<ruby>６日<rt>むいか</rt></ruby>、エルサレムがイスラエルの<span\
+  \ style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>だと<span style=\"color:\
+  \ blue;\"><ruby>認<rt>みと</rt></ruby>める</span>と<ruby>言<rt>い</rt></ruby>いました。トルコとイエメンは<span\
+  \ style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>に、アメリカが<ruby>決<rt>き</rt></ruby>めたことを<span\
+  \ style=\"color: blue;\"><ruby>認<rt>みと</rt></ruby>め</span>ない<span style=\"color:\
+  \ blue;\"><ruby>案<rt>あん</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>しました。２１<ruby>日<rt>にち</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>は<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いて、この<span\
+  \ style=\"color: blue;\"><ruby>案<rt>あん</rt></ruby></span>について<span style=\"color:\
+  \ blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>い</span>ました。</p>\n<p>パレスチナ<ruby>暫定自治政府<rt>ざんていじちせいふ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が「アメリカはパレスチナの<ruby>人<rt>ひと</rt></ruby>たちの<span\
+  \ style=\"color: blue;\"><ruby>権利<rt>けんり</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>奪<rt>うば</rt></ruby>お</span>うとしています」と<ruby>言<rt>い</rt></ruby>いました。パレスチナ<ruby>暫定自治政府<rt>ざんていじちせいふ</rt></ruby>も、<ruby>将来<rt>しょうらい</rt></ruby><ruby>国<rt>くに</rt></ruby>をつくるときにエルサレムを<span\
+  \ style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>にしたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p>トランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は、この<span\
+  \ style=\"color: blue;\"><ruby>案<rt>あん</rt></ruby></span>に<span style=\"color: blue;\"\
+  ><ruby>賛成<rt>さんせい</rt></ruby></span>した<ruby>国<rt>くに</rt></ruby>への<span style=\"\
+  color: blue;\"><ruby>援助<rt>えんじょ</rt></ruby></span>をやめるかもしれないと<ruby>言<rt>い</rt></ruby>っていました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>投票<rt>とうひょう</rt></ruby></span>の<span style=\"\
+  color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>、<ruby>日本<rt>にっぽん</rt></ruby>など１２８の<ruby>国<rt>くに</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>賛成<rt>さんせい</rt></ruby></span>して、アメリカやイスラエルなど９つの<ruby>国<rt>くに</rt></ruby>が<ruby>反対<rt>はんたい</rt></ruby>しました。３５の<ruby>国<rt>くに</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>投票<rt>とうひょう</rt></ruby></span>しませんでした。<span style=\"\
+  color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>に<ruby>入<rt>はい</rt></ruby>っている<ruby>国<rt>くに</rt></ruby>の６６%の<ruby>国<rt>くに</rt></ruby>が、アメリカが<ruby>決<rt>き</rt></ruby>めたことを<span\
+  \ style=\"color: blue;\"><ruby>認<rt>みと</rt></ruby>め</span>ませんでした。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: 首都
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。
+- word: 認める
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>る。
+  - <ruby><rb>確</rb><rt>たし</rt></ruby>かにそのとおりだと<ruby><rb>判断</rb><rt>はんだん</rt></ruby>する。
+  - <ruby><rb>承知</rb><rt>しょうち</rt></ruby>する。<ruby><rb>許</rb><rt>ゆる</rt></ruby>す。
+  - <ruby><rb>値打</rb><rt>ねう</rt></ruby>ちがあると<ruby><rb>考</rb><rt>かんが</rt></ruby>える。<ruby><rb>評価</rb><rt>ひょうか</rt></ruby>する。
+  - <ruby><rb>確</rb><rt>たし</rt></ruby>かに<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のしたことであると<ruby><rb>同意</rb><rt>どうい</rt></ruby>する。
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 認める
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>る。
+  - <ruby><rb>確</rb><rt>たし</rt></ruby>かにそのとおりだと<ruby><rb>判断</rb><rt>はんだん</rt></ruby>する。
+  - <ruby><rb>承知</rb><rt>しょうち</rt></ruby>する。<ruby><rb>許</rb><rt>ゆる</rt></ruby>す。
+  - <ruby><rb>値打</rb><rt>ねう</rt></ruby>ちがあると<ruby><rb>考</rb><rt>かんが</rt></ruby>える。<ruby><rb>評価</rb><rt>ひょうか</rt></ruby>する。
+  - <ruby><rb>確</rb><rt>たし</rt></ruby>かに<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のしたことであると<ruby><rb>同意</rb><rt>どうい</rt></ruby>する。
+- word: 案
+  descriptions:
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>考</rb><rt>かんが</rt></ruby>え。<ruby><rb>計画</rb><rt>けいかく</rt></ruby>。
+  - <ruby><rb>相談</rb><rt>そうだん</rt></ruby>のことがら。
+- word: 話し合う
+  descriptions:
+  - たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。
+  - <ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。
+- word: 権利
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>社会</rb><rt>しゃかい</rt></ruby>などの<ruby><rb>決</rb><rt>き</rt></ruby>まりで<ruby><rb>認</rb><rt>みと</rt></ruby>められている<ruby><rb>利益</rb><rt>りえき</rt></ruby>。
+  - あるものごとをすることのできる<ruby><rb>資格</rb><rt>しかく</rt></ruby>。
+- word: 奪う
+  descriptions:
+  - <ruby><rb>無理</rb><rt>むり</rt></ruby>やりに<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>きつける。
+- word: 賛成
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えをよいと<ruby><rb>認</rb><rt>みと</rt></ruby>めること。<ruby><rb>同意</rb><rt>どうい</rt></ruby>すること。
+- word: 援助
+  descriptions:
+  - <ruby><rb>困</rb><rt>こま</rt></ruby>っている<ruby><rb>人</rb><rt>ひと</rt></ruby>などを、<ruby><rb>助</rb><rt>たす</rt></ruby>けること。<ruby><rb>力</rb><rt>ちから</rt></ruby>をかすこと。
+- word: 投票
+  descriptions:
+  - <ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>や<ruby><rb>採決</rb><rt>さいけつ</rt></ruby>で、<ruby><rb>選</rb><rt>えら</rt></ruby>びたい<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>か<ruby><rb>反対</rb><rt>はんたい</rt></ruby>かを、<ruby><rb>紙</rb><rt>かみ</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いて<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+source_url: http://www3.nhk.or.jp/news/easy/k10011267591000/k10011267591000.html
+web_title_with_ruby: <ruby>エルサレム<rt>えるされむ</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>
+  <ruby>地位<rt>ちい</rt></ruby><ruby>変更<rt>へんこう</rt></ruby>は<ruby>無効<rt>むこう</rt></ruby>
+  <ruby>国連<rt>こくれん</rt></ruby><ruby>総会<rt>そうかい</rt></ruby>で<ruby>決議<rt>けつぎ</rt></ruby>を<ruby>採択<rt>さいたく</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/22/エルサレム問題-地位変更は無効-国連総会で決議を採択
+related_news:
+- title: トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>「イスラエルの<ruby>首都<rt>しゅと</rt></ruby>はエルサレム」
+  url: https://newswebeasy.github.io/news/easy/2017/12/07/トランプ大統領イスラエルの首都はエルサレム
+- title: トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>が<ruby>韓国<rt>かんこく</rt></ruby>の<ruby>国会<rt>こっかい</rt></ruby>で<ruby>演説<rt>えんぜつ</rt></ruby>をする
+  url: https://newswebeasy.github.io/news/easy/2017/11/08/トランプ大統領が韓国の国会で演説をする
+- title: ミサイルを<ruby>発射<rt>はっしゃ</rt></ruby>した<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>について<ruby>国連<rt>こくれん</rt></ruby>が<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2017/11/30/ミサイルを発射した北朝鮮について国連が会議を開く
+- title: アメリカが「ユネスコから<ruby>出<rt>で</rt></ruby>る」と<ruby>言<rt>い</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2017/10/13/アメリカがユネスコから出ると言う
+- title: <ruby>東<rt>ひがし</rt></ruby>アジアの<ruby>国<rt>くに</rt></ruby>の<ruby>首相<rt>しゅしょう</rt></ruby>などが「<ruby>化学<rt>かがく</rt></ruby><ruby>兵器<rt>へいき</rt></ruby>をなくそう」と<ruby>発表<rt>はっぴょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/11/17/東アジアの国の首相などが化学兵器をなくそうと発表
+...
