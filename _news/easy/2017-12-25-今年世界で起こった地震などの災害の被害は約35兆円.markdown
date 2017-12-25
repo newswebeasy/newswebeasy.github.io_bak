@@ -1,0 +1,80 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011270411000
+last_modified_at: '2017-12-25T15:50:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>
+  15<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: スイスにある保険会社は、世界で起こった地震や山の火事などの災害で、どのくらい被害があったか調べました。
+title: 今年世界で起こった地震などの災害の被害は約３５兆円
+title_with_ruby: <ruby>今年<rt>ことし</rt></ruby><ruby>世界<rt>せかい</rt></ruby>で<ruby>起<rt>お</rt></ruby>こった<ruby>地震<rt>じしん</rt></ruby>などの<ruby>災害<rt>さいがい</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>は<ruby>約<rt>やく</rt></ruby>３５<ruby>兆<rt>ちょう</rt></ruby><ruby>円<rt>えん</rt></ruby>
+outline: スイスにある保険会社は、世界で起こった地震や山の火事などの災害で、どのくらい被害があったか調べました。
+outline_with_ruby: スイスにある<ruby>保険<rt>ほけん</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>は、<ruby>世界<rt>せかい</rt></ruby>で<ruby>起<rt>お</rt></ruby>こった<ruby>地震<rt>じしん</rt></ruby>や<ruby>山<rt>やま</rt></ruby>の<ruby>火事<rt>かじ</rt></ruby>などの<ruby>災害<rt>さいがい</rt></ruby>で、どのくらい<ruby>被害<rt>ひがい</rt></ruby>があったか<ruby>調<rt>しら</rt></ruby>べました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/25/K10011270411_1712250646_1712250648_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/25/k10011270411000.mp3
+content_with_ruby: "<p>スイスにある<span style=\"color: blue;\"><ruby>保険<rt>ほけん</rt></ruby></span><ruby>会社<rt>がいしゃ</rt></ruby>は、<ruby>世界<rt>せかい</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こっ</span>た<ruby>地震<rt>じしん</rt></ruby>や<ruby>山<rt>やま</rt></ruby>の<ruby>火事<rt>かじ</rt></ruby>などの<span\
+  \ style=\"color: blue;\"><ruby>災害<rt>さいがい</rt></ruby></span>で、どのくらい<span style=\"\
+  color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>があったか<ruby>調<rt>しら</rt></ruby>べました。<ruby>今年<rt>ことし</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>３４<span style=\"color:\
+  \ blue;\"><ruby>兆<rt>ちょう</rt></ruby></span>７０００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>で、<ruby>去年<rt>きょねん</rt></ruby>より６０％<ruby>以上<rt>いじょう</rt></ruby><ruby>増<rt>ふ</rt></ruby>えました。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby>は、アメリカの<ruby>南<rt>みなみ</rt></ruby>の<span style=\"color:\
+  \ blue;\">ほう</span>やカリブ<ruby>海<rt>かい</rt></ruby>に、<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\">ハリケーン</span>が３つ<ruby>来<rt>き</rt></ruby>ました。アメリカのカリフォルニア<ruby>州<rt>しゅう</rt></ruby>では<ruby>大<rt>おお</rt></ruby>きな<ruby>山<rt>やま</rt></ruby>の<ruby>火事<rt>かじ</rt></ruby>があって、メキシコでは<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>がありました。このような<span\
+  \ style=\"color: blue;\"><ruby>災害<rt>さいがい</rt></ruby></span>のため、<span style=\"color:\
+  \ blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>が<ruby>増<rt>ふ</rt></ruby>えたとこの<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>災害<rt>さいがい</rt></ruby></span>で<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>行方不明<rt>ゆくえふめい</rt></ruby></span>になった<ruby>人<rt>ひと</rt></ruby>は１<ruby>万<rt>まん</rt></ruby>１０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>で、<ruby>去年<rt>きょねん</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じぐらいでした。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 起こる
+  descriptions:
+  - <ruby><rb>始</rb><rt>はじ</rt></ruby>まる。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。
+- word: 災害
+  descriptions:
+  - <ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 兆
+  descriptions:
+  - <ruby><rb>一億</rb><rt>いちおく</rt></ruby>の<ruby><rb>一万倍</rb><rt>いちまんばい</rt></ruby>。
+  - しるし。<ruby><rb>前</rb><rt>まえ</rt></ruby>ぶれ。
+- word: 保険
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>で<ruby><rb>少</rb><rt>すこ</rt></ruby>しずつお<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てておき、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>や<ruby><rb>事故</rb><rt>じこ</rt></ruby>などの<ruby><rb>災難</rb><rt>さいなん</rt></ruby>にあった<ruby><rb>人</rb><rt>ひと</rt></ruby>が、<ruby><rb>決</rb><rt>き</rt></ruby>まったお<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>取</rb><rt>と</rt></ruby>る<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。
+- word: 方
+  descriptions:
+  - <ruby><rb>向</rb><rt>む</rt></ruby>き。
+  - それぞれの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。
+  - <ruby><rb>四角</rb><rt>しかく</rt></ruby>。
+  - やりかた。
+  - <ruby><rb>分</rb><rt>わ</rt></ruby>けたときの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>部類</rb><rt>ぶるい</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>をうやまって<ruby><rb>言</rb><rt>い</rt></ruby>うことば。かた。
+- word: ハリケーン
+  descriptions:
+  - メキシコ<ruby><rb>湾</rb><rt>わん</rt></ruby>や<ruby><rb>西</rb><rt>にし</rt></ruby>インド<ruby><rb>諸島</rb><rt>しょとう</rt></ruby><ruby><rb>付近</rb><rt>ふきん</rt></ruby>で<ruby><rb>発生</rb><rt>はっせい</rt></ruby>して、<ruby><rb>北</rb><rt>きた</rt></ruby>アメリカをおそう<ruby><rb>暴風雨</rb><rt>ぼうふうう</rt></ruby>。
+- word: 行方不明
+  descriptions:
+  - どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011270411000/k10011270411000.html
+web_title_with_ruby: ことしの<ruby>世界<rt>せかい</rt></ruby>の<ruby>災害<rt>さいがい</rt></ruby><ruby>損失<rt>そんしつ</rt></ruby>
+  35<ruby>兆円<rt>ちょうえん</rt></ruby><ruby>近<rt>ちか</rt></ruby>くに <ruby>前年比<rt>ぜんねんひ</rt></ruby>60％<ruby>余<rt>よ</rt></ruby><ruby>増<rt>ぞう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/25/ことしの世界の災害損失-35兆円近くに-前年比60余増
+related_news:
+- title: アメリカのカリフォルニア<ruby>州<rt>しゅう</rt></ruby>　<ruby>山<rt>やま</rt></ruby>の<ruby>火事<rt>かじ</rt></ruby>で２０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2017/10/12/アメリカのカリフォルニア州-山の火事で20人以上亡くなる
+- title: ポルトガルで<ruby>山<rt>やま</rt></ruby>の<ruby>火事<rt>かじ</rt></ruby>　<ruby>隣<rt>となり</rt></ruby>のスペインにも<ruby>広<rt>ひろ</rt></ruby>がる
+  url: https://newswebeasy.github.io/news/easy/2017/10/17/ポルトガルで山の火事-隣のスペインにも広がる
+- title: <ruby>今年<rt>ことし</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>社員<rt>しゃいん</rt></ruby>の<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>給料<rt>きゅうりょう</rt></ruby>は<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2017/11/20/今年大学を卒業した社員の最初の給料は今までで最も高い
+- title: インドネシア　バリ<ruby>島<rt>とう</rt></ruby>の<ruby>山<rt>やま</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>する<ruby>可能性<rt>かのうせい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/09/27/インドネシア-バリ島の山が噴火する可能性
+...

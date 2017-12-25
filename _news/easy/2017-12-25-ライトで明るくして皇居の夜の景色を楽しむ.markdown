@@ -1,0 +1,75 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011269451000
+last_modified_at: '2017-12-25T15:50:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>
+  15<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: 皇居では２３日、建物などに光を当てて明るくする「ライトアップ」が始まりました。
+title: ライトで明るくして皇居の夜の景色を楽しむ
+title_with_ruby: ライトで<ruby>明<rt>あか</rt></ruby>るくして<ruby>皇居<rt>こうきょ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>の<ruby>景色<rt>けしき</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむ
+outline: 皇居では２３日、建物などに光を当てて明るくする「ライトアップ」が始まりました。
+outline_with_ruby: <ruby>皇居<rt>こうきょ</rt></ruby>では２３<ruby>日<rt>にち</rt></ruby>、<ruby>建物<rt>たてもの</rt></ruby>などに<ruby>光<rt>ひかり</rt></ruby>を<ruby>当<rt>あ</rt></ruby>てて<ruby>明<rt>あか</rt></ruby>るくする「ライトアップ」が<ruby>始<rt>はじ</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/23/K10011269451_1712231846_1712231846_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/25/k10011269451000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>皇居<rt>こうきょ</rt></ruby></span>では２３<ruby>日<rt>にち</rt></ruby>、<ruby>建物<rt>たてもの</rt></ruby>などに<ruby>光<rt>ひかり</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>当<rt>あ</rt></ruby>て</span>て<ruby>明<rt>あか</rt></ruby>るくする「ライトアップ」が<ruby>始<rt>はじ</rt></ruby>まりました。<span\
+  \ style=\"color: blue;\"><ruby>宮内庁<rt>くないちょう</rt></ruby></span>が<ruby>夜<rt>よる</rt></ruby>も<span\
+  \ style=\"color: blue;\"><ruby>皇居<rt>こうきょ</rt></ruby></span>の<ruby>景色<rt>けしき</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しんでもらいたいと<ruby>考<rt>かんが</rt></ruby>えて、５<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>毎年<rt>まいとし</rt></ruby><ruby>行<rt>おこな</rt></ruby>っています。</p>\n\
+  <p><ruby>午後<rt>ごご</rt></ruby>５<ruby>時<rt>じ</rt></ruby>に<span style=\"color: blue;\"\
+  >ライト</span>をつけると、<ruby>二重橋<rt>にじゅうばし</rt></ruby>という<ruby>橋<rt>はし</rt></ruby>や、<span\
+  \ style=\"color: blue;\"><ruby>城<rt>しろ</rt></ruby></span>の<ruby>門<rt>もん</rt></ruby>などが<ruby>明<rt>あか</rt></ruby>るく<ruby>見<rt>み</rt></ruby>えました。<span\
+  \ style=\"color: blue;\">ライト</span>は、<ruby>少<rt>すく</rt></ruby>ない<ruby>電気<rt>でんき</rt></ruby>で<ruby>明<rt>あか</rt></ruby>るく<ruby>光<rt>ひか</rt></ruby>る<span\
+  \ style=\"color: blue;\">ＬＥＤ</span>です。</p>\n<p><span style=\"color: blue;\"><ruby>皇居<rt>こうきょ</rt></ruby></span>の<ruby>前<rt>まえ</rt></ruby>を<ruby>通<rt>とお</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>たちは、<ruby>水<rt>みず</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>映<rt>うつ</rt></ruby>っ</span>た<ruby>二重橋<rt>にじゅうばし</rt></ruby>などを<ruby>見<rt>み</rt></ruby>て、<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ったりしていました。<ruby>愛知県<rt>あいちけん</rt></ruby>から<ruby>来<rt>き</rt></ruby>た６５<ruby>歳<rt>さい</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>初<rt>はじ</rt></ruby>めて<ruby>来<rt>き</rt></ruby>た<span\
+  \ style=\"color: blue;\"><ruby>皇居<rt>こうきょ</rt></ruby></span>に<span style=\"color:\
+  \ blue;\"><ruby>感動<rt>かんどう</rt></ruby></span>していたら、<span style=\"color: blue;\"\
+  >ライト</span>がついてきれいな<ruby>景色<rt>けしき</rt></ruby>も<ruby>見<rt>み</rt></ruby>ることができました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>ライトアップは<ruby>毎日<rt>まいにち</rt></ruby><ruby>午後<rt>ごご</rt></ruby>５<ruby>時<rt>じ</rt></ruby>から<ruby>午後<rt>ごご</rt></ruby>９<ruby>時<rt>じ</rt></ruby>までで、１<ruby>月<rt>がつ</rt></ruby><ruby>７日<rt>なのか</rt></ruby>まで<ruby>行<rt>おこな</rt></ruby>います。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ライト
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>。<ruby><rb>照明</rb><rt>しょうめい</rt></ruby>。
+  - <ruby><rb>明</rb><rt>あか</rt></ruby>るいこと。
+  - <ruby><rb>軽</rb><rt>かる</rt></ruby>いこと。
+- word: 皇居
+  descriptions:
+  - <ruby><rb>天皇</rb><rt>てんのう</rt></ruby>の<ruby><rb>住</rb><rt>す</rt></ruby>まい。<ruby><rb>宮城</rb><rt>きゅうじょう</rt></ruby>。
+- word: 当てる
+  descriptions:
+  - ぶつける。
+  - <ruby><rb>命中</rb><rt>めいちゅう</rt></ruby>させる。
+  - ねらったとおりになる。
+  - くっつける。あてがう。
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>風</rb><rt>かぜ</rt></ruby>などを<ruby><rb>受</rb><rt>う</rt></ruby>けるようにする。
+  - あてはめる。
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>などをさせる。
+  - <ruby><rb>名前</rb><rt>なまえ</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>す。
+- word: 宮内庁
+  descriptions:
+  - <ruby><rb>皇室</rb><rt>こうしつ</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>事務</rb><rt>じむ</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 城
+  descriptions:
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>、<ruby><rb>大名</rb><rt>だいみょう</rt></ruby>などが、<ruby><rb>敵</rb><rt>てき</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>大</rb><rt>おお</rt></ruby>がかりな<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+- word: LED
+  descriptions:
+  - <ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>が<ruby><rb>流</rb><rt>なが</rt></ruby>れると、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>さずに<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。<ruby><rb>電力消費</rb><rt>でんりょくしょうひ</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なく、<ruby><rb>寿命</rb><rt>じゅみょう</rt></ruby>が<ruby><rb>長</rb><rt>なが</rt></ruby>いため、<ruby><rb>白熱電球</rb><rt>はくねつでんきゅう</rt></ruby>や<ruby><rb>蛍光灯</rb><rt>けいこうとう</rt></ruby>にかわる<ruby><rb>光源</rb><rt>こうげん</rt></ruby>として<ruby><rb>使</rb><rt>つか</rt></ruby>われる。
+- word: 映る
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やかげなどが、ほかの<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>に<ruby><rb>現</rb><rt>あらわ</rt></ruby>れる。
+  - <ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>合</rb><rt>あ</rt></ruby>わせがよい。
+- word: 感動
+  descriptions:
+  - あるものごとに、<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>動</rb><rt>うご</rt></ruby>かされること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011269451000/k10011269451000.html
+web_title_with_ruby: <ruby>皇居<rt>こうきょ</rt></ruby> <ruby>年末<rt>ねんまつ</rt></ruby><ruby>年始<rt>ねんし</rt></ruby>の<ruby>ライト<rt>らいと</rt></ruby><ruby>アップ<rt>あっぷ</rt></ruby><ruby>始<rt>はじ</rt></ruby>まる
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/23/皇居-年末年始のライトアップ始まる
+related_news:
+- title: <ruby>鎌倉<rt>かまくら</rt></ruby>の<ruby>長谷寺<rt>はせでら</rt></ruby>　<ruby>夕方<rt>ゆうがた</rt></ruby>になるとライトをつけて<ruby>紅葉<rt>こうよう</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむ
+  url: https://newswebeasy.github.io/news/easy/2017/12/01/鎌倉の長谷寺-夕方になるとライトをつけて紅葉を楽しむ
+- title: <ruby>外国<rt>がいこく</rt></ruby>の<ruby>大使<rt>たいし</rt></ruby>が<ruby>馬車<rt>ばしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>東京駅<rt>とうきょうえき</rt></ruby>から<ruby>皇居<rt>こうきょ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2017/12/12/外国の大使が馬車に乗って東京駅から皇居へ行く
+- title: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<ruby>取<rt>と</rt></ruby>ったレアアースからＬＥＤライトを<ruby>作<rt>つく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2017/11/29/日本の海で取ったレアアースからLEDライトを作る
+...
