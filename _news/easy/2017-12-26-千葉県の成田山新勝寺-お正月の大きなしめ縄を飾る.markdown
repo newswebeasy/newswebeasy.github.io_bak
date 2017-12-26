@@ -1,0 +1,61 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011270561000
+last_modified_at: '2017-12-26T16:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>26<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 千葉県にある成田山新勝寺には、毎年お正月に大勢の人がお参りに来ます。
+title: 千葉県の成田山新勝寺　お正月の大きな「しめ縄」を飾る
+title_with_ruby: <ruby>千葉県<rt>ちばけん</rt></ruby>の<ruby>成田山新勝寺<rt>なりたさんしんしょうじ</rt></ruby>　お<ruby>正月<rt>しょうがつ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな「しめ<ruby>縄<rt>なわ</rt></ruby>」を<ruby>飾<rt>かざ</rt></ruby>る
+outline: 千葉県にある成田山新勝寺には、毎年お正月に大勢の人がお参りに来ます。
+outline_with_ruby: <ruby>千葉県<rt>ちばけん</rt></ruby>にある<ruby>成田山新勝寺<rt>なりたさんしんしょうじ</rt></ruby>には、<ruby>毎年<rt>まいとし</rt></ruby>お<ruby>正月<rt>しょうがつ</rt></ruby>に<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がお<ruby>参<rt>まい</rt></ruby>りに<ruby>来<rt>き</rt></ruby>ます。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/25/K10011270561_1712251122_1712251124_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/26/k10011270561000.mp3
+content_with_ruby: "<p><ruby>千葉県<rt>ちばけん</rt></ruby>にある<ruby>成田山新勝寺<rt>なりたさんしんしょうじ</rt></ruby>には、<ruby>毎年<rt>まいとし</rt></ruby>お<ruby>正月<rt>しょうがつ</rt></ruby>に<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\">お<ruby>参<rt>まい</rt></ruby>り</span>に<ruby>来<rt>き</rt></ruby>ます。<ruby>今<rt>いま</rt></ruby>、お<ruby>寺<rt>てら</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby>のお<ruby>正月<rt>しょうがつ</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>をしています。</p>\n\
+  <p>２５<ruby>日<rt>にち</rt></ruby>は、<ruby>長<rt>なが</rt></ruby>さが６ｍぐらい、<ruby>重<rt>おも</rt></ruby>さが２００ｋｇの<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\">しめ<ruby>縄<rt>なわ</rt></ruby></span>を<span style=\"color:\
+  \ blue;\">クレーン</span>を<ruby>使<rt>つか</rt></ruby>って<ruby>飾<rt>かざ</rt></ruby>りました。</p>\n\
+  <p>この<span style=\"color: blue;\">しめ<ruby>縄<rt>なわ</rt></ruby></span>は<ruby>普通<rt>ふつう</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>と<ruby>違<rt>ちが</rt></ruby>って、たくさんの<span\
+  \ style=\"color: blue;\"><ruby>稲<rt>いね</rt></ruby></span>を<span style=\"color: blue;\"\
+  ><ruby>束<rt>たば</rt></ruby>ね</span>て<ruby>並<rt>なら</rt></ruby>べたようになっています。お<ruby>寺<rt>てら</rt></ruby>は、<ruby>米<rt>こめ</rt></ruby>などがたくさんできるように<ruby>祈<rt>いの</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>江戸時代<rt>えどじだい</rt></ruby></span>からこの<ruby>形<rt>かたち</rt></ruby>の<span\
+  \ style=\"color: blue;\">しめ<ruby>縄<rt>なわ</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>っています。</p>\n\
+  <p>３６<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>からお<ruby>寺<rt>てら</rt></ruby>の<span\
+  \ style=\"color: blue;\">しめ<ruby>縄<rt>なわ</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>は「<ruby>新<rt>あたら</rt></ruby>しい<ruby>年<rt>とし</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>平和<rt>へいわ</rt></ruby></span>になるように<ruby>祈<rt>いの</rt></ruby>りながら<ruby>作<rt>つく</rt></ruby>りました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: しめ縄
+  descriptions:
+  - <ruby><rb>清</rb><rt>きよ</rt></ruby>らかな<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>であることを<ruby><rb>示</rb><rt>しめ</rt></ruby>すために、<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>・<ruby><rb>神棚</rb><rt>かみだな</rt></ruby>・<ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>入</rb><rt>い</rt></ruby>り<ruby><rb>口</rb><rt>ぐち</rt></ruby>などに<ruby><rb>張</rb><rt>は</rt></ruby>る、わらで<ruby><rb>作</rb><rt>つく</rt></ruby>った、なわ。
+- word: お参り
+  descriptions:
+  - <ruby><rb>寺</rb><rt>てら</rt></ruby>や<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>へ<ruby><rb>行</rb><rt>い</rt></ruby>って<ruby><rb>拝</rb><rt>おが</rt></ruby>むこと。
+- word: クレーン
+  descriptions:
+  - <ruby><rb>重</rb><rt>おも</rt></ruby>い<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げたり<ruby><rb>動</rb><rt>うご</rt></ruby>かしたりする<ruby><rb>機械</rb><rt>きかい</rt></ruby>。<ruby><rb>起重機</rb><rt>きじゅうき</rt></ruby>。
+- word: 稲
+  descriptions:
+  - <ruby><rb>実</rb><rt>み</rt></ruby>を<ruby><rb>米</rb><rt>こめ</rt></ruby>として<ruby><rb>食</rb><rt>た</rt></ruby>べる<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>田</rb><rt>た</rt></ruby>に<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>水稲</rb><rt>すいとう</rt></ruby>と、<ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>陸稲</rb><rt>りくとう</rt></ruby>がある。<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>茎</rb><rt>くき</rt></ruby>の<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>稲穂</rb><rt>いなほ</rt></ruby>が<ruby><rb>実</rb><rt>みの</rt></ruby>る。
+- word: 束ねる
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つにまとめて<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ。<ruby><rb>束</rb><rt>たば</rt></ruby>にする。
+  - <ruby><rb>会</rb><rt>かい</rt></ruby>などの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となって、<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>をまとめる。
+- word: 江戸時代
+  descriptions:
+  - <ruby><rb>徳川家康</rb><rt>とくがわいえやす</rt></ruby>が、１６０３<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>江戸</rb><rt>えど</rt></ruby>に<ruby><rb>幕府</rb><rt>ばくふ</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いてから、１８６７<ruby><rb>年</rb><rt>ねん</rt></ruby>にほろびるまでの<ruby><rb>約</rb><rt>やく</rt></ruby>２６０<ruby><rb>年間</rb><rt>ねんかん</rt></ruby>。<ruby><rb>鎖国</rb><rt>さこく</rt></ruby>のために<ruby><rb>日本</rb><rt>にっぽん</rt></ruby><ruby><rb>独特</rb><rt>どくとく</rt></ruby>の<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>栄</rb><rt>さか</rt></ruby>えた。「<ruby><rb>徳川時代</rb><rt>とくがわじだい</rt></ruby>」ともいう。
+- word: 平和
+  descriptions:
+  - おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011270561000/k10011270561000.html
+web_title_with_ruby: <ruby>成田山<rt>なりたさん</rt></ruby><ruby>新勝寺<rt>しんしょうじ</rt></ruby>で<ruby>大<rt>だい</rt></ruby>しめ<ruby>縄<rt>なわ</rt></ruby>の<ruby>飾<rt>かざ</rt></ruby>りつけ
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/25/成田山新勝寺で大しめ縄の飾りつけ
+related_news:
+- title: <ruby>福岡県<rt>ふくおかけん</rt></ruby>　「おしろい<ruby>祭<rt>まつ</rt></ruby>り」でまちが<ruby>元気<rt>げんき</rt></ruby>になるように<ruby>祈<rt>いの</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2017/12/04/福岡県-おしろい祭りでまちが元気になるように祈る
+- title: いろいろな<ruby>色<rt>いろ</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>でまちを<ruby>飾<rt>かざ</rt></ruby>る「<ruby>神戸<rt>こうべ</rt></ruby>ルミナリエ」が<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2017/12/12/いろいろな色の光でまちを飾る神戸ルミナリエが始まる
+...
