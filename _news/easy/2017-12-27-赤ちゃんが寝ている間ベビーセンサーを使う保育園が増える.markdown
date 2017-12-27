@@ -1,0 +1,63 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011271261000
+last_modified_at: '2017-12-27T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 赤ちゃんが寝ている間に突然亡くなるＳＩＤＳという病気は、原因がわかっていません。
+title: 赤ちゃんが寝ている間ベビーセンサーを使う保育園が増える
+title_with_ruby: <ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>寝<rt>ね</rt></ruby>ている<ruby>間<rt>あいだ</rt></ruby>ベビーセンサーを<ruby>使<rt>つか</rt></ruby>う<ruby>保育園<rt>ほいくえん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える
+outline: 赤ちゃんが寝ている間に突然亡くなるＳＩＤＳという病気は、原因がわかっていません。
+outline_with_ruby: <ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>寝<rt>ね</rt></ruby>ている<ruby>間<rt>あいだ</rt></ruby>に<ruby>突然<rt>とつぜん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなるＳＩＤＳという<ruby>病気<rt>びょうき</rt></ruby>は、<ruby>原因<rt>げんいん</rt></ruby>がわかっていません。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/26/K10011271261_1712260440_1712260441_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/27/k10011271261000.mp3
+content_with_ruby: "<p><ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>寝<rt>ね</rt></ruby>ている<ruby>間<rt>あいだ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>突然<rt>とつぜん</rt></ruby></span><ruby>亡<rt>な</rt></ruby>くなるＳＩＤＳという<ruby>病気<rt>びょうき</rt></ruby>は、<ruby>原因<rt>げんいん</rt></ruby>がわかっていません。<span\
+  \ style=\"color: blue;\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>によると、<ruby>毎年<rt>まいとし</rt></ruby>１００<ruby>人<rt>にん</rt></ruby>ぐらいの<ruby>赤<rt>あか</rt></ruby>ちゃんがこの<ruby>病気<rt>びょうき</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなっていて、<ruby>寒<rt>さむ</rt></ruby>くなる１２<ruby>月<rt>がつ</rt></ruby>にいちばん<ruby>多<rt>おお</rt></ruby>くなります。</p>\n\
+  <p><ruby>赤<rt>あか</rt></ruby>ちゃんがいつもと<ruby>違<rt>ちが</rt></ruby>うと<ruby>思<rt>おも</rt></ruby>ったら、すぐに<span\
+  \ style=\"color: blue;\"><ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby></span>を<ruby>呼<rt>よ</rt></ruby>んで、<span\
+  \ style=\"color: blue;\"><ruby>心臓<rt>しんぞう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">マッサージ</span>などをすることが<ruby>大切<rt>たいせつ</rt></ruby>です。このため、<ruby>寝<rt>ね</rt></ruby>ている<ruby>赤<rt>あか</rt></ruby>ちゃんをチェックするベビーセンサーという<ruby>機械<rt>きかい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う<span\
+  \ style=\"color: blue;\"><ruby>保育園<rt>ほいくえん</rt></ruby></span>などが<ruby>増<rt>ふ</rt></ruby>えています。この<ruby>機械<rt>きかい</rt></ruby>は、<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>動<rt>うご</rt></ruby>かない<ruby>時間<rt>じかん</rt></ruby>や、<ruby>顔<rt>かお</rt></ruby>を<ruby>下<rt>した</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>向<rt>む</rt></ruby>け</span>て<ruby>寝<rt>ね</rt></ruby>ている<ruby>時間<rt>じかん</rt></ruby>が<ruby>長<rt>なが</rt></ruby>くなると、<ruby>音<rt>おと</rt></ruby>などを<ruby>出<rt>だ</rt></ruby>して<ruby>知<rt>し</rt></ruby>らせます。</p>\n\
+  <p><ruby>東京都<rt>とうきょうと</rt></ruby>と<ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>川口市<rt>かわぐちし</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>保育園<rt>ほいくえん</rt></ruby></span>などがベビーセンサーを<ruby>買<rt>か</rt></ruby>う<ruby>場合<rt>ばあい</rt></ruby>、お<ruby>金<rt>かね</rt></ruby>を<ruby>出<rt>だ</rt></ruby>すと<ruby>決<rt>き</rt></ruby>めました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 保育所
+  descriptions:
+  - <ruby><rb>幼</rb><rt>おさな</rt></ruby>い<ruby><rb>子</rb><rt>こ</rt></ruby>どもを<ruby><rb>朝</rb><rt>あさ</rt></ruby>から<ruby><rb>夕方</rb><rt>ゆうがた</rt></ruby>まで<ruby><rb>預</rb><rt>あず</rt></ruby>かって、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。ほいくしょ。<ruby><rb>保育園</rb><rt>ほいくえん</rt></ruby>。
+- word: 突然
+  descriptions:
+  - <ruby><rb>急</rb><rt>きゅう</rt></ruby>に。思いがけなく。
+- word: 厚生労働省
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。
+- word: 救急車
+  descriptions:
+  - <ruby><rb>急病人</rb><rt>きゅうびょうにん</rt></ruby>やけが<ruby><rb>人</rb><rt>にん</rt></ruby>を、すぐ<ruby><rb>病院</rb><rt>びょういん</rt></ruby>へ<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。<ruby><rb>消防署</rb><rt>しょうぼうしょ</rt></ruby>で<ruby><rb>管理</rb><rt>かんり</rt></ruby>している。
+- word: 心臓
+  descriptions:
+  - <ruby><rb>胸</rb><rt>むね</rt></ruby>の<ruby><rb>左側</rb><rt>ひだりがわ</rt></ruby>にあって、<ruby><rb>血液</rb><rt>けつえき</rt></ruby>を<ruby><rb>体</rb><rt>からだ</rt></ruby>じゅうに<ruby><rb>送</rb><rt>おく</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>すポンプの<ruby><rb>役目</rb><rt>やくめ</rt></ruby>をする<ruby><rb>器官</rb><rt>きかん</rt></ruby>。こぶしぐらいの<ruby><rb>大</rb><rt>おお</rt></ruby>きさで、<ruby><rb>左右</rb><rt>さゆう</rt></ruby>の<ruby><rb>心房</rb><rt>しんぼう</rt></ruby>と<ruby><rb>左右</rb><rt>さゆう</rt></ruby>の<ruby><rb>心室</rb><rt>しんしつ</rt></ruby>の<ruby><rb>四</rb><rt>よっ</rt></ruby>つの<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>からできている。
+  - ものごとの<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>な<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>度胸</rb><rt>どきょう</rt></ruby>がよくて、<ruby><rb>物</rb><rt>もの</rt></ruby>おじしないこと。
+- word: マッサージ
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>をもんだりさすったりして、<ruby><rb>血</rb><rt>ち</rt></ruby>のめぐりをよくし、つかれやこりをほぐすこと。
+- word: 向ける
+  descriptions:
+  - <ruby><rb>向</rb><rt>む</rt></ruby>くようにする。<ruby><rb>向</rb><rt>む</rt></ruby>かせる。
+  - その<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>を<ruby><rb>目</rb><rt>め</rt></ruby>ざす。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>行</rb><rt>い</rt></ruby>かせる。
+  - ふり<ruby><rb>当</rb><rt>あ</rt></ruby>てる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011271261000/k10011271261000.html
+web_title_with_ruby: <ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>突然死<rt>とつぜんし</rt></ruby><ruby>防止<rt>ぼうし</rt></ruby>へ
+  <ruby>ベビー<rt>べびー</rt></ruby><ruby>センサー<rt>せんさー</rt></ruby><ruby>導入<rt>どうにゅう</rt></ruby><ruby>広<rt>ひろ</rt></ruby>がる
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/26/赤ちゃんの突然死防止へ-ベビーセンサー導入広がる
+related_news:
+- title: <ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>大人<rt>おとな</rt></ruby>のベッドから<ruby>落<rt>お</rt></ruby>ちる<ruby>事故<rt>じこ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2017/11/10/赤ちゃんが大人のベッドから落ちる事故が多い
+- title: <ruby>和歌山県<rt>わかやまけん</rt></ruby>の<ruby>動物園<rt>どうぶつえん</rt></ruby>　３<ruby>匹<rt>びき</rt></ruby>のライオンの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>大<rt>おお</rt></ruby>きくなる
+  url: https://newswebeasy.github.io/news/easy/2017/11/02/和歌山県の動物園-3匹のライオンの赤ちゃんが大きくなる
+...

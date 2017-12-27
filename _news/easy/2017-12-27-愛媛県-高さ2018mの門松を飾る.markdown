@@ -1,0 +1,65 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011272571000
+last_modified_at: '2017-12-27T17:00:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 門松は、お正月に家の門などに置いて飾る物です。
+title: 愛媛県　高さ２０．１８ｍの門松を飾る
+title_with_ruby: <ruby>愛媛県<rt>えひめけん</rt></ruby>　<ruby>高<rt>たか</rt></ruby>さ２０．１８ｍの<ruby>門松<rt>かどまつ</rt></ruby>を<ruby>飾<rt>かざ</rt></ruby>る
+outline: 門松は、お正月に家の門などに置いて飾る物です。
+outline_with_ruby: <ruby>門松<rt>かどまつ</rt></ruby>は、お<ruby>正月<rt>しょうがつ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>の<ruby>門<rt>もん</rt></ruby>などに<ruby>置<rt>お</rt></ruby>いて<ruby>飾<rt>かざ</rt></ruby>る<ruby>物<rt>もの</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/26/K10011272571_1712262103_1712262123_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/27/k10011272571000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>門松<rt>かどまつ</rt></ruby></span>は、お<ruby>正月<rt>しょうがつ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>の<ruby>門<rt>もん</rt></ruby>などに<ruby>置<rt>お</rt></ruby>いて<ruby>飾<rt>かざ</rt></ruby>る<ruby>物<rt>もの</rt></ruby>です。<ruby>愛媛県<rt>えひめけん</rt></ruby><ruby>西予市<rt>せいよし</rt></ruby>の<ruby>中筋地区<rt>なかすじちく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが、とても<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>門松<rt>かどまつ</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>りました。<ruby>来年<rt>らいねん</rt></ruby>は２０１８<ruby>年<rt>ねん</rt></ruby>なので、２０．１８ｍの<ruby>高<rt>たか</rt></ruby>さにしました。<ruby>近<rt>ちか</rt></ruby>くの<ruby>山<rt>やま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>竹<rt>たけ</rt></ruby></span>や<span style=\"color: blue;\"\
+  ><ruby>松<rt>まつ</rt></ruby></span>などを１８０<ruby>本<rt>ぽん</rt></ruby><ruby>使<rt>つか</rt></ruby>って、３００<ruby>人<rt>にん</rt></ruby>ぐらいで２か<ruby>月<rt>げつ</rt></ruby>かけて<ruby>作<rt>つく</rt></ruby>りました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>門松<rt>かどまつ</rt></ruby></span>の<ruby>下<rt>した</rt></ruby>の<span\
+  \ style=\"color: blue;\">ほう</span>には、<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>年<rt>とし</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>願<rt>ねが</rt></ruby>い</span>を<span style=\"color:\
+  \ blue;\"><ruby>板<rt>いた</rt></ruby></span>に<ruby>書<rt>か</rt></ruby>いて、かけることができます。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>門松<rt>かどまつ</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>は「<ruby>新<rt>あたら</rt></ruby>しい<ruby>年<rt>とし</rt></ruby>がいい<ruby>年<rt>とし</rt></ruby>になるように、たくさんの<ruby>人<rt>ひと</rt></ruby>に<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>てほしいです」と<ruby>話<rt>はな</rt></ruby>していました。この<span\
+  \ style=\"color: blue;\"><ruby>門松<rt>かどまつ</rt></ruby></span>は<ruby>来年<rt>らいねん</rt></ruby>１<ruby>月<rt>がつ</rt></ruby><ruby>７日<rt>なのか</rt></ruby>まで<ruby>飾<rt>かざ</rt></ruby>ります。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 門松
+  descriptions:
+  - <ruby><rb>正月</rb><rt>しょうがつ</rt></ruby>を<ruby><rb>祝</rb><rt>いわ</rt></ruby>って、<ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>門</rb><rt>もん</rt></ruby>や<ruby><rb>玄関</rb><rt>げんかん</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>てる<ruby><rb>松</rb><rt>まつ</rt></ruby>の<ruby><rb>枝</rb><rt>えだ</rt></ruby>。<ruby><rb>松飾</rb><rt>まつかざ</rt></ruby>り。
+- word: 竹
+  descriptions:
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>空</rb><rt>から</rt></ruby>の<ruby><rb>茎</rb><rt>くき</rt></ruby>に、<ruby><rb>節</rb><rt>ふし</rt></ruby>のある<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>や、<ruby><rb>細工物</rb><rt>さいくもの</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>芽</rb><rt>め</rt></ruby>を「たけのこ」という。
+- word: 松
+  descriptions:
+  - <ruby><rb>幹</rb><rt>みき</rt></ruby>はざらざらして、<ruby><rb>針</rb><rt>はり</rt></ruby>のような<ruby><rb>緑</rb><rt>みどり</rt></ruby>の<ruby><rb>葉</rb><rt>は</rt></ruby>を<ruby><rb>一年</rb><rt>いちねん</rt></ruby>じゅうつけている<ruby><rb>木</rb><rt>き</rt></ruby>。アカマツ・クロマツ・エゾマツなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>枝</rb><rt>えだ</rt></ruby>を<ruby><rb>正月</rb><rt>しょうがつ</rt></ruby>の<ruby><rb>門松</rb><rt>かどまつ</rt></ruby>として<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+- word: 方
+  descriptions:
+  - <ruby><rb>向</rb><rt>む</rt></ruby>き。
+  - それぞれの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。
+  - <ruby><rb>四角</rb><rt>しかく</rt></ruby>。
+  - やりかた。
+  - <ruby><rb>分</rb><rt>わ</rt></ruby>けたときの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>部類</rb><rt>ぶるい</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>をうやまって<ruby><rb>言</rb><rt>い</rt></ruby>うことば。かた。
+- word: 願い
+  descriptions:
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>うこと。<ruby><rb>願</rb><rt>ねが</rt></ruby>っていること。
+  - <ruby><rb>希望</rb><rt>きぼう</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>いて、さし<ruby><rb>出</rb><rt>だ</rt></ruby>すもの。<ruby><rb>願書</rb><rt>がんしょ</rt></ruby>。
+- word: 板
+  descriptions:
+  - <ruby><rb>材木</rb><rt>ざいもく</rt></ruby>を、うすく<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。また、そのような<ruby><rb>形</rb><rt>かたち</rt></ruby>のもの。
+source_url: http://www3.nhk.or.jp/news/easy/k10011272571000/k10011272571000.html
+web_title_with_ruby: <ruby>高<rt>たか</rt></ruby>さ20.18<ruby>メートル<rt>めーとる</rt></ruby>の<ruby>巨大<rt>きょだい</rt></ruby><ruby>門松<rt>かどまつ</rt></ruby>
+  <ruby>愛媛<rt>えひめ</rt></ruby> <ruby>西予<rt>せいよ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/26/高さ2018メートルの巨大門松-愛媛-西予
+related_news:
+- title: <ruby>千葉県<rt>ちばけん</rt></ruby>の<ruby>成田山新勝寺<rt>なりたさんしんしょうじ</rt></ruby>　お<ruby>正月<rt>しょうがつ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな「しめ<ruby>縄<rt>なわ</rt></ruby>」を<ruby>飾<rt>かざ</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2017/12/26/千葉県の成田山新勝寺-お正月の大きなしめ縄を飾る
+- title: 「デンキウナギ」の<ruby>電気<rt>でんき</rt></ruby>でクリスマスツリーが<ruby>光<rt>ひか</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2017/11/28/デンキウナギの電気でクリスマスツリーが光る
+- title: <ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>　パンダの<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>見<rt>み</rt></ruby>ることができるようになる
+  url: https://newswebeasy.github.io/news/easy/2017/12/19/上野動物園-パンダの赤ちゃんを見ることができるようになる
+- title: <ruby>来年<rt>らいねん</rt></ruby>は「いぬ」の<ruby>年<rt>とし</rt></ruby>　ペットの<ruby>犬<rt>いぬ</rt></ruby>をみんなに<ruby>見<rt>み</rt></ruby>てほしい
+  url: https://newswebeasy.github.io/news/easy/2017/12/01/来年はいぬの年-ペットの犬をみんなに見てほしい
+...

@@ -1,0 +1,83 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011270891000
+last_modified_at: '2017-12-27T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 歯を何回磨いたかなどをインターネットで歯医者に知らせて、虫歯にならないようにするサービスができました。
+title: インターネットを使って虫歯にならないようにするサービス
+title_with_ruby: インターネットを<ruby>使<rt>つか</rt></ruby>って<ruby>虫歯<rt>むしば</rt></ruby>にならないようにするサービス
+outline: 歯を何回磨いたかなどをインターネットで歯医者に知らせて、虫歯にならないようにするサービスができました。
+outline_with_ruby: <ruby>歯<rt>は</rt></ruby>を<ruby>何<rt>なん</rt></ruby><ruby>回<rt>かい</rt></ruby><ruby>磨<rt>みが</rt></ruby>いたかなどをインターネットで<ruby>歯<rt>は</rt></ruby><ruby>医者<rt>いしゃ</rt></ruby>に<ruby>知<rt>し</rt></ruby>らせて、<ruby>虫歯<rt>むしば</rt></ruby>にならないようにするサービスができました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/25/K10011270891_1712251625_1712251627_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/27/k10011270891000.mp3
+content_with_ruby: "<p><ruby>歯<rt>は</rt></ruby>を<ruby>何<rt>なん</rt></ruby><ruby>回<rt>かい</rt></ruby><ruby>磨<rt>みが</rt></ruby>いたかなどをインターネットで<ruby>歯<rt>は</rt></ruby><ruby>医者<rt>いしゃ</rt></ruby>に<ruby>知<rt>し</rt></ruby>らせて、<span\
+  \ style=\"color: blue;\"><ruby>虫歯<rt>むしば</rt></ruby></span>にならないようにする<span style=\"\
+  color: blue;\">サービス</span>ができました。<ruby>歯<rt>は</rt></ruby><span style=\"color: blue;\"\
+  >ブラシ</span>などの<ruby>会社<rt>かいしゃ</rt></ruby>のサンスターと<ruby>電気<rt>でんき</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>製品<rt>せいひん</rt></ruby></span>などの<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>富士通<rt>ふじつう</rt></ruby>が<ruby>考<rt>かんが</rt></ruby>えました。</p>\n\
+  <p><ruby>特別<rt>とくべつ</rt></ruby>な<span style=\"color: blue;\"><ruby>部品<rt>ぶひん</rt></ruby></span>を<span\
+  \ style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>け</span>た<ruby>歯<rt>は</rt></ruby><span\
+  \ style=\"color: blue;\">ブラシ</span>を<ruby>使<rt>つか</rt></ruby>うと、<ruby>歯<rt>は</rt></ruby>を<ruby>何<rt>なん</rt></ruby><ruby>回<rt>かい</rt></ruby>、<ruby>何<rt>なん</rt></ruby><ruby>分<rt>ぷん</rt></ruby><ruby>磨<rt>みが</rt></ruby>いたかの<span\
+  \ style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>をスマートフォンのアプリが<span\
+  \ style=\"color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>します。インターネットを<ruby>使<rt>つか</rt></ruby>って、<ruby>歯<rt>は</rt></ruby><ruby>医者<rt>いしゃ</rt></ruby>もこの<span\
+  \ style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>ることができます。<ruby>歯<rt>は</rt></ruby><ruby>医者<rt>いしゃ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ったとき、<span\
+  \ style=\"color: blue;\">アドバイス</span>をもらうことができます。</p>\n<p>２つの<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>来年<rt>らいねん</rt></ruby>この<span\
+  \ style=\"color: blue;\">サービス</span>を<ruby>始<rt>はじ</rt></ruby>めて、２０２０<ruby>年<rt>ねん</rt></ruby>までに５００ぐらいの<ruby>歯<rt>は</rt></ruby><ruby>医者<rt>いしゃ</rt></ruby>で<ruby>利用<rt>りよう</rt></ruby>できるようにしたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 虫歯
+  descriptions:
+  - ばいきんがはたらいてできる<ruby><rb>酸</rb><rt>さん</rt></ruby>のために、いたんだり<ruby><rb>穴</rb><rt>あな</rt></ruby>があいたりした<ruby><rb>歯</rb><rt>は</rt></ruby>。
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: ブラシ
+  descriptions:
+  - はけ。<ruby><rb>細</rb><rt>こま</rt></ruby>かいほこりやよごれを<ruby><rb>取</rb><rt>と</rt></ruby>るもの。
+- word: 製品
+  descriptions:
+  - <ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+- word: 部品
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などを<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てている、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>の<ruby><rb>品</rb><rt>しな</rt></ruby>。<ruby><rb>部分品</rb><rt>ぶぶんひん</rt></ruby>。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+- word: 情報
+  descriptions:
+  - できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+- word: 記録
+  descriptions:
+  - あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。
+- word: アドバイス
+  descriptions:
+  - ちょっとしたことを<ruby><rb>教</rb><rt>おし</rt></ruby>えて<ruby><rb>助</rb><rt>たす</rt></ruby>けること。また、そのことば。<ruby><rb>助言</rb><rt>じょげん</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011270891000/k10011270891000.html
+web_title_with_ruby: <ruby>歯磨<rt>はみが</rt></ruby>き<ruby>データ<rt>でーた</rt></ruby>を<ruby>スマホ<rt>すまほ</rt></ruby>で<ruby>管理<rt>かんり</rt></ruby>
+  <ruby>予防<rt>よぼう</rt></ruby><ruby>歯科<rt>しか</rt></ruby>で<ruby>新<rt>しん</rt></ruby><ruby>サービス<rt>さーびす</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/25/歯磨きデータをスマホで管理-予防歯科で新サービス
+related_news:
+- title: 「<ruby>楽天<rt>らくてん</rt></ruby>」が<ruby>新<rt>あたら</rt></ruby>しい<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>をつくると<ruby>発表<rt>はっぴょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/12/15/楽天が新しい携帯電話の会社をつくると発表
+- title: ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>　<ruby>新幹線<rt>しんかんせん</rt></ruby>で<ruby>無料<rt>むりょう</rt></ruby>のインターネットのサービス
+  url: https://newswebeasy.github.io/news/easy/2017/11/14/JR東日本-新幹線で無料のインターネットのサービス
+- title: スマートフォンでお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>う<ruby>中国<rt>ちゅうごく</rt></ruby>のサービスが<ruby>駅<rt>えき</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2017/11/22/スマートフォンでお金を払う中国のサービスが駅の店で始まる
+- title: アメリカのヤフー「<ruby>盗<rt>ぬす</rt></ruby>まれたＩＤの<ruby>情報<rt>じょうほう</rt></ruby>は３０<ruby>億<rt>おく</rt></ruby><ruby>件<rt>けん</rt></ruby>だった」
+  url: https://newswebeasy.github.io/news/easy/2017/10/04/アメリカのヤフー盗まれたIDの情報は30億件だった
+- title: ＥＵが<ruby>神戸製鋼所<rt>こうべせいこうしょ</rt></ruby>の<ruby>製品<rt>せいひん</rt></ruby>を<ruby>飛行機<rt>ひこうき</rt></ruby>に<ruby>使<rt>つか</rt></ruby>わないように<ruby>言<rt>い</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2017/10/19/EUが神戸製鋼所の製品を飛行機に使わないように言う
+...

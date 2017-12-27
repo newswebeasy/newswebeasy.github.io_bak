@@ -1,0 +1,82 @@
+---
+layout: web_news
+categories: web
+newsid: k10011270891000
+title: 歯磨きデータをスマホで管理 予防歯科で新サービス
+title_with_ruby: <ruby>歯磨<rt data-ruby-level="7">はみが</rt></ruby>きデータをスマホで<ruby>管理<rt
+  data-ruby-level="4">かんり</rt></ruby> <ruby>予防<rt data-ruby-level="5">よぼう</rt></ruby><ruby>歯科<rt
+  data-ruby-level="3">しか</rt></ruby>で<ruby>新<rt data-ruby-level="2">しん</rt></ruby>サービス
+last_modified_at: '2017-12-25T16:22:00+09:00'
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>12<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>25<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 16<ruby>時<rt data-ruby-level="2">じ</rt></ruby>22<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 歯を磨いた回数や時間のデータをスマホで管理し、歯科医師とインターネットで情報をやり取りできるサービスを、歯磨き用品メーカー・サンスターと電機メーカー・富士通が共同で始めることになりました。
+summary: <ruby>歯<rt data-ruby-level="3">は</rt></ruby>を<ruby>磨<rt data-ruby-level="7">みが</rt></ruby>いた<ruby>回数<rt
+  data-ruby-level="2">かいすう</rt></ruby>や<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>のデータをスマホで<ruby>管理<rt
+  data-ruby-level="4">かんり</rt></ruby>し、<ruby>歯科医師<rt data-ruby-level="5">しかいし</rt></ruby>とインターネットで<ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>をやり<ruby>取<rt data-ruby-level="3">と</rt></ruby>りできるサービスを、<ruby>歯磨<rt
+  data-ruby-level="7">はみが</rt></ruby>き<ruby>用品<rt data-ruby-level="3">ようひん</rt></ruby>メーカー・サンスターと<ruby>電機<rt
+  data-ruby-level="4">でんき</rt></ruby>メーカー・<ruby>富士通<rt data-ruby-level="5">ふじつう</rt></ruby>が<ruby>共同<rt
+  data-ruby-level="4">きょうどう</rt></ruby>で<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>めることになりました。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/25/K10011270891_1712251625_1712251627_01_02.jpg
+more: サンスターは<ruby>歯<rt data-ruby-level="3">は</rt></ruby><ruby>ブラシ<rt data-ruby-level="3">ぶらし</rt></ruby><ruby>専用<rt
+  data-ruby-level="6">せんよう</rt></ruby>の<ruby>部品<rt data-ruby-level="3">ぶひん</rt></ruby>を<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>し、<ruby>歯<rt data-ruby-level="3">は</rt></ruby>を<ruby>磨<rt
+  data-ruby-level="7">みが</rt></ruby>いたデータをスマホのアプリで<ruby>管理<rt data-ruby-level="4">かんり</rt></ruby>することができます。<br
+  /><br />これを<ruby>富士通<rt data-ruby-level="5">ふじつう</rt></ruby>がインターネットのクラウドサービスによってかかりつけの<ruby>歯科医師<rt
+  data-ruby-level="5">しかいし</rt></ruby>もデータを<ruby>見<rt data-ruby-level="1">み</rt></ruby>ることができるようにするもので、<ruby>両社<rt
+  data-ruby-level="3">りょうしゃ</rt></ruby>は<ruby>年明<rt data-ruby-level="2">としあ</rt></ruby>け１<ruby>月末<rt
+  data-ruby-level="4">がつまつ</rt></ruby>からサービスを<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>めます。<br
+  /><br /><ruby>具体的<rt data-ruby-level="4">ぐたいてき</rt></ruby>には、<ruby>歯<rt data-ruby-level="3">は</rt></ruby>を<ruby>磨<rt
+  data-ruby-level="7">みが</rt></ruby>いた<ruby>回数<rt data-ruby-level="2">かいすう</rt></ruby>や<ruby>時間<rt
+  data-ruby-level="2">じかん</rt></ruby>のデータが<ruby>歯科医師<rt data-ruby-level="5">しかいし</rt></ruby>のもとに<ruby>送<rt
+  data-ruby-level="3">おく</rt></ruby>られ、<ruby>利用者<rt data-ruby-level="4">りようしゃ</rt></ruby>が<ruby>診療<rt
+  data-ruby-level="7">しんりょう</rt></ruby>に<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れた<ruby>際<rt
+  data-ruby-level="5">さい</rt></ruby>に、<ruby>毎食後<rt data-ruby-level="2">まいしょくご</rt></ruby>きちんと<ruby>歯<rt
+  data-ruby-level="3">は</rt></ruby>を<ruby>磨<rt data-ruby-level="7">みが</rt></ruby>けているかや<ruby>磨<rt
+  data-ruby-level="7">みが</rt></ruby>き<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>が<ruby>足<rt
+  data-ruby-level="1">た</rt></ruby>りているかなどの<ruby>指導<rt data-ruby-level="5">しどう</rt></ruby>が<ruby>受<rt
+  data-ruby-level="3">う</rt></ruby>けられるといいます。<br /><br />また、<ruby>歯科医師<rt data-ruby-level="5">しかいし</rt></ruby>にデータは<ruby>送<rt
+  data-ruby-level="3">おく</rt></ruby>られませんが、アプリ<ruby>上<rt data-ruby-level="1">じょう</rt></ruby>では<ruby>歯<rt
+  data-ruby-level="3">は</rt></ruby>のどの<ruby>部分<rt data-ruby-level="3">ぶぶん</rt></ruby>を<ruby>磨<rt
+  data-ruby-level="7">みが</rt></ruby>くべきかが<ruby>図<rt data-ruby-level="2">ず</rt></ruby>で<ruby>示<rt
+  data-ruby-level="5">しめ</rt></ruby>され、きちんと<ruby>磨<rt data-ruby-level="7">みが</rt></ruby>けていないと<ruby>警告<rt
+  data-ruby-level="6">けいこく</rt></ruby>が<ruby>表示<rt data-ruby-level="5">ひょうじ</rt></ruby>されて<ruby>磨<rt
+  data-ruby-level="7">みが</rt></ruby>き<ruby>残<rt data-ruby-level="4">のこ</rt></ruby>しがないようアドバイスするということです。<br
+  /><br />サンスターによりますと、<ruby>虫歯<rt data-ruby-level="3">むしば</rt></ruby><ruby>予防<rt data-ruby-level="5">よぼう</rt></ruby>のためには<ruby>毎食後<rt
+  data-ruby-level="2">まいしょくご</rt></ruby>１<ruby>回<rt data-ruby-level="2">かい</rt></ruby>につき３<ruby>分間<rt
+  data-ruby-level="2">ふんかん</rt></ruby><ruby>歯<rt data-ruby-level="3">は</rt></ruby>を<ruby>磨<rt
+  data-ruby-level="7">みが</rt></ruby>くことが<ruby>望<rt data-ruby-level="4">のぞ</rt></ruby>ましいということで、<ruby>富士通<rt
+  data-ruby-level="5">ふじつう</rt></ruby>とのサービスを<ruby>展開<rt data-ruby-level="6">てんかい</rt></ruby>することで<ruby>正<rt
+  data-ruby-level="1">ただ</rt></ruby>しい<ruby>歯<rt data-ruby-level="3">は</rt></ruby>の<ruby>磨<rt
+  data-ruby-level="7">みが</rt></ruby>き<ruby>方<rt data-ruby-level="2">かた</rt></ruby>を<ruby>身<rt
+  data-ruby-level="3">み</rt></ruby>につけ、<ruby>虫歯<rt data-ruby-level="3">むしば</rt></ruby>になることを<ruby>防<rt
+  data-ruby-level="5">ふせ</rt></ruby>ぐ“<ruby>予防<rt data-ruby-level="5">よぼう</rt></ruby><ruby>歯科<rt
+  data-ruby-level="3">しか</rt></ruby>”に<ruby>期待<rt data-ruby-level="3">きたい</rt></ruby>できるとしています。<br
+  /><br /><ruby>両社<rt data-ruby-level="3">りょうしゃ</rt></ruby>では、２０２０<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>までにこのサービスを<ruby>利用<rt
+  data-ruby-level="4">りよう</rt></ruby>できる<ruby>歯科医院<rt data-ruby-level="3">しかいいん</rt></ruby>を<ruby>全国<rt
+  data-ruby-level="3">ぜんこく</rt></ruby>に５００<ruby>程度<rt data-ruby-level="5">ていど</rt></ruby>に<ruby>増<rt
+  data-ruby-level="5">ふ</rt></ruby>やしたいとしています。
+source_url: https://www3.nhk.or.jp/news/html/20171225/k10011270891000.html
+easy_title_with_ruby: インターネットを<ruby>使<rt data-ruby-level="3">つか</rt></ruby>って<ruby>虫歯<rt
+  data-ruby-level="3">むしば</rt></ruby>にならないようにするサービス
+easy_news_url: https://newswebeasy.github.io/news/easy/2017/12/27/インターネットを使って虫歯にならないようにするサービス
+related_news:
+- title: スマホ<ruby>使<rt data-ruby-level="3">つか</rt></ruby>った<ruby>配車<rt data-ruby-level="3">はいしゃ</rt></ruby>サービス
+    <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby><ruby>最大手<rt data-ruby-level="4">さいおおて</rt></ruby>が<ruby>日本<rt
+    data-ruby-level="1">にっぽん</rt></ruby><ruby>進出<rt data-ruby-level="3">しんしゅつ</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2017/10/30/スマホ使った配車サービス-中国最大手が日本進出へ
+- title: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby><ruby>メトロ<rt data-ruby-level="2">めとろ</rt></ruby>
+    <ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby><ruby>向<rt data-ruby-level="3">む</rt></ruby>け<ruby>無料<rt
+    data-ruby-level="4">むりょう</rt></ruby>Ｗｉ－Ｆｉ <ruby>全路線<rt data-ruby-level="3">ぜんろせん</rt></ruby>に<ruby>拡大<rt
+    data-ruby-level="6">かくだい</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2017/10/24/東京メトロ-外国人向け無料Wi-Fi-全路線に拡大へ
+- title: ＧＭＯインターネット １<ruby>万<rt data-ruby-level="2">まん</rt></ruby>4600<ruby>件<rt data-ruby-level="5">けん</rt></ruby><ruby>余<rt
+    data-ruby-level="5">よ</rt></ruby>の<ruby>顧客<rt data-ruby-level="7">こきゃく</rt></ruby><ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby><ruby>流出<rt data-ruby-level="3">りゅうしゅつ</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/10/30/GMOインターネット-1万4600件余の顧客情報流出
+- title: <ruby>ＪＲ東日本<rt data-ruby-level="2">じぇーあーるひがしにほん</rt></ruby> <ruby>東北新幹線<rt
+    data-ruby-level="5">とうほくしんかんせん</rt></ruby>などに<ruby>公衆<rt data-ruby-level="6">こうしゅう</rt></ruby><ruby>無線<rt
+    data-ruby-level="4">むせん</rt></ruby>ＬＡＮ<ruby>導入<rt data-ruby-level="5">どうにゅう</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2017/11/13/JR東日本-東北新幹線などに公衆無線LAN導入へ
+...
