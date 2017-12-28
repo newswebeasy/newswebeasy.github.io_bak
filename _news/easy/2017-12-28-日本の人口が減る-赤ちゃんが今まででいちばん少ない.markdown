@@ -1,0 +1,55 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011268111000
+last_modified_at: '2017-12-28T16:40:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ふん</rt></ruby>
+description: 厚生労働省は、１年でどのくらい人口が変わるか毎年計算をしています。
+title: 日本の人口が減る　赤ちゃんが今まででいちばん少ない
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>が<ruby>減<rt>へ</rt></ruby>る　<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>少<rt>すく</rt></ruby>ない
+outline: 厚生労働省は、１年でどのくらい人口が変わるか毎年計算をしています。
+outline_with_ruby: <ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby>は、１<ruby>年<rt>ねん</rt></ruby>でどのくらい<ruby>人口<rt>じんこう</rt></ruby>が<ruby>変<rt>か</rt></ruby>わるか<ruby>毎年<rt>まいとし</rt></ruby><ruby>計算<rt>けいさん</rt></ruby>をしています。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/22/K10011268111_1712221554_1712221555_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/28/k10011268111000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>は、１<ruby>年<rt>ねん</rt></ruby>でどのくらい<ruby>人口<rt>じんこう</rt></ruby>が<ruby>変<rt>か</rt></ruby>わるか<ruby>毎年<rt>まいとし</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>をしています。</p>\n<p><ruby>今年<rt>ことし</rt></ruby><ruby>生<rt>う</rt></ruby>まれる<ruby>赤<rt>あか</rt></ruby>ちゃんは９４<ruby>万<rt>まん</rt></ruby>１０００<ruby>人<rt>にん</rt></ruby>になりそうで、１８９９<ruby>年<rt>ねん</rt></ruby>から<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>少<rt>すく</rt></ruby>なくなります。<ruby>今年<rt>ことし</rt></ruby><ruby>亡<rt>な</rt></ruby>くなる<ruby>人<rt>ひと</rt></ruby>は１３４<ruby>万<rt>まん</rt></ruby>４０００<ruby>人<rt>にん</rt></ruby>になりそうで、<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなります。</p>\n\
+  <p><ruby>生<rt>う</rt></ruby>まれる<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>少<rt>すく</rt></ruby>なくて<ruby>亡<rt>な</rt></ruby>くなる<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いため、<ruby>人口<rt>じんこう</rt></ruby>は４０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>減<rt>へ</rt></ruby>り</span>そうです。<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は１１<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<span\
+  \ style=\"color: blue;\"><ruby>減<rt>へ</rt></ruby>る</span>ことになります。</p>\n<p><span\
+  \ style=\"color: blue;\"><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></span>は「<span style=\"\
+  color: blue;\"><ruby>保育所<rt>ほいくしょ</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>ったり、<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>したりして、もっと<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれる<ruby>社会<rt>しゃかい</rt></ruby>にしたいです」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 減る
+  descriptions:
+  - <ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。
+  - すく。
+- word: 厚生労働省
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。
+- word: 計算
+  descriptions:
+  - <ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。
+  - <ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。
+- word: 減る
+  descriptions:
+  - <ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。
+  - すく。
+- word: 保育所
+  descriptions:
+  - <ruby><rb>幼</rb><rt>おさな</rt></ruby>い<ruby><rb>子</rb><rt>こ</rt></ruby>どもを<ruby><rb>朝</rb><rt>あさ</rt></ruby>から<ruby><rb>夕方</rb><rt>ゆうがた</rt></ruby>まで<ruby><rb>預</rb><rt>あず</rt></ruby>かって、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。ほいくしょ。<ruby><rb>保育園</rb><rt>ほいくえん</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011268111000/k10011268111000.html
+web_title_with_ruby: <ruby>出生数<rt>しゅっしょうすう</rt></ruby>が<ruby>過去<rt>かこ</rt></ruby><ruby>最少<rt>さいしょう</rt></ruby>
+  <ruby>死亡者<rt>しぼうしゃ</rt></ruby>は<ruby>戦後<rt>せんご</rt></ruby><ruby>最多<rt>さいた</rt></ruby>
+  <ruby>人口減<rt>じんこうげん</rt></ruby>が<ruby>加速<rt>かそく</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/22/出生数が過去最少-死亡者は戦後最多-人口減が加速
+related_news:
+- title: <ruby>和歌山県<rt>わかやまけん</rt></ruby>の<ruby>動物園<rt>どうぶつえん</rt></ruby>　３<ruby>匹<rt>びき</rt></ruby>のライオンの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>大<rt>おお</rt></ruby>きくなる
+  url: https://newswebeasy.github.io/news/easy/2017/11/02/和歌山県の動物園-3匹のライオンの赤ちゃんが大きくなる
+- title: <ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>寝<rt>ね</rt></ruby>ている<ruby>間<rt>あいだ</rt></ruby>ベビーセンサーを<ruby>使<rt>つか</rt></ruby>う<ruby>保育園<rt>ほいくえん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2017/12/27/赤ちゃんが寝ている間ベビーセンサーを使う保育園が増える
+- title: <ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>大人<rt>おとな</rt></ruby>のベッドから<ruby>落<rt>お</rt></ruby>ちる<ruby>事故<rt>じこ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2017/11/10/赤ちゃんが大人のベッドから落ちる事故が多い
+...

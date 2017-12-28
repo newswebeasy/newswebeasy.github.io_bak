@@ -1,0 +1,72 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011271991000
+last_modified_at: '2017-12-28T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: みかんの値段が高くなっています。
+title: みかんの値段が去年より３０％高くなる
+title_with_ruby: みかんの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>去年<rt>きょねん</rt></ruby>より３０％<ruby>高<rt>たか</rt></ruby>くなる
+outline: みかんの値段が高くなっています。
+outline_with_ruby: みかんの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなっています。
+image_url: https://newswebeasy.github.io/ja201712/news/easy/image/2017/12/28/k10011271991000.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/28/k10011271991000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\">みかん</span>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなっています。<span\
+  \ style=\"color: blue;\"><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby></span>が２５<ruby>日<rt>にち</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>や<ruby>大阪<rt>おおさか</rt></ruby>などの<span\
+  \ style=\"color: blue;\"><ruby>市場<rt>いちば</rt></ruby></span>で<ruby>調<rt>しら</rt></ruby>べると、<span\
+  \ style=\"color: blue;\">みかん</span>１ｋｇの<ruby>値段<rt>ねだん</rt></ruby>は３６１<ruby>円<rt>えん</rt></ruby>で、<ruby>去年<rt>きょねん</rt></ruby>より３０％ぐらい<ruby>高<rt>たか</rt></ruby>くなっています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby></span>によると、<span\
+  \ style=\"color: blue;\">みかん</span>は<ruby>秋<rt>あき</rt></ruby>の<ruby>台風<rt>たいふう</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>傷<rt>きず</rt></ruby>つい</span>たり、<span style=\"color:\
+  \ blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>ていた<ruby>時間<rt>じかん</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>くて<span\
+  \ style=\"color: blue;\"><ruby>育<rt>そだ</rt></ruby>つ</span>のが<ruby>遅<rt>おく</rt></ruby>れたりしました。このため、いつもの<ruby>年<rt>とし</rt></ruby>に<ruby>比<rt>くら</rt></ruby>べて、<span\
+  \ style=\"color: blue;\"><ruby>市場<rt>いちば</rt></ruby></span>に<ruby>出<rt>で</rt></ruby>る<span\
+  \ style=\"color: blue;\">みかん</span>の<span style=\"color: blue;\"><ruby>量<rt>りょう</rt></ruby></span>が<span\
+  \ style=\"color: blue;\"><ruby>減<rt>へ</rt></ruby>っ</span>て<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がっています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby></span>は「<ruby>冬<rt>ふゆ</rt></ruby>は<span\
+  \ style=\"color: blue;\">みかん</span>を<ruby>買<rt>か</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いので、しばらく<ruby>値段<rt>ねだん</rt></ruby>は<ruby>高<rt>たか</rt></ruby>いままかもしれません」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 蜜柑
+  descriptions:
+  - <ruby><rb>暖</rb><rt>あたた</rt></ruby>かい<ruby><rb>地方</rb><rt>ちほう</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>果物</rb><rt>くだもの</rt></ruby>の<ruby><rb>木</rb><rt>き</rt></ruby>。また、その<ruby><rb>実</rb><rt>み</rt></ruby>。<ruby><rb>六月</rb><rt>ろくがつ</rt></ruby>ごろ<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>き、<ruby><rb>秋</rb><rt>あき</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりに<ruby><rb>実</rb><rt>み</rt></ruby>がなる。あまみ・<ruby><rb>酸味</rb><rt>さんみ</rt></ruby>がある。
+- word: 農林水産省
+  descriptions:
+  - <ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>・<ruby><rb>林業</rb><rt>りんぎょう</rt></ruby>・<ruby><rb>水産業</rb><rt>すいさんぎょう</rt></ruby>・<ruby><rb>畜産業</rb><rt>ちくさんぎょう</rt></ruby>などについての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>農水省</rb><rt>のうすいしょう</rt></ruby>。
+- word: 市場
+  descriptions:
+  - <ruby><rb>商人</rb><rt>しょうにん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などを<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>買</rb><rt>か</rt></ruby>いする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>市</rb><rt>いち</rt></ruby>。
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>などの<ruby><rb>小売店</rb><rt>こうりてん</rt></ruby>が、<ruby><rb>一</rb><rt>いっ</rt></ruby>か<ruby><rb>所</rb><rt>しょ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>っている<ruby><rb>所</rb><rt>ところ</rt></ruby>。マーケット。
+- word: 傷つく
+  descriptions:
+  - けがをする。
+  - こわれる。いたむ。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のめいよや<ruby><rb>気持</rb><rt>きも</rt></ruby>ちがそこなわれる。
+- word: 太陽
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。
+- word: 育つ
+  descriptions:
+  - <ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+  - <ruby><rb>一人前</rb><rt>いちにんまえ</rt></ruby>になる。
+- word: 量
+  descriptions:
+  - かさ。ますめ。
+  - ものをはかる。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>広</rb><rt>ひろ</rt></ruby>さ。<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさ。
+- word: 減る
+  descriptions:
+  - <ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。
+  - すく。
+source_url: http://www3.nhk.or.jp/news/easy/k10011271991000/k10011271991000.html
+web_title_with_ruby: みかん <ruby>去年<rt>きょねん</rt></ruby>より30％<ruby>近<rt>ちか</rt></ruby>く<ruby>高値<rt>たかね</rt></ruby>に
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/26/みかん-去年より30近く高値に
+related_news:
+- title: レタスの<ruby>値段<rt>ねだん</rt></ruby>がいつもの<ruby>年<rt>とし</rt></ruby>の１．７<ruby>倍<rt>ばい</rt></ruby>　<ruby>大根<rt>だいこん</rt></ruby>と<ruby>白菜<rt>はくさい</rt></ruby>も<ruby>高<rt>たか</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2017/11/30/レタスの値段がいつもの年の17倍-大根と白菜も高い
+- title: <ruby>米<rt>こめ</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がって<ruby>天丼<rt>てんどん</rt></ruby>などが<ruby>高<rt>たか</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2017/12/13/米の値段が上がって天丼などが高くなる
+- title: <ruby>今年<rt>ことし</rt></ruby>はサケがとれない　イクラの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がる
+  url: https://newswebeasy.github.io/news/easy/2017/10/20/今年はサケがとれない-イクラの値段が上がる
+...

@@ -1,0 +1,73 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011271331000
+last_modified_at: '2017-12-28T12:30:00+09:00'
+datetime: 2017<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 東京都では、誰が飼っているかわからない犬や猫などがいて、飼う人が見つからない場合などは殺すことがあります。
+title: 東京都が犬や猫を飼う人を探すウェブサイトを作る
+title_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby>が<ruby>犬<rt>いぬ</rt></ruby>や<ruby>猫<rt>ねこ</rt></ruby>を<ruby>飼<rt>か</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>を<ruby>探<rt>さが</rt></ruby>すウェブサイトを<ruby>作<rt>つく</rt></ruby>る
+outline: 東京都では、誰が飼っているかわからない犬や猫などがいて、飼う人が見つからない場合などは殺すことがあります。
+outline_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby>では、<ruby>誰<rt>だれ</rt></ruby>が<ruby>飼<rt>か</rt></ruby>っているかわからない<ruby>犬<rt>いぬ</rt></ruby>や<ruby>猫<rt>ねこ</rt></ruby>などがいて、<ruby>飼<rt>か</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>つからない<ruby>場合<rt>ばあい</rt></ruby>などは<ruby>殺<rt>ころ</rt></ruby>すことがあります。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/26/K10011271331_1712260850_1712260912_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201712/news/easy/voice/2017/12/28/k10011271331000.mp3
+content_with_ruby: "<p><ruby>東京都<rt>とうきょうと</rt></ruby>では、<ruby>誰<rt>だれ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>飼<rt>か</rt></ruby>っ</span>ているかわからない<ruby>犬<rt>いぬ</rt></ruby>や<ruby>猫<rt>ねこ</rt></ruby>などがいて、<span\
+  \ style=\"color: blue;\"><ruby>飼<rt>か</rt></ruby>う</span><ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>つからない<ruby>場合<rt>ばあい</rt></ruby>などは<span\
+  \ style=\"color: blue;\"><ruby>殺<rt>ころ</rt></ruby>す</span>ことがあります。<ruby>去年<rt>きょねん</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>から<ruby>今年<rt>ことし</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>殺<rt>ころ</rt></ruby>し</span>た<ruby>犬<rt>いぬ</rt></ruby>はいませんでしたが、<ruby>猫<rt>ねこ</rt></ruby>は９４<ruby>匹<rt>ひき</rt></ruby>いました。</p>\n\
+  <p><ruby>東京都<rt>とうきょうと</rt></ruby>は、<ruby>犬<rt>いぬ</rt></ruby>や<ruby>猫<rt>ねこ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>殺<rt>ころ</rt></ruby>さ</span>ないようにするため、「ワンニャンとうきょう」という<span\
+  \ style=\"color: blue;\">ウェブサイト</span>を<ruby>作<rt>つく</rt></ruby>って、<span style=\"\
+  color: blue;\"><ruby>飼<rt>か</rt></ruby>う</span><ruby>人<rt>ひと</rt></ruby>を<ruby>探<rt>さが</rt></ruby>すことにしました。この<span\
+  \ style=\"color: blue;\">ウェブサイト</span>では<ruby>犬<rt>いぬ</rt></ruby>や<ruby>猫<rt>ねこ</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>、<ruby>年<rt>とし</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>性格<rt>せいかく</rt></ruby></span>などを<ruby>紹介<rt>しょうかい</rt></ruby>しています。<span\
+  \ style=\"color: blue;\"><ruby>飼<rt>か</rt></ruby>う</span><ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかったら、その<ruby>人<rt>ひと</rt></ruby>に<ruby>犬<rt>いぬ</rt></ruby>や<ruby>猫<rt>ねこ</rt></ruby>をあげます。</p>\n\
+  <p><ruby>東京都<rt>とうきょうと</rt></ruby>は、２０２０<ruby>年<rt>ねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>までに<ruby>犬<rt>いぬ</rt></ruby>や<ruby>猫<rt>ねこ</rt></ruby>を１<ruby>匹<rt>ぴき</rt></ruby>も<span\
+  \ style=\"color: blue;\"><ruby>殺<rt>ころ</rt></ruby>さ</span>ないようにしたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 飼う
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>にえさをあたえて<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+- word: 飼う
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>にえさをあたえて<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。
+- word: 殺す
+  descriptions:
+  - <ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - （<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。
+  - <ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。
+- word: 殺す
+  descriptions:
+  - <ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - （<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。
+  - <ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。
+- word: 殺す
+  descriptions:
+  - <ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - （<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。
+  - <ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。
+- word: 性格
+  descriptions:
+  - その<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>生</rb><rt>う</rt></ruby>まれつき<ruby><rb>持</rb><rt>も</rt></ruby>っている<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。<ruby><rb>人</rb><rt>ひと</rt></ruby>がら。
+  - ものごとが<ruby><rb>持</rb><rt>も</rt></ruby>っている<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011271331000/k10011271331000.html
+web_title_with_ruby: <ruby>動物<rt>どうぶつ</rt></ruby><ruby>殺処分<rt>さつしょぶん</rt></ruby>ゼロへ
+  <ruby>東京都<rt>とうきょうと</rt></ruby>が<ruby>犬<rt>いぬ</rt></ruby>や<ruby>猫<rt>ねこ</rt></ruby>の<ruby>譲渡<rt>じょうと</rt></ruby><ruby>サイト<rt>さいと</rt></ruby><ruby>開設<rt>かいせつ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/26/動物殺処分ゼロへ-東京都が犬や猫の譲渡サイト開設
+related_news:
+- title: <ruby>来年<rt>らいねん</rt></ruby>は「いぬ」の<ruby>年<rt>とし</rt></ruby>　ペットの<ruby>犬<rt>いぬ</rt></ruby>をみんなに<ruby>見<rt>み</rt></ruby>てほしい
+  url: https://newswebeasy.github.io/news/easy/2017/12/01/来年はいぬの年-ペットの犬をみんなに見てほしい
+- title: <ruby>猫<rt>ねこ</rt></ruby>と<ruby>車<rt>くるま</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るために「<ruby>猫<rt>ねこ</rt></ruby>バンバン」をしてほしい
+  url: https://newswebeasy.github.io/news/easy/2017/12/25/猫と車の安全を守るために猫バンバンをしてほしい
+- title: マダニのウイルスがペットの<ruby>犬<rt>いぬ</rt></ruby>から<ruby>人<rt>ひと</rt></ruby>にうつる
+  url: https://newswebeasy.github.io/news/easy/2017/10/12/マダニのウイルスがペットの犬から人にうつる
+...
