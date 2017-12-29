@@ -1,0 +1,90 @@
+---
+layout: web_news
+categories: web
+newsid: k10011274341000
+title: 年末年始の天気 太平洋側は初日の出も
+title_with_ruby: <ruby>年末<rt data-ruby-level="4">ねんまつ</rt></ruby><ruby>年始<rt data-ruby-level="3">ねんし</rt></ruby>の<ruby>天気<rt
+  data-ruby-level="1">てんき</rt></ruby> <ruby>太平洋側<rt data-ruby-level="4">たいへいようがわ</rt></ruby>は<ruby>初日<rt
+  data-ruby-level="4">はつひ</rt></ruby>の<ruby>出<rt data-ruby-level="4">で</rt></ruby>も
+last_modified_at: '2017-12-28T16:52:00+09:00'
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>12<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>28<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 16<ruby>時<rt data-ruby-level="2">じ</rt></ruby>52<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ２９日から新年１月３日までの年末年始は、日本海側では曇りや雪の日が多くなると予想されていますが、太平洋側は晴れる日が多くなり、元日の朝は初日の出が見られるところもある見込みです。
+summary: ２９<ruby>日<rt data-ruby-level="1">にち</rt></ruby>から<ruby>新年<rt data-ruby-level="2">しんねん</rt></ruby>１<ruby>月<rt
+  data-ruby-level="1">がつ</rt></ruby>３<ruby>日<rt data-ruby-level="1">にち</rt></ruby>までの<ruby>年末<rt
+  data-ruby-level="4">ねんまつ</rt></ruby><ruby>年始<rt data-ruby-level="3">ねんし</rt></ruby>は、<ruby>日本海側<rt
+  data-ruby-level="4">にほんかいがわ</rt></ruby>では<ruby>曇<rt data-ruby-level="7">くも</rt></ruby>りや<ruby>雪<rt
+  data-ruby-level="2">ゆき</rt></ruby>の<ruby>日<rt data-ruby-level="1">ひ</rt></ruby>が<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>くなると<ruby>予想<rt data-ruby-level="3">よそう</rt></ruby>されていますが、<ruby>太平洋側<rt
+  data-ruby-level="4">たいへいようがわ</rt></ruby>は<ruby>晴<rt data-ruby-level="2">は</rt></ruby>れる<ruby>日<rt
+  data-ruby-level="1">ひ</rt></ruby>が<ruby>多<rt data-ruby-level="2">おお</rt></ruby>くなり、<ruby>元日<rt
+  data-ruby-level="2">がんじつ</rt></ruby>の<ruby>朝<rt data-ruby-level="2">あさ</rt></ruby>は<ruby>初日<rt
+  data-ruby-level="4">はつひ</rt></ruby>の<ruby>出<rt data-ruby-level="4">で</rt></ruby>が<ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>られるところもある<ruby>見込<rt data-ruby-level="7">みこ</rt></ruby>みです。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/28/K10011274341_1712281703_1712281705_01_02.jpg
+more: <ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>によりますと、２９<ruby>日<rt data-ruby-level="1">にち</rt></ruby>から<ruby>新年<rt
+  data-ruby-level="2">しんねん</rt></ruby>１<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>３<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>までの<ruby>年末<rt data-ruby-level="4">ねんまつ</rt></ruby><ruby>年始<rt
+  data-ruby-level="3">ねんし</rt></ruby>は、<ruby>冬型<rt data-ruby-level="4">ふゆがた</rt></ruby>の<ruby>気圧<rt
+  data-ruby-level="5">きあつ</rt></ruby><ruby>配置<rt data-ruby-level="4">はいち</rt></ruby>が<ruby>続<rt
+  data-ruby-level="4">つづ</rt></ruby>く<ruby>影響<rt data-ruby-level="7">えいきょう</rt></ruby>で、<ruby>北日本<rt
+  data-ruby-level="2">きたにっぽん</rt></ruby>から<ruby>西日本<rt data-ruby-level="2">にしにほん</rt></ruby>にかけての<ruby>日本海側<rt
+  data-ruby-level="4">にほんかいがわ</rt></ruby>を<ruby>中心<rt data-ruby-level="2">ちゅうしん</rt></ruby>に、<ruby>曇<rt
+  data-ruby-level="7">くも</rt></ruby>りや<ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>、または<ruby>雨<rt
+  data-ruby-level="1">あめ</rt></ruby>の<ruby>日<rt data-ruby-level="1">ひ</rt></ruby>が<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>くなる<ruby>見込<rt data-ruby-level="7">みこ</rt></ruby>みです。<br
+  /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>、<ruby>太平洋側<rt data-ruby-level="4">たいへいようがわ</rt></ruby>は<ruby>大<rt
+  data-ruby-level="1">おお</rt></ruby>みそかは<ruby>低気圧<rt data-ruby-level="5">ていきあつ</rt></ruby>の<ruby>影響<rt
+  data-ruby-level="7">えいきょう</rt></ruby>で<ruby>曇<rt data-ruby-level="7">くも</rt></ruby>りや<ruby>雨<rt
+  data-ruby-level="1">あめ</rt></ruby>となりますが、このほかの<ruby>日<rt data-ruby-level="1">ひ</rt></ruby>は<ruby>晴<rt
+  data-ruby-level="2">は</rt></ruby>れる<ruby>日<rt data-ruby-level="1">ひ</rt></ruby>が<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>くなる<ruby>見込<rt data-ruby-level="7">みこ</rt></ruby>みです。<br
+  />また、<ruby>沖縄<rt data-ruby-level="7">おきなわ</rt></ruby>・<ruby>奄美<rt data-ruby-level="8">あまみ</rt></ruby>は<ruby>上空<rt
+  data-ruby-level="1">じょうくう</rt></ruby>の<ruby>寒気<rt data-ruby-level="3">かんき</rt></ruby>や<ruby>湿<rt
+  data-ruby-level="7">しめ</rt></ruby>った<ruby>空気<rt data-ruby-level="1">くうき</rt></ruby>の<ruby>影響<rt
+  data-ruby-level="7">えいきょう</rt></ruby>で<ruby>雲<rt data-ruby-level="2">くも</rt></ruby>が<ruby>広<rt
+  data-ruby-level="2">ひろ</rt></ruby>がる<ruby>日<rt data-ruby-level="1">ひ</rt></ruby>が<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>くなると<ruby>予想<rt data-ruby-level="3">よそう</rt></ruby>されています。<br
+  /><br />このため<ruby>元日<rt data-ruby-level="2">がんじつ</rt></ruby>の<ruby>朝<rt data-ruby-level="2">あさ</rt></ruby>は、<ruby>日本海側<rt
+  data-ruby-level="4">にほんかいがわ</rt></ruby>や<ruby>沖縄<rt data-ruby-level="7">おきなわ</rt></ruby>・<ruby>奄美<rt
+  data-ruby-level="8">あまみ</rt></ruby>では<ruby>雲<rt data-ruby-level="2">くも</rt></ruby>が<ruby>広<rt
+  data-ruby-level="2">ひろ</rt></ruby>がると<ruby>予想<rt data-ruby-level="3">よそう</rt></ruby>されていますが、<ruby>太平洋側<rt
+  data-ruby-level="4">たいへいようがわ</rt></ruby>では、<ruby>初日<rt data-ruby-level="4">はつひ</rt></ruby>の<ruby>出<rt
+  data-ruby-level="4">で</rt></ruby>が<ruby>見<rt data-ruby-level="1">み</rt></ruby>られるところがある<ruby>見込<rt
+  data-ruby-level="7">みこ</rt></ruby>みです。<br /><br /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>、１<ruby>月<rt
+  data-ruby-level="1">がつ</rt></ruby>２<ruby>日<rt data-ruby-level="1">にち</rt></ruby>ごろは、<ruby>低気圧<rt
+  data-ruby-level="5">ていきあつ</rt></ruby>や<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>い<ruby>冬型<rt
+  data-ruby-level="4">ふゆがた</rt></ruby>の<ruby>気圧<rt data-ruby-level="5">きあつ</rt></ruby><ruby>配置<rt
+  data-ruby-level="4">はいち</rt></ruby>の<ruby>影響<rt data-ruby-level="7">えいきょう</rt></ruby>で<ruby>北日本<rt
+  data-ruby-level="2">きたにっぽん</rt></ruby>を<ruby>中心<rt data-ruby-level="2">ちゅうしん</rt></ruby>に<ruby>荒<rt
+  data-ruby-level="7">あ</rt></ruby>れた<ruby>天気<rt data-ruby-level="1">てんき</rt></ruby>となるおそれがあります。<br
+  /><br /><ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>は、<ruby>最新<rt data-ruby-level="4">さいしん</rt></ruby>の<ruby>気象<rt
+  data-ruby-level="4">きしょう</rt></ruby><ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>を<ruby>確認<rt
+  data-ruby-level="7">かくにん</rt></ruby>するよう<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけています。
+source_url: https://www3.nhk.or.jp/news/html/20171228/k10011274341000.html
+related_news:
+- title: <ruby>九州<rt data-ruby-level="3">きゅうしゅう</rt></ruby>・<ruby>四国<rt data-ruby-level="2">しこく</rt></ruby>・<ruby>中国地方<rt
+    data-ruby-level="2">ちゅうごくちほう</rt></ruby> <ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>で<ruby>初雪<rt
+    data-ruby-level="4">はつゆき</rt></ruby> <ruby>交通<rt data-ruby-level="2">こうつう</rt></ruby><ruby>影響<rt
+    data-ruby-level="7">えいきょう</rt></ruby>など<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/05/九州四国中国地方-各地で初雪-交通影響など注意
+- title: <ruby>台風<rt data-ruby-level="2">たいふう</rt></ruby>21<ruby>号<rt data-ruby-level="3">ごう</rt></ruby>
+    あす<ruby>大東<rt data-ruby-level="2">だいとう</rt></ruby><ruby>島<rt data-ruby-level="3">とう</rt></ruby><ruby>地方<rt
+    data-ruby-level="2">ちほう</rt></ruby>に<ruby>接近<rt data-ruby-level="5">せっきん</rt></ruby>
+    <ruby>広範囲<rt data-ruby-level="7">こうはんい</rt></ruby>で<ruby>大荒<rt data-ruby-level="7">おおあ</rt></ruby>れに
+  url: https://newswebeasy.github.io/news/web/2017/10/20/台風21号-あす大東島地方に接近-広範囲で大荒れに
+- title: <ruby>札幌<rt data-ruby-level="8">さっぽろ</rt></ruby>で<ruby>初雪<rt data-ruby-level="4">はつゆき</rt></ruby>を<ruby>観測<rt
+    data-ruby-level="5">かんそく</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/10/23/札幌で初雪を観測
+- title: <ruby>今冬<rt data-ruby-level="2">こんとう</rt></ruby>の<ruby>寒<rt data-ruby-level="3">さむ</rt></ruby>さに<ruby>注意<rt
+    data-ruby-level="3">ちゅうい</rt></ruby>を 「ラニーニャ<ruby>現象<rt data-ruby-level="5">げんしょう</rt></ruby>」<ruby>発生<rt
+    data-ruby-level="3">はっせい</rt></ruby>か <ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby><ruby>発表<rt
+    data-ruby-level="3">はっぴょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/11/今冬の寒さに注意を-ラニーニャ現象発生か-気象庁発表
+- title: <ruby>北海道<rt data-ruby-level="2">ほっかいどう</rt></ruby> <ruby>留萌<rt data-ruby-level="8">るもい</rt></ruby><ruby>港<rt
+    data-ruby-level="3">こう</rt></ruby>の<ruby>灯台<rt data-ruby-level="4">とうだい</rt></ruby>が<ruby>倒壊<rt
+    data-ruby-level="7">とうかい</rt></ruby> <ruby>高波<rt data-ruby-level="3">たかなみ</rt></ruby>の<ruby>可能性<rt
+    data-ruby-level="5">かのうせい</rt></ruby>も
+  url: https://newswebeasy.github.io/news/web/2017/12/26/北海道-留萌港の灯台が倒壊-高波の可能性も
+...
