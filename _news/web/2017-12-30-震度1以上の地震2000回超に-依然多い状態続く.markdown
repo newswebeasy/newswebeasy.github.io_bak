@@ -1,0 +1,100 @@
+---
+layout: web_news
+categories: web
+newsid: k10011275361000
+title: 震度１以上の地震2000回超に 依然多い状態続く
+title_with_ruby: <ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>１<ruby>以上<rt data-ruby-level="4">いじょう</rt></ruby>の<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>2000<ruby>回<rt data-ruby-level="2">かい</rt></ruby><ruby>超<rt
+  data-ruby-level="7">ちょう</rt></ruby>に <ruby>依然<rt data-ruby-level="7">いぜん</rt></ruby><ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>い<ruby>状態<rt data-ruby-level="5">じょうたい</rt></ruby><ruby>続<rt
+  data-ruby-level="4">つづ</rt></ruby>く
+last_modified_at: '2017-12-30T04:52:00+09:00'
+datetime: 2017<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>12<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>30<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 04<ruby>時<rt data-ruby-level="2">じ</rt></ruby>52<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ことし、震度１以上の揺れを観測した地震の回数は、２９日夜までに２０００回を超えました。熊本地震が起きた去年より大幅に減りましたが、東日本大震災の前と比べると依然として多い状態が続いていて、気象庁は備えを進めるよう呼びかけています。
+summary: ことし、<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>１<ruby>以上<rt data-ruby-level="4">いじょう</rt></ruby>の<ruby>揺<rt
+  data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>した<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>の<ruby>回数<rt data-ruby-level="2">かいすう</rt></ruby>は、２９<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby><ruby>夜<rt data-ruby-level="2">よる</rt></ruby>までに２０００<ruby>回<rt
+  data-ruby-level="2">かい</rt></ruby>を<ruby>超<rt data-ruby-level="7">こ</rt></ruby>えました。<ruby>熊本<rt
+  data-ruby-level="7">くまもと</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>が<ruby>起<rt
+  data-ruby-level="3">お</rt></ruby>きた<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>より<ruby>大幅<rt
+  data-ruby-level="7">おおはば</rt></ruby>に<ruby>減<rt data-ruby-level="5">へ</rt></ruby>りましたが、<ruby>東日本<rt
+  data-ruby-level="2">ひがしにほん</rt></ruby><ruby>大震災<rt data-ruby-level="7">だいしんさい</rt></ruby>の<ruby>前<rt
+  data-ruby-level="2">まえ</rt></ruby>と<ruby>比<rt data-ruby-level="5">くら</rt></ruby>べると<ruby>依然<rt
+  data-ruby-level="7">いぜん</rt></ruby>として<ruby>多<rt data-ruby-level="2">おお</rt></ruby>い<ruby>状態<rt
+  data-ruby-level="5">じょうたい</rt></ruby>が<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>いていて、<ruby>気象庁<rt
+  data-ruby-level="6">きしょうちょう</rt></ruby>は<ruby>備<rt data-ruby-level="5">そな</rt></ruby>えを<ruby>進<rt
+  data-ruby-level="3">すす</rt></ruby>めるよう<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけています。
+image_url: https://newswebeasy.github.io/ja201712/news/web/image/2017/12/30/K10011275361_1712300951_1712300956_01_03.jpg
+more: <ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>によりますと、ことし、<ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby>で<ruby>震度<rt
+  data-ruby-level="7">しんど</rt></ruby>１<ruby>以上<rt data-ruby-level="4">いじょう</rt></ruby>の<ruby>揺<rt
+  data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>した<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>の<ruby>回数<rt data-ruby-level="2">かいすう</rt></ruby>は、２９<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby><ruby>夜<rt data-ruby-level="2">よる</rt></ruby>７<ruby>時<rt
+  data-ruby-level="2">じ</rt></ruby>までに２０１４<ruby>回<rt data-ruby-level="2">かい</rt></ruby>に<ruby>上<rt
+  data-ruby-level="1">のぼ</rt></ruby>りました。<br /><br />このうち、<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>弱以上<rt
+  data-ruby-level="4">じゃくいじょう</rt></ruby>の<ruby>揺<rt data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>した<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>は<ruby>合<rt
+  data-ruby-level="2">あ</rt></ruby>わせて８<ruby>回<rt data-ruby-level="2">かい</rt></ruby><ruby>発生<rt
+  data-ruby-level="3">はっせい</rt></ruby>し、６<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>２５<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>には<ruby>長野県<rt data-ruby-level="3">ながのけん</rt></ruby><ruby>南部<rt
+  data-ruby-level="3">なんぶ</rt></ruby>を<ruby>震源<rt data-ruby-level="7">しんげん</rt></ruby>とするマグニチュード５．６の<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>が<ruby>起<rt data-ruby-level="3">お</rt></ruby>きて、<ruby>長野県<rt
+  data-ruby-level="3">ながのけん</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>強<rt
+  data-ruby-level="2">きょう</rt></ruby>の<ruby>揺<rt data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>し、２<ruby>人<rt data-ruby-level="1">にん</rt></ruby>がけがをしたほか、<ruby>住宅<rt
+  data-ruby-level="6">じゅうたく</rt></ruby>２７<ruby>棟<rt data-ruby-level="7">むね</rt></ruby>が<ruby>一部<rt
+  data-ruby-level="3">いちぶ</rt></ruby><ruby>破損<rt data-ruby-level="5">はそん</rt></ruby>する<ruby>被害<rt
+  data-ruby-level="7">ひがい</rt></ruby>が<ruby>出<rt data-ruby-level="1">で</rt></ruby>ました。<br
+  /><br />また、７<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>１１<ruby>日<rt data-ruby-level="1">にち</rt></ruby>には、<ruby>鹿児島湾<rt
+  data-ruby-level="8">かごしまわん</rt></ruby>を<ruby>震源<rt data-ruby-level="7">しんげん</rt></ruby>とするマグニチュード５．３の<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>が<ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby>し、<ruby>鹿児島市<rt
+  data-ruby-level="8">かごしまし</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>強<rt
+  data-ruby-level="2">きょう</rt></ruby>を<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>し、１<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>がけがをしました。<br /><br /><ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>１<ruby>以上<rt
+  data-ruby-level="4">いじょう</rt></ruby>の<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>の<ruby>回数<rt
+  data-ruby-level="2">かいすう</rt></ruby>は、<ruby>東日本<rt data-ruby-level="2">ひがしにほん</rt></ruby><ruby>大震災<rt
+  data-ruby-level="7">だいしんさい</rt></ruby>が<ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby>した<ruby>平成<rt
+  data-ruby-level="4">へいせい</rt></ruby>２３<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>は１<ruby>万<rt
+  data-ruby-level="2">まん</rt></ruby><ruby>回<rt data-ruby-level="2">かい</rt></ruby>を<ruby>超<rt
+  data-ruby-level="7">こ</rt></ruby>えたものの、その<ruby>後<rt data-ruby-level="2">ご</rt></ruby>は<ruby>減<rt
+  data-ruby-level="5">へ</rt></ruby>り<ruby>続<rt data-ruby-level="5">つづ</rt></ruby>け、おととしは１８００<ruby>回<rt
+  data-ruby-level="2">かい</rt></ruby><ruby>余<rt data-ruby-level="5">あま</rt></ruby>りでしたが、<ruby>去年<rt
+  data-ruby-level="3">きょねん</rt></ruby>は<ruby>熊本<rt data-ruby-level="7">くまもと</rt></ruby><ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>の<ruby>影響<rt data-ruby-level="7">えいきょう</rt></ruby>で６５００<ruby>回<rt
+  data-ruby-level="2">かい</rt></ruby>を<ruby>超<rt data-ruby-level="7">こ</rt></ruby>えました。ことしは、<ruby>去年<rt
+  data-ruby-level="3">きょねん</rt></ruby>の３<ruby>分<rt data-ruby-level="2">ふん</rt></ruby>の１<ruby>以下<rt
+  data-ruby-level="4">いか</rt></ruby>に<ruby>減<rt data-ruby-level="5">へ</rt></ruby>りましたが、<ruby>東日本<rt
+  data-ruby-level="2">ひがしにほん</rt></ruby><ruby>大震災<rt data-ruby-level="7">だいしんさい</rt></ruby>の<ruby>前年<rt
+  data-ruby-level="2">ぜんねん</rt></ruby>、<ruby>平成<rt data-ruby-level="4">へいせい</rt></ruby>２２<ruby>年<rt
+  data-ruby-level="1">ねん</rt></ruby>までの１０<ruby>年間<rt data-ruby-level="2">ねんかん</rt></ruby>の<ruby>年平均<rt
+  data-ruby-level="5">ねんへいきん</rt></ruby><ruby>回数<rt data-ruby-level="2">かいすう</rt></ruby>と<ruby>比<rt
+  data-ruby-level="5">くら</rt></ruby>べると、<ruby>依然<rt data-ruby-level="7">いぜん</rt></ruby>として<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>い<ruby>状態<rt data-ruby-level="5">じょうたい</rt></ruby>が<ruby>続<rt
+  data-ruby-level="4">つづ</rt></ruby>いています。<br /><br /><ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>は「<ruby>東日本<rt
+  data-ruby-level="2">ひがしにほん</rt></ruby><ruby>大震災<rt data-ruby-level="7">だいしんさい</rt></ruby><ruby>以降<rt
+  data-ruby-level="6">いこう</rt></ruby>、<ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>で<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby><ruby>活動<rt data-ruby-level="3">かつどう</rt></ruby>が<ruby>活発<rt
+  data-ruby-level="3">かっぱつ</rt></ruby>な<ruby>状態<rt data-ruby-level="5">じょうたい</rt></ruby>が<ruby>続<rt
+  data-ruby-level="4">つづ</rt></ruby>いているので、<ruby>来年<rt data-ruby-level="2">らいねん</rt></ruby>も<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>への<ruby>備<rt data-ruby-level="5">そな</rt></ruby>えを<ruby>進<rt
+  data-ruby-level="3">すす</rt></ruby>めてほしい」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>しています。
+movie_url: https://newswebeasy.github.io/ja201712/news/web/movie/2017/12/30/k10011275361_201712300953_201712300955.mp4
+voice_url: https://newswebeasy.github.io/ja201712/news/web/voice/2017/12/30/k10011275361_201712300953_201712300955.mp3
+source_url: https://www3.nhk.or.jp/news/html/20171230/k10011275361000.html
+related_news:
+- title: イラン・イラクの<ruby>国境<rt data-ruby-level="5">こっきょう</rt></ruby><ruby>付近<rt data-ruby-level="4">ふきん</rt></ruby>の<ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby> <ruby>死者<rt data-ruby-level="3">ししゃ</rt></ruby>が４５０<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby><ruby>超<rt data-ruby-level="7">こ</rt></ruby>える
+  url: https://newswebeasy.github.io/news/web/2017/11/14/イランイラクの国境付近の地震-死者が450人超える
+- title: <ruby>今冬<rt data-ruby-level="2">こんとう</rt></ruby>の<ruby>寒<rt data-ruby-level="3">さむ</rt></ruby>さに<ruby>注意<rt
+    data-ruby-level="3">ちゅうい</rt></ruby>を 「ラニーニャ<ruby>現象<rt data-ruby-level="5">げんしょう</rt></ruby>」<ruby>発生<rt
+    data-ruby-level="3">はっせい</rt></ruby>か <ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby><ruby>発表<rt
+    data-ruby-level="3">はっぴょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/11/今冬の寒さに注意を-ラニーニャ現象発生か-気象庁発表
+- title: <ruby>新燃岳<rt data-ruby-level="8">しんもえだけ</rt></ruby> <ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby><ruby>警戒<rt
+    data-ruby-level="7">けいかい</rt></ruby>レベル３に
+  url: https://newswebeasy.github.io/news/web/2017/10/11/新燃岳-噴火警戒レベル3に
+...
