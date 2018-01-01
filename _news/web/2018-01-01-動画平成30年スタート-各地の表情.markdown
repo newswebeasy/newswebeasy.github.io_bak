@@ -1,0 +1,30 @@
+---
+layout: web_news
+categories: web
+newsid: k10011276611000
+title: 動画）平成３０年スタート 各地の表情
+title_with_ruby: <ruby>動画<rt data-ruby-level="3">どうが</rt></ruby>）<ruby>平成<rt data-ruby-level="4">へいせい</rt></ruby>３０<ruby>年<rt
+  data-ruby-level="1">ねん</rt></ruby>スタート <ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>の<ruby>表情<rt
+  data-ruby-level="5">ひょうじょう</rt></ruby>
+last_modified_at: '2018-01-01T07:11:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>01<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>01<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 07<ruby>時<rt data-ruby-level="2">じ</rt></ruby>11<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 平成３０年１月１日。明けまして、おめでとうございます。新年を迎えた各地の表情を動画でまとめました。（データ放送ではご覧になれません）
+summary: <ruby>平成<rt data-ruby-level="4">へいせい</rt></ruby>３０<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>１<ruby>月<rt
+  data-ruby-level="1">がつ</rt></ruby>１<ruby>日<rt data-ruby-level="1">にち</rt></ruby>。<ruby>明<rt
+  data-ruby-level="2">あ</rt></ruby>けまして、おめでとうございます。<ruby>新年<rt data-ruby-level="2">しんねん</rt></ruby>を<ruby>迎<rt
+  data-ruby-level="7">むか</rt></ruby>えた<ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>の<ruby>表情<rt
+  data-ruby-level="5">ひょうじょう</rt></ruby>を<ruby>動画<rt data-ruby-level="3">どうが</rt></ruby>でまとめました。（データ<ruby>放送<rt
+  data-ruby-level="3">ほうそう</rt></ruby>ではご<ruby>覧<rt data-ruby-level="6">らん</rt></ruby>になれません）
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/01/K10011276611_1801010712_1801010712_01_03.jpg
+movie_url: https://newswebeasy.github.io/ja201801/news/web/movie/2018/01/01/k10011276611_201801010712_201801010712.mp4
+voice_url: https://newswebeasy.github.io/ja201801/news/web/voice/2018/01/01/k10011276611_201801010712_201801010712.mp3
+source_url: https://www3.nhk.or.jp/news/html/20180101/k10011276611000.html
+related_news:
+- title: 「８Ｋ」など<ruby>最新<rt data-ruby-level="4">さいしん</rt></ruby><ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>を<ruby>紹介<rt
+    data-ruby-level="7">しょうかい</rt></ruby> <ruby>国際<rt data-ruby-level="5">こくさい</rt></ruby><ruby>放送<rt
+    data-ruby-level="3">ほうそう</rt></ruby><ruby>機器<rt data-ruby-level="4">きき</rt></ruby><ruby>展<rt
+    data-ruby-level="6">てん</rt></ruby> <ruby>始<rt data-ruby-level="3">はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/web/2017/11/15/8Kなど最新技術を紹介-国際放送機器展-始まる
+...
