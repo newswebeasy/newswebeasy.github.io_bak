@@ -1,0 +1,62 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011274811000
+last_modified_at: '2018-01-04T17:20:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>04<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: 日本のいろいろな場所にあって国が管理している国営公園には、入るときに入園料を払う公園もあります。
+title: 国営公園　今年４月から子どもの入園料が無料になる
+title_with_ruby: <ruby>国営公園<rt>こくえいこうえん</rt></ruby>　<ruby>今年<rt>ことし</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>から<ruby>子<rt>こ</rt></ruby>どもの<ruby>入園<rt>にゅうえん</rt></ruby><ruby>料<rt>りょう</rt></ruby>が<ruby>無料<rt>むりょう</rt></ruby>になる
+outline: 日本のいろいろな場所にあって国が管理している国営公園には、入るときに入園料を払う公園もあります。
+outline_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>のいろいろな<ruby>場所<rt>ばしょ</rt></ruby>にあって<ruby>国<rt>くに</rt></ruby>が<ruby>管理<rt>かんり</rt></ruby>している<ruby>国営公園<rt>こくえいこうえん</rt></ruby>には、<ruby>入<rt>はい</rt></ruby>るときに<ruby>入園<rt>にゅうえん</rt></ruby><ruby>料<rt>りょう</rt></ruby>を<ruby>払<rt>はら</rt></ruby>う<ruby>公園<rt>こうえん</rt></ruby>もあります。
+image_url: https://newswebeasy.github.io/ja201801/news/easy/image/2018/01/04/k10011274811000.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/04/k10011274811000.mp3
+content_with_ruby: "<p><ruby>日本<rt>にっぽん</rt></ruby>のいろいろな<ruby>場所<rt>ばしょ</rt></ruby>にあって<ruby>国<rt>くに</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>管理<rt>かんり</rt></ruby></span>している<ruby>国営公園<rt>こくえいこうえん</rt></ruby>には、<ruby>入<rt>はい</rt></ruby>るときに<span\
+  \ style=\"color: blue;\"><ruby>入園<rt>にゅうえん</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>料<rt>りょう</rt></ruby></span>を<ruby>払<rt>はら</rt></ruby>う<ruby>公園<rt>こうえん</rt></ruby>もあります。</p>\n\
+  <p>このうち１１の<ruby>公園<rt>こうえん</rt></ruby>は、<ruby>小学校<rt>しょうがっこう</rt></ruby>と<ruby>中学校<rt>ちゅうがっこう</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもの<span\
+  \ style=\"color: blue;\"><ruby>入園<rt>にゅうえん</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>料<rt>りょう</rt></ruby></span>が８０<ruby>円<rt>えん</rt></ruby>、１５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が４１０<ruby>円<rt>えん</rt></ruby>になっています。<ruby>今年<rt>ことし</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>からこの<span\
+  \ style=\"color: blue;\"><ruby>入園<rt>にゅうえん</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>料<rt>りょう</rt></ruby></span>が、<ruby>中学校<rt>ちゅうがっこう</rt></ruby>までの<ruby>子<rt>こ</rt></ruby>どもは<span\
+  \ style=\"color: blue;\"><ruby>無料<rt>むりょう</rt></ruby></span>になります。１５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>は４０<ruby>円<rt>えん</rt></ruby><ruby>高<rt>たか</rt></ruby>い４５０<ruby>円<rt>えん</rt></ruby>になります。\n\
+  </p>\n<p><span style=\"color: blue;\"><ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby></span>は、<ruby>子<rt>こ</rt></ruby>どもが<span\
+  \ style=\"color: blue;\"><ruby>無料<rt>むりょう</rt></ruby></span>になるので、たくさんの<ruby>家族<rt>かぞく</rt></ruby>に<ruby>公園<rt>こうえん</rt></ruby>に<ruby>来<rt>き</rt></ruby>てほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 入園
+  descriptions:
+  - <ruby><rb>動物園</rb><rt>どうぶつえん</rt></ruby>など、<ruby><rb>園</rb><rt>えん</rt></ruby>のつく<ruby><rb>所</rb><rt>ところ</rt></ruby>に<ruby><rb>見学</rb><rt>けんがく</rt></ruby>や<ruby><rb>遊</rb><rt>あそ</rt></ruby>びに、<ruby><rb>入</rb><rt>はい</rt></ruby>ること。
+  - <ruby><rb>幼稚園</rb><rt>ようちえん</rt></ruby>・<ruby><rb>保育園</rb><rt>ほいくえん</rt></ruby>などに、<ruby><rb>入</rb><rt>はい</rt></ruby>ること。
+- word: 料
+  descriptions:
+  - はらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>代金</rb><rt>だいきん</rt></ruby>。
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るもとになる<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 無料
+  descriptions:
+  - <ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。
+- word: 管理
+  descriptions:
+  - ものごとを、<ruby><rb>取</rb><rt>と</rt></ruby>りしまること。
+  - よい<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>に<ruby><rb>保</rb><rt>たも</rt></ruby>つこと。
+- word: 国土交通省
+  descriptions:
+  - <ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>建物</rb><rt>たてもの</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>交通</rb><rt>こうつう</rt></ruby>・<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>の<ruby><rb>運送</rb><rt>うんそう</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>国交省</rb><rt>こっこうしょう</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011274811000/k10011274811000.html
+web_title_with_ruby: <ruby>スキー<rt>すきー</rt></ruby><ruby>ジャンプ<rt>じゃんぷ</rt></ruby> <ruby>高梨<rt>たかなし</rt></ruby><ruby>沙羅<rt>さら</rt></ruby><ruby>出場<rt>しゅつじょう</rt></ruby><ruby>予定<rt>よてい</rt></ruby>の<ruby>Ｗ杯<rt>わーるどかっぷ</rt></ruby>
+  <ruby>雪不足<rt>ゆきぶそく</rt></ruby>で<ruby>中止<rt>ちゅうし</rt></ruby>に
+web_news_url: https://newswebeasy.github.io/news/web/2017/12/29/スキージャンプ-高梨沙羅出場予定のW杯-雪不足で中止に
+related_news:
+- title: <ruby>去年<rt>きょねん</rt></ruby>５<ruby>歳<rt>さい</rt></ruby>より<ruby>小<rt>ちい</rt></ruby>さな<ruby>子<rt>こ</rt></ruby>どもが５６０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなった
+  url: https://newswebeasy.github.io/news/easy/2017/10/23/去年5歳より小さな子どもが560万人亡くなった
+- title: １<ruby>年<rt>ねん</rt></ruby>に３０<ruby>日<rt>にち</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>んだ<ruby>子<rt>こ</rt></ruby>どもは１３<ruby>万<rt>まん</rt></ruby>４０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/10/30/1年に30日以上学校を休んだ子どもは13万4000人以上
+- title: 「みんなで<ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>する<ruby>力<rt>ちから</rt></ruby>」<ruby>日本<rt>にっぽん</rt></ruby>の１５<ruby>歳<rt>さい</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>で２<ruby>番<rt>ばん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/11/24/みんなで問題を解決する力日本の15歳は世界で2番
+- title: <ruby>東京<rt>とうきょう</rt></ruby>でイベント「ダウン<ruby>症<rt>しょう</rt></ruby>のことを<ruby>知<rt>し</rt></ruby>ってほしい」
+  url: https://newswebeasy.github.io/news/easy/2017/11/20/東京でイベントダウン症のことを知ってほしい
+- title: オジロワシ　<ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>以外<rt>いがい</rt></ruby>でも<ruby>子<rt>こ</rt></ruby>どもを<ruby>育<rt>そだ</rt></ruby>てていた
+  url: https://newswebeasy.github.io/news/easy/2017/11/17/オジロワシ-北海道以外でも子どもを育てていた
+...

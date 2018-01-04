@@ -1,0 +1,68 @@
+---
+layout: web_news
+categories: web
+newsid: k10011278251000
+title: 不審なメール相次ぐ 休み明けは注意を
+title_with_ruby: <ruby>不審<rt data-ruby-level="7">ふしん</rt></ruby>なメール<ruby>相次<rt data-ruby-level="3">あいつ</rt></ruby>ぐ
+  <ruby>休<rt data-ruby-level="1">やす</rt></ruby>み<ruby>明<rt data-ruby-level="2">あ</rt></ruby>けは<ruby>注意<rt
+  data-ruby-level="3">ちゅうい</rt></ruby>を
+last_modified_at: '2018-01-03T20:19:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>01<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>03<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 20<ruby>時<rt data-ruby-level="2">じ</rt></ruby>19<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 実在の企業をかたって金をだまし取ろうとする不審なメールが相次いでいることから、情報セキュリティーの専門機関は、年末年始の休み明けにたまったメールを確認する際は、送信元をよく確認し、不審なメールに添付されているファイルやホームページのアドレスを開かないよう呼びかけています。
+summary: <ruby>実在<rt data-ruby-level="5">じつざい</rt></ruby>の<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>をかたって<ruby>金<rt
+  data-ruby-level="1">きん</rt></ruby>をだまし<ruby>取<rt data-ruby-level="3">と</rt></ruby>ろうとする<ruby>不審<rt
+  data-ruby-level="7">ふしん</rt></ruby>なメールが<ruby>相次<rt data-ruby-level="3">あいつ</rt></ruby>いでいることから、<ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>セキュリティーの<ruby>専門<rt data-ruby-level="6">せんもん</rt></ruby><ruby>機関<rt
+  data-ruby-level="4">きかん</rt></ruby>は、<ruby>年末<rt data-ruby-level="4">ねんまつ</rt></ruby><ruby>年始<rt
+  data-ruby-level="3">ねんし</rt></ruby>の<ruby>休<rt data-ruby-level="1">やす</rt></ruby>み<ruby>明<rt
+  data-ruby-level="2">あ</rt></ruby>けにたまったメールを<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>する<ruby>際<rt
+  data-ruby-level="5">さい</rt></ruby>は、<ruby>送信元<rt data-ruby-level="4">そうしんもと</rt></ruby>をよく<ruby>確認<rt
+  data-ruby-level="7">かくにん</rt></ruby>し、<ruby>不審<rt data-ruby-level="7">ふしん</rt></ruby>なメールに<ruby>添付<rt
+  data-ruby-level="7">てんぷ</rt></ruby>されているファイルやホームページのアドレスを<ruby>開<rt data-ruby-level="3">ひら</rt></ruby>かないよう<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけています。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/03/K10011278251_1801032008_1801032019_01_02.jpg
+more: ＩＰＡ＝<ruby>情報処理<rt data-ruby-level="6">じょうほうしょり</rt></ruby><ruby>推進<rt data-ruby-level="6">すいしん</rt></ruby><ruby>機構<rt
+  data-ruby-level="5">きこう</rt></ruby>によりますと、ここ<ruby>数<rt data-ruby-level="2">すう</rt></ruby><ruby>年<rt
+  data-ruby-level="1">ねん</rt></ruby>、<ruby>銀行<rt data-ruby-level="3">ぎんこう</rt></ruby>やカード<ruby>会社<rt
+  data-ruby-level="2">がいしゃ</rt></ruby>など<ruby>実在<rt data-ruby-level="5">じつざい</rt></ruby>の<ruby>企業<rt
+  data-ruby-level="7">きぎょう</rt></ruby>をかたって<ruby>偽<rt data-ruby-level="7">にせ</rt></ruby>のメールを<ruby>送<rt
+  data-ruby-level="3">おく</rt></ruby>りつける「ばらまき<ruby>型<rt data-ruby-level="4">がた</rt></ruby>」と<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>ばれるサイバー<ruby>攻撃<rt data-ruby-level="7">こうげき</rt></ruby>が<ruby>相次<rt
+  data-ruby-level="3">あいつ</rt></ruby>いでいます。<br /><br />これらのメールの<ruby>添付<rt data-ruby-level="7">てんぷ</rt></ruby>ファイルやホームページのアドレスを<ruby>開<rt
+  data-ruby-level="3">ひら</rt></ruby>いてしまうと、ウイルスに<ruby>感染<rt data-ruby-level="7">かんせん</rt></ruby>して、パソコンの<ruby>中<rt
+  data-ruby-level="1">なか</rt></ruby>の<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>を<ruby>盗<rt
+  data-ruby-level="7">ぬす</rt></ruby>まれたりインターネットバンキングを<ruby>悪用<rt data-ruby-level="3">あくよう</rt></ruby>して<ruby>金<rt
+  data-ruby-level="1">きん</rt></ruby>を<ruby>盗<rt data-ruby-level="7">ぬす</rt></ruby>まれたりするほか、<ruby>盗<rt
+  data-ruby-level="7">ぬす</rt></ruby>まれた<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>が<ruby>別<rt
+  data-ruby-level="4">べつ</rt></ruby>のサイバー<ruby>攻撃<rt data-ruby-level="7">こうげき</rt></ruby>に<ruby>悪用<rt
+  data-ruby-level="3">あくよう</rt></ruby>されるおそれもあります。<br /><br />ＩＰＡは、<ruby>年末<rt data-ruby-level="4">ねんまつ</rt></ruby><ruby>年始<rt
+  data-ruby-level="3">ねんし</rt></ruby>の<ruby>休<rt data-ruby-level="1">やす</rt></ruby>み<ruby>明<rt
+  data-ruby-level="2">あ</rt></ruby>けに<ruby>職場<rt data-ruby-level="5">しょくば</rt></ruby>にたまったメールを<ruby>開<rt
+  data-ruby-level="3">ひら</rt></ruby>く<ruby>際<rt data-ruby-level="5">さい</rt></ruby>は、<ruby>送信元<rt
+  data-ruby-level="4">そうしんもと</rt></ruby>をよく<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>し、<ruby>不審<rt
+  data-ruby-level="7">ふしん</rt></ruby>に<ruby>思<rt data-ruby-level="2">おも</rt></ruby>った<ruby>場合<rt
+  data-ruby-level="2">ばあい</rt></ruby>は<ruby>添付<rt data-ruby-level="7">てんぷ</rt></ruby>ファイルやホームページのアドレスを<ruby>開<rt
+  data-ruby-level="3">ひら</rt></ruby>かないよう<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけています。<br
+  /><br />ＩＰＡセキュリティセンターの<ruby>伊藤<rt data-ruby-level="8">いとう</rt></ruby><ruby>博康<rt
+  data-ruby-level="8">ひろやす</rt></ruby>さんは「<ruby>添付<rt data-ruby-level="7">てんぷ</rt></ruby>されているファイルが<ruby>実際<rt
+  data-ruby-level="5">じっさい</rt></ruby>の<ruby>取引先<rt data-ruby-level="3">とりひきさき</rt></ruby>や<ruby>先月分<rt
+  data-ruby-level="2">せんげつぶん</rt></ruby>の<ruby>請求書<rt data-ruby-level="7">せいきゅうしょ</rt></ruby>を<ruby>装<rt
+  data-ruby-level="7">よそお</rt></ruby>った<ruby>名前<rt data-ruby-level="2">なまえ</rt></ruby>になっているなど、<ruby>手口<rt
+  data-ruby-level="1">てぐち</rt></ruby>が<ruby>巧妙化<rt data-ruby-level="7">こうみょうか</rt></ruby>している。<ruby>不審<rt
+  data-ruby-level="7">ふしん</rt></ruby>に<ruby>思<rt data-ruby-level="2">おも</rt></ruby>ったときにはすぐにシステム<ruby>管理者<rt
+  data-ruby-level="4">かんりしゃ</rt></ruby>に<ruby>相談<rt data-ruby-level="3">そうだん</rt></ruby>してほしい」と<ruby>話<rt
+  data-ruby-level="2">はな</rt></ruby>しています。
+movie_url: https://newswebeasy.github.io/ja201801/news/web/movie/2018/01/03/k10011278251_201801032055_201801032056.mp4
+voice_url: https://newswebeasy.github.io/ja201801/news/web/voice/2018/01/03/k10011278251_201801032055_201801032056.mp3
+source_url: https://www3.nhk.or.jp/news/html/20180103/k10011278251000.html
+easy_title_with_ruby: <ruby>本当<rt data-ruby-level="2">ほんとう</rt></ruby>にある<ruby>会社<rt
+  data-ruby-level="2">かいしゃ</rt></ruby>の<ruby>名前<rt data-ruby-level="2">なまえ</rt></ruby>を<ruby>使<rt
+  data-ruby-level="3">つか</rt></ruby>ってお<ruby>金<rt data-ruby-level="1">かね</rt></ruby>を<ruby>盗<rt
+  data-ruby-level="7">ぬす</rt></ruby>むメールが<ruby>多<rt data-ruby-level="2">おお</rt></ruby>い
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/01/04/本当にある会社の名前を使ってお金を盗むメールが多い
+related_news:
+- title: ロシアなどで<ruby>大規模<rt data-ruby-level="6">だいきぼ</rt></ruby>サイバー<ruby>攻撃<rt data-ruby-level="7">こうげき</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/10/27/ロシアなどで大規模サイバー攻撃
+...

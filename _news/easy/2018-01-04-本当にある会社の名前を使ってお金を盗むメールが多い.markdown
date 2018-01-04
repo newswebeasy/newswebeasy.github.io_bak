@@ -1,0 +1,79 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011278251000
+last_modified_at: '2018-01-04T17:20:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>04<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: インターネットの安全のための仕事などをするＩＰＡによると、銀行やクレジットカードの会社など、本当にある会社の名前を使った、うそのメールが多くなっています。
+title: 本当にある会社の名前を使ってお金を盗むメールが多い
+title_with_ruby: <ruby>本当<rt>ほんとう</rt></ruby>にある<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってお<ruby>金<rt>かね</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>むメールが<ruby>多<rt>おお</rt></ruby>い
+outline: インターネットの安全のための仕事などをするＩＰＡによると、銀行やクレジットカードの会社など、本当にある会社の名前を使った、うそのメールが多くなっています。
+outline_with_ruby: インターネットの<ruby>安全<rt>あんぜん</rt></ruby>のための<ruby>仕事<rt>しごと</rt></ruby>などをするＩＰＡによると、<ruby>銀行<rt>ぎんこう</rt></ruby>やクレジットカードの<ruby>会社<rt>かいしゃ</rt></ruby>など、<ruby>本当<rt>ほんとう</rt></ruby>にある<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った、うそのメールが<ruby>多<rt>おお</rt></ruby>くなっています。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/03/K10011278251_1801032008_1801032019_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/04/k10011278251000.mp3
+content_with_ruby: "<p>インターネットの<ruby>安全<rt>あんぜん</rt></ruby>のための<ruby>仕事<rt>しごと</rt></ruby>などをするＩＰＡによると、<ruby>銀行<rt>ぎんこう</rt></ruby>や<span\
+  \ style=\"color: blue;\">クレジットカード</span>の<ruby>会社<rt>かいしゃ</rt></ruby>など、<ruby>本当<rt>ほんとう</rt></ruby>にある<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った、うその<span\
+  \ style=\"color: blue;\">メール</span>が<ruby>多<rt>おお</rt></ruby>くなっています。</p>\n<p><span\
+  \ style=\"color: blue;\">メール</span>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<span\
+  \ style=\"color: blue;\">ファイル</span>や<span style=\"color: blue;\">ウェブサイト</span>の<span\
+  \ style=\"color: blue;\">アドレス</span>を<ruby>開<rt>ひら</rt></ruby>くと、パソコンに<span style=\"\
+  color: blue;\">ウイルス</span>が<ruby>入<rt>はい</rt></ruby>ります。そして、パソコンの<ruby>中<rt>なか</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>やインターネットの<ruby>銀行<rt>ぎんこう</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>が<ruby>盗<rt>ぬす</rt></ruby>まれます。その<span\
+  \ style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>犯罪<rt>はんざい</rt></ruby></span>に<ruby>使<rt>つか</rt></ruby>われることもあります。</p>\n\
+  <p>ＩＰＡは、<ruby>正月<rt>しょうがつ</rt></ruby>の<ruby>休<rt>やす</rt></ruby>みに<ruby>会社<rt>かいしゃ</rt></ruby>のパソコンに<span\
+  \ style=\"color: blue;\">メール</span>がたくさん<ruby>来<rt>き</rt></ruby>ている<ruby>場合<rt>ばあい</rt></ruby>などは、<ruby>誰<rt>だれ</rt></ruby>からの<span\
+  \ style=\"color: blue;\">メール</span>かよくチェックするように<ruby>言<rt>い</rt></ruby>っています。<span\
+  \ style=\"color: blue;\">メール</span>が<ruby>変<rt>へん</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>ったら、<span\
+  \ style=\"color: blue;\">ファイル</span>などを<ruby>開<rt>ひら</rt></ruby>かないで、<ruby>会社<rt>かいしゃ</rt></ruby>のパソコンを<span\
+  \ style=\"color: blue;\"><ruby>管理<rt>かんり</rt></ruby></span>している<ruby>人<rt>ひと</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>するように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: Eメール
+  descriptions:
+  - コンピューターなどを<ruby><rb>使</rb><rt>つか</rt></ruby>って、メッセージやデータなどのやりとりをする<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>電子</rb><rt>でんし</rt></ruby>メール。メール。
+- word: クレジットカード
+  descriptions:
+  - <ruby><rb>現金</rb><rt>げんきん</rt></ruby>を<ruby><rb>払</rb><rt>はら</rt></ruby>わなくても、<ruby><rb>後払</rb><rt>あとばら</rt></ruby>いで<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>物</rb><rt>もの</rt></ruby>をすることができるカード。
+- word: ファイル
+  descriptions:
+  - <ruby><rb>書類</rb><rt>しょるい</rt></ruby>などをとじこんでおくもの。<ruby><rb>書類</rb><rt>しょるい</rt></ruby>ばさみ。
+  - コンピューターであつかう<ruby><rb>文書</rb><rt>ぶんしょ</rt></ruby>や<ruby><rb>画像</rb><rt>がぞう</rt></ruby>などのデータ。
+  - <ruby><rb>書類</rb><rt>しょるい</rt></ruby>や<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>の<ruby><rb>切</rb><rt>き</rt></ruby>りぬきなどを<ruby><rb>整理</rb><rt>せいり</rt></ruby>して、とじこむこと。また、とじこんだもの。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+- word: アドレス
+  descriptions:
+  - <ruby><rb>住所</rb><rt>じゅうしょ</rt></ruby>。あて<ruby><rb>名</rb><rt>な</rt></ruby>。
+  - インターネットなど、コンピューターの<ruby><rb>通信</rb><rt>つうしん</rt></ruby>ネットワーク<ruby><rb>上</rb><rt>じょう</rt></ruby>に<ruby><rb>存在</rb><rt>そんざい</rt></ruby>する<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>を<ruby><rb>示</rb><rt>しめ</rt></ruby>すもの。<ruby><rb>住所</rb><rt>じゅうしょ</rt></ruby>や<ruby><rb>電話番号</rb><rt>でんわばんごう</rt></ruby>にあたる。
+- word: コンピューターウイルス
+  descriptions:
+  - ほかのコンピューターに<ruby><rb>勝手</rb><rt>かって</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>り、プログラムをこわしたり、データを<ruby><rb>消</rb><rt>け</rt></ruby>したりするプログラム。
+- word: 情報
+  descriptions:
+  - できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+- word: 犯罪
+  descriptions:
+  - <ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>すこと。<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>を<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。また、<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>罪</rb><rt>つみ</rt></ruby>。
+- word: 管理
+  descriptions:
+  - ものごとを、<ruby><rb>取</rb><rt>と</rt></ruby>りしまること。
+  - よい<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>に<ruby><rb>保</rb><rt>たも</rt></ruby>つこと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011278251000/k10011278251000.html
+web_title_with_ruby: <ruby>不審<rt>ふしん</rt></ruby>な<ruby>メール<rt>めーる</rt></ruby><ruby>相次<rt>あいつ</rt></ruby>ぐ
+  <ruby>休<rt>やす</rt></ruby>み<ruby>明<rt>あ</rt></ruby>けは<ruby>注意<rt>ちゅうい</rt></ruby>を
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/03/不審なメール相次ぐ-休み明けは注意を
+related_news:
+- title: インターネットを<ruby>使<rt>つか</rt></ruby>って<ruby>虫歯<rt>むしば</rt></ruby>にならないようにするサービス
+  url: https://newswebeasy.github.io/news/easy/2017/12/27/インターネットを使って虫歯にならないようにするサービス
+- title: <ruby>日本<rt>にっぽん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>きたい<ruby>留学生<rt>りゅうがくせい</rt></ruby>と<ruby>世界<rt>せかい</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>話<rt>はな</rt></ruby>す<ruby>会<rt>かい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/10/19/日本で働きたい留学生と世界で仕事をする会社が話す会
+- title: ＡＩが<ruby>社員<rt>しゃいん</rt></ruby>のデータを<ruby>調<rt>しら</rt></ruby>べて<ruby>仕事<rt>しごと</rt></ruby>に<ruby>合<rt>あ</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ
+  url: https://newswebeasy.github.io/news/easy/2017/11/28/AIが社員のデータを調べて仕事に合った人を選ぶ
+- title: レンタカーの<ruby>会社<rt>かいしゃ</rt></ruby>　<ruby>外国人<rt>がいこくじん</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>を<ruby>貸<rt>か</rt></ruby>す<ruby>前<rt>まえ</rt></ruby>に<ruby>交通<rt>こうつう</rt></ruby>ルールを<ruby>説明<rt>せつめい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/10/11/レンタカーの会社-外国人に車を貸す前に交通ルールを説明
+- title: ＥＵが<ruby>神戸製鋼所<rt>こうべせいこうしょ</rt></ruby>の<ruby>製品<rt>せいひん</rt></ruby>を<ruby>飛行機<rt>ひこうき</rt></ruby>に<ruby>使<rt>つか</rt></ruby>わないように<ruby>言<rt>い</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2017/10/19/EUが神戸製鋼所の製品を飛行機に使わないように言う
+...
