@@ -1,0 +1,82 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011278281000
+last_modified_at: '2018-01-05T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>05<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 今年はいろいろな食べ物や飲み物の値段が高くなりそうです。
+title: 今年は小麦粉やビールなどの値段を高くする会社が多い
+title_with_ruby: <ruby>今年<rt>ことし</rt></ruby>は<ruby>小麦粉<rt>こむぎこ</rt></ruby>やビールなどの<ruby>値段<rt>ねだん</rt></ruby>を<ruby>高<rt>たか</rt></ruby>くする<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い
+outline: 今年はいろいろな食べ物や飲み物の値段が高くなりそうです。
+outline_with_ruby: <ruby>今年<rt>ことし</rt></ruby>はいろいろな<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>や<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなりそうです。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/04/K10011278281_1801040605_1801041738_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/05/k10011278281000.mp3
+content_with_ruby: "<p><ruby>今年<rt>ことし</rt></ruby>はいろいろな<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>や<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなりそうです。</p>\n\
+  <p><ruby>日清<rt>にっしん</rt></ruby>フーズ、<ruby>日本製粉<rt>にっぽんせいふん</rt></ruby>、<ruby>昭和産業<rt>しょうわさんぎょう</rt></ruby>の３つの<ruby>会社<rt>かいしゃ</rt></ruby>は１<ruby>月<rt>がつ</rt></ruby><ruby>４日<rt>よっか</rt></ruby>から、パンやお<ruby>菓子<rt>かし</rt></ruby>などに<ruby>使<rt>つか</rt></ruby>う<span\
+  \ style=\"color: blue;\"><ruby>小麦粉<rt>こむぎこ</rt></ruby></span>を１％〜４％<ruby>高<rt>たか</rt></ruby>くしました。</p>\n\
+  <p><ruby>天丼<rt>てんどん</rt></ruby>てんやは１<ruby>月<rt>がつ</rt></ruby>１１<ruby>日<rt>にち</rt></ruby>から、ごはんに<span\
+  \ style=\"color: blue;\"><ruby>天<rt>てん</rt></ruby>ぷら</span>を<span style=\"color:\
+  \ blue;\">のせ</span>た<ruby>天丼<rt>てんどん</rt></ruby>など<ruby>店<rt>みせ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>一部<rt>いちぶ</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">メニュー</span>を１０<ruby>円<rt>えん</rt></ruby>〜５０<ruby>円<rt>えん</rt></ruby><ruby>高<rt>たか</rt></ruby>くします。<ruby>今<rt>いま</rt></ruby>５００<ruby>円<rt>えん</rt></ruby>の<ruby>天丼<rt>てんどん</rt></ruby>は５４０<ruby>円<rt>えん</rt></ruby>になります。</p>\n\
+  <p><ruby>東洋水産<rt>とうようすいさん</rt></ruby>は３<ruby>月<rt>がつ</rt></ruby>から、<span style=\"\
+  color: blue;\"><ruby>電子<rt>でんし</rt></ruby>レンジ</span>で<ruby>温<rt>あたた</rt></ruby>かくして<ruby>食<rt>た</rt></ruby>べる<span\
+  \ style=\"color: blue;\">パック</span>のごはんを１<ruby>個<rt>こ</rt></ruby>１０<ruby>円<rt>えん</rt></ruby>〜１５<ruby>円<rt>えん</rt></ruby><ruby>高<rt>たか</rt></ruby>くします。</p>\n\
+  <p>アサヒ、キリン、サントリー、サッポロは３<ruby>月<rt>がつ</rt></ruby>と４<ruby>月<rt>がつ</rt></ruby>から、<span\
+  \ style=\"color: blue;\">ビール</span>や<ruby>輸入<rt>ゆにゅう</rt></ruby>の<span style=\"\
+  color: blue;\">ワイン</span>などを<ruby>高<rt>たか</rt></ruby>くします。１０％ぐらい<ruby>高<rt>たか</rt></ruby>くなる<span\
+  \ style=\"color: blue;\"><ruby>瓶<rt>びん</rt></ruby></span>の<span style=\"color: blue;\"\
+  >ビール</span>もあります。</p>\n<p><ruby>値段<rt>ねだん</rt></ruby>を<ruby>高<rt>たか</rt></ruby>くする<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>米<rt>こめ</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>小麦<rt>こむぎ</rt></ruby></span>、ぶどうなどが<ruby>高<rt>たか</rt></ruby>くなったことや、<span\
+  \ style=\"color: blue;\">トラック</span>で<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りないことなどです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 小麦粉
+  descriptions:
+  - <ruby><rb>小麦</rb><rt>こむぎ</rt></ruby>の<ruby><rb>実</rb><rt>み</rt></ruby>をひいて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>粉</rb><rt>こな</rt></ruby>。うどん・パン・<ruby><rb>菓子</rb><rt>かし</rt></ruby>などに<ruby><rb>加工</rb><rt>かこう</rt></ruby>する。うどん<ruby><rb>粉</rb><rt>こ</rt></ruby>。メリケン<ruby><rb>粉</rb><rt>こ</rt></ruby>。
+- word: ビール
+  descriptions:
+  - <ruby><rb>大麦</rb><rt>おおむぎ</rt></ruby>を<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>にした<ruby><rb>酒</rb><rt>さけ</rt></ruby>。
+- word: 天ぷら
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>やエビ、<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などに、<ruby><rb>水</rb><rt>みず</rt></ruby>でといた<ruby><rb>小麦粉</rb><rt>こむぎこ</rt></ruby>をつけて、<ruby><rb>油</rb><rt>あぶら</rt></ruby>であげたもの。
+- word: 載せる
+  descriptions:
+  - <ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>く。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>にする。
+- word: 一部
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: メニュー
+  descriptions:
+  - <ruby><rb>料理</rb><rt>りょうり</rt></ruby>のこんだて。また、それを<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>紙</rb><rt>かみ</rt></ruby>。
+  - <ruby><rb>練習</rb><rt>れんしゅう</rt></ruby>や<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>の<ruby><rb>一覧表</rb><rt>いちらんひょう</rt></ruby>。
+- word: 電子レンジ
+  descriptions:
+  - <ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>によって<ruby><rb>食品</rb><rt>しょくひん</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>え、<ruby><rb>短</rb><rt>みじか</rt></ruby>い<ruby><rb>時間</rb><rt>じかん</rt></ruby>で<ruby><rb>調理</rb><rt>ちょうり</rt></ruby>する<ruby><rb>器具</rb><rt>きぐ</rt></ruby>。
+- word: パック
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>包</rb><rt>つつ</rt></ruby>むこと。<ruby><rb>包</rb><rt>つつ</rt></ruby>んだもの。また、<ruby><rb>容器</rb><rt>ようき</rt></ruby>などにつめること。<ruby><rb>容器</rb><rt>ようき</rt></ruby>。
+  - <ruby><rb>栄養</rb><rt>えいよう</rt></ruby>をあたえるものをぬって、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>をきれいにする<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。
+  - <ruby><rb>旅行</rb><rt>りょこう</rt></ruby>で、<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>・ホテル・<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>先</rb><rt>さき</rt></ruby>などをひとまとめにしたもの。パッケージ<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>。
+- word: ワイン
+  descriptions:
+  - ブドウの<ruby><rb>実</rb><rt>み</rt></ruby>のしるを<ruby><rb>発酵</rb><rt>はっこう</rt></ruby>させて<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>酒</rb><rt>さけ</rt></ruby>。ぶどう<ruby><rb>酒</rb><rt>しゅ</rt></ruby>。
+- word: 瓶
+  descriptions:
+  - ガラスやせともの・<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 小麦
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>実</rb><rt>み</rt></ruby>を、しょうゆ・みそを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>にしたり、<ruby><rb>小麦粉</rb><rt>こむぎこ</rt></ruby>にしたりする。
+- word: トラック
+  descriptions:
+  - <ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011278281000/k10011278281000.html
+web_title_with_ruby: <ruby>小麦粉<rt>こむぎこ</rt></ruby>や<ruby>ビール<rt>びーる</rt></ruby>も…ことし<ruby>身近<rt>みぢか</rt></ruby>な<ruby>食品<rt>しょくひん</rt></ruby>の<ruby>値上<rt>ねあ</rt></ruby>げ<ruby>相次<rt>あいつ</rt></ruby>ぐ
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/04/小麦粉やビールもことし身近な食品の値上げ相次ぐ
+related_news:
+- title: <ruby>米<rt>こめ</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がって<ruby>天丼<rt>てんどん</rt></ruby>などが<ruby>高<rt>たか</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2017/12/13/米の値段が上がって天丼などが高くなる
+...

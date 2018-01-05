@@ -1,0 +1,50 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011279561000
+last_modified_at: '2018-01-05T16:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>05<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: 東京にある築地市場は、８０年ぐらい前にできた日本を代表する市場で、「日本の台所」と呼ばれています。
+title: 築地市場で最後の「初競り」　まぐろが３６４５万円
+title_with_ruby: <ruby>築地市場<rt>つきじしじょう</rt></ruby>で<ruby>最後<rt>さいご</rt></ruby>の「<ruby>初競<rt>はつせ</rt></ruby>り」　まぐろが３６４５<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>
+outline: 東京にある築地市場は、８０年ぐらい前にできた日本を代表する市場で、「日本の台所」と呼ばれています。
+outline_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>にある<ruby>築地市場<rt>つきじしじょう</rt></ruby>は、８０<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>にできた<ruby>日本<rt>にっぽん</rt></ruby>を<ruby>代表<rt>だいひょう</rt></ruby>する<ruby>市場<rt>しじょう</rt></ruby>で、「<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>台所<rt>だいどころ</rt></ruby>」と<ruby>呼<rt>よ</rt></ruby>ばれています。
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/05/k10011279561000.mp3
+content_with_ruby: "<p><ruby>東京<rt>とうきょう</rt></ruby>にある<ruby>築地市場<rt>つきじしじょう</rt></ruby>は、８０<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>にできた<ruby>日本<rt>にっぽん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>代表<rt>だいひょう</rt></ruby></span>する<span style=\"color:\
+  \ blue;\"><ruby>市場<rt>しじょう</rt></ruby></span>で、「<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>台所<rt>だいどころ</rt></ruby>」と<ruby>呼<rt>よ</rt></ruby>ばれています。<ruby>築地市場<rt>つきじしじょう</rt></ruby>は<ruby>古<rt>ふる</rt></ruby>くなったため、<ruby>今年<rt>ことし</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>に<ruby>豊洲<rt>とよす</rt></ruby>に<ruby>作<rt>つく</rt></ruby>った<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>市場<rt>しじょう</rt></ruby></span>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>します。</p>\n\
+  <p><ruby>５日<rt>いつか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>築地市場<rt>つきじしじょう</rt></ruby>で<ruby>今年<rt>ことし</rt></ruby><ruby>初<rt>はじ</rt></ruby>めての<span\
+  \ style=\"color: blue;\"><ruby>競<rt>せ</rt></ruby>り</span>「<ruby>初競<rt>はつせ</rt></ruby>り」がありました。<ruby>初競<rt>はつせ</rt></ruby>りには<ruby>日本中<rt>にほんじゅう</rt></ruby>の<ruby>港<rt>みなと</rt></ruby>や<ruby>外国<rt>がいこく</rt></ruby>からたくさんの<span\
+  \ style=\"color: blue;\">まぐろ</span>が<ruby>集<rt>あつ</rt></ruby>まりました。<ruby>築地市場<rt>つきじしじょう</rt></ruby>の<ruby>初競<rt>はつせ</rt></ruby>りでは<ruby>毎年<rt>まいとし</rt></ruby>、<span\
+  \ style=\"color: blue;\">まぐろ</span>の<ruby>値段<rt>ねだん</rt></ruby>がとても<ruby>高<rt>たか</rt></ruby>くなります。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby>いちばん<ruby>高<rt>たか</rt></ruby>かったのは、<ruby>青森県<rt>あおもりけん</rt></ruby>の<ruby>大間町<rt>おおままち</rt></ruby>の<ruby>竹内<rt>たけうち</rt></ruby><ruby>正弘<rt>まさひろ</rt></ruby>さんが<ruby>釣<rt>つ</rt></ruby>った４０５ｋｇの<span\
+  \ style=\"color: blue;\">まぐろ</span>で、３６４５<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>になりました。<ruby>竹内<rt>たけうち</rt></ruby>さんが<ruby>釣<rt>つ</rt></ruby>った<span\
+  \ style=\"color: blue;\">まぐろ</span>は、<ruby>築地市場<rt>つきじしじょう</rt></ruby>の<ruby>初競<rt>はつせ</rt></ruby>りで３<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けていちばん<ruby>高<rt>たか</rt></ruby>い<ruby>値段<rt>ねだん</rt></ruby>になりました。<ruby>竹内<rt>たけうち</rt></ruby>さんは「この<span\
+  \ style=\"color: blue;\">まぐろ</span>を<ruby>釣<rt>つ</rt></ruby>ったとき、とても<ruby>大<rt>おお</rt></ruby>きかったので、<ruby>驚<rt>おどろ</rt></ruby>きました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 鮪
+  descriptions:
+  - <ruby><rb>暖</rb><rt>あたた</rt></ruby>かな<ruby><rb>海</rb><rt>うみ</rt></ruby>を<ruby><rb>回遊</rb><rt>かいゆう</rt></ruby>する<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>魚</rb><rt>さかな</rt></ruby>。メバチ・キハダマグロ・クロマグロなどがいる。さし<ruby><rb>身</rb><rt>み</rt></ruby>やすしにして<ruby><rb>食</rb><rt>た</rt></ruby>べる。
+- word: 代表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって<ruby><rb>何</rb><rt>なに</rt></ruby>かをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>で<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>特色</rb><rt>とくしょく</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、そのもの。
+- word: 市場
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などを、<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時</rb><rt>とき</rt></ruby>にせり<ruby><rb>売</rb><rt>う</rt></ruby>りする<ruby><rb>所</rb><rt>ところ</rt></ruby>。いちば。
+  - ものを<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>買</rb><rt>か</rt></ruby>いする<ruby><rb>範囲</rb><rt>はんい</rt></ruby>。マーケット。
+  - <ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>手</rb><rt>て</rt></ruby>と<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>で<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>引</rb><rt>ひ</rt></ruby>きを<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 競り売り
+  descriptions:
+  - <ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。
+source_url: http://www3.nhk.or.jp/news/easy/k10011279561000/k10011279561000.html
+web_title_with_ruby: <ruby>築地市場<rt>つきじしじょう</rt></ruby>で<ruby>最後<rt>さいご</rt></ruby>の<ruby>初<rt>はつ</rt></ruby><ruby>競<rt>せ</rt></ruby>り
+  <ruby>最高値<rt>さいこうち</rt></ruby>は3645<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>の<ruby>クロマグロ<rt>くろまぐろ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/05/築地市場で最後の初競り-最高値は3645万円のクロマグロ
+related_news:
+- title: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>豊洲市場<rt>とよすしじょう</rt></ruby>　<ruby>来年<rt>らいねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>１１<ruby>日<rt>にち</rt></ruby>にオープンすると<ruby>決<rt>き</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2017/12/21/東京の豊洲市場-来年10月11日にオープンすると決まる
+...

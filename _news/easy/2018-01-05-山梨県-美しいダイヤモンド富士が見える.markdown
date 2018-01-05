@@ -1,0 +1,77 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011278821000
+last_modified_at: '2018-01-05T16:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>05<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: 山梨県では秋から冬に、美しい「ダイヤモンド富士」を見ることができます。
+title: 山梨県　美しい「ダイヤモンド富士」が見える
+title_with_ruby: <ruby>山梨県<rt>やまなしけん</rt></ruby>　<ruby>美<rt>うつく</rt></ruby>しい「ダイヤモンド<ruby>富士<rt>ふじ</rt></ruby>」が<ruby>見<rt>み</rt></ruby>える
+outline: 山梨県では秋から冬に、美しい「ダイヤモンド富士」を見ることができます。
+outline_with_ruby: <ruby>山梨県<rt>やまなしけん</rt></ruby>では<ruby>秋<rt>あき</rt></ruby>から<ruby>冬<rt>ふゆ</rt></ruby>に、<ruby>美<rt>うつく</rt></ruby>しい「ダイヤモンド<ruby>富士<rt>ふじ</rt></ruby>」を<ruby>見<rt>み</rt></ruby>ることができます。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/04/K10011278821_1801041335_1801041435_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/05/k10011278821000.mp3
+content_with_ruby: "<p><ruby>山梨県<rt>やまなしけん</rt></ruby>では<ruby>秋<rt>あき</rt></ruby>から<ruby>冬<rt>ふゆ</rt></ruby>に、<ruby>美<rt>うつく</rt></ruby>しい「ダイヤモンド<ruby>富士<rt>ふじ</rt></ruby>」を<ruby>見<rt>み</rt></ruby>ることができます。<span\
+  \ style=\"color: blue;\"><ruby>富士山<rt>ふじさん</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>頂上<rt>ちょうじょう</rt></ruby></span>に<span style=\"color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>るときと<span\
+  \ style=\"color: blue;\"><ruby>沈<rt>しず</rt></ruby>む</span>ときに、<span style=\"color:\
+  \ blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>が<span style=\"color: blue;\">ダイヤモンド</span>のように<ruby>光<rt>ひか</rt></ruby>って<ruby>見<rt>み</rt></ruby>えます。</p>\n\
+  <p><ruby>４日<rt>よっか</rt></ruby>、<span style=\"color: blue;\"><ruby>富士山<rt>ふじさん</rt></ruby></span>の<ruby>近<rt>ちか</rt></ruby>くはとてもよく<ruby>晴<rt>は</rt></ruby>れました。<ruby>富士河口湖町<rt>ふじかわぐちこまち</rt></ruby>にある「<ruby>富士本栖湖<rt>ふじもとすこ</rt></ruby>リゾート」には、ダイヤモンド<ruby>富士<rt>ふじ</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>るために９０<ruby>人<rt>にん</rt></ruby>ぐらいが<ruby>集<rt>あつ</rt></ruby>まりました。</p>\n\
+  <p><ruby>午前<rt>ごぜん</rt></ruby>８<ruby>時<rt>じ</rt></ruby>ごろ、<span style=\"color: blue;\"\
+  ><ruby>富士山<rt>ふじさん</rt></ruby></span>の<span style=\"color: blue;\"><ruby>頂上<rt>ちょうじょう</rt></ruby></span>から<span\
+  \ style=\"color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>てくると、<span\
+  \ style=\"color: blue;\"><ruby>富士山<rt>ふじさん</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>影<rt>かげ</rt></ruby></span>で<ruby>暗<rt>くら</rt></ruby>く<ruby>見<rt>み</rt></ruby>えてダイヤモンド<ruby>富士<rt>ふじ</rt></ruby>になりました。２<ruby>分<rt>ふん</rt></ruby>ぐらいの<ruby>間<rt>あいだ</rt></ruby>、<ruby>集<rt>あつ</rt></ruby>まった<ruby>人<rt>ひと</rt></ruby>たちは<ruby>写真<rt>しゃしん</rt></ruby>をたくさん<ruby>撮<rt>と</rt></ruby>っていました。<ruby>愛知県<rt>あいちけん</rt></ruby>からきた<ruby>男性<rt>だんせい</rt></ruby>は「とてもきれいで<span\
+  \ style=\"color: blue;\"><ruby>感動<rt>かんどう</rt></ruby></span>しました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>富士本栖湖<rt>ふじもとすこ</rt></ruby>リゾートでは、<ruby>１０日<rt>とおか</rt></ruby>までダイヤモンド<ruby>富士<rt>ふじ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<span\
+  \ style=\"color: blue;\">イベント</span>があります。</p>\n<p></p>\n<p></p>"
+words:
+- word: 富士山
+  descriptions:
+  - <ruby><rb>静岡県</rb><rt>しずおかけん</rt></ruby>と<ruby><rb>山梨県</rb><rt>やまなしけん</rt></ruby>の<ruby><rb>境</rb><rt>さかい</rt></ruby>にある、<ruby><rb>日本一</rb><rt>にっぽんいち</rt></ruby><ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>山</rb><rt>やま</rt></ruby>。<ruby><rb>高</rb><rt>たか</rt></ruby>さは３７７６メートル。<ruby><rb>江戸時代</rb><rt>えどじだい</rt></ruby>に<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>噴火</rb><rt>ふんか</rt></ruby>があった。
+- word: 頂
+  descriptions:
+  - <ruby><rb>山</rb><rt>やま</rt></ruby>などのいちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>頂上</rb><rt>ちょうじょう</rt></ruby>。
+- word: 太陽
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。
+- word: 沈む
+  descriptions:
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>入</rb><rt>はい</rt></ruby>る。
+  - <ruby><rb>元気</rb><rt>げんき</rt></ruby>がない。
+  - <ruby><rb>太陽</rb><rt>たいよう</rt></ruby>や<ruby><rb>月</rb><rt>つき</rt></ruby>が<ruby><rb>地平線</rb><rt>ちへいせん</rt></ruby>にかくれる。
+  - よくない<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。
+- word: ダイヤモンド
+  descriptions:
+  - <ruby><rb>宝石</rb><rt>ほうせき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、もっともかたくてよく<ruby><rb>光</rb><rt>ひか</rt></ruby>る、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>いもの。ダイヤ。ダイアモンド。<ruby><rb>金剛石</rb><rt>こんごうせき</rt></ruby>。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで<ruby><rb>内野</rb><rt>ないや</rt></ruby>のこと。
+- word: 影
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>後</rb><rt>うし</rt></ruby>ろにできる<ruby><rb>暗</rb><rt>くら</rt></ruby>い<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>が<ruby><rb>水面</rb><rt>すいめん</rt></ruby>などに<ruby><rb>映</rb><rt>うつ</rt></ruby>って<ruby><rb>見</rb><rt>み</rt></ruby>えるもの。
+  - （<ruby><rb>日</rb><rt>ひ</rt></ruby>・<ruby><rb>月</rb><rt>つき</rt></ruby>などの）<ruby><rb>光</rb><rt>ひかり</rt></ruby>。
+  - <ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+- word: 感動
+  descriptions:
+  - あるものごとに、<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>動</rb><rt>うご</rt></ruby>かされること。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011278821000/k10011278821000.html
+web_title_with_ruby: <ruby>幻想的<rt>げんそうてき</rt></ruby>な<ruby>ダイヤモンド<rt>だいやもんど</rt></ruby><ruby>富士<rt>ふじ</rt></ruby>に<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>観光客<rt>かんこうきゃく</rt></ruby>
+  <ruby>山梨<rt>やまなし</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/04/幻想的なダイヤモンド富士に大勢の観光客-山梨
+related_news:
+- title: <ruby>富士山<rt>ふじさん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>が<ruby>雪<rt>ゆき</rt></ruby>で<ruby>白<rt>しろ</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2017/10/27/富士山の上が雪で白くなる
+- title: <ruby>静岡県<rt>しずおかけん</rt></ruby>に「<ruby>富士山<rt>ふじさん</rt></ruby><ruby>世界遺産<rt>せかいいさん</rt></ruby>センター」がオープン
+  url: https://newswebeasy.github.io/news/easy/2017/12/26/静岡県に富士山世界遺産センターがオープン
+- title: <ruby>北海道<rt>ほっかいどう</rt></ruby>　<ruby>太陽<rt>たいよう</rt></ruby>が<ruby>四角<rt>しかく</rt></ruby>い<ruby>形<rt>かたち</rt></ruby>に<ruby>見<rt>み</rt></ruby>えた
+  url: https://newswebeasy.github.io/news/easy/2017/11/08/北海道-太陽が四角い形に見えた
+- title: <ruby>大<rt>おお</rt></ruby>きなダイヤモンドを<ruby>貧<rt>まず</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>のためにオークションに<ruby>出<rt>だ</rt></ruby>す
+  url: https://newswebeasy.github.io/news/easy/2017/10/26/大きなダイヤモンドを貧しい人のためにオークションに出す
+- title: <ruby>富士山<rt>ふじさん</rt></ruby>のごみが３<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>増<rt>ふ</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2017/11/15/富士山のごみが3年続けて増える
+...
