@@ -60,6 +60,8 @@ more: これはＷＨＯが５<ruby>日<rt data-ruby-level="1">にち</rt></ruby
   data-ruby-level="7">ちりょう</rt></ruby>や<ruby>実態<rt data-ruby-level="5">じったい</rt></ruby>の<ruby>把握<rt
   data-ruby-level="7">はあく</rt></ruby>が<ruby>進<rt data-ruby-level="3">すす</rt></ruby>むか<ruby>注目<rt
   data-ruby-level="3">ちゅうもく</rt></ruby>されます。
+movie_url: https://newswebeasy.github.io/ja201801/news/web/movie/2018/01/06/k10011280931_201801061925_201801061947.mp4
+voice_url: https://newswebeasy.github.io/ja201801/news/web/voice/2018/01/06/k10011280931_201801061925_201801061947.mp3
 source_url: https://www3.nhk.or.jp/news/html/20180106/k10011280931000.html
 related_news:
 - title: <ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>の<ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもの<ruby>肥満<rt
