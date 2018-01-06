@@ -1,0 +1,119 @@
+---
+layout: web_news
+categories: web
+newsid: k10011280551000
+title: 東京と神奈川で震度４ 津波の心配なし
+title_with_ruby: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>と<ruby>神奈川<rt data-ruby-level="8">かながわ</rt></ruby>で<ruby>震度<rt
+  data-ruby-level="7">しんど</rt></ruby>４ <ruby>津波<rt data-ruby-level="7">つなみ</rt></ruby>の<ruby>心配<rt
+  data-ruby-level="3">しんぱい</rt></ruby>なし
+last_modified_at: '2018-01-06T01:19:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>01<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>06<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 01<ruby>時<rt data-ruby-level="2">じ</rt></ruby>19<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ６日午前０時５４分ごろ、東京都と神奈川県で震度４の揺れを観測する地震がありました。この地震による津波の心配はありません。
+summary: ６<ruby>日午前<rt data-ruby-level="2">にちごぜん</rt></ruby>０<ruby>時<rt data-ruby-level="2">じ</rt></ruby>５４<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>ごろ、<ruby>東京都<rt data-ruby-level="3">とうきょうと</rt></ruby>と<ruby>神奈川県<rt
+  data-ruby-level="8">かながわけん</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>４の<ruby>揺<rt
+  data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>する<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>がありました。この<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>による<ruby>津波<rt
+  data-ruby-level="7">つなみ</rt></ruby>の<ruby>心配<rt data-ruby-level="3">しんぱい</rt></ruby>はありません。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/06/K10011280551_1801060103_1801060104_01_02.jpg
+more: <ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>の<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>は、<ruby>震度<rt
+  data-ruby-level="7">しんど</rt></ruby>４が<ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>・<ruby>中央区<rt
+  data-ruby-level="3">ちゅうおうく</rt></ruby>、<ruby>品川区<rt data-ruby-level="3">しながわく</rt></ruby>、<ruby>港区<rt
+  data-ruby-level="3">みなとく</rt></ruby>、<ruby>渋谷区<rt data-ruby-level="8">しぶやく</rt></ruby>、<ruby>葛飾区<rt
+  data-ruby-level="8">かつしかく</rt></ruby>、<ruby>調布市<rt data-ruby-level="5">ちょうふし</rt></ruby>、<ruby>町田市<rt
+  data-ruby-level="2">まちだし</rt></ruby>、<ruby>横浜市<rt data-ruby-level="7">よこはまし</rt></ruby>の<ruby>鶴見区<rt
+  data-ruby-level="7">つるみく</rt></ruby>、<ruby>神奈川区<rt data-ruby-level="8">かながわく</rt></ruby>、<ruby>港北区<rt
+  data-ruby-level="3">こうほくく</rt></ruby>、<ruby>戸塚区<rt data-ruby-level="7">とつかく</rt></ruby>、<ruby>緑区<rt
+  data-ruby-level="3">みどりく</rt></ruby>、<ruby>青葉区<rt data-ruby-level="3">あおばく</rt></ruby>、<ruby>川崎市<rt
+  data-ruby-level="7">かわさきし</rt></ruby><ruby>宮前区<rt data-ruby-level="3">みやまえく</rt></ruby>、<ruby>大和市<rt
+  data-ruby-level="8">やまとし</rt></ruby>、それに<ruby>相模原市<rt data-ruby-level="8">さがみはらし</rt></ruby><ruby>南区<rt
+  data-ruby-level="3">みなみく</rt></ruby>でした。<br /><br /><ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>３が<ruby>東京<rt
+  data-ruby-level="2">とうきょう</rt></ruby>・<ruby>千代田区<rt data-ruby-level="3">ちよだく</rt></ruby>や<ruby>新宿区<rt
+  data-ruby-level="3">しんじゅくく</rt></ruby>、<ruby>文京区<rt data-ruby-level="3">ぶんきょうく</rt></ruby>など、<ruby>神奈川県<rt
+  data-ruby-level="8">かながわけん</rt></ruby>が<ruby>横浜市<rt data-ruby-level="7">よこはまし</rt></ruby><ruby>金沢区<rt
+  data-ruby-level="7">かなざわく</rt></ruby>や<ruby>港南区<rt data-ruby-level="3">こうなんく</rt></ruby>、<ruby>藤沢市<rt
+  data-ruby-level="7">ふじさわし</rt></ruby>など、<ruby>茨城県<rt data-ruby-level="8">いばらきけん</rt></ruby>が<ruby>土浦市<rt
+  data-ruby-level="7">つちうらし</rt></ruby>やつくば<ruby>市<rt data-ruby-level="2">し</rt></ruby>など、<ruby>栃木県<rt
+  data-ruby-level="7">とちぎけん</rt></ruby>が<ruby>鹿沼市<rt data-ruby-level="7">かぬまし</rt></ruby>や<ruby>真岡市<rt
+  data-ruby-level="8">もおかし</rt></ruby>など、<ruby>埼玉県<rt data-ruby-level="7">さいたまけん</rt></ruby>がさいたま<ruby>市<rt
+  data-ruby-level="2">し</rt></ruby><ruby>浦和区<rt data-ruby-level="7">うらわく</rt></ruby>や<ruby>大宮区<rt
+  data-ruby-level="3">おおみやく</rt></ruby>、<ruby>川口市<rt data-ruby-level="2">かわぐちし</rt></ruby>など、<ruby>群馬県<rt
+  data-ruby-level="7">ぐんまけん</rt></ruby>が<ruby>邑楽町<rt data-ruby-level="8">おうらまち</rt></ruby>で<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>されました。<br /><br />このほか<ruby>東北<rt data-ruby-level="2">とうほく</rt></ruby>から<ruby>関東<rt
+  data-ruby-level="4">かんとう</rt></ruby><ruby>甲信越<rt data-ruby-level="7">こうしんえつ</rt></ruby>、それに<ruby>静岡県<rt
+  data-ruby-level="7">しずおかけん</rt></ruby>の<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>い<ruby>範囲<rt
+  data-ruby-level="7">はんい</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>２と１の<ruby>揺<rt
+  data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>しました。<br
+  /><br /><ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>の<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>によりますと、<ruby>震源<rt
+  data-ruby-level="7">しんげん</rt></ruby>は<ruby>千葉県<rt data-ruby-level="3">ちばけん</rt></ruby><ruby>北西部<rt
+  data-ruby-level="3">ほくせいぶ</rt></ruby>で<ruby>震源<rt data-ruby-level="7">しんげん</rt></ruby>の<ruby>深<rt
+  data-ruby-level="3">ふか</rt></ruby>さは８０キロ、<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>の<ruby>規模<rt
+  data-ruby-level="6">きぼ</rt></ruby>を<ruby>示<rt data-ruby-level="5">しめ</rt></ruby>すマグニチュードは４．８と<ruby>推定<rt
+  data-ruby-level="6">すいてい</rt></ruby>されています。
+movie_url: https://newswebeasy.github.io/ja201801/news/web/movie/2018/01/06/k10011280551_201801060510_201801060514.mp4
+voice_url: https://newswebeasy.github.io/ja201801/news/web/voice/2018/01/06/k10011280551_201801060510_201801060514.mp3
+body:
+- text: <ruby>警視庁<rt data-ruby-level="6">けいしちょう</rt></ruby>によりますと<ruby>午前<rt data-ruby-level="2">ごぜん</rt></ruby>１<ruby>時<rt
+    data-ruby-level="2">じ</rt></ruby>１０<ruby>分<rt data-ruby-level="2">ふん</rt></ruby><ruby>現在<rt
+    data-ruby-level="5">げんざい</rt></ruby>、この<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>によるけが<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>などの<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>は<ruby>入<rt
+    data-ruby-level="1">はい</rt></ruby>っていないということです。<br /><br /><ruby>千葉県<rt data-ruby-level="3">ちばけん</rt></ruby><ruby>警察<rt
+    data-ruby-level="6">けいさつ</rt></ruby><ruby>本部<rt data-ruby-level="3">ほんぶ</rt></ruby>によりますと、<ruby>千葉<rt
+    data-ruby-level="3">ちば</rt></ruby><ruby>県内<rt data-ruby-level="3">けんない</rt></ruby>では<ruby>午前<rt
+    data-ruby-level="2">ごぜん</rt></ruby>１<ruby>時<rt data-ruby-level="2">じ</rt></ruby>１５<ruby>分<rt
+    data-ruby-level="2">ふん</rt></ruby><ruby>現在<rt data-ruby-level="5">げんざい</rt></ruby>、<ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>による<ruby>被害<rt data-ruby-level="7">ひがい</rt></ruby>の<ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby>は<ruby>入<rt data-ruby-level="1">はい</rt></ruby>っていないということです。<br
+    /><br /><ruby>神奈川県<rt data-ruby-level="8">かながわけん</rt></ruby><ruby>警察<rt data-ruby-level="6">けいさつ</rt></ruby><ruby>本部<rt
+    data-ruby-level="3">ほんぶ</rt></ruby>によりますと、<ruby>午前<rt data-ruby-level="2">ごぜん</rt></ruby>１<ruby>時<rt
+    data-ruby-level="2">じ</rt></ruby>１７<ruby>分<rt data-ruby-level="2">ふん</rt></ruby><ruby>現在<rt
+    data-ruby-level="5">げんざい</rt></ruby>、<ruby>神奈川<rt data-ruby-level="8">かながわ</rt></ruby><ruby>県内<rt
+    data-ruby-level="3">けんない</rt></ruby>では<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>に<ruby>伴<rt
+    data-ruby-level="7">ともな</rt></ruby>う<ruby>被害<rt data-ruby-level="7">ひがい</rt></ruby>の<ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby>は<ruby>入<rt data-ruby-level="1">はい</rt></ruby>っていないということです。
+- title: <ruby>専門家<rt data-ruby-level="6">せんもんか</rt></ruby>「<ruby>関東<rt data-ruby-level="4">かんとう</rt></ruby>の<ruby>真下<rt
+    data-ruby-level="3">ました</rt></ruby>で<ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby>
+    <ruby>短<rt data-ruby-level="3">たん</rt></ruby><ruby>周期<rt data-ruby-level="4">しゅうき</rt></ruby>で<ruby>突<rt
+    data-ruby-level="7">つ</rt></ruby>き<ruby>上<rt data-ruby-level="7">あ</rt></ruby>げるような<ruby>揺<rt
+    data-ruby-level="7">ゆ</rt></ruby>れに」
+  text: <ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>の<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>について、<ruby>東京大学<rt
+    data-ruby-level="2">とうきょうだいがく</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby><ruby>研究所<rt
+    data-ruby-level="3">けんきゅうじょ</rt></ruby>の<ruby>古村<rt data-ruby-level="2">こむら</rt></ruby><ruby>孝志<rt
+    data-ruby-level="8">たかし</rt></ruby><ruby>教授<rt data-ruby-level="5">きょうじゅ</rt></ruby>は「<ruby>関東地方<rt
+    data-ruby-level="4">かんとうちほう</rt></ruby>の<ruby>下<rt data-ruby-level="1">した</rt></ruby>に<ruby>沈<rt
+    data-ruby-level="7">しず</rt></ruby>み<ruby>込<rt data-ruby-level="7">こ</rt></ruby>んでいる<ruby>太平洋<rt
+    data-ruby-level="3">たいへいよう</rt></ruby>プレートとフィリピン<ruby>海<rt data-ruby-level="2">かい</rt></ruby>プレートの<ruby>境界<rt
+    data-ruby-level="5">きょうかい</rt></ruby><ruby>付近<rt data-ruby-level="4">ふきん</rt></ruby>か、<ruby>太平洋<rt
+    data-ruby-level="3">たいへいよう</rt></ruby>プレートの<ruby>内部<rt data-ruby-level="3">ないぶ</rt></ruby>で<ruby>発生<rt
+    data-ruby-level="3">はっせい</rt></ruby>した<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>と<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>られる。<ruby>比較的<rt data-ruby-level="7">ひかくてき</rt></ruby><ruby>深<rt
+    data-ruby-level="3">ぶか</rt></ruby>い<ruby>場所<rt data-ruby-level="3">ばしょ</rt></ruby>で<ruby>発生<rt
+    data-ruby-level="3">はっせい</rt></ruby>した<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>だったが、<ruby>東京<rt
+    data-ruby-level="2">とうきょう</rt></ruby>など<ruby>関東<rt data-ruby-level="4">かんとう</rt></ruby>の<ruby>真下<rt
+    data-ruby-level="3">ました</rt></ruby>で<ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby>したため、ガタガタと<ruby>短<rt
+    data-ruby-level="3">みじか</rt></ruby>い<ruby>周期<rt data-ruby-level="4">しゅうき</rt></ruby>で<ruby>突<rt
+    data-ruby-level="7">つ</rt></ruby>き<ruby>上<rt data-ruby-level="7">あ</rt></ruby>げるような<ruby>揺<rt
+    data-ruby-level="7">ゆ</rt></ruby>れになった」と<ruby>分析<rt data-ruby-level="7">ぶんせき</rt></ruby>しています。<br
+    /><br />そのうえで「<ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>の<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>が<ruby>今後<rt
+    data-ruby-level="2">こんご</rt></ruby>、より<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きな<ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>につながるかはわからないが、<ruby>関東地方<rt data-ruby-level="4">かんとうちほう</rt></ruby>はもともと<ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby><ruby>活動<rt data-ruby-level="3">かつどう</rt></ruby>が<ruby>活発<rt
+    data-ruby-level="3">かっぱつ</rt></ruby>な<ruby>地域<rt data-ruby-level="6">ちいき</rt></ruby>で、<ruby>今回<rt
+    data-ruby-level="2">こんかい</rt></ruby>よりはるかに<ruby>規模<rt data-ruby-level="6">きぼ</rt></ruby>が<ruby>大<rt
+    data-ruby-level="1">おお</rt></ruby>きいマグニチュード７クラスの<ruby>首都<rt data-ruby-level="3">しゅと</rt></ruby><ruby>直下<rt
+    data-ruby-level="2">ちょっか</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>も<ruby>想定<rt
+    data-ruby-level="3">そうてい</rt></ruby>されている。<ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>の<ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>をきっかけに、<ruby>改<rt data-ruby-level="4">あらた</rt></ruby>めて<ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>への<ruby>備<rt data-ruby-level="5">そな</rt></ruby>えを<ruby>確認<rt
+    data-ruby-level="7">かくにん</rt></ruby>してほしい」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>しています。
+source_url: https://www3.nhk.or.jp/news/html/20180106/k10011280551000.html
+related_news:
+- title: <ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>１<ruby>以上<rt data-ruby-level="4">いじょう</rt></ruby>の<ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>2000<ruby>回<rt data-ruby-level="2">かい</rt></ruby><ruby>超<rt
+    data-ruby-level="7">ちょう</rt></ruby>に <ruby>依然<rt data-ruby-level="7">いぜん</rt></ruby><ruby>多<rt
+    data-ruby-level="2">おお</rt></ruby>い<ruby>状態<rt data-ruby-level="5">じょうたい</rt></ruby><ruby>続<rt
+    data-ruby-level="4">つづ</rt></ruby>く
+  url: https://newswebeasy.github.io/news/web/2017/12/30/震度1以上の地震2000回超に-依然多い状態続く
+...

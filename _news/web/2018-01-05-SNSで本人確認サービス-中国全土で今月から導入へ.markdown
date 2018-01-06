@@ -1,0 +1,95 @@
+---
+layout: web_news
+categories: web
+newsid: k10011279481000
+title: ＳＮＳで本人確認サービス 中国全土で今月から導入へ
+title_with_ruby: ＳＮＳで<ruby>本人<rt data-ruby-level="1">ほんにん</rt></ruby><ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>サービス
+  <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby><ruby>全土<rt data-ruby-level="3">ぜんど</rt></ruby>で<ruby>今月<rt
+  data-ruby-level="2">こんげつ</rt></ruby>から<ruby>導入<rt data-ruby-level="5">どうにゅう</rt></ruby>へ
+last_modified_at: '2018-01-05T04:40:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>01<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>05<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 04<ruby>時<rt data-ruby-level="2">じ</rt></ruby>40<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 中国では、スマートフォンのＳＮＳ上で身分証明書と同じように本人確認ができるサービスが今月から全国で導入される見通しとなり、利用者からは利便性の向上を歓迎する声が上がる一方で、個人情報の監視がさらに強まると心配する声も出ています。
+summary: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>では、スマートフォンのＳＮＳ<ruby>上<rt
+  data-ruby-level="1">じょう</rt></ruby>で<ruby>身分<rt data-ruby-level="3">みぶん</rt></ruby><ruby>証明書<rt
+  data-ruby-level="5">しょうめいしょ</rt></ruby>と<ruby>同<rt data-ruby-level="2">おな</rt></ruby>じように<ruby>本人<rt
+  data-ruby-level="1">ほんにん</rt></ruby><ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>ができるサービスが<ruby>今月<rt
+  data-ruby-level="2">こんげつ</rt></ruby>から<ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby>で<ruby>導入<rt
+  data-ruby-level="5">どうにゅう</rt></ruby>される<ruby>見通<rt data-ruby-level="2">みとお</rt></ruby>しとなり、<ruby>利用者<rt
+  data-ruby-level="4">りようしゃ</rt></ruby>からは<ruby>利便性<rt data-ruby-level="5">りべんせい</rt></ruby>の<ruby>向上<rt
+  data-ruby-level="3">こうじょう</rt></ruby>を<ruby>歓迎<rt data-ruby-level="7">かんげい</rt></ruby>する<ruby>声<rt
+  data-ruby-level="2">こえ</rt></ruby>が<ruby>上<rt data-ruby-level="1">あ</rt></ruby>がる<ruby>一方<rt
+  data-ruby-level="2">いっぽう</rt></ruby>で、<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby><ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>の<ruby>監視<rt data-ruby-level="7">かんし</rt></ruby>がさらに<ruby>強<rt
+  data-ruby-level="2">つよ</rt></ruby>まると<ruby>心配<rt data-ruby-level="3">しんぱい</rt></ruby>する<ruby>声<rt
+  data-ruby-level="2">こえ</rt></ruby>も<ruby>出<rt data-ruby-level="1">で</rt></ruby>ています。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/05/K10011279481_1801051006_1801051057_01_03.jpg
+more: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby><ruby>国営<rt data-ruby-level="5">こくえい</rt></ruby>の<ruby>新華社<rt
+  data-ruby-level="7">しんかしゃ</rt></ruby><ruby>通信<rt data-ruby-level="4">つうしん</rt></ruby>などによりますと、このサービスは<ruby>中国<rt
+  data-ruby-level="2">ちゅうごく</rt></ruby><ruby>版<rt data-ruby-level="5">ばん</rt></ruby>ＬＩＮＥとも<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>ばれるＳＮＳの「ウェイシン」<ruby>上<rt data-ruby-level="1">うえ</rt></ruby>で、<ruby>先月<rt
+  data-ruby-level="1">せんげつ</rt></ruby>から<ruby>南部<rt data-ruby-level="3">なんぶ</rt></ruby>、<ruby>広東省<rt
+  data-ruby-level="8">かんとんしょう</rt></ruby>の<ruby>一部<rt data-ruby-level="3">いちぶ</rt></ruby><ruby>地域<rt
+  data-ruby-level="6">ちいき</rt></ruby>で<ruby>試験的<rt data-ruby-level="4">しけんてき</rt></ruby>に<ruby>導入<rt
+  data-ruby-level="5">どうにゅう</rt></ruby>されました。<br /><br /><ruby>利用者<rt data-ruby-level="4">りようしゃ</rt></ruby>が<ruby>国<rt
+  data-ruby-level="2">くに</rt></ruby>が<ruby>発行<rt data-ruby-level="3">はっこう</rt></ruby>する<ruby>身分<rt
+  data-ruby-level="3">みぶん</rt></ruby><ruby>証明書<rt data-ruby-level="5">しょうめいしょ</rt></ruby>の<ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>や<ruby>顔<rt data-ruby-level="2">かお</rt></ruby>の<ruby>画像<rt
+  data-ruby-level="5">がぞう</rt></ruby>などを「ウェイシン」に<ruby>登録<rt data-ruby-level="4">とうろく</rt></ruby>したうえで、<ruby>地方<rt
+  data-ruby-level="2">ちほう</rt></ruby>の<ruby>行政<rt data-ruby-level="5">ぎょうせい</rt></ruby><ruby>窓口<rt
+  data-ruby-level="6">まどぐち</rt></ruby>に<ruby>出向<rt data-ruby-level="3">でむ</rt></ruby>いて<ruby>手続<rt
+  data-ruby-level="4">てつづ</rt></ruby>きを<ruby>済<rt data-ruby-level="6">す</rt></ruby>ませると、<ruby>以後<rt
+  data-ruby-level="4">いご</rt></ruby>は<ruby>顔認証<rt data-ruby-level="7">かおにんしょう</rt></ruby>などによって「ウェイシン」<ruby>上<rt
+  data-ruby-level="1">うえ</rt></ruby>に<ruby>身分<rt data-ruby-level="3">みぶん</rt></ruby><ruby>証明書<rt
+  data-ruby-level="5">しょうめいしょ</rt></ruby>が<ruby>表示<rt data-ruby-level="5">ひょうじ</rt></ruby>されるシステムになっていて、<ruby>行政<rt
+  data-ruby-level="5">ぎょうせい</rt></ruby><ruby>手続<rt data-ruby-level="4">てつづ</rt></ruby>きのほか、<ruby>宅配<rt
+  data-ruby-level="6">たくはい</rt></ruby>サービスなど<ruby>本人<rt data-ruby-level="1">ほんにん</rt></ruby><ruby>確認<rt
+  data-ruby-level="7">かくにん</rt></ruby>が<ruby>必要<rt data-ruby-level="4">ひつよう</rt></ruby>な<ruby>時<rt
+  data-ruby-level="2">とき</rt></ruby>に<ruby>使<rt data-ruby-level="3">つか</rt></ruby>えるということです。このサービスは<ruby>今月<rt
+  data-ruby-level="2">こんげつ</rt></ruby>から<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby><ruby>全土<rt
+  data-ruby-level="3">ぜんど</rt></ruby>で<ruby>導入<rt data-ruby-level="5">どうにゅう</rt></ruby>される<ruby>見通<rt
+  data-ruby-level="2">みとお</rt></ruby>しだということです。<br /><br /><ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>ではホテルのチェックインや<ruby>高速<rt
+  data-ruby-level="3">こうそく</rt></ruby><ruby>鉄道<rt data-ruby-level="3">てつどう</rt></ruby>の<ruby>切符<rt
+  data-ruby-level="7">きっぷ</rt></ruby>の<ruby>購入<rt data-ruby-level="7">こうにゅう</rt></ruby>など、さまざまな<ruby>場面<rt
+  data-ruby-level="3">ばめん</rt></ruby>で<ruby>本人<rt data-ruby-level="1">ほんにん</rt></ruby><ruby>確認<rt
+  data-ruby-level="7">かくにん</rt></ruby>が<ruby>求<rt data-ruby-level="4">もと</rt></ruby>められるため、ネット<ruby>上<rt
+  data-ruby-level="1">じょう</rt></ruby>では<ruby>利便性<rt data-ruby-level="5">りべんせい</rt></ruby>の<ruby>向上<rt
+  data-ruby-level="3">こうじょう</rt></ruby>を<ruby>歓迎<rt data-ruby-level="7">かんげい</rt></ruby>する<ruby>声<rt
+  data-ruby-level="2">こえ</rt></ruby>が<ruby>上<rt data-ruby-level="1">あ</rt></ruby>がっています。<br
+  /><br /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>で、「ウェイシン」には<ruby>友人<rt data-ruby-level="2">ゆうじん</rt></ruby>とのメッセージのやり<ruby>取<rt
+  data-ruby-level="3">と</rt></ruby>りから<ruby>商店<rt data-ruby-level="3">しょうてん</rt></ruby>や<ruby>飲食店<rt
+  data-ruby-level="3">いんしょくてん</rt></ruby>での<ruby>支払<rt data-ruby-level="7">しはら</rt></ruby>いまで、さまざまな<ruby>個人<rt
+  data-ruby-level="5">こじん</rt></ruby><ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>が<ruby>詰<rt
+  data-ruby-level="7">つ</rt></ruby>まっているため、「プライバシーがますます<ruby>侵食<rt data-ruby-level="7">しんしょく</rt></ruby>されるようで<ruby>恐<rt
+  data-ruby-level="7">おそ</rt></ruby>ろしい」などと、<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby><ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>の<ruby>監視<rt data-ruby-level="7">かんし</rt></ruby>がさらに<ruby>強<rt
+  data-ruby-level="2">つよ</rt></ruby>まることを<ruby>心配<rt data-ruby-level="3">しんぱい</rt></ruby>する<ruby>声<rt
+  data-ruby-level="2">こえ</rt></ruby>も<ruby>出<rt data-ruby-level="1">で</rt></ruby>ています。
+movie_url: https://newswebeasy.github.io/ja201801/news/web/movie/2018/01/05/k10011279481_201801051006_201801051056.mp4
+voice_url: https://newswebeasy.github.io/ja201801/news/web/voice/2018/01/05/k10011279481_201801051006_201801051056.mp3
+source_url: https://www3.nhk.or.jp/news/html/20180105/k10011279481000.html
+related_news:
+- title: トランプ<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby> <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>でツイッター<ruby>使<rt
+    data-ruby-level="3">つか</rt></ruby>えるかと<ruby>関心<rt data-ruby-level="4">かんしん</rt></ruby><ruby>集<rt
+    data-ruby-level="3">あつ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/web/2017/11/08/トランプ大統領-中国でツイッター使えるかと関心集まる
+- title: <ruby>日中<rt data-ruby-level="1">にっちゅう</rt></ruby><ruby>国交<rt data-ruby-level="2">こっこう</rt></ruby><ruby>正常化<rt
+    data-ruby-level="5">せいじょうか</rt></ruby>４５<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>
+    <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>で<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby><ruby>文化<rt
+    data-ruby-level="3">ぶんか</rt></ruby><ruby>紹介<rt data-ruby-level="7">しょうかい</rt></ruby>の<ruby>催<rt
+    data-ruby-level="7">もよお</rt></ruby>し
+  url: https://newswebeasy.github.io/news/web/2017/10/21/日中国交正常化45年-東京で中国文化紹介の催し
+- title: <ruby>ＪＲ東日本<rt data-ruby-level="2">じぇーあーるひがしにほん</rt></ruby>の<ruby>駅<rt data-ruby-level="3">えき</rt></ruby><ruby>ビル<rt
+    data-ruby-level="3">びる</rt></ruby>で<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>の<ruby>電子<rt
+    data-ruby-level="2">でんし</rt></ruby><ruby>決済<rt data-ruby-level="6">けっさい</rt></ruby><ruby>始<rt
+    data-ruby-level="3">はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/web/2017/11/21/JR東日本の駅ビルで中国の電子決済始まる
+- title: パンダの<ruby>赤<rt data-ruby-level="1">あか</rt></ruby>ちゃん３６<ruby>頭<rt data-ruby-level="2">とう</rt></ruby>お<ruby>披露目<rt
+    data-ruby-level="7">ひろめ</rt></ruby> <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/10/13/パンダの赤ちゃん36頭お披露目-中国
+- title: アップルＣＥＯ <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>でのアプリ<ruby>配信<rt
+    data-ruby-level="4">はいしん</rt></ruby><ruby>停止<rt data-ruby-level="4">ていし</rt></ruby>を<ruby>釈明<rt
+    data-ruby-level="7">しゃくめい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/07/アップルCEO-中国でのアプリ配信停止を釈明
+...
