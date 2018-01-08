@@ -1,0 +1,198 @@
+---
+layout: web_news
+categories: web
+newsid: k10011281441000
+title: “ＡＩスカウト“で変わる人事 ネットで人材発掘 企業に紹介
+title_with_ruby: “ＡＩスカウト“で<ruby>変<rt data-ruby-level="4">か</rt></ruby>わる<ruby>人事<rt
+  data-ruby-level="3">じんじ</rt></ruby> ネットで<ruby>人材<rt data-ruby-level="4">じんざい</rt></ruby><ruby>発掘<rt
+  data-ruby-level="7">はっくつ</rt></ruby> <ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>に<ruby>紹介<rt
+  data-ruby-level="7">しょうかい</rt></ruby>
+last_modified_at: '2018-01-07T19:00:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>01<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>07<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 19<ruby>時<rt data-ruby-level="2">じ</rt></ruby>00<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: インターネット上の交流サイトなどに個人が公開しているプロフィールをＡＩ＝人工知能が分析し、人材を求めている企業への転職をすすめるサービスが登場し、企業の採用活動の新たな方法として広がるか、注目されそうです。
+summary: インターネット<ruby>上<rt data-ruby-level="1">じょう</rt></ruby>の<ruby>交流<rt data-ruby-level="3">こうりゅう</rt></ruby>サイトなどに<ruby>個人<rt
+  data-ruby-level="5">こじん</rt></ruby>が<ruby>公開<rt data-ruby-level="3">こうかい</rt></ruby>しているプロフィールをＡＩ＝<ruby>人工<rt
+  data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt data-ruby-level="5">ちのう</rt></ruby>が<ruby>分析<rt
+  data-ruby-level="7">ぶんせき</rt></ruby>し、<ruby>人材<rt data-ruby-level="4">じんざい</rt></ruby>を<ruby>求<rt
+  data-ruby-level="4">もと</rt></ruby>めている<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>への<ruby>転職<rt
+  data-ruby-level="5">てんしょく</rt></ruby>をすすめるサービスが<ruby>登場<rt data-ruby-level="3">とうじょう</rt></ruby>し、<ruby>企業<rt
+  data-ruby-level="7">きぎょう</rt></ruby>の<ruby>採用<rt data-ruby-level="5">さいよう</rt></ruby><ruby>活動<rt
+  data-ruby-level="3">かつどう</rt></ruby>の<ruby>新<rt data-ruby-level="2">あら</rt></ruby>たな<ruby>方法<rt
+  data-ruby-level="4">ほうほう</rt></ruby>として<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>がるか、<ruby>注目<rt
+  data-ruby-level="3">ちゅうもく</rt></ruby>されそうです。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/07/K10011281441_1801071948_1801071951_01_03.jpg
+more: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>・<ruby>渋谷区<rt data-ruby-level="8">しぶやく</rt></ruby>のベンチャー<ruby>企業<rt
+  data-ruby-level="7">きぎょう</rt></ruby>「Ｓａｎｓａｎ」は<ruby>名刺<rt data-ruby-level="7">めいし</rt></ruby>を<ruby>交換<rt
+  data-ruby-level="7">こうかん</rt></ruby>したビジネスマンの<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>が<ruby>交流<rt
+  data-ruby-level="3">こうりゅう</rt></ruby>できるＳＮＳを<ruby>運営<rt data-ruby-level="5">うんえい</rt></ruby>しています。<br
+  />この<ruby>会社<rt data-ruby-level="2">かいしゃ</rt></ruby>では、２００<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>に<ruby>上<rt
+  data-ruby-level="1">のぼ</rt></ruby>るＳＮＳの<ruby>利用者<rt data-ruby-level="4">りようしゃ</rt></ruby>に<ruby>企業<rt
+  data-ruby-level="7">きぎょう</rt></ruby>から<ruby>転職<rt data-ruby-level="5">てんしょく</rt></ruby>の<ruby>誘<rt
+  data-ruby-level="7">さそ</rt></ruby>いがくるという<ruby>人材<rt data-ruby-level="4">じんざい</rt></ruby>の<ruby>仲介<rt
+  data-ruby-level="7">ちゅうかい</rt></ruby>サービスを<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>めました。<br
+  /><br />ＳＮＳに<ruby>公開<rt data-ruby-level="3">こうかい</rt></ruby>されている<ruby>名刺<rt data-ruby-level="7">めいし</rt></ruby>のデータや<ruby>交流<rt
+  data-ruby-level="3">こうりゅう</rt></ruby>の<ruby>履歴<rt data-ruby-level="7">りれき</rt></ruby>をＡＩが<ruby>分析<rt
+  data-ruby-level="7">ぶんせき</rt></ruby>し、<ruby>人材<rt data-ruby-level="4">じんざい</rt></ruby>を<ruby>求<rt
+  data-ruby-level="4">もと</rt></ruby>めている<ruby>登録<rt data-ruby-level="4">とうろく</rt></ruby><ruby>企業<rt
+  data-ruby-level="7">きぎょう</rt></ruby>の<ruby>中<rt data-ruby-level="1">なか</rt></ruby>から<ruby>条件<rt
+  data-ruby-level="5">じょうけん</rt></ruby>や<ruby>相性<rt data-ruby-level="7">あいしょう</rt></ruby>が<ruby>合<rt
+  data-ruby-level="2">あ</rt></ruby>いそうなところをＳＮＳの<ruby>利用者<rt data-ruby-level="4">りようしゃ</rt></ruby>に<ruby>提示<rt
+  data-ruby-level="5">ていじ</rt></ruby>します。<br /><ruby>担当者<rt data-ruby-level="6">たんとうしゃ</rt></ruby>の<ruby>西村<rt
+  data-ruby-level="2">にしむら</rt></ruby><ruby>晃<rt data-ruby-level="8">あきら</rt></ruby>さんは「<ruby>日々<rt
+  data-ruby-level="1">ひび</rt></ruby>のビジネス<ruby>活動<rt data-ruby-level="3">かつどう</rt></ruby>が<ruby>蓄積<rt
+  data-ruby-level="7">ちくせき</rt></ruby>されたデータを<ruby>基<rt data-ruby-level="7">もと</rt></ruby>に<ruby>客観的<rt
+  data-ruby-level="4">きゃっかんてき</rt></ruby>に<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>を<ruby>推薦<rt
+  data-ruby-level="7">すいせん</rt></ruby>できるのが<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>みだ」と<ruby>話<rt
+  data-ruby-level="2">はな</rt></ruby>しています。<br /><br /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>、<ruby>東京<rt
+  data-ruby-level="2">とうきょう</rt></ruby>・<ruby>渋谷区<rt data-ruby-level="8">しぶやく</rt></ruby>のベンチャ－<ruby>企業<rt
+  data-ruby-level="7">きぎょう</rt></ruby>「スカウティ」はツイッターやフェイスブックといった<ruby>交流<rt data-ruby-level="3">こうりゅう</rt></ruby>サイトやブログなどに<ruby>個人<rt
+  data-ruby-level="5">こじん</rt></ruby>が<ruby>載<rt data-ruby-level="7">の</rt></ruby>せているプロフィールや<ruby>書<rt
+  data-ruby-level="7">か</rt></ruby>き<ruby>込<rt data-ruby-level="7">こ</rt></ruby>みをＡＩで<ruby>分析<rt
+  data-ruby-level="7">ぶんせき</rt></ruby>し、<ruby>人材<rt data-ruby-level="4">じんざい</rt></ruby>を<ruby>求<rt
+  data-ruby-level="4">もと</rt></ruby>めている<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>に<ruby>紹介<rt
+  data-ruby-level="7">しょうかい</rt></ruby>するサービスを<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>めました。<br
+  /><br />この<ruby>会社<rt data-ruby-level="2">かいしゃ</rt></ruby>のサービスは、ネット<ruby>上<rt data-ruby-level="1">じょう</rt></ruby>のあらゆる<ruby>場所<rt
+  data-ruby-level="3">ばしょ</rt></ruby>を<ruby>対象<rt data-ruby-level="4">たいしょう</rt></ruby>に<ruby>書<rt
+  data-ruby-level="7">か</rt></ruby>き<ruby>込<rt data-ruby-level="7">こ</rt></ruby>みの<ruby>内容<rt
+  data-ruby-level="5">ないよう</rt></ruby>を<ruby>分析<rt data-ruby-level="7">ぶんせき</rt></ruby>し、<ruby>書<rt
+  data-ruby-level="7">か</rt></ruby>き<ruby>込<rt data-ruby-level="7">こ</rt></ruby>んだ<ruby>個人<rt
+  data-ruby-level="5">こじん</rt></ruby>が<ruby>転職<rt data-ruby-level="5">てんしょく</rt></ruby>を<ruby>希望<rt
+  data-ruby-level="4">きぼう</rt></ruby>しているかどうかにかかわらず、<ruby>人材<rt data-ruby-level="4">じんざい</rt></ruby>を<ruby>求<rt
+  data-ruby-level="4">もと</rt></ruby>めている<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>に<ruby>紹介<rt
+  data-ruby-level="7">しょうかい</rt></ruby>するのが<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きな<ruby>特徴<rt
+  data-ruby-level="7">とくちょう</rt></ruby>です。<br /><ruby>現在<rt data-ruby-level="5">げんざい</rt></ruby>は<ruby>人材<rt
+  data-ruby-level="4">じんざい</rt></ruby>を<ruby>探<rt data-ruby-level="6">さが</rt></ruby>す<ruby>対象<rt
+  data-ruby-level="4">たいしょう</rt></ruby>を<ruby>技術系<rt data-ruby-level="6">ぎじゅつけい</rt></ruby>の<ruby>職種<rt
+  data-ruby-level="5">しょくしゅ</rt></ruby>に<ruby>絞<rt data-ruby-level="7">しぼ</rt></ruby>っていますが、すでに３５の<ruby>企業<rt
+  data-ruby-level="7">きぎょう</rt></ruby>が<ruby>利用<rt data-ruby-level="4">りよう</rt></ruby>しているということです。<br
+  /><br /><ruby>島田<rt data-ruby-level="3">しまだ</rt></ruby><ruby>寛基<rt data-ruby-level="8">ひろき</rt></ruby><ruby>代表<rt
+  data-ruby-level="3">だいひょう</rt></ruby>は「<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>が<ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>をオープンにし、<ruby>誰<rt data-ruby-level="7">だれ</rt></ruby>でも<ruby>人工<rt
+  data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt data-ruby-level="5">ちのう</rt></ruby>が<ruby>使<rt
+  data-ruby-level="3">つか</rt></ruby>えるようになって<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>の<ruby>採用<rt
+  data-ruby-level="5">さいよう</rt></ruby><ruby>活動<rt data-ruby-level="3">かつどう</rt></ruby>は<ruby>変化<rt
+  data-ruby-level="4">へんか</rt></ruby>していくのではないか」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>しています。<br
+  /><br />こうしたＡＩを<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>して<ruby>人材<rt data-ruby-level="4">じんざい</rt></ruby>を<ruby>探<rt
+  data-ruby-level="6">さが</rt></ruby>し<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>に<ruby>紹介<rt
+  data-ruby-level="7">しょうかい</rt></ruby>するサービスは<ruby>欧米<rt data-ruby-level="7">おうべい</rt></ruby>では<ruby>浸透<rt
+  data-ruby-level="7">しんとう</rt></ruby>しはじめていて、<ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>、<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>でも<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>の<ruby>採用<rt
+  data-ruby-level="5">さいよう</rt></ruby><ruby>活動<rt data-ruby-level="3">かつどう</rt></ruby>の<ruby>新<rt
+  data-ruby-level="2">あら</rt></ruby>たな<ruby>形<rt data-ruby-level="2">かたち</rt></ruby>として<ruby>広<rt
+  data-ruby-level="2">ひろ</rt></ruby>がっていくか、<ruby>注目<rt data-ruby-level="3">ちゅうもく</rt></ruby>されます。
+movie_url: https://newswebeasy.github.io/ja201801/news/web/movie/2018/01/07/k10011281441_201801071948_201801071950.mp4
+voice_url: https://newswebeasy.github.io/ja201801/news/web/voice/2018/01/07/k10011281441_201801071948_201801071950.mp3
+body:
+- title: “ＡＩスカウト”で<ruby>転職<rt data-ruby-level="5">てんしょく</rt></ruby>した<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>
+  text: ＡＩに<ruby>見<rt data-ruby-level="1">み</rt></ruby>いだされて、<ruby>実際<rt data-ruby-level="5">じっさい</rt></ruby>に<ruby>転職<rt
+    data-ruby-level="5">てんしょく</rt></ruby>に<ruby>踏<rt data-ruby-level="7">ふ</rt></ruby>み<ruby>切<rt
+    data-ruby-level="7">き</rt></ruby>った<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>がいます。<br
+    />ソフトウエアエンジニアの<ruby>清水<rt data-ruby-level="8">しみず</rt></ruby><ruby>陽一郎<rt data-ruby-level="7">よういちろう</rt></ruby>さん（３１）は、<ruby>大手<rt
+    data-ruby-level="1">おおて</rt></ruby>の<ruby>精密<rt data-ruby-level="6">せいみつ</rt></ruby><ruby>機器<rt
+    data-ruby-level="4">きき</rt></ruby>メーカーに<ruby>勤<rt data-ruby-level="6">つと</rt></ruby>めていましたが、<ruby>去年<rt
+    data-ruby-level="3">きょねん</rt></ruby>ベンチャー<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>から<ruby>突然<rt
+    data-ruby-level="7">とつぜん</rt></ruby><ruby>面会<rt data-ruby-level="3">めんかい</rt></ruby>を<ruby>希望<rt
+    data-ruby-level="4">きぼう</rt></ruby>するメールが<ruby>届<rt data-ruby-level="6">とど</rt></ruby>きました。<br
+    /><br />このベンチャー<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>が<ruby>利用<rt data-ruby-level="4">りよう</rt></ruby>していたのが、「スカウティ」のサービスです。<ruby>清水<rt
+    data-ruby-level="8">しみず</rt></ruby>さんがツイッターやブログ、それに<ruby>技術者<rt data-ruby-level="5">ぎじゅつしゃ</rt></ruby>の<ruby>交流<rt
+    data-ruby-level="3">こうりゅう</rt></ruby>サイトで<ruby>発信<rt data-ruby-level="4">はっしん</rt></ruby>していた<ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby>の<ruby>内容<rt data-ruby-level="5">ないよう</rt></ruby>がスカウティのＡＩの<ruby>目<rt
+    data-ruby-level="1">め</rt></ruby>にとまり、スカウティのサービスに<ruby>登録<rt data-ruby-level="4">とうろく</rt></ruby>している３５の<ruby>企業<rt
+    data-ruby-level="7">きぎょう</rt></ruby>のうち<ruby>特<rt data-ruby-level="4">とく</rt></ruby>に<ruby>相性<rt
+    data-ruby-level="7">あいしょう</rt></ruby>がよいと<ruby>判断<rt data-ruby-level="5">はんだん</rt></ruby>されたベンチャー<ruby>企業<rt
+    data-ruby-level="7">きぎょう</rt></ruby>からメールが<ruby>送<rt data-ruby-level="3">おく</rt></ruby>られてきたのです。<br
+    /><br /><ruby>勧誘<rt data-ruby-level="7">かんゆう</rt></ruby>のメールは、<ruby>転職<rt data-ruby-level="5">てんしょく</rt></ruby>したベンチャー<ruby>企業<rt
+    data-ruby-level="7">きぎょう</rt></ruby>の<ruby>人事<rt data-ruby-level="3">じんじ</rt></ruby><ruby>担当者<rt
+    data-ruby-level="6">たんとうしゃ</rt></ruby>が<ruby>書<rt data-ruby-level="2">か</rt></ruby>いたもので、<ruby>清水<rt
+    data-ruby-level="8">しみず</rt></ruby>さんは、その<ruby>裏側<rt data-ruby-level="6">うらがわ</rt></ruby>にＡＩによる<ruby>推薦<rt
+    data-ruby-level="7">すいせん</rt></ruby>があったとは<ruby>全<rt data-ruby-level="3">まった</rt></ruby>くわからなかったといいます。<br
+    /><br /><ruby>清水<rt data-ruby-level="8">しみず</rt></ruby>さんは「モノを<ruby>作<rt data-ruby-level="2">つく</rt></ruby>るメーカーからウェブ<ruby>系<rt
+    data-ruby-level="6">けい</rt></ruby>の<ruby>会社<rt data-ruby-level="2">かいしゃ</rt></ruby>に<ruby>転職<rt
+    data-ruby-level="5">てんしょく</rt></ruby>できるとは<ruby>思<rt data-ruby-level="2">おも</rt></ruby>っていませんでした。<ruby>自分<rt
+    data-ruby-level="2">じぶん</rt></ruby>で<ruby>探<rt data-ruby-level="6">さが</rt></ruby>そうと<ruby>思<rt
+    data-ruby-level="2">おも</rt></ruby>っても<ruby>見<rt data-ruby-level="1">み</rt></ruby>つけられない<ruby>企業<rt
+    data-ruby-level="7">きぎょう</rt></ruby>との<ruby>巡<rt data-ruby-level="7">めぐ</rt></ruby>り<ruby>合<rt
+    data-ruby-level="7">あ</rt></ruby>わせが<ruby>生<rt data-ruby-level="1">う</rt></ruby>まれたので、<ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby>を<ruby>公開<rt data-ruby-level="3">こうかい</rt></ruby>していたかいがありました」と<ruby>話<rt
+    data-ruby-level="2">はな</rt></ruby>していました。
+- title: サービスの<ruby>仕組<rt data-ruby-level="3">しく</rt></ruby>みは
+  text: 「スカウティ」が<ruby>手<rt data-ruby-level="1">て</rt></ruby>がける<ruby>人材<rt data-ruby-level="4">じんざい</rt></ruby>サービスは、ＳＮＳやブログなどインターネット<ruby>上<rt
+    data-ruby-level="1">じょう</rt></ruby>に<ruby>公開<rt data-ruby-level="3">こうかい</rt></ruby>されている<ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby>を、ＡＩが<ruby>分析<rt data-ruby-level="7">ぶんせき</rt></ruby>して<ruby>人材<rt
+    data-ruby-level="4">じんざい</rt></ruby>を<ruby>探<rt data-ruby-level="6">さが</rt></ruby>す<ruby>材料<rt
+    data-ruby-level="4">ざいりょう</rt></ruby>にしているのが<ruby>最大<rt data-ruby-level="4">さいだい</rt></ruby>の<ruby>特徴<rt
+    data-ruby-level="7">とくちょう</rt></ruby>です。<br /><br />ＡＩは、<ruby>書<rt data-ruby-level="7">か</rt></ruby>き<ruby>込<rt
+    data-ruby-level="7">こ</rt></ruby>みの<ruby>内容<rt data-ruby-level="5">ないよう</rt></ruby>からその<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>が<ruby>持<rt data-ruby-level="3">も</rt></ruby>っている<ruby>技術<rt
+    data-ruby-level="5">ぎじゅつ</rt></ruby>や<ruby>資格<rt data-ruby-level="5">しかく</rt></ruby>のほか<ruby>参加<rt
+    data-ruby-level="4">さんか</rt></ruby>した<ruby>勉強会<rt data-ruby-level="3">べんきょうかい</rt></ruby>などのイベント、それにどんな<ruby>職種<rt
+    data-ruby-level="5">しょくしゅ</rt></ruby>や<ruby>業種<rt data-ruby-level="4">ぎょうしゅ</rt></ruby>の<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>との<ruby>交流<rt data-ruby-level="3">こうりゅう</rt></ruby>が<ruby>多<rt
+    data-ruby-level="2">おお</rt></ruby>いかを<ruby>判断<rt data-ruby-level="5">はんだん</rt></ruby>し、これらを<ruby>基<rt
+    data-ruby-level="7">もと</rt></ruby>に<ruby>業務上<rt data-ruby-level="5">ぎょうむじょう</rt></ruby>の<ruby>能力<rt
+    data-ruby-level="5">のうりょく</rt></ruby>や<ruby>社会的<rt data-ruby-level="4">しゃかいてき</rt></ruby>な<ruby>影響力<rt
+    data-ruby-level="7">えいきょうりょく</rt></ruby>を<ruby>類推<rt data-ruby-level="6">るいすい</rt></ruby>して<ruby>数値化<rt
+    data-ruby-level="6">すうちか</rt></ruby>します。<br /><br /><ruby>例<rt data-ruby-level="4">たと</rt></ruby>えばソフトウエアの<ruby>技術者<rt
+    data-ruby-level="5">ぎじゅつしゃ</rt></ruby>の<ruby>場合<rt data-ruby-level="2">ばあい</rt></ruby>は、どんなプログラミング<ruby>言語<rt
+    data-ruby-level="2">げんご</rt></ruby>を<ruby>使<rt data-ruby-level="3">つか</rt></ruby>えるかや<ruby>過去<rt
+    data-ruby-level="5">かこ</rt></ruby>に<ruby>携<rt data-ruby-level="7">たずさ</rt></ruby>わった<ruby>仕事<rt
+    data-ruby-level="3">しごと</rt></ruby>の<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby><ruby>案件<rt
+    data-ruby-level="5">あんけん</rt></ruby>などもリスト<ruby>化<rt data-ruby-level="3">か</rt></ruby>して、<ruby>人材<rt
+    data-ruby-level="4">じんざい</rt></ruby>を<ruby>探<rt data-ruby-level="6">さが</rt></ruby>している<ruby>企業<rt
+    data-ruby-level="7">きぎょう</rt></ruby>に<ruby>示<rt data-ruby-level="5">しめ</rt></ruby>します。<br
+    /><br /><ruby>一般的<rt data-ruby-level="7">いっぱんてき</rt></ruby>な<ruby>転職<rt data-ruby-level="5">てんしょく</rt></ruby><ruby>支援<rt
+    data-ruby-level="7">しえん</rt></ruby>サービスは、<ruby>希望者<rt data-ruby-level="4">きぼうしゃ</rt></ruby>がみずからサイトに<ruby>登録<rt
+    data-ruby-level="4">とうろく</rt></ruby>しますが、スカウティのサービスは、<ruby>転職<rt data-ruby-level="5">てんしょく</rt></ruby>を<ruby>望<rt
+    data-ruby-level="4">のぞ</rt></ruby>んでいるかどうかは<ruby>関係<rt data-ruby-level="4">かんけい</rt></ruby>なくスカウトの<ruby>対象<rt
+    data-ruby-level="4">たいしょう</rt></ruby>になり、<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>に<ruby>紹介<rt
+    data-ruby-level="7">しょうかい</rt></ruby>されます。<br /><br />またＳＮＳに<ruby>掲載<rt data-ruby-level="7">けいさい</rt></ruby>している<ruby>経歴<rt
+    data-ruby-level="5">けいれき</rt></ruby>や<ruby>書<rt data-ruby-level="7">か</rt></ruby>き<ruby>込<rt
+    data-ruby-level="7">こ</rt></ruby>みの<ruby>内容<rt data-ruby-level="5">ないよう</rt></ruby>から<ruby>本人<rt
+    data-ruby-level="1">ほんにん</rt></ruby>の<ruby>勤<rt data-ruby-level="6">つと</rt></ruby>め<ruby>先<rt
+    data-ruby-level="6">さき</rt></ruby>や<ruby>勤続<rt data-ruby-level="6">きんぞく</rt></ruby><ruby>年数<rt
+    data-ruby-level="2">ねんすう</rt></ruby>、<ruby>今<rt data-ruby-level="2">いま</rt></ruby>の<ruby>仕事<rt
+    data-ruby-level="3">しごと</rt></ruby>に<ruby>対<rt data-ruby-level="3">たい</rt></ruby>する<ruby>満足度<rt
+    data-ruby-level="4">まんぞくど</rt></ruby>を<ruby>読<rt data-ruby-level="3">よ</rt></ruby>み<ruby>取<rt
+    data-ruby-level="3">と</rt></ruby>って、それによって<ruby>転職<rt data-ruby-level="5">てんしょく</rt></ruby>の<ruby>可能性<rt
+    data-ruby-level="5">かのうせい</rt></ruby>が<ruby>高<rt data-ruby-level="2">たか</rt></ruby>いか<ruby>低<rt
+    data-ruby-level="4">ひく</rt></ruby>いかを<ruby>分析<rt data-ruby-level="7">ぶんせき</rt></ruby>し、どの<ruby>人材<rt
+    data-ruby-level="4">じんざい</rt></ruby>が<ruby>採用<rt data-ruby-level="5">さいよう</rt></ruby>につながりやすいかを<ruby>企業側<rt
+    data-ruby-level="7">きぎょうがわ</rt></ruby>にアドバイスする<ruby>機能<rt data-ruby-level="5">きのう</rt></ruby>も<ruby>備<rt
+    data-ruby-level="5">そな</rt></ruby>えています。<br /><br />ＡＩが<ruby>発掘<rt data-ruby-level="7">はっくつ</rt></ruby>した<ruby>人材<rt
+    data-ruby-level="4">じんざい</rt></ruby>のデータベースは、<ruby>現在<rt data-ruby-level="5">げんざい</rt></ruby>９０<ruby>万人<rt
+    data-ruby-level="2">まんにん</rt></ruby>を<ruby>超<rt data-ruby-level="7">こ</rt></ruby>えているということで、<ruby>今後<rt
+    data-ruby-level="2">こんご</rt></ruby>は、ネット<ruby>上<rt data-ruby-level="1">じょう</rt></ruby>に<ruby>公開<rt
+    data-ruby-level="3">こうかい</rt></ruby>されている<ruby>学術<rt data-ruby-level="5">がくじゅつ</rt></ruby><ruby>論文<rt
+    data-ruby-level="6">ろんぶん</rt></ruby>なども<ruby>分析<rt data-ruby-level="7">ぶんせき</rt></ruby>の<ruby>対象<rt
+    data-ruby-level="4">たいしょう</rt></ruby>にして、より<ruby>幅広<rt data-ruby-level="7">はばひろ</rt></ruby>い<ruby>業種<rt
+    data-ruby-level="4">ぎょうしゅ</rt></ruby>や<ruby>職種<rt data-ruby-level="5">しょくしゅ</rt></ruby>を<ruby>発掘<rt
+    data-ruby-level="7">はっくつ</rt></ruby>の<ruby>対象<rt data-ruby-level="4">たいしょう</rt></ruby>にして、<ruby>精度<rt
+    data-ruby-level="5">せいど</rt></ruby>も<ruby>高<rt data-ruby-level="2">たか</rt></ruby>めていく<ruby>計画<rt
+    data-ruby-level="2">けいかく</rt></ruby>です。
+source_url: https://www3.nhk.or.jp/news/html/20180107/k10011281441000.html
+related_news:
+- title: <ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby><ruby>留学生<rt data-ruby-level="5">りゅうがくせい</rt></ruby>と<ruby>外資系<rt
+    data-ruby-level="6">がいしけい</rt></ruby><ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>の<ruby>交流会<rt
+    data-ruby-level="3">こうりゅうかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/10/18/外国人留学生と外資系企業の交流会
+- title: <ruby>人工<rt data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt data-ruby-level="5">ちのう</rt></ruby>で<ruby>社員<rt
+    data-ruby-level="3">しゃいん</rt></ruby>データ<ruby>分析<rt data-ruby-level="7">ぶんせき</rt></ruby>
+    <ruby>最適<rt data-ruby-level="5">さいてき</rt></ruby><ruby>人事<rt data-ruby-level="3">じんじ</rt></ruby>で<ruby>人手<rt
+    data-ruby-level="1">ひとで</rt></ruby><ruby>不足<rt data-ruby-level="4">ぶそく</rt></ruby>に<ruby>対応<rt
+    data-ruby-level="5">たいおう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/11/26/人工知能で社員データ分析-最適人事で人手不足に対応
+- title: <ruby>大卒<rt data-ruby-level="4">だいそつ</rt></ruby><ruby>新入社員<rt data-ruby-level="3">しんにゅうしゃいん</rt></ruby>の<ruby>初任給<rt
+    data-ruby-level="5">しょにんきゅう</rt></ruby> ２<ruby>年<rt data-ruby-level="1">ねん</rt></ruby><ruby>連続<rt
+    data-ruby-level="4">れんぞく</rt></ruby>で<ruby>過去<rt data-ruby-level="5">かこ</rt></ruby><ruby>最高<rt
+    data-ruby-level="4">さいこう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/11/17/大卒新入社員の初任給-2年連続で過去最高
+- title: ＧＭＯインターネット １<ruby>万<rt data-ruby-level="2">まん</rt></ruby>4600<ruby>件<rt data-ruby-level="5">けん</rt></ruby><ruby>余<rt
+    data-ruby-level="5">よ</rt></ruby>の<ruby>顧客<rt data-ruby-level="7">こきゃく</rt></ruby><ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby><ruby>流出<rt data-ruby-level="3">りゅうしゅつ</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/10/30/GMOインターネット-1万4600件余の顧客情報流出
+- title: <ruby>米国<rt data-ruby-level="2">べいこく</rt></ruby><ruby>発<rt data-ruby-level="3">はつ</rt></ruby>“ユニコーン”<ruby>上陸<rt
+    data-ruby-level="4">じょうりく</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/07/米国発ユニコーン上陸
+...

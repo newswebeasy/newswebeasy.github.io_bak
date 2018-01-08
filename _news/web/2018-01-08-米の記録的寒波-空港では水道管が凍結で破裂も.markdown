@@ -1,0 +1,72 @@
+---
+layout: web_news
+categories: web
+newsid: k10011281841000
+title: 米の記録的寒波 空港では水道管が凍結で破裂も
+title_with_ruby: <ruby>米<rt data-ruby-level="2">べい</rt></ruby>の<ruby>記録的<rt data-ruby-level="4">きろくてき</rt></ruby><ruby>寒波<rt
+  data-ruby-level="3">かんぱ</rt></ruby> <ruby>空港<rt data-ruby-level="3">くうこう</rt></ruby>では<ruby>水道管<rt
+  data-ruby-level="4">すいどうかん</rt></ruby>が<ruby>凍結<rt data-ruby-level="7">とうけつ</rt></ruby>で<ruby>破裂<rt
+  data-ruby-level="7">はれつ</rt></ruby>も
+last_modified_at: '2018-01-08T14:16:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>01<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>08<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 14<ruby>時<rt data-ruby-level="2">じ</rt></ruby>16<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 年末から記録的な寒波が続くアメリカでは、７日、各地でこの冬いちばんの冷え込みとなり、ニューヨークではケネディ国際空港で水道管が凍結によって破裂し、一時、ターミナルが使えなくなるなど影響が広がっています。
+summary: <ruby>年末<rt data-ruby-level="4">ねんまつ</rt></ruby>から<ruby>記録的<rt data-ruby-level="4">きろくてき</rt></ruby>な<ruby>寒波<rt
+  data-ruby-level="3">かんぱ</rt></ruby>が<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>くアメリカでは、７<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>、<ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>でこの<ruby>冬<rt
+  data-ruby-level="2">ふゆ</rt></ruby>いちばんの<ruby>冷<rt data-ruby-level="7">ひ</rt></ruby>え<ruby>込<rt
+  data-ruby-level="7">こ</rt></ruby>みとなり、ニューヨークではケネディ<ruby>国際空港<rt data-ruby-level="5">こくさいくうこう</rt></ruby>で<ruby>水道管<rt
+  data-ruby-level="4">すいどうかん</rt></ruby>が<ruby>凍結<rt data-ruby-level="7">とうけつ</rt></ruby>によって<ruby>破裂<rt
+  data-ruby-level="7">はれつ</rt></ruby>し、一<ruby>時<rt data-ruby-level="2">じ</rt></ruby>、ターミナルが<ruby>使<rt
+  data-ruby-level="3">つか</rt></ruby>えなくなるなど<ruby>影響<rt data-ruby-level="7">えいきょう</rt></ruby>が<ruby>広<rt
+  data-ruby-level="2">ひろ</rt></ruby>がっています。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/08/K10011281841_1801081504_1801081507_01_03.jpg
+more: アメリカでは、<ruby>年末<rt data-ruby-level="4">ねんまつ</rt></ruby>から<ruby>大西洋岸<rt data-ruby-level="3">たいせいようがん</rt></ruby>を<ruby>中心<rt
+  data-ruby-level="2">ちゅうしん</rt></ruby>に<ruby>記録的<rt data-ruby-level="4">きろくてき</rt></ruby>な<ruby>寒波<rt
+  data-ruby-level="3">かんぱ</rt></ruby>が<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>いていて、<ruby>主要<rt
+  data-ruby-level="4">しゅよう</rt></ruby>メディアは、<ruby>路面<rt data-ruby-level="3">ろめん</rt></ruby>の<ruby>凍結<rt
+  data-ruby-level="7">とうけつ</rt></ruby>による<ruby>交通<rt data-ruby-level="2">こうつう</rt></ruby><ruby>事故<rt
+  data-ruby-level="5">じこ</rt></ruby>や<ruby>凍死<rt data-ruby-level="7">とうし</rt></ruby>などで<ruby>国内<rt
+  data-ruby-level="2">こくない</rt></ruby>でおよそ２０<ruby>人<rt data-ruby-level="1">にん</rt></ruby>が<ruby>死亡<rt
+  data-ruby-level="6">しぼう</rt></ruby>したと<ruby>伝<rt data-ruby-level="4">つた</rt></ruby>えています。<br
+  /><br />７<ruby>日<rt data-ruby-level="1">にち</rt></ruby>、ニューヨークでは、１３<ruby>日間<rt data-ruby-level="2">にちかん</rt></ruby><ruby>連続<rt
+  data-ruby-level="4">れんぞく</rt></ruby>で<ruby>最高<rt data-ruby-level="4">さいこう</rt></ruby><ruby>気温<rt
+  data-ruby-level="3">きおん</rt></ruby>が<ruby>氷点下<rt data-ruby-level="3">ひょうてんか</rt></ruby>となったほか、ボストンでは１２２<ruby>年<rt
+  data-ruby-level="1">ねん</rt></ruby>ぶりに<ruby>最低<rt data-ruby-level="4">さいてい</rt></ruby><ruby>気温<rt
+  data-ruby-level="3">きおん</rt></ruby>がおよそ<ruby>氷点下<rt data-ruby-level="3">ひょうてんか</rt></ruby>１９<ruby>度<rt
+  data-ruby-level="3">ど</rt></ruby>となるなど<ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>でこの<ruby>冬<rt
+  data-ruby-level="2">ふゆ</rt></ruby>いちばんの<ruby>冷<rt data-ruby-level="7">ひ</rt></ruby>え<ruby>込<rt
+  data-ruby-level="7">こ</rt></ruby>みとなりました。
+movie_url: https://newswebeasy.github.io/ja201801/news/web/movie/2018/01/08/k10011281841_201801081504_201801081506.mp4
+voice_url: https://newswebeasy.github.io/ja201801/news/web/voice/2018/01/08/k10011281841_201801081504_201801081506.mp3
+body:
+- text: こうした<ruby>中<rt data-ruby-level="1">なか</rt></ruby>、およそ<ruby>氷点下<rt data-ruby-level="3">ひょうてんか</rt></ruby>１６<ruby>度<rt
+    data-ruby-level="3">ど</rt></ruby>を<ruby>記録<rt data-ruby-level="4">きろく</rt></ruby>したニューヨークのケネディ<ruby>国際空港<rt
+    data-ruby-level="5">こくさいくうこう</rt></ruby>では、<ruby>水道管<rt data-ruby-level="4">すいどうかん</rt></ruby>が<ruby>凍結<rt
+    data-ruby-level="7">とうけつ</rt></ruby>で<ruby>破裂<rt data-ruby-level="7">はれつ</rt></ruby>して、６つあるターミナルの１つが<ruby>水浸<rt
+    data-ruby-level="7">みずびた</rt></ruby>しになり<ruby>使<rt data-ruby-level="3">つか</rt></ruby>えなくなりました。<br
+    /><br /><ruby>利用客<rt data-ruby-level="4">りようきゃく</rt></ruby>を<ruby>避難<rt data-ruby-level="7">ひなん</rt></ruby>させるなどして<ruby>復旧<rt
+    data-ruby-level="5">ふっきゅう</rt></ruby><ruby>作業<rt data-ruby-level="3">さぎょう</rt></ruby>を<ruby>行<rt
+    data-ruby-level="2">おこな</rt></ruby>い、ターミナルは<ruby>数<rt data-ruby-level="2">すう</rt></ruby><ruby>時間後<rt
+    data-ruby-level="2">じかんご</rt></ruby>には<ruby>再<rt data-ruby-level="5">ふたた</rt></ruby>び<ruby>使<rt
+    data-ruby-level="3">つか</rt></ruby>えるようになりましたが、<ruby>航空便<rt data-ruby-level="4">こうくうびん</rt></ruby>の<ruby>欠航<rt
+    data-ruby-level="4">けっこう</rt></ruby>や<ruby>遅<rt data-ruby-level="7">おく</rt></ruby>れが<ruby>相次<rt
+    data-ruby-level="3">あいつ</rt></ruby>ぎました。<br /><br /><ruby>気象<rt data-ruby-level="4">きしょう</rt></ruby><ruby>当局<rt
+    data-ruby-level="3">とうきょく</rt></ruby>によりますと、アメリカ<ruby>大西洋岸<rt data-ruby-level="3">たいせいようがん</rt></ruby>の<ruby>厳<rt
+    data-ruby-level="6">きび</rt></ruby>しい<ruby>寒<rt data-ruby-level="3">さむ</rt></ruby>さは８<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>には<ruby>和<rt data-ruby-level="7">やわ</rt></ruby>らぐということです。
+  textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/08/K10011281841_1801081402_1801081416_01_02.jpg
+source_url: https://www3.nhk.or.jp/news/html/20180108/k10011281841000.html
+related_news:
+- title: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby><ruby>都心<rt data-ruby-level="3">としん</rt></ruby>で<ruby>初雪<rt
+    data-ruby-level="4">はつゆき</rt></ruby> <ruby>東日本<rt data-ruby-level="2">ひがしにほん</rt></ruby>で<ruby>冷<rt
+    data-ruby-level="7">ひ</rt></ruby>え<ruby>込<rt data-ruby-level="7">こ</rt></ruby>み
+  url: https://newswebeasy.github.io/news/web/2017/12/31/東京都心で初雪-東日本で冷え込み
+- title: <ruby>九州<rt data-ruby-level="3">きゅうしゅう</rt></ruby>・<ruby>四国<rt data-ruby-level="2">しこく</rt></ruby>・<ruby>中国地方<rt
+    data-ruby-level="2">ちゅうごくちほう</rt></ruby> <ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>で<ruby>初雪<rt
+    data-ruby-level="4">はつゆき</rt></ruby> <ruby>交通<rt data-ruby-level="2">こうつう</rt></ruby><ruby>影響<rt
+    data-ruby-level="7">えいきょう</rt></ruby>など<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/05/九州四国中国地方-各地で初雪-交通影響など注意
+...
