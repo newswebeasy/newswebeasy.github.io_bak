@@ -78,18 +78,18 @@ more: このアンケート<ruby>調査<rt data-ruby-level="5">ちょうさ</rt>
 movie_url: https://newswebeasy.github.io/ja201801/news/web/movie/2018/01/05/k10011279391_201801050515_201801050517.mp4
 voice_url: https://newswebeasy.github.io/ja201801/news/web/voice/2018/01/05/k10011279391_201801050515_201801050517.mp3
 source_url: https://www3.nhk.or.jp/news/html/20180105/k10011279391000.html
+easy_title_with_ruby: <ruby>男<rt data-ruby-level="1">おとこ</rt></ruby>の<ruby>子<rt data-ruby-level="1">こ</rt></ruby>の<ruby>将来<rt
+  data-ruby-level="6">しょうらい</rt></ruby>の<ruby>夢<rt data-ruby-level="5">ゆめ</rt></ruby>は「<ruby>学者<rt
+  data-ruby-level="3">がくしゃ</rt></ruby>」 <ruby>女<rt data-ruby-level="1">おんな</rt></ruby>の<ruby>子<rt
+  data-ruby-level="1">こ</rt></ruby>は「<ruby>食<rt data-ruby-level="3">た</rt></ruby>べ<ruby>物屋<rt
+  data-ruby-level="3">ものや</rt></ruby>さん」
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/01/09/男の子の将来の夢は学者-女の子は食べ物屋さん
 related_news:
 - title: ＩＯＣ ロシア<ruby>選手団<rt data-ruby-level="5">せんしゅだん</rt></ruby>の<ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby><ruby>出場<rt
     data-ruby-level="2">しゅつじょう</rt></ruby><ruby>認<rt data-ruby-level="6">みと</rt></ruby>めず
     <ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>は<ruby>条件<rt data-ruby-level="5">じょうけん</rt></ruby>つきで<ruby>容認<rt
     data-ruby-level="7">ようにん</rt></ruby>
   url: https://newswebeasy.github.io/news/web/2017/12/06/IOC-ロシア選手団の五輪出場認めず-個人は条件つきで容認
-- title: <ruby>白井<rt data-ruby-level="7">しらい</rt></ruby><ruby>健三<rt data-ruby-level="8">けんぞう</rt></ruby>が<ruby>跳馬<rt
-    data-ruby-level="7">ちょうば</rt></ruby>で<ruby>金<rt data-ruby-level="1">きん</rt></ruby>
-    <ruby>村上<rt data-ruby-level="1">むらかみ</rt></ruby><ruby>茉<rt data-ruby-level="8">ばつ</rt></ruby><ruby>愛<rt
-    data-ruby-level="4">あい</rt></ruby>がゆかで<ruby>金<rt data-ruby-level="1">きん</rt></ruby>
-    <ruby>体操<rt data-ruby-level="6">たいそう</rt></ruby><ruby>世界選手権<rt data-ruby-level="6">せかいせんしゅけん</rt></ruby>
-  url: https://newswebeasy.github.io/news/web/2017/10/09/白井健三が跳馬で金-村上茉愛がゆかで金-体操世界選手権
 - title: ピョンチャン<ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby>まで100<ruby>日<rt data-ruby-level="1">にち</rt></ruby>
     <ruby>韓国<rt data-ruby-level="7">かんこく</rt></ruby>で<ruby>聖火<rt data-ruby-level="6">せいか</rt></ruby>リレー<ruby>始<rt
     data-ruby-level="3">はじ</rt></ruby>まる
@@ -101,4 +101,7 @@ related_news:
 - title: スピードスケート <ruby>小平<rt data-ruby-level="3">こだいら</rt></ruby> 1000メートルで<ruby>世界<rt
     data-ruby-level="3">せかい</rt></ruby><ruby>新記録<rt data-ruby-level="4">しんきろく</rt></ruby>
   url: https://newswebeasy.github.io/news/web/2017/12/11/スピードスケート-小平-1000メートルで世界新記録
+- title: フィギュア<ruby>男子<rt data-ruby-level="1">だんし</rt></ruby>シングル <ruby>宇野<rt data-ruby-level="6">うの</rt></ruby>が<ruby>優勝<rt
+    data-ruby-level="6">ゆうしょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/10/29/フィギュア男子シングル-宇野が優勝
 ...
