@@ -1,0 +1,69 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011283441000
+last_modified_at: '2018-01-10T18:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>10<ruby>日<rt>にち</rt></ruby>
+  18<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 世界の４０００ぐらいの会社が電化製品を紹介するイベントが９日にアメリカのラスベガスで始まりました。
+title: 新しい電化製品を紹介するイベントがアメリカで始まる
+title_with_ruby: <ruby>新<rt>あたら</rt></ruby>しい<ruby>電化製品<rt>でんかせいひん</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベントがアメリカで<ruby>始<rt>はじ</rt></ruby>まる
+outline: 世界の４０００ぐらいの会社が電化製品を紹介するイベントが９日にアメリカのラスベガスで始まりました。
+outline_with_ruby: <ruby>世界<rt>せかい</rt></ruby>の４０００ぐらいの<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>電化製品<rt>でんかせいひん</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベントが<ruby>９日<rt>ここのか</rt></ruby>にアメリカのラスベガスで<ruby>始<rt>はじ</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/10/K10011283441_1801100643_1801100644_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/10/k10011283441000.mp3
+content_with_ruby: "<p><ruby>世界<rt>せかい</rt></ruby>の４０００ぐらいの<ruby>会社<rt>かいしゃ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>電化製品<rt>でんかせいひん</rt></ruby></span>を<ruby>紹介<rt>しょうかい</rt></ruby>する<span\
+  \ style=\"color: blue;\">イベント</span>が<ruby>９日<rt>ここのか</rt></ruby>にアメリカのラスベガスで<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>車<rt>くるま</rt></ruby>に<span\
+  \ style=\"color: blue;\">ＩＴ</span>の<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うことが<ruby>増<rt>ふ</rt></ruby>えているため、<span\
+  \ style=\"color: blue;\">イベント</span>に<span style=\"color: blue;\"><ruby>参加<rt>さんか</rt></ruby></span>する<ruby>車<rt>くるま</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなっています。</p>\n\
+  <p>アメリカの<ruby>車<rt>くるま</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>のフォードは「<ruby>町<rt>まち</rt></ruby>でみんなが<ruby>利用<rt>りよう</rt></ruby>する<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しくしたいです」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>のトヨタ<ruby>自動車<rt>じどうしゃ</rt></ruby>は、<ruby>人<rt>ひと</rt></ruby>が<ruby>運転<rt>うんてん</rt></ruby>しなくても<ruby>走<rt>はし</rt></ruby>る<span\
+  \ style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span><ruby>運転<rt>うんてん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>しています。<ruby>車<rt>くるま</rt></ruby>から２００ｍ<ruby>以内<rt>いない</rt></ruby>にいる<ruby>人<rt>ひと</rt></ruby>や<ruby>物<rt>もの</rt></ruby>などを<span\
+  \ style=\"color: blue;\">センサー</span>で<ruby>見<rt>み</rt></ruby>つけることができます。</p>\n<p>ホンダは、<ruby>笑<rt>わら</rt></ruby>ったりして<ruby>人<rt>ひと</rt></ruby>と<span\
+  \ style=\"color: blue;\">コミュニケーション</span>ができる<span style=\"color: blue;\">ロボット</span>を<ruby>紹介<rt>しょうかい</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 電化製品
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って、はたらかせる<ruby><rb>機械</rb><rt>きかい</rt></ruby>。<ruby><rb>電気冷蔵庫</rb><rt>でんきれいぞうこ</rt></ruby>・<ruby><rb>電気洗濯機</rb><rt>でんきせんたくき</rt></ruby>など。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: IT
+  descriptions:
+  - コンピューターを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>とした<ruby><rb>情報技術</rb><rt>じょうほうぎじゅつ</rt></ruby>。
+- word: 参加
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。
+- word: 自動
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。
+- word: センサー
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>、<ruby><rb>温度</rb><rt>おんど</rt></ruby>などに<ruby><rb>反応</rb><rt>はんのう</rt></ruby>して、<ruby><rb>電気的</rb><rt>でんきてき</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: コミュニケーション
+  descriptions:
+  - ことばや<ruby><rb>文字</rb><rt>もじ</rt></ruby>などによって、たがいに<ruby><rb>気持</rb><rt>きも</rt></ruby>ちや<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>伝</rb><rt>つた</rt></ruby>え<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。
+- word: ロボット
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>磁気</rb><rt>じき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。<ruby><rb>人造</rb><rt>じんぞう</rt></ruby><ruby><rb>人間</rb><rt>にんげん</rt></ruby>。
+  - <ruby><rb>工場</rb><rt>こうじょう</rt></ruby>などで<ruby><rb>人間</rb><rt>にんげん</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって、<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。
+  - （いつも）<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>いなりになって<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011283441000/k10011283441000.html
+web_title_with_ruby: <ruby>米<rt>べい</rt></ruby>で<ruby>家電<rt>かでん</rt></ruby><ruby>ショー<rt>しょー</rt></ruby><ruby>開幕<rt>かいまく</rt></ruby>
+  <ruby>コンセプト<rt>こんせぷと</rt></ruby><ruby>カー<rt>かー</rt></ruby>や<ruby>ロボット<rt>ろぼっと</rt></ruby>などに<ruby>注目<rt>ちゅうもく</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/10/米で家電ショー開幕-コンセプトカーやロボットなどに注目
+related_news:
+- title: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>電化製品<rt>でんかせいひん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>自動<rt>じどう</rt></ruby>で<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2017/10/24/日本の電化製品の会社が自動で走る車の研究を進める
+- title: <ruby>東京<rt>とうきょう</rt></ruby>モーターショー　<ruby>多<rt>おお</rt></ruby>くの<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/10/26/東京モーターショー-多くの会社が電気自動車を紹介
+- title: ドライブレコーダーが<ruby>売<rt>う</rt></ruby>れる「<ruby>車<rt>くるま</rt></ruby>のトラブルをなくしたい」
+  url: https://newswebeasy.github.io/news/easy/2017/12/26/ドライブレコーダーが売れる車のトラブルをなくしたい
+- title: ニューヨーク　<ruby>車<rt>くるま</rt></ruby>が<ruby>自転車<rt>じてんしゃ</rt></ruby>などをはねて８<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2017/11/01/ニューヨーク-車が自転車などをはねて8人が亡くなる
+- title: <ruby>放送<rt>ほうそう</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント
+  url: https://newswebeasy.github.io/news/easy/2017/11/16/放送の新しい技術を紹介するイベント
+...

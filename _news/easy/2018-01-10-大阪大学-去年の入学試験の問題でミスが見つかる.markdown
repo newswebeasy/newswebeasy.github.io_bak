@@ -1,0 +1,69 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011280941000
+last_modified_at: '2018-01-10T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>10<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 大阪大学は、去年２月に行った入学試験の問題にミスがあったと発表しました。
+title: 大阪大学　去年の入学試験の問題でミスが見つかる
+title_with_ruby: <ruby>大阪大学<rt>おおさかだいがく</rt></ruby>　<ruby>去年<rt>きょねん</rt></ruby>の<ruby>入学<rt>にゅうがく</rt></ruby><ruby>試験<rt>しけん</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>でミスが<ruby>見<rt>み</rt></ruby>つかる
+outline: 大阪大学は、去年２月に行った入学試験の問題にミスがあったと発表しました。
+outline_with_ruby: <ruby>大阪大学<rt>おおさかだいがく</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>った<ruby>入学<rt>にゅうがく</rt></ruby><ruby>試験<rt>しけん</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>にミスがあったと<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/06/K10011280941_1801061954_1801061955_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/10/k10011280941000.mp3
+content_with_ruby: "<p><ruby>大阪大学<rt>おおさかだいがく</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>った<ruby>入学<rt>にゅうがく</rt></ruby><ruby>試験<rt>しけん</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>に<span\
+  \ style=\"color: blue;\">ミス</span>があったと<span style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。「<span\
+  \ style=\"color: blue;\"><ruby>物理<rt>ぶつり</rt></ruby></span>」の<ruby>問題<rt>もんだい</rt></ruby>で<ruby>正<rt>ただ</rt></ruby>しい<ruby>答<rt>こた</rt></ruby>えが３つあったのに、１つだけを<ruby>正<rt>ただ</rt></ruby>しいと<ruby>考<rt>かんが</rt></ruby>えて<ruby>点<rt>てん</rt></ruby>を<span\
+  \ style=\"color: blue;\">つけ</span>ていました。</p>\n<p><ruby>去年<rt>きょねん</rt></ruby>６<ruby>月<rt>がつ</rt></ruby>と８<ruby>月<rt>がつ</rt></ruby>、この<ruby>問題<rt>もんだい</rt></ruby>の<ruby>正<rt>ただ</rt></ruby>しい<ruby>答<rt>こた</rt></ruby>えは１つだけではないと<ruby>言<rt>い</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>がいました。しかし、<ruby>問題<rt>もんだい</rt></ruby>を<ruby>作<rt>つく</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>教授<rt>きょうじゅ</rt></ruby></span>は、<ruby>正<rt>ただ</rt></ruby>しい<ruby>答<rt>こた</rt></ruby>えは１つだけだと<ruby>言<rt>い</rt></ruby>いました。<ruby>去年<rt>きょねん</rt></ruby>１２<ruby>月<rt>がつ</rt></ruby>にも<ruby>別<rt>べつ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>から<ruby>問題<rt>もんだい</rt></ruby>に<span\
+  \ style=\"color: blue;\">ミス</span>があると<ruby>言<rt>い</rt></ruby>われたため、ほかの<ruby>先生<rt>せんせい</rt></ruby>も<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>調<rt>しら</rt></ruby>べてわかりました。</p>\n\
+  <p><ruby>大阪大学<rt>おおさかだいがく</rt></ruby>は、<ruby>問題<rt>もんだい</rt></ruby>の<span style=\"\
+  color: blue;\">ミス</span>のため、<ruby>去年<rt>きょねん</rt></ruby><span style=\"color: blue;\"\
+  ><ruby>合格<rt>ごうかく</rt></ruby></span>できなかった３０<ruby>人<rt>にん</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>して、<ruby>今年<rt>ことし</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>に<ruby>入学<rt>にゅうがく</rt></ruby>することができると<ruby>伝<rt>つた</rt></ruby>えました。</p>\n\
+  <p><ruby>大阪大学<rt>おおさかだいがく</rt></ruby>は「<ruby>試験<rt>しけん</rt></ruby>を<ruby>受<rt>う</rt></ruby>けた<ruby>人<rt>ひと</rt></ruby>や<ruby>家族<rt>かぞく</rt></ruby>のみなさんに<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>迷惑<rt>めいわく</rt></ruby></span>をかけてしまいました」と<ruby>言<rt>い</rt></ruby>って<ruby>謝<rt>あやま</rt></ruby>りました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ミス
+  descriptions:
+  - やりそこない。<ruby><rb>失敗</rb><rt>しっぱい</rt></ruby>。まちがい。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 物理学
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>や<ruby><rb>運動</rb><rt>うんどう</rt></ruby>、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>・<ruby><rb>光</rb><rt>ひかり</rt></ruby>・<ruby><rb>電気</rb><rt>でんき</rt></ruby>・<ruby><rb>音</rb><rt>おと</rt></ruby>のはたらきなどについて<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>学問</rb><rt>がくもん</rt></ruby>。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+- word: 教授
+  descriptions:
+  - <ruby><rb>大学</rb><rt>だいがく</rt></ruby>の<ruby><rb>先生</rb><rt>せんせい</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>にものを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 合格
+  descriptions:
+  - <ruby><rb>学校</rb><rt>がっこう</rt></ruby>や<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>の<ruby><rb>試験</rb><rt>しけん</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>かること。パス。
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>などが<ruby><rb>決</rb><rt>き</rt></ruby>められたことがらに<ruby><rb>合</rb><rt>あ</rt></ruby>っていること。
+- word: 迷惑
+  descriptions:
+  - ほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>がしたことで、いやな<ruby><rb>思</rb><rt>おも</rt></ruby>いをしたり<ruby><rb>困</rb><rt>こま</rt></ruby>ったりすること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011280941000/k10011280941000.html
+web_title_with_ruby: <ruby>大阪<rt>おおさか</rt></ruby><ruby>大<rt>だい</rt></ruby> <ruby>去年<rt>きょねん</rt></ruby>の<ruby>入試<rt>にゅうし</rt></ruby>で<ruby>出題<rt>しゅつだい</rt></ruby><ruby>ミス<rt>みす</rt></ruby>
+  ３０<ruby>人<rt>にん</rt></ruby>が<ruby>不合格<rt>ふごうかく</rt></ruby>に
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/06/大阪大-去年の入試で出題ミス-30人が不合格に
+related_news:
+- title: <ruby>日産<rt>にっさん</rt></ruby>　「２０<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>から<ruby>正<rt>ただ</rt></ruby>しい<ruby>検査<rt>けんさ</rt></ruby>をしていなかった」
+  url: https://newswebeasy.github.io/news/easy/2017/10/20/日産-20年ぐらい前から正しい検査をしていなかった
+- title: 「みんなで<ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>する<ruby>力<rt>ちから</rt></ruby>」<ruby>日本<rt>にっぽん</rt></ruby>の１５<ruby>歳<rt>さい</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>で２<ruby>番<rt>ばん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/11/24/みんなで問題を解決する力日本の15歳は世界で2番
+...
