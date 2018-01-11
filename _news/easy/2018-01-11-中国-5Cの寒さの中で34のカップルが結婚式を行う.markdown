@@ -1,0 +1,71 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011282361000
+last_modified_at: '2018-01-11T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 中国の北のほうにある黒竜江省のハルビンでは、毎年冬に「氷祭り」があります。
+title: 中国　－５℃の寒さの中で３４のカップルが結婚式を行う
+title_with_ruby: <ruby>中国<rt>ちゅうごく</rt></ruby>　－５℃の<ruby>寒<rt>さむ</rt></ruby>さの<ruby>中<rt>なか</rt></ruby>で３４のカップルが<ruby>結婚<rt>けっこん</rt></ruby><ruby>式<rt>しき</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う
+outline: 中国の北のほうにある黒竜江省のハルビンでは、毎年冬に「氷祭り」があります。
+outline_with_ruby: <ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>北<rt>きた</rt></ruby>のほうにある<ruby>黒竜江省<rt>こくりゅうこうしょう</rt></ruby>のハルビンでは、<ruby>毎年<rt>まいとし</rt></ruby><ruby>冬<rt>ふゆ</rt></ruby>に「<ruby>氷祭<rt>こおりまつ</rt></ruby>り」があります。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/09/K10011282361_1801091008_1801091009_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/11/k10011282361000.mp3
+content_with_ruby: "<p><ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>北<rt>きた</rt></ruby>の<span\
+  \ style=\"color: blue;\">ほう</span>にある<ruby>黒竜江省<rt>こくりゅうこうしょう</rt></ruby>のハルビンでは、<ruby>毎年<rt>まいとし</rt></ruby><ruby>冬<rt>ふゆ</rt></ruby>に「<ruby>氷祭<rt>こおりまつ</rt></ruby>り」があります。このお<ruby>祭<rt>まつ</rt></ruby>りは、<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>や<ruby>雪<rt>ゆき</rt></ruby>で<ruby>作<rt>つく</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>彫刻<rt>ちょうこく</rt></ruby></span>が<ruby>飾<rt>かざ</rt></ruby>ってあって、１０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。</p>\n\
+  <p>お<ruby>祭<rt>まつ</rt></ruby>りが<ruby>今年<rt>ことし</rt></ruby>３４<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>になったため、<ruby>会場<rt>かいじょう</rt></ruby>では３４の<span\
+  \ style=\"color: blue;\">カップル</span>が<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>結婚<rt>けっこん</rt></ruby><ruby>式<rt>しき</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>いました。－５℃の<ruby>寒<rt>さむ</rt></ruby>さの<ruby>中<rt>なか</rt></ruby>で、<span\
+  \ style=\"color: blue;\">カップル</span>は<ruby>約束<rt>やくそく</rt></ruby>のことばを<ruby>言<rt>い</rt></ruby>ったあと、<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るまちの<ruby>中<rt>なか</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>きました。</p>\n\
+  <p><ruby>結婚<rt>けっこん</rt></ruby><ruby>式<rt>しき</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>った<ruby>女性<rt>じょせい</rt></ruby>は「<ruby>白<rt>しろ</rt></ruby>い<ruby>雪<rt>ゆき</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>たちの<span\
+  \ style=\"color: blue;\"><ruby>愛<rt>あい</rt></ruby></span>を<span style=\"color: blue;\"\
+  ><ruby>表<rt>あらわ</rt></ruby>し</span>ているようで、とても<span style=\"color: blue;\"><ruby>幸<rt>しあわ</rt></ruby>せ</span>です」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: カップル
+  descriptions:
+  - <ruby><rb>夫婦</rb><rt>ふうふ</rt></ruby>や<ruby><rb>恋人</rb><rt>こいびと</rt></ruby>のような、<ruby><rb>男</rb><rt>おとこ</rt></ruby>と<ruby><rb>女</rb><rt>おんな</rt></ruby>のひと<ruby><rb>組</rb><rt>く</rt></ruby>み。
+- word: 方
+  descriptions:
+  - <ruby><rb>向</rb><rt>む</rt></ruby>き。
+  - それぞれの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。
+  - <ruby><rb>四角</rb><rt>しかく</rt></ruby>。
+  - やりかた。
+  - <ruby><rb>分</rb><rt>わ</rt></ruby>けたときの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>部類</rb><rt>ぶるい</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>をうやまって<ruby><rb>言</rb><rt>い</rt></ruby>うことば。かた。
+- word: 氷
+  descriptions:
+  - <ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>０度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。
+- word: 彫刻
+  descriptions:
+  - <ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>石</rb><rt>いし</rt></ruby>・<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などを、ほったりけずったりして、いろいろな<ruby><rb>形</rb><rt>かたち</rt></ruby>をつくること。また、その<ruby><rb>作品</rb><rt>さくひん</rt></ruby>。
+- word: 愛
+  descriptions:
+  - （<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を）かわいがる。かわいく<ruby><rb>思</rb><rt>おも</rt></ruby>う。また、その<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。
+  - （<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を）<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>にする。また、その<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。
+  - <ruby><rb>好</rb><rt>この</rt></ruby>む。おもしろいと<ruby><rb>思</rb><rt>おも</rt></ruby>う。
+- word: 表す
+  descriptions:
+  - <ruby><rb>気持</rb><rt>きも</rt></ruby>ちや<ruby><rb>考</rb><rt>かんが</rt></ruby>えなどを、ことばや<ruby><rb>表情</rb><rt>ひょうじょう</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>したり、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>などにしたりする。
+- word: 幸せ
+  descriptions:
+  - <ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>満足</rb><rt>まんぞく</rt></ruby>している<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011282361000/k10011282361000.html
+web_title_with_ruby: <ruby>氷点下<rt>ひょうてんか</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で34<ruby>組<rt>くみ</rt></ruby>が<ruby>合同<rt>ごうどう</rt></ruby><ruby>結婚式<rt>けっこんしき</rt></ruby>
+  <ruby>中国<rt>ちゅうごく</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/09/氷点下の中で34組が合同結婚式-中国
+related_news:
+- title: <ruby>埼玉県<rt>さいたまけん</rt></ruby>　<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にあるスキー<ruby>場<rt>じょう</rt></ruby>でゲレンデの<ruby>準備<rt>じゅんび</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/10/19/埼玉県-建物の中にあるスキー場でゲレンデの準備
+- title: <ruby>北海道<rt>ほっかいどう</rt></ruby>に<ruby>冷<rt>つめ</rt></ruby>たい<ruby>空気<rt>くうき</rt></ruby>が<ruby>入<rt>はい</rt></ruby>って<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2017/10/24/北海道に冷たい空気が入って雪が降る
+- title: <ruby>富士山<rt>ふじさん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>が<ruby>雪<rt>ゆき</rt></ruby>で<ruby>白<rt>しろ</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2017/10/27/富士山の上が雪で白くなる
+- title: <ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>函館市<rt>はこだてし</rt></ruby>　<ruby>線路<rt>せんろ</rt></ruby>の<ruby>雪<rt>ゆき</rt></ruby>を<ruby>掃<rt>は</rt></ruby>く「ササラ<ruby>電車<rt>でんしゃ</rt></ruby>」を<ruby>点検<rt>てんけん</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2017/11/15/北海道函館市-線路の雪を掃くササラ電車を点検する
+- title: <ruby>札幌<rt>さっぽろ</rt></ruby>　<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って「ササラ<ruby>電車<rt>でんしゃ</rt></ruby>」が<ruby>出発<rt>しゅっぱつ</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2017/11/21/札幌-雪が降ってササラ電車が出発する
+...
