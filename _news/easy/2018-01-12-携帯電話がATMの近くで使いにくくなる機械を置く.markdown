@@ -1,0 +1,63 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011283611000
+last_modified_at: '2018-01-12T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 群馬県では、お年寄りなどにうその電話をしてＡＴＭからお金を送らせる詐欺が、去年２５３件ありました。
+title: 携帯電話がＡＴＭの近くで使いにくくなる機械を置く
+title_with_ruby: <ruby>携帯電話<rt>けいたいでんわ</rt></ruby>がＡＴＭの<ruby>近<rt>ちか</rt></ruby>くで<ruby>使<rt>つか</rt></ruby>いにくくなる<ruby>機械<rt>きかい</rt></ruby>を<ruby>置<rt>お</rt></ruby>く
+outline: 群馬県では、お年寄りなどにうその電話をしてＡＴＭからお金を送らせる詐欺が、去年２５３件ありました。
+outline_with_ruby: <ruby>群馬県<rt>ぐんまけん</rt></ruby>では、お<ruby>年寄<rt>としよ</rt></ruby>りなどにうその<ruby>電話<rt>でんわ</rt></ruby>をしてＡＴＭからお<ruby>金<rt>かね</rt></ruby>を<ruby>送<rt>おく</rt></ruby>らせる<ruby>詐欺<rt>さぎ</rt></ruby>が、<ruby>去年<rt>きょねん</rt></ruby>２５３<ruby>件<rt>けん</rt></ruby>ありました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/10/K10011283611_1801101144_1801101144_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/12/k10011283611000.mp3
+content_with_ruby: "<p><ruby>群馬県<rt>ぐんまけん</rt></ruby>では、お<span style=\"color: blue;\"\
+  ><ruby>年寄<rt>としよ</rt></ruby>り</span>などにうその<ruby>電話<rt>でんわ</rt></ruby>をして<span style=\"\
+  color: blue;\">ＡＴＭ</span>からお<ruby>金<rt>かね</rt></ruby>を<ruby>送<rt>おく</rt></ruby>らせる<span\
+  \ style=\"color: blue;\"><ruby>詐欺<rt>さぎ</rt></ruby></span>が、<ruby>去年<rt>きょねん</rt></ruby>２５３<span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span>ありました。</p>\n<p><ruby>群馬県<rt>ぐんまけん</rt></ruby>の「アイオー<ruby>信用金庫<rt>しんようきんこ</rt></ruby>」などは<span\
+  \ style=\"color: blue;\"><ruby>詐欺<rt>さぎ</rt></ruby></span>をなくすために、<ruby>伊勢崎市役所<rt>いせさきしやくしょ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にある<span\
+  \ style=\"color: blue;\">ＡＴＭ</span>に、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>が<ruby>使<rt>つか</rt></ruby>いにくくなる<ruby>機械<rt>きかい</rt></ruby>を<ruby>置<rt>お</rt></ruby>きました。この<ruby>機械<rt>きかい</rt></ruby>があると<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>電波<rt>でんぱ</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>届<rt>とど</rt></ruby>か</span>なくなります。このため、<span style=\"color: blue;\"\
+  >ＡＴＭ</span>から１m<ruby>以内<rt>いない</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ると、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>すことができなくなったり、<ruby>話<rt>はな</rt></ruby>しにくくなったりします。</p>\n\
+  <p>アイオー<ruby>信用金庫<rt>しんようきんこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>電話<rt>でんわ</rt></ruby>ができなくなると、<span\
+  \ style=\"color: blue;\"><ruby>犯人<rt>はんにん</rt></ruby></span>はどこにお<ruby>金<rt>かね</rt></ruby>を<ruby>送<rt>おく</rt></ruby>るか<ruby>伝<rt>つた</rt></ruby>えることができません。<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つことがわかったら、ほかの<ruby>場所<rt>ばしょ</rt></ruby>にも<ruby>置<rt>お</rt></ruby>きたいと<ruby>考<rt>かんが</rt></ruby>えています」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ATM
+  descriptions:
+  - <ruby><rb>銀行</rb><rt>ぎんこう</rt></ruby>などにある、<ruby><rb>現金自動預</rb><rt>げんきんじどうあず</rt></ruby>け<ruby><rb>払</rb><rt>ばら</rt></ruby>い<ruby><rb>機</rb><rt>き</rt></ruby>。
+- word: 年寄り
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。
+  - <ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 詐欺
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>をだまして、お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>ること。
+- word: 件
+  descriptions:
+  - ことがら。できごと。
+  - ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 電波
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>と<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>速</rb><rt>はや</rt></ruby>さで<ruby><rb>空間</rb><rt>くうかん</rt></ruby>を<ruby><rb>運動</rb><rt>うんどう</rt></ruby>している<ruby><rb>電気</rb><rt>でんき</rt></ruby>の<ruby><rb>波</rb><rt>なみ</rt></ruby>。<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>使</rb><rt>つか</rt></ruby>われる。<ruby><rb>電磁波</rb><rt>でんじは</rt></ruby>。
+- word: 届く
+  descriptions:
+  - <ruby><rb>送</rb><rt>おく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>着</rb><rt>つ</rt></ruby>く。
+  - のばしたものが、つく。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>いなどがかなう。
+- word: 犯人
+  descriptions:
+  - <ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011283611000/k10011283611000.html
+web_title_with_ruby: “<ruby>携帯<rt>けいたい</rt></ruby>あえて<ruby>使<rt>つか</rt></ruby>いづらく”
+  <ruby>振<rt>ふ</rt></ruby>り<ruby>込<rt>こ</rt></ruby>め<ruby>対策<rt>たいさく</rt></ruby>でＡＴＭに<ruby>装置<rt>そうち</rt></ruby>
+  <ruby>群馬<rt>ぐんま</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/10/携帯あえて使いづらく-振り込め対策でATMに装置-群馬
+related_news:
+- title: 「<ruby>楽天<rt>らくてん</rt></ruby>」が<ruby>新<rt>あたら</rt></ruby>しい<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>をつくると<ruby>発表<rt>はっぴょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/12/15/楽天が新しい携帯電話の会社をつくると発表
+...

@@ -1,0 +1,69 @@
+---
+layout: web_news
+categories: web
+newsid: k10011284971000
+title: 全世界のパソコンやスマホ ＣＰＵに深刻な欠陥 攻撃のおそれ
+title_with_ruby: <ruby>全世界<rt data-ruby-level="3">ぜんせかい</rt></ruby>のパソコンやスマホ ＣＰＵに<ruby>深刻<rt
+  data-ruby-level="6">しんこく</rt></ruby>な<ruby>欠陥<rt data-ruby-level="7">けっかん</rt></ruby>
+  <ruby>攻撃<rt data-ruby-level="7">こうげき</rt></ruby>のおそれ
+last_modified_at: '2018-01-11T11:29:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>01<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>11<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 11<ruby>時<rt data-ruby-level="2">じ</rt></ruby>29<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: コンピューターの頭脳として世界中のパソコンやスマートフォンなどに使われている「ＣＰＵ」と呼ばれる装置に、サイバー攻撃に悪用されるおそれがある深刻な欠陥が見つかり、ソフトウエアメーカーなどが緊急に修正プログラムを公開して、アップデートするよう呼びかけています。
+summary: コンピューターの<ruby>頭脳<rt data-ruby-level="6">ずのう</rt></ruby>として<ruby>世界中<rt data-ruby-level="3">せかいじゅう</rt></ruby>のパソコンやスマートフォンなどに<ruby>使<rt
+  data-ruby-level="3">つか</rt></ruby>われている「ＣＰＵ」と<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>ばれる<ruby>装置<rt
+  data-ruby-level="6">そうち</rt></ruby>に、サイバー<ruby>攻撃<rt data-ruby-level="7">こうげき</rt></ruby>に<ruby>悪用<rt
+  data-ruby-level="3">あくよう</rt></ruby>されるおそれがある<ruby>深刻<rt data-ruby-level="6">しんこく</rt></ruby>な<ruby>欠陥<rt
+  data-ruby-level="7">けっかん</rt></ruby>が<ruby>見<rt data-ruby-level="1">み</rt></ruby>つかり、ソフトウエアメーカーなどが<ruby>緊急<rt
+  data-ruby-level="7">きんきゅう</rt></ruby>に<ruby>修正<rt data-ruby-level="5">しゅうせい</rt></ruby>プログラムを<ruby>公開<rt
+  data-ruby-level="3">こうかい</rt></ruby>して、アップデートするよう<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけています。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/11/K10011284971_1801111306_1801111308_01_02.jpg
+more: <ruby>欠陥<rt data-ruby-level="7">けっかん</rt></ruby>が<ruby>見<rt data-ruby-level="1">み</rt></ruby>つかったのはコンピューターの<ruby>頭脳<rt
+  data-ruby-level="6">ずのう</rt></ruby>にあたる「ＣＰＵ」と<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>ばれる<ruby>装置<rt
+  data-ruby-level="6">そうち</rt></ruby>で、<ruby>発見<rt data-ruby-level="3">はっけん</rt></ruby>した<ruby>海外<rt
+  data-ruby-level="2">かいがい</rt></ruby>の<ruby>研究者<rt data-ruby-level="3">けんきゅうしゃ</rt></ruby>らが<ruby>公開<rt
+  data-ruby-level="3">こうかい</rt></ruby>した<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>によりますと、この<ruby>欠陥<rt
+  data-ruby-level="7">けっかん</rt></ruby>を<ruby>悪用<rt data-ruby-level="3">あくよう</rt></ruby>すると<ruby>本来<rt
+  data-ruby-level="2">ほんらい</rt></ruby>は<ruby>特定<rt data-ruby-level="4">とくてい</rt></ruby>のユーザーしか<ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>ることができないパスワードなどの<ruby>機密<rt data-ruby-level="6">きみつ</rt></ruby><ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>を<ruby>第三者<rt data-ruby-level="3">だいさんしゃ</rt></ruby>に<ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>られてしまうおそれがあるということです。<br /><br /><ruby>影響<rt data-ruby-level="7">えいきょう</rt></ruby>は、<ruby>世界中<rt
+  data-ruby-level="3">せかいじゅう</rt></ruby>のほぼすべてのパソコンやスマートフォン、<ruby>ゲーム<rt data-ruby-level="4">げーむ</rt></ruby><ruby>機<rt
+  data-ruby-level="4">き</rt></ruby>などに<ruby>及<rt data-ruby-level="7">およ</rt></ruby>ぶおそれがあり、マイクロソフトやアップルなどのメーカー<ruby>各社<rt
+  data-ruby-level="4">かくしゃ</rt></ruby>では<ruby>今月<rt data-ruby-level="2">こんげつ</rt></ruby>に<ruby>入<rt
+  data-ruby-level="1">はい</rt></ruby>って<ruby>緊急<rt data-ruby-level="7">きんきゅう</rt></ruby>に<ruby>修正<rt
+  data-ruby-level="5">しゅうせい</rt></ruby>プログラムを<ruby>公開<rt data-ruby-level="3">こうかい</rt></ruby>し、ユーザーにアップデートするよう<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけています。<br /><br />この<ruby>欠陥<rt data-ruby-level="7">けっかん</rt></ruby>を<ruby>悪用<rt
+  data-ruby-level="3">あくよう</rt></ruby>したサイバー<ruby>攻撃<rt data-ruby-level="7">こうげき</rt></ruby>はまだ<ruby>確認<rt
+  data-ruby-level="7">かくにん</rt></ruby>されていませんが、セキュリティ<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>「トレンドマイクロ」の<ruby>岡本<rt
+  data-ruby-level="7">おかもと</rt></ruby><ruby>勝之<rt data-ruby-level="8">かつゆき</rt></ruby>さんは「こうした<ruby>設計上<rt
+  data-ruby-level="5">せっけいじょう</rt></ruby>の<ruby>欠陥<rt data-ruby-level="7">けっかん</rt></ruby>はサイバー<ruby>攻撃<rt
+  data-ruby-level="7">こうげき</rt></ruby>で<ruby>狙<rt data-ruby-level="7">ねら</rt></ruby>われやすい。パソコンは<ruby>自動<rt
+  data-ruby-level="3">じどう</rt></ruby>でアップデートされるものが<ruby>多<rt data-ruby-level="2">おお</rt></ruby>いが、スマートフォンには<ruby>自動<rt
+  data-ruby-level="3">じどう</rt></ruby>で<ruby>修正<rt data-ruby-level="5">しゅうせい</rt></ruby>されないものもあり、<ruby>注意<rt
+  data-ruby-level="3">ちゅうい</rt></ruby>が<ruby>必要<rt data-ruby-level="4">ひつよう</rt></ruby>だ」と<ruby>話<rt
+  data-ruby-level="2">はな</rt></ruby>しています。
+movie_url: https://newswebeasy.github.io/ja201801/news/web/movie/2018/01/11/k10011284971_201801111311_201801111315.mp4
+voice_url: https://newswebeasy.github.io/ja201801/news/web/voice/2018/01/11/k10011284971_201801111311_201801111315.mp3
+source_url: https://www3.nhk.or.jp/news/html/20180111/k10011284971000.html
+easy_title_with_ruby: コンピューターやスマートフォンの「ＣＰＵ」に<ruby>問題<rt data-ruby-level="3">もんだい</rt></ruby>
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/01/12/コンピューターやスマートフォンのCPUに問題
+related_news:
+- title: ロシアなどで<ruby>大規模<rt data-ruby-level="6">だいきぼ</rt></ruby>サイバー<ruby>攻撃<rt data-ruby-level="7">こうげき</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/10/27/ロシアなどで大規模サイバー攻撃
+- title: <ruby>不審<rt data-ruby-level="7">ふしん</rt></ruby>なメール<ruby>相次<rt data-ruby-level="3">あいつ</rt></ruby>ぐ
+    <ruby>休<rt data-ruby-level="1">やす</rt></ruby>み<ruby>明<rt data-ruby-level="2">あ</rt></ruby>けは<ruby>注意<rt
+    data-ruby-level="3">ちゅうい</rt></ruby>を
+  url: https://newswebeasy.github.io/news/web/2018/01/03/不審なメール相次ぐ-休み明けは注意を
+- title: <ruby>初<rt data-ruby-level="4">はつ</rt></ruby>の<ruby>国産<rt data-ruby-level="4">こくさん</rt></ruby><ruby>量子<rt
+    data-ruby-level="4">りょうし</rt></ruby>コンピューター <ruby>計算<rt data-ruby-level="2">けいさん</rt></ruby><ruby>能力<rt
+    data-ruby-level="5">のうりょく</rt></ruby>の<ruby>体験<rt data-ruby-level="4">たいけん</rt></ruby>サイト<ruby>公開<rt
+    data-ruby-level="3">こうかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/11/27/初の国産量子コンピューター-計算能力の体験サイト公開
+- title: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>電機<rt data-ruby-level="4">でんき</rt></ruby>メーカー
+    <ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby>に<ruby>自社<rt
+    data-ruby-level="2">じしゃ</rt></ruby><ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>を
+    <ruby>事業<rt data-ruby-level="3">じぎょう</rt></ruby><ruby>強化<rt data-ruby-level="3">きょうか</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/10/21/日本の電機メーカー-自動運転に自社技術を-事業強化
+...

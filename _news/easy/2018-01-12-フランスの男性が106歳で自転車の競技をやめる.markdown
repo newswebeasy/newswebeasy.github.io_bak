@@ -1,0 +1,71 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011284861000
+last_modified_at: '2018-01-12T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: フランスのロベール・マルシャンさんは、自転車で１時間に何ｋｍ走ることができるか競争する競技を７０歳ごろから始めました。
+title: フランスの男性が１０６歳で自転車の競技をやめる
+title_with_ruby: フランスの<ruby>男性<rt>だんせい</rt></ruby>が１０６<ruby>歳<rt>さい</rt></ruby>で<ruby>自転車<rt>じてんしゃ</rt></ruby>の<ruby>競技<rt>きょうぎ</rt></ruby>をやめる
+outline: フランスのロベール・マルシャンさんは、自転車で１時間に何ｋｍ走ることができるか競争する競技を７０歳ごろから始めました。
+outline_with_ruby: フランスのロベール・マルシャンさんは、<ruby>自転車<rt>じてんしゃ</rt></ruby>で１<ruby>時間<rt>じかん</rt></ruby>に<ruby>何<rt>なん</rt></ruby>ｋｍ<ruby>走<rt>はし</rt></ruby>ることができるか<ruby>競争<rt>きょうそう</rt></ruby>する<ruby>競技<rt>きょうぎ</rt></ruby>を７０<ruby>歳<rt>さい</rt></ruby>ごろから<ruby>始<rt>はじ</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/11/K10011284861_1801110916_1801110919_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/12/k10011284861000.mp3
+content_with_ruby: "<p>フランスのロベール・マルシャンさんは、<ruby>自転車<rt>じてんしゃ</rt></ruby>で１<ruby>時間<rt>じかん</rt></ruby>に<ruby>何<rt>なん</rt></ruby>ｋｍ<ruby>走<rt>はし</rt></ruby>ることができるか<ruby>競争<rt>きょうそう</rt></ruby>する<span\
+  \ style=\"color: blue;\"><ruby>競技<rt>きょうぎ</rt></ruby></span>を７０<ruby>歳<rt>さい</rt></ruby>ごろから<ruby>始<rt>はじ</rt></ruby>めました。１００<ruby>歳<rt>さい</rt></ruby>のとき<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>２４ｋｍ<ruby>走<rt>はし</rt></ruby>って、１００<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>世界記録<rt>せかいきろく</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>りました。１０５<ruby>歳<rt>さい</rt></ruby>のとき<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>２２．５ｋｍ<ruby>走<rt>はし</rt></ruby>って、１０５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>世界記録<rt>せかいきろく</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>りました。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby>１０６<ruby>歳<rt>さい</rt></ruby>のマルシャンさんは、<span style=\"\
+  color: blue;\"><ruby>競技<rt>きょうぎ</rt></ruby></span>を<span style=\"color: blue;\"\
+  >やめる</span>ことにしました。<ruby>新聞<rt>しんぶん</rt></ruby>などは、<span style=\"color: blue;\"\
+  ><ruby>記録<rt>きろく</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>るために<ruby>自転車<rt>じてんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るのは<span\
+  \ style=\"color: blue;\">やめ</span>たほうがいいと<ruby>医者<rt>いしゃ</rt></ruby>が<ruby>言<rt>い</rt></ruby>ったことが<ruby>理由<rt>りゆう</rt></ruby>の１つだと<ruby>伝<rt>つた</rt></ruby>えています。マルシャンさんは<span\
+  \ style=\"color: blue;\"><ruby>競技<rt>きょうぎ</rt></ruby></span>は<span style=\"color:\
+  \ blue;\">やめ</span>ますが、<ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>自転車<rt>じてんしゃ</rt></ruby>を<span\
+  \ style=\"color: blue;\">こぐ</span> <span style=\"color: blue;\">トレーニング</span>は<ruby>続<rt>つづ</rt></ruby>けています。</p>\n\
+  <p>１００<ruby>歳<rt>さい</rt></ruby>を<ruby>過<rt>す</rt></ruby>ぎても<span style=\"color:\
+  \ blue;\"><ruby>競技<rt>きょうぎ</rt></ruby></span>を<ruby>続<rt>つづ</rt></ruby>けたマルシャンさんをすばらしいとほめる<ruby>声<rt>こえ</rt></ruby>が<ruby>世界中<rt>せかいじゅう</rt></ruby>から<ruby>集<rt>あつ</rt></ruby>まっています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 競技
+  descriptions:
+  - わざや<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>を、<ruby><rb>比</rb><rt>くら</rt></ruby>べ<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>特</rb><rt>とく</rt></ruby>にスポーツで、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>うこと。
+- word: 辞める
+  descriptions:
+  - <ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 世界記録
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばんすぐれた<ruby><rb>記録</rb><rt>きろく</rt></ruby>。
+- word: 記録
+  descriptions:
+  - あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。
+- word: 辞める
+  descriptions:
+  - <ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。
+- word: 漕ぐ
+  descriptions:
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>を<ruby><rb>進</rb><rt>すす</rt></ruby>めるために、かい・ろ・オールなどを<ruby><rb>動</rb><rt>うご</rt></ruby>かす。
+  - <ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>かす。
+- word: トレーニング
+  descriptions:
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>練習</rb><rt>れんしゅう</rt></ruby>や<ruby><rb>訓練</rb><rt>くんれん</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011284861000/k10011284861000.html
+web_title_with_ruby: １０６<ruby>歳<rt>さい</rt></ruby> <ruby>競技<rt>きょうぎ</rt></ruby><ruby>自転車<rt>じてんしゃ</rt></ruby><ruby>乗<rt>の</rt></ruby>りの<ruby>フランス<rt>ふらんす</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>男性<rt>だんせい</rt></ruby><ruby>引退<rt>いんたい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/11/106歳-競技自転車乗りのフランス人男性引退
+related_news:
+- title: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>電化製品<rt>でんかせいひん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>自動<rt>じどう</rt></ruby>で<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2017/10/24/日本の電化製品の会社が自動で走る車の研究を進める
+- title: コンビニが「<ruby>自転車<rt>じてんしゃ</rt></ruby>シェアリング」のサービスなどを<ruby>始<rt>はじ</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2017/12/05/コンビニが自転車シェアリングのサービスなどを始める
+- title: イギリス　<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>作<rt>つく</rt></ruby>った<ruby>鉄道<rt>てつどう</rt></ruby>の<ruby>車両<rt>しゃりょう</rt></ruby>が<ruby>走<rt>はし</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2017/10/17/イギリス-日本の会社が作った鉄道の車両が走り始める
+...
