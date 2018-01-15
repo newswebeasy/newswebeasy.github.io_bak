@@ -1,0 +1,46 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011289171000
+last_modified_at: '2018-01-15T18:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>
+  18<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: トルコのトラブゾンにある空港は海のそばにあって、滑走路の横の崖の下は海です。
+title: トルコの空港で飛行機が崖を滑って海に落ちそうになる
+title_with_ruby: トルコの<ruby>空港<rt>くうこう</rt></ruby>で<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>崖<rt>がけ</rt></ruby>を<ruby>滑<rt>すべ</rt></ruby>って<ruby>海<rt>うみ</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちそうになる
+outline: トルコのトラブゾンにある空港は海のそばにあって、滑走路の横の崖の下は海です。
+outline_with_ruby: トルコのトラブゾンにある<ruby>空港<rt>くうこう</rt></ruby>は<ruby>海<rt>うみ</rt></ruby>のそばにあって、<ruby>滑走路<rt>かっそうろ</rt></ruby>の<ruby>横<rt>よこ</rt></ruby>の<ruby>崖<rt>がけ</rt></ruby>の<ruby>下<rt>した</rt></ruby>は<ruby>海<rt>うみ</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/15/K10011289171_1801150538_1801150542_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/15/k10011289171000.mp3
+content_with_ruby: "<p>トルコのトラブゾンにある<ruby>空港<rt>くうこう</rt></ruby>は<ruby>海<rt>うみ</rt></ruby>のそばにあって、<span\
+  \ style=\"color: blue;\"><ruby>滑走路<rt>かっそうろ</rt></ruby></span>の<ruby>横<rt>よこ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>崖<rt>がけ</rt></ruby></span>の<ruby>下<rt>した</rt></ruby>は<ruby>海<rt>うみ</rt></ruby>です。</p>\n\
+  <p>１３<ruby>日<rt>にち</rt></ruby><ruby>夜<rt>よる</rt></ruby>、この<ruby>空港<rt>くうこう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いた１６８<ruby>人<rt>にん</rt></ruby>が<ruby>乗<rt>の</rt></ruby>っている<ruby>飛行機<rt>ひこうき</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>滑走路<rt>かっそうろ</rt></ruby></span>の<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>て、<ruby>海<rt>うみ</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<span\
+  \ style=\"color: blue;\"><ruby>崖<rt>がけ</rt></ruby></span>を<ruby>滑<rt>すべ</rt></ruby>っていきました。<ruby>飛行機<rt>ひこうき</rt></ruby>は<ruby>海<rt>うみ</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちそうになりましたが、<span\
+  \ style=\"color: blue;\"><ruby>崖<rt>がけ</rt></ruby></span>の<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>止<rt>と</rt></ruby>まりました。</p>\n\
+  <p><ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は「けがをした<ruby>人<rt>ひと</rt></ruby>はいません」と<ruby>言<rt>い</rt></ruby>っています。トルコの<span\
+  \ style=\"color: blue;\"><ruby>役所<rt>やくしょ</rt></ruby></span>などが<ruby>事故<rt>じこ</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 崖
+  descriptions:
+  - <ruby><rb>山</rb><rt>やま</rt></ruby>や<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>などの、けずり<ruby><rb>取</rb><rt>と</rt></ruby>られて<ruby><rb>険</rb><rt>けわ</rt></ruby>しい<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 滑走路
+  descriptions:
+  - <ruby><rb>飛行場</rb><rt>ひこうじょう</rt></ruby>で、<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>が<ruby><rb>離着陸</rb><rt>りちゃくりく</rt></ruby>するときに<ruby><rb>走</rb><rt>はし</rt></ruby>る<ruby><rb>道</rb><rt>みち</rt></ruby>。
+- word: 役所
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011289171000/k10011289171000.html
+web_title_with_ruby: <ruby>トルコ<rt>とるこ</rt></ruby> <ruby>旅客機<rt>りょかっき</rt></ruby>が<ruby>滑走路<rt>かっそうろ</rt></ruby>から<ruby>崖<rt>がけ</rt></ruby>に<ruby>転落<rt>てんらく</rt></ruby>
+  <ruby>乗客<rt>じょうきゃく</rt></ruby>ら<ruby>無事<rt>ぶじ</rt></ruby><ruby>救出<rt>きゅうしゅつ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/15/トルコ-旅客機が滑走路から崖に転落-乗客ら無事救出
+related_news:
+- title: <ruby>世界<rt>せかい</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby>で<ruby>酸性<rt>さんせい</rt></ruby>になっている
+  url: https://newswebeasy.github.io/news/easy/2017/12/05/世界の海の水が二酸化炭素で酸性になっている
+- title: ペルー　バスが<ruby>崖<rt>がけ</rt></ruby>の<ruby>下<rt>した</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちて４８<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/01/04/ペルー-バスが崖の下に落ちて48人が亡くなる
+- title: <ruby>台風<rt>たいふう</rt></ruby>２１<ruby>号<rt>ごう</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>く</rt></ruby>る　<ruby>強<rt>つよ</rt></ruby>い<ruby>雨<rt>あめ</rt></ruby>や<ruby>風<rt>かぜ</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけて
+  url: https://newswebeasy.github.io/news/easy/2017/10/20/台風21号が日本に来る-強い雨や風に気をつけて
+...

@@ -1,0 +1,79 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011285841000
+last_modified_at: '2018-01-15T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: アメリカのマサチューセッツ州にあるボストン美術館は、生まれてから３か月の子どもの犬のライリーを職員にしました。
+title: アメリカのボストン美術館が犬を職員にする
+title_with_ruby: アメリカのボストン<ruby>美術館<rt>びじゅつかん</rt></ruby>が<ruby>犬<rt>いぬ</rt></ruby>を<ruby>職員<rt>しょくいん</rt></ruby>にする
+outline: アメリカのマサチューセッツ州にあるボストン美術館は、生まれてから３か月の子どもの犬のライリーを職員にしました。
+outline_with_ruby: アメリカのマサチューセッツ<ruby>州<rt>しゅう</rt></ruby>にあるボストン<ruby>美術館<rt>びじゅつかん</rt></ruby>は、<ruby>生<rt>う</rt></ruby>まれてから３か<ruby>月<rt>げつ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもの<ruby>犬<rt>いぬ</rt></ruby>のライリーを<ruby>職員<rt>しょくいん</rt></ruby>にしました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/11/K10011285841_1801112314_1801112317_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/15/k10011285841000.mp3
+content_with_ruby: "<p>アメリカのマサチューセッツ<ruby>州<rt>しゅう</rt></ruby>にあるボストン<ruby>美術館<rt>びじゅつかん</rt></ruby>は、<ruby>生<rt>う</rt></ruby>まれてから３か<ruby>月<rt>げつ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもの<ruby>犬<rt>いぬ</rt></ruby>のライリーを<span\
+  \ style=\"color: blue;\"><ruby>職員<rt>しょくいん</rt></ruby></span>にしました。ライリーは<span style=\"\
+  color: blue;\"><ruby>灰色<rt>はいいろ</rt></ruby></span>で<ruby>耳<rt>みみ</rt></ruby>が<ruby>長<rt>なが</rt></ruby>い、<span\
+  \ style=\"color: blue;\"><ruby>狩<rt>か</rt></ruby>り</span>に<ruby>使<rt>つか</rt></ruby>う<ruby>犬<rt>いぬ</rt></ruby>です。<ruby>鼻<rt>はな</rt></ruby>がいいので、<ruby>絵<rt>え</rt></ruby>に<span\
+  \ style=\"color: blue;\">つい</span>た<ruby>虫<rt>むし</rt></ruby>などを<ruby>匂<rt>にお</rt></ruby>いで<ruby>見<rt>み</rt></ruby>つける<ruby>仕事<rt>しごと</rt></ruby>をします。</p>\n\
+  <p><ruby>美術館<rt>びじゅつかん</rt></ruby>は<ruby>１０日<rt>とおか</rt></ruby>、ライリーをみんなに<ruby>紹介<rt>しょうかい</rt></ruby>して、<ruby>写真<rt>しゃしん</rt></ruby>が<span\
+  \ style=\"color: blue;\">つい</span>た<span style=\"color: blue;\"><ruby>職員<rt>しょくいん</rt></ruby></span><span\
+  \ style=\"color: blue;\">カード</span>をライリーに<span style=\"color: blue;\">つけ</span>ました。ライリーは<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ると、「<ruby>仕事<rt>しごと</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>」と<ruby>書<rt>か</rt></ruby>いてある<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>て、<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>場所<rt>ばしょ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>確<rt>たし</rt></ruby>かめ</span>ていました。</p>\n<p>ライリーは<ruby>美術館<rt>びじゅつかん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>職員<rt>しょくいん</rt></ruby></span>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>生活<rt>せいかつ</rt></ruby>して、<ruby>休<rt>やす</rt></ruby>みの<ruby>日<rt>ひ</rt></ruby>などお<ruby>客<rt>きゃく</rt></ruby>さんがいない<ruby>時間<rt>じかん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>をします。</p>\n\
+  <p><ruby>新聞<rt>しんぶん</rt></ruby>は「ライリーはどれが<span style=\"color: blue;\">ゴッホ</span>の<ruby>絵<rt>え</rt></ruby>かわからないけれど、<ruby>美術館<rt>びじゅつかん</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>うことができると<ruby>思<rt>おも</rt></ruby>います」と<ruby>書<rt>か</rt></ruby>いています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 職員
+  descriptions:
+  - <ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 灰色
+  descriptions:
+  - <ruby><rb>灰</rb><rt>はい</rt></ruby>のような<ruby><rb>色</rb><rt>いろ</rt></ruby>。ねずみ<ruby><rb>色</rb><rt>いろ</rt></ruby>。グレー。
+  - <ruby><rb>希望</rb><rt>きぼう</rt></ruby>がないこと。
+  - <ruby><rb>疑</rb><rt>うたが</rt></ruby>わしいこと。
+- word: 狩猟
+  descriptions:
+  - <ruby><rb>野生</rb><rt>やせい</rt></ruby>の<ruby><rb>鳥</rb><rt>とり</rt></ruby>・けものをとること。<ruby><rb>狩</rb><rt>か</rt></ruby>り。
+- word: 付く
+  descriptions:
+  - ものがくっつく。
+  - つきそう。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>わる。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まる。
+  - <ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。
+  - <ruby><rb>感</rb><rt>かん</rt></ruby>じる。
+  - ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。
+- word: カード
+  descriptions:
+  - <ruby><rb>紙</rb><rt>かみ</rt></ruby>を、<ruby><rb>四角</rb><rt>しかく</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さく<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。<ruby><rb>記入</rb><rt>きにゅう</rt></ruby>したり、<ruby><rb>整理</rb><rt>せいり</rt></ruby>するときなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+  - 「クレジットカード」「キャッシュカード」などの<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - トランプ（の<ruby><rb>札</rb><rt>ふだ</rt></ruby>）。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>などの、<ruby><rb>試合</rb><rt>しあい</rt></ruby>の<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+- word: 確かめる
+  descriptions:
+  - まちがいがないようにする。あやふやな<ruby><rb>点</rb><rt>てん</rt></ruby>を、はっきりさせる。
+- word: ゴッホ
+  descriptions:
+  - （１８５３～１８９０）オランダの<ruby><rb>画家</rb><rt>がか</rt></ruby>。<ruby><rb>力強</rb><rt>ちからづよ</rt></ruby>い<ruby><rb>線</rb><rt>せん</rt></ruby>、あざやかないろどりの<ruby><rb>絵</rb><rt>え</rt></ruby>をかいた。「ひまわり」「<ruby><rb>糸</rb><rt>いと</rt></ruby>すぎ」「アルルのはね<ruby><rb>橋</rb><rt>ばし</rt></ruby>」などの<ruby><rb>作品</rb><rt>さくひん</rt></ruby>がある。
+source_url: http://www3.nhk.or.jp/news/easy/k10011285841000/k10011285841000.html
+web_title_with_ruby: <ruby>子犬<rt>こいぬ</rt></ruby>を<ruby>スタッフ<rt>すたっふ</rt></ruby>に<ruby>任命<rt>にんめい</rt></ruby>
+  <ruby>米<rt>べい</rt></ruby><ruby>ボストン<rt>ぼすとん</rt></ruby><ruby>美術館<rt>びじゅつかん</rt></ruby>で<ruby>嗅覚<rt>きゅうかく</rt></ruby><ruby>生<rt>い</rt></ruby>かした<ruby>仕事<rt>しごと</rt></ruby>を
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/11/子犬をスタッフに任命-米ボストン美術館で嗅覚生かした仕事を
+related_news:
+- title: ルーブル<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>別館<rt>べっかん</rt></ruby>がＵＡＥにできる
+  url: https://newswebeasy.github.io/news/easy/2017/11/09/ルーブル美術館の別館がUAEにできる
+...
