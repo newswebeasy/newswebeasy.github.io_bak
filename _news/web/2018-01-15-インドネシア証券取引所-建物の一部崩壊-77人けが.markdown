@@ -63,6 +63,8 @@ more: インドネシアの<ruby>警察<rt data-ruby-level="6">けいさつ</rt>
   data-ruby-level="2">にちごご</rt></ruby>６<ruby>時<rt data-ruby-level="2">じ</rt></ruby><ruby>現在<rt
   data-ruby-level="5">げんざい</rt></ruby>で<ruby>日本人<rt data-ruby-level="1">にほんじん</rt></ruby>が<ruby>被害<rt
   data-ruby-level="7">ひがい</rt></ruby>にあったという<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>はないということです。
+movie_url: https://newswebeasy.github.io/ja201801/news/web/movie/2018/01/15/k10011289601_201801152103_201801152103.mp4
+voice_url: https://newswebeasy.github.io/ja201801/news/web/voice/2018/01/15/k10011289601_201801152103_201801152103.mp3
 body:
 - title: <ruby>監視<rt data-ruby-level="7">かんし</rt></ruby>カメラの<ruby>映像<rt data-ruby-level="6">えいぞう</rt></ruby>には
   text: インドネシアの<ruby>金融<rt data-ruby-level="7">きんゆう</rt></ruby><ruby>当局<rt data-ruby-level="3">とうきょく</rt></ruby>が<ruby>公開<rt
