@@ -1,0 +1,47 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011289051000
+last_modified_at: '2018-01-16T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ボストンコンサルティングという会社は、将来、車の使い方がどう変わるか調べました。
+title: 「２０３５年には新しい車の２３％が自動運転の車になる」
+title_with_ruby: 「２０３５<ruby>年<rt>ねん</rt></ruby>には<ruby>新<rt>あたら</rt></ruby>しい<ruby>車<rt>くるま</rt></ruby>の２３％が<ruby>自動<rt>じどう</rt></ruby><ruby>運転<rt>うんてん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>になる」
+outline: ボストンコンサルティングという会社は、将来、車の使い方がどう変わるか調べました。
+outline_with_ruby: ボストンコンサルティングという<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>将来<rt>しょうらい</rt></ruby>、<ruby>車<rt>くるま</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>がどう<ruby>変<rt>か</rt></ruby>わるか<ruby>調<rt>しら</rt></ruby>べました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/15/K10011289051_1801150520_1801150522_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/16/k10011289051000.mp3
+content_with_ruby: "<p>ボストンコンサルティングという<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>将来<rt>しょうらい</rt></ruby>、<ruby>車<rt>くるま</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>がどう<ruby>変<rt>か</rt></ruby>わるか<ruby>調<rt>しら</rt></ruby>べました。</p>\n\
+  <p>この<ruby>会社<rt>かいしゃ</rt></ruby>によると、２０２８<ruby>年<rt>ねん</rt></ruby>ごろまでに、<ruby>人<rt>ひと</rt></ruby>が<ruby>運転<rt>うんてん</rt></ruby>しなくてもいい「<span\
+  \ style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span><ruby>運転<rt>うんてん</rt></ruby>」の<ruby>車<rt>くるま</rt></ruby>が<ruby>人<rt>ひと</rt></ruby>が<ruby>運転<rt>うんてん</rt></ruby>する<ruby>車<rt>くるま</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<ruby>道<rt>みち</rt></ruby>を<ruby>走<rt>はし</rt></ruby>るようになります。２０３５<ruby>年<rt>ねん</rt></ruby>には、<ruby>世界<rt>せかい</rt></ruby>で<ruby>売<rt>う</rt></ruby>る<ruby>新<rt>あたら</rt></ruby>しい<ruby>車<rt>くるま</rt></ruby>の２３％が<span\
+  \ style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span><ruby>運転<rt>うんてん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>になって、<span\
+  \ style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span><ruby>運転<rt>うんてん</rt></ruby>のタクシーも<ruby>走<rt>はし</rt></ruby>るようになります。</p>\n\
+  <p><ruby>自分<rt>じぶん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>を<ruby>持<rt>も</rt></ruby>たないで１つの<ruby>車<rt>くるま</rt></ruby>をほかの<ruby>人<rt>ひと</rt></ruby>と<ruby>使<rt>つか</rt></ruby>う「カーシェア」などの<span\
+  \ style=\"color: blue;\">サービス</span>を<ruby>利用<rt>りよう</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くなりそうです。<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>も<ruby>増<rt>ふ</rt></ruby>えて、ガソリンで<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>などは<ruby>少<rt>すく</rt></ruby>なくなりそうです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 自動
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011289051000/k10011289051000.html
+web_title_with_ruby: <ruby>完<rt>かん</rt></ruby><ruby>全自動<rt>ぜんじどう</rt></ruby><ruby>運転<rt>うんてん</rt></ruby><ruby>車<rt>しゃ</rt></ruby>
+  17<ruby>年後<rt>ねんご</rt></ruby>は４<ruby>台<rt>だい</rt></ruby>に１<ruby>台<rt>だい</rt></ruby>に
+  <ruby>民間<rt>みんかん</rt></ruby><ruby>コンサル<rt>こんさる</rt></ruby>が<ruby>試算<rt>しさん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/15/完全自動運転車-17年後は4台に1台に-民間コンサルが試算
+related_news:
+- title: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>電化製品<rt>でんかせいひん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>自動<rt>じどう</rt></ruby>で<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2017/10/24/日本の電化製品の会社が自動で走る車の研究を進める
+- title: <ruby>新<rt>あたら</rt></ruby>しい<ruby>電化製品<rt>でんかせいひん</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベントがアメリカで<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/01/10/新しい電化製品を紹介するイベントがアメリカで始まる
+- title: <ruby>東京<rt>とうきょう</rt></ruby>モーターショー　<ruby>多<rt>おお</rt></ruby>くの<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>電気<rt>でんき</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/10/26/東京モーターショー-多くの会社が電気自動車を紹介
+- title: ドライブレコーダーが<ruby>売<rt>う</rt></ruby>れる「<ruby>車<rt>くるま</rt></ruby>のトラブルをなくしたい」
+  url: https://newswebeasy.github.io/news/easy/2017/12/26/ドライブレコーダーが売れる車のトラブルをなくしたい
+- title: たくさん<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>長<rt>なが</rt></ruby>いトラックを<ruby>運転<rt>うんてん</rt></ruby>する<ruby>実験<rt>じっけん</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2017/10/18/たくさん荷物を運ぶ長いトラックを運転する実験が始まる
+...
