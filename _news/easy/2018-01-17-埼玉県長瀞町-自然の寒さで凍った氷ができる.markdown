@@ -1,0 +1,52 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011291441000
+last_modified_at: '2018-01-17T17:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>17<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 埼玉県長瀞町の会社は１００年以上前から、山の水を池に入れて氷を作っています。
+title: 埼玉県長瀞町　自然の寒さで凍った氷ができる
+title_with_ruby: <ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>長瀞町<rt>ながとろまち</rt></ruby>　<ruby>自然<rt>しぜん</rt></ruby>の<ruby>寒<rt>さむ</rt></ruby>さで<ruby>凍<rt>こお</rt></ruby>った<ruby>氷<rt>こおり</rt></ruby>ができる
+outline: 埼玉県長瀞町の会社は１００年以上前から、山の水を池に入れて氷を作っています。
+outline_with_ruby: <ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>長瀞町<rt>ながとろまち</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は１００<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>から、<ruby>山<rt>やま</rt></ruby>の<ruby>水<rt>みず</rt></ruby>を<ruby>池<rt>いけ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れて<ruby>氷<rt>こおり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/17/K10011291441_1801162357_1801170640_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/17/k10011291441000.mp3
+content_with_ruby: "<p><ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>長瀞町<rt>ながとろまち</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は１００<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>から、<ruby>山<rt>やま</rt></ruby>の<ruby>水<rt>みず</rt></ruby>を<ruby>池<rt>いけ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れて<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>っています。<span\
+  \ style=\"color: blue;\"><ruby>自然<rt>しぜん</rt></ruby></span>の<ruby>寒<rt>さむ</rt></ruby>さで<span\
+  \ style=\"color: blue;\"><ruby>凍<rt>こお</rt></ruby>っ</span>た<span style=\"color:\
+  \ blue;\"><ruby>氷<rt>こおり</rt></ruby></span>です。</p>\n<p>１６<ruby>日<rt>にち</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちは<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>を<ruby>縦<rt>たて</rt></ruby>７０ｃｍ、<ruby>横<rt>よこ</rt></ruby>５０ｃｍの<ruby>大<rt>おお</rt></ruby>きさに<ruby>切<rt>き</rt></ruby>って、<span\
+  \ style=\"color: blue;\">トラック</span>に<ruby>運<rt>はこ</rt></ruby>んでいました。<ruby>会社<rt>かいしゃ</rt></ruby>によると、<ruby>去年<rt>きょねん</rt></ruby>の１２<ruby>月<rt>がつ</rt></ruby>からとても<ruby>寒<rt>さむ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いているため、いつもの<ruby>年<rt>とし</rt></ruby>より<ruby>早<rt>はや</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>ができました。</p>\n<p>この<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>ったかき<ruby>氷<rt>ごおり</rt></ruby>は、<ruby>長瀞町<rt>ながとろまち</rt></ruby>などのお<ruby>店<rt>みせ</rt></ruby>で<ruby>食<rt>た</rt></ruby>べることができます。<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>自然<rt>しぜん</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>でゆっくり<span\
+  \ style=\"color: blue;\"><ruby>凍<rt>こお</rt></ruby>っ</span>た<span style=\"color:\
+  \ blue;\"><ruby>氷<rt>こおり</rt></ruby></span>の<ruby>味<rt>あじ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しんでください」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 自然
+  descriptions:
+  - <ruby><rb>山</rb><rt>やま</rt></ruby>・<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>草</rb><rt>くさ</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>・<ruby><rb>雲</rb><rt>くも</rt></ruby>・<ruby><rb>雨</rb><rt>あめ</rt></ruby>・<ruby><rb>雪</rb><rt>ゆき</rt></ruby>など、<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>作</rb><rt>つく</rt></ruby>ったものでない<ruby><rb>物</rb><rt>もの</rt></ruby>。
+  - もともとの<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>備</rb><rt>そな</rt></ruby>えていること。
+  - わざとらしくないようす。
+  - ひとりでに。いつのまにか。
+- word: 凍る
+  descriptions:
+  - <ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。
+- word: 氷
+  descriptions:
+  - <ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>０度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。
+- word: トラック
+  descriptions:
+  - <ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011291441000/k10011291441000.html
+web_title_with_ruby: <ruby>埼玉<rt>さいたま</rt></ruby> <ruby>長瀞町<rt>ながとろまち</rt></ruby>で<ruby>天然<rt>てんねん</rt></ruby><ruby>氷<rt>こおり</rt></ruby>の<ruby>切<rt>き</rt></ruby>り<ruby>出<rt>だ</rt></ruby>し
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/17/埼玉-長瀞町で天然氷の切り出し
+related_news:
+- title: <ruby>福島第一原発<rt>ふくしまだいいちげんぱつ</rt></ruby>　<ruby>建物<rt>たてもの</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りの<ruby>土<rt>つち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>氷<rt>こおり</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>ができる
+  url: https://newswebeasy.github.io/news/easy/2017/11/02/福島第一原発-建物の周りの土の中に氷の壁ができる
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>　－５℃の<ruby>寒<rt>さむ</rt></ruby>さの<ruby>中<rt>なか</rt></ruby>で３４のカップルが<ruby>結婚<rt>けっこん</rt></ruby><ruby>式<rt>しき</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/01/11/中国-5Cの寒さの中で34のカップルが結婚式を行う
+...

@@ -1,0 +1,91 @@
+---
+layout: web_news
+categories: web
+newsid: k10011289611000
+title: インフル流行拡大 全国で推計124万人 受験生や高齢者注意
+title_with_ruby: インフル<ruby>流行<rt data-ruby-level="3">りゅうこう</rt></ruby><ruby>拡大<rt
+  data-ruby-level="6">かくだい</rt></ruby> <ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby>で<ruby>推計<rt
+  data-ruby-level="6">すいけい</rt></ruby>124<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>
+  <ruby>受験生<rt data-ruby-level="4">じゅけんせい</rt></ruby>や<ruby>高齢者<rt data-ruby-level="7">こうれいしゃ</rt></ruby><ruby>注意<rt
+  data-ruby-level="3">ちゅうい</rt></ruby>
+last_modified_at: '2018-01-15T15:50:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>01<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>15<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 15<ruby>時<rt data-ruby-level="2">じ</rt></ruby>50<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 全国のインフルエンザの患者数は今月７日までの１週間におよそ１２４万人と推計されるなど流行が拡大していて、専門家は受験を控えた生徒や高齢者などに手洗いやマスクの着用の徹底などを呼びかけています。
+summary: <ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby>のインフルエンザの<ruby>患者数<rt data-ruby-level="7">かんじゃすう</rt></ruby>は<ruby>今月<rt
+  data-ruby-level="2">こんげつ</rt></ruby>７<ruby>日<rt data-ruby-level="1">にち</rt></ruby>までの１<ruby>週間<rt
+  data-ruby-level="2">しゅうかん</rt></ruby>におよそ１２４<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>と<ruby>推計<rt
+  data-ruby-level="6">すいけい</rt></ruby>されるなど<ruby>流行<rt data-ruby-level="3">りゅうこう</rt></ruby>が<ruby>拡大<rt
+  data-ruby-level="6">かくだい</rt></ruby>していて、<ruby>専門家<rt data-ruby-level="6">せんもんか</rt></ruby>は<ruby>受験<rt
+  data-ruby-level="4">じゅけん</rt></ruby>を<ruby>控<rt data-ruby-level="7">ひか</rt></ruby>えた<ruby>生徒<rt
+  data-ruby-level="4">せいと</rt></ruby>や<ruby>高齢者<rt data-ruby-level="7">こうれいしゃ</rt></ruby>などに<ruby>手洗<rt
+  data-ruby-level="6">てあら</rt></ruby>いやマスクの<ruby>着用<rt data-ruby-level="3">ちゃくよう</rt></ruby>の<ruby>徹底<rt
+  data-ruby-level="7">てってい</rt></ruby>などを<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけています。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/15/K10011289611_1801151559_1801151559_01_02.jpg
+more: <ruby>国立<rt data-ruby-level="2">こくりつ</rt></ruby><ruby>感染症<rt data-ruby-level="7">かんせんしょう</rt></ruby><ruby>研究所<rt
+  data-ruby-level="3">けんきゅうじょ</rt></ruby>によりますと、<ruby>今月<rt data-ruby-level="2">こんげつ</rt></ruby>７<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>までの１<ruby>週間<rt data-ruby-level="2">しゅうかん</rt></ruby>に<ruby>全国<rt
+  data-ruby-level="3">ぜんこく</rt></ruby>およそ５０００の<ruby>医療<rt data-ruby-level="7">いりょう</rt></ruby><ruby>機関<rt
+  data-ruby-level="4">きかん</rt></ruby>から<ruby>報告<rt data-ruby-level="5">ほうこく</rt></ruby>されたインフルエンザの<ruby>患者数<rt
+  data-ruby-level="7">かんじゃすう</rt></ruby>は、１<ruby>医療<rt data-ruby-level="7">いりょう</rt></ruby><ruby>機関<rt
+  data-ruby-level="4">きかん</rt></ruby><ruby>当<rt data-ruby-level="2">あ</rt></ruby>たり１６．３１<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>となり、この<ruby>数値<rt data-ruby-level="6">すうち</rt></ruby>を<ruby>元<rt
+  data-ruby-level="2">もと</rt></ruby>に<ruby>推計<rt data-ruby-level="6">すいけい</rt></ruby>した<ruby>全国<rt
+  data-ruby-level="3">ぜんこく</rt></ruby>の<ruby>患者数<rt data-ruby-level="7">かんじゃすう</rt></ruby>はおよそ１２４<ruby>万人<rt
+  data-ruby-level="2">まんにん</rt></ruby>と、<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>の<ruby>週<rt
+  data-ruby-level="2">しゅう</rt></ruby>から２３<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby><ruby>程度<rt
+  data-ruby-level="5">ていど</rt></ruby><ruby>増加<rt data-ruby-level="5">ぞうか</rt></ruby>し<ruby>流行<rt
+  data-ruby-level="3">りゅうこう</rt></ruby>が<ruby>拡大<rt data-ruby-level="6">かくだい</rt></ruby>しています。<br
+  /><br /><ruby>都道府県<rt data-ruby-level="4">とどうふけん</rt></ruby><ruby>別<rt data-ruby-level="4">べつ</rt></ruby>に<ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>ますと<ruby>宮崎県<rt data-ruby-level="7">みやざきけん</rt></ruby>が３４．１７<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>と<ruby>最<rt data-ruby-level="4">もっと</rt></ruby>も<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>く、<ruby>次<rt data-ruby-level="3">つ</rt></ruby>いで<ruby>沖縄県<rt
+  data-ruby-level="7">おきなわけん</rt></ruby>が３１．７６<ruby>人<rt data-ruby-level="1">にん</rt></ruby>、<ruby>大分県<rt
+  data-ruby-level="8">おおいたけん</rt></ruby>が２８．９３<ruby>人<rt data-ruby-level="1">にん</rt></ruby>と、<ruby>九州<rt
+  data-ruby-level="3">きゅうしゅう</rt></ruby>・<ruby>沖縄地方<rt data-ruby-level="7">おきなわちほう</rt></ruby>の<ruby>各県<rt
+  data-ruby-level="4">かくけん</rt></ruby>で<ruby>多<rt data-ruby-level="2">おお</rt></ruby>くなっているほか、<ruby>滋賀県<rt
+  data-ruby-level="8">しがけん</rt></ruby>で２５．３８<ruby>人<rt data-ruby-level="1">にん</rt></ruby>、<ruby>岐阜県<rt
+  data-ruby-level="7">ぎふけん</rt></ruby>で２５．２８<ruby>人<rt data-ruby-level="1">にん</rt></ruby>などとなっています。<br
+  /><br />また<ruby>先月<rt data-ruby-level="1">せんげつ</rt></ruby>３１<ruby>日<rt data-ruby-level="1">にち</rt></ruby>までの４<ruby>週間<rt
+  data-ruby-level="2">しゅうかん</rt></ruby>に<ruby>検出<rt data-ruby-level="5">けんしゅつ</rt></ruby>されたウイルスを<ruby>分析<rt
+  data-ruby-level="7">ぶんせき</rt></ruby>した<ruby>結果<rt data-ruby-level="4">けっか</rt></ruby>、９<ruby>年前<rt
+  data-ruby-level="2">ねんまえ</rt></ruby>に「<ruby>新型<rt data-ruby-level="4">しんがた</rt></ruby>インフルエンザ」として<ruby>流行<rt
+  data-ruby-level="3">りゅうこう</rt></ruby>したＨ１Ｎ１<ruby>型<rt data-ruby-level="4">がた</rt></ruby>ウイルスがおよそ６<ruby>割<rt
+  data-ruby-level="6">わり</rt></ruby>と<ruby>最<rt data-ruby-level="4">もっと</rt></ruby>も<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>いほか、<ruby>Ｂ型<rt data-ruby-level="4">びーがた</rt></ruby>のウイルスも３<ruby>割<rt
+  data-ruby-level="6">わり</rt></ruby>ほど<ruby>検出<rt data-ruby-level="5">けんしゅつ</rt></ruby>されているということです。<br
+  /><br /><ruby>国立<rt data-ruby-level="2">こくりつ</rt></ruby><ruby>感染症<rt data-ruby-level="7">かんせんしょう</rt></ruby><ruby>研究所<rt
+  data-ruby-level="3">けんきゅうじょ</rt></ruby>の<ruby>砂川<rt data-ruby-level="6">すながわ</rt></ruby><ruby>富正<rt
+  data-ruby-level="5">とみまさ</rt></ruby><ruby>室長<rt data-ruby-level="2">しつちょう</rt></ruby>は「<ruby>複数<rt
+  data-ruby-level="5">ふくすう</rt></ruby>のウイルスが<ruby>流行<rt data-ruby-level="3">りゅうこう</rt></ruby>する<ruby>状態<rt
+  data-ruby-level="5">じょうたい</rt></ruby>で、１<ruby>度<rt data-ruby-level="3">ど</rt></ruby><ruby>感染<rt
+  data-ruby-level="7">かんせん</rt></ruby>しても<ruby>再度<rt data-ruby-level="5">さいど</rt></ruby>、<ruby>感染<rt
+  data-ruby-level="7">かんせん</rt></ruby>するおそれがある。<ruby>特<rt data-ruby-level="4">とく</rt></ruby>に<ruby>受験<rt
+  data-ruby-level="4">じゅけん</rt></ruby>を<ruby>控<rt data-ruby-level="7">ひか</rt></ruby>えた<ruby>生徒<rt
+  data-ruby-level="4">せいと</rt></ruby>や<ruby>高齢者<rt data-ruby-level="7">こうれいしゃ</rt></ruby>は<ruby>手洗<rt
+  data-ruby-level="6">てあら</rt></ruby>いやマスクの<ruby>着用<rt data-ruby-level="3">ちゃくよう</rt></ruby>などの<ruby>対策<rt
+  data-ruby-level="6">たいさく</rt></ruby>を<ruby>徹底<rt data-ruby-level="7">てってい</rt></ruby>するとともに、<ruby>家族<rt
+  data-ruby-level="3">かぞく</rt></ruby>に<ruby>感染<rt data-ruby-level="7">かんせん</rt></ruby>の<ruby>疑<rt
+  data-ruby-level="6">うたが</rt></ruby>いがあるときはタオルの<ruby>共有<rt data-ruby-level="4">きょうゆう</rt></ruby>をしないことや<ruby>別室<rt
+  data-ruby-level="4">べっしつ</rt></ruby>で<ruby>休<rt data-ruby-level="1">やす</rt></ruby>むなど、<ruby>接触<rt
+  data-ruby-level="7">せっしょく</rt></ruby>を<ruby>避<rt data-ruby-level="7">さ</rt></ruby>けて<ruby>感染<rt
+  data-ruby-level="7">かんせん</rt></ruby>を<ruby>予防<rt data-ruby-level="5">よぼう</rt></ruby>してほしい」と<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけています。
+movie_url: https://newswebeasy.github.io/ja201801/news/web/movie/2018/01/15/k10011289611_201801151814_201801151822.mp4
+voice_url: https://newswebeasy.github.io/ja201801/news/web/voice/2018/01/15/k10011289611_201801151814_201801151822.mp3
+source_url: https://www3.nhk.or.jp/news/html/20180115/k10011289611000.html
+easy_title_with_ruby: インフルエンザになる<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>が<ruby>増<rt
+  data-ruby-level="5">ふ</rt></ruby>えているので<ruby>気<rt data-ruby-level="1">き</rt></ruby>をつけて
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/01/17/インフルエンザになる人が増えているので気をつけて
+related_news:
+- title: インフルエンザ<ruby>患者<rt data-ruby-level="7">かんじゃ</rt></ruby><ruby>増<rt data-ruby-level="5">ぞう</rt></ruby>
+    ワクチン<ruby>不足<rt data-ruby-level="4">ぶそく</rt></ruby>に<ruby>備<rt data-ruby-level="5">そな</rt></ruby>えも
+  url: https://newswebeasy.github.io/news/web/2017/10/25/インフルエンザ患者増-ワクチン不足に備えも
+- title: インフルエンザ<ruby>患者<rt data-ruby-level="7">かんじゃ</rt></ruby>の<ruby>異常<rt data-ruby-level="6">いじょう</rt></ruby><ruby>行動<rt
+    data-ruby-level="3">こうどう</rt></ruby>400<ruby>件<rt data-ruby-level="5">けん</rt></ruby>
+    <ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby><ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけ
+  url: https://newswebeasy.github.io/news/web/2017/11/27/インフルエンザ患者の異常行動400件-注意呼びかけ
+- title: ロシアなどで<ruby>大規模<rt data-ruby-level="6">だいきぼ</rt></ruby>サイバー<ruby>攻撃<rt data-ruby-level="7">こうげき</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/10/27/ロシアなどで大規模サイバー攻撃
+...
