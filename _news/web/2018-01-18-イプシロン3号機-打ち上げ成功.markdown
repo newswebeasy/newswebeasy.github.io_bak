@@ -1,0 +1,120 @@
+---
+layout: web_news
+categories: web
+newsid: k10011292981000
+title: イプシロン３号機 打ち上げ成功
+title_with_ruby: イプシロン３<ruby>号機<rt data-ruby-level="4">ごうき</rt></ruby> <ruby>打<rt
+  data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げ<ruby>成功<rt
+  data-ruby-level="4">せいこう</rt></ruby>
+last_modified_at: '2018-01-18T09:56:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>01<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>18<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 09<ruby>時<rt data-ruby-level="2">じ</rt></ruby>56<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 人工衛星を低コストで打ち上げようと開発された日本の新しい小型ロケット「イプシロン」の３号機が、大手電機メーカーの衛星を載せ、１８日午前６時すぎ鹿児島県の内之浦宇宙空間観測所から打ち上げられました。ロケットは順調に飛行を続け、午前７時前に予定していた高度５００キロ付近で衛星を軌道に投入し、打ち上げは成功しました。
+summary: <ruby>人工<rt data-ruby-level="2">じんこう</rt></ruby><ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>を<ruby>低<rt
+  data-ruby-level="4">てい</rt></ruby><ruby>コスト<rt data-ruby-level="4">こすと</rt></ruby>で<ruby>打<rt
+  data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げようと<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>された<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>新<rt
+  data-ruby-level="2">あたら</rt></ruby>しい<ruby>小型<rt data-ruby-level="4">こがた</rt></ruby>ロケット「イプシロン」の３<ruby>号機<rt
+  data-ruby-level="4">ごうき</rt></ruby>が、<ruby>大手<rt data-ruby-level="1">おおて</rt></ruby><ruby>電機<rt
+  data-ruby-level="4">でんき</rt></ruby>メーカーの<ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>を<ruby>載<rt
+  data-ruby-level="7">の</rt></ruby>せ、１８<ruby>日午前<rt data-ruby-level="2">にちごぜん</rt></ruby>６<ruby>時<rt
+  data-ruby-level="2">じ</rt></ruby>すぎ<ruby>鹿児島県<rt data-ruby-level="8">かごしまけん</rt></ruby>の<ruby>内之浦<rt
+  data-ruby-level="8">うちのうら</rt></ruby><ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby><ruby>空間<rt
+  data-ruby-level="2">くうかん</rt></ruby><ruby>観測所<rt data-ruby-level="5">かんそくじょ</rt></ruby>から<ruby>打<rt
+  data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げられました。ロケットは<ruby>順調<rt
+  data-ruby-level="4">じゅんちょう</rt></ruby>に<ruby>飛行<rt data-ruby-level="4">ひこう</rt></ruby>を<ruby>続<rt
+  data-ruby-level="4">つづ</rt></ruby>け、<ruby>午前<rt data-ruby-level="2">ごぜん</rt></ruby>７<ruby>時前<rt
+  data-ruby-level="2">じまえ</rt></ruby>に<ruby>予定<rt data-ruby-level="3">よてい</rt></ruby>していた<ruby>高度<rt
+  data-ruby-level="3">こうど</rt></ruby>５００キロ<ruby>付近<rt data-ruby-level="4">ふきん</rt></ruby>で<ruby>衛星<rt
+  data-ruby-level="5">えいせい</rt></ruby>を<ruby>軌道<rt data-ruby-level="7">きどう</rt></ruby>に<ruby>投入<rt
+  data-ruby-level="3">とうにゅう</rt></ruby>し、<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+  data-ruby-level="3">あ</rt></ruby>げは<ruby>成功<rt data-ruby-level="4">せいこう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/18/K10011292981_1801180709_1801180711_01_03.jpg
+more: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>新<rt data-ruby-level="2">あたら</rt></ruby>しい<ruby>小型<rt
+  data-ruby-level="4">こがた</rt></ruby>ロケット「イプシロン」の３<ruby>号機<rt data-ruby-level="4">ごうき</rt></ruby>は、<ruby>大手<rt
+  data-ruby-level="1">おおて</rt></ruby><ruby>電機<rt data-ruby-level="4">でんき</rt></ruby>メーカーのＮＥＣが<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>した<ruby>地球<rt data-ruby-level="3">ちきゅう</rt></ruby><ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby><ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>「ＡＳＮＡＲＯ」の２<ruby>号機<rt
+  data-ruby-level="4">ごうき</rt></ruby>を<ruby>載<rt data-ruby-level="7">の</rt></ruby>せ<ruby>午前<rt
+  data-ruby-level="2">ごぜん</rt></ruby>６<ruby>時<rt data-ruby-level="2">じ</rt></ruby>６<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>、<ruby>鹿児島県<rt data-ruby-level="8">かごしまけん</rt></ruby>の<ruby>内之浦<rt
+  data-ruby-level="8">うちのうら</rt></ruby><ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby><ruby>空間<rt
+  data-ruby-level="2">くうかん</rt></ruby><ruby>観測所<rt data-ruby-level="5">かんそくじょ</rt></ruby>から<ruby>打<rt
+  data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げられました。<br
+  /><br />「イプシロン」は、１<ruby>段目<rt data-ruby-level="6">だんめ</rt></ruby>のエンジンに<ruby>点火<rt
+  data-ruby-level="2">てんか</rt></ruby>したあとごう<ruby>音<rt data-ruby-level="1">おん</rt></ruby>とともに<ruby>発射台<rt
+  data-ruby-level="6">はっしゃだい</rt></ruby>を<ruby>離<rt data-ruby-level="7">はな</rt></ruby>れ、「ＡＳＮＡＲＯ」の２<ruby>号機<rt
+  data-ruby-level="4">ごうき</rt></ruby>を<ruby>覆<rt data-ruby-level="7">おお</rt></ruby>っている「フェアリング」などを<ruby>切<rt
+  data-ruby-level="7">き</rt></ruby>り<ruby>離<rt data-ruby-level="7">はな</rt></ruby>しながら<ruby>順調<rt
+  data-ruby-level="4">じゅんちょう</rt></ruby>に<ruby>飛行<rt data-ruby-level="4">ひこう</rt></ruby>を<ruby>続<rt
+  data-ruby-level="4">つづ</rt></ruby>けました。<br /><br />そして<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+  data-ruby-level="3">あ</rt></ruby>げから５０<ruby>分<rt data-ruby-level="2">ふん</rt></ruby><ruby>余<rt
+  data-ruby-level="5">あま</rt></ruby>りすぎた<ruby>午前<rt data-ruby-level="2">ごぜん</rt></ruby>７<ruby>時前<rt
+  data-ruby-level="2">じまえ</rt></ruby>、<ruby>高度<rt data-ruby-level="3">こうど</rt></ruby>５００キロ<ruby>付近<rt
+  data-ruby-level="4">ふきん</rt></ruby>で「ＡＳＮＡＲＯ」を<ruby>軌道<rt data-ruby-level="7">きどう</rt></ruby>に<ruby>投入<rt
+  data-ruby-level="3">とうにゅう</rt></ruby>し、<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+  data-ruby-level="3">あ</rt></ruby>げは<ruby>成功<rt data-ruby-level="4">せいこう</rt></ruby>しました。<br
+  /><br />「イプシロン」は<ruby>新興国<rt data-ruby-level="5">しんこうこく</rt></ruby>などで<ruby>需要<rt
+  data-ruby-level="7">じゅよう</rt></ruby>が<ruby>高<rt data-ruby-level="2">たか</rt></ruby>まる<ruby>小型<rt
+  data-ruby-level="4">こがた</rt></ruby>の<ruby>人工<rt data-ruby-level="2">じんこう</rt></ruby><ruby>衛星<rt
+  data-ruby-level="5">えいせい</rt></ruby>を<ruby>低<rt data-ruby-level="4">てい</rt></ruby><ruby>コスト<rt
+  data-ruby-level="4">こすと</rt></ruby>で<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+  data-ruby-level="3">あ</rt></ruby>げられるようにしようとＪＡＸＡ＝<ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby><ruby>航空<rt
+  data-ruby-level="4">こうくう</rt></ruby><ruby>研究<rt data-ruby-level="3">けんきゅう</rt></ruby><ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby><ruby>機構<rt data-ruby-level="5">きこう</rt></ruby>などが<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>した<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>新<rt
+  data-ruby-level="2">あたら</rt></ruby>しい<ruby>小型<rt data-ruby-level="4">こがた</rt></ruby>ロケットで、<ruby>打<rt
+  data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げ<ruby>費用<rt
+  data-ruby-level="4">ひよう</rt></ruby>がおよそ４０<ruby>億円<rt data-ruby-level="4">おくえん</rt></ruby>と<ruby>従来<rt
+  data-ruby-level="6">じゅうらい</rt></ruby>の<ruby>小型<rt data-ruby-level="4">こがた</rt></ruby>ロケットの<ruby>半分<rt
+  data-ruby-level="2">はんぶん</rt></ruby><ruby>程度<rt data-ruby-level="5">ていど</rt></ruby>に<ruby>抑<rt
+  data-ruby-level="7">おさ</rt></ruby>えられています。<br /><br />イプシロンが<ruby>民間<rt data-ruby-level="4">みんかん</rt></ruby><ruby>企業<rt
+  data-ruby-level="7">きぎょう</rt></ruby>から<ruby>委託<rt data-ruby-level="7">いたく</rt></ruby>された<ruby>人工<rt
+  data-ruby-level="2">じんこう</rt></ruby><ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>を<ruby>搭載<rt
+  data-ruby-level="7">とうさい</rt></ruby>するのは<ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>が<ruby>初<rt
+  data-ruby-level="4">はじ</rt></ruby>めてで、ＪＡＸＡでは、<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+  data-ruby-level="3">あ</rt></ruby>げの<ruby>成功<rt data-ruby-level="4">せいこう</rt></ruby>によって<ruby>新興国<rt
+  data-ruby-level="5">しんこうこく</rt></ruby>などからの<ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby><ruby>打<rt
+  data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げを<ruby>受注<rt
+  data-ruby-level="3">じゅちゅう</rt></ruby>できるようにしたいとしています。
+movie_url: https://newswebeasy.github.io/ja201801/news/web/movie/2018/01/18/k10011292981_201801180709_201801180709.mp4
+voice_url: https://newswebeasy.github.io/ja201801/news/web/voice/2018/01/18/k10011292981_201801180709_201801180709.mp3
+body:
+- title: ＪＡＸＡ<ruby>理事長<rt data-ruby-level="3">りじちょう</rt></ruby>「Ｈ２Ａのように<ruby>早<rt
+    data-ruby-level="1">はや</rt></ruby>く<ruby>民間<rt data-ruby-level="4">みんかん</rt></ruby><ruby>事業<rt
+    data-ruby-level="3">じぎょう</rt></ruby>に」
+  text: 「イプシロン」の３<ruby>号機<rt data-ruby-level="4">ごうき</rt></ruby>を<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+    data-ruby-level="3">あ</rt></ruby>げたＪＡＸＡの<ruby>奥村<rt data-ruby-level="7">おくむら</rt></ruby><ruby>直樹<rt
+    data-ruby-level="8">なおき</rt></ruby><ruby>理事長<rt data-ruby-level="3">りじちょう</rt></ruby>は、<ruby>打<rt
+    data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げのあと<ruby>会見<rt
+    data-ruby-level="2">かいけん</rt></ruby>し、「イプシロンは<ruby>野心的<rt data-ruby-level="4">やしんてき</rt></ruby>に<ruby>改良<rt
+    data-ruby-level="4">かいりょう</rt></ruby>を<ruby>加<rt data-ruby-level="4">くわ</rt></ruby>えてきたロケットであるぶん、<ruby>困難<rt
+    data-ruby-level="6">こんなん</rt></ruby>も<ruby>多<rt data-ruby-level="2">おお</rt></ruby>かった。<ruby>今回<rt
+    data-ruby-level="2">こんかい</rt></ruby>の<ruby>成功<rt data-ruby-level="4">せいこう</rt></ruby>で<ruby>将来<rt
+    data-ruby-level="6">しょうらい</rt></ruby>の<ruby>安定的<rt data-ruby-level="4">あんていてき</rt></ruby>な<ruby>打<rt
+    data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げへの<ruby>確信<rt
+    data-ruby-level="5">かくしん</rt></ruby>が<ruby>芽生<rt data-ruby-level="4">めば</rt></ruby>えてきたと<ruby>思<rt
+    data-ruby-level="2">おも</rt></ruby>う」と<ruby>述<rt data-ruby-level="5">の</rt></ruby>べました。<br
+    />そのうえで、「<ruby>最近<rt data-ruby-level="4">さいきん</rt></ruby>のマーケットを<ruby>見<rt data-ruby-level="1">み</rt></ruby>ると<ruby>小型<rt
+    data-ruby-level="4">こがた</rt></ruby><ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>を<ruby>打<rt
+    data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げるニーズは<ruby>非常<rt
+    data-ruby-level="5">ひじょう</rt></ruby>に<ruby>高<rt data-ruby-level="2">たか</rt></ruby>まっている。マーケットを<ruby>捕捉<rt
+    data-ruby-level="7">ほそく</rt></ruby>するには、<ruby>研究<rt data-ruby-level="3">けんきゅう</rt></ruby><ruby>開発<rt
+    data-ruby-level="3">かいはつ</rt></ruby><ruby>機関<rt data-ruby-level="4">きかん</rt></ruby>がいつまでも<ruby>受注<rt
+    data-ruby-level="3">じゅちゅう</rt></ruby>から<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+    data-ruby-level="3">あ</rt></ruby>げまでを<ruby>担<rt data-ruby-level="7">にな</rt></ruby>っていくことは<ruby>自然<rt
+    data-ruby-level="4">しぜん</rt></ruby>ではない。できるだけ<ruby>早<rt data-ruby-level="1">はや</rt></ruby>くＨ２Ａロケットのように<ruby>民間<rt
+    data-ruby-level="4">みんかん</rt></ruby><ruby>事業<rt data-ruby-level="3">じぎょう</rt></ruby>として<ruby>確立<rt
+    data-ruby-level="5">かくりつ</rt></ruby>できるように<ruby>努力<rt data-ruby-level="4">どりょく</rt></ruby>していきたい」と<ruby>話<rt
+    data-ruby-level="2">はな</rt></ruby>しました。
+source_url: https://www3.nhk.or.jp/news/html/20180118/k10011292981000.html
+easy_title_with_ruby: <ruby>新<rt data-ruby-level="2">あたら</rt></ruby>しいロケット「イプシロン」を<ruby>打<rt
+  data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げる
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/01/18/新しいロケットイプシロンを打ち上げる
+related_news:
+- title: <ruby>金井<rt data-ruby-level="7">かない</rt></ruby><ruby>宣茂<rt data-ruby-level="8">のりしげ</rt></ruby>さん<ruby>搭乗<rt
+    data-ruby-level="7">とうじょう</rt></ruby>の「ソユーズ」<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+    data-ruby-level="3">あ</rt></ruby>げ<ruby>成功<rt data-ruby-level="4">せいこう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/17/金井宣茂さん搭乗のソユーズ打ち上げ成功
+...

@@ -1,0 +1,162 @@
+---
+layout: web_news
+categories: web
+newsid: k10011290941000
+title: パナソニック ＡＩで住宅の省エネ 節電システム販売へ
+title_with_ruby: パナソニック ＡＩで<ruby>住宅<rt data-ruby-level="6">じゅうたく</rt></ruby>の<ruby>省<rt
+  data-ruby-level="4">しょう</rt></ruby><ruby>エネ<rt data-ruby-level="4">えね</rt></ruby>
+  <ruby>節電<rt data-ruby-level="4">せつでん</rt></ruby>システム<ruby>販売<rt data-ruby-level="7">はんばい</rt></ruby>へ
+last_modified_at: '2018-01-16T17:34:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>01<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>16<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 17<ruby>時<rt data-ruby-level="2">じ</rt></ruby>34<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 大手電機メーカーのパナソニックは、ＡＩ＝人工知能を活用して、家庭で電気を使う量やタイミングを自動で制御し、省エネにつなげる最新の節電システムをことし３月から販売することになりました。
+summary: <ruby>大手<rt data-ruby-level="1">おおて</rt></ruby><ruby>電機<rt data-ruby-level="4">でんき</rt></ruby>メーカーのパナソニックは、ＡＩ＝<ruby>人工<rt
+  data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt data-ruby-level="5">ちのう</rt></ruby>を<ruby>活用<rt
+  data-ruby-level="2">かつよう</rt></ruby>して、<ruby>家庭<rt data-ruby-level="3">かてい</rt></ruby>で<ruby>電気<rt
+  data-ruby-level="2">でんき</rt></ruby>を<ruby>使<rt data-ruby-level="3">つか</rt></ruby>う<ruby>量<rt
+  data-ruby-level="4">りょう</rt></ruby>やタイミングを<ruby>自動<rt data-ruby-level="3">じどう</rt></ruby>で<ruby>制御<rt
+  data-ruby-level="7">せいぎょ</rt></ruby>し、<ruby>省<rt data-ruby-level="4">しょう</rt></ruby><ruby>エネ<rt
+  data-ruby-level="4">えね</rt></ruby>につなげる<ruby>最新<rt data-ruby-level="4">さいしん</rt></ruby>の<ruby>節電<rt
+  data-ruby-level="4">せつでん</rt></ruby>システムをことし３<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>から<ruby>販売<rt
+  data-ruby-level="7">はんばい</rt></ruby>することになりました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/16/K10011290941_1801161731_1801161808_01_02.jpg
+more: パナソニックは、グループ<ruby>内<rt data-ruby-level="2">ない</rt></ruby>に<ruby>住宅<rt data-ruby-level="6">じゅうたく</rt></ruby>メーカーを<ruby>持<rt
+  data-ruby-level="3">も</rt></ruby>ち、<ruby>太陽光発電<rt data-ruby-level="3">たいようこうはつでん</rt></ruby>とＩＴを<ruby>組<rt
+  data-ruby-level="2">く</rt></ruby>み<ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせて<ruby>省<rt
+  data-ruby-level="4">しょう</rt></ruby><ruby>エネ<rt data-ruby-level="4">えね</rt></ruby>を<ruby>図<rt
+  data-ruby-level="7">はか</rt></ruby>る「スマートハウス」を<ruby>中核<rt data-ruby-level="7">ちゅうかく</rt></ruby><ruby>事業<rt
+  data-ruby-level="3">じぎょう</rt></ruby>の１つに<ruby>掲<rt data-ruby-level="7">かか</rt></ruby>げています。<br
+  /><br />これまでは、<ruby>太陽光発電<rt data-ruby-level="3">たいようこうはつでん</rt></ruby>システムから<ruby>供給<rt
+  data-ruby-level="6">きょうきゅう</rt></ruby>される<ruby>電力量<rt data-ruby-level="4">でんりょくりょう</rt></ruby>と、<ruby>照明<rt
+  data-ruby-level="4">しょうめい</rt></ruby>や<ruby>家電<rt data-ruby-level="2">かでん</rt></ruby><ruby>製品<rt
+  data-ruby-level="5">せいひん</rt></ruby>による<ruby>電力<rt data-ruby-level="2">でんりょく</rt></ruby>の<ruby>使用量<rt
+  data-ruby-level="4">しようりょう</rt></ruby>をリアルタイムで<ruby>把握<rt data-ruby-level="7">はあく</rt></ruby>し、<ruby>利用者<rt
+  data-ruby-level="4">りようしゃ</rt></ruby>がみずから<ruby>使用量<rt data-ruby-level="4">しようりょう</rt></ruby>を<ruby>調節<rt
+  data-ruby-level="4">ちょうせつ</rt></ruby>して、<ruby>電気<rt data-ruby-level="2">でんき</rt></ruby>を<ruby>効率的<rt
+  data-ruby-level="5">こうりつてき</rt></ruby>に<ruby>使<rt data-ruby-level="3">つか</rt></ruby>えるシステムを<ruby>販売<rt
+  data-ruby-level="7">はんばい</rt></ruby>してきました。<br /><br />１６<ruby>日<rt data-ruby-level="1">にち</rt></ruby>、<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>した<ruby>最新<rt data-ruby-level="4">さいしん</rt></ruby>の<ruby>節電<rt
+  data-ruby-level="4">せつでん</rt></ruby>システムはＡＩを<ruby>導入<rt data-ruby-level="5">どうにゅう</rt></ruby>することで、<ruby>節電<rt
+  data-ruby-level="4">せつでん</rt></ruby>するための<ruby>操作<rt data-ruby-level="6">そうさ</rt></ruby>が<ruby>一部<rt
+  data-ruby-level="3">いちぶ</rt></ruby>、<ruby>自動化<rt data-ruby-level="3">じどうか</rt></ruby>されました。<br
+  /><br /><ruby>具体的<rt data-ruby-level="4">ぐたいてき</rt></ruby>には、ネットワークを<ruby>通<rt data-ruby-level="2">つう</rt></ruby>じてパナソニックが<ruby>管理<rt
+  data-ruby-level="4">かんり</rt></ruby>するＡＩが、<ruby>気象<rt data-ruby-level="4">きしょう</rt></ruby><ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>に<ruby>基<rt data-ruby-level="7">もと</rt></ruby>づいて<ruby>家<rt
+  data-ruby-level="2">いえ</rt></ruby>ごとの<ruby>翌日<rt data-ruby-level="6">よくじつ</rt></ruby>の<ruby>発電量<rt
+  data-ruby-level="4">はつでんりょう</rt></ruby>や<ruby>使用<rt data-ruby-level="3">しよう</rt></ruby><ruby>電力<rt
+  data-ruby-level="2">でんりょく</rt></ruby>を<ruby>予測<rt data-ruby-level="5">よそく</rt></ruby>したうえで、<ruby>電力<rt
+  data-ruby-level="2">でんりょく</rt></ruby><ruby>会社<rt data-ruby-level="2">がいしゃ</rt></ruby>から<ruby>電気<rt
+  data-ruby-level="2">でんき</rt></ruby>を<ruby>買<rt data-ruby-level="2">か</rt></ruby>う<ruby>量<rt
+  data-ruby-level="4">りょう</rt></ruby>をできるだけ<ruby>減<rt data-ruby-level="5">へ</rt></ruby>らせるように、<ruby>風呂<rt
+  data-ruby-level="7">ふろ</rt></ruby>や<ruby>家事<rt data-ruby-level="3">かじ</rt></ruby>などに<ruby>使<rt
+  data-ruby-level="3">つか</rt></ruby>うために<ruby>給湯器<rt data-ruby-level="4">きゅうとうき</rt></ruby>でお<ruby>湯<rt
+  data-ruby-level="3">ゆ</rt></ruby>を<ruby>沸<rt data-ruby-level="7">わ</rt></ruby>かすタイミングを<ruby>自動的<rt
+  data-ruby-level="4">じどうてき</rt></ruby>に<ruby>制御<rt data-ruby-level="7">せいぎょ</rt></ruby>します。<br
+  /><br />また、<ruby>来年度<rt data-ruby-level="3">らいねんど</rt></ruby><ruby>中<rt data-ruby-level="1">ちゅう</rt></ruby>に、グーグルのＡＩスピーカーを<ruby>組<rt
+  data-ruby-level="7">く</rt></ruby>み<ruby>込<rt data-ruby-level="7">こ</rt></ruby>んでエアコンや<ruby>照明<rt
+  data-ruby-level="4">しょうめい</rt></ruby>などを<ruby>音声<rt data-ruby-level="2">おんせい</rt></ruby>で<ruby>操作<rt
+  data-ruby-level="6">そうさ</rt></ruby>することもできるようにします。<br /><br />パナソニックは、<ruby>今回<rt
+  data-ruby-level="2">こんかい</rt></ruby>の<ruby>節電<rt data-ruby-level="4">せつでん</rt></ruby>システムをことし３<ruby>月<rt
+  data-ruby-level="1">がつ</rt></ruby>から<ruby>販売<rt data-ruby-level="7">はんばい</rt></ruby>するとともに、<ruby>自社<rt
+  data-ruby-level="2">じしゃ</rt></ruby><ruby>以外<rt data-ruby-level="4">いがい</rt></ruby>で<ruby>蓄電池<rt
+  data-ruby-level="7">ちくでんち</rt></ruby>や<ruby>給湯器<rt data-ruby-level="4">きゅうとうき</rt></ruby>を<ruby>手<rt
+  data-ruby-level="1">て</rt></ruby>がける１３<ruby>社<rt data-ruby-level="2">しゃ</rt></ruby>の<ruby>製品<rt
+  data-ruby-level="5">せいひん</rt></ruby>にも<ruby>対応<rt data-ruby-level="5">たいおう</rt></ruby>するようにする<ruby>計画<rt
+  data-ruby-level="2">けいかく</rt></ruby>です。<br /><br />パナソニックの<ruby>担当者<rt data-ruby-level="6">たんとうしゃ</rt></ruby>、<ruby>松本<rt
+  data-ruby-level="4">まつもと</rt></ruby><ruby>亮<rt data-ruby-level="8">りょう</rt></ruby>さんは「ＡＩを<ruby>使<rt
+  data-ruby-level="3">つか</rt></ruby>うことで、ヒトが<ruby>介在<rt data-ruby-level="7">かいざい</rt></ruby>しなくてもより<ruby>最適<rt
+  data-ruby-level="5">さいてき</rt></ruby>な<ruby>電力<rt data-ruby-level="2">でんりょく</rt></ruby><ruby>制御<rt
+  data-ruby-level="7">せいぎょ</rt></ruby>ができて<ruby>省<rt data-ruby-level="4">しょう</rt></ruby><ruby>エネ<rt
+  data-ruby-level="4">えね</rt></ruby>につながる。<ruby>住宅<rt data-ruby-level="6">じゅうたく</rt></ruby><ruby>着工<rt
+  data-ruby-level="3">ちゃっこう</rt></ruby>の<ruby>数<rt data-ruby-level="2">かず</rt></ruby>は<ruby>減<rt
+  data-ruby-level="5">へ</rt></ruby>っていくが、１<ruby>人<rt data-ruby-level="1">にん</rt></ruby><ruby>暮<rt
+  data-ruby-level="6">ぐ</rt></ruby>らしが<ruby>増<rt data-ruby-level="5">ふ</rt></ruby>えるなど<ruby>家族<rt
+  data-ruby-level="3">かぞく</rt></ruby><ruby>構成<rt data-ruby-level="5">こうせい</rt></ruby>が<ruby>変<rt
+  data-ruby-level="4">か</rt></ruby>わる<ruby>中<rt data-ruby-level="1">なか</rt></ruby>で<ruby>住宅<rt
+  data-ruby-level="6">じゅうたく</rt></ruby>の<ruby>価値<rt data-ruby-level="6">かち</rt></ruby>を<ruby>上<rt
+  data-ruby-level="1">あ</rt></ruby>げていきたい」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>しています。
+body:
+- title: 「ＡＩ」や「ＩｏＴ」 <ruby>住宅<rt data-ruby-level="6">じゅうたく</rt></ruby><ruby>向<rt data-ruby-level="3">む</rt></ruby>けで<ruby>競争<rt
+    data-ruby-level="4">きょうそう</rt></ruby>
+  text: これまで<ruby>主<rt data-ruby-level="3">おも</rt></ruby>に<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>の<ruby>現場<rt
+    data-ruby-level="5">げんば</rt></ruby>で<ruby>使<rt data-ruby-level="3">つか</rt></ruby>われてきた「ＡＩ」＝<ruby>人工<rt
+    data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt data-ruby-level="5">ちのう</rt></ruby>や、さまざまな<ruby>設備<rt
+    data-ruby-level="5">せつび</rt></ruby>や<ruby>製品<rt data-ruby-level="5">せいひん</rt></ruby>をネットでつなぐ「ＩｏＴ」を、<ruby>家庭<rt
+    data-ruby-level="3">かてい</rt></ruby>にも<ruby>取<rt data-ruby-level="3">と</rt></ruby>り<ruby>入<rt
+    data-ruby-level="3">い</rt></ruby>れようというメーカーの<ruby>動<rt data-ruby-level="3">うご</rt></ruby>きが<ruby>盛<rt
+    data-ruby-level="6">さか</rt></ruby>んになっています。<br /><br />このうち、<ruby>日立製作所<rt data-ruby-level="5">ひたちせいさくしょ</rt></ruby>は<ruby>自社<rt
+    data-ruby-level="2">じしゃ</rt></ruby>のロボット<ruby>掃除機<rt data-ruby-level="7">そうじき</rt></ruby>や<ruby>電子<rt
+    data-ruby-level="2">でんし</rt></ruby>レンジを、アマゾンのＡＩスピーカーに<ruby>対応<rt data-ruby-level="5">たいおう</rt></ruby>させて、<ruby>音声<rt
+    data-ruby-level="2">おんせい</rt></ruby>でも<ruby>操作<rt data-ruby-level="6">そうさ</rt></ruby>できるようにしました。<br
+    /><br /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>、<ruby>三菱電機<rt data-ruby-level="8">みつびしでんき</rt></ruby>はエアコンにＡＩを<ruby>導入<rt
+    data-ruby-level="5">どうにゅう</rt></ruby>し、<ruby>壁<rt data-ruby-level="7">かべ</rt></ruby>や<ruby>窓<rt
+    data-ruby-level="6">まど</rt></ruby>の<ruby>近<rt data-ruby-level="2">ちか</rt></ruby>くといった<ruby>部屋<rt
+    data-ruby-level="8">へや</rt></ruby>の<ruby>中<rt data-ruby-level="1">なか</rt></ruby>での<ruby>温度<rt
+    data-ruby-level="3">おんど</rt></ruby>の<ruby>違<rt data-ruby-level="7">ちが</rt></ruby>いを<ruby>分析<rt
+    data-ruby-level="7">ぶんせき</rt></ruby>して、<ruby>最適<rt data-ruby-level="5">さいてき</rt></ruby>な<ruby>室温<rt
+    data-ruby-level="3">しつおん</rt></ruby>を<ruby>割<rt data-ruby-level="6">わ</rt></ruby>り<ruby>出<rt
+    data-ruby-level="6">だ</rt></ruby>し、<ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby>を<ruby>制御<rt
+    data-ruby-level="7">せいぎょ</rt></ruby>する<ruby>製品<rt data-ruby-level="5">せいひん</rt></ruby>を<ruby>販売<rt
+    data-ruby-level="7">はんばい</rt></ruby>しています。<br /><br />また、<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>９<ruby>月<rt
+    data-ruby-level="1">がつ</rt></ruby>には、<ruby>国内<rt data-ruby-level="2">こくない</rt></ruby>の<ruby>電機<rt
+    data-ruby-level="4">でんき</rt></ruby>メーカーや<ruby>住宅<rt data-ruby-level="6">じゅうたく</rt></ruby><ruby>設備<rt
+    data-ruby-level="5">せつび</rt></ruby>メーカー、それに<ruby>鉄道<rt data-ruby-level="3">てつどう</rt></ruby><ruby>会社<rt
+    data-ruby-level="2">がいしゃ</rt></ruby>など<ruby>大手<rt data-ruby-level="1">おおて</rt></ruby><ruby>企業<rt
+    data-ruby-level="7">きぎょう</rt></ruby>７７<ruby>社<rt data-ruby-level="2">しゃ</rt></ruby>が、「ＩｏＴ」を<ruby>活用<rt
+    data-ruby-level="2">かつよう</rt></ruby>した<ruby>家庭<rt data-ruby-level="3">かてい</rt></ruby><ruby>向<rt
+    data-ruby-level="3">む</rt></ruby>けのサービスを<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>するため、<ruby>業種<rt
+    data-ruby-level="4">ぎょうしゅ</rt></ruby>の<ruby>垣根<rt data-ruby-level="7">かきね</rt></ruby>を<ruby>越<rt
+    data-ruby-level="7">こ</rt></ruby>えて<ruby>連携<rt data-ruby-level="7">れんけい</rt></ruby>する<ruby>取<rt
+    data-ruby-level="3">と</rt></ruby>り<ruby>組<rt data-ruby-level="3">く</rt></ruby>みが<ruby>始<rt
+    data-ruby-level="3">はじ</rt></ruby>まりました。<br /><br /><ruby>例<rt data-ruby-level="4">たと</rt></ruby>えば、<ruby>帰宅時<rt
+    data-ruby-level="6">きたくじ</rt></ruby>にスマートフォンを<ruby>操作<rt data-ruby-level="6">そうさ</rt></ruby>するだけで、ドアの<ruby>鍵<rt
+    data-ruby-level="7">かぎ</rt></ruby>が<ruby>開<rt data-ruby-level="3">あ</rt></ruby>き、<ruby>部屋<rt
+    data-ruby-level="8">へや</rt></ruby>の<ruby>照明<rt data-ruby-level="4">しょうめい</rt></ruby>が<ruby>点灯<rt
+    data-ruby-level="4">てんとう</rt></ruby>して、<ruby>家電<rt data-ruby-level="2">かでん</rt></ruby><ruby>製品<rt
+    data-ruby-level="5">せいひん</rt></ruby>が<ruby>動<rt data-ruby-level="3">うご</rt></ruby>き<ruby>出<rt
+    data-ruby-level="3">だ</rt></ruby>すといったサービスが<ruby>想定<rt data-ruby-level="3">そうてい</rt></ruby>されています。<br
+    /><br />ただ、サービスを<ruby>実現<rt data-ruby-level="5">じつげん</rt></ruby>するには、インターネットで<ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby>をやり<ruby>取<rt data-ruby-level="3">と</rt></ruby>りする<ruby>通信<rt
+    data-ruby-level="4">つうしん</rt></ruby><ruby>規格<rt data-ruby-level="5">きかく</rt></ruby>の<ruby>共通化<rt
+    data-ruby-level="4">きょうつうか</rt></ruby>や、<ruby>家電<rt data-ruby-level="2">かでん</rt></ruby><ruby>製品<rt
+    data-ruby-level="5">せいひん</rt></ruby>を<ruby>制御<rt data-ruby-level="7">せいぎょ</rt></ruby>するプログラムを<ruby>互<rt
+    data-ruby-level="7">たが</rt></ruby>いに<ruby>公開<rt data-ruby-level="3">こうかい</rt></ruby>することが<ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>で、<ruby>各社<rt data-ruby-level="4">かくしゃ</rt></ruby>が<ruby>協力<rt
+    data-ruby-level="4">きょうりょく</rt></ruby>を<ruby>進<rt data-ruby-level="3">すす</rt></ruby>める<ruby>計画<rt
+    data-ruby-level="2">けいかく</rt></ruby>です。<br /><br /><ruby>国内<rt data-ruby-level="2">こくない</rt></ruby>では<ruby>去年<rt
+    data-ruby-level="3">きょねん</rt></ruby>、アマゾンやグーグル、それに、ＬＩＮＥやソニーが<ruby>相次<rt data-ruby-level="3">あいつ</rt></ruby>いでＡＩスピーカーを<ruby>発売<rt
+    data-ruby-level="3">はつばい</rt></ruby>し、ＡＩが<ruby>家庭<rt data-ruby-level="3">かてい</rt></ruby>でも<ruby>身近<rt
+    data-ruby-level="3">みぢか</rt></ruby>な<ruby>存在<rt data-ruby-level="6">そんざい</rt></ruby>になりはじめています。<br
+    /><br /><ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>、ＡＩやＩｏＴを<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>した<ruby>住宅<rt
+    data-ruby-level="6">じゅうたく</rt></ruby><ruby>向<rt data-ruby-level="3">む</rt></ruby>けのサービスの<ruby>開発<rt
+    data-ruby-level="3">かいはつ</rt></ruby><ruby>競争<rt data-ruby-level="4">きょうそう</rt></ruby>が<ruby>国境<rt
+    data-ruby-level="5">こっきょう</rt></ruby>や<ruby>業種<rt data-ruby-level="4">ぎょうしゅ</rt></ruby>を<ruby>越<rt
+    data-ruby-level="7">こ</rt></ruby>えて<ruby>一段<rt data-ruby-level="6">いちだん</rt></ruby>と<ruby>加速<rt
+    data-ruby-level="4">かそく</rt></ruby>しそうです。
+source_url: https://www3.nhk.or.jp/news/html/20180116/k10011290941000.html
+easy_title_with_ruby: パナソニック ＡＩを<ruby>使<rt data-ruby-level="3">つか</rt></ruby>って<ruby>家<rt
+  data-ruby-level="2">いえ</rt></ruby>の<ruby>電気代<rt data-ruby-level="3">でんきだい</rt></ruby>を<ruby>安<rt
+  data-ruby-level="3">やす</rt></ruby>くする
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/01/18/パナソニック-AIを使って家の電気代を安くする
+related_news:
+- title: ソニー aiboの<ruby>後継機<rt data-ruby-level="7">こうけいき</rt></ruby><ruby>発売<rt data-ruby-level="3">はつばい</rt></ruby>
+    AI<ruby>搭載<rt data-ruby-level="7">とうさい</rt></ruby>で<ruby>約<rt data-ruby-level="4">やく</rt></ruby>20<ruby>万<rt
+    data-ruby-level="2">まん</rt></ruby><ruby>円<rt data-ruby-level="1">えん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/11/ソニー-aiboの後継機発売-AI搭載で約20万円
+- title: ソニー １２<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>ぶり<ruby>犬型<rt data-ruby-level="4">いぬがた</rt></ruby>ロボット「ａｉｂｏ」<ruby>発売<rt
+    data-ruby-level="3">はつばい</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2017/11/01/ソニー-12年ぶり犬型ロボットaibo発売へ
+- title: <ruby>高齢者<rt data-ruby-level="7">こうれいしゃ</rt></ruby>の<ruby>暮<rt data-ruby-level="6">く</rt></ruby>らしサポートするＡＩマンション<ruby>公開<rt
+    data-ruby-level="3">こうかい</rt></ruby> <ruby>横浜<rt data-ruby-level="7">よこはま</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/11/22/高齢者の暮らしサポートするAIマンション公開-横浜
+- title: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>電機<rt data-ruby-level="4">でんき</rt></ruby>メーカー
+    <ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby>に<ruby>自社<rt
+    data-ruby-level="2">じしゃ</rt></ruby><ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>を
+    <ruby>事業<rt data-ruby-level="3">じぎょう</rt></ruby><ruby>強化<rt data-ruby-level="3">きょうか</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/10/21/日本の電機メーカー-自動運転に自社技術を-事業強化
+- title: “ＡＩスカウト“で<ruby>変<rt data-ruby-level="4">か</rt></ruby>わる<ruby>人事<rt data-ruby-level="3">じんじ</rt></ruby>
+    ネットで<ruby>人材<rt data-ruby-level="4">じんざい</rt></ruby><ruby>発掘<rt data-ruby-level="7">はっくつ</rt></ruby>
+    <ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>に<ruby>紹介<rt data-ruby-level="7">しょうかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/07/AIスカウトで変わる人事-ネットで人材発掘-企業に紹介
+...

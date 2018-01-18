@@ -1,0 +1,70 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011292981000
+last_modified_at: '2018-01-18T17:10:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>10<ruby>分<rt>ふん</rt></ruby>
+description: 宇宙の研究をしている日本のＪＡＸＡは１８日の朝、鹿児島県から「イプシロン３号機」を打ち上げました。
+title: 新しいロケット「イプシロン」を打ち上げる
+title_with_ruby: <ruby>新<rt>あたら</rt></ruby>しいロケット「イプシロン」を<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げる
+outline: 宇宙の研究をしている日本のＪＡＸＡは１８日の朝、鹿児島県から「イプシロン３号機」を打ち上げました。
+outline_with_ruby: <ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>をしている<ruby>日本<rt>にっぽん</rt></ruby>のＪＡＸＡは１８<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>鹿児島県<rt>かごしまけん</rt></ruby>から「イプシロン３<ruby>号機<rt>ごうき</rt></ruby>」を<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/18/K10011292981_1801180709_1801180711_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/18/k10011292981000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>の<ruby>研究<rt>けんきゅう</rt></ruby>をしている<ruby>日本<rt>にっぽん</rt></ruby>のＪＡＸＡは１８<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>鹿児島県<rt>かごしまけん</rt></ruby>から「イプシロン３<ruby>号機<rt>ごうき</rt></ruby>」を<span\
+  \ style=\"color: blue;\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</span>ました。</p>\n\
+  <p>イプシロンは、ＮＥＣが<ruby>作<rt>つく</rt></ruby>った<span style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>を<ruby>高<rt>たか</rt></ruby>さ<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>５００ｋｍの<ruby>所<rt>ところ</rt></ruby>まで<ruby>運<rt>はこ</rt></ruby>びました。イプシロンが、ＪＡＸＡではない<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>作<rt>つく</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>を<span style=\"\
+  color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>に<ruby>運<rt>はこ</rt></ruby>んだのは、<ruby>初<rt>はじ</rt></ruby>めてです。</p>\n\
+  <p>イプシロンを<span style=\"color: blue;\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げる</span>ために<ruby>必要<rt>ひつよう</rt></ruby>なお<ruby>金<rt>かね</rt></ruby>は４０<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>ぐらいで、<ruby>今<rt>いま</rt></ruby>までの<span\
+  \ style=\"color: blue;\">ロケット</span>の<ruby>半分<rt>はんぶん</rt></ruby>です。</p>\n<p><ruby>世界<rt>せかい</rt></ruby>では、<span\
+  \ style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>を<span style=\"\
+  color: blue;\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</span>たいと<ruby>考<rt>かんが</rt></ruby>えている<ruby>国<rt>くに</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。ＪＡＸＡは<ruby>値段<rt>ねだん</rt></ruby>を<ruby>安<rt>やす</rt></ruby>くして、<span\
+  \ style=\"color: blue;\"><ruby>先進国<rt>せんしんこく</rt></ruby></span><ruby>以外<rt>いがい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>もたくさん<span style=\"\
+  color: blue;\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</span>たいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ロケット
+  descriptions:
+  - <ruby><rb>筒</rb><rt>つつ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れた<ruby><rb>火薬</rb><rt>かやく</rt></ruby>などを<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>させ、<ruby><rb>後</rb><rt>うし</rt></ruby>ろへふき<ruby><rb>出</rb><rt>だ</rt></ruby>すガスの<ruby><rb>勢</rb><rt>いきお</rt></ruby>いの<ruby><rb>反動</rb><rt>はんどう</rt></ruby>で、<ruby><rb>飛</rb><rt>と</rt></ruby>ぶ<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。また、それを<ruby><rb>装置</rb><rt>そうち</rt></ruby>した<ruby><rb>飛行物体</rb><rt>ひこうぶったい</rt></ruby>。
+- word: 打ち上げる
+  descriptions:
+  - （<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - <ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - （<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。
+- word: 宇宙
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。
+- word: 打ち上げる
+  descriptions:
+  - （<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - <ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - （<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。
+- word: 人工衛星
+  descriptions:
+  - ロケットで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げ、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>るようにした、<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>。<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>のようすや<ruby><rb>気象</rb><rt>きしょう</rt></ruby>などを<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>などの<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>の<ruby><rb>中継</rb><rt>ちゅうけい</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>てたりする。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 先進国
+  descriptions:
+  - <ruby><rb>経済</rb><rt>けいざい</rt></ruby>・<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>などが<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>んでいる<ruby><rb>国</rb><rt>くに</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011292981000/k10011292981000.html
+web_title_with_ruby: <ruby>イプシロン<rt>いぷしろん</rt></ruby>３<ruby>号機<rt>ごうき</rt></ruby>
+  <ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ<ruby>成功<rt>せいこう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/18/イプシロン3号機-打ち上げ成功
+related_news:
+- title: <ruby>金井<rt>かない</rt></ruby><ruby>宣茂<rt>のりしげ</rt></ruby>さんが「ソユーズ」に<ruby>乗<rt>の</rt></ruby>って<ruby>宇宙<rt>うちゅう</rt></ruby>に<ruby>出発<rt>しゅっぱつ</rt></ruby>した
+  url: https://newswebeasy.github.io/news/easy/2017/12/18/金井宣茂さんがソユーズに乗って宇宙に出発した
+- title: ＮＡＳＡ「<ruby>月<rt>つき</rt></ruby>の<ruby>地下<rt>ちか</rt></ruby>で<ruby>宇宙飛行士<rt>うちゅうひこうし</rt></ruby>が<ruby>生活<rt>せいかつ</rt></ruby>できるかもしれない」
+  url: https://newswebeasy.github.io/news/easy/2017/11/13/NASA月の地下で宇宙飛行士が生活できるかもしれない
+- title: <ruby>宇宙飛行士<rt>うちゅうひこうし</rt></ruby>の<ruby>野口聡一<rt>のぐちそういち</rt></ruby>さん　２０１９<ruby>年<rt>ねん</rt></ruby>に３<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>の<ruby>宇宙<rt>うちゅう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/11/09/宇宙飛行士の野口聡一さん-2019年に3回目の宇宙
+- title: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>電化製品<rt>でんかせいひん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>自動<rt>じどう</rt></ruby>で<ruby>走<rt>はし</rt></ruby>る<ruby>車<rt>くるま</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>進<rt>すす</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2017/10/24/日本の電化製品の会社が自動で走る車の研究を進める
+...

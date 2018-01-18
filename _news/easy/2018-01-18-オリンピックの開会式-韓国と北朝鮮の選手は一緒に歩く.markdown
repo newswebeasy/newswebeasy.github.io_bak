@@ -1,0 +1,83 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011292671000
+last_modified_at: '2018-01-18T17:10:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>10<ruby>分<rt>ふん</rt></ruby>
+description: ２月９日、韓国のピョンチャンでオリンピックが始まります。
+title: オリンピックの開会式　韓国と北朝鮮の選手は一緒に歩く
+title_with_ruby: オリンピックの<ruby>開会<rt>かいかい</rt></ruby><ruby>式<rt>しき</rt></ruby>　<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>歩<rt>ある</rt></ruby>く
+outline: ２月９日、韓国のピョンチャンでオリンピックが始まります。
+outline_with_ruby: ２<ruby>月<rt>がつ</rt></ruby><ruby>９日<rt>ここのか</rt></ruby>、<ruby>韓国<rt>かんこく</rt></ruby>のピョンチャンでオリンピックが<ruby>始<rt>はじ</rt></ruby>まります。
+image_url: https://newswebeasy.github.io/ja201801/news/easy/image/2018/01/18/k10011292671000.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/18/k10011292671000.mp3
+content_with_ruby: "<p>２<ruby>月<rt>がつ</rt></ruby><ruby>９日<rt>ここのか</rt></ruby>、<ruby>韓国<rt>かんこく</rt></ruby>のピョンチャンで<span\
+  \ style=\"color: blue;\">オリンピック</span>が<ruby>始<rt>はじ</rt></ruby>まります。<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が<span\
+  \ style=\"color: blue;\">オリンピック</span>の<span style=\"color: blue;\"><ruby>開会<rt>かいかい</rt></ruby></span><ruby>式<rt>しき</rt></ruby>の<ruby>会場<rt>かいじょう</rt></ruby>に、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>歩<rt>ある</rt></ruby>いて<ruby>入<rt>はい</rt></ruby>ると<ruby>決<rt>き</rt></ruby>まりました。<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちは<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>国旗<rt>こっき</rt></ruby></span>ではなくて、<ruby>朝鮮半島<rt>ちょうせんはんとう</rt></ruby>の<ruby>絵<rt>え</rt></ruby>がかいてある<span\
+  \ style=\"color: blue;\"><ruby>旗<rt>はた</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>って<ruby>歩<rt>ある</rt></ruby>きます。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>女子<rt>じょし</rt></ruby></span>の<span style=\"\
+  color: blue;\">アイスホッケー</span>では、<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>同<rt>おな</rt></ruby>じ<span\
+  \ style=\"color: blue;\">チーム</span>で<ruby>試合<rt>しあい</rt></ruby>に<ruby>出<rt>で</rt></ruby>ます。</p>\n\
+  <p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちは２<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>に、<ruby>韓国<rt>かんこく</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>記者<rt>きしゃ</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>を<span style=\"color: blue;\"><ruby>応援<rt>おうえん</rt></ruby></span>する２３０<ruby>人<rt>にん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちも、<ruby>７日<rt>なのか</rt></ruby>に<ruby>韓国<rt>かんこく</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。</p>\n\
+  <p>３<ruby>月<rt>がつ</rt></ruby>にピョンチャンで<ruby>行<rt>おこな</rt></ruby>う<span style=\"color:\
+  \ blue;\">パラリンピック</span>にも、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<span style=\"color:\
+  \ blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>ることが<ruby>決<rt>き</rt></ruby>まりました。</p>\n\
+  <p></p>\n<p></p>\n<p></p>"
+words:
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: 開会
+  descriptions:
+  - <ruby><rb>会</rb><rt>かい</rt></ruby>を<ruby><rb>始</rb><rt>はじ</rt></ruby>めること。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 国旗
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>のしるしとなる<ruby><rb>旗</rb><rt>はた</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>国旗</rb><rt>こっき</rt></ruby>は<ruby><rb>日章旗</rb><rt>にっしょうき</rt></ruby>（<ruby><rb>日</rb><rt>ひ</rt></ruby>の<ruby><rb>丸</rb><rt>まる</rt></ruby>）。
+- word: 旗
+  descriptions:
+  - <ruby><rb>布</rb><rt>ぬの</rt></ruby>や<ruby><rb>紙</rb><rt>かみ</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>り、さおなどの<ruby><rb>先</rb><rt>さき</rt></ruby>につけて、かざりや<ruby><rb>目</rb><rt>め</rt></ruby>じるしとするもの。
+- word: 女子
+  descriptions:
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>女性</rb><rt>じょせい</rt></ruby>。
+- word: アイスホッケー
+  descriptions:
+  - スケートをはいて<ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>でするホッケー。<ruby><rb>１</rb><rt>いち</rt></ruby>チーム<ruby><rb>６名</rb><rt>ろくめい</rt></ruby>の<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>たちが、ゴムの<ruby><rb>円板</rb><rt>えんばん</rt></ruby>を<ruby><rb>相手</rb><rt>あいて</rt></ruby>のゴールにスティックを<ruby><rb>使</rb><rt>つか</rt></ruby>って<ruby><rb>打</rb><rt>う</rt></ruby>ちこみ、<ruby><rb>得点</rb><rt>とくてん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 記者
+  descriptions:
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 応援
+  descriptions:
+  - <ruby><rb>味方</rb><rt>みかた</rt></ruby>を、はげますこと。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>をかして<ruby><rb>助</rb><rt>たす</rt></ruby>けること。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011292671000/k10011292671000.html
+web_title_with_ruby: <ruby>ピョン<rt>ぴょん</rt></ruby><ruby>チャン<rt>ちゃん</rt></ruby><ruby>五輪<rt>ごりん</rt></ruby>
+  <ruby>アイスホッケー<rt>あいすほっけー</rt></ruby><ruby>女子<rt>じょし</rt></ruby><ruby>南北<rt>なんぼく</rt></ruby><ruby>合同<rt>ごうどう</rt></ruby><ruby>チーム<rt>ちーむ</rt></ruby><ruby>結成<rt>けっせい</rt></ruby>へ
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/17/ピョンチャン五輪-アイスホッケー女子南北合同チーム結成へ
+related_news:
+- title: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>がピョンチャンオリンピックに<ruby>出<rt>で</rt></ruby>ることになる
+  url: https://newswebeasy.github.io/news/easy/2018/01/10/北朝鮮がピョンチャンオリンピックに出ることになる
+- title: <ruby>韓国<rt>かんこく</rt></ruby>とアメリカ「オリンピックの<ruby>間<rt>あいだ</rt></ruby>は<ruby>軍<rt>ぐん</rt></ruby>の<ruby>訓練<rt>くんれん</rt></ruby>をしない」
+  url: https://newswebeasy.github.io/news/easy/2018/01/05/韓国とアメリカオリンピックの間は軍の訓練をしない
+- title: トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>が<ruby>韓国<rt>かんこく</rt></ruby>の<ruby>国会<rt>こっかい</rt></ruby>で<ruby>演説<rt>えんぜつ</rt></ruby>をする
+  url: https://newswebeasy.github.io/news/easy/2017/11/08/トランプ大統領が韓国の国会で演説をする
+- title: <ruby>韓国<rt>かんこく</rt></ruby>で<ruby>冬<rt>ふゆ</rt></ruby>のオリンピックの<ruby>聖火<rt>せいか</rt></ruby>リレーが<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2017/11/02/韓国で冬のオリンピックの聖火リレーが始まる
+- title: ロシアの<ruby>選手<rt>せんしゅ</rt></ruby>のチームはオリンピックに<ruby>出<rt>で</rt></ruby>ることができない
+  url: https://newswebeasy.github.io/news/easy/2017/12/06/ロシアの選手のチームはオリンピックに出ることができない
+...

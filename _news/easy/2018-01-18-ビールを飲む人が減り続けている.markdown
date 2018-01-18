@@ -1,0 +1,79 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011290491000
+last_modified_at: '2018-01-18T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ビールの５つの会社によると、去年工場から店に送った「ビール」と「発泡酒」と「第３のビール」は全部で約５１１万ｋＬでした。
+title: ビールを飲む人が減り続けている
+title_with_ruby: ビールを<ruby>飲<rt>の</rt></ruby>む<ruby>人<rt>ひと</rt></ruby>が<ruby>減<rt>へ</rt></ruby>り<ruby>続<rt>つづ</rt></ruby>けている
+outline: ビールの５つの会社によると、去年工場から店に送った「ビール」と「発泡酒」と「第３のビール」は全部で約５１１万ｋＬでした。
+outline_with_ruby: ビールの５つの<ruby>会社<rt>かいしゃ</rt></ruby>によると、<ruby>去年<rt>きょねん</rt></ruby><ruby>工場<rt>こうじょう</rt></ruby>から<ruby>店<rt>みせ</rt></ruby>に<ruby>送<rt>おく</rt></ruby>った「ビール」と「<ruby>発泡酒<rt>はっぽうしゅ</rt></ruby>」と「<ruby>第<rt>だい</rt></ruby>３のビール」は<ruby>全部<rt>ぜんぶ</rt></ruby>で<ruby>約<rt>やく</rt></ruby>５１１<ruby>万<rt>まん</rt></ruby>ｋＬでした。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/16/K10011290491_1801161148_1801161156_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/18/k10011290491000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\">ビール</span>の５つの<ruby>会社<rt>かいしゃ</rt></ruby>によると、<ruby>去年<rt>きょねん</rt></ruby><ruby>工場<rt>こうじょう</rt></ruby>から<ruby>店<rt>みせ</rt></ruby>に<ruby>送<rt>おく</rt></ruby>った「<span\
+  \ style=\"color: blue;\">ビール</span>」と「<ruby>発泡酒<rt>はっぽうしゅ</rt></ruby>」と「<ruby>第<rt>だい</rt></ruby>３のビール」は<ruby>全部<rt>ぜんぶ</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>５１１<ruby>万<rt>まん</rt></ruby><span\
+  \ style=\"color: blue;\">ｋＬ</span>でした。おととしより２．６％<ruby>少<rt>すく</rt></ruby>なくなって、１３<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<span\
+  \ style=\"color: blue;\"><ruby>減<rt>へ</rt></ruby>り</span>ました。</p>\n<p>「<ruby>発泡酒<rt>はっぽうしゅ</rt></ruby>」と「<ruby>第<rt>だい</rt></ruby>３のビール」は、<span\
+  \ style=\"color: blue;\">ビール</span>のような<ruby>味<rt>あじ</rt></ruby>のお<ruby>酒<rt>さけ</rt></ruby>で、３つの<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span><ruby>全部<rt>ぜんぶ</rt></ruby>が、おととしより<span\
+  \ style=\"color: blue;\"><ruby>減<rt>へ</rt></ruby>っ</span>ています。</p>\n<p><ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\">ビール</span>をあまり<ruby>飲<rt>の</rt></ruby>まなくなったことや、<ruby>去年<rt>きょねん</rt></ruby><ruby>法律<rt>ほうりつ</rt></ruby>が<ruby>変<rt>か</rt></ruby>わって、<ruby>店<rt>みせ</rt></ruby>であまり<ruby>安<rt>やす</rt></ruby>く<ruby>売<rt>う</rt></ruby>ることができなくなったことが<ruby>原因<rt>げんいん</rt></ruby>です。</p>\n\
+  <p><ruby>会社<rt>かいしゃ</rt></ruby>は、３<ruby>月<rt>がつ</rt></ruby>から４<ruby>月<rt>がつ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<span\
+  \ style=\"color: blue;\">ビール</span>の<ruby>値段<rt>ねだん</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げる<ruby>予定<rt>よてい</rt></ruby>です。<span\
+  \ style=\"color: blue;\">トラック</span>などで<span style=\"color: blue;\">ビール</span>を<ruby>運<rt>はこ</rt></ruby>ぶためのお<ruby>金<rt>かね</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなっているからだと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>新<rt>あたら</rt></ruby>しい<ruby>味<rt>あじ</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>香<rt>かお</rt></ruby>り</span>の<span style=\"color:\
+  \ blue;\"><ruby>商品<rt>しょうひん</rt></ruby></span>を<ruby>売<rt>う</rt></ruby>って、<span\
+  \ style=\"color: blue;\">ビール</span>を<ruby>飲<rt>の</rt></ruby>む<ruby>人<rt>ひと</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>増<rt>ふ</rt></ruby>やし</span>たいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ビール
+  descriptions:
+  - <ruby><rb>大麦</rb><rt>おおむぎ</rt></ruby>を<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>にした<ruby><rb>酒</rb><rt>さけ</rt></ruby>。
+- word: 減る
+  descriptions:
+  - <ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。
+  - すく。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: キロリットル
+  descriptions:
+  - メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>量</rb><rt>りょう</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。１キロリットルは、１０００リットル。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「k<span
+    class="dic_italic">l</span>」。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 減る
+  descriptions:
+  - <ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。
+  - すく。
+- word: トラック
+  descriptions:
+  - <ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rt></ruby>。
+- word: 香り
+  descriptions:
+  - いいにおい。
+  - そのものから<ruby><rb>感</rb><rt>かん</rt></ruby>じられる<ruby><rb>品</rb><rt>ひん</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>さ。
+- word: 商品
+  descriptions:
+  - <ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>買</rb><rt>か</rt></ruby>ったりするための<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011290491000/k10011290491000.html
+web_title_with_ruby: <ruby>ビール<rt>びーる</rt></ruby><ruby>系<rt>けい</rt></ruby><ruby>飲料<rt>いんりょう</rt></ruby><ruby>出荷量<rt>しゅっかりょう</rt></ruby>
+  13<ruby>年<rt>ねん</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>で<ruby>過去<rt>かこ</rt></ruby><ruby>最低<rt>さいてい</rt></ruby><ruby>更新<rt>こうしん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/16/ビール系飲料出荷量-13年連続で過去最低更新
+related_news:
+- title: <ruby>今年<rt>ことし</rt></ruby>は<ruby>小麦粉<rt>こむぎこ</rt></ruby>やビールなどの<ruby>値段<rt>ねだん</rt></ruby>を<ruby>高<rt>たか</rt></ruby>くする<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2018/01/05/今年は小麦粉やビールなどの値段を高くする会社が多い
+- title: <ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>使<rt>つか</rt></ruby>ったお<ruby>金<rt>かね</rt></ruby>　<ruby>初<rt>はじ</rt></ruby>めて４<ruby>兆<rt>ちょう</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/01/17/旅行に来た外国人が使ったお金-初めて4兆円以上になる
+...
