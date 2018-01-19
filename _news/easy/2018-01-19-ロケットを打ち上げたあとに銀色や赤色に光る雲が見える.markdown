@@ -1,0 +1,86 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011293131000
+last_modified_at: '2018-01-19T16:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: １８日の朝、鹿児島県から「イプシロン」というロケットが打ち上げられました。
+title: ロケットを打ち上げたあとに銀色や赤色に光る雲が見える
+title_with_ruby: ロケットを<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げたあとに<ruby>銀色<rt>ぎんいろ</rt></ruby>や<ruby>赤<rt>あか</rt></ruby><ruby>色<rt>いろ</rt></ruby>に<ruby>光<rt>ひか</rt></ruby>る<ruby>雲<rt>くも</rt></ruby>が<ruby>見<rt>み</rt></ruby>える
+outline: １８日の朝、鹿児島県から「イプシロン」というロケットが打ち上げられました。
+outline_with_ruby: １８<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>鹿児島県<rt>かごしまけん</rt></ruby>から「イプシロン」というロケットが<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げられました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/18/K10011293131_1801181219_1801181224_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/19/k10011293131000.mp3
+content_with_ruby: "<p>１８<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>鹿児島県<rt>かごしまけん</rt></ruby>から「イプシロン」という<span\
+  \ style=\"color: blue;\">ロケット</span>が<span style=\"color: blue;\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</span>られました。このあと、<span\
+  \ style=\"color: blue;\"><ruby>九州<rt>きゅうしゅう</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>四国<rt>しこく</rt></ruby></span>などで「<ruby>夜光雲<rt>やこううん</rt></ruby>」という<span\
+  \ style=\"color: blue;\"><ruby>銀色<rt>ぎんいろ</rt></ruby></span>や<ruby>赤<rt>あか</rt></ruby><ruby>色<rt>いろ</rt></ruby>に<ruby>光<rt>ひか</rt></ruby>る<ruby>雲<rt>くも</rt></ruby>が<ruby>見<rt>み</rt></ruby>えました。</p>\n\
+  <p><ruby>普通<rt>ふつう</rt></ruby>の<ruby>雲<rt>くも</rt></ruby>は<ruby>高<rt>たか</rt></ruby>さ１０ｋｍぐらいまでの<ruby>所<rt>ところ</rt></ruby>にできます。<ruby>夜光雲<rt>やこううん</rt></ruby>は<ruby>高<rt>たか</rt></ruby>さ８０ｋｍぐらいの<ruby>所<rt>ところ</rt></ruby>にできる<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>の<ruby>雲<rt>くも</rt></ruby>で、<ruby>朝<rt>あさ</rt></ruby>と<ruby>夕方<rt>ゆうがた</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>の<ruby>光<rt>ひかり</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>当<rt>あ</rt></ruby>たる</span>と、きれいな<ruby>色<rt>いろ</rt></ruby>に<ruby>光<rt>ひか</rt></ruby>ります。</p>\n\
+  <p><ruby>気象庁<rt>きしょうちょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>夜光雲<rt>やこううん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>自然<rt>しぜん</rt></ruby></span>にできるのはとても<ruby>珍<rt>めずら</rt></ruby>しいです。１８<ruby>日<rt>にち</rt></ruby>は、<span\
+  \ style=\"color: blue;\">ロケット</span>から<ruby>出<rt>で</rt></ruby>たガスなどが<ruby>小<rt>ちい</rt></ruby>さな<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>になって、<ruby>雲<rt>くも</rt></ruby>ができたと<ruby>考<rt>かんが</rt></ruby>えています」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>鹿児島県<rt>かごしまけん</rt></ruby>でこの<ruby>雲<rt>くも</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>った<ruby>男性<rt>だんせい</rt></ruby>は「<span\
+  \ style=\"color: blue;\">オーロラ</span>のように<ruby>複雑<rt>ふくざつ</rt></ruby>な<ruby>色<rt>いろ</rt></ruby>に<ruby>光<rt>ひか</rt></ruby>っていて、とてもきれいでした」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ロケット
+  descriptions:
+  - <ruby><rb>筒</rb><rt>つつ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れた<ruby><rb>火薬</rb><rt>かやく</rt></ruby>などを<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>させ、<ruby><rb>後</rb><rt>うし</rt></ruby>ろへふき<ruby><rb>出</rb><rt>だ</rt></ruby>すガスの<ruby><rb>勢</rb><rt>いきお</rt></ruby>いの<ruby><rb>反動</rb><rt>はんどう</rt></ruby>で、<ruby><rb>飛</rb><rt>と</rt></ruby>ぶ<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。また、それを<ruby><rb>装置</rb><rt>そうち</rt></ruby>した<ruby><rb>飛行物体</rb><rt>ひこうぶったい</rt></ruby>。
+- word: 打ち上げる
+  descriptions:
+  - （<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - <ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - （<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。
+- word: 銀色
+  descriptions:
+  - <ruby><rb>銀</rb><rt>ぎん</rt></ruby>のように<ruby><rb>白</rb><rt>しろ</rt></ruby>く<ruby><rb>光</rb><rt>ひか</rt></ruby>っている<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+- word: 九州地方
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>南西部</rb><rt>なんせいぶ</rt></ruby>にある<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>福岡</rb><rt>ふくおか</rt></ruby>・<ruby><rb>佐賀</rb><rt>さが</rt></ruby>・<ruby><rb>長崎</rb><rt>ながさき</rt></ruby>・<ruby><rb>熊本</rb><rt>くまもと</rt></ruby>・<ruby><rb>大分</rb><rt>おおいた</rt></ruby>・<ruby><rb>宮崎</rb><rt>みやざき</rt></ruby>・<ruby><rb>鹿児島</rb><rt>かごしま</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の八<ruby><rb>県</rb><rt>けん</rt></ruby>がある。
+- word: 四国地方
+  descriptions:
+  - <ruby><rb>瀬戸内海</rb><rt>せとないかい</rt></ruby>をはさんで<ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>と<ruby><rb>向</rb><rt>む</rt></ruby>かい<ruby><rb>合</rb><rt>あ</rt></ruby>っている<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>島</rb><rt>しま</rt></ruby>。<ruby><rb>香川</rb><rt>かがわ</rt></ruby>・<ruby><rb>高知</rb><rt>こうち</rt></ruby>・<ruby><rb>愛媛</rb><rt>えひめ</rt></ruby>・<ruby><rb>徳島</rb><rt>とくしま</rt></ruby>の四<ruby><rb>県</rb><rt>けん</rt></ruby>がある。
+- word: 氷
+  descriptions:
+  - <ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>０度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。
+- word: 太陽
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。
+- word: 当たる
+  descriptions:
+  - ぶつかる。
+  - <ruby><rb>命中</rb><rt>めいちゅう</rt></ruby>する。
+  - ねらったとおりうまくいく。
+  - （<ruby><rb>光</rb><rt>ひかり</rt></ruby>・<ruby><rb>風</rb><rt>かぜ</rt></ruby>などを）<ruby><rb>受</rb><rt>う</rt></ruby>けるようにする。
+  - ちょうど<ruby><rb>当</rb><rt>あ</rt></ruby>てはまる。
+  - その<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>にある。
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>ける。
+  - <ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。
+  - <ruby><rb>確</rb><rt>たし</rt></ruby>かめる。<ruby><rb>調</rb><rt>しら</rt></ruby>べる。
+  - ひどい<ruby><rb>目</rb><rt>め</rt></ruby>にあわせる。
+- word: 自然
+  descriptions:
+  - <ruby><rb>山</rb><rt>やま</rt></ruby>・<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>草</rb><rt>くさ</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>・<ruby><rb>雲</rb><rt>くも</rt></ruby>・<ruby><rb>雨</rb><rt>あめ</rt></ruby>・<ruby><rb>雪</rb><rt>ゆき</rt></ruby>など、<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>作</rb><rt>つく</rt></ruby>ったものでない<ruby><rb>物</rb><rt>もの</rt></ruby>。
+  - もともとの<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>備</rb><rt>そな</rt></ruby>えていること。
+  - わざとらしくないようす。
+  - ひとりでに。いつのまにか。
+- word: オーロラ
+  descriptions:
+  - <ruby><rb>北極</rb><rt>ほっきょく</rt></ruby>や<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>地方</rb><rt>ちほう</rt></ruby>で、<ruby><rb>空</rb><rt>そら</rt></ruby>に<ruby><rb>光</rb><rt>ひかり</rt></ruby>が<ruby><rb>現</rb><rt>あらわ</rt></ruby>れる<ruby><rb>現象</rb><rt>げんしょう</rt></ruby>。<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>にカーテンを<ruby><rb>下</rb><rt>お</rt></ruby>ろしたように、<ruby><rb>赤</rb><rt>あか</rt></ruby>・<ruby><rb>青</rb><rt>あお</rt></ruby>・<ruby><rb>黄緑</rb><rt>きみどり</rt></ruby>・ピンクなどの<ruby><rb>色</rb><rt>いろ</rt></ruby>が<ruby><rb>見</rb><rt>み</rt></ruby>えかくれする。<ruby><rb>極光</rb><rt>きょっこう</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011293131000/k10011293131000.html
+web_title_with_ruby: <ruby>銀色<rt>ぎんいろ</rt></ruby>や<ruby>赤色<rt>あかいろ</rt></ruby>に<ruby>輝<rt>かがや</rt></ruby>く「<ruby>夜光雲<rt>やこううん</rt></ruby>」<ruby>ロケット<rt>ろけっと</rt></ruby><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ<ruby>後<rt>ご</rt></ruby>に<ruby>各地<rt>かくち</rt></ruby>で<ruby>観測<rt>かんそく</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/18/銀色や赤色に輝く夜光雲ロケット打ち上げ後に各地で観測
+related_news:
+- title: <ruby>新<rt>あたら</rt></ruby>しいロケット「イプシロン」を<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げる
+  url: https://newswebeasy.github.io/news/easy/2018/01/18/新しいロケットイプシロンを打ち上げる
+- title: <ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>長瀞町<rt>ながとろまち</rt></ruby>　<ruby>自然<rt>しぜん</rt></ruby>の<ruby>寒<rt>さむ</rt></ruby>さで<ruby>凍<rt>こお</rt></ruby>った<ruby>氷<rt>こおり</rt></ruby>ができる
+  url: https://newswebeasy.github.io/news/easy/2018/01/17/埼玉県長瀞町-自然の寒さで凍った氷ができる
+- title: ＬＥＤのライトを<ruby>使<rt>つか</rt></ruby>って「<ruby>光<rt>ひか</rt></ruby>るつけまつげ」を<ruby>作<rt>つく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/01/15/LEDのライトを使って光るつけまつげを作る
+...

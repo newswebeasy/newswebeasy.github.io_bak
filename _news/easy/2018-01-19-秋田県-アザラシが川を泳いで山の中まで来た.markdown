@@ -1,0 +1,44 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011292341000
+last_modified_at: '2018-01-19T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: アザラシは寒い海にいることが多い動物です。
+title: 秋田県　アザラシが川を泳いで山の中まで来た
+title_with_ruby: <ruby>秋田県<rt>あきたけん</rt></ruby>　アザラシが<ruby>川<rt>かわ</rt></ruby>を<ruby>泳<rt>およ</rt></ruby>いで<ruby>山<rt>やま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>まで<ruby>来<rt>き</rt></ruby>た
+outline: アザラシは寒い海にいることが多い動物です。
+outline_with_ruby: アザラシは<ruby>寒<rt>さむ</rt></ruby>い<ruby>海<rt>うみ</rt></ruby>にいることが<ruby>多<rt>おお</rt></ruby>い<ruby>動物<rt>どうぶつ</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/17/K10011292341_1801172100_1801172103_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/19/k10011292341000.mp3
+content_with_ruby: "<p>アザラシは<ruby>寒<rt>さむ</rt></ruby>い<ruby>海<rt>うみ</rt></ruby>にいることが<ruby>多<rt>おお</rt></ruby>い<ruby>動物<rt>どうぶつ</rt></ruby>です。１７<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>秋田県<rt>あきたけん</rt></ruby><ruby>能代市<rt>のしろし</rt></ruby>の<ruby>山<rt>やま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>川<rt>かわ</rt></ruby>でアザラシが<ruby>見<rt>み</rt></ruby>つかりました。<ruby>見<rt>み</rt></ruby>つかった<ruby>場所<rt>ばしょ</rt></ruby>は<ruby>海<rt>うみ</rt></ruby>から３０ｋｍもありました。アザラシは、<ruby>川<rt>かわ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>岩<rt>いわ</rt></ruby></span>の<ruby>上<rt>うえ</rt></ruby>で<ruby>横<rt>よこ</rt></ruby>になって、<ruby>時々<rt>ときどき</rt></ruby><span\
+  \ style=\"color: blue;\">あくび</span>をしたり<ruby>目<rt>め</rt></ruby>を<ruby>細<rt>ほそ</rt></ruby>くしたりしています。</p>\n\
+  <p><ruby>山<rt>やま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>川<rt>かわ</rt></ruby>でアザラシが<ruby>見<rt>み</rt></ruby>つかるのは<ruby>珍<rt>めずら</rt></ruby>しいことです。<ruby>近<rt>ちか</rt></ruby>くに<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>たちがアザラシを<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ったりしていました。６<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は「<ruby>横<rt>よこ</rt></ruby>になっていてかわいかったです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>専門家<rt>せんもんか</rt></ruby>は「<ruby>体<rt>からだ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさや<span\
+  \ style=\"color: blue;\"><ruby>模様<rt>もよう</rt></ruby></span>などを<ruby>見<rt>み</rt></ruby>ると、<ruby>若<rt>わか</rt></ruby>いゴマフアザラシだと<ruby>思<rt>おも</rt></ruby>います。<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>海岸<rt>かいがん</rt></ruby>に<ruby>向<rt>む</rt></ruby>かう<ruby>途中<rt>とちゅう</rt></ruby>で、<ruby>川<rt>かわ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってしまったのかもしれません」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 岩
+  descriptions:
+  - <ruby><rb>石</rb><rt>いし</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きなもの。<ruby><rb>岩石</rb><rt>がんせき</rt></ruby>。
+- word: あくび
+  descriptions:
+  - ねむいときやつかれたとき、たいくつなときなどに、ひとりでに<ruby><rb>口</rb><rt>くち</rt></ruby>が<ruby><rb>開</rb><rt>あ</rt></ruby>いてでる<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>息</rb><rt>いき</rt></ruby>。
+- word: 模様
+  descriptions:
+  - かざりにする<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>。
+  - ようす。ありさま。
+source_url: http://www3.nhk.or.jp/news/easy/k10011292341000/k10011292341000.html
+web_title_with_ruby: <ruby>山<rt>やま</rt></ruby>あいの<ruby>川<rt>かわ</rt></ruby>に<ruby>アザラシ<rt>あざらし</rt></ruby><ruby>出現<rt>しゅつげん</rt></ruby>で<ruby>話題<rt>わだい</rt></ruby>に
+  <ruby>秋田<rt>あきた</rt></ruby> <ruby>能代<rt>のしろ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/17/山あいの川にアザラシ出現で話題に-秋田-能代
+related_news:
+- title: 「<ruby>世界津波<rt>せかいつなみ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>」　<ruby>津波<rt>つなみ</rt></ruby>から<ruby>逃<rt>に</rt></ruby>げる<ruby>練習<rt>れんしゅう</rt></ruby>などを<ruby>行<rt>おこな</rt></ruby>った
+  url: https://newswebeasy.github.io/news/easy/2017/11/06/世界津波の日-津波から逃げる練習などを行った
+- title: ヨーロッパ　たくさんの<ruby>雨<rt>あめ</rt></ruby>と<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>で５<ruby>人<rt>にん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2017/10/31/ヨーロッパ-たくさんの雨と強い風で5人亡くなる
+- title: <ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>　パンダの<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>見<rt>み</rt></ruby>ることができるようになる
+  url: https://newswebeasy.github.io/news/easy/2017/12/19/上野動物園-パンダの赤ちゃんを見ることができるようになる
+...

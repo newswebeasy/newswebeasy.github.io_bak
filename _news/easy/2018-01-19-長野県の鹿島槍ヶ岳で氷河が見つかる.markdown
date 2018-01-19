@@ -1,0 +1,64 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011292071000
+last_modified_at: '2018-01-19T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 長野県の鹿島槍ヶ岳という山には、大きな氷の塊があります。
+title: 長野県の鹿島槍ヶ岳で「氷河」が見つかる
+title_with_ruby: <ruby>長野県<rt>ながのけん</rt></ruby>の<ruby>鹿島槍ヶ岳<rt>かしまやりがたけ</rt></ruby>で「<ruby>氷河<rt>ひょうが</rt></ruby>」が<ruby>見<rt>み</rt></ruby>つかる
+outline: 長野県の鹿島槍ヶ岳という山には、大きな氷の塊があります。
+outline_with_ruby: <ruby>長野県<rt>ながのけん</rt></ruby>の<ruby>鹿島槍ヶ岳<rt>かしまやりがたけ</rt></ruby>という<ruby>山<rt>やま</rt></ruby>には、<ruby>大<rt>おお</rt></ruby>きな<ruby>氷<rt>こおり</rt></ruby>の<ruby>塊<rt>かたまり</rt></ruby>があります。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/17/K10011292071_1801171511_1801171517_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/19/k10011292071000.mp3
+content_with_ruby: "<p><ruby>長野県<rt>ながのけん</rt></ruby>の<ruby>鹿島槍ヶ岳<rt>かしまやりがたけ</rt></ruby>という<ruby>山<rt>やま</rt></ruby>には、<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>塊<rt>かたまり</rt></ruby></span>があります。<ruby>信州大学<rt>しんしゅうだいがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby><span\
+  \ style=\"color: blue;\">グループ</span>は、この<span style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>塊<rt>かたまり</rt></ruby></span>が「<ruby>氷河<rt>ひょうが</rt></ruby>」かもしれないと<ruby>考<rt>かんが</rt></ruby>えて、<ruby>調<rt>しら</rt></ruby>べました。<ruby>氷河<rt>ひょうが</rt></ruby>は、<ruby>雪<rt>ゆき</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>になって<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>動<rt>うご</rt></ruby>いているもので、<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>富山県<rt>とやまけん</rt></ruby>に３つあります。</p>\n\
+  <p><ruby>鹿島槍ヶ岳<rt>かしまやりがたけ</rt></ruby>の<span style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>塊<rt>かたまり</rt></ruby></span>は、<ruby>長<rt>なが</rt></ruby>さが７００ｍ、<ruby>厚<rt>あつ</rt></ruby>さが４０ｍ<ruby>以上<rt>いじょう</rt></ruby>ありました。<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>には、<ruby>氷河<rt>ひょうが</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>空気<rt>くうき</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>泡<rt>あわ</rt></ruby></span>が<ruby>残<rt>のこ</rt></ruby>っていました。<span\
+  \ style=\"color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>位置<rt>いち</rt></ruby></span>を<ruby>知<rt>し</rt></ruby>らせるＧＰＳで<ruby>調<rt>しら</rt></ruby>べると、<ruby>２４日<rt>にじゅうよっか</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>が１７ｃｍぐらい<ruby>動<rt>うご</rt></ruby>いたことがわかりました。</p>\n\
+  <p><ruby>研究<rt>けんきゅう</rt></ruby><span style=\"color: blue;\">グループ</span>は、<ruby>長野県<rt>ながのけん</rt></ruby>でも<ruby>氷河<rt>ひょうが</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかったと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 氷
+  descriptions:
+  - <ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>０度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。
+- word: 固まり・
+  descriptions:
+  - かたまったもの。
+  - <ruby><rb>集</rb><rt>あつ</rt></ruby>まり。<ruby><rb>群</rb><rt>む</rt></ruby>れ。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>をそのことだけに<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 泡
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>空気</rb><rt>くうき</rt></ruby>が<ruby><rb>入</rb><rt>はい</rt></ruby>って、<ruby><rb>丸</rb><rt>まる</rt></ruby>くふくれた<ruby><rb>玉</rb><rt>たま</rt></ruby>。あぶく。
+  - （<ruby><rb>口</rb><rt>くち</rt></ruby>から<ruby><rb>出</rb><rt>で</rt></ruby>る）つば。
+- word: 人工衛星
+  descriptions:
+  - ロケットで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げ、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>るようにした、<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>。<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>のようすや<ruby><rb>気象</rb><rt>きしょう</rt></ruby>などを<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>などの<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>の<ruby><rb>中継</rb><rt>ちゅうけい</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>てたりする。
+- word: 位置
+  descriptions:
+  - その<ruby><rb>物</rb><rt>もの</rt></ruby>がある<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+  - <ruby><rb>地位</rb><rt>ちい</rt></ruby>。<ruby><rb>立場</rb><rt>たちば</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011292071000/k10011292071000.html
+web_title_with_ruby: <ruby>北<rt>きた</rt></ruby><ruby>アルプス<rt>あるぷす</rt></ruby><ruby>鹿島槍ヶ岳<rt>かしまやりがたけ</rt></ruby>の<ruby>氷体<rt>ひょうたい</rt></ruby>
+  「<ruby>氷河<rt>ひょうが</rt></ruby>」と<ruby>認定<rt>にんてい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/17/北アルプス鹿島槍ヶ岳の氷体-氷河と認定
+related_news:
+- title: <ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>長瀞町<rt>ながとろまち</rt></ruby>　<ruby>自然<rt>しぜん</rt></ruby>の<ruby>寒<rt>さむ</rt></ruby>さで<ruby>凍<rt>こお</rt></ruby>った<ruby>氷<rt>こおり</rt></ruby>ができる
+  url: https://newswebeasy.github.io/news/easy/2018/01/17/埼玉県長瀞町-自然の寒さで凍った氷ができる
+- title: <ruby>福島第一原発<rt>ふくしまだいいちげんぱつ</rt></ruby>　<ruby>建物<rt>たてもの</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りの<ruby>土<rt>つち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>氷<rt>こおり</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>ができる
+  url: https://newswebeasy.github.io/news/easy/2017/11/02/福島第一原発-建物の周りの土の中に氷の壁ができる
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>　－５℃の<ruby>寒<rt>さむ</rt></ruby>さの<ruby>中<rt>なか</rt></ruby>で３４のカップルが<ruby>結婚<rt>けっこん</rt></ruby><ruby>式<rt>しき</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/01/11/中国-5Cの寒さの中で34のカップルが結婚式を行う
+...
