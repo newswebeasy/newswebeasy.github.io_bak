@@ -20,6 +20,7 @@ summary: <ruby>卓球<rt data-ruby-level="7">たっきゅう</rt></ruby>の<ruby
   data-ruby-level="4">せんしゅ</rt></ruby>が<ruby>史上<rt data-ruby-level="4">しじょう</rt></ruby><ruby>最年少<rt
   data-ruby-level="4">さいねんしょう</rt></ruby>の１４<ruby>歳<rt data-ruby-level="7">さい</rt></ruby>でベスト４に<ruby>進<rt
   data-ruby-level="3">すす</rt></ruby>みました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/20/K10011295651_1801201622_1801201822_01_02.jpg
 more: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby><ruby>体育館<rt data-ruby-level="3">たいいくかん</rt></ruby>で<ruby>開<rt
   data-ruby-level="3">ひら</rt></ruby>かれている<ruby>卓球<rt data-ruby-level="7">たっきゅう</rt></ruby>の<ruby>全日本<rt
   data-ruby-level="3">ぜんにほん</rt></ruby><ruby>選手権<rt data-ruby-level="6">せんしゅけん</rt></ruby>は２０<ruby>日<rt
@@ -109,6 +110,20 @@ more: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby><ruby>体�
   data-ruby-level="3">よてい</rt></ruby>です。<br /><br />（※タカは「<ruby>暁<rt data-ruby-level="7">あかつき</rt></ruby>」の「<ruby>日<rt
   data-ruby-level="1">ひ</rt></ruby>」なし）
 body:
+- title: <ruby>張本<rt data-ruby-level="5">ちょうほん</rt></ruby>「<ruby>気合<rt data-ruby-level="2">きあ</rt></ruby>いを<ruby>入<rt
+    data-ruby-level="1">い</rt></ruby>れて<ruby>戦<rt data-ruby-level="4">たたか</rt></ruby>った」
+  text: <ruby>男子<rt data-ruby-level="1">だんし</rt></ruby>シングルスで<ruby>史上<rt data-ruby-level="4">しじょう</rt></ruby><ruby>最年少<rt
+    data-ruby-level="4">さいねんしょう</rt></ruby>での<ruby>準決勝<rt data-ruby-level="5">じゅんけっしょう</rt></ruby><ruby>進出<rt
+    data-ruby-level="3">しんしゅつ</rt></ruby>を<ruby>決<rt data-ruby-level="3">き</rt></ruby>めた<ruby>張本<rt
+    data-ruby-level="5">ちょうほん</rt></ruby><ruby>選手<rt data-ruby-level="4">せんしゅ</rt></ruby>は、２０<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>の<ruby>準々決勝<rt data-ruby-level="5">じゅんじゅんけっしょう</rt></ruby>について、「<ruby>相手<rt
+    data-ruby-level="3">あいて</rt></ruby>はこれまでと１つレベルの<ruby>違<rt data-ruby-level="7">ちが</rt></ruby>う<ruby>強<rt
+    data-ruby-level="2">つよ</rt></ruby>い<ruby>選手<rt data-ruby-level="4">せんしゅ</rt></ruby>だったので、<ruby>最初<rt
+    data-ruby-level="4">さいしょ</rt></ruby>から<ruby>気合<rt data-ruby-level="2">きあ</rt></ruby>いを<ruby>入<rt
+    data-ruby-level="1">い</rt></ruby>れて<ruby>戦<rt data-ruby-level="4">たたか</rt></ruby>った。ダブルスでは<ruby>敗<rt
+    data-ruby-level="4">やぶ</rt></ruby>れてしまったので、その<ruby>悔<rt data-ruby-level="7">くや</rt></ruby>しさをシングルスにぶつけて<ruby>優勝<rt
+    data-ruby-level="6">ゆうしょう</rt></ruby>したい」と<ruby>意気込<rt data-ruby-level="7">いきご</rt></ruby>みを<ruby>話<rt
+    data-ruby-level="2">はな</rt></ruby>しました。
 - title: <ruby>平野<rt data-ruby-level="3">へいや</rt></ruby>「<ruby>序盤<rt data-ruby-level="7">じょばん</rt></ruby>はミスが<ruby>多<rt
     data-ruby-level="2">おお</rt></ruby>かった」
   text: <ruby>女子<rt data-ruby-level="1">じょし</rt></ruby>シングルスでベスト４に<ruby>進<rt data-ruby-level="3">すす</rt></ruby>んだ<ruby>平野<rt
@@ -134,7 +149,7 @@ body:
     data-ruby-level="1">せんて</rt></ruby>を<ruby>打<rt data-ruby-level="3">う</rt></ruby>って<ruby>厳<rt
     data-ruby-level="6">きび</rt></ruby>しいコースを<ruby>狙<rt data-ruby-level="7">ねら</rt></ruby>うことで<ruby>攻<rt
     data-ruby-level="7">せ</rt></ruby>めの<ruby>試合<rt data-ruby-level="4">しあい</rt></ruby>ができた」と<ruby>話<rt
-    data-ruby-level="2">はな</rt></ruby>しました。<br /><br />そのうえで「あす<ruby>以降<rt data-ruby-level="6">いこう</rt></ruby>も<ruby>攻<rt
+    data-ruby-level="2">はな</rt></ruby>しました。<br /><br />そのうえで、「あす<ruby>以降<rt data-ruby-level="6">いこう</rt></ruby>も<ruby>攻<rt
     data-ruby-level="7">せ</rt></ruby>めの<ruby>気持<rt data-ruby-level="3">きも</rt></ruby>ちを<ruby>持<rt
     data-ruby-level="3">も</rt></ruby>って<ruby>挑戦者<rt data-ruby-level="7">ちょうせんしゃ</rt></ruby>の<ruby>気持<rt
     data-ruby-level="3">きも</rt></ruby>ちで<ruby>臨<rt data-ruby-level="7">のぞ</rt></ruby>みたい」と<ruby>意気込<rt
