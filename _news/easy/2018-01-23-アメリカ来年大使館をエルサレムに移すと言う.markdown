@@ -1,0 +1,61 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011298501000
+last_modified_at: '2018-01-23T17:40:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ふん</rt></ruby>
+description: アメリカのペンス副大統領は２２日、イスラエルに行きました。
+title: アメリカ「来年大使館をエルサレムに移す」と言う
+title_with_ruby: アメリカ「<ruby>来年<rt>らいねん</rt></ruby><ruby>大使館<rt>たいしかん</rt></ruby>をエルサレムに<ruby>移<rt>うつ</rt></ruby>す」と<ruby>言<rt>い</rt></ruby>う
+outline: アメリカのペンス副大統領は２２日、イスラエルに行きました。
+outline_with_ruby: アメリカのペンス<ruby>副<rt>ふく</rt></ruby><ruby>大統領<rt>だいとうりょう</rt></ruby>は２２<ruby>日<rt>にち</rt></ruby>、イスラエルに<ruby>行<rt>い</rt></ruby>きました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/23/K10011298501_1801230923_1801230924_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/23/k10011298501000.mp3
+content_with_ruby: "<p>アメリカのペンス<span style=\"color: blue;\"><ruby>副<rt>ふく</rt></ruby></span><span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は２２<ruby>日<rt>にち</rt></ruby>、イスラエルに<ruby>行<rt>い</rt></ruby>きました。そして、<ruby>来年<rt>らいねん</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまでにアメリカ<ruby>大使館<rt>たいしかん</rt></ruby>をエルサレムに<span\
+  \ style=\"color: blue;\"><ruby>移<rt>うつ</rt></ruby>す</span>と<span style=\"color:\
+  \ blue;\"><ruby>議会<rt>ぎかい</rt></ruby></span>で<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>トランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は<ruby>先月<rt>せんげつ</rt></ruby>、イスラエルの<span\
+  \ style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>はエルサレムだと<ruby>言<rt>い</rt></ruby>いました。そして、<ruby>今<rt>いま</rt></ruby>はテルアビブにあるアメリカ<ruby>大使館<rt>たいしかん</rt></ruby>をエルサレムに<span\
+  \ style=\"color: blue;\"><ruby>移<rt>うつ</rt></ruby>す</span>と<ruby>言<rt>い</rt></ruby>いましたが、いつ<span\
+  \ style=\"color: blue;\"><ruby>移<rt>うつ</rt></ruby>す</span>かは<ruby>言<rt>い</rt></ruby>っていませんでした。</p>\n\
+  <p>イスラエルは<ruby>前<rt>まえ</rt></ruby>から、エルサレムが<span style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>だと<ruby>言<rt>い</rt></ruby>っています。しかし、パレスチナの<ruby>人<rt>ひと</rt></ruby>たちも<ruby>将来<rt>しょうらい</rt></ruby><ruby>国<rt>くに</rt></ruby>をつくるときにはエルサレムを<span\
+  \ style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>にすると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>パレスチナの<ruby>人<rt>ひと</rt></ruby>たちは、アメリカ<ruby>大使館<rt>たいしかん</rt></ruby>を<span style=\"\
+  color: blue;\"><ruby>移<rt>うつ</rt></ruby>す</span>ことに<ruby>反対<rt>はんたい</rt></ruby>して、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\">デモ</span>をすることを<ruby>計画<rt>けいかく</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 移す
+  descriptions:
+  - <ruby><rb>場所</rb><rt>ばしょ</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - ものごとを<ruby><rb>進</rb><rt>すす</rt></ruby>める。
+  - <ruby><rb>感染</rb><rt>かんせん</rt></ruby>させる。
+- word: 副
+  descriptions:
+  - おもなものの<ruby><rb>次</rb><rt>つぎ</rt></ruby>の。ひかえの。
+  - そえるもの。つきもの。
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 議会
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>に<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>について<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めをする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>の<ruby><rb>国会</rb><rt>こっかい</rt></ruby>と、<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>などの<ruby><rb>地方議会</rb><rt>ちほうぎかい</rt></ruby>とがある。
+- word: 首都
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。
+- word: デモ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「デモンストレーション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>認</rb><rt>みと</rt></ruby>めさせようとして、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>勢</rb><rt>いきお</rt></ruby>いを<ruby><rb>示</rb><rt>しめ</rt></ruby>すこと。また、そのための<ruby><rb>行進</rb><rt>こうしん</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011298501000/k10011298501000.html
+web_title_with_ruby: <ruby>米<rt>べい</rt></ruby>「<ruby>来年<rt>らいねん</rt></ruby><ruby>エルサレム<rt>えるされむ</rt></ruby><ruby>移転<rt>いてん</rt></ruby>」に<ruby>パレスチナ<rt>ぱれすちな</rt></ruby><ruby>反発<rt>はんぱつ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/23/米来年エルサレム移転にパレスチナ反発
+related_news:
+- title: トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>「イスラエルの<ruby>首都<rt>しゅと</rt></ruby>はエルサレム」
+  url: https://newswebeasy.github.io/news/easy/2017/12/07/トランプ大統領イスラエルの首都はエルサレム
+- title: <ruby>国連<rt>こくれん</rt></ruby>　「エルサレムが<ruby>首都<rt>しゅと</rt></ruby>」と<ruby>言<rt>い</rt></ruby>うアメリカを<ruby>認<rt>みと</rt></ruby>めない
+  url: https://newswebeasy.github.io/news/easy/2017/12/22/国連-エルサレムが首都と言うアメリカを認めない
+- title: ローマ<ruby>法王<rt>ほうおう</rt></ruby>がクリスマスのメッセージを<ruby>出<rt>だ</rt></ruby>す
+  url: https://newswebeasy.github.io/news/easy/2017/12/26/ローマ法王がクリスマスのメッセージを出す
+...

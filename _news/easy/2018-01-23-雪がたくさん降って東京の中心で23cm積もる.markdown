@@ -1,0 +1,69 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011298261000
+last_modified_at: '2018-01-23T17:40:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ふん</rt></ruby>
+description: 関東地方などでは２２日の午後から、雪がたくさん降りました。
+title: 雪がたくさん降って東京の中心で２３ｃm積もる
+title_with_ruby: <ruby>雪<rt>ゆき</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>って<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby>で２３ｃm<ruby>積<rt>つ</rt></ruby>もる
+outline: 関東地方などでは２２日の午後から、雪がたくさん降りました。
+outline_with_ruby: <ruby>関東地方<rt>かんとうちほう</rt></ruby>などでは２２<ruby>日<rt>にち</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>から、<ruby>雪<rt>ゆき</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/23/K10011298261_1801230444_1801230616_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/23/k10011298261000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>関東地方<rt>かんとうちほう</rt></ruby></span>などでは２２<ruby>日<rt>にち</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>から、<ruby>雪<rt>ゆき</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>りました。<ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<ruby>午後<rt>ごご</rt></ruby>１０<ruby>時<rt>じ</rt></ruby>には<ruby>東京<rt>とうきょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>中心<rt>ちゅうしん</rt></ruby></span>で<ruby>雪<rt>ゆき</rt></ruby>が２３ｃｍ<span\
+  \ style=\"color: blue;\"><ruby>積<rt>つ</rt></ruby>もっ</span>ていました。</p>\n<p><span style=\"\
+  color: blue;\"><ruby>関東地方<rt>かんとうちほう</rt></ruby></span>などでは、<ruby>道<rt>みち</rt></ruby>に<ruby>雪<rt>ゆき</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>積<rt>つ</rt></ruby>もっ</span>て、たくさんの<ruby>車<rt>くるま</rt></ruby>が<ruby>動<rt>うご</rt></ruby>くことができなくなりました。<ruby>電車<rt>でんしゃ</rt></ruby>も<ruby>遅<rt>おく</rt></ruby>れたり、<ruby>止<rt>と</rt></ruby>まったりしました。<ruby>成田空港<rt>なりたくうこう</rt></ruby>では<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>飛<rt>と</rt></ruby>ぶことができなくなったため、９０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>空港<rt>くうこう</rt></ruby>に<ruby>泊<rt>と</rt></ruby>まりました。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>の<span style=\"color: blue;\"><ruby>中心<rt>ちゅうしん</rt></ruby></span>では２３<ruby>日<rt>にち</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby>１０<ruby>時<rt>じ</rt></ruby>になっても、<ruby>雪<rt>ゆき</rt></ruby>が２０ｃｍ<ruby>以上<rt>いじょう</rt></ruby><ruby>残<rt>のこ</rt></ruby>っていました。<ruby>雪<rt>ゆき</rt></ruby>で<ruby>滑<rt>すべ</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>転<rt>ころ</rt></ruby>ん</span>だりしてけがをした<ruby>人<rt>ひと</rt></ruby>は、<ruby>東京<rt>とうきょう</rt></ruby>だけで２２９<ruby>人<rt>にん</rt></ruby>いました。</p>\n\
+  <p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は、これから<span style=\"color: blue;\"><ruby>東北地方<rt>とうほくちほう</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>日本海<rt>にほんかい</rt></ruby></span><ruby>側<rt>がわ</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>北陸地方<rt>ほくりくちほう</rt></ruby></span>などで<ruby>雪<rt>ゆき</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>ってとても<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>くため、<ruby>気<rt>き</rt></ruby>をつけるように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 中心
+  descriptions:
+  - <ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>。
+  - ものごとのいちばんだいじなところ。
+- word: 積もる
+  descriptions:
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かい<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>重</rb><rt>かさ</rt></ruby>なってたまる。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じようなことが<ruby><rb>何度</rb><rt>なんど</rt></ruby>も<ruby><rb>重</rb><rt>かさ</rt></ruby>なって、だんだん<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+- word: 関東地方
+  descriptions:
+  - <ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>ほどにある、<ruby><rb>太平洋側</rb><rt>たいへいようがわ</rt></ruby>の<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>・<ruby><rb>神奈川</rb><rt>かながわ</rt></ruby>・<ruby><rb>埼玉</rb><rt>さいたま</rt></ruby>・<ruby><rb>千葉</rb><rt>ちば</rt></ruby>・<ruby><rb>群馬</rb><rt>ぐんま</rt></ruby>・<ruby><rb>栃木</rb><rt>とちぎ</rt></ruby>・<ruby><rb>茨城</rb><rt>いばらき</rt></ruby>の<ruby><rb>一都六県</rb><rt>いっとろっけん</rt></ruby>がある。
+- word: 積もる
+  descriptions:
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かい<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>重</rb><rt>かさ</rt></ruby>なってたまる。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じようなことが<ruby><rb>何度</rb><rt>なんど</rt></ruby>も<ruby><rb>重</rb><rt>かさ</rt></ruby>なって、だんだん<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+- word: 転ぶ
+  descriptions:
+  - たおれる。ひっくり<ruby><rb>返</rb><rt>かえ</rt></ruby>る。
+- word: 東北地方
+  descriptions:
+  - <ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>の<ruby><rb>北東部</rb><rt>ほくとうぶ</rt></ruby>にあたる<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>青森</rb><rt>あおもり</rt></ruby>・<ruby><rb>秋田</rb><rt>あきた</rt></ruby>・<ruby><rb>岩手</rb><rt>いわて</rt></ruby>・<ruby><rb>宮城</rb><rt>みやぎ</rt></ruby>・<ruby><rb>山形</rb><rt>やまがた</rt></ruby>・<ruby><rb>福島</rb><rt>ふくしま</rt></ruby>の<ruby><rb>六県</rb><rt>ろっけん</rt></ruby>がある。
+- word: 日本海
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>東</rb><rt>ひがし</rt></ruby>と<ruby><rb>日本列島</rb><rt>にほんれっとう</rt></ruby>にはさまれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: 北陸
+  descriptions:
+  - <ruby><rb>中部地方</rb><rt>ちゅうぶちほう</rt></ruby>のうち、<ruby><rb>日本海側</rb><rt>にほんかいがわ</rt></ruby>の<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>福井</rb><rt>ふくい</rt></ruby>・<ruby><rb>石川</rb><rt>いしかわ</rt></ruby>・<ruby><rb>富山</rb><rt>とやま</rt></ruby>・<ruby><rb>新潟</rb><rt>にいがた</rt></ruby>の<ruby><rb>四県</rb><rt>よんけん</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011298261000/k10011298261000.html
+web_title_with_ruby: <ruby>都心<rt>としん</rt></ruby>など<ruby>関東<rt>かんとう</rt></ruby><ruby>各地<rt>かくち</rt></ruby>で<ruby>積雪<rt>せきせつ</rt></ruby>２０<ruby>センチ<rt>せんち</rt></ruby><ruby>超<rt>ちょう</rt></ruby>
+  <ruby>大雪<rt>おおゆき</rt></ruby>や<ruby>路面<rt>ろめん</rt></ruby><ruby>凍結<rt>とうけつ</rt></ruby>に<ruby>警戒<rt>けいかい</rt></ruby>を
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/23/都心など関東各地で積雪20センチ超-大雪や路面凍結に警戒を
+related_news:
+- title: <ruby>富士山<rt>ふじさん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>が<ruby>雪<rt>ゆき</rt></ruby>で<ruby>白<rt>しろ</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2017/10/27/富士山の上が雪で白くなる
+- title: <ruby>札幌<rt>さっぽろ</rt></ruby>　<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>って「ササラ<ruby>電車<rt>でんしゃ</rt></ruby>」が<ruby>出発<rt>しゅっぱつ</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2017/11/21/札幌-雪が降ってササラ電車が出発する
+- title: <ruby>九州<rt>きゅうしゅう</rt></ruby>と<ruby>四国<rt>しこく</rt></ruby>と<ruby>中国地方<rt>ちゅうごくちほう</rt></ruby>で<ruby>初雪<rt>はつゆき</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/12/05/九州と四国と中国地方で初雪
+- title: <ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>函館市<rt>はこだてし</rt></ruby>　<ruby>線路<rt>せんろ</rt></ruby>の<ruby>雪<rt>ゆき</rt></ruby>を<ruby>掃<rt>は</rt></ruby>く「ササラ<ruby>電車<rt>でんしゃ</rt></ruby>」を<ruby>点検<rt>てんけん</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2017/11/15/北海道函館市-線路の雪を掃くササラ電車を点検する
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>　－５℃の<ruby>寒<rt>さむ</rt></ruby>さの<ruby>中<rt>なか</rt></ruby>で３４のカップルが<ruby>結婚<rt>けっこん</rt></ruby><ruby>式<rt>しき</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/01/11/中国-5Cの寒さの中で34のカップルが結婚式を行う
+...
