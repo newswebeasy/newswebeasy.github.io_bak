@@ -1,0 +1,68 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011298581000
+last_modified_at: '2018-01-24T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: アメリカの会社のアマゾンが、レジがなくて店員もいないコンビニをシアトルで始めました。
+title: アマゾンがアメリカでレジがないコンビニを始める
+title_with_ruby: アマゾンがアメリカでレジがないコンビニを<ruby>始<rt>はじ</rt></ruby>める
+outline: アメリカの会社のアマゾンが、レジがなくて店員もいないコンビニをシアトルで始めました。
+outline_with_ruby: アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>のアマゾンが、レジがなくて<ruby>店員<rt>てんいん</rt></ruby>もいないコンビニをシアトルで<ruby>始<rt>はじ</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/23/K10011298581_1801230710_1801230724_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/24/k10011298581000.mp3
+content_with_ruby: "<p>アメリカの<ruby>会社<rt>かいしゃ</rt></ruby>のアマゾンが、レジがなくて<ruby>店員<rt>てんいん</rt></ruby>もいない<span\
+  \ style=\"color: blue;\">コンビニ</span>をシアトルで<ruby>始<rt>はじ</rt></ruby>めました。</p>\n<p>この<span\
+  \ style=\"color: blue;\">コンビニ</span>は、<ruby>入<rt>い</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby>に<ruby>駅<rt>えき</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>改札<rt>かいさつ</rt></ruby></span>のような<ruby>機械<rt>きかい</rt></ruby>があります。<ruby>客<rt>きゃく</rt></ruby>は、アプリを<span\
+  \ style=\"color: blue;\">ダウンロード</span>したスマートフォンをこの<ruby>機械<rt>きかい</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>近<rt>ちか</rt></ruby>づけ</span>て<ruby>店<rt>みせ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。そして、<ruby>買<rt>か</rt></ruby>いたい<ruby>品物<rt>しなもの</rt></ruby>を<ruby>棚<rt>たな</rt></ruby>から<ruby>取<rt>と</rt></ruby>って<ruby>店<rt>みせ</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>るだけで、<span\
+  \ style=\"color: blue;\"><ruby>登録<rt>とうろく</rt></ruby></span>しておいた<span style=\"\
+  color: blue;\">クレジットカード</span>で<span style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>でお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>うことができます。</p>\n\
+  <p><ruby>店<rt>みせ</rt></ruby>の<span style=\"color: blue;\"><ruby>天井<rt>てんじょう</rt></ruby></span>と<ruby>棚<rt>たな</rt></ruby>にはたくさんのカメラと<span\
+  \ style=\"color: blue;\">センサー</span>があります。アマゾンは、コンピューターのＡＩの<ruby>技術<rt>ぎじゅつ</rt></ruby>も<ruby>使<rt>つか</rt></ruby>って、<ruby>誰<rt>だれ</rt></ruby>がどの<ruby>品物<rt>しなもの</rt></ruby>を<ruby>取<rt>と</rt></ruby>ったかわかるようにしていると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: コンビニ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「コンビニエンスストア」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。
+- word: 改札
+  descriptions:
+  - （<ruby><rb>駅</rb><rt>えき</rt></ruby>などの<ruby><rb>出入</rb><rt>でい</rt></ruby>り<ruby><rb>口</rb><rt>ぐち</rt></ruby>で）<ruby><rb>乗客</rb><rt>じょうきゃく</rt></ruby>のきっぷを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。また、その<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: ダウンロード
+  descriptions:
+  - ほかのコンピューターから<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のパソコンなどに、<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>なデータを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>入</rb><rt>い</rt></ruby>れること。
+- word: 近付ける
+  descriptions:
+  - <ruby><rb>近</rb><rt>ちか</rt></ruby>くに<ruby><rb>寄</rb><rt>よ</rt></ruby>せる。
+  - そばへ<ruby><rb>寄</rb><rt>よ</rt></ruby>せて、<ruby><rb>親</rb><rt>した</rt></ruby>しくする。
+- word: 登録
+  descriptions:
+  - <ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などに<ruby><rb>届</rb><rt>とど</rt></ruby>け<ruby><rb>出</rb><rt>で</rt></ruby>て、おおやけに<ruby><rb>認</rb><rt>みと</rt></ruby>めてもらうこと。
+- word: クレジットカード
+  descriptions:
+  - <ruby><rb>現金</rb><rt>げんきん</rt></ruby>を<ruby><rb>払</rb><rt>はら</rt></ruby>わなくても、<ruby><rb>後払</rb><rt>あとばら</rt></ruby>いで<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>物</rb><rt>もの</rt></ruby>をすることができるカード。
+- word: 自動
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。
+- word: 天井
+  descriptions:
+  - <ruby><rb>部屋</rb><rt>へや</rt></ruby>の<ruby><rb>上部</rb><rt>じょうぶ</rt></ruby>に<ruby><rb>板</rb><rt>いた</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>ったもの。また、その<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - ものごとのいちばん<ruby><rb>高</rb><rt>たか</rt></ruby>いところ。
+- word: センサー
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>、<ruby><rb>温度</rb><rt>おんど</rt></ruby>などに<ruby><rb>反応</rb><rt>はんのう</rt></ruby>して、<ruby><rb>電気的</rb><rt>でんきてき</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011298581000/k10011298581000.html
+web_title_with_ruby: <ruby>米<rt>べい</rt></ruby><ruby>アマゾン<rt>あまぞん</rt></ruby> <ruby>レジ<rt>れじ</rt></ruby>がない<ruby>無人<rt>むじん</rt></ruby><ruby>コンビニ<rt>こんびに</rt></ruby><ruby>店舗<rt>てんぽ</rt></ruby>を<ruby>開店<rt>かいてん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/23/米アマゾン-レジがない無人コンビニ店舗を開店
+related_news:
+- title: <ruby>現金<rt>げんきん</rt></ruby>で<ruby>払<rt>はら</rt></ruby>うことができないレストランがオープン
+  url: https://newswebeasy.github.io/news/easy/2017/11/07/現金で払うことができないレストランがオープン
+- title: コンビニが「<ruby>自転車<rt>じてんしゃ</rt></ruby>シェアリング」のサービスなどを<ruby>始<rt>はじ</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2017/12/05/コンビニが自転車シェアリングのサービスなどを始める
+- title: スマートフォンでお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>う<ruby>中国<rt>ちゅうごく</rt></ruby>のサービスが<ruby>駅<rt>えき</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2017/11/22/スマートフォンでお金を払う中国のサービスが駅の店で始まる
+- title: コンピューターやスマートフォンの「ＣＰＵ」に<ruby>問題<rt>もんだい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/12/コンピューターやスマートフォンのCPUに問題
+...

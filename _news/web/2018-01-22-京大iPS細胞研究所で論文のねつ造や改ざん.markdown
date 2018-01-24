@@ -1,0 +1,119 @@
+---
+layout: web_news
+categories: web
+newsid: k10011297591000
+title: 京大ｉＰＳ細胞研究所で論文のねつ造や改ざん
+title_with_ruby: <ruby>京大<rt data-ruby-level="2">きょうだい</rt></ruby>ｉＰＳ<ruby>細胞<rt data-ruby-level="7">さいぼう</rt></ruby><ruby>研究所<rt
+  data-ruby-level="3">けんきゅうじょ</rt></ruby>で<ruby>論文<rt data-ruby-level="6">ろんぶん</rt></ruby>のねつ<ruby>造<rt
+  data-ruby-level="5">ぞう</rt></ruby>や<ruby>改<rt data-ruby-level="4">かい</rt></ruby>ざん
+last_modified_at: '2018-01-22T17:45:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>01<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>22<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 17<ruby>時<rt data-ruby-level="2">じ</rt></ruby>45<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 京都大学はｉＰＳ細胞研究所に所属する助教が中心となって去年発表した論文の１１の図にねつ造などの不正があったと発表しました。大学は、不正はこの助教が行ったと認定し、論文が掲載された雑誌に撤回を申請するとともに、近く関係者を処分することにしています。
+summary: <ruby>京都大学<rt data-ruby-level="3">きょうとだいがく</rt></ruby>はｉＰＳ<ruby>細胞<rt data-ruby-level="7">さいぼう</rt></ruby><ruby>研究所<rt
+  data-ruby-level="3">けんきゅうじょ</rt></ruby>に<ruby>所属<rt data-ruby-level="5">しょぞく</rt></ruby>する<ruby>助教<rt
+  data-ruby-level="3">じょきょう</rt></ruby>が<ruby>中心<rt data-ruby-level="2">ちゅうしん</rt></ruby>となって<ruby>去年<rt
+  data-ruby-level="3">きょねん</rt></ruby><ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>した<ruby>論文<rt
+  data-ruby-level="6">ろんぶん</rt></ruby>の１１の<ruby>図<rt data-ruby-level="2">ず</rt></ruby>にねつ<ruby>造<rt
+  data-ruby-level="5">ぞう</rt></ruby>などの<ruby>不正<rt data-ruby-level="4">ふせい</rt></ruby>があったと<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>しました。<ruby>大学<rt data-ruby-level="1">だいがく</rt></ruby>は、<ruby>不正<rt
+  data-ruby-level="4">ふせい</rt></ruby>はこの<ruby>助教<rt data-ruby-level="3">じょきょう</rt></ruby>が<ruby>行<rt
+  data-ruby-level="2">い</rt></ruby>ったと<ruby>認定<rt data-ruby-level="7">にんてい</rt></ruby>し、<ruby>論文<rt
+  data-ruby-level="6">ろんぶん</rt></ruby>が<ruby>掲載<rt data-ruby-level="7">けいさい</rt></ruby>された<ruby>雑誌<rt
+  data-ruby-level="6">ざっし</rt></ruby>に<ruby>撤回<rt data-ruby-level="7">てっかい</rt></ruby>を<ruby>申請<rt
+  data-ruby-level="7">しんせい</rt></ruby>するとともに、<ruby>近<rt data-ruby-level="2">ちか</rt></ruby>く<ruby>関係者<rt
+  data-ruby-level="4">かんけいしゃ</rt></ruby>を<ruby>処分<rt data-ruby-level="6">しょぶん</rt></ruby>することにしています。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/22/K10011297591_1801221747_1801221748_01_02.jpg
+more: <ruby>京都大学<rt data-ruby-level="3">きょうとだいがく</rt></ruby>ｉＰＳ<ruby>細胞<rt data-ruby-level="7">さいぼう</rt></ruby><ruby>研究所<rt
+  data-ruby-level="3">けんきゅうじょ</rt></ruby>の<ruby>山中<rt data-ruby-level="1">やまなか</rt></ruby><ruby>伸弥<rt
+  data-ruby-level="8">しんや</rt></ruby><ruby>所長<rt data-ruby-level="3">しょちょう</rt></ruby>らは<ruby>記者会見<rt
+  data-ruby-level="3">きしゃかいけん</rt></ruby>を<ruby>開<rt data-ruby-level="3">ひら</rt></ruby>き、<ruby>所属<rt
+  data-ruby-level="5">しょぞく</rt></ruby>する<ruby>山水<rt data-ruby-level="1">さんすい</rt></ruby><ruby>康平<rt
+  data-ruby-level="4">こうへい</rt></ruby><ruby>助教<rt data-ruby-level="3">じょきょう</rt></ruby>が<ruby>中心<rt
+  data-ruby-level="2">ちゅうしん</rt></ruby>となって、<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>２<ruby>月<rt
+  data-ruby-level="1">がつ</rt></ruby>に<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>した<ruby>論文<rt
+  data-ruby-level="6">ろんぶん</rt></ruby>に<ruby>不正<rt data-ruby-level="4">ふせい</rt></ruby>があったと<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>しました。<br /><br /><ruby>論文<rt data-ruby-level="6">ろんぶん</rt></ruby>は、ヒトのｉＰＳ<ruby>細胞<rt
+  data-ruby-level="7">さいぼう</rt></ruby>から<ruby>脳<rt data-ruby-level="6">のう</rt></ruby>の<ruby>血管<rt
+  data-ruby-level="4">けっかん</rt></ruby>にある「<ruby>血液<rt data-ruby-level="5">けつえき</rt></ruby><ruby>脳<rt
+  data-ruby-level="6">のう</rt></ruby><ruby>関門<rt data-ruby-level="4">かんもん</rt></ruby>」という<ruby>組織<rt
+  data-ruby-level="5">そしき</rt></ruby>を<ruby>作<rt data-ruby-level="2">つく</rt></ruby>ることに<ruby>成功<rt
+  data-ruby-level="4">せいこう</rt></ruby>したという<ruby>内容<rt data-ruby-level="5">ないよう</rt></ruby>で、<ruby>主要<rt
+  data-ruby-level="4">しゅよう</rt></ruby>な６つの<ruby>図<rt data-ruby-level="2">ず</rt></ruby>のすべてと<ruby>補足<rt
+  data-ruby-level="6">ほそく</rt></ruby>データの５つの<ruby>図<rt data-ruby-level="2">ず</rt></ruby>の<ruby>合<rt
+  data-ruby-level="2">あ</rt></ruby>わせて１１の<ruby>図<rt data-ruby-level="2">ず</rt></ruby>にねつ<ruby>造<rt
+  data-ruby-level="5">ぞう</rt></ruby>や<ruby>改<rt data-ruby-level="4">かい</rt></ruby>ざんが<ruby>認<rt
+  data-ruby-level="6">みと</rt></ruby>められたということです。<br /><br /><ruby>改<rt data-ruby-level="4">かい</rt></ruby>ざんやねつ<ruby>造<rt
+  data-ruby-level="5">ぞう</rt></ruby>は、<ruby>論文<rt data-ruby-level="6">ろんぶん</rt></ruby>の<ruby>結論<rt
+  data-ruby-level="6">けつろん</rt></ruby>に<ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせて<ruby>操作<rt
+  data-ruby-level="6">そうさ</rt></ruby>されていて、<ruby>大学<rt data-ruby-level="1">だいがく</rt></ruby>ではデータの<ruby>解析<rt
+  data-ruby-level="7">かいせき</rt></ruby>や<ruby>図<rt data-ruby-level="2">ず</rt></ruby>の<ruby>作成<rt
+  data-ruby-level="4">さくせい</rt></ruby>を<ruby>行<rt data-ruby-level="2">い</rt></ruby>った<ruby>山水<rt
+  data-ruby-level="1">さんすい</rt></ruby><ruby>助教<rt data-ruby-level="3">じょきょう</rt></ruby>が<ruby>不正<rt
+  data-ruby-level="4">ふせい</rt></ruby>をしたと<ruby>認定<rt data-ruby-level="7">にんてい</rt></ruby>しました。<br
+  /><br /><ruby>助教<rt data-ruby-level="3">じょきょう</rt></ruby>は「<ruby>私<rt data-ruby-level="8">わたし</rt></ruby>がやりました。<ruby>論文<rt
+  data-ruby-level="6">ろんぶん</rt></ruby>の<ruby>見栄<rt data-ruby-level="7">みば</rt></ruby>えをよくしたかった」と<ruby>話<rt
+  data-ruby-level="2">はな</rt></ruby>しているということです。<br /><br /><ruby>京都大学<rt data-ruby-level="3">きょうとだいがく</rt></ruby>は、<ruby>去年<rt
+  data-ruby-level="3">きょねん</rt></ruby>７<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>、<ruby>論文<rt
+  data-ruby-level="6">ろんぶん</rt></ruby>のデータに<ruby>疑問<rt data-ruby-level="6">ぎもん</rt></ruby>があるという<ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>が<ruby>寄<rt data-ruby-level="5">よ</rt></ruby>せられたことから、<ruby>外部<rt
+  data-ruby-level="3">がいぶ</rt></ruby>の<ruby>有識者<rt data-ruby-level="5">ゆうしきしゃ</rt></ruby>を<ruby>含<rt
+  data-ruby-level="7">ふく</rt></ruby>む<ruby>委員会<rt data-ruby-level="3">いいんかい</rt></ruby>を<ruby>設置<rt
+  data-ruby-level="5">せっち</rt></ruby>して<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby>を<ruby>進<rt
+  data-ruby-level="3">すす</rt></ruby>めてきたということで、<ruby>論文<rt data-ruby-level="6">ろんぶん</rt></ruby>が<ruby>掲載<rt
+  data-ruby-level="7">けいさい</rt></ruby>された<ruby>雑誌<rt data-ruby-level="6">ざっし</rt></ruby>に<ruby>撤回<rt
+  data-ruby-level="7">てっかい</rt></ruby>を<ruby>申請<rt data-ruby-level="7">しんせい</rt></ruby>するとともに、<ruby>近<rt
+  data-ruby-level="2">ちか</rt></ruby>く<ruby>関係者<rt data-ruby-level="4">かんけいしゃ</rt></ruby>を<ruby>処分<rt
+  data-ruby-level="6">しょぶん</rt></ruby>することにしています。<br /><br /><ruby>山中<rt data-ruby-level="1">やまなか</rt></ruby><ruby>伸弥<rt
+  data-ruby-level="8">しんや</rt></ruby><ruby>所長<rt data-ruby-level="3">しょちょう</rt></ruby>は<ruby>会見<rt
+  data-ruby-level="2">かいけん</rt></ruby>の<ruby>中<rt data-ruby-level="1">なか</rt></ruby>で「このような<ruby>不正<rt
+  data-ruby-level="4">ふせい</rt></ruby>を<ruby>防<rt data-ruby-level="5">ふせ</rt></ruby>ぐことができなかったことを<ruby>非常<rt
+  data-ruby-level="5">ひじょう</rt></ruby>に<ruby>反省<rt data-ruby-level="4">はんせい</rt></ruby>している。<ruby>日頃<rt
+  data-ruby-level="7">ひごろ</rt></ruby>から<ruby>応援<rt data-ruby-level="7">おうえん</rt></ruby>してくれている<ruby>皆<rt
+  data-ruby-level="7">みな</rt></ruby>さんに<ruby>心<rt data-ruby-level="2">こころ</rt></ruby>よりおわび<ruby>申<rt
+  data-ruby-level="3">もう</rt></ruby>し<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げます。２<ruby>度<rt
+  data-ruby-level="3">ど</rt></ruby>と<ruby>同<rt data-ruby-level="2">おな</rt></ruby>じようなことが<ruby>起<rt
+  data-ruby-level="3">お</rt></ruby>きないようこれまで<ruby>以上<rt data-ruby-level="4">いじょう</rt></ruby>に<ruby>取<rt
+  data-ruby-level="3">と</rt></ruby>り<ruby>組<rt data-ruby-level="3">く</rt></ruby>んでいきたい」と<ruby>謝罪<rt
+  data-ruby-level="5">しゃざい</rt></ruby>しました。
+movie_url: https://newswebeasy.github.io/ja201801/news/web/movie/2018/01/22/k10011297591_201801221938_201801221943.mp4
+voice_url: https://newswebeasy.github.io/ja201801/news/web/voice/2018/01/22/k10011297591_201801221938_201801221943.mp3
+body:
+- title: <ruby>専門家<rt data-ruby-level="6">せんもんか</rt></ruby>「<ruby>社会<rt data-ruby-level="2">しゃかい</rt></ruby>が<ruby>納得<rt
+    data-ruby-level="7">なっとく</rt></ruby>する<ruby>詳細<rt data-ruby-level="7">しょうさい</rt></ruby>な<ruby>調査<rt
+    data-ruby-level="5">ちょうさ</rt></ruby>を」
+  text: <ruby>研究<rt data-ruby-level="3">けんきゅう</rt></ruby><ruby>不正<rt data-ruby-level="4">ふせい</rt></ruby>に<ruby>詳<rt
+    data-ruby-level="7">くわ</rt></ruby>しい<ruby>大阪大学<rt data-ruby-level="8">おおさかだいがく</rt></ruby>の<ruby>中村<rt
+    data-ruby-level="1">なかむら</rt></ruby><ruby>征樹<rt data-ruby-level="8">まさき</rt></ruby><ruby>准教授<rt
+    data-ruby-level="7">じゅんきょうじゅ</rt></ruby>は「<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby>では<ruby>論文<rt
+    data-ruby-level="6">ろんぶん</rt></ruby>のデータの<ruby>大部分<rt data-ruby-level="3">だいぶぶん</rt></ruby>にねつ<ruby>造<rt
+    data-ruby-level="5">ぞう</rt></ruby>や<ruby>改<rt data-ruby-level="4">かい</rt></ruby>ざんが<ruby>指摘<rt
+    data-ruby-level="7">してき</rt></ruby>されており、これまでｉＰＳ<ruby>細胞<rt data-ruby-level="7">さいぼう</rt></ruby><ruby>研究所<rt
+    data-ruby-level="3">けんきゅうじょ</rt></ruby>はデータの<ruby>管理<rt data-ruby-level="4">かんり</rt></ruby>に<ruby>厳<rt
+    data-ruby-level="6">きび</rt></ruby>しいという<ruby>印象<rt data-ruby-level="4">いんしょう</rt></ruby>をもっていただけに<ruby>驚<rt
+    data-ruby-level="7">おどろ</rt></ruby>いている」としたうえで、「ｉＰＳ<ruby>細胞<rt data-ruby-level="7">さいぼう</rt></ruby>の<ruby>研究<rt
+    data-ruby-level="3">けんきゅう</rt></ruby>は、<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>社会<rt
+    data-ruby-level="2">しゃかい</rt></ruby>の<ruby>期待<rt data-ruby-level="3">きたい</rt></ruby>が<ruby>大<rt
+    data-ruby-level="1">おお</rt></ruby>きい<ruby>分野<rt data-ruby-level="2">ぶんや</rt></ruby>だけに、<ruby>信頼<rt
+    data-ruby-level="7">しんらい</rt></ruby>に<ruby>応<rt data-ruby-level="8">こた</rt></ruby>えるためにも<ruby>不正<rt
+    data-ruby-level="4">ふせい</rt></ruby>がなぜ<ruby>起<rt data-ruby-level="3">お</rt></ruby>きたのか、ほかにも<ruby>不正<rt
+    data-ruby-level="4">ふせい</rt></ruby>はないのか、<ruby>社会<rt data-ruby-level="2">しゃかい</rt></ruby>が<ruby>納得<rt
+    data-ruby-level="7">なっとく</rt></ruby>するだけの<ruby>詳細<rt data-ruby-level="7">しょうさい</rt></ruby>な<ruby>調査<rt
+    data-ruby-level="5">ちょうさ</rt></ruby>を<ruby>行<rt data-ruby-level="2">おこな</rt></ruby>う<ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>がある」と<ruby>指摘<rt data-ruby-level="7">してき</rt></ruby>しています。
+source_url: https://www3.nhk.or.jp/news/html/20180122/k10011297591000.html
+easy_title_with_ruby: <ruby>京都大学<rt data-ruby-level="3">きょうとだいがく</rt></ruby>「ｉＰＳ<ruby>細胞<rt
+  data-ruby-level="7">さいぼう</rt></ruby>の<ruby>研究<rt data-ruby-level="3">けんきゅう</rt></ruby>の<ruby>論文<rt
+  data-ruby-level="6">ろんぶん</rt></ruby>にうその<ruby>図<rt data-ruby-level="2">ず</rt></ruby>があった」
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/01/24/京都大学iPS細胞の研究の論文にうその図があった
+related_news:
+- title: <ruby>北<rt data-ruby-level="2">きた</rt></ruby><ruby>アルプス<rt data-ruby-level="2">あるぷす</rt></ruby><ruby>鹿島槍ヶ岳<rt
+    data-ruby-level="8">かしまやりがたけ</rt></ruby>の<ruby>氷体<rt data-ruby-level="3">ひょうたい</rt></ruby>
+    「<ruby>氷河<rt data-ruby-level="5">ひょうが</rt></ruby>」と<ruby>認定<rt data-ruby-level="7">にんてい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/17/北アルプス鹿島槍ヶ岳の氷体-氷河と認定
+- title: ＧＭＯインターネット １<ruby>万<rt data-ruby-level="2">まん</rt></ruby>4600<ruby>件<rt data-ruby-level="5">けん</rt></ruby><ruby>余<rt
+    data-ruby-level="5">よ</rt></ruby>の<ruby>顧客<rt data-ruby-level="7">こきゃく</rt></ruby><ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby><ruby>流出<rt data-ruby-level="3">りゅうしゅつ</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/10/30/GMOインターネット-1万4600件余の顧客情報流出
+...

@@ -1,0 +1,89 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011299461000
+last_modified_at: '2018-01-24T16:10:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>10<ruby>分<rt>ふん</rt></ruby>
+description: ＪＲ東海は、和歌山県の新宮駅で２１日の朝、出発する前の特急の点検で、車体の下にある部品にひびが見つかったと発表しました。
+title: ＪＲの特急で車体の下にある部品に２０ｃｍのひびが見つかる
+title_with_ruby: ＪＲの<ruby>特急<rt>とっきゅう</rt></ruby>で<ruby>車体<rt>しゃたい</rt></ruby>の<ruby>下<rt>した</rt></ruby>にある<ruby>部品<rt>ぶひん</rt></ruby>に２０ｃｍのひびが<ruby>見<rt>み</rt></ruby>つかる
+outline: ＪＲ東海は、和歌山県の新宮駅で２１日の朝、出発する前の特急の点検で、車体の下にある部品にひびが見つかったと発表しました。
+outline_with_ruby: ＪＲ<ruby>東海<rt>とうかい</rt></ruby>は、<ruby>和歌山県<rt>わかやまけん</rt></ruby>の<ruby>新宮駅<rt>しんぐうえき</rt></ruby>で２１<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>出発<rt>しゅっぱつ</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>の<ruby>特急<rt>とっきゅう</rt></ruby>の<ruby>点検<rt>てんけん</rt></ruby>で、<ruby>車体<rt>しゃたい</rt></ruby>の<ruby>下<rt>した</rt></ruby>にある<ruby>部品<rt>ぶひん</rt></ruby>にひびが<ruby>見<rt>み</rt></ruby>つかったと<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/23/K10011299461_1801231734_1801231737_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/24/k10011299461000.mp3
+content_with_ruby: "<p>ＪＲ<ruby>東海<rt>とうかい</rt></ruby>は、<ruby>和歌山県<rt>わかやまけん</rt></ruby>の<ruby>新宮駅<rt>しんぐうえき</rt></ruby>で２１<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>出発<rt>しゅっぱつ</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>の<ruby>特急<rt>とっきゅう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>点検<rt>てんけん</rt></ruby></span>で、<span style=\"color:\
+  \ blue;\"><ruby>車体<rt>しゃたい</rt></ruby></span>の<ruby>下<rt>した</rt></ruby>にある<span\
+  \ style=\"color: blue;\"><ruby>部品<rt>ぶひん</rt></ruby></span>に<span style=\"color:\
+  \ blue;\">ひび</span>が<ruby>見<rt>み</rt></ruby>つかったと<span style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<span\
+  \ style=\"color: blue;\"><ruby>車輪<rt>しゃりん</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>安定<rt>あんてい</rt></ruby></span>するように<span style=\"color: blue;\"><ruby>軸<rt>じく</rt></ruby></span>に<span\
+  \ style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>い</span>ている<span style=\"color:\
+  \ blue;\"><ruby>部品<rt>ぶひん</rt></ruby></span>で、<span style=\"color: blue;\"><ruby>鉄<rt>てつ</rt></ruby></span>でできています。<span\
+  \ style=\"color: blue;\">ひび</span>の<ruby>長<rt>なが</rt></ruby>さは２０ｃｍありました。</p>\n<p>この<ruby>特急<rt>とっきゅう</rt></ruby>は<ruby>和歌山県<rt>わかやまけん</rt></ruby>の<ruby>紀伊勝浦駅<rt>きいかつうらえき</rt></ruby>から<ruby>愛知県<rt>あいちけん</rt></ruby>の<ruby>名古屋駅<rt>なごやえき</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>でしたが、<ruby>運転<rt>うんてん</rt></ruby>をやめました。</p>\n\
+  <p>ＪＲ<ruby>東海<rt>とうかい</rt></ruby>は、<ruby>同<rt>おな</rt></ruby>じ<span style=\"color:\
+  \ blue;\">タイプ</span>の８０<span style=\"color: blue;\"><ruby>両<rt>りょう</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>点検<rt>てんけん</rt></ruby></span>をしましたが、<ruby>問題<rt>もんだい</rt></ruby>は<ruby>見<rt>み</rt></ruby>つかっていないと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>ＪＲ<ruby>東海<rt>とうかい</rt></ruby>は、<span style=\"color: blue;\">ひび</span>ができた<ruby>原因<rt>げんいん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 車体
+  descriptions:
+  - <ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>や<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>などの、<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>乗</rb><rt>の</rt></ruby>せる<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+- word: 部品
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などを<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てている、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>の<ruby><rb>品</rb><rt>しな</rt></ruby>。<ruby><rb>部分品</rb><rt>ぶぶんひん</rt></ruby>。
+- word: ひび
+  descriptions:
+  - ガラス・かべ・<ruby><rb>焼</rb><rt>や</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>・ぬり<ruby><rb>物</rb><rt>もの</rt></ruby>などの<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>にできる、<ruby><rb>細</rb><rt>ほそ</rt></ruby>いさけ<ruby><rb>目</rb><rt>め</rt></ruby>。
+  - <ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>手</rb><rt>て</rt></ruby>や<ruby><rb>足</rb><rt>あし</rt></ruby>などの<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>にできる、<ruby><rb>細</rb><rt>こま</rt></ruby>かいさけ<ruby><rb>目</rb><rt>め</rt></ruby>。
+  - <ruby><rb>仲間割</rb><rt>なかまわ</rt></ruby>れ。
+- word: 点検
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つよく<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 車輪
+  descriptions:
+  - <ruby><rb>車</rb><rt>くるま</rt></ruby>の<ruby><rb>輪</rb><rt>わ</rt></ruby>。くるま。
+- word: 安定
+  descriptions:
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いが<ruby><rb>取</rb><rt>と</rt></ruby>れて、すわりがよいこと。
+  - <ruby><rb>激</rb><rt>はげ</rt></ruby>しい<ruby><rb>変化</rb><rt>へんか</rt></ruby>がないこと。
+- word: 軸
+  descriptions:
+  - じく。<ruby><rb>回転</rb><rt>かいてん</rt></ruby>するものの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>棒</rb><rt>ぼう</rt></ruby>。<ruby><rb>心棒</rb><rt>しんぼう</rt></ruby>。
+  - <ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となるもの。かなめ。
+  - <ruby><rb>筆</rb><rt>ふで</rt></ruby>やマッチなどの、<ruby><rb>手</rb><rt>て</rt></ruby>で<ruby><rb>持</rb><rt>も</rt></ruby>つところ。
+  - かけじく。
+- word: 付く
+  descriptions:
+  - ものがくっつく。
+  - つきそう。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>わる。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まる。
+  - <ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。
+  - <ruby><rb>感</rb><rt>かん</rt></ruby>じる。
+  - ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。
+- word: 鉄
+  descriptions:
+  - <ruby><rb>鉄鉱石</rb><rt>てっこうせき</rt></ruby>から<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>した<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。かたくて<ruby><rb>使</rb><rt>つか</rt></ruby>いみちが<ruby><rb>広</rb><rt>ひろ</rt></ruby>い。
+  - かたくて<ruby><rb>強</rb><rt>つよ</rt></ruby>い。
+  - <ruby><rb>鉄道</rb><rt>てつどう</rt></ruby>のこと。
+- word: タイプ
+  descriptions:
+  - <ruby><rb>型</rb><rt>かた</rt></ruby>。<ruby><rb>類型</rb><rt>るいけい</rt></ruby>。
+- word: 両
+  descriptions:
+  - <ruby><rb>二</rb><rt>ふた</rt></ruby>つ。
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>のお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+  - <ruby><rb>鉄道</rb><rt>てつどう</rt></ruby>で、<ruby><rb>車</rb><rt>くるま</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+source_url: http://www3.nhk.or.jp/news/easy/k10011299461000/k10011299461000.html
+web_title_with_ruby: <ruby>ＪＲ東海<rt>じぇーあーるとうかい</rt></ruby> <ruby>特急<rt>とっきゅう</rt></ruby><ruby>列車<rt>れっしゃ</rt></ruby>の<ruby>台車<rt>だいしゃ</rt></ruby><ruby>部品<rt>ぶひん</rt></ruby>に<ruby>約<rt>やく</rt></ruby>20<ruby>センチ<rt>せんち</rt></ruby>の<ruby>亀裂<rt>きれつ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/23/JR東海-特急列車の台車部品に約20センチの亀裂
+related_news:
+- title: <ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>車両<rt>しゃりょう</rt></ruby>の<ruby>下<rt>した</rt></ruby>にひびが<ruby>見<rt>み</rt></ruby>つかる
+  url: https://newswebeasy.github.io/news/easy/2017/12/13/新幹線の車両の下にひびが見つかる
+...
