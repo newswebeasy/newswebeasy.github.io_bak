@@ -1,0 +1,73 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011300931000
+last_modified_at: '2018-01-25T16:10:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>10<ruby>分<rt>ふん</rt></ruby>
+description: ２３日、群馬県にある草津白根山で噴火がありました。
+title: 噴火でけがをした男性が「助かったよ」と書いて妻と会話
+title_with_ruby: <ruby>噴火<rt>ふんか</rt></ruby>でけがをした<ruby>男性<rt>だんせい</rt></ruby>が「<ruby>助<rt>たす</rt></ruby>かったよ」と<ruby>書<rt>か</rt></ruby>いて<ruby>妻<rt>つま</rt></ruby>と<ruby>会話<rt>かいわ</rt></ruby>
+outline: ２３日、群馬県にある草津白根山で噴火がありました。
+outline_with_ruby: ２３<ruby>日<rt>にち</rt></ruby>、<ruby>群馬県<rt>ぐんまけん</rt></ruby>にある<ruby>草津白根山<rt>くさつしらねさん</rt></ruby>で<ruby>噴火<rt>ふんか</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/24/K10011300931_1801241801_1801241814_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/25/k10011300931000.mp3
+content_with_ruby: "<p>２３<ruby>日<rt>にち</rt></ruby>、<ruby>群馬県<rt>ぐんまけん</rt></ruby>にある<ruby>草津白根山<rt>くさつしらねさん</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>がありました。この<span style=\"\
+  color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>で<ruby>近<rt>ちか</rt></ruby>くにある<ruby>草津国際<rt>くさつこくさい</rt></ruby>スキー<ruby>場<rt>じょう</rt></ruby>には<ruby>石<rt>いし</rt></ruby>が<ruby>飛<rt>と</rt></ruby>んできて、<span\
+  \ style=\"color: blue;\"><ruby>訓練<rt>くんれん</rt></ruby></span>をしていた<span style=\"\
+  color: blue;\"><ruby>自衛隊<rt>じえいたい</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>が<ruby>１人<rt>ひとり</rt></ruby><ruby>亡<rt>な</rt></ruby>くなりました。ほかにも１１<ruby>人<rt>にん</rt></ruby>がけがをしました。<span\
+  \ style=\"color: blue;\">スキー</span><span style=\"color: blue;\"><ruby>場<rt>じょう</rt></ruby></span>に<ruby>落<rt>お</rt></ruby>ちていた<ruby>石<rt>いし</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には<ruby>大<rt>おお</rt></ruby>きさが５０ｃｍから６０ｃｍぐらいの<ruby>石<rt>いし</rt></ruby>もありました。</p>\n\
+  <p><ruby>前橋赤十字病院<rt>まえばしせきじゅうじびょういん</rt></ruby>には、ひどいけがをした<span style=\"color: blue;\"\
+  ><ruby>自衛隊<rt>じえいたい</rt></ruby></span>の<ruby>男性<rt>だんせい</rt></ruby>が<ruby>運<rt>はこ</rt></ruby>ばれました。<ruby>医者<rt>いしゃ</rt></ruby>によると、<ruby>男性<rt>だんせい</rt></ruby>は<ruby>病院<rt>びょういん</rt></ruby>に<ruby>来<rt>き</rt></ruby>たときは<span\
+  \ style=\"color: blue;\"><ruby>心臓<rt>しんぞう</rt></ruby></span>が<ruby>止<rt>と</rt></ruby>まりそうでした。<span\
+  \ style=\"color: blue;\"><ruby>手術<rt>しゅじゅつ</rt></ruby></span>をして、<ruby>２４日<rt>にじゅうよっか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>は、<ruby>男性<rt>だんせい</rt></ruby>は<ruby>妻<rt>つま</rt></ruby>と<ruby>紙<rt>かみ</rt></ruby>に<ruby>言葉<rt>ことば</rt></ruby>を<ruby>書<rt>か</rt></ruby>いて<ruby>会話<rt>かいわ</rt></ruby>ができるぐらい<ruby>元気<rt>げんき</rt></ruby>になりました。<ruby>男性<rt>だんせい</rt></ruby>と<ruby>妻<rt>つま</rt></ruby>は<ruby>泣<rt>な</rt></ruby>きながら「<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>かっ</span>たよ」「<ruby>頑張<rt>がんば</rt></ruby>ったね」などと<ruby>書<rt>か</rt></ruby>いていました。</p>\n\
+  <p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>草津白根山<rt>くさつしらねさん</rt></ruby>ではこれからも<span\
+  \ style=\"color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>する<span style=\"color:\
+  \ blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があるため、<span style=\"color: blue;\"\
+  ><ruby>噴火口<rt>ふんかこう</rt></ruby></span>から２ｋｍ<ruby>以内<rt>いない</rt></ruby>には<ruby>入<rt>はい</rt></ruby>らないように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 噴火
+  descriptions:
+  - <ruby><rb>火山</rb><rt>かざん</rt></ruby>が<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>して、とけた<ruby><rb>溶岩</rb><rt>ようがん</rt></ruby>や、<ruby><rb>火山灰</rb><rt>かざんばい</rt></ruby>・<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>・ガスをふき<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 助かる
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないこと、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、のがれる。
+  - <ruby><rb>費用</rb><rt>ひよう</rt></ruby>や<ruby><rb>苦労</rb><rt>くろう</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくてすむ。
+- word: 訓練
+  descriptions:
+  - <ruby><rb>教</rb><rt>おし</rt></ruby>えて、<ruby><rb>慣</rb><rt>な</rt></ruby>れさせること。また、うまくできるように<ruby><rb>練習</rb><rt>れんしゅう</rt></ruby>すること。
+- word: 自衛隊
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために、<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby><ruby><rb>後</rb><rt>ご</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>防衛組織</rb><rt>ぼうえいそしき</rt></ruby>。<ruby><rb>陸上</rb><rt>りくじょう</rt></ruby>・<ruby><rb>海上</rb><rt>かいじょう</rt></ruby>・<ruby><rb>航空</rb><rt>こうくう</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>かれる。
+- word: スキー
+  descriptions:
+  - くつに<ruby><rb>取</rb><rt>と</rt></ruby>りつけて、<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>板</rb><rt>いた</rt></ruby>。
+  - 「<span class="dic_sansyogogi">1)</span>」を<ruby><rb>使</rb><rt>つか</rt></ruby>って<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。
+- word: 場
+  descriptions:
+  - ばしょ。
+- word: 心臓
+  descriptions:
+  - <ruby><rb>胸</rb><rt>むね</rt></ruby>の<ruby><rb>左側</rb><rt>ひだりがわ</rt></ruby>にあって、<ruby><rb>血液</rb><rt>けつえき</rt></ruby>を<ruby><rb>体</rb><rt>からだ</rt></ruby>じゅうに<ruby><rb>送</rb><rt>おく</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>すポンプの<ruby><rb>役目</rb><rt>やくめ</rt></ruby>をする<ruby><rb>器官</rb><rt>きかん</rt></ruby>。こぶしぐらいの<ruby><rb>大</rb><rt>おお</rt></ruby>きさで、<ruby><rb>左右</rb><rt>さゆう</rt></ruby>の<ruby><rb>心房</rb><rt>しんぼう</rt></ruby>と<ruby><rb>左右</rb><rt>さゆう</rt></ruby>の<ruby><rb>心室</rb><rt>しんしつ</rt></ruby>の<ruby><rb>四</rb><rt>よっ</rt></ruby>つの<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>からできている。
+  - ものごとの<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>な<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>度胸</rb><rt>どきょう</rt></ruby>がよくて、<ruby><rb>物</rb><rt>もの</rt></ruby>おじしないこと。
+- word: 手術
+  descriptions:
+  - <ruby><rb>医者</rb><rt>いしゃ</rt></ruby>が、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>や<ruby><rb>傷</rb><rt>きず</rt></ruby>のところを、<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>開</rb><rt>ひら</rt></ruby>いたり<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>取</rb><rt>と</rt></ruby>ったりして、<ruby><rb>治療</rb><rt>ちりょう</rt></ruby>すること。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 噴火口
+  descriptions:
+  - <ruby><rb>噴火</rb><rt>ふんか</rt></ruby>のときに、とけた<ruby><rb>岩</rb><rt>いわ</rt></ruby>やガスなどのふき<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>火口</rb><rt>かこう</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011300931000/k10011300931000.html
+web_title_with_ruby: 「<ruby>涙<rt>なみだ</rt></ruby>ながらに<ruby>筆談<rt>ひつだん</rt></ruby>」<ruby>意識<rt>いしき</rt></ruby><ruby>不明<rt>ふめい</rt></ruby>の<ruby>自衛隊員<rt>じえいたいいん</rt></ruby>が<ruby>回復<rt>かいふく</rt></ruby>
+  <ruby>草津<rt>くさつ</rt></ruby><ruby>白根山<rt>しらねさん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/24/涙ながらに筆談意識不明の自衛隊員が回復-草津白根山
+related_news:
+- title: <ruby>群馬県<rt>ぐんまけん</rt></ruby>にある<ruby>草津白根山<rt>くさつしらねさん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>　<ruby>雪崩<rt>なだれ</rt></ruby>も<ruby>起<rt>お</rt></ruby>こる
+  url: https://newswebeasy.github.io/news/easy/2018/01/23/群馬県にある草津白根山が噴火-雪崩も起こる
+...

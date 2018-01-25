@@ -1,0 +1,172 @@
+---
+layout: web_news
+categories: web
+newsid: k10011299151000
+title: 物流業界の人手不足対策でトラック隊列走行実験
+title_with_ruby: <ruby>物流<rt data-ruby-level="3">ぶつりゅう</rt></ruby><ruby>業界<rt data-ruby-level="3">ぎょうかい</rt></ruby>の<ruby>人手<rt
+  data-ruby-level="1">ひとで</rt></ruby><ruby>不足<rt data-ruby-level="4">ぶそく</rt></ruby><ruby>対策<rt
+  data-ruby-level="6">たいさく</rt></ruby>でトラック<ruby>隊列<rt data-ruby-level="4">たいれつ</rt></ruby><ruby>走行<rt
+  data-ruby-level="2">そうこう</rt></ruby><ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>
+last_modified_at: '2018-01-23T14:08:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>01<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>23<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 14<ruby>時<rt data-ruby-level="2">じ</rt></ruby>08<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 深刻化している物流業界のドライバー不足の解消につなげようと、高速道路で人が運転するトラックの後ろを自動運転のトラックが追尾して走行する実証実験が行われました。
+summary: <ruby>深刻化<rt data-ruby-level="6">しんこくか</rt></ruby>している<ruby>物流<rt data-ruby-level="3">ぶつりゅう</rt></ruby><ruby>業界<rt
+  data-ruby-level="3">ぎょうかい</rt></ruby>のドライバー<ruby>不足<rt data-ruby-level="4">ぶそく</rt></ruby>の<ruby>解消<rt
+  data-ruby-level="5">かいしょう</rt></ruby>につなげようと、<ruby>高速道路<rt data-ruby-level="3">こうそくどうろ</rt></ruby>で<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>が<ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby>するトラックの<ruby>後<rt
+  data-ruby-level="2">うし</rt></ruby>ろを<ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt
+  data-ruby-level="3">うんてん</rt></ruby>のトラックが<ruby>追尾<rt data-ruby-level="7">ついび</rt></ruby>して<ruby>走行<rt
+  data-ruby-level="2">そうこう</rt></ruby>する<ruby>実証<rt data-ruby-level="5">じっしょう</rt></ruby><ruby>実験<rt
+  data-ruby-level="4">じっけん</rt></ruby>が<ruby>行<rt data-ruby-level="2">おこな</rt></ruby>われました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/23/K10011299151_1801231531_1801231555_01_02.jpg
+more: この<ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>は、<ruby>国土交通省<rt data-ruby-level="4">こくどこうつうしょう</rt></ruby>と<ruby>経済産業省<rt
+  data-ruby-level="6">けいざいさんぎょうしょう</rt></ruby>、それに<ruby>大手<rt data-ruby-level="1">おおて</rt></ruby>トラックメーカーなどが<ruby>行<rt
+  data-ruby-level="2">い</rt></ruby>ったもので、<ruby>新東名<rt data-ruby-level="2">しんとうな</rt></ruby><ruby>高速道路<rt
+  data-ruby-level="3">こうそくどうろ</rt></ruby>の<ruby>浜松<rt data-ruby-level="7">はままつ</rt></ruby>サービスエリアから<ruby>遠州<rt
+  data-ruby-level="3">えんしゅう</rt></ruby><ruby>森町<rt data-ruby-level="1">もりまち</rt></ruby>パーキングエリアまでのおよそ１５キロの<ruby>区間<rt
+  data-ruby-level="3">くかん</rt></ruby>で２３<ruby>日<rt data-ruby-level="1">にち</rt></ruby>から<ruby>始<rt
+  data-ruby-level="3">はじ</rt></ruby>まりました。<br /><br /><ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>では、<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>が<ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby>するトラックの<ruby>後<rt
+  data-ruby-level="2">うし</rt></ruby>ろを<ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt
+  data-ruby-level="3">うんてん</rt></ruby>のトラック２<ruby>台<rt data-ruby-level="2">だい</rt></ruby>が<ruby>隊列<rt
+  data-ruby-level="4">たいれつ</rt></ruby>を<ruby>組<rt data-ruby-level="2">く</rt></ruby>むように<ruby>追尾<rt
+  data-ruby-level="7">ついび</rt></ruby>します。<ruby>後<rt data-ruby-level="2">うし</rt></ruby>ろを<ruby>走<rt
+  data-ruby-level="2">はし</rt></ruby>るトラックはアクセルやブレーキが<ruby>自動<rt data-ruby-level="3">じどう</rt></ruby>で<ruby>制御<rt
+  data-ruby-level="7">せいぎょ</rt></ruby>されますが、<ruby>運転席<rt data-ruby-level="4">うんてんせき</rt></ruby>には<ruby>不測<rt
+  data-ruby-level="5">ふそく</rt></ruby>の<ruby>事態<rt data-ruby-level="5">じたい</rt></ruby>に<ruby>備<rt
+  data-ruby-level="5">そな</rt></ruby>えて<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>が<ruby>乗車<rt
+  data-ruby-level="3">じょうしゃ</rt></ruby>しています。<br />３<ruby>台<rt data-ruby-level="2">だい</rt></ruby>のトラックは、およそ３０メートルの<ruby>車間距離<rt
+  data-ruby-level="7">しゃかんきょり</rt></ruby>をとりながら、<ruby>時速<rt data-ruby-level="3">じそく</rt></ruby>８０キロのスピードで<ruby>安全<rt
+  data-ruby-level="3">あんぜん</rt></ruby>に<ruby>走行<rt data-ruby-level="2">そうこう</rt></ruby>していました。<br
+  /><br /><ruby>国土交通省<rt data-ruby-level="4">こくどこうつうしょう</rt></ruby>と<ruby>経済産業省<rt
+  data-ruby-level="6">けいざいさんぎょうしょう</rt></ruby>は、<ruby>安全性<rt data-ruby-level="5">あんぜんせい</rt></ruby>などを<ruby>検証<rt
+  data-ruby-level="5">けんしょう</rt></ruby>したうえで、２０２０<ruby>年度<rt data-ruby-level="3">ねんど</rt></ruby>には１<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>のドライバーで<ruby>大量<rt data-ruby-level="4">たいりょう</rt></ruby>の<ruby>荷物<rt
+  data-ruby-level="3">にもつ</rt></ruby>を<ruby>運<rt data-ruby-level="3">はこ</rt></ruby>べる<ruby>無人<rt
+  data-ruby-level="4">むじん</rt></ruby>トラックの<ruby>隊列<rt data-ruby-level="4">たいれつ</rt></ruby><ruby>走行<rt
+  data-ruby-level="2">そうこう</rt></ruby>を<ruby>実現<rt data-ruby-level="5">じつげん</rt></ruby>させたいとしています。<br
+  /><br /><ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>に<ruby>参加<rt data-ruby-level="4">さんか</rt></ruby>した<ruby>日野自動車<rt
+  data-ruby-level="3">ひのじどうしゃ</rt></ruby><ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby><ruby>研究所<rt
+  data-ruby-level="3">けんきゅうしょ</rt></ruby>の<ruby>榎本<rt data-ruby-level="8">えのもと</rt></ruby><ruby>英彦<rt
+  data-ruby-level="8">ひでひこ</rt></ruby><ruby>所長<rt data-ruby-level="3">しょちょう</rt></ruby>は「<ruby>長距離<rt
+  data-ruby-level="7">ちょうきょり</rt></ruby><ruby>輸送<rt data-ruby-level="5">ゆそう</rt></ruby>のドライバーは<ruby>人手<rt
+  data-ruby-level="1">ひとで</rt></ruby><ruby>不足<rt data-ruby-level="4">ぶそく</rt></ruby>が<ruby>続<rt
+  data-ruby-level="4">つづ</rt></ruby>いているだけでなく、ドライバーの<ruby>負担<rt data-ruby-level="6">ふたん</rt></ruby>も<ruby>大<rt
+  data-ruby-level="1">おお</rt></ruby>きいと<ruby>聞<rt data-ruby-level="2">き</rt></ruby>いている。<ruby>自動<rt
+  data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby>の<ruby>技術<rt
+  data-ruby-level="5">ぎじゅつ</rt></ruby>で<ruby>現場<rt data-ruby-level="5">げんば</rt></ruby>の<ruby>負担<rt
+  data-ruby-level="6">ふたん</rt></ruby>を<ruby>少<rt data-ruby-level="2">すこ</rt></ruby>しでも<ruby>減<rt
+  data-ruby-level="5">へ</rt></ruby>らしたい」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。
+body:
+- title: <ruby>国交<rt data-ruby-level="2">こっこう</rt></ruby><ruby>相<rt data-ruby-level="7">しょう</rt></ruby>「<ruby>物流<rt
+    data-ruby-level="3">ぶつりゅう</rt></ruby>の<ruby>生産性<rt data-ruby-level="5">せいさんせい</rt></ruby><ruby>向上<rt
+    data-ruby-level="3">こうじょう</rt></ruby>への<ruby>効果<rt data-ruby-level="5">こうか</rt></ruby>に<ruby>期待<rt
+    data-ruby-level="3">きたい</rt></ruby>」
+  text: <ruby>石井<rt data-ruby-level="7">いしい</rt></ruby><ruby>国土<rt data-ruby-level="2">こくど</rt></ruby><ruby>交通<rt
+    data-ruby-level="2">こうつう</rt></ruby><ruby>大臣<rt data-ruby-level="4">だいじん</rt></ruby>は２３<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>の<ruby>閣議後<rt data-ruby-level="6">かくぎご</rt></ruby>の<ruby>会見<rt
+    data-ruby-level="2">かいけん</rt></ruby>で、「ドライバー<ruby>不足<rt data-ruby-level="4">ぶそく</rt></ruby>の<ruby>解消<rt
+    data-ruby-level="5">かいしょう</rt></ruby>や<ruby>隊列<rt data-ruby-level="4">たいれつ</rt></ruby>を<ruby>組<rt
+    data-ruby-level="2">く</rt></ruby>むことによる<ruby>燃費<rt data-ruby-level="5">ねんぴ</rt></ruby>の<ruby>改善<rt
+    data-ruby-level="6">かいぜん</rt></ruby>など、<ruby>物流<rt data-ruby-level="3">ぶつりゅう</rt></ruby>の<ruby>生産性<rt
+    data-ruby-level="5">せいさんせい</rt></ruby><ruby>向上<rt data-ruby-level="3">こうじょう</rt></ruby>に<ruby>大<rt
+    data-ruby-level="1">おお</rt></ruby>きな<ruby>効果<rt data-ruby-level="5">こうか</rt></ruby>が<ruby>期待<rt
+    data-ruby-level="3">きたい</rt></ruby>されている。<ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>の<ruby>実証<rt
+    data-ruby-level="5">じっしょう</rt></ruby><ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>では、トラックの<ruby>隊列<rt
+    data-ruby-level="4">たいれつ</rt></ruby>が<ruby>周囲<rt data-ruby-level="4">しゅうい</rt></ruby>の<ruby>一般<rt
+    data-ruby-level="7">いっぱん</rt></ruby><ruby>車両<rt data-ruby-level="3">しゃりょう</rt></ruby>からどう<ruby>認識<rt
+    data-ruby-level="7">にんしき</rt></ruby>され、どのような<ruby>影響<rt data-ruby-level="7">えいきょう</rt></ruby>を<ruby>与<rt
+    data-ruby-level="7">あた</rt></ruby>えるかについて<ruby>検証<rt data-ruby-level="5">けんしょう</rt></ruby>を<ruby>行<rt
+    data-ruby-level="2">おこな</rt></ruby>い、<ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>の<ruby>結果<rt
+    data-ruby-level="4">けっか</rt></ruby>を<ruby>踏<rt data-ruby-level="7">ふ</rt></ruby>まえてトラック<ruby>隊列<rt
+    data-ruby-level="4">たいれつ</rt></ruby><ruby>走行<rt data-ruby-level="2">そうこう</rt></ruby>の<ruby>実現<rt
+    data-ruby-level="5">じつげん</rt></ruby>に<ruby>向<rt data-ruby-level="3">む</rt></ruby>け<ruby>取<rt
+    data-ruby-level="3">と</rt></ruby>り<ruby>組<rt data-ruby-level="3">く</rt></ruby>みを<ruby>進<rt
+    data-ruby-level="3">すす</rt></ruby>めていく」と<ruby>述<rt data-ruby-level="5">の</rt></ruby>べました。
+- title: <ruby>変革<rt data-ruby-level="6">へんかく</rt></ruby><ruby>迫<rt data-ruby-level="7">せま</rt></ruby>られる<ruby>物流<rt
+    data-ruby-level="3">ぶつりゅう</rt></ruby><ruby>業界<rt data-ruby-level="3">ぎょうかい</rt></ruby>
+  text: <ruby>物流<rt data-ruby-level="3">ぶつりゅう</rt></ruby><ruby>業界<rt data-ruby-level="3">ぎょうかい</rt></ruby>では<ruby>深刻化<rt
+    data-ruby-level="6">しんこくか</rt></ruby>するドライバーの<ruby>人手<rt data-ruby-level="1">ひとで</rt></ruby><ruby>不足<rt
+    data-ruby-level="4">ぶそく</rt></ruby>や<ruby>高齢化<rt data-ruby-level="7">こうれいか</rt></ruby>を<ruby>解消<rt
+    data-ruby-level="5">かいしょう</rt></ruby>しようと<ruby>模索<rt data-ruby-level="7">もさく</rt></ruby>が<ruby>続<rt
+    data-ruby-level="4">つづ</rt></ruby>いています。<br /><br /><ruby>業界<rt data-ruby-level="3">ぎょうかい</rt></ruby><ruby>団体<rt
+    data-ruby-level="5">だんたい</rt></ruby>の<ruby>全日本<rt data-ruby-level="3">ぜんにほん</rt></ruby>トラック<ruby>協会<rt
+    data-ruby-level="4">きょうかい</rt></ruby>が<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby><ruby>行<rt
+    data-ruby-level="2">い</rt></ruby>った<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby>では、<ruby>会員<rt
+    data-ruby-level="3">かいいん</rt></ruby><ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>のうち６２％が<ruby>労働力<rt
+    data-ruby-level="4">ろうどうりょく</rt></ruby>が<ruby>足<rt data-ruby-level="1">た</rt></ruby>りないと<ruby>回答<rt
+    data-ruby-level="2">かいとう</rt></ruby>するなど、ドライバーの<ruby>人手<rt data-ruby-level="1">ひとで</rt></ruby><ruby>不足<rt
+    data-ruby-level="4">ぶそく</rt></ruby>と<ruby>高齢化<rt data-ruby-level="7">こうれいか</rt></ruby>が<ruby>深刻化<rt
+    data-ruby-level="6">しんこくか</rt></ruby>しています。<br /><br />このため、<ruby>業界<rt data-ruby-level="3">ぎょうかい</rt></ruby><ruby>大手<rt
+    data-ruby-level="1">おおて</rt></ruby>の「<ruby>ヤマト<rt data-ruby-level="5">やまと</rt></ruby><ruby>運輸<rt
+    data-ruby-level="5">うんゆ</rt></ruby>」や「<ruby>西濃運輸<rt data-ruby-level="7">せいのううんゆ</rt></ruby>」などは<ruby>荷物<rt
+    data-ruby-level="3">にもつ</rt></ruby>をより<ruby>効率的<rt data-ruby-level="5">こうりつてき</rt></ruby>に<ruby>運<rt
+    data-ruby-level="3">はこ</rt></ruby>べるよう、<ruby>大型<rt data-ruby-level="4">おおがた</rt></ruby>トラックの<ruby>後<rt
+    data-ruby-level="2">うし</rt></ruby>ろにトレーラーを<ruby>連結<rt data-ruby-level="4">れんけつ</rt></ruby>させて<ruby>運<rt
+    data-ruby-level="3">はこ</rt></ruby>ぶ<ruby>取<rt data-ruby-level="3">と</rt></ruby>り<ruby>組<rt
+    data-ruby-level="3">く</rt></ruby>みを<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>めました。また<ruby>国土交通省<rt
+    data-ruby-level="4">こくどこうつうしょう</rt></ruby>などは、ドライバーの<ruby>負担<rt data-ruby-level="6">ふたん</rt></ruby>を<ruby>軽減<rt
+    data-ruby-level="5">けいげん</rt></ruby>しようと、<ruby>自分<rt data-ruby-level="2">じぶん</rt></ruby>で<ruby>荷物<rt
+    data-ruby-level="3">にもつ</rt></ruby>の<ruby>積<rt data-ruby-level="6">つ</rt></ruby>み<ruby>降<rt
+    data-ruby-level="6">お</rt></ruby>ろしをしなくても<ruby>済<rt data-ruby-level="6">す</rt></ruby>むよう、トラックの<ruby>運転席<rt
+    data-ruby-level="4">うんてんせき</rt></ruby>と<ruby>荷台<rt data-ruby-level="3">にだい</rt></ruby>を<ruby>簡単<rt
+    data-ruby-level="6">かんたん</rt></ruby>に<ruby>分離<rt data-ruby-level="7">ぶんり</rt></ruby>できる<ruby>特殊<rt
+    data-ruby-level="7">とくしゅ</rt></ruby>なトラックの<ruby>導入<rt data-ruby-level="5">どうにゅう</rt></ruby>を<ruby>支援<rt
+    data-ruby-level="7">しえん</rt></ruby>しています。<br /><br /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>、<ruby>物流<rt
+    data-ruby-level="3">ぶつりゅう</rt></ruby>サービスを<ruby>利用<rt data-ruby-level="4">りよう</rt></ruby>する「<ruby>荷主<rt
+    data-ruby-level="3">にぬし</rt></ruby>」<ruby>側<rt data-ruby-level="4">がわ</rt></ruby>でも<ruby>人手<rt
+    data-ruby-level="1">ひとで</rt></ruby><ruby>不足<rt data-ruby-level="4">ぶそく</rt></ruby>に<ruby>対応<rt
+    data-ruby-level="5">たいおう</rt></ruby>する<ruby>動<rt data-ruby-level="3">うご</rt></ruby>きが<ruby>出<rt
+    data-ruby-level="1">で</rt></ruby>ています。ビール<ruby>業界<rt data-ruby-level="3">ぎょうかい</rt></ruby>では、<ruby>激<rt
+    data-ruby-level="6">はげ</rt></ruby>しい<ruby>販売<rt data-ruby-level="7">はんばい</rt></ruby><ruby>競争<rt
+    data-ruby-level="4">きょうそう</rt></ruby>を<ruby>繰<rt data-ruby-level="7">く</rt></ruby>り<ruby>広<rt
+    data-ruby-level="7">ひろ</rt></ruby>げる<ruby>大手<rt data-ruby-level="1">おおて</rt></ruby>ビールメーカー４<ruby>社<rt
+    data-ruby-level="2">しゃ</rt></ruby>が<ruby>手<rt data-ruby-level="1">て</rt></ruby>を<ruby>組<rt
+    data-ruby-level="2">く</rt></ruby>み、<ruby>北海道<rt data-ruby-level="2">ほっかいどう</rt></ruby>で<ruby>商品<rt
+    data-ruby-level="3">しょうひん</rt></ruby>を<ruby>共同<rt data-ruby-level="4">きょうどう</rt></ruby><ruby>配送<rt
+    data-ruby-level="3">はいそう</rt></ruby>する<ruby>取<rt data-ruby-level="3">と</rt></ruby>り<ruby>組<rt
+    data-ruby-level="3">く</rt></ruby>みを<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>めています。<br
+    /><br /><ruby>物流<rt data-ruby-level="3">ぶつりゅう</rt></ruby><ruby>業界<rt data-ruby-level="3">ぎょうかい</rt></ruby>では、ネット<ruby>通販<rt
+    data-ruby-level="7">つうはん</rt></ruby>の<ruby>普及<rt data-ruby-level="7">ふきゅう</rt></ruby>に<ruby>伴<rt
+    data-ruby-level="7">ともな</rt></ruby>って<ruby>宅配便<rt data-ruby-level="6">たくはいびん</rt></ruby>の<ruby>取<rt
+    data-ruby-level="7">と</rt></ruby>り<ruby>扱<rt data-ruby-level="7">あつか</rt></ruby>いが<ruby>増<rt
+    data-ruby-level="5">ふ</rt></ruby>え<ruby>続<rt data-ruby-level="5">つづ</rt></ruby>けており、<ruby>最新<rt
+    data-ruby-level="4">さいしん</rt></ruby>の<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>を<ruby>活用<rt
+    data-ruby-level="2">かつよう</rt></ruby>した<ruby>物流<rt data-ruby-level="3">ぶつりゅう</rt></ruby>の<ruby>効率化<rt
+    data-ruby-level="5">こうりつか</rt></ruby>や<ruby>現場<rt data-ruby-level="5">げんば</rt></ruby>の<ruby>負担<rt
+    data-ruby-level="6">ふたん</rt></ruby>の<ruby>軽減<rt data-ruby-level="5">けいげん</rt></ruby>をどう<ruby>進<rt
+    data-ruby-level="3">すす</rt></ruby>めるかが、<ruby>共通<rt data-ruby-level="4">きょうつう</rt></ruby>の<ruby>課題<rt
+    data-ruby-level="4">かだい</rt></ruby>となっています。
+source_url: https://www3.nhk.or.jp/news/html/20180123/k10011299151000.html
+easy_title_with_ruby: <ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby>のトラックで<ruby>荷物<rt
+  data-ruby-level="3">にもつ</rt></ruby>を<ruby>運<rt data-ruby-level="3">はこ</rt></ruby>ぶための<ruby>実験<rt
+  data-ruby-level="4">じっけん</rt></ruby>が<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>まる
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/01/25/自動運転のトラックで荷物を運ぶための実験が始まる
+related_news:
+- title: ＡＩでバス<ruby>運転手<rt data-ruby-level="3">うんてんしゅ</rt></ruby>の<ruby>表情<rt data-ruby-level="5">ひょうじょう</rt></ruby>など<ruby>分析<rt
+    data-ruby-level="7">ぶんせき</rt></ruby> <ruby>安全<rt data-ruby-level="3">あんぜん</rt></ruby><ruby>管理<rt
+    data-ruby-level="4">かんり</rt></ruby>の<ruby>新<rt data-ruby-level="2">しん</rt></ruby>システム
+  url: https://newswebeasy.github.io/news/web/2017/12/12/AIでバス運転手の表情など分析-安全管理の新システム
+- title: <ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby><ruby>免許証<rt data-ruby-level="7">めんきょしょう</rt></ruby>
+    75<ruby>歳以上<rt data-ruby-level="7">さいいじょう</rt></ruby>の<ruby>自主<rt data-ruby-level="3">じしゅ</rt></ruby><ruby>返納<rt
+    data-ruby-level="6">へんのう</rt></ruby> <ruby>最多<rt data-ruby-level="4">さいた</rt></ruby>の25<ruby>万人<rt
+    data-ruby-level="2">まんにん</rt></ruby><ruby>余<rt data-ruby-level="5">よ</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/20/運転免許証-75歳以上の自主返納-最多の25万人余
+- title: <ruby>米海兵隊<rt data-ruby-level="4">べいかいへいたい</rt></ruby><ruby>員<rt data-ruby-level="3">いん</rt></ruby>が<ruby>飲酒<rt
+    data-ruby-level="3">いんしゅ</rt></ruby><ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby>で<ruby>事故<rt
+    data-ruby-level="5">じこ</rt></ruby> <ruby>在日<rt data-ruby-level="5">ざいにち</rt></ruby><ruby>米軍<rt
+    data-ruby-level="4">べいぐん</rt></ruby>が<ruby>飲酒<rt data-ruby-level="3">いんしゅ</rt></ruby><ruby>禁止<rt
+    data-ruby-level="5">きんし</rt></ruby>などを<ruby>指示<rt data-ruby-level="5">しじ</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/11/20/米海兵隊員が飲酒運転で事故-在日米軍が飲酒禁止などを指示
+- title: <ruby>完<rt data-ruby-level="4">かん</rt></ruby><ruby>全自動<rt data-ruby-level="3">ぜんじどう</rt></ruby><ruby>運転<rt
+    data-ruby-level="3">うんてん</rt></ruby><ruby>車<rt data-ruby-level="1">しゃ</rt></ruby>
+    17<ruby>年後<rt data-ruby-level="2">ねんご</rt></ruby>は４<ruby>台<rt data-ruby-level="2">だい</rt></ruby>に１<ruby>台<rt
+    data-ruby-level="2">だい</rt></ruby>に <ruby>民間<rt data-ruby-level="4">みんかん</rt></ruby>コンサルが<ruby>試算<rt
+    data-ruby-level="4">しさん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/15/完全自動運転車-17年後は4台に1台に-民間コンサルが試算
+- title: ドライブレコーダー<ruby>販売<rt data-ruby-level="7">はんばい</rt></ruby>が<ruby>倍増<rt data-ruby-level="5">ばいぞう</rt></ruby>
+    <ruby>交通<rt data-ruby-level="2">こうつう</rt></ruby>トラブル<ruby>防止<rt data-ruby-level="5">ぼうし</rt></ruby>で
+  url: https://newswebeasy.github.io/news/web/2017/12/24/ドライブレコーダー販売が倍増-交通トラブル防止で
+...

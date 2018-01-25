@@ -1,0 +1,80 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011300241000
+last_modified_at: '2018-01-25T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: アメリカの団体などが、ロボットが月から写真や映像を送る競争を行っていて、日本やアメリカのチームなどが参加しています。
+title: ロボットが月から写真を送る競争「勝つチームはなさそう」
+title_with_ruby: ロボットが<ruby>月<rt>つき</rt></ruby>から<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る<ruby>競争<rt>きょうそう</rt></ruby>「<ruby>勝<rt>か</rt></ruby>つチームはなさそう」
+outline: アメリカの団体などが、ロボットが月から写真や映像を送る競争を行っていて、日本やアメリカのチームなどが参加しています。
+outline_with_ruby: アメリカの<ruby>団体<rt>だんたい</rt></ruby>などが、ロボットが<ruby>月<rt>つき</rt></ruby>から<ruby>写真<rt>しゃしん</rt></ruby>や<ruby>映像<rt>えいぞう</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る<ruby>競争<rt>きょうそう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>っていて、<ruby>日本<rt>にっぽん</rt></ruby>やアメリカのチームなどが<ruby>参加<rt>さんか</rt></ruby>しています。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/24/K10011300241_1801240707_1801240709_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/25/k10011300241000.mp3
+content_with_ruby: "<p>アメリカの<span style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>などが、<span\
+  \ style=\"color: blue;\">ロボット</span>が<span style=\"color: blue;\"><ruby>月<rt>つき</rt></ruby></span>から<ruby>写真<rt>しゃしん</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>映像<rt>えいぞう</rt></ruby></span>を<ruby>送<rt>おく</rt></ruby>る<ruby>競争<rt>きょうそう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>っていて、<ruby>日本<rt>にっぽん</rt></ruby>やアメリカの<span\
+  \ style=\"color: blue;\">チーム</span>などが<span style=\"color: blue;\"><ruby>参加<rt>さんか</rt></ruby></span>しています。<ruby>今年<rt>ことし</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまでに、<span\
+  \ style=\"color: blue;\">ロボット</span>からいちばん<ruby>早<rt>はや</rt></ruby>く<span style=\"\
+  color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>に<ruby>写真<rt>しゃしん</rt></ruby>などを<ruby>送<rt>おく</rt></ruby>った<span\
+  \ style=\"color: blue;\">チーム</span>が、<span style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>２０<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>をもらいます。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の<span style=\"color: blue;\">チーム</span>は、<span style=\"\
+  color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>の<ruby>仕事<rt>しごと</rt></ruby>をしたいと<ruby>考<rt>かんが</rt></ruby>えている<ruby>会社<rt>かいしゃ</rt></ruby>や<ruby>大学<rt>だいがく</rt></ruby>で<ruby>研究<rt>けんきゅう</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>などの「ＨＡＫＵＴＯ」という<span\
+  \ style=\"color: blue;\">チーム</span>です。</p>\n<p>この<ruby>競争<rt>きょうそう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>っている<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>は２３<ruby>日<rt>にち</rt></ruby>、３<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまでに<span\
+  \ style=\"color: blue;\">ロボット</span>が<span style=\"color: blue;\"><ruby>月<rt>つき</rt></ruby></span>に<ruby>着<rt>つ</rt></ruby>くことができそうな<span\
+  \ style=\"color: blue;\">チーム</span>はないと<span style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。このため、<ruby>勝<rt>か</rt></ruby>つ<span\
+  \ style=\"color: blue;\">チーム</span>がないまま<ruby>競争<rt>きょうそう</rt></ruby>が<ruby>終<rt>お</rt></ruby>わりそうだと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>は「<span style=\"\
+  color: blue;\"><ruby>月<rt>つき</rt></ruby></span>に<ruby>行<rt>い</rt></ruby>くことはとても<ruby>難<rt>むずか</rt></ruby>しいです。<ruby>勝<rt>か</rt></ruby>つ<span\
+  \ style=\"color: blue;\">チーム</span>がないことは<ruby>残念<rt>ざんねん</rt></ruby>です」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ロボット
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>磁気</rb><rt>じき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。<ruby><rb>人造</rb><rt>じんぞう</rt></ruby><ruby><rb>人間</rb><rt>にんげん</rt></ruby>。
+  - <ruby><rb>工場</rb><rt>こうじょう</rt></ruby>などで<ruby><rb>人間</rb><rt>にんげん</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって、<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。
+  - （いつも）<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>いなりになって<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 月
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>る<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>で、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>にいちばん<ruby><rb>近</rb><rt>ちか</rt></ruby>い<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>約</rb><rt>やく</rt></ruby><ruby><rb>一</rb><rt>いっ</rt></ruby>か<ruby><rb>月</rb><rt>げつ</rt></ruby>で<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>をひと<ruby><rb>回</rb><rt>まわ</rt></ruby>りする。
+  - <ruby><rb>１年</rb><rt>いちねん</rt></ruby>を１２に<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 映像
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>によって<ruby><rb>映</rb><rt>うつ</rt></ruby>し<ruby><rb>出</rb><rt>だ</rt></ruby>された、<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+  - <ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にうかんだ<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やようす。イメージ。
+- word: 参加
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>３番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 宇宙
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011300241000/k10011300241000.html
+web_title_with_ruby: <ruby>月<rt>つき</rt></ruby>は<ruby>遠<rt>とお</rt></ruby>かった… <ruby>世界初<rt>せかいはつ</rt></ruby>の<ruby>月面<rt>げつめん</rt></ruby><ruby>探査<rt>たんさ</rt></ruby><ruby>レース<rt>れーす</rt></ruby>
+  <ruby>勝者<rt>しょうしゃ</rt></ruby>なく<ruby>終了<rt>しゅうりょう</rt></ruby>へ
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/24/月は遠かった-世界初の月面探査レース-勝者なく終了へ
+related_news:
+- title: ＮＡＳＡ「<ruby>月<rt>つき</rt></ruby>の<ruby>地下<rt>ちか</rt></ruby>で<ruby>宇宙飛行士<rt>うちゅうひこうし</rt></ruby>が<ruby>生活<rt>せいかつ</rt></ruby>できるかもしれない」
+  url: https://newswebeasy.github.io/news/easy/2017/11/13/NASA月の地下で宇宙飛行士が生活できるかもしれない
+- title: 「みんなで<ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>する<ruby>力<rt>ちから</rt></ruby>」<ruby>日本<rt>にっぽん</rt></ruby>の１５<ruby>歳<rt>さい</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>で２<ruby>番<rt>ばん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/11/24/みんなで問題を解決する力日本の15歳は世界で2番
+...

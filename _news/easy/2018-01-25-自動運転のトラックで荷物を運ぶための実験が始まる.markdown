@@ -1,0 +1,69 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011299151000
+last_modified_at: '2018-01-25T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 荷物を運ぶ会社では、トラックを運転する人が足りなくなっています。
+title: 自動運転のトラックで荷物を運ぶための実験が始まる
+title_with_ruby: <ruby>自動<rt>じどう</rt></ruby><ruby>運転<rt>うんてん</rt></ruby>のトラックで<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶための<ruby>実験<rt>じっけん</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+outline: 荷物を運ぶ会社では、トラックを運転する人が足りなくなっています。
+outline_with_ruby: <ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>会社<rt>かいしゃ</rt></ruby>では、トラックを<ruby>運転<rt>うんてん</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなっています。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/23/K10011299151_1801231531_1801231555_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/25/k10011299151000.mp3
+content_with_ruby: "<p><ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>会社<rt>かいしゃ</rt></ruby>では、<span\
+  \ style=\"color: blue;\">トラック</span>を<ruby>運転<rt>うんてん</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなっています。<span\
+  \ style=\"color: blue;\"><ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby></span>などは、<span style=\"\
+  color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span><ruby>運転<rt>うんてん</rt></ruby>の<span\
+  \ style=\"color: blue;\">トラック</span>で<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶための<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>を<ruby>静岡県<rt>しずおかけん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>高速道路<rt>こうそくどうろ</rt></ruby></span>で<ruby>始<rt>はじ</rt></ruby>めました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>では、<ruby>人<rt>ひと</rt></ruby>が<ruby>運転<rt>うんてん</rt></ruby>している<span\
+  \ style=\"color: blue;\">トラック</span>の<ruby>後<rt>うし</rt></ruby>ろに<span style=\"color:\
+  \ blue;\"><ruby>自動<rt>じどう</rt></ruby></span><ruby>運転<rt>うんてん</rt></ruby>の<span style=\"\
+  color: blue;\">トラック</span>が２<ruby>台<rt>だい</rt></ruby><ruby>続<rt>つづ</rt></ruby>いて<ruby>走<rt>はし</rt></ruby>ります。<ruby>前<rt>まえ</rt></ruby>の<span\
+  \ style=\"color: blue;\">トラック</span>との<ruby>間<rt>あいだ</rt></ruby>を３０ｍぐらいにしながら、<span\
+  \ style=\"color: blue;\"><ruby>時速<rt>じそく</rt></ruby></span>８０ｋｍで<ruby>走<rt>はし</rt></ruby>ります。<span\
+  \ style=\"color: blue;\">トラック</span>を<ruby>運転<rt>うんてん</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>は<ruby>１人<rt>ひとり</rt></ruby>ですが、たくさんの<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶことができます。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby></span>などは、<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>を<ruby>続<rt>つづ</rt></ruby>けて、２０２０<span\
+  \ style=\"color: blue;\"><ruby>年度<rt>ねんど</rt></ruby></span>には<span style=\"color:\
+  \ blue;\"><ruby>自動<rt>じどう</rt></ruby></span><ruby>運転<rt>うんてん</rt></ruby>の<span style=\"\
+  color: blue;\">トラック</span>を<ruby>使<rt>つか</rt></ruby>って<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶことができるようにしたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 自動
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。
+- word: トラック
+  descriptions:
+  - <ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rt></ruby>。
+- word: 実験
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。
+- word: 国土交通省
+  descriptions:
+  - <ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>建物</rb><rt>たてもの</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>交通</rb><rt>こうつう</rt></ruby>・<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>の<ruby><rb>運送</rb><rt>うんそう</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>国交省</rb><rt>こっこうしょう</rt></ruby>。
+- word: 高速道路
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>が<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>走</rb><rt>はし</rt></ruby>れるように、<ruby><rb>立体交差</rb><rt>りったいこうさ</rt></ruby>にしたり、<ruby><rb>上</rb><rt>のぼ</rt></ruby>り<ruby><rb>下</rb><rt>くだ</rt></ruby>りを<ruby><rb>分</rb><rt>わ</rt></ruby>けたりした<ruby><rb>道路</rb><rt>どうろ</rt></ruby>。ハイウエー。
+- word: 時速
+  descriptions:
+  - <ruby><rb>一時間</rb><rt>いちじかん</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>速</rb><rt>はや</rt></ruby>さ。
+- word: 年度
+  descriptions:
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>のつごうで<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>１年</rb><rt>いちねん</rt></ruby>の<ruby><rb>期間</rb><rt>きかん</rt></ruby>。ふつう４<ruby><rb>月</rb><rt>がつ</rt></ruby><ruby><rb>１日</rb><rt>ついたち</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まり、<ruby><rb>翌年</rb><rt>よくねん</rt></ruby>の３<ruby><rb>月</rb><rt>がつ</rt></ruby>３１<ruby><rb>日</rb><rt>にち</rt></ruby>に<ruby><rb>終</rb><rt>お</rt></ruby>わる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011299151000/k10011299151000.html
+web_title_with_ruby: <ruby>物流<rt>ぶつりゅう</rt></ruby><ruby>業界<rt>ぎょうかい</rt></ruby>の<ruby>人手<rt>ひとで</rt></ruby><ruby>不足<rt>ぶそく</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>で<ruby>トラック<rt>とらっく</rt></ruby><ruby>隊列<rt>たいれつ</rt></ruby><ruby>走行<rt>そうこう</rt></ruby><ruby>実験<rt>じっけん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/23/物流業界の人手不足対策でトラック隊列走行実験
+related_news:
+- title: 「２０３５<ruby>年<rt>ねん</rt></ruby>には<ruby>新<rt>あたら</rt></ruby>しい<ruby>車<rt>くるま</rt></ruby>の２３％が<ruby>自動<rt>じどう</rt></ruby><ruby>運転<rt>うんてん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>になる」
+  url: https://newswebeasy.github.io/news/easy/2018/01/16/2035年には新しい車の23が自動運転の車になる
+- title: <ruby>去年<rt>きょねん</rt></ruby><ruby>車<rt>くるま</rt></ruby>の<ruby>免許<rt>めんきょ</rt></ruby>を<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>返<rt>かえ</rt></ruby>した７５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は２５<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/23/去年車の免許を警察に返した75歳以上の人は25万人
+- title: バスを<ruby>運転<rt>うんてん</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>をＡＩがチェックして<ruby>事故<rt>じこ</rt></ruby>をなくす
+  url: https://newswebeasy.github.io/news/easy/2017/12/14/バスを運転する人の顔をAIがチェックして事故をなくす
+- title: <ruby>新<rt>あたら</rt></ruby>しい<ruby>電化製品<rt>でんかせいひん</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベントがアメリカで<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/01/10/新しい電化製品を紹介するイベントがアメリカで始まる
+...

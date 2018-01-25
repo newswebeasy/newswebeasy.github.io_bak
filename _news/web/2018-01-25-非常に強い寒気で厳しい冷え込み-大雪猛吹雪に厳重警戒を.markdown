@@ -1,0 +1,183 @@
+---
+layout: web_news
+categories: web
+newsid: k10011301621000
+title: 非常に強い寒気で厳しい冷え込み 大雪・猛吹雪に厳重警戒を
+title_with_ruby: <ruby>非常<rt data-ruby-level="5">ひじょう</rt></ruby>に<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>い<ruby>寒気<rt
+  data-ruby-level="3">かんき</rt></ruby>で<ruby>厳<rt data-ruby-level="6">きび</rt></ruby>しい<ruby>冷<rt
+  data-ruby-level="7">ひ</rt></ruby>え<ruby>込<rt data-ruby-level="7">こ</rt></ruby>み
+  <ruby>大雪<rt data-ruby-level="2">おおゆき</rt></ruby>・<ruby>猛吹雪<rt data-ruby-level="8">もうふぶき</rt></ruby>に<ruby>厳重<rt
+  data-ruby-level="6">げんじゅう</rt></ruby><ruby>警戒<rt data-ruby-level="7">けいかい</rt></ruby>を
+last_modified_at: '2018-01-25T09:06:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>01<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>25<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 09<ruby>時<rt data-ruby-level="2">じ</rt></ruby>06<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 数年に一度の非常に強い寒気が流れ込んでいる影響で、新潟県や東北の山沿いではこの２４時間に５０センチ前後の雪が降って大雪となっているほか、ところによって猛吹雪となっています。新潟県や北陸を中心に雪は２７日にかけて降り続く見込みで気象庁は、大雪や猛吹雪に厳重に警戒し、不要不急の外出を控えるよう呼びかけています。
+summary: <ruby>数<rt data-ruby-level="2">すう</rt></ruby><ruby>年<rt data-ruby-level="3">ねん</rt></ruby>に<ruby>一度<rt
+  data-ruby-level="3">いちど</rt></ruby>の<ruby>非常<rt data-ruby-level="5">ひじょう</rt></ruby>に<ruby>強<rt
+  data-ruby-level="2">つよ</rt></ruby>い<ruby>寒気<rt data-ruby-level="3">かんき</rt></ruby>が<ruby>流<rt
+  data-ruby-level="7">なが</rt></ruby>れ<ruby>込<rt data-ruby-level="7">こ</rt></ruby>んでいる<ruby>影響<rt
+  data-ruby-level="7">えいきょう</rt></ruby>で、<ruby>新潟県<rt data-ruby-level="7">にいがたけん</rt></ruby>や<ruby>東北<rt
+  data-ruby-level="2">とうほく</rt></ruby>の<ruby>山沿<rt data-ruby-level="6">やまぞ</rt></ruby>いではこの２４<ruby>時間<rt
+  data-ruby-level="2">じかん</rt></ruby>に５０センチ<ruby>前後<rt data-ruby-level="2">ぜんご</rt></ruby>の<ruby>雪<rt
+  data-ruby-level="2">ゆき</rt></ruby>が<ruby>降<rt data-ruby-level="6">ふ</rt></ruby>って<ruby>大雪<rt
+  data-ruby-level="2">おおゆき</rt></ruby>となっているほか、ところによって<ruby>猛吹雪<rt data-ruby-level="8">もうふぶき</rt></ruby>となっています。<ruby>新潟県<rt
+  data-ruby-level="7">にいがたけん</rt></ruby>や<ruby>北陸<rt data-ruby-level="4">ほくりく</rt></ruby>を<ruby>中心<rt
+  data-ruby-level="2">ちゅうしん</rt></ruby>に<ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>は２７<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>にかけて<ruby>降<rt data-ruby-level="6">ふ</rt></ruby>り<ruby>続<rt
+  data-ruby-level="4">つづ</rt></ruby>く<ruby>見込<rt data-ruby-level="7">みこ</rt></ruby>みで<ruby>気象庁<rt
+  data-ruby-level="6">きしょうちょう</rt></ruby>は、<ruby>大雪<rt data-ruby-level="2">おおゆき</rt></ruby>や<ruby>猛吹雪<rt
+  data-ruby-level="8">もうふぶき</rt></ruby>に<ruby>厳重<rt data-ruby-level="6">げんじゅう</rt></ruby>に<ruby>警戒<rt
+  data-ruby-level="7">けいかい</rt></ruby>し、<ruby>不要不急<rt data-ruby-level="4">ふようふきゅう</rt></ruby>の<ruby>外出<rt
+  data-ruby-level="2">がいしゅつ</rt></ruby>を<ruby>控<rt data-ruby-level="7">ひか</rt></ruby>えるよう<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけています。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/25/K10011301621_1801250920_1801250926_01_03.jpg
+more: <ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>によりますと、<ruby>北日本<rt data-ruby-level="2">きたにっぽん</rt></ruby>の<ruby>上空<rt
+  data-ruby-level="1">じょうくう</rt></ruby>には<ruby>氷点下<rt data-ruby-level="3">ひょうてんか</rt></ruby>４２<ruby>度<rt
+  data-ruby-level="3">ど</rt></ruby><ruby>以下<rt data-ruby-level="4">いか</rt></ruby>と<ruby>数<rt
+  data-ruby-level="2">すう</rt></ruby><ruby>年<rt data-ruby-level="3">ねん</rt></ruby>に<ruby>一度<rt
+  data-ruby-level="3">いちど</rt></ruby>の<ruby>非常<rt data-ruby-level="5">ひじょう</rt></ruby>に<ruby>強<rt
+  data-ruby-level="2">つよ</rt></ruby>い<ruby>寒気<rt data-ruby-level="3">かんき</rt></ruby>が<ruby>広<rt
+  data-ruby-level="2">ひろ</rt></ruby>く<ruby>流<rt data-ruby-level="7">なが</rt></ruby>れ<ruby>込<rt
+  data-ruby-level="7">こ</rt></ruby>み、<ruby>局地的<rt data-ruby-level="4">きょくちてき</rt></ruby>には<ruby>氷点下<rt
+  data-ruby-level="3">ひょうてんか</rt></ruby>４５<ruby>度<rt data-ruby-level="3">ど</rt></ruby><ruby>程度<rt
+  data-ruby-level="5">ていど</rt></ruby>に<ruby>達<rt data-ruby-level="4">たっ</rt></ruby>しています。この<ruby>寒気<rt
+  data-ruby-level="3">かんき</rt></ruby>の<ruby>流<rt data-ruby-level="7">なが</rt></ruby>れ<ruby>込<rt
+  data-ruby-level="7">こ</rt></ruby>みに<ruby>加<rt data-ruby-level="4">くわ</rt></ruby>え、<ruby>強<rt
+  data-ruby-level="2">つよ</rt></ruby>い<ruby>冬型<rt data-ruby-level="4">ふゆがた</rt></ruby>の<ruby>気圧<rt
+  data-ruby-level="5">きあつ</rt></ruby><ruby>配置<rt data-ruby-level="4">はいち</rt></ruby>になっている<ruby>影響<rt
+  data-ruby-level="7">えいきょう</rt></ruby>で<ruby>北日本<rt data-ruby-level="2">きたにっぽん</rt></ruby>から<ruby>西日本<rt
+  data-ruby-level="2">にしにほん</rt></ruby>にかけての<ruby>日本海側<rt data-ruby-level="4">にほんかいがわ</rt></ruby>を<ruby>中心<rt
+  data-ruby-level="2">ちゅうしん</rt></ruby>に<ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>や<ruby>風<rt
+  data-ruby-level="2">かぜ</rt></ruby>が<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>まりところによって、<ruby>猛吹雪<rt
+  data-ruby-level="8">もうふぶき</rt></ruby>になっています。<br /><br /><ruby>新潟県<rt data-ruby-level="7">にいがたけん</rt></ruby>や<ruby>東北<rt
+  data-ruby-level="2">とうほく</rt></ruby>の<ruby>山沿<rt data-ruby-level="6">やまぞ</rt></ruby>いの<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>いところでは、この２４<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>に５０センチ<ruby>前後<rt
+  data-ruby-level="2">ぜんご</rt></ruby>の<ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>が<ruby>降<rt
+  data-ruby-level="6">ふ</rt></ruby>るなど<ruby>大雪<rt data-ruby-level="2">おおゆき</rt></ruby>となっています。<ruby>午前<rt
+  data-ruby-level="2">ごぜん</rt></ruby>８<ruby>時<rt data-ruby-level="2">じ</rt></ruby>の<ruby>積雪<rt
+  data-ruby-level="4">せきせつ</rt></ruby>は、<ruby>山形県<rt data-ruby-level="3">やまがたけん</rt></ruby>の<ruby>大蔵村<rt
+  data-ruby-level="7">おおくらむら</rt></ruby><ruby>肘折<rt data-ruby-level="7">ひじおり</rt></ruby>で２メートル８５センチ、<ruby>新潟県<rt
+  data-ruby-level="7">にいがたけん</rt></ruby>の<ruby>魚沼市<rt data-ruby-level="7">うおぬまし</rt></ruby><ruby>西名<rt
+  data-ruby-level="2">にしみょう</rt></ruby>で２メートル１１センチ、<ruby>北海道<rt data-ruby-level="2">ほっかいどう</rt></ruby><ruby>幌加内町<rt
+  data-ruby-level="8">ほろかないちょう</rt></ruby>で２メートル４センチ、<ruby>福島県<rt data-ruby-level="3">ふくしまけん</rt></ruby><ruby>只見町<rt
+  data-ruby-level="8">ただみまち</rt></ruby>で１メートル９９センチなどと<ruby>山沿<rt data-ruby-level="6">やまぞ</rt></ruby>いの<ruby>各地<rt
+  data-ruby-level="4">かくち</rt></ruby>で<ruby>積雪<rt data-ruby-level="4">せきせつ</rt></ruby>が２メートルから３メートル<ruby>近<rt
+  data-ruby-level="2">ちか</rt></ruby>くに<ruby>達<rt data-ruby-level="4">たっ</rt></ruby>しています。<br
+  /><br />また、<ruby>東海<rt data-ruby-level="2">とうかい</rt></ruby>の<ruby>太平洋側<rt data-ruby-level="4">たいへいようがわ</rt></ruby>でも<ruby>雪<rt
+  data-ruby-level="2">ゆき</rt></ruby>が<ruby>積<rt data-ruby-level="4">つ</rt></ruby>もり、<ruby>午前<rt
+  data-ruby-level="2">ごぜん</rt></ruby>８<ruby>時<rt data-ruby-level="2">じ</rt></ruby>の<ruby>積雪<rt
+  data-ruby-level="4">せきせつ</rt></ruby>は、<ruby>名古屋市<rt data-ruby-level="3">なごやし</rt></ruby>で１センチとなったほか、<ruby>気象台<rt
+  data-ruby-level="4">きしょうだい</rt></ruby>が<ruby>外部<rt data-ruby-level="3">がいぶ</rt></ruby>に<ruby>委託<rt
+  data-ruby-level="7">いたく</rt></ruby>して<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>したデータでは、<ruby>三重県<rt
+  data-ruby-level="7">みえけん</rt></ruby>いなべ<ruby>市<rt data-ruby-level="2">し</rt></ruby>で２７センチとなっています。<br
+  /><br /><ruby>最大<rt data-ruby-level="4">さいだい</rt></ruby><ruby>瞬間<rt data-ruby-level="7">しゅんかん</rt></ruby><ruby>風速<rt
+  data-ruby-level="3">ふうそく</rt></ruby>は、<ruby>午前<rt data-ruby-level="2">ごぜん</rt></ruby>６<ruby>時<rt
+  data-ruby-level="2">じ</rt></ruby>２０<ruby>分<rt data-ruby-level="2">ふん</rt></ruby>すぎに<ruby>秋田県<rt
+  data-ruby-level="3">あきたけん</rt></ruby><ruby>八峰町<rt data-ruby-level="7">はっぽうちょう</rt></ruby>で３０．５メートル、<ruby>午前<rt
+  data-ruby-level="2">ごぜん</rt></ruby>７<ruby>時<rt data-ruby-level="2">じ</rt></ruby>２０<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>ごろに<ruby>青森県<rt data-ruby-level="3">あおもりけん</rt></ruby><ruby>深浦町<rt
+  data-ruby-level="7">ふかうらまち</rt></ruby>で２４．５メートルを<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>しました。<br
+  /><br /><ruby>寒気<rt data-ruby-level="3">かんき</rt></ruby>の<ruby>流<rt data-ruby-level="7">なが</rt></ruby>れ<ruby>込<rt
+  data-ruby-level="7">こ</rt></ruby>みは、２５<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>午前中<rt
+  data-ruby-level="2">ごぜんちゅう</rt></ruby>がピークで、<ruby>北日本<rt data-ruby-level="2">きたにっぽん</rt></ruby>から<ruby>西日本<rt
+  data-ruby-level="2">にしにほん</rt></ruby>にかけての<ruby>日本海側<rt data-ruby-level="4">にほんかいがわ</rt></ruby>を<ruby>中心<rt
+  data-ruby-level="2">ちゅうしん</rt></ruby>に<ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>がさらに<ruby>降<rt
+  data-ruby-level="6">ふ</rt></ruby>り、<ruby>猛吹雪<rt data-ruby-level="8">もうふぶき</rt></ruby>が<ruby>続<rt
+  data-ruby-level="4">つづ</rt></ruby>く<ruby>見込<rt data-ruby-level="7">みこ</rt></ruby>みです。<br
+  /><br />２６<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>朝<rt data-ruby-level="2">あさ</rt></ruby>までの２４<ruby>時間<rt
+  data-ruby-level="2">じかん</rt></ruby>に<ruby>降<rt data-ruby-level="6">ふ</rt></ruby>る<ruby>雪<rt
+  data-ruby-level="2">ゆき</rt></ruby>の<ruby>量<rt data-ruby-level="4">りょう</rt></ruby>は、いずれも<ruby>山沿<rt
+  data-ruby-level="6">やまぞ</rt></ruby>いの<ruby>多<rt data-ruby-level="2">おお</rt></ruby>いところで<ruby>新潟県<rt
+  data-ruby-level="7">にいがたけん</rt></ruby>で８０センチ、<ruby>東北<rt data-ruby-level="2">とうほく</rt></ruby>と<ruby>北陸<rt
+  data-ruby-level="4">ほくりく</rt></ruby>、<ruby>長野県<rt data-ruby-level="3">ながのけん</rt></ruby>で５０センチ、<ruby>北海道<rt
+  data-ruby-level="2">ほっかいどう</rt></ruby>と<ruby>中国地方<rt data-ruby-level="2">ちゅうごくちほう</rt></ruby>で４０センチ、<ruby>近畿<rt
+  data-ruby-level="7">きんき</rt></ruby>と<ruby>東海<rt data-ruby-level="2">とうかい</rt></ruby>で３０センチと<ruby>予想<rt
+  data-ruby-level="3">よそう</rt></ruby>されています。<br /><br />２６<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>朝<rt
+  data-ruby-level="2">あさ</rt></ruby>から２７<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>朝<rt
+  data-ruby-level="2">あさ</rt></ruby>にかけての２４<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>には<ruby>新潟県<rt
+  data-ruby-level="7">にいがたけん</rt></ruby>や<ruby>北陸<rt data-ruby-level="4">ほくりく</rt></ruby>の<ruby>山沿<rt
+  data-ruby-level="6">やまぞ</rt></ruby>いの<ruby>多<rt data-ruby-level="2">おお</rt></ruby>いところで６０センチから８０センチの<ruby>雪<rt
+  data-ruby-level="2">ゆき</rt></ruby>が<ruby>降<rt data-ruby-level="6">ふ</rt></ruby>ると<ruby>予想<rt
+  data-ruby-level="3">よそう</rt></ruby>されるなど、さらに<ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>が<ruby>増<rt
+  data-ruby-level="5">ふ</rt></ruby>える<ruby>見込<rt data-ruby-level="7">みこ</rt></ruby>みです。<br
+  /><br />２６<ruby>日<rt data-ruby-level="1">にち</rt></ruby>にかけての<ruby>最大風速<rt data-ruby-level="4">さいだいふうそく</rt></ruby>は、<ruby>北海道<rt
+  data-ruby-level="2">ほっかいどう</rt></ruby>と<ruby>東北<rt data-ruby-level="2">とうほく</rt></ruby>で２３メートルで、<ruby>最大<rt
+  data-ruby-level="4">さいだい</rt></ruby><ruby>瞬間<rt data-ruby-level="7">しゅんかん</rt></ruby><ruby>風速<rt
+  data-ruby-level="3">ふうそく</rt></ruby>は３５メートルに<ruby>達<rt data-ruby-level="4">たっ</rt></ruby>し、<ruby>波<rt
+  data-ruby-level="3">なみ</rt></ruby>の<ruby>高<rt data-ruby-level="2">たか</rt></ruby>さは<ruby>北海道<rt
+  data-ruby-level="2">ほっかいどう</rt></ruby>から<ruby>北陸<rt data-ruby-level="4">ほくりく</rt></ruby>にかけての<ruby>日本海側<rt
+  data-ruby-level="4">にほんかいがわ</rt></ruby>を<ruby>中心<rt data-ruby-level="2">ちゅうしん</rt></ruby>に６メートルから７メートルの<ruby>大<rt
+  data-ruby-level="1">おお</rt></ruby>しけが<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>く<ruby>見込<rt
+  data-ruby-level="7">みこ</rt></ruby>みです。<br /><br /><ruby>強<rt data-ruby-level="2">つよ</rt></ruby>い<ruby>冬型<rt
+  data-ruby-level="4">ふゆがた</rt></ruby>の<ruby>気圧<rt data-ruby-level="5">きあつ</rt></ruby><ruby>配置<rt
+  data-ruby-level="4">はいち</rt></ruby>は２７<ruby>日<rt data-ruby-level="1">にち</rt></ruby>にかけて<ruby>続<rt
+  data-ruby-level="4">つづ</rt></ruby>く<ruby>見込<rt data-ruby-level="7">みこ</rt></ruby>みで、<ruby>気象庁<rt
+  data-ruby-level="6">きしょうちょう</rt></ruby>と<ruby>国土交通省<rt data-ruby-level="4">こくどこうつうしょう</rt></ruby>は、<ruby>日本海側<rt
+  data-ruby-level="4">にほんかいがわ</rt></ruby>を<ruby>中心<rt data-ruby-level="2">ちゅうしん</rt></ruby>に<ruby>大雪<rt
+  data-ruby-level="2">おおゆき</rt></ruby>や<ruby>猛吹雪<rt data-ruby-level="8">もうふぶき</rt></ruby>による<ruby>車<rt
+  data-ruby-level="1">くるま</rt></ruby>の<ruby>立往生<rt data-ruby-level="5">たちおうじょう</rt></ruby>などの<ruby>交通<rt
+  data-ruby-level="2">こうつう</rt></ruby>への<ruby>影響<rt data-ruby-level="7">えいきょう</rt></ruby>や<ruby>暴風<rt
+  data-ruby-level="5">ぼうふう</rt></ruby>、<ruby>高波<rt data-ruby-level="3">たかなみ</rt></ruby>などに<ruby>厳重<rt
+  data-ruby-level="6">げんじゅう</rt></ruby>に<ruby>警戒<rt data-ruby-level="7">けいかい</rt></ruby>し、<ruby>不要不急<rt
+  data-ruby-level="4">ふようふきゅう</rt></ruby>の<ruby>外出<rt data-ruby-level="2">がいしゅつ</rt></ruby>を<ruby>控<rt
+  data-ruby-level="7">ひか</rt></ruby>えるよう<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけています。<br
+  /><br />また、<ruby>上空<rt data-ruby-level="1">じょうくう</rt></ruby>の<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>い<ruby>寒気<rt
+  data-ruby-level="3">かんき</rt></ruby>の<ruby>影響<rt data-ruby-level="7">えいきょう</rt></ruby>で<ruby>各地<rt
+  data-ruby-level="4">かくち</rt></ruby>でこの<ruby>冬<rt data-ruby-level="2">ふゆ</rt></ruby>いち<ruby>番<rt
+  data-ruby-level="2">ばん</rt></ruby>の<ruby>冷<rt data-ruby-level="7">ひ</rt></ruby>え<ruby>込<rt
+  data-ruby-level="7">こ</rt></ruby>みとなり、２５<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>朝<rt
+  data-ruby-level="2">あさ</rt></ruby>の<ruby>最低<rt data-ruby-level="4">さいてい</rt></ruby><ruby>気温<rt
+  data-ruby-level="3">きおん</rt></ruby>は、<ruby>北海道<rt data-ruby-level="2">ほっかいどう</rt></ruby><ruby>喜茂別町<rt
+  data-ruby-level="7">きもべつちょう</rt></ruby>で<ruby>氷点下<rt data-ruby-level="3">ひょうてんか</rt></ruby>３１<ruby>度<rt
+  data-ruby-level="3">ど</rt></ruby>３<ruby>分<rt data-ruby-level="2">ふん</rt></ruby>、<ruby>仙台市<rt
+  data-ruby-level="7">せんだいし</rt></ruby>で<ruby>氷点下<rt data-ruby-level="3">ひょうてんか</rt></ruby>６<ruby>度<rt
+  data-ruby-level="3">ど</rt></ruby>７<ruby>分<rt data-ruby-level="2">ふん</rt></ruby>、<ruby>東京<rt
+  data-ruby-level="2">とうきょう</rt></ruby>の<ruby>都心<rt data-ruby-level="3">としん</rt></ruby>で<ruby>氷点下<rt
+  data-ruby-level="3">ひょうてんか</rt></ruby>４<ruby>度<rt data-ruby-level="3">ど</rt></ruby>、<ruby>名古屋市<rt
+  data-ruby-level="3">なごやし</rt></ruby>と<ruby>熊本市<rt data-ruby-level="7">くまもとし</rt></ruby>で<ruby>氷点下<rt
+  data-ruby-level="3">ひょうてんか</rt></ruby>３<ruby>度<rt data-ruby-level="3">ど</rt></ruby>８<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>、<ruby>松山市<rt data-ruby-level="4">まつやまし</rt></ruby>で<ruby>氷点下<rt
+  data-ruby-level="3">ひょうてんか</rt></ruby>２<ruby>度<rt data-ruby-level="3">ど</rt></ruby>１<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>などとなっています。<br /><br /><ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>によりますと、<ruby>東京<rt
+  data-ruby-level="2">とうきょう</rt></ruby>の<ruby>都心<rt data-ruby-level="3">としん</rt></ruby>で<ruby>氷点下<rt
+  data-ruby-level="3">ひょうてんか</rt></ruby>４<ruby>度<rt data-ruby-level="3">ど</rt></ruby><ruby>以下<rt
+  data-ruby-level="4">いか</rt></ruby>まで<ruby>気温<rt data-ruby-level="3">きおん</rt></ruby>が<ruby>下<rt
+  data-ruby-level="1">さ</rt></ruby>がったのは、４８<ruby>年前<rt data-ruby-level="2">ねんまえ</rt></ruby>の<ruby>昭和<rt
+  data-ruby-level="3">しょうわ</rt></ruby>４５<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>１<ruby>月<rt
+  data-ruby-level="1">がつ</rt></ruby>１７<ruby>日以来<rt data-ruby-level="4">にちいらい</rt></ruby>です。<ruby>気象庁<rt
+  data-ruby-level="6">きしょうちょう</rt></ruby>は、<ruby>水道管<rt data-ruby-level="4">すいどうかん</rt></ruby>の<ruby>凍結<rt
+  data-ruby-level="7">とうけつ</rt></ruby>などにも<ruby>十分<rt data-ruby-level="2">じゅうぶん</rt></ruby><ruby>注意<rt
+  data-ruby-level="3">ちゅうい</rt></ruby>するよう<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけています。
+movie_url: https://newswebeasy.github.io/ja201801/news/web/movie/2018/01/25/k10011301621_201801250920_201801250925.mp4
+voice_url: https://newswebeasy.github.io/ja201801/news/web/voice/2018/01/25/k10011301621_201801250920_201801250925.mp3
+source_url: https://www3.nhk.or.jp/news/html/20180125/k10011301621000.html
+easy_title_with_ruby: <ruby>今年<rt data-ruby-level="8">ことし</rt></ruby>いちばん<ruby>寒<rt
+  data-ruby-level="3">さむ</rt></ruby>い<ruby>朝<rt data-ruby-level="2">あさ</rt></ruby>
+  <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>でもー４℃
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/01/25/今年いちばん寒い朝-東京でもー4C
+related_news:
+- title: <ruby>都心<rt data-ruby-level="3">としん</rt></ruby>など<ruby>関東<rt data-ruby-level="4">かんとう</rt></ruby><ruby>各地<rt
+    data-ruby-level="4">かくち</rt></ruby>で<ruby>積雪<rt data-ruby-level="4">せきせつ</rt></ruby>２０センチ<ruby>超<rt
+    data-ruby-level="7">ちょう</rt></ruby> <ruby>大雪<rt data-ruby-level="2">おおゆき</rt></ruby>や<ruby>路面<rt
+    data-ruby-level="3">ろめん</rt></ruby><ruby>凍結<rt data-ruby-level="7">とうけつ</rt></ruby>に<ruby>警戒<rt
+    data-ruby-level="7">けいかい</rt></ruby>を
+  url: https://newswebeasy.github.io/news/web/2018/01/23/都心など関東各地で積雪20センチ超-大雪や路面凍結に警戒を
+- title: あす<ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>23<ruby>区<rt data-ruby-level="3">く</rt></ruby><ruby>含<rt
+    data-ruby-level="7">ふく</rt></ruby>む<ruby>関東<rt data-ruby-level="4">かんとう</rt></ruby><ruby>平野部<rt
+    data-ruby-level="3">へいやぶ</rt></ruby>でも<ruby>大雪<rt data-ruby-level="2">おおゆき</rt></ruby>のおそれ
+  url: https://newswebeasy.github.io/news/web/2018/01/21/あす東京23区含む関東平野部でも大雪のおそれ
+- title: <ruby>九州<rt data-ruby-level="3">きゅうしゅう</rt></ruby>・<ruby>四国<rt data-ruby-level="2">しこく</rt></ruby>・<ruby>中国地方<rt
+    data-ruby-level="2">ちゅうごくちほう</rt></ruby> <ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>で<ruby>初雪<rt
+    data-ruby-level="4">はつゆき</rt></ruby> <ruby>交通<rt data-ruby-level="2">こうつう</rt></ruby><ruby>影響<rt
+    data-ruby-level="7">えいきょう</rt></ruby>など<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/05/九州四国中国地方-各地で初雪-交通影響など注意
+- title: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby><ruby>都心<rt data-ruby-level="3">としん</rt></ruby>で<ruby>初雪<rt
+    data-ruby-level="4">はつゆき</rt></ruby> <ruby>東日本<rt data-ruby-level="2">ひがしにほん</rt></ruby>で<ruby>冷<rt
+    data-ruby-level="7">ひ</rt></ruby>え<ruby>込<rt data-ruby-level="7">こ</rt></ruby>み
+  url: https://newswebeasy.github.io/news/web/2017/12/31/東京都心で初雪-東日本で冷え込み
+- title: <ruby>年末<rt data-ruby-level="4">ねんまつ</rt></ruby><ruby>年始<rt data-ruby-level="3">ねんし</rt></ruby>の<ruby>天気<rt
+    data-ruby-level="1">てんき</rt></ruby> <ruby>太平洋側<rt data-ruby-level="4">たいへいようがわ</rt></ruby>は<ruby>初日<rt
+    data-ruby-level="4">はつひ</rt></ruby>の<ruby>出<rt data-ruby-level="4">で</rt></ruby>も
+  url: https://newswebeasy.github.io/news/web/2017/12/28/年末年始の天気-太平洋側は初日の出も
+...
