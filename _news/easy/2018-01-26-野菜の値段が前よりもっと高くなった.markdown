@@ -1,0 +1,72 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011300821000
+last_modified_at: '2018-01-26T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>26<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 農林水産省が先週スーパーなどで調べた野菜の１ｋｇの値段は、白菜が３６２円、キャベツが４１９円、大根が３４２円でした。
+title: 野菜の値段が前よりもっと高くなった
+title_with_ruby: <ruby>野菜<rt>やさい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>前<rt>まえ</rt></ruby>よりもっと<ruby>高<rt>たか</rt></ruby>くなった
+outline: 農林水産省が先週スーパーなどで調べた野菜の１ｋｇの値段は、白菜が３６２円、キャベツが４１９円、大根が３４２円でした。
+outline_with_ruby: <ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby>が<ruby>先週<rt>せんしゅう</rt></ruby>スーパーなどで<ruby>調<rt>しら</rt></ruby>べた<ruby>野菜<rt>やさい</rt></ruby>の１ｋｇの<ruby>値段<rt>ねだん</rt></ruby>は、<ruby>白菜<rt>はくさい</rt></ruby>が３６２<ruby>円<rt>えん</rt></ruby>、キャベツが４１９<ruby>円<rt>えん</rt></ruby>、<ruby>大根<rt>だいこん</rt></ruby>が３４２<ruby>円<rt>えん</rt></ruby>でした。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/24/K10011300821_1801241656_1801241656_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/26/k10011300821000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby></span>が<ruby>先週<rt>せんしゅう</rt></ruby>スーパーなどで<ruby>調<rt>しら</rt></ruby>べた<ruby>野菜<rt>やさい</rt></ruby>の１ｋｇの<ruby>値段<rt>ねだん</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>白菜<rt>はくさい</rt></ruby></span>が３６２<ruby>円<rt>えん</rt></ruby>、<span\
+  \ style=\"color: blue;\">キャベツ</span>が４１９<ruby>円<rt>えん</rt></ruby>、<span style=\"\
+  color: blue;\"><ruby>大根<rt>だいこん</rt></ruby></span>が３４２<ruby>円<rt>えん</rt></ruby>でした。<span\
+  \ style=\"color: blue;\"><ruby>白菜<rt>はくさい</rt></ruby></span>と<span style=\"color:\
+  \ blue;\">キャベツ</span>はその<ruby>前<rt>まえ</rt></ruby>の<span style=\"color: blue;\"><ruby>週<rt>しゅう</rt></ruby></span>より７％、<span\
+  \ style=\"color: blue;\"><ruby>大根<rt>だいこん</rt></ruby></span>は４％<ruby>高<rt>たか</rt></ruby>くなりました。この３つの<ruby>野菜<rt>やさい</rt></ruby>はいつもの<ruby>年<rt>とし</rt></ruby>の２<ruby>倍<rt>ばい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>になっています。</p>\n\
+  <p><span style=\"color: blue;\">レタス</span>と<span style=\"color: blue;\">トマト</span>は<ruby>前<rt>まえ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>週<rt>しゅう</rt></ruby></span>より<ruby>安<rt>やす</rt></ruby>くなりましたが、いつもの<ruby>年<rt>とし</rt></ruby>より<ruby>高<rt>たか</rt></ruby>い<ruby>値段<rt>ねだん</rt></ruby>です。</p>\n\
+  <p><ruby>野菜<rt>やさい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いままなのは、<ruby>去年<rt>きょねん</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>の<ruby>台風<rt>たいふう</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>低<rt>ひく</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いたことなどが<ruby>原因<rt>げんいん</rt></ruby>です。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby></span>は「<ruby>最近<rt>さいきん</rt></ruby>の<ruby>雪<rt>ゆき</rt></ruby>で<ruby>野菜<rt>やさい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>量<rt>りょう</rt></ruby></span>や<ruby>値段<rt>ねだん</rt></ruby>がどうなるか<ruby>今<rt>いま</rt></ruby><ruby>調<rt>しら</rt></ruby>べています」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 農林水産省
+  descriptions:
+  - <ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>・<ruby><rb>林業</rb><rt>りんぎょう</rt></ruby>・<ruby><rb>水産業</rb><rt>すいさんぎょう</rt></ruby>・<ruby><rb>畜産業</rb><rt>ちくさんぎょう</rt></ruby>などについての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>農水省</rb><rt>のうすいしょう</rt></ruby>。
+- word: 白菜
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>野菜</rb><rt>やさい</rt></ruby>。<ruby><rb>葉</rb><rt>は</rt></ruby>は<ruby><rb>重</rb><rt>かさ</rt></ruby>なり<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>根</rb><rt>ね</rt></ruby>もとは<ruby><rb>白</rb><rt>しろ</rt></ruby>くて<ruby><rb>厚</rb><rt>あつ</rt></ruby>い。つけ<ruby><rb>物</rb><rt>もの</rt></ruby>やなべ<ruby><rb>物</rb><rt>もの</rt></ruby>にする。
+- word: キャベツ
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>野菜</rb><rt>やさい</rt></ruby>。<ruby><rb>短</rb><rt>みじか</rt></ruby>い<ruby><rb>茎</rb><rt>くき</rt></ruby>に、<ruby><rb>厚</rb><rt>あつ</rt></ruby>くて<ruby><rb>大</rb><rt>おお</rt></ruby>きい<ruby><rb>葉</rb><rt>は</rt></ruby>が<ruby><rb>重</rb><rt>かさ</rt></ruby>なって、<ruby><rb>球</rb><rt>たま</rt></ruby>のように<ruby><rb>巻</rb><rt>ま</rt></ruby>く。カンラン。タマナ。
+- word: 大根
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>野菜</rb><rt>やさい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>白</rb><rt>しろ</rt></ruby>くて<ruby><rb>太</rb><rt>ふと</rt></ruby>い<ruby><rb>根</rb><rt>ね</rt></ruby>を<ruby><rb>食</rb><rt>た</rt></ruby>べる。
+  - <ruby><rb>下手</rb><rt>へた</rt></ruby>な<ruby><rb>役者</rb><rt>やくしゃ</rt></ruby>。
+- word: 週
+  descriptions:
+  - <ruby><rb>日曜</rb><rt>にちよう</rt></ruby>から<ruby><rb>土曜</rb><rt>どよう</rt></ruby>までの<ruby><rb>七日間</rb><rt>なのかかん</rt></ruby>。
+- word: レタス
+  descriptions:
+  - キャベツに<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>西洋野菜</rb><rt>せいようやさい</rt></ruby>。サラダなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。タマヂシャ。
+- word: トマト
+  descriptions:
+  - ナスのなかまの<ruby><rb>野菜</rb><rt>やさい</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>赤</rb><rt>あか</rt></ruby>く<ruby><rb>熟</rb><rt>じゅく</rt></ruby>した<ruby><rb>実</rb><rt>み</rt></ruby>を、<ruby><rb>生</rb><rt>なま</rt></ruby>で<ruby><rb>食</rb><rt>た</rt></ruby>べたり、<ruby><rb>料理</rb><rt>りょうり</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>ったりする。
+- word: 気温
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。
+- word: 量
+  descriptions:
+  - かさ。ますめ。
+  - ものをはかる。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>広</rb><rt>ひろ</rt></ruby>さ。<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011300821000/k10011300821000.html
+web_title_with_ruby: はくさい だいこん さらに<ruby>値上<rt>ねあ</rt></ruby>がり <ruby>平年<rt>へいねん</rt></ruby>の２<ruby>倍以上<rt>ばいいじょう</rt></ruby>の<ruby>高値<rt>たかね</rt></ruby><ruby>続<rt>つづ</rt></ruby>く
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/24/はくさい-だいこん-さらに値上がり-平年の2倍以上の高値続く
+related_news:
+- title: レタスの<ruby>値段<rt>ねだん</rt></ruby>がいつもの<ruby>年<rt>とし</rt></ruby>の１．７<ruby>倍<rt>ばい</rt></ruby>　<ruby>大根<rt>だいこん</rt></ruby>と<ruby>白菜<rt>はくさい</rt></ruby>も<ruby>高<rt>たか</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2017/11/30/レタスの値段がいつもの年の17倍-大根と白菜も高い
+- title: <ruby>野菜<rt>やさい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>今<rt>いま</rt></ruby>も<ruby>高<rt>たか</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2018/01/11/野菜の値段が今も高い
+- title: みかんの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>去年<rt>きょねん</rt></ruby>より３０％<ruby>高<rt>たか</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2017/12/28/みかんの値段が去年より30高くなる
+- title: <ruby>米<rt>こめ</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がって<ruby>天丼<rt>てんどん</rt></ruby>などが<ruby>高<rt>たか</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2017/12/13/米の値段が上がって天丼などが高くなる
+...

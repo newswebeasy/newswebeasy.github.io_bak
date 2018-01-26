@@ -1,0 +1,76 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011302761000
+last_modified_at: '2018-01-26T17:15:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>26<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>15<ruby>分<rt>ふん</rt></ruby>
+description: 和歌山県の那智勝浦町にある「那智の滝」という滝は、高さが１３３ｍあります。
+title: 和歌山県　世界遺産の「那智の滝」の下の水が凍る
+title_with_ruby: <ruby>和歌山県<rt>わかやまけん</rt></ruby>　<ruby>世界遺産<rt>せかいいさん</rt></ruby>の「<ruby>那智<rt>なち</rt></ruby>の<ruby>滝<rt>たき</rt></ruby>」の<ruby>下<rt>した</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<ruby>凍<rt>こお</rt></ruby>る
+outline: 和歌山県の那智勝浦町にある「那智の滝」という滝は、高さが１３３ｍあります。
+outline_with_ruby: <ruby>和歌山県<rt>わかやまけん</rt></ruby>の<ruby>那智勝浦町<rt>なちかつうらちょう</rt></ruby>にある「<ruby>那智<rt>なち</rt></ruby>の<ruby>滝<rt>たき</rt></ruby>」という<ruby>滝<rt>たき</rt></ruby>は、<ruby>高<rt>たか</rt></ruby>さが１３３ｍあります。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/25/K10011302761_1801252006_1801252057_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/26/k10011302761000.mp3
+content_with_ruby: "<p><ruby>和歌山県<rt>わかやまけん</rt></ruby>の<ruby>那智勝浦町<rt>なちかつうらちょう</rt></ruby>にある「<ruby>那智<rt>なち</rt></ruby>の<ruby>滝<rt>たき</rt></ruby>」という<span\
+  \ style=\"color: blue;\"><ruby>滝<rt>たき</rt></ruby></span>は、<ruby>高<rt>たか</rt></ruby>さが１３３ｍあります。この<span\
+  \ style=\"color: blue;\"><ruby>滝<rt>たき</rt></ruby></span>は、<ruby>熊野那智大社<rt>くまのなちたいしゃ</rt></ruby>という<ruby>神社<rt>じんじゃ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>神<rt>かみ</rt></ruby></span><ruby>様<rt>さま</rt></ruby>で、<span\
+  \ style=\"color: blue;\"><ruby>世界遺産<rt>せかいいさん</rt></ruby></span>にもなっています。</p>\n\
+  <p><ruby>熊野那智大社<rt>くまのなちたいしゃ</rt></ruby>によると、２５<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>滝<rt>たき</rt></ruby></span>の<ruby>周<rt>まわ</rt></ruby>りの<span\
+  \ style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>はー３℃まで<ruby>下<rt>さ</rt></ruby>がって、<span\
+  \ style=\"color: blue;\"><ruby>滝<rt>たき</rt></ruby></span>の<ruby>水<rt>みず</rt></ruby>が<ruby>落<rt>お</rt></ruby>ちて<ruby>池<rt>いけ</rt></ruby>のようになっている「<ruby>滝<rt>たき</rt></ruby>つぼ」が<span\
+  \ style=\"color: blue;\"><ruby>凍<rt>こお</rt></ruby>り</span>ました。<span style=\"color:\
+  \ blue;\"><ruby>流<rt>なが</rt></ruby>れ</span>ている<span style=\"color: blue;\"><ruby>滝<rt>たき</rt></ruby></span>の<ruby>周<rt>まわ</rt></ruby>りには<ruby>水<rt>みず</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>凍<rt>こお</rt></ruby>っ</span>た<span style=\"color:\
+  \ blue;\">つらら</span>ができていて、<span style=\"color: blue;\"><ruby>岩<rt>いわ</rt></ruby></span>が<ruby>白<rt>しろ</rt></ruby>くなっていました。</p>\n\
+  <p><ruby>京都府<rt>きょうとふ</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>男性<rt>だんせい</rt></ruby>は「すばらしいです。<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>友達<rt>ともだち</rt></ruby>に<ruby>見<rt>み</rt></ruby>せます」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>熊野那智大社<rt>くまのなちたいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>滝<rt>たき</rt></ruby>つぼ<ruby>全部<rt>ぜんぶ</rt></ruby>がこんなに<span\
+  \ style=\"color: blue;\"><ruby>凍<rt>こお</rt></ruby>っ</span>たことは、しばらくありませんでした。<ruby>珍<rt>めずら</rt></ruby>しい<ruby>景色<rt>けしき</rt></ruby>をぜひ<ruby>見<rt>み</rt></ruby>てください」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 世界遺産
+  descriptions:
+  - ユネスコの「<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby><ruby><rb>及</rb><rt>およ</rt></ruby>び<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>の<ruby><rb>保護</rb><rt>ほご</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>条約</rb><rt>じょうやく</rt></ruby>」（「<ruby><rb>世界遺産保護条約</rb><rt>せかいいさんほごじょうやく</rt></ruby>」）にもとづいて<ruby><rb>決</rb><rt>き</rt></ruby>められた、<ruby><rb>世界的</rb><rt>せかいてき</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>す<ruby><rb>価値</rb><rt>かち</rt></ruby>があると<ruby><rb>認</rb><rt>みと</rt></ruby>められた<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>や<ruby><rb>自然</rb><rt>しぜん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby>として<ruby><rb>姫路城</rb><rt>ひめじじょう</rt></ruby>や<ruby><rb>法隆寺</rb><rt>ほうりゅうじ</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の<ruby><rb>首里城</rb><rt>しゅりじょう</rt></ruby>など、<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>として<ruby><rb>屋久島</rb><rt>やくしま</rt></ruby>や<ruby><rb>白神山地</rb><rt>しらかみさんち</rt></ruby>などが<ruby><rb>指定</rb><rt>してい</rt></ruby>されている。
+- word: 凍る
+  descriptions:
+  - <ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。
+- word: 滝
+  descriptions:
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>から、<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>落</rb><rt>お</rt></ruby>ちる<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>流</rb><rt>なが</rt></ruby>れ。
+- word: 神
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>知恵</rb><rt>ちえ</rt></ruby>では<ruby><rb>考</rb><rt>かんが</rt></ruby>えられない、ふしぎな<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つと<ruby><rb>信</rb><rt>しん</rt></ruby>じられているもの。
+- word: 気温
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。
+- word: 凍る
+  descriptions:
+  - <ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。
+- word: 流れる
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。
+  - <ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。
+  - うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - とりやめになる。
+- word: 凍る
+  descriptions:
+  - <ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。
+- word: つらら
+  descriptions:
+  - （<ruby><rb>屋根</rb><rt>やね</rt></ruby>などから<ruby><rb>垂</rb><rt>た</rt></ruby>れる）<ruby><rb>水</rb><rt>みず</rt></ruby>のしずくがこおって、<ruby><rb>垂</rb><rt>た</rt></ruby>れ<ruby><rb>下</rb><rt>さ</rt></ruby>がったもの。
+- word: 岩
+  descriptions:
+  - <ruby><rb>石</rb><rt>いし</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きなもの。<ruby><rb>岩石</rb><rt>がんせき</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011302761000/k10011302761000.html
+web_title_with_ruby: <ruby>世界<rt>せかい</rt></ruby><ruby>遺産<rt>いさん</rt></ruby>「<ruby>那智<rt>なち</rt></ruby>の<ruby>滝<rt>たき</rt></ruby>」
+  <ruby>滝<rt>たき</rt></ruby>つぼが<ruby>凍<rt>こお</rt></ruby>りつく
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/25/世界遺産那智の滝-滝つぼが凍りつく
+related_news:
+- title: <ruby>福島第一原発<rt>ふくしまだいいちげんぱつ</rt></ruby>　<ruby>建物<rt>たてもの</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りの<ruby>土<rt>つち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>氷<rt>こおり</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>ができる
+  url: https://newswebeasy.github.io/news/easy/2017/11/02/福島第一原発-建物の周りの土の中に氷の壁ができる
+- title: ロシア　<ruby>気温<rt>きおん</rt></ruby>がー６５℃になって<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>もいる
+  url: https://newswebeasy.github.io/news/easy/2018/01/18/ロシア-気温がー65Cになって亡くなった人もいる
+...
