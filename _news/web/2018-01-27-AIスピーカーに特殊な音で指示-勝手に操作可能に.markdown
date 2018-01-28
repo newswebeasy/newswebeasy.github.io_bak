@@ -1,0 +1,99 @@
+---
+layout: web_news
+categories: web
+newsid: k10011304431000
+title: ＡＩスピーカーに特殊な音で指示 勝手に操作可能に
+title_with_ruby: ＡＩスピーカーに<ruby>特殊<rt data-ruby-level="7">とくしゅ</rt></ruby>な<ruby>音<rt
+  data-ruby-level="1">おと</rt></ruby>で<ruby>指示<rt data-ruby-level="5">しじ</rt></ruby>
+  <ruby>勝手<rt data-ruby-level="3">かって</rt></ruby>に<ruby>操作<rt data-ruby-level="6">そうさ</rt></ruby><ruby>可能<rt
+  data-ruby-level="5">かのう</rt></ruby>に
+last_modified_at: '2018-01-27T06:07:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>01<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>27<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 06<ruby>時<rt data-ruby-level="2">じ</rt></ruby>07<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 声で家電製品などが操作できる「ＡＩスピーカー」に特殊な音で指示を送ると、周囲に気付かれることなく、第三者が勝手に操れるとする実験結果を早稲田大学の研究グループがまとめました。直ちに悪用することは難しいものの、今後、より安全性の高い製品づくりが求められるとしています。
+summary: <ruby>声<rt data-ruby-level="2">こえ</rt></ruby>で<ruby>家電<rt data-ruby-level="2">かでん</rt></ruby><ruby>製品<rt
+  data-ruby-level="5">せいひん</rt></ruby>などが<ruby>操作<rt data-ruby-level="6">そうさ</rt></ruby>できる「ＡＩスピーカー」に<ruby>特殊<rt
+  data-ruby-level="7">とくしゅ</rt></ruby>な<ruby>音<rt data-ruby-level="1">おと</rt></ruby>で<ruby>指示<rt
+  data-ruby-level="5">しじ</rt></ruby>を<ruby>送<rt data-ruby-level="3">おく</rt></ruby>ると、<ruby>周囲<rt
+  data-ruby-level="4">しゅうい</rt></ruby>に<ruby>気付<rt data-ruby-level="4">きづ</rt></ruby>かれることなく、<ruby>第三者<rt
+  data-ruby-level="3">だいさんしゃ</rt></ruby>が<ruby>勝手<rt data-ruby-level="3">かって</rt></ruby>に<ruby>操<rt
+  data-ruby-level="7">あやつ</rt></ruby>れるとする<ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby><ruby>結果<rt
+  data-ruby-level="4">けっか</rt></ruby>を<ruby>早稲田大学<rt data-ruby-level="8">わせだだいがく</rt></ruby>の<ruby>研究<rt
+  data-ruby-level="3">けんきゅう</rt></ruby>グループがまとめました。<ruby>直<rt data-ruby-level="2">ただ</rt></ruby>ちに<ruby>悪用<rt
+  data-ruby-level="3">あくよう</rt></ruby>することは<ruby>難<rt data-ruby-level="6">むずか</rt></ruby>しいものの、<ruby>今後<rt
+  data-ruby-level="2">こんご</rt></ruby>、より<ruby>安全性<rt data-ruby-level="5">あんぜんせい</rt></ruby>の<ruby>高<rt
+  data-ruby-level="2">たか</rt></ruby>い<ruby>製品<rt data-ruby-level="5">せいひん</rt></ruby>づくりが<ruby>求<rt
+  data-ruby-level="4">もと</rt></ruby>められるとしています。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/27/K10011304431_1801270640_1801270658_01_03.jpg
+more: ＡＩスピーカーは<ruby>人工<rt data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt data-ruby-level="5">ちのう</rt></ruby>で<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>の<ruby>声<rt data-ruby-level="2">こえ</rt></ruby>を<ruby>認識<rt
+  data-ruby-level="7">にんしき</rt></ruby>し、<ruby>声<rt data-ruby-level="2">こえ</rt></ruby>で<ruby>指示<rt
+  data-ruby-level="5">しじ</rt></ruby>するだけで<ruby>音楽<rt data-ruby-level="2">おんがく</rt></ruby>を<ruby>鳴<rt
+  data-ruby-level="2">な</rt></ruby>らしたり、<ruby>家電<rt data-ruby-level="2">かでん</rt></ruby><ruby>製品<rt
+  data-ruby-level="5">せいひん</rt></ruby>を<ruby>操作<rt data-ruby-level="6">そうさ</rt></ruby>できたりするなど、<ruby>私<rt
+  data-ruby-level="8">わたし</rt></ruby>たちの<ruby>暮<rt data-ruby-level="8">く</rt></ruby>らしをより<ruby>便利<rt
+  data-ruby-level="4">べんり</rt></ruby>にすると<ruby>注目<rt data-ruby-level="3">ちゅうもく</rt></ruby>されています。<br
+  /><br />これに<ruby>対<rt data-ruby-level="3">たい</rt></ruby>し、<ruby>早稲田大学<rt data-ruby-level="8">わせだだいがく</rt></ruby>の<ruby>森<rt
+  data-ruby-level="1">もり</rt></ruby><ruby>達哉<rt data-ruby-level="8">たつや</rt></ruby><ruby>准教授<rt
+  data-ruby-level="7">じゅんきょうじゅ</rt></ruby>らの<ruby>研究<rt data-ruby-level="3">けんきゅう</rt></ruby>グループは、<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>の<ruby>声<rt data-ruby-level="2">こえ</rt></ruby>を<ruby>特定<rt
+  data-ruby-level="4">とくてい</rt></ruby>の<ruby>方向<rt data-ruby-level="3">ほうこう</rt></ruby>にしか<ruby>伝<rt
+  data-ruby-level="4">つた</rt></ruby>わらない<ruby>特殊<rt data-ruby-level="7">とくしゅ</rt></ruby>な<ruby>音<rt
+  data-ruby-level="1">おと</rt></ruby>に<ruby>変換<rt data-ruby-level="7">へんかん</rt></ruby>し、ＡＩスピーカーに<ruby>指示<rt
+  data-ruby-level="5">しじ</rt></ruby>を<ruby>出<rt data-ruby-level="1">だ</rt></ruby>す<ruby>実験<rt
+  data-ruby-level="4">じっけん</rt></ruby>を<ruby>行<rt data-ruby-level="2">おこな</rt></ruby>いました。<br
+  /><br />その<ruby>結果<rt data-ruby-level="4">けっか</rt></ruby>、<ruby>周囲<rt data-ruby-level="4">しゅうい</rt></ruby>にいる<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>には<ruby>何<rt data-ruby-level="2">なに</rt></ruby>も<ruby>聞<rt
+  data-ruby-level="2">き</rt></ruby>こえないのに、ＡＩスピーカーがスケジュールを<ruby>読<rt data-ruby-level="2">よ</rt></ruby>み<ruby>上<rt
+  data-ruby-level="2">あ</rt></ruby>げたり<ruby>通販<rt data-ruby-level="7">つうはん</rt></ruby>サイトで<ruby>商品<rt
+  data-ruby-level="3">しょうひん</rt></ruby>を<ruby>検索<rt data-ruby-level="7">けんさく</rt></ruby>したりするなど、<ruby>指示<rt
+  data-ruby-level="5">しじ</rt></ruby>に<ruby>従<rt data-ruby-level="6">したが</rt></ruby>って<ruby>動<rt
+  data-ruby-level="3">うご</rt></ruby>いたということです。<br /><br />こうした<ruby>動作<rt data-ruby-level="3">どうさ</rt></ruby>は<ruby>複数<rt
+  data-ruby-level="5">ふくすう</rt></ruby>のメーカーの<ruby>製品<rt data-ruby-level="5">せいひん</rt></ruby>で<ruby>確認<rt
+  data-ruby-level="7">かくにん</rt></ruby>されたほか、ＡＩスピーカーを<ruby>勝手<rt data-ruby-level="3">かって</rt></ruby>に<ruby>操<rt
+  data-ruby-level="7">あやつ</rt></ruby>る<ruby>研究<rt data-ruby-level="3">けんきゅう</rt></ruby>は<ruby>海外<rt
+  data-ruby-level="2">かいがい</rt></ruby>でも<ruby>進<rt data-ruby-level="3">すす</rt></ruby>められています。<br
+  /><br /><ruby>特殊<rt data-ruby-level="7">とくしゅ</rt></ruby>な<ruby>音<rt data-ruby-level="1">おと</rt></ruby>を<ruby>出<rt
+  data-ruby-level="1">だ</rt></ruby>す<ruby>装置<rt data-ruby-level="6">そうち</rt></ruby>を<ruby>用意<rt
+  data-ruby-level="3">ようい</rt></ruby>する<ruby>必要<rt data-ruby-level="4">ひつよう</rt></ruby>があるため、<ruby>直<rt
+  data-ruby-level="2">ただ</rt></ruby>ちに<ruby>悪用<rt data-ruby-level="3">あくよう</rt></ruby>することは<ruby>難<rt
+  data-ruby-level="6">むずか</rt></ruby>しいものの、<ruby>声<rt data-ruby-level="2">こえ</rt></ruby>で<ruby>操作<rt
+  data-ruby-level="6">そうさ</rt></ruby>する<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>はお<ruby>年寄<rt
+  data-ruby-level="5">としよ</rt></ruby>り<ruby>用<rt data-ruby-level="2">よう</rt></ruby>の<ruby>機器<rt
+  data-ruby-level="4">きき</rt></ruby>など、さまざまな<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>が<ruby>期待<rt
+  data-ruby-level="3">きたい</rt></ruby>されていることから、<ruby>研究<rt data-ruby-level="3">けんきゅう</rt></ruby>グループではより<ruby>安全性<rt
+  data-ruby-level="5">あんぜんせい</rt></ruby>の<ruby>高<rt data-ruby-level="2">たか</rt></ruby>い<ruby>製品<rt
+  data-ruby-level="5">せいひん</rt></ruby>づくりが<ruby>求<rt data-ruby-level="4">もと</rt></ruby>められるとしています。<br
+  /><br /><ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>を<ruby>行<rt data-ruby-level="2">い</rt></ruby>った<ruby>研究<rt
+  data-ruby-level="3">けんきゅう</rt></ruby>グループの<ruby>飯島<rt data-ruby-level="8">いいじま</rt></ruby><ruby>涼<rt
+  data-ruby-level="7">りょう</rt></ruby>さんは「ＡＩスピーカーは<ruby>専門<rt data-ruby-level="6">せんもん</rt></ruby><ruby>知識<rt
+  data-ruby-level="5">ちしき</rt></ruby>がない<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>も<ruby>使<rt
+  data-ruby-level="3">つか</rt></ruby>うものなので、<ruby>誰<rt data-ruby-level="7">だれ</rt></ruby>もが<ruby>安心<rt
+  data-ruby-level="3">あんしん</rt></ruby>して<ruby>使<rt data-ruby-level="3">つか</rt></ruby>えるよう、メーカーが<ruby>製品<rt
+  data-ruby-level="5">せいひん</rt></ruby>の<ruby>安全性<rt data-ruby-level="5">あんぜんせい</rt></ruby>を<ruby>考<rt
+  data-ruby-level="2">かんが</rt></ruby>えるうえで<ruby>参考<rt data-ruby-level="4">さんこう</rt></ruby>にしてほしい」と<ruby>話<rt
+  data-ruby-level="2">はな</rt></ruby>していました。
+movie_url: https://newswebeasy.github.io/ja201801/news/web/movie/2018/01/27/k10011304431_201801270640_201801270658.mp4
+voice_url: https://newswebeasy.github.io/ja201801/news/web/voice/2018/01/27/k10011304431_201801270640_201801270658.mp3
+source_url: https://www3.nhk.or.jp/news/html/20180127/k10011304431000.html
+related_news:
+- title: パナソニック ＡＩで<ruby>住宅<rt data-ruby-level="6">じゅうたく</rt></ruby>の<ruby>省<rt data-ruby-level="4">しょう</rt></ruby><ruby>エネ<rt
+    data-ruby-level="4">えね</rt></ruby> <ruby>節電<rt data-ruby-level="4">せつでん</rt></ruby>システム<ruby>販売<rt
+    data-ruby-level="7">はんばい</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2018/01/16/パナソニック-AIで住宅の省エネ-節電システム販売へ
+- title: ソニー aiboの<ruby>後継機<rt data-ruby-level="7">こうけいき</rt></ruby><ruby>発売<rt data-ruby-level="3">はつばい</rt></ruby>
+    AI<ruby>搭載<rt data-ruby-level="7">とうさい</rt></ruby>で<ruby>約<rt data-ruby-level="4">やく</rt></ruby>20<ruby>万<rt
+    data-ruby-level="2">まん</rt></ruby><ruby>円<rt data-ruby-level="1">えん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/11/ソニー-aiboの後継機発売-AI搭載で約20万円
+- title: <ruby>高齢者<rt data-ruby-level="7">こうれいしゃ</rt></ruby>の<ruby>暮<rt data-ruby-level="6">く</rt></ruby>らしサポートするＡＩマンション<ruby>公開<rt
+    data-ruby-level="3">こうかい</rt></ruby> <ruby>横浜<rt data-ruby-level="7">よこはま</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/11/22/高齢者の暮らしサポートするAIマンション公開-横浜
+- title: ソニー １２<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>ぶり<ruby>犬型<rt data-ruby-level="4">いぬがた</rt></ruby>ロボット「ａｉｂｏ」<ruby>発売<rt
+    data-ruby-level="3">はつばい</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2017/11/01/ソニー-12年ぶり犬型ロボットaibo発売へ
+- title: クローンのサルが<ruby>誕生<rt data-ruby-level="6">たんじょう</rt></ruby> <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>の<ruby>研究<rt
+    data-ruby-level="3">けんきゅう</rt></ruby>グループ <ruby>今後<rt data-ruby-level="2">こんご</rt></ruby><ruby>物議<rt
+    data-ruby-level="4">ぶつぎ</rt></ruby>も
+  url: https://newswebeasy.github.io/news/web/2018/01/25/クローンのサルが誕生-中国の研究グループ-今後物議も
+...

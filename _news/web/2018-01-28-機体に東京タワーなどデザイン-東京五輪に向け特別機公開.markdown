@@ -1,0 +1,80 @@
+---
+layout: web_news
+categories: web
+newsid: k10011306031000
+title: 機体に東京タワーなどデザイン 東京五輪に向け特別機公開
+title_with_ruby: <ruby>機体<rt data-ruby-level="4">きたい</rt></ruby>に<ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>タワーなどデザイン
+  <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby><ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby>に<ruby>向<rt
+  data-ruby-level="3">む</rt></ruby>け<ruby>特別機<rt data-ruby-level="4">とくべつき</rt></ruby><ruby>公開<rt
+  data-ruby-level="3">こうかい</rt></ruby>
+last_modified_at: '2018-01-28T17:05:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>01<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>28<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 17<ruby>時<rt data-ruby-level="2">じ</rt></ruby>05<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ２０２０年の東京オリンピック・パラリンピックを盛り上げようと東京タワーや競技などがデザインされた特別機が２８日、羽田空港で公開されました。
+summary: ２０２０<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>の<ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>オリンピック・パラリンピックを<ruby>盛<rt
+  data-ruby-level="6">も</rt></ruby>り<ruby>上<rt data-ruby-level="6">あ</rt></ruby>げようと<ruby>東京<rt
+  data-ruby-level="2">とうきょう</rt></ruby>タワーや<ruby>競技<rt data-ruby-level="5">きょうぎ</rt></ruby>などがデザインされた<ruby>特別機<rt
+  data-ruby-level="4">とくべつき</rt></ruby>が２８<ruby>日<rt data-ruby-level="1">にち</rt></ruby>、<ruby>羽田空港<rt
+  data-ruby-level="3">はねだくうこう</rt></ruby>で<ruby>公開<rt data-ruby-level="3">こうかい</rt></ruby>されました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/28/K10011306031_1801281700_1801281705_01_02.jpg
+movie_url: https://newswebeasy.github.io/ja201801/news/web/movie/2018/01/28/k10011306031_201801281809_201801281814.mp4
+voice_url: https://newswebeasy.github.io/ja201801/news/web/voice/2018/01/28/k10011306031_201801281809_201801281814.mp3
+body:
+- text: <ruby>公開<rt data-ruby-level="3">こうかい</rt></ruby>されたのは<ruby>全日空<rt data-ruby-level="3">ぜんにっくう</rt></ruby>のボーイング７７７<ruby>型機<rt
+    data-ruby-level="4">がたき</rt></ruby>の<ruby>特別機<rt data-ruby-level="4">とくべつき</rt></ruby>、「ＨＥＬＬＯ２０２０ＪＥＴ」です。<br
+    /><br /><ruby>羽田空港<rt data-ruby-level="3">はねだくうこう</rt></ruby>で<ruby>開<rt data-ruby-level="3">ひら</rt></ruby>かれた<ruby>催<rt
+    data-ruby-level="7">もよお</rt></ruby>しでは<ruby>組織<rt data-ruby-level="5">そしき</rt></ruby><ruby>委員会<rt
+    data-ruby-level="3">いいんかい</rt></ruby>の<ruby>古宮<rt data-ruby-level="3">こみや</rt></ruby><ruby>正章<rt
+    data-ruby-level="8">まさあき</rt></ruby><ruby>副<rt data-ruby-level="4">ふく</rt></ruby><ruby>事務<rt
+    data-ruby-level="5">じむ</rt></ruby><ruby>総長<rt data-ruby-level="5">そうちょう</rt></ruby>が「<ruby>大会<rt
+    data-ruby-level="2">たいかい</rt></ruby>へのワクワク<ruby>感<rt data-ruby-level="3">かん</rt></ruby>を<ruby>伝<rt
+    data-ruby-level="4">つた</rt></ruby>えてくれるメッセンジャーとして<ruby>飛<rt data-ruby-level="4">と</rt></ruby>び<ruby>回<rt
+    data-ruby-level="4">まわ</rt></ruby>ってほしい」とあいさつしました。<br /><br /><ruby>黄色<rt data-ruby-level="2">きいろ</rt></ruby>や<ruby>青色<rt
+    data-ruby-level="2">あおいろ</rt></ruby>、それに<ruby>オレンジ<rt data-ruby-level="2">おれんじ</rt></ruby><ruby>色<rt
+    data-ruby-level="2">いろ</rt></ruby>の<ruby>機体<rt data-ruby-level="4">きたい</rt></ruby>の<ruby>胴体<rt
+    data-ruby-level="7">どうたい</rt></ruby><ruby>部分<rt data-ruby-level="3">ぶぶん</rt></ruby>には<ruby>東京<rt
+    data-ruby-level="2">とうきょう</rt></ruby>タワーや<ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>スカイツリーのほか<ruby>水泳<rt
+    data-ruby-level="3">すいえい</rt></ruby>や<ruby>野球<rt data-ruby-level="3">やきゅう</rt></ruby>、<ruby>車<rt
+    data-ruby-level="1">くるま</rt></ruby>いすバスケットボールなどオリンピック・パラリンピックの<ruby>競技<rt data-ruby-level="5">きょうぎ</rt></ruby>や<ruby>種目<rt
+    data-ruby-level="4">しゅもく</rt></ruby>がデザインされています。<br /><br />また、<ruby>機内<rt data-ruby-level="4">きない</rt></ruby>の<ruby>客席<rt
+    data-ruby-level="4">きゃくせき</rt></ruby>や<ruby>客室<rt data-ruby-level="3">きゃくしつ</rt></ruby><ruby>乗務員<rt
+    data-ruby-level="5">じょうむいん</rt></ruby>のエプロンにも<ruby>大会<rt data-ruby-level="2">たいかい</rt></ruby>のエンブレムがあしらわれています。<br
+    /><br /><ruby>応募<rt data-ruby-level="7">おうぼ</rt></ruby>があった７８６の<ruby>作品<rt data-ruby-level="3">さくひん</rt></ruby>の<ruby>中<rt
+    data-ruby-level="1">なか</rt></ruby>からデザインが<ruby>採用<rt data-ruby-level="5">さいよう</rt></ruby>された<ruby>神戸市<rt
+    data-ruby-level="8">こうべし</rt></ruby>の<ruby>高校<rt data-ruby-level="2">こうこう</rt></ruby>１<ruby>年生<rt
+    data-ruby-level="1">ねんせい</rt></ruby>、<ruby>松本<rt data-ruby-level="4">まつもと</rt></ruby><ruby>朝陽<rt
+    data-ruby-level="8">あさひ</rt></ruby>さん（１６）は「デザインどおりに<ruby>描<rt data-ruby-level="7">えが</rt></ruby>かれていて<ruby>感謝<rt
+    data-ruby-level="5">かんしゃ</rt></ruby>したいです。<ruby>選手<rt data-ruby-level="4">せんしゅ</rt></ruby>の<ruby>皆<rt
+    data-ruby-level="7">みな</rt></ruby>さんには<ruby>金<rt data-ruby-level="1">きん</rt></ruby><ruby>メダル<rt
+    data-ruby-level="1">めだる</rt></ruby>が<ruby>取<rt data-ruby-level="3">と</rt></ruby>れるよう<ruby>頑張<rt
+    data-ruby-level="7">がんば</rt></ruby>ってほしいです」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。<br
+    /><br /><ruby>特別機<rt data-ruby-level="4">とくべつき</rt></ruby>は、２９<ruby>日午前<rt data-ruby-level="2">にちごぜん</rt></ruby>８<ruby>時<rt
+    data-ruby-level="2">じ</rt></ruby>２０<ruby>分<rt data-ruby-level="2">ふん</rt></ruby>に<ruby>羽田<rt
+    data-ruby-level="2">はねだ</rt></ruby>から<ruby>福岡<rt data-ruby-level="7">ふくおか</rt></ruby>に<ruby>向<rt
+    data-ruby-level="3">む</rt></ruby>かう<ruby>便<rt data-ruby-level="4">びん</rt></ruby>で<ruby>運航<rt
+    data-ruby-level="4">うんこう</rt></ruby>を<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>め、<ruby>大会<rt
+    data-ruby-level="2">たいかい</rt></ruby><ruby>期間中<rt data-ruby-level="3">きかんちゅう</rt></ruby>も<ruby>国内線<rt
+    data-ruby-level="2">こくないせん</rt></ruby>で<ruby>使用<rt data-ruby-level="3">しよう</rt></ruby>されるということです。
+  image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/28/K10011306031_1801281700_1801281705_01_03.jpg
+source_url: https://www3.nhk.or.jp/news/html/20180128/k10011306031000.html
+related_news:
+- title: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>パラまで1000<ruby>日<rt data-ruby-level="1">にち</rt></ruby>
+    スカイツリー3<ruby>色<rt data-ruby-level="2">しょく</rt></ruby>にライトアップ
+  url: https://newswebeasy.github.io/news/web/2017/11/29/東京パラまで1000日-スカイツリー3色にライトアップ
+- title: ２０２２<ruby>年<rt data-ruby-level="1">ねん</rt></ruby><ruby>北京<rt data-ruby-level="8">ぺきん</rt></ruby><ruby>五輪<rt
+    data-ruby-level="4">ごりん</rt></ruby>・パラのエンブレム<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/16/2022年北京五輪パラのエンブレム発表
+- title: ピョンチャン<ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby>まで100<ruby>日<rt data-ruby-level="1">にち</rt></ruby>
+    <ruby>韓国<rt data-ruby-level="7">かんこく</rt></ruby>で<ruby>聖火<rt data-ruby-level="6">せいか</rt></ruby>リレー<ruby>始<rt
+    data-ruby-level="3">はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/web/2017/11/01/ピョンチャン五輪まで100日-韓国で聖火リレー始まる
+- title: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby><ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby>とパラリンピック
+    <ruby>関心<rt data-ruby-level="4">かんしん</rt></ruby>に<ruby>差<rt data-ruby-level="4">さ</rt></ruby>
+    ＮＨＫ<ruby>世論調査<rt data-ruby-level="6">よろんちょうさ</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/21/東京五輪とパラリンピック-関心に差-NHK世論調査
+- title: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby><ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby>・パラ
+    <ruby>大会<rt data-ruby-level="2">たいかい</rt></ruby>のマスコット３<ruby>候補<rt data-ruby-level="6">こうほ</rt></ruby>を<ruby>発表<rt
+    data-ruby-level="3">はっぴょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/07/東京五輪パラ-大会のマスコット3候補を発表
+...
