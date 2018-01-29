@@ -1,0 +1,110 @@
+---
+layout: web_news
+categories: web
+newsid: k10011305661000
+title: コインチェック 被害受けた26万人に補償と発表
+title_with_ruby: コインチェック <ruby>被害<rt data-ruby-level="7">ひがい</rt></ruby><ruby>受<rt
+  data-ruby-level="3">う</rt></ruby>けた26<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>に<ruby>補償<rt
+  data-ruby-level="7">ほしょう</rt></ruby>と<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>
+last_modified_at: '2018-01-28T02:11:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>01<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>28<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 02<ruby>時<rt data-ruby-level="2">じ</rt></ruby>11<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: インターネット上の仮想通貨を取り扱う国内の大手取引所、「コインチェック」から５８０億円相当の仮想通貨が流出した問題で、「コインチェック」は、２８日未明、被害を受けたおよそ２６万人の顧客を対象に仮想通貨の保有数に応じて日本円で返金する方針を明らかにしました。
+summary: インターネット<ruby>上<rt data-ruby-level="1">じょう</rt></ruby>の<ruby>仮想<rt data-ruby-level="5">かそう</rt></ruby><ruby>通貨<rt
+  data-ruby-level="4">つうか</rt></ruby>を<ruby>取<rt data-ruby-level="7">と</rt></ruby>り<ruby>扱<rt
+  data-ruby-level="7">あつか</rt></ruby>う<ruby>国内<rt data-ruby-level="2">こくない</rt></ruby>の<ruby>大手<rt
+  data-ruby-level="1">おおて</rt></ruby><ruby>取引所<rt data-ruby-level="3">とりひきじょ</rt></ruby>、「コインチェック」から５８０<ruby>億円<rt
+  data-ruby-level="4">おくえん</rt></ruby><ruby>相当<rt data-ruby-level="3">そうとう</rt></ruby>の<ruby>仮想<rt
+  data-ruby-level="5">かそう</rt></ruby><ruby>通貨<rt data-ruby-level="4">つうか</rt></ruby>が<ruby>流出<rt
+  data-ruby-level="3">りゅうしゅつ</rt></ruby>した<ruby>問題<rt data-ruby-level="3">もんだい</rt></ruby>で、「コインチェック」は、２８<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby><ruby>未明<rt data-ruby-level="4">みめい</rt></ruby>、<ruby>被害<rt
+  data-ruby-level="7">ひがい</rt></ruby>を<ruby>受<rt data-ruby-level="3">う</rt></ruby>けたおよそ２６<ruby>万人<rt
+  data-ruby-level="2">まんにん</rt></ruby>の<ruby>顧客<rt data-ruby-level="7">こきゃく</rt></ruby>を<ruby>対象<rt
+  data-ruby-level="4">たいしょう</rt></ruby>に<ruby>仮想<rt data-ruby-level="5">かそう</rt></ruby><ruby>通貨<rt
+  data-ruby-level="4">つうか</rt></ruby>の<ruby>保有数<rt data-ruby-level="5">ほゆうすう</rt></ruby>に<ruby>応<rt
+  data-ruby-level="5">おう</rt></ruby>じて<ruby>日本円<rt data-ruby-level="1">にほんえん</rt></ruby>で<ruby>返金<rt
+  data-ruby-level="3">へんきん</rt></ruby>する<ruby>方針<rt data-ruby-level="6">ほうしん</rt></ruby>を<ruby>明<rt
+  data-ruby-level="2">あき</rt></ruby>らかにしました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/28/K10011305661_1801280126_1801280127_01_02.jpg
+more: <ruby>仮想<rt data-ruby-level="5">かそう</rt></ruby><ruby>通貨<rt data-ruby-level="4">つうか</rt></ruby>の<ruby>大手<rt
+  data-ruby-level="1">おおて</rt></ruby><ruby>取引所<rt data-ruby-level="3">とりひきじょ</rt></ruby>、「コインチェック」では、２６<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby><ruby>未明<rt data-ruby-level="4">みめい</rt></ruby>、<ruby>外部<rt
+  data-ruby-level="3">がいぶ</rt></ruby>からの<ruby>不正<rt data-ruby-level="4">ふせい</rt></ruby>なアクセスによって、<ruby>顧客<rt
+  data-ruby-level="7">こきゃく</rt></ruby>から<ruby>預<rt data-ruby-level="5">あず</rt></ruby>かっていた５８０<ruby>億円<rt
+  data-ruby-level="4">おくえん</rt></ruby>に<ruby>相当<rt data-ruby-level="3">そうとう</rt></ruby>する「ＮＥＭ」と<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>ばれる<ruby>仮想<rt data-ruby-level="5">かそう</rt></ruby><ruby>通貨<rt
+  data-ruby-level="4">つうか</rt></ruby>が<ruby>流出<rt data-ruby-level="3">りゅうしゅつ</rt></ruby>しました。<br
+  /><br /><ruby>会社<rt data-ruby-level="2">かいしゃ</rt></ruby>は、<ruby>取<rt data-ruby-level="7">と</rt></ruby>り<ruby>扱<rt
+  data-ruby-level="7">あつか</rt></ruby>っている<ruby>仮想<rt data-ruby-level="5">かそう</rt></ruby><ruby>通貨<rt
+  data-ruby-level="4">つうか</rt></ruby>の<ruby>大半<rt data-ruby-level="2">たいはん</rt></ruby>について<ruby>売買<rt
+  data-ruby-level="2">ばいばい</rt></ruby>の<ruby>取引<rt data-ruby-level="3">とりひき</rt></ruby>や<ruby>日本円<rt
+  data-ruby-level="1">にほんえん</rt></ruby>での<ruby>出金<rt data-ruby-level="1">しゅっきん</rt></ruby>を<ruby>停止<rt
+  data-ruby-level="4">ていし</rt></ruby>し、<ruby>原因<rt data-ruby-level="5">げんいん</rt></ruby>の<ruby>究明<rt
+  data-ruby-level="3">きゅうめい</rt></ruby>などを<ruby>進<rt data-ruby-level="3">すす</rt></ruby>めて<ruby>来<rt
+  data-ruby-level="2">き</rt></ruby>ましたが、２８<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>未明<rt
+  data-ruby-level="4">みめい</rt></ruby>、<ruby>被害<rt data-ruby-level="7">ひがい</rt></ruby>を<ruby>受<rt
+  data-ruby-level="3">う</rt></ruby>けた<ruby>顧客<rt data-ruby-level="7">こきゃく</rt></ruby>の<ruby>数<rt
+  data-ruby-level="2">かず</rt></ruby>がおよそ２６<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>に<ruby>及<rt
+  data-ruby-level="7">およ</rt></ruby>ぶことを<ruby>明<rt data-ruby-level="2">あき</rt></ruby>らかにするとともに、これらの<ruby>顧客<rt
+  data-ruby-level="7">こきゃく</rt></ruby>に<ruby>対<rt data-ruby-level="3">たい</rt></ruby>し、<ruby>仮想<rt
+  data-ruby-level="5">かそう</rt></ruby><ruby>通貨<rt data-ruby-level="4">つうか</rt></ruby>の<ruby>保有数<rt
+  data-ruby-level="5">ほゆうすう</rt></ruby>に<ruby>応<rt data-ruby-level="5">おう</rt></ruby>じて<ruby>日本円<rt
+  data-ruby-level="1">にほんえん</rt></ruby>で<ruby>返金<rt data-ruby-level="3">へんきん</rt></ruby>する<ruby>方針<rt
+  data-ruby-level="6">ほうしん</rt></ruby>を<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>しました。<br
+  /><br /><ruby>補償<rt data-ruby-level="7">ほしょう</rt></ruby>の<ruby>時期<rt data-ruby-level="3">じき</rt></ruby>や<ruby>手続<rt
+  data-ruby-level="4">てつづ</rt></ruby>きの<ruby>方法<rt data-ruby-level="4">ほうほう</rt></ruby>については<ruby>検討中<rt
+  data-ruby-level="6">けんとうちゅう</rt></ruby>だとしていて、<ruby>補償<rt data-ruby-level="7">ほしょう</rt></ruby>の<ruby>原資<rt
+  data-ruby-level="5">げんし</rt></ruby>は<ruby>自己<rt data-ruby-level="6">じこ</rt></ruby><ruby>資金<rt
+  data-ruby-level="5">しきん</rt></ruby>で<ruby>賄<rt data-ruby-level="7">まかな</rt></ruby>うとしています。<ruby>補償<rt
+  data-ruby-level="7">ほしょう</rt></ruby>する<ruby>額<rt data-ruby-level="5">がく</rt></ruby>は、<ruby>売買<rt
+  data-ruby-level="2">ばいばい</rt></ruby>が<ruby>停止<rt data-ruby-level="4">ていし</rt></ruby>された<ruby>時<rt
+  data-ruby-level="2">とき</rt></ruby>の<ruby>価格<rt data-ruby-level="5">かかく</rt></ruby>やその<ruby>後<rt
+  data-ruby-level="2">ご</rt></ruby>の<ruby>他<rt data-ruby-level="8">ほか</rt></ruby>の<ruby>取引所<rt
+  data-ruby-level="3">とりひきじょ</rt></ruby>での<ruby>価格<rt data-ruby-level="5">かかく</rt></ruby>を<ruby>参考<rt
+  data-ruby-level="4">さんこう</rt></ruby>に<ruby>算出<rt data-ruby-level="2">さんしゅつ</rt></ruby>するとしていて<ruby>総額<rt
+  data-ruby-level="5">そうがく</rt></ruby>で４６０<ruby>億円<rt data-ruby-level="4">おくえん</rt></ruby><ruby>余<rt
+  data-ruby-level="5">あま</rt></ruby>りになると<ruby>見<rt data-ruby-level="1">み</rt></ruby>られます。<br
+  /><br /><ruby>会社<rt data-ruby-level="2">かいしゃ</rt></ruby><ruby>側<rt data-ruby-level="4">がわ</rt></ruby>は、<ruby>売買<rt
+  data-ruby-level="2">ばいばい</rt></ruby>の<ruby>停止<rt data-ruby-level="4">ていし</rt></ruby>が<ruby>続<rt
+  data-ruby-level="4">つづ</rt></ruby>いていることなどを<ruby>改<rt data-ruby-level="4">あらた</rt></ruby>めて<ruby>謝罪<rt
+  data-ruby-level="5">しゃざい</rt></ruby>したうえで、「セキュリティー<ruby>対策<rt data-ruby-level="6">たいさく</rt></ruby>の<ruby>強化<rt
+  data-ruby-level="3">きょうか</rt></ruby>などを<ruby>含<rt data-ruby-level="7">ふく</rt></ruby>めたサービス<ruby>再開<rt
+  data-ruby-level="5">さいかい</rt></ruby>に<ruby>尽力<rt data-ruby-level="7">じんりょく</rt></ruby>し、<ruby>今後<rt
+  data-ruby-level="2">こんご</rt></ruby>も<ruby>事業<rt data-ruby-level="3">じぎょう</rt></ruby>を<ruby>継続<rt
+  data-ruby-level="7">けいぞく</rt></ruby>して<ruby>参<rt data-ruby-level="4">まい</rt></ruby>ります」としています。
+movie_url: https://newswebeasy.github.io/ja201801/news/web/movie/2018/01/28/k10011305661_201801280610_201801280611.mp4
+voice_url: https://newswebeasy.github.io/ja201801/news/web/voice/2018/01/28/k10011305661_201801280610_201801280611.mp3
+body:
+- title: <ruby>金融庁<rt data-ruby-level="7">きんゆうちょう</rt></ruby> きょうにも<ruby>報告<rt data-ruby-level="5">ほうこく</rt></ruby><ruby>受<rt
+    data-ruby-level="3">う</rt></ruby>け<ruby>対応<rt data-ruby-level="5">たいおう</rt></ruby><ruby>検討<rt
+    data-ruby-level="6">けんとう</rt></ruby>へ
+  text: <ruby>仮想<rt data-ruby-level="5">かそう</rt></ruby><ruby>通貨<rt data-ruby-level="4">つうか</rt></ruby>の<ruby>取引所<rt
+    data-ruby-level="3">とりひきじょ</rt></ruby>は<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>１０<ruby>月<rt
+    data-ruby-level="1">がつ</rt></ruby>から<ruby>登録制<rt data-ruby-level="5">とうろくせい</rt></ruby>になっていて、「コインチェック」は、<ruby>登録<rt
+    data-ruby-level="4">とうろく</rt></ruby>の<ruby>審査<rt data-ruby-level="7">しんさ</rt></ruby>を<ruby>受<rt
+    data-ruby-level="3">う</rt></ruby>けている<ruby>段階<rt data-ruby-level="6">だんかい</rt></ruby>です。<ruby>金融庁<rt
+    data-ruby-level="7">きんゆうちょう</rt></ruby>は、２８<ruby>日<rt data-ruby-level="1">にち</rt></ruby>にも<ruby>会社<rt
+    data-ruby-level="2">かいしゃ</rt></ruby><ruby>側<rt data-ruby-level="4">がわ</rt></ruby>からセキュリティー<ruby>対策<rt
+    data-ruby-level="6">たいさく</rt></ruby>やこれまでの<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby>の<ruby>状況<rt
+    data-ruby-level="7">じょうきょう</rt></ruby>について<ruby>詳<rt data-ruby-level="7">くわ</rt></ruby>しい<ruby>報告<rt
+    data-ruby-level="5">ほうこく</rt></ruby>を<ruby>受<rt data-ruby-level="3">う</rt></ruby>け、<ruby>今後<rt
+    data-ruby-level="2">こんご</rt></ruby>、<ruby>処分<rt data-ruby-level="6">しょぶん</rt></ruby>が<ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>かどうかも<ruby>含<rt data-ruby-level="7">ふく</rt></ruby>めて<ruby>対応<rt
+    data-ruby-level="5">たいおう</rt></ruby>を<ruby>検討<rt data-ruby-level="6">けんとう</rt></ruby>することにしています。<br
+    /><br />また、<ruby>金融庁<rt data-ruby-level="7">きんゆうちょう</rt></ruby>は、<ruby>国内<rt data-ruby-level="2">こくない</rt></ruby>のほかの<ruby>取引所<rt
+    data-ruby-level="3">とりひきじょ</rt></ruby>に<ruby>対<rt data-ruby-level="3">たい</rt></ruby>しても、セキュリティー<ruby>対策<rt
+    data-ruby-level="6">たいさく</rt></ruby>を<ruby>向上<rt data-ruby-level="3">こうじょう</rt></ruby>させるよう<ruby>注意<rt
+    data-ruby-level="3">ちゅうい</rt></ruby><ruby>喚起<rt data-ruby-level="7">かんき</rt></ruby>を<ruby>行<rt
+    data-ruby-level="2">おこな</rt></ruby>いました。
+source_url: https://www3.nhk.or.jp/news/html/20180128/k10011305661000.html
+easy_title_with_ruby: インターネットでお<ruby>金<rt data-ruby-level="1">かね</rt></ruby>と<ruby>同<rt
+  data-ruby-level="2">おな</rt></ruby>じように<ruby>使<rt data-ruby-level="3">つか</rt></ruby>う「ＮＥＭ」がなくなる
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/01/29/インターネットでお金と同じように使うNEMがなくなる
+related_news:
+- title: ビットコイン <ruby>初<rt data-ruby-level="4">はつ</rt></ruby>の100<ruby>万<rt data-ruby-level="2">まん</rt></ruby><ruby>円<rt
+    data-ruby-level="1">えん</rt></ruby><ruby>超<rt data-ruby-level="7">ちょう</rt></ruby>
+    <ruby>急激<rt data-ruby-level="6">きゅうげき</rt></ruby>な<ruby>変動<rt data-ruby-level="4">へんどう</rt></ruby>に<ruby>注意<rt
+    data-ruby-level="3">ちゅうい</rt></ruby>も
+  url: https://newswebeasy.github.io/news/web/2017/11/26/ビットコイン-初の100万円超-急激な変動に注意も
+...

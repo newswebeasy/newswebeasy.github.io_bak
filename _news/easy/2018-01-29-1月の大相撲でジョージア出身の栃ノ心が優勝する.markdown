@@ -1,0 +1,62 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011305251000
+last_modified_at: '2018-01-29T17:20:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>29<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: １月の大相撲が２８日に終わりました。
+title: １月の大相撲でジョージア出身の栃ノ心が優勝する
+title_with_ruby: １<ruby>月<rt>がつ</rt></ruby>の<ruby>大相撲<rt>おおずもう</rt></ruby>でジョージア<ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>栃ノ心<rt>とちのしん</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>する
+outline: １月の大相撲が２８日に終わりました。
+outline_with_ruby: １<ruby>月<rt>がつ</rt></ruby>の<ruby>大相撲<rt>おおずもう</rt></ruby>が２８<ruby>日<rt>にち</rt></ruby>に<ruby>終<rt>お</rt></ruby>わりました。
+image_url: https://newswebeasy.github.io/ja201801/news/easy/image/2018/01/29/k10011305251000.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/29/k10011305251000.mp3
+content_with_ruby: "<p>１<ruby>月<rt>がつ</rt></ruby>の<span style=\"color: blue;\"><ruby>大相撲<rt>おおずもう</rt></ruby></span>が２８<ruby>日<rt>にち</rt></ruby>に<ruby>終<rt>お</rt></ruby>わりました。<ruby>栃ノ心<rt>とちのしん</rt></ruby>が１５<ruby>回<rt>かい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>相撲<rt>すもう</rt></ruby></span>のうち１４<ruby>回<rt>かい</rt></ruby><ruby>勝<rt>か</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。</p>\n<p><ruby>栃ノ心<rt>とちのしん</rt></ruby>は、ロシアとトルコの<ruby>間<rt>あいだ</rt></ruby>にあるジョージアという<ruby>国<rt>くに</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>出身<rt>しゅっしん</rt></ruby></span>です。<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>は<ruby>柔道<rt>じゅうどう</rt></ruby>やロシアのサンボというスポーツをしていました。１８<ruby>歳<rt>さい</rt></ruby>のとき<ruby>初<rt>はじ</rt></ruby>めて<span\
+  \ style=\"color: blue;\"><ruby>大相撲<rt>おおずもう</rt></ruby></span>の<ruby>試合<rt>しあい</rt></ruby>に<ruby>出<rt>で</rt></ruby>て、<ruby>今<rt>いま</rt></ruby>３０<ruby>歳<rt>さい</rt></ruby>です。</p>\n\
+  <p><ruby>栃ノ心<rt>とちのしん</rt></ruby>は「けがをして<ruby>何<rt>なん</rt></ruby><ruby>度<rt>ど</rt></ruby>も<span\
+  \ style=\"color: blue;\"><ruby>相撲<rt>すもう</rt></ruby></span>をやめようと<ruby>思<rt>おも</rt></ruby>いましたが、みんなの<span\
+  \ style=\"color: blue;\"><ruby>応援<rt>おうえん</rt></ruby></span>で<ruby>頑張<rt>がんば</rt></ruby>ることができました。<ruby>本当<rt>ほんとう</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>幸<rt>しあわ</rt></ruby>せ</span>です」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p>ジョージアにいるお<ruby>母<rt>かあ</rt></ruby>さんは「とてもうれしいです。<ruby>息子<rt>むすこ</rt></ruby>にはもっと<ruby>頑張<rt>がんば</rt></ruby>ってほしいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大相撲
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>が<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>専門</rb><rt>せんもん</rt></ruby>の<ruby><rb>力士</rb><rt>りきし</rt></ruby>による<ruby><rb>相撲</rb><rt>すもう</rt></ruby>。
+  - <ruby><rb>相撲</rb><rt>すもう</rt></ruby>で、なかなか<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けの<ruby><rb>決</rb><rt>き</rt></ruby>まらない<ruby><rb>力</rb><rt>ちから</rt></ruby>の<ruby><rb>入</rb><rt>はい</rt></ruby>った<ruby><rb>取組</rb><rt>とりくみ</rt></ruby>。
+- word: 出身
+  descriptions:
+  - その<ruby><rb>土地</rb><rt>とち</rt></ruby>で<ruby><rb>生</rb><rt>う</rt></ruby>まれたこと。
+  - その<ruby><rb>学校</rb><rt>がっこう</rt></ruby>を<ruby><rb>卒業</rb><rt>そつぎょう</rt></ruby>したこと。
+- word: 優勝
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>などで、<ruby><rb>一位</rb><rt>いちい</rt></ruby>で<ruby><rb>勝</rb><rt>か</rt></ruby>つこと。
+- word: 相撲
+  descriptions:
+  - <ruby><rb>土俵</rb><rt>どひょう</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>で、<ruby><rb>二人</rb><rt>ふたり</rt></ruby>が<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>組</rb><rt>く</rt></ruby>み、<ruby><rb>相手</rb><rt>あいて</rt></ruby>をたおすか、<ruby><rb>外</rb><rt>そと</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>すかして<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。<ruby><rb>国技</rb><rt>こくぎ</rt></ruby>とされる。
+- word: 応援
+  descriptions:
+  - <ruby><rb>味方</rb><rt>みかた</rt></ruby>を、はげますこと。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>をかして<ruby><rb>助</rb><rt>たす</rt></ruby>けること。
+- word: 幸せ
+  descriptions:
+  - <ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>満足</rb><rt>まんぞく</rt></ruby>している<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011305251000/k10011305251000.html
+web_title_with_ruby: <ruby>大相撲<rt>おおずもう</rt></ruby><ruby>初場所<rt>はつばしょ</rt></ruby>
+  <ruby>栃<rt>とち</rt></ruby><ruby>ノ<rt>の</rt></ruby><ruby>心<rt>しん</rt></ruby>が<ruby>初優勝<rt>はつゆうしょう</rt></ruby>
+  <ruby>平幕<rt>ひらまく</rt></ruby>の<ruby>優勝<rt>ゆうしょう</rt></ruby>は６<ruby>年<rt>ねん</rt></ruby>ぶり
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/27/大相撲初場所-栃ノ心が初優勝-平幕の優勝は6年ぶり
+related_news:
+- title: <ruby>将棋<rt>しょうぎ</rt></ruby>の<ruby>藤井<rt>ふじい</rt></ruby><ruby>聡太<rt>そうた</rt></ruby>さん　<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>早<rt>はや</rt></ruby>く５０<ruby>回<rt>かい</rt></ruby><ruby>勝<rt>か</rt></ruby>った
+  url: https://newswebeasy.github.io/news/easy/2017/11/22/将棋の藤井聡太さん-今まででいちばん早く50回勝った
+- title: <ruby>横綱<rt>よこづな</rt></ruby>の<ruby>日馬富士<rt>はるまふじ</rt></ruby>が<ruby>力士<rt>りきし</rt></ruby>を<ruby>殴<rt>なぐ</rt></ruby>ってけがをさせた<ruby>疑<rt>うたが</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2017/11/14/横綱の日馬富士が力士を殴ってけがをさせた疑い
+- title: <ruby>日馬富士<rt>はるまふじ</rt></ruby>が<ruby>力士<rt>りきし</rt></ruby>を<ruby>殴<rt>なぐ</rt></ruby>った<ruby>店<rt>みせ</rt></ruby>にいた<ruby>２人<rt>ふたり</rt></ruby>の<ruby>横綱<rt>よこづな</rt></ruby>の<ruby>給料<rt>きゅうりょう</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らす
+  url: https://newswebeasy.github.io/news/easy/2017/12/21/日馬富士が力士を殴った店にいた2人の横綱の給料を減らす
+- title: <ruby>横綱<rt>よこづな</rt></ruby>の<ruby>日馬富士<rt>はるまふじ</rt></ruby>が<ruby>力士<rt>りきし</rt></ruby>をやめる
+  url: https://newswebeasy.github.io/news/easy/2017/11/29/横綱の日馬富士が力士をやめる
+...

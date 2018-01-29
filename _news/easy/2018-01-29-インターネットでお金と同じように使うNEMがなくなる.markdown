@@ -1,0 +1,47 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011305661000
+last_modified_at: '2018-01-29T17:20:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>29<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: ２６日、「コインチェック」という会社のコンピューターに誰かが不正に入って、インターネットでお金と同じように使う「ＮＥＭ」がなくなりました。
+title: インターネットでお金と同じように使う「ＮＥＭ」がなくなる
+title_with_ruby: インターネットでお<ruby>金<rt>かね</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>使<rt>つか</rt></ruby>う「ＮＥＭ」がなくなる
+outline: ２６日、「コインチェック」という会社のコンピューターに誰かが不正に入って、インターネットでお金と同じように使う「ＮＥＭ」がなくなりました。
+outline_with_ruby: ２６<ruby>日<rt>にち</rt></ruby>、「コインチェック」という<ruby>会社<rt>かいしゃ</rt></ruby>のコンピューターに<ruby>誰<rt>だれ</rt></ruby>かが<ruby>不正<rt>ふせい</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って、インターネットでお<ruby>金<rt>かね</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>使<rt>つか</rt></ruby>う「ＮＥＭ」がなくなりました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/28/K10011305661_1801280126_1801280127_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/29/k10011305661000.mp3
+content_with_ruby: "<p>２６<ruby>日<rt>にち</rt></ruby>、「コインチェック」という<ruby>会社<rt>かいしゃ</rt></ruby>のコンピューターに<ruby>誰<rt>だれ</rt></ruby>かが<span\
+  \ style=\"color: blue;\"><ruby>不正<rt>ふせい</rt></ruby></span>に<ruby>入<rt>はい</rt></ruby>って、インターネットでお<ruby>金<rt>かね</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>使<rt>つか</rt></ruby>う「ＮＥＭ」がなくなりました。</p>\n\
+  <p>この<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>客<rt>きゃく</rt></ruby>のＮＥＭなどを<span style=\"\
+  color: blue;\"><ruby>預<rt>あず</rt></ruby>かっ</span>てインターネットで<ruby>売<rt>う</rt></ruby>ったり<ruby>買<rt>か</rt></ruby>ったりしていました。なくなったＮＥＭは<ruby>全部<rt>ぜんぶ</rt></ruby>で５８０<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>ぐらいでした。</p>\n\
+  <p><ruby>会社<rt>かいしゃ</rt></ruby>は２８<ruby>日<rt>にち</rt></ruby>、なくなったＮＥＭを<ruby>持<rt>も</rt></ruby>っていた<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>２６<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>の<ruby>客<rt>きゃく</rt></ruby>に<ruby>円<rt>えん</rt></ruby>でお<ruby>金<rt>かね</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>すと<ruby>言<rt>い</rt></ruby>いました。<ruby>今<rt>いま</rt></ruby>ＮＥＭは<ruby>安<rt>やす</rt></ruby>くなっているため、<ruby>返<rt>かえ</rt></ruby>すお<ruby>金<rt>かね</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby>で４６０<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>ぐらいになります。お<ruby>金<rt>かね</rt></ruby>をいつ<ruby>返<rt>かえ</rt></ruby>すかははっきり<ruby>言<rt>い</rt></ruby>いませんでした。</p>\n\
+  <p><ruby>国<rt>くに</rt></ruby>はコインチェックに、<ruby>客<rt>きゃく</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>すように<ruby>厳<rt>きび</rt></ruby>しく<ruby>言<rt>い</rt></ruby>いました。そして、<ruby>原因<rt>げんいん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べて、<span\
+  \ style=\"color: blue;\">セキュリティー</span>をしっかりするように<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 不正
+  descriptions:
+  - <ruby><rb>正</rb><rt>ただ</rt></ruby>しくないこと。
+- word: 預かる
+  descriptions:
+  - ほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>物</rb><rt>もの</rt></ruby>を、<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>けて<ruby><rb>守</rb><rt>まも</rt></ruby>る。
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>ける。
+  - ものごとを<ruby><rb>決</rb><rt>き</rt></ruby>めないままにしておく。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: セキュリティー
+  descriptions:
+  - <ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ること。<ruby><rb>防犯</rb><rt>ぼうはん</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011305661000/k10011305661000.html
+web_title_with_ruby: <ruby>コイン<rt>こいん</rt></ruby><ruby>チェック<rt>ちぇっく</rt></ruby> <ruby>被害<rt>ひがい</rt></ruby><ruby>受<rt>う</rt></ruby>けた26<ruby>万人<rt>まんにん</rt></ruby>に<ruby>補償<rt>ほしょう</rt></ruby>と<ruby>発表<rt>はっぴょう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/28/コインチェック-被害受けた26万人に補償と発表
+related_news:
+- title: <ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>使<rt>つか</rt></ruby>ったお<ruby>金<rt>かね</rt></ruby>　<ruby>初<rt>はじ</rt></ruby>めて４<ruby>兆<rt>ちょう</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/01/17/旅行に来た外国人が使ったお金-初めて4兆円以上になる
+...
