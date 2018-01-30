@@ -1,0 +1,78 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011305611000
+last_modified_at: '2018-01-30T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: タイのバンコクで２６日から２８日まで、日本の音楽や食べ物などを紹介するイベントがありました。
+title: タイで日本の音楽や食べ物を紹介するイベント
+title_with_ruby: タイで<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>音楽<rt>おんがく</rt></ruby>や<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント
+outline: タイのバンコクで２６日から２８日まで、日本の音楽や食べ物などを紹介するイベントがありました。
+outline_with_ruby: タイのバンコクで２６<ruby>日<rt>にち</rt></ruby>から２８<ruby>日<rt>にち</rt></ruby>まで、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>音楽<rt>おんがく</rt></ruby>や<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>などを<ruby>紹介<rt>しょうかい</rt></ruby>するイベントがありました。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/28/K10011305611_1801280011_1801280013_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/30/k10011305611000.mp3
+content_with_ruby: "<p>タイのバンコクで２６<ruby>日<rt>にち</rt></ruby>から２８<ruby>日<rt>にち</rt></ruby>まで、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>音楽<rt>おんがく</rt></ruby>や<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>などを<ruby>紹介<rt>しょうかい</rt></ruby>する<span\
+  \ style=\"color: blue;\">イベント</span>がありました。</p>\n<p><ruby>会場<rt>かいじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\">ステージ</span>では、<ruby>日本<rt>にっぽん</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>歌手<rt>かしゅ</rt></ruby></span>たちが<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>いました。ＭａｙＪ．さんは、タイの<ruby>子<rt>こ</rt></ruby>どもたちと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>歌<rt>うた</rt></ruby>いました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>も<ruby>紹介<rt>しょうかい</rt></ruby>しました。お<span\
+  \ style=\"color: blue;\"><ruby>年寄<rt>としよ</rt></ruby>り</span>や<ruby>体<rt>からだ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>うための<span\
+  \ style=\"color: blue;\">ロボット</span>は、<span style=\"color: blue;\"><ruby>床<rt>ゆか</rt></ruby></span>に<ruby>置<rt>お</rt></ruby>いてある<span\
+  \ style=\"color: blue;\">ペットボトル</span>を<ruby>拾<rt>ひろ</rt></ruby>って<ruby>人<rt>ひと</rt></ruby>に<ruby>渡<rt>わた</rt></ruby>していました。</p>\n\
+  <p><span style=\"color: blue;\">ラーメン</span>など<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>食<rt>た</rt></ruby>べることができる<ruby>場所<rt>ばしょ</rt></ruby>もあって、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが<ruby>楽<rt>たの</rt></ruby>しんでいました。</p>\n\
+  <p><ruby>会場<rt>かいじょう</rt></ruby>に<ruby>来<rt>き</rt></ruby>たタイの<ruby>女性<rt>じょせい</rt></ruby>は「<span\
+  \ style=\"color: blue;\">アニメ</span>など<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。<span\
+  \ style=\"color: blue;\">アニメ</span>に<ruby>出<rt>で</rt></ruby>てくる<ruby>人<rt>ひと</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>て<ruby>来<rt>き</rt></ruby>ました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: ステージ
+  descriptions:
+  - <ruby><rb>舞台</rb><rt>ぶたい</rt></ruby>。
+- word: 歌手
+  descriptions:
+  - <ruby><rb>歌</rb><rt>うた</rt></ruby>を<ruby><rb>歌</rb><rt>うた</rt></ruby>うことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 年寄り
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。
+  - <ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 障害
+  descriptions:
+  - <ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。
+- word: ロボット
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>磁気</rb><rt>じき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。<ruby><rb>人造</rb><rt>じんぞう</rt></ruby><ruby><rb>人間</rb><rt>にんげん</rt></ruby>。
+  - <ruby><rb>工場</rb><rt>こうじょう</rt></ruby>などで<ruby><rb>人間</rb><rt>にんげん</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって、<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。
+  - （いつも）<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>いなりになって<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 床
+  descriptions:
+  - <ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、<ruby><rb>地面</rb><rt>じめん</rt></ruby>より<ruby><rb>高</rb><rt>たか</rt></ruby>く、<ruby><rb>板</rb><rt>いた</rt></ruby>を<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>張</rb><rt>は</rt></ruby>ったところ。
+- word: ペットボトル
+  descriptions:
+  - <ruby><rb>樹脂製</rb><rt>じゅしせい</rt></ruby>の<ruby><rb>容器</rb><rt>ようき</rt></ruby>。<ruby><rb>軽</rb><rt>かる</rt></ruby>くて<ruby><rb>丈夫</rb><rt>じょうぶ</rt></ruby>なので<ruby><rb>飲</rb><rt>の</rt></ruby>み<ruby><rb>物</rb><rt>もの</rt></ruby>などの<ruby><rb>容器</rb><rt>ようき</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>われる。ポリエチレンテレフタレートの<ruby><rb>頭文字</rb><rt>かしらもじ</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>って<ruby><rb>PET</rb><rt>ぺット</rt></ruby>という。
+- word: ラーメン
+  descriptions:
+  - <ruby><rb>中国風</rb><rt>ちゅうごくふう</rt></ruby>のめんをゆで、スープをかけた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>中華</rb><rt>ちゅうか</rt></ruby>そば。
+- word: アニメーション
+  descriptions:
+  - かいた<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>を、<ruby><rb>動</rb><rt>うご</rt></ruby>きに<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>撮影</rb><rt>さつえい</rt></ruby>し、それを<ruby><rb>映</rb><rt>うつ</rt></ruby>して<ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>動</rb><rt>うご</rt></ruby>いているように<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>映画</rb><rt>えいが</rt></ruby>。<ruby><rb>動画</rb><rt>どうが</rt></ruby>。アニメ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011305611000/k10011305611000.html
+web_title_with_ruby: <ruby>タイ<rt>たい</rt></ruby>で<ruby>ジャパン<rt>じゃぱん</rt></ruby><ruby>エキスポ<rt>えきすぽ</rt></ruby>
+  <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>音楽<rt>おんがく</rt></ruby>や<ruby>食文化<rt>しょくぶんか</rt></ruby>ＰＲ
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/28/タイでジャパンエキスポ-日本の音楽や食文化PR
+related_news:
+- title: 「ぐるなび」がタイ<ruby>観光庁<rt>かんこうちょう</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>してタイの<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/12/08/ぐるなびがタイ観光庁と協力してタイの情報を紹介
+- title: <ruby>日本<rt>にっぽん</rt></ruby><ruby>政府<rt>せいふ</rt></ruby>　タイで<ruby>新幹線<rt>しんかんせん</rt></ruby>を２０２５<ruby>年<rt>ねん</rt></ruby>に<ruby>走<rt>はし</rt></ruby>らせる<ruby>計画<rt>けいかく</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/12/18/日本政府-タイで新幹線を2025年に走らせる計画を説明
+- title: 「<ruby>中国人<rt>ちゅうごくじん</rt></ruby>が<ruby>行<rt>い</rt></ruby>きたい<ruby>国<rt>くに</rt></ruby>」で<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めて１<ruby>番<rt>ばん</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2017/12/19/中国人が行きたい国で日本が初めて1番になる
+- title: <ruby>去年<rt>きょねん</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>はいちばん<ruby>多<rt>おお</rt></ruby>い２８６９<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/16/去年日本へ旅行に来た外国人はいちばん多い2869万人
+...
