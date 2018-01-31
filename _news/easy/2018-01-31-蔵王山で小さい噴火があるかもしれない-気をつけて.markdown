@@ -1,0 +1,85 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011308251000
+last_modified_at: '2018-01-31T17:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 宮城県と山形県の間にある蔵王山という山では、１月２８日から火山の活動が原因の地震が続いています。
+title: 蔵王山で小さい噴火があるかもしれない　気をつけて
+title_with_ruby: <ruby>蔵王山<rt>ざおうざん</rt></ruby>で<ruby>小<rt>ちい</rt></ruby>さい<ruby>噴火<rt>ふんか</rt></ruby>があるかもしれない　<ruby>気<rt>き</rt></ruby>をつけて
+outline: 宮城県と山形県の間にある蔵王山という山では、１月２８日から火山の活動が原因の地震が続いています。
+outline_with_ruby: <ruby>宮城県<rt>みやぎけん</rt></ruby>と<ruby>山形県<rt>やまがたけん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にある<ruby>蔵王山<rt>ざおうざん</rt></ruby>という<ruby>山<rt>やま</rt></ruby>では、１<ruby>月<rt>がつ</rt></ruby>２８<ruby>日<rt>にち</rt></ruby>から<ruby>火山<rt>かざん</rt></ruby>の<ruby>活動<rt>かつどう</rt></ruby>が<ruby>原因<rt>げんいん</rt></ruby>の<ruby>地震<rt>じしん</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/30/K10011308251_1801302028_1801302030_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/31/k10011308251000.mp3
+content_with_ruby: "<p><ruby>宮城県<rt>みやぎけん</rt></ruby>と<ruby>山形県<rt>やまがたけん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にある<ruby>蔵王山<rt>ざおうざん</rt></ruby>という<ruby>山<rt>やま</rt></ruby>では、１<ruby>月<rt>がつ</rt></ruby>２８<ruby>日<rt>にち</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>火山<rt>かざん</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>が<ruby>原因<rt>げんいん</rt></ruby>の<ruby>地震<rt>じしん</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。<ruby>山<rt>やま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>頂上<rt>ちょうじょう</rt></ruby></span>の<ruby>南<rt>みなみ</rt></ruby><ruby>側<rt>がわ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>膨<rt>ふく</rt></ruby>らん</span>でいることもわかりました。</p>\n<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は３０<ruby>日<rt>にち</rt></ruby>、これから<ruby>小<rt>ちい</rt></ruby>さい<span\
+  \ style=\"color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>があるかもしれないと<ruby>考<rt>かんが</rt></ruby>えて、<ruby>蔵王山<rt>ざおうざん</rt></ruby>の「<ruby>噴火<rt>ふんか</rt></ruby><ruby>警戒<rt>けいかい</rt></ruby>」の<span\
+  \ style=\"color: blue;\">レベル</span>を２に<ruby>上<rt>あ</rt></ruby>げたと<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>の<span style=\"\
+  color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>がある<ruby>場所<rt>ばしょ</rt></ruby>から１．２ｋｍ<ruby>以内<rt>いない</rt></ruby>では、<span\
+  \ style=\"color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>のときに<ruby>飛<rt>と</rt></ruby>んでくる<ruby>大<rt>おお</rt></ruby>きな<ruby>石<rt>いし</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけるように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>この<ruby>場所<rt>ばしょ</rt></ruby>から４ｋｍの<ruby>所<rt>ところ</rt></ruby>にある<span style=\"\
+  color: blue;\">スキー</span><span style=\"color: blue;\"><ruby>場<rt>じょう</rt></ruby></span>では、いちばん<ruby>高<rt>たか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>へ<ruby>上<rt>あ</rt></ruby>がる<span\
+  \ style=\"color: blue;\">リフト</span>の<ruby>運転<rt>うんてん</rt></ruby>をやめました。<span style=\"\
+  color: blue;\"><ruby>樹氷<rt>じゅひょう</rt></ruby></span>などの<ruby>景色<rt>けしき</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<span\
+  \ style=\"color: blue;\">ツアー</span>も、<ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>までは<ruby>行<rt>い</rt></ruby>かないことにしています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 噴火
+  descriptions:
+  - <ruby><rb>火山</rb><rt>かざん</rt></ruby>が<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>して、とけた<ruby><rb>溶岩</rb><rt>ようがん</rt></ruby>や、<ruby><rb>火山灰</rb><rt>かざんばい</rt></ruby>・<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>・ガスをふき<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 火山
+  descriptions:
+  - <ruby><rb>地下</rb><rt>ちか</rt></ruby>のマグマが、<ruby><rb>地表</rb><rt>ちひょう</rt></ruby>にふき<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>山</rb><rt>やま</rt></ruby>となっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 活動
+  descriptions:
+  - <ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。
+- word: 頂
+  descriptions:
+  - <ruby><rb>山</rb><rt>やま</rt></ruby>などのいちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>頂上</rb><rt>ちょうじょう</rt></ruby>。
+- word: 膨らむ
+  descriptions:
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>盛</rb><rt>も</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>がって、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。ふくれて<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+- word: レベル
+  descriptions:
+  - <ruby><rb>評価</rb><rt>ひょうか</rt></ruby>をするときの<ruby><rb>標準</rb><rt>ひょうじゅん</rt></ruby>。<ruby><rb>水準</rb><rt>すいじゅん</rt></ruby>。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: スキー
+  descriptions:
+  - くつに<ruby><rb>取</rb><rt>と</rt></ruby>りつけて、<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>板</rb><rt>いた</rt></ruby>。
+  - 「<span class="dic_sansyogogi">1)</span>」を<ruby><rb>使</rb><rt>つか</rt></ruby>って<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。
+- word: 場
+  descriptions:
+  - ばしょ。
+- word: リフト
+  descriptions:
+  - <ruby><rb>荷物</rb><rt>にもつ</rt></ruby>などの<ruby><rb>上</rb><rt>あ</rt></ruby>げ<ruby><rb>下</rb><rt>お</rt></ruby>ろしに<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>小</rb><rt>ちい</rt></ruby>さなエレベーター。<ruby><rb>昇降機</rb><rt>しょうこうき</rt></ruby>。
+  - スキー<ruby><rb>場</rb><rt>じょう</rt></ruby>などで、<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 樹氷
+  descriptions:
+  - <ruby><rb>霧</rb><rt>きり</rt></ruby>が<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>幹</rb><rt>みき</rt></ruby>や<ruby><rb>枝</rb><rt>えだ</rt></ruby><ruby><rb>一面</rb><rt>いちめん</rt></ruby>に<ruby><rb>白</rb><rt>しろ</rt></ruby>くこおりついたもの。
+- word: ツアー
+  descriptions:
+  - <ruby><rb>観光</rb><rt>かんこう</rt></ruby>やスポーツなどのために、<ruby><rb>団体</rb><rt>だんたい</rt></ruby>で<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011308251000/k10011308251000.html
+web_title_with_ruby: <ruby>蔵王山<rt>ざおうざん</rt></ruby>で<ruby>火山性<rt>かざんせい</rt></ruby><ruby>微動<rt>びどう</rt></ruby>と<ruby>地殻<rt>ちかく</rt></ruby><ruby>変動<rt>へんどう</rt></ruby>
+  <ruby>噴火<rt>ふんか</rt></ruby><ruby>警戒<rt>けいかい</rt></ruby><ruby>レベル<rt>れべる</rt></ruby>２に
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/30/蔵王山で火山性微動と地殻変動-噴火警戒レベル2に
+related_news:
+- title: <ruby>群馬県<rt>ぐんまけん</rt></ruby>にある<ruby>草津白根山<rt>くさつしらねさん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>　<ruby>雪崩<rt>なだれ</rt></ruby>も<ruby>起<rt>お</rt></ruby>こる
+  url: https://newswebeasy.github.io/news/easy/2018/01/23/群馬県にある草津白根山が噴火-雪崩も起こる
+- title: <ruby>草津白根山<rt>くさつしらねさん</rt></ruby>　<ruby>煙<rt>けむり</rt></ruby>や<ruby>石<rt>いし</rt></ruby>などが<ruby>出<rt>で</rt></ruby>た<ruby>噴火口<rt>ふんかこう</rt></ruby>が６つ<ruby>見<rt>み</rt></ruby>つかる
+  url: https://newswebeasy.github.io/news/easy/2018/01/26/草津白根山-煙や石などが出た噴火口が6つ見つかる
+- title: バリ<ruby>島<rt>とう</rt></ruby>で<ruby>火山<rt>かざん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>　<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>飛<rt>と</rt></ruby>ぶことができなくなる
+  url: https://newswebeasy.github.io/news/easy/2017/11/29/バリ島で火山が噴火-飛行機が飛ぶことができなくなる
+- title: <ruby>草津温泉<rt>くさつおんせん</rt></ruby>　<ruby>噴火<rt>ふんか</rt></ruby>で<ruby>約<rt>やく</rt></ruby>５５００<ruby>件<rt>けん</rt></ruby>のキャンセルが<ruby>出<rt>で</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/01/30/草津温泉-噴火で約5500件のキャンセルが出る
+- title: <ruby>噴火<rt>ふんか</rt></ruby>でけがをした<ruby>男性<rt>だんせい</rt></ruby>が「<ruby>助<rt>たす</rt></ruby>かったよ」と<ruby>書<rt>か</rt></ruby>いて<ruby>妻<rt>つま</rt></ruby>と<ruby>会話<rt>かいわ</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/25/噴火でけがをした男性が助かったよと書いて妻と会話
+...

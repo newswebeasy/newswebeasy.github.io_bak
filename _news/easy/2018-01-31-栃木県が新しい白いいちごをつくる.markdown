@@ -1,0 +1,65 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011307441000
+last_modified_at: '2018-01-31T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 栃木県ではいちごを５０年前から日本でいちばんたくさん生産していて、「とちおとめ」という種類が有名です。
+title: 栃木県が新しい「白いいちご」をつくる
+title_with_ruby: <ruby>栃木県<rt>とちぎけん</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい「<ruby>白<rt>しろ</rt></ruby>いいちご」をつくる
+outline: 栃木県ではいちごを５０年前から日本でいちばんたくさん生産していて、「とちおとめ」という種類が有名です。
+outline_with_ruby: <ruby>栃木県<rt>とちぎけん</rt></ruby>ではいちごを５０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>日本<rt>にっぽん</rt></ruby>でいちばんたくさん<ruby>生産<rt>せいさん</rt></ruby>していて、「とちおとめ」という<ruby>種類<rt>しゅるい</rt></ruby>が<ruby>有名<rt>ゆうめい</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/30/K10011307441_1801300020_1801300421_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/31/k10011307441000.mp3
+content_with_ruby: "<p><ruby>栃木県<rt>とちぎけん</rt></ruby>では<span style=\"color: blue;\"\
+  >いちご</span>を５０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>日本<rt>にっぽん</rt></ruby>でいちばんたくさん<ruby>生産<rt>せいさん</rt></ruby>していて、「とちおとめ」という<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>が<ruby>有名<rt>ゆうめい</rt></ruby>です。</p>\n\
+  <p><ruby>栃木県<rt>とちぎけん</rt></ruby>の<span style=\"color: blue;\"><ruby>研究所<rt>けんきゅうじょ</rt></ruby></span>は、６<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">いちご</span>をつくる<ruby>研究<rt>けんきゅう</rt></ruby>をしていました。その<span style=\"color:\
+  \ blue;\"><ruby>結果<rt>けっか</rt></ruby></span>、<ruby>中<rt>なか</rt></ruby>まで<ruby>白<rt>しろ</rt></ruby>くて<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\">いちご</span>ができました。<span style=\"color: blue;\">いちご</span>の<ruby>重<rt>おも</rt></ruby>さは１つ２０ｇぐらいで、とても<ruby>甘<rt>あま</rt></ruby>くなります。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>研究所<rt>けんきゅうじょ</rt></ruby></span>はこの<span\
+  \ style=\"color: blue;\">いちご</span>を<ruby>育<rt>そだ</rt></ruby>てる<ruby>試験<rt>しけん</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けて、２０２０<ruby>年<rt>ねん</rt></ruby>ごろから<span\
+  \ style=\"color: blue;\"><ruby>農家<rt>のうか</rt></ruby></span>に<ruby>生産<rt>せいさん</rt></ruby>してもらう<ruby>予定<rt>よてい</rt></ruby>です。<ruby>栃木県<rt>とちぎけん</rt></ruby>は、この<span\
+  \ style=\"color: blue;\">いちご</span>の<ruby>名前<rt>なまえ</rt></ruby>をみんなに<ruby>決<rt>き</rt></ruby>めてもらおうと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><ruby>栃木県<rt>とちぎけん</rt></ruby>の<span style=\"color: blue;\"><ruby>知事<rt>ちじ</rt></ruby></span>は「<ruby>今<rt>いま</rt></ruby>までにない<span\
+  \ style=\"color: blue;\">キウイ</span>のような<ruby>味<rt>あじ</rt></ruby>の<span style=\"\
+  color: blue;\">いちご</span>です。<ruby>外国<rt>がいこく</rt></ruby>にも<ruby>売<rt>う</rt></ruby>りたいと<ruby>思<rt>おも</rt></ruby>っています」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 苺
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>やビニルハウスに<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>春</rb><rt>はる</rt></ruby>に<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>き、<ruby><rb>実</rb><rt>み</rt></ruby>は<ruby><rb>熟</rb><rt>じゅく</rt></ruby>すと<ruby><rb>赤</rb><rt>あか</rt></ruby>くなって<ruby><rb>食</rb><rt>た</rt></ruby>べられる。ストロベリー。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 研究所
+  descriptions:
+  - ものごとを<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>をする<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+- word: 農家
+  descriptions:
+  - <ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らしを<ruby><rb>立</rb><rt>た</rt></ruby>てている<ruby><rb>家</rb><rt>いえ</rt></ruby>。また、その<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+- word: 知事
+  descriptions:
+  - <ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: キウイ
+  descriptions:
+  - ニュージーランドにいる<ruby><rb>鳥</rb><rt>とり</rt></ruby>。つばさがないので<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>を<ruby><rb>歩</rb><rt>ある</rt></ruby>き、<ruby><rb>長</rb><rt>なが</rt></ruby>いくちばしでミミズや<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>実</rb><rt>み</rt></ruby>などを<ruby><rb>食</rb><rt>た</rt></ruby>べる。
+  - <ruby><rb>幹</rb><rt>みき</rt></ruby>がつるになる<ruby><rb>木</rb><rt>き</rt></ruby>。また、その<ruby><rb>実</rb><rt>み</rt></ruby>。<ruby><rb>実</rb><rt>み</rt></ruby>は<ruby><rb>茶色</rb><rt>ちゃいろ</rt></ruby>で<ruby><rb>短</rb><rt>みじか</rt></ruby>い<ruby><rb>毛</rb><rt>け</rt></ruby>におおわれ、<ruby><rb>中</rb><rt>なか</rt></ruby>はうす<ruby><rb>緑色</rb><rt>みどりいろ</rt></ruby>で<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>になる。キウイフルーツ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011307441000/k10011307441000.html
+web_title_with_ruby: 「<ruby>白<rt>しろ</rt></ruby>い<ruby>イチゴ<rt>いちご</rt></ruby>」の<ruby>新品種<rt>しんひんしゅ</rt></ruby>
+  <ruby>栃木県<rt>とちぎけん</rt></ruby>が<ruby>開発<rt>かいはつ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/30/白いイチゴの新品種-栃木県が開発
+related_news:
+- title: 「みんなで<ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>する<ruby>力<rt>ちから</rt></ruby>」<ruby>日本<rt>にっぽん</rt></ruby>の１５<ruby>歳<rt>さい</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>で２<ruby>番<rt>ばん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/11/24/みんなで問題を解決する力日本の15歳は世界で2番
+- title: <ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>の「<ruby>免税<rt>めんぜい</rt></ruby>」のやり<ruby>方<rt>かた</rt></ruby>を<ruby>簡単<rt>かんたん</rt></ruby>にする
+  url: https://newswebeasy.github.io/news/easy/2017/12/04/旅行に来た外国人の免税のやり方を簡単にする
+- title: インドネシアで<ruby>新<rt>あたら</rt></ruby>しい<ruby>種類<rt>しゅるい</rt></ruby>のオランウータンが<ruby>見<rt>み</rt></ruby>つかる
+  url: https://newswebeasy.github.io/news/easy/2017/11/07/インドネシアで新しい種類のオランウータンが見つかる
+...

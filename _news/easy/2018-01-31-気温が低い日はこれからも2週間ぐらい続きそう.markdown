@@ -1,0 +1,56 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011308511000
+last_modified_at: '2018-01-31T17:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 気象庁によると、西日本と東日本では１１月の中旬から、いつもの年より気温が１℃ぐらい低い日が続いています。
+title: 気温が低い日はこれからも２週間ぐらい続きそう
+title_with_ruby: <ruby>気温<rt>きおん</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>はこれからも２<ruby>週間<rt>しゅうかん</rt></ruby>ぐらい<ruby>続<rt>つづ</rt></ruby>きそう
+outline: 気象庁によると、西日本と東日本では１１月の中旬から、いつもの年より気温が１℃ぐらい低い日が続いています。
+outline_with_ruby: <ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<ruby>西日本<rt>にしにほん</rt></ruby>と<ruby>東日本<rt>ひがしにほん</rt></ruby>では１１<ruby>月<rt>がつ</rt></ruby>の<ruby>中旬<rt>ちゅうじゅん</rt></ruby>から、いつもの<ruby>年<rt>とし</rt></ruby>より<ruby>気温<rt>きおん</rt></ruby>が１℃ぐらい<ruby>低<rt>ひく</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。
+image_url: https://newswebeasy.github.io/ja201801/news/easy/image/2018/01/31/k10011308511000.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/31/k10011308511000.mp3
+content_with_ruby: "<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<ruby>西日本<rt>にしにほん</rt></ruby>と<ruby>東日本<rt>ひがしにほん</rt></ruby>では１１<ruby>月<rt>がつ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>中旬<rt>ちゅうじゅん</rt></ruby></span>から、いつもの<ruby>年<rt>とし</rt></ruby>より<span\
+  \ style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>が１℃ぐらい<ruby>低<rt>ひく</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>空<rt>そら</rt></ruby>に<ruby>冷<rt>つめ</rt></ruby>たい<ruby>空気<rt>くうき</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ってきたためです。</p>\n\
+  <p><ruby>先週<rt>せんしゅう</rt></ruby>からは<ruby>北日本<rt>きたにほん</rt></ruby>でも<span style=\"\
+  color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>低<rt>ひく</rt></ruby>くなりました。１<ruby>月<rt>がつ</rt></ruby><ruby>２４日<rt>にじゅうよっか</rt></ruby>から２９<ruby>日<rt>にち</rt></ruby>までの<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>気温<rt>きおん</rt></ruby></span>は、<ruby>日本<rt>にっぽん</rt></ruby>のたくさんの<ruby>場所<rt>ばしょ</rt></ruby>でいつもの<ruby>年<rt>とし</rt></ruby>より３℃ぐらい<ruby>低<rt>ひく</rt></ruby>くなっています。</p>\n\
+  <p><ruby>気象庁<rt>きしょうちょう</rt></ruby>によると、<ruby>北日本<rt>きたにほん</rt></ruby>と<ruby>東日本<rt>ひがしにほん</rt></ruby>と<ruby>西日本<rt>にしにほん</rt></ruby>ではこれからも２<ruby>週間<rt>しゅうかん</rt></ruby>ぐらい<span\
+  \ style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>低<rt>ひく</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>きそうです。</p>\n\
+  <p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<span style=\"color: blue;\"><ruby>凍<rt>こお</rt></ruby>っ</span>て<ruby>滑<rt>すべ</rt></ruby>りやすくなった<ruby>道<rt>みち</rt></ruby>や、<ruby>体<rt>からだ</rt></ruby>の<ruby>具合<rt>ぐあい</rt></ruby>などに<ruby>気<rt>き</rt></ruby>をつけてほしいと<ruby>言<rt>い</rt></ruby>っています。<ruby>野菜<rt>やさい</rt></ruby>などを<ruby>作<rt>つく</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>も<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>気<rt>き</rt></ruby>をつけるように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 気温
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。
+- word: 中旬
+  descriptions:
+  - <ruby><rb>月</rb><rt>つき</rt></ruby>の<ruby>１１<ruby><rb>日</rb><rt>にち</rt></ruby>から<ruby><rb>２０日</rb><rt>はつか</rt></ruby>までの<ruby><rb>間</rb><rt>あいだ</rt></ruby>。
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+- word: 凍る
+  descriptions:
+  - <ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011308511000/k10011308511000.html
+web_title_with_ruby: これから２<ruby>週間<rt>しゅうかん</rt></ruby><ruby>程度<rt>ていど</rt></ruby>
+  <ruby>低温<rt>ていおん</rt></ruby><ruby>続<rt>つづ</rt></ruby>く<ruby>見込<rt>みこ</rt></ruby>み
+  <ruby>気象庁<rt>きしょうちょう</rt></ruby>が<ruby>情報<rt>じょうほう</rt></ruby><ruby>発表<rt>はっぴょう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/30/これから2週間程度-低温続く見込み-気象庁が情報発表
+related_news:
+- title: ２０１７<ruby>年<rt>ねん</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby>の<ruby>平均<rt>へいきん</rt></ruby>の<ruby>気温<rt>きおん</rt></ruby>　<ruby>今<rt>いま</rt></ruby>までで３<ruby>番目<rt>ばんめ</rt></ruby>に<ruby>高<rt>たか</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2018/01/04/2017年の世界の平均の気温-今までで3番目に高い
+- title: <ruby>気象庁<rt>きしょうちょう</rt></ruby>「ラニーニャ<ruby>現象<rt>げんしょう</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて<ruby>寒<rt>さむ</rt></ruby>い<ruby>冬<rt>ふゆ</rt></ruby>になりそう」
+  url: https://newswebeasy.github.io/news/easy/2017/12/13/気象庁ラニーニャ現象が続いて寒い冬になりそう
+- title: <ruby>世界<rt>せかい</rt></ruby>の<ruby>平均<rt>へいきん</rt></ruby>の<ruby>気温<rt>きおん</rt></ruby>　２０１７<ruby>年<rt>ねん</rt></ruby>は<ruby>今<rt>いま</rt></ruby>までで２<ruby>番目<rt>ばんめ</rt></ruby>に<ruby>高<rt>たか</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2018/01/22/世界の平均の気温-2017年は今までで2番目に高い
+- title: <ruby>今年<rt>ことし</rt></ruby>いちばん<ruby>寒<rt>さむ</rt></ruby>い<ruby>朝<rt>あさ</rt></ruby>　<ruby>東京<rt>とうきょう</rt></ruby>でもー４℃
+  url: https://newswebeasy.github.io/news/easy/2018/01/25/今年いちばん寒い朝-東京でもー4C
+- title: <ruby>九州<rt>きゅうしゅう</rt></ruby>と<ruby>四国<rt>しこく</rt></ruby>と<ruby>中国地方<rt>ちゅうごくちほう</rt></ruby>で<ruby>初雪<rt>はつゆき</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/12/05/九州と四国と中国地方で初雪
+...

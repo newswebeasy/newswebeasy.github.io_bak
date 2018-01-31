@@ -1,0 +1,440 @@
+---
+layout: web_news
+categories: web
+newsid: k10011308251000
+title: 蔵王山で火山性微動と地殻変動 噴火警戒レベル２に
+title_with_ruby: <ruby>蔵王山<rt data-ruby-level="8">ざおうざん</rt></ruby>で<ruby>火山性<rt data-ruby-level="5">かざんせい</rt></ruby><ruby>微動<rt
+  data-ruby-level="7">びどう</rt></ruby>と<ruby>地殻<rt data-ruby-level="7">ちかく</rt></ruby><ruby>変動<rt
+  data-ruby-level="4">へんどう</rt></ruby> <ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby><ruby>警戒<rt
+  data-ruby-level="7">けいかい</rt></ruby>レベル２に
+last_modified_at: '2018-01-30T20:07:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>01<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>30<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 20<ruby>時<rt data-ruby-level="2">じ</rt></ruby>07<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 宮城県と山形県にまたがる蔵王山で、２８日から３０日にかけて火山性微動が相次いで観測されたほか、山頂の南側が隆起する地殻変動も観測されました。気象庁は今後、小規模な噴火が起きるおそれがあるとして、３０日午後、火口周辺警報を発表し、噴火警戒レベルを１から２に引き上げ、馬の背カルデラの想定火口域からおおむね１．２キロの範囲では、噴火に伴う大きな噴石に警戒するよう呼びかけています。
+summary: <ruby>宮城県<rt data-ruby-level="8">みやぎけん</rt></ruby>と<ruby>山形県<rt data-ruby-level="3">やまがたけん</rt></ruby>にまたがる<ruby>蔵王山<rt
+  data-ruby-level="8">ざおうざん</rt></ruby>で、２８<ruby>日<rt data-ruby-level="1">にち</rt></ruby>から３０<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>にかけて<ruby>火山性<rt data-ruby-level="5">かざんせい</rt></ruby><ruby>微動<rt
+  data-ruby-level="7">びどう</rt></ruby>が<ruby>相次<rt data-ruby-level="3">あいつ</rt></ruby>いで<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>されたほか、<ruby>山頂<rt data-ruby-level="6">さんちょう</rt></ruby>の<ruby>南側<rt
+  data-ruby-level="4">みなみがわ</rt></ruby>が<ruby>隆起<rt data-ruby-level="7">りゅうき</rt></ruby>する<ruby>地殻<rt
+  data-ruby-level="7">ちかく</rt></ruby><ruby>変動<rt data-ruby-level="4">へんどう</rt></ruby>も<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>されました。<ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>は<ruby>今後<rt
+  data-ruby-level="2">こんご</rt></ruby>、<ruby>小規模<rt data-ruby-level="6">しょうきぼ</rt></ruby>な<ruby>噴火<rt
+  data-ruby-level="7">ふんか</rt></ruby>が<ruby>起<rt data-ruby-level="3">お</rt></ruby>きるおそれがあるとして、３０<ruby>日午後<rt
+  data-ruby-level="2">にちごご</rt></ruby>、<ruby>火口<rt data-ruby-level="1">かこう</rt></ruby><ruby>周辺<rt
+  data-ruby-level="4">しゅうへん</rt></ruby><ruby>警報<rt data-ruby-level="6">けいほう</rt></ruby>を<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>し、<ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby><ruby>警戒<rt
+  data-ruby-level="7">けいかい</rt></ruby>レベルを１から２に<ruby>引<rt data-ruby-level="2">ひ</rt></ruby>き<ruby>上<rt
+  data-ruby-level="2">あ</rt></ruby>げ、<ruby>馬<rt data-ruby-level="2">うま</rt></ruby>の<ruby>背<rt
+  data-ruby-level="6">せ</rt></ruby>カルデラの<ruby>想定<rt data-ruby-level="3">そうてい</rt></ruby><ruby>火口<rt
+  data-ruby-level="1">かこう</rt></ruby><ruby>域<rt data-ruby-level="6">いき</rt></ruby>からおおむね１．２キロの<ruby>範囲<rt
+  data-ruby-level="7">はんい</rt></ruby>では、<ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby>に<ruby>伴<rt
+  data-ruby-level="7">ともな</rt></ruby>う<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きな<ruby>噴石<rt
+  data-ruby-level="7">ふんせき</rt></ruby>に<ruby>警戒<rt data-ruby-level="7">けいかい</rt></ruby>するよう<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけています。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/30/K10011308251_1801302028_1801302030_01_03.jpg
+more: <ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>の<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>によりますと、<ruby>蔵王山<rt
+  data-ruby-level="8">ざおうざん</rt></ruby>では<ruby>地下<rt data-ruby-level="2">ちか</rt></ruby>の<ruby>熱水<rt
+  data-ruby-level="4">ねっすい</rt></ruby>や<ruby>火山<rt data-ruby-level="1">かざん</rt></ruby>ガスの<ruby>動<rt
+  data-ruby-level="3">うご</rt></ruby>きを<ruby>示<rt data-ruby-level="5">しめ</rt></ruby>すと<ruby>考<rt
+  data-ruby-level="2">かんが</rt></ruby>えられる<ruby>火山性<rt data-ruby-level="5">かざんせい</rt></ruby><ruby>微動<rt
+  data-ruby-level="7">びどう</rt></ruby>が２８<ruby>日<rt data-ruby-level="1">にち</rt></ruby>１<ruby>回<rt
+  data-ruby-level="2">かい</rt></ruby><ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>されたほか、３０<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>も、<ruby>未明<rt data-ruby-level="4">みめい</rt></ruby>と<ruby>午後<rt
+  data-ruby-level="2">ごご</rt></ruby>２<ruby>時<rt data-ruby-level="2">じ</rt></ruby>すぎの<ruby>合<rt
+  data-ruby-level="2">あ</rt></ruby>わせて２<ruby>回<rt data-ruby-level="2">かい</rt></ruby><ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>されました。このうち<ruby>午後<rt data-ruby-level="2">ごご</rt></ruby>に<ruby>発生<rt
+  data-ruby-level="3">はっせい</rt></ruby>した<ruby>微動<rt data-ruby-level="7">びどう</rt></ruby>はおよそ１３<ruby>分間<rt
+  data-ruby-level="2">ふんかん</rt></ruby><ruby>続<rt data-ruby-level="4">つづ</rt></ruby>き、<ruby>振幅<rt
+  data-ruby-level="7">しんぷく</rt></ruby>は８<ruby>年前<rt data-ruby-level="2">ねんまえ</rt></ruby>の<ruby>平成<rt
+  data-ruby-level="4">へいせい</rt></ruby>２２<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>に<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>を<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>めてから<ruby>最<rt
+  data-ruby-level="4">もっと</rt></ruby>も<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きいということです。<br
+  /><br /><ruby>火山性<rt data-ruby-level="5">かざんせい</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>も２８<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>から３０<ruby>日午後<rt data-ruby-level="2">にちごご</rt></ruby>４<ruby>時<rt
+  data-ruby-level="2">じ</rt></ruby>までに４<ruby>回<rt data-ruby-level="2">かい</rt></ruby><ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>され、<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>と<ruby>微動<rt
+  data-ruby-level="7">びどう</rt></ruby>は、いずれも<ruby>蔵王山<rt data-ruby-level="8">ざおうざん</rt></ruby>にある<ruby>火口湖<rt
+  data-ruby-level="3">かこうこ</rt></ruby>の「<ruby>御釜<rt data-ruby-level="8">おかま</rt></ruby>」<ruby>付近<rt
+  data-ruby-level="4">ふきん</rt></ruby>の<ruby>地下<rt data-ruby-level="2">ちか</rt></ruby>で<ruby>起<rt
+  data-ruby-level="3">お</rt></ruby>きたと<ruby>見<rt data-ruby-level="1">み</rt></ruby>られるということです。<br
+  /><br />また、<ruby>御釜<rt data-ruby-level="8">おかま</rt></ruby>の<ruby>南西<rt data-ruby-level="2">なんせい</rt></ruby>およそ５キロにある<ruby>坊平<rt
+  data-ruby-level="7">ぼうだいら</rt></ruby><ruby>観測点<rt data-ruby-level="5">かんそくてん</rt></ruby>では<ruby>山頂<rt
+  data-ruby-level="6">さんちょう</rt></ruby>の<ruby>南側<rt data-ruby-level="4">みなみがわ</rt></ruby>が<ruby>隆起<rt
+  data-ruby-level="7">りゅうき</rt></ruby>する<ruby>地殻<rt data-ruby-level="7">ちかく</rt></ruby><ruby>変動<rt
+  data-ruby-level="4">へんどう</rt></ruby>が<ruby>継続<rt data-ruby-level="7">けいぞく</rt></ruby>して<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>されています。<br /><br /><ruby>雲<rt data-ruby-level="2">くも</rt></ruby>がかかっているため、<ruby>監視<rt
+  data-ruby-level="7">かんし</rt></ruby>カメラから<ruby>御釜<rt data-ruby-level="8">おかま</rt></ruby><ruby>周辺<rt
+  data-ruby-level="4">しゅうへん</rt></ruby>の<ruby>噴気<rt data-ruby-level="7">ふんき</rt></ruby>の<ruby>状況<rt
+  data-ruby-level="7">じょうきょう</rt></ruby>などは<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>できていません。<br
+  /><br /><ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>は、<ruby>蔵王山<rt data-ruby-level="8">ざおうざん</rt></ruby>では<ruby>今後<rt
+  data-ruby-level="2">こんご</rt></ruby>、<ruby>小規模<rt data-ruby-level="6">しょうきぼ</rt></ruby>な<ruby>噴火<rt
+  data-ruby-level="7">ふんか</rt></ruby>が<ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby>するおそれがあるとして、<ruby>午後<rt
+  data-ruby-level="2">ごご</rt></ruby>２<ruby>時半<rt data-ruby-level="2">じはん</rt></ruby>すぎに<ruby>火口<rt
+  data-ruby-level="1">かこう</rt></ruby><ruby>周辺<rt data-ruby-level="4">しゅうへん</rt></ruby><ruby>警報<rt
+  data-ruby-level="6">けいほう</rt></ruby>を<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>し<ruby>噴火<rt
+  data-ruby-level="7">ふんか</rt></ruby><ruby>警戒<rt data-ruby-level="7">けいかい</rt></ruby>レベルを１から２の「<ruby>火口<rt
+  data-ruby-level="1">かこう</rt></ruby><ruby>周辺<rt data-ruby-level="4">しゅうへん</rt></ruby><ruby>規制<rt
+  data-ruby-level="5">きせい</rt></ruby>」に<ruby>引<rt data-ruby-level="2">ひ</rt></ruby>き<ruby>上<rt
+  data-ruby-level="2">あ</rt></ruby>げました。<br /><br /><ruby>御釜<rt data-ruby-level="8">おかま</rt></ruby>の<ruby>周辺<rt
+  data-ruby-level="4">しゅうへん</rt></ruby>にある<ruby>馬<rt data-ruby-level="2">うま</rt></ruby>の<ruby>背<rt
+  data-ruby-level="6">せ</rt></ruby>カルデラの<ruby>想定<rt data-ruby-level="3">そうてい</rt></ruby><ruby>火口<rt
+  data-ruby-level="1">かこう</rt></ruby><ruby>域<rt data-ruby-level="6">いき</rt></ruby>からおおむね１．２キロの<ruby>範囲<rt
+  data-ruby-level="7">はんい</rt></ruby>では、<ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby>に<ruby>伴<rt
+  data-ruby-level="7">ともな</rt></ruby>う<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きな<ruby>噴石<rt
+  data-ruby-level="7">ふんせき</rt></ruby>に<ruby>警戒<rt data-ruby-level="7">けいかい</rt></ruby>するよう<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけていて、<ruby>地元<rt data-ruby-level="2">じもと</rt></ruby>の<ruby>自治体<rt
+  data-ruby-level="4">じちたい</rt></ruby>はこの<ruby>範囲<rt data-ruby-level="7">はんい</rt></ruby>の<ruby>立<rt
+  data-ruby-level="1">た</rt></ruby>ち<ruby>入<rt data-ruby-level="1">い</rt></ruby>りを<ruby>規制<rt
+  data-ruby-level="5">きせい</rt></ruby>しています。
+movie_url: https://newswebeasy.github.io/ja201801/news/web/movie/2018/01/30/k10011308251_201801302028_201801302030.mp4
+voice_url: https://newswebeasy.github.io/ja201801/news/web/voice/2018/01/30/k10011308251_201801302028_201801302030.mp3
+body:
+- title: ふもとの<ruby>蔵王町<rt data-ruby-level="8">ざおうまち</rt></ruby>で<ruby>火山<rt data-ruby-level="1">かざん</rt></ruby><ruby>警戒<rt
+    data-ruby-level="7">けいかい</rt></ruby><ruby>本部<rt data-ruby-level="3">ほんぶ</rt></ruby><ruby>会議<rt
+    data-ruby-level="4">かいぎ</rt></ruby>
+  text: <ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby><ruby>警戒<rt data-ruby-level="7">けいかい</rt></ruby>レベルが<ruby>上<rt
+    data-ruby-level="1">あ</rt></ruby>がったことを<ruby>受<rt data-ruby-level="3">う</rt></ruby>け、ふもとの<ruby>宮城県<rt
+    data-ruby-level="8">みやぎけん</rt></ruby><ruby>蔵王町<rt data-ruby-level="8">ざおうまち</rt></ruby>では<ruby>防災<rt
+    data-ruby-level="5">ぼうさい</rt></ruby>の<ruby>担当者<rt data-ruby-level="6">たんとうしゃ</rt></ruby>らが<ruby>出席<rt
+    data-ruby-level="4">しゅっせき</rt></ruby>して<ruby>火山<rt data-ruby-level="1">かざん</rt></ruby><ruby>警戒<rt
+    data-ruby-level="7">けいかい</rt></ruby><ruby>本部<rt data-ruby-level="3">ほんぶ</rt></ruby><ruby>会議<rt
+    data-ruby-level="4">かいぎ</rt></ruby>が<ruby>開<rt data-ruby-level="3">ひら</rt></ruby>かれました。<br
+    /><br /><ruby>火山<rt data-ruby-level="1">かざん</rt></ruby><ruby>警戒<rt data-ruby-level="7">けいかい</rt></ruby><ruby>本部<rt
+    data-ruby-level="3">ほんぶ</rt></ruby><ruby>会議<rt data-ruby-level="4">かいぎ</rt></ruby>は<ruby>午後<rt
+    data-ruby-level="2">ごご</rt></ruby>４<ruby>時半<rt data-ruby-level="2">じはん</rt></ruby>から<ruby>開<rt
+    data-ruby-level="3">ひら</rt></ruby>かれ、<ruby>本部長<rt data-ruby-level="3">ほんぶちょう</rt></ruby>を<ruby>務<rt
+    data-ruby-level="5">つと</rt></ruby>める<ruby>平間<rt data-ruby-level="3">ひらま</rt></ruby><ruby>喜久夫<rt
+    data-ruby-level="8">きくお</rt></ruby><ruby>副町長<rt data-ruby-level="4">ふくちょうちょう</rt></ruby>や<ruby>防災<rt
+    data-ruby-level="5">ぼうさい</rt></ruby>の<ruby>担当者<rt data-ruby-level="6">たんとうしゃ</rt></ruby>など、およそ２０<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>が<ruby>出席<rt data-ruby-level="4">しゅっせき</rt></ruby>しました。この<ruby>中<rt
+    data-ruby-level="1">なか</rt></ruby>で、<ruby>平間<rt data-ruby-level="3">ひらま</rt></ruby><ruby>副町長<rt
+    data-ruby-level="4">ふくちょうちょう</rt></ruby>は、<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby><ruby>収集<rt
+    data-ruby-level="6">しゅうしゅう</rt></ruby>を<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>け、<ruby>町民<rt
+    data-ruby-level="4">ちょうみん</rt></ruby>やスキー<ruby>客<rt data-ruby-level="3">きゃく</rt></ruby>から<ruby>問<rt
+    data-ruby-level="3">と</rt></ruby>い<ruby>合<rt data-ruby-level="3">あ</rt></ruby>わせがあった<ruby>場合<rt
+    data-ruby-level="2">ばあい</rt></ruby>には、<ruby>落<rt data-ruby-level="3">お</rt></ruby>ち<ruby>着<rt
+    data-ruby-level="3">つ</rt></ruby>いて<ruby>対応<rt data-ruby-level="5">たいおう</rt></ruby>するよう<ruby>指示<rt
+    data-ruby-level="5">しじ</rt></ruby>しました。<br /><br />このあと、<ruby>平間<rt data-ruby-level="3">ひらま</rt></ruby><ruby>副町長<rt
+    data-ruby-level="4">ふくちょうちょう</rt></ruby>は<ruby>記者団<rt data-ruby-level="5">きしゃだん</rt></ruby>に<ruby>対<rt
+    data-ruby-level="3">たい</rt></ruby>し、「きょうは<ruby>警報<rt data-ruby-level="6">けいほう</rt></ruby>の<ruby>内容<rt
+    data-ruby-level="5">ないよう</rt></ruby>をみんなで<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby><ruby>共有<rt
+    data-ruby-level="4">きょうゆう</rt></ruby>した。<ruby>町民<rt data-ruby-level="4">ちょうみん</rt></ruby>や<ruby>観光客<rt
+    data-ruby-level="4">かんこうきゃく</rt></ruby>の<ruby>避難<rt data-ruby-level="7">ひなん</rt></ruby>を<ruby>最優先<rt
+    data-ruby-level="6">さいゆうせん</rt></ruby>に<ruby>何<rt data-ruby-level="2">なに</rt></ruby>が<ruby>起<rt
+    data-ruby-level="3">お</rt></ruby>きてもすぐ<ruby>対応<rt data-ruby-level="5">たいおう</rt></ruby>できるようにしたい」と<ruby>述<rt
+    data-ruby-level="5">の</rt></ruby>べました。
+- title: <ruby>周辺<rt data-ruby-level="4">しゅうへん</rt></ruby>の３<ruby>町<rt data-ruby-level="1">ちょう</rt></ruby>
+    <ruby>立<rt data-ruby-level="1">た</rt></ruby>ち<ruby>入<rt data-ruby-level="1">い</rt></ruby>り<ruby>規制<rt
+    data-ruby-level="5">きせい</rt></ruby><ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけ
+  text: <ruby>蔵王山<rt data-ruby-level="8">ざおうざん</rt></ruby>の<ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby><ruby>警戒<rt
+    data-ruby-level="7">けいかい</rt></ruby>レベルが２に<ruby>引<rt data-ruby-level="2">ひ</rt></ruby>き<ruby>上<rt
+    data-ruby-level="2">あ</rt></ruby>げられたことを<ruby>受<rt data-ruby-level="3">う</rt></ruby>け、<ruby>周辺<rt
+    data-ruby-level="4">しゅうへん</rt></ruby>の<ruby>宮城県<rt data-ruby-level="8">みやぎけん</rt></ruby>の３つの<ruby>町<rt
+    data-ruby-level="1">まち</rt></ruby>は、<ruby>住民<rt data-ruby-level="4">じゅうみん</rt></ruby>などに、<ruby>想定<rt
+    data-ruby-level="3">そうてい</rt></ruby><ruby>火口<rt data-ruby-level="1">かこう</rt></ruby><ruby>域<rt
+    data-ruby-level="6">いき</rt></ruby>からおおむね１．２キロの<ruby>範囲<rt data-ruby-level="7">はんい</rt></ruby>に<ruby>立<rt
+    data-ruby-level="1">た</rt></ruby>ち<ruby>入<rt data-ruby-level="1">い</rt></ruby>らないよう<ruby>呼<rt
+    data-ruby-level="6">よ</rt></ruby>びかけています。<br /><br /><ruby>宮城県<rt data-ruby-level="8">みやぎけん</rt></ruby>の<ruby>蔵王町<rt
+    data-ruby-level="8">ざおうまち</rt></ruby>と<ruby>川崎町<rt data-ruby-level="7">かわさきまち</rt></ruby>、それに<ruby>七ヶ宿町<rt
+    data-ruby-level="3">しちかしゅくまち</rt></ruby>は、<ruby>町<rt data-ruby-level="1">まち</rt></ruby>の<ruby>一部<rt
+    data-ruby-level="3">いちぶ</rt></ruby>が、<ruby>想定<rt data-ruby-level="3">そうてい</rt></ruby><ruby>火口<rt
+    data-ruby-level="1">かこう</rt></ruby><ruby>域<rt data-ruby-level="6">いき</rt></ruby>からおおむね１．２キロの<ruby>範囲内<rt
+    data-ruby-level="7">はんいない</rt></ruby>にあります。それぞれの<ruby>町<rt data-ruby-level="1">まち</rt></ruby>は、<ruby>気象庁<rt
+    data-ruby-level="6">きしょうちょう</rt></ruby>が<ruby>火口<rt data-ruby-level="1">かこう</rt></ruby><ruby>周辺<rt
+    data-ruby-level="4">しゅうへん</rt></ruby><ruby>警報<rt data-ruby-level="6">けいほう</rt></ruby>を<ruby>発表<rt
+    data-ruby-level="3">はっぴょう</rt></ruby>したあと、<ruby>住民<rt data-ruby-level="4">じゅうみん</rt></ruby>などの<ruby>携帯<rt
+    data-ruby-level="7">けいたい</rt></ruby><ruby>電話<rt data-ruby-level="2">でんわ</rt></ruby>やスマートフォンに<ruby>緊急<rt
+    data-ruby-level="7">きんきゅう</rt></ruby><ruby>速報<rt data-ruby-level="5">そくほう</rt></ruby>メールを<ruby>送<rt
+    data-ruby-level="3">おく</rt></ruby>りました。メールの<ruby>中<rt data-ruby-level="1">なか</rt></ruby>で、<ruby>馬<rt
+    data-ruby-level="2">うま</rt></ruby>の<ruby>背<rt data-ruby-level="6">せ</rt></ruby>カルデラの<ruby>想定<rt
+    data-ruby-level="3">そうてい</rt></ruby><ruby>火口<rt data-ruby-level="1">かこう</rt></ruby><ruby>域<rt
+    data-ruby-level="6">いき</rt></ruby>からおおむね１．２キロの<ruby>範囲<rt data-ruby-level="7">はんい</rt></ruby>に<ruby>立<rt
+    data-ruby-level="1">た</rt></ruby>ち<ruby>入<rt data-ruby-level="1">い</rt></ruby>らないよう<ruby>呼<rt
+    data-ruby-level="6">よ</rt></ruby>びかけています。
+- title: <ruby>専門家<rt data-ruby-level="6">せんもんか</rt></ruby>「<ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby>による<ruby>泥流<rt
+    data-ruby-level="7">でいりゅう</rt></ruby>にも<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>」
+  text: <ruby>蔵王山<rt data-ruby-level="8">ざおうざん</rt></ruby>の<ruby>火山<rt data-ruby-level="1">かざん</rt></ruby><ruby>活動<rt
+    data-ruby-level="3">かつどう</rt></ruby>について、<ruby>火山<rt data-ruby-level="1">かざん</rt></ruby><ruby>噴火<rt
+    data-ruby-level="7">ふんか</rt></ruby><ruby>予知<rt data-ruby-level="3">よち</rt></ruby><ruby>連絡会<rt
+    data-ruby-level="7">れんらくかい</rt></ruby>の<ruby>会長<rt data-ruby-level="2">かいちょう</rt></ruby>で<ruby>京都大学<rt
+    data-ruby-level="3">きょうとだいがく</rt></ruby>の<ruby>石原<rt data-ruby-level="2">いしはら</rt></ruby><ruby>和弘<rt
+    data-ruby-level="8">かずひろ</rt></ruby><ruby>名誉教授<rt data-ruby-level="7">めいよきょうじゅ</rt></ruby>は「<ruby>蔵王山<rt
+    data-ruby-level="8">ざおうざん</rt></ruby>は４<ruby>年前<rt data-ruby-level="2">ねんまえ</rt></ruby>に<ruby>火山性<rt
+    data-ruby-level="5">かざんせい</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>が<ruby>増加<rt
+    data-ruby-level="5">ぞうか</rt></ruby>し、さらに<ruby>今月<rt data-ruby-level="2">こんげつ</rt></ruby>に<ruby>入<rt
+    data-ruby-level="1">はい</rt></ruby>って<ruby>火山<rt data-ruby-level="1">かざん</rt></ruby><ruby>活動<rt
+    data-ruby-level="3">かつどう</rt></ruby>が<ruby>高<rt data-ruby-level="2">たか</rt></ruby>まっていた。<ruby>今回<rt
+    data-ruby-level="2">こんかい</rt></ruby>は<ruby>火山性<rt data-ruby-level="5">かざんせい</rt></ruby><ruby>微動<rt
+    data-ruby-level="7">びどう</rt></ruby>の<ruby>振幅<rt data-ruby-level="7">しんぷく</rt></ruby>が<ruby>大<rt
+    data-ruby-level="1">おお</rt></ruby>きく<ruby>地殻<rt data-ruby-level="7">ちかく</rt></ruby><ruby>変動<rt
+    data-ruby-level="4">へんどう</rt></ruby>も<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>いているので、<ruby>今後<rt
+    data-ruby-level="2">こんご</rt></ruby>さらに<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>などが<ruby>増加<rt
+    data-ruby-level="5">ぞうか</rt></ruby>すると、<ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby>が<ruby>発生<rt
+    data-ruby-level="3">はっせい</rt></ruby>する<ruby>可能性<rt data-ruby-level="5">かのうせい</rt></ruby>は<ruby>否定<rt
+    data-ruby-level="6">ひてい</rt></ruby>できない」と<ruby>分析<rt data-ruby-level="7">ぶんせき</rt></ruby>しています。そのうえで、「<ruby>大<rt
+    data-ruby-level="1">おお</rt></ruby>きな<ruby>噴石<rt data-ruby-level="7">ふんせき</rt></ruby>に<ruby>警戒<rt
+    data-ruby-level="7">けいかい</rt></ruby>し、<ruby>自治体<rt data-ruby-level="4">じちたい</rt></ruby>が<ruby>規制<rt
+    data-ruby-level="5">きせい</rt></ruby>した<ruby>範囲<rt data-ruby-level="7">はんい</rt></ruby>には<ruby>絶対<rt
+    data-ruby-level="5">ぜったい</rt></ruby>に<ruby>入<rt data-ruby-level="1">はい</rt></ruby>らないでほしい。また、<ruby>仮<rt
+    data-ruby-level="5">かり</rt></ruby>に、<ruby>火口湖<rt data-ruby-level="3">かこうこ</rt></ruby>の『<ruby>御釜<rt
+    data-ruby-level="8">おかま</rt></ruby>』で<ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby>すると、たまった<ruby>水<rt
+    data-ruby-level="1">みず</rt></ruby>によって『<ruby>泥流<rt data-ruby-level="7">でいりゅう</rt></ruby>』が<ruby>発生<rt
+    data-ruby-level="3">はっせい</rt></ruby>し、<ruby>流<rt data-ruby-level="3">なが</rt></ruby>れ<ruby>下<rt
+    data-ruby-level="3">くだ</rt></ruby>るおそれもある。<ruby>規模<rt data-ruby-level="6">きぼ</rt></ruby>の<ruby>大小<rt
+    data-ruby-level="1">だいしょう</rt></ruby>はわからないが、<ruby>川沿<rt data-ruby-level="6">かわぞ</rt></ruby>いを<ruby>中心<rt
+    data-ruby-level="2">ちゅうしん</rt></ruby>に<ruby>泥流<rt data-ruby-level="7">でいりゅう</rt></ruby>にも<ruby>注意<rt
+    data-ruby-level="3">ちゅうい</rt></ruby>してほしい」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。<br
+    /><br /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>、１<ruby>週間前<rt data-ruby-level="2">しゅうかんまえ</rt></ruby>に<ruby>噴火<rt
+    data-ruby-level="7">ふんか</rt></ruby>した<ruby>群馬県<rt data-ruby-level="7">ぐんまけん</rt></ruby>の<ruby>草津<rt
+    data-ruby-level="7">くさつ</rt></ruby><ruby>白根山<rt data-ruby-level="3">しらねさん</rt></ruby>との<ruby>関係<rt
+    data-ruby-level="4">かんけい</rt></ruby>については、「それぞれの<ruby>火山<rt data-ruby-level="1">かざん</rt></ruby><ruby>活動<rt
+    data-ruby-level="3">かつどう</rt></ruby>の<ruby>関係<rt data-ruby-level="4">かんけい</rt></ruby>は<ruby>全<rt
+    data-ruby-level="3">まった</rt></ruby>くなく、１つの<ruby>火山<rt data-ruby-level="1">かざん</rt></ruby>が<ruby>噴火<rt
+    data-ruby-level="7">ふんか</rt></ruby>したからほかの<ruby>火山<rt data-ruby-level="1">かざん</rt></ruby>も<ruby>噴火<rt
+    data-ruby-level="7">ふんか</rt></ruby>するということは<ruby>考<rt data-ruby-level="2">かんが</rt></ruby>える<ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>がない。それぞれの<ruby>火山<rt data-ruby-level="1">かざん</rt></ruby>の<ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby>に<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>してほしい」と<ruby>述<rt
+    data-ruby-level="5">の</rt></ruby>べました。
+- title: <ruby>平成<rt data-ruby-level="4">へいせい</rt></ruby>25<ruby>年以降<rt data-ruby-level="6">ねんいこう</rt></ruby>
+    <ruby>火山<rt data-ruby-level="1">かざん</rt></ruby><ruby>活動<rt data-ruby-level="3">かつどう</rt></ruby>が<ruby>活発化<rt
+    data-ruby-level="3">かっぱつか</rt></ruby>の<ruby>傾向<rt data-ruby-level="7">けいこう</rt></ruby>
+  text: <ruby>蔵王山<rt data-ruby-level="8">ざおうざん</rt></ruby>は<ruby>宮城県<rt data-ruby-level="8">みやぎけん</rt></ruby>と<ruby>山形県<rt
+    data-ruby-level="3">やまがたけん</rt></ruby>にまたがる<ruby>複数<rt data-ruby-level="5">ふくすう</rt></ruby>の<ruby>山<rt
+    data-ruby-level="1">やま</rt></ruby>からなる<ruby>活火山<rt data-ruby-level="2">かっかざん</rt></ruby>で、<ruby>最<rt
+    data-ruby-level="4">もっと</rt></ruby>も<ruby>高<rt data-ruby-level="2">たか</rt></ruby>い<ruby>熊野<rt
+    data-ruby-level="7">くまの</rt></ruby><ruby>岳<rt data-ruby-level="7">だけ</rt></ruby>は<ruby>標高<rt
+    data-ruby-level="4">ひょうこう</rt></ruby>が１８４１メートルあります。<br /><br /><ruby>蔵王山<rt data-ruby-level="8">ざおうざん</rt></ruby>では<ruby>平成<rt
+    data-ruby-level="4">へいせい</rt></ruby>２５<ruby>年以降<rt data-ruby-level="6">ねんいこう</rt></ruby>、<ruby>火山性<rt
+    data-ruby-level="5">かざんせい</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>の<ruby>増加<rt
+    data-ruby-level="5">ぞうか</rt></ruby>や<ruby>地下<rt data-ruby-level="2">ちか</rt></ruby>のマグマや<ruby>火山<rt
+    data-ruby-level="1">かざん</rt></ruby>ガスなどの<ruby>動<rt data-ruby-level="3">うご</rt></ruby>きを<ruby>示<rt
+    data-ruby-level="5">しめ</rt></ruby>すとされる<ruby>火山性<rt data-ruby-level="5">かざんせい</rt></ruby><ruby>微動<rt
+    data-ruby-level="7">びどう</rt></ruby>が<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>されるなど、<ruby>火山<rt
+    data-ruby-level="1">かざん</rt></ruby><ruby>活動<rt data-ruby-level="3">かつどう</rt></ruby>が<ruby>活発化<rt
+    data-ruby-level="3">かっぱつか</rt></ruby>する<ruby>傾向<rt data-ruby-level="7">けいこう</rt></ruby>が<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>られていました。<br /><ruby>山<rt data-ruby-level="1">やま</rt></ruby>がわずかに<ruby>膨張<rt
+    data-ruby-level="7">ぼうちょう</rt></ruby>する<ruby>地殻<rt data-ruby-level="7">ちかく</rt></ruby><ruby>変動<rt
+    data-ruby-level="4">へんどう</rt></ruby>も<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>され、<ruby>気象庁<rt
+    data-ruby-level="6">きしょうちょう</rt></ruby>は<ruby>平成<rt data-ruby-level="4">へいせい</rt></ruby>２７<ruby>年<rt
+    data-ruby-level="1">ねん</rt></ruby>４<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>に<ruby>火口<rt
+    data-ruby-level="1">かこう</rt></ruby><ruby>周辺<rt data-ruby-level="4">しゅうへん</rt></ruby><ruby>警報<rt
+    data-ruby-level="6">けいほう</rt></ruby>を<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>しましたが、その<ruby>後<rt
+    data-ruby-level="2">ご</rt></ruby>、<ruby>火山性<rt data-ruby-level="5">かざんせい</rt></ruby><ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>が<ruby>減<rt data-ruby-level="5">へ</rt></ruby>ったことなどからおよそ２か<ruby>月後<rt
+    data-ruby-level="2">げつご</rt></ruby>に<ruby>解除<rt data-ruby-level="6">かいじょ</rt></ruby>しました。<br
+    /><br /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>で<ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>は、<ruby>蔵王山<rt
+    data-ruby-level="8">ざおうざん</rt></ruby>では<ruby>長期的<rt data-ruby-level="4">ちょうきてき</rt></ruby>に<ruby>火山<rt
+    data-ruby-level="1">かざん</rt></ruby><ruby>活動<rt data-ruby-level="3">かつどう</rt></ruby>がやや<ruby>高<rt
+    data-ruby-level="2">たか</rt></ruby>まった<ruby>状態<rt data-ruby-level="5">じょうたい</rt></ruby>にあるとして、「<ruby>御釜<rt
+    data-ruby-level="8">おかま</rt></ruby>」<ruby>周辺<rt data-ruby-level="4">しゅうへん</rt></ruby>の<ruby>馬<rt
+    data-ruby-level="2">うま</rt></ruby>の<ruby>背<rt data-ruby-level="6">せ</rt></ruby>カルデラの<ruby>想定<rt
+    data-ruby-level="3">そうてい</rt></ruby><ruby>火口<rt data-ruby-level="1">かこう</rt></ruby><ruby>域<rt
+    data-ruby-level="6">いき</rt></ruby>では<ruby>突発的<rt data-ruby-level="7">とっぱつてき</rt></ruby>な<ruby>火山<rt
+    data-ruby-level="1">かざん</rt></ruby>ガスの<ruby>噴出<rt data-ruby-level="7">ふんしゅつ</rt></ruby>などに<ruby>注意<rt
+    data-ruby-level="3">ちゅうい</rt></ruby>を<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけていました。
+- title: <ruby>過去<rt data-ruby-level="5">かこ</rt></ruby>の<ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby>
+  text: <ruby>蔵王山<rt data-ruby-level="8">ざおうざん</rt></ruby>の<ruby>北側<rt data-ruby-level="4">きたがわ</rt></ruby>には<ruby>火口湖<rt
+    data-ruby-level="3">かこうこ</rt></ruby>の<ruby>御釜<rt data-ruby-level="8">おかま</rt></ruby>があり、１２０<ruby>年以上<rt
+    data-ruby-level="4">ねんいじょう</rt></ruby><ruby>前<rt data-ruby-level="2">まえ</rt></ruby>の<ruby>明治<rt
+    data-ruby-level="4">めいじ</rt></ruby>２８<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>には、<ruby>御釜<rt
+    data-ruby-level="8">おかま</rt></ruby>で<ruby>小規模<rt data-ruby-level="6">しょうきぼ</rt></ruby>な<ruby>水蒸気<rt
+    data-ruby-level="6">すいじょうき</rt></ruby><ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby>が<ruby>相次<rt
+    data-ruby-level="3">あいつ</rt></ruby>ぎ、<ruby>山<rt data-ruby-level="1">やま</rt></ruby>の<ruby>雪<rt
+    data-ruby-level="2">ゆき</rt></ruby>がとけて<ruby>川<rt data-ruby-level="1">かわ</rt></ruby>が<ruby>増水<rt
+    data-ruby-level="5">ぞうすい</rt></ruby>したほかふもとに<ruby>火山灰<rt data-ruby-level="6">かざんばい</rt></ruby>が<ruby>降<rt
+    data-ruby-level="6">お</rt></ruby>りました。<br /><br />その<ruby>後<rt data-ruby-level="2">ご</rt></ruby>、８０<ruby>年<rt
+    data-ruby-level="1">ねん</rt></ruby><ruby>近<rt data-ruby-level="2">ちか</rt></ruby>く<ruby>前<rt
+    data-ruby-level="2">まえ</rt></ruby>の<ruby>昭和<rt data-ruby-level="3">しょうわ</rt></ruby>１５<ruby>年<rt
+    data-ruby-level="1">ねん</rt></ruby>に<ruby>御釜<rt data-ruby-level="8">おかま</rt></ruby>の<ruby>北東<rt
+    data-ruby-level="2">ほくとう</rt></ruby>で<ruby>小規模<rt data-ruby-level="6">しょうきぼ</rt></ruby>な<ruby>噴火<rt
+    data-ruby-level="7">ふんか</rt></ruby>が<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>されたあと、<ruby>噴火<rt
+    data-ruby-level="7">ふんか</rt></ruby>は<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>されていません。<br
+    /><br /><ruby>御釜<rt data-ruby-level="8">おかま</rt></ruby>には<ruby>常<rt data-ruby-level="5">つね</rt></ruby>に<ruby>水<rt
+    data-ruby-level="1">みず</rt></ruby>がたまっているほか、<ruby>冬<rt data-ruby-level="2">ふゆ</rt></ruby>になると<ruby>雪<rt
+    data-ruby-level="2">ゆき</rt></ruby>に<ruby>覆<rt data-ruby-level="7">おお</rt></ruby>われるため、<ruby>噴火<rt
+    data-ruby-level="7">ふんか</rt></ruby>に<ruby>伴<rt data-ruby-level="7">ともな</rt></ruby>って<ruby>泥流<rt
+    data-ruby-level="7">でいりゅう</rt></ruby>が<ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby>するおそれがあり、ふもとの<ruby>地域<rt
+    data-ruby-level="6">ちいき</rt></ruby>では<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>が<ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>です。
+- title: <ruby>周辺<rt data-ruby-level="4">しゅうへん</rt></ruby>の<ruby>道路<rt data-ruby-level="3">どうろ</rt></ruby>は<ruby>冬季<rt
+    data-ruby-level="4">とうき</rt></ruby><ruby>閉鎖中<rt data-ruby-level="7">へいさちゅう</rt></ruby>
+  text: <ruby>馬<rt data-ruby-level="2">うま</rt></ruby>の<ruby>背<rt data-ruby-level="6">せ</rt></ruby>カルデラの<ruby>想定<rt
+    data-ruby-level="3">そうてい</rt></ruby><ruby>火口<rt data-ruby-level="1">かこう</rt></ruby><ruby>域<rt
+    data-ruby-level="6">いき</rt></ruby>からおおむね１．２キロの<ruby>範囲<rt data-ruby-level="7">はんい</rt></ruby>では<ruby>宮城県<rt
+    data-ruby-level="8">みやぎけん</rt></ruby>と<ruby>山形県<rt data-ruby-level="3">やまがたけん</rt></ruby>をつなぐ「<ruby>蔵王<rt
+    data-ruby-level="8">ざおう</rt></ruby>エコーライン」が<ruby>通<rt data-ruby-level="2">とお</rt></ruby>っていますが、<ruby>宮城県<rt
+    data-ruby-level="8">みやぎけん</rt></ruby>によりますと<ruby>現在<rt data-ruby-level="5">げんざい</rt></ruby>は<ruby>冬期<rt
+    data-ruby-level="3">とうき</rt></ruby><ruby>閉鎖中<rt data-ruby-level="7">へいさちゅう</rt></ruby>だということです。
+- title: <ruby>野上<rt data-ruby-level="2">のがみ</rt></ruby><ruby>官房<rt data-ruby-level="7">かんぼう</rt></ruby><ruby>副長官<rt
+    data-ruby-level="4">ふくちょうかん</rt></ruby>「<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きな<ruby>噴石<rt
+    data-ruby-level="7">ふんせき</rt></ruby>に<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>を」
+  text: <ruby>野上<rt data-ruby-level="2">のがみ</rt></ruby><ruby>官房<rt data-ruby-level="7">かんぼう</rt></ruby><ruby>副長官<rt
+    data-ruby-level="4">ふくちょうかん</rt></ruby>は<ruby>午後<rt data-ruby-level="2">ごご</rt></ruby>の<ruby>記者会見<rt
+    data-ruby-level="3">きしゃかいけん</rt></ruby>で、「<ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>、<ruby>小規模<rt
+    data-ruby-level="6">しょうきぼ</rt></ruby>な<ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby>が<ruby>発生<rt
+    data-ruby-level="3">はっせい</rt></ruby>する<ruby>可能性<rt data-ruby-level="5">かのうせい</rt></ruby>があることから、<ruby>想定<rt
+    data-ruby-level="3">そうてい</rt></ruby><ruby>火口<rt data-ruby-level="1">かこう</rt></ruby><ruby>域<rt
+    data-ruby-level="6">いき</rt></ruby>から１．２キロメートルの<ruby>範囲<rt data-ruby-level="7">はんい</rt></ruby>では、<ruby>弾道<rt
+    data-ruby-level="7">だんどう</rt></ruby>を<ruby>描<rt data-ruby-level="7">えが</rt></ruby>いて<ruby>飛散<rt
+    data-ruby-level="4">ひさん</rt></ruby>する<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きな<ruby>噴石<rt
+    data-ruby-level="7">ふんせき</rt></ruby>に<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>していただきたい。<ruby>政府<rt
+    data-ruby-level="5">せいふ</rt></ruby>としては<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby><ruby>収集<rt
+    data-ruby-level="6">しゅうしゅう</rt></ruby><ruby>体制<rt data-ruby-level="5">たいせい</rt></ruby>を<ruby>強化<rt
+    data-ruby-level="3">きょうか</rt></ruby>し、<ruby>状況<rt data-ruby-level="7">じょうきょう</rt></ruby>を<ruby>注視<rt
+    data-ruby-level="6">ちゅうし</rt></ruby>するとともに、<ruby>政府<rt data-ruby-level="5">せいふ</rt></ruby><ruby>一体<rt
+    data-ruby-level="2">いったい</rt></ruby>となって<ruby>対応<rt data-ruby-level="5">たいおう</rt></ruby>に<ruby>万全<rt
+    data-ruby-level="7">ばんぜん</rt></ruby>を<ruby>期<rt data-ruby-level="3">き</rt></ruby>していく。<ruby>国民<rt
+    data-ruby-level="4">こくみん</rt></ruby>の<ruby>皆様<rt data-ruby-level="7">みなさま</rt></ruby>には<ruby>今後<rt
+    data-ruby-level="2">こんご</rt></ruby>、<ruby>地元<rt data-ruby-level="2">じもと</rt></ruby><ruby>自治体<rt
+    data-ruby-level="4">じちたい</rt></ruby>や<ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>などから<ruby>発表<rt
+    data-ruby-level="3">はっぴょう</rt></ruby>される<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>に<ruby>注意<rt
+    data-ruby-level="3">ちゅうい</rt></ruby>していただきたい」と<ruby>述<rt data-ruby-level="5">の</rt></ruby>べました。
+- title: <ruby>宮城<rt data-ruby-level="8">みやぎ</rt></ruby><ruby>側<rt data-ruby-level="4">がわ</rt></ruby><ruby>スキー<rt
+    data-ruby-level="2">すきー</rt></ruby><ruby>場<rt data-ruby-level="2">じょう</rt></ruby>では<ruby>一部<rt
+    data-ruby-level="3">いちぶ</rt></ruby>リフト<ruby>運行<rt data-ruby-level="3">うんこう</rt></ruby><ruby>取<rt
+    data-ruby-level="3">と</rt></ruby>りやめ
+  text: <ruby>蔵王山<rt data-ruby-level="8">ざおうざん</rt></ruby>の<ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby><ruby>警戒<rt
+    data-ruby-level="7">けいかい</rt></ruby>レベルが２に<ruby>引<rt data-ruby-level="2">ひ</rt></ruby>き<ruby>上<rt
+    data-ruby-level="2">あ</rt></ruby>げられたことを<ruby>受<rt data-ruby-level="3">う</rt></ruby>けて、<ruby>宮城県<rt
+    data-ruby-level="8">みやぎけん</rt></ruby><ruby>蔵王町<rt data-ruby-level="8">ざおうまち</rt></ruby>の<ruby>スキー<rt
+    data-ruby-level="2">すきー</rt></ruby><ruby>場<rt data-ruby-level="2">じょう</rt></ruby>では、１つのリフトの<ruby>降<rt
+    data-ruby-level="6">お</rt></ruby>り<ruby>場<rt data-ruby-level="6">ば</rt></ruby>を<ruby>含<rt
+    data-ruby-level="7">ふく</rt></ruby>むゲレンデの<ruby>一部<rt data-ruby-level="3">いちぶ</rt></ruby>が、<ruby>立<rt
+    data-ruby-level="1">た</rt></ruby>ち<ruby>入<rt data-ruby-level="1">い</rt></ruby>りを<ruby>規制<rt
+    data-ruby-level="5">きせい</rt></ruby>される<ruby>区域<rt data-ruby-level="6">くいき</rt></ruby>に<ruby>含<rt
+    data-ruby-level="7">ふく</rt></ruby>まれることから、このリフトの<ruby>運行<rt data-ruby-level="3">うんこう</rt></ruby>を<ruby>取<rt
+    data-ruby-level="3">と</rt></ruby>りやめました。<br /><br />リフト１つの<ruby>運行<rt data-ruby-level="3">うんこう</rt></ruby>を<ruby>取<rt
+    data-ruby-level="3">と</rt></ruby>りやめたのは<ruby>蔵王町<rt data-ruby-level="8">ざおうまち</rt></ruby>にある<ruby>スキー<rt
+    data-ruby-level="2">すきー</rt></ruby><ruby>場<rt data-ruby-level="2">じょう</rt></ruby>、「すみかわスノーパーク」です。この<ruby>スキー<rt
+    data-ruby-level="2">すきー</rt></ruby><ruby>場<rt data-ruby-level="2">じょう</rt></ruby>では、３つのリフトを<ruby>運行<rt
+    data-ruby-level="3">うんこう</rt></ruby>していますが、このうち<ruby>最<rt data-ruby-level="4">もっと</rt></ruby>も<ruby>山頂<rt
+    data-ruby-level="6">さんちょう</rt></ruby>に<ruby>近<rt data-ruby-level="2">ちか</rt></ruby>いリフトの<ruby>降<rt
+    data-ruby-level="6">お</rt></ruby>り<ruby>場<rt data-ruby-level="6">ば</rt></ruby>を<ruby>含<rt
+    data-ruby-level="7">ふく</rt></ruby>むゲレンデの<ruby>一部<rt data-ruby-level="3">いちぶ</rt></ruby>が、<ruby>想定<rt
+    data-ruby-level="3">そうてい</rt></ruby><ruby>火口<rt data-ruby-level="1">かこう</rt></ruby><ruby>域<rt
+    data-ruby-level="6">いき</rt></ruby>からおおむね１．２キロの<ruby>立<rt data-ruby-level="1">た</rt></ruby>ち<ruby>入<rt
+    data-ruby-level="1">い</rt></ruby>りが<ruby>規制<rt data-ruby-level="5">きせい</rt></ruby>される<ruby>区域<rt
+    data-ruby-level="6">くいき</rt></ruby>に<ruby>含<rt data-ruby-level="7">ふく</rt></ruby>まれることから、<ruby>運行<rt
+    data-ruby-level="3">うんこう</rt></ruby>を<ruby>取<rt data-ruby-level="3">と</rt></ruby>りやめました。<br
+    /><br /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>、ほかのリフトについては<ruby>火口<rt
+    data-ruby-level="1">かこう</rt></ruby>から<ruby>離<rt data-ruby-level="7">はな</rt></ruby>れていることから、<ruby>通常<rt
+    data-ruby-level="5">つうじょう</rt></ruby>どおり<ruby>運行<rt data-ruby-level="3">うんこう</rt></ruby>しているということです。<br
+    /><br />また、<ruby>観光客<rt data-ruby-level="4">かんこうきゃく</rt></ruby><ruby>向<rt data-ruby-level="3">む</rt></ruby>けに<ruby>行<rt
+    data-ruby-level="2">い</rt></ruby>っている<ruby>樹氷<rt data-ruby-level="6">じゅひょう</rt></ruby>ツアーは、<ruby>通常<rt
+    data-ruby-level="5">つうじょう</rt></ruby>、<ruby>雪上車<rt data-ruby-level="2">せつじょうしゃ</rt></ruby>で、<ruby>山頂<rt
+    data-ruby-level="6">さんちょう</rt></ruby>のほうまで<ruby>向<rt data-ruby-level="3">む</rt></ruby>かいますが、<ruby>山<rt
+    data-ruby-level="1">やま</rt></ruby>の<ruby>中腹<rt data-ruby-level="6">ちゅうふく</rt></ruby><ruby>辺<rt
+    data-ruby-level="4">あた</rt></ruby>りで<ruby>折<rt data-ruby-level="4">お</rt></ruby>り<ruby>返<rt
+    data-ruby-level="4">かえ</rt></ruby>すことにしたということです。<br /><br /><ruby>スキー<rt data-ruby-level="2">すきー</rt></ruby><ruby>場<rt
+    data-ruby-level="2">じょう</rt></ruby>を<ruby>運営<rt data-ruby-level="5">うんえい</rt></ruby>する<ruby>会社<rt
+    data-ruby-level="2">かいしゃ</rt></ruby>の<ruby>石山<rt data-ruby-level="1">いしやま</rt></ruby><ruby>幸太<rt
+    data-ruby-level="3">こうた</rt></ruby><ruby>執行<rt data-ruby-level="7">しっこう</rt></ruby><ruby>役員<rt
+    data-ruby-level="3">やくいん</rt></ruby>は「２<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>は<ruby>客<rt
+    data-ruby-level="3">きゃく</rt></ruby>が<ruby>増<rt data-ruby-level="5">ふ</rt></ruby>える<ruby>時期<rt
+    data-ruby-level="3">じき</rt></ruby>だけに<ruby>非常<rt data-ruby-level="5">ひじょう</rt></ruby>に<ruby>残念<rt
+    data-ruby-level="4">ざんねん</rt></ruby>だ。<ruby>万<rt data-ruby-level="2">まん</rt></ruby>が<ruby>一<rt
+    data-ruby-level="2">いち</rt></ruby>の<ruby>避難<rt data-ruby-level="7">ひなん</rt></ruby><ruby>誘導<rt
+    data-ruby-level="7">ゆうどう</rt></ruby>などの<ruby>対策<rt data-ruby-level="6">たいさく</rt></ruby>は<ruby>万全<rt
+    data-ruby-level="7">ばんぜん</rt></ruby>にしたいと<ruby>考<rt data-ruby-level="2">かんが</rt></ruby>えている。<ruby>雪質<rt
+    data-ruby-level="8">せきしつ</rt></ruby>はよいので、ぜひ<ruby>スキー<rt data-ruby-level="2">すきー</rt></ruby><ruby>場<rt
+    data-ruby-level="2">じょう</rt></ruby>に<ruby>足<rt data-ruby-level="1">あし</rt></ruby>を<ruby>運<rt
+    data-ruby-level="3">はこ</rt></ruby>んでほしい」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。
+- title: <ruby>山形<rt data-ruby-level="2">やまがた</rt></ruby><ruby>側<rt data-ruby-level="4">がわ</rt></ruby><ruby>スキー<rt
+    data-ruby-level="2">すきー</rt></ruby><ruby>場<rt data-ruby-level="2">じょう</rt></ruby>には<ruby>注意<rt
+    data-ruby-level="3">ちゅうい</rt></ruby><ruby>看板<rt data-ruby-level="6">かんばん</rt></ruby>
+  text: <ruby>蔵王山<rt data-ruby-level="8">ざおうざん</rt></ruby>の<ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby><ruby>警戒<rt
+    data-ruby-level="7">けいかい</rt></ruby>レベルが２に<ruby>引<rt data-ruby-level="2">ひ</rt></ruby>き<ruby>上<rt
+    data-ruby-level="2">あ</rt></ruby>げられたことを<ruby>受<rt data-ruby-level="3">う</rt></ruby>けて、<ruby>地元<rt
+    data-ruby-level="2">じもと</rt></ruby>の<ruby>山形<rt data-ruby-level="2">やまがた</rt></ruby><ruby>市内<rt
+    data-ruby-level="2">しない</rt></ruby>にある「<ruby>蔵王温泉<rt data-ruby-level="6">ざおうおんせん</rt></ruby><ruby>スキー<rt
+    data-ruby-level="6">すきー</rt></ruby><ruby>場<rt data-ruby-level="6">じょう</rt></ruby>」には<ruby>火口<rt
+    data-ruby-level="1">かこう</rt></ruby><ruby>周辺<rt data-ruby-level="4">しゅうへん</rt></ruby>に<ruby>立<rt
+    data-ruby-level="1">た</rt></ruby>ち<ruby>入<rt data-ruby-level="1">い</rt></ruby>らないよう<ruby>呼<rt
+    data-ruby-level="6">よ</rt></ruby>びかける<ruby>看板<rt data-ruby-level="6">かんばん</rt></ruby>が<ruby>設置<rt
+    data-ruby-level="5">せっち</rt></ruby>されました。<br /><br /><ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby><ruby>警戒<rt
+    data-ruby-level="7">けいかい</rt></ruby>レベルの<ruby>引<rt data-ruby-level="2">ひ</rt></ruby>き<ruby>上<rt
+    data-ruby-level="2">あ</rt></ruby>げを<ruby>受<rt data-ruby-level="3">う</rt></ruby>けて、<ruby>山形市<rt
+    data-ruby-level="2">やまがたし</rt></ruby>の<ruby>防災<rt data-ruby-level="5">ぼうさい</rt></ruby><ruby>対策課<rt
+    data-ruby-level="6">たいさくか</rt></ruby>の<ruby>担当者<rt data-ruby-level="6">たんとうしゃ</rt></ruby>が<ruby>火口<rt
+    data-ruby-level="1">かこう</rt></ruby><ruby>周辺<rt data-ruby-level="4">しゅうへん</rt></ruby>に<ruby>立<rt
+    data-ruby-level="1">た</rt></ruby>ち<ruby>入<rt data-ruby-level="1">い</rt></ruby>らないことや<ruby>異変<rt
+    data-ruby-level="6">いへん</rt></ruby>を<ruby>感<rt data-ruby-level="3">かん</rt></ruby>じたらすぐに<ruby>避難<rt
+    data-ruby-level="7">ひなん</rt></ruby>することなどが<ruby>書<rt data-ruby-level="2">か</rt></ruby>かれた<ruby>看板<rt
+    data-ruby-level="6">かんばん</rt></ruby>を<ruby>車<rt data-ruby-level="1">くるま</rt></ruby>に<ruby>積<rt
+    data-ruby-level="7">つ</rt></ruby>み<ruby>込<rt data-ruby-level="7">こ</rt></ruby>み、<ruby>市内<rt
+    data-ruby-level="2">しない</rt></ruby>にある<ruby>蔵王温泉<rt data-ruby-level="6">ざおうおんせん</rt></ruby><ruby>スキー<rt
+    data-ruby-level="6">すきー</rt></ruby><ruby>場<rt data-ruby-level="6">じょう</rt></ruby>に<ruby>向<rt
+    data-ruby-level="3">む</rt></ruby>かいました。そして、ふもとと<ruby>山頂<rt data-ruby-level="6">さんちょう</rt></ruby><ruby>付近<rt
+    data-ruby-level="4">ふきん</rt></ruby>を<ruby>結<rt data-ruby-level="4">むす</rt></ruby>ぶロープウエーの<ruby>運営会社<rt
+    data-ruby-level="5">うんえいがいしゃ</rt></ruby>の<ruby>事務所<rt data-ruby-level="5">じむしょ</rt></ruby>を<ruby>訪<rt
+    data-ruby-level="7">おとず</rt></ruby>れ、ロープウエーの<ruby>乗<rt data-ruby-level="3">の</rt></ruby>り<ruby>場<rt
+    data-ruby-level="3">ば</rt></ruby>などに<ruby>看板<rt data-ruby-level="6">かんばん</rt></ruby>を<ruby>設置<rt
+    data-ruby-level="5">せっち</rt></ruby>するよう<ruby>要請<rt data-ruby-level="7">ようせい</rt></ruby>していました。<br
+    /><br /><ruby>市<rt data-ruby-level="2">し</rt></ruby>によりますと、<ruby>看板<rt data-ruby-level="6">かんばん</rt></ruby>はロープウエーやリフト<ruby>乗<rt
+    data-ruby-level="3">の</rt></ruby>り<ruby>場<rt data-ruby-level="3">ば</rt></ruby>など<ruby>合<rt
+    data-ruby-level="2">あ</rt></ruby>わせて１６か<ruby>所<rt data-ruby-level="3">しょ</rt></ruby>に<ruby>設置<rt
+    data-ruby-level="5">せっち</rt></ruby>されるということです。<br /><br /><ruby>山形市<rt data-ruby-level="2">やまがたし</rt></ruby><ruby>防災<rt
+    data-ruby-level="5">ぼうさい</rt></ruby><ruby>対策課<rt data-ruby-level="6">たいさくか</rt></ruby>の<ruby>布施<rt
+    data-ruby-level="7">ふせ</rt></ruby><ruby>英二<rt data-ruby-level="8">えいじ</rt></ruby><ruby>係長<rt
+    data-ruby-level="3">かかりちょう</rt></ruby>は「<ruby>突然<rt data-ruby-level="7">とつぜん</rt></ruby>の<ruby>発表<rt
+    data-ruby-level="3">はっぴょう</rt></ruby>でしたが、<ruby>立<rt data-ruby-level="5">た</rt></ruby>ち<ruby>入<rt
+    data-ruby-level="5">い</rt></ruby>り<ruby>禁止<rt data-ruby-level="5">きんし</rt></ruby>の<ruby>区域<rt
+    data-ruby-level="6">くいき</rt></ruby>に<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>が<ruby>入<rt
+    data-ruby-level="1">はい</rt></ruby>らないよう<ruby>看板<rt data-ruby-level="6">かんばん</rt></ruby>の<ruby>設置<rt
+    data-ruby-level="5">せっち</rt></ruby>を<ruby>急<rt data-ruby-level="3">いそ</rt></ruby>いで<ruby>進<rt
+    data-ruby-level="3">すす</rt></ruby>めたい」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。<br
+    /><br /><ruby>兵庫県<rt data-ruby-level="7">ひょうごけん</rt></ruby>から<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れていたスキー<ruby>客<rt
+    data-ruby-level="3">きゃく</rt></ruby>は、「<ruby>群馬<rt data-ruby-level="7">ぐんま</rt></ruby>での<ruby>噴火<rt
+    data-ruby-level="7">ふんか</rt></ruby>もあったのでびっくりしました。<ruby>最新<rt data-ruby-level="4">さいしん</rt></ruby>の<ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby>に<ruby>気<rt data-ruby-level="1">き</rt></ruby>をつけて<ruby>何<rt
+    data-ruby-level="2">なに</rt></ruby>かあったらすぐ<ruby>避難<rt data-ruby-level="7">ひなん</rt></ruby>しようと<ruby>思<rt
+    data-ruby-level="2">おも</rt></ruby>います」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。
+- title: <ruby>遠刈田温泉<rt data-ruby-level="8">とおがったおんせん</rt></ruby> <ruby>冷静<rt data-ruby-level="4">れいせい</rt></ruby>に<ruby>対応<rt
+    data-ruby-level="5">たいおう</rt></ruby>の<ruby>声<rt data-ruby-level="2">こえ</rt></ruby>
+  text: <ruby>蔵王山<rt data-ruby-level="8">ざおうざん</rt></ruby>の<ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby><ruby>警戒<rt
+    data-ruby-level="7">けいかい</rt></ruby>レベルが<ruby>引<rt data-ruby-level="2">ひ</rt></ruby>き<ruby>上<rt
+    data-ruby-level="2">あ</rt></ruby>げられたことについて、<ruby>宮城県<rt data-ruby-level="8">みやぎけん</rt></ruby><ruby>蔵王町<rt
+    data-ruby-level="8">ざおうまち</rt></ruby>の<ruby>遠刈田温泉<rt data-ruby-level="8">とおがったおんせん</rt></ruby>では<ruby>冷静<rt
+    data-ruby-level="4">れいせい</rt></ruby>に<ruby>対応<rt data-ruby-level="5">たいおう</rt></ruby>したいという<ruby>声<rt
+    data-ruby-level="2">こえ</rt></ruby>が<ruby>聞<rt data-ruby-level="2">き</rt></ruby>かれました。<br
+    /><br /><ruby>仙台市<rt data-ruby-level="7">せんだいし</rt></ruby>から<ruby>観光<rt data-ruby-level="4">かんこう</rt></ruby>で<ruby>訪<rt
+    data-ruby-level="7">おとず</rt></ruby>れた３０<ruby>代<rt data-ruby-level="3">だい</rt></ruby>の<ruby>男性<rt
+    data-ruby-level="5">だんせい</rt></ruby>は「<ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby>レベルが<ruby>上<rt
+    data-ruby-level="1">あ</rt></ruby>がって<ruby>危<rt data-ruby-level="6">あぶ</rt></ruby>ないとは<ruby>思<rt
+    data-ruby-level="2">おも</rt></ruby>いますが、<ruby>冷静<rt data-ruby-level="4">れいせい</rt></ruby>に<ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby>を<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>して<ruby>注意<rt
+    data-ruby-level="3">ちゅうい</rt></ruby>しながら<ruby>楽<rt data-ruby-level="2">たの</rt></ruby>しむしかないですね」と<ruby>話<rt
+    data-ruby-level="2">はな</rt></ruby>していました。<br /><br />また、<ruby>遠刈田温泉<rt data-ruby-level="8">とおがったおんせん</rt></ruby>に<ruby>住<rt
+    data-ruby-level="3">す</rt></ruby>む６０<ruby>代<rt data-ruby-level="3">だい</rt></ruby>の<ruby>男性<rt
+    data-ruby-level="5">だんせい</rt></ruby>は「<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>にも<ruby>大変<rt
+    data-ruby-level="4">たいへん</rt></ruby>な<ruby>思<rt data-ruby-level="2">おも</rt></ruby>いをしたが<ruby>自然<rt
+    data-ruby-level="4">しぜん</rt></ruby><ruby>現象<rt data-ruby-level="5">げんしょう</rt></ruby>なのでしかたありません。<ruby>町<rt
+    data-ruby-level="1">まち</rt></ruby>を<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れた<ruby>土地勘<rt
+    data-ruby-level="7">とちかん</rt></ruby>のない<ruby>観光客<rt data-ruby-level="4">かんこうきゃく</rt></ruby>にも<ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby><ruby>共有<rt data-ruby-level="4">きょうゆう</rt></ruby>しながらみんなで<ruby>身<rt
+    data-ruby-level="3">み</rt></ruby>を<ruby>守<rt data-ruby-level="3">まも</rt></ruby>っていきたい」と<ruby>話<rt
+    data-ruby-level="2">はな</rt></ruby>していました。
+source_url: https://www3.nhk.or.jp/news/html/20180130/k10011308251000.html?utm_int=nsearch_contents_search-items_001
+easy_title_with_ruby: <ruby>蔵王山<rt data-ruby-level="8">ざおうざん</rt></ruby>で<ruby>小<rt
+  data-ruby-level="1">ちい</rt></ruby>さい<ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby>があるかもしれない
+  <ruby>気<rt data-ruby-level="1">き</rt></ruby>をつけて
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/01/31/蔵王山で小さい噴火があるかもしれない-気をつけて
+related_news:
+- title: <ruby>草津<rt data-ruby-level="7">くさつ</rt></ruby><ruby>白根山<rt data-ruby-level="3">しらねさん</rt></ruby>が<ruby>噴火<rt
+    data-ruby-level="7">ふんか</rt></ruby> <ruby>警戒<rt data-ruby-level="7">けいかい</rt></ruby>レベル３に
+    <ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/23/草津白根山が噴火-警戒レベル3に-気象庁
+- title: <ruby>草津<rt data-ruby-level="7">くさつ</rt></ruby><ruby>白根山<rt data-ruby-level="3">しらねさん</rt></ruby><ruby>噴火<rt
+    data-ruby-level="7">ふんか</rt></ruby> <ruby>火口<rt data-ruby-level="1">かこう</rt></ruby>は<ruby>少<rt
+    data-ruby-level="2">すく</rt></ruby>なくとも６つ <ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/25/草津白根山噴火-火口は少なくとも6つ-気象庁
+- title: <ruby>バリ<rt data-ruby-level="3">ばり</rt></ruby><ruby>島<rt data-ruby-level="3">とう</rt></ruby>
+    <ruby>火山<rt data-ruby-level="1">かざん</rt></ruby><ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby><ruby>活動<rt
+    data-ruby-level="3">かつどう</rt></ruby><ruby>続<rt data-ruby-level="4">つづ</rt></ruby>く
+    <ruby>空<rt data-ruby-level="4">そら</rt></ruby>の<ruby>便<rt data-ruby-level="4">びん</rt></ruby><ruby>欠航<rt
+    data-ruby-level="4">けっこう</rt></ruby>で<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きな<ruby>影響<rt
+    data-ruby-level="7">えいきょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/11/28/バリ島-火山噴火活動続く-空の便欠航で大きな影響
+...

@@ -1,0 +1,70 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011306131000
+last_modified_at: '2018-01-31T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>01<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 東京大学は、南アメリカのチリにある高さ５６４０ｍの山の上に、星などを研究するための天文台を建てています。
+title: 宇宙の星を調べる日本の新しい望遠鏡ができる
+title_with_ruby: <ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>星<rt>ほし</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べる<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>望遠鏡<rt>ぼうえんきょう</rt></ruby>ができる
+outline: 東京大学は、南アメリカのチリにある高さ５６４０ｍの山の上に、星などを研究するための天文台を建てています。
+outline_with_ruby: <ruby>東京大学<rt>とうきょうだいがく</rt></ruby>は、<ruby>南<rt>みなみ</rt></ruby>アメリカのチリにある<ruby>高<rt>たか</rt></ruby>さ５６４０ｍの<ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に、<ruby>星<rt>ほし</rt></ruby>などを<ruby>研究<rt>けんきゅう</rt></ruby>するための<ruby>天文台<rt>てんもんだい</rt></ruby>を<ruby>建<rt>た</rt></ruby>てています。
+image_url: https://newswebeasy.github.io/ja201801/news/web/image/2018/01/28/K10011306131_1801281820_1801281823_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201801/news/easy/voice/2018/01/31/k10011306131000.mp3
+content_with_ruby: "<p><ruby>東京大学<rt>とうきょうだいがく</rt></ruby>は、<span style=\"color: blue;\"\
+  ><ruby>南<rt>みなみ</rt></ruby>アメリカ</span>のチリにある<ruby>高<rt>たか</rt></ruby>さ５６４０ｍの<ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に、<ruby>星<rt>ほし</rt></ruby>などを<ruby>研究<rt>けんきゅう</rt></ruby>するための<span\
+  \ style=\"color: blue;\"><ruby>天文台<rt>てんもんだい</rt></ruby></span>を<ruby>建<rt>た</rt></ruby>てています。<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>高<rt>たか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>にある<span\
+  \ style=\"color: blue;\"><ruby>天文台<rt>てんもんだい</rt></ruby></span>です。</p>\n<p>この<span\
+  \ style=\"color: blue;\"><ruby>天文台<rt>てんもんだい</rt></ruby></span>に<ruby>置<rt>お</rt></ruby>く<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>望遠鏡<rt>ぼうえんきょう</rt></ruby></span>が<ruby>兵庫県<rt>ひょうごけん</rt></ruby>の<ruby>工場<rt>こうじょう</rt></ruby>でできました。<ruby>長<rt>なが</rt></ruby>さは１５ｍ、<ruby>鏡<rt>かがみ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>直径<rt>ちょっけい</rt></ruby></span>は６．５ｍです。<ruby>人<rt>ひと</rt></ruby>の<ruby>目<rt>め</rt></ruby>で<ruby>見<rt>み</rt></ruby>えない<span\
+  \ style=\"color: blue;\"><ruby>赤外線<rt>せきがいせん</rt></ruby></span>の<ruby>光<rt>ひかり</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べることができる<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>望遠鏡<rt>ぼうえんきょう</rt></ruby></span>で、<span style=\"\
+  color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>様子<rt>ようす</rt></ruby></span>が<ruby>今<rt>いま</rt></ruby>までよりはっきりわかります。</p>\n\
+  <p><ruby>最近<rt>さいきん</rt></ruby>、<span style=\"color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>の<ruby>周<rt>まわ</rt></ruby>り<ruby>以外<rt>いがい</rt></ruby>でも<span\
+  \ style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>に<ruby>似<rt>に</rt></ruby>た<ruby>星<rt>ほし</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかっています。<ruby>東京大学<rt>とうきょうだいがく</rt></ruby>は、このような<ruby>星<rt>ほし</rt></ruby>がどのようにできるかを<ruby>調<rt>しら</rt></ruby>べることができると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>東京大学<rt>とうきょうだいがく</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>にこの<span\
+  \ style=\"color: blue;\"><ruby>望遠鏡<rt>ぼうえんきょう</rt></ruby></span>をチリに<ruby>運<rt>はこ</rt></ruby>んで、<ruby>来年<rt>らいねん</rt></ruby>から<ruby>使<rt>つか</rt></ruby>うことにしています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 宇宙
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。
+- word: 望遠鏡
+  descriptions:
+  - <ruby><rb>筒</rb><rt>つつ</rt></ruby>にレンズや<ruby><rb>反射鏡</rb><rt>はんしゃきょう</rt></ruby>をはめて、<ruby><rb>遠</rb><rt>とお</rt></ruby>くのものを<ruby><rb>大</rb><rt>おお</rt></ruby>きく<ruby><rb>見</rb><rt>み</rt></ruby>えるようにした<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 南アメリカ
+  descriptions:
+  - <ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>南</rb><rt>みなみ</rt></ruby>アメリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>と、<ruby><rb>周辺</rb><rt>しゅうへん</rt></ruby>の<ruby><rb>島々</rb><rt>しまじま</rt></ruby>をふくむ<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。<ruby><rb>東</rb><rt>ひがし</rt></ruby>は<ruby><rb>大西洋</rb><rt>たいせいよう</rt></ruby>、<ruby><rb>西</rb><rt>にし</rt></ruby>は<ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>に<ruby><rb>面</rb><rt>めん</rt></ruby>し、<ruby><rb>北</rb><rt>きた</rt></ruby>は<ruby><rb>北</rb><rt>きた</rt></ruby>アメリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>につながる。ブラジル・アルゼンチン・チリなどの<ruby><rb>国</rb><rt>くに</rt></ruby>がある。<ruby><rb>南米</rb><rt>なんべい</rt></ruby>。
+- word: 天文台
+  descriptions:
+  - <ruby><rb>天体</rb><rt>てんたい</rt></ruby>を<ruby><rb>観測</rb><rt>かんそく</rt></ruby>して、<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 直径
+  descriptions:
+  - <ruby><rb>円</rb><rt>えん</rt></ruby>または<ruby><rb>球</rb><rt>きゅう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>って、<ruby><rb>円周</rb><rt>えんしゅう</rt></ruby>や<ruby><rb>球面上</rb><rt>きゅうめんじょう</rt></ruby>の<ruby><rb>二点</rb><rt>にてん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>。さしわたし。
+- word: 赤外線
+  descriptions:
+  - プリズムで<ruby><rb>日光</rb><rt>にっこう</rt></ruby>を<ruby><rb>分</rb><rt>わ</rt></ruby>けたとき、<ruby><rb>赤色</rb><rt>あかいろ</rt></ruby>の<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>に<ruby><rb>現</rb><rt>あらわ</rt></ruby>れる<ruby><rb>目</rb><rt>め</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>えない<ruby><rb>光線</rb><rt>こうせん</rt></ruby>。<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>温</rb><rt>あたた</rt></ruby>めるので<ruby><rb>熱線</rb><rt>ねっせん</rt></ruby>ともいう。<ruby><rb>医療</rb><rt>いりょう</rt></ruby>・<ruby><rb>通信</rb><rt>つうしん</rt></ruby>・<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。
+- word: 様子
+  descriptions:
+  - ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。
+  - <ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。
+  - そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。
+  - わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。
+- word: 太陽
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>３番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+source_url: http://www3.nhk.or.jp/news/easy/k10011306131000/k10011306131000.html
+web_title_with_ruby: <ruby>世界<rt>せかい</rt></ruby><ruby>最高<rt>さいこう</rt></ruby><ruby>水準<rt>すいじゅん</rt></ruby>の<ruby>大型<rt>おおがた</rt></ruby><ruby>赤外線<rt>せきがいせん</rt></ruby><ruby>望遠鏡<rt>ぼうえんきょう</rt></ruby>が<ruby>完成<rt>かんせい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/28/世界最高水準の大型赤外線望遠鏡が完成
+related_news:
+- title: <ruby>北海道<rt>ほっかいどう</rt></ruby>　<ruby>太陽<rt>たいよう</rt></ruby>が<ruby>四角<rt>しかく</rt></ruby>い<ruby>形<rt>かたち</rt></ruby>に<ruby>見<rt>み</rt></ruby>えた
+  url: https://newswebeasy.github.io/news/easy/2017/11/08/北海道-太陽が四角い形に見えた
+- title: <ruby>今年<rt>ことし</rt></ruby><ruby>世界<rt>せかい</rt></ruby>で<ruby>起<rt>お</rt></ruby>こった<ruby>地震<rt>じしん</rt></ruby>などの<ruby>災害<rt>さいがい</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>は<ruby>約<rt>やく</rt></ruby>３５<ruby>兆<rt>ちょう</rt></ruby><ruby>円<rt>えん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/12/25/今年世界で起こった地震などの災害の被害は約35兆円
+...
