@@ -1,0 +1,44 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011308631000
+last_modified_at: '2018-02-01T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>01<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 総務省は、日本の人たちが何にいくらお金を使ったか、毎年調べています。
+title: 去年たくさんギョーザを買ったまち　宇都宮市が１番
+title_with_ruby: <ruby>去年<rt>きょねん</rt></ruby>たくさんギョーザを<ruby>買<rt>か</rt></ruby>ったまち　<ruby>宇都宮市<rt>うつのみやし</rt></ruby>が１<ruby>番<rt>ばん</rt></ruby>
+outline: 総務省は、日本の人たちが何にいくらお金を使ったか、毎年調べています。
+outline_with_ruby: <ruby>総務省<rt>そうむしょう</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが<ruby>何<rt>なに</rt></ruby>にいくらお<ruby>金<rt>かね</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ったか、<ruby>毎年<rt>まいとし</rt></ruby><ruby>調<rt>しら</rt></ruby>べています。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/01/30/K10011308631_1801301828_1801301831_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/01/k10011308631000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>総務省<rt>そうむしょう</rt></ruby></span>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが<ruby>何<rt>なに</rt></ruby>にいくらお<ruby>金<rt>かね</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ったか、<ruby>毎年<rt>まいとし</rt></ruby><ruby>調<rt>しら</rt></ruby>べています。この<ruby>中<rt>なか</rt></ruby>で<span\
+  \ style=\"color: blue;\">ギョーザ</span>をどのくらい<ruby>買<rt>か</rt></ruby>ったか<ruby>聞<rt>き</rt></ruby>くと、<ruby>去年<rt>きょねん</rt></ruby>は、１つの<ruby>家族<rt>かぞく</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>で４２５８<ruby>円<rt>えん</rt></ruby><ruby>買<rt>か</rt></ruby>った<ruby>栃木県<rt>とちぎけん</rt></ruby><ruby>宇都宮市<rt>うつのみやし</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby>になりました。おととしまで３<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて１<ruby>番<rt>ばん</rt></ruby>だった<ruby>静岡県<rt>しずおかけん</rt></ruby><ruby>浜松市<rt>はままつし</rt></ruby>は３５８２<ruby>円<rt>えん</rt></ruby>で２<ruby>番<rt>ばん</rt></ruby>でした。</p>\n\
+  <p><ruby>宇都宮市<rt>うつのみやし</rt></ruby>は２０１０<ruby>年<rt>ねん</rt></ruby>まで１５<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて１<ruby>番<rt>ばん</rt></ruby>でしたが、そのあと２０１３<ruby>年<rt>ねん</rt></ruby><ruby>以外<rt>いがい</rt></ruby>は<ruby>浜松市<rt>はままつし</rt></ruby>がずっと１<ruby>番<rt>ばん</rt></ruby>でした。</p>\n\
+  <p><ruby>宇都宮市<rt>うつのみやし</rt></ruby>の<ruby>高校生<rt>こうこうせい</rt></ruby>は「<span style=\"\
+  color: blue;\">ギョーザ</span>は１<ruby>週間<rt>しゅうかん</rt></ruby>に１<ruby>回<rt>かい</rt></ruby>ぐらい<ruby>家<rt>いえ</rt></ruby>で<ruby>食<rt>た</rt></ruby>べます。これからも<ruby>食<rt>た</rt></ruby>べ<ruby>続<rt>つづ</rt></ruby>けたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ギョーザ
+  descriptions:
+  - <ruby><rb>小麦粉</rb><rt>こむぎこ</rt></ruby>をうすくのばした<ruby><rb>皮</rb><rt>かわ</rt></ruby>で<ruby><rb>豚肉</rb><rt>ぶたにく</rt></ruby>や<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などをつつみ、<ruby><rb>焼</rb><rt>や</rt></ruby>いたり、むしたり、ゆでたりした<ruby><rb>中華料理</rb><rt>ちゅうかりょうり</rt></ruby>。
+- word: 総務省
+  descriptions:
+  - <ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>・<ruby><rb>市区町村</rb><rt>しくちょうそん</rt></ruby>などの<ruby><rb>地方自治体</rb><rt>ちほうじちたい</rt></ruby>や<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>の<ruby><rb>世話</rb><rt>せわ</rt></ruby>、<ruby><rb>郵便</rb><rt>ゆうびん</rt></ruby>・<ruby><rb>郵便貯金</rb><rt>ゆうびんちょきん</rt></ruby>・<ruby><rb>簡易保険</rb><rt>かんいほけん</rt></ruby>・<ruby><rb>電気通信</rb><rt>でんきつうしん</rt></ruby>などについての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+source_url: http://www3.nhk.or.jp/news/easy/k10011308631000/k10011308631000.html
+web_title_with_ruby: <ruby>宇都宮市<rt>うつのみやし</rt></ruby>が<ruby>ギョーザ<rt>ぎょーざ</rt></ruby><ruby>購入額<rt>こうにゅうがく</rt></ruby><ruby>日本一<rt>にっぽんいち</rt></ruby>に
+  ４<ruby>年<rt>ねん</rt></ruby>ぶり<ruby>返<rt>かえ</rt></ruby>り<ruby>咲<rt>ざ</rt></ruby>く
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/30/宇都宮市がギョーザ購入額日本一に-4年ぶり返り咲く
+related_news:
+- title: <ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>使<rt>つか</rt></ruby>ったお<ruby>金<rt>かね</rt></ruby>　<ruby>初<rt>はじ</rt></ruby>めて４<ruby>兆<rt>ちょう</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/01/17/旅行に来た外国人が使ったお金-初めて4兆円以上になる
+- title: 「<ruby>中国人<rt>ちゅうごくじん</rt></ruby>が<ruby>行<rt>い</rt></ruby>きたい<ruby>国<rt>くに</rt></ruby>」で<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めて１<ruby>番<rt>ばん</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2017/12/19/中国人が行きたい国で日本が初めて1番になる
+- title: <ruby>去年<rt>きょねん</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>はいちばん<ruby>多<rt>おお</rt></ruby>い２８６９<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/16/去年日本へ旅行に来た外国人はいちばん多い2869万人
+...

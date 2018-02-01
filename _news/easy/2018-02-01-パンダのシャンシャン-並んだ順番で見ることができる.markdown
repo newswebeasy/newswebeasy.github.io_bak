@@ -1,0 +1,57 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011311061000
+last_modified_at: '2018-02-01T17:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>01<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 東京の上野動物園は、去年６月に生まれた雌のパンダのシャンシャンを去年１２月から見せています。
+title: パンダのシャンシャン　並んだ順番で見ることができる
+title_with_ruby: パンダのシャンシャン　<ruby>並<rt>なら</rt></ruby>んだ<ruby>順番<rt>じゅんばん</rt></ruby>で<ruby>見<rt>み</rt></ruby>ることができる
+outline: 東京の上野動物園は、去年６月に生まれた雌のパンダのシャンシャンを去年１２月から見せています。
+outline_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>６<ruby>月<rt>がつ</rt></ruby>に<ruby>生<rt>う</rt></ruby>まれた<ruby>雌<rt>めす</rt></ruby>のパンダのシャンシャンを<ruby>去年<rt>きょねん</rt></ruby>１２<ruby>月<rt>がつ</rt></ruby>から<ruby>見<rt>み</rt></ruby>せています。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/01/K10011311061_1802011039_1802011044_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/01/k10011311061000.mp3
+content_with_ruby: "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>６<ruby>月<rt>がつ</rt></ruby>に<ruby>生<rt>う</rt></ruby>まれた<span\
+  \ style=\"color: blue;\"><ruby>雌<rt>めす</rt></ruby></span>の<span style=\"color: blue;\"\
+  >パンダ</span>のシャンシャンを<ruby>去年<rt>きょねん</rt></ruby>１２<ruby>月<rt>がつ</rt></ruby>から<ruby>見<rt>み</rt></ruby>せています。シャンシャンを<ruby>見<rt>み</rt></ruby>るためには、<ruby>今<rt>いま</rt></ruby>まではインターネットか<ruby>電話<rt>でんわ</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>ま</span>なければなりませんでした。２<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>からは、<ruby>並<rt>なら</rt></ruby>んだ<ruby>人<rt>ひと</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>順番<rt>じゅんばん</rt></ruby></span>に<ruby>見<rt>み</rt></ruby>ることができるようになりました。</p>\n\
+  <p><ruby>１日<rt>ついたち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>は、<ruby>午前<rt>ごぜん</rt></ruby>９<ruby>時<rt>じ</rt></ruby><ruby>半<rt>はん</rt></ruby>までに<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１２００<ruby>人<rt>にん</rt></ruby>が<ruby>並<rt>なら</rt></ruby>びました。<ruby>動物園<rt>どうぶつえん</rt></ruby>が<ruby>開<rt>あ</rt></ruby>くと、<ruby>並<rt>なら</rt></ruby>んでいた<ruby>人<rt>ひと</rt></ruby>たちはシャンシャンを<ruby>見<rt>み</rt></ruby>ることができる<ruby>時間<rt>じかん</rt></ruby>が<ruby>書<rt>か</rt></ruby>いてある<span\
+  \ style=\"color: blue;\"><ruby>券<rt>けん</rt></ruby></span>をもらって、<span style=\"color:\
+  \ blue;\"><ruby>順番<rt>じゅんばん</rt></ruby></span>に<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っていきました。</p>\n\
+  <p><ruby>動物園<rt>どうぶつえん</rt></ruby>はたくさんの<ruby>人<rt>ひと</rt></ruby>に<ruby>見<rt>み</rt></ruby>てもらうために、シャンシャンを<ruby>見<rt>み</rt></ruby>ることができる<ruby>時間<rt>じかん</rt></ruby>を２<ruby>時間<rt>じかん</rt></ruby><ruby>半<rt>はん</rt></ruby><ruby>長<rt>なが</rt></ruby>くしました。<ruby>毎日<rt>まいにち</rt></ruby>、<ruby>午後<rt>ごご</rt></ruby>４<ruby>時<rt>じ</rt></ruby>４５<ruby>分<rt>ふん</rt></ruby>までに９５００<ruby>人<rt>にん</rt></ruby>が<ruby>見<rt>み</rt></ruby>ることができるようになりました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: パンダ
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中央部</rb><rt>ちゅうおうぶ</rt></ruby>にすむけもの。ジャイアントパンダとレッサーパンダがいる。
+  - <ruby><rb>特</rb><rt>とく</rt></ruby>にジャイアントパンダ。<ruby><rb>中国西部</rb><rt>ちゅうごくせいぶ</rt></ruby>の<ruby><rb>山地</rb><rt>さんち</rt></ruby>にすむ。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>に<ruby><rb>色分</rb><rt>いろわ</rt></ruby>けされて、<ruby><rb>顔</rb><rt>かお</rt></ruby>つきや<ruby><rb>動作</rb><rt>どうさ</rt></ruby>がかわいい。
+- word: 順番
+  descriptions:
+  - <ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>に<ruby><rb>従</rb><rt>したが</rt></ruby>ってすること。また、その<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>。
+- word: 雌
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>を<ruby><rb>生</rb><rt>う</rt></ruby>む<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>があるほう。
+- word: 申し込む
+  descriptions:
+  - <ruby><rb>望</rb><rt>のぞ</rt></ruby>みを、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>申</rb><rt>もう</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れる。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 券
+  descriptions:
+  - きっぷ。<ruby><rb>札</rb><rt>ふだ</rt></ruby>。
+  - おさつ。また、お<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>代</rb><rt>か</rt></ruby>わりになる<ruby><rb>札</rb><rt>ふだ</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011311061000/k10011311061000.html
+web_title_with_ruby: <ruby>シャンシャン<rt>しゃんしゃん</rt></ruby> <ruby>先着順<rt>せんちゃくじゅん</rt></ruby>の<ruby>観覧<rt>かんらん</rt></ruby><ruby>開始<rt>かいし</rt></ruby>で<ruby>開園前<rt>かいえんまえ</rt></ruby>に1200<ruby>人<rt>にん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/01/シャンシャン-先着順の観覧開始で開園前に1200人
+related_news:
+- title: パンダの「シャンシャン」は１９<ruby>日<rt>にち</rt></ruby>から<ruby>見<rt>み</rt></ruby>ることができる
+  url: https://newswebeasy.github.io/news/easy/2017/12/04/パンダのシャンシャンは19日から見ることができる
+- title: <ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>　パンダの<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>見<rt>み</rt></ruby>ることができるようになる
+  url: https://newswebeasy.github.io/news/easy/2017/12/19/上野動物園-パンダの赤ちゃんを見ることができるようになる
+...

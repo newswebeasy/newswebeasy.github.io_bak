@@ -1,0 +1,79 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011309351000
+last_modified_at: '2018-02-01T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>01<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: エジプトとアメリカの研究チームは、エジプトの砂漠で、新しい種類の首が長い恐竜の化石が見つかったと発表しました。
+title: エジプトで新しい種類の恐竜の化石が見つかる
+title_with_ruby: エジプトで<ruby>新<rt>あたら</rt></ruby>しい<ruby>種類<rt>しゅるい</rt></ruby>の<ruby>恐竜<rt>きょうりゅう</rt></ruby>の<ruby>化石<rt>かせき</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかる
+outline: エジプトとアメリカの研究チームは、エジプトの砂漠で、新しい種類の首が長い恐竜の化石が見つかったと発表しました。
+outline_with_ruby: エジプトとアメリカの<ruby>研究<rt>けんきゅう</rt></ruby>チームは、エジプトの<ruby>砂漠<rt>さばく</rt></ruby>で、<ruby>新<rt>あたら</rt></ruby>しい<ruby>種類<rt>しゅるい</rt></ruby>の<ruby>首<rt>くび</rt></ruby>が<ruby>長<rt>なが</rt></ruby>い<ruby>恐竜<rt>きょうりゅう</rt></ruby>の<ruby>化石<rt>かせき</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかったと<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/01/31/K10011309351_1801310653_1801310705_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/01/k10011309351000.mp3
+content_with_ruby: "<p>エジプトとアメリカの<ruby>研究<rt>けんきゅう</rt></ruby><span style=\"color:\
+  \ blue;\">チーム</span>は、エジプトの<span style=\"color: blue;\"><ruby>砂漠<rt>さばく</rt></ruby></span>で、<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<ruby>首<rt>くび</rt></ruby>が<ruby>長<rt>なが</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>恐竜<rt>きょうりゅう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>化石<rt>かせき</rt></ruby></span>が<ruby>見<rt>み</rt></ruby>つかったと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p><ruby>頭<rt>あたま</rt></ruby>から<ruby>足<rt>あし</rt></ruby>までの<span\
+  \ style=\"color: blue;\"><ruby>骨<rt>ほね</rt></ruby></span>が、ほとんど<span style=\"color:\
+  \ blue;\"><ruby>元<rt>もと</rt></ruby></span>の<ruby>形<rt>かたち</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかりました。<ruby>研究<rt>けんきゅう</rt></ruby><span\
+  \ style=\"color: blue;\">チーム</span>は、この<span style=\"color: blue;\"><ruby>恐竜<rt>きょうりゅう</rt></ruby></span>は<ruby>体<rt>からだ</rt></ruby>の<ruby>長<rt>なが</rt></ruby>さが１０ｍ、<ruby>重<rt>おも</rt></ruby>さが５ｔぐらいで、８０００<ruby>万<rt>まん</rt></ruby><ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>に<ruby>生<rt>い</rt></ruby>きていたと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p>アフリカで８０００<ruby>万<rt>まん</rt></ruby><ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>恐竜<rt>きょうりゅう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>化石<rt>かせき</rt></ruby></span>が<ruby>見<rt>み</rt></ruby>つかることは、とても<ruby>珍<rt>めずら</rt></ruby>しいです。この<span\
+  \ style=\"color: blue;\"><ruby>恐竜<rt>きょうりゅう</rt></ruby></span>の<ruby>体<rt>からだ</rt></ruby>は、<ruby>同<rt>おな</rt></ruby>じ<ruby>時代<rt>じだい</rt></ruby>に<span\
+  \ style=\"color: blue;\">ヨーロッパ</span>にいた<span style=\"color: blue;\"><ruby>恐竜<rt>きょうりゅう</rt></ruby></span>と<ruby>似<rt>に</rt></ruby>ています。このため<ruby>研究<rt>けんきゅう</rt></ruby><span\
+  \ style=\"color: blue;\">チーム</span>は、<span style=\"color: blue;\"><ruby>恐竜<rt>きょうりゅう</rt></ruby></span>が<span\
+  \ style=\"color: blue;\">ヨーロッパ</span>とアフリカの<ruby>間<rt>あいだ</rt></ruby>を<ruby>行<rt>い</rt></ruby>ったり<ruby>来<rt>き</rt></ruby>たりしていた<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 恐竜
+  descriptions:
+  - <ruby><rb>中生代</rb><rt>ちゅうせいだい</rt></ruby>に<ruby><rb>栄</rb><rt>さか</rt></ruby>えた<ruby><rb>巨大</rb><rt>きょだい</rt></ruby>なは<ruby><rb>虫類</rb><rt>ちゅうるい</rt></ruby>のなかま。<ruby><rb>大</rb><rt>おお</rt></ruby>きなものは<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さ３０メートル、<ruby><rb>重</rb><rt>おも</rt></ruby>さ５０トンぐらいあった。<ruby><rb>化石</rb><rt>かせき</rt></ruby>として<ruby><rb>発見</rb><rt>はっけん</rt></ruby>される。
+- word: 化石
+  descriptions:
+  - <ruby><rb>大昔</rb><rt>おおむかし</rt></ruby>の<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>骨</rb><rt>ほね</rt></ruby>や<ruby><rb>貝</rb><rt>かい</rt></ruby>がら、<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>などが、<ruby><rb>石</rb><rt>いし</rt></ruby>のようになって<ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>土</rb><rt>つち</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>っているもの。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 砂漠・
+  descriptions:
+  - <ruby><rb>砂地</rb><rt>すなじ</rt></ruby>がむき<ruby><rb>出</rb><rt>だ</rt></ruby>しになっている<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。かわいた<ruby><rb>気候</rb><rt>きこう</rt></ruby>のため<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>が<ruby><rb>育</rb><rt>そだ</rt></ruby>ちにくい。ゴビ<ruby><rb>砂漠</rb><rt>さばく</rt></ruby>・サハラ<ruby><rb>砂漠</rb><rt>さばく</rt></ruby>など。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 骨
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>支</rb><rt>ささ</rt></ruby>えているかたいもの。
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>のしんにする<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>竹</rb><rt>たけ</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。
+  - ものごとの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。
+  - へこたれない<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。
+  - <ruby><rb>苦労</rb><rt>くろう</rt></ruby>なこと。
+- word: 元
+  descriptions:
+  - <ruby><rb>起</rb><rt>お</rt></ruby>こり。<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>原因</rb><rt>げんいん</rt></ruby>。
+  - <ruby><rb>原料</rb><rt>げんりょう</rt></ruby>。
+  - <ruby><rb>元手</rb><rt>もとで</rt></ruby>。<ruby><rb>資本</rb><rt>しほん</rt></ruby>。
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>。<ruby><rb>以前</rb><rt>いぜん</rt></ruby>。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+source_url: http://www3.nhk.or.jp/news/easy/k10011309351000/k10011309351000.html
+web_title_with_ruby: <ruby>エジプト<rt>えじぷと</rt></ruby>の<ruby>砂漠<rt>さばく</rt></ruby>で<ruby>新種<rt>しんしゅ</rt></ruby>の<ruby>恐竜<rt>きょうりゅう</rt></ruby>の<ruby>化石<rt>かせき</rt></ruby><ruby>発見<rt>はっけん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/31/エジプトの砂漠で新種の恐竜の化石発見
+related_news:
+- title: ロボットが<ruby>月<rt>つき</rt></ruby>から<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る<ruby>競争<rt>きょうそう</rt></ruby>「<ruby>勝<rt>か</rt></ruby>つチームはなさそう」
+  url: https://newswebeasy.github.io/news/easy/2018/01/25/ロボットが月から写真を送る競争勝つチームはなさそう
+- title: インドネシアで<ruby>新<rt>あたら</rt></ruby>しい<ruby>種類<rt>しゅるい</rt></ruby>のオランウータンが<ruby>見<rt>み</rt></ruby>つかる
+  url: https://newswebeasy.github.io/news/easy/2017/11/07/インドネシアで新しい種類のオランウータンが見つかる
+...
