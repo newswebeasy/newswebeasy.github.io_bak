@@ -1,0 +1,55 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011310751000
+last_modified_at: '2018-02-02T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>02<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: アメリカの女優のアンジェリーナ・ジョリーさんは、ＵＮＨＣＲなどで難民を助ける活動をしています。
+title: 女優のアンジェリーナ・ジョリーさんがシリアの難民に会う
+title_with_ruby: <ruby>女優<rt>じょゆう</rt></ruby>のアンジェリーナ・ジョリーさんがシリアの<ruby>難民<rt>なんみん</rt></ruby>に<ruby>会<rt>あ</rt></ruby>う
+outline: アメリカの女優のアンジェリーナ・ジョリーさんは、ＵＮＨＣＲなどで難民を助ける活動をしています。
+outline_with_ruby: アメリカの<ruby>女優<rt>じょゆう</rt></ruby>のアンジェリーナ・ジョリーさんは、ＵＮＨＣＲなどで<ruby>難民<rt>なんみん</rt></ruby>を<ruby>助<rt>たす</rt></ruby>ける<ruby>活動<rt>かつどう</rt></ruby>をしています。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/01/K10011310751_1802010548_1802010549_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/02/k10011310751000.mp3
+content_with_ruby: "<p>アメリカの<span style=\"color: blue;\"><ruby>女優<rt>じょゆう</rt></ruby></span>のアンジェリーナ・ジョリーさんは、ＵＮＨＣＲなどで<span\
+  \ style=\"color: blue;\"><ruby>難民<rt>なんみん</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>助<rt>たす</rt></ruby>ける</span> <span style=\"color: blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>をしています。ジョリーさんは、シリアから<ruby>逃<rt>に</rt></ruby>げてきた<span\
+  \ style=\"color: blue;\"><ruby>難民<rt>なんみん</rt></ruby></span>が８<ruby>万<rt>まん</rt></ruby>５０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>しているヨルダンの「<ruby>難民<rt>なんみん</rt></ruby>キャンプ」へ<ruby>行<rt>い</rt></ruby>きました。</p>\n\
+  <p>ジョリーさんは「<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>生活<rt>せいかつ</rt></ruby>して、<ruby>子<rt>こ</rt></ruby>どもたちが<ruby>勉強<rt>べんきょう</rt></ruby>できるようにしたい」という<span\
+  \ style=\"color: blue;\"><ruby>難民<rt>なんみん</rt></ruby></span>の<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いたり、<ruby>数学<rt>すうがく</rt></ruby>や<ruby>英語<rt>えいご</rt></ruby>などを<ruby>勉強<rt>べんきょう</rt></ruby>している<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>たちと<ruby>話<rt>はな</rt></ruby>したりしました。</p>\n\
+  <p>ＵＮＨＣＲによると、７<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>戦争<rt>せんそう</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いているシリアでは１１００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>て<ruby>逃<rt>に</rt></ruby>げています。シリアで<ruby>生活<rt>せいかつ</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>は６００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>、シリア<ruby>以外<rt>いがい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>は５４８<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>です。<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>が１<ruby>日<rt>にち</rt></ruby>３<span\
+  \ style=\"color: blue;\">ドル</span><ruby>以下<rt>いか</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>しています。</p>\n\
+  <p>ジョリーさんは「<ruby>政治<rt>せいじ</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>でシリアの<ruby>人<rt>ひと</rt></ruby>たちが<span\
+  \ style=\"color: blue;\"><ruby>幸<rt>しあわ</rt></ruby>せ</span>な<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>ることができるように、<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>が<ruby>考<rt>かんが</rt></ruby>えなければなりません」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 女優
+  descriptions:
+  - <ruby><rb>女性</rb><rt>じょせい</rt></ruby>の<ruby><rb>俳優</rb><rt>はいゆう</rt></ruby>。
+- word: 難民
+  descriptions:
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>や<ruby><rb>天災</rb><rt>てんさい</rt></ruby>のために、<ruby><rb>家</rb><rt>いえ</rt></ruby>を<ruby><rb>失</rb><rt>うしな</rt></ruby>い、よその<ruby><rb>土地</rb><rt>とち</rt></ruby>へにげてきた<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+- word: 活動
+  descriptions:
+  - <ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。
+- word: ドル
+  descriptions:
+  - アメリカ・カナダなどで<ruby><rb>使</rb><rt>つか</rt></ruby>われているお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>１</rb><rt>いち</rt></ruby>ドルは１００セント。
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 幸せ
+  descriptions:
+  - <ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>満足</rb><rt>まんぞく</rt></ruby>している<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011310751000/k10011310751000.html
+web_title_with_ruby: <ruby>アンジェリーナ<rt>あんじぇりーな</rt></ruby>さん <ruby>シリア<rt>しりあ</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>「<ruby>国際<rt>こくさい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>が<ruby>解決<rt>かいけつ</rt></ruby><ruby>模索<rt>もさく</rt></ruby>を」
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/01/アンジェリーナさん-シリア問題国際社会が解決模索を
+related_news:
+- title: <ruby>横浜市<rt>よこはまし</rt></ruby>　<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>をＡＩで<ruby>手伝<rt>てつだ</rt></ruby>うマンション
+  url: https://newswebeasy.github.io/news/easy/2017/11/27/横浜市-住んでいる人の生活をAIで手伝うマンション
+- title: <ruby>今年<rt>ことし</rt></ruby><ruby>仕事<rt>しごと</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>亡<rt>な</rt></ruby>くなった<ruby>記者<rt>きしゃ</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>で５０<ruby>人<rt>にん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/12/22/今年仕事中に亡くなった記者は世界で50人
+...

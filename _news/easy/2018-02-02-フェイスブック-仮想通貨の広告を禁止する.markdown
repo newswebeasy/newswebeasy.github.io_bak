@@ -1,0 +1,65 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011309521000
+last_modified_at: '2018-02-02T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>02<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: インターネットで友達などと交流するフェイスブックに、「仮想通貨」の広告を出すことができなくなりました。
+title: フェイスブック　「仮想通貨」の広告を禁止する
+title_with_ruby: フェイスブック　「<ruby>仮想通貨<rt>かそうつうか</rt></ruby>」の<ruby>広告<rt>こうこく</rt></ruby>を<ruby>禁止<rt>きんし</rt></ruby>する
+outline: インターネットで友達などと交流するフェイスブックに、「仮想通貨」の広告を出すことができなくなりました。
+outline_with_ruby: インターネットで<ruby>友達<rt>ともだち</rt></ruby>などと<ruby>交流<rt>こうりゅう</rt></ruby>するフェイスブックに、「<ruby>仮想通貨<rt>かそうつうか</rt></ruby>」の<ruby>広告<rt>こうこく</rt></ruby>を<ruby>出<rt>だ</rt></ruby>すことができなくなりました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/01/31/K10011309521_1801311151_1801311155_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/02/k10011309521000.mp3
+content_with_ruby: "<p>インターネットで<ruby>友達<rt>ともだち</rt></ruby>などと<span style=\"color:\
+  \ blue;\"><ruby>交流<rt>こうりゅう</rt></ruby></span>するフェイスブックに、「<ruby>仮想通貨<rt>かそうつうか</rt></ruby>」の<span\
+  \ style=\"color: blue;\"><ruby>広告<rt>こうこく</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>すことができなくなりました。「<ruby>仮想通貨<rt>かそうつうか</rt></ruby>」はインターネットでお<ruby>金<rt>かね</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>使<rt>つか</rt></ruby>うことができるものです。</p>\n\
+  <p><ruby>例<rt>たと</rt></ruby>えば、「<span style=\"color: blue;\"><ruby>退職<rt>たいしょく</rt></ruby></span>したときにもらったお<ruby>金<rt>かね</rt></ruby>で<ruby>仮想通貨<rt>かそうつうか</rt></ruby>のビットコインを<ruby>買<rt>か</rt></ruby>おう」や、「<ruby>失敗<rt>しっぱい</rt></ruby>しない<ruby>仮想通貨<rt>かそうつうか</rt></ruby>についてもっと<ruby>知<rt>し</rt></ruby>りたい<ruby>人<rt>ひと</rt></ruby>はここを<span\
+  \ style=\"color: blue;\">クリック</span>」などの<span style=\"color: blue;\"><ruby>広告<rt>こうこく</rt></ruby></span>が<span\
+  \ style=\"color: blue;\"><ruby>禁止<rt>きんし</rt></ruby></span>になりました。</p>\n<p>フェイスブックの<ruby>会社<rt>かいしゃ</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>広告<rt>こうこく</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>が<ruby>間違<rt>まちが</rt></ruby>えて<span\
+  \ style=\"color: blue;\"><ruby>理解<rt>りかい</rt></ruby></span>する<span style=\"color:\
+  \ blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があるためだと<ruby>説明<rt>せつめい</rt></ruby>しています。<ruby>会社<rt>かいしゃ</rt></ruby>は、インスタグラムでも<span\
+  \ style=\"color: blue;\"><ruby>禁止<rt>きんし</rt></ruby></span>すると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 広告
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。また、<ruby><rb>知</rb><rt>し</rt></ruby>らせるために<ruby><rb>書</rb><rt>か</rt></ruby>かれたものなど。コマーシャル。
+- word: 禁止
+  descriptions:
+  - してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。
+- word: 交流
+  descriptions:
+  - たがいに<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>来</rb><rt>き</rt></ruby>すること。<ruby><rb>交</rb><rt>ま</rt></ruby>じり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時間</rb><rt>じかん</rt></ruby>ごとに、<ruby><rb>流</rb><rt>なが</rt></ruby>れの<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>が<ruby><rb>逆</rb><rt>ぎゃく</rt></ruby>になる<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>。
+- word: 退職
+  descriptions:
+  - <ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>などの<ruby><rb>勤</rb><rt>つと</rt></ruby>めをやめること。
+- word: クリック
+  descriptions:
+  - マウスなどの<ruby><rb>入力装置</rb><rt>にゅうりょくそうち</rt></ruby>のボタンをおすこと。二<ruby><rb>回</rb><rt>かい</rt></ruby><ruby><rb>続</rb><rt>つづ</rt></ruby>けておすことをダブルクリックという。
+- word: 理解
+  descriptions:
+  - ものごとの<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>や、<ruby><rb>理屈</rb><rt>りくつ</rt></ruby>がわかること。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>気持</rb><rt>きも</rt></ruby>ちやようすをくみ<ruby><rb>取</rb><rt>と</rt></ruby>ること。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+source_url: http://www3.nhk.or.jp/news/easy/k10011309521000/k10011309521000.html
+web_title_with_ruby: <ruby>フェイスブック<rt>ふぇいすぶっく</rt></ruby> <ruby>仮想<rt>かそう</rt></ruby><ruby>通貨<rt>つうか</rt></ruby>の<ruby>広告<rt>こうこく</rt></ruby>
+  <ruby>全世界<rt>ぜんせかい</rt></ruby>で<ruby>禁止<rt>きんし</rt></ruby>「<ruby>虚偽<rt>きょぎ</rt></ruby>を<ruby>助長<rt>じょちょう</rt></ruby>」
+web_news_url: https://newswebeasy.github.io/news/web/2018/01/31/フェイスブック-仮想通貨の広告-全世界で禁止虚偽を助長
+related_news:
+- title: インターネットでお<ruby>金<rt>かね</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>使<rt>つか</rt></ruby>う「ＮＥＭ」がなくなる
+  url: https://newswebeasy.github.io/news/easy/2018/01/29/インターネットでお金と同じように使うNEMがなくなる
+- title: <ruby>成人式<rt>せいじんしき</rt></ruby>に<ruby>着物<rt>きもの</rt></ruby>が<ruby>届<rt>とど</rt></ruby>かないトラブル　１<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/11/成人式に着物が届かないトラブル-1億円以上の被害
+- title: インターネットを<ruby>使<rt>つか</rt></ruby>って<ruby>虫歯<rt>むしば</rt></ruby>にならないようにするサービス
+  url: https://newswebeasy.github.io/news/easy/2017/12/27/インターネットを使って虫歯にならないようにするサービス
+- title: <ruby>本当<rt>ほんとう</rt></ruby>にある<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってお<ruby>金<rt>かね</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>むメールが<ruby>多<rt>おお</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2018/01/04/本当にある会社の名前を使ってお金を盗むメールが多い
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>　<ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby>を<ruby>少<rt>すく</rt></ruby>なくするために<ruby>新<rt>あたら</rt></ruby>しい<ruby>制度<rt>せいど</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2017/12/20/中国-二酸化炭素を少なくするために新しい制度を始める
+...

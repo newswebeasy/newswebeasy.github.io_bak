@@ -1,0 +1,125 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011311951000
+last_modified_at: '2018-02-02T16:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>02<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: 韓国のピョンチャンで９日、オリンピックが始まります。
+title: ピョンチャンオリンピックの選手村がオープン
+title_with_ruby: ピョンチャンオリンピックの<ruby>選手村<rt>せんしゅむら</rt></ruby>がオープン
+outline: 韓国のピョンチャンで９日、オリンピックが始まります。
+outline_with_ruby: <ruby>韓国<rt>かんこく</rt></ruby>のピョンチャンで<ruby>９日<rt>ここのか</rt></ruby>、オリンピックが<ruby>始<rt>はじ</rt></ruby>まります。
+image_url: https://newswebeasy.github.io/ja201802/news/easy/image/2018/02/02/k10011311951000.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/02/k10011311951000.mp3
+content_with_ruby: "<p><ruby>韓国<rt>かんこく</rt></ruby>のピョンチャンで<ruby>９日<rt>ここのか</rt></ruby>、<span\
+  \ style=\"color: blue;\">オリンピック</span>が<ruby>始<rt>はじ</rt></ruby>まります。<span style=\"\
+  color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちが<ruby>泊<rt>と</rt></ruby>まる「<ruby>選手村<rt>せんしゅむら</rt></ruby>」が、<span\
+  \ style=\"color: blue;\">スキー</span>などの<ruby>山<rt>やま</rt></ruby>の<span style=\"color:\
+  \ blue;\"><ruby>競技<rt>きょうぎ</rt></ruby></span>を<ruby>行<rt>おこな</rt></ruby>うピョンチャンと、<span\
+  \ style=\"color: blue;\">スケート</span>などの<span style=\"color: blue;\"><ruby>競技<rt>きょうぎ</rt></ruby></span>を<ruby>行<rt>おこな</rt></ruby>う<ruby>海<rt>うみ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くのカンヌンにできました。ピョンチャンとカンヌンで<ruby>１日<rt>ついたち</rt></ruby>、<ruby>選手村<rt>せんしゅむら</rt></ruby>を<span\
+  \ style=\"color: blue;\">オープン</span>する<ruby>式<rt>しき</rt></ruby>がありました。</p>\n<p>ピョンチャンでは<span\
+  \ style=\"color: blue;\">ＩＯＣ</span>のバッハ<span style=\"color: blue;\"><ruby>会長<rt>かいちょう</rt></ruby></span>が「すばらしい<ruby>選手村<rt>せんしゅむら</rt></ruby>ができました。ここで<ruby>生活<rt>せいかつ</rt></ruby>する<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちの<span style=\"color:\
+  \ blue;\"><ruby>幸運<rt>こううん</rt></ruby></span>を<ruby>祈<rt>いの</rt></ruby>っています」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p>そのあと<ruby>式<rt>しき</rt></ruby>に<ruby>出席<rt>しゅっせき</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>たちが<ruby>一緒<rt>いっしょ</rt></ruby>に、<span\
+  \ style=\"color: blue;\"><ruby>平和<rt>へいわ</rt></ruby></span>を<ruby>意味<rt>いみ</rt></ruby>する<ruby>白<rt>しろ</rt></ruby>い<span\
+  \ style=\"color: blue;\">はと</span>の<ruby>形<rt>かたち</rt></ruby>をした<span style=\"color:\
+  \ blue;\"><ruby>風船<rt>ふうせん</rt></ruby></span>を<ruby>空<rt>そら</rt></ruby>に<span style=\"\
+  color: blue;\"><ruby>飛<rt>と</rt></ruby>ばし</span>ました。</p>\n<p><ruby>選手村<rt>せんしゅむら</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>村長<rt>そんちょう</rt></ruby></span>はアテネオリンピックの<span style=\"\
+  color: blue;\"><ruby>卓球<rt>たっきゅう</rt></ruby></span>で<span style=\"color: blue;\"\
+  ><ruby>金<rt>きん</rt></ruby></span><span style=\"color: blue;\">メダル</span>をとったユ・スンミンさんです。ユさんは「ここで<span\
+  \ style=\"color: blue;\">リラックス</span>して、いい<span style=\"color: blue;\"><ruby>成績<rt>せいせき</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>してほしいです」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: オープン
+  descriptions:
+  - <ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。
+  - かくしだてをしないようす。
+  - おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: スキー
+  descriptions:
+  - くつに<ruby><rb>取</rb><rt>と</rt></ruby>りつけて、<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>板</rb><rt>いた</rt></ruby>。
+  - 「<span class="dic_sansyogogi">1)</span>」を<ruby><rb>使</rb><rt>つか</rt></ruby>って<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。
+- word: 競技
+  descriptions:
+  - わざや<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>を、<ruby><rb>比</rb><rt>くら</rt></ruby>べ<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>特</rb><rt>とく</rt></ruby>にスポーツで、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>うこと。
+- word: スケート
+  descriptions:
+  - <ruby><rb>底</rb><rt>そこ</rt></ruby>に<ruby><rb>金具</rb><rt>かなぐ</rt></ruby>の<ruby><rb>刃</rb><rt>は</rt></ruby>がついているくつをはいて、<ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。アイススケート。また、そのためのくつ。
+  - 「ローラースケート」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+- word: IOC
+  descriptions:
+  - オリンピック<ruby><rb>大会</rb><rt>たいかい</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いたり、オリンピック<ruby><rb>精神</rb><rt>せいしん</rt></ruby>を<ruby><rb>広</rb><rt>ひろ</rt></ruby>めたりする<ruby><rb>機関</rb><rt>きかん</rt></ruby>。
+- word: 会長
+  descriptions:
+  - <ruby><rb>会</rb><rt>かい</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 幸運
+  descriptions:
+  - <ruby><rb>運</rb><rt>うん</rt></ruby>がいいこと。<ruby><rb>幸</rb><rt>しあわ</rt></ruby>せ。
+- word: 平和
+  descriptions:
+  - おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。
+- word: 鳩
+  descriptions:
+  - <ruby><rb>寺</rb><rt>てら</rt></ruby>や<ruby><rb>公園</rb><rt>こうえん</rt></ruby>でよく<ruby><rb>見</rb><rt>み</rt></ruby>かける<ruby><rb>中形</rb><rt>ちゅうがた</rt></ruby>の<ruby><rb>鳥</rb><rt>とり</rt></ruby>。<ruby><rb>目</rb><rt>め</rt></ruby>が<ruby><rb>丸</rb><rt>まる</rt></ruby>く、<ruby><rb>胸</rb><rt>むね</rt></ruby>をつき<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>歩</rb><rt>ある</rt></ruby>く。<ruby><rb>遠</rb><rt>とお</rt></ruby>くからでも<ruby><rb>巣</rb><rt>す</rt></ruby>に<ruby><rb>帰</rb><rt>かえ</rt></ruby>る<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>がある。<ruby><rb>平和</rb><rt>へいわ</rt></ruby>のシンボルとされる。
+- word: 風船
+  descriptions:
+  - <ruby><rb>紙</rb><rt>かみ</rt></ruby>やゴムのふくろの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>空気</rb><rt>くうき</rt></ruby>などを<ruby><rb>入</rb><rt>い</rt></ruby>れてふくらませ<ruby><rb>飛</rb><rt>と</rt></ruby>ばして<ruby><rb>遊</rb><rt>あそ</rt></ruby>ぶおもちゃ。
+- word: 飛ばす
+  descriptions:
+  - <ruby><rb>飛</rb><rt>と</rt></ruby>ぶようにする。
+  - <ruby><rb>散</rb><rt>ち</rt></ruby>らす。
+  - <ruby><rb>走</rb><rt>はし</rt></ruby>らせる。
+  - <ruby><rb>間</rb><rt>あいだ</rt></ruby>をぬいて、<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む。
+  - <ruby><rb>言</rb><rt>い</rt></ruby>いふらす。
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく…する。
+- word: 村長
+  descriptions:
+  - <ruby><rb>村</rb><rt>むら</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>し、<ruby><rb>村</rb><rt>むら</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 卓球
+  descriptions:
+  - <ruby><rb>台</rb><rt>だい</rt></ruby>の<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>からラケットで<ruby><rb>球</rb><rt>たま</rt></ruby>を<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ピンポン。
+- word: 金
+  descriptions:
+  - <ruby><rb>黄色</rb><rt>きいろ</rt></ruby>いつやのある、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。こがね。
+  - こがね<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+  - おかね。
+  - 「<span class="dic_sansyogogi">1)</span>」のように、だいじな。りっぱな。
+  - かなもの。
+  - <ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>金曜日</rb><rt>きんようび</rt></ruby>。
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+- word: リラックス
+  descriptions:
+  - <ruby><rb>緊張</rb><rt>きんちょう</rt></ruby>しないで、のんびりと<ruby><rb>楽</rb><rt>らく</rt></ruby>にすること。
+- word: 成績
+  descriptions:
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>をした<ruby><rb>結果</rb><rt>けっか</rt></ruby>。できばえ。
+  - <ruby><rb>学校</rb><rt>がっこう</rt></ruby>での<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>のできぐあい。
+source_url: http://www3.nhk.or.jp/news/easy/k10011311951000/k10011311951000.html
+web_title_with_ruby: <ruby>ピョン<rt>ぴょん</rt></ruby><ruby>チャン<rt>ちゃん</rt></ruby><ruby>五輪<rt>ごりん</rt></ruby>の<ruby>選手村<rt>せんしゅむら</rt></ruby><ruby>開村<rt>かいそん</rt></ruby><ruby>式<rt>しき</rt></ruby>
+  <ruby>北朝鮮<rt>きたちょうせん</rt></ruby><ruby>国旗<rt>こっき</rt></ruby>も<ruby>掲<rt>かか</rt></ruby>げられる
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/01/ピョンチャン五輪の選手村開村式-北朝鮮国旗も掲げられる
+related_news:
+- title: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>がピョンチャンオリンピックに２２<ruby>人<rt>にん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/01/23/北朝鮮がピョンチャンオリンピックに22人の選手を送る
+- title: オリンピックの<ruby>開会<rt>かいかい</rt></ruby><ruby>式<rt>しき</rt></ruby>　<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>歩<rt>ある</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/01/18/オリンピックの開会式-韓国と北朝鮮の選手は一緒に歩く
+- title: ロシアの<ruby>選手<rt>せんしゅ</rt></ruby>のチームはオリンピックに<ruby>出<rt>で</rt></ruby>ることができない
+  url: https://newswebeasy.github.io/news/easy/2017/12/06/ロシアの選手のチームはオリンピックに出ることができない
+- title: <ruby>国連<rt>こくれん</rt></ruby>「ピョンチャンオリンピックのときは<ruby>戦争<rt>せんそう</rt></ruby>をやめよう」
+  url: https://newswebeasy.github.io/news/easy/2017/11/15/国連ピョンチャンオリンピックのときは戦争をやめよう
+- title: スピードスケートの<ruby>小平<rt>こだいら</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>世界<rt>せかい</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby><ruby>速<rt>はや</rt></ruby>い<ruby>記録<rt>きろく</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す
+  url: https://newswebeasy.github.io/news/easy/2017/12/12/スピードスケートの小平選手が世界で1番速い記録を出す
+...
