@@ -1,0 +1,46 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011314781000
+last_modified_at: '2018-02-05T17:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>05<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 岩手県釜石市では、７年前の東日本大震災の津波で大勢の人が亡くなりました。
+title: 津波のときは高い所に走って逃げることを伝えるイベント
+title_with_ruby: <ruby>津波<rt>つなみ</rt></ruby>のときは<ruby>高<rt>たか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>に<ruby>走<rt>はし</rt></ruby>って<ruby>逃<rt>に</rt></ruby>げることを<ruby>伝<rt>つた</rt></ruby>えるイベント
+outline: 岩手県釜石市では、７年前の東日本大震災の津波で大勢の人が亡くなりました。
+outline_with_ruby: <ruby>岩手県<rt>いわてけん</rt></ruby><ruby>釜石市<rt>かまいしし</rt></ruby>では、７<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>東日本大震災<rt>ひがしにほんだいしんさい</rt></ruby>の<ruby>津波<rt>つなみ</rt></ruby>で<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/04/K10011314781_1802041645_1802041647_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/05/k10011314781000.mp3
+content_with_ruby: "<p><ruby>岩手県<rt>いわてけん</rt></ruby><ruby>釜石市<rt>かまいしし</rt></ruby>では、７<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>東日本大震災<rt>ひがしにほんだいしんさい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>津波<rt>つなみ</rt></ruby></span>で<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。「<span\
+  \ style=\"color: blue;\"><ruby>津波<rt>つなみ</rt></ruby></span>のときは<ruby>急<rt>いそ</rt></ruby>いで<ruby>高<rt>たか</rt></ruby>い<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>逃<rt>に</rt></ruby>げる」ということを<ruby>伝<rt>つた</rt></ruby>えるために、<ruby>高<rt>たか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>まで<ruby>走<rt>はし</rt></ruby>る「<ruby>韋駄天<rt>いだてん</rt></ruby><ruby>競走<rt>きょうそう</rt></ruby>」という<span\
+  \ style=\"color: blue;\">イベント</span>を<ruby>毎年<rt>まいとし</rt></ruby><ruby>行<rt>おこな</rt></ruby>っています。「<ruby>韋駄天<rt>いだてん</rt></ruby>」は<ruby>走<rt>はし</rt></ruby>るのが<ruby>速<rt>はや</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>のことです。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby>は<ruby>３日<rt>みっか</rt></ruby>に「<ruby>韋駄天<rt>いだてん</rt></ruby><ruby>競走<rt>きょうそう</rt></ruby>」がありました。<ruby>町<rt>まち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>から<ruby>高<rt>たか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>にある<ruby>寺<rt>てら</rt></ruby>まで、２８６ｍの<ruby>坂<rt>さか</rt></ruby>を<ruby>休<rt>やす</rt></ruby>まないで<ruby>走<rt>はし</rt></ruby>って<ruby>登<rt>のぼ</rt></ruby>ります。３<ruby>歳<rt>さい</rt></ruby>から５８<ruby>歳<rt>さい</rt></ruby>までの１２０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>走<rt>はし</rt></ruby>りました。</p>\n\
+  <p><ruby>小<rt>ちい</rt></ruby>さな<ruby>子<rt>こ</rt></ruby>どもを<ruby>連<rt>つ</rt></ruby>れたお<ruby>父<rt>とう</rt></ruby>さんやお<ruby>母<rt>かあ</rt></ruby>さんは、<ruby>子<rt>こ</rt></ruby>どもとしっかり<ruby>手<rt>て</rt></ruby>を<span\
+  \ style=\"color: blue;\">つない</span>で、<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>走<rt>はし</rt></ruby>っていました。</p>\n\
+  <p>２３<ruby>歳<rt>さい</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>は「<span style=\"color:\
+  \ blue;\"><ruby>津波<rt>つなみ</rt></ruby></span>で<ruby>亡<rt>な</rt></ruby>くなる<ruby>人<rt>ひと</rt></ruby>がいなくなってほしいと<ruby>思<rt>おも</rt></ruby>いながら<ruby>走<rt>はし</rt></ruby>りました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 津波
+  descriptions:
+  - <ruby><rb>地震</rb><rt>じしん</rt></ruby>などのために、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>におし<ruby><rb>寄</rb><rt>よ</rt></ruby>せてくること。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: つなぐ
+  descriptions:
+  - はなれないように、ほかのものに<ruby><rb>結</rb><rt>むす</rt></ruby>びつける。
+  - はなれているものを、<ruby><rb>結</rb><rt>むす</rt></ruby>び<ruby><rb>合</rb><rt>あ</rt></ruby>わせてひと<ruby><rb>続</rb><rt>つづ</rt></ruby>きのものにする。
+  - <ruby><rb>長</rb><rt>なが</rt></ruby>く<ruby><rb>続</rb><rt>つづ</rt></ruby>くようにする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011314781000/k10011314781000.html
+web_title_with_ruby: <ruby>高台<rt>たかだい</rt></ruby>まで<ruby>一気<rt>いっき</rt></ruby>に「<ruby>韋駄天<rt>いだてん</rt></ruby><ruby>競走<rt>きょうそう</rt></ruby>」
+  <ruby>津波<rt>つなみ</rt></ruby>の<ruby>教訓<rt>きょうくん</rt></ruby><ruby>次世代<rt>じせだい</rt></ruby>に
+  <ruby>岩手<rt>いわて</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/04/高台まで一気に韋駄天競走-津波の教訓次世代に-岩手
+related_news:
+- title: <ruby>山口県<rt>やまぐちけん</rt></ruby>と<ruby>島根県<rt>しまねけん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>を「デゴイチ」という<ruby>蒸気機関車<rt>じょうききかんしゃ</rt></ruby>が<ruby>走<rt>はし</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2017/11/24/山口県と島根県の間をデゴイチという蒸気機関車が走る
+...

@@ -1,0 +1,69 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011311291000
+last_modified_at: '2018-02-05T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>05<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: デジタルカメラは、スマートフォンのカメラがよくなっているため、売れなくなっていました。
+title: デジタルカメラが売れる　きれいな写真をみんなに見せたい
+title_with_ruby: デジタルカメラが<ruby>売<rt>う</rt></ruby>れる　きれいな<ruby>写真<rt>しゃしん</rt></ruby>をみんなに<ruby>見<rt>み</rt></ruby>せたい
+outline: デジタルカメラは、スマートフォンのカメラがよくなっているため、売れなくなっていました。
+outline_with_ruby: デジタルカメラは、スマートフォンのカメラがよくなっているため、<ruby>売<rt>う</rt></ruby>れなくなっていました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/01/K10011311291_1802011259_1802011315_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/05/k10011311291000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\">デジタルカメラ</span>は、スマートフォンのカメラがよくなっているため、<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れ</span>なくなっていました。</p>\n<p>カメラをつくる<ruby>会社<rt>かいしゃ</rt></ruby>などの<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>によると、<ruby>去年<rt>きょねん</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>などに<ruby>出<rt>だ</rt></ruby>した<span\
+  \ style=\"color: blue;\">デジタルカメラ</span>は３５２<ruby>万<rt>まん</rt></ruby>１４２５<ruby>台<rt>だい</rt></ruby>で、おととしより１０００<ruby>台<rt>だい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>増<rt>ふ</rt></ruby>えました。<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>とし</rt></ruby>より<ruby>増<rt>ふ</rt></ruby>えたのは、<ruby>最近<rt>さいきん</rt></ruby>の７<ruby>年<rt>ねん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めてです。<span\
+  \ style=\"color: blue;\"><ruby>金額<rt>きんがく</rt></ruby></span>は１０２３<ruby>億<rt>おく</rt></ruby>３６００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>で、おととしより８．３％<ruby>増<rt>ふ</rt></ruby>えました。</p>\n\
+  <p>スマートフォンのカメラより<ruby>細<rt>こま</rt></ruby>かい<span style=\"color: blue;\"><ruby>調節<rt>ちょうせつ</rt></ruby></span>ができたり、<span\
+  \ style=\"color: blue;\">レンズ</span>の<span style=\"color: blue;\"><ruby>交換<rt>こうかん</rt></ruby></span>ができたりする<span\
+  \ style=\"color: blue;\">デジタルカメラ</span>がよく<span style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れ</span>ました。みんなに<ruby>見<rt>み</rt></ruby>せたいと<ruby>考<rt>かんが</rt></ruby>えて、きれいな<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ってインターネットに<ruby>出<rt>だ</rt></ruby>す<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えているためです。</p>\n\
+  <p>この<span style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>は「<ruby>今<rt>いま</rt></ruby>までより<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いカメラを<ruby>買<rt>か</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。<ruby>今年<rt>ことし</rt></ruby>もよく<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れる</span>でしょう」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: デジタルカメラ
+  descriptions:
+  - フィルムを<ruby><rb>使</rb><rt>つか</rt></ruby>わないで、<ruby><rb>写</rb><rt>うつ</rt></ruby>したものを<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>に<ruby><rb>変</rb><rt>か</rt></ruby>えて、<ruby><rb>記録</rb><rt>きろく</rt></ruby>できるようにしたカメラ。デジカメ。
+- word: 売れる
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。
+- word: 売れる
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 金額
+  descriptions:
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>量</rb><rt>りょう</rt></ruby>。お<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>。
+- word: 調節
+  descriptions:
+  - ちょうどよいように、ととのえること。
+- word: レンズ
+  descriptions:
+  - ガラスのような<ruby><rb>透明</rb><rt>とうめい</rt></ruby>なものの、<ruby><rb>片面</rb><rt>かためん</rt></ruby>または<ruby><rb>両面</rb><rt>りょうめん</rt></ruby>を<ruby><rb>丸</rb><rt>まる</rt></ruby>くして<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。<ruby><rb>凸</rb><rt>とつ</rt></ruby>レンズと<ruby><rb>凹</rb><rt>おう</rt></ruby>レンズがある。<ruby><rb>凸</rb><rt>とつ</rt></ruby>レンズは、<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>厚</rb><rt>あつ</rt></ruby>くて、<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>大</rb><rt>おお</rt></ruby>きく<ruby><rb>見</rb><rt>み</rt></ruby>せ、<ruby><rb>凹</rb><rt>おう</rt></ruby>レンズは、<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>がうすくて、<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>小</rb><rt>ちい</rt></ruby>さく<ruby><rb>見</rb><rt>み</rt></ruby>せる。<ruby><rb>眼鏡</rb><rt>めがね</rt></ruby>・カメラ・<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+- word: 交換
+  descriptions:
+  - <ruby><rb>取</rb><rt>と</rt></ruby>りかえること。<ruby><rb>取</rb><rt>と</rt></ruby>りかわすこと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011311291000/k10011311291000.html
+web_title_with_ruby: <ruby>デジカメ<rt>でじかめ</rt></ruby><ruby>出荷<rt>しゅっか</rt></ruby><ruby>台数<rt>だいすう</rt></ruby>
+  ７<ruby>年<rt>ねん</rt></ruby>ぶり<ruby>増加<rt>ぞうか</rt></ruby> 「<ruby>インスタ<rt>いんすた</rt></ruby><ruby>映<rt>は</rt></ruby>え」が<ruby>要因<rt>よういん</rt></ruby>か
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/01/デジカメ出荷台数-7年ぶり増加-インスタ映えが要因か
+related_news:
+- title: <ruby>今年<rt>ことし</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>した<ruby>社員<rt>しゃいん</rt></ruby>の<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>給料<rt>きゅうりょう</rt></ruby>は<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2017/11/20/今年大学を卒業した社員の最初の給料は今までで最も高い
+- title: ドライブレコーダーが<ruby>売<rt>う</rt></ruby>れる「<ruby>車<rt>くるま</rt></ruby>のトラブルをなくしたい」
+  url: https://newswebeasy.github.io/news/easy/2017/12/26/ドライブレコーダーが売れる車のトラブルをなくしたい
+- title: <ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>使<rt>つか</rt></ruby>ったお<ruby>金<rt>かね</rt></ruby>　<ruby>初<rt>はじ</rt></ruby>めて４<ruby>兆<rt>ちょう</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/01/17/旅行に来た外国人が使ったお金-初めて4兆円以上になる
+- title: <ruby>去年<rt>きょねん</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>はいちばん<ruby>多<rt>おお</rt></ruby>い２８６９<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/16/去年日本へ旅行に来た外国人はいちばん多い2869万人
+- title: 「<ruby>中国人<rt>ちゅうごくじん</rt></ruby>が<ruby>行<rt>い</rt></ruby>きたい<ruby>国<rt>くに</rt></ruby>」で<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めて１<ruby>番<rt>ばん</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2017/12/19/中国人が行きたい国で日本が初めて1番になる
+...

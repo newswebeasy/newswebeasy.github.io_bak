@@ -1,0 +1,325 @@
+---
+layout: web_news
+categories: web
+newsid: k10011314111000
+title: 世界最小クラス ミニロケット打ち上げ成功
+title_with_ruby: <ruby>世界<rt data-ruby-level="3">せかい</rt></ruby><ruby>最小<rt data-ruby-level="4">さいしょう</rt></ruby>クラス
+  ミニロケット<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げ<ruby>成功<rt
+  data-ruby-level="4">せいこう</rt></ruby>
+last_modified_at: '2018-02-03T19:21:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>02<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>03<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 19<ruby>時<rt data-ruby-level="2">じ</rt></ruby>21<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 将来、世界的に需要が増すと予想されている超小型衛星を低コストで打ち上げようと、ＪＡＸＡ＝宇宙航空研究開発機構が実験用に開発した世界最小クラスのミニロケットが、３日午後２時３分鹿児島県の内之浦宇宙空間観測所から打ち上げられました。ミニロケットは搭載した超小型衛星を予定の軌道に投入し、打ち上げ実験は成功しました。
+summary: <ruby>将来<rt data-ruby-level="6">しょうらい</rt></ruby>、<ruby>世界的<rt data-ruby-level="4">せかいてき</rt></ruby>に<ruby>需要<rt
+  data-ruby-level="7">じゅよう</rt></ruby>が<ruby>増<rt data-ruby-level="5">ま</rt></ruby>すと<ruby>予想<rt
+  data-ruby-level="3">よそう</rt></ruby>されている<ruby>超小型<rt data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt
+  data-ruby-level="5">えいせい</rt></ruby>を<ruby>低<rt data-ruby-level="4">てい</rt></ruby><ruby>コスト<rt
+  data-ruby-level="4">こすと</rt></ruby>で<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+  data-ruby-level="3">あ</rt></ruby>げようと、ＪＡＸＡ＝<ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby><ruby>航空<rt
+  data-ruby-level="4">こうくう</rt></ruby><ruby>研究<rt data-ruby-level="3">けんきゅう</rt></ruby><ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby><ruby>機構<rt data-ruby-level="5">きこう</rt></ruby>が<ruby>実験用<rt
+  data-ruby-level="4">じっけんよう</rt></ruby>に<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>した<ruby>世界<rt
+  data-ruby-level="3">せかい</rt></ruby><ruby>最小<rt data-ruby-level="4">さいしょう</rt></ruby>クラスのミニロケットが、３<ruby>日午後<rt
+  data-ruby-level="2">にちごご</rt></ruby>２<ruby>時<rt data-ruby-level="2">じ</rt></ruby>３<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby><ruby>鹿児島県<rt data-ruby-level="8">かごしまけん</rt></ruby>の<ruby>内之浦<rt
+  data-ruby-level="8">うちのうら</rt></ruby><ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby><ruby>空間<rt
+  data-ruby-level="2">くうかん</rt></ruby><ruby>観測所<rt data-ruby-level="5">かんそくじょ</rt></ruby>から<ruby>打<rt
+  data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げられました。ミニロケットは<ruby>搭載<rt
+  data-ruby-level="7">とうさい</rt></ruby>した<ruby>超小型<rt data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt
+  data-ruby-level="5">えいせい</rt></ruby>を<ruby>予定<rt data-ruby-level="3">よてい</rt></ruby>の<ruby>軌道<rt
+  data-ruby-level="7">きどう</rt></ruby>に<ruby>投入<rt data-ruby-level="3">とうにゅう</rt></ruby>し、<ruby>打<rt
+  data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げ<ruby>実験<rt
+  data-ruby-level="4">じっけん</rt></ruby>は<ruby>成功<rt data-ruby-level="4">せいこう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/03/K10011314111_1802031707_1802031707_01_02.jpg
+more: ＪＡＸＡが<ruby>新<rt data-ruby-level="2">あら</rt></ruby>たに<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>した<ruby>全長<rt
+  data-ruby-level="3">ぜんちょう</rt></ruby>およそ１０メートルの<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby><ruby>最小<rt
+  data-ruby-level="4">さいしょう</rt></ruby>クラスのミニロケットは<ruby>東京大学<rt data-ruby-level="2">とうきょうだいがく</rt></ruby>が<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>した<ruby>超小型<rt data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt
+  data-ruby-level="5">えいせい</rt></ruby>を<ruby>載<rt data-ruby-level="7">の</rt></ruby>せて、３<ruby>日午後<rt
+  data-ruby-level="2">にちごご</rt></ruby>２<ruby>時<rt data-ruby-level="2">じ</rt></ruby>３<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>に<ruby>鹿児島県<rt data-ruby-level="8">かごしまけん</rt></ruby>の<ruby>内之浦<rt
+  data-ruby-level="8">うちのうら</rt></ruby><ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby><ruby>空間<rt
+  data-ruby-level="2">くうかん</rt></ruby><ruby>観測所<rt data-ruby-level="5">かんそくじょ</rt></ruby>から<ruby>打<rt
+  data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げられました。<br
+  /><br />ミニロケットは<ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>を<ruby>覆<rt data-ruby-level="7">おお</rt></ruby>っている<ruby>先端<rt
+  data-ruby-level="7">せんたん</rt></ruby>のカバーや１<ruby>段目<rt data-ruby-level="6">だんめ</rt></ruby>のエンジンを<ruby>切<rt
+  data-ruby-level="7">き</rt></ruby>り<ruby>離<rt data-ruby-level="7">はな</rt></ruby>しながら<ruby>上昇<rt
+  data-ruby-level="7">じょうしょう</rt></ruby>を<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>け、<ruby>超小型<rt
+  data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>を<ruby>予定<rt
+  data-ruby-level="3">よてい</rt></ruby>の<ruby>軌道<rt data-ruby-level="7">きどう</rt></ruby>に<ruby>投入<rt
+  data-ruby-level="3">とうにゅう</rt></ruby>し<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+  data-ruby-level="3">あ</rt></ruby>げ<ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>は<ruby>成功<rt
+  data-ruby-level="4">せいこう</rt></ruby>しました。<br /><br />このミニロケットは<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>１<ruby>月<rt
+  data-ruby-level="1">がつ</rt></ruby>に<ruby>最初<rt data-ruby-level="4">さいしょ</rt></ruby>の<ruby>打<rt
+  data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げが<ruby>行<rt
+  data-ruby-level="2">おこな</rt></ruby>われましたが、<ruby>飛行中<rt data-ruby-level="4">ひこうちゅう</rt></ruby>に<ruby>機体<rt
+  data-ruby-level="4">きたい</rt></ruby>の<ruby>状態<rt data-ruby-level="5">じょうたい</rt></ruby>を<ruby>示<rt
+  data-ruby-level="5">しめ</rt></ruby>すデータが<ruby>途絶<rt data-ruby-level="7">とだ</rt></ruby>えたことから<ruby>飛行<rt
+  data-ruby-level="4">ひこう</rt></ruby>が<ruby>中断<rt data-ruby-level="5">ちゅうだん</rt></ruby>されていて、２<ruby>度目<rt
+  data-ruby-level="3">どめ</rt></ruby>の<ruby>挑戦<rt data-ruby-level="7">ちょうせん</rt></ruby>での<ruby>成功<rt
+  data-ruby-level="4">せいこう</rt></ruby>となりました。<br /><br /><ruby>超小型<rt data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt
+  data-ruby-level="5">えいせい</rt></ruby>は<ruby>上空<rt data-ruby-level="1">じょうくう</rt></ruby>から<ruby>地上<rt
+  data-ruby-level="2">ちじょう</rt></ruby>を<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>することによって、<ruby>自然<rt
+  data-ruby-level="4">しぜん</rt></ruby><ruby>災害<rt data-ruby-level="5">さいがい</rt></ruby>の<ruby>発生<rt
+  data-ruby-level="3">はっせい</rt></ruby>や<ruby>農作物<rt data-ruby-level="3">のうさくもつ</rt></ruby>の<ruby>生育<rt
+  data-ruby-level="3">せいいく</rt></ruby><ruby>状況<rt data-ruby-level="7">じょうきょう</rt></ruby>の<ruby>確認<rt
+  data-ruby-level="7">かくにん</rt></ruby>など<ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby>ビジネスの<ruby>分野<rt
+  data-ruby-level="2">ぶんや</rt></ruby>でさまざまな<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>ができることから<ruby>世界的<rt
+  data-ruby-level="4">せかいてき</rt></ruby>な<ruby>需要<rt data-ruby-level="7">じゅよう</rt></ruby>の<ruby>増加<rt
+  data-ruby-level="5">ぞうか</rt></ruby>が<ruby>予想<rt data-ruby-level="3">よそう</rt></ruby>されていて、<ruby>合<rt
+  data-ruby-level="2">あ</rt></ruby>わせて、<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+  data-ruby-level="3">あ</rt></ruby>げコストを<ruby>下<rt data-ruby-level="1">さ</rt></ruby>げるための<ruby>専用<rt
+  data-ruby-level="6">せんよう</rt></ruby>のミニロケットの<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>も<ruby>盛<rt
+  data-ruby-level="6">さか</rt></ruby>んになっています。<br /><br /><ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>、<ruby>打<rt
+  data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げられたミニロケットや<ruby>衛星<rt
+  data-ruby-level="5">えいせい</rt></ruby>には、コスト<ruby>削減<rt data-ruby-level="7">さくげん</rt></ruby>のため<ruby>家電<rt
+  data-ruby-level="2">かでん</rt></ruby><ruby>製品<rt data-ruby-level="5">せいひん</rt></ruby>などに<ruby>使<rt
+  data-ruby-level="3">つか</rt></ruby>われる<ruby>民生用<rt data-ruby-level="4">みんせいよう</rt></ruby>の<ruby>部品<rt
+  data-ruby-level="3">ぶひん</rt></ruby>が<ruby>実験的<rt data-ruby-level="4">じっけんてき</rt></ruby>に<ruby>使<rt
+  data-ruby-level="3">つか</rt></ruby>われていて、ＪＡＸＡなどでは<ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>の<ruby>打<rt
+  data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げで<ruby>得<rt
+  data-ruby-level="4">え</rt></ruby>られるデータを<ruby>民間<rt data-ruby-level="4">みんかん</rt></ruby><ruby>企業<rt
+  data-ruby-level="7">きぎょう</rt></ruby>にも<ruby>積極的<rt data-ruby-level="4">せっきょくてき</rt></ruby>に<ruby>活用<rt
+  data-ruby-level="2">かつよう</rt></ruby>してもらい、<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>宇宙<rt
+  data-ruby-level="6">うちゅう</rt></ruby>ビジネスのすそ<ruby>野<rt data-ruby-level="2">の</rt></ruby>を<ruby>広<rt
+  data-ruby-level="2">ひろ</rt></ruby>げたいとしています。
+movie_url: https://newswebeasy.github.io/ja201802/news/web/movie/2018/02/03/k10011314111_201802031926_201802031933.mp4
+voice_url: https://newswebeasy.github.io/ja201802/news/web/voice/2018/02/03/k10011314111_201802031926_201802031933.mp3
+body:
+- title: <ruby>超小型<rt data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>ビジネスの<ruby>試金石<rt
+    data-ruby-level="4">しきんせき</rt></ruby>
+  text: <ruby>世界<rt data-ruby-level="3">せかい</rt></ruby><ruby>最小<rt data-ruby-level="4">さいしょう</rt></ruby>クラスとなる<ruby>今回<rt
+    data-ruby-level="2">こんかい</rt></ruby>のミニロケットは、<ruby>需要<rt data-ruby-level="7">じゅよう</rt></ruby>の<ruby>増加<rt
+    data-ruby-level="5">ぞうか</rt></ruby>が<ruby>予想<rt data-ruby-level="3">よそう</rt></ruby>される<ruby>手<rt
+    data-ruby-level="1">て</rt></ruby>で<ruby>持<rt data-ruby-level="3">も</rt></ruby>ち<ruby>運<rt
+    data-ruby-level="3">はこ</rt></ruby>べるサイズの<ruby>超小型<rt data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt
+    data-ruby-level="5">えいせい</rt></ruby>を<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+    data-ruby-level="3">あ</rt></ruby>げるために、ＪＡＸＡ＝<ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby><ruby>航空<rt
+    data-ruby-level="4">こうくう</rt></ruby><ruby>研究<rt data-ruby-level="3">けんきゅう</rt></ruby><ruby>開発<rt
+    data-ruby-level="3">かいはつ</rt></ruby><ruby>機構<rt data-ruby-level="5">きこう</rt></ruby>が、これまで<ruby>地球上<rt
+    data-ruby-level="3">ちきゅうじょう</rt></ruby><ruby>空<rt data-ruby-level="1">ぞら</rt></ruby>の<ruby>観測<rt
+    data-ruby-level="5">かんそく</rt></ruby>に<ruby>使<rt data-ruby-level="3">つか</rt></ruby>われてきた２<ruby>段<rt
+    data-ruby-level="6">だん</rt></ruby><ruby>式<rt data-ruby-level="3">しき</rt></ruby>のロケット「ＳＳ－５２０」を３<ruby>段<rt
+    data-ruby-level="6">だん</rt></ruby><ruby>式<rt data-ruby-level="3">しき</rt></ruby>にすることで、<ruby>新<rt
+    data-ruby-level="2">あら</rt></ruby>たに<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>しました。<br
+    /><br />「５２０」はロケットの<ruby>直径<rt data-ruby-level="4">ちょっけい</rt></ruby>がわずか５２０ミリしかないことからつけられています。ミニロケットの<ruby>開発<rt
+    data-ruby-level="3">かいはつ</rt></ruby>にあたっては<ruby>低価格<rt data-ruby-level="5">ていかかく</rt></ruby>での<ruby>打<rt
+    data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げを<ruby>目指<rt
+    data-ruby-level="3">めざ</rt></ruby>す<ruby>狙<rt data-ruby-level="7">ねら</rt></ruby>いから、これまでの<ruby>技術<rt
+    data-ruby-level="5">ぎじゅつ</rt></ruby>を<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>するだけでなく、ロケットの<ruby>電子<rt
+    data-ruby-level="2">でんし</rt></ruby><ruby>部品<rt data-ruby-level="3">ぶひん</rt></ruby>に<ruby>家電<rt
+    data-ruby-level="2">かでん</rt></ruby><ruby>製品<rt data-ruby-level="5">せいひん</rt></ruby>や<ruby>携帯<rt
+    data-ruby-level="7">けいたい</rt></ruby><ruby>電話<rt data-ruby-level="2">でんわ</rt></ruby>など<ruby>私<rt
+    data-ruby-level="8">わたし</rt></ruby>たちの<ruby>生活<rt data-ruby-level="2">せいかつ</rt></ruby>に<ruby>身近<rt
+    data-ruby-level="3">みぢか</rt></ruby>な<ruby>製品<rt data-ruby-level="5">せいひん</rt></ruby>に<ruby>使<rt
+    data-ruby-level="3">つか</rt></ruby>われているものと<ruby>同<rt data-ruby-level="2">おな</rt></ruby>じ<ruby>民生用<rt
+    data-ruby-level="4">みんせいよう</rt></ruby>の<ruby>部品<rt data-ruby-level="3">ぶひん</rt></ruby>がいくつも<ruby>採用<rt
+    data-ruby-level="5">さいよう</rt></ruby>されました。<br /><br />また、<ruby>大型<rt data-ruby-level="4">おおがた</rt></ruby>ロケットに<ruby>搭載<rt
+    data-ruby-level="7">とうさい</rt></ruby>されているような、<ruby>飛行中<rt data-ruby-level="4">ひこうちゅう</rt></ruby>の<ruby>機体<rt
+    data-ruby-level="4">きたい</rt></ruby>のバランスを<ruby>調整<rt data-ruby-level="3">ちょうせい</rt></ruby>する<ruby>高価<rt
+    data-ruby-level="5">こうか</rt></ruby>な<ruby>機能<rt data-ruby-level="5">きのう</rt></ruby>が<ruby>省略<rt
+    data-ruby-level="5">しょうりゃく</rt></ruby>されるなど、システムや<ruby>設備<rt data-ruby-level="5">せつび</rt></ruby>の<ruby>簡素化<rt
+    data-ruby-level="6">かんそか</rt></ruby>も<ruby>進<rt data-ruby-level="3">すす</rt></ruby>められました。<br
+    /><br />この<ruby>結果<rt data-ruby-level="4">けっか</rt></ruby>、<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+    data-ruby-level="3">あ</rt></ruby>げにかかる<ruby>費用<rt data-ruby-level="4">ひよう</rt></ruby>はロケットと<ruby>衛星<rt
+    data-ruby-level="5">えいせい</rt></ruby>を<ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせておよそ５<ruby>億円<rt
+    data-ruby-level="4">おくえん</rt></ruby>と、ＪＡＸＡのほかの<ruby>人<rt data-ruby-level="1">ひと</rt></ruby><ruby>工<rt
+    data-ruby-level="2">こう</rt></ruby><ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>の<ruby>打<rt
+    data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げに<ruby>比<rt
+    data-ruby-level="5">くら</rt></ruby>べて<ruby>数十分<rt data-ruby-level="2">すうじゅっぷん</rt></ruby>の１に<ruby>抑<rt
+    data-ruby-level="7">おさ</rt></ruby>えられています。<ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>の<ruby>打<rt
+    data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げ<ruby>実験<rt
+    data-ruby-level="4">じっけん</rt></ruby>は、ロケットの<ruby>低<rt data-ruby-level="4">てい</rt></ruby><ruby>コスト<rt
+    data-ruby-level="4">こすと</rt></ruby><ruby>化<rt data-ruby-level="3">か</rt></ruby>と<ruby>信頼性<rt
+    data-ruby-level="7">しんらいせい</rt></ruby>を<ruby>両立<rt data-ruby-level="3">りょうりつ</rt></ruby>させ、<ruby>世界的<rt
+    data-ruby-level="4">せかいてき</rt></ruby>に<ruby>競争<rt data-ruby-level="4">きょうそう</rt></ruby>が<ruby>激<rt
+    data-ruby-level="6">はげ</rt></ruby>しくなる<ruby>超小型<rt data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt
+    data-ruby-level="5">えいせい</rt></ruby>の<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+    data-ruby-level="3">あ</rt></ruby>げビジネスに<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>が<ruby>参入<rt
+    data-ruby-level="4">さんにゅう</rt></ruby>していけるのか、その<ruby>試金石<rt data-ruby-level="4">しきんせき</rt></ruby>となるものでした。
+- title: <ruby>競争<rt data-ruby-level="4">きょうそう</rt></ruby><ruby>激化<rt data-ruby-level="6">げきか</rt></ruby>のミニロケット<ruby>開発<rt
+    data-ruby-level="3">かいはつ</rt></ruby>
+  text: <ruby>超小型<rt data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>の<ruby>需要<rt
+    data-ruby-level="7">じゅよう</rt></ruby><ruby>増大<rt data-ruby-level="5">ぞうだい</rt></ruby>にともない、<ruby>打<rt
+    data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げを<ruby>低<rt
+    data-ruby-level="4">てい</rt></ruby><ruby>コスト<rt data-ruby-level="4">こすと</rt></ruby>で<ruby>行<rt
+    data-ruby-level="2">おこな</rt></ruby>えるようにしようとミニロケットの<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>も<ruby>盛<rt
+    data-ruby-level="6">さか</rt></ruby>んになっています。<br /><br />これまで<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+    data-ruby-level="3">あ</rt></ruby>げられてきた<ruby>人工<rt data-ruby-level="2">じんこう</rt></ruby><ruby>衛星<rt
+    data-ruby-level="5">えいせい</rt></ruby>は、<ruby>重<rt data-ruby-level="3">おも</rt></ruby>さが２トンを<ruby>超<rt
+    data-ruby-level="7">こ</rt></ruby>えるような<ruby>大型<rt data-ruby-level="4">おおがた</rt></ruby>のものが<ruby>多<rt
+    data-ruby-level="2">おお</rt></ruby>く、<ruby>気象<rt data-ruby-level="4">きしょう</rt></ruby><ruby>観測<rt
+    data-ruby-level="5">かんそく</rt></ruby>や<ruby>通信<rt data-ruby-level="4">つうしん</rt></ruby>などのために<ruby>政府<rt
+    data-ruby-level="5">せいふ</rt></ruby><ruby>機関<rt data-ruby-level="4">きかん</rt></ruby>が<ruby>打<rt
+    data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げるものが<ruby>主流<rt
+    data-ruby-level="3">しゅりゅう</rt></ruby>で、ロケットも<ruby>大型化<rt data-ruby-level="4">おおがたか</rt></ruby>が<ruby>進<rt
+    data-ruby-level="3">すす</rt></ruby>みました。<br /><br /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>で、ここ<ruby>数<rt
+    data-ruby-level="2">すう</rt></ruby><ruby>年<rt data-ruby-level="1">ねん</rt></ruby>は、<ruby>電子<rt
+    data-ruby-level="2">でんし</rt></ruby><ruby>部品<rt data-ruby-level="3">ぶひん</rt></ruby>の<ruby>高性能<rt
+    data-ruby-level="5">こうせいのう</rt></ruby><ruby>化<rt data-ruby-level="3">か</rt></ruby>によって、<ruby>持<rt
+    data-ruby-level="3">も</rt></ruby>ち<ruby>運<rt data-ruby-level="3">はこ</rt></ruby>びが<ruby>可能<rt
+    data-ruby-level="5">かのう</rt></ruby>なサイズの<ruby>超小型<rt data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt
+    data-ruby-level="5">えいせい</rt></ruby>が<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>され、<ruby>宇宙<rt
+    data-ruby-level="6">うちゅう</rt></ruby><ruby>空間<rt data-ruby-level="2">くうかん</rt></ruby>を<ruby>利用<rt
+    data-ruby-level="4">りよう</rt></ruby>したさまざまなビジネスに<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>する<ruby>動<rt
+    data-ruby-level="3">うご</rt></ruby>きが<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>まりました。<br
+    /><br />これに<ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせて、<ruby>超小型<rt data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt
+    data-ruby-level="5">えいせい</rt></ruby>を<ruby>低<rt data-ruby-level="4">てい</rt></ruby><ruby>コスト<rt
+    data-ruby-level="4">こすと</rt></ruby>で<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+    data-ruby-level="3">あ</rt></ruby>げられるようにしようとミニロケットの<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>も<ruby>盛<rt
+    data-ruby-level="6">さか</rt></ruby>んになっています。<ruby>先月<rt data-ruby-level="1">せんげつ</rt></ruby>２１<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>には、アメリカのベンチャー<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>「ロケットラボ」が<ruby>開発<rt
+    data-ruby-level="3">かいはつ</rt></ruby>した<ruby>全長<rt data-ruby-level="3">ぜんちょう</rt></ruby>１７メートルの<ruby>超小型<rt
+    data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>を<ruby>載<rt
+    data-ruby-level="7">の</rt></ruby>せたミニロケットが<ruby>新<rt data-ruby-level="2">あら</rt></ruby>たにニュージーランドに<ruby>整備<rt
+    data-ruby-level="5">せいび</rt></ruby>した<ruby>発射<rt data-ruby-level="6">はっしゃ</rt></ruby><ruby>場<rt
+    data-ruby-level="2">じょう</rt></ruby>から<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+    data-ruby-level="3">あ</rt></ruby>げられ、<ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>を<ruby>予定<rt
+    data-ruby-level="3">よてい</rt></ruby>の<ruby>高度<rt data-ruby-level="3">こうど</rt></ruby>で<ruby>切<rt
+    data-ruby-level="7">き</rt></ruby>り<ruby>離<rt data-ruby-level="7">はな</rt></ruby>して<ruby>超小型<rt
+    data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>のためのミニロケットとして<ruby>初<rt
+    data-ruby-level="4">はつ</rt></ruby>の<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+    data-ruby-level="3">あ</rt></ruby>げ<ruby>成功<rt data-ruby-level="4">せいこう</rt></ruby>となりました。この<ruby>会社<rt
+    data-ruby-level="2">かいしゃ</rt></ruby>では、<ruby>需要<rt data-ruby-level="7">じゅよう</rt></ruby>の<ruby>高<rt
+    data-ruby-level="2">たか</rt></ruby>まりに<ruby>応<rt data-ruby-level="8">こた</rt></ruby>えるために、<ruby>将来<rt
+    data-ruby-level="6">しょうらい</rt></ruby>は<ruby>週<rt data-ruby-level="2">しゅう</rt></ruby>に１<ruby>回以上<rt
+    data-ruby-level="4">かいいじょう</rt></ruby>の<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+    data-ruby-level="3">あ</rt></ruby>げを<ruby>目指<rt data-ruby-level="3">めざ</rt></ruby>すことにしています。<br
+    /><br /><ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>でも<ruby>北海道<rt data-ruby-level="2">ほっかいどう</rt></ruby>のベンチャー<ruby>企業<rt
+    data-ruby-level="7">きぎょう</rt></ruby>「インターステラテクノロジズ」が<ruby>超小型<rt data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt
+    data-ruby-level="5">えいせい</rt></ruby>を<ruby>専門<rt data-ruby-level="6">せんもん</rt></ruby>に<ruby>搭載<rt
+    data-ruby-level="7">とうさい</rt></ruby>する<ruby>格安<rt data-ruby-level="5">かくやす</rt></ruby>のミニロケットの<ruby>開発<rt
+    data-ruby-level="3">かいはつ</rt></ruby>を<ruby>進<rt data-ruby-level="3">すす</rt></ruby>め、<ruby>打<rt
+    data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げビジネスへの<ruby>参入<rt
+    data-ruby-level="4">さんにゅう</rt></ruby>を<ruby>目指<rt data-ruby-level="3">めざ</rt></ruby>していて、２０２０<ruby>年<rt
+    data-ruby-level="1">ねん</rt></ruby>に<ruby>北海道<rt data-ruby-level="2">ほっかいどう</rt></ruby><ruby>大樹町<rt
+    data-ruby-level="8">たいきちょう</rt></ruby>から<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+    data-ruby-level="3">あ</rt></ruby>げたいとしています。<br /><br />また、<ruby>キヤノン<rt data-ruby-level="2">きやのん</rt></ruby><ruby>電子<rt
+    data-ruby-level="2">でんし</rt></ruby>など４<ruby>社<rt data-ruby-level="2">しゃ</rt></ruby>が<ruby>共同<rt
+    data-ruby-level="4">きょうどう</rt></ruby>で<ruby>設立<rt data-ruby-level="5">せつりつ</rt></ruby>した<ruby>会社<rt
+    data-ruby-level="2">かいしゃ</rt></ruby>は、２０２１<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>までに<ruby>超小型<rt
+    data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>を<ruby>打<rt
+    data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げるロケットの<ruby>開発<rt
+    data-ruby-level="3">かいはつ</rt></ruby>を<ruby>検討<rt data-ruby-level="6">けんとう</rt></ruby>していて、<ruby>現在<rt
+    data-ruby-level="5">げんざい</rt></ruby>、<ruby>発射<rt data-ruby-level="6">はっしゃ</rt></ruby><ruby>場<rt
+    data-ruby-level="2">じょう</rt></ruby>の<ruby>建設<rt data-ruby-level="5">けんせつ</rt></ruby><ruby>場所<rt
+    data-ruby-level="3">ばしょ</rt></ruby>について<ruby>国内外<rt data-ruby-level="2">こくないがい</rt></ruby>の<ruby>複数<rt
+    data-ruby-level="5">ふくすう</rt></ruby>の<ruby>候補地<rt data-ruby-level="6">こうほち</rt></ruby>から<ruby>選定<rt
+    data-ruby-level="4">せんてい</rt></ruby>を<ruby>進<rt data-ruby-level="3">すす</rt></ruby>めています。これについては、<ruby>和歌山県<rt
+    data-ruby-level="3">わかやまけん</rt></ruby>と<ruby>串本町<rt data-ruby-level="7">くしもとちょう</rt></ruby>が<ruby>町内<rt
+    data-ruby-level="2">ちょうない</rt></ruby>にある<ruby>荒船<rt data-ruby-level="7">あらふね</rt></ruby><ruby>海岸<rt
+    data-ruby-level="3">かいがん</rt></ruby><ruby>周辺<rt data-ruby-level="4">しゅうへん</rt></ruby>への<ruby>誘致<rt
+    data-ruby-level="7">ゆうち</rt></ruby>を<ruby>目指<rt data-ruby-level="3">めざ</rt></ruby>しています。
+- title: <ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby>ビジネス<ruby>目指<rt data-ruby-level="3">めざ</rt></ruby>す<ruby>企業<rt
+    data-ruby-level="7">きぎょう</rt></ruby>も<ruby>期待<rt data-ruby-level="3">きたい</rt></ruby>
+  text: <ruby>超小型<rt data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>を<ruby>低<rt
+    data-ruby-level="4">てい</rt></ruby><ruby>コスト<rt data-ruby-level="4">こすと</rt></ruby>で<ruby>打<rt
+    data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げられるミニロケットの<ruby>誕生<rt
+    data-ruby-level="6">たんじょう</rt></ruby>に、<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>のベンチャー<ruby>企業<rt
+    data-ruby-level="7">きぎょう</rt></ruby>も<ruby>期待<rt data-ruby-level="3">きたい</rt></ruby>を<ruby>寄<rt
+    data-ruby-level="5">よ</rt></ruby>せています。<br /><br /><ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby>ビジネスへの<ruby>参入<rt
+    data-ruby-level="4">さんにゅう</rt></ruby>を<ruby>目指<rt data-ruby-level="3">めざ</rt></ruby>すベンチャー<ruby>企業<rt
+    data-ruby-level="7">きぎょう</rt></ruby>「アクセルスペース」です。<ruby>重<rt data-ruby-level="3">おも</rt></ruby>さ１００キロほどの<ruby>超小型<rt
+    data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>５０<ruby>機<rt
+    data-ruby-level="4">き</rt></ruby>をことしから<ruby>順次<rt data-ruby-level="4">じゅんじ</rt></ruby><ruby>打<rt
+    data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げる<ruby>計画<rt
+    data-ruby-level="2">けいかく</rt></ruby>で、２０２２<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>までに<ruby>地球上<rt
+    data-ruby-level="3">ちきゅうじょう</rt></ruby>を２４<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby><ruby>体制<rt
+    data-ruby-level="5">たいせい</rt></ruby>で<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>できるサービスを<ruby>始<rt
+    data-ruby-level="3">はじ</rt></ruby>めたいとしています。<br /><br /><ruby>石油<rt data-ruby-level="3">せきゆ</rt></ruby>パイプラインの<ruby>保守<rt
+    data-ruby-level="5">ほしゅ</rt></ruby><ruby>点検<rt data-ruby-level="5">てんけん</rt></ruby>や<ruby>船舶<rt
+    data-ruby-level="7">せんぱく</rt></ruby>の<ruby>航路<rt data-ruby-level="4">こうろ</rt></ruby>の<ruby>把握<rt
+    data-ruby-level="7">はあく</rt></ruby>、リゾート<ruby>施設<rt data-ruby-level="7">しせつ</rt></ruby>の<ruby>防犯<rt
+    data-ruby-level="5">ぼうはん</rt></ruby>のための<ruby>監視<rt data-ruby-level="7">かんし</rt></ruby><ruby>業務<rt
+    data-ruby-level="5">ぎょうむ</rt></ruby>などを<ruby>上空<rt data-ruby-level="1">じょうくう</rt></ruby>から<ruby>衛星<rt
+    data-ruby-level="5">えいせい</rt></ruby>を<ruby>使<rt data-ruby-level="3">つか</rt></ruby>って<ruby>行<rt
+    data-ruby-level="2">おこな</rt></ruby>うことで<ruby>新<rt data-ruby-level="2">あら</rt></ruby>たなビジネスを<ruby>展開<rt
+    data-ruby-level="6">てんかい</rt></ruby>したいと<ruby>考<rt data-ruby-level="2">かんが</rt></ruby>えています。<br
+    /><br /><ruby>人工<rt data-ruby-level="2">じんこう</rt></ruby><ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>を<ruby>使<rt
+    data-ruby-level="3">つか</rt></ruby>えば、<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>や<ruby>車<rt
+    data-ruby-level="1">くるま</rt></ruby>、それにものの<ruby>動<rt data-ruby-level="3">うご</rt></ruby>きを<ruby>分析<rt
+    data-ruby-level="7">ぶんせき</rt></ruby>する<ruby>経済<rt data-ruby-level="6">けいざい</rt></ruby><ruby>予測<rt
+    data-ruby-level="5">よそく</rt></ruby>や<ruby>農場<rt data-ruby-level="3">のうじょう</rt></ruby>や<ruby>森林<rt
+    data-ruby-level="1">しんりん</rt></ruby>などの<ruby>資源<rt data-ruby-level="6">しげん</rt></ruby>の<ruby>管理<rt
+    data-ruby-level="4">かんり</rt></ruby>、<ruby>自然<rt data-ruby-level="4">しぜん</rt></ruby><ruby>災害<rt
+    data-ruby-level="5">さいがい</rt></ruby>の<ruby>被害<rt data-ruby-level="7">ひがい</rt></ruby>の<ruby>把握<rt
+    data-ruby-level="7">はあく</rt></ruby>などが<ruby>簡単<rt data-ruby-level="6">かんたん</rt></ruby>にできるようになることから、<ruby>海外<rt
+    data-ruby-level="2">かいがい</rt></ruby>でも<ruby>多<rt data-ruby-level="2">おお</rt></ruby>くのベンチャー<ruby>企業<rt
+    data-ruby-level="7">きぎょう</rt></ruby>がビジネス<ruby>展開<rt data-ruby-level="6">てんかい</rt></ruby>を<ruby>目指<rt
+    data-ruby-level="3">めざ</rt></ruby>しています。<br /><br />こうしたビジネスを<ruby>展開<rt data-ruby-level="6">てんかい</rt></ruby>する<ruby>上<rt
+    data-ruby-level="1">うえ</rt></ruby>で<ruby>課題<rt data-ruby-level="4">かだい</rt></ruby>となっているのが<ruby>衛星<rt
+    data-ruby-level="5">えいせい</rt></ruby>を<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+    data-ruby-level="3">あ</rt></ruby>げるためのロケットです。これまでは<ruby>超小型<rt data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt
+    data-ruby-level="5">えいせい</rt></ruby>を<ruby>専用<rt data-ruby-level="6">せんよう</rt></ruby>に<ruby>打<rt
+    data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げるロケットがなく、<ruby>大型<rt
+    data-ruby-level="4">おおがた</rt></ruby>のロケットにほかの<ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>と<ruby>相乗<rt
+    data-ruby-level="3">あいの</rt></ruby>りする<ruby>形<rt data-ruby-level="2">かたち</rt></ruby>で<ruby>打<rt
+    data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げるしかありませんでした。<br
+    /><br />この<ruby>場合<rt data-ruby-level="2">ばあい</rt></ruby>、<ruby>超小型<rt data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt
+    data-ruby-level="5">えいせい</rt></ruby>をビジネス<ruby>上<rt data-ruby-level="1">じょう</rt></ruby><ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>となる<ruby>軌道<rt data-ruby-level="7">きどう</rt></ruby>に<ruby>投入<rt
+    data-ruby-level="3">とうにゅう</rt></ruby>しようとしてもさまざまな<ruby>制約<rt data-ruby-level="5">せいやく</rt></ruby>が<ruby>出<rt
+    data-ruby-level="1">で</rt></ruby>てくるため、<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+    data-ruby-level="3">あ</rt></ruby>げ<ruby>費用<rt data-ruby-level="4">ひよう</rt></ruby>が<ruby>安<rt
+    data-ruby-level="3">やす</rt></ruby>い<ruby>専用<rt data-ruby-level="6">せんよう</rt></ruby>のロケットの<ruby>誕生<rt
+    data-ruby-level="6">たんじょう</rt></ruby>が<ruby>待<rt data-ruby-level="4">ま</rt></ruby>ち<ruby>望<rt
+    data-ruby-level="4">のぞ</rt></ruby>まれているのです。<br /><br />アクセルスペースの<ruby>中村<rt data-ruby-level="1">なかむら</rt></ruby><ruby>友哉<rt
+    data-ruby-level="8">ゆうや</rt></ruby><ruby>代表<rt data-ruby-level="3">だいひょう</rt></ruby>は「<ruby>超小型<rt
+    data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>で<ruby>事業<rt
+    data-ruby-level="3">じぎょう</rt></ruby>を<ruby>継続的<rt data-ruby-level="7">けいぞくてき</rt></ruby>に<ruby>拡大<rt
+    data-ruby-level="6">かくだい</rt></ruby>していくためには<ruby>専用<rt data-ruby-level="6">せんよう</rt></ruby>のロケットが<ruby>不可欠<rt
+    data-ruby-level="5">ふかけつ</rt></ruby>だ。<ruby>特<rt data-ruby-level="4">とく</rt></ruby>に<ruby>海外<rt
+    data-ruby-level="2">かいがい</rt></ruby>の<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+    data-ruby-level="3">あ</rt></ruby>げの<ruby>場合<rt data-ruby-level="2">ばあい</rt></ruby>、<ruby>衛星<rt
+    data-ruby-level="5">えいせい</rt></ruby>の<ruby>輸出<rt data-ruby-level="5">ゆしゅつ</rt></ruby>の<ruby>手続<rt
+    data-ruby-level="4">てつづ</rt></ruby>きが<ruby>煩雑<rt data-ruby-level="7">はんざつ</rt></ruby>になる<ruby>場合<rt
+    data-ruby-level="2">ばあい</rt></ruby>が<ruby>多<rt data-ruby-level="2">おお</rt></ruby>く、<ruby>日本<rt
+    data-ruby-level="1">にっぽん</rt></ruby>での<ruby>誕生<rt data-ruby-level="6">たんじょう</rt></ruby>を<ruby>期待<rt
+    data-ruby-level="3">きたい</rt></ruby>している」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。
+- title: <ruby>芸能<rt data-ruby-level="5">げいのう</rt></ruby>プロも<ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby>ビジネス<ruby>参入<rt
+    data-ruby-level="4">さんにゅう</rt></ruby>
+  text: <ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby>ビジネスは、<ruby>私<rt data-ruby-level="8">わたし</rt></ruby>たちの<ruby>身近<rt
+    data-ruby-level="3">みぢか</rt></ruby>なエンターテインメントの<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>にもすそ<ruby>野<rt
+    data-ruby-level="2">の</rt></ruby>を<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>げようとしています。<br
+    /><br /><ruby>大手<rt data-ruby-level="1">おおて</rt></ruby><ruby>芸能<rt data-ruby-level="5">げいのう</rt></ruby>プロダクションは、３６０<ruby>度<rt
+    data-ruby-level="3">ど</rt></ruby>カメラを<ruby>搭載<rt data-ruby-level="7">とうさい</rt></ruby>した<ruby>超小型<rt
+    data-ruby-level="7">ちょうこがた</rt></ruby><ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>を<ruby>打<rt
+    data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げ、<ruby>宇宙<rt
+    data-ruby-level="6">うちゅう</rt></ruby><ruby>空間<rt data-ruby-level="2">くうかん</rt></ruby>の<ruby>映像<rt
+    data-ruby-level="6">えいぞう</rt></ruby>を<ruby>地上<rt data-ruby-level="2">ちじょう</rt></ruby>にリアルタイムに<ruby>送<rt
+    data-ruby-level="3">おく</rt></ruby>ることで、ＶＲ＝バーチャルリアリティーで<ruby>宇宙旅行<rt data-ruby-level="6">うちゅうりょこう</rt></ruby>を<ruby>楽<rt
+    data-ruby-level="2">たの</rt></ruby>しめるサービスを<ruby>展開<rt data-ruby-level="6">てんかい</rt></ruby>する<ruby>計画<rt
+    data-ruby-level="2">けいかく</rt></ruby>を<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>しました。<br
+    /><br />このプロダクションでは、<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>、<ruby>宇宙<rt
+    data-ruby-level="6">うちゅう</rt></ruby><ruby>時代<rt data-ruby-level="3">じだい</rt></ruby>の<ruby>到来<rt
+    data-ruby-level="7">とうらい</rt></ruby>に<ruby>向<rt data-ruby-level="3">む</rt></ruby>けて<ruby>宇宙<rt
+    data-ruby-level="6">うちゅう</rt></ruby>とエンターテインメントを<ruby>融合<rt data-ruby-level="7">ゆうごう</rt></ruby>しようと<ruby>新<rt
+    data-ruby-level="2">あら</rt></ruby>たな<ruby>部署<rt data-ruby-level="6">ぶしょ</rt></ruby>を<ruby>発足<rt
+    data-ruby-level="7">ほっそく</rt></ruby>させました。<br /><br /><ruby>会見<rt data-ruby-level="2">かいけん</rt></ruby>したオスカープロモーションの<ruby>鈴木<rt
+    data-ruby-level="7">すずき</rt></ruby><ruby>誠司<rt data-ruby-level="6">せいじ</rt></ruby><ruby>副社長<rt
+    data-ruby-level="4">ふくしゃちょう</rt></ruby>は「バーチャルリアリティーで<ruby>宇宙旅行<rt data-ruby-level="6">うちゅうりょこう</rt></ruby>を<ruby>楽<rt
+    data-ruby-level="2">たの</rt></ruby>しめるようにしたい。２０２０<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>の<ruby>東京<rt
+    data-ruby-level="2">とうきょう</rt></ruby>オリンピック・パラリンピックでは、ＶＲ<ruby>体験<rt data-ruby-level="4">たいけん</rt></ruby>イベントの<ruby>開催<rt
+    data-ruby-level="7">かいさい</rt></ruby>を<ruby>目指<rt data-ruby-level="3">めざ</rt></ruby>します」と<ruby>話<rt
+    data-ruby-level="2">はな</rt></ruby>していました。
+source_url: https://www3.nhk.or.jp/news/html/20180203/k10011314111000.html
+easy_title_with_ruby: とても<ruby>小<rt data-ruby-level="1">ちい</rt></ruby>さいロケットを<ruby>打<rt
+  data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げることに<ruby>成功<rt
+  data-ruby-level="4">せいこう</rt></ruby>した
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/02/05/とても小さいロケットを打ち上げることに成功した
+related_news:
+- title: イプシロン３<ruby>号機<rt data-ruby-level="4">ごうき</rt></ruby> <ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+    data-ruby-level="3">あ</rt></ruby>げ<ruby>成功<rt data-ruby-level="4">せいこう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/18/イプシロン3号機-打ち上げ成功
+- title: <ruby>金井<rt data-ruby-level="7">かない</rt></ruby><ruby>宣茂<rt data-ruby-level="8">のりしげ</rt></ruby>さん<ruby>搭乗<rt
+    data-ruby-level="7">とうじょう</rt></ruby>の「ソユーズ」<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+    data-ruby-level="3">あ</rt></ruby>げ<ruby>成功<rt data-ruby-level="4">せいこう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/17/金井宣茂さん搭乗のソユーズ打ち上げ成功
+- title: <ruby>銀色<rt data-ruby-level="3">ぎんいろ</rt></ruby>や<ruby>赤色<rt data-ruby-level="2">あかいろ</rt></ruby>に<ruby>輝<rt
+    data-ruby-level="7">かがや</rt></ruby>く「<ruby>夜光雲<rt data-ruby-level="2">やこううん</rt></ruby>」ロケット<ruby>打<rt
+    data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げ<ruby>後<rt
+    data-ruby-level="2">ご</rt></ruby>に<ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>で<ruby>観測<rt
+    data-ruby-level="5">かんそく</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/18/銀色や赤色に輝く夜光雲ロケット打ち上げ後に各地で観測
+...

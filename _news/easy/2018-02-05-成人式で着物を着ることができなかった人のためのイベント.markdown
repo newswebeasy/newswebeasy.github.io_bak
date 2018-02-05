@@ -1,0 +1,53 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011315071000
+last_modified_at: '2018-02-05T17:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>05<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 「はれのひ」という会社は、新しく成人になる人たちに着物を貸したり売ったりしていましたが、会社を続けることができなくなりました。
+title: 成人式で着物を着ることができなかった人のためのイベント
+title_with_ruby: <ruby>成人式<rt>せいじんしき</rt></ruby>で<ruby>着物<rt>きもの</rt></ruby>を<ruby>着<rt>き</rt></ruby>ることができなかった<ruby>人<rt>ひと</rt></ruby>のためのイベント
+outline: 「はれのひ」という会社は、新しく成人になる人たちに着物を貸したり売ったりしていましたが、会社を続けることができなくなりました。
+outline_with_ruby: 「はれのひ」という<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>新<rt>あたら</rt></ruby>しく<ruby>成人<rt>せいじん</rt></ruby>になる<ruby>人<rt>ひと</rt></ruby>たちに<ruby>着物<rt>きもの</rt></ruby>を<ruby>貸<rt>か</rt></ruby>したり<ruby>売<rt>う</rt></ruby>ったりしていましたが、<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けることができなくなりました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/05/K10011315071_1802042127_1802050730_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/05/k10011315071000.mp3
+content_with_ruby: "<p>「はれのひ」という<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>新<rt>あたら</rt></ruby>しく<span\
+  \ style=\"color: blue;\"><ruby>成人<rt>せいじん</rt></ruby></span>になる<ruby>人<rt>ひと</rt></ruby>たちに<ruby>着物<rt>きもの</rt></ruby>を<ruby>貸<rt>か</rt></ruby>したり<ruby>売<rt>う</rt></ruby>ったりしていましたが、<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けることができなくなりました。１<ruby>月<rt>がつ</rt></ruby><ruby>８日<rt>ようか</rt></ruby>にあった<ruby>成人式<rt>せいじんしき</rt></ruby>では、「はれのひ」に<ruby>着物<rt>きもの</rt></ruby>を<ruby>頼<rt>たの</rt></ruby>んだのに、<ruby>着<rt>き</rt></ruby>ることができない<ruby>人<rt>ひと</rt></ruby>がたくさんいて<ruby>問題<rt>もんだい</rt></ruby>になりました。</p>\n\
+  <p><span style=\"color: blue;\">タレント</span>の<ruby>西野亮廣<rt>にしのあきひろ</rt></ruby>さんは、この<ruby>人<rt>ひと</rt></ruby>たちが<ruby>着物<rt>きもの</rt></ruby>を<ruby>着<rt>き</rt></ruby>てお<ruby>祝<rt>いわ</rt></ruby>いができるようにしたいと<ruby>考<rt>かんが</rt></ruby>えて、２<ruby>月<rt>がつ</rt></ruby><ruby>４日<rt>よっか</rt></ruby>、<ruby>横浜市<rt>よこはまし</rt></ruby>で<span\
+  \ style=\"color: blue;\">イベント</span>を<ruby>開<rt>ひら</rt></ruby>きました。<ruby>会場<rt>かいじょう</rt></ruby>には１００<ruby>人<rt>にん</rt></ruby>ぐらい<ruby>集<rt>あつ</rt></ruby>まりました。</p>\n\
+  <p><ruby>着物<rt>きもの</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>が<span style=\"color:\
+  \ blue;\"><ruby>無料<rt>むりょう</rt></ruby></span>で<ruby>着物<rt>きもの</rt></ruby>を<ruby>貸<rt>か</rt></ruby>して、<span\
+  \ style=\"color: blue;\">ボランティア</span>の<ruby>人<rt>ひと</rt></ruby>たちが、<ruby>着物<rt>きもの</rt></ruby>を<ruby>着<rt>き</rt></ruby>たり<ruby>髪<rt>かみ</rt></ruby>をきれいに<ruby>飾<rt>かざ</rt></ruby>ったりするのを<ruby>手伝<rt>てつだ</rt></ruby>いました。<ruby>集<rt>あつ</rt></ruby>まった<ruby>人<rt>ひと</rt></ruby>たちは、<ruby>好<rt>す</rt></ruby>きな<ruby>着物<rt>きもの</rt></ruby>を<ruby>着<rt>き</rt></ruby>て<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ってもらって、<ruby>家族<rt>かぞく</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>とお<ruby>祝<rt>いわ</rt></ruby>いをしていました。</p>\n\
+  <p><ruby>西野<rt>にしの</rt></ruby>さんは「<ruby>私<rt>わたし</rt></ruby>はこのような<ruby>機会<rt>きかい</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っただけです。おばあさんが<ruby>泣<rt>な</rt></ruby>いて<ruby>喜<rt>よろこ</rt></ruby>んでいるのを<ruby>見<rt>み</rt></ruby>て、やってよかったと<ruby>思<rt>おも</rt></ruby>いました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 成人
+  descriptions:
+  - <ruby><rb>成長</rb><rt>せいちょう</rt></ruby>して、<ruby><rb>社会的</rb><rt>しゃかいてき</rt></ruby>に<ruby><rb>一人前</rb><rt>いちにんまえ</rt></ruby>になること。ふつう<ruby><rb>満</rb><rt>まん</rt></ruby><ruby><rb>二十歳</rb><rt>にじっさい</rt></ruby><ruby><rb>以上</rb><rt>いじょう</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>大人</rb><rt>おとな</rt></ruby>。
+- word: タレント
+  descriptions:
+  - ラジオ・テレビなどで<ruby><rb>活躍</rb><rt>かつやく</rt></ruby>する<ruby><rb>芸能人</rb><rt>げいのうじん</rt></ruby>。
+- word: 無料
+  descriptions:
+  - <ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。
+- word: ボランティア
+  descriptions:
+  - <ruby><rb>社会</rb><rt>しゃかい</rt></ruby>のために、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>から<ruby><rb>進</rb><rt>すす</rt></ruby>んで、<ruby><rb>無料</rb><rt>むりょう</rt></ruby>で<ruby><rb>奉仕活動</rb><rt>ほうしかつどう</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011315071000/k10011315071000.html
+web_title_with_ruby: 「はれのひ」<ruby>経営<rt>けいえい</rt></ruby><ruby>破綻<rt>はたん</rt></ruby>
+  <ruby>新成人<rt>しんせいじん</rt></ruby>が<ruby>振<rt>ふ</rt></ruby>り<ruby>袖<rt>そで</rt></ruby><ruby>着<rt>き</rt></ruby>て<ruby>記念<rt>きねん</rt></ruby><ruby>撮影<rt>さつえい</rt></ruby>
+  <ruby>横浜<rt>よこはま</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/05/はれのひ経営破綻-新成人が振り袖着て記念撮影-横浜
+related_news:
+- title: <ruby>成人式<rt>せいじんしき</rt></ruby>に<ruby>着物<rt>きもの</rt></ruby>が<ruby>届<rt>とど</rt></ruby>かないトラブル　１<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/11/成人式に着物が届かないトラブル-1億円以上の被害
+- title: <ruby>東京<rt>とうきょう</rt></ruby>２３<ruby>区<rt>く</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しく<ruby>成人<rt>せいじん</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>　８<ruby>人<rt>にん</rt></ruby>のうち<ruby>１人<rt>ひとり</rt></ruby>が<ruby>外国人<rt>がいこくじん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/09/東京23区で新しく成人した人-8人のうち1人が外国人
+- title: <ruby>来年<rt>らいねん</rt></ruby>は「いぬ」の<ruby>年<rt>とし</rt></ruby>　ペットの<ruby>犬<rt>いぬ</rt></ruby>をみんなに<ruby>見<rt>み</rt></ruby>てほしい
+  url: https://newswebeasy.github.io/news/easy/2017/12/01/来年はいぬの年-ペットの犬をみんなに見てほしい
+...
