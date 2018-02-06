@@ -1,0 +1,77 @@
+---
+layout: web_news
+categories: web
+newsid: k10011315411000
+title: さっぽろ雪まつり 開幕
+title_with_ruby: さっぽろ<ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>まつり <ruby>開幕<rt
+  data-ruby-level="6">かいまく</rt></ruby>
+last_modified_at: '2018-02-05T11:59:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>02<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>05<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 11<ruby>時<rt data-ruby-level="2">じ</rt></ruby>59<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 雪や氷の像で冬の札幌を彩るさっぽろ雪まつりが札幌市のメイン会場で開幕し、迫力のある巨大な雪の像を見に訪れた大勢の観光客でにぎわっています。
+summary: <ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>や<ruby>氷<rt data-ruby-level="3">こおり</rt></ruby>の<ruby>像<rt
+  data-ruby-level="5">ぞう</rt></ruby>で<ruby>冬<rt data-ruby-level="2">ふゆ</rt></ruby>の<ruby>札幌<rt
+  data-ruby-level="8">さっぽろ</rt></ruby>を<ruby>彩<rt data-ruby-level="7">いろど</rt></ruby>るさっぽろ<ruby>雪<rt
+  data-ruby-level="2">ゆき</rt></ruby>まつりが<ruby>札幌市<rt data-ruby-level="8">さっぽろし</rt></ruby>のメイン<ruby>会場<rt
+  data-ruby-level="2">かいじょう</rt></ruby>で<ruby>開幕<rt data-ruby-level="6">かいまく</rt></ruby>し、<ruby>迫力<rt
+  data-ruby-level="7">はくりょく</rt></ruby>のある<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby>な<ruby>雪<rt
+  data-ruby-level="2">ゆき</rt></ruby>の<ruby>像<rt data-ruby-level="5">ぞう</rt></ruby>を<ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>に<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れた<ruby>大勢<rt
+  data-ruby-level="5">おおぜい</rt></ruby>の<ruby>観光客<rt data-ruby-level="4">かんこうきゃく</rt></ruby>でにぎわっています。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/05/K10011315411_1802051157_1802051159_01_02.jpg
+body:
+- text: さっぽろ<ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>まつりは、<ruby>今月<rt data-ruby-level="2">こんげつ</rt></ruby>１<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>、<ruby>札幌市<rt data-ruby-level="8">さっぽろし</rt></ruby><ruby>東区<rt
+    data-ruby-level="3">ひがしく</rt></ruby>の<ruby>会場<rt data-ruby-level="2">かいじょう</rt></ruby>で<ruby>一足早<rt
+    data-ruby-level="1">ひとあしはや</rt></ruby>く<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>まったのに<ruby>続<rt
+    data-ruby-level="4">つづ</rt></ruby>いて、５<ruby>日<rt data-ruby-level="1">にち</rt></ruby>からメインとなる<ruby>中央区<rt
+    data-ruby-level="3">ちゅうおうく</rt></ruby>の<ruby>会場<rt data-ruby-level="2">かいじょう</rt></ruby>などで<ruby>開幕<rt
+    data-ruby-level="6">かいまく</rt></ruby>しました。<br /><br /><ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>まつりの<ruby>会場<rt
+    data-ruby-level="2">かいじょう</rt></ruby>には、<ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせておよそ２００の<ruby>雪<rt
+    data-ruby-level="2">ゆき</rt></ruby>の<ruby>像<rt data-ruby-level="5">ぞう</rt></ruby>や<ruby>氷<rt
+    data-ruby-level="3">こおり</rt></ruby>の<ruby>像<rt data-ruby-level="5">ぞう</rt></ruby>が<ruby>展示<rt
+    data-ruby-level="6">てんじ</rt></ruby>されていて、この<ruby>中<rt data-ruby-level="1">なか</rt></ruby>には、<ruby>高<rt
+    data-ruby-level="2">たか</rt></ruby>さが１１メートルある<ruby>奈良県<rt data-ruby-level="8">ならけん</rt></ruby>の<ruby>薬師寺<rt
+    data-ruby-level="5">やくしじ</rt></ruby><ruby>大講堂<rt data-ruby-level="5">だいこうどう</rt></ruby>をモチーフにした<ruby>雪<rt
+    data-ruby-level="2">ゆき</rt></ruby>の<ruby>像<rt data-ruby-level="5">ぞう</rt></ruby>があります。また、およそ１００<ruby>年前<rt
+    data-ruby-level="2">ねんまえ</rt></ruby>に<ruby>建設<rt data-ruby-level="5">けんせつ</rt></ruby>された<ruby>台湾<rt
+    data-ruby-level="7">たいわん</rt></ruby>の<ruby>旧<rt data-ruby-level="5">きゅう</rt></ruby><ruby>台中<rt
+    data-ruby-level="2">たいちゅう</rt></ruby><ruby>駅<rt data-ruby-level="3">えき</rt></ruby>をモチーフにした<ruby>氷<rt
+    data-ruby-level="3">こおり</rt></ruby>の<ruby>像<rt data-ruby-level="5">ぞう</rt></ruby>は、<ruby>重<rt
+    data-ruby-level="3">おも</rt></ruby>さ１３０キロほどの<ruby>氷<rt data-ruby-level="3">こおり</rt></ruby>の<ruby>柱<rt
+    data-ruby-level="3">はしら</rt></ruby>、およそ８００<ruby>本<rt data-ruby-level="1">ほん</rt></ruby>を<ruby>削<rt
+    data-ruby-level="7">けず</rt></ruby>って<ruby>作<rt data-ruby-level="2">つく</rt></ruby>られました。<br
+    /><br />このほか、<ruby>プロ<rt data-ruby-level="3">ぷろ</rt></ruby><ruby>野球<rt data-ruby-level="3">やきゅう</rt></ruby>・<ruby>日本<rt
+    data-ruby-level="1">にっぽん</rt></ruby><ruby>ハム<rt data-ruby-level="1">はむ</rt></ruby>に<ruby>入団<rt
+    data-ruby-level="5">にゅうだん</rt></ruby>した<ruby>注目<rt data-ruby-level="3">ちゅうもく</rt></ruby>のルーキー、<ruby>清宮<rt
+    data-ruby-level="4">きよみや</rt></ruby><ruby>幸太郎<rt data-ruby-level="7">こうたろう</rt></ruby><ruby>選手<rt
+    data-ruby-level="4">せんしゅ</rt></ruby>や、<ruby>中学生<rt data-ruby-level="1">ちゅうがくせい</rt></ruby><ruby>棋士<rt
+    data-ruby-level="7">きし</rt></ruby>の<ruby>藤井<rt data-ruby-level="7">ふじい</rt></ruby><ruby>聡太<rt
+    data-ruby-level="8">そうた</rt></ruby><ruby>五段<rt data-ruby-level="6">ごだん</rt></ruby>など、<ruby>話題<rt
+    data-ruby-level="3">わだい</rt></ruby>の<ruby>人物<rt data-ruby-level="3">じんぶつ</rt></ruby>の<ruby>雪<rt
+    data-ruby-level="2">ゆき</rt></ruby>の<ruby>像<rt data-ruby-level="5">ぞう</rt></ruby>も<ruby>展示<rt
+    data-ruby-level="6">てんじ</rt></ruby>されています。<br /><br />オーストラリアから<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れた<ruby>観光客<rt
+    data-ruby-level="4">かんこうきゃく</rt></ruby>は「<ruby>初<rt data-ruby-level="4">はじ</rt></ruby>めて<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>ました。とてもファンタスティックですね」となどと<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。<br
+    /><br />さっぽろ<ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>まつりは、<ruby>今月<rt data-ruby-level="2">こんげつ</rt></ruby>１２<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>まで<ruby>開<rt data-ruby-level="3">ひら</rt></ruby>かれています。
+  image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/05/K10011315411_1802051157_1802051159_01_03.jpg
+source_url: https://www3.nhk.or.jp/news/html/20180205/k10011315411000.html
+easy_title_with_ruby: 「さっぽろ<ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>まつり」が<ruby>始<rt
+  data-ruby-level="3">はじ</rt></ruby>まる
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/02/06/さっぽろ雪まつりが始まる
+related_news:
+- title: さっぽろホワイトイルミネーション<ruby>開幕<rt data-ruby-level="6">かいまく</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/11/24/さっぽろホワイトイルミネーション開幕
+- title: シャンシャン <ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>で<ruby>遊<rt data-ruby-level="3">あそ</rt></ruby>ぶ
+  url: https://newswebeasy.github.io/news/web/2018/01/26/シャンシャン-雪で遊ぶ
+- title: <ruby>氷点下<rt data-ruby-level="3">ひょうてんか</rt></ruby>の<ruby>中<rt data-ruby-level="1">なか</rt></ruby>で34<ruby>組<rt
+    data-ruby-level="2">くみ</rt></ruby>が<ruby>合同<rt data-ruby-level="2">ごうどう</rt></ruby><ruby>結婚式<rt
+    data-ruby-level="7">けっこんしき</rt></ruby> <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/09/氷点下の中で34組が合同結婚式-中国
+- title: <ruby>埼玉<rt data-ruby-level="7">さいたま</rt></ruby> <ruby>長瀞町<rt data-ruby-level="8">ながとろまち</rt></ruby>で<ruby>天然<rt
+    data-ruby-level="4">てんねん</rt></ruby><ruby>氷<rt data-ruby-level="3">こおり</rt></ruby>の<ruby>切<rt
+    data-ruby-level="2">き</rt></ruby>り<ruby>出<rt data-ruby-level="2">だ</rt></ruby>し
+  url: https://newswebeasy.github.io/news/web/2018/01/17/埼玉-長瀞町で天然氷の切り出し
+...

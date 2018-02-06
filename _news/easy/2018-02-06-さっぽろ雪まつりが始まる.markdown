@@ -1,0 +1,69 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011315411000
+last_modified_at: '2018-02-06T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>06<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 北海道札幌市で５日、雪や氷でつくった像などを楽しむ「さっぽろ雪まつり」が始まりました。
+title: 「さっぽろ雪まつり」が始まる
+title_with_ruby: 「さっぽろ<ruby>雪<rt>ゆき</rt></ruby>まつり」が<ruby>始<rt>はじ</rt></ruby>まる
+outline: 北海道札幌市で５日、雪や氷でつくった像などを楽しむ「さっぽろ雪まつり」が始まりました。
+outline_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>札幌市<rt>さっぽろし</rt></ruby>で<ruby>５日<rt>いつか</rt></ruby>、<ruby>雪<rt>ゆき</rt></ruby>や<ruby>氷<rt>こおり</rt></ruby>でつくった<ruby>像<rt>ぞう</rt></ruby>などを<ruby>楽<rt>たの</rt></ruby>しむ「さっぽろ<ruby>雪<rt>ゆき</rt></ruby>まつり」が<ruby>始<rt>はじ</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/05/K10011315411_1802051157_1802051159_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/06/k10011315411000.mp3
+content_with_ruby: "<p><ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>札幌市<rt>さっぽろし</rt></ruby>で<ruby>５日<rt>いつか</rt></ruby>、<ruby>雪<rt>ゆき</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>でつくった<span style=\"color:\
+  \ blue;\"><ruby>像<rt>ぞう</rt></ruby></span>などを<ruby>楽<rt>たの</rt></ruby>しむ「さっぽろ<ruby>雪<rt>ゆき</rt></ruby>まつり」が<ruby>始<rt>はじ</rt></ruby>まりました。</p>\n\
+  <p><ruby>会場<rt>かいじょう</rt></ruby>には２００ぐらいの<span style=\"color: blue;\"><ruby>像<rt>ぞう</rt></ruby></span>があります。<ruby>奈良市<rt>ならし</rt></ruby>にある<ruby>薬師寺<rt>やくしじ</rt></ruby>というお<ruby>寺<rt>てら</rt></ruby>の<ruby>建物<rt>たてもの</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>像<rt>ぞう</rt></ruby></span>は、<ruby>高<rt>たか</rt></ruby>さが１１ｍあります。<ruby>台湾<rt>たいわん</rt></ruby>で１００<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>に<ruby>建<rt>た</rt></ruby>てられた<ruby>駅<rt>えき</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>像<rt>ぞう</rt></ruby></span>には、<span style=\"color:\
+  \ blue;\"><ruby>氷<rt>こおり</rt></ruby></span>の<span style=\"color: blue;\"><ruby>柱<rt>はしら</rt></ruby></span>を８００<ruby>本<rt>ぽん</rt></ruby><ruby>使<rt>つか</rt></ruby>っています。</p>\n\
+  <p><span style=\"color: blue;\">プロ</span><span style=\"color: blue;\"><ruby>野球<rt>やきゅう</rt></ruby></span>の<ruby>日本<rt>にっぽん</rt></ruby>ハムに<ruby>新<rt>あたら</rt></ruby>しく<ruby>入<rt>はい</rt></ruby>った<ruby>清宮幸太郎<rt>きよみやこうたろう</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>や、<span style=\"color:\
+  \ blue;\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<span style=\"color: blue;\">プロ</span>で<ruby>中学生<rt>ちゅうがくせい</rt></ruby>の<ruby>藤井聡太<rt>ふじいそうた</rt></ruby>さんの<span\
+  \ style=\"color: blue;\"><ruby>像<rt>ぞう</rt></ruby></span>もあります。</p>\n<p>オーストラリアから<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は「<ruby>初<rt>はじ</rt></ruby>めて<ruby>見<rt>み</rt></ruby>ました。とても<ruby>美<rt>うつく</rt></ruby>しくてすばらしいですね」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>さっぽろ<ruby>雪<rt>ゆき</rt></ruby>まつりは１２<ruby>日<rt>にち</rt></ruby>までです。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 氷
+  descriptions:
+  - <ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>０度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。
+- word: 像
+  descriptions:
+  - かたち。<ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。
+- word: 柱
+  descriptions:
+  - <ruby><rb>土台</rb><rt>どだい</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>てて、<ruby><rb>屋根</rb><rt>やね</rt></ruby>などを<ruby><rb>支</rb><rt>ささ</rt></ruby>える<ruby><rb>材木</rb><rt>ざいもく</rt></ruby>や<ruby><rb>鉄材</rb><rt>てつざい</rt></ruby>。
+  - たよりになる<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - まっすぐに<ruby><rb>立</rb><rt>た</rt></ruby>っているもの。
+  - <ruby><rb>神</rb><rt>かみ</rt></ruby>や、お<ruby><rb>骨</rb><rt>こつ</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときのことば。
+- word: プロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。
+  - 「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+- word: 野球
+  descriptions:
+  - <ruby><rb>九人</rb><rt>くにん</rt></ruby>ずつの<ruby><rb>二</rb><rt>に</rt></ruby>チームが、たがいにバットでボールを<ruby><rb>打</rb><rt>う</rt></ruby>ってせめ<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>点</rb><rt>てん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ベースボール。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 将棋
+  descriptions:
+  - <ruby><rb>縦</rb><rt>たて</rt></ruby>・<ruby><rb>横</rb><rt>よこ</rt></ruby>に１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>板</rb><rt>いた</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>で、２０<ruby><rb>枚</rb><rt>まい</rt></ruby>ずつのこまを<ruby><rb>動</rb><rt>うご</rt></ruby>かし、<ruby><rb>相手</rb><rt>あいて</rt></ruby>の<ruby><rb>王</rb><rt>おう</rt></ruby>を<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>るゲーム。
+source_url: http://www3.nhk.or.jp/news/easy/k10011315411000/k10011315411000.html
+web_title_with_ruby: さっぽろ<ruby>雪<rt>ゆき</rt></ruby>まつり <ruby>開幕<rt>かいまく</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/05/さっぽろ雪まつり-開幕
+related_news:
+- title: エジプト　<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>協力<rt>きょうりょく</rt></ruby>して<ruby>新<rt>あたら</rt></ruby>しい<ruby>博物館<rt>はくぶつかん</rt></ruby>を<ruby>建<rt>た</rt></ruby>てる
+  url: https://newswebeasy.github.io/news/easy/2018/01/29/エジプト-日本が協力して新しい博物館を建てる
+- title: <ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>長瀞町<rt>ながとろまち</rt></ruby>　<ruby>自然<rt>しぜん</rt></ruby>の<ruby>寒<rt>さむ</rt></ruby>さで<ruby>凍<rt>こお</rt></ruby>った<ruby>氷<rt>こおり</rt></ruby>ができる
+  url: https://newswebeasy.github.io/news/easy/2018/01/17/埼玉県長瀞町-自然の寒さで凍った氷ができる
+- title: <ruby>将棋<rt>しょうぎ</rt></ruby>の<ruby>藤井聡太<rt>ふじいそうた</rt></ruby>さんが<ruby>中学生<rt>ちゅうがくせい</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>五<rt>ご</rt></ruby><ruby>段<rt>だん</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/02/02/将棋の藤井聡太さんが中学生で初めて五段になる
+- title: <ruby>将棋<rt>しょうぎ</rt></ruby>の<ruby>藤井<rt>ふじい</rt></ruby><ruby>聡太<rt>そうた</rt></ruby>さん　<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>早<rt>はや</rt></ruby>く５０<ruby>回<rt>かい</rt></ruby><ruby>勝<rt>か</rt></ruby>った
+  url: https://newswebeasy.github.io/news/easy/2017/11/22/将棋の藤井聡太さん-今まででいちばん早く50回勝った
+- title: <ruby>長野県<rt>ながのけん</rt></ruby>の<ruby>鹿島槍ヶ岳<rt>かしまやりがたけ</rt></ruby>で「<ruby>氷河<rt>ひょうが</rt></ruby>」が<ruby>見<rt>み</rt></ruby>つかる
+  url: https://newswebeasy.github.io/news/easy/2018/01/19/長野県の鹿島槍ヶ岳で氷河が見つかる
+...

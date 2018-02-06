@@ -1,0 +1,94 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011315711000
+last_modified_at: '2018-02-06T17:20:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>06<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: 韓国のピョンチャンで９日、冬のオリンピックが始まります。
+title: ジャンプの葛西選手「オリンピックで金メダルをとりたい」
+title_with_ruby: ジャンプの<ruby>葛西<rt>かさい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>「オリンピックで<ruby>金<rt>きん</rt></ruby>メダルをとりたい」
+outline: 韓国のピョンチャンで９日、冬のオリンピックが始まります。
+outline_with_ruby: <ruby>韓国<rt>かんこく</rt></ruby>のピョンチャンで<ruby>９日<rt>ここのか</rt></ruby>、<ruby>冬<rt>ふゆ</rt></ruby>のオリンピックが<ruby>始<rt>はじ</rt></ruby>まります。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/05/K10011315711_1802051938_1802060117_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/06/k10011315711000.mp3
+content_with_ruby: "<p><ruby>韓国<rt>かんこく</rt></ruby>のピョンチャンで<ruby>９日<rt>ここのか</rt></ruby>、<ruby>冬<rt>ふゆ</rt></ruby>の<span\
+  \ style=\"color: blue;\">オリンピック</span>が<ruby>始<rt>はじ</rt></ruby>まります。<span style=\"\
+  color: blue;\">スキー</span>の<span style=\"color: blue;\">ジャンプ</span>に<ruby>出<rt>で</rt></ruby>る<ruby>葛西<rt>かさい</rt></ruby><ruby>紀明<rt>のりあき</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>５日<rt>いつか</rt></ruby>、<ruby>韓国<rt>かんこく</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。</p>\n\
+  <p><ruby>葛西<rt>かさい</rt></ruby><span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は４５<ruby>歳<rt>さい</rt></ruby>で、１９９２<ruby>年<rt>ねん</rt></ruby>から７<ruby>回<rt>かい</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>冬<rt>ふゆ</rt></ruby>の<span\
+  \ style=\"color: blue;\">オリンピック</span>に<ruby>出<rt>で</rt></ruby>ました。ピョンチャンは８<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>で、<ruby>冬<rt>ふゆ</rt></ruby>の<span\
+  \ style=\"color: blue;\">オリンピック</span>で<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>になります。<ruby>葛西<rt>かさい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は「とても<ruby>楽<rt>たの</rt></ruby>しみです。しっかり<ruby>準備<rt>じゅんび</rt></ruby>をして<span\
+  \ style=\"color: blue;\"><ruby>金<rt>きん</rt></ruby></span><span style=\"color: blue;\"\
+  >メダル</span>をとりたいです」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n<p><ruby>葛西<rt>かさい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<span style=\"color:\
+  \ blue;\"><ruby>開会<rt>かいかい</rt></ruby></span><ruby>式<rt>しき</rt></ruby>のとき、<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>旗<rt>はた</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>って<ruby>会場<rt>かいじょう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。<ruby>葛西<rt>かさい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は「<span style=\"color:\
+  \ blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちがいい<ruby>試合<rt>しあい</rt></ruby>をできるように、しっかり<span\
+  \ style=\"color: blue;\"><ruby>旗<rt>はた</rt></ruby></span>を<span style=\"color: blue;\"\
+  ><ruby>振<rt>ふ</rt></ruby>っ</span>て<ruby>歩<rt>ある</rt></ruby>きたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ジャンプ
+  descriptions:
+  - とび<ruby><rb>上</rb><rt>あ</rt></ruby>がること。
+  - スキーや<ruby><rb>陸上競技</rb><rt>りくじょうきょうぎ</rt></ruby>で、とんだ<ruby><rb>距離</rb><rt>きょり</rt></ruby>や<ruby><rb>高</rb><rt>たか</rt></ruby>さをきそう<ruby><rb>種目</rb><rt>しゅもく</rt></ruby>。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: 金
+  descriptions:
+  - <ruby><rb>黄色</rb><rt>きいろ</rt></ruby>いつやのある、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。こがね。
+  - こがね<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+  - おかね。
+  - 「<span class="dic_sansyogogi">1)</span>」のように、だいじな。りっぱな。
+  - かなもの。
+  - <ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>金曜日</rb><rt>きんようび</rt></ruby>。
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+- word: スキー
+  descriptions:
+  - くつに<ruby><rb>取</rb><rt>と</rt></ruby>りつけて、<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>板</rb><rt>いた</rt></ruby>。
+  - 「<span class="dic_sansyogogi">1)</span>」を<ruby><rb>使</rb><rt>つか</rt></ruby>って<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。
+- word: 記録
+  descriptions:
+  - あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。
+- word: 開会
+  descriptions:
+  - <ruby><rb>会</rb><rt>かい</rt></ruby>を<ruby><rb>始</rb><rt>はじ</rt></ruby>めること。
+- word: 旗
+  descriptions:
+  - <ruby><rb>布</rb><rt>ぬの</rt></ruby>や<ruby><rb>紙</rb><rt>かみ</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>り、さおなどの<ruby><rb>先</rb><rt>さき</rt></ruby>につけて、かざりや<ruby><rb>目</rb><rt>め</rt></ruby>じるしとするもの。
+- word: 振る
+  descriptions:
+  - ゆり<ruby><rb>動</rb><rt>うご</rt></ruby>かす。
+  - まき<ruby><rb>散</rb><rt>ち</rt></ruby>らす。
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>割</rb><rt>わ</rt></ruby>り<ruby><rb>当</rb><rt>あ</rt></ruby>てる。
+  - つける。
+  - やめる。<ruby><rb>断</rb><rt>ことわ</rt></ruby>る。
+  - むだにする。
+  - <ruby><rb>向</rb><rt>む</rt></ruby>きを<ruby><rb>変</rb><rt>か</rt></ruby>える。
+source_url: http://www3.nhk.or.jp/news/easy/k10011315711000/k10011315711000.html
+web_title_with_ruby: <ruby>ジャンプ<rt>じゃんぷ</rt></ruby> <ruby>葛西<rt>かさい</rt></ruby>が<ruby>韓国<rt>かんこく</rt></ruby><ruby>入<rt>い</rt></ruby>り「<ruby>金<rt>きん</rt></ruby><ruby>メダル<rt>めだる</rt></ruby>とりたい」
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/05/ジャンプ-葛西が韓国入り金メダルとりたい
+related_news:
+- title: オリンピックの<ruby>開会<rt>かいかい</rt></ruby><ruby>式<rt>しき</rt></ruby>　<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>歩<rt>ある</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/01/18/オリンピックの開会式-韓国と北朝鮮の選手は一緒に歩く
+- title: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>がピョンチャンオリンピックに２２<ruby>人<rt>にん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/01/23/北朝鮮がピョンチャンオリンピックに22人の選手を送る
+- title: ロシアの<ruby>選手<rt>せんしゅ</rt></ruby>のチームはオリンピックに<ruby>出<rt>で</rt></ruby>ることができない
+  url: https://newswebeasy.github.io/news/easy/2017/12/06/ロシアの選手のチームはオリンピックに出ることができない
+- title: スピードスケートの<ruby>小平<rt>こだいら</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>世界<rt>せかい</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby><ruby>速<rt>はや</rt></ruby>い<ruby>記録<rt>きろく</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す
+  url: https://newswebeasy.github.io/news/easy/2017/12/12/スピードスケートの小平選手が世界で1番速い記録を出す
+- title: カヌーの<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>別<rt>べつ</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>の<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>に<ruby>禁止<rt>きんし</rt></ruby>の<ruby>薬<rt>くすり</rt></ruby>を<ruby>入<rt>い</rt></ruby>れる
+  url: https://newswebeasy.github.io/news/easy/2018/01/10/カヌーの選手が別の選手の飲み物に禁止の薬を入れる
+...

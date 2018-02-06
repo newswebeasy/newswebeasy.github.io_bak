@@ -1,0 +1,87 @@
+---
+layout: web_news
+categories: web
+newsid: k10011313891000
+title: 82歳のプログラマー若宮さん 国連で講演 称賛受ける
+title_with_ruby: 82<ruby>歳<rt data-ruby-level="7">さい</rt></ruby>のプログラマー<ruby>若宮<rt
+  data-ruby-level="6">わかみや</rt></ruby>さん <ruby>国連<rt data-ruby-level="4">こくれん</rt></ruby>で<ruby>講演<rt
+  data-ruby-level="5">こうえん</rt></ruby> <ruby>称賛<rt data-ruby-level="7">しょうさん</rt></ruby><ruby>受<rt
+  data-ruby-level="3">う</rt></ruby>ける
+last_modified_at: '2018-02-03T11:55:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>02<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>03<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 11<ruby>時<rt data-ruby-level="2">じ</rt></ruby>55<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ８２歳で現役のプログラマーとして活躍する若宮正子さんが、ニューヨークの国連本部で高齢化社会とデジタル技術の活用をテーマに英語でスピーチし、参加者から称賛の声が上がりました。
+summary: ８２<ruby>歳<rt data-ruby-level="7">さい</rt></ruby>で<ruby>現役<rt data-ruby-level="7">げんえき</rt></ruby>のプログラマーとして<ruby>活躍<rt
+  data-ruby-level="7">かつやく</rt></ruby>する<ruby>若宮<rt data-ruby-level="6">わかみや</rt></ruby><ruby>正子<rt
+  data-ruby-level="1">まさこ</rt></ruby>さんが、ニューヨークの<ruby>国連<rt data-ruby-level="4">こくれん</rt></ruby><ruby>本部<rt
+  data-ruby-level="3">ほんぶ</rt></ruby>で<ruby>高齢化<rt data-ruby-level="7">こうれいか</rt></ruby><ruby>社会<rt
+  data-ruby-level="2">しゃかい</rt></ruby>とデジタル<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>の<ruby>活用<rt
+  data-ruby-level="2">かつよう</rt></ruby>をテーマに<ruby>英語<rt data-ruby-level="4">えいご</rt></ruby>でスピーチし、<ruby>参加者<rt
+  data-ruby-level="4">さんかしゃ</rt></ruby>から<ruby>称賛<rt data-ruby-level="7">しょうさん</rt></ruby>の<ruby>声<rt
+  data-ruby-level="2">こえ</rt></ruby>が<ruby>上<rt data-ruby-level="1">あ</rt></ruby>がりました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/03/K10011313891_1802031138_1802031155_01_02.jpg
+more: <ruby>神奈川県<rt data-ruby-level="8">かながわけん</rt></ruby><ruby>藤沢市<rt data-ruby-level="7">ふじさわし</rt></ruby>に<ruby>住<rt
+  data-ruby-level="3">す</rt></ruby>む<ruby>若宮<rt data-ruby-level="6">わかみや</rt></ruby><ruby>正子<rt
+  data-ruby-level="1">まさこ</rt></ruby>さんは、８０<ruby>歳<rt data-ruby-level="7">さい</rt></ruby>をこえてからプログラミングの<ruby>技術<rt
+  data-ruby-level="5">ぎじゅつ</rt></ruby>を<ruby>学<rt data-ruby-level="1">まな</rt></ruby>び、スマートフォンのゲームアプリを<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>するなど<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>で<ruby>注目<rt
+  data-ruby-level="3">ちゅうもく</rt></ruby>される<ruby>現役<rt data-ruby-level="7">げんえき</rt></ruby>プログラマーです。<br
+  /><br /><ruby>若宮<rt data-ruby-level="6">わかみや</rt></ruby>さんは２<ruby>日<rt data-ruby-level="1">にち</rt></ruby>、<ruby>国連<rt
+  data-ruby-level="4">こくれん</rt></ruby><ruby>経済<rt data-ruby-level="6">けいざい</rt></ruby>、<ruby>社会<rt
+  data-ruby-level="2">しゃかい</rt></ruby><ruby>局<rt data-ruby-level="3">きょく</rt></ruby>と<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>の<ruby>国連<rt data-ruby-level="4">こくれん</rt></ruby><ruby>代表部<rt
+  data-ruby-level="3">だいひょうぶ</rt></ruby>が<ruby>主催<rt data-ruby-level="7">しゅさい</rt></ruby>する<ruby>会議<rt
+  data-ruby-level="4">かいぎ</rt></ruby>に<ruby>招<rt data-ruby-level="5">まね</rt></ruby>かれ、<ruby>高齢化<rt
+  data-ruby-level="7">こうれいか</rt></ruby><ruby>社会<rt data-ruby-level="2">しゃかい</rt></ruby>とデジタル<ruby>技術<rt
+  data-ruby-level="5">ぎじゅつ</rt></ruby>の<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>をテーマにスピーチしました。<ruby>若宮<rt
+  data-ruby-level="6">わかみや</rt></ruby>さんはすべてのスピーチを<ruby>英語<rt data-ruby-level="4">えいご</rt></ruby>で<ruby>行<rt
+  data-ruby-level="2">おこな</rt></ruby>い、２０<ruby>年<rt data-ruby-level="1">ねん</rt></ruby><ruby>近<rt
+  data-ruby-level="2">ちか</rt></ruby>く<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>にインターネットを<ruby>使<rt
+  data-ruby-level="3">つか</rt></ruby>った<ruby>交流会<rt data-ruby-level="3">こうりゅうかい</rt></ruby>に<ruby>入<rt
+  data-ruby-level="1">はい</rt></ruby>ったことをきっかけにデジタル<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>に<ruby>関心<rt
+  data-ruby-level="4">かんしん</rt></ruby>を<ruby>持<rt data-ruby-level="3">も</rt></ruby>ったことや<ruby>高齢者<rt
+  data-ruby-level="7">こうれいしゃ</rt></ruby>が<ruby>楽<rt data-ruby-level="2">たの</rt></ruby>しめるように<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>したゲームアプリなどを<ruby>紹介<rt data-ruby-level="7">しょうかい</rt></ruby>しました。<br
+  /><br />そして、デジタル<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>が、<ruby>高齢者<rt data-ruby-level="7">こうれいしゃ</rt></ruby>をより<ruby>社交的<rt
+  data-ruby-level="4">しゃこうてき</rt></ruby>にしたり、<ruby>家族<rt data-ruby-level="3">かぞく</rt></ruby>や<ruby>異<rt
+  data-ruby-level="6">こと</rt></ruby>なる<ruby>世代<rt data-ruby-level="3">せだい</rt></ruby>、さらに<ruby>外国人<rt
+  data-ruby-level="2">がいこくじん</rt></ruby>と<ruby>交流<rt data-ruby-level="3">こうりゅう</rt></ruby>する<ruby>機会<rt
+  data-ruby-level="4">きかい</rt></ruby>を<ruby>増<rt data-ruby-level="5">ふ</rt></ruby>やしたりするとして「<ruby>高齢者<rt
+  data-ruby-level="7">こうれいしゃ</rt></ruby>を<ruby>社会<rt data-ruby-level="2">しゃかい</rt></ruby>に<ruby>積極的<rt
+  data-ruby-level="4">せっきょくてき</rt></ruby>に<ruby>関<rt data-ruby-level="8">かか</rt></ruby>わる<ruby>一員<rt
+  data-ruby-level="3">いちいん</rt></ruby>だとみなし、<ruby>励<rt data-ruby-level="7">はげ</rt></ruby>ましてください」と<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけました。<br /><br />スピーチを<ruby>聞<rt data-ruby-level="2">き</rt></ruby>いた<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>たちは「<ruby>彼女<rt data-ruby-level="7">かのじょ</rt></ruby>の<ruby>努力<rt
+  data-ruby-level="4">どりょく</rt></ruby>は<ruby>高齢者<rt data-ruby-level="7">こうれいしゃ</rt></ruby>には<ruby>生活<rt
+  data-ruby-level="2">せいかつ</rt></ruby>の<ruby>質<rt data-ruby-level="5">しつ</rt></ruby>を<ruby>高<rt
+  data-ruby-level="2">たか</rt></ruby>める<ruby>能力<rt data-ruby-level="5">のうりょく</rt></ruby>と<ruby>価値<rt
+  data-ruby-level="6">かち</rt></ruby>があることを<ruby>示<rt data-ruby-level="5">しめ</rt></ruby>した」とか、「<ruby>技術<rt
+  data-ruby-level="5">ぎじゅつ</rt></ruby>から<ruby>取<rt data-ruby-level="4">と</rt></ruby>り<ruby>残<rt
+  data-ruby-level="4">のこ</rt></ruby>されがちな<ruby>女性<rt data-ruby-level="5">じょせい</rt></ruby>が<ruby>成<rt
+  data-ruby-level="7">な</rt></ruby>し<ruby>遂<rt data-ruby-level="7">と</rt></ruby>げたということに<ruby>感銘<rt
+  data-ruby-level="7">かんめい</rt></ruby>を<ruby>受<rt data-ruby-level="3">う</rt></ruby>けた」などと<ruby>称賛<rt
+  data-ruby-level="7">しょうさん</rt></ruby>していました。<br /><br /><ruby>若宮<rt data-ruby-level="6">わかみや</rt></ruby>さんは「<ruby>私<rt
+  data-ruby-level="8">わたし</rt></ruby>の<ruby>思<rt data-ruby-level="2">おも</rt></ruby>っていたことが<ruby>伝<rt
+  data-ruby-level="4">つた</rt></ruby>わったみたいでうれしい。これからも<ruby>社会<rt data-ruby-level="2">しゃかい</rt></ruby>や<ruby>家族<rt
+  data-ruby-level="3">かぞく</rt></ruby>、<ruby>自分<rt data-ruby-level="2">じぶん</rt></ruby>のために<ruby>活動<rt
+  data-ruby-level="3">かつどう</rt></ruby>しいろんなことを<ruby>学<rt data-ruby-level="2">まな</rt></ruby>び<ruby>直<rt
+  data-ruby-level="2">なお</rt></ruby>さなければと<ruby>思<rt data-ruby-level="2">おも</rt></ruby>う」と<ruby>話<rt
+  data-ruby-level="2">はな</rt></ruby>していました。
+movie_url: https://newswebeasy.github.io/ja201802/news/web/movie/2018/02/03/k10011313891_201802031919_201802031930.mp4
+voice_url: https://newswebeasy.github.io/ja201802/news/web/voice/2018/02/03/k10011313891_201802031919_201802031930.mp3
+source_url: https://www3.nhk.or.jp/news/html/20180203/k10011313891000.html
+easy_title_with_ruby: ８２<ruby>歳<rt data-ruby-level="7">さい</rt></ruby>のプログラマー <ruby>若宮<rt
+  data-ruby-level="6">わかみや</rt></ruby><ruby>正子<rt data-ruby-level="1">まさこ</rt></ruby>さんが<ruby>国連<rt
+  data-ruby-level="4">こくれん</rt></ruby>でスピーチをする
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/02/06/82歳のプログラマー-若宮正子さんが国連でスピーチをする
+related_news:
+- title: 「８Ｋ」など<ruby>最新<rt data-ruby-level="4">さいしん</rt></ruby><ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>を<ruby>紹介<rt
+    data-ruby-level="7">しょうかい</rt></ruby> <ruby>国際<rt data-ruby-level="5">こくさい</rt></ruby><ruby>放送<rt
+    data-ruby-level="3">ほうそう</rt></ruby><ruby>機器<rt data-ruby-level="4">きき</rt></ruby><ruby>展<rt
+    data-ruby-level="6">てん</rt></ruby> <ruby>始<rt data-ruby-level="3">はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/web/2017/11/15/8Kなど最新技術を紹介-国際放送機器展-始まる
+- title: <ruby>高齢者<rt data-ruby-level="7">こうれいしゃ</rt></ruby>の<ruby>暮<rt data-ruby-level="6">く</rt></ruby>らしサポートするＡＩマンション<ruby>公開<rt
+    data-ruby-level="3">こうかい</rt></ruby> <ruby>横浜<rt data-ruby-level="7">よこはま</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/11/22/高齢者の暮らしサポートするAIマンション公開-横浜
+...

@@ -1,0 +1,54 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011316461000
+last_modified_at: '2018-02-06T17:20:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>06<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: 長野県諏訪市にある諏訪湖では、冬に湖の水が凍ると、割れた氷と氷の間が盛り上がって長い線のようになることがあります。
+title: 長野県の諏訪湖　凍った湖に「御神渡り」ができる
+title_with_ruby: <ruby>長野県<rt>ながのけん</rt></ruby>の<ruby>諏訪湖<rt>すわこ</rt></ruby>　<ruby>凍<rt>こお</rt></ruby>った<ruby>湖<rt>みずうみ</rt></ruby>に「<ruby>御神<rt>おみ</rt></ruby><ruby>渡<rt>わた</rt></ruby>り」ができる
+outline: 長野県諏訪市にある諏訪湖では、冬に湖の水が凍ると、割れた氷と氷の間が盛り上がって長い線のようになることがあります。
+outline_with_ruby: <ruby>長野県<rt>ながのけん</rt></ruby><ruby>諏訪市<rt>すわし</rt></ruby>にある<ruby>諏訪湖<rt>すわこ</rt></ruby>では、<ruby>冬<rt>ふゆ</rt></ruby>に<ruby>湖<rt>みずうみ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<ruby>凍<rt>こお</rt></ruby>ると、<ruby>割<rt>わ</rt></ruby>れた<ruby>氷<rt>こおり</rt></ruby>と<ruby>氷<rt>こおり</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>が<ruby>盛<rt>も</rt></ruby>り<ruby>上<rt>あ</rt></ruby>がって<ruby>長<rt>なが</rt></ruby>い<ruby>線<rt>せん</rt></ruby>のようになることがあります。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/06/K10011316461_1802060754_1802060756_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/06/k10011316461000.mp3
+content_with_ruby: "<p><ruby>長野県<rt>ながのけん</rt></ruby><ruby>諏訪市<rt>すわし</rt></ruby>にある<ruby>諏訪湖<rt>すわこ</rt></ruby>では、<ruby>冬<rt>ふゆ</rt></ruby>に<ruby>湖<rt>みずうみ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>凍<rt>こお</rt></ruby>る</span>と、<ruby>割<rt>わ</rt></ruby>れた<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>と<span style=\"color:\
+  \ blue;\"><ruby>氷<rt>こおり</rt></ruby></span>の<ruby>間<rt>あいだ</rt></ruby>が<span style=\"\
+  color: blue;\"><ruby>盛<rt>も</rt></ruby>り<ruby>上<rt>あ</rt></ruby>がっ</span>て<ruby>長<rt>なが</rt></ruby>い<ruby>線<rt>せん</rt></ruby>のようになることがあります。これを「<ruby>御神<rt>おみ</rt></ruby><ruby>渡<rt>わた</rt></ruby>り」と<ruby>呼<rt>よ</rt></ruby>んでいます。<ruby>諏訪大社<rt>すわたいしゃ</rt></ruby>という<ruby>神社<rt>じんじゃ</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>神<rt>かみ</rt></ruby></span><ruby>様<rt>さま</rt></ruby>が、<ruby>湖<rt>みずうみ</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>って<ruby>女<rt>おんな</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>神<rt>かみ</rt></ruby></span><ruby>様<rt>さま</rt></ruby>に<ruby>会<rt>あ</rt></ruby>いに<ruby>行<rt>い</rt></ruby>ったためできると<ruby>言<rt>い</rt></ruby>われています。</p>\n\
+  <p>「<ruby>御神<rt>おみ</rt></ruby><ruby>渡<rt>わた</rt></ruby>り」は５<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>からできていませんでしたが、<ruby>今年<rt>ことし</rt></ruby>、<ruby>久<rt>ひさ</rt></ruby>しぶりにできました。<ruby>５日<rt>いつか</rt></ruby>、<ruby>湖<rt>みずうみ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>の<ruby>上<rt>うえ</rt></ruby>で「<ruby>御神<rt>おみ</rt></ruby><ruby>渡<rt>わた</rt></ruby>り」ができた<ruby>式<rt>しき</rt></ruby>がありました。</p>\n\
+  <p><ruby>湖<rt>みずうみ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りには<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>来<rt>き</rt></ruby>て、<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>っていました。「<ruby>御神<rt>おみ</rt></ruby><ruby>渡<rt>わた</rt></ruby>りができるのをずっと<ruby>待<rt>ま</rt></ruby>っていました」と<ruby>話<rt>はな</rt></ruby>す<ruby>人<rt>ひと</rt></ruby>もいました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 凍る
+  descriptions:
+  - <ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。
+- word: 凍る
+  descriptions:
+  - <ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。
+- word: 氷
+  descriptions:
+  - <ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>０度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。
+- word: 盛り上がる
+  descriptions:
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>からふくらんで<ruby><rb>高</rb><rt>たか</rt></ruby>くなる。
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>まる。さかんになる。
+- word: 神
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>知恵</rb><rt>ちえ</rt></ruby>では<ruby><rb>考</rb><rt>かんが</rt></ruby>えられない、ふしぎな<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つと<ruby><rb>信</rb><rt>しん</rt></ruby>じられているもの。
+source_url: http://www3.nhk.or.jp/news/easy/k10011316461000/k10011316461000.html
+web_title_with_ruby: ５<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>諏訪湖<rt>すわこ</rt></ruby>の<ruby>御神渡<rt>おみわた</rt></ruby>りで<ruby>神事<rt>しんじ</rt></ruby>「<ruby>拝観<rt>はいかん</rt></ruby><ruby>式<rt>しき</rt></ruby>」
+  <ruby>長野<rt>ながの</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/06/5年ぶりの諏訪湖の御神渡りで神事拝観式-長野
+related_news:
+- title: <ruby>埼玉県<rt>さいたまけん</rt></ruby><ruby>長瀞町<rt>ながとろまち</rt></ruby>　<ruby>自然<rt>しぜん</rt></ruby>の<ruby>寒<rt>さむ</rt></ruby>さで<ruby>凍<rt>こお</rt></ruby>った<ruby>氷<rt>こおり</rt></ruby>ができる
+  url: https://newswebeasy.github.io/news/easy/2018/01/17/埼玉県長瀞町-自然の寒さで凍った氷ができる
+- title: <ruby>長野県<rt>ながのけん</rt></ruby>の<ruby>鹿島槍ヶ岳<rt>かしまやりがたけ</rt></ruby>で「<ruby>氷河<rt>ひょうが</rt></ruby>」が<ruby>見<rt>み</rt></ruby>つかる
+  url: https://newswebeasy.github.io/news/easy/2018/01/19/長野県の鹿島槍ヶ岳で氷河が見つかる
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>　－５℃の<ruby>寒<rt>さむ</rt></ruby>さの<ruby>中<rt>なか</rt></ruby>で３４のカップルが<ruby>結婚<rt>けっこん</rt></ruby><ruby>式<rt>しき</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/01/11/中国-5Cの寒さの中で34のカップルが結婚式を行う
+...
