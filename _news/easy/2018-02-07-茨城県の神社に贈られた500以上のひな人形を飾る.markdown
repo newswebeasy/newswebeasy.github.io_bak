@@ -1,0 +1,58 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011315541000
+last_modified_at: '2018-02-07T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>07<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 茨城県水戸市の茨城県護国神社では毎年ひな祭りが近くなると、たくさんのひな人形を飾ります。
+title: 茨城県の神社に贈られた５００以上のひな人形を飾る
+title_with_ruby: <ruby>茨城県<rt>いばらきけん</rt></ruby>の<ruby>神社<rt>じんじゃ</rt></ruby>に<ruby>贈<rt>おく</rt></ruby>られた５００<ruby>以上<rt>いじょう</rt></ruby>のひな<ruby>人形<rt>にんぎょう</rt></ruby>を<ruby>飾<rt>かざ</rt></ruby>る
+outline: 茨城県水戸市の茨城県護国神社では毎年ひな祭りが近くなると、たくさんのひな人形を飾ります。
+outline_with_ruby: <ruby>茨城県<rt>いばらきけん</rt></ruby><ruby>水戸市<rt>みとし</rt></ruby>の<ruby>茨城県<rt>いばらきけん</rt></ruby><ruby>護国<rt>ごこく</rt></ruby><ruby>神社<rt>じんじゃ</rt></ruby>では<ruby>毎年<rt>まいとし</rt></ruby>ひな<ruby>祭<rt>まつ</rt></ruby>りが<ruby>近<rt>ちか</rt></ruby>くなると、たくさんのひな<ruby>人形<rt>にんぎょう</rt></ruby>を<ruby>飾<rt>かざ</rt></ruby>ります。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/05/K10011315541_1802051235_1802051243_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/07/k10011315541000.mp3
+content_with_ruby: "<p><ruby>茨城県<rt>いばらきけん</rt></ruby><ruby>水戸市<rt>みとし</rt></ruby>の<ruby>茨城県<rt>いばらきけん</rt></ruby><ruby>護国<rt>ごこく</rt></ruby><ruby>神社<rt>じんじゃ</rt></ruby>では<ruby>毎年<rt>まいとし</rt></ruby><span\
+  \ style=\"color: blue;\">ひな<ruby>祭<rt>まつ</rt></ruby>り</span>が<ruby>近<rt>ちか</rt></ruby>くなると、たくさんの<span\
+  \ style=\"color: blue;\">ひな<ruby>人形<rt>にんぎょう</rt></ruby></span>を<ruby>飾<rt>かざ</rt></ruby>ります。この<ruby>人形<rt>にんぎょう</rt></ruby>は、<ruby>家<rt>いえ</rt></ruby>に<ruby>飾<rt>かざ</rt></ruby>らなくなった<ruby>人<rt>ひと</rt></ruby>たちが<ruby>神社<rt>じんじゃ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>贈<rt>おく</rt></ruby>っ</span>た<ruby>人形<rt>にんぎょう</rt></ruby>です。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby>は５００<ruby>以上<rt>いじょう</rt></ruby>の<ruby>人形<rt>にんぎょう</rt></ruby>を<ruby>飾<rt>かざ</rt></ruby>っています。１００<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>に<ruby>作<rt>つく</rt></ruby>られた「<ruby>宮入<rt>みやい</rt></ruby>りびな」は、<ruby>人形<rt>にんぎょう</rt></ruby>が<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っています。</p>\n\
+  <p><ruby>神社<rt>じんじゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は、「<ruby>人形<rt>にんぎょう</rt></ruby>を<ruby>飾<rt>かざ</rt></ruby>る<ruby>場所<rt>ばしょ</rt></ruby>がない」とか、「<ruby>子<rt>こ</rt></ruby>どもが<ruby>大<rt>おお</rt></ruby>きくなって<ruby>飾<rt>かざ</rt></ruby>らなくなった」などの<ruby>理由<rt>りゆう</rt></ruby>で<span\
+  \ style=\"color: blue;\">ひな<ruby>人形<rt>にんぎょう</rt></ruby></span>を<ruby>神社<rt>じんじゃ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>贈<rt>おく</rt></ruby>る</span><ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えていると<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p>１<ruby>歳<rt>さい</rt></ruby>の<ruby>娘<rt>むすめ</rt></ruby>と<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>女性<rt>じょせい</rt></ruby>は「たくさんの<span\
+  \ style=\"color: blue;\">ひな<ruby>人形<rt>にんぎょう</rt></ruby></span>があって、とてもきれいで<ruby>驚<rt>おどろ</rt></ruby>きました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 贈る
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。
+- word: 雛人形
+  descriptions:
+  - ひな<ruby><rb>祭</rb><rt>まつ</rt></ruby>りにかざる<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。
+- word: 雛祭り
+  descriptions:
+  - <ruby><rb>三月三日</rb><rt>さんがつみっか</rt></ruby>にする<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>の<ruby><rb>幸</rb><rt>しあわ</rt></ruby>せをいのるお<ruby><rb>祭</rb><rt>まつ</rt></ruby>り。ひな<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>をかざり、<ruby><rb>白酒</rb><rt>しろざけ</rt></ruby>や、あられ・ひしもち、<ruby><rb>桃</rb><rt>もも</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>などを<ruby><rb>供</rb><rt>そな</rt></ruby>える。<ruby><rb>桃</rb><rt>もも</rt></ruby>の<ruby><rb>節句</rb><rt>せっく</rt></ruby>。ひなの<ruby><rb>節句</rb><rt>せっく</rt></ruby>。
+- word: 贈る
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。
+- word: 贈る
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011315541000/k10011315541000.html
+web_title_with_ruby: <ruby>飾<rt>かざ</rt></ruby>られなくなったひな<ruby>人形<rt>にんぎょう</rt></ruby><ruby>展示<rt>てんじ</rt></ruby>
+  <ruby>水戸<rt>みと</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/05/飾られなくなったひな人形展示-水戸
+related_news:
+- title: <ruby>奈良県<rt>ならけん</rt></ruby>の<ruby>神社<rt>じんじゃ</rt></ruby>　いいお<ruby>酒<rt>さけ</rt></ruby>ができるように<ruby>新<rt>あたら</rt></ruby>しい<ruby>杉玉<rt>すぎたま</rt></ruby>を<ruby>飾<rt>かざ</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2017/11/14/奈良県の神社-いいお酒ができるように新しい杉玉を飾る
+- title: スペイン　ガウディが<ruby>設計<rt>せっけい</rt></ruby>した<ruby>別荘<rt>べっそう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>見<rt>み</rt></ruby>ることができる
+  url: https://newswebeasy.github.io/news/easy/2017/11/16/スペイン-ガウディが設計した別荘の中を見ることができる
+- title: <ruby>愛媛県<rt>えひめけん</rt></ruby>　<ruby>高<rt>たか</rt></ruby>さ２０．１８ｍの<ruby>門松<rt>かどまつ</rt></ruby>を<ruby>飾<rt>かざ</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2017/12/27/愛媛県-高さ2018mの門松を飾る
+- title: 「デンキウナギ」の<ruby>電気<rt>でんき</rt></ruby>でクリスマスツリーが<ruby>光<rt>ひか</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2017/11/28/デンキウナギの電気でクリスマスツリーが光る
+...

@@ -1,0 +1,54 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011319021000
+last_modified_at: '2018-02-07T17:40:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>07<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ふん</rt></ruby>
+description: 日本の時間の７日午前１時ごろ、台湾の東側でマグニチュード６．４（Ｍ６．４）の地震がありました。
+title: 台湾で地震　５人が亡くなって２５０人以上がけがをする
+title_with_ruby: <ruby>台湾<rt>たいわん</rt></ruby>で<ruby>地震<rt>じしん</rt></ruby>　５<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって２５０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>がけがをする
+outline: 日本の時間の７日午前１時ごろ、台湾の東側でマグニチュード６．４（Ｍ６．４）の地震がありました。
+outline_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>の<ruby>７日<rt>なのか</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>１<ruby>時<rt>じ</rt></ruby>ごろ、<ruby>台湾<rt>たいわん</rt></ruby>の<ruby>東側<rt>ひがしがわ</rt></ruby>でマグニチュード６．４（Ｍ６．４）の<ruby>地震<rt>じしん</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201802/news/easy/image/2018/02/07/k10011319021000.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/07/k10011319021000.mp3
+content_with_ruby: "<p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>の<ruby>７日<rt>なのか</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>１<ruby>時<rt>じ</rt></ruby>ごろ、<ruby>台湾<rt>たいわん</rt></ruby>の<ruby>東側<rt>ひがしがわ</rt></ruby>で<span\
+  \ style=\"color: blue;\">マグニチュード</span>６．４（Ｍ６．４）の<ruby>地震<rt>じしん</rt></ruby>がありました。</p>\n\
+  <p>この<ruby>地震<rt>じしん</rt></ruby>で、<ruby>花蓮市<rt>かれんし</rt></ruby>などでホテルや<span style=\"\
+  color: blue;\">マンション</span>が<ruby>倒<rt>たお</rt></ruby>れたり<span style=\"color: blue;\"\
+  ><ruby>傾<rt>かたむ</rt></ruby>い</span>たりしました。</p>\n<p>５<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、２５０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>がけがをしました。<ruby>日本人<rt>にっぽんじん</rt></ruby>は９<ruby>人<rt>にん</rt></ruby>がけがをしました。</p>\n\
+  <p><ruby>天気<rt>てんき</rt></ruby>や<ruby>地震<rt>じしん</rt></ruby>などを<ruby>調<rt>しら</rt></ruby>べている<ruby>台湾<rt>たいわん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>役所<rt>やくしょ</rt></ruby></span>は、<ruby>地震<rt>じしん</rt></ruby>は２<ruby>週間<rt>しゅうかん</rt></ruby>から３<ruby>週間<rt>しゅうかん</rt></ruby><ruby>続<rt>つづ</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があるため、<ruby>気<rt>き</rt></ruby>をつけるように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: マグニチュード
+  descriptions:
+  - <ruby><rb>地震</rb><rt>じしん</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさの<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: マンション
+  descriptions:
+  - コンクリートで<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>で、<ruby><rb>高級</rb><rt>こうきゅう</rt></ruby>な<ruby><rb>感</rb><rt>かん</rt></ruby>じがするアパート。
+- word: 傾く
+  descriptions:
+  - ななめになる。
+  - （<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>などが）ある<ruby><rb>方</rb><rt>ほう</rt></ruby>へ<ruby><rb>寄</rb><rt>よ</rt></ruby>る。
+  - <ruby><rb>日</rb><rt>ひ</rt></ruby>や<ruby><rb>月</rb><rt>つき</rt></ruby>が、<ruby><rb>西</rb><rt>にし</rt></ruby>にしずもうとする。
+  - おとろえる。
+- word: 役所
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+source_url: http://www3.nhk.or.jp/news/easy/k10011319021000/k10011319021000.html
+web_title_with_ruby: <ruby>台湾<rt>たいわん</rt></ruby>で<ruby>大地震<rt>おおじしん</rt></ruby> <ruby>死者<rt>ししゃ</rt></ruby>５<ruby>人<rt>にん</rt></ruby>に
+  <ruby>邦人<rt>ほうじん</rt></ruby>９<ruby>人<rt>にん</rt></ruby><ruby>含<rt>ふく</rt></ruby>め250<ruby>人<rt>にん</rt></ruby><ruby>余<rt>よ</rt></ruby>けが
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/07/台湾で大地震-死者5人に-邦人9人含め250人余けが
+related_news:
+- title: <ruby>阪神<rt>はんしん</rt></ruby>・<ruby>淡路大震災<rt>あわじだいしんさい</rt></ruby>が<ruby>起<rt>お</rt></ruby>こってから２３<ruby>年<rt>ねん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/17/阪神淡路大震災が起こってから23年
+- title: イランとイラクの<ruby>国境<rt>こっきょう</rt></ruby>で<ruby>地震<rt>じしん</rt></ruby>　４５０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2017/11/14/イランとイラクの国境で地震-450人以上が亡くなる
+- title: <ruby>今年<rt>ことし</rt></ruby><ruby>世界<rt>せかい</rt></ruby>で<ruby>起<rt>お</rt></ruby>こった<ruby>地震<rt>じしん</rt></ruby>などの<ruby>災害<rt>さいがい</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>は<ruby>約<rt>やく</rt></ruby>３５<ruby>兆<rt>ちょう</rt></ruby><ruby>円<rt>えん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/12/25/今年世界で起こった地震などの災害の被害は約35兆円
+...

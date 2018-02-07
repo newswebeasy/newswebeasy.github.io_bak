@@ -1,0 +1,62 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011316271000
+last_modified_at: '2018-02-07T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>07<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ボブスレーは氷のコースをそりで速く滑るスポーツです。
+title: ジャマイカ「下町ボブスレーをオリンピックで使わない」
+title_with_ruby: ジャマイカ「<ruby>下町<rt>したまち</rt></ruby>ボブスレーをオリンピックで<ruby>使<rt>つか</rt></ruby>わない」
+outline: ボブスレーは氷のコースをそりで速く滑るスポーツです。
+outline_with_ruby: ボブスレーは<ruby>氷<rt>こおり</rt></ruby>のコースをそりで<ruby>速<rt>はや</rt></ruby>く<ruby>滑<rt>すべ</rt></ruby>るスポーツです。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/05/K10011316271_1802052044_1802052053_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/07/k10011316271000.mp3
+content_with_ruby: "<p>ボブスレーは<span style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>の<span\
+  \ style=\"color: blue;\">コース</span>を<span style=\"color: blue;\">そり</span>で<ruby>速<rt>はや</rt></ruby>く<ruby>滑<rt>すべ</rt></ruby>るスポーツです。<ruby>東京都<rt>とうきょうと</rt></ruby><ruby>大田区<rt>おおたく</rt></ruby>にある<ruby>工場<rt>こうじょう</rt></ruby>や<ruby>会社<rt>かいしゃ</rt></ruby>などの<span\
+  \ style=\"color: blue;\">グループ</span>は、ボブスレーの<span style=\"color: blue;\">そり</span>をつくっています。<span\
+  \ style=\"color: blue;\">そり</span>の<ruby>名前<rt>なまえ</rt></ruby>は「<ruby>下町<rt>したまち</rt></ruby>ボブスレー」です。</p>\n\
+  <p>ジャマイカの<span style=\"color: blue;\">チーム</span>は、この<span style=\"color: blue;\"\
+  >そり</span>を<ruby>今月<rt>こんげつ</rt></ruby>の<span style=\"color: blue;\">オリンピック</span>で<ruby>使<rt>つか</rt></ruby>う<ruby>約束<rt>やくそく</rt></ruby>をしました。<span\
+  \ style=\"color: blue;\">グループ</span>は、<ruby>新<rt>あたら</rt></ruby>しい<span style=\"\
+  color: blue;\">そり</span>をつくる<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けました。</p>\n\
+  <p>しかし、<span style=\"color: blue;\">グループ</span>によると、ジャマイカから「<span style=\"color:\
+  \ blue;\">オリンピック</span>で<ruby>下町<rt>したまち</rt></ruby>ボブスレーを<ruby>使<rt>つか</rt></ruby>わない」という<ruby>連絡<rt>れんらく</rt></ruby>がありました。</p>\n\
+  <p><span style=\"color: blue;\">グループ</span>は「<ruby>私<rt>わたし</rt></ruby>たちの<span\
+  \ style=\"color: blue;\">そり</span>を<span style=\"color: blue;\">オリンピック</span>で<ruby>使<rt>つか</rt></ruby>ってもらうことが<ruby>夢<rt>ゆめ</rt></ruby>です。とても<ruby>悲<rt>かな</rt></ruby>しいです」と<ruby>話<rt>はな</rt></ruby>しています。<span\
+  \ style=\"color: blue;\">グループ</span>は、ジャマイカがまた<ruby>使<rt>つか</rt></ruby>うと<ruby>言<rt>い</rt></ruby>うかもしれないため、<span\
+  \ style=\"color: blue;\">そり</span>をすぐ<ruby>使<rt>つか</rt></ruby>うことができるように<ruby>準備<rt>じゅんび</rt></ruby>をすることにしています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: 氷
+  descriptions:
+  - <ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>０度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。
+- word: コース
+  descriptions:
+  - <ruby><rb>進</rb><rt>すす</rt></ruby>んで<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>道</rb><rt>みち</rt></ruby>。<ruby><rb>進路</rb><rt>しんろ</rt></ruby>。
+  - <ruby><rb>競走</rb><rt>きょうそう</rt></ruby>で、そこを<ruby><rb>通</rb><rt>とお</rt></ruby>るように<ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>道</rb><rt>みち</rt></ruby>。
+  - <ruby><rb>学習</rb><rt>がくしゅう</rt></ruby>の<ruby><rb>内容</rb><rt>ないよう</rt></ruby>や<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>。<ruby><rb>課程</rb><rt>かてい</rt></ruby>。
+- word: そり
+  descriptions:
+  - <ruby><rb>雪</rb><rt>ゆき</rt></ruby>や<ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべらせて、<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011316271000/k10011316271000.html
+web_title_with_ruby: <ruby>下町<rt>したまち</rt></ruby><ruby>ボブスレー<rt>ぼぶすれー</rt></ruby>
+  「<ruby>五輪<rt>ごりん</rt></ruby>で<ruby>使<rt>つか</rt></ruby>わない」と<ruby>連絡<rt>れんらく</rt></ruby><ruby>受<rt>う</rt></ruby>ける
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/05/下町ボブスレー-五輪で使わないと連絡受ける
+related_news:
+- title: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<ruby>取<rt>と</rt></ruby>ったレアアースからＬＥＤライトを<ruby>作<rt>つく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2017/11/29/日本の海で取ったレアアースからLEDライトを作る
+- title: <ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>荻田<rt>おぎた</rt></ruby><ruby>泰永<rt>やすなが</rt></ruby>さんが<ruby>１人<rt>ひとり</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>いて<ruby>南極点<rt>なんきょくてん</rt></ruby>まで<ruby>行<rt>い</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/01/10/北海道の荻田泰永さんが1人で歩いて南極点まで行く
+- title: <ruby>長野県<rt>ながのけん</rt></ruby>の<ruby>鹿島槍ヶ岳<rt>かしまやりがたけ</rt></ruby>で「<ruby>氷河<rt>ひょうが</rt></ruby>」が<ruby>見<rt>み</rt></ruby>つかる
+  url: https://newswebeasy.github.io/news/easy/2018/01/19/長野県の鹿島槍ヶ岳で氷河が見つかる
+...
