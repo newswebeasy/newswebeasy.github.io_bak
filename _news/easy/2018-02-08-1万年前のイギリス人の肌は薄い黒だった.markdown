@@ -1,0 +1,61 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011320191000
+last_modified_at: '2018-02-08T17:20:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>08<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: イギリスの自然史博物館などの研究チームは、１９０３年にチェダーで見つかった人の骨のＤＮＡを調べました。
+title: 「１万年前のイギリス人の肌は薄い黒だった」
+title_with_ruby: 「１<ruby>万<rt>まん</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>のイギリス<ruby>人<rt>じん</rt></ruby>の<ruby>肌<rt>はだ</rt></ruby>は<ruby>薄<rt>うす</rt></ruby>い<ruby>黒<rt>くろ</rt></ruby>だった」
+outline: イギリスの自然史博物館などの研究チームは、１９０３年にチェダーで見つかった人の骨のＤＮＡを調べました。
+outline_with_ruby: イギリスの<ruby>自然史博物館<rt>しぜんしはくぶつかん</rt></ruby>などの<ruby>研究<rt>けんきゅう</rt></ruby>チームは、１９０３<ruby>年<rt>ねん</rt></ruby>にチェダーで<ruby>見<rt>み</rt></ruby>つかった<ruby>人<rt>ひと</rt></ruby>の<ruby>骨<rt>ほね</rt></ruby>のＤＮＡを<ruby>調<rt>しら</rt></ruby>べました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/08/K10011320191_1802080909_1802080927_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/08/k10011320191000.mp3
+content_with_ruby: "<p>イギリスの<ruby>自然史博物館<rt>しぜんしはくぶつかん</rt></ruby>などの<ruby>研究<rt>けんきゅう</rt></ruby><span\
+  \ style=\"color: blue;\">チーム</span>は、１９０３<ruby>年<rt>ねん</rt></ruby>にチェダーで<ruby>見<rt>み</rt></ruby>つかった<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>骨<rt>ほね</rt></ruby></span>の<span style=\"color: blue;\"\
+  >ＤＮＡ</span>を<ruby>調<rt>しら</rt></ruby>べました。この<span style=\"color: blue;\"><ruby>骨<rt>ほね</rt></ruby></span>は、１<ruby>万<rt>まん</rt></ruby><ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>骨<rt>ほね</rt></ruby></span>だと<ruby>言<rt>い</rt></ruby>われていて、「チェダーマン」と<ruby>呼<rt>よ</rt></ruby>ばれています。</p>\n\
+  <p><ruby>研究<rt>けんきゅう</rt></ruby><span style=\"color: blue;\">チーム</span>によると、チェダーマンは<span\
+  \ style=\"color: blue;\"><ruby>肌<rt>はだ</rt></ruby></span>が<ruby>薄<rt>うす</rt></ruby>い<ruby>黒<rt>くろ</rt></ruby>で<ruby>目<rt>め</rt></ruby>が<ruby>青<rt>あお</rt></ruby>かったことがわかりました。<ruby>髪<rt>かみ</rt></ruby>は、まっすぐではなくてカールしていました。</p>\n\
+  <p><ruby>今<rt>いま</rt></ruby>まで、チェダーマンの<span style=\"color: blue;\"><ruby>肌<rt>はだ</rt></ruby></span>は<ruby>白<rt>しろ</rt></ruby>いだろうと<ruby>言<rt>い</rt></ruby>われていました。しかしこの<ruby>研究<rt>けんきゅう</rt></ruby>で、<span\
+  \ style=\"color: blue;\">ヨーロッパ</span>の<ruby>人<rt>ひと</rt></ruby>の<span style=\"color:\
+  \ blue;\"><ruby>肌<rt>はだ</rt></ruby></span>が<ruby>白<rt>しろ</rt></ruby>くなったのは<ruby>考<rt>かんが</rt></ruby>えていたよりもっと<ruby>最近<rt>さいきん</rt></ruby>だとわかりました。</p>\n\
+  <p><ruby>自然史博物館<rt>しぜんしはくぶつかん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「１<ruby>万<rt>まん</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちがこのような<span\
+  \ style=\"color: blue;\"><ruby>肌<rt>はだ</rt></ruby></span>と<ruby>目<rt>め</rt></ruby>だったと<ruby>考<rt>かんが</rt></ruby>えていなかったので、とても<ruby>驚<rt>おどろ</rt></ruby>いています」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 肌
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>。
+  - <ruby><rb>土地</rb><rt>とち</rt></ruby>などの<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。
+  - <ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 骨
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>支</rb><rt>ささ</rt></ruby>えているかたいもの。
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>のしんにする<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>竹</rb><rt>たけ</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。
+  - ものごとの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。
+  - へこたれない<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。
+  - <ruby><rb>苦労</rb><rt>くろう</rt></ruby>なこと。
+- word: DNA
+  descriptions:
+  - <ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>の<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>遺伝子</rb><rt>いでんし</rt></ruby>を<ruby><rb>構成</rb><rt>こうせい</rt></ruby>する<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+source_url: http://www3.nhk.or.jp/news/easy/k10011320191000/k10011320191000.html
+web_title_with_ruby: <ruby>肌<rt>はだ</rt></ruby>は<ruby>浅黒<rt>あさぐろ</rt></ruby>かった <ruby>英<rt>えい</rt></ruby>で<ruby>発見<rt>はっけん</rt></ruby>の１<ruby>万<rt>まん</rt></ruby><ruby>年前<rt>ねんまえ</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>
+  ＤＮＡ<ruby>分析<rt>ぶんせき</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/08/肌は浅黒かった-英で発見の1万年前の男性-DNA分析
+related_news:
+- title: その<ruby>日<rt>ひ</rt></ruby>の<ruby>肌<rt>はだ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う<ruby>化粧<rt>けしょう</rt></ruby><ruby>品<rt>ひん</rt></ruby>を<ruby>家<rt>いえ</rt></ruby>で<ruby>作<rt>つく</rt></ruby>る<ruby>機械<rt>きかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/11/29/その日の肌に合う化粧品を家で作る機械
+- title: エジプトで<ruby>新<rt>あたら</rt></ruby>しい<ruby>種類<rt>しゅるい</rt></ruby>の<ruby>恐竜<rt>きょうりゅう</rt></ruby>の<ruby>化石<rt>かせき</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかる
+  url: https://newswebeasy.github.io/news/easy/2018/02/01/エジプトで新しい種類の恐竜の化石が見つかる
+- title: ロボットが<ruby>月<rt>つき</rt></ruby>から<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る<ruby>競争<rt>きょうそう</rt></ruby>「<ruby>勝<rt>か</rt></ruby>つチームはなさそう」
+  url: https://newswebeasy.github.io/news/easy/2018/01/25/ロボットが月から写真を送る競争勝つチームはなさそう
+...

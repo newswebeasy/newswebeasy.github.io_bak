@@ -1,0 +1,60 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011319091000
+last_modified_at: '2018-02-08T17:20:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>08<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: 山形県酒田市の鳥海山の近くには「玉簾の滝」という滝があります。
+title: 山形県　高さ６３ｍの滝が凍って美しい景色になる
+title_with_ruby: <ruby>山形県<rt>やまがたけん</rt></ruby>　<ruby>高<rt>たか</rt></ruby>さ６３ｍの<ruby>滝<rt>たき</rt></ruby>が<ruby>凍<rt>こお</rt></ruby>って<ruby>美<rt>うつく</rt></ruby>しい<ruby>景色<rt>けしき</rt></ruby>になる
+outline: 山形県酒田市の鳥海山の近くには「玉簾の滝」という滝があります。
+outline_with_ruby: <ruby>山形県<rt>やまがたけん</rt></ruby><ruby>酒田市<rt>さかたし</rt></ruby>の<ruby>鳥海山<rt>ちょうかいさん</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くには「<ruby>玉簾<rt>たますだれ</rt></ruby>の<ruby>滝<rt>たき</rt></ruby>」という<ruby>滝<rt>たき</rt></ruby>があります。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/07/K10011319091_1802071442_1802071443_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/08/k10011319091000.mp3
+content_with_ruby: "<p><ruby>山形県<rt>やまがたけん</rt></ruby><ruby>酒田市<rt>さかたし</rt></ruby>の<ruby>鳥海山<rt>ちょうかいさん</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くには「<ruby>玉簾<rt>たますだれ</rt></ruby>の<ruby>滝<rt>たき</rt></ruby>」という<span\
+  \ style=\"color: blue;\"><ruby>滝<rt>たき</rt></ruby></span>があります。<span style=\"color:\
+  \ blue;\"><ruby>滝<rt>たき</rt></ruby></span>の<ruby>高<rt>たか</rt></ruby>さは６３ｍです。</p>\n\
+  <p><ruby>寒<rt>さむ</rt></ruby>さが<ruby>厳<rt>きび</rt></ruby>しい<ruby>冬<rt>ふゆ</rt></ruby>には、<span\
+  \ style=\"color: blue;\"><ruby>滝<rt>たき</rt></ruby></span>の<ruby>水<rt>みず</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>凍<rt>こお</rt></ruby>り</span>ます。<ruby>今年<rt>ことし</rt></ruby>は１<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろから、<span\
+  \ style=\"color: blue;\"><ruby>滝<rt>たき</rt></ruby></span>が<span style=\"color: blue;\"\
+  ><ruby>凍<rt>こお</rt></ruby>り</span><ruby>始<rt>はじ</rt></ruby>めました。<ruby>薄<rt>うす</rt></ruby>い<ruby>青<rt>あお</rt></ruby><ruby>色<rt>いろ</rt></ruby>の<ruby>細<rt>ほそ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>がたくさんできて、とてもきれいな<ruby>景色<rt>けしき</rt></ruby>になりました。<ruby>長<rt>なが</rt></ruby>さが１０ｍぐらいの<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>氷<rt>こおり</rt></ruby></span>もあります。</p>\n<p><ruby>玉簾<rt>たますだれ</rt></ruby>の<ruby>滝<rt>たき</rt></ruby>は<ruby>酒田市<rt>さかたし</rt></ruby>の<ruby>有名<rt>ゆうめい</rt></ruby>な<span\
+  \ style=\"color: blue;\"><ruby>観光地<rt>かんこうち</rt></ruby></span>の<ruby>一<rt>ひと</rt></ruby>つですが、<ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby>から<ruby>雪<rt>ゆき</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を１０<ruby>分<rt>ぷん</rt></ruby>ぐらい<ruby>歩<rt>ある</rt></ruby>かなければなりません。<ruby>７日<rt>なのか</rt></ruby>は<ruby>雪<rt>ゆき</rt></ruby>が３０ｃｍぐらい<span\
+  \ style=\"color: blue;\"><ruby>積<rt>つ</rt></ruby>もっ</span>ていました。<ruby>酒田市<rt>さかたし</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>滝<rt>たき</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>にくるときは、<span\
+  \ style=\"color: blue;\"><ruby>長靴<rt>ながぐつ</rt></ruby></span>などをはいてきてください」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 滝
+  descriptions:
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>から、<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>落</rb><rt>お</rt></ruby>ちる<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>流</rb><rt>なが</rt></ruby>れ。
+- word: 凍る
+  descriptions:
+  - <ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。
+- word: 凍る
+  descriptions:
+  - <ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。
+- word: 氷
+  descriptions:
+  - <ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>０度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。
+- word: 観光地
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>が<ruby><rb>美</rb><rt>うつく</rt></ruby>しかったり、<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>があったりして、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 積もる
+  descriptions:
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かい<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>重</rb><rt>かさ</rt></ruby>なってたまる。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じようなことが<ruby><rb>何度</rb><rt>なんど</rt></ruby>も<ruby><rb>重</rb><rt>かさ</rt></ruby>なって、だんだん<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+- word: 長靴
+  descriptions:
+  - <ruby><rb>皮</rb><rt>かわ</rt></ruby>やゴムで<ruby><rb>作</rb><rt>つく</rt></ruby>った、ひざの<ruby><rb>近</rb><rt>ちか</rt></ruby>くまである<ruby><rb>長</rb><rt>なが</rt></ruby>いくつ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011319091000/k10011319091000.html
+web_title_with_ruby: <ruby>無数<rt>むすう</rt></ruby>の<ruby>巨大<rt>きょだい</rt></ruby>つらら <ruby>落差<rt>らくさ</rt></ruby>60<ruby>メートル<rt>めーとる</rt></ruby><ruby>玉簾<rt>たますだれ</rt></ruby>の<ruby>滝<rt>たき</rt></ruby>
+  <ruby>凍<rt>こお</rt></ruby>りつく <ruby>山形<rt>やまがた</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/07/無数の巨大つらら-落差60メートル玉簾の滝-凍りつく-山形
+related_news:
+- title: <ruby>和歌山県<rt>わかやまけん</rt></ruby>　<ruby>世界遺産<rt>せかいいさん</rt></ruby>の「<ruby>那智<rt>なち</rt></ruby>の<ruby>滝<rt>たき</rt></ruby>」の<ruby>下<rt>した</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<ruby>凍<rt>こお</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/01/26/和歌山県-世界遺産の那智の滝の下の水が凍る
+...
