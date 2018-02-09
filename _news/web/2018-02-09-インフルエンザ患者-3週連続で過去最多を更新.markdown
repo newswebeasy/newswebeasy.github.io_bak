@@ -1,0 +1,173 @@
+---
+layout: web_news
+categories: web
+newsid: k10011322011000
+title: インフルエンザ患者 ３週連続で過去最多を更新
+title_with_ruby: インフルエンザ<ruby>患者<rt data-ruby-level="7">かんじゃ</rt></ruby> ３<ruby>週<rt
+  data-ruby-level="2">しゅう</rt></ruby><ruby>連続<rt data-ruby-level="4">れんぞく</rt></ruby>で<ruby>過去<rt
+  data-ruby-level="5">かこ</rt></ruby><ruby>最多<rt data-ruby-level="4">さいた</rt></ruby>を<ruby>更新<rt
+  data-ruby-level="7">こうしん</rt></ruby>
+last_modified_at: '2018-02-09T16:19:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>02<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>09<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 16<ruby>時<rt data-ruby-level="2">じ</rt></ruby>19<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 全国のインフルエンザの患者数は今月４日までの１週間に１医療機関当たり５４．３３人と、統計をとり始めた平成１１年以降最も多かった前の週を上回り、３週連続で過去最多となりました。特に東日本で流行が拡大していて、国立感染症研究所は手洗いやマスクの着用など、感染対策の徹底を呼びかけています。
+summary: <ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby>のインフルエンザの<ruby>患者数<rt data-ruby-level="7">かんじゃすう</rt></ruby>は<ruby>今月<rt
+  data-ruby-level="2">こんげつ</rt></ruby>４<ruby>日<rt data-ruby-level="1">にち</rt></ruby>までの１<ruby>週間<rt
+  data-ruby-level="2">しゅうかん</rt></ruby>に１<ruby>医療<rt data-ruby-level="7">いりょう</rt></ruby><ruby>機関<rt
+  data-ruby-level="4">きかん</rt></ruby><ruby>当<rt data-ruby-level="2">あ</rt></ruby>たり５４．３３<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>と、<ruby>統計<rt data-ruby-level="5">とうけい</rt></ruby>をとり<ruby>始<rt
+  data-ruby-level="3">はじ</rt></ruby>めた<ruby>平成<rt data-ruby-level="4">へいせい</rt></ruby>１１<ruby>年以降<rt
+  data-ruby-level="6">ねんいこう</rt></ruby><ruby>最<rt data-ruby-level="4">もっと</rt></ruby>も<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>かった<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>の<ruby>週<rt
+  data-ruby-level="2">しゅう</rt></ruby>を<ruby>上回<rt data-ruby-level="2">うわまわ</rt></ruby>り、３<ruby>週<rt
+  data-ruby-level="2">しゅう</rt></ruby><ruby>連続<rt data-ruby-level="4">れんぞく</rt></ruby>で<ruby>過去<rt
+  data-ruby-level="5">かこ</rt></ruby><ruby>最多<rt data-ruby-level="4">さいた</rt></ruby>となりました。<ruby>特<rt
+  data-ruby-level="4">とく</rt></ruby>に<ruby>東日本<rt data-ruby-level="2">ひがしにほん</rt></ruby>で<ruby>流行<rt
+  data-ruby-level="3">りゅうこう</rt></ruby>が<ruby>拡大<rt data-ruby-level="6">かくだい</rt></ruby>していて、<ruby>国立<rt
+  data-ruby-level="2">こくりつ</rt></ruby><ruby>感染症<rt data-ruby-level="7">かんせんしょう</rt></ruby><ruby>研究所<rt
+  data-ruby-level="3">けんきゅうじょ</rt></ruby>は<ruby>手洗<rt data-ruby-level="6">てあら</rt></ruby>いやマスクの<ruby>着用<rt
+  data-ruby-level="3">ちゃくよう</rt></ruby>など、<ruby>感染<rt data-ruby-level="7">かんせん</rt></ruby><ruby>対策<rt
+  data-ruby-level="6">たいさく</rt></ruby>の<ruby>徹底<rt data-ruby-level="7">てってい</rt></ruby>を<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけています。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/09/K10011322011_1802090816_1802090817_01_02.jpg
+more: <ruby>国立<rt data-ruby-level="2">こくりつ</rt></ruby><ruby>感染症<rt data-ruby-level="7">かんせんしょう</rt></ruby><ruby>研究所<rt
+  data-ruby-level="3">けんきゅうじょ</rt></ruby>によりますと、<ruby>今月<rt data-ruby-level="2">こんげつ</rt></ruby>４<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>までの１<ruby>週間<rt data-ruby-level="2">しゅうかん</rt></ruby>に<ruby>全国<rt
+  data-ruby-level="3">ぜんこく</rt></ruby>およそ５０００の<ruby>医療<rt data-ruby-level="7">いりょう</rt></ruby><ruby>機関<rt
+  data-ruby-level="4">きかん</rt></ruby>から<ruby>報告<rt data-ruby-level="5">ほうこく</rt></ruby>されたインフルエンザの<ruby>患者数<rt
+  data-ruby-level="7">かんじゃすう</rt></ruby>は１<ruby>医療<rt data-ruby-level="7">いりょう</rt></ruby><ruby>機関<rt
+  data-ruby-level="4">きかん</rt></ruby><ruby>当<rt data-ruby-level="2">あ</rt></ruby>たり５４．３３<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>となり、<ruby>統計<rt data-ruby-level="5">とうけい</rt></ruby>をとり<ruby>始<rt
+  data-ruby-level="3">はじ</rt></ruby>めた<ruby>平成<rt data-ruby-level="4">へいせい</rt></ruby>１１<ruby>年以降<rt
+  data-ruby-level="6">ねんいこう</rt></ruby><ruby>最<rt data-ruby-level="4">もっと</rt></ruby>も<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>かった<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>の<ruby>週<rt
+  data-ruby-level="2">しゅう</rt></ruby>を<ruby>上回<rt data-ruby-level="2">うわまわ</rt></ruby>り、３<ruby>週<rt
+  data-ruby-level="2">しゅう</rt></ruby><ruby>連続<rt data-ruby-level="4">れんぞく</rt></ruby>で<ruby>過去<rt
+  data-ruby-level="5">かこ</rt></ruby><ruby>最多<rt data-ruby-level="4">さいた</rt></ruby>となりました。<br
+  /><br /><ruby>都道府県<rt data-ruby-level="4">とどうふけん</rt></ruby><ruby>別<rt data-ruby-level="4">べつ</rt></ruby>では、<ruby>大分県<rt
+  data-ruby-level="8">おおいたけん</rt></ruby>が７７．０９<ruby>人<rt data-ruby-level="1">にん</rt></ruby>と<ruby>最<rt
+  data-ruby-level="4">もっと</rt></ruby>も<ruby>多<rt data-ruby-level="2">おお</rt></ruby>く、<ruby>次<rt
+  data-ruby-level="3">つ</rt></ruby>いで、<ruby>福岡県<rt data-ruby-level="7">ふくおかけん</rt></ruby>が６９．９６<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>、<ruby>埼玉県<rt data-ruby-level="7">さいたまけん</rt></ruby>が６８．２９<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>、<ruby>神奈川県<rt data-ruby-level="8">かながわけん</rt></ruby>が６６．３１<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>などとなっています。<br /><ruby>国<rt data-ruby-level="2">くに</rt></ruby>は１<ruby>医療<rt
+  data-ruby-level="7">いりょう</rt></ruby><ruby>機関<rt data-ruby-level="4">きかん</rt></ruby><ruby>当<rt
+  data-ruby-level="2">あ</rt></ruby>たりの<ruby>患者数<rt data-ruby-level="7">かんじゃすう</rt></ruby>が３０<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>を<ruby>超<rt data-ruby-level="7">こ</rt></ruby>えると<ruby>警報<rt
+  data-ruby-level="6">けいほう</rt></ruby>レベルとしていますが、これまで<ruby>下回<rt data-ruby-level="2">したまわ</rt></ruby>っていた<ruby>北海道<rt
+  data-ruby-level="2">ほっかいどう</rt></ruby>も４５．３８<ruby>人<rt data-ruby-level="1">にん</rt></ruby>と、すべての<ruby>都道府県<rt
+  data-ruby-level="4">とどうふけん</rt></ruby>で<ruby>警報<rt data-ruby-level="6">けいほう</rt></ruby>レベルになり、<ruby>特<rt
+  data-ruby-level="4">とく</rt></ruby>に<ruby>東日本<rt data-ruby-level="2">ひがしにほん</rt></ruby>で<ruby>流行<rt
+  data-ruby-level="3">りゅうこう</rt></ruby>が<ruby>拡大<rt data-ruby-level="6">かくだい</rt></ruby>しています。<br
+  /><br />こうした<ruby>数値<rt data-ruby-level="6">すうち</rt></ruby>をもとにした<ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby>の<ruby>患者数<rt
+  data-ruby-level="7">かんじゃすう</rt></ruby>の<ruby>推計<rt data-ruby-level="6">すいけい</rt></ruby>は、およそ２８２<ruby>万人<rt
+  data-ruby-level="2">まんにん</rt></ruby>でした。<ruby>推計<rt data-ruby-level="6">すいけい</rt></ruby>の<ruby>患者数<rt
+  data-ruby-level="7">かんじゃすう</rt></ruby>を<ruby>年齢別<rt data-ruby-level="7">ねんれいべつ</rt></ruby>に<ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>ると、１０<ruby>歳未満<rt data-ruby-level="7">さいみまん</rt></ruby>がおよそ９１<ruby>万人<rt
+  data-ruby-level="2">まんにん</rt></ruby>、１０<ruby>歳<rt data-ruby-level="7">さい</rt></ruby>から１９<ruby>歳<rt
+  data-ruby-level="7">さい</rt></ruby>がおよそ６２<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>と、<ruby>依然<rt
+  data-ruby-level="7">いぜん</rt></ruby>、<ruby>若<rt data-ruby-level="6">わか</rt></ruby>い<ruby>世代<rt
+  data-ruby-level="3">せだい</rt></ruby>を<ruby>中心<rt data-ruby-level="2">ちゅうしん</rt></ruby>に<ruby>流行<rt
+  data-ruby-level="3">りゅうこう</rt></ruby>が<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>いています。<br
+  /><br />また、<ruby>国立<rt data-ruby-level="2">こくりつ</rt></ruby><ruby>感染症<rt data-ruby-level="7">かんせんしょう</rt></ruby><ruby>研究所<rt
+  data-ruby-level="3">けんきゅうじょ</rt></ruby>によりますと、これまでの５<ruby>週間<rt data-ruby-level="2">しゅうかん</rt></ruby>に<ruby>検出<rt
+  data-ruby-level="5">けんしゅつ</rt></ruby>されたのは、<ruby>Ｂ型<rt data-ruby-level="4">びーがた</rt></ruby>のウイルスが５２％、<ruby>Ａ型<rt
+  data-ruby-level="4">えーがた</rt></ruby>のウイルスが４８％と、<ruby>引<rt data-ruby-level="4">ひ</rt></ruby>き<ruby>続<rt
+  data-ruby-level="4">つづ</rt></ruby>き、<ruby>Ａ型<rt data-ruby-level="4">えーがた</rt></ruby>と<ruby>Ｂ型<rt
+  data-ruby-level="4">びーがた</rt></ruby>が<ruby>同時<rt data-ruby-level="2">どうじ</rt></ruby>に<ruby>流行<rt
+  data-ruby-level="3">りゅうこう</rt></ruby>する「<ruby>混合<rt data-ruby-level="5">こんごう</rt></ruby><ruby>流行<rt
+  data-ruby-level="3">りゅうこう</rt></ruby>」となっています。<br /><br /><ruby>国立<rt data-ruby-level="2">こくりつ</rt></ruby><ruby>感染症<rt
+  data-ruby-level="7">かんせんしょう</rt></ruby><ruby>研究所<rt data-ruby-level="3">けんきゅうじょ</rt></ruby>では「<ruby>全国的<rt
+  data-ruby-level="4">ぜんこくてき</rt></ruby>に<ruby>患者数<rt data-ruby-level="7">かんじゃすう</rt></ruby>が<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>い<ruby>状態<rt data-ruby-level="5">じょうたい</rt></ruby>で、<ruby>流行<rt
+  data-ruby-level="3">りゅうこう</rt></ruby>のピークが<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>いているとみられる。『<ruby>混合<rt
+  data-ruby-level="5">こんごう</rt></ruby><ruby>流行<rt data-ruby-level="3">りゅうこう</rt></ruby>』の<ruby>傾向<rt
+  data-ruby-level="7">けいこう</rt></ruby>も<ruby>変<rt data-ruby-level="4">か</rt></ruby>わらないので<ruby>患者数<rt
+  data-ruby-level="7">かんじゃすう</rt></ruby>が<ruby>急激<rt data-ruby-level="6">きゅうげき</rt></ruby>に<ruby>減<rt
+  data-ruby-level="5">へ</rt></ruby>ることはなく、<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きな<ruby>流行<rt
+  data-ruby-level="3">りゅうこう</rt></ruby>はしばらく<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>くのではないか」と<ruby>話<rt
+  data-ruby-level="2">はな</rt></ruby>していて、<ruby>手洗<rt data-ruby-level="6">てあら</rt></ruby>いやマスクの<ruby>着用<rt
+  data-ruby-level="3">ちゃくよう</rt></ruby>など、<ruby>感染<rt data-ruby-level="7">かんせん</rt></ruby><ruby>対策<rt
+  data-ruby-level="6">たいさく</rt></ruby>の<ruby>徹底<rt data-ruby-level="7">てってい</rt></ruby>を<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけています。
+movie_url: https://newswebeasy.github.io/ja201802/news/web/movie/2018/02/09/k10011322011_201802091217_201802091220.mp4
+voice_url: https://newswebeasy.github.io/ja201802/news/web/voice/2018/02/09/k10011322011_201802091217_201802091220.mp3
+body:
+- title: <ruby>感染<rt data-ruby-level="7">かんせん</rt></ruby>はどう<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>がった？
+  text: １<ruby>医療<rt data-ruby-level="7">いりょう</rt></ruby><ruby>機関<rt data-ruby-level="4">きかん</rt></ruby><ruby>当<rt
+    data-ruby-level="2">あ</rt></ruby>たりの<ruby>患者数<rt data-ruby-level="7">かんじゃすう</rt></ruby>を<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>ると、<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>１１<ruby>月<rt
+    data-ruby-level="1">がつ</rt></ruby>２６<ruby>日<rt data-ruby-level="1">にち</rt></ruby>までの１<ruby>週間<rt
+    data-ruby-level="2">しゅうかん</rt></ruby>にインフルエンザの<ruby>患者数<rt data-ruby-level="7">かんじゃすう</rt></ruby>の<ruby>全国<rt
+    data-ruby-level="3">ぜんこく</rt></ruby>の<ruby>平均<rt data-ruby-level="5">へいきん</rt></ruby>が１<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>を<ruby>超<rt data-ruby-level="7">こ</rt></ruby>え、<ruby>全国的<rt
+    data-ruby-level="4">ぜんこくてき</rt></ruby>な<ruby>流行<rt data-ruby-level="3">りゅうこう</rt></ruby><ruby>期<rt
+    data-ruby-level="3">き</rt></ruby>に<ruby>入<rt data-ruby-level="1">はい</rt></ruby>りました。<br
+    /><br />１２<ruby>月<rt data-ruby-level="1">がつ</rt></ruby><ruby>下旬<rt data-ruby-level="7">げじゅん</rt></ruby>になると<ruby>各地<rt
+    data-ruby-level="4">かくち</rt></ruby>で<ruby>患者<rt data-ruby-level="7">かんじゃ</rt></ruby>が<ruby>徐々<rt
+    data-ruby-level="7">じょじょ</rt></ruby>に<ruby>増<rt data-ruby-level="5">ふ</rt></ruby>え、<ruby>九州<rt
+    data-ruby-level="3">きゅうしゅう</rt></ruby>では<ruby>患者数<rt data-ruby-level="7">かんじゃすう</rt></ruby>が<ruby>警報<rt
+    data-ruby-level="6">けいほう</rt></ruby>レベルである３０<ruby>人<rt data-ruby-level="1">にん</rt></ruby>を<ruby>超<rt
+    data-ruby-level="7">こ</rt></ruby>える<ruby>県<rt data-ruby-level="3">けん</rt></ruby>も<ruby>出<rt
+    data-ruby-level="1">で</rt></ruby>てきます。<br /><br /><ruby>年<rt data-ruby-level="1">とし</rt></ruby>が<ruby>明<rt
+    data-ruby-level="2">あ</rt></ruby>けて１<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>１４<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>までの１<ruby>週間<rt data-ruby-level="2">しゅうかん</rt></ruby>に、<ruby>九州<rt
+    data-ruby-level="3">きゅうしゅう</rt></ruby>・<ruby>沖縄<rt data-ruby-level="7">おきなわ</rt></ruby>のすべての<ruby>県<rt
+    data-ruby-level="3">けん</rt></ruby>で３０<ruby>人<rt data-ruby-level="1">にん</rt></ruby>を<ruby>超<rt
+    data-ruby-level="7">こ</rt></ruby>えたほか、<ruby>四国<rt data-ruby-level="2">しこく</rt></ruby>や<ruby>本州<rt
+    data-ruby-level="3">ほんしゅう</rt></ruby>の<ruby>一部<rt data-ruby-level="3">いちぶ</rt></ruby>でも３０<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>に<ruby>達<rt data-ruby-level="4">たっ</rt></ruby>する<ruby>所<rt
+    data-ruby-level="3">ところ</rt></ruby>が<ruby>出始<rt data-ruby-level="3">ではじ</rt></ruby>めます。<br
+    /><br /><ruby>次<rt data-ruby-level="3">つぎ</rt></ruby>の<ruby>週<rt data-ruby-level="3">しゅう</rt></ruby>になると、<ruby>東日本<rt
+    data-ruby-level="2">ひがしにほん</rt></ruby>の<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>い<ruby>範囲<rt
+    data-ruby-level="7">はんい</rt></ruby>にも<ruby>流行<rt data-ruby-level="3">りゅうこう</rt></ruby>が<ruby>拡大<rt
+    data-ruby-level="6">かくだい</rt></ruby>します。ほとんどの<ruby>都府県<rt data-ruby-level="4">とふけん</rt></ruby>で３０<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>を<ruby>超<rt data-ruby-level="7">こ</rt></ruby>え、<ruby>特<rt
+    data-ruby-level="4">とく</rt></ruby>に<ruby>九州<rt data-ruby-level="3">きゅうしゅう</rt></ruby>の<ruby>一部<rt
+    data-ruby-level="3">いちぶ</rt></ruby>では８０<ruby>人<rt data-ruby-level="1">にん</rt></ruby>を<ruby>超<rt
+    data-ruby-level="7">こ</rt></ruby>えたほか、<ruby>太平洋側<rt data-ruby-level="4">たいへいようがわ</rt></ruby>の<ruby>一部<rt
+    data-ruby-level="3">いちぶ</rt></ruby>の<ruby>県<rt data-ruby-level="3">けん</rt></ruby>では６０<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>を<ruby>超<rt data-ruby-level="7">こ</rt></ruby>える<ruby>大<rt
+    data-ruby-level="1">おお</rt></ruby>きな<ruby>流行<rt data-ruby-level="3">りゅうこう</rt></ruby>になる<ruby>所<rt
+    data-ruby-level="3">ところ</rt></ruby>も<ruby>出<rt data-ruby-level="1">で</rt></ruby>ました。<br
+    /><br />さらに、<ruby>次<rt data-ruby-level="3">つぎ</rt></ruby>の<ruby>週<rt data-ruby-level="3">しゅう</rt></ruby>の１<ruby>月<rt
+    data-ruby-level="1">がつ</rt></ruby>２８<ruby>日<rt data-ruby-level="1">にち</rt></ruby>までの１<ruby>週間<rt
+    data-ruby-level="2">しゅうかん</rt></ruby>では３０<ruby>人以上<rt data-ruby-level="4">にんいじょう</rt></ruby>の<ruby>警報<rt
+    data-ruby-level="6">けいほう</rt></ruby>レベルは<ruby>北海道<rt data-ruby-level="2">ほっかいどう</rt></ruby>を<ruby>除<rt
+    data-ruby-level="6">のぞ</rt></ruby>くすべての<ruby>都府県<rt data-ruby-level="4">とふけん</rt></ruby>に<ruby>広<rt
+    data-ruby-level="2">ひろ</rt></ruby>がりました。また、<ruby>九州<rt data-ruby-level="3">きゅうしゅう</rt></ruby>・<ruby>沖縄<rt
+    data-ruby-level="7">おきなわ</rt></ruby>は<ruby>少<rt data-ruby-level="2">すこ</rt></ruby>し<ruby>下<rt
+    data-ruby-level="1">さ</rt></ruby>がったものの<ruby>高<rt data-ruby-level="2">たか</rt></ruby>い<ruby>状態<rt
+    data-ruby-level="5">じょうたい</rt></ruby>が<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>きます。<br
+    /><br />９<ruby>日<rt data-ruby-level="1">にち</rt></ruby>に<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>された２<ruby>月<rt
+    data-ruby-level="1">がつ</rt></ruby>４<ruby>日<rt data-ruby-level="1">にち</rt></ruby>までの<ruby>最新<rt
+    data-ruby-level="4">さいしん</rt></ruby>のデータでは<ruby>北海道<rt data-ruby-level="2">ほっかいどう</rt></ruby>も３０<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>を<ruby>超<rt data-ruby-level="7">こ</rt></ruby>え、すべての<ruby>都道府県<rt
+    data-ruby-level="4">とどうふけん</rt></ruby>が<ruby>警報<rt data-ruby-level="6">けいほう</rt></ruby>レベルに<ruby>達<rt
+    data-ruby-level="4">たっ</rt></ruby>しました。<ruby>九州<rt data-ruby-level="3">きゅうしゅう</rt></ruby>や<ruby>中国<rt
+    data-ruby-level="2">ちゅうごく</rt></ruby>・<ruby>四国地方<rt data-ruby-level="2">しこくちほう</rt></ruby>では<ruby>患者数<rt
+    data-ruby-level="7">かんじゃすう</rt></ruby>が<ruby>減少<rt data-ruby-level="5">げんしょう</rt></ruby>した<ruby>県<rt
+    data-ruby-level="3">けん</rt></ruby>が<ruby>多<rt data-ruby-level="2">おお</rt></ruby>くなっていますが、それでも１<ruby>医療<rt
+    data-ruby-level="7">いりょう</rt></ruby><ruby>機関<rt data-ruby-level="4">きかん</rt></ruby><ruby>当<rt
+    data-ruby-level="2">あ</rt></ruby>たりの<ruby>患者数<rt data-ruby-level="7">かんじゃすう</rt></ruby>は<ruby>九州<rt
+    data-ruby-level="3">きゅうしゅう</rt></ruby>を<ruby>中心<rt data-ruby-level="2">ちゅうしん</rt></ruby>に<ruby>多<rt
+    data-ruby-level="2">おお</rt></ruby>い<ruby>状態<rt data-ruby-level="5">じょうたい</rt></ruby>が<ruby>続<rt
+    data-ruby-level="4">つづ</rt></ruby>いています。
+source_url: https://www3.nhk.or.jp/news/html/20180209/k10011322011000.html
+easy_title_with_ruby: インフルエンザの<ruby>流行<rt data-ruby-level="3">りゅうこう</rt></ruby>が<ruby>続<rt
+  data-ruby-level="4">つづ</rt></ruby>いている １<ruby>週間<rt data-ruby-level="2">しゅうかん</rt></ruby>に２８２<ruby>万人<rt
+  data-ruby-level="2">まんにん</rt></ruby>
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/02/09/インフルエンザの流行が続いている-1週間に282万人
+related_news:
+- title: インフルエンザ<ruby>患者数<rt data-ruby-level="7">かんじゃすう</rt></ruby> <ruby>統計<rt data-ruby-level="5">とうけい</rt></ruby><ruby>開始<rt
+    data-ruby-level="3">かいし</rt></ruby><ruby>以降<rt data-ruby-level="6">いこう</rt></ruby><ruby>最多<rt
+    data-ruby-level="4">さいた</rt></ruby>に <ruby>前週比<rt data-ruby-level="5">ぜんしゅうひ</rt></ruby>112<ruby>万人<rt
+    data-ruby-level="2">まんにん</rt></ruby><ruby>増<rt data-ruby-level="5">ぞう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/26/インフルエンザ患者数-統計開始以降最多に-前週比112万人増
+- title: インフル<ruby>流行<rt data-ruby-level="3">りゅうこう</rt></ruby><ruby>拡大<rt data-ruby-level="6">かくだい</rt></ruby>
+    <ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby>で<ruby>推計<rt data-ruby-level="6">すいけい</rt></ruby>124<ruby>万人<rt
+    data-ruby-level="2">まんにん</rt></ruby> <ruby>受験生<rt data-ruby-level="4">じゅけんせい</rt></ruby>や<ruby>高齢者<rt
+    data-ruby-level="7">こうれいしゃ</rt></ruby><ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/15/インフル流行拡大-全国で推計124万人-受験生や高齢者注意
+...

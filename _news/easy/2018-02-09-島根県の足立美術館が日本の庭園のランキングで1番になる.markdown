@@ -1,0 +1,63 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011319561000
+last_modified_at: '2018-02-09T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>09<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 日本の庭園について書いているアメリカの雑誌があります。
+title: 島根県の足立美術館が日本の庭園のランキングで１番になる
+title_with_ruby: <ruby>島根県<rt>しまねけん</rt></ruby>の<ruby>足立美術館<rt>あだちびじゅつかん</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>庭園<rt>ていえん</rt></ruby>のランキングで１<ruby>番<rt>ばん</rt></ruby>になる
+outline: 日本の庭園について書いているアメリカの雑誌があります。
+outline_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>庭園<rt>ていえん</rt></ruby>について<ruby>書<rt>か</rt></ruby>いているアメリカの<ruby>雑誌<rt>ざっし</rt></ruby>があります。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/07/K10011319561_1802072041_1802072041_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/09/k10011319561000.mp3
+content_with_ruby: "<p><ruby>日本<rt>にっぽん</rt></ruby>の<span style=\"color: blue;\"><ruby>庭園<rt>ていえん</rt></ruby></span>について<ruby>書<rt>か</rt></ruby>いているアメリカの<ruby>雑誌<rt>ざっし</rt></ruby>があります。この<ruby>雑誌<rt>ざっし</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>にある<span\
+  \ style=\"color: blue;\"><ruby>庭園<rt>ていえん</rt></ruby></span>の<ruby>美<rt>うつく</rt></ruby>しさや<ruby>建物<rt>たてもの</rt></ruby>との<span\
+  \ style=\"color: blue;\">バランス</span>などを<ruby>調<rt>しら</rt></ruby>べて、<ruby>毎年<rt>まいとし</rt></ruby><span\
+  \ style=\"color: blue;\">ランキング</span>を<span style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しています。</p>\n\
+  <p><ruby>去年<rt>きょねん</rt></ruby>は、９００<ruby>以上<rt>いじょう</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>庭園<rt>ていえん</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、<ruby>島根県<rt>しまねけん</rt></ruby><ruby>安来市<rt>やすぎし</rt></ruby>の<ruby>足立美術館<rt>あだちびじゅつかん</rt></ruby>が１<ruby>番<rt>ばん</rt></ruby>になりました。<ruby>足立美術館<rt>あだちびじゅつかん</rt></ruby>は１５<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて１<ruby>番<rt>ばん</rt></ruby>です。</p>\n\
+  <p><ruby>足立美術館<rt>あだちびじゅつかん</rt></ruby>は、１６．５<span style=\"color: blue;\">ｈａ</span>の<ruby>広<rt>ひろ</rt></ruby>い<ruby>場所<rt>ばしょ</rt></ruby>に６つの<span\
+  \ style=\"color: blue;\"><ruby>庭園<rt>ていえん</rt></ruby></span>があります。この<ruby>中<rt>なか</rt></ruby>の「<ruby>枯山水<rt>かれさんすい</rt></ruby>の<ruby>庭<rt>にわ</rt></ruby>」は<ruby>石<rt>いし</rt></ruby>と<ruby>白<rt>しろ</rt></ruby>い<ruby>砂<rt>すな</rt></ruby>で<ruby>山<rt>やま</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>流<rt>なが</rt></ruby>れる</span><ruby>水<rt>みず</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>表現<rt>ひょうげん</rt></ruby></span>しています。</p>\n<p><ruby>雑誌<rt>ざっし</rt></ruby>には「<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>庭園<rt>ていえん</rt></ruby></span>が<ruby>好<rt>す</rt></ruby>きなら、<ruby>足立美術館<rt>あだちびじゅつかん</rt></ruby>を<ruby>見<rt>み</rt></ruby>るために<ruby>島根県<rt>しまねけん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>かなければなりません」と<ruby>書<rt>か</rt></ruby>いてあります。</p>\n\
+  <p><ruby>足立美術館<rt>あだちびじゅつかん</rt></ruby>は「これからも<span style=\"color: blue;\"><ruby>庭園<rt>ていえん</rt></ruby></span>のすばらしさを<ruby>世界<rt>せかい</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>えていきたいです」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 庭園
+  descriptions:
+  - <ruby><rb>草木</rb><rt>くさき</rt></ruby>を<ruby><rb>植</rb><rt>う</rt></ruby>え、<ruby><rb>築山</rb><rt>つきやま</rt></ruby>や<ruby><rb>池</rb><rt>いけ</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったりした、<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>庭</rb><rt>にわ</rt></ruby>。
+- word: ランキング
+  descriptions:
+  - <ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。
+- word: バランス
+  descriptions:
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>い。<ruby><rb>平均</rb><rt>へいきん</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: ヘクタール
+  descriptions:
+  - メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>土地</rb><rt>とち</rt></ruby>の<ruby><rb>面積</rb><rt>めんせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「ha」。１ヘクタールは、１００アールで、<ruby><rb>一万平方</rb><rt>いちまんへいほう</rt></ruby>メートル。
+- word: 流れる
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。
+  - <ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。
+  - うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - とりやめになる。
+- word: 表現
+  descriptions:
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えたことや<ruby><rb>思</rb><rt>おも</rt></ruby>ったことを、ことば・<ruby><rb>身</rb><rt>み</rt></ruby>ぶり・<ruby><rb>文字</rb><rt>もじ</rt></ruby>・<ruby><rb>色</rb><rt>いろ</rt></ruby>・<ruby><rb>音</rb><rt>おと</rt></ruby>などで<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、その<ruby><rb>表</rb><rt>あらわ</rt></ruby>し<ruby><rb>方</rb><rt>かた</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011319561000/k10011319561000.html
+web_title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby><ruby>庭園<rt>ていえん</rt></ruby><ruby>ランク<rt>らんく</rt></ruby>で<ruby>足立<rt>あだち</rt></ruby><ruby>美術館<rt>びじゅつかん</rt></ruby>が１５<ruby>年<rt>ねん</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby><ruby>日本一<rt>にっぽんいち</rt></ruby>
+  <ruby>島根<rt>しまね</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/07/日本庭園ランクで足立美術館が15年連続日本一-島根
+related_news:
+- title: アメリカのボストン<ruby>美術館<rt>びじゅつかん</rt></ruby>が<ruby>犬<rt>いぬ</rt></ruby>を<ruby>職員<rt>しょくいん</rt></ruby>にする
+  url: https://newswebeasy.github.io/news/easy/2018/01/15/アメリカのボストン美術館が犬を職員にする
+- title: 「<ruby>中国人<rt>ちゅうごくじん</rt></ruby>が<ruby>行<rt>い</rt></ruby>きたい<ruby>国<rt>くに</rt></ruby>」で<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めて１<ruby>番<rt>ばん</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2017/12/19/中国人が行きたい国で日本が初めて1番になる
+...

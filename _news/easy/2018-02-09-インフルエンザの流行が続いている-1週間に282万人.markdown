@@ -1,0 +1,78 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011322011000
+last_modified_at: '2018-02-09T16:20:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>09<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: インフルエンザが流行しています。
+title: インフルエンザの流行が続いている　１週間に２８２万人
+title_with_ruby: インフルエンザの<ruby>流行<rt>りゅうこう</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いている　１<ruby>週間<rt>しゅうかん</rt></ruby>に２８２<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>
+outline: インフルエンザが流行しています。
+outline_with_ruby: インフルエンザが<ruby>流行<rt>りゅうこう</rt></ruby>しています。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/09/K10011322011_1802090816_1802090817_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/09/k10011322011000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\">インフルエンザ</span>が<span style=\"\
+  color: blue;\"><ruby>流行<rt>りゅうこう</rt></ruby></span>しています。<ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>は、１<ruby>月<rt>がつ</rt></ruby>２９<ruby>日<rt>にち</rt></ruby>から２<ruby>月<rt>がつ</rt></ruby><ruby>４日<rt>よっか</rt></ruby>までの１<ruby>週間<rt>しゅうかん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>２８２<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>が<span\
+  \ style=\"color: blue;\">インフルエンザ</span>になったようだと<span style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n\
+  <p><span style=\"color: blue;\">インフルエンザ</span>になった<ruby>人<rt>ひと</rt></ruby>は<ruby>特<rt>とく</rt></ruby>に<ruby>東日本<rt>ひがしにほん</rt></ruby>で<ruby>多<rt>おお</rt></ruby>くて、<ruby>今<rt>いま</rt></ruby>まで<ruby>少<rt>すく</rt></ruby>なかった<ruby>北海道<rt>ほっかいどう</rt></ruby>でも<ruby>多<rt>おお</rt></ruby>くなってきました。</p>\n\
+  <p><span style=\"color: blue;\">インフルエンザ</span>になった<ruby>人<rt>ひと</rt></ruby>は、０<ruby>歳<rt>さい</rt></ruby>から９<ruby>歳<rt>さい</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>９１<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>、１０<ruby>歳<rt>さい</rt></ruby>から１９<ruby>歳<rt>さい</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>６２<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>で、<ruby>子<rt>こ</rt></ruby>どもと<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなっています。</p>\n\
+  <p><ruby>見<rt>み</rt></ruby>つかった<span style=\"color: blue;\">ウイルス</span>は、Ｂ<ruby>型<rt>がた</rt></ruby>が５２％、Ａ<ruby>型<rt>がた</rt></ruby>が４８％で、どちらも<ruby>同<rt>おな</rt></ruby>じぐらい<span\
+  \ style=\"color: blue;\"><ruby>流行<rt>りゅうこう</rt></ruby></span>しています。<ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>は、<span\
+  \ style=\"color: blue;\">インフルエンザ</span>にならないように<ruby>手<rt>て</rt></ruby>をよく<ruby>洗<rt>あら</rt></ruby>って、<span\
+  \ style=\"color: blue;\">マスク</span>を<span style=\"color: blue;\">つける</span>ように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: インフルエンザ
+  descriptions:
+  - のどや<ruby><rb>気管</rb><rt>きかん</rt></ruby>などが、ウイルスによってただれる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。かぜに<ruby><rb>似</rb><rt>に</rt></ruby>ているが、<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>て、うつりやすい。<ruby><rb>流行性感冒</rb><rt>りゅうこうせいかんぼう</rt></ruby>。<ruby><rb>流感</rb><rt>りゅうかん</rt></ruby>。
+- word: 流行
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>くはやること。はやり。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: ウイルス
+  descriptions:
+  - <ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。
+- word: マスク
+  descriptions:
+  - お<ruby><rb>面</rb><rt>めん</rt></ruby>。<ruby><rb>仮面</rb><rt>かめん</rt></ruby>。
+  - ほこりなどを<ruby><rb>吸</rb><rt>す</rt></ruby>わないように、<ruby><rb>口</rb><rt>くち</rt></ruby>や<ruby><rb>鼻</rb><rt>はな</rt></ruby>をおおう<ruby><rb>布</rb><rt>ぬの</rt></ruby>。
+  - ガスなどを<ruby><rb>吸</rb><rt>す</rt></ruby>わないように、<ruby><rb>消防士</rb><rt>しょうぼうし</rt></ruby>などが<ruby><rb>顔</rb><rt>かお</rt></ruby>につけるお<ruby><rb>面</rb><rt>めん</rt></ruby>。<ruby><rb>防毒面</rb><rt>ぼうどくめん</rt></ruby>。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、キャッチャーや<ruby><rb>球審</rb><rt>きゅうしん</rt></ruby>がかぶるもの。
+  - <ruby><rb>顔</rb><rt>かお</rt></ruby>。<ruby><rb>顔</rb><rt>かお</rt></ruby>だち。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+source_url: http://www3.nhk.or.jp/news/easy/k10011322011000/k10011322011000.html
+web_title_with_ruby: <ruby>インフルエンザ<rt>いんふるえんざ</rt></ruby><ruby>患者<rt>かんじゃ</rt></ruby>
+  ３<ruby>週<rt>しゅう</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby>で<ruby>過去<rt>かこ</rt></ruby><ruby>最多<rt>さいた</rt></ruby>を<ruby>更新<rt>こうしん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/09/インフルエンザ患者-3週連続で過去最多を更新
+related_news:
+- title: インフルエンザになった<ruby>人<rt>ひと</rt></ruby>が<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/01/26/インフルエンザになった人が今まででいちばん多くなる
+- title: インフルエンザになる<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えて<ruby>流行<rt>りゅうこう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2017/12/01/インフルエンザになる人が増えて流行が始まる
+- title: インフルエンザになる<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えているので<ruby>気<rt>き</rt></ruby>をつけて
+  url: https://newswebeasy.github.io/news/easy/2018/01/17/インフルエンザになる人が増えているので気をつけて
+- title: インフルエンザになった<ruby>人<rt>ひと</rt></ruby>が<ruby>異常<rt>いじょう</rt></ruby>な<ruby>行動<rt>こうどう</rt></ruby>　８<ruby>年<rt>ねん</rt></ruby>で４０４<ruby>件<rt>けん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/11/28/インフルエンザになった人が異常な行動-8年で404件
+...
