@@ -1,0 +1,264 @@
+---
+layout: web_news
+categories: web
+newsid: k10011323301000
+title: ピョンチャンオリンピックが開幕
+title_with_ruby: ピョンチャンオリンピックが<ruby>開幕<rt data-ruby-level="6">かいまく</rt></ruby>
+last_modified_at: '2018-02-10T00:26:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>02<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>10<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 00<ruby>時<rt data-ruby-level="2">じ</rt></ruby>26<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 韓国で初めての冬のオリンピックとなるピョンチャンオリンピックが９日夜、開幕しました。
+summary: <ruby>韓国<rt data-ruby-level="7">かんこく</rt></ruby>で<ruby>初<rt data-ruby-level="4">はじ</rt></ruby>めての<ruby>冬<rt
+  data-ruby-level="2">ふゆ</rt></ruby>のオリンピックとなるピョンチャンオリンピックが９<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>夜<rt
+  data-ruby-level="2">よる</rt></ruby>、<ruby>開幕<rt data-ruby-level="6">かいまく</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/09/K10011323301_1802092038_1802092041_01_02.jpg
+more: ピョンチャンオリンピックは、<ruby>冬<rt data-ruby-level="2">ふゆ</rt></ruby>の<ruby>大会<rt data-ruby-level="2">たいかい</rt></ruby>で<ruby>過去<rt
+  data-ruby-level="5">かこ</rt></ruby><ruby>最多<rt data-ruby-level="4">さいた</rt></ruby>だった<ruby>前回<rt
+  data-ruby-level="2">ぜんかい</rt></ruby>のソチ<ruby>大会<rt data-ruby-level="2">たいかい</rt></ruby>を<ruby>上回<rt
+  data-ruby-level="2">うわまわ</rt></ruby>る９２の<ruby>国<rt data-ruby-level="2">くに</rt></ruby>と<ruby>地域<rt
+  data-ruby-level="6">ちいき</rt></ruby>などが<ruby>参加<rt data-ruby-level="4">さんか</rt></ruby>し、<ruby>開会式<rt
+  data-ruby-level="3">かいかいしき</rt></ruby>は、ピョンチャンオリンピックスタジアムで<ruby>午後<rt data-ruby-level="2">ごご</rt></ruby>８<ruby>時<rt
+  data-ruby-level="2">じ</rt></ruby>から<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>まりました。<ruby>今大会<rt
+  data-ruby-level="2">こんたいかい</rt></ruby>は「１つになる<ruby>情熱<rt data-ruby-level="5">じょうねつ</rt></ruby>」をテーマにしていて、<ruby>韓国<rt
+  data-ruby-level="7">かんこく</rt></ruby>の<ruby>伝統的<rt data-ruby-level="5">でんとうてき</rt></ruby>な<ruby>衣装<rt
+  data-ruby-level="7">いしょう</rt></ruby>を<ruby>着<rt data-ruby-level="3">き</rt></ruby>た<ruby>女性<rt
+  data-ruby-level="5">じょせい</rt></ruby>たちが<ruby>太鼓<rt data-ruby-level="7">たいこ</rt></ruby>を<ruby>打<rt
+  data-ruby-level="3">う</rt></ruby>ち<ruby>鳴<rt data-ruby-level="3">な</rt></ruby>らすなど<ruby>情熱的<rt
+  data-ruby-level="5">じょうねつてき</rt></ruby>な<ruby>演出<rt data-ruby-level="5">えんしゅつ</rt></ruby>で<ruby>平和<rt
+  data-ruby-level="3">へいわ</rt></ruby>への<ruby>願<rt data-ruby-level="4">ねが</rt></ruby>いが<ruby>表現<rt
+  data-ruby-level="5">ひょうげん</rt></ruby>されました。<br /><br />このあと、オリンピック<ruby>発祥<rt data-ruby-level="7">はっしょう</rt></ruby>の<ruby>地<rt
+  data-ruby-level="2">ち</rt></ruby>、ギリシャを<ruby>先頭<rt data-ruby-level="2">せんとう</rt></ruby>に、それぞれの<ruby>国<rt
+  data-ruby-level="2">くに</rt></ruby>と<ruby>地域<rt data-ruby-level="6">ちいき</rt></ruby>の<ruby>選手<rt
+  data-ruby-level="4">せんしゅ</rt></ruby>などがハングル<ruby>文字<rt data-ruby-level="1">もじ</rt></ruby>の<ruby>順<rt
+  data-ruby-level="4">じゅん</rt></ruby>に<ruby>入場<rt data-ruby-level="2">にゅうじょう</rt></ruby><ruby>行進<rt
+  data-ruby-level="3">こうしん</rt></ruby>をしました。
+body:
+- title: <ruby>個人<rt data-ruby-level="5">こじん</rt></ruby><ruby>資格<rt data-ruby-level="5">しかく</rt></ruby>で<ruby>出場<rt
+    data-ruby-level="2">しゅつじょう</rt></ruby>のロシア<ruby>出身<rt data-ruby-level="3">しゅっしん</rt></ruby>の<ruby>選手<rt
+    data-ruby-level="4">せんしゅ</rt></ruby>は５５<ruby>番目<rt data-ruby-level="2">ばんめ</rt></ruby>に<ruby>入場<rt
+    data-ruby-level="2">にゅうじょう</rt></ruby>
+  text: <ruby>入場<rt data-ruby-level="2">にゅうじょう</rt></ruby><ruby>行進<rt data-ruby-level="3">こうしん</rt></ruby>では、<ruby>組織的<rt
+    data-ruby-level="5">そしきてき</rt></ruby>なドーピング<ruby>問題<rt data-ruby-level="3">もんだい</rt></ruby>で<ruby>国<rt
+    data-ruby-level="2">くに</rt></ruby>としての<ruby>出場<rt data-ruby-level="2">しゅつじょう</rt></ruby>が<ruby>認<rt
+    data-ruby-level="6">みと</rt></ruby>められず、「<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby><ruby>資格<rt
+    data-ruby-level="5">しかく</rt></ruby>で<ruby>出場<rt data-ruby-level="2">しゅつじょう</rt></ruby>のロシア<ruby>出身<rt
+    data-ruby-level="3">しゅっしん</rt></ruby>の<ruby>選手<rt data-ruby-level="4">せんしゅ</rt></ruby>」が、<ruby>国旗<rt
+    data-ruby-level="4">こっき</rt></ruby>ではなくオリンピック<ruby>旗<rt data-ruby-level="4">ばた</rt></ruby>のもと５５<ruby>番目<rt
+    data-ruby-level="2">ばんめ</rt></ruby>に<ruby>登場<rt data-ruby-level="3">とうじょう</rt></ruby>しました。
+  textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/09/K10011323301_1802092153_1802092155_01_03.jpg
+- title: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>選手団<rt data-ruby-level="5">せんしゅだん</rt></ruby>が<ruby>入場<rt
+    data-ruby-level="2">にゅうじょう</rt></ruby>
+  text: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>は６２<ruby>番目<rt data-ruby-level="2">ばんめ</rt></ruby>に<ruby>登場<rt
+    data-ruby-level="3">とうじょう</rt></ruby>し、<ruby>史上<rt data-ruby-level="4">しじょう</rt></ruby><ruby>最多<rt
+    data-ruby-level="4">さいた</rt></ruby>８<ruby>回目<rt data-ruby-level="2">かいめ</rt></ruby>の<ruby>冬<rt
+    data-ruby-level="2">ふゆ</rt></ruby>のオリンピック<ruby>出場<rt data-ruby-level="2">しゅつじょう</rt></ruby>を<ruby>果<rt
+    data-ruby-level="4">は</rt></ruby>たしたスキージャンプ<ruby>男子<rt data-ruby-level="1">だんし</rt></ruby>の<ruby>葛西<rt
+    data-ruby-level="8">かさい</rt></ruby><ruby>紀明<rt data-ruby-level="8">のりあき</rt></ruby><ruby>選手<rt
+    data-ruby-level="4">せんしゅ</rt></ruby>が<ruby>旗手<rt data-ruby-level="4">きしゅ</rt></ruby>を<ruby>務<rt
+    data-ruby-level="5">つと</rt></ruby>め、<ruby>厳<rt data-ruby-level="6">きび</rt></ruby>しい<ruby>寒<rt
+    data-ruby-level="3">さむ</rt></ruby>さで<ruby>体調<rt data-ruby-level="3">たいちょう</rt></ruby><ruby>管理<rt
+    data-ruby-level="4">かんり</rt></ruby>などを<ruby>優先<rt data-ruby-level="6">ゆうせん</rt></ruby>させておよそ７<ruby>割<rt
+    data-ruby-level="6">わり</rt></ruby>の<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>選手<rt
+    data-ruby-level="4">せんしゅ</rt></ruby>が<ruby>欠席<rt data-ruby-level="4">けっせき</rt></ruby>する<ruby>中<rt
+    data-ruby-level="1">なか</rt></ruby>、ジャンプ<ruby>女子<rt data-ruby-level="1">じょし</rt></ruby>の<ruby>高梨<rt
+    data-ruby-level="7">たかなし</rt></ruby><ruby>沙羅<rt data-ruby-level="7">さら</rt></ruby><ruby>選手<rt
+    data-ruby-level="4">せんしゅ</rt></ruby>などが<ruby>笑顔<rt data-ruby-level="7">えがお</rt></ruby>を<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>せていました。<br /><br /><ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>からは<ruby>海外<rt
+    data-ruby-level="2">かいがい</rt></ruby>で<ruby>開<rt data-ruby-level="3">ひら</rt></ruby>かれた<ruby>冬<rt
+    data-ruby-level="2">ふゆ</rt></ruby>の<ruby>大会<rt data-ruby-level="2">たいかい</rt></ruby>で<ruby>過去<rt
+    data-ruby-level="5">かこ</rt></ruby><ruby>最多<rt data-ruby-level="4">さいた</rt></ruby>の１２４<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>の<ruby>選手<rt data-ruby-level="4">せんしゅ</rt></ruby>が<ruby>参加<rt
+    data-ruby-level="4">さんか</rt></ruby>し、<ruby>目標<rt data-ruby-level="4">もくひょう</rt></ruby>に、<ruby>複数<rt
+    data-ruby-level="5">ふくすう</rt></ruby>の<ruby>金<rt data-ruby-level="1">きん</rt></ruby><ruby>メダル<rt
+    data-ruby-level="1">めだる</rt></ruby>と<ruby>総数<rt data-ruby-level="5">そうすう</rt></ruby>で８<ruby>個<rt
+    data-ruby-level="5">こ</rt></ruby>を<ruby>超<rt data-ruby-level="7">こ</rt></ruby>えるメダル<ruby>獲得<rt
+    data-ruby-level="7">かくとく</rt></ruby>を<ruby>掲<rt data-ruby-level="7">かか</rt></ruby>げています。
+  textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/09/K10011323301_1802092118_1802092120_01_03.jpg
+- title: <ruby>極寒<rt data-ruby-level="7">ごっかん</rt></ruby>の<ruby>中<rt data-ruby-level="1">なか</rt></ruby>
+    <ruby>上半身<rt data-ruby-level="3">じょうはんしん</rt></ruby><ruby>裸<rt data-ruby-level="7">はだか</rt></ruby>で<ruby>入場<rt
+    data-ruby-level="2">にゅうじょう</rt></ruby>したのは
+  text: <ruby>南<rt data-ruby-level="2">みなみ</rt></ruby><ruby>太平洋<rt data-ruby-level="3">たいへいよう</rt></ruby>の<ruby>島国<rt
+    data-ruby-level="3">しまぐに</rt></ruby>、トンガのピタ・タウファトフア<ruby>選手<rt data-ruby-level="4">せんしゅ</rt></ruby>が<ruby>厳<rt
+    data-ruby-level="6">きび</rt></ruby>しい<ruby>寒<rt data-ruby-level="3">さむ</rt></ruby>さの<ruby>中<rt
+    data-ruby-level="1">なか</rt></ruby>、<ruby>上半身<rt data-ruby-level="3">じょうはんしん</rt></ruby><ruby>裸<rt
+    data-ruby-level="7">はだか</rt></ruby>に<ruby>民族衣装<rt data-ruby-level="7">みんぞくいしょう</rt></ruby>という<ruby>格好<rt
+    data-ruby-level="5">かっこう</rt></ruby>で<ruby>旗手<rt data-ruby-level="4">きしゅ</rt></ruby>として<ruby>入場<rt
+    data-ruby-level="2">にゅうじょう</rt></ruby>し、<ruby>会場<rt data-ruby-level="2">かいじょう</rt></ruby>を<ruby>沸<rt
+    data-ruby-level="7">わ</rt></ruby>かせました。
+  textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/09/K10011323301_1802092208_1802092210_01_06.jpg
+- title: <ruby>韓国<rt data-ruby-level="7">かんこく</rt></ruby>と<ruby>北朝鮮<rt data-ruby-level="7">きたちょうせん</rt></ruby>の<ruby>選手団<rt
+    data-ruby-level="5">せんしゅだん</rt></ruby> ともに<ruby>入場<rt data-ruby-level="2">にゅうじょう</rt></ruby>
+  text: <ruby>最後<rt data-ruby-level="4">さいご</rt></ruby>には<ruby>韓国<rt data-ruby-level="7">かんこく</rt></ruby>と<ruby>北朝鮮<rt
+    data-ruby-level="7">きたちょうせん</rt></ruby>の<ruby>選手団<rt data-ruby-level="5">せんしゅだん</rt></ruby>がともに<ruby>入場<rt
+    data-ruby-level="2">にゅうじょう</rt></ruby>し<ruby>両国<rt data-ruby-level="3">りょうこく</rt></ruby>の<ruby>選手<rt
+    data-ruby-level="4">せんしゅ</rt></ruby>が２<ruby>人<rt data-ruby-level="1">にん</rt></ruby>で<ruby>一緒<rt
+    data-ruby-level="7">いっしょ</rt></ruby>に、<ruby>朝鮮半島<rt data-ruby-level="7">ちょうせんはんとう</rt></ruby>が<ruby>描<rt
+    data-ruby-level="7">えが</rt></ruby>かれた<ruby>統一旗<rt data-ruby-level="5">とういつき</rt></ruby>を<ruby>持<rt
+    data-ruby-level="3">も</rt></ruby>って<ruby>入場<rt data-ruby-level="2">にゅうじょう</rt></ruby>すると<ruby>会場<rt
+    data-ruby-level="2">かいじょう</rt></ruby>は<ruby>盛<rt data-ruby-level="6">も</rt></ruby>り<ruby>上<rt
+    data-ruby-level="6">あ</rt></ruby>がりを<ruby>見<rt data-ruby-level="1">み</rt></ruby>せました。<br
+    /><ruby>選手団<rt data-ruby-level="5">せんしゅだん</rt></ruby>は、<ruby>朝鮮半島<rt data-ruby-level="7">ちょうせんはんとう</rt></ruby>の<ruby>民謡<rt
+    data-ruby-level="7">みんよう</rt></ruby>「アリラン」をアレンジした<ruby>曲<rt data-ruby-level="3">きょく</rt></ruby>が<ruby>流<rt
+    data-ruby-level="3">なが</rt></ruby>れる<ruby>中<rt data-ruby-level="1">なか</rt></ruby>、<ruby>同<rt
+    data-ruby-level="2">おな</rt></ruby>じウエアを<ruby>着<rt data-ruby-level="3">き</rt></ruby>て<ruby>行進<rt
+    data-ruby-level="3">こうしん</rt></ruby>しました。<br /><br />オリンピックでの<ruby>南北<rt data-ruby-level="2">なんぼく</rt></ruby><ruby>合同<rt
+    data-ruby-level="2">ごうどう</rt></ruby>の<ruby>入場<rt data-ruby-level="2">にゅうじょう</rt></ruby><ruby>行進<rt
+    data-ruby-level="3">こうしん</rt></ruby>は、２００６<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>のトリノ<ruby>大会<rt
+    data-ruby-level="2">たいかい</rt></ruby><ruby>以来<rt data-ruby-level="4">いらい</rt></ruby>１２<ruby>年<rt
+    data-ruby-level="1">ねん</rt></ruby>ぶり４<ruby>回目<rt data-ruby-level="2">かいめ</rt></ruby>です。このうち、アイスホッケー<ruby>女子<rt
+    data-ruby-level="1">じょし</rt></ruby>には、オリンピックで<ruby>初<rt data-ruby-level="4">はじ</rt></ruby>めて<ruby>合同<rt
+    data-ruby-level="2">ごうどう</rt></ruby>チームで<ruby>臨<rt data-ruby-level="7">のぞ</rt></ruby>みます。
+  textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/09/K10011323301_1802092146_1802092148_01_05.jpg
+- title: ＩＯＣバッハ<ruby>会長<rt data-ruby-level="2">かいちょう</rt></ruby>「<ruby>平和<rt data-ruby-level="3">へいわ</rt></ruby>のメッセージ<ruby>発信<rt
+    data-ruby-level="4">はっしん</rt></ruby>に<ruby>賛同<rt data-ruby-level="5">さんどう</rt></ruby>」
+  text: そして、ＩＯＣ＝<ruby>国際<rt data-ruby-level="5">こくさい</rt></ruby>オリンピック<ruby>委員会<rt
+    data-ruby-level="3">いいんかい</rt></ruby>のトーマス・バッハ<ruby>会長<rt data-ruby-level="2">かいちょう</rt></ruby>が「<ruby>韓国<rt
+    data-ruby-level="7">かんこく</rt></ruby>と<ruby>北朝鮮<rt data-ruby-level="7">きたちょうせん</rt></ruby>の<ruby>選手団<rt
+    data-ruby-level="5">せんしゅだん</rt></ruby>がともに<ruby>入場<rt data-ruby-level="2">にゅうじょう</rt></ruby><ruby>行進<rt
+    data-ruby-level="3">こうしん</rt></ruby>したことに<ruby>感銘<rt data-ruby-level="7">かんめい</rt></ruby>を<ruby>受<rt
+    data-ruby-level="3">う</rt></ruby>けた。この<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>に<ruby>向<rt
+    data-ruby-level="3">む</rt></ruby>けた<ruby>平和<rt data-ruby-level="3">へいわ</rt></ruby>のメッセージの<ruby>発信<rt
+    data-ruby-level="4">はっしん</rt></ruby>に<ruby>賛同<rt data-ruby-level="5">さんどう</rt></ruby>したい」とスピーチを<ruby>述<rt
+    data-ruby-level="5">の</rt></ruby>べたあと、<ruby>韓国<rt data-ruby-level="7">かんこく</rt></ruby>のムン・ジェイン（<ruby>文在寅<rt
+    data-ruby-level="8">むんじぇいん</rt></ruby>）<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby>が<ruby>開会<rt
+    data-ruby-level="3">かいかい</rt></ruby>を<ruby>宣言<rt data-ruby-level="6">せんげん</rt></ruby>しました。
+  textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/09/K10011323301_1802092223_1802092228_01_08.jpg
+- title: <ruby>聖火台<rt data-ruby-level="6">せいかだい</rt></ruby>に<ruby>火<rt data-ruby-level="1">ひ</rt></ruby>をともしたのはキム・ヨナさん
+  text: <ruby>最後<rt data-ruby-level="4">さいご</rt></ruby>に、<ruby>聖火<rt data-ruby-level="6">せいか</rt></ruby>が、アイスホッケー<ruby>女子<rt
+    data-ruby-level="1">じょし</rt></ruby>の<ruby>韓国<rt data-ruby-level="7">かんこく</rt></ruby>と<ruby>北朝鮮<rt
+    data-ruby-level="7">きたちょうせん</rt></ruby>の<ruby>合同<rt data-ruby-level="2">ごうどう</rt></ruby>チームの<ruby>両国<rt
+    data-ruby-level="3">りょうこく</rt></ruby>の<ruby>選手<rt data-ruby-level="4">せんしゅ</rt></ruby>２<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>から、<ruby>最終<rt data-ruby-level="4">さいしゅう</rt></ruby><ruby>走者<rt
+    data-ruby-level="3">そうしゃ</rt></ruby>を<ruby>務<rt data-ruby-level="5">つと</rt></ruby>めるフィギュアスケートのバンクーバー<ruby>大会<rt
+    data-ruby-level="2">たいかい</rt></ruby><ruby>金<rt data-ruby-level="1">きん</rt></ruby><ruby>メダリスト<rt
+    data-ruby-level="1">めだりすと</rt></ruby>、キム・ヨナさんに<ruby>引<rt data-ruby-level="7">ひ</rt></ruby>き<ruby>継<rt
+    data-ruby-level="7">つ</rt></ruby>がれ、<ruby>聖火台<rt data-ruby-level="6">せいかだい</rt></ruby>にともされました。
+  textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/09/K10011323301_1802092239_1802092244_01_09.jpg
+- text: <ruby>大会<rt data-ruby-level="2">たいかい</rt></ruby>は９<ruby>日<rt data-ruby-level="1">にち</rt></ruby>から<ruby>今月<rt
+    data-ruby-level="2">こんげつ</rt></ruby>２５<ruby>日<rt data-ruby-level="1">にち</rt></ruby>までの１７<ruby>日間<rt
+    data-ruby-level="2">にちかん</rt></ruby>にわたって、７<ruby>競技<rt data-ruby-level="5">きょうぎ</rt></ruby>１０２<ruby>種目<rt
+    data-ruby-level="4">しゅもく</rt></ruby>が<ruby>行<rt data-ruby-level="2">おこな</rt></ruby>われます。
+  textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/09/K10011323301_1802092239_1802092244_01_10.jpg
+- title: <ruby>参加<rt data-ruby-level="4">さんか</rt></ruby>した<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>選手<rt
+    data-ruby-level="4">せんしゅ</rt></ruby>の<ruby>談話<rt data-ruby-level="3">だんわ</rt></ruby>
+  text: <ruby>開会式<rt data-ruby-level="3">かいかいしき</rt></ruby>で<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>選手団<rt
+    data-ruby-level="5">せんしゅだん</rt></ruby>の<ruby>旗手<rt data-ruby-level="4">きしゅ</rt></ruby>を<ruby>務<rt
+    data-ruby-level="5">つと</rt></ruby>めたスキージャンプ<ruby>男子<rt data-ruby-level="1">だんし</rt></ruby>の<ruby>葛西<rt
+    data-ruby-level="8">かさい</rt></ruby><ruby>紀明<rt data-ruby-level="8">のりあき</rt></ruby><ruby>選手<rt
+    data-ruby-level="4">せんしゅ</rt></ruby>は<ruby>式<rt data-ruby-level="3">しき</rt></ruby>が<ruby>終<rt
+    data-ruby-level="3">お</rt></ruby>わった<ruby>後<rt data-ruby-level="2">あと</rt></ruby>、「<ruby>寒<rt
+    data-ruby-level="3">さむ</rt></ruby>かった。なかなか<ruby>旗<rt data-ruby-level="4">はた</rt></ruby>がうまく<ruby>振<rt
+    data-ruby-level="7">ふ</rt></ruby>れなくてどうしようかと<ruby>思<rt data-ruby-level="2">おも</rt></ruby>ったけれど<ruby>頑張<rt
+    data-ruby-level="7">がんば</rt></ruby>った。<ruby>楽<rt data-ruby-level="2">たの</rt></ruby>しかったし<ruby>力<rt
+    data-ruby-level="1">ちから</rt></ruby>をもらえたのでこの<ruby>後<rt data-ruby-level="2">あと</rt></ruby>、<ruby>頑張<rt
+    data-ruby-level="7">がんば</rt></ruby>ります」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。<br
+    /><br /><ruby>同<rt data-ruby-level="2">おな</rt></ruby>じくスキージャンプ<ruby>男子<rt data-ruby-level="1">だんし</rt></ruby>の<ruby>伊東<rt
+    data-ruby-level="8">いとう</rt></ruby><ruby>大貴<rt data-ruby-level="8">ひろたか</rt></ruby><ruby>選手<rt
+    data-ruby-level="4">せんしゅ</rt></ruby>は「<ruby>初<rt data-ruby-level="4">はじ</rt></ruby>めてで<ruby>興奮<rt
+    data-ruby-level="6">こうふん</rt></ruby>したし、パワーをもらった。１つ１つの<ruby>演出<rt data-ruby-level="5">えんしゅつ</rt></ruby>がすごくて、<ruby>気分<rt
+    data-ruby-level="2">きぶん</rt></ruby>が<ruby>高<rt data-ruby-level="2">たか</rt></ruby>まった」と<ruby>話<rt
+    data-ruby-level="2">はな</rt></ruby>していました。<br /><br />カーリング<ruby>男子<rt data-ruby-level="1">だんし</rt></ruby>の<ruby>山口<rt
+    data-ruby-level="1">やまぐち</rt></ruby><ruby>剛史<rt data-ruby-level="8">たけし</rt></ruby><ruby>選手<rt
+    data-ruby-level="4">せんしゅ</rt></ruby>は「とても<ruby>感動<rt data-ruby-level="3">かんどう</rt></ruby>したし、よかった。<ruby>寒<rt
+    data-ruby-level="3">さむ</rt></ruby>くなかったし<ruby>興奮<rt data-ruby-level="6">こうふん</rt></ruby>している」と<ruby>話<rt
+    data-ruby-level="2">はな</rt></ruby>していました。
+- title: <ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れた<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>たちからは<ruby>期待<rt
+    data-ruby-level="3">きたい</rt></ruby>の<ruby>声<rt data-ruby-level="2">こえ</rt></ruby>
+  text: <ruby>開会式<rt data-ruby-level="3">かいかいしき</rt></ruby>には<ruby>韓国<rt data-ruby-level="7">かんこく</rt></ruby>の<ruby>内外<rt
+    data-ruby-level="2">ないがい</rt></ruby>から<ruby>大勢<rt data-ruby-level="5">おおぜい</rt></ruby>の<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>が<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れ、<ruby>笑顔<rt
+    data-ruby-level="7">えがお</rt></ruby>で<ruby>写真<rt data-ruby-level="3">しゃしん</rt></ruby>を<ruby>撮<rt
+    data-ruby-level="7">と</rt></ruby>ったり、それぞれの<ruby>国<rt data-ruby-level="2">くに</rt></ruby>の<ruby>国旗<rt
+    data-ruby-level="4">こっき</rt></ruby>を<ruby>体<rt data-ruby-level="2">からだ</rt></ruby>に<ruby>巻<rt
+    data-ruby-level="6">ま</rt></ruby>き<ruby>付<rt data-ruby-level="6">つ</rt></ruby>けて<ruby>歩<rt
+    data-ruby-level="2">ある</rt></ruby>いたりして<ruby>冬<rt data-ruby-level="2">ふゆ</rt></ruby>の<ruby>祭典<rt
+    data-ruby-level="4">さいてん</rt></ruby>の<ruby>開幕<rt data-ruby-level="6">かいまく</rt></ruby>を<ruby>盛<rt
+    data-ruby-level="6">も</rt></ruby>り<ruby>上<rt data-ruby-level="6">あ</rt></ruby>げていました。<br
+    /><br />ソウルから<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れた２０<ruby>歳<rt data-ruby-level="7">さい</rt></ruby>の<ruby>大学生<rt
+    data-ruby-level="1">だいがくせい</rt></ruby>の<ruby>女性<rt data-ruby-level="5">じょせい</rt></ruby>は「オリンピックをやるという<ruby>実感<rt
+    data-ruby-level="3">じっかん</rt></ruby>がありませんでしたが、スタジアムを<ruby>目<rt data-ruby-level="1">め</rt></ruby>にしたら<ruby>実感<rt
+    data-ruby-level="3">じっかん</rt></ruby>がわいてきました。<ruby>選手<rt data-ruby-level="4">せんしゅ</rt></ruby>たちには<ruby>練習<rt
+    data-ruby-level="3">れんしゅう</rt></ruby>の<ruby>成果<rt data-ruby-level="4">せいか</rt></ruby>を<ruby>発揮<rt
+    data-ruby-level="6">はっき</rt></ruby>してベストを<ruby>尽<rt data-ruby-level="7">つ</rt></ruby>くしてほしい。とても<ruby>寒<rt
+    data-ruby-level="3">さむ</rt></ruby>いので<ruby>心配<rt data-ruby-level="3">しんぱい</rt></ruby>ですが、マフラーや<ruby>手袋<rt
+    data-ruby-level="7">てぶくろ</rt></ruby>を<ruby>準備<rt data-ruby-level="5">じゅんび</rt></ruby>してきたし、<ruby>大丈夫<rt
+    data-ruby-level="7">だいじょうぶ</rt></ruby>だと<ruby>思<rt data-ruby-level="2">おも</rt></ruby>います」と<ruby>話<rt
+    data-ruby-level="2">はな</rt></ruby>していました。<br /><br /><ruby>韓国<rt data-ruby-level="7">かんこく</rt></ruby><ruby>西部<rt
+    data-ruby-level="3">せいぶ</rt></ruby>のテアンから１<ruby>歳半<rt data-ruby-level="7">さいはん</rt></ruby>の<ruby>子<rt
+    data-ruby-level="1">こ</rt></ruby>どもと<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れた３１<ruby>歳<rt
+    data-ruby-level="7">さい</rt></ruby>の<ruby>女性<rt data-ruby-level="5">じょせい</rt></ruby>は「<ruby>大会<rt
+    data-ruby-level="2">たいかい</rt></ruby>を<ruby>本当<rt data-ruby-level="2">ほんとう</rt></ruby>に<ruby>楽<rt
+    data-ruby-level="2">たの</rt></ruby>しみにしてきました。<ruby>最後<rt data-ruby-level="4">さいご</rt></ruby>まで<ruby>応援<rt
+    data-ruby-level="7">おうえん</rt></ruby>し<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>けたいと<ruby>思<rt
+    data-ruby-level="2">おも</rt></ruby>います。<ruby>小<rt data-ruby-level="1">ちい</rt></ruby>さな<ruby>子<rt
+    data-ruby-level="1">こ</rt></ruby>どももいるので<ruby>寒<rt data-ruby-level="3">さむ</rt></ruby>さ<ruby>対策<rt
+    data-ruby-level="6">たいさく</rt></ruby>でコートも<ruby>帽子<rt data-ruby-level="7">ぼうし</rt></ruby>も、カイロも<ruby>毛布<rt
+    data-ruby-level="5">もうふ</rt></ruby>も<ruby>準備<rt data-ruby-level="5">じゅんび</rt></ruby>してきました」と<ruby>話<rt
+    data-ruby-level="2">はな</rt></ruby>していました。また<ruby>北朝鮮<rt data-ruby-level="7">きたちょうせん</rt></ruby>との<ruby>合同<rt
+    data-ruby-level="2">ごうどう</rt></ruby>チームについては「<ruby>韓国<rt data-ruby-level="7">かんこく</rt></ruby>と<ruby>北朝鮮<rt
+    data-ruby-level="7">きたちょうせん</rt></ruby>が<ruby>一緒<rt data-ruby-level="7">いっしょ</rt></ruby>になって<ruby>参加<rt
+    data-ruby-level="4">さんか</rt></ruby>できるのはいいことだと<ruby>思<rt data-ruby-level="2">おも</rt></ruby>います。これをきっかけに<ruby>対話<rt
+    data-ruby-level="3">たいわ</rt></ruby>が<ruby>進<rt data-ruby-level="3">すす</rt></ruby>めばいいと<ruby>思<rt
+    data-ruby-level="2">おも</rt></ruby>う」と<ruby>肯定的<rt data-ruby-level="7">こうていてき</rt></ruby>にとらえていました。<br
+    /><br />さらに<ruby>仙台市<rt data-ruby-level="7">せんだいし</rt></ruby>から<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れた<ruby>日本人<rt
+    data-ruby-level="1">にほんじん</rt></ruby>の５１<ruby>歳<rt data-ruby-level="7">さい</rt></ruby>の<ruby>男性<rt
+    data-ruby-level="5">だんせい</rt></ruby>は「２０２０<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>には<ruby>東京<rt
+    data-ruby-level="2">とうきょう</rt></ruby><ruby>大会<rt data-ruby-level="2">たいかい</rt></ruby>があるので、オリンピックがどんな<ruby>雰囲気<rt
+    data-ruby-level="7">ふんいき</rt></ruby>なのか<ruby>体感<rt data-ruby-level="3">たいかん</rt></ruby>したいと<ruby>思<rt
+    data-ruby-level="2">おも</rt></ruby>ってきました。<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>選手<rt
+    data-ruby-level="4">せんしゅ</rt></ruby>にメダルを<ruby>量産<rt data-ruby-level="4">りょうさん</rt></ruby>してほしい。<ruby>東京<rt
+    data-ruby-level="2">とうきょう</rt></ruby><ruby>大会<rt data-ruby-level="2">たいかい</rt></ruby>まで<ruby>勢<rt
+    data-ruby-level="5">いきお</rt></ruby>いをつなげていってほしい」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。
+- title: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby> <ruby>組織委<rt data-ruby-level="5">そしきい</rt></ruby><ruby>事務<rt
+    data-ruby-level="5">じむ</rt></ruby><ruby>総長<rt data-ruby-level="5">そうちょう</rt></ruby>「<ruby>多<rt
+    data-ruby-level="2">おお</rt></ruby>くを<ruby>学<rt data-ruby-level="1">まな</rt></ruby>び<ruby>準備<rt
+    data-ruby-level="5">じゅんび</rt></ruby>に<ruby>生<rt data-ruby-level="1">い</rt></ruby>かす」
+  text: <ruby>開会式<rt data-ruby-level="3">かいかいしき</rt></ruby>に<ruby>出席<rt data-ruby-level="4">しゅっせき</rt></ruby>した２０２０<ruby>年<rt
+    data-ruby-level="1">ねん</rt></ruby><ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>オリンピック・パラリンピック<ruby>組織<rt
+    data-ruby-level="5">そしき</rt></ruby><ruby>委員会<rt data-ruby-level="3">いいんかい</rt></ruby>の<ruby>武藤<rt
+    data-ruby-level="7">むとう</rt></ruby><ruby>敏郎<rt data-ruby-level="8">としろう</rt></ruby><ruby>事務<rt
+    data-ruby-level="5">じむ</rt></ruby><ruby>総長<rt data-ruby-level="5">そうちょう</rt></ruby>は「ＬＥＤとテクノロジーを<ruby>駆使<rt
+    data-ruby-level="7">くし</rt></ruby>したパワーのある<ruby>演出<rt data-ruby-level="5">えんしゅつ</rt></ruby>がとても<ruby>印象的<rt
+    data-ruby-level="4">いんしょうてき</rt></ruby>でした。<ruby>選手<rt data-ruby-level="4">せんしゅ</rt></ruby>の<ruby>入場<rt
+    data-ruby-level="2">にゅうじょう</rt></ruby><ruby>行進<rt data-ruby-level="3">こうしん</rt></ruby>を<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>ているとおよそ９００<ruby>日後<rt data-ruby-level="2">にちご</rt></ruby>に<ruby>世界<rt
+    data-ruby-level="3">せかい</rt></ruby>のアスリートを<ruby>迎<rt data-ruby-level="7">むか</rt></ruby>え<ruby>入<rt
+    data-ruby-level="7">い</rt></ruby>れることへの<ruby>思<rt data-ruby-level="2">おも</rt></ruby>いが<ruby>増<rt
+    data-ruby-level="5">ま</rt></ruby>してきます。<ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby><ruby>大会<rt
+    data-ruby-level="2">たいかい</rt></ruby>の<ruby>組織<rt data-ruby-level="5">そしき</rt></ruby><ruby>委員会<rt
+    data-ruby-level="3">いいんかい</rt></ruby>としてもしっかりとバトンを<ruby>受<rt data-ruby-level="7">う</rt></ruby>け<ruby>継<rt
+    data-ruby-level="7">つ</rt></ruby>げるようピョンチャンから<ruby>多<rt data-ruby-level="2">おお</rt></ruby>くのことを<ruby>学<rt
+    data-ruby-level="1">まな</rt></ruby>び、<ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>の<ruby>準備<rt
+    data-ruby-level="5">じゅんび</rt></ruby>に<ruby>生<rt data-ruby-level="1">い</rt></ruby>かしていきたいと<ruby>思<rt
+    data-ruby-level="2">おも</rt></ruby>います」とコメントを<ruby>出<rt data-ruby-level="1">だ</rt></ruby>しました。
+source_url: https://www3.nhk.or.jp/news/html/20180209/k10011323301000.html
+related_news:
+- title: ピョンチャンオリンピック きょう<ruby>開幕<rt data-ruby-level="6">かいまく</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/02/09/ピョンチャンオリンピック-きょう開幕
+- title: <ruby>北朝鮮<rt data-ruby-level="7">きたちょうせん</rt></ruby> ピョンチャン<ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby>に22<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>の<ruby>選手<rt data-ruby-level="4">せんしゅ</rt></ruby>を<ruby>派遣<rt
+    data-ruby-level="7">はけん</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2018/01/20/北朝鮮-ピョンチャン五輪に22人の選手を派遣へ
+- title: ジャンプ <ruby>葛西<rt data-ruby-level="8">かさい</rt></ruby>が<ruby>韓国<rt data-ruby-level="7">かんこく</rt></ruby><ruby>入<rt
+    data-ruby-level="1">い</rt></ruby>り「<ruby>金<rt data-ruby-level="1">きん</rt></ruby><ruby>メダル<rt
+    data-ruby-level="1">めだる</rt></ruby>とりたい」
+  url: https://newswebeasy.github.io/news/web/2018/02/05/ジャンプ-葛西が韓国入り金メダルとりたい
+- title: ＩＯＣ ロシア<ruby>選手団<rt data-ruby-level="5">せんしゅだん</rt></ruby>の<ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby><ruby>出場<rt
+    data-ruby-level="2">しゅつじょう</rt></ruby><ruby>認<rt data-ruby-level="6">みと</rt></ruby>めず
+    <ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>は<ruby>条件<rt data-ruby-level="5">じょうけん</rt></ruby>つきで<ruby>容認<rt
+    data-ruby-level="7">ようにん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/06/IOC-ロシア選手団の五輪出場認めず-個人は条件つきで容認
+- title: ピョンチャン<ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby>の<ruby>選手村<rt data-ruby-level="4">せんしゅむら</rt></ruby><ruby>開村<rt
+    data-ruby-level="3">かいそん</rt></ruby><ruby>式<rt data-ruby-level="3">しき</rt></ruby>
+    <ruby>北朝鮮<rt data-ruby-level="7">きたちょうせん</rt></ruby><ruby>国旗<rt data-ruby-level="4">こっき</rt></ruby>も<ruby>掲<rt
+    data-ruby-level="7">かか</rt></ruby>げられる
+  url: https://newswebeasy.github.io/news/web/2018/02/01/ピョンチャン五輪の選手村開村式-北朝鮮国旗も掲げられる
+...
