@@ -1,0 +1,204 @@
+---
+layout: web_news
+categories: web
+newsid: k10011323311000
+title: 南海トラフと根室沖の巨大地震 発生確率80％に引き上げ
+title_with_ruby: <ruby>南海<rt data-ruby-level="2">なんかい</rt></ruby>トラフと<ruby>根室<rt data-ruby-level="7">ねむろ</rt></ruby><ruby>沖<rt
+  data-ruby-level="7">おき</rt></ruby>の<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby> <ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby><ruby>確率<rt
+  data-ruby-level="5">かくりつ</rt></ruby>80％に<ruby>引<rt data-ruby-level="2">ひ</rt></ruby>き<ruby>上<rt
+  data-ruby-level="2">あ</rt></ruby>げ
+last_modified_at: '2018-02-09T20:44:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>02<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>09<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 20<ruby>時<rt data-ruby-level="2">じ</rt></ruby>44<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 南海トラフの巨大地震が今後３０年以内に起きる確率について、政府の地震調査委員会は、これまでより高い「７０％から８０％」に見直し、新たに公表しました。北海道の根室沖の巨大地震についても「８０％程度」に引き上げられ、専門家は「いずれも非常に高い確率で、地震への備えを進めてほしい」と話しています。
+summary: <ruby>南海<rt data-ruby-level="2">なんかい</rt></ruby>トラフの<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>が<ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>３０<ruby>年以内<rt
+  data-ruby-level="4">ねんいない</rt></ruby>に<ruby>起<rt data-ruby-level="3">お</rt></ruby>きる<ruby>確率<rt
+  data-ruby-level="5">かくりつ</rt></ruby>について、<ruby>政府<rt data-ruby-level="5">せいふ</rt></ruby>の<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby><ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby><ruby>委員会<rt
+  data-ruby-level="3">いいんかい</rt></ruby>は、これまでより<ruby>高<rt data-ruby-level="2">たか</rt></ruby>い「７０％から８０％」に<ruby>見直<rt
+  data-ruby-level="2">みなお</rt></ruby>し、<ruby>新<rt data-ruby-level="2">あら</rt></ruby>たに<ruby>公表<rt
+  data-ruby-level="3">こうひょう</rt></ruby>しました。<ruby>北海道<rt data-ruby-level="2">ほっかいどう</rt></ruby>の<ruby>根室<rt
+  data-ruby-level="7">ねむろ</rt></ruby><ruby>沖<rt data-ruby-level="7">おき</rt></ruby>の<ruby>巨大<rt
+  data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>についても「８０％<ruby>程度<rt
+  data-ruby-level="5">ていど</rt></ruby>」に<ruby>引<rt data-ruby-level="2">ひ</rt></ruby>き<ruby>上<rt
+  data-ruby-level="2">あ</rt></ruby>げられ、<ruby>専門家<rt data-ruby-level="6">せんもんか</rt></ruby>は「いずれも<ruby>非常<rt
+  data-ruby-level="5">ひじょう</rt></ruby>に<ruby>高<rt data-ruby-level="2">たか</rt></ruby>い<ruby>確率<rt
+  data-ruby-level="5">かくりつ</rt></ruby>で、<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>への<ruby>備<rt
+  data-ruby-level="5">そな</rt></ruby>えを<ruby>進<rt data-ruby-level="3">すす</rt></ruby>めてほしい」と<ruby>話<rt
+  data-ruby-level="2">はな</rt></ruby>しています。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/09/K10011323311_1802092024_1802092043_01_02.jpg
+more: <ruby>政府<rt data-ruby-level="5">せいふ</rt></ruby>の<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby><ruby>調査<rt
+  data-ruby-level="5">ちょうさ</rt></ruby><ruby>委員会<rt data-ruby-level="3">いいんかい</rt></ruby>は、<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby><ruby>周辺<rt data-ruby-level="4">しゅうへん</rt></ruby>の<ruby>海底<rt
+  data-ruby-level="4">かいてい</rt></ruby>や<ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby>の<ruby>活断層<rt
+  data-ruby-level="6">かつだんそう</rt></ruby>で<ruby>想定<rt data-ruby-level="3">そうてい</rt></ruby>される<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>の<ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby><ruby>確率<rt
+  data-ruby-level="5">かくりつ</rt></ruby>について、<ruby>毎年<rt data-ruby-level="2">まいとし</rt></ruby>、１<ruby>月<rt
+  data-ruby-level="1">がつ</rt></ruby>１<ruby>日<rt data-ruby-level="1">にち</rt></ruby>の<ruby>時点<rt
+  data-ruby-level="2">じてん</rt></ruby>で<ruby>計算<rt data-ruby-level="2">けいさん</rt></ruby>し<ruby>公表<rt
+  data-ruby-level="3">こうひょう</rt></ruby>しています。<br /><br />このうち、<ruby>南海<rt data-ruby-level="2">なんかい</rt></ruby>トラフで<ruby>想定<rt
+  data-ruby-level="3">そうてい</rt></ruby>されるマグニチュード８から９の<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>については、<ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>３０<ruby>年以内<rt
+  data-ruby-level="4">ねんいない</rt></ruby>に<ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby>する<ruby>確率<rt
+  data-ruby-level="5">かくりつ</rt></ruby>は、これまで「７０％<ruby>程度<rt data-ruby-level="5">ていど</rt></ruby>」でしたが<ruby>今回<rt
+  data-ruby-level="2">こんかい</rt></ruby>の<ruby>公表<rt data-ruby-level="3">こうひょう</rt></ruby>で「７０％から８０％」に<ruby>引<rt
+  data-ruby-level="2">ひ</rt></ruby>き<ruby>上<rt data-ruby-level="2">あ</rt></ruby>げられました。<br
+  /><br />また、<ruby>北海道<rt data-ruby-level="2">ほっかいどう</rt></ruby><ruby>沖<rt data-ruby-level="7">おき</rt></ruby>の<ruby>千島海溝<rt
+  data-ruby-level="7">ちしまかいこう</rt></ruby><ruby>沿<rt data-ruby-level="6">ぞ</rt></ruby>いの<ruby>根室<rt
+  data-ruby-level="7">ねむろ</rt></ruby><ruby>沖<rt data-ruby-level="7">おき</rt></ruby>で<ruby>想定<rt
+  data-ruby-level="3">そうてい</rt></ruby>されるマグニチュード７.８から８.５<ruby>程度<rt data-ruby-level="5">ていど</rt></ruby>の<ruby>巨大<rt
+  data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>も、<ruby>今後<rt
+  data-ruby-level="2">こんご</rt></ruby>３０<ruby>年以内<rt data-ruby-level="4">ねんいない</rt></ruby>の<ruby>発生<rt
+  data-ruby-level="3">はっせい</rt></ruby><ruby>確率<rt data-ruby-level="5">かくりつ</rt></ruby>がこれまでの「７０％<ruby>程度<rt
+  data-ruby-level="5">ていど</rt></ruby>」から「８０％<ruby>程度<rt data-ruby-level="5">ていど</rt></ruby>」に<ruby>引<rt
+  data-ruby-level="2">ひ</rt></ruby>き<ruby>上<rt data-ruby-level="2">あ</rt></ruby>げられました。<br
+  /><br />マグニチュード８<ruby>以上<rt data-ruby-level="4">いじょう</rt></ruby>の<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>の<ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>３０<ruby>年以内<rt
+  data-ruby-level="4">ねんいない</rt></ruby>の<ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby><ruby>確率<rt
+  data-ruby-level="5">かくりつ</rt></ruby>は、これまで「７０％<ruby>程度<rt data-ruby-level="5">ていど</rt></ruby>」が<ruby>最大<rt
+  data-ruby-level="4">さいだい</rt></ruby>で、「８０％」が<ruby>示<rt data-ruby-level="5">しめ</rt></ruby>されたのは、<ruby>今回<rt
+  data-ruby-level="2">こんかい</rt></ruby>が<ruby>初<rt data-ruby-level="4">はじ</rt></ruby>めてです。<br
+  /><br /><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby><ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby><ruby>委員会<rt
+  data-ruby-level="3">いいんかい</rt></ruby>の<ruby>委員長<rt data-ruby-level="3">いいんちょう</rt></ruby>で<ruby>東京大学<rt
+  data-ruby-level="2">とうきょうだいがく</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby><ruby>研究所<rt
+  data-ruby-level="3">けんきゅうじょ</rt></ruby>の<ruby>平田<rt data-ruby-level="3">ひらた</rt></ruby><ruby>直<rt
+  data-ruby-level="2">ちょく</rt></ruby><ruby>教授<rt data-ruby-level="5">きょうじゅ</rt></ruby>は「いずれも<ruby>非常<rt
+  data-ruby-level="5">ひじょう</rt></ruby>に<ruby>高<rt data-ruby-level="2">たか</rt></ruby>い<ruby>確率<rt
+  data-ruby-level="5">かくりつ</rt></ruby>であり、<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>が<ruby>必<rt data-ruby-level="4">かなら</rt></ruby>ず<ruby>起<rt
+  data-ruby-level="3">お</rt></ruby>きることを<ruby>示<rt data-ruby-level="5">しめ</rt></ruby>している。<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>の<ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby>が<ruby>近<rt
+  data-ruby-level="2">ちか</rt></ruby>づいていることを<ruby>決<rt data-ruby-level="3">けっ</rt></ruby>して<ruby>忘<rt
+  data-ruby-level="6">わす</rt></ruby>れず、<ruby>備<rt data-ruby-level="5">そな</rt></ruby>えを<ruby>進<rt
+  data-ruby-level="3">すす</rt></ruby>めてほしい」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。
+movie_url: https://newswebeasy.github.io/ja201802/news/web/movie/2018/02/09/k10011323311_201802100510_201802100511.mp4
+voice_url: https://newswebeasy.github.io/ja201802/news/web/voice/2018/02/09/k10011323311_201802100510_201802100511.mp3
+body:
+- title: Ｍ８の<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>で<ruby>確率<rt
+    data-ruby-level="5">かくりつ</rt></ruby>８０％は<ruby>初<rt data-ruby-level="4">はじ</rt></ruby>めて
+  text: <ruby>政府<rt data-ruby-level="5">せいふ</rt></ruby>の<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby><ruby>調査<rt
+    data-ruby-level="5">ちょうさ</rt></ruby><ruby>委員会<rt data-ruby-level="3">いいんかい</rt></ruby>が<ruby>公表<rt
+    data-ruby-level="3">こうひょう</rt></ruby>している<ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>３０<ruby>年以内<rt
+    data-ruby-level="4">ねんいない</rt></ruby>の<ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby><ruby>確率<rt
+    data-ruby-level="5">かくりつ</rt></ruby>のうち、<ruby>最<rt data-ruby-level="4">もっと</rt></ruby>も<ruby>確率<rt
+    data-ruby-level="5">かくりつ</rt></ruby>が<ruby>高<rt data-ruby-level="2">たか</rt></ruby>いのは、<ruby>茨城県<rt
+    data-ruby-level="8">いばらきけん</rt></ruby><ruby>沖<rt data-ruby-level="7">おき</rt></ruby>のプレート<ruby>境界<rt
+    data-ruby-level="5">きょうかい</rt></ruby>で<ruby>想定<rt data-ruby-level="3">そうてい</rt></ruby>されるマグニチュード６.７から７.２の<ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>で「９０％<ruby>程度<rt data-ruby-level="5">ていど</rt></ruby><ruby>以上<rt
+    data-ruby-level="4">いじょう</rt></ruby>」、<ruby>次<rt data-ruby-level="3">つ</rt></ruby>いで、<ruby>三陸<rt
+    data-ruby-level="4">さんりく</rt></ruby><ruby>沖<rt data-ruby-level="7">おき</rt></ruby><ruby>北部<rt
+    data-ruby-level="3">ほくぶ</rt></ruby>で<ruby>想定<rt data-ruby-level="3">そうてい</rt></ruby>されるマグニチュード７.１から７.６の<ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>と、<ruby>北海道<rt data-ruby-level="2">ほっかいどう</rt></ruby>の<ruby>千島海溝<rt
+    data-ruby-level="7">ちしまかいこう</rt></ruby><ruby>沿<rt data-ruby-level="6">ぞ</rt></ruby>いの<ruby>色丹島<rt
+    data-ruby-level="8">しこたんとう</rt></ruby><ruby>沖<rt data-ruby-level="7">おき</rt></ruby>および<ruby>択捉島<rt
+    data-ruby-level="8">えとろふとう</rt></ruby><ruby>沖<rt data-ruby-level="7">おき</rt></ruby>で<ruby>想定<rt
+    data-ruby-level="3">そうてい</rt></ruby>されるマグニチュード７.５<ruby>程度<rt data-ruby-level="5">ていど</rt></ruby>の<ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>で、いずれも「９０％<ruby>程度<rt data-ruby-level="5">ていど</rt></ruby>」などとなっています。<br
+    /><br />しかし、いずれもマグニチュードが７<ruby>程度<rt data-ruby-level="5">ていど</rt></ruby>の<ruby>大地震<rt
+    data-ruby-level="7">おおじしん</rt></ruby>で、マグニチュード８<ruby>以上<rt data-ruby-level="4">いじょう</rt></ruby>の<ruby>巨大<rt
+    data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>について「８０％」の<ruby>発生<rt
+    data-ruby-level="3">はっせい</rt></ruby><ruby>確率<rt data-ruby-level="5">かくりつ</rt></ruby>が<ruby>示<rt
+    data-ruby-level="5">しめ</rt></ruby>されたのは、<ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>の<ruby>南海<rt
+    data-ruby-level="2">なんかい</rt></ruby>トラフと<ruby>根室<rt data-ruby-level="7">ねむろ</rt></ruby><ruby>沖<rt
+    data-ruby-level="7">おき</rt></ruby>が<ruby>初<rt data-ruby-level="4">はじ</rt></ruby>めてです。<br
+    /><br /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>、<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>が<ruby>起<rt
+    data-ruby-level="3">お</rt></ruby>きない<ruby>限<rt data-ruby-level="5">かぎ</rt></ruby>り、<ruby>時間<rt
+    data-ruby-level="2">じかん</rt></ruby>の<ruby>経過<rt data-ruby-level="5">けいか</rt></ruby>とともに<ruby>発生<rt
+    data-ruby-level="3">はっせい</rt></ruby><ruby>確率<rt data-ruby-level="5">かくりつ</rt></ruby>はさらに<ruby>上<rt
+    data-ruby-level="1">あ</rt></ruby>がるため、<ruby>南海<rt data-ruby-level="2">なんかい</rt></ruby>トラフ<ruby>巨大<rt
+    data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>は、<ruby>今後<rt
+    data-ruby-level="2">こんご</rt></ruby>４０<ruby>年以内<rt data-ruby-level="4">ねんいない</rt></ruby>で「８０％から９０％」、<ruby>今後<rt
+    data-ruby-level="2">こんご</rt></ruby>５０<ruby>年以内<rt data-ruby-level="4">ねんいない</rt></ruby>で「９０％<ruby>程度<rt
+    data-ruby-level="5">ていど</rt></ruby>もしくはそれ<ruby>以上<rt data-ruby-level="4">いじょう</rt></ruby>」と<ruby>想定<rt
+    data-ruby-level="3">そうてい</rt></ruby>されているほか、<ruby>根室<rt data-ruby-level="7">ねむろ</rt></ruby><ruby>沖<rt
+    data-ruby-level="7">おき</rt></ruby>の<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>の<ruby>確率<rt data-ruby-level="5">かくりつ</rt></ruby>も<ruby>今後<rt
+    data-ruby-level="2">こんご</rt></ruby>４０<ruby>年以内<rt data-ruby-level="4">ねんいない</rt></ruby>に「９０％<ruby>程度<rt
+    data-ruby-level="5">ていど</rt></ruby>」、<ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>５０<ruby>年以内<rt
+    data-ruby-level="4">ねんいない</rt></ruby>は「９０％<ruby>程度<rt data-ruby-level="5">ていど</rt></ruby><ruby>以上<rt
+    data-ruby-level="4">いじょう</rt></ruby>」となっています。<br /><br />このため<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby><ruby>調査<rt
+    data-ruby-level="5">ちょうさ</rt></ruby><ruby>委員会<rt data-ruby-level="3">いいんかい</rt></ruby>は、<ruby>巨大<rt
+    data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>の<ruby>発生<rt
+    data-ruby-level="3">はっせい</rt></ruby>が<ruby>近<rt data-ruby-level="2">ちか</rt></ruby>づいているとして、<ruby>住宅<rt
+    data-ruby-level="6">じゅうたく</rt></ruby>の<ruby>耐震<rt data-ruby-level="7">たいしん</rt></ruby><ruby>補強<rt
+    data-ruby-level="6">ほきょう</rt></ruby>や<ruby>家具<rt data-ruby-level="3">かぐ</rt></ruby>の<ruby>固定<rt
+    data-ruby-level="4">こてい</rt></ruby>などの<ruby>対策<rt data-ruby-level="6">たいさく</rt></ruby>を<ruby>進<rt
+    data-ruby-level="3">すす</rt></ruby>めるよう<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけています。
+- title: <ruby>南海<rt data-ruby-level="2">なんかい</rt></ruby>トラフの<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>とは
+  text: <ruby>南海<rt data-ruby-level="2">なんかい</rt></ruby>トラフは、<ruby>静岡県<rt data-ruby-level="7">しずおかけん</rt></ruby>の<ruby>駿河湾<rt
+    data-ruby-level="8">するがわん</rt></ruby>から<ruby>九州<rt data-ruby-level="3">きゅうしゅう</rt></ruby>の<ruby>日向灘<rt
+    data-ruby-level="8">ひゅうがなだ</rt></ruby>にかけての<ruby>海底<rt data-ruby-level="4">かいてい</rt></ruby>で、<ruby>海側<rt
+    data-ruby-level="4">うみがわ</rt></ruby>のプレートが<ruby>陸側<rt data-ruby-level="4">りくがわ</rt></ruby>のプレートの<ruby>下<rt
+    data-ruby-level="1">した</rt></ruby>に<ruby>沈<rt data-ruby-level="7">しず</rt></ruby>み<ruby>込<rt
+    data-ruby-level="7">こ</rt></ruby>んでいる<ruby>領域<rt data-ruby-level="6">りょういき</rt></ruby>です。<br
+    /><br />プレートは<ruby>年間<rt data-ruby-level="2">ねんかん</rt></ruby><ruby>数<rt data-ruby-level="2">すう</rt></ruby><ruby>センチ<rt
+    data-ruby-level="2">せんち</rt></ruby>の<ruby>速<rt data-ruby-level="3">はや</rt></ruby>さで<ruby>沈<rt
+    data-ruby-level="7">しず</rt></ruby>み<ruby>込<rt data-ruby-level="7">こ</rt></ruby>み、その<ruby>境界<rt
+    data-ruby-level="5">きょうかい</rt></ruby>には、<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>の<ruby>経過<rt
+    data-ruby-level="5">けいか</rt></ruby>とともに<ruby>少<rt data-ruby-level="2">すこ</rt></ruby>しずつひずみがたまって、<ruby>限界<rt
+    data-ruby-level="5">げんかい</rt></ruby>に<ruby>達<rt data-ruby-level="4">たっ</rt></ruby>すると、<ruby>一気<rt
+    data-ruby-level="1">いっき</rt></ruby>にずれ<ruby>動<rt data-ruby-level="3">うご</rt></ruby>いて<ruby>巨大<rt
+    data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>が<ruby>発生<rt
+    data-ruby-level="3">はっせい</rt></ruby>します。<br /><br /><ruby>南海<rt data-ruby-level="2">なんかい</rt></ruby>トラフでは、およそ１００<ruby>年<rt
+    data-ruby-level="1">ねん</rt></ruby>から２００<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>の<ruby>間隔<rt
+    data-ruby-level="7">かんかく</rt></ruby>で、マグニチュード８クラスの<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>が<ruby>繰<rt data-ruby-level="7">く</rt></ruby>り<ruby>返<rt
+    data-ruby-level="7">かえ</rt></ruby>し<ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby>していて<ruby>最後<rt
+    data-ruby-level="4">さいご</rt></ruby>に<ruby>起<rt data-ruby-level="3">お</rt></ruby>きたのは、<ruby>昭和<rt
+    data-ruby-level="3">しょうわ</rt></ruby>２１<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>に<ruby>四国<rt
+    data-ruby-level="2">しこく</rt></ruby>など<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>い<ruby>範囲<rt
+    data-ruby-level="7">はんい</rt></ruby>に<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きな<ruby>被害<rt
+    data-ruby-level="7">ひがい</rt></ruby>をもたらしたマグニチュード８.０の「<ruby>昭和<rt data-ruby-level="3">しょうわ</rt></ruby><ruby>南海地震<rt
+    data-ruby-level="7">なんかいじしん</rt></ruby>」でした。<br /><br />この<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>からおよそ７０<ruby>年<rt
+    data-ruby-level="1">ねん</rt></ruby>が<ruby>経過<rt data-ruby-level="5">けいか</rt></ruby>していることなどから、<ruby>政府<rt
+    data-ruby-level="5">せいふ</rt></ruby>の<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby><ruby>調査<rt
+    data-ruby-level="5">ちょうさ</rt></ruby><ruby>委員会<rt data-ruby-level="3">いいんかい</rt></ruby>は、これまで<ruby>今後<rt
+    data-ruby-level="2">こんご</rt></ruby>３０<ruby>年以内<rt data-ruby-level="4">ねんいない</rt></ruby>の<ruby>発生<rt
+    data-ruby-level="3">はっせい</rt></ruby><ruby>確率<rt data-ruby-level="5">かくりつ</rt></ruby>を「７０％<ruby>程度<rt
+    data-ruby-level="5">ていど</rt></ruby>」としてきましたが、<ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>、「７０％から８０％」に<ruby>見直<rt
+    data-ruby-level="2">みなお</rt></ruby>しました。<br /><br /><ruby>国<rt data-ruby-level="2">くに</rt></ruby>の<ruby>被害<rt
+    data-ruby-level="7">ひがい</rt></ruby><ruby>想定<rt data-ruby-level="3">そうてい</rt></ruby>によりますと、<ruby>津波<rt
+    data-ruby-level="7">つなみ</rt></ruby>と<ruby>建物<rt data-ruby-level="4">たてもの</rt></ruby>の<ruby>倒壊<rt
+    data-ruby-level="7">とうかい</rt></ruby>、<ruby>火災<rt data-ruby-level="5">かさい</rt></ruby>などで、<ruby>最悪<rt
+    data-ruby-level="4">さいあく</rt></ruby>の<ruby>場合<rt data-ruby-level="2">ばあい</rt></ruby>、<ruby>全国<rt
+    data-ruby-level="3">ぜんこく</rt></ruby>でおよそ３２<ruby>万<rt data-ruby-level="2">まん</rt></ruby>３０００<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>が<ruby>死亡<rt data-ruby-level="6">しぼう</rt></ruby>し、２３８<ruby>万<rt
+    data-ruby-level="2">まん</rt></ruby><ruby>棟<rt data-ruby-level="7">むね</rt></ruby><ruby>余<rt
+    data-ruby-level="5">あま</rt></ruby>りの<ruby>建物<rt data-ruby-level="4">たてもの</rt></ruby>が<ruby>全壊<rt
+    data-ruby-level="7">ぜんかい</rt></ruby>や<ruby>焼失<rt data-ruby-level="7">しょうしつ</rt></ruby>するおそれがあるほか、<ruby>避難者<rt
+    data-ruby-level="7">ひなんしゃ</rt></ruby>の<ruby>数<rt data-ruby-level="2">かず</rt></ruby>は、<ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby><ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby>から１<ruby>週間<rt
+    data-ruby-level="2">しゅうかん</rt></ruby>で<ruby>最大<rt data-ruby-level="4">さいだい</rt></ruby>９５０<ruby>万人<rt
+    data-ruby-level="2">まんにん</rt></ruby>に<ruby>上<rt data-ruby-level="1">のぼ</rt></ruby>るなど<ruby>影響<rt
+    data-ruby-level="7">えいきょう</rt></ruby>が<ruby>長期化<rt data-ruby-level="3">ちょうきか</rt></ruby>するとしています。<br
+    /><br />また、<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>１１<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>からは、<ruby>気象庁<rt
+    data-ruby-level="6">きしょうちょう</rt></ruby>が<ruby>南海<rt data-ruby-level="2">なんかい</rt></ruby>トラフ<ruby>全域<rt
+    data-ruby-level="6">ぜんいき</rt></ruby>を<ruby>対象<rt data-ruby-level="4">たいしょう</rt></ruby>に<ruby>巨大<rt
+    data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby><ruby>発生<rt
+    data-ruby-level="3">はっせい</rt></ruby>の<ruby>可能性<rt data-ruby-level="5">かのうせい</rt></ruby>を<ruby>評価<rt
+    data-ruby-level="5">ひょうか</rt></ruby>する<ruby>新<rt data-ruby-level="2">あら</rt></ruby>たな<ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby>の<ruby>運用<rt data-ruby-level="3">うんよう</rt></ruby>を<ruby>行<rt
+    data-ruby-level="2">おこな</rt></ruby>っています。
+source_url: https://www3.nhk.or.jp/news/html/20180209/k10011323311000.html
+related_news:
+- title: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>と<ruby>神奈川<rt data-ruby-level="8">かながわ</rt></ruby>で<ruby>震度<rt
+    data-ruby-level="7">しんど</rt></ruby>４ <ruby>津波<rt data-ruby-level="7">つなみ</rt></ruby>の<ruby>心配<rt
+    data-ruby-level="3">しんぱい</rt></ruby>なし
+  url: https://newswebeasy.github.io/news/web/2018/01/06/東京と神奈川で震度4-津波の心配なし
+- title: <ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>１<ruby>以上<rt data-ruby-level="4">いじょう</rt></ruby>の<ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>2000<ruby>回<rt data-ruby-level="2">かい</rt></ruby><ruby>超<rt
+    data-ruby-level="7">ちょう</rt></ruby>に <ruby>依然<rt data-ruby-level="7">いぜん</rt></ruby><ruby>多<rt
+    data-ruby-level="2">おお</rt></ruby>い<ruby>状態<rt data-ruby-level="5">じょうたい</rt></ruby><ruby>続<rt
+    data-ruby-level="4">つづ</rt></ruby>く
+  url: https://newswebeasy.github.io/news/web/2017/12/30/震度1以上の地震2000回超に-依然多い状態続く
+- title: <ruby>台湾<rt data-ruby-level="7">たいわん</rt></ruby>で<ruby>大地震<rt data-ruby-level="7">おおじしん</rt></ruby>
+    <ruby>死者<rt data-ruby-level="3">ししゃ</rt></ruby>５<ruby>人<rt data-ruby-level="1">にん</rt></ruby>に
+    <ruby>邦人<rt data-ruby-level="7">ほうじん</rt></ruby>９<ruby>人<rt data-ruby-level="1">にん</rt></ruby><ruby>含<rt
+    data-ruby-level="7">ふく</rt></ruby>め250<ruby>人<rt data-ruby-level="1">にん</rt></ruby><ruby>余<rt
+    data-ruby-level="5">よ</rt></ruby>けが
+  url: https://newswebeasy.github.io/news/web/2018/02/07/台湾で大地震-死者5人に-邦人9人含め250人余けが
+...
