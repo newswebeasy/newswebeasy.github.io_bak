@@ -5,21 +5,15 @@
 <body class="zh_CN mm_appmsg">
   <div class="rich_media">
     <div class="rich_media_inner">
-
       <div>
         <div class="rich_media_area_primary">
-
           <h2 class="rich_media_title"><img style="height: 24px;" src="{{ '/assets/easy_icon.png' | relative_url }}" />{{ page.title }}</h2>
-
           <div class="rich_media_meta_list">
             <em class="rich_media_meta rich_media_meta_text">{% if page.categories contains 'easy' %}<ruby>音声<rt>おんせい</rt></ruby><ruby>再生<rt>さいせい</rt></ruby>{% else %}音声再生{% endif %}</em>
             <a class="rich_media_meta rich_media_meta_link rich_media_meta_nickname" href="/">NewsWebEasy</a>
           </div>
-
           <div class="rich_media_content">
-
             <p><audio id="player" style="margin:20px 0; width:100%" controls></audio></p>
-
             {% assign newslist = site.news | sort: "last_modified_at" | reverse %}
             {% assign c = 0 %}
             <div class="newslist">
@@ -38,26 +32,24 @@
             </div>
           </div>
 
+          <div class="rich_media_tool">
+            {% unless page.categories contains 'easy' %}
+            <a class="media_tool_meta meta_primary" href="/news/easy/playlist">イージーニュース</a>
+            {% endunless %}
+            {% unless page.categories contains 'web' %}
+            <a class="media_tool_meta meta_primary" href="/news/web/playlist"><ruby>普通<rt>ふつう</rt></ruby>のニュース</a>
+            {% endunless %}
+            <a class="media_tool_meta meta_primary" href="/radionews/">ラジオニュース</a>
+          </div>
         </div>
 
-        <div class="rich_media_tool">
-          {% unless page.categories contains 'easy' %}
-          <a class="media_tool_meta meta_primary" href="/news/easy/playlist">イージーニュース</a>
-          {% endunless %}
-          {% unless page.categories contains 'web' %}
-          <a class="media_tool_meta meta_primary" href="/news/web/playlist"><ruby>普通<rt>ふつう</rt></ruby>のニュース</a>
-          {% endunless %}
-          <a class="media_tool_meta meta_primary" href="/radionews/">ラジオニュース</a>
+        <div class="rich_media_area_extra">
+          <div class="mpda_bottom_container">
+            {% include adsense_playlist_footer.html %}
+          </div>
         </div>
-
+        
       </div>
-
-      <div class="rich_media_area_extra">
-        <div class="mpda_bottom_container">
-          {% include adsense_playlist_footer.html %}
-        </div>
-      </div>
-
     </div>
   </div>
 
