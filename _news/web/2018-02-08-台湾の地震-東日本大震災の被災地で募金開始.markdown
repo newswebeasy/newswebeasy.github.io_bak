@@ -1,0 +1,91 @@
+---
+layout: web_news
+categories: web
+newsid: k10011321251000
+title: 台湾の地震 東日本大震災の被災地で募金開始
+title_with_ruby: <ruby>台湾<rt data-ruby-level="7">たいわん</rt></ruby>の<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>
+  <ruby>東日本<rt data-ruby-level="2">ひがしにほん</rt></ruby><ruby>大震災<rt data-ruby-level="7">だいしんさい</rt></ruby>の<ruby>被災地<rt
+  data-ruby-level="7">ひさいち</rt></ruby>で<ruby>募金<rt data-ruby-level="7">ぼきん</rt></ruby><ruby>開始<rt
+  data-ruby-level="3">かいし</rt></ruby>
+last_modified_at: '2018-02-08T20:10:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>02<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>08<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 20<ruby>時<rt data-ruby-level="2">じ</rt></ruby>10<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 台湾東部を震源とする地震で大きな被害が出ていることから、東日本大震災で台湾から支援を受けた宮城県南三陸町では、町内に募金箱を設けるなど支援の恩返しをする活動が始まりました。
+summary: <ruby>台湾<rt data-ruby-level="7">たいわん</rt></ruby><ruby>東部<rt data-ruby-level="3">とうぶ</rt></ruby>を<ruby>震源<rt
+  data-ruby-level="7">しんげん</rt></ruby>とする<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>で<ruby>大<rt
+  data-ruby-level="1">おお</rt></ruby>きな<ruby>被害<rt data-ruby-level="7">ひがい</rt></ruby>が<ruby>出<rt
+  data-ruby-level="1">で</rt></ruby>ていることから、<ruby>東日本<rt data-ruby-level="2">ひがしにほん</rt></ruby><ruby>大震災<rt
+  data-ruby-level="7">だいしんさい</rt></ruby>で<ruby>台湾<rt data-ruby-level="7">たいわん</rt></ruby>から<ruby>支援<rt
+  data-ruby-level="7">しえん</rt></ruby>を<ruby>受<rt data-ruby-level="3">う</rt></ruby>けた<ruby>宮城県<rt
+  data-ruby-level="8">みやぎけん</rt></ruby><ruby>南三陸町<rt data-ruby-level="4">みなみさんりくちょう</rt></ruby>では、<ruby>町内<rt
+  data-ruby-level="2">ちょうない</rt></ruby>に<ruby>募金箱<rt data-ruby-level="7">ぼきんばこ</rt></ruby>を<ruby>設<rt
+  data-ruby-level="5">もう</rt></ruby>けるなど<ruby>支援<rt data-ruby-level="7">しえん</rt></ruby>の<ruby>恩返<rt
+  data-ruby-level="5">おんがえ</rt></ruby>しをする<ruby>活動<rt data-ruby-level="3">かつどう</rt></ruby>が<ruby>始<rt
+  data-ruby-level="3">はじ</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/08/K10011321251_1802081947_1802082010_01_02.jpg
+more: このうち<ruby>南三陸町<rt data-ruby-level="4">みなみさんりくちょう</rt></ruby>で<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>、<ruby>復興<rt
+  data-ruby-level="5">ふっこう</rt></ruby>した<ruby>商店街<rt data-ruby-level="4">しょうてんがい</rt></ruby>では、「<ruby>台湾<rt
+  data-ruby-level="7">たいわん</rt></ruby><ruby>東部<rt data-ruby-level="3">とうぶ</rt></ruby><ruby>救援金<rt
+  data-ruby-level="7">きゅうえんきん</rt></ruby>」などと<ruby>書<rt data-ruby-level="2">か</rt></ruby>かれたシールがおよそ３０の<ruby>店舗<rt
+  data-ruby-level="7">てんぽ</rt></ruby>に<ruby>配<rt data-ruby-level="3">くば</rt></ruby>られ、<ruby>店主<rt
+  data-ruby-level="3">てんしゅ</rt></ruby>たちが、ペットボトルや<ruby>空<rt data-ruby-level="7">あ</rt></ruby>き<ruby>缶<rt
+  data-ruby-level="7">かん</rt></ruby>に<ruby>貼<rt data-ruby-level="7">は</rt></ruby>って<ruby>手作<rt
+  data-ruby-level="2">てづく</rt></ruby>りの<ruby>募金箱<rt data-ruby-level="7">ぼきんばこ</rt></ruby>を<ruby>作<rt
+  data-ruby-level="2">つく</rt></ruby>り、<ruby>早速<rt data-ruby-level="7">さっそく</rt></ruby>、<ruby>恩返<rt
+  data-ruby-level="5">おんがえ</rt></ruby>しの<ruby>募金<rt data-ruby-level="7">ぼきん</rt></ruby>を<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけました。<br /><br />７<ruby>年前<rt data-ruby-level="2">ねんまえ</rt></ruby>の<ruby>東日本<rt
+  data-ruby-level="2">ひがしにほん</rt></ruby><ruby>大震災<rt data-ruby-level="7">だいしんさい</rt></ruby>で、<ruby>大<rt
+  data-ruby-level="1">おお</rt></ruby>きな<ruby>被害<rt data-ruby-level="7">ひがい</rt></ruby>を<ruby>受<rt
+  data-ruby-level="3">う</rt></ruby>けた<ruby>南三陸町<rt data-ruby-level="4">みなみさんりくちょう</rt></ruby>では、<ruby>台湾<rt
+  data-ruby-level="7">たいわん</rt></ruby>からおよそ２２<ruby>億円<rt data-ruby-level="4">おくえん</rt></ruby>の<ruby>義援金<rt
+  data-ruby-level="7">ぎえんきん</rt></ruby>が<ruby>寄<rt data-ruby-level="5">よ</rt></ruby>せられ３<ruby>年前<rt
+  data-ruby-level="2">ねんまえ</rt></ruby>に<ruby>公立<rt data-ruby-level="2">こうりつ</rt></ruby>の<ruby>病院<rt
+  data-ruby-level="3">びょういん</rt></ruby>が<ruby>再建<rt data-ruby-level="5">さいけん</rt></ruby>されていて、<ruby>海外<rt
+  data-ruby-level="2">かいがい</rt></ruby>からでは<ruby>最<rt data-ruby-level="4">もっと</rt></ruby>も<ruby>多額<rt
+  data-ruby-level="5">たがく</rt></ruby>の<ruby>支援<rt data-ruby-level="7">しえん</rt></ruby>を<ruby>受<rt
+  data-ruby-level="3">う</rt></ruby>けた<ruby>台湾<rt data-ruby-level="7">たいわん</rt></ruby>と<ruby>町民<rt
+  data-ruby-level="4">ちょうみん</rt></ruby>レベルの<ruby>交流<rt data-ruby-level="3">こうりゅう</rt></ruby>も<ruby>盛<rt
+  data-ruby-level="6">さか</rt></ruby>んに<ruby>行<rt data-ruby-level="2">おこな</rt></ruby>われてきました。<br
+  /><br /><ruby>商店街<rt data-ruby-level="4">しょうてんがい</rt></ruby>でのり<ruby>屋<rt data-ruby-level="3">や</rt></ruby>を<ruby>営<rt
+  data-ruby-level="5">いとな</rt></ruby>む６２<ruby>歳<rt data-ruby-level="7">さい</rt></ruby>の<ruby>男性<rt
+  data-ruby-level="5">だんせい</rt></ruby>は、「ニュースで<ruby>台湾<rt data-ruby-level="7">たいわん</rt></ruby>の<ruby>被害<rt
+  data-ruby-level="7">ひがい</rt></ruby>を<ruby>見<rt data-ruby-level="1">み</rt></ruby>て、『ひと<ruby>事<rt
+  data-ruby-level="3">ごと</rt></ruby>ではない』と<ruby>感<rt data-ruby-level="3">かん</rt></ruby>じました。<ruby>支援<rt
+  data-ruby-level="7">しえん</rt></ruby>をしてくれた<ruby>台湾<rt data-ruby-level="7">たいわん</rt></ruby>の<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>たちの<ruby>力<rt data-ruby-level="1">ちから</rt></ruby>に<ruby>少<rt
+  data-ruby-level="2">すこ</rt></ruby>しでもなればいいなと<ruby>思<rt data-ruby-level="2">おも</rt></ruby>います」と<ruby>話<rt
+  data-ruby-level="2">はな</rt></ruby>していました。<br /><br />また<ruby>町<rt data-ruby-level="1">まち</rt></ruby>の<ruby>施設<rt
+  data-ruby-level="7">しせつ</rt></ruby>では、<ruby>役場<rt data-ruby-level="3">やくば</rt></ruby>の<ruby>担当者<rt
+  data-ruby-level="6">たんとうしゃ</rt></ruby>などが<ruby>集<rt data-ruby-level="3">あつ</rt></ruby>まって<ruby>恩返<rt
+  data-ruby-level="5">おんがえ</rt></ruby>しの<ruby>活動<rt data-ruby-level="3">かつどう</rt></ruby>について<ruby>議論<rt
+  data-ruby-level="6">ぎろん</rt></ruby>をし、<ruby>募金<rt data-ruby-level="7">ぼきん</rt></ruby>や<ruby>支援<rt
+  data-ruby-level="7">しえん</rt></ruby>の<ruby>活動<rt data-ruby-level="3">かつどう</rt></ruby>を<ruby>町内<rt
+  data-ruby-level="2">ちょうない</rt></ruby>でどのように<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>げていくかや、<ruby>町<rt
+  data-ruby-level="1">まち</rt></ruby>の<ruby>外<rt data-ruby-level="2">そと</rt></ruby>からも<ruby>募金<rt
+  data-ruby-level="7">ぼきん</rt></ruby>を<ruby>受<rt data-ruby-level="3">う</rt></ruby>けつける<ruby>方法<rt
+  data-ruby-level="4">ほうほう</rt></ruby>について<ruby>検討<rt data-ruby-level="6">けんとう</rt></ruby>しました。<br
+  /><br /><ruby>南三陸町<rt data-ruby-level="4">みなみさんりくちょう</rt></ruby>の<ruby>佐藤<rt data-ruby-level="7">さとう</rt></ruby><ruby>仁<rt
+  data-ruby-level="6">じん</rt></ruby><ruby>町長<rt data-ruby-level="2">ちょうちょう</rt></ruby>は、「<ruby>病院<rt
+  data-ruby-level="3">びょういん</rt></ruby>の<ruby>再建<rt data-ruby-level="5">さいけん</rt></ruby>では<ruby>台湾<rt
+  data-ruby-level="7">たいわん</rt></ruby>から<ruby>多大<rt data-ruby-level="2">ただい</rt></ruby>なる<ruby>支援<rt
+  data-ruby-level="7">しえん</rt></ruby>を<ruby>頂<rt data-ruby-level="6">いただ</rt></ruby>いた。<ruby>今回<rt
+  data-ruby-level="2">こんかい</rt></ruby>は<ruby>台湾<rt data-ruby-level="7">たいわん</rt></ruby>へ<ruby>恩返<rt
+  data-ruby-level="5">おんがえ</rt></ruby>しをする<ruby>番<rt data-ruby-level="2">ばん</rt></ruby>なので、<ruby>募金<rt
+  data-ruby-level="7">ぼきん</rt></ruby>や<ruby>支援<rt data-ruby-level="7">しえん</rt></ruby>への<ruby>協力<rt
+  data-ruby-level="4">きょうりょく</rt></ruby>を<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>く<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけていきたい」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。
+source_url: https://www3.nhk.or.jp/news/html/20180208/k10011321251000.html
+easy_title_with_ruby: 「<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>があった<ruby>台湾<rt
+  data-ruby-level="7">たいわん</rt></ruby>のために<ruby>今度<rt data-ruby-level="3">こんど</rt></ruby>は<ruby>私<rt
+  data-ruby-level="8">わたし</rt></ruby>たちが<ruby>役<rt data-ruby-level="3">やく</rt></ruby>に<ruby>立<rt
+  data-ruby-level="1">た</rt></ruby>ちたい」
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/02/13/地震があった台湾のために今度は私たちが役に立ちたい
+related_news:
+- title: <ruby>台湾<rt data-ruby-level="7">たいわん</rt></ruby>で<ruby>大地震<rt data-ruby-level="7">おおじしん</rt></ruby>
+    <ruby>死者<rt data-ruby-level="3">ししゃ</rt></ruby>５<ruby>人<rt data-ruby-level="1">にん</rt></ruby>に
+    <ruby>邦人<rt data-ruby-level="7">ほうじん</rt></ruby>９<ruby>人<rt data-ruby-level="1">にん</rt></ruby><ruby>含<rt
+    data-ruby-level="7">ふく</rt></ruby>め250<ruby>人<rt data-ruby-level="1">にん</rt></ruby><ruby>余<rt
+    data-ruby-level="5">よ</rt></ruby>けが
+  url: https://newswebeasy.github.io/news/web/2018/02/07/台湾で大地震-死者5人に-邦人9人含め250人余けが
+...

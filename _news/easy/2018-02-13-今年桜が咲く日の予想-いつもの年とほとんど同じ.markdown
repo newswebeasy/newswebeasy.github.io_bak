@@ -1,0 +1,55 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011321101000
+last_modified_at: '2018-02-13T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 天気予報を発表している会社などは毎年、ソメイヨシノという桜の花が咲く日を予想しています。
+title: 今年桜が咲く日の予想　「いつもの年とほとんど同じ」
+title_with_ruby: <ruby>今年<rt>ことし</rt></ruby><ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く<ruby>日<rt>ひ</rt></ruby>の<ruby>予想<rt>よそう</rt></ruby>　「いつもの<ruby>年<rt>とし</rt></ruby>とほとんど<ruby>同<rt>おな</rt></ruby>じ」
+outline: 天気予報を発表している会社などは毎年、ソメイヨシノという桜の花が咲く日を予想しています。
+outline_with_ruby: <ruby>天気予報<rt>てんきよほう</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>している<ruby>会社<rt>かいしゃ</rt></ruby>などは<ruby>毎年<rt>まいとし</rt></ruby>、ソメイヨシノという<ruby>桜<rt>さくら</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く<ruby>日<rt>ひ</rt></ruby>を<ruby>予想<rt>よそう</rt></ruby>しています。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/08/K10011321101_1802081717_1802081718_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/13/k10011321101000.mp3
+content_with_ruby: "<p><ruby>天気予報<rt>てんきよほう</rt></ruby>を<span style=\"color: blue;\"\
+  ><ruby>発表<rt>はっぴょう</rt></ruby></span>している<ruby>会社<rt>かいしゃ</rt></ruby>などは<ruby>毎年<rt>まいとし</rt></ruby>、ソメイヨシノという<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く<ruby>日<rt>ひ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>予想<rt>よそう</rt></ruby></span>しています。</p>\n<p>ウェザーマップという<ruby>会社<rt>かいしゃ</rt></ruby>は、いちばん<ruby>早<rt>はや</rt></ruby>く<ruby>咲<rt>さ</rt></ruby>くのは<ruby>高知市<rt>こうちし</rt></ruby>で、３<ruby>月<rt>がつ</rt></ruby>１９<ruby>日<rt>にち</rt></ruby>ごろだと<ruby>言<rt>い</rt></ruby>っています。<span\
+  \ style=\"color: blue;\"><ruby>九州<rt>きゅうしゅう</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>四国<rt>しこく</rt></ruby></span>ではいつもの<ruby>年<rt>とし</rt></ruby>より<ruby>少<rt>すこ</rt></ruby>し<ruby>早<rt>はや</rt></ruby>く<ruby>咲<rt>さ</rt></ruby>く<ruby>所<rt>ところ</rt></ruby>があるかもしれませんが、ほかの<ruby>所<rt>ところ</rt></ruby>ではいつもとほとんど<ruby>同<rt>おな</rt></ruby>じだと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>日本気象協会<rt>にほんきしょうきょうかい</rt></ruby>は、<ruby>高知市<rt>こうちし</rt></ruby>と<ruby>熊本市<rt>くまもとし</rt></ruby>と<ruby>宮崎<rt>みやざき</rt></ruby><ruby>市<rt>し</rt></ruby>がいちばん<ruby>早<rt>はや</rt></ruby>くて、３<ruby>月<rt>がつ</rt></ruby>２１<ruby>日<rt>にち</rt></ruby>に<ruby>咲<rt>さ</rt></ruby>くと<ruby>言<rt>い</rt></ruby>っています。<ruby>東京<rt>とうきょう</rt></ruby>と<ruby>福岡市<rt>ふくおかし</rt></ruby>は<ruby>２４日<rt>にじゅうよっか</rt></ruby>、<ruby>名古屋市<rt>なごやし</rt></ruby>が２６<ruby>日<rt>にち</rt></ruby>、<ruby>広島市<rt>ひろしまし</rt></ruby>が２７<ruby>日<rt>にち</rt></ruby>、<ruby>大阪市<rt>おおさかし</rt></ruby>が２８<ruby>日<rt>にち</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っています。<span\
+  \ style=\"color: blue;\"><ruby>九州<rt>きゅうしゅう</rt></ruby></span>ではいつもの<ruby>年<rt>とし</rt></ruby>より<ruby>早<rt>はや</rt></ruby>く<ruby>咲<rt>さ</rt></ruby>く<ruby>所<rt>ところ</rt></ruby>がありますが、ほかの<ruby>所<rt>ところ</rt></ruby>ではいつもとほとんど<ruby>同<rt>おな</rt></ruby>じだと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>日本気象協会<rt>にほんきしょうきょうかい</rt></ruby>は「１<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりにとても<ruby>寒<rt>さむ</rt></ruby>くなりましたが、２<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろからは、いつもの<ruby>年<rt>とし</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じぐらいの<span\
+  \ style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>になります。<span style=\"\
+  color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>もいつもの<ruby>年<rt>とし</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じぐらいの<ruby>日<rt>ひ</rt></ruby>に<ruby>咲<rt>さ</rt></ruby>くと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 桜
+  descriptions:
+  - <ruby><rb>山地</rb><rt>さんち</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>え、<ruby><rb>公園</rb><rt>こうえん</rt></ruby>や<ruby><rb>庭</rb><rt>にわ</rt></ruby>にも<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>木</rb><rt>き</rt></ruby>。ソメイヨシノ・シダレザクラ・ヤマザクラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>春</rb><rt>はる</rt></ruby>、うすもも<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>美</rb><rt>うつく</rt></ruby>しい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の「<ruby><rb>国花</rb><rt>こっか</rt></ruby>」とされる。
+- word: 予想
+  descriptions:
+  - <ruby><rb>前</rb><rt>まえ</rt></ruby>もって、こうだろうと<ruby><rb>考</rb><rt>かんが</rt></ruby>えること。または、その<ruby><rb>考</rb><rt>かんが</rt></ruby>え。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 九州地方
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>南西部</rb><rt>なんせいぶ</rt></ruby>にある<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>福岡</rb><rt>ふくおか</rt></ruby>・<ruby><rb>佐賀</rb><rt>さが</rt></ruby>・<ruby><rb>長崎</rb><rt>ながさき</rt></ruby>・<ruby><rb>熊本</rb><rt>くまもと</rt></ruby>・<ruby><rb>大分</rb><rt>おおいた</rt></ruby>・<ruby><rb>宮崎</rb><rt>みやざき</rt></ruby>・<ruby><rb>鹿児島</rb><rt>かごしま</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の八<ruby><rb>県</rb><rt>けん</rt></ruby>がある。
+- word: 四国地方
+  descriptions:
+  - <ruby><rb>瀬戸内海</rb><rt>せとないかい</rt></ruby>をはさんで<ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>と<ruby><rb>向</rb><rt>む</rt></ruby>かい<ruby><rb>合</rb><rt>あ</rt></ruby>っている<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>島</rb><rt>しま</rt></ruby>。<ruby><rb>香川</rb><rt>かがわ</rt></ruby>・<ruby><rb>高知</rb><rt>こうち</rt></ruby>・<ruby><rb>愛媛</rb><rt>えひめ</rt></ruby>・<ruby><rb>徳島</rb><rt>とくしま</rt></ruby>の四<ruby><rb>県</rb><rt>けん</rt></ruby>がある。
+- word: 気温
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011321101000/k10011321101000.html
+web_title_with_ruby: <ruby>サクラ<rt>さくら</rt></ruby>の<ruby>開花<rt>かいか</rt></ruby><ruby>予想<rt>よそう</rt></ruby>
+  <ruby>全国的<rt>ぜんこくてき</rt></ruby>に<ruby>平年並<rt>へいねんな</rt></ruby>み
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/08/サクラの開花予想-全国的に平年並み
+related_news:
+- title: <ruby>九州<rt>きゅうしゅう</rt></ruby>と<ruby>四国<rt>しこく</rt></ruby>と<ruby>中国地方<rt>ちゅうごくちほう</rt></ruby>で<ruby>初雪<rt>はつゆき</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/12/05/九州と四国と中国地方で初雪
+- title: レタスの<ruby>値段<rt>ねだん</rt></ruby>がいつもの<ruby>年<rt>とし</rt></ruby>の１．７<ruby>倍<rt>ばい</rt></ruby>　<ruby>大根<rt>だいこん</rt></ruby>と<ruby>白菜<rt>はくさい</rt></ruby>も<ruby>高<rt>たか</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2017/11/30/レタスの値段がいつもの年の17倍-大根と白菜も高い
+...

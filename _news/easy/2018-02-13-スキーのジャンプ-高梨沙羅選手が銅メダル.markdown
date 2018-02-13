@@ -1,0 +1,79 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011326321000
+last_modified_at: '2018-02-13T17:10:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>10<ruby>分<rt>ふん</rt></ruby>
+description: ピョンチャンオリンピックで１２日、スキーのジャンプの女子の試合がありました。
+title: スキーのジャンプ　高梨沙羅選手が銅メダル
+title_with_ruby: スキーのジャンプ　<ruby>高梨沙羅<rt>たかなしさら</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>銅<rt>どう</rt></ruby>メダル
+outline: ピョンチャンオリンピックで１２日、スキーのジャンプの女子の試合がありました。
+outline_with_ruby: ピョンチャンオリンピックで１２<ruby>日<rt>にち</rt></ruby>、スキーのジャンプの<ruby>女子<rt>じょし</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/12/K10011326321_1802130021_1802130025_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/13/k10011326321000.mp3
+content_with_ruby: "<p>ピョンチャンオリンピックで１２<ruby>日<rt>にち</rt></ruby>、<span style=\"color:\
+  \ blue;\">スキー</span>の<span style=\"color: blue;\">ジャンプ</span>の<span style=\"color:\
+  \ blue;\"><ruby>女子<rt>じょし</rt></ruby></span>の<ruby>試合<rt>しあい</rt></ruby>がありました。<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>高梨沙羅<rt>たかなしさら</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、１<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>も２<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>も１０３ｍ５０ｃｍを<ruby>飛<rt>と</rt></ruby>んで３<ruby>番<rt>ばん</rt></ruby>になって、<span\
+  \ style=\"color: blue;\"><ruby>銅<rt>どう</rt></ruby></span><span style=\"color: blue;\"\
+  >メダル</span>を<ruby>取<rt>と</rt></ruby>りました。</p>\n<p><span style=\"color: blue;\">スキー</span>の<span\
+  \ style=\"color: blue;\">ジャンプ</span>の<span style=\"color: blue;\"><ruby>女子<rt>じょし</rt></ruby></span>は、<span\
+  \ style=\"color: blue;\">オリンピック</span>では２０１４<ruby>年<rt>ねん</rt></ruby>から<ruby>試合<rt>しあい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>うようになりました。このとき<ruby>高梨<rt>たかなし</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は４<ruby>番<rt>ばん</rt></ruby>で、<span\
+  \ style=\"color: blue;\">メダル</span>を<ruby>取<rt>と</rt></ruby>ることができませんでした。<ruby>今<rt>いま</rt></ruby>２１<ruby>歳<rt>さい</rt></ruby>の<ruby>高梨<rt>たかなし</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、２<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>の<span\
+  \ style=\"color: blue;\">オリンピック</span>で<ruby>初<rt>はじ</rt></ruby>めて<span style=\"\
+  color: blue;\">メダル</span>を<ruby>取<rt>と</rt></ruby>りました。</p>\n<p><ruby>高梨<rt>たかなし</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は「<ruby>最後<rt>さいご</rt></ruby>にいちばんいい<span\
+  \ style=\"color: blue;\">ジャンプ</span>ができました。<ruby>日本<rt>にっぽん</rt></ruby>の<span style=\"\
+  color: blue;\">チーム</span>のみんなが<ruby>待<rt>ま</rt></ruby>っていてくれたので、<span style=\"color:\
+  \ blue;\"><ruby>涙<rt>なみだ</rt></ruby></span>が<ruby>止<rt>と</rt></ruby>まりませんでした」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: スキー
+  descriptions:
+  - くつに<ruby><rb>取</rb><rt>と</rt></ruby>りつけて、<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>板</rb><rt>いた</rt></ruby>。
+  - 「<span class="dic_sansyogogi">1)</span>」を<ruby><rb>使</rb><rt>つか</rt></ruby>って<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。
+- word: ジャンプ
+  descriptions:
+  - とび<ruby><rb>上</rb><rt>あ</rt></ruby>がること。
+  - スキーや<ruby><rb>陸上競技</rb><rt>りくじょうきょうぎ</rt></ruby>で、とんだ<ruby><rb>距離</rb><rt>きょり</rt></ruby>や<ruby><rb>高</rb><rt>たか</rt></ruby>さをきそう<ruby><rb>種目</rb><rt>しゅもく</rt></ruby>。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 銅
+  descriptions:
+  - <ruby><rb>熱</rb><rt>ねつ</rt></ruby>や、<ruby><rb>電気</rb><rt>でんき</rt></ruby>をよく<ruby><rb>伝</rb><rt>つた</rt></ruby>える、<ruby><rb>赤</rb><rt>あか</rt></ruby>っぽい<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。あかがね。
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+- word: 女子
+  descriptions:
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>女性</rb><rt>じょせい</rt></ruby>。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 涙
+  descriptions:
+  - <ruby><rb>泣</rb><rt>な</rt></ruby>いたときや<ruby><rb>目</rb><rt>め</rt></ruby>にごみが<ruby><rb>入</rb><rt>はい</rt></ruby>ったときなどに、<ruby><rb>目</rb><rt>め</rt></ruby>から<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>水</rb><rt>みず</rt></ruby>のようなもの。
+source_url: http://www3.nhk.or.jp/news/easy/k10011326321000/k10011326321000.html
+web_title_with_ruby: <ruby>高梨<rt>たかなし</rt></ruby>が<ruby>銅<rt>どう</rt></ruby><ruby>メダル<rt>めだる</rt></ruby>
+  <ruby>ジャンプ<rt>じゃんぷ</rt></ruby><ruby>女子<rt>じょし</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/12/高梨が銅メダル-ジャンプ女子
+related_news:
+- title: <ruby>韓国<rt>かんこく</rt></ruby>でピョンチャンオリンピックが<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/02/09/韓国でピョンチャンオリンピックが始まる
+- title: ジャンプの<ruby>葛西<rt>かさい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>「オリンピックで<ruby>金<rt>きん</rt></ruby>メダルをとりたい」
+  url: https://newswebeasy.github.io/news/easy/2018/02/06/ジャンプの葛西選手オリンピックで金メダルをとりたい
+- title: スピードスケートの<ruby>小平<rt>こだいら</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>世界<rt>せかい</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby><ruby>速<rt>はや</rt></ruby>い<ruby>記録<rt>きろく</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す
+  url: https://newswebeasy.github.io/news/easy/2017/12/12/スピードスケートの小平選手が世界で1番速い記録を出す
+- title: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>がピョンチャンオリンピックに２２<ruby>人<rt>にん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/01/23/北朝鮮がピョンチャンオリンピックに22人の選手を送る
+- title: <ruby>卓球<rt>たっきゅう</rt></ruby>の<ruby>全日本選手権<rt>ぜんにほんせんしゅけん</rt></ruby>で１４<ruby>歳<rt>さい</rt></ruby>の<ruby>張本<rt>はりもと</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2018/01/22/卓球の全日本選手権で14歳の張本選手が優勝する
+...

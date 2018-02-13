@@ -1,0 +1,45 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011321251000
+last_modified_at: '2018-02-13T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 日本の時間の７日午前１時ごろ、台湾の東側で大きな地震がありました。
+title: 「地震があった台湾のために今度は私たちが役に立ちたい」
+title_with_ruby: 「<ruby>地震<rt>じしん</rt></ruby>があった<ruby>台湾<rt>たいわん</rt></ruby>のために<ruby>今度<rt>こんど</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>たちが<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>ちたい」
+outline: 日本の時間の７日午前１時ごろ、台湾の東側で大きな地震がありました。
+outline_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>の<ruby>７日<rt>なのか</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>１<ruby>時<rt>じ</rt></ruby>ごろ、<ruby>台湾<rt>たいわん</rt></ruby>の<ruby>東側<rt>ひがしがわ</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/08/K10011321251_1802081947_1802082010_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/13/k10011321251000.mp3
+content_with_ruby: "<p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>の<ruby>７日<rt>なのか</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>１<ruby>時<rt>じ</rt></ruby>ごろ、<ruby>台湾<rt>たいわん</rt></ruby>の<ruby>東側<rt>ひがしがわ</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>がありました。この<ruby>地震<rt>じしん</rt></ruby>で、<ruby>花蓮市<rt>かれんし</rt></ruby>などではホテルやビルが<ruby>倒<rt>たお</rt></ruby>れたり<span\
+  \ style=\"color: blue;\"><ruby>傾<rt>かたむ</rt></ruby>い</span>たりしました。１１<ruby>日<rt>にち</rt></ruby>までに１６<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p><ruby>宮城県南三陸町<rt>みやぎけんみなみさんりくちょう</rt></ruby>の<span style=\"color: blue;\"><ruby>商店街<rt>しょうてんがい</rt></ruby></span>では、<ruby>自分<rt>じぶん</rt></ruby>たちの<ruby>店<rt>みせ</rt></ruby>に<span\
+  \ style=\"color: blue;\">ペットボトル</span>や<span style=\"color: blue;\"><ruby>缶<rt>かん</rt></ruby></span>を<ruby>置<rt>お</rt></ruby>いて、<ruby>台湾<rt>たいわん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちのためにお<ruby>金<rt>かね</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>め<ruby>始<rt>はじ</rt></ruby>めました。<ruby>南三陸町<rt>みなみさんりくちょう</rt></ruby>は、７<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>東日本大震災<rt>ひがしにほんだいしんさい</rt></ruby>のとき<ruby>病院<rt>びょういん</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れましたが、<ruby>台湾<rt>たいわん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが<ruby>送<rt>おく</rt></ruby>ってくれた２２<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>新<rt>あたら</rt></ruby>しい<ruby>病院<rt>びょういん</rt></ruby>をつくることができました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>商店街<rt>しょうてんがい</rt></ruby></span>の<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>台湾<rt>たいわん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちは<ruby>私<rt>わたし</rt></ruby>たちに<ruby>大<rt>おお</rt></ruby>きな<ruby>力<rt>ちから</rt></ruby>を<ruby>貸<rt>か</rt></ruby>してくれました。<ruby>今度<rt>こんど</rt></ruby>は、<ruby>私<rt>わたし</rt></ruby>たちが<ruby>台湾<rt>たいわん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちのために<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つことができたらいいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 傾く
+  descriptions:
+  - ななめになる。
+  - （<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>などが）ある<ruby><rb>方</rb><rt>ほう</rt></ruby>へ<ruby><rb>寄</rb><rt>よ</rt></ruby>る。
+  - <ruby><rb>日</rb><rt>ひ</rt></ruby>や<ruby><rb>月</rb><rt>つき</rt></ruby>が、<ruby><rb>西</rb><rt>にし</rt></ruby>にしずもうとする。
+  - おとろえる。
+- word: 商店街
+  descriptions:
+  - <ruby><rb>商店</rb><rt>しょうてん</rt></ruby>がたくさん<ruby><rb>並</rb><rt>なら</rt></ruby>んでいる<ruby><rb>通</rb><rt>とお</rt></ruby>り。
+- word: ペットボトル
+  descriptions:
+  - <ruby><rb>樹脂製</rb><rt>じゅしせい</rt></ruby>の<ruby><rb>容器</rb><rt>ようき</rt></ruby>。<ruby><rb>軽</rb><rt>かる</rt></ruby>くて<ruby><rb>丈夫</rb><rt>じょうぶ</rt></ruby>なので<ruby><rb>飲</rb><rt>の</rt></ruby>み<ruby><rb>物</rb><rt>もの</rt></ruby>などの<ruby><rb>容器</rb><rt>ようき</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>われる。ポリエチレンテレフタレートの<ruby><rb>頭文字</rb><rt>かしらもじ</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>って<ruby><rb>PET</rb><rt>ぺット</rt></ruby>という。
+- word: 缶
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011321251000/k10011321251000.html
+web_title_with_ruby: <ruby>台湾<rt>たいわん</rt></ruby>の<ruby>地震<rt>じしん</rt></ruby> <ruby>東日本<rt>ひがしにほん</rt></ruby><ruby>大震災<rt>だいしんさい</rt></ruby>の<ruby>被災地<rt>ひさいち</rt></ruby>で<ruby>募金<rt>ぼきん</rt></ruby><ruby>開始<rt>かいし</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/08/台湾の地震-東日本大震災の被災地で募金開始
+related_news:
+- title: <ruby>台湾<rt>たいわん</rt></ruby>で<ruby>地震<rt>じしん</rt></ruby>　５<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって２５０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>がけがをする
+  url: https://newswebeasy.github.io/news/easy/2018/02/07/台湾で地震-5人が亡くなって250人以上がけがをする
+- title: <ruby>阪神<rt>はんしん</rt></ruby>・<ruby>淡路大震災<rt>あわじだいしんさい</rt></ruby>が<ruby>起<rt>お</rt></ruby>こってから２３<ruby>年<rt>ねん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/17/阪神淡路大震災が起こってから23年
+...
