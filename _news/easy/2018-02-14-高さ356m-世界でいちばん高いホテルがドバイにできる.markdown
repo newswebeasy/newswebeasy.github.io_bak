@@ -1,0 +1,39 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011326611000
+last_modified_at: '2018-02-14T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ＵＡＥ（アラブ首長国連邦）のドバイに、世界でいちばん高いホテルができました。
+title: 高さ３５６ｍ　世界でいちばん高いホテルがドバイにできる
+title_with_ruby: <ruby>高<rt>たか</rt></ruby>さ３５６ｍ　<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>高<rt>たか</rt></ruby>いホテルがドバイにできる
+outline: ＵＡＥ（アラブ首長国連邦）のドバイに、世界でいちばん高いホテルができました。
+outline_with_ruby: ＵＡＥ（アラブ<ruby>首長国連邦<rt>しゅちょうこくれんぽう</rt></ruby>）のドバイに、<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>高<rt>たか</rt></ruby>いホテルができました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/13/K10011326611_1802130736_1802130809_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/14/k10011326611000.mp3
+content_with_ruby: "<p>ＵＡＥ（アラブ<ruby>首長国連邦<rt>しゅちょうこくれんぽう</rt></ruby>）のドバイに、<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>高<rt>たか</rt></ruby>いホテルができました。ホテルの<ruby>高<rt>たか</rt></ruby>さは３５６ｍで、<ruby>今<rt>いま</rt></ruby>まで<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>高<rt>たか</rt></ruby>かったドバイのホテルより１ｍ<ruby>高<rt>たか</rt></ruby>くなりました。</p>\n\
+  <p>このホテルは７５<ruby>階<rt>かい</rt></ruby><ruby>建<rt>だ</rt></ruby>てで、５００<ruby>以上<rt>いじょう</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>があります。１<span\
+  \ style=\"color: blue;\"><ruby>泊<rt>ぱく</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>平均<rt>へいきん</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>で２<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以下<rt>いか</rt></ruby>です。<ruby>家族<rt>かぞく</rt></ruby>で<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>に<ruby>泊<rt>と</rt></ruby>まってもらおうと<ruby>考<rt>かんが</rt></ruby>えて、<ruby>周<rt>まわ</rt></ruby>りのホテルより<ruby>値段<rt>ねだん</rt></ruby>を<ruby>安<rt>やす</rt></ruby>くしています。</p>\n\
+  <p>ドバイには、<ruby>建物<rt>たてもの</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さが<ruby>世界<rt>せかい</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>い１０のホテルのうち、７つが<ruby>集<rt>あつ</rt></ruby>まっています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 泊
+  descriptions:
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>が<ruby><rb>港</rb><rt>みなと</rt></ruby>にとまる。
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>家</rb><rt>いえ</rt></ruby>でない<ruby><rb>所</rb><rt>ところ</rt></ruby>にとまる。
+  - あっさりしている。
+  - とまった<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+source_url: http://www3.nhk.or.jp/news/easy/k10011326611000/k10011326611000.html
+web_title_with_ruby: <ruby>世界<rt>せかい</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>高層<rt>こうそう</rt></ruby>でも<ruby>宿泊費<rt>しゅくはくひ</rt></ruby>は１<ruby>万<rt>まん</rt></ruby><ruby>円台<rt>えんだい</rt></ruby>の<ruby>ホテル<rt>ほてる</rt></ruby>
+  <ruby>ドバイ<rt>どばい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/13/世界で最も高層でも宿泊費は1万円台のホテル-ドバイ
+related_news:
+- title: <ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>使<rt>つか</rt></ruby>ったお<ruby>金<rt>かね</rt></ruby>　<ruby>初<rt>はじ</rt></ruby>めて４<ruby>兆<rt>ちょう</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/01/17/旅行に来た外国人が使ったお金-初めて4兆円以上になる
+...

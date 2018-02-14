@@ -1,0 +1,43 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011325581000
+last_modified_at: '2018-02-14T17:45:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>45<ruby>分<rt>ふん</rt></ruby>
+description: 神奈川県小田原市の梅の木がたくさん植えてある曽我梅林では、毎年梅の花が咲く季節に「梅まつり」を行っています。
+title: 神奈川県小田原市で「梅まつり」　梅の花がきれいに咲く
+title_with_ruby: <ruby>神奈川県<rt>かながわけん</rt></ruby><ruby>小田原市<rt>おだわらし</rt></ruby>で「<ruby>梅<rt>うめ</rt></ruby>まつり」　<ruby>梅<rt>うめ</rt></ruby>の<ruby>花<rt>はな</rt></ruby>がきれいに<ruby>咲<rt>さ</rt></ruby>く
+outline: 神奈川県小田原市の梅の木がたくさん植えてある曽我梅林では、毎年梅の花が咲く季節に「梅まつり」を行っています。
+outline_with_ruby: <ruby>神奈川県<rt>かながわけん</rt></ruby><ruby>小田原市<rt>おだわらし</rt></ruby>の<ruby>梅<rt>うめ</rt></ruby>の<ruby>木<rt>き</rt></ruby>がたくさん<ruby>植<rt>う</rt></ruby>えてある<ruby>曽我梅林<rt>そがばいりん</rt></ruby>では、<ruby>毎年<rt>まいとし</rt></ruby><ruby>梅<rt>うめ</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く<ruby>季節<rt>きせつ</rt></ruby>に「<ruby>梅<rt>うめ</rt></ruby>まつり」を<ruby>行<rt>おこな</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/12/K10011325581_1802121153_1802121303_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/14/k10011325581000.mp3
+content_with_ruby: "<p><ruby>神奈川県<rt>かながわけん</rt></ruby><ruby>小田原市<rt>おだわらし</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>梅<rt>うめ</rt></ruby></span>の<ruby>木<rt>き</rt></ruby>がたくさん<ruby>植<rt>う</rt></ruby>えてある<ruby>曽我梅林<rt>そがばいりん</rt></ruby>では、<ruby>毎年<rt>まいとし</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>梅<rt>うめ</rt></ruby></span>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く<ruby>季節<rt>きせつ</rt></ruby>に「<ruby>梅<rt>うめ</rt></ruby>まつり」を<ruby>行<rt>おこな</rt></ruby>っています。</p>\n\
+  <p><ruby>曽我梅林<rt>そがばいりん</rt></ruby>には、２０<span style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>、３<ruby>万<rt>まん</rt></ruby>５０００<ruby>本<rt>ぼん</rt></ruby>ぐらいの<span\
+  \ style=\"color: blue;\"><ruby>梅<rt>うめ</rt></ruby></span>の<ruby>木<rt>き</rt></ruby>があります。<ruby>今<rt>いま</rt></ruby>は、<ruby>普通<rt>ふつう</rt></ruby>より<ruby>早<rt>はや</rt></ruby>く<ruby>咲<rt>さ</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<ruby>花<rt>はな</rt></ruby>がきれいに<ruby>咲<rt>さ</rt></ruby>いています。<ruby>白<rt>しろ</rt></ruby>い<ruby>花<rt>はな</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くて、<ruby>赤<rt>あか</rt></ruby>い<ruby>花<rt>はな</rt></ruby>も<ruby>少<rt>すこ</rt></ruby>しあります。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>から<ruby>家族<rt>かぞく</rt></ruby>と<ruby>来<rt>き</rt></ruby>た<ruby>男性<rt>だんせい</rt></ruby>は「いい<span\
+  \ style=\"color: blue;\"><ruby>香<rt>かお</rt></ruby>り</span>で、とてもよかったです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>梅<rt>うめ</rt></ruby>まつりは３<ruby>月<rt>がつ</rt></ruby><ruby>４日<rt>よっか</rt></ruby>までです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 梅
+  descriptions:
+  - <ruby><rb>春</rb><rt>はる</rt></ruby>の<ruby><rb>初</rb><rt>はじ</rt></ruby>め、<ruby><rb>葉</rb><rt>は</rt></ruby>よりも<ruby><rb>先</rb><rt>さき</rt></ruby>に、<ruby><rb>白</rb><rt>しろ</rt></ruby>や<ruby><rb>紅</rb><rt>くれない</rt></ruby>のかおりのよい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く<ruby><rb>木</rb><rt>き</rt></ruby>。<ruby><rb>六月</rb><rt>ろくがつ</rt></ruby>ごろ<ruby><rb>実</rb><rt>み</rt></ruby>が<ruby><rb>大</rb><rt>おお</rt></ruby>きくなり、<ruby><rb>梅</rb><rt>うめ</rt></ruby>ぼしや<ruby><rb>梅酒</rb><rt>うめしゅ</rt></ruby>などにする。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 香り
+  descriptions:
+  - いいにおい。
+  - そのものから<ruby><rb>感</rb><rt>かん</rt></ruby>じられる<ruby><rb>品</rb><rt>ひん</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>さ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011325581000/k10011325581000.html
+web_title_with_ruby: <ruby>早咲<rt>はやざ</rt></ruby>きの<ruby>梅<rt>うめ</rt></ruby>が<ruby>見頃<rt>みごろ</rt></ruby>
+  <ruby>神奈川<rt>かながわ</rt></ruby> <ruby>小田原<rt>おだわら</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/12/早咲きの梅が見頃-神奈川-小田原
+related_news:
+- title: <ruby>今年<rt>ことし</rt></ruby><ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く<ruby>日<rt>ひ</rt></ruby>の<ruby>予想<rt>よそう</rt></ruby>　「いつもの<ruby>年<rt>とし</rt></ruby>とほとんど<ruby>同<rt>おな</rt></ruby>じ」
+  url: https://newswebeasy.github.io/news/easy/2018/02/13/今年桜が咲く日の予想-いつもの年とほとんど同じ
+...
