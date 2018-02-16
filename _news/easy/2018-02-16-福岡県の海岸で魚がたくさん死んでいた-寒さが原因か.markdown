@@ -1,0 +1,53 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011329141000
+last_modified_at: '2018-02-16T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 福岡県の福岡市から糸島市に続く海岸で、ハリセンボンという魚が砂の上でたくさん死んでいるのが見つかりました。
+title: 福岡県の海岸で魚がたくさん死んでいた　寒さが原因か
+title_with_ruby: <ruby>福岡県<rt>ふくおかけん</rt></ruby>の<ruby>海岸<rt>かいがん</rt></ruby>で<ruby>魚<rt>さかな</rt></ruby>がたくさん<ruby>死<rt>し</rt></ruby>んでいた　<ruby>寒<rt>さむ</rt></ruby>さが<ruby>原因<rt>げんいん</rt></ruby>か
+outline: 福岡県の福岡市から糸島市に続く海岸で、ハリセンボンという魚が砂の上でたくさん死んでいるのが見つかりました。
+outline_with_ruby: <ruby>福岡県<rt>ふくおかけん</rt></ruby>の<ruby>福岡市<rt>ふくおかし</rt></ruby>から<ruby>糸島市<rt>いとしまし</rt></ruby>に<ruby>続<rt>つづ</rt></ruby>く<ruby>海岸<rt>かいがん</rt></ruby>で、ハリセンボンという<ruby>魚<rt>さかな</rt></ruby>が<ruby>砂<rt>すな</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>でたくさん<ruby>死<rt>し</rt></ruby>んでいるのが<ruby>見<rt>み</rt></ruby>つかりました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/14/K10011329141_1802141925_1802141931_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/16/k10011329141000.mp3
+content_with_ruby: "<p><ruby>福岡県<rt>ふくおかけん</rt></ruby>の<ruby>福岡市<rt>ふくおかし</rt></ruby>から<ruby>糸島市<rt>いとしまし</rt></ruby>に<ruby>続<rt>つづ</rt></ruby>く<ruby>海岸<rt>かいがん</rt></ruby>で、ハリセンボンという<ruby>魚<rt>さかな</rt></ruby>が<ruby>砂<rt>すな</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>でたくさん<ruby>死<rt>し</rt></ruby>んでいるのが<ruby>見<rt>み</rt></ruby>つかりました。ハリセンボンは、<ruby>体<rt>からだ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>針<rt>はり</rt></ruby></span>のような<ruby>物<rt>もの</rt></ruby>がたくさんある<ruby>魚<rt>さかな</rt></ruby>で、いつもは<ruby>温<rt>あたた</rt></ruby>かい<ruby>海<rt>うみ</rt></ruby>にいます。</p>\n\
+  <p><ruby>専門家<rt>せんもんか</rt></ruby>は「<ruby>福岡市<rt>ふくおかし</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>沖<rt>おき</rt></ruby></span>の<ruby>海<rt>うみ</rt></ruby>では<ruby>何<rt>なん</rt></ruby><ruby>年<rt>ねん</rt></ruby>かに１<ruby>回<rt>かい</rt></ruby>、<ruby>冬<rt>ふゆ</rt></ruby>にハリセンボンがたくさん<ruby>集<rt>あつ</rt></ruby>まることがあります。<ruby>最近<rt>さいきん</rt></ruby><ruby>寒<rt>さむ</rt></ruby>かったので<ruby>元気<rt>げんき</rt></ruby>に<ruby>動<rt>うご</rt></ruby>くことができなくなって、<ruby>海岸<rt>かいがん</rt></ruby>まで<span\
+  \ style=\"color: blue;\"><ruby>流<rt>なが</rt></ruby>れ</span>てきたのだと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 針
+  descriptions:
+  - <ruby><rb>糸</rb><rt>いと</rt></ruby>をつけて<ruby><rb>布</rb><rt>ぬの</rt></ruby>などをぬう、<ruby><rb>細</rb><rt>ほそ</rt></ruby>くて<ruby><rb>先</rb><rt>さき</rt></ruby>のとがったもの。
+  - さいほう。
+  - <ruby><rb>細</rb><rt>ほそ</rt></ruby>くて<ruby><rb>先</rb><rt>さき</rt></ruby>のとがったもの。
+  - <ruby><rb>釣</rb><rt>つ</rt></ruby>り<ruby><rb>針</rb><rt>ばり</rt></ruby>。
+  - とげとげしい<ruby><rb>感</rb><rt>かん</rt></ruby>じ。
+- word: 沖
+  descriptions:
+  - <ruby><rb>海</rb><rt>うみ</rt></ruby>や<ruby><rb>湖</rb><rt>みずうみ</rt></ruby>で、<ruby><rb>岸</rb><rt>きし</rt></ruby>から<ruby><rb>遠</rb><rt>とお</rt></ruby>くはなれた<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 流れる
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。
+  - <ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。
+  - うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - とりやめになる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011329141000/k10011329141000.html
+web_title_with_ruby: <ruby>ハリセンボン<rt>はりせんぼん</rt></ruby>が<ruby>海岸<rt>かいがん</rt></ruby>で<ruby>大量死<rt>たいりょうし</rt></ruby>  <ruby>寒<rt>さむ</rt></ruby>さで<ruby>活動<rt>かつどう</rt></ruby><ruby>鈍<rt>にぶ</rt></ruby>ったか
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/14/ハリセンボンが海岸で大量死-寒さで活動鈍ったか
+related_news:
+- title: <ruby>奄美大島<rt>あまみおおしま</rt></ruby>の<ruby>海岸<rt>かいがん</rt></ruby>に<ruby>油<rt>あぶら</rt></ruby>のような<ruby>物<rt>もの</rt></ruby>　　<ruby>沈<rt>しず</rt></ruby>んだタンカーの<ruby>油<rt>あぶら</rt></ruby>か
+  url: https://newswebeasy.github.io/news/easy/2018/02/02/奄美大島の海岸に油のような物-沈んだタンカーの油か
+- title: <ruby>奄美大島<rt>あまみおおしま</rt></ruby>で<ruby>海岸<rt>かいがん</rt></ruby>に<ruby>流<rt>なが</rt></ruby>れてきた<ruby>油<rt>あぶら</rt></ruby>の<ruby>掃除<rt>そうじ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/02/09/奄美大島で海岸に流れてきた油の掃除が始まる
+- title: <ruby>秋田県<rt>あきたけん</rt></ruby>　アザラシが<ruby>川<rt>かわ</rt></ruby>を<ruby>泳<rt>およ</rt></ruby>いで<ruby>山<rt>やま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>まで<ruby>来<rt>き</rt></ruby>た
+  url: https://newswebeasy.github.io/news/easy/2018/01/19/秋田県-アザラシが川を泳いで山の中まで来た
+- title: 「デンキウナギ」の<ruby>電気<rt>でんき</rt></ruby>でクリスマスツリーが<ruby>光<rt>ひか</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2017/11/28/デンキウナギの電気でクリスマスツリーが光る
+- title: <ruby>世界<rt>せかい</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby>で<ruby>酸性<rt>さんせい</rt></ruby>になっている
+  url: https://newswebeasy.github.io/news/easy/2017/12/05/世界の海の水が二酸化炭素で酸性になっている
+...

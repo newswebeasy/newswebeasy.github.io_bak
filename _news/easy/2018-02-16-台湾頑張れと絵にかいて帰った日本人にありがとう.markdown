@@ -1,0 +1,52 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011331091000
+last_modified_at: '2018-02-16T17:25:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>25<ruby>分<rt>ふん</rt></ruby>
+description: 台湾の東側で、日本の時間の７日に大きな地震がありました。
+title: 台湾頑張れと絵にかいて帰った日本人に「ありがとう」
+title_with_ruby: <ruby>台湾<rt>たいわん</rt></ruby><ruby>頑張<rt>がんば</rt></ruby>れと<ruby>絵<rt>え</rt></ruby>にかいて<ruby>帰<rt>かえ</rt></ruby>った<ruby>日本人<rt>にっぽんじん</rt></ruby>に「ありがとう」
+outline: 台湾の東側で、日本の時間の７日に大きな地震がありました。
+outline_with_ruby: <ruby>台湾<rt>たいわん</rt></ruby>の<ruby>東側<rt>ひがしがわ</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>の<ruby>７日<rt>なのか</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/16/K10011331091_1802160654_1802160702_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/16/k10011331091000.mp3
+content_with_ruby: "<p><ruby>台湾<rt>たいわん</rt></ruby>の<ruby>東側<rt>ひがしがわ</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>の<ruby>７日<rt>なのか</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>がありました。この<ruby>地震<rt>じしん</rt></ruby>で１６<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、<ruby>１人<rt>ひとり</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>行方不明<rt>ゆくえふめい</rt></ruby></span>になっています。</p>\n<p><span\
+  \ style=\"color: blue;\">イラスト</span>をかく<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>村上咲<rt>むらかみさき</rt></ruby>さんは、<ruby>１０日<rt>とおか</rt></ruby>から<ruby>台北市<rt>たいほくし</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。そして、ホテルの<ruby>部屋<rt>へや</rt></ruby>にあった<span\
+  \ style=\"color: blue;\">メモ</span>の<ruby>紙<rt>かみ</rt></ruby>に、<ruby>台湾<rt>たいわん</rt></ruby>の<ruby>景色<rt>けしき</rt></ruby>の<ruby>絵<rt>え</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に「<ruby>台湾<rt>たいわん</rt></ruby><ruby>頑張<rt>がんば</rt></ruby>れ」とかいて<ruby>帰<rt>かえ</rt></ruby>りました。</p>\n\
+  <p><ruby>掃除<rt>そうじ</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>が、<ruby>部屋<rt>へや</rt></ruby>に<ruby>置<rt>お</rt></ruby>いてあったこの<ruby>紙<rt>かみ</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけると、ホテルは、この<ruby>紙<rt>かみ</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>をインターネットのフェイスブックに<ruby>出<rt>だ</rt></ruby>しました。そして「<ruby>日本<rt>にっぽん</rt></ruby>からの<ruby>優<rt>やさ</rt></ruby>しい<ruby>気持<rt>きも</rt></ruby>ちで、ホテルで<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>は<ruby>温<rt>あたた</rt></ruby>かい<ruby>気持<rt>きも</rt></ruby>ちになりました」とかきました。</p>\n\
+  <p>インターネットには、<ruby>台湾<rt>たいわん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが「<span style=\"\
+  color: blue;\"><ruby>感動<rt>かんどう</rt></ruby></span>した」とか「ありがとう」とかいていて、<ruby>台湾<rt>たいわん</rt></ruby>のニュースなども<ruby>伝<rt>つた</rt></ruby>えました。</p>\n\
+  <p><ruby>村上<rt>むらかみ</rt></ruby>さんは「びっくりしています。<ruby>台湾<rt>たいわん</rt></ruby>ではたくさんの<ruby>人<rt>ひと</rt></ruby>に<ruby>親切<rt>しんせつ</rt></ruby>にしてもらったので、<ruby>台湾<rt>たいわん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>応援<rt>おうえん</rt></ruby></span>する<ruby>気持<rt>きも</rt></ruby>ちを<ruby>伝<rt>つた</rt></ruby>えたいと<ruby>思<rt>おも</rt></ruby>いました」とＮＨＫに<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 行方不明
+  descriptions:
+  - どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。
+- word: イラスト
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「イラストレーション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>本</rb><rt>ほん</rt></ruby>・<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などで、<ruby><rb>文</rb><rt>ぶん</rt></ruby>を<ruby><rb>説明</rb><rt>せつめい</rt></ruby>したり、<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>立</rb><rt>た</rt></ruby>てたりする<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>図</rb><rt>ず</rt></ruby>。さし<ruby><rb>絵</rb><rt>え</rt></ruby>。
+- word: メモ
+  descriptions:
+  - <ruby><rb>忘</rb><rt>わす</rt></ruby>れないように<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、その<ruby><rb>紙</rb><rt>かみ</rt></ruby>やノート。<ruby><rb>覚</rb><rt>おぼ</rt></ruby>え<ruby><rb>書</rb><rt>が</rt></ruby>き。
+- word: 感動
+  descriptions:
+  - あるものごとに、<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>動</rb><rt>うご</rt></ruby>かされること。
+- word: 応援
+  descriptions:
+  - <ruby><rb>味方</rb><rt>みかた</rt></ruby>を、はげますこと。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>をかして<ruby><rb>助</rb><rt>たす</rt></ruby>けること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011331091000/k10011331091000.html
+web_title_with_ruby: 「<ruby>台湾<rt>たいわん</rt></ruby><ruby>頑張<rt>がんば</rt></ruby>れ」<ruby>日本人<rt>にほんじん</rt></ruby>が<ruby>残<rt>のこ</rt></ruby>した<ruby>イラスト<rt>いらすと</rt></ruby>が<ruby>話題<rt>わだい</rt></ruby>に
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/16/台湾頑張れ日本人が残したイラストが話題に
+related_news:
+- title: 「<ruby>地震<rt>じしん</rt></ruby>があった<ruby>台湾<rt>たいわん</rt></ruby>のために<ruby>今度<rt>こんど</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>たちが<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>ちたい」
+  url: https://newswebeasy.github.io/news/easy/2018/02/13/地震があった台湾のために今度は私たちが役に立ちたい
+- title: <ruby>台湾<rt>たいわん</rt></ruby>で<ruby>地震<rt>じしん</rt></ruby>　５<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって２５０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>がけがをする
+  url: https://newswebeasy.github.io/news/easy/2018/02/07/台湾で地震-5人が亡くなって250人以上がけがをする
+- title: <ruby>台湾<rt>たいわん</rt></ruby>　<ruby>頑張<rt>がんば</rt></ruby>っている<ruby>福島県<rt>ふくしまけん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちを<ruby>紹介<rt>しょうかい</rt></ruby>するイベント
+  url: https://newswebeasy.github.io/news/easy/2017/12/01/台湾-頑張っている福島県の人たちを紹介するイベント
+...

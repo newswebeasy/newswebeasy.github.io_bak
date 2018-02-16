@@ -1,0 +1,97 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011328721000
+last_modified_at: '2018-02-16T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 日本郵便は、ピョンチャンオリンピックでメダルを取った選手の切手を売り始めました。
+title: オリンピックでメダルを取った選手の切手を売る
+title_with_ruby: オリンピックでメダルを<ruby>取<rt>と</rt></ruby>った<ruby>選手<rt>せんしゅ</rt></ruby>の<ruby>切手<rt>きって</rt></ruby>を<ruby>売<rt>う</rt></ruby>る
+outline: 日本郵便は、ピョンチャンオリンピックでメダルを取った選手の切手を売り始めました。
+outline_with_ruby: <ruby>日本郵便<rt>にっぽんゆうびん</rt></ruby>は、ピョンチャンオリンピックでメダルを<ruby>取<rt>と</rt></ruby>った<ruby>選手<rt>せんしゅ</rt></ruby>の<ruby>切手<rt>きって</rt></ruby>を<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201802/news/easy/image/2018/02/16/k10011328721000.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/16/k10011328721000.mp3
+content_with_ruby: "<p><ruby>日本郵便<rt>にっぽんゆうびん</rt></ruby>は、ピョンチャンオリンピックで<span style=\"\
+  color: blue;\">メダル</span>を<ruby>取<rt>と</rt></ruby>った<span style=\"color: blue;\"\
+  ><ruby>選手<rt>せんしゅ</rt></ruby></span>の<ruby>切手<rt>きって</rt></ruby>を<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。１５<ruby>日<rt>にち</rt></ruby>から、<span\
+  \ style=\"color: blue;\">スピード</span><span style=\"color: blue;\">スケート</span>の<ruby>高木<rt>たかぎ</rt></ruby><ruby>美帆<rt>みほ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>と、<span style=\"color:\
+  \ blue;\">スキー</span>の<span style=\"color: blue;\">ジャンプ</span>の<ruby>高梨<rt>たかなし</rt></ruby><ruby>沙羅<rt>さら</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>、<span style=\"color:\
+  \ blue;\">スキー</span>のモーグルの<ruby>原<rt>はら</rt></ruby><ruby>大智<rt>だいち</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>の３<ruby>人<rt>にん</rt></ruby>の<ruby>切手<rt>きって</rt></ruby>を<ruby>売<rt>う</rt></ruby>っています。</p>\n\
+  <p><ruby>切手<rt>きって</rt></ruby>には、<ruby>試合<rt>しあい</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>や<span\
+  \ style=\"color: blue;\">メダル</span>を<ruby>渡<rt>わた</rt></ruby>す<ruby>式<rt>しき</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>などが<span\
+  \ style=\"color: blue;\">デザイン</span>してあります。８２<ruby>円<rt>えん</rt></ruby>の<ruby>切手<rt>きって</rt></ruby>が５<ruby>枚<rt>まい</rt></ruby><span\
+  \ style=\"color: blue;\">セット</span>になっていて、１４００<ruby>円<rt>えん</rt></ruby>です。３<ruby>人<rt>にん</rt></ruby>の<ruby>切手<rt>きって</rt></ruby>は、<ruby>東京中央郵便局<rt>とうきょうちゅうおうゆうびんきょく</rt></ruby>など１０の<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>や、<ruby>日本郵便<rt>にっぽんゆうびん</rt></ruby>の<span\
+  \ style=\"color: blue;\">ウェブサイト</span>などで<ruby>買<rt>か</rt></ruby>うことができます。</p>\n\
+  <p><ruby>日本郵便<rt>にっぽんゆうびん</rt></ruby>は<ruby>日本<rt>にっぽん</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<span style=\"color: blue;\"\
+  >メダル</span>を<ruby>取<rt>と</rt></ruby>ったら、<span style=\"color: blue;\">メダル</span>を<ruby>渡<rt>わた</rt></ruby>す<ruby>式<rt>しき</rt></ruby>が<ruby>終<rt>お</rt></ruby>わってから<ruby>２日<rt>ふつか</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>後<rt>ご</rt></ruby></span>に<ruby>切手<rt>きって</rt></ruby>を<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めます。１６<ruby>日<rt>にち</rt></ruby>からは、<span\
+  \ style=\"color: blue;\">スノーボード</span>の<ruby>平野<rt>ひらの</rt></ruby><ruby>歩夢<rt>あゆむ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>の<ruby>切手<rt>きって</rt></ruby>も<ruby>売<rt>う</rt></ruby>ります。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: スピード
+  descriptions:
+  - <ruby><rb>速</rb><rt>はや</rt></ruby>さ。<ruby><rb>速力</rb><rt>そくりょく</rt></ruby>。
+- word: スケート
+  descriptions:
+  - <ruby><rb>底</rb><rt>そこ</rt></ruby>に<ruby><rb>金具</rb><rt>かなぐ</rt></ruby>の<ruby><rb>刃</rb><rt>は</rt></ruby>がついているくつをはいて、<ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。アイススケート。また、そのためのくつ。
+  - 「ローラースケート」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+- word: スキー
+  descriptions:
+  - くつに<ruby><rb>取</rb><rt>と</rt></ruby>りつけて、<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>板</rb><rt>いた</rt></ruby>。
+  - 「<span class="dic_sansyogogi">1)</span>」を<ruby><rb>使</rb><rt>つか</rt></ruby>って<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。
+- word: ジャンプ
+  descriptions:
+  - とび<ruby><rb>上</rb><rt>あ</rt></ruby>がること。
+  - スキーや<ruby><rb>陸上競技</rb><rt>りくじょうきょうぎ</rt></ruby>で、とんだ<ruby><rb>距離</rb><rt>きょり</rt></ruby>や<ruby><rb>高</rb><rt>たか</rt></ruby>さをきそう<ruby><rb>種目</rb><rt>しゅもく</rt></ruby>。
+- word: デザイン
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。
+  - <ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。
+- word: セット
+  descriptions:
+  - ひとそろい。
+  - テニス・バレーボール・<ruby><rb>卓球</rb><rt>たっきゅう</rt></ruby>などの<ruby><rb>一回</rb><rt>いっかい</rt></ruby>の<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。
+  - <ruby><rb>舞台</rb><rt>ぶたい</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>で<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+  - <ruby><rb>髪</rb><rt>かみ</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>整</rb><rt>ととの</rt></ruby>えること。
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>が、ある<ruby><rb>条件</rb><rt>じょうけん</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くように<ruby><rb>整</rb><rt>ととの</rt></ruby>えること。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+- word: 後
+  descriptions:
+  - うしろ。
+  - のち。あと。
+- word: スノーボード
+  descriptions:
+  - <ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>斜面</rb><rt>しゃめん</rt></ruby>をすべるための<ruby><rb>一枚</rb><rt>いちまい</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>。スキーの<ruby><rb>板</rb><rt>いた</rt></ruby>より<ruby><rb>幅</rb><rt>はば</rt></ruby>が<ruby><rb>広</rb><rt>ひろ</rt></ruby>く、<ruby><rb>横乗</rb><rt>よこの</rt></ruby>りで<ruby><rb>乗</rb><rt>の</rt></ruby>る。また、それを<ruby><rb>使</rb><rt>つか</rt></ruby>ってするスポーツ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011328721000/k10011328721000.html
+web_title_with_ruby: <ruby>ピョン<rt>ぴょん</rt></ruby><ruby>チャン<rt>ちゃん</rt></ruby><ruby>五輪<rt>ごりん</rt></ruby><ruby>メダリスト<rt>めだりすと</rt></ruby>の<ruby>切手<rt>きって</rt></ruby><ruby>シート<rt>しーと</rt></ruby>
+  15<ruby>日<rt>にち</rt></ruby>から<ruby>販売<rt>はんばい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/14/ピョンチャン五輪メダリストの切手シート-15日から販売
+related_news:
+- title: スキーのジャンプ　<ruby>高梨沙羅<rt>たかなしさら</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>銅<rt>どう</rt></ruby>メダル
+  url: https://newswebeasy.github.io/news/easy/2018/02/13/スキーのジャンプ-高梨沙羅選手が銅メダル
+- title: <ruby>韓国<rt>かんこく</rt></ruby>でピョンチャンオリンピックが<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/02/09/韓国でピョンチャンオリンピックが始まる
+- title: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>女子<rt>じょし</rt></ruby>が<ruby>銀<rt>ぎん</rt></ruby>と<ruby>銅<rt>どう</rt></ruby>メダル　スピードスケート１０００m
+  url: https://newswebeasy.github.io/news/easy/2018/02/15/日本の女子が銀と銅メダル-スピードスケート1000m
+- title: スピードスケート１５００ｍ　<ruby>高木<rt>たかぎ</rt></ruby><ruby>美帆<rt>みほ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>銀<rt>ぎん</rt></ruby>メダル
+  url: https://newswebeasy.github.io/news/easy/2018/02/13/スピードスケート1500m-高木美帆選手が銀メダル
+- title: ジャンプの<ruby>葛西<rt>かさい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>「オリンピックで<ruby>金<rt>きん</rt></ruby>メダルをとりたい」
+  url: https://newswebeasy.github.io/news/easy/2018/02/06/ジャンプの葛西選手オリンピックで金メダルをとりたい
+...
