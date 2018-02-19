@@ -1,0 +1,70 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011330691000
+last_modified_at: '2018-02-19T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: サッカーのプロのＪリーグの三浦知良選手は、去年３月の試合で点を入れました。
+title: サッカー　５０歳で点を入れた三浦選手がギネス世界記録
+title_with_ruby: サッカー　５０<ruby>歳<rt>さい</rt></ruby>で<ruby>点<rt>てん</rt></ruby>を<ruby>入<rt>い</rt></ruby>れた<ruby>三浦<rt>みうら</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がギネス<ruby>世界記録<rt>せかいきろく</rt></ruby>
+outline: サッカーのプロのＪリーグの三浦知良選手は、去年３月の試合で点を入れました。
+outline_with_ruby: サッカーのプロのＪリーグの<ruby>三浦知良<rt>みうらかずよし</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>で<ruby>点<rt>てん</rt></ruby>を<ruby>入<rt>い</rt></ruby>れました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/15/K10011330691_1802152059_1802152102_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/19/k10011330691000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\">サッカー</span>の<span style=\"color:\
+  \ blue;\">プロ</span>のＪリーグの<ruby>三浦知良<rt>みうらかずよし</rt></ruby><span style=\"color: blue;\"\
+  ><ruby>選手<rt>せんしゅ</rt></ruby></span>は、<ruby>去年<rt>きょねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>で<ruby>点<rt>てん</rt></ruby>を<ruby>入<rt>い</rt></ruby>れました。このとき<ruby>三浦<rt>みうら</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は５０<ruby>歳<rt>さい</rt></ruby>で、<ruby>点<rt>てん</rt></ruby>を<ruby>入<rt>い</rt></ruby>れたときの<span\
+  \ style=\"color: blue;\"><ruby>年齢<rt>ねんれい</rt></ruby></span>がいちばん<ruby>上<rt>うえ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>というギネス<span style=\"\
+  color: blue;\"><ruby>世界記録<rt>せかいきろく</rt></ruby></span>になりました。</p>\n<p>１５<ruby>日<rt>にち</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>であった<ruby>式<rt>しき</rt></ruby>で、<ruby>三浦<rt>みうら</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<span style=\"color:\
+  \ blue;\"><ruby>笑顔<rt>えがお</rt></ruby></span>で<span style=\"color: blue;\"><ruby>世界記録<rt>せかいきろく</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>証書<rt>しょうしょ</rt></ruby></span>をもらいました。</p>\n<p>２６<ruby>日<rt>にち</rt></ruby>に５１<ruby>歳<rt>さい</rt></ruby>になる<ruby>三浦<rt>みうら</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は「<ruby>自分<rt>じぶん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>が<ruby>残<rt>のこ</rt></ruby>ることはとてもうれしいですが、これで<ruby>終<rt>お</rt></ruby>わりたくないと<ruby>思<rt>おも</rt></ruby>っています。<ruby>自分<rt>じぶん</rt></ruby>がまた<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>るという<ruby>気持<rt>きも</rt></ruby>ちで<ruby>頑張<rt>がんば</rt></ruby>ります」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: サッカー
+  descriptions:
+  - １１<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの<ruby><rb>２</rb><rt>に</rt></ruby>チームが、<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>わずに、ボールを<ruby><rb>相手</rb><rt>あいて</rt></ruby>のゴールにけりこんで<ruby><rb>得点</rb><rt>とくてん</rt></ruby>をきそう<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。フットボール。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 世界記録
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばんすぐれた<ruby><rb>記録</rb><rt>きろく</rt></ruby>。
+- word: プロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。
+  - 「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+- word: 年齢
+  descriptions:
+  - <ruby><rb>生</rb><rt>う</rt></ruby>まれてから<ruby><rb>今</rb><rt>いま</rt></ruby>までの<ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>数</rb><rt>かず</rt></ruby>。とし。
+- word: 笑顔
+  descriptions:
+  - にっこり<ruby><rb>笑</rb><rt>わら</rt></ruby>っている<ruby><rb>顔</rb><rt>かお</rt></ruby>。
+- word: 証書
+  descriptions:
+  - あることを<ruby><rb>証明</rb><rt>しょうめい</rt></ruby>するための<ruby><rb>書類</rb><rt>しょるい</rt></ruby>。
+- word: 記録
+  descriptions:
+  - あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。
+source_url: http://www3.nhk.or.jp/news/easy/k10011330691000/k10011330691000.html
+web_title_with_ruby: <ruby>サッカー<rt>さっかー</rt></ruby> <ruby>三浦知良<rt>みうらかずよし</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>ギネス<rt>ぎねす</rt></ruby><ruby>世界<rt>せかい</rt></ruby><ruby>記録<rt>きろく</rt></ruby>に<ruby>認定<rt>にんてい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/15/サッカー-三浦知良選手がギネス世界記録に認定
+related_news:
+- title: スピードスケートの<ruby>小平<rt>こだいら</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>世界<rt>せかい</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby><ruby>速<rt>はや</rt></ruby>い<ruby>記録<rt>きろく</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す
+  url: https://newswebeasy.github.io/news/easy/2017/12/12/スピードスケートの小平選手が世界で1番速い記録を出す
+- title: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>女子<rt>じょし</rt></ruby>が<ruby>銀<rt>ぎん</rt></ruby>と<ruby>銅<rt>どう</rt></ruby>メダル　スピードスケート１０００m
+  url: https://newswebeasy.github.io/news/easy/2018/02/15/日本の女子が銀と銅メダル-スピードスケート1000m
+- title: カヌーの<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>別<rt>べつ</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>の<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>に<ruby>禁止<rt>きんし</rt></ruby>の<ruby>薬<rt>くすり</rt></ruby>を<ruby>入<rt>い</rt></ruby>れる
+  url: https://newswebeasy.github.io/news/easy/2018/01/10/カヌーの選手が別の選手の飲み物に禁止の薬を入れる
+- title: <ruby>卓球<rt>たっきゅう</rt></ruby>の<ruby>全日本選手権<rt>ぜんにほんせんしゅけん</rt></ruby>で１４<ruby>歳<rt>さい</rt></ruby>の<ruby>張本<rt>はりもと</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2018/01/22/卓球の全日本選手権で14歳の張本選手が優勝する
+- title: <ruby>韓国<rt>かんこく</rt></ruby>でピョンチャンオリンピックが<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/02/09/韓国でピョンチャンオリンピックが始まる
+...

@@ -1,0 +1,62 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011330481000
+last_modified_at: '2018-02-19T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 成田空港の会社などは、客の荷物を調べる新しい機械の実験を始めました。
+title: 成田空港　客の荷物の中を立体的に見る機械の実験
+title_with_ruby: <ruby>成田空港<rt>なりたくうこう</rt></ruby>　<ruby>客<rt>きゃく</rt></ruby>の<ruby>荷物<rt>にもつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>立体<rt>りったい</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>見<rt>み</rt></ruby>る<ruby>機械<rt>きかい</rt></ruby>の<ruby>実験<rt>じっけん</rt></ruby>
+outline: 成田空港の会社などは、客の荷物を調べる新しい機械の実験を始めました。
+outline_with_ruby: <ruby>成田空港<rt>なりたくうこう</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>などは、<ruby>客<rt>きゃく</rt></ruby>の<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べる<ruby>新<rt>あたら</rt></ruby>しい<ruby>機械<rt>きかい</rt></ruby>の<ruby>実験<rt>じっけん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/15/K10011330481_1802151739_1802151741_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/19/k10011330481000.mp3
+content_with_ruby: "<p><ruby>成田空港<rt>なりたくうこう</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>などは、<ruby>客<rt>きゃく</rt></ruby>の<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べる<ruby>新<rt>あたら</rt></ruby>しい<ruby>機械<rt>きかい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>を<ruby>始<rt>はじ</rt></ruby>めました。１５<ruby>日<rt>にち</rt></ruby>は<ruby>成田空港<rt>なりたくうこう</rt></ruby>で、<ruby>新<rt>あたら</rt></ruby>しい<ruby>機械<rt>きかい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>国際線<rt>こくさいせん</rt></ruby></span>の<ruby>客<rt>きゃく</rt></ruby>の<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べました。</p>\n\
+  <p><ruby>会社<rt>かいしゃ</rt></ruby>によると、この<ruby>機械<rt>きかい</rt></ruby>は<ruby>荷物<rt>にもつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っている<ruby>物<rt>もの</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>立体<rt>りったい</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>的<rt>てき</rt></ruby></span>に<ruby>見<rt>み</rt></ruby>ることができるため、ナイフなどの<ruby>危険<rt>きけん</rt></ruby>な<ruby>物<rt>もの</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけやすくなります。<span\
+  \ style=\"color: blue;\"><ruby>爆弾<rt>ばくだん</rt></ruby></span>などがあると、<span style=\"\
+  color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>知<rt>し</rt></ruby>らせます。</p>\n\
+  <p>もう<ruby>一度<rt>いちど</rt></ruby><ruby>調<rt>しら</rt></ruby>べる<ruby>必要<rt>ひつよう</rt></ruby>がある<ruby>荷物<rt>にもつ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>別<rt>べつ</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>ぶ<ruby>機械<rt>きかい</rt></ruby>も<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>使<rt>つか</rt></ruby>って、<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べる<ruby>時間<rt>じかん</rt></ruby>をどのくらい<ruby>短<rt>みじか</rt></ruby>くできるかも<ruby>調<rt>しら</rt></ruby>べます。</p>\n\
+  <p><ruby>成田空港<rt>なりたくうこう</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>は「<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>る</span>ため、<ruby>今<rt>いま</rt></ruby>まで<ruby>以上<rt>いじょう</rt></ruby>に<ruby>細<rt>こま</rt></ruby>かく、<ruby>早<rt>はや</rt></ruby>く<ruby>調<rt>しら</rt></ruby>べることができるようにしたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 立体
+  descriptions:
+  - <ruby><rb>箱</rb><rt>はこ</rt></ruby>のように、<ruby><rb>長</rb><rt>なが</rt></ruby>さ・はば・<ruby><rb>厚</rb><rt>あつ</rt></ruby>みを<ruby><rb>持</rb><rt>も</rt></ruby>ち、その<ruby><rb>周</rb><rt>まわ</rt></ruby>りが<ruby><rb>面</rb><rt>めん</rt></ruby>で<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれているもの。
+- word: 的
+  descriptions:
+  - まと。<ruby><rb>目当</rb><rt>めあ</rt></ruby>て。
+  - <ruby><rb>明</rb><rt>あき</rt></ruby>らか。はっきり。
+  - …のような。…の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>の。
+- word: 実験
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。
+- word: 国際線
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>と<ruby><rb>国</rb><rt>くに</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで<ruby><rb>運航</rb><rt>うんこう</rt></ruby>する<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>の<ruby><rb>路線</rb><rt>ろせん</rt></ruby>。
+- word: 爆弾
+  descriptions:
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>火薬</rb><rt>かやく</rt></ruby>をつめて、<ruby><rb>投</rb><rt>な</rt></ruby>げたり<ruby><rb>落</rb><rt>お</rt></ruby>としたりして<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>させる<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。
+- word: 自動
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011330481000/k10011330481000.html
+web_title_with_ruby: <ruby>手荷物<rt>てにもつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>が<ruby>立体<rt>りったい</rt></ruby><ruby>映像<rt>えいぞう</rt></ruby>に
+  <ruby>成田空港<rt>なりたくうこう</rt></ruby>で<ruby>最新<rt>さいしん</rt></ruby><ruby>保安<rt>ほあん</rt></ruby><ruby>検査<rt>けんさ</rt></ruby>の<ruby>実験<rt>じっけん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/15/手荷物の中が立体映像に-成田空港で最新保安検査の実験
+related_news:
+- title: <ruby>自動<rt>じどう</rt></ruby><ruby>運転<rt>うんてん</rt></ruby>のトラックで<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶための<ruby>実験<rt>じっけん</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/01/25/自動運転のトラックで荷物を運ぶための実験が始まる
+- title: <ruby>介護<rt>かいご</rt></ruby>などの<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ<ruby>機械<rt>きかい</rt></ruby>を<ruby>会社<rt>かいしゃ</rt></ruby>や<ruby>大学<rt>だいがく</rt></ruby>が<ruby>紹介<rt>しょうかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/11/21/介護などの役に立つ機械を会社や大学が紹介
+...
