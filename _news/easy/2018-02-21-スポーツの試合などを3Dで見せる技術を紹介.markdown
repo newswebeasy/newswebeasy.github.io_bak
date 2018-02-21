@@ -1,0 +1,76 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011335151000
+last_modified_at: '2018-02-21T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ＮＴＴは、スポーツの試合などを別の場所で３Ｄで見せる技術を研究しています。
+title: スポーツの試合などを３Ｄで見せる技術を紹介
+title_with_ruby: スポーツの<ruby>試合<rt>しあい</rt></ruby>などを３Ｄで<ruby>見<rt>み</rt></ruby>せる<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>
+outline: ＮＴＴは、スポーツの試合などを別の場所で３Ｄで見せる技術を研究しています。
+outline_with_ruby: ＮＴＴは、スポーツの<ruby>試合<rt>しあい</rt></ruby>などを<ruby>別<rt>べつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>で３Ｄで<ruby>見<rt>み</rt></ruby>せる<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>しています。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/19/K10011335151_1802191627_1802191653_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/21/k10011335151000.mp3
+content_with_ruby: "<p>ＮＴＴは、スポーツの<ruby>試合<rt>しあい</rt></ruby>などを<ruby>別<rt>べつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>で３Ｄで<ruby>見<rt>み</rt></ruby>せる<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>しています。</p>\n\
+  <p>この<ruby>技術<rt>ぎじゅつ</rt></ruby>は、<ruby>動<rt>うご</rt></ruby>いている<span style=\"color:\
+  \ blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>を４つの<span style=\"color: blue;\"><ruby>方向<rt>ほうこう</rt></ruby></span>からカメラで<ruby>撮<rt>と</rt></ruby>ります。カメラで<ruby>撮<rt>と</rt></ruby>った<span\
+  \ style=\"color: blue;\">データ</span>を<ruby>別<rt>べつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>送<rt>おく</rt></ruby>って、３Ｄで<span\
+  \ style=\"color: blue;\"><ruby>映<rt>うつ</rt></ruby>し</span>ます。<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>眼鏡<rt>めがね</rt></ruby>をかけなくても、どこからでも３Ｄの<span\
+  \ style=\"color: blue;\"><ruby>映像<rt>えいぞう</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>ることができます。<span\
+  \ style=\"color: blue;\"><ruby>映像<rt>えいぞう</rt></ruby></span>は１０％の<ruby>大<rt>おお</rt></ruby>きさになります。</p>\n\
+  <p>ＮＴＴによると、この<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>柔道<rt>じゅうどう</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>空手<rt>からて</rt></ruby></span>などの<ruby>試合<rt>しあい</rt></ruby>を<ruby>放送<rt>ほうそう</rt></ruby>すると、<ruby>見<rt>み</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>目<rt>め</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>試合<rt>しあい</rt></ruby>をやっているように<span\
+  \ style=\"color: blue;\"><ruby>感<rt>かん</rt></ruby>じ</span>ます。</p>\n<p>ＮＴＴは、この<ruby>技術<rt>ぎじゅつ</rt></ruby>を２０２０<ruby>年<rt>ねん</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby><span\
+  \ style=\"color: blue;\">オリンピック</span>と<span style=\"color: blue;\">パラリンピック</span>に<ruby>使<rt>つか</rt></ruby>いたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 方向
+  descriptions:
+  - <ruby><rb>向</rb><rt>む</rt></ruby>き。<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>。
+  - <ruby><rb>目当</rb><rt>めあ</rt></ruby>て。<ruby><rb>方針</rb><rt>ほうしん</rt></ruby>。
+- word: データ
+  descriptions:
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。
+  - コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。
+- word: 映す
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>を、ほかの<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>に<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。
+  - <ruby><rb>映画</rb><rt>えいが</rt></ruby>やスライドを、スクリーンの<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。
+- word: 映像
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>によって<ruby><rb>映</rb><rt>うつ</rt></ruby>し<ruby><rb>出</rb><rt>だ</rt></ruby>された、<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+  - <ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にうかんだ<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やようす。イメージ。
+- word: 空手
+  descriptions:
+  - <ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>何</rb><rt>なに</rt></ruby>も<ruby><rb>持</rb><rt>も</rt></ruby>たないこと。<ruby><rb>手</rb><rt>て</rt></ruby>ぶら。
+  - <ruby><rb>武器</rb><rt>ぶき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>たず、<ruby><rb>手足</rb><rt>てあし</rt></ruby>だけで<ruby><rb>戦</rb><rt>たたか</rt></ruby>う<ruby><rb>武術</rb><rt>ぶじゅつ</rt></ruby>。
+- word: 感じる
+  descriptions:
+  - <ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。
+  - <ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>４年</rb><rt>よねん</rt></ruby>に<ruby><rb>１度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011335151000/k10011335151000.html
+web_title_with_ruby: ＮＴＴ <ruby>スポーツ<rt>すぽーつ</rt></ruby><ruby>試合<rt>しあい</rt></ruby>を<ruby>立体的<rt>りったいてき</rt></ruby>に<ruby>映<rt>うつ</rt></ruby>し<ruby>出<rt>だ</rt></ruby>す<ruby>最新<rt>さいしん</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby><ruby>公開<rt>こうかい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/19/NTT-スポーツ試合を立体的に映し出す最新技術公開
+related_news:
+- title: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>女子<rt>じょし</rt></ruby>が<ruby>銀<rt>ぎん</rt></ruby>と<ruby>銅<rt>どう</rt></ruby>メダル　スピードスケート１０００m
+  url: https://newswebeasy.github.io/news/easy/2018/02/15/日本の女子が銀と銅メダル-スピードスケート1000m
+- title: バスを<ruby>運転<rt>うんてん</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>をＡＩがチェックして<ruby>事故<rt>じこ</rt></ruby>をなくす
+  url: https://newswebeasy.github.io/news/easy/2017/12/14/バスを運転する人の顔をAIがチェックして事故をなくす
+- title: スピードスケートの<ruby>小平<rt>こだいら</rt></ruby><ruby>奈緒<rt>なお</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>金<rt>きん</rt></ruby>メダルを<ruby>取<rt>と</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/02/19/スピードスケートの小平奈緒選手が金メダルを取る
+- title: デジタルカメラが<ruby>売<rt>う</rt></ruby>れる　きれいな<ruby>写真<rt>しゃしん</rt></ruby>をみんなに<ruby>見<rt>み</rt></ruby>せたい
+  url: https://newswebeasy.github.io/news/easy/2018/02/05/デジタルカメラが売れる-きれいな写真をみんなに見せたい
+- title: カヌーの<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>別<rt>べつ</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>の<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>に<ruby>禁止<rt>きんし</rt></ruby>の<ruby>薬<rt>くすり</rt></ruby>を<ruby>入<rt>い</rt></ruby>れる
+  url: https://newswebeasy.github.io/news/easy/2018/01/10/カヌーの選手が別の選手の飲み物に禁止の薬を入れる
+...

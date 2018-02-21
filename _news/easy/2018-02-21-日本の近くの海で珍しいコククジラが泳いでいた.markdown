@@ -1,0 +1,69 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011335581000
+last_modified_at: '2018-02-21T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: １０日、東京から南に３６０ｋｍぐらいの青ヶ島の近くの海で、鯨が泳いでいました。
+title: 日本の近くの海で珍しいコククジラが泳いでいた
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>海<rt>うみ</rt></ruby>で<ruby>珍<rt>めずら</rt></ruby>しいコククジラが<ruby>泳<rt>およ</rt></ruby>いでいた
+outline: １０日、東京から南に３６０ｋｍぐらいの青ヶ島の近くの海で、鯨が泳いでいました。
+outline_with_ruby: <ruby>１０日<rt>とおか</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>南<rt>みなみ</rt></ruby>に３６０ｋｍぐらいの<ruby>青ヶ島<rt>あおがしま</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>海<rt>うみ</rt></ruby>で、<ruby>鯨<rt>くじら</rt></ruby>が<ruby>泳<rt>およ</rt></ruby>いでいました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/20/K10011335581_1802200630_1802200632_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/21/k10011335581000.mp3
+content_with_ruby: "<p><ruby>１０日<rt>とおか</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>南<rt>みなみ</rt></ruby>に３６０ｋｍぐらいの<ruby>青ヶ島<rt>あおがしま</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>海<rt>うみ</rt></ruby>で、<span\
+  \ style=\"color: blue;\"><ruby>鯨<rt>くじら</rt></ruby></span>が<ruby>泳<rt>およ</rt></ruby>いでいました。<ruby>長野県<rt>ながのけん</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>が、この<span\
+  \ style=\"color: blue;\"><ruby>鯨<rt>くじら</rt></ruby></span>の<ruby>写真<rt>しゃしん</rt></ruby>と<span\
+  \ style=\"color: blue;\">ビデオ</span>を<ruby>撮<rt>と</rt></ruby>りました。</p>\n<p><ruby>専門家<rt>せんもんか</rt></ruby>は、<span\
+  \ style=\"color: blue;\">こぶ</span>があるような<ruby>頭<rt>あたま</rt></ruby>や<span style=\"\
+  color: blue;\">ひれ</span>の<ruby>形<rt>かたち</rt></ruby>などを<ruby>写真<rt>しゃしん</rt></ruby>で<ruby>見<rt>み</rt></ruby>て、この<span\
+  \ style=\"color: blue;\"><ruby>鯨<rt>くじら</rt></ruby></span>はコククジラだと<ruby>言<rt>い</rt></ruby>いました。コククジラは<ruby>北<rt>きた</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>太平洋<rt>たいへいよう</rt></ruby></span>に<ruby>住<rt>す</rt></ruby>んでいますが、<ruby>日本<rt>にっぽん</rt></ruby>や<ruby>中国<rt>ちゅうごく</rt></ruby>などの<ruby>近<rt>ちか</rt></ruby>くでは<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>が<ruby>少<rt>すく</rt></ruby>なくなっています。<ruby>今<rt>いま</rt></ruby>は１２０<span\
+  \ style=\"color: blue;\"><ruby>頭<rt>とう</rt></ruby></span>ぐらいで、<ruby>将来<rt>しょうらい</rt></ruby>いなくなる<ruby>心配<rt>しんぱい</rt></ruby>があります。</p>\n\
+  <p><ruby>専門家<rt>せんもんか</rt></ruby>は、コククジラが<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>海<rt>うみ</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかるのは<ruby>珍<rt>めずら</rt></ruby>しいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 鯨
+  descriptions:
+  - <ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>大形</rb><rt>おおがた</rt></ruby>の<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。シロナガスクジラ・マッコウクジラ・セミクジラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>哺乳類</rb><rt>ほにゅうるい</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>は<ruby><rb>乳</rb><rt>ちち</rt></ruby>を<ruby><rb>飲</rb><rt>の</rt></ruby>んで<ruby><rb>育</rb><rt>そだ</rt></ruby>つ。
+- word: ビデオ
+  descriptions:
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。
+  - 「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: こぶ
+  descriptions:
+  - <ruby><rb>肉</rb><rt>にく</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まって、<ruby><rb>盛</rb><rt>も</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>がったもの。たんこぶ。
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>に<ruby><rb>盛</rb><rt>も</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>がったもの。
+  - じゃまになるもの。
+  - ひもなどの<ruby><rb>結</rb><rt>むす</rt></ruby>び<ruby><rb>目</rb><rt>め</rt></ruby>。
+- word: ひれ
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>が<ruby><rb>泳</rb><rt>およ</rt></ruby>ぐときに<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>小</rb><rt>ちい</rt></ruby>さなせんすのような<ruby><rb>形</rb><rt>かたち</rt></ruby>をしたもの。<ruby><rb>背</rb><rt>せ</rt></ruby>びれ・<ruby><rb>尾</rb><rt>お</rt></ruby>びれ・<ruby><rb>胸</rb><rt>むな</rt></ruby>びれ・<ruby><rb>腹</rb><rt>はら</rt></ruby>びれ・しりびれがある。
+- word: 太平洋
+  descriptions:
+  - アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: 数
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。
+  - いくつもあること。たくさん。
+  - <ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。
+- word: 頭
+  descriptions:
+  - あたま。
+  - <ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つ<ruby><rb>者</rb><rt>もの</rt></ruby>。
+  - はじめ。
+  - <ruby><rb>辺</rb><rt>あた</rt></ruby>り。<ruby><rb>付近</rb><rt>ふきん</rt></ruby>。
+  - けものを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+source_url: http://www3.nhk.or.jp/news/easy/k10011335581000/k10011335581000.html
+web_title_with_ruby: <ruby>希少<rt>きしょう</rt></ruby>な「<ruby>コク<rt>こく</rt></ruby><ruby>クジラ<rt>くじら</rt></ruby>」
+  <ruby>東京<rt>とうきょう</rt></ruby> <ruby>青ヶ島<rt>あおがしま</rt></ruby><ruby>沖<rt>おき</rt></ruby>で<ruby>撮影<rt>さつえい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/20/希少なコククジラ-東京-青ヶ島沖で撮影
+related_news:
+- title: <ruby>八丈島<rt>はちじょうじま</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>海<rt>うみ</rt></ruby>でザトウクジラがたくさん<ruby>見<rt>み</rt></ruby>つかる
+  url: https://newswebeasy.github.io/news/easy/2017/12/20/八丈島の近くの海でザトウクジラがたくさん見つかる
+- title: <ruby>秋田県<rt>あきたけん</rt></ruby>　アザラシが<ruby>川<rt>かわ</rt></ruby>を<ruby>泳<rt>およ</rt></ruby>いで<ruby>山<rt>やま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>まで<ruby>来<rt>き</rt></ruby>た
+  url: https://newswebeasy.github.io/news/easy/2018/01/19/秋田県-アザラシが川を泳いで山の中まで来た
+...
