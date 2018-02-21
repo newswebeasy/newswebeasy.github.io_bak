@@ -1,0 +1,74 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011336261000
+last_modified_at: '2018-02-21T17:55:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>55<ruby>分<rt>ふん</rt></ruby>
+description: ピョンチャンオリンピックの女子のアイスホッケーで、韓国と北朝鮮の選手は１つのチームで試合に出ました。
+title: アイスホッケー　韓国と北朝鮮のチームの試合が全部終わる
+title_with_ruby: アイスホッケー　<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のチームの<ruby>試合<rt>しあい</rt></ruby>が<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>終<rt>お</rt></ruby>わる
+outline: ピョンチャンオリンピックの女子のアイスホッケーで、韓国と北朝鮮の選手は１つのチームで試合に出ました。
+outline_with_ruby: ピョンチャンオリンピックの<ruby>女子<rt>じょし</rt></ruby>のアイスホッケーで、<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>は１つのチームで<ruby>試合<rt>しあい</rt></ruby>に<ruby>出<rt>で</rt></ruby>ました。
+image_url: https://newswebeasy.github.io/ja201802/news/easy/image/2018/02/21/k10011336261000.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/21/k10011336261000.mp3
+content_with_ruby: "<p>ピョンチャンオリンピックの<span style=\"color: blue;\"><ruby>女子<rt>じょし</rt></ruby></span>の<span\
+  \ style=\"color: blue;\">アイスホッケー</span>で、<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は１つの<span style=\"color:\
+  \ blue;\">チーム</span>で<ruby>試合<rt>しあい</rt></ruby>に<ruby>出<rt>で</rt></ruby>ました。</p>\n\
+  <p><span style=\"color: blue;\">チーム</span>は<ruby>２０日<rt>はつか</rt></ruby>、スウェーデンと７<ruby>番<rt>ばん</rt></ruby>と８<ruby>番<rt>ばん</rt></ruby>を<ruby>決<rt>き</rt></ruby>める<ruby>最後<rt>さいご</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>をして、１ー６で<ruby>負<rt>ま</rt></ruby>けました。<span\
+  \ style=\"color: blue;\">オリンピック</span>では<ruby>初<rt>はじ</rt></ruby>めて<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>が<ruby>一緒<rt>いっしょ</rt></ruby>になった<span\
+  \ style=\"color: blue;\">チーム</span>は、５つの<ruby>試合<rt>しあい</rt></ruby>に<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>負<rt>ま</rt></ruby>けて<span\
+  \ style=\"color: blue;\"><ruby>順位<rt>じゅんい</rt></ruby></span>はいちばん<ruby>下<rt>した</rt></ruby>でした。</p>\n\
+  <p><ruby>試合<rt>しあい</rt></ruby>が<ruby>終<rt>お</rt></ruby>わったあと、<span style=\"color:\
+  \ blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちが<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちにあいさつをすると、たくさんの<ruby>人<rt>ひと</rt></ruby>が「<ruby>私<rt>わたし</rt></ruby>たちは１つだ」と<ruby>言<rt>い</rt></ruby>って、<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>拍手<rt>はくしゅ</rt></ruby></span>をしました。</p>\n<p><span\
+  \ style=\"color: blue;\">チーム</span>の<span style=\"color: blue;\"><ruby>監督<rt>かんとく</rt></ruby></span>は「<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>はみんなすばらしかったので、１つの<span\
+  \ style=\"color: blue;\">チーム</span>になることができました。<span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>をとても<span\
+  \ style=\"color: blue;\"><ruby>誇<rt>ほこ</rt></ruby>り</span>に<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: アイスホッケー
+  descriptions:
+  - スケートをはいて<ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>でするホッケー。<ruby><rb>１</rb><rt>いち</rt></ruby>チーム<ruby><rb>６名</rb><rt>ろくめい</rt></ruby>の<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>たちが、ゴムの<ruby><rb>円板</rb><rt>えんばん</rt></ruby>を<ruby><rb>相手</rb><rt>あいて</rt></ruby>のゴールにスティックを<ruby><rb>使</rb><rt>つか</rt></ruby>って<ruby><rb>打</rb><rt>う</rt></ruby>ちこみ、<ruby><rb>得点</rb><rt>とくてん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 女子
+  descriptions:
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>女性</rb><rt>じょせい</rt></ruby>。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: 順位
+  descriptions:
+  - <ruby><rb>順番</rb><rt>じゅんばん</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す<ruby><rb>地位</rb><rt>ちい</rt></ruby>。
+- word: 拍手
+  descriptions:
+  - ほめるときや、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>のときなどに、<ruby><rb>手</rb><rt>て</rt></ruby>のひらを<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 監督
+  descriptions:
+  - <ruby><rb>指図</rb><rt>さしず</rt></ruby>や<ruby><rb>取</rb><rt>と</rt></ruby>りしまりなどをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 誇り
+  descriptions:
+  - <ruby><rb>得意</rb><rt>とくい</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。じまん。<ruby><rb>名誉</rb><rt>めいよ</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011336261000/k10011336261000.html
+web_title_with_ruby: <ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>合同<rt>ごうどう</rt></ruby><ruby>チーム<rt>ちーむ</rt></ruby>  <ruby>最下位<rt>さいかい</rt></ruby>で<ruby>大会<rt>たいかい</rt></ruby><ruby>終<rt>お</rt></ruby>える
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/20/韓国と北朝鮮の合同チーム-最下位で大会終える
+related_news:
+- title: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>がピョンチャンオリンピックに２２<ruby>人<rt>にん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/01/23/北朝鮮がピョンチャンオリンピックに22人の選手を送る
+- title: オリンピックの<ruby>開会<rt>かいかい</rt></ruby><ruby>式<rt>しき</rt></ruby>　<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>歩<rt>ある</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/01/18/オリンピックの開会式-韓国と北朝鮮の選手は一緒に歩く
+- title: <ruby>韓国<rt>かんこく</rt></ruby>でピョンチャンオリンピックが<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/02/09/韓国でピョンチャンオリンピックが始まる
+- title: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>女子<rt>じょし</rt></ruby>が<ruby>銀<rt>ぎん</rt></ruby>と<ruby>銅<rt>どう</rt></ruby>メダル　スピードスケート１０００m
+  url: https://newswebeasy.github.io/news/easy/2018/02/15/日本の女子が銀と銅メダル-スピードスケート1000m
+- title: ジャンプの<ruby>葛西<rt>かさい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>「オリンピックで<ruby>金<rt>きん</rt></ruby>メダルをとりたい」
+  url: https://newswebeasy.github.io/news/easy/2018/02/06/ジャンプの葛西選手オリンピックで金メダルをとりたい
+...
