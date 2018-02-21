@@ -1,0 +1,56 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011335781000
+last_modified_at: '2018-02-20T16:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ユニセフは世界の国で、生まれたばかりの赤ちゃんが亡くなった数を調べました。
+title: ユニセフ「赤ちゃんを助けるために協力してほしい」
+title_with_ruby: ユニセフ「<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>助<rt>たす</rt></ruby>けるために<ruby>協力<rt>きょうりょく</rt></ruby>してほしい」
+outline: ユニセフは世界の国で、生まれたばかりの赤ちゃんが亡くなった数を調べました。
+outline_with_ruby: ユニセフは<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>で、<ruby>生<rt>う</rt></ruby>まれたばかりの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>亡<rt>な</rt></ruby>くなった<ruby>数<rt>かず</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/20/K10011335781_1802200820_1802200821_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/20/k10011335781000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\">ユニセフ</span>は<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>で、<ruby>生<rt>う</rt></ruby>まれたばかりで<ruby>亡<rt>な</rt></ruby>くなった<ruby>赤<rt>あか</rt></ruby>ちゃんの<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べました。<ruby>人口<rt>じんこう</rt></ruby>１０００<ruby>人<rt>にん</rt></ruby>のうち、<ruby>生<rt>う</rt></ruby>まれてから２８<ruby>日<rt>にち</rt></ruby>にならない<ruby>赤<rt>あか</rt></ruby>ちゃんがどのくらい<ruby>亡<rt>な</rt></ruby>くなったか<ruby>調<rt>しら</rt></ruby>べました。</p>\n\
+  <p>２０１６<ruby>年<rt>ねん</rt></ruby>にいちばん<ruby>多<rt>おお</rt></ruby>かったのはパキスタンで、４５．６<ruby>人<rt>にん</rt></ruby>でした。<ruby>次<rt>つぎ</rt></ruby>は<ruby>中央<rt>ちゅうおう</rt></ruby>アフリカで４２．３<ruby>人<rt>にん</rt></ruby>、その<ruby>次<rt>つぎ</rt></ruby>はアフガニスタンで４０<ruby>人<rt>にん</rt></ruby>でした。いちばん<ruby>少<rt>すく</rt></ruby>なかったのは<ruby>日本<rt>にっぽん</rt></ruby>で、０．９<ruby>人<rt>にん</rt></ruby>でした。</p>\n\
+  <p><span style=\"color: blue;\">ユニセフ</span>は、このうち８０％の<ruby>赤<rt>あか</rt></ruby>ちゃんは<ruby>生<rt>う</rt></ruby>まれてすぐに<ruby>病気<rt>びょうき</rt></ruby>になって<ruby>亡<rt>な</rt></ruby>くなっていて、<ruby>病院<rt>びょういん</rt></ruby>や<ruby>薬<rt>くすり</rt></ruby>が<ruby>十分<rt>じゅうぶん</rt></ruby>にあったら、<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>ける</span>ことができたと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><span style=\"color: blue;\">ユニセフ</span>は<ruby>２０日<rt>はつか</rt></ruby>から、<ruby>赤<rt>あか</rt></ruby>ちゃんを<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>ける</span>ための<span style=\"color:\
+  \ blue;\">キャンペーン</span>を<ruby>始<rt>はじ</rt></ruby>めて、<ruby>世界中<rt>せかいじゅう</rt></ruby>の<ruby>国<rt>くに</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>してほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: UNICEF
+  descriptions:
+  - <ruby><rb>国連</rb><rt>こくれん</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つで、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>の<ruby><rb>不幸</rb><rt>ふこう</rt></ruby>な<ruby><rb>子</rb><rt>こ</rt></ruby>どもたちを<ruby><rb>助</rb><rt>たす</rt></ruby>ける<ruby><rb>活動</rb><rt>かつどう</rt></ruby>をする。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+- word: 数
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。
+  - いくつもあること。たくさん。
+  - <ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。
+- word: キャンペーン
+  descriptions:
+  - ある<ruby><rb>計画</rb><rt>けいかく</rt></ruby>や<ruby><rb>考</rb><rt>かんが</rt></ruby>えを、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>にうったえる<ruby><rb>宣伝活動</rb><rt>せんでんかつどう</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011335781000/k10011335781000.html
+web_title_with_ruby: 「<ruby>命<rt>いのち</rt></ruby>の<ruby>格差<rt>かくさ</rt></ruby>」<ruby>新生児<rt>しんせいじ</rt></ruby><ruby>死亡率<rt>しぼうりつ</rt></ruby>
+  <ruby>日本<rt>にっぽん</rt></ruby>の50<ruby>倍<rt>ばい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>も
+  <ruby>国連<rt>こくれん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/20/命の格差新生児死亡率-日本の50倍の国も-国連
+related_news:
+- title: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>が<ruby>減<rt>へ</rt></ruby>る　<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>少<rt>すく</rt></ruby>ない
+  url: https://newswebeasy.github.io/news/easy/2017/12/28/日本の人口が減る-赤ちゃんが今まででいちばん少ない
+- title: <ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれた
+  url: https://newswebeasy.github.io/news/easy/2018/01/22/電車の中で赤ちゃんが生まれた
+- title: <ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>寝<rt>ね</rt></ruby>ている<ruby>間<rt>あいだ</rt></ruby>ベビーセンサーを<ruby>使<rt>つか</rt></ruby>う<ruby>保育園<rt>ほいくえん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2017/12/27/赤ちゃんが寝ている間ベビーセンサーを使う保育園が増える
+...

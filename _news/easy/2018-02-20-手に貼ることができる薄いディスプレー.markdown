@@ -1,0 +1,95 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011334601000
+last_modified_at: '2018-02-20T16:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 東京大学の研究グループは、厚さ１ｍｍぐらいで、手などに貼ることができるディスプレーを作りました。
+title: 手に貼ることができる薄いディスプレー
+title_with_ruby: <ruby>手<rt>て</rt></ruby>に<ruby>貼<rt>は</rt></ruby>ることができる<ruby>薄<rt>うす</rt></ruby>いディスプレー
+outline: 東京大学の研究グループは、厚さ１ｍｍぐらいで、手などに貼ることができるディスプレーを作りました。
+outline_with_ruby: <ruby>東京大学<rt>とうきょうだいがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>グループは、<ruby>厚<rt>あつ</rt></ruby>さ１ｍｍぐらいで、<ruby>手<rt>て</rt></ruby>などに<ruby>貼<rt>は</rt></ruby>ることができるディスプレーを<ruby>作<rt>つく</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/19/K10011334601_1802190518_1802190522_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/20/k10011334601000.mp3
+content_with_ruby: "<p><ruby>東京大学<rt>とうきょうだいがく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby><span\
+  \ style=\"color: blue;\">グループ</span>は、<ruby>厚<rt>あつ</rt></ruby>さ１ｍｍぐらいで、<ruby>手<rt>て</rt></ruby>などに<ruby>貼<rt>は</rt></ruby>ることができる<span\
+  \ style=\"color: blue;\">ディスプレー</span>を<ruby>作<rt>つく</rt></ruby>りました。</p>\n<p>この<span\
+  \ style=\"color: blue;\">ディスプレー</span>は<span style=\"color: blue;\">ゴム</span>でできているため、<span\
+  \ style=\"color: blue;\"><ruby>伸<rt>の</rt></ruby>び</span>たり<span style=\"color:\
+  \ blue;\"><ruby>縮<rt>ちぢ</rt></ruby>ん</span>だりします。いちばん<ruby>大<rt>おお</rt></ruby>きくすると<ruby>縦<rt>たて</rt></ruby>６ｃｍ、<ruby>横<rt>よこ</rt></ruby>１０ｃｍになります。とても<ruby>小<rt>ちい</rt></ruby>さい<span\
+  \ style=\"color: blue;\">ＬＥＤ</span>が<ruby>並<rt>なら</rt></ruby>んでいて、<span style=\"\
+  color: blue;\"><ruby>数字<rt>すうじ</rt></ruby></span>や<span style=\"color: blue;\">マーク</span>などを<span\
+  \ style=\"color: blue;\">ディスプレー</span>に<ruby>出<rt>だ</rt></ruby>すことができます。</p>\n<p><span\
+  \ style=\"color: blue;\"><ruby>心臓<rt>しんぞう</rt></ruby></span>の<ruby>動<rt>うご</rt></ruby>き<ruby>方<rt>かた</rt></ruby>を<span\
+  \ style=\"color: blue;\">センサー</span>で<ruby>調<rt>しら</rt></ruby>べて、<span style=\"\
+  color: blue;\"><ruby>心電図<rt>しんでんず</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>すこともできます。<ruby>研究<rt>けんきゅう</rt></ruby><span\
+  \ style=\"color: blue;\">グループ</span>は、<ruby>家族<rt>かぞく</rt></ruby>からの<span style=\"\
+  color: blue;\">メッセージ</span>を<ruby>見<rt>み</rt></ruby>るなど、ほかにもいろいろな<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>ができると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ディスプレー
+  descriptions:
+  - <ruby><rb>商品</rb><rt>しょうひん</rt></ruby>などのかざりつけ。<ruby><rb>展示</rb><rt>てんじ</rt></ruby>。
+  - コンピューターで、<ruby><rb>文字</rb><rt>もじ</rt></ruby>や<ruby><rb>図表</rb><rt>ずひょう</rt></ruby>を<ruby><rb>映</rb><rt>うつ</rt></ruby>し<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: ゴム
+  descriptions:
+  - <ruby><rb>熱帯地方</rb><rt>ねったいちほう</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>える、ゴムの<ruby><rb>木</rb><rt>き</rt></ruby>のしるで<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。のび<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>みする。タイヤ、ボール、くつの<ruby><rb>底</rb><rt>そこ</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+- word: 伸びる
+  descriptions:
+  - <ruby><rb>長</rb><rt>なが</rt></ruby>さが<ruby><rb>長</rb><rt>なが</rt></ruby>くなる。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>んでいたものが、ぴんとなる。
+  - <ruby><rb>曲</rb><rt>ま</rt></ruby>がっていたものが、まっすぐになる。
+  - <ruby><rb>生長</rb><rt>せいちょう</rt></ruby>する。<ruby><rb>成長</rb><rt>せいちょう</rt></ruby>する。
+  - さかんになる。
+  - もっとよくなる。
+  - つかれて<ruby><rb>動</rb><rt>うご</rt></ruby>けなくなる。
+- word: 縮む
+  descriptions:
+  - <ruby><rb>小</rb><rt>ちい</rt></ruby>さくなる。<ruby><rb>短</rb><rt>みじか</rt></ruby>くなる。
+  - しわが<ruby><rb>寄</rb><rt>よ</rt></ruby>る。
+  - <ruby><rb>気持</rb><rt>きも</rt></ruby>ちが<ruby><rb>小</rb><rt>ちい</rt></ruby>さくなる。
+- word: LED
+  descriptions:
+  - <ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>が<ruby><rb>流</rb><rt>なが</rt></ruby>れると、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>さずに<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。<ruby><rb>電力消費</rb><rt>でんりょくしょうひ</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なく、<ruby><rb>寿命</rb><rt>じゅみょう</rt></ruby>が<ruby><rb>長</rb><rt>なが</rt></ruby>いため、<ruby><rb>白熱電球</rb><rt>はくねつでんきゅう</rt></ruby>や<ruby><rb>蛍光灯</rb><rt>けいこうとう</rt></ruby>にかわる<ruby><rb>光源</rb><rt>こうげん</rt></ruby>として<ruby><rb>使</rb><rt>つか</rt></ruby>われる。
+- word: 数字
+  descriptions:
+  - <ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す<ruby><rb>文字</rb><rt>もじ</rt></ruby>。アラビア<ruby><rb>数字</rb><rt>すうじ</rt></ruby>（<ruby><rb>算用数字</rb><rt>さんようすうじ</rt></ruby>）、<ruby><rb>漢数字</rb><rt>かんすうじ</rt></ruby>、ローマ<ruby><rb>数字</rb><rt>すうじ</rt></ruby>などがある。
+- word: マーク
+  descriptions:
+  - しるし。<ruby><rb>記号</rb><rt>きごう</rt></ruby>。また、しるしをつけること。
+  - <ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>目</rb><rt>め</rt></ruby>をつけて<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>すること。
+  - <ruby><rb>記録</rb><rt>きろく</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ること。
+- word: 心臓
+  descriptions:
+  - <ruby><rb>胸</rb><rt>むね</rt></ruby>の<ruby><rb>左側</rb><rt>ひだりがわ</rt></ruby>にあって、<ruby><rb>血液</rb><rt>けつえき</rt></ruby>を<ruby><rb>体</rb><rt>からだ</rt></ruby>じゅうに<ruby><rb>送</rb><rt>おく</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>すポンプの<ruby><rb>役目</rb><rt>やくめ</rt></ruby>をする<ruby><rb>器官</rb><rt>きかん</rt></ruby>。こぶしぐらいの<ruby><rb>大</rb><rt>おお</rt></ruby>きさで、<ruby><rb>左右</rb><rt>さゆう</rt></ruby>の<ruby><rb>心房</rb><rt>しんぼう</rt></ruby>と<ruby><rb>左右</rb><rt>さゆう</rt></ruby>の<ruby><rb>心室</rb><rt>しんしつ</rt></ruby>の<ruby><rb>四</rb><rt>よっ</rt></ruby>つの<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>からできている。
+  - ものごとの<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>な<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>度胸</rb><rt>どきょう</rt></ruby>がよくて、<ruby><rb>物</rb><rt>もの</rt></ruby>おじしないこと。
+- word: センサー
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>、<ruby><rb>温度</rb><rt>おんど</rt></ruby>などに<ruby><rb>反応</rb><rt>はんのう</rt></ruby>して、<ruby><rb>電気的</rb><rt>でんきてき</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 心電図
+  descriptions:
+  - <ruby><rb>心臓</rb><rt>しんぞう</rt></ruby>の<ruby><rb>活動</rb><rt>かつどう</rt></ruby>によって<ruby><rb>起</rb><rt>お</rt></ruby>こる<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>の<ruby><rb>変化</rb><rt>へんか</rt></ruby>を、<ruby><rb>記録</rb><rt>きろく</rt></ruby>したもの。
+- word: メッセージ
+  descriptions:
+  - <ruby><rb>伝言</rb><rt>でんごん</rt></ruby>。
+  - <ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>のことば。<ruby><rb>声明文</rb><rt>せいめいぶん</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011334601000/k10011334601000.html
+web_title_with_ruby: <ruby>肌<rt>はだ</rt></ruby>に<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>貼<rt>は</rt></ruby>る<ruby>薄型<rt>うすがた</rt></ruby><ruby>ディスプレー<rt>でぃすぷれー</rt></ruby><ruby>開発<rt>かいはつ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/19/肌に直接貼る薄型ディスプレー開発
+related_news:
+- title: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<ruby>取<rt>と</rt></ruby>ったレアアースからＬＥＤライトを<ruby>作<rt>つく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2017/11/29/日本の海で取ったレアアースからLEDライトを作る
+- title: <ruby>割<rt>わ</rt></ruby>れても<ruby>直<rt>なお</rt></ruby>すことができるガラスを<ruby>世界<rt>せかい</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>作<rt>つく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2017/12/18/割れても直すことができるガラスを世界で初めて作る
+- title: ＬＥＤのライトを<ruby>使<rt>つか</rt></ruby>って「<ruby>光<rt>ひか</rt></ruby>るつけまつげ」を<ruby>作<rt>つく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/01/15/LEDのライトを使って光るつけまつげを作る
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>グループ「クローンの<ruby>猿<rt>さる</rt></ruby>を<ruby>作<rt>つく</rt></ruby>った」と<ruby>発表<rt>はっぴょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/26/中国の研究グループクローンの猿を作ったと発表
+- title: ジャマイカ「<ruby>下町<rt>したまち</rt></ruby>ボブスレーをオリンピックで<ruby>使<rt>つか</rt></ruby>わない」
+  url: https://newswebeasy.github.io/news/easy/2018/02/07/ジャマイカ下町ボブスレーをオリンピックで使わない
+...
