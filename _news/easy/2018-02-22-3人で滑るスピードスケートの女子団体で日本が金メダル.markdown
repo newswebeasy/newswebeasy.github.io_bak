@@ -1,0 +1,121 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011338091000
+last_modified_at: '2018-02-22T17:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: ピョンチャンオリンピックで２１日、スピードスケートの女子団体パシュートの決勝がありました。
+title: ３人で滑るスピードスケートの女子団体で日本が金メダル
+title_with_ruby: ３<ruby>人<rt>にん</rt></ruby>で<ruby>滑<rt>すべ</rt></ruby>るスピードスケートの<ruby>女子<rt>じょし</rt></ruby><ruby>団体<rt>だんたい</rt></ruby>で<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>金<rt>きん</rt></ruby>メダル
+outline: ピョンチャンオリンピックで２１日、スピードスケートの女子団体パシュートの決勝がありました。
+outline_with_ruby: ピョンチャンオリンピックで２１<ruby>日<rt>にち</rt></ruby>、スピードスケートの<ruby>女子<rt>じょし</rt></ruby><ruby>団体<rt>だんたい</rt></ruby>パシュートの<ruby>決勝<rt>けっしょう</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201802/news/easy/image/2018/02/22/k10011338091000.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/22/k10011338091000.mp3
+content_with_ruby: "<p>ピョンチャンオリンピックで２１<ruby>日<rt>にち</rt></ruby>、<span style=\"color:\
+  \ blue;\">スピード</span><span style=\"color: blue;\">スケート</span>の<span style=\"color:\
+  \ blue;\"><ruby>女子<rt>じょし</rt></ruby></span><span style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>パシュートの<span\
+  \ style=\"color: blue;\"><ruby>決勝<rt>けっしょう</rt></ruby></span>がありました。<span style=\"\
+  color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>パシュートは、３<ruby>人<rt>にん</rt></ruby>の<span\
+  \ style=\"color: blue;\">チーム</span>が<ruby>縦<rt>たて</rt></ruby>に<ruby>並<rt>なら</rt></ruby>んで<ruby>滑<rt>すべ</rt></ruby>ります。いちばん<ruby>前<rt>まえ</rt></ruby>は<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>当<rt>あ</rt></ruby>たっ</span>て<ruby>疲<rt>つか</rt></ruby>れるため、<span\
+  \ style=\"color: blue;\"><ruby>交代<rt>こうたい</rt></ruby></span>しながら<ruby>滑<rt>すべ</rt></ruby>ります。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>はオランダと<ruby>試合<rt>しあい</rt></ruby>をして、<ruby>高木<rt>たかぎ</rt></ruby><ruby>美帆<rt>みほ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>と<ruby>姉<rt>あね</rt></ruby>の<ruby>高木<rt>たかぎ</rt></ruby><ruby>菜那<rt>なな</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>、<ruby>佐藤<rt>さとう</rt></ruby><ruby>綾乃<rt>あやの</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>ました。<ruby>途中<rt>とちゅう</rt></ruby>でオランダのほうがはやくなりましたが、<ruby>最後<rt>さいご</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>がオランダより２<span\
+  \ style=\"color: blue;\"><ruby>秒<rt>びょう</rt></ruby></span><ruby>近<rt>ちか</rt></ruby>くはやく<span\
+  \ style=\"color: blue;\">ゴール</span>して、<span style=\"color: blue;\"><ruby>金<rt>きん</rt></ruby></span><span\
+  \ style=\"color: blue;\">メダル</span>を<ruby>取<rt>と</rt></ruby>りました。<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>は２<ruby>分<rt>ふん</rt></ruby>５３<span\
+  \ style=\"color: blue;\"><ruby>秒<rt>びょう</rt></ruby></span>８９で、<span style=\"color:\
+  \ blue;\">オリンピック</span>の<ruby>新<rt>あたら</rt></ruby>しい<span style=\"color: blue;\"\
+  ><ruby>記録<rt>きろく</rt></ruby></span>になりました。</p>\n<p><span style=\"color: blue;\"\
+  ><ruby>選手<rt>せんしゅ</rt></ruby></span>たちは<ruby>試合<rt>しあい</rt></ruby>のあと、「みんなの<ruby>力<rt>ちから</rt></ruby>を１つにすれば、<ruby>強<rt>つよ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>がたくさんいる<ruby>国<rt>くに</rt></ruby>にも<ruby>勝<rt>か</rt></ruby>つことができます」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: スピード
+  descriptions:
+  - <ruby><rb>速</rb><rt>はや</rt></ruby>さ。<ruby><rb>速力</rb><rt>そくりょく</rt></ruby>。
+- word: スケート
+  descriptions:
+  - <ruby><rb>底</rb><rt>そこ</rt></ruby>に<ruby><rb>金具</rb><rt>かなぐ</rt></ruby>の<ruby><rb>刃</rb><rt>は</rt></ruby>がついているくつをはいて、<ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。アイススケート。また、そのためのくつ。
+  - 「ローラースケート」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+- word: 女子
+  descriptions:
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>女性</rb><rt>じょせい</rt></ruby>。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 金
+  descriptions:
+  - <ruby><rb>黄色</rb><rt>きいろ</rt></ruby>いつやのある、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。こがね。
+  - こがね<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+  - おかね。
+  - 「<span class="dic_sansyogogi">1)</span>」のように、だいじな。りっぱな。
+  - かなもの。
+  - <ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>金曜日</rb><rt>きんようび</rt></ruby>。
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+- word: 決勝
+  descriptions:
+  - <ruby><rb>最後</rb><rt>さいご</rt></ruby>の<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>めること。
+  - <ruby><rb>第</rb><rt>だい</rt></ruby><ruby><rb>一位</rb><rt>いちい</rt></ruby>のものを<ruby><rb>決</rb><rt>き</rt></ruby>めること。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 当たる
+  descriptions:
+  - ぶつかる。
+  - <ruby><rb>命中</rb><rt>めいちゅう</rt></ruby>する。
+  - ねらったとおりうまくいく。
+  - （<ruby><rb>光</rb><rt>ひかり</rt></ruby>・<ruby><rb>風</rb><rt>かぜ</rt></ruby>などを）<ruby><rb>受</rb><rt>う</rt></ruby>けるようにする。
+  - ちょうど<ruby><rb>当</rb><rt>あ</rt></ruby>てはまる。
+  - その<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>にある。
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>ける。
+  - <ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。
+  - <ruby><rb>確</rb><rt>たし</rt></ruby>かめる。<ruby><rb>調</rb><rt>しら</rt></ruby>べる。
+  - ひどい<ruby><rb>目</rb><rt>め</rt></ruby>にあわせる。
+- word: 交代・
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>入</rb><rt>い</rt></ruby>れかわること。かわり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 秒
+  descriptions:
+  - <ruby><rb>時間</rb><rt>じかん</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。
+  - <ruby><rb>角度</rb><rt>かくど</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。
+- word: ゴール
+  descriptions:
+  - <ruby><rb>競走</rb><rt>きょうそう</rt></ruby>で、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>決勝点</rb><rt>けっしょうてん</rt></ruby>。
+  - バスケットボール・サッカーなどで、ボールを<ruby><rb>入</rb><rt>い</rt></ruby>れると<ruby><rb>点</rb><rt>てん</rt></ruby>になる<ruby><rb>所</rb><rt>ところ</rt></ruby>。また、そこにボールを<ruby><rb>入</rb><rt>い</rt></ruby>れること。
+  - <ruby><rb>目標</rb><rt>もくひょう</rt></ruby>の<ruby><rb>最後</rb><rt>さいご</rt></ruby>の<ruby><rb>点</rb><rt>てん</rt></ruby>。
+- word: 記録
+  descriptions:
+  - あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011338091000/k10011338091000.html
+web_title_with_ruby: <ruby>スピード<rt>すぴーど</rt></ruby><ruby>スケート<rt>すけーと</rt></ruby><ruby>女子<rt>じょし</rt></ruby><ruby>団体<rt>だんたい</rt></ruby><ruby>パシュート<rt>ぱしゅーと</rt></ruby>
+  <ruby>日本<rt>にっぽん</rt></ruby>が<ruby>金<rt>きん</rt></ruby><ruby>メダル<rt>めだる</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/21/スピードスケート女子団体パシュート-日本が金メダル
+related_news:
+- title: スピードスケート１５００ｍ　<ruby>高木<rt>たかぎ</rt></ruby><ruby>美帆<rt>みほ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>銀<rt>ぎん</rt></ruby>メダル
+  url: https://newswebeasy.github.io/news/easy/2018/02/13/スピードスケート1500m-高木美帆選手が銀メダル
+- title: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>女子<rt>じょし</rt></ruby>が<ruby>銀<rt>ぎん</rt></ruby>と<ruby>銅<rt>どう</rt></ruby>メダル　スピードスケート１０００m
+  url: https://newswebeasy.github.io/news/easy/2018/02/15/日本の女子が銀と銅メダル-スピードスケート1000m
+- title: スピードスケートの<ruby>小平<rt>こだいら</rt></ruby><ruby>奈緒<rt>なお</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>金<rt>きん</rt></ruby>メダルを<ruby>取<rt>と</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/02/19/スピードスケートの小平奈緒選手が金メダルを取る
+- title: <ruby>韓国<rt>かんこく</rt></ruby>でピョンチャンオリンピックが<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/02/09/韓国でピョンチャンオリンピックが始まる
+- title: スピードスケートの<ruby>小平<rt>こだいら</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>世界<rt>せかい</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby><ruby>速<rt>はや</rt></ruby>い<ruby>記録<rt>きろく</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す
+  url: https://newswebeasy.github.io/news/easy/2017/12/12/スピードスケートの小平選手が世界で1番速い記録を出す
+...
