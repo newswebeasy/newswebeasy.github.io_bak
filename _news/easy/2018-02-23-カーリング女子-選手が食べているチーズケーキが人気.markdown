@@ -1,0 +1,81 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011337791000
+last_modified_at: '2018-02-23T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ピョンチャンオリンピックでは、カーリング女子の選手たちが試合の休み時間に、試合のやり方を話し合いながら、お菓子などを食べています。
+title: カーリング女子　選手が食べているチーズケーキが人気
+title_with_ruby: カーリング<ruby>女子<rt>じょし</rt></ruby>　<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>食<rt>た</rt></ruby>べているチーズケーキが<ruby>人気<rt>にんき</rt></ruby>
+outline: ピョンチャンオリンピックでは、カーリング女子の選手たちが試合の休み時間に、試合のやり方を話し合いながら、お菓子などを食べています。
+outline_with_ruby: ピョンチャンオリンピックでは、カーリング<ruby>女子<rt>じょし</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>たちが<ruby>試合<rt>しあい</rt></ruby>の<ruby>休<rt>やす</rt></ruby>み<ruby>時間<rt>じかん</rt></ruby>に、<ruby>試合<rt>しあい</rt></ruby>のやり<ruby>方<rt>かた</rt></ruby>を<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>いながら、お<ruby>菓子<rt>かし</rt></ruby>などを<ruby>食<rt>た</rt></ruby>べています。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/21/K10011337791_1802211835_1802211856_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/23/k10011337791000.mp3
+content_with_ruby: "<p>ピョンチャンオリンピックでは、<span style=\"color: blue;\">カーリング</span><span\
+  \ style=\"color: blue;\"><ruby>女子<rt>じょし</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちが<ruby>試合<rt>しあい</rt></ruby>の<ruby>休<rt>やす</rt></ruby>み<ruby>時間<rt>じかん</rt></ruby>に、<ruby>試合<rt>しあい</rt></ruby>のやり<ruby>方<rt>かた</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>い</span>ながら、お<ruby>菓子<rt>かし</rt></ruby>などを<ruby>食<rt>た</rt></ruby>べています。</p>\n\
+  <p>この<span style=\"color: blue;\"><ruby>様子<rt>ようす</rt></ruby></span>がテレビに<span style=\"\
+  color: blue;\"><ruby>映<rt>うつ</rt></ruby>っ</span>て、<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちが<ruby>食<rt>た</rt></ruby>べていたお<ruby>菓子<rt>かし</rt></ruby>の１つが<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>を<ruby>集<rt>あつ</rt></ruby>めています。<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\">チーム</span>がいつも<ruby>練習<rt>れんしゅう</rt></ruby>している<ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>北見市<rt>きたみし</rt></ruby>にあるお<ruby>菓子<rt>かし</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>のチーズケーキです。<ruby>店<rt>みせ</rt></ruby>には、<ruby>去年<rt>きょねん</rt></ruby><ruby>来<rt>き</rt></ruby>た<ruby>藤澤<rt>ふじさわ</rt></ruby><ruby>五月<rt>さつき</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が「いつもおいしいチーズケーキをいただいてます」と<ruby>書<rt>か</rt></ruby>いた<ruby>紙<rt>かみ</rt></ruby>が<ruby>飾<rt>かざ</rt></ruby>ってあります。</p>\n\
+  <p><ruby>店<rt>みせ</rt></ruby>によると、インターネットなどで<ruby>買<rt>か</rt></ruby>いたいという<ruby>客<rt>きゃく</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>急<rt>きゅう</rt></ruby>に</span><ruby>多<rt>おお</rt></ruby>くなって、たくさん<ruby>作<rt>つく</rt></ruby>ってあったチーズケーキは<ruby>２０日<rt>はつか</rt></ruby>に<ruby>全部<rt>ぜんぶ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れ</span>てしまいました。２１<ruby>日<rt>にち</rt></ruby>は<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>客<rt>きゃく</rt></ruby>に、なくなったので<ruby>売<rt>う</rt></ruby>ることができないと<ruby>説明<rt>せつめい</rt></ruby>していました。２２<ruby>日<rt>にち</rt></ruby>からはいつもの２<ruby>倍<rt>ばい</rt></ruby><ruby>作<rt>つく</rt></ruby>って<ruby>売<rt>う</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: カーリング
+  descriptions:
+  - <ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>でするスポーツの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>四人</rb><rt>よにん</rt></ruby>ひと<ruby><rb>組</rb><rt>くみ</rt></ruby>になって、<ruby><rb>円盤</rb><rt>えんばん</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>をした<ruby><rb>重</rb><rt>おも</rt></ruby>い<ruby><rb>石</rb><rt>いし</rt></ruby>をすべらせ、<ruby><rb>円</rb><rt>えん</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れることをきそう<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+- word: 女子
+  descriptions:
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>女性</rb><rt>じょせい</rt></ruby>。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: 話し合う
+  descriptions:
+  - たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。
+  - <ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。
+- word: 様子
+  descriptions:
+  - ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。
+  - <ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。
+  - そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。
+  - わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。
+- word: 映る
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やかげなどが、ほかの<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>に<ruby><rb>現</rb><rt>あらわ</rt></ruby>れる。
+  - <ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>合</rb><rt>あ</rt></ruby>わせがよい。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 急に
+  descriptions:
+  - とつぜん。にわかに。
+- word: 売れる
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011337791000/k10011337791000.html
+web_title_with_ruby: <ruby>カーリング<rt>かーりんぐ</rt></ruby><ruby>女子<rt>じょし</rt></ruby>「おやつ<ruby>タイム<rt>たいむ</rt></ruby>」で<ruby>地元<rt>じもと</rt></ruby><ruby>北見<rt>きたみ</rt></ruby>の<ruby>菓子<rt>かし</rt></ruby>が<ruby>人気<rt>にんき</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/21/カーリング女子おやつタイムで地元北見の菓子が人気
+related_news:
+- title: スピードスケートの<ruby>小平<rt>こだいら</rt></ruby><ruby>奈緒<rt>なお</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>金<rt>きん</rt></ruby>メダルを<ruby>取<rt>と</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/02/19/スピードスケートの小平奈緒選手が金メダルを取る
+- title: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>女子<rt>じょし</rt></ruby>が<ruby>銀<rt>ぎん</rt></ruby>と<ruby>銅<rt>どう</rt></ruby>メダル　スピードスケート１０００m
+  url: https://newswebeasy.github.io/news/easy/2018/02/15/日本の女子が銀と銅メダル-スピードスケート1000m
+- title: スピードスケート１５００ｍ　<ruby>高木<rt>たかぎ</rt></ruby><ruby>美帆<rt>みほ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>銀<rt>ぎん</rt></ruby>メダル
+  url: https://newswebeasy.github.io/news/easy/2018/02/13/スピードスケート1500m-高木美帆選手が銀メダル
+- title: <ruby>韓国<rt>かんこく</rt></ruby>でピョンチャンオリンピックが<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/02/09/韓国でピョンチャンオリンピックが始まる
+- title: ３<ruby>人<rt>にん</rt></ruby>で<ruby>滑<rt>すべ</rt></ruby>るスピードスケートの<ruby>女子<rt>じょし</rt></ruby><ruby>団体<rt>だんたい</rt></ruby>で<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>金<rt>きん</rt></ruby>メダル
+  url: https://newswebeasy.github.io/news/easy/2018/02/22/3人で滑るスピードスケートの女子団体で日本が金メダル
+...
