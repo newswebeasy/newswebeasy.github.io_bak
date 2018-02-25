@@ -1,0 +1,105 @@
+---
+layout: web_news
+categories: web
+newsid: k10011342691000
+title: 羽田空港 人工知能搭載バスで自動運転の実証実験
+title_with_ruby: <ruby>羽田空港<rt data-ruby-level="3">はねだくうこう</rt></ruby> <ruby>人工<rt
+  data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt data-ruby-level="5">ちのう</rt></ruby><ruby>搭載<rt
+  data-ruby-level="7">とうさい</rt></ruby>バスで<ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt
+  data-ruby-level="3">うんてん</rt></ruby>の<ruby>実証<rt data-ruby-level="5">じっしょう</rt></ruby><ruby>実験<rt
+  data-ruby-level="4">じっけん</rt></ruby>
+last_modified_at: '2018-02-25T15:20:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>02<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>25<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 15<ruby>時<rt data-ruby-level="2">じ</rt></ruby>20<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ２０２０年東京オリンピック パラリンピックに向けて、空港業務を省力化して、日本を訪れる外国人観光客の増加に対応しようと、羽田空港で空港内を走るバスの自動運転の実証実験が始まりました。
+summary: ２０２０<ruby>年<rt data-ruby-level="1">ねん</rt></ruby><ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>オリンピック
+  パラリンピックに<ruby>向<rt data-ruby-level="3">む</rt></ruby>けて、<ruby>空港<rt data-ruby-level="3">くうこう</rt></ruby><ruby>業務<rt
+  data-ruby-level="5">ぎょうむ</rt></ruby>を<ruby>省力化<rt data-ruby-level="4">しょうりょくか</rt></ruby>して、<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>を<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れる<ruby>外国人<rt
+  data-ruby-level="2">がいこくじん</rt></ruby><ruby>観光客<rt data-ruby-level="4">かんこうきゃく</rt></ruby>の<ruby>増加<rt
+  data-ruby-level="5">ぞうか</rt></ruby>に<ruby>対応<rt data-ruby-level="5">たいおう</rt></ruby>しようと、<ruby>羽田空港<rt
+  data-ruby-level="3">はねだくうこう</rt></ruby>で<ruby>空港内<rt data-ruby-level="3">くうこうない</rt></ruby>を<ruby>走<rt
+  data-ruby-level="2">はし</rt></ruby>るバスの<ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt
+  data-ruby-level="3">うんてん</rt></ruby>の<ruby>実証<rt data-ruby-level="5">じっしょう</rt></ruby><ruby>実験<rt
+  data-ruby-level="4">じっけん</rt></ruby>が<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/25/K10011342691_1802251500_1802251531_01_02.jpg
+more: この<ruby>実証<rt data-ruby-level="5">じっしょう</rt></ruby><ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>は、<ruby>全日空<rt
+  data-ruby-level="3">ぜんにっくう</rt></ruby>とソフトバンクの<ruby>子会社<rt data-ruby-level="2">こがいしゃ</rt></ruby>が<ruby>共同<rt
+  data-ruby-level="4">きょうどう</rt></ruby>で<ruby>行<rt data-ruby-level="2">おこな</rt></ruby>っていて、２５<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>、<ruby>羽田空港<rt data-ruby-level="3">はねだくうこう</rt></ruby>の<ruby>一般道<rt
+  data-ruby-level="7">いっぱんどう</rt></ruby>で<ruby>実際<rt data-ruby-level="5">じっさい</rt></ruby>にバスを<ruby>自動<rt
+  data-ruby-level="3">じどう</rt></ruby>で<ruby>走<rt data-ruby-level="2">はし</rt></ruby>らせる<ruby>実験<rt
+  data-ruby-level="4">じっけん</rt></ruby>の<ruby>様子<rt data-ruby-level="3">ようす</rt></ruby>が<ruby>公開<rt
+  data-ruby-level="3">こうかい</rt></ruby>されました。<br /><br />バスには<ruby>人工<rt data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt
+  data-ruby-level="5">ちのう</rt></ruby>が<ruby>搭載<rt data-ruby-level="7">とうさい</rt></ruby>され、<ruby>誤差<rt
+  data-ruby-level="6">ごさ</rt></ruby>が<ruby>数<rt data-ruby-level="2">すう</rt></ruby><ruby>センチ<rt
+  data-ruby-level="2">せんち</rt></ruby>という<ruby>高性能<rt data-ruby-level="5">こうせいのう</rt></ruby>なＧＰＳで<ruby>運転<rt
+  data-ruby-level="3">うんてん</rt></ruby>を<ruby>制御<rt data-ruby-level="7">せいぎょ</rt></ruby>しながら<ruby>走<rt
+  data-ruby-level="2">はし</rt></ruby>る<ruby>仕組<rt data-ruby-level="3">しく</rt></ruby>みで、<ruby>実験<rt
+  data-ruby-level="4">じっけん</rt></ruby>では<ruby>決<rt data-ruby-level="3">き</rt></ruby>められたルートを<ruby>運転手<rt
+  data-ruby-level="3">うんてんしゅ</rt></ruby>が<ruby>一切<rt data-ruby-level="7">いっさい</rt></ruby><ruby>操作<rt
+  data-ruby-level="6">そうさ</rt></ruby>せずに<ruby>加速<rt data-ruby-level="4">かそく</rt></ruby>や<ruby>減速<rt
+  data-ruby-level="5">げんそく</rt></ruby>しながら、<ruby>バス<rt data-ruby-level="4">ばす</rt></ruby><ruby>停<rt
+  data-ruby-level="4">てい</rt></ruby>への<ruby>停止<rt data-ruby-level="4">ていし</rt></ruby>をすべて<ruby>自動<rt
+  data-ruby-level="3">じどう</rt></ruby>で<ruby>行<rt data-ruby-level="2">おこな</rt></ruby>いました。<br
+  />また、<ruby>運転手<rt data-ruby-level="3">うんてんしゅ</rt></ruby>がいない<ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt
+  data-ruby-level="3">うんてん</rt></ruby>の<ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>も<ruby>行<rt
+  data-ruby-level="2">おこな</rt></ruby>われ、<ruby>遠隔<rt data-ruby-level="7">えんかく</rt></ruby>で<ruby>監視<rt
+  data-ruby-level="7">かんし</rt></ruby>しながら、<ruby>時速<rt data-ruby-level="3">じそく</rt></ruby>１０キロで１．４キロの<ruby>道<rt
+  data-ruby-level="2">みち</rt></ruby>のりを<ruby>無事<rt data-ruby-level="4">ぶじ</rt></ruby><ruby>走行<rt
+  data-ruby-level="2">そうこう</rt></ruby>しました。<br /><br /><ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>を<ruby>訪<rt
+  data-ruby-level="7">おとず</rt></ruby>れる<ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby><ruby>観光客<rt
+  data-ruby-level="4">かんこうきゃく</rt></ruby>の<ruby>増加<rt data-ruby-level="5">ぞうか</rt></ruby>を<ruby>受<rt
+  data-ruby-level="3">う</rt></ruby>けて、<ruby>国内<rt data-ruby-level="2">こくない</rt></ruby>の<ruby>航空<rt
+  data-ruby-level="4">こうくう</rt></ruby><ruby>会社<rt data-ruby-level="2">がいしゃ</rt></ruby>が<ruby>運航<rt
+  data-ruby-level="4">うんこう</rt></ruby>する<ruby>国際線<rt data-ruby-level="5">こくさいせん</rt></ruby>の<ruby>便<rt
+  data-ruby-level="4">びん</rt></ruby><ruby>数<rt data-ruby-level="2">かず</rt></ruby>はおととしまでの５<ruby>年間<rt
+  data-ruby-level="2">ねんかん</rt></ruby>に１．４<ruby>倍<rt data-ruby-level="3">ばい</rt></ruby>に<ruby>増<rt
+  data-ruby-level="5">ふ</rt></ruby>え、<ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>オリンピックパラリンピックに<ruby>向<rt
+  data-ruby-level="3">む</rt></ruby>けてさらに<ruby>増加<rt data-ruby-level="5">ぞうか</rt></ruby>が<ruby>見込<rt
+  data-ruby-level="7">みこ</rt></ruby>まれていますが、<ruby>空港<rt data-ruby-level="3">くうこう</rt></ruby><ruby>業務<rt
+  data-ruby-level="5">ぎょうむ</rt></ruby>に<ruby>携<rt data-ruby-level="7">たずさ</rt></ruby>わる<ruby>職員<rt
+  data-ruby-level="5">しょくいん</rt></ruby>の<ruby>数<rt data-ruby-level="2">かず</rt></ruby>はほぼ<ruby>横<rt
+  data-ruby-level="3">よこ</rt></ruby>ばいで、<ruby>人材<rt data-ruby-level="4">じんざい</rt></ruby>をどう<ruby>確保<rt
+  data-ruby-level="5">かくほ</rt></ruby>していくかが<ruby>課題<rt data-ruby-level="4">かだい</rt></ruby>だということです。<br
+  /><br /><ruby>全日空<rt data-ruby-level="3">ぜんにっくう</rt></ruby>の<ruby>片野坂<rt data-ruby-level="6">かたのさか</rt></ruby><ruby>真哉<rt
+  data-ruby-level="8">しんや</rt></ruby><ruby>会長<rt data-ruby-level="2">かいちょう</rt></ruby>は「<ruby>自動化<rt
+  data-ruby-level="3">じどうか</rt></ruby>が<ruby>進<rt data-ruby-level="3">すす</rt></ruby>めば、<ruby>浮<rt
+  data-ruby-level="7">う</rt></ruby>いたマンパワーをほかの<ruby>業務<rt data-ruby-level="5">ぎょうむ</rt></ruby>に<ruby>活用<rt
+  data-ruby-level="2">かつよう</rt></ruby>することができる。<ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt
+  data-ruby-level="3">うんてん</rt></ruby>は<ruby>空港<rt data-ruby-level="3">くうこう</rt></ruby>に<ruby>適<rt
+  data-ruby-level="5">てき</rt></ruby>していて<ruby>可能性<rt data-ruby-level="5">かのうせい</rt></ruby>を<ruby>実感<rt
+  data-ruby-level="3">じっかん</rt></ruby>した」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。<br
+  /><ruby>全日空<rt data-ruby-level="3">ぜんにっくう</rt></ruby>では<ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>も<ruby>実験<rt
+  data-ruby-level="4">じっけん</rt></ruby>を<ruby>重<rt data-ruby-level="3">かさ</rt></ruby>ねて、２０２０<ruby>年以降<rt
+  data-ruby-level="6">ねんいこう</rt></ruby>の<ruby>実用化<rt data-ruby-level="3">じつようか</rt></ruby>を<ruby>目指<rt
+  data-ruby-level="3">めざ</rt></ruby>すとしています。
+source_url: https://www3.nhk.or.jp/news/html/20180225/k10011342691000.html
+related_news:
+- title: <ruby>雪道<rt data-ruby-level="2">ゆきみち</rt></ruby>の<ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>走行<rt
+    data-ruby-level="2">そうこう</rt></ruby><ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby><ruby>始<rt
+    data-ruby-level="3">はじ</rt></ruby>まる ＧＰＳ<ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>「みちびき」<ruby>活用<rt
+    data-ruby-level="2">かつよう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/02/07/雪道の自動走行実験始まる-GPS衛星みちびき活用
+- title: <ruby>物流<rt data-ruby-level="3">ぶつりゅう</rt></ruby><ruby>業界<rt data-ruby-level="3">ぎょうかい</rt></ruby>の<ruby>人手<rt
+    data-ruby-level="1">ひとで</rt></ruby><ruby>不足<rt data-ruby-level="4">ぶそく</rt></ruby><ruby>対策<rt
+    data-ruby-level="6">たいさく</rt></ruby>でトラック<ruby>隊列<rt data-ruby-level="4">たいれつ</rt></ruby><ruby>走行<rt
+    data-ruby-level="2">そうこう</rt></ruby><ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/23/物流業界の人手不足対策でトラック隊列走行実験
+- title: <ruby>小型<rt data-ruby-level="4">こがた</rt></ruby>ドローンで<ruby>地下<rt data-ruby-level="2">ちか</rt></ruby>のインフラ<ruby>点検<rt
+    data-ruby-level="5">てんけん</rt></ruby>の<ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/02/06/小型ドローンで地下のインフラ点検の実験
+- title: <ruby>手荷物<rt data-ruby-level="3">てにもつ</rt></ruby>の<ruby>中<rt data-ruby-level="1">なか</rt></ruby>が<ruby>立体<rt
+    data-ruby-level="2">りったい</rt></ruby><ruby>映像<rt data-ruby-level="6">えいぞう</rt></ruby>に
+    <ruby>成田空港<rt data-ruby-level="4">なりたくうこう</rt></ruby>で<ruby>最新<rt data-ruby-level="4">さいしん</rt></ruby><ruby>保安<rt
+    data-ruby-level="5">ほあん</rt></ruby><ruby>検査<rt data-ruby-level="5">けんさ</rt></ruby>の<ruby>実験<rt
+    data-ruby-level="4">じっけん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/02/15/手荷物の中が立体映像に-成田空港で最新保安検査の実験
+- title: <ruby>完<rt data-ruby-level="4">かん</rt></ruby><ruby>全自動<rt data-ruby-level="3">ぜんじどう</rt></ruby><ruby>運転<rt
+    data-ruby-level="3">うんてん</rt></ruby><ruby>車<rt data-ruby-level="1">しゃ</rt></ruby>
+    17<ruby>年後<rt data-ruby-level="2">ねんご</rt></ruby>は４<ruby>台<rt data-ruby-level="2">だい</rt></ruby>に１<ruby>台<rt
+    data-ruby-level="2">だい</rt></ruby>に <ruby>民間<rt data-ruby-level="4">みんかん</rt></ruby>コンサルが<ruby>試算<rt
+    data-ruby-level="4">しさん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/15/完全自動運転車-17年後は4台に1台に-民間コンサルが試算
+...
