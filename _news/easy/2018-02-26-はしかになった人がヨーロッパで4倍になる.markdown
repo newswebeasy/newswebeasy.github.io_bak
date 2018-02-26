@@ -1,0 +1,67 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011339421000
+last_modified_at: '2018-02-26T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>26<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 「はしか」は熱が出たり体に赤くて小さい発疹が出たりする病気で、ウイルスでうつります。
+title: 「はしか」になった人がヨーロッパで４倍になる
+title_with_ruby: 「はしか」になった<ruby>人<rt>ひと</rt></ruby>がヨーロッパで４<ruby>倍<rt>ばい</rt></ruby>になる
+outline: 「はしか」は熱が出たり体に赤くて小さい発疹が出たりする病気で、ウイルスでうつります。
+outline_with_ruby: 「はしか」は<ruby>熱<rt>ねつ</rt></ruby>が<ruby>出<rt>で</rt></ruby>たり<ruby>体<rt>からだ</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>くて<ruby>小<rt>ちい</rt></ruby>さい<ruby>発疹<rt>はっしん</rt></ruby>が<ruby>出<rt>で</rt></ruby>たりする<ruby>病気<rt>びょうき</rt></ruby>で、ウイルスでうつります。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/22/K10011339421_1802230656_1802230704_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/26/k10011339421000.mp3
+content_with_ruby: "<p>「はしか」は<ruby>熱<rt>ねつ</rt></ruby>が<ruby>出<rt>で</rt></ruby>たり<ruby>体<rt>からだ</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>くて<ruby>小<rt>ちい</rt></ruby>さい<span\
+  \ style=\"color: blue;\"><ruby>発疹<rt>はっしん</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>たりする<ruby>病気<rt>びょうき</rt></ruby>で、<span\
+  \ style=\"color: blue;\">ウイルス</span>でうつります。<span style=\"color: blue;\"><ruby>妊娠<rt>にんしん</rt></ruby></span>している<ruby>人<rt>ひと</rt></ruby>がこの<ruby>病気<rt>びょうき</rt></ruby>になると、おなかの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>危険<rt>きけん</rt></ruby>になることがあります。</p>\n\
+  <p><span style=\"color: blue;\">ＷＨＯ</span>によると、<span style=\"color: blue;\">ヨーロッパ</span>では<ruby>去年<rt>きょねん</rt></ruby>「はしか」がとても<ruby>多<rt>おお</rt></ruby>くなりました。その<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>は２<ruby>万<rt>まん</rt></ruby>１０００<span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span><ruby>以上<rt>いじょう</rt></ruby>で、<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>とし</rt></ruby>の４<ruby>倍<rt>ばい</rt></ruby>でした。<ruby>特<rt>とく</rt></ruby>にルーマニア、イタリア、ウクライナで<ruby>多<rt>おお</rt></ruby>くなって、この３つの<ruby>国<rt>くに</rt></ruby>だけで１<ruby>万<rt>まん</rt></ruby>５０００<span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span><ruby>以上<rt>いじょう</rt></ruby>でした。ギリシャ、ドイツ、セルビアなどでも<ruby>多<rt>おお</rt></ruby>くなりました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の<span style=\"color: blue;\"><ruby>外務省<rt>がいむしょう</rt></ruby></span>は、<ruby>最近<rt>さいきん</rt></ruby>も、イタリアやルーマニアなどで「はしか」になる<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いと<ruby>言<rt>い</rt></ruby>っています。このため、このような<ruby>国<rt>くに</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>がある<ruby>人<rt>ひと</rt></ruby>は<span\
+  \ style=\"color: blue;\">ワクチン</span>の<ruby>注射<rt>ちゅうしゃ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けるように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: 発疹
+  descriptions:
+  - <ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>などにできる、<ruby><rb>小</rb><rt>ちい</rt></ruby>さなふきでもの。ほっしん。
+- word: ウイルス
+  descriptions:
+  - <ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。
+- word: 妊娠
+  descriptions:
+  - おなかの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>子</rb><rt>こ</rt></ruby>どもを<ruby><rb>宿</rb><rt>やど</rt></ruby>すこと。みごもること。
+- word: WHO
+  descriptions:
+  - <ruby><rb>国際連合</rb><rt>こくさいれんごう</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>保健衛生問題</rb><rt>ほけんえいせいもんだい</rt></ruby>について、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が<ruby><rb>協力</rb><rt>きょうりょく</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>機関</rb><rt>きかん</rt></ruby>。
+- word: 数
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。
+  - いくつもあること。たくさん。
+  - <ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。
+- word: 件
+  descriptions:
+  - ことがら。できごと。
+  - ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 外務省
+  descriptions:
+  - <ruby><rb>外国</rb><rt>がいこく</rt></ruby>とのつきあいや<ruby><rb>条約</rb><rt>じょうやく</rt></ruby>の<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めなどの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: ワクチン
+  descriptions:
+  - <ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>のもとになるばいきんなどから<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>薬</rb><rt>くすり</rt></ruby>。これを<ruby><rb>接種</rb><rt>せっしゅ</rt></ruby>して、その<ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>にかからないようにする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011339421000/k10011339421000.html
+web_title_with_ruby: はしか<ruby>感染者<rt>かんせんしゃ</rt></ruby> <ruby>ヨーロッパ<rt>よーろっぱ</rt></ruby>で４<ruby>倍<rt>ばい</rt></ruby>に
+  <ruby>渡航者<rt>とこうしゃ</rt></ruby>は<ruby>ワクチン<rt>わくちん</rt></ruby><ruby>接種<rt>せっしゅ</rt></ruby>を
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/22/はしか感染者-ヨーロッパで4倍に-渡航者はワクチン接種を
+related_news:
+- title: ユニセフ「<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>助<rt>たす</rt></ruby>けるために<ruby>協力<rt>きょうりょく</rt></ruby>してほしい」
+  url: https://newswebeasy.github.io/news/easy/2018/02/20/ユニセフ赤ちゃんを助けるために協力してほしい
+- title: <ruby>髪<rt>かみ</rt></ruby>の<ruby>毛<rt>け</rt></ruby>で<ruby>病気<rt>びょうき</rt></ruby>かどうかわかる<ruby>新<rt>あたら</rt></ruby>しい<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2018/01/04/髪の毛で病気かどうかわかる新しい研究を始める
+- title: <ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>寝<rt>ね</rt></ruby>ている<ruby>間<rt>あいだ</rt></ruby>ベビーセンサーを<ruby>使<rt>つか</rt></ruby>う<ruby>保育園<rt>ほいくえん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2017/12/27/赤ちゃんが寝ている間ベビーセンサーを使う保育園が増える
+...

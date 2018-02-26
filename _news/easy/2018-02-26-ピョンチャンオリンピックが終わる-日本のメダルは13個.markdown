@@ -1,0 +1,110 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011343151000
+last_modified_at: '2018-02-26T16:20:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>26<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: 韓国でピョンチャンオリンピックの試合が全部終わりました。
+title: ピョンチャンオリンピックが終わる　日本のメダルは１３個
+title_with_ruby: ピョンチャンオリンピックが<ruby>終<rt>お</rt></ruby>わる　<ruby>日本<rt>にっぽん</rt></ruby>のメダルは１３<ruby>個<rt>こ</rt></ruby>
+outline: 韓国でピョンチャンオリンピックの試合が全部終わりました。
+outline_with_ruby: <ruby>韓国<rt>かんこく</rt></ruby>でピョンチャンオリンピックの<ruby>試合<rt>しあい</rt></ruby>が<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>終<rt>お</rt></ruby>わりました。
+image_url: https://newswebeasy.github.io/ja201802/news/easy/image/2018/02/26/k10011343151000.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/26/k10011343151000.mp3
+content_with_ruby: "<p><ruby>韓国<rt>かんこく</rt></ruby>でピョンチャンオリンピックの<ruby>試合<rt>しあい</rt></ruby>が<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>終<rt>お</rt></ruby>わりました。<ruby>日本<rt>にっぽん</rt></ruby>は、４<ruby>個<rt>こ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>金<rt>きん</rt></ruby></span><span style=\"color: blue;\"\
+  >メダル</span>など<ruby>全部<rt>ぜんぶ</rt></ruby>で１３<ruby>個<rt>こ</rt></ruby>の<span style=\"\
+  color: blue;\">メダル</span>を<ruby>取<rt>と</rt></ruby>りました。<ruby>今<rt>いま</rt></ruby>までの<ruby>冬<rt>ふゆ</rt></ruby>の<span\
+  \ style=\"color: blue;\">オリンピック</span>でいちばん<ruby>多<rt>おお</rt></ruby>い<span style=\"\
+  color: blue;\">メダル</span>です。</p>\n<p>２５<ruby>日<rt>にち</rt></ruby><ruby>夜<rt>よる</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>閉会<rt>へいかい</rt></ruby></span><ruby>式<rt>しき</rt></ruby>がありました。<ruby>式<rt>しき</rt></ruby>ではまず<ruby>国<rt>くに</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>旗<rt>はた</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>歩<rt>ある</rt></ruby>きました。<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>旗<rt>はた</rt></ruby></span>は、<span style=\"color:\
+  \ blue;\">スピード</span><span style=\"color: blue;\">スケート</span>の<ruby>小平<rt>こだいら</rt></ruby><ruby>奈緒<rt>なお</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>持<rt>も</rt></ruby>ちました。</p>\n\
+  <p>そのあと、たくさんの<span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちが<ruby>会場<rt>かいじょう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってきました。<span\
+  \ style=\"color: blue;\">フィギュアスケート</span>の<ruby>羽生<rt>はにゅう</rt></ruby><ruby>結弦<rt>ゆづる</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>や、<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めて<span\
+  \ style=\"color: blue;\">メダル</span>を<ruby>取<rt>と</rt></ruby>った<span style=\"color:\
+  \ blue;\">カーリング</span><span style=\"color: blue;\"><ruby>女子<rt>じょし</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちも<span style=\"color:\
+  \ blue;\"><ruby>笑顔<rt>えがお</rt></ruby></span>で<ruby>歩<rt>ある</rt></ruby>いていました。</p>\n\
+  <p><ruby>式<rt>しき</rt></ruby>では、<ruby>次<rt>つぎ</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>の<span\
+  \ style=\"color: blue;\">オリンピック</span>を<ruby>開<rt>ひら</rt></ruby>く<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>北京<rt>ぺきん</rt></ruby>が、<span\
+  \ style=\"color: blue;\">オリンピック</span>の<span style=\"color: blue;\"><ruby>旗<rt>はた</rt></ruby></span>をもらいました。<ruby>最後<rt>さいご</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>聖火<rt>せいか</rt></ruby></span>が<ruby>消<rt>き</rt></ruby>えて、１７<ruby>日<rt>にち</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>間<rt>かん</rt></ruby></span>のピョンチャンオリンピックが<ruby>終<rt>お</rt></ruby>わりました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+- word: 金
+  descriptions:
+  - <ruby><rb>黄色</rb><rt>きいろ</rt></ruby>いつやのある、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。こがね。
+  - こがね<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+  - おかね。
+  - 「<span class="dic_sansyogogi">1)</span>」のように、だいじな。りっぱな。
+  - かなもの。
+  - <ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>金曜日</rb><rt>きんようび</rt></ruby>。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: 閉会
+  descriptions:
+  - <ruby><rb>会</rb><rt>かい</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わること。また、<ruby><rb>終</rb><rt>お</rt></ruby>わりにすること。
+- word: 旗
+  descriptions:
+  - <ruby><rb>布</rb><rt>ぬの</rt></ruby>や<ruby><rb>紙</rb><rt>かみ</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>り、さおなどの<ruby><rb>先</rb><rt>さき</rt></ruby>につけて、かざりや<ruby><rb>目</rb><rt>め</rt></ruby>じるしとするもの。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: スピード
+  descriptions:
+  - <ruby><rb>速</rb><rt>はや</rt></ruby>さ。<ruby><rb>速力</rb><rt>そくりょく</rt></ruby>。
+- word: スケート
+  descriptions:
+  - <ruby><rb>底</rb><rt>そこ</rt></ruby>に<ruby><rb>金具</rb><rt>かなぐ</rt></ruby>の<ruby><rb>刃</rb><rt>は</rt></ruby>がついているくつをはいて、<ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。アイススケート。また、そのためのくつ。
+  - 「ローラースケート」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+- word: フィギュア
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「フィギュアスケート」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>を、<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせておどるようにすべって、<ruby><rb>美</rb><rt>うつく</rt></ruby>しさやわざをきそうスケート<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+- word: カーリング
+  descriptions:
+  - <ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>でするスポーツの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>四人</rb><rt>よにん</rt></ruby>ひと<ruby><rb>組</rb><rt>くみ</rt></ruby>になって、<ruby><rb>円盤</rb><rt>えんばん</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>をした<ruby><rb>重</rb><rt>おも</rt></ruby>い<ruby><rb>石</rb><rt>いし</rt></ruby>をすべらせ、<ruby><rb>円</rb><rt>えん</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れることをきそう<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+- word: 女子
+  descriptions:
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>女性</rb><rt>じょせい</rt></ruby>。
+- word: 笑顔
+  descriptions:
+  - にっこり<ruby><rb>笑</rb><rt>わら</rt></ruby>っている<ruby><rb>顔</rb><rt>かお</rt></ruby>。
+- word: 聖火
+  descriptions:
+  - <ruby><rb>神</rb><rt>かみ</rt></ruby>にささげる<ruby><rb>火</rb><rt>ひ</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、オリンピック<ruby><rb>大会</rb><rt>たいかい</rt></ruby>の<ruby><rb>期間中</rb><rt>きかんちゅう</rt></ruby>、<ruby><rb>燃</rb><rt>も</rt></ruby>やし<ruby><rb>続</rb><rt>つづ</rt></ruby>ける<ruby><rb>火</rb><rt>ひ</rt></ruby>。ギリシャのオリンピアで<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>点火</rb><rt>てんか</rt></ruby>され、<ruby><rb>会場</rb><rt>かいじょう</rt></ruby>まで<ruby><rb>聖火</rb><rt>せいか</rt></ruby>リレーで<ruby><rb>運</rb><rt>はこ</rt></ruby>ばれる。
+- word: 間
+  descriptions:
+  - あいだ。へだたり。
+  - ひろがり。
+  - ある<ruby><rb>関係</rb><rt>かんけい</rt></ruby>をもったまとまり。
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>のようすをうかがう。
+  - へや。へやを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>尺貫法</rb><rt>しゃっかんほう</rt></ruby>で、<ruby><rb>長</rb><rt>なが</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>一間</rb><rt>いっけん</rt></ruby>は<ruby><rb>約</rb><rt>やく</rt></ruby>一・八メートル。
+source_url: http://www3.nhk.or.jp/news/easy/k10011343151000/k10011343151000.html
+web_title_with_ruby: <ruby>ピョン<rt>ぴょん</rt></ruby><ruby>チャン<rt>ちゃん</rt></ruby><ruby>オリンピック<rt>おりんぴっく</rt></ruby>が<ruby>閉幕<rt>へいまく</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/25/ピョンチャンオリンピックが閉幕
+related_news:
+- title: <ruby>韓国<rt>かんこく</rt></ruby>でピョンチャンオリンピックが<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/02/09/韓国でピョンチャンオリンピックが始まる
+- title: ジャンプの<ruby>葛西<rt>かさい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>「オリンピックで<ruby>金<rt>きん</rt></ruby>メダルをとりたい」
+  url: https://newswebeasy.github.io/news/easy/2018/02/06/ジャンプの葛西選手オリンピックで金メダルをとりたい
+- title: スピードスケートの<ruby>小平<rt>こだいら</rt></ruby><ruby>奈緒<rt>なお</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>金<rt>きん</rt></ruby>メダルを<ruby>取<rt>と</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/02/19/スピードスケートの小平奈緒選手が金メダルを取る
+- title: スピードスケート１５００ｍ　<ruby>高木<rt>たかぎ</rt></ruby><ruby>美帆<rt>みほ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>銀<rt>ぎん</rt></ruby>メダル
+  url: https://newswebeasy.github.io/news/easy/2018/02/13/スピードスケート1500m-高木美帆選手が銀メダル
+- title: フィギュアスケートの<ruby>羽生<rt>はにゅう</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>金<rt>きん</rt></ruby>メダル　<ruby>宇野<rt>うの</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>銀<rt>ぎん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/02/19/フィギュアスケートの羽生選手が金メダル-宇野選手は銀
+...

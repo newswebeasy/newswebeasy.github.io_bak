@@ -1,0 +1,81 @@
+---
+layout: web_news
+categories: web
+newsid: k10011339421000
+title: はしか感染者 ヨーロッパで４倍に 渡航者はワクチン接種を
+title_with_ruby: はしか<ruby>感染者<rt data-ruby-level="7">かんせんしゃ</rt></ruby> ヨーロッパで４<ruby>倍<rt
+  data-ruby-level="3">ばい</rt></ruby>に <ruby>渡航者<rt data-ruby-level="7">とこうしゃ</rt></ruby>はワクチン<ruby>接種<rt
+  data-ruby-level="5">せっしゅ</rt></ruby>を
+last_modified_at: '2018-02-22T21:28:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>02<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>22<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 21<ruby>時<rt data-ruby-level="2">じ</rt></ruby>28<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ＷＨＯ＝世界保健機関は、去年、ヨーロッパではしかに感染した人が前の年の４倍に上ったと発表し、日本の外務省は、最近もイタリアやルーマニアなどでは、はしかの感染例が多く報告されているとして、こうした国々に渡航する際にはワクチンの接種を検討するよう呼びかけています。
+summary: ＷＨＯ＝<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby><ruby>保健<rt data-ruby-level="5">ほけん</rt></ruby><ruby>機関<rt
+  data-ruby-level="4">きかん</rt></ruby>は、<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>、ヨーロッパではしかに<ruby>感染<rt
+  data-ruby-level="7">かんせん</rt></ruby>した<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>が<ruby>前<rt
+  data-ruby-level="2">まえ</rt></ruby>の<ruby>年<rt data-ruby-level="2">とし</rt></ruby>の４<ruby>倍<rt
+  data-ruby-level="3">ばい</rt></ruby>に<ruby>上<rt data-ruby-level="1">のぼ</rt></ruby>ったと<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>し、<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>外務省<rt
+  data-ruby-level="5">がいむしょう</rt></ruby>は、<ruby>最近<rt data-ruby-level="4">さいきん</rt></ruby>もイタリアやルーマニアなどでは、はしかの<ruby>感染<rt
+  data-ruby-level="7">かんせん</rt></ruby><ruby>例<rt data-ruby-level="4">れい</rt></ruby>が<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>く<ruby>報告<rt data-ruby-level="5">ほうこく</rt></ruby>されているとして、こうした<ruby>国々<rt
+  data-ruby-level="2">くにぐに</rt></ruby>に<ruby>渡航<rt data-ruby-level="7">とこう</rt></ruby>する<ruby>際<rt
+  data-ruby-level="5">さい</rt></ruby>にはワクチンの<ruby>接種<rt data-ruby-level="5">せっしゅ</rt></ruby>を<ruby>検討<rt
+  data-ruby-level="6">けんとう</rt></ruby>するよう<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけています。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/22/K10011339421_1802230656_1802230704_01_03.jpg
+more: ＷＨＯは１９<ruby>日<rt data-ruby-level="1">にち</rt></ruby>、ヨーロッパで<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby><ruby>確認<rt
+  data-ruby-level="7">かくにん</rt></ruby>された、はしかへの<ruby>感染<rt data-ruby-level="7">かんせん</rt></ruby>は２<ruby>万<rt
+  data-ruby-level="2">まん</rt></ruby>１０００<ruby>件<rt data-ruby-level="5">けん</rt></ruby><ruby>余<rt
+  data-ruby-level="5">あま</rt></ruby>りで、<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>の<ruby>年<rt
+  data-ruby-level="2">とし</rt></ruby>の４<ruby>倍<rt data-ruby-level="3">ばい</rt></ruby>に<ruby>上<rt
+  data-ruby-level="1">のぼ</rt></ruby>ったと<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>しました。<br
+  /><br /><ruby>中<rt data-ruby-level="1">なか</rt></ruby>でも、ルーマニア、イタリア、ウクライナでの<ruby>感染<rt
+  data-ruby-level="7">かんせん</rt></ruby>が<ruby>多<rt data-ruby-level="2">おお</rt></ruby>く、この３か<ruby>国<rt
+  data-ruby-level="2">こく</rt></ruby>だけで<ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせて１<ruby>万<rt
+  data-ruby-level="2">まん</rt></ruby>５０００<ruby>件<rt data-ruby-level="5">けん</rt></ruby><ruby>余<rt
+  data-ruby-level="5">あま</rt></ruby>りと、ヨーロッパ<ruby>全体<rt data-ruby-level="3">ぜんたい</rt></ruby>の７２％に<ruby>上<rt
+  data-ruby-level="1">のぼ</rt></ruby>っています。また、１００<ruby>人以上<rt data-ruby-level="4">にんいじょう</rt></ruby>の<ruby>患者<rt
+  data-ruby-level="7">かんじゃ</rt></ruby>が<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>された<ruby>国<rt
+  data-ruby-level="2">くに</rt></ruby>は、ギリシャやドイツ、セルビアなど、１５か<ruby>国<rt data-ruby-level="2">こく</rt></ruby>に<ruby>上<rt
+  data-ruby-level="1">のぼ</rt></ruby>っています。<br /><br />はしかは、<ruby>発熱<rt data-ruby-level="4">はつねつ</rt></ruby>や、<ruby>全身<rt
+  data-ruby-level="3">ぜんしん</rt></ruby>への<ruby>発疹<rt data-ruby-level="7">はっしん</rt></ruby>が<ruby>伴<rt
+  data-ruby-level="7">ともな</rt></ruby>うウイルス<ruby>性<rt data-ruby-level="5">せい</rt></ruby>の<ruby>感染症<rt
+  data-ruby-level="7">かんせんしょう</rt></ruby>で、<ruby>空気<rt data-ruby-level="1">くうき</rt></ruby><ruby>感染<rt
+  data-ruby-level="7">かんせん</rt></ruby>するため<ruby>感染力<rt data-ruby-level="7">かんせんりょく</rt></ruby>が<ruby>非常<rt
+  data-ruby-level="5">ひじょう</rt></ruby>に<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>く、<ruby>脳炎<rt
+  data-ruby-level="7">のうえん</rt></ruby>などを<ruby>起<rt data-ruby-level="3">お</rt></ruby>こして<ruby>重症<rt
+  data-ruby-level="7">じゅうしょう</rt></ruby><ruby>化<rt data-ruby-level="3">か</rt></ruby>し、<ruby>死<rt
+  data-ruby-level="3">し</rt></ruby>に<ruby>至<rt data-ruby-level="6">いた</rt></ruby>ることもあります。また、<ruby>妊婦<rt
+  data-ruby-level="7">にんぷ</rt></ruby>が<ruby>感染<rt data-ruby-level="7">かんせん</rt></ruby>すると、<ruby>流産<rt
+  data-ruby-level="4">りゅうざん</rt></ruby>や<ruby>早産<rt data-ruby-level="4">そうざん</rt></ruby>のおそれもあります。<br
+  /><br /><ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>外務省<rt data-ruby-level="5">がいむしょう</rt></ruby>は、<ruby>最近<rt
+  data-ruby-level="4">さいきん</rt></ruby>も、イタリアやルーマニアなどでははしかの<ruby>報告<rt data-ruby-level="5">ほうこく</rt></ruby><ruby>数<rt
+  data-ruby-level="2">すう</rt></ruby>が<ruby>増加<rt data-ruby-level="5">ぞうか</rt></ruby>しているとして、こうした<ruby>国々<rt
+  data-ruby-level="2">くにぐに</rt></ruby>に<ruby>渡航<rt data-ruby-level="7">とこう</rt></ruby>を<ruby>予定<rt
+  data-ruby-level="3">よてい</rt></ruby>している<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>は、ワクチンの<ruby>接種<rt
+  data-ruby-level="5">せっしゅ</rt></ruby>を<ruby>検討<rt data-ruby-level="6">けんとう</rt></ruby>するよう<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけています。
+movie_url: https://newswebeasy.github.io/ja201802/news/web/movie/2018/02/22/k10011339421_201802230656_201802230704.mp4
+voice_url: https://newswebeasy.github.io/ja201802/news/web/voice/2018/02/22/k10011339421_201802230656_201802230704.mp3
+source_url: https://www3.nhk.or.jp/news/html/20180222/k10011339421000.html
+easy_title_with_ruby: 「はしか」になった<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>がヨーロッパで４<ruby>倍<rt
+  data-ruby-level="3">ばい</rt></ruby>になる
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/02/26/はしかになった人がヨーロッパで4倍になる
+related_news:
+- title: インフル<ruby>流行<rt data-ruby-level="3">りゅうこう</rt></ruby><ruby>拡大<rt data-ruby-level="6">かくだい</rt></ruby>
+    <ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby>で<ruby>推計<rt data-ruby-level="6">すいけい</rt></ruby>124<ruby>万人<rt
+    data-ruby-level="2">まんにん</rt></ruby> <ruby>受験生<rt data-ruby-level="4">じゅけんせい</rt></ruby>や<ruby>高齢者<rt
+    data-ruby-level="7">こうれいしゃ</rt></ruby><ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/15/インフル流行拡大-全国で推計124万人-受験生や高齢者注意
+- title: インフルエンザ<ruby>患者数<rt data-ruby-level="7">かんじゃすう</rt></ruby> <ruby>統計<rt data-ruby-level="5">とうけい</rt></ruby><ruby>開始<rt
+    data-ruby-level="3">かいし</rt></ruby><ruby>以降<rt data-ruby-level="6">いこう</rt></ruby><ruby>最多<rt
+    data-ruby-level="4">さいた</rt></ruby>に <ruby>前週比<rt data-ruby-level="5">ぜんしゅうひ</rt></ruby>112<ruby>万人<rt
+    data-ruby-level="2">まんにん</rt></ruby><ruby>増<rt data-ruby-level="5">ぞう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/26/インフルエンザ患者数-統計開始以降最多に-前週比112万人増
+- title: 15<ruby>年後<rt data-ruby-level="2">ねんご</rt></ruby>のＧＤＰ「<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>１<ruby>位<rt
+    data-ruby-level="4">い</rt></ruby> インド３<ruby>位<rt data-ruby-level="4">い</rt></ruby>」<ruby>英<rt
+    data-ruby-level="4">えい</rt></ruby><ruby>民間<rt data-ruby-level="4">みんかん</rt></ruby><ruby>機関<rt
+    data-ruby-level="4">きかん</rt></ruby>の<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/27/15年後のGDP中国1位-インド3位英民間機関の調査
+...
