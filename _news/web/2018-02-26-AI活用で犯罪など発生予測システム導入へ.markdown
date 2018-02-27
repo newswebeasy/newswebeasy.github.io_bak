@@ -1,0 +1,84 @@
+---
+layout: web_news
+categories: web
+newsid: k10011343261000
+title: ＡＩ活用で犯罪など発生予測システム導入へ
+title_with_ruby: ＡＩ<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>で<ruby>犯罪<rt data-ruby-level="5">はんざい</rt></ruby>など<ruby>発生<rt
+  data-ruby-level="3">はっせい</rt></ruby><ruby>予測<rt data-ruby-level="5">よそく</rt></ruby>システム<ruby>導入<rt
+  data-ruby-level="5">どうにゅう</rt></ruby>へ
+last_modified_at: '2018-02-26T06:32:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>02<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>26<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 06<ruby>時<rt data-ruby-level="2">じ</rt></ruby>32<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 神奈川県警は、およそ２６０万件に上る過去の事件や事故などの情報を基に、ＡＩ＝人工知能を活用して犯罪や事故の発生を予測する新たなシステムの導入を全国で初めて目指すことを決めました。
+summary: <ruby>神奈川<rt data-ruby-level="8">かながわ</rt></ruby><ruby>県警<rt data-ruby-level="6">けんけい</rt></ruby>は、およそ２６０<ruby>万<rt
+  data-ruby-level="2">まん</rt></ruby><ruby>件<rt data-ruby-level="5">けん</rt></ruby>に<ruby>上<rt
+  data-ruby-level="1">のぼ</rt></ruby>る<ruby>過去<rt data-ruby-level="5">かこ</rt></ruby>の<ruby>事件<rt
+  data-ruby-level="5">じけん</rt></ruby>や<ruby>事故<rt data-ruby-level="5">じこ</rt></ruby>などの<ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>を<ruby>基<rt data-ruby-level="7">もと</rt></ruby>に、ＡＩ＝<ruby>人工<rt
+  data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt data-ruby-level="5">ちのう</rt></ruby>を<ruby>活用<rt
+  data-ruby-level="2">かつよう</rt></ruby>して<ruby>犯罪<rt data-ruby-level="5">はんざい</rt></ruby>や<ruby>事故<rt
+  data-ruby-level="5">じこ</rt></ruby>の<ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby>を<ruby>予測<rt
+  data-ruby-level="5">よそく</rt></ruby>する<ruby>新<rt data-ruby-level="2">あら</rt></ruby>たなシステムの<ruby>導入<rt
+  data-ruby-level="5">どうにゅう</rt></ruby>を<ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby>で<ruby>初<rt
+  data-ruby-level="4">はじ</rt></ruby>めて<ruby>目指<rt data-ruby-level="3">めざ</rt></ruby>すことを<ruby>決<rt
+  data-ruby-level="3">き</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/26/K10011343261_1802260630_1802260632_01_03.jpg
+more: このシステムは、およそ２６０<ruby>万<rt data-ruby-level="2">まん</rt></ruby><ruby>件<rt data-ruby-level="5">けん</rt></ruby>に<ruby>上<rt
+  data-ruby-level="1">のぼ</rt></ruby>る<ruby>過去<rt data-ruby-level="5">かこ</rt></ruby>の<ruby>事件<rt
+  data-ruby-level="5">じけん</rt></ruby>や<ruby>事故<rt data-ruby-level="5">じこ</rt></ruby>、それに、<ruby>警察<rt
+  data-ruby-level="6">けいさつ</rt></ruby>への<ruby>相談<rt data-ruby-level="3">そうだん</rt></ruby><ruby>内容<rt
+  data-ruby-level="5">ないよう</rt></ruby>のほか、<ruby>事件<rt data-ruby-level="5">じけん</rt></ruby>や<ruby>事故<rt
+  data-ruby-level="5">じこ</rt></ruby>が<ruby>起<rt data-ruby-level="3">お</rt></ruby>きた<ruby>際<rt
+  data-ruby-level="5">さい</rt></ruby>の<ruby>天候<rt data-ruby-level="4">てんこう</rt></ruby>や<ruby>地形<rt
+  data-ruby-level="2">ちけい</rt></ruby>などのデータをＡＩ＝<ruby>人工<rt data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt
+  data-ruby-level="5">ちのう</rt></ruby>が<ruby>分析<rt data-ruby-level="7">ぶんせき</rt></ruby>し、<ruby>犯罪<rt
+  data-ruby-level="5">はんざい</rt></ruby>や<ruby>事故<rt data-ruby-level="5">じこ</rt></ruby>が<ruby>起<rt
+  data-ruby-level="3">お</rt></ruby>きやすい<ruby>場所<rt data-ruby-level="3">ばしょ</rt></ruby>や<ruby>日付<rt
+  data-ruby-level="4">ひづけ</rt></ruby>を<ruby>予測<rt data-ruby-level="5">よそく</rt></ruby>するものです。<br
+  /><br /><ruby>神奈川<rt data-ruby-level="8">かながわ</rt></ruby><ruby>県警<rt data-ruby-level="6">けんけい</rt></ruby>は、<ruby>民間<rt
+  data-ruby-level="4">みんかん</rt></ruby><ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>などと<ruby>連携<rt
+  data-ruby-level="7">れんけい</rt></ruby>してシステムの<ruby>導入<rt data-ruby-level="5">どうにゅう</rt></ruby>を<ruby>目指<rt
+  data-ruby-level="3">めざ</rt></ruby>し、<ruby>新年度<rt data-ruby-level="3">しんねんど</rt></ruby>・<ruby>平成<rt
+  data-ruby-level="4">へいせい</rt></ruby>３０<ruby>年度<rt data-ruby-level="3">ねんど</rt></ruby><ruby>予算案<rt
+  data-ruby-level="4">よさんあん</rt></ruby>におよそ４８００<ruby>万円<rt data-ruby-level="2">まんえん</rt></ruby>を<ruby>調査<rt
+  data-ruby-level="5">ちょうさ</rt></ruby><ruby>委託費<rt data-ruby-level="7">いたくひ</rt></ruby>として<ruby>計上<rt
+  data-ruby-level="2">けいじょう</rt></ruby>することになりました。<br /><br /><ruby>警察<rt data-ruby-level="6">けいさつ</rt></ruby>はＡＩによる<ruby>予測<rt
+  data-ruby-level="5">よそく</rt></ruby><ruby>結果<rt data-ruby-level="4">けっか</rt></ruby>を<ruby>基<rt
+  data-ruby-level="7">もと</rt></ruby>に、<ruby>重点的<rt data-ruby-level="4">じゅうてんてき</rt></ruby>に<ruby>犯罪<rt
+  data-ruby-level="5">はんざい</rt></ruby>や<ruby>事故<rt data-ruby-level="5">じこ</rt></ruby>が<ruby>起<rt
+  data-ruby-level="3">お</rt></ruby>きる<ruby>可能性<rt data-ruby-level="5">かのうせい</rt></ruby>が<ruby>高<rt
+  data-ruby-level="2">たか</rt></ruby>いとされる<ruby>地域<rt data-ruby-level="6">ちいき</rt></ruby>に<ruby>警察官<rt
+  data-ruby-level="6">けいさつかん</rt></ruby>を<ruby>配置<rt data-ruby-level="4">はいち</rt></ruby>し、<ruby>振<rt
+  data-ruby-level="7">ふ</rt></ruby>り<ruby>込<rt data-ruby-level="7">こ</rt></ruby>め<ruby>詐欺<rt
+  data-ruby-level="7">さぎ</rt></ruby>やひったくりなどの<ruby>犯罪<rt data-ruby-level="5">はんざい</rt></ruby>のほか、<ruby>交通<rt
+  data-ruby-level="2">こうつう</rt></ruby><ruby>事故<rt data-ruby-level="5">じこ</rt></ruby>などを<ruby>抑止<rt
+  data-ruby-level="7">よくし</rt></ruby>したいとしています。<br /><br />こうしたシステムの<ruby>導入<rt data-ruby-level="5">どうにゅう</rt></ruby>に<ruby>向<rt
+  data-ruby-level="3">む</rt></ruby>けて<ruby>予算<rt data-ruby-level="3">よさん</rt></ruby>を<ruby>計上<rt
+  data-ruby-level="2">けいじょう</rt></ruby>するのは<ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby>の<ruby>警察<rt
+  data-ruby-level="6">けいさつ</rt></ruby>で<ruby>初<rt data-ruby-level="4">はじ</rt></ruby>めてだということで、<ruby>神奈川<rt
+  data-ruby-level="8">かながわ</rt></ruby><ruby>県警<rt data-ruby-level="6">けんけい</rt></ruby>は<ruby>再来年<rt
+  data-ruby-level="5">さらいねん</rt></ruby><ruby>中<rt data-ruby-level="1">ちゅう</rt></ruby>の<ruby>導入<rt
+  data-ruby-level="5">どうにゅう</rt></ruby>を<ruby>目指<rt data-ruby-level="3">めざ</rt></ruby>すことにしています。
+movie_url: https://newswebeasy.github.io/ja201802/news/web/movie/2018/02/26/k10011343261_201802260630_201802260632.mp4
+voice_url: https://newswebeasy.github.io/ja201802/news/web/voice/2018/02/26/k10011343261_201802260630_201802260632.mp3
+source_url: https://www3.nhk.or.jp/news/html/20180226/k10011343261000.html
+easy_title_with_ruby: <ruby>神奈川県<rt data-ruby-level="8">かながわけん</rt></ruby>の<ruby>警察<rt
+  data-ruby-level="6">けいさつ</rt></ruby>がＡＩを<ruby>使<rt data-ruby-level="3">つか</rt></ruby>って<ruby>事件<rt
+  data-ruby-level="5">じけん</rt></ruby>や<ruby>事故<rt data-ruby-level="5">じこ</rt></ruby>を<ruby>予測<rt
+  data-ruby-level="5">よそく</rt></ruby>する<ruby>計画<rt data-ruby-level="2">けいかく</rt></ruby>
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/02/27/神奈川県の警察がAIを使って事件や事故を予測する計画
+related_news:
+- title: ＡＩでバス<ruby>運転手<rt data-ruby-level="3">うんてんしゅ</rt></ruby>の<ruby>表情<rt data-ruby-level="5">ひょうじょう</rt></ruby>など<ruby>分析<rt
+    data-ruby-level="7">ぶんせき</rt></ruby> <ruby>安全<rt data-ruby-level="3">あんぜん</rt></ruby><ruby>管理<rt
+    data-ruby-level="4">かんり</rt></ruby>の<ruby>新<rt data-ruby-level="2">しん</rt></ruby>システム
+  url: https://newswebeasy.github.io/news/web/2017/12/12/AIでバス運転手の表情など分析-安全管理の新システム
+- title: パナソニック ＡＩで<ruby>住宅<rt data-ruby-level="6">じゅうたく</rt></ruby>の<ruby>省<rt data-ruby-level="4">しょう</rt></ruby><ruby>エネ<rt
+    data-ruby-level="4">えね</rt></ruby> <ruby>節電<rt data-ruby-level="4">せつでん</rt></ruby>システム<ruby>販売<rt
+    data-ruby-level="7">はんばい</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2018/01/16/パナソニック-AIで住宅の省エネ-節電システム販売へ
+- title: ペルー バス<ruby>転落<rt data-ruby-level="3">てんらく</rt></ruby><ruby>事故<rt data-ruby-level="5">じこ</rt></ruby>
+    <ruby>少<rt data-ruby-level="2">すく</rt></ruby>なくとも48<ruby>人<rt data-ruby-level="1">にん</rt></ruby><ruby>死亡<rt
+    data-ruby-level="6">しぼう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/04/ペルー-バス転落事故-少なくとも48人死亡
+...

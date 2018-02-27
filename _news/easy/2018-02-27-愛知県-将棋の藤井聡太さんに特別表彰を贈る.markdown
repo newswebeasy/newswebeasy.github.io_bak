@@ -1,0 +1,69 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011343141000
+last_modified_at: '2018-02-27T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>02<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 将棋のプロの藤井聡太さんは、愛知県瀬戸市出身で中学校３年生です。
+title: 愛知県　将棋の藤井聡太さんに「特別表彰」を贈る
+title_with_ruby: <ruby>愛知県<rt>あいちけん</rt></ruby>　<ruby>将棋<rt>しょうぎ</rt></ruby>の<ruby>藤井聡太<rt>ふじいそうた</rt></ruby>さんに「<ruby>特別表彰<rt>とくべつひょうしょう</rt></ruby>」を<ruby>贈<rt>おく</rt></ruby>る
+outline: 将棋のプロの藤井聡太さんは、愛知県瀬戸市出身で中学校３年生です。
+outline_with_ruby: <ruby>将棋<rt>しょうぎ</rt></ruby>のプロの<ruby>藤井聡太<rt>ふじいそうた</rt></ruby>さんは、<ruby>愛知県<rt>あいちけん</rt></ruby><ruby>瀬戸市<rt>せとし</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>で<ruby>中学校<rt>ちゅうがっこう</rt></ruby>３<ruby>年生<rt>ねんせい</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/26/K10011343141_1802260650_1802260651_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201802/news/easy/voice/2018/02/27/k10011343141000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<span\
+  \ style=\"color: blue;\">プロ</span>の<ruby>藤井聡太<rt>ふじいそうた</rt></ruby>さんは、<ruby>愛知県<rt>あいちけん</rt></ruby><ruby>瀬戸市<rt>せとし</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>出身<rt>しゅっしん</rt></ruby></span>で<ruby>中学校<rt>ちゅうがっこう</rt></ruby>３<ruby>年生<rt>ねんせい</rt></ruby>です。</p>\n\
+  <p>１７<ruby>日<rt>にち</rt></ruby>にたくさんの<span style=\"color: blue;\"><ruby>将棋<rt>しょうぎ</rt></ruby></span>の<span\
+  \ style=\"color: blue;\">プロ</span>が<ruby>集<rt>あつ</rt></ruby>まる「<ruby>棋戦<rt>きせん</rt></ruby>」という<ruby>試合<rt>しあい</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>して、１５<ruby>歳<rt>さい</rt></ruby>６か<ruby>月<rt>げつ</rt></ruby>で<ruby>五<rt>ご</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>段<rt>だん</rt></ruby></span>から<ruby>六<rt>ろく</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>段<rt>だん</rt></ruby></span>に<ruby>上<rt>あ</rt></ruby>がりました。こんなに<ruby>若<rt>わか</rt></ruby>く「<ruby>棋戦<rt>きせん</rt></ruby>」で<span\
+  \ style=\"color: blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>して、<ruby>六<rt>ろく</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>段<rt>だん</rt></ruby></span>になった<ruby>人<rt>ひと</rt></ruby>は<ruby>初<rt>はじ</rt></ruby>めてです。</p>\n\
+  <p><ruby>愛知県<rt>あいちけん</rt></ruby>は<ruby>藤井<rt>ふじい</rt></ruby>さんに「<ruby>特別表彰<rt>とくべつひょうしょう</rt></ruby>」を<span\
+  \ style=\"color: blue;\"><ruby>贈<rt>おく</rt></ruby>る</span>ことを<ruby>決<rt>き</rt></ruby>めました。<ruby>愛知県<rt>あいちけん</rt></ruby>は<ruby>県<rt>けん</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>が<ruby>元気<rt>げんき</rt></ruby>になるようなとてもすばらしいことをした<ruby>人<rt>ひと</rt></ruby>に「<ruby>特別表彰<rt>とくべつひょうしょう</rt></ruby>」を<span\
+  \ style=\"color: blue;\"><ruby>贈<rt>おく</rt></ruby>っ</span>ています。<ruby>愛知県<rt>あいちけん</rt></ruby>は「<ruby>藤井<rt>ふじい</rt></ruby>さんは<ruby>愛知県<rt>あいちけん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>誇<rt>ほこ</rt></ruby>り</span>です。これからも<ruby>頑張<rt>がんば</rt></ruby>ってほしいです」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 将棋
+  descriptions:
+  - <ruby><rb>縦</rb><rt>たて</rt></ruby>・<ruby><rb>横</rb><rt>よこ</rt></ruby>に１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>板</rb><rt>いた</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>で、２０<ruby><rb>枚</rb><rt>まい</rt></ruby>ずつのこまを<ruby><rb>動</rb><rt>うご</rt></ruby>かし、<ruby><rb>相手</rb><rt>あいて</rt></ruby>の<ruby><rb>王</rb><rt>おう</rt></ruby>を<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>るゲーム。
+- word: 贈る
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。
+- word: プロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。
+  - 「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+- word: 出身
+  descriptions:
+  - その<ruby><rb>土地</rb><rt>とち</rt></ruby>で<ruby><rb>生</rb><rt>う</rt></ruby>まれたこと。
+  - その<ruby><rb>学校</rb><rt>がっこう</rt></ruby>を<ruby><rb>卒業</rb><rt>そつぎょう</rt></ruby>したこと。
+- word: 優勝
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>などで、<ruby><rb>一位</rb><rt>いちい</rt></ruby>で<ruby><rb>勝</rb><rt>か</rt></ruby>つこと。
+- word: 段
+  descriptions:
+  - <ruby><rb>区切</rb><rt>くぎ</rt></ruby>り。
+  - かいだん。
+  - やり<ruby><rb>方</rb><rt>かた</rt></ruby>。
+  - <ruby><rb>剣道</rb><rt>けんどう</rt></ruby>、<ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>などの、<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>を<ruby><rb>示</rb><rt>しめ</rt></ruby>す<ruby><rb>位</rb><rt>くらい</rt></ruby>。
+- word: 贈る
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。
+- word: 誇り
+  descriptions:
+  - <ruby><rb>得意</rb><rt>とくい</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。じまん。<ruby><rb>名誉</rb><rt>めいよ</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011343141000/k10011343141000.html
+web_title_with_ruby: <ruby>中学生<rt>ちゅうがくせい</rt></ruby><ruby>棋士<rt>きし</rt></ruby>の<ruby>藤井<rt>ふじい</rt></ruby>六<ruby>段<rt>だん</rt></ruby>を<ruby>特別<rt>とくべつ</rt></ruby><ruby>表彰<rt>ひょうしょう</rt></ruby>へ
+  <ruby>愛知<rt>あいち</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/02/26/中学生棋士の藤井六段を特別表彰へ-愛知
+related_news:
+- title: <ruby>将棋<rt>しょうぎ</rt></ruby>の<ruby>藤井聡太<rt>ふじいそうた</rt></ruby>さんが<ruby>中学生<rt>ちゅうがくせい</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>五<rt>ご</rt></ruby><ruby>段<rt>だん</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/02/02/将棋の藤井聡太さんが中学生で初めて五段になる
+...
