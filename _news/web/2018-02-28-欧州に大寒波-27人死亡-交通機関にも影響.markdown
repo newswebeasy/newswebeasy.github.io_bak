@@ -1,0 +1,97 @@
+---
+layout: web_news
+categories: web
+newsid: k10011345771000
+title: 欧州に大寒波 27人死亡 交通機関にも影響
+title_with_ruby: <ruby>欧州<rt data-ruby-level="7">おうしゅう</rt></ruby>に<ruby>大寒波<rt data-ruby-level="3">だいかんぱ</rt></ruby>
+  27<ruby>人<rt data-ruby-level="1">にん</rt></ruby><ruby>死亡<rt data-ruby-level="6">しぼう</rt></ruby>
+  <ruby>交通<rt data-ruby-level="2">こうつう</rt></ruby><ruby>機関<rt data-ruby-level="4">きかん</rt></ruby>にも<ruby>影響<rt
+  data-ruby-level="7">えいきょう</rt></ruby>
+last_modified_at: '2018-02-28T06:42:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>02<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>28<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 06<ruby>時<rt data-ruby-level="2">じ</rt></ruby>42<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ヨーロッパは、この冬一番という厳しい寒波に見舞われていて、各地で少なくとも合わせて２７人が死亡したほか、交通機関にも影響が広がっています。
+summary: ヨーロッパは、この<ruby>冬一番<rt data-ruby-level="2">ふゆいちばん</rt></ruby>という<ruby>厳<rt
+  data-ruby-level="6">きび</rt></ruby>しい<ruby>寒波<rt data-ruby-level="3">かんぱ</rt></ruby>に<ruby>見舞<rt
+  data-ruby-level="7">みま</rt></ruby>われていて、<ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>で<ruby>少<rt
+  data-ruby-level="2">すく</rt></ruby>なくとも<ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせて２７<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>が<ruby>死亡<rt data-ruby-level="6">しぼう</rt></ruby>したほか、<ruby>交通<rt
+  data-ruby-level="2">こうつう</rt></ruby><ruby>機関<rt data-ruby-level="4">きかん</rt></ruby>にも<ruby>影響<rt
+  data-ruby-level="7">えいきょう</rt></ruby>が<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>がっています。
+image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/28/K10011345771_1802280924_1802280934_01_02.jpg
+movie_url: https://newswebeasy.github.io/ja201802/news/web/movie/2018/02/28/k10011345771_201802281109_201802281109.mp4
+voice_url: https://newswebeasy.github.io/ja201802/news/web/voice/2018/02/28/k10011345771_201802281109_201802281109.mp3
+body:
+- text: ヨーロッパでは、シベリアの<ruby>寒気<rt data-ruby-level="3">かんき</rt></ruby>が<ruby>流<rt data-ruby-level="7">なが</rt></ruby>れ<ruby>込<rt
+    data-ruby-level="7">こ</rt></ruby>んだ<ruby>影響<rt data-ruby-level="7">えいきょう</rt></ruby>で、<ruby>北部<rt
+    data-ruby-level="3">ほくぶ</rt></ruby>から<ruby>南部<rt data-ruby-level="3">なんぶ</rt></ruby>までの<ruby>広<rt
+    data-ruby-level="2">ひろ</rt></ruby>い<ruby>範囲<rt data-ruby-level="7">はんい</rt></ruby>でこの<ruby>冬一番<rt
+    data-ruby-level="2">ふゆいちばん</rt></ruby>という<ruby>厳<rt data-ruby-level="6">きび</rt></ruby>しい<ruby>寒波<rt
+    data-ruby-level="3">かんぱ</rt></ruby>に<ruby>見舞<rt data-ruby-level="7">みま</rt></ruby>われています。<br
+    /><br />フランスのメディアによりますと、この<ruby>寒波<rt data-ruby-level="3">かんぱ</rt></ruby>の<ruby>影響<rt
+    data-ruby-level="7">えいきょう</rt></ruby>でこれまでにフランスやポーランドそれにルーマニアなど６か<ruby>国<rt data-ruby-level="2">こく</rt></ruby>で、<ruby>路上<rt
+    data-ruby-level="3">ろじょう</rt></ruby>で<ruby>生活<rt data-ruby-level="2">せいかつ</rt></ruby>していた<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>やお<ruby>年寄<rt data-ruby-level="5">としよ</rt></ruby>りなど、<ruby>少<rt
+    data-ruby-level="2">すく</rt></ruby>なくとも<ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせて２３<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>が<ruby>死亡<rt data-ruby-level="6">しぼう</rt></ruby>したということです。<br
+    /><br />また、イギリスの<ruby>公共<rt data-ruby-level="4">こうきょう</rt></ruby><ruby>放送<rt data-ruby-level="3">ほうそう</rt></ruby>ＢＢＣは、<ruby>大雪<rt
+    data-ruby-level="2">おおゆき</rt></ruby>の<ruby>影響<rt data-ruby-level="7">えいきょう</rt></ruby>による<ruby>車<rt
+    data-ruby-level="1">くるま</rt></ruby>の<ruby>交通<rt data-ruby-level="2">こうつう</rt></ruby><ruby>事故<rt
+    data-ruby-level="5">じこ</rt></ruby>でイギリス<ruby>国内<rt data-ruby-level="2">こくない</rt></ruby>で４<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>が<ruby>死亡<rt data-ruby-level="6">しぼう</rt></ruby>したほか、<ruby>多<rt
+    data-ruby-level="2">おお</rt></ruby>くの<ruby>学校<rt data-ruby-level="1">がっこう</rt></ruby>が<ruby>閉鎖<rt
+    data-ruby-level="7">へいさ</rt></ruby>したり<ruby>列車<rt data-ruby-level="3">れっしゃ</rt></ruby>の<ruby>運休<rt
+    data-ruby-level="3">うんきゅう</rt></ruby>が<ruby>相次<rt data-ruby-level="3">あいつ</rt></ruby>いだりしていると<ruby>伝<rt
+    data-ruby-level="4">つた</rt></ruby>えています。<br /><br />このほかヨーロッパ<ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>で<ruby>雪<rt
+    data-ruby-level="2">ゆき</rt></ruby>が<ruby>積<rt data-ruby-level="4">つ</rt></ruby>もった<ruby>道路<rt
+    data-ruby-level="3">どうろ</rt></ruby>が<ruby>封鎖<rt data-ruby-level="7">ふうさ</rt></ruby>されたほか、<ruby>車<rt
+    data-ruby-level="1">くるま</rt></ruby>の<ruby>衝突<rt data-ruby-level="7">しょうとつ</rt></ruby><ruby>事故<rt
+    data-ruby-level="5">じこ</rt></ruby>が<ruby>相次<rt data-ruby-level="3">あいつ</rt></ruby>ぐなど、<ruby>影響<rt
+    data-ruby-level="7">えいきょう</rt></ruby>が<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>がっています。<br
+    /><br /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>、イタリアのローマでは６<ruby>年<rt
+    data-ruby-level="1">ねん</rt></ruby>ぶりの<ruby>大雪<rt data-ruby-level="2">おおゆき</rt></ruby>となり、<ruby>雪化粧<rt
+    data-ruby-level="7">ゆきげしょう</rt></ruby>をした<ruby>観光<rt data-ruby-level="4">かんこう</rt></ruby><ruby>名所<rt
+    data-ruby-level="3">めいしょ</rt></ruby>のコロッセオの<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>では、<ruby>雪合戦<rt
+    data-ruby-level="4">ゆきがっせん</rt></ruby>や<ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>だるまを<ruby>作<rt
+    data-ruby-level="2">つく</rt></ruby>る<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>たちでにぎわうなど、いつもとは<ruby>違<rt
+    data-ruby-level="7">ちが</rt></ruby>った<ruby>表情<rt data-ruby-level="5">ひょうじょう</rt></ruby>を<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>せています。<br /><br /><ruby>寒波<rt data-ruby-level="3">かんぱ</rt></ruby>は<ruby>地域<rt
+    data-ruby-level="6">ちいき</rt></ruby>によっては<ruby>来週<rt data-ruby-level="2">らいしゅう</rt></ruby>まで<ruby>続<rt
+    data-ruby-level="4">つづ</rt></ruby>く<ruby>見通<rt data-ruby-level="2">みとお</rt></ruby>しで、<ruby>各国<rt
+    data-ruby-level="4">かっこく</rt></ruby>の<ruby>気象<rt data-ruby-level="4">きしょう</rt></ruby><ruby>当局<rt
+    data-ruby-level="3">とうきょく</rt></ruby>が<ruby>警戒<rt data-ruby-level="7">けいかい</rt></ruby>を<ruby>呼<rt
+    data-ruby-level="6">よ</rt></ruby>びかけています。
+  image_url: https://newswebeasy.github.io/ja201802/news/web/image/2018/02/28/K10011345771_1802280924_1802280934_01_03.jpg
+source_url: https://www3.nhk.or.jp/news/html/20180228/k10011345771000.html
+easy_title_with_ruby: ヨーロッパ <ruby>厳<rt data-ruby-level="6">きび</rt></ruby>しい<ruby>寒<rt
+  data-ruby-level="3">さむ</rt></ruby>さで２７<ruby>人<rt data-ruby-level="1">にん</rt></ruby>が<ruby>亡<rt
+  data-ruby-level="7">な</rt></ruby>くなる
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/02/28/ヨーロッパ-厳しい寒さで27人が亡くなる
+related_news:
+- title: <ruby>北陸<rt data-ruby-level="4">ほくりく</rt></ruby>で<ruby>記録的<rt data-ruby-level="4">きろくてき</rt></ruby><ruby>大雪<rt
+    data-ruby-level="2">おおゆき</rt></ruby> あすにかけ<ruby>断続的<rt data-ruby-level="5">だんぞくてき</rt></ruby>に<ruby>雪<rt
+    data-ruby-level="2">ゆき</rt></ruby> <ruby>厳重<rt data-ruby-level="6">げんじゅう</rt></ruby>に<ruby>警戒<rt
+    data-ruby-level="7">けいかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/02/07/北陸で記録的大雪-あすにかけ断続的に雪-厳重に警戒
+- title: <ruby>都心<rt data-ruby-level="3">としん</rt></ruby>など<ruby>関東<rt data-ruby-level="4">かんとう</rt></ruby><ruby>各地<rt
+    data-ruby-level="4">かくち</rt></ruby>で<ruby>積雪<rt data-ruby-level="4">せきせつ</rt></ruby>２０センチ<ruby>超<rt
+    data-ruby-level="7">ちょう</rt></ruby> <ruby>大雪<rt data-ruby-level="2">おおゆき</rt></ruby>や<ruby>路面<rt
+    data-ruby-level="3">ろめん</rt></ruby><ruby>凍結<rt data-ruby-level="7">とうけつ</rt></ruby>に<ruby>警戒<rt
+    data-ruby-level="7">けいかい</rt></ruby>を
+  url: https://newswebeasy.github.io/news/web/2018/01/23/都心など関東各地で積雪20センチ超-大雪や路面凍結に警戒を
+- title: <ruby>米<rt data-ruby-level="2">べい</rt></ruby>の<ruby>記録的<rt data-ruby-level="4">きろくてき</rt></ruby><ruby>寒波<rt
+    data-ruby-level="3">かんぱ</rt></ruby> <ruby>空港<rt data-ruby-level="3">くうこう</rt></ruby>では<ruby>水道管<rt
+    data-ruby-level="4">すいどうかん</rt></ruby>が<ruby>凍結<rt data-ruby-level="7">とうけつ</rt></ruby>で<ruby>破裂<rt
+    data-ruby-level="7">はれつ</rt></ruby>も
+  url: https://newswebeasy.github.io/news/web/2018/01/08/米の記録的寒波-空港では水道管が凍結で破裂も
+- title: <ruby>北日本<rt data-ruby-level="2">きたにっぽん</rt></ruby>や<ruby>北陸<rt data-ruby-level="4">ほくりく</rt></ruby>の<ruby>山沿<rt
+    data-ruby-level="6">やまぞ</rt></ruby>いで<ruby>大雪<rt data-ruby-level="2">おおゆき</rt></ruby>
+    <ruby>交通<rt data-ruby-level="2">こうつう</rt></ruby>への<ruby>影響<rt data-ruby-level="7">えいきょう</rt></ruby>に<ruby>警戒<rt
+    data-ruby-level="7">けいかい</rt></ruby>を
+  url: https://newswebeasy.github.io/news/web/2018/02/13/北日本や北陸の山沿いで大雪-交通への影響に警戒を
+- title: あす<ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>23<ruby>区<rt data-ruby-level="3">く</rt></ruby><ruby>含<rt
+    data-ruby-level="7">ふく</rt></ruby>む<ruby>関東<rt data-ruby-level="4">かんとう</rt></ruby><ruby>平野部<rt
+    data-ruby-level="3">へいやぶ</rt></ruby>でも<ruby>大雪<rt data-ruby-level="2">おおゆき</rt></ruby>のおそれ
+  url: https://newswebeasy.github.io/news/web/2018/01/21/あす東京23区含む関東平野部でも大雪のおそれ
+...
