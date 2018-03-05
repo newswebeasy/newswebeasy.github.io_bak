@@ -1,0 +1,66 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011351651000
+last_modified_at: '2018-03-05T17:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>05<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: ロシア出身のアリーナ・ザギトワ選手はピョンチャンオリンピックのフィギュアスケートで金メダルを取りました。
+title: ザギトワ選手「秋田犬の名前は『マサル』にする」
+title_with_ruby: ザギトワ<ruby>選手<rt>せんしゅ</rt></ruby>「<ruby>秋田犬<rt>あきたいぬ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は『マサル』にする」
+outline: ロシア出身のアリーナ・ザギトワ選手はピョンチャンオリンピックのフィギュアスケートで金メダルを取りました。
+outline_with_ruby: ロシア<ruby>出身<rt>しゅっしん</rt></ruby>のアリーナ・ザギトワ<ruby>選手<rt>せんしゅ</rt></ruby>はピョンチャンオリンピックのフィギュアスケートで<ruby>金<rt>きん</rt></ruby>メダルを<ruby>取<rt>と</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201803/news/easy/image/2018/03/05/k10011351651000.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/05/k10011351651000.mp3
+content_with_ruby: "<p>ロシア<span style=\"color: blue;\"><ruby>出身<rt>しゅっしん</rt></ruby></span>のアリーナ・ザギトワ<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>はピョンチャンオリンピックの<span\
+  \ style=\"color: blue;\">フィギュアスケート</span>で<span style=\"color: blue;\"><ruby>金<rt>きん</rt></ruby></span><span\
+  \ style=\"color: blue;\">メダル</span>を<ruby>取<rt>と</rt></ruby>りました。</p>\n<p>ザギトワ<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>秋田犬<rt>あきたいぬ</rt></ruby>という<ruby>犬<rt>いぬ</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>雑誌<rt>ざっし</rt></ruby>で<ruby>見<rt>み</rt></ruby>て「<ruby>秋田犬<rt>あきたいぬ</rt></ruby>がほしい」と<ruby>言<rt>い</rt></ruby>っていました。この<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いた<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>秋田犬<rt>あきたいぬ</rt></ruby><ruby>保存<rt>ほぞん</rt></ruby><ruby>会<rt>かい</rt></ruby>は、ザギトワ<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>に<span style=\"color:\
+  \ blue;\"><ruby>雌<rt>めす</rt></ruby></span>の<ruby>秋田犬<rt>あきたいぬ</rt></ruby>をあげることにしました。</p>\n\
+  <p><ruby>３日<rt>みっか</rt></ruby>、ザギトワ<span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は「<ruby>犬<rt>いぬ</rt></ruby>は『マサル』という<ruby>名前<rt>なまえ</rt></ruby>にします。<ruby>日本語<rt>にほんご</rt></ruby>で『<ruby>勝<rt>か</rt></ruby>つ』という<ruby>意味<rt>いみ</rt></ruby>です」と<ruby>言<rt>い</rt></ruby>いました。ザギトワ<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は「<ruby>犬<rt>いぬ</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>散歩<rt>さんぽ</rt></ruby>したいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 出身
+  descriptions:
+  - その<ruby><rb>土地</rb><rt>とち</rt></ruby>で<ruby><rb>生</rb><rt>う</rt></ruby>まれたこと。
+  - その<ruby><rb>学校</rb><rt>がっこう</rt></ruby>を<ruby><rb>卒業</rb><rt>そつぎょう</rt></ruby>したこと。
+- word: フィギュア
+  descriptions:
+  - <ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>を、<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせておどるようにすべって、<ruby><rb>美</rb><rt>うつく</rt></ruby>しさやわざをきそうスケート<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+- word: 金
+  descriptions:
+  - <ruby><rb>黄色</rb><rt>きいろ</rt></ruby>いつやのある、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。こがね。
+  - こがね<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+  - おかね。
+  - 「<span class="dic_sansyogogi">1)</span>」のように、だいじな。りっぱな。
+  - かなもの。
+  - <ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>金曜日</rb><rt>きんようび</rt></ruby>。
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+- word: 雌
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>を<ruby><rb>生</rb><rt>う</rt></ruby>む<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>があるほう。
+source_url: http://www3.nhk.or.jp/news/easy/k10011351651000/k10011351651000.html
+web_title_with_ruby: <ruby>ザギトワ<rt>ざぎとわ</rt></ruby> <ruby>メス<rt>めす</rt></ruby><ruby>秋田犬<rt>あきたいぬ</rt></ruby>
+  「<ruby>マサル<rt>まさる</rt></ruby>」と<ruby>命名<rt>めいめい</rt></ruby>へ 「<ruby>日本語<rt>にほんご</rt></ruby>で『<ruby>勝利<rt>しょうり</rt></ruby>』」
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/04/ザギトワ-メス秋田犬-マサルと命名へ-日本語で勝利
+related_news:
+- title: ザギトワ<ruby>選手<rt>せんしゅ</rt></ruby>に<ruby>秋田犬<rt>あきたいぬ</rt></ruby>のぬいぐるみ　<ruby>秋田県<rt>あきたけん</rt></ruby>と<ruby>大館市<rt>おおだてし</rt></ruby>が<ruby>送<rt>おく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/03/01/ザギトワ選手に秋田犬のぬいぐるみ-秋田県と大館市が送る
+- title: <ruby>韓国<rt>かんこく</rt></ruby>でピョンチャンオリンピックが<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/02/09/韓国でピョンチャンオリンピックが始まる
+- title: オリンピックの<ruby>選手<rt>せんしゅ</rt></ruby>たちがファンに<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>伝<rt>つた</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2018/02/28/オリンピックの選手たちがファンに感謝の気持ちを伝える
+- title: スピードスケート１５００ｍ　<ruby>高木<rt>たかぎ</rt></ruby><ruby>美帆<rt>みほ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>銀<rt>ぎん</rt></ruby>メダル
+  url: https://newswebeasy.github.io/news/easy/2018/02/13/スピードスケート1500m-高木美帆選手が銀メダル
+- title: フィギュアスケートの<ruby>羽生<rt>はにゅう</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>金<rt>きん</rt></ruby>メダル　<ruby>宇野<rt>うの</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>銀<rt>ぎん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/02/19/フィギュアスケートの羽生選手が金メダル-宇野選手は銀
+...

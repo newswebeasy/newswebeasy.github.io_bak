@@ -1,0 +1,93 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011347801000
+last_modified_at: '2018-03-05T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>05<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 花粉が飛ぶ季節になりました。
+title: 花粉症の人は運転中のくしゃみに気をつけて
+title_with_ruby: <ruby>花粉症<rt>かふんしょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>運転<rt>うんてん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>のくしゃみに<ruby>気<rt>き</rt></ruby>をつけて
+outline: 花粉が飛ぶ季節になりました。
+outline_with_ruby: <ruby>花粉<rt>かふん</rt></ruby>が<ruby>飛<rt>と</rt></ruby>ぶ<ruby>季節<rt>きせつ</rt></ruby>になりました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/01/K10011347801_1803011749_1803011755_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/05/k10011347801000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>花粉<rt>かふん</rt></ruby></span>が<ruby>飛<rt>と</rt></ruby>ぶ<ruby>季節<rt>きせつ</rt></ruby>になりました。「<span\
+  \ style=\"color: blue;\"><ruby>花粉症<rt>かふんしょう</rt></ruby></span>」の<ruby>人<rt>ひと</rt></ruby>は、<ruby>体<rt>からだ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>花粉<rt>かふん</rt></ruby></span>が<ruby>入<rt>はい</rt></ruby>ると、<span\
+  \ style=\"color: blue;\">くしゃみ</span>が<ruby>出<rt>で</rt></ruby>たり<ruby>目<rt>め</rt></ruby>が<span\
+  \ style=\"color: blue;\">かゆく</span>なったりします。ＪＡＦ＝<ruby>日本自動車連盟<rt>にほんじどうしゃれんめい</rt></ruby>は、<ruby>運転<rt>うんてん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<span\
+  \ style=\"color: blue;\">くしゃみ</span>をすると、<ruby>交通事故<rt>こうつうじこ</rt></ruby>になる<ruby>心配<rt>しんぱい</rt></ruby>があるので<ruby>気<rt>き</rt></ruby>をつけてほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>ＪＡＦによると<span style=\"color: blue;\"><ruby>時速<rt>じそく</rt></ruby></span>６０ｋｍで<ruby>運転<rt>うんてん</rt></ruby>している<ruby>場合<rt>ばあい</rt></ruby>、<span\
+  \ style=\"color: blue;\">くしゃみ</span>を１<ruby>回<rt>かい</rt></ruby>する<ruby>間<rt>あいだ</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>は８ｍぐらい<ruby>進<rt>すす</rt></ruby>みます。この<ruby>間<rt>あいだ</rt></ruby>に、<ruby>間違<rt>まちが</rt></ruby>えて<span\
+  \ style=\"color: blue;\">ハンドル</span>を<span style=\"color: blue;\"><ruby>動<rt>うご</rt></ruby>かし</span>たり、<span\
+  \ style=\"color: blue;\">ブレーキ</span>から<ruby>足<rt>あし</rt></ruby>を<span style=\"color:\
+  \ blue;\"><ruby>離<rt>はな</rt></ruby>し</span>たりすると、<ruby>事故<rt>じこ</rt></ruby>になることがあります。</p>\n\
+  <p><span style=\"color: blue;\">トラック</span>を<ruby>運転<rt>うんてん</rt></ruby>する<ruby>男性<rt>だんせい</rt></ruby>は「<span\
+  \ style=\"color: blue;\">くしゃみ</span>をして<span style=\"color: blue;\"><ruby>一瞬<rt>いっしゅん</rt></ruby></span><ruby>前<rt>まえ</rt></ruby>が<ruby>見<rt>み</rt></ruby>えなくなる<ruby>間<rt>あいだ</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>が<ruby>進<rt>すす</rt></ruby>んで、<ruby>怖<rt>こわ</rt></ruby>いと<ruby>思<rt>おも</rt></ruby>ったことが<ruby>何<rt>なん</rt></ruby><ruby>度<rt>ど</rt></ruby>もあります」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>ＪＡＦは、<ruby>車<rt>くるま</rt></ruby>に<ruby>乗<rt>の</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>服<rt>ふく</rt></ruby>を<span\
+  \ style=\"color: blue;\">たたい</span>たり、<ruby>車<rt>くるま</rt></ruby>のエアコンを<ruby>掃除<rt>そうじ</rt></ruby>したりして<ruby>車<rt>くるま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>花粉<rt>かふん</rt></ruby></span>が<ruby>入<rt>はい</rt></ruby>らないようにすることが<ruby>大切<rt>たいせつ</rt></ruby>だと<ruby>言<rt>い</rt></ruby>っています。そして、「<span\
+  \ style=\"color: blue;\"><ruby>花粉症<rt>かふんしょう</rt></ruby></span>がひどいときは<ruby>運転<rt>うんてん</rt></ruby>をしないようにしてください」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 花粉症
+  descriptions:
+  - アレルギーの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>目</rb><rt>め</rt></ruby>や<ruby><rb>鼻</rb><rt>はな</rt></ruby>が、スギやヒノキなどの<ruby><rb>花粉</rb><rt>かふん</rt></ruby>にしげきされて、なみだ・くしゃみ・<ruby><rb>鼻水</rb><rt>はなみず</rt></ruby>などが<ruby><rb>出</rb><rt>で</rt></ruby>る。
+- word: くしゃみ
+  descriptions:
+  - <ruby><rb>鼻</rb><rt>はな</rt></ruby>のねんまくが、しげきを<ruby><rb>受</rb><rt>う</rt></ruby>けて、<ruby><rb>急</rb><rt>きゅう</rt></ruby>にふき<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>息</rb><rt>いき</rt></ruby>。はくしょん。
+- word: 花粉
+  descriptions:
+  - <ruby><rb>花</rb><rt>はな</rt></ruby>の<ruby><rb>雄</rb><rt>お</rt></ruby>しべの<ruby><rb>先</rb><rt>さき</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>細</rb><rt>こま</rt></ruby>かな<ruby><rb>粉</rb><rt>こな</rt></ruby>。<ruby><rb>雌</rb><rt>め</rt></ruby>しべにつくと、<ruby><rb>実</rb><rt>み</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ。
+- word: かゆい
+  descriptions:
+  - <ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>がむずむずして、かきたくなる。
+- word: 時速
+  descriptions:
+  - <ruby><rb>一時間</rb><rt>いちじかん</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>速</rb><rt>はや</rt></ruby>さ。
+- word: ハンドル
+  descriptions:
+  - <ruby><rb>取</rb><rt>と</rt></ruby>っ<ruby><rb>手</rb><rt>て</rt></ruby>。にぎり。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>でにぎって、<ruby><rb>機械</rb><rt>きかい</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かすもの。
+- word: 動かす
+  descriptions:
+  - <ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。
+  - <ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - <ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。
+- word: ブレーキ
+  descriptions:
+  - <ruby><rb>車</rb><rt>くるま</rt></ruby>を<ruby><rb>止</rb><rt>と</rt></ruby>める<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。
+  - ものごとの<ruby><rb>進</rb><rt>すす</rt></ruby>むのをおさえたり、<ruby><rb>止</rb><rt>と</rt></ruby>めたりすること。
+- word: 離す
+  descriptions:
+  - くっついていたものを<ruby><rb>分</rb><rt>わ</rt></ruby>ける。
+  - <ruby><rb>距離</rb><rt>きょり</rt></ruby>をあける。<ruby><rb>遠</rb><rt>とお</rt></ruby>くへやる。
+- word: トラック
+  descriptions:
+  - <ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rt></ruby>。
+- word: 一瞬
+  descriptions:
+  - ほんのちょっとの<ruby><rb>間</rb><rt>あいだ</rt></ruby>。
+- word: たたく
+  descriptions:
+  - ぶつ。なぐる。
+  - <ruby><rb>打</rb><rt>う</rt></ruby>って<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+  - <ruby><rb>悪口</rb><rt>わるくち</rt></ruby>を<ruby><rb>言</rb><rt>い</rt></ruby>って、やっつける。
+  - やたらにしゃべる。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>をまけさせる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011347801000/k10011347801000.html
+web_title_with_ruby: <ruby>花粉症<rt>かふんしょう</rt></ruby> <ruby>運転中<rt>うんてんちゅう</rt></ruby>のくしゃみで<ruby>事故<rt>じこ</rt></ruby>？<ruby>実<rt>じつ</rt></ruby>は<ruby>深刻<rt>しんこく</rt></ruby>な<ruby>実態<rt>じったい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/01/花粉症-運転中のくしゃみで事故実は深刻な実態
+related_news:
+- title: 「２０３５<ruby>年<rt>ねん</rt></ruby>には<ruby>新<rt>あたら</rt></ruby>しい<ruby>車<rt>くるま</rt></ruby>の２３％が<ruby>自動<rt>じどう</rt></ruby><ruby>運転<rt>うんてん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>になる」
+  url: https://newswebeasy.github.io/news/easy/2018/01/16/2035年には新しい車の23が自動運転の車になる
+- title: <ruby>去年<rt>きょねん</rt></ruby><ruby>車<rt>くるま</rt></ruby>の<ruby>免許<rt>めんきょ</rt></ruby>を<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>返<rt>かえ</rt></ruby>した７５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は２５<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/23/去年車の免許を警察に返した75歳以上の人は25万人
+- title: <ruby>新<rt>あたら</rt></ruby>しい<ruby>電化製品<rt>でんかせいひん</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベントがアメリカで<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/01/10/新しい電化製品を紹介するイベントがアメリカで始まる
+- title: ドライブレコーダーが<ruby>売<rt>う</rt></ruby>れる「<ruby>車<rt>くるま</rt></ruby>のトラブルをなくしたい」
+  url: https://newswebeasy.github.io/news/easy/2017/12/26/ドライブレコーダーが売れる車のトラブルをなくしたい
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>　<ruby>来年<rt>らいねん</rt></ruby>アメリカで<ruby>車<rt>くるま</rt></ruby>を<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める<ruby>計画<rt>けいかく</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/17/中国の会社-来年アメリカで車を売り始める計画を発表
+...
