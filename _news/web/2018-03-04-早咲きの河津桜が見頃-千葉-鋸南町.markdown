@@ -51,6 +51,10 @@ more: <ruby>気候<rt data-ruby-level="4">きこう</rt></ruby>が<ruby>温暖<r
 movie_url: https://newswebeasy.github.io/ja201803/news/web/movie/2018/03/04/k10011351191_201803041220_201803041224.mp4
 voice_url: https://newswebeasy.github.io/ja201803/news/web/voice/2018/03/04/k10011351191_201803041220_201803041224.mp3
 source_url: https://www3.nhk.or.jp/news/html/20180304/k10011351191000.html
+easy_title_with_ruby: <ruby>千葉県<rt data-ruby-level="3">ちばけん</rt></ruby><ruby>鋸南町<rt
+  data-ruby-level="8">きょなんまち</rt></ruby>の「<ruby>河津桜<rt data-ruby-level="7">かわづざくら</rt></ruby>」がきれいに<ruby>咲<rt
+  data-ruby-level="7">さ</rt></ruby>く
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/03/06/千葉県鋸南町の河津桜がきれいに咲く
 related_news:
 - title: <ruby>冬<rt data-ruby-level="2">ふゆ</rt></ruby>に<ruby>咲<rt data-ruby-level="7">さ</rt></ruby>くひまわり<ruby>見<rt
     data-ruby-level="1">み</rt></ruby>ごろ <ruby>神奈川<rt data-ruby-level="8">かながわ</rt></ruby>
@@ -60,7 +64,4 @@ related_news:
     data-ruby-level="7">みごろ</rt></ruby> <ruby>神奈川<rt data-ruby-level="8">かながわ</rt></ruby>
     <ruby>小田原<rt data-ruby-level="2">おだわら</rt></ruby>
   url: https://newswebeasy.github.io/news/web/2018/02/12/早咲きの梅が見頃-神奈川-小田原
-- title: サイクルトレインの<ruby>車両<rt data-ruby-level="3">しゃりょう</rt></ruby>を<ruby>公開<rt data-ruby-level="3">こうかい</rt></ruby>
-    <ruby>千葉<rt data-ruby-level="3">ちば</rt></ruby>
-  url: https://newswebeasy.github.io/news/web/2017/12/04/サイクルトレインの車両を公開-千葉
 ...
