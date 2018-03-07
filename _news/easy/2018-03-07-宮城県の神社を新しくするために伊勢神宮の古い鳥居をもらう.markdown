@@ -1,0 +1,58 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011352091000
+last_modified_at: '2018-03-07T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>07<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 宮城県名取市にある閖上湊神社は、２０１１年３月の東日本大震災の津波で、建物や鳥居が流されました。
+title: 宮城県の神社を新しくするために伊勢神宮の古い鳥居をもらう
+title_with_ruby: <ruby>宮城県<rt>みやぎけん</rt></ruby>の<ruby>神社<rt>じんじゃ</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しくするために<ruby>伊勢神宮<rt>いせじんぐう</rt></ruby>の<ruby>古<rt>ふる</rt></ruby>い<ruby>鳥居<rt>とりい</rt></ruby>をもらう
+outline: 宮城県名取市にある閖上湊神社は、２０１１年３月の東日本大震災の津波で、建物や鳥居が流されました。
+outline_with_ruby: <ruby>宮城県<rt>みやぎけん</rt></ruby><ruby>名取市<rt>なとりし</rt></ruby>にある<ruby>閖上湊神社<rt>ゆりあげみなとじんじゃ</rt></ruby>は、２０１１<ruby>年<rt>ねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>の<ruby>東日本大震災<rt>ひがしにほんだいしんさい</rt></ruby>の<ruby>津波<rt>つなみ</rt></ruby>で、<ruby>建物<rt>たてもの</rt></ruby>や<ruby>鳥居<rt>とりい</rt></ruby>が<ruby>流<rt>なが</rt></ruby>されました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/05/K10011352091_1803051305_1803051307_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/07/k10011352091000.mp3
+content_with_ruby: "<p><ruby>宮城県<rt>みやぎけん</rt></ruby><ruby>名取市<rt>なとりし</rt></ruby>にある<ruby>閖上湊神社<rt>ゆりあげみなとじんじゃ</rt></ruby>は、２０１１<ruby>年<rt>ねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>の<ruby>東日本大震災<rt>ひがしにほんだいしんさい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>津波<rt>つなみ</rt></ruby></span>で、<ruby>建物<rt>たてもの</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>鳥居<rt>とりい</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>流<rt>なが</rt></ruby>さ</span>れました。</p>\n<p><ruby>神社<rt>じんじゃ</rt></ruby>では、まず<span\
+  \ style=\"color: blue;\"><ruby>鳥居<rt>とりい</rt></ruby></span>を<ruby>新<rt>あたら</rt></ruby>しくつくることを<ruby>決<rt>き</rt></ruby>めました。<ruby>三重県<rt>みえけん</rt></ruby>にある<ruby>伊勢神宮<rt>いせじんぐう</rt></ruby>は２０<ruby>年<rt>ねん</rt></ruby>に１<ruby>回<rt>かい</rt></ruby>、<ruby>建物<rt>たてもの</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>鳥居<rt>とりい</rt></ruby></span>を<ruby>新<rt>あたら</rt></ruby>しくしています。このため、<ruby>神社<rt>じんじゃ</rt></ruby>は<ruby>伊勢神宮<rt>いせじんぐう</rt></ruby>に、<ruby>使<rt>つか</rt></ruby>わなくなった<ruby>古<rt>ふる</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>鳥居<rt>とりい</rt></ruby></span>などをもらいたいと<ruby>頼<rt>たの</rt></ruby>んでいました。</p>\n\
+  <p><ruby>５日<rt>いつか</rt></ruby>、<span style=\"color: blue;\"><ruby>鳥居<rt>とりい</rt></ruby></span>のいちばん<ruby>上<rt>うえ</rt></ruby>にある<ruby>長<rt>なが</rt></ruby>さ７ｍ４０ｃｍぐらいの<ruby>木<rt>き</rt></ruby>などが、<ruby>宮城県<rt>みやぎけん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>届<rt>とど</rt></ruby>き</span>ました。<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>鳥居<rt>とりい</rt></ruby></span>は５<ruby>月<rt>がつ</rt></ruby>にできる<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p><ruby>神社<rt>じんじゃ</rt></ruby>と<ruby>関係<rt>かんけい</rt></ruby>がある<ruby>人<rt>ひと</rt></ruby>は「<ruby>建物<rt>たてもの</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しくつくることは、お<ruby>金<rt>かね</rt></ruby>がかかるので<ruby>難<rt>むずか</rt></ruby>しいですが、<span\
+  \ style=\"color: blue;\"><ruby>鳥居<rt>とりい</rt></ruby></span>だけでも<ruby>早<rt>はや</rt></ruby>くつくって、まちが<ruby>元気<rt>げんき</rt></ruby>になるようにしてほしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 鳥居
+  descriptions:
+  - <ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>の<ruby><rb>入</rb><rt>い</rt></ruby>り<ruby><rb>口</rb><rt>ぐち</rt></ruby>の<ruby><rb>門</rb><rt>もん</rt></ruby>。
+- word: 津波
+  descriptions:
+  - <ruby><rb>地震</rb><rt>じしん</rt></ruby>などのために、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>におし<ruby><rb>寄</rb><rt>よ</rt></ruby>せてくること。
+- word: 流す
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>などにうかべて<ruby><rb>動</rb><rt>うご</rt></ruby>かす。
+  - よごれを<ruby><rb>洗</rb><rt>あら</rt></ruby>い<ruby><rb>落</rb><rt>お</rt></ruby>とす。
+  - うわさなどを<ruby><rb>広</rb><rt>ひろ</rt></ruby>める。
+  - <ruby><rb>予定</rb><rt>よてい</rt></ruby>していたことを、<ruby><rb>取</rb><rt>と</rt></ruby>りやめる。
+  - そのことを<ruby><rb>気</rb><rt>き</rt></ruby>に<ruby><rb>留</rb><rt>と</rt></ruby>めない。
+- word: 届く
+  descriptions:
+  - <ruby><rb>送</rb><rt>おく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>着</rb><rt>つ</rt></ruby>く。
+  - のばしたものが、つく。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>いなどがかなう。
+source_url: http://www3.nhk.or.jp/news/easy/k10011352091000/k10011352091000.html
+web_title_with_ruby: <ruby>被災<rt>ひさい</rt></ruby><ruby>神社<rt>じんじゃ</rt></ruby>の<ruby>再建<rt>さいけん</rt></ruby>に<ruby>伊勢神宮<rt>いせじんぐう</rt></ruby>の<ruby>古<rt>ふる</rt></ruby>い<ruby>鳥居<rt>とりい</rt></ruby><ruby>譲渡<rt>じょうと</rt></ruby>
+  <ruby>宮城<rt>みやぎ</rt></ruby> <ruby>名取<rt>なとり</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/05/被災神社の再建に伊勢神宮の古い鳥居譲渡-宮城-名取
+related_news:
+- title: <ruby>茨城県<rt>いばらきけん</rt></ruby>の<ruby>神社<rt>じんじゃ</rt></ruby>に<ruby>贈<rt>おく</rt></ruby>られた５００<ruby>以上<rt>いじょう</rt></ruby>のひな<ruby>人形<rt>にんぎょう</rt></ruby>を<ruby>飾<rt>かざ</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/02/07/茨城県の神社に贈られた500以上のひな人形を飾る
+- title: <ruby>水族館<rt>すいぞくかん</rt></ruby>のペンギンが<ruby>神社<rt>じんじゃ</rt></ruby>にお<ruby>参<rt>まい</rt></ruby>りする<ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2017/12/28/水族館のペンギンが神社にお参りする練習を始める
+...
