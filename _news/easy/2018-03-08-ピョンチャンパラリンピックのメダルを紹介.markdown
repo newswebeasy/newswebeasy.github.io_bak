@@ -1,0 +1,96 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011355061000
+last_modified_at: '2018-03-08T16:55:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>08<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>55<ruby>分<rt>ふん</rt></ruby>
+description: 韓国で９日からピョンチャンパラリンピックが始まります。
+title: ピョンチャンパラリンピックのメダルを紹介
+title_with_ruby: ピョンチャンパラリンピックのメダルを<ruby>紹介<rt>しょうかい</rt></ruby>
+outline: 韓国で９日からピョンチャンパラリンピックが始まります。
+outline_with_ruby: <ruby>韓国<rt>かんこく</rt></ruby>で<ruby>９日<rt>ここのか</rt></ruby>からピョンチャンパラリンピックが<ruby>始<rt>はじ</rt></ruby>まります。
+image_url: https://newswebeasy.github.io/ja201803/news/easy/image/2018/03/08/k10011355061000.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/08/k10011355061000.mp3
+content_with_ruby: "<p><ruby>韓国<rt>かんこく</rt></ruby>で<ruby>９日<rt>ここのか</rt></ruby>からピョンチャンパラリンピックが<ruby>始<rt>はじ</rt></ruby>まります。<span\
+  \ style=\"color: blue;\">パラリンピック</span>の<ruby>準備<rt>じゅんび</rt></ruby>をしている<ruby>組織委員会<rt>そしきいいんかい</rt></ruby>は<ruby>７日<rt>なのか</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>金<rt>きん</rt></ruby></span>、<span style=\"color: blue;\"\
+  ><ruby>銀<rt>ぎん</rt></ruby></span>、<span style=\"color: blue;\"><ruby>銅<rt>どう</rt></ruby></span><span\
+  \ style=\"color: blue;\">メダル</span>を<ruby>紹介<rt>しょうかい</rt></ruby>しました。</p>\n<p><span\
+  \ style=\"color: blue;\">メダル</span>は<ruby>大<rt>おお</rt></ruby>きさが９．２ｃｍで、<ruby>重<rt>おも</rt></ruby>さが<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>６００ｇです。<ruby>表<rt>おもて</rt></ruby>には<span\
+  \ style=\"color: blue;\">パラリンピック</span>の<span style=\"color: blue;\">マーク</span>と、<ruby>目<rt>め</rt></ruby>が<ruby>見<rt>み</rt></ruby>えない<ruby>人<rt>ひと</rt></ruby>にわかるように<span\
+  \ style=\"color: blue;\"><ruby>点字<rt>てんじ</rt></ruby></span>で「ピョンチャンパラリンピック２０１８」とかいてあります。<ruby>横<rt>よこ</rt></ruby>には<ruby>英語<rt>えいご</rt></ruby>と<ruby>韓国語<rt>かんこくご</rt></ruby>で、「ピョンチャンパラリンピック２０１８」とかいてあります。</p>\n\
+  <p><span style=\"color: blue;\">メダル</span>の<span style=\"color: blue;\">リボン</span>は<ruby>青<rt>あお</rt></ruby><ruby>緑<rt>みどり</rt></ruby>と<span\
+  \ style=\"color: blue;\">ピンク</span><ruby>色<rt>いろ</rt></ruby>で、<ruby>韓国<rt>かんこく</rt></ruby>に<ruby>昔<rt>むかし</rt></ruby>からある<ruby>絹<rt>きぬ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>布<rt>ぬの</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>っています。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>からは３８<ruby>人<rt>にん</rt></ruby>の<span style=\"color:\
+  \ blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>がピョンチャンパラリンピックに<ruby>出<rt>で</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。<ruby>日本<rt>にっぽん</rt></ruby>は、４<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<span\
+  \ style=\"color: blue;\">パラリンピック</span>で<ruby>取<rt>と</rt></ruby>った６<ruby>個<rt>こ</rt></ruby>より<ruby>多<rt>おお</rt></ruby>くの<span\
+  \ style=\"color: blue;\">メダル</span>を<ruby>取<rt>と</rt></ruby>りたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: 金
+  descriptions:
+  - <ruby><rb>黄色</rb><rt>きいろ</rt></ruby>いつやのある、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。こがね。
+  - こがね<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+  - おかね。
+  - 「<span class="dic_sansyogogi">1)</span>」のように、だいじな。りっぱな。
+  - かなもの。
+  - <ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>金曜日</rb><rt>きんようび</rt></ruby>。
+- word: 銀
+  descriptions:
+  - <ruby><rb>白</rb><rt>しろ</rt></ruby>くて<ruby><rb>美</rb><rt>うつく</rt></ruby>しいつやを<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>電気</rb><rt>でんき</rt></ruby>をよく<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>金</rb><rt>きん</rt></ruby>より<ruby><rb>軽</rb><rt>かる</rt></ruby>くてかたい。
+  - ぎん<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+  - おかね。
+  - <ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: 銅
+  descriptions:
+  - <ruby><rb>熱</rb><rt>ねつ</rt></ruby>や、<ruby><rb>電気</rb><rt>でんき</rt></ruby>をよく<ruby><rb>伝</rb><rt>つた</rt></ruby>える、<ruby><rb>赤</rb><rt>あか</rt></ruby>っぽい<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。あかがね。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: マーク
+  descriptions:
+  - しるし。<ruby><rb>記号</rb><rt>きごう</rt></ruby>。また、しるしをつけること。
+  - <ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>目</rb><rt>め</rt></ruby>をつけて<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>すること。
+  - <ruby><rb>記録</rb><rt>きろく</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ること。
+- word: 点字
+  descriptions:
+  - <ruby><rb>目</rb><rt>め</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>が、<ruby><rb>指</rb><rt>ゆび</rt></ruby>の<ruby><rb>先</rb><rt>さき</rt></ruby>でさわって<ruby><rb>読</rb><rt>よ</rt></ruby>む、<ruby><rb>文字</rb><rt>もじ</rt></ruby>の<ruby><rb>代</rb><rt>か</rt></ruby>わりになるしるし。<ruby><rb>紙</rb><rt>かみ</rt></ruby>などの<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>にうき<ruby><rb>出</rb><rt>だ</rt></ruby>させた<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>点</rb><rt>てん</rt></ruby>を<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+- word: リボン
+  descriptions:
+  - かざりのために<ruby><rb>使</rb><rt>つか</rt></ruby>う、きれいな<ruby><rb>色</rb><rt>いろ</rt></ruby>の、はばのせまい<ruby><rb>布</rb><rt>ぬの</rt></ruby>。また、そのかざり。
+- word: ピンク
+  descriptions:
+  - もも<ruby><rb>色</rb><rt>いろ</rt></ruby>。うすい<ruby><rb>赤色</rb><rt>あかいろ</rt></ruby>。
+- word: 布
+  descriptions:
+  - <ruby><rb>糸</rb><rt>いと</rt></ruby>で<ruby><rb>織</rb><rt>お</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>織物</rb><rt>おりもの</rt></ruby>。きれ。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011355061000/k10011355061000.html
+web_title_with_ruby: <ruby>ピョン<rt>ぴょん</rt></ruby><ruby>チャン<rt>ちゃん</rt></ruby><ruby>パラリンピック<rt>ぱらりんぴっく</rt></ruby>の<ruby>メダル<rt>めだる</rt></ruby><ruby>公開<rt>こうかい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/07/ピョンチャンパラリンピックのメダル公開
+related_news:
+- title: メダルを<ruby>取<rt>と</rt></ruby>った<ruby>選手<rt>せんしゅ</rt></ruby>の<ruby>切手<rt>きって</rt></ruby>が３０<ruby>万<rt>まん</rt></ruby>セット<ruby>以上<rt>いじょう</rt></ruby><ruby>売<rt>う</rt></ruby>れる
+  url: https://newswebeasy.github.io/news/easy/2018/03/02/メダルを取った選手の切手が30万セット以上売れる
+- title: オリンピックの<ruby>開会<rt>かいかい</rt></ruby><ruby>式<rt>しき</rt></ruby>　<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>歩<rt>ある</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/01/18/オリンピックの開会式-韓国と北朝鮮の選手は一緒に歩く
+- title: オリンピックとパラリンピックのマスコットに３つの<ruby>案<rt>あん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/12/08/オリンピックとパラリンピックのマスコットに3つの案
+- title: オリンピックの<ruby>選手<rt>せんしゅ</rt></ruby>たちがファンに<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>伝<rt>つた</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2018/02/28/オリンピックの選手たちがファンに感謝の気持ちを伝える
+- title: ピョンチャンオリンピックが<ruby>終<rt>お</rt></ruby>わる　<ruby>日本<rt>にっぽん</rt></ruby>のメダルは１３<ruby>個<rt>こ</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/02/26/ピョンチャンオリンピックが終わる-日本のメダルは13個
+...

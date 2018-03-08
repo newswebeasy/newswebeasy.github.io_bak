@@ -1,0 +1,77 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011355401000
+last_modified_at: '2018-03-08T16:55:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>08<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>55<ruby>分<rt>ふん</rt></ruby>
+description: 野球のイチロー選手は、アメリカの大リーグ（ＭＬＢ）のマーリンズからマリナーズに移ることになりました。
+title: マリナーズに移ったイチロー選手「自分の力を全部出す」
+title_with_ruby: マリナーズに<ruby>移<rt>うつ</rt></ruby>ったイチロー<ruby>選手<rt>せんしゅ</rt></ruby>「<ruby>自分<rt>じぶん</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>を<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>出<rt>だ</rt></ruby>す」
+outline: 野球のイチロー選手は、アメリカの大リーグ（ＭＬＢ）のマーリンズからマリナーズに移ることになりました。
+outline_with_ruby: <ruby>野球<rt>やきゅう</rt></ruby>のイチロー<ruby>選手<rt>せんしゅ</rt></ruby>は、アメリカの<ruby>大<rt>だい</rt></ruby>リーグ（ＭＬＢ）のマーリンズからマリナーズに<ruby>移<rt>うつ</rt></ruby>ることになりました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/08/K10011355401_1803081001_1803081004_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/08/k10011355401000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>野球<rt>やきゅう</rt></ruby></span>のイチロー<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、アメリカの<ruby>大<rt>だい</rt></ruby>リーグ（ＭＬＢ）のマーリンズからマリナーズに<ruby>移<rt>うつ</rt></ruby>ることになりました。イチロー<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は４４<ruby>歳<rt>さい</rt></ruby>で、<ruby>今年<rt>ことし</rt></ruby>どの<span\
+  \ style=\"color: blue;\">チーム</span>で<span style=\"color: blue;\"><ruby>野球<rt>やきゅう</rt></ruby></span>をするか<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>していました。</p>\n<p>マリナーズは、イチロー<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>大<rt>だい</rt></ruby>リーグで<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った<span\
+  \ style=\"color: blue;\">チーム</span>で、２００１<ruby>年<rt>ねん</rt></ruby>から１１<ruby>年<rt>ねん</rt></ruby><ruby>半<rt>はん</rt></ruby>いました。イチロー<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、マリナーズで１０<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて２００<ruby>本<rt>ぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\">ヒット</span>を<ruby>打<rt>う</rt></ruby>って、２００４<ruby>年<rt>ねん</rt></ruby>には２６２<ruby>本<rt>ほん</rt></ruby><ruby>打<rt>う</rt></ruby>ちました。どちらも<ruby>大<rt>だい</rt></ruby>リーグの<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>になりました。</p>\n<p>イチロー<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は「マリナーズの<span style=\"\
+  color: blue;\">ユニフォーム</span>をもう<ruby>一度<rt>いちど</rt></ruby><ruby>着<rt>き</rt></ruby>て<span\
+  \ style=\"color: blue;\"><ruby>野球<rt>やきゅう</rt></ruby></span>をしたいとずっと<ruby>思<rt>おも</rt></ruby>っていました。とてもうれしいです。<span\
+  \ style=\"color: blue;\">チーム</span>のために、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>持<rt>も</rt></ruby>っている<ruby>力<rt>ちから</rt></ruby>を<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>出<rt>だ</rt></ruby>して<ruby>頑張<rt>がんば</rt></ruby>ります」と<span\
+  \ style=\"color: blue;\"><ruby>記者<rt>きしゃ</rt></ruby></span>たちに<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p>イチロー<span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>はこれから<span\
+  \ style=\"color: blue;\">チーム</span>の<ruby>練習<rt>れんしゅう</rt></ruby>に<ruby>出<rt>で</rt></ruby>て、<ruby>大<rt>だい</rt></ruby>リーグの１８<ruby>年<rt>ねん</rt></ruby><ruby>目<rt>め</rt></ruby>を<span\
+  \ style=\"color: blue;\">スタート</span>します。</p>\n<p></p>\n<p></p>"
+words:
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 野球
+  descriptions:
+  - <ruby><rb>九人</rb><rt>くにん</rt></ruby>ずつの<ruby><rb>二</rb><rt>に</rt></ruby>チームが、たがいにバットでボールを<ruby><rb>打</rb><rt>う</rt></ruby>ってせめ<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>点</rb><rt>てん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ベースボール。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 注目
+  descriptions:
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>してよく<ruby><rb>見</rb><rt>み</rt></ruby>ること。
+- word: ヒット
+  descriptions:
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>安打</rb><rt>あんだ</rt></ruby>。
+  - <ruby><rb>大当</rb><rt>おおあ</rt></ruby>たり。
+- word: 記録
+  descriptions:
+  - あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。
+- word: ユニフォーム
+  descriptions:
+  - <ruby><rb>制服</rb><rt>せいふく</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>にスポーツチームなどの、そろいの<ruby><rb>運動服</rb><rt>うんどうふく</rt></ruby>。ユニホーム。
+- word: 記者
+  descriptions:
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: スタート
+  descriptions:
+  - <ruby><rb>出発</rb><rt>しゅっぱつ</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011355401000/k10011355401000.html
+web_title_with_ruby: <ruby>イチロー<rt>いちろー</rt></ruby> <ruby>マリナーズ<rt>まりなーず</rt></ruby><ruby>復帰<rt>ふっき</rt></ruby><ruby>会見<rt>かいけん</rt></ruby>「<ruby>チーム<rt>ちーむ</rt></ruby>にすべてささげる」
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/08/イチロー-マリナーズ復帰会見チームにすべてささげる
+related_news:
+- title: <ruby>野球<rt>やきゅう</rt></ruby>の<ruby>大谷<rt>おおたに</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がアメリカのエンジェルスに<ruby>入<rt>はい</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2017/12/11/野球の大谷選手がアメリカのエンジェルスに入る
+- title: <ruby>野球<rt>やきゅう</rt></ruby>の<ruby>大谷<rt>おおたに</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がアメリカで<ruby>初<rt>はじ</rt></ruby>めての<ruby>試合<rt>しあい</rt></ruby>で２<ruby>点<rt>てん</rt></ruby><ruby>取<rt>と</rt></ruby>られる
+  url: https://newswebeasy.github.io/news/easy/2018/02/26/野球の大谷選手がアメリカで初めての試合で2点取られる
+- title: <ruby>韓国<rt>かんこく</rt></ruby>でピョンチャンオリンピックが<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/02/09/韓国でピョンチャンオリンピックが始まる
+- title: アイスホッケー　<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のチームの<ruby>試合<rt>しあい</rt></ruby>が<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>終<rt>お</rt></ruby>わる
+  url: https://newswebeasy.github.io/news/easy/2018/02/21/アイスホッケー-韓国と北朝鮮のチームの試合が全部終わる
+- title: <ruby>卓球<rt>たっきゅう</rt></ruby>の<ruby>全日本選手権<rt>ぜんにほんせんしゅけん</rt></ruby>で１４<ruby>歳<rt>さい</rt></ruby>の<ruby>張本<rt>はりもと</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2018/01/22/卓球の全日本選手権で14歳の張本選手が優勝する
+...
