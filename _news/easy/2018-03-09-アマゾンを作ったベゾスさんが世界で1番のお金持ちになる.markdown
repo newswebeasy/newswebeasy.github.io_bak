@@ -1,0 +1,73 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011354171000
+last_modified_at: '2018-03-09T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>09<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: アメリカの経済の雑誌「フォーブス」は、今年の世界のお金持ちのランキングを発表しました。
+title: アマゾンを作ったベゾスさんが世界で１番のお金持ちになる
+title_with_ruby: アマゾンを<ruby>作<rt>つく</rt></ruby>ったベゾスさんが<ruby>世界<rt>せかい</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby>のお<ruby>金持<rt>かねも</rt></ruby>ちになる
+outline: アメリカの経済の雑誌「フォーブス」は、今年の世界のお金持ちのランキングを発表しました。
+outline_with_ruby: アメリカの<ruby>経済<rt>けいざい</rt></ruby>の<ruby>雑誌<rt>ざっし</rt></ruby>「フォーブス」は、<ruby>今年<rt>ことし</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby>のお<ruby>金持<rt>かねも</rt></ruby>ちのランキングを<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/07/K10011354171_1803070713_1803070714_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/09/k10011354171000.mp3
+content_with_ruby: "<p>アメリカの<ruby>経済<rt>けいざい</rt></ruby>の<ruby>雑誌<rt>ざっし</rt></ruby>「フォーブス」は、<ruby>今年<rt>ことし</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby>のお<ruby>金持<rt>かねも</rt></ruby>ちの<span\
+  \ style=\"color: blue;\">ランキング</span>を<span style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n\
+  <p>１<ruby>番<rt>ばん</rt></ruby>は、アメリカの「アマゾン・ドット・コム」という<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ったジェフ・ベゾスさんです。ベゾスさんは、<ruby>初<rt>はじ</rt></ruby>めて<ruby>世界<rt>せかい</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby>のお<ruby>金持<rt>かねも</rt></ruby>ちになりました。アマゾンの<span\
+  \ style=\"color: blue;\"><ruby>株<rt>かぶ</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>が１<ruby>年<rt>ねん</rt></ruby>で５９％<ruby>高<rt>たか</rt></ruby>くなって、ベゾスさんが<ruby>持<rt>も</rt></ruby>っている<span\
+  \ style=\"color: blue;\"><ruby>財産<rt>ざいさん</rt></ruby></span>が<ruby>増<rt>ふ</rt></ruby>えたためです。<span\
+  \ style=\"color: blue;\"><ruby>財産<rt>ざいさん</rt></ruby></span>は<ruby>全部<rt>ぜんぶ</rt></ruby>で１１２０<ruby>億<rt>おく</rt></ruby><span\
+  \ style=\"color: blue;\">ドル</span>、<ruby>日本<rt>にっぽん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１１<span style=\"color:\
+  \ blue;\"><ruby>兆<rt>ちょう</rt></ruby></span>９０００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>でした。</p>\n\
+  <p>「マイクロソフト」を<ruby>作<rt>つく</rt></ruby>ったビル・ゲイツさんは、<ruby>去年<rt>きょねん</rt></ruby>まで４<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて１<ruby>番<rt>ばん</rt></ruby>でしたが、<ruby>今年<rt>ことし</rt></ruby>は２<ruby>番<rt>ばん</rt></ruby>でした。</p>\n\
+  <p><ruby>日本人<rt>にっぽんじん</rt></ruby>では、「ソフトバンクグループ」の<ruby>社長<rt>しゃちょう</rt></ruby>の<ruby>孫正義<rt>そんまさよし</rt></ruby>さんが３９<ruby>番<rt>ばん</rt></ruby>で、<span\
+  \ style=\"color: blue;\"><ruby>財産<rt>ざいさん</rt></ruby></span>は<span style=\"color:\
+  \ blue;\"><ruby>約<rt>やく</rt></ruby></span>２<span style=\"color: blue;\"><ruby>兆<rt>ちょう</rt></ruby></span>４０００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>でした。「ユニクロ」を<span\
+  \ style=\"color: blue;\"><ruby>経営<rt>けいえい</rt></ruby></span>している<ruby>柳井正<rt>やないただし</rt></ruby>さんは５５<ruby>番<rt>ばん</rt></ruby>で、<span\
+  \ style=\"color: blue;\"><ruby>財産<rt>ざいさん</rt></ruby></span>は<span style=\"color:\
+  \ blue;\"><ruby>約<rt>やく</rt></ruby></span>２<span style=\"color: blue;\"><ruby>兆<rt>ちょう</rt></ruby></span><ruby>円<rt>えん</rt></ruby>でした。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ランキング
+  descriptions:
+  - <ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 株式
+  descriptions:
+  - <ruby><rb>株式会社</rb><rt>かぶしきがいしゃ</rt></ruby>の<ruby><rb>元手</rb><rt>もとで</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>総額</rb><rt>そうがく</rt></ruby>を<ruby><rb>均等</rb><rt>きんとう</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>けた、その<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つをいう。
+- word: 財産
+  descriptions:
+  - （<ruby><rb>個人</rb><rt>こじん</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>の<ruby><rb>持</rb><rt>も</rt></ruby>っている）お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>・<ruby><rb>土地</rb><rt>とち</rt></ruby>・<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>など、<ruby><rb>価値</rb><rt>かち</rt></ruby>のあるもの。<ruby><rb>資産</rb><rt>しさん</rt></ruby>。
+- word: ドル
+  descriptions:
+  - アメリカ・カナダなどで<ruby><rb>使</rb><rt>つか</rt></ruby>われているお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>１</rb><rt>いち</rt></ruby>ドルは１００セント。
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 兆
+  descriptions:
+  - <ruby><rb>一億</rb><rt>いちおく</rt></ruby>の<ruby><rb>一万倍</rb><rt>いちまんばい</rt></ruby>。
+  - しるし。<ruby><rb>前</rb><rt>まえ</rt></ruby>ぶれ。
+- word: 経営
+  descriptions:
+  - <ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011354171000/k10011354171000.html
+web_title_with_ruby: <ruby>アマゾン<rt>あまぞん</rt></ruby>ＣＥＯ <ruby>世界<rt>せかい</rt></ruby>の<ruby>長者番付<rt>ちょうじゃばんづけ</rt></ruby>で<ruby>初<rt>はつ</rt></ruby>の<ruby>首位<rt>しゅい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/07/アマゾンCEO-世界の長者番付で初の首位
+related_news:
+- title: <ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>使<rt>つか</rt></ruby>ったお<ruby>金<rt>かね</rt></ruby>　<ruby>初<rt>はじ</rt></ruby>めて４<ruby>兆<rt>ちょう</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/01/17/旅行に来た外国人が使ったお金-初めて4兆円以上になる
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>　<ruby>国<rt>くに</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るために<ruby>使<rt>つか</rt></ruby>うお<ruby>金<rt>かね</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>より８％<ruby>増<rt>ふ</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2018/03/05/中国-国を守るために使うお金は去年より8増える
+- title: <ruby>今年<rt>ことし</rt></ruby><ruby>世界<rt>せかい</rt></ruby>で<ruby>起<rt>お</rt></ruby>こった<ruby>地震<rt>じしん</rt></ruby>などの<ruby>災害<rt>さいがい</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>は<ruby>約<rt>やく</rt></ruby>３５<ruby>兆<rt>ちょう</rt></ruby><ruby>円<rt>えん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/12/25/今年世界で起こった地震などの災害の被害は約35兆円
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>　<ruby>来年<rt>らいねん</rt></ruby>アメリカで<ruby>車<rt>くるま</rt></ruby>を<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める<ruby>計画<rt>けいかく</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/17/中国の会社-来年アメリカで車を売り始める計画を発表
+...
