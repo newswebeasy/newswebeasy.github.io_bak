@@ -1,0 +1,83 @@
+---
+layout: web_news
+categories: web
+newsid: k10011358941000
+title: 富士通 中国企業とＡＩ活用の「スマート工場」展開へ
+title_with_ruby: <ruby>富士通<rt data-ruby-level="5">ふじつう</rt></ruby> <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby><ruby>企業<rt
+  data-ruby-level="7">きぎょう</rt></ruby>とＡＩ<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>の「スマート<ruby>工場<rt
+  data-ruby-level="2">こうじょう</rt></ruby>」<ruby>展開<rt data-ruby-level="6">てんかい</rt></ruby>へ
+last_modified_at: '2018-03-10T04:07:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>03<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>10<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 04<ruby>時<rt data-ruby-level="2">じ</rt></ruby>07<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 大手電機メーカーの富士通は、中国の大手国有企業と共同で新会社を設立し、ＡＩ＝人工知能などを活用した「スマート工場」と呼ばれる最新の工場について、中国で本格的な展開を目指すことになりました。
+summary: <ruby>大手<rt data-ruby-level="1">おおて</rt></ruby><ruby>電機<rt data-ruby-level="4">でんき</rt></ruby>メーカーの<ruby>富士通<rt
+  data-ruby-level="5">ふじつう</rt></ruby>は、<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>の<ruby>大手<rt
+  data-ruby-level="1">おおて</rt></ruby><ruby>国有<rt data-ruby-level="3">こくゆう</rt></ruby><ruby>企業<rt
+  data-ruby-level="7">きぎょう</rt></ruby>と<ruby>共同<rt data-ruby-level="4">きょうどう</rt></ruby>で<ruby>新会社<rt
+  data-ruby-level="2">しんがいしゃ</rt></ruby>を<ruby>設立<rt data-ruby-level="5">せつりつ</rt></ruby>し、ＡＩ＝<ruby>人工<rt
+  data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt data-ruby-level="5">ちのう</rt></ruby>などを<ruby>活用<rt
+  data-ruby-level="2">かつよう</rt></ruby>した「スマート<ruby>工場<rt data-ruby-level="2">こうじょう</rt></ruby>」と<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>ばれる<ruby>最新<rt data-ruby-level="4">さいしん</rt></ruby>の<ruby>工場<rt
+  data-ruby-level="2">こうじょう</rt></ruby>について、<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>で<ruby>本格的<rt
+  data-ruby-level="5">ほんかくてき</rt></ruby>な<ruby>展開<rt data-ruby-level="6">てんかい</rt></ruby>を<ruby>目指<rt
+  data-ruby-level="3">めざ</rt></ruby>すことになりました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/10/K10011358941_1803092235_1803100407_01_02.jpg
+more: <ruby>富士通<rt data-ruby-level="5">ふじつう</rt></ruby>は、<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>の<ruby>国有<rt
+  data-ruby-level="3">こくゆう</rt></ruby><ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>でインフラ<ruby>設備<rt
+  data-ruby-level="5">せつび</rt></ruby>のシステムなどを<ruby>手<rt data-ruby-level="1">て</rt></ruby>がける<ruby>上海<rt
+  data-ruby-level="8">しゃんはい</rt></ruby><ruby>儀<rt data-ruby-level="7">ぎ</rt></ruby><ruby>電<rt
+  data-ruby-level="2">でん</rt></ruby>と<ruby>共同<rt data-ruby-level="4">きょうどう</rt></ruby>で<ruby>新会社<rt
+  data-ruby-level="2">しんがいしゃ</rt></ruby>を<ruby>設立<rt data-ruby-level="5">せつりつ</rt></ruby>しました。<br
+  /><br /><ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>では<ruby>飛躍的<rt data-ruby-level="7">ひやくてき</rt></ruby>な<ruby>生産性<rt
+  data-ruby-level="5">せいさんせい</rt></ruby>の<ruby>向上<rt data-ruby-level="3">こうじょう</rt></ruby>を<ruby>目指<rt
+  data-ruby-level="3">めざ</rt></ruby>し、ＡＩやいわゆるＩｏＴなどを<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>した「スマート<ruby>工場<rt
+  data-ruby-level="2">こうじょう</rt></ruby>」の<ruby>普及<rt data-ruby-level="7">ふきゅう</rt></ruby>が<ruby>国策<rt
+  data-ruby-level="6">こくさく</rt></ruby>として<ruby>進<rt data-ruby-level="3">すす</rt></ruby>められています。<br
+  /><br /><ruby>富士通<rt data-ruby-level="5">ふじつう</rt></ruby>としては、<ruby>新会社<rt data-ruby-level="2">しんがいしゃ</rt></ruby>を<ruby>通<rt
+  data-ruby-level="2">つう</rt></ruby>じて<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>でのスマート<ruby>工場<rt
+  data-ruby-level="2">こうじょう</rt></ruby><ruby>関連<rt data-ruby-level="4">かんれん</rt></ruby>のビジネスを<ruby>本格的<rt
+  data-ruby-level="5">ほんかくてき</rt></ruby>に<ruby>展開<rt data-ruby-level="6">てんかい</rt></ruby>したい<ruby>考<rt
+  data-ruby-level="2">かんが</rt></ruby>えで、<ruby>富士通<rt data-ruby-level="5">ふじつう</rt></ruby><ruby>側<rt
+  data-ruby-level="4">がわ</rt></ruby>が<ruby>工場<rt data-ruby-level="2">こうじょう</rt></ruby>の<ruby>省<rt
+  data-ruby-level="4">しょう</rt></ruby><ruby>エネ<rt data-ruby-level="4">えね</rt></ruby>や<ruby>生産<rt
+  data-ruby-level="4">せいさん</rt></ruby><ruby>効率<rt data-ruby-level="5">こうりつ</rt></ruby>の<ruby>改善<rt
+  data-ruby-level="6">かいぜん</rt></ruby>などにつながるシステムの<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>を<ruby>担<rt
+  data-ruby-level="7">にな</rt></ruby>い、<ruby>上海<rt data-ruby-level="8">しゃんはい</rt></ruby><ruby>儀<rt
+  data-ruby-level="7">ぎ</rt></ruby><ruby>電<rt data-ruby-level="2">でん</rt></ruby><ruby>側<rt
+  data-ruby-level="4">がわ</rt></ruby>が<ruby>持<rt data-ruby-level="3">も</rt></ruby>つ<ruby>中国<rt
+  data-ruby-level="2">ちゅうごく</rt></ruby><ruby>国内<rt data-ruby-level="2">こくない</rt></ruby>のネットワークを<ruby>生<rt
+  data-ruby-level="1">い</rt></ruby>かして<ruby>販売先<rt data-ruby-level="7">はんばいさき</rt></ruby>を<ruby>広<rt
+  data-ruby-level="2">ひろ</rt></ruby>げていくことにしています。<br /><br />スマート<ruby>工場<rt data-ruby-level="2">こうじょう</rt></ruby>をめぐっては、<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>のメーカーだけでなくドイツなど<ruby>海外<rt data-ruby-level="2">かいがい</rt></ruby>のメーカーも<ruby>力<rt
+  data-ruby-level="1">ちから</rt></ruby>を<ruby>入<rt data-ruby-level="1">い</rt></ruby>れていて、<ruby>世界的<rt
+  data-ruby-level="4">せかいてき</rt></ruby>な<ruby>競争<rt data-ruby-level="4">きょうそう</rt></ruby>が<ruby>激<rt
+  data-ruby-level="6">はげ</rt></ruby>しくなっています。
+source_url: https://www3.nhk.or.jp/news/html/20180310/k10011358941000.html
+related_news:
+- title: パナソニック ＡＩで<ruby>住宅<rt data-ruby-level="6">じゅうたく</rt></ruby>の<ruby>省<rt data-ruby-level="4">しょう</rt></ruby><ruby>エネ<rt
+    data-ruby-level="4">えね</rt></ruby> <ruby>節電<rt data-ruby-level="4">せつでん</rt></ruby>システム<ruby>販売<rt
+    data-ruby-level="7">はんばい</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2018/01/16/パナソニック-AIで住宅の省エネ-節電システム販売へ
+- title: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>が<ruby>北極圏<rt data-ruby-level="7">ほっきょくけん</rt></ruby><ruby>開発<rt
+    data-ruby-level="3">かいはつ</rt></ruby>に<ruby>意欲<rt data-ruby-level="6">いよく</rt></ruby>
+    <ruby>初<rt data-ruby-level="4">はつ</rt></ruby>の<ruby>白書<rt data-ruby-level="2">はくしょ</rt></ruby>を<ruby>発表<rt
+    data-ruby-level="3">はっぴょう</rt></ruby> <ruby>権益<rt data-ruby-level="6">けんえき</rt></ruby><ruby>確保<rt
+    data-ruby-level="5">かくほ</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2018/01/26/中国が北極圏開発に意欲-初の白書を発表-権益確保へ
+- title: <ruby>共同溝<rt data-ruby-level="7">きょうどうこう</rt></ruby>を<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>
+    <ruby>地下<rt data-ruby-level="2">ちか</rt></ruby>に<ruby>野菜<rt data-ruby-level="4">やさい</rt></ruby><ruby>工場<rt
+    data-ruby-level="2">こうじょう</rt></ruby> <ruby>千葉<rt data-ruby-level="3">ちば</rt></ruby>
+    <ruby>幕張<rt data-ruby-level="6">まくはり</rt></ruby><ruby>新都心<rt data-ruby-level="3">しんとしん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/13/共同溝を活用-地下に野菜工場-千葉-幕張新都心
+- title: “チベットや<ruby>台湾<rt data-ruby-level="7">たいわん</rt></ruby>を「<ruby>国<rt data-ruby-level="2">くに</rt></ruby>」<ruby>扱<rt
+    data-ruby-level="7">あつか</rt></ruby>い” <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>から<ruby>修正<rt
+    data-ruby-level="5">しゅうせい</rt></ruby>と<ruby>謝罪<rt data-ruby-level="5">しゃざい</rt></ruby><ruby>要求<rt
+    data-ruby-level="4">ようきゅう</rt></ruby><ruby>相次<rt data-ruby-level="3">あいつ</rt></ruby>ぐ
+  url: https://newswebeasy.github.io/news/web/2018/01/13/チベットや台湾を国扱い-中国から修正と謝罪要求相次ぐ
+- title: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby><ruby>大手<rt data-ruby-level="1">おおて</rt></ruby><ruby>自動車<rt
+    data-ruby-level="3">じどうしゃ</rt></ruby>メーカーが<ruby>来年<rt data-ruby-level="2">らいねん</rt></ruby>
+    <ruby>米<rt data-ruby-level="2">べい</rt></ruby>に<ruby>本格<rt data-ruby-level="5">ほんかく</rt></ruby><ruby>進出<rt
+    data-ruby-level="3">しんしゅつ</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2018/01/16/中国大手自動車メーカーが来年-米に本格進出へ
+...

@@ -1,0 +1,229 @@
+---
+layout: web_news
+categories: web
+newsid: k10011356001000
+title: 女子高生の「角巻き」復権大作戦！
+title_with_ruby: <ruby>女子高生<rt data-ruby-level="2">じょしこうせい</rt></ruby>の「<ruby>角巻<rt
+  data-ruby-level="6">かくま</rt></ruby>き」<ruby>復権<rt data-ruby-level="6">ふっけん</rt></ruby><ruby>大作戦<rt
+  data-ruby-level="4">だいさくせん</rt></ruby>！
+last_modified_at: '2018-03-08T18:16:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>03<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>08<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 18<ruby>時<rt data-ruby-level="2">じ</rt></ruby>16<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 皆さん「角巻き（かくまき）」をご存じですか。食べ物？いやいや、雪国の伝統的な女性用の防寒着です。大きな四角い毛織物で、頭からかぶって寒気を防ぎます。角巻きを巻いて歩く女性の姿は、かつては冬の雪国の風物詩でした。でも、コートなどの防寒着が普及すると、次第に姿を消し、今では作る会社さえなくなってしまいました。そんな中、高校生の豊かな発想で角巻きの復権を目指すプロジェクトが青森にあるんです。（青森局記者
+  佐野裕美江）
+summary: <ruby>皆<rt data-ruby-level="7">みな</rt></ruby>さん「<ruby>角巻<rt data-ruby-level="6">かくま</rt></ruby>き（かくまき）」をご<ruby>存<rt
+  data-ruby-level="6">ぞん</rt></ruby>じですか。<ruby>食<rt data-ruby-level="3">た</rt></ruby>べ<ruby>物<rt
+  data-ruby-level="3">もの</rt></ruby>？いやいや、<ruby>雪国<rt data-ruby-level="2">ゆきぐに</rt></ruby>の<ruby>伝統的<rt
+  data-ruby-level="5">でんとうてき</rt></ruby>な<ruby>女性用<rt data-ruby-level="5">じょせいよう</rt></ruby>の<ruby>防寒着<rt
+  data-ruby-level="5">ぼうかんぎ</rt></ruby>です。<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きな<ruby>四角<rt
+  data-ruby-level="2">しかく</rt></ruby>い<ruby>毛織物<rt data-ruby-level="5">けおりもの</rt></ruby>で、<ruby>頭<rt
+  data-ruby-level="2">あたま</rt></ruby>からかぶって<ruby>寒気<rt data-ruby-level="3">かんき</rt></ruby>を<ruby>防<rt
+  data-ruby-level="5">ふせ</rt></ruby>ぎます。<ruby>角巻<rt data-ruby-level="6">かくま</rt></ruby>きを<ruby>巻<rt
+  data-ruby-level="6">ま</rt></ruby>いて<ruby>歩<rt data-ruby-level="2">ある</rt></ruby>く<ruby>女性<rt
+  data-ruby-level="5">じょせい</rt></ruby>の<ruby>姿<rt data-ruby-level="6">すがた</rt></ruby>は、かつては<ruby>冬<rt
+  data-ruby-level="2">ふゆ</rt></ruby>の<ruby>雪国<rt data-ruby-level="2">ゆきぐに</rt></ruby>の<ruby>風物詩<rt
+  data-ruby-level="3">ふうぶつし</rt></ruby>でした。でも、コートなどの<ruby>防寒着<rt data-ruby-level="5">ぼうかんぎ</rt></ruby>が<ruby>普及<rt
+  data-ruby-level="7">ふきゅう</rt></ruby>すると、<ruby>次第<rt data-ruby-level="7">しだい</rt></ruby>に<ruby>姿<rt
+  data-ruby-level="6">すがた</rt></ruby>を<ruby>消<rt data-ruby-level="3">け</rt></ruby>し、<ruby>今<rt
+  data-ruby-level="2">いま</rt></ruby>では<ruby>作<rt data-ruby-level="2">つく</rt></ruby>る<ruby>会社<rt
+  data-ruby-level="2">かいしゃ</rt></ruby>さえなくなってしまいました。そんな<ruby>中<rt data-ruby-level="1">なか</rt></ruby>、<ruby>高校生<rt
+  data-ruby-level="2">こうこうせい</rt></ruby>の<ruby>豊<rt data-ruby-level="5">ゆた</rt></ruby>かな<ruby>発想<rt
+  data-ruby-level="3">はっそう</rt></ruby>で<ruby>角巻<rt data-ruby-level="6">かくま</rt></ruby>きの<ruby>復権<rt
+  data-ruby-level="6">ふっけん</rt></ruby>を<ruby>目指<rt data-ruby-level="3">めざ</rt></ruby>すプロジェクトが<ruby>青森<rt
+  data-ruby-level="1">あおもり</rt></ruby>にあるんです。（<ruby>青森<rt data-ruby-level="1">あおもり</rt></ruby><ruby>局<rt
+  data-ruby-level="8">つぼね</rt></ruby><ruby>記者<rt data-ruby-level="3">きしゃ</rt></ruby>
+  <ruby>佐野<rt data-ruby-level="7">さの</rt></ruby><ruby>裕<rt data-ruby-level="8">ひろし</rt></ruby><ruby>美江<rt
+  data-ruby-level="8">みえ</rt></ruby>）
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/08/K10011356001_1803081809_1803081815_01_02.jpg
+body:
+- title: <ruby>高校生<rt data-ruby-level="2">こうこうせい</rt></ruby>が<ruby>角巻<rt data-ruby-level="6">かくま</rt></ruby>きファッションショー
+  text: <ruby>一風<rt data-ruby-level="2">いっぷう</rt></ruby><ruby>変<rt data-ruby-level="4">か</rt></ruby>わったファッションショーが<ruby>行<rt
+    data-ruby-level="2">おこな</rt></ruby>われたのはことし１<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>。<ruby>舞台<rt
+    data-ruby-level="7">ぶたい</rt></ruby>は、<ruby>青森県<rt data-ruby-level="3">あおもりけん</rt></ruby><ruby>弘前市<rt
+    data-ruby-level="8">ひろさきし</rt></ruby>の<ruby>弘前<rt data-ruby-level="8">ひろさき</rt></ruby><ruby>実業<rt
+    data-ruby-level="3">じつぎょう</rt></ruby><ruby>高校<rt data-ruby-level="2">こうこう</rt></ruby>の<ruby>体育館<rt
+    data-ruby-level="3">たいいくかん</rt></ruby>でした。<br /><br /><ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>されたのは、<ruby>服飾<rt
+    data-ruby-level="7">ふくしょく</rt></ruby><ruby>デザイン<rt data-ruby-level="2">でざいん</rt></ruby><ruby>科<rt
+    data-ruby-level="2">か</rt></ruby>の３<ruby>年生<rt data-ruby-level="1">ねんせい</rt></ruby>が<ruby>作<rt
+    data-ruby-level="2">つく</rt></ruby>った<ruby>斬新<rt data-ruby-level="7">ざんしん</rt></ruby>な<ruby>角巻<rt
+    data-ruby-level="6">かくま</rt></ruby>きです。<ruby>同<rt data-ruby-level="2">おな</rt></ruby>じ<ruby>服飾<rt
+    data-ruby-level="7">ふくしょく</rt></ruby><ruby>デザイン<rt data-ruby-level="2">でざいん</rt></ruby><ruby>科<rt
+    data-ruby-level="2">か</rt></ruby>の<ruby>後輩<rt data-ruby-level="7">こうはい</rt></ruby>や<ruby>県内<rt
+    data-ruby-level="3">けんない</rt></ruby>の<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby><ruby>担当者<rt
+    data-ruby-level="6">たんとうしゃ</rt></ruby>など、およそ１００<ruby>人<rt data-ruby-level="1">にん</rt></ruby>が<ruby>盛大<rt
+    data-ruby-level="6">せいだい</rt></ruby>な<ruby>拍手<rt data-ruby-level="7">はくしゅ</rt></ruby>を<ruby>送<rt
+    data-ruby-level="3">おく</rt></ruby>る<ruby>中<rt data-ruby-level="1">なか</rt></ruby>、<ruby>世界<rt
+    data-ruby-level="3">せかい</rt></ruby>でひとつだけの<ruby>角巻<rt data-ruby-level="6">かくま</rt></ruby>きを<ruby>羽織<rt
+    data-ruby-level="5">はお</rt></ruby>った<ruby>生徒<rt data-ruby-level="4">せいと</rt></ruby>たちが<ruby>登場<rt
+    data-ruby-level="3">とうじょう</rt></ruby>。モデルになりきって、<ruby>会場<rt data-ruby-level="2">かいじょう</rt></ruby>に<ruby>流<rt
+    data-ruby-level="3">なが</rt></ruby>れる<ruby>軽快<rt data-ruby-level="5">けいかい</rt></ruby>なＢＧＭのリズムに<ruby>乗<rt
+    data-ruby-level="3">の</rt></ruby>りながら、<ruby>堂々<rt data-ruby-level="4">どうどう</rt></ruby>とランウェイを<ruby>歩<rt
+    data-ruby-level="2">ある</rt></ruby>きました。<ruby>背中<rt data-ruby-level="6">せなか</rt></ruby>や<ruby>内側<rt
+    data-ruby-level="4">ないそく</rt></ruby>にもほどこされた、<ruby>細<rt data-ruby-level="2">こま</rt></ruby>かなデザインも<ruby>観客<rt
+    data-ruby-level="4">かんきゃく</rt></ruby>にわかるように<ruby>伝<rt data-ruby-level="4">つた</rt></ruby>えていました。
+  textPos: top
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/08/K10011356001_1803081654_1803081702_01_03.jpg
+- title: <ruby>仕掛<rt data-ruby-level="7">しか</rt></ruby>け<ruby>人<rt data-ruby-level="7">にん</rt></ruby>は<ruby>人気<rt
+    data-ruby-level="1">にんき</rt></ruby>ツアーの<ruby>発案者<rt data-ruby-level="4">はつあんしゃ</rt></ruby>
+  text: ファッションショーを<ruby>見守<rt data-ruby-level="3">みまも</rt></ruby>っていた<ruby>五所川原市<rt
+    data-ruby-level="8">ごしょがわらし</rt></ruby>の<ruby>角田<rt data-ruby-level="8">すみだ</rt></ruby><ruby>周<rt
+    data-ruby-level="4">しゅう</rt></ruby>さん（６４）。ショーの<ruby>企画者<rt data-ruby-level="7">きかくしゃ</rt></ruby>で、７<ruby>年前<rt
+    data-ruby-level="2">ねんまえ</rt></ruby>から<ruby>高校生<rt data-ruby-level="2">こうこうせい</rt></ruby>とタッグを<ruby>組<rt
+    data-ruby-level="2">く</rt></ruby>み、<ruby>新<rt data-ruby-level="2">あたら</rt></ruby>しい<ruby>角<rt
+    data-ruby-level="2">つの</rt></ruby><ruby>巻<rt data-ruby-level="6">ま</rt></ruby>き<ruby>作<rt
+    data-ruby-level="2">づく</rt></ruby>りに<ruby>取<rt data-ruby-level="3">と</rt></ruby>り<ruby>組<rt
+    data-ruby-level="3">く</rt></ruby>んできました。
+  textPos: top
+  caption: <ruby>角田<rt data-ruby-level="8">すみだ</rt></ruby><ruby>周<rt data-ruby-level="4">しゅう</rt></ruby>さん
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/08/K10011356001_1803081654_1803081702_01_04.jpg
+- text: <ruby>幼<rt data-ruby-level="6">おさな</rt></ruby>い<ruby>頃<rt data-ruby-level="7">ころ</rt></ruby>、<ruby>母親<rt
+    data-ruby-level="2">ははおや</rt></ruby>の<ruby>角巻<rt data-ruby-level="6">かくま</rt></ruby>きにくるまって<ruby>育<rt
+    data-ruby-level="3">そだ</rt></ruby>った<ruby>角田<rt data-ruby-level="2">かくた</rt></ruby>さん。<ruby>角巻<rt
+    data-ruby-level="6">かくま</rt></ruby>きの<ruby>温<rt data-ruby-level="8">あった</rt></ruby>かさをたくさんの<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>に<ruby>知<rt data-ruby-level="2">し</rt></ruby>ってもらいたいという<ruby>思<rt
+    data-ruby-level="2">おも</rt></ruby>いを<ruby>抱<rt data-ruby-level="7">いだ</rt></ruby>いてきました。<br
+    /><br /><ruby>音楽<rt data-ruby-level="2">おんがく</rt></ruby><ruby>教室<rt data-ruby-level="2">きょうしつ</rt></ruby>を<ruby>営<rt
+    data-ruby-level="5">いとな</rt></ruby>むかたわら、<ruby>地域<rt data-ruby-level="6">ちいき</rt></ruby>おこしにも<ruby>取<rt
+    data-ruby-level="3">と</rt></ruby>り<ruby>組<rt data-ruby-level="3">く</rt></ruby>んできた<ruby>角田<rt
+    data-ruby-level="2">かくた</rt></ruby>さんは、<ruby>実<rt data-ruby-level="3">じつ</rt></ruby>は、<ruby>厳<rt
+    data-ruby-level="6">きび</rt></ruby>しい<ruby>冬<rt data-ruby-level="2">ふゆ</rt></ruby>を<ruby>観光<rt
+    data-ruby-level="4">かんこう</rt></ruby><ruby>資源<rt data-ruby-level="6">しげん</rt></ruby>に<ruby>変<rt
+    data-ruby-level="4">か</rt></ruby>えた「<ruby>地吹雪<rt data-ruby-level="8">じふぶき</rt></ruby><ruby>体験<rt
+    data-ruby-level="4">たいけん</rt></ruby>ツアー」の<ruby>発案者<rt data-ruby-level="4">はつあんしゃ</rt></ruby>でもあります。
+  textPos: top
+  caption: <ruby>地吹雪<rt data-ruby-level="8">じふぶき</rt></ruby><ruby>体験<rt data-ruby-level="4">たいけん</rt></ruby>ツアーの<ruby>様子<rt
+    data-ruby-level="3">ようす</rt></ruby>
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/08/K10011356001_1803081715_1803081720_01_05.jpg
+- text: <ruby>約<rt data-ruby-level="4">やく</rt></ruby>３０<ruby>年前<rt data-ruby-level="2">ねんまえ</rt></ruby>に<ruby>始<rt
+    data-ruby-level="3">はじ</rt></ruby>まった<ruby>地吹雪<rt data-ruby-level="8">じふぶき</rt></ruby><ruby>体験<rt
+    data-ruby-level="4">たいけん</rt></ruby>ツアーは、<ruby>今<rt data-ruby-level="2">いま</rt></ruby>やすっかり<ruby>定着<rt
+    data-ruby-level="3">ていちゃく</rt></ruby>し、<ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby><ruby>観光客<rt
+    data-ruby-level="4">かんこうきゃく</rt></ruby>にも<ruby>大人気<rt data-ruby-level="1">だいにんき</rt></ruby>。ツアーで<ruby>角巻<rt
+    data-ruby-level="6">かくま</rt></ruby>きを<ruby>身<rt data-ruby-level="3">み</rt></ruby>につけてもらったところ、<ruby>意外<rt
+    data-ruby-level="3">いがい</rt></ruby>な<ruby>反応<rt data-ruby-level="5">はんのう</rt></ruby>が。「もっとカラフルな<ruby>角巻<rt
+    data-ruby-level="6">かくま</rt></ruby>きがほしい！」「<ruby>飾<rt data-ruby-level="7">かざ</rt></ruby>りをつけて<ruby>派手<rt
+    data-ruby-level="6">はで</rt></ruby>にできない？」という<ruby>声<rt data-ruby-level="2">こえ</rt></ruby>が<ruby>次々<rt
+    data-ruby-level="3">つぎつぎ</rt></ruby>に<ruby>寄<rt data-ruby-level="5">よ</rt></ruby>せられたそうです。これが、<ruby>新<rt
+    data-ruby-level="2">あたら</rt></ruby>しい<ruby>角<rt data-ruby-level="2">つの</rt></ruby><ruby>巻<rt
+    data-ruby-level="6">ま</rt></ruby>き<ruby>作<rt data-ruby-level="2">づく</rt></ruby>りのヒントになりました。
+- title: <ruby>女子高生<rt data-ruby-level="2">じょしこうせい</rt></ruby>たちの<ruby>角巻<rt data-ruby-level="6">かくま</rt></ruby>き
+  text: デザインした<ruby>生徒<rt data-ruby-level="4">せいと</rt></ruby>たちは、<ruby>角巻<rt data-ruby-level="6">かくま</rt></ruby>きを<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>たこともないような<ruby>世代<rt data-ruby-level="3">せだい</rt></ruby>です。<ruby>角田<rt
+    data-ruby-level="2">かくた</rt></ruby>さんは、<ruby>知<rt data-ruby-level="2">し</rt></ruby>り<ruby>合<rt
+    data-ruby-level="2">あ</rt></ruby>いを<ruby>片<rt data-ruby-level="7">かた</rt></ruby>っ<ruby>端<rt
+    data-ruby-level="7">ぱし</rt></ruby>からあたって<ruby>家<rt data-ruby-level="2">いえ</rt></ruby>の<ruby>押<rt
+    data-ruby-level="7">お</rt></ruby>し<ruby>入<rt data-ruby-level="7">い</rt></ruby>れに<ruby>眠<rt
+    data-ruby-level="7">ねむ</rt></ruby>っている<ruby>角巻<rt data-ruby-level="6">かくま</rt></ruby>きを<ruby>集<rt
+    data-ruby-level="3">あつ</rt></ruby>めることから<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>めました。<br
+    /><br /><ruby>集<rt data-ruby-level="3">あつ</rt></ruby>まった<ruby>角巻<rt data-ruby-level="6">かくま</rt></ruby>きを３<ruby>年生<rt
+    data-ruby-level="1">ねんせい</rt></ruby>３８<ruby>人<rt data-ruby-level="1">にん</rt></ruby>の<ruby>生徒<rt
+    data-ruby-level="4">せいと</rt></ruby>が１０のグループに<ruby>分<rt data-ruby-level="2">わ</rt></ruby>かれ、<ruby>自由<rt
+    data-ruby-level="3">じゆう</rt></ruby>な<ruby>発想<rt data-ruby-level="3">はっそう</rt></ruby>でアレンジしていきました。<br
+    /><br /><ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>のファッションショーのテーマは、<ruby>青森<rt
+    data-ruby-level="1">あおもり</rt></ruby><ruby>県内<rt data-ruby-level="3">けんない</rt></ruby>の<ruby>観光<rt
+    data-ruby-level="4">かんこう</rt></ruby><ruby>名所<rt data-ruby-level="3">めいしょ</rt></ruby>や<ruby>名物<rt
+    data-ruby-level="3">めいぶつ</rt></ruby>。テーマに<ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせてオリジナルの<ruby>角巻<rt
+    data-ruby-level="6">かくま</rt></ruby>きを<ruby>作<rt data-ruby-level="2">つく</rt></ruby>っていったのです。
+- title: テーマ（１）「<ruby>五所川原<rt data-ruby-level="8">ごしょがわら</rt></ruby><ruby>立佞武多<rt
+    data-ruby-level="8">たちねぷた</rt></ruby><ruby>祭<rt data-ruby-level="3">まつ</rt></ruby>り」
+  text: <ruby>高<rt data-ruby-level="2">たか</rt></ruby>さ２０メートルを<ruby>超<rt data-ruby-level="7">こ</rt></ruby>える<ruby>勇壮<rt
+    data-ruby-level="7">ゆうそう</rt></ruby>な<ruby>立佞武多<rt data-ruby-level="8">たちねぷた</rt></ruby>が<ruby>市内<rt
+    data-ruby-level="2">しない</rt></ruby>を<ruby>練<rt data-ruby-level="3">ね</rt></ruby>り<ruby>歩<rt
+    data-ruby-level="3">ある</rt></ruby>く<ruby>津軽<rt data-ruby-level="7">つがる</rt></ruby><ruby>地方<rt
+    data-ruby-level="2">ちほう</rt></ruby>を<ruby>代表<rt data-ruby-level="3">だいひょう</rt></ruby>する<ruby>夏祭<rt
+    data-ruby-level="3">なつまつ</rt></ruby>りの<ruby>一<rt data-ruby-level="1">ひと</rt></ruby>つです。<ruby>生徒<rt
+    data-ruby-level="4">せいと</rt></ruby>たちは、デザインを<ruby>研究<rt data-ruby-level="3">けんきゅう</rt></ruby>するため、<ruby>五所川原市<rt
+    data-ruby-level="8">ごしょがわらし</rt></ruby>の<ruby>展示<rt data-ruby-level="6">てんじ</rt></ruby><ruby>施設<rt
+    data-ruby-level="7">しせつ</rt></ruby>まで<ruby>足<rt data-ruby-level="1">あし</rt></ruby>を<ruby>運<rt
+    data-ruby-level="3">はこ</rt></ruby>び、<ruby>祭<rt data-ruby-level="3">まつ</rt></ruby>りで<ruby>実際<rt
+    data-ruby-level="5">じっさい</rt></ruby>に<ruby>使<rt data-ruby-level="3">つか</rt></ruby>われた<ruby>山車<rt
+    data-ruby-level="8">だし</rt></ruby>を<ruby>見<rt data-ruby-level="2">み</rt></ruby>に<ruby>行<rt
+    data-ruby-level="2">い</rt></ruby>きました。<br /><br />その<ruby>中<rt data-ruby-level="1">なか</rt></ruby>で<ruby>最<rt
+    data-ruby-level="4">もっと</rt></ruby>も<ruby>印象<rt data-ruby-level="4">いんしょう</rt></ruby>に<ruby>残<rt
+    data-ruby-level="4">のこ</rt></ruby>った、<ruby>山車<rt data-ruby-level="8">だし</rt></ruby>の<ruby>燃<rt
+    data-ruby-level="5">も</rt></ruby>えさかる<ruby>炎<rt data-ruby-level="7">ほのお</rt></ruby>や<ruby>台座<rt
+    data-ruby-level="6">だいざ</rt></ruby>に<ruby>描<rt data-ruby-level="7">えが</rt></ruby>かれた<ruby>花<rt
+    data-ruby-level="1">はな</rt></ruby>などを<ruby>取<rt data-ruby-level="3">と</rt></ruby>り<ruby>入<rt
+    data-ruby-level="3">い</rt></ruby>れることを<ruby>決定<rt data-ruby-level="3">けってい</rt></ruby>。<ruby>赤<rt
+    data-ruby-level="1">あか</rt></ruby>や<ruby>黄色<rt data-ruby-level="2">きいろ</rt></ruby>、<ruby>紫<rt
+    data-ruby-level="7">むらさき</rt></ruby>といった<ruby>着物<rt data-ruby-level="3">きもの</rt></ruby>の<ruby>布<rt
+    data-ruby-level="5">ぬの</rt></ruby>きれ、フェルト、スパンコールなどを<ruby>使<rt data-ruby-level="3">つか</rt></ruby>って、<ruby>色鮮<rt
+    data-ruby-level="7">いろあざ</rt></ruby>やかで<ruby>豪華<rt data-ruby-level="7">ごうか</rt></ruby>な<ruby>角巻<rt
+    data-ruby-level="6">かくま</rt></ruby>きに<ruby>仕上<rt data-ruby-level="3">しあ</rt></ruby>げました。
+  textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/08/K10011356001_1803081655_1803081702_01_05.jpg
+- title: テーマ（２）「<ruby>青森<rt data-ruby-level="1">あおもり</rt></ruby>が<ruby>誇<rt data-ruby-level="7">ほこ</rt></ruby>る<ruby>温泉<rt
+    data-ruby-level="6">おんせん</rt></ruby>」
+  text: <ruby>白<rt data-ruby-level="1">しろ</rt></ruby>い<ruby>布<rt data-ruby-level="5">ぬの</rt></ruby>を<ruby>湯船<rt
+    data-ruby-level="3">ゆぶね</rt></ruby>からあふれる<ruby>湯<rt data-ruby-level="3">ゆ</rt></ruby>に<ruby>見立<rt
+    data-ruby-level="1">みた</rt></ruby>て、<ruby>背中<rt data-ruby-level="6">せなか</rt></ruby>には「ゆ」の<ruby>文字<rt
+    data-ruby-level="1">もじ</rt></ruby>。<ruby>湯煙<rt data-ruby-level="7">ゆけむり</rt></ruby>は<ruby>首元<rt
+    data-ruby-level="2">くびもと</rt></ruby>に<ruby>巻<rt data-ruby-level="6">ま</rt></ruby>く<ruby>灰色<rt
+    data-ruby-level="6">はいいろ</rt></ruby>のファーで<ruby>表現<rt data-ruby-level="5">ひょうげん</rt></ruby>しました。
+  textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/08/K10011356001_1803081654_1803081702_01_06.jpg
+- title: テーマ（３）「<ruby>津軽<rt data-ruby-level="7">つがる</rt></ruby>の<ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>と<ruby>星空<rt
+    data-ruby-level="2">ほしぞら</rt></ruby>」
+  text: <ruby>角巻<rt data-ruby-level="6">かくま</rt></ruby>きを<ruby>真<rt data-ruby-level="3">ま</rt></ruby>ん<ruby>中<rt
+    data-ruby-level="3">なか</rt></ruby>から<ruby>分<rt data-ruby-level="2">わ</rt></ruby>けて、<ruby>半分<rt
+    data-ruby-level="2">はんぶん</rt></ruby>は<ruby>白<rt data-ruby-level="1">しろ</rt></ruby>い<ruby>綿<rt
+    data-ruby-level="5">わた</rt></ruby>で<ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>の<ruby>世界<rt
+    data-ruby-level="3">せかい</rt></ruby>を<ruby>表現<rt data-ruby-level="5">ひょうげん</rt></ruby>。<ruby>残<rt
+    data-ruby-level="4">のこ</rt></ruby>りの<ruby>半分<rt data-ruby-level="2">はんぶん</rt></ruby>には、<ruby>銀色<rt
+    data-ruby-level="3">ぎんいろ</rt></ruby>の<ruby>糸<rt data-ruby-level="1">いと</rt></ruby>で、<ruby>冬<rt
+    data-ruby-level="2">ふゆ</rt></ruby>の<ruby>星座<rt data-ruby-level="6">せいざ</rt></ruby>も<ruby>大胆<rt
+    data-ruby-level="7">だいたん</rt></ruby>に<ruby>描<rt data-ruby-level="7">えが</rt></ruby>き、<ruby>上<rt
+    data-ruby-level="1">うえ</rt></ruby>からテーブルクロスをかぶせて<ruby>防水性<rt data-ruby-level="5">ぼうすいせい</rt></ruby>も<ruby>高<rt
+    data-ruby-level="2">たか</rt></ruby>めました。<ruby>参加<rt data-ruby-level="4">さんか</rt></ruby>した<ruby>女子<rt
+    data-ruby-level="1">じょし</rt></ruby><ruby>生徒<rt data-ruby-level="4">せいと</rt></ruby>は「ちょっと<ruby>工夫<rt
+    data-ruby-level="7">くふう</rt></ruby>を<ruby>加<rt data-ruby-level="4">くわ</rt></ruby>えるだけで、どの<ruby>年代<rt
+    data-ruby-level="3">ねんだい</rt></ruby>の<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>でも<ruby>着<rt
+    data-ruby-level="3">き</rt></ruby>ることができる。<ruby>同世代<rt data-ruby-level="3">どうせだい</rt></ruby>の<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>や<ruby>海外<rt data-ruby-level="2">かいがい</rt></ruby>の<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>にも、もっと<ruby>魅力<rt data-ruby-level="7">みりょく</rt></ruby>を<ruby>知<rt
+    data-ruby-level="2">し</rt></ruby>ってほしい」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。
+  textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/08/K10011356001_1803081655_1803081702_01_07.jpg
+- title: <ruby>始<rt data-ruby-level="3">はじ</rt></ruby>まりは<ruby>冗談<rt data-ruby-level="7">じょうだん</rt></ruby><ruby>半分<rt
+    data-ruby-level="2">はんぶん</rt></ruby> でも<ruby>夢<rt data-ruby-level="5">ゆめ</rt></ruby>は<ruby>大<rt
+    data-ruby-level="1">おお</rt></ruby>きく…
+  text: <ruby>高校生<rt data-ruby-level="2">こうこうせい</rt></ruby>たちとタッグを<ruby>組<rt data-ruby-level="2">く</rt></ruby>む<ruby>角田<rt
+    data-ruby-level="2">かくた</rt></ruby>さん。<ruby>想像<rt data-ruby-level="5">そうぞう</rt></ruby>をはるかに<ruby>超<rt
+    data-ruby-level="7">こ</rt></ruby>えた<ruby>作品<rt data-ruby-level="3">さくひん</rt></ruby>の<ruby>数々<rt
+    data-ruby-level="2">かずかず</rt></ruby>に「<ruby>冗談<rt data-ruby-level="7">じょうだん</rt></ruby><ruby>半分<rt
+    data-ruby-level="2">はんぶん</rt></ruby>で<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>めたが、まさか<ruby>角巻<rt
+    data-ruby-level="6">かくま</rt></ruby>きでこんなことができるとは<ruby>思<rt data-ruby-level="2">おも</rt></ruby>わなかった。デザインも<ruby>仕上<rt
+    data-ruby-level="3">しあ</rt></ruby>がりもだんだんよくなっている」と<ruby>手応<rt data-ruby-level="8">てごた</rt></ruby>えを<ruby>感<rt
+    data-ruby-level="3">かん</rt></ruby>じています。<br /><br /><ruby>角巻<rt data-ruby-level="6">かくま</rt></ruby>き<ruby>復権<rt
+    data-ruby-level="6">ふっけん</rt></ruby>へーーー<ruby>角田<rt data-ruby-level="2">かくた</rt></ruby>さんの<ruby>次<rt
+    data-ruby-level="3">つぎ</rt></ruby>の<ruby>目標<rt data-ruby-level="4">もくひょう</rt></ruby>は、<ruby>角巻<rt
+    data-ruby-level="6">かくま</rt></ruby>きがファッション<ruby>誌<rt data-ruby-level="6">し</rt></ruby>の<ruby>誌面<rt
+    data-ruby-level="6">しめん</rt></ruby>を<ruby>飾<rt data-ruby-level="7">かざ</rt></ruby>ることだそうです。そんな<ruby>日<rt
+    data-ruby-level="1">ひ</rt></ruby>が<ruby>必<rt data-ruby-level="4">かなら</rt></ruby>ず<ruby>来<rt
+    data-ruby-level="2">く</rt></ruby>ると<ruby>信<rt data-ruby-level="4">しん</rt></ruby>じながら、<ruby>今後<rt
+    data-ruby-level="2">こんご</rt></ruby>も<ruby>高校生<rt data-ruby-level="2">こうこうせい</rt></ruby>たちと<ruby>新<rt
+    data-ruby-level="2">あたら</rt></ruby>しい<ruby>角<rt data-ruby-level="2">つの</rt></ruby><ruby>巻<rt
+    data-ruby-level="6">ま</rt></ruby>き<ruby>作<rt data-ruby-level="2">づく</rt></ruby>りに<ruby>取<rt
+    data-ruby-level="3">と</rt></ruby>り<ruby>組<rt data-ruby-level="3">く</rt></ruby>んでいくつもりです。<br
+    /><br /><ruby>津軽<rt data-ruby-level="7">つがる</rt></ruby>の<ruby>厳<rt data-ruby-level="6">きび</rt></ruby>しい<ruby>寒<rt
+    data-ruby-level="3">さむ</rt></ruby>さから<ruby>女性<rt data-ruby-level="5">じょせい</rt></ruby>を<ruby>守<rt
+    data-ruby-level="3">まも</rt></ruby>ってきた<ruby>角巻<rt data-ruby-level="6">かくま</rt></ruby>きが、<ruby>高校生<rt
+    data-ruby-level="2">こうこうせい</rt></ruby>の<ruby>豊<rt data-ruby-level="5">ゆた</rt></ruby>かな<ruby>発想<rt
+    data-ruby-level="3">はっそう</rt></ruby>で<ruby>生<rt data-ruby-level="4">う</rt></ruby>まれ<ruby>変<rt
+    data-ruby-level="4">か</rt></ruby>わる！<ruby>取材<rt data-ruby-level="4">しゅざい</rt></ruby>した<ruby>私<rt
+    data-ruby-level="8">わたし</rt></ruby>も<ruby>思<rt data-ruby-level="2">おも</rt></ruby>わず１<ruby>着<rt
+    data-ruby-level="3">ちゃく</rt></ruby><ruby>欲<rt data-ruby-level="7">ほ</rt></ruby>しくなりました。
+source_url: https://www3.nhk.or.jp/news/html/20180308/k10011356001000.html
+related_news:
+- title: <ruby>銃<rt data-ruby-level="7">じゅう</rt></ruby><ruby>乱射<rt data-ruby-level="6">らんしゃ</rt></ruby><ruby>事件<rt
+    data-ruby-level="5">じけん</rt></ruby>の<ruby>高校<rt data-ruby-level="2">こうこう</rt></ruby>の<ruby>生徒<rt
+    data-ruby-level="4">せいと</rt></ruby>たちが<ruby>集会<rt data-ruby-level="3">しゅうかい</rt></ruby>
+    <ruby>銃規制<rt data-ruby-level="7">じゅうきせい</rt></ruby>の<ruby>強化<rt data-ruby-level="3">きょうか</rt></ruby><ruby>訴<rt
+    data-ruby-level="7">うった</rt></ruby>える
+  url: https://newswebeasy.github.io/news/web/2018/02/22/銃乱射事件の高校の生徒たちが集会-銃規制の強化訴える
+- title: <ruby>旅立<rt data-ruby-level="3">たびだ</rt></ruby>ちの<ruby>季節<rt data-ruby-level="4">きせつ</rt></ruby>
+    <ruby>学校<rt data-ruby-level="1">がっこう</rt></ruby>の<ruby>黒板<rt data-ruby-level="3">こくばん</rt></ruby>を<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>てみたら
+  url: https://newswebeasy.github.io/news/web/2018/03/02/旅立ちの季節-学校の黒板を見てみたら
+...
