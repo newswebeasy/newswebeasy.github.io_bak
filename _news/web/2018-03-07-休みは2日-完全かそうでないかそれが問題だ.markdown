@@ -1,0 +1,238 @@
+---
+layout: web_news
+categories: web
+newsid: k10011355001000
+title: 休みは２日 完全かそうでないか、それが問題だ。
+title_with_ruby: <ruby>休<rt data-ruby-level="1">やす</rt></ruby>みは２<ruby>日<rt data-ruby-level="1">にち</rt></ruby>
+  <ruby>完全<rt data-ruby-level="4">かんぜん</rt></ruby>かそうでないか、それが<ruby>問題<rt data-ruby-level="3">もんだい</rt></ruby>だ。
+last_modified_at: '2018-03-07T20:24:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>03<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>07<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 20<ruby>時<rt data-ruby-level="2">じ</rt></ruby>24<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ３月から始まった大学生の就職活動。学生たちに向けたあるつぶやきが、今、ネット上で注目されています。「この違いに就活生は早く気付くべきだ。週休２日と完全週休２日」（ネットワーク報道部記者
+  戸田有紀 管野彰彦）
+summary: ３<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>から<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>まった<ruby>大学生<rt
+  data-ruby-level="1">だいがくせい</rt></ruby>の<ruby>就職<rt data-ruby-level="6">しゅうしょく</rt></ruby><ruby>活動<rt
+  data-ruby-level="3">かつどう</rt></ruby>。<ruby>学生<rt data-ruby-level="1">がくせい</rt></ruby>たちに<ruby>向<rt
+  data-ruby-level="3">む</rt></ruby>けたあるつぶやきが、<ruby>今<rt data-ruby-level="2">いま</rt></ruby>、ネット<ruby>上<rt
+  data-ruby-level="1">じょう</rt></ruby>で<ruby>注目<rt data-ruby-level="3">ちゅうもく</rt></ruby>されています。「この<ruby>違<rt
+  data-ruby-level="7">ちが</rt></ruby>いに<ruby>就活<rt data-ruby-level="6">しゅうかつ</rt></ruby><ruby>生<rt
+  data-ruby-level="1">せい</rt></ruby>は<ruby>早<rt data-ruby-level="1">はや</rt></ruby>く<ruby>気付<rt
+  data-ruby-level="4">きづ</rt></ruby>くべきだ。<ruby>週休<rt data-ruby-level="2">しゅうきゅう</rt></ruby>２<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>と<ruby>完全<rt data-ruby-level="4">かんぜん</rt></ruby><ruby>週休<rt
+  data-ruby-level="2">しゅうきゅう</rt></ruby>２<ruby>日<rt data-ruby-level="1">にち</rt></ruby>」（ネットワーク<ruby>報道部<rt
+  data-ruby-level="5">ほうどうぶ</rt></ruby><ruby>記者<rt data-ruby-level="3">きしゃ</rt></ruby>
+  <ruby>戸田<rt data-ruby-level="2">とだ</rt></ruby><ruby>有紀<rt data-ruby-level="8">ゆき</rt></ruby>
+  <ruby>管野<rt data-ruby-level="4">かんの</rt></ruby><ruby>彰彦<rt data-ruby-level="8">あきひこ</rt></ruby>）
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/07/K10011355001_1803072004_1803072006_01_02.jpg
+body:
+- title: <ruby>目<rt data-ruby-level="1">め</rt></ruby>からうろこ<ruby>相次<rt data-ruby-level="3">あいつ</rt></ruby>ぐ
+  text: このメッセージは３<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>３<ruby>日<rt data-ruby-level="1">にち</rt></ruby>にツイッターに<ruby>投稿<rt
+    data-ruby-level="7">とうこう</rt></ruby>されました。<br /><br /><ruby>画面<rt data-ruby-level="3">がめん</rt></ruby>にはメッセージに<ruby>加<rt
+    data-ruby-level="4">くわ</rt></ruby>えて、<ruby>女性<rt data-ruby-level="5">じょせい</rt></ruby>のキャラクターが、<br
+    />「<ruby>週休<rt data-ruby-level="2">しゅうきゅう</rt></ruby>２<ruby>日<rt data-ruby-level="1">にち</rt></ruby>」は、<span
+    class="pattern_1"><ruby>月<rt data-ruby-level="1">つき</rt></ruby>に１<ruby>回以上<rt
+    data-ruby-level="4">かいいじょう</rt></ruby><ruby>週<rt data-ruby-level="2">しゅう</rt></ruby>２<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>の<ruby>休<rt data-ruby-level="1">やす</rt></ruby>みがある</span>こと、<br
+    />「<ruby>完全<rt data-ruby-level="4">かんぜん</rt></ruby><ruby>週休<rt data-ruby-level="2">しゅうきゅう</rt></ruby>２<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>」は、<span class="pattern_1"><ruby>毎週<rt data-ruby-level="2">まいしゅう</rt></ruby>２<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>の<ruby>休<rt data-ruby-level="1">やす</rt></ruby>みがある</span>ことと、<br
+    />その<ruby>違<rt data-ruby-level="7">ちが</rt></ruby>いを<ruby>説明<rt data-ruby-level="4">せつめい</rt></ruby>した<ruby>画像<rt
+    data-ruby-level="5">がぞう</rt></ruby>も<ruby>一緒<rt data-ruby-level="7">いっしょ</rt></ruby>に<ruby>投稿<rt
+    data-ruby-level="7">とうこう</rt></ruby>されています。
+  textPos: top
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/07/K10011355001_1803072004_1803072006_01_04.jpg
+- text: ツイートを<ruby>見<rt data-ruby-level="1">み</rt></ruby>た<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>からは“<ruby>目<rt
+    data-ruby-level="1">め</rt></ruby>からうろこ”のメッセージが<ruby>続々<rt data-ruby-level="4">ぞくぞく</rt></ruby>。<br
+    /><br />「<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きすぎる<ruby>違<rt data-ruby-level="7">ちが</rt></ruby>い。<ruby>気付<rt
+    data-ruby-level="4">きづ</rt></ruby>かないと<ruby>大変<rt data-ruby-level="4">たいへん</rt></ruby>だね」<br
+    />「<ruby>確<rt data-ruby-level="5">たし</rt></ruby>かに<ruby>就活<rt data-ruby-level="6">しゅうかつ</rt></ruby>の<ruby>時<rt
+    data-ruby-level="2">とき</rt></ruby>には<ruby>知<rt data-ruby-level="2">し</rt></ruby>っておいてほしい<ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby>ですね」<br />「<ruby>週休<rt data-ruby-level="2">しゅうきゅう</rt></ruby>２<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>は<ruby>素直<rt data-ruby-level="7">すなお</rt></ruby>に<ruby>読<rt
+    data-ruby-level="2">よ</rt></ruby>めば<ruby>週<rt data-ruby-level="2">しゅう</rt></ruby>に２<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby><ruby>休<rt data-ruby-level="1">やす</rt></ruby>みがあるとしか<ruby>思<rt
+    data-ruby-level="2">おも</rt></ruby>えない」<br />「<ruby>勘違<rt data-ruby-level="7">かんちが</rt></ruby>いしているかた、<ruby>多数<rt
+    data-ruby-level="2">たすう</rt></ruby>ですね」<br />「タチの<ruby>悪<rt data-ruby-level="3">わる</rt></ruby>い<ruby>詐欺<rt
+    data-ruby-level="7">さぎ</rt></ruby>みたい」
+  textPos: bottom
+  caption: <ruby>投稿<rt data-ruby-level="7">とうこう</rt></ruby>に<ruby>引用<rt data-ruby-level="2">いんよう</rt></ruby>されていた<ruby>画像<rt
+    data-ruby-level="5">がぞう</rt></ruby>
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/07/K10011355001_1803072004_1803072006_01_03.jpg
+- title: <ruby>転職者<rt data-ruby-level="5">てんしょくしゃ</rt></ruby>も<ruby>実<rt data-ruby-level="3">じつ</rt></ruby>は…
+  text: <ruby>就職<rt data-ruby-level="6">しゅうしょく</rt></ruby><ruby>活動<rt data-ruby-level="3">かつどう</rt></ruby>でよく<ruby>目<rt
+    data-ruby-level="1">め</rt></ruby>にするこうした<ruby>用語<rt data-ruby-level="2">ようご</rt></ruby>は<ruby>実際<rt
+    data-ruby-level="5">じっさい</rt></ruby>は<ruby>正確<rt data-ruby-level="5">せいかく</rt></ruby>に<ruby>理解<rt
+    data-ruby-level="5">りかい</rt></ruby>されていないのではないか。まずはツイートで<ruby>引用<rt data-ruby-level="2">いんよう</rt></ruby>された<ruby>画像<rt
+    data-ruby-level="5">がぞう</rt></ruby>に<ruby>会社名<rt data-ruby-level="2">かいしゃめい</rt></ruby>が<ruby>記<rt
+    data-ruby-level="2">しる</rt></ruby>されていたので<ruby>問<rt data-ruby-level="3">と</rt></ruby>い<ruby>合<rt
+    data-ruby-level="3">あ</rt></ruby>わせてみました。<br /><br />すると「それは<ruby>私<rt data-ruby-level="6">わたくし</rt></ruby>どもが<ruby>制作<rt
+    data-ruby-level="5">せいさく</rt></ruby>した<ruby>動画<rt data-ruby-level="3">どうが</rt></ruby>の<ruby>一部<rt
+    data-ruby-level="3">いちぶ</rt></ruby>です」との<ruby>答<rt data-ruby-level="2">こた</rt></ruby>え。
+- text: <ruby>転職<rt data-ruby-level="5">てんしょく</rt></ruby><ruby>支援<rt data-ruby-level="7">しえん</rt></ruby>のサイトを<ruby>運営<rt
+    data-ruby-level="5">うんえい</rt></ruby>する<ruby>会社<rt data-ruby-level="2">かいしゃ</rt></ruby>「エン・ジャパン」は、<ruby>転職者<rt
+    data-ruby-level="5">てんしょくしゃ</rt></ruby>でも、<ruby>求人票<rt data-ruby-level="4">きゅうじんひょう</rt></ruby>にある<ruby>基本的<rt
+    data-ruby-level="5">きほんてき</rt></ruby>な<ruby>用語<rt data-ruby-level="2">ようご</rt></ruby>をきちんと<ruby>理解<rt
+    data-ruby-level="5">りかい</rt></ruby>していないケースが<ruby>少<rt data-ruby-level="2">すく</rt></ruby>なくないため、<ruby>自社<rt
+    data-ruby-level="2">じしゃ</rt></ruby>のサイトなどに<ruby>特集<rt data-ruby-level="4">とくしゅう</rt></ruby><ruby>記事<rt
+    data-ruby-level="3">きじ</rt></ruby>や<ruby>解説<rt data-ruby-level="5">かいせつ</rt></ruby><ruby>動画<rt
+    data-ruby-level="3">どうが</rt></ruby>を<ruby>掲載<rt data-ruby-level="7">けいさい</rt></ruby>しているほか、その<ruby>一部<rt
+    data-ruby-level="3">いちぶ</rt></ruby>を<ruby>都内<rt data-ruby-level="3">とない</rt></ruby>の<ruby>地下鉄<rt
+    data-ruby-level="3">ちかてつ</rt></ruby>やＪＲの<ruby>車内<rt data-ruby-level="2">しゃない</rt></ruby>で<ruby>広告<rt
+    data-ruby-level="4">こうこく</rt></ruby>として<ruby>流<rt data-ruby-level="3">なが</rt></ruby>したそうです。<br
+    /><br />テーマは<ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby><ruby>話題<rt data-ruby-level="3">わだい</rt></ruby>になった「<ruby>完全<rt
+    data-ruby-level="4">かんぜん</rt></ruby><ruby>週休<rt data-ruby-level="2">しゅうきゅう</rt></ruby>２<ruby>日制<rt
+    data-ruby-level="5">かせい</rt></ruby>と<ruby>週休<rt data-ruby-level="2">しゅうきゅう</rt></ruby>２<ruby>日制<rt
+    data-ruby-level="5">かせい</rt></ruby>の<ruby>違<rt data-ruby-level="7">ちが</rt></ruby>い」のほか、「<ruby>実働<rt
+    data-ruby-level="4">じつどう</rt></ruby>８<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>とは？」や、「<ruby>賞与<rt
+    data-ruby-level="7">しょうよ</rt></ruby>とは？」などなど。<ruby>若<rt data-ruby-level="6">わか</rt></ruby>い<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>などから、「<ruby>教<rt data-ruby-level="2">おし</rt></ruby>えてもらってよかった」という<ruby>声<rt
+    data-ruby-level="2">こえ</rt></ruby>が<ruby>寄<rt data-ruby-level="5">よ</rt></ruby>せられているそうです。
+- title: <ruby>意外<rt data-ruby-level="3">いがい</rt></ruby>と<ruby>知<rt data-ruby-level="2">し</rt></ruby>らない<ruby>求人<rt
+    data-ruby-level="4">きゅうじん</rt></ruby><ruby>用語<rt data-ruby-level="2">ようご</rt></ruby>のキホン
+  text: ３<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>から<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>まった<ruby>大学生<rt
+    data-ruby-level="1">だいがくせい</rt></ruby>の<ruby>就職<rt data-ruby-level="6">しゅうしょく</rt></ruby><ruby>活動<rt
+    data-ruby-level="3">かつどう</rt></ruby>。こうした<ruby>基礎的<rt data-ruby-level="7">きそてき</rt></ruby>な<ruby>用語<rt
+    data-ruby-level="2">ようご</rt></ruby>を<ruby>改<rt data-ruby-level="4">あらた</rt></ruby>めて<ruby>確認<rt
+    data-ruby-level="7">かくにん</rt></ruby>しておこうと<ruby>労働<rt data-ruby-level="4">ろうどう</rt></ruby><ruby>問題<rt
+    data-ruby-level="3">もんだい</rt></ruby>に<ruby>詳<rt data-ruby-level="7">くわ</rt></ruby>しい<ruby>特定<rt
+    data-ruby-level="4">とくてい</rt></ruby><ruby>社会保険<rt data-ruby-level="5">しゃかいほけん</rt></ruby><ruby>労務士<rt
+    data-ruby-level="5">ろうむし</rt></ruby>の<ruby>飯野<rt data-ruby-level="8">いいの</rt></ruby><ruby>正明<rt
+    data-ruby-level="2">まさあき</rt></ruby>さんに<ruby>聞<rt data-ruby-level="2">き</rt></ruby>きました。
+  textPos: top
+  caption: <ruby>飯野<rt data-ruby-level="8">いいの</rt></ruby><ruby>正明<rt data-ruby-level="2">まさあき</rt></ruby>さん
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/07/K10011355001_1803071935_1803071939_01_05.jpg
+- title: <ruby>完全<rt data-ruby-level="4">かんぜん</rt></ruby><ruby>週休<rt data-ruby-level="2">しゅうきゅう</rt></ruby>２<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>と<ruby>週休<rt data-ruby-level="2">しゅうきゅう</rt></ruby>２<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>
+  text: まず「<ruby>完全<rt data-ruby-level="4">かんぜん</rt></ruby><ruby>週休<rt data-ruby-level="2">しゅうきゅう</rt></ruby>２<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>」と「<ruby>週休<rt data-ruby-level="2">しゅうきゅう</rt></ruby>２<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>」についてはどちらも<ruby>求人<rt data-ruby-level="4">きゅうじん</rt></ruby><ruby>広告<rt
+    data-ruby-level="4">こうこく</rt></ruby>などで<ruby>使<rt data-ruby-level="3">つか</rt></ruby>われている<ruby>用語<rt
+    data-ruby-level="2">ようご</rt></ruby>で「<ruby>少<rt data-ruby-level="2">すこ</rt></ruby>し<ruby>補足<rt
+    data-ruby-level="6">ほそく</rt></ruby>が<ruby>必要<rt data-ruby-level="4">ひつよう</rt></ruby>」とのこと。<br
+    /><br /><ruby>労働<rt data-ruby-level="4">ろうどう</rt></ruby><ruby>基準法<rt data-ruby-level="5">きじゅんほう</rt></ruby>で、<ruby>労働者<rt
+    data-ruby-level="4">ろうどうしゃ</rt></ruby>の<ruby>休日<rt data-ruby-level="1">きゅうじつ</rt></ruby>については「<ruby>毎週<rt
+    data-ruby-level="2">まいしゅう</rt></ruby><ruby>少<rt data-ruby-level="2">すく</rt></ruby>なくとも１<ruby>回<rt
+    data-ruby-level="2">かい</rt></ruby>の<ruby>休日<rt data-ruby-level="1">きゅうじつ</rt></ruby>」、あるいは「４<ruby>週間<rt
+    data-ruby-level="2">しゅうかん</rt></ruby>で４<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>以上<rt
+    data-ruby-level="4">いじょう</rt></ruby>の<ruby>休日<rt data-ruby-level="1">きゅうじつ</rt></ruby>」を<ruby>与<rt
+    data-ruby-level="7">あた</rt></ruby>えるよう<ruby>定<rt data-ruby-level="3">さだ</rt></ruby>められています。<br
+    /><br /><ruby>同時<rt data-ruby-level="2">どうじ</rt></ruby>に「１<ruby>週間<rt data-ruby-level="2">しゅうかん</rt></ruby>に４０<ruby>時間<rt
+    data-ruby-level="2">じかん</rt></ruby>を<ruby>超<rt data-ruby-level="7">こ</rt></ruby>えて<ruby>労働<rt
+    data-ruby-level="4">ろうどう</rt></ruby>させてはならない」とも<ruby>定<rt data-ruby-level="3">さだ</rt></ruby>められています。<br
+    /><br /><ruby>多<rt data-ruby-level="2">おお</rt></ruby>くの<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>は１<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>の<ruby>所定<rt data-ruby-level="3">しょてい</rt></ruby><ruby>労働<rt
+    data-ruby-level="4">ろうどう</rt></ruby><ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>を８<ruby>時間<rt
+    data-ruby-level="2">じかん</rt></ruby>と<ruby>定<rt data-ruby-level="3">さだ</rt></ruby>めているため、１<ruby>週間<rt
+    data-ruby-level="2">しゅうかん</rt></ruby>のうち５<ruby>日間<rt data-ruby-level="2">にちかん</rt></ruby>が<ruby>仕事<rt
+    data-ruby-level="3">しごと</rt></ruby>で、２<ruby>日<rt data-ruby-level="1">にち</rt></ruby>が<ruby>休日<rt
+    data-ruby-level="1">きゅうじつ</rt></ruby>としている<ruby>会社<rt data-ruby-level="2">かいしゃ</rt></ruby>が<ruby>多<rt
+    data-ruby-level="2">おお</rt></ruby>いのが<ruby>実情<rt data-ruby-level="5">じつじょう</rt></ruby>だということです。<br
+    /><br /><ruby>完全<rt data-ruby-level="4">かんぜん</rt></ruby><ruby>週休<rt data-ruby-level="2">しゅうきゅう</rt></ruby>２<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>でも<ruby>休日<rt data-ruby-level="1">きゅうじつ</rt></ruby>が<ruby>土日<rt
+    data-ruby-level="1">どにち</rt></ruby>と<ruby>決<rt data-ruby-level="3">き</rt></ruby>まっているわけではなく、<ruby>会社<rt
+    data-ruby-level="2">かいしゃ</rt></ruby>によって「<ruby>木曜<rt data-ruby-level="2">もくよう</rt></ruby>と<ruby>日曜<rt
+    data-ruby-level="2">にちよう</rt></ruby>」や「<ruby>月曜<rt data-ruby-level="2">げつよう</rt></ruby>と<ruby>火曜<rt
+    data-ruby-level="2">かよう</rt></ruby>」などさまざまです。また、「<ruby>週休<rt data-ruby-level="2">しゅうきゅう</rt></ruby>２<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>」の<ruby>場合<rt data-ruby-level="2">ばあい</rt></ruby>、１<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>の<ruby>労働<rt data-ruby-level="4">ろうどう</rt></ruby><ruby>時間<rt
+    data-ruby-level="2">じかん</rt></ruby>を<ruby>短<rt data-ruby-level="3">みじか</rt></ruby>くして<ruby>週<rt
+    data-ruby-level="2">しゅう</rt></ruby>６<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>勤務<rt
+    data-ruby-level="6">きんむ</rt></ruby>するなどのケースがあるそうです。
+- title: <ruby>法<rt data-ruby-level="4">ほう</rt></ruby><ruby>定休日<rt data-ruby-level="3">ていきゅうび</rt></ruby>と<ruby>法定外<rt
+    data-ruby-level="4">ほうていがい</rt></ruby><ruby>休日<rt data-ruby-level="1">きゅうじつ</rt></ruby>
+  text: この２つの<ruby>違<rt data-ruby-level="7">ちが</rt></ruby>いも<ruby>重要<rt data-ruby-level="4">じゅうよう</rt></ruby>です。<br
+    /><br /><ruby>法<rt data-ruby-level="4">ほう</rt></ruby><ruby>定休日<rt data-ruby-level="3">ていきゅうび</rt></ruby>は、<ruby>週休<rt
+    data-ruby-level="2">しゅうきゅう</rt></ruby>２<ruby>日制<rt data-ruby-level="5">かせい</rt></ruby>のところでも<ruby>説明<rt
+    data-ruby-level="4">せつめい</rt></ruby>した、<ruby>法律<rt data-ruby-level="6">ほうりつ</rt></ruby>で<ruby>決<rt
+    data-ruby-level="3">き</rt></ruby>められた「<ruby>週<rt data-ruby-level="2">しゅう</rt></ruby>に１<ruby>度<rt
+    data-ruby-level="3">ど</rt></ruby>の<ruby>休日<rt data-ruby-level="1">きゅうじつ</rt></ruby>」のこと。<br
+    /><br /><ruby>法定外<rt data-ruby-level="4">ほうていがい</rt></ruby><ruby>休日<rt data-ruby-level="1">きゅうじつ</rt></ruby>は、それ<ruby>以外<rt
+    data-ruby-level="4">いがい</rt></ruby>で<ruby>会社<rt data-ruby-level="2">かいしゃ</rt></ruby><ruby>側<rt
+    data-ruby-level="4">がわ</rt></ruby>が<ruby>定<rt data-ruby-level="3">さだ</rt></ruby>めた<ruby>休日<rt
+    data-ruby-level="1">きゅうじつ</rt></ruby>です。<br /><br /><ruby>大<rt data-ruby-level="1">おお</rt></ruby>きな<ruby>違<rt
+    data-ruby-level="7">ちが</rt></ruby>いはこの<ruby>日<rt data-ruby-level="1">ひ</rt></ruby>に<ruby>働<rt
+    data-ruby-level="4">はたら</rt></ruby>いた<ruby>場合<rt data-ruby-level="2">ばあい</rt></ruby>の<ruby>対応<rt
+    data-ruby-level="5">たいおう</rt></ruby>。<ruby>法<rt data-ruby-level="4">ほう</rt></ruby><ruby>定休日<rt
+    data-ruby-level="3">ていきゅうび</rt></ruby>に<ruby>働<rt data-ruby-level="4">はたら</rt></ruby>くと、<ruby>会社<rt
+    data-ruby-level="2">かいしゃ</rt></ruby>は「<ruby>割増<rt data-ruby-level="6">わりまし</rt></ruby><ruby>賃金<rt
+    data-ruby-level="6">ちんぎん</rt></ruby>」を<ruby>支払<rt data-ruby-level="7">しはら</rt></ruby>わなければなりません。<br
+    /><br /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>、<ruby>法定外<rt data-ruby-level="4">ほうていがい</rt></ruby><ruby>休日<rt
+    data-ruby-level="1">きゅうじつ</rt></ruby>は<ruby>法律上<rt data-ruby-level="6">ほうりつじょう</rt></ruby>は<ruby>割増<rt
+    data-ruby-level="6">わりまし</rt></ruby><ruby>賃金<rt data-ruby-level="6">ちんぎん</rt></ruby>を<ruby>支払<rt
+    data-ruby-level="7">しはら</rt></ruby>う<ruby>義務<rt data-ruby-level="5">ぎむ</rt></ruby>はありません。ただ、<ruby>労働<rt
+    data-ruby-level="4">ろうどう</rt></ruby><ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>が<ruby>週<rt
+    data-ruby-level="2">しゅう</rt></ruby>４０<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>を<ruby>超<rt
+    data-ruby-level="7">こ</rt></ruby>えた<ruby>場合<rt data-ruby-level="2">ばあい</rt></ruby>、<ruby>時間外<rt
+    data-ruby-level="2">じかんがい</rt></ruby><ruby>労働<rt data-ruby-level="4">ろうどう</rt></ruby>の<ruby>割増<rt
+    data-ruby-level="6">わりまし</rt></ruby><ruby>賃金<rt data-ruby-level="6">ちんぎん</rt></ruby>が<ruby>支払<rt
+    data-ruby-level="7">しはら</rt></ruby>われるということです。
+- title: <ruby>賞与<rt data-ruby-level="7">しょうよ</rt></ruby>
+  text: <ruby>求人<rt data-ruby-level="4">きゅうじん</rt></ruby><ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>に「<ruby>賞与<rt
+    data-ruby-level="7">しょうよ</rt></ruby>は<ruby>年<rt data-ruby-level="1">とし</rt></ruby>に２<ruby>回<rt
+    data-ruby-level="2">かい</rt></ruby>」などと<ruby>書<rt data-ruby-level="2">か</rt></ruby>いてあっても、<ruby>必<rt
+    data-ruby-level="4">かなら</rt></ruby>ずもらえるわけではありません。<ruby>法律<rt data-ruby-level="6">ほうりつ</rt></ruby>で<ruby>定<rt
+    data-ruby-level="3">さだ</rt></ruby>められているものではないからです。<ruby>就業<rt data-ruby-level="6">しゅうぎょう</rt></ruby><ruby>規則<rt
+    data-ruby-level="5">きそく</rt></ruby>の<ruby>給与<rt data-ruby-level="7">きゅうよ</rt></ruby><ruby>規定<rt
+    data-ruby-level="5">きてい</rt></ruby>で、「<ruby>会社<rt data-ruby-level="2">かいしゃ</rt></ruby>の<ruby>業績<rt
+    data-ruby-level="5">ぎょうせき</rt></ruby>によっては<ruby>支払<rt data-ruby-level="7">しはら</rt></ruby>わないことがある」などと<ruby>定<rt
+    data-ruby-level="3">さだ</rt></ruby>めているところも<ruby>多<rt data-ruby-level="2">おお</rt></ruby>いそうです。
+- title: <ruby>実働<rt data-ruby-level="4">じつどう</rt></ruby>８<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>
+  text: これは<ruby>休憩<rt data-ruby-level="7">きゅうけい</rt></ruby><ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>を<ruby>除<rt
+    data-ruby-level="6">のぞ</rt></ruby>いた<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>です。<ruby>勤務<rt
+    data-ruby-level="6">きんむ</rt></ruby><ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>が「<ruby>午前<rt
+    data-ruby-level="2">ごぜん</rt></ruby>９<ruby>時<rt data-ruby-level="2">じ</rt></ruby>～<ruby>午後<rt
+    data-ruby-level="2">ごご</rt></ruby>６<ruby>時<rt data-ruby-level="2">じ</rt></ruby>」で、<ruby>休憩<rt
+    data-ruby-level="7">きゅうけい</rt></ruby><ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>が１<ruby>時間<rt
+    data-ruby-level="2">じかん</rt></ruby>の<ruby>場合<rt data-ruby-level="2">ばあい</rt></ruby>は、８<ruby>時間<rt
+    data-ruby-level="2">じかん</rt></ruby>が<ruby>実働時間<rt data-ruby-level="4">じつどうじかん</rt></ruby>となります。なぜ８<ruby>時間<rt
+    data-ruby-level="2">じかん</rt></ruby>とする<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>が<ruby>多<rt
+    data-ruby-level="2">おお</rt></ruby>いのかというと、<ruby>労働<rt data-ruby-level="4">ろうどう</rt></ruby><ruby>基準法<rt
+    data-ruby-level="5">きじゅんほう</rt></ruby>で「<ruby>労働<rt data-ruby-level="4">ろうどう</rt></ruby><ruby>時間<rt
+    data-ruby-level="2">じかん</rt></ruby>が<ruby>休憩<rt data-ruby-level="7">きゅうけい</rt></ruby><ruby>時間<rt
+    data-ruby-level="2">じかん</rt></ruby>を<ruby>除<rt data-ruby-level="6">のぞ</rt></ruby>いて１<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>につき８<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>を<ruby>超<rt
+    data-ruby-level="7">こ</rt></ruby>えてはならない」とされているからです。
+- title: <ruby>求人票<rt data-ruby-level="4">きゅうじんひょう</rt></ruby>から<ruby>見<rt data-ruby-level="1">み</rt></ruby>えてくること
+  text: こうして<ruby>見<rt data-ruby-level="1">み</rt></ruby>ると<ruby>知<rt data-ruby-level="2">し</rt></ruby>っているようで<ruby>知<rt
+    data-ruby-level="2">し</rt></ruby>らない<ruby>求人<rt data-ruby-level="4">きゅうじん</rt></ruby><ruby>用語<rt
+    data-ruby-level="2">ようご</rt></ruby>は、<ruby>案外<rt data-ruby-level="4">あんがい</rt></ruby><ruby>多<rt
+    data-ruby-level="2">おお</rt></ruby>いのかも<ruby>知<rt data-ruby-level="2">し</rt></ruby>れません。<br
+    /><br />ちなみに<ruby>前述<rt data-ruby-level="5">ぜんじゅつ</rt></ruby>の<ruby>転職<rt data-ruby-level="5">てんしょく</rt></ruby>サイトの<ruby>運営会社<rt
+    data-ruby-level="5">うんえいがいしゃ</rt></ruby>は、<ruby>制作<rt data-ruby-level="5">せいさく</rt></ruby>した<ruby>動画<rt
+    data-ruby-level="3">どうが</rt></ruby>がツイートに<ruby>引用<rt data-ruby-level="2">いんよう</rt></ruby>され<ruby>話題<rt
+    data-ruby-level="3">わだい</rt></ruby>になっていることについて、<ruby>次<rt data-ruby-level="3">つぎ</rt></ruby>のように<ruby>指摘<rt
+    data-ruby-level="7">してき</rt></ruby>しています。<br /><br />「<ruby>就職<rt data-ruby-level="6">しゅうしょく</rt></ruby>に<ruby>関<rt
+    data-ruby-level="4">かん</rt></ruby>する<ruby>基本的<rt data-ruby-level="5">きほんてき</rt></ruby>なことほど<ruby>誰<rt
+    data-ruby-level="7">だれ</rt></ruby>も<ruby>教<rt data-ruby-level="2">おし</rt></ruby>えてくれない。だからこうして<ruby>話題<rt
+    data-ruby-level="3">わだい</rt></ruby>になっているのではないか。ただ、<ruby>就職<rt data-ruby-level="6">しゅうしょく</rt></ruby>したかたが<ruby>長<rt
+    data-ruby-level="2">なが</rt></ruby>く<ruby>活躍<rt data-ruby-level="7">かつやく</rt></ruby>するためには<ruby>求人票<rt
+    data-ruby-level="4">きゅうじんひょう</rt></ruby>の<ruby>用語<rt data-ruby-level="2">ようご</rt></ruby>について<ruby>正<rt
+    data-ruby-level="1">ただ</rt></ruby>しい<ruby>理解<rt data-ruby-level="5">りかい</rt></ruby>が<ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>です。また<ruby>採用<rt data-ruby-level="5">さいよう</rt></ruby>する<ruby>側<rt
+    data-ruby-level="4">がわ</rt></ruby>も<ruby>正<rt data-ruby-level="1">ただ</rt></ruby>しい<ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby>を<ruby>提供<rt data-ruby-level="6">ていきょう</rt></ruby>する『<ruby>誠実<rt
+    data-ruby-level="6">せいじつ</rt></ruby>さ』が<ruby>求<rt data-ruby-level="4">もと</rt></ruby>められます」（「エン<ruby>転職<rt
+    data-ruby-level="5">てんしょく</rt></ruby>」<ruby>岡田<rt data-ruby-level="7">おかだ</rt></ruby><ruby>康<rt
+    data-ruby-level="8">やすし</rt></ruby><ruby>豊<rt data-ruby-level="8">ゆたか</rt></ruby><ruby>編集長<rt
+    data-ruby-level="5">へんしゅうちょう</rt></ruby>）<br /><br /><ruby>就職<rt data-ruby-level="6">しゅうしょく</rt></ruby><ruby>活動<rt
+    data-ruby-level="3">かつどう</rt></ruby>に<ruby>励<rt data-ruby-level="7">はげ</rt></ruby>む<ruby>皆<rt
+    data-ruby-level="7">みな</rt></ruby>さん。<ruby>求人票<rt data-ruby-level="4">きゅうじんひょう</rt></ruby>に<ruby>書<rt
+    data-ruby-level="2">か</rt></ruby>かれたひと<ruby>言<rt data-ruby-level="2">こと</rt></ruby>から、あなたが<ruby>働<rt
+    data-ruby-level="4">はたら</rt></ruby>きたい<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>の<ruby>本音<rt
+    data-ruby-level="1">ほんね</rt></ruby>が<ruby>見<rt data-ruby-level="1">み</rt></ruby>えてくるかも<ruby>知<rt
+    data-ruby-level="2">し</rt></ruby>れません。
+  textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/07/K10011355001_1803071936_1803071939_01_07.jpg
+source_url: https://www3.nhk.or.jp/news/html/20180307/k10011355001000.html
+related_news:
+- title: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>労働<rt data-ruby-level="4">ろうどう</rt></ruby><ruby>生産性<rt
+    data-ruby-level="5">せいさんせい</rt></ruby> <ruby>主要<rt data-ruby-level="4">しゅよう</rt></ruby>７か<ruby>国<rt
+    data-ruby-level="2">こく</rt></ruby>で<ruby>最下位<rt data-ruby-level="4">さいかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/21/日本の労働生産性-主要7か国で最下位
+- title: “ＡＩスカウト“で<ruby>変<rt data-ruby-level="4">か</rt></ruby>わる<ruby>人事<rt data-ruby-level="3">じんじ</rt></ruby>
+    ネットで<ruby>人材<rt data-ruby-level="4">じんざい</rt></ruby><ruby>発掘<rt data-ruby-level="7">はっくつ</rt></ruby>
+    <ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>に<ruby>紹介<rt data-ruby-level="7">しょうかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/07/AIスカウトで変わる人事-ネットで人材発掘-企業に紹介
+...

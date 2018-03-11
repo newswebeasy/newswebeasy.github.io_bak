@@ -1,0 +1,105 @@
+---
+layout: web_news
+categories: web
+newsid: k10011360091000
+title: 福島第一原発 半径80キロ圏の放射線量 平均約74％減少
+title_with_ruby: <ruby>福島<rt data-ruby-level="3">ふくしま</rt></ruby><ruby>第<rt data-ruby-level="3">だい</rt></ruby>一<ruby>原発<rt
+  data-ruby-level="3">げんぱつ</rt></ruby> <ruby>半径<rt data-ruby-level="4">はんけい</rt></ruby>80キロ<ruby>圏<rt
+  data-ruby-level="7">けん</rt></ruby>の<ruby>放射線<rt data-ruby-level="6">ほうしゃせん</rt></ruby><ruby>量<rt
+  data-ruby-level="4">りょう</rt></ruby> <ruby>平均<rt data-ruby-level="5">へいきん</rt></ruby><ruby>約<rt
+  data-ruby-level="4">やく</rt></ruby>74％<ruby>減少<rt data-ruby-level="5">げんしょう</rt></ruby>
+last_modified_at: '2018-03-11T07:25:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>03<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>11<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 07<ruby>時<rt data-ruby-level="2">じ</rt></ruby>25<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 東京電力・福島第一原子力発電所から半径８０キロの地域でヘリコプターを使って行われている、地表付近の放射線量の調査について、原子力規制委員会は、去年秋に測定された値が、事故が起きた年の秋に比べて平均でおよそ７４％減少したとしています。
+summary: <ruby>東京電力<rt data-ruby-level="2">とうきょうでんりょく</rt></ruby>・<ruby>福島<rt data-ruby-level="3">ふくしま</rt></ruby><ruby>第<rt
+  data-ruby-level="3">だい</rt></ruby>一<ruby>原子力<rt data-ruby-level="2">げんしりょく</rt></ruby><ruby>発電所<rt
+  data-ruby-level="3">はつでんしょ</rt></ruby>から<ruby>半径<rt data-ruby-level="4">はんけい</rt></ruby>８０キロの<ruby>地域<rt
+  data-ruby-level="6">ちいき</rt></ruby>でヘリコプターを<ruby>使<rt data-ruby-level="3">つか</rt></ruby>って<ruby>行<rt
+  data-ruby-level="2">おこな</rt></ruby>われている、<ruby>地表<rt data-ruby-level="3">ちひょう</rt></ruby><ruby>付近<rt
+  data-ruby-level="4">ふきん</rt></ruby>の<ruby>放射線<rt data-ruby-level="6">ほうしゃせん</rt></ruby><ruby>量<rt
+  data-ruby-level="4">りょう</rt></ruby>の<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby>について、<ruby>原子力<rt
+  data-ruby-level="2">げんしりょく</rt></ruby><ruby>規制<rt data-ruby-level="5">きせい</rt></ruby><ruby>委員会<rt
+  data-ruby-level="3">いいんかい</rt></ruby>は、<ruby>去年秋<rt data-ruby-level="3">きょねんあき</rt></ruby>に<ruby>測定<rt
+  data-ruby-level="5">そくてい</rt></ruby>された<ruby>値<rt data-ruby-level="6">ね</rt></ruby>が、<ruby>事故<rt
+  data-ruby-level="5">じこ</rt></ruby>が<ruby>起<rt data-ruby-level="3">お</rt></ruby>きた<ruby>年<rt
+  data-ruby-level="1">とし</rt></ruby>の<ruby>秋<rt data-ruby-level="2">あき</rt></ruby>に<ruby>比<rt
+  data-ruby-level="5">くら</rt></ruby>べて<ruby>平均<rt data-ruby-level="5">へいきん</rt></ruby>でおよそ７４％<ruby>減少<rt
+  data-ruby-level="5">げんしょう</rt></ruby>したとしています。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/11/K10011360091_1803110717_1803110725_01_02.jpg
+more: <ruby>原子力<rt data-ruby-level="2">げんしりょく</rt></ruby><ruby>規制<rt data-ruby-level="5">きせい</rt></ruby><ruby>委員会<rt
+  data-ruby-level="3">いいんかい</rt></ruby>は、<ruby>福島<rt data-ruby-level="3">ふくしま</rt></ruby><ruby>第<rt
+  data-ruby-level="3">だい</rt></ruby>一<ruby>原発<rt data-ruby-level="3">げんぱつ</rt></ruby>の<ruby>半径<rt
+  data-ruby-level="4">はんけい</rt></ruby>８０キロの<ruby>地域<rt data-ruby-level="6">ちいき</rt></ruby>で、ヘリコプターを<ruby>使<rt
+  data-ruby-level="3">つか</rt></ruby>っておよそ３００メートル<ruby>上空<rt data-ruby-level="1">じょうくう</rt></ruby>から<ruby>放射線<rt
+  data-ruby-level="6">ほうしゃせん</rt></ruby>の<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby>を<ruby>行<rt
+  data-ruby-level="2">おこな</rt></ruby>っていて、<ruby>測定<rt data-ruby-level="5">そくてい</rt></ruby>された<ruby>地上<rt
+  data-ruby-level="2">ちじょう</rt></ruby>１メートルの１<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby><ruby>当<rt
+  data-ruby-level="2">あ</rt></ruby>たりの<ruby>放射線<rt data-ruby-level="6">ほうしゃせん</rt></ruby><ruby>量<rt
+  data-ruby-level="4">りょう</rt></ruby>を９つの<ruby>色<rt data-ruby-level="2">いろ</rt></ruby>に<ruby>塗<rt
+  data-ruby-level="7">ぬ</rt></ruby>り<ruby>分<rt data-ruby-level="7">わ</rt></ruby>けた<ruby>地図<rt
+  data-ruby-level="2">ちず</rt></ruby>を<ruby>作成<rt data-ruby-level="4">さくせい</rt></ruby>しています。<br
+  /><br />それによりますと、<ruby>現在<rt data-ruby-level="5">げんざい</rt></ruby>とほぼ<ruby>同<rt data-ruby-level="2">おな</rt></ruby>じ<ruby>測定<rt
+  data-ruby-level="5">そくてい</rt></ruby><ruby>方法<rt data-ruby-level="4">ほうほう</rt></ruby>になった<ruby>事故<rt
+  data-ruby-level="5">じこ</rt></ruby>から７か<ruby>月後<rt data-ruby-level="2">げつご</rt></ruby>の<ruby>平成<rt
+  data-ruby-level="4">へいせい</rt></ruby>２３<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>１０<ruby>月<rt
+  data-ruby-level="1">がつ</rt></ruby>の<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby>では、<ruby>年間<rt
+  data-ruby-level="2">ねんかん</rt></ruby>の<ruby>被<rt data-ruby-level="7">ひ</rt></ruby>ばく<ruby>線量<rt
+  data-ruby-level="4">せんりょう</rt></ruby>に<ruby>換算<rt data-ruby-level="7">かんさん</rt></ruby>すると<ruby>避難<rt
+  data-ruby-level="7">ひなん</rt></ruby><ruby>指示<rt data-ruby-level="5">しじ</rt></ruby><ruby>解除<rt
+  data-ruby-level="6">かいじょ</rt></ruby>の<ruby>目安<rt data-ruby-level="3">めやす</rt></ruby>となる２０ミリシーベルトにあたる１<ruby>時間<rt
+  data-ruby-level="2">じかん</rt></ruby><ruby>当<rt data-ruby-level="2">あ</rt></ruby>たり３．８マイクロシーベルト<ruby>以上<rt
+  data-ruby-level="4">いじょう</rt></ruby>の<ruby>黄色<rt data-ruby-level="2">きいろ</rt></ruby>や<ruby>赤<rt
+  data-ruby-level="1">あか</rt></ruby>の<ruby>範囲<rt data-ruby-level="7">はんい</rt></ruby>が<ruby>原発<rt
+  data-ruby-level="3">げんぱつ</rt></ruby>から<ruby>北西<rt data-ruby-level="2">ほくせい</rt></ruby><ruby>方向<rt
+  data-ruby-level="3">ほうこう</rt></ruby>に３０キロを<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きく<ruby>超<rt
+  data-ruby-level="7">こ</rt></ruby>えていました。<br /><br />それが６<ruby>年後<rt data-ruby-level="2">ねんご</rt></ruby>の<ruby>去年<rt
+  data-ruby-level="3">きょねん</rt></ruby>９<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>の<ruby>最新<rt
+  data-ruby-level="4">さいしん</rt></ruby>の<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby>では、３０キロより<ruby>外側<rt
+  data-ruby-level="4">そとがわ</rt></ruby>で１<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby><ruby>当<rt
+  data-ruby-level="2">あ</rt></ruby>たり３．８マイクロシーベルト<ruby>以上<rt data-ruby-level="4">いじょう</rt></ruby>になっている<ruby>範囲<rt
+  data-ruby-level="7">はんい</rt></ruby>は<ruby>狭<rt data-ruby-level="7">せば</rt></ruby>まり、<ruby>飯舘村<rt
+  data-ruby-level="8">いいたてむら</rt></ruby>や<ruby>浪江町<rt data-ruby-level="8">なみえまち</rt></ruby>の<ruby>一部<rt
+  data-ruby-level="3">いちぶ</rt></ruby>になっています。<br /><br /><ruby>規制<rt data-ruby-level="5">きせい</rt></ruby><ruby>委員会<rt
+  data-ruby-level="3">いいんかい</rt></ruby>によりますと、この２つの<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby><ruby>結果<rt
+  data-ruby-level="4">けっか</rt></ruby>を８０キロ<ruby>圏<rt data-ruby-level="7">けん</rt></ruby><ruby>全体<rt
+  data-ruby-level="3">ぜんたい</rt></ruby>で<ruby>比較<rt data-ruby-level="7">ひかく</rt></ruby>すると<ruby>放射線<rt
+  data-ruby-level="6">ほうしゃせん</rt></ruby><ruby>量<rt data-ruby-level="4">りょう</rt></ruby>は<ruby>平均<rt
+  data-ruby-level="5">へいきん</rt></ruby>でおよそ７４％<ruby>減少<rt data-ruby-level="5">げんしょう</rt></ruby>したということです。<br
+  /><br />このうち６３％は、<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>の<ruby>経過<rt data-ruby-level="5">けいか</rt></ruby>に<ruby>伴<rt
+  data-ruby-level="7">ともな</rt></ruby>って<ruby>放射性<rt data-ruby-level="6">ほうしゃせい</rt></ruby><ruby>物質<rt
+  data-ruby-level="5">ぶっしつ</rt></ruby>が<ruby>放射線<rt data-ruby-level="6">ほうしゃせん</rt></ruby>を<ruby>出<rt
+  data-ruby-level="1">だ</rt></ruby>さない<ruby>別<rt data-ruby-level="4">べつ</rt></ruby>の<ruby>物質<rt
+  data-ruby-level="5">ぶっしつ</rt></ruby>に<ruby>変化<rt data-ruby-level="4">へんか</rt></ruby>したことによるもので、<ruby>残<rt
+  data-ruby-level="4">のこ</rt></ruby>りの１１％はそれ<ruby>以外<rt data-ruby-level="4">いがい</rt></ruby>の<ruby>要因<rt
+  data-ruby-level="5">よういん</rt></ruby>によって<ruby>起<rt data-ruby-level="3">お</rt></ruby>きたと<ruby>推計<rt
+  data-ruby-level="6">すいけい</rt></ruby>されています。<br /><br /><ruby>放射線<rt data-ruby-level="6">ほうしゃせん</rt></ruby><ruby>量<rt
+  data-ruby-level="4">りょう</rt></ruby>の<ruby>測定<rt data-ruby-level="5">そくてい</rt></ruby>について<ruby>規制<rt
+  data-ruby-level="5">きせい</rt></ruby><ruby>委員会<rt data-ruby-level="3">いいんかい</rt></ruby>は、<ruby>大熊町<rt
+  data-ruby-level="7">おおくままち</rt></ruby>や<ruby>双葉町<rt data-ruby-level="7">ふたばまち</rt></ruby>など<ruby>避難<rt
+  data-ruby-level="7">ひなん</rt></ruby><ruby>指示<rt data-ruby-level="5">しじ</rt></ruby>が<ruby>出<rt
+  data-ruby-level="1">だ</rt></ruby>されている<ruby>自治体<rt data-ruby-level="4">じちたい</rt></ruby>から<ruby>依頼<rt
+  data-ruby-level="7">いらい</rt></ruby>された<ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせて５つの<ruby>町<rt
+  data-ruby-level="1">まち</rt></ruby>と<ruby>村<rt data-ruby-level="1">むら</rt></ruby>で、おととしから<ruby>専用<rt
+  data-ruby-level="6">せんよう</rt></ruby>の<ruby>車両<rt data-ruby-level="3">しゃりょう</rt></ruby>などで<ruby>移動式<rt
+  data-ruby-level="5">いどうしき</rt></ruby>の<ruby>測定<rt data-ruby-level="5">そくてい</rt></ruby>を<ruby>行<rt
+  data-ruby-level="2">おこな</rt></ruby>っています。<br /><br /><ruby>測定<rt data-ruby-level="5">そくてい</rt></ruby>の<ruby>結果<rt
+  data-ruby-level="4">けっか</rt></ruby>は、<ruby>避難<rt data-ruby-level="7">ひなん</rt></ruby><ruby>指示<rt
+  data-ruby-level="5">しじ</rt></ruby>の<ruby>解除<rt data-ruby-level="6">かいじょ</rt></ruby>や<ruby>帰還<rt
+  data-ruby-level="7">きかん</rt></ruby>の<ruby>検討<rt data-ruby-level="6">けんとう</rt></ruby>の<ruby>参考<rt
+  data-ruby-level="4">さんこう</rt></ruby>にできるよう、<ruby>航空機<rt data-ruby-level="4">こうくうき</rt></ruby>による<ruby>調査<rt
+  data-ruby-level="5">ちょうさ</rt></ruby>よりも<ruby>詳<rt data-ruby-level="7">くわ</rt></ruby>しい<ruby>地図<rt
+  data-ruby-level="2">ちず</rt></ruby>にして<ruby>公表<rt data-ruby-level="3">こうひょう</rt></ruby>しているほか、<ruby>自治体<rt
+  data-ruby-level="4">じちたい</rt></ruby>に<ruby>提供<rt data-ruby-level="6">ていきょう</rt></ruby>しています。
+source_url: https://www3.nhk.or.jp/news/html/20180311/k10011360091000.html
+related_news:
+- title: <ruby>北<rt data-ruby-level="2">きた</rt></ruby><ruby>アルプス<rt data-ruby-level="2">あるぷす</rt></ruby><ruby>鹿島槍ヶ岳<rt
+    data-ruby-level="8">かしまやりがたけ</rt></ruby>の<ruby>氷体<rt data-ruby-level="3">ひょうたい</rt></ruby>
+    「<ruby>氷河<rt data-ruby-level="5">ひょうが</rt></ruby>」と<ruby>認定<rt data-ruby-level="7">にんてい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/17/北アルプス鹿島槍ヶ岳の氷体-氷河と認定
+- title: <ruby>新幹線<rt data-ruby-level="5">しんかんせん</rt></ruby>の<ruby>台車<rt data-ruby-level="2">だいしゃ</rt></ruby>に<ruby>亀裂<rt
+    data-ruby-level="8">きれつ</rt></ruby> <ruby>初<rt data-ruby-level="4">はつ</rt></ruby>の<ruby>重大<rt
+    data-ruby-level="3">じゅうだい</rt></ruby>インシデントに<ruby>指定<rt data-ruby-level="3">してい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/12/新幹線の台車に亀裂-初の重大インシデントに指定
+...
