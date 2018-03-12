@@ -1,0 +1,67 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011355491000
+last_modified_at: '2018-03-12T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ４日、インドネシアのバンドンの動物園に来た男性が、自分が吸っていたたばこをオランウータンがいる場所に投げました。
+title: 動物園に来た人がたばこを投げてオランウータンが吸う
+title_with_ruby: <ruby>動物園<rt>どうぶつえん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>がたばこを<ruby>投<rt>な</rt></ruby>げてオランウータンが<ruby>吸<rt>す</rt></ruby>う
+outline: ４日、インドネシアのバンドンの動物園に来た男性が、自分が吸っていたたばこをオランウータンがいる場所に投げました。
+outline_with_ruby: <ruby>４日<rt>よっか</rt></ruby>、インドネシアのバンドンの<ruby>動物園<rt>どうぶつえん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>男性<rt>だんせい</rt></ruby>が、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>吸<rt>す</rt></ruby>っていたたばこをオランウータンがいる<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>投<rt>な</rt></ruby>げました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/08/K10011355491_1803081002_1803081022_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/12/k10011355491000.mp3
+content_with_ruby: "<p><ruby>４日<rt>よっか</rt></ruby>、インドネシアのバンドンの<ruby>動物園<rt>どうぶつえん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>男性<rt>だんせい</rt></ruby>が、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>吸<rt>す</rt></ruby>っていたたばこを<span\
+  \ style=\"color: blue;\">オランウータン</span>がいる<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>投<rt>な</rt></ruby>げました。<span\
+  \ style=\"color: blue;\">オランウータン</span>は<ruby>火<rt>ひ</rt></ruby>がついたままのたばこを<ruby>拾<rt>ひろ</rt></ruby>って<ruby>吸<rt>す</rt></ruby>いました。<ruby>白<rt>しろ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>煙<rt>けむり</rt></ruby></span>も<ruby>出<rt>だ</rt></ruby>していました。</p>\n\
+  <p><ruby>動物園<rt>どうぶつえん</rt></ruby>に<ruby>来<rt>き</rt></ruby>ていた<ruby>別<rt>べつ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がそのときの<span\
+  \ style=\"color: blue;\">ビデオ</span>をインターネットに<ruby>出<rt>だ</rt></ruby>しました。<span style=\"\
+  color: blue;\">ビデオ</span>を<ruby>見<rt>み</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちは、<ruby>男性<rt>だんせい</rt></ruby>がたばこを<ruby>投<rt>な</rt></ruby>げたことを「とてもひどい」とか「<ruby>恥<rt>は</rt></ruby>ずかしいことだ」などと<ruby>強<rt>つよ</rt></ruby>く<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>動物<rt>どうぶつ</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にする<span style=\"color:\
+  \ blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>をしているインドネシアの<span style=\"color: blue;\"\
+  ><ruby>団体<rt>だんたい</rt></ruby></span>は「<ruby>動物園<rt>どうぶつえん</rt></ruby>は<span style=\"\
+  color: blue;\"><ruby>管理<rt>かんり</rt></ruby></span>の<ruby>仕事<rt>しごと</rt></ruby>をしっかりしていない」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>インドネシアのニュースなどによると、１００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>ぐらいの<ruby>人<rt>ひと</rt></ruby>が「<ruby>動物園<rt>どうぶつえん</rt></ruby>をやめてほしい」と<ruby>言<rt>い</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>署名<rt>しょめい</rt></ruby></span>をしています。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: オランウータン
+  descriptions:
+  - インドネシアのボルネオ<ruby><rb>島</rb><rt>とう</rt></ruby>やスマトラ<ruby><rb>島</rb><rt>とう</rt></ruby>の<ruby><rb>森</rb><rt>もり</rt></ruby>にすむ<ruby><rb>類人猿</rb><rt>るいじんえん</rt></ruby>。<ruby><rb>立</rb><rt>た</rt></ruby>っていても<ruby><rb>地</rb><rt>ち</rt></ruby>に<ruby><rb>届</rb><rt>とど</rt></ruby>く<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>をしている。
+- word: 煙
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>燃</rb><rt>も</rt></ruby>えるときに<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>気体</rb><rt>きたい</rt></ruby>。けむ。けぶり。
+  - けむりのように<ruby><rb>見</rb><rt>み</rt></ruby>えるもの。
+- word: ビデオ
+  descriptions:
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。
+  - 「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 活動
+  descriptions:
+  - <ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 管理
+  descriptions:
+  - ものごとを、<ruby><rb>取</rb><rt>と</rt></ruby>りしまること。
+  - よい<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>に<ruby><rb>保</rb><rt>たも</rt></ruby>つこと。
+- word: 署名
+  descriptions:
+  - <ruby><rb>書類</rb><rt>しょるい</rt></ruby>などに、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>くこと。また、その<ruby><rb>名前</rb><rt>なまえ</rt></ruby>。<ruby><rb>記名</rb><rt>きめい</rt></ruby>。サイン。
+source_url: http://www3.nhk.or.jp/news/easy/k10011355491000/k10011355491000.html
+web_title_with_ruby: <ruby>オランウータン<rt>おらんうーたん</rt></ruby>が<ruby>喫煙<rt>きつえん</rt></ruby>
+  <ruby>動物園<rt>どうぶつえん</rt></ruby>とたばこ<ruby>投入<rt>とうにゅう</rt></ruby>の<ruby>来園者<rt>らいえんしゃ</rt></ruby>に<ruby>非難<rt>ひなん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/08/オランウータンが喫煙-動物園とたばこ投入の来園者に非難
+related_news:
+- title: パンダのシャンシャン　<ruby>並<rt>なら</rt></ruby>んだ<ruby>順番<rt>じゅんばん</rt></ruby>で<ruby>見<rt>み</rt></ruby>ることができる
+  url: https://newswebeasy.github.io/news/easy/2018/02/01/パンダのシャンシャン-並んだ順番で見ることができる
+- title: <ruby>奈良<rt>なら</rt></ruby>の<ruby>若草山<rt>わかくさやま</rt></ruby>で「<ruby>山焼<rt>やまや</rt></ruby>き」　<ruby>赤<rt>あか</rt></ruby>い<ruby>火<rt>ひ</rt></ruby>で<ruby>夜<rt>よる</rt></ruby>の<ruby>空<rt>そら</rt></ruby>が<ruby>明<rt>あか</rt></ruby>るくなる
+  url: https://newswebeasy.github.io/news/easy/2018/01/29/奈良の若草山で山焼き-赤い火で夜の空が明るくなる
+- title: ビルで<ruby>危険<rt>きけん</rt></ruby>なことをしてビデオを<ruby>撮<rt>と</rt></ruby>る<ruby>男性<rt>だんせい</rt></ruby>が<ruby>落<rt>お</rt></ruby>ちて<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2017/12/14/ビルで危険なことをしてビデオを撮る男性が落ちて亡くなる
+...
