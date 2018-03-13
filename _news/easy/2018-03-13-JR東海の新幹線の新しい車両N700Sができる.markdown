@@ -1,0 +1,73 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011359571000
+last_modified_at: '2018-03-13T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ＪＲ東海は、今走っている新幹線の車両を新しくしたいと考えています。
+title: ＪＲ東海の新幹線の新しい車両「Ｎ７００Ｓ」ができる
+title_with_ruby: ＪＲ<ruby>東海<rt>とうかい</rt></ruby>の<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>車両<rt>しゃりょう</rt></ruby>「Ｎ７００Ｓ」ができる
+outline: ＪＲ東海は、今走っている新幹線の車両を新しくしたいと考えています。
+outline_with_ruby: ＪＲ<ruby>東海<rt>とうかい</rt></ruby>は、<ruby>今<rt>いま</rt></ruby><ruby>走<rt>はし</rt></ruby>っている<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>車両<rt>しゃりょう</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しくしたいと<ruby>考<rt>かんが</rt></ruby>えています。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/10/K10011359571_1803101937_1803101940_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/13/k10011359571000.mp3
+content_with_ruby: "<p>ＪＲ<ruby>東海<rt>とうかい</rt></ruby>は、<ruby>今<rt>いま</rt></ruby><ruby>走<rt>はし</rt></ruby>っている<span\
+  \ style=\"color: blue;\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>車両<rt>しゃりょう</rt></ruby></span>を<ruby>新<rt>あたら</rt></ruby>しくしたいと<ruby>考<rt>かんが</rt></ruby>えています。２０２０<ruby>年<rt>ねん</rt></ruby>ごろから<ruby>使<rt>つか</rt></ruby>う<ruby>予定<rt>よてい</rt></ruby>の「Ｎ７００Ｓ」という<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>車両<rt>しゃりょう</rt></ruby></span>が<ruby>静岡県<rt>しずおかけん</rt></ruby>にある<ruby>工場<rt>こうじょう</rt></ruby>でできました。</p>\n\
+  <p>Ｎ７００Ｓは、いちばん<ruby>前<rt>まえ</rt></ruby>の<span style=\"color: blue;\"><ruby>部分<rt>ぶぶん</rt></ruby></span>の<ruby>形<rt>かたち</rt></ruby>を<ruby>今<rt>いま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>と<ruby>少<rt>すこ</rt></ruby>し<ruby>変<rt>か</rt></ruby>えて、<ruby>速<rt>はや</rt></ruby>く<ruby>進<rt>すす</rt></ruby>みやすくしました。<ruby>前<rt>まえ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>い</span>ている<span style=\"color:\
+  \ blue;\">ライト</span>は<span style=\"color: blue;\">ＬＥＤ</span>にしました。いすは<ruby>今<rt>いま</rt></ruby>より<span\
+  \ style=\"color: blue;\">リラックス</span>して<ruby>座<rt>すわ</rt></ruby>ることができるようにしました。<span\
+  \ style=\"color: blue;\">コンセント</span>も<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>にあります。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>車両<rt>しゃりょう</rt></ruby></span>を<ruby>軽<rt>かる</rt></ruby>くしたため、<ruby>走<rt>はし</rt></ruby>るときに<ruby>使<rt>つか</rt></ruby>う<ruby>電気<rt>でんき</rt></ruby>は<ruby>今<rt>いま</rt></ruby>より７％ぐらい<ruby>少<rt>すく</rt></ruby>なくなります。</p>\n\
+  <p>ＪＲ<ruby>東海<rt>とうかい</rt></ruby>は<ruby>２０日<rt>はつか</rt></ruby>からこの<span style=\"\
+  color: blue;\"><ruby>車両<rt>しゃりょう</rt></ruby></span>の<ruby>運転<rt>うんてん</rt></ruby>のテストをします。ＪＲ<ruby>東海<rt>とうかい</rt></ruby>は「<ruby>安全<rt>あんぜん</rt></ruby>なだけではなくて、<ruby>気持<rt>きも</rt></ruby>ちよく<ruby>乗<rt>の</rt></ruby>ることができるすばらしい<span\
+  \ style=\"color: blue;\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>です」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 新幹線
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>のおもな<ruby><rb>都市</rb><rt>とし</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで、<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶための<ruby><rb>高速鉄道</rb><rt>こうそくてつどう</rt></ruby>。<ruby><rb>東海道新幹線</rb><rt>とうかいどうしんかんせん</rt></ruby>、<ruby><rb>山陽新幹線</rb><rt>さんようしんかんせん</rt></ruby>、<ruby><rb>上越新幹線</rb><rt>じょうえつしんかんせん</rt></ruby>、<ruby><rb>長野新幹線</rb><rt>ながのしんかんせん</rt></ruby>、<ruby><rb>東北新幹線</rb><rt>とうほくしんかんせん</rt></ruby>、<ruby><rb>山形新幹線</rb><rt>やまがたしんかんせん</rt></ruby>、<ruby><rb>秋田新幹線</rb><rt>あきたしんかんせん</rt></ruby>、<ruby><rb>九州新幹線</rb><rt>きゅうしゅうしんかんせん</rt></ruby>がある。
+- word: 車両
+  descriptions:
+  - <ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>・<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>などのこと。また、その<ruby><rb>一台</rb><rt>いちだい</rt></ruby><ruby><rb>一台</rb><rt>いちだい</rt></ruby>。
+- word: 部分
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>を、いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>けたものの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: 付く
+  descriptions:
+  - ものがくっつく。
+  - つきそう。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>わる。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まる。
+  - <ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。
+  - <ruby><rb>感</rb><rt>かん</rt></ruby>じる。
+  - ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。
+- word: ライト
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>。<ruby><rb>照明</rb><rt>しょうめい</rt></ruby>。
+  - <ruby><rb>明</rb><rt>あか</rt></ruby>るいこと。
+  - <ruby><rb>軽</rb><rt>かる</rt></ruby>いこと。
+- word: LED
+  descriptions:
+  - <ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>が<ruby><rb>流</rb><rt>なが</rt></ruby>れると、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>さずに<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。<ruby><rb>電力消費</rb><rt>でんりょくしょうひ</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なく、<ruby><rb>寿命</rb><rt>じゅみょう</rt></ruby>が<ruby><rb>長</rb><rt>なが</rt></ruby>いため、<ruby><rb>白熱電球</rb><rt>はくねつでんきゅう</rt></ruby>や<ruby><rb>蛍光灯</rb><rt>けいこうとう</rt></ruby>にかわる<ruby><rb>光源</rb><rt>こうげん</rt></ruby>として<ruby><rb>使</rb><rt>つか</rt></ruby>われる。
+- word: リラックス
+  descriptions:
+  - <ruby><rb>緊張</rb><rt>きんちょう</rt></ruby>しないで、のんびりと<ruby><rb>楽</rb><rt>らく</rt></ruby>にすること。
+- word: コンセント
+  descriptions:
+  - <ruby><rb>電気器具</rb><rt>でんききぐ</rt></ruby>に<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>くために、かべや<ruby><rb>柱</rb><rt>はしら</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>りつけた、さしこみ<ruby><rb>口</rb><rt>ぐち</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011359571000/k10011359571000.html
+web_title_with_ruby: <ruby>新型<rt>しんがた</rt></ruby><ruby>新幹線<rt>しんかんせん</rt></ruby><ruby>車両<rt>しゃりょう</rt></ruby>「Ｎ700Ｓ」<ruby>公開<rt>こうかい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/10/新型新幹線車両N700S公開
+related_news:
+- title: ニューヨークの<ruby>地下鉄<rt>ちかてつ</rt></ruby>　<ruby>川崎重工業<rt>かわさきじゅうこうぎょう</rt></ruby>に１６００<ruby>両<rt>りょう</rt></ruby>の<ruby>注文<rt>ちゅうもん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/29/ニューヨークの地下鉄-川崎重工業に1600両の注文
+- title: <ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>車両<rt>しゃりょう</rt></ruby>の<ruby>下<rt>した</rt></ruby>にひびが<ruby>見<rt>み</rt></ruby>つかる
+  url: https://newswebeasy.github.io/news/easy/2017/12/13/新幹線の車両の下にひびが見つかる
+- title: ＪＲの<ruby>特急<rt>とっきゅう</rt></ruby>で<ruby>車体<rt>しゃたい</rt></ruby>の<ruby>下<rt>した</rt></ruby>にある<ruby>部品<rt>ぶひん</rt></ruby>に２０ｃｍのひびが<ruby>見<rt>み</rt></ruby>つかる
+  url: https://newswebeasy.github.io/news/easy/2018/01/24/JRの特急で車体の下にある部品に20cmのひびが見つかる
+...

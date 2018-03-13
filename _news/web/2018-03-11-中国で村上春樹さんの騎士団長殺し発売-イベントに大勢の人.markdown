@@ -72,12 +72,13 @@ more: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>では<ruby
   data-ruby-level="2">ちゅうごく</rt></ruby>で<ruby>売<rt data-ruby-level="2">う</rt></ruby>れることを<ruby>期待<rt
   data-ruby-level="3">きたい</rt></ruby>しています」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。
 source_url: https://www3.nhk.or.jp/news/html/20180311/k10011360151000.html
+easy_title_with_ruby: <ruby>村上<rt data-ruby-level="1">むらかみ</rt></ruby><ruby>春樹<rt
+  data-ruby-level="8">はるき</rt></ruby>さんの<ruby>小説<rt data-ruby-level="4">しょうせつ</rt></ruby>「<ruby>騎士<rt
+  data-ruby-level="7">きし</rt></ruby><ruby>団長<rt data-ruby-level="5">だんちょう</rt></ruby><ruby>殺<rt
+  data-ruby-level="4">ごろ</rt></ruby>し」を<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>で<ruby>売<rt
+  data-ruby-level="3">う</rt></ruby>り<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>める
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/03/13/村上春樹さんの小説騎士団長殺しを中国で売り始める
 related_news:
-- title: <ruby>日本語<rt data-ruby-level="2">にほんご</rt></ruby><ruby>作文<rt data-ruby-level="2">さくぶん</rt></ruby>
-    <ruby>最優秀<rt data-ruby-level="7">さいゆうしゅう</rt></ruby>の<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby><ruby>大学生<rt
-    data-ruby-level="1">だいがくせい</rt></ruby> “「<ruby>花<rt data-ruby-level="1">はな</rt></ruby>は<ruby>咲<rt
-    data-ruby-level="7">さ</rt></ruby>く」<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>めたい”
-  url: https://newswebeasy.github.io/news/web/2017/12/12/日本語作文-最優秀の中国大学生-花は咲く広めたい
 - title: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>で<ruby>展開<rt data-ruby-level="6">てんかい</rt></ruby>のラーメンチェーン
     <ruby>日本米<rt data-ruby-level="2">にほんまい</rt></ruby>で<ruby>新<rt data-ruby-level="2">しん</rt></ruby>メニュー
   url: https://newswebeasy.github.io/news/web/2017/12/16/中国で展開のラーメンチェーン-日本米で新メニュー
@@ -97,4 +98,9 @@ related_news:
     data-ruby-level="3">はっぴょう</rt></ruby> <ruby>権益<rt data-ruby-level="6">けんえき</rt></ruby><ruby>確保<rt
     data-ruby-level="5">かくほ</rt></ruby>へ
   url: https://newswebeasy.github.io/news/web/2018/01/26/中国が北極圏開発に意欲-初の白書を発表-権益確保へ
+- title: <ruby>訪中<rt data-ruby-level="6">ほうちゅう</rt></ruby>の<ruby>韓国<rt data-ruby-level="7">かんこく</rt></ruby><ruby>大統領<rt
+    data-ruby-level="5">だいとうりょう</rt></ruby> 「<ruby>南京<rt data-ruby-level="8">なんきん</rt></ruby><ruby>事件<rt
+    data-ruby-level="5">じけん</rt></ruby>」に<ruby>異例<rt data-ruby-level="6">いれい</rt></ruby>の<ruby>言及<rt
+    data-ruby-level="7">げんきゅう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2017/12/13/訪中の韓国大統領-南京事件に異例の言及
 ...

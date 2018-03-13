@@ -1,0 +1,60 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011362041000
+last_modified_at: '2018-03-13T17:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: １２日午後２時半ごろ、ネパールのカトマンズの空港に飛行機が下りようとしましたが、失敗して火事になりました。
+title: 飛行機がネパールの空港に下りるとき失敗　４９人亡くなる
+title_with_ruby: <ruby>飛行機<rt>ひこうき</rt></ruby>がネパールの<ruby>空港<rt>くうこう</rt></ruby>に<ruby>下<rt>お</rt></ruby>りるとき<ruby>失敗<rt>しっぱい</rt></ruby>　４９<ruby>人<rt>にん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなる
+outline: １２日午後２時半ごろ、ネパールのカトマンズの空港に飛行機が下りようとしましたが、失敗して火事になりました。
+outline_with_ruby: １２<ruby>日<rt>にち</rt></ruby><ruby>午後<rt>ごご</rt></ruby>２<ruby>時<rt>じ</rt></ruby><ruby>半<rt>はん</rt></ruby>ごろ、ネパールのカトマンズの<ruby>空港<rt>くうこう</rt></ruby>に<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>下<rt>お</rt></ruby>りようとしましたが、<ruby>失敗<rt>しっぱい</rt></ruby>して<ruby>火事<rt>かじ</rt></ruby>になりました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/12/K10011362041_1803130420_1803130422_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/13/k10011362041000.mp3
+content_with_ruby: "<p>１２<ruby>日<rt>にち</rt></ruby><ruby>午後<rt>ごご</rt></ruby>２<ruby>時<rt>じ</rt></ruby><ruby>半<rt>はん</rt></ruby>ごろ、ネパールのカトマンズの<ruby>空港<rt>くうこう</rt></ruby>に<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>下<rt>お</rt></ruby>りようとしましたが、<ruby>失敗<rt>しっぱい</rt></ruby>して<ruby>火事<rt>かじ</rt></ruby>になりました。<ruby>飛行機<rt>ひこうき</rt></ruby>には７１<ruby>人<rt>にん</rt></ruby>が<ruby>乗<rt>の</rt></ruby>っていました。<ruby>警察<rt>けいさつ</rt></ruby>によると、４９<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、２１<ruby>人<rt>にん</rt></ruby>がけがをしました。<span\
+  \ style=\"color: blue;\"><ruby>行方不明<rt>ゆくえふめい</rt></ruby></span>になっている<ruby>人<rt>ひと</rt></ruby>も<ruby>１人<rt>ひとり</rt></ruby>います。</p>\n\
+  <p>ネパールの<span style=\"color: blue;\"><ruby>役所<rt>やくしょ</rt></ruby></span>によると、この<ruby>飛行機<rt>ひこうき</rt></ruby>はバングラデシュのダッカを<ruby>出発<rt>しゅっぱつ</rt></ruby>したＵＳバングラ<ruby>航空<rt>こうくう</rt></ruby>の<ruby>飛行機<rt>ひこうき</rt></ruby>です。ネパールのニュースの<span\
+  \ style=\"color: blue;\"><ruby>映像<rt>えいぞう</rt></ruby></span>では、<ruby>飛行機<rt>ひこうき</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きく<ruby>壊<rt>こわ</rt></ruby>れていて、<ruby>黒<rt>くろ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>煙<rt>けむり</rt></ruby></span>と<ruby>火<rt>ひ</rt></ruby>が<ruby>見<rt>み</rt></ruby>えました。</p>\n\
+  <p>ネパールの<span style=\"color: blue;\"><ruby>役所<rt>やくしょ</rt></ruby></span>は「<ruby>飛行機<rt>ひこうき</rt></ruby>は、<ruby>空港<rt>くうこう</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>許可<rt>きょか</rt></ruby></span>した<span style=\"color:\
+  \ blue;\"><ruby>方角<rt>ほうがく</rt></ruby></span>と<ruby>違<rt>ちが</rt></ruby>う<span style=\"\
+  color: blue;\"><ruby>方角<rt>ほうがく</rt></ruby></span>から<span style=\"color: blue;\"\
+  ><ruby>滑走路<rt>かっそうろ</rt></ruby></span>に<ruby>入<rt>はい</rt></ruby>ったあと、<ruby>火事<rt>かじ</rt></ruby>になった」と<ruby>言<rt>い</rt></ruby>っていて、<ruby>原因<rt>げんいん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 行方不明
+  descriptions:
+  - どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。
+- word: 役所
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。
+- word: 映像
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>によって<ruby><rb>映</rb><rt>うつ</rt></ruby>し<ruby><rb>出</rb><rt>だ</rt></ruby>された、<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+  - <ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にうかんだ<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やようす。イメージ。
+- word: 煙
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>燃</rb><rt>も</rt></ruby>えるときに<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>気体</rb><rt>きたい</rt></ruby>。けむ。けぶり。
+  - けむりのように<ruby><rb>見</rb><rt>み</rt></ruby>えるもの。
+- word: 許可
+  descriptions:
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>ていたことを、よいと<ruby><rb>許</rb><rt>ゆる</rt></ruby>すこと。<ruby><rb>許</rb><rt>ゆる</rt></ruby>し。
+- word: 方角
+  descriptions:
+  - <ruby><rb>東</rb><rt>ひがし</rt></ruby>・<ruby><rb>西</rb><rt>にし</rt></ruby>・<ruby><rb>南</rb><rt>みなみ</rt></ruby>・<ruby><rb>北</rb><rt>きた</rt></ruby>などの<ruby><rb>向</rb><rt>む</rt></ruby>き。<ruby><rb>方位</rb><rt>ほうい</rt></ruby>。
+  - <ruby><rb>向</rb><rt>む</rt></ruby>き。<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>。
+- word: 滑走路
+  descriptions:
+  - <ruby><rb>飛行場</rb><rt>ひこうじょう</rt></ruby>で、<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>が<ruby><rb>離着陸</rb><rt>りちゃくりく</rt></ruby>するときに<ruby><rb>走</rb><rt>はし</rt></ruby>る<ruby><rb>道</rb><rt>みち</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011362041000/k10011362041000.html
+web_title_with_ruby: <ruby>ネパール<rt>ねぱーる</rt></ruby>で<ruby>旅客機<rt>りょかっき</rt></ruby>が<ruby>着陸<rt>ちゃくりく</rt></ruby><ruby>失敗<rt>しっぱい</rt></ruby>
+  49<ruby>人<rt>にん</rt></ruby><ruby>死亡<rt>しぼう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/12/ネパールで旅客機が着陸失敗-49人死亡確認
+related_news:
+- title: トルコの<ruby>空港<rt>くうこう</rt></ruby>で<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>崖<rt>がけ</rt></ruby>を<ruby>滑<rt>すべ</rt></ruby>って<ruby>海<rt>うみ</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちそうになる
+  url: https://newswebeasy.github.io/news/easy/2018/01/15/トルコの空港で飛行機が崖を滑って海に落ちそうになる
+- title: 「ホンダジェット」　<ruby>去年<rt>きょねん</rt></ruby><ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>売<rt>う</rt></ruby>れた
+  url: https://newswebeasy.github.io/news/easy/2018/02/26/ホンダジェット-去年世界でいちばん売れた
+...
