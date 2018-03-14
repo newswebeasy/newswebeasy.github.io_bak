@@ -1,0 +1,77 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011362621000
+last_modified_at: '2018-03-14T16:55:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>55<ruby>分<rt>ふん</rt></ruby>
+description: 日本の法律では、大人は２０歳以上だと決まっています。
+title: 「１８歳以上を大人にする」新しい法律の案を決める
+title_with_ruby: 「１８<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<ruby>大人<rt>おとな</rt></ruby>にする」<ruby>新<rt>あたら</rt></ruby>しい<ruby>法律<rt>ほうりつ</rt></ruby>の<ruby>案<rt>あん</rt></ruby>を<ruby>決<rt>き</rt></ruby>める
+outline: 日本の法律では、大人は２０歳以上だと決まっています。
+outline_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>法律<rt>ほうりつ</rt></ruby>では、<ruby>大人<rt>おとな</rt></ruby>は２０<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>だと<ruby>決<rt>き</rt></ruby>まっています。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/13/K10011362621_1803131004_1803131017_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/14/k10011362621000.mp3
+content_with_ruby: "<p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>法律<rt>ほうりつ</rt></ruby>では、<ruby>大人<rt>おとな</rt></ruby>は２０<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>だと<ruby>決<rt>き</rt></ruby>まっています。しかし、３<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>で<span style=\"color:\
+  \ blue;\"><ruby>投票<rt>とうひょう</rt></ruby></span>できる<ruby>人<rt>ひと</rt></ruby>を２０<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>ではなくて１８<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>にする<ruby>法律<rt>ほうりつ</rt></ruby>ができました。このため、<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は１８<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<ruby>大人<rt>おとな</rt></ruby>にする<ruby>新<rt>あたら</rt></ruby>しい<ruby>法律<rt>ほうりつ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>案<rt>あん</rt></ruby></span>を<ruby>決<rt>き</rt></ruby>めました。</p>\n\
+  <p><ruby>今<rt>いま</rt></ruby>の<ruby>法律<rt>ほうりつ</rt></ruby>では、<ruby>女性<rt>じょせい</rt></ruby>は１６<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>で<ruby>結婚<rt>けっこん</rt></ruby>できますが、<ruby>新<rt>あたら</rt></ruby>しい<ruby>法律<rt>ほうりつ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>案<rt>あん</rt></ruby></span>では、<ruby>女性<rt>じょせい</rt></ruby>も<ruby>男性<rt>だんせい</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ１８<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>にします。<span\
+  \ style=\"color: blue;\"><ruby>親<rt>おや</rt></ruby></span>などの<span style=\"color:\
+  \ blue;\"><ruby>許可<rt>きょか</rt></ruby></span>をもらわなくても、１８<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はお<ruby>金<rt>かね</rt></ruby>を<ruby>借<rt>か</rt></ruby>りたり<span\
+  \ style=\"color: blue;\">クレジットカード</span>を<ruby>作<rt>つく</rt></ruby>ったりできます。</p>\n\
+  <p>しかし、お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んだりたばこを<ruby>吸<rt>す</rt></ruby>ったりしていい<ruby>人<rt>ひと</rt></ruby>は２０<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のままです。<span\
+  \ style=\"color: blue;\"><ruby>競馬<rt>けいば</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>競輪<rt>けいりん</rt></ruby></span>などでお<ruby>金<rt>かね</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>賭<rt>か</rt></ruby>ける</span>ことができるのも２０<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のままにします。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 案
+  descriptions:
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>考</rb><rt>かんが</rt></ruby>え。<ruby><rb>計画</rb><rt>けいかく</rt></ruby>。
+  - <ruby><rb>相談</rb><rt>そうだん</rt></ruby>のことがら。
+- word: 選挙
+  descriptions:
+  - ある<ruby><rb>役目</rb><rt>やくめ</rt></ruby>につく<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>選</rb><rt>えら</rt></ruby>ぶこと。
+- word: 投票
+  descriptions:
+  - <ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>や<ruby><rb>採決</rb><rt>さいけつ</rt></ruby>で、<ruby><rb>選</rb><rt>えら</rt></ruby>びたい<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>か<ruby><rb>反対</rb><rt>はんたい</rt></ruby>かを、<ruby><rb>紙</rb><rt>かみ</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いて<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 親
+  descriptions:
+  - <ruby><rb>父</rb><rt>ちち</rt></ruby>や<ruby><rb>母</rb><rt>はは</rt></ruby>。<ruby><rb>両親</rb><rt>りょうしん</rt></ruby>。
+  - <ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>をうんだもの。
+  - トランプやかるたなどの<ruby><rb>遊</rb><rt>あそ</rt></ruby>びで、カードを<ruby><rb>配</rb><rt>くば</rt></ruby>る<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となるもの。<ruby><rb>大</rb><rt>おお</rt></ruby>きいもの。
+- word: 許可
+  descriptions:
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>ていたことを、よいと<ruby><rb>許</rb><rt>ゆる</rt></ruby>すこと。<ruby><rb>許</rb><rt>ゆる</rt></ruby>し。
+- word: クレジットカード
+  descriptions:
+  - <ruby><rb>現金</rb><rt>げんきん</rt></ruby>を<ruby><rb>払</rb><rt>はら</rt></ruby>わなくても、<ruby><rb>後払</rb><rt>あとばら</rt></ruby>いで<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>物</rb><rt>もの</rt></ruby>をすることができるカード。
+- word: 競馬
+  descriptions:
+  - <ruby><rb>騎手</rb><rt>きしゅ</rt></ruby>が<ruby><rb>馬</rb><rt>うま</rt></ruby>に<ruby><rb>乗</rb><rt>の</rt></ruby>って、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競走</rb><rt>きょうそう</rt></ruby>。
+- word: 競輪
+  descriptions:
+  - <ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>自転車</rb><rt>じてんしゃ</rt></ruby>に<ruby><rb>乗</rb><rt>の</rt></ruby>って<ruby><rb>競走</rb><rt>きょうそう</rt></ruby>し、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>うこと。
+- word: 賭ける
+  descriptions:
+  - <ruby><rb>勝</rb><rt>か</rt></ruby>ったほうがもらう<ruby><rb>約束</rb><rt>やくそく</rt></ruby>で、お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。かけごとをする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011362621000/k10011362621000.html
+web_title_with_ruby: <ruby>成人<rt>せいじん</rt></ruby>は「18<ruby>歳<rt>さい</rt></ruby>」から
+  <ruby>改正案<rt>かいせいあん</rt></ruby>を<ruby>決定<rt>けってい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/13/成人は18歳から-改正案を決定
+related_news:
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>　<ruby>国<rt>くに</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るために<ruby>使<rt>つか</rt></ruby>うお<ruby>金<rt>かね</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>より８％<ruby>増<rt>ふ</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2018/03/05/中国-国を守るために使うお金は去年より8増える
+- title: アメリカ　<ruby>友達<rt>ともだち</rt></ruby>が<ruby>撃<rt>う</rt></ruby>たれた<ruby>高校生<rt>こうこうせい</rt></ruby>たち「<ruby>子<rt>こ</rt></ruby>どもを<ruby>守<rt>まも</rt></ruby>れ」
+  url: https://newswebeasy.github.io/news/easy/2018/02/22/アメリカ-友達が撃たれた高校生たち子どもを守れ
+- title: <ruby>国連<rt>こくれん</rt></ruby>　「エルサレムが<ruby>首都<rt>しゅと</rt></ruby>」と<ruby>言<rt>い</rt></ruby>うアメリカを<ruby>認<rt>みと</rt></ruby>めない
+  url: https://newswebeasy.github.io/news/easy/2017/12/22/国連-エルサレムが首都と言うアメリカを認めない
+...

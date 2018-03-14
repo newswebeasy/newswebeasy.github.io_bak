@@ -1,0 +1,83 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011362461000
+last_modified_at: '2018-03-14T16:55:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>55<ruby>分<rt>ふん</rt></ruby>
+description: イギリスの南にあるまちのショッピングセンターで４日、ロシア人の男性と娘がベンチで倒れていました。
+title: イギリス「スパイだった男性に使った毒はロシアが作った」
+title_with_ruby: イギリス「スパイだった<ruby>男性<rt>だんせい</rt></ruby>に<ruby>使<rt>つか</rt></ruby>った<ruby>毒<rt>どく</rt></ruby>はロシアが<ruby>作<rt>つく</rt></ruby>った」
+outline: イギリスの南にあるまちのショッピングセンターで４日、ロシア人の男性と娘がベンチで倒れていました。
+outline_with_ruby: イギリスの<ruby>南<rt>みなみ</rt></ruby>にあるまちのショッピングセンターで<ruby>４日<rt>よっか</rt></ruby>、ロシア<ruby>人<rt>じん</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>と<ruby>娘<rt>むすめ</rt></ruby>がベンチで<ruby>倒<rt>たお</rt></ruby>れていました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/13/K10011362461_1803130531_1803130532_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/14/k10011362461000.mp3
+content_with_ruby: "<p>イギリスの<ruby>南<rt>みなみ</rt></ruby>にあるまちのショッピングセンターで<ruby>４日<rt>よっか</rt></ruby>、ロシア<ruby>人<rt>じん</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>と<ruby>娘<rt>むすめ</rt></ruby>が<span\
+  \ style=\"color: blue;\">ベンチ</span>で<ruby>倒<rt>たお</rt></ruby>れていました。イギリスの<ruby>警察<rt>けいさつ</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>かが<span\
+  \ style=\"color: blue;\"><ruby>毒<rt>どく</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>って<ruby>２人<rt>ふたり</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>殺<rt>ころ</rt></ruby>そ</span>うとしたと<ruby>考<rt>かんが</rt></ruby>えて、この<span\
+  \ style=\"color: blue;\"><ruby>事件<rt>じけん</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べています。</p>\n\
+  <p>イギリスのテレビによると、<ruby>男性<rt>だんせい</rt></ruby>はロシアの<span style=\"color: blue;\"><ruby>秘密<rt>ひみつ</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>をイギリスに<ruby>伝<rt>つた</rt></ruby>える<span\
+  \ style=\"color: blue;\">スパイ</span>だったため、ロシアで<span style=\"color: blue;\"><ruby>逮捕<rt>たいほ</rt></ruby></span>されました。<ruby>男性<rt>だんせい</rt></ruby>は<ruby>自由<rt>じゆう</rt></ruby>になったあと、イギリスに<ruby>行<rt>い</rt></ruby>って<ruby>生活<rt>せいかつ</rt></ruby>していました。</p>\n\
+  <p>１２<ruby>日<rt>にち</rt></ruby>、イギリスのメイ<ruby>首相<rt>しゅしょう</rt></ruby>は「<span style=\"\
+  color: blue;\"><ruby>毒<rt>どく</rt></ruby></span>はロシアの<span style=\"color: blue;\"\
+  ><ruby>軍<rt>ぐん</rt></ruby></span>が<ruby>作<rt>つく</rt></ruby>ったものです。ロシアに<span style=\"\
+  color: blue;\"><ruby>責任<rt>せきにん</rt></ruby></span>がある<span style=\"color: blue;\"\
+  ><ruby>可能性<rt>かのうせい</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>いと<ruby>思<rt>おも</rt></ruby>います」と<ruby>言<rt>い</rt></ruby>いました。しかし、ロシアは「この<span\
+  \ style=\"color: blue;\"><ruby>事件<rt>じけん</rt></ruby></span>とは<ruby>何<rt>なん</rt></ruby>の<ruby>関係<rt>かんけい</rt></ruby>もありません」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>イギリスでは１３<ruby>日<rt>にち</rt></ruby>、ロシアのプーチン<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>の<ruby>政治<rt>せいじ</rt></ruby>に<ruby>反対<rt>はんたい</rt></ruby>していたロシア<ruby>人<rt>じん</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>が<ruby>家<rt>いえ</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなっていました。イギリスの<ruby>警察<rt>けいさつ</rt></ruby>は<ruby>男性<rt>だんせい</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなった<ruby>原因<rt>げんいん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: スパイ
+  descriptions:
+  - <ruby><rb>敵</rb><rt>てき</rt></ruby>の<ruby><rb>内部</rb><rt>ないぶ</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>って、<ruby><rb>秘密</rb><rt>ひみつ</rt></ruby>をさぐること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 毒
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>のあるもの。<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>傷</rb><rt>きず</rt></ruby>つけるもの。
+- word: ベンチ
+  descriptions:
+  - <ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>腰</rb><rt>こし</rt></ruby>かけ。<ruby><rb>長</rb><rt>なが</rt></ruby>いす。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>などで、<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>・<ruby><rb>監督</rb><rt>かんとく</rt></ruby>のいる<ruby><rb>席</rb><rt>せき</rt></ruby>。また、<ruby><rb>作戦</rb><rt>さくせん</rt></ruby>を<ruby><rb>指示</rb><rt>しじ</rt></ruby>する<ruby><rb>監督</rb><rt>かんとく</rt></ruby>・コーチ。
+- word: 殺す
+  descriptions:
+  - <ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - （<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。
+  - <ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。
+- word: 事件
+  descriptions:
+  - ふだんないような、できごと。
+- word: 秘密
+  descriptions:
+  - かくして、<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>らせないこと。かくしごと。ないしょ。
+- word: 情報
+  descriptions:
+  - できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+- word: 逮捕
+  descriptions:
+  - <ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>がつかまえること。
+- word: 軍
+  descriptions:
+  - <ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。
+- word: 責任
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>けてしなければならない<ruby><rb>務</rb><rt>つと</rt></ruby>め。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011362461000/k10011362461000.html
+web_title_with_ruby: <ruby>元<rt>もと</rt></ruby><ruby>スパイ<rt>すぱい</rt></ruby><ruby>襲撃<rt>しゅうげき</rt></ruby>
+  <ruby>英首相<rt>えいしゅしょう</rt></ruby>「<ruby>ロシア<rt>ろしあ</rt></ruby>に<ruby>責任<rt>せきにん</rt></ruby>ある<ruby>疑<rt>うたが</rt></ruby>い
+  <ruby>極<rt>きわ</rt></ruby>めて<ruby>高<rt>たか</rt></ruby>い」
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/13/元スパイ襲撃-英首相ロシアに責任ある疑い-極めて高い
+related_news:
+- title: ヨーロッパ　<ruby>厳<rt>きび</rt></ruby>しい<ruby>寒<rt>さむ</rt></ruby>さで２７<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/02/28/ヨーロッパ-厳しい寒さで27人が亡くなる
+- title: ロシア　<ruby>気温<rt>きおん</rt></ruby>がー６５℃になって<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>もいる
+  url: https://newswebeasy.github.io/news/easy/2018/01/18/ロシア-気温がー65Cになって亡くなった人もいる
+...
