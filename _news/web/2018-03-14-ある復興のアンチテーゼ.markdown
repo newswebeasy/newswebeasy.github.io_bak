@@ -1,0 +1,369 @@
+---
+layout: web_news
+categories: web
+newsid: k10011364881000
+title: ある復興のアンチテーゼ
+title_with_ruby: ある<ruby>復興<rt data-ruby-level="5">ふっこう</rt></ruby>のアンチテーゼ
+last_modified_at: '2018-03-14T17:07:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>03<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>14<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 17<ruby>時<rt data-ruby-level="2">じ</rt></ruby>07<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 「もっと違う復興のやり方があったのではないか」。東北の被災地でよく聞かれる声です。こうした声に呼応するかのように、ハード事業に巨額の資金を投入する復興のあり方に疑問を投げかける試算がまとまりました。次の巨大災害が起きたときに必要とされる資金を試算すると、１６２兆円にのぼり、財政破綻を招きかねないというのです。（社会部記者
+  中島俊樹・清木まりあ・盛岡局記者 伊藤麗）
+summary: 「もっと<ruby>違<rt data-ruby-level="7">ちが</rt></ruby>う<ruby>復興<rt data-ruby-level="5">ふっこう</rt></ruby>のやり<ruby>方<rt
+  data-ruby-level="2">かた</rt></ruby>があったのではないか」。<ruby>東北<rt data-ruby-level="2">とうほく</rt></ruby>の<ruby>被災地<rt
+  data-ruby-level="7">ひさいち</rt></ruby>でよく<ruby>聞<rt data-ruby-level="2">き</rt></ruby>かれる<ruby>声<rt
+  data-ruby-level="2">こえ</rt></ruby>です。こうした<ruby>声<rt data-ruby-level="2">こえ</rt></ruby>に<ruby>呼応<rt
+  data-ruby-level="6">こおう</rt></ruby>するかのように、ハード<ruby>事業<rt data-ruby-level="3">じぎょう</rt></ruby>に<ruby>巨額<rt
+  data-ruby-level="7">きょがく</rt></ruby>の<ruby>資金<rt data-ruby-level="5">しきん</rt></ruby>を<ruby>投入<rt
+  data-ruby-level="3">とうにゅう</rt></ruby>する<ruby>復興<rt data-ruby-level="5">ふっこう</rt></ruby>のあり<ruby>方<rt
+  data-ruby-level="2">かた</rt></ruby>に<ruby>疑問<rt data-ruby-level="6">ぎもん</rt></ruby>を<ruby>投<rt
+  data-ruby-level="3">な</rt></ruby>げかける<ruby>試算<rt data-ruby-level="4">しさん</rt></ruby>がまとまりました。<ruby>次<rt
+  data-ruby-level="3">つぎ</rt></ruby>の<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>災害<rt
+  data-ruby-level="5">さいがい</rt></ruby>が<ruby>起<rt data-ruby-level="3">お</rt></ruby>きたときに<ruby>必要<rt
+  data-ruby-level="4">ひつよう</rt></ruby>とされる<ruby>資金<rt data-ruby-level="5">しきん</rt></ruby>を<ruby>試算<rt
+  data-ruby-level="4">しさん</rt></ruby>すると、１６２<ruby>兆円<rt data-ruby-level="4">ちょうえん</rt></ruby>にのぼり、<ruby>財政<rt
+  data-ruby-level="5">ざいせい</rt></ruby><ruby>破綻<rt data-ruby-level="7">はたん</rt></ruby>を<ruby>招<rt
+  data-ruby-level="5">まね</rt></ruby>きかねないというのです。（<ruby>社会部<rt data-ruby-level="3">しゃかいぶ</rt></ruby><ruby>記者<rt
+  data-ruby-level="3">きしゃ</rt></ruby> <ruby>中島<rt data-ruby-level="3">なかじま</rt></ruby><ruby>俊樹<rt
+  data-ruby-level="8">としき</rt></ruby>・<ruby>清木<rt data-ruby-level="4">せいき</rt></ruby>まりあ・<ruby>盛岡<rt
+  data-ruby-level="7">もりおか</rt></ruby><ruby>局<rt data-ruby-level="8">つぼね</rt></ruby><ruby>記者<rt
+  data-ruby-level="3">きしゃ</rt></ruby> <ruby>伊藤<rt data-ruby-level="8">いとう</rt></ruby><ruby>麗<rt
+  data-ruby-level="8">うらら</rt></ruby>）
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/14/K10011364881_1803141555_1803141603_01_02.jpg
+body:
+- title: <ruby>震災<rt data-ruby-level="7">しんさい</rt></ruby>７<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>の「<ruby>違和感<rt
+    data-ruby-level="7">いわかん</rt></ruby>」
+  text: <ruby>津波<rt data-ruby-level="7">つなみ</rt></ruby>を<ruby>防<rt data-ruby-level="5">ふせ</rt></ruby>ぐ<ruby>立派<rt
+    data-ruby-level="6">りっぱ</rt></ruby>な<ruby>防潮堤<rt data-ruby-level="7">ぼうちょうてい</rt></ruby>の<ruby>整備<rt
+    data-ruby-level="5">せいび</rt></ruby>が<ruby>進<rt data-ruby-level="3">すす</rt></ruby>み、１０メートルもの<ruby>高<rt
+    data-ruby-level="2">たか</rt></ruby>さに<ruby>土地<rt data-ruby-level="2">とち</rt></ruby>がかさ<ruby>上<rt
+    data-ruby-level="1">あ</rt></ruby>げされたのに、<ruby>再建<rt data-ruby-level="5">さいけん</rt></ruby>された<ruby>住宅<rt
+    data-ruby-level="6">じゅうたく</rt></ruby>はまばら…。これは<ruby>東日本<rt data-ruby-level="2">ひがしにほん</rt></ruby><ruby>大震災<rt
+    data-ruby-level="7">だいしんさい</rt></ruby>の<ruby>被災地<rt data-ruby-level="7">ひさいち</rt></ruby>で<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>られる<ruby>震災<rt data-ruby-level="7">しんさい</rt></ruby>から７<ruby>年<rt
+    data-ruby-level="1">ねん</rt></ruby>の<ruby>風景<rt data-ruby-level="4">ふうけい</rt></ruby>です。そんな<ruby>東北<rt
+    data-ruby-level="2">とうほく</rt></ruby>の<ruby>風景<rt data-ruby-level="4">ふうけい</rt></ruby>を<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>て<ruby>違和感<rt data-ruby-level="7">いわかん</rt></ruby>を<ruby>感<rt
+    data-ruby-level="3">かん</rt></ruby>じたのが<ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>のテーマを<ruby>取材<rt
+    data-ruby-level="4">しゅざい</rt></ruby>するきっかけでした。
+- title: アンチテーゼの<ruby>復興<rt data-ruby-level="5">ふっこう</rt></ruby><ruby>試算<rt data-ruby-level="4">しさん</rt></ruby>
+  text: <ruby>関西大学<rt data-ruby-level="4">かんさいだいがく</rt></ruby>の<ruby>永松<rt data-ruby-level="5">ながまつ</rt></ruby><ruby>伸吾<rt
+    data-ruby-level="8">しんご</rt></ruby><ruby>教授<rt data-ruby-level="5">きょうじゅ</rt></ruby>と、<ruby>九州大学<rt
+    data-ruby-level="3">きゅうしゅうだいがく</rt></ruby>の<ruby>宮崎<rt data-ruby-level="7">みやざき</rt></ruby><ruby>毅<rt
+    data-ruby-level="8">つよし</rt></ruby><ruby>准教授<rt data-ruby-level="7">じゅんきょうじゅ</rt></ruby>は、<ruby>私<rt
+    data-ruby-level="8">わたし</rt></ruby>たちと<ruby>同<rt data-ruby-level="2">おな</rt></ruby>じ<ruby>違和感<rt
+    data-ruby-level="7">いわかん</rt></ruby>を<ruby>感<rt data-ruby-level="3">かん</rt></ruby>じながら、<ruby>今後<rt
+    data-ruby-level="2">こんご</rt></ruby><ruby>予想<rt data-ruby-level="3">よそう</rt></ruby>される<ruby>南海<rt
+    data-ruby-level="2">なんかい</rt></ruby>トラフの<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>が<ruby>起<rt data-ruby-level="3">お</rt></ruby>きた<ruby>場合<rt
+    data-ruby-level="2">ばあい</rt></ruby>、<ruby>復興<rt data-ruby-level="5">ふっこう</rt></ruby>のための<ruby>予算<rt
+    data-ruby-level="3">よさん</rt></ruby>がどれだけ<ruby>必要<rt data-ruby-level="4">ひつよう</rt></ruby>になるのか<ruby>試算<rt
+    data-ruby-level="4">しさん</rt></ruby>しました。
+  textPos: top
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/14/K10011364881_1803141521_1803141537_01_04.jpg
+- text: <ruby>国<rt data-ruby-level="2">くに</rt></ruby>の<ruby>想定<rt data-ruby-level="3">そうてい</rt></ruby>では、<ruby>南海<rt
+    data-ruby-level="2">なんかい</rt></ruby>トラフの<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>が<ruby>起<rt data-ruby-level="3">お</rt></ruby>きると<ruby>東海<rt
+    data-ruby-level="2">とうかい</rt></ruby>、<ruby>近畿<rt data-ruby-level="7">きんき</rt></ruby>、<ruby>四国<rt
+    data-ruby-level="2">しこく</rt></ruby>の<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>い<ruby>範囲<rt
+    data-ruby-level="7">はんい</rt></ruby>で<ruby>津波<rt data-ruby-level="7">つなみ</rt></ruby>が<ruby>到達<rt
+    data-ruby-level="7">とうたつ</rt></ruby>し、<ruby>最悪<rt data-ruby-level="4">さいあく</rt></ruby>の<ruby>場合<rt
+    data-ruby-level="2">ばあい</rt></ruby>、およそ３２<ruby>万<rt data-ruby-level="2">まん</rt></ruby>３０００<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>が<ruby>死亡<rt data-ruby-level="6">しぼう</rt></ruby>し、２３８<ruby>万<rt
+    data-ruby-level="2">まん</rt></ruby><ruby>棟<rt data-ruby-level="7">むね</rt></ruby><ruby>余<rt
+    data-ruby-level="5">あま</rt></ruby>りの<ruby>建物<rt data-ruby-level="4">たてもの</rt></ruby>が<ruby>全壊<rt
+    data-ruby-level="7">ぜんかい</rt></ruby>または<ruby>焼失<rt data-ruby-level="7">しょうしつ</rt></ruby>するおそれがあるとされています。<br
+    /><br />そして、<ruby>南海<rt data-ruby-level="2">なんかい</rt></ruby>トラフの<ruby>被災地<rt data-ruby-level="7">ひさいち</rt></ruby>に、<ruby>東日本<rt
+    data-ruby-level="2">ひがしにほん</rt></ruby><ruby>大震災<rt data-ruby-level="7">だいしんさい</rt></ruby>と<ruby>同<rt
+    data-ruby-level="2">おな</rt></ruby>じような<ruby>手法<rt data-ruby-level="4">しゅほう</rt></ruby>で<ruby>防潮堤<rt
+    data-ruby-level="7">ぼうちょうてい</rt></ruby>を<ruby>建設<rt data-ruby-level="5">けんせつ</rt></ruby>したり、<ruby>土地<rt
+    data-ruby-level="2">とち</rt></ruby>をかさ<ruby>上<rt data-ruby-level="1">あ</rt></ruby>げしたりすることを<ruby>想定<rt
+    data-ruby-level="3">そうてい</rt></ruby>して<ruby>復興<rt data-ruby-level="5">ふっこう</rt></ruby><ruby>費用<rt
+    data-ruby-level="4">ひよう</rt></ruby>を<ruby>計算<rt data-ruby-level="2">けいさん</rt></ruby>しました。<br
+    /><br />その<ruby>結果<rt data-ruby-level="4">けっか</rt></ruby>、<ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby>から５<ruby>年<rt
+    data-ruby-level="1">ねん</rt></ruby>で<ruby>必要<rt data-ruby-level="4">ひつよう</rt></ruby>になる<ruby>額<rt
+    data-ruby-level="5">がく</rt></ruby>は、<ruby>国<rt data-ruby-level="2">くに</rt></ruby>と<ruby>自治体<rt
+    data-ruby-level="4">じちたい</rt></ruby><ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせて１６２<ruby>兆円<rt
+    data-ruby-level="4">ちょうえん</rt></ruby>。<ruby>震災<rt data-ruby-level="7">しんさい</rt></ruby>の<ruby>復興<rt
+    data-ruby-level="5">ふっこう</rt></ruby>にかかったこれまでの<ruby>予算<rt data-ruby-level="3">よさん</rt></ruby>と<ruby>比<rt
+    data-ruby-level="5">くら</rt></ruby>べ、およそ５<ruby>倍<rt data-ruby-level="3">ばい</rt></ruby>、そして、<ruby>平成<rt
+    data-ruby-level="4">へいせい</rt></ruby>２９<ruby>年<rt data-ruby-level="1">ねん</rt></ruby><ruby>度<rt
+    data-ruby-level="3">ど</rt></ruby>の<ruby>国<rt data-ruby-level="3">くに</rt></ruby>の<ruby>一般<rt
+    data-ruby-level="7">いっぱん</rt></ruby><ruby>会計<rt data-ruby-level="2">かいけい</rt></ruby><ruby>予算<rt
+    data-ruby-level="3">よさん</rt></ruby>、およそ９７<ruby>兆<rt data-ruby-level="4">ちょう</rt></ruby>５０００<ruby>億円<rt
+    data-ruby-level="4">おくえん</rt></ruby>をはるかに<ruby>上回<rt data-ruby-level="2">うわまわ</rt></ruby>りました。
+  textPos: top
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/14/K10011364881_1803141519_1803141537_01_05.jpg
+- text: そして、これほど<ruby>巨額<rt data-ruby-level="7">きょがく</rt></ruby>の<ruby>財源<rt data-ruby-level="6">ざいげん</rt></ruby>を<ruby>投入<rt
+    data-ruby-level="3">とうにゅう</rt></ruby>しようとすれば、<ruby>国<rt data-ruby-level="2">くに</rt></ruby>の<ruby>財政<rt
+    data-ruby-level="5">ざいせい</rt></ruby>が<ruby>危機的<rt data-ruby-level="6">ききてき</rt></ruby>な<ruby>状況<rt
+    data-ruby-level="7">じょうきょう</rt></ruby>に<ruby>陥<rt data-ruby-level="7">おちい</rt></ruby>る<ruby>危険<rt
+    data-ruby-level="6">きけん</rt></ruby>があるというのです。<br /><br />「<ruby>巨額<rt data-ruby-level="7">きょがく</rt></ruby>の<ruby>資金<rt
+    data-ruby-level="5">しきん</rt></ruby>を<ruby>確保<rt data-ruby-level="5">かくほ</rt></ruby>するには、<ruby>国債<rt
+    data-ruby-level="7">こくさい</rt></ruby>の<ruby>発行<rt data-ruby-level="3">はっこう</rt></ruby>や<ruby>増税<rt
+    data-ruby-level="5">ぞうぜい</rt></ruby>が<ruby>必要<rt data-ruby-level="4">ひつよう</rt></ruby>になりますが、どちらの<ruby>手法<rt
+    data-ruby-level="4">しゅほう</rt></ruby>をとっても<ruby>国<rt data-ruby-level="2">くに</rt></ruby>が<ruby>財政的<rt
+    data-ruby-level="5">ざいせいてき</rt></ruby>に<ruby>破綻<rt data-ruby-level="7">はたん</rt></ruby>するのは、<ruby>間違<rt
+    data-ruby-level="7">まちが</rt></ruby>いありません。<ruby>東日本<rt data-ruby-level="2">ひがしにほん</rt></ruby><ruby>大震災<rt
+    data-ruby-level="7">だいしんさい</rt></ruby>の<ruby>時<rt data-ruby-level="2">とき</rt></ruby>のように、<ruby>津波<rt
+    data-ruby-level="7">つなみ</rt></ruby>からの<ruby>防災<rt data-ruby-level="5">ぼうさい</rt></ruby>をハード<ruby>面<rt
+    data-ruby-level="3">めん</rt></ruby>の<ruby>整備<rt data-ruby-level="5">せいび</rt></ruby>に<ruby>頼<rt
+    data-ruby-level="7">たよ</rt></ruby>る<ruby>発想<rt data-ruby-level="3">はっそう</rt></ruby>は<ruby>限界<rt
+    data-ruby-level="5">げんかい</rt></ruby>に<ruby>来<rt data-ruby-level="2">き</rt></ruby>ています」<br
+    />（<ruby>関西大学<rt data-ruby-level="4">かんさいだいがく</rt></ruby> <ruby>永松<rt data-ruby-level="5">ながまつ</rt></ruby><ruby>伸吾<rt
+    data-ruby-level="8">しんご</rt></ruby><ruby>教授<rt data-ruby-level="5">きょうじゅ</rt></ruby>）
+  textPos: top
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/14/K10011364881_1803141519_1803141537_01_06.jpg
+- title: <ruby>復興<rt data-ruby-level="5">ふっこう</rt></ruby><ruby>増税<rt data-ruby-level="5">ぞうぜい</rt></ruby>で３２<ruby>兆円<rt
+    data-ruby-level="4">ちょうえん</rt></ruby><ruby>投入<rt data-ruby-level="3">とうにゅう</rt></ruby>
+  text: <ruby>東日本<rt data-ruby-level="2">ひがしにほん</rt></ruby><ruby>大震災<rt data-ruby-level="7">だいしんさい</rt></ruby>の<ruby>復興<rt
+    data-ruby-level="5">ふっこう</rt></ruby>のあり<ruby>方<rt data-ruby-level="2">かた</rt></ruby>に<ruby>大<rt
+    data-ruby-level="1">おお</rt></ruby>きな<ruby>疑問<rt data-ruby-level="6">ぎもん</rt></ruby>を<ruby>投<rt
+    data-ruby-level="3">な</rt></ruby>げかけた<ruby>新<rt data-ruby-level="2">あら</rt></ruby>たな<ruby>復興<rt
+    data-ruby-level="5">ふっこう</rt></ruby><ruby>試算<rt data-ruby-level="4">しさん</rt></ruby>。それでも、<ruby>巨額<rt
+    data-ruby-level="7">きょがく</rt></ruby>の<ruby>資金<rt data-ruby-level="5">しきん</rt></ruby>に<ruby>見合<rt
+    data-ruby-level="2">みあ</rt></ruby>うだけの<ruby>効果<rt data-ruby-level="5">こうか</rt></ruby>が<ruby>出<rt
+    data-ruby-level="1">で</rt></ruby>ていれば、<ruby>問題<rt data-ruby-level="3">もんだい</rt></ruby>ないはずです。<br
+    /><br /><ruby>東日本<rt data-ruby-level="2">ひがしにほん</rt></ruby><ruby>大震災<rt data-ruby-level="7">だいしんさい</rt></ruby>の<ruby>復興<rt
+    data-ruby-level="5">ふっこう</rt></ruby>のために<ruby>充<rt data-ruby-level="7">あ</rt></ruby>てられた<ruby>国<rt
+    data-ruby-level="2">くに</rt></ruby>や<ruby>地方<rt data-ruby-level="2">ちほう</rt></ruby><ruby>自治体<rt
+    data-ruby-level="4">じちたい</rt></ruby>の<ruby>予算<rt data-ruby-level="3">よさん</rt></ruby>は、３２<ruby>兆円<rt
+    data-ruby-level="4">ちょうえん</rt></ruby>。<ruby>所得税<rt data-ruby-level="5">しょとくぜい</rt></ruby>や<ruby>住民税<rt
+    data-ruby-level="5">じゅうみんぜい</rt></ruby>の<ruby>増税<rt data-ruby-level="5">ぞうぜい</rt></ruby>、それに、ほかの<ruby>歳出<rt
+    data-ruby-level="7">さいしゅつ</rt></ruby>の<ruby>削減<rt data-ruby-level="7">さくげん</rt></ruby>などでまかなわれてきました。<br
+    /><br />そして、その<ruby>使<rt data-ruby-level="3">つか</rt></ruby>いみちで<ruby>最<rt data-ruby-level="4">もっと</rt></ruby>も<ruby>大<rt
+    data-ruby-level="1">おお</rt></ruby>きいのは、<ruby>堤防<rt data-ruby-level="7">ていぼう</rt></ruby>の<ruby>復旧<rt
+    data-ruby-level="5">ふっきゅう</rt></ruby>や<ruby>災害<rt data-ruby-level="5">さいがい</rt></ruby><ruby>公営<rt
+    data-ruby-level="5">こうえい</rt></ruby><ruby>住宅<rt data-ruby-level="6">じゅうたく</rt></ruby>の<ruby>建設<rt
+    data-ruby-level="5">けんせつ</rt></ruby>などの「<ruby>住宅<rt data-ruby-level="6">じゅうたく</rt></ruby><ruby>再建<rt
+    data-ruby-level="5">さいけん</rt></ruby>・<ruby>復興<rt data-ruby-level="5">ふっこう</rt></ruby>まちづくり」で３４％を<ruby>占<rt
+    data-ruby-level="7">し</rt></ruby>めています。<ruby>津波<rt data-ruby-level="7">つなみ</rt></ruby>から<ruby>命<rt
+    data-ruby-level="3">いのち</rt></ruby>を<ruby>守<rt data-ruby-level="3">まも</rt></ruby>るため、<ruby>安全性<rt
+    data-ruby-level="5">あんぜんせい</rt></ruby>を<ruby>高<rt data-ruby-level="2">たか</rt></ruby>めた<ruby>住<rt
+    data-ruby-level="3">す</rt></ruby>まいを<ruby>確保<rt data-ruby-level="5">かくほ</rt></ruby>しようと、<ruby>土木<rt
+    data-ruby-level="1">どぼく</rt></ruby>や<ruby>建設<rt data-ruby-level="5">けんせつ</rt></ruby><ruby>関係<rt
+    data-ruby-level="4">かんけい</rt></ruby>の<ruby>事業<rt data-ruby-level="3">じぎょう</rt></ruby>に<ruby>巨額<rt
+    data-ruby-level="7">きょがく</rt></ruby>の<ruby>費用<rt data-ruby-level="4">ひよう</rt></ruby>を<ruby>投<rt
+    data-ruby-level="3">とう</rt></ruby>じたのです。
+  textPos: top
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/14/K10011364881_1803141701_1803141703_01_06.jpg
+- title: かさ<ruby>上<rt data-ruby-level="1">あ</rt></ruby>げの<ruby>土地<rt data-ruby-level="2">とち</rt></ruby>に<ruby>住宅<rt
+    data-ruby-level="6">じゅうたく</rt></ruby>はまばら…
+  text: ところが、<ruby>被災地<rt data-ruby-level="7">ひさいち</rt></ruby>をつぶさに<ruby>取材<rt data-ruby-level="4">しゅざい</rt></ruby>しても、<ruby>大規模<rt
+    data-ruby-level="6">だいきぼ</rt></ruby>な<ruby>復興<rt data-ruby-level="5">ふっこう</rt></ruby><ruby>事業<rt
+    data-ruby-level="3">じぎょう</rt></ruby>の<ruby>成果<rt data-ruby-level="4">せいか</rt></ruby>はなかなか<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>えてきません。<br /><br /><ruby>震災<rt data-ruby-level="7">しんさい</rt></ruby>で１２００<ruby>人以上<rt
+    data-ruby-level="4">にんいじょう</rt></ruby>が<ruby>犠牲<rt data-ruby-level="7">ぎせい</rt></ruby>になり、<ruby>住宅<rt
+    data-ruby-level="6">じゅうたく</rt></ruby>の７<ruby>割<rt data-ruby-level="6">わり</rt></ruby><ruby>近<rt
+    data-ruby-level="2">ちか</rt></ruby>くが<ruby>被災<rt data-ruby-level="7">ひさい</rt></ruby>した<ruby>岩手県<rt
+    data-ruby-level="3">いわてけん</rt></ruby><ruby>大槌町<rt data-ruby-level="8">おおつちちょう</rt></ruby>の<ruby>現状<rt
+    data-ruby-level="5">げんじょう</rt></ruby>を<ruby>見<rt data-ruby-level="1">み</rt></ruby>てみます。<ruby>中心部<rt
+    data-ruby-level="3">ちゅうしんぶ</rt></ruby>の<ruby>土地<rt data-ruby-level="2">とち</rt></ruby>をおよそ２メートルの<ruby>高<rt
+    data-ruby-level="2">たか</rt></ruby>さにかさ<ruby>上<rt data-ruby-level="1">あ</rt></ruby>げする<ruby>工事<rt
+    data-ruby-level="3">こうじ</rt></ruby>が<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>、<ruby>完了<rt
+    data-ruby-level="7">かんりょう</rt></ruby>しましたが、<ruby>使<rt data-ruby-level="3">つか</rt></ruby>う<ruby>予定<rt
+    data-ruby-level="3">よてい</rt></ruby>が<ruby>決<rt data-ruby-level="3">き</rt></ruby>まっていない<ruby>空<rt
+    data-ruby-level="2">あ</rt></ruby>き<ruby>地<rt data-ruby-level="2">ち</rt></ruby>が<ruby>目立<rt
+    data-ruby-level="1">めだ</rt></ruby>っています。
+  textPos: top
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/14/K10011364881_1803141522_1803141537_01_07.jpg
+- text: <ruby>町<rt data-ruby-level="1">まち</rt></ruby>の<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby>では、<ruby>被災<rt
+    data-ruby-level="7">ひさい</rt></ruby>した<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>や<ruby>企業<rt
+    data-ruby-level="7">きぎょう</rt></ruby>が<ruby>所有<rt data-ruby-level="3">しょゆう</rt></ruby>する<ruby>土地<rt
+    data-ruby-level="2">とち</rt></ruby>のうち、<ruby>利用<rt data-ruby-level="4">りよう</rt></ruby><ruby>予定<rt
+    data-ruby-level="3">よてい</rt></ruby>のある<ruby>中心部<rt data-ruby-level="3">ちゅうしんぶ</rt></ruby>の<ruby>区画<rt
+    data-ruby-level="3">くかく</rt></ruby>は、４３％にとどまっています。<br /><br />ではなぜ、せっかく<ruby>造成<rt
+    data-ruby-level="5">ぞうせい</rt></ruby>された<ruby>土地<rt data-ruby-level="2">とち</rt></ruby>に<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>が<ruby>戻<rt data-ruby-level="7">もど</rt></ruby>らないのでしょうか。<ruby>大槌町<rt
+    data-ruby-level="8">おおつちちょう</rt></ruby>から<ruby>内陸<rt data-ruby-level="4">ないりく</rt></ruby>に８０キロ<ruby>余<rt
+    data-ruby-level="5">あま</rt></ruby>り<ruby>離<rt data-ruby-level="7">はな</rt></ruby>れた<ruby>岩手県<rt
+    data-ruby-level="3">いわてけん</rt></ruby><ruby>花巻市<rt data-ruby-level="6">はなまきし</rt></ruby>に<ruby>避難<rt
+    data-ruby-level="7">ひなん</rt></ruby>した<ruby>太田<rt data-ruby-level="8">おおた</rt></ruby><ruby>佑一<rt
+    data-ruby-level="8">ゆういち</rt></ruby>さん（７７）は、<ruby>当初<rt data-ruby-level="4">とうしょ</rt></ruby>、<ruby>大槌町<rt
+    data-ruby-level="8">おおつちちょう</rt></ruby>に<ruby>戻<rt data-ruby-level="7">もど</rt></ruby>りたいと<ruby>考<rt
+    data-ruby-level="2">かんが</rt></ruby>えていました。しかし、その<ruby>後<rt data-ruby-level="2">ご</rt></ruby>、<ruby>体調<rt
+    data-ruby-level="3">たいちょう</rt></ruby>が<ruby>悪化<rt data-ruby-level="3">あっか</rt></ruby>し、ふるさとのかさ<ruby>上<rt
+    data-ruby-level="1">あ</rt></ruby>げ<ruby>工事<rt data-ruby-level="3">こうじ</rt></ruby>が<ruby>完了<rt
+    data-ruby-level="7">かんりょう</rt></ruby>して<ruby>自宅<rt data-ruby-level="6">じたく</rt></ruby>を<ruby>再建<rt
+    data-ruby-level="5">さいけん</rt></ruby>するのを<ruby>待<rt data-ruby-level="3">ま</rt></ruby>ちきれなくなりました。そこで<ruby>一時的<rt
+    data-ruby-level="4">いちじてき</rt></ruby>な<ruby>避難先<rt data-ruby-level="7">ひなんさき</rt></ruby>だったはずの<ruby>花巻市<rt
+    data-ruby-level="6">はなまきし</rt></ruby>に<ruby>自宅<rt data-ruby-level="6">じたく</rt></ruby>を<ruby>建<rt
+    data-ruby-level="4">た</rt></ruby>てたのです。<ruby>大槌町<rt data-ruby-level="8">おおつちちょう</rt></ruby>に<ruby>残<rt
+    data-ruby-level="4">のこ</rt></ruby>した<ruby>土地<rt data-ruby-level="2">とち</rt></ruby>の<ruby>使<rt
+    data-ruby-level="3">つか</rt></ruby>いみちは、<ruby>決<rt data-ruby-level="3">き</rt></ruby>まっていません。
+  textPos: top
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/14/K10011364881_1803141520_1803141537_01_08.jpg
+- text: 「もともと３<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>ぐらいで<ruby>戻<rt data-ruby-level="7">もど</rt></ruby>れると<ruby>思<rt
+    data-ruby-level="2">おも</rt></ruby>っていたが、<ruby>町<rt data-ruby-level="1">まち</rt></ruby>の<ruby>様子<rt
+    data-ruby-level="3">ようす</rt></ruby>を<ruby>見<rt data-ruby-level="1">み</rt></ruby>るたびに、<ruby>望<rt
+    data-ruby-level="4">のぞ</rt></ruby>みが<ruby>遠<rt data-ruby-level="2">とお</rt></ruby>のいていった。ふるさとには<ruby>未練<rt
+    data-ruby-level="4">みれん</rt></ruby>があったが、<ruby>仮設<rt data-ruby-level="5">かせつ</rt></ruby><ruby>住宅<rt
+    data-ruby-level="6">じゅうたく</rt></ruby>のアパートでは<ruby>死<rt data-ruby-level="3">し</rt></ruby>にたくなかった」（<ruby>太田<rt
+    data-ruby-level="8">おおた</rt></ruby><ruby>佑一<rt data-ruby-level="8">ゆういち</rt></ruby>さん）<br
+    />さらに、かさ<ruby>上<rt data-ruby-level="1">あ</rt></ruby>げした<ruby>土地<rt data-ruby-level="2">とち</rt></ruby>に<ruby>戻<rt
+    data-ruby-level="7">もど</rt></ruby>って<ruby>商売<rt data-ruby-level="3">しょうばい</rt></ruby>を<ruby>再開<rt
+    data-ruby-level="5">さいかい</rt></ruby>した<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>たちも、「<ruby>空<rt
+    data-ruby-level="2">あ</rt></ruby>き<ruby>地<rt data-ruby-level="2">ち</rt></ruby>」が<ruby>多<rt
+    data-ruby-level="2">おお</rt></ruby>い<ruby>現状<rt data-ruby-level="5">げんじょう</rt></ruby>では、<ruby>復興<rt
+    data-ruby-level="5">ふっこう</rt></ruby>が<ruby>実感<rt data-ruby-level="3">じっかん</rt></ruby>できないと<ruby>感<rt
+    data-ruby-level="3">かん</rt></ruby>じています。
+- title: 「<ruby>空<rt data-ruby-level="2">あ</rt></ruby>き<ruby>地<rt data-ruby-level="2">ち</rt></ruby>のまち」は<ruby>各地<rt
+    data-ruby-level="4">かくち</rt></ruby>にも
+  text: こうした<ruby>状況<rt data-ruby-level="7">じょうきょう</rt></ruby>は、<ruby>大槌町<rt data-ruby-level="8">おおつちちょう</rt></ruby>だけではありません。<br
+    /><ruby>岩手<rt data-ruby-level="2">いわて</rt></ruby>、<ruby>宮城<rt data-ruby-level="8">みやぎ</rt></ruby>、<ruby>福島<rt
+    data-ruby-level="3">ふくしま</rt></ruby>の３<ruby>県<rt data-ruby-level="3">けん</rt></ruby>には、<ruby>土地<rt
+    data-ruby-level="2">とち</rt></ruby>をかさ<ruby>上<rt data-ruby-level="1">あ</rt></ruby>げして<ruby>宅地<rt
+    data-ruby-level="6">たくち</rt></ruby>を<ruby>整備<rt data-ruby-level="5">せいび</rt></ruby>した<ruby>場所<rt
+    data-ruby-level="3">ばしょ</rt></ruby>が１３の<ruby>市町<rt data-ruby-level="2">しちょう</rt></ruby>に３０<ruby>地区<rt
+    data-ruby-level="3">ちく</rt></ruby>あります。これらの<ruby>自治体<rt data-ruby-level="4">じちたい</rt></ruby>の<ruby>調査<rt
+    data-ruby-level="5">ちょうさ</rt></ruby>によりますと、もとの<ruby>土地<rt data-ruby-level="2">とち</rt></ruby>の<ruby>所有者<rt
+    data-ruby-level="3">しょゆうしゃ</rt></ruby>が「<ruby>土地<rt data-ruby-level="2">とち</rt></ruby>を<ruby>利用<rt
+    data-ruby-level="4">りよう</rt></ruby>する<ruby>予定<rt data-ruby-level="3">よてい</rt></ruby>がある」と<ruby>答<rt
+    data-ruby-level="2">こた</rt></ruby>えた<ruby>割合<rt data-ruby-level="6">わりあい</rt></ruby>は、<ruby>自治体<rt
+    data-ruby-level="4">じちたい</rt></ruby>が<ruby>予想<rt data-ruby-level="3">よそう</rt></ruby>した<ruby>以上<rt
+    data-ruby-level="4">いじょう</rt></ruby>に、<ruby>低<rt data-ruby-level="4">ひく</rt></ruby>いものでした。
+  textPos: top
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/14/K10011364881_1803141532_1803141537_01_09.jpg
+- text: これまで、３０<ruby>地区<rt data-ruby-level="3">ちく</rt></ruby>でかかったかさ<ruby>上<rt data-ruby-level="1">あ</rt></ruby>げなどの<ruby>事業費<rt
+    data-ruby-level="4">じぎょうひ</rt></ruby>は<ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせて４８００<ruby>億円<rt
+    data-ruby-level="4">おくえん</rt></ruby><ruby>余<rt data-ruby-level="5">あま</rt></ruby>りにのぼりますが、<ruby>巨額<rt
+    data-ruby-level="7">きょがく</rt></ruby>の<ruby>予算<rt data-ruby-level="3">よさん</rt></ruby>をかけて<ruby>安全性<rt
+    data-ruby-level="5">あんぜんせい</rt></ruby>を<ruby>高<rt data-ruby-level="2">たか</rt></ruby>めても、<ruby>被災<rt
+    data-ruby-level="7">ひさい</rt></ruby>した<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>が<ruby>戻<rt
+    data-ruby-level="7">もど</rt></ruby>ってこないという<ruby>矛盾<rt data-ruby-level="7">むじゅん</rt></ruby>が<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>えてきました。<br /><br /><ruby>震災<rt data-ruby-level="7">しんさい</rt></ruby>の<ruby>事業<rt
+    data-ruby-level="3">じぎょう</rt></ruby>をもとに<ruby>南海<rt data-ruby-level="2">なんかい</rt></ruby>トラフの<ruby>巨大<rt
+    data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>に<ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>な<ruby>復興<rt data-ruby-level="5">ふっこう</rt></ruby><ruby>予算<rt
+    data-ruby-level="3">よさん</rt></ruby>を<ruby>試算<rt data-ruby-level="4">しさん</rt></ruby>した<ruby>関西大学<rt
+    data-ruby-level="4">かんさいだいがく</rt></ruby>の<ruby>永松<rt data-ruby-level="5">ながまつ</rt></ruby><ruby>伸吾<rt
+    data-ruby-level="8">しんご</rt></ruby><ruby>教授<rt data-ruby-level="5">きょうじゅ</rt></ruby>は、<ruby>今後<rt
+    data-ruby-level="2">こんご</rt></ruby><ruby>迫<rt data-ruby-level="7">せま</rt></ruby>り<ruby>来<rt
+    data-ruby-level="2">く</rt></ruby>る<ruby>災害<rt data-ruby-level="5">さいがい</rt></ruby>にどのようなことが<ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>となるのか、<ruby>次<rt data-ruby-level="3">つぎ</rt></ruby>のように<ruby>語<rt
+    data-ruby-level="2">かた</rt></ruby>ります。<br />「もう２<ruby>度<rt data-ruby-level="3">ど</rt></ruby>と<ruby>同<rt
+    data-ruby-level="2">おな</rt></ruby>じ<ruby>被害<rt data-ruby-level="7">ひがい</rt></ruby>を<ruby>繰<rt
+    data-ruby-level="7">く</rt></ruby>り<ruby>返<rt data-ruby-level="7">かえ</rt></ruby>さないために<ruby>安全<rt
+    data-ruby-level="3">あんぜん</rt></ruby>な<ruby>地域<rt data-ruby-level="6">ちいき</rt></ruby>づくりをするという<ruby>震災<rt
+    data-ruby-level="7">しんさい</rt></ruby><ruby>当初<rt data-ruby-level="4">とうしょ</rt></ruby>の<ruby>理念<rt
+    data-ruby-level="4">りねん</rt></ruby>が<ruby>間違<rt data-ruby-level="7">まちが</rt></ruby>いだったわけではない。ただ、これまでのやり<ruby>方<rt
+    data-ruby-level="2">かた</rt></ruby>はあまりにも<ruby>多<rt data-ruby-level="2">おお</rt></ruby>くの<ruby>金<rt
+    data-ruby-level="1">きん</rt></ruby>と<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>が<ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>で、ハードの<ruby>部分<rt data-ruby-level="3">ぶぶん</rt></ruby>に<ruby>頼<rt
+    data-ruby-level="7">たよ</rt></ruby>りすぎた。<ruby>南海<rt data-ruby-level="2">なんかい</rt></ruby>トラフの<ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>など<ruby>次<rt data-ruby-level="3">つぎ</rt></ruby>の<ruby>巨大<rt
+    data-ruby-level="7">きょだい</rt></ruby><ruby>災害<rt data-ruby-level="5">さいがい</rt></ruby>が<ruby>起<rt
+    data-ruby-level="3">お</rt></ruby>きたとき、ある<ruby>程度<rt data-ruby-level="5">ていど</rt></ruby>の<ruby>災害<rt
+    data-ruby-level="5">さいがい</rt></ruby>のリスクを<ruby>受<rt data-ruby-level="3">う</rt></ruby>け<ruby>入<rt
+    data-ruby-level="3">い</rt></ruby>れて、<ruby>津波<rt data-ruby-level="7">つなみ</rt></ruby>がまた<ruby>来<rt
+    data-ruby-level="2">き</rt></ruby>たら<ruby>逃<rt data-ruby-level="7">に</rt></ruby>げるという<ruby>思想<rt
+    data-ruby-level="3">しそう</rt></ruby>に<ruby>立<rt data-ruby-level="1">た</rt></ruby>ったまち<ruby>作<rt
+    data-ruby-level="2">づく</rt></ruby>りをしないと<ruby>国<rt data-ruby-level="2">くに</rt></ruby>の<ruby>財政<rt
+    data-ruby-level="5">ざいせい</rt></ruby>が<ruby>破綻<rt data-ruby-level="7">はたん</rt></ruby>するだろう」
+- title: <ruby>効果<rt data-ruby-level="5">こうか</rt></ruby>ある<ruby>復興<rt data-ruby-level="5">ふっこう</rt></ruby>の<ruby>方法<rt
+    data-ruby-level="4">ほうほう</rt></ruby>は
+  text: では、<ruby>次<rt data-ruby-level="3">つぎ</rt></ruby>の<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>が<ruby>起<rt data-ruby-level="3">お</rt></ruby>きたとき、もっと<ruby>効果的<rt
+    data-ruby-level="5">こうかてき</rt></ruby>に<ruby>復興<rt data-ruby-level="5">ふっこう</rt></ruby>することはできないのでしょうか。そして、１６２<ruby>兆円<rt
+    data-ruby-level="4">ちょうえん</rt></ruby>という<ruby>途方<rt data-ruby-level="7">とほう</rt></ruby>もないツケを<ruby>私<rt
+    data-ruby-level="8">わたし</rt></ruby>たちの<ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもや<ruby>孫<rt
+    data-ruby-level="4">まご</rt></ruby>の<ruby>世代<rt data-ruby-level="3">せだい</rt></ruby>に<ruby>背負<rt
+    data-ruby-level="6">せお</rt></ruby>わせずに<ruby>済<rt data-ruby-level="6">す</rt></ruby>む<ruby>方法<rt
+    data-ruby-level="4">ほうほう</rt></ruby>はないのでしょうか。<br /><br /><ruby>東日本<rt data-ruby-level="2">ひがしにほん</rt></ruby><ruby>大震災<rt
+    data-ruby-level="7">だいしんさい</rt></ruby>の<ruby>直後<rt data-ruby-level="2">ちょくご</rt></ruby>、<ruby>国土交通省<rt
+    data-ruby-level="4">こくどこうつうしょう</rt></ruby>で<ruby>被災地<rt data-ruby-level="7">ひさいち</rt></ruby>の<ruby>復興<rt
+    data-ruby-level="5">ふっこう</rt></ruby>に<ruby>携<rt data-ruby-level="7">たずさ</rt></ruby>わり、いまは<ruby>日本<rt
+    data-ruby-level="1">にっぽん</rt></ruby><ruby>災害<rt data-ruby-level="5">さいがい</rt></ruby><ruby>復興<rt
+    data-ruby-level="5">ふっこう</rt></ruby><ruby>学会<rt data-ruby-level="2">がっかい</rt></ruby>の<ruby>理事<rt
+    data-ruby-level="3">りじ</rt></ruby>を<ruby>務<rt data-ruby-level="5">つと</rt></ruby>める<ruby>佐々木<rt
+    data-ruby-level="7">ささき</rt></ruby><ruby>晶二<rt data-ruby-level="8">しょうじ</rt></ruby>さんのもとを<ruby>訪<rt
+    data-ruby-level="6">たず</rt></ruby>ねました。<ruby>佐々木<rt data-ruby-level="7">ささき</rt></ruby>さんはこれまでの<ruby>復興<rt
+    data-ruby-level="5">ふっこう</rt></ruby>のやり<ruby>方<rt data-ruby-level="2">かた</rt></ruby>に、<ruby>反省<rt
+    data-ruby-level="4">はんせい</rt></ruby>の<ruby>念<rt data-ruby-level="4">ねん</rt></ruby>を<ruby>抱<rt
+    data-ruby-level="7">いだ</rt></ruby>いていました。
+  textPos: top
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/14/K10011364881_1803141522_1803141537_01_10.jpg
+- text: <ruby>被災<rt data-ruby-level="7">ひさい</rt></ruby>した<ruby>土地<rt data-ruby-level="2">とち</rt></ruby>を、もとのサイズのまま、もとのとおりに<ruby>戻<rt
+    data-ruby-level="7">もど</rt></ruby>そうという<ruby>復興<rt data-ruby-level="5">ふっこう</rt></ruby>のやり<ruby>方<rt
+    data-ruby-level="2">かた</rt></ruby>は<ruby>人口<rt data-ruby-level="1">じんこう</rt></ruby><ruby>減少<rt
+    data-ruby-level="5">げんしょう</rt></ruby>が<ruby>進<rt data-ruby-level="3">すす</rt></ruby>むいまの<ruby>時代<rt
+    data-ruby-level="3">じだい</rt></ruby>に<ruby>合<rt data-ruby-level="2">あ</rt></ruby>わないというのです。<br
+    /><br />そして、<ruby>次<rt data-ruby-level="3">つぎ</rt></ruby>の<ruby>災害<rt data-ruby-level="5">さいがい</rt></ruby>に<ruby>備<rt
+    data-ruby-level="5">そな</rt></ruby>えて、<ruby>住民<rt data-ruby-level="4">じゅうみん</rt></ruby>の<ruby>意向<rt
+    data-ruby-level="3">いこう</rt></ruby>が<ruby>変化<rt data-ruby-level="4">へんか</rt></ruby>することを<ruby>前提<rt
+    data-ruby-level="5">ぜんてい</rt></ruby>に、<ruby>柔軟<rt data-ruby-level="7">じゅうなん</rt></ruby>でコンパクトな<ruby>地域<rt
+    data-ruby-level="6">ちいき</rt></ruby>をつくる<ruby>手法<rt data-ruby-level="4">しゅほう</rt></ruby>を<ruby>提案<rt
+    data-ruby-level="5">ていあん</rt></ruby>しています。<br /><br />まずは、<ruby>住宅<rt data-ruby-level="6">じゅうたく</rt></ruby>や<ruby>店<rt
+    data-ruby-level="2">みせ</rt></ruby>を<ruby>再建<rt data-ruby-level="5">さいけん</rt></ruby>する<ruby>意向<rt
+    data-ruby-level="3">いこう</rt></ruby>が<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>い<ruby>所有者<rt
+    data-ruby-level="3">しょゆうしゃ</rt></ruby>だけを、まちの<ruby>中心部<rt data-ruby-level="3">ちゅうしんぶ</rt></ruby>に<ruby>集<rt
+    data-ruby-level="3">あつ</rt></ruby>め、<ruby>小<rt data-ruby-level="1">ちい</rt></ruby>さなエリアでかさ<ruby>上<rt
+    data-ruby-level="1">あ</rt></ruby>げや<ruby>宅地<rt data-ruby-level="6">たくち</rt></ruby>の<ruby>整備<rt
+    data-ruby-level="5">せいび</rt></ruby>を<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>めます。<br
+    /><br /><ruby>戻<rt data-ruby-level="7">もど</rt></ruby>るかどうか<ruby>迷<rt data-ruby-level="5">まよ</rt></ruby>っている<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>の<ruby>土地<rt data-ruby-level="2">とち</rt></ruby>は<ruby>整備<rt
+    data-ruby-level="5">せいび</rt></ruby>せず、いったん<ruby>保留<rt data-ruby-level="5">ほりゅう</rt></ruby>にし、その<ruby>後<rt
+    data-ruby-level="2">ご</rt></ruby>、<ruby>戻<rt data-ruby-level="7">もど</rt></ruby>りたい<ruby>住民<rt
+    data-ruby-level="4">じゅうみん</rt></ruby>が<ruby>増<rt data-ruby-level="5">ふ</rt></ruby>えた<ruby>時<rt
+    data-ruby-level="2">とき</rt></ruby>に、エリアを<ruby>徐々<rt data-ruby-level="7">じょじょ</rt></ruby>に<ruby>広<rt
+    data-ruby-level="2">ひろ</rt></ruby>げるという<ruby>手法<rt data-ruby-level="4">しゅほう</rt></ruby>です。こういう<ruby>手法<rt
+    data-ruby-level="4">しゅほう</rt></ruby>をとれば、<ruby>復興<rt data-ruby-level="5">ふっこう</rt></ruby>にかかる<ruby>費用<rt
+    data-ruby-level="4">ひよう</rt></ruby>をいまの<ruby>方法<rt data-ruby-level="4">ほうほう</rt></ruby>よりも<ruby>減<rt
+    data-ruby-level="5">へ</rt></ruby>らせるということで、<ruby>地域<rt data-ruby-level="6">ちいき</rt></ruby>の<ruby>状況<rt
+    data-ruby-level="7">じょうきょう</rt></ruby>にあわせて、<ruby>復興<rt data-ruby-level="5">ふっこう</rt></ruby>のやり<ruby>方<rt
+    data-ruby-level="2">かた</rt></ruby>を<ruby>選<rt data-ruby-level="4">えら</rt></ruby>べる<ruby>仕組<rt
+    data-ruby-level="3">しく</rt></ruby>みが<ruby>必要<rt data-ruby-level="4">ひつよう</rt></ruby>だと<ruby>指摘<rt
+    data-ruby-level="7">してき</rt></ruby>します。<br />「<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きな<ruby>災害<rt
+    data-ruby-level="5">さいがい</rt></ruby>が<ruby>起<rt data-ruby-level="3">お</rt></ruby>きれば、<ruby>大槌町<rt
+    data-ruby-level="8">おおつちちょう</rt></ruby>で<ruby>起<rt data-ruby-level="3">お</rt></ruby>きている<ruby>現象<rt
+    data-ruby-level="5">げんしょう</rt></ruby>がこれからどこで<ruby>起<rt data-ruby-level="3">お</rt></ruby>きてもおかしくない。<ruby>災害<rt
+    data-ruby-level="5">さいがい</rt></ruby>をきっかけに<ruby>人口<rt data-ruby-level="1">じんこう</rt></ruby><ruby>減少<rt
+    data-ruby-level="5">げんしょう</rt></ruby>がさらに<ruby>加速<rt data-ruby-level="4">かそく</rt></ruby>することを<ruby>踏<rt
+    data-ruby-level="7">ふ</rt></ruby>まえ、コンパクトなまち<ruby>作<rt data-ruby-level="2">づく</rt></ruby>りを<ruby>進<rt
+    data-ruby-level="3">すす</rt></ruby>める<ruby>発想<rt data-ruby-level="3">はっそう</rt></ruby>の<ruby>転換<rt
+    data-ruby-level="7">てんかん</rt></ruby>が<ruby>必要<rt data-ruby-level="4">ひつよう</rt></ruby>ではないか」（<ruby>佐々木<rt
+    data-ruby-level="7">ささき</rt></ruby><ruby>晶二<rt data-ruby-level="8">しょうじ</rt></ruby>さん）
+- title: いつか<ruby>来<rt data-ruby-level="2">く</rt></ruby>るその<ruby>時<rt data-ruby-level="2">とき</rt></ruby>のために
+  text: <ruby>南海<rt data-ruby-level="2">なんかい</rt></ruby>トラフの<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>に<ruby>限<rt data-ruby-level="5">かぎ</rt></ruby>らず、<ruby>首都<rt
+    data-ruby-level="3">しゅと</rt></ruby><ruby>直下<rt data-ruby-level="2">ちょっか</rt></ruby><ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>を<ruby>含<rt data-ruby-level="7">ふく</rt></ruby>め、<ruby>想定<rt
+    data-ruby-level="3">そうてい</rt></ruby>される<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>は、<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>各地<rt
+    data-ruby-level="4">かくち</rt></ruby>にあり、その<ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby>の<ruby>危険性<rt
+    data-ruby-level="6">きけんせい</rt></ruby>は<ruby>年々<rt data-ruby-level="1">ねんねん</rt></ruby><ruby>高<rt
+    data-ruby-level="2">たか</rt></ruby>まっています。<ruby>膨大<rt data-ruby-level="7">ぼうだい</rt></ruby>な<ruby>資金<rt
+    data-ruby-level="5">しきん</rt></ruby>と<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>をかけても<ruby>住民<rt
+    data-ruby-level="4">じゅうみん</rt></ruby>の<ruby>望<rt data-ruby-level="4">のぞ</rt></ruby>む<ruby>復興<rt
+    data-ruby-level="5">ふっこう</rt></ruby>が<ruby>実現<rt data-ruby-level="5">じつげん</rt></ruby>しないという<ruby>事態<rt
+    data-ruby-level="5">じたい</rt></ruby>が<ruby>起<rt data-ruby-level="3">お</rt></ruby>こらないように、<ruby>復興<rt
+    data-ruby-level="5">ふっこう</rt></ruby>のメニューを<ruby>増<rt data-ruby-level="5">ふ</rt></ruby>やすための<ruby>議論<rt
+    data-ruby-level="6">ぎろん</rt></ruby>をいまのうちから<ruby>進<rt data-ruby-level="3">すす</rt></ruby>めなければならない、そう<ruby>強<rt
+    data-ruby-level="2">つよ</rt></ruby>く<ruby>思<rt data-ruby-level="2">おも</rt></ruby>います。
+source_url: https://www3.nhk.or.jp/news/html/20180314/k10011364881000.html
+related_news:
+- title: <ruby>東日本<rt data-ruby-level="2">ひがしにほん</rt></ruby><ruby>大震災<rt data-ruby-level="7">だいしんさい</rt></ruby>と<ruby>原発<rt
+    data-ruby-level="3">げんぱつ</rt></ruby><ruby>事故<rt data-ruby-level="5">じこ</rt></ruby>から7<ruby>年<rt
+    data-ruby-level="1">ねん</rt></ruby> <ruby>依然<rt data-ruby-level="7">いぜん</rt></ruby>7<ruby>万<rt
+    data-ruby-level="2">まん</rt></ruby><ruby>人以上<rt data-ruby-level="4">にんいじょう</rt></ruby>が<ruby>避難<rt
+    data-ruby-level="7">ひなん</rt></ruby><ruby>生活<rt data-ruby-level="2">せいかつ</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/03/11/東日本大震災と原発事故から7年-依然7万人以上が避難生活
+- title: <ruby>南海<rt data-ruby-level="2">なんかい</rt></ruby>トラフと<ruby>根室<rt data-ruby-level="7">ねむろ</rt></ruby><ruby>沖<rt
+    data-ruby-level="7">おき</rt></ruby>の<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby> <ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby><ruby>確率<rt
+    data-ruby-level="5">かくりつ</rt></ruby>80％に<ruby>引<rt data-ruby-level="2">ひ</rt></ruby>き<ruby>上<rt
+    data-ruby-level="2">あ</rt></ruby>げ
+  url: https://newswebeasy.github.io/news/web/2018/02/09/南海トラフと根室沖の巨大地震-発生確率80に引き上げ
+- title: <ruby>震災<rt data-ruby-level="7">しんさい</rt></ruby>７<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>
+    <ruby>仮設<rt data-ruby-level="5">かせつ</rt></ruby><ruby>住宅<rt data-ruby-level="6">じゅうたく</rt></ruby>などで<ruby>孤独<rt
+    data-ruby-level="7">こどく</rt></ruby><ruby>死<rt data-ruby-level="3">し</rt></ruby>は<ruby>最多<rt
+    data-ruby-level="4">さいた</rt></ruby>の６３<ruby>人<rt data-ruby-level="1">にん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/03/07/震災7年-仮設住宅などで孤独死は最多の63人
+- title: <ruby>阪神<rt data-ruby-level="7">はんしん</rt></ruby>・<ruby>淡路<rt data-ruby-level="7">あわじ</rt></ruby><ruby>大震災<rt
+    data-ruby-level="7">だいしんさい</rt></ruby>からきょうで23<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/17/阪神淡路大震災からきょうで23年
+- title: バチカンの<ruby>大聖堂<rt data-ruby-level="6">だいせいどう</rt></ruby>で<ruby>復興<rt data-ruby-level="5">ふっこう</rt></ruby><ruby>祈<rt
+    data-ruby-level="7">いの</rt></ruby>るコンサート
+  url: https://newswebeasy.github.io/news/web/2018/03/12/バチカンの大聖堂で復興祈るコンサート
+...

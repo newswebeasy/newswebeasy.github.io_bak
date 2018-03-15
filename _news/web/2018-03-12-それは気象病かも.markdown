@@ -1,0 +1,242 @@
+---
+layout: web_news
+categories: web
+newsid: k10011361601000
+title: それは気象病かも
+title_with_ruby: それは<ruby>気象<rt data-ruby-level="4">きしょう</rt></ruby><ruby>病<rt data-ruby-level="3">びょう</rt></ruby>かも
+last_modified_at: '2018-03-12T17:51:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>03<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>12<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 17<ruby>時<rt data-ruby-level="2">じ</rt></ruby>51<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ３月に入り、春の訪れと共に気分も晴れやかに…と思いきや、ネット上には「頭が痛い」「だるい」など体調不良を訴える声が相次いでいます。その体調不良、もしかしたら天気のせいかもしれません。そして、歴史上有名なあの人も、天気による体調不良に悩んでいたかも！？。（ネットワーク報道部記者
+  飯田暁子・玉木香代子）
+summary: ３<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>に<ruby>入<rt data-ruby-level="1">はい</rt></ruby>り、<ruby>春<rt
+  data-ruby-level="2">はる</rt></ruby>の<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れと<ruby>共<rt
+  data-ruby-level="4">とも</rt></ruby>に<ruby>気分<rt data-ruby-level="2">きぶん</rt></ruby>も<ruby>晴<rt
+  data-ruby-level="2">は</rt></ruby>れやかに…と<ruby>思<rt data-ruby-level="2">おも</rt></ruby>いきや、ネット<ruby>上<rt
+  data-ruby-level="1">じょう</rt></ruby>には「<ruby>頭<rt data-ruby-level="2">あたま</rt></ruby>が<ruby>痛<rt
+  data-ruby-level="6">いた</rt></ruby>い」「だるい」など<ruby>体調<rt data-ruby-level="3">たいちょう</rt></ruby><ruby>不良<rt
+  data-ruby-level="4">ふりょう</rt></ruby>を<ruby>訴<rt data-ruby-level="7">うった</rt></ruby>える<ruby>声<rt
+  data-ruby-level="2">こえ</rt></ruby>が<ruby>相次<rt data-ruby-level="3">あいつ</rt></ruby>いでいます。その<ruby>体調<rt
+  data-ruby-level="3">たいちょう</rt></ruby><ruby>不良<rt data-ruby-level="4">ふりょう</rt></ruby>、もしかしたら<ruby>天気<rt
+  data-ruby-level="1">てんき</rt></ruby>のせいかもしれません。そして、<ruby>歴史上<rt data-ruby-level="4">れきしじょう</rt></ruby><ruby>有名<rt
+  data-ruby-level="3">ゆうめい</rt></ruby>なあの<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>も、<ruby>天気<rt
+  data-ruby-level="1">てんき</rt></ruby>による<ruby>体調<rt data-ruby-level="3">たいちょう</rt></ruby><ruby>不良<rt
+  data-ruby-level="4">ふりょう</rt></ruby>に<ruby>悩<rt data-ruby-level="7">なや</rt></ruby>んでいたかも！？。（ネットワーク<ruby>報道部<rt
+  data-ruby-level="5">ほうどうぶ</rt></ruby><ruby>記者<rt data-ruby-level="3">きしゃ</rt></ruby>
+  <ruby>飯田<rt data-ruby-level="8">いいだ</rt></ruby><ruby>暁子<rt data-ruby-level="8">あきこ</rt></ruby>・<ruby>玉木<rt
+  data-ruby-level="1">たまき</rt></ruby><ruby>香代子<rt data-ruby-level="7">かよこ</rt></ruby>）
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/12/K10011361601_1803121654_1803121750_01_02.jpg
+more: <ruby>急<rt data-ruby-level="3">きゅう</rt></ruby>に<ruby>気温<rt data-ruby-level="3">きおん</rt></ruby>が<ruby>上<rt
+  data-ruby-level="1">あ</rt></ruby>がったり<ruby>下<rt data-ruby-level="1">さ</rt></ruby>がったり、<ruby>強<rt
+  data-ruby-level="2">つよ</rt></ruby>い<ruby>雨<rt data-ruby-level="2">あめ</rt></ruby>や<ruby>風<rt
+  data-ruby-level="2">かぜ</rt></ruby>に<ruby>見舞<rt data-ruby-level="7">みま</rt></ruby>われたりと「<ruby>春<rt
+  data-ruby-level="2">はる</rt></ruby>の<ruby>嵐<rt data-ruby-level="7">あらし</rt></ruby>」が<ruby>吹<rt
+  data-ruby-level="7">ふ</rt></ruby>き<ruby>荒<rt data-ruby-level="7">あ</rt></ruby>れた<ruby>先週<rt
+  data-ruby-level="2">せんしゅう</rt></ruby>。ツイッター<ruby>上<rt data-ruby-level="1">じょう</rt></ruby>には「<ruby>頭痛<rt
+  data-ruby-level="6">ずつう</rt></ruby>と<ruby>耳鳴<rt data-ruby-level="2">みみな</rt></ruby>りがする」「<ruby>頭<rt
+  data-ruby-level="2">あたま</rt></ruby>が<ruby>痛<rt data-ruby-level="6">いた</rt></ruby>いというか<ruby>重<rt
+  data-ruby-level="3">おも</rt></ruby>い。<ruby>体<rt data-ruby-level="2">からだ</rt></ruby>もだるい」などの<ruby>書<rt
+  data-ruby-level="7">か</rt></ruby>き<ruby>込<rt data-ruby-level="7">こ</rt></ruby>みが<ruby>相次<rt
+  data-ruby-level="3">あいつ</rt></ruby>ぎました。
+body:
+- text: <ruby>中<rt data-ruby-level="1">なか</rt></ruby>でも<ruby>活況<rt data-ruby-level="7">かっきょう</rt></ruby>だったのが、「<ruby>全部<rt
+    data-ruby-level="3">ぜんぶ</rt></ruby><ruby>気圧<rt data-ruby-level="5">きあつ</rt></ruby>のせい」というハッシュタグ。<br
+    /><br />「きのうから<ruby>頭<rt data-ruby-level="2">あたま</rt></ruby>が<ruby>痛<rt data-ruby-level="6">いた</rt></ruby>くて<ruby>治<rt
+    data-ruby-level="4">なお</rt></ruby>らない」「<ruby>朝<rt data-ruby-level="2">あさ</rt></ruby>からイライラする」といった<ruby>投稿<rt
+    data-ruby-level="7">とうこう</rt></ruby>に<ruby>付<rt data-ruby-level="4">つ</rt></ruby>けられているほか、<ruby>中<rt
+    data-ruby-level="1">なか</rt></ruby>には「よかった。ここしばらくずっと<ruby>調子<rt data-ruby-level="3">ちょうし</rt></ruby>が<ruby>落<rt
+    data-ruby-level="3">お</rt></ruby>ち<ruby>気味<rt data-ruby-level="3">ぎみ</rt></ruby>なのも<ruby>気圧<rt
+    data-ruby-level="5">きあつ</rt></ruby>のせいなのね」などこのハッシュタグで<ruby>気分<rt data-ruby-level="2">きぶん</rt></ruby>が<ruby>楽<rt
+    data-ruby-level="2">らく</rt></ruby>になったという<ruby>投稿<rt data-ruby-level="7">とうこう</rt></ruby>もありました。
+  textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/12/K10011361601_1803121524_1803121556_01_03.jpg
+- title: それは「<ruby>気象<rt data-ruby-level="4">きしょう</rt></ruby><ruby>病<rt data-ruby-level="3">びょう</rt></ruby>」かも
+  text: 「<ruby>古<rt data-ruby-level="2">ふる</rt></ruby>くから『<ruby>古傷<rt data-ruby-level="6">ふるきず</rt></ruby>が<ruby>痛<rt
+    data-ruby-level="6">いた</rt></ruby>むと<ruby>雨<rt data-ruby-level="1">あめ</rt></ruby>が<ruby>降<rt
+    data-ruby-level="6">ふ</rt></ruby>る』と<ruby>言<rt data-ruby-level="2">い</rt></ruby>われているように、<ruby>気温<rt
+    data-ruby-level="3">きおん</rt></ruby>や<ruby>湿度<rt data-ruby-level="7">しつど</rt></ruby>、<ruby>気圧<rt
+    data-ruby-level="5">きあつ</rt></ruby>の<ruby>変化<rt data-ruby-level="4">へんか</rt></ruby>で<ruby>痛<rt
+    data-ruby-level="6">いた</rt></ruby>みが<ruby>出<rt data-ruby-level="1">で</rt></ruby>たり<ruby>体<rt
+    data-ruby-level="2">からだ</rt></ruby>がだるくなったりする。それは『<ruby>気象<rt data-ruby-level="4">きしょう</rt></ruby><ruby>病<rt
+    data-ruby-level="3">びょう</rt></ruby>』と<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>ばれています」<br
+    /><br />そう<ruby>話<rt data-ruby-level="2">はな</rt></ruby>すのは、<ruby>愛知医科大学<rt data-ruby-level="4">あいちいかだいがく</rt></ruby><ruby>学際的<rt
+    data-ruby-level="5">がくさいてき</rt></ruby><ruby>痛<rt data-ruby-level="6">いた</rt></ruby>みセンター<ruby>客員<rt
+    data-ruby-level="7">かくいん</rt></ruby><ruby>教授<rt data-ruby-level="5">きょうじゅ</rt></ruby>の<ruby>佐藤<rt
+    data-ruby-level="7">さとう</rt></ruby><ruby>純<rt data-ruby-level="6">じゅん</rt></ruby><ruby>医師<rt
+    data-ruby-level="5">いし</rt></ruby>です。
+  textPos: top
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/12/K10011361601_1803121525_1803121556_01_04.jpg
+- text: ２０<ruby>年以上<rt data-ruby-level="4">ねんいじょう</rt></ruby>にわたって<ruby>天気<rt data-ruby-level="1">てんき</rt></ruby>と<ruby>体調<rt
+    data-ruby-level="3">たいちょう</rt></ruby>の<ruby>変化<rt data-ruby-level="4">へんか</rt></ruby>について<ruby>研究<rt
+    data-ruby-level="3">けんきゅう</rt></ruby>を<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>けています。<ruby>気象<rt
+    data-ruby-level="4">きしょう</rt></ruby><ruby>病<rt data-ruby-level="3">びょう</rt></ruby>の<ruby>症状<rt
+    data-ruby-level="7">しょうじょう</rt></ruby>は<ruby>頭痛<rt data-ruby-level="6">ずつう</rt></ruby>、<ruby>関節痛<rt
+    data-ruby-level="6">かんせつつう</rt></ruby>やせき、めまい、<ruby>体<rt data-ruby-level="2">からだ</rt></ruby>のだるさなど<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>によってさまざまですが、<ruby>天気<rt data-ruby-level="1">てんき</rt></ruby>の<ruby>急<rt
+    data-ruby-level="3">きゅう</rt></ruby>な<ruby>変化<rt data-ruby-level="4">へんか</rt></ruby>、<ruby>特<rt
+    data-ruby-level="4">とく</rt></ruby>に<ruby>気圧<rt data-ruby-level="5">きあつ</rt></ruby>が<ruby>大<rt
+    data-ruby-level="1">おお</rt></ruby>きく<ruby>下<rt data-ruby-level="1">さ</rt></ruby>がったり<ruby>上<rt
+    data-ruby-level="1">あ</rt></ruby>がったりするときに<ruby>症状<rt data-ruby-level="7">しょうじょう</rt></ruby>が<ruby>出<rt
+    data-ruby-level="1">で</rt></ruby>る<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>が<ruby>多<rt
+    data-ruby-level="2">おお</rt></ruby>いということです。<br /><br />なぜ<ruby>気圧<rt data-ruby-level="5">きあつ</rt></ruby>の<ruby>変化<rt
+    data-ruby-level="4">へんか</rt></ruby>で<ruby>体調<rt data-ruby-level="3">たいちょう</rt></ruby>が<ruby>崩<rt
+    data-ruby-level="7">くず</rt></ruby>れるのか。<ruby>佐藤<rt data-ruby-level="7">さとう</rt></ruby><ruby>医師<rt
+    data-ruby-level="5">いし</rt></ruby>に<ruby>聞<rt data-ruby-level="2">き</rt></ruby>きました。<br
+    />「これまでの<ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>で、<ruby>耳<rt data-ruby-level="1">みみ</rt></ruby>の<ruby>鼓膜<rt
+    data-ruby-level="7">こまく</rt></ruby>の<ruby>奥<rt data-ruby-level="7">おく</rt></ruby>にあり<ruby>体<rt
+    data-ruby-level="2">からだ</rt></ruby>の<ruby>平衡<rt data-ruby-level="7">へいこう</rt></ruby><ruby>感覚<rt
+    data-ruby-level="4">かんかく</rt></ruby>をつかさどる『<ruby>内耳<rt data-ruby-level="7">ないじ</rt></ruby>』には<ruby>気圧<rt
+    data-ruby-level="5">きあつ</rt></ruby>の<ruby>変化<rt data-ruby-level="4">へんか</rt></ruby>を<ruby>感<rt
+    data-ruby-level="3">かん</rt></ruby>じるセンサーがあるのではないかと<ruby>考<rt data-ruby-level="2">かんが</rt></ruby>えられます。この<ruby>内耳<rt
+    data-ruby-level="7">ないじ</rt></ruby>が<ruby>気圧<rt data-ruby-level="5">きあつ</rt></ruby>の<ruby>変化<rt
+    data-ruby-level="4">へんか</rt></ruby>を<ruby>脳<rt data-ruby-level="6">のう</rt></ruby>に<ruby>伝<rt
+    data-ruby-level="4">つた</rt></ruby>えて<ruby>体<rt data-ruby-level="2">からだ</rt></ruby>を<ruby>順応<rt
+    data-ruby-level="5">じゅんのう</rt></ruby>させるのですが、<ruby>内耳<rt data-ruby-level="7">ないじ</rt></ruby>が<ruby>気圧<rt
+    data-ruby-level="5">きあつ</rt></ruby>の<ruby>変化<rt data-ruby-level="4">へんか</rt></ruby>に<ruby>敏感<rt
+    data-ruby-level="7">びんかん</rt></ruby>すぎると<ruby>少<rt data-ruby-level="2">すこ</rt></ruby>しの<ruby>変化<rt
+    data-ruby-level="4">へんか</rt></ruby>でも<ruby>過剰<rt data-ruby-level="7">かじょう</rt></ruby>に<ruby>脳<rt
+    data-ruby-level="6">のう</rt></ruby>に<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>が<ruby>伝<rt
+    data-ruby-level="4">つた</rt></ruby>わり、<ruby>交感神経<rt data-ruby-level="5">こうかんしんけい</rt></ruby>と<ruby>副<rt
+    data-ruby-level="4">ふく</rt></ruby><ruby>交感神経<rt data-ruby-level="5">こうかんしんけい</rt></ruby>のバランスが<ruby>崩<rt
+    data-ruby-level="7">くず</rt></ruby>れてしまうのです」<br /><br /><ruby>交感神経<rt data-ruby-level="5">こうかんしんけい</rt></ruby>が<ruby>活発<rt
+    data-ruby-level="3">かっぱつ</rt></ruby>になると<ruby>頭痛<rt data-ruby-level="6">ずつう</rt></ruby>などの<ruby>痛<rt
+    data-ruby-level="6">いた</rt></ruby>みを<ruby>感<rt data-ruby-level="3">かん</rt></ruby>じやすくなり、<ruby>副<rt
+    data-ruby-level="4">ふく</rt></ruby><ruby>交感神経<rt data-ruby-level="5">こうかんしんけい</rt></ruby>が<ruby>活発<rt
+    data-ruby-level="3">かっぱつ</rt></ruby>になるとだるくなったり<ruby>眠<rt data-ruby-level="7">ねむ</rt></ruby>くなったりするということです。
+- title: <ruby>歴史上<rt data-ruby-level="4">れきしじょう</rt></ruby>のあの<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>も『<ruby>気象<rt
+    data-ruby-level="4">きしょう</rt></ruby><ruby>病<rt data-ruby-level="3">びょう</rt></ruby>』？
+  text: ところで「<ruby>気象<rt data-ruby-level="4">きしょう</rt></ruby><ruby>病<rt data-ruby-level="3">びょう</rt></ruby>」について<ruby>調<rt
+    data-ruby-level="3">しら</rt></ruby>べていると、ネット<ruby>上<rt data-ruby-level="1">じょう</rt></ruby>にはあの<ruby>歴史上<rt
+    data-ruby-level="4">れきしじょう</rt></ruby>の<ruby>人物<rt data-ruby-level="3">じんぶつ</rt></ruby>も<ruby>気象<rt
+    data-ruby-level="4">きしょう</rt></ruby><ruby>病<rt data-ruby-level="3">びょう</rt></ruby>に<ruby>悩<rt
+    data-ruby-level="7">なや</rt></ruby>まされていたという<ruby>書<rt data-ruby-level="7">か</rt></ruby>き<ruby>込<rt
+    data-ruby-level="7">こ</rt></ruby>みがありました。<br /><br />その<ruby>人物<rt data-ruby-level="3">じんぶつ</rt></ruby>の１<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>が<ruby>織田<rt data-ruby-level="5">おだ</rt></ruby><ruby>信長<rt
+    data-ruby-level="8">のぶなが</rt></ruby>。
+  textPos: top
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/12/K10011361601_1803121524_1803121556_01_05.jpg
+- text: <ruby>織田<rt data-ruby-level="5">おだ</rt></ruby><ruby>信長<rt data-ruby-level="8">のぶなが</rt></ruby>がわずか２０００<ruby>余<rt
+    data-ruby-level="5">あま</rt></ruby>りの<ruby>兵<rt data-ruby-level="4">へい</rt></ruby>で２<ruby>万<rt
+    data-ruby-level="2">まん</rt></ruby>５０００もの<ruby>今川<rt data-ruby-level="2">いまがわ</rt></ruby><ruby>義元<rt
+    data-ruby-level="8">よしもと</rt></ruby>の<ruby>軍<rt data-ruby-level="4">ぐん</rt></ruby>を<ruby>破<rt
+    data-ruby-level="5">やぶ</rt></ruby>った<ruby>桶狭間<rt data-ruby-level="8">おけはざま</rt></ruby>の<ruby>戦<rt
+    data-ruby-level="4">たたか</rt></ruby>いは<ruby>雨<rt data-ruby-level="1">あめ</rt></ruby>の<ruby>中<rt
+    data-ruby-level="1">なか</rt></ruby>だったということで、ネット<ruby>上<rt data-ruby-level="1">じょう</rt></ruby>には「<ruby>織田<rt
+    data-ruby-level="5">おだ</rt></ruby><ruby>信長<rt data-ruby-level="8">のぶなが</rt></ruby>は<ruby>頭痛<rt
+    data-ruby-level="6">ずつう</rt></ruby><ruby>持<rt data-ruby-level="3">も</rt></ruby>ちで、<ruby>戦<rt
+    data-ruby-level="7">いくさ</rt></ruby>の<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>に<ruby>頭痛<rt
+    data-ruby-level="6">ずつう</rt></ruby>で<ruby>天気<rt data-ruby-level="1">てんき</rt></ruby>の<ruby>急変<rt
+    data-ruby-level="4">きゅうへん</rt></ruby>を<ruby>感<rt data-ruby-level="3">かん</rt></ruby>じ<ruby>取<rt
+    data-ruby-level="3">と</rt></ruby>り<ruby>奇襲<rt data-ruby-level="7">きしゅう</rt></ruby>を<ruby>仕掛<rt
+    data-ruby-level="7">しか</rt></ruby>けたのではないか」という<ruby>書<rt data-ruby-level="7">か</rt></ruby>き<ruby>込<rt
+    data-ruby-level="7">こ</rt></ruby>みがありました。
+- text: また、<ruby>邪馬台国<rt data-ruby-level="8">やまたいこく</rt></ruby>の<ruby>女王<rt data-ruby-level="1">じょおう</rt></ruby>、<ruby>卑弥呼<rt
+    data-ruby-level="8">ひみこ</rt></ruby>についても「<ruby>頭痛<rt data-ruby-level="6">ずつう</rt></ruby>などで<ruby>気圧<rt
+    data-ruby-level="5">きあつ</rt></ruby>の<ruby>変化<rt data-ruby-level="4">へんか</rt></ruby>を<ruby>誰<rt
+    data-ruby-level="7">だれ</rt></ruby>よりも<ruby>早<rt data-ruby-level="1">はや</rt></ruby>く<ruby>察知<rt
+    data-ruby-level="4">さっち</rt></ruby>できたからこれから<ruby>低気圧<rt data-ruby-level="5">ていきあつ</rt></ruby>が<ruby>近<rt
+    data-ruby-level="2">ちか</rt></ruby>づくことが<ruby>分<rt data-ruby-level="2">わ</rt></ruby>かりもうすぐ<ruby>雨<rt
+    data-ruby-level="1">あめ</rt></ruby>が<ruby>降<rt data-ruby-level="6">ふ</rt></ruby>ることを<ruby>予測<rt
+    data-ruby-level="5">よそく</rt></ruby>でき、<ruby>人々<rt data-ruby-level="1">ひとびと</rt></ruby>からあがめられたのではないか」という<ruby>書<rt
+    data-ruby-level="7">か</rt></ruby>き<ruby>込<rt data-ruby-level="7">こ</rt></ruby>みもありました。<br
+    /><br /><ruby>真偽<rt data-ruby-level="7">しんぎ</rt></ruby>のほどは<ruby>分<rt data-ruby-level="2">わ</rt></ruby>かりませんが、<ruby>気象<rt
+    data-ruby-level="4">きしょう</rt></ruby><ruby>病<rt data-ruby-level="3">びょう</rt></ruby>が<ruby>歴史<rt
+    data-ruby-level="4">れきし</rt></ruby>を<ruby>動<rt data-ruby-level="3">うご</rt></ruby>かしたかもと<ruby>考<rt
+    data-ruby-level="2">かんが</rt></ruby>えると、<ruby>親近感<rt data-ruby-level="3">しんきんかん</rt></ruby>さえわくかもと<ruby>思<rt
+    data-ruby-level="2">おも</rt></ruby>ってしまうのは<ruby>私<rt data-ruby-level="8">わたし</rt></ruby>だけでしょうか…
+- title: 『<ruby>気象<rt data-ruby-level="4">きしょう</rt></ruby><ruby>病<rt data-ruby-level="3">びょう</rt></ruby>』の<ruby>対策<rt
+    data-ruby-level="6">たいさく</rt></ruby>は？
+  text: <ruby>天気<rt data-ruby-level="1">てんき</rt></ruby>の<ruby>変化<rt data-ruby-level="4">へんか</rt></ruby>で<ruby>体調<rt
+    data-ruby-level="3">たいちょう</rt></ruby>が<ruby>左右<rt data-ruby-level="1">さゆう</rt></ruby>される「<ruby>気象<rt
+    data-ruby-level="4">きしょう</rt></ruby><ruby>病<rt data-ruby-level="3">びょう</rt></ruby>」。どうすれば<ruby>症状<rt
+    data-ruby-level="7">しょうじょう</rt></ruby>をやわらげることができるのでしょうか。<br /><br /><ruby>佐藤<rt
+    data-ruby-level="7">さとう</rt></ruby><ruby>医師<rt data-ruby-level="5">いし</rt></ruby>は、「<ruby>天気<rt
+    data-ruby-level="1">てんき</rt></ruby>や<ruby>気圧<rt data-ruby-level="5">きあつ</rt></ruby>の<ruby>変化<rt
+    data-ruby-level="4">へんか</rt></ruby>と<ruby>自分<rt data-ruby-level="2">じぶん</rt></ruby>の<ruby>症状<rt
+    data-ruby-level="7">しょうじょう</rt></ruby>がいつ<ruby>出<rt data-ruby-level="1">で</rt></ruby>たのかを<ruby>記録<rt
+    data-ruby-level="4">きろく</rt></ruby>してみてください」とアドバイスします。<br /><br /><ruby>気圧<rt
+    data-ruby-level="5">きあつ</rt></ruby>が<ruby>急<rt data-ruby-level="3">きゅう</rt></ruby>に<ruby>下<rt
+    data-ruby-level="1">さ</rt></ruby>がるときに<ruby>頭痛<rt data-ruby-level="6">ずつう</rt></ruby>が<ruby>起<rt
+    data-ruby-level="3">お</rt></ruby>きやすいなどの<ruby>傾向<rt data-ruby-level="7">けいこう</rt></ruby>がつかめれば、<ruby>天気<rt
+    data-ruby-level="1">てんき</rt></ruby><ruby>予報<rt data-ruby-level="5">よほう</rt></ruby>から<ruby>症状<rt
+    data-ruby-level="7">しょうじょう</rt></ruby>が<ruby>出<rt data-ruby-level="1">で</rt></ruby>そうな<ruby>日<rt
+    data-ruby-level="1">ひ</rt></ruby>を<ruby>予測<rt data-ruby-level="5">よそく</rt></ruby>して<ruby>大事<rt
+    data-ruby-level="3">だいじ</rt></ruby>な<ruby>予定<rt data-ruby-level="3">よてい</rt></ruby>はあらかじめ<ruby>変更<rt
+    data-ruby-level="7">へんこう</rt></ruby>しておくなどの<ruby>心構<rt data-ruby-level="5">こころがま</rt></ruby>えができます。
+- text: <ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>のホームページでは１<ruby>時間<rt
+    data-ruby-level="2">じかん</rt></ruby>ごとの<ruby>気圧<rt data-ruby-level="5">きあつ</rt></ruby>の<ruby>変化<rt
+    data-ruby-level="4">へんか</rt></ruby>を<ruby>見<rt data-ruby-level="1">み</rt></ruby>ることができます。また、６<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby><ruby>先<rt data-ruby-level="1">さき</rt></ruby>までの<ruby>気圧<rt
+    data-ruby-level="5">きあつ</rt></ruby>の<ruby>変化<rt data-ruby-level="4">へんか</rt></ruby>の<ruby>予想<rt
+    data-ruby-level="3">よそう</rt></ruby>を<ruby>折<rt data-ruby-level="4">お</rt></ruby>れ<ruby>線<rt
+    data-ruby-level="4">せん</rt></ruby>グラフで<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>することで<ruby>頭痛<rt
+    data-ruby-level="6">ずつう</rt></ruby>などに<ruby>備<rt data-ruby-level="5">そな</rt></ruby>えようというアプリもあります。<ruby>自分<rt
+    data-ruby-level="2">じぶん</rt></ruby>の<ruby>体調<rt data-ruby-level="3">たいちょう</rt></ruby>の<ruby>変化<rt
+    data-ruby-level="4">へんか</rt></ruby>も<ruby>記録<rt data-ruby-level="4">きろく</rt></ruby>できることから<ruby>月<rt
+    data-ruby-level="1">つき</rt></ruby>に４０<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>の<ruby>利用者<rt
+    data-ruby-level="4">りようしゃ</rt></ruby>がいるそうです。
+  textPos: top
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/12/K10011361601_1803131725_1803131727_01_06.jpg
+- text: また、<ruby>佐藤<rt data-ruby-level="7">さとう</rt></ruby><ruby>医師<rt data-ruby-level="5">いし</rt></ruby>によると「<ruby>気象<rt
+    data-ruby-level="4">きしょう</rt></ruby><ruby>病<rt data-ruby-level="3">びょう</rt></ruby>」の<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>は<ruby>内耳<rt data-ruby-level="7">ないじ</rt></ruby>の<ruby>血流<rt
+    data-ruby-level="3">けつりゅう</rt></ruby>が<ruby>悪<rt data-ruby-level="3">わる</rt></ruby>い<ruby>傾向<rt
+    data-ruby-level="7">けいこう</rt></ruby>があるということで、<ruby>首<rt data-ruby-level="2">くび</rt></ruby>のストレッチや<ruby>耳<rt
+    data-ruby-level="1">みみ</rt></ruby>の<ruby>周辺<rt data-ruby-level="4">しゅうへん</rt></ruby>をマッサージすることもおすすめだということです。
+- title: 『<ruby>気象<rt data-ruby-level="4">きしょう</rt></ruby><ruby>病<rt data-ruby-level="3">びょう</rt></ruby>』<ruby>起<rt
+    data-ruby-level="3">お</rt></ruby>きやすい<ruby>時期<rt data-ruby-level="3">じき</rt></ruby>は
+  text: 「<ruby>気象<rt data-ruby-level="4">きしょう</rt></ruby><ruby>病<rt data-ruby-level="3">びょう</rt></ruby>」の<ruby>症状<rt
+    data-ruby-level="7">しょうじょう</rt></ruby>が<ruby>出<rt data-ruby-level="1">で</rt></ruby>やすい<ruby>時期<rt
+    data-ruby-level="3">じき</rt></ruby>としては<ruby>低気圧<rt data-ruby-level="5">ていきあつ</rt></ruby>が<ruby>定期的<rt
+    data-ruby-level="4">ていきてき</rt></ruby>に<ruby>通過<rt data-ruby-level="5">つうか</rt></ruby>する<ruby>春<rt
+    data-ruby-level="2">はる</rt></ruby>や<ruby>秋<rt data-ruby-level="2">あき</rt></ruby>、それに<ruby>梅雨時<rt
+    data-ruby-level="8">つゆどき</rt></ruby>や<ruby>台風<rt data-ruby-level="2">たいふう</rt></ruby>の<ruby>時期<rt
+    data-ruby-level="3">じき</rt></ruby>だということで、まさにこれからが<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>が<ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>になります。
+  textPos: top
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/12/K10011361601_1803121525_1803121556_01_07.jpg
+- text: この「<ruby>気象<rt data-ruby-level="4">きしょう</rt></ruby><ruby>病<rt data-ruby-level="3">びょう</rt></ruby>」、<ruby>佐藤<rt
+    data-ruby-level="7">さとう</rt></ruby><ruby>医師<rt data-ruby-level="5">いし</rt></ruby>によると<ruby>日本<rt
+    data-ruby-level="1">にっぽん</rt></ruby>では<ruby>知<rt data-ruby-level="2">し</rt></ruby>られてきたのはここ１０<ruby>年<rt
+    data-ruby-level="1">ねん</rt></ruby>ほどだということで、「<ruby>体調<rt data-ruby-level="3">たいちょう</rt></ruby><ruby>不良<rt
+    data-ruby-level="4">ふりょう</rt></ruby>に<ruby>悩<rt data-ruby-level="7">なや</rt></ruby>まされるが<ruby>検査<rt
+    data-ruby-level="5">けんさ</rt></ruby>しても<ruby>原因<rt data-ruby-level="5">げんいん</rt></ruby>が<ruby>分<rt
+    data-ruby-level="2">わ</rt></ruby>からず『<ruby>気<rt data-ruby-level="1">き</rt></ruby>のせいだ』『さぼりだ』と<ruby>言<rt
+    data-ruby-level="2">い</rt></ruby>われる」といった<ruby>不安<rt data-ruby-level="4">ふあん</rt></ruby>や<ruby>悩<rt
+    data-ruby-level="7">なや</rt></ruby>みを<ruby>抱<rt data-ruby-level="7">かか</rt></ruby>えた<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>も<ruby>多<rt data-ruby-level="2">おお</rt></ruby>いということです。<br
+    /><br />しかし<ruby>記録<rt data-ruby-level="4">きろく</rt></ruby>を<ruby>付<rt data-ruby-level="4">つ</rt></ruby>けてみてそれが「<ruby>気象<rt
+    data-ruby-level="4">きしょう</rt></ruby><ruby>病<rt data-ruby-level="3">びょう</rt></ruby>」だとわかると、「<ruby>天気<rt
+    data-ruby-level="1">てんき</rt></ruby>のせいと<ruby>考<rt data-ruby-level="2">かんが</rt></ruby>えると<ruby>気分<rt
+    data-ruby-level="2">きぶん</rt></ruby>が<ruby>楽<rt data-ruby-level="2">らく</rt></ruby>になった」「<ruby>体調<rt
+    data-ruby-level="3">たいちょう</rt></ruby><ruby>不良<rt data-ruby-level="4">ふりょう</rt></ruby>とのつきあい<ruby>方<rt
+    data-ruby-level="2">かた</rt></ruby>がわかった」など<ruby>安心<rt data-ruby-level="3">あんしん</rt></ruby>の<ruby>声<rt
+    data-ruby-level="2">こえ</rt></ruby>が<ruby>聞<rt data-ruby-level="2">き</rt></ruby>かれるということです。<br
+    /><br /><ruby>何<rt data-ruby-level="2">なん</rt></ruby>となく<ruby>体調<rt data-ruby-level="3">たいちょう</rt></ruby>を<ruby>崩<rt
+    data-ruby-level="7">くず</rt></ruby>しやすい<ruby>季節<rt data-ruby-level="4">きせつ</rt></ruby>の<ruby>変<rt
+    data-ruby-level="4">か</rt></ruby>わり<ruby>目<rt data-ruby-level="4">め</rt></ruby>。みなさんも<ruby>自分<rt
+    data-ruby-level="2">じぶん</rt></ruby>の<ruby>体<rt data-ruby-level="2">からだ</rt></ruby>と<ruby>向<rt
+    data-ruby-level="3">む</rt></ruby>き<ruby>合<rt data-ruby-level="3">あ</rt></ruby>ってみてはいかがでしょうか。
+source_url: https://www3.nhk.or.jp/news/html/20180312/k10011361601000.html
+related_news:
+- title: <ruby>年末<rt data-ruby-level="4">ねんまつ</rt></ruby><ruby>年始<rt data-ruby-level="3">ねんし</rt></ruby>の<ruby>天気<rt
+    data-ruby-level="1">てんき</rt></ruby> <ruby>太平洋側<rt data-ruby-level="4">たいへいようがわ</rt></ruby>は<ruby>初日<rt
+    data-ruby-level="4">はつひ</rt></ruby>の<ruby>出<rt data-ruby-level="4">で</rt></ruby>も
+  url: https://newswebeasy.github.io/news/web/2017/12/28/年末年始の天気-太平洋側は初日の出も
+- title: あす<ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>23<ruby>区<rt data-ruby-level="3">く</rt></ruby><ruby>含<rt
+    data-ruby-level="7">ふく</rt></ruby>む<ruby>関東<rt data-ruby-level="4">かんとう</rt></ruby><ruby>平野部<rt
+    data-ruby-level="3">へいやぶ</rt></ruby>でも<ruby>大雪<rt data-ruby-level="2">おおゆき</rt></ruby>のおそれ
+  url: https://newswebeasy.github.io/news/web/2018/01/21/あす東京23区含む関東平野部でも大雪のおそれ
+- title: これから２<ruby>週間<rt data-ruby-level="2">しゅうかん</rt></ruby><ruby>程度<rt data-ruby-level="5">ていど</rt></ruby>
+    <ruby>低温<rt data-ruby-level="4">ていおん</rt></ruby><ruby>続<rt data-ruby-level="4">つづ</rt></ruby>く<ruby>見込<rt
+    data-ruby-level="7">みこ</rt></ruby>み <ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>が<ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby><ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/30/これから2週間程度-低温続く見込み-気象庁が情報発表
+- title: <ruby>体調<rt data-ruby-level="3">たいちょう</rt></ruby><ruby>不良<rt data-ruby-level="4">ふりょう</rt></ruby>で<ruby>不登校<rt
+    data-ruby-level="4">ふとうこう</rt></ruby>“<ruby>十分<rt data-ruby-level="2">じゅうぶん</rt></ruby>な<ruby>検査<rt
+    data-ruby-level="5">けんさ</rt></ruby>・<ruby>治療<rt data-ruby-level="7">ちりょう</rt></ruby>で<ruby>登校<rt
+    data-ruby-level="3">とうこう</rt></ruby><ruby>可能<rt data-ruby-level="5">かのう</rt></ruby>なケース<ruby>多<rt
+    data-ruby-level="2">おお</rt></ruby>い”
+  url: https://newswebeasy.github.io/news/web/2018/03/04/体調不良で不登校十分な検査治療で登校可能なケース多い
+...
