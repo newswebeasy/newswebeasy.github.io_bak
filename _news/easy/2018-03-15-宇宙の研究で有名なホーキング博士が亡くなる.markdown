@@ -1,0 +1,62 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011364661000
+last_modified_at: '2018-03-15T17:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: 宇宙がどうやってできたかやブラックホールなどについて研究したスティーブン・ホーキング博士が１４日、７６歳で亡くなりました。
+title: 宇宙の研究で有名なホーキング博士が亡くなる
+title_with_ruby: <ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>なホーキング<ruby>博士<rt>はかせ</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+outline: 宇宙がどうやってできたかやブラックホールなどについて研究したスティーブン・ホーキング博士が１４日、７６歳で亡くなりました。
+outline_with_ruby: <ruby>宇宙<rt>うちゅう</rt></ruby>がどうやってできたかやブラックホールなどについて<ruby>研究<rt>けんきゅう</rt></ruby>したスティーブン・ホーキング<ruby>博士<rt>はかせ</rt></ruby>が<ruby>１４日<rt>じゅうよっか</rt></ruby>、７６<ruby>歳<rt>さい</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなりました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/14/K10011364661_1803141308_1803141313_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/15/k10011364661000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>がどうやってできたかや<span\
+  \ style=\"color: blue;\">ブラックホール</span>などについて<ruby>研究<rt>けんきゅう</rt></ruby>したスティーブン・ホーキング<span\
+  \ style=\"color: blue;\"><ruby>博士<rt>はかせ</rt></ruby></span>が<ruby>１４日<rt>じゅうよっか</rt></ruby>、７６<ruby>歳<rt>さい</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p>ホーキング<span style=\"color: blue;\"><ruby>博士<rt>はかせ</rt></ruby></span>は１９４２<ruby>年<rt>ねん</rt></ruby>にイギリスで<ruby>生<rt>う</rt></ruby>まれて、オックスフォード<ruby>大学<rt>だいがく</rt></ruby>やケンブリッジ<ruby>大学<rt>だいがく</rt></ruby>で、<ruby>数学<rt>すうがく</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>物理学<rt>ぶつりがく</rt></ruby></span>の<ruby>勉強<rt>べんきょう</rt></ruby>をしました。</p>\n\
+  <p>ホーキング<span style=\"color: blue;\"><ruby>博士<rt>はかせ</rt></ruby></span>は２１<ruby>歳<rt>さい</rt></ruby>のとき、<ruby>体<rt>からだ</rt></ruby>がだんだん<ruby>動<rt>うご</rt></ruby>かなくなるＡＬＳという<ruby>病気<rt>びょうき</rt></ruby>だとわかりました。そのあとも<span\
+  \ style=\"color: blue;\"><ruby>車<rt>くるま</rt></ruby>いす</span>で<ruby>生活<rt>せいかつ</rt></ruby>しながらケンブリッジ<ruby>大学<rt>だいがく</rt></ruby>で<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けてたくさんの<span\
+  \ style=\"color: blue;\"><ruby>論文<rt>ろんぶん</rt></ruby></span>を<ruby>書<rt>か</rt></ruby>きました。</p>\n\
+  <p>１９８５<ruby>年<rt>ねん</rt></ruby>にはのどの<span style=\"color: blue;\"><ruby>手術<rt>しゅじゅつ</rt></ruby></span>をして<ruby>話<rt>はな</rt></ruby>すことができなくなりましたが、コンピューターを<ruby>使<rt>つか</rt></ruby>って<ruby>会話<rt>かいわ</rt></ruby>ができるようにして<ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けました。</p>\n\
+  <p>ホーキング<span style=\"color: blue;\"><ruby>博士<rt>はかせ</rt></ruby></span>は<ruby>難<rt>むずか</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>物理学<rt>ぶつりがく</rt></ruby></span>をわかりやすく<ruby>説明<rt>せつめい</rt></ruby>する<ruby>本<rt>ほん</rt></ruby>を<ruby>書<rt>か</rt></ruby>いて<ruby>有名<rt>ゆうめい</rt></ruby>になりました。１９８８<ruby>年<rt>ねん</rt></ruby>に<ruby>出<rt>だ</rt></ruby>した「ホーキング、<ruby>宇宙<rt>うちゅう</rt></ruby>を<ruby>語<rt>かた</rt></ruby>る」という<ruby>本<rt>ほん</rt></ruby>は<ruby>世界中<rt>せかいじゅう</rt></ruby>で<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>が<ruby>読<rt>よ</rt></ruby>みました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 宇宙
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。
+- word: 博士
+  descriptions:
+  - あることに、<ruby><rb>特</rb><rt>とく</rt></ruby>にくわしい<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>学問</rb><rt>がくもん</rt></ruby>にすぐれた<ruby><rb>人</rb><rt>ひと</rt></ruby>にあたえられる<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>名</rb><rt>な</rt></ruby>。<ruby><rb>正式</rb><rt>せいしき</rt></ruby>には「はくし」という。
+- word: ブラックホール
+  descriptions:
+  - <ruby><rb>太陽</rb><rt>たいよう</rt></ruby>よりも<ruby><rb>巨大</rb><rt>きょだい</rt></ruby>な<ruby><rb>星</rb><rt>ほし</rt></ruby>が<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>んでできた<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>引力</rb><rt>いんりょく</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>ち、あらゆる<ruby><rb>物</rb><rt>もの</rt></ruby>をのみこみ、<ruby><rb>光</rb><rt>ひかり</rt></ruby>さえもすいこむので、<ruby><rb>黒</rb><rt>くろ</rt></ruby>い<ruby><rb>穴</rb><rt>あな</rt></ruby>のように<ruby><rb>見</rb><rt>み</rt></ruby>える。
+- word: 物理学
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>や<ruby><rb>運動</rb><rt>うんどう</rt></ruby>、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>・<ruby><rb>光</rb><rt>ひかり</rt></ruby>・<ruby><rb>電気</rb><rt>でんき</rt></ruby>・<ruby><rb>音</rb><rt>おと</rt></ruby>のはたらきなどについて<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>学問</rb><rt>がくもん</rt></ruby>。
+- word: 車椅子
+  descriptions:
+  - <ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>病気</rb><rt>びょうき</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>などが、<ruby><rb>腰</rb><rt>こし</rt></ruby>かけたまま<ruby><rb>移動</rb><rt>いどう</rt></ruby>できるように<ruby><rb>車</rb><rt>くるま</rt></ruby>をつけた、いす。
+- word: 論文
+  descriptions:
+  - ある<ruby><rb>問題</rb><rt>もんだい</rt></ruby>についての<ruby><rb>考</rb><rt>かんが</rt></ruby>えや、<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>した<ruby><rb>結果</rb><rt>けっか</rt></ruby>を、<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てて<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>。
+- word: 手術
+  descriptions:
+  - <ruby><rb>医者</rb><rt>いしゃ</rt></ruby>が、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>や<ruby><rb>傷</rb><rt>きず</rt></ruby>のところを、<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>開</rb><rt>ひら</rt></ruby>いたり<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>取</rb><rt>と</rt></ruby>ったりして、<ruby><rb>治療</rb><rt>ちりょう</rt></ruby>すること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011364661000/k10011364661000.html
+web_title_with_ruby: <ruby>車<rt>くるま</rt></ruby>いすの<ruby>宇宙<rt>うちゅう</rt></ruby><ruby>物理<rt>ぶつり</rt></ruby><ruby>学者<rt>がくしゃ</rt></ruby>
+  <ruby>ホーキング<rt>ほーきんぐ</rt></ruby><ruby>博士<rt>はかせ</rt></ruby>が<ruby>死去<rt>しきょ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/14/車いすの宇宙物理学者-ホーキング博士が死去
+related_news:
+- title: <ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>の<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>夢<rt>ゆめ</rt></ruby>は「<ruby>学者<rt>がくしゃ</rt></ruby>」　<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は「<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby><ruby>屋<rt>や</rt></ruby>さん」
+  url: https://newswebeasy.github.io/news/easy/2018/01/09/男の子の将来の夢は学者-女の子は食べ物屋さん
+- title: <ruby>京都大学<rt>きょうとだいがく</rt></ruby>「ｉＰＳ<ruby>細胞<rt>さいぼう</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>の<ruby>論文<rt>ろんぶん</rt></ruby>にうその<ruby>図<rt>ず</rt></ruby>があった」
+  url: https://newswebeasy.github.io/news/easy/2018/01/24/京都大学iPS細胞の研究の論文にうその図があった
+- title: <ruby>金井<rt>かない</rt></ruby><ruby>宣茂<rt>のりしげ</rt></ruby>さんが「ソユーズ」に<ruby>乗<rt>の</rt></ruby>って<ruby>宇宙<rt>うちゅう</rt></ruby>に<ruby>出発<rt>しゅっぱつ</rt></ruby>した
+  url: https://newswebeasy.github.io/news/easy/2017/12/18/金井宣茂さんがソユーズに乗って宇宙に出発した
+...
