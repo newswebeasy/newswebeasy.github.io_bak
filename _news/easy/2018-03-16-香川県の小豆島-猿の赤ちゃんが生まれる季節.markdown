@@ -1,0 +1,66 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011365441000
+last_modified_at: '2018-03-16T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 香川県の小豆島にある「お猿の国」という動物園には、５００匹ぐらいの猿がいます。
+title: 香川県の小豆島　猿の赤ちゃんが生まれる季節
+title_with_ruby: <ruby>香川県<rt>かがわけん</rt></ruby>の<ruby>小豆島<rt>しょうどしま</rt></ruby>　<ruby>猿<rt>さる</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれる<ruby>季節<rt>きせつ</rt></ruby>
+outline: 香川県の小豆島にある「お猿の国」という動物園には、５００匹ぐらいの猿がいます。
+outline_with_ruby: <ruby>香川県<rt>かがわけん</rt></ruby>の<ruby>小豆島<rt>しょうどしま</rt></ruby>にある「お<ruby>猿<rt>さる</rt></ruby>の<ruby>国<rt>くに</rt></ruby>」という<ruby>動物園<rt>どうぶつえん</rt></ruby>には、５００<ruby>匹<rt>ぴき</rt></ruby>ぐらいの<ruby>猿<rt>さる</rt></ruby>がいます。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/14/K10011365441_1803142144_1803142148_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/16/k10011365441000.mp3
+content_with_ruby: "<p><ruby>香川県<rt>かがわけん</rt></ruby>の<ruby>小豆島<rt>しょうどしま</rt></ruby>にある「お<ruby>猿<rt>さる</rt></ruby>の<ruby>国<rt>くに</rt></ruby>」という<ruby>動物園<rt>どうぶつえん</rt></ruby>には、５００<ruby>匹<rt>ぴき</rt></ruby>ぐらいの<span\
+  \ style=\"color: blue;\"><ruby>猿<rt>さる</rt></ruby></span>がいます。<ruby>春<rt>はる</rt></ruby>になって、<span\
+  \ style=\"color: blue;\"><ruby>猿<rt>さる</rt></ruby></span>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれる<ruby>季節<rt>きせつ</rt></ruby>になりました。<ruby>今年<rt>ことし</rt></ruby>はいつもの<ruby>年<rt>とし</rt></ruby>より<ruby>１０日<rt>とおか</rt></ruby>ぐらい<ruby>早<rt>はや</rt></ruby>い<ruby>今月<rt>こんげつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>に、<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれました。</p>\n\
+  <p><ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>大<rt>おお</rt></ruby>きさは２０ｃｍぐらいです。<ruby>赤<rt>あか</rt></ruby>ちゃんは、お<ruby>母<rt>かあ</rt></ruby>さんと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>木<rt>き</rt></ruby>や<ruby>草<rt>くさ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>隠<rt>かく</rt></ruby>れ</span>ていることが<ruby>多<rt>おお</rt></ruby>いため、なかなか<ruby>見<rt>み</rt></ruby>ることができません。しかしこの<ruby>日<rt>ひ</rt></ruby>は、お<ruby>母<rt>かあ</rt></ruby>さんの<span\
+  \ style=\"color: blue;\"><ruby>胸<rt>むね</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>乳<rt>ちち</rt></ruby></span>を<ruby>飲<rt>の</rt></ruby>んだり、<ruby>時々<rt>ときどき</rt></ruby><ruby>大<rt>おお</rt></ruby>きな<ruby>目<rt>め</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>動<rt>うご</rt></ruby>かし</span>たりしていました。</p>\n<p>この<ruby>動物園<rt>どうぶつえん</rt></ruby>では、５<ruby>月<rt>がつ</rt></ruby>までに５０<ruby>匹<rt>ぴき</rt></ruby>ぐらいの<span\
+  \ style=\"color: blue;\"><ruby>猿<rt>さる</rt></ruby></span>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 猿
+  descriptions:
+  - <ruby><rb>森林</rb><rt>しんりん</rt></ruby>にすみ、<ruby><rb>木登</rb><rt>きのぼ</rt></ruby>りがうまく、<ruby><rb>群</rb><rt>む</rt></ruby>れを<ruby><rb>作</rb><rt>つく</rt></ruby>って<ruby><rb>暮</rb><rt>く</rt></ruby>らしている<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。チンパンジー・ゴリラ・オランウータン・テナガザルなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>にはニホンザルがいる。
+- word: 隠れる
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>後</rb><rt>うし</rt></ruby>ろに<ruby><rb>入</rb><rt>はい</rt></ruby>って<ruby><rb>見</rb><rt>み</rt></ruby>えなくなる。
+  - <ruby><rb>人目</rb><rt>ひとめ</rt></ruby>につかないようにする。
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>名前</rb><rt>なまえ</rt></ruby>が<ruby><rb>知</rb><rt>し</rt></ruby>られていない。
+- word: 胸
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>で、<ruby><rb>首</rb><rt>くび</rt></ruby>と<ruby><rb>腹</rb><rt>はら</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>。<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>。
+  - <ruby><rb>心臓</rb><rt>しんぞう</rt></ruby>。
+  - <ruby><rb>肺</rb><rt>はい</rt></ruby>。
+- word: 乳
+  descriptions:
+  - ちち。
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>ちゃん。
+  - ちちのような<ruby><rb>液体</rb><rt>えきたい</rt></ruby>。
+- word: 動かす
+  descriptions:
+  - <ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。
+  - <ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - <ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011365441000/k10011365441000.html
+web_title_with_ruby: <ruby>サル<rt>さる</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃん<ruby>誕生<rt>たんじょう</rt></ruby>
+  <ruby>動物園<rt>どうぶつえん</rt></ruby>で<ruby>ベビー<rt>べびー</rt></ruby><ruby>ラッシュ<rt>らっしゅ</rt></ruby>
+  <ruby>香川<rt>かがわ</rt></ruby> <ruby>小豆島<rt>しょうどしま</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/14/サルの赤ちゃん誕生-動物園でベビーラッシュ-香川-小豆島
+related_news:
+- title: <ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれた
+  url: https://newswebeasy.github.io/news/easy/2018/01/22/電車の中で赤ちゃんが生まれた
+- title: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>が<ruby>減<rt>へ</rt></ruby>る　<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>少<rt>すく</rt></ruby>ない
+  url: https://newswebeasy.github.io/news/easy/2017/12/28/日本の人口が減る-赤ちゃんが今まででいちばん少ない
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>グループ「クローンの<ruby>猿<rt>さる</rt></ruby>を<ruby>作<rt>つく</rt></ruby>った」と<ruby>発表<rt>はっぴょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/26/中国の研究グループクローンの猿を作ったと発表
+- title: ユニセフ「<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>助<rt>たす</rt></ruby>けるために<ruby>協力<rt>きょうりょく</rt></ruby>してほしい」
+  url: https://newswebeasy.github.io/news/easy/2018/02/20/ユニセフ赤ちゃんを助けるために協力してほしい
+- title: <ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>　パンダの<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>見<rt>み</rt></ruby>ることができるようになる
+  url: https://newswebeasy.github.io/news/easy/2017/12/19/上野動物園-パンダの赤ちゃんを見ることができるようになる
+...
