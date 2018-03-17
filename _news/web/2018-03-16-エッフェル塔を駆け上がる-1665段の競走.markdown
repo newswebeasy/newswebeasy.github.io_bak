@@ -1,0 +1,75 @@
+---
+layout: web_news
+categories: web
+newsid: k10011368361000
+title: エッフェル塔を駆け上がる 1665段の競走
+title_with_ruby: <ruby>エッフェル<rt data-ruby-level="7">えっふぇる</rt></ruby><ruby>塔<rt data-ruby-level="7">とう</rt></ruby>を<ruby>駆<rt
+  data-ruby-level="7">か</rt></ruby>け<ruby>上<rt data-ruby-level="7">あ</rt></ruby>がる
+  1665<ruby>段<rt data-ruby-level="6">だん</rt></ruby>の<ruby>競走<rt data-ruby-level="4">きょうそう</rt></ruby>
+last_modified_at: '2018-03-16T22:21:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>03<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>16<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 22<ruby>時<rt data-ruby-level="2">じ</rt></ruby>21<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 高さ３００メートル余りあるフランス・パリの観光名所エッフェル塔で、塔の頂上までいかに早く駆け上がれるかを競うレースが開かれました。
+summary: <ruby>高<rt data-ruby-level="2">たか</rt></ruby>さ３００メートル<ruby>余<rt data-ruby-level="5">あま</rt></ruby>りあるフランス・パリの<ruby>観光<rt
+  data-ruby-level="4">かんこう</rt></ruby><ruby>名所<rt data-ruby-level="3">めいしょ</rt></ruby><ruby>エッフェル<rt
+  data-ruby-level="7">えっふぇる</rt></ruby><ruby>塔<rt data-ruby-level="7">とう</rt></ruby>で、<ruby>塔<rt
+  data-ruby-level="7">とう</rt></ruby>の<ruby>頂上<rt data-ruby-level="6">ちょうじょう</rt></ruby>までいかに<ruby>早<rt
+  data-ruby-level="1">はや</rt></ruby>く<ruby>駆<rt data-ruby-level="7">か</rt></ruby>け<ruby>上<rt
+  data-ruby-level="1">あ</rt></ruby>がれるかを<ruby>競<rt data-ruby-level="7">きそ</rt></ruby>うレースが<ruby>開<rt
+  data-ruby-level="3">ひら</rt></ruby>かれました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/16/K10011368361_1803162204_1803162221_01_02.jpg
+body:
+- text: パリのシンボル、<ruby>エッフェル<rt data-ruby-level="7">えっふぇる</rt></ruby><ruby>塔<rt data-ruby-level="7">とう</rt></ruby>は<ruby>世界<rt
+    data-ruby-level="3">せかい</rt></ruby><ruby>有数<rt data-ruby-level="3">ゆうすう</rt></ruby>の<ruby>観光<rt
+    data-ruby-level="4">かんこう</rt></ruby><ruby>名所<rt data-ruby-level="3">めいしょ</rt></ruby>で、１５<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>に<ruby>行<rt data-ruby-level="2">おこな</rt></ruby>われたレースには、<ruby>世界<rt
+    data-ruby-level="3">せかい</rt></ruby><ruby>各国<rt data-ruby-level="4">かっこく</rt></ruby>からプロのアスリート４０<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>を<ruby>含<rt data-ruby-level="7">ふく</rt></ruby>む、<ruby>合<rt
+    data-ruby-level="2">あ</rt></ruby>わせて１２９<ruby>人<rt data-ruby-level="1">にん</rt></ruby>が<ruby>参加<rt
+    data-ruby-level="4">さんか</rt></ruby>しました。<br /><br />レースは<ruby>高<rt data-ruby-level="2">たか</rt></ruby>さ３２４メートルある<ruby>塔<rt
+    data-ruby-level="7">とう</rt></ruby>の<ruby>頂上<rt data-ruby-level="6">ちょうじょう</rt></ruby>までいかに<ruby>早<rt
+    data-ruby-level="1">はや</rt></ruby>く<ruby>駆<rt data-ruby-level="7">か</rt></ruby>け<ruby>上<rt
+    data-ruby-level="1">あ</rt></ruby>がれるかタイムを<ruby>競<rt data-ruby-level="7">きそ</rt></ruby>うものです。<br
+    /><br /><ruby>塔<rt data-ruby-level="7">とう</rt></ruby>の<ruby>頂上<rt data-ruby-level="6">ちょうじょう</rt></ruby>までの<ruby>階段<rt
+    data-ruby-level="6">かいだん</rt></ruby>は１６６５<ruby>段<rt data-ruby-level="6">だん</rt></ruby>あるということで、<ruby>参加者<rt
+    data-ruby-level="4">さんかしゃ</rt></ruby>たちは<ruby>集<rt data-ruby-level="3">あつ</rt></ruby>まった<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>たちの<ruby>声援<rt data-ruby-level="7">せいえん</rt></ruby>を<ruby>受<rt
+    data-ruby-level="3">う</rt></ruby>けながら、<ruby>次々<rt data-ruby-level="3">つぎつぎ</rt></ruby>に<ruby>階段<rt
+    data-ruby-level="6">かいだん</rt></ruby>を<ruby>上<rt data-ruby-level="1">のぼ</rt></ruby>っていきました。<br
+    /><br />レースの<ruby>結果<rt data-ruby-level="4">けっか</rt></ruby>、<ruby>男子<rt data-ruby-level="1">だんし</rt></ruby>は７<ruby>分<rt
+    data-ruby-level="2">ふん</rt></ruby>５６<ruby>秒<rt data-ruby-level="3">びょう</rt></ruby>で<ruby>上<rt
+    data-ruby-level="1">のぼ</rt></ruby>ったポーランドの<ruby>男性<rt data-ruby-level="5">だんせい</rt></ruby>が、<ruby>女子<rt
+    data-ruby-level="1">じょし</rt></ruby>は１０<ruby>分<rt data-ruby-level="2">ふん</rt></ruby>２<ruby>秒<rt
+    data-ruby-level="3">びょう</rt></ruby>で<ruby>上<rt data-ruby-level="1">のぼ</rt></ruby>ったオーストラリアの<ruby>女性<rt
+    data-ruby-level="5">じょせい</rt></ruby>が、それぞれ<ruby>優勝<rt data-ruby-level="6">ゆうしょう</rt></ruby>しました。<br
+    /><br />パリは<ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>オリンピック・パラリンピックの<ruby>次<rt
+    data-ruby-level="3">つぎ</rt></ruby>となる２０２４<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>の<ruby>大会<rt
+    data-ruby-level="2">たいかい</rt></ruby>の<ruby>開催地<rt data-ruby-level="7">かいさいち</rt></ruby>に<ruby>選<rt
+    data-ruby-level="4">えら</rt></ruby>ばれていて、<ruby>主催者<rt data-ruby-level="7">しゅさいしゃ</rt></ruby>によりますと、<ruby>今回<rt
+    data-ruby-level="2">こんかい</rt></ruby>のレースは<ruby>開催<rt data-ruby-level="7">かいさい</rt></ruby>の<ruby>決定<rt
+    data-ruby-level="3">けってい</rt></ruby>を<ruby>祝<rt data-ruby-level="4">いわ</rt></ruby>う<ruby>目的<rt
+    data-ruby-level="4">もくてき</rt></ruby>もあるということです。
+  textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/16/K10011368361_1803162206_1803162221_01_03.jpg
+source_url: https://www3.nhk.or.jp/news/html/20180316/k10011368361000.html
+related_news:
+- title: <ruby>月<rt data-ruby-level="1">つき</rt></ruby>は<ruby>遠<rt data-ruby-level="2">とお</rt></ruby>かった…
+    <ruby>世界初<rt data-ruby-level="4">せかいはつ</rt></ruby>の<ruby>月面<rt data-ruby-level="3">げつめん</rt></ruby><ruby>探査<rt
+    data-ruby-level="6">たんさ</rt></ruby>レース <ruby>勝者<rt data-ruby-level="3">しょうしゃ</rt></ruby>なく<ruby>終了<rt
+    data-ruby-level="7">しゅうりょう</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2018/01/24/月は遠かった-世界初の月面探査レース-勝者なく終了へ
+- title: <ruby>高木<rt data-ruby-level="2">たかぎ</rt></ruby><ruby>美帆<rt data-ruby-level="8">みほ</rt></ruby>は<ruby>銀<rt
+    data-ruby-level="3">ぎん</rt></ruby><ruby>メダル<rt data-ruby-level="3">めだる</rt></ruby>
+    スピードスケート<ruby>女子<rt data-ruby-level="1">じょし</rt></ruby>1500m
+  url: https://newswebeasy.github.io/news/web/2018/02/12/高木美帆は銀メダル-スピードスケート女子1500m
+- title: <ruby>高校生<rt data-ruby-level="2">こうこうせい</rt></ruby>ら<ruby>競<rt data-ruby-level="7">きそ</rt></ruby>う「<ruby>国際<rt
+    data-ruby-level="5">こくさい</rt></ruby><ruby>科学<rt data-ruby-level="2">かがく</rt></ruby>オリンピック」<ruby>国内<rt
+    data-ruby-level="2">こくない</rt></ruby><ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>で<ruby>開催<rt
+    data-ruby-level="7">かいさい</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2018/01/02/高校生ら競う国際科学オリンピック国内各地で開催へ
+- title: <ruby>水深<rt data-ruby-level="3">すいしん</rt></ruby>4000メートルの<ruby>深海<rt data-ruby-level="3">しんかい</rt></ruby><ruby>探査<rt
+    data-ruby-level="6">たんさ</rt></ruby>レース <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>チーム<ruby>決勝<rt
+    data-ruby-level="3">けっしょう</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2018/03/08/水深4000メートルの深海探査レース-日本チーム決勝へ
+...
