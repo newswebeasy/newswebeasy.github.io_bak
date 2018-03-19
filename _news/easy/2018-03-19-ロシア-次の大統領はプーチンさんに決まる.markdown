@@ -1,0 +1,73 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011370561000
+last_modified_at: '2018-03-19T17:20:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: ロシアで１８日、次の大統領を選ぶ選挙の投票がありました。
+title: ロシア　次の大統領はプーチンさんに決まる
+title_with_ruby: ロシア　<ruby>次<rt>つぎ</rt></ruby>の<ruby>大統領<rt>だいとうりょう</rt></ruby>はプーチンさんに<ruby>決<rt>き</rt></ruby>まる
+outline: ロシアで１８日、次の大統領を選ぶ選挙の投票がありました。
+outline_with_ruby: ロシアで１８<ruby>日<rt>にち</rt></ruby>、<ruby>次<rt>つぎ</rt></ruby>の<ruby>大統領<rt>だいとうりょう</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ<ruby>選挙<rt>せんきょ</rt></ruby>の<ruby>投票<rt>とうひょう</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/19/K10011370561_1803190824_1803190839_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/19/k10011370561000.mp3
+content_with_ruby: "<p>ロシアで１８<ruby>日<rt>にち</rt></ruby>、<ruby>次<rt>つぎ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>を<ruby>選<rt>えら</rt></ruby>ぶ<span\
+  \ style=\"color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>投票<rt>とうひょう</rt></ruby></span>がありました。<ruby>今<rt>いま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>のプーチンさんがたくさんの<span\
+  \ style=\"color: blue;\"><ruby>票<rt>ひょう</rt></ruby></span>を<ruby>取<rt>と</rt></ruby>って、<ruby>次<rt>つぎ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>に<ruby>決<rt>き</rt></ruby>まりました。</p>\n\
+  <p>プーチンさんは<span style=\"color: blue;\"><ruby>投票<rt>とうひょう</rt></ruby></span>が<ruby>終<rt>お</rt></ruby>わってから、モスクワの<span\
+  \ style=\"color: blue;\"><ruby>広場<rt>ひろば</rt></ruby></span>に<ruby>集<rt>あつ</rt></ruby>まった<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちに「ロシアには<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>成功<rt>せいこう</rt></ruby></span>が<ruby>待<rt>ま</rt></ruby>っています。これから<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>仕事<rt>しごと</rt></ruby>をしましょう」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>プーチンさんは６５<ruby>歳<rt>さい</rt></ruby>で、２０００<ruby>年<rt>ねん</rt></ruby>に<ruby>初<rt>はじ</rt></ruby>めて<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>になりました。この<span style=\"\
+  color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>で２０２４<ruby>年<rt>ねん</rt></ruby>まで<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>を<ruby>続<rt>つづ</rt></ruby>けることになります。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>のとき、<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby><ruby>同<rt>おな</rt></ruby>じ<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>を<ruby>続<rt>つづ</rt></ruby>けることに<ruby>反対<rt>はんたい</rt></ruby>する<span\
+  \ style=\"color: blue;\">デモ</span>がありました。しかし、プーチンさんは<span style=\"color: blue;\"\
+  ><ruby>選挙<rt>せんきょ</rt></ruby></span>に<ruby>出<rt>で</rt></ruby>たほかの<ruby>人<rt>ひと</rt></ruby>より<ruby>有名<rt>ゆうめい</rt></ruby>で、たくさんの<span\
+  \ style=\"color: blue;\"><ruby>票<rt>ひょう</rt></ruby></span>を<ruby>取<rt>と</rt></ruby>りました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 選挙
+  descriptions:
+  - ある<ruby><rb>役目</rb><rt>やくめ</rt></ruby>につく<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>選</rb><rt>えら</rt></ruby>ぶこと。
+- word: 投票
+  descriptions:
+  - <ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>や<ruby><rb>採決</rb><rt>さいけつ</rt></ruby>で、<ruby><rb>選</rb><rt>えら</rt></ruby>びたい<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>か<ruby><rb>反対</rb><rt>はんたい</rt></ruby>かを、<ruby><rb>紙</rb><rt>かみ</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いて<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 票
+  descriptions:
+  - <ruby><rb>紙</rb><rt>かみ</rt></ruby>のふだ。
+  - <ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>で<ruby><rb>投票</rb><rt>とうひょう</rt></ruby>した<ruby><rb>紙</rb><rt>かみ</rt></ruby>。<ruby><rb>投票用紙</rb><rt>とうひょうようし</rt></ruby>。また、その<ruby><rb>紙</rb><rt>かみ</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 広場
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まれる、<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: 成功
+  descriptions:
+  - ものごとが<ruby><rb>思</rb><rt>おも</rt></ruby>いどおりにうまくいくこと。
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>地位</rb><rt>ちい</rt></ruby>や<ruby><rb>財産</rb><rt>ざいさん</rt></ruby>を<ruby><rb>得</rb><rt>え</rt></ruby>ること。
+- word: デモ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「デモンストレーション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>認</rb><rt>みと</rt></ruby>めさせようとして、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>勢</rb><rt>いきお</rt></ruby>いを<ruby><rb>示</rb><rt>しめ</rt></ruby>すこと。また、そのための<ruby><rb>行進</rb><rt>こうしん</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011370561000/k10011370561000.html
+web_title_with_ruby: <ruby>ロシア<rt>ろしあ</rt></ruby><ruby>大統領選<rt>だいとうりょうせん</rt></ruby>
+  <ruby>プーチン<rt>ぷーちん</rt></ruby><ruby>氏<rt>し</rt></ruby><ruby>圧勝<rt>あっしょう</rt></ruby>の<ruby>勢<rt>いきお</rt></ruby>い
+  <ruby>通算<rt>つうさん</rt></ruby>４<ruby>期目<rt>きめ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/19/ロシア大統領選-プーチン氏圧勝の勢い-通算4期目
+related_news:
+- title: イギリス「スパイだった<ruby>男性<rt>だんせい</rt></ruby>に<ruby>使<rt>つか</rt></ruby>った<ruby>毒<rt>どく</rt></ruby>はロシアが<ruby>作<rt>つく</rt></ruby>った」
+  url: https://newswebeasy.github.io/news/easy/2018/03/14/イギリススパイだった男性に使った毒はロシアが作った
+- title: <ruby>韓国<rt>かんこく</rt></ruby>とアメリカ「オリンピックの<ruby>間<rt>あいだ</rt></ruby>は<ruby>軍<rt>ぐん</rt></ruby>の<ruby>訓練<rt>くんれん</rt></ruby>をしない」
+  url: https://newswebeasy.github.io/news/easy/2018/01/05/韓国とアメリカオリンピックの間は軍の訓練をしない
+- title: ４<ruby>月<rt>がつ</rt></ruby>に<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のトップが<ruby>会<rt>あ</rt></ruby>って<ruby>話<rt>はなし</rt></ruby>をすることが<ruby>決<rt>き</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/03/07/4月に韓国と北朝鮮のトップが会って話をすることが決まる
+- title: <ruby>国連<rt>こくれん</rt></ruby>　「エルサレムが<ruby>首都<rt>しゅと</rt></ruby>」と<ruby>言<rt>い</rt></ruby>うアメリカを<ruby>認<rt>みと</rt></ruby>めない
+  url: https://newswebeasy.github.io/news/easy/2017/12/22/国連-エルサレムが首都と言うアメリカを認めない
+...

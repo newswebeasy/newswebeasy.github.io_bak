@@ -1,0 +1,72 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011366291000
+last_modified_at: '2018-03-19T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 国連が「幸せな国」の今年のランキングを発表しました。
+title: 「幸せな国」１番はフィンランド　日本は５４番
+title_with_ruby: 「<ruby>幸<rt>しあわ</rt></ruby>せな<ruby>国<rt>くに</rt></ruby>」１<ruby>番<rt>ばん</rt></ruby>はフィンランド　<ruby>日本<rt>にっぽん</rt></ruby>は５４<ruby>番<rt>ばん</rt></ruby>
+outline: 国連が「幸せな国」の今年のランキングを発表しました。
+outline_with_ruby: <ruby>国連<rt>こくれん</rt></ruby>が「<ruby>幸<rt>しあわ</rt></ruby>せな<ruby>国<rt>くに</rt></ruby>」の<ruby>今年<rt>ことし</rt></ruby>のランキングを<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/15/K10011366291_1803151939_1803151948_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/19/k10011366291000.mp3
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>が「<span\
+  \ style=\"color: blue;\"><ruby>幸<rt>しあわ</rt></ruby>せ</span>な<ruby>国<rt>くに</rt></ruby>」の<ruby>今年<rt>ことし</rt></ruby>の<span\
+  \ style=\"color: blue;\">ランキング</span>を<span style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。１５６の<ruby>国<rt>くに</rt></ruby>と<span\
+  \ style=\"color: blue;\"><ruby>地域<rt>ちいき</rt></ruby></span>の「<ruby>経済<rt>けいざい</rt></ruby>」や「<span\
+  \ style=\"color: blue;\"><ruby>健康<rt>けんこう</rt></ruby></span>」、「<ruby>自由<rt>じゆう</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby>かどうか」などを<ruby>調<rt>しら</rt></ruby>べて<span\
+  \ style=\"color: blue;\">ランキング</span>を<ruby>決<rt>き</rt></ruby>めました。</p>\n<p>１<ruby>番<rt>ばん</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>５<ruby>番<rt>ばん</rt></ruby>だったフィンランドでした。２<ruby>番<rt>ばん</rt></ruby>はノルウェー、３<ruby>番<rt>ばん</rt></ruby>はデンマークでした。<span\
+  \ style=\"color: blue;\"><ruby>福祉<rt>ふくし</rt></ruby></span>や<ruby>教育<rt>きょういく</rt></ruby>を<ruby>特<rt>とく</rt></ruby>によくしようとしている<ruby>北<rt>きた</rt></ruby><span\
+  \ style=\"color: blue;\">ヨーロッパ</span>の<ruby>国<rt>くに</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby>も<span\
+  \ style=\"color: blue;\">ランキング</span>が<ruby>高<rt>たか</rt></ruby>くなりました。</p>\n<p><ruby>日本<rt>にっぽん</rt></ruby>は「ほかの<ruby>人<rt>ひと</rt></ruby>への<ruby>優<rt>やさ</rt></ruby>しさ」などの<span\
+  \ style=\"color: blue;\">ポイント</span>が<ruby>低<rt>ひく</rt></ruby>くて、５４<ruby>番<rt>ばん</rt></ruby>でした。<ruby>去年<rt>きょねん</rt></ruby>は５１<ruby>番<rt>ばん</rt></ruby>でした。</p>\n\
+  <p><ruby>国<rt>くに</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>戦争<rt>せんそう</rt></ruby>などが<ruby>続<rt>つづ</rt></ruby>いているアフリカの<ruby>国<rt>くに</rt></ruby>は、<span\
+  \ style=\"color: blue;\">ランキング</span>が<ruby>低<rt>ひく</rt></ruby>くなりました。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 幸せ
+  descriptions:
+  - <ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>満足</rb><rt>まんぞく</rt></ruby>している<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: ランキング
+  descriptions:
+  - <ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 地域
+  descriptions:
+  - ある<ruby><rb>範囲</rb><rt>はんい</rt></ruby>に<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。
+- word: 健康
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。
+- word: 福祉
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>幸</rb><rt>しあわ</rt></ruby>せ。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: ポイント
+  descriptions:
+  - <ruby><rb>点</rb><rt>てん</rt></ruby>。<ruby><rb>要点</rb><rt>ようてん</rt></ruby>。
+  - <ruby><rb>得点</rb><rt>とくてん</rt></ruby>。<ruby><rb>点数</rb><rt>てんすう</rt></ruby>。
+  - <ruby><rb>線路</rb><rt>せんろ</rt></ruby>の<ruby><rb>分</rb><rt>わ</rt></ruby>かれ<ruby><rb>目</rb><rt>め</rt></ruby>で、<ruby><rb>車両</rb><rt>しゃりょう</rt></ruby>を<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れかえる<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>転</rb><rt>てん</rt></ruby>てつ<ruby><rb>機</rb><rt>き</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011366291000/k10011366291000.html
+web_title_with_ruby: 「<ruby>幸福度<rt>こうふくど</rt></ruby>」1<ruby>位<rt>い</rt></ruby>は<ruby>フィンランド<rt>ふぃんらんど</rt></ruby>
+  <ruby>日本<rt>にっぽん</rt></ruby>は…54<ruby>位<rt>い</rt></ruby>に<ruby>後退<rt>こうたい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/15/幸福度1位はフィンランド-日本は54位に後退
+related_news:
+- title: ＴＰＰに<ruby>日本<rt>にっぽん</rt></ruby>など１１の<ruby>国<rt>くに</rt></ruby>がサインをする
+  url: https://newswebeasy.github.io/news/easy/2018/03/09/TPPに日本など11の国がサインをする
+- title: <ruby>国連<rt>こくれん</rt></ruby>　「エルサレムが<ruby>首都<rt>しゅと</rt></ruby>」と<ruby>言<rt>い</rt></ruby>うアメリカを<ruby>認<rt>みと</rt></ruby>めない
+  url: https://newswebeasy.github.io/news/easy/2017/12/22/国連-エルサレムが首都と言うアメリカを認めない
+- title: <ruby>民泊<rt>みんぱく</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をするための<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みが<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/03/16/民泊の仕事をするための申し込みが始まる
+- title: <ruby>今年<rt>ことし</rt></ruby><ruby>仕事<rt>しごと</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>亡<rt>な</rt></ruby>くなった<ruby>記者<rt>きしゃ</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>で５０<ruby>人<rt>にん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2017/12/22/今年仕事中に亡くなった記者は世界で50人
+...

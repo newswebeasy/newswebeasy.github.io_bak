@@ -1,0 +1,82 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011370511000
+last_modified_at: '2018-03-19T17:20:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: １８日、アメリカでテニスの国際大会があって、大坂なおみ選手が優勝しました。
+title: テニスの大坂選手が国際大会で優勝　日本の女子で初めて
+title_with_ruby: テニスの<ruby>大坂<rt>おおさか</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>国際<rt>こくさい</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>で<ruby>優勝<rt>ゆうしょう</rt></ruby>　<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>女子<rt>じょし</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて
+outline: １８日、アメリカでテニスの国際大会があって、大坂なおみ選手が優勝しました。
+outline_with_ruby: １８<ruby>日<rt>にち</rt></ruby>、アメリカでテニスの<ruby>国際<rt>こくさい</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>があって、<ruby>大坂<rt>おおさか</rt></ruby>なおみ<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/19/K10011370511_1803190953_1803190955_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/19/k10011370511000.mp3
+content_with_ruby: "<p>１８<ruby>日<rt>にち</rt></ruby>、アメリカでテニスの<ruby>国際<rt>こくさい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>があって、<ruby>大坂<rt>おおさか</rt></ruby>なおみ<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>女子<rt>じょし</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>大<rt>おお</rt></ruby>きな<ruby>国際<rt>こくさい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>で<span style=\"color:\
+  \ blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>したのは<ruby>初<rt>はじ</rt></ruby>めてです。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>を<ruby>決<rt>き</rt></ruby>める<ruby>試合<rt>しあい</rt></ruby>で、<ruby>大坂<rt>おおさか</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>はロシアのダリア・カッサキーナ<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>から<span style=\"color:\
+  \ blue;\"><ruby>第<rt>だい</rt></ruby></span>１<span style=\"color: blue;\">セット</span>も<span\
+  \ style=\"color: blue;\"><ruby>第<rt>だい</rt></ruby></span>２<span style=\"color: blue;\"\
+  >セット</span>も<ruby>取<rt>と</rt></ruby>って、２－０で<ruby>勝<rt>か</rt></ruby>ちました。</p>\n<p><ruby>大坂<rt>おおさか</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>試合<rt>しあい</rt></ruby>のあと「<span\
+  \ style=\"color: blue;\"><ruby>自信<rt>じしん</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>って、<ruby>試合<rt>しあい</rt></ruby>のことだけ<ruby>考<rt>かんが</rt></ruby>えました。<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\">ファン</span>の<ruby>皆<rt>みな</rt></ruby>さん、ありがとうございます」と<ruby>笑<rt>わら</rt></ruby>って<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 大会
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+  - ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: 優勝
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>などで、<ruby><rb>一位</rb><rt>いちい</rt></ruby>で<ruby><rb>勝</rb><rt>か</rt></ruby>つこと。
+- word: 女子
+  descriptions:
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>女性</rb><rt>じょせい</rt></ruby>。
+- word: 第
+  descriptions:
+  - ものごとの<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>。
+  - <ruby><rb>試験</rb><rt>しけん</rt></ruby>。
+  - <ruby><rb>数字</rb><rt>すうじ</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>につけて<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。
+- word: セット
+  descriptions:
+  - ひとそろい。
+  - テニス・バレーボール・<ruby><rb>卓球</rb><rt>たっきゅう</rt></ruby>などの<ruby><rb>一回</rb><rt>いっかい</rt></ruby>の<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。
+  - <ruby><rb>舞台</rb><rt>ぶたい</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>で<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+  - <ruby><rb>髪</rb><rt>かみ</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>整</rb><rt>ととの</rt></ruby>えること。
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>が、ある<ruby><rb>条件</rb><rt>じょうけん</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くように<ruby><rb>整</rb><rt>ととの</rt></ruby>えること。
+- word: 自信
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>や<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちを、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>でかたく<ruby><rb>信</rb><rt>しん</rt></ruby>じること。
+- word: ファン
+  descriptions:
+  - スポーツや<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>演劇</rb><rt>えんげき</rt></ruby>などが、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>に<ruby><rb>好</rb><rt>す</rt></ruby>きな<ruby><rb>人</rb><rt>ひと</rt></ruby>。または、ある<ruby><rb>俳優</rb><rt>はいゆう</rt></ruby>や、<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>などを<ruby><rb>熱心</rb><rt>ねっしん</rt></ruby>に<ruby><rb>応援</rb><rt>おうえん</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。フアン。
+  - <ruby><rb>扇風機</rb><rt>せんぷうき</rt></ruby>。<ruby><rb>送風機</rb><rt>そうふうき</rt></ruby>。<ruby><rb>換気扇</rb><rt>かんきせん</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011370511000/k10011370511000.html
+web_title_with_ruby: <ruby>テニス<rt>てにす</rt></ruby> <ruby>大坂<rt>おおさか</rt></ruby>なおみが<ruby>初優勝<rt>はつゆうしょう</rt></ruby>
+  <ruby>四大<rt>よんだい</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>に<ruby>次<rt>つ</rt></ruby>ぐ<ruby>大会<rt>たいかい</rt></ruby>で<ruby>日本勢<rt>にほんぜい</rt></ruby><ruby>初<rt>はつ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/19/テニス-大坂なおみが初優勝-四大大会に次ぐ大会で日本勢初
+related_news:
+- title: <ruby>卓球<rt>たっきゅう</rt></ruby>の<ruby>全日本選手権<rt>ぜんにほんせんしゅけん</rt></ruby>で１４<ruby>歳<rt>さい</rt></ruby>の<ruby>張本<rt>はりもと</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2018/01/22/卓球の全日本選手権で14歳の張本選手が優勝する
+- title: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>女子<rt>じょし</rt></ruby>が<ruby>銀<rt>ぎん</rt></ruby>と<ruby>銅<rt>どう</rt></ruby>メダル　スピードスケート１０００m
+  url: https://newswebeasy.github.io/news/easy/2018/02/15/日本の女子が銀と銅メダル-スピードスケート1000m
+- title: スピードスケートの<ruby>小平<rt>こだいら</rt></ruby><ruby>奈緒<rt>なお</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>金<rt>きん</rt></ruby>メダルを<ruby>取<rt>と</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/02/19/スピードスケートの小平奈緒選手が金メダルを取る
+- title: スピードスケート１５００ｍ　<ruby>高木<rt>たかぎ</rt></ruby><ruby>美帆<rt>みほ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>銀<rt>ぎん</rt></ruby>メダル
+  url: https://newswebeasy.github.io/news/easy/2018/02/13/スピードスケート1500m-高木美帆選手が銀メダル
+- title: カヌーの<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>別<rt>べつ</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>の<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>に<ruby>禁止<rt>きんし</rt></ruby>の<ruby>薬<rt>くすり</rt></ruby>を<ruby>入<rt>い</rt></ruby>れる
+  url: https://newswebeasy.github.io/news/easy/2018/01/10/カヌーの選手が別の選手の飲み物に禁止の薬を入れる
+...

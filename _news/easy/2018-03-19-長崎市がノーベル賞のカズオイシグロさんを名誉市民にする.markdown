@@ -1,0 +1,70 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011366431000
+last_modified_at: '2018-03-19T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 去年、ノーベル賞の文学賞をもらった小説家のカズオ・イシグロさんは長崎市で生まれて、今６３歳です。
+title: 長崎市がノーベル賞のカズオ・イシグロさんを名誉市民にする
+title_with_ruby: <ruby>長崎市<rt>ながさきし</rt></ruby>がノーベル<ruby>賞<rt>しょう</rt></ruby>のカズオ・イシグロさんを<ruby>名誉<rt>めいよ</rt></ruby><ruby>市民<rt>しみん</rt></ruby>にする
+outline: 去年、ノーベル賞の文学賞をもらった小説家のカズオ・イシグロさんは長崎市で生まれて、今６３歳です。
+outline_with_ruby: <ruby>去年<rt>きょねん</rt></ruby>、ノーベル<ruby>賞<rt>しょう</rt></ruby>の<ruby>文学<rt>ぶんがく</rt></ruby><ruby>賞<rt>しょう</rt></ruby>をもらった<ruby>小説家<rt>しょうせつか</rt></ruby>のカズオ・イシグロさんは<ruby>長崎市<rt>ながさきし</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれて、<ruby>今<rt>いま</rt></ruby>６３<ruby>歳<rt>さい</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/15/K10011366431_1803151752_1803151754_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/19/k10011366431000.mp3
+content_with_ruby: "<p><ruby>去年<rt>きょねん</rt></ruby>、<span style=\"color: blue;\">ノーベル<ruby>賞<rt>しょう</rt></ruby></span>の<ruby>文学<rt>ぶんがく</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>賞<rt>しょう</rt></ruby></span>をもらった<ruby>小説家<rt>しょうせつか</rt></ruby>のカズオ・イシグロさんは<ruby>長崎市<rt>ながさきし</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれて、<ruby>今<rt>いま</rt></ruby>６３<ruby>歳<rt>さい</rt></ruby>です。</p>\n\
+  <p>イシグロさんは５<ruby>歳<rt>さい</rt></ruby>のときに<ruby>両親<rt>りょうしん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にイギリスに<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>して、そのあとイギリス<ruby>人<rt>じん</rt></ruby>になりました。イシグロさんが<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>出<rt>だ</rt></ruby>した「<ruby>遠<rt>とお</rt></ruby>い<ruby>山<rt>やま</rt></ruby>なみの<ruby>光<rt>ひかり</rt></ruby>」という<ruby>本<rt>ほん</rt></ruby>は、<ruby>長崎<rt>ながさき</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>です。</p>\n\
+  <p><ruby>長崎市<rt>ながさきし</rt></ruby>は１５<ruby>日<rt>にち</rt></ruby>、<span style=\"color:\
+  \ blue;\"><ruby>議会<rt>ぎかい</rt></ruby></span>で<span style=\"color: blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>っ</span>て、イシグロさんを<span\
+  \ style=\"color: blue;\"><ruby>名誉<rt>めいよ</rt></ruby></span><ruby>市民<rt>しみん</rt></ruby>にすることに<ruby>決<rt>き</rt></ruby>めました。<ruby>田上<rt>たうえ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>市長<rt>しちょう</rt></ruby></span>は「イシグロさんが<ruby>強<rt>つよ</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>平和<rt>へいわ</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>願<rt>ねが</rt></ruby>う</span><ruby>気持<rt>きも</rt></ruby>ちは、<ruby>長崎<rt>ながさき</rt></ruby>の<ruby>市民<rt>しみん</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じです」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p><ruby>長崎市<rt>ながさきし</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby>８<ruby>月<rt>がつ</rt></ruby><ruby>９日<rt>ここのか</rt></ruby>の「<ruby>長崎<rt>ながさき</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>原爆<rt>げんばく</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>」にイシグロさんを<ruby>招待<rt>しょうたい</rt></ruby>する<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ノーベル賞
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の、<ruby><rb>学問</rb><rt>がくもん</rt></ruby>や<ruby><rb>平和</rb><rt>へいわ</rt></ruby>のためにりっぱな<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をした<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>毎年</rb><rt>まいとし</rt></ruby>あたえられる<ruby><rb>賞</rb><rt>しょう</rt></ruby>。<ruby><rb>化学者</rb><rt>かがくしゃ</rt></ruby>ノーベルの<ruby><rb>遺言</rb><rt>ゆいごん</rt></ruby>で、この<ruby><rb>制度</rb><rt>せいど</rt></ruby>ができた。
+- word: 名誉
+  descriptions:
+  - すぐれていると<ruby><rb>認</rb><rt>みと</rt></ruby>められること。ほまれ。
+  - りっぱだという<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。<ruby><rb>体面</rb><rt>たいめん</rt></ruby>。
+  - <ruby><rb>尊敬</rb><rt>そんけい</rt></ruby>のしるしとしておくられる<ruby><rb>名</rb><rt>な</rt></ruby>。
+- word: 賞
+  descriptions:
+  - ほめる。たたえる。
+  - ほうび。
+  - <ruby><rb>味</rb><rt>あじ</rt></ruby>わって<ruby><rb>楽</rb><rt>たの</rt></ruby>しむ。
+- word: 議会
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>に<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>について<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めをする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>の<ruby><rb>国会</rb><rt>こっかい</rt></ruby>と、<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>などの<ruby><rb>地方議会</rb><rt>ちほうぎかい</rt></ruby>とがある。
+- word: 話し合う
+  descriptions:
+  - たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。
+  - <ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。
+- word: 市長
+  descriptions:
+  - <ruby><rb>市</rb><rt>し</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>し、その<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとり<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 平和
+  descriptions:
+  - おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。
+- word: 願う
+  descriptions:
+  - （<ruby><rb>神</rb><rt>かみ</rt></ruby>や<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>やほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>に）こうしてほしいと<ruby><rb>思</rb><rt>おも</rt></ruby>う。たのむ。<ruby><rb>望</rb><rt>のぞ</rt></ruby>む。
+- word: 原子爆弾
+  descriptions:
+  - <ruby><rb>原子核分裂</rb><rt>げんしかくぶんれつ</rt></ruby>によって<ruby><rb>起</rb><rt>お</rt></ruby>こる、ものすごい<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>殺</rb><rt>ころ</rt></ruby>す。<ruby><rb>原爆</rb><rt>げんばく</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011366431000/k10011366431000.html
+web_title_with_ruby: <ruby>ノーベル<rt>のーべる</rt></ruby><ruby>文学賞<rt>ぶんがくしょう</rt></ruby>の<ruby>カズオ<rt>かずお</rt></ruby>・<ruby>イシグロ<rt>いしぐろ</rt></ruby><ruby>氏<rt>し</rt></ruby>
+  <ruby>長崎市<rt>ながさきし</rt></ruby><ruby>名誉<rt>めいよ</rt></ruby><ruby>市民<rt>しみん</rt></ruby>に
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/15/ノーベル文学賞のカズオイシグロ氏-長崎市名誉市民に
+related_news:
+- title: ＩＣＡＮのフィンさんが<ruby>初<rt>はじ</rt></ruby>めて<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>く</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/01/16/ICANのフィンさんが初めて日本に来る
+- title: ローマ<ruby>法王<rt>ほうおう</rt></ruby>「<ruby>原爆<rt>げんばく</rt></ruby>が<ruby>落<rt>お</rt></ruby>ちた<ruby>長崎<rt>ながさき</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>配<rt>くば</rt></ruby>って」
+  url: https://newswebeasy.github.io/news/easy/2018/01/05/ローマ法王原爆が落ちた長崎の男の子の写真を配って
+...

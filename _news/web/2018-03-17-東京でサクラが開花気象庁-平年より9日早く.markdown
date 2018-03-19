@@ -7,12 +7,12 @@ title_with_ruby: 「<ruby>東京<rt data-ruby-level="2">とうきょう</rt></ru
   data-ruby-level="3">かいか</rt></ruby>」<ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>
   <ruby>平年<rt data-ruby-level="3">へいねん</rt></ruby>より９<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>早<rt
   data-ruby-level="1">はや</rt></ruby>く
-last_modified_at: '2018-03-17T14:52:00+09:00'
+last_modified_at: '2018-03-17T20:01:00+09:00'
 datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>03<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>17<ruby>日<rt
-  data-ruby-level="1">にち</rt></ruby> 14<ruby>時<rt data-ruby-level="2">じ</rt></ruby>52<ruby>分<rt
+  data-ruby-level="1">にち</rt></ruby> 20<ruby>時<rt data-ruby-level="2">じ</rt></ruby>01<ruby>分<rt
   data-ruby-level="2">ふん</rt></ruby>
-description: 気象庁は、１７日午後「東京でサクラが開花した」と発表しました。去年より４日、平年より９日早い開花です。
-summary: <ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>は、１７<ruby>日午後<rt data-ruby-level="2">にちごご</rt></ruby>「<ruby>東京<rt
+description: 気象庁は、１７日午後、「東京でサクラが開花した」と発表しました。去年より４日、平年より９日早い開花です。
+summary: <ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>は、１７<ruby>日午後<rt data-ruby-level="2">にちごご</rt></ruby>、「<ruby>東京<rt
   data-ruby-level="2">とうきょう</rt></ruby>でサクラが<ruby>開花<rt data-ruby-level="3">かいか</rt></ruby>した」と<ruby>発表<rt
   data-ruby-level="3">はっぴょう</rt></ruby>しました。<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>より４<ruby>日<rt
   data-ruby-level="1">にち</rt></ruby>、<ruby>平年<rt data-ruby-level="3">へいねん</rt></ruby>より９<ruby>日早<rt
@@ -25,7 +25,7 @@ more: <ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>�
   data-ruby-level="2">ふん</rt></ruby>と<ruby>平年<rt data-ruby-level="3">へいねん</rt></ruby>より１<ruby>度<rt
   data-ruby-level="3">ど</rt></ruby>５<ruby>分<rt data-ruby-level="2">ふん</rt></ruby><ruby>低<rt
   data-ruby-level="4">ひく</rt></ruby>く、３<ruby>月上旬<rt data-ruby-level="7">がつじょうじゅん</rt></ruby><ruby>並<rt
-  data-ruby-level="6">な</rt></ruby>みとなるなど<ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>で<ruby>最低<rt
+  data-ruby-level="6">な</rt></ruby>みとなるなど、<ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>で<ruby>最低<rt
   data-ruby-level="4">さいてい</rt></ruby><ruby>気温<rt data-ruby-level="3">きおん</rt></ruby>が<ruby>平年<rt
   data-ruby-level="3">へいねん</rt></ruby>を<ruby>下回<rt data-ruby-level="2">したまわ</rt></ruby>るひんやりとした<ruby>朝<rt
   data-ruby-level="2">あさ</rt></ruby>となりました。<br /><br /><ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>・<ruby>千代田区<rt
@@ -46,27 +46,33 @@ more: <ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>�
   data-ruby-level="2">こんしゅう</rt></ruby>、２<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>連続<rt
   data-ruby-level="4">れんぞく</rt></ruby>で<ruby>最高<rt data-ruby-level="4">さいこう</rt></ruby><ruby>気温<rt
   data-ruby-level="3">きおん</rt></ruby>が２０<ruby>度<rt data-ruby-level="3">ど</rt></ruby>を<ruby>超<rt
-  data-ruby-level="7">こ</rt></ruby>えるなど<ruby>先月<rt data-ruby-level="1">せんげつ</rt></ruby><ruby>下旬<rt
+  data-ruby-level="7">こ</rt></ruby>えるなど、<ruby>先月<rt data-ruby-level="1">せんげつ</rt></ruby><ruby>下旬<rt
   data-ruby-level="7">げじゅん</rt></ruby>から<ruby>暖<rt data-ruby-level="6">あたた</rt></ruby>かい<ruby>日<rt
   data-ruby-level="1">ひ</rt></ruby>が<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>いたため、<ruby>開花<rt
   data-ruby-level="3">かいか</rt></ruby>が<ruby>一気<rt data-ruby-level="1">いっき</rt></ruby>に<ruby>早<rt
-  data-ruby-level="1">はや</rt></ruby>まったと<ruby>見<rt data-ruby-level="1">み</rt></ruby>られるということです。<br
-  /><ruby>例年<rt data-ruby-level="4">れいねん</rt></ruby>、<ruby>開花<rt data-ruby-level="3">かいか</rt></ruby>から１<ruby>週間<rt
+  data-ruby-level="1">はや</rt></ruby>まったと<ruby>見<rt data-ruby-level="1">み</rt></ruby>られるということです。<ruby>例年<rt
+  data-ruby-level="4">れいねん</rt></ruby>、<ruby>開花<rt data-ruby-level="3">かいか</rt></ruby>から１<ruby>週間<rt
   data-ruby-level="2">しゅうかん</rt></ruby>から１０<ruby>日<rt data-ruby-level="1">にち</rt></ruby>で<ruby>満開<rt
   data-ruby-level="4">まんかい</rt></ruby>になるということです。<br /><br />サクラの<ruby>開花<rt data-ruby-level="3">かいか</rt></ruby>は、１６<ruby>日<rt
   data-ruby-level="1">にち</rt></ruby>までに<ruby>高知県<rt data-ruby-level="3">こうちけん</rt></ruby>と<ruby>宮崎県<rt
   data-ruby-level="7">みやざきけん</rt></ruby>で<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>されていて、１７<ruby>日<rt
   data-ruby-level="1">にち</rt></ruby>は<ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>のほか、<ruby>鹿児島県<rt
-  data-ruby-level="8">かごしまけん</rt></ruby>や<ruby>長崎県<rt data-ruby-level="7">ながさきけん</rt></ruby>で<ruby>開花<rt
-  data-ruby-level="3">かいか</rt></ruby>が<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>されました。<ruby>民間<rt
-  data-ruby-level="4">みんかん</rt></ruby>の<ruby>気象<rt data-ruby-level="4">きしょう</rt></ruby><ruby>会社<rt
-  data-ruby-level="2">がいしゃ</rt></ruby>などによりますと、<ruby>今週末<rt data-ruby-level="4">こんしゅうまつ</rt></ruby>から<ruby>来週<rt
-  data-ruby-level="2">らいしゅう</rt></ruby>にかけて<ruby>西日本<rt data-ruby-level="2">にしにほん</rt></ruby>と<ruby>東日本<rt
-  data-ruby-level="2">ひがしにほん</rt></ruby>の<ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>でサクラの<ruby>開花<rt
-  data-ruby-level="3">かいか</rt></ruby>が<ruby>予想<rt data-ruby-level="3">よそう</rt></ruby>されています。
+  data-ruby-level="8">かごしまけん</rt></ruby>や<ruby>長崎県<rt data-ruby-level="7">ながさきけん</rt></ruby>、<ruby>熊本県<rt
+  data-ruby-level="7">くまもとけん</rt></ruby>で<ruby>開花<rt data-ruby-level="3">かいか</rt></ruby>が<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>されました。<ruby>民間<rt data-ruby-level="4">みんかん</rt></ruby>の<ruby>気象<rt
+  data-ruby-level="4">きしょう</rt></ruby><ruby>会社<rt data-ruby-level="2">がいしゃ</rt></ruby>などによりますと、<ruby>今週末<rt
+  data-ruby-level="4">こんしゅうまつ</rt></ruby>から<ruby>来週<rt data-ruby-level="2">らいしゅう</rt></ruby>にかけて、<ruby>西日本<rt
+  data-ruby-level="2">にしにほん</rt></ruby>と<ruby>東日本<rt data-ruby-level="2">ひがしにほん</rt></ruby>の<ruby>各地<rt
+  data-ruby-level="4">かくち</rt></ruby>でサクラの<ruby>開花<rt data-ruby-level="3">かいか</rt></ruby>が<ruby>予想<rt
+  data-ruby-level="3">よそう</rt></ruby>されています。
 movie_url: https://newswebeasy.github.io/ja201803/news/web/movie/2018/03/17/k10011369081_201803171857_201803171918.mp4
 voice_url: https://newswebeasy.github.io/ja201803/news/web/voice/2018/03/17/k10011369081_201803171857_201803171918.mp3
 source_url: https://www3.nhk.or.jp/news/html/20180317/k10011369081000.html
+easy_title_with_ruby: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>でいつもの<ruby>年<rt
+  data-ruby-level="1">とし</rt></ruby>より９<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>早<rt
+  data-ruby-level="1">はや</rt></ruby>く<ruby>桜<rt data-ruby-level="5">さくら</rt></ruby>が<ruby>咲<rt
+  data-ruby-level="7">さ</rt></ruby>き<ruby>始<rt data-ruby-level="7">はじ</rt></ruby>める
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/03/19/東京でいつもの年より9日早く桜が咲き始める
 related_news:
 - title: サクラの<ruby>開花<rt data-ruby-level="3">かいか</rt></ruby><ruby>予想<rt data-ruby-level="3">よそう</rt></ruby><ruby>早<rt
     data-ruby-level="1">はや</rt></ruby>まりました！ <ruby>広範囲<rt data-ruby-level="7">こうはんい</rt></ruby>で20<ruby>度<rt

@@ -1,0 +1,46 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011369081000
+last_modified_at: '2018-03-19T17:20:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: 気象庁は１７日、「東京で桜の花が咲きました」と発表しました。
+title: 東京でいつもの年より９日早く桜が咲き始める
+title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>でいつもの<ruby>年<rt>とし</rt></ruby>より<ruby>９日<rt>ここのか</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>める
+outline: 気象庁は１７日、「東京で桜の花が咲きました」と発表しました。
+outline_with_ruby: <ruby>気象庁<rt>きしょうちょう</rt></ruby>は１７<ruby>日<rt>にち</rt></ruby>、「<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>桜<rt>さくら</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>きました」と<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/17/K10011369081_1803171453_1803171454_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/19/k10011369081000.mp3
+content_with_ruby: "<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は１７<ruby>日<rt>にち</rt></ruby>、「<ruby>東京<rt>とうきょう</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>きました」と<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いたかどうか、<ruby>靖国神社<rt>やすくにじんじゃ</rt></ruby>にあるソメイヨシノという<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>の<ruby>木<rt>き</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べて<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しています。１７<ruby>日<rt>にち</rt></ruby><ruby>午後<rt>ごご</rt></ruby>には、６つ<ruby>以上<rt>いじょう</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いていました。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>では、<ruby>去年<rt>きょねん</rt></ruby>より<ruby>４日<rt>よっか</rt></ruby>、いつもの<ruby>年<rt>とし</rt></ruby>より<ruby>９日<rt>ここのか</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>咲<rt>さ</rt></ruby>きました。<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>東京<rt>とうきょう</rt></ruby>では<ruby>先週<rt>せんしゅう</rt></ruby>２０℃<ruby>以上<rt>いじょう</rt></ruby>の<ruby>暖<rt>あたた</rt></ruby>かい<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いたため、<ruby>早<rt>はや</rt></ruby>く<ruby>咲<rt>さ</rt></ruby>いたと<ruby>考<rt>かんが</rt></ruby>えています。<ruby>咲<rt>さ</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めてから１<ruby>週間<rt>しゅうかん</rt></ruby>から<ruby>１０日<rt>とおか</rt></ruby>ぐらいすると、たくさん<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いてきれいです。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>は、１６<ruby>日<rt>にち</rt></ruby>までに<ruby>高知県<rt>こうちけん</rt></ruby>と<ruby>宮崎県<rt>みやざきけん</rt></ruby>で<ruby>咲<rt>さ</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めています。１７<ruby>日<rt>にち</rt></ruby>は<ruby>鹿児島県<rt>かごしまけん</rt></ruby>や<ruby>長崎県<rt>ながさきけん</rt></ruby>、<ruby>熊本県<rt>くまもとけん</rt></ruby>でも<ruby>咲<rt>さ</rt></ruby>きました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 桜
+  descriptions:
+  - <ruby><rb>山地</rb><rt>さんち</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>え、<ruby><rb>公園</rb><rt>こうえん</rt></ruby>や<ruby><rb>庭</rb><rt>にわ</rt></ruby>にも<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>木</rb><rt>き</rt></ruby>。ソメイヨシノ・シダレザクラ・ヤマザクラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>春</rb><rt>はる</rt></ruby>、うすもも<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>美</rb><rt>うつく</rt></ruby>しい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の「<ruby><rb>国花</rb><rt>こっか</rt></ruby>」とされる。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011369081000/k10011369081000.html
+web_title_with_ruby: 「<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>サクラ<rt>さくら</rt></ruby>が<ruby>開花<rt>かいか</rt></ruby>」<ruby>気象庁<rt>きしょうちょう</rt></ruby>
+  <ruby>平年<rt>へいねん</rt></ruby>より９<ruby>日<rt>にち</rt></ruby><ruby>早<rt>はや</rt></ruby>く
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/17/東京でサクラが開花気象庁-平年より9日早く
+related_news:
+- title: <ruby>暖<rt>あたた</rt></ruby>かい<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く<ruby>日<rt>ひ</rt></ruby>が<ruby>早<rt>はや</rt></ruby>くなりそう
+  url: https://newswebeasy.github.io/news/easy/2018/03/15/暖かい日が続いて桜が咲く日が早くなりそう
+- title: <ruby>紀伊半島<rt>きいはんとう</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しい<ruby>野生<rt>やせい</rt></ruby>の<ruby>桜<rt>さくら</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかる
+  url: https://newswebeasy.github.io/news/easy/2018/03/14/紀伊半島で新しい野生の桜が見つかる
+- title: <ruby>今年<rt>ことし</rt></ruby><ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く<ruby>日<rt>ひ</rt></ruby>の<ruby>予想<rt>よそう</rt></ruby>　「いつもの<ruby>年<rt>とし</rt></ruby>とほとんど<ruby>同<rt>おな</rt></ruby>じ」
+  url: https://newswebeasy.github.io/news/easy/2018/02/13/今年桜が咲く日の予想-いつもの年とほとんど同じ
+- title: <ruby>千葉県<rt>ちばけん</rt></ruby><ruby>鋸南町<rt>きょなんまち</rt></ruby>の「<ruby>河津桜<rt>かわづざくら</rt></ruby>」がきれいに<ruby>咲<rt>さ</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/03/06/千葉県鋸南町の河津桜がきれいに咲く
+- title: <ruby>神奈川県<rt>かながわけん</rt></ruby><ruby>小田原市<rt>おだわらし</rt></ruby>で「<ruby>梅<rt>うめ</rt></ruby>まつり」　<ruby>梅<rt>うめ</rt></ruby>の<ruby>花<rt>はな</rt></ruby>がきれいに<ruby>咲<rt>さ</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/02/14/神奈川県小田原市で梅まつり-梅の花がきれいに咲く
+...
