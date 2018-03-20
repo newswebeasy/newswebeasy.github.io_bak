@@ -1,0 +1,114 @@
+---
+layout: web_news
+categories: web
+newsid: k10011371791000
+title: 自動運転 全米初の死亡事故 実験走行中
+title_with_ruby: <ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby>
+  <ruby>全米<rt data-ruby-level="3">ぜんべい</rt></ruby><ruby>初<rt data-ruby-level="4">はつ</rt></ruby>の<ruby>死亡<rt
+  data-ruby-level="6">しぼう</rt></ruby><ruby>事故<rt data-ruby-level="5">じこ</rt></ruby>
+  <ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby><ruby>走行中<rt data-ruby-level="2">そうこうちゅう</rt></ruby>
+last_modified_at: '2018-03-20T06:07:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>03<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>20<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 06<ruby>時<rt data-ruby-level="2">じ</rt></ruby>07<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 車の自動運転の実験が公道で盛んに行われているアメリカ西部のアリゾナ州で、歩行者が実験車にはねられて死亡しました。自動運転の車による全米初の歩行者の死亡事故だと大きく伝えられ、自動運転の安全性などが問われることになりそうです。
+summary: <ruby>車<rt data-ruby-level="1">くるま</rt></ruby>の<ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt
+  data-ruby-level="3">うんてん</rt></ruby>の<ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>が<ruby>公道<rt
+  data-ruby-level="2">こうどう</rt></ruby>で<ruby>盛<rt data-ruby-level="6">さか</rt></ruby>んに<ruby>行<rt
+  data-ruby-level="2">おこな</rt></ruby>われているアメリカ<ruby>西部<rt data-ruby-level="3">せいぶ</rt></ruby>の<ruby>アリゾナ<rt
+  data-ruby-level="3">ありぞな</rt></ruby><ruby>州<rt data-ruby-level="3">しゅう</rt></ruby>で、<ruby>歩行者<rt
+  data-ruby-level="3">ほこうしゃ</rt></ruby>が<ruby>実験車<rt data-ruby-level="4">じっけんしゃ</rt></ruby>にはねられて<ruby>死亡<rt
+  data-ruby-level="6">しぼう</rt></ruby>しました。<ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt
+  data-ruby-level="3">うんてん</rt></ruby>の<ruby>車<rt data-ruby-level="1">くるま</rt></ruby>による<ruby>全米<rt
+  data-ruby-level="3">ぜんべい</rt></ruby><ruby>初<rt data-ruby-level="4">はつ</rt></ruby>の<ruby>歩行者<rt
+  data-ruby-level="3">ほこうしゃ</rt></ruby>の<ruby>死亡<rt data-ruby-level="6">しぼう</rt></ruby><ruby>事故<rt
+  data-ruby-level="5">じこ</rt></ruby>だと<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きく<ruby>伝<rt
+  data-ruby-level="4">つた</rt></ruby>えられ、<ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt
+  data-ruby-level="3">うんてん</rt></ruby>の<ruby>安全性<rt data-ruby-level="5">あんぜんせい</rt></ruby>などが<ruby>問<rt
+  data-ruby-level="3">と</rt></ruby>われることになりそうです。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/20/K10011371791_1803200615_1803200618_01_03.jpg
+more: <ruby>アリゾナ<rt data-ruby-level="3">ありぞな</rt></ruby><ruby>州<rt data-ruby-level="3">しゅう</rt></ruby>の<ruby>州都<rt
+  data-ruby-level="3">しゅうと</rt></ruby>フェニックス<ruby>近郊<rt data-ruby-level="7">きんこう</rt></ruby>で、１８<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby><ruby>深夜<rt data-ruby-level="3">しんや</rt></ruby>、<ruby>道路<rt
+  data-ruby-level="3">どうろ</rt></ruby>を<ruby>歩<rt data-ruby-level="2">ある</rt></ruby>いてわたっていた<ruby>女性<rt
+  data-ruby-level="5">じょせい</rt></ruby>が、<ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt
+  data-ruby-level="3">うんてん</rt></ruby>で<ruby>走行中<rt data-ruby-level="2">そうこうちゅう</rt></ruby>の<ruby>車<rt
+  data-ruby-level="1">くるま</rt></ruby>にはねられて<ruby>死亡<rt data-ruby-level="6">しぼう</rt></ruby>しました。<br
+  /><br /><ruby>地元<rt data-ruby-level="2">じもと</rt></ruby>の<ruby>警察<rt data-ruby-level="6">けいさつ</rt></ruby>によりますと、<ruby>配車<rt
+  data-ruby-level="3">はいしゃ</rt></ruby><ruby>大手<rt data-ruby-level="1">おおて</rt></ruby>のウーバーが<ruby>自動<rt
+  data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby>の<ruby>実験用<rt
+  data-ruby-level="4">じっけんよう</rt></ruby>の<ruby>車<rt data-ruby-level="1">くるま</rt></ruby>を<ruby>公道<rt
+  data-ruby-level="2">こうどう</rt></ruby>で<ruby>走<rt data-ruby-level="2">はし</rt></ruby>らせていて、<ruby>当時<rt
+  data-ruby-level="2">とうじ</rt></ruby>、この<ruby>車<rt data-ruby-level="1">くるま</rt></ruby>の<ruby>運転席<rt
+  data-ruby-level="4">うんてんせき</rt></ruby>には、ドライバーがいたということです。<br /><br />アメリカのメディアは「<ruby>自動<rt
+  data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby>の<ruby>車<rt
+  data-ruby-level="1">くるま</rt></ruby>による<ruby>全米<rt data-ruby-level="3">ぜんべい</rt></ruby><ruby>初<rt
+  data-ruby-level="4">はつ</rt></ruby>の<ruby>歩行者<rt data-ruby-level="3">ほこうしゃ</rt></ruby>の<ruby>死亡<rt
+  data-ruby-level="6">しぼう</rt></ruby><ruby>事故<rt data-ruby-level="5">じこ</rt></ruby>だ」と、<ruby>一斉<rt
+  data-ruby-level="7">いっせい</rt></ruby>に<ruby>伝<rt data-ruby-level="4">つた</rt></ruby>えています。<ruby>事故<rt
+  data-ruby-level="5">じこ</rt></ruby>を<ruby>受<rt data-ruby-level="3">う</rt></ruby>けてウーバーは「お<ruby>悔<rt
+  data-ruby-level="7">く</rt></ruby>やみ<ruby>申<rt data-ruby-level="3">もう</rt></ruby>し<ruby>上<rt
+  data-ruby-level="3">あ</rt></ruby>げます。<ruby>当局<rt data-ruby-level="3">とうきょく</rt></ruby>の<ruby>捜査<rt
+  data-ruby-level="7">そうさ</rt></ruby>に<ruby>全面<rt data-ruby-level="3">ぜんめん</rt></ruby><ruby>協力<rt
+  data-ruby-level="4">きょうりょく</rt></ruby>していきます」とコメントしたうえで、フェニックスや<ruby>東部<rt data-ruby-level="3">とうぶ</rt></ruby><ruby>ペンシルベニア<rt
+  data-ruby-level="3">ぺんしるべにあ</rt></ruby><ruby>州<rt data-ruby-level="3">しゅう</rt></ruby>ピッツバーグなどで<ruby>行<rt
+  data-ruby-level="2">おこな</rt></ruby>っている<ruby>公道<rt data-ruby-level="2">こうどう</rt></ruby>での<ruby>自動<rt
+  data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby>の<ruby>走行<rt
+  data-ruby-level="2">そうこう</rt></ruby><ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>をいったん<ruby>中止<rt
+  data-ruby-level="2">ちゅうし</rt></ruby>することを<ruby>明<rt data-ruby-level="2">あき</rt></ruby>らかにしました。<br
+  /><br /><ruby>アリゾナ<rt data-ruby-level="3">ありぞな</rt></ruby><ruby>州<rt data-ruby-level="3">しゅう</rt></ruby>は、<ruby>自動<rt
+  data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby>の<ruby>車<rt
+  data-ruby-level="1">くるま</rt></ruby>も<ruby>一般<rt data-ruby-level="7">いっぱん</rt></ruby>の<ruby>車<rt
+  data-ruby-level="1">くるま</rt></ruby>の<ruby>走行<rt data-ruby-level="2">そうこう</rt></ruby>と<ruby>変<rt
+  data-ruby-level="4">か</rt></ruby>わらないとして<ruby>規制<rt data-ruby-level="5">きせい</rt></ruby>を<ruby>設<rt
+  data-ruby-level="5">もう</rt></ruby>けておらず、ウーバーのほか<ruby>大手<rt data-ruby-level="1">おおて</rt></ruby>ＩＴ<ruby>企業<rt
+  data-ruby-level="7">きぎょう</rt></ruby>のグーグルから<ruby>独立<rt data-ruby-level="5">どくりつ</rt></ruby>したウェイモなど<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>くの<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>が、さまざまな<ruby>段階<rt
+  data-ruby-level="6">だんかい</rt></ruby>の<ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt
+  data-ruby-level="3">うんてん</rt></ruby>の<ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>を<ruby>公道<rt
+  data-ruby-level="2">こうどう</rt></ruby>で<ruby>進<rt data-ruby-level="3">すす</rt></ruby>めています。<br
+  /><br />しかし、ＮＴＳＢ＝<ruby>国家<rt data-ruby-level="2">こっか</rt></ruby><ruby>運輸<rt data-ruby-level="5">うんゆ</rt></ruby><ruby>安全<rt
+  data-ruby-level="3">あんぜん</rt></ruby><ruby>委員会<rt data-ruby-level="3">いいんかい</rt></ruby>が<ruby>原因<rt
+  data-ruby-level="5">げんいん</rt></ruby><ruby>究明<rt data-ruby-level="3">きゅうめい</rt></ruby>のための<ruby>調査<rt
+  data-ruby-level="5">ちょうさ</rt></ruby>チームを<ruby>派遣<rt data-ruby-level="7">はけん</rt></ruby>することを<ruby>決<rt
+  data-ruby-level="3">き</rt></ruby>め、<ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>の<ruby>死亡<rt
+  data-ruby-level="6">しぼう</rt></ruby><ruby>事故<rt data-ruby-level="5">じこ</rt></ruby>を<ruby>受<rt
+  data-ruby-level="3">う</rt></ruby>けて<ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt
+  data-ruby-level="3">うんてん</rt></ruby>の<ruby>安全性<rt data-ruby-level="5">あんぜんせい</rt></ruby>や<ruby>規制<rt
+  data-ruby-level="5">きせい</rt></ruby>の<ruby>在<rt data-ruby-level="5">あ</rt></ruby>り<ruby>方<rt
+  data-ruby-level="5">かた</rt></ruby>が<ruby>問<rt data-ruby-level="3">と</rt></ruby>われることになりそうです。
+movie_url: https://newswebeasy.github.io/ja201803/news/web/movie/2018/03/20/k10011371791_201803200615_201803200618.mp4
+voice_url: https://newswebeasy.github.io/ja201803/news/web/voice/2018/03/20/k10011371791_201803200615_201803200618.mp3
+source_url: https://www3.nhk.or.jp/news/html/20180320/k10011371791000.html
+easy_title_with_ruby: アメリカ <ruby>自動<rt data-ruby-level="3">じどう</rt></ruby>で<ruby>運転<rt
+  data-ruby-level="3">うんてん</rt></ruby>する<ruby>車<rt data-ruby-level="1">くるま</rt></ruby>の<ruby>事故<rt
+  data-ruby-level="5">じこ</rt></ruby>で１<ruby>人<rt data-ruby-level="1">にん</rt></ruby>が<ruby>亡<rt
+  data-ruby-level="7">な</rt></ruby>くなる
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/03/20/アメリカ-自動で運転する車の事故で1人が亡くなる
+related_news:
+- title: <ruby>雪道<rt data-ruby-level="2">ゆきみち</rt></ruby>の<ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>走行<rt
+    data-ruby-level="2">そうこう</rt></ruby><ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby><ruby>始<rt
+    data-ruby-level="3">はじ</rt></ruby>まる ＧＰＳ<ruby>衛星<rt data-ruby-level="5">えいせい</rt></ruby>「みちびき」<ruby>活用<rt
+    data-ruby-level="2">かつよう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/02/07/雪道の自動走行実験始まる-GPS衛星みちびき活用
+- title: <ruby>羽田空港<rt data-ruby-level="3">はねだくうこう</rt></ruby> <ruby>人工<rt data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt
+    data-ruby-level="5">ちのう</rt></ruby><ruby>搭載<rt data-ruby-level="7">とうさい</rt></ruby>バスで<ruby>自動<rt
+    data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby>の<ruby>実証<rt
+    data-ruby-level="5">じっしょう</rt></ruby><ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/02/25/羽田空港-人工知能搭載バスで自動運転の実証実験
+- title: <ruby>完<rt data-ruby-level="4">かん</rt></ruby><ruby>全自動<rt data-ruby-level="3">ぜんじどう</rt></ruby><ruby>運転<rt
+    data-ruby-level="3">うんてん</rt></ruby><ruby>車<rt data-ruby-level="1">しゃ</rt></ruby>
+    17<ruby>年後<rt data-ruby-level="2">ねんご</rt></ruby>は４<ruby>台<rt data-ruby-level="2">だい</rt></ruby>に１<ruby>台<rt
+    data-ruby-level="2">だい</rt></ruby>に <ruby>民間<rt data-ruby-level="4">みんかん</rt></ruby>コンサルが<ruby>試算<rt
+    data-ruby-level="4">しさん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/15/完全自動運転車-17年後は4台に1台に-民間コンサルが試算
+- title: <ruby>花粉症<rt data-ruby-level="7">かふんしょう</rt></ruby> <ruby>運転中<rt data-ruby-level="3">うんてんちゅう</rt></ruby>のくしゃみで<ruby>事故<rt
+    data-ruby-level="5">じこ</rt></ruby>？<ruby>実<rt data-ruby-level="3">じつ</rt></ruby>は<ruby>深刻<rt
+    data-ruby-level="6">しんこく</rt></ruby>な<ruby>実態<rt data-ruby-level="5">じったい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/03/01/花粉症-運転中のくしゃみで事故実は深刻な実態
+- title: <ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby><ruby>免許証<rt data-ruby-level="7">めんきょしょう</rt></ruby>
+    75<ruby>歳以上<rt data-ruby-level="7">さいいじょう</rt></ruby>の<ruby>自主<rt data-ruby-level="3">じしゅ</rt></ruby><ruby>返納<rt
+    data-ruby-level="6">へんのう</rt></ruby> <ruby>最多<rt data-ruby-level="4">さいた</rt></ruby>の25<ruby>万人<rt
+    data-ruby-level="2">まんにん</rt></ruby><ruby>余<rt data-ruby-level="5">よ</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/20/運転免許証-75歳以上の自主返納-最多の25万人余
+...

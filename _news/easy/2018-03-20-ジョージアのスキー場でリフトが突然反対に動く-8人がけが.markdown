@@ -1,0 +1,90 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011368791000
+last_modified_at: '2018-03-20T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ロシアとトルコの間にあるジョージアのスキー場で１６日、リフトが突然故障して、とても速いスピードで反対の方向に動きました。
+title: ジョージアのスキー場でリフトが突然反対に動く　８人がけが
+title_with_ruby: ジョージアのスキー<ruby>場<rt>じょう</rt></ruby>でリフトが<ruby>突然<rt>とつぜん</rt></ruby><ruby>反対<rt>はんたい</rt></ruby>に<ruby>動<rt>うご</rt></ruby>く　８<ruby>人<rt>にん</rt></ruby>がけが
+outline: ロシアとトルコの間にあるジョージアのスキー場で１６日、リフトが突然故障して、とても速いスピードで反対の方向に動きました。
+outline_with_ruby: ロシアとトルコの<ruby>間<rt>あいだ</rt></ruby>にあるジョージアのスキー<ruby>場<rt>じょう</rt></ruby>で１６<ruby>日<rt>にち</rt></ruby>、リフトが<ruby>突然<rt>とつぜん</rt></ruby><ruby>故障<rt>こしょう</rt></ruby>して、とても<ruby>速<rt>はや</rt></ruby>いスピードで<ruby>反対<rt>はんたい</rt></ruby>の<ruby>方向<rt>ほうこう</rt></ruby>に<ruby>動<rt>うご</rt></ruby>きました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/17/K10011368791_1803170804_1803170819_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/20/k10011368791000.mp3
+content_with_ruby: "<p>ロシアとトルコの<ruby>間<rt>あいだ</rt></ruby>にあるジョージアの<span style=\"color:\
+  \ blue;\">スキー</span><span style=\"color: blue;\"><ruby>場<rt>じょう</rt></ruby></span>で１６<ruby>日<rt>にち</rt></ruby>、<span\
+  \ style=\"color: blue;\">リフト</span>が<span style=\"color: blue;\"><ruby>突然<rt>とつぜん</rt></ruby></span><ruby>故障<rt>こしょう</rt></ruby>して、とても<ruby>速<rt>はや</rt></ruby>い<span\
+  \ style=\"color: blue;\">スピード</span>で<ruby>反対<rt>はんたい</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>方向<rt>ほうこう</rt></ruby></span>に<ruby>動<rt>うご</rt></ruby>きました。インターネットには<ruby>事故<rt>じこ</rt></ruby>のときの<span\
+  \ style=\"color: blue;\">ビデオ</span>が<ruby>出<rt>で</rt></ruby>ていて、<span style=\"color:\
+  \ blue;\">リフト</span>に<ruby>乗<rt>の</rt></ruby>っていた<ruby>人<rt>ひと</rt></ruby>が<ruby>落<rt>お</rt></ruby>ちたり、<span\
+  \ style=\"color: blue;\">リフト</span>から<ruby>自分<rt>じぶん</rt></ruby>で<span style=\"\
+  color: blue;\"><ruby>飛<rt>と</rt></ruby>び<ruby>降<rt>お</rt></ruby>り</span>たりしています。</p>\n\
+  <p>この<ruby>事故<rt>じこ</rt></ruby>で<span style=\"color: blue;\">リフト</span>に<ruby>乗<rt>の</rt></ruby>っていた８<ruby>人<rt>にん</rt></ruby>がけがをしました。ジョージアのテレビなどは、<ruby>大<rt>おお</rt></ruby>きなけがではないと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>しかし、<ruby>壊<rt>こわ</rt></ruby>れて<ruby>止<rt>と</rt></ruby>まった<span style=\"color:\
+  \ blue;\">リフト</span>にほかの<span style=\"color: blue;\">リフト</span>がどんどん<span style=\"\
+  color: blue;\">ぶつかっ</span>ていて、<ruby>大<rt>おお</rt></ruby>きな<span style=\"color: blue;\"\
+  ><ruby>被害<rt>ひがい</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>る<span style=\"color:\
+  \ blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>もありました。</p>\n<p><span style=\"color:\
+  \ blue;\">スキー</span><span style=\"color: blue;\"><ruby>場<rt>じょう</rt></ruby></span>をつくる<ruby>仕事<rt>しごと</rt></ruby>をした<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>原因<rt>げんいん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べることにしています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: スキー
+  descriptions:
+  - くつに<ruby><rb>取</rb><rt>と</rt></ruby>りつけて、<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>板</rb><rt>いた</rt></ruby>。
+  - 「<span class="dic_sansyogogi">1)</span>」を<ruby><rb>使</rb><rt>つか</rt></ruby>って<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。
+- word: 場
+  descriptions:
+  - ばしょ。
+- word: リフト
+  descriptions:
+  - <ruby><rb>荷物</rb><rt>にもつ</rt></ruby>などの<ruby><rb>上</rb><rt>あ</rt></ruby>げ<ruby><rb>下</rb><rt>お</rt></ruby>ろしに<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>小</rb><rt>ちい</rt></ruby>さなエレベーター。<ruby><rb>昇降機</rb><rt>しょうこうき</rt></ruby>。
+  - スキー<ruby><rb>場</rb><rt>じょう</rt></ruby>などで、<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 突然
+  descriptions:
+  - <ruby><rb>急</rb><rt>きゅう</rt></ruby>に。思いがけなく。
+- word: スピード
+  descriptions:
+  - <ruby><rb>速</rb><rt>はや</rt></ruby>さ。<ruby><rb>速力</rb><rt>そくりょく</rt></ruby>。
+- word: 方向
+  descriptions:
+  - <ruby><rb>向</rb><rt>む</rt></ruby>き。<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>。
+  - <ruby><rb>目当</rb><rt>めあ</rt></ruby>て。<ruby><rb>方針</rb><rt>ほうしん</rt></ruby>。
+- word: ビデオ
+  descriptions:
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。
+  - 「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 飛び降りる
+  descriptions:
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>から<ruby><rb>飛</rb><rt>と</rt></ruby>んで<ruby><rb>降</rb><rt>お</rt></ruby>りる。
+  - <ruby><rb>動</rb><rt>うご</rt></ruby>いているものから<ruby><rb>飛</rb><rt>と</rt></ruby>んで<ruby><rb>降</rb><rt>お</rt></ruby>りる。
+- word: ぶつかる
+  descriptions:
+  - <ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。
+  - <ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。
+  - <ruby><rb>重</rb><rt>かさ</rt></ruby>なる。
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+source_url: http://www3.nhk.or.jp/news/easy/k10011368791000/k10011368791000.html
+web_title_with_ruby: <ruby>スキー<rt>すきー</rt></ruby><ruby>場<rt>じょう</rt></ruby><ruby>リフト<rt>りふと</rt></ruby>が<ruby>高速<rt>こうそく</rt></ruby>で<ruby>逆回転<rt>ぎゃくかいてん</rt></ruby>
+  ８<ruby>人<rt>にん</rt></ruby>けが <ruby>ジョージア<rt>じょーじあ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/17/スキー場リフトが高速で逆回転-8人けが-ジョージア
+related_news:
+- title: トルコの<ruby>空港<rt>くうこう</rt></ruby>で<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>崖<rt>がけ</rt></ruby>を<ruby>滑<rt>すべ</rt></ruby>って<ruby>海<rt>うみ</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちそうになる
+  url: https://newswebeasy.github.io/news/easy/2018/01/15/トルコの空港で飛行機が崖を滑って海に落ちそうになる
+- title: <ruby>蔵王山<rt>ざおうざん</rt></ruby>で<ruby>小<rt>ちい</rt></ruby>さい<ruby>噴火<rt>ふんか</rt></ruby>があるかもしれない　<ruby>気<rt>き</rt></ruby>をつけて
+  url: https://newswebeasy.github.io/news/easy/2018/01/31/蔵王山で小さい噴火があるかもしれない-気をつけて
+- title: １<ruby>月<rt>がつ</rt></ruby>の<ruby>大相撲<rt>おおずもう</rt></ruby>でジョージア<ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>栃ノ心<rt>とちのしん</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2018/01/29/1月の大相撲でジョージア出身の栃ノ心が優勝する
+- title: <ruby>草津白根山<rt>くさつしらねさん</rt></ruby>の<ruby>噴火<rt>ふんか</rt></ruby>から１か<ruby>月<rt>げつ</rt></ruby>　スキーに<ruby>来<rt>く</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>は４０％<ruby>減<rt>へ</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/02/23/草津白根山の噴火から1か月-スキーに来る人は40減る
+- title: <ruby>草津白根山<rt>くさつしらねさん</rt></ruby>　<ruby>煙<rt>けむり</rt></ruby>や<ruby>石<rt>いし</rt></ruby>などが<ruby>出<rt>で</rt></ruby>た<ruby>噴火口<rt>ふんかこう</rt></ruby>が６つ<ruby>見<rt>み</rt></ruby>つかる
+  url: https://newswebeasy.github.io/news/easy/2018/01/26/草津白根山-煙や石などが出た噴火口が6つ見つかる
+...

@@ -1,0 +1,74 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011369041000
+last_modified_at: '2018-03-20T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 愛知県にある国宝の犬山城に去年の夏、雷が落ちました。
+title: 犬山城　雷で壊れた「しゃちほこ」の代わりに新しい物を置く
+title_with_ruby: <ruby>犬山城<rt>いぬやまじょう</rt></ruby>　<ruby>雷<rt>かみなり</rt></ruby>で<ruby>壊<rt>こわ</rt></ruby>れた「しゃちほこ」の<ruby>代<rt>か</rt></ruby>わりに<ruby>新<rt>あたら</rt></ruby>しい<ruby>物<rt>もの</rt></ruby>を<ruby>置<rt>お</rt></ruby>く
+outline: 愛知県にある国宝の犬山城に去年の夏、雷が落ちました。
+outline_with_ruby: <ruby>愛知県<rt>あいちけん</rt></ruby>にある<ruby>国宝<rt>こくほう</rt></ruby>の<ruby>犬山城<rt>いぬやまじょう</rt></ruby>に<ruby>去年<rt>きょねん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>、<ruby>雷<rt>かみなり</rt></ruby>が<ruby>落<rt>お</rt></ruby>ちました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/17/K10011369041_1803171343_1803171346_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/20/k10011369041000.mp3
+content_with_ruby: "<p><ruby>愛知県<rt>あいちけん</rt></ruby>にある<span style=\"color: blue;\"\
+  ><ruby>国宝<rt>こくほう</rt></ruby></span>の<ruby>犬山城<rt>いぬやまじょう</rt></ruby>に<ruby>去年<rt>きょねん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>雷<rt>かみなり</rt></ruby></span>が<ruby>落<rt>お</rt></ruby>ちました。そして、<span\
+  \ style=\"color: blue;\"><ruby>城<rt>しろ</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>屋根<rt>やね</rt></ruby></span>にあった２つの「<span style=\"color: blue;\">しゃちほこ</span>」の１つが<ruby>壊<rt>こわ</rt></ruby>れてしまいました。このため、<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\">しゃちほこ</span>を<ruby>作<rt>つく</rt></ruby>って、<span style=\"\
+  color: blue;\"><ruby>屋根<rt>やね</rt></ruby></span>の<ruby>上<rt>うえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>をしていました。</p>\n<p><span\
+  \ style=\"color: blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>が<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>終<rt>お</rt></ruby>わって、１７<ruby>日<rt>にち</rt></ruby>、お<ruby>祝<rt>いわ</rt></ruby>いの<ruby>式<rt>しき</rt></ruby>がありました。<ruby>犬山城<rt>いぬやまじょう</rt></ruby>を<ruby>持<rt>も</rt></ruby>っている<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>が「<ruby>本当<rt>ほんとう</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>感動<rt>かんどう</rt></ruby></span>しています」と<ruby>泣<rt>な</rt></ruby>きながらあいさつをしました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>城<rt>しろ</rt></ruby></span>の<ruby>前<rt>まえ</rt></ruby>には<span\
+  \ style=\"color: blue;\"><ruby>屋根<rt>やね</rt></ruby></span>に<ruby>置<rt>お</rt></ruby>いたのと<ruby>同<rt>おな</rt></ruby>じ<ruby>形<rt>かたち</rt></ruby>の<span\
+  \ style=\"color: blue;\">しゃちほこ</span>が<ruby>置<rt>お</rt></ruby>いてあって、たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>っていました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>城<rt>しろ</rt></ruby></span>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は「<ruby>壊<rt>こわ</rt></ruby>れた<span\
+  \ style=\"color: blue;\">しゃちほこ</span>は<span style=\"color: blue;\"><ruby>城<rt>しろ</rt></ruby></span>を<span\
+  \ style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>っ</span>たんだと<ruby>思<rt>おも</rt></ruby>います。２つの<span\
+  \ style=\"color: blue;\">しゃちほこ</span>をまた<ruby>見<rt>み</rt></ruby>ることができてうれしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 雷
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>が<ruby><rb>空気中</rb><rt>くうきちゅう</rt></ruby>を<ruby><rb>流</rb><rt>なが</rt></ruby>れ、<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>光</rb><rt>ひかり</rt></ruby>と、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すもの。
+  - <ruby><rb>腹</rb><rt>はら</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>ててどなりつけること。
+- word: しゃちほこ
+  descriptions:
+  - <ruby><rb>人間</rb><rt>にんげん</rt></ruby>が<ruby><rb>想像</rb><rt>そうぞう</rt></ruby>した<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。トラに<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>頭</rb><rt>あたま</rt></ruby>をもち、<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>魚</rb><rt>さかな</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>をしている。<ruby><rb>逆立</rb><rt>さかだ</rt></ruby>ちした<ruby><rb>形</rb><rt>かたち</rt></ruby>で、<ruby><rb>城</rb><rt>しろ</rt></ruby>の<ruby><rb>天守閣</rb><rt>てんしゅかく</rt></ruby>などの<ruby><rb>屋根</rb><rt>やね</rt></ruby>にかざる。
+- word: 国宝
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>宝</rb><rt>たから</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>指定</rb><rt>してい</rt></ruby>し、<ruby><rb>保護</rb><rt>ほご</rt></ruby>している<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>・<ruby><rb>絵</rb><rt>え</rt></ruby>など。
+- word: 城
+  descriptions:
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>、<ruby><rb>大名</rb><rt>だいみょう</rt></ruby>などが、<ruby><rb>敵</rb><rt>てき</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>大</rb><rt>おお</rt></ruby>がかりな<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+- word: 屋根
+  descriptions:
+  - <ruby><rb>雨</rb><rt>あめ</rt></ruby>などを<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために、<ruby><rb>家</rb><rt>いえ</rt></ruby>をおおうもの。
+  - <ruby><rb>上</rb><rt>うえ</rt></ruby>をおおうもの。
+  - いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 工事
+  descriptions:
+  - <ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 感動
+  descriptions:
+  - あるものごとに、<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>動</rb><rt>うご</rt></ruby>かされること。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011369041000/k10011369041000.html
+web_title_with_ruby: <ruby>国宝<rt>こくほう</rt></ruby><ruby>犬山城<rt>いぬやまじょう</rt></ruby>
+  <ruby>落雷<rt>らくらい</rt></ruby><ruby>被害<rt>ひがい</rt></ruby>の「しゃちほこ」<ruby>完全<rt>かんぜん</rt></ruby><ruby>復活<rt>ふっかつ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/17/国宝犬山城-落雷被害のしゃちほこ完全復活
+related_news:
+- title: <ruby>愛知県<rt>あいちけん</rt></ruby>の<ruby>犬山城<rt>いぬやまじょう</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい「しゃちほこ」を<ruby>飾<rt>かざ</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/02/27/愛知県の犬山城に新しいしゃちほこを飾る
+...

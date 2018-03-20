@@ -1,0 +1,69 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011371791000
+last_modified_at: '2018-03-20T17:15:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>15<ruby>分<rt>ふん</rt></ruby>
+description: アメリカのアリゾナ州で１８日の夜、自動で運転していた車が道を歩いて渡っていた女性をはねる事故がありました。
+title: アメリカ　自動で運転する車の事故で１人が亡くなる
+title_with_ruby: アメリカ　<ruby>自動<rt>じどう</rt></ruby>で<ruby>運転<rt>うんてん</rt></ruby>する<ruby>車<rt>くるま</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>で<ruby>１人<rt>ひとり</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+outline: アメリカのアリゾナ州で１８日の夜、自動で運転していた車が道を歩いて渡っていた女性をはねる事故がありました。
+outline_with_ruby: アメリカのアリゾナ<ruby>州<rt>しゅう</rt></ruby>で１８<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>自動<rt>じどう</rt></ruby>で<ruby>運転<rt>うんてん</rt></ruby>していた<ruby>車<rt>くるま</rt></ruby>が<ruby>道<rt>みち</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>いて<ruby>渡<rt>わた</rt></ruby>っていた<ruby>女性<rt>じょせい</rt></ruby>をはねる<ruby>事故<rt>じこ</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/20/K10011371791_1803200615_1803200618_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/20/k10011371791000.mp3
+content_with_ruby: "<p>アメリカのアリゾナ<ruby>州<rt>しゅう</rt></ruby>で１８<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>運転<rt>うんてん</rt></ruby>していた<ruby>車<rt>くるま</rt></ruby>が<ruby>道<rt>みち</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>いて<ruby>渡<rt>わた</rt></ruby>っていた<ruby>女性<rt>じょせい</rt></ruby>を<span\
+  \ style=\"color: blue;\">はねる</span><ruby>事故<rt>じこ</rt></ruby>がありました。この<ruby>女性<rt>じょせい</rt></ruby>は<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p><ruby>警察<rt>けいさつ</rt></ruby>によると、この<ruby>車<rt>くるま</rt></ruby>はウーバーという<ruby>会社<rt>かいしゃ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>のために<ruby>走<rt>はし</rt></ruby>らせていました。<ruby>事故<rt>じこ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こっ</span>たとき、<ruby>運転<rt>うんてん</rt></ruby><ruby>席<rt>せき</rt></ruby>には<ruby>人<rt>ひと</rt></ruby>が<ruby>座<rt>すわ</rt></ruby>っていました。アメリカのテレビなどは、<span\
+  \ style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>運転<rt>うんてん</rt></ruby>する<ruby>車<rt>くるま</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>人<rt>ひと</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなったと<ruby>伝<rt>つた</rt></ruby>えています。</p>\n\
+  <p><ruby>事故<rt>じこ</rt></ruby>のあとウーバーは、<ruby>車<rt>くるま</rt></ruby>を<span style=\"\
+  color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>走<rt>はし</rt></ruby>らせる<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>を<ruby>普通<rt>ふつう</rt></ruby>の<ruby>道<rt>みち</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>うことを<ruby>中止<rt>ちゅうし</rt></ruby>すると<ruby>言<rt>い</rt></ruby>いました。これから<span\
+  \ style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>で<ruby>運転<rt>うんてん</rt></ruby>する<ruby>車<rt>くるま</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>決<rt>き</rt></ruby>まり</span>について<span style=\"color:\
+  \ blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う</span><ruby>必要<rt>ひつよう</rt></ruby>がありそうです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 自動
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。
+- word: 撥ねる
+  descriptions:
+  - はじきとばす。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>除</rb><rt>のぞ</rt></ruby>く。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>にわたす<ruby><rb>分</rb><rt>ぶん</rt></ruby>の<ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>を<ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - <ruby><rb>字</rb><rt>じ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>くとき、<ruby><rb>線</rb><rt>せん</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりをはらい<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+- word: 実験
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。
+- word: 起こる
+  descriptions:
+  - <ruby><rb>始</rb><rt>はじ</rt></ruby>まる。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。
+- word: 決まり
+  descriptions:
+  - <ruby><rb>決</rb><rt>き</rt></ruby>められていること。<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>習慣</rb><rt>しゅうかん</rt></ruby>。
+  - しめくくり。おさまり。
+- word: 話し合う
+  descriptions:
+  - たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。
+  - <ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。
+source_url: http://www3.nhk.or.jp/news/easy/k10011371791000/k10011371791000.html
+web_title_with_ruby: <ruby>自動<rt>じどう</rt></ruby><ruby>運転<rt>うんてん</rt></ruby> <ruby>全米<rt>ぜんべい</rt></ruby><ruby>初<rt>はつ</rt></ruby>の<ruby>死亡<rt>しぼう</rt></ruby><ruby>事故<rt>じこ</rt></ruby>
+  <ruby>実験<rt>じっけん</rt></ruby><ruby>走行中<rt>そうこうちゅう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/20/自動運転-全米初の死亡事故-実験走行中
+related_news:
+- title: 「２０３５<ruby>年<rt>ねん</rt></ruby>には<ruby>新<rt>あたら</rt></ruby>しい<ruby>車<rt>くるま</rt></ruby>の２３％が<ruby>自動<rt>じどう</rt></ruby><ruby>運転<rt>うんてん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>になる」
+  url: https://newswebeasy.github.io/news/easy/2018/01/16/2035年には新しい車の23が自動運転の車になる
+- title: <ruby>新<rt>あたら</rt></ruby>しい<ruby>電化製品<rt>でんかせいひん</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベントがアメリカで<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/01/10/新しい電化製品を紹介するイベントがアメリカで始まる
+- title: アメリカ　<ruby>大<rt>おお</rt></ruby>きな<ruby>歩道橋<rt>ほどうきょう</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちて４<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/03/16/アメリカ-大きな歩道橋が車に落ちて4人が亡くなる
+- title: <ruby>雪<rt>ゆき</rt></ruby>の<ruby>道<rt>みち</rt></ruby>で<ruby>車<rt>くるま</rt></ruby>を<ruby>自動<rt>じどう</rt></ruby>で<ruby>運転<rt>うんてん</rt></ruby>する<ruby>実験<rt>じっけん</rt></ruby>　<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/02/08/雪の道で車を自動で運転する実験-人工衛星を使う
+- title: <ruby>去年<rt>きょねん</rt></ruby><ruby>車<rt>くるま</rt></ruby>の<ruby>免許<rt>めんきょ</rt></ruby>を<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>返<rt>かえ</rt></ruby>した７５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は２５<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/23/去年車の免許を警察に返した75歳以上の人は25万人
+...

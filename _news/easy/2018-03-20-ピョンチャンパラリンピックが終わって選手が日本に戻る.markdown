@@ -1,0 +1,94 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011371071000
+last_modified_at: '2018-03-20T17:15:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>15<ruby>分<rt>ふん</rt></ruby>
+description: １８日に終わったピョンチャンパラリンピックに出た選手たちが日本に戻ってきました。
+title: ピョンチャンパラリンピックが終わって選手が日本に戻る
+title_with_ruby: ピョンチャンパラリンピックが<ruby>終<rt>お</rt></ruby>わって<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>る
+outline: １８日に終わったピョンチャンパラリンピックに出た選手たちが日本に戻ってきました。
+outline_with_ruby: １８<ruby>日<rt>にち</rt></ruby>に<ruby>終<rt>お</rt></ruby>わったピョンチャンパラリンピックに<ruby>出<rt>で</rt></ruby>た<ruby>選手<rt>せんしゅ</rt></ruby>たちが<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>ってきました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/19/K10011371071_1803191931_1803191937_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/20/k10011371071000.mp3
+content_with_ruby: "<p>１８<ruby>日<rt>にち</rt></ruby>に<ruby>終<rt>お</rt></ruby>わったピョンチャンパラリンピックに<ruby>出<rt>で</rt></ruby>た<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちが<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>ってきました。<ruby>日本<rt>にっぽん</rt></ruby>は４<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<span\
+  \ style=\"color: blue;\">パラリンピック</span>より４<ruby>個<rt>こ</rt></ruby><ruby>多<rt>おお</rt></ruby>い、１０<ruby>個<rt>こ</rt></ruby>の<span\
+  \ style=\"color: blue;\">メダル</span>を<ruby>取<rt>と</rt></ruby>りました。</p>\n<p><ruby>村岡桃佳<rt>むらおかももか</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>はいすが<span style=\"color:\
+  \ blue;\">つい</span>た<span style=\"color: blue;\">スキー</span>に<ruby>座<rt>すわ</rt></ruby>って<ruby>滑<rt>すべ</rt></ruby>るクラスで、５つの<span\
+  \ style=\"color: blue;\">メダル</span>を<ruby>取<rt>と</rt></ruby>りました。<ruby>村岡<rt>むらおか</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は「<ruby>次<rt>つぎ</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>金<rt>きん</rt></ruby></span><span style=\"color: blue;\"\
+  >メダル</span>を<ruby>取<rt>と</rt></ruby>るぐらいの<ruby>気持<rt>きも</rt></ruby>ちで<ruby>頑張<rt>がんば</rt></ruby>りたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>成田<rt>なりた</rt></ruby><ruby>緑夢<rt>ぐりむ</rt></ruby><span style=\"color: blue;\"\
+  ><ruby>選手<rt>せんしゅ</rt></ruby></span>は<span style=\"color: blue;\">スノーボード</span>の<ruby>足<rt>あし</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>があるクラスで、２つの<span style=\"\
+  color: blue;\">メダル</span>を<ruby>取<rt>と</rt></ruby>りました。<ruby>新田<rt>にった</rt></ruby><ruby>佳浩<rt>よしひろ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>はクロスカントリー<span style=\"\
+  color: blue;\">スキー</span>で２つの<span style=\"color: blue;\">メダル</span>を<ruby>取<rt>と</rt></ruby>りました。<ruby>森井大輝<rt>もりいたいき</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<span style=\"color:\
+  \ blue;\">スキー</span>の<ruby>座<rt>すわ</rt></ruby>って<ruby>滑<rt>すべ</rt></ruby>るクラスで<span\
+  \ style=\"color: blue;\">メダル</span>を１つ<ruby>取<rt>と</rt></ruby>りました。</p>\n<p><ruby>成田空港<rt>なりたくうこう</rt></ruby>には<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>を<ruby>迎<rt>むか</rt></ruby>えるために<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まって、<span\
+  \ style=\"color: blue;\"><ruby>拍手<rt>はくしゅ</rt></ruby></span>をしたり<ruby>花<rt>はな</rt></ruby>をプレゼントしたりしていました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+- word: 付く
+  descriptions:
+  - ものがくっつく。
+  - つきそう。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>わる。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まる。
+  - <ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。
+  - <ruby><rb>感</rb><rt>かん</rt></ruby>じる。
+  - ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。
+- word: スキー
+  descriptions:
+  - くつに<ruby><rb>取</rb><rt>と</rt></ruby>りつけて、<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>板</rb><rt>いた</rt></ruby>。
+  - 「<span class="dic_sansyogogi">1)</span>」を<ruby><rb>使</rb><rt>つか</rt></ruby>って<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。
+- word: 金
+  descriptions:
+  - <ruby><rb>黄色</rb><rt>きいろ</rt></ruby>いつやのある、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。こがね。
+  - こがね<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+  - おかね。
+  - 「<span class="dic_sansyogogi">1)</span>」のように、だいじな。りっぱな。
+  - かなもの。
+  - <ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>金曜日</rb><rt>きんようび</rt></ruby>。
+- word: スノーボード
+  descriptions:
+  - <ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>斜面</rb><rt>しゃめん</rt></ruby>をすべるための<ruby><rb>一枚</rb><rt>いちまい</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>。スキーの<ruby><rb>板</rb><rt>いた</rt></ruby>より<ruby><rb>幅</rb><rt>はば</rt></ruby>が<ruby><rb>広</rb><rt>ひろ</rt></ruby>く、<ruby><rb>横乗</rb><rt>よこの</rt></ruby>りで<ruby><rb>乗</rb><rt>の</rt></ruby>る。また、それを<ruby><rb>使</rb><rt>つか</rt></ruby>ってするスポーツ。
+- word: 障害
+  descriptions:
+  - <ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。
+- word: 拍手
+  descriptions:
+  - ほめるときや、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>のときなどに、<ruby><rb>手</rb><rt>て</rt></ruby>のひらを<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011371071000/k10011371071000.html
+web_title_with_ruby: <ruby>ピョン<rt>ぴょん</rt></ruby><ruby>チャン<rt>ちゃん</rt></ruby><ruby>パラリンピック<rt>ぱらりんぴっく</rt></ruby>
+  <ruby>日本<rt>にっぽん</rt></ruby><ruby>選手団<rt>せんしゅだん</rt></ruby>が<ruby>帰国<rt>きこく</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/19/ピョンチャンパラリンピック-日本選手団が帰国
+related_news:
+- title: パラリンピック　<ruby>村岡桃佳<rt>むらおかももか</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がスキーの<ruby>大回転<rt>だいかいてん</rt></ruby>で<ruby>金<rt>きん</rt></ruby>メダル
+  url: https://newswebeasy.github.io/news/easy/2018/03/15/パラリンピック-村岡桃佳選手がスキーの大回転で金メダル
+- title: スキー　<ruby>村岡<rt>むらおか</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>銀<rt>ぎん</rt></ruby>メダルと<ruby>銅<rt>どう</rt></ruby>メダル　<ruby>森井<rt>もりい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>銀<rt>ぎん</rt></ruby>メダル
+  url: https://newswebeasy.github.io/news/easy/2018/03/12/スキー-村岡選手が銀メダルと銅メダル-森井選手が銀メダル
+- title: オリンピックの<ruby>選手<rt>せんしゅ</rt></ruby>たちがファンに<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>伝<rt>つた</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2018/02/28/オリンピックの選手たちがファンに感謝の気持ちを伝える
+- title: スキーのジャンプ　<ruby>高梨沙羅<rt>たかなしさら</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>銅<rt>どう</rt></ruby>メダル
+  url: https://newswebeasy.github.io/news/easy/2018/02/13/スキーのジャンプ-高梨沙羅選手が銅メダル
+- title: フィギュアスケートの<ruby>羽生<rt>はにゅう</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>金<rt>きん</rt></ruby>メダル　<ruby>宇野<rt>うの</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>銀<rt>ぎん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/02/19/フィギュアスケートの羽生選手が金メダル-宇野選手は銀
+...

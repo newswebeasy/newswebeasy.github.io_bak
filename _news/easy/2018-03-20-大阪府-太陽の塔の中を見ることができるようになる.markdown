@@ -1,0 +1,76 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011370901000
+last_modified_at: '2018-03-20T17:15:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>15<ruby>分<rt>ふん</rt></ruby>
+description: 大阪府吹田市の公園に高さ７０ｍの「太陽の塔」があります。
+title: 大阪府　「太陽の塔」の中を見ることができるようになる
+title_with_ruby: <ruby>大阪府<rt>おおさかふ</rt></ruby>　「<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>塔<rt>とう</rt></ruby>」の<ruby>中<rt>なか</rt></ruby>を<ruby>見<rt>み</rt></ruby>ることができるようになる
+outline: 大阪府吹田市の公園に高さ７０ｍの「太陽の塔」があります。
+outline_with_ruby: <ruby>大阪府<rt>おおさかふ</rt></ruby><ruby>吹田<rt>すいた</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>公園<rt>こうえん</rt></ruby>に<ruby>高<rt>たか</rt></ruby>さ７０ｍの「<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>塔<rt>とう</rt></ruby>」があります。
+image_url: https://newswebeasy.github.io/ja201803/news/easy/image/2018/03/20/k10011370901000.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/20/k10011370901000.mp3
+content_with_ruby: "<p><ruby>大阪府<rt>おおさかふ</rt></ruby><ruby>吹田<rt>すいた</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>公園<rt>こうえん</rt></ruby>に<ruby>高<rt>たか</rt></ruby>さ７０ｍの「<span\
+  \ style=\"color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>塔<rt>とう</rt></ruby></span>」があります。１９７０<ruby>年<rt>ねん</rt></ruby>に<ruby>大阪府<rt>おおさかふ</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>万国博覧会<rt>ばんこくはくらんかい</rt></ruby></span>があったとき、<span\
+  \ style=\"color: blue;\"><ruby>芸術家<rt>げいじゅつか</rt></ruby></span>の<ruby>岡本<rt>おかもと</rt></ruby><ruby>太郎<rt>たろう</rt></ruby>さんが<span\
+  \ style=\"color: blue;\">デザイン</span>をしてつくりました。</p>\n<p><span style=\"color: blue;\"\
+  ><ruby>万国博覧会<rt>ばんこくはくらんかい</rt></ruby></span>のあと、「<span style=\"color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>塔<rt>とう</rt></ruby></span>」の<ruby>中<rt>なか</rt></ruby>は<ruby>見<rt>み</rt></ruby>ることができませんでした。しかし、<ruby>安全<rt>あんぜん</rt></ruby>のための<span\
+  \ style=\"color: blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>などをして、１９<ruby>日<rt>にち</rt></ruby>から<ruby>見<rt>み</rt></ruby>ることができるようになりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>塔<rt>とう</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>には、<ruby>動物<rt>どうぶつ</rt></ruby>などの<span\
+  \ style=\"color: blue;\"><ruby>進化<rt>しんか</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>表<rt>あらわ</rt></ruby>し</span>た<ruby>高<rt>たか</rt></ruby>さ４１ｍの<span\
+  \ style=\"color: blue;\"><ruby>作品<rt>さくひん</rt></ruby></span>など、<ruby>岡本<rt>おかもと</rt></ruby>さんのいろいろな<span\
+  \ style=\"color: blue;\"><ruby>作品<rt>さくひん</rt></ruby></span>があります。<span style=\"\
+  color: blue;\"><ruby>万国博覧会<rt>ばんこくはくらんかい</rt></ruby></span>のあとなくなった<span style=\"\
+  color: blue;\"><ruby>作品<rt>さくひん</rt></ruby></span>は、<ruby>写真<rt>しゃしん</rt></ruby>などを<ruby>見<rt>み</rt></ruby>ながらもう１<ruby>度<rt>ど</rt></ruby><ruby>同<rt>おな</rt></ruby>じようにつくりました。</p>\n\
+  <p>「<span style=\"color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>の<span style=\"\
+  color: blue;\"><ruby>塔<rt>とう</rt></ruby></span>」の<ruby>中<rt>なか</rt></ruby>を<ruby>見<rt>み</rt></ruby>るためには<ruby>予約<rt>よやく</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 太陽
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。
+- word: 塔
+  descriptions:
+  - <ruby><rb>寺</rb><rt>てら</rt></ruby>で、<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>や<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>骨</rb><rt>ほね</rt></ruby>をとむらうために<ruby><rb>建</rb><rt>た</rt></ruby>てた<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>くそびえる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。タワー。
+- word: 万国博覧会
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>博覧会</rb><rt>はくらんかい</rt></ruby>。<ruby><rb>万国博</rb><rt>ばんこくはく</rt></ruby>。<ruby><rb>万博</rb><rt>ばんぱく</rt></ruby>。
+- word: 芸術家
+  descriptions:
+  - <ruby><rb>芸術</rb><rt>げいじゅつ</rt></ruby>を<ruby><rb>仕事</rb><rt>しごと</rt></ruby>としている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>音楽家</rb><rt>おんがくか</rt></ruby>や<ruby><rb>画家</rb><rt>がか</rt></ruby>など。
+- word: デザイン
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。
+  - <ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。
+- word: 工事
+  descriptions:
+  - <ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。
+- word: 進化
+  descriptions:
+  - <ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>が、<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>時間</rb><rt>じかん</rt></ruby>をかけて、<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>な<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>仕組</rb><rt>しく</rt></ruby>みから<ruby><rb>複雑</rb><rt>ふくざつ</rt></ruby>で<ruby><rb>高等</rb><rt>こうとう</rt></ruby>なものへ<ruby><rb>変</rb><rt>か</rt></ruby>わっていくこと。
+  - ものごとが、しだいによいほうへ<ruby><rb>進</rb><rt>すす</rt></ruby>んでいくこと。
+- word: 表す
+  descriptions:
+  - <ruby><rb>気持</rb><rt>きも</rt></ruby>ちや<ruby><rb>考</rb><rt>かんが</rt></ruby>えなどを、ことばや<ruby><rb>表情</rb><rt>ひょうじょう</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>したり、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>などにしたりする。
+- word: 作品
+  descriptions:
+  - <ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。<ruby><rb>文学</rb><rt>ぶんがく</rt></ruby>・<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>・<ruby><rb>美術</rb><rt>びじゅつ</rt></ruby>などで、<ruby><rb>作者</rb><rt>さくしゃ</rt></ruby>が<ruby><rb>創造</rb><rt>そうぞう</rt></ruby>したもの。
+source_url: http://www3.nhk.or.jp/news/easy/k10011370901000/k10011370901000.html
+web_title_with_ruby: <ruby>大阪<rt>おおさか</rt></ruby><ruby>万博<rt>ばんぱく</rt></ruby>の<ruby>シンボル<rt>しんぼる</rt></ruby>「<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>塔<rt>とう</rt></ruby>」
+  <ruby>内部<rt>ないぶ</rt></ruby>の<ruby>一般<rt>いっぱん</rt></ruby><ruby>公開<rt>こうかい</rt></ruby><ruby>始<rt>はじ</rt></ruby>まる
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/19/大阪万博のシンボル太陽の塔-内部の一般公開始まる
+related_news:
+- title: パンダのシャンシャン　<ruby>並<rt>なら</rt></ruby>んだ<ruby>順番<rt>じゅんばん</rt></ruby>で<ruby>見<rt>み</rt></ruby>ることができる
+  url: https://newswebeasy.github.io/news/easy/2018/02/01/パンダのシャンシャン-並んだ順番で見ることができる
+- title: <ruby>東京<rt>とうきょう</rt></ruby>オリンピックで<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>たい<ruby>競技<rt>きょうぎ</rt></ruby>　１<ruby>番<rt>ばん</rt></ruby>はバレーボール
+  url: https://newswebeasy.github.io/news/easy/2018/03/15/東京オリンピックで若い人が見たい競技-1番はバレーボール
+- title: <ruby>山梨県<rt>やまなしけん</rt></ruby>　<ruby>美<rt>うつく</rt></ruby>しい「ダイヤモンド<ruby>富士<rt>ふじ</rt></ruby>」が<ruby>見<rt>み</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2018/01/05/山梨県-美しいダイヤモンド富士が見える
+...
