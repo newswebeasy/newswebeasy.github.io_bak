@@ -1,0 +1,256 @@
+---
+layout: web_news
+categories: web
+newsid: k10011372351000
+title: “気付けなかった”をなくしたい
+title_with_ruby: “<ruby>気付<rt data-ruby-level="4">きづ</rt></ruby>けなかった”をなくしたい
+last_modified_at: '2018-03-20T18:59:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>03<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>20<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 18<ruby>時<rt data-ruby-level="2">じ</rt></ruby>59<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: <span class="pattern_1">電車に乗ってた。</span><br /><br /><span class="pattern_1">優先席にヤンキー風な人が座ってた。</span><br
+  /><br /><span class="pattern_1">杖をついたお年寄りの方が入ってきた。</span><br /><br /><span class="pattern_1">スーツの人がヤンキー風な人に注意をした。</span><br
+  /><br /><span class="pattern_1">ヤンキー風な人は渋々席を譲った。</span><br /><br /><span class="pattern_1">お年寄りはスーツの人にお礼を言った。</span><br
+  />《あるツイートより》<br /><br />見た目だけでは気付けないことがあります。<br /><br />（ネットワーク報道部記者 栗原岳史・飯田耕太）
+summary: <span class="pattern_1"><ruby>電車<rt data-ruby-level="2">でんしゃ</rt></ruby>に<ruby>乗<rt
+  data-ruby-level="3">の</rt></ruby>ってた。</span><br /><br /><span class="pattern_1"><ruby>優先席<rt
+  data-ruby-level="6">ゆうせんせき</rt></ruby>にヤンキー<ruby>風<rt data-ruby-level="2">ふう</rt></ruby>な<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>が<ruby>座<rt data-ruby-level="7">すわ</rt></ruby>ってた。</span><br
+  /><br /><span class="pattern_1"><ruby>杖<rt data-ruby-level="8">つえ</rt></ruby>をついたお<ruby>年寄<rt
+  data-ruby-level="5">としよ</rt></ruby>りの<ruby>方<rt data-ruby-level="2">かた</rt></ruby>が<ruby>入<rt
+  data-ruby-level="1">はい</rt></ruby>ってきた。</span><br /><br /><span class="pattern_1">スーツの<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>がヤンキー<ruby>風<rt data-ruby-level="2">ふう</rt></ruby>な<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>に<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>をした。</span><br
+  /><br /><span class="pattern_1">ヤンキー<ruby>風<rt data-ruby-level="2">ふう</rt></ruby>な<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>は<ruby>渋々<rt data-ruby-level="7">しぶしぶ</rt></ruby><ruby>席<rt
+  data-ruby-level="4">せき</rt></ruby>を<ruby>譲<rt data-ruby-level="7">ゆず</rt></ruby>った。</span><br
+  /><br /><span class="pattern_1">お<ruby>年寄<rt data-ruby-level="5">としよ</rt></ruby>りはスーツの<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>にお<ruby>礼<rt data-ruby-level="3">れい</rt></ruby>を<ruby>言<rt
+  data-ruby-level="2">い</rt></ruby>った。</span><br />《あるツイートより》<br /><br /><ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>た<ruby>目<rt data-ruby-level="1">め</rt></ruby>だけでは<ruby>気付<rt
+  data-ruby-level="4">きづ</rt></ruby>けないことがあります。<br /><br />（ネットワーク<ruby>報道部<rt data-ruby-level="5">ほうどうぶ</rt></ruby><ruby>記者<rt
+  data-ruby-level="3">きしゃ</rt></ruby> <ruby>栗原<rt data-ruby-level="8">くりはら</rt></ruby><ruby>岳史<rt
+  data-ruby-level="7">たけし</rt></ruby>・<ruby>飯田<rt data-ruby-level="8">いいだ</rt></ruby><ruby>耕太<rt
+  data-ruby-level="5">こうた</rt></ruby>）
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/20/K10011372351_1803201644_1803201646_01_04.jpg
+body:
+- title: ひと<ruby>事<rt data-ruby-level="3">ごと</rt></ruby>とは<ruby>思<rt data-ruby-level="2">おも</rt></ruby>えなかった
+  text: ある<ruby>若者<rt data-ruby-level="6">わかもの</rt></ruby>が、<ruby>山手線<rt data-ruby-level="2">やまてせん</rt></ruby>でたまたま<ruby>目<rt
+    data-ruby-level="1">め</rt></ruby>にしたことを<ruby>説明<rt data-ruby-level="4">せつめい</rt></ruby>したツイート。<ruby>次<rt
+    data-ruby-level="3">つぎ</rt></ruby>のような<ruby>結末<rt data-ruby-level="4">けつまつ</rt></ruby>が<ruby>書<rt
+    data-ruby-level="2">か</rt></ruby>かれていました。<br /><br /><span class="pattern_1">ヤンキー<ruby>風<rt
+    data-ruby-level="2">ふう</rt></ruby>の<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>は<ruby>電車<rt
+    data-ruby-level="2">でんしゃ</rt></ruby>をおりた。</span><br /><br /><span class="pattern_1"><ruby>足<rt
+    data-ruby-level="1">あし</rt></ruby>を<ruby>引<rt data-ruby-level="2">ひ</rt></ruby>きずっていた。</span><br
+    /><br /><span class="pattern_1"><ruby>気<rt data-ruby-level="1">き</rt></ruby>づけなかった。</span><br
+    /><br />この<ruby>場<rt data-ruby-level="2">ば</rt></ruby>に<ruby>居合<rt data-ruby-level="5">いあ</rt></ruby>わせたのは、<ruby>松村<rt
+    data-ruby-level="4">まつむら</rt></ruby><ruby>凌<rt data-ruby-level="8">りょう</rt></ruby><ruby>太郎<rt
+    data-ruby-level="7">たろう</rt></ruby>さん。「クローン<ruby>病<rt data-ruby-level="3">びょう</rt></ruby>」という<ruby>腸<rt
+    data-ruby-level="4">ちょう</rt></ruby>に<ruby>炎症<rt data-ruby-level="7">えんしょう</rt></ruby>を<ruby>起<rt
+    data-ruby-level="3">お</rt></ruby>こす<ruby>原因<rt data-ruby-level="5">げんいん</rt></ruby><ruby>不明<rt
+    data-ruby-level="4">ふめい</rt></ruby>の<ruby>難病<rt data-ruby-level="6">なんびょう</rt></ruby>と<ruby>闘<rt
+    data-ruby-level="7">たたか</rt></ruby>いながら、<ruby>俳優<rt data-ruby-level="6">はいゆう</rt></ruby>として<ruby>活動<rt
+    data-ruby-level="3">かつどう</rt></ruby>しています。<ruby>香港<rt data-ruby-level="8">ほんこん</rt></ruby><ruby>出身<rt
+    data-ruby-level="3">しゅっしん</rt></ruby>の<ruby>映画<rt data-ruby-level="6">えいが</rt></ruby>スター、ジャッキー・チェンに<ruby>憧<rt
+    data-ruby-level="7">あこが</rt></ruby>れ、アクションの<ruby>多<rt data-ruby-level="2">おお</rt></ruby>い<ruby>稽古<rt
+    data-ruby-level="7">けいこ</rt></ruby>や<ruby>舞台<rt data-ruby-level="7">ぶたい</rt></ruby>ではけがをすることもあります。<br
+    /><br />トレーニングに<ruby>行<rt data-ruby-level="2">い</rt></ruby>くためにたまたま<ruby>乗<rt
+    data-ruby-level="3">の</rt></ruby>った<ruby>電車<rt data-ruby-level="2">でんしゃ</rt></ruby>の<ruby>中<rt
+    data-ruby-level="1">なか</rt></ruby>で<ruby>見<rt data-ruby-level="1">み</rt></ruby>たその<ruby>光景<rt
+    data-ruby-level="4">こうけい</rt></ruby>は、ひと<ruby>事<rt data-ruby-level="3">ごと</rt></ruby>とは<ruby>思<rt
+    data-ruby-level="2">おも</rt></ruby>えなかったそうです。
+  textPos: top
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/20/K10011372351_1803201756_1803201801_01_03.jpg
+- text: 「<ruby>自分<rt data-ruby-level="2">じぶん</rt></ruby>も<ruby>外見<rt data-ruby-level="2">がいけん</rt></ruby>からはわからない<ruby>病気<rt
+    data-ruby-level="3">びょうき</rt></ruby>がある<ruby>上<rt data-ruby-level="1">うえ</rt></ruby>、<ruby>以前<rt
+    data-ruby-level="4">いぜん</rt></ruby>、<ruby>足<rt data-ruby-level="1">あし</rt></ruby>をけがした<ruby>時<rt
+    data-ruby-level="2">とき</rt></ruby>に<ruby>優先席<rt data-ruby-level="6">ゆうせんせき</rt></ruby>に<ruby>座<rt
+    data-ruby-level="7">すわ</rt></ruby>る<ruby>資格<rt data-ruby-level="5">しかく</rt></ruby>があるのかないのか<ruby>考<rt
+    data-ruby-level="2">かんが</rt></ruby>えたこともありました。<ruby>見<rt data-ruby-level="1">み</rt></ruby>た<ruby>目<rt
+    data-ruby-level="1">め</rt></ruby>じゃわからない<ruby>病気<rt data-ruby-level="3">びょうき</rt></ruby>やけがと<ruby>闘<rt
+    data-ruby-level="7">たたか</rt></ruby>っている<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>はたくさんいることを<ruby>知<rt
+    data-ruby-level="2">し</rt></ruby>ってほしいし、<ruby>見<rt data-ruby-level="1">み</rt></ruby>えない<ruby>所<rt
+    data-ruby-level="3">ところ</rt></ruby>にも<ruby>目<rt data-ruby-level="1">め</rt></ruby>が<ruby>向<rt
+    data-ruby-level="3">む</rt></ruby>けられる<ruby>社会<rt data-ruby-level="2">しゃかい</rt></ruby>になってほしいと<ruby>思<rt
+    data-ruby-level="2">おも</rt></ruby>う」（<ruby>松村<rt data-ruby-level="4">まつむら</rt></ruby>さん）
+- title: <ruby>多<rt data-ruby-level="2">おお</rt></ruby>くの<ruby>反響<rt data-ruby-level="7">はんきょう</rt></ruby>が
+  text: ツイートには、<ruby>多<rt data-ruby-level="2">おお</rt></ruby>くのコメントが<ruby>寄<rt data-ruby-level="5">よ</rt></ruby>せられました。<br
+    /><br />「<ruby>膝<rt data-ruby-level="7">ひざ</rt></ruby>の<ruby>靱帯<rt data-ruby-level="8">じんたい</rt></ruby>を<ruby>延<rt
+    data-ruby-level="6">の</rt></ruby>ばしてしまい、<ruby>膝<rt data-ruby-level="7">ひざ</rt></ruby>サポーターで<ruby>固<rt
+    data-ruby-level="4">かた</rt></ruby>めないといけなくて、<ruby>脚<rt data-ruby-level="7">あし</rt></ruby>を<ruby>伸<rt
+    data-ruby-level="7">の</rt></ruby>ばしていました。すると『<ruby>若<rt data-ruby-level="6">わか</rt></ruby>いもんが<ruby>優先席<rt
+    data-ruby-level="6">ゆうせんせき</rt></ruby>で<ruby>脚<rt data-ruby-level="7">あし</rt></ruby><ruby>伸<rt
+    data-ruby-level="7">の</rt></ruby>ばして<ruby>座<rt data-ruby-level="7">すわ</rt></ruby>ってんじゃねぇ！』と<ruby>怒鳴<rt
+    data-ruby-level="7">どな</rt></ruby>られ、つえをついて<ruby>席<rt data-ruby-level="4">せき</rt></ruby>を<ruby>立<rt
+    data-ruby-level="1">た</rt></ruby>ちました。それ<ruby>以来<rt data-ruby-level="4">いらい</rt></ruby>、どんな<ruby>事<rt
+    data-ruby-level="3">こと</rt></ruby>があっても<ruby>優先席<rt data-ruby-level="6">ゆうせんせき</rt></ruby>には<ruby>絶対<rt
+    data-ruby-level="5">ぜったい</rt></ruby><ruby>座<rt data-ruby-level="7">すわ</rt></ruby>らないと<ruby>固<rt
+    data-ruby-level="4">かた</rt></ruby>く<ruby>決<rt data-ruby-level="3">き</rt></ruby>めたのでした」
+- text: 「『<ruby>俺<rt data-ruby-level="7">おれ</rt></ruby>も<ruby>足<rt data-ruby-level="1">あし</rt></ruby>をけがしてて』なんていうコミュニケーションが<ruby>成<rt
+    data-ruby-level="4">な</rt></ruby>されないところが『<ruby>日本人<rt data-ruby-level="1">にほんじん</rt></ruby>の<ruby>問題<rt
+    data-ruby-level="3">もんだい</rt></ruby>だよなぁ』と<ruby>思<rt data-ruby-level="2">おも</rt></ruby>うのは<ruby>私<rt
+    data-ruby-level="8">わたし</rt></ruby>だけ？」<br /><br />「<ruby>優先席<rt data-ruby-level="6">ゆうせんせき</rt></ruby>だけ<ruby>空<rt
+    data-ruby-level="1">あ</rt></ruby>いているのを<ruby>見<rt data-ruby-level="1">み</rt></ruby>ると、<ruby>譲<rt
+    data-ruby-level="7">ゆず</rt></ruby>り<ruby>合<rt data-ruby-level="7">あ</rt></ruby>い<ruby>下手<rt
+    data-ruby-level="8">へた</rt></ruby>な<ruby>集<rt data-ruby-level="3">あつ</rt></ruby>まりなんだと<ruby>思<rt
+    data-ruby-level="2">おも</rt></ruby>うことがある」<br /><br />さらに、こんな<ruby>指摘<rt data-ruby-level="7">してき</rt></ruby>もありました。<br
+    /><br />「<ruby>私<rt data-ruby-level="8">わたし</rt></ruby>は<ruby>免疫<rt data-ruby-level="7">めんえき</rt></ruby>の<ruby>病気<rt
+    data-ruby-level="3">びょうき</rt></ruby>で<ruby>関節<rt data-ruby-level="4">かんせつ</rt></ruby>が<ruby>痛<rt
+    data-ruby-level="6">いた</rt></ruby>くなるのでヘルプマークつけてます。<ruby>若<rt data-ruby-level="6">わか</rt></ruby>いから<ruby>健康<rt
+    data-ruby-level="4">けんこう</rt></ruby>と<ruby>決<rt data-ruby-level="3">き</rt></ruby>めつけられるのはつらいです。ヘルプマークももっと<ruby>浸透<rt
+    data-ruby-level="7">しんとう</rt></ruby>してくれればと<ruby>思<rt data-ruby-level="2">おも</rt></ruby>います」
+- title: ヘルプマークって<ruby>何<rt data-ruby-level="2">なに</rt></ruby>？
+  text: ヘルプマークとは、<ruby>義足<rt data-ruby-level="5">ぎそく</rt></ruby>の<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>や<ruby>外見<rt
+    data-ruby-level="2">がいけん</rt></ruby>からは<ruby>判断<rt data-ruby-level="5">はんだん</rt></ruby>しにくい<ruby>病気<rt
+    data-ruby-level="3">びょうき</rt></ruby>の<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>などが、まわりの<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>から<ruby>配慮<rt data-ruby-level="7">はいりょ</rt></ruby>や<ruby>援助<rt
+    data-ruby-level="7">えんじょ</rt></ruby>を<ruby>得<rt data-ruby-level="4">え</rt></ruby>やすくするために、<ruby>東京都<rt
+    data-ruby-level="3">とうきょうと</rt></ruby>が６<ruby>年前<rt data-ruby-level="2">ねんまえ</rt></ruby>に<ruby>作<rt
+    data-ruby-level="2">つく</rt></ruby>ったマークで、<ruby>都営<rt data-ruby-level="5">とえい</rt></ruby><ruby>地下鉄<rt
+    data-ruby-level="3">ちかてつ</rt></ruby>の<ruby>駅<rt data-ruby-level="3">えき</rt></ruby>などで<ruby>無料<rt
+    data-ruby-level="4">むりょう</rt></ruby>で<ruby>配布<rt data-ruby-level="5">はいふ</rt></ruby>されています。<ruby>去年<rt
+    data-ruby-level="3">きょねん</rt></ruby>８<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>の<ruby>時点<rt
+    data-ruby-level="2">じてん</rt></ruby>で１９<ruby>万<rt data-ruby-level="2">まん</rt></ruby><ruby>個<rt
+    data-ruby-level="5">こ</rt></ruby>を<ruby>配布<rt data-ruby-level="5">はいふ</rt></ruby>しました。<br
+    /><br /><ruby>利用者<rt data-ruby-level="4">りようしゃ</rt></ruby>からは「<ruby>発作<rt data-ruby-level="7">ほっさ</rt></ruby>で<ruby>倒<rt
+    data-ruby-level="7">たお</rt></ruby>れた<ruby>際<rt data-ruby-level="5">さい</rt></ruby>に、<ruby>救急<rt
+    data-ruby-level="4">きゅうきゅう</rt></ruby><ruby>隊員<rt data-ruby-level="4">たいいん</rt></ruby>がヘルプマークに<ruby>書<rt
+    data-ruby-level="2">か</rt></ruby>いてあったかかりつけの<ruby>病院<rt data-ruby-level="3">びょういん</rt></ruby>に<ruby>気付<rt
+    data-ruby-level="4">きづ</rt></ruby>いて<ruby>連絡<rt data-ruby-level="7">れんらく</rt></ruby>をしてくれ、<ruby>一命<rt
+    data-ruby-level="3">いちめい</rt></ruby>をとりとめた」というエピソードや、「<ruby>電車<rt data-ruby-level="2">でんしゃ</rt></ruby>の<ruby>優先席<rt
+    data-ruby-level="6">ゆうせんせき</rt></ruby>などでヘルプマークを<ruby>見<rt data-ruby-level="1">み</rt></ruby>せて<ruby>事情<rt
+    data-ruby-level="5">じじょう</rt></ruby>があると<ruby>伝<rt data-ruby-level="4">つた</rt></ruby>えることができ、とても<ruby>気<rt
+    data-ruby-level="1">き</rt></ruby>が<ruby>楽<rt data-ruby-level="2">らく</rt></ruby>になった。お<ruby>守<rt
+    data-ruby-level="3">まも</rt></ruby>りのように<ruby>使<rt data-ruby-level="3">つか</rt></ruby>っている」という<ruby>声<rt
+    data-ruby-level="2">こえ</rt></ruby>が<ruby>寄<rt data-ruby-level="5">よ</rt></ruby>せられているそうです。
+  textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/20/K10011372351_1803201639_1803201646_01_05.jpg
+- title: <ruby>足<rt data-ruby-level="1">た</rt></ruby>りないし！メルカリで<ruby>売<rt data-ruby-level="2">う</rt></ruby>ってるし！
+  text: こうした<ruby>中<rt data-ruby-level="1">なか</rt></ruby>、ヘルプマークに<ruby>関<rt data-ruby-level="4">かん</rt></ruby>する<ruby>別<rt
+    data-ruby-level="4">べつ</rt></ruby>のツイートが<ruby>注目<rt data-ruby-level="3">ちゅうもく</rt></ruby>されました。<br
+    /><br />「<ruby>困<rt data-ruby-level="6">こま</rt></ruby>りましたね…フリマアプリ<ruby>内<rt data-ruby-level="2">ない</rt></ruby>での<ruby>売買<rt
+    data-ruby-level="2">ばいばい</rt></ruby>が<ruby>後<rt data-ruby-level="2">あと</rt></ruby>を<ruby>絶<rt
+    data-ruby-level="5">た</rt></ruby>ちません…。<ruby>皆<rt data-ruby-level="8">みんな</rt></ruby>の<ruby>税金<rt
+    data-ruby-level="5">ぜいきん</rt></ruby>で<ruby>作<rt data-ruby-level="2">つく</rt></ruby>り<ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>な<ruby>方<rt data-ruby-level="2">ほう</rt></ruby>に<ruby>無料<rt
+    data-ruby-level="4">むりょう</rt></ruby><ruby>配布<rt data-ruby-level="5">はいふ</rt></ruby>している<ruby>物<rt
+    data-ruby-level="3">もの</rt></ruby>で<ruby>儲<rt data-ruby-level="8">もう</rt></ruby>けようと<ruby>商売<rt
+    data-ruby-level="3">しょうばい</rt></ruby>しているんですよ。ヘルプマークを<ruby>買<rt data-ruby-level="2">か</rt></ruby>わないでください」<br
+    /><br />ヘルプマークが、フリマアプリのメルカリで、いくつも<ruby>売買<rt data-ruby-level="2">ばいばい</rt></ruby>されていたのです。これを<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>た<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>からは…。<br
+    /><br />「ヘルプマークを<ruby>転売<rt data-ruby-level="3">てんばい</rt></ruby>！？<ruby>信<rt data-ruby-level="4">しん</rt></ruby>じられないっ！！」<br
+    /><br />「ヘルプマーク、<ruby>欲<rt data-ruby-level="7">ほ</rt></ruby>しくて<ruby>窓口<rt data-ruby-level="6">まどぐち</rt></ruby>に<ruby>行<rt
+    data-ruby-level="2">い</rt></ruby>くと<ruby>大抵<rt data-ruby-level="7">たいてい</rt></ruby>『<ruby>品切<rt
+    data-ruby-level="3">しなぎ</rt></ruby>れ』『<ruby>入荷<rt data-ruby-level="7">にゅうか</rt></ruby><ruby>未定<rt
+    data-ruby-level="4">みてい</rt></ruby>』と<ruby>断<rt data-ruby-level="5">ことわ</rt></ruby>られます」<br
+    /><br />「<ruby>送料<rt data-ruby-level="4">そうりょう</rt></ruby><ruby>当方<rt data-ruby-level="2">とうほう</rt></ruby><ruby>負担<rt
+    data-ruby-level="6">ふたん</rt></ruby>で<ruby>構<rt data-ruby-level="5">かま</rt></ruby>わないので<ruby>郵送<rt
+    data-ruby-level="6">ゆうそう</rt></ruby><ruby>等<rt data-ruby-level="8">など</rt></ruby>、ご<ruby>検討<rt
+    data-ruby-level="6">けんとう</rt></ruby><ruby>頂<rt data-ruby-level="6">いただ</rt></ruby>けないものでしょうか…」<br
+    /><br /><ruby>憤<rt data-ruby-level="7">いきどお</rt></ruby>りのほか、ほしくても<ruby>手<rt data-ruby-level="1">て</rt></ruby>に<ruby>入<rt
+    data-ruby-level="1">はい</rt></ruby>らない、お<ruby>金<rt data-ruby-level="1">かね</rt></ruby>を<ruby>出<rt
+    data-ruby-level="1">だ</rt></ruby>しても<ruby>買<rt data-ruby-level="2">か</rt></ruby>いたいという<ruby>声<rt
+    data-ruby-level="2">こえ</rt></ruby>が<ruby>相次<rt data-ruby-level="3">あいつ</rt></ruby>いでいました。
+  textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/20/K10011372351_1803201717_1803201719_01_05.jpg
+- title: <ruby>必要<rt data-ruby-level="4">ひつよう</rt></ruby>な<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>に<ruby>寄<rt
+    data-ruby-level="7">よ</rt></ruby>り<ruby>添<rt data-ruby-level="7">そ</rt></ruby>うヘルプマーク
+  text: <ruby>買<rt data-ruby-level="2">か</rt></ruby>わないよう<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけていたのは、ヘルプマークの<ruby>普及<rt
+    data-ruby-level="7">ふきゅう</rt></ruby>・<ruby>啓発<rt data-ruby-level="7">けいはつ</rt></ruby>を<ruby>行<rt
+    data-ruby-level="2">おこな</rt></ruby>う<ruby>民間<rt data-ruby-level="4">みんかん</rt></ruby>の<ruby>全国<rt
+    data-ruby-level="3">ぜんこく</rt></ruby>ネットワークのメンバーです。<br /><br />２<ruby>年前<rt data-ruby-level="2">ねんまえ</rt></ruby>、このネットワークを<ruby>立<rt
+    data-ruby-level="1">た</rt></ruby>ち<ruby>上<rt data-ruby-level="1">あ</rt></ruby>げ、<ruby>自身<rt
+    data-ruby-level="3">じしん</rt></ruby>も１００<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>に１<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>の<ruby>肺<rt data-ruby-level="6">はい</rt></ruby>の<ruby>難病<rt
+    data-ruby-level="6">なんびょう</rt></ruby>で１<ruby>日<rt data-ruby-level="1">にち</rt></ruby>の<ruby>大半<rt
+    data-ruby-level="2">たいはん</rt></ruby>を<ruby>寝<rt data-ruby-level="7">ね</rt></ruby>て<ruby>過<rt
+    data-ruby-level="5">す</rt></ruby>ごさなければならないという<ruby>渋谷<rt data-ruby-level="8">しぶや</rt></ruby>みち<ruby>代<rt
+    data-ruby-level="3">だい</rt></ruby>さん（５５）に<ruby>話<rt data-ruby-level="2">はなし</rt></ruby>を<ruby>聞<rt
+    data-ruby-level="2">き</rt></ruby>くと、ヘルプマークが<ruby>病気<rt data-ruby-level="3">びょうき</rt></ruby>や<ruby>障害<rt
+    data-ruby-level="6">しょうがい</rt></ruby>がある<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>にどう<ruby>受<rt
+    data-ruby-level="3">う</rt></ruby>け<ruby>入<rt data-ruby-level="3">い</rt></ruby>れられているのかを<ruby>話<rt
+    data-ruby-level="2">はな</rt></ruby>してくれました。
+  textPos: top
+  caption: <ruby>渋谷<rt data-ruby-level="8">しぶや</rt></ruby>みち<ruby>代<rt data-ruby-level="3">だい</rt></ruby>さん
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/20/K10011372351_1803201639_1803201646_01_06.jpg
+- text: <ruby>内閣府<rt data-ruby-level="6">ないかくふ</rt></ruby>のホームページには、<ruby>障害者<rt data-ruby-level="6">しょうがいしゃ</rt></ruby>であることなどを<ruby>周囲<rt
+    data-ruby-level="4">しゅうい</rt></ruby>にわかってもらうマークが、ヘルプマークもあわせて１１<ruby>種類<rt data-ruby-level="4">しゅるい</rt></ruby><ruby>掲載<rt
+    data-ruby-level="7">けいさい</rt></ruby>されています。<br /><br />たとえば、この<ruby>緑色<rt data-ruby-level="3">みどりいろ</rt></ruby>の<ruby>矢印<rt
+    data-ruby-level="4">やじるし</rt></ruby>が<ruby>書<rt data-ruby-level="2">か</rt></ruby>かれたマーク。<ruby>耳<rt
+    data-ruby-level="1">みみ</rt></ruby>が<ruby>不自由<rt data-ruby-level="4">ふじゆう</rt></ruby>なことのほか、<ruby>聞<rt
+    data-ruby-level="2">き</rt></ruby>こえない、<ruby>聞<rt data-ruby-level="2">き</rt></ruby>こえにくい<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>への<ruby>配慮<rt data-ruby-level="7">はいりょ</rt></ruby>を<ruby>表<rt
+    data-ruby-level="3">あらわ</rt></ruby>すマークです。
+  textPos: top
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/20/K10011372351_1803201637_1803201646_01_07.jpg
+- text: ハートにプラスがあるマークは、<ruby>心臓<rt data-ruby-level="6">しんぞう</rt></ruby>、<ruby>呼吸<rt
+    data-ruby-level="6">こきゅう</rt></ruby><ruby>機能<rt data-ruby-level="5">きのう</rt></ruby>、じん<ruby>臓<rt
+    data-ruby-level="6">ぞう</rt></ruby>、ぼうこう・<ruby>直腸<rt data-ruby-level="4">ちょくちょう</rt></ruby>、<ruby>小腸<rt
+    data-ruby-level="4">しょうちょう</rt></ruby>、<ruby>肝臓<rt data-ruby-level="7">かんぞう</rt></ruby>、<ruby>免疫<rt
+    data-ruby-level="7">めんえき</rt></ruby><ruby>機能<rt data-ruby-level="5">きのう</rt></ruby>の７つに<ruby>障害<rt
+    data-ruby-level="6">しょうがい</rt></ruby>がある<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>を<ruby>示<rt
+    data-ruby-level="5">しめ</rt></ruby>しています。それぞれ<ruby>障害<rt data-ruby-level="6">しょうがい</rt></ruby>や<ruby>疾患<rt
+    data-ruby-level="7">しっかん</rt></ruby><ruby>別<rt data-ruby-level="4">べつ</rt></ruby>に<ruby>作<rt
+    data-ruby-level="2">つく</rt></ruby>られています。
+  textPos: top
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/20/K10011372351_1803201639_1803201646_01_08.jpg
+- text: ところがヘルプマークはこうした<ruby>区別<rt data-ruby-level="4">くべつ</rt></ruby>がありません。<ruby>渋谷<rt
+    data-ruby-level="8">しぶや</rt></ruby>さんは、「『この<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>は<ruby>何<rt
+    data-ruby-level="2">なん</rt></ruby>らかのハンディーがあるんだ』と<ruby>一目<rt data-ruby-level="1">ひとめ</rt></ruby>で<ruby>分<rt
+    data-ruby-level="2">わ</rt></ruby>かってもらえる。こうしたものはこれまでなかった。さらに、<ruby>自分<rt data-ruby-level="2">じぶん</rt></ruby>の<ruby>障害<rt
+    data-ruby-level="6">しょうがい</rt></ruby>や<ruby>病気<rt data-ruby-level="3">びょうき</rt></ruby>を<ruby>知<rt
+    data-ruby-level="2">し</rt></ruby>られたくないけど、ちょっとした<ruby>助<rt data-ruby-level="3">たす</rt></ruby>けが<ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>という<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>に<ruby>寄<rt
+    data-ruby-level="7">よ</rt></ruby>り<ruby>添<rt data-ruby-level="7">そ</rt></ruby>ってくれるのがヘルプマークなんです」と<ruby>指摘<rt
+    data-ruby-level="7">してき</rt></ruby>します。
+- title: <ruby>必要<rt data-ruby-level="4">ひつよう</rt></ruby>な<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>に<ruby>届<rt
+    data-ruby-level="6">とど</rt></ruby>かない
+  text: その<ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>で<ruby>渋谷<rt data-ruby-level="8">しぶや</rt></ruby>さんは、「ヘルプマークは<ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>な<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>に<ruby>行<rt
+    data-ruby-level="7">い</rt></ruby>き<ruby>渡<rt data-ruby-level="7">わた</rt></ruby>っていない」と<ruby>言<rt
+    data-ruby-level="2">い</rt></ruby>います。<br /><br /><ruby>東京都<rt data-ruby-level="3">とうきょうと</rt></ruby>は、<ruby>一定<rt
+    data-ruby-level="3">いってい</rt></ruby>のルールに<ruby>従<rt data-ruby-level="6">したが</rt></ruby>えばヘルプマークの<ruby>作製<rt
+    data-ruby-level="5">さくせい</rt></ruby>・<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>を<ruby>認<rt
+    data-ruby-level="6">みと</rt></ruby>めていて、２<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>までに<ruby>北海道<rt
+    data-ruby-level="2">ほっかいどう</rt></ruby>や<ruby>神奈川県<rt data-ruby-level="8">かながわけん</rt></ruby>、<ruby>大阪府<rt
+    data-ruby-level="8">おおさかふ</rt></ruby>など<ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby>２０の<ruby>都道府県<rt
+    data-ruby-level="4">とどうふけん</rt></ruby>が<ruby>配布<rt data-ruby-level="5">はいふ</rt></ruby>を<ruby>始<rt
+    data-ruby-level="3">はじ</rt></ruby>めましたが、<ruby>場所<rt data-ruby-level="3">ばしょ</rt></ruby>によってはまだ<ruby>手<rt
+    data-ruby-level="1">て</rt></ruby>に<ruby>入<rt data-ruby-level="1">はい</rt></ruby>りにくいのが<ruby>現状<rt
+    data-ruby-level="5">げんじょう</rt></ruby>です。<br /><br />さらに、マークを<ruby>受<rt data-ruby-level="3">う</rt></ruby>け<ruby>取<rt
+    data-ruby-level="3">と</rt></ruby>りたくても<ruby>取<rt data-ruby-level="3">と</rt></ruby>りに<ruby>行<rt
+    data-ruby-level="3">い</rt></ruby>けない<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>もいると<ruby>言<rt
+    data-ruby-level="2">い</rt></ruby>います。<ruby>突然<rt data-ruby-level="7">とつぜん</rt></ruby>、<ruby>息切<rt
+    data-ruby-level="3">いきぎ</rt></ruby>れやめまいなどに<ruby>襲<rt data-ruby-level="7">おそ</rt></ruby>われるパニック<ruby>障害<rt
+    data-ruby-level="6">しょうがい</rt></ruby>で<ruby>電車<rt data-ruby-level="2">でんしゃ</rt></ruby>に<ruby>乗<rt
+    data-ruby-level="3">の</rt></ruby>れなかったり、<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>との<ruby>交流<rt
+    data-ruby-level="3">こうりゅう</rt></ruby>を<ruby>恐<rt data-ruby-level="7">おそ</rt></ruby>れる<ruby>不安<rt
+    data-ruby-level="4">ふあん</rt></ruby><ruby>障害<rt data-ruby-level="6">しょうがい</rt></ruby>で<ruby>配布<rt
+    data-ruby-level="5">はいふ</rt></ruby><ruby>窓口<rt data-ruby-level="6">まどぐち</rt></ruby>に<ruby>行<rt
+    data-ruby-level="2">い</rt></ruby>けなかったりするのだと<ruby>渋谷<rt data-ruby-level="8">しぶや</rt></ruby>さんは<ruby>指摘<rt
+    data-ruby-level="7">してき</rt></ruby>します。こうした<ruby>背景<rt data-ruby-level="6">はいけい</rt></ruby>があるからこそフリマアプリでの<ruby>売買<rt
+    data-ruby-level="2">ばいばい</rt></ruby>が<ruby>後<rt data-ruby-level="2">あと</rt></ruby>を<ruby>絶<rt
+    data-ruby-level="5">た</rt></ruby>たないと<ruby>見<rt data-ruby-level="1">み</rt></ruby>られるのです。
+- title: “<ruby>気<rt data-ruby-level="1">き</rt></ruby>づかなかった”をなくしたい
+  text: ヘルプマークは、２０２０<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>の<ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>オリンピック・パラリンピックに<ruby>向<rt
+    data-ruby-level="3">む</rt></ruby>けて<ruby>共通<rt data-ruby-level="4">きょうつう</rt></ruby>のマークにしようと、<ruby>去年<rt
+    data-ruby-level="3">きょねん</rt></ruby>、ＪＩＳ＝<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>工業<rt
+    data-ruby-level="3">こうぎょう</rt></ruby><ruby>規格<rt data-ruby-level="5">きかく</rt></ruby>に<ruby>定<rt
+    data-ruby-level="3">さだ</rt></ruby>められました。ただ、ヘルプマークを<ruby>付<rt data-ruby-level="4">つ</rt></ruby>けていたのに<ruby>意味<rt
+    data-ruby-level="3">いみ</rt></ruby>を<ruby>理解<rt data-ruby-level="5">りかい</rt></ruby>してもらえなかったという<ruby>声<rt
+    data-ruby-level="2">こえ</rt></ruby>もあり、まだまだ<ruby>認知度<rt data-ruby-level="7">にんちど</rt></ruby>が<ruby>低<rt
+    data-ruby-level="4">ひく</rt></ruby>いのも<ruby>事実<rt data-ruby-level="3">じじつ</rt></ruby>です。<br
+    /><br /><ruby>渋谷<rt data-ruby-level="8">しぶや</rt></ruby>さんは、より<ruby>多<rt data-ruby-level="2">おお</rt></ruby>くの<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>に<ruby>知<rt data-ruby-level="2">し</rt></ruby>ってもらうため、ベッドの<ruby>上<rt
+    data-ruby-level="1">うえ</rt></ruby>からネットでの<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby><ruby>発信<rt
+    data-ruby-level="4">はっしん</rt></ruby>を<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>けています。「<ruby>気<rt
+    data-ruby-level="1">き</rt></ruby>づいてほしい」「“<ruby>気付<rt data-ruby-level="4">きづ</rt></ruby>けなかった”をなくしたい」ーーー<ruby>多<rt
+    data-ruby-level="2">おお</rt></ruby>くの<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>たちの<ruby>願<rt
+    data-ruby-level="4">ねが</rt></ruby>いです。
+  textPos: top
+  caption: ベッドから<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby><ruby>発信<rt data-ruby-level="4">はっしん</rt></ruby>する<ruby>渋谷<rt
+    data-ruby-level="8">しぶや</rt></ruby>さん
+  image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/20/K10011372351_1803201640_1803201701_01_09.jpg
+source_url: https://www3.nhk.or.jp/news/html/20180320/k10011372351000.html
+related_news: []
+...
