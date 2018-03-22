@@ -1,0 +1,117 @@
+---
+layout: web_news
+categories: web
+newsid: k10011373851000
+title: 緊急地震速報 きょうから巨大地震では「続報」発表
+title_with_ruby: <ruby>緊急<rt data-ruby-level="7">きんきゅう</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby><ruby>速報<rt
+  data-ruby-level="5">そくほう</rt></ruby> きょうから<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>では「<ruby>続報<rt data-ruby-level="5">ぞくほう</rt></ruby>」<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>
+last_modified_at: '2018-03-22T04:21:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>03<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>22<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 04<ruby>時<rt data-ruby-level="2">じ</rt></ruby>21<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 気象庁は、２２日から緊急地震速報に新たな予測手法を導入します。震度５弱以上の強い揺れが予測された場合、これまで情報の発表は一度だけでしたが、今後、巨大地震が起きた場合などに「続報」が出るようになり、より広い範囲に警戒が呼びかけられることになります。
+summary: <ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>は、２２<ruby>日<rt data-ruby-level="1">にち</rt></ruby>から<ruby>緊急<rt
+  data-ruby-level="7">きんきゅう</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby><ruby>速報<rt
+  data-ruby-level="5">そくほう</rt></ruby>に<ruby>新<rt data-ruby-level="2">あら</rt></ruby>たな<ruby>予測<rt
+  data-ruby-level="5">よそく</rt></ruby><ruby>手法<rt data-ruby-level="4">しゅほう</rt></ruby>を<ruby>導入<rt
+  data-ruby-level="5">どうにゅう</rt></ruby>します。<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>弱以上<rt
+  data-ruby-level="4">じゃくいじょう</rt></ruby>の<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>い<ruby>揺<rt
+  data-ruby-level="7">ゆ</rt></ruby>れが<ruby>予測<rt data-ruby-level="5">よそく</rt></ruby>された<ruby>場合<rt
+  data-ruby-level="2">ばあい</rt></ruby>、これまで<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>の<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>は<ruby>一度<rt data-ruby-level="3">いちど</rt></ruby>だけでしたが、<ruby>今後<rt
+  data-ruby-level="2">こんご</rt></ruby>、<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>が<ruby>起<rt data-ruby-level="3">お</rt></ruby>きた<ruby>場合<rt
+  data-ruby-level="2">ばあい</rt></ruby>などに「<ruby>続報<rt data-ruby-level="5">ぞくほう</rt></ruby>」が<ruby>出<rt
+  data-ruby-level="1">で</rt></ruby>るようになり、より<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>い<ruby>範囲<rt
+  data-ruby-level="7">はんい</rt></ruby>に<ruby>警戒<rt data-ruby-level="7">けいかい</rt></ruby>が<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけられることになります。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/22/K10011373851_1803220037_1803220040_01_03.jpg
+more: <ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>の<ruby>緊急<rt data-ruby-level="7">きんきゅう</rt></ruby><ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby><ruby>速報<rt data-ruby-level="5">そくほう</rt></ruby>は、<ruby>各地<rt
+  data-ruby-level="4">かくち</rt></ruby>に<ruby>設置<rt data-ruby-level="5">せっち</rt></ruby>された<ruby>地震計<rt
+  data-ruby-level="7">じしんけい</rt></ruby>が<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby><ruby>発生<rt
+  data-ruby-level="3">はっせい</rt></ruby><ruby>直後<rt data-ruby-level="2">ちょくご</rt></ruby>に<ruby>出<rt
+  data-ruby-level="1">で</rt></ruby>る「<ruby>Ｐ波<rt data-ruby-level="3">ぴーは</rt></ruby>」と<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>ばれる<ruby>小<rt data-ruby-level="1">ちい</rt></ruby>さな<ruby>揺<rt
+  data-ruby-level="7">ゆ</rt></ruby>れを<ruby>検知<rt data-ruby-level="5">けんち</rt></ruby>して<ruby>震源<rt
+  data-ruby-level="7">しんげん</rt></ruby>や<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>の<ruby>規模<rt
+  data-ruby-level="6">きぼ</rt></ruby>を<ruby>瞬時<rt data-ruby-level="7">しゅんじ</rt></ruby>に<ruby>推定<rt
+  data-ruby-level="6">すいてい</rt></ruby>し、<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>弱以上<rt
+  data-ruby-level="4">じゃくいじょう</rt></ruby>の<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>い<ruby>揺<rt
+  data-ruby-level="7">ゆ</rt></ruby>れが<ruby>予測<rt data-ruby-level="5">よそく</rt></ruby>された<ruby>場合<rt
+  data-ruby-level="2">ばあい</rt></ruby>に、<ruby>警報<rt data-ruby-level="6">けいほう</rt></ruby>として<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>しています。<br /><br />これまで<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>は、<ruby>原則<rt
+  data-ruby-level="5">げんそく</rt></ruby><ruby>一度<rt data-ruby-level="3">いちど</rt></ruby>だけでしたが、７<ruby>年前<rt
+  data-ruby-level="2">ねんまえ</rt></ruby>のマグニチュード９.０の<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>で<ruby>関東<rt data-ruby-level="4">かんとう</rt></ruby>など<ruby>震源<rt
+  data-ruby-level="7">しんげん</rt></ruby>から<ruby>離<rt data-ruby-level="7">はな</rt></ruby>れた<ruby>地域<rt
+  data-ruby-level="6">ちいき</rt></ruby>に<ruby>警戒<rt data-ruby-level="7">けいかい</rt></ruby>を<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけられなかったことを<ruby>教訓<rt data-ruby-level="4">きょうくん</rt></ruby>に、<ruby>気象庁<rt
+  data-ruby-level="6">きしょうちょう</rt></ruby>は、２２<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>正午<rt
+  data-ruby-level="2">しょうご</rt></ruby>から<ruby>新<rt data-ruby-level="2">あら</rt></ruby>たな<ruby>手法<rt
+  data-ruby-level="4">しゅほう</rt></ruby>を<ruby>導入<rt data-ruby-level="5">どうにゅう</rt></ruby>する<ruby>予定<rt
+  data-ruby-level="3">よてい</rt></ruby>です。
+movie_url: https://newswebeasy.github.io/ja201803/news/web/movie/2018/03/22/k10011373851_201803220924_201803220925.mp4
+voice_url: https://newswebeasy.github.io/ja201803/news/web/voice/2018/03/22/k10011373851_201803220924_201803220925.mp3
+body:
+- text: <ruby>新<rt data-ruby-level="2">あら</rt></ruby>たな<ruby>手法<rt data-ruby-level="4">しゅほう</rt></ruby>では、「<ruby>Ｐ波<rt
+    data-ruby-level="3">ぴーは</rt></ruby>」のあとに<ruby>来<rt data-ruby-level="2">く</rt></ruby>る「<ruby>Ｓ波<rt
+    data-ruby-level="3">えすは</rt></ruby>」などの<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きな<ruby>揺<rt
+    data-ruby-level="7">ゆ</rt></ruby>れの<ruby>実際<rt data-ruby-level="5">じっさい</rt></ruby>の<ruby>観測<rt
+    data-ruby-level="5">かんそく</rt></ruby>データを<ruby>使<rt data-ruby-level="3">つか</rt></ruby>って、その<ruby>観測点<rt
+    data-ruby-level="5">かんそくてん</rt></ruby>から<ruby>最大<rt data-ruby-level="4">さいだい</rt></ruby>３０キロ<ruby>離<rt
+    data-ruby-level="7">はな</rt></ruby>れた<ruby>地域<rt data-ruby-level="6">ちいき</rt></ruby>を<ruby>対象<rt
+    data-ruby-level="4">たいしょう</rt></ruby>に<ruby>続報<rt data-ruby-level="5">ぞくほう</rt></ruby>を<ruby>発表<rt
+    data-ruby-level="3">はっぴょう</rt></ruby>します。<br /><ruby>続報<rt data-ruby-level="5">ぞくほう</rt></ruby>は、<ruby>地震波<rt
+    data-ruby-level="7">じしんは</rt></ruby>を<ruby>最初<rt data-ruby-level="4">さいしょ</rt></ruby>に<ruby>検知<rt
+    data-ruby-level="5">けんち</rt></ruby>してから９０<ruby>秒後<rt data-ruby-level="3">びょうご</rt></ruby>まで<ruby>発表<rt
+    data-ruby-level="3">はっぴょう</rt></ruby>され、<ruby>南海<rt data-ruby-level="2">なんかい</rt></ruby>トラフや<ruby>千島海溝<rt
+    data-ruby-level="7">ちしまかいこう</rt></ruby>などマグニチュード８<ruby>以上<rt data-ruby-level="4">いじょう</rt></ruby>の<ruby>巨大<rt
+    data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>が<ruby>発生<rt
+    data-ruby-level="3">はっせい</rt></ruby>した<ruby>場合<rt data-ruby-level="2">ばあい</rt></ruby>などにより<ruby>広<rt
+    data-ruby-level="2">ひろ</rt></ruby>い<ruby>範囲<rt data-ruby-level="7">はんい</rt></ruby>に<ruby>警戒<rt
+    data-ruby-level="7">けいかい</rt></ruby>を<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかける<ruby>効果<rt
+    data-ruby-level="5">こうか</rt></ruby>が<ruby>期待<rt data-ruby-level="3">きたい</rt></ruby>できるということです。<br
+    /><br /><ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>の<ruby>橋田<rt data-ruby-level="3">はしだ</rt></ruby><ruby>俊彦<rt
+    data-ruby-level="8">としひこ</rt></ruby><ruby>長官<rt data-ruby-level="4">ちょうかん</rt></ruby>は「<ruby>震源<rt
+    data-ruby-level="7">しんげん</rt></ruby><ruby>域<rt data-ruby-level="6">いき</rt></ruby>の<ruby>広<rt
+    data-ruby-level="2">ひろ</rt></ruby>い<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>でも<ruby>精度<rt data-ruby-level="5">せいど</rt></ruby>よく<ruby>震度<rt
+    data-ruby-level="7">しんど</rt></ruby>を<ruby>予測<rt data-ruby-level="5">よそく</rt></ruby>できる。<ruby>時間的<rt
+    data-ruby-level="4">じかんてき</rt></ruby>な<ruby>猶予<rt data-ruby-level="7">ゆうよ</rt></ruby>は<ruby>短<rt
+    data-ruby-level="3">みじか</rt></ruby>いが、<ruby>効果的<rt data-ruby-level="5">こうかてき</rt></ruby>に<ruby>利用<rt
+    data-ruby-level="4">りよう</rt></ruby>してもらうためどう<ruby>行動<rt data-ruby-level="3">こうどう</rt></ruby>するか<ruby>常<rt
+    data-ruby-level="5">つね</rt></ruby>に<ruby>考<rt data-ruby-level="2">かんが</rt></ruby>えておいてほしい」と<ruby>話<rt
+    data-ruby-level="2">はな</rt></ruby>していました。
+source_url: https://www3.nhk.or.jp/news/html/20180322/k10011373851000.html
+easy_title_with_ruby: <ruby>大<rt data-ruby-level="1">おお</rt></ruby>きな<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>のときは<ruby>緊急<rt
+  data-ruby-level="7">きんきゅう</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby><ruby>速報<rt
+  data-ruby-level="5">そくほう</rt></ruby>に<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>きの<ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>が<ruby>出<rt data-ruby-level="1">で</rt></ruby>る
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/03/22/大きな地震のときは緊急地震速報に続きの情報が出る
+related_news:
+- title: <ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>１<ruby>以上<rt data-ruby-level="4">いじょう</rt></ruby>の<ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>2000<ruby>回<rt data-ruby-level="2">かい</rt></ruby><ruby>超<rt
+    data-ruby-level="7">ちょう</rt></ruby>に <ruby>依然<rt data-ruby-level="7">いぜん</rt></ruby><ruby>多<rt
+    data-ruby-level="2">おお</rt></ruby>い<ruby>状態<rt data-ruby-level="5">じょうたい</rt></ruby><ruby>続<rt
+    data-ruby-level="4">つづ</rt></ruby>く
+  url: https://newswebeasy.github.io/news/web/2017/12/30/震度1以上の地震2000回超に-依然多い状態続く
+- title: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>と<ruby>神奈川<rt data-ruby-level="8">かながわ</rt></ruby>で<ruby>震度<rt
+    data-ruby-level="7">しんど</rt></ruby>４ <ruby>津波<rt data-ruby-level="7">つなみ</rt></ruby>の<ruby>心配<rt
+    data-ruby-level="3">しんぱい</rt></ruby>なし
+  url: https://newswebeasy.github.io/news/web/2018/01/06/東京と神奈川で震度4-津波の心配なし
+- title: <ruby>南海<rt data-ruby-level="2">なんかい</rt></ruby>トラフと<ruby>根室<rt data-ruby-level="7">ねむろ</rt></ruby><ruby>沖<rt
+    data-ruby-level="7">おき</rt></ruby>の<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby> <ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby><ruby>確率<rt
+    data-ruby-level="5">かくりつ</rt></ruby>80％に<ruby>引<rt data-ruby-level="2">ひ</rt></ruby>き<ruby>上<rt
+    data-ruby-level="2">あ</rt></ruby>げ
+  url: https://newswebeasy.github.io/news/web/2018/02/09/南海トラフと根室沖の巨大地震-発生確率80に引き上げ
+- title: <ruby>台湾<rt data-ruby-level="7">たいわん</rt></ruby>で<ruby>大地震<rt data-ruby-level="7">おおじしん</rt></ruby>
+    <ruby>死者<rt data-ruby-level="3">ししゃ</rt></ruby>５<ruby>人<rt data-ruby-level="1">にん</rt></ruby>に
+    <ruby>邦人<rt data-ruby-level="7">ほうじん</rt></ruby>９<ruby>人<rt data-ruby-level="1">にん</rt></ruby><ruby>含<rt
+    data-ruby-level="7">ふく</rt></ruby>め250<ruby>人<rt data-ruby-level="1">にん</rt></ruby><ruby>余<rt
+    data-ruby-level="5">よ</rt></ruby>けが
+  url: https://newswebeasy.github.io/news/web/2018/02/07/台湾で大地震-死者5人に-邦人9人含め250人余けが
+...

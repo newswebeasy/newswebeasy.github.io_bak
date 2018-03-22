@@ -1,0 +1,84 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011371971000
+last_modified_at: '2018-03-22T18:10:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>
+  18<ruby>時<rt>じ</rt></ruby>10<ruby>分<rt>ふん</rt></ruby>
+description: 韓国の国防省は、韓国とアメリカは４月１日から軍の訓練を一緒に行うと発表しました。
+title: 韓国「４月１日からアメリカと一緒に軍の訓練を行う」
+title_with_ruby: <ruby>韓国<rt>かんこく</rt></ruby>「４<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>からアメリカと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>軍<rt>ぐん</rt></ruby>の<ruby>訓練<rt>くんれん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う」
+outline: 韓国の国防省は、韓国とアメリカは４月１日から軍の訓練を一緒に行うと発表しました。
+outline_with_ruby: <ruby>韓国<rt>かんこく</rt></ruby>の<ruby>国防省<rt>こくぼうしょう</rt></ruby>は、<ruby>韓国<rt>かんこく</rt></ruby>とアメリカは４<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から<ruby>軍<rt>ぐん</rt></ruby>の<ruby>訓練<rt>くんれん</rt></ruby>を<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>うと<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/20/K10011371971_1803201932_1803201935_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/22/k10011371971000.mp3
+content_with_ruby: "<p><ruby>韓国<rt>かんこく</rt></ruby>の<ruby>国防省<rt>こくぼうしょう</rt></ruby>は、<ruby>韓国<rt>かんこく</rt></ruby>とアメリカは４<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>訓練<rt>くんれん</rt></ruby></span>を<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>うと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。この<span style=\"\
+  color: blue;\"><ruby>訓練<rt>くんれん</rt></ruby></span>は<ruby>毎年<rt>まいとし</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>から３<ruby>月<rt>がつ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まります。<ruby>今年<rt>ことし</rt></ruby>は<ruby>韓国<rt>かんこく</rt></ruby>で<span\
+  \ style=\"color: blue;\">オリンピック</span>と<span style=\"color: blue;\">パラリンピック</span>があったため、<span\
+  \ style=\"color: blue;\"><ruby>訓練<rt>くんれん</rt></ruby></span>はそのあとになりました。</p>\n<p><span\
+  \ style=\"color: blue;\"><ruby>訓練<rt>くんれん</rt></ruby></span>には、<ruby>韓国軍<rt>かんこくぐん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>３０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>とアメリカ<ruby>軍<rt>ぐん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>２<ruby>万<rt>まん</rt></ruby>３０００<ruby>人<rt>にん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>参加<rt>さんか</rt></ruby></span>します。<ruby>今年<rt>ことし</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>訓練<rt>くんれん</rt></ruby></span>は<ruby>短<rt>みじか</rt></ruby>くなって、１か<ruby>月<rt>げつ</rt></ruby>ぐらいの<ruby>予定<rt>よてい</rt></ruby>です。アメリカ<ruby>軍<rt>ぐん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>空母<rt>くうぼ</rt></ruby></span>などは<span style=\"color:\
+  \ blue;\"><ruby>参加<rt>さんか</rt></ruby></span>しない<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p><ruby>韓国<rt>かんこく</rt></ruby>やアメリカは、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<span style=\"\
+  color: blue;\">トップ</span>と４<ruby>月<rt>がつ</rt></ruby>から５<ruby>月<rt>がつ</rt></ruby>に<ruby>会<rt>あ</rt></ruby>う<ruby>予定<rt>よてい</rt></ruby>です。この<ruby>予定<rt>よてい</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えて、<span\
+  \ style=\"color: blue;\"><ruby>訓練<rt>くんれん</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>などを<ruby>決<rt>き</rt></ruby>めた<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 軍
+  descriptions:
+  - <ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。
+- word: 訓練
+  descriptions:
+  - <ruby><rb>教</rb><rt>おし</rt></ruby>えて、<ruby><rb>慣</rb><rt>な</rt></ruby>れさせること。また、うまくできるように<ruby><rb>練習</rb><rt>れんしゅう</rt></ruby>すること。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 参加
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。
+- word: 航空母艦
+  descriptions:
+  - たくさんの<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>をのせ、<ruby><rb>甲板</rb><rt>かんぱん</rt></ruby>に<ruby><rb>滑走路</rb><rt>かっそうろ</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>軍艦</rb><rt>ぐんかん</rt></ruby>。<ruby><rb>略</rb><rt>りゃく</rt></ruby>して「<ruby><rb>空母</rb><rt>くうぼ</rt></ruby>」ともいう。
+- word: トップ
+  descriptions:
+  - <ruby><rb>先頭</rb><rt>せんとう</rt></ruby>。<ruby><rb>真</rb><rt>ま</rt></ruby>っ<ruby><rb>先</rb><rt>さき</rt></ruby>。<ruby><rb>一番</rb><rt>いちばん</rt></ruby>。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+source_url: http://www3.nhk.or.jp/news/easy/k10011371971000/k10011371971000.html
+web_title_with_ruby: <ruby>米韓<rt>べいかん</rt></ruby><ruby>合同<rt>ごうどう</rt></ruby><ruby>軍事<rt>ぐんじ</rt></ruby><ruby>演習<rt>えんしゅう</rt></ruby>
+  <ruby>来月<rt>らいげつ</rt></ruby>１<ruby>日<rt>にち</rt></ruby>から<ruby>実施<rt>じっし</rt></ruby>
+  <ruby>韓国<rt>かんこく</rt></ruby><ruby>国防省<rt>こくぼうしょう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/20/米韓合同軍事演習-来月1日から実施-韓国国防省
+related_news:
+- title: <ruby>韓国<rt>かんこく</rt></ruby>とアメリカ「オリンピックの<ruby>間<rt>あいだ</rt></ruby>は<ruby>軍<rt>ぐん</rt></ruby>の<ruby>訓練<rt>くんれん</rt></ruby>をしない」
+  url: https://newswebeasy.github.io/news/easy/2018/01/05/韓国とアメリカオリンピックの間は軍の訓練をしない
+- title: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>がピョンチャンオリンピックに<ruby>出<rt>で</rt></ruby>ることになる
+  url: https://newswebeasy.github.io/news/easy/2018/01/10/北朝鮮がピョンチャンオリンピックに出ることになる
+- title: オリンピックの<ruby>開会<rt>かいかい</rt></ruby><ruby>式<rt>しき</rt></ruby>　<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>歩<rt>ある</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/01/18/オリンピックの開会式-韓国と北朝鮮の選手は一緒に歩く
+- title: ４<ruby>月<rt>がつ</rt></ruby>に<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のトップが<ruby>会<rt>あ</rt></ruby>って<ruby>話<rt>はなし</rt></ruby>をすることが<ruby>決<rt>き</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/03/07/4月に韓国と北朝鮮のトップが会って話をすることが決まる
+- title: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>がピョンチャンオリンピックに２２<ruby>人<rt>にん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/01/23/北朝鮮がピョンチャンオリンピックに22人の選手を送る
+...

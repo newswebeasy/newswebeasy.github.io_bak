@@ -1,0 +1,52 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011373401000
+last_modified_at: '2018-03-22T18:10:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>
+  18<ruby>時<rt>じ</rt></ruby>10<ruby>分<rt>ふん</rt></ruby>
+description: アメリカのニューヨークにあるリンカーンセンターで２０日、２０１１年の地震で被害を受けた東北の高校生がオペラに出ました。
+title: 地震の被害を受けた東北の高校生がアメリカでオペラに出る
+title_with_ruby: <ruby>地震<rt>じしん</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>を<ruby>受<rt>う</rt></ruby>けた<ruby>東北<rt>とうほく</rt></ruby>の<ruby>高校生<rt>こうこうせい</rt></ruby>がアメリカでオペラに<ruby>出<rt>で</rt></ruby>る
+outline: アメリカのニューヨークにあるリンカーンセンターで２０日、２０１１年の地震で被害を受けた東北の高校生がオペラに出ました。
+outline_with_ruby: アメリカのニューヨークにあるリンカーンセンターで<ruby>２０日<rt>はつか</rt></ruby>、２０１１<ruby>年<rt>ねん</rt></ruby>の<ruby>地震<rt>じしん</rt></ruby>で<ruby>被害<rt>ひがい</rt></ruby>を<ruby>受<rt>う</rt></ruby>けた<ruby>東北<rt>とうほく</rt></ruby>の<ruby>高校生<rt>こうこうせい</rt></ruby>がオペラに<ruby>出<rt>で</rt></ruby>ました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/21/K10011373401_1803211309_1803211310_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/22/k10011373401000.mp3
+content_with_ruby: "<p>アメリカのニューヨークにあるリンカーンセンターで<ruby>２０日<rt>はつか</rt></ruby>、２０１１<ruby>年<rt>ねん</rt></ruby>の<ruby>地震<rt>じしん</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>を<ruby>受<rt>う</rt></ruby>けた<span\
+  \ style=\"color: blue;\"><ruby>東北<rt>とうほく</rt></ruby></span>の<ruby>高校生<rt>こうこうせい</rt></ruby>が<span\
+  \ style=\"color: blue;\">オペラ</span>に<ruby>出<rt>で</rt></ruby>ました。<ruby>宮城県<rt>みやぎけん</rt></ruby>と<ruby>福島県<rt>ふくしまけん</rt></ruby>から<ruby>来<rt>き</rt></ruby>た４６<ruby>人<rt>にん</rt></ruby>の<ruby>高校生<rt>こうこうせい</rt></ruby>が<ruby>出<rt>で</rt></ruby>ました。</p>\n\
+  <p><ruby>高校生<rt>こうこうせい</rt></ruby>たちは、「<ruby>椿姫<rt>つばきひめ</rt></ruby>」という<span style=\"\
+  color: blue;\">オペラ</span>に<ruby>出<rt>で</rt></ruby>て、パーティーの<ruby>客<rt>きゃく</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>役<rt>やく</rt></ruby></span>になったり、<ruby>歌<rt>うた</rt></ruby>ったりしました。<ruby>高校生<rt>こうこうせい</rt></ruby>たちは<ruby>踊<rt>おど</rt></ruby>りも<ruby>見<rt>み</rt></ruby>せて、<ruby>客<rt>きゃく</rt></ruby>から<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>拍手<rt>はくしゅ</rt></ruby></span>をもらっていました。</p>\n<p><span\
+  \ style=\"color: blue;\">オペラ</span>に<ruby>出<rt>で</rt></ruby>た<ruby>高校生<rt>こうこうせい</rt></ruby>は「ニューヨークに<ruby>来<rt>く</rt></ruby>ることができるぐらい<ruby>元気<rt>げんき</rt></ruby>になったことを<ruby>伝<rt>つた</rt></ruby>えたいと<ruby>思<rt>おも</rt></ruby>って、<ruby>頑張<rt>がんば</rt></ruby>りました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 東北地方
+  descriptions:
+  - <ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>の<ruby><rb>北東部</rb><rt>ほくとうぶ</rt></ruby>にあたる<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>青森</rb><rt>あおもり</rt></ruby>・<ruby><rb>秋田</rb><rt>あきた</rt></ruby>・<ruby><rb>岩手</rb><rt>いわて</rt></ruby>・<ruby><rb>宮城</rb><rt>みやぎ</rt></ruby>・<ruby><rb>山形</rb><rt>やまがた</rt></ruby>・<ruby><rb>福島</rb><rt>ふくしま</rt></ruby>の<ruby><rb>六県</rb><rt>ろっけん</rt></ruby>がある。
+- word: オペラ
+  descriptions:
+  - <ruby><rb>音楽</rb><rt>おんがく</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、せりふの<ruby><rb>代</rb><rt>か</rt></ruby>わりに<ruby><rb>歌</rb><rt>うた</rt></ruby>で<ruby><rb>物語</rb><rt>ものがたり</rt></ruby>の<ruby><rb>筋</rb><rt>すじ</rt></ruby>を<ruby><rb>進</rb><rt>すす</rt></ruby>めていく<ruby><rb>劇</rb><rt>げき</rt></ruby>。<ruby><rb>歌劇</rb><rt>かげき</rt></ruby>。
+- word: 役
+  descriptions:
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>。<ruby><rb>勤</rb><rt>つと</rt></ruby>め。
+  - <ruby><rb>劇</rb><rt>げき</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>ち。
+  - しなければならない<ruby><rb>務</rb><rt>つと</rt></ruby>め。
+  - <ruby><rb>働</rb><rt>はたら</rt></ruby>かせる。
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。
+- word: 拍手
+  descriptions:
+  - ほめるときや、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>のときなどに、<ruby><rb>手</rb><rt>て</rt></ruby>のひらを<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011373401000/k10011373401000.html
+web_title_with_ruby: <ruby>東北<rt>とうほく</rt></ruby>の<ruby>被災地<rt>ひさいち</rt></ruby>の<ruby>高校生<rt>こうこうせい</rt></ruby>
+  ＮＹで<ruby>オペラ<rt>おぺら</rt></ruby><ruby>出演<rt>しゅつえん</rt></ruby> <ruby>復興<rt>ふっこう</rt></ruby>への<ruby>思<rt>おも</rt></ruby>い<ruby>込<rt>こ</rt></ruby>め
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/21/東北の被災地の高校生-NYでオペラ出演-復興への思い込め
+related_news:
+- title: <ruby>韓国<rt>かんこく</rt></ruby>でピョンチャンオリンピックが<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/02/09/韓国でピョンチャンオリンピックが始まる
+...
