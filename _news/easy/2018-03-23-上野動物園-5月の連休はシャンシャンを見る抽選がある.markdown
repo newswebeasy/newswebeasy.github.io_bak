@@ -1,0 +1,78 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011374671000
+last_modified_at: '2018-03-23T16:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: 東京の上野動物園では、去年６月に生まれたパンダのシャンシャンを見ることができます。
+title: 上野動物園　５月の連休はシャンシャンを見る抽選がある
+title_with_ruby: <ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>　５<ruby>月<rt>がつ</rt></ruby>の<ruby>連休<rt>れんきゅう</rt></ruby>はシャンシャンを<ruby>見<rt>み</rt></ruby>る<ruby>抽選<rt>ちゅうせん</rt></ruby>がある
+outline: 東京の上野動物園では、去年６月に生まれたパンダのシャンシャンを見ることができます。
+outline_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>では、<ruby>去年<rt>きょねん</rt></ruby>６<ruby>月<rt>がつ</rt></ruby>に<ruby>生<rt>う</rt></ruby>まれたパンダのシャンシャンを<ruby>見<rt>み</rt></ruby>ることができます。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/22/K10011374671_1803221606_1803221617_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/23/k10011374671000.mp3
+content_with_ruby: "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>では、<ruby>去年<rt>きょねん</rt></ruby>６<ruby>月<rt>がつ</rt></ruby>に<ruby>生<rt>う</rt></ruby>まれた<span\
+  \ style=\"color: blue;\">パンダ</span>のシャンシャンを<ruby>見<rt>み</rt></ruby>ることができます。<ruby>動物園<rt>どうぶつえん</rt></ruby>は、シャンシャンを<ruby>見<rt>み</rt></ruby>るための<span\
+  \ style=\"color: blue;\"><ruby>券<rt>けん</rt></ruby></span>を<ruby>毎日<rt>まいにち</rt></ruby>９０００<ruby>枚<rt>まい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>配<rt>くば</rt></ruby>っ</span>ています。<ruby>土曜日<rt>どようび</rt></ruby>や<ruby>日曜日<rt>にちようび</rt></ruby>などには１<ruby>時間<rt>じかん</rt></ruby>で<ruby>全部<rt>ぜんぶ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>配<rt>くば</rt></ruby>り</span><ruby>終<rt>お</rt></ruby>わることがあります。</p>\n\
+  <p><ruby>動物園<rt>どうぶつえん</rt></ruby>は５<ruby>月<rt>がつ</rt></ruby>の<span style=\"color:\
+  \ blue;\"><ruby>連休<rt>れんきゅう</rt></ruby></span>にとても<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>が<ruby>来<rt>く</rt></ruby>ると<ruby>考<rt>かんが</rt></ruby>えて、５<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>から<ruby>６日<rt>むいか</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にシャンシャンを<ruby>見<rt>み</rt></ruby>るための<span\
+  \ style=\"color: blue;\"><ruby>抽選<rt>ちゅうせん</rt></ruby></span>をすることにしました。</p>\n<p>この<ruby>間<rt>あいだ</rt></ruby>にシャンシャンを<ruby>見<rt>み</rt></ruby>たい<ruby>人<rt>ひと</rt></ruby>は、４<ruby>月<rt>がつ</rt></ruby><ruby>２日<rt>ふつか</rt></ruby>までに「<span\
+  \ style=\"color: blue;\"><ruby>往復<rt>おうふく</rt></ruby></span>はがき」を<ruby>送<rt>おく</rt></ruby>らなければなりません。<span\
+  \ style=\"color: blue;\"><ruby>抽選<rt>ちゅうせん</rt></ruby></span>で<span style=\"color:\
+  \ blue;\"><ruby>当<rt>あ</rt></ruby>たっ</span>た<ruby>人<rt>ひと</rt></ruby>には、シャンシャンを<ruby>見<rt>み</rt></ruby>ることができる<ruby>日<rt>ひ</rt></ruby>や<ruby>時間<rt>じかん</rt></ruby>が<ruby>書<rt>か</rt></ruby>いたはがきが<ruby>戻<rt>もど</rt></ruby>ってきます。</p>\n\
+  <p><ruby>動物園<rt>どうぶつえん</rt></ruby>は、この<ruby>間<rt>あいだ</rt></ruby>に３<ruby>万<rt>まん</rt></ruby>９０００<ruby>人<rt>にん</rt></ruby>ぐらいが<ruby>見<rt>み</rt></ruby>ることができると<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 連休
+  descriptions:
+  - <ruby><rb>休</rb><rt>やす</rt></ruby>みの<ruby><rb>日</rb><rt>ひ</rt></ruby>が<ruby><rb>続</rb><rt>つづ</rt></ruby>くこと。また、<ruby><rb>続</rb><rt>つづ</rt></ruby>いた<ruby><rb>休日</rb><rt>きゅうじつ</rt></ruby>。
+- word: 抽選
+  descriptions:
+  - くじ<ruby><rb>引</rb><rt>び</rt></ruby>き。
+- word: パンダ
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中央部</rb><rt>ちゅうおうぶ</rt></ruby>にすむけもの。ジャイアントパンダとレッサーパンダがいる。
+  - <ruby><rb>特</rb><rt>とく</rt></ruby>にジャイアントパンダ。<ruby><rb>中国西部</rb><rt>ちゅうごくせいぶ</rt></ruby>の<ruby><rb>山地</rb><rt>さんち</rt></ruby>にすむ。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>に<ruby><rb>色分</rb><rt>いろわ</rt></ruby>けされて、<ruby><rb>顔</rb><rt>かお</rt></ruby>つきや<ruby><rb>動作</rb><rt>どうさ</rt></ruby>がかわいい。
+- word: 券
+  descriptions:
+  - きっぷ。<ruby><rb>札</rb><rt>ふだ</rt></ruby>。
+  - おさつ。また、お<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>代</rb><rt>か</rt></ruby>わりになる<ruby><rb>札</rb><rt>ふだ</rt></ruby>。
+- word: 配る
+  descriptions:
+  - <ruby><rb>分</rb><rt>わ</rt></ruby>けて、わたす。
+  - <ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>行</rb><rt>い</rt></ruby>きわたらせる。
+- word: 配る
+  descriptions:
+  - <ruby><rb>分</rb><rt>わ</rt></ruby>けて、わたす。
+  - <ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>行</rb><rt>い</rt></ruby>きわたらせる。
+- word: 往復
+  descriptions:
+  - <ruby><rb>行</rb><rt>い</rt></ruby>ったり<ruby><rb>来</rb><rt>き</rt></ruby>たりすること。<ruby><rb>行</rb><rt>い</rt></ruby>きと<ruby><rb>帰</rb><rt>かえ</rt></ruby>り。
+  - やり<ruby><rb>取</rb><rt>と</rt></ruby>り。
+- word: 当たる
+  descriptions:
+  - ぶつかる。
+  - <ruby><rb>命中</rb><rt>めいちゅう</rt></ruby>する。
+  - ねらったとおりうまくいく。
+  - （<ruby><rb>光</rb><rt>ひかり</rt></ruby>・<ruby><rb>風</rb><rt>かぜ</rt></ruby>などを）<ruby><rb>受</rb><rt>う</rt></ruby>けるようにする。
+  - ちょうど<ruby><rb>当</rb><rt>あ</rt></ruby>てはまる。
+  - その<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>にある。
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>ける。
+  - <ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。
+  - <ruby><rb>確</rb><rt>たし</rt></ruby>かめる。<ruby><rb>調</rb><rt>しら</rt></ruby>べる。
+  - ひどい<ruby><rb>目</rb><rt>め</rt></ruby>にあわせる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011374671000/k10011374671000.html
+web_title_with_ruby: <ruby>シャンシャン<rt>しゃんしゃん</rt></ruby> <ruby>大型<rt>おおがた</rt></ruby><ruby>連休中<rt>れんきゅうちゅう</rt></ruby>の<ruby>観覧<rt>かんらん</rt></ruby>は<ruby>抽選<rt>ちゅうせん</rt></ruby>に
+  <ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/22/シャンシャン-大型連休中の観覧は抽選に-上野動物園
+related_news:
+- title: パンダのシャンシャン　<ruby>並<rt>なら</rt></ruby>んだ<ruby>順番<rt>じゅんばん</rt></ruby>で<ruby>見<rt>み</rt></ruby>ることができる
+  url: https://newswebeasy.github.io/news/easy/2018/02/01/パンダのシャンシャン-並んだ順番で見ることができる
+- title: <ruby>東京<rt>とうきょう</rt></ruby>オリンピックで<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>たい<ruby>競技<rt>きょうぎ</rt></ruby>　１<ruby>番<rt>ばん</rt></ruby>はバレーボール
+  url: https://newswebeasy.github.io/news/easy/2018/03/15/東京オリンピックで若い人が見たい競技-1番はバレーボール
+- title: <ruby>動物園<rt>どうぶつえん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>がたばこを<ruby>投<rt>な</rt></ruby>げてオランウータンが<ruby>吸<rt>す</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/03/12/動物園に来た人がたばこを投げてオランウータンが吸う
+...

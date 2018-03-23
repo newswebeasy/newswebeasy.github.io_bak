@@ -1,0 +1,69 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011375351000
+last_modified_at: '2018-03-23T16:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: ２００８年から２０１３年まで韓国の大統領だったイ・ミョンバクさんが２２日の夜、逮捕されました。
+title: 韓国　大統領だったイ・ミョンバクさんが逮捕される
+title_with_ruby: <ruby>韓国<rt>かんこく</rt></ruby>　<ruby>大統領<rt>だいとうりょう</rt></ruby>だったイ・ミョンバクさんが<ruby>逮捕<rt>たいほ</rt></ruby>される
+outline: ２００８年から２０１３年まで韓国の大統領だったイ・ミョンバクさんが２２日の夜、逮捕されました。
+outline_with_ruby: ２００８<ruby>年<rt>ねん</rt></ruby>から２０１３<ruby>年<rt>ねん</rt></ruby>まで<ruby>韓国<rt>かんこく</rt></ruby>の<ruby>大統領<rt>だいとうりょう</rt></ruby>だったイ・ミョンバクさんが２２<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>逮捕<rt>たいほ</rt></ruby>されました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/23/K10011375351_1803230511_1803230513_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/23/k10011375351000.mp3
+content_with_ruby: "<p>２００８<ruby>年<rt>ねん</rt></ruby>から２０１３<ruby>年<rt>ねん</rt></ruby>まで<ruby>韓国<rt>かんこく</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>だったイ・ミョンバクさんが２２<ruby>日<rt>にち</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>逮捕<rt>たいほ</rt></ruby></span>されました。</p>\n<p><ruby>韓国<rt>かんこく</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>だった<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>逮捕<rt>たいほ</rt></ruby></span>されたのは４<ruby>人<rt>にん</rt></ruby><ruby>目<rt>め</rt></ruby>です。イさんの<ruby>次<rt>つぎ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>になったパク・クネさんも<ruby>去年<rt>きょねん</rt></ruby>の３<ruby>月<rt>がつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>逮捕<rt>たいほ</rt></ruby></span>されました。</p>\n<p>イさんは、<ruby>自分<rt>じぶん</rt></ruby>と<ruby>関係<rt>かんけい</rt></ruby>がある<ruby>会社<rt>かいしゃ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>裁判<rt>さいばん</rt></ruby></span>に<ruby>必要<rt>ひつよう</rt></ruby>なお<ruby>金<rt>かね</rt></ruby>をサムスン<ruby>電子<rt>でんし</rt></ruby>に<ruby>払<rt>はら</rt></ruby>ってもらって、その<ruby>代<rt>か</rt></ruby>わりにサムスン<ruby>電子<rt>でんし</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>会長<rt>かいちょう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>罪<rt>つみ</rt></ruby></span>を<ruby>軽<rt>かる</rt></ruby>くした<span style=\"\
+  color: blue;\"><ruby>疑<rt>うたが</rt></ruby>い</span>があります。ほかにも、<ruby>国<rt>くに</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>不正<rt>ふせい</rt></ruby></span>にもらった<span style=\"color:\
+  \ blue;\"><ruby>疑<rt>うたが</rt></ruby>い</span>などがあります。イさんがもらったお<ruby>金<rt>かね</rt></ruby>を<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>足<rt>た</rt></ruby>すと１１<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>になると<ruby>言<rt>い</rt></ruby>われています。</p>\n\
+  <p>イさんは<span style=\"color: blue;\"><ruby>逮捕<rt>たいほ</rt></ruby></span>される<ruby>前<rt>まえ</rt></ruby>、「きれいな<ruby>政治<rt>せいじ</rt></ruby>をしようと<ruby>思<rt>おも</rt></ruby>っていましたが、<ruby>十分<rt>じゅうぶん</rt></ruby>ではありませんでした」とインターネットに<ruby>書<rt>か</rt></ruby>いていました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 逮捕
+  descriptions:
+  - <ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>がつかまえること。
+- word: 裁判
+  descriptions:
+  - <ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>が、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>にもとづいて、それがよいか<ruby><rb>悪</rb><rt>わる</rt></ruby>いかを<ruby><rb>決</rb><rt>き</rt></ruby>めること。
+- word: 会長
+  descriptions:
+  - <ruby><rb>会</rb><rt>かい</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 罪
+  descriptions:
+  - <ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>や、<ruby><rb>人</rb><rt>ひと</rt></ruby>として<ruby><rb>守</rb><rt>まも</rt></ruby>らなければならないことに、そむいた<ruby><rb>行</rb><rt>おこな</rt></ruby>い。<ruby><rb>犯罪</rb><rt>はんざい</rt></ruby>。
+  - ばつ。
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>いやりがなく、<ruby><rb>意地悪</rb><rt>いじわる</rt></ruby>なようす。
+- word: 疑い
+  descriptions:
+  - あやしいと<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>変</rb><rt>へん</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。
+- word: 不正
+  descriptions:
+  - <ruby><rb>正</rb><rt>ただ</rt></ruby>しくないこと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011375351000/k10011375351000.html
+web_title_with_ruby: <ruby>韓国<rt>かんこく</rt></ruby> <ruby>イ<rt>い</rt></ruby>・<ruby>ミョンバク<rt>みょんばく</rt></ruby><ruby>氏<rt>し</rt></ruby><ruby>逮捕<rt>たいほ</rt></ruby>
+  <ruby>大統領<rt>だいとうりょう</rt></ruby><ruby>経験者<rt>けいけんしゃ</rt></ruby>の<ruby>逮捕<rt>たいほ</rt></ruby>は４<ruby>人目<rt>にんめ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/23/韓国-イミョンバク氏逮捕-大統領経験者の逮捕は4人目
+related_news:
+- title: <ruby>韓国<rt>かんこく</rt></ruby>　<ruby>前<rt>まえ</rt></ruby>の<ruby>大統領<rt>だいとうりょう</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>のチェ<ruby>被告<rt>ひこく</rt></ruby>が<ruby>懲役<rt>ちょうえき</rt></ruby>２０<ruby>年<rt>ねん</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/02/14/韓国-前の大統領の友達のチェ被告が懲役20年になる
+- title: ロシア　<ruby>次<rt>つぎ</rt></ruby>の<ruby>大統領<rt>だいとうりょう</rt></ruby>はプーチンさんに<ruby>決<rt>き</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/03/19/ロシア-次の大統領はプーチンさんに決まる
+- title: <ruby>韓国<rt>かんこく</rt></ruby>とアメリカ「オリンピックの<ruby>間<rt>あいだ</rt></ruby>は<ruby>軍<rt>ぐん</rt></ruby>の<ruby>訓練<rt>くんれん</rt></ruby>をしない」
+  url: https://newswebeasy.github.io/news/easy/2018/01/05/韓国とアメリカオリンピックの間は軍の訓練をしない
+- title: インターネットでお<ruby>金<rt>かね</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>使<rt>つか</rt></ruby>う「ＮＥＭ」がなくなる
+  url: https://newswebeasy.github.io/news/easy/2018/01/29/インターネットでお金と同じように使うNEMがなくなる
+- title: <ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>使<rt>つか</rt></ruby>ったお<ruby>金<rt>かね</rt></ruby>　<ruby>初<rt>はじ</rt></ruby>めて４<ruby>兆<rt>ちょう</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/01/17/旅行に来た外国人が使ったお金-初めて4兆円以上になる
+...
