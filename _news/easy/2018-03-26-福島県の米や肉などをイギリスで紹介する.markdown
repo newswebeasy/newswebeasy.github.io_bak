@@ -1,0 +1,62 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011375491000
+last_modified_at: '2018-03-26T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>26<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 福島県の内堀知事は２２日、イギリスにある日本大使館で福島県を紹介するイベントに出席しました。
+title: 福島県の米や肉などをイギリスで紹介する
+title_with_ruby: <ruby>福島県<rt>ふくしまけん</rt></ruby>の<ruby>米<rt>こめ</rt></ruby>や<ruby>肉<rt>にく</rt></ruby>などをイギリスで<ruby>紹介<rt>しょうかい</rt></ruby>する
+outline: 福島県の内堀知事は２２日、イギリスにある日本大使館で福島県を紹介するイベントに出席しました。
+outline_with_ruby: <ruby>福島県<rt>ふくしまけん</rt></ruby>の<ruby>内堀<rt>うちぼり</rt></ruby><ruby>知事<rt>ちじ</rt></ruby>は２２<ruby>日<rt>にち</rt></ruby>、イギリスにある<ruby>日本大使館<rt>にっぽんたいしかん</rt></ruby>で<ruby>福島県<rt>ふくしまけん</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベントに<ruby>出席<rt>しゅっせき</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/23/K10011375491_1803230837_1803230839_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/26/k10011375491000.mp3
+content_with_ruby: "<p><ruby>福島県<rt>ふくしまけん</rt></ruby>の<ruby>内堀<rt>うちぼり</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>知事<rt>ちじ</rt></ruby></span>は２２<ruby>日<rt>にち</rt></ruby>、イギリスにある<ruby>日本大使館<rt>にっぽんたいしかん</rt></ruby>で<ruby>福島県<rt>ふくしまけん</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する<span\
+  \ style=\"color: blue;\">イベント</span>に<ruby>出席<rt>しゅっせき</rt></ruby>しました。<ruby>内堀<rt>うちぼり</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>知事<rt>ちじ</rt></ruby></span>は「<ruby>東日本大震災<rt>ひがしにほんだいしんさい</rt></ruby>から７<ruby>年<rt>ねん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>応援<rt>おうえん</rt></ruby></span>してくれてありがとうございます。これからも<ruby>福島<rt>ふくしま</rt></ruby>が<ruby>元気<rt>げんき</rt></ruby>になるように<span\
+  \ style=\"color: blue;\"><ruby>努力<rt>どりょく</rt></ruby></span>を<ruby>続<rt>つづ</rt></ruby>けます」とあいさつしました。</p>\n\
+  <p><ruby>会場<rt>かいじょう</rt></ruby>では、<ruby>福島県<rt>ふくしまけん</rt></ruby>でつくった<ruby>米<rt>こめ</rt></ruby>や<ruby>牛肉<rt>ぎゅうにく</rt></ruby>などを<ruby>使<rt>つか</rt></ruby>った<ruby>料理<rt>りょうり</rt></ruby>をイギリスの<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>や<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちに<ruby>食<rt>た</rt></ruby>べてもらいました。<ruby>食<rt>た</rt></ruby>べた<ruby>人<rt>ひと</rt></ruby>たちは「こんなにおいしい<span\
+  \ style=\"color: blue;\">すし</span>は<ruby>初<rt>はじ</rt></ruby>めて<ruby>食<rt>た</rt></ruby>べました」とか、「これからは<ruby>福島県<rt>ふくしまけん</rt></ruby>の<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>買<rt>か</rt></ruby>うようにしたいです」などと<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>内堀<rt>うちぼり</rt></ruby><span style=\"color: blue;\"><ruby>知事<rt>ちじ</rt></ruby></span>は「<ruby>世界<rt>せかい</rt></ruby>にはまだ<ruby>福島県<rt>ふくしまけん</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>や<ruby>肉<rt>にく</rt></ruby>などを<ruby>心配<rt>しんぱい</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>がいます。<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>をしっかり<span\
+  \ style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>っ</span>て、<ruby>世界<rt>せかい</rt></ruby>に<ruby>紹介<rt>しょうかい</rt></ruby>していきたいです」と<ruby>言<rt>い</rt></ruby>いました。<ruby>内堀<rt>うちぼり</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>知事<rt>ちじ</rt></ruby></span>は、このあとフランスにも<ruby>行<rt>い</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 知事
+  descriptions:
+  - <ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 応援
+  descriptions:
+  - <ruby><rb>味方</rb><rt>みかた</rt></ruby>を、はげますこと。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>をかして<ruby><rb>助</rb><rt>たす</rt></ruby>けること。
+- word: 努力
+  descriptions:
+  - <ruby><rb>一生懸命</rb><rt>いっしょうけんめい</rt></ruby>にすること。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 鮨・
+  descriptions:
+  - <ruby><rb>酢</rb><rt>す</rt></ruby>で<ruby><rb>味</rb><rt>あじ</rt></ruby>をつけたご<ruby><rb>飯</rb><rt>はん</rt></ruby>に、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や、<ruby><rb>貝</rb><rt>かい</rt></ruby>・<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などをのせたり、<ruby><rb>混</rb><rt>ま</rt></ruby>ぜたりした<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。にぎりずし・<ruby><rb>巻</rb><rt>ま</rt></ruby>きずし・ちらしずしなど。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011375491000/k10011375491000.html
+web_title_with_ruby: <ruby>福島県<rt>ふくしまけん</rt></ruby><ruby>知事<rt>ちじ</rt></ruby> <ruby>販路<rt>はんろ</rt></ruby><ruby>拡大<rt>かくだい</rt></ruby>へ<ruby>英<rt>えい</rt></ruby>で<ruby>農産物<rt>のうさんぶつ</rt></ruby><ruby>アピール<rt>あぴーる</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/23/福島県知事-販路拡大へ英で農産物アピール
+related_news:
+- title: タイで<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>音楽<rt>おんがく</rt></ruby>や<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント
+  url: https://newswebeasy.github.io/news/easy/2018/01/30/タイで日本の音楽や食べ物を紹介するイベント
+- title: <ruby>世界<rt>せかい</rt></ruby>のお<ruby>酒<rt>さけ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント　<ruby>日本酒<rt>にほんしゅ</rt></ruby>も<ruby>紹介<rt>しょうかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/03/22/世界のお酒を紹介するイベント-日本酒も紹介
+...
