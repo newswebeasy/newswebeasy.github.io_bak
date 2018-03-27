@@ -1,0 +1,87 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011378581000
+last_modified_at: '2018-03-27T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 国は今まで、土地や山の高さを測るとき、８０ｍ先までの土地の高さの差を測る機械を使って、少しずつ調べていました。
+title: 土地や山の高さを早く測ることができるようにする
+title_with_ruby: <ruby>土地<rt>とち</rt></ruby>や<ruby>山<rt>やま</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さを<ruby>早<rt>はや</rt></ruby>く<ruby>測<rt>はか</rt></ruby>ることができるようにする
+outline: 国は今まで、土地や山の高さを測るとき、８０ｍ先までの土地の高さの差を測る機械を使って、少しずつ調べていました。
+outline_with_ruby: <ruby>国<rt>くに</rt></ruby>は<ruby>今<rt>いま</rt></ruby>まで、<ruby>土地<rt>とち</rt></ruby>や<ruby>山<rt>やま</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さを<ruby>測<rt>はか</rt></ruby>るとき、８０ｍ<ruby>先<rt>さき</rt></ruby>までの<ruby>土地<rt>とち</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さの<ruby>差<rt>さ</rt></ruby>を<ruby>測<rt>はか</rt></ruby>る<ruby>機械<rt>きかい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>調<rt>しら</rt></ruby>べていました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/26/K10011378581_1803260103_1803260504_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/27/k10011378581000.mp3
+content_with_ruby: "<p><ruby>国<rt>くに</rt></ruby>は<ruby>今<rt>いま</rt></ruby>まで、<span\
+  \ style=\"color: blue;\"><ruby>土地<rt>とち</rt></ruby></span>や<ruby>山<rt>やま</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さを<span\
+  \ style=\"color: blue;\"><ruby>測<rt>はか</rt></ruby>る</span>とき、８０ｍ<ruby>先<rt>さき</rt></ruby>までの<span\
+  \ style=\"color: blue;\"><ruby>土地<rt>とち</rt></ruby></span>の<ruby>高<rt>たか</rt></ruby>さの<span\
+  \ style=\"color: blue;\"><ruby>差<rt>さ</rt></ruby></span>を<span style=\"color: blue;\"\
+  ><ruby>測<rt>はか</rt></ruby>る</span><ruby>機械<rt>きかい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って、<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>調<rt>しら</rt></ruby>べていました。この<span\
+  \ style=\"color: blue;\"><ruby>方法<rt>ほうほう</rt></ruby></span>では、<ruby>日本<rt>にっぽん</rt></ruby><ruby>全部<rt>ぜんぶ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>土地<rt>とち</rt></ruby></span>や<ruby>山<rt>やま</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さを<ruby>調<rt>しら</rt></ruby>べるために１０<ruby>年<rt>ねん</rt></ruby>ぐらいかかります。</p>\n\
+  <p>２０１１<ruby>年<rt>ねん</rt></ruby>の<ruby>東日本大震災<rt>ひがしにほんだいしんさい</rt></ruby>では、<span\
+  \ style=\"color: blue;\"><ruby>地面<rt>じめん</rt></ruby></span>が<ruby>大<rt>おお</rt></ruby>きく<ruby>動<rt>うご</rt></ruby>いて、<span\
+  \ style=\"color: blue;\"><ruby>土地<rt>とち</rt></ruby></span>の<ruby>高<rt>たか</rt></ruby>さが<ruby>変<rt>か</rt></ruby>わった<ruby>所<rt>ところ</rt></ruby>がたくさんありました。<span\
+  \ style=\"color: blue;\"><ruby>土地<rt>とち</rt></ruby></span>の<ruby>高<rt>たか</rt></ruby>さを<span\
+  \ style=\"color: blue;\"><ruby>測<rt>はか</rt></ruby>る</span><ruby>仕事<rt>しごと</rt></ruby>に７か<ruby>月<rt>げつ</rt></ruby>ぐらいかかったため、もう<ruby>一度<rt>いちど</rt></ruby>まちをつくる<ruby>計画<rt>けいかく</rt></ruby>ができるのが<ruby>遅<rt>おそ</rt></ruby>くなりました。</p>\n\
+  <p>このため<span style=\"color: blue;\"><ruby>国土地理院<rt>こくどちりいん</rt></ruby></span>は、もっと<ruby>早<rt>はや</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>測<rt>はか</rt></ruby>る</span>ことができるように、<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>方法<rt>ほうほう</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>うことにしました。<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>方法<rt>ほうほう</rt></ruby></span>では、ＧＰＳなど<span style=\"\
+  color: blue;\"><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></span>で<ruby>調<rt>しら</rt></ruby>べた<span\
+  \ style=\"color: blue;\"><ruby>土地<rt>とち</rt></ruby></span>の<ruby>高<rt>たか</rt></ruby>さの<span\
+  \ style=\"color: blue;\">データ</span>と、<ruby>飛行機<rt>ひこうき</rt></ruby>で<ruby>空<rt>そら</rt></ruby>から<ruby>調<rt>しら</rt></ruby>べた<span\
+  \ style=\"color: blue;\">データ</span>を<ruby>使<rt>つか</rt></ruby>います。</p>\n<p><span\
+  \ style=\"color: blue;\"><ruby>国土地理院<rt>こくどちりいん</rt></ruby></span>は「これからは<span style=\"\
+  color: blue;\"><ruby>災害<rt>さいがい</rt></ruby></span>のあと、もう<ruby>一度<rt>いちど</rt></ruby>まちをつくることが<ruby>早<rt>はや</rt></ruby>くできるようになります。<ruby>車<rt>くるま</rt></ruby>で<ruby>使<rt>つか</rt></ruby>うカーナビは、もっと<span\
+  \ style=\"color: blue;\"><ruby>正確<rt>せいかく</rt></ruby></span>に<ruby>道<rt>みち</rt></ruby>の<ruby>案内<rt>あんない</rt></ruby>ができるようになります」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 土地
+  descriptions:
+  - つち。<ruby><rb>大地</rb><rt>だいち</rt></ruby>。
+  - <ruby><rb>地面</rb><rt>じめん</rt></ruby>。<ruby><rb>地所</rb><rt>じしょ</rt></ruby>。
+  - その<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。
+- word: 測る
+  descriptions:
+  - <ruby><rb>長</rb><rt>なが</rt></ruby>さ・<ruby><rb>高</rb><rt>たか</rt></ruby>さ・<ruby><rb>深</rb><rt>ふか</rt></ruby>さ・<ruby><rb>広</rb><rt>ひろ</rt></ruby>さなどを<ruby><rb>調</rb><rt>しら</rt></ruby>べる。
+- word: 差
+  descriptions:
+  - ちがい。へだたり。
+  - ある<ruby><rb>数</rb><rt>かず</rt></ruby>からほかの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>残</rb><rt>のこ</rt></ruby>りの<ruby><rb>数</rb><rt>かず</rt></ruby>。
+- word: 方法
+  descriptions:
+  - ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。
+- word: 地面
+  descriptions:
+  - <ruby><rb>土地</rb><rt>とち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>土</rb><rt>つち</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>。<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>。<ruby><rb>地</rb><rt>じ</rt></ruby>べた。
+  - <ruby><rb>土地</rb><rt>とち</rt></ruby>。<ruby><rb>地所</rb><rt>じしょ</rt></ruby>。
+- word: 国土地理院
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>国土</rb><rt>こくど</rt></ruby>の<ruby><rb>測量</rb><rt>そくりょう</rt></ruby>をし、<ruby><rb>地図</rb><rt>ちず</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 人工衛星
+  descriptions:
+  - ロケットで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げ、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>るようにした、<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>。<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>のようすや<ruby><rb>気象</rb><rt>きしょう</rt></ruby>などを<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>などの<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>の<ruby><rb>中継</rb><rt>ちゅうけい</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>てたりする。
+- word: データ
+  descriptions:
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。
+  - コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。
+- word: 災害
+  descriptions:
+  - <ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。
+- word: 正確
+  descriptions:
+  - <ruby><rb>正</rb><rt>ただ</rt></ruby>しくてまちがいのないこと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011378581000/k10011378581000.html
+web_title_with_ruby: <ruby>標高<rt>ひょうこう</rt></ruby>の<ruby>決<rt>き</rt></ruby>め<ruby>方<rt>かた</rt></ruby>
+  <ruby>変<rt>か</rt></ruby>わります
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/26/標高の決め方-変わります
+related_news:
+- title: <ruby>成田空港<rt>なりたくうこう</rt></ruby>　<ruby>客<rt>きゃく</rt></ruby>の<ruby>荷物<rt>にもつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>立体<rt>りったい</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>見<rt>み</rt></ruby>る<ruby>機械<rt>きかい</rt></ruby>の<ruby>実験<rt>じっけん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/02/19/成田空港-客の荷物の中を立体的に見る機械の実験
+- title: <ruby>雪<rt>ゆき</rt></ruby>の<ruby>道<rt>みち</rt></ruby>で<ruby>車<rt>くるま</rt></ruby>を<ruby>自動<rt>じどう</rt></ruby>で<ruby>運転<rt>うんてん</rt></ruby>する<ruby>実験<rt>じっけん</rt></ruby>　<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/02/08/雪の道で車を自動で運転する実験-人工衛星を使う
+- title: とても<ruby>小<rt>ちい</rt></ruby>さいロケットを<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げることに<ruby>成功<rt>せいこう</rt></ruby>した
+  url: https://newswebeasy.github.io/news/easy/2018/02/05/とても小さいロケットを打ち上げることに成功した
+...
