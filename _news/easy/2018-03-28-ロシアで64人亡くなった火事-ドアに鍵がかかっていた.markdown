@@ -1,0 +1,46 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011382001000
+last_modified_at: '2018-03-28T17:05:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>05<ruby>分<rt>ふん</rt></ruby>
+description: ロシアのシベリアで２５日、ショッピングセンターが火事になって６４人が亡くなりました。
+title: ロシアで６４人亡くなった火事　ドアに鍵がかかっていた
+title_with_ruby: ロシアで６４<ruby>人<rt>にん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなった<ruby>火事<rt>かじ</rt></ruby>　ドアに<ruby>鍵<rt>かぎ</rt></ruby>がかかっていた
+outline: ロシアのシベリアで２５日、ショッピングセンターが火事になって６４人が亡くなりました。
+outline_with_ruby: ロシアのシベリアで２５<ruby>日<rt>にち</rt></ruby>、ショッピングセンターが<ruby>火事<rt>かじ</rt></ruby>になって６４<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/28/K10011382001_1803280523_1803280524_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/28/k10011382001000.mp4
+content_with_ruby: "<p>ロシアのシベリアで２５<ruby>日<rt>にち</rt></ruby>、ショッピングセンターが<ruby>火事<rt>かじ</rt></ruby>になって６４<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。<ruby>火<rt>ひ</rt></ruby>が<ruby>出<rt>で</rt></ruby>た４<ruby>階<rt>かい</rt></ruby>には<ruby>映画館<rt>えいがかん</rt></ruby>や<ruby>子<rt>こ</rt></ruby>どものための<span\
+  \ style=\"color: blue;\"><ruby>施設<rt>しせつ</rt></ruby></span>があって、たくさんの<ruby>子<rt>こ</rt></ruby>どもが<ruby>亡<rt>な</rt></ruby>くなりました。</p>\n\
+  <p><ruby>火事<rt>かじ</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べている<ruby>捜査委員会<rt>そうさいいんかい</rt></ruby>によると、<ruby>映画館<rt>えいがかん</rt></ruby>のドアに<ruby>鍵<rt>かぎ</rt></ruby>がかかっていたため、<ruby>中<rt>なか</rt></ruby>にいた<ruby>人<rt>ひと</rt></ruby>は<ruby>逃<rt>に</rt></ruby>げることができませんでした。<ruby>火<rt>ひ</rt></ruby>が<ruby>出<rt>で</rt></ruby>たことをみんなに<ruby>知<rt>し</rt></ruby>らせる<ruby>機械<rt>きかい</rt></ruby>も<ruby>壊<rt>こわ</rt></ruby>れていました。ショッピングセンターで<ruby>働<rt>はたら</rt></ruby>いていた<ruby>人<rt>ひと</rt></ruby>は<ruby>客<rt>きゃく</rt></ruby>より<ruby>先<rt>さき</rt></ruby>に<ruby>逃<rt>に</rt></ruby>げました。</p>\n\
+  <p>ロシアのプーチン<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は、<span\
+  \ style=\"color: blue;\"><ruby>責任<rt>せきにん</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>たちを<ruby>厳<rt>きび</rt></ruby>しく<span\
+  \ style=\"color: blue;\"><ruby>罰<rt>ばっ</rt></ruby>する</span>と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 施設
+  descriptions:
+  - <ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>利用</rb><rt>りよう</rt></ruby>できるように<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>設備</rb><rt>せつび</rt></ruby>。
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 責任
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>けてしなければならない<ruby><rb>務</rb><rt>つと</rt></ruby>め。
+- word: 罰する
+  descriptions:
+  - <ruby><rb>罰</rb><rt>ばつ</rt></ruby>をあたえる。こらしめる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011382001000/k10011382001000.html
+web_title_with_ruby: <ruby>映画館<rt>えいがかん</rt></ruby>に<ruby>鍵<rt>かぎ</rt></ruby>で<ruby>多<rt>おお</rt></ruby>くの<ruby>子<rt>こ</rt></ruby>ども<ruby>逃<rt>に</rt></ruby>げられず
+  <ruby>ロシア<rt>ろしあ</rt></ruby>64<ruby>人<rt>にん</rt></ruby><ruby>死亡<rt>しぼう</rt></ruby><ruby>火災<rt>かさい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/28/映画館に鍵で多くの子ども逃げられず-ロシア64人死亡火災
+related_news:
+- title: イギリス「スパイだった<ruby>男性<rt>だんせい</rt></ruby>に<ruby>使<rt>つか</rt></ruby>った<ruby>毒<rt>どく</rt></ruby>はロシアが<ruby>作<rt>つく</rt></ruby>った」
+  url: https://newswebeasy.github.io/news/easy/2018/03/14/イギリススパイだった男性に使った毒はロシアが作った
+- title: ロシア　<ruby>次<rt>つぎ</rt></ruby>の<ruby>大統領<rt>だいとうりょう</rt></ruby>はプーチンさんに<ruby>決<rt>き</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/03/19/ロシア-次の大統領はプーチンさんに決まる
+- title: ２４の<ruby>国<rt>くに</rt></ruby>がロシアの<ruby>外交官<rt>がいこうかん</rt></ruby>に<ruby>国<rt>くに</rt></ruby>から<ruby>出<rt>で</rt></ruby>て<ruby>行<rt>い</rt></ruby>くように<ruby>言<rt>い</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/03/27/24の国がロシアの外交官に国から出て行くように言う
+...
