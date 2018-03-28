@@ -1,0 +1,68 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011379981000
+last_modified_at: '2018-03-28T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 「国際アンデルセン賞」は子どものための本を書いたすばらしい作家や画家に贈る賞です。
+title: 作家の角野栄子さんが「国際アンデルセン賞」に決まる
+title_with_ruby: <ruby>作家<rt>さっか</rt></ruby>の<ruby>角野<rt>かどの</rt></ruby><ruby>栄子<rt>えいこ</rt></ruby>さんが「<ruby>国際<rt>こくさい</rt></ruby>アンデルセン<ruby>賞<rt>しょう</rt></ruby>」に<ruby>決<rt>き</rt></ruby>まる
+outline: 「国際アンデルセン賞」は子どものための本を書いたすばらしい作家や画家に贈る賞です。
+outline_with_ruby: 「<ruby>国際<rt>こくさい</rt></ruby>アンデルセン<ruby>賞<rt>しょう</rt></ruby>」は<ruby>子<rt>こ</rt></ruby>どものための<ruby>本<rt>ほん</rt></ruby>を<ruby>書<rt>か</rt></ruby>いたすばらしい<ruby>作家<rt>さっか</rt></ruby>や<ruby>画家<rt>がか</rt></ruby>に<ruby>贈<rt>おく</rt></ruby>る<ruby>賞<rt>しょう</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/27/K10011379981_1803270814_1803270826_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/28/k10011379981000.mp4
+content_with_ruby: "<p>「<ruby>国際<rt>こくさい</rt></ruby>アンデルセン<ruby>賞<rt>しょう</rt></ruby>」は<ruby>子<rt>こ</rt></ruby>どものための<ruby>本<rt>ほん</rt></ruby>を<ruby>書<rt>か</rt></ruby>いたすばらしい<span\
+  \ style=\"color: blue;\"><ruby>作家<rt>さっか</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>画家<rt>がか</rt></ruby></span>に<span style=\"color: blue;\"><ruby>贈<rt>おく</rt></ruby>る</span><span\
+  \ style=\"color: blue;\"><ruby>賞<rt>しょう</rt></ruby></span>です。スイスにある<ruby>国際児童図書評議会<rt>こくさいじどうとしょひょうぎかい</rt></ruby>という<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>が２<ruby>年<rt>ねん</rt></ruby>に１<ruby>度<rt>ど</rt></ruby>、この<span\
+  \ style=\"color: blue;\"><ruby>賞<rt>しょう</rt></ruby></span>を<ruby>選<rt>えら</rt></ruby>んでいます。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby>の「<ruby>国際<rt>こくさい</rt></ruby>アンデルセン<ruby>賞<rt>しょう</rt></ruby>」の<ruby>作家賞<rt>さっかしょう</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>角野<rt>かどの</rt></ruby><ruby>栄子<rt>えいこ</rt></ruby>さんに<ruby>決<rt>き</rt></ruby>まりました。</p>\n\
+  <p><ruby>角野<rt>かどの</rt></ruby>さんは<ruby>今<rt>いま</rt></ruby>までに２００ぐらいの<ruby>本<rt>ほん</rt></ruby>を<ruby>書<rt>か</rt></ruby>きました。<span\
+  \ style=\"color: blue;\"><ruby>魔女<rt>まじょ</rt></ruby></span>の<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>書<rt>か</rt></ruby>いた「<ruby>魔女<rt>まじょ</rt></ruby>の<ruby>宅急便<rt>たっきゅうびん</rt></ruby>」という<ruby>本<rt>ほん</rt></ruby>は、<ruby>宮崎<rt>みやざき</rt></ruby><ruby>駿<rt>はやお</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>監督<rt>かんとく</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">アニメ</span><ruby>映画<rt>えいが</rt></ruby>にもなりました。</p>\n<p><span style=\"color:\
+  \ blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>は「<ruby>角野<rt>かどの</rt></ruby>さんの<ruby>本<rt>ほん</rt></ruby>には、<ruby>言葉<rt>ことば</rt></ruby>で<ruby>言<rt>い</rt></ruby>うことができないぐらいの<span\
+  \ style=\"color: blue;\"><ruby>魅力<rt>みりょく</rt></ruby></span>や<ruby>優<rt>やさ</rt></ruby>しさなどがあります」と<ruby>言<rt>い</rt></ruby>っています。「<ruby>国際<rt>こくさい</rt></ruby>アンデルセン<ruby>賞<rt>しょう</rt></ruby>」の<ruby>作家賞<rt>さっかしょう</rt></ruby>をもらう<ruby>日本人<rt>にっぽんじん</rt></ruby>は、<ruby>角野<rt>かどの</rt></ruby>さんが３<ruby>人<rt>にん</rt></ruby><ruby>目<rt>め</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 作家
+  descriptions:
+  - <ruby><rb>小説</rb><rt>しょうせつ</rt></ruby>や<ruby><rb>劇</rb><rt>げき</rt></ruby>・<ruby><rb>童話</rb><rt>どうわ</rt></ruby>などを<ruby><rb>書</rb><rt>か</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 画家
+  descriptions:
+  - <ruby><rb>絵</rb><rt>え</rt></ruby>をかくことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>絵</rb><rt>え</rt></ruby>かき。
+- word: 贈る
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。
+- word: 賞
+  descriptions:
+  - ほめる。たたえる。
+  - ほうび。
+  - <ruby><rb>味</rb><rt>あじ</rt></ruby>わって<ruby><rb>楽</rb><rt>たの</rt></ruby>しむ。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 魔女
+  descriptions:
+  - <ruby><rb>魔術</rb><rt>まじゅつ</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>女</rb><rt>おんな</rt></ruby>。
+  - <ruby><rb>悪魔</rb><rt>あくま</rt></ruby>のような<ruby><rb>女</rb><rt>おんな</rt></ruby>。ふしぎな<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>女</rb><rt>おんな</rt></ruby>。
+- word: 監督
+  descriptions:
+  - <ruby><rb>指図</rb><rt>さしず</rt></ruby>や<ruby><rb>取</rb><rt>と</rt></ruby>りしまりなどをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: アニメーション
+  descriptions:
+  - かいた<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>を、<ruby><rb>動</rb><rt>うご</rt></ruby>きに<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>撮影</rb><rt>さつえい</rt></ruby>し、それを<ruby><rb>映</rb><rt>うつ</rt></ruby>して<ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>動</rb><rt>うご</rt></ruby>いているように<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>映画</rb><rt>えいが</rt></ruby>。<ruby><rb>動画</rb><rt>どうが</rt></ruby>。アニメ。
+- word: 魅力
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>きつける<ruby><rb>力</rb><rt>ちから</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011379981000/k10011379981000.html
+related_news:
+- title: <ruby>日本人<rt>にっぽんじん</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めてアカデミー<ruby>賞<rt>しょう</rt></ruby>のメーキャップの<ruby>賞<rt>しょう</rt></ruby>をもらう
+  url: https://newswebeasy.github.io/news/easy/2018/03/06/日本人が初めてアカデミー賞のメーキャップの賞をもらう
+- title: <ruby>村上春樹<rt>むらかみはるき</rt></ruby>さんの<ruby>小説<rt>しょうせつ</rt></ruby>「<ruby>騎士団長殺<rt>きしだんちょうごろ</rt></ruby>し」を<ruby>中国<rt>ちゅうごく</rt></ruby>で<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2018/03/13/村上春樹さんの小説騎士団長殺しを中国で売り始める
+...
