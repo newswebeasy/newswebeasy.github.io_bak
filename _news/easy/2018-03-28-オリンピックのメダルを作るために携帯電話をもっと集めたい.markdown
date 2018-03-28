@@ -71,6 +71,10 @@ words:
   descriptions:
   - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>をするための<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。スタジアム。
 source_url: http://www3.nhk.or.jp/news/easy/k10011378511000/k10011378511000.html
+web_title_with_ruby: <ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>し<ruby>時期<rt>じき</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせ
+  “<ruby>メダル<rt>めだる</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>金属<rt>きんぞく</rt></ruby>
+  <ruby>提供<rt>ていきょう</rt></ruby>を”<ruby>東京都<rt>とうきょうと</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/26/引っ越し時期に合わせ-メダル用金属-提供を東京都
 related_news:
 - title: <ruby>携帯電話<rt>けいたいでんわ</rt></ruby>がＡＴＭの<ruby>近<rt>ちか</rt></ruby>くで<ruby>使<rt>つか</rt></ruby>いにくくなる<ruby>機械<rt>きかい</rt></ruby>を<ruby>置<rt>お</rt></ruby>く
   url: https://newswebeasy.github.io/news/easy/2018/01/12/携帯電話がATMの近くで使いにくくなる機械を置く

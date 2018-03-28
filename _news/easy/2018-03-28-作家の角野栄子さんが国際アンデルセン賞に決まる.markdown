@@ -60,6 +60,8 @@ words:
   descriptions:
   - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>きつける<ruby><rb>力</rb><rt>ちから</rt></ruby>。
 source_url: http://www3.nhk.or.jp/news/easy/k10011379981000/k10011379981000.html
+web_title_with_ruby: <ruby>児童文学<rt>じどうぶんがく</rt></ruby> <ruby>国際<rt>こくさい</rt></ruby><ruby>アンデルセン<rt>あんでるせん</rt></ruby><ruby>賞<rt>しょう</rt></ruby>の<ruby>作家<rt>さっか</rt></ruby><ruby>賞<rt>しょう</rt></ruby>に<ruby>角野<rt>かどの</rt></ruby><ruby>栄子<rt>えいこ</rt></ruby>さん
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/27/児童文学-国際アンデルセン賞の作家賞に角野栄子さん
 related_news:
 - title: <ruby>日本人<rt>にっぽんじん</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めてアカデミー<ruby>賞<rt>しょう</rt></ruby>のメーキャップの<ruby>賞<rt>しょう</rt></ruby>をもらう
   url: https://newswebeasy.github.io/news/easy/2018/03/06/日本人が初めてアカデミー賞のメーキャップの賞をもらう
