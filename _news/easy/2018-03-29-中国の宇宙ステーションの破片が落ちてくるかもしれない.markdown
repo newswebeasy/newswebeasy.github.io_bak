@@ -1,0 +1,80 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011382671000
+last_modified_at: '2018-03-29T18:05:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>29<ruby>日<rt>にち</rt></ruby>
+  18<ruby>時<rt>じ</rt></ruby>05<ruby>分<rt>ふん</rt></ruby>
+description: 中国は２０１１年に「天宮１号」という宇宙ステーションを打ち上げました。
+title: 中国の宇宙ステーションの破片が落ちてくるかもしれない
+title_with_ruby: <ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>宇宙<rt>うちゅう</rt></ruby>ステーションの<ruby>破片<rt>はへん</rt></ruby>が<ruby>落<rt>お</rt></ruby>ちてくるかもしれない
+outline: 中国は２０１１年に「天宮１号」という宇宙ステーションを打ち上げました。
+outline_with_ruby: <ruby>中国<rt>ちゅうごく</rt></ruby>は２０１１<ruby>年<rt>ねん</rt></ruby>に「<ruby>天宮<rt>てんきゅう</rt></ruby>１<ruby>号<rt>ごう</rt></ruby>」という<ruby>宇宙<rt>うちゅう</rt></ruby>ステーションを<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げました。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/28/K10011382671_1803281650_1803281705_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/29/k10011382671000.mp4
+content_with_ruby: "<p><ruby>中国<rt>ちゅうごく</rt></ruby>は２０１１<ruby>年<rt>ねん</rt></ruby>に「<ruby>天宮<rt>てんきゅう</rt></ruby>１<ruby>号<rt>ごう</rt></ruby>」という<span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby>ステーション</span>を<span style=\"\
+  color: blue;\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</span>ました。<ruby>天宮<rt>てんきゅう</rt></ruby>１<ruby>号<rt>ごう</rt></ruby>は<ruby>長<rt>なが</rt></ruby>さが１０ｍで、<ruby>重<rt>おも</rt></ruby>さが８．５ｔです。<ruby>天宮<rt>てんきゅう</rt></ruby>１<ruby>号<rt>ごう</rt></ruby>はおととし、<span\
+  \ style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>から<span style=\"color:\
+  \ blue;\"><ruby>動<rt>うご</rt></ruby>かす</span>ことができなくなりました。</p>\n<p>ＥＳＡ＝ヨーロッパ<ruby>宇宙<rt>うちゅう</rt></ruby><ruby>機関<rt>きかん</rt></ruby>は、３<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>から４<ruby>月<rt>がつ</rt></ruby><ruby>２日<rt>ふつか</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に、<ruby>天宮<rt>てんきゅう</rt></ruby>１<ruby>号<rt>ごう</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>に<ruby>落<rt>お</rt></ruby>ちてくると<ruby>言<rt>い</rt></ruby>っています。ＥＳＡによると、<ruby>天宮<rt>てんきゅう</rt></ruby>１<ruby>号<rt>ごう</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>に<ruby>落<rt>お</rt></ruby>ちる<ruby>間<rt>あいだ</rt></ruby>にほとんど<span\
+  \ style=\"color: blue;\"><ruby>燃<rt>も</rt></ruby>え</span>てなくなりますが、<ruby>小<rt>ちい</rt></ruby>さな<span\
+  \ style=\"color: blue;\"><ruby>破片<rt>はへん</rt></ruby></span>が<ruby>落<rt>お</rt></ruby>ちてくる<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。</p>\n<p><span\
+  \ style=\"color: blue;\"><ruby>破片<rt>はへん</rt></ruby></span>が<ruby>落<rt>お</rt></ruby>ちる<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>がある<ruby>所<rt>ところ</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>北緯<rt>ほくい</rt></ruby></span>４３<ruby>度<rt>ど</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>南緯<rt>なんい</rt></ruby></span>４３<ruby>度<rt>ど</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>です。この<ruby>間<rt>あいだ</rt></ruby>には<ruby>日本<rt>にっぽん</rt></ruby>のほとんどの<ruby>場所<rt>ばしょ</rt></ruby>や、アメリカのワシントンなど<ruby>世界<rt>せかい</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きなまちが<ruby>入<rt>はい</rt></ruby>っています。ＥＳＡは、<span\
+  \ style=\"color: blue;\"><ruby>破片<rt>はへん</rt></ruby></span>が<ruby>人<rt>ひと</rt></ruby>に<span\
+  \ style=\"color: blue;\">ぶつかる</span><span style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>はとても<ruby>低<rt>ひく</rt></ruby>いと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 宇宙ステーション
+  descriptions:
+  - スペースシャトルなどで<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby><ruby><rb>旅行</rb><rt>りょこう</rt></ruby>や、<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>での<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>の<ruby><rb>基地</rb><rt>きち</rt></ruby>として、その<ruby><rb>中</rb><rt>なか</rt></ruby>でたくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>続</rb><rt>つづ</rt></ruby>けられる<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>人工衛星</rb><rt>じんこうえいせい</rt></ruby>。
+- word: 破片
+  descriptions:
+  - こわれた<ruby><rb>物</rb><rt>もの</rt></ruby>のかけら。
+- word: 打ち上げる
+  descriptions:
+  - （<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - <ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - （<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: 動かす
+  descriptions:
+  - <ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。
+  - <ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - <ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。
+- word: 燃える
+  descriptions:
+  - <ruby><rb>火</rb><rt>ひ</rt></ruby>がついて、ほのおが<ruby><rb>上</rb><rt>あ</rt></ruby>がる。
+  - <ruby><rb>燃</rb><rt>も</rt></ruby>えているようなようすになる。
+  - その<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが、さかんに<ruby><rb>起</rb><rt>お</rt></ruby>こる。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 北緯
+  descriptions:
+  - <ruby><rb>赤道</rb><rt>せきどう</rt></ruby>を<ruby><rb>０度</rb><rt>れいど</rt></ruby>として、そこから<ruby><rb>北極</rb><rt>ほっきょく</rt></ruby>までの<ruby><rb>間</rb><rt>あいだ</rt></ruby>を９０<ruby><rb>度</rb><rt>ど</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>けて<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>緯度</rb><rt>いど</rt></ruby>。
+- word: 南緯
+  descriptions:
+  - <ruby><rb>赤道</rb><rt>せきどう</rt></ruby>を<ruby><rb>０</rb><rt>れい</rt></ruby><ruby><rb>度</rb><rt>ど</rt></ruby>として、そこから<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>までの<ruby><rb>間</rb><rt>あいだ</rt></ruby>を９０<ruby><rb>度</rb><rt>ど</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>けて<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>緯度</rb><rt>いど</rt></ruby>。
+- word: ぶつかる
+  descriptions:
+  - <ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。
+  - <ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。
+  - <ruby><rb>重</rb><rt>かさ</rt></ruby>なる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011382671000/k10011382671000.html
+web_title_with_ruby: <ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>宇宙<rt>うちゅう</rt></ruby><ruby>実験機<rt>じっけんき</rt></ruby>
+  <ruby>破片<rt>はへん</rt></ruby>が<ruby>地球<rt>ちきゅう</rt></ruby>に<ruby>落下<rt>らっか</rt></ruby>も
+  31<ruby>日<rt>にち</rt></ruby>～<ruby>来月<rt>らいげつ</rt></ruby><ruby>初<rt>はじ</rt></ruby>め
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/28/中国の宇宙実験機-破片が地球に落下も-31日~来月初め
+related_news:
+- title: <ruby>長野県<rt>ながのけん</rt></ruby>の<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>っていた<ruby>人<rt>ひと</rt></ruby>が<ruby>滑<rt>すべ</rt></ruby>って<ruby>落<rt>お</rt></ruby>ちる　３<ruby>人<rt>にん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/03/26/長野県の山に登っていた人が滑って落ちる-3人亡くなる
+...

@@ -1,0 +1,70 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011381621000
+last_modified_at: '2018-03-29T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>29<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ２０２０年に東京でオリンピックとパラリンピックがあります。
+title: 東京オリンピック　会場に入るスタッフの顔を機械がチェック
+title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>オリンピック　<ruby>会場<rt>かいじょう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るスタッフの<ruby>顔<rt>かお</rt></ruby>を<ruby>機械<rt>きかい</rt></ruby>がチェック
+outline: ２０２０年に東京でオリンピックとパラリンピックがあります。
+outline_with_ruby: ２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>でオリンピックとパラリンピックがあります。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/27/K10011381621_1803272035_1803272041_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/29/k10011381621000.mp4
+content_with_ruby: "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<span\
+  \ style=\"color: blue;\">オリンピック</span>と<span style=\"color: blue;\">パラリンピック</span>があります。この２つの<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>で、<ruby>会場<rt>かいじょう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってもいい<ruby>人<rt>ひと</rt></ruby>かどうか、<ruby>機械<rt>きかい</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>自動<rt>じどう</rt></ruby></span>でチェックすることになりました。<ruby>入<rt>い</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby>にカメラを<ruby>置<rt>お</rt></ruby>いて、<span\
+  \ style=\"color: blue;\">ＩＤ</span><span style=\"color: blue;\">カード</span>を<ruby>持<rt>も</rt></ruby>っている<span\
+  \ style=\"color: blue;\">スタッフ</span>などの<ruby>顔<rt>かお</rt></ruby>を<ruby>機械<rt>きかい</rt></ruby>がチェックします。</p>\n\
+  <p><ruby>今<rt>いま</rt></ruby>までの<span style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>では、<span\
+  \ style=\"color: blue;\"><ruby>登録<rt>とうろく</rt></ruby></span>してある<ruby>写真<rt>しゃしん</rt></ruby>と<ruby>会場<rt>かいじょう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>が<ruby>同<rt>おな</rt></ruby>じかどうか、<span\
+  \ style=\"color: blue;\"><ruby>警備<rt>けいび</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>てチェックしていました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: スタッフ
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>のために、それぞれの<ruby><rb>役割</rb><rt>やくわり</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>って<ruby><rb>働</rb><rt>はたら</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>たち。
+  - <ruby><rb>映画</rb><rt>えいが</rt></ruby>や<ruby><rb>劇</rb><rt>げき</rt></ruby>、テレビなどで、<ruby><rb>出演者</rb><rt>しゅつえんしゃ</rt></ruby><ruby><rb>以外</rb><rt>いがい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>係</rb><rt>かかり</rt></ruby>。<ruby><rb>監督</rb><rt>かんとく</rt></ruby>・カメラマン・<ruby><rb>道具係</rb><rt>どうぐがかり</rt></ruby>など。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: 大会
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+  - ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: 自動
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。
+- word: ID
+  descriptions:
+  - <ruby><rb>身分</rb><rt>みぶん</rt></ruby>を<ruby><rb>証明</rb><rt>しょうめい</rt></ruby>すること。
+  - <ruby><rb>個人</rb><rt>こじん</rt></ruby>を<ruby><rb>見分</rb><rt>みわ</rt></ruby>ける<ruby><rb>番号</rb><rt>ばんごう</rt></ruby>。<ruby><rb>暗証番号</rb><rt>あんしょうばんごう</rt></ruby>。
+- word: カード
+  descriptions:
+  - <ruby><rb>紙</rb><rt>かみ</rt></ruby>を、<ruby><rb>四角</rb><rt>しかく</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さく<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。<ruby><rb>記入</rb><rt>きにゅう</rt></ruby>したり、<ruby><rb>整理</rb><rt>せいり</rt></ruby>するときなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+  - 「クレジットカード」「キャッシュカード」などの<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - トランプ（の<ruby><rb>札</rb><rt>ふだ</rt></ruby>）。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>などの、<ruby><rb>試合</rb><rt>しあい</rt></ruby>の<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。
+- word: 登録
+  descriptions:
+  - <ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などに<ruby><rb>届</rb><rt>とど</rt></ruby>け<ruby><rb>出</rb><rt>で</rt></ruby>て、おおやけに<ruby><rb>認</rb><rt>みと</rt></ruby>めてもらうこと。
+- word: 警備
+  descriptions:
+  - <ruby><rb>悪</rb><rt>わる</rt></ruby>いことが<ruby><rb>起</rb><rt>お</rt></ruby>こらないように、<ruby><rb>気</rb><rt>き</rt></ruby>をつけて<ruby><rb>守</rb><rt>まも</rt></ruby>ること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011381621000/k10011381621000.html
+web_title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby><ruby>五輪<rt>ごりん</rt></ruby>・<ruby>パラ<rt>ぱら</rt></ruby>で<ruby>顔認証<rt>かおにんしょう</rt></ruby><ruby>システム<rt>しすてむ</rt></ruby><ruby>導入<rt>どうにゅう</rt></ruby>へ
+  <ruby>五輪<rt>ごりん</rt></ruby><ruby>史上初<rt>しじょうはつ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/27/東京五輪パラで顔認証システム導入へ-五輪史上初
+related_news:
+- title: <ruby>東京<rt>とうきょう</rt></ruby>オリンピックで<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>たい<ruby>競技<rt>きょうぎ</rt></ruby>　１<ruby>番<rt>ばん</rt></ruby>はバレーボール
+  url: https://newswebeasy.github.io/news/easy/2018/03/15/東京オリンピックで若い人が見たい競技-1番はバレーボール
+- title: アマゾンがアメリカでレジがないコンビニを<ruby>始<rt>はじ</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2018/01/24/アマゾンがアメリカでレジがないコンビニを始める
+- title: <ruby>成田空港<rt>なりたくうこう</rt></ruby>　<ruby>客<rt>きゃく</rt></ruby>の<ruby>荷物<rt>にもつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>立体<rt>りったい</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>見<rt>み</rt></ruby>る<ruby>機械<rt>きかい</rt></ruby>の<ruby>実験<rt>じっけん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/02/19/成田空港-客の荷物の中を立体的に見る機械の実験
+...

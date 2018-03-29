@@ -1,0 +1,61 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011381771000
+last_modified_at: '2018-03-29T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>29<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 香港は芸術のまちにしようと考えて、毎年今の時期にたくさんの芸術のイベントを開いています。
+title: 香港　香取慎吾さんが壁にかいた絵を見せる
+title_with_ruby: <ruby>香港<rt>ほんこん</rt></ruby>　<ruby>香取<rt>かとり</rt></ruby><ruby>慎吾<rt>しんご</rt></ruby>さんが<ruby>壁<rt>かべ</rt></ruby>にかいた<ruby>絵<rt>え</rt></ruby>を<ruby>見<rt>み</rt></ruby>せる
+outline: 香港は芸術のまちにしようと考えて、毎年今の時期にたくさんの芸術のイベントを開いています。
+outline_with_ruby: <ruby>香港<rt>ほんこん</rt></ruby>は<ruby>芸術<rt>げいじゅつ</rt></ruby>のまちにしようと<ruby>考<rt>かんが</rt></ruby>えて、<ruby>毎年<rt>まいとし</rt></ruby><ruby>今<rt>いま</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>にたくさんの<ruby>芸術<rt>げいじゅつ</rt></ruby>のイベントを<ruby>開<rt>ひら</rt></ruby>いています。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/27/K10011381771_1803272140_1803272151_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/29/k10011381771000.mp4
+content_with_ruby: "<p><ruby>香港<rt>ほんこん</rt></ruby>は<span style=\"color: blue;\"><ruby>芸術<rt>げいじゅつ</rt></ruby></span>のまちにしようと<ruby>考<rt>かんが</rt></ruby>えて、<ruby>毎年<rt>まいとし</rt></ruby><ruby>今<rt>いま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>時期<rt>じき</rt></ruby></span>にたくさんの<span style=\"color:\
+  \ blue;\"><ruby>芸術<rt>げいじゅつ</rt></ruby></span>の<span style=\"color: blue;\">イベント</span>を<ruby>開<rt>ひら</rt></ruby>いています。</p>\n\
+  <p>ＳＭＡＰの<span style=\"color: blue;\">メンバー</span>だった<ruby>香取<rt>かとり</rt></ruby><ruby>慎吾<rt>しんご</rt></ruby>さんは、<ruby>香港<rt>ほんこん</rt></ruby>のまちの<ruby>中<rt>なか</rt></ruby>にある<ruby>壁<rt>かべ</rt></ruby>に<ruby>絵<rt>え</rt></ruby>をかきました。<ruby>香取<rt>かとり</rt></ruby>さんは２７<ruby>日<rt>にち</rt></ruby>、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>でこの<ruby>絵<rt>え</rt></ruby>を<ruby>見<rt>み</rt></ruby>せました。<ruby>絵<rt>え</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさは、<ruby>高<rt>たか</rt></ruby>さが４．５m、<span\
+  \ style=\"color: blue;\"><ruby>幅<rt>はば</rt></ruby></span>が６mです。<ruby>絵<rt>え</rt></ruby>には<ruby>大<rt>おお</rt></ruby>きく<ruby>口<rt>くち</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けた<span\
+  \ style=\"color: blue;\"><ruby>竜<rt>りゅう</rt></ruby></span>や、<ruby>高<rt>たか</rt></ruby>いビル、<ruby>船<rt>ふね</rt></ruby>などがかいてあります。<ruby>香取<rt>かとり</rt></ruby>さんは「ここで<ruby>絵<rt>え</rt></ruby>をかくのはとても<ruby>楽<rt>たの</rt></ruby>しかったです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>絵<rt>え</rt></ruby>を<ruby>見<rt>み</rt></ruby>た<ruby>女性<rt>じょせい</rt></ruby>は「<ruby>白<rt>しろ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>竜<rt>りゅう</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>に<ruby>船<rt>ふね</rt></ruby>がかいてあって、<ruby>香港<rt>ほんこん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>旗<rt>はた</rt></ruby></span>のようだと<ruby>思<rt>おも</rt></ruby>いました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 芸術
+  descriptions:
+  - <ruby><rb>自然</rb><rt>しぜん</rt></ruby>や<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>心</rb><rt>こころ</rt></ruby>・<ruby><rb>考</rb><rt>かんが</rt></ruby>え・<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>などを、<ruby><rb>音</rb><rt>おと</rt></ruby>・<ruby><rb>色</rb><rt>いろ</rt></ruby>・<ruby><rb>形</rb><rt>かたち</rt></ruby>・ことばなどによって<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、<ruby><rb>表</rb><rt>あらわ</rt></ruby>した<ruby><rb>作品</rb><rt>さくひん</rt></ruby>。<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>・<ruby><rb>絵</rb><rt>え</rt></ruby>・<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>・<ruby><rb>文学</rb><rt>ぶんがく</rt></ruby>・<ruby><rb>演劇</rb><rt>えんげき</rt></ruby>・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>など。
+- word: 時期
+  descriptions:
+  - あることを<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>時</rb><rt>とき</rt></ruby>。
+  - ある<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>時</rb><rt>とき</rt></ruby>。
+  - <ruby><rb>季節</rb><rt>きせつ</rt></ruby>。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: メンバー
+  descriptions:
+  - ある<ruby><rb>会</rb><rt>かい</rt></ruby>や<ruby><rb>仲間</rb><rt>なかま</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>会員</rb><rt>かいいん</rt></ruby>。
+- word: 幅
+  descriptions:
+  - <ruby><rb>横</rb><rt>よこ</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さ。
+  - へだたり。<ruby><rb>開</rb><rt>ひら</rt></ruby>き。
+  - ゆとり。よゆう。
+- word: 竜
+  descriptions:
+  - <ruby><rb>想像上</rb><rt>そうぞうじょう</rt></ruby>の<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>はヘビに<ruby><rb>似</rb><rt>に</rt></ruby>ているが、<ruby><rb>二本</rb><rt>にほん</rt></ruby>の<ruby><rb>角</rb><rt>つの</rt></ruby>と<ruby><rb>四本</rb><rt>よんほん</rt></ruby>の<ruby><rb>足</rb><rt>あし</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ。<ruby><rb>空</rb><rt>そら</rt></ruby>にのぼり、<ruby><rb>雲</rb><rt>くも</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こし、<ruby><rb>雨</rb><rt>あめ</rt></ruby>を<ruby><rb>降</rb><rt>ふ</rt></ruby>らせるといわれる。たつ。
+  - <ruby><rb>大昔</rb><rt>おおむかし</rt></ruby>の、<ruby><rb>大形</rb><rt>おおがた</rt></ruby>の<ruby><rb>爬虫類</rb><rt>はちゅうるい</rt></ruby>。
+- word: 旗
+  descriptions:
+  - <ruby><rb>布</rb><rt>ぬの</rt></ruby>や<ruby><rb>紙</rb><rt>かみ</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>り、さおなどの<ruby><rb>先</rb><rt>さき</rt></ruby>につけて、かざりや<ruby><rb>目</rb><rt>め</rt></ruby>じるしとするもの。
+source_url: http://www3.nhk.or.jp/news/easy/k10011381771000/k10011381771000.html
+web_title_with_ruby: <ruby>香取慎吾<rt>かとりしんご</rt></ruby>さん <ruby>香港<rt>ほんこん</rt></ruby>で<ruby>アート<rt>あーと</rt></ruby><ruby>作品<rt>さくひん</rt></ruby>を<ruby>披露<rt>ひろう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/27/香取慎吾さん-香港でアート作品を披露
+related_news:
+- title: ニューヨークで<ruby>日本<rt>にっぽん</rt></ruby>にいるような<ruby>写真<rt>しゃしん</rt></ruby>が<ruby>撮<rt>と</rt></ruby>れるイベント
+  url: https://newswebeasy.github.io/news/easy/2018/03/16/ニューヨークで日本にいるような写真が撮れるイベント
+- title: <ruby>台湾<rt>たいわん</rt></ruby><ruby>頑張<rt>がんば</rt></ruby>れと<ruby>絵<rt>え</rt></ruby>にかいて<ruby>帰<rt>かえ</rt></ruby>った<ruby>日本人<rt>にっぽんじん</rt></ruby>に「ありがとう」
+  url: https://newswebeasy.github.io/news/easy/2018/02/16/台湾頑張れと絵にかいて帰った日本人にありがとう
+...
