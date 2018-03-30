@@ -1,0 +1,61 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011383841000
+last_modified_at: '2018-03-30T17:45:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>45<ruby>分<rt>ふん</rt></ruby>
+description: 韓国と北朝鮮の政府は２９日、韓国と北朝鮮の間にあるパンムンジョムで話し合いました。
+title: ４月２７日に韓国と北朝鮮のトップが会うと決まる
+title_with_ruby: ４<ruby>月<rt>がつ</rt></ruby>２７<ruby>日<rt>にち</rt></ruby>に<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のトップが<ruby>会<rt>あ</rt></ruby>うと<ruby>決<rt>き</rt></ruby>まる
+outline: 韓国と北朝鮮の政府は２９日、韓国と北朝鮮の間にあるパンムンジョムで話し合いました。
+outline_with_ruby: <ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>政府<rt>せいふ</rt></ruby>は２９<ruby>日<rt>にち</rt></ruby>、<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にあるパンムンジョムで<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>いました。
+image_url: https://newswebeasy.github.io/ja201803/news/easy/image/2018/03/30/k10011383841000.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/30/k10011383841000.mp4
+content_with_ruby: "<p><ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は２９<ruby>日<rt>にち</rt></ruby>、<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にあるパンムンジョムで<span\
+  \ style=\"color: blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>い</span>ました。</p>\n\
+  <p>その<span style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>、４<ruby>月<rt>がつ</rt></ruby>２７<ruby>日<rt>にち</rt></ruby>に<ruby>韓国<rt>かんこく</rt></ruby>のムン・ジェイン<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のキム・ジョンウン<ruby>朝鮮労働党委員長<rt>ちょうせんろうどうとういいんちょう</rt></ruby>がパンムンジョムで<ruby>会<rt>あ</rt></ruby>って<ruby>話<rt>はなし</rt></ruby>をすることが<ruby>決<rt>き</rt></ruby>まりました。<ruby>２人<rt>ふたり</rt></ruby>が<ruby>会<rt>あ</rt></ruby>うのは<ruby>初<rt>はじ</rt></ruby>めてです。<ruby>韓国<rt>かんこく</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は、<ruby>朝鮮半島<rt>ちょうせんはんとう</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>核兵器<rt>かくへいき</rt></ruby></span>のない<ruby>場所<rt>ばしょ</rt></ruby>にするための<ruby>話<rt>はなし</rt></ruby>もする<ruby>予定<rt>よてい</rt></ruby>だと<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<span style=\"\
+  color: blue;\">トップ</span>が<ruby>会<rt>あ</rt></ruby>うのは３<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>です。<ruby>前<rt>まえ</rt></ruby>に<ruby>会<rt>あ</rt></ruby>ったのは２００７<ruby>年<rt>ねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>でした。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: トップ
+  descriptions:
+  - <ruby><rb>先頭</rb><rt>せんとう</rt></ruby>。<ruby><rb>真</rb><rt>ま</rt></ruby>っ<ruby><rb>先</rb><rt>さき</rt></ruby>。<ruby><rb>一番</rb><rt>いちばん</rt></ruby>。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 話し合う
+  descriptions:
+  - たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。
+  - <ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 核兵器
+  descriptions:
+  - <ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。
+source_url: http://www3.nhk.or.jp/news/easy/k10011383841000/k10011383841000.html
+web_title_with_ruby: <ruby>南北<rt>なんぼく</rt></ruby><ruby>首脳<rt>しゅのう</rt></ruby><ruby>会談<rt>かいだん</rt></ruby>
+  <ruby>来月<rt>らいげつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby><ruby>開催<rt>かいさい</rt></ruby>で<ruby>合意<rt>ごうい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/29/南北首脳会談-来月27日開催で合意
+related_news:
+- title: ４<ruby>月<rt>がつ</rt></ruby>に<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のトップが<ruby>会<rt>あ</rt></ruby>って<ruby>話<rt>はなし</rt></ruby>をすることが<ruby>決<rt>き</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/03/07/4月に韓国と北朝鮮のトップが会って話をすることが決まる
+- title: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>がピョンチャンオリンピックに<ruby>出<rt>で</rt></ruby>ることになる
+  url: https://newswebeasy.github.io/news/easy/2018/01/10/北朝鮮がピョンチャンオリンピックに出ることになる
+- title: <ruby>韓国<rt>かんこく</rt></ruby>の<ruby>大統領<rt>だいとうりょう</rt></ruby>の<ruby>特使<rt>とくし</rt></ruby>が<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のキム<ruby>委員長<rt>いいんちょう</rt></ruby>と<ruby>会<rt>あ</rt></ruby>って<ruby>話<rt>はな</rt></ruby>す
+  url: https://newswebeasy.github.io/news/easy/2018/03/06/韓国の大統領の特使が北朝鮮のキム委員長と会って話す
+- title: <ruby>韓国<rt>かんこく</rt></ruby>とアメリカ「オリンピックの<ruby>間<rt>あいだ</rt></ruby>は<ruby>軍<rt>ぐん</rt></ruby>の<ruby>訓練<rt>くんれん</rt></ruby>をしない」
+  url: https://newswebeasy.github.io/news/easy/2018/01/05/韓国とアメリカオリンピックの間は軍の訓練をしない
+- title: オリンピックの<ruby>開会<rt>かいかい</rt></ruby><ruby>式<rt>しき</rt></ruby>　<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>歩<rt>ある</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/01/18/オリンピックの開会式-韓国と北朝鮮の選手は一緒に歩く
+...

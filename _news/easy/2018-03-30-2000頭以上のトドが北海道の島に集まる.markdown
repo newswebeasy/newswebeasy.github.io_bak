@@ -1,0 +1,65 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011384481000
+last_modified_at: '2018-03-30T17:45:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>45<ruby>分<rt>ふん</rt></ruby>
+description: 北海道のいちばん北にある宗谷岬から１ｋｍぐらいの海に、人が住んでいない弁天島という島があります。
+title: ２０００頭以上のトドが北海道の島に集まる
+title_with_ruby: ２０００<ruby>頭<rt>とう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のトドが<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>島<rt>しま</rt></ruby>に<ruby>集<rt>あつ</rt></ruby>まる
+outline: 北海道のいちばん北にある宗谷岬から１ｋｍぐらいの海に、人が住んでいない弁天島という島があります。
+outline_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby>のいちばん<ruby>北<rt>きた</rt></ruby>にある<ruby>宗谷岬<rt>そうやみさき</rt></ruby>から１ｋｍぐらいの<ruby>海<rt>うみ</rt></ruby>に、<ruby>人<rt>ひと</rt></ruby>が<ruby>住<rt>す</rt></ruby>んでいない<ruby>弁天島<rt>べんてんじま</rt></ruby>という<ruby>島<rt>しま</rt></ruby>があります。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/29/K10011384481_1803292129_1803292137_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/30/k10011384481000.mp4
+content_with_ruby: "<p><ruby>北海道<rt>ほっかいどう</rt></ruby>のいちばん<ruby>北<rt>きた</rt></ruby>にある<ruby>宗谷岬<rt>そうやみさき</rt></ruby>から１ｋｍぐらいの<ruby>海<rt>うみ</rt></ruby>に、<ruby>人<rt>ひと</rt></ruby>が<ruby>住<rt>す</rt></ruby>んでいない<ruby>弁天島<rt>べんてんじま</rt></ruby>という<ruby>島<rt>しま</rt></ruby>があります。２９<ruby>日<rt>にち</rt></ruby>、<ruby>弁天島<rt>べんてんじま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>や<ruby>近<rt>ちか</rt></ruby>くの<ruby>海<rt>うみ</rt></ruby>に２０００<span\
+  \ style=\"color: blue;\"><ruby>頭<rt>とう</rt></ruby></span><ruby>以上<rt>いじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\">トド</span>が<ruby>集<rt>あつ</rt></ruby>まっていました。</p>\n<p><span\
+  \ style=\"color: blue;\">トド</span>は<ruby>冬<rt>ふゆ</rt></ruby>になると<ruby>北<rt>きた</rt></ruby>の<span\
+  \ style=\"color: blue;\">ほう</span>から<ruby>北海道<rt>ほっかいどう</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。そして、<ruby>暖<rt>あたた</rt></ruby>かくなって<ruby>北<rt>きた</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>弁天島<rt>べんてんじま</rt></ruby>にたくさん<ruby>集<rt>あつ</rt></ruby>まります。<ruby>専門家<rt>せんもんか</rt></ruby>は、１０００<span\
+  \ style=\"color: blue;\"><ruby>頭<rt>とう</rt></ruby></span><ruby>以上<rt>いじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\">トド</span>が１つの<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>集<rt>あつ</rt></ruby>まるのは<ruby>世界<rt>せかい</rt></ruby>でも<ruby>珍<rt>めずら</rt></ruby>しいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>弁天島<rt>べんてんじま</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くで<span style=\"color:\
+  \ blue;\">タコ</span>を<ruby>取<rt>と</rt></ruby>る<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>男性<rt>だんせい</rt></ruby>は「<span\
+  \ style=\"color: blue;\">トド</span>はかわいいですが、<span style=\"color: blue;\">かご</span>の<ruby>中<rt>なか</rt></ruby>から<span\
+  \ style=\"color: blue;\">タコ</span>を<ruby>出<rt>だ</rt></ruby>して<ruby>食<rt>た</rt></ruby>べるので、<ruby>困<rt>こま</rt></ruby>っています」と<ruby>話<rt>はな</rt></ruby>しています。おととし４<ruby>月<rt>がつ</rt></ruby>から<ruby>去年<rt>きょねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>までの１<ruby>年<rt>ねん</rt></ruby>に<ruby>弁天島<rt>べんてんじま</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くでは、<span\
+  \ style=\"color: blue;\">トド</span>が<ruby>原因<rt>げんいん</rt></ruby>で６<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>ぐらいの<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>がありました。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 頭
+  descriptions:
+  - あたま。
+  - <ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つ<ruby><rb>者</rb><rt>もの</rt></ruby>。
+  - はじめ。
+  - <ruby><rb>辺</rb><rt>あた</rt></ruby>り。<ruby><rb>付近</rb><rt>ふきん</rt></ruby>。
+  - けものを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 方
+  descriptions:
+  - <ruby><rb>向</rb><rt>む</rt></ruby>き。
+  - それぞれの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。
+  - <ruby><rb>四角</rb><rt>しかく</rt></ruby>。
+  - やりかた。
+  - <ruby><rb>分</rb><rt>わ</rt></ruby>けたときの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>部類</rb><rt>ぶるい</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>をうやまって<ruby><rb>言</rb><rt>い</rt></ruby>うことば。かた。
+- word: 蛸
+  descriptions:
+  - <ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ、<ruby><rb>骨</rb><rt>ほね</rt></ruby>のない、やわらかな<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>物</rb><rt>もの</rt></ruby>に<ruby><rb>吸</rb><rt>す</rt></ruby>いつくいぼ（<ruby><rb>吸盤</rb><rt>きゅうばん</rt></ruby>）のついた<ruby><rb>足</rb><rt>あし</rt></ruby>が<ruby><rb>八本</rb><rt>はちほん</rt></ruby>ある。<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にする。
+- word: 籠
+  descriptions:
+  - <ruby><rb>竹</rb><rt>たけ</rt></ruby>やつる、<ruby><rb>針金</rb><rt>はりがね</rt></ruby>などを<ruby><rb>編</rb><rt>あ</rt></ruby>んで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。「ざる」よりも<ruby><rb>底</rb><rt>そこ</rt></ruby>が<ruby><rb>深</rb><rt>ふか</rt></ruby>い。
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: とど
+  descriptions:
+  - アシカのなかまで、<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>が<ruby><rb>大</rb><rt>おお</rt></ruby>きく、<ruby><rb>三</rb><rt>さん</rt></ruby>メートルくらいになる。<ruby><rb>北太平洋</rb><rt>きたたいせいよう</rt></ruby>にいる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011384481000/k10011384481000.html
+web_title_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>稚内<rt>わっかない</rt></ruby><ruby>沖<rt>おき</rt></ruby>に<ruby>トド<rt>とど</rt></ruby>
+  2000<ruby>頭<rt>とう</rt></ruby><ruby>超<rt>ちょう</rt></ruby><ruby>現<rt>あらわ</rt></ruby>る
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/29/北海道稚内沖にトド-2000頭超現る
+related_news:
+- title: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>海<rt>うみ</rt></ruby>で<ruby>珍<rt>めずら</rt></ruby>しいコククジラが<ruby>泳<rt>およ</rt></ruby>いでいた
+  url: https://newswebeasy.github.io/news/easy/2018/02/21/日本の近くの海で珍しいコククジラが泳いでいた
+...

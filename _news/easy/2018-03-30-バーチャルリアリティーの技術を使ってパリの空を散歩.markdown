@@ -1,0 +1,80 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011383361000
+last_modified_at: '2018-03-30T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>03<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: フランスのパリに３月３１日、バーチャルリアリティーの技術を使って、観光地の景色を空から見ることができる施設がオープンします。
+title: バーチャルリアリティーの技術を使ってパリの空を散歩
+title_with_ruby: バーチャルリアリティーの<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってパリの<ruby>空<rt>そら</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>
+outline: フランスのパリに３月３１日、バーチャルリアリティーの技術を使って、観光地の景色を空から見ることができる施設がオープンします。
+outline_with_ruby: フランスのパリに３<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>、バーチャルリアリティーの<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って、<ruby>観光地<rt>かんこうち</rt></ruby>の<ruby>景色<rt>けしき</rt></ruby>を<ruby>空<rt>そら</rt></ruby>から<ruby>見<rt>み</rt></ruby>ることができる<ruby>施設<rt>しせつ</rt></ruby>がオープンします。
+image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/29/K10011383361_1803290628_1803290640_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201803/news/easy/voice/2018/03/30/k10011383361000.mp4
+content_with_ruby: "<p>フランスのパリに３<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>、バーチャルリアリティーの<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>観光地<rt>かんこうち</rt></ruby></span>の<ruby>景色<rt>けしき</rt></ruby>を<ruby>空<rt>そら</rt></ruby>から<ruby>見<rt>み</rt></ruby>ることができる<span\
+  \ style=\"color: blue;\"><ruby>施設<rt>しせつ</rt></ruby></span>が<span style=\"color:\
+  \ blue;\">オープン</span>します。</p>\n<p><ruby>客<rt>きゃく</rt></ruby>がメガネの<ruby>形<rt>かたち</rt></ruby>の<ruby>機械<rt>きかい</rt></ruby>をつけると、エッフェル<span\
+  \ style=\"color: blue;\"><ruby>塔<rt>とう</rt></ruby></span>や<span style=\"color: blue;\"\
+  ><ruby>凱旋門<rt>がいせんもん</rt></ruby></span>などパリの<ruby>有名<rt>ゆうめい</rt></ruby>な２０の<span\
+  \ style=\"color: blue;\"><ruby>観光地<rt>かんこうち</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>映像<rt>えいぞう</rt></ruby></span>を１３<ruby>分<rt>ぷん</rt></ruby>で<ruby>見<rt>み</rt></ruby>ることができます。<span\
+  \ style=\"color: blue;\"><ruby>映像<rt>えいぞう</rt></ruby></span>はドローンを<ruby>使<rt>つか</rt></ruby>って<ruby>空<rt>そら</rt></ruby>から<ruby>撮<rt>と</rt></ruby>りました。<ruby>客<rt>きゃく</rt></ruby>が<ruby>右<rt>みぎ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>向<rt>む</rt></ruby>く</span>と<ruby>右<rt>みぎ</rt></ruby>の<ruby>景色<rt>けしき</rt></ruby>を<ruby>見<rt>み</rt></ruby>ることができて、パリの<ruby>空<rt>そら</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>しているように<span\
+  \ style=\"color: blue;\"><ruby>感<rt>かん</rt></ruby>じ</span>ます。</p>\n<p>この<span style=\"\
+  color: blue;\"><ruby>映像<rt>えいぞう</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>た<ruby>男性<rt>だんせい</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>冒険<rt>ぼうけん</rt></ruby></span>をしているようで、とても<ruby>楽<rt>たの</rt></ruby>しかったです。<ruby>今<rt>いま</rt></ruby>まで<ruby>見<rt>み</rt></ruby>たことがないパリを<ruby>知<rt>し</rt></ruby>ることができました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 観光地
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>が<ruby><rb>美</rb><rt>うつく</rt></ruby>しかったり、<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>があったりして、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 施設
+  descriptions:
+  - <ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>利用</rb><rt>りよう</rt></ruby>できるように<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>設備</rb><rt>せつび</rt></ruby>。
+- word: オープン
+  descriptions:
+  - <ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。
+  - かくしだてをしないようす。
+  - おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。
+- word: 塔
+  descriptions:
+  - <ruby><rb>寺</rb><rt>てら</rt></ruby>で、<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>や<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>骨</rb><rt>ほね</rt></ruby>をとむらうために<ruby><rb>建</rb><rt>た</rt></ruby>てた<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+  - <ruby><rb>高</rb><rt>たか</rt></ruby>くそびえる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。タワー。
+- word: 凱旋門
+  descriptions:
+  - がいせんしてくる<ruby><rb>軍隊</rb><rt>ぐんたい</rt></ruby>をむかえるために、<ruby><rb>建</rb><rt>た</rt></ruby>てられた<ruby><rb>門</rb><rt>もん</rt></ruby>。パリにあるものが<ruby><rb>有名</rb><rt>ゆうめい</rt></ruby>。
+- word: 映像
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>によって<ruby><rb>映</rb><rt>うつ</rt></ruby>し<ruby><rb>出</rb><rt>だ</rt></ruby>された、<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+  - <ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にうかんだ<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やようす。イメージ。
+- word: 向く
+  descriptions:
+  - <ruby><rb>顔</rb><rt>かお</rt></ruby>や<ruby><rb>体</rb><rt>からだ</rt></ruby>をそのほうへ<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - そのほうに<ruby><rb>面</rb><rt>めん</rt></ruby>している。
+  - うまく<ruby><rb>合</rb><rt>あ</rt></ruby>う。<ruby><rb>適</rb><rt>てき</rt></ruby>している。
+  - ある<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。
+  - あるほうへ<ruby><rb>進</rb><rt>すす</rt></ruby>む。
+- word: 感じる
+  descriptions:
+  - <ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。
+  - <ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。
+- word: 冒険
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことをおしきってすること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011383361000/k10011383361000.html
+web_title_with_ruby: <ruby>パリ<rt>ぱり</rt></ruby>の<ruby>観光<rt>かんこう</rt></ruby><ruby>名所<rt>めいしょ</rt></ruby>
+  ＶＲで<ruby>空中<rt>くうちゅう</rt></ruby><ruby>散歩<rt>さんぽ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/03/29/パリの観光名所-VRで空中散歩
+related_news:
+- title: <ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>　５<ruby>月<rt>がつ</rt></ruby>の<ruby>連休<rt>れんきゅう</rt></ruby>はシャンシャンを<ruby>見<rt>み</rt></ruby>る<ruby>抽選<rt>ちゅうせん</rt></ruby>がある
+  url: https://newswebeasy.github.io/news/easy/2018/03/23/上野動物園-5月の連休はシャンシャンを見る抽選がある
+- title: スポーツの<ruby>試合<rt>しあい</rt></ruby>などを３Ｄで<ruby>見<rt>み</rt></ruby>せる<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/02/21/スポーツの試合などを3Dで見せる技術を紹介
+- title: パンダのシャンシャン　<ruby>並<rt>なら</rt></ruby>んだ<ruby>順番<rt>じゅんばん</rt></ruby>で<ruby>見<rt>み</rt></ruby>ることができる
+  url: https://newswebeasy.github.io/news/easy/2018/02/01/パンダのシャンシャン-並んだ順番で見ることができる
+- title: <ruby>東京<rt>とうきょう</rt></ruby>オリンピックで<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>たい<ruby>競技<rt>きょうぎ</rt></ruby>　１<ruby>番<rt>ばん</rt></ruby>はバレーボール
+  url: https://newswebeasy.github.io/news/easy/2018/03/15/東京オリンピックで若い人が見たい競技-1番はバレーボール
+...
