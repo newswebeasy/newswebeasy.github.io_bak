@@ -1,0 +1,80 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011387021000
+last_modified_at: '2018-04-02T17:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>02<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ４月から食料品や電気など、いろいろな物やサービスの値段が上がります。
+title: ４月から食料品などの値段が上がる
+title_with_ruby: ４<ruby>月<rt>がつ</rt></ruby>から<ruby>食料品<rt>しょくりょうひん</rt></ruby>などの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がる
+outline: ４月から食料品や電気など、いろいろな物やサービスの値段が上がります。
+outline_with_ruby: ４<ruby>月<rt>がつ</rt></ruby>から<ruby>食料品<rt>しょくりょうひん</rt></ruby>や<ruby>電気<rt>でんき</rt></ruby>など、いろいろな<ruby>物<rt>もの</rt></ruby>やサービスの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がります。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/01/K10011387021_1804010103_1804010703_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/02/k10011387021000.mp4
+content_with_ruby: "<p>４<ruby>月<rt>がつ</rt></ruby>から<ruby>食料品<rt>しょくりょうひん</rt></ruby>や<ruby>電気<rt>でんき</rt></ruby>など、いろいろな<ruby>物<rt>もの</rt></ruby>や<span\
+  \ style=\"color: blue;\">サービス</span>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がります。<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>ぶのにかかるお<ruby>金<rt>かね</rt></ruby>や、<span\
+  \ style=\"color: blue;\"><ruby>原料<rt>げんりょう</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>くなっているためです。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>米<rt>こめ</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby><ruby>天気<rt>てんき</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>かったりしたため３<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなっています。「<ruby>越後製菓<rt>えちごせいか</rt></ruby>」は<span\
+  \ style=\"color: blue;\">パック</span>に<ruby>入<rt>い</rt></ruby>れて<ruby>売<rt>う</rt></ruby>っているごはんの<ruby>値段<rt>ねだん</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げました。<ruby>牛丼<rt>ぎゅうどん</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>の「<ruby>松屋<rt>まつや</rt></ruby>」は<ruby>料理<rt>りょうり</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げます。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>納豆<rt>なっとう</rt></ruby></span>は２７<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>同<rt>おな</rt></ruby>じ<ruby>値段<rt>ねだん</rt></ruby>だった<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>値段<rt>ねだん</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げます。<ruby>輸入<rt>ゆにゅう</rt></ruby>している<span\
+  \ style=\"color: blue;\"><ruby>大豆<rt>だいず</rt></ruby></span>などが<ruby>高<rt>たか</rt></ruby>くなったためです。</p>\n\
+  <p><ruby>電気<rt>でんき</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きな<ruby>会社<rt>かいしゃ</rt></ruby><ruby>全部<rt>ぜんぶ</rt></ruby>が<ruby>値段<rt>ねだん</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げます。ガスも４つの<ruby>大<rt>おお</rt></ruby>きな<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>値段<rt>ねだん</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げます。<ruby>輸入<rt>ゆにゅう</rt></ruby>している<span\
+  \ style=\"color: blue;\"><ruby>石油<rt>せきゆ</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>天然<rt>てんねん</rt></ruby>ガス</span>が<ruby>高<rt>たか</rt></ruby>くなったためです。</p>\n\
+  <p>お<ruby>酒<rt>さけ</rt></ruby>をつくっている<ruby>大<rt>おお</rt></ruby>きな<ruby>会社<rt>かいしゃ</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>瓶<rt>びん</rt></ruby></span>の<span style=\"color: blue;\"\
+  >ビール</span>や<span style=\"color: blue;\">ワイン</span>の<ruby>値段<rt>ねだん</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: 原料
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るための、もとになる<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: パック
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>包</rb><rt>つつ</rt></ruby>むこと。<ruby><rb>包</rb><rt>つつ</rt></ruby>んだもの。また、<ruby><rb>容器</rb><rt>ようき</rt></ruby>などにつめること。<ruby><rb>容器</rb><rt>ようき</rt></ruby>。
+  - <ruby><rb>栄養</rb><rt>えいよう</rt></ruby>をあたえるものをぬって、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>をきれいにする<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。
+  - <ruby><rb>旅行</rb><rt>りょこう</rt></ruby>で、<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>・ホテル・<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>先</rb><rt>さき</rt></ruby>などをひとまとめにしたもの。パッケージ<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>。
+- word: 納豆
+  descriptions:
+  - むした<ruby><rb>大豆</rb><rt>だいず</rt></ruby>に、なっとう<ruby><rb>菌</rb><rt>きん</rt></ruby>をはたらかせてつくった<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 大豆
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>豆</rb><rt>まめ</rt></ruby>の<ruby><rb>一種</rb><rt>いっしゅ</rt></ruby>。<ruby><rb>種</rb><rt>たね</rt></ruby>には、たんぱく<ruby><rb>質</rb><rt>しつ</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>く、とうふ・みそ・なっとうなどにする。
+- word: 石油
+  descriptions:
+  - <ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>から<ruby><rb>出</rb><rt>で</rt></ruby>る、<ruby><rb>黒</rb><rt>くろ</rt></ruby>くどろどろした<ruby><rb>燃</rb><rt>も</rt></ruby>えやすい<ruby><rb>油</rb><rt>あぶら</rt></ruby>。<ruby><rb>大昔</rb><rt>おおむかし</rt></ruby>の<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>が<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>にうまってできたもの。<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>からとったままのものを<ruby><rb>原油</rb><rt>げんゆ</rt></ruby>といい、ガソリン・<ruby><rb>軽油</rb><rt>けいゆ</rt></ruby>・<ruby><rb>灯油</rb><rt>とうゆ</rt></ruby>・<ruby><rb>重油</rb><rt>じゅうゆ</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る。<ruby><rb>化学工業</rb><rt>かがくこうぎょう</rt></ruby>の<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>としても<ruby><rb>使</rb><rt>つか</rt></ruby>われる。
+  - 「<span class="dic_sansyogogi">1)</span>」から<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>燃料</rb><rt>ねんりょう</rt></ruby>やじゅんかつ<ruby><rb>油</rb><rt>ゆ</rt></ruby>などの<ruby><rb>製品</rb><rt>せいひん</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>灯油</rb><rt>とうゆ</rt></ruby>のこと。
+- word: 天然ガス
+  descriptions:
+  - <ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>からふき<ruby><rb>出</rb><rt>だ</rt></ruby>す、<ruby><rb>燃</rb><rt>も</rt></ruby>えるガス。
+- word: 瓶
+  descriptions:
+  - ガラスやせともの・<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: ビール
+  descriptions:
+  - <ruby><rb>大麦</rb><rt>おおむぎ</rt></ruby>を<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>にした<ruby><rb>酒</rb><rt>さけ</rt></ruby>。
+- word: ワイン
+  descriptions:
+  - ブドウの<ruby><rb>実</rb><rt>み</rt></ruby>のしるを<ruby><rb>発酵</rb><rt>はっこう</rt></ruby>させて<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>酒</rb><rt>さけ</rt></ruby>。ぶどう<ruby><rb>酒</rb><rt>しゅ</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011387021000/k10011387021000.html
+web_title_with_ruby: <ruby>ビール<rt>びーる</rt></ruby> <ruby>納豆<rt>なっとう</rt></ruby> <ruby>牛丼<rt>ぎゅうどん</rt></ruby>…
+  <ruby>電気<rt>でんき</rt></ruby>・<ruby>ガス<rt>がす</rt></ruby>も<ruby>続々<rt>ぞくぞく</rt></ruby><ruby>値上<rt>ねあ</rt></ruby>げ
+  <ruby>新年度<rt>しんねんど</rt></ruby><ruby>スタート<rt>すたーと</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/01/ビール-納豆-牛丼-電気ガスも続々値上げ-新年度スタート
+related_news:
+- title: <ruby>野菜<rt>やさい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>今<rt>いま</rt></ruby>も<ruby>高<rt>たか</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2018/01/11/野菜の値段が今も高い
+- title: <ruby>野菜<rt>やさい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>前<rt>まえ</rt></ruby>よりもっと<ruby>高<rt>たか</rt></ruby>くなった
+  url: https://newswebeasy.github.io/news/easy/2018/01/26/野菜の値段が前よりもっと高くなった
+- title: <ruby>今年<rt>ことし</rt></ruby>は<ruby>小麦粉<rt>こむぎこ</rt></ruby>やビールなどの<ruby>値段<rt>ねだん</rt></ruby>を<ruby>高<rt>たか</rt></ruby>くする<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2018/01/05/今年は小麦粉やビールなどの値段を高くする会社が多い
+- title: <ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby>　<ruby>高<rt>たか</rt></ruby>かった<ruby>野菜<rt>やさい</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>安<rt>やす</rt></ruby>くなってきた
+  url: https://newswebeasy.github.io/news/easy/2018/03/23/農林水産省-高かった野菜が少しずつ安くなってきた
+- title: ビールを<ruby>飲<rt>の</rt></ruby>む<ruby>人<rt>ひと</rt></ruby>が<ruby>減<rt>へ</rt></ruby>り<ruby>続<rt>つづ</rt></ruby>けている
+  url: https://newswebeasy.github.io/news/easy/2018/01/18/ビールを飲む人が減り続けている
+...

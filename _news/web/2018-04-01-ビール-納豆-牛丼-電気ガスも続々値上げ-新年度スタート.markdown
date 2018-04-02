@@ -1,0 +1,204 @@
+---
+layout: web_news
+categories: web
+newsid: k10011387021000
+title: ビール 納豆 牛丼… 電気・ガスも続々値上げ 新年度スタート
+title_with_ruby: ビール <ruby>納豆<rt data-ruby-level="7">なっとう</rt></ruby> <ruby>牛丼<rt
+  data-ruby-level="8">ぎゅうどん</rt></ruby>… <ruby>電気<rt data-ruby-level="2">でんき</rt></ruby>・ガスも<ruby>続々<rt
+  data-ruby-level="4">ぞくぞく</rt></ruby><ruby>値上<rt data-ruby-level="6">ねあ</rt></ruby>げ
+  <ruby>新年度<rt data-ruby-level="3">しんねんど</rt></ruby>スタート
+last_modified_at: '2018-04-01T07:03:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>04<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>01<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 07<ruby>時<rt data-ruby-level="2">じ</rt></ruby>03<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: １日から始まる新年度。今月は、暮らしに身近な食料品や電気・ガスなどの値上げが相次ぎます。
+summary: １<ruby>日<rt data-ruby-level="1">にち</rt></ruby>から<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>まる<ruby>新年度<rt
+  data-ruby-level="3">しんねんど</rt></ruby>。<ruby>今月<rt data-ruby-level="2">こんげつ</rt></ruby>は、<ruby>暮<rt
+  data-ruby-level="6">く</rt></ruby>らしに<ruby>身近<rt data-ruby-level="3">みぢか</rt></ruby>な<ruby>食料品<rt
+  data-ruby-level="4">しょくりょうひん</rt></ruby>や<ruby>電気<rt data-ruby-level="2">でんき</rt></ruby>・ガスなどの<ruby>値上<rt
+  data-ruby-level="6">ねあ</rt></ruby>げが<ruby>相次<rt data-ruby-level="3">あいつ</rt></ruby>ぎます。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/01/K10011387021_1804010103_1804010703_01_02.jpg
+body:
+- title: <ruby>瓶<rt data-ruby-level="7">びん</rt></ruby>ビール10％<ruby>程度<rt data-ruby-level="5">ていど</rt></ruby>
+    ワインも<ruby>値上<rt data-ruby-level="6">ねあ</rt></ruby>げ
+  text: ビールはキリンとサントリー、それにサッポロの３<ruby>社<rt data-ruby-level="2">しゃ</rt></ruby>が、１<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>から<ruby>瓶<rt data-ruby-level="7">びん</rt></ruby>ビールやたる<ruby>詰<rt
+    data-ruby-level="7">づ</rt></ruby>めのビールの<ruby>出荷<rt data-ruby-level="7">しゅっか</rt></ruby><ruby>価格<rt
+    data-ruby-level="5">かかく</rt></ruby>を<ruby>値上<rt data-ruby-level="6">ねあ</rt></ruby>げします。アサヒはすでに<ruby>先月<rt
+    data-ruby-level="1">せんげつ</rt></ruby>から<ruby>値上<rt data-ruby-level="6">ねあ</rt></ruby>げしています。トラックドライバーの<ruby>賃金<rt
+    data-ruby-level="6">ちんぎん</rt></ruby><ruby>引<rt data-ruby-level="2">ひ</rt></ruby>き<ruby>上<rt
+    data-ruby-level="2">あ</rt></ruby>げを<ruby>背景<rt data-ruby-level="6">はいけい</rt></ruby>にした<ruby>物流<rt
+    data-ruby-level="3">ぶつりゅう</rt></ruby><ruby>費<rt data-ruby-level="4">ひ</rt></ruby>の<ruby>上昇<rt
+    data-ruby-level="7">じょうしょう</rt></ruby>が<ruby>値上<rt data-ruby-level="6">ねあ</rt></ruby>げの<ruby>理由<rt
+    data-ruby-level="3">りゆう</rt></ruby>で、いずれも<ruby>瓶<rt data-ruby-level="7">びん</rt></ruby>ビールの<ruby>場合<rt
+    data-ruby-level="2">ばあい</rt></ruby>で１０％<ruby>程度<rt data-ruby-level="5">ていど</rt></ruby><ruby>値上<rt
+    data-ruby-level="6">ねあ</rt></ruby>がりする<ruby>見通<rt data-ruby-level="2">みとお</rt></ruby>しです。<br
+    /><br />また、ビール<ruby>大手<rt data-ruby-level="1">おおて</rt></ruby>４<ruby>社<rt data-ruby-level="2">しゃ</rt></ruby>は、<ruby>輸入<rt
+    data-ruby-level="5">ゆにゅう</rt></ruby>ワインと<ruby>国産<rt data-ruby-level="4">こくさん</rt></ruby>ワインの<ruby>一部<rt
+    data-ruby-level="3">いちぶ</rt></ruby>についても、<ruby>原料<rt data-ruby-level="4">げんりょう</rt></ruby>のブドウの<ruby>価格<rt
+    data-ruby-level="5">かかく</rt></ruby>の<ruby>上昇<rt data-ruby-level="7">じょうしょう</rt></ruby>を<ruby>理由<rt
+    data-ruby-level="3">りゆう</rt></ruby>に１<ruby>日以降<rt data-ruby-level="6">にちいこう</rt></ruby>３％～６％<ruby>値上<rt
+    data-ruby-level="6">ねあ</rt></ruby>げします。
+- title: <ruby>納豆<rt data-ruby-level="7">なっとう</rt></ruby><ruby>大手<rt data-ruby-level="1">おおて</rt></ruby>は27<ruby>年<rt
+    data-ruby-level="1">ねん</rt></ruby>ぶりに
+  text: <ruby>納豆<rt data-ruby-level="7">なっとう</rt></ruby>では、<ruby>大手<rt data-ruby-level="1">おおて</rt></ruby>の「タカノフーズ」が<ruby>大豆<rt
+    data-ruby-level="3">だいず</rt></ruby>の<ruby>輸入<rt data-ruby-level="5">ゆにゅう</rt></ruby><ruby>価格<rt
+    data-ruby-level="5">かかく</rt></ruby>や<ruby>物流<rt data-ruby-level="3">ぶつりゅう</rt></ruby><ruby>費<rt
+    data-ruby-level="4">ひ</rt></ruby>などが<ruby>上昇<rt data-ruby-level="7">じょうしょう</rt></ruby>しているとして、<ruby>今月<rt
+    data-ruby-level="2">こんげつ</rt></ruby>から<ruby>来月<rt data-ruby-level="2">らいげつ</rt></ruby>にかけて１０<ruby>種類<rt
+    data-ruby-level="4">しゅるい</rt></ruby>の<ruby>商品<rt data-ruby-level="3">しょうひん</rt></ruby>で<ruby>出荷<rt
+    data-ruby-level="7">しゅっか</rt></ruby><ruby>価格<rt data-ruby-level="5">かかく</rt></ruby>を１０％～２０％<ruby>値上<rt
+    data-ruby-level="6">ねあ</rt></ruby>げします。この<ruby>会社<rt data-ruby-level="2">かいしゃ</rt></ruby>の<ruby>値上<rt
+    data-ruby-level="6">ねあ</rt></ruby>げはおよそ２７<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>ぶりです。<br
+    /><br /><ruby>粉末<rt data-ruby-level="4">ふんまつ</rt></ruby>のコーヒーでは、<ruby>食品<rt data-ruby-level="3">しょくひん</rt></ruby><ruby>大手<rt
+    data-ruby-level="1">おおて</rt></ruby>の「<ruby>ネスレ<rt data-ruby-level="1">ねすれ</rt></ruby><ruby>日本<rt
+    data-ruby-level="1">にっぽん</rt></ruby>」が<ruby>物流<rt data-ruby-level="3">ぶつりゅう</rt></ruby><ruby>費<rt
+    data-ruby-level="4">ひ</rt></ruby>の<ruby>上昇<rt data-ruby-level="7">じょうしょう</rt></ruby>を<ruby>理由<rt
+    data-ruby-level="3">りゆう</rt></ruby>に<ruby>粉末<rt data-ruby-level="4">ふんまつ</rt></ruby>のコーヒーなど４２の<ruby>商品<rt
+    data-ruby-level="3">しょうひん</rt></ruby>を１<ruby>日以降<rt data-ruby-level="6">にちいこう</rt></ruby>、６％～１０％<ruby>値上<rt
+    data-ruby-level="6">ねあ</rt></ruby>げします。
+- title: コメ<ruby>値上<rt data-ruby-level="6">ねあ</rt></ruby>がりの<ruby>影響<rt data-ruby-level="7">えいきょう</rt></ruby><ruby>広<rt
+    data-ruby-level="2">ひろ</rt></ruby>がる
+  text: <ruby>国産<rt data-ruby-level="4">こくさん</rt></ruby>のコメが<ruby>値上<rt data-ruby-level="6">ねあ</rt></ruby>がりしている<ruby>影響<rt
+    data-ruby-level="7">えいきょう</rt></ruby>も<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>がっていて、パック<ruby>入<rt
+    data-ruby-level="1">い</rt></ruby>りのごはんでは、「<ruby>越後<rt data-ruby-level="8">えちご</rt></ruby><ruby>製菓<rt
+    data-ruby-level="7">せいか</rt></ruby>」が１２<ruby>種類<rt data-ruby-level="4">しゅるい</rt></ruby>の<ruby>商品<rt
+    data-ruby-level="3">しょうひん</rt></ruby>を２<ruby>日<rt data-ruby-level="1">にち</rt></ruby>の<ruby>出荷分<rt
+    data-ruby-level="7">しゅっかぶん</rt></ruby>から<ruby>希望<rt data-ruby-level="4">きぼう</rt></ruby><ruby>小売<rt
+    data-ruby-level="2">こうり</rt></ruby><ruby>価格<rt data-ruby-level="5">かかく</rt></ruby>を１パック<ruby>当<rt
+    data-ruby-level="2">あ</rt></ruby>たり１０<ruby>円<rt data-ruby-level="1">えん</rt></ruby>～６０<ruby>円<rt
+    data-ruby-level="1">えん</rt></ruby><ruby>値上<rt data-ruby-level="6">ねあ</rt></ruby>げします。<br
+    /><br />「<ruby>亀田製菓<rt data-ruby-level="7">かめだせいか</rt></ruby>」は、コメを<ruby>主<rt
+    data-ruby-level="3">おも</rt></ruby>な<ruby>原料<rt data-ruby-level="4">げんりょう</rt></ruby>とする「ハッピーターン」など６つの<ruby>商品<rt
+    data-ruby-level="3">しょうひん</rt></ruby>について、<ruby>今月<rt data-ruby-level="2">こんげつ</rt></ruby>９<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>の<ruby>出荷分<rt data-ruby-level="7">しゅっかぶん</rt></ruby>から<ruby>内容量<rt
+    data-ruby-level="5">ないようりょう</rt></ruby>をおよそ１０％<ruby>減<rt data-ruby-level="5">へ</rt></ruby>らして<ruby>実質的<rt
+    data-ruby-level="5">じっしつてき</rt></ruby>な<ruby>値上<rt data-ruby-level="6">ねあ</rt></ruby>げを<ruby>行<rt
+    data-ruby-level="2">おこな</rt></ruby>います。<br /><br /><ruby>牛丼<rt data-ruby-level="8">ぎゅうどん</rt></ruby>チェーン<ruby>大手<rt
+    data-ruby-level="1">おおて</rt></ruby>の「<ruby>松屋<rt data-ruby-level="4">まつや</rt></ruby>」は、コメのほか<ruby>牛肉<rt
+    data-ruby-level="2">ぎゅうにく</rt></ruby>の<ruby>仕入<rt data-ruby-level="3">しい</rt></ruby>れ<ruby>価格<rt
+    data-ruby-level="5">かかく</rt></ruby>などが<ruby>上昇<rt data-ruby-level="7">じょうしょう</rt></ruby>しているとして、３<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>の<ruby>午後<rt data-ruby-level="2">ごご</rt></ruby>２<ruby>時<rt
+    data-ruby-level="2">じ</rt></ruby>から<ruby>牛丼<rt data-ruby-level="8">ぎゅうどん</rt></ruby>や<ruby>定食<rt
+    data-ruby-level="3">ていしょく</rt></ruby>など<ruby>一部<rt data-ruby-level="3">いちぶ</rt></ruby>のメニューを１０<ruby>円<rt
+    data-ruby-level="1">えん</rt></ruby>～５０<ruby>円<rt data-ruby-level="1">えん</rt></ruby><ruby>値上<rt
+    data-ruby-level="6">ねあ</rt></ruby>げします。
+- title: <ruby>電力<rt data-ruby-level="2">でんりょく</rt></ruby>・ガスも<ruby>大手<rt data-ruby-level="1">おおて</rt></ruby>が<ruby>相次<rt
+    data-ruby-level="3">あいつ</rt></ruby>ぎ
+  text: さらに、<ruby>今月<rt data-ruby-level="2">こんげつ</rt></ruby>は<ruby>電力<rt data-ruby-level="2">でんりょく</rt></ruby><ruby>大手<rt
+    data-ruby-level="1">おおて</rt></ruby>１０<ruby>社<rt data-ruby-level="2">しゃ</rt></ruby>すべてが<ruby>値上<rt
+    data-ruby-level="6">ねあ</rt></ruby>げします。<br /><br /><ruby>石油<rt data-ruby-level="3">せきゆ</rt></ruby>や<ruby>天然<rt
+    data-ruby-level="4">てんねん</rt></ruby><ruby>ガス<rt data-ruby-level="4">がす</rt></ruby>の<ruby>輸入<rt
+    data-ruby-level="5">ゆにゅう</rt></ruby><ruby>価格<rt data-ruby-level="5">かかく</rt></ruby>が<ruby>上昇<rt
+    data-ruby-level="7">じょうしょう</rt></ruby>してるためで、<ruby>値上<rt data-ruby-level="6">ねあ</rt></ruby>げの<ruby>幅<rt
+    data-ruby-level="7">はば</rt></ruby>は、<ruby>使用量<rt data-ruby-level="4">しようりょう</rt></ruby>が<ruby>平均的<rt
+    data-ruby-level="5">へいきんてき</rt></ruby>な<ruby>家庭<rt data-ruby-level="3">かてい</rt></ruby>で、<ruby>東京電力<rt
+    data-ruby-level="2">とうきょうでんりょく</rt></ruby>が７２<ruby>円<rt data-ruby-level="1">えん</rt></ruby>、<ruby>沖縄電力<rt
+    data-ruby-level="7">おきなわでんりょく</rt></ruby>が５７<ruby>円<rt data-ruby-level="1">えん</rt></ruby>、<ruby>中部電力<rt
+    data-ruby-level="3">ちゅうぶでんりょく</rt></ruby>が５２<ruby>円<rt data-ruby-level="1">えん</rt></ruby>などとなっています。<br
+    /><br /><ruby>来月<rt data-ruby-level="2">らいげつ</rt></ruby>も<ruby>太陽光<rt data-ruby-level="3">たいようこう</rt></ruby>や<ruby>風力<rt
+    data-ruby-level="2">ふうりょく</rt></ruby>などの<ruby>再生<rt data-ruby-level="5">さいせい</rt></ruby><ruby>可能<rt
+    data-ruby-level="5">かのう</rt></ruby>エネルギーの<ruby>普及<rt data-ruby-level="7">ふきゅう</rt></ruby>を<ruby>図<rt
+    data-ruby-level="7">はか</rt></ruby>る<ruby>制度<rt data-ruby-level="5">せいど</rt></ruby>によって、<ruby>電気<rt
+    data-ruby-level="2">でんき</rt></ruby><ruby>料金<rt data-ruby-level="4">りょうきん</rt></ruby>に<ruby>上乗<rt
+    data-ruby-level="3">うわの</rt></ruby>せされる<ruby>額<rt data-ruby-level="5">がく</rt></ruby>が<ruby>増<rt
+    data-ruby-level="5">ふ</rt></ruby>えるため、<ruby>大手<rt data-ruby-level="1">おおて</rt></ruby><ruby>各社<rt
+    data-ruby-level="4">かくしゃ</rt></ruby>の<ruby>電気<rt data-ruby-level="2">でんき</rt></ruby><ruby>料金<rt
+    data-ruby-level="4">りょうきん</rt></ruby>は１００<ruby>円前後<rt data-ruby-level="2">えんぜんご</rt></ruby><ruby>値上<rt
+    data-ruby-level="6">ねあ</rt></ruby>がりします。<br /><br />また、<ruby>都市<rt data-ruby-level="3">とし</rt></ruby><ruby>ガス<rt
+    data-ruby-level="3">がす</rt></ruby>の<ruby>大手<rt data-ruby-level="1">おおて</rt></ruby>４<ruby>社<rt
+    data-ruby-level="2">しゃ</rt></ruby>が<ruby>今月<rt data-ruby-level="2">こんげつ</rt></ruby>に３５<ruby>円<rt
+    data-ruby-level="1">えん</rt></ruby>～４６<ruby>円<rt data-ruby-level="1">えん</rt></ruby><ruby>値上<rt
+    data-ruby-level="6">ねあ</rt></ruby>げするほか、<ruby>来月<rt data-ruby-level="2">らいげつ</rt></ruby>も<ruby>値上<rt
+    data-ruby-level="6">ねあ</rt></ruby>げを<ruby>予定<rt data-ruby-level="3">よてい</rt></ruby>しています。<br
+    /><br /><ruby>物流<rt data-ruby-level="3">ぶつりゅう</rt></ruby><ruby>費<rt data-ruby-level="4">ひ</rt></ruby>や<ruby>原材料<rt
+    data-ruby-level="4">げんざいりょう</rt></ruby><ruby>価格<rt data-ruby-level="5">かかく</rt></ruby>の<ruby>上昇<rt
+    data-ruby-level="7">じょうしょう</rt></ruby>などを<ruby>背景<rt data-ruby-level="6">はいけい</rt></ruby>に、<ruby>先月<rt
+    data-ruby-level="1">せんげつ</rt></ruby>もジュースやアイスクリームなど<ruby>食品<rt data-ruby-level="3">しょくひん</rt></ruby>の<ruby>値上<rt
+    data-ruby-level="6">ねあ</rt></ruby>げが<ruby>相次<rt data-ruby-level="3">あいつ</rt></ruby>いだだけに、<ruby>家計<rt
+    data-ruby-level="2">かけい</rt></ruby>への<ruby>影響<rt data-ruby-level="7">えいきょう</rt></ruby>が<ruby>広<rt
+    data-ruby-level="2">ひろ</rt></ruby>がりそうです。
+- title: <ruby>要因<rt data-ruby-level="5">よういん</rt></ruby>は<ruby>人手<rt data-ruby-level="1">ひとで</rt></ruby><ruby>不足<rt
+    data-ruby-level="4">ぶそく</rt></ruby>・<ruby>原材料<rt data-ruby-level="4">げんざいりょう</rt></ruby><ruby>価格<rt
+    data-ruby-level="5">かかく</rt></ruby>など<ruby>複合的<rt data-ruby-level="5">ふくごうてき</rt></ruby>に
+  text: <ruby>最近<rt data-ruby-level="4">さいきん</rt></ruby>の<ruby>食品<rt data-ruby-level="3">しょくひん</rt></ruby>の<ruby>値上<rt
+    data-ruby-level="6">ねあ</rt></ruby>げは、<ruby>人手<rt data-ruby-level="1">ひとで</rt></ruby><ruby>不足<rt
+    data-ruby-level="4">ぶそく</rt></ruby>による<ruby>人件費<rt data-ruby-level="5">じんけんひ</rt></ruby><ruby>上昇<rt
+    data-ruby-level="7">じょうしょう</rt></ruby>に<ruby>加<rt data-ruby-level="4">くわ</rt></ruby>えて、コメや<ruby>大豆<rt
+    data-ruby-level="3">だいず</rt></ruby>などの<ruby>原材料<rt data-ruby-level="4">げんざいりょう</rt></ruby><ruby>価格<rt
+    data-ruby-level="5">かかく</rt></ruby>も<ruby>値上<rt data-ruby-level="6">ねあ</rt></ruby>がりしているという<ruby>複合的<rt
+    data-ruby-level="5">ふくごうてき</rt></ruby>な<ruby>要因<rt data-ruby-level="5">よういん</rt></ruby>によるものです。<br
+    /><br /><ruby>人件費<rt data-ruby-level="5">じんけんひ</rt></ruby>は、<ruby>最低賃金<rt data-ruby-level="6">さいていちんぎん</rt></ruby>の<ruby>全国<rt
+    data-ruby-level="3">ぜんこく</rt></ruby><ruby>平均<rt data-ruby-level="5">へいきん</rt></ruby>がこの５<ruby>年間<rt
+    data-ruby-level="2">ねんかん</rt></ruby>でおよそ１３％<ruby>上<rt data-ruby-level="1">あ</rt></ruby>がったことに<ruby>加<rt
+    data-ruby-level="4">くわ</rt></ruby>え、<ruby>人手<rt data-ruby-level="1">ひとで</rt></ruby><ruby>不足<rt
+    data-ruby-level="4">ぶそく</rt></ruby>が<ruby>深刻化<rt data-ruby-level="6">しんこくか</rt></ruby>する<ruby>中<rt
+    data-ruby-level="6">なか</rt></ruby>で<ruby>賃金<rt data-ruby-level="6">ちんぎん</rt></ruby>を<ruby>引<rt
+    data-ruby-level="2">ひ</rt></ruby>き<ruby>上<rt data-ruby-level="2">あ</rt></ruby>げて<ruby>人手<rt
+    data-ruby-level="1">ひとで</rt></ruby>を<ruby>確保<rt data-ruby-level="5">かくほ</rt></ruby>しようという<ruby>動<rt
+    data-ruby-level="3">うご</rt></ruby>きが<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>まっています。<ruby>特<rt
+    data-ruby-level="4">とく</rt></ruby>にトラックドライバーの<ruby>賃金<rt data-ruby-level="6">ちんぎん</rt></ruby>の<ruby>引<rt
+    data-ruby-level="2">ひ</rt></ruby>き<ruby>上<rt data-ruby-level="2">あ</rt></ruby>げは、<ruby>幅広<rt
+    data-ruby-level="7">はばひろ</rt></ruby>い<ruby>業界<rt data-ruby-level="3">ぎょうかい</rt></ruby>にとって<ruby>輸送<rt
+    data-ruby-level="5">ゆそう</rt></ruby>にかかる<ruby>物流<rt data-ruby-level="3">ぶつりゅう</rt></ruby><ruby>費<rt
+    data-ruby-level="4">ひ</rt></ruby>の<ruby>上昇<rt data-ruby-level="7">じょうしょう</rt></ruby>につながっています。<br
+    /><br /><ruby>例<rt data-ruby-level="4">たと</rt></ruby>えば、<ruby>粉末<rt data-ruby-level="4">ふんまつ</rt></ruby>のコーヒーを<ruby>値上<rt
+    data-ruby-level="6">ねあ</rt></ruby>げする「<ruby>ネスレ<rt data-ruby-level="1">ねすれ</rt></ruby><ruby>日本<rt
+    data-ruby-level="1">にっぽん</rt></ruby>」では、<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>の<ruby>物流<rt
+    data-ruby-level="3">ぶつりゅう</rt></ruby><ruby>費<rt data-ruby-level="4">ひ</rt></ruby>がその２<ruby>年前<rt
+    data-ruby-level="2">ねんまえ</rt></ruby>の１．５<ruby>倍<rt data-ruby-level="3">ばい</rt></ruby>になったとしています。<br
+    /><br />ビール<ruby>業界<rt data-ruby-level="3">ぎょうかい</rt></ruby>でも、<ruby>容器<rt data-ruby-level="5">ようき</rt></ruby>を<ruby>回収<rt
+    data-ruby-level="6">かいしゅう</rt></ruby>する<ruby>費用<rt data-ruby-level="4">ひよう</rt></ruby>がかかる<ruby>瓶<rt
+    data-ruby-level="7">びん</rt></ruby>とたる<ruby>詰<rt data-ruby-level="7">づ</rt></ruby>めが<ruby>値上<rt
+    data-ruby-level="6">ねあ</rt></ruby>げの<ruby>対象<rt data-ruby-level="4">たいしょう</rt></ruby>となりました。<br
+    /><br />また、コメや<ruby>大豆<rt data-ruby-level="3">だいず</rt></ruby>などの<ruby>穀物<rt data-ruby-level="6">こくもつ</rt></ruby>、ぶどうなどの<ruby>果物<rt
+    data-ruby-level="8">くだもの</rt></ruby>もさまざまな<ruby>要因<rt data-ruby-level="5">よういん</rt></ruby>で<ruby>価格<rt
+    data-ruby-level="5">かかく</rt></ruby>が<ruby>上昇<rt data-ruby-level="7">じょうしょう</rt></ruby>しています。<br
+    /><br />コメの<ruby>価格<rt data-ruby-level="5">かかく</rt></ruby>は３<ruby>年<rt data-ruby-level="1">ねん</rt></ruby><ruby>連続<rt
+    data-ruby-level="4">れんぞく</rt></ruby>で<ruby>上昇<rt data-ruby-level="7">じょうしょう</rt></ruby>し、<ruby>全国<rt
+    data-ruby-level="3">ぜんこく</rt></ruby>の<ruby>農協<rt data-ruby-level="4">のうきょう</rt></ruby>が<ruby>卸売業<rt
+    data-ruby-level="7">おろしうりぎょう</rt></ruby><ruby>者<rt data-ruby-level="3">しゃ</rt></ruby>に<ruby>販売<rt
+    data-ruby-level="7">はんばい</rt></ruby>した<ruby>際<rt data-ruby-level="5">さい</rt></ruby>の<ruby>価格<rt
+    data-ruby-level="5">かかく</rt></ruby>は、２<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>は<ruby>去年<rt
+    data-ruby-level="3">きょねん</rt></ruby>の<ruby>同<rt data-ruby-level="2">おな</rt></ruby>じ<ruby>月<rt
+    data-ruby-level="1">つき</rt></ruby>に<ruby>比<rt data-ruby-level="5">くら</rt></ruby>べ<ruby>平均<rt
+    data-ruby-level="5">へいきん</rt></ruby>でおよそ１０％<ruby>値上<rt data-ruby-level="6">ねあ</rt></ruby>がりしています。これは<ruby>去年<rt
+    data-ruby-level="3">きょねん</rt></ruby>の<ruby>天候<rt data-ruby-level="4">てんこう</rt></ruby><ruby>不良<rt
+    data-ruby-level="4">ふりょう</rt></ruby>で<ruby>収穫<rt data-ruby-level="7">しゅうかく</rt></ruby>が<ruby>減<rt
+    data-ruby-level="5">へ</rt></ruby>ったことや、<ruby>国<rt data-ruby-level="2">くに</rt></ruby>の<ruby>政策<rt
+    data-ruby-level="6">せいさく</rt></ruby>のもとで<ruby>補助金<rt data-ruby-level="6">ほじょきん</rt></ruby>がでる<ruby>家畜<rt
+    data-ruby-level="7">かちく</rt></ruby>の<ruby>飼料用<rt data-ruby-level="5">しりょうよう</rt></ruby><ruby>米<rt
+    data-ruby-level="2">まい</rt></ruby>を<ruby>作<rt data-ruby-level="2">つく</rt></ruby>る<ruby>農家<rt
+    data-ruby-level="3">のうか</rt></ruby>が<ruby>増<rt data-ruby-level="5">ふ</rt></ruby>え、<ruby>食用<rt
+    data-ruby-level="2">しょくよう</rt></ruby>のコメの<ruby>作付<rt data-ruby-level="4">さくづ</rt></ruby>けが<ruby>減<rt
+    data-ruby-level="5">へ</rt></ruby>ったことなどが<ruby>影響<rt data-ruby-level="7">えいきょう</rt></ruby>しています。<br
+    /><br />ワインの<ruby>原料<rt data-ruby-level="4">げんりょう</rt></ruby>となるぶどうは、ここ<ruby>数<rt
+    data-ruby-level="2">すう</rt></ruby><ruby>年<rt data-ruby-level="1">ねん</rt></ruby>、<ruby>産地<rt
+    data-ruby-level="4">さんち</rt></ruby>の<ruby>南米<rt data-ruby-level="2">なんべい</rt></ruby>やヨーロッパなどで<ruby>天候<rt
+    data-ruby-level="4">てんこう</rt></ruby><ruby>不良<rt data-ruby-level="4">ふりょう</rt></ruby>の<ruby>影響<rt
+    data-ruby-level="7">えいきょう</rt></ruby>によって<ruby>不作<rt data-ruby-level="4">ふさく</rt></ruby>となったことが<ruby>価格<rt
+    data-ruby-level="5">かかく</rt></ruby>の<ruby>上昇<rt data-ruby-level="7">じょうしょう</rt></ruby>につながっています。<ruby>納豆<rt
+    data-ruby-level="7">なっとう</rt></ruby>の<ruby>原料<rt data-ruby-level="4">げんりょう</rt></ruby>となる<ruby>大豆<rt
+    data-ruby-level="3">だいず</rt></ruby>は、<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>やインドなどで<ruby>需要<rt
+    data-ruby-level="7">じゅよう</rt></ruby>が<ruby>高<rt data-ruby-level="2">たか</rt></ruby>まったことで、<ruby>輸入<rt
+    data-ruby-level="5">ゆにゅう</rt></ruby><ruby>価格<rt data-ruby-level="5">かかく</rt></ruby>が<ruby>上昇<rt
+    data-ruby-level="7">じょうしょう</rt></ruby>しています。
+source_url: https://www3.nhk.or.jp/news/html/20180401/k10011387021000.html
+easy_title_with_ruby: ４<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>から<ruby>食料品<rt
+  data-ruby-level="4">しょくりょうひん</rt></ruby>などの<ruby>値段<rt data-ruby-level="6">ねだん</rt></ruby>が<ruby>上<rt
+  data-ruby-level="1">あ</rt></ruby>がる
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/04/02/4月から食料品などの値段が上がる
+related_news:
+- title: <ruby>小麦粉<rt data-ruby-level="4">こむぎこ</rt></ruby>やビールも…ことし<ruby>身近<rt data-ruby-level="3">みぢか</rt></ruby>な<ruby>食品<rt
+    data-ruby-level="3">しょくひん</rt></ruby>の<ruby>値上<rt data-ruby-level="6">ねあ</rt></ruby>げ<ruby>相次<rt
+    data-ruby-level="3">あいつ</rt></ruby>ぐ
+  url: https://newswebeasy.github.io/news/web/2018/01/04/小麦粉やビールもことし身近な食品の値上げ相次ぐ
+- title: 「<ruby>松屋<rt data-ruby-level="4">まつや</rt></ruby>」<ruby>来月<rt data-ruby-level="2">らいげつ</rt></ruby>から<ruby>牛丼<rt
+    data-ruby-level="8">ぎゅうどん</rt></ruby>など<ruby>値上<rt data-ruby-level="6">ねあ</rt></ruby>げへ
+  url: https://newswebeasy.github.io/news/web/2018/03/20/松屋来月から牛丼など値上げへ
+- title: ビール<ruby>系<rt data-ruby-level="6">けい</rt></ruby><ruby>飲料<rt data-ruby-level="4">いんりょう</rt></ruby><ruby>出荷量<rt
+    data-ruby-level="7">しゅっかりょう</rt></ruby> 13<ruby>年<rt data-ruby-level="1">ねん</rt></ruby><ruby>連続<rt
+    data-ruby-level="4">れんぞく</rt></ruby>で<ruby>過去<rt data-ruby-level="5">かこ</rt></ruby><ruby>最低<rt
+    data-ruby-level="4">さいてい</rt></ruby><ruby>更新<rt data-ruby-level="7">こうしん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/16/ビール系飲料出荷量-13年連続で過去最低更新
+...

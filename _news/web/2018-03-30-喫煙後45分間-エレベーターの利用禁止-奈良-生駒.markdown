@@ -19,7 +19,7 @@ summary: 「たばこを<ruby>吸<rt data-ruby-level="6">す</rt></ruby>った<r
   data-ruby-level="6">たいさく</rt></ruby>を<ruby>奈良県<rt data-ruby-level="8">ならけん</rt></ruby><ruby>生駒市<rt
   data-ruby-level="7">いこまし</rt></ruby>が<ruby>来月<rt data-ruby-level="2">らいげつ</rt></ruby>から<ruby>始<rt
   data-ruby-level="3">はじ</rt></ruby>めることになりました。
-image_url: https://newswebeasy.github.io/ja201803/news/web/image/2018/03/30/K10011384731_1803292259_1803300620_01_02.jpg
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/03/30/K10011384731_1803292259_1803300620_01_02.jpg
 more: <ruby>奈良県<rt data-ruby-level="8">ならけん</rt></ruby><ruby>生駒市<rt data-ruby-level="7">いこまし</rt></ruby>は５<ruby>年<rt
   data-ruby-level="1">ねん</rt></ruby>ほど<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>から、<ruby>市役所<rt
   data-ruby-level="3">しやくしょ</rt></ruby>の５<ruby>階建<rt data-ruby-level="4">かいだ</rt></ruby>ての<ruby>庁舎内<rt
@@ -63,9 +63,12 @@ more: <ruby>奈良県<rt data-ruby-level="8">ならけん</rt></ruby><ruby>生�
   data-ruby-level="7">おとず</rt></ruby>れる<ruby>市民<rt data-ruby-level="4">しみん</rt></ruby>の<ruby>皆<rt
   data-ruby-level="7">みな</rt></ruby>さんにも<ruby>協力<rt data-ruby-level="4">きょうりょく</rt></ruby>をお<ruby>願<rt
   data-ruby-level="4">ねが</rt></ruby>いしたいです」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>しています。
-movie_url: https://newswebeasy.github.io/ja201803/news/web/movie/2018/03/30/k10011384731_201803300615_201803300620.mp4
-voice_url: https://newswebeasy.github.io/ja201803/news/web/voice/2018/03/30/k10011384731_201803300615_201803300620.mp3
+movie_url: https://newswebeasy.github.io/ja201804/news/web/movie/2018/03/30/k10011384731_201803300615_201803300620.mp4
+voice_url: https://newswebeasy.github.io/ja201804/news/web/voice/2018/03/30/k10011384731_201803300615_201803300620.mp3
 source_url: https://www3.nhk.or.jp/news/html/20180330/k10011384731000.html
+easy_title_with_ruby: たばこを<ruby>吸<rt data-ruby-level="6">す</rt></ruby>ったあと４５<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>エレベーターに<ruby>乗<rt data-ruby-level="3">の</rt></ruby>ってはいけない
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/04/02/たばこを吸ったあと45分エレベーターに乗ってはいけない
 related_news:
 - title: オランウータンが<ruby>喫煙<rt data-ruby-level="7">きつえん</rt></ruby> <ruby>動物園<rt data-ruby-level="3">どうぶつえん</rt></ruby>とたばこ<ruby>投入<rt
     data-ruby-level="3">とうにゅう</rt></ruby>の<ruby>来園者<rt data-ruby-level="3">らいえんしゃ</rt></ruby>に<ruby>非難<rt
