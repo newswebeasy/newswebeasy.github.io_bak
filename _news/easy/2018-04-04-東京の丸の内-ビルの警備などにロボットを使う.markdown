@@ -1,0 +1,80 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011389381000
+last_modified_at: '2018-04-04T17:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>04<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 東京駅の近くの丸の内には会社や店が入ったビルがたくさんあります。
+title: 東京の丸の内　ビルの警備などにロボットを使う
+title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>丸<rt>まる</rt></ruby>の<ruby>内<rt>うち</rt></ruby>　ビルの<ruby>警備<rt>けいび</rt></ruby>などにロボットを<ruby>使<rt>つか</rt></ruby>う
+outline: 東京駅の近くの丸の内には会社や店が入ったビルがたくさんあります。
+outline_with_ruby: <ruby>東京駅<rt>とうきょうえき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>丸<rt>まる</rt></ruby>の<ruby>内<rt>うち</rt></ruby>には<ruby>会社<rt>かいしゃ</rt></ruby>や<ruby>店<rt>みせ</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ったビルがたくさんあります。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/03/K10011389381_1804031509_1804031516_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/04/k10011389381000.mp4
+content_with_ruby: "<p><ruby>東京駅<rt>とうきょうえき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>丸<rt>まる</rt></ruby>の<ruby>内<rt>うち</rt></ruby>には<ruby>会社<rt>かいしゃ</rt></ruby>や<ruby>店<rt>みせ</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ったビルがたくさんあります。ビルの<span\
+  \ style=\"color: blue;\"><ruby>管理<rt>かんり</rt></ruby></span>をしている<ruby>会社<rt>かいしゃ</rt></ruby>などは４<ruby>月<rt>がつ</rt></ruby>からビルの<span\
+  \ style=\"color: blue;\"><ruby>警備<rt>けいび</rt></ruby></span>に<span style=\"color:\
+  \ blue;\">ロボット</span>を<ruby>使<rt>つか</rt></ruby>うことにしました。</p>\n<p><span style=\"\
+  color: blue;\">ロボット</span>にはカメラが<span style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>い</span>ていて、<ruby>夜<rt>よる</rt></ruby><span\
+  \ style=\"color: blue;\">あやしい</span><ruby>人<rt>ひと</rt></ruby>などを<ruby>見<rt>み</rt></ruby>つけた<ruby>場合<rt>ばあい</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>警備<rt>けいび</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>がいる<ruby>所<rt>ところ</rt></ruby>に<ruby>知<rt>し</rt></ruby>らせます。<ruby>昼<rt>ひる</rt></ruby>はビルに<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\">ロボット</span>に<span style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>い</span>ている<span\
+  \ style=\"color: blue;\"><ruby>画面<rt>がめん</rt></ruby></span>で<ruby>行<rt>い</rt></ruby>きたい<ruby>店<rt>みせ</rt></ruby>などを<ruby>探<rt>さが</rt></ruby>すことができます。</p>\n\
+  <p><ruby>廊下<rt>ろうか</rt></ruby>などを<ruby>掃除<rt>そうじ</rt></ruby>する<span style=\"color:\
+  \ blue;\">ロボット</span>も<ruby>使<rt>つか</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>める<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p><ruby>丸<rt>まる</rt></ruby>の<ruby>内<rt>うち</rt></ruby>では、<span style=\"color: blue;\"\
+  >スタッフ</span>がセグウェイという<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って、<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>に<ruby>道<rt>みち</rt></ruby>の<ruby>案内<rt>あんない</rt></ruby>などをする<span\
+  \ style=\"color: blue;\">サービス</span>も<ruby>始<rt>はじ</rt></ruby>まりました。</p>\n<p><ruby>会社<rt>かいしゃ</rt></ruby>は「<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなっているので、<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>をもっと<ruby>使<rt>つか</rt></ruby>っていきたいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 警備
+  descriptions:
+  - <ruby><rb>悪</rb><rt>わる</rt></ruby>いことが<ruby><rb>起</rb><rt>お</rt></ruby>こらないように、<ruby><rb>気</rb><rt>き</rt></ruby>をつけて<ruby><rb>守</rb><rt>まも</rt></ruby>ること。
+- word: ロボット
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>磁気</rb><rt>じき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。<ruby><rb>人造</rb><rt>じんぞう</rt></ruby><ruby><rb>人間</rb><rt>にんげん</rt></ruby>。
+  - <ruby><rb>工場</rb><rt>こうじょう</rt></ruby>などで<ruby><rb>人間</rb><rt>にんげん</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって、<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。
+  - （いつも）<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>いなりになって<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 管理
+  descriptions:
+  - ものごとを、<ruby><rb>取</rb><rt>と</rt></ruby>りしまること。
+  - よい<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>に<ruby><rb>保</rb><rt>たも</rt></ruby>つこと。
+- word: 付く
+  descriptions:
+  - ものがくっつく。
+  - つきそう。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>わる。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まる。
+  - <ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。
+  - <ruby><rb>感</rb><rt>かん</rt></ruby>じる。
+  - ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。
+- word: 怪しい
+  descriptions:
+  - <ruby><rb>気味</rb><rt>きみ</rt></ruby>が<ruby><rb>悪</rb><rt>わる</rt></ruby>い。へんなようすだ。
+  - <ruby><rb>疑</rb><rt>うたが</rt></ruby>わしい。<ruby><rb>信用</rb><rt>しんよう</rt></ruby>できない。
+- word: 画面
+  descriptions:
+  - <ruby><rb>映画</rb><rt>えいが</rt></ruby>やテレビが<ruby><rb>映</rb><rt>うつ</rt></ruby>っている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+- word: スタッフ
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>のために、それぞれの<ruby><rb>役割</rb><rt>やくわり</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>って<ruby><rb>働</rb><rt>はたら</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>たち。
+  - <ruby><rb>映画</rb><rt>えいが</rt></ruby>や<ruby><rb>劇</rb><rt>げき</rt></ruby>、テレビなどで、<ruby><rb>出演者</rb><rt>しゅつえんしゃ</rt></ruby><ruby><rb>以外</rb><rt>いがい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>係</rb><rt>かかり</rt></ruby>。<ruby><rb>監督</rb><rt>かんとく</rt></ruby>・カメラマン・<ruby><rb>道具係</rb><rt>どうぐがかり</rt></ruby>など。
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011389381000/k10011389381000.html
+web_title_with_ruby: <ruby>ロボット<rt>ろぼっと</rt></ruby>で<ruby>警備<rt>けいび</rt></ruby>や<ruby>道案内<rt>みちあんない</rt></ruby>
+  <ruby>丸<rt>まる</rt></ruby>の<ruby>内<rt>うち</rt></ruby>に<ruby>登場<rt>とうじょう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/03/ロボットで警備や道案内-丸の内に登場
+related_news:
+- title: ロボットがコーヒーをいれる<ruby>店<rt>みせ</rt></ruby>がオープン
+  url: https://newswebeasy.github.io/news/easy/2018/01/31/ロボットがコーヒーをいれる店がオープン
+- title: <ruby>介護<rt>かいご</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>うロボットを<ruby>作<rt>つく</rt></ruby>ろう
+  url: https://newswebeasy.github.io/news/easy/2018/04/03/介護の仕事を手伝うロボットを作ろう
+- title: <ruby>大阪<rt>おおさか</rt></ruby>　<ruby>日本<rt>にっぽん</rt></ruby>でいちばん<ruby>高<rt>たか</rt></ruby>いビルの<ruby>屋上<rt>おくじょう</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>くアトラクション
+  url: https://newswebeasy.github.io/news/easy/2018/03/02/大阪-日本でいちばん高いビルの屋上を歩くアトラクション
+- title: ロボットで<ruby>海<rt>うみ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるレース　<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>決勝<rt>けっしょう</rt></ruby>に<ruby>進<rt>すす</rt></ruby>む
+  url: https://newswebeasy.github.io/news/easy/2018/03/12/ロボットで海の底を調べるレース-日本が決勝に進む
+...

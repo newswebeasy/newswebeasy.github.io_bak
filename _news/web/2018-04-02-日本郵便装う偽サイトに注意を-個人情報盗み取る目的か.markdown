@@ -1,0 +1,70 @@
+---
+layout: web_news
+categories: web
+newsid: k10011388591000
+title: 日本郵便装う偽サイトに注意を 個人情報盗み取る目的か
+title_with_ruby: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>郵便<rt data-ruby-level="6">ゆうびん</rt></ruby><ruby>装<rt
+  data-ruby-level="7">よそお</rt></ruby>う<ruby>偽<rt data-ruby-level="7">にせ</rt></ruby>サイトに<ruby>注意<rt
+  data-ruby-level="3">ちゅうい</rt></ruby>を <ruby>個人<rt data-ruby-level="5">こじん</rt></ruby><ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby><ruby>盗<rt data-ruby-level="7">ぬす</rt></ruby>み<ruby>取<rt
+  data-ruby-level="7">と</rt></ruby>る<ruby>目的<rt data-ruby-level="4">もくてき</rt></ruby>か
+last_modified_at: '2018-04-02T20:43:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>04<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>02<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 20<ruby>時<rt data-ruby-level="2">じ</rt></ruby>43<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 日本郵便のホームページを装った偽のウェブサイトが見つかりました。アンケートの名目で個人情報を盗み取るのが目的とみられ、日本郵便などが注意を呼びかけています。
+summary: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>郵便<rt data-ruby-level="6">ゆうびん</rt></ruby>のホームページを<ruby>装<rt
+  data-ruby-level="7">よそお</rt></ruby>った<ruby>偽<rt data-ruby-level="7">にせ</rt></ruby>のウェブサイトが<ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>つかりました。アンケートの<ruby>名目<rt data-ruby-level="1">めいもく</rt></ruby>で<ruby>個人<rt
+  data-ruby-level="5">こじん</rt></ruby><ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>を<ruby>盗<rt
+  data-ruby-level="7">ぬす</rt></ruby>み<ruby>取<rt data-ruby-level="7">と</rt></ruby>るのが<ruby>目的<rt
+  data-ruby-level="4">もくてき</rt></ruby>とみられ、<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>郵便<rt
+  data-ruby-level="6">ゆうびん</rt></ruby>などが<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>を<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけています。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/02/K10011388591_1804022028_1804022057_01_02.jpg
+more: このサイトはスマートフォンやパソコンでインターネットの<ruby>画面<rt data-ruby-level="3">がめん</rt></ruby>を<ruby>閲覧<rt
+  data-ruby-level="7">えつらん</rt></ruby>していると<ruby>突然<rt data-ruby-level="7">とつぜん</rt></ruby><ruby>表示<rt
+  data-ruby-level="5">ひょうじ</rt></ruby>され、<ruby>郵便<rt data-ruby-level="6">ゆうびん</rt></ruby>の<ruby>利用<rt
+  data-ruby-level="4">りよう</rt></ruby><ruby>頻度<rt data-ruby-level="7">ひんど</rt></ruby>やサービスの<ruby>満足度<rt
+  data-ruby-level="4">まんぞくど</rt></ruby>などにアンケート<ruby>形式<rt data-ruby-level="3">けいしき</rt></ruby>で<ruby>答<rt
+  data-ruby-level="2">こた</rt></ruby>えるよう<ruby>求<rt data-ruby-level="4">もと</rt></ruby>められます。<br
+  /><br /><ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>郵便<rt data-ruby-level="6">ゆうびん</rt></ruby>の<ruby>本物<rt
+  data-ruby-level="3">ほんもの</rt></ruby>そっくりのロゴが<ruby>表示<rt data-ruby-level="5">ひょうじ</rt></ruby>されていて、アンケートに<ruby>回答<rt
+  data-ruby-level="2">かいとう</rt></ruby>していくと<ruby>最後<rt data-ruby-level="4">さいご</rt></ruby>に<ruby>最新型<rt
+  data-ruby-level="4">さいしんがた</rt></ruby>のスマートフォンが<ruby>受<rt data-ruby-level="3">う</rt></ruby>け<ruby>取<rt
+  data-ruby-level="3">と</rt></ruby>れるとして、<ruby>住所<rt data-ruby-level="3">じゅうしょ</rt></ruby>や<ruby>名前<rt
+  data-ruby-level="2">なまえ</rt></ruby>、<ruby>電話<rt data-ruby-level="2">でんわ</rt></ruby><ruby>番号<rt
+  data-ruby-level="3">ばんごう</rt></ruby>などの<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby><ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>を<ruby>入力<rt data-ruby-level="1">にゅうりょく</rt></ruby>する<ruby>画面<rt
+  data-ruby-level="3">がめん</rt></ruby>に<ruby>誘導<rt data-ruby-level="7">ゆうどう</rt></ruby>されるようになっています。<br
+  /><br /><ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>郵便<rt data-ruby-level="6">ゆうびん</rt></ruby>には<ruby>不審<rt
+  data-ruby-level="7">ふしん</rt></ruby>に<ruby>思<rt data-ruby-level="2">おも</rt></ruby>った<ruby>利用者<rt
+  data-ruby-level="4">りようしゃ</rt></ruby>から<ruby>問<rt data-ruby-level="3">と</rt></ruby>い<ruby>合<rt
+  data-ruby-level="3">あ</rt></ruby>わせが<ruby>相次<rt data-ruby-level="3">あいつ</rt></ruby>いでいて、<ruby>確認<rt
+  data-ruby-level="7">かくにん</rt></ruby>したところ<ruby>偽<rt data-ruby-level="7">にせ</rt></ruby>のサイトだとわかったということです。<br
+  /><br /><ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>郵便<rt data-ruby-level="6">ゆうびん</rt></ruby>やネットのセキュリティー<ruby>会社<rt
+  data-ruby-level="2">がいしゃ</rt></ruby>は、<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby><ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>を<ruby>盗<rt data-ruby-level="7">ぬす</rt></ruby>み<ruby>取<rt
+  data-ruby-level="7">と</rt></ruby>る「フィッシング」という<ruby>手口<rt data-ruby-level="1">てぐち</rt></ruby>とみて、<ruby>入力<rt
+  data-ruby-level="1">にゅうりょく</rt></ruby>などを<ruby>絶対<rt data-ruby-level="5">ぜったい</rt></ruby>にしないよう<ruby>注意<rt
+  data-ruby-level="3">ちゅうい</rt></ruby>を<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけています。
+movie_url: https://newswebeasy.github.io/ja201804/news/web/movie/2018/04/02/k10011388591_201804022112_201804022117.mp4
+voice_url: https://newswebeasy.github.io/ja201804/news/web/voice/2018/04/02/k10011388591_201804022112_201804022117.mp3
+source_url: https://www3.nhk.or.jp/news/html/20180402/k10011388591000.html
+easy_title_with_ruby: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>郵便<rt
+  data-ruby-level="6">ゆうびん</rt></ruby>のホームページに<ruby>似<rt data-ruby-level="5">に</rt></ruby>たウェブサイトに<ruby>気<rt
+  data-ruby-level="1">き</rt></ruby>をつけて
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/04/04/日本郵便のホームページに似たウェブサイトに気をつけて
+related_news:
+- title: ピョンチャン<ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby><ruby>記念<rt data-ruby-level="4">きねん</rt></ruby><ruby>切手<rt
+    data-ruby-level="2">きって</rt></ruby>30<ruby>万<rt data-ruby-level="2">まん</rt></ruby>シート<ruby>超<rt
+    data-ruby-level="7">ちょう</rt></ruby> リオ<ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby>の３<ruby>倍以上<rt
+    data-ruby-level="4">ばいいじょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/02/28/ピョンチャン五輪記念切手30万シート超-リオ五輪の3倍以上
+- title: <ruby>年賀<rt data-ruby-level="5">ねんが</rt></ruby>はがき 62<ruby>円<rt data-ruby-level="1">えん</rt></ruby>に<ruby>値上<rt
+    data-ruby-level="6">ねあ</rt></ruby>げを<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/02/23/年賀はがき-62円に値上げを発表
+- title: ピョンチャン<ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby>メダリストの<ruby>切手<rt data-ruby-level="2">きって</rt></ruby>シート
+    15<ruby>日<rt data-ruby-level="1">にち</rt></ruby>から<ruby>販売<rt data-ruby-level="7">はんばい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/02/14/ピョンチャン五輪メダリストの切手シート-15日から販売
+...

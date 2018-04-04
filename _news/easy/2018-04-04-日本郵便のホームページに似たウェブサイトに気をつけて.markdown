@@ -1,0 +1,71 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011388591000
+last_modified_at: '2018-04-04T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>04<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 日本郵便のホームページに似ている偽物のウェブサイトが見つかりました。
+title: 日本郵便のホームページに似たウェブサイトに気をつけて
+title_with_ruby: <ruby>日本郵便<rt>にっぽんゆうびん</rt></ruby>のホームページに<ruby>似<rt>に</rt></ruby>たウェブサイトに<ruby>気<rt>き</rt></ruby>をつけて
+outline: 日本郵便のホームページに似ている偽物のウェブサイトが見つかりました。
+outline_with_ruby: <ruby>日本郵便<rt>にっぽんゆうびん</rt></ruby>のホームページに<ruby>似<rt>に</rt></ruby>ている<ruby>偽物<rt>にせもの</rt></ruby>のウェブサイトが<ruby>見<rt>み</rt></ruby>つかりました。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/02/K10011388591_1804022028_1804022057_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/04/k10011388591000.mp4
+content_with_ruby: "<p><ruby>日本郵便<rt>にっぽんゆうびん</rt></ruby>の<span style=\"color: blue;\"\
+  >ホームページ</span>に<ruby>似<rt>に</rt></ruby>ている<span style=\"color: blue;\"><ruby>偽物<rt>にせもの</rt></ruby></span>の<span\
+  \ style=\"color: blue;\">ウェブサイト</span>が<ruby>見<rt>み</rt></ruby>つかりました。</p>\n<p>この<span\
+  \ style=\"color: blue;\">ウェブサイト</span>は、スマートフォンやパソコンでインターネットを<ruby>見<rt>み</rt></ruby>ていると、<span\
+  \ style=\"color: blue;\"><ruby>突然<rt>とつぜん</rt></ruby></span><ruby>出<rt>で</rt></ruby>てきます。そして、どのくらい<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うかや、<span\
+  \ style=\"color: blue;\">サービス</span>に<span style=\"color: blue;\"><ruby>満足<rt>まんぞく</rt></ruby></span>しているかなどを<ruby>質問<rt>しつもん</rt></ruby>します。この<span\
+  \ style=\"color: blue;\">ウェブサイト</span>には<ruby>日本郵便<rt>にっぽんゆうびん</rt></ruby>の<span\
+  \ style=\"color: blue;\">マーク</span>とよく<ruby>似<rt>に</rt></ruby>た<span style=\"color:\
+  \ blue;\">マーク</span>が<ruby>出<rt>で</rt></ruby>ています。</p>\n<p><ruby>質問<rt>しつもん</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>に、<ruby>住所<rt>じゅうしょ</rt></ruby>や<ruby>名前<rt>なまえ</rt></ruby>、<ruby>電話<rt>でんわ</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>などを<ruby>書<rt>か</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>画面<rt>がめん</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>てきます。<ruby>日本郵便<rt>にっぽんゆうびん</rt></ruby>などは、この<span\
+  \ style=\"color: blue;\">ウェブサイト</span>は<span style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>を<ruby>盗<rt>ぬす</rt></ruby>もうとしているので<ruby>決<rt>けっ</rt></ruby>して<ruby>住所<rt>じゅうしょ</rt></ruby>や<ruby>名前<rt>なまえ</rt></ruby>などを<ruby>書<rt>か</rt></ruby>かないでほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ホームページ
+  descriptions:
+  - <ruby><rb>団体</rb><rt>だんたい</rt></ruby>や<ruby><rb>個人</rb><rt>こじん</rt></ruby>が、インターネットを<ruby><rb>通</rb><rt>つう</rt></ruby>じて<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>を<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせるために、<ruby><rb>用意</rb><rt>ようい</rt></ruby>する<ruby><rb>画面</rb><rt>がめん</rt></ruby>。
+  - 「<span class="dic_sansyogogi">1)</span>」の<ruby><rb>表紙</rb><rt>ひょうし</rt></ruby>となるページ。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+- word: 偽物
+  descriptions:
+  - <ruby><rb>本物</rb><rt>ほんもの</rt></ruby>に<ruby><rb>似</rb><rt>に</rt></ruby>せて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 突然
+  descriptions:
+  - <ruby><rb>急</rb><rt>きゅう</rt></ruby>に。思いがけなく。
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: 満足
+  descriptions:
+  - すべて<ruby><rb>思</rb><rt>おも</rt></ruby>うようになっていて、<ruby><rb>不平</rb><rt>ふへい</rt></ruby>や<ruby><rb>不満</rb><rt>ふまん</rt></ruby>のないこと。
+  - <ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>であること。<ruby><rb>完全</rb><rt>かんぜん</rt></ruby>。
+- word: マーク
+  descriptions:
+  - しるし。<ruby><rb>記号</rb><rt>きごう</rt></ruby>。また、しるしをつけること。
+  - <ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>目</rb><rt>め</rt></ruby>をつけて<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>すること。
+  - <ruby><rb>記録</rb><rt>きろく</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ること。
+- word: 画面
+  descriptions:
+  - <ruby><rb>映画</rb><rt>えいが</rt></ruby>やテレビが<ruby><rb>映</rb><rt>うつ</rt></ruby>っている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+- word: 情報
+  descriptions:
+  - できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011388591000/k10011388591000.html
+web_title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby><ruby>郵便<rt>ゆうびん</rt></ruby><ruby>装<rt>よそお</rt></ruby>う<ruby>偽<rt>にせ</rt></ruby><ruby>サイト<rt>さいと</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>を
+  <ruby>個人<rt>こじん</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby><ruby>盗<rt>ぬす</rt></ruby>み<ruby>取<rt>と</rt></ruby>る<ruby>目的<rt>もくてき</rt></ruby>か
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/02/日本郵便装う偽サイトに注意を-個人情報盗み取る目的か
+related_news:
+- title: メダルを<ruby>取<rt>と</rt></ruby>った<ruby>選手<rt>せんしゅ</rt></ruby>の<ruby>切手<rt>きって</rt></ruby>が３０<ruby>万<rt>まん</rt></ruby>セット<ruby>以上<rt>いじょう</rt></ruby><ruby>売<rt>う</rt></ruby>れる
+  url: https://newswebeasy.github.io/news/easy/2018/03/02/メダルを取った選手の切手が30万セット以上売れる
+- title: オリンピックでメダルを<ruby>取<rt>と</rt></ruby>った<ruby>選手<rt>せんしゅ</rt></ruby>の<ruby>切手<rt>きって</rt></ruby>を<ruby>売<rt>う</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/02/16/オリンピックでメダルを取った選手の切手を売る
+- title: <ruby>本当<rt>ほんとう</rt></ruby>にある<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってお<ruby>金<rt>かね</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>むメールが<ruby>多<rt>おお</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2018/01/04/本当にある会社の名前を使ってお金を盗むメールが多い
+...

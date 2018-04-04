@@ -1,0 +1,90 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011389831000
+last_modified_at: '2018-04-04T17:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>04<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 医師などのグループが、春の体の調子についてインターネットで調査をしました。
+title: 春に体や心の調子がよくないと感じる人が６０％いた
+title_with_ruby: <ruby>春<rt>はる</rt></ruby>に<ruby>体<rt>からだ</rt></ruby>や<ruby>心<rt>こころ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>がよくないと<ruby>感<rt>かん</rt></ruby>じる<ruby>人<rt>ひと</rt></ruby>が６０％いた
+outline: 医師などのグループが、春の体の調子についてインターネットで調査をしました。
+outline_with_ruby: <ruby>医師<rt>いし</rt></ruby>などのグループが、<ruby>春<rt>はる</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>についてインターネットで<ruby>調査<rt>ちょうさ</rt></ruby>をしました。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/03/K10011389831_1804032134_1804032140_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/04/k10011389831000.mp4
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>医師<rt>いし</rt></ruby></span>などの<span\
+  \ style=\"color: blue;\">グループ</span>が、<ruby>春<rt>はる</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>調子<rt>ちょうし</rt></ruby></span>についてインターネットで<span style=\"\
+  color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span>をしました。<ruby>東京都<rt>とうきょうと</rt></ruby>とその<ruby>近<rt>ちか</rt></ruby>くに<ruby>住<rt>す</rt></ruby>んでいる<ruby>男性<rt>だんせい</rt></ruby>と<ruby>女性<rt>じょせい</rt></ruby>８３８<ruby>人<rt>にん</rt></ruby>が<ruby>答<rt>こた</rt></ruby>えました。</p>\n\
+  <p>「３<ruby>月<rt>がつ</rt></ruby>から４<ruby>月<rt>がつ</rt></ruby>に<ruby>体<rt>からだ</rt></ruby>や<ruby>心<rt>こころ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>調子<rt>ちょうし</rt></ruby></span>がよくないと<span style=\"\
+  color: blue;\"><ruby>感<rt>かん</rt></ruby>じ</span>たことがあるか」という<ruby>質問<rt>しつもん</rt></ruby>に、「<span\
+  \ style=\"color: blue;\"><ruby>感<rt>かん</rt></ruby>じる</span>」と<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>は６０％<ruby>以上<rt>いじょう</rt></ruby>いました。どのように<span\
+  \ style=\"color: blue;\"><ruby>感<rt>かん</rt></ruby>じる</span>か<span style=\"color:\
+  \ blue;\"><ruby>詳<rt>くわ</rt></ruby>しく</span><ruby>聞<rt>き</rt></ruby>くと、<span style=\"\
+  color: blue;\">だるい</span>とか<ruby>疲<rt>つか</rt></ruby>れやすいとか<ruby>元気<rt>げんき</rt></ruby>が<ruby>出<rt>で</rt></ruby>ないなどと<ruby>答<rt>こた</rt></ruby>えました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>では４<ruby>月<rt>がつ</rt></ruby>に、<ruby>多<rt>おお</rt></ruby>くの<ruby>学校<rt>がっこう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まります。<ruby>会社<rt>かいしゃ</rt></ruby>などでも<ruby>新<rt>あたら</rt></ruby>しい<ruby>仕事<rt>しごと</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まります。<span\
+  \ style=\"color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span>をした<span style=\"color:\
+  \ blue;\"><ruby>医師<rt>いし</rt></ruby></span>は、<ruby>新<rt>あたら</rt></ruby>しい<ruby>生活<rt>せいかつ</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>緊張<rt>きんちょう</rt></ruby></span>や<span style=\"color:\
+  \ blue;\">ストレス</span>を<span style=\"color: blue;\"><ruby>感<rt>かん</rt></ruby>じる</span>ことや、<ruby>春<rt>はる</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>変<rt>か</rt></ruby>わりやすいことが<span\
+  \ style=\"color: blue;\"><ruby>調子<rt>ちょうし</rt></ruby></span>が<ruby>悪<rt>わる</rt></ruby>くなる<ruby>原因<rt>げんいん</rt></ruby>だと<ruby>考<rt>かんが</rt></ruby>えています。そして、ぬるい<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ったりして<ruby>体<rt>からだ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>温<rt>あたた</rt></ruby>める</span>といいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 調子
+  descriptions:
+  - <ruby><rb>音楽</rb><rt>おんがく</rt></ruby>の、<ruby><rb>音</rb><rt>おと</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>い。<ruby><rb>調</rb><rt>しら</rt></ruby>べ。
+  - ぐあい。
+  - <ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>回</rb><rt>まわ</rt></ruby>し。<ruby><rb>口調</rb><rt>くちょう</rt></ruby>。
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>い。
+- word: 感じる
+  descriptions:
+  - <ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。
+  - <ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。
+- word: 医師
+  descriptions:
+  - <ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがを<ruby><rb>治</rb><rt>なお</rt></ruby>すことを<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>とする<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 調査
+  descriptions:
+  - <ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: 感じる
+  descriptions:
+  - <ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。
+  - <ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。
+- word: 詳しい
+  descriptions:
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かい。
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かいことまでよく<ruby><rb>知</rb><rt>し</rt></ruby>っている。
+- word: だるい
+  descriptions:
+  - つかれなどで、<ruby><rb>力</rb><rt>ちから</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>ず、<ruby><rb>元気</rb><rt>げんき</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>ない。
+- word: 緊張
+  descriptions:
+  - <ruby><rb>気持</rb><rt>きも</rt></ruby>ちや<ruby><rb>態度</rb><rt>たいど</rt></ruby>が、<ruby><rb>引</rb><rt>ひ</rt></ruby>きしまること。
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>いごとなどが、<ruby><rb>今</rb><rt>いま</rt></ruby>にも<ruby><rb>起</rb><rt>お</rt></ruby>こりそうなようす。
+- word: ストレス
+  descriptions:
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>や<ruby><rb>気持</rb><rt>きも</rt></ruby>ちに<ruby><rb>悪</rb><rt>わる</rt></ruby>い<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる、いろいろなしげき。そのために<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>や<ruby><rb>気分</rb><rt>きぶん</rt></ruby>が、ふだんと<ruby><rb>変</rb><rt>か</rt></ruby>わる。
+- word: 気温
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。
+- word: 温める
+  descriptions:
+  - <ruby><rb>温</rb><rt>あたた</rt></ruby>かくする。<ruby><rb>冷</rb><rt>つめ</rt></ruby>たくなくする。
+  - <ruby><rb>鳥</rb><rt>とり</rt></ruby>が<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>にかかえる。
+  - <ruby><rb>発表</rb><rt>はっぴょう</rt></ruby>せずに<ruby><rb>手</rb><rt>て</rt></ruby>もとにおく。
+source_url: http://www3.nhk.or.jp/news/easy/k10011389831000/k10011389831000.html
+web_title_with_ruby: 「<ruby>春<rt>はる</rt></ruby><ruby>バテ<rt>ばて</rt></ruby>」に<ruby>注意<rt>ちゅうい</rt></ruby>！
+  <ruby>新生活<rt>しんせいかつ</rt></ruby>の<ruby>ストレス<rt>すとれす</rt></ruby>や<ruby>寒暖<rt>かんだん</rt></ruby>の<ruby>差<rt>さ</rt></ruby>が<ruby>原因<rt>げんいん</rt></ruby>か
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/03/春バテに注意-新生活のストレスや寒暖の差が原因か
+related_news:
+- title: <ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>む<ruby>子<rt>こ</rt></ruby>ども「<ruby>体<rt>からだ</rt></ruby>と<ruby>心<rt>こころ</rt></ruby>の<ruby>治療<rt>ちりょう</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>」
+  url: https://newswebeasy.github.io/news/easy/2018/03/05/体の調子が悪くて学校を休む子ども体と心の治療が大切
+...

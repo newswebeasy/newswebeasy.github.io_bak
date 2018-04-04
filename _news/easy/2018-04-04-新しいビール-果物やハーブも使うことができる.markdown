@@ -1,0 +1,81 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011387631000
+last_modified_at: '2018-04-04T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>04<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 日本のビールは、つくるときに使ってもいい材料や麦芽の割合が法律で決まっています。
+title: 新しいビール　果物やハーブも使うことができる
+title_with_ruby: <ruby>新<rt>あたら</rt></ruby>しいビール　<ruby>果物<rt>くだもの</rt></ruby>やハーブも<ruby>使<rt>つか</rt></ruby>うことができる
+outline: 日本のビールは、つくるときに使ってもいい材料や麦芽の割合が法律で決まっています。
+outline_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>のビールは、つくるときに<ruby>使<rt>つか</rt></ruby>ってもいい<ruby>材料<rt>ざいりょう</rt></ruby>や<ruby>麦芽<rt>ばくが</rt></ruby>の<ruby>割合<rt>わりあい</rt></ruby>が<ruby>法律<rt>ほうりつ</rt></ruby>で<ruby>決<rt>き</rt></ruby>まっています。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/02/K10011387631_1804012025_1804020437_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/04/k10011387631000.mp4
+content_with_ruby: "<p><ruby>日本<rt>にっぽん</rt></ruby>の<span style=\"color: blue;\">ビール</span>は、つくるときに<ruby>使<rt>つか</rt></ruby>ってもいい<span\
+  \ style=\"color: blue;\"><ruby>材料<rt>ざいりょう</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>麦芽<rt>ばくが</rt></ruby></span>の<span style=\"color: blue;\"><ruby>割合<rt>わりあい</rt></ruby></span>が<ruby>法律<rt>ほうりつ</rt></ruby>で<ruby>決<rt>き</rt></ruby>まっています。</p>\n\
+  <p>４<ruby>月<rt>がつ</rt></ruby>から<ruby>法律<rt>ほうりつ</rt></ruby>が<ruby>変<rt>か</rt></ruby>わって、<span\
+  \ style=\"color: blue;\">ビール</span>に<ruby>果物<rt>くだもの</rt></ruby>や<span style=\"\
+  color: blue;\">ハーブ</span>、<span style=\"color: blue;\"><ruby>香辛料<rt>こうしんりょう</rt></ruby></span>、<ruby>野菜<rt>やさい</rt></ruby>などを<ruby>使<rt>つか</rt></ruby>ったり、<span\
+  \ style=\"color: blue;\"><ruby>麦芽<rt>ばくが</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>割合<rt>わりあい</rt></ruby></span>を<ruby>今<rt>いま</rt></ruby>までより<ruby>少<rt>すく</rt></ruby>なくしたりできるようになりました。このため、<span\
+  \ style=\"color: blue;\">ビール</span>をつくっている４つの<ruby>大<rt>おお</rt></ruby>きな<ruby>会社<rt>かいしゃ</rt></ruby>は、<span\
+  \ style=\"color: blue;\">レモン</span>や<span style=\"color: blue;\">オレンジ</span>、<span\
+  \ style=\"color: blue;\">ハーブ</span>などを<ruby>使<rt>つか</rt></ruby>った<span style=\"\
+  color: blue;\">ビール</span>を<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p><ruby>会社<rt>かいしゃ</rt></ruby>は３<ruby>月<rt>がつ</rt></ruby>と４<ruby>月<rt>がつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>一部<rt>いちぶ</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">ビール</span>の<ruby>値段<rt>ねだん</rt></ruby>を<ruby>高<rt>たか</rt></ruby>くしました。これから<ruby>新<rt>あたら</rt></ruby>しい<ruby>味<rt>あじ</rt></ruby>と<span\
+  \ style=\"color: blue;\"><ruby>香<rt>かお</rt></ruby>り</span>の<span style=\"color:\
+  \ blue;\">ビール</span>をつくって、<span style=\"color: blue;\">ビール</span>を<ruby>飲<rt>の</rt></ruby>む<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>減<rt>へ</rt></ruby>ら</span>ないようにしたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ビール
+  descriptions:
+  - <ruby><rb>大麦</rb><rt>おおむぎ</rt></ruby>を<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>にした<ruby><rb>酒</rb><rt>さけ</rt></ruby>。
+- word: ハーブ
+  descriptions:
+  - <ruby><rb>薬草</rb><rt>やくそう</rt></ruby>。<ruby><rb>香草</rb><rt>こうそう</rt></ruby>。<ruby><rb>料理</rb><rt>りょうり</rt></ruby>の<ruby><rb>風味</rb><rt>ふうみ</rt></ruby>づけや<ruby><rb>薬用</rb><rt>やくよう</rt></ruby>にする<ruby><rb>草</rb><rt>くさ</rt></ruby>。
+- word: 材料
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るもとになるもの。<ruby><rb>多</rb><rt>おお</rt></ruby>くは、もとの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>が<ruby><rb>残</rb><rt>のこ</rt></ruby>っている<ruby><rb>場合</rb><rt>ばあい</rt></ruby>にいう。
+  - <ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>・<ruby><rb>表現</rb><rt>ひょうげん</rt></ruby>などのもとになるもの。
+- word: 麦芽
+  descriptions:
+  - <ruby><rb>芽</rb><rt>め</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>させたオオムギを<ruby><rb>干</rb><rt>ほ</rt></ruby>したもの。ビールや、あめの<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>。
+- word: 割合
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>と<ruby><rb>物</rb><rt>もの</rt></ruby>との<ruby><rb>関係</rb><rt>かんけい</rt></ruby>を、<ruby><rb>数</rb><rt>かず</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。<ruby><rb>割</rb><rt>わり</rt></ruby>。<ruby><rb>率</rb><rt>りつ</rt></ruby>。<ruby><rb>歩合</rb><rt>ぶあい</rt></ruby>。
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>いのほか。<ruby><rb>比較的</rb><rt>ひかくてき</rt></ruby>。
+- word: 香辛料
+  descriptions:
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>にからみや<ruby><rb>香</rb><rt>かお</rt></ruby>りをつけるためのもの。コショウ・トウガラシなど。スパイス。
+- word: レモン
+  descriptions:
+  - <ruby><rb>果物</rb><rt>くだもの</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。ミカンのなかま。<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>で、<ruby><rb>楕円形</rb><rt>だえんけい</rt></ruby>の<ruby><rb>実</rb><rt>み</rt></ruby>は、かおりがよく、すっぱい。
+- word: オレンジ
+  descriptions:
+  - ミカンのなかまの、あまくてかおりのよい<ruby><rb>丸</rb><rt>まる</rt></ruby>い<ruby><rb>実</rb><rt>み</rt></ruby>。また、その<ruby><rb>木</rb><rt>き</rt></ruby>。
+  - ミカン・ナツミカン・ネーブルなどの<ruby><rb>実</rb><rt>み</rt></ruby>をまとめていう<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>名</rb><rt>な</rt></ruby>。
+- word: 一部
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: 香り
+  descriptions:
+  - いいにおい。
+  - そのものから<ruby><rb>感</rb><rt>かん</rt></ruby>じられる<ruby><rb>品</rb><rt>ひん</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>さ。
+- word: 減る
+  descriptions:
+  - <ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。
+  - すく。
+source_url: http://www3.nhk.or.jp/news/easy/k10011387631000/k10011387631000.html
+web_title_with_ruby: <ruby>ビール<rt>びーる</rt></ruby>が<ruby>変<rt>か</rt></ruby>わる <ruby>果物<rt>くだもの</rt></ruby>…<ruby>ハーブ<rt>はーぶ</rt></ruby>…
+  <ruby>新<rt>あたら</rt></ruby>しい<ruby>ビール<rt>びーる</rt></ruby><ruby>次々<rt>つぎつぎ</rt></ruby><ruby>発売<rt>はつばい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/02/ビールが変わる-果物ハーブ-新しいビール次々発売
+related_news:
+- title: ビールを<ruby>飲<rt>の</rt></ruby>む<ruby>人<rt>ひと</rt></ruby>が<ruby>減<rt>へ</rt></ruby>り<ruby>続<rt>つづ</rt></ruby>けている
+  url: https://newswebeasy.github.io/news/easy/2018/01/18/ビールを飲む人が減り続けている
+...
