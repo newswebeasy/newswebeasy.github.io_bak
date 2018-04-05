@@ -1,0 +1,121 @@
+---
+layout: web_news
+categories: web
+newsid: k10011391321000
+title: フェイスブック「個人データ流出は最大で8700万人」
+title_with_ruby: フェイスブック「<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>データ<ruby>流出<rt
+  data-ruby-level="3">りゅうしゅつ</rt></ruby>は<ruby>最大<rt data-ruby-level="4">さいだい</rt></ruby>で8700<ruby>万人<rt
+  data-ruby-level="2">まんにん</rt></ruby>」
+last_modified_at: '2018-04-05T05:40:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>04<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>05<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 05<ruby>時<rt data-ruby-level="2">じ</rt></ruby>40<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: アメリカのフェイスブックは、利用者の個人データが流出した問題について、当初報道されていた５０００万人よりも多い、最大で８７００万人のデータが不正に流出したおそれがあると発表しました。
+summary: アメリカのフェイスブックは、<ruby>利用者<rt data-ruby-level="4">りようしゃ</rt></ruby>の<ruby>個人<rt
+  data-ruby-level="5">こじん</rt></ruby>データが<ruby>流出<rt data-ruby-level="3">りゅうしゅつ</rt></ruby>した<ruby>問題<rt
+  data-ruby-level="3">もんだい</rt></ruby>について、<ruby>当<rt data-ruby-level="2">とう</rt></ruby><ruby>初報道<rt
+  data-ruby-level="5">はつほうどう</rt></ruby>されていた５０００<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>よりも<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>い、<ruby>最大<rt data-ruby-level="4">さいだい</rt></ruby>で８７００<ruby>万人<rt
+  data-ruby-level="2">まんにん</rt></ruby>のデータが<ruby>不正<rt data-ruby-level="4">ふせい</rt></ruby>に<ruby>流出<rt
+  data-ruby-level="3">りゅうしゅつ</rt></ruby>したおそれがあると<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/05/K10011391321_1804050540_1804050540_01_02.jpg
+more: この<ruby>問題<rt data-ruby-level="3">もんだい</rt></ruby>は、フェイスブックの<ruby>利用者<rt data-ruby-level="4">りようしゃ</rt></ruby>を<ruby>対象<rt
+  data-ruby-level="4">たいしょう</rt></ruby>に<ruby>心理学<rt data-ruby-level="2">しんりがく</rt></ruby>の<ruby>調査<rt
+  data-ruby-level="5">ちょうさ</rt></ruby>を<ruby>行<rt data-ruby-level="2">おこな</rt></ruby>っていたイギリスの<ruby>大学<rt
+  data-ruby-level="1">だいがく</rt></ruby><ruby>教授<rt data-ruby-level="5">きょうじゅ</rt></ruby>が２０１３<ruby>年<rt
+  data-ruby-level="1">ねん</rt></ruby>、クイズ<ruby>形式<rt data-ruby-level="3">けいしき</rt></ruby>で<ruby>性格<rt
+  data-ruby-level="5">せいかく</rt></ruby>を<ruby>判断<rt data-ruby-level="5">はんだん</rt></ruby>するアプリを<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>し、これをおよそ３０<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>がダウンロードして<ruby>自分<rt
+  data-ruby-level="2">じぶん</rt></ruby>だけでなく、<ruby>友人<rt data-ruby-level="2">ゆうじん</rt></ruby>の<ruby>個人<rt
+  data-ruby-level="5">こじん</rt></ruby>データを<ruby>気付<rt data-ruby-level="4">きづ</rt></ruby>かないまま<ruby>提供<rt
+  data-ruby-level="6">ていきょう</rt></ruby>したところ、その<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>がイギリスに<ruby>本社<rt
+  data-ruby-level="2">ほんしゃ</rt></ruby>がある<ruby>第三者<rt data-ruby-level="3">だいさんしゃ</rt></ruby>のデータ<ruby>分析<rt
+  data-ruby-level="7">ぶんせき</rt></ruby><ruby>会社<rt data-ruby-level="2">がいしゃ</rt></ruby>に<ruby>不正<rt
+  data-ruby-level="4">ふせい</rt></ruby>に<ruby>渡<rt data-ruby-level="7">わた</rt></ruby>っていたものです。<br
+  /><br />これまでの<ruby>報道<rt data-ruby-level="5">ほうどう</rt></ruby>では「５０００<ruby>万<rt data-ruby-level="2">まん</rt></ruby><ruby>人以上<rt
+  data-ruby-level="4">にんいじょう</rt></ruby>の<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>の<ruby>好<rt
+  data-ruby-level="4">この</rt></ruby>みや<ruby>行動<rt data-ruby-level="3">こうどう</rt></ruby>パターンが<ruby>流出<rt
+  data-ruby-level="3">りゅうしゅつ</rt></ruby>し、おととしのアメリカ<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby><ruby>選挙<rt
+  data-ruby-level="4">せんきょ</rt></ruby>でトランプ<ruby>陣営<rt data-ruby-level="7">じんえい</rt></ruby>の<ruby>選挙<rt
+  data-ruby-level="4">せんきょ</rt></ruby><ruby>対策<rt data-ruby-level="6">たいさく</rt></ruby>に<ruby>使<rt
+  data-ruby-level="3">つか</rt></ruby>われた」とされていましたが、フェイスブックは４<ruby>日<rt data-ruby-level="1">にち</rt></ruby>、<ruby>最大<rt
+  data-ruby-level="4">さいだい</rt></ruby>で８７００<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>の<ruby>個人<rt
+  data-ruby-level="5">こじん</rt></ruby>データが<ruby>不正<rt data-ruby-level="4">ふせい</rt></ruby>に<ruby>流出<rt
+  data-ruby-level="3">りゅうしゅつ</rt></ruby>したおそれがあると<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>しました。<br
+  />そのほとんどはアメリカの<ruby>利用者<rt data-ruby-level="4">りようしゃ</rt></ruby>のデータだとしています。<br
+  /><br />フェイスブックは、<ruby>高<rt data-ruby-level="2">たか</rt></ruby>まる<ruby>批判<rt data-ruby-level="6">ひはん</rt></ruby>を<ruby>受<rt
+  data-ruby-level="3">う</rt></ruby>けて、データを<ruby>保護<rt data-ruby-level="5">ほご</rt></ruby>する<ruby>対策<rt
+  data-ruby-level="6">たいさく</rt></ruby>を<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>出<rt
+  data-ruby-level="3">だ</rt></ruby>していますが、<ruby>今月<rt data-ruby-level="2">こんげつ</rt></ruby>１１<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>にはアメリカ<ruby>議会<rt data-ruby-level="4">ぎかい</rt></ruby><ruby>下院<rt
+  data-ruby-level="3">かいん</rt></ruby>の<ruby>委員会<rt data-ruby-level="3">いいんかい</rt></ruby>が<ruby>開<rt
+  data-ruby-level="3">ひら</rt></ruby>く<ruby>公聴会<rt data-ruby-level="7">こうちょうかい</rt></ruby>でザッカーバーグＣＥＯが<ruby>証言<rt
+  data-ruby-level="5">しょうげん</rt></ruby>する<ruby>予定<rt data-ruby-level="3">よてい</rt></ruby>で、データ<ruby>保護<rt
+  data-ruby-level="5">ほご</rt></ruby>の<ruby>在<rt data-ruby-level="5">あ</rt></ruby>り<ruby>方<rt
+  data-ruby-level="5">かた</rt></ruby>を<ruby>厳<rt data-ruby-level="6">きび</rt></ruby>しく<ruby>問<rt
+  data-ruby-level="3">と</rt></ruby>われると<ruby>見<rt data-ruby-level="1">み</rt></ruby>られます。
+movie_url: https://newswebeasy.github.io/ja201804/news/web/movie/2018/04/05/k10011391321_201804050912_201804050915.mp4
+voice_url: https://newswebeasy.github.io/ja201804/news/web/voice/2018/04/05/k10011391321_201804050912_201804050915.mp3
+body:
+- title: ザッカーバーグＣＥＯ「<ruby>責任<rt data-ruby-level="5">せきにん</rt></ruby>は<ruby>私<rt data-ruby-level="8">わたし</rt></ruby>に」
+  text: フェイスブックのザッカーバーグＣＥＯは４<ruby>日<rt data-ruby-level="1">にち</rt></ruby>、<ruby>電話<rt
+    data-ruby-level="2">でんわ</rt></ruby>による<ruby>記者会見<rt data-ruby-level="3">きしゃかいけん</rt></ruby>を<ruby>行<rt
+    data-ruby-level="2">おこな</rt></ruby>い、「データ<ruby>保護<rt data-ruby-level="5">ほご</rt></ruby><ruby>対策<rt
+    data-ruby-level="6">たいさく</rt></ruby>が<ruby>十分<rt data-ruby-level="2">じゅうぶん</rt></ruby>でなかった。その<ruby>責任<rt
+    data-ruby-level="5">せきにん</rt></ruby>は<ruby>私<rt data-ruby-level="8">わたし</rt></ruby>にある」と<ruby>述<rt
+    data-ruby-level="5">の</rt></ruby>べ、<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>データを<ruby>保護<rt
+    data-ruby-level="5">ほご</rt></ruby>するための<ruby>対策<rt data-ruby-level="6">たいさく</rt></ruby>を<ruby>強化<rt
+    data-ruby-level="3">きょうか</rt></ruby>する<ruby>考<rt data-ruby-level="2">かんが</rt></ruby>えを<ruby>示<rt
+    data-ruby-level="5">しめ</rt></ruby>しました。<br /><br /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>で「<ruby>過<rt
+    data-ruby-level="7">あやま</rt></ruby>ちから<ruby>学<rt data-ruby-level="1">まな</rt></ruby>び、<ruby>前<rt
+    data-ruby-level="2">まえ</rt></ruby>に<ruby>進<rt data-ruby-level="3">すす</rt></ruby>むのが<ruby>人生<rt
+    data-ruby-level="1">じんせい</rt></ruby>だ」と<ruby>述<rt data-ruby-level="5">の</rt></ruby>べ、<ruby>辞任<rt
+    data-ruby-level="5">じにん</rt></ruby>する<ruby>意向<rt data-ruby-level="3">いこう</rt></ruby>はないとしています。<br
+    /><br /><ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>データの<ruby>保護<rt data-ruby-level="5">ほご</rt></ruby>をめぐっては、ＥＵ＝ヨーロッパ<ruby>連合<rt
+    data-ruby-level="4">れんごう</rt></ruby>が<ruby>来月<rt data-ruby-level="2">らいげつ</rt></ruby>、ＧＤＰＲ＝<ruby>一般<rt
+    data-ruby-level="7">いっぱん</rt></ruby>データ<ruby>保護<rt data-ruby-level="5">ほご</rt></ruby><ruby>規則<rt
+    data-ruby-level="5">きそく</rt></ruby>を<ruby>施行<rt data-ruby-level="7">しこう</rt></ruby>して、<ruby>氏名<rt
+    data-ruby-level="4">しめい</rt></ruby>だけでなく<ruby>位置<rt data-ruby-level="4">いち</rt></ruby><ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby>なども<ruby>保護<rt data-ruby-level="5">ほご</rt></ruby>すべき<ruby>対象<rt
+    data-ruby-level="4">たいしょう</rt></ruby>とし、<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>がデータを<ruby>集<rt
+    data-ruby-level="3">あつ</rt></ruby>めて<ruby>利用<rt data-ruby-level="4">りよう</rt></ruby>する<ruby>場合<rt
+    data-ruby-level="2">ばあい</rt></ruby>には<ruby>原則<rt data-ruby-level="5">げんそく</rt></ruby>として<ruby>本人<rt
+    data-ruby-level="1">ほんにん</rt></ruby>の<ruby>明確<rt data-ruby-level="5">めいかく</rt></ruby>な<ruby>同意<rt
+    data-ruby-level="3">どうい</rt></ruby>が<ruby>必要<rt data-ruby-level="4">ひつよう</rt></ruby>となります。<br
+    /><br />これについてザッカーバーグＣＥＯは、「ＧＤＰＲには<ruby>前向<rt data-ruby-level="3">まえむ</rt></ruby>きに<ruby>対応<rt
+    data-ruby-level="5">たいおう</rt></ruby>しており、ヨーロッパのみならずすべての<ruby>地域<rt data-ruby-level="6">ちいき</rt></ruby>で<ruby>同<rt
+    data-ruby-level="2">おな</rt></ruby>じような<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>データの<ruby>保護<rt
+    data-ruby-level="5">ほご</rt></ruby><ruby>対策<rt data-ruby-level="6">たいさく</rt></ruby>を<ruby>取<rt
+    data-ruby-level="3">と</rt></ruby>る」と<ruby>述<rt data-ruby-level="5">の</rt></ruby>べました。<br
+    /><br />また「<ruby>新<rt data-ruby-level="2">あたら</rt></ruby>しい<ruby>機器<rt data-ruby-level="4">きき</rt></ruby>やスキーといったように、<ruby>関心<rt
+    data-ruby-level="4">かんしん</rt></ruby>のある<ruby>物事<rt data-ruby-level="3">ものごと</rt></ruby>の<ruby>広告<rt
+    data-ruby-level="4">こうこく</rt></ruby>を<ruby>表示<rt data-ruby-level="5">ひょうじ</rt></ruby>してほしいという<ruby>利用者<rt
+    data-ruby-level="4">りようしゃ</rt></ruby>が<ruby>多<rt data-ruby-level="2">おお</rt></ruby>い。フェイスブックが<ruby>利用者<rt
+    data-ruby-level="4">りようしゃ</rt></ruby>の<ruby>関心<rt data-ruby-level="4">かんしん</rt></ruby>を<ruby>把握<rt
+    data-ruby-level="7">はあく</rt></ruby>できるのは<ruby>利用者<rt data-ruby-level="4">りようしゃ</rt></ruby>が<ruby>個人<rt
+    data-ruby-level="5">こじん</rt></ruby>データをシェアするという<ruby>選択<rt data-ruby-level="7">せんたく</rt></ruby>をしたからだ」と<ruby>述<rt
+    data-ruby-level="5">の</rt></ruby>べて、<ruby>提供<rt data-ruby-level="6">ていきょう</rt></ruby>するデータの<ruby>種類<rt
+    data-ruby-level="4">しゅるい</rt></ruby>や<ruby>目的<rt data-ruby-level="4">もくてき</rt></ruby>、<ruby>相手<rt
+    data-ruby-level="3">あいて</rt></ruby>といったようなプライバシー<ruby>保護<rt data-ruby-level="5">ほご</rt></ruby>の<ruby>条件<rt
+    data-ruby-level="5">じょうけん</rt></ruby>を<ruby>設定<rt data-ruby-level="5">せってい</rt></ruby>するのは<ruby>利用者<rt
+    data-ruby-level="4">りようしゃ</rt></ruby>だと<ruby>強調<rt data-ruby-level="3">きょうちょう</rt></ruby>しました。
+source_url: https://www3.nhk.or.jp/news/html/20180405/k10011391321000.html
+easy_title_with_ruby: フェイスブック「８７００<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>の<ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>が<ruby>不正<rt data-ruby-level="4">ふせい</rt></ruby>に<ruby>使<rt
+  data-ruby-level="3">つか</rt></ruby>われた」
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/04/05/フェイスブック8700万人の情報が不正に使われた
+related_news:
+- title: <ruby>京大<rt data-ruby-level="2">きょうだい</rt></ruby>ｉＰＳ<ruby>細胞<rt data-ruby-level="7">さいぼう</rt></ruby><ruby>研究所<rt
+    data-ruby-level="3">けんきゅうじょ</rt></ruby>で<ruby>論文<rt data-ruby-level="6">ろんぶん</rt></ruby>のねつ<ruby>造<rt
+    data-ruby-level="5">ぞう</rt></ruby>や<ruby>改<rt data-ruby-level="4">かい</rt></ruby>ざん
+  url: https://newswebeasy.github.io/news/web/2018/01/22/京大iPS細胞研究所で論文のねつ造や改ざん
+- title: フェイスブック <ruby>仮想<rt data-ruby-level="5">かそう</rt></ruby><ruby>通貨<rt data-ruby-level="4">つうか</rt></ruby>の<ruby>広告<rt
+    data-ruby-level="4">こうこく</rt></ruby> <ruby>全世界<rt data-ruby-level="3">ぜんせかい</rt></ruby>で<ruby>禁止<rt
+    data-ruby-level="5">きんし</rt></ruby>「<ruby>虚偽<rt data-ruby-level="7">きょぎ</rt></ruby>を<ruby>助長<rt
+    data-ruby-level="3">じょちょう</rt></ruby>」
+  url: https://newswebeasy.github.io/news/web/2018/01/31/フェイスブック-仮想通貨の広告-全世界で禁止虚偽を助長
+- title: “ＡＩスカウト“で<ruby>変<rt data-ruby-level="4">か</rt></ruby>わる<ruby>人事<rt data-ruby-level="3">じんじ</rt></ruby>
+    ネットで<ruby>人材<rt data-ruby-level="4">じんざい</rt></ruby><ruby>発掘<rt data-ruby-level="7">はっくつ</rt></ruby>
+    <ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>に<ruby>紹介<rt data-ruby-level="7">しょうかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/07/AIスカウトで変わる人事-ネットで人材発掘-企業に紹介
+...

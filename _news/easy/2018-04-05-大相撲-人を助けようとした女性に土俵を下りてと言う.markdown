@@ -1,0 +1,85 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011391191000
+last_modified_at: '2018-04-05T16:35:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>05<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>35<ruby>分<rt>ふん</rt></ruby>
+description: 京都府舞鶴市で４日、大相撲の巡業というイベントがありました。
+title: 大相撲　人を助けようとした女性に「土俵を下りて」と言う
+title_with_ruby: <ruby>大相撲<rt>おおずもう</rt></ruby>　<ruby>人<rt>ひと</rt></ruby>を<ruby>助<rt>たす</rt></ruby>けようとした<ruby>女性<rt>じょせい</rt></ruby>に「<ruby>土俵<rt>どひょう</rt></ruby>を<ruby>下<rt>お</rt></ruby>りて」と<ruby>言<rt>い</rt></ruby>う
+outline: 京都府舞鶴市で４日、大相撲の巡業というイベントがありました。
+outline_with_ruby: <ruby>京都府<rt>きょうとふ</rt></ruby><ruby>舞鶴市<rt>まいづるし</rt></ruby>で<ruby>４日<rt>よっか</rt></ruby>、<ruby>大相撲<rt>おおずもう</rt></ruby>の<ruby>巡業<rt>じゅんぎょう</rt></ruby>というイベントがありました。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/05/K10011391191_1804050434_1804050440_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/05/k10011391191000.mp4
+content_with_ruby: "<p><ruby>京都府<rt>きょうとふ</rt></ruby><ruby>舞鶴市<rt>まいづるし</rt></ruby>で<ruby>４日<rt>よっか</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>大相撲<rt>おおずもう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>巡業<rt>じゅんぎょう</rt></ruby></span>という<span style=\"color: blue;\">イベント</span>がありました。<span\
+  \ style=\"color: blue;\"><ruby>相撲<rt>すもう</rt></ruby></span>を<ruby>行<rt>おこな</rt></ruby>う<span\
+  \ style=\"color: blue;\"><ruby>土俵<rt>どひょう</rt></ruby></span>の<ruby>上<rt>うえ</rt></ruby>であいさつをしていた<ruby>舞鶴市<rt>まいづるし</rt></ruby>の<ruby>多々見<rt>たたみ</rt></ruby><ruby>良三<rt>りょうぞう</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>市長<rt>しちょう</rt></ruby></span>が<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>倒<rt>たお</rt></ruby>れました。このため、<span\
+  \ style=\"color: blue;\"><ruby>巡業<rt>じゅんぎょう</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>ていた<ruby>女性<rt>じょせい</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>市長<rt>しちょう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>命<rt>いのち</rt></ruby></span>を<span style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>けよ</span>うとして、<ruby>急<rt>いそ</rt></ruby>いで<span\
+  \ style=\"color: blue;\"><ruby>土俵<rt>どひょう</rt></ruby></span>に<ruby>上<rt>あ</rt></ruby>がりました。</p>\n\
+  <p>このとき<ruby>日本相撲協会<rt>にほんすもうきょうかい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が「<ruby>女性<rt>じょせい</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>土俵<rt>どひょう</rt></ruby></span>を<ruby>下<rt>お</rt></ruby>りてください」という<span\
+  \ style=\"color: blue;\">アナウンス</span>をしました。<span style=\"color: blue;\"><ruby>大相撲<rt>おおずもう</rt></ruby></span>では<ruby>昔<rt>むかし</rt></ruby>から、<ruby>女性<rt>じょせい</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>土俵<rt>どひょう</rt></ruby></span>に<ruby>上<rt>あ</rt></ruby>がってはいけないことになっています。</p>\n\
+  <p>インターネットに<ruby>出<rt>で</rt></ruby>た<span style=\"color: blue;\">ビデオ</span>を<ruby>見<rt>み</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちは「<span\
+  \ style=\"color: blue;\"><ruby>助<rt>たす</rt></ruby>ける</span>ことをやめろという<ruby>意味<rt>いみ</rt></ruby>か」などと<ruby>言<rt>い</rt></ruby>って<ruby>怒<rt>おこ</rt></ruby>りました。</p>\n\
+  <p><ruby>日本相撲協会<rt>にほんすもうきょうかい</rt></ruby>は「<span style=\"color: blue;\"><ruby>命<rt>いのち</rt></ruby></span>が<ruby>危険<rt>きけん</rt></ruby>なときにこの<span\
+  \ style=\"color: blue;\">アナウンス</span>をしたことは<ruby>正<rt>ただ</rt></ruby>しくなかったと<ruby>思<rt>おも</rt></ruby>います」と<ruby>言<rt>い</rt></ruby>って<ruby>謝<rt>あやま</rt></ruby>りました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>市長<rt>しちょう</rt></ruby></span>は<ruby>病院<rt>びょういん</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>ばれて<ruby>入院<rt>にゅういん</rt></ruby>することになりました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大相撲
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>が<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>専門</rb><rt>せんもん</rt></ruby>の<ruby><rb>力士</rb><rt>りきし</rt></ruby>による<ruby><rb>相撲</rb><rt>すもう</rt></ruby>。
+  - <ruby><rb>相撲</rb><rt>すもう</rt></ruby>で、なかなか<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けの<ruby><rb>決</rb><rt>き</rt></ruby>まらない<ruby><rb>力</rb><rt>ちから</rt></ruby>の<ruby><rb>入</rb><rt>はい</rt></ruby>った<ruby><rb>取組</rb><rt>とりくみ</rt></ruby>。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+- word: 土俵
+  descriptions:
+  - <ruby><rb>土</rb><rt>つち</rt></ruby>をつめた<ruby><rb>俵</rb><rt>たわら</rt></ruby>。
+  - すもうをとる<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 巡業
+  descriptions:
+  - <ruby><rb>各地</rb><rt>かくち</rt></ruby>を<ruby><rb>回</rb><rt>まわ</rt></ruby>って、しばいやすもうなどを<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 相撲
+  descriptions:
+  - <ruby><rb>土俵</rb><rt>どひょう</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>で、<ruby><rb>二人</rb><rt>ふたり</rt></ruby>が<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>組</rb><rt>く</rt></ruby>み、<ruby><rb>相手</rb><rt>あいて</rt></ruby>をたおすか、<ruby><rb>外</rb><rt>そと</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>すかして<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。<ruby><rb>国技</rb><rt>こくぎ</rt></ruby>とされる。
+- word: 市長
+  descriptions:
+  - <ruby><rb>市</rb><rt>し</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>し、その<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとり<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 命
+  descriptions:
+  - <ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>生</rb><rt>い</rt></ruby>きているもとになる<ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>生命</rb><rt>せいめい</rt></ruby>。
+  - <ruby><rb>生</rb><rt>い</rt></ruby>きている<ruby><rb>間</rb><rt>あいだ</rt></ruby>。
+  - いちばん<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>なもの。
+- word: アナウンス
+  descriptions:
+  - マイクを<ruby><rb>使</rb><rt>つか</rt></ruby>って、みんなに<ruby><rb>知</rb><rt>し</rt></ruby>らせること。<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>。
+- word: ビデオ
+  descriptions:
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。
+  - 「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 助ける
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。
+source_url: http://www3.nhk.or.jp/news/easy/k10011391191000/k10011391191000.html
+web_title_with_ruby: <ruby>大相撲<rt>おおずもう</rt></ruby><ruby>巡業<rt>じゅんぎょう</rt></ruby>
+  <ruby>救命<rt>きゅうめい</rt></ruby><ruby>処置<rt>しょち</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>に「<ruby>土俵<rt>どひょう</rt></ruby>から<ruby>下<rt>くだ</rt></ruby>りて」と<ruby>アナウンス<rt>あなうんす</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/05/大相撲巡業-救命処置の女性に土俵から下りてとアナウンス
+related_news:
+- title: １<ruby>月<rt>がつ</rt></ruby>の<ruby>大相撲<rt>おおずもう</rt></ruby>でジョージア<ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>栃ノ心<rt>とちのしん</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2018/01/29/1月の大相撲でジョージア出身の栃ノ心が優勝する
+...

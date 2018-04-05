@@ -1,0 +1,107 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011390061000
+last_modified_at: '2018-04-05T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>05<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ＪＲ東日本は、これからつくる電車の全部に、電車の中の様子を撮るカメラを付けることを決めました。
+title: ＪＲ東日本がこれからつくる全部の電車にカメラを付ける
+title_with_ruby: ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>がこれからつくる<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>にカメラを<ruby>付<rt>つ</rt></ruby>ける
+outline: ＪＲ東日本は、これからつくる電車の全部に、電車の中の様子を撮るカメラを付けることを決めました。
+outline_with_ruby: ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>は、これからつくる<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>全部<rt>ぜんぶ</rt></ruby>に、<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>を<ruby>撮<rt>と</rt></ruby>るカメラを<ruby>付<rt>つ</rt></ruby>けることを<ruby>決<rt>き</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/04/K10011390061_1804040439_1804040443_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/05/k10011390061000.mp4
+content_with_ruby: "<p>ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>は、これからつくる<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>全部<rt>ぜんぶ</rt></ruby>に、<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>様子<rt>ようす</rt></ruby></span>を<ruby>撮<rt>と</rt></ruby>るカメラを<span\
+  \ style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>ける</span>ことを<ruby>決<rt>き</rt></ruby>めました。ほかの<ruby>人<rt>ひと</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>を<ruby>触<rt>さわ</rt></ruby>る<span\
+  \ style=\"color: blue;\"><ruby>犯罪<rt>はんざい</rt></ruby></span>や<span style=\"color:\
+  \ blue;\">テロ</span>が<span style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こら</span>ないようにするためです。</p>\n\
+  <p><ruby>今<rt>いま</rt></ruby><ruby>走<rt>はし</rt></ruby>っている<ruby>電車<rt>でんしゃ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>一部<rt>いちぶ</rt></ruby></span>にもカメラを<span style=\"\
+  color: blue;\"><ruby>付<rt>つ</rt></ruby>け</span>ます。<span style=\"color: blue;\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>や<ruby>山手線<rt>やまのてせん</rt></ruby>ではカメラを<span\
+  \ style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>ける</span><ruby>計画<rt>けいかく</rt></ruby>が<ruby>進<rt>すす</rt></ruby>んでいます。もうカメラが<span\
+  \ style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>い</span>ている<ruby>電車<rt>でんしゃ</rt></ruby>もあります。</p>\n\
+  <p>ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>は、<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\">プライバシー</span>を<ruby>考<rt>かんが</rt></ruby>えて、<ruby>撮<rt>と</rt></ruby>った<span\
+  \ style=\"color: blue;\">ビデオ</span>を<ruby>見<rt>み</rt></ruby>ることができる<ruby>人<rt>ひと</rt></ruby>は、できるだけ<ruby>少<rt>すく</rt></ruby>なくします。<span\
+  \ style=\"color: blue;\">ビデオ</span>は１<ruby>週間<rt>しゅうかん</rt></ruby>ぐらいで<ruby>消<rt>け</rt></ruby>すと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+- word: 様子
+  descriptions:
+  - ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。
+  - <ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。
+  - そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。
+  - わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。
+- word: 犯罪
+  descriptions:
+  - <ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>すこと。<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>を<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。また、<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>罪</rb><rt>つみ</rt></ruby>。
+- word: テロ
+  descriptions:
+  - <ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。
+- word: 起こる
+  descriptions:
+  - <ruby><rb>始</rb><rt>はじ</rt></ruby>まる。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。
+- word: 一部
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+- word: 新幹線
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>のおもな<ruby><rb>都市</rb><rt>とし</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで、<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶための<ruby><rb>高速鉄道</rb><rt>こうそくてつどう</rt></ruby>。<ruby><rb>東海道新幹線</rb><rt>とうかいどうしんかんせん</rt></ruby>、<ruby><rb>山陽新幹線</rb><rt>さんようしんかんせん</rt></ruby>、<ruby><rb>上越新幹線</rb><rt>じょうえつしんかんせん</rt></ruby>、<ruby><rb>長野新幹線</rb><rt>ながのしんかんせん</rt></ruby>、<ruby><rb>東北新幹線</rb><rt>とうほくしんかんせん</rt></ruby>、<ruby><rb>山形新幹線</rb><rt>やまがたしんかんせん</rt></ruby>、<ruby><rb>秋田新幹線</rb><rt>あきたしんかんせん</rt></ruby>、<ruby><rb>九州新幹線</rb><rt>きゅうしゅうしんかんせん</rt></ruby>がある。
+- word: 付く
+  descriptions:
+  - ものがくっつく。
+  - つきそう。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>わる。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まる。
+  - <ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。
+  - <ruby><rb>感</rb><rt>かん</rt></ruby>じる。
+  - ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。
+- word: プライバシー
+  descriptions:
+  - ほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>られたくない<ruby><rb>個人的</rb><rt>こじんてき</rt></ruby>なことがらや<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>。
+- word: ビデオ
+  descriptions:
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。
+  - 「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011390061000/k10011390061000.html
+web_title_with_ruby: <ruby>ＪＲ東日本<rt>じぇーあーるひがしにほん</rt></ruby> <ruby>今後<rt>こんご</rt></ruby><ruby>導入<rt>どうにゅう</rt></ruby>するすべての<ruby>列車<rt>れっしゃ</rt></ruby>に<ruby>防犯<rt>ぼうはん</rt></ruby><ruby>カメラ<rt>かめら</rt></ruby><ruby>設置<rt>せっち</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/04/JR東日本-今後導入するすべての列車に防犯カメラ設置
+related_news:
+- title: <ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれた
+  url: https://newswebeasy.github.io/news/easy/2018/01/22/電車の中で赤ちゃんが生まれた
+- title: デジタルカメラが<ruby>売<rt>う</rt></ruby>れる　きれいな<ruby>写真<rt>しゃしん</rt></ruby>をみんなに<ruby>見<rt>み</rt></ruby>せたい
+  url: https://newswebeasy.github.io/news/easy/2018/02/05/デジタルカメラが売れる-きれいな写真をみんなに見せたい
+- title: ９５<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>のドイツのカメラが３<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/03/14/95年前のドイツのカメラが3億円以上になる
+- title: ２<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>石垣島<rt>いしがきじま</rt></ruby>でなくしたカメラが<ruby>台湾<rt>たいわん</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかる
+  url: https://newswebeasy.github.io/news/easy/2018/03/29/2年以上前に石垣島でなくしたカメラが台湾で見つかる
+...

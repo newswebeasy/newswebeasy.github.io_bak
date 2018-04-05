@@ -1,0 +1,64 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011389501000
+last_modified_at: '2018-04-05T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>05<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 「子ども食堂」は、生活のお金が足りない家庭の子どもや、親が働いていて１人で食事をしなければならない子どもなどに食事を出している所です。
+title: 「子ども食堂」が２０００以上になる　おととしの７倍
+title_with_ruby: 「<ruby>子<rt>こ</rt></ruby>ども<ruby>食堂<rt>しょくどう</rt></ruby>」が２０００<ruby>以上<rt>いじょう</rt></ruby>になる　おととしの７<ruby>倍<rt>ばい</rt></ruby>
+outline: 「子ども食堂」は、生活のお金が足りない家庭の子どもや、親が働いていて１人で食事をしなければならない子どもなどに食事を出している所です。
+outline_with_ruby: 「<ruby>子<rt>こ</rt></ruby>ども<ruby>食堂<rt>しょくどう</rt></ruby>」は、<ruby>生活<rt>せいかつ</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>が<ruby>足<rt>た</rt></ruby>りない<ruby>家庭<rt>かてい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもや、<ruby>親<rt>おや</rt></ruby>が<ruby>働<rt>はたら</rt></ruby>いていて<ruby>１人<rt>ひとり</rt></ruby>で<ruby>食事<rt>しょくじ</rt></ruby>をしなければならない<ruby>子<rt>こ</rt></ruby>どもなどに<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>している<ruby>所<rt>ところ</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/03/K10011389501_1804031733_1804031735_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/05/k10011389501000.mp4
+content_with_ruby: "<p>「<ruby>子<rt>こ</rt></ruby>ども<ruby>食堂<rt>しょくどう</rt></ruby>」は、<ruby>生活<rt>せいかつ</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>が<ruby>足<rt>た</rt></ruby>りない<ruby>家庭<rt>かてい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもや、<span\
+  \ style=\"color: blue;\"><ruby>親<rt>おや</rt></ruby></span>が<ruby>働<rt>はたら</rt></ruby>いていて<ruby>１人<rt>ひとり</rt></ruby>で<ruby>食事<rt>しょくじ</rt></ruby>をしなければならない<ruby>子<rt>こ</rt></ruby>どもなどに<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>している<ruby>所<rt>ところ</rt></ruby>です。<span\
+  \ style=\"color: blue;\"><ruby>無料<rt>むりょう</rt></ruby></span>か<ruby>安<rt>やす</rt></ruby>いお<ruby>金<rt>かね</rt></ruby>で<ruby>食<rt>た</rt></ruby>べることができます。</p>\n\
+  <p>この<ruby>食堂<rt>しょくどう</rt></ruby>の<span style=\"color: blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>をしている<span\
+  \ style=\"color: blue;\">ＮＰＯ</span>などの<span style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>によると、<ruby>子<rt>こ</rt></ruby>ども<ruby>食堂<rt>しょくどう</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>に２２８６ありました。おととしの７<ruby>倍<rt>ばい</rt></ruby>ぐらいに<ruby>増<rt>ふ</rt></ruby>えました。<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い<ruby>東京都<rt>とうきょうと</rt></ruby>には３３５、<ruby>大阪府<rt>おおさかふ</rt></ruby>には２１９、<ruby>神奈川県<rt>かながわけん</rt></ruby>には１６９ありました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>は「<ruby>子<rt>こ</rt></ruby>ども<ruby>食堂<rt>しょくどう</rt></ruby>は<ruby>近<rt>ちか</rt></ruby>くに<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>たちが<span\
+  \ style=\"color: blue;\"><ruby>交流<rt>こうりゅう</rt></ruby></span>できる<ruby>場所<rt>ばしょ</rt></ruby>にもなっています。<span\
+  \ style=\"color: blue;\"><ruby>役所<rt>やくしょ</rt></ruby></span>などがもっと<span style=\"\
+  color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>して、<ruby>多<rt>おお</rt></ruby>くする<ruby>必要<rt>ひつよう</rt></ruby>があります」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 親
+  descriptions:
+  - <ruby><rb>父</rb><rt>ちち</rt></ruby>や<ruby><rb>母</rb><rt>はは</rt></ruby>。<ruby><rb>両親</rb><rt>りょうしん</rt></ruby>。
+  - <ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>をうんだもの。
+  - トランプやかるたなどの<ruby><rb>遊</rb><rt>あそ</rt></ruby>びで、カードを<ruby><rb>配</rb><rt>くば</rt></ruby>る<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となるもの。<ruby><rb>大</rb><rt>おお</rt></ruby>きいもの。
+- word: 無料
+  descriptions:
+  - <ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。
+- word: 活動
+  descriptions:
+  - <ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。
+- word: NPO
+  descriptions:
+  - <ruby><rb>営利</rb><rt>えいり</rt></ruby>を<ruby><rb>目的</rb><rt>もくてき</rt></ruby>とせずに<ruby><rb>社会的</rb><rt>しゃかいてき</rt></ruby>な<ruby><rb>活動</rb><rt>かつどう</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 交流
+  descriptions:
+  - たがいに<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>来</rb><rt>き</rt></ruby>すること。<ruby><rb>交</rb><rt>ま</rt></ruby>じり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時間</rb><rt>じかん</rt></ruby>ごとに、<ruby><rb>流</rb><rt>なが</rt></ruby>れの<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>が<ruby><rb>逆</rb><rt>ぎゃく</rt></ruby>になる<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>。
+- word: 役所
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011389501000/k10011389501000.html
+web_title_with_ruby: 「<ruby>子<rt>こ</rt></ruby>ども<ruby>食堂<rt>しょくどう</rt></ruby>」<ruby>全国<rt>ぜんこく</rt></ruby>で<ruby>急増<rt>きゅうぞう</rt></ruby>
+  2000か<ruby>所<rt>しょ</rt></ruby><ruby>超<rt>こ</rt></ruby>える
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/03/子ども食堂全国で急増-2000か所超える
+related_news:
+- title: <ruby>今年<rt>ことし</rt></ruby><ruby>初<rt>はじ</rt></ruby>めて<ruby>子<rt>こ</rt></ruby>どもたちがお<ruby>母<rt>かあ</rt></ruby>さんにお<ruby>茶<rt>ちゃ</rt></ruby>をいれる<ruby>会<rt>かい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/11/今年初めて子どもたちがお母さんにお茶をいれる会
+- title: <ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>む<ruby>子<rt>こ</rt></ruby>ども「<ruby>体<rt>からだ</rt></ruby>と<ruby>心<rt>こころ</rt></ruby>の<ruby>治療<rt>ちりょう</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>」
+  url: https://newswebeasy.github.io/news/easy/2018/03/05/体の調子が悪くて学校を休む子ども体と心の治療が大切
+...
