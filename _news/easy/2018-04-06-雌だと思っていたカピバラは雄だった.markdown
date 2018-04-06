@@ -1,0 +1,75 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011390621000
+last_modified_at: '2018-04-06T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>06<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 高知県の桂浜水族館は去年８月、徳島県の動物園からカピバラの赤ちゃんを２匹もらいました。
+title: 雌だと思っていたカピバラは雄だった
+title_with_ruby: <ruby>雌<rt>めす</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>っていたカピバラは<ruby>雄<rt>おす</rt></ruby>だった
+outline: 高知県の桂浜水族館は去年８月、徳島県の動物園からカピバラの赤ちゃんを２匹もらいました。
+outline_with_ruby: <ruby>高知県<rt>こうちけん</rt></ruby>の<ruby>桂浜水族館<rt>かつらはますいぞくかん</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>８<ruby>月<rt>がつ</rt></ruby>、<ruby>徳島県<rt>とくしまけん</rt></ruby>の<ruby>動物園<rt>どうぶつえん</rt></ruby>からカピバラの<ruby>赤<rt>あか</rt></ruby>ちゃんを２<ruby>匹<rt>ひき</rt></ruby>もらいました。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/04/K10011390621_1804041600_1804041602_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/06/k10011390621000.mp4
+content_with_ruby: "<p><ruby>高知県<rt>こうちけん</rt></ruby>の<ruby>桂浜水族館<rt>かつらはますいぞくかん</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>８<ruby>月<rt>がつ</rt></ruby>、<ruby>徳島県<rt>とくしまけん</rt></ruby>の<ruby>動物園<rt>どうぶつえん</rt></ruby>からカピバラの<ruby>赤<rt>あか</rt></ruby>ちゃんを２<ruby>匹<rt>ひき</rt></ruby>もらいました。カピバラは<ruby>世界<rt>せかい</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>大<rt>おお</rt></ruby>きい<span\
+  \ style=\"color: blue;\">ネズミ</span>の<span style=\"color: blue;\"><ruby>仲間<rt>なかま</rt></ruby></span>です。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>は２<ruby>匹<rt>ひき</rt></ruby>とも<span\
+  \ style=\"color: blue;\"><ruby>雌<rt>めす</rt></ruby></span>だと<ruby>聞<rt>き</rt></ruby>いていましたが、<ruby>生<rt>う</rt></ruby>まれてから１０か<ruby>月<rt>げつ</rt></ruby>になって、１<ruby>匹<rt>ぴき</rt></ruby>の<ruby>鼻<rt>はな</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りが<ruby>黒<rt>くろ</rt></ruby>く<ruby>大<rt>おお</rt></ruby>きくなってきました。カピバラの<span\
+  \ style=\"color: blue;\"><ruby>雄<rt>おす</rt></ruby></span>は、<ruby>鼻<rt>はな</rt></ruby>に<span\
+  \ style=\"color: blue;\">こぶ</span>のようなものがあります。<span style=\"color: blue;\"><ruby>獣医師<rt>じゅういし</rt></ruby></span>が<ruby>見<rt>み</rt></ruby>ると、この１<ruby>匹<rt>ぴき</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>雄<rt>おす</rt></ruby></span>だとわかりました。</p>\n<p><span\
+  \ style=\"color: blue;\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>は<ruby>４日<rt>よっか</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>雄<rt>おす</rt></ruby></span>と<span style=\"color: blue;\"\
+  ><ruby>雌<rt>めす</rt></ruby></span>の<span style=\"color: blue;\"><ruby>違<rt>ちが</rt></ruby>い</span>を<ruby>紹介<rt>しょうかい</rt></ruby>する<ruby>絵<rt>え</rt></ruby>を<ruby>客<rt>きゃく</rt></ruby>に<ruby>見<rt>み</rt></ruby>せて、１<ruby>匹<rt>ぴき</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>雄<rt>おす</rt></ruby></span>だと<ruby>説明<rt>せつめい</rt></ruby>していました。<span\
+  \ style=\"color: blue;\"><ruby>水族館<rt>すいぞくかん</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>雌<rt>めす</rt></ruby></span>だと<ruby>思<rt>おも</rt></ruby>って<ruby>育<rt>そだ</rt></ruby>てていたので<ruby>驚<rt>おどろ</rt></ruby>きました。<ruby>赤<rt>あか</rt></ruby>ちゃんができるかもしれないので、これからも<ruby>大事<rt>だいじ</rt></ruby>に<ruby>育<rt>そだ</rt></ruby>てます」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 雌
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>を<ruby><rb>生</rb><rt>う</rt></ruby>む<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>があるほう。
+- word: 雄
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>男性</rb><rt>だんせい</rt></ruby>にあたるもの。
+- word: 鼠
+  descriptions:
+  - <ruby><rb>家</rb><rt>いえ</rt></ruby>や<ruby><rb>畑</rb><rt>はたけ</rt></ruby>などにすみ、<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>食</rb><rt>く</rt></ruby>いあらす<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。ノネズミ・イエネズミ・ハツカネズミなどがいる。
+- word: 仲間
+  descriptions:
+  - いっしょにものごとをする<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>友達</rb><rt>ともだち</rt></ruby>。グループ。
+  - <ruby><rb>種類</rb><rt>しゅるい</rt></ruby>の<ruby><rb>同</rb><rt>おな</rt></ruby>じもの。
+- word: 水族館
+  descriptions:
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>にすむ<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>め、ガラス<ruby><rb>張</rb><rt>ば</rt></ruby>りの<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>水槽</rb><rt>すいそう</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れて、<ruby><rb>生</rb><rt>い</rt></ruby>きたままのようすを<ruby><rb>見</rb><rt>み</rt></ruby>せるようにした<ruby><rb>所</rb><rt>ところ</rt></ruby>。すいぞっかん。
+- word: こぶ
+  descriptions:
+  - <ruby><rb>肉</rb><rt>にく</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まって、<ruby><rb>盛</rb><rt>も</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>がったもの。たんこぶ。
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>に<ruby><rb>盛</rb><rt>も</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>がったもの。
+  - じゃまになるもの。
+  - ひもなどの<ruby><rb>結</rb><rt>むす</rt></ruby>び<ruby><rb>目</rb><rt>め</rt></ruby>。
+- word: 獣医
+  descriptions:
+  - イヌ・ネコや<ruby><rb>家畜</rb><rt>かちく</rt></ruby>など、<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>治</rb><rt>なお</rt></ruby>す<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>。
+- word: 違い
+  descriptions:
+  - ちがっていること。
+  - まちがい。
+  - <ruby><rb>差</rb><rt>さ</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011390621000/k10011390621000.html
+web_title_with_ruby: 「“<ruby>箱入<rt>はこい</rt></ruby>り<ruby>娘<rt>むすめ</rt></ruby>”は<ruby>オス<rt>おす</rt></ruby>でした」
+  <ruby>高知<rt>こうち</rt></ruby>の<ruby>水族館<rt>すいぞくかん</rt></ruby>の<ruby>カピバラ<rt>かぴばら</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/04/箱入り娘はオスでした-高知の水族館のカピバラ
+related_news:
+- title: <ruby>香川県<rt>かがわけん</rt></ruby>の<ruby>小豆島<rt>しょうどしま</rt></ruby>　<ruby>猿<rt>さる</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれる<ruby>季節<rt>きせつ</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/03/16/香川県の小豆島-猿の赤ちゃんが生まれる季節
+- title: <ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれた
+  url: https://newswebeasy.github.io/news/easy/2018/01/22/電車の中で赤ちゃんが生まれた
+- title: パンダのシャンシャン　<ruby>並<rt>なら</rt></ruby>んだ<ruby>順番<rt>じゅんばん</rt></ruby>で<ruby>見<rt>み</rt></ruby>ることができる
+  url: https://newswebeasy.github.io/news/easy/2018/02/01/パンダのシャンシャン-並んだ順番で見ることができる
+- title: ユニセフ「<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>助<rt>たす</rt></ruby>けるために<ruby>協力<rt>きょうりょく</rt></ruby>してほしい」
+  url: https://newswebeasy.github.io/news/easy/2018/02/20/ユニセフ赤ちゃんを助けるために協力してほしい
+- title: <ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>　５<ruby>月<rt>がつ</rt></ruby>の<ruby>連休<rt>れんきゅう</rt></ruby>はシャンシャンを<ruby>見<rt>み</rt></ruby>る<ruby>抽選<rt>ちゅうせん</rt></ruby>がある
+  url: https://newswebeasy.github.io/news/easy/2018/03/23/上野動物園-5月の連休はシャンシャンを見る抽選がある
+...

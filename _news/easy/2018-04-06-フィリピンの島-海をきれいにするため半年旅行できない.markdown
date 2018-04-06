@@ -1,0 +1,54 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011391291000
+last_modified_at: '2018-04-06T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>06<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: フィリピンのボラカイ島は美しい海岸が有名な島で、１年に２００万人が旅行に来ます。
+title: フィリピンの島　海をきれいにするため半年旅行できない
+title_with_ruby: フィリピンの<ruby>島<rt>しま</rt></ruby>　<ruby>海<rt>うみ</rt></ruby>をきれいにするため<ruby>半年<rt>はんとし</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>できない
+outline: フィリピンのボラカイ島は美しい海岸が有名な島で、１年に２００万人が旅行に来ます。
+outline_with_ruby: フィリピンのボラカイ<ruby>島<rt>とう</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しい<ruby>海岸<rt>かいがん</rt></ruby>が<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>島<rt>しま</rt></ruby>で、１<ruby>年<rt>ねん</rt></ruby>に２００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>が<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/05/K10011391291_1804050908_1804050927_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/06/k10011391291000.mp4
+content_with_ruby: "<p>フィリピンのボラカイ<ruby>島<rt>とう</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しい<ruby>海岸<rt>かいがん</rt></ruby>が<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>島<rt>しま</rt></ruby>で、１<ruby>年<rt>ねん</rt></ruby>に２００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>が<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。しかし、この<ruby>島<rt>しま</rt></ruby>では<ruby>汚<rt>よご</rt></ruby>れた<ruby>水<rt>みず</rt></ruby>をそのまま<ruby>海<rt>うみ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>流<rt>なが</rt></ruby>し</span>ているホテルがあって、<ruby>大<rt>おお</rt></ruby>きな<ruby>問題<rt>もんだい</rt></ruby>になっています。</p>\n\
+  <p>フィリピンの<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<ruby>汚<rt>よご</rt></ruby>れた<ruby>水<rt>みず</rt></ruby>が<ruby>海<rt>うみ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>流<rt>なが</rt></ruby>れ</span>ないように<span style=\"color:\
+  \ blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>などをすることにしました。このため、４<ruby>月<rt>がつ</rt></ruby>２６<ruby>日<rt>にち</rt></ruby>から<ruby>半年<rt>はんとし</rt></ruby>、<ruby>旅行<rt>りょこう</rt></ruby>でボラカイ<ruby>島<rt>とう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ることができないようにします。</p>\n\
+  <p><ruby>島<rt>しま</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>は<ruby>海<rt>うみ</rt></ruby>がきれいになったらうれしいと<ruby>言<rt>い</rt></ruby>っています。しかし、<ruby>半年<rt>はんとし</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>、ホテルで<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>など３<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>がなくなるため、<ruby>島<rt>しま</rt></ruby>の<ruby>経済<rt>けいざい</rt></ruby>を<ruby>心配<rt>しんぱい</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>もいます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 流す
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>などにうかべて<ruby><rb>動</rb><rt>うご</rt></ruby>かす。
+  - よごれを<ruby><rb>洗</rb><rt>あら</rt></ruby>い<ruby><rb>落</rb><rt>お</rt></ruby>とす。
+  - うわさなどを<ruby><rb>広</rb><rt>ひろ</rt></ruby>める。
+  - <ruby><rb>予定</rb><rt>よてい</rt></ruby>していたことを、<ruby><rb>取</rb><rt>と</rt></ruby>りやめる。
+  - そのことを<ruby><rb>気</rb><rt>き</rt></ruby>に<ruby><rb>留</rb><rt>と</rt></ruby>めない。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 流れる
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。
+  - <ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。
+  - うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - とりやめになる。
+- word: 工事
+  descriptions:
+  - <ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011391291000/k10011391291000.html
+web_title_with_ruby: <ruby>フィリピン<rt>ふぃりぴん</rt></ruby>の<ruby>人気<rt>にんき</rt></ruby><ruby>リゾート<rt>りぞーと</rt></ruby><ruby>島<rt>とう</rt></ruby>
+  <ruby>環境<rt>かんきょう</rt></ruby><ruby>汚染<rt>おせん</rt></ruby>で「<ruby>閉鎖<rt>へいさ</rt></ruby>」へ
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/05/フィリピンの人気リゾート島-環境汚染で閉鎖へ
+related_news:
+- title: <ruby>高<rt>たか</rt></ruby>さ３５６ｍ　<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>高<rt>たか</rt></ruby>いホテルがドバイにできる
+  url: https://newswebeasy.github.io/news/easy/2018/02/14/高さ356m-世界でいちばん高いホテルがドバイにできる
+- title: トルコの<ruby>空港<rt>くうこう</rt></ruby>で<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>崖<rt>がけ</rt></ruby>を<ruby>滑<rt>すべ</rt></ruby>って<ruby>海<rt>うみ</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちそうになる
+  url: https://newswebeasy.github.io/news/easy/2018/01/15/トルコの空港で飛行機が崖を滑って海に落ちそうになる
+...
