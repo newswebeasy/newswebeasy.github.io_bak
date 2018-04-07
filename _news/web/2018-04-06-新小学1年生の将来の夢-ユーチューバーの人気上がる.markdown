@@ -1,0 +1,114 @@
+---
+layout: web_news
+categories: web
+newsid: k10011392851000
+title: 新小学１年生の将来の夢 ユーチューバーの人気上がる
+title_with_ruby: <ruby>新<rt data-ruby-level="2">しん</rt></ruby><ruby>小学<rt data-ruby-level="1">しょうがく</rt></ruby>１<ruby>年生<rt
+  data-ruby-level="1">ねんせい</rt></ruby>の<ruby>将来<rt data-ruby-level="6">しょうらい</rt></ruby>の<ruby>夢<rt
+  data-ruby-level="5">ゆめ</rt></ruby> ユーチューバーの<ruby>人気<rt data-ruby-level="1">にんき</rt></ruby><ruby>上<rt
+  data-ruby-level="1">あ</rt></ruby>がる
+last_modified_at: '2018-04-06T10:59:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>04<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>06<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 10<ruby>時<rt data-ruby-level="2">じ</rt></ruby>59<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 子どものころの夢、覚えていますか？<br />この春、小学校に入学する新１年生たちに将来の夢を聞いたアンケート。男の子は動画サイトに動画を投稿する「ユーチューバー」の人気が上がっています。
+summary: <ruby>子<rt data-ruby-level="1">こ</rt></ruby>どものころの<ruby>夢<rt data-ruby-level="5">ゆめ</rt></ruby>、<ruby>覚<rt
+  data-ruby-level="4">おぼ</rt></ruby>えていますか？<br />この<ruby>春<rt data-ruby-level="2">はる</rt></ruby>、<ruby>小学校<rt
+  data-ruby-level="1">しょうがっこう</rt></ruby>に<ruby>入学<rt data-ruby-level="1">にゅうがく</rt></ruby>する<ruby>新<rt
+  data-ruby-level="2">しん</rt></ruby>１<ruby>年生<rt data-ruby-level="1">ねんせい</rt></ruby>たちに<ruby>将来<rt
+  data-ruby-level="6">しょうらい</rt></ruby>の<ruby>夢<rt data-ruby-level="5">ゆめ</rt></ruby>を<ruby>聞<rt
+  data-ruby-level="2">き</rt></ruby>いたアンケート。<ruby>男<rt data-ruby-level="1">おとこ</rt></ruby>の<ruby>子<rt
+  data-ruby-level="1">こ</rt></ruby>は<ruby>動画<rt data-ruby-level="3">どうが</rt></ruby>サイトに<ruby>動画<rt
+  data-ruby-level="3">どうが</rt></ruby>を<ruby>投稿<rt data-ruby-level="7">とうこう</rt></ruby>する「ユーチューバー」の<ruby>人気<rt
+  data-ruby-level="1">にんき</rt></ruby>が<ruby>上<rt data-ruby-level="1">あ</rt></ruby>がっています。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/06/K10011392851_1804061631_1804061635_01_02.jpg
+more: <ruby>化学<rt data-ruby-level="3">かがく</rt></ruby>メーカーのクラレが<ruby>平成<rt data-ruby-level="4">へいせい</rt></ruby>１１<ruby>年<rt
+  data-ruby-level="1">ねん</rt></ruby>から<ruby>毎年行<rt data-ruby-level="2">まいとしおこな</rt></ruby>っているアンケート。<ruby>回答<rt
+  data-ruby-level="2">かいとう</rt></ruby>したのは、この<ruby>春<rt data-ruby-level="2">はる</rt></ruby><ruby>小学校<rt
+  data-ruby-level="1">しょうがっこう</rt></ruby>の<ruby>新<rt data-ruby-level="2">しん</rt></ruby>１<ruby>年生<rt
+  data-ruby-level="1">ねんせい</rt></ruby>になる<ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもたち４０００<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>で、その<ruby>結果<rt data-ruby-level="4">けっか</rt></ruby>が<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>されました。
+body:
+- title: <ruby>男<rt data-ruby-level="1">おとこ</rt></ruby>の<ruby>子<rt data-ruby-level="1">こ</rt></ruby>のランキング
+  text: ▽１<ruby>位<rt data-ruby-level="4">い</rt></ruby>「スポーツ<ruby>選手<rt data-ruby-level="4">せんしゅ</rt></ruby>」２０．５％<br
+    />▽２<ruby>位<rt data-ruby-level="4">い</rt></ruby>「<ruby>警察官<rt data-ruby-level="6">けいさつかん</rt></ruby>」１２．５％<br
+    />▽３<ruby>位<rt data-ruby-level="4">い</rt></ruby>「<ruby>消防<rt data-ruby-level="5">しょうぼう</rt></ruby>・<ruby>レスキュー<rt
+    data-ruby-level="4">れすきゅー</rt></ruby><ruby>隊<rt data-ruby-level="4">たい</rt></ruby>」７．８％<br
+    />▽４<ruby>位<rt data-ruby-level="4">い</rt></ruby>「<ruby>運転士<rt data-ruby-level="4">うんてんし</rt></ruby>・<ruby>運転手<rt
+    data-ruby-level="3">うんてんしゅ</rt></ruby>」７．５％<br />▽５<ruby>位<rt data-ruby-level="4">い</rt></ruby>「テレビ・アニメキャラクター」６．３％<br
+    /><br />１<ruby>位<rt data-ruby-level="4">い</rt></ruby>の「スポーツ<ruby>選手<rt data-ruby-level="4">せんしゅ</rt></ruby>」は２０<ruby>年間<rt
+    data-ruby-level="2">ねんかん</rt></ruby>、<ruby>不動<rt data-ruby-level="4">ふどう</rt></ruby>。<br
+    />どの「スポーツ<ruby>選手<rt data-ruby-level="4">せんしゅ</rt></ruby>」になりたいかの<ruby>内訳<rt data-ruby-level="6">うちわけ</rt></ruby>は、「サッカー<ruby>選手<rt
+    data-ruby-level="4">せんしゅ</rt></ruby>」が５４．９％。２<ruby>位<rt data-ruby-level="4">い</rt></ruby>の「<ruby>野球<rt
+    data-ruby-level="3">やきゅう</rt></ruby><ruby>選手<rt data-ruby-level="4">せんしゅ</rt></ruby>」の２４．１％を<ruby>大<rt
+    data-ruby-level="1">おお</rt></ruby>きく<ruby>引<rt data-ruby-level="7">ひ</rt></ruby>き<ruby>離<rt
+    data-ruby-level="7">はな</rt></ruby>していますが、<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>はその<ruby>差<rt
+    data-ruby-level="4">さ</rt></ruby>が<ruby>約<rt data-ruby-level="4">やく</rt></ruby>４０ポイントありましたが、ことしはその<ruby>差<rt
+    data-ruby-level="4">さ</rt></ruby>が<ruby>約<rt data-ruby-level="4">やく</rt></ruby>３０ポイントに<ruby>縮<rt
+    data-ruby-level="6">ちぢ</rt></ruby>まっています。<br /><br />クラレの<ruby>担当者<rt data-ruby-level="6">たんとうしゃ</rt></ruby>は「<ruby>二刀流<rt
+    data-ruby-level="3">にとうりゅう</rt></ruby>の<ruby>大谷<rt data-ruby-level="2">おおたに</rt></ruby><ruby>翔平<rt
+    data-ruby-level="8">しょうへい</rt></ruby><ruby>選手<rt data-ruby-level="4">せんしゅ</rt></ruby>や<ruby>高校<rt
+    data-ruby-level="2">こうこう</rt></ruby><ruby>野球<rt data-ruby-level="3">やきゅう</rt></ruby>で<ruby>大活躍<rt
+    data-ruby-level="7">だいかつやく</rt></ruby>した<ruby>清宮<rt data-ruby-level="4">きよみや</rt></ruby><ruby>幸太郎<rt
+    data-ruby-level="7">こうたろう</rt></ruby><ruby>選手<rt data-ruby-level="4">せんしゅ</rt></ruby>の<ruby>影響<rt
+    data-ruby-level="7">えいきょう</rt></ruby>があるのでは」とのことでした。<br /><br />そのほか「<ruby>警察官<rt
+    data-ruby-level="6">けいさつかん</rt></ruby>」や「<ruby>消防<rt data-ruby-level="5">しょうぼう</rt></ruby>・<ruby>レスキュー<rt
+    data-ruby-level="4">れすきゅー</rt></ruby><ruby>隊<rt data-ruby-level="4">たい</rt></ruby>」といった<ruby>上位<rt
+    data-ruby-level="4">じょうい</rt></ruby>の<ruby>職業<rt data-ruby-level="5">しょくぎょう</rt></ruby>は、<ruby>時代<rt
+    data-ruby-level="3">じだい</rt></ruby>による<ruby>変化<rt data-ruby-level="4">へんか</rt></ruby>はそれほどないようです。<br
+    /><br /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>で、<ruby>人気<rt data-ruby-level="1">にんき</rt></ruby>が<ruby>上<rt
+    data-ruby-level="1">あ</rt></ruby>がったのが、ユーチューブに<ruby>制作<rt data-ruby-level="5">せいさく</rt></ruby>した<ruby>動画<rt
+    data-ruby-level="3">どうが</rt></ruby>を<ruby>投稿<rt data-ruby-level="7">とうこう</rt></ruby>する「ユーチューバー」です。トップ１０<ruby>入<rt
+    data-ruby-level="1">い</rt></ruby>りとはいきませんでしたが、１５<ruby>位<rt data-ruby-level="4">い</rt></ruby>にランクイン。<ruby>初<rt
+    data-ruby-level="4">はじ</rt></ruby>めて２０<ruby>位<rt data-ruby-level="4">い</rt></ruby><ruby>以内<rt
+    data-ruby-level="4">いない</rt></ruby>になりました。
+- title: <ruby>女<rt data-ruby-level="1">おんな</rt></ruby>の<ruby>子<rt data-ruby-level="1">こ</rt></ruby>のランキング
+  text: ▽１<ruby>位<rt data-ruby-level="4">い</rt></ruby>「<ruby>ケーキ<rt data-ruby-level="3">けーき</rt></ruby><ruby>屋<rt
+    data-ruby-level="3">や</rt></ruby>・<ruby>パン<rt data-ruby-level="3">ぱん</rt></ruby><ruby>屋<rt
+    data-ruby-level="3">や</rt></ruby>」２９．１％<br />▽２<ruby>位<rt data-ruby-level="4">い</rt></ruby>「<ruby>芸能人<rt
+    data-ruby-level="5">げいのうじん</rt></ruby>・<ruby>歌手<rt data-ruby-level="2">かしゅ</rt></ruby>・モデル」９．３％<br
+    />▽３<ruby>位<rt data-ruby-level="4">い</rt></ruby>「<ruby>看護師<rt data-ruby-level="6">かんごし</rt></ruby>」６．８％<br
+    />▽４<ruby>位<rt data-ruby-level="4">い</rt></ruby>「<ruby>花屋<rt data-ruby-level="3">はなや</rt></ruby>」５．５％<br
+    />▽５<ruby>位<rt data-ruby-level="4">い</rt></ruby>「<ruby>医師<rt data-ruby-level="5">いし</rt></ruby>」４．６％<br
+    /><br /><ruby>女子<rt data-ruby-level="1">じょし</rt></ruby>の１<ruby>位<rt data-ruby-level="4">い</rt></ruby>も２０<ruby>年間<rt
+    data-ruby-level="2">ねんかん</rt></ruby><ruby>変<rt data-ruby-level="4">か</rt></ruby>わっていません。<br
+    /><ruby>特<rt data-ruby-level="4">とく</rt></ruby>にスイーツを<ruby>作<rt data-ruby-level="2">つく</rt></ruby>る「パティシエ」の<ruby>人気<rt
+    data-ruby-level="1">にんき</rt></ruby>が<ruby>高<rt data-ruby-level="2">たか</rt></ruby>まっているそうです。ネイリストやメイクアップアーティストなど、おしゃれに<ruby>関係<rt
+    data-ruby-level="4">かんけい</rt></ruby>する<ruby>職業<rt data-ruby-level="5">しょくぎょう</rt></ruby>も<ruby>人気<rt
+    data-ruby-level="1">にんき</rt></ruby>を<ruby>集<rt data-ruby-level="3">あつ</rt></ruby>め、「<ruby>美容<rt
+    data-ruby-level="5">びよう</rt></ruby><ruby>関係<rt data-ruby-level="4">かんけい</rt></ruby>」が１４<ruby>位<rt
+    data-ruby-level="4">い</rt></ruby>にランクインしました。<br /><br />また、<ruby>着実<rt data-ruby-level="3">ちゃくじつ</rt></ruby>に<ruby>人気<rt
+    data-ruby-level="1">にんき</rt></ruby>が<ruby>高<rt data-ruby-level="2">たか</rt></ruby>まっているのが<ruby>今回<rt
+    data-ruby-level="2">こんかい</rt></ruby>５<ruby>位<rt data-ruby-level="4">い</rt></ruby>になった「<ruby>医師<rt
+    data-ruby-level="5">いし</rt></ruby>」。１５<ruby>年前<rt data-ruby-level="2">ねんまえ</rt></ruby>は２．８％→１０<ruby>年前<rt
+    data-ruby-level="2">ねんまえ</rt></ruby>は３．７％→５<ruby>年前<rt data-ruby-level="2">ねんまえ</rt></ruby>は４．３％→<ruby>今回<rt
+    data-ruby-level="2">こんかい</rt></ruby>は４．６％と<ruby>過去<rt data-ruby-level="5">かこ</rt></ruby><ruby>最高<rt
+    data-ruby-level="4">さいこう</rt></ruby>の<ruby>比率<rt data-ruby-level="5">ひりつ</rt></ruby>になりました。
+source_url: https://www3.nhk.or.jp/news/html/20180406/k10011392851000.html
+related_news:
+- title: 14<ruby>歳<rt data-ruby-level="7">さい</rt></ruby><ruby>張本<rt data-ruby-level="5">ちょうほん</rt></ruby>が<ruby>最年少<rt
+    data-ruby-level="4">さいねんしょう</rt></ruby><ruby>優勝<rt data-ruby-level="6">ゆうしょう</rt></ruby>
+    17<ruby>歳<rt data-ruby-level="7">さい</rt></ruby><ruby>伊藤<rt data-ruby-level="8">いとう</rt></ruby>も<ruby>初優勝<rt
+    data-ruby-level="6">はつゆうしょう</rt></ruby> <ruby>卓球<rt data-ruby-level="7">たっきゅう</rt></ruby><ruby>全日本<rt
+    data-ruby-level="3">ぜんにほん</rt></ruby><ruby>選手権<rt data-ruby-level="6">せんしゅけん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/21/14歳張本が最年少優勝-17歳伊藤も初優勝-卓球全日本選手権
+- title: <ruby>卓球<rt data-ruby-level="7">たっきゅう</rt></ruby><ruby>全日本<rt data-ruby-level="3">ぜんにほん</rt></ruby><ruby>選手権<rt
+    data-ruby-level="6">せんしゅけん</rt></ruby> 14<ruby>歳<rt data-ruby-level="7">さい</rt></ruby><ruby>張本<rt
+    data-ruby-level="5">ちょうほん</rt></ruby> <ruby>史上<rt data-ruby-level="4">しじょう</rt></ruby><ruby>最年少<rt
+    data-ruby-level="4">さいねんしょう</rt></ruby>でベスト４<ruby>進出<rt data-ruby-level="3">しんしゅつ</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/20/卓球全日本選手権-14歳張本-史上最年少でベスト4進出
+- title: スキージャンプ<ruby>女子<rt data-ruby-level="1">じょし</rt></ruby><ruby>Ｗ杯<rt data-ruby-level="7">わーるどかっぷ</rt></ruby>
+    <ruby>高梨<rt data-ruby-level="7">たかなし</rt></ruby>が<ruby>通算<rt data-ruby-level="2">つうさん</rt></ruby>54<ruby>勝<rt
+    data-ruby-level="3">しょう</rt></ruby> <ruby>男女<rt data-ruby-level="1">だんじょ</rt></ruby><ruby>歴代<rt
+    data-ruby-level="4">れきだい</rt></ruby><ruby>最多<rt data-ruby-level="4">さいた</rt></ruby><ruby>記録<rt
+    data-ruby-level="4">きろく</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/03/25/スキージャンプ女子W杯-高梨が通算54勝-男女歴代最多記録
+- title: <ruby>高木<rt data-ruby-level="2">たかぎ</rt></ruby><ruby>美帆<rt data-ruby-level="8">みほ</rt></ruby>は<ruby>銀<rt
+    data-ruby-level="3">ぎん</rt></ruby><ruby>メダル<rt data-ruby-level="3">めだる</rt></ruby>
+    スピードスケート<ruby>女子<rt data-ruby-level="1">じょし</rt></ruby>1500m
+  url: https://newswebeasy.github.io/news/web/2018/02/12/高木美帆は銀メダル-スピードスケート女子1500m
+- title: メダリストたちは<ruby>何<rt data-ruby-level="2">なに</rt></ruby>を<ruby>語<rt data-ruby-level="2">かた</rt></ruby>る？<ruby>帰国<rt
+    data-ruby-level="2">きこく</rt></ruby><ruby>報告会<rt data-ruby-level="5">ほうこくかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/02/27/メダリストたちは何を語る帰国報告会
+...
