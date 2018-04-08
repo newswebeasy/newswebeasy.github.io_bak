@@ -1,0 +1,49 @@
+---
+layout: web_news
+categories: web
+newsid: k10011394841000
+title: ヒノキ花粉が急増 都内で記録的飛散量（動画）
+title_with_ruby: ヒノキ<ruby>花粉<rt data-ruby-level="4">かふん</rt></ruby>が<ruby>急増<rt data-ruby-level="5">きゅうぞう</rt></ruby>
+  <ruby>都内<rt data-ruby-level="3">とない</rt></ruby>で<ruby>記録的<rt data-ruby-level="4">きろくてき</rt></ruby><ruby>飛散量<rt
+  data-ruby-level="4">ひさんりょう</rt></ruby>（<ruby>動画<rt data-ruby-level="3">どうが</rt></ruby>）
+last_modified_at: '2018-04-08T10:56:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>04<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>08<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 10<ruby>時<rt data-ruby-level="2">じ</rt></ruby>56<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ことしの花粉症は「長くて、つらい」と感じている方、多いのではないでしょうか。その原因が、スギ花粉の後、ピークを迎えるヒノキ花粉の記録的な多さです。東京都が観測している１２の地点のうち９つの地点で、先月下旬、１日の飛散量としてはこれまでで最も多い量が観測されていたことがわかりました。専門医は、体の不調を感じる人は医療機関を受診するよう呼びかけています。<br
+  />（動画あり）
+summary: ことしの<ruby>花粉症<rt data-ruby-level="7">かふんしょう</rt></ruby>は「<ruby>長<rt data-ruby-level="2">なが</rt></ruby>くて、つらい」と<ruby>感<rt
+  data-ruby-level="3">かん</rt></ruby>じている<ruby>方<rt data-ruby-level="2">ほう</rt></ruby>、<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>いのではないでしょうか。その<ruby>原因<rt data-ruby-level="5">げんいん</rt></ruby>が、スギ<ruby>花粉<rt
+  data-ruby-level="4">かふん</rt></ruby>の<ruby>後<rt data-ruby-level="2">あと</rt></ruby>、ピークを<ruby>迎<rt
+  data-ruby-level="7">むか</rt></ruby>えるヒノキ<ruby>花粉<rt data-ruby-level="4">かふん</rt></ruby>の<ruby>記録的<rt
+  data-ruby-level="4">きろくてき</rt></ruby>な<ruby>多<rt data-ruby-level="2">おお</rt></ruby>さです。<ruby>東京都<rt
+  data-ruby-level="3">とうきょうと</rt></ruby>が<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>している１２の<ruby>地点<rt
+  data-ruby-level="2">ちてん</rt></ruby>のうち９つの<ruby>地点<rt data-ruby-level="2">ちてん</rt></ruby>で、<ruby>先月<rt
+  data-ruby-level="1">せんげつ</rt></ruby><ruby>下旬<rt data-ruby-level="7">げじゅん</rt></ruby>、１<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>の<ruby>飛散量<rt data-ruby-level="4">ひさんりょう</rt></ruby>としてはこれまでで<ruby>最<rt
+  data-ruby-level="4">もっと</rt></ruby>も<ruby>多<rt data-ruby-level="2">おお</rt></ruby>い<ruby>量<rt
+  data-ruby-level="4">りょう</rt></ruby>が<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>されていたことがわかりました。<ruby>専門医<rt
+  data-ruby-level="6">せんもんい</rt></ruby>は、<ruby>体<rt data-ruby-level="2">からだ</rt></ruby>の<ruby>不調<rt
+  data-ruby-level="4">ふちょう</rt></ruby>を<ruby>感<rt data-ruby-level="3">かん</rt></ruby>じる<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>は<ruby>医療<rt data-ruby-level="7">いりょう</rt></ruby><ruby>機関<rt
+  data-ruby-level="4">きかん</rt></ruby>を<ruby>受診<rt data-ruby-level="7">じゅしん</rt></ruby>するよう<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけています。<br />（<ruby>動画<rt data-ruby-level="3">どうが</rt></ruby>あり）
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/08/K10011394841_1804081051_1804081056_01_03.jpg
+movie_url: https://newswebeasy.github.io/ja201804/news/web/movie/2018/04/08/k10011394841_201804081051_201804081055.mp4
+voice_url: https://newswebeasy.github.io/ja201804/news/web/voice/2018/04/08/k10011394841_201804081051_201804081055.mp3
+source_url: https://www3.nhk.or.jp/news/html/20180408/k10011394841000.html
+related_news:
+- title: ことしの<ruby>花粉<rt data-ruby-level="4">かふん</rt></ruby>は… <ruby>都内<rt data-ruby-level="3">とない</rt></ruby>の<ruby>飛散量<rt
+    data-ruby-level="4">ひさんりょう</rt></ruby>は<ruby>例年並<rt data-ruby-level="6">れいねんな</rt></ruby>みの<ruby>見通<rt
+    data-ruby-level="2">みとお</rt></ruby>し
+  url: https://newswebeasy.github.io/news/web/2018/02/04/ことしの花粉は-都内の飛散量は例年並みの見通し
+- title: <ruby>花粉症<rt data-ruby-level="7">かふんしょう</rt></ruby> <ruby>運転中<rt data-ruby-level="3">うんてんちゅう</rt></ruby>のくしゃみで<ruby>事故<rt
+    data-ruby-level="5">じこ</rt></ruby>？<ruby>実<rt data-ruby-level="3">じつ</rt></ruby>は<ruby>深刻<rt
+    data-ruby-level="6">しんこく</rt></ruby>な<ruby>実態<rt data-ruby-level="5">じったい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/03/01/花粉症-運転中のくしゃみで事故実は深刻な実態
+- title: 「<ruby>春<rt data-ruby-level="2">はる</rt></ruby>バテ」に<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>！
+    <ruby>新生活<rt data-ruby-level="2">しんせいかつ</rt></ruby>のストレスや<ruby>寒暖<rt data-ruby-level="6">かんだん</rt></ruby>の<ruby>差<rt
+    data-ruby-level="4">さ</rt></ruby>が<ruby>原因<rt data-ruby-level="5">げんいん</rt></ruby>か
+  url: https://newswebeasy.github.io/news/web/2018/04/03/春バテに注意-新生活のストレスや寒暖の差が原因か
+...
