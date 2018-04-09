@@ -1,0 +1,76 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011395491000
+last_modified_at: '2018-04-09T16:40:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>09<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ふん</rt></ruby>
+description: ９日午前１時３２分ごろ、島根県でマグニチュード６．１（Ｍ６．１）の大きな地震があって、中国地方や四国、近畿地方などが揺れました。
+title: 島根県で大きな地震
+title_with_ruby: <ruby>島根県<rt>しまねけん</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>
+outline: ９日午前１時３２分ごろ、島根県でマグニチュード６．１（Ｍ６．１）の大きな地震があって、中国地方や四国、近畿地方などが揺れました。
+outline_with_ruby: <ruby>９日<rt>ここのか</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>１<ruby>時<rt>じ</rt></ruby>３２<ruby>分<rt>ふん</rt></ruby>ごろ、<ruby>島根県<rt>しまねけん</rt></ruby>でマグニチュード６．１（Ｍ６．１）の<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>があって、<ruby>中国地方<rt>ちゅうごくちほう</rt></ruby>や<ruby>四国<rt>しこく</rt></ruby>、<ruby>近畿地方<rt>きんきちほう</rt></ruby>などが<ruby>揺<rt>ゆ</rt></ruby>れました。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/09/K10011395491_1804090545_1804090552_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/09/k10011395491000.mp4
+content_with_ruby: "<p><ruby>９日<rt>ここのか</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>１<ruby>時<rt>じ</rt></ruby>３２<ruby>分<rt>ふん</rt></ruby>ごろ、<ruby>島根県<rt>しまねけん</rt></ruby>で<span\
+  \ style=\"color: blue;\">マグニチュード</span>６．１（Ｍ６．１）の<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>があって、<span\
+  \ style=\"color: blue;\"><ruby>中国地方<rt>ちゅうごくちほう</rt></ruby></span>や<span style=\"\
+  color: blue;\"><ruby>四国<rt>しこく</rt></ruby></span>、<span style=\"color: blue;\"><ruby>近畿地方<rt>きんきちほう</rt></ruby></span>などが<ruby>揺<rt>ゆ</rt></ruby>れました。<ruby>島根県<rt>しまねけん</rt></ruby><ruby>大田市<rt>おおだし</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>震度<rt>しんど</rt></ruby></span>５<span style=\"color:\
+  \ blue;\"><ruby>強<rt>きょう</rt></ruby></span>、<ruby>出雲市<rt>いずもし</rt></ruby>や<ruby>雲南市<rt>うんなんし</rt></ruby>などは<span\
+  \ style=\"color: blue;\"><ruby>震度<rt>しんど</rt></ruby></span>５<span style=\"color:\
+  \ blue;\"><ruby>弱<rt>じゃく</rt></ruby></span>で<ruby>大<rt>おお</rt></ruby>きく<ruby>揺<rt>ゆ</rt></ruby>れました。</p>\n\
+  <p><ruby>大田市<rt>おおだし</rt></ruby>ではベッドから<ruby>落<rt>お</rt></ruby>ちたりしてけがをした<ruby>人<rt>ひと</rt></ruby>がいます。<ruby>道<rt>みち</rt></ruby>や<ruby>建物<rt>たてもの</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れた<ruby>所<rt>ところ</rt></ruby>や、<ruby>水道<rt>すいどう</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<ruby>出<rt>で</rt></ruby>なくなった<ruby>所<rt>ところ</rt></ruby>もあります。</p>\n\
+  <p><ruby>島根県<rt>しまねけん</rt></ruby>ではこの<ruby>地震<rt>じしん</rt></ruby>のあとも<ruby>地震<rt>じしん</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。</p>\n\
+  <p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は「<ruby>大<rt>おお</rt></ruby>きく<ruby>揺<rt>ゆ</rt></ruby>れた<ruby>所<rt>ところ</rt></ruby>は<ruby>石<rt>いし</rt></ruby>が<ruby>落<rt>お</rt></ruby>ちてきたり、<ruby>雨<rt>あめ</rt></ruby>で<ruby>山<rt>やま</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>崩<rt>くず</rt></ruby>れ</span>たりするかもしれません。いちばん<ruby>大<rt>おお</rt></ruby>きい<ruby>場合<rt>ばあい</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>震度<rt>しんど</rt></ruby></span>５<span style=\"color:\
+  \ blue;\"><ruby>強<rt>きょう</rt></ruby></span>ぐらいの<ruby>地震<rt>じしん</rt></ruby>がまたあるかもしれません。これから１<ruby>週間<rt>しゅうかん</rt></ruby>ぐらいは<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>気<rt>き</rt></ruby>をつけてください」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: マグニチュード
+  descriptions:
+  - <ruby><rb>地震</rb><rt>じしん</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさの<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: 中国地方
+  descriptions:
+  - <ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>の<ruby><rb>西部</rb><rt>せいぶ</rt></ruby>にあり、<ruby><rb>北</rb><rt>きた</rt></ruby>は<ruby><rb>日本海</rb><rt>にほんかい</rt></ruby>に、<ruby><rb>南</rb><rt>みなみ</rt></ruby>は<ruby><rb>瀬戸内海</rb><rt>せとないかい</rt></ruby>に<ruby><rb>面</rb><rt>めん</rt></ruby>する<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>岡山</rb><rt>おかやま</rt></ruby>・<ruby><rb>広島</rb><rt>ひろしま</rt></ruby>・<ruby><rb>山口</rb><rt>やまぐち</rt></ruby>・<ruby><rb>島根</rb><rt>しまね</rt></ruby>・<ruby><rb>鳥取</rb><rt>とっとり</rt></ruby>の<ruby><rb>五県</rb><rt>ごけん</rt></ruby>がある。<ruby><rb>中国</rb><rt>ちゅうごく</rt></ruby>。
+- word: 四国地方
+  descriptions:
+  - <ruby><rb>瀬戸内海</rb><rt>せとないかい</rt></ruby>をはさんで<ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>と<ruby><rb>向</rb><rt>む</rt></ruby>かい<ruby><rb>合</rb><rt>あ</rt></ruby>っている<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>島</rb><rt>しま</rt></ruby>。<ruby><rb>香川</rb><rt>かがわ</rt></ruby>・<ruby><rb>高知</rb><rt>こうち</rt></ruby>・<ruby><rb>愛媛</rb><rt>えひめ</rt></ruby>・<ruby><rb>徳島</rb><rt>とくしま</rt></ruby>の四<ruby><rb>県</rb><rt>けん</rt></ruby>がある。
+- word: 近畿地方
+  descriptions:
+  - <ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>の<ruby><rb>中央</rb><rt>ちゅうおう</rt></ruby>から<ruby><rb>少</rb><rt>すこ</rt></ruby>し<ruby><rb>西</rb><rt>にし</rt></ruby>にある<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>京都</rb><rt>きょうと</rt></ruby>・<ruby><rb>大阪</rb><rt>おおさか</rt></ruby>の<ruby><rb>二</rb><rt>ふた</rt></ruby>つの<ruby><rb>府</rb><rt>ふ</rt></ruby>と、<ruby><rb>兵庫</rb><rt>ひょうご</rt></ruby>・<ruby><rb>奈良</rb><rt>なら</rt></ruby>・<ruby><rb>和歌山</rb><rt>わかやま</rt></ruby>・<ruby><rb>滋賀</rb><rt>しが</rt></ruby>・<ruby><rb>三重</rb><rt>みえ</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>県</rb><rt>けん</rt></ruby>がある。
+- word: 震度
+  descriptions:
+  - <ruby><rb>地震</rb><rt>じしん</rt></ruby>のときに<ruby><rb>感</rb><rt>かん</rt></ruby>じるゆれの<ruby><rb>度合</rb><rt>どあ</rt></ruby>い。<ruby><rb>計測地震計</rb><rt>けいそくじしんけい</rt></ruby>によって<ruby><rb>測</rb><rt>はか</rt></ruby>られ、<ruby><rb>次</rb><rt>つぎ</rt></ruby>の１０<ruby><rb>段階</rb><rt>だんかい</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>けられている。
+- word: 強
+  descriptions:
+  - つよい。<ruby><rb>力</rb><rt>ちから</rt></ruby>がある。<ruby><rb>丈夫</rb><rt>じょうぶ</rt></ruby>。
+  - はげむ。<ruby><rb>無理</rb><rt>むり</rt></ruby>にする。しいる。
+  - ある<ruby><rb>数</rb><rt>かず</rt></ruby>よりも、<ruby><rb>少</rb><rt>すこ</rt></ruby>し<ruby><rb>多</rb><rt>おお</rt></ruby>いことを<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。
+- word: 弱
+  descriptions:
+  - よわい。
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>が<ruby><rb>若</rb><rt>わか</rt></ruby>い。
+  - ある<ruby><rb>数</rb><rt>かず</rt></ruby>より<ruby><rb>少</rb><rt>すこ</rt></ruby>し<ruby><rb>足</rb><rt>た</rt></ruby>りないことを<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。
+- word: 崩れる
+  descriptions:
+  - こわれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。
+  - ばらばらになる。<ruby><rb>乱</rb><rt>みだ</rt></ruby>れる。
+  - <ruby><rb>悪</rb><rt>わる</rt></ruby>くなる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011395491000/k10011395491000.html
+web_title_with_ruby: <ruby>島根県<rt>しまねけん</rt></ruby>で<ruby>震度<rt>しんど</rt></ruby>５<ruby>強<rt>きょう</rt></ruby>
+  <ruby>震度<rt>しんど</rt></ruby>４の<ruby>地震<rt>じしん</rt></ruby>も<ruby>続<rt>つづ</rt></ruby>く
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/09/島根県で震度5強-震度4の地震も続く
+related_news:
+- title: <ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>のときは<ruby>緊急地震速報<rt>きんきゅうじしんそくほう</rt></ruby>に<ruby>続<rt>つづ</rt></ruby>きの<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>出<rt>で</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/03/22/大きな地震のときは緊急地震速報に続きの情報が出る
+- title: <ruby>台湾<rt>たいわん</rt></ruby>で<ruby>地震<rt>じしん</rt></ruby>　５<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって２５０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>がけがをする
+  url: https://newswebeasy.github.io/news/easy/2018/02/07/台湾で地震-5人が亡くなって250人以上がけがをする
+- title: <ruby>地震<rt>じしん</rt></ruby>で<ruby>壊<rt>こわ</rt></ruby>れた<ruby>熊本城<rt>くまもとじょう</rt></ruby>を２０<ruby>年<rt>ねん</rt></ruby>で<ruby>直<rt>なお</rt></ruby>す<ruby>計画<rt>けいかく</rt></ruby>が<ruby>決<rt>き</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/03/30/地震で壊れた熊本城を20年で直す計画が決まる
+- title: <ruby>阪神<rt>はんしん</rt></ruby>・<ruby>淡路大震災<rt>あわじだいしんさい</rt></ruby>が<ruby>起<rt>お</rt></ruby>こってから２３<ruby>年<rt>ねん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/17/阪神淡路大震災が起こってから23年
+- title: <ruby>蔵王山<rt>ざおうざん</rt></ruby>で<ruby>小<rt>ちい</rt></ruby>さい<ruby>噴火<rt>ふんか</rt></ruby>があるかもしれない　<ruby>気<rt>き</rt></ruby>をつけて
+  url: https://newswebeasy.github.io/news/easy/2018/01/31/蔵王山で小さい噴火があるかもしれない-気をつけて
+...

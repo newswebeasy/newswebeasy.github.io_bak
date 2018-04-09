@@ -1,0 +1,66 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011391111000
+last_modified_at: '2018-04-09T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>09<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: レンタカーの会社の「ニッポンレンタカー」は、１１月から客に貸す車を禁煙にします。
+title: ニッポンレンタカー　客に貸す車を１１月から禁煙にする
+title_with_ruby: ニッポンレンタカー　<ruby>客<rt>きゃく</rt></ruby>に<ruby>貸<rt>か</rt></ruby>す<ruby>車<rt>くるま</rt></ruby>を１１<ruby>月<rt>がつ</rt></ruby>から<ruby>禁煙<rt>きんえん</rt></ruby>にする
+outline: レンタカーの会社の「ニッポンレンタカー」は、１１月から客に貸す車を禁煙にします。
+outline_with_ruby: レンタカーの<ruby>会社<rt>かいしゃ</rt></ruby>の「ニッポンレンタカー」は、１１<ruby>月<rt>がつ</rt></ruby>から<ruby>客<rt>きゃく</rt></ruby>に<ruby>貸<rt>か</rt></ruby>す<ruby>車<rt>くるま</rt></ruby>を<ruby>禁煙<rt>きんえん</rt></ruby>にします。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/05/K10011391111_1804050002_1804050427_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/09/k10011391111000.mp4
+content_with_ruby: "<p><span style=\"color: blue;\">レンタカー</span>の<ruby>会社<rt>かいしゃ</rt></ruby>の「ニッポンレンタカー」は、１１<ruby>月<rt>がつ</rt></ruby>から<ruby>客<rt>きゃく</rt></ruby>に<ruby>貸<rt>か</rt></ruby>す<ruby>車<rt>くるま</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>禁煙<rt>きんえん</rt></ruby></span>にします。<span style=\"\
+  color: blue;\"><ruby>乗用車<rt>じょうようしゃ</rt></ruby></span>と<span style=\"color: blue;\"\
+  >ワゴン</span><span style=\"color: blue;\"><ruby>車<rt>しゃ</rt></ruby></span>の<span style=\"\
+  color: blue;\"><ruby>約<rt>やく</rt></ruby></span>３<ruby>万<rt>まん</rt></ruby><ruby>台<rt>だい</rt></ruby>で、たばこを<ruby>吸<rt>す</rt></ruby>ってはいけないことになります。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>健康<rt>けんこう</rt></ruby></span>に<ruby>気<rt>き</rt></ruby>をつける<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなっていて、たばこを<ruby>吸<rt>す</rt></ruby>わない<ruby>人<rt>ひと</rt></ruby>やたばこのにおいを<ruby>嫌<rt>いや</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えているためです。<ruby>今<rt>いま</rt></ruby>たばこを<ruby>吸<rt>す</rt></ruby>うことができる<ruby>車<rt>くるま</rt></ruby>も<ruby>全部<rt>ぜんぶ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>禁煙<rt>きんえん</rt></ruby></span>にします。もし<ruby>客<rt>きゃく</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でたばこを<ruby>吸<rt>す</rt></ruby>ったことがわかった<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>客<rt>きゃく</rt></ruby>に２<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>払<rt>はら</rt></ruby>ってもらうことにします。</p>\n\
+  <p>ニッポンレンタカーは「<span style=\"color: blue;\">レンタカー</span>を<span style=\"color: blue;\"\
+  ><ruby>禁煙<rt>きんえん</rt></ruby></span>にしてほしいと<ruby>言<rt>い</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えているため、<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>禁煙<rt>きんえん</rt></ruby></span>にしました。たばこを<ruby>吸<rt>す</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>は、<ruby>車<rt>くるま</rt></ruby>を<ruby>止<rt>と</rt></ruby>めて<ruby>車<rt>くるま</rt></ruby>の<ruby>外<rt>そと</rt></ruby>でたばこを<ruby>吸<rt>す</rt></ruby>ってほしいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 禁煙
+  descriptions:
+  - たばこをすってはいけないこと。
+  - たばこをやめること。
+- word: レンタカー
+  descriptions:
+  - <ruby><rb>貸</rb><rt>か</rt></ruby>し<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。
+- word: 乗用車
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>乗</rb><rt>の</rt></ruby>るように<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。
+- word: ワゴン
+  descriptions:
+  - <ruby><rb>小型</rb><rt>こがた</rt></ruby>の<ruby><rb>荷物台</rb><rt>にもつだい</rt></ruby>の<ruby><rb>脚</rb><rt>あし</rt></ruby>に<ruby><rb>車輪</rb><rt>しゃりん</rt></ruby>をつけた<ruby><rb>手</rb><rt>て</rt></ruby>おし<ruby><rb>車</rb><rt>ぐるま</rt></ruby>。<ruby><rb>料理</rb><rt>りょうり</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>んだり<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>並</rb><rt>なら</rt></ruby>べたりする。
+  - <ruby><rb>後</rb><rt>うし</rt></ruby>ろの<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>に<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>めるようにした、<ruby><rb>箱形</rb><rt>はこがた</rt></ruby>の<ruby><rb>乗用車</rb><rt>じょうようしゃ</rt></ruby>。ワゴン<ruby><rb>車</rb><rt>しゃ</rt></ruby>。
+- word: 車
+  descriptions:
+  - じくを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>に<ruby><rb>回</rb><rt>まわ</rt></ruby>る<ruby><rb>輪</rb><rt>わ</rt></ruby>。くるま。
+  - くるまのついた<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 健康
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。
+source_url: http://www3.nhk.or.jp/news/easy/k10011391111000/k10011391111000.html
+web_title_with_ruby: <ruby>ニッポンレンタカー<rt>にっぽんれんたかー</rt></ruby> 11<ruby>月<rt>がつ</rt></ruby>から<ruby>全車両<rt>ぜんしゃりょう</rt></ruby>を<ruby>禁煙<rt>きんえん</rt></ruby>に
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/05/ニッポンレンタカー-11月から全車両を禁煙に
+related_news:
+- title: たばこを<ruby>吸<rt>す</rt></ruby>ったあと４５<ruby>分<rt>ふん</rt></ruby>エレベーターに<ruby>乗<rt>の</rt></ruby>ってはいけない
+  url: https://newswebeasy.github.io/news/easy/2018/04/02/たばこを吸ったあと45分エレベーターに乗ってはいけない
+- title: 「２０３５<ruby>年<rt>ねん</rt></ruby>には<ruby>新<rt>あたら</rt></ruby>しい<ruby>車<rt>くるま</rt></ruby>の２３％が<ruby>自動<rt>じどう</rt></ruby><ruby>運転<rt>うんてん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>になる」
+  url: https://newswebeasy.github.io/news/easy/2018/01/16/2035年には新しい車の23が自動運転の車になる
+- title: <ruby>動物園<rt>どうぶつえん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>がたばこを<ruby>投<rt>な</rt></ruby>げてオランウータンが<ruby>吸<rt>す</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/03/12/動物園に来た人がたばこを投げてオランウータンが吸う
+- title: <ruby>新<rt>あたら</rt></ruby>しい<ruby>電化製品<rt>でんかせいひん</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベントがアメリカで<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/01/10/新しい電化製品を紹介するイベントがアメリカで始まる
+...

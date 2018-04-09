@@ -1,0 +1,60 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011391421000
+last_modified_at: '2018-04-09T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>09<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: アメリカの首都ワシントンにあるポトマック川の周りには、１９１２年に東京からもらった約３０００本の桜の木があります。
+title: アメリカのワシントンで東京からもらった桜の花が咲く
+title_with_ruby: アメリカのワシントンで<ruby>東京<rt>とうきょう</rt></ruby>からもらった<ruby>桜<rt>さくら</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く
+outline: アメリカの首都ワシントンにあるポトマック川の周りには、１９１２年に東京からもらった約３０００本の桜の木があります。
+outline_with_ruby: アメリカの<ruby>首都<rt>しゅと</rt></ruby>ワシントンにあるポトマック<ruby>川<rt>がわ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りには、１９１２<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>からもらった<ruby>約<rt>やく</rt></ruby>３０００<ruby>本<rt>ぼん</rt></ruby>の<ruby>桜<rt>さくら</rt></ruby>の<ruby>木<rt>き</rt></ruby>があります。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/05/K10011391421_1804051009_1804051024_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/09/k10011391421000.mp4
+content_with_ruby: "<p>アメリカの<span style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>ワシントンにあるポトマック<ruby>川<rt>がわ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りには、１９１２<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>からもらった<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>３０００<ruby>本<rt>ぼん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>の<ruby>木<rt>き</rt></ruby>があります。<ruby>今年<rt>ことし</rt></ruby>は<ruby>先月<rt>せんげつ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>下旬<rt>げじゅん</rt></ruby></span>に<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っていつもより<ruby>遅<rt>おそ</rt></ruby>くなりましたが、きれいな<span\
+  \ style=\"color: blue;\">ピンク</span><ruby>色<rt>いろ</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>きました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>の<ruby>木<rt>き</rt></ruby>の<ruby>下<rt>した</rt></ruby>では、たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>散歩<rt>さんぽ</rt></ruby>したり、<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ったりして<ruby>楽<rt>たの</rt></ruby>しんでいました。サウスカロライナ<ruby>州<rt>しゅう</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<span\
+  \ style=\"color: blue;\"><ruby>夫婦<rt>ふうふ</rt></ruby></span>は「とても<ruby>美<rt>うつく</rt></ruby>しいです。<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>ると、<ruby>日本<rt>にっぽん</rt></ruby>とアメリカの<ruby>関係<rt>かんけい</rt></ruby>がとても<ruby>強<rt>つよ</rt></ruby>いことがわかります」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>ワシントンでは、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>などを<ruby>紹介<rt>しょうかい</rt></ruby>する「<ruby>桜祭<rt>さくらまつ</rt></ruby>り」を<ruby>行<rt>おこな</rt></ruby>っています。<ruby>今月<rt>こんげつ</rt></ruby>１５<ruby>日<rt>にち</rt></ruby>までに１５０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>ぐらい<ruby>来<rt>く</rt></ruby>ると<ruby>考<rt>かんが</rt></ruby>えられています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 桜
+  descriptions:
+  - <ruby><rb>山地</rb><rt>さんち</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>え、<ruby><rb>公園</rb><rt>こうえん</rt></ruby>や<ruby><rb>庭</rb><rt>にわ</rt></ruby>にも<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>木</rb><rt>き</rt></ruby>。ソメイヨシノ・シダレザクラ・ヤマザクラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>春</rb><rt>はる</rt></ruby>、うすもも<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>美</rb><rt>うつく</rt></ruby>しい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の「<ruby><rb>国花</rb><rt>こっか</rt></ruby>」とされる。
+- word: 首都
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 下旬
+  descriptions:
+  - <ruby><rb>月</rb><rt>つき</rt></ruby>の<ruby><rb>２１日</rb><rt>にじゅういちにち</rt></ruby>から<ruby><rb>終</rb><rt>お</rt></ruby>わりまでの、<ruby><rb>約１０日間</rb><rt>やくとおかかん</rt></ruby>。
+- word: ピンク
+  descriptions:
+  - もも<ruby><rb>色</rb><rt>いろ</rt></ruby>。うすい<ruby><rb>赤色</rb><rt>あかいろ</rt></ruby>。
+- word: 夫婦
+  descriptions:
+  - <ruby><rb>結婚</rb><rt>けっこん</rt></ruby>している<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>と<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>夫</rb><rt>おっと</rt></ruby>と<ruby><rb>妻</rb><rt>つま</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011391421000/k10011391421000.html
+web_title_with_ruby: <ruby>ワシントン<rt>わしんとん</rt></ruby>で<ruby>日本<rt>にっぽん</rt></ruby>から<ruby>寄贈<rt>きぞう</rt></ruby>の<ruby>桜<rt>さくら</rt></ruby>が<ruby>見頃<rt>みごろ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/05/ワシントンで日本から寄贈の桜が見頃
+related_news:
+- title: <ruby>紀伊半島<rt>きいはんとう</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しい<ruby>野生<rt>やせい</rt></ruby>の<ruby>桜<rt>さくら</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかる
+  url: https://newswebeasy.github.io/news/easy/2018/03/14/紀伊半島で新しい野生の桜が見つかる
+- title: <ruby>東京<rt>とうきょう</rt></ruby>でいつもの<ruby>年<rt>とし</rt></ruby>より<ruby>９日<rt>ここのか</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2018/03/19/東京でいつもの年より9日早く桜が咲き始める
+- title: <ruby>千葉県<rt>ちばけん</rt></ruby><ruby>鋸南町<rt>きょなんまち</rt></ruby>の「<ruby>河津桜<rt>かわづざくら</rt></ruby>」がきれいに<ruby>咲<rt>さ</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/03/06/千葉県鋸南町の河津桜がきれいに咲く
+- title: <ruby>桜<rt>さくら</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>　<ruby>外国人<rt>がいこくじん</rt></ruby>も<ruby>花見<rt>はなみ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむ
+  url: https://newswebeasy.github.io/news/easy/2018/03/27/桜の季節-外国人も花見を楽しむ
+- title: <ruby>暖<rt>あたた</rt></ruby>かい<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く<ruby>日<rt>ひ</rt></ruby>が<ruby>早<rt>はや</rt></ruby>くなりそう
+  url: https://newswebeasy.github.io/news/easy/2018/03/15/暖かい日が続いて桜が咲く日が早くなりそう
+...
