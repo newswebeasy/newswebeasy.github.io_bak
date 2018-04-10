@@ -1,0 +1,61 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011395071000
+last_modified_at: '2018-04-10T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>10<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 日本では、会社員は勤めている会社の仕事だけする人がほとんどでした。
+title: ２つ以上の仕事をしている人が増えている
+title_with_ruby: ２つ<ruby>以上<rt>いじょう</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えている
+outline: 日本では、会社員は勤めている会社の仕事だけする人がほとんどでした。
+outline_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>では、<ruby>会社員<rt>かいしゃいん</rt></ruby>は<ruby>勤<rt>つと</rt></ruby>めている<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>だけする<ruby>人<rt>ひと</rt></ruby>がほとんどでした。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/08/K10011395071_1804081552_1804081605_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/10/k10011395071000.mp4
+content_with_ruby: "<p><ruby>日本<rt>にっぽん</rt></ruby>では、<ruby>会社員<rt>かいしゃいん</rt></ruby>は<ruby>勤<rt>つと</rt></ruby>めている<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>だけする<ruby>人<rt>ひと</rt></ruby>がほとんどでした。<ruby>別<rt>べつ</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>はしてはいけないと<ruby>言<rt>い</rt></ruby>う<ruby>会社<rt>かいしゃ</rt></ruby>もあります。しかし、<ruby>最近<rt>さいきん</rt></ruby>２つ<ruby>以上<rt>いじょう</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。</p>\n\
+  <p>ランサーズという<ruby>会社<rt>かいしゃ</rt></ruby>が<span style=\"color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span>から<span\
+  \ style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>をすると、２つ<ruby>以上<rt>いじょう</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>人<rt>ひと</rt></ruby>は７４４<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>で、<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなりました。</p>\n\
+  <p>２つ<ruby>目<rt>め</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>でいちばん<ruby>多<rt>おお</rt></ruby>かったのは、インターネットの<span\
+  \ style=\"color: blue;\"><ruby>記事<rt>きじ</rt></ruby></span>を<ruby>書<rt>か</rt></ruby>いたりパソコンに<span\
+  \ style=\"color: blue;\">データ</span>を<span style=\"color: blue;\"><ruby>入力<rt>にゅうりょく</rt></ruby></span>したりする、<ruby>家<rt>いえ</rt></ruby>でもできる<ruby>仕事<rt>しごと</rt></ruby>で、１６５<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>でした。</p>\n\
+  <p>いま<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<ruby>会社員<rt>かいしゃいん</rt></ruby>も<ruby>別<rt>べつ</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>ができるようにして、いろいろな<ruby>働<rt>はたら</rt></ruby>き<ruby>方<rt>かた</rt></ruby>ができるようにしたいと<ruby>言<rt>い</rt></ruby>っています。しかし、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>大事<rt>だいじ</rt></ruby>な<span\
+  \ style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>が<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>てしまうかもしれないと<ruby>心配<rt>しんぱい</rt></ruby>する<ruby>会社<rt>かいしゃ</rt></ruby>もあります。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 調査
+  descriptions:
+  - <ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: 計算
+  descriptions:
+  - <ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。
+  - <ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。
+- word: 記事
+  descriptions:
+  - できごとやものごとを<ruby><rb>伝</rb><rt>つた</rt></ruby>えるために、<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>。
+- word: データ
+  descriptions:
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。
+  - コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。
+- word: 入力
+  descriptions:
+  - コンピューターなどに、<ruby><rb>用意</rb><rt>ようい</rt></ruby>した<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れること。インプット。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 情報
+  descriptions:
+  - できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011395071000/k10011395071000.html
+web_title_with_ruby: <ruby>副業<rt>ふくぎょう</rt></ruby>・<ruby>兼業<rt>けんぎょう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>
+  <ruby>過去<rt>かこ</rt></ruby><ruby>最高<rt>さいこう</rt></ruby>の744<ruby>万人<rt>まんにん</rt></ruby>に
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/08/副業兼業を行う人-過去最高の744万人に
+related_news:
+- title: <ruby>介護<rt>かいご</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>うロボットを<ruby>作<rt>つく</rt></ruby>ろう
+  url: https://newswebeasy.github.io/news/easy/2018/04/03/介護の仕事を手伝うロボットを作ろう
+- title: <ruby>民泊<rt>みんぱく</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をするための<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みが<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/03/16/民泊の仕事をするための申し込みが始まる
+- title: <ruby>日本<rt>にっぽん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いている<ruby>外国人<rt>がいこくじん</rt></ruby>　<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>い１２７<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/30/日本で働いている外国人-今まででいちばん多い127万人
+...

@@ -86,6 +86,10 @@ body:
     data-ruby-level="2">こんかい</rt></ruby>は４．６％と<ruby>過去<rt data-ruby-level="5">かこ</rt></ruby><ruby>最高<rt
     data-ruby-level="4">さいこう</rt></ruby>の<ruby>比率<rt data-ruby-level="5">ひりつ</rt></ruby>になりました。
 source_url: https://www3.nhk.or.jp/news/html/20180406/k10011392851000.html
+easy_title_with_ruby: <ruby>小学校<rt data-ruby-level="1">しょうがっこう</rt></ruby>１<ruby>年生<rt
+  data-ruby-level="1">ねんせい</rt></ruby>の<ruby>将来<rt data-ruby-level="6">しょうらい</rt></ruby>の<ruby>夢<rt
+  data-ruby-level="5">ゆめ</rt></ruby> 「ユーチューバー」も<ruby>人気<rt data-ruby-level="1">にんき</rt></ruby>
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/04/10/小学校1年生の将来の夢-ユーチューバーも人気
 related_news:
 - title: 14<ruby>歳<rt data-ruby-level="7">さい</rt></ruby><ruby>張本<rt data-ruby-level="5">ちょうほん</rt></ruby>が<ruby>最年少<rt
     data-ruby-level="4">さいねんしょう</rt></ruby><ruby>優勝<rt data-ruby-level="6">ゆうしょう</rt></ruby>
