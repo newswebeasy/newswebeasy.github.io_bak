@@ -1,0 +1,48 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011398791000
+last_modified_at: '2018-04-12T18:45:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>
+  18<ruby>時<rt>じ</rt></ruby>45<ruby>分<rt>ふん</rt></ruby>
+description: 大阪の造幣局の中には、１３４種類の桜が３４９本並ぶ５６０ｍぐらいの道があります。
+title: 大阪の造幣局の「桜の通り抜け」が始まって花を楽しむ
+title_with_ruby: <ruby>大阪<rt>おおさか</rt></ruby>の<ruby>造幣局<rt>ぞうへいきょく</rt></ruby>の「<ruby>桜<rt>さくら</rt></ruby>の<ruby>通<rt>とお</rt></ruby>り<ruby>抜<rt>ぬ</rt></ruby>け」が<ruby>始<rt>はじ</rt></ruby>まって<ruby>花<rt>はな</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむ
+outline: 大阪の造幣局の中には、１３４種類の桜が３４９本並ぶ５６０ｍぐらいの道があります。
+outline_with_ruby: <ruby>大阪<rt>おおさか</rt></ruby>の<ruby>造幣局<rt>ぞうへいきょく</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、１３４<ruby>種類<rt>しゅるい</rt></ruby>の<ruby>桜<rt>さくら</rt></ruby>が３４９<ruby>本<rt>ほん</rt></ruby><ruby>並<rt>なら</rt></ruby>ぶ５６０ｍぐらいの<ruby>道<rt>みち</rt></ruby>があります。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/11/K10011398791_1804111412_1804111449_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/12/k10011398791000.mp4
+content_with_ruby: "<p><ruby>大阪<rt>おおさか</rt></ruby>の<ruby>造幣局<rt>ぞうへいきょく</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、１３４<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>桜<rt>さくら</rt></ruby></span>が３４９<ruby>本<rt>ほん</rt></ruby><ruby>並<rt>なら</rt></ruby>ぶ５６０ｍぐらいの<ruby>道<rt>みち</rt></ruby>があります。<ruby>造幣局<rt>ぞうへいきょく</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>くころ、みんながこの<ruby>道<rt>みち</rt></ruby>を<ruby>通<rt>とお</rt></ruby>ることができるようにする「<ruby>桜<rt>さくら</rt></ruby>の<ruby>通<rt>とお</rt></ruby>り<ruby>抜<rt>ぬ</rt></ruby>け」を１３０<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>行<rt>おこな</rt></ruby>っています。<ruby>今年<rt>ことし</rt></ruby>は１１<ruby>日<rt>にち</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まりました。</p>\n\
+  <p><ruby>午前<rt>ごぜん</rt></ruby>１０<ruby>時<rt>じ</rt></ruby>に<ruby>門<rt>もん</rt></ruby>が<ruby>開<rt>あ</rt></ruby>くと、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちが<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りました。そして、<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ったりたくさんの<ruby>花<rt>はな</rt></ruby>を<ruby>見<rt>み</rt></ruby>たりして<ruby>楽<rt>たの</rt></ruby>しんでいました。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby>は<span style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>が<ruby>早<rt>はや</rt></ruby>く<ruby>咲<rt>さ</rt></ruby>く<ruby>所<rt>ところ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いですが、<ruby>造幣局<rt>ぞうへいきょく</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>は<ruby>遅<rt>おそ</rt></ruby>く<ruby>咲<rt>さ</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>が<ruby>多<rt>おお</rt></ruby>いため、<ruby>今<rt>いま</rt></ruby>がいちばんきれいです。<ruby>岡山県<rt>おかやまけん</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>男性<rt>だんせい</rt></ruby>は「<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くて<ruby>驚<rt>おどろ</rt></ruby>きました。<span\
+  \ style=\"color: blue;\"><ruby>桜<rt>さくら</rt></ruby></span>をたくさん<ruby>見<rt>み</rt></ruby>ることができてよかったです」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>「<ruby>桜<rt>さくら</rt></ruby>の<ruby>通<rt>とお</rt></ruby>り<ruby>抜<rt>ぬ</rt></ruby>け」は１７<ruby>日<rt>にち</rt></ruby>までです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 桜
+  descriptions:
+  - <ruby><rb>山地</rb><rt>さんち</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>え、<ruby><rb>公園</rb><rt>こうえん</rt></ruby>や<ruby><rb>庭</rb><rt>にわ</rt></ruby>にも<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>木</rb><rt>き</rt></ruby>。ソメイヨシノ・シダレザクラ・ヤマザクラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>春</rb><rt>はる</rt></ruby>、うすもも<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>美</rb><rt>うつく</rt></ruby>しい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の「<ruby><rb>国花</rb><rt>こっか</rt></ruby>」とされる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011398791000/k10011398791000.html
+web_title_with_ruby: <ruby>造幣局<rt>ぞうへいきょく</rt></ruby>の「<ruby>桜<rt>さくら</rt></ruby>の<ruby>通<rt>とお</rt></ruby>り<ruby>抜<rt>ぬ</rt></ruby>け」<ruby>始<rt>はじ</rt></ruby>まる
+  <ruby>大阪<rt>おおさか</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/11/造幣局の桜の通り抜け始まる-大阪
+related_news:
+- title: <ruby>紀伊半島<rt>きいはんとう</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しい<ruby>野生<rt>やせい</rt></ruby>の<ruby>桜<rt>さくら</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかる
+  url: https://newswebeasy.github.io/news/easy/2018/03/14/紀伊半島で新しい野生の桜が見つかる
+- title: <ruby>東京<rt>とうきょう</rt></ruby>でいつもの<ruby>年<rt>とし</rt></ruby>より<ruby>９日<rt>ここのか</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2018/03/19/東京でいつもの年より9日早く桜が咲き始める
+- title: アメリカのワシントンで<ruby>東京<rt>とうきょう</rt></ruby>からもらった<ruby>桜<rt>さくら</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/04/09/アメリカのワシントンで東京からもらった桜の花が咲く
+- title: <ruby>暖<rt>あたた</rt></ruby>かい<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く<ruby>日<rt>ひ</rt></ruby>が<ruby>早<rt>はや</rt></ruby>くなりそう
+  url: https://newswebeasy.github.io/news/easy/2018/03/15/暖かい日が続いて桜が咲く日が早くなりそう
+- title: <ruby>千葉県<rt>ちばけん</rt></ruby><ruby>鋸南町<rt>きょなんまち</rt></ruby>の「<ruby>河津桜<rt>かわづざくら</rt></ruby>」がきれいに<ruby>咲<rt>さ</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/03/06/千葉県鋸南町の河津桜がきれいに咲く
+...
