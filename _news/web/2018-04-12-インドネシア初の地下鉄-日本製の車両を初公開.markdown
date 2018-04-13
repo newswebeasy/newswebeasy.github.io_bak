@@ -1,0 +1,81 @@
+---
+layout: web_news
+categories: web
+newsid: k10011400201000
+title: インドネシア初の地下鉄 日本製の車両を初公開
+title_with_ruby: インドネシア<ruby>初<rt data-ruby-level="4">はつ</rt></ruby>の<ruby>地下鉄<rt
+  data-ruby-level="3">ちかてつ</rt></ruby> <ruby>日本製<rt data-ruby-level="5">にほんせい</rt></ruby>の<ruby>車両<rt
+  data-ruby-level="3">しゃりょう</rt></ruby>を<ruby>初公開<rt data-ruby-level="4">はつこうかい</rt></ruby>
+last_modified_at: '2018-04-12T14:31:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>04<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>12<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 14<ruby>時<rt data-ruby-level="2">じ</rt></ruby>31<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 日本の技術や円借款を活用して建設が進められている、インドネシア初となる地下鉄で利用される車両がこのほど日本から首都ジャカルタに到着し、１２日報道陣に公開されました。
+summary: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>や<ruby>円借款<rt
+  data-ruby-level="7">えんしゃっかん</rt></ruby>を<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>して<ruby>建設<rt
+  data-ruby-level="5">けんせつ</rt></ruby>が<ruby>進<rt data-ruby-level="3">すす</rt></ruby>められている、インドネシア<ruby>初<rt
+  data-ruby-level="4">はつ</rt></ruby>となる<ruby>地下鉄<rt data-ruby-level="3">ちかてつ</rt></ruby>で<ruby>利用<rt
+  data-ruby-level="4">りよう</rt></ruby>される<ruby>車両<rt data-ruby-level="3">しゃりょう</rt></ruby>がこのほど<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>から<ruby>首都<rt data-ruby-level="3">しゅと</rt></ruby>ジャカルタに<ruby>到着<rt
+  data-ruby-level="7">とうちゃく</rt></ruby>し、１２<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>報道陣<rt
+  data-ruby-level="7">ほうどうじん</rt></ruby>に<ruby>公開<rt data-ruby-level="3">こうかい</rt></ruby>されました。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/12/K10011400201_1804121426_1804121429_01_02.jpg
+body:
+- text: この<ruby>地下鉄<rt data-ruby-level="3">ちかてつ</rt></ruby>はジャカルタ<ruby>中心部<rt data-ruby-level="3">ちゅうしんぶ</rt></ruby>と<ruby>南部<rt
+    data-ruby-level="3">なんぶ</rt></ruby>を<ruby>結<rt data-ruby-level="4">むす</rt></ruby>ぶ<ruby>全長<rt
+    data-ruby-level="3">ぜんちょう</rt></ruby>１５キロ<ruby>余<rt data-ruby-level="5">あま</rt></ruby>りの<ruby>路線<rt
+    data-ruby-level="3">ろせん</rt></ruby>で、およそ１２００<ruby>億円<rt data-ruby-level="4">おくえん</rt></ruby>の<ruby>円借款<rt
+    data-ruby-level="7">えんしゃっかん</rt></ruby>を<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>して、<ruby>日本<rt
+    data-ruby-level="1">にっぽん</rt></ruby>と<ruby>地元<rt data-ruby-level="2">じもと</rt></ruby>の<ruby>建設会社<rt
+    data-ruby-level="5">けんせつがいしゃ</rt></ruby>による<ruby>共同<rt data-ruby-level="4">きょうどう</rt></ruby><ruby>企業体<rt
+    data-ruby-level="7">きぎょうたい</rt></ruby>が<ruby>来年<rt data-ruby-level="2">らいねん</rt></ruby>３<ruby>月<rt
+    data-ruby-level="1">がつ</rt></ruby>の<ruby>完成<rt data-ruby-level="4">かんせい</rt></ruby>を<ruby>目標<rt
+    data-ruby-level="4">もくひょう</rt></ruby>に<ruby>建設<rt data-ruby-level="5">けんせつ</rt></ruby>を<ruby>進<rt
+    data-ruby-level="3">すす</rt></ruby>めています。<br /><br />この<ruby>路線<rt data-ruby-level="3">ろせん</rt></ruby>で<ruby>導入<rt
+    data-ruby-level="5">どうにゅう</rt></ruby>される<ruby>日本製<rt data-ruby-level="5">にほんせい</rt></ruby>の<ruby>車両<rt
+    data-ruby-level="3">しゃりょう</rt></ruby>が、１２<ruby>日<rt data-ruby-level="1">にち</rt></ruby>ジャカルタにある<ruby>車庫<rt
+    data-ruby-level="3">しゃこ</rt></ruby>で<ruby>報道陣<rt data-ruby-level="7">ほうどうじん</rt></ruby>に<ruby>公開<rt
+    data-ruby-level="3">こうかい</rt></ruby>されました。<ruby>車両<rt data-ruby-level="3">しゃりょう</rt></ruby>は<ruby>全長<rt
+    data-ruby-level="3">ぜんちょう</rt></ruby>が２０メートル、<ruby>高<rt data-ruby-level="2">たか</rt></ruby>さ４メートル、<ruby>幅<rt
+    data-ruby-level="7">はば</rt></ruby>３メートルで、<ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせて９６<ruby>両<rt
+    data-ruby-level="3">りょう</rt></ruby>を<ruby>大手<rt data-ruby-level="1">おおて</rt></ruby><ruby>鉄道<rt
+    data-ruby-level="3">てつどう</rt></ruby><ruby>車両<rt data-ruby-level="3">しゃりょう</rt></ruby>メーカーの「<ruby>日本車両<rt
+    data-ruby-level="3">にほんしゃりょう</rt></ruby>」と、「<ruby>住友商事<rt data-ruby-level="3">すみともしょうじ</rt></ruby>」が<ruby>受注<rt
+    data-ruby-level="3">じゅちゅう</rt></ruby>し、これまでに１２<ruby>両<rt data-ruby-level="3">りょう</rt></ruby>が<ruby>納入<rt
+    data-ruby-level="6">のうにゅう</rt></ruby>され、<ruby>今後<rt data-ruby-level="2">こんご</rt></ruby><ruby>試運転<rt
+    data-ruby-level="4">しうんてん</rt></ruby>が<ruby>行<rt data-ruby-level="2">おこな</rt></ruby>われる<ruby>予定<rt
+    data-ruby-level="3">よてい</rt></ruby>です。<br /><br /><ruby>車両<rt data-ruby-level="3">しゃりょう</rt></ruby>を<ruby>視察<rt
+    data-ruby-level="6">しさつ</rt></ruby>したジャカルタのアニス<ruby>知事<rt data-ruby-level="3">ちじ</rt></ruby>は「この<ruby>事業<rt
+    data-ruby-level="3">じぎょう</rt></ruby>が<ruby>完成<rt data-ruby-level="4">かんせい</rt></ruby>すれば、ジャカルタの<ruby>多<rt
+    data-ruby-level="2">おお</rt></ruby>くの<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>たちが<ruby>効率的<rt
+    data-ruby-level="5">こうりつてき</rt></ruby>に<ruby>街<rt data-ruby-level="4">まち</rt></ruby>を<ruby>移動<rt
+    data-ruby-level="5">いどう</rt></ruby>することができるようになる」と<ruby>述<rt data-ruby-level="5">の</rt></ruby>べて、この<ruby>地下鉄<rt
+    data-ruby-level="3">ちかてつ</rt></ruby>が<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby><ruby>最悪<rt
+    data-ruby-level="4">さいあく</rt></ruby>とも<ruby>言<rt data-ruby-level="2">い</rt></ruby>われるジャカルタの<ruby>交通<rt
+    data-ruby-level="2">こうつう</rt></ruby><ruby>渋滞<rt data-ruby-level="7">じゅうたい</rt></ruby>の<ruby>改善<rt
+    data-ruby-level="6">かいぜん</rt></ruby>につながることへの<ruby>期待<rt data-ruby-level="3">きたい</rt></ruby>を<ruby>示<rt
+    data-ruby-level="5">しめ</rt></ruby>しました。<br /><br /><ruby>日本側<rt data-ruby-level="4">にほんがわ</rt></ruby>としても<ruby>今回<rt
+    data-ruby-level="2">こんかい</rt></ruby>の<ruby>事業<rt data-ruby-level="3">じぎょう</rt></ruby>で<ruby>実績<rt
+    data-ruby-level="5">じっせき</rt></ruby>を<ruby>示<rt data-ruby-level="5">しめ</rt></ruby>し、インドネシアが<ruby>進<rt
+    data-ruby-level="3">すす</rt></ruby>める<ruby>新<rt data-ruby-level="2">あら</rt></ruby>たなインフラ<ruby>開発<rt
+    data-ruby-level="3">かいはつ</rt></ruby>の<ruby>受注<rt data-ruby-level="3">じゅちゅう</rt></ruby>につなげたい<ruby>考<rt
+    data-ruby-level="2">かんが</rt></ruby>えです。
+  textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/12/K10011400201_1804121426_1804121429_01_03.jpg
+source_url: https://www3.nhk.or.jp/news/html/20180412/k10011400201000.html
+easy_title_with_ruby: インドネシア <ruby>初<rt data-ruby-level="4">はじ</rt></ruby>めての<ruby>地下鉄<rt
+  data-ruby-level="3">ちかてつ</rt></ruby>を<ruby>走<rt data-ruby-level="2">はし</rt></ruby>る<ruby>車両<rt
+  data-ruby-level="3">しゃりょう</rt></ruby>が<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>から<ruby>着<rt
+  data-ruby-level="3">つ</rt></ruby>いた
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/04/13/インドネシア-初めての地下鉄を走る車両が日本から着いた
+related_news:
+- title: ニューヨークの<ruby>地下鉄<rt data-ruby-level="3">ちかてつ</rt></ruby><ruby>車両<rt data-ruby-level="3">しゃりょう</rt></ruby>
+    <ruby>最大<rt data-ruby-level="4">さいだい</rt></ruby>で1600<ruby>両<rt data-ruby-level="3">りょう</rt></ruby><ruby>余<rt
+    data-ruby-level="5">よ</rt></ruby><ruby>受注<rt data-ruby-level="3">じゅちゅう</rt></ruby>
+    <ruby>川崎<rt data-ruby-level="7">かわさき</rt></ruby><ruby>重工<rt data-ruby-level="3">じゅうこう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/25/ニューヨークの地下鉄車両-最大で1600両余受注-川崎重工
+- title: インドネシア<ruby>証券<rt data-ruby-level="5">しょうけん</rt></ruby><ruby>取引所<rt data-ruby-level="3">とりひきじょ</rt></ruby>
+    <ruby>建物<rt data-ruby-level="4">たてもの</rt></ruby>の<ruby>一部<rt data-ruby-level="3">いちぶ</rt></ruby><ruby>崩壊<rt
+    data-ruby-level="7">ほうかい</rt></ruby> 77<ruby>人<rt data-ruby-level="1">にん</rt></ruby>けが
+  url: https://newswebeasy.github.io/news/web/2018/01/15/インドネシア証券取引所-建物の一部崩壊-77人けが
+...

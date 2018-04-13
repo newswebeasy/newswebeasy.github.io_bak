@@ -1,0 +1,51 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011400201000
+last_modified_at: '2018-04-13T16:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: インドネシアの首都のジャカルタでは、来年３月から地下鉄が走る予定です。
+title: インドネシア　初めての地下鉄を走る車両が日本から着いた
+title_with_ruby: インドネシア　<ruby>初<rt>はじ</rt></ruby>めての<ruby>地下鉄<rt>ちかてつ</rt></ruby>を<ruby>走<rt>はし</rt></ruby>る<ruby>車両<rt>しゃりょう</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>から<ruby>着<rt>つ</rt></ruby>いた
+outline: インドネシアの首都のジャカルタでは、来年３月から地下鉄が走る予定です。
+outline_with_ruby: インドネシアの<ruby>首都<rt>しゅと</rt></ruby>のジャカルタでは、<ruby>来年<rt>らいねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>から<ruby>地下鉄<rt>ちかてつ</rt></ruby>が<ruby>走<rt>はし</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/12/K10011400201_1804121426_1804121429_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/13/k10011400201000.mp4
+content_with_ruby: "<p>インドネシアの<span style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>のジャカルタでは、<ruby>来年<rt>らいねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>から<ruby>地下鉄<rt>ちかてつ</rt></ruby>が<ruby>走<rt>はし</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。インドネシアで<ruby>初<rt>はじ</rt></ruby>めての<ruby>地下鉄<rt>ちかてつ</rt></ruby>で、１５ｋｍぐらいの<ruby>間<rt>あいだ</rt></ruby>に１３の<ruby>駅<rt>えき</rt></ruby>ができます。<ruby>今<rt>いま</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>で<span style=\"color:\
+  \ blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>が<ruby>進<rt>すす</rt></ruby>んでいます。</p>\n\
+  <p><ruby>地下鉄<rt>ちかてつ</rt></ruby>の９６の<span style=\"color: blue;\"><ruby>車両<rt>しゃりょう</rt></ruby></span>も<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>がつくっています。１２の<span\
+  \ style=\"color: blue;\"><ruby>車両<rt>しゃりょう</rt></ruby></span>が<ruby>日本<rt>にっぽん</rt></ruby>からジャカルタに<ruby>着<rt>つ</rt></ruby>いて、１２<ruby>日<rt>にち</rt></ruby>、ジャカルタの<span\
+  \ style=\"color: blue;\"><ruby>知事<rt>ちじ</rt></ruby></span>などが<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>ました。</p>\n\
+  <p>ジャカルタは<ruby>車<rt>くるま</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くて<ruby>道<rt>みち</rt></ruby>がとても<ruby>混<rt>こ</rt></ruby>んでいるため、<ruby>出<rt>で</rt></ruby>かけるときとても<ruby>時間<rt>じかん</rt></ruby>がかかります。<span\
+  \ style=\"color: blue;\"><ruby>知事<rt>ちじ</rt></ruby></span>は「<ruby>地下鉄<rt>ちかてつ</rt></ruby>ができたら、ジャカルタの<ruby>人<rt>ひと</rt></ruby>たちの<ruby>交通<rt>こうつう</rt></ruby>が<ruby>便利<rt>べんり</rt></ruby>になります」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 車両
+  descriptions:
+  - <ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>・<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>などのこと。また、その<ruby><rb>一台</rb><rt>いちだい</rt></ruby><ruby><rb>一台</rb><rt>いちだい</rt></ruby>。
+- word: 首都
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+- word: 工事
+  descriptions:
+  - <ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。
+- word: 知事
+  descriptions:
+  - <ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011400201000/k10011400201000.html
+web_title_with_ruby: <ruby>インドネシア<rt>いんどねしあ</rt></ruby><ruby>初<rt>はつ</rt></ruby>の<ruby>地下鉄<rt>ちかてつ</rt></ruby>
+  <ruby>日本製<rt>にほんせい</rt></ruby>の<ruby>車両<rt>しゃりょう</rt></ruby>を<ruby>初公開<rt>はつこうかい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/12/インドネシア初の地下鉄-日本製の車両を初公開
+related_news:
+- title: ニューヨークの<ruby>地下鉄<rt>ちかてつ</rt></ruby>　<ruby>川崎重工業<rt>かわさきじゅうこうぎょう</rt></ruby>に１６００<ruby>両<rt>りょう</rt></ruby>の<ruby>注文<rt>ちゅうもん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/29/ニューヨークの地下鉄-川崎重工業に1600両の注文
+- title: <ruby>地下鉄<rt>ちかてつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>音楽<rt>おんがく</rt></ruby>をかける<ruby>実験<rt>じっけん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2018/01/30/地下鉄の中で音楽をかける実験を始める
+- title: ＪＲ<ruby>東海<rt>とうかい</rt></ruby>の<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>車両<rt>しゃりょう</rt></ruby>「Ｎ７００Ｓ」ができる
+  url: https://newswebeasy.github.io/news/easy/2018/03/13/JR東海の新幹線の新しい車両N700Sができる
+...

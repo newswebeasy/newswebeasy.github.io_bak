@@ -1,0 +1,33 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011398541000
+last_modified_at: '2018-04-13T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 東京の神田神保町は本屋がたくさんあることで有名な町です。
+title: 東京の神保町　喫茶店や仕事をする部屋がある本屋ができる
+title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>神保<rt>じんぼう</rt></ruby><ruby>町<rt>ちょう</rt></ruby>　<ruby>喫茶店<rt>きっさてん</rt></ruby>や<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>部屋<rt>へや</rt></ruby>がある<ruby>本屋<rt>ほんや</rt></ruby>ができる
+outline: 東京の神田神保町は本屋がたくさんあることで有名な町です。
+outline_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>神田<rt>かんだ</rt></ruby><ruby>神保町<rt>じんぼうちょう</rt></ruby>は<ruby>本屋<rt>ほんや</rt></ruby>がたくさんあることで<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>町<rt>まち</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/11/K10011398541_1804111130_1804111131_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/13/k10011398541000.mp4
+content_with_ruby: "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>神田<rt>かんだ</rt></ruby><ruby>神保町<rt>じんぼうちょう</rt></ruby>は<ruby>本屋<rt>ほんや</rt></ruby>がたくさんあることで<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>町<rt>まち</rt></ruby>です。１１<ruby>日<rt>にち</rt></ruby>、「<ruby>神保町<rt>じんぼうちょう</rt></ruby>ブックセンター」という<ruby>新<rt>あたら</rt></ruby>しい<ruby>本屋<rt>ほんや</rt></ruby>ができました。</p>\n\
+  <p>ここには<ruby>日本<rt>にっぽん</rt></ruby>や<ruby>世界<rt>せかい</rt></ruby>の<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>本<rt>ほん</rt></ruby>などが９０００<ruby>冊<rt>さつ</rt></ruby>ぐらい<ruby>並<rt>なら</rt></ruby>んでいますが、<ruby>本<rt>ほん</rt></ruby>を<ruby>売<rt>う</rt></ruby>るだけではありません。<ruby>喫茶店<rt>きっさてん</rt></ruby>もあります。いろいろな<ruby>人<rt>ひと</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まったり、<ruby>仕事<rt>しごと</rt></ruby>をしたりする<ruby>場所<rt>ばしょ</rt></ruby>もあって、<ruby>本<rt>ほん</rt></ruby>を<ruby>書<rt>か</rt></ruby>いた<ruby>人<rt>ひと</rt></ruby>などを<ruby>呼<rt>よ</rt></ruby>んで<span\
+  \ style=\"color: blue;\">イベント</span>もします。<ruby>別<rt>べつ</rt></ruby>の<ruby>階<rt>かい</rt></ruby>には<ruby>小<rt>ちい</rt></ruby>さな<ruby>部屋<rt>へや</rt></ruby>もあって、<ruby>借<rt>か</rt></ruby>りて<ruby>事務所<rt>じむしょ</rt></ruby>のように<ruby>使<rt>つか</rt></ruby>うことができます。</p>\n\
+  <p><ruby>神保町<rt>じんぼうちょう</rt></ruby>ブックセンターを<ruby>開<rt>ひら</rt></ruby>いた<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>社長<rt>しゃちょう</rt></ruby>は「この<ruby>町<rt>まち</rt></ruby>には<ruby>本<rt>ほん</rt></ruby>や<ruby>音楽<rt>おんがく</rt></ruby>やカレーの<ruby>店<rt>みせ</rt></ruby>などがあって、<ruby>文化<rt>ぶんか</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まっています。<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>だけではなくて、<ruby>外国人<rt>がいこくじん</rt></ruby>も<ruby>楽<rt>たの</rt></ruby>しんでほしいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011398541000/k10011398541000.html
+web_title_with_ruby: <ruby>本<rt>ほん</rt></ruby>の<ruby>街<rt>まち</rt></ruby>・<ruby>神田<rt>かんだ</rt></ruby>に<ruby>新<rt>しん</rt></ruby><ruby>スタイル<rt>すたいる</rt></ruby>の<ruby>書店<rt>しょてん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/11/本の街神田に新スタイルの書店
+related_news:
+- title: <ruby>村上春樹<rt>むらかみはるき</rt></ruby>さんの<ruby>小説<rt>しょうせつ</rt></ruby>「<ruby>騎士団長殺<rt>きしだんちょうごろ</rt></ruby>し」を<ruby>中国<rt>ちゅうごく</rt></ruby>で<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2018/03/13/村上春樹さんの小説騎士団長殺しを中国で売り始める
+- title: <ruby>作家<rt>さっか</rt></ruby>の<ruby>角野<rt>かどの</rt></ruby><ruby>栄子<rt>えいこ</rt></ruby>さんが「<ruby>国際<rt>こくさい</rt></ruby>アンデルセン<ruby>賞<rt>しょう</rt></ruby>」に<ruby>決<rt>き</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/03/28/作家の角野栄子さんが国際アンデルセン賞に決まる
+...

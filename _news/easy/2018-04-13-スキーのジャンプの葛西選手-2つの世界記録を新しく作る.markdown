@@ -1,0 +1,83 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011400981000
+last_modified_at: '2018-04-13T16:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: ピョンチャンオリンピックに出たスキーのジャンプの葛西紀明選手が、新しく作った２つのギネス世界記録の証書をもらいました。
+title: スキーのジャンプの葛西選手　２つの世界記録を新しく作る
+title_with_ruby: スキーのジャンプの<ruby>葛西<rt>かさい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>　２つの<ruby>世界記録<rt>せかいきろく</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しく<ruby>作<rt>つく</rt></ruby>る
+outline: ピョンチャンオリンピックに出たスキーのジャンプの葛西紀明選手が、新しく作った２つのギネス世界記録の証書をもらいました。
+outline_with_ruby: ピョンチャンオリンピックに<ruby>出<rt>で</rt></ruby>たスキーのジャンプの<ruby>葛西<rt>かさい</rt></ruby><ruby>紀明<rt>のりあき</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が、<ruby>新<rt>あたら</rt></ruby>しく<ruby>作<rt>つく</rt></ruby>った２つのギネス<ruby>世界記録<rt>せかいきろく</rt></ruby>の<ruby>証書<rt>しょうしょ</rt></ruby>をもらいました。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/12/K10011400981_1804122318_1804122319_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/13/k10011400981000.mp4
+content_with_ruby: "<p>ピョンチャンオリンピックに<ruby>出<rt>で</rt></ruby>た<span style=\"color:\
+  \ blue;\">スキー</span>の<span style=\"color: blue;\">ジャンプ</span>の<ruby>葛西<rt>かさい</rt></ruby><ruby>紀明<rt>のりあき</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が、<ruby>新<rt>あたら</rt></ruby>しく<ruby>作<rt>つく</rt></ruby>った２つのギネス<span\
+  \ style=\"color: blue;\"><ruby>世界記録<rt>せかいきろく</rt></ruby></span>の<span style=\"\
+  color: blue;\"><ruby>証書<rt>しょうしょ</rt></ruby></span>をもらいました。</p>\n<p><ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>世界記録<rt>せかいきろく</rt></ruby></span>は、<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>い８<ruby>回<rt>かい</rt></ruby><ruby>冬<rt>ふゆ</rt></ruby>の<span\
+  \ style=\"color: blue;\">オリンピック</span>に<ruby>出<rt>で</rt></ruby>たことと、<span style=\"\
+  color: blue;\">ワールドカップ</span>に５４３<ruby>回<rt>かい</rt></ruby><ruby>出<rt>で</rt></ruby>たことです。どちらも、<ruby>今<rt>いま</rt></ruby>までの<span\
+  \ style=\"color: blue;\"><ruby>世界記録<rt>せかいきろく</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>っていたのは<ruby>葛西<rt>かさい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>です。</p>\n<p><ruby>葛西<rt>かさい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、このほかに「<ruby>冬<rt>ふゆ</rt></ruby>の<span\
+  \ style=\"color: blue;\">オリンピック</span>で<span style=\"color: blue;\">メダル</span>を<ruby>取<rt>と</rt></ruby>ったときの<span\
+  \ style=\"color: blue;\"><ruby>年齢<rt>ねんれい</rt></ruby></span>がいちばん<ruby>上<rt>うえ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>」など３つの<span style=\"\
+  color: blue;\"><ruby>世界記録<rt>せかいきろく</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>っています。</p>\n\
+  <p><ruby>葛西<rt>かさい</rt></ruby><span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は「もうすぐ４６<ruby>歳<rt>さい</rt></ruby>になりますが、４<ruby>年<rt>ねん</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>後<rt>ご</rt></ruby></span>、<ruby>北京<rt>ぺきん</rt></ruby>で９<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>の<span\
+  \ style=\"color: blue;\">オリンピック</span>に<ruby>出<rt>で</rt></ruby>たいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: スキー
+  descriptions:
+  - くつに<ruby><rb>取</rb><rt>と</rt></ruby>りつけて、<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>板</rb><rt>いた</rt></ruby>。
+  - 「<span class="dic_sansyogogi">1)</span>」を<ruby><rb>使</rb><rt>つか</rt></ruby>って<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。
+- word: ジャンプ
+  descriptions:
+  - とび<ruby><rb>上</rb><rt>あ</rt></ruby>がること。
+  - スキーや<ruby><rb>陸上競技</rb><rt>りくじょうきょうぎ</rt></ruby>で、とんだ<ruby><rb>距離</rb><rt>きょり</rt></ruby>や<ruby><rb>高</rb><rt>たか</rt></ruby>さをきそう<ruby><rb>種目</rb><rt>しゅもく</rt></ruby>。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 世界記録
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばんすぐれた<ruby><rb>記録</rb><rt>きろく</rt></ruby>。
+- word: 証書
+  descriptions:
+  - あることを<ruby><rb>証明</rb><rt>しょうめい</rt></ruby>するための<ruby><rb>書類</rb><rt>しょるい</rt></ruby>。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: ワールドカップ
+  descriptions:
+  - スポーツ<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>の<ruby><rb>世界選手権大会</rb><rt>せかいせんしゅけんたいかい</rt></ruby>の<ruby><rb>優勝者</rb><rt>ゆうしょうしゃ</rt></ruby>にあたえられるカップ。また、そのカップを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>W杯</rb><rt>ダブリューはい</rt></ruby>。
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+- word: 年齢
+  descriptions:
+  - <ruby><rb>生</rb><rt>う</rt></ruby>まれてから<ruby><rb>今</rb><rt>いま</rt></ruby>までの<ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>数</rb><rt>かず</rt></ruby>。とし。
+- word: 後
+  descriptions:
+  - うしろ。
+  - のち。あと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011400981000/k10011400981000.html
+web_title_with_ruby: <ruby>スキー<rt>すきー</rt></ruby><ruby>ジャンプ<rt>じゃんぷ</rt></ruby> <ruby>葛西<rt>かさい</rt></ruby>
+  ２つの<ruby>ギネス<rt>ぎねす</rt></ruby><ruby>世界<rt>せかい</rt></ruby><ruby>記録<rt>きろく</rt></ruby><ruby>更新<rt>こうしん</rt></ruby>で<ruby>認定<rt>にんてい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/12/スキージャンプ-葛西-2つのギネス世界記録更新で認定
+related_news:
+- title: ジャンプの<ruby>葛西<rt>かさい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>「オリンピックで<ruby>金<rt>きん</rt></ruby>メダルをとりたい」
+  url: https://newswebeasy.github.io/news/easy/2018/02/06/ジャンプの葛西選手オリンピックで金メダルをとりたい
+- title: <ruby>韓国<rt>かんこく</rt></ruby>でピョンチャンオリンピックが<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/02/09/韓国でピョンチャンオリンピックが始まる
+- title: サッカー　５０<ruby>歳<rt>さい</rt></ruby>で<ruby>点<rt>てん</rt></ruby>を<ruby>入<rt>い</rt></ruby>れた<ruby>三浦<rt>みうら</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がギネス<ruby>世界記録<rt>せかいきろく</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/02/19/サッカー-50歳で点を入れた三浦選手がギネス世界記録
+- title: ピョンチャンオリンピックが<ruby>終<rt>お</rt></ruby>わる　<ruby>日本<rt>にっぽん</rt></ruby>のメダルは１３<ruby>個<rt>こ</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/02/26/ピョンチャンオリンピックが終わる-日本のメダルは13個
+- title: スピードスケート１５００ｍ　<ruby>高木<rt>たかぎ</rt></ruby><ruby>美帆<rt>みほ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>銀<rt>ぎん</rt></ruby>メダル
+  url: https://newswebeasy.github.io/news/easy/2018/02/13/スピードスケート1500m-高木美帆選手が銀メダル
+...
