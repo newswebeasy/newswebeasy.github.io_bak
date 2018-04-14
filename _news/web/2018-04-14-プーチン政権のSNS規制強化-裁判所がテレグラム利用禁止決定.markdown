@@ -1,0 +1,77 @@
+---
+layout: web_news
+categories: web
+newsid: k10011402801000
+title: プーチン政権のＳＮＳ規制強化 裁判所がテレグラム利用禁止決定
+title_with_ruby: プーチン<ruby>政権<rt data-ruby-level="6">せいけん</rt></ruby>のＳＮＳ<ruby>規制<rt
+  data-ruby-level="5">きせい</rt></ruby><ruby>強化<rt data-ruby-level="3">きょうか</rt></ruby>
+  <ruby>裁判所<rt data-ruby-level="6">さいばんしょ</rt></ruby>がテレグラム<ruby>利用<rt data-ruby-level="4">りよう</rt></ruby><ruby>禁止<rt
+  data-ruby-level="5">きんし</rt></ruby><ruby>決定<rt data-ruby-level="3">けってい</rt></ruby>
+last_modified_at: '2018-04-14T07:16:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>04<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>14<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 07<ruby>時<rt data-ruby-level="2">じ</rt></ruby>16<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ロシアの裁判所は１３日、メッセージの機密性の高さから当局の監視を受けにくいとされるＳＮＳの「テレグラム」について利用を禁止する決定を出し、プーチン政権によるＳＮＳへの規制が一段と強まっています。
+summary: ロシアの<ruby>裁判所<rt data-ruby-level="6">さいばんしょ</rt></ruby>は１３<ruby>日<rt data-ruby-level="1">にち</rt></ruby>、メッセージの<ruby>機密性<rt
+  data-ruby-level="6">きみつせい</rt></ruby>の<ruby>高<rt data-ruby-level="2">たか</rt></ruby>さから<ruby>当局<rt
+  data-ruby-level="3">とうきょく</rt></ruby>の<ruby>監視<rt data-ruby-level="7">かんし</rt></ruby>を<ruby>受<rt
+  data-ruby-level="3">う</rt></ruby>けにくいとされるＳＮＳの「テレグラム」について<ruby>利用<rt data-ruby-level="4">りよう</rt></ruby>を<ruby>禁止<rt
+  data-ruby-level="5">きんし</rt></ruby>する<ruby>決定<rt data-ruby-level="3">けってい</rt></ruby>を<ruby>出<rt
+  data-ruby-level="1">だ</rt></ruby>し、プーチン<ruby>政権<rt data-ruby-level="6">せいけん</rt></ruby>によるＳＮＳへの<ruby>規制<rt
+  data-ruby-level="5">きせい</rt></ruby>が<ruby>一段<rt data-ruby-level="6">いちだん</rt></ruby>と<ruby>強<rt
+  data-ruby-level="2">つよ</rt></ruby>まっています。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/14/K10011402801_1804140722_1804140817_01_02.jpg
+more: ロシアの<ruby>首都<rt data-ruby-level="3">しゅと</rt></ruby>モスクワにある<ruby>裁判所<rt data-ruby-level="6">さいばんしょ</rt></ruby>は１３<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>、ＳＮＳの「テレグラム」について、<ruby>通信<rt data-ruby-level="4">つうしん</rt></ruby>やマスコミを<ruby>監督<rt
+  data-ruby-level="7">かんとく</rt></ruby>する<ruby>政府<rt data-ruby-level="5">せいふ</rt></ruby><ruby>機関<rt
+  data-ruby-level="4">きかん</rt></ruby>が、<ruby>接続<rt data-ruby-level="5">せつぞく</rt></ruby>を<ruby>遮断<rt
+  data-ruby-level="7">しゃだん</rt></ruby>して<ruby>利用<rt data-ruby-level="4">りよう</rt></ruby>を<ruby>禁止<rt
+  data-ruby-level="5">きんし</rt></ruby>する<ruby>措置<rt data-ruby-level="7">そち</rt></ruby>をとることを<ruby>認<rt
+  data-ruby-level="6">みと</rt></ruby>める<ruby>決定<rt data-ruby-level="3">けってい</rt></ruby>を<ruby>出<rt
+  data-ruby-level="1">だ</rt></ruby>しました。<br /><br />テレグラムは、メッセージの<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>が<ruby>暗号化<rt
+  data-ruby-level="3">あんごうか</rt></ruby>されるなど<ruby>機密性<rt data-ruby-level="6">きみつせい</rt></ruby>の<ruby>高<rt
+  data-ruby-level="2">たか</rt></ruby>さから<ruby>当局<rt data-ruby-level="3">とうきょく</rt></ruby>の<ruby>監視<rt
+  data-ruby-level="7">かんし</rt></ruby>を<ruby>受<rt data-ruby-level="3">う</rt></ruby>けにくいとされロシア<ruby>国内<rt
+  data-ruby-level="2">こくない</rt></ruby>に１０００<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>の<ruby>利用者<rt
+  data-ruby-level="4">りようしゃ</rt></ruby>がいますが、<ruby>決定<rt data-ruby-level="3">けってい</rt></ruby>では、テレグラム<ruby>側<rt
+  data-ruby-level="4">がわ</rt></ruby>がメッセージを<ruby>解読<rt data-ruby-level="5">かいどく</rt></ruby>するための<ruby>技術<rt
+  data-ruby-level="5">ぎじゅつ</rt></ruby>を<ruby>政府側<rt data-ruby-level="5">せいふがわ</rt></ruby>に<ruby>提供<rt
+  data-ruby-level="6">ていきょう</rt></ruby>しない<ruby>限<rt data-ruby-level="5">かぎ</rt></ruby>り、<ruby>禁止<rt
+  data-ruby-level="5">きんし</rt></ruby><ruby>措置<rt data-ruby-level="7">そち</rt></ruby>を<ruby>続<rt
+  data-ruby-level="4">つづ</rt></ruby>けるとしています。<br /><br />テレグラムの<ruby>開発者<rt data-ruby-level="3">かいはつしゃ</rt></ruby>で<ruby>ロシア<rt
+  data-ruby-level="1">ろしあ</rt></ruby><ruby>人<rt data-ruby-level="1">じん</rt></ruby><ruby>実業家<rt
+  data-ruby-level="3">じつぎょうか</rt></ruby>のドゥーロフ<ruby>氏<rt data-ruby-level="4">し</rt></ruby>は、<ruby>今回<rt
+  data-ruby-level="2">こんかい</rt></ruby>の<ruby>決定<rt data-ruby-level="3">けってい</rt></ruby>を<ruby>批判<rt
+  data-ruby-level="6">ひはん</rt></ruby>したうえで「<ruby>規制<rt data-ruby-level="5">きせい</rt></ruby>をかいくぐる<ruby>方法<rt
+  data-ruby-level="4">ほうほう</rt></ruby>を<ruby>用<rt data-ruby-level="2">もち</rt></ruby>いて<ruby>今後<rt
+  data-ruby-level="2">こんご</rt></ruby>も<ruby>利用<rt data-ruby-level="4">りよう</rt></ruby>できるようにする」と<ruby>対抗<rt
+  data-ruby-level="7">たいこう</rt></ruby>する<ruby>姿勢<rt data-ruby-level="6">しせい</rt></ruby>を<ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>せました。<br /><br />ロシア<ruby>政府<rt data-ruby-level="5">せいふ</rt></ruby>は、ＳＮＳの<ruby>事業者<rt
+  data-ruby-level="3">じぎょうしゃ</rt></ruby>に<ruby>対<rt data-ruby-level="3">たい</rt></ruby>して<ruby>利用者<rt
+  data-ruby-level="4">りようしゃ</rt></ruby>の<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>や<ruby>技術<rt
+  data-ruby-level="5">ぎじゅつ</rt></ruby>の<ruby>提供<rt data-ruby-level="6">ていきょう</rt></ruby>を<ruby>求<rt
+  data-ruby-level="4">もと</rt></ruby>めるのはテロ<ruby>対策<rt data-ruby-level="6">たいさく</rt></ruby>の<ruby>一環<rt
+  data-ruby-level="7">いっかん</rt></ruby>だとしていますが、ロシアではＬＩＮＥなども<ruby>使<rt data-ruby-level="3">つか</rt></ruby>えなくなるなか、プーチン<ruby>政権<rt
+  data-ruby-level="6">せいけん</rt></ruby>によるＳＮＳへの<ruby>規制<rt data-ruby-level="5">きせい</rt></ruby>が<ruby>一段<rt
+  data-ruby-level="6">いちだん</rt></ruby>と<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>まっています。
+source_url: https://www3.nhk.or.jp/news/html/20180414/k10011402801000.html
+related_news:
+- title: ロシア<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby><ruby>選挙<rt data-ruby-level="4">せんきょ</rt></ruby>きょう<ruby>投票<rt
+    data-ruby-level="4">とうひょう</rt></ruby> プーチン<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby>４<ruby>期目<rt
+    data-ruby-level="3">きめ</rt></ruby><ruby>確実<rt data-ruby-level="5">かくじつ</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/03/18/ロシア大統領選挙きょう投票-プーチン大統領4期目確実
+- title: ロシア<ruby>大統領選<rt data-ruby-level="5">だいとうりょうせん</rt></ruby> プーチン<ruby>氏<rt
+    data-ruby-level="4">し</rt></ruby><ruby>圧勝<rt data-ruby-level="5">あっしょう</rt></ruby>の<ruby>勢<rt
+    data-ruby-level="5">いきお</rt></ruby>い <ruby>通算<rt data-ruby-level="2">つうさん</rt></ruby>４<ruby>期目<rt
+    data-ruby-level="3">きめ</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/03/19/ロシア大統領選-プーチン氏圧勝の勢い-通算4期目
+- title: <ruby>元<rt data-ruby-level="2">もと</rt></ruby>スパイ<ruby>襲撃<rt data-ruby-level="7">しゅうげき</rt></ruby>
+    <ruby>英首相<rt data-ruby-level="7">えいしゅしょう</rt></ruby>「ロシアに<ruby>責任<rt data-ruby-level="5">せきにん</rt></ruby>ある<ruby>疑<rt
+    data-ruby-level="6">うたが</rt></ruby>い <ruby>極<rt data-ruby-level="7">きわ</rt></ruby>めて<ruby>高<rt
+    data-ruby-level="2">たか</rt></ruby>い」
+  url: https://newswebeasy.github.io/news/web/2018/03/13/元スパイ襲撃-英首相ロシアに責任ある疑い-極めて高い
+- title: モスクワ 71<ruby>人<rt data-ruby-level="1">にん</rt></ruby><ruby>乗<rt data-ruby-level="3">の</rt></ruby>った<ruby>国内線<rt
+    data-ruby-level="2">こくないせん</rt></ruby><ruby>旅客機<rt data-ruby-level="7">りょかっき</rt></ruby><ruby>墜落<rt
+    data-ruby-level="7">ついらく</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/02/11/モスクワ-71人乗った国内線旅客機墜落
+...
