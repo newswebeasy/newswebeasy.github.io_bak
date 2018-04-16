@@ -1,0 +1,64 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011405301000
+last_modified_at: '2018-04-16T17:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: １４日、愛知県西尾市で道を歩いて渡っていた８５歳の女性が、車にはねられて亡くなりました。
+title: 「ポケモンＧＯ」をしながら車を運転して事故　１人亡くなる
+title_with_ruby: 「ポケモンＧＯ」をしながら<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>して<ruby>事故<rt>じこ</rt></ruby>　<ruby>１人<rt>ひとり</rt></ruby><ruby>亡<rt>な</rt></ruby>くなる
+outline: １４日、愛知県西尾市で道を歩いて渡っていた８５歳の女性が、車にはねられて亡くなりました。
+outline_with_ruby: <ruby>１４日<rt>じゅうよっか</rt></ruby>、<ruby>愛知県<rt>あいちけん</rt></ruby><ruby>西尾市<rt>にしおし</rt></ruby>で<ruby>道<rt>みち</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>いて<ruby>渡<rt>わた</rt></ruby>っていた８５<ruby>歳<rt>さい</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>が、<ruby>車<rt>くるま</rt></ruby>にはねられて<ruby>亡<rt>な</rt></ruby>くなりました。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/16/K10011405301_1804161007_1804161008_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/16/k10011405301000.mp4
+content_with_ruby: "<p><ruby>１４日<rt>じゅうよっか</rt></ruby>、<ruby>愛知県<rt>あいちけん</rt></ruby><ruby>西尾市<rt>にしおし</rt></ruby>で<ruby>道<rt>みち</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>いて<ruby>渡<rt>わた</rt></ruby>っていた８５<ruby>歳<rt>さい</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>が、<ruby>車<rt>くるま</rt></ruby>に<span\
+  \ style=\"color: blue;\">はね</span>られて<ruby>亡<rt>な</rt></ruby>くなりました。<ruby>警察<rt>けいさつ</rt></ruby>によると、<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>していた４３<ruby>歳<rt>さい</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>は「スマートフォンで『ポケモンＧＯ』という<span\
+  \ style=\"color: blue;\">ゲーム</span>をしていて、<span style=\"color: blue;\"><ruby>画面<rt>がめん</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>ながら<ruby>運転<rt>うんてん</rt></ruby>していた」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p>２<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby><ruby>愛知県<rt>あいちけん</rt></ruby>で「ポケモンＧＯ」をしながら<ruby>運転<rt>うんてん</rt></ruby>していた<ruby>男<rt>おとこ</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>に<span\
+  \ style=\"color: blue;\">はね</span>られて、<ruby>子<rt>こ</rt></ruby>どもが<ruby>亡<rt>な</rt></ruby>くなる<ruby>事故<rt>じこ</rt></ruby>がありました。この<ruby>事故<rt>じこ</rt></ruby>のあと「ポケモンＧＯ」を<ruby>作<rt>つく</rt></ruby>っている<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>車<rt>くるま</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby>などで<span\
+  \ style=\"color: blue;\">スピード</span>が<ruby>出<rt>で</rt></ruby>ているときには、<ruby>遊<rt>あそ</rt></ruby>ぶことができないように<span\
+  \ style=\"color: blue;\">ゲーム</span>を<ruby>変<rt>か</rt></ruby>えました。しかし、<ruby>１４日<rt>じゅうよっか</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>のとき<ruby>女性<rt>じょせい</rt></ruby>が<ruby>見<rt>み</rt></ruby>ていた「ぼうけんノート」という<span\
+  \ style=\"color: blue;\"><ruby>画面<rt>がめん</rt></ruby></span>は、<ruby>運転<rt>うんてん</rt></ruby>しているときも<ruby>見<rt>み</rt></ruby>ることができます。</p>\n\
+  <p>２<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>で<ruby>息子<rt>むすこ</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなった<ruby>人<rt>ひと</rt></ruby>は「<ruby>運転中<rt>うんてんちゅう</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>絶対<rt>ぜったい</rt></ruby></span>に<span style=\"color:\
+  \ blue;\">ゲーム</span>ができないように、<ruby>変<rt>か</rt></ruby>えなければなりません」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 撥ねる
+  descriptions:
+  - はじきとばす。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>除</rb><rt>のぞ</rt></ruby>く。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>にわたす<ruby><rb>分</rb><rt>ぶん</rt></ruby>の<ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>を<ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - <ruby><rb>字</rb><rt>じ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>くとき、<ruby><rb>線</rb><rt>せん</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりをはらい<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+- word: ゲーム
+  descriptions:
+  - <ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>遊</rb><rt>あそ</rt></ruby>び。
+  - <ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 画面
+  descriptions:
+  - <ruby><rb>映画</rb><rt>えいが</rt></ruby>やテレビが<ruby><rb>映</rb><rt>うつ</rt></ruby>っている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+- word: スピード
+  descriptions:
+  - <ruby><rb>速</rb><rt>はや</rt></ruby>さ。<ruby><rb>速力</rb><rt>そくりょく</rt></ruby>。
+- word: 絶対
+  descriptions:
+  - ほかに<ruby><rb>比</rb><rt>くら</rt></ruby>べるものがないこと。
+  - まちがいなく。<ruby><rb>必</rb><rt>かなら</rt></ruby>ず。
+  - けっして。とうてい。
+source_url: http://www3.nhk.or.jp/news/easy/k10011405301000/k10011405301000.html
+web_title_with_ruby: 「<ruby>ポケモン<rt>ぽけもん</rt></ruby>ＧＯ」しながら<ruby>運転<rt>うんてん</rt></ruby>か
+  85<ruby>歳<rt>さい</rt></ruby>はねられ<ruby>死亡<rt>しぼう</rt></ruby> <ruby>愛知<rt>あいち</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/16/ポケモンGOしながら運転か-85歳はねられ死亡-愛知
+related_news:
+- title: アメリカ　<ruby>自動<rt>じどう</rt></ruby>で<ruby>運転<rt>うんてん</rt></ruby>する<ruby>車<rt>くるま</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>で<ruby>１人<rt>ひとり</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/03/20/アメリカ-自動で運転する車の事故で1人が亡くなる
+- title: 「２０３５<ruby>年<rt>ねん</rt></ruby>には<ruby>新<rt>あたら</rt></ruby>しい<ruby>車<rt>くるま</rt></ruby>の２３％が<ruby>自動<rt>じどう</rt></ruby><ruby>運転<rt>うんてん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>になる」
+  url: https://newswebeasy.github.io/news/easy/2018/01/16/2035年には新しい車の23が自動運転の車になる
+- title: <ruby>去年<rt>きょねん</rt></ruby><ruby>車<rt>くるま</rt></ruby>の<ruby>免許<rt>めんきょ</rt></ruby>を<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>返<rt>かえ</rt></ruby>した７５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は２５<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/23/去年車の免許を警察に返した75歳以上の人は25万人
+- title: <ruby>花粉症<rt>かふんしょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>運転<rt>うんてん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>のくしゃみに<ruby>気<rt>き</rt></ruby>をつけて
+  url: https://newswebeasy.github.io/news/easy/2018/03/05/花粉症の人は運転中のくしゃみに気をつけて
+- title: アメリカ　<ruby>大<rt>おお</rt></ruby>きな<ruby>歩道橋<rt>ほどうきょう</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちて４<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/03/16/アメリカ-大きな歩道橋が車に落ちて4人が亡くなる
+...
