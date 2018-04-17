@@ -1,0 +1,134 @@
+---
+layout: web_news
+categories: web
+newsid: k10011401761000
+title: 日本の総人口 ７年連続減少 少子高齢化も一層進む
+title_with_ruby: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>総人口<rt data-ruby-level="5">そうじんこう</rt></ruby>
+  ７<ruby>年<rt data-ruby-level="1">ねん</rt></ruby><ruby>連続<rt data-ruby-level="4">れんぞく</rt></ruby><ruby>減少<rt
+  data-ruby-level="5">げんしょう</rt></ruby> <ruby>少子<rt data-ruby-level="2">しょうし</rt></ruby><ruby>高齢化<rt
+  data-ruby-level="7">こうれいか</rt></ruby>も<ruby>一層<rt data-ruby-level="6">いっそう</rt></ruby><ruby>進<rt
+  data-ruby-level="3">すす</rt></ruby>む
+last_modified_at: '2018-04-13T14:34:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>04<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>13<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 14<ruby>時<rt data-ruby-level="2">じ</rt></ruby>34<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 総務省が発表した人口推計によりますと、去年１０月１日現在の日本の総人口は、１億２６７０万６０００人で、前の年よりも２２万７０００人減って、７年連続の減少となりました。また、総人口に占める６５歳以上の割合が過去最高になった一方、１５歳未満の割合は過去最低になり、少子高齢化が一層進んだ形になりました。
+summary: <ruby>総務省<rt data-ruby-level="5">そうむしょう</rt></ruby>が<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>した<ruby>人口<rt
+  data-ruby-level="1">じんこう</rt></ruby><ruby>推計<rt data-ruby-level="6">すいけい</rt></ruby>によりますと、<ruby>去年<rt
+  data-ruby-level="3">きょねん</rt></ruby>１０<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>１<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby><ruby>現在<rt data-ruby-level="5">げんざい</rt></ruby>の<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>の<ruby>総人口<rt data-ruby-level="5">そうじんこう</rt></ruby>は、１<ruby>億<rt
+  data-ruby-level="4">おく</rt></ruby>２６７０<ruby>万<rt data-ruby-level="2">まん</rt></ruby>６０００<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>で、<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>の<ruby>年<rt
+  data-ruby-level="2">とし</rt></ruby>よりも２２<ruby>万<rt data-ruby-level="2">まん</rt></ruby>７０００<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby><ruby>減<rt data-ruby-level="5">へ</rt></ruby>って、７<ruby>年<rt
+  data-ruby-level="1">ねん</rt></ruby><ruby>連続<rt data-ruby-level="4">れんぞく</rt></ruby>の<ruby>減少<rt
+  data-ruby-level="5">げんしょう</rt></ruby>となりました。また、<ruby>総人口<rt data-ruby-level="5">そうじんこう</rt></ruby>に<ruby>占<rt
+  data-ruby-level="7">し</rt></ruby>める６５<ruby>歳以上<rt data-ruby-level="7">さいいじょう</rt></ruby>の<ruby>割合<rt
+  data-ruby-level="6">わりあい</rt></ruby>が<ruby>過去<rt data-ruby-level="5">かこ</rt></ruby><ruby>最高<rt
+  data-ruby-level="4">さいこう</rt></ruby>になった<ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>、１５<ruby>歳未満<rt
+  data-ruby-level="7">さいみまん</rt></ruby>の<ruby>割合<rt data-ruby-level="6">わりあい</rt></ruby>は<ruby>過去<rt
+  data-ruby-level="5">かこ</rt></ruby><ruby>最低<rt data-ruby-level="4">さいてい</rt></ruby>になり、<ruby>少子<rt
+  data-ruby-level="2">しょうし</rt></ruby><ruby>高齢化<rt data-ruby-level="7">こうれいか</rt></ruby>が<ruby>一層<rt
+  data-ruby-level="6">いっそう</rt></ruby><ruby>進<rt data-ruby-level="3">すす</rt></ruby>んだ<ruby>形<rt
+  data-ruby-level="2">かたち</rt></ruby>になりました。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/13/K10011401761_1804131449_1804131449_01_02.jpg
+more: <ruby>総務省<rt data-ruby-level="5">そうむしょう</rt></ruby>は１３<ruby>日<rt data-ruby-level="1">にち</rt></ruby>、<ruby>去年<rt
+  data-ruby-level="3">きょねん</rt></ruby>１０<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>１<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby><ruby>現在<rt data-ruby-level="5">げんざい</rt></ruby>の<ruby>人口<rt
+  data-ruby-level="1">じんこう</rt></ruby><ruby>推計<rt data-ruby-level="6">すいけい</rt></ruby>を<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>しました。<br /><br />それによりますと、<ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby>を<ruby>含<rt
+  data-ruby-level="7">ふく</rt></ruby>めた<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>総人口<rt
+  data-ruby-level="5">そうじんこう</rt></ruby>は<ruby>男性<rt data-ruby-level="5">だんせい</rt></ruby>が６１６５<ruby>万<rt
+  data-ruby-level="2">まん</rt></ruby>５０００<ruby>人<rt data-ruby-level="1">にん</rt></ruby>、<ruby>女性<rt
+  data-ruby-level="5">じょせい</rt></ruby>が６５０５<ruby>万<rt data-ruby-level="2">まん</rt></ruby>１０００<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>の、<ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせて１<ruby>億<rt
+  data-ruby-level="4">おく</rt></ruby>２６７０<ruby>万<rt data-ruby-level="2">まん</rt></ruby>６０００<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>で、<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>の<ruby>年<rt
+  data-ruby-level="2">とし</rt></ruby>よりも２２<ruby>万<rt data-ruby-level="2">まん</rt></ruby>７０００<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby><ruby>減<rt data-ruby-level="5">へ</rt></ruby>りました。<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>の<ruby>総人口<rt data-ruby-level="5">そうじんこう</rt></ruby>は、<ruby>平成<rt
+  data-ruby-level="4">へいせい</rt></ruby>２０<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>をピークに、<ruby>平成<rt
+  data-ruby-level="4">へいせい</rt></ruby>２３<ruby>年以降<rt data-ruby-level="6">ねんいこう</rt></ruby>は<ruby>毎年<rt
+  data-ruby-level="2">まいとし</rt></ruby><ruby>減<rt data-ruby-level="5">へ</rt></ruby>っていて、これで７<ruby>年<rt
+  data-ruby-level="1">ねん</rt></ruby><ruby>連続<rt data-ruby-level="4">れんぞく</rt></ruby>の<ruby>減少<rt
+  data-ruby-level="5">げんしょう</rt></ruby>となりました。<br /><br />このうち、<ruby>日本人<rt data-ruby-level="1">にほんじん</rt></ruby>の<ruby>人口<rt
+  data-ruby-level="1">じんこう</rt></ruby>は１<ruby>億<rt data-ruby-level="4">おく</rt></ruby>２４６４<ruby>万<rt
+  data-ruby-level="2">まん</rt></ruby>８０００<ruby>人<rt data-ruby-level="1">にん</rt></ruby>で、<ruby>前<rt
+  data-ruby-level="2">まえ</rt></ruby>の<ruby>年<rt data-ruby-level="2">とし</rt></ruby>と<ruby>比<rt
+  data-ruby-level="5">くら</rt></ruby>べて３７<ruby>万<rt data-ruby-level="2">まん</rt></ruby>２０００<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby><ruby>減<rt data-ruby-level="5">へ</rt></ruby>っていて、<ruby>減少幅<rt
+  data-ruby-level="7">げんしょうはば</rt></ruby>は７<ruby>年<rt data-ruby-level="1">ねん</rt></ruby><ruby>連続<rt
+  data-ruby-level="4">れんぞく</rt></ruby>で<ruby>拡大<rt data-ruby-level="6">かくだい</rt></ruby>し、<ruby>今<rt
+  data-ruby-level="2">いま</rt></ruby>の<ruby>算出<rt data-ruby-level="2">さんしゅつ</rt></ruby><ruby>方法<rt
+  data-ruby-level="4">ほうほう</rt></ruby>となった<ruby>昭和<rt data-ruby-level="3">しょうわ</rt></ruby>２５<ruby>年以降<rt
+  data-ruby-level="6">ねんいこう</rt></ruby>では<ruby>過去<rt data-ruby-level="5">かこ</rt></ruby><ruby>最大<rt
+  data-ruby-level="4">さいだい</rt></ruby>になりました。<br /><br /><ruby>総人口<rt data-ruby-level="5">そうじんこう</rt></ruby>を<ruby>年齢<rt
+  data-ruby-level="7">ねんれい</rt></ruby><ruby>区分<rt data-ruby-level="3">くぶん</rt></ruby><ruby>別<rt
+  data-ruby-level="4">べつ</rt></ruby>に<ruby>見<rt data-ruby-level="1">み</rt></ruby>ますと、６５<ruby>歳以上<rt
+  data-ruby-level="7">さいいじょう</rt></ruby>の<ruby>人口<rt data-ruby-level="1">じんこう</rt></ruby>は、<ruby>前<rt
+  data-ruby-level="2">まえ</rt></ruby>の<ruby>年<rt data-ruby-level="2">とし</rt></ruby>と<ruby>比<rt
+  data-ruby-level="5">くら</rt></ruby>べて５６<ruby>万<rt data-ruby-level="2">まん</rt></ruby>１０００<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby><ruby>増<rt data-ruby-level="5">ふ</rt></ruby>えて、３５１５<ruby>万<rt
+  data-ruby-level="2">まん</rt></ruby>２０００<ruby>人<rt data-ruby-level="1">にん</rt></ruby>と、<ruby>初<rt
+  data-ruby-level="4">はじ</rt></ruby>めて３５００<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>を<ruby>超<rt
+  data-ruby-level="7">こ</rt></ruby>え、<ruby>総人口<rt data-ruby-level="5">そうじんこう</rt></ruby>に<ruby>占<rt
+  data-ruby-level="7">し</rt></ruby>める<ruby>割合<rt data-ruby-level="6">わりあい</rt></ruby>も２７．７％と<ruby>過去<rt
+  data-ruby-level="5">かこ</rt></ruby><ruby>最高<rt data-ruby-level="4">さいこう</rt></ruby>になりました。<br
+  /><br /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>、１５<ruby>歳未満<rt data-ruby-level="7">さいみまん</rt></ruby>の<ruby>人口<rt
+  data-ruby-level="1">じんこう</rt></ruby>は、<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>の<ruby>年<rt
+  data-ruby-level="2">とし</rt></ruby>と<ruby>比<rt data-ruby-level="5">くら</rt></ruby>べて１８<ruby>万<rt
+  data-ruby-level="2">まん</rt></ruby>８０００<ruby>人<rt data-ruby-level="1">にん</rt></ruby><ruby>減<rt
+  data-ruby-level="5">へ</rt></ruby>って１５５９<ruby>万<rt data-ruby-level="2">まん</rt></ruby>２０００<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>で、<ruby>総人口<rt data-ruby-level="5">そうじんこう</rt></ruby>に<ruby>占<rt
+  data-ruby-level="7">し</rt></ruby>める<ruby>割合<rt data-ruby-level="6">わりあい</rt></ruby>は１２．３％と<ruby>過去<rt
+  data-ruby-level="5">かこ</rt></ruby><ruby>最低<rt data-ruby-level="4">さいてい</rt></ruby>となり、<ruby>少子<rt
+  data-ruby-level="2">しょうし</rt></ruby><ruby>高齢化<rt data-ruby-level="7">こうれいか</rt></ruby>が<ruby>一層<rt
+  data-ruby-level="6">いっそう</rt></ruby><ruby>進<rt data-ruby-level="3">すす</rt></ruby>んだ<ruby>形<rt
+  data-ruby-level="2">かたち</rt></ruby>になりました。<br /><br /><ruby>都道府県<rt data-ruby-level="4">とどうふけん</rt></ruby><ruby>別<rt
+  data-ruby-level="4">べつ</rt></ruby>の<ruby>人口<rt data-ruby-level="1">じんこう</rt></ruby>の<ruby>増減<rt
+  data-ruby-level="5">ぞうげん</rt></ruby><ruby>率<rt data-ruby-level="5">りつ</rt></ruby>を<ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>ますと、４０<ruby>道府県<rt data-ruby-level="4">どうふけん</rt></ruby>で<ruby>人口<rt
+  data-ruby-level="1">じんこう</rt></ruby>が<ruby>減<rt data-ruby-level="5">へ</rt></ruby>っていて、<ruby>最<rt
+  data-ruby-level="4">もっと</rt></ruby>も<ruby>減少率<rt data-ruby-level="5">げんしょうりつ</rt></ruby>が<ruby>高<rt
+  data-ruby-level="2">たか</rt></ruby>かったのは<ruby>秋田県<rt data-ruby-level="3">あきたけん</rt></ruby>の１．４％、<ruby>次<rt
+  data-ruby-level="3">つ</rt></ruby>いで<ruby>青森県<rt data-ruby-level="3">あおもりけん</rt></ruby>の１．１６％、<ruby>岩手県<rt
+  data-ruby-level="3">いわてけん</rt></ruby>の１．０４％などとなっています。<br /><br /><ruby>逆<rt data-ruby-level="5">ぎゃく</rt></ruby>に<ruby>増加<rt
+  data-ruby-level="5">ぞうか</rt></ruby>したのは７<ruby>都県<rt data-ruby-level="3">とけん</rt></ruby>で、<ruby>最<rt
+  data-ruby-level="4">もっと</rt></ruby>も<ruby>増加率<rt data-ruby-level="5">ぞうかりつ</rt></ruby>が<ruby>高<rt
+  data-ruby-level="2">たか</rt></ruby>かったのは、<ruby>東京都<rt data-ruby-level="3">とうきょうと</rt></ruby>の０．７３％、<ruby>次<rt
+  data-ruby-level="3">つ</rt></ruby>いで<ruby>埼玉県<rt data-ruby-level="7">さいたまけん</rt></ruby>の０．２８％、<ruby>沖縄県<rt
+  data-ruby-level="7">おきなわけん</rt></ruby>の０．２６％などとなっています。
+source_url: https://www3.nhk.or.jp/news/html/20180413/k10011401761000.html
+easy_title_with_ruby: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>人口<rt
+  data-ruby-level="1">じんこう</rt></ruby>が７<ruby>年<rt data-ruby-level="1">ねん</rt></ruby><ruby>続<rt
+  data-ruby-level="4">つづ</rt></ruby>けて<ruby>少<rt data-ruby-level="2">すく</rt></ruby>なくなる
+  お<ruby>年寄<rt data-ruby-level="5">としよ</rt></ruby>りが<ruby>増<rt data-ruby-level="5">ふ</rt></ruby>えている
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/04/17/日本の人口が7年続けて少なくなる-お年寄りが増えている
+related_news:
+- title: <ruby>全国初<rt data-ruby-level="4">ぜんこくはつ</rt></ruby> <ruby>人口<rt data-ruby-level="1">じんこう</rt></ruby><ruby>減少<rt
+    data-ruby-level="5">げんしょう</rt></ruby><ruby>対策<rt data-ruby-level="6">たいさく</rt></ruby>に<ruby>外国人<rt
+    data-ruby-level="2">がいこくじん</rt></ruby>の<ruby>移住<rt data-ruby-level="5">いじゅう</rt></ruby>を<ruby>促進<rt
+    data-ruby-level="7">そくしん</rt></ruby> <ruby>広島<rt data-ruby-level="3">ひろしま</rt></ruby>
+    <ruby>安芸高田<rt data-ruby-level="8">あきたかた</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/03/13/全国初-人口減少対策に外国人の移住を促進-広島-安芸高田
+- title: <ruby>独自<rt data-ruby-level="5">どくじ</rt></ruby><ruby>分析<rt data-ruby-level="7">ぶんせき</rt></ruby>
+    <ruby>全<rt data-ruby-level="3">ぜん</rt></ruby>1741<ruby>市区町村<rt data-ruby-level="3">しくちょうそん</rt></ruby>の75％で<ruby>外国人<rt
+    data-ruby-level="2">がいこくじん</rt></ruby><ruby>増加<rt data-ruby-level="5">ぞうか</rt></ruby>
+    <ruby>背景<rt data-ruby-level="6">はいけい</rt></ruby>は？
+  url: https://newswebeasy.github.io/news/web/2018/03/04/独自分析-全1741市区町村の75で外国人増加-背景は
+- title: <ruby>紙巻<rt data-ruby-level="6">かみま</rt></ruby>きたばこの<ruby>昨年度<rt data-ruby-level="4">さくねんど</rt></ruby><ruby>販売量<rt
+    data-ruby-level="7">はんばいりょう</rt></ruby> <ruby>過去<rt data-ruby-level="5">かこ</rt></ruby><ruby>最低<rt
+    data-ruby-level="4">さいてい</rt></ruby>を<ruby>更新<rt data-ruby-level="7">こうしん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/04/14/紙巻きたばこの昨年度販売量-過去最低を更新
+- title: あなたの<ruby>母校<rt data-ruby-level="2">ぼこう</rt></ruby>がなくなる…2050<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>～<ruby>小中学校<rt
+    data-ruby-level="1">しょうちゅうがっこう</rt></ruby>3<ruby>分<rt data-ruby-level="2">ふん</rt></ruby>の1に<ruby>大幅減<rt
+    data-ruby-level="7">おおはばげん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/01/18/あなたの母校がなくなる2050年~小中学校3分の1に大幅減
+- title: <ruby>東日本<rt data-ruby-level="2">ひがしにほん</rt></ruby><ruby>大震災<rt data-ruby-level="7">だいしんさい</rt></ruby>と<ruby>原発<rt
+    data-ruby-level="3">げんぱつ</rt></ruby><ruby>事故<rt data-ruby-level="5">じこ</rt></ruby>から7<ruby>年<rt
+    data-ruby-level="1">ねん</rt></ruby> <ruby>依然<rt data-ruby-level="7">いぜん</rt></ruby>7<ruby>万<rt
+    data-ruby-level="2">まん</rt></ruby><ruby>人以上<rt data-ruby-level="4">にんいじょう</rt></ruby>が<ruby>避難<rt
+    data-ruby-level="7">ひなん</rt></ruby><ruby>生活<rt data-ruby-level="2">せいかつ</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/03/11/東日本大震災と原発事故から7年-依然7万人以上が避難生活
+...

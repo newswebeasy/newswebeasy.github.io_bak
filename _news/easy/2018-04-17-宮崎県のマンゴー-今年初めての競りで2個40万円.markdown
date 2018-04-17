@@ -1,0 +1,50 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011405401000
+last_modified_at: '2018-04-17T17:10:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>17<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>10<ruby>分<rt>ふん</rt></ruby>
+description: 宮崎県で作っている高級なマンゴーは「太陽のタマゴ」という名前です。
+title: 宮崎県のマンゴー　今年初めての競りで２個４０万円
+title_with_ruby: <ruby>宮崎県<rt>みやざきけん</rt></ruby>のマンゴー　<ruby>今年<rt>ことし</rt></ruby><ruby>初<rt>はじ</rt></ruby>めての<ruby>競<rt>せ</rt></ruby>りで２<ruby>個<rt>こ</rt></ruby>４０<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>
+outline: 宮崎県で作っている高級なマンゴーは「太陽のタマゴ」という名前です。
+outline_with_ruby: <ruby>宮崎県<rt>みやざきけん</rt></ruby>で<ruby>作<rt>つく</rt></ruby>っている<ruby>高級<rt>こうきゅう</rt></ruby>なマンゴーは「<ruby>太陽<rt>たいよう</rt></ruby>のタマゴ」という<ruby>名前<rt>なまえ</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/16/K10011405401_1804161140_1804161145_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/17/k10011405401000.mp4
+content_with_ruby: "<p><ruby>宮崎県<rt>みやざきけん</rt></ruby>で<ruby>作<rt>つく</rt></ruby>っている<span\
+  \ style=\"color: blue;\"><ruby>高級<rt>こうきゅう</rt></ruby></span>なマンゴーは「<ruby>太陽<rt>たいよう</rt></ruby>のタマゴ」という<ruby>名前<rt>なまえ</rt></ruby>です。とても<ruby>甘<rt>あま</rt></ruby>くて、<ruby>重<rt>おも</rt></ruby>さは３５０ｇ<ruby>以上<rt>いじょう</rt></ruby>あります。</p>\n\
+  <p>１６<ruby>日<rt>にち</rt></ruby>、「<ruby>太陽<rt>たいよう</rt></ruby>のタマゴ」の<ruby>今年<rt>ことし</rt></ruby><ruby>初<rt>はじ</rt></ruby>めての<span\
+  \ style=\"color: blue;\"><ruby>競<rt>せ</rt></ruby>り</span>がありました。<ruby>宮崎市<rt>みやざきし</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>市場<rt>いちば</rt></ruby></span>では、いちばん<ruby>高<rt>たか</rt></ruby>いものは<ruby>去年<rt>きょねん</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ２<ruby>個<rt>こ</rt></ruby>で４０<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>になりました。マンゴーを<ruby>作<rt>つく</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>たちの<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>は「とても<ruby>甘<rt>あま</rt></ruby>くて、<ruby>美<rt>うつく</rt></ruby>しい<ruby>色<rt>いろ</rt></ruby>のマンゴーを、たくさんの<ruby>人<rt>ひと</rt></ruby>に<ruby>食<rt>た</rt></ruby>べてもらいたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>これから８<ruby>月<rt>がつ</rt></ruby>ごろまで、<span style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１０００ｔの「<ruby>太陽<rt>たいよう</rt></ruby>のタマゴ」が<span\
+  \ style=\"color: blue;\"><ruby>市場<rt>いちば</rt></ruby></span>に<ruby>送<rt>おく</rt></ruby>られます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 競り売り
+  descriptions:
+  - <ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。
+- word: 高級
+  descriptions:
+  - <ruby><rb>品質</rb><rt>ひんしつ</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>高</rb><rt>たか</rt></ruby>いこと。
+- word: 市場
+  descriptions:
+  - <ruby><rb>商人</rb><rt>しょうにん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などを<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>買</rb><rt>か</rt></ruby>いする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>市</rb><rt>いち</rt></ruby>。
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>などの<ruby><rb>小売店</rb><rt>こうりてん</rt></ruby>が、<ruby><rb>一</rb><rt>いっ</rt></ruby>か<ruby><rb>所</rb><rt>しょ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>っている<ruby><rb>所</rb><rt>ところ</rt></ruby>。マーケット。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+source_url: http://www3.nhk.or.jp/news/easy/k10011405401000/k10011405401000.html
+web_title_with_ruby: ２<ruby>個<rt>こ</rt></ruby>で40<ruby>万円<rt>まんえん</rt></ruby>も！ <ruby>宮崎<rt>みやざき</rt></ruby><ruby>産<rt>さん</rt></ruby><ruby>完熟<rt>かんじゅく</rt></ruby><ruby>マンゴー<rt>まんごー</rt></ruby>「<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>タマゴ<rt>たまご</rt></ruby>」<ruby>初<rt>はつ</rt></ruby><ruby>競<rt>せ</rt></ruby>り
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/16/2個で40万円も-宮崎産完熟マンゴー太陽のタマゴ初競り
+related_news:
+- title: <ruby>大阪府<rt>おおさかふ</rt></ruby>　「<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>塔<rt>とう</rt></ruby>」の<ruby>中<rt>なか</rt></ruby>を<ruby>見<rt>み</rt></ruby>ることができるようになる
+  url: https://newswebeasy.github.io/news/easy/2018/03/20/大阪府-太陽の塔の中を見ることができるようになる
+...

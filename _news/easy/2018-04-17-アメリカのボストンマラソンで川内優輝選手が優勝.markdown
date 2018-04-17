@@ -1,0 +1,76 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011406391000
+last_modified_at: '2018-04-17T17:10:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>17<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>10<ruby>分<rt>ふん</rt></ruby>
+description: アメリカのボストンで１６日、今年で１２２回目のマラソンの大会がありました。
+title: アメリカのボストンマラソンで川内優輝選手が優勝
+title_with_ruby: アメリカのボストンマラソンで<ruby>川内<rt>かわうち</rt></ruby><ruby>優輝<rt>ゆうき</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>
+outline: アメリカのボストンで１６日、今年で１２２回目のマラソンの大会がありました。
+outline_with_ruby: アメリカのボストンで１６<ruby>日<rt>にち</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>で１２２<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>のマラソンの<ruby>大会<rt>たいかい</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/17/K10011406391_1804170542_1804170543_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/17/k10011406391000.mp4
+content_with_ruby: "<p>アメリカのボストンで１６<ruby>日<rt>にち</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>で１２２<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>の<span\
+  \ style=\"color: blue;\">マラソン</span>の<span style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>がありました。<span\
+  \ style=\"color: blue;\"><ruby>男子<rt>だんし</rt></ruby></span>では<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>川内<rt>かわうち</rt></ruby><ruby>優輝<rt>ゆうき</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。<ruby>川内<rt>かわうち</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は３１<ruby>歳<rt>さい</rt></ruby>で、<ruby>埼玉県<rt>さいたまけん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>県庁<rt>けんちょう</rt></ruby></span>で<ruby>働<rt>はたら</rt></ruby>いています。</p>\n\
+  <p>１６<ruby>日<rt>にち</rt></ruby>のボストンは<ruby>風<rt>かぜ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>くて<ruby>雨<rt>あめ</rt></ruby>も<ruby>降<rt>ふ</rt></ruby>っていました。<ruby>途中<rt>とちゅう</rt></ruby>までは<ruby>去年<rt>きょねん</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>したケニアの<span style=\"\
+  color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が１<ruby>番<rt>ばん</rt></ruby>でした。<ruby>川内<rt>かわうち</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<span style=\"color:\
+  \ blue;\">レース</span>が<ruby>終<rt>お</rt></ruby>わりに<ruby>近<rt>ちか</rt></ruby>くなったころ１<ruby>番<rt>ばん</rt></ruby>になって、２<ruby>時間<rt>じかん</rt></ruby>１５<ruby>分<rt>ふん</rt></ruby>５８<span\
+  \ style=\"color: blue;\"><ruby>秒<rt>びょう</rt></ruby></span>で<span style=\"color:\
+  \ blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。</p>\n<p><ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は１９８７<ruby>年<rt>ねん</rt></ruby>にボストンマラソンで<span\
+  \ style=\"color: blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しましたが、そのあとは<span style=\"\
+  color: blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>していませんでした。</p>\n<p></p>\n<p></p>"
+words:
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 優勝
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>などで、<ruby><rb>一位</rb><rt>いちい</rt></ruby>で<ruby><rb>勝</rb><rt>か</rt></ruby>つこと。
+- word: マラソン
+  descriptions:
+  - ４２．１９５キロメートルを<ruby><rb>走</rb><rt>はし</rt></ruby>る<ruby><rb>陸上競技</rb><rt>りくじょうきょうぎ</rt></ruby>。<ruby><rb>昔</rb><rt>むかし</rt></ruby>、ギリシャの<ruby><rb>兵士</rb><rt>へいし</rt></ruby>が、<ruby><rb>戦場</rb><rt>せんじょう</rt></ruby>のマラトンから、<ruby><rb>勝利</rb><rt>しょうり</rt></ruby>を<ruby><rb>伝</rb><rt>つた</rt></ruby>えるために、アテネまで<ruby><rb>走</rb><rt>はし</rt></ruby>ったことから<ruby><rb>始</rb><rt>はじ</rt></ruby>まった。
+- word: 大会
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+  - ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: 男子
+  descriptions:
+  - <ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。
+  - おとこ。
+- word: 県庁
+  descriptions:
+  - <ruby><rb>県</rb><rt>けん</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: レース
+  descriptions:
+  - <ruby><rb>競走</rb><rt>きょうそう</rt></ruby>・<ruby><rb>競泳</rb><rt>きょうえい</rt></ruby>などの<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+  - <ruby><rb>競争</rb><rt>きょうそう</rt></ruby>。
+- word: 秒
+  descriptions:
+  - <ruby><rb>時間</rb><rt>じかん</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。
+  - <ruby><rb>角度</rb><rt>かくど</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。
+source_url: http://www3.nhk.or.jp/news/easy/k10011406391000/k10011406391000.html
+web_title_with_ruby: <ruby>川内<rt>かわうち</rt></ruby><ruby>優輝<rt>ゆうき</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>31<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>優勝<rt>ゆうしょう</rt></ruby>
+  <ruby>ボストン<rt>ぼすとん</rt></ruby><ruby>マラソン<rt>まらそん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/17/川内優輝が日本選手31年ぶりの優勝-ボストンマラソン
+related_news:
+- title: <ruby>卓球<rt>たっきゅう</rt></ruby>の<ruby>全日本選手権<rt>ぜんにほんせんしゅけん</rt></ruby>で１４<ruby>歳<rt>さい</rt></ruby>の<ruby>張本<rt>はりもと</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2018/01/22/卓球の全日本選手権で14歳の張本選手が優勝する
+- title: <ruby>高梨<rt>たかなし</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がワールドカップで<ruby>優勝<rt>ゆうしょう</rt></ruby>　いちばん<ruby>多<rt>おお</rt></ruby>い<ruby>記録<rt>きろく</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/03/26/高梨選手がワールドカップで優勝-いちばん多い記録になる
+- title: テニスの<ruby>大坂<rt>おおさか</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>国際<rt>こくさい</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>で<ruby>優勝<rt>ゆうしょう</rt></ruby>　<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>女子<rt>じょし</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて
+  url: https://newswebeasy.github.io/news/easy/2018/03/19/テニスの大坂選手が国際大会で優勝-日本の女子で初めて
+- title: <ruby>韓国<rt>かんこく</rt></ruby>でピョンチャンオリンピックが<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/02/09/韓国でピョンチャンオリンピックが始まる
+- title: <ruby>水泳<rt>すいえい</rt></ruby>の<ruby>池江<rt>いけえ</rt></ruby><ruby>璃花子<rt>りかこ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が４つの<ruby>種目<rt>しゅもく</rt></ruby>で<ruby>日本記録<rt>にほんきろく</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/04/09/水泳の池江璃花子選手が4つの種目で日本記録を作る
+...
