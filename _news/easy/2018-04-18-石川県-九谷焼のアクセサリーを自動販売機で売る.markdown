@@ -1,0 +1,65 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011406941000
+last_modified_at: '2018-04-18T17:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 九谷焼は石川県で昔から作っている焼き物です。
+title: 石川県　九谷焼のアクセサリーを自動販売機で売る
+title_with_ruby: <ruby>石川県<rt>いしかわけん</rt></ruby>　<ruby>九谷焼<rt>くたにやき</rt></ruby>のアクセサリーを<ruby>自動販売機<rt>じどうはんばいき</rt></ruby>で<ruby>売<rt>う</rt></ruby>る
+outline: 九谷焼は石川県で昔から作っている焼き物です。
+outline_with_ruby: <ruby>九谷焼<rt>くたにやき</rt></ruby>は<ruby>石川県<rt>いしかわけん</rt></ruby>で<ruby>昔<rt>むかし</rt></ruby>から<ruby>作<rt>つく</rt></ruby>っている<ruby>焼<rt>や</rt></ruby>き<ruby>物<rt>もの</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/17/K10011406941_1804171513_1804171516_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/18/k10011406941000.mp4
+content_with_ruby: "<p><ruby>九谷焼<rt>くたにやき</rt></ruby>は<ruby>石川県<rt>いしかわけん</rt></ruby>で<ruby>昔<rt>むかし</rt></ruby>から<ruby>作<rt>つく</rt></ruby>っている<span\
+  \ style=\"color: blue;\"><ruby>焼<rt>や</rt></ruby>き<ruby>物<rt>もの</rt></ruby></span>です。<ruby>石川県<rt>いしかわけん</rt></ruby><ruby>能美市<rt>のみし</rt></ruby>で<ruby>九谷焼<rt>くたにやき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>などの<span\
+  \ style=\"color: blue;\">グループ</span>が<ruby>九谷焼<rt>くたにやき</rt></ruby>のアクセサリーを<span\
+  \ style=\"color: blue;\"><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></span>で<ruby>売<rt>う</rt></ruby>ることにしました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></span>は<ruby>九谷焼<rt>くたにやき</rt></ruby>によく<ruby>使<rt>つか</rt></ruby>う<ruby>黄色<rt>きいろ</rt></ruby>や<ruby>緑<rt>みどり</rt></ruby><ruby>色<rt>いろ</rt></ruby>などで<span\
+  \ style=\"color: blue;\"><ruby>模様<rt>もよう</rt></ruby></span>が<span style=\"color:\
+  \ blue;\">デザイン</span>してあります。<ruby>九谷焼<rt>くたにやき</rt></ruby>の<span style=\"color:\
+  \ blue;\">ブローチ</span>や<span style=\"color: blue;\">ペンダント</span>を１つ１０００<ruby>円<rt>えん</rt></ruby>から２０００<ruby>円<rt>えん</rt></ruby>で<ruby>売<rt>う</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p><span style=\"color: blue;\">グループ</span>は「<ruby>外国人<rt>がいこくじん</rt></ruby>や<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>など<ruby>九谷焼<rt>くたにやき</rt></ruby>をあまり<ruby>知<rt>し</rt></ruby>らない<ruby>人<rt>ひと</rt></ruby>にも<ruby>興味<rt>きょうみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってほしいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p><span style=\"color: blue;\">グループ</span>は５<ruby>月<rt>がつ</rt></ruby>にある<ruby>能美市<rt>のみし</rt></ruby>のお<ruby>祭<rt>まつ</rt></ruby>りの<ruby>会場<rt>かいじょう</rt></ruby>にこの<span\
+  \ style=\"color: blue;\"><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></span>を<ruby>置<rt>お</rt></ruby>くことにしています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 自動販売機
+  descriptions:
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れると、<ruby><rb>自動的</rb><rt>じどうてき</rt></ruby>に<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 焼き物
+  descriptions:
+  - <ruby><rb>土</rb><rt>つち</rt></ruby>を<ruby><rb>焼</rb><rt>や</rt></ruby>いて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>陶器</rb><rt>とうき</rt></ruby>や<ruby><rb>磁器</rb><rt>じき</rt></ruby>など。
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>肉</rb><rt>にく</rt></ruby>などを、<ruby><rb>火</rb><rt>ひ</rt></ruby>で<ruby><rb>焼</rb><rt>や</rt></ruby>いた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 模様
+  descriptions:
+  - かざりにする<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>。
+  - ようす。ありさま。
+- word: デザイン
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。
+  - <ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。
+- word: ブローチ
+  descriptions:
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>洋服</rb><rt>ようふく</rt></ruby>の<ruby><rb>胸</rb><rt>むね</rt></ruby>やえりもとにつける、かざり。
+- word: ペンダント
+  descriptions:
+  - <ruby><rb>宝石</rb><rt>ほうせき</rt></ruby>やメダルなどを<ruby><rb>長</rb><rt>なが</rt></ruby>いくさりにつけたもの。<ruby><rb>首</rb><rt>くび</rt></ruby>に<ruby><rb>下</rb><rt>さ</rt></ruby>げてかざりにする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011406941000/k10011406941000.html
+web_title_with_ruby: <ruby>九谷焼<rt>くたにやき</rt></ruby>の<ruby>自動販売機<rt>じどうはんばいき</rt></ruby>がお<ruby>披露目<rt>ひろめ</rt></ruby>
+  <ruby>石川<rt>いしかわ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/17/九谷焼の自動販売機がお披露目-石川
+related_news:
+- title: ジャマイカ「<ruby>下町<rt>したまち</rt></ruby>ボブスレーをオリンピックで<ruby>使<rt>つか</rt></ruby>わない」
+  url: https://newswebeasy.github.io/news/easy/2018/02/07/ジャマイカ下町ボブスレーをオリンピックで使わない
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>　ドローンを<ruby>使<rt>つか</rt></ruby>って<ruby>香港<rt>ほんこん</rt></ruby>からスマートフォンを<ruby>密輸<rt>みつゆ</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/02/中国-ドローンを使って香港からスマートフォンを密輸
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>グループ「クローンの<ruby>猿<rt>さる</rt></ruby>を<ruby>作<rt>つく</rt></ruby>った」と<ruby>発表<rt>はっぴょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/01/26/中国の研究グループクローンの猿を作ったと発表
+- title: <ruby>手<rt>て</rt></ruby>に<ruby>貼<rt>は</rt></ruby>ることができる<ruby>薄<rt>うす</rt></ruby>いディスプレー
+  url: https://newswebeasy.github.io/news/easy/2018/02/20/手に貼ることができる薄いディスプレー
+...

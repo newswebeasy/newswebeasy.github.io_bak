@@ -1,0 +1,58 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011407321000
+last_modified_at: '2018-04-18T17:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 「世界ジオパーク」は地球がどうやってできたかを知るために役に立つ大切な場所で、ユネスコが選んでいます。
+title: 静岡県　伊豆半島がユネスコの「世界ジオパーク」になる
+title_with_ruby: <ruby>静岡県<rt>しずおかけん</rt></ruby>　<ruby>伊豆半島<rt>いずはんとう</rt></ruby>がユネスコの「<ruby>世界<rt>せかい</rt></ruby>ジオパーク」になる
+outline: 「世界ジオパーク」は地球がどうやってできたかを知るために役に立つ大切な場所で、ユネスコが選んでいます。
+outline_with_ruby: 「<ruby>世界<rt>せかい</rt></ruby>ジオパーク」は<ruby>地球<rt>ちきゅう</rt></ruby>がどうやってできたかを<ruby>知<rt>し</rt></ruby>るために<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>で、ユネスコが<ruby>選<rt>えら</rt></ruby>んでいます。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/17/K10011407321_1804171957_1804172000_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/18/k10011407321000.mp4
+content_with_ruby: "<p>「<ruby>世界<rt>せかい</rt></ruby>ジオパーク」は<span style=\"color: blue;\"\
+  ><ruby>地球<rt>ちきゅう</rt></ruby></span>がどうやってできたかを<ruby>知<rt>し</rt></ruby>るために<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>で、<span\
+  \ style=\"color: blue;\">ユネスコ</span>が<ruby>選<rt>えら</rt></ruby>んでいます。１７<ruby>日<rt>にち</rt></ruby>、<ruby>静岡県<rt>しずおかけん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>伊豆半島<rt>いずはんとう</rt></ruby></span>が「<ruby>世界<rt>せかい</rt></ruby>ジオパーク」になりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>伊豆半島<rt>いずはんとう</rt></ruby></span>は<span style=\"\
+  color: blue;\"><ruby>火山<rt>かざん</rt></ruby></span>が<ruby>並<rt>なら</rt></ruby>んだ<span\
+  \ style=\"color: blue;\"><ruby>列<rt>れつ</rt></ruby></span>が<ruby>集<rt>あつ</rt></ruby>まっていて、<span\
+  \ style=\"color: blue;\">ユネスコ</span>はこのような<ruby>場所<rt>ばしょ</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>伊豆半島<rt>いずはんとう</rt></ruby></span>だけだと<ruby>言<rt>い</rt></ruby>っています。そして、<span\
+  \ style=\"color: blue;\"><ruby>伊豆半島<rt>いずはんとう</rt></ruby></span>にある<ruby>丹那断層<rt>たんなだんそう</rt></ruby>という<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>断層<rt>だんそう</rt></ruby></span>の<ruby>研究<rt>けんきゅう</rt></ruby>のおかげで、<ruby>世界<rt>せかい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>断層<rt>だんそう</rt></ruby></span>の<ruby>研究<rt>けんきゅう</rt></ruby>が<ruby>進<rt>すす</rt></ruby>んだと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>では<span style=\"color: blue;\"><ruby>伊豆半島<rt>いずはんとう</rt></ruby></span>のほかに８つの<ruby>場所<rt>ばしょ</rt></ruby>が「<ruby>世界<rt>せかい</rt></ruby>ジオパーク」になっています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 伊豆半島
+  descriptions:
+  - <ruby><rb>静岡県</rb><rt>しずおかけん</rt></ruby>の<ruby><rb>東部</rb><rt>とうぶ</rt></ruby>にある<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>半島</rb><rt>はんとう</rt></ruby>。
+- word: UNESCO
+  descriptions:
+  - <ruby><rb>国連</rb><rt>こくれん</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つで、<ruby><rb>教育</rb><rt>きょういく</rt></ruby>や<ruby><rb>科学</rb><rt>かがく</rt></ruby>、また<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>を<ruby><rb>通</rb><rt>つう</rt></ruby>じて、たがいに<ruby><rb>理解</rb><rt>りかい</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ることを<ruby><rb>目的</rb><rt>もくてき</rt></ruby>としている。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>３番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: 火山
+  descriptions:
+  - <ruby><rb>地下</rb><rt>ちか</rt></ruby>のマグマが、<ruby><rb>地表</rb><rt>ちひょう</rt></ruby>にふき<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>山</rb><rt>やま</rt></ruby>となっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 列
+  descriptions:
+  - <ruby><rb>長</rb><rt>なが</rt></ruby>く<ruby><rb>並</rb><rt>なら</rt></ruby>ぶ。<ruby><rb>並</rb><rt>なら</rt></ruby>んだもの。
+  - <ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>わる。
+- word: 断層
+  descriptions:
+  - <ruby><rb>地面</rb><rt>じめん</rt></ruby>がうき<ruby><rb>上</rb><rt>あ</rt></ruby>がったり、ずり<ruby><rb>落</rb><rt>お</rt></ruby>ちたりしてできた、<ruby><rb>地層</rb><rt>ちそう</rt></ruby>のくいちがい。
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>などのくいちがい。
+source_url: http://www3.nhk.or.jp/news/easy/k10011407321000/k10011407321000.html
+web_title_with_ruby: <ruby>伊豆<rt>いず</rt></ruby><ruby>半島<rt>はんとう</rt></ruby>「<ruby>世界<rt>せかい</rt></ruby><ruby>ジオ<rt>じお</rt></ruby><ruby>パーク<rt>ぱーく</rt></ruby>」に<ruby>認定<rt>にんてい</rt></ruby>
+  <ruby>ユネスコ<rt>ゆねすこ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/17/伊豆半島世界ジオパークに認定-ユネスコ
+related_news:
+- title: <ruby>冬<rt>ふゆ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>くなった<ruby>紀伊半島<rt>きいはんとう</rt></ruby>　さんごに<ruby>大<rt>おお</rt></ruby>きな<ruby>被害<rt>ひがい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/12/冬の海の温度が低くなった紀伊半島-さんごに大きな被害
+...

@@ -1,0 +1,62 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011407141000
+last_modified_at: '2018-04-18T17:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 「はしか」は、熱が出たり体に赤い発疹が出たりする病気で、ウイルスでうつります。
+title: 「はしか」が広がる心配があるためワクチンの注射を考えて
+title_with_ruby: 「はしか」が<ruby>広<rt>ひろ</rt></ruby>がる<ruby>心配<rt>しんぱい</rt></ruby>があるためワクチンの<ruby>注射<rt>ちゅうしゃ</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えて
+outline: 「はしか」は、熱が出たり体に赤い発疹が出たりする病気で、ウイルスでうつります。
+outline_with_ruby: 「はしか」は、<ruby>熱<rt>ねつ</rt></ruby>が<ruby>出<rt>で</rt></ruby>たり<ruby>体<rt>からだ</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>い<ruby>発疹<rt>はっしん</rt></ruby>が<ruby>出<rt>で</rt></ruby>たりする<ruby>病気<rt>びょうき</rt></ruby>で、ウイルスでうつります。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/17/K10011407141_1804171751_1804171800_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/18/k10011407141000.mp4
+content_with_ruby: "<p>「はしか」は、<ruby>熱<rt>ねつ</rt></ruby>が<ruby>出<rt>で</rt></ruby>たり<ruby>体<rt>からだ</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>発疹<rt>はっしん</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>たりする<ruby>病気<rt>びょうき</rt></ruby>で、<span\
+  \ style=\"color: blue;\">ウイルス</span>でうつります。とてもうつりやすい<ruby>病気<rt>びょうき</rt></ruby>で、<ruby>沖縄県<rt>おきなわけん</rt></ruby>では、３<ruby>月<rt>がつ</rt></ruby>に<ruby>台湾<rt>たいわん</rt></ruby>から<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>広<rt>ひろ</rt></ruby>がっ</span>て、５０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>がはしかになりました。はしかは<ruby>日本<rt>にっぽん</rt></ruby>のほかの<ruby>場所<rt>ばしょ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>広<rt>ひろ</rt></ruby>がる</span><ruby>心配<rt>しんぱい</rt></ruby>があります。</p>\n\
+  <p><ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>によると、はしかにならないためには、<span style=\"\
+  color: blue;\">ワクチン</span>の<ruby>注射<rt>ちゅうしゃ</rt></ruby>を２<ruby>回<rt>かい</rt></ruby><ruby>受<rt>う</rt></ruby>けることが<ruby>大切<rt>たいせつ</rt></ruby>です。１９９０<ruby>年<rt>ねん</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>からあとに<ruby>生<rt>う</rt></ruby>まれた<ruby>人<rt>ひと</rt></ruby>は、<ruby>子<rt>こ</rt></ruby>どものときに<span\
+  \ style=\"color: blue;\">ワクチン</span>の<ruby>注射<rt>ちゅうしゃ</rt></ruby>を２<ruby>回<rt>かい</rt></ruby><ruby>受<rt>う</rt></ruby>けています。しかしその<ruby>前<rt>まえ</rt></ruby>に<ruby>生<rt>う</rt></ruby>まれた<ruby>人<rt>ひと</rt></ruby>は、１<ruby>回<rt>かい</rt></ruby>だけ<ruby>受<rt>う</rt></ruby>けた<ruby>人<rt>ひと</rt></ruby>や１<ruby>回<rt>かい</rt></ruby>も<ruby>受<rt>う</rt></ruby>けていない<ruby>人<rt>ひと</rt></ruby>もいます。</p>\n\
+  <p><ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>は、<ruby>自分<rt>じぶん</rt></ruby>の<span\
+  \ style=\"color: blue;\">ワクチン</span>の<span style=\"color: blue;\"><ruby>記録<rt>きろく</rt></ruby></span>をチェックして、<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>は<span\
+  \ style=\"color: blue;\">ワクチン</span>の<ruby>注射<rt>ちゅうしゃ</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えてほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 広がる
+  descriptions:
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>くなる。
+  - <ruby><rb>広々</rb><rt>ひろびろ</rt></ruby>と<ruby><rb>見</rb><rt>み</rt></ruby>わたせる。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+- word: ワクチン
+  descriptions:
+  - <ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>のもとになるばいきんなどから<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>薬</rb><rt>くすり</rt></ruby>。これを<ruby><rb>接種</rb><rt>せっしゅ</rt></ruby>して、その<ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>にかからないようにする。
+- word: 発疹
+  descriptions:
+  - <ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>などにできる、<ruby><rb>小</rb><rt>ちい</rt></ruby>さなふきでもの。ほっしん。
+- word: ウイルス
+  descriptions:
+  - <ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。
+- word: 広がる
+  descriptions:
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>くなる。
+  - <ruby><rb>広々</rb><rt>ひろびろ</rt></ruby>と<ruby><rb>見</rb><rt>み</rt></ruby>わたせる。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+- word: 記録
+  descriptions:
+  - あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。
+  - <ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。
+source_url: http://www3.nhk.or.jp/news/easy/k10011407141000/k10011407141000.html
+web_title_with_ruby: はしか <ruby>沖縄<rt>おきなわ</rt></ruby><ruby>以外<rt>いがい</rt></ruby>に<ruby>拡大<rt>かくだい</rt></ruby>のおそれ
+  <ruby>ワクチン<rt>わくちん</rt></ruby><ruby>接種<rt>せっしゅ</rt></ruby><ruby>検討<rt>けんとう</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>びかけ
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/17/はしか-沖縄以外に拡大のおそれ-ワクチン接種検討を呼びかけ
+related_news:
+- title: 「はしか」になった<ruby>人<rt>ひと</rt></ruby>がヨーロッパで４<ruby>倍<rt>ばい</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/02/26/はしかになった人がヨーロッパで4倍になる
+- title: インフルエンザになった<ruby>人<rt>ひと</rt></ruby>が<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/01/26/インフルエンザになった人が今まででいちばん多くなる
+...
