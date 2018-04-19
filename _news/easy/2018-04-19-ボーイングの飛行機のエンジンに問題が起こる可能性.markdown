@@ -1,0 +1,95 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011407741000
+last_modified_at: '2018-04-19T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: アメリカの連邦航空局によると、ボーイング７８７という飛行機の一部は、エンジンの部品に問題が起こる可能性があることがわかりました。
+title: ボーイングの飛行機のエンジンに問題が起こる可能性
+title_with_ruby: ボーイングの<ruby>飛行機<rt>ひこうき</rt></ruby>のエンジンに<ruby>問題<rt>もんだい</rt></ruby>が<ruby>起<rt>お</rt></ruby>こる<ruby>可能性<rt>かのうせい</rt></ruby>
+outline: アメリカの連邦航空局によると、ボーイング７８７という飛行機の一部は、エンジンの部品に問題が起こる可能性があることがわかりました。
+outline_with_ruby: アメリカの<ruby>連邦航空局<rt>れんぽうこうくうきょく</rt></ruby>によると、ボーイング７８７という<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>は、エンジンの<ruby>部品<rt>ぶひん</rt></ruby>に<ruby>問題<rt>もんだい</rt></ruby>が<ruby>起<rt>お</rt></ruby>こる<ruby>可能性<rt>かのうせい</rt></ruby>があることがわかりました。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/18/K10011407741_1804180737_1804180738_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/19/k10011407741000.mp4
+content_with_ruby: "<p>アメリカの<ruby>連邦航空局<rt>れんぽうこうくうきょく</rt></ruby>によると、ボーイング７８７という<ruby>飛行機<rt>ひこうき</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>一部<rt>いちぶ</rt></ruby></span>は、<span style=\"color:\
+  \ blue;\">エンジン</span>の<span style=\"color: blue;\"><ruby>部品<rt>ぶひん</rt></ruby></span>に<ruby>問題<rt>もんだい</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こる</span> <span style=\"color:\
+  \ blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があることがわかりました。</p>\n<p>このため<ruby>連邦航空局<rt>れんぽうこうくうきょく</rt></ruby>は、この<span\
+  \ style=\"color: blue;\">エンジン</span>が<span style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>い</span>ている<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>飛<rt>と</rt></ruby>ぶ<span\
+  \ style=\"color: blue;\">ルート</span>について、<span style=\"color: blue;\"><ruby>条件<rt>じょうけん</rt></ruby></span>を<ruby>厳<rt>きび</rt></ruby>しくすることにしました。<ruby>今<rt>いま</rt></ruby>までは、<span\
+  \ style=\"color: blue;\"><ruby>緊急<rt>きんきゅう</rt></ruby></span>のときに<ruby>下<rt>お</rt></ruby>りる<ruby>空港<rt>くうこう</rt></ruby>まで５<ruby>時間<rt>じかん</rt></ruby><ruby>半<rt>はん</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>着<rt>つ</rt></ruby>くことができる<span\
+  \ style=\"color: blue;\">ルート</span>を<ruby>飛<rt>と</rt></ruby>ぶと<ruby>決<rt>き</rt></ruby>まっていました。これからは、２<ruby>時間<rt>じかん</rt></ruby>２０<ruby>分<rt>ぷん</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>着<rt>つ</rt></ruby>くようにしなければなりません。</p>\n\
+  <p>この<ruby>飛行機<rt>ひこうき</rt></ruby>をつくった<ruby>会社<rt>かいしゃ</rt></ruby>のボーイングによると、<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>６７０<span style=\"color:\
+  \ blue;\"><ruby>機<rt>き</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で<span style=\"\
+  color: blue;\">ルート</span>の<span style=\"color: blue;\"><ruby>条件<rt>じょうけん</rt></ruby></span>が<ruby>厳<rt>きび</rt></ruby>しくなるのは２５％ぐらいあります。<ruby>日本<rt>にっぽん</rt></ruby>では、<ruby>全日空<rt>ぜんにっくう</rt></ruby>が<ruby>使<rt>つか</rt></ruby>っている６４<span\
+  \ style=\"color: blue;\"><ruby>機<rt>き</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で３１<span\
+  \ style=\"color: blue;\"><ruby>機<rt>き</rt></ruby></span>あると<span style=\"color:\
+  \ blue;\"><ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby></span>は<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: エンジン
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>・<ruby><rb>船</rb><rt>ふね</rt></ruby>・<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>などを<ruby><rb>動</rb><rt>うご</rt></ruby>かす<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>発動機</rb><rt>はつどうき</rt></ruby>。
+- word: 起こる
+  descriptions:
+  - <ruby><rb>始</rb><rt>はじ</rt></ruby>まる。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 一部
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: 部品
+  descriptions:
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などを<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てている、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>の<ruby><rb>品</rb><rt>しな</rt></ruby>。<ruby><rb>部分品</rb><rt>ぶぶんひん</rt></ruby>。
+- word: 付く
+  descriptions:
+  - ものがくっつく。
+  - つきそう。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>わる。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まる。
+  - <ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。
+  - <ruby><rb>感</rb><rt>かん</rt></ruby>じる。
+  - ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。
+- word: ルート
+  descriptions:
+  - <ruby><rb>道路</rb><rt>どうろ</rt></ruby>。
+  - <ruby><rb>道筋</rb><rt>みちすじ</rt></ruby>。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>づる。
+- word: 条件
+  descriptions:
+  - ものごとが<ruby><rb>成</rb><rt>な</rt></ruby>り<ruby><rb>立</rb><rt>た</rt></ruby>つために<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>なことがら。
+  - あることを<ruby><rb>決</rb><rt>き</rt></ruby>めるのに、<ruby><rb>約束</rb><rt>やくそく</rt></ruby>しておくことがら。
+- word: 緊急
+  descriptions:
+  - <ruby><rb>非常</rb><rt>ひじょう</rt></ruby>にだいじで、<ruby><rb>急</rb><rt>いそ</rt></ruby>いでしなければならないこと。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 機
+  descriptions:
+  - <ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。
+  - とき。きっかけ。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>動</rb><rt>うご</rt></ruby>き。
+  - はたらき。
+  - だいじな<ruby><rb>点</rb><rt>てん</rt></ruby>。
+  - 「<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。また、<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 国土交通省
+  descriptions:
+  - <ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>建物</rb><rt>たてもの</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>交通</rb><rt>こうつう</rt></ruby>・<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>の<ruby><rb>運送</rb><rt>うんそう</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>国交省</rb><rt>こっこうしょう</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011407741000/k10011407741000.html
+web_title_with_ruby: <ruby>米<rt>べい</rt></ruby> <ruby>ボーイング<rt>ぼーいんぐ</rt></ruby>７８７の<ruby>運航<rt>うんこう</rt></ruby><ruby>条件<rt>じょうけん</rt></ruby><ruby>厳<rt>きび</rt></ruby>しくする<ruby>措置<rt>そち</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/18/米-ボーイング787の運航条件厳しくする措置
+related_news:
+- title: <ruby>飛行機<rt>ひこうき</rt></ruby>がネパールの<ruby>空港<rt>くうこう</rt></ruby>に<ruby>下<rt>お</rt></ruby>りるとき<ruby>失敗<rt>しっぱい</rt></ruby>　４９<ruby>人<rt>にん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/03/13/飛行機がネパールの空港に下りるとき失敗-49人亡くなる
+- title: 「ホンダジェット」　<ruby>去年<rt>きょねん</rt></ruby><ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>売<rt>う</rt></ruby>れた
+  url: https://newswebeasy.github.io/news/easy/2018/02/26/ホンダジェット-去年世界でいちばん売れた
+...
