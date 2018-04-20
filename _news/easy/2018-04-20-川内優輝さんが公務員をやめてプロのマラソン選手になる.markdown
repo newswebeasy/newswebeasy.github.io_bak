@@ -1,0 +1,73 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011409951000
+last_modified_at: '2018-04-20T16:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 川内優輝さんは埼玉県で公務員をしながら、マラソンの大会にたくさん出ています。
+title: 川内優輝さんが公務員をやめてプロのマラソン選手になる
+title_with_ruby: <ruby>川内<rt>かわうち</rt></ruby><ruby>優輝<rt>ゆうき</rt></ruby>さんが<ruby>公務員<rt>こうむいん</rt></ruby>をやめてプロのマラソン<ruby>選手<rt>せんしゅ</rt></ruby>になる
+outline: 川内優輝さんは埼玉県で公務員をしながら、マラソンの大会にたくさん出ています。
+outline_with_ruby: <ruby>川内<rt>かわうち</rt></ruby><ruby>優輝<rt>ゆうき</rt></ruby>さんは<ruby>埼玉県<rt>さいたまけん</rt></ruby>で<ruby>公務員<rt>こうむいん</rt></ruby>をしながら、マラソンの<ruby>大会<rt>たいかい</rt></ruby>にたくさん<ruby>出<rt>で</rt></ruby>ています。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/19/K10011409951_1804191507_1804191508_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/20/k10011409951000.mp4
+content_with_ruby: "<p><ruby>川内<rt>かわうち</rt></ruby><ruby>優輝<rt>ゆうき</rt></ruby>さんは<ruby>埼玉県<rt>さいたまけん</rt></ruby>で<ruby>公務員<rt>こうむいん</rt></ruby>をしながら、<span\
+  \ style=\"color: blue;\">マラソン</span>の<span style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>にたくさん<ruby>出<rt>で</rt></ruby>ています。<ruby>川内<rt>かわうち</rt></ruby>さんは<ruby>今月<rt>こんげつ</rt></ruby>１６<ruby>日<rt>にち</rt></ruby>、アメリカのボストン・マラソンで<span\
+  \ style=\"color: blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>がこの<span style=\"color:\
+  \ blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>で<ruby>前<rt>まえ</rt></ruby>に<span style=\"\
+  color: blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>したのは１９８７<ruby>年<rt>ねん</rt></ruby>でした。</p>\n\
+  <p><ruby>川内<rt>かわうち</rt></ruby>さんは１９<ruby>日<rt>にち</rt></ruby>にアメリカから<ruby>帰<rt>かえ</rt></ruby>ってきて、<ruby>成田空港<rt>なりたくうこう</rt></ruby>でテレビや<ruby>新聞<rt>しんぶん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>記者<rt>きしゃ</rt></ruby></span>たちに「<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>旗<rt>はた</rt></ruby></span>がボストンの<ruby>空<rt>そら</rt></ruby>に<ruby>上<rt>あ</rt></ruby>がるのを<ruby>見<rt>み</rt></ruby>て、<ruby>本当<rt>ほんとう</rt></ruby>にうれしかったです」と<ruby>言<rt>い</rt></ruby>いました。そして、「<ruby>仕事<rt>しごと</rt></ruby>を<span\
+  \ style=\"color: blue;\">やめ</span>ないと、<ruby>今<rt>いま</rt></ruby>より<ruby>速<rt>はや</rt></ruby>く<ruby>走<rt>はし</rt></ruby>ることはできません。<ruby>世界<rt>せかい</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちと<span style=\"color:\
+  \ blue;\">マラソン</span>で<span style=\"color: blue;\"><ruby>戦<rt>たたか</rt></ruby>い</span>たいです」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p><ruby>川内<rt>かわうち</rt></ruby>さんは<ruby>来年<rt>らいねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>を<span\
+  \ style=\"color: blue;\">やめ</span>て、４<ruby>月<rt>がつ</rt></ruby>から<span style=\"color:\
+  \ blue;\">プロ</span>になると<ruby>言<rt>い</rt></ruby>っています。</p>\n<p></p>\n<p></p>"
+words:
+- word: 辞める
+  descriptions:
+  - <ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。
+- word: プロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。
+- word: マラソン
+  descriptions:
+  - ４２．１９５キロメートルを<ruby><rb>走</rb><rt>はし</rt></ruby>る<ruby><rb>陸上競技</rb><rt>りくじょうきょうぎ</rt></ruby>。<ruby><rb>昔</rb><rt>むかし</rt></ruby>、ギリシャの<ruby><rb>兵士</rb><rt>へいし</rt></ruby>が、<ruby><rb>戦場</rb><rt>せんじょう</rt></ruby>のマラトンから、<ruby><rb>勝利</rb><rt>しょうり</rt></ruby>を<ruby><rb>伝</rb><rt>つた</rt></ruby>えるために、アテネまで<ruby><rb>走</rb><rt>はし</rt></ruby>ったことから<ruby><rb>始</rb><rt>はじ</rt></ruby>まった。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 大会
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+  - ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: 優勝
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>などで、<ruby><rb>一位</rb><rt>いちい</rt></ruby>で<ruby><rb>勝</rb><rt>か</rt></ruby>つこと。
+- word: 記者
+  descriptions:
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 旗
+  descriptions:
+  - <ruby><rb>布</rb><rt>ぬの</rt></ruby>や<ruby><rb>紙</rb><rt>かみ</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>り、さおなどの<ruby><rb>先</rb><rt>さき</rt></ruby>につけて、かざりや<ruby><rb>目</rb><rt>め</rt></ruby>じるしとするもの。
+- word: 戦う
+  descriptions:
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>をする。
+  - わざを<ruby><rb>比</rb><rt>くら</rt></ruby>べて、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める。
+source_url: http://www3.nhk.or.jp/news/easy/k10011409951000/k10011409951000.html
+web_title_with_ruby: 「<ruby>公務員<rt>こうむいん</rt></ruby><ruby>ランナー<rt>らんなー</rt></ruby>」<ruby>川内<rt>かわうち</rt></ruby>が<ruby>プロ<rt>ぷろ</rt></ruby>に
+  <ruby>来年<rt>らいねん</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>から
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/19/公務員ランナー川内がプロに-来年4月から
+related_news:
+- title: アメリカのボストンマラソンで<ruby>川内<rt>かわうち</rt></ruby><ruby>優輝<rt>ゆうき</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/17/アメリカのボストンマラソンで川内優輝選手が優勝
+- title: <ruby>卓球<rt>たっきゅう</rt></ruby>の<ruby>全日本選手権<rt>ぜんにほんせんしゅけん</rt></ruby>で１４<ruby>歳<rt>さい</rt></ruby>の<ruby>張本<rt>はりもと</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2018/01/22/卓球の全日本選手権で14歳の張本選手が優勝する
+- title: テニスの<ruby>大坂<rt>おおさか</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>国際<rt>こくさい</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>で<ruby>優勝<rt>ゆうしょう</rt></ruby>　<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>女子<rt>じょし</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて
+  url: https://newswebeasy.github.io/news/easy/2018/03/19/テニスの大坂選手が国際大会で優勝-日本の女子で初めて
+- title: <ruby>高梨<rt>たかなし</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がワールドカップで<ruby>優勝<rt>ゆうしょう</rt></ruby>　いちばん<ruby>多<rt>おお</rt></ruby>い<ruby>記録<rt>きろく</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/03/26/高梨選手がワールドカップで優勝-いちばん多い記録になる
+...

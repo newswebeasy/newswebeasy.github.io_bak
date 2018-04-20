@@ -1,0 +1,73 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011411111000
+last_modified_at: '2018-04-20T16:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: イギリスのエリザベス女王の孫のハリー王子は、来月の１９日にアメリカ人のメーガン・マークルさんと結婚式をします。
+title: イギリス　ハリー王子の結婚を祝うカップを売り出す
+title_with_ruby: イギリス　ハリー<ruby>王子<rt>おうじ</rt></ruby>の<ruby>結婚<rt>けっこん</rt></ruby>を<ruby>祝<rt>いわ</rt></ruby>うカップを<ruby>売<rt>う</rt></ruby>り<ruby>出<rt>だ</rt></ruby>す
+outline: イギリスのエリザベス女王の孫のハリー王子は、来月の１９日にアメリカ人のメーガン・マークルさんと結婚式をします。
+outline_with_ruby: イギリスのエリザベス<ruby>女王<rt>じょおう</rt></ruby>の<ruby>孫<rt>まご</rt></ruby>のハリー<ruby>王子<rt>おうじ</rt></ruby>は、<ruby>来月<rt>らいげつ</rt></ruby>の１９<ruby>日<rt>にち</rt></ruby>にアメリカ<ruby>人<rt>じん</rt></ruby>のメーガン・マークルさんと<ruby>結婚式<rt>けっこんしき</rt></ruby>をします。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/20/K10011411111_1804200630_1804200632_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/20/k10011411111000.mp4
+content_with_ruby: "<p>イギリスのエリザベス<span style=\"color: blue;\"><ruby>女王<rt>じょおう</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>孫<rt>まご</rt></ruby></span>のハリー<ruby>王子<rt>おうじ</rt></ruby>は、<ruby>来月<rt>らいげつ</rt></ruby>の１９<ruby>日<rt>にち</rt></ruby>にアメリカ<ruby>人<rt>じん</rt></ruby>のメーガン・マークルさんと<ruby>結婚式<rt>けっこんしき</rt></ruby>をします。</p>\n\
+  <p><ruby>式<rt>しき</rt></ruby>の１か<ruby>月<rt>げつ</rt></ruby><ruby>前<rt>まえ</rt></ruby>の１９<ruby>日<rt>にち</rt></ruby>、イギリスの<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>結婚<rt>けっこん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>祝<rt>いわ</rt></ruby>う</span>カップを<ruby>作<rt>つく</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>のロンドンで<span style=\"\
+  color: blue;\"><ruby>売<rt>う</rt></ruby>り<ruby>出<rt>だ</rt></ruby>し</span>ました。カップには、ハリー<ruby>王子<rt>おうじ</rt></ruby>とマークルさんを<span\
+  \ style=\"color: blue;\">イメージ</span>して「<ruby>自由<rt>じゆう</rt></ruby>」や「<ruby>広<rt>ひろ</rt></ruby>い<ruby>心<rt>こころ</rt></ruby>」などの<ruby>言葉<rt>ことば</rt></ruby>がかいてあります。</p>\n\
+  <p><ruby>店<rt>みせ</rt></ruby>でカップを<ruby>見<rt>み</rt></ruby>た<ruby>客<rt>きゃく</rt></ruby>は「<ruby>２人<rt>ふたり</rt></ruby>に<ruby>合<rt>あ</rt></ruby>った<ruby>言葉<rt>ことば</rt></ruby>です」とか「マークルさんを<ruby>温<rt>あたた</rt></ruby>かく<ruby>迎<rt>むか</rt></ruby>えたいです」などと<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>イギリスの<span style=\"color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span><ruby>会社<rt>がいしゃ</rt></ruby>は、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>たり、お<ruby>祝<rt>いわ</rt></ruby>いのパーティーをしたりするため、<ruby>２人<rt>ふたり</rt></ruby>の<ruby>結婚<rt>けっこん</rt></ruby>は７６０<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\">ビジネス</span>になると<span style=\"color: blue;\"><ruby>計算<rt>けいさん</rt></ruby></span>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 祝う
+  descriptions:
+  - めでたいことを<ruby><rb>喜</rb><rt>よろこ</rt></ruby>び、ことばや<ruby><rb>行</rb><rt>おこな</rt></ruby>いに<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。
+  - <ruby><rb>幸</rb><rt>しあわ</rt></ruby>せであるようにいのる。
+- word: 売り出す
+  descriptions:
+  - <ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>始</rb><rt>はじ</rt></ruby>める。
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られ<ruby><rb>始</rb><rt>はじ</rt></ruby>める。
+- word: 女王
+  descriptions:
+  - <ruby><rb>女性</rb><rt>じょせい</rt></ruby>の<ruby><rb>王</rb><rt>おう</rt></ruby>。クイーン。
+- word: 孫
+  descriptions:
+  - その<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>どもの<ruby><rb>子</rb><rt>こ</rt></ruby>ども。
+- word: 首都
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。
+- word: 売り出す
+  descriptions:
+  - <ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>始</rb><rt>はじ</rt></ruby>める。
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られ<ruby><rb>始</rb><rt>はじ</rt></ruby>める。
+- word: イメージ
+  descriptions:
+  - <ruby><rb>想像</rb><rt>そうぞう</rt></ruby>して、<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にえがき<ruby><rb>出</rb><rt>だ</rt></ruby>す、ものの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+- word: 調査
+  descriptions:
+  - <ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: ビジネス
+  descriptions:
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>。<ruby><rb>勤</rb><rt>つと</rt></ruby>め。<ruby><rb>商売</rb><rt>しょうばい</rt></ruby>。
+- word: 計算
+  descriptions:
+  - <ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。
+  - <ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011411111000/k10011411111000.html
+web_title_with_ruby: <ruby>英<rt>えい</rt></ruby><ruby>王室<rt>おうしつ</rt></ruby>の<ruby>結婚式<rt>けっこんしき</rt></ruby>まで１か<ruby>月<rt>げつ</rt></ruby>
+  <ruby>商戦<rt>しょうせん</rt></ruby><ruby>本格化<rt>ほんかくか</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/20/英王室の結婚式まで1か月-商戦本格化
+related_news:
+- title: イギリス「スパイだった<ruby>男性<rt>だんせい</rt></ruby>に<ruby>使<rt>つか</rt></ruby>った<ruby>毒<rt>どく</rt></ruby>はロシアが<ruby>作<rt>つく</rt></ruby>った」
+  url: https://newswebeasy.github.io/news/easy/2018/03/14/イギリススパイだった男性に使った毒はロシアが作った
+- title: <ruby>天皇<rt>てんのう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>の<ruby>孫<rt>まご</rt></ruby>の<ruby>眞子<rt>まこ</rt></ruby>さまの<ruby>結婚<rt>けっこん</rt></ruby>は２０２０<ruby>年<rt>ねん</rt></ruby>になる<ruby>予定<rt>よてい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/02/07/天皇陛下の孫の眞子さまの結婚は2020年になる予定
+- title: ２４の<ruby>国<rt>くに</rt></ruby>がロシアの<ruby>外交官<rt>がいこうかん</rt></ruby>に<ruby>国<rt>くに</rt></ruby>から<ruby>出<rt>で</rt></ruby>て<ruby>行<rt>い</rt></ruby>くように<ruby>言<rt>い</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/03/27/24の国がロシアの外交官に国から出て行くように言う
+...

@@ -1,0 +1,74 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011410281000
+last_modified_at: '2018-04-20T16:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 「マグネットボール」は５mmぐらいの強い磁石のおもちゃです。
+title: おもちゃの「マグネットボール」を間違えて飲む事故が多い
+title_with_ruby: おもちゃの「マグネットボール」を<ruby>間違<rt>まちが</rt></ruby>えて<ruby>飲<rt>の</rt></ruby>む<ruby>事故<rt>じこ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い
+outline: 「マグネットボール」は５mmぐらいの強い磁石のおもちゃです。
+outline_with_ruby: 「マグネットボール」は５mmぐらいの<ruby>強<rt>つよ</rt></ruby>い<ruby>磁石<rt>じしゃく</rt></ruby>のおもちゃです。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/19/K10011410281_1804191808_1804191825_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/20/k10011410281000.mp4
+content_with_ruby: "<p>「マグネットボール」は５mmぐらいの<ruby>強<rt>つよ</rt></ruby>い<span style=\"\
+  color: blue;\"><ruby>磁石<rt>じしゃく</rt></ruby></span>のおもちゃです。２００<ruby>個<rt>こ</rt></ruby>ぐらいの<span\
+  \ style=\"color: blue;\"><ruby>磁石<rt>じしゃく</rt></ruby></span>が<span style=\"color:\
+  \ blue;\">セット</span>になっていて、いろいろな<ruby>形<rt>かたち</rt></ruby>を<ruby>作<rt>つく</rt></ruby>って<ruby>遊<rt>あそ</rt></ruby>ぶことができます。</p>\n\
+  <p><ruby>国民生活<rt>こくみんせいかつ</rt></ruby>センターによると、<ruby>子<rt>こ</rt></ruby>どもが<ruby>間違<rt>まちが</rt></ruby>えて<span\
+  \ style=\"color: blue;\"><ruby>磁石<rt>じしゃく</rt></ruby></span>を<ruby>飲<rt>の</rt></ruby>んでしまう<ruby>事故<rt>じこ</rt></ruby>が、２０１０<ruby>年<rt>ねん</rt></ruby>から１２４<span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span>ありました。<ruby>去年<rt>きょねん</rt></ruby>１２<ruby>月<rt>がつ</rt></ruby>と<ruby>今年<rt>ことし</rt></ruby>１<ruby>月<rt>がつ</rt></ruby>には、<ruby>体<rt>からだ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でマグネットボールに<span\
+  \ style=\"color: blue;\"><ruby>腸<rt>ちょう</rt></ruby></span>などが<span style=\"color:\
+  \ blue;\"><ruby>挟<rt>はさ</rt></ruby>ま</span>れて、<span style=\"color: blue;\"><ruby>腸<rt>ちょう</rt></ruby></span>に<span\
+  \ style=\"color: blue;\"><ruby>穴<rt>あな</rt></ruby></span>が<ruby>空<rt>あ</rt></ruby>いて<span\
+  \ style=\"color: blue;\"><ruby>手術<rt>しゅじゅつ</rt></ruby></span>をした<ruby>事故<rt>じこ</rt></ruby>も２<span\
+  \ style=\"color: blue;\"><ruby>件<rt>けん</rt></ruby></span>ありました。</p>\n<p><ruby>国民生活<rt>こくみんせいかつ</rt></ruby>センターがマグネットボールを<ruby>売<rt>う</rt></ruby>っている<span\
+  \ style=\"color: blue;\">ウェブサイト</span>を<ruby>調<rt>しら</rt></ruby>べると、<ruby>事故<rt>じこ</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけるように<ruby>書<rt>か</rt></ruby>いてあるページはほとんどありませんでした。</p>\n\
+  <p><ruby>国民生活<rt>こくみんせいかつ</rt></ruby>センターはインターネットでおもちゃなどを<ruby>売<rt>う</rt></ruby>っているアマゾンなどに、<ruby>強<rt>つよ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>磁石<rt>じしゃく</rt></ruby></span>を<ruby>子<rt>こ</rt></ruby>どものおもちゃ<ruby>用<rt>よう</rt></ruby>に<ruby>売<rt>う</rt></ruby>らないように<ruby>言<rt>い</rt></ruby>っています。もし<ruby>売<rt>う</rt></ruby>る<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>遊<rt>あそ</rt></ruby>ぶことができる<ruby>子<rt>こ</rt></ruby>どもの<ruby>年<rt>とし</rt></ruby>や、おもちゃで<ruby>遊<rt>あそ</rt></ruby>ぶときに<ruby>気<rt>き</rt></ruby>をつけることを<ruby>書<rt>か</rt></ruby>くように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 磁石
+  descriptions:
+  - <ruby><rb>鉄</rb><rt>てつ</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>きつける<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>物</rb><rt>もの</rt></ruby>。マグネット。
+  - <ruby><rb>針</rb><rt>はり</rt></ruby>の<ruby><rb>指</rb><rt>さ</rt></ruby>す<ruby><rb>向</rb><rt>む</rt></ruby>きから<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>の<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>を<ruby><rb>知</rb><rt>し</rt></ruby>る<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。コンパス。
+- word: セット
+  descriptions:
+  - ひとそろい。
+  - テニス・バレーボール・<ruby><rb>卓球</rb><rt>たっきゅう</rt></ruby>などの<ruby><rb>一回</rb><rt>いっかい</rt></ruby>の<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。
+  - <ruby><rb>舞台</rb><rt>ぶたい</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>で<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+  - <ruby><rb>髪</rb><rt>かみ</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>整</rb><rt>ととの</rt></ruby>えること。
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>が、ある<ruby><rb>条件</rb><rt>じょうけん</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くように<ruby><rb>整</rb><rt>ととの</rt></ruby>えること。
+- word: 件
+  descriptions:
+  - ことがら。できごと。
+  - ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 腸
+  descriptions:
+  - <ruby><rb>胃</rb><rt>い</rt></ruby>の<ruby><rb>次</rb><rt>つぎ</rt></ruby>にあって、<ruby><rb>食物</rb><rt>しょくもつ</rt></ruby>を<ruby><rb>消化</rb><rt>しょうか</rt></ruby>したり、<ruby><rb>栄養</rb><rt>えいよう</rt></ruby>や<ruby><rb>水分</rb><rt>すいぶん</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>い<ruby><rb>取</rb><rt>と</rt></ruby>ったりする<ruby><rb>器官</rb><rt>きかん</rt></ruby>。<ruby><rb>小腸</rb><rt>しょうちょう</rt></ruby>と<ruby><rb>大腸</rb><rt>だいちょう</rt></ruby>など。
+- word: 挟む
+  descriptions:
+  - <ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れる。
+  - <ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>からおさえる。
+  - <ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>く。
+  - <ruby><rb>口出</rb><rt>くちだ</rt></ruby>しする。
+- word: 穴
+  descriptions:
+  - くぼんだ<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+  - <ruby><rb>向</rb><rt>む</rt></ruby>こうまでつきぬけている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>弱</rb><rt>よわ</rt></ruby>いところ。
+  - <ruby><rb>損</rb><rt>そん</rt></ruby>。<ruby><rb>不足</rb><rt>ふそく</rt></ruby>。
+- word: 手術
+  descriptions:
+  - <ruby><rb>医者</rb><rt>いしゃ</rt></ruby>が、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>や<ruby><rb>傷</rb><rt>きず</rt></ruby>のところを、<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>開</rb><rt>ひら</rt></ruby>いたり<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>取</rb><rt>と</rt></ruby>ったりして、<ruby><rb>治療</rb><rt>ちりょう</rt></ruby>すること。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+source_url: http://www3.nhk.or.jp/news/easy/k10011410281000/k10011410281000.html
+web_title_with_ruby: <ruby>誤飲<rt>ごいん</rt></ruby><ruby>事故<rt>じこ</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>！<ruby>磁石<rt>じしゃく</rt></ruby>のおもちゃ「<ruby>マグネット<rt>まぐねっと</rt></ruby><ruby>ボール<rt>ぼーる</rt></ruby>」
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/19/誤飲事故に注意磁石のおもちゃマグネットボール
+related_news:
+- title: <ruby>入学<rt>にゅうがく</rt></ruby>した<ruby>大学生<rt>だいがくせい</rt></ruby>に「<ruby>会員<rt>かいいん</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やすビジネスに<ruby>気<rt>き</rt></ruby>をつけて」
+  url: https://newswebeasy.github.io/news/easy/2018/04/09/入学した大学生に会員を増やすビジネスに気をつけて
+...

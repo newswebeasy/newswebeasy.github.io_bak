@@ -1,0 +1,86 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011409441000
+last_modified_at: '2018-04-20T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: サウジアラビアでは１９８０年ごろから国の中に映画館をつくることは禁止になっていました。
+title: サウジアラビアに映画館がオープン　３５年禁止だった
+title_with_ruby: サウジアラビアに<ruby>映画館<rt>えいがかん</rt></ruby>がオープン　３５<ruby>年<rt>ねん</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>だった
+outline: サウジアラビアでは１９８０年ごろから国の中に映画館をつくることは禁止になっていました。
+outline_with_ruby: サウジアラビアでは１９８０<ruby>年<rt>ねん</rt></ruby>ごろから<ruby>国<rt>くに</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>映画館<rt>えいがかん</rt></ruby>をつくることは<ruby>禁止<rt>きんし</rt></ruby>になっていました。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/19/K10011409441_1804191022_1804191023_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/20/k10011409441000.mp4
+content_with_ruby: "<p>サウジアラビアでは１９８０<ruby>年<rt>ねん</rt></ruby>ごろから<ruby>国<rt>くに</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>映画館<rt>えいがかん</rt></ruby>をつくることは<span\
+  \ style=\"color: blue;\"><ruby>禁止<rt>きんし</rt></ruby></span>になっていました。<span style=\"\
+  color: blue;\">イスラム<ruby>教<rt>きょう</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>指導<rt>しどう</rt></ruby></span><span style=\"color: blue;\"><ruby>者<rt>しゃ</rt></ruby></span>たちが<span\
+  \ style=\"color: blue;\">ヨーロッパ</span>やアメリカなどの<ruby>文化<rt>ぶんか</rt></ruby>が<ruby>国<rt>くに</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ることを<ruby>心配<rt>しんぱい</rt></ruby>したためです。</p>\n\
+  <p>しかし、<ruby>次<rt>つぎ</rt></ruby>の<span style=\"color: blue;\"><ruby>王<rt>おう</rt></ruby></span>になる<ruby>予定<rt>よてい</rt></ruby>のムハンマド<ruby>皇太子<rt>こうたいし</rt></ruby>はサウジアラビアの<ruby>経済<rt>けいざい</rt></ruby>や<ruby>社会<rt>しゃかい</rt></ruby>を<ruby>変<rt>か</rt></ruby>えたいと<ruby>考<rt>かんが</rt></ruby>えています。そして、<span\
+  \ style=\"color: blue;\"><ruby>娯楽<rt>ごらく</rt></ruby></span>の<ruby>産業<rt>さんぎょう</rt></ruby>を<ruby>盛<rt>さか</rt></ruby>んにするため、<ruby>映画館<rt>えいがかん</rt></ruby>で<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ることができるようにしました。</p>\n\
+  <p>１８<ruby>日<rt>にち</rt></ruby>、サウジアラビアに<span style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>３５<ruby>年<rt>ねん</rt></ruby>なかった<ruby>映画館<rt>えいがかん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>のリヤドに<span style=\"color:\
+  \ blue;\">オープン</span>しました。<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちはポップコーンを<ruby>食<rt>た</rt></ruby>べながらアメリカの<ruby>映画<rt>えいが</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しみました。<ruby>客<rt>きゃく</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>は「<ruby>自分<rt>じぶん</rt></ruby>の<ruby>国<rt>くに</rt></ruby>で<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ることは<ruby>私<rt>わたし</rt></ruby>の<ruby>夢<rt>ゆめ</rt></ruby>でした。とてもうれしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>サウジアラビアでは<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う<span\
+  \ style=\"color: blue;\">イベント</span>で<ruby>男性<rt>だんせい</rt></ruby>と<ruby>女性<rt>じょせい</rt></ruby>の<ruby>席<rt>せき</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>分<rt>わ</rt></ruby>ける</span>ことが<ruby>普通<rt>ふつう</rt></ruby>です。しかし、<ruby>映画館<rt>えいがかん</rt></ruby>では<ruby>男性<rt>だんせい</rt></ruby>も<ruby>女性<rt>じょせい</rt></ruby>も<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>見<rt>み</rt></ruby>ることができるようにしました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: オープン
+  descriptions:
+  - <ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。
+  - かくしだてをしないようす。
+  - おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。
+- word: 禁止
+  descriptions:
+  - してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。
+- word: イスラム教
+  descriptions:
+  - <ruby><rb>七世紀</rb><rt>ななせいき</rt></ruby><ruby><rb>初</rb><rt>はじ</rt></ruby>め、アラビアでムハンマドが<ruby><rb>始</rb><rt>はじ</rt></ruby>めた、<ruby><rb>唯一</rb><rt>ゆいいつ</rt></ruby>の<ruby><rb>神</rb><rt>かみ</rt></ruby>アッラーを<ruby><rb>信</rb><rt>しん</rt></ruby>じる<ruby><rb>宗教</rb><rt>しゅうきょう</rt></ruby>。<ruby><rb>回教</rb><rt>かいきょう</rt></ruby>。
+- word: 指導
+  descriptions:
+  - <ruby><rb>教</rb><rt>おし</rt></ruby>え<ruby><rb>導</rb><rt>みちび</rt></ruby>くこと。
+- word: 者
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - ものごと。ことがら。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: 王
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める<ruby><rb>人</rb><rt>ひと</rt></ruby>。おうさま。
+  - そのことにいちばんすぐれていること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>の<ruby><rb>王将</rb><rt>おうしょう</rt></ruby>。
+- word: 娯楽
+  descriptions:
+  - <ruby><rb>楽</rb><rt>たの</rt></ruby>しみ。なぐさみ。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 首都
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 分ける
+  descriptions:
+  - <ruby><rb>別々</rb><rt>べつべつ</rt></ruby>にする。はなす。
+  - <ruby><rb>配</rb><rt>くば</rt></ruby>る。<ruby><rb>分配</rb><rt>ぶんぱい</rt></ruby>する。
+  - <ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>に、おし<ruby><rb>開</rb><rt>ひら</rt></ruby>く。
+  - <ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>分</rb><rt>わ</rt></ruby>けにする。
+  - <ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011409441000/k10011409441000.html
+web_title_with_ruby: <ruby>サウジ<rt>さうじ</rt></ruby>で<ruby>映画館<rt>えいがかん</rt></ruby>が35<ruby>年<rt>ねん</rt></ruby>ぶり<ruby>復活<rt>ふっかつ</rt></ruby>「<ruby>穏健<rt>おんけん</rt></ruby>な<ruby>イスラム<rt>いすらむ</rt></ruby>」<ruby>政策<rt>せいさく</rt></ruby>で
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/19/サウジで映画館が35年ぶり復活穏健なイスラム政策で
+related_news:
+- title: <ruby>大林<rt>おおばやし</rt></ruby><ruby>宣彦<rt>のぶひこ</rt></ruby><ruby>監督<rt>かんとく</rt></ruby>「<ruby>広島<rt>ひろしま</rt></ruby>に<ruby>原爆<rt>げんばく</rt></ruby>が<ruby>落<rt>お</rt></ruby>とされるまでを<ruby>映画<rt>えいが</rt></ruby>にする」
+  url: https://newswebeasy.github.io/news/easy/2018/02/23/大林宣彦監督広島に原爆が落とされるまでを映画にする
+- title: ＴＰＰに<ruby>日本<rt>にっぽん</rt></ruby>など１１の<ruby>国<rt>くに</rt></ruby>がサインをする
+  url: https://newswebeasy.github.io/news/easy/2018/03/09/TPPに日本など11の国がサインをする
+...
