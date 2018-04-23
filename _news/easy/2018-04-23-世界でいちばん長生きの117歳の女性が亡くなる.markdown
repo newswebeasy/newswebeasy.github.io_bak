@@ -1,0 +1,55 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011413001000
+last_modified_at: '2018-04-23T16:45:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>45<ruby>分<rt>ふん</rt></ruby>
+description: 鹿児島県喜界町に住んでいる田島ナビさんが２１日、１１７歳で亡くなりました。
+title: 「世界でいちばん長生き」の１１７歳の女性が亡くなる
+title_with_ruby: 「<ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>長生<rt>ながい</rt></ruby>き」の１１７<ruby>歳<rt>さい</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+outline: 鹿児島県喜界町に住んでいる田島ナビさんが２１日、１１７歳で亡くなりました。
+outline_with_ruby: <ruby>鹿児島県<rt>かごしまけん</rt></ruby><ruby>喜界町<rt>きかいちょう</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>田島<rt>たじま</rt></ruby>ナビさんが２１<ruby>日<rt>にち</rt></ruby>、１１７<ruby>歳<rt>さい</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなりました。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/21/K10011413001_1804212310_1804212312_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/23/k10011413001000.mp4
+content_with_ruby: "<p><ruby>鹿児島県<rt>かごしまけん</rt></ruby><ruby>喜界町<rt>きかいちょう</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>田島<rt>たじま</rt></ruby>ナビさんが２１<ruby>日<rt>にち</rt></ruby>、１１７<ruby>歳<rt>さい</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなりました。１９００<ruby>年<rt>ねん</rt></ruby>８<ruby>月<rt>がつ</rt></ruby><ruby>４日<rt>よっか</rt></ruby>に<ruby>生<rt>う</rt></ruby>まれた<ruby>田島<rt>たじま</rt></ruby>さんは、<ruby>世界<rt>せかい</rt></ruby>でいちばん<span\
+  \ style=\"color: blue;\"><ruby>長生<rt>ながい</rt></ruby>き</span>の<ruby>人<rt>ひと</rt></ruby>だと<ruby>言<rt>い</rt></ruby>われていました。</p>\n\
+  <p><ruby>去年<rt>きょねん</rt></ruby>９<ruby>月<rt>がつ</rt></ruby>に<ruby>鹿児島県<rt>かごしまけん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>知事<rt>ちじ</rt></ruby></span>が<ruby>田島<rt>たじま</rt></ruby>さんに<ruby>会<rt>あ</rt></ruby>いに<ruby>行<rt>い</rt></ruby>ったとき、<ruby>田島<rt>たじま</rt></ruby>さんは<span\
+  \ style=\"color: blue;\"><ruby>三味線<rt>しゃみせん</rt></ruby></span>の<ruby>音<rt>おと</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>踊<rt>おど</rt></ruby>るように<ruby>手<rt>て</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>動<rt>うご</rt></ruby>かし</span>ていました。</p>\n<p><ruby>田島<rt>たじま</rt></ruby>さんの<ruby>家族<rt>かぞく</rt></ruby>によると、<ruby>田島<rt>たじま</rt></ruby>さんは１<ruby>月<rt>がつ</rt></ruby>に<ruby>体<rt>からだ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>調子<rt>ちょうし</rt></ruby></span>が<ruby>悪<rt>わる</rt></ruby>くなって<ruby>入院<rt>にゅういん</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 長生き
+  descriptions:
+  - <ruby><rb>長</rb><rt>なが</rt></ruby>く<ruby><rb>生</rb><rt>い</rt></ruby>きること。<ruby><rb>長命</rb><rt>ちょうめい</rt></ruby>。
+- word: 知事
+  descriptions:
+  - <ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 三味線
+  descriptions:
+  - <ruby><rb>三本</rb><rt>さんぼん</rt></ruby>の<ruby><rb>弦</rb><rt>げん</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>り、ばちではじいて<ruby><rb>鳴</rb><rt>な</rt></ruby>らす<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>楽器</rb><rt>がっき</rt></ruby>。
+- word: 動かす
+  descriptions:
+  - <ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。
+  - <ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - <ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。
+- word: 調子
+  descriptions:
+  - <ruby><rb>音楽</rb><rt>おんがく</rt></ruby>の、<ruby><rb>音</rb><rt>おと</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>い。<ruby><rb>調</rb><rt>しら</rt></ruby>べ。
+  - ぐあい。
+  - <ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>回</rb><rt>まわ</rt></ruby>し。<ruby><rb>口調</rb><rt>くちょう</rt></ruby>。
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>い。
+source_url: http://www3.nhk.or.jp/news/easy/k10011413001000/k10011413001000.html
+web_title_with_ruby: “<ruby>世界<rt>せかい</rt></ruby><ruby>最高齢<rt>さいこうれい</rt></ruby>か”
+  117<ruby>歳<rt>さい</rt></ruby>の<ruby>田島<rt>たじま</rt></ruby><ruby>ナビ<rt>なび</rt></ruby>さん<ruby>死去<rt>しきょ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/21/世界最高齢か-117歳の田島ナビさん死去
+related_news:
+- title: <ruby>奄美大島<rt>あまみおおしま</rt></ruby>で<ruby>海岸<rt>かいがん</rt></ruby>に<ruby>流<rt>なが</rt></ruby>れてきた<ruby>油<rt>あぶら</rt></ruby>の<ruby>掃除<rt>そうじ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/02/09/奄美大島で海岸に流れてきた油の掃除が始まる
+- title: ユニセフ「<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>助<rt>たす</rt></ruby>けるために<ruby>協力<rt>きょうりょく</rt></ruby>してほしい」
+  url: https://newswebeasy.github.io/news/easy/2018/02/20/ユニセフ赤ちゃんを助けるために協力してほしい
+- title: <ruby>春<rt>はる</rt></ruby>に<ruby>体<rt>からだ</rt></ruby>や<ruby>心<rt>こころ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>がよくないと<ruby>感<rt>かん</rt></ruby>じる<ruby>人<rt>ひと</rt></ruby>が６０％いた
+  url: https://newswebeasy.github.io/news/easy/2018/04/04/春に体や心の調子がよくないと感じる人が60いた
+...

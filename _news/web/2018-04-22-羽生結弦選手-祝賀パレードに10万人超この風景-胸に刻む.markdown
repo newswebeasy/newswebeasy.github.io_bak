@@ -8,9 +8,9 @@ title_with_ruby: <ruby>羽生<rt data-ruby-level="8">はにゅう</rt></ruby><ru
   data-ruby-level="2">まんにん</rt></ruby><ruby>超<rt data-ruby-level="7">ちょう</rt></ruby>「この<ruby>風景<rt
   data-ruby-level="4">ふうけい</rt></ruby> <ruby>胸<rt data-ruby-level="6">むね</rt></ruby>に<ruby>刻<rt
   data-ruby-level="6">きざ</rt></ruby>む」
-last_modified_at: '2018-04-22T18:34:00+09:00'
+last_modified_at: '2018-04-22T19:30:00+09:00'
 datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>04<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>22<ruby>日<rt
-  data-ruby-level="1">にち</rt></ruby> 18<ruby>時<rt data-ruby-level="2">じ</rt></ruby>34<ruby>分<rt
+  data-ruby-level="1">にち</rt></ruby> 19<ruby>時<rt data-ruby-level="2">じ</rt></ruby>30<ruby>分<rt
   data-ruby-level="2">ふん</rt></ruby>
 description: フィギュアスケートの男子シングルでオリンピック２連覇を果たした羽生結弦選手の活躍をたたえる祝賀パレードが出身地の仙台市で行われ、１０万人を超える人たちが沿道から声援を送りました。
 summary: フィギュアスケートの<ruby>男子<rt data-ruby-level="1">だんし</rt></ruby>シングルでオリンピック２<ruby>連覇<rt
@@ -76,6 +76,21 @@ body:
     data-ruby-level="3">ことば</rt></ruby>を<ruby>送<rt data-ruby-level="3">おく</rt></ruby>ったり<ruby>写真<rt
     data-ruby-level="3">しゃしん</rt></ruby>を<ruby>撮<rt data-ruby-level="7">と</rt></ruby>ったりしていました。
   image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/22/K10011413351_1804221558_1804221559_01_04.jpg
+- title: <ruby>熱中症<rt data-ruby-level="7">ねっちゅうしょう</rt></ruby>か ６<ruby>人<rt data-ruby-level="1">にん</rt></ruby><ruby>搬送<rt
+    data-ruby-level="7">はんそう</rt></ruby>
+  text: <ruby>仙台市<rt data-ruby-level="7">せんだいし</rt></ruby>では<ruby>日中<rt data-ruby-level="1">にっちゅう</rt></ruby>の<ruby>最高<rt
+    data-ruby-level="4">さいこう</rt></ruby><ruby>気温<rt data-ruby-level="3">きおん</rt></ruby>が２９<ruby>度<rt
+    data-ruby-level="3">ど</rt></ruby>９<ruby>分<rt data-ruby-level="2">ふん</rt></ruby>を<ruby>観測<rt
+    data-ruby-level="5">かんそく</rt></ruby>してことし<ruby>初<rt data-ruby-level="4">はじ</rt></ruby>めての<ruby>夏日<rt
+    data-ruby-level="2">なつび</rt></ruby>となり、<ruby>消防<rt data-ruby-level="5">しょうぼう</rt></ruby>によりますと、<ruby>昼前<rt
+    data-ruby-level="2">ひるまえ</rt></ruby>から<ruby>午後<rt data-ruby-level="2">ごご</rt></ruby>３<ruby>時<rt
+    data-ruby-level="2">じ</rt></ruby>までの<ruby>間<rt data-ruby-level="2">あいだ</rt></ruby>に、パレードを<ruby>見<rt
+    data-ruby-level="2">み</rt></ruby>に<ruby>来<rt data-ruby-level="2">き</rt></ruby>ていた<ruby>男女<rt
+    data-ruby-level="1">だんじょ</rt></ruby><ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせて６<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>が<ruby>熱中症<rt data-ruby-level="7">ねっちゅうしょう</rt></ruby>と<ruby>見<rt
+    data-ruby-level="1">み</rt></ruby>られる<ruby>症状<rt data-ruby-level="7">しょうじょう</rt></ruby>を<ruby>訴<rt
+    data-ruby-level="7">うった</rt></ruby>えて<ruby>救急車<rt data-ruby-level="4">きゅうきゅうしゃ</rt></ruby>で<ruby>病院<rt
+    data-ruby-level="3">びょういん</rt></ruby>に<ruby>搬送<rt data-ruby-level="7">はんそう</rt></ruby>されたということです。
 - title: <ruby>宮城県<rt data-ruby-level="8">みやぎけん</rt></ruby>と<ruby>仙台市<rt data-ruby-level="7">せんだいし</rt></ruby>に500<ruby>万<rt
     data-ruby-level="2">まん</rt></ruby><ruby>円<rt data-ruby-level="1">えん</rt></ruby>ずつ<ruby>寄付<rt
     data-ruby-level="5">きふ</rt></ruby>
@@ -123,6 +138,9 @@ body:
     data-ruby-level="5">じょうたい</rt></ruby>を<ruby>見<rt data-ruby-level="1">み</rt></ruby>ながら<ruby>練習<rt
     data-ruby-level="3">れんしゅう</rt></ruby>していくことにしています。
 source_url: https://www3.nhk.or.jp/news/html/20180422/k10011413351000.html
+easy_title_with_ruby: フィギュアスケートの<ruby>羽生<rt data-ruby-level="8">はにゅう</rt></ruby><ruby>選手<rt
+  data-ruby-level="4">せんしゅ</rt></ruby>が<ruby>仙台市<rt data-ruby-level="7">せんだいし</rt></ruby>でパレードをする
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/04/23/フィギュアスケートの羽生選手が仙台市でパレードをする
 related_news:
 - title: メダリストたちは<ruby>何<rt data-ruby-level="2">なに</rt></ruby>を<ruby>語<rt data-ruby-level="2">かた</rt></ruby>る？<ruby>帰国<rt
     data-ruby-level="2">きこく</rt></ruby><ruby>報告会<rt data-ruby-level="5">ほうこくかい</rt></ruby>

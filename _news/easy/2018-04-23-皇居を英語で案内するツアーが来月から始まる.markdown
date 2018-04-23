@@ -1,0 +1,56 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011410911000
+last_modified_at: '2018-04-23T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 宮内庁は皇居を案内する往復２ｋｍぐらいのツアーを行なっています。
+title: 皇居を英語で案内するツアーが来月から始まる
+title_with_ruby: <ruby>皇居<rt>こうきょ</rt></ruby>を<ruby>英語<rt>えいご</rt></ruby>で<ruby>案内<rt>あんない</rt></ruby>するツアーが<ruby>来月<rt>らいげつ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まる
+outline: 宮内庁は皇居を案内する往復２ｋｍぐらいのツアーを行なっています。
+outline_with_ruby: <ruby>宮内庁<rt>くないちょう</rt></ruby>は<ruby>皇居<rt>こうきょ</rt></ruby>を<ruby>案内<rt>あんない</rt></ruby>する<ruby>往復<rt>おうふく</rt></ruby>２ｋｍぐらいのツアーを<ruby>行<rt>おこ</rt></ruby>なっています。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/20/K10011410911_1804200442_1804200447_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/23/k10011410911000.mp4
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>宮内庁<rt>くないちょう</rt></ruby></span>は<span\
+  \ style=\"color: blue;\"><ruby>皇居<rt>こうきょ</rt></ruby></span>を<ruby>案内<rt>あんない</rt></ruby>する<span\
+  \ style=\"color: blue;\"><ruby>往復<rt>おうふく</rt></ruby></span>２ｋｍぐらいの<span style=\"\
+  color: blue;\">ツアー</span>を<ruby>行<rt>おこな</rt></ruby>っています。</p>\n<p><span style=\"\
+  color: blue;\"><ruby>宮内庁<rt>くないちょう</rt></ruby></span>によると、<span style=\"color: blue;\"\
+  ><ruby>皇居<rt>こうきょ</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>にくる<ruby>外国人<rt>がいこくじん</rt></ruby>は<ruby>毎年<rt>まいとし</rt></ruby><ruby>多<rt>おお</rt></ruby>くなっています。<ruby>去年<rt>きょねん</rt></ruby>は<ruby>外国人<rt>がいこくじん</rt></ruby>が５<ruby>万<rt>まん</rt></ruby>４０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>来<rt>き</rt></ruby>て、おととしの１．９<ruby>倍<rt>ばい</rt></ruby>に<ruby>増<rt>ふ</rt></ruby>えました。<span\
+  \ style=\"color: blue;\"><ruby>皇居<rt>こうきょ</rt></ruby></span>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>の<ruby>半分<rt>はんぶん</rt></ruby>ぐらいが<ruby>外国人<rt>がいこくじん</rt></ruby>でした。</p>\n\
+  <p><span style=\"color: blue;\">ツアー</span>の<ruby>案内<rt>あんない</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>だけだったため、<ruby>英語<rt>えいご</rt></ruby>で<ruby>案内<rt>あんない</rt></ruby>してほしいという<ruby>人<rt>ひと</rt></ruby>がたくさんいました。このため<span\
+  \ style=\"color: blue;\"><ruby>宮内庁<rt>くないちょう</rt></ruby></span>は<ruby>来月<rt>らいげつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から、<ruby>英語<rt>えいご</rt></ruby>で<ruby>案内<rt>あんない</rt></ruby>する<span\
+  \ style=\"color: blue;\">ツアー</span>を<ruby>始<rt>はじ</rt></ruby>めることにしました。</p>\n<p><ruby>英語<rt>えいご</rt></ruby>の<span\
+  \ style=\"color: blue;\">ツアー</span>では、<ruby>建物<rt>たてもの</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>などを<ruby>外国人<rt>がいこくじん</rt></ruby>にもわかりやすいように<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>説明<rt>せつめい</rt></ruby>します。<span\
+  \ style=\"color: blue;\"><ruby>皇居<rt>こうきょ</rt></ruby></span>に<ruby>着<rt>つ</rt></ruby>いてから<ruby>英語<rt>えいご</rt></ruby>か<ruby>日本語<rt>にほんご</rt></ruby>の<span\
+  \ style=\"color: blue;\">ツアー</span>を<ruby>選<rt>えら</rt></ruby>ぶことができます。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 皇居
+  descriptions:
+  - <ruby><rb>天皇</rb><rt>てんのう</rt></ruby>の<ruby><rb>住</rb><rt>す</rt></ruby>まい。<ruby><rb>宮城</rb><rt>きゅうじょう</rt></ruby>。
+- word: ツアー
+  descriptions:
+  - <ruby><rb>観光</rb><rt>かんこう</rt></ruby>やスポーツなどのために、<ruby><rb>団体</rb><rt>だんたい</rt></ruby>で<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>。
+- word: 宮内庁
+  descriptions:
+  - <ruby><rb>皇室</rb><rt>こうしつ</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>事務</rb><rt>じむ</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 往復
+  descriptions:
+  - <ruby><rb>行</rb><rt>い</rt></ruby>ったり<ruby><rb>来</rb><rt>き</rt></ruby>たりすること。<ruby><rb>行</rb><rt>い</rt></ruby>きと<ruby><rb>帰</rb><rt>かえ</rt></ruby>り。
+  - やり<ruby><rb>取</rb><rt>と</rt></ruby>り。
+source_url: http://www3.nhk.or.jp/news/easy/k10011410911000/k10011410911000.html
+web_title_with_ruby: <ruby>皇居<rt>こうきょ</rt></ruby>の<ruby>参観<rt>さんかん</rt></ruby>で<ruby>英語<rt>えいご</rt></ruby><ruby>ツアー<rt>つあー</rt></ruby>
+  <ruby>来月<rt>らいげつ</rt></ruby>から<ruby>開始<rt>かいし</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/20/皇居の参観で英語ツアー-来月から開始
+related_news:
+- title: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>の７５％で<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えた
+  url: https://newswebeasy.github.io/news/easy/2018/03/06/日本の市や町の75で外国人が増えた
+- title: <ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>外国人<rt>がいこくじん</rt></ruby>は２５６<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>　<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2018/03/28/日本に住んでいる外国人は256万人-今までで最も多い
+- title: <ruby>人口<rt>じんこう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくならないように<ruby>外国人<rt>がいこくじん</rt></ruby>に<ruby>住<rt>す</rt></ruby>み<ruby>続<rt>つづ</rt></ruby>けてもらう<ruby>計画<rt>けいかく</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/03/15/人口が少なくならないように外国人に住み続けてもらう計画
+- title: <ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>客<rt>きゃく</rt></ruby>と<ruby>話<rt>はな</rt></ruby>すためにデパートが<ruby>翻訳<rt>ほんやく</rt></ruby>の<ruby>機械<rt>きかい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/02/20/外国人の客と話すためにデパートが翻訳の機械を使う
+...
