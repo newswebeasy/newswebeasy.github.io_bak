@@ -1,0 +1,54 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011414401000
+last_modified_at: '2018-04-24T16:55:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>55<ruby>分<rt>ふん</rt></ruby>
+description: 来年９月２０日から１１月２日まで、日本で初めてラグビーのワールドカップがあります。
+title: 来年のラグビーのワールドカップ　ボランティアを集める
+title_with_ruby: <ruby>来年<rt>らいねん</rt></ruby>のラグビーのワールドカップ　ボランティアを<ruby>集<rt>あつ</rt></ruby>める
+outline: 来年９月２０日から１１月２日まで、日本で初めてラグビーのワールドカップがあります。
+outline_with_ruby: <ruby>来年<rt>らいねん</rt></ruby>９<ruby>月<rt>がつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>から１１<ruby>月<rt>がつ</rt></ruby><ruby>２日<rt>ふつか</rt></ruby>まで、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めてラグビーのワールドカップがあります。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/23/K10011414401_1804231738_1804231738_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/24/k10011414401000.mp4
+content_with_ruby: "<p><ruby>来年<rt>らいねん</rt></ruby>９<ruby>月<rt>がつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>から１１<ruby>月<rt>がつ</rt></ruby><ruby>２日<rt>ふつか</rt></ruby>まで、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<span\
+  \ style=\"color: blue;\">ラグビー</span>の<span style=\"color: blue;\">ワールドカップ</span>があります。<ruby>試合<rt>しあい</rt></ruby>は１２の<ruby>会場<rt>かいじょう</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>います。</p>\n\
+  <p><ruby>試合<rt>しあい</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちの<ruby>案内<rt>あんない</rt></ruby>など、<span\
+  \ style=\"color: blue;\">ワールドカップ</span>を<ruby>手伝<rt>てつだ</rt></ruby>う<span style=\"\
+  color: blue;\">ボランティア</span>の<span style=\"color: blue;\"><ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>み</span>が４<ruby>月<rt>がつ</rt></ruby>２３<ruby>日<rt>にち</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>日本語<rt>にほんご</rt></ruby>がわかる１８<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>などが<span\
+  \ style=\"color: blue;\"><ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>む</span>ことができます。たくさんの<span\
+  \ style=\"color: blue;\">ボランティア</span>を<ruby>集<rt>あつ</rt></ruby>めるため、<ruby>東京<rt>とうきょう</rt></ruby>では<span\
+  \ style=\"color: blue;\">イベント</span>も<ruby>行<rt>おこな</rt></ruby>いました。</p>\n<p><span\
+  \ style=\"color: blue;\"><ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>み</span>は７<ruby>月<rt>がつ</rt></ruby>１８<ruby>日<rt>にち</rt></ruby>までインターネットでできます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ラグビー
+  descriptions:
+  - １チーム１５<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が、<ruby><rb>楕円形</rb><rt>だえんけい</rt></ruby>のボールを、<ruby><rb>持</rb><rt>も</rt></ruby>って<ruby><rb>走</rb><rt>はし</rt></ruby>ったり、けったりして<ruby><rb>相手側</rb><rt>あいてがわ</rt></ruby>のゴールライン<ruby><rb>内</rb><rt>ない</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>得点</rb><rt>とくてん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+- word: ワールドカップ
+  descriptions:
+  - スポーツ<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>の<ruby><rb>世界選手権大会</rb><rt>せかいせんしゅけんたいかい</rt></ruby>の<ruby><rb>優勝者</rb><rt>ゆうしょうしゃ</rt></ruby>にあたえられるカップ。また、そのカップを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>W杯</rb><rt>ダブリューはい</rt></ruby>。
+- word: ボランティア
+  descriptions:
+  - <ruby><rb>社会</rb><rt>しゃかい</rt></ruby>のために、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>から<ruby><rb>進</rb><rt>すす</rt></ruby>んで、<ruby><rb>無料</rb><rt>むりょう</rt></ruby>で<ruby><rb>奉仕活動</rb><rt>ほうしかつどう</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 申し込み
+  descriptions:
+  - <ruby><rb>申</rb><rt>もう</rt></ruby>しこむこと。
+- word: 申し込む
+  descriptions:
+  - <ruby><rb>望</rb><rt>のぞ</rt></ruby>みを、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>申</rb><rt>もう</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れる。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011414401000/k10011414401000.html
+web_title_with_ruby: <ruby>来<rt>き</rt></ruby>たれ<ruby>ボランティア<rt>ぼらんてぃあ</rt></ruby>
+  <ruby>来年<rt>らいねん</rt></ruby>の<ruby>ラグビー<rt>らぐびー</rt></ruby>Ｗ<ruby>杯<rt>はい</rt></ruby>で１<ruby>万人<rt>まんにん</rt></ruby><ruby>募集<rt>ぼしゅう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/23/来たれボランティア-来年のラグビーW杯で1万人募集
+related_news:
+- title: <ruby>民泊<rt>みんぱく</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をするための<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みが<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/03/16/民泊の仕事をするための申し込みが始まる
+- title: サッカーの<ruby>日本<rt>にっぽん</rt></ruby><ruby>代表<rt>だいひょう</rt></ruby>の<ruby>監督<rt>かんとく</rt></ruby>が<ruby>交代<rt>こうたい</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2018/04/10/サッカーの日本代表の監督が交代する
+...

@@ -1,0 +1,52 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011413661000
+last_modified_at: '2018-04-24T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 沖縄県の研究グループは、石垣島で見つかった昔の人の頭の骨のデータを使って、この人の顔の形をコンピューターで作りました。
+title: 「２万７０００年前にこのような顔の人が日本にいた」
+title_with_ruby: 「２<ruby>万<rt>まん</rt></ruby>７０００<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>にこのような<ruby>顔<rt>かお</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>にいた」
+outline: 沖縄県の研究グループは、石垣島で見つかった昔の人の頭の骨のデータを使って、この人の顔の形をコンピューターで作りました。
+outline_with_ruby: <ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>グループは、<ruby>石垣島<rt>いしがきじま</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかった<ruby>昔<rt>むかし</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>頭<rt>あたま</rt></ruby>の<ruby>骨<rt>ほね</rt></ruby>のデータを<ruby>使<rt>つか</rt></ruby>って、この<ruby>人<rt>ひと</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>をコンピューターで<ruby>作<rt>つく</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/22/K10011413661_1804222339_1804222348_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/24/k10011413661000.mp4
+content_with_ruby: "<p><ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby><span\
+  \ style=\"color: blue;\">グループ</span>は、<ruby>石垣島<rt>いしがきじま</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかった<ruby>昔<rt>むかし</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>頭<rt>あたま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>骨<rt>ほね</rt></ruby></span>の<span style=\"color: blue;\"\
+  >データ</span>を<ruby>使<rt>つか</rt></ruby>って、この<ruby>人<rt>ひと</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>をコンピューターで<ruby>作<rt>つく</rt></ruby>りました。この<span\
+  \ style=\"color: blue;\"><ruby>骨<rt>ほね</rt></ruby></span>は２<ruby>万<rt>まん</rt></ruby>７０００<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>骨<rt>ほね</rt></ruby></span>で、<ruby>日本<rt>にっぽん</rt></ruby>でいちばん<ruby>古<rt>ふる</rt></ruby>いと<ruby>言<rt>い</rt></ruby>われています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>額<rt>ひたい</rt></ruby></span>が<ruby>広<rt>ひろ</rt></ruby>い<ruby>男性<rt>だんせい</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>で、<ruby>研究<rt>けんきゅう</rt></ruby><span\
+  \ style=\"color: blue;\">グループ</span>は「<ruby>沖縄県<rt>おきなわけん</rt></ruby>のどこかで<ruby>見<rt>み</rt></ruby>たことがあるような<ruby>顔<rt>かお</rt></ruby>です」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>この<ruby>男性<rt>だんせい</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>は、<ruby>東京都<rt>とうきょうと</rt></ruby>にある<ruby>国立科学博物館<rt>こくりつかがくはくぶつかん</rt></ruby>で６<ruby>月<rt>がつ</rt></ruby>１７<ruby>日<rt>にち</rt></ruby>まで<ruby>見<rt>み</rt></ruby>ることができます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 骨
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>支</rb><rt>ささ</rt></ruby>えているかたいもの。
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>のしんにする<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>竹</rb><rt>たけ</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。
+  - ものごとの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。
+  - へこたれない<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。
+  - <ruby><rb>苦労</rb><rt>くろう</rt></ruby>なこと。
+- word: データ
+  descriptions:
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。
+  - コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。
+- word: 額
+  descriptions:
+  - まゆと、<ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>毛</rb><rt>け</rt></ruby>の<ruby><rb>生</rb><rt>は</rt></ruby>えぎわの<ruby><rb>間</rb><rt>あいだ</rt></ruby>。おでこ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011413661000/k10011413661000.html
+web_title_with_ruby: “<ruby>日本<rt>にっぽん</rt></ruby><ruby>最古<rt>さいこ</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>”はどんな<ruby>顔<rt>かお</rt></ruby>？
+  <ruby>デジタル<rt>でじたる</rt></ruby><ruby>処理<rt>しょり</rt></ruby>で<ruby>復元<rt>ふくげん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/22/日本最古の顔はどんな顔-デジタル処理で復元
+related_news:
+- title: <ruby>東京<rt>とうきょう</rt></ruby>オリンピック　<ruby>会場<rt>かいじょう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るスタッフの<ruby>顔<rt>かお</rt></ruby>を<ruby>機械<rt>きかい</rt></ruby>がチェック
+  url: https://newswebeasy.github.io/news/easy/2018/03/29/東京オリンピック-会場に入るスタッフの顔を機械がチェック
+- title: 「１<ruby>万<rt>まん</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>のイギリス<ruby>人<rt>じん</rt></ruby>の<ruby>肌<rt>はだ</rt></ruby>は<ruby>薄<rt>うす</rt></ruby>い<ruby>黒<rt>くろ</rt></ruby>だった」
+  url: https://newswebeasy.github.io/news/easy/2018/02/08/1万年前のイギリス人の肌は薄い黒だった
+...
