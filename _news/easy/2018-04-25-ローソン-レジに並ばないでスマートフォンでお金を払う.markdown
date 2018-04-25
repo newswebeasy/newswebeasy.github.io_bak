@@ -1,0 +1,58 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011414221000
+last_modified_at: '2018-04-25T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: コンビニのローソンは、店でレジに並ばなくてもスマートフォンでお金を払うことができるシステムのテストを始めました。
+title: ローソン　レジに並ばないでスマートフォンでお金を払う
+title_with_ruby: ローソン　レジに<ruby>並<rt>なら</rt></ruby>ばないでスマートフォンでお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>う
+outline: コンビニのローソンは、店でレジに並ばなくてもスマートフォンでお金を払うことができるシステムのテストを始めました。
+outline_with_ruby: コンビニのローソンは、<ruby>店<rt>みせ</rt></ruby>でレジに<ruby>並<rt>なら</rt></ruby>ばなくてもスマートフォンでお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>うことができるシステムのテストを<ruby>始<rt>はじ</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/23/K10011414221_1804231512_1804231514_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/25/k10011414221000.mp4
+content_with_ruby: "<p><span style=\"color: blue;\">コンビニ</span>のローソンは、<ruby>店<rt>みせ</rt></ruby>でレジに<ruby>並<rt>なら</rt></ruby>ばなくてもスマートフォンでお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>うことができる<span\
+  \ style=\"color: blue;\">システム</span>のテストを<ruby>始<rt>はじ</rt></ruby>めました。<ruby>客<rt>きゃく</rt></ruby>はスマートフォンにアプリを<ruby>入<rt>い</rt></ruby>れて、<span\
+  \ style=\"color: blue;\">クレジットカード</span>の<span style=\"color: blue;\"><ruby>登録<rt>とうろく</rt></ruby></span>などをしておきます。<ruby>店<rt>みせ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>買<rt>か</rt></ruby>いたい<ruby>物<rt>もの</rt></ruby>の<span\
+  \ style=\"color: blue;\">バーコード</span>をスマートフォンで<ruby>撮<rt>と</rt></ruby>ると、お<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>うことができます。</p>\n\
+  <p><ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなっているため、ローソンは<ruby>夜<rt>よる</rt></ruby>に<ruby>働<rt>はたら</rt></ruby>く<ruby>店員<rt>てんいん</rt></ruby>を<ruby>少<rt>すく</rt></ruby>なくすることも<ruby>考<rt>かんが</rt></ruby>えています。この<span\
+  \ style=\"color: blue;\">システム</span>を<ruby>使<rt>つか</rt></ruby>って、<ruby>午前<rt>ごぜん</rt></ruby>１<ruby>時<rt>じ</rt></ruby>から４<ruby>時<rt>じ</rt></ruby>まではレジに<ruby>店員<rt>てんいん</rt></ruby>がいなくても<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>かどうかも<ruby>調<rt>しら</rt></ruby>べます。</p>\n\
+  <p>テストは<ruby>東京都<rt>とうきょうと</rt></ruby>にある３つの<ruby>店<rt>みせ</rt></ruby>で５<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまで<ruby>行<rt>おこな</rt></ruby>います。９<ruby>月<rt>がつ</rt></ruby>からはこの<span\
+  \ style=\"color: blue;\">システム</span>を<ruby>利用<rt>りよう</rt></ruby>できる<ruby>店<rt>みせ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>増<rt>ふ</rt></ruby>やす</span><ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: コンビニ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「コンビニエンスストア」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。
+- word: システム
+  descriptions:
+  - <ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+  - ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。
+- word: クレジットカード
+  descriptions:
+  - <ruby><rb>現金</rb><rt>げんきん</rt></ruby>を<ruby><rb>払</rb><rt>はら</rt></ruby>わなくても、<ruby><rb>後払</rb><rt>あとばら</rt></ruby>いで<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>物</rb><rt>もの</rt></ruby>をすることができるカード。
+- word: 登録
+  descriptions:
+  - <ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などに<ruby><rb>届</rb><rt>とど</rt></ruby>け<ruby><rb>出</rb><rt>で</rt></ruby>て、おおやけに<ruby><rb>認</rb><rt>みと</rt></ruby>めてもらうこと。
+- word: バーコード
+  descriptions:
+  - <ruby><rb>商品</rb><rt>しょうひん</rt></ruby>の<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>や<ruby><rb>製造</rb><rt>せいぞう</rt></ruby><ruby><rb>年月日</rb><rt>ねんがっぴ</rt></ruby>などを<ruby><rb>表</rb><rt>あらわ</rt></ruby>す<ruby><rb>符号</rb><rt>ふごう</rt></ruby>。<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>の、<ruby><rb>太</rb><rt>ふと</rt></ruby>い・<ruby><rb>細</rb><rt>ほそ</rt></ruby>いを<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせてある。コンピューターによる<ruby><rb>商品</rb><rt>しょうひん</rt></ruby>の<ruby><rb>管理</rb><rt>かんり</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011414221000/k10011414221000.html
+web_title_with_ruby: <ruby>レジ<rt>れじ</rt></ruby><ruby>通<rt>とお</rt></ruby>さず<ruby>スマホ<rt>すまほ</rt></ruby><ruby>決済<rt>けっさい</rt></ruby>
+  <ruby>ローソン<rt>ろーそん</rt></ruby>が<ruby>都内<rt>とない</rt></ruby>３<ruby>店舗<rt>てんぽ</rt></ruby>で<ruby>実証<rt>じっしょう</rt></ruby><ruby>実験<rt>じっけん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/23/レジ通さずスマホ決済-ローソンが都内3店舗で実証実験
+related_news:
+- title: <ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りない<ruby>店<rt>みせ</rt></ruby>で<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する<ruby>展示<rt>てんじ</rt></ruby><ruby>会<rt>かい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/03/08/働く人が足りない店で役に立つ技術を紹介する展示会
+- title: ロボットがコーヒーをいれる<ruby>店<rt>みせ</rt></ruby>がオープン
+  url: https://newswebeasy.github.io/news/easy/2018/01/31/ロボットがコーヒーをいれる店がオープン
+- title: <ruby>来年<rt>らいねん</rt></ruby><ruby>卒業<rt>そつぎょう</rt></ruby>する<ruby>学生<rt>がくせい</rt></ruby>に「コンビニのオーナーになりませんか」
+  url: https://newswebeasy.github.io/news/easy/2018/04/16/来年卒業する学生にコンビニのオーナーになりませんか
+- title: 「<ruby>将来<rt>しょうらい</rt></ruby>は<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>の８０％をキャッシュレスにしたい」
+  url: https://newswebeasy.github.io/news/easy/2018/04/11/将来は買い物の80をキャッシュレスにしたい
+...

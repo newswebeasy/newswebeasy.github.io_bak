@@ -1,0 +1,64 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011415451000
+last_modified_at: '2018-04-25T16:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 東京大学と九州工業大学のグループが、海の深い所にいる生き物を探して取ることができるロボットを作りました。
+title: 海の深い所で生き物を探して取るロボットを作る
+title_with_ruby: <ruby>海<rt>うみ</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>で<ruby>生<rt>い</rt></ruby>き<ruby>物<rt>もの</rt></ruby>を<ruby>探<rt>さが</rt></ruby>して<ruby>取<rt>と</rt></ruby>るロボットを<ruby>作<rt>つく</rt></ruby>る
+outline: 東京大学と九州工業大学のグループが、海の深い所にいる生き物を探して取ることができるロボットを作りました。
+outline_with_ruby: <ruby>東京大学<rt>とうきょうだいがく</rt></ruby>と<ruby>九州工業大学<rt>きゅうしゅうこうぎょうだいがく</rt></ruby>のグループが、<ruby>海<rt>うみ</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>にいる<ruby>生<rt>い</rt></ruby>き<ruby>物<rt>もの</rt></ruby>を<ruby>探<rt>さが</rt></ruby>して<ruby>取<rt>と</rt></ruby>ることができるロボットを<ruby>作<rt>つく</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/24/K10011415451_1804241426_1804241430_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/25/k10011415451000.mp4
+content_with_ruby: "<p><ruby>東京大学<rt>とうきょうだいがく</rt></ruby>と<ruby>九州工業大学<rt>きゅうしゅうこうぎょうだいがく</rt></ruby>の<span\
+  \ style=\"color: blue;\">グループ</span>が、<ruby>海<rt>うみ</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>にいる<span\
+  \ style=\"color: blue;\"><ruby>生<rt>い</rt></ruby>き<ruby>物<rt>もの</rt></ruby></span>を<ruby>探<rt>さが</rt></ruby>して<ruby>取<rt>と</rt></ruby>ることができる<span\
+  \ style=\"color: blue;\">ロボット</span>を<ruby>作<rt>つく</rt></ruby>りました。</p>\n<p><span\
+  \ style=\"color: blue;\">ロボット</span>は<ruby>長<rt>なが</rt></ruby>さが１ｍぐらいで<ruby>箱<rt>はこ</rt></ruby>のような<ruby>形<rt>かたち</rt></ruby>です。<ruby>海<rt>うみ</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>さ２０００ｍの<ruby>所<rt>ところ</rt></ruby>まで<ruby>行<rt>い</rt></ruby>って、カメラで<ruby>魚<rt>さかな</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>貝<rt>かい</rt></ruby></span>などの<span style=\"color:\
+  \ blue;\"><ruby>生<rt>い</rt></ruby>き<ruby>物<rt>もの</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>つけることができます。<ruby>海<rt>うみ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にいる<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\">ロボット</span>に<ruby>取<rt>と</rt></ruby>ってほしい<span style=\"\
+  color: blue;\"><ruby>生<rt>い</rt></ruby>き<ruby>物<rt>もの</rt></ruby></span>を<ruby>伝<rt>つた</rt></ruby>えると、<span\
+  \ style=\"color: blue;\">ロボット</span>はその<span style=\"color: blue;\"><ruby>生<rt>い</rt></ruby>き<ruby>物<rt>もの</rt></ruby></span>を<ruby>探<rt>さが</rt></ruby>して、<span\
+  \ style=\"color: blue;\">ホース</span>で<ruby>吸<rt>す</rt></ruby>って<ruby>取<rt>と</rt></ruby>ります。</p>\n\
+  <p><ruby>今<rt>いま</rt></ruby>まで<ruby>海<rt>うみ</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>生<rt>い</rt></ruby>き<ruby>物<rt>もの</rt></ruby></span>を<ruby>取<rt>と</rt></ruby>るときは、<ruby>人<rt>ひと</rt></ruby>が<ruby>行<rt>い</rt></ruby>くため<ruby>大<rt>おお</rt></ruby>きな<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>で、お<ruby>金<rt>かね</rt></ruby>がたくさんかかりました。</p>\n\
+  <p><span style=\"color: blue;\">グループ</span>は「<ruby>海<rt>うみ</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>が<ruby>探<rt>さが</rt></ruby>しやすくなって、<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>生<rt>い</rt></ruby>き<ruby>物<rt>もの</rt></ruby></span>が<ruby>見<rt>み</rt></ruby>つかるかもしれません」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 生き物
+  descriptions:
+  - <ruby><rb>生</rb><rt>い</rt></ruby>きているもの。<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>のこと。
+- word: ロボット
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>磁気</rb><rt>じき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。<ruby><rb>人造</rb><rt>じんぞう</rt></ruby><ruby><rb>人間</rb><rt>にんげん</rt></ruby>。
+  - <ruby><rb>工場</rb><rt>こうじょう</rt></ruby>などで<ruby><rb>人間</rb><rt>にんげん</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって、<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。
+  - （いつも）<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>いなりになって<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 貝
+  descriptions:
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にすみ、<ruby><rb>貝</rb><rt>かい</rt></ruby>がらを<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。アサリ・サザエ・タニシなど。
+  - <ruby><rb>貝</rb><rt>かい</rt></ruby>がら。
+- word: ホース
+  descriptions:
+  - ゴムやビニルなどで<ruby><rb>作</rb><rt>つく</rt></ruby>った、ガスや<ruby><rb>水</rb><rt>みず</rt></ruby>などを<ruby><rb>送</rb><rt>おく</rt></ruby>るための<ruby><rb>管</rb><rt>くだ</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011415451000/k10011415451000.html
+web_title_with_ruby: <ruby>深海<rt>しんかい</rt></ruby>の<ruby>生物<rt>せいぶつ</rt></ruby> <ruby>探知<rt>たんち</rt></ruby>から<ruby>採取<rt>さいしゅ</rt></ruby>まで<ruby>自動<rt>じどう</rt></ruby>の<ruby>ロボット<rt>ろぼっと</rt></ruby><ruby>開発<rt>かいはつ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/24/深海の生物-探知から採取まで自動のロボット開発
+related_news:
+- title: ロボットで<ruby>海<rt>うみ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるレース　<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>決勝<rt>けっしょう</rt></ruby>に<ruby>進<rt>すす</rt></ruby>む
+  url: https://newswebeasy.github.io/news/easy/2018/03/12/ロボットで海の底を調べるレース-日本が決勝に進む
+- title: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>丸<rt>まる</rt></ruby>の<ruby>内<rt>うち</rt></ruby>　ビルの<ruby>警備<rt>けいび</rt></ruby>などにロボットを<ruby>使<rt>つか</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/04/04/東京の丸の内-ビルの警備などにロボットを使う
+- title: ホテルで<ruby>客<rt>きゃく</rt></ruby>と<ruby>会話<rt>かいわ</rt></ruby>をするロボットができる
+  url: https://newswebeasy.github.io/news/easy/2018/04/20/ホテルで客と会話をするロボットができる
+- title: ロボットがコーヒーをいれる<ruby>店<rt>みせ</rt></ruby>がオープン
+  url: https://newswebeasy.github.io/news/easy/2018/01/31/ロボットがコーヒーをいれる店がオープン
+- title: <ruby>介護<rt>かいご</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>うロボットを<ruby>作<rt>つく</rt></ruby>ろう
+  url: https://newswebeasy.github.io/news/easy/2018/04/03/介護の仕事を手伝うロボットを作ろう
+...

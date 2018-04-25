@@ -1,0 +1,47 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011415501000
+last_modified_at: '2018-04-25T16:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 「はしか」は高い熱やせきが出たり、体に赤い発疹が出たりする病気で、ウイルスでうつります。
+title: "愛知県　女の子２人と赤ちゃんが「はしか」だとわかる\n"
+title_with_ruby: "<ruby>愛知県<rt>あいちけん</rt></ruby>　<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby><ruby>２人<rt>ふたり</rt></ruby>と<ruby>赤<rt>あか</rt></ruby>ちゃんが「はしか」だとわかる\n"
+outline: 「はしか」は高い熱やせきが出たり、体に赤い発疹が出たりする病気で、ウイルスでうつります。
+outline_with_ruby: 「はしか」は<ruby>高<rt>たか</rt></ruby>い<ruby>熱<rt>ねつ</rt></ruby>やせきが<ruby>出<rt>で</rt></ruby>たり、<ruby>体<rt>からだ</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>い<ruby>発疹<rt>はっしん</rt></ruby>が<ruby>出<rt>で</rt></ruby>たりする<ruby>病気<rt>びょうき</rt></ruby>で、ウイルスでうつります。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/24/K10011415501_1804241447_1804241448_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/25/k10011415501000.mp4
+content_with_ruby: "<p>「はしか」は<ruby>高<rt>たか</rt></ruby>い<ruby>熱<rt>ねつ</rt></ruby>や<span\
+  \ style=\"color: blue;\">せき</span>が<ruby>出<rt>で</rt></ruby>たり、<ruby>体<rt>からだ</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>発疹<rt>はっしん</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>たりする<ruby>病気<rt>びょうき</rt></ruby>で、<span\
+  \ style=\"color: blue;\">ウイルス</span>でうつります。</p>\n<p>はしかはとてもうつりやすくて、<ruby>沖縄県<rt>おきなわけん</rt></ruby>では３<ruby>月<rt>がつ</rt></ruby>から６０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>がこの<ruby>病気<rt>びょうき</rt></ruby>になっています。<ruby>沖縄県<rt>おきなわけん</rt></ruby>を<ruby>旅行<rt>りょこう</rt></ruby>した<ruby>愛知県<rt>あいちけん</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>もこの<ruby>病気<rt>びょうき</rt></ruby>になって、<ruby>男性<rt>だんせい</rt></ruby>が<ruby>行<rt>い</rt></ruby>った<ruby>病院<rt>びょういん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いている<ruby>女性<rt>じょせい</rt></ruby>にもうつりました。\n\
+  </p>\n<p><ruby>愛知県<rt>あいちけん</rt></ruby>で<ruby>今週<rt>こんしゅう</rt></ruby>、<ruby>名古屋市<rt>なごやし</rt></ruby>の<ruby>中学校<rt>ちゅうがっこう</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>っている<span\
+  \ style=\"color: blue;\"><ruby>姉妹<rt>しまい</rt></ruby></span><ruby>２人<rt>ふたり</rt></ruby>と<ruby>東郷町<rt>とうごうちょう</rt></ruby>の１<ruby>歳<rt>さい</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんが、はしかになったことがわかりました。<span\
+  \ style=\"color: blue;\"><ruby>姉妹<rt>しまい</rt></ruby></span>と１<ruby>歳<rt>さい</rt></ruby>の<ruby>赤<rt>あか</rt></ruby>ちゃんは、<ruby>男性<rt>だんせい</rt></ruby>が<ruby>行<rt>い</rt></ruby>った２つの<ruby>病院<rt>びょういん</rt></ruby>に<ruby>同<rt>おな</rt></ruby>じ<ruby>日<rt>ひ</rt></ruby>に<ruby>行<rt>い</rt></ruby>っていました。\n\
+  </p>\n<p><ruby>愛知県<rt>あいちけん</rt></ruby>は、はしかになった<ruby>人<rt>ひと</rt></ruby>がほかにいないかどうか<ruby>調<rt>しら</rt></ruby>べています。\n\
+  </p>\n<p></p>\n<p></p>"
+words:
+- word: 咳
+  descriptions:
+  - のどや<ruby><rb>気管</rb><rt>きかん</rt></ruby>がしげきされて、<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>息</rb><rt>いき</rt></ruby>。
+- word: 発疹
+  descriptions:
+  - <ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>などにできる、<ruby><rb>小</rb><rt>ちい</rt></ruby>さなふきでもの。ほっしん。
+- word: ウイルス
+  descriptions:
+  - <ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。
+- word: 姉妹
+  descriptions:
+  - <ruby><rb>姉</rb><rt>あね</rt></ruby>と<ruby><rb>妹</rb><rt>いもうと</rt></ruby>。<ruby><rb>女</rb><rt>おんな</rt></ruby>のきょうだい。
+  - つながりのあること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011415501000/k10011415501000.html
+web_title_with_ruby: はしか <ruby>名古屋<rt>なごや</rt></ruby>で<ruby>新<rt>あら</rt></ruby>たに２<ruby>人<rt>にん</rt></ruby><ruby>感染<rt>かんせん</rt></ruby>
+  <ruby>沖縄<rt>おきなわ</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<ruby>病院<rt>びょういん</rt></ruby>に
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/24/はしか-名古屋で新たに2人感染-沖縄旅行の男性と同じ病院に
+related_news:
+- title: 「はしか」になった<ruby>人<rt>ひと</rt></ruby>がヨーロッパで４<ruby>倍<rt>ばい</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/02/26/はしかになった人がヨーロッパで4倍になる
+- title: 「はしか」が<ruby>広<rt>ひろ</rt></ruby>がる<ruby>心配<rt>しんぱい</rt></ruby>があるためワクチンの<ruby>注射<rt>ちゅうしゃ</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えて
+  url: https://newswebeasy.github.io/news/easy/2018/04/18/はしかが広がる心配があるためワクチンの注射を考えて
+...

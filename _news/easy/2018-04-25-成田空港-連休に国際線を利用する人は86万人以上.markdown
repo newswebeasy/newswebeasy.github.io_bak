@@ -1,0 +1,45 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011414931000
+last_modified_at: '2018-04-25T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 成田空港の会社によると、今月２７日から来月６日までの連休に８６万７０００人が国際線を利用する予定です。
+title: 成田空港　連休に国際線を利用する人は８６万人以上
+title_with_ruby: <ruby>成田空港<rt>なりたくうこう</rt></ruby>　<ruby>連休<rt>れんきゅう</rt></ruby>に<ruby>国際線<rt>こくさいせん</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>は８６<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>
+outline: 成田空港の会社によると、今月２７日から来月６日までの連休に８６万７０００人が国際線を利用する予定です。
+outline_with_ruby: <ruby>成田空港<rt>なりたくうこう</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>によると、<ruby>今月<rt>こんげつ</rt></ruby>２７<ruby>日<rt>にち</rt></ruby>から<ruby>来月<rt>らいげつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>までの<ruby>連休<rt>れんきゅう</rt></ruby>に８６<ruby>万<rt>まん</rt></ruby>７０００<ruby>人<rt>にん</rt></ruby>が<ruby>国際線<rt>こくさいせん</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>する<ruby>予定<rt>よてい</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/24/K10011414931_1804240749_1804240754_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/25/k10011414931000.mp4
+content_with_ruby: "<p><ruby>成田空港<rt>なりたくうこう</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>によると、<ruby>今月<rt>こんげつ</rt></ruby>２７<ruby>日<rt>にち</rt></ruby>から<ruby>来月<rt>らいげつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>までの<span\
+  \ style=\"color: blue;\"><ruby>連休<rt>れんきゅう</rt></ruby></span>に８６<ruby>万<rt>まん</rt></ruby>７０００<ruby>人<rt>にん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>国際線<rt>こくさいせん</rt></ruby></span>を<ruby>利用<rt>りよう</rt></ruby>する<ruby>予定<rt>よてい</rt></ruby>です。<ruby>去年<rt>きょねん</rt></ruby>より６％<ruby>多<rt>おお</rt></ruby>くなりそうです。</p>\n\
+  <p><ruby>出発<rt>しゅっぱつ</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>くなるのは<ruby>今月<rt>こんげつ</rt></ruby>２８<ruby>日<rt>にち</rt></ruby>で、<ruby>帰<rt>かえ</rt></ruby>ってくる<ruby>人<rt>ひと</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>くなるのは<ruby>来月<rt>らいげつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>になりそうです。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby>は<ruby>来月<rt>らいげつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>と<ruby>２日<rt>ふつか</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>平日<rt>へいじつ</rt></ruby></span>のため、<ruby>近<rt>ちか</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなりそうです。<ruby>飛行機<rt>ひこうき</rt></ruby><ruby>代<rt>だい</rt></ruby>が<ruby>安<rt>やす</rt></ruby>いＬＣＣが<ruby>増<rt>ふ</rt></ruby>えた<ruby>韓国<rt>かんこく</rt></ruby>や<ruby>香港<rt>ほんこん</rt></ruby>が<ruby>特<rt>とく</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>になっています。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 連休
+  descriptions:
+  - <ruby><rb>休</rb><rt>やす</rt></ruby>みの<ruby><rb>日</rb><rt>ひ</rt></ruby>が<ruby><rb>続</rb><rt>つづ</rt></ruby>くこと。また、<ruby><rb>続</rb><rt>つづ</rt></ruby>いた<ruby><rb>休日</rb><rt>きゅうじつ</rt></ruby>。
+- word: 国際線
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>と<ruby><rb>国</rb><rt>くに</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで<ruby><rb>運航</rb><rt>うんこう</rt></ruby>する<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>の<ruby><rb>路線</rb><rt>ろせん</rt></ruby>。
+- word: 平日
+  descriptions:
+  - <ruby><rb>休</rb><rt>やす</rt></ruby>みの<ruby><rb>日</rb><rt>ひ</rt></ruby>でも<ruby><rb>祝日</rb><rt>しゅくじつ</rt></ruby>でもない<ruby><rb>日</rb><rt>ひ</rt></ruby>。ふつうの<ruby><rb>日</rb><rt>ひ</rt></ruby>。
+  - いつも。ふだん。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011414931000/k10011414931000.html
+web_title_with_ruby: <ruby>成田<rt>なりた</rt></ruby><ruby>国際線<rt>こくさいせん</rt></ruby> <ruby>大型<rt>おおがた</rt></ruby><ruby>連休<rt>れんきゅう</rt></ruby><ruby>ピーク<rt>ぴーく</rt></ruby>
+  <ruby>出国<rt>しゅっこく</rt></ruby>は<ruby>今月<rt>こんげつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>
+  <ruby>帰国<rt>きこく</rt></ruby>は<ruby>来月<rt>らいげつ</rt></ruby>6<ruby>日<rt>にち</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/24/成田国際線-大型連休ピーク-出国は今月28日-帰国は来月6日
+related_news:
+- title: 「ホンダジェット」　<ruby>去年<rt>きょねん</rt></ruby><ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>売<rt>う</rt></ruby>れた
+  url: https://newswebeasy.github.io/news/easy/2018/02/26/ホンダジェット-去年世界でいちばん売れた
+...

@@ -1,0 +1,61 @@
+---
+layout: web_news
+categories: web
+newsid: k10011415451000
+title: 深海の生物 探知から採取まで自動のロボット開発
+title_with_ruby: <ruby>深海<rt data-ruby-level="3">しんかい</rt></ruby>の<ruby>生物<rt data-ruby-level="3">せいぶつ</rt></ruby>
+  <ruby>探知<rt data-ruby-level="6">たんち</rt></ruby>から<ruby>採取<rt data-ruby-level="5">さいしゅ</rt></ruby>まで<ruby>自動<rt
+  data-ruby-level="3">じどう</rt></ruby>のロボット<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>
+last_modified_at: '2018-04-24T13:54:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>04<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>24<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 13<ruby>時<rt data-ruby-level="2">じ</rt></ruby>54<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 深海に生息する魚や貝などの生物を見つけ出し、自動で採取できる海中ロボットの開発に成功した、と東京大学と九州工業大学のグループが発表しました。
+summary: <ruby>深海<rt data-ruby-level="3">しんかい</rt></ruby>に<ruby>生息<rt data-ruby-level="3">せいそく</rt></ruby>する<ruby>魚<rt
+  data-ruby-level="2">さかな</rt></ruby>や<ruby>貝<rt data-ruby-level="1">かい</rt></ruby>などの<ruby>生物<rt
+  data-ruby-level="3">せいぶつ</rt></ruby>を<ruby>見<rt data-ruby-level="1">み</rt></ruby>つけ<ruby>出<rt
+  data-ruby-level="1">だ</rt></ruby>し、<ruby>自動<rt data-ruby-level="3">じどう</rt></ruby>で<ruby>採取<rt
+  data-ruby-level="5">さいしゅ</rt></ruby>できる<ruby>海中<rt data-ruby-level="2">かいちゅう</rt></ruby>ロボットの<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>に<ruby>成功<rt data-ruby-level="4">せいこう</rt></ruby>した、と<ruby>東京大学<rt
+  data-ruby-level="2">とうきょうだいがく</rt></ruby>と<ruby>九州工業大学<rt data-ruby-level="3">きゅうしゅうこうぎょうだいがく</rt></ruby>のグループが<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/24/K10011415451_1804241426_1804241430_01_02.jpg
+more: <ruby>縦横<rt data-ruby-level="6">じゅうおう</rt></ruby>１メートル<ruby>余<rt data-ruby-level="5">あま</rt></ruby>りの<ruby>箱形<rt
+  data-ruby-level="3">はこがた</rt></ruby>をしたこの<ruby>海中<rt data-ruby-level="2">かいちゅう</rt></ruby>ロボットは、<ruby>水深<rt
+  data-ruby-level="3">すいしん</rt></ruby>２０００メートルまでの<ruby>深海<rt data-ruby-level="3">しんかい</rt></ruby>に<ruby>潜<rt
+  data-ruby-level="7">もぐ</rt></ruby>り、<ruby>魚<rt data-ruby-level="2">さかな</rt></ruby>や<ruby>貝<rt
+  data-ruby-level="1">かい</rt></ruby>などの<ruby>生物<rt data-ruby-level="3">せいぶつ</rt></ruby>がどこにいるのか<ruby>光学<rt
+  data-ruby-level="2">こうがく</rt></ruby>カメラでその<ruby>特徴<rt data-ruby-level="7">とくちょう</rt></ruby>を<ruby>捉<rt
+  data-ruby-level="7">とら</rt></ruby>え<ruby>認識<rt data-ruby-level="7">にんしき</rt></ruby>できるということです。<br
+  /><br /><ruby>画像<rt data-ruby-level="5">がぞう</rt></ruby>は<ruby>海上<rt data-ruby-level="2">かいじょう</rt></ruby>にいる<ruby>研究者<rt
+  data-ruby-level="3">けんきゅうしゃ</rt></ruby>らに<ruby>送<rt data-ruby-level="3">おく</rt></ruby>られ、どの<ruby>生物<rt
+  data-ruby-level="3">せいぶつ</rt></ruby>を<ruby>採取<rt data-ruby-level="5">さいしゅ</rt></ruby>するか<ruby>指示<rt
+  data-ruby-level="5">しじ</rt></ruby>を<ruby>出<rt data-ruby-level="1">だ</rt></ruby>せば、その<ruby>生物<rt
+  data-ruby-level="3">せいぶつ</rt></ruby>に<ruby>近<rt data-ruby-level="2">ちか</rt></ruby>づいて<ruby>行<rt
+  data-ruby-level="2">い</rt></ruby>き、<ruby>直径<rt data-ruby-level="4">ちょっけい</rt></ruby>７センチほどのホースで<ruby>吸<rt
+  data-ruby-level="7">す</rt></ruby>い<ruby>込<rt data-ruby-level="7">こ</rt></ruby>み<ruby>採取<rt
+  data-ruby-level="5">さいしゅ</rt></ruby>します。<br /><br />これまで、<ruby>深海<rt data-ruby-level="3">しんかい</rt></ruby>での<ruby>生物<rt
+  data-ruby-level="3">せいぶつ</rt></ruby><ruby>採取<rt data-ruby-level="5">さいしゅ</rt></ruby>には<ruby>人<rt
+  data-ruby-level="1">ひと</rt></ruby>が<ruby>乗<rt data-ruby-level="7">の</rt></ruby>り<ruby>込<rt
+  data-ruby-level="7">こ</rt></ruby>む<ruby>大型<rt data-ruby-level="4">おおがた</rt></ruby>の<ruby>潜水艇<rt
+  data-ruby-level="7">せんすいてい</rt></ruby>などが<ruby>必要<rt data-ruby-level="4">ひつよう</rt></ruby>で、コストがかかるのが<ruby>課題<rt
+  data-ruby-level="4">かだい</rt></ruby>でした。<br /><br /><ruby>九州工業大学<rt data-ruby-level="3">きゅうしゅうこうぎょうだいがく</rt></ruby>の<ruby>浦<rt
+  data-ruby-level="7">うら</rt></ruby><ruby>環<rt data-ruby-level="8">わ</rt></ruby><ruby>特別<rt
+  data-ruby-level="4">とくべつ</rt></ruby><ruby>教授<rt data-ruby-level="5">きょうじゅ</rt></ruby>は「<ruby>海<rt
+  data-ruby-level="2">うみ</rt></ruby>はまだまだ<ruby>知<rt data-ruby-level="2">し</rt></ruby>らないことが<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>い。<ruby>探査<rt data-ruby-level="6">たんさ</rt></ruby>が<ruby>飛躍的<rt
+  data-ruby-level="7">ひやくてき</rt></ruby>に<ruby>進<rt data-ruby-level="3">すす</rt></ruby>み、<ruby>新種<rt
+  data-ruby-level="4">しんしゅ</rt></ruby>の<ruby>生物<rt data-ruby-level="3">せいぶつ</rt></ruby>の<ruby>発見<rt
+  data-ruby-level="3">はっけん</rt></ruby>などにつながるかもしれない」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>しています。
+source_url: https://www3.nhk.or.jp/news/html/20180424/k10011415451000.html
+easy_title_with_ruby: <ruby>海<rt data-ruby-level="2">うみ</rt></ruby>の<ruby>深<rt data-ruby-level="3">ふか</rt></ruby>い<ruby>所<rt
+  data-ruby-level="3">ところ</rt></ruby>で<ruby>生<rt data-ruby-level="3">い</rt></ruby>き<ruby>物<rt
+  data-ruby-level="3">もの</rt></ruby>を<ruby>探<rt data-ruby-level="6">さが</rt></ruby>して<ruby>取<rt
+  data-ruby-level="3">と</rt></ruby>るロボットを<ruby>作<rt data-ruby-level="2">つく</rt></ruby>る
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/04/25/海の深い所で生き物を探して取るロボットを作る
+related_news:
+- title: <ruby>水深<rt data-ruby-level="3">すいしん</rt></ruby>4000メートルの<ruby>深海<rt data-ruby-level="3">しんかい</rt></ruby><ruby>探査<rt
+    data-ruby-level="6">たんさ</rt></ruby>レース <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>チーム<ruby>決勝<rt
+    data-ruby-level="3">けっしょう</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2018/03/08/水深4000メートルの深海探査レース-日本チーム決勝へ
+...
