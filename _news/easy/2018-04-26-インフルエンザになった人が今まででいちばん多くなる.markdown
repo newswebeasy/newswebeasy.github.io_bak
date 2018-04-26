@@ -1,0 +1,62 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011416821000
+last_modified_at: '2018-04-26T17:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>26<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 国立感染症研究所は、去年９月から今月２０日までに約２２３０万人がインフルエンザになったと発表しました。
+title: インフルエンザになった人が今まででいちばん多くなる
+title_with_ruby: インフルエンザになった<ruby>人<rt>ひと</rt></ruby>が<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなる
+outline: 国立感染症研究所は、去年９月から今月２０日までに約２２３０万人がインフルエンザになったと発表しました。
+outline_with_ruby: <ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>９<ruby>月<rt>がつ</rt></ruby>から<ruby>今月<rt>こんげつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>までに<ruby>約<rt>やく</rt></ruby>２２３０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>がインフルエンザになったと<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/25/K10011416821_1804251435_1804251617_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/26/k10011416821000.mp4
+content_with_ruby: "<p><ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>９<ruby>月<rt>がつ</rt></ruby>から<ruby>今月<rt>こんげつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>までに<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>２２３０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>が<span\
+  \ style=\"color: blue;\">インフルエンザ</span>になったと<span style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<ruby>同<rt>おな</rt></ruby>じ<span\
+  \ style=\"color: blue;\"><ruby>方法<rt>ほうほう</rt></ruby></span>で<ruby>調<rt>しら</rt></ruby>べている１２<ruby>年<rt>ねん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>でいちばん<ruby>多<rt>おお</rt></ruby>くなりました。</p>\n\
+  <p><span style=\"color: blue;\">インフルエンザ</span>になった<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\">ウイルス</span>を<ruby>調<rt>しら</rt></ruby>べると、Ｂ<ruby>型<rt>がた</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>４７％でした。<ruby>最近<rt>さいきん</rt></ruby>の５<ruby>年<rt>ねん</rt></ruby>でＢ<ruby>型<rt>がた</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>割合<rt>わりあい</rt></ruby></span>が<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>くなりました。</p>\n\
+  <p><ruby>国立感染症研究所<rt>こくりつかんせんしょうけんきゅうしょ</rt></ruby>は「Ａ<ruby>型<rt>がた</rt></ruby>とＢ<ruby>型<rt>がた</rt></ruby>が<ruby>同<rt>おな</rt></ruby>じ<ruby>時<rt>とき</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>流行<rt>りゅうこう</rt></ruby></span>したので、<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>流行<rt>りゅうこう</rt></ruby></span>になりました。とても<ruby>珍<rt>めずら</rt></ruby>しいのですが、アメリカや<ruby>中国<rt>ちゅうごく</rt></ruby>、アジアなど<ruby>世界<rt>せかい</rt></ruby>でも<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>流行<rt>りゅうこう</rt></ruby></span>になりました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: インフルエンザ
+  descriptions:
+  - のどや<ruby><rb>気管</rb><rt>きかん</rt></ruby>などが、ウイルスによってただれる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。かぜに<ruby><rb>似</rb><rt>に</rt></ruby>ているが、<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>て、うつりやすい。<ruby><rb>流行性感冒</rb><rt>りゅうこうせいかんぼう</rt></ruby>。<ruby><rb>流感</rb><rt>りゅうかん</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 方法
+  descriptions:
+  - ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。
+- word: ウイルス
+  descriptions:
+  - <ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。
+- word: 割合
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>と<ruby><rb>物</rb><rt>もの</rt></ruby>との<ruby><rb>関係</rb><rt>かんけい</rt></ruby>を、<ruby><rb>数</rb><rt>かず</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。<ruby><rb>割</rb><rt>わり</rt></ruby>。<ruby><rb>率</rb><rt>りつ</rt></ruby>。<ruby><rb>歩合</rb><rt>ぶあい</rt></ruby>。
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>いのほか。<ruby><rb>比較的</rb><rt>ひかくてき</rt></ruby>。
+- word: 流行
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>くはやること。はやり。
+source_url: http://www3.nhk.or.jp/news/easy/k10011416821000/k10011416821000.html
+web_title_with_ruby: <ruby>インフルエンザ<rt>いんふるえんざ</rt></ruby><ruby>患者<rt>かんじゃ</rt></ruby>
+  <ruby>推計<rt>すいけい</rt></ruby>2230<ruby>万人<rt>まんにん</rt></ruby><ruby>余<rt>よ</rt></ruby>「かつてない<ruby>大流行<rt>だいりゅうこう</rt></ruby>」に
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/25/インフルエンザ患者-推計2230万人余かつてない大流行に
+related_news:
+- title: インフルエンザの<ruby>流行<rt>りゅうこう</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いている　１<ruby>週間<rt>しゅうかん</rt></ruby>に２８２<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/02/09/インフルエンザの流行が続いている-1週間に282万人
+- title: インフルエンザになった<ruby>人<rt>ひと</rt></ruby>が<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/01/26/インフルエンザになった人が今まででいちばん多くなる
+...

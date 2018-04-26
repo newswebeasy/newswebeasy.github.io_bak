@@ -1,0 +1,64 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011416661000
+last_modified_at: '2018-04-26T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>26<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 愛知県は長久手市にある広い公園にスタジオジブリのアニメ映画をイメージした「ジブリパーク」を作る計画を進めています。
+title: 愛知県　ジブリパークを２０２３年までにオープンしたい
+title_with_ruby: <ruby>愛知県<rt>あいちけん</rt></ruby>　ジブリパークを２０２３<ruby>年<rt>ねん</rt></ruby>までにオープンしたい
+outline: 愛知県は長久手市にある広い公園にスタジオジブリのアニメ映画をイメージした「ジブリパーク」を作る計画を進めています。
+outline_with_ruby: <ruby>愛知県<rt>あいちけん</rt></ruby>は<ruby>長久手市<rt>ながくてし</rt></ruby>にある<ruby>広<rt>ひろ</rt></ruby>い<ruby>公園<rt>こうえん</rt></ruby>にスタジオジブリのアニメ<ruby>映画<rt>えいが</rt></ruby>をイメージした「ジブリパーク」を<ruby>作<rt>つく</rt></ruby>る<ruby>計画<rt>けいかく</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めています。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/25/K10011416661_1804251245_1804251246_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/26/k10011416661000.mp4
+content_with_ruby: "<p><ruby>愛知県<rt>あいちけん</rt></ruby>は<ruby>長久手市<rt>ながくてし</rt></ruby>にある<ruby>広<rt>ひろ</rt></ruby>い<ruby>公園<rt>こうえん</rt></ruby>にスタジオジブリの<span\
+  \ style=\"color: blue;\">アニメ</span><ruby>映画<rt>えいが</rt></ruby>を<span style=\"color:\
+  \ blue;\">イメージ</span>した「ジブリパーク」を<ruby>作<rt>つく</rt></ruby>る<ruby>計画<rt>けいかく</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>進<rt>すす</rt></ruby>め</span>ています。この<ruby>公園<rt>こうえん</rt></ruby>は２００５<ruby>年<rt>ねん</rt></ruby>の<ruby>国際<rt>こくさい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>博覧会<rt>はくらんかい</rt></ruby></span>の<ruby>会場<rt>かいじょう</rt></ruby>だった<ruby>所<rt>ところ</rt></ruby>です。</p>\n\
+  <p>スタジオジブリは「もののけ<ruby>姫<rt>ひめ</rt></ruby>」や「となりのトトロ」などたくさんの<span style=\"color:\
+  \ blue;\">アニメ</span><ruby>映画<rt>えいが</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。ジブリパークには、<span\
+  \ style=\"color: blue;\">アニメ</span>に<ruby>出<rt>で</rt></ruby>てくるいろいろな<ruby>建物<rt>たてもの</rt></ruby>や<span\
+  \ style=\"color: blue;\">キャラクター</span>の<ruby>形<rt>かたち</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>像<rt>ぞう</rt></ruby></span>などができることになりました。</p>\n<p><ruby>愛知県<rt>あいちけん</rt></ruby>は２０２３<ruby>年<rt>ねん</rt></ruby>の３<ruby>月<rt>がつ</rt></ruby>までにジブリパークを<span\
+  \ style=\"color: blue;\">オープン</span>したいと<ruby>言<rt>い</rt></ruby>っています。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: オープン
+  descriptions:
+  - <ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。
+  - かくしだてをしないようす。
+  - おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。
+- word: アニメーション
+  descriptions:
+  - かいた<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>を、<ruby><rb>動</rb><rt>うご</rt></ruby>きに<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>撮影</rb><rt>さつえい</rt></ruby>し、それを<ruby><rb>映</rb><rt>うつ</rt></ruby>して<ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>動</rb><rt>うご</rt></ruby>いているように<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>映画</rb><rt>えいが</rt></ruby>。<ruby><rb>動画</rb><rt>どうが</rt></ruby>。アニメ。
+- word: イメージ
+  descriptions:
+  - <ruby><rb>想像</rb><rt>そうぞう</rt></ruby>して、<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にえがき<ruby><rb>出</rb><rt>だ</rt></ruby>す、ものの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+- word: 進める
+  descriptions:
+  - <ruby><rb>前</rb><rt>まえ</rt></ruby>のほうへ<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+  - <ruby><rb>程度</rb><rt>ていど</rt></ruby>を<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - ものごとを、はかどらせる。
+  - <ruby><rb>時計</rb><rt>とけい</rt></ruby>の<ruby><rb>針</rb><rt>はり</rt></ruby>を<ruby><rb>早</rb><rt>はや</rt></ruby>める。
+- word: 博覧会
+  descriptions:
+  - <ruby><rb>文化</rb><rt>ぶんか</rt></ruby>や<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>についてのいろいろな<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めて、<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せるもよおし。
+- word: キャラクター
+  descriptions:
+  - <ruby><rb>性格</rb><rt>せいかく</rt></ruby>。<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>味</rb><rt>あじ</rt></ruby>。
+  - まんが・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>劇</rb><rt>げき</rt></ruby>などに<ruby><rb>出</rb><rt>で</rt></ruby>てくる<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。
+- word: 像
+  descriptions:
+  - かたち。<ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。
+source_url: http://www3.nhk.or.jp/news/easy/k10011416661000/k10011416661000.html
+web_title_with_ruby: <ruby>ジブリ<rt>じぶり</rt></ruby><ruby>パーク<rt>ぱーく</rt></ruby>2022<ruby>年度<rt>ねんど</rt></ruby><ruby>開業<rt>かいぎょう</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>「<ruby>夢<rt>ゆめ</rt></ruby>と<ruby>ファンタジー<rt>ふぁんたじー</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に」
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/25/ジブリパーク2022年度開業を発表夢とファンタジーの場所に
+related_news:
+- title: <ruby>大林<rt>おおばやし</rt></ruby><ruby>宣彦<rt>のぶひこ</rt></ruby><ruby>監督<rt>かんとく</rt></ruby>「<ruby>広島<rt>ひろしま</rt></ruby>に<ruby>原爆<rt>げんばく</rt></ruby>が<ruby>落<rt>お</rt></ruby>とされるまでを<ruby>映画<rt>えいが</rt></ruby>にする」
+  url: https://newswebeasy.github.io/news/easy/2018/02/23/大林宣彦監督広島に原爆が落とされるまでを映画にする
+- title: アニメーション<ruby>映画<rt>えいが</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>高畑勲<rt>たかはたいさお</rt></ruby>さんが<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/04/06/アニメーション映画で有名な高畑勲さんが亡くなる
+...

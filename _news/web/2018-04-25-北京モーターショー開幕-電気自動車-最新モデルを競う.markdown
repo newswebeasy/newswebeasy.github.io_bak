@@ -1,0 +1,103 @@
+---
+layout: web_news
+categories: web
+newsid: k10011417101000
+title: 北京モーターショー開幕 電気自動車 最新モデルを競う
+title_with_ruby: <ruby>北京<rt data-ruby-level="8">ぺきん</rt></ruby>モーターショー<ruby>開幕<rt
+  data-ruby-level="6">かいまく</rt></ruby> <ruby>電気<rt data-ruby-level="2">でんき</rt></ruby><ruby>自動車<rt
+  data-ruby-level="3">じどうしゃ</rt></ruby> <ruby>最新<rt data-ruby-level="4">さいしん</rt></ruby>モデルを<ruby>競<rt
+  data-ruby-level="7">きそ</rt></ruby>う
+last_modified_at: '2018-04-25T16:10:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>04<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>25<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 16<ruby>時<rt data-ruby-level="2">じ</rt></ruby>10<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 世界最大の自動車市場である中国の北京でモーターショーが始まり、電気自動車の利用が急速に拡大する中国市場に向けて、各メーカーが競って最新モデルを展示しています。
+summary: <ruby>世界<rt data-ruby-level="3">せかい</rt></ruby><ruby>最大<rt data-ruby-level="4">さいだい</rt></ruby>の<ruby>自動車<rt
+  data-ruby-level="3">じどうしゃ</rt></ruby><ruby>市場<rt data-ruby-level="2">しじょう</rt></ruby>である<ruby>中国<rt
+  data-ruby-level="2">ちゅうごく</rt></ruby>の<ruby>北京<rt data-ruby-level="8">ぺきん</rt></ruby>でモーターショーが<ruby>始<rt
+  data-ruby-level="3">はじ</rt></ruby>まり、<ruby>電気<rt data-ruby-level="2">でんき</rt></ruby><ruby>自動車<rt
+  data-ruby-level="3">じどうしゃ</rt></ruby>の<ruby>利用<rt data-ruby-level="4">りよう</rt></ruby>が<ruby>急速<rt
+  data-ruby-level="3">きゅうそく</rt></ruby>に<ruby>拡大<rt data-ruby-level="6">かくだい</rt></ruby>する<ruby>中国<rt
+  data-ruby-level="2">ちゅうごく</rt></ruby><ruby>市場<rt data-ruby-level="2">しじょう</rt></ruby>に<ruby>向<rt
+  data-ruby-level="3">む</rt></ruby>けて、<ruby>各<rt data-ruby-level="4">かく</rt></ruby>メーカーが<ruby>競<rt
+  data-ruby-level="7">きそ</rt></ruby>って<ruby>最新<rt data-ruby-level="4">さいしん</rt></ruby>モデルを<ruby>展示<rt
+  data-ruby-level="6">てんじ</rt></ruby>しています。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/25/K10011417101_1804251627_1804251632_01_02.jpg
+body:
+- text: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>の<ruby>北京<rt data-ruby-level="8">ぺきん</rt></ruby>で２５<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>から<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>まった<ruby>北京<rt
+    data-ruby-level="8">ぺきん</rt></ruby>モーターショーには、１４の<ruby>国<rt data-ruby-level="2">くに</rt></ruby>と<ruby>地域<rt
+    data-ruby-level="6">ちいき</rt></ruby>のメーカーが１０００<ruby>台<rt data-ruby-level="2">だい</rt></ruby><ruby>余<rt
+    data-ruby-level="5">あま</rt></ruby>りの<ruby>車<rt data-ruby-level="1">くるま</rt></ruby>を<ruby>展示<rt
+    data-ruby-level="6">てんじ</rt></ruby>しています。<br /><br /><ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>では、<ruby>大気<rt
+    data-ruby-level="1">たいき</rt></ruby><ruby>汚染<rt data-ruby-level="7">おせん</rt></ruby>を<ruby>減<rt
+    data-ruby-level="5">へ</rt></ruby>らしたい<ruby>国<rt data-ruby-level="2">くに</rt></ruby>の<ruby>政策<rt
+    data-ruby-level="6">せいさく</rt></ruby>もあって<ruby>電気<rt data-ruby-level="2">でんき</rt></ruby><ruby>自動車<rt
+    data-ruby-level="3">じどうしゃ</rt></ruby>の<ruby>利用<rt data-ruby-level="4">りよう</rt></ruby>が<ruby>急速<rt
+    data-ruby-level="3">きゅうそく</rt></ruby>に<ruby>拡大<rt data-ruby-level="6">かくだい</rt></ruby>し、<ruby>去年<rt
+    data-ruby-level="3">きょねん</rt></ruby>の<ruby>販売<rt data-ruby-level="7">はんばい</rt></ruby><ruby>台数<rt
+    data-ruby-level="2">だいすう</rt></ruby>はおよそ４７<ruby>万台<rt data-ruby-level="2">まんだい</rt></ruby>と<ruby>世界<rt
+    data-ruby-level="3">せかい</rt></ruby><ruby>最大<rt data-ruby-level="4">さいだい</rt></ruby>になっています。<br
+    /><br /><ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>のモーターショーでも<ruby>電気<rt
+    data-ruby-level="2">でんき</rt></ruby><ruby>自動車<rt data-ruby-level="3">じどうしゃ</rt></ruby>の<ruby>展示<rt
+    data-ruby-level="6">てんじ</rt></ruby>が<ruby>目立<rt data-ruby-level="1">めだ</rt></ruby>ち、<ruby>中国<rt
+    data-ruby-level="2">ちゅうごく</rt></ruby>の<ruby>大手<rt data-ruby-level="1">おおて</rt></ruby>、<ruby>北京<rt
+    data-ruby-level="8">ぺきん</rt></ruby><ruby>自動車<rt data-ruby-level="3">じどうしゃ</rt></ruby>グループは１<ruby>回<rt
+    data-ruby-level="2">かい</rt></ruby>の<ruby>充電<rt data-ruby-level="7">じゅうでん</rt></ruby>で<ruby>最大<rt
+    data-ruby-level="4">さいだい</rt></ruby>５００キロ<ruby>以上<rt data-ruby-level="4">いじょう</rt></ruby><ruby>走<rt
+    data-ruby-level="2">はし</rt></ruby>れるセダンタイプなど<ruby>幅広<rt data-ruby-level="7">はばひろ</rt></ruby>いモデルを<ruby>展示<rt
+    data-ruby-level="6">てんじ</rt></ruby>しました。<br /><br /><ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>では<ruby>電気<rt
+    data-ruby-level="2">でんき</rt></ruby><ruby>自動車<rt data-ruby-level="3">じどうしゃ</rt></ruby>に<ruby>特化<rt
+    data-ruby-level="4">とっか</rt></ruby>した<ruby>新興<rt data-ruby-level="5">しんこう</rt></ruby>の<ruby>自動車<rt
+    data-ruby-level="3">じどうしゃ</rt></ruby>メーカーも<ruby>増<rt data-ruby-level="5">ふ</rt></ruby>えていて、<ruby>上海<rt
+    data-ruby-level="8">しゃんはい</rt></ruby>のメーカーは<ruby>来年<rt data-ruby-level="2">らいねん</rt></ruby><ruby>発売<rt
+    data-ruby-level="3">はつばい</rt></ruby><ruby>予定<rt data-ruby-level="3">よてい</rt></ruby>の<ruby>大型<rt
+    data-ruby-level="4">おおがた</rt></ruby>のＳＵＶを<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>しました。<br
+    /><br />このほか<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>からは、<ruby>日産自動車<rt
+    data-ruby-level="4">にっさんじどうしゃ</rt></ruby>が<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>で<ruby>人気<rt
+    data-ruby-level="1">にんき</rt></ruby>の<ruby>高<rt data-ruby-level="2">たか</rt></ruby>いセダンタイプの<ruby>電気<rt
+    data-ruby-level="2">でんき</rt></ruby><ruby>自動車<rt data-ruby-level="3">じどうしゃ</rt></ruby>を<ruby>新<rt
+    data-ruby-level="2">あら</rt></ruby>たに<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>し、<ruby>発表<rt
+    data-ruby-level="3">はっぴょう</rt></ruby>しました。<br /><ruby>日産<rt data-ruby-level="4">にっさん</rt></ruby>の<ruby>現地<rt
+    data-ruby-level="5">げんち</rt></ruby><ruby>合弁会社<rt data-ruby-level="5">ごうべんがいしゃ</rt></ruby>の<ruby>内田<rt
+    data-ruby-level="2">うちだ</rt></ruby><ruby>誠<rt data-ruby-level="7">まこと</rt></ruby><ruby>総裁<rt
+    data-ruby-level="6">そうさい</rt></ruby>は「<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>の<ruby>電気<rt
+    data-ruby-level="2">でんき</rt></ruby><ruby>自動車<rt data-ruby-level="3">じどうしゃ</rt></ruby>の<ruby>市場<rt
+    data-ruby-level="2">しじょう</rt></ruby>は<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きく<ruby>伸<rt
+    data-ruby-level="7">の</rt></ruby>びているが<ruby>消費者<rt data-ruby-level="4">しょうひしゃ</rt></ruby>のニーズの<ruby>変化<rt
+    data-ruby-level="4">へんか</rt></ruby>が<ruby>早<rt data-ruby-level="1">はや</rt></ruby>い。いかに<ruby>市場<rt
+    data-ruby-level="2">しじょう</rt></ruby>に<ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせた<ruby>車<rt
+    data-ruby-level="1">くるま</rt></ruby>を<ruby>投入<rt data-ruby-level="3">とうにゅう</rt></ruby>できるかが<ruby>今後<rt
+    data-ruby-level="2">こんご</rt></ruby>のカギになる」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。<br
+    /><br /><ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>では<ruby>来年<rt data-ruby-level="2">らいねん</rt></ruby>から、<ruby>生産<rt
+    data-ruby-level="4">せいさん</rt></ruby><ruby>台数<rt data-ruby-level="2">だいすう</rt></ruby>の<ruby>一定量<rt
+    data-ruby-level="4">いっていりょう</rt></ruby>を<ruby>電気<rt data-ruby-level="2">でんき</rt></ruby><ruby>自動車<rt
+    data-ruby-level="3">じどうしゃ</rt></ruby>など<ruby>新<rt data-ruby-level="2">しん</rt></ruby>エネルギー<ruby>車<rt
+    data-ruby-level="1">しゃ</rt></ruby>にすることをメーカーに<ruby>義務<rt data-ruby-level="5">ぎむ</rt></ruby>づける<ruby>制度<rt
+    data-ruby-level="5">せいど</rt></ruby>が<ruby>導入<rt data-ruby-level="5">どうにゅう</rt></ruby>される<ruby>予定<rt
+    data-ruby-level="3">よてい</rt></ruby>で、<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby><ruby>競争<rt
+    data-ruby-level="4">きょうそう</rt></ruby>がさらに<ruby>激<rt data-ruby-level="6">はげ</rt></ruby>しくなりそうです。
+  image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/25/K10011417101_1804251627_1804251632_01_03.jpg
+source_url: https://www3.nhk.or.jp/news/html/20180425/k10011417101000.html
+easy_title_with_ruby: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>の<ruby>北京<rt
+  data-ruby-level="8">ぺきん</rt></ruby>でモーターショー たくさんの<ruby>電気<rt data-ruby-level="2">でんき</rt></ruby><ruby>自動車<rt
+  data-ruby-level="3">じどうしゃ</rt></ruby>を<ruby>紹介<rt data-ruby-level="7">しょうかい</rt></ruby>
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/04/26/中国の北京でモーターショー-たくさんの電気自動車を紹介
+related_news:
+- title: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>ＢＹＤの<ruby>電気<rt data-ruby-level="2">でんき</rt></ruby><ruby>自動車<rt
+    data-ruby-level="3">じどうしゃ</rt></ruby> タイで<ruby>高級<rt data-ruby-level="3">こうきゅう</rt></ruby>タクシーとして<ruby>導入<rt
+    data-ruby-level="5">どうにゅう</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2018/03/19/中国BYDの電気自動車-タイで高級タクシーとして導入へ
+- title: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>が<ruby>北極圏<rt data-ruby-level="7">ほっきょくけん</rt></ruby><ruby>開発<rt
+    data-ruby-level="3">かいはつ</rt></ruby>に<ruby>意欲<rt data-ruby-level="6">いよく</rt></ruby>
+    <ruby>初<rt data-ruby-level="4">はつ</rt></ruby>の<ruby>白書<rt data-ruby-level="2">はくしょ</rt></ruby>を<ruby>発表<rt
+    data-ruby-level="3">はっぴょう</rt></ruby> <ruby>権益<rt data-ruby-level="6">けんえき</rt></ruby><ruby>確保<rt
+    data-ruby-level="5">かくほ</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2018/01/26/中国が北極圏開発に意欲-初の白書を発表-権益確保へ
+- title: 35<ruby>万<rt data-ruby-level="2">まん</rt></ruby><ruby>円<rt data-ruby-level="1">えん</rt></ruby>の<ruby>模型<rt
+    data-ruby-level="6">もけい</rt></ruby>を<ruby>即<rt data-ruby-level="7">そく</rt></ruby><ruby>購入<rt
+    data-ruby-level="7">こうにゅう</rt></ruby>も <ruby>日本製<rt data-ruby-level="5">にほんせい</rt></ruby>フィギュアなど<ruby>展示<rt
+    data-ruby-level="6">てんじ</rt></ruby><ruby>即売会<rt data-ruby-level="7">そくばいかい</rt></ruby>
+    <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/04/06/35万円の模型を即購入も-日本製フィギュアなど展示即売会-中国
+...
