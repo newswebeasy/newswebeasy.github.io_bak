@@ -1,0 +1,69 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011416971000
+last_modified_at: '2018-04-27T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ４月の終わりから５月の初めに連休があります。
+title: 連休中の旅行　２泊３日が増えて最後の１日は家で休む
+title_with_ruby: <ruby>連休<rt>れんきゅう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>　２<ruby>泊<rt>はく</rt></ruby><ruby>３日<rt>みっか</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えて<ruby>最後<rt>さいご</rt></ruby>の１<ruby>日<rt>にち</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>で<ruby>休<rt>やす</rt></ruby>む
+outline: ４月の終わりから５月の初めに連休があります。
+outline_with_ruby: ４<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりから５<ruby>月<rt>がつ</rt></ruby>の<ruby>初<rt>はじ</rt></ruby>めに<ruby>連休<rt>れんきゅう</rt></ruby>があります。
+image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/25/K10011416971_1804251522_1804251523_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201804/news/easy/voice/2018/04/27/k10011416971000.mp4
+content_with_ruby: "<p>４<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりから５<ruby>月<rt>がつ</rt></ruby>の<ruby>初<rt>はじ</rt></ruby>めに<span\
+  \ style=\"color: blue;\"><ruby>連休<rt>れんきゅう</rt></ruby></span>があります。<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>のＪＴＢは<span\
+  \ style=\"color: blue;\"><ruby>連休<rt>れんきゅう</rt></ruby></span><ruby>中<rt>ちゅう</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>について<ruby>日本<rt>にっぽん</rt></ruby>の１２００<ruby>人<rt>にん</rt></ruby>に<span\
+  \ style=\"color: blue;\">アンケート</span>をしました。</p>\n<p><span style=\"color: blue;\"\
+  ><ruby>国内<rt>こくない</rt></ruby></span>で<ruby>旅行<rt>りょこう</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>に<ruby>何<rt>なん</rt></ruby><ruby>日<rt>にち</rt></ruby>ぐらい<ruby>旅行<rt>りょこう</rt></ruby>をするか<ruby>聞<rt>き</rt></ruby>きました。「１<span\
+  \ style=\"color: blue;\"><ruby>泊<rt>ぱく</rt></ruby></span><ruby>２日<rt>ふつか</rt></ruby>」は<ruby>去年<rt>きょねん</rt></ruby>とほとんど<ruby>同<rt>おな</rt></ruby>じで４３％でしたが、「２<span\
+  \ style=\"color: blue;\"><ruby>泊<rt>はく</rt></ruby></span><ruby>３日<rt>みっか</rt></ruby>」は<ruby>去年<rt>きょねん</rt></ruby>より９<span\
+  \ style=\"color: blue;\">ポイント</span>ぐらい<ruby>増<rt>ふ</rt></ruby>えて３８％でした。</p>\n<p><ruby>今年<rt>ことし</rt></ruby>は４<ruby>月<rt>がつ</rt></ruby>２８<ruby>日<rt>にち</rt></ruby>から３０<ruby>日<rt>にち</rt></ruby>までと、５<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>から<ruby>６日<rt>むいか</rt></ruby>までが<span\
+  \ style=\"color: blue;\"><ruby>連休<rt>れんきゅう</rt></ruby></span>になる<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いため、この２つの<span\
+  \ style=\"color: blue;\"><ruby>連休<rt>れんきゅう</rt></ruby></span>のどちらかに２<span style=\"\
+  color: blue;\"><ruby>泊<rt>はく</rt></ruby></span><ruby>３日<rt>みっか</rt></ruby>で<ruby>旅行<rt>りょこう</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えたようです。<span\
+  \ style=\"color: blue;\"><ruby>連休<rt>れんきゅう</rt></ruby></span>の<ruby>最後<rt>さいご</rt></ruby>の１<ruby>日<rt>にち</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>で<ruby>休<rt>やす</rt></ruby>みたいと<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>は４８％いました。</p>\n\
+  <p><ruby>旅行<rt>りょこう</rt></ruby>に<ruby>使<rt>つか</rt></ruby>うお<ruby>金<rt>かね</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>は<ruby>１人<rt>ひとり</rt></ruby>３<ruby>万<rt>まん</rt></ruby>６２００<ruby>円<rt>えん</rt></ruby>で、<ruby>去年<rt>きょねん</rt></ruby>より<ruby>少<rt>すこ</rt></ruby>し<ruby>増<rt>ふ</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 連休
+  descriptions:
+  - <ruby><rb>休</rb><rt>やす</rt></ruby>みの<ruby><rb>日</rb><rt>ひ</rt></ruby>が<ruby><rb>続</rb><rt>つづ</rt></ruby>くこと。また、<ruby><rb>続</rb><rt>つづ</rt></ruby>いた<ruby><rb>休日</rb><rt>きゅうじつ</rt></ruby>。
+- word: 泊
+  descriptions:
+  - <ruby><rb>船</rb><rt>ふね</rt></ruby>が<ruby><rb>港</rb><rt>みなと</rt></ruby>にとまる。
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>家</rb><rt>いえ</rt></ruby>でない<ruby><rb>所</rb><rt>ところ</rt></ruby>にとまる。
+  - あっさりしている。
+  - とまった<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: アンケート
+  descriptions:
+  - たくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>問</rb><rt>と</rt></ruby>い<ruby><rb>合</rb><rt>あ</rt></ruby>わせ、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>書</rb><rt>か</rt></ruby>いてもらって、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>調</rb><rt>しら</rt></ruby>べる<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。
+- word: 国内
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>。<ruby><rb>領土</rb><rt>りょうど</rt></ruby>の<ruby><rb>内側</rb><rt>うちがわ</rt></ruby>。
+- word: ポイント
+  descriptions:
+  - <ruby><rb>点</rb><rt>てん</rt></ruby>。<ruby><rb>要点</rb><rt>ようてん</rt></ruby>。
+  - <ruby><rb>得点</rb><rt>とくてん</rt></ruby>。<ruby><rb>点数</rb><rt>てんすう</rt></ruby>。
+  - <ruby><rb>線路</rb><rt>せんろ</rt></ruby>の<ruby><rb>分</rb><rt>わ</rt></ruby>かれ<ruby><rb>目</rb><rt>め</rt></ruby>で、<ruby><rb>車両</rb><rt>しゃりょう</rt></ruby>を<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れかえる<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>転</rb><rt>てん</rt></ruby>てつ<ruby><rb>機</rb><rt>き</rt></ruby>。
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+source_url: http://www3.nhk.or.jp/news/easy/k10011416971000/k10011416971000.html
+web_title_with_ruby: <ruby>大型<rt>おおがた</rt></ruby><ruby>連休<rt>れんきゅう</rt></ruby>は「２<ruby>泊<rt>はく</rt></ruby>３<ruby>日<rt>にち</rt></ruby>」と「<ruby>インスタ<rt>いんすた</rt></ruby><ruby>映<rt>は</rt></ruby>え」
+web_news_url: https://newswebeasy.github.io/news/web/2018/04/25/大型連休は2泊3日とインスタ映え
+related_news:
+- title: <ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>外国人<rt>がいこくじん</rt></ruby>は２５６<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>　<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2018/03/28/日本に住んでいる外国人は256万人-今までで最も多い
+- title: <ruby>成田空港<rt>なりたくうこう</rt></ruby>　<ruby>連休<rt>れんきゅう</rt></ruby>に<ruby>国際線<rt>こくさいせん</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>は８６<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/25/成田空港-連休に国際線を利用する人は86万人以上
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>　<ruby>春節<rt>しゅんせつ</rt></ruby>の<ruby>休<rt>やす</rt></ruby>みに６５０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>が<ruby>外国<rt>がいこく</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/02/16/中国-春節の休みに650万人が外国旅行に行く
+- title: <ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>警察<rt>けいさつ</rt></ruby>が<ruby>落<rt>お</rt></ruby>とし<ruby>物<rt>もの</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>係<rt>かかり</rt></ruby>をつくる
+  url: https://newswebeasy.github.io/news/easy/2018/04/19/沖縄県の警察が落とし物の仕事をする係をつくる
+- title: <ruby>倒産<rt>とうさん</rt></ruby>した<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える　<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りないことなどが<ruby>原因<rt>げんいん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/11/倒産した会社が増える-働く人が足りないことなどが原因
+...
