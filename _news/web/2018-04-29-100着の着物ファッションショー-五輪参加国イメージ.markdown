@@ -16,7 +16,7 @@ summary: <ruby>再来年<rt data-ruby-level="5">さらいねん</rt></ruby>の<r
   data-ruby-level="3">きもの</rt></ruby>を<ruby>披露<rt data-ruby-level="7">ひろう</rt></ruby>するファッションショーが、<ruby>福岡県<rt
   data-ruby-level="7">ふくおかけん</rt></ruby><ruby>久留米市<rt data-ruby-level="8">くるめし</rt></ruby>で、<ruby>開<rt
   data-ruby-level="3">ひら</rt></ruby>かれました。
-image_url: https://newswebeasy.github.io/ja201804/news/web/image/2018/04/29/K10011422781_1804292006_1804292021_01_02.jpg
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/04/29/K10011422781_1804292006_1804292021_01_02.jpg
 more: ファッションショーは、<ruby>高校生<rt data-ruby-level="2">こうこうせい</rt></ruby>などがモデルとなって<ruby>久留米<rt
   data-ruby-level="8">くるめ</rt></ruby><ruby>市内<rt data-ruby-level="2">しない</rt></ruby>のホールで<ruby>開<rt
   data-ruby-level="3">ひら</rt></ruby>かれました。<br /><br /><ruby>披露<rt data-ruby-level="7">ひろう</rt></ruby>された１００<ruby>着<rt
@@ -52,9 +52,13 @@ more: ファッションショーは、<ruby>高校生<rt data-ruby-level="2">�
   data-ruby-level="2">ぶん</rt></ruby>がそろう<ruby>予定<rt data-ruby-level="3">よてい</rt></ruby>で、<ruby>企画<rt
   data-ruby-level="7">きかく</rt></ruby>した<ruby>呉服店<rt data-ruby-level="7">ごふくてん</rt></ruby>は<ruby>開会式<rt
   data-ruby-level="3">かいかいしき</rt></ruby>などで<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>してほしいとしています。
-movie_url: https://newswebeasy.github.io/ja201804/news/web/movie/2018/04/29/k10011422781_201804292026_201804292029.mp4
-voice_url: https://newswebeasy.github.io/ja201804/news/web/voice/2018/04/29/k10011422781_201804292026_201804292029.mp3
+movie_url: https://newswebeasy.github.io/ja201805/news/web/movie/2018/04/29/k10011422781_201804292026_201804292029.mp4
+voice_url: https://newswebeasy.github.io/ja201805/news/web/voice/2018/04/29/k10011422781_201804292026_201804292029.mp3
 source_url: https://www3.nhk.or.jp/news/html/20180429/k10011422781000.html
+easy_title_with_ruby: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>オリンピックに<ruby>出<rt
+  data-ruby-level="1">で</rt></ruby>る<ruby>国<rt data-ruby-level="2">くに</rt></ruby>をイメージした<ruby>着物<rt
+  data-ruby-level="3">きもの</rt></ruby>のショー
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/05/01/東京オリンピックに出る国をイメージした着物のショー
 related_news:
 - title: ピョンチャンパラリンピックきょう<ruby>開幕<rt data-ruby-level="6">かいまく</rt></ruby> <ruby>予想<rt
     data-ruby-level="3">よそう</rt></ruby><ruby>気温<rt data-ruby-level="3">きおん</rt></ruby>は<ruby>氷点下<rt
