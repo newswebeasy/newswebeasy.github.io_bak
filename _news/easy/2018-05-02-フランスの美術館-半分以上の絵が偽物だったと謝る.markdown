@@ -1,0 +1,63 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011423761000
+last_modified_at: '2018-05-02T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>02<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: エティエンヌ・テルスという画家はフランスのエルヌという町の出身で、美しい景色の絵をかいていました。
+title: フランスの美術館　半分以上の絵が偽物だったと謝る
+title_with_ruby: フランスの<ruby>美術館<rt>びじゅつかん</rt></ruby>　<ruby>半分<rt>はんぶん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>絵<rt>え</rt></ruby>が<ruby>偽物<rt>にせもの</rt></ruby>だったと<ruby>謝<rt>あやま</rt></ruby>る
+outline: エティエンヌ・テルスという画家はフランスのエルヌという町の出身で、美しい景色の絵をかいていました。
+outline_with_ruby: エティエンヌ・テルスという<ruby>画家<rt>がか</rt></ruby>はフランスのエルヌという<ruby>町<rt>まち</rt></ruby>の<ruby>出身<rt>しゅっしん</rt></ruby>で、<ruby>美<rt>うつく</rt></ruby>しい<ruby>景色<rt>けしき</rt></ruby>の<ruby>絵<rt>え</rt></ruby>をかいていました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/01/K10011423761_1805010449_1805010451_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/02/k10011423761000.mp4
+content_with_ruby: "<p>エティエンヌ・テルスという<span style=\"color: blue;\"><ruby>画家<rt>がか</rt></ruby></span>はフランスのエルヌという<ruby>町<rt>まち</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>出身<rt>しゅっしん</rt></ruby></span>で、<ruby>美<rt>うつく</rt></ruby>しい<ruby>景色<rt>けしき</rt></ruby>の<ruby>絵<rt>え</rt></ruby>をかいていました。この<ruby>町<rt>まち</rt></ruby>にある<ruby>美術館<rt>びじゅつかん</rt></ruby>は、テルスの<ruby>絵<rt>え</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めています。</p>\n\
+  <p>しかし、<ruby>美術館<rt>びじゅつかん</rt></ruby>にはテルスがかいた<ruby>絵<rt>え</rt></ruby>かどうかわからない<ruby>絵<rt>え</rt></ruby>があると<ruby>言<rt>い</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>がいました。<ruby>美術館<rt>びじゅつかん</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べると、１４０の<ruby>絵<rt>え</rt></ruby>のうち８２は、テルスがかいた<ruby>絵<rt>え</rt></ruby>ではない<span\
+  \ style=\"color: blue;\"><ruby>偽物<rt>にせもの</rt></ruby></span>だとわかりました。このため、<ruby>美術館<rt>びじゅつかん</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>偽物<rt>にせもの</rt></ruby></span>の<ruby>絵<rt>え</rt></ruby>を<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>片<rt>かた</rt></ruby>づけて<ruby>新<rt>あたら</rt></ruby>しく<span\
+  \ style=\"color: blue;\">オープン</span>しました。</p>\n<p>エルヌは「<span style=\"color: blue;\"\
+  ><ruby>芸術<rt>げいじゅつ</rt></ruby></span>の<ruby>町<rt>まち</rt></ruby>」にするためにこの<ruby>美術館<rt>びじゅつかん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>宣伝<rt>せんでん</rt></ruby></span>していました。<ruby>町<rt>まち</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>代表<rt>だいひょう</rt></ruby></span>は、<ruby>今<rt>いま</rt></ruby>までに<ruby>美術館<rt>びじゅつかん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちに<ruby>謝<rt>あやま</rt></ruby>りました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 偽物
+  descriptions:
+  - <ruby><rb>本物</rb><rt>ほんもの</rt></ruby>に<ruby><rb>似</rb><rt>に</rt></ruby>せて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 画家
+  descriptions:
+  - <ruby><rb>絵</rb><rt>え</rt></ruby>をかくことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>絵</rb><rt>え</rt></ruby>かき。
+- word: 出身
+  descriptions:
+  - その<ruby><rb>土地</rb><rt>とち</rt></ruby>で<ruby><rb>生</rb><rt>う</rt></ruby>まれたこと。
+  - その<ruby><rb>学校</rb><rt>がっこう</rt></ruby>を<ruby><rb>卒業</rb><rt>そつぎょう</rt></ruby>したこと。
+- word: オープン
+  descriptions:
+  - <ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。
+  - かくしだてをしないようす。
+  - おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。
+- word: 芸術
+  descriptions:
+  - <ruby><rb>自然</rb><rt>しぜん</rt></ruby>や<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>心</rb><rt>こころ</rt></ruby>・<ruby><rb>考</rb><rt>かんが</rt></ruby>え・<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>などを、<ruby><rb>音</rb><rt>おと</rt></ruby>・<ruby><rb>色</rb><rt>いろ</rt></ruby>・<ruby><rb>形</rb><rt>かたち</rt></ruby>・ことばなどによって<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、<ruby><rb>表</rb><rt>あらわ</rt></ruby>した<ruby><rb>作品</rb><rt>さくひん</rt></ruby>。<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>・<ruby><rb>絵</rb><rt>え</rt></ruby>・<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>・<ruby><rb>文学</rb><rt>ぶんがく</rt></ruby>・<ruby><rb>演劇</rb><rt>えんげき</rt></ruby>・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>など。
+- word: 宣伝
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>らせ<ruby><rb>広</rb><rt>ひろ</rt></ruby>めること。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>げさに<ruby><rb>言</rb><rt>い</rt></ruby>いふらすこと。
+- word: 代表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって<ruby><rb>何</rb><rt>なに</rt></ruby>かをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>で<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>特色</rb><rt>とくしょく</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、そのもの。
+source_url: http://www3.nhk.or.jp/news/easy/k10011423761000/k10011423761000.html
+web_title_with_ruby: <ruby>美術館<rt>びじゅつかん</rt></ruby><ruby>絵画<rt>かいが</rt></ruby>の<ruby>半数<rt>はんすう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>“がん<ruby>作<rt>さく</rt></ruby>”で<ruby>謝罪<rt>しゃざい</rt></ruby>
+  <ruby>フランス<rt>ふらんす</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/01/美術館絵画の半数以上がん作で謝罪-フランス
+related_news:
+- title: <ruby>香港<rt>ほんこん</rt></ruby>　<ruby>香取<rt>かとり</rt></ruby><ruby>慎吾<rt>しんご</rt></ruby>さんが<ruby>壁<rt>かべ</rt></ruby>にかいた<ruby>絵<rt>え</rt></ruby>を<ruby>見<rt>み</rt></ruby>せる
+  url: https://newswebeasy.github.io/news/easy/2018/03/29/香港-香取慎吾さんが壁にかいた絵を見せる
+- title: ニューヨークで<ruby>日本<rt>にっぽん</rt></ruby>にいるような<ruby>写真<rt>しゃしん</rt></ruby>が<ruby>撮<rt>と</rt></ruby>れるイベント
+  url: https://newswebeasy.github.io/news/easy/2018/03/16/ニューヨークで日本にいるような写真が撮れるイベント
+- title: <ruby>島根県<rt>しまねけん</rt></ruby>の<ruby>足立美術館<rt>あだちびじゅつかん</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>庭園<rt>ていえん</rt></ruby>のランキングで１<ruby>番<rt>ばん</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/02/09/島根県の足立美術館が日本の庭園のランキングで1番になる
+...

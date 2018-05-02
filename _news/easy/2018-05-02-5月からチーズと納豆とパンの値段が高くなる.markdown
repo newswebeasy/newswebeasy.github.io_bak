@@ -1,0 +1,70 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011423691000
+last_modified_at: '2018-05-02T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>02<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 「雪印メグミルク」と「森永乳業」は５月１日からチーズの値段を２％から１７％高くしました。
+title: ５月からチーズと納豆とパンの値段が高くなる
+title_with_ruby: ５<ruby>月<rt>がつ</rt></ruby>からチーズと<ruby>納豆<rt>なっとう</rt></ruby>とパンの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなる
+outline: 「雪印メグミルク」と「森永乳業」は５月１日からチーズの値段を２％から１７％高くしました。
+outline_with_ruby: 「<ruby>雪印<rt>ゆきじるし</rt></ruby>メグミルク」と「<ruby>森永乳業<rt>もりながにゅうぎょう</rt></ruby>」は５<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>からチーズの<ruby>値段<rt>ねだん</rt></ruby>を２％から１７％<ruby>高<rt>たか</rt></ruby>くしました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/01/K10011423691_1805010018_1805010425_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/02/k10011423691000.mp4
+content_with_ruby: "<p>「<ruby>雪印<rt>ゆきじるし</rt></ruby>メグミルク」と「<ruby>森永乳業<rt>もりながにゅうぎょう</rt></ruby>」は５<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から<span\
+  \ style=\"color: blue;\">チーズ</span>の<ruby>値段<rt>ねだん</rt></ruby>を２％から１７％<ruby>高<rt>たか</rt></ruby>くしました。「<ruby>明治<rt>めいじ</rt></ruby>」も６<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から<ruby>高<rt>たか</rt></ruby>くします。<ruby>理由<rt>りゆう</rt></ruby>は<span\
+  \ style=\"color: blue;\">チーズ</span>を<ruby>作<rt>つく</rt></ruby>るときに<ruby>必要<rt>ひつよう</rt></ruby>な<span\
+  \ style=\"color: blue;\">ミルク</span>が<ruby>高<rt>たか</rt></ruby>くなったためです。<ruby>値段<rt>ねだん</rt></ruby>を<ruby>変<rt>か</rt></ruby>えないで、<span\
+  \ style=\"color: blue;\"><ruby>量<rt>りょう</rt></ruby></span>を<ruby>少<rt>すく</rt></ruby>なくする<span\
+  \ style=\"color: blue;\">チーズ</span>もあります。</p>\n<p>「タカノフーズ」は５<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>納豆<rt>なっとう</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>を１０％から２０％<ruby>高<rt>たか</rt></ruby>くしました。「Ｍｉｚｋａｎ」も６<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から<ruby>高<rt>たか</rt></ruby>くします。<span\
+  \ style=\"color: blue;\"><ruby>納豆<rt>なっとう</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>るときに<ruby>必要<rt>ひつよう</rt></ruby>な<span\
+  \ style=\"color: blue;\"><ruby>大豆<rt>だいず</rt></ruby></span>や、<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>などが<ruby>高<rt>たか</rt></ruby>くなったためです。</p>\n\
+  <p>「<ruby>山崎製<rt>やまざきせい</rt></ruby>パン」は５<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>干<rt>ほ</rt></ruby>し</span>たぶどうを<ruby>使<rt>つか</rt></ruby>った７つのパンの<ruby>値段<rt>ねだん</rt></ruby>を<ruby>高<rt>たか</rt></ruby>くしたり、<span\
+  \ style=\"color: blue;\"><ruby>量<rt>りょう</rt></ruby></span>を<ruby>少<rt>すく</rt></ruby>なくしたりしました。アメリカでぶどうがあまり<span\
+  \ style=\"color: blue;\"><ruby>育<rt>そだ</rt></ruby>た</span>なかったことなどが<ruby>理由<rt>りゆう</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: チーズ
+  descriptions:
+  - <ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>などを<ruby><rb>発酵</rb><rt>はっこう</rt></ruby>させて、<ruby><rb>固</rb><rt>かた</rt></ruby>めた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 納豆
+  descriptions:
+  - むした<ruby><rb>大豆</rb><rt>だいず</rt></ruby>に、なっとう<ruby><rb>菌</rb><rt>きん</rt></ruby>をはたらかせてつくった<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: ミルク
+  descriptions:
+  - <ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>。
+  - <ruby><rb>牛乳</rb><rt>ぎゅうにゅう</rt></ruby>をにつめたり、<ruby><rb>粉</rb><rt>こな</rt></ruby>にしたりしたもの。
+- word: 量
+  descriptions:
+  - かさ。ますめ。
+  - ものをはかる。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>広</rb><rt>ひろ</rt></ruby>さ。<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさ。
+- word: 大豆
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>豆</rb><rt>まめ</rt></ruby>の<ruby><rb>一種</rb><rt>いっしゅ</rt></ruby>。<ruby><rb>種</rb><rt>たね</rt></ruby>には、たんぱく<ruby><rb>質</rb><rt>しつ</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>く、とうふ・みそ・なっとうなどにする。
+- word: 給料
+  descriptions:
+  - やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。
+- word: 干す
+  descriptions:
+  - かわかす。
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>っている<ruby><rb>水</rb><rt>みず</rt></ruby>などをすっかりなくす。
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>などをさせないでおく。
+- word: 育つ
+  descriptions:
+  - <ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+  - <ruby><rb>一人前</rb><rt>いちにんまえ</rt></ruby>になる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011423691000/k10011423691000.html
+web_title_with_ruby: <ruby>チーズ<rt>ちーず</rt></ruby>や<ruby>納豆<rt>なっとう</rt></ruby> <ruby>小麦粉<rt>こむぎこ</rt></ruby>も
+  <ruby>今月<rt>こんげつ</rt></ruby><ruby>以降<rt>いこう</rt></ruby><ruby>値上<rt>ねあ</rt></ruby>げ<ruby>相次<rt>あいつ</rt></ruby>ぐ
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/01/チーズや納豆-小麦粉も-今月以降値上げ相次ぐ
+related_news:
+- title: ４<ruby>月<rt>がつ</rt></ruby>から<ruby>食料品<rt>しょくりょうひん</rt></ruby>などの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がる
+  url: https://newswebeasy.github.io/news/easy/2018/04/02/4月から食料品などの値段が上がる
+- title: <ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby>　<ruby>高<rt>たか</rt></ruby>かった<ruby>野菜<rt>やさい</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>安<rt>やす</rt></ruby>くなってきた
+  url: https://newswebeasy.github.io/news/easy/2018/03/23/農林水産省-高かった野菜が少しずつ安くなってきた
+...
