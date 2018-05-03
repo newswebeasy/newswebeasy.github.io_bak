@@ -1,0 +1,63 @@
+---
+layout: web_news
+categories: web
+newsid: k10011426101000
+title: フェイスブックの個人データ流用問題 英データ分析会社 破産申請
+title_with_ruby: フェイスブックの<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>データ<ruby>流用<rt
+  data-ruby-level="3">りゅうよう</rt></ruby><ruby>問題<rt data-ruby-level="3">もんだい</rt></ruby>
+  <ruby>英<rt data-ruby-level="4">えい</rt></ruby>データ<ruby>分析<rt data-ruby-level="7">ぶんせき</rt></ruby><ruby>会社<rt
+  data-ruby-level="2">がいしゃ</rt></ruby> <ruby>破産<rt data-ruby-level="5">はさん</rt></ruby><ruby>申請<rt
+  data-ruby-level="7">しんせい</rt></ruby>
+last_modified_at: '2018-05-03T09:58:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>05<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>03<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 09<ruby>時<rt data-ruby-level="2">じ</rt></ruby>58<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 世界最大の交流サイトを運営するフェイスブックから流出した大量の個人データを不正に得て、おととしのアメリカ大統領選挙の選挙対策などに流用したとされるイギリスのデータ分析会社が、すべての事業を取りやめて破産を申請すると発表しました。
+summary: <ruby>世界<rt data-ruby-level="3">せかい</rt></ruby><ruby>最大<rt data-ruby-level="4">さいだい</rt></ruby>の<ruby>交流<rt
+  data-ruby-level="3">こうりゅう</rt></ruby>サイトを<ruby>運営<rt data-ruby-level="5">うんえい</rt></ruby>するフェイスブックから<ruby>流出<rt
+  data-ruby-level="3">りゅうしゅつ</rt></ruby>した<ruby>大量<rt data-ruby-level="4">たいりょう</rt></ruby>の<ruby>個人<rt
+  data-ruby-level="5">こじん</rt></ruby>データを<ruby>不正<rt data-ruby-level="4">ふせい</rt></ruby>に<ruby>得<rt
+  data-ruby-level="4">え</rt></ruby>て、おととしのアメリカ<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby><ruby>選挙<rt
+  data-ruby-level="4">せんきょ</rt></ruby>の<ruby>選挙<rt data-ruby-level="4">せんきょ</rt></ruby><ruby>対策<rt
+  data-ruby-level="6">たいさく</rt></ruby>などに<ruby>流用<rt data-ruby-level="3">りゅうよう</rt></ruby>したとされるイギリスのデータ<ruby>分析<rt
+  data-ruby-level="7">ぶんせき</rt></ruby><ruby>会社<rt data-ruby-level="2">がいしゃ</rt></ruby>が、すべての<ruby>事業<rt
+  data-ruby-level="3">じぎょう</rt></ruby>を<ruby>取<rt data-ruby-level="3">と</rt></ruby>りやめて<ruby>破産<rt
+  data-ruby-level="5">はさん</rt></ruby>を<ruby>申請<rt data-ruby-level="7">しんせい</rt></ruby>すると<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/03/K10011426101_1805031025_1805031046_01_02.jpg
+more: アメリカのフェイスブックは、イギリスの<ruby>大学<rt data-ruby-level="1">だいがく</rt></ruby><ruby>教授<rt
+  data-ruby-level="5">きょうじゅ</rt></ruby>が<ruby>最大<rt data-ruby-level="4">さいだい</rt></ruby>で８７００<ruby>万<rt
+  data-ruby-level="2">まん</rt></ruby><ruby>人分<rt data-ruby-level="2">にんぶん</rt></ruby>の<ruby>利用者<rt
+  data-ruby-level="4">りようしゃ</rt></ruby>の<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>データを<ruby>得<rt
+  data-ruby-level="4">え</rt></ruby>て、イギリスのデータ<ruby>分析<rt data-ruby-level="7">ぶんせき</rt></ruby><ruby>会社<rt
+  data-ruby-level="2">がいしゃ</rt></ruby>「ケンブリッジ・アナリティカ」に<ruby>渡<rt data-ruby-level="7">わた</rt></ruby>していたことを<ruby>明<rt
+  data-ruby-level="2">あき</rt></ruby>らかにしており、この<ruby>会社<rt data-ruby-level="2">かいしゃ</rt></ruby>が、これらの<ruby>不正<rt
+  data-ruby-level="4">ふせい</rt></ruby>に<ruby>得<rt data-ruby-level="4">え</rt></ruby>たデータをおととしのアメリカ<ruby>大統領<rt
+  data-ruby-level="5">だいとうりょう</rt></ruby><ruby>選挙<rt data-ruby-level="4">せんきょ</rt></ruby>でトランプ<ruby>陣営<rt
+  data-ruby-level="7">じんえい</rt></ruby>の<ruby>選挙<rt data-ruby-level="4">せんきょ</rt></ruby><ruby>対策<rt
+  data-ruby-level="6">たいさく</rt></ruby>などに<ruby>流用<rt data-ruby-level="3">りゅうよう</rt></ruby>したとされています。<br
+  /><br />ケンブリッジ・アナリティカは２<ruby>日<rt data-ruby-level="1">にち</rt></ruby>、<ruby>声明<rt
+  data-ruby-level="2">せいめい</rt></ruby>を<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>し、「この<ruby>数<rt
+  data-ruby-level="2">すう</rt></ruby>か<ruby>月間<rt data-ruby-level="2">げつかん</rt></ruby>、<ruby>根拠<rt
+  data-ruby-level="7">こんきょ</rt></ruby>のない<ruby>批判<rt data-ruby-level="6">ひはん</rt></ruby>にさらされ、<ruby>中傷<rt
+  data-ruby-level="6">ちゅうしょう</rt></ruby>を<ruby>受<rt data-ruby-level="3">う</rt></ruby>けてきた」と<ruby>疑惑<rt
+  data-ruby-level="7">ぎわく</rt></ruby>を<ruby>否定<rt data-ruby-level="6">ひてい</rt></ruby>したうえで、「<ruby>顧客<rt
+  data-ruby-level="7">こきゃく</rt></ruby><ruby>離<rt data-ruby-level="7">ばな</rt></ruby>れが<ruby>進<rt
+  data-ruby-level="3">すす</rt></ruby>んで<ruby>事業<rt data-ruby-level="3">じぎょう</rt></ruby>の<ruby>継続<rt
+  data-ruby-level="7">けいぞく</rt></ruby>が<ruby>困難<rt data-ruby-level="6">こんなん</rt></ruby>になった」として、すべての<ruby>事業<rt
+  data-ruby-level="3">じぎょう</rt></ruby>を<ruby>取<rt data-ruby-level="3">と</rt></ruby>りやめて<ruby>破産<rt
+  data-ruby-level="5">はさん</rt></ruby>を<ruby>申請<rt data-ruby-level="7">しんせい</rt></ruby>することを<ruby>明<rt
+  data-ruby-level="2">あき</rt></ruby>らかにしました。<br /><br />この<ruby>問題<rt data-ruby-level="3">もんだい</rt></ruby>では、フェイスブックも<ruby>個人<rt
+  data-ruby-level="5">こじん</rt></ruby>データの<ruby>取<rt data-ruby-level="7">と</rt></ruby>り<ruby>扱<rt
+  data-ruby-level="7">あつか</rt></ruby>いをめぐって<ruby>厳<rt data-ruby-level="6">きび</rt></ruby>しい<ruby>批判<rt
+  data-ruby-level="6">ひはん</rt></ruby>にさらされていて、<ruby>利用者<rt data-ruby-level="4">りようしゃ</rt></ruby>がプライバシーを<ruby>守<rt
+  data-ruby-level="3">まも</rt></ruby>るためにこれまでより<ruby>簡単<rt data-ruby-level="6">かんたん</rt></ruby>にデータを<ruby>確認<rt
+  data-ruby-level="7">かくにん</rt></ruby>したり、インターネットの<ruby>閲覧<rt data-ruby-level="7">えつらん</rt></ruby><ruby>記録<rt
+  data-ruby-level="4">きろく</rt></ruby>を<ruby>消去<rt data-ruby-level="3">しょうきょ</rt></ruby>したりできるようにするなど<ruby>対応<rt
+  data-ruby-level="5">たいおう</rt></ruby>に<ruby>追<rt data-ruby-level="3">お</rt></ruby>われています。
+source_url: https://www3.nhk.or.jp/news/html/20180503/k10011426101000.html
+related_news:
+- title: フェイスブック「<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>データ<ruby>流出<rt data-ruby-level="3">りゅうしゅつ</rt></ruby>は<ruby>最大<rt
+    data-ruby-level="4">さいだい</rt></ruby>で8700<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>」
+  url: https://newswebeasy.github.io/news/web/2018/04/05/フェイスブック個人データ流出は最大で8700万人
+...
