@@ -1,0 +1,83 @@
+---
+layout: web_news
+categories: web
+newsid: k10011427191000
+title: 子どもの数1553万人 37年連続で減少 過去最低を更新
+title_with_ruby: <ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもの<ruby>数<rt data-ruby-level="2">すう</rt></ruby>1553<ruby>万人<rt
+  data-ruby-level="2">まんにん</rt></ruby> 37<ruby>年<rt data-ruby-level="1">ねん</rt></ruby><ruby>連続<rt
+  data-ruby-level="4">れんぞく</rt></ruby>で<ruby>減少<rt data-ruby-level="5">げんしょう</rt></ruby>
+  <ruby>過去<rt data-ruby-level="5">かこ</rt></ruby><ruby>最低<rt data-ruby-level="4">さいてい</rt></ruby>を<ruby>更新<rt
+  data-ruby-level="7">こうしん</rt></ruby>
+last_modified_at: '2018-05-04T17:01:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>05<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>04<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 17<ruby>時<rt data-ruby-level="2">じ</rt></ruby>01<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ５日は「こどもの日」です。日本の子どもの数は１５５３万人で、３７年連続で減少し、過去最低を更新するなど少子化に歯止めがかかっていない状況が浮き彫りになっています。
+summary: ５<ruby>日<rt data-ruby-level="1">にち</rt></ruby>は「こどもの<ruby>日<rt data-ruby-level="1">ひ</rt></ruby>」です。<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>の<ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもの<ruby>数<rt
+  data-ruby-level="2">かず</rt></ruby>は１５５３<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>で、３７<ruby>年<rt
+  data-ruby-level="1">ねん</rt></ruby><ruby>連続<rt data-ruby-level="4">れんぞく</rt></ruby>で<ruby>減少<rt
+  data-ruby-level="5">げんしょう</rt></ruby>し、<ruby>過去<rt data-ruby-level="5">かこ</rt></ruby><ruby>最低<rt
+  data-ruby-level="4">さいてい</rt></ruby>を<ruby>更新<rt data-ruby-level="7">こうしん</rt></ruby>するなど<ruby>少子化<rt
+  data-ruby-level="3">しょうしか</rt></ruby>に<ruby>歯止<rt data-ruby-level="3">はど</rt></ruby>めがかかっていない<ruby>状況<rt
+  data-ruby-level="7">じょうきょう</rt></ruby>が<ruby>浮<rt data-ruby-level="7">う</rt></ruby>き<ruby>彫<rt
+  data-ruby-level="7">ぼ</rt></ruby>りになっています。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/04/K10011427191_1805041700_1805041701_01_02.jpg
+more: <ruby>総務省<rt data-ruby-level="5">そうむしょう</rt></ruby>の<ruby>推計<rt data-ruby-level="6">すいけい</rt></ruby>によりますと、<ruby>先月<rt
+  data-ruby-level="1">せんげつ</rt></ruby>１<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>現在<rt
+  data-ruby-level="5">げんざい</rt></ruby>の<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の１５<ruby>歳未満<rt
+  data-ruby-level="7">さいみまん</rt></ruby>の<ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもの<ruby>数<rt
+  data-ruby-level="2">かず</rt></ruby>は、<ruby>男子<rt data-ruby-level="1">だんし</rt></ruby>が７９５<ruby>万人<rt
+  data-ruby-level="2">まんにん</rt></ruby>、<ruby>女子<rt data-ruby-level="1">じょし</rt></ruby>が７５８<ruby>万人<rt
+  data-ruby-level="2">まんにん</rt></ruby>の<ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせて１５５３<ruby>万人<rt
+  data-ruby-level="2">まんにん</rt></ruby>となっています。<br /><br /><ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもの<ruby>数<rt
+  data-ruby-level="2">かず</rt></ruby>は<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>、これまでで<ruby>最<rt
+  data-ruby-level="4">もっと</rt></ruby>も<ruby>少<rt data-ruby-level="2">すく</rt></ruby>ない１５７０<ruby>万人<rt
+  data-ruby-level="2">まんにん</rt></ruby>でしたが、ことしはそれをさらに１７<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby><ruby>下回<rt
+  data-ruby-level="2">したまわ</rt></ruby>って<ruby>過去<rt data-ruby-level="5">かこ</rt></ruby><ruby>最低<rt
+  data-ruby-level="4">さいてい</rt></ruby>を<ruby>更新<rt data-ruby-level="7">こうしん</rt></ruby>し、<ruby>昭和<rt
+  data-ruby-level="3">しょうわ</rt></ruby>５７<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>から３７<ruby>年<rt
+  data-ruby-level="1">ねん</rt></ruby><ruby>連続<rt data-ruby-level="4">れんぞく</rt></ruby>で<ruby>減少<rt
+  data-ruby-level="5">げんしょう</rt></ruby>しました。<br /><br />また、<ruby>総人口<rt data-ruby-level="5">そうじんこう</rt></ruby>に<ruby>占<rt
+  data-ruby-level="7">し</rt></ruby>める<ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもの<ruby>割合<rt
+  data-ruby-level="6">わりあい</rt></ruby>も、<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>に<ruby>比<rt
+  data-ruby-level="5">くら</rt></ruby>べて０．１ポイント<ruby>下<rt data-ruby-level="1">さ</rt></ruby>がって１２．３％と<ruby>過去<rt
+  data-ruby-level="5">かこ</rt></ruby><ruby>最低<rt data-ruby-level="4">さいてい</rt></ruby>を<ruby>更新<rt
+  data-ruby-level="7">こうしん</rt></ruby>し、<ruby>昭和<rt data-ruby-level="3">しょうわ</rt></ruby>５０<ruby>年<rt
+  data-ruby-level="1">ねん</rt></ruby>から４４<ruby>年<rt data-ruby-level="1">ねん</rt></ruby><ruby>連続<rt
+  data-ruby-level="4">れんぞく</rt></ruby>の<ruby>低下<rt data-ruby-level="4">ていか</rt></ruby>となり、<ruby>少子化<rt
+  data-ruby-level="3">しょうしか</rt></ruby>に<ruby>歯止<rt data-ruby-level="3">はど</rt></ruby>めがかかっていない<ruby>状況<rt
+  data-ruby-level="7">じょうきょう</rt></ruby>が<ruby>浮<rt data-ruby-level="7">う</rt></ruby>き<ruby>彫<rt
+  data-ruby-level="7">ぼ</rt></ruby>りになっています。<br /><br /><ruby>一方<rt data-ruby-level="2">いっぽう</rt></ruby>、<ruby>去年<rt
+  data-ruby-level="3">きょねん</rt></ruby>１０<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>１<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby><ruby>現在<rt data-ruby-level="5">げんざい</rt></ruby>の<ruby>子<rt
+  data-ruby-level="1">こ</rt></ruby>どもの<ruby>数<rt data-ruby-level="2">かず</rt></ruby>を<ruby>都道府県<rt
+  data-ruby-level="4">とどうふけん</rt></ruby><ruby>別<rt data-ruby-level="4">べつ</rt></ruby>にみますと、<ruby>前<rt
+  data-ruby-level="2">まえ</rt></ruby>の<ruby>年<rt data-ruby-level="2">とし</rt></ruby>より<ruby>増<rt
+  data-ruby-level="5">ふ</rt></ruby>えているのは<ruby>東京都<rt data-ruby-level="3">とうきょうと</rt></ruby>だけで、ほかの４６<ruby>道府県<rt
+  data-ruby-level="4">どうふけん</rt></ruby>では<ruby>減<rt data-ruby-level="5">へ</rt></ruby>っていて、<ruby>東京都<rt
+  data-ruby-level="3">とうきょうと</rt></ruby>だけが<ruby>増<rt data-ruby-level="5">ふ</rt></ruby>えたのは４<ruby>年<rt
+  data-ruby-level="1">ねん</rt></ruby><ruby>連続<rt data-ruby-level="4">れんぞく</rt></ruby>となります。<br
+  /><br />また、<ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもの<ruby>割合<rt data-ruby-level="6">わりあい</rt></ruby>が<ruby>最<rt
+  data-ruby-level="4">もっと</rt></ruby>も<ruby>高<rt data-ruby-level="2">たか</rt></ruby>かったのは<ruby>沖縄県<rt
+  data-ruby-level="7">おきなわけん</rt></ruby>で１７．１％、<ruby>逆<rt data-ruby-level="5">ぎゃく</rt></ruby>に<ruby>最<rt
+  data-ruby-level="4">もっと</rt></ruby>も<ruby>低<rt data-ruby-level="4">ひく</rt></ruby>かったのは<ruby>秋田県<rt
+  data-ruby-level="3">あきたけん</rt></ruby>で１０．１％でした。
+source_url: https://www3.nhk.or.jp/news/html/20180504/k10011427191000.html
+related_news:
+- title: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>総人口<rt data-ruby-level="5">そうじんこう</rt></ruby>
+    ７<ruby>年<rt data-ruby-level="1">ねん</rt></ruby><ruby>連続<rt data-ruby-level="4">れんぞく</rt></ruby><ruby>減少<rt
+    data-ruby-level="5">げんしょう</rt></ruby> <ruby>少子<rt data-ruby-level="2">しょうし</rt></ruby><ruby>高齢化<rt
+    data-ruby-level="7">こうれいか</rt></ruby>も<ruby>一層<rt data-ruby-level="6">いっそう</rt></ruby><ruby>進<rt
+    data-ruby-level="3">すす</rt></ruby>む
+  url: https://newswebeasy.github.io/news/web/2018/04/13/日本の総人口-7年連続減少-少子高齢化も一層進む
+- title: <ruby>在留<rt data-ruby-level="5">ざいりゅう</rt></ruby><ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby>
+    <ruby>過去<rt data-ruby-level="5">かこ</rt></ruby><ruby>最高<rt data-ruby-level="4">さいこう</rt></ruby>の256<ruby>万人<rt
+    data-ruby-level="2">まんにん</rt></ruby> <ruby>不法<rt data-ruby-level="4">ふほう</rt></ruby><ruby>残留<rt
+    data-ruby-level="5">ざんりゅう</rt></ruby>も<ruby>増加<rt data-ruby-level="5">ぞうか</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/03/28/在留外国人-過去最高の256万人-不法残留も増加
+- title: <ruby>紙巻<rt data-ruby-level="6">かみま</rt></ruby>きたばこの<ruby>昨年度<rt data-ruby-level="4">さくねんど</rt></ruby><ruby>販売量<rt
+    data-ruby-level="7">はんばいりょう</rt></ruby> <ruby>過去<rt data-ruby-level="5">かこ</rt></ruby><ruby>最低<rt
+    data-ruby-level="4">さいてい</rt></ruby>を<ruby>更新<rt data-ruby-level="7">こうしん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/04/14/紙巻きたばこの昨年度販売量-過去最低を更新
+...

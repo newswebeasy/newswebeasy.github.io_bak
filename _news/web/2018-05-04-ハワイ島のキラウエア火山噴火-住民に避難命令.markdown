@@ -1,0 +1,86 @@
+---
+layout: web_news
+categories: web
+newsid: k10011427201000
+title: ハワイ島のキラウエア火山噴火 住民に避難命令
+title_with_ruby: <ruby>ハワイ<rt data-ruby-level="3">はわい</rt></ruby><ruby>島<rt data-ruby-level="3">とう</rt></ruby>のキラウエア<ruby>火山<rt
+  data-ruby-level="1">かざん</rt></ruby><ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby>
+  <ruby>住民<rt data-ruby-level="4">じゅうみん</rt></ruby>に<ruby>避難<rt data-ruby-level="7">ひなん</rt></ruby><ruby>命令<rt
+  data-ruby-level="4">めいれい</rt></ruby>
+last_modified_at: '2018-05-04T17:04:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>05<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>04<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 17<ruby>時<rt data-ruby-level="2">じ</rt></ruby>04<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 活発な火山活動で知られるハワイ島のキラウエア火山が噴火し、火口から離れた住宅地の近くに生じた亀裂から溶岩が流れ出したことから、現地の防災当局は住民およそ１７００人に避難命令を出しました。
+summary: <ruby>活発<rt data-ruby-level="3">かっぱつ</rt></ruby>な<ruby>火山<rt data-ruby-level="1">かざん</rt></ruby><ruby>活動<rt
+  data-ruby-level="3">かつどう</rt></ruby>で<ruby>知<rt data-ruby-level="2">し</rt></ruby>られる<ruby>ハワイ<rt
+  data-ruby-level="3">はわい</rt></ruby><ruby>島<rt data-ruby-level="3">とう</rt></ruby>のキラウエア<ruby>火山<rt
+  data-ruby-level="1">かざん</rt></ruby>が<ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby>し、<ruby>火口<rt
+  data-ruby-level="1">かこう</rt></ruby>から<ruby>離<rt data-ruby-level="7">はな</rt></ruby>れた<ruby>住宅地<rt
+  data-ruby-level="6">じゅうたくち</rt></ruby>の<ruby>近<rt data-ruby-level="2">ちか</rt></ruby>くに<ruby>生<rt
+  data-ruby-level="1">しょう</rt></ruby>じた<ruby>亀裂<rt data-ruby-level="8">きれつ</rt></ruby>から<ruby>溶岩<rt
+  data-ruby-level="7">ようがん</rt></ruby>が<ruby>流<rt data-ruby-level="3">なが</rt></ruby>れ<ruby>出<rt
+  data-ruby-level="3">で</rt></ruby>したことから、<ruby>現地<rt data-ruby-level="5">げんち</rt></ruby>の<ruby>防災<rt
+  data-ruby-level="5">ぼうさい</rt></ruby><ruby>当局<rt data-ruby-level="3">とうきょく</rt></ruby>は<ruby>住民<rt
+  data-ruby-level="4">じゅうみん</rt></ruby>およそ１７００<ruby>人<rt data-ruby-level="1">にん</rt></ruby>に<ruby>避難<rt
+  data-ruby-level="7">ひなん</rt></ruby><ruby>命令<rt data-ruby-level="4">めいれい</rt></ruby>を<ruby>出<rt
+  data-ruby-level="1">だ</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/04/K10011427201_1805041707_1805041709_01_02.jpg
+body:
+- text: アメリカのＵＳＧＳ＝<ruby>地質調査所<rt data-ruby-level="5">ちしつちょうさじょ</rt></ruby>のハワイ<ruby>火山<rt
+    data-ruby-level="1">かざん</rt></ruby><ruby>観測所<rt data-ruby-level="5">かんそくじょ</rt></ruby>によりますと、３<ruby>日午後<rt
+    data-ruby-level="2">にちごご</rt></ruby>５<ruby>時前<rt data-ruby-level="2">じまえ</rt></ruby>、<ruby>日本<rt
+    data-ruby-level="1">にっぽん</rt></ruby><ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>の４<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby><ruby>正午前<rt data-ruby-level="2">しょうごまえ</rt></ruby>、ハワイ<ruby>島南部<rt
+    data-ruby-level="3">しまなんぶ</rt></ruby>にあるキラウエア<ruby>火山<rt data-ruby-level="1">かざん</rt></ruby>が<ruby>噴火<rt
+    data-ruby-level="7">ふんか</rt></ruby>しました。<br /><br />ＵＳＧＳは、<ruby>火口<rt data-ruby-level="1">かこう</rt></ruby>から<ruby>東<rt
+    data-ruby-level="2">ひがし</rt></ruby>に１０キロ<ruby>以上<rt data-ruby-level="4">いじょう</rt></ruby><ruby>離<rt
+    data-ruby-level="7">はな</rt></ruby>れた<ruby>住宅地<rt data-ruby-level="6">じゅうたくち</rt></ruby>に<ruby>近<rt
+    data-ruby-level="2">ちか</rt></ruby>い<ruby>地面<rt data-ruby-level="3">じめん</rt></ruby>に<ruby>亀裂<rt
+    data-ruby-level="8">きれつ</rt></ruby>が<ruby>生<rt data-ruby-level="1">しょう</rt></ruby>じ、そこから<ruby>噴煙<rt
+    data-ruby-level="7">ふんえん</rt></ruby>や<ruby>溶岩<rt data-ruby-level="7">ようがん</rt></ruby>が<ruby>流<rt
+    data-ruby-level="3">なが</rt></ruby>れ<ruby>出<rt data-ruby-level="3">だ</rt></ruby>しているのが<ruby>確認<rt
+    data-ruby-level="7">かくにん</rt></ruby>されたとしています。<br />これを<ruby>受<rt data-ruby-level="3">う</rt></ruby>けて、<ruby>現地<rt
+    data-ruby-level="5">げんち</rt></ruby>の<ruby>防災<rt data-ruby-level="5">ぼうさい</rt></ruby><ruby>当局<rt
+    data-ruby-level="3">とうきょく</rt></ruby>は<ruby>周辺<rt data-ruby-level="4">しゅうへん</rt></ruby>の<ruby>住民<rt
+    data-ruby-level="4">じゅうみん</rt></ruby>およそ１７００<ruby>人<rt data-ruby-level="1">にん</rt></ruby>に<ruby>避難<rt
+    data-ruby-level="7">ひなん</rt></ruby><ruby>命令<rt data-ruby-level="4">めいれい</rt></ruby>を<ruby>出<rt
+    data-ruby-level="1">だ</rt></ruby>しました。<br /><br /><ruby>ＡＰ通信<rt data-ruby-level="4">えーぴーつうしん</rt></ruby>は<ruby>地元<rt
+    data-ruby-level="2">じもと</rt></ruby>の<ruby>住民<rt data-ruby-level="4">じゅうみん</rt></ruby>の<ruby>話<rt
+    data-ruby-level="2">はなし</rt></ruby>として、<ruby>住宅地<rt data-ruby-level="6">じゅうたくち</rt></ruby>の<ruby>近<rt
+    data-ruby-level="2">ちか</rt></ruby>くで<ruby>溶岩<rt data-ruby-level="7">ようがん</rt></ruby>が<ruby>幅<rt
+    data-ruby-level="7">はば</rt></ruby>およそ１８０メートルにわたって<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>がっていると<ruby>伝<rt
+    data-ruby-level="4">つた</rt></ruby>えています。<br /><br />これについてＵＳＧＳでは、<ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby>の７<ruby>時間<rt
+    data-ruby-level="2">じかん</rt></ruby>ほど<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>に<ruby>起<rt
+    data-ruby-level="3">お</rt></ruby>きた<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>の<ruby>影響<rt
+    data-ruby-level="7">えいきょう</rt></ruby>で<ruby>火口<rt data-ruby-level="1">かこう</rt></ruby>の<ruby>一部<rt
+    data-ruby-level="3">いちぶ</rt></ruby>が<ruby>埋<rt data-ruby-level="7">う</rt></ruby>まり、<ruby>行<rt
+    data-ruby-level="2">い</rt></ruby>き<ruby>場<rt data-ruby-level="2">ば</rt></ruby>を<ruby>失<rt
+    data-ruby-level="4">うしな</rt></ruby>った<ruby>溶岩<rt data-ruby-level="7">ようがん</rt></ruby>が<ruby>離<rt
+    data-ruby-level="7">はな</rt></ruby>れた<ruby>場所<rt data-ruby-level="3">ばしょ</rt></ruby>から<ruby>流<rt
+    data-ruby-level="3">なが</rt></ruby>れ<ruby>出<rt data-ruby-level="3">だ</rt></ruby>したのではないかと<ruby>指摘<rt
+    data-ruby-level="7">してき</rt></ruby>しています。<br /><br />ホノルルにある<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>総領事館<rt
+    data-ruby-level="5">そうりょうじかん</rt></ruby>は、<ruby>周辺<rt data-ruby-level="4">しゅうへん</rt></ruby>に<ruby>暮<rt
+    data-ruby-level="6">く</rt></ruby>らす<ruby>日本人<rt data-ruby-level="1">にほんじん</rt></ruby>や<ruby>日本人<rt
+    data-ruby-level="1">にほんじん</rt></ruby><ruby>旅行者<rt data-ruby-level="3">りょこうしゃ</rt></ruby>に<ruby>対<rt
+    data-ruby-level="3">たい</rt></ruby>して<ruby>十分<rt data-ruby-level="2">じゅうぶん</rt></ruby><ruby>注意<rt
+    data-ruby-level="3">ちゅうい</rt></ruby>するよう<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけています。
+  textPos: top
+  image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/04/K10011427201_1805041707_1805041709_01_03.jpg
+source_url: https://www3.nhk.or.jp/news/html/20180504/k10011427201000.html
+related_news:
+- title: <ruby>新燃岳<rt data-ruby-level="8">しんもえだけ</rt></ruby> <ruby>爆発的<rt data-ruby-level="7">ばくはつてき</rt></ruby><ruby>噴火<rt
+    data-ruby-level="7">ふんか</rt></ruby>で<ruby>噴煙<rt data-ruby-level="7">ふんえん</rt></ruby>4500ｍに
+    <ruby>噴石<rt data-ruby-level="7">ふんせき</rt></ruby>や<ruby>火砕流<rt data-ruby-level="7">かさいりゅう</rt></ruby>に<ruby>警戒<rt
+    data-ruby-level="7">けいかい</rt></ruby>を
+  url: https://newswebeasy.github.io/news/web/2018/03/10/新燃岳-爆発的噴火で噴煙4500mに-噴石や火砕流に警戒を
+- title: <ruby>新燃岳<rt data-ruby-level="8">しんもえだけ</rt></ruby> <ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby><ruby>活動<rt
+    data-ruby-level="3">かつどう</rt></ruby>が<ruby>活発化<rt data-ruby-level="3">かっぱつか</rt></ruby>
+    <ruby>大<rt data-ruby-level="1">おお</rt></ruby>きな<ruby>噴石<rt data-ruby-level="7">ふんせき</rt></ruby>や<ruby>火砕流<rt
+    data-ruby-level="7">かさいりゅう</rt></ruby>に<ruby>警戒<rt data-ruby-level="7">けいかい</rt></ruby>を
+  url: https://newswebeasy.github.io/news/web/2018/03/08/新燃岳-噴火活動が活発化-大きな噴石や火砕流に警戒を
+- title: ２<ruby>回目<rt data-ruby-level="2">かいめ</rt></ruby>の<ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby><ruby>速報<rt
+    data-ruby-level="5">そくほう</rt></ruby>の<ruby>硫黄山<rt data-ruby-level="8">いおうざん</rt></ruby>
+    <ruby>警戒<rt data-ruby-level="7">けいかい</rt></ruby>レベル３を<ruby>継続<rt data-ruby-level="7">けいぞく</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/04/27/2回目の噴火速報の硫黄山-警戒レベル3を継続
+...
