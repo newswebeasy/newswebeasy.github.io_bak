@@ -1,0 +1,69 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011424301000
+last_modified_at: '2018-05-07T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>07<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 昔、忍者はいつでも簡単に食べることができる「兵糧丸」という食べ物を持っていたと言われています。
+title: 忍者が持っていた食べ物を調べて新しいお菓子を作る
+title_with_ruby: <ruby>忍者<rt>にんじゃ</rt></ruby>が<ruby>持<rt>も</rt></ruby>っていた<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べて<ruby>新<rt>あたら</rt></ruby>しいお<ruby>菓子<rt>かし</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る
+outline: 昔、忍者はいつでも簡単に食べることができる「兵糧丸」という食べ物を持っていたと言われています。
+outline_with_ruby: <ruby>昔<rt>むかし</rt></ruby>、<ruby>忍者<rt>にんじゃ</rt></ruby>はいつでも<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>食<rt>た</rt></ruby>べることができる「<ruby>兵糧丸<rt>ひょうろうがん</rt></ruby>」という<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていたと<ruby>言<rt>い</rt></ruby>われています。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/01/K10011424301_1805011612_1805011615_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/07/k10011424301000.mp4
+content_with_ruby: "<p><ruby>昔<rt>むかし</rt></ruby>、<span style=\"color: blue;\"><ruby>忍者<rt>にんじゃ</rt></ruby></span>はいつでも<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>食<rt>た</rt></ruby>べることができる「<ruby>兵糧丸<rt>ひょうろうがん</rt></ruby>」という<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていたと<ruby>言<rt>い</rt></ruby>われています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>忍者<rt>にんじゃ</rt></ruby></span>の<ruby>研究<rt>けんきゅう</rt></ruby>をしている<ruby>三重大学<rt>みえだいがく</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>が、<span\
+  \ style=\"color: blue;\"><ruby>江戸時代<rt>えどじだい</rt></ruby></span>の<ruby>兵糧丸<rt>ひょうろうがん</rt></ruby>について<ruby>書<rt>か</rt></ruby>いてある<ruby>古<rt>ふる</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>文書<rt>ぶんしょ</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べました。<ruby>兵糧丸<rt>ひょうろうがん</rt></ruby>には<span\
+  \ style=\"color: blue;\">もち<ruby>米<rt>ごめ</rt></ruby></span>と<ruby>砂糖<rt>さとう</rt></ruby>のほかに、<span\
+  \ style=\"color: blue;\"><ruby>香辛料<rt>こうしんりょう</rt></ruby></span>のシナモンも<ruby>使<rt>つか</rt></ruby>われていました。<span\
+  \ style=\"color: blue;\">ストレス</span>を<ruby>少<rt>すく</rt></ruby>なくしたいと<ruby>考<rt>かんが</rt></ruby>えて<ruby>食<rt>た</rt></ruby>べていた<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。</p>\n<p><ruby>三重大学<rt>みえだいがく</rt></ruby>はお<ruby>菓子<rt>かし</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に、<ruby>兵糧丸<rt>ひょうろうがん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>参考<rt>さんこう</rt></ruby></span>にして<span style=\"color:\
+  \ blue;\"><ruby>小麦粉<rt>こむぎこ</rt></ruby></span>やシナモンなどを<ruby>使<rt>つか</rt></ruby>って<ruby>新<rt>あたら</rt></ruby>しいお<ruby>菓子<rt>かし</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。「かたやき<ruby>小焼<rt>こや</rt></ruby>き」という<ruby>名前<rt>なまえ</rt></ruby>で、<ruby>三重大学<rt>みえだいがく</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にある<ruby>店<rt>みせ</rt></ruby>で<ruby>売<rt>う</rt></ruby>っています。<ruby>三重大学<rt>みえだいがく</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>は「<ruby>疲<rt>つか</rt></ruby>れたときなどに、このお<ruby>菓子<rt>かし</rt></ruby>を<ruby>食<rt>た</rt></ruby>べて<span\
+  \ style=\"color: blue;\">リラックス</span>してほしいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 忍者
+  descriptions:
+  - <ruby><rb>忍術</rb><rt>にんじゅつ</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>。しのびの<ruby><rb>者</rb><rt>もの</rt></ruby>。
+- word: 江戸時代
+  descriptions:
+  - <ruby><rb>徳川家康</rb><rt>とくがわいえやす</rt></ruby>が、１６０３<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>江戸</rb><rt>えど</rt></ruby>に<ruby><rb>幕府</rb><rt>ばくふ</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いてから、１８６７<ruby><rb>年</rb><rt>ねん</rt></ruby>にほろびるまでの<ruby><rb>約</rb><rt>やく</rt></ruby>２６０<ruby><rb>年間</rb><rt>ねんかん</rt></ruby>。<ruby><rb>鎖国</rb><rt>さこく</rt></ruby>のために<ruby><rb>日本</rb><rt>にっぽん</rt></ruby><ruby><rb>独特</rb><rt>どくとく</rt></ruby>の<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>栄</rb><rt>さか</rt></ruby>えた。「<ruby><rb>徳川時代</rb><rt>とくがわじだい</rt></ruby>」ともいう。
+- word: 文書
+  descriptions:
+  - <ruby><rb>文字</rb><rt>もじ</rt></ruby>で<ruby><rb>書</rb><rt>か</rt></ruby>いたもの。<ruby><rb>書</rb><rt>か</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>事務的</rb><rt>じむてき</rt></ruby>な<ruby><rb>書類</rb><rt>しょるい</rt></ruby>。
+- word: 糯米
+  descriptions:
+  - ねばりけの<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>の<ruby><rb>米</rb><rt>こめ</rt></ruby>。もちや<ruby><rb>赤飯</rb><rt>せきはん</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>る。<ruby><rb>糯</rb><rt>もち</rt></ruby>。
+- word: 香辛料
+  descriptions:
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>にからみや<ruby><rb>香</rb><rt>かお</rt></ruby>りをつけるためのもの。コショウ・トウガラシなど。スパイス。
+- word: ストレス
+  descriptions:
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>や<ruby><rb>気持</rb><rt>きも</rt></ruby>ちに<ruby><rb>悪</rb><rt>わる</rt></ruby>い<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる、いろいろなしげき。そのために<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>や<ruby><rb>気分</rb><rt>きぶん</rt></ruby>が、ふだんと<ruby><rb>変</rb><rt>か</rt></ruby>わる。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 参考
+  descriptions:
+  - <ruby><rb>照</rb><rt>て</rt></ruby>らし<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>考</rb><rt>かんが</rt></ruby>えること。また、<ruby><rb>調</rb><rt>しら</rt></ruby>べたり<ruby><rb>考</rb><rt>かんが</rt></ruby>えたりするための<ruby><rb>助</rb><rt>たす</rt></ruby>けとすること。
+- word: 小麦粉
+  descriptions:
+  - <ruby><rb>小麦</rb><rt>こむぎ</rt></ruby>の<ruby><rb>実</rb><rt>み</rt></ruby>をひいて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>粉</rb><rt>こな</rt></ruby>。うどん・パン・<ruby><rb>菓子</rb><rt>かし</rt></ruby>などに<ruby><rb>加工</rb><rt>かこう</rt></ruby>する。うどん<ruby><rb>粉</rb><rt>こ</rt></ruby>。メリケン<ruby><rb>粉</rb><rt>こ</rt></ruby>。
+- word: リラックス
+  descriptions:
+  - <ruby><rb>緊張</rb><rt>きんちょう</rt></ruby>しないで、のんびりと<ruby><rb>楽</rb><rt>らく</rt></ruby>にすること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011424301000/k10011424301000.html
+web_title_with_ruby: <ruby>忍者<rt>にんじゃ</rt></ruby>の<ruby>携帯食<rt>けいたいしょく</rt></ruby><ruby>ヒント<rt>ひんと</rt></ruby>に<ruby>菓子<rt>かし</rt></ruby>を<ruby>開発<rt>かいはつ</rt></ruby>
+  <ruby>三重大学<rt>みえだいがく</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/01/忍者の携帯食ヒントに菓子を開発-三重大学
+related_news:
+- title: <ruby>世界<rt>せかい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に「<ruby>忍者<rt>にんじゃ</rt></ruby>」を<ruby>研究<rt>けんきゅう</rt></ruby>する<ruby>会<rt>かい</rt></ruby>ができた
+  url: https://newswebeasy.github.io/news/easy/2018/02/20/世界の人と一緒に忍者を研究する会ができた
+- title: カーリング<ruby>女子<rt>じょし</rt></ruby>　<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>食<rt>た</rt></ruby>べているチーズケーキが<ruby>人気<rt>にんき</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/02/23/カーリング女子-選手が食べているチーズケーキが人気
+- title: <ruby>奈良公園<rt>ならこうえん</rt></ruby>　<ruby>鹿<rt>しか</rt></ruby>のお<ruby>菓子<rt>かし</rt></ruby>のあげ<ruby>方<rt>かた</rt></ruby>を<ruby>英語<rt>えいご</rt></ruby>と<ruby>中国語<rt>ちゅうごくご</rt></ruby>で<ruby>看板<rt>かんばん</rt></ruby>に<ruby>書<rt>か</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/04/04/奈良公園-鹿のお菓子のあげ方を英語と中国語で看板に書く
+...

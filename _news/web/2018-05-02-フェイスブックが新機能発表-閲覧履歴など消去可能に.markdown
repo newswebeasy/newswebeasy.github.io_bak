@@ -1,0 +1,77 @@
+---
+layout: web_news
+categories: web
+newsid: k10011424841000
+title: フェイスブックが新機能発表 閲覧履歴など消去可能に
+title_with_ruby: フェイスブックが<ruby>新機能<rt data-ruby-level="5">しんきのう</rt></ruby><ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby> <ruby>閲覧<rt data-ruby-level="7">えつらん</rt></ruby><ruby>履歴<rt
+  data-ruby-level="7">りれき</rt></ruby>など<ruby>消去<rt data-ruby-level="3">しょうきょ</rt></ruby><ruby>可能<rt
+  data-ruby-level="5">かのう</rt></ruby>に
+last_modified_at: '2018-05-02T06:33:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>05<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>02<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 06<ruby>時<rt data-ruby-level="2">じ</rt></ruby>33<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 世界最大の交流サイトを運営するフェイスブックのザッカーバーグＣＥＯは、大量の個人データが流出した問題を踏まえて、データの保護に取り組む考えを強調したうえで、フェイスブックが集めたインターネットの閲覧履歴などを利用者自身が消去できる機能を新たに導入すると発表しました。
+summary: <ruby>世界<rt data-ruby-level="3">せかい</rt></ruby><ruby>最大<rt data-ruby-level="4">さいだい</rt></ruby>の<ruby>交流<rt
+  data-ruby-level="3">こうりゅう</rt></ruby>サイトを<ruby>運営<rt data-ruby-level="5">うんえい</rt></ruby>するフェイスブックのザッカーバーグＣＥＯは、<ruby>大量<rt
+  data-ruby-level="4">たいりょう</rt></ruby>の<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>データが<ruby>流出<rt
+  data-ruby-level="3">りゅうしゅつ</rt></ruby>した<ruby>問題<rt data-ruby-level="3">もんだい</rt></ruby>を<ruby>踏<rt
+  data-ruby-level="7">ふ</rt></ruby>まえて、データの<ruby>保護<rt data-ruby-level="5">ほご</rt></ruby>に<ruby>取<rt
+  data-ruby-level="3">と</rt></ruby>り<ruby>組<rt data-ruby-level="3">く</rt></ruby>む<ruby>考<rt
+  data-ruby-level="2">かんが</rt></ruby>えを<ruby>強調<rt data-ruby-level="3">きょうちょう</rt></ruby>したうえで、フェイスブックが<ruby>集<rt
+  data-ruby-level="3">あつ</rt></ruby>めたインターネットの<ruby>閲覧<rt data-ruby-level="7">えつらん</rt></ruby><ruby>履歴<rt
+  data-ruby-level="7">りれき</rt></ruby>などを<ruby>利用者<rt data-ruby-level="4">りようしゃ</rt></ruby><ruby>自身<rt
+  data-ruby-level="3">じしん</rt></ruby>が<ruby>消去<rt data-ruby-level="3">しょうきょ</rt></ruby>できる<ruby>機能<rt
+  data-ruby-level="5">きのう</rt></ruby>を<ruby>新<rt data-ruby-level="2">あら</rt></ruby>たに<ruby>導入<rt
+  data-ruby-level="5">どうにゅう</rt></ruby>すると<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/02/K10011424841_1805020725_1805020801_01_02.jpg
+more: フェイスブックのザッカーバーグＣＥＯは１<ruby>日<rt data-ruby-level="1">にち</rt></ruby>、<ruby>カリフォルニア<rt
+  data-ruby-level="3">かりふぉるにあ</rt></ruby><ruby>州<rt data-ruby-level="3">しゅう</rt></ruby>サンノゼで<ruby>開<rt
+  data-ruby-level="3">ひら</rt></ruby>いている<ruby>開発者<rt data-ruby-level="3">かいはつしゃ</rt></ruby><ruby>向<rt
+  data-ruby-level="3">む</rt></ruby>けのイベントで<ruby>基調<rt data-ruby-level="5">きちょう</rt></ruby><ruby>講演<rt
+  data-ruby-level="5">こうえん</rt></ruby>し、<ruby>最大<rt data-ruby-level="4">さいだい</rt></ruby>で８７００<ruby>万<rt
+  data-ruby-level="2">まん</rt></ruby><ruby>人分<rt data-ruby-level="2">にんぶん</rt></ruby>の<ruby>利用者<rt
+  data-ruby-level="4">りようしゃ</rt></ruby>の<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>データが<ruby>流出<rt
+  data-ruby-level="3">りゅうしゅつ</rt></ruby>した<ruby>問題<rt data-ruby-level="3">もんだい</rt></ruby>について<ruby>言及<rt
+  data-ruby-level="7">げんきゅう</rt></ruby>しました。<br /><br />この<ruby>中<rt data-ruby-level="1">なか</rt></ruby>で、ザッカーバーグＣＥＯは「ツールは<ruby>作<rt
+  data-ruby-level="2">つく</rt></ruby>るだけではなく、<ruby>善意<rt data-ruby-level="6">ぜんい</rt></ruby>に<ruby>使<rt
+  data-ruby-level="3">つか</rt></ruby>われなければならない」と<ruby>述<rt data-ruby-level="5">の</rt></ruby>べて、<ruby>個人<rt
+  data-ruby-level="5">こじん</rt></ruby>データの<ruby>保護<rt data-ruby-level="5">ほご</rt></ruby>に<ruby>取<rt
+  data-ruby-level="3">と</rt></ruby>り<ruby>組<rt data-ruby-level="3">く</rt></ruby>む<ruby>考<rt
+  data-ruby-level="2">かんが</rt></ruby>えを<ruby>強調<rt data-ruby-level="3">きょうちょう</rt></ruby>しました。<br
+  /><br />そのうえで、<ruby>利用者<rt data-ruby-level="4">りようしゃ</rt></ruby>からの<ruby>要望<rt data-ruby-level="4">ようぼう</rt></ruby>が<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>かったとして、これまでフェイスブックが<ruby>集<rt data-ruby-level="3">あつ</rt></ruby>めたインターネットの<ruby>閲覧<rt
+  data-ruby-level="7">えつらん</rt></ruby><ruby>履歴<rt data-ruby-level="7">りれき</rt></ruby>やアプリの<ruby>使用<rt
+  data-ruby-level="3">しよう</rt></ruby><ruby>履歴<rt data-ruby-level="7">りれき</rt></ruby>などを<ruby>利用者<rt
+  data-ruby-level="4">りようしゃ</rt></ruby><ruby>自身<rt data-ruby-level="3">じしん</rt></ruby>が<ruby>簡単<rt
+  data-ruby-level="6">かんたん</rt></ruby>に<ruby>消去<rt data-ruby-level="3">しょうきょ</rt></ruby>できる「クリアヒストリー」という<ruby>新<rt
+  data-ruby-level="2">あら</rt></ruby>たな<ruby>機能<rt data-ruby-level="5">きのう</rt></ruby>を<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>を<ruby>含<rt data-ruby-level="7">ふく</rt></ruby>めて<ruby>順次<rt
+  data-ruby-level="4">じゅんじ</rt></ruby>、<ruby>導入<rt data-ruby-level="5">どうにゅう</rt></ruby>することを<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>しました。<br /><br /><ruby>講演<rt data-ruby-level="5">こうえん</rt></ruby>ではフェイスブックの<ruby>利用者<rt
+  data-ruby-level="4">りようしゃ</rt></ruby>どうしでデートの<ruby>相手<rt data-ruby-level="3">あいて</rt></ruby>を<ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>つける<ruby>新機能<rt data-ruby-level="5">しんきのう</rt></ruby>を<ruby>設<rt
+  data-ruby-level="5">もう</rt></ruby>けることも<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>しましたが、<ruby>個人<rt
+  data-ruby-level="5">こじん</rt></ruby>データの<ruby>取<rt data-ruby-level="7">と</rt></ruby>り<ruby>扱<rt
+  data-ruby-level="7">あつか</rt></ruby>いなどをめぐってフェイスブックが<ruby>厳<rt data-ruby-level="6">きび</rt></ruby>しい<ruby>批判<rt
+  data-ruby-level="6">ひはん</rt></ruby>にさらされる<ruby>中<rt data-ruby-level="1">なか</rt></ruby>、３０<ruby>分<rt
+  data-ruby-level="2">ぷん</rt></ruby><ruby>余<rt data-ruby-level="5">あま</rt></ruby>りの<ruby>講演<rt
+  data-ruby-level="5">こうえん</rt></ruby>のうち<ruby>半分<rt data-ruby-level="2">はんぶん</rt></ruby>をデータ<ruby>保護<rt
+  data-ruby-level="5">ほご</rt></ruby>の<ruby>取<rt data-ruby-level="3">と</rt></ruby>り<ruby>組<rt
+  data-ruby-level="3">く</rt></ruby>みに<ruby>充<rt data-ruby-level="7">あ</rt></ruby>てる<ruby>異例<rt
+  data-ruby-level="6">いれい</rt></ruby>の<ruby>内容<rt data-ruby-level="5">ないよう</rt></ruby>になりました。
+source_url: https://www3.nhk.or.jp/news/html/20180502/k10011424841000.html
+easy_title_with_ruby: フェイスブック <ruby>自分<rt data-ruby-level="2">じぶん</rt></ruby>の<ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>を<ruby>守<rt data-ruby-level="3">まも</rt></ruby>るための<ruby>新<rt
+  data-ruby-level="2">あたら</rt></ruby>しい<ruby>機能<rt data-ruby-level="5">きのう</rt></ruby>
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/05/07/フェイスブック-自分の情報を守るための新しい機能
+related_news:
+- title: フェイスブック「<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>データ<ruby>流出<rt data-ruby-level="3">りゅうしゅつ</rt></ruby>は<ruby>最大<rt
+    data-ruby-level="4">さいだい</rt></ruby>で8700<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>」
+  url: https://newswebeasy.github.io/news/web/2018/04/05/フェイスブック個人データ流出は最大で8700万人
+- title: フェイスブックの<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>データ<ruby>流用<rt data-ruby-level="3">りゅうよう</rt></ruby><ruby>問題<rt
+    data-ruby-level="3">もんだい</rt></ruby> <ruby>英<rt data-ruby-level="4">えい</rt></ruby>データ<ruby>分析<rt
+    data-ruby-level="7">ぶんせき</rt></ruby><ruby>会社<rt data-ruby-level="2">がいしゃ</rt></ruby>
+    <ruby>破産<rt data-ruby-level="5">はさん</rt></ruby><ruby>申請<rt data-ruby-level="7">しんせい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/05/03/フェイスブックの個人データ流用問題-英データ分析会社-破産申請
+...
