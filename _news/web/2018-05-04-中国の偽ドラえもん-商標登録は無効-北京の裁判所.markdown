@@ -73,6 +73,10 @@ body:
   textPos: bottom
   image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/04/K10011427311_1805041838_1805041840_01_03.jpg
 source_url: https://www3.nhk.or.jp/news/html/20180504/k10011427311000.html
+easy_title_with_ruby: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby> 「ドラえもん」に<ruby>似<rt
+  data-ruby-level="5">に</rt></ruby>たキャラクターの<ruby>商標<rt data-ruby-level="4">しょうひょう</rt></ruby><ruby>登録<rt
+  data-ruby-level="4">とうろく</rt></ruby>はだめ
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/05/07/中国-ドラえもんに似たキャラクターの商標登録はだめ
 related_news:
 - title: <ruby>円谷<rt data-ruby-level="8">つぶらや</rt></ruby>プロ「<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>ウルトラマン」<ruby>著作権<rt
     data-ruby-level="6">ちょさくけん</rt></ruby><ruby>侵害<rt data-ruby-level="7">しんがい</rt></ruby>で<ruby>訴<rt

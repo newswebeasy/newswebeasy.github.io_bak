@@ -1,0 +1,59 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011427151000
+last_modified_at: '2018-05-07T18:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>07<ruby>日<rt>にち</rt></ruby>
+  18<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: スウェーデン・アカデミーは、ノーベル賞の文学賞を贈る人を選んで毎年１０月に発表しています。
+title: ノーベル賞　今年の文学賞は発表しない
+title_with_ruby: ノーベル<ruby>賞<rt>しょう</rt></ruby>　<ruby>今年<rt>ことし</rt></ruby>の<ruby>文学賞<rt>ぶんがくしょう</rt></ruby>は<ruby>発表<rt>はっぴょう</rt></ruby>しない
+outline: スウェーデン・アカデミーは、ノーベル賞の文学賞を贈る人を選んで毎年１０月に発表しています。
+outline_with_ruby: スウェーデン・アカデミーは、ノーベル<ruby>賞<rt>しょう</rt></ruby>の<ruby>文学賞<rt>ぶんがくしょう</rt></ruby>を<ruby>贈<rt>おく</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んで<ruby>毎年<rt>まいとし</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>に<ruby>発表<rt>はっぴょう</rt></ruby>しています。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/04/K10011427151_1805041615_1805041616_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/07/k10011427151000.mp4
+content_with_ruby: "<p>スウェーデン・アカデミーは、<span style=\"color: blue;\">ノーベル<ruby>賞<rt>しょう</rt></ruby></span>の<ruby>文学賞<rt>ぶんがくしょう</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>贈<rt>おく</rt></ruby>る</span><ruby>人<rt>ひと</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んで<ruby>毎年<rt>まいとし</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しています。スウェーデン・アカデミーは<ruby>４日<rt>よっか</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby>の<ruby>文学賞<rt>ぶんがくしょう</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しないで、<ruby>来年<rt>らいねん</rt></ruby>、<ruby>来年<rt>らいねん</rt></ruby>の<ruby>文学賞<rt>ぶんがくしょう</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>すると<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>去年<rt>きょねん</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>、スウェーデン・アカデミーの<span style=\"\
+  color: blue;\">メンバー</span>の<ruby>夫<rt>おっと</rt></ruby>が<span style=\"color: blue;\"\
+  >セクハラ</span>をしていたことがわかりました。この<ruby>人<rt>ひと</rt></ruby>は<ruby>文学賞<rt>ぶんがくしょう</rt></ruby>をもらう<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>を<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>だ</rt></ruby>したとも<ruby>言<rt>い</rt></ruby>われています。スウェーデン・アカデミーは、この<ruby>問題<rt>もんだい</rt></ruby>などで<ruby>自分<rt>じぶん</rt></ruby>たちへの<span\
+  \ style=\"color: blue;\"><ruby>信用<rt>しんよう</rt></ruby></span>がなくなったため<ruby>時間<rt>じかん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>だと<ruby>説明<rt>せつめい</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ノーベル賞
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の、<ruby><rb>学問</rb><rt>がくもん</rt></ruby>や<ruby><rb>平和</rb><rt>へいわ</rt></ruby>のためにりっぱな<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をした<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>毎年</rb><rt>まいとし</rt></ruby>あたえられる<ruby><rb>賞</rb><rt>しょう</rt></ruby>。<ruby><rb>化学者</rb><rt>かがくしゃ</rt></ruby>ノーベルの<ruby><rb>遺言</rb><rt>ゆいごん</rt></ruby>で、この<ruby><rb>制度</rb><rt>せいど</rt></ruby>ができた。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 贈る
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。
+- word: メンバー
+  descriptions:
+  - ある<ruby><rb>会</rb><rt>かい</rt></ruby>や<ruby><rb>仲間</rb><rt>なかま</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>会員</rb><rt>かいいん</rt></ruby>。
+- word: セクシャルハラスメント
+  descriptions:
+  - <ruby><rb>性</rb><rt>せい</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>して<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>不快</rb><rt>ふかい</rt></ruby>にしたり<ruby><rb>不安</rb><rt>ふあん</rt></ruby>にしたりする、いやがらせ。セクハラ。
+- word: 情報
+  descriptions:
+  - できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+- word: 信用
+  descriptions:
+  - <ruby><rb>信</rb><rt>しん</rt></ruby>じて<ruby><rb>疑</rb><rt>うたが</rt></ruby>わないこと。
+  - <ruby><rb>人々</rb><rt>ひとびと</rt></ruby>から<ruby><rb>信</rb><rt>しん</rt></ruby>じられていること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011427151000/k10011427151000.html
+web_title_with_ruby: <ruby>ノーベル<rt>のーべる</rt></ruby><ruby>文学賞<rt>ぶんがくしょう</rt></ruby>
+  ことしの<ruby>発表<rt>はっぴょう</rt></ruby><ruby>見送<rt>みおく</rt></ruby>り <ruby>スウェーデン<rt>すうぇーでん</rt></ruby>・<ruby>アカデミー<rt>あかでみー</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/04/ノーベル文学賞-ことしの発表見送り-スウェーデンアカデミー
+related_news:
+- title: フェイスブック「８７００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>不正<rt>ふせい</rt></ruby>に<ruby>使<rt>つか</rt></ruby>われた」
+  url: https://newswebeasy.github.io/news/easy/2018/04/05/フェイスブック8700万人の情報が不正に使われた
+- title: <ruby>暖<rt>あたた</rt></ruby>かい<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く<ruby>日<rt>ひ</rt></ruby>が<ruby>早<rt>はや</rt></ruby>くなりそう
+  url: https://newswebeasy.github.io/news/easy/2018/03/15/暖かい日が続いて桜が咲く日が早くなりそう
+...

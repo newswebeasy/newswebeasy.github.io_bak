@@ -63,8 +63,8 @@ more: スウェーデン・アカデミーは<ruby>日本<rt data-ruby-level="1"
   data-ruby-level="6">うたが</rt></ruby>いも<ruby>浮上<rt data-ruby-level="7">ふじょう</rt></ruby>し、<ruby>会員<rt
   data-ruby-level="3">かいいん</rt></ruby>の<ruby>辞任<rt data-ruby-level="5">じにん</rt></ruby>が<ruby>相次<rt
   data-ruby-level="3">あいつ</rt></ruby>いでいました。
-movie_url: https://newswebeasy.github.io/ja201805/news/web/movie/2018/05/04/k10011427151_201805041651_201805041652.mp4
-voice_url: https://newswebeasy.github.io/ja201805/news/web/voice/2018/05/04/k10011427151_201805041651_201805041652.mp3
+movie_url: https://newswebeasy.github.io/ja201805/news/web/movie/2018/05/04/k10011427151_201805041909_201805041910.mp4
+voice_url: https://newswebeasy.github.io/ja201805/news/web/voice/2018/05/04/k10011427151_201805041909_201805041910.mp3
 body:
 - title: アカデミーの<ruby>会員<rt data-ruby-level="3">かいいん</rt></ruby>とは
   text: 「スウェーデン・アカデミー」は１７８６<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>にグスタフ３<ruby>世<rt
@@ -173,6 +173,10 @@ body:
     data-ruby-level="5">しめ</rt></ruby>すための<ruby>改革<rt data-ruby-level="6">かいかく</rt></ruby>を<ruby>進<rt
     data-ruby-level="3">すす</rt></ruby>めてもらいたい」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。
 source_url: https://www3.nhk.or.jp/news/html/20180504/k10011427151000.html
+easy_title_with_ruby: <ruby>ノーベル<rt data-ruby-level="4">のーべる</rt></ruby><ruby>賞<rt
+  data-ruby-level="4">しょう</rt></ruby> <ruby>今年<rt data-ruby-level="8">ことし</rt></ruby>の<ruby>文学賞<rt
+  data-ruby-level="4">ぶんがくしょう</rt></ruby>は<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>しない
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/05/07/ノーベル賞-今年の文学賞は発表しない
 related_news:
 - title: ＃MeToo <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>現状<rt data-ruby-level="5">げんじょう</rt></ruby>は？
     ＮＹで<ruby>支援<rt data-ruby-level="7">しえん</rt></ruby><ruby>集会<rt data-ruby-level="3">しゅうかい</rt></ruby>
