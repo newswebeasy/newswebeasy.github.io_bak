@@ -1,0 +1,58 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011427811000
+last_modified_at: '2018-05-08T13:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>08<ruby>日<rt>にち</rt></ruby>
+  13<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 東京都は、子どもが携帯電話やスマートフォンをどのように使っているか、毎年調べています。
+title: 東京都　子どもの７０％がスマートフォンなどを使っている
+title_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby>　<ruby>子<rt>こ</rt></ruby>どもの７０％がスマートフォンなどを<ruby>使<rt>つか</rt></ruby>っている
+outline: 東京都は、子どもが携帯電話やスマートフォンをどのように使っているか、毎年調べています。
+outline_with_ruby: <ruby>東京都<rt>とうきょうと</rt></ruby>は、<ruby>子<rt>こ</rt></ruby>どもが<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>やスマートフォンをどのように<ruby>使<rt>つか</rt></ruby>っているか、<ruby>毎年<rt>まいとし</rt></ruby><ruby>調<rt>しら</rt></ruby>べています。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/05/K10011427811_1805051149_1805051151_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/08/k10011427811000.mp4
+content_with_ruby: "<p><ruby>東京都<rt>とうきょうと</rt></ruby>は、<ruby>子<rt>こ</rt></ruby>どもが<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>やスマートフォンをどのように<ruby>使<rt>つか</rt></ruby>っているか、<ruby>毎年<rt>まいとし</rt></ruby><ruby>調<rt>しら</rt></ruby>べています。<ruby>今年<rt>ことし</rt></ruby>は２<ruby>月<rt>がつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>小学生<rt>しょうがくせい</rt></ruby></span>や<ruby>中学生<rt>ちゅうがくせい</rt></ruby>や<ruby>高校生<rt>こうこうせい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもがいる<span\
+  \ style=\"color: blue;\"><ruby>親<rt>おや</rt></ruby></span>など２０００<ruby>人<rt>にん</rt></ruby>に<ruby>質問<rt>しつもん</rt></ruby>をしました。</p>\n\
+  <p><ruby>携帯電話<rt>けいたいでんわ</rt></ruby>やスマートフォンを<ruby>使<rt>つか</rt></ruby>っている<ruby>子<rt>こ</rt></ruby>どもは７０％で、<ruby>去年<rt>きょねん</rt></ruby>とだいたい<ruby>同<rt>おな</rt></ruby>じでした。スマートフォンを<ruby>使<rt>つか</rt></ruby>っているのは、<span\
+  \ style=\"color: blue;\"><ruby>小学生<rt>しょうがくせい</rt></ruby></span>は２０％ぐらいですが、<ruby>中学生<rt>ちゅうがくせい</rt></ruby>は６６％、<ruby>高校生<rt>こうこうせい</rt></ruby>は８９％でした。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>小学生<rt>しょうがくせい</rt></ruby></span>のときから<ruby>使<rt>つか</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>めている<ruby>子<rt>こ</rt></ruby>どもや、１<ruby>日<rt>にち</rt></ruby>に２<ruby>時間<rt>じかん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>使<rt>つか</rt></ruby>っている<ruby>子<rt>こ</rt></ruby>どもの<span\
+  \ style=\"color: blue;\"><ruby>割合<rt>わりあい</rt></ruby></span>は<ruby>去年<rt>きょねん</rt></ruby>より<ruby>増<rt>ふ</rt></ruby>えています。</p>\n\
+  <p><ruby>寝<rt>ね</rt></ruby>る<ruby>時間<rt>じかん</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>くなったり<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>しなくなったりしたという<ruby>答<rt>こた</rt></ruby>えは５１％で、<ruby>去年<rt>きょねん</rt></ruby>より<ruby>増<rt>ふ</rt></ruby>えました。<span\
+  \ style=\"color: blue;\">トラブル</span>も<ruby>増<rt>ふ</rt></ruby>えていて、<ruby>友達<rt>ともだち</rt></ruby>との<ruby>関係<rt>かんけい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなったり、<ruby>払<rt>はら</rt></ruby>う<ruby>必要<rt>ひつよう</rt></ruby>がないお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>えと<ruby>言<rt>い</rt></ruby>われたりした<ruby>子<rt>こ</rt></ruby>どももいました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 小学生
+  descriptions:
+  - <ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>に<ruby><rb>通</rb><rt>かよ</rt></ruby>っている<ruby><rb>子</rb><rt>こ</rt></ruby>ども。
+- word: 親
+  descriptions:
+  - <ruby><rb>父</rb><rt>ちち</rt></ruby>や<ruby><rb>母</rb><rt>はは</rt></ruby>。<ruby><rb>両親</rb><rt>りょうしん</rt></ruby>。
+  - <ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>をうんだもの。
+  - トランプやかるたなどの<ruby><rb>遊</rb><rt>あそ</rt></ruby>びで、カードを<ruby><rb>配</rb><rt>くば</rt></ruby>る<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となるもの。<ruby><rb>大</rb><rt>おお</rt></ruby>きいもの。
+- word: 割合
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>と<ruby><rb>物</rb><rt>もの</rt></ruby>との<ruby><rb>関係</rb><rt>かんけい</rt></ruby>を、<ruby><rb>数</rb><rt>かず</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。<ruby><rb>割</rb><rt>わり</rt></ruby>。<ruby><rb>率</rb><rt>りつ</rt></ruby>。<ruby><rb>歩合</rb><rt>ぶあい</rt></ruby>。
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>いのほか。<ruby><rb>比較的</rb><rt>ひかくてき</rt></ruby>。
+- word: トラブル
+  descriptions:
+  - もめごと。
+  - <ruby><rb>機械</rb><rt>きかい</rt></ruby>などの<ruby><rb>故障</rb><rt>こしょう</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011427811000/k10011427811000.html
+web_title_with_ruby: <ruby>子<rt>こ</rt></ruby>どもの70％ <ruby>スマホ<rt>すまほ</rt></ruby><ruby>利用<rt>りよう</rt></ruby>
+  <ruby>低年齢化<rt>ていねんれいか</rt></ruby>や<ruby>長時間<rt>ちょうじかん</rt></ruby><ruby>化<rt>か</rt></ruby><ruby>進<rt>すす</rt></ruby>む
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/05/子どもの70-スマホ利用-低年齢化や長時間化進む
+related_news:
+- title: 「<ruby>子<rt>こ</rt></ruby>ども<ruby>食堂<rt>しょくどう</rt></ruby>」が２０００<ruby>以上<rt>いじょう</rt></ruby>になる　おととしの７<ruby>倍<rt>ばい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/05/子ども食堂が2000以上になる-おととしの7倍
+- title: <ruby>子<rt>こ</rt></ruby>どもの<ruby>運動<rt>うんどう</rt></ruby>の<ruby>能力<rt>のうりょく</rt></ruby>　<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は４<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>上<rt>あ</rt></ruby>がる
+  url: https://newswebeasy.github.io/news/easy/2018/02/15/子どもの運動の能力-女の子は4年続けて上がる
+- title: ＳＮＳで<ruby>犯罪<rt>はんざい</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>にあった<ruby>子<rt>こ</rt></ruby>ども　<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2018/04/27/SNSで犯罪の被害にあった子ども-今までで最も多い
+- title: オリンピックのメダルを<ruby>作<rt>つく</rt></ruby>るために<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>をもっと<ruby>集<rt>あつ</rt></ruby>めたい
+  url: https://newswebeasy.github.io/news/easy/2018/03/28/オリンピックのメダルを作るために携帯電話をもっと集めたい
+- title: <ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>む<ruby>子<rt>こ</rt></ruby>ども「<ruby>体<rt>からだ</rt></ruby>と<ruby>心<rt>こころ</rt></ruby>の<ruby>治療<rt>ちりょう</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>」
+  url: https://newswebeasy.github.io/news/easy/2018/03/05/体の調子が悪くて学校を休む子ども体と心の治療が大切
+...

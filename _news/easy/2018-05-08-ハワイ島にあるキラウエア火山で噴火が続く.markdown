@@ -1,0 +1,91 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011429311000
+last_modified_at: '2018-05-08T17:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>08<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: アメリカのハワイ州にあるハワイ島で今月３日、キラウエア火山が噴火しました。
+title: ハワイ島にあるキラウエア火山で噴火が続く
+title_with_ruby: ハワイ<ruby>島<rt>とう</rt></ruby>にあるキラウエア<ruby>火山<rt>かざん</rt></ruby>で<ruby>噴火<rt>ふんか</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>く
+outline: アメリカのハワイ州にあるハワイ島で今月３日、キラウエア火山が噴火しました。
+outline_with_ruby: アメリカのハワイ<ruby>州<rt>しゅう</rt></ruby>にあるハワイ<ruby>島<rt>とう</rt></ruby>で<ruby>今月<rt>こんげつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>、キラウエア<ruby>火山<rt>かざん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/07/K10011429311_1805071143_1805071144_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/08/k10011429311000.mp4
+content_with_ruby: "<p>アメリカのハワイ<ruby>州<rt>しゅう</rt></ruby>にあるハワイ<ruby>島<rt>とう</rt></ruby>で<ruby>今月<rt>こんげつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>、キラウエア<ruby>火山<rt>かざん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>しました。<span style=\"color:\
+  \ blue;\"><ruby>地面<rt>じめん</rt></ruby></span>が<ruby>割<rt>わ</rt></ruby>れた<ruby>所<rt>ところ</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>溶岩<rt>ようがん</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>て、２６<ruby>軒<rt>けん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>が<ruby>焼<rt>や</rt></ruby>けました。<ruby>体<rt>からだ</rt></ruby>に<ruby>悪<rt>わる</rt></ruby>いガスも<ruby>出<rt>で</rt></ruby>ていて、しばらく<span\
+  \ style=\"color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>が<ruby>続<rt>つづ</rt></ruby>きそうです。</p>\n\
+  <p>ハワイ<ruby>州<rt>しゅう</rt></ruby>などは、<span style=\"color: blue;\"><ruby>火山<rt>かざん</rt></ruby></span>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>住<rt>す</rt></ruby>んでいる<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１７００<ruby>人<rt>にん</rt></ruby>に、<span\
+  \ style=\"color: blue;\"><ruby>避難<rt>ひなん</rt></ruby></span>するように<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>今月<rt>こんげつ</rt></ruby><ruby>４日<rt>よっか</rt></ruby>には<span style=\"color:\
+  \ blue;\">マグニチュード</span>６．９（Ｍ６．９）の<ruby>地震<rt>じしん</rt></ruby>が<span style=\"color:\
+  \ blue;\"><ruby>起<rt>お</rt></ruby>こっ</span>て、そのあとも<ruby>地震<rt>じしん</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。</p>\n\
+  <p>ハワイ<ruby>島<rt>とう</rt></ruby>は、<span style=\"color: blue;\"><ruby>火山<rt>かざん</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>る<span\
+  \ style=\"color: blue;\">ツアー</span>などが<span style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>観光地<rt>かんこうち</rt></ruby></span>です。<span style=\"\
+  color: blue;\"><ruby>外務省<rt>がいむしょう</rt></ruby></span>は、ハワイ<ruby>島<rt>とう</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べて、<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけるように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 噴火
+  descriptions:
+  - <ruby><rb>火山</rb><rt>かざん</rt></ruby>が<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>して、とけた<ruby><rb>溶岩</rb><rt>ようがん</rt></ruby>や、<ruby><rb>火山灰</rb><rt>かざんばい</rt></ruby>・<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>・ガスをふき<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 地面
+  descriptions:
+  - <ruby><rb>土地</rb><rt>とち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>土</rb><rt>つち</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>。<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>。<ruby><rb>地</rb><rt>じ</rt></ruby>べた。
+  - <ruby><rb>土地</rb><rt>とち</rt></ruby>。<ruby><rb>地所</rb><rt>じしょ</rt></ruby>。
+- word: 溶岩
+  descriptions:
+  - <ruby><rb>地下</rb><rt>ちか</rt></ruby>のとけた<ruby><rb>岩</rb><rt>いわ</rt></ruby>が、<ruby><rb>火山</rb><rt>かざん</rt></ruby>の<ruby><rb>噴火</rb><rt>ふんか</rt></ruby>で<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>に<ruby><rb>流</rb><rt>なが</rt></ruby>れ<ruby><rb>出</rb><rt>で</rt></ruby>たもの。また、それが<ruby><rb>冷</rb><rt>ひ</rt></ruby>えて<ruby><rb>固</rb><rt>かた</rt></ruby>まった<ruby><rb>岩</rb><rt>いわ</rt></ruby>。
+- word: 火山
+  descriptions:
+  - <ruby><rb>地下</rb><rt>ちか</rt></ruby>のマグマが、<ruby><rb>地表</rb><rt>ちひょう</rt></ruby>にふき<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>山</rb><rt>やま</rt></ruby>となっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 避難
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。
+- word: マグニチュード
+  descriptions:
+  - <ruby><rb>地震</rb><rt>じしん</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさの<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: 起こる
+  descriptions:
+  - <ruby><rb>始</rb><rt>はじ</rt></ruby>まる。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。
+- word: ツアー
+  descriptions:
+  - <ruby><rb>観光</rb><rt>かんこう</rt></ruby>やスポーツなどのために、<ruby><rb>団体</rb><rt>だんたい</rt></ruby>で<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: 観光地
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>が<ruby><rb>美</rb><rt>うつく</rt></ruby>しかったり、<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>があったりして、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 外務省
+  descriptions:
+  - <ruby><rb>外国</rb><rt>がいこく</rt></ruby>とのつきあいや<ruby><rb>条約</rb><rt>じょうやく</rt></ruby>の<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めなどの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 情報
+  descriptions:
+  - できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011429311000/k10011429311000.html
+web_title_with_ruby: <ruby>ハワイ<rt>はわい</rt></ruby><ruby>島<rt>とう</rt></ruby><ruby>キラウエア<rt>きらうえあ</rt></ruby><ruby>火山<rt>かざん</rt></ruby><ruby>噴火<rt>ふんか</rt></ruby>
+  <ruby>被害<rt>ひがい</rt></ruby>が<ruby>拡大<rt>かくだい</rt></ruby> <ruby>住宅<rt>じゅうたく</rt></ruby>26<ruby>棟<rt>むね</rt></ruby><ruby>焼<rt>や</rt></ruby>ける
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/07/ハワイ島キラウエア火山噴火-被害が拡大-住宅26棟焼ける
+related_news:
+- title: <ruby>鹿児島県<rt>かごしまけん</rt></ruby>と<ruby>宮崎県<rt>みやざきけん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にある<ruby>新燃岳<rt>しんもえだけ</rt></ruby>　<ruby>噴火<rt>ふんか</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/03/08/鹿児島県と宮崎県の間にある新燃岳-噴火が続く
+- title: <ruby>台湾<rt>たいわん</rt></ruby>で<ruby>地震<rt>じしん</rt></ruby>　５<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって２５０<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>がけがをする
+  url: https://newswebeasy.github.io/news/easy/2018/02/07/台湾で地震-5人が亡くなって250人以上がけがをする
+- title: <ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>のときは<ruby>緊急地震速報<rt>きんきゅうじしんそくほう</rt></ruby>に<ruby>続<rt>つづ</rt></ruby>きの<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>出<rt>で</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/03/22/大きな地震のときは緊急地震速報に続きの情報が出る
+- title: <ruby>宮崎県<rt>みやざきけん</rt></ruby>にある<ruby>硫黄山<rt>いおうやま</rt></ruby>で２<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>の<ruby>噴火<rt>ふんか</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/27/宮崎県にある硫黄山で2回目の噴火
+- title: <ruby>島根県<rt>しまねけん</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/09/島根県で大きな地震
+...

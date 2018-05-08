@@ -1,0 +1,58 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011429891000
+last_modified_at: '2018-05-08T17:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>08<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 奈良市の法華寺というお寺には、「文殊菩薩坐像」という仏像があります。
+title: 奈良市のお寺の仏像にたくさんの巻物などが入っていた
+title_with_ruby: <ruby>奈良市<rt>ならし</rt></ruby>のお<ruby>寺<rt>てら</rt></ruby>の<ruby>仏像<rt>ぶつぞう</rt></ruby>にたくさんの<ruby>巻物<rt>まきもの</rt></ruby>などが<ruby>入<rt>はい</rt></ruby>っていた
+outline: 奈良市の法華寺というお寺には、「文殊菩薩坐像」という仏像があります。
+outline_with_ruby: <ruby>奈良市<rt>ならし</rt></ruby>の<ruby>法華寺<rt>ほっけじ</rt></ruby>というお<ruby>寺<rt>てら</rt></ruby>には、「<ruby>文殊<rt>もんじゅ</rt></ruby><ruby>菩薩<rt>ぼさつ</rt></ruby><ruby>坐像<rt>ざぞう</rt></ruby>」という<ruby>仏像<rt>ぶつぞう</rt></ruby>があります。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/07/K10011429891_1805071844_1805071916_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/08/k10011429891000.mp4
+content_with_ruby: "<p><ruby>奈良市<rt>ならし</rt></ruby>の<ruby>法華寺<rt>ほっけじ</rt></ruby>というお<ruby>寺<rt>てら</rt></ruby>には、「<ruby>文殊<rt>もんじゅ</rt></ruby><ruby>菩薩<rt>ぼさつ</rt></ruby><ruby>坐像<rt>ざぞう</rt></ruby>」という<span\
+  \ style=\"color: blue;\"><ruby>仏像<rt>ぶつぞう</rt></ruby></span>があります。<ruby>高<rt>たか</rt></ruby>さは７３ｃｍで、１３<span\
+  \ style=\"color: blue;\"><ruby>世紀<rt>せいき</rt></ruby></span>につくられました。</p>\n<p><ruby>奈良国立博物館<rt>ならこくりつはくぶつかん</rt></ruby>は、<span\
+  \ style=\"color: blue;\">Ｘ<ruby>線<rt>せん</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>ってこの<span\
+  \ style=\"color: blue;\"><ruby>仏像<rt>ぶつぞう</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べました。その<span\
+  \ style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>、<ruby>頭<rt>あたま</rt></ruby>やおなかの<ruby>中<rt>なか</rt></ruby>に、<ruby>長<rt>なが</rt></ruby>い<ruby>紙<rt>かみ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>巻<rt>ま</rt></ruby>い</span>た<ruby>巻物<rt>まきもの</rt></ruby>などが１８０<ruby>個<rt>こ</rt></ruby>ぐらい<ruby>入<rt>はい</rt></ruby>っていることがわかりました。<ruby>今<rt>いま</rt></ruby>までに<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っている<ruby>物<rt>もの</rt></ruby>を<ruby>出<rt>だ</rt></ruby>したことはなくて、<span\
+  \ style=\"color: blue;\"><ruby>仏像<rt>ぶつぞう</rt></ruby></span>をつくったときのまま<ruby>残<rt>のこ</rt></ruby>っていると<ruby>考<rt>かんが</rt></ruby>えられています。</p>\n\
+  <p><ruby>奈良国立博物館<rt>ならこくりつはくぶつかん</rt></ruby>は、<span style=\"color: blue;\"><ruby>仏像<rt>ぶつぞう</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>にこんなにたくさんの<ruby>物<rt>もの</rt></ruby>が<ruby>入<rt>はい</rt></ruby>っていることがわかったのは<ruby>珍<rt>めずら</rt></ruby>しいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>この<span style=\"color: blue;\"><ruby>仏像<rt>ぶつぞう</rt></ruby></span>は、<ruby>今月<rt>こんげつ</rt></ruby><ruby>８日<rt>ようか</rt></ruby>から２７<ruby>日<rt>にち</rt></ruby>までは<ruby>奈良国立博物館<rt>ならこくりつはくぶつかん</rt></ruby>で<ruby>見<rt>み</rt></ruby>せています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 仏像
+  descriptions:
+  - <ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>したり、<ruby><rb>絵</rb><rt>え</rt></ruby>にかいたりして<ruby><rb>表</rb><rt>あらわ</rt></ruby>した<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>の<ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+- word: 世紀
+  descriptions:
+  - １００<ruby><rb>年</rb><rt>ねん</rt></ruby>を<ruby><rb>単位</rb><rt>たんい</rt></ruby>として<ruby><rb>数</rb><rt>かぞ</rt></ruby>える<ruby><rb>年代</rb><rt>ねんだい</rt></ruby>の<ruby><rb>数</rb><rt>かぞ</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>西暦</rb><rt>せいれき</rt></ruby>１<ruby><rb>年</rb><rt>ねん</rt></ruby>から１００<ruby><rb>年</rb><rt>ねん</rt></ruby>までを<ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>と<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶ。<ruby><rb>２１世紀</rb><rt>にじゅういっせいき</rt></ruby>は２００１<ruby><rb>年</rb><rt>ねん</rt></ruby>から２１００<ruby><rb>年</rb><rt>ねん</rt></ruby>まで。
+  - <ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>に<ruby><rb>１度</rb><rt>いちど</rt></ruby>しかないようなもの。
+- word: エックス線
+  descriptions:
+  - <ruby><rb>目</rb><rt>め</rt></ruby>には<ruby><rb>見</rb><rt>み</rt></ruby>えないが、<ruby><rb>物</rb><rt>もの</rt></ruby>をすかし<ruby><rb>通</rb><rt>とお</rt></ruby>す<ruby><rb>力</rb><rt>ちから</rt></ruby>の<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>放射</rb><rt>ほうしゃ</rt></ruby><ruby><rb>線</rb><rt>せん</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>内部</rb><rt>ないぶ</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べるのに<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+- word: 巻く
+  descriptions:
+  - <ruby><rb>長</rb><rt>なが</rt></ruby>いものを、はしから<ruby><rb>丸</rb><rt>まる</rt></ruby>める。
+  - <ruby><rb>長</rb><rt>なが</rt></ruby>いものを<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りにからみつける。
+  - ぐるぐるとまるく<ruby><rb>動</rb><rt>うご</rt></ruby>く。また、<ruby><rb>動</rb><rt>うご</rt></ruby>かす。
+  - <ruby><rb>回</rb><rt>まわ</rt></ruby>してしめる。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>囲</rb><rt>かこ</rt></ruby>む。
+source_url: http://www3.nhk.or.jp/news/easy/k10011429891000/k10011429891000.html
+web_title_with_ruby: <ruby>鎌倉時代<rt>かまくらじだい</rt></ruby>の<ruby>仏像<rt>ぶつぞう</rt></ruby><ruby>内部<rt>ないぶ</rt></ruby>に<ruby>大量<rt>たいりょう</rt></ruby>の<ruby>巻物<rt>まきもの</rt></ruby>など<ruby>確認<rt>かくにん</rt></ruby>
+  <ruby>奈良<rt>なら</rt></ruby> <ruby>法華寺<rt>ほっけじ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/07/鎌倉時代の仏像内部に大量の巻物など確認-奈良-法華寺
+related_news:
+- title: インフルエンザになった<ruby>人<rt>ひと</rt></ruby>が<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/04/26/インフルエンザになった人が今まででいちばん多くなる
+- title: 「１<ruby>万<rt>まん</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>のイギリス<ruby>人<rt>じん</rt></ruby>の<ruby>肌<rt>はだ</rt></ruby>は<ruby>薄<rt>うす</rt></ruby>い<ruby>黒<rt>くろ</rt></ruby>だった」
+  url: https://newswebeasy.github.io/news/easy/2018/02/08/1万年前のイギリス人の肌は薄い黒だった
+- title: <ruby>成田空港<rt>なりたくうこう</rt></ruby>　<ruby>客<rt>きゃく</rt></ruby>の<ruby>荷物<rt>にもつ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>立体<rt>りったい</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>見<rt>み</rt></ruby>る<ruby>機械<rt>きかい</rt></ruby>の<ruby>実験<rt>じっけん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/02/19/成田空港-客の荷物の中を立体的に見る機械の実験
+...

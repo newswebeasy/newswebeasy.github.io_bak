@@ -2,9 +2,9 @@
 layout: web_news
 categories: web
 newsid: k10011428421000
-title: 鉄腕アトムの「原画」約３５００万円で落札 フランス
+title: 鉄腕アトムの「原画」約3500万円で落札 フランス
 title_with_ruby: <ruby>鉄腕<rt data-ruby-level="7">てつわん</rt></ruby><ruby>アトム<rt data-ruby-level="7">あとむ</rt></ruby>の「<ruby>原画<rt
-  data-ruby-level="2">げんが</rt></ruby>」<ruby>約<rt data-ruby-level="4">やく</rt></ruby>３５００<ruby>万円<rt
+  data-ruby-level="2">げんが</rt></ruby>」<ruby>約<rt data-ruby-level="4">やく</rt></ruby>3500<ruby>万円<rt
   data-ruby-level="2">まんえん</rt></ruby>で<ruby>落札<rt data-ruby-level="4">らくさつ</rt></ruby>
   フランス
 last_modified_at: '2018-05-06T05:04:00+09:00'
@@ -68,6 +68,10 @@ more: パリで５<ruby>日<rt data-ruby-level="1">にち</rt></ruby>、<ruby>�
 movie_url: https://newswebeasy.github.io/ja201805/news/web/movie/2018/05/06/k10011428421_201805060524_201805060530.mp4
 voice_url: https://newswebeasy.github.io/ja201805/news/web/voice/2018/05/06/k10011428421_201805060524_201805060530.mp3
 source_url: https://www3.nhk.or.jp/news/html/20180506/k10011428421000.html
+easy_title_with_ruby: <ruby>漫画<rt data-ruby-level="7">まんが</rt></ruby>「<ruby>鉄腕<rt
+  data-ruby-level="7">てつわん</rt></ruby><ruby>アトム<rt data-ruby-level="7">あとむ</rt></ruby>」の１ページがオークションで３５００<ruby>万<rt
+  data-ruby-level="2">まん</rt></ruby><ruby>円<rt data-ruby-level="1">えん</rt></ruby>
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/05/08/漫画鉄腕アトムの1ページがオークションで3500万円
 related_news:
 - title: <ruby>美術館<rt data-ruby-level="5">びじゅつかん</rt></ruby><ruby>絵画<rt data-ruby-level="2">かいが</rt></ruby>の<ruby>半数<rt
     data-ruby-level="2">はんすう</rt></ruby><ruby>以上<rt data-ruby-level="4">いじょう</rt></ruby>“がん<ruby>作<rt

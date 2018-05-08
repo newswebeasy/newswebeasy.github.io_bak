@@ -60,6 +60,9 @@ more: <ruby>東京都<rt data-ruby-level="3">とうきょうと</rt></ruby>は�
   data-ruby-level="3">かていない</rt></ruby>でルールを<ruby>設<rt data-ruby-level="5">もう</rt></ruby>けることなどを<ruby>呼<rt
   data-ruby-level="6">よ</rt></ruby>びかけています。
 source_url: https://www3.nhk.or.jp/news/html/20180505/k10011427811000.html
+easy_title_with_ruby: <ruby>東京都<rt data-ruby-level="3">とうきょうと</rt></ruby> <ruby>子<rt
+  data-ruby-level="1">こ</rt></ruby>どもの７０％がスマートフォンなどを<ruby>使<rt data-ruby-level="3">つか</rt></ruby>っている
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/05/08/東京都-子どもの70がスマートフォンなどを使っている
 related_news:
 - title: <ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもの<ruby>数<rt data-ruby-level="2">すう</rt></ruby>1553<ruby>万人<rt
     data-ruby-level="2">まんにん</rt></ruby> 37<ruby>年<rt data-ruby-level="1">ねん</rt></ruby><ruby>連続<rt

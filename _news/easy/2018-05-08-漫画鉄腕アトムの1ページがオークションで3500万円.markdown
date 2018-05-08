@@ -1,0 +1,70 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011428421000
+last_modified_at: '2018-05-08T13:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>08<ruby>日<rt>にち</rt></ruby>
+  13<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: フランスのパリで５日、世界の漫画を集めたオークションがありました。
+title: 漫画「鉄腕アトム」の１ページがオークションで３５００万円
+title_with_ruby: <ruby>漫画<rt>まんが</rt></ruby>「<ruby>鉄腕<rt>てつわん</rt></ruby>アトム」の１ページがオークションで３５００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>
+outline: フランスのパリで５日、世界の漫画を集めたオークションがありました。
+outline_with_ruby: フランスのパリで<ruby>５日<rt>いつか</rt></ruby>、<ruby>世界<rt>せかい</rt></ruby>の<ruby>漫画<rt>まんが</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めたオークションがありました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/06/K10011428421_1805060050_1805060051_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/08/k10011428421000.mp4
+content_with_ruby: "<p>フランスのパリで<ruby>５日<rt>いつか</rt></ruby>、<ruby>世界<rt>せかい</rt></ruby>の<ruby>漫画<rt>まんが</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めた<span\
+  \ style=\"color: blue;\">オークション</span>がありました。この<ruby>中<rt>なか</rt></ruby>には、<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>漫画<rt>まんが</rt></ruby><ruby>家<rt>か</rt></ruby>の<ruby>手塚治虫<rt>てづかおさむ</rt></ruby>さんがかいたという「<ruby>鉄腕<rt>てつわん</rt></ruby>アトム」の<ruby>絵<rt>え</rt></ruby>もありました。</p>\n\
+  <p><span style=\"color: blue;\">オークション</span>の<ruby>会社<rt>かいしゃ</rt></ruby>によると、この<ruby>絵<rt>え</rt></ruby>は、<ruby>手塚<rt>てづか</rt></ruby>さんが６０<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>の<ruby>雑誌<rt>ざっし</rt></ruby>に<ruby>出<rt>だ</rt></ruby>した<ruby>漫画<rt>まんが</rt></ruby>の１ページです。オーストラリアに<ruby>住<rt>す</rt></ruby>む<ruby>人<rt>ひと</rt></ruby>が、<ruby>手塚<rt>てづか</rt></ruby>さんの<ruby>漫画<rt>まんが</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>展覧会<rt>てんらんかい</rt></ruby></span>で<ruby>買<rt>か</rt></ruby>ったものです。</p>\n\
+  <p><span style=\"color: blue;\">オークション</span>が<ruby>始<rt>はじ</rt></ruby>まるとどんどん<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がって、<ruby>日本<rt>にっぽん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>３５００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>になりました。この<ruby>日<rt>ひ</rt></ruby>のいちばん<ruby>高<rt>たか</rt></ruby>い<ruby>値段<rt>ねだん</rt></ruby>でした。<ruby>会社<rt>かいしゃ</rt></ruby>は、この<ruby>絵<rt>え</rt></ruby>を<ruby>買<rt>か</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>は<span\
+  \ style=\"color: blue;\">ヨーロッパ</span>の<ruby>人<rt>ひと</rt></ruby>で、<ruby>電話<rt>でんわ</rt></ruby>で<span\
+  \ style=\"color: blue;\">オークション</span>に<span style=\"color: blue;\"><ruby>参加<rt>さんか</rt></ruby></span>したと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>漫画<rt>まんが</rt></ruby>はフランスで<span style=\"\
+  color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>があります。フランス<ruby>人<rt>じん</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>は「この<ruby>絵<rt>え</rt></ruby>は、<ruby>美術館<rt>びじゅつかん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>展示<rt>てんじ</rt></ruby></span>できるすばらしい<span style=\"\
+  color: blue;\"><ruby>作品<rt>さくひん</rt></ruby></span>です。お<ruby>金<rt>かね</rt></ruby>があったら<ruby>私<rt>わたし</rt></ruby>が<ruby>買<rt>か</rt></ruby>いたかったです」と<ruby>残念<rt>ざんねん</rt></ruby>そうに<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 競り売り
+  descriptions:
+  - <ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。
+- word: 展覧会
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>や<ruby><rb>作品</rb><rt>さくひん</rt></ruby>を<ruby><rb>並</rb><rt>なら</rt></ruby>べて、たくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: 参加
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: 展示
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>並</rb><rt>なら</rt></ruby>べて、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せること。
+- word: 作品
+  descriptions:
+  - <ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。<ruby><rb>文学</rb><rt>ぶんがく</rt></ruby>・<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>・<ruby><rb>美術</rb><rt>びじゅつ</rt></ruby>などで、<ruby><rb>作者</rb><rt>さくしゃ</rt></ruby>が<ruby><rb>創造</rb><rt>そうぞう</rt></ruby>したもの。
+source_url: http://www3.nhk.or.jp/news/easy/k10011428421000/k10011428421000.html
+web_title_with_ruby: <ruby>鉄腕<rt>てつわん</rt></ruby><ruby>アトム<rt>あとむ</rt></ruby>の「<ruby>原画<rt>げんが</rt></ruby>」<ruby>約<rt>やく</rt></ruby>3500<ruby>万円<rt>まんえん</rt></ruby>で<ruby>落札<rt>らくさつ</rt></ruby>
+  <ruby>フランス<rt>ふらんす</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/06/鉄腕アトムの原画約3500万円で落札-フランス
+related_news:
+- title: フランスの<ruby>美術館<rt>びじゅつかん</rt></ruby>　<ruby>半分<rt>はんぶん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>絵<rt>え</rt></ruby>が<ruby>偽物<rt>にせもの</rt></ruby>だったと<ruby>謝<rt>あやま</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/05/02/フランスの美術館-半分以上の絵が偽物だったと謝る
+- title: <ruby>香港<rt>ほんこん</rt></ruby>　<ruby>香取<rt>かとり</rt></ruby><ruby>慎吾<rt>しんご</rt></ruby>さんが<ruby>壁<rt>かべ</rt></ruby>にかいた<ruby>絵<rt>え</rt></ruby>を<ruby>見<rt>み</rt></ruby>せる
+  url: https://newswebeasy.github.io/news/easy/2018/03/29/香港-香取慎吾さんが壁にかいた絵を見せる
+- title: ９５<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>のドイツのカメラが３<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/03/14/95年前のドイツのカメラが3億円以上になる
+- title: <ruby>本<rt>ほん</rt></ruby>よりスマホで<ruby>読<rt>よ</rt></ruby>む<ruby>漫画<rt>まんが</rt></ruby>の<ruby>売<rt>う</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げのほうが<ruby>多<rt>おお</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/02/28/本よりスマホで読む漫画の売り上げのほうが多くなる
+- title: ニューヨークで<ruby>日本<rt>にっぽん</rt></ruby>にいるような<ruby>写真<rt>しゃしん</rt></ruby>が<ruby>撮<rt>と</rt></ruby>れるイベント
+  url: https://newswebeasy.github.io/news/easy/2018/03/16/ニューヨークで日本にいるような写真が撮れるイベント
+...
