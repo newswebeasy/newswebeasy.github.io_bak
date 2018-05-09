@@ -1,0 +1,77 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011431291000
+last_modified_at: '2018-05-09T18:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>09<ruby>日<rt>にち</rt></ruby>
+  18<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: ＪＲ東日本は８日、東京と静岡県の伊豆の間で観光のための新しい電車の運転を始めると発表しました。
+title: ２０２０年から東京と伊豆の間を新しい観光の電車が走る
+title_with_ruby: ２０２０<ruby>年<rt>ねん</rt></ruby>から<ruby>東京<rt>とうきょう</rt></ruby>と<ruby>伊豆<rt>いず</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しい<ruby>観光<rt>かんこう</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>走<rt>はし</rt></ruby>る
+outline: ＪＲ東日本は８日、東京と静岡県の伊豆の間で観光のための新しい電車の運転を始めると発表しました。
+outline_with_ruby: ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>は<ruby>８日<rt>ようか</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>と<ruby>静岡県<rt>しずおかけん</rt></ruby>の<ruby>伊豆<rt>いず</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>観光<rt>かんこう</rt></ruby>のための<ruby>新<rt>あたら</rt></ruby>しい<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めると<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/09/K10011431291_1805090003_1805090408_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/09/k10011431291000.mp4
+content_with_ruby: "<p>ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>は<ruby>８日<rt>ようか</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>と<ruby>静岡県<rt>しずおかけん</rt></ruby>の<ruby>伊豆<rt>いず</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>観光<rt>かんこう</rt></ruby></span>のための<ruby>新<rt>あたら</rt></ruby>しい<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めると<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p><ruby>伊豆<rt>いず</rt></ruby>は<ruby>有名<rt>ゆうめい</rt></ruby>な<span\
+  \ style=\"color: blue;\"><ruby>観光地<rt>かんこうち</rt></ruby></span>です。<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>色<rt>いろ</rt></ruby>は<ruby>伊豆<rt>いず</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>と<ruby>空<rt>そら</rt></ruby>を<span\
+  \ style=\"color: blue;\">イメージ</span>した<ruby>青<rt>あお</rt></ruby>で、<ruby>普通<rt>ふつう</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>より<ruby>席<rt>せき</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>くします。</p>\n\
+  <p><ruby>電車<rt>でんしゃ</rt></ruby>は２０２０<ruby>年<rt>ねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>に<ruby>走<rt>はし</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める<ruby>予定<rt>よてい</rt></ruby>です。２０２０<ruby>年<rt>ねん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>には<ruby>東京<rt>とうきょう</rt></ruby><span\
+  \ style=\"color: blue;\">オリンピック</span>と<span style=\"color: blue;\">パラリンピック</span>があります。ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>は<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>来<rt>く</rt></ruby>る<ruby>外国人<rt>がいこくじん</rt></ruby>にもこの<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ってほしいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、<ruby>外国人<rt>がいこくじん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>がある<span style=\"color:\
+  \ blue;\">ラーメン</span>や<span style=\"color: blue;\">そば</span>、<span style=\"color:\
+  \ blue;\">うどん</span>などを<ruby>食<rt>た</rt></ruby>べることができる<span style=\"color: blue;\"\
+  ><ruby>車両<rt>しゃりょう</rt></ruby></span>もあります。ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>は「<span\
+  \ style=\"color: blue;\">サービス</span>がいい<ruby>電車<rt>でんしゃ</rt></ruby>にしたいです」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 観光
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 観光地
+  descriptions:
+  - <ruby><rb>景色</rb><rt>けしき</rt></ruby>が<ruby><rb>美</rb><rt>うつく</rt></ruby>しかったり、<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>があったりして、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: イメージ
+  descriptions:
+  - <ruby><rb>想像</rb><rt>そうぞう</rt></ruby>して、<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にえがき<ruby><rb>出</rb><rt>だ</rt></ruby>す、ものの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>４年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: ラーメン
+  descriptions:
+  - <ruby><rb>中国風</rb><rt>ちゅうごくふう</rt></ruby>のめんをゆで、スープをかけた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>中華</rb><rt>ちゅうか</rt></ruby>そば。
+- word: そば
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>赤</rb><rt>あか</rt></ruby>みのある<ruby><rb>茎</rb><rt>くき</rt></ruby>に、<ruby><rb>秋</rb><rt>あき</rt></ruby>の<ruby><rb>初</rb><rt>はじ</rt></ruby>めごろ、<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>花</rb><rt>はな</rt></ruby>をつける。<ruby><rb>実</rb><rt>み</rt></ruby>からそば<ruby><rb>粉</rb><rt>こ</rt></ruby>をとる。
+  - そば<ruby><rb>粉</rb><rt>こ</rt></ruby>を<ruby><rb>水</rb><rt>みず</rt></ruby>でこねて<ruby><rb>細</rb><rt>ほそ</rt></ruby>く<ruby><rb>切</rb><rt>き</rt></ruby>った、めん<ruby><rb>類</rb><rt>るい</rt></ruby>。
+- word: うどん
+  descriptions:
+  - <ruby><rb>小麦粉</rb><rt>こむぎこ</rt></ruby>を、<ruby><rb>水</rb><rt>みず</rt></ruby>でこねてうすくのばし、<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>く<ruby><rb>切</rb><rt>き</rt></ruby>ってゆでた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 車両
+  descriptions:
+  - <ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>・<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>などのこと。また、その<ruby><rb>一台</rb><rt>いちだい</rt></ruby><ruby><rb>一台</rb><rt>いちだい</rt></ruby>。
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011431291000/k10011431291000.html
+web_title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>と<ruby>伊豆<rt>いず</rt></ruby><ruby>半島<rt>はんとう</rt></ruby><ruby>結<rt>むす</rt></ruby>ぶ<ruby>観光<rt>かんこう</rt></ruby><ruby>特急<rt>とっきゅう</rt></ruby><ruby>導入<rt>どうにゅう</rt></ruby>へ
+  <ruby>訪日<rt>ほうにち</rt></ruby><ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>利用<rt>りよう</rt></ruby><ruby>見込<rt>みこ</rt></ruby>む
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/09/東京と伊豆半島結ぶ観光特急導入へ-訪日外国人の利用見込む
+related_news:
+- title: ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>がこれからつくる<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>にカメラを<ruby>付<rt>つ</rt></ruby>ける
+  url: https://newswebeasy.github.io/news/easy/2018/04/05/JR東日本がこれからつくる全部の電車にカメラを付ける
+- title: <ruby>東京<rt>とうきょう</rt></ruby>オリンピックで<ruby>道<rt>みち</rt></ruby>や<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>混<rt>こ</rt></ruby>まないように<ruby>考<rt>かんが</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2018/04/26/東京オリンピックで道や電車が混まないように考える
+...

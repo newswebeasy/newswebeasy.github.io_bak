@@ -1,0 +1,84 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011429951000
+last_modified_at: '2018-05-09T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>09<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: エジプトの昔の王、ツタンカーメンの墓は、ルクソールの「王家の谷」にあります。
+title: エジプト「ツタンカーメン王の墓に秘密の部屋はなかった」
+title_with_ruby: エジプト「ツタンカーメン<ruby>王<rt>おう</rt></ruby>の<ruby>墓<rt>はか</rt></ruby>に<ruby>秘密<rt>ひみつ</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>はなかった」
+outline: エジプトの昔の王、ツタンカーメンの墓は、ルクソールの「王家の谷」にあります。
+outline_with_ruby: エジプトの<ruby>昔<rt>むかし</rt></ruby>の<ruby>王<rt>おう</rt></ruby>、ツタンカーメンの<ruby>墓<rt>はか</rt></ruby>は、ルクソールの「<ruby>王家<rt>おうけ</rt></ruby>の<ruby>谷<rt>たに</rt></ruby>」にあります。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/07/K10011429951_1805071917_1805071928_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/09/k10011429951000.mp4
+content_with_ruby: "<p>エジプトの<ruby>昔<rt>むかし</rt></ruby>の<span style=\"color: blue;\"\
+  ><ruby>王<rt>おう</rt></ruby></span>、ツタンカーメンの<span style=\"color: blue;\"><ruby>墓<rt>はか</rt></ruby></span>は、ルクソールの「<ruby>王家<rt>おうけ</rt></ruby>の<ruby>谷<rt>たに</rt></ruby>」にあります。この<span\
+  \ style=\"color: blue;\"><ruby>墓<rt>はか</rt></ruby></span>には<span style=\"color:\
+  \ blue;\"><ruby>秘密<rt>ひみつ</rt></ruby></span>の<ruby>部屋<rt>へや</rt></ruby>がある<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があって、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>技術<rt>ぎじゅつ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>者<rt>しゃ</rt></ruby></span>などの<span style=\"color:\
+  \ blue;\">チーム</span>が２０１５<ruby>年<rt>ねん</rt></ruby>に<span style=\"color: blue;\"\
+  >レーダー</span>を<ruby>使<rt>つか</rt></ruby>って<ruby>調<rt>しら</rt></ruby>べました。その<span style=\"\
+  color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>、エジプトの<span style=\"color: blue;\"\
+  ><ruby>政府<rt>せいふ</rt></ruby></span>は、２つの<ruby>部屋<rt>へや</rt></ruby>があるようだと<span style=\"\
+  color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>していました。</p>\n<p>しかし、エジプトの<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は<ruby>６日<rt>むいか</rt></ruby>、「<span\
+  \ style=\"color: blue;\"><ruby>秘密<rt>ひみつ</rt></ruby></span>の<ruby>部屋<rt>へや</rt></ruby>はなかった」と<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。イタリアの<ruby>研究<rt>けんきゅう</rt></ruby><span\
+  \ style=\"color: blue;\">チーム</span>が<ruby>別<rt>べつ</rt></ruby>の<span style=\"color:\
+  \ blue;\">レーダー</span>を<ruby>使<rt>つか</rt></ruby>ってもう<ruby>一度<rt>いちど</rt></ruby><ruby>調<rt>しら</rt></ruby>べた<span\
+  \ style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>、<ruby>部屋<rt>へや</rt></ruby>が<ruby>見<rt>み</rt></ruby>つからなかったためです。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>技術<rt>ぎじゅつ</rt></ruby><span style=\"color:\
+  \ blue;\"><ruby>者<rt>しゃ</rt></ruby></span>などの<span style=\"color: blue;\">チーム</span>は「<ruby>自分<rt>じぶん</rt></ruby>たちが<ruby>調<rt>しら</rt></ruby>べた<span\
+  \ style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>には<span style=\"color:\
+  \ blue;\"><ruby>自信<rt>じしん</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>っている」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 王
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める<ruby><rb>人</rb><rt>ひと</rt></ruby>。おうさま。
+  - そのことにいちばんすぐれていること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>の<ruby><rb>王将</rb><rt>おうしょう</rt></ruby>。
+- word: 墓
+  descriptions:
+  - <ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>や、お<ruby><rb>骨</rb><rt>こつ</rt></ruby>をうめる<ruby><rb>所</rb><rt>ところ</rt></ruby>。また、そのしるし。
+- word: 秘密
+  descriptions:
+  - かくして、<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>らせないこと。かくしごと。ないしょ。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+- word: 者
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - ものごと。ことがら。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: レーダー
+  descriptions:
+  - <ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>によって<ruby><rb>遠</rb><rt>とお</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>にある<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>位置</rb><rt>いち</rt></ruby>や<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>をさぐる<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>電波探知機</rb><rt>でんぱたんちき</rt></ruby>。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 自信
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>や<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちを、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>でかたく<ruby><rb>信</rb><rt>しん</rt></ruby>じること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011429951000/k10011429951000.html
+web_title_with_ruby: 「<ruby>隠<rt>かく</rt></ruby>し<ruby>部屋<rt>へや</rt></ruby>なかった」<ruby>ツタンカーメン<rt>つたんかーめん</rt></ruby><ruby>王<rt>おう</rt></ruby>の<ruby>墓<rt>はか</rt></ruby>
+  <ruby>従来<rt>じゅうらい</rt></ruby>の<ruby>見解<rt>けんかい</rt></ruby>を<ruby>翻<rt>ひるがえ</rt></ruby>す
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/07/隠し部屋なかったツタンカーメン王の墓-従来の見解を翻す
+related_news:
+- title: <ruby>東京<rt>とうきょう</rt></ruby>オリンピック　ホテルの<ruby>代<rt>か</rt></ruby>わりに<ruby>船<rt>ふね</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う<ruby>計画<rt>けいかく</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/03/07/東京オリンピック-ホテルの代わりに船を使う計画
+- title: アイスホッケー　<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のチームの<ruby>試合<rt>しあい</rt></ruby>が<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>終<rt>お</rt></ruby>わる
+  url: https://newswebeasy.github.io/news/easy/2018/02/21/アイスホッケー-韓国と北朝鮮のチームの試合が全部終わる
+...
