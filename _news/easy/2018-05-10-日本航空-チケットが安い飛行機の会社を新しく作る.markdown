@@ -1,0 +1,66 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011431221000
+last_modified_at: '2018-05-10T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>10<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 日本航空は、チケットが安い飛行機の会社を新しく作ることを決めました。
+title: 日本航空　チケットが安い飛行機の会社を新しく作る
+title_with_ruby: <ruby>日本航空<rt>にほんこうくう</rt></ruby>　チケットが<ruby>安<rt>やす</rt></ruby>い<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しく<ruby>作<rt>つく</rt></ruby>る
+outline: 日本航空は、チケットが安い飛行機の会社を新しく作ることを決めました。
+outline_with_ruby: <ruby>日本航空<rt>にほんこうくう</rt></ruby>は、チケットが<ruby>安<rt>やす</rt></ruby>い<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しく<ruby>作<rt>つく</rt></ruby>ることを<ruby>決<rt>き</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/09/K10011431221_1805082226_1805090405_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/10/k10011431221000.mp4
+content_with_ruby: "<p><ruby>日本航空<rt>にほんこうくう</rt></ruby>は、<span style=\"color: blue;\"\
+  >チケット</span>が<ruby>安<rt>やす</rt></ruby>い<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しく<ruby>作<rt>つく</rt></ruby>ることを<ruby>決<rt>き</rt></ruby>めました。<ruby>新<rt>あたら</rt></ruby>しい<ruby>会社<rt>かいしゃ</rt></ruby>は、２０２０<ruby>年<rt>ねん</rt></ruby>までに<ruby>成田空港<rt>なりたくうこう</rt></ruby>とアジアの<ruby>国<rt>くに</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>飛行機<rt>ひこうき</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>飛<rt>と</rt></ruby>ばす</span><ruby>予定<rt>よてい</rt></ruby>です。そのあと、<span\
+  \ style=\"color: blue;\">ヨーロッパ</span>やアメリカにも<span style=\"color: blue;\"><ruby>飛<rt>と</rt></ruby>ばし</span>たいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p>ＡＮＡホールディングスは、<span style=\"color: blue;\">チケット</span>が<ruby>安<rt>やす</rt></ruby>い<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>を２つ<ruby>持<rt>も</rt></ruby>っています。この２つの<ruby>会社<rt>かいしゃ</rt></ruby>を２０２０<ruby>年<rt>ねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>までに１つにして、もっとたくさんの<ruby>所<rt>ところ</rt></ruby>に<ruby>飛行機<rt>ひこうき</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>飛<rt>と</rt></ruby>ばす</span><ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p><ruby>安<rt>やす</rt></ruby>く<ruby>飛行機<rt>ひこうき</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>したい<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えていて、<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>競争<rt>きょうそう</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>激<rt>はげ</rt></ruby>しく</span>なりそうです。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: チケット
+  descriptions:
+  - きっぷ。<ruby><rb>券</rb><rt>けん</rt></ruby>。<ruby><rb>入場券</rb><rt>にゅうじょうけん</rt></ruby>・<ruby><rb>乗車券</rb><rt>じょうしゃけん</rt></ruby>・<ruby><rb>食券</rb><rt>しょっけん</rt></ruby>など。
+- word: 飛ばす
+  descriptions:
+  - <ruby><rb>飛</rb><rt>と</rt></ruby>ぶようにする。
+  - <ruby><rb>散</rb><rt>ち</rt></ruby>らす。
+  - <ruby><rb>走</rb><rt>はし</rt></ruby>らせる。
+  - <ruby><rb>間</rb><rt>あいだ</rt></ruby>をぬいて、<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む。
+  - <ruby><rb>言</rb><rt>い</rt></ruby>いふらす。
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく…する。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: 飛ばす
+  descriptions:
+  - <ruby><rb>飛</rb><rt>と</rt></ruby>ぶようにする。
+  - <ruby><rb>散</rb><rt>ち</rt></ruby>らす。
+  - <ruby><rb>走</rb><rt>はし</rt></ruby>らせる。
+  - <ruby><rb>間</rb><rt>あいだ</rt></ruby>をぬいて、<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む。
+  - <ruby><rb>言</rb><rt>い</rt></ruby>いふらす。
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく…する。
+- word: 激しい
+  descriptions:
+  - <ruby><rb>勢</rb><rt>いきお</rt></ruby>いが<ruby><rb>強</rb><rt>つよ</rt></ruby>い。
+  - ものごとの<ruby><rb>程度</rb><rt>ていど</rt></ruby>がきつい。
+source_url: http://www3.nhk.or.jp/news/easy/k10011431221000/k10011431221000.html
+web_title_with_ruby: <ruby>日本航空<rt>にっぽんこうくう</rt></ruby>が<ruby>格安<rt>かくやす</rt></ruby><ruby>航空<rt>こうくう</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>に<ruby>本格<rt>ほんかく</rt></ruby><ruby>参入<rt>さんにゅう</rt></ruby>
+  <ruby>専門<rt>せんもん</rt></ruby>の<ruby>新会社<rt>しんがいしゃ</rt></ruby><ruby>設立<rt>せつりつ</rt></ruby>へ
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/09/日本航空が格安航空事業に本格参入-専門の新会社設立へ
+related_news:
+- title: <ruby>成田空港<rt>なりたくうこう</rt></ruby>　ＬＣＣのための「<ruby>第<rt>だい</rt></ruby>３ターミナル」を<ruby>広<rt>ひろ</rt></ruby>くする
+  url: https://newswebeasy.github.io/news/easy/2018/05/01/成田空港-LCCのための第3ターミナルを広くする
+- title: <ruby>飛行機<rt>ひこうき</rt></ruby>がネパールの<ruby>空港<rt>くうこう</rt></ruby>に<ruby>下<rt>お</rt></ruby>りるとき<ruby>失敗<rt>しっぱい</rt></ruby>　４９<ruby>人<rt>にん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/03/13/飛行機がネパールの空港に下りるとき失敗-49人亡くなる
+- title: 「ホンダジェット」　<ruby>去年<rt>きょねん</rt></ruby><ruby>世界<rt>せかい</rt></ruby>でいちばん<ruby>売<rt>う</rt></ruby>れた
+  url: https://newswebeasy.github.io/news/easy/2018/02/26/ホンダジェット-去年世界でいちばん売れた
+- title: <ruby>成田空港<rt>なりたくうこう</rt></ruby>　<ruby>連休<rt>れんきゅう</rt></ruby>に<ruby>国際線<rt>こくさいせん</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>は８６<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/25/成田空港-連休に国際線を利用する人は86万人以上
+- title: ボーイングの<ruby>飛行機<rt>ひこうき</rt></ruby>のエンジンに<ruby>問題<rt>もんだい</rt></ruby>が<ruby>起<rt>お</rt></ruby>こる<ruby>可能性<rt>かのうせい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/19/ボーイングの飛行機のエンジンに問題が起こる可能性
+...

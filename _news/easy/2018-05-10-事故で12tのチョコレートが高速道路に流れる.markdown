@@ -1,0 +1,80 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011432911000
+last_modified_at: '2018-05-10T17:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>10<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: ポーランドの高速道路で９日、液体のチョコレートを運んでいたタンクローリーの事故がありました。
+title: 事故で１２ｔのチョコレートが高速道路に流れる
+title_with_ruby: <ruby>事故<rt>じこ</rt></ruby>で１２ｔのチョコレートが<ruby>高速道路<rt>こうそくどうろ</rt></ruby>に<ruby>流<rt>なが</rt></ruby>れる
+outline: ポーランドの高速道路で９日、液体のチョコレートを運んでいたタンクローリーの事故がありました。
+outline_with_ruby: ポーランドの<ruby>高速道路<rt>こうそくどうろ</rt></ruby>で<ruby>９日<rt>ここのか</rt></ruby>、<ruby>液体<rt>えきたい</rt></ruby>のチョコレートを<ruby>運<rt>はこ</rt></ruby>んでいたタンクローリーの<ruby>事故<rt>じこ</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/10/K10011432911_1805100017_1805100038_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/10/k10011432911000.mp4
+content_with_ruby: "<p>ポーランドの<span style=\"color: blue;\"><ruby>高速道路<rt>こうそくどうろ</rt></ruby></span>で<ruby>９日<rt>ここのか</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>液体<rt>えきたい</rt></ruby></span>のチョコレートを<ruby>運<rt>はこ</rt></ruby>んでいたタンクローリーの<ruby>事故<rt>じこ</rt></ruby>がありました。タンクローリーは<ruby>横<rt>よこ</rt></ruby>に<ruby>倒<rt>たお</rt></ruby>れて、１２ｔのチョコレートが<span\
+  \ style=\"color: blue;\"><ruby>高速道路<rt>こうそくどうろ</rt></ruby></span>に<span style=\"\
+  color: blue;\"><ruby>流<rt>なが</rt></ruby>れ</span>ました。</p>\n<p><ruby>事故<rt>じこ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>取材<rt>しゅざい</rt></ruby></span>をしていた<ruby>男性<rt>だんせい</rt></ruby>は、チョコレートで<ruby>滑<rt>すべ</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>転<rt>ころ</rt></ruby>ん</span>でいました。<ruby>男性<rt>だんせい</rt></ruby>の<ruby>靴<rt>くつ</rt></ruby>にはチョコレートがたくさんかかっていました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>道路<rt>どうろ</rt></ruby></span>は、チョコレートの<ruby>掃除<rt>そうじ</rt></ruby>が<ruby>終<rt>お</rt></ruby>わるまで<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>、<ruby>通<rt>とお</rt></ruby>ることができなくなりました。<span\
+  \ style=\"color: blue;\"><ruby>消防<rt>しょうぼう</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は<ruby>熱<rt>あつ</rt></ruby>いお<ruby>湯<rt>ゆ</rt></ruby>をかけて、<span\
+  \ style=\"color: blue;\"><ruby>固<rt>かた</rt></ruby>まっ</span>たチョコレートを<ruby>片<rt>かた</rt></ruby>づけていました。<span\
+  \ style=\"color: blue;\"><ruby>消防<rt>しょうぼう</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は「チョコレートの<ruby>掃除<rt>そうじ</rt></ruby>は、とても<ruby>時間<rt>じかん</rt></ruby>がかかります。<span\
+  \ style=\"color: blue;\"><ruby>油<rt>あぶら</rt></ruby></span>の<ruby>掃除<rt>そうじ</rt></ruby>のほうがずっと<ruby>簡単<rt>かんたん</rt></ruby>です」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 高速道路
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>が<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>走</rb><rt>はし</rt></ruby>れるように、<ruby><rb>立体交差</rb><rt>りったいこうさ</rt></ruby>にしたり、<ruby><rb>上</rb><rt>のぼ</rt></ruby>り<ruby><rb>下</rb><rt>くだ</rt></ruby>りを<ruby><rb>分</rb><rt>わ</rt></ruby>けたりした<ruby><rb>道路</rb><rt>どうろ</rt></ruby>。ハイウエー。
+- word: 流れる
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。
+  - <ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。
+  - うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - とりやめになる。
+- word: 液体
+  descriptions:
+  - <ruby><rb>水</rb><rt>みず</rt></ruby>や<ruby><rb>油</rb><rt>あぶら</rt></ruby>のように、<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>形</rb><rt>かたち</rt></ruby>がなく、<ruby><rb>流</rb><rt>なが</rt></ruby>れる<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>のあるもの。
+- word: 流れる
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。
+  - <ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。
+  - うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - とりやめになる。
+- word: 取材
+  descriptions:
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>・<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>・テレビなどの<ruby><rb>報道記事</rb><rt>ほうどうきじ</rt></ruby>や<ruby><rb>作品</rb><rt>さくひん</rt></ruby>・<ruby><rb>作文</rb><rt>さくぶん</rt></ruby>などの<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めること。
+- word: 転ぶ
+  descriptions:
+  - たおれる。ひっくり<ruby><rb>返</rb><rt>かえ</rt></ruby>る。
+- word: 道路
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>車</rb><rt>くるま</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道</rb><rt>みち</rt></ruby>。<ruby><rb>通</rb><rt>とお</rt></ruby>り<ruby><rb>道</rb><rt>みち</rt></ruby>。
+- word: 消防
+  descriptions:
+  - <ruby><rb>火事</rb><rt>かじ</rt></ruby>を<ruby><rb>消</rb><rt>け</rt></ruby>したり、<ruby><rb>火災</rb><rt>かさい</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>いだりすること。
+- word: 固まる
+  descriptions:
+  - やわらかいものが<ruby><rb>固</rb><rt>かた</rt></ruby>くなる。
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>所</rb><rt>ところ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まる。
+  - <ruby><rb>確</rb><rt>たし</rt></ruby>かなものになる。<ruby><rb>定</rb><rt>さだ</rt></ruby>まる。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>をそのことにだけ<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+- word: 油
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>・<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>・<ruby><rb>鉱物</rb><rt>こうぶつ</rt></ruby>からとった、<ruby><rb>水</rb><rt>みず</rt></ruby>と<ruby><rb>混</rb><rt>ま</rt></ruby>ざらない、<ruby><rb>燃</rb><rt>も</rt></ruby>えやすい<ruby><rb>液体</rb><rt>えきたい</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011432911000/k10011432911000.html
+web_title_with_ruby: 12<ruby>トン<rt>とん</rt></ruby>の<ruby>チョコ<rt>ちょこ</rt></ruby>が<ruby>高速道路<rt>こうそくどうろ</rt></ruby>に
+  <ruby>タンクローリー<rt>たんくろーりー</rt></ruby><ruby>横転<rt>おうてん</rt></ruby> <ruby>ポーランド<rt>ぽーらんど</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/10/12トンのチョコが高速道路に-タンクローリー横転-ポーランド
+related_news:
+- title: アメリカ　<ruby>大<rt>おお</rt></ruby>きな<ruby>歩道橋<rt>ほどうきょう</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちて４<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/03/16/アメリカ-大きな歩道橋が車に落ちて4人が亡くなる
+- title: <ruby>奄美大島<rt>あまみおおしま</rt></ruby>で<ruby>海岸<rt>かいがん</rt></ruby>に<ruby>流<rt>なが</rt></ruby>れてきた<ruby>油<rt>あぶら</rt></ruby>の<ruby>掃除<rt>そうじ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/02/09/奄美大島で海岸に流れてきた油の掃除が始まる
+- title: <ruby>富士山<rt>ふじさん</rt></ruby>も<ruby>春<rt>はる</rt></ruby>　５<ruby>合<rt>ごう</rt></ruby><ruby>目<rt>め</rt></ruby>まで<ruby>富士<rt>ふじ</rt></ruby>スバルラインで<ruby>行<rt>い</rt></ruby>くことができる
+  url: https://newswebeasy.github.io/news/easy/2018/04/13/富士山も春-5合目まで富士スバルラインで行くことができる
+...

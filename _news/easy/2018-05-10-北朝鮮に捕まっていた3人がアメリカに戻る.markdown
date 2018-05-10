@@ -1,0 +1,61 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011432791000
+last_modified_at: '2018-05-10T17:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>10<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: アメリカのポンペイオ国務長官は９日、北朝鮮に行って、キム・ジョンウン朝鮮労働党委員長と会いました。
+title: 北朝鮮に捕まっていた３人がアメリカに戻る
+title_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>に<ruby>捕<rt>つか</rt></ruby>まっていた３<ruby>人<rt>にん</rt></ruby>がアメリカに<ruby>戻<rt>もど</rt></ruby>る
+outline: アメリカのポンペイオ国務長官は９日、北朝鮮に行って、キム・ジョンウン朝鮮労働党委員長と会いました。
+outline_with_ruby: アメリカのポンペイオ<ruby>国務長官<rt>こくむちょうかん</rt></ruby>は<ruby>９日<rt>ここのか</rt></ruby>、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>に<ruby>行<rt>い</rt></ruby>って、キム・ジョンウン<ruby>朝鮮<rt>ちょうせん</rt></ruby><ruby>労働党<rt>ろうどうとう</rt></ruby><ruby>委員長<rt>いいんちょう</rt></ruby>と<ruby>会<rt>あ</rt></ruby>いました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/09/K10011432791_1805092147_1805092148_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/10/k10011432791000.mp4
+content_with_ruby: "<p>アメリカのポンペイオ<ruby>国務長官<rt>こくむちょうかん</rt></ruby>は<ruby>９日<rt>ここのか</rt></ruby>、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>に<ruby>行<rt>い</rt></ruby>って、キム・ジョンウン<ruby>朝鮮<rt>ちょうせん</rt></ruby><ruby>労働党<rt>ろうどうとう</rt></ruby><ruby>委員長<rt>いいんちょう</rt></ruby>と<ruby>会<rt>あ</rt></ruby>いました。</p>\n\
+  <p>トランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は<ruby>９日<rt>ここのか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、インターネットのツイッターに「ポンペイオ<ruby>国務長官<rt>こくむちょうかん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>捕<rt>つか</rt></ruby>まっ</span>ていた３<ruby>人<rt>にん</rt></ruby>のアメリカ<ruby>人<rt>じん</rt></ruby>が<ruby>戻<rt>もど</rt></ruby>ってくる」と<ruby>書<rt>か</rt></ruby>きました。</p>\n\
+  <p><ruby>去年<rt>きょねん</rt></ruby>、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>に<span style=\"\
+  color: blue;\"><ruby>捕<rt>つか</rt></ruby>まっ</span>ていたアメリカ<ruby>人<rt>じん</rt></ruby>の<ruby>大学生<rt>だいがくせい</rt></ruby>が、アメリカに<ruby>戻<rt>もど</rt></ruby>ってすぐに<ruby>亡<rt>な</rt></ruby>くなりました。<ruby>大学生<rt>だいがくせい</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>脳<rt>のう</rt></ruby></span>に<ruby>大<rt>おお</rt></ruby>きなけがをしていました。ほかにも<span\
+  \ style=\"color: blue;\">スパイ</span>をしたなどと<ruby>言<rt>い</rt></ruby>われた３<ruby>人<rt>にん</rt></ruby>のアメリカ<ruby>人<rt>じん</rt></ruby>が<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>捕<rt>つか</rt></ruby>まっ</span>ていました。アメリカ<span style=\"\
+  color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、３<ruby>人<rt>にん</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>すように<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>に<ruby>強<rt>つよ</rt></ruby>く<ruby>言<rt>い</rt></ruby>っていました。</p>\n\
+  <p>３<ruby>人<rt>にん</rt></ruby>は<ruby>１０日<rt>とおか</rt></ruby>にアメリカに<ruby>着<rt>つ</rt></ruby>いて、トランプ<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>が<ruby>迎<rt>むか</rt></ruby>えました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 捕まる
+  descriptions:
+  - とらえられる。つかまえられる。
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 脳
+  descriptions:
+  - <ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>考</rb><rt>かんが</rt></ruby>えたり<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かしたりするはたらきを<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>つところ。
+  - <ruby><rb>頭</rb><rt>あたま</rt></ruby>のはたらき。
+  - <ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となる<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: スパイ
+  descriptions:
+  - <ruby><rb>敵</rb><rt>てき</rt></ruby>の<ruby><rb>内部</rb><rt>ないぶ</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>って、<ruby><rb>秘密</rb><rt>ひみつ</rt></ruby>をさぐること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011432791000/k10011432791000.html
+web_title_with_ruby: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>で<ruby>拘束<rt>こうそく</rt></ruby>の<ruby>アメリカ<rt>あめりか</rt></ruby><ruby>人<rt>じん</rt></ruby>３<ruby>人<rt>にん</rt></ruby><ruby>解放<rt>かいほう</rt></ruby>
+  <ruby>米<rt>べい</rt></ruby><ruby>大統領<rt>だいとうりょう</rt></ruby>が<ruby>明<rt>あき</rt></ruby>らかに
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/09/北朝鮮で拘束のアメリカ人3人解放-米大統領が明らかに
+related_news:
+- title: ４<ruby>月<rt>がつ</rt></ruby>に<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のトップが<ruby>会<rt>あ</rt></ruby>って<ruby>話<rt>はなし</rt></ruby>をすることが<ruby>決<rt>き</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/03/07/4月に韓国と北朝鮮のトップが会って話をすることが決まる
+- title: <ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のトップが<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>握手<rt>あくしゅ</rt></ruby>をする
+  url: https://newswebeasy.github.io/news/easy/2018/04/27/韓国と北朝鮮のトップが笑顔で握手をする
+- title: ４<ruby>月<rt>がつ</rt></ruby>２７<ruby>日<rt>にち</rt></ruby>に<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のトップが<ruby>会<rt>あ</rt></ruby>うと<ruby>決<rt>き</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/03/30/4月27日に韓国と北朝鮮のトップが会うと決まる
+- title: <ruby>韓国<rt>かんこく</rt></ruby>の<ruby>大統領<rt>だいとうりょう</rt></ruby>の<ruby>特使<rt>とくし</rt></ruby>が<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のキム<ruby>委員長<rt>いいんちょう</rt></ruby>と<ruby>会<rt>あ</rt></ruby>って<ruby>話<rt>はな</rt></ruby>す
+  url: https://newswebeasy.github.io/news/easy/2018/03/06/韓国の大統領の特使が北朝鮮のキム委員長と会って話す
+- title: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のキム<ruby>委員長<rt>いいんちょう</rt></ruby>が<ruby>中国<rt>ちゅうごく</rt></ruby>に<ruby>行<rt>い</rt></ruby>って<ruby>習<rt>しゅう</rt></ruby><ruby>主席<rt>しゅせき</rt></ruby>と<ruby>会<rt>あ</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/03/28/北朝鮮のキム委員長が中国に行って習主席と会う
+...
