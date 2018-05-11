@@ -1,0 +1,49 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011434411000
+last_modified_at: '2018-05-11T17:25:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>25<ruby>分<rt>ふん</rt></ruby>
+description: アメリカのトランプ大統領は１０日の夜、インターネットのツイッターに「北朝鮮のキム・ジョンウン朝鮮労働党委員長と６月１２日にシンガポールで会います。
+title: アメリカと北朝鮮のトップが６月１２日にシンガポールで会う
+title_with_ruby: アメリカと<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のトップが６<ruby>月<rt>がつ</rt></ruby>１２<ruby>日<rt>にち</rt></ruby>にシンガポールで<ruby>会<rt>あ</rt></ruby>う
+outline: アメリカのトランプ大統領は１０日の夜、インターネットのツイッターに「北朝鮮のキム・ジョンウン朝鮮労働党委員長と６月１２日にシンガポールで会います。
+outline_with_ruby: アメリカのトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>は<ruby>１０日<rt>とおか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、インターネットのツイッターに「<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のキム・ジョンウン<ruby>朝鮮<rt>ちょうせん</rt></ruby><ruby>労働党<rt>ろうどうとう</rt></ruby><ruby>委員長<rt>いいんちょう</rt></ruby>と６<ruby>月<rt>がつ</rt></ruby>１２<ruby>日<rt>にち</rt></ruby>にシンガポールで<ruby>会<rt>あ</rt></ruby>います。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/10/K10011434411_1805102355_1805102356_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/11/k10011434411000.mp4
+content_with_ruby: "<p>アメリカのトランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は<ruby>１０日<rt>とおか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、インターネットのツイッターに「<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のキム・ジョンウン<ruby>朝鮮<rt>ちょうせん</rt></ruby><ruby>労働党<rt>ろうどうとう</rt></ruby><ruby>委員長<rt>いいんちょう</rt></ruby>と６<ruby>月<rt>がつ</rt></ruby>１２<ruby>日<rt>にち</rt></ruby>にシンガポールで<ruby>会<rt>あ</rt></ruby>います。<ruby>世界<rt>せかい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>平和<rt>へいわ</rt></ruby></span>のために<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>時間<rt>じかん</rt></ruby>にしたいです」と<ruby>書<rt>か</rt></ruby>きました。</p>\n\
+  <p>シンガポールには、アメリカと<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<ruby>両方<rt>りょうほう</rt></ruby>の<ruby>大使館<rt>たいしかん</rt></ruby>があります。キム<ruby>委員長<rt>いいんちょう</rt></ruby>の<ruby>飛行機<rt>ひこうき</rt></ruby>は<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>止<rt>と</rt></ruby>まらないでシンガポールまで<ruby>行<rt>い</rt></ruby>くことができます。</p>\n\
+  <p>アメリカと<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<span style=\"color: blue;\">トップ</span>が<ruby>会<rt>あ</rt></ruby>うのは<ruby>初<rt>はじ</rt></ruby>めてです。<ruby>２人<rt>ふたり</rt></ruby>は、<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>核兵器<rt>かくへいき</rt></ruby></span>をなくすことや、６５<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>から<ruby>続<rt>つづ</rt></ruby>いている<ruby>朝鮮<rt>ちょうせん</rt></ruby><ruby>戦争<rt>せんそう</rt></ruby>を<ruby>終<rt>お</rt></ruby>わらせることなどを<ruby>話<rt>はな</rt></ruby>す<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: トップ
+  descriptions:
+  - <ruby><rb>先頭</rb><rt>せんとう</rt></ruby>。<ruby><rb>真</rb><rt>ま</rt></ruby>っ<ruby><rb>先</rb><rt>さき</rt></ruby>。<ruby><rb>一番</rb><rt>いちばん</rt></ruby>。
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 平和
+  descriptions:
+  - おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。
+- word: 核兵器
+  descriptions:
+  - <ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。
+source_url: http://www3.nhk.or.jp/news/easy/k10011434411000/k10011434411000.html
+web_title_with_ruby: 「<ruby>米朝<rt>べいちょう</rt></ruby><ruby>会談<rt>かいだん</rt></ruby>は<ruby>シンガポール<rt>しんがぽーる</rt></ruby>で<ruby>来月<rt>らいげつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>に」<ruby>米<rt>べい</rt></ruby><ruby>大統領<rt>だいとうりょう</rt></ruby><ruby>ツイッター<rt>ついったー</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/10/米朝会談はシンガポールで来月12日に米大統領ツイッター
+related_news:
+- title: ４<ruby>月<rt>がつ</rt></ruby>に<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のトップが<ruby>会<rt>あ</rt></ruby>って<ruby>話<rt>はなし</rt></ruby>をすることが<ruby>決<rt>き</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/03/07/4月に韓国と北朝鮮のトップが会って話をすることが決まる
+- title: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>に<ruby>捕<rt>つか</rt></ruby>まっていた３<ruby>人<rt>にん</rt></ruby>がアメリカに<ruby>戻<rt>もど</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/05/10/北朝鮮に捕まっていた3人がアメリカに戻る
+- title: <ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のトップが<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>握手<rt>あくしゅ</rt></ruby>をする
+  url: https://newswebeasy.github.io/news/easy/2018/04/27/韓国と北朝鮮のトップが笑顔で握手をする
+- title: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のキム<ruby>委員長<rt>いいんちょう</rt></ruby>が<ruby>中国<rt>ちゅうごく</rt></ruby>に<ruby>行<rt>い</rt></ruby>って<ruby>習<rt>しゅう</rt></ruby><ruby>主席<rt>しゅせき</rt></ruby>と<ruby>会<rt>あ</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/03/28/北朝鮮のキム委員長が中国に行って習主席と会う
+- title: <ruby>韓国<rt>かんこく</rt></ruby>の<ruby>大統領<rt>だいとうりょう</rt></ruby>の<ruby>特使<rt>とくし</rt></ruby>が<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のキム<ruby>委員長<rt>いいんちょう</rt></ruby>と<ruby>会<rt>あ</rt></ruby>って<ruby>話<rt>はな</rt></ruby>す
+  url: https://newswebeasy.github.io/news/easy/2018/03/06/韓国の大統領の特使が北朝鮮のキム委員長と会って話す
+...

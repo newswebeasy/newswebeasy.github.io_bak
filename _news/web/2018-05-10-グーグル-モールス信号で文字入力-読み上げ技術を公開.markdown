@@ -1,0 +1,76 @@
+---
+layout: web_news
+categories: web
+newsid: k10011433101000
+title: グーグル モールス信号で文字入力 読み上げ技術を公開
+title_with_ruby: グーグル モールス<ruby>信号<rt data-ruby-level="4">しんごう</rt></ruby>で<ruby>文字<rt
+  data-ruby-level="1">もじ</rt></ruby><ruby>入力<rt data-ruby-level="1">にゅうりょく</rt></ruby>
+  <ruby>読<rt data-ruby-level="2">よ</rt></ruby>み<ruby>上<rt data-ruby-level="2">あ</rt></ruby>げ<ruby>技術<rt
+  data-ruby-level="5">ぎじゅつ</rt></ruby>を<ruby>公開<rt data-ruby-level="3">こうかい</rt></ruby>
+last_modified_at: '2018-05-10T08:07:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>05<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>10<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 08<ruby>時<rt data-ruby-level="2">じ</rt></ruby>07<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: アメリカの大手ＩＴ企業のグーグルは、障害者の利用を念頭に、スマートフォンにモールス信号を使って文字を入力し、その文字を音声にして読み上げる技術などを公開しました。
+summary: アメリカの<ruby>大手<rt data-ruby-level="1">おおて</rt></ruby>ＩＴ<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>のグーグルは、<ruby>障害者<rt
+  data-ruby-level="6">しょうがいしゃ</rt></ruby>の<ruby>利用<rt data-ruby-level="4">りよう</rt></ruby>を<ruby>念頭<rt
+  data-ruby-level="4">ねんとう</rt></ruby>に、スマートフォンにモールス<ruby>信号<rt data-ruby-level="4">しんごう</rt></ruby>を<ruby>使<rt
+  data-ruby-level="3">つか</rt></ruby>って<ruby>文字<rt data-ruby-level="1">もじ</rt></ruby>を<ruby>入力<rt
+  data-ruby-level="1">にゅうりょく</rt></ruby>し、その<ruby>文字<rt data-ruby-level="1">もじ</rt></ruby>を<ruby>音声<rt
+  data-ruby-level="2">おんせい</rt></ruby>にして<ruby>読<rt data-ruby-level="2">よ</rt></ruby>み<ruby>上<rt
+  data-ruby-level="2">あ</rt></ruby>げる<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>などを<ruby>公開<rt
+  data-ruby-level="3">こうかい</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/10/K10011433101_1805100704_1805100807_01_02.jpg
+more: この<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>はグーグルが、<ruby>カリフォルニア<rt data-ruby-level="3">かりふぉるにあ</rt></ruby><ruby>州<rt
+  data-ruby-level="3">しゅう</rt></ruby>で<ruby>開<rt data-ruby-level="3">ひら</rt></ruby>いているＩＴ<ruby>業界<rt
+  data-ruby-level="3">ぎょうかい</rt></ruby>の<ruby>開発者<rt data-ruby-level="3">かいはつしゃ</rt></ruby><ruby>向<rt
+  data-ruby-level="3">む</rt></ruby>けの<ruby>会議<rt data-ruby-level="4">かいぎ</rt></ruby>の<ruby>中<rt
+  data-ruby-level="1">なか</rt></ruby>で、<ruby>紹介<rt data-ruby-level="7">しょうかい</rt></ruby>されました。<br
+  /><br />これは<ruby>会話<rt data-ruby-level="2">かいわ</rt></ruby>をしたり<ruby>手足<rt data-ruby-level="1">てあし</rt></ruby>を<ruby>自由<rt
+  data-ruby-level="3">じゆう</rt></ruby>に<ruby>動<rt data-ruby-level="3">うご</rt></ruby>かしたりすることができない<ruby>障害者<rt
+  data-ruby-level="6">しょうがいしゃ</rt></ruby>のタニア・フィンレイスンさんが<ruby>夫<rt data-ruby-level="4">おっと</rt></ruby>のケンさんと<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>した、モールス<ruby>信号<rt data-ruby-level="4">しんごう</rt></ruby>の<ruby>独自<rt
+  data-ruby-level="5">どくじ</rt></ruby>の<ruby>入力<rt data-ruby-level="1">にゅうりょく</rt></ruby>システムを<ruby>基<rt
+  data-ruby-level="7">もと</rt></ruby>にしています。<br />タニアさんが、<ruby>頭<rt data-ruby-level="2">あたま</rt></ruby>で<ruby>車<rt
+  data-ruby-level="1">くるま</rt></ruby>いすの<ruby>左右<rt data-ruby-level="1">さゆう</rt></ruby>にあるボタンを<ruby>押<rt
+  data-ruby-level="7">お</rt></ruby>して、<ruby>英語<rt data-ruby-level="4">えいご</rt></ruby>で「こんにちは」や、<ruby>夫<rt
+  data-ruby-level="4">おっと</rt></ruby>と<ruby>出会<rt data-ruby-level="2">であ</rt></ruby>ったきっかけについて「スカイダイビング」などとモールス<ruby>信号<rt
+  data-ruby-level="4">しんごう</rt></ruby>を<ruby>使<rt data-ruby-level="3">つか</rt></ruby>って<ruby>入力<rt
+  data-ruby-level="1">にゅうりょく</rt></ruby>し、それが<ruby>音声<rt data-ruby-level="2">おんせい</rt></ruby>で<ruby>読<rt
+  data-ruby-level="2">よ</rt></ruby>み<ruby>上<rt data-ruby-level="2">あ</rt></ruby>げられるデモンストレーションが<ruby>披露<rt
+  data-ruby-level="7">ひろう</rt></ruby>されました。<br /><br />グーグルが<ruby>試験用<rt data-ruby-level="4">しけんよう</rt></ruby>として８<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>から<ruby>公開<rt data-ruby-level="3">こうかい</rt></ruby>している<ruby>機能<rt
+  data-ruby-level="5">きのう</rt></ruby>では、<ruby>入力<rt data-ruby-level="1">にゅうりょく</rt></ruby>し<ruby>始<rt
+  data-ruby-level="3">はじ</rt></ruby>めると<ruby>人工<rt data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt
+  data-ruby-level="5">ちのう</rt></ruby>が<ruby>言葉<rt data-ruby-level="3">ことば</rt></ruby>を<ruby>類推<rt
+  data-ruby-level="6">るいすい</rt></ruby>して、いくつかの<ruby>選択肢<rt data-ruby-level="7">せんたくし</rt></ruby>をスマートフォンの<ruby>画面上<rt
+  data-ruby-level="3">がめんじょう</rt></ruby>に<ruby>表示<rt data-ruby-level="5">ひょうじ</rt></ruby>します。<br
+  /><br /><ruby>会議<rt data-ruby-level="4">かいぎ</rt></ruby>ではまた、<ruby>視覚<rt data-ruby-level="6">しかく</rt></ruby><ruby>障害者<rt
+  data-ruby-level="6">しょうがいしゃ</rt></ruby><ruby>向<rt data-ruby-level="3">む</rt></ruby>けに<ruby>首<rt
+  data-ruby-level="2">くび</rt></ruby>からさげたスマートフォンのカメラが<ruby>映<rt data-ruby-level="6">うつ</rt></ruby>し<ruby>出<rt
+  data-ruby-level="6">だ</rt></ruby>すものを<ruby>音声<rt data-ruby-level="2">おんせい</rt></ruby>で<ruby>伝<rt
+  data-ruby-level="4">つた</rt></ruby>えるシステムや、<ruby>聴覚<rt data-ruby-level="7">ちょうかく</rt></ruby><ruby>障害者<rt
+  data-ruby-level="6">しょうがいしゃ</rt></ruby>の<ruby>利用<rt data-ruby-level="4">りよう</rt></ruby>を<ruby>念頭<rt
+  data-ruby-level="4">ねんとう</rt></ruby>に、テレビ<ruby>番組<rt data-ruby-level="2">ばんぐみ</rt></ruby>で<ruby>複数<rt
+  data-ruby-level="5">ふくすう</rt></ruby>の<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>が<ruby>一度<rt
+  data-ruby-level="3">いちど</rt></ruby>に<ruby>話<rt data-ruby-level="2">はな</rt></ruby>している<ruby>場合<rt
+  data-ruby-level="2">ばあい</rt></ruby>、<ruby>表情<rt data-ruby-level="5">ひょうじょう</rt></ruby>と<ruby>音声<rt
+  data-ruby-level="2">おんせい</rt></ruby>から<ruby>判断<rt data-ruby-level="5">はんだん</rt></ruby>して<ruby>一人一人<rt
+  data-ruby-level="8">ひとりひとり</rt></ruby>の<ruby>発言<rt data-ruby-level="3">はつげん</rt></ruby>に<ruby>切<rt
+  data-ruby-level="2">き</rt></ruby>り<ruby>分<rt data-ruby-level="2">わ</rt></ruby>けて<ruby>文章<rt
+  data-ruby-level="3">ぶんしょう</rt></ruby>として<ruby>画面<rt data-ruby-level="3">がめん</rt></ruby>に<ruby>表示<rt
+  data-ruby-level="5">ひょうじ</rt></ruby>するシステムなども<ruby>公開<rt data-ruby-level="3">こうかい</rt></ruby>されました。
+source_url: https://www3.nhk.or.jp/news/html/20180510/k10011433101000.html
+easy_title_with_ruby: グーグル モールス<ruby>信号<rt data-ruby-level="4">しんごう</rt></ruby>でスマートフォンに<ruby>言葉<rt
+  data-ruby-level="3">ことば</rt></ruby>を<ruby>入力<rt data-ruby-level="1">にゅうりょく</rt></ruby>する
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/05/11/グーグル-モールス信号でスマートフォンに言葉を入力する
+related_news:
+- title: アップルもＡＩスピーカー<ruby>発売<rt data-ruby-level="3">はつばい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/02/10/アップルもAIスピーカー発売
+- title: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>郵便<rt data-ruby-level="6">ゆうびん</rt></ruby><ruby>装<rt
+    data-ruby-level="7">よそお</rt></ruby>う<ruby>偽<rt data-ruby-level="7">にせ</rt></ruby>サイトに<ruby>注意<rt
+    data-ruby-level="3">ちゅうい</rt></ruby>を <ruby>個人<rt data-ruby-level="5">こじん</rt></ruby><ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby><ruby>盗<rt data-ruby-level="7">ぬす</rt></ruby>み<ruby>取<rt
+    data-ruby-level="7">と</rt></ruby>る<ruby>目的<rt data-ruby-level="4">もくてき</rt></ruby>か
+  url: https://newswebeasy.github.io/news/web/2018/04/02/日本郵便装う偽サイトに注意を-個人情報盗み取る目的か
+...

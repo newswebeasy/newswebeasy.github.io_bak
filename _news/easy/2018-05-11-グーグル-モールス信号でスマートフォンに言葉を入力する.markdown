@@ -1,0 +1,79 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011433101000
+last_modified_at: '2018-05-11T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: アメリカのＩＴの会社のグーグルはモールス信号を使ってスマートフォンに言葉を入力する技術を発表しました。
+title: グーグル　モールス信号でスマートフォンに言葉を入力する
+title_with_ruby: グーグル　モールス<ruby>信号<rt>しんごう</rt></ruby>でスマートフォンに<ruby>言葉<rt>ことば</rt></ruby>を<ruby>入力<rt>にゅうりょく</rt></ruby>する
+outline: アメリカのＩＴの会社のグーグルはモールス信号を使ってスマートフォンに言葉を入力する技術を発表しました。
+outline_with_ruby: アメリカのＩＴの<ruby>会社<rt>かいしゃ</rt></ruby>のグーグルはモールス<ruby>信号<rt>しんごう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってスマートフォンに<ruby>言葉<rt>ことば</rt></ruby>を<ruby>入力<rt>にゅうりょく</rt></ruby>する<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/10/K10011433101_1805100704_1805100807_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/11/k10011433101000.mp4
+content_with_ruby: "<p>アメリカの<span style=\"color: blue;\">ＩＴ</span>の<ruby>会社<rt>かいしゃ</rt></ruby>のグーグルは<span\
+  \ style=\"color: blue;\">モールス<ruby>信号<rt>しんごう</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>ってスマートフォンに<ruby>言葉<rt>ことば</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>入力<rt>にゅうりょく</rt></ruby></span>する<ruby>技術<rt>ぎじゅつ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<span style=\"\
+  color: blue;\"><ruby>入力<rt>にゅうりょく</rt></ruby></span>した<ruby>言葉<rt>ことば</rt></ruby>をスマートフォンが<ruby>機械<rt>きかい</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>で<ruby>読<rt>よ</rt></ruby>むこともできます。グーグルは<ruby>体<rt>からだ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>障害<rt>しょうがい</rt></ruby></span>がある<ruby>人<rt>ひと</rt></ruby>に<ruby>使<rt>つか</rt></ruby>ってほしいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p>この<ruby>技術<rt>ぎじゅつ</rt></ruby>は、<ruby>話<rt>はな</rt></ruby>したり<ruby>手<rt>て</rt></ruby>や<ruby>足<rt>あし</rt></ruby>を<ruby>自由<rt>じゆう</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>動<rt>うご</rt></ruby>かし</span>たりできないタニア・フィンレイスンさんが<ruby>夫<rt>おっと</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えて<ruby>作<rt>つく</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>入力<rt>にゅうりょく</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">システム</span>を<ruby>使<rt>つか</rt></ruby>っています。<span style=\"color: blue;\"\
+  ><ruby>発表<rt>はっぴょう</rt></ruby></span>した<ruby>会場<rt>かいじょう</rt></ruby>では、タニアさんが<span\
+  \ style=\"color: blue;\">モールス<ruby>信号<rt>しんごう</rt></ruby></span>を<ruby>使<rt>つか</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>入力<rt>にゅうりょく</rt></ruby></span>のしかたを<ruby>見<rt>み</rt></ruby>せました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>車<rt>くるま</rt></ruby>いす</span>に<ruby>座<rt>すわ</rt></ruby>ったタニアさんは<ruby>頭<rt>あたま</rt></ruby>の<ruby>右側<rt>みぎがわ</rt></ruby>と<ruby>左側<rt>ひだりがわ</rt></ruby>にあるボタンを<ruby>頭<rt>あたま</rt></ruby>で<ruby>押<rt>お</rt></ruby>して、<ruby>英語<rt>えいご</rt></ruby>で「こんにちは」などの<ruby>言葉<rt>ことば</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>入力<rt>にゅうりょく</rt></ruby></span>しました。スマートフォンはタニアさんが<span\
+  \ style=\"color: blue;\"><ruby>入力<rt>にゅうりょく</rt></ruby></span>した<ruby>言葉<rt>ことば</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みました。</p>\n\
+  <p><span style=\"color: blue;\">モールス<ruby>信号<rt>しんごう</rt></ruby></span>で<span style=\"\
+  color: blue;\"><ruby>入力<rt>にゅうりょく</rt></ruby></span>を<ruby>始<rt>はじ</rt></ruby>めると、どんな<ruby>言葉<rt>ことば</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>入力<rt>にゅうりょく</rt></ruby></span>しようとしているかをコンピューターのＡＩが<ruby>考<rt>かんが</rt></ruby>えて、スマートフォンの<span\
+  \ style=\"color: blue;\"><ruby>画面<rt>がめん</rt></ruby></span>に<ruby>出<rt>だ</rt></ruby>すこともできます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: モールス信号
+  descriptions:
+  - <ruby><rb>電信</rb><rt>でんしん</rt></ruby>で<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>符号</rb><rt>ふごう</rt></ruby>。「・（＝<ruby><rb>短</rb><rt>みじか</rt></ruby>い<ruby><rb>音</rb><rt>おと</rt></ruby>のしるし）」と「―（＝<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>音</rb><rt>おと</rt></ruby>のしるし）」を<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、<ruby><rb>文字</rb><rt>もじ</rt></ruby>の<ruby><rb>代</rb><rt>か</rt></ruby>わりに<ruby><rb>使</rb><rt>つか</rt></ruby>う。アメリカ<ruby><rb>人</rb><rt>じん</rt></ruby>のモールスが<ruby><rb>発明</rb><rt>はつめい</rt></ruby>した。モールス<ruby><rb>符号</rb><rt>ふごう</rt></ruby>。
+- word: 入力
+  descriptions:
+  - コンピューターなどに、<ruby><rb>用意</rb><rt>ようい</rt></ruby>した<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れること。インプット。
+- word: IT
+  descriptions:
+  - コンピューターを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>とした<ruby><rb>情報技術</rb><rt>じょうほうぎじゅつ</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 障害
+  descriptions:
+  - <ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。
+- word: 動かす
+  descriptions:
+  - <ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。
+  - <ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - <ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。
+- word: システム
+  descriptions:
+  - <ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+  - ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。
+- word: 車椅子
+  descriptions:
+  - <ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>病気</rb><rt>びょうき</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>などが、<ruby><rb>腰</rb><rt>こし</rt></ruby>かけたまま<ruby><rb>移動</rb><rt>いどう</rt></ruby>できるように<ruby><rb>車</rb><rt>くるま</rt></ruby>をつけた、いす。
+- word: 画面
+  descriptions:
+  - <ruby><rb>映画</rb><rt>えいが</rt></ruby>やテレビが<ruby><rb>映</rb><rt>うつ</rt></ruby>っている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011433101000/k10011433101000.html
+web_title_with_ruby: <ruby>グーグル<rt>ぐーぐる</rt></ruby> <ruby>モールス<rt>もーるす</rt></ruby><ruby>信号<rt>しんごう</rt></ruby>で<ruby>文字<rt>もじ</rt></ruby><ruby>入力<rt>にゅうりょく</rt></ruby>
+  <ruby>読<rt>よ</rt></ruby>み<ruby>上<rt>あ</rt></ruby>げ<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>公開<rt>こうかい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/10/グーグル-モールス信号で文字入力-読み上げ技術を公開
+related_news:
+- title: ローソン　レジに<ruby>並<rt>なら</rt></ruby>ばないでスマートフォンでお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/04/25/ローソン-レジに並ばないでスマートフォンでお金を払う
+- title: <ruby>東京都<rt>とうきょうと</rt></ruby>　<ruby>子<rt>こ</rt></ruby>どもの７０％がスマートフォンなどを<ruby>使<rt>つか</rt></ruby>っている
+  url: https://newswebeasy.github.io/news/easy/2018/05/08/東京都-子どもの70がスマートフォンなどを使っている
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>　<ruby>国<rt>くに</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るために<ruby>使<rt>つか</rt></ruby>うお<ruby>金<rt>かね</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>より８％<ruby>増<rt>ふ</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2018/03/05/中国-国を守るために使うお金は去年より8増える
+...

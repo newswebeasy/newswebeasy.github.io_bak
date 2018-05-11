@@ -1,0 +1,72 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011432981000
+last_modified_at: '2018-05-11T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 銀行や信用金庫、信用組合の休みは、土曜日と日曜日、祝日、年末年始だけと決まっています。
+title: 銀行が平日に休んでもいいように規則を変える
+title_with_ruby: <ruby>銀行<rt>ぎんこう</rt></ruby>が<ruby>平日<rt>へいじつ</rt></ruby>に<ruby>休<rt>やす</rt></ruby>んでもいいように<ruby>規則<rt>きそく</rt></ruby>を<ruby>変<rt>か</rt></ruby>える
+outline: 銀行や信用金庫、信用組合の休みは、土曜日と日曜日、祝日、年末年始だけと決まっています。
+outline_with_ruby: <ruby>銀行<rt>ぎんこう</rt></ruby>や<ruby>信用<rt>しんよう</rt></ruby><ruby>金庫<rt>きんこ</rt></ruby>、<ruby>信用<rt>しんよう</rt></ruby><ruby>組合<rt>くみあい</rt></ruby>の<ruby>休<rt>やす</rt></ruby>みは、<ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>、<ruby>祝日<rt>しゅくじつ</rt></ruby>、<ruby>年末<rt>ねんまつ</rt></ruby><ruby>年始<rt>ねんし</rt></ruby>だけと<ruby>決<rt>き</rt></ruby>まっています。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/10/K10011432981_1805100104_1805100634_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/11/k10011432981000.mp4
+content_with_ruby: "<p><ruby>銀行<rt>ぎんこう</rt></ruby>や<ruby>信用<rt>しんよう</rt></ruby><ruby>金庫<rt>きんこ</rt></ruby>、<ruby>信用<rt>しんよう</rt></ruby><ruby>組合<rt>くみあい</rt></ruby>の<ruby>休<rt>やす</rt></ruby>みは、<ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>祝日<rt>しゅくじつ</rt></ruby></span>、<span style=\"color:\
+  \ blue;\"><ruby>年末<rt>ねんまつ</rt></ruby></span><span style=\"color: blue;\"><ruby>年始<rt>ねんし</rt></ruby></span>だけと<ruby>決<rt>き</rt></ruby>まっています。しかし<ruby>金融庁<rt>きんゆうちょう</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>ごろから<ruby>規則<rt>きそく</rt></ruby>を<ruby>変<rt>か</rt></ruby>えて、<ruby>銀行<rt>ぎんこう</rt></ruby>などが<span\
+  \ style=\"color: blue;\"><ruby>平日<rt>へいじつ</rt></ruby></span>に<ruby>休<rt>やす</rt></ruby>むことができるようにします。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>では<ruby>人口<rt>じんこう</rt></ruby>が<span style=\"color:\
+  \ blue;\"><ruby>減<rt>へ</rt></ruby>っ</span>たり、インターネットでお<ruby>金<rt>かね</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えたりして、<ruby>銀行<rt>ぎんこう</rt></ruby>などに<ruby>行<rt>い</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなっています。<ruby>銀行<rt>ぎんこう</rt></ruby>などがお<ruby>金<rt>かね</rt></ruby>を<ruby>貸<rt>か</rt></ruby>すときの<span\
+  \ style=\"color: blue;\"><ruby>利子<rt>りし</rt></ruby></span>がとても<ruby>安<rt>やす</rt></ruby>いため、<span\
+  \ style=\"color: blue;\"><ruby>利益<rt>りえき</rt></ruby></span>も<ruby>少<rt>すく</rt></ruby>なくなっています。</p>\n\
+  <p><ruby>新<rt>あたら</rt></ruby>しい<ruby>規則<rt>きそく</rt></ruby>では、<ruby>近<rt>ちか</rt></ruby>くにある<ruby>銀行<rt>ぎんこう</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>交代<rt>こうたい</rt></ruby></span>で<ruby>休<rt>やす</rt></ruby>みにしたり、<ruby>１人<rt>ひとり</rt></ruby>が２つの<ruby>店<rt>みせ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いたりすることができるようになります。<ruby>金融庁<rt>きんゆうちょう</rt></ruby>は<ruby>規則<rt>きそく</rt></ruby>を<ruby>変<rt>か</rt></ruby>えて、<ruby>銀行<rt>ぎんこう</rt></ruby>などが<ruby>店<rt>みせ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>減<rt>へ</rt></ruby>らさ</span>ないようにしたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 平日
+  descriptions:
+  - <ruby><rb>休</rb><rt>やす</rt></ruby>みの<ruby><rb>日</rb><rt>ひ</rt></ruby>でも<ruby><rb>祝日</rb><rt>しゅくじつ</rt></ruby>でもない<ruby><rb>日</rb><rt>ひ</rt></ruby>。ふつうの<ruby><rb>日</rb><rt>ひ</rt></ruby>。
+  - いつも。ふだん。
+- word: 祝日
+  descriptions:
+  - <ruby><rb>国民</rb><rt>こくみん</rt></ruby>がみんなで<ruby><rb>祝</rb><rt>いわ</rt></ruby>う<ruby><rb>日</rb><rt>ひ</rt></ruby>。
+- word: 年末
+  descriptions:
+  - <ruby><rb>一年</rb><rt>いちねん</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりのころ。<ruby><rb>十二月</rb><rt>じゅうにがつ</rt></ruby>の<ruby><rb>末</rb><rt>すえ</rt></ruby>。<ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>暮</rb><rt>く</rt></ruby>れ。<ruby><rb>歳末</rb><rt>さいまつ</rt></ruby>。
+- word: 年始
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>のはじめ。
+  - <ruby><rb>新年</rb><rt>しんねん</rt></ruby>の<ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>。
+- word: 減る
+  descriptions:
+  - <ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。
+  - すく。
+- word: 利子
+  descriptions:
+  - <ruby><rb>貸</rb><rt>か</rt></ruby>したり、<ruby><rb>預</rb><rt>あず</rt></ruby>けたりしたお<ruby><rb>金</rb><rt>かね</rt></ruby>に<ruby><rb>対</rb><rt>たい</rt></ruby>して、ある<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>割合</rb><rt>わりあい</rt></ruby>で<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>取</rb><rt>と</rt></ruby>るお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>利息</rb><rt>りそく</rt></ruby>。
+- word: 利益
+  descriptions:
+  - ためになること。<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つこと。
+  - もうけ。<ruby><rb>得</rb><rt>とく</rt></ruby>。
+- word: 交代
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>入</rb><rt>い</rt></ruby>れかわること。かわり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。
+- word: 減らす
+  descriptions:
+  - <ruby><rb>少</rb><rt>すく</rt></ruby>なくする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011432981000/k10011432981000.html
+web_title_with_ruby: <ruby>銀行<rt>ぎんこう</rt></ruby> <ruby>平日<rt>へいじつ</rt></ruby><ruby>休<rt>やす</rt></ruby>みも<ruby>可能<rt>かのう</rt></ruby>に
+  <ruby>地域<rt>ちいき</rt></ruby>の<ruby>店舗網<rt>てんぽもう</rt></ruby><ruby>維持<rt>いじ</rt></ruby>が<ruby>狙<rt>ねら</rt></ruby>い
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/10/銀行-平日休みも可能に-地域の店舗網維持が狙い
+related_news:
+- title: ローソン　レジに<ruby>並<rt>なら</rt></ruby>ばないでスマートフォンでお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/04/25/ローソン-レジに並ばないでスマートフォンでお金を払う
+- title: ユニクロの<ruby>服<rt>ふく</rt></ruby>　<ruby>初<rt>はじ</rt></ruby>めて<ruby>日本<rt>にっぽん</rt></ruby>より<ruby>外国<rt>がいこく</rt></ruby>でたくさん<ruby>売<rt>う</rt></ruby>れた
+  url: https://newswebeasy.github.io/news/easy/2018/04/16/ユニクロの服-初めて日本より外国でたくさん売れた
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>　<ruby>国<rt>くに</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るために<ruby>使<rt>つか</rt></ruby>うお<ruby>金<rt>かね</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>より８％<ruby>増<rt>ふ</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2018/03/05/中国-国を守るために使うお金は去年より8増える
+- title: カーリング<ruby>女子<rt>じょし</rt></ruby>　<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>食<rt>た</rt></ruby>べているチーズケーキが<ruby>人気<rt>にんき</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/02/23/カーリング女子-選手が食べているチーズケーキが人気
+...

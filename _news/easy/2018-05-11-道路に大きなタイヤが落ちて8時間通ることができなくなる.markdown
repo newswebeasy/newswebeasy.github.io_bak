@@ -1,0 +1,92 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011434561000
+last_modified_at: '2018-05-11T17:25:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>25<ruby>分<rt>ふん</rt></ruby>
+description: １０日の夜、神奈川県松田町の広い道路を走っていた車からとても大きなタイヤが落ちました。
+title: 道路に大きなタイヤが落ちて８時間通ることができなくなる
+title_with_ruby: <ruby>道路<rt>どうろ</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きなタイヤが<ruby>落<rt>お</rt></ruby>ちて８<ruby>時間<rt>じかん</rt></ruby><ruby>通<rt>とお</rt></ruby>ることができなくなる
+outline: １０日の夜、神奈川県松田町の広い道路を走っていた車からとても大きなタイヤが落ちました。
+outline_with_ruby: <ruby>１０日<rt>とおか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>神奈川県<rt>かながわけん</rt></ruby><ruby>松田町<rt>まつだまち</rt></ruby>の<ruby>広<rt>ひろ</rt></ruby>い<ruby>道路<rt>どうろ</rt></ruby>を<ruby>走<rt>はし</rt></ruby>っていた<ruby>車<rt>くるま</rt></ruby>からとても<ruby>大<rt>おお</rt></ruby>きなタイヤが<ruby>落<rt>お</rt></ruby>ちました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/11/K10011434561_1805110751_1805110752_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/11/k10011434561000.mp4
+content_with_ruby: "<p><ruby>１０日<rt>とおか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<ruby>神奈川県<rt>かながわけん</rt></ruby><ruby>松田町<rt>まつだまち</rt></ruby>の<ruby>広<rt>ひろ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>道路<rt>どうろ</rt></ruby></span>を<ruby>走<rt>はし</rt></ruby>っていた<ruby>車<rt>くるま</rt></ruby>からとても<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\">タイヤ</span>が<ruby>落<rt>お</rt></ruby>ちました。この<ruby>車<rt>くるま</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>高速道路<rt>こうそくどうろ</rt></ruby></span>の<span style=\"\
+  color: blue;\"><ruby>工事<rt>こうじ</rt></ruby></span>で<ruby>使<rt>つか</rt></ruby>った<ruby>車<rt>くるま</rt></ruby>の<span\
+  \ style=\"color: blue;\">タイヤ</span>を<ruby>運<rt>はこ</rt></ruby>んでいました。<ruby>落<rt>お</rt></ruby>ちたのは<span\
+  \ style=\"color: blue;\"><ruby>直径<rt>ちょっけい</rt></ruby></span>２．５ｍ、<span style=\"\
+  color: blue;\"><ruby>幅<rt>はば</rt></ruby></span>１ｍの<span style=\"color: blue;\">タイヤ</span>が４<ruby>本<rt>ほん</rt></ruby>で、<ruby>重<rt>おも</rt></ruby>さは<ruby>全部<rt>ぜんぶ</rt></ruby>で３０ｔぐらいです。</p>\n\
+  <p><span style=\"color: blue;\">タイヤ</span>が<ruby>車<rt>くるま</rt></ruby>から<ruby>落<rt>お</rt></ruby>ちたとき<span\
+  \ style=\"color: blue;\"><ruby>道路標識<rt>どうろひょうしき</rt></ruby></span>が<ruby>倒<rt>たお</rt></ruby>れましたが、けがをした<ruby>人<rt>ひと</rt></ruby>はいませんでした。</p>\n\
+  <p><ruby>警察<rt>けいさつ</rt></ruby>によると、<span style=\"color: blue;\">タイヤ</span>が<ruby>落<rt>お</rt></ruby>ちた<ruby>場所<rt>ばしょ</rt></ruby>は<ruby>右<rt>みぎ</rt></ruby>に<span\
+  \ style=\"color: blue;\">カーブ</span>しています。<span style=\"color: blue;\">タイヤ</span>が<ruby>落<rt>お</rt></ruby>ちないようにするための<span\
+  \ style=\"color: blue;\">ワイヤー</span>が<span style=\"color: blue;\"><ruby>切<rt>き</rt></ruby>れ</span>たようだと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><span style=\"color: blue;\">タイヤ</span>を<ruby>片<rt>かた</rt></ruby>づけるまで<ruby>時間<rt>じかん</rt></ruby>がかかったため、<span\
+  \ style=\"color: blue;\"><ruby>道路<rt>どうろ</rt></ruby></span>は８<ruby>時間<rt>じかん</rt></ruby>ぐらい<ruby>通<rt>とお</rt></ruby>ることができなくなりました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 道路
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>車</rb><rt>くるま</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道</rb><rt>みち</rt></ruby>。<ruby><rb>通</rb><rt>とお</rt></ruby>り<ruby><rb>道</rb><rt>みち</rt></ruby>。
+- word: タイヤ
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>や<ruby><rb>自転車</rb><rt>じてんしゃ</rt></ruby>などの、<ruby><rb>車輪</rb><rt>しゃりん</rt></ruby>の<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>にはめたゴムの<ruby><rb>輪</rb><rt>わ</rt></ruby>。
+- word: 高速道路
+  descriptions:
+  - <ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>が<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>走</rb><rt>はし</rt></ruby>れるように、<ruby><rb>立体交差</rb><rt>りったいこうさ</rt></ruby>にしたり、<ruby><rb>上</rb><rt>のぼ</rt></ruby>り<ruby><rb>下</rb><rt>くだ</rt></ruby>りを<ruby><rb>分</rb><rt>わ</rt></ruby>けたりした<ruby><rb>道路</rb><rt>どうろ</rt></ruby>。ハイウエー。
+- word: 工事
+  descriptions:
+  - <ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。
+- word: 直径
+  descriptions:
+  - <ruby><rb>円</rb><rt>えん</rt></ruby>または<ruby><rb>球</rb><rt>きゅう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>って、<ruby><rb>円周</rb><rt>えんしゅう</rt></ruby>や<ruby><rb>球面上</rb><rt>きゅうめんじょう</rt></ruby>の<ruby><rb>二点</rb><rt>にてん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>。さしわたし。
+- word: 幅
+  descriptions:
+  - <ruby><rb>横</rb><rt>よこ</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さ。
+  - へだたり。<ruby><rb>開</rb><rt>ひら</rt></ruby>き。
+  - ゆとり。よゆう。
+- word: 道路標識
+  descriptions:
+  - <ruby><rb>道</rb><rt>みち</rt></ruby>の<ruby><rb>案内</rb><rt>あんない</rt></ruby>や<ruby><rb>交通</rb><rt>こうつう</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>のために、<ruby><rb>道路</rb><rt>どうろ</rt></ruby>にかかげてある<ruby><rb>標示板</rb><rt>ひょうじばん</rt></ruby>。
+- word: カーブ
+  descriptions:
+  - <ruby><rb>曲</rb><rt>ま</rt></ruby>がること。また、<ruby><rb>曲</rb><rt>ま</rt></ruby>がっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>投手</rb><rt>とうしゅ</rt></ruby>の<ruby><rb>投</rb><rt>な</rt></ruby>げる<ruby><rb>球</rb><rt>たま</rt></ruby>が<ruby><rb>打者</rb><rt>だしゃ</rt></ruby>の<ruby><rb>近</rb><rt>ちか</rt></ruby>くで<ruby><rb>曲</rb><rt>ま</rt></ruby>がること。また、その<ruby><rb>球</rb><rt>たま</rt></ruby>。
+- word: ワイヤ
+  descriptions:
+  - <ruby><rb>針金</rb><rt>はりがね</rt></ruby>。
+  - <ruby><rb>電線</rb><rt>でんせん</rt></ruby>。
+  - ワイヤロープのこと。<ruby><rb>鋼鉄製</rb><rt>こうてつせい</rt></ruby>の<ruby><rb>太</rb><rt>ふと</rt></ruby>いつな。
+- word: 切れる
+  descriptions:
+  - <ruby><rb>切</rb><rt>き</rt></ruby>ることができる。
+  - いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>かれる。
+  - つながりがなくなる。
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>が、なくなる。
+  - こわれる。<ruby><rb>破</rb><rt>やぶ</rt></ruby>れる。
+  - <ruby><rb>頭</rb><rt>あたま</rt></ruby>がよくて、てきぱき<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする。
+  - <ruby><rb>横</rb><rt>よこ</rt></ruby>へそれる。
+  - <ruby><rb>足</rb><rt>た</rt></ruby>りない。
+  - <ruby><rb>終</rb><rt>お</rt></ruby>わる。
+  - …することができる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011434561000/k10011434561000.html
+web_title_with_ruby: <ruby>国道<rt>こくどう</rt></ruby>に<ruby>巨大<rt>きょだい</rt></ruby><ruby>タイヤ<rt>たいや</rt></ruby><ruby>落下<rt>らっか</rt></ruby>
+  8<ruby>時間<rt>じかん</rt></ruby><ruby>通行止<rt>つうこうど</rt></ruby>め <ruby>神奈川<rt>かながわ</rt></ruby>
+  <ruby>松田町<rt>まつだまち</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/11/国道に巨大タイヤ落下-8時間通行止め-神奈川-松田町
+related_news:
+- title: アメリカ　<ruby>大<rt>おお</rt></ruby>きな<ruby>歩道橋<rt>ほどうきょう</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちて４<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/03/16/アメリカ-大きな歩道橋が車に落ちて4人が亡くなる
+- title: <ruby>長野県<rt>ながのけん</rt></ruby>の<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>っていた<ruby>人<rt>ひと</rt></ruby>が<ruby>滑<rt>すべ</rt></ruby>って<ruby>落<rt>お</rt></ruby>ちる　３<ruby>人<rt>にん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/03/26/長野県の山に登っていた人が滑って落ちる-3人亡くなる
+- title: アメリカ　<ruby>自動<rt>じどう</rt></ruby>で<ruby>運転<rt>うんてん</rt></ruby>する<ruby>車<rt>くるま</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>で<ruby>１人<rt>ひとり</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/03/20/アメリカ-自動で運転する車の事故で1人が亡くなる
+- title: <ruby>富士山<rt>ふじさん</rt></ruby>も<ruby>春<rt>はる</rt></ruby>　５<ruby>合<rt>ごう</rt></ruby><ruby>目<rt>め</rt></ruby>まで<ruby>富士<rt>ふじ</rt></ruby>スバルラインで<ruby>行<rt>い</rt></ruby>くことができる
+  url: https://newswebeasy.github.io/news/easy/2018/04/13/富士山も春-5合目まで富士スバルラインで行くことができる
+- title: <ruby>熊本<rt>くまもと</rt></ruby>の<ruby>地震<rt>じしん</rt></ruby>から２<ruby>年<rt>ねん</rt></ruby>　<ruby>亡<rt>な</rt></ruby>くなった<ruby>大学生<rt>だいがくせい</rt></ruby>のために<ruby>家族<rt>かぞく</rt></ruby>が<ruby>祈<rt>いの</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/04/16/熊本の地震から2年-亡くなった大学生のために家族が祈る
+...
