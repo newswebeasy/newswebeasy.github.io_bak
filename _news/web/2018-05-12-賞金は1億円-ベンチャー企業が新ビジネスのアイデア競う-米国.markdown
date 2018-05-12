@@ -1,0 +1,69 @@
+---
+layout: web_news
+categories: web
+newsid: k10011436211000
+title: 賞金は１億円 ベンチャー企業が新ビジネスのアイデア競う 米国
+title_with_ruby: <ruby>賞金<rt data-ruby-level="4">しょうきん</rt></ruby>は１<ruby>億円<rt data-ruby-level="4">おくえん</rt></ruby>
+  ベンチャー<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>が<ruby>新<rt data-ruby-level="2">しん</rt></ruby>ビジネスのアイデア<ruby>競<rt
+  data-ruby-level="7">きそ</rt></ruby>う <ruby>米国<rt data-ruby-level="2">べいこく</rt></ruby>
+last_modified_at: '2018-05-12T13:22:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>05<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>12<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 13<ruby>時<rt data-ruby-level="2">じ</rt></ruby>22<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 日本円で１億円を超える出資を受けるために、世界中のベンチャー企業が、新しいビジネスのアイデアを競い合う大会がアメリカで開かれ、日本からも洗濯物を自動で折りたたむロボットを開発している企業が出場しました。
+summary: <ruby>日本円<rt data-ruby-level="1">にほんえん</rt></ruby>で１<ruby>億円<rt data-ruby-level="4">おくえん</rt></ruby>を<ruby>超<rt
+  data-ruby-level="7">こ</rt></ruby>える<ruby>出資<rt data-ruby-level="5">しゅっし</rt></ruby>を<ruby>受<rt
+  data-ruby-level="3">う</rt></ruby>けるために、<ruby>世界中<rt data-ruby-level="3">せかいじゅう</rt></ruby>のベンチャー<ruby>企業<rt
+  data-ruby-level="7">きぎょう</rt></ruby>が、<ruby>新<rt data-ruby-level="2">あたら</rt></ruby>しいビジネスのアイデアを<ruby>競<rt
+  data-ruby-level="7">きそ</rt></ruby>い<ruby>合<rt data-ruby-level="7">あ</rt></ruby>う<ruby>大会<rt
+  data-ruby-level="2">たいかい</rt></ruby>がアメリカで<ruby>開<rt data-ruby-level="3">ひら</rt></ruby>かれ、<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>からも<ruby>洗濯物<rt data-ruby-level="7">せんたくもの</rt></ruby>を<ruby>自動<rt
+  data-ruby-level="3">じどう</rt></ruby>で<ruby>折<rt data-ruby-level="4">お</rt></ruby>りたたむロボットを<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>している<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>が<ruby>出場<rt
+  data-ruby-level="2">しゅつじょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/12/K10011436211_1805121315_1805121324_01_02.jpg
+more: ＩＴ<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>が<ruby>多<rt data-ruby-level="2">おお</rt></ruby>く<ruby>集<rt
+  data-ruby-level="3">あつ</rt></ruby>まる<ruby>カリフォルニア<rt data-ruby-level="3">かりふぉるにあ</rt></ruby><ruby>州<rt
+  data-ruby-level="3">しゅう</rt></ruby>サンフランシスコで１１<ruby>日<rt data-ruby-level="1">にち</rt></ruby>、<ruby>世界中<rt
+  data-ruby-level="3">せかいじゅう</rt></ruby>の<ruby>起業家<rt data-ruby-level="3">きぎょうか</rt></ruby>が<ruby>新<rt
+  data-ruby-level="2">あたら</rt></ruby>しいビジネスのアイデアを<ruby>競<rt data-ruby-level="7">きそ</rt></ruby>う<ruby>大会<rt
+  data-ruby-level="2">たいかい</rt></ruby>が<ruby>開<rt data-ruby-level="3">ひら</rt></ruby>かれました。<br
+  /><br /><ruby>大会<rt data-ruby-level="2">たいかい</rt></ruby>には、２８の<ruby>国<rt data-ruby-level="2">くに</rt></ruby>や<ruby>地域<rt
+  data-ruby-level="6">ちいき</rt></ruby>の<ruby>予選<rt data-ruby-level="4">よせん</rt></ruby>を<ruby>勝<rt
+  data-ruby-level="7">か</rt></ruby>ち<ruby>抜<rt data-ruby-level="7">ぬ</rt></ruby>いた<ruby>企業<rt
+  data-ruby-level="7">きぎょう</rt></ruby>が<ruby>数百人<rt data-ruby-level="2">すうひゃくにん</rt></ruby>の<ruby>投資家<rt
+  data-ruby-level="5">とうしか</rt></ruby>らを<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>に、<ruby>与<rt
+  data-ruby-level="7">あた</rt></ruby>えられた２<ruby>分間<rt data-ruby-level="2">ふんかん</rt></ruby>でアイデアを<ruby>披露<rt
+  data-ruby-level="7">ひろう</rt></ruby>しました。<br /><br />このうち<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>からは、<ruby>洗濯物<rt
+  data-ruby-level="7">せんたくもの</rt></ruby>を<ruby>自動<rt data-ruby-level="3">じどう</rt></ruby>で<ruby>折<rt
+  data-ruby-level="4">お</rt></ruby>りたたむロボットを<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>している<ruby>東京<rt
+  data-ruby-level="2">とうきょう</rt></ruby>のベンチャー<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>がどんな<ruby>洗濯物<rt
+  data-ruby-level="7">せんたくもの</rt></ruby>かを<ruby>見極<rt data-ruby-level="7">みきわ</rt></ruby>める<ruby>画像<rt
+  data-ruby-level="5">がぞう</rt></ruby><ruby>解析<rt data-ruby-level="7">かいせき</rt></ruby>や<ruby>布<rt
+  data-ruby-level="5">ぬの</rt></ruby>を<ruby>折<rt data-ruby-level="4">お</rt></ruby>りたたむロボット<ruby>工学<rt
+  data-ruby-level="2">こうがく</rt></ruby>の<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>を<ruby>使<rt
+  data-ruby-level="3">つか</rt></ruby>っていることを<ruby>説明<rt data-ruby-level="4">せつめい</rt></ruby>しました。<br
+  /><br /><ruby>大会<rt data-ruby-level="2">たいかい</rt></ruby>は、<ruby>著名<rt data-ruby-level="6">ちょめい</rt></ruby>な<ruby>投資家<rt
+  data-ruby-level="5">とうしか</rt></ruby>ら６<ruby>人<rt data-ruby-level="1">にん</rt></ruby>の<ruby>審査員<rt
+  data-ruby-level="7">しんさいん</rt></ruby>が<ruby>選考<rt data-ruby-level="4">せんこう</rt></ruby>した<ruby>結果<rt
+  data-ruby-level="4">けっか</rt></ruby>、<ruby>血液<rt data-ruby-level="5">けつえき</rt></ruby>をとらずに<ruby>白血球<rt
+  data-ruby-level="3">はっけっきゅう</rt></ruby>を<ruby>測定<rt data-ruby-level="5">そくてい</rt></ruby>できる<ruby>機器<rt
+  data-ruby-level="4">きき</rt></ruby>を<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>しているアメリカの<ruby>企業<rt
+  data-ruby-level="7">きぎょう</rt></ruby>が<ruby>優勝<rt data-ruby-level="6">ゆうしょう</rt></ruby>し、<ruby>主催<rt
+  data-ruby-level="7">しゅさい</rt></ruby>したシリコンバレーの<ruby>投資<rt data-ruby-level="5">とうし</rt></ruby><ruby>会社<rt
+  data-ruby-level="2">がいしゃ</rt></ruby>から１００<ruby>万<rt data-ruby-level="2">まん</rt></ruby>ドル（<ruby>日本円<rt
+  data-ruby-level="1">にほんえん</rt></ruby>でおよそ１<ruby>億<rt data-ruby-level="4">おく</rt></ruby>１０００<ruby>万<rt
+  data-ruby-level="2">まん</rt></ruby><ruby>円<rt data-ruby-level="1">えん</rt></ruby>）の<ruby>出資<rt
+  data-ruby-level="5">しゅっし</rt></ruby>を<ruby>受<rt data-ruby-level="3">う</rt></ruby>けることになりました。<br
+  /><br /><ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>代表<rt data-ruby-level="3">だいひょう</rt></ruby>のセブン・ドリーマーズ・ラボラトリーズの<ruby>阪根<rt
+  data-ruby-level="8">さかね</rt></ruby><ruby>信一<rt data-ruby-level="4">しんいち</rt></ruby><ruby>社長<rt
+  data-ruby-level="2">しゃちょう</rt></ruby>は「<ruby>日本発<rt data-ruby-level="3">にほんはつ</rt></ruby>の<ruby>技術<rt
+  data-ruby-level="5">ぎじゅつ</rt></ruby>で<ruby>再<rt data-ruby-level="5">ふたた</rt></ruby>び<ruby>世界<rt
+  data-ruby-level="3">せかい</rt></ruby>を<ruby>席<rt data-ruby-level="4">せっ</rt></ruby>けんしたい。<ruby>自分<rt
+  data-ruby-level="2">じぶん</rt></ruby>としてはやりきった<ruby>気持<rt data-ruby-level="3">きも</rt></ruby>ちだ」と<ruby>話<rt
+  data-ruby-level="2">はな</rt></ruby>しています。
+movie_url: https://newswebeasy.github.io/ja201805/news/web/movie/2018/05/12/k10011436211_201805121512_201805121515.mp4
+voice_url: https://newswebeasy.github.io/ja201805/news/web/voice/2018/05/12/k10011436211_201805121512_201805121515.mp3
+source_url: https://www3.nhk.or.jp/news/html/20180512/k10011436211000.html
+related_news: []
+...
