@@ -1,0 +1,88 @@
+---
+layout: web_news
+categories: web
+newsid: k10011434321000
+title: 国の借金 過去最大に 国民１人当たり約860万円
+title_with_ruby: <ruby>国<rt data-ruby-level="2">くに</rt></ruby>の<ruby>借金<rt data-ruby-level="4">しゃっきん</rt></ruby>
+  <ruby>過去<rt data-ruby-level="5">かこ</rt></ruby><ruby>最大<rt data-ruby-level="4">さいだい</rt></ruby>に
+  <ruby>国民<rt data-ruby-level="4">こくみん</rt></ruby>１<ruby>人<rt data-ruby-level="1">にん</rt></ruby><ruby>当<rt
+  data-ruby-level="2">あ</rt></ruby>たり<ruby>約<rt data-ruby-level="4">やく</rt></ruby>860<ruby>万<rt
+  data-ruby-level="2">まん</rt></ruby><ruby>円<rt data-ruby-level="1">えん</rt></ruby>
+last_modified_at: '2018-05-11T07:28:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>05<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>11<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 07<ruby>時<rt data-ruby-level="2">じ</rt></ruby>28<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 国の借金の総額は、昨年度末で１０８７兆円余りとなり、過去最大を更新しました。国民１人当たりおよそ８６０万円の借金を抱えている計算となります。
+summary: <ruby>国<rt data-ruby-level="2">くに</rt></ruby>の<ruby>借金<rt data-ruby-level="4">しゃっきん</rt></ruby>の<ruby>総額<rt
+  data-ruby-level="5">そうがく</rt></ruby>は、<ruby>昨年度<rt data-ruby-level="4">さくねんど</rt></ruby><ruby>末<rt
+  data-ruby-level="4">まつ</rt></ruby>で１０８７<ruby>兆円<rt data-ruby-level="4">ちょうえん</rt></ruby><ruby>余<rt
+  data-ruby-level="5">あま</rt></ruby>りとなり、<ruby>過去<rt data-ruby-level="5">かこ</rt></ruby><ruby>最大<rt
+  data-ruby-level="4">さいだい</rt></ruby>を<ruby>更新<rt data-ruby-level="7">こうしん</rt></ruby>しました。<ruby>国民<rt
+  data-ruby-level="4">こくみん</rt></ruby>１<ruby>人<rt data-ruby-level="1">にん</rt></ruby><ruby>当<rt
+  data-ruby-level="2">あ</rt></ruby>たりおよそ８６０<ruby>万<rt data-ruby-level="2">まん</rt></ruby><ruby>円<rt
+  data-ruby-level="1">えん</rt></ruby>の<ruby>借金<rt data-ruby-level="4">しゃっきん</rt></ruby>を<ruby>抱<rt
+  data-ruby-level="7">かか</rt></ruby>えている<ruby>計算<rt data-ruby-level="2">けいさん</rt></ruby>となります。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/11/K10011434321_1805102241_1805110728_01_02.jpg
+more: <ruby>財務省<rt data-ruby-level="5">ざいむしょう</rt></ruby>によりますと、<ruby>昨年度<rt data-ruby-level="4">さくねんど</rt></ruby><ruby>末<rt
+  data-ruby-level="4">まつ</rt></ruby>の<ruby>時点<rt data-ruby-level="2">じてん</rt></ruby>の<ruby>国債<rt
+  data-ruby-level="7">こくさい</rt></ruby>や<ruby>借入金<rt data-ruby-level="4">かりいれきん</rt></ruby>、それに<ruby>政府<rt
+  data-ruby-level="5">せいふ</rt></ruby><ruby>短期<rt data-ruby-level="3">たんき</rt></ruby><ruby>証券<rt
+  data-ruby-level="5">しょうけん</rt></ruby>の３つを<ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせた<ruby>国<rt
+  data-ruby-level="2">くに</rt></ruby>の<ruby>借金<rt data-ruby-level="4">しゃっきん</rt></ruby>の<ruby>総額<rt
+  data-ruby-level="5">そうがく</rt></ruby>は１０８７<ruby>兆<rt data-ruby-level="4">ちょう</rt></ruby>８１３０<ruby>億円<rt
+  data-ruby-level="4">おくえん</rt></ruby>でした。<br /><br /><ruby>前<rt data-ruby-level="2">まえ</rt></ruby>の<ruby>年度末<rt
+  data-ruby-level="4">ねんどまつ</rt></ruby>よりも、１６<ruby>兆<rt data-ruby-level="4">ちょう</rt></ruby>２５３６<ruby>億円<rt
+  data-ruby-level="4">おくえん</rt></ruby><ruby>増<rt data-ruby-level="5">ふ</rt></ruby>え２<ruby>年<rt
+  data-ruby-level="1">ねん</rt></ruby><ruby>連続<rt data-ruby-level="4">れんぞく</rt></ruby>で<ruby>過去<rt
+  data-ruby-level="5">かこ</rt></ruby><ruby>最大<rt data-ruby-level="4">さいだい</rt></ruby>を<ruby>更新<rt
+  data-ruby-level="7">こうしん</rt></ruby>しました。これは、<ruby>高齢化<rt data-ruby-level="7">こうれいか</rt></ruby>によって<ruby>医療費<rt
+  data-ruby-level="7">いりょうひ</rt></ruby>や<ruby>介護費<rt data-ruby-level="7">かいごひ</rt></ruby>などの<ruby>社会保障<rt
+  data-ruby-level="6">しゃかいほしょう</rt></ruby><ruby>費<rt data-ruby-level="4">ひ</rt></ruby>が<ruby>膨<rt
+  data-ruby-level="7">ふく</rt></ruby>らみ、<ruby>税収<rt data-ruby-level="6">ぜいしゅう</rt></ruby>だけで<ruby>賄<rt
+  data-ruby-level="7">まかな</rt></ruby>えない<ruby>分<rt data-ruby-level="2">ぶん</rt></ruby>を<ruby>新<rt
+  data-ruby-level="2">あら</rt></ruby>たな<ruby>借金<rt data-ruby-level="4">しゃっきん</rt></ruby>にあたる<ruby>国債<rt
+  data-ruby-level="7">こくさい</rt></ruby>の<ruby>発行<rt data-ruby-level="3">はっこう</rt></ruby>で<ruby>補<rt
+  data-ruby-level="6">おぎな</rt></ruby>っているためです。<br /><br /><ruby>内訳<rt data-ruby-level="6">うちわけ</rt></ruby>を<ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>ますと、<ruby>国債<rt data-ruby-level="7">こくさい</rt></ruby>が９５９<ruby>兆<rt
+  data-ruby-level="4">ちょう</rt></ruby>１４１３<ruby>億円<rt data-ruby-level="4">おくえん</rt></ruby>、<ruby>借入金<rt
+  data-ruby-level="4">かりいれきん</rt></ruby>が５４<ruby>兆<rt data-ruby-level="4">ちょう</rt></ruby>２２８<ruby>億円<rt
+  data-ruby-level="4">おくえん</rt></ruby>、<ruby>短期的<rt data-ruby-level="4">たんきてき</rt></ruby>な<ruby>資金繰<rt
+  data-ruby-level="7">しきんぐ</rt></ruby>りのために<ruby>発行<rt data-ruby-level="3">はっこう</rt></ruby>する<ruby>政府<rt
+  data-ruby-level="5">せいふ</rt></ruby><ruby>短期<rt data-ruby-level="3">たんき</rt></ruby><ruby>証券<rt
+  data-ruby-level="5">しょうけん</rt></ruby>が７４<ruby>兆<rt data-ruby-level="4">ちょう</rt></ruby>６４８９<ruby>億円<rt
+  data-ruby-level="4">おくえん</rt></ruby>となっています。<br /><br /><ruby>国<rt data-ruby-level="2">くに</rt></ruby>の<ruby>借金<rt
+  data-ruby-level="4">しゃっきん</rt></ruby>の<ruby>総額<rt data-ruby-level="5">そうがく</rt></ruby>を<ruby>先月<rt
+  data-ruby-level="1">せんげつ</rt></ruby>１<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>時点<rt
+  data-ruby-level="2">じてん</rt></ruby>の<ruby>人口<rt data-ruby-level="1">じんこう</rt></ruby>で<ruby>単純<rt
+  data-ruby-level="6">たんじゅん</rt></ruby>に<ruby>割<rt data-ruby-level="6">わ</rt></ruby>りますと、１<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby><ruby>当<rt data-ruby-level="2">あ</rt></ruby>たり８５９<ruby>万円<rt
+  data-ruby-level="2">まんえん</rt></ruby><ruby>余<rt data-ruby-level="5">あま</rt></ruby>りの<ruby>借金<rt
+  data-ruby-level="4">しゃっきん</rt></ruby>を<ruby>抱<rt data-ruby-level="7">かか</rt></ruby>えている<ruby>計算<rt
+  data-ruby-level="2">けいさん</rt></ruby>となり、<ruby>先進国<rt data-ruby-level="3">せんしんこく</rt></ruby>の<ruby>中<rt
+  data-ruby-level="1">なか</rt></ruby>でも<ruby>最悪<rt data-ruby-level="4">さいあく</rt></ruby>の<ruby>水準<rt
+  data-ruby-level="5">すいじゅん</rt></ruby>にある<ruby>国<rt data-ruby-level="2">くに</rt></ruby>の<ruby>財政<rt
+  data-ruby-level="5">ざいせい</rt></ruby>の<ruby>立<rt data-ruby-level="2">た</rt></ruby>て<ruby>直<rt
+  data-ruby-level="2">なお</rt></ruby>しは<ruby>避<rt data-ruby-level="7">さ</rt></ruby>けて<ruby>通<rt
+  data-ruby-level="2">とお</rt></ruby>れない<ruby>課題<rt data-ruby-level="4">かだい</rt></ruby>となっています。
+source_url: https://www3.nhk.or.jp/news/html/20180511/k10011434321000.html
+easy_title_with_ruby: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>借金<rt
+  data-ruby-level="4">しゃっきん</rt></ruby>は<ruby>国民<rt data-ruby-level="4">こくみん</rt></ruby>１<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>に８６０<ruby>万<rt data-ruby-level="2">まん</rt></ruby><ruby>円<rt
+  data-ruby-level="1">えん</rt></ruby> <ruby>今<rt data-ruby-level="2">いま</rt></ruby>までで<ruby>最<rt
+  data-ruby-level="4">もっと</rt></ruby>も<ruby>多<rt data-ruby-level="2">おお</rt></ruby>くなる
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/05/14/日本の借金は国民1人に860万円-今までで最も多くなる
+related_news:
+- title: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby> <ruby>国防費<rt data-ruby-level="5">こくぼうひ</rt></ruby>１８<ruby>兆円<rt
+    data-ruby-level="4">ちょうえん</rt></ruby> <ruby>世界<rt data-ruby-level="3">せかい</rt></ruby><ruby>第<rt
+    data-ruby-level="3">だい</rt></ruby>２<ruby>位<rt data-ruby-level="4">い</rt></ruby>の<ruby>規模<rt
+    data-ruby-level="6">きぼ</rt></ruby>に <ruby>米国<rt data-ruby-level="2">べいこく</rt></ruby>など<ruby>警戒感<rt
+    data-ruby-level="7">けいかいかん</rt></ruby>あらわ
+  url: https://newswebeasy.github.io/news/web/2018/03/05/中国-国防費18兆円-世界第2位の規模に-米国など警戒感あらわ
+- title: アマゾンＣＥＯ <ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>の<ruby>長者番付<rt data-ruby-level="4">ちょうじゃばんづけ</rt></ruby>で<ruby>初<rt
+    data-ruby-level="4">はつ</rt></ruby>の<ruby>首位<rt data-ruby-level="4">しゅい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/03/07/アマゾンCEO-世界の長者番付で初の首位
+- title: <ruby>武田薬品<rt data-ruby-level="8">たけだやくひん</rt></ruby> ６<ruby>兆<rt data-ruby-level="4">ちょう</rt></ruby>8000<ruby>億円<rt
+    data-ruby-level="4">おくえん</rt></ruby>でシャイアー<ruby>買収<rt data-ruby-level="6">ばいしゅう</rt></ruby><ruby>合意<rt
+    data-ruby-level="3">ごうい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/05/08/武田薬品-6兆8000億円でシャイアー買収合意
+...

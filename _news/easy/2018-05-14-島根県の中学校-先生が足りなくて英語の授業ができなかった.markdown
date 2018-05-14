@@ -1,0 +1,41 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011434151000
+last_modified_at: '2018-05-14T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 島根県松江市の市立第三中学校は、今年４月からの英語の授業を３人の先生で行う予定でした。
+title: 島根県の中学校　先生が足りなくて英語の授業ができなかった
+title_with_ruby: <ruby>島根県<rt>しまねけん</rt></ruby>の<ruby>中学校<rt>ちゅうがっこう</rt></ruby>　<ruby>先生<rt>せんせい</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくて<ruby>英語<rt>えいご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>ができなかった
+outline: 島根県松江市の市立第三中学校は、今年４月からの英語の授業を３人の先生で行う予定でした。
+outline_with_ruby: <ruby>島根県<rt>しまねけん</rt></ruby><ruby>松江市<rt>まつえし</rt></ruby>の<ruby>市立<rt>しりつ</rt></ruby><ruby>第三<rt>だいさん</rt></ruby><ruby>中学校<rt>ちゅうがっこう</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>からの<ruby>英語<rt>えいご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>を３<ruby>人<rt>にん</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う<ruby>予定<rt>よてい</rt></ruby>でした。
+image_url: https://newswebeasy.github.io/ja201805/news/easy/image/2018/05/14/k10011434151000.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/14/k10011434151000.mp4
+content_with_ruby: "<p><ruby>島根県<rt>しまねけん</rt></ruby><ruby>松江市<rt>まつえし</rt></ruby>の<ruby>市立<rt>しりつ</rt></ruby><ruby>第三<rt>だいさん</rt></ruby><ruby>中学校<rt>ちゅうがっこう</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>からの<ruby>英語<rt>えいご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>を３<ruby>人<rt>にん</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う<ruby>予定<rt>よてい</rt></ruby>でした。このうち<ruby>１人<rt>ひとり</rt></ruby>は、<ruby>授業<rt>じゅぎょう</rt></ruby>のときだけ<ruby>来<rt>く</rt></ruby>る<ruby>非常勤<rt>ひじょうきん</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>に<ruby>頼<rt>たの</rt></ruby>もうと<ruby>考<rt>かんが</rt></ruby>えていました。</p>\n\
+  <p><ruby>島根県<rt>しまねけん</rt></ruby>などは２<ruby>月<rt>がつ</rt></ruby>から<ruby>非常勤<rt>ひじょうきん</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>をさがしていましたが、４<ruby>月<rt>がつ</rt></ruby>までに<ruby>見<rt>み</rt></ruby>つけることができませんでした。このため、３<ruby>年生<rt>ねんせい</rt></ruby>の３つのクラスは４<ruby>月<rt>がつ</rt></ruby>に１０<ruby>回<rt>かい</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>受<rt>う</rt></ruby>けることができませんでした。<ruby>非常勤<rt>ひじょうきん</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>はそのあと<ruby>見<rt>み</rt></ruby>つかりました。</p>\n\
+  <p><ruby>第三<rt>だいさん</rt></ruby><ruby>中学校<rt>ちゅうがっこう</rt></ruby>の<ruby>校長<rt>こうちょう</rt></ruby>は「<ruby>勉強<rt>べんきょう</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れてしまって、<span\
+  \ style=\"color: blue;\"><ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ない</span>と<ruby>思<rt>おも</rt></ruby>っています。６<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまでには、<ruby>予定<rt>よてい</rt></ruby><ruby>通<rt>どお</rt></ruby>りのところまで<ruby>授業<rt>じゅぎょう</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>進<rt>すす</rt></ruby>め</span>たいと<ruby>考<rt>かんが</rt></ruby>えています」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 申し訳ない
+  descriptions:
+  - <ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>訳</rb><rt>わけ</rt></ruby>ができない。<ruby><rb>大変</rb><rt>たいへん</rt></ruby>すまない。
+- word: 進める
+  descriptions:
+  - <ruby><rb>前</rb><rt>まえ</rt></ruby>のほうへ<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+  - <ruby><rb>程度</rb><rt>ていど</rt></ruby>を<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - ものごとを、はかどらせる。
+  - <ruby><rb>時計</rb><rt>とけい</rt></ruby>の<ruby><rb>針</rb><rt>はり</rt></ruby>を<ruby><rb>早</rb><rt>はや</rt></ruby>める。
+source_url: http://www3.nhk.or.jp/news/easy/k10011434151000/k10011434151000.html
+web_title_with_ruby: <ruby>英語<rt>えいご</rt></ruby>の<ruby>講師<rt>こうし</rt></ruby><ruby>確保<rt>かくほ</rt></ruby>できず
+  <ruby>中学校<rt>ちゅうがっこう</rt></ruby>で１か<ruby>月<rt>げつ</rt></ruby><ruby>英語<rt>えいご</rt></ruby><ruby>授業<rt>じゅぎょう</rt></ruby><ruby>止<rt>と</rt></ruby>まる
+  <ruby>松江<rt>まつえ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/10/英語の講師確保できず-中学校で1か月英語授業止まる-松江
+related_news:
+- title: アメリカ　<ruby>高校<rt>こうこう</rt></ruby>で<ruby>生徒<rt>せいと</rt></ruby>などが<ruby>銃<rt>じゅう</rt></ruby>で<ruby>撃<rt>う</rt></ruby>たれて１７<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/02/15/アメリカ-高校で生徒などが銃で撃たれて17人が亡くなる
+- title: <ruby>千葉市<rt>ちばし</rt></ruby>　<ruby>体育<rt>たいいく</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>でパラリンピックのスポーツを<ruby>教<rt>おし</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2018/03/22/千葉市-体育の授業でパラリンピックのスポーツを教える
+...
