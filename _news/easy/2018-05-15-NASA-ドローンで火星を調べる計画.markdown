@@ -1,0 +1,84 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011436281000
+last_modified_at: '2018-05-15T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: アメリカのＮＡＳＡは１１日、ドローンで火星を調べるための実験をすると発表しました。
+title: ＮＡＳＡ　ドローンで火星を調べる計画
+title_with_ruby: ＮＡＳＡ　ドローンで<ruby>火星<rt>かせい</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べる<ruby>計画<rt>けいかく</rt></ruby>
+outline: アメリカのＮＡＳＡは１１日、ドローンで火星を調べるための実験をすると発表しました。
+outline_with_ruby: アメリカのＮＡＳＡは１１<ruby>日<rt>にち</rt></ruby>、ドローンで<ruby>火星<rt>かせい</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるための<ruby>実験<rt>じっけん</rt></ruby>をすると<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/12/K10011436281_1805122055_1805122100_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/15/k10011436281000.mp4
+content_with_ruby: "<p>アメリカの<span style=\"color: blue;\">ＮＡＳＡ</span>は１１<ruby>日<rt>にち</rt></ruby>、ドローンで<span\
+  \ style=\"color: blue;\"><ruby>火星<rt>かせい</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べるための<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>をすると<span style=\"color:\
+  \ blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<span style=\"color: blue;\"\
+  ><ruby>地球<rt>ちきゅう</rt></ruby></span><ruby>以外<rt>いがい</rt></ruby>でドローンが<ruby>飛<rt>と</rt></ruby>ぶのは<ruby>初<rt>はじ</rt></ruby>めてです。</p>\n\
+  <p><span style=\"color: blue;\">ＮＡＳＡ</span>は、<span style=\"color: blue;\"><ruby>火星<rt>かせい</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べるための<ruby>車<rt>くるま</rt></ruby>に<span\
+  \ style=\"color: blue;\">ヘリコプター</span>のような<ruby>形<rt>かたち</rt></ruby>のドローンを<span\
+  \ style=\"color: blue;\"><ruby>乗<rt>の</rt></ruby>せ</span>て、２０２０<ruby>年<rt>ねん</rt></ruby>７<ruby>月<rt>がつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</span>ます。２０２１<ruby>年<rt>ねん</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>火星<rt>かせい</rt></ruby></span>に<ruby>着<rt>つ</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p>ドローンは、<ruby>大<rt>おお</rt></ruby>きさが<span style=\"color: blue;\">ソフトボール</span>ぐらいで、<ruby>重<rt>おも</rt></ruby>さが１．８ｋｇぐらいです。<span\
+  \ style=\"color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>の<ruby>光<rt>ひかり</rt></ruby>から<ruby>電気<rt>でんき</rt></ruby>をつくって<ruby>飛<rt>と</rt></ruby>びます。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>火星<rt>かせい</rt></ruby></span>の<ruby>空気<rt>くうき</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>濃度<rt>のうど</rt></ruby></span>は<span style=\"color:\
+  \ blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>の１％で、ドローンが<ruby>飛<rt>と</rt></ruby>びにくいため、<span\
+  \ style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>よりも１０<ruby>倍<rt>ばい</rt></ruby><ruby>速<rt>はや</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>羽根<rt>はね</rt></ruby></span>が<ruby>回<rt>まわ</rt></ruby>るようにします。</p>\n\
+  <p><span style=\"color: blue;\">ＮＡＳＡ</span>は「ドローンが<span style=\"color: blue;\"><ruby>火星<rt>かせい</rt></ruby></span>で<ruby>飛<rt>と</rt></ruby>ぶことができたら、<ruby>車<rt>くるま</rt></ruby>では<ruby>行<rt>い</rt></ruby>くことができない<ruby>場所<rt>ばしょ</rt></ruby>も<ruby>調<rt>しら</rt></ruby>べることができると<ruby>考<rt>かんが</rt></ruby>えています」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: NASA
+  descriptions:
+  - <ruby><rb>宇宙開発</rb><rt>うちゅうかいはつ</rt></ruby>のために<ruby><rb>作</rb><rt>つく</rt></ruby>られた、アメリカ<ruby><rb>政府</rb><rt>せいふ</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>。スペースシャトルの<ruby><rb>開発</rb><rt>かいはつ</rt></ruby>などをする。
+- word: 火星
+  descriptions:
+  - <ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>四番</rb><rt>よばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>星</rb><rt>ほし</rt></ruby>の<ruby><rb>色</rb><rt>いろ</rt></ruby>は<ruby><rb>赤</rb><rt>あか</rt></ruby>く<ruby><rb>見</rb><rt>み</rt></ruby>え、<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>が<ruby><rb>二</rb><rt>ふた</rt></ruby>つある。
+- word: 実験
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>３番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: ヘリコプター
+  descriptions:
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>きなプロペラが、<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>りつけてあり、まっすぐ<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>飛</rb><rt>と</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>がったり、<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>にとまったりできる<ruby><rb>航空機</rb><rt>こうくうき</rt></ruby>。ヘリ。
+- word: 乗せる
+  descriptions:
+  - <ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などに<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>む。
+  - <ruby><rb>調子</rb><rt>ちょうし</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。
+  - だます。
+- word: 打ち上げる
+  descriptions:
+  - （<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - <ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - （<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。
+- word: ソフトボール
+  descriptions:
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>よりもやわらかい<ruby><rb>大</rb><rt>おお</rt></ruby>きなボールを<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>と<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。また、そのボール。ソフト。
+- word: 太陽
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。
+- word: 濃度
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>や<ruby><rb>気体</rb><rt>きたい</rt></ruby>のこい、うすいの<ruby><rb>度合</rb><rt>どあ</rt></ruby>い。
+- word: 羽根
+  descriptions:
+  - <ruby><rb>黒</rb><rt>くろ</rt></ruby>い<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>玉</rb><rt>たま</rt></ruby>に<ruby><rb>鳥</rb><rt>とり</rt></ruby>の<ruby><rb>羽</rb><rt>はね</rt></ruby>をつけて、<ruby><rb>羽子板</rb><rt>はごいた</rt></ruby>でつくもの。<ruby><rb>羽子</rb><rt>はご</rt></ruby>。
+  - <ruby><rb>器械</rb><rt>きかい</rt></ruby>につけた、<ruby><rb>羽</rb><rt>はね</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>をしたもの。
+source_url: http://www3.nhk.or.jp/news/easy/k10011436281000/k10011436281000.html
+web_title_with_ruby: <ruby>ヘリ<rt>へり</rt></ruby><ruby>型<rt>がた</rt></ruby><ruby>ドローン<rt>どろーん</rt></ruby>
+  <ruby>火星<rt>かせい</rt></ruby>で<ruby>飛行<rt>ひこう</rt></ruby><ruby>実験<rt>じっけん</rt></ruby>へ
+  NASAが<ruby>地球<rt>ちきゅう</rt></ruby><ruby>以外<rt>いがい</rt></ruby>で<ruby>初<rt>はつ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/12/ヘリ型ドローン-火星で飛行実験へ-NASAが地球以外で初
+related_news:
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>　ドローンを<ruby>使<rt>つか</rt></ruby>って<ruby>香港<rt>ほんこん</rt></ruby>からスマートフォンを<ruby>密輸<rt>みつゆ</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/02/中国-ドローンを使って香港からスマートフォンを密輸
+...

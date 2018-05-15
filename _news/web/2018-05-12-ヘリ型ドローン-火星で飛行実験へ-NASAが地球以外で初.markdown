@@ -1,0 +1,72 @@
+---
+layout: web_news
+categories: web
+newsid: k10011436281000
+title: ヘリ型ドローン 火星で飛行実験へ NASAが地球以外で初
+title_with_ruby: ヘリ<ruby>型<rt data-ruby-level="4">がた</rt></ruby>ドローン <ruby>火星<rt data-ruby-level="2">かせい</rt></ruby>で<ruby>飛行<rt
+  data-ruby-level="4">ひこう</rt></ruby><ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>へ
+  NASAが<ruby>地球<rt data-ruby-level="3">ちきゅう</rt></ruby><ruby>以外<rt data-ruby-level="4">いがい</rt></ruby>で<ruby>初<rt
+  data-ruby-level="4">はつ</rt></ruby>
+last_modified_at: '2018-05-12T17:13:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>05<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>12<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 17<ruby>時<rt data-ruby-level="2">じ</rt></ruby>13<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ＮＡＳＡ＝アメリカ航空宇宙局は、火星にヘリコプター型の小型ドローンを運んで飛行実験を行うと発表しました。ヘリコプターの飛行実験を地球以外の惑星で行うのは初めてです。
+summary: ＮＡＳＡ＝アメリカ<ruby>航空<rt data-ruby-level="4">こうくう</rt></ruby><ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby><ruby>局<rt
+  data-ruby-level="3">きょく</rt></ruby>は、<ruby>火星<rt data-ruby-level="2">かせい</rt></ruby>にヘリコプター<ruby>型<rt
+  data-ruby-level="4">がた</rt></ruby>の<ruby>小型<rt data-ruby-level="4">こがた</rt></ruby>ドローンを<ruby>運<rt
+  data-ruby-level="3">はこ</rt></ruby>んで<ruby>飛行<rt data-ruby-level="4">ひこう</rt></ruby><ruby>実験<rt
+  data-ruby-level="4">じっけん</rt></ruby>を<ruby>行<rt data-ruby-level="2">おこな</rt></ruby>うと<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>しました。ヘリコプターの<ruby>飛行<rt data-ruby-level="4">ひこう</rt></ruby><ruby>実験<rt
+  data-ruby-level="4">じっけん</rt></ruby>を<ruby>地球<rt data-ruby-level="3">ちきゅう</rt></ruby><ruby>以外<rt
+  data-ruby-level="4">いがい</rt></ruby>の<ruby>惑星<rt data-ruby-level="7">わくせい</rt></ruby>で<ruby>行<rt
+  data-ruby-level="2">おこな</rt></ruby>うのは<ruby>初<rt data-ruby-level="4">はじ</rt></ruby>めてです。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/12/K10011436281_1805122055_1805122100_01_03.jpg
+more: これはＮＡＳＡが１１<ruby>日<rt data-ruby-level="1">にち</rt></ruby>に<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>したもので、<ruby>火星探査車<rt
+  data-ruby-level="6">かせいたんさしゃ</rt></ruby>にヘリコプター<ruby>型<rt data-ruby-level="4">がた</rt></ruby>の<ruby>小型<rt
+  data-ruby-level="4">こがた</rt></ruby>ドローンを<ruby>積<rt data-ruby-level="7">つ</rt></ruby>み<ruby>込<rt
+  data-ruby-level="7">こ</rt></ruby>み、２０２０<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>７<ruby>月<rt
+  data-ruby-level="1">がつ</rt></ruby>に<ruby>火星<rt data-ruby-level="2">かせい</rt></ruby>に<ruby>向<rt
+  data-ruby-level="3">む</rt></ruby>けて<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+  data-ruby-level="3">あ</rt></ruby>げます。ドローンは２０２１<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>２<ruby>月<rt
+  data-ruby-level="1">がつ</rt></ruby>に<ruby>火星<rt data-ruby-level="2">かせい</rt></ruby>に<ruby>到着<rt
+  data-ruby-level="7">とうちゃく</rt></ruby>する<ruby>見込<rt data-ruby-level="7">みこ</rt></ruby>みで、<ruby>到着<rt
+  data-ruby-level="7">とうちゃく</rt></ruby><ruby>次第<rt data-ruby-level="7">しだい</rt></ruby><ruby>飛行<rt
+  data-ruby-level="4">ひこう</rt></ruby><ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>が<ruby>行<rt
+  data-ruby-level="2">おこな</rt></ruby>われます。<br /><br />ドローンは、<ruby>機体<rt data-ruby-level="4">きたい</rt></ruby>の<ruby>大<rt
+  data-ruby-level="1">おお</rt></ruby>きさがソフトボール<ruby>程度<rt data-ruby-level="5">ていど</rt></ruby>で、<ruby>重<rt
+  data-ruby-level="3">おも</rt></ruby>さはおよそ１．８キロ、<ruby>太陽光発電<rt data-ruby-level="3">たいようこうはつでん</rt></ruby>で<ruby>動<rt
+  data-ruby-level="3">うご</rt></ruby>きます。<br /><br /><ruby>火星<rt data-ruby-level="2">かせい</rt></ruby>の<ruby>大気<rt
+  data-ruby-level="1">たいき</rt></ruby>は<ruby>地球<rt data-ruby-level="3">ちきゅう</rt></ruby>の１００<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>の１と<ruby>薄<rt data-ruby-level="7">うす</rt></ruby>く、<ruby>機体<rt
+  data-ruby-level="4">きたい</rt></ruby>を<ruby>浮<rt data-ruby-level="7">う</rt></ruby>かせるための<ruby>揚力<rt
+  data-ruby-level="7">ようりょく</rt></ruby>を<ruby>得<rt data-ruby-level="4">え</rt></ruby>るのが<ruby>難<rt
+  data-ruby-level="6">むずか</rt></ruby>しいため、<ruby>回転翼<rt data-ruby-level="7">かいてんよく</rt></ruby>の<ruby>羽根<rt
+  data-ruby-level="3">はね</rt></ruby>を<ruby>地球上<rt data-ruby-level="3">ちきゅうじょう</rt></ruby>よりもおよそ１０<ruby>倍<rt
+  data-ruby-level="3">ばい</rt></ruby><ruby>速<rt data-ruby-level="3">ばや</rt></ruby>く<ruby>回転<rt
+  data-ruby-level="3">かいてん</rt></ruby>させて<ruby>飛<rt data-ruby-level="4">と</rt></ruby>ばすということです。<br
+  /><br /><ruby>今回<rt data-ruby-level="2">こんかい</rt></ruby>は<ruby>技術的<rt data-ruby-level="5">ぎじゅつてき</rt></ruby>な<ruby>検証<rt
+  data-ruby-level="5">けんしょう</rt></ruby>が<ruby>目的<rt data-ruby-level="4">もくてき</rt></ruby>ですが、ＮＡＳＡは「ヘリコプターが<ruby>火星<rt
+  data-ruby-level="2">かせい</rt></ruby>で<ruby>飛行<rt data-ruby-level="4">ひこう</rt></ruby>できると<ruby>実証<rt
+  data-ruby-level="5">じっしょう</rt></ruby>されれば、<ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>、<ruby>探査車<rt
+  data-ruby-level="6">たんさしゃ</rt></ruby>では<ruby>行<rt data-ruby-level="2">い</rt></ruby>けない<ruby>場所<rt
+  data-ruby-level="3">ばしょ</rt></ruby>へのアクセスといった<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby><ruby>範囲<rt
+  data-ruby-level="7">はんい</rt></ruby>の<ruby>拡大<rt data-ruby-level="6">かくだい</rt></ruby>などが<ruby>期待<rt
+  data-ruby-level="3">きたい</rt></ruby>できる」としています。
+movie_url: https://newswebeasy.github.io/ja201805/news/web/movie/2018/05/12/k10011436281_201805122055_201805122100.mp4
+voice_url: https://newswebeasy.github.io/ja201805/news/web/voice/2018/05/12/k10011436281_201805122055_201805122100.mp3
+source_url: https://www3.nhk.or.jp/news/html/20180512/k10011436281000.html
+easy_title_with_ruby: ＮＡＳＡ ドローンで<ruby>火星<rt data-ruby-level="2">かせい</rt></ruby>を<ruby>調<rt
+  data-ruby-level="3">しら</rt></ruby>べる<ruby>計画<rt data-ruby-level="2">けいかく</rt></ruby>
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/05/15/NASA-ドローンで火星を調べる計画
+related_news:
+- title: 「<ruby>月<rt data-ruby-level="1">つき</rt></ruby>、<ruby>火星<rt data-ruby-level="2">かせい</rt></ruby>、そしてその<ruby>先<rt
+    data-ruby-level="1">さき</rt></ruby>まで」<ruby>太陽系<rt data-ruby-level="6">たいようけい</rt></ruby><ruby>探査<rt
+    data-ruby-level="6">たんさ</rt></ruby>の<ruby>国際<rt data-ruby-level="5">こくさい</rt></ruby><ruby>会議<rt
+    data-ruby-level="4">かいぎ</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/03/03/月火星そしてその先まで太陽系探査の国際会議
+- title: <ruby>米<rt data-ruby-level="2">べい</rt></ruby> ボーイング７８７の<ruby>運航<rt data-ruby-level="4">うんこう</rt></ruby><ruby>条件<rt
+    data-ruby-level="5">じょうけん</rt></ruby><ruby>厳<rt data-ruby-level="6">きび</rt></ruby>しくする<ruby>措置<rt
+    data-ruby-level="7">そち</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/04/18/米-ボーイング787の運航条件厳しくする措置
+...

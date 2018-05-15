@@ -1,0 +1,73 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011437831000
+last_modified_at: '2018-05-15T16:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: 今月６日、日本大学と関西学院大学のアメリカンフットボールの試合がありました。
+title: 大学のアメリカンフットボールの試合で危険なタックル
+title_with_ruby: <ruby>大学<rt>だいがく</rt></ruby>のアメリカンフットボールの<ruby>試合<rt>しあい</rt></ruby>で<ruby>危険<rt>きけん</rt></ruby>なタックル
+outline: 今月６日、日本大学と関西学院大学のアメリカンフットボールの試合がありました。
+outline_with_ruby: <ruby>今月<rt>こんげつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>、<ruby>日本大学<rt>にほんだいがく</rt></ruby>と<ruby>関西<rt>かんせい</rt></ruby><ruby>学院<rt>がくいん</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>のアメリカンフットボールの<ruby>試合<rt>しあい</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/14/K10011437831_1805141644_1805141647_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/15/k10011437831000.mp4
+content_with_ruby: "<p><ruby>今月<rt>こんげつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>、<ruby>日本大学<rt>にほんだいがく</rt></ruby>と<ruby>関西<rt>かんせい</rt></ruby><ruby>学院<rt>がくいん</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>の<span\
+  \ style=\"color: blue;\">アメリカンフットボール</span>の<ruby>試合<rt>しあい</rt></ruby>がありました。この<ruby>試合<rt>しあい</rt></ruby>で、<ruby>日本大学<rt>にほんだいがく</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が、ボールを<ruby>投<rt>な</rt></ruby>げたあとの<ruby>関西<rt>かんせい</rt></ruby><ruby>学院<rt>がくいん</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>に<ruby>後<rt>うし</rt></ruby>ろから<span\
+  \ style=\"color: blue;\">タックル</span>をしました。<ruby>関西<rt>かんせい</rt></ruby><ruby>学院<rt>がくいん</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>によると、<span\
+  \ style=\"color: blue;\">タックル</span>をされた<span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>右<rt>みぎ</rt></ruby>の<span\
+  \ style=\"color: blue;\">ひざ</span>などにけがをして、<ruby>左<rt>ひだり</rt></ruby><ruby>足<rt>あし</rt></ruby>が<span\
+  \ style=\"color: blue;\">しびれ</span>ています。</p>\n<p><ruby>関西<rt>かんせい</rt></ruby><ruby>学院<rt>がくいん</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>にけがをさせるためだけの<ruby>危険<rt>きけん</rt></ruby>な<span\
+  \ style=\"color: blue;\">タックル</span>だ」と<ruby>言<rt>い</rt></ruby>いました。そして<ruby>日本大学<rt>にほんだいがく</rt></ruby>に<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>って、<span\
+  \ style=\"color: blue;\">チーム</span>がどのように<ruby>考<rt>かんが</rt></ruby>えているか<ruby>質問<rt>しつもん</rt></ruby>して、けがをした<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>に<ruby>謝<rt>あやま</rt></ruby>るように<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>スポーツ<ruby>庁<rt>ちょう</rt></ruby>の<ruby>鈴木<rt>すずき</rt></ruby><ruby>大地<rt>だいち</rt></ruby>さんも「<ruby>危険<rt>きけん</rt></ruby>なことを<span\
+  \ style=\"color: blue;\"><ruby>許<rt>ゆる</rt></ruby>す</span>ことはできません。<span style=\"\
+  color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>がどうして<ruby>危険<rt>きけん</rt></ruby>な<span\
+  \ style=\"color: blue;\">タックル</span>をしたのか<ruby>調<rt>しら</rt></ruby>べる<ruby>必要<rt>ひつよう</rt></ruby>があります」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: アメリカンフットボール
+  descriptions:
+  - ラグビーとサッカーをもとにして、アメリカで<ruby><rb>考</rb><rt>かんが</rt></ruby>えられた<ruby><rb>球技</rb><rt>きゅうぎ</rt></ruby>。１チーム１１<ruby><rb>人</rb><rt>にん</rt></ruby>が、<ruby><rb>楕円形</rb><rt>だえんけい</rt></ruby>のボールを<ruby><rb>持</rb><rt>も</rt></ruby>ったり、<ruby><rb>投</rb><rt>な</rt></ruby>げたり、けったりして<ruby><rb>敵</rb><rt>てき</rt></ruby>の<ruby><rb>陣地</rb><rt>じんち</rt></ruby>に<ruby><rb>持</rb><rt>も</rt></ruby>ちこみ<ruby><rb>得点</rb><rt>とくてん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。
+- word: タックル
+  descriptions:
+  - ラグビーなどで、ボールを<ruby><rb>持</rb><rt>も</rt></ruby>っている<ruby><rb>相手</rb><rt>あいて</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>にとびついて、じゃまをすること。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 膝
+  descriptions:
+  - ももと、すねのつなぎ<ruby><rb>目</rb><rt>め</rt></ruby>にある、<ruby><rb>関節</rb><rt>かんせつ</rt></ruby>の<ruby><rb>前側</rb><rt>まえがわ</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - すわったときの、ももの<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+- word: しびれる
+  descriptions:
+  - <ruby><rb>手</rb><rt>て</rt></ruby>や<ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>感覚</rb><rt>かんかく</rt></ruby>がなくなり、<ruby><rb>自由</rb><rt>じゆう</rt></ruby>に<ruby><rb>動</rb><rt>うご</rt></ruby>かなくなる。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 許す
+  descriptions:
+  - とがめないで<ruby><rb>済</rb><rt>す</rt></ruby>ませる。
+  - してもよいと<ruby><rb>認</rb><rt>みと</rt></ruby>める。
+  - <ruby><rb>聞</rb><rt>き</rt></ruby>き<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>入</rb><rt>い</rt></ruby>れる。
+  - <ruby><rb>気</rb><rt>き</rt></ruby>をゆるめる。<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>解</rb><rt>と</rt></ruby>ける。
+source_url: http://www3.nhk.or.jp/news/easy/k10011437831000/k10011437831000.html
+web_title_with_ruby: <ruby>日大<rt>にちだい</rt></ruby><ruby>アメフト<rt>あめふと</rt></ruby><ruby>部<rt>ぶ</rt></ruby>の<ruby>危険<rt>きけん</rt></ruby><ruby>行為<rt>こうい</rt></ruby>「<ruby>容認<rt>ようにん</rt></ruby>できない」
+  <ruby>スポーツ<rt>すぽーつ</rt></ruby><ruby>庁<rt>ちょう</rt></ruby><ruby>長官<rt>ちょうかん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/14/日大アメフト部の危険行為容認できない-スポーツ庁長官
+related_news:
+- title: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>女子<rt>じょし</rt></ruby>が<ruby>銀<rt>ぎん</rt></ruby>と<ruby>銅<rt>どう</rt></ruby>メダル　スピードスケート１０００m
+  url: https://newswebeasy.github.io/news/easy/2018/02/15/日本の女子が銀と銅メダル-スピードスケート1000m
+- title: フィギュアスケートの<ruby>羽生<rt>はにゅう</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>金<rt>きん</rt></ruby>メダル　<ruby>宇野<rt>うの</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>は<ruby>銀<rt>ぎん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/02/19/フィギュアスケートの羽生選手が金メダル-宇野選手は銀
+- title: <ruby>野球<rt>やきゅう</rt></ruby>の<ruby>大谷<rt>おおたに</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がアメリカで<ruby>初<rt>はじ</rt></ruby>めての<ruby>試合<rt>しあい</rt></ruby>で２<ruby>点<rt>てん</rt></ruby><ruby>取<rt>と</rt></ruby>られる
+  url: https://newswebeasy.github.io/news/easy/2018/02/26/野球の大谷選手がアメリカで初めての試合で2点取られる
+- title: アイスホッケー　<ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のチームの<ruby>試合<rt>しあい</rt></ruby>が<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>終<rt>お</rt></ruby>わる
+  url: https://newswebeasy.github.io/news/easy/2018/02/21/アイスホッケー-韓国と北朝鮮のチームの試合が全部終わる
+- title: テニスの<ruby>大坂<rt>おおさか</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>国際<rt>こくさい</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>で<ruby>優勝<rt>ゆうしょう</rt></ruby>　<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>女子<rt>じょし</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて
+  url: https://newswebeasy.github.io/news/easy/2018/03/19/テニスの大坂選手が国際大会で優勝-日本の女子で初めて
+...

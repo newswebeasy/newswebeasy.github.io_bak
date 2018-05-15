@@ -1,0 +1,88 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011438481000
+last_modified_at: '2018-05-15T16:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: アメリカは１４日、イスラエルのテルアビブにあったアメリカ大使館をエルサレムに移しました。
+title: アメリカが大使館をエルサレムに移す
+title_with_ruby: アメリカが<ruby>大使館<rt>たいしかん</rt></ruby>をエルサレムに<ruby>移<rt>うつ</rt></ruby>す
+outline: アメリカは１４日、イスラエルのテルアビブにあったアメリカ大使館をエルサレムに移しました。
+outline_with_ruby: アメリカは<ruby>１４日<rt>じゅうよっか</rt></ruby>、イスラエルのテルアビブにあったアメリカ<ruby>大使館<rt>たいしかん</rt></ruby>をエルサレムに<ruby>移<rt>うつ</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/15/K10011438481_1805150509_1805150513_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/15/k10011438481000.mp4
+content_with_ruby: "<p>アメリカは<ruby>１４日<rt>じゅうよっか</rt></ruby>、イスラエルのテルアビブにあったアメリカ<ruby>大使館<rt>たいしかん</rt></ruby>をエルサレムに<span\
+  \ style=\"color: blue;\"><ruby>移<rt>うつ</rt></ruby>し</span>ました。</p>\n<p>５<ruby>月<rt>がつ</rt></ruby><ruby>１４日<rt>じゅうよっか</rt></ruby>は、イスラエルの<ruby>国<rt>くに</rt></ruby>ができてから７０<ruby>年<rt>ねん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>記念<rt>きねん</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>です。トランプ<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>大使館<rt>たいしかん</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>く<ruby>式<rt>しき</rt></ruby>に<span\
+  \ style=\"color: blue;\">ビデオ</span>で<span style=\"color: blue;\">メッセージ</span>を<ruby>送<rt>おく</rt></ruby>りました。そして、「イスラエルは<ruby>国<rt>くに</rt></ruby>ができたときからずっと、エルサレムが<span\
+  \ style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>だと<ruby>言<rt>い</rt></ruby>っています」と<ruby>話<rt>はな</rt></ruby>して、<ruby>大使館<rt>たいしかん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>移<rt>うつ</rt></ruby>し</span>たことは<ruby>正<rt>ただ</rt></ruby>しいことだと<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>しかし、パレスチナの<ruby>人<rt>ひと</rt></ruby>たちも<ruby>将来<rt>しょうらい</rt></ruby><ruby>国<rt>くに</rt></ruby>をつくるときにエルサレムを<span\
+  \ style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>にすると<ruby>言<rt>い</rt></ruby>っています。このため<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>の<ruby>大使館<rt>たいしかん</rt></ruby>はテルアビブにあります。</p>\n\
+  <p>パレスチナの<ruby>人<rt>ひと</rt></ruby>たちは、アメリカがエルサレムに<ruby>大使館<rt>たいしかん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>移<rt>うつ</rt></ruby>し</span>たことに<ruby>反対<rt>はんたい</rt></ruby>して<span\
+  \ style=\"color: blue;\">デモ</span>を<ruby>行<rt>おこな</rt></ruby>っています。イスラエルの<ruby>隣<rt>となり</rt></ruby>にあるガザ<ruby>地区<rt>ちく</rt></ruby>では、<span\
+  \ style=\"color: blue;\">デモ</span>をしている<ruby>人<rt>ひと</rt></ruby>たちに<ruby>向<rt>む</rt></ruby>かってイスラエルの<span\
+  \ style=\"color: blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>が<span style=\"color: blue;\"\
+  ><ruby>銃<rt>じゅう</rt></ruby></span>を<span style=\"color: blue;\"><ruby>撃<rt>う</rt></ruby>っ</span>たため５５<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、１３５９<ruby>人<rt>にん</rt></ruby>がけがをしました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 移す
+  descriptions:
+  - <ruby><rb>場所</rb><rt>ばしょ</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - ものごとを<ruby><rb>進</rb><rt>すす</rt></ruby>める。
+  - <ruby><rb>感染</rb><rt>かんせん</rt></ruby>させる。
+- word: 移す
+  descriptions:
+  - <ruby><rb>場所</rb><rt>ばしょ</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - ものごとを<ruby><rb>進</rb><rt>すす</rt></ruby>める。
+  - <ruby><rb>感染</rb><rt>かんせん</rt></ruby>させる。
+- word: 記念
+  descriptions:
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>しておくこと。また、その<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: ビデオ
+  descriptions:
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。
+  - 「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: メッセージ
+  descriptions:
+  - <ruby><rb>伝言</rb><rt>でんごん</rt></ruby>。
+  - <ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>のことば。<ruby><rb>声明文</rb><rt>せいめいぶん</rt></ruby>。
+- word: 首都
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。
+- word: デモ
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>認</rb><rt>みと</rt></ruby>めさせようとして、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>勢</rb><rt>いきお</rt></ruby>いを<ruby><rb>示</rb><rt>しめ</rt></ruby>すこと。また、そのための<ruby><rb>行進</rb><rt>こうしん</rt></ruby>。
+- word: 軍
+  descriptions:
+  - <ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。
+- word: 銃
+  descriptions:
+  - <ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>・ピストルなど、<ruby><rb>弾丸</rb><rt>だんがん</rt></ruby>をうつ<ruby><rb>武器</rb><rt>ぶき</rt></ruby>。
+- word: 撃つ
+  descriptions:
+  - （<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>などを）<ruby><rb>発射</rb><rt>はっしゃ</rt></ruby>する。
+source_url: http://www3.nhk.or.jp/news/easy/k10011438481000/k10011438481000.html
+web_title_with_ruby: <ruby>米<rt>べい</rt></ruby><ruby>大使館<rt>たいしかん</rt></ruby><ruby>エルサレム<rt>えるされむ</rt></ruby><ruby>移転<rt>いてん</rt></ruby>で<ruby>衝突<rt>しょうとつ</rt></ruby>
+  50<ruby>人以上<rt>にんいじょう</rt></ruby>が<ruby>死亡<rt>しぼう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/15/米大使館エルサレム移転で衝突-50人以上が死亡
+related_news:
+- title: ＴＰＰに<ruby>日本<rt>にっぽん</rt></ruby>など１１の<ruby>国<rt>くに</rt></ruby>がサインをする
+  url: https://newswebeasy.github.io/news/easy/2018/03/09/TPPに日本など11の国がサインをする
+- title: アメリカ　<ruby>友達<rt>ともだち</rt></ruby>が<ruby>撃<rt>う</rt></ruby>たれた<ruby>高校生<rt>こうこうせい</rt></ruby>たち「<ruby>子<rt>こ</rt></ruby>どもを<ruby>守<rt>まも</rt></ruby>れ」
+  url: https://newswebeasy.github.io/news/easy/2018/02/22/アメリカ-友達が撃たれた高校生たち子どもを守れ
+- title: アメリカのトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>「イランにまた<ruby>経済制裁<rt>けいざいせいさい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う」
+  url: https://newswebeasy.github.io/news/easy/2018/05/09/アメリカのトランプ大統領イランにまた経済制裁を行う
+- title: アメリカ「<ruby>私<rt>わたし</rt></ruby>には<ruby>夢<rt>ゆめ</rt></ruby>がある」<ruby>祖父<rt>そふ</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<ruby>言葉<rt>ことば</rt></ruby>で<ruby>銃<rt>じゅう</rt></ruby>に<ruby>反対<rt>はんたい</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2018/03/27/アメリカ私には夢がある祖父と同じ言葉で銃に反対する
+- title: アメリカと<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のトップが６<ruby>月<rt>がつ</rt></ruby>１２<ruby>日<rt>にち</rt></ruby>にシンガポールで<ruby>会<rt>あ</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/05/11/アメリカと北朝鮮のトップが6月12日にシンガポールで会う
+...

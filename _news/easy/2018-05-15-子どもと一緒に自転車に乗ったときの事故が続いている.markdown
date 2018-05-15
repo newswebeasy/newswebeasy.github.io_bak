@@ -1,0 +1,78 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011437151000
+last_modified_at: '2018-05-15T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 前や後ろに子どもが座る席が付いた自転車の事故が続いています。
+title: 子どもと一緒に自転車に乗ったときの事故が続いている
+title_with_ruby: <ruby>子<rt>こ</rt></ruby>どもと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>自転車<rt>じてんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ったときの<ruby>事故<rt>じこ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いている
+outline: 前や後ろに子どもが座る席が付いた自転車の事故が続いています。
+outline_with_ruby: <ruby>前<rt>まえ</rt></ruby>や<ruby>後<rt>うし</rt></ruby>ろに<ruby>子<rt>こ</rt></ruby>どもが<ruby>座<rt>すわ</rt></ruby>る<ruby>席<rt>せき</rt></ruby>が<ruby>付<rt>つ</rt></ruby>いた<ruby>自転車<rt>じてんしゃ</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/14/K10011437151_1805132041_1805140421_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/15/k10011437151000.mp4
+content_with_ruby: "<p><ruby>前<rt>まえ</rt></ruby>や<ruby>後<rt>うし</rt></ruby>ろに<ruby>子<rt>こ</rt></ruby>どもが<ruby>座<rt>すわ</rt></ruby>る<ruby>席<rt>せき</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>付<rt>つ</rt></ruby>い</span>た<ruby>自転車<rt>じてんしゃ</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いています。この<ruby>自転車<rt>じてんしゃ</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>で<ruby>病院<rt>びょういん</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>ばれた１４<ruby>歳<rt>さい</rt></ruby><ruby>以下<rt>いか</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもは、<ruby>東京都<rt>とうきょうと</rt></ruby>で<ruby>去年<rt>きょねん</rt></ruby>までの６<ruby>年<rt>ねん</rt></ruby>に１３４９<ruby>人<rt>にん</rt></ruby>いました。</p>\n\
+  <p><ruby>国<rt>くに</rt></ruby>の<span style=\"color: blue;\"><ruby>役所<rt>やくしょ</rt></ruby></span>の<ruby>消費者庁<rt>しょうひしゃちょう</rt></ruby>によると、<ruby>自転車<rt>じてんしゃ</rt></ruby>が<ruby>倒<rt>たお</rt></ruby>れたとき<ruby>子<rt>こ</rt></ruby>どもが<span\
+  \ style=\"color: blue;\">ヘルメット</span>をかぶっていなかったため<ruby>頭<rt>あたま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>骨<rt>ほね</rt></ruby></span>が<ruby>折<rt>お</rt></ruby>れたという<ruby>事故<rt>じこ</rt></ruby>がありました。<ruby>自転車<rt>じてんしゃ</rt></ruby>が<ruby>止<rt>と</rt></ruby>まっているときでも、<ruby>大人<rt>おとな</rt></ruby>が<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>取<rt>と</rt></ruby>ろうとして<ruby>自転車<rt>じてんしゃ</rt></ruby>と<ruby>子<rt>こ</rt></ruby>どもが<ruby>倒<rt>たお</rt></ruby>れて、<ruby>子<rt>こ</rt></ruby>どもがけがをしたことがありました。</p>\n\
+  <p>４<ruby>月<rt>がつ</rt></ruby>から７<ruby>月<rt>がつ</rt></ruby>は<ruby>自転車<rt>じてんしゃ</rt></ruby>に<ruby>子<rt>こ</rt></ruby>どもを<span\
+  \ style=\"color: blue;\"><ruby>乗<rt>の</rt></ruby>せ</span>て<span style=\"color: blue;\"\
+  ><ruby>保育所<rt>ほいくしょ</rt></ruby></span>に<ruby>行<rt>い</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めるため、<ruby>事故<rt>じこ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えます。<ruby>消費者庁<rt>しょうひしゃちょう</rt></ruby>は、<ruby>子<rt>こ</rt></ruby>どもを<ruby>自転車<rt>じてんしゃ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>乗<rt>の</rt></ruby>せる</span>ときは<ruby>必<rt>かなら</rt></ruby>ず<span\
+  \ style=\"color: blue;\">ヘルメット</span>をかぶらせて、<ruby>止<rt>と</rt></ruby>めた<ruby>自転車<rt>じてんしゃ</rt></ruby>に<ruby>子<rt>こ</rt></ruby>どもを<span\
+  \ style=\"color: blue;\"><ruby>乗<rt>の</rt></ruby>せ</span>たままほかの<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>かないように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 付く
+  descriptions:
+  - ものがくっつく。
+  - つきそう。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>わる。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まる。
+  - <ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。
+  - <ruby><rb>感</rb><rt>かん</rt></ruby>じる。
+  - ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。
+- word: 役所
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。
+- word: ヘルメット
+  descriptions:
+  - <ruby><rb>危険</rb><rt>きけん</rt></ruby>や<ruby><rb>暑</rb><rt>あつ</rt></ruby>さから<ruby><rb>頭</rb><rt>あたま</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るためにかぶる、かたいぼうし。プラスチックなどでできている。
+- word: 骨
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>支</rb><rt>ささ</rt></ruby>えているかたいもの。
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>のしんにする<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>竹</rb><rt>たけ</rt></ruby>や<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。
+  - ものごとの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。
+  - へこたれない<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。
+  - <ruby><rb>苦労</rb><rt>くろう</rt></ruby>なこと。
+- word: 乗せる
+  descriptions:
+  - <ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などに<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>む。
+  - <ruby><rb>調子</rb><rt>ちょうし</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。
+  - だます。
+- word: 保育所
+  descriptions:
+  - <ruby><rb>幼</rb><rt>おさな</rt></ruby>い<ruby><rb>子</rb><rt>こ</rt></ruby>どもを<ruby><rb>朝</rb><rt>あさ</rt></ruby>から<ruby><rb>夕方</rb><rt>ゆうがた</rt></ruby>まで<ruby><rb>預</rb><rt>あず</rt></ruby>かって、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。ほいくしょ。<ruby><rb>保育園</rb><rt>ほいくえん</rt></ruby>。
+- word: 乗せる
+  descriptions:
+  - <ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などに<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>む。
+  - <ruby><rb>調子</rb><rt>ちょうし</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。
+  - だます。
+source_url: http://www3.nhk.or.jp/news/easy/k10011437151000/k10011437151000.html
+web_title_with_ruby: <ruby>幼児用<rt>ようじよう</rt></ruby><ruby>座席<rt>ざせき</rt></ruby><ruby>付<rt>つ</rt></ruby>き<ruby>自転車<rt>じてんしゃ</rt></ruby>で<ruby>転倒<rt>てんとう</rt></ruby>
+  <ruby>子<rt>こ</rt></ruby>どもの<ruby>救急<rt>きゅうきゅう</rt></ruby><ruby>搬送<rt>はんそう</rt></ruby><ruby>相次<rt>あいつ</rt></ruby>ぐ
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/14/幼児用座席付き自転車で転倒-子どもの救急搬送相次ぐ
+related_news:
+- title: <ruby>東京都<rt>とうきょうと</rt></ruby>　<ruby>子<rt>こ</rt></ruby>どもの７０％がスマートフォンなどを<ruby>使<rt>つか</rt></ruby>っている
+  url: https://newswebeasy.github.io/news/easy/2018/05/08/東京都-子どもの70がスマートフォンなどを使っている
+- title: 「<ruby>子<rt>こ</rt></ruby>ども<ruby>食堂<rt>しょくどう</rt></ruby>」が２０００<ruby>以上<rt>いじょう</rt></ruby>になる　おととしの７<ruby>倍<rt>ばい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/05/子ども食堂が2000以上になる-おととしの7倍
+- title: <ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>む<ruby>子<rt>こ</rt></ruby>ども「<ruby>体<rt>からだ</rt></ruby>と<ruby>心<rt>こころ</rt></ruby>の<ruby>治療<rt>ちりょう</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>」
+  url: https://newswebeasy.github.io/news/easy/2018/03/05/体の調子が悪くて学校を休む子ども体と心の治療が大切
+- title: ＳＮＳで<ruby>犯罪<rt>はんざい</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>にあった<ruby>子<rt>こ</rt></ruby>ども　<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2018/04/27/SNSで犯罪の被害にあった子ども-今までで最も多い
+- title: おもちゃの「マグネットボール」を<ruby>間違<rt>まちが</rt></ruby>えて<ruby>飲<rt>の</rt></ruby>む<ruby>事故<rt>じこ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2018/04/20/おもちゃのマグネットボールを間違えて飲む事故が多い
+...
