@@ -1,0 +1,54 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011439471000
+last_modified_at: '2018-05-16T16:20:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: ５月になってから暑い日が多くなっています。
+title: 子どもの熱中症　運動会の練習中は特に気をつけて
+title_with_ruby: <ruby>子<rt>こ</rt></ruby>どもの<ruby>熱中症<rt>ねっちゅうしょう</rt></ruby>　<ruby>運動会<rt>うんどうかい</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>は<ruby>特<rt>とく</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけて
+outline: ５月になってから暑い日が多くなっています。
+outline_with_ruby: ５<ruby>月<rt>がつ</rt></ruby>になってから<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなっています。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/15/K10011439471_1805151816_1805151838_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/16/k10011439471000.mp4
+content_with_ruby: "<p>５<ruby>月<rt>がつ</rt></ruby>になってから<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなっています。１５<ruby>日<rt>にち</rt></ruby>は３０℃<ruby>以上<rt>いじょう</rt></ruby>になった<ruby>所<rt>ところ</rt></ruby>がたくさんありました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>総務省<rt>そうむしょう</rt></ruby></span>によると、<span\
+  \ style=\"color: blue;\"><ruby>熱中症<rt>ねっちゅうしょう</rt></ruby></span>になる<ruby>人<rt>ひと</rt></ruby>は５<ruby>月<rt>がつ</rt></ruby>ごろから<ruby>増<rt>ふ</rt></ruby>えます。まだ<ruby>体<rt>からだ</rt></ruby>が<ruby>暑<rt>あつ</rt></ruby>さに<ruby>慣<rt>な</rt></ruby>れていないためです。５<ruby>月<rt>がつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>熱中症<rt>ねっちゅうしょう</rt></ruby></span>で<ruby>病院<rt>びょういん</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>ばれた<ruby>人<rt>ひと</rt></ruby>は<ruby>毎年<rt>まいとし</rt></ruby>３０００<ruby>人<rt>にん</rt></ruby>ぐらいいます。</p>\n\
+  <p><ruby>特<rt>とく</rt></ruby>に、<ruby>学校<rt>がっこう</rt></ruby>の<ruby>運動会<rt>うんどうかい</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>熱中症<rt>ねっちゅうしょう</rt></ruby></span>になる<ruby>子<rt>こ</rt></ruby>どもが<ruby>多<rt>おお</rt></ruby>くなっています。<ruby>子<rt>こ</rt></ruby>どもは<ruby>背<rt>せ</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>くて<ruby>熱<rt>あつ</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>地面<rt>じめん</rt></ruby></span>から<ruby>近<rt>ちか</rt></ruby>いことなどが<ruby>理由<rt>りゆう</rt></ruby>です。このため、<ruby>外<rt>そと</rt></ruby>で<ruby>運動会<rt>うんどうかい</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>などをする<ruby>場合<rt>ばあい</rt></ruby>は、ときどき<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んだり、<ruby>涼<rt>すず</rt></ruby>しい<ruby>所<rt>ところ</rt></ruby>で<ruby>休<rt>やす</rt></ruby>んだりすることが<ruby>必要<rt>ひつよう</rt></ruby>です。</p>\n\
+  <p><ruby>下<rt>した</rt></ruby>の<span style=\"color: blue;\">ウェブサイト</span>には、<span\
+  \ style=\"color: blue;\"><ruby>熱中症<rt>ねっちゅうしょう</rt></ruby></span>にならないために<ruby>気<rt>き</rt></ruby>をつけることが、やさしい<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>書<rt>か</rt></ruby>いてあります。</p>\n\
+  <p>https://www3.nhk.or.jp/news/easy/article/disaster_heat.html</p>\n<p></p>\n<p></p>"
+words:
+- word: 熱中症
+  descriptions:
+  - <ruby><rb>夏</rb><rt>なつ</rt></ruby>の<ruby><rb>暑</rb><rt>あつ</rt></ruby>さなどで、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>が<ruby><rb>体内</rb><rt>たいない</rt></ruby>にたまって<ruby><rb>起</rb><rt>お</rt></ruby>こる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。ひどい<ruby><rb>頭痛</rb><rt>ずつう</rt></ruby>がしたり、<ruby><rb>気</rb><rt>き</rt></ruby>を<ruby><rb>失</rb><rt>うしな</rt></ruby>ったりする。
+- word: 総務省
+  descriptions:
+  - <ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>・<ruby><rb>市区町村</rb><rt>しくちょうそん</rt></ruby>などの<ruby><rb>地方自治体</rb><rt>ちほうじちたい</rt></ruby>や<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>の<ruby><rb>世話</rb><rt>せわ</rt></ruby>、<ruby><rb>郵便</rb><rt>ゆうびん</rt></ruby>・<ruby><rb>郵便貯金</rb><rt>ゆうびんちょきん</rt></ruby>・<ruby><rb>簡易保険</rb><rt>かんいほけん</rt></ruby>・<ruby><rb>電気通信</rb><rt>でんきつうしん</rt></ruby>などについての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 地面
+  descriptions:
+  - <ruby><rb>土地</rb><rt>とち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>土</rb><rt>つち</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>。<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>。<ruby><rb>地</rb><rt>じ</rt></ruby>べた。
+  - <ruby><rb>土地</rb><rt>とち</rt></ruby>。<ruby><rb>地所</rb><rt>じしょ</rt></ruby>。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+source_url: http://www3.nhk.or.jp/news/easy/k10011439471000/k10011439471000.html
+web_title_with_ruby: <ruby>子<rt>こ</rt></ruby>どもの<ruby>熱中症<rt>ねっちゅうしょう</rt></ruby>
+  <ruby>注意<rt>ちゅうい</rt></ruby>すべきは“<ruby>運動会<rt>うんどうかい</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>”
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/15/子どもの熱中症-注意すべきは運動会の練習
+related_news:
+- title: <ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>む<ruby>子<rt>こ</rt></ruby>ども「<ruby>体<rt>からだ</rt></ruby>と<ruby>心<rt>こころ</rt></ruby>の<ruby>治療<rt>ちりょう</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>」
+  url: https://newswebeasy.github.io/news/easy/2018/03/05/体の調子が悪くて学校を休む子ども体と心の治療が大切
+- title: 「<ruby>子<rt>こ</rt></ruby>ども<ruby>食堂<rt>しょくどう</rt></ruby>」が２０００<ruby>以上<rt>いじょう</rt></ruby>になる　おととしの７<ruby>倍<rt>ばい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/05/子ども食堂が2000以上になる-おととしの7倍
+- title: <ruby>東京都<rt>とうきょうと</rt></ruby>　<ruby>子<rt>こ</rt></ruby>どもの７０％がスマートフォンなどを<ruby>使<rt>つか</rt></ruby>っている
+  url: https://newswebeasy.github.io/news/easy/2018/05/08/東京都-子どもの70がスマートフォンなどを使っている
+- title: おもちゃの「マグネットボール」を<ruby>間違<rt>まちが</rt></ruby>えて<ruby>飲<rt>の</rt></ruby>む<ruby>事故<rt>じこ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2018/04/20/おもちゃのマグネットボールを間違えて飲む事故が多い
+- title: <ruby>子<rt>こ</rt></ruby>どもと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>自転車<rt>じてんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ったときの<ruby>事故<rt>じこ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いている
+  url: https://newswebeasy.github.io/news/easy/2018/05/15/子どもと一緒に自転車に乗ったときの事故が続いている
+...

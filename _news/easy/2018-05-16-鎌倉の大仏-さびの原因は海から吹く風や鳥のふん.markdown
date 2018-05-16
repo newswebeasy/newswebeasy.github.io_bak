@@ -1,0 +1,60 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011438511000
+last_modified_at: '2018-05-16T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 神奈川県鎌倉市の寺に、８００年ぐらい前につくられた大仏があります。
+title: 鎌倉の大仏　さびの原因は海から吹く風や鳥のふん
+title_with_ruby: <ruby>鎌倉<rt>かまくら</rt></ruby>の<ruby>大仏<rt>だいぶつ</rt></ruby>　さびの<ruby>原因<rt>げんいん</rt></ruby>は<ruby>海<rt>うみ</rt></ruby>から<ruby>吹<rt>ふ</rt></ruby>く<ruby>風<rt>かぜ</rt></ruby>や<ruby>鳥<rt>とり</rt></ruby>のふん
+outline: 神奈川県鎌倉市の寺に、８００年ぐらい前につくられた大仏があります。
+outline_with_ruby: <ruby>神奈川県<rt>かながわけん</rt></ruby><ruby>鎌倉市<rt>かまくらし</rt></ruby>の<ruby>寺<rt>てら</rt></ruby>に、８００<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>につくられた<ruby>大仏<rt>だいぶつ</rt></ruby>があります。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/15/K10011438511_1805150805_1805150808_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/16/k10011438511000.mp4
+content_with_ruby: "<p><ruby>神奈川県<rt>かながわけん</rt></ruby><ruby>鎌倉市<rt>かまくらし</rt></ruby>の<ruby>寺<rt>てら</rt></ruby>に、８００<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>につくられた<span\
+  \ style=\"color: blue;\"><ruby>大仏<rt>だいぶつ</rt></ruby></span>があります。この<span style=\"\
+  color: blue;\"><ruby>大仏<rt>だいぶつ</rt></ruby></span>に<span style=\"color: blue;\"\
+  >さび</span>ができたり<ruby>汚<rt>よご</rt></ruby>れたりしていたため、<ruby>寺<rt>てら</rt></ruby>はおととし<ruby>掃除<rt>そうじ</rt></ruby>をしました。</p>\n\
+  <p><ruby>専門家<rt>せんもんか</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べると、<ruby>近<rt>ちか</rt></ruby>くの<ruby>海<rt>うみ</rt></ruby>から<ruby>吹<rt>ふ</rt></ruby>く<ruby>風<rt>かぜ</rt></ruby>や<ruby>鳥<rt>とり</rt></ruby>の<span\
+  \ style=\"color: blue;\">ふん</span>などが<ruby>原因<rt>げんいん</rt></ruby>で、<span style=\"\
+  color: blue;\">さび</span>ができたことがわかりました。</p>\n<p><ruby>寺<rt>てら</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>大仏<rt>だいぶつ</rt></ruby></span>の<ruby>体<rt>からだ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ることができます。<ruby>体<rt>からだ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には<span\
+  \ style=\"color: blue;\">ガム</span>が１００<ruby>以上<rt>いじょう</rt></ruby><span style=\"\
+  color: blue;\">つい</span>ていたこともわかりました。</p>\n<p><ruby>寺<rt>てら</rt></ruby>は、<span style=\"\
+  color: blue;\">さび</span>などができないようにする<span style=\"color: blue;\"><ruby>方法<rt>ほうほう</rt></ruby></span>を<ruby>考<rt>かんが</rt></ruby>えたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大仏
+  descriptions:
+  - <ruby><rb>仏</rb><rt>ほとけ</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>像</rb><rt>ぞう</rt></ruby>。
+- word: さび
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>が、<ruby><rb>空気中</rb><rt>くうきちゅう</rt></ruby>の<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>や<ruby><rb>水</rb><rt>みず</rt></ruby>にふれて、<ruby><rb>変化</rb><rt>へんか</rt></ruby>してできたもの。
+- word: 糞
+  descriptions:
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>消化</rb><rt>しょうか</rt></ruby>したあと、<ruby><rb>体外</rb><rt>たいがい</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>されるもの。<ruby><rb>大便</rb><rt>だいべん</rt></ruby>。
+- word: チューインガム
+  descriptions:
+  - かんで<ruby><rb>味</rb><rt>あじ</rt></ruby>わう<ruby><rb>菓子</rb><rt>かし</rt></ruby>。ガム。
+- word: 付く
+  descriptions:
+  - ものがくっつく。
+  - つきそう。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>わる。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まる。
+  - <ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。
+  - <ruby><rb>感</rb><rt>かん</rt></ruby>じる。
+  - ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。
+- word: 方法
+  descriptions:
+  - ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。
+source_url: http://www3.nhk.or.jp/news/easy/k10011438511000/k10011438511000.html
+web_title_with_ruby: <ruby>鎌倉<rt>かまくら</rt></ruby><ruby>大仏<rt>だいぶつ</rt></ruby>のさび <ruby>潮風<rt>しおかぜ</rt></ruby>やはとの<ruby>フン<rt>ふん</rt></ruby>などが<ruby>原因<rt>げんいん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/15/鎌倉大仏のさび-潮風やはとのフンなどが原因
+related_news:
+- title: <ruby>春<rt>はる</rt></ruby>に<ruby>体<rt>からだ</rt></ruby>や<ruby>心<rt>こころ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>がよくないと<ruby>感<rt>かん</rt></ruby>じる<ruby>人<rt>ひと</rt></ruby>が６０％いた
+  url: https://newswebeasy.github.io/news/easy/2018/04/04/春に体や心の調子がよくないと感じる人が60いた
+- title: フィリピンの<ruby>島<rt>しま</rt></ruby>　<ruby>海<rt>うみ</rt></ruby>をきれいにするため<ruby>半年<rt>はんとし</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>できない
+  url: https://newswebeasy.github.io/news/easy/2018/04/06/フィリピンの島-海をきれいにするため半年旅行できない
+...

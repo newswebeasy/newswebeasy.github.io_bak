@@ -1,0 +1,65 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011439391000
+last_modified_at: '2018-05-16T16:20:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>16<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: 放送や新聞、雑誌などの仕事をしている女性の記者が、セクハラをなくして安心して働くためにグループを作りました。
+title: 「セクハラをなくしたい」女性の記者がグループを作る
+title_with_ruby: 「セクハラをなくしたい」<ruby>女性<rt>じょせい</rt></ruby>の<ruby>記者<rt>きしゃ</rt></ruby>がグループを<ruby>作<rt>つく</rt></ruby>る
+outline: 放送や新聞、雑誌などの仕事をしている女性の記者が、セクハラをなくして安心して働くためにグループを作りました。
+outline_with_ruby: <ruby>放送<rt>ほうそう</rt></ruby>や<ruby>新聞<rt>しんぶん</rt></ruby>、<ruby>雑誌<rt>ざっし</rt></ruby>などの<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>女性<rt>じょせい</rt></ruby>の<ruby>記者<rt>きしゃ</rt></ruby>が、セクハラをなくして<ruby>安心<rt>あんしん</rt></ruby>して<ruby>働<rt>はたら</rt></ruby>くためにグループを<ruby>作<rt>つく</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/15/K10011439391_1805151824_1805151830_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/16/k10011439391000.mp4
+content_with_ruby: "<p><ruby>放送<rt>ほうそう</rt></ruby>や<ruby>新聞<rt>しんぶん</rt></ruby>、<ruby>雑誌<rt>ざっし</rt></ruby>などの<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>女性<rt>じょせい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>記者<rt>きしゃ</rt></ruby></span>が、<span style=\"color:\
+  \ blue;\">セクハラ</span>をなくして<ruby>安心<rt>あんしん</rt></ruby>して<ruby>働<rt>はたら</rt></ruby>くために<span\
+  \ style=\"color: blue;\">グループ</span>を<ruby>作<rt>つく</rt></ruby>りました。８６<ruby>人<rt>にん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>参加<rt>さんか</rt></ruby></span>しています。</p>\n<p><ruby>財務省<rt>ざいむしょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>職員<rt>しょくいん</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">トップ</span>が<ruby>先月<rt>せんげつ</rt></ruby>、<ruby>女性<rt>じょせい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>記者<rt>きしゃ</rt></ruby></span>に<span style=\"color:\
+  \ blue;\">セクハラ</span>になることを<ruby>言<rt>い</rt></ruby>って<ruby>問題<rt>もんだい</rt></ruby>になりました。<span\
+  \ style=\"color: blue;\">グループ</span>の<ruby>中<rt>なか</rt></ruby>にも「<span style=\"\
+  color: blue;\"><ruby>取材<rt>しゅざい</rt></ruby></span>をしている<ruby>人<rt>ひと</rt></ruby>から<span\
+  \ style=\"color: blue;\">キス</span>をされてとても<ruby>嫌<rt>いや</rt></ruby>でしたが、<ruby>誰<rt>だれ</rt></ruby>にも<ruby>相談<rt>そうだん</rt></ruby>できませんでした」と<ruby>話<rt>はな</rt></ruby>す<ruby>人<rt>ひと</rt></ruby>がいました。「<span\
+  \ style=\"color: blue;\">セクハラ</span>はよくあることだと<ruby>言<rt>い</rt></ruby>っていたら、<ruby>社会<rt>しゃかい</rt></ruby>は<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>変<rt>か</rt></ruby>わりません」という<ruby>意見<rt>いけん</rt></ruby>もありました。</p>\n\
+  <p><span style=\"color: blue;\">グループ</span>は、<span style=\"color: blue;\">セクハラ</span>をされた<ruby>人<rt>ひと</rt></ruby>の<ruby>相談<rt>そうだん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いたりして、<ruby>女性<rt>じょせい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>記者<rt>きしゃ</rt></ruby></span>が<ruby>働<rt>はたら</rt></ruby>きやすい<ruby>社会<rt>しゃかい</rt></ruby>にしていきたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: セクシャルハラスメント
+  descriptions:
+  - <ruby><rb>性</rb><rt>せい</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>して<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>不快</rb><rt>ふかい</rt></ruby>にしたり<ruby><rb>不安</rb><rt>ふあん</rt></ruby>にしたりする、いやがらせ。セクハラ。
+- word: 記者
+  descriptions:
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 参加
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。
+- word: 職員
+  descriptions:
+  - <ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: トップ
+  descriptions:
+  - <ruby><rb>先頭</rb><rt>せんとう</rt></ruby>。<ruby><rb>真</rb><rt>ま</rt></ruby>っ<ruby><rb>先</rb><rt>さき</rt></ruby>。<ruby><rb>一番</rb><rt>いちばん</rt></ruby>。
+- word: 取材
+  descriptions:
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>・<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>・テレビなどの<ruby><rb>報道記事</rb><rt>ほうどうきじ</rt></ruby>や<ruby><rb>作品</rb><rt>さくひん</rt></ruby>・<ruby><rb>作文</rb><rt>さくぶん</rt></ruby>などの<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めること。
+- word: 口づけ
+  descriptions:
+  - せっぷん。キス。
+source_url: http://www3.nhk.or.jp/news/easy/k10011439391000/k10011439391000.html
+web_title_with_ruby: <ruby>女性<rt>じょせい</rt></ruby><ruby>記者<rt>きしゃ</rt></ruby>が<ruby>ネットワーク<rt>ねっとわーく</rt></ruby><ruby>設立<rt>せつりつ</rt></ruby>
+  <ruby>安<rt>やす</rt></ruby><ruby>心<rt>こころ</rt></ruby>して<ruby>働<rt>はたら</rt></ruby>ける<ruby>環境<rt>かんきょう</rt></ruby><ruby>作<rt>づく</rt></ruby>りへ
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/15/女性記者がネットワーク設立-安心して働ける環境作りへ
+related_news:
+- title: <ruby>雑誌<rt>ざっし</rt></ruby>にセクハラしたと<ruby>書<rt>か</rt></ruby>かれた<ruby>財務省<rt>ざいむしょう</rt></ruby>の<ruby>事務<rt>じむ</rt></ruby><ruby>次官<rt>じかん</rt></ruby>がやめる
+  url: https://newswebeasy.github.io/news/easy/2018/04/19/雑誌にセクハラしたと書かれた財務省の事務次官がやめる
+- title: <ruby>韓国<rt>かんこく</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のトップの<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>いに<ruby>世界中<rt>せかいじゅう</rt></ruby>から<ruby>記者<rt>きしゃ</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/04/26/韓国と北朝鮮のトップの話し合いに世界中から記者が集まる
+...
