@@ -1,0 +1,76 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011440601000
+last_modified_at: '2018-05-17T17:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>17<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: 奈良市の大学生は今月１３日、たくさんの鹿が町の中を走っているところを撮ったビデオをインターネットに出しました。
+title: 奈良市で鹿が町を走るビデオがインターネットに出る
+title_with_ruby: <ruby>奈良市<rt>ならし</rt></ruby>で<ruby>鹿<rt>しか</rt></ruby>が<ruby>町<rt>まち</rt></ruby>を<ruby>走<rt>はし</rt></ruby>るビデオがインターネットに<ruby>出<rt>で</rt></ruby>る
+outline: 奈良市の大学生は今月１３日、たくさんの鹿が町の中を走っているところを撮ったビデオをインターネットに出しました。
+outline_with_ruby: <ruby>奈良市<rt>ならし</rt></ruby>の<ruby>大学生<rt>だいがくせい</rt></ruby>は<ruby>今月<rt>こんげつ</rt></ruby>１３<ruby>日<rt>にち</rt></ruby>、たくさんの<ruby>鹿<rt>しか</rt></ruby>が<ruby>町<rt>まち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>走<rt>はし</rt></ruby>っているところを<ruby>撮<rt>と</rt></ruby>ったビデオをインターネットに<ruby>出<rt>だ</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/16/K10011440601_1805161701_1805161706_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/17/k10011440601000.mp4
+content_with_ruby: "<p><ruby>奈良市<rt>ならし</rt></ruby>の<ruby>大学生<rt>だいがくせい</rt></ruby>は<ruby>今月<rt>こんげつ</rt></ruby>１３<ruby>日<rt>にち</rt></ruby>、たくさんの<span\
+  \ style=\"color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>が<ruby>町<rt>まち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>走<rt>はし</rt></ruby>っているところを<ruby>撮<rt>と</rt></ruby>った<span\
+  \ style=\"color: blue;\">ビデオ</span>をインターネットに<ruby>出<rt>だ</rt></ruby>しました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>が<ruby>走<rt>はし</rt></ruby>っていた<ruby>場所<rt>ばしょ</rt></ruby>は<ruby>奈良公園<rt>ならこうえん</rt></ruby>から３００ｍぐらい<span\
+  \ style=\"color: blue;\"><ruby>離<rt>はな</rt></ruby>れ</span>ていて、<ruby>家<rt>いえ</rt></ruby>が<ruby>並<rt>なら</rt></ruby>ぶ<ruby>細<rt>ほそ</rt></ruby>い<ruby>道<rt>みち</rt></ruby>です。<ruby>大学生<rt>だいがくせい</rt></ruby>は、５０<span\
+  \ style=\"color: blue;\"><ruby>頭<rt>とう</rt></ruby></span>ぐらいの<span style=\"color:\
+  \ blue;\"><ruby>鹿<rt>しか</rt></ruby></span>がいたと<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>を<span style=\"\
+  color: blue;\"><ruby>守<rt>まも</rt></ruby>る</span><span style=\"color: blue;\"><ruby>活動<rt>かつどう</rt></ruby></span>をしている<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は「<span\
+  \ style=\"color: blue;\">ビデオ</span>に<span style=\"color: blue;\"><ruby>映<rt>うつ</rt></ruby>っ</span>ているのは、<ruby>奈良公園<rt>ならこうえん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>だと<ruby>思<rt>おも</rt></ruby>います。<span\
+  \ style=\"color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>は<ruby>時々<rt>ときどき</rt></ruby><ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>をさがすために<ruby>公園<rt>こうえん</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>ますが、こんなにたくさんの<span\
+  \ style=\"color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>が<ruby>町<rt>まち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかるのは<ruby>珍<rt>めずら</rt></ruby>しいです」と<ruby>言<rt>い</rt></ruby>っています。そして、「<span\
+  \ style=\"color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>は<ruby>何<rt>なに</rt></ruby>かに<ruby>驚<rt>おどろ</rt></ruby>いて<ruby>走<rt>はし</rt></ruby>っていたのかもしれません。<span\
+  \ style=\"color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>はすぐに<ruby>驚<rt>おどろ</rt></ruby>く<ruby>動物<rt>どうぶつ</rt></ruby>なので、<ruby>静<rt>しず</rt></ruby>かに<ruby>見<rt>み</rt></ruby>ていてください」と<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 鹿
+  descriptions:
+  - <ruby><rb>森林</rb><rt>しんりん</rt></ruby>や<ruby><rb>山野</rb><rt>さんや</rt></ruby>にすむ、<ruby><rb>草食</rb><rt>そうしょく</rt></ruby>のおとなしいけもの。<ruby><rb>足</rb><rt>あし</rt></ruby>は<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>く、<ruby><rb>雄</rb><rt>おす</rt></ruby>は<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>枝</rb><rt>えだ</rt></ruby>のような<ruby><rb>角</rb><rt>つの</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ。<ruby><rb>世界各地</rb><rt>せかいかくち</rt></ruby>にいる。
+- word: ビデオ
+  descriptions:
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。
+  - 「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 離れる
+  descriptions:
+  - くっついていたものが<ruby><rb>分</rb><rt>わ</rt></ruby>かれる。
+  - <ruby><rb>距離</rb><rt>きょり</rt></ruby>がある。
+  - <ruby><rb>間</rb><rt>あいだ</rt></ruby>があく。
+  - やめる。
+- word: 頭
+  descriptions:
+  - あたま。
+  - <ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つ<ruby><rb>者</rb><rt>もの</rt></ruby>。
+  - はじめ。
+  - <ruby><rb>辺</rb><rt>あた</rt></ruby>り。<ruby><rb>付近</rb><rt>ふきん</rt></ruby>。
+  - けものを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 活動
+  descriptions:
+  - <ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 映る
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やかげなどが、ほかの<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>に<ruby><rb>現</rb><rt>あらわ</rt></ruby>れる。
+  - <ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>合</rb><rt>あ</rt></ruby>わせがよい。
+source_url: http://www3.nhk.or.jp/news/easy/k10011440601000/k10011440601000.html
+web_title_with_ruby: <ruby>奈良<rt>なら</rt></ruby> <ruby>シカ<rt>しか</rt></ruby>の<ruby>群<rt>む</rt></ruby>れが<ruby>住宅地<rt>じゅうたくち</rt></ruby><ruby>疾走<rt>しっそう</rt></ruby>
+  ＳＮＳ<ruby>動画<rt>どうが</rt></ruby>が<ruby>話題<rt>わだい</rt></ruby>に
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/16/奈良-シカの群れが住宅地疾走-SNS動画が話題に
+related_news:
+- title: <ruby>奈良公園<rt>ならこうえん</rt></ruby>　<ruby>鹿<rt>しか</rt></ruby>のお<ruby>菓子<rt>かし</rt></ruby>のあげ<ruby>方<rt>かた</rt></ruby>を<ruby>英語<rt>えいご</rt></ruby>と<ruby>中国語<rt>ちゅうごくご</rt></ruby>で<ruby>看板<rt>かんばん</rt></ruby>に<ruby>書<rt>か</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/04/04/奈良公園-鹿のお菓子のあげ方を英語と中国語で看板に書く
+...

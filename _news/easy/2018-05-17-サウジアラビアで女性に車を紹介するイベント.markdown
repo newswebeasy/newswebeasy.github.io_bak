@@ -1,0 +1,52 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011439931000
+last_modified_at: '2018-05-17T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>17<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: サウジアラビアでは、女性が車を運転してはいけないことになっていました。
+title: サウジアラビアで女性に車を紹介するイベント
+title_with_ruby: サウジアラビアで<ruby>女性<rt>じょせい</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント
+outline: サウジアラビアでは、女性が車を運転してはいけないことになっていました。
+outline_with_ruby: サウジアラビアでは、<ruby>女性<rt>じょせい</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>してはいけないことになっていました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/16/K10011439931_1805160446_1805160447_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/17/k10011439931000.mp4
+content_with_ruby: "<p>サウジアラビアでは、<ruby>女性<rt>じょせい</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>してはいけないことになっていました。しかし、<ruby>女性<rt>じょせい</rt></ruby>がもっと<ruby>社会<rt>しゃかい</rt></ruby>に<ruby>出<rt>で</rt></ruby>て<ruby>仕事<rt>しごと</rt></ruby>ができるように、<ruby>今年<rt>ことし</rt></ruby>の６<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろから<ruby>女性<rt>じょせい</rt></ruby>も<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>できるようにしました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>のリヤドで１５<ruby>日<rt>にち</rt></ruby>、<ruby>女性<rt>じょせい</rt></ruby>にいろいろな<ruby>車<rt>くるま</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する<span\
+  \ style=\"color: blue;\">イベント</span>がありました。<ruby>会場<rt>かいじょう</rt></ruby>にはアメリカや<ruby>韓国<rt>かんこく</rt></ruby>などの<ruby>車<rt>くるま</rt></ruby>が<ruby>並<rt>なら</rt></ruby>びました。<ruby>車<rt>くるま</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ることができる<ruby>所<rt>ところ</rt></ruby>もあって、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まっていました。そして、<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>して<span\
+  \ style=\"color: blue;\">ハンドル</span>が<span style=\"color: blue;\"><ruby>動<rt>うご</rt></ruby>かし</span>やすいかどうかなどをチェックしていました。</p>\n\
+  <p><ruby>会場<rt>かいじょう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>女性<rt>じょせい</rt></ruby>は「<ruby>車<rt>くるま</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>に<ruby>行<rt>い</rt></ruby>きたいです」と<ruby>話<rt>はな</rt></ruby>していました。「<ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby>にとめやすいので、<ruby>小<rt>ちい</rt></ruby>さい<ruby>車<rt>くるま</rt></ruby>を<ruby>買<rt>か</rt></ruby>うつもりです」と<ruby>言<rt>い</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>もいました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 首都
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。
+- word: ハンドル
+  descriptions:
+  - <ruby><rb>取</rb><rt>と</rt></ruby>っ<ruby><rb>手</rb><rt>て</rt></ruby>。にぎり。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>でにぎって、<ruby><rb>機械</rb><rt>きかい</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かすもの。
+- word: 動かす
+  descriptions:
+  - <ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。
+  - <ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - <ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011439931000/k10011439931000.html
+web_title_with_ruby: <ruby>サウジアラビア<rt>さうじあらびあ</rt></ruby>で<ruby>女性向<rt>じょせいむ</rt></ruby>けの<ruby>自動車<rt>じどうしゃ</rt></ruby><ruby>ショー<rt>しょー</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/16/サウジアラビアで女性向けの自動車ショー
+related_news:
+- title: アメリカ　<ruby>自動<rt>じどう</rt></ruby>で<ruby>運転<rt>うんてん</rt></ruby>する<ruby>車<rt>くるま</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>で<ruby>１人<rt>ひとり</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/03/20/アメリカ-自動で運転する車の事故で1人が亡くなる
+- title: 「ポケモンＧＯ」をしながら<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>して<ruby>事故<rt>じこ</rt></ruby>　<ruby>１人<rt>ひとり</rt></ruby><ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/04/16/ポケモンGOをしながら車を運転して事故-1人亡くなる
+- title: <ruby>花粉症<rt>かふんしょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>運転<rt>うんてん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>のくしゃみに<ruby>気<rt>き</rt></ruby>をつけて
+  url: https://newswebeasy.github.io/news/easy/2018/03/05/花粉症の人は運転中のくしゃみに気をつけて
+- title: アメリカ　<ruby>大<rt>おお</rt></ruby>きな<ruby>歩道橋<rt>ほどうきょう</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちて４<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/03/16/アメリカ-大きな歩道橋が車に落ちて4人が亡くなる
+- title: ニッポンレンタカー　<ruby>客<rt>きゃく</rt></ruby>に<ruby>貸<rt>か</rt></ruby>す<ruby>車<rt>くるま</rt></ruby>を１１<ruby>月<rt>がつ</rt></ruby>から<ruby>禁煙<rt>きんえん</rt></ruby>にする
+  url: https://newswebeasy.github.io/news/easy/2018/04/09/ニッポンレンタカー-客に貸す車を11月から禁煙にする
+...

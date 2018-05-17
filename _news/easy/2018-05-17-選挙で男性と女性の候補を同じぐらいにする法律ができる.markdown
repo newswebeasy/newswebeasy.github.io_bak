@@ -1,0 +1,91 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011440341000
+last_modified_at: '2018-05-17T17:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>17<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: １６日、選挙に出る男性と女性の候補をできるだけ同じ数にするという法律ができました。
+title: 選挙で男性と女性の候補を同じぐらいにする法律ができる
+title_with_ruby: <ruby>選挙<rt>せんきょ</rt></ruby>で<ruby>男性<rt>だんせい</rt></ruby>と<ruby>女性<rt>じょせい</rt></ruby>の<ruby>候補<rt>こうほ</rt></ruby>を<ruby>同<rt>おな</rt></ruby>じぐらいにする<ruby>法律<rt>ほうりつ</rt></ruby>ができる
+outline: １６日、選挙に出る男性と女性の候補をできるだけ同じ数にするという法律ができました。
+outline_with_ruby: １６<ruby>日<rt>にち</rt></ruby>、<ruby>選挙<rt>せんきょ</rt></ruby>に<ruby>出<rt>で</rt></ruby>る<ruby>男性<rt>だんせい</rt></ruby>と<ruby>女性<rt>じょせい</rt></ruby>の<ruby>候補<rt>こうほ</rt></ruby>をできるだけ<ruby>同<rt>おな</rt></ruby>じ<ruby>数<rt>かず</rt></ruby>にするという<ruby>法律<rt>ほうりつ</rt></ruby>ができました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/16/K10011440341_1805161507_1805161508_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/17/k10011440341000.mp4
+content_with_ruby: "<p>１６<ruby>日<rt>にち</rt></ruby>、<span style=\"color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>に<ruby>出<rt>で</rt></ruby>る<ruby>男性<rt>だんせい</rt></ruby>と<ruby>女性<rt>じょせい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>候補<rt>こうほ</rt></ruby></span>をできるだけ<ruby>同<rt>おな</rt></ruby>じ<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>にするという<ruby>法律<rt>ほうりつ</rt></ruby>ができました。これから<span\
+  \ style=\"color: blue;\"><ruby>政党<rt>せいとう</rt></ruby></span>や<ruby>政治<rt>せいじ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>は、<ruby>男性<rt>だんせい</rt></ruby>と<ruby>女性<rt>じょせい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>候補<rt>こうほ</rt></ruby></span>を<ruby>同<rt>おな</rt></ruby>じぐらい<ruby>出<rt>だ</rt></ruby>すように<span\
+  \ style=\"color: blue;\"><ruby>努力<rt>どりょく</rt></ruby></span>しなければなりません。</p>\n<p><ruby>来年<rt>らいねん</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>参議院<rt>さんぎいん</rt></ruby></span>などの<span style=\"\
+  color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>があります。<span style=\"color: blue;\"\
+  >それぞれ</span>の<span style=\"color: blue;\"><ruby>政党<rt>せいとう</rt></ruby></span>がどのくらい<ruby>女性<rt>じょせい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>候補<rt>こうほ</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>すか<span\
+  \ style=\"color: blue;\"><ruby>注目<rt>ちゅうもく</rt></ruby></span>されます。</p>\n<p><ruby>女性<rt>じょせい</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>活躍<rt>かつやく</rt></ruby></span>するための<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>野田<rt>のだ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>大臣<rt>だいじん</rt></ruby></span>は「<ruby>法律<rt>ほうりつ</rt></ruby>ができて、とてもうれしいです。これから<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>政治<rt>せいじ</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きく<ruby>変<rt>か</rt></ruby>わると<ruby>思<rt>おも</rt></ruby>います。<span\
+  \ style=\"color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>に<ruby>出<rt>で</rt></ruby>るかどうか<span\
+  \ style=\"color: blue;\"><ruby>悩<rt>なや</rt></ruby>ん</span>でいた<ruby>女性<rt>じょせい</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>勇気<rt>ゆうき</rt></ruby></span>を<ruby>持<rt>も</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>選挙<rt>せんきょ</rt></ruby></span>に<ruby>出<rt>で</rt></ruby>てほしいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 選挙
+  descriptions:
+  - ある<ruby><rb>役目</rb><rt>やくめ</rt></ruby>につく<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>選</rb><rt>えら</rt></ruby>ぶこと。
+- word: 候補
+  descriptions:
+  - ある<ruby><rb>地位</rb><rt>ちい</rt></ruby>や、<ruby><rb>役目</rb><rt>やくめ</rt></ruby>につく<ruby><rb>資格</rb><rt>しかく</rt></ruby>のあること。また、<ruby><rb>選</rb><rt>えら</rt></ruby>ばれる<ruby><rb>可能性</rb><rt>かのうせい</rt></ruby>がある<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 数
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。
+  - いくつもあること。たくさん。
+  - <ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。
+- word: 政党
+  descriptions:
+  - <ruby><rb>政治</rb><rt>せいじ</rt></ruby>について、<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>人</rb><rt>ひと</rt></ruby>たちが<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 努力
+  descriptions:
+  - <ruby><rb>一生懸命</rb><rt>いっしょうけんめい</rt></ruby>にすること。
+- word: 参議院
+  descriptions:
+  - <ruby><rb>国会</rb><rt>こっかい</rt></ruby>の<ruby><rb>議院</rb><rt>ぎいん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>衆議院</rb><rt>しゅうぎいん</rt></ruby>で<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>予算</rb><rt>よさん</rt></ruby>や<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>などを、もう<ruby><rb>一度</rb><rt>いちど</rt></ruby><ruby><rb>検討</rb><rt>けんとう</rt></ruby>するところ。<ruby><rb>解散</rb><rt>かいさん</rt></ruby>はない。
+- word: それぞれ
+  descriptions:
+  - めいめい。おのおの。
+- word: 注目
+  descriptions:
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>してよく<ruby><rb>見</rb><rt>み</rt></ruby>ること。
+- word: 活躍
+  descriptions:
+  - めざましく<ruby><rb>働</rb><rt>はたら</rt></ruby>くこと。
+- word: 大臣
+  descriptions:
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>をつくり、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>で、もっとも<ruby><rb>責任</rb><rt>せきにん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>総理大臣</rb><rt>そうりだいじん</rt></ruby>と<ruby><rb>国務大臣</rb><rt>こくむだいじん</rt></ruby>とがある。
+- word: 悩む
+  descriptions:
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>って<ruby><rb>苦</rb><rt>くる</rt></ruby>しむ。<ruby><rb>心配</rb><rt>しんぱい</rt></ruby>する。
+  - <ruby><rb>痛</rb><rt>いた</rt></ruby>みなどで<ruby><rb>苦</rb><rt>くる</rt></ruby>しむ。
+- word: 勇気
+  descriptions:
+  - <ruby><rb>何事</rb><rt>なにごと</rt></ruby>もおそれない<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>心</rb><rt>こころ</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011440341000/k10011440341000.html
+web_title_with_ruby: 「<ruby>男女<rt>だんじょ</rt></ruby><ruby>候補者<rt>こうほしゃ</rt></ruby><ruby>均等法<rt>きんとうほう</rt></ruby>」<ruby>成立<rt>せいりつ</rt></ruby>
+  <ruby>選挙<rt>せんきょ</rt></ruby>で<ruby>政党<rt>せいとう</rt></ruby>など<ruby>自主的<rt>じしゅてき</rt></ruby><ruby>取<rt>と</rt></ruby>り<ruby>組<rt>く</rt></ruby>み
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/16/男女候補者均等法成立-選挙で政党など自主的取り組み
+related_news:
+- title: 「１８<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<ruby>大人<rt>おとな</rt></ruby>にする」<ruby>新<rt>あたら</rt></ruby>しい<ruby>法律<rt>ほうりつ</rt></ruby>の<ruby>案<rt>あん</rt></ruby>を<ruby>決<rt>き</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2018/03/14/18歳以上を大人にする新しい法律の案を決める
+- title: <ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>福島町<rt>ふくしまちょう</rt></ruby>が<ruby>今年<rt>ことし</rt></ruby>も<ruby>女性<rt>じょせい</rt></ruby>の<ruby>相撲<rt>すもう</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/05/14/北海道福島町が今年も女性の相撲大会を開く
+- title: ロシア　<ruby>次<rt>つぎ</rt></ruby>の<ruby>大統領<rt>だいとうりょう</rt></ruby>はプーチンさんに<ruby>決<rt>き</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/03/19/ロシア-次の大統領はプーチンさんに決まる
+- title: <ruby>世界<rt>せかい</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>の<ruby>外務大臣<rt>がいむだいじん</rt></ruby>だけが<ruby>集<rt>あつ</rt></ruby>まる<ruby>会議<rt>かいぎ</rt></ruby>を９<ruby>月<rt>がつ</rt></ruby>にカナダで<ruby>開<rt>ひら</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/04/24/世界の女性の外務大臣だけが集まる会議を9月にカナダで開く
+...

@@ -1,0 +1,68 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011439111000
+last_modified_at: '2018-05-17T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>17<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 日本のウイスキーの人気が高くなっています。
+title: 日本のウイスキー　人気が高くなって足りなくなる
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>のウイスキー　<ruby>人気<rt>にんき</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなって<ruby>足<rt>た</rt></ruby>りなくなる
+outline: 日本のウイスキーの人気が高くなっています。
+outline_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>のウイスキーの<ruby>人気<rt>にんき</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなっています。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/15/K10011439111_1805151446_1805151449_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/17/k10011439111000.mp4
+content_with_ruby: "<p><ruby>日本<rt>にっぽん</rt></ruby>の<span style=\"color: blue;\">ウイスキー</span>の<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>くなっています。<ruby>世界<rt>せかい</rt></ruby>の<ruby>有名<rt>ゆうめい</rt></ruby>な<span\
+  \ style=\"color: blue;\"><ruby>賞<rt>しょう</rt></ruby></span>を<ruby>取<rt>と</rt></ruby>ったり、<ruby>会社<rt>かいしゃ</rt></ruby>が<span\
+  \ style=\"color: blue;\">ソーダ</span>を<ruby>入<rt>い</rt></ruby>れた<span style=\"color:\
+  \ blue;\">ウイスキー</span>を<ruby>熱心<rt>ねっしん</rt></ruby>に<span style=\"color: blue;\"\
+  ><ruby>売<rt>う</rt></ruby>り<ruby>出<rt>だ</rt></ruby>し</span>たりしたためです。<ruby>日本<rt>にっぽん</rt></ruby>でつくった<span\
+  \ style=\"color: blue;\">ウイスキー</span>の<span style=\"color: blue;\"><ruby>量<rt>りょう</rt></ruby></span>は１０<ruby>年<rt>ねん</rt></ruby>で２<ruby>倍<rt>ばい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりました。</p>\n\
+  <p><span style=\"color: blue;\">ウイスキー</span>の<ruby>会社<rt>かいしゃ</rt></ruby>のサントリーは、２つの<span\
+  \ style=\"color: blue;\">ウイスキー</span>が６<ruby>月<rt>がつ</rt></ruby>から９<ruby>月<rt>がつ</rt></ruby>ごろ<ruby>足<rt>た</rt></ruby>りなくなって<ruby>売<rt>う</rt></ruby>ることができなくなると<ruby>言<rt>い</rt></ruby>いました。つくるのに１２<ruby>年<rt>ねん</rt></ruby>かかる「<ruby>白州<rt>はくしゅう</rt></ruby>１２<ruby>年<rt>ねん</rt></ruby>」と１７<ruby>年<rt>ねん</rt></ruby>かかる「<ruby>響<rt>ひびき</rt></ruby>１７<ruby>年<rt>ねん</rt></ruby>」という<span\
+  \ style=\"color: blue;\">ウイスキー</span>です。サントリーは、１０<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>はつくる<span\
+  \ style=\"color: blue;\">ウイスキー</span>が<ruby>少<rt>すく</rt></ruby>なかったためだと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ウイスキー
+  descriptions:
+  - <ruby><rb>大麦</rb><rt>おおむぎ</rt></ruby>などを<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>として<ruby><rb>作</rb><rt>つく</rt></ruby>った、<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>酒</rb><rt>さけ</rt></ruby>。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: 賞
+  descriptions:
+  - ほめる。たたえる。
+  - ほうび。
+  - <ruby><rb>味</rb><rt>あじ</rt></ruby>わって<ruby><rb>楽</rb><rt>たの</rt></ruby>しむ。
+- word: ソーダ
+  descriptions:
+  - <ruby><rb>炭酸</rb><rt>たんさん</rt></ruby>ナトリウムのこと。ガラスやせっけんの<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+  - ソーダ<ruby><rb>水</rb><rt>すい</rt></ruby>のこと。<ruby><rb>炭酸</rb><rt>たんさん</rt></ruby>ガスを<ruby><rb>水</rb><rt>みず</rt></ruby>にとかした<ruby><rb>飲</rb><rt>の</rt></ruby>み<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 売り出す
+  descriptions:
+  - <ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>始</rb><rt>はじ</rt></ruby>める。
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られ<ruby><rb>始</rb><rt>はじ</rt></ruby>める。
+- word: 量
+  descriptions:
+  - かさ。ますめ。
+  - ものをはかる。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>広</rb><rt>ひろ</rt></ruby>さ。<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011439111000/k10011439111000.html
+web_title_with_ruby: <ruby>ウイスキー<rt>ういすきー</rt></ruby><ruby>人気<rt>にんき</rt></ruby>で<ruby>原酒<rt>げんしゅ</rt></ruby><ruby>不足<rt>ぶそく</rt></ruby>
+  <ruby>一部<rt>いちぶ</rt></ruby><ruby>販売<rt>はんばい</rt></ruby><ruby>休止<rt>きゅうし</rt></ruby>に
+  <ruby>サントリー<rt>さんとりー</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/15/ウイスキー人気で原酒不足-一部販売休止に-サントリー
+related_news:
+- title: ユニクロの<ruby>服<rt>ふく</rt></ruby>　<ruby>初<rt>はじ</rt></ruby>めて<ruby>日本<rt>にっぽん</rt></ruby>より<ruby>外国<rt>がいこく</rt></ruby>でたくさん<ruby>売<rt>う</rt></ruby>れた
+  url: https://newswebeasy.github.io/news/easy/2018/04/16/ユニクロの服-初めて日本より外国でたくさん売れた
+- title: <ruby>世界<rt>せかい</rt></ruby>のお<ruby>酒<rt>さけ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント　<ruby>日本酒<rt>にほんしゅ</rt></ruby>も<ruby>紹介<rt>しょうかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/03/22/世界のお酒を紹介するイベント-日本酒も紹介
+- title: <ruby>武田薬品<rt>たけだやくひん</rt></ruby>がアイルランドの<ruby>会社<rt>かいしゃ</rt></ruby>を６<ruby>兆<rt>ちょう</rt></ruby>８０００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>で<ruby>買<rt>か</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/05/10/武田薬品がアイルランドの会社を6兆8000億円で買う
+- title: <ruby>大林<rt>おおばやし</rt></ruby><ruby>宣彦<rt>のぶひこ</rt></ruby><ruby>監督<rt>かんとく</rt></ruby>「<ruby>広島<rt>ひろしま</rt></ruby>に<ruby>原爆<rt>げんばく</rt></ruby>が<ruby>落<rt>お</rt></ruby>とされるまでを<ruby>映画<rt>えいが</rt></ruby>にする」
+  url: https://newswebeasy.github.io/news/easy/2018/02/23/大林宣彦監督広島に原爆が落とされるまでを映画にする
+- title: アニメーション<ruby>映画<rt>えいが</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>高畑勲<rt>たかはたいさお</rt></ruby>さんが<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/04/06/アニメーション映画で有名な高畑勲さんが亡くなる
+...
