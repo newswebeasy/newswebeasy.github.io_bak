@@ -79,7 +79,8 @@
             {% endif %}
             {% endfor %}
 
-            {% if page.related_news %}
+            {% capture related_news_count %}{{ page.related_news | size  }}{% endcapture %}
+            {% if related_news_count > 0 %}
             <div class="relatednews">
             <h2 class="subtitle" style="color: #8fbf30;"><ruby>関連<rt data-ruby-level="4">かんれん</rt></ruby>ニュース</h2>
             {% for n in page.related_news %}
