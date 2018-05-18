@@ -1,0 +1,67 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011441121000
+last_modified_at: '2018-05-18T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: おととし、イギリスの貴族が長い間持っていた絵がオークションに出ました。
+title: オークションで買った絵はレンブラントがかいた絵だった
+title_with_ruby: オークションで<ruby>買<rt>か</rt></ruby>った<ruby>絵<rt>え</rt></ruby>はレンブラントがかいた<ruby>絵<rt>え</rt></ruby>だった
+outline: おととし、イギリスの貴族が長い間持っていた絵がオークションに出ました。
+outline_with_ruby: おととし、イギリスの<ruby>貴族<rt>きぞく</rt></ruby>が<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby><ruby>持<rt>も</rt></ruby>っていた<ruby>絵<rt>え</rt></ruby>がオークションに<ruby>出<rt>で</rt></ruby>ました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/17/K10011441121_1805170519_1805170526_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/18/k10011441121000.mp4
+content_with_ruby: "<p>おととし、イギリスの<span style=\"color: blue;\"><ruby>貴族<rt>きぞく</rt></ruby></span>が<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby><ruby>持<rt>も</rt></ruby>っていた<ruby>絵<rt>え</rt></ruby>が<span\
+  \ style=\"color: blue;\">オークション</span>に<ruby>出<rt>で</rt></ruby>ました。<ruby>絵<rt>え</rt></ruby>には<ruby>若<rt>わか</rt></ruby>い<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>がかいてありますが、<ruby>絵<rt>え</rt></ruby>をかいた<span\
+  \ style=\"color: blue;\"><ruby>作者<rt>さくしゃ</rt></ruby></span>はわかっていませんでした。<span style=\"\
+  color: blue;\"><ruby>美術品<rt>びじゅつひん</rt></ruby></span>を<ruby>売<rt>う</rt></ruby>ったり<ruby>買<rt>か</rt></ruby>ったりする<ruby>仕事<rt>しごと</rt></ruby>をしているオランダの<ruby>人<rt>ひと</rt></ruby>がこの<ruby>絵<rt>え</rt></ruby>を<ruby>日本<rt>にっぽん</rt></ruby>のお<ruby>金<rt>かね</rt></ruby>で２０００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>ぐらいで<ruby>買<rt>か</rt></ruby>いました。</p>\n\
+  <p><ruby>絵<rt>え</rt></ruby>を<ruby>買<rt>か</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>作者<rt>さくしゃ</rt></ruby></span>は１７<span style=\"color:\
+  \ blue;\"><ruby>世紀<rt>せいき</rt></ruby></span>のオランダの<ruby>有名<rt>ゆうめい</rt></ruby>な<span\
+  \ style=\"color: blue;\"><ruby>画家<rt>がか</rt></ruby></span>のレンブラントかもしれないと<ruby>思<rt>おも</rt></ruby>って、<ruby>専門家<rt>せんもんか</rt></ruby>に<ruby>絵<rt>え</rt></ruby>を<ruby>見<rt>み</rt></ruby>せました。たくさんの<ruby>専門家<rt>せんもんか</rt></ruby>が<ruby>絵<rt>え</rt></ruby>のかき<ruby>方<rt>かた</rt></ruby>や<ruby>使<rt>つか</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>絵<rt>え</rt></ruby>の<ruby>具<rt>ぐ</rt></ruby></span>などを<ruby>調<rt>しら</rt></ruby>べると、<span\
+  \ style=\"color: blue;\"><ruby>作者<rt>さくしゃ</rt></ruby></span>はレンブラントだとわかりました。<ruby>専門家<rt>せんもんか</rt></ruby>はレンブラントが１６３４<ruby>年<rt>ねん</rt></ruby>、２８<ruby>歳<rt>さい</rt></ruby>ぐらいのときにかいた<ruby>絵<rt>え</rt></ruby>だと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p>この<ruby>絵<rt>え</rt></ruby>は、<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>２人<rt>ふたり</rt></ruby>がかいてある<ruby>大<rt>おお</rt></ruby>きな<ruby>絵<rt>え</rt></ruby>を２つに<ruby>切<rt>き</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>絵<rt>え</rt></ruby>が<ruby>世界<rt>せかい</rt></ruby>のどこかにあるかもしれません。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 競り売り
+  descriptions:
+  - <ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。
+- word: 貴族
+  descriptions:
+  - <ruby><rb>身分</rb><rt>みぶん</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>家</rb><rt>いえ</rt></ruby>がらや<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 作者
+  descriptions:
+  - <ruby><rb>物語</rb><rt>ものがたり</rt></ruby>や<ruby><rb>詩</rb><rt>し</rt></ruby>、また<ruby><rb>絵</rb><rt>え</rt></ruby>・<ruby><rb>陶器</rb><rt>とうき</rt></ruby>などの<ruby><rb>作品</rb><rt>さくひん</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 美術品
+  descriptions:
+  - <ruby><rb>絵</rb><rt>え</rt></ruby>・<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>など、<ruby><rb>美術</rb><rt>びじゅつ</rt></ruby>として<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのある<ruby><rb>作品</rb><rt>さくひん</rt></ruby>。<ruby><rb>美術作品</rb><rt>びじゅつさくひん</rt></ruby>。
+- word: 世紀
+  descriptions:
+  - １００<ruby><rb>年</rb><rt>ねん</rt></ruby>を<ruby><rb>単位</rb><rt>たんい</rt></ruby>として<ruby><rb>数</rb><rt>かぞ</rt></ruby>える<ruby><rb>年代</rb><rt>ねんだい</rt></ruby>の<ruby><rb>数</rb><rt>かぞ</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>西暦</rb><rt>せいれき</rt></ruby>１<ruby><rb>年</rb><rt>ねん</rt></ruby>から１００<ruby><rb>年</rb><rt>ねん</rt></ruby>までを<ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>と<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶ。<ruby><rb>２１世紀</rb><rt>にじゅういっせいき</rt></ruby>は２００１<ruby><rb>年</rb><rt>ねん</rt></ruby>から２１００<ruby><rb>年</rb><rt>ねん</rt></ruby>まで。
+  - <ruby><rb>１世紀</rb><rt>いっせいき</rt></ruby>に<ruby><rb>１度</rb><rt>いちど</rt></ruby>しかないようなもの。
+- word: 画家
+  descriptions:
+  - <ruby><rb>絵</rb><rt>え</rt></ruby>をかくことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>絵</rb><rt>え</rt></ruby>かき。
+- word: 絵の具
+  descriptions:
+  - <ruby><rb>絵</rb><rt>え</rt></ruby>に<ruby><rb>色</rb><rt>いろ</rt></ruby>をつけるために<ruby><rb>使</rb><rt>つか</rt></ruby>うもの。<ruby><rb>水彩</rb><rt>すいさい</rt></ruby><ruby><rb>絵</rb><rt>え</rt></ruby>の<ruby><rb>具</rb><rt>ぐ</rt></ruby>や<ruby><rb>油</rb><rt>あぶら</rt></ruby><ruby><rb>絵</rb><rt>え</rt></ruby>の<ruby><rb>具</rb><rt>ぐ</rt></ruby>などがある。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+source_url: http://www3.nhk.or.jp/news/easy/k10011441121000/k10011441121000.html
+web_title_with_ruby: <ruby>落札<rt>らくさつ</rt></ruby>された<ruby>肖像画<rt>しょうぞうが</rt></ruby>は<ruby>レンブラント<rt>れんぶらんと</rt></ruby>の<ruby>作品<rt>さくひん</rt></ruby>だった
+  44<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>発見<rt>はっけん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/17/落札された肖像画はレンブラントの作品だった-44年ぶりの発見
+related_news:
+- title: <ruby>香港<rt>ほんこん</rt></ruby>　<ruby>香取<rt>かとり</rt></ruby><ruby>慎吾<rt>しんご</rt></ruby>さんが<ruby>壁<rt>かべ</rt></ruby>にかいた<ruby>絵<rt>え</rt></ruby>を<ruby>見<rt>み</rt></ruby>せる
+  url: https://newswebeasy.github.io/news/easy/2018/03/29/香港-香取慎吾さんが壁にかいた絵を見せる
+- title: フランスの<ruby>美術館<rt>びじゅつかん</rt></ruby>　<ruby>半分<rt>はんぶん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>絵<rt>え</rt></ruby>が<ruby>偽物<rt>にせもの</rt></ruby>だったと<ruby>謝<rt>あやま</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/05/02/フランスの美術館-半分以上の絵が偽物だったと謝る
+- title: ニューヨークで<ruby>日本<rt>にっぽん</rt></ruby>にいるような<ruby>写真<rt>しゃしん</rt></ruby>が<ruby>撮<rt>と</rt></ruby>れるイベント
+  url: https://newswebeasy.github.io/news/easy/2018/03/16/ニューヨークで日本にいるような写真が撮れるイベント
+- title: <ruby>漫画<rt>まんが</rt></ruby>「<ruby>鉄腕<rt>てつわん</rt></ruby>アトム」の１ページがオークションで３５００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/05/08/漫画鉄腕アトムの1ページがオークションで3500万円
+...
