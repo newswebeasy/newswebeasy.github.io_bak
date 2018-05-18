@@ -1,0 +1,76 @@
+---
+layout: web_news
+categories: web
+newsid: k10011441901000
+title: ２億件の日本人メールアドレスか 闇サイトで販売
+title_with_ruby: ２<ruby>億<rt data-ruby-level="4">おく</rt></ruby><ruby>件<rt data-ruby-level="5">けん</rt></ruby>の<ruby>日本人<rt
+  data-ruby-level="1">にほんじん</rt></ruby>メールアドレスか <ruby>闇<rt data-ruby-level="7">やみ</rt></ruby>サイトで<ruby>販売<rt
+  data-ruby-level="7">はんばい</rt></ruby>
+last_modified_at: '2018-05-17T17:05:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>05<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>17<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 17<ruby>時<rt data-ruby-level="2">じ</rt></ruby>05<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 日本人のものと見られる、延べ２億件のメールアドレスとパスワードが闇サイトで販売されていたことがわかりました。過去に漏えいしたデータを集めたものと見られ、調査に当たったセキュリティー企業は、日本を狙ったサイバー攻撃のきっかけになるおそれがあるとして注意を呼びかけています。
+summary: <ruby>日本人<rt data-ruby-level="1">にほんじん</rt></ruby>のものと<ruby>見<rt data-ruby-level="1">み</rt></ruby>られる、<ruby>延<rt
+  data-ruby-level="6">の</rt></ruby>べ２<ruby>億<rt data-ruby-level="4">おく</rt></ruby><ruby>件<rt
+  data-ruby-level="5">けん</rt></ruby>のメールアドレスとパスワードが<ruby>闇<rt data-ruby-level="7">やみ</rt></ruby>サイトで<ruby>販売<rt
+  data-ruby-level="7">はんばい</rt></ruby>されていたことがわかりました。<ruby>過去<rt data-ruby-level="5">かこ</rt></ruby>に<ruby>漏<rt
+  data-ruby-level="7">ろう</rt></ruby>えいしたデータを<ruby>集<rt data-ruby-level="3">あつ</rt></ruby>めたものと<ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>られ、<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby>に<ruby>当<rt
+  data-ruby-level="2">あ</rt></ruby>たったセキュリティー<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>は、<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>を<ruby>狙<rt data-ruby-level="7">ねら</rt></ruby>ったサイバー<ruby>攻撃<rt
+  data-ruby-level="7">こうげき</rt></ruby>のきっかけになるおそれがあるとして<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>を<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけています。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/17/K10011441901_1805171714_1805171715_01_02.jpg
+more: <ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>セキュリティー<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>「ファイア・アイ」によりますと、<ruby>去年<rt
+  data-ruby-level="3">きょねん</rt></ruby>１２<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>、<ruby>中国語<rt
+  data-ruby-level="2">ちゅうごくご</rt></ruby>の<ruby>闇<rt data-ruby-level="7">やみ</rt></ruby>サイト<ruby>上<rt
+  data-ruby-level="1">じょう</rt></ruby>で、<ruby>日本人<rt data-ruby-level="1">にほんじん</rt></ruby>のものとするデータが<ruby>販売<rt
+  data-ruby-level="7">はんばい</rt></ruby>されているのが<ruby>見<rt data-ruby-level="1">み</rt></ruby>つかり、<ruby>中身<rt
+  data-ruby-level="3">なかみ</rt></ruby>を<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>したところ<ruby>延<rt
+  data-ruby-level="6">の</rt></ruby>べ２<ruby>億<rt data-ruby-level="4">おく</rt></ruby><ruby>件<rt
+  data-ruby-level="5">けん</rt></ruby>に<ruby>上<rt data-ruby-level="1">のぼ</rt></ruby>るＩＤやパスワード、メールアドレスなどのセットが<ruby>含<rt
+  data-ruby-level="7">ふく</rt></ruby>まれていたということです。<br /><br />この<ruby>中<rt data-ruby-level="1">なか</rt></ruby>には<ruby>企業<rt
+  data-ruby-level="7">きぎょう</rt></ruby>や<ruby>中央<rt data-ruby-level="3">ちゅうおう</rt></ruby><ruby>省庁<rt
+  data-ruby-level="6">しょうちょう</rt></ruby>のもののほか、<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>の<ruby>携帯<rt
+  data-ruby-level="7">けいたい</rt></ruby><ruby>電話<rt data-ruby-level="2">でんわ</rt></ruby>のメールやフリーメールなどが<ruby>含<rt
+  data-ruby-level="7">ふく</rt></ruby>まれ、<ruby>何者<rt data-ruby-level="3">なにもの</rt></ruby>かが<ruby>過去<rt
+  data-ruby-level="5">かこ</rt></ruby>に<ruby>国内<rt data-ruby-level="2">こくない</rt></ruby>の<ruby>通販<rt
+  data-ruby-level="7">つうはん</rt></ruby>サイトやオンラインゲームなどから<ruby>漏<rt data-ruby-level="7">ろう</rt></ruby>えいしたデータを<ruby>集<rt
+  data-ruby-level="3">あつ</rt></ruby>めて<ruby>販売<rt data-ruby-level="7">はんばい</rt></ruby>していると<ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>られています。<br /><br />ファイア・アイによりますと、<ruby>日本人<rt data-ruby-level="1">にほんじん</rt></ruby>に<ruby>関<rt
+  data-ruby-level="4">かん</rt></ruby>するこれほどの<ruby>規模<rt data-ruby-level="6">きぼ</rt></ruby>のデータが<ruby>闇<rt
+  data-ruby-level="7">やみ</rt></ruby>サイトで<ruby>取<rt data-ruby-level="3">と</rt></ruby>り<ruby>引<rt
+  data-ruby-level="3">ひ</rt></ruby>きされるのは<ruby>例<rt data-ruby-level="4">れい</rt></ruby>がないということで、<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>を<ruby>狙<rt data-ruby-level="7">ねら</rt></ruby>ったサイバー<ruby>攻撃<rt
+  data-ruby-level="7">こうげき</rt></ruby>のきっかけになるおそれがあるとして、<ruby>漏<rt data-ruby-level="7">ろう</rt></ruby>えいが<ruby>確認<rt
+  data-ruby-level="7">かくにん</rt></ruby>された<ruby>省庁<rt data-ruby-level="6">しょうちょう</rt></ruby>や<ruby>企業<rt
+  data-ruby-level="7">きぎょう</rt></ruby>に<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>を<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけています。<br /><br /><ruby>岩間<rt data-ruby-level="2">いわま</rt></ruby><ruby>優仁<rt
+  data-ruby-level="8">ゆうと</rt></ruby><ruby>副社長<rt data-ruby-level="4">ふくしゃちょう</rt></ruby>は「パスワードを<ruby>使<rt
+  data-ruby-level="3">つか</rt></ruby>い<ruby>回<rt data-ruby-level="3">まわ</rt></ruby>していたりすると<ruby>危険<rt
+  data-ruby-level="6">きけん</rt></ruby>にさらされてしまうおそれがあるので、パスワードの<ruby>管理<rt data-ruby-level="4">かんり</rt></ruby>には<ruby>注意<rt
+  data-ruby-level="3">ちゅうい</rt></ruby>してほしい」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。
+movie_url: https://newswebeasy.github.io/ja201805/news/web/movie/2018/05/17/k10011441901_201805171810_201805171813.mp4
+voice_url: https://newswebeasy.github.io/ja201805/news/web/voice/2018/05/17/k10011441901_201805171810_201805171813.mp3
+source_url: https://www3.nhk.or.jp/news/html/20180517/k10011441901000.html
+related_news:
+- title: <ruby>米<rt data-ruby-level="2">べい</rt></ruby>ツイッター システム<ruby>欠陥<rt data-ruby-level="7">けっかん</rt></ruby>で３<ruby>億人<rt
+    data-ruby-level="4">おくにん</rt></ruby><ruby>超<rt data-ruby-level="7">ちょう</rt></ruby>にパスワード<ruby>変更<rt
+    data-ruby-level="7">へんこう</rt></ruby><ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけ
+  url: https://newswebeasy.github.io/news/web/2018/05/04/米ツイッター-システム欠陥で3億人超にパスワード変更呼びかけ
+- title: フェイスブック「<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>データ<ruby>流出<rt data-ruby-level="3">りゅうしゅつ</rt></ruby>は<ruby>最大<rt
+    data-ruby-level="4">さいだい</rt></ruby>で8700<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>」
+  url: https://newswebeasy.github.io/news/web/2018/04/05/フェイスブック個人データ流出は最大で8700万人
+- title: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>郵便<rt data-ruby-level="6">ゆうびん</rt></ruby><ruby>装<rt
+    data-ruby-level="7">よそお</rt></ruby>う<ruby>偽<rt data-ruby-level="7">にせ</rt></ruby>サイトに<ruby>注意<rt
+    data-ruby-level="3">ちゅうい</rt></ruby>を <ruby>個人<rt data-ruby-level="5">こじん</rt></ruby><ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby><ruby>盗<rt data-ruby-level="7">ぬす</rt></ruby>み<ruby>取<rt
+    data-ruby-level="7">と</rt></ruby>る<ruby>目的<rt data-ruby-level="4">もくてき</rt></ruby>か
+  url: https://newswebeasy.github.io/news/web/2018/04/02/日本郵便装う偽サイトに注意を-個人情報盗み取る目的か
+- title: フェイスブックの<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>データ<ruby>流用<rt data-ruby-level="3">りゅうよう</rt></ruby><ruby>問題<rt
+    data-ruby-level="3">もんだい</rt></ruby> <ruby>英<rt data-ruby-level="4">えい</rt></ruby>データ<ruby>分析<rt
+    data-ruby-level="7">ぶんせき</rt></ruby><ruby>会社<rt data-ruby-level="2">がいしゃ</rt></ruby>
+    <ruby>破産<rt data-ruby-level="5">はさん</rt></ruby><ruby>申請<rt data-ruby-level="7">しんせい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/05/03/フェイスブックの個人データ流用問題-英データ分析会社-破産申請
+...
