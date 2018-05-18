@@ -52,12 +52,12 @@ more: これは「シートリップ・ドット・コム」のジェーン・�
   data-ruby-level="6">いちだん</rt></ruby>と<ruby>激<rt data-ruby-level="6">はげ</rt></ruby>しくなりそうです。
 source_url: https://www3.nhk.or.jp/news/html/20180515/k10011439401000.html
 related_news:
-- title: 米大使館エルサレム移転で衝突 50人以上が死亡
-  url: https://newswebeasy.github.io/news/web/2018/05/15/米大使館エルサレム移転で衝突-50人以上が死亡
-- title: 国の借金 過去最大に 国民１人当たり約860万円
-  url: https://newswebeasy.github.io/news/web/2018/05/11/国の借金-過去最大に-国民1人当たり約860万円
-- title: プロ野球 選手の平均年俸が過去最高に
-  url: https://newswebeasy.github.io/news/web/2018/05/15/プロ野球-選手の平均年俸が過去最高に
-- title: 女性記者がネットワーク設立 安心して働ける環境作りへ
-  url: https://newswebeasy.github.io/news/web/2018/05/15/女性記者がネットワーク設立-安心して働ける環境作りへ
+- title: <ruby>大型<rt data-ruby-level="4">おおがた</rt></ruby><ruby>連休<rt data-ruby-level="4">れんきゅう</rt></ruby>は「２<ruby>泊<rt
+    data-ruby-level="7">はく</rt></ruby>３<ruby>日<rt data-ruby-level="1">にち</rt></ruby>」と「インスタ<ruby>映<rt
+    data-ruby-level="7">は</rt></ruby>え」
+  url: https://newswebeasy.github.io/news/web/2018/04/25/大型連休は2泊3日とインスタ映え
+- title: <ruby>仮想<rt data-ruby-level="5">かそう</rt></ruby><ruby>通貨<rt data-ruby-level="4">つうか</rt></ruby>の<ruby>購入<rt
+    data-ruby-level="7">こうにゅう</rt></ruby>にカード<ruby>使<rt data-ruby-level="3">つか</rt></ruby>えないようにする<ruby>動<rt
+    data-ruby-level="3">うご</rt></ruby>き<ruby>相次<rt data-ruby-level="3">あいつ</rt></ruby>ぐ
+  url: https://newswebeasy.github.io/news/web/2018/03/25/仮想通貨の購入にカード使えないようにする動き相次ぐ
 ...
