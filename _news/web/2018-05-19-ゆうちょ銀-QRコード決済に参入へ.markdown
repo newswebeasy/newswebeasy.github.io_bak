@@ -1,0 +1,61 @@
+---
+layout: web_news
+categories: web
+newsid: k10011444241000
+title: ゆうちょ銀 ＱＲコード決済に参入へ
+title_with_ruby: ゆうちょ<ruby>銀<rt data-ruby-level="3">ぎん</rt></ruby> ＱＲコード<ruby>決済<rt
+  data-ruby-level="6">けっさい</rt></ruby>に<ruby>参入<rt data-ruby-level="4">さんにゅう</rt></ruby>へ
+last_modified_at: '2018-05-19T04:03:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>05<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>19<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 04<ruby>時<rt data-ruby-level="2">じ</rt></ruby>03<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 現金を使わないキャッシュレスが広がる中、「ゆうちょ銀行」は、利用者がスマートフォンでＱＲコードを読み取るだけで買い物などの支払いが完了する新たなサービスを始めることになりました。
+summary: <ruby>現金<rt data-ruby-level="5">げんきん</rt></ruby>を<ruby>使<rt data-ruby-level="3">つか</rt></ruby>わないキャッシュレスが<ruby>広<rt
+  data-ruby-level="2">ひろ</rt></ruby>がる<ruby>中<rt data-ruby-level="2">なか</rt></ruby>、「ゆうちょ<ruby>銀行<rt
+  data-ruby-level="3">ぎんこう</rt></ruby>」は、<ruby>利用者<rt data-ruby-level="4">りようしゃ</rt></ruby>がスマートフォンでＱＲコードを<ruby>読<rt
+  data-ruby-level="3">よ</rt></ruby>み<ruby>取<rt data-ruby-level="3">と</rt></ruby>るだけで<ruby>買<rt
+  data-ruby-level="3">か</rt></ruby>い<ruby>物<rt data-ruby-level="3">もの</rt></ruby>などの<ruby>支払<rt
+  data-ruby-level="7">しはら</rt></ruby>いが<ruby>完了<rt data-ruby-level="7">かんりょう</rt></ruby>する<ruby>新<rt
+  data-ruby-level="2">あら</rt></ruby>たなサービスを<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>めることになりました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/19/K10011444241_1805190001_1805190404_01_02.jpg
+more: ゆうちょ<ruby>銀行<rt data-ruby-level="3">ぎんこう</rt></ruby>は、<ruby>来年<rt data-ruby-level="2">らいねん</rt></ruby>２<ruby>月<rt
+  data-ruby-level="1">がつ</rt></ruby>からスマートフォンを<ruby>使<rt data-ruby-level="3">つか</rt></ruby>ったＱＲコードの<ruby>決済<rt
+  data-ruby-level="6">けっさい</rt></ruby>サービスを<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>めます。<ruby>利用者<rt
+  data-ruby-level="4">りようしゃ</rt></ruby>は<ruby>専用<rt data-ruby-level="6">せんよう</rt></ruby>のアプリをスマートフォンにダウンロードしたうえで<ruby>店頭<rt
+  data-ruby-level="2">てんとう</rt></ruby>で<ruby>表示<rt data-ruby-level="5">ひょうじ</rt></ruby>されるＱＲコードを<ruby>読<rt
+  data-ruby-level="3">よ</rt></ruby>み<ruby>取<rt data-ruby-level="3">と</rt></ruby>ると<ruby>買<rt
+  data-ruby-level="3">か</rt></ruby>い<ruby>物<rt data-ruby-level="3">もの</rt></ruby>などの<ruby>代金<rt
+  data-ruby-level="3">だいきん</rt></ruby>がゆうちょ<ruby>銀行<rt data-ruby-level="3">ぎんこう</rt></ruby>の<ruby>口座<rt
+  data-ruby-level="6">こうざ</rt></ruby>からすぐに<ruby>引<rt data-ruby-level="3">ひ</rt></ruby>き<ruby>落<rt
+  data-ruby-level="3">お</rt></ruby>とされます。<br /><br />ゆうちょ<ruby>銀行<rt data-ruby-level="3">ぎんこう</rt></ruby>は<ruby>今後<rt
+  data-ruby-level="2">こんご</rt></ruby>、<ruby>横浜銀行<rt data-ruby-level="7">よこはまぎんこう</rt></ruby>や<ruby>福岡銀行<rt
+  data-ruby-level="7">ふくおかぎんこう</rt></ruby>など<ruby>同<rt data-ruby-level="2">おな</rt></ruby>じＱＲコード<ruby>決済<rt
+  data-ruby-level="6">けっさい</rt></ruby>をすでに<ruby>導入<rt data-ruby-level="5">どうにゅう</rt></ruby>している<ruby>地方<rt
+  data-ruby-level="2">ちほう</rt></ruby><ruby>銀行<rt data-ruby-level="3">ぎんこう</rt></ruby>などとも<ruby>連携<rt
+  data-ruby-level="7">れんけい</rt></ruby>してサービスを<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>く<ruby>展開<rt
+  data-ruby-level="6">てんかい</rt></ruby>していきたいとしています。<br /><br />ゆうちょ<ruby>銀行<rt data-ruby-level="3">ぎんこう</rt></ruby>の<ruby>表<rt
+  data-ruby-level="3">おもて</rt></ruby><ruby>邦彦<rt data-ruby-level="8">くにひこ</rt></ruby><ruby>経営<rt
+  data-ruby-level="5">けいえい</rt></ruby><ruby>企画部<rt data-ruby-level="7">きかくぶ</rt></ruby><ruby>担当部<rt
+  data-ruby-level="6">たんとうぶ</rt></ruby><ruby>長<rt data-ruby-level="2">ちょう</rt></ruby>は「<ruby>全国<rt
+  data-ruby-level="3">ぜんこく</rt></ruby>のお<ruby>客様<rt data-ruby-level="3">きゃくさま</rt></ruby>に<ruby>活用<rt
+  data-ruby-level="2">かつよう</rt></ruby>してもらい、<ruby>国内<rt data-ruby-level="2">こくない</rt></ruby>のキャッシュレス<ruby>決済<rt
+  data-ruby-level="6">けっさい</rt></ruby>のスタンダードとなることをめざしていきたい」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。<br
+  /><br />「ＱＲコード<ruby>決済<rt data-ruby-level="6">けっさい</rt></ruby>」は<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>で<ruby>爆発的<rt
+  data-ruby-level="7">ばくはつてき</rt></ruby>に<ruby>普及<rt data-ruby-level="7">ふきゅう</rt></ruby>していて、<ruby>国内<rt
+  data-ruby-level="2">こくない</rt></ruby>でも<ruby>楽天<rt data-ruby-level="2">らくてん</rt></ruby>、ＬＩＮＥ、ＮＴＴドコモといったＩＴ<ruby>企業<rt
+  data-ruby-level="7">きぎょう</rt></ruby>などが<ruby>相次<rt data-ruby-level="3">あいつ</rt></ruby>いで<ruby>参入<rt
+  data-ruby-level="4">さんにゅう</rt></ruby>し、<ruby>競争<rt data-ruby-level="4">きょうそう</rt></ruby>が<ruby>激<rt
+  data-ruby-level="6">はげ</rt></ruby>しくなっています。
+movie_url: https://newswebeasy.github.io/ja201805/news/web/movie/2018/05/19/k10011444241_201805191006_201805191010.mp4
+voice_url: https://newswebeasy.github.io/ja201805/news/web/voice/2018/05/19/k10011444241_201805191006_201805191010.mp3
+source_url: https://www3.nhk.or.jp/news/html/20180519/k10011444241000.html
+related_news:
+- title: 「<ruby>将来<rt data-ruby-level="6">しょうらい</rt></ruby>は<ruby>買<rt data-ruby-level="3">か</rt></ruby>い<ruby>物<rt
+    data-ruby-level="3">もの</rt></ruby>の80％をキャッシュレスで」<ruby>経産省<rt data-ruby-level="5">けいさんしょう</rt></ruby>が<ruby>提言<rt
+    data-ruby-level="5">ていげん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/04/10/将来は買い物の80をキャッシュレスで経産省が提言
+- title: レジ<ruby>通<rt data-ruby-level="2">とお</rt></ruby>さずスマホ<ruby>決済<rt data-ruby-level="6">けっさい</rt></ruby>
+    ローソンが<ruby>都内<rt data-ruby-level="3">とない</rt></ruby>３<ruby>店舗<rt data-ruby-level="7">てんぽ</rt></ruby>で<ruby>実証<rt
+    data-ruby-level="5">じっしょう</rt></ruby><ruby>実験<rt data-ruby-level="4">じっけん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/04/23/レジ通さずスマホ決済-ローソンが都内3店舗で実証実験
+...
