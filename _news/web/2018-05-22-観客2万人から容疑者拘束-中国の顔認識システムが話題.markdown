@@ -1,0 +1,62 @@
+---
+layout: web_news
+categories: web
+newsid: k10011447471000
+title: ”観客２万人から容疑者拘束” 中国の顔認識システムが話題
+title_with_ruby: ”<ruby>観客<rt data-ruby-level="4">かんきゃく</rt></ruby>２<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>から<ruby>容疑者<rt
+  data-ruby-level="6">ようぎしゃ</rt></ruby><ruby>拘束<rt data-ruby-level="7">こうそく</rt></ruby>”
+  <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>の<ruby>顔<rt data-ruby-level="2">かお</rt></ruby><ruby>認識<rt
+  data-ruby-level="7">にんしき</rt></ruby>システムが<ruby>話題<rt data-ruby-level="3">わだい</rt></ruby>
+last_modified_at: '2018-05-22T06:34:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>05<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>22<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 06<ruby>時<rt data-ruby-level="2">じ</rt></ruby>34<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 中国で、コンサート会場に設置された監視カメラがおよそ２万人の観客の中から顔を識別して犯罪の容疑者の拘束に結びつけ、中国の画像認識システムの技術の高さを示すものだなどとして話題となっています。
+summary: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>で、コンサート<ruby>会場<rt data-ruby-level="2">かいじょう</rt></ruby>に<ruby>設置<rt
+  data-ruby-level="5">せっち</rt></ruby>された<ruby>監視<rt data-ruby-level="7">かんし</rt></ruby>カメラがおよそ２<ruby>万人<rt
+  data-ruby-level="2">まんにん</rt></ruby>の<ruby>観客<rt data-ruby-level="4">かんきゃく</rt></ruby>の<ruby>中<rt
+  data-ruby-level="1">なか</rt></ruby>から<ruby>顔<rt data-ruby-level="2">かお</rt></ruby>を<ruby>識別<rt
+  data-ruby-level="5">しきべつ</rt></ruby>して<ruby>犯罪<rt data-ruby-level="5">はんざい</rt></ruby>の<ruby>容疑者<rt
+  data-ruby-level="6">ようぎしゃ</rt></ruby>の<ruby>拘束<rt data-ruby-level="7">こうそく</rt></ruby>に<ruby>結<rt
+  data-ruby-level="4">むす</rt></ruby>びつけ、<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>の<ruby>画像<rt
+  data-ruby-level="5">がぞう</rt></ruby><ruby>認識<rt data-ruby-level="7">にんしき</rt></ruby>システムの<ruby>技術<rt
+  data-ruby-level="5">ぎじゅつ</rt></ruby>の<ruby>高<rt data-ruby-level="2">たか</rt></ruby>さを<ruby>示<rt
+  data-ruby-level="5">しめ</rt></ruby>すものだなどとして<ruby>話題<rt data-ruby-level="3">わだい</rt></ruby>となっています。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/22/K10011447471_1805220632_1805220634_01_02.jpg
+more: <ruby>警察<rt data-ruby-level="6">けいさつ</rt></ruby>の<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>によりますと、２０<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby><ruby>夜<rt data-ruby-level="2">よる</rt></ruby>、<ruby>浙江省<rt
+  data-ruby-level="8">せっこうしょう</rt></ruby><ruby>嘉興<rt data-ruby-level="8">かこう</rt></ruby>で<ruby>開<rt
+  data-ruby-level="3">ひら</rt></ruby>かれた<ruby>香港<rt data-ruby-level="8">ほんこん</rt></ruby>の<ruby>有名<rt
+  data-ruby-level="3">ゆうめい</rt></ruby><ruby>歌手<rt data-ruby-level="2">かしゅ</rt></ruby>のコンサート<ruby>会場<rt
+  data-ruby-level="2">かいじょう</rt></ruby>で、<ruby>詐欺<rt data-ruby-level="7">さぎ</rt></ruby>の<ruby>容疑<rt
+  data-ruby-level="6">ようぎ</rt></ruby>で<ruby>指名手配<rt data-ruby-level="3">しめいてはい</rt></ruby>されていた<ruby>男<rt
+  data-ruby-level="1">おとこ</rt></ruby>が<ruby>警察<rt data-ruby-level="6">けいさつ</rt></ruby>に<ruby>拘束<rt
+  data-ruby-level="7">こうそく</rt></ruby>されました。<br /><br />この<ruby>男<rt data-ruby-level="1">おとこ</rt></ruby>は、コンサート<ruby>会場<rt
+  data-ruby-level="2">かいじょう</rt></ruby>を<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れたところを<ruby>監視<rt
+  data-ruby-level="7">かんし</rt></ruby>カメラに<ruby>捉<rt data-ruby-level="7">とら</rt></ruby>えられ<ruby>画像<rt
+  data-ruby-level="5">がぞう</rt></ruby><ruby>認識<rt data-ruby-level="7">にんしき</rt></ruby>システムで<ruby>手配中<rt
+  data-ruby-level="3">てはいちゅう</rt></ruby>の<ruby>容疑者<rt data-ruby-level="6">ようぎしゃ</rt></ruby>の<ruby>顔<rt
+  data-ruby-level="2">かお</rt></ruby>と<ruby>特定<rt data-ruby-level="4">とくてい</rt></ruby>されたあと、<ruby>警察<rt
+  data-ruby-level="6">けいさつ</rt></ruby>に<ruby>通報<rt data-ruby-level="5">つうほう</rt></ruby>されたということです。<br
+  /><br /><ruby>当時<rt data-ruby-level="2">とうじ</rt></ruby>、コンサート<ruby>会場<rt data-ruby-level="2">かいじょう</rt></ruby>には、およそ２<ruby>万人<rt
+  data-ruby-level="2">まんにん</rt></ruby>の<ruby>観客<rt data-ruby-level="4">かんきゃく</rt></ruby>がいたということで、<ruby>今回<rt
+  data-ruby-level="2">こんかい</rt></ruby>の<ruby>容疑者<rt data-ruby-level="6">ようぎしゃ</rt></ruby><ruby>拘束<rt
+  data-ruby-level="7">こうそく</rt></ruby>は、<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>の<ruby>画像<rt
+  data-ruby-level="5">がぞう</rt></ruby><ruby>認識<rt data-ruby-level="7">にんしき</rt></ruby>システムの<ruby>技術力<rt
+  data-ruby-level="5">ぎじゅつりょく</rt></ruby>の<ruby>高<rt data-ruby-level="2">たか</rt></ruby>さを<ruby>示<rt
+  data-ruby-level="5">しめ</rt></ruby>すものだなどとしてインターネット<ruby>上<rt data-ruby-level="1">じょう</rt></ruby>で、<ruby>話題<rt
+  data-ruby-level="3">わだい</rt></ruby>となっています。<br /><br /><ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>では、<ruby>国<rt
+  data-ruby-level="2">くに</rt></ruby>をあげてＡＩ＝<ruby>人工<rt data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt
+  data-ruby-level="5">ちのう</rt></ruby>による<ruby>画像<rt data-ruby-level="5">がぞう</rt></ruby><ruby>認識<rt
+  data-ruby-level="7">にんしき</rt></ruby><ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>の<ruby>開発<rt
+  data-ruby-level="3">かいはつ</rt></ruby>を<ruby>進<rt data-ruby-level="3">すす</rt></ruby>めていて、<ruby>警察<rt
+  data-ruby-level="6">けいさつ</rt></ruby>などが<ruby>捜査<rt data-ruby-level="7">そうさ</rt></ruby>に<ruby>積極的<rt
+  data-ruby-level="4">せっきょくてき</rt></ruby>に<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>しています。
+source_url: https://www3.nhk.or.jp/news/html/20180522/k10011447471000.html
+related_news:
+- title: <ruby>刑務所<rt data-ruby-level="7">けいむしょ</rt></ruby>から<ruby>脱走<rt data-ruby-level="7">だっそう</rt></ruby>の<ruby>受刑者<rt
+    data-ruby-level="7">じゅけいしゃ</rt></ruby> <ruby>広島<rt data-ruby-level="3">ひろしま</rt></ruby>で<ruby>逮捕<rt
+    data-ruby-level="7">たいほ</rt></ruby> 「<ruby>泳<rt data-ruby-level="3">およ</rt></ruby>いで<ruby>渡<rt
+    data-ruby-level="7">わた</rt></ruby>り <ruby>電車<rt data-ruby-level="2">でんしゃ</rt></ruby>で」
+  url: https://newswebeasy.github.io/news/web/2018/04/30/刑務所から脱走の受刑者-広島で逮捕-泳いで渡り-電車で
+...
