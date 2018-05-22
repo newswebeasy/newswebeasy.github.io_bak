@@ -1,0 +1,52 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011446501000
+last_modified_at: '2018-05-22T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: キリスト教のローマ・カトリック教会のフランシスコ法王は２０日、１４人を新しく枢機卿にすると言いました。
+title: ローマ・カトリック教会　日本人が新しい枢機卿になる
+title_with_ruby: ローマ・カトリック<ruby>教会<rt>きょうかい</rt></ruby>　<ruby>日本人<rt>にっぽんじん</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>枢機卿<rt>すうききょう</rt></ruby>になる
+outline: キリスト教のローマ・カトリック教会のフランシスコ法王は２０日、１４人を新しく枢機卿にすると言いました。
+outline_with_ruby: キリスト<ruby>教<rt>きょう</rt></ruby>のローマ・カトリック<ruby>教会<rt>きょうかい</rt></ruby>のフランシスコ<ruby>法王<rt>ほうおう</rt></ruby>は<ruby>２０日<rt>はつか</rt></ruby>、１４<ruby>人<rt>にん</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しく<ruby>枢機卿<rt>すうききょう</rt></ruby>にすると<ruby>言<rt>い</rt></ruby>いました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/21/K10011446501_1805211009_1805211015_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/22/k10011446501000.mp4
+content_with_ruby: "<p><span style=\"color: blue;\">キリスト<ruby>教<rt>きょう</rt></ruby></span>のローマ・カトリック<ruby>教会<rt>きょうかい</rt></ruby>のフランシスコ<span\
+  \ style=\"color: blue;\"><ruby>法王<rt>ほうおう</rt></ruby></span>は<ruby>２０日<rt>はつか</rt></ruby>、１４<ruby>人<rt>にん</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しく<ruby>枢機卿<rt>すうききょう</rt></ruby>にすると<ruby>言<rt>い</rt></ruby>いました。<ruby>枢機卿<rt>すうききょう</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>法王<rt>ほうおう</rt></ruby></span>の<ruby>次<rt>つぎ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>地位<rt>ちい</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>で、<span\
+  \ style=\"color: blue;\"><ruby>法王<rt>ほうおう</rt></ruby></span>を<ruby>手伝<rt>てつだ</rt></ruby>います。</p>\n\
+  <p><ruby>新<rt>あたら</rt></ruby>しい<ruby>枢機卿<rt>すうききょう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>前田<rt>まえだ</rt></ruby><ruby>万葉<rt>まんよう</rt></ruby>さんがいます。<ruby>前田<rt>まえだ</rt></ruby>さんは<ruby>長崎県<rt>ながさきけん</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれて、<ruby>今<rt>いま</rt></ruby>６９<ruby>歳<rt>さい</rt></ruby>です。２０１４<ruby>年<rt>ねん</rt></ruby>から<ruby>大阪府<rt>おおさかふ</rt></ruby>などの<span\
+  \ style=\"color: blue;\"><ruby>地域<rt>ちいき</rt></ruby></span>の<ruby>教会<rt>きょうかい</rt></ruby>の<span\
+  \ style=\"color: blue;\">トップ</span>です。<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>枢機卿<rt>すうききょう</rt></ruby>は６<ruby>人<rt>にん</rt></ruby><ruby>目<rt>め</rt></ruby>です。</p>\n\
+  <p>７９<ruby>歳<rt>さい</rt></ruby><ruby>以下<rt>いか</rt></ruby>の<ruby>枢機卿<rt>すうききょう</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>法王<rt>ほうおう</rt></ruby></span>を<ruby>選<rt>えら</rt></ruby>ぶことができて、<ruby>世界<rt>せかい</rt></ruby>に<ruby>今<rt>いま</rt></ruby>１１０<ruby>人<rt>にん</rt></ruby>ぐらいいます。</p>\n\
+  <p><ruby>前田<rt>まえだ</rt></ruby>さんは６<ruby>月<rt>がつ</rt></ruby>２９<ruby>日<rt>にち</rt></ruby>に<ruby>枢機卿<rt>すうききょう</rt></ruby>になる<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: キリスト教
+  descriptions:
+  - イエス-キリストの<ruby><rb>教</rb><rt>おし</rt></ruby>えをもとにした<ruby><rb>宗教</rb><rt>しゅうきょう</rt></ruby>。ヨーロッパの<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>に<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうに<ruby><rb>広</rb><rt>ひろ</rt></ruby>がっている。
+- word: 法王
+  descriptions:
+  - ローマ<ruby><rb>法王</rb><rt>ほうおう</rt></ruby>。ローマカトリック<ruby><rb>教会</rb><rt>きょうかい</rt></ruby>の、いちばん<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>教皇</rb><rt>きょうこう</rt></ruby>。
+- word: 地位
+  descriptions:
+  - <ruby><rb>位</rb><rt>くらい</rt></ruby>。<ruby><rb>身分</rb><rt>みぶん</rt></ruby>。
+  - <ruby><rb>位置</rb><rt>いち</rt></ruby>。
+- word: 地域
+  descriptions:
+  - ある<ruby><rb>範囲</rb><rt>はんい</rt></ruby>に<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。
+- word: トップ
+  descriptions:
+  - <ruby><rb>先頭</rb><rt>せんとう</rt></ruby>。<ruby><rb>真</rb><rt>ま</rt></ruby>っ<ruby><rb>先</rb><rt>さき</rt></ruby>。<ruby><rb>一番</rb><rt>いちばん</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011446501000/k10011446501000.html
+web_title_with_ruby: <ruby>ローマ<rt>ろーま</rt></ruby>・<ruby>カトリック<rt>かとりっく</rt></ruby><ruby>教会<rt>きょうかい</rt></ruby>の<ruby>新<rt>しん</rt></ruby><ruby>枢機卿<rt>すうききょう</rt></ruby>に<ruby>日本人<rt>にほんじん</rt></ruby><ruby>任命<rt>にんめい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/21/ローマカトリック教会の新枢機卿に日本人任命
+related_news:
+- title: インドネシアの<ruby>教会<rt>きょうかい</rt></ruby>の<ruby>爆発<rt>ばくはつ</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>６<ruby>人<rt>にん</rt></ruby>が<ruby>起<rt>お</rt></ruby>こしたテロ
+  url: https://newswebeasy.github.io/news/easy/2018/05/14/インドネシアの教会の爆発は家族6人が起こしたテロ
+- title: <ruby>長崎県<rt>ながさきけん</rt></ruby>と<ruby>熊本県<rt>くまもとけん</rt></ruby>のキリスト<ruby>教<rt>きょう</rt></ruby>の<ruby>建物<rt>たてもの</rt></ruby>が<ruby>世界遺産<rt>せかいいさん</rt></ruby>に<ruby>決<rt>き</rt></ruby>まりそう
+  url: https://newswebeasy.github.io/news/easy/2018/05/07/長崎県と熊本県のキリスト教の建物が世界遺産に決まりそう
+...

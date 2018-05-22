@@ -1,0 +1,84 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011445651000
+last_modified_at: '2018-05-22T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: フランスで、有名な映画のイベント「カンヌ映画祭」がありました。
+title: カンヌ映画祭　是枝監督がいちばんすばらしい賞をもらう
+title_with_ruby: カンヌ<ruby>映画祭<rt>えいがさい</rt></ruby>　<ruby>是枝<rt>これえだ</rt></ruby><ruby>監督<rt>かんとく</rt></ruby>がいちばんすばらしい<ruby>賞<rt>しょう</rt></ruby>をもらう
+outline: フランスで、有名な映画のイベント「カンヌ映画祭」がありました。
+outline_with_ruby: フランスで、<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>映画<rt>えいが</rt></ruby>のイベント「カンヌ<ruby>映画祭<rt>えいがさい</rt></ruby>」がありました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/20/K10011445651_1805200511_1805200514_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/22/k10011445651000.mp4
+content_with_ruby: "<p>フランスで、<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>映画<rt>えいが</rt></ruby>の<span\
+  \ style=\"color: blue;\">イベント</span>「カンヌ<ruby>映画祭<rt>えいがさい</rt></ruby>」がありました。カンヌ<ruby>映画祭<rt>えいがさい</rt></ruby>では<ruby>世界<rt>せかい</rt></ruby>のいろいろな<ruby>映画<rt>えいが</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>して、いちばんすばらしい<ruby>映画<rt>えいが</rt></ruby>には「パルムドール」という<span\
+  \ style=\"color: blue;\"><ruby>賞<rt>しょう</rt></ruby></span>をあげています。</p>\n<p>１９<ruby>日<rt>にち</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>賞<rt>しょう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>があって、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>是枝裕和<rt>これえだひろかず</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>監督<rt>かんとく</rt></ruby></span>の「<ruby>万引<rt>まんび</rt></ruby>き<ruby>家族<rt>かぞく</rt></ruby>」がパルムドールをもらいました。この<ruby>映画<rt>えいが</rt></ruby>は、<ruby>生活<rt>せいかつ</rt></ruby>するために<ruby>店<rt>みせ</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>万引<rt>まんび</rt></ruby>き</span>をしている<ruby>家族<rt>かぞく</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>です。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>賞<rt>しょう</rt></ruby></span>をもらう<ruby>式<rt>しき</rt></ruby>で<ruby>是枝<rt>これえだ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>監督<rt>かんとく</rt></ruby></span>は「カンヌ<ruby>映画祭<rt>えいがさい</rt></ruby>には<ruby>映画<rt>えいが</rt></ruby>を<ruby>作<rt>つく</rt></ruby>り<ruby>続<rt>つづ</rt></ruby>けていく<span\
+  \ style=\"color: blue;\"><ruby>勇気<rt>ゆうき</rt></ruby></span>と<span style=\"color:\
+  \ blue;\"><ruby>希望<rt>きぼう</rt></ruby></span>をもらいます。この<span style=\"color: blue;\"\
+  ><ruby>勇気<rt>ゆうき</rt></ruby></span>と<span style=\"color: blue;\"><ruby>希望<rt>きぼう</rt></ruby></span>を、この<ruby>映画<rt>えいが</rt></ruby>を<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>作<rt>つく</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>仲間<rt>なかま</rt></ruby></span>にも<span style=\"color:\
+  \ blue;\"><ruby>分<rt>わ</rt></ruby>け</span>たいです」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>では、１９９７<ruby>年<rt>ねん</rt></ruby>に<ruby>今村昌平<rt>いまむらしょうへい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>監督<rt>かんとく</rt></ruby></span>の「うなぎ」がパルムドールをもらいました。<ruby>是枝<rt>これえだ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>監督<rt>かんとく</rt></ruby></span>の<ruby>映画<rt>えいが</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby>も<ruby>入<rt>い</rt></ruby>れて５<ruby>回<rt>かい</rt></ruby>、パルムドールの<span\
+  \ style=\"color: blue;\"><ruby>候補<rt>こうほ</rt></ruby></span>になりました。２０１３<ruby>年<rt>ねん</rt></ruby>には「そして<ruby>父<rt>ちち</rt></ruby>になる」が<ruby>審査員賞<rt>しんさいんしょう</rt></ruby>という<span\
+  \ style=\"color: blue;\"><ruby>賞<rt>しょう</rt></ruby></span>をもらいました。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 監督
+  descriptions:
+  - <ruby><rb>指図</rb><rt>さしず</rt></ruby>や<ruby><rb>取</rb><rt>と</rt></ruby>りしまりなどをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 賞
+  descriptions:
+  - ほめる。たたえる。
+  - ほうび。
+  - <ruby><rb>味</rb><rt>あじ</rt></ruby>わって<ruby><rb>楽</rb><rt>たの</rt></ruby>しむ。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 万引き
+  descriptions:
+  - <ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>物</rb><rt>もの</rt></ruby>をするふりをして、<ruby><rb>店</rb><rt>みせ</rt></ruby>の<ruby><rb>品物</rb><rt>しなもの</rt></ruby>をこっそりぬすむこと。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 勇気
+  descriptions:
+  - <ruby><rb>何事</rb><rt>なにごと</rt></ruby>もおそれない<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>心</rb><rt>こころ</rt></ruby>。
+- word: 希望
+  descriptions:
+  - こうあってほしいと、<ruby><rb>願</rb><rt>ねが</rt></ruby>うこと。<ruby><rb>望</rb><rt>のぞ</rt></ruby>み。
+- word: 仲間
+  descriptions:
+  - いっしょにものごとをする<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>友達</rb><rt>ともだち</rt></ruby>。グループ。
+  - <ruby><rb>種類</rb><rt>しゅるい</rt></ruby>の<ruby><rb>同</rb><rt>おな</rt></ruby>じもの。
+- word: 分ける
+  descriptions:
+  - <ruby><rb>別々</rb><rt>べつべつ</rt></ruby>にする。はなす。
+  - <ruby><rb>配</rb><rt>くば</rt></ruby>る。<ruby><rb>分配</rb><rt>ぶんぱい</rt></ruby>する。
+  - <ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>に、おし<ruby><rb>開</rb><rt>ひら</rt></ruby>く。
+  - <ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>分</rb><rt>わ</rt></ruby>けにする。
+  - <ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てる。
+- word: 候補
+  descriptions:
+  - ある<ruby><rb>地位</rb><rt>ちい</rt></ruby>や、<ruby><rb>役目</rb><rt>やくめ</rt></ruby>につく<ruby><rb>資格</rb><rt>しかく</rt></ruby>のあること。また、<ruby><rb>選</rb><rt>えら</rt></ruby>ばれる<ruby><rb>可能性</rb><rt>かのうせい</rt></ruby>がある<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011445651000/k10011445651000.html
+web_title_with_ruby: <ruby>カンヌ<rt>かんぬ</rt></ruby><ruby>映画祭<rt>えいがさい</rt></ruby>で<ruby>最優秀賞<rt>さいゆうしゅうしょう</rt></ruby>に<ruby>是枝<rt>これえだ</rt></ruby><ruby>裕和<rt>ひろかず</rt></ruby><ruby>監督<rt>かんとく</rt></ruby>の「<ruby>万引<rt>まんび</rt></ruby>き<ruby>家族<rt>かぞく</rt></ruby>」
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/20/カンヌ映画祭で最優秀賞に是枝裕和監督の万引き家族
+related_news:
+- title: アニメーション<ruby>映画<rt>えいが</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>高畑勲<rt>たかはたいさお</rt></ruby>さんが<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/04/06/アニメーション映画で有名な高畑勲さんが亡くなる
+- title: <ruby>大林<rt>おおばやし</rt></ruby><ruby>宣彦<rt>のぶひこ</rt></ruby><ruby>監督<rt>かんとく</rt></ruby>「<ruby>広島<rt>ひろしま</rt></ruby>に<ruby>原爆<rt>げんばく</rt></ruby>が<ruby>落<rt>お</rt></ruby>とされるまでを<ruby>映画<rt>えいが</rt></ruby>にする」
+  url: https://newswebeasy.github.io/news/easy/2018/02/23/大林宣彦監督広島に原爆が落とされるまでを映画にする
+- title: <ruby>日本人<rt>にっぽんじん</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めてアカデミー<ruby>賞<rt>しょう</rt></ruby>のメーキャップの<ruby>賞<rt>しょう</rt></ruby>をもらう
+  url: https://newswebeasy.github.io/news/easy/2018/03/06/日本人が初めてアカデミー賞のメーキャップの賞をもらう
+...

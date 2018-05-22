@@ -1,0 +1,68 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011446801000
+last_modified_at: '2018-05-22T16:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 宮内庁は天皇陛下と皇后さまをかいた絵ができたと発表しました。
+title: 天皇陛下と皇后さまをかいた絵ができる
+title_with_ruby: <ruby>天皇<rt>てんのう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>と<ruby>皇后<rt>こうごう</rt></ruby>さまをかいた<ruby>絵<rt>え</rt></ruby>ができる
+outline: 宮内庁は天皇陛下と皇后さまをかいた絵ができたと発表しました。
+outline_with_ruby: <ruby>宮内庁<rt>くないちょう</rt></ruby>は<ruby>天皇<rt>てんのう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>と<ruby>皇后<rt>こうごう</rt></ruby>さまをかいた<ruby>絵<rt>え</rt></ruby>ができたと<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/21/K10011446801_1805211408_1805211409_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/22/k10011446801000.mp4
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>宮内庁<rt>くないちょう</rt></ruby></span>は<span\
+  \ style=\"color: blue;\"><ruby>天皇<rt>てんのう</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>陛下<rt>へいか</rt></ruby></span>と<span style=\"color: blue;\"><ruby>皇后<rt>こうごう</rt></ruby></span>さまをかいた<ruby>絵<rt>え</rt></ruby>ができたと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<ruby>絵<rt>え</rt></ruby>は<ruby>縦<rt>たて</rt></ruby>と<ruby>横<rt>よこ</rt></ruby>が２ｍの<span\
+  \ style=\"color: blue;\"><ruby>油絵<rt>あぶらえ</rt></ruby></span>です。<ruby>並<rt>なら</rt></ruby>んで<ruby>立<rt>た</rt></ruby>っているお<ruby>２人<rt>ふたり</rt></ruby>がかいてあります。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>天皇<rt>てんのう</rt></ruby></span><span style=\"\
+  color: blue;\"><ruby>陛下<rt>へいか</rt></ruby></span>と<span style=\"color: blue;\"><ruby>皇后<rt>こうごう</rt></ruby></span>さまをかいた<ruby>絵<rt>え</rt></ruby>がなかったため、<span\
+  \ style=\"color: blue;\"><ruby>宮内庁<rt>くないちょう</rt></ruby></span>は２０１３<ruby>年<rt>ねん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>画家<rt>がか</rt></ruby></span>の<ruby>野田<rt>のだ</rt></ruby><ruby>弘志<rt>ひろし</rt></ruby>さんにかいてほしいとお<ruby>願<rt>ねが</rt></ruby>いしました。<ruby>野田<rt>のだ</rt></ruby>さんは８１<ruby>歳<rt>さい</rt></ruby>で、お<ruby>２人<rt>ふたり</rt></ruby>と<ruby>前<rt>まえ</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>交流<rt>こうりゅう</rt></ruby></span>がありました。</p>\n<p><ruby>野田<rt>のだ</rt></ruby>さんは２０１４<ruby>年<rt>ねん</rt></ruby>に<ruby>撮<rt>と</rt></ruby>ったお<ruby>２人<rt>ふたり</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て<ruby>絵<rt>え</rt></ruby>をかきました。お<ruby>２人<rt>ふたり</rt></ruby>に<ruby>会<rt>あ</rt></ruby>ったときのことを<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>しながらかいたと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 天皇
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>象徴</rb><rt>しょうちょう</rt></ruby>としてあおがれている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 陛下
+  descriptions:
+  - <ruby><rb>天皇</rb><rt>てんのう</rt></ruby>や<ruby><rb>皇后</rb><rt>こうごう</rt></ruby>などを<ruby><rb>敬</rb><rt>うやま</rt></ruby>って<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶことば。
+- word: 皇后
+  descriptions:
+  - <ruby><rb>天皇</rb><rt>てんのう</rt></ruby>や<ruby><rb>皇帝</rb><rt>こうてい</rt></ruby>の<ruby><rb>妻</rb><rt>つま</rt></ruby>。きさき。
+- word: 宮内庁
+  descriptions:
+  - <ruby><rb>皇室</rb><rt>こうしつ</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>事務</rb><rt>じむ</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 油絵
+  descriptions:
+  - <ruby><rb>油</rb><rt>あぶら</rt></ruby>でといた<ruby><rb>絵</rb><rt>え</rt></ruby>の<ruby><rb>具</rb><rt>ぐ</rt></ruby>で、<ruby><rb>板</rb><rt>いた</rt></ruby>やキャンバスにかいた<ruby><rb>絵</rb><rt>え</rt></ruby>。
+- word: 画家
+  descriptions:
+  - <ruby><rb>絵</rb><rt>え</rt></ruby>をかくことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>絵</rb><rt>え</rt></ruby>かき。
+- word: 交流
+  descriptions:
+  - たがいに<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>来</rb><rt>き</rt></ruby>すること。<ruby><rb>交</rb><rt>ま</rt></ruby>じり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時間</rb><rt>じかん</rt></ruby>ごとに、<ruby><rb>流</rb><rt>なが</rt></ruby>れの<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>が<ruby><rb>逆</rb><rt>ぎゃく</rt></ruby>になる<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011446801000/k10011446801000.html
+web_title_with_ruby: <ruby>天皇<rt>てんのう</rt></ruby><ruby>皇后<rt>こうごう</rt></ruby><ruby>両陛下<rt>りょうへいか</rt></ruby>
+  <ruby>初<rt>はつ</rt></ruby>の<ruby>肖像画<rt>しょうぞうが</rt></ruby>が<ruby>退位<rt>たいい</rt></ruby>を<ruby>前<rt>まえ</rt></ruby>に<ruby>完成<rt>かんせい</rt></ruby>
+  <ruby>宮内庁<rt>くないちょう</rt></ruby><ruby>公表<rt>こうひょう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/21/天皇皇后両陛下-初の肖像画が退位を前に完成-宮内庁公表
+related_news:
+- title: オークションで<ruby>買<rt>か</rt></ruby>った<ruby>絵<rt>え</rt></ruby>はレンブラントがかいた<ruby>絵<rt>え</rt></ruby>だった
+  url: https://newswebeasy.github.io/news/easy/2018/05/18/オークションで買った絵はレンブラントがかいた絵だった
+- title: <ruby>香港<rt>ほんこん</rt></ruby>　<ruby>香取<rt>かとり</rt></ruby><ruby>慎吾<rt>しんご</rt></ruby>さんが<ruby>壁<rt>かべ</rt></ruby>にかいた<ruby>絵<rt>え</rt></ruby>を<ruby>見<rt>み</rt></ruby>せる
+  url: https://newswebeasy.github.io/news/easy/2018/03/29/香港-香取慎吾さんが壁にかいた絵を見せる
+- title: フランスの<ruby>美術館<rt>びじゅつかん</rt></ruby>　<ruby>半分<rt>はんぶん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>絵<rt>え</rt></ruby>が<ruby>偽物<rt>にせもの</rt></ruby>だったと<ruby>謝<rt>あやま</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/05/02/フランスの美術館-半分以上の絵が偽物だったと謝る
+- title: ニューヨークで<ruby>日本<rt>にっぽん</rt></ruby>にいるような<ruby>写真<rt>しゃしん</rt></ruby>が<ruby>撮<rt>と</rt></ruby>れるイベント
+  url: https://newswebeasy.github.io/news/easy/2018/03/16/ニューヨークで日本にいるような写真が撮れるイベント
+- title: <ruby>漫画<rt>まんが</rt></ruby>「<ruby>鉄腕<rt>てつわん</rt></ruby>アトム」の１ページがオークションで３５００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/05/08/漫画鉄腕アトムの1ページがオークションで3500万円
+...

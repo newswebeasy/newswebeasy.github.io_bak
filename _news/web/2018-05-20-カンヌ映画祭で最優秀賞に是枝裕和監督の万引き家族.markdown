@@ -264,6 +264,10 @@ body:
     data-ruby-level="6">もよう</rt></ruby>を<ruby>描<rt data-ruby-level="7">えが</rt></ruby>く<ruby>監督<rt
     data-ruby-level="7">かんとく</rt></ruby>」と<ruby>紹介<rt data-ruby-level="7">しょうかい</rt></ruby>しています。
 source_url: https://www3.nhk.or.jp/news/html/20180520/k10011445651000.html
+easy_title_with_ruby: <ruby>カンヌ<rt data-ruby-level="6">かんぬ</rt></ruby><ruby>映画祭<rt
+  data-ruby-level="6">えいがさい</rt></ruby> <ruby>是枝<rt data-ruby-level="8">これえだ</rt></ruby><ruby>監督<rt
+  data-ruby-level="7">かんとく</rt></ruby>がいちばんすばらしい<ruby>賞<rt data-ruby-level="4">しょう</rt></ruby>をもらう
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/05/22/カンヌ映画祭-是枝監督がいちばんすばらしい賞をもらう
 related_news:
 - title: <ruby>大林<rt data-ruby-level="1">おおばやし</rt></ruby><ruby>宣彦<rt data-ruby-level="8">のぶひこ</rt></ruby><ruby>監督<rt
     data-ruby-level="7">かんとく</rt></ruby> <ruby>原爆<rt data-ruby-level="7">げんばく</rt></ruby><ruby>投下<rt
@@ -285,4 +289,8 @@ related_news:
     data-ruby-level="7">かんとく</rt></ruby>に<ruby>西野<rt data-ruby-level="2">にしの</rt></ruby><ruby>朗<rt
     data-ruby-level="8">あきら</rt></ruby><ruby>氏<rt data-ruby-level="4">し</rt></ruby>
   url: https://newswebeasy.github.io/news/web/2018/04/09/サッカー日本代表監督に西野朗氏
+- title: アメフト<ruby>問題<rt data-ruby-level="3">もんだい</rt></ruby> <ruby>日大<rt data-ruby-level="1">にちだい</rt></ruby>
+    <ruby>内田<rt data-ruby-level="2">うちだ</rt></ruby><ruby>監督<rt data-ruby-level="7">かんとく</rt></ruby>が<ruby>辞意<rt
+    data-ruby-level="4">じい</rt></ruby><ruby>表明<rt data-ruby-level="3">ひょうめい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/05/19/アメフト問題-日大-内田監督が辞意表明
 ...
