@@ -1,0 +1,67 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011448111000
+last_modified_at: '2018-05-23T16:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: 今月６日、アメリカンフットボールの試合で日本大学の選手が、ボールを持っていない関西学院大学の選手に後ろからタックルをして、けがをさせました。
+title: 反則のタックルをした選手「監督とコーチに言われてやった」
+title_with_ruby: <ruby>反則<rt>はんそく</rt></ruby>のタックルをした<ruby>選手<rt>せんしゅ</rt></ruby>「<ruby>監督<rt>かんとく</rt></ruby>とコーチに<ruby>言<rt>い</rt></ruby>われてやった」
+outline: 今月６日、アメリカンフットボールの試合で日本大学の選手が、ボールを持っていない関西学院大学の選手に後ろからタックルをして、けがをさせました。
+outline_with_ruby: <ruby>今月<rt>こんげつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>、アメリカンフットボールの<ruby>試合<rt>しあい</rt></ruby>で<ruby>日本大学<rt>にほんだいがく</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>が、ボールを<ruby>持<rt>も</rt></ruby>っていない<ruby>関西<rt>かんせい</rt></ruby><ruby>学院<rt>がくいん</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>に<ruby>後<rt>うし</rt></ruby>ろからタックルをして、けがをさせました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/22/K10011448111_1805221941_1805221954_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/23/k10011448111000.mp4
+content_with_ruby: "<p><ruby>今月<rt>こんげつ</rt></ruby><ruby>６日<rt>むいか</rt></ruby>、<span\
+  \ style=\"color: blue;\">アメリカンフットボール</span>の<ruby>試合<rt>しあい</rt></ruby>で<ruby>日本大学<rt>にほんだいがく</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が、ボールを<ruby>持<rt>も</rt></ruby>っていない<ruby>関西<rt>かんせい</rt></ruby><ruby>学院<rt>がくいん</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>に<ruby>後<rt>うし</rt></ruby>ろから<span\
+  \ style=\"color: blue;\">タックル</span>をして、けがをさせました。この<span style=\"color: blue;\"\
+  >タックル</span>は<span style=\"color: blue;\"><ruby>反則<rt>はんそく</rt></ruby></span>になる<ruby>危険<rt>きけん</rt></ruby>な<span\
+  \ style=\"color: blue;\">タックル</span>でした。</p>\n<p>２２<ruby>日<rt>にち</rt></ruby>、<span\
+  \ style=\"color: blue;\">タックル</span>をした<span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>大勢<rt>おおぜい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>記者<rt>きしゃ</rt></ruby></span>の<ruby>前<rt>まえ</rt></ruby>でどうして<span\
+  \ style=\"color: blue;\"><ruby>反則<rt>はんそく</rt></ruby></span>をしたか<ruby>説明<rt>せつめい</rt></ruby>しました。この<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>試合<rt>しあい</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>監督<rt>かんとく</rt></ruby></span>と<span style=\"color:\
+  \ blue;\">コーチ</span>に<span style=\"color: blue;\"><ruby>反則<rt>はんそく</rt></ruby></span>をするように<ruby>言<rt>い</rt></ruby>われたと<ruby>話<rt>はな</rt></ruby>しました。そして、「<ruby>正<rt>ただ</rt></ruby>しいことかどうか<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>えなければならなかったと<ruby>思<rt>おも</rt></ruby>います」と<ruby>言<rt>い</rt></ruby>って、けがをした<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>に<ruby>謝<rt>あやま</rt></ruby>りました。</p>\n\
+  <p>けがをした<span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>警察<rt>けいさつ</rt></ruby>にこの<ruby>問題<rt>もんだい</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べてほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 反則
+  descriptions:
+  - <ruby><rb>規則</rb><rt>きそく</rt></ruby>、<ruby><rb>特</rb><rt>とく</rt></ruby>にスポーツのルールを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。
+- word: タックル
+  descriptions:
+  - ラグビーなどで、ボールを<ruby><rb>持</rb><rt>も</rt></ruby>っている<ruby><rb>相手</rb><rt>あいて</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>にとびついて、じゃまをすること。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 監督
+  descriptions:
+  - <ruby><rb>指図</rb><rt>さしず</rt></ruby>や<ruby><rb>取</rb><rt>と</rt></ruby>りしまりなどをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: コーチ
+  descriptions:
+  - スポーツで、そのやり<ruby><rb>方</rb><rt>かた</rt></ruby>などを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: アメリカンフットボール
+  descriptions:
+  - ラグビーとサッカーをもとにして、アメリカで<ruby><rb>考</rb><rt>かんが</rt></ruby>えられた<ruby><rb>球技</rb><rt>きゅうぎ</rt></ruby>。１チーム１１<ruby><rb>人</rb><rt>にん</rt></ruby>が、<ruby><rb>楕円形</rb><rt>だえんけい</rt></ruby>のボールを<ruby><rb>持</rb><rt>も</rt></ruby>ったり、<ruby><rb>投</rb><rt>な</rt></ruby>げたり、けったりして<ruby><rb>敵</rb><rt>てき</rt></ruby>の<ruby><rb>陣地</rb><rt>じんち</rt></ruby>に<ruby><rb>持</rb><rt>も</rt></ruby>ちこみ<ruby><rb>得点</rb><rt>とくてん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。
+- word: 記者
+  descriptions:
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011448111000/k10011448111000.html
+web_title_with_ruby: <ruby>アメフト<rt>あめふと</rt></ruby> <ruby>日大<rt>にちだい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>「<ruby>監督<rt>かんとく</rt></ruby>や<ruby>コーチ<rt>こーち</rt></ruby>から<ruby>指示<rt>しじ</rt></ruby>」<ruby>明言<rt>めいげん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/22/アメフト-日大選手監督やコーチから指示明言
+related_news:
+- title: <ruby>大学<rt>だいがく</rt></ruby>のアメリカンフットボールの<ruby>試合<rt>しあい</rt></ruby>で<ruby>危険<rt>きけん</rt></ruby>なタックル
+  url: https://newswebeasy.github.io/news/easy/2018/05/15/大学のアメリカンフットボールの試合で危険なタックル
+- title: <ruby>危険<rt>きけん</rt></ruby>なタックルの<ruby>問題<rt>もんだい</rt></ruby>　<ruby>日本大学<rt>にほんだいがく</rt></ruby>の<ruby>監督<rt>かんとく</rt></ruby>が「<ruby>辞<rt>や</rt></ruby>める」
+  url: https://newswebeasy.github.io/news/easy/2018/05/21/危険なタックルの問題-日本大学の監督が辞める
+- title: テニスの<ruby>大坂<rt>おおさか</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>国際<rt>こくさい</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>で<ruby>優勝<rt>ゆうしょう</rt></ruby>　<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>女子<rt>じょし</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて
+  url: https://newswebeasy.github.io/news/easy/2018/03/19/テニスの大坂選手が国際大会で優勝-日本の女子で初めて
+- title: <ruby>野球<rt>やきゅう</rt></ruby>の<ruby>大谷<rt>おおたに</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がアメリカで<ruby>初<rt>はじ</rt></ruby>めての<ruby>試合<rt>しあい</rt></ruby>で２<ruby>点<rt>てん</rt></ruby><ruby>取<rt>と</rt></ruby>られる
+  url: https://newswebeasy.github.io/news/easy/2018/02/26/野球の大谷選手がアメリカで初めての試合で2点取られる
+- title: パラリンピック　<ruby>村岡桃佳<rt>むらおかももか</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がスキーの<ruby>大回転<rt>だいかいてん</rt></ruby>で<ruby>金<rt>きん</rt></ruby>メダル
+  url: https://newswebeasy.github.io/news/easy/2018/03/15/パラリンピック-村岡桃佳選手がスキーの大回転で金メダル
+...

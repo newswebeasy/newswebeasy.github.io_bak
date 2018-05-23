@@ -1,0 +1,75 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011448311000
+last_modified_at: '2018-05-23T16:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: 来年の秋、茨城県で都道府県の代表が試合をするスポーツの大会があります。
+title: 茨城県がコンピューターゲームの大会を来年開く
+title_with_ruby: <ruby>茨城県<rt>いばらきけん</rt></ruby>がコンピューターゲームの<ruby>大会<rt>たいかい</rt></ruby>を<ruby>来年<rt>らいねん</rt></ruby><ruby>開<rt>ひら</rt></ruby>く
+outline: 来年の秋、茨城県で都道府県の代表が試合をするスポーツの大会があります。
+outline_with_ruby: <ruby>来年<rt>らいねん</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>、<ruby>茨城県<rt>いばらきけん</rt></ruby>で<ruby>都道府県<rt>とどうふけん</rt></ruby>の<ruby>代表<rt>だいひょう</rt></ruby>が<ruby>試合<rt>しあい</rt></ruby>をするスポーツの<ruby>大会<rt>たいかい</rt></ruby>があります。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/22/K10011448311_1805221823_1805221850_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/23/k10011448311000.mp4
+content_with_ruby: "<p><ruby>来年<rt>らいねん</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>、<ruby>茨城県<rt>いばらきけん</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span>の<span style=\"\
+  color: blue;\"><ruby>代表<rt>だいひょう</rt></ruby></span>が<ruby>試合<rt>しあい</rt></ruby>をするスポーツの<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>があります。<ruby>茨城県<rt>いばらきけん</rt></ruby>は、この<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>と<ruby>同<rt>おな</rt></ruby>じときに「ｅスポーツ」の<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>も<ruby>開<rt>ひら</rt></ruby>くと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。「ｅスポーツ」は、スポーツの<ruby>試合<rt>しあい</rt></ruby>のようにコンピューター<span\
+  \ style=\"color: blue;\">ゲーム</span>で<span style=\"color: blue;\"><ruby>戦<rt>たたか</rt></ruby>う</span>ことで、アメリカや<ruby>韓国<rt>かんこく</rt></ruby>などで<ruby>盛<rt>さか</rt></ruby>んです。</p>\n\
+  <p><ruby>茨城県<rt>いばらきけん</rt></ruby>によると、<ruby>来年<rt>らいねん</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>から７<ruby>月<rt>がつ</rt></ruby>まで<span\
+  \ style=\"color: blue;\">それぞれ</span>の<span style=\"color: blue;\"><ruby>都道府県<rt>とどうふけん</rt></ruby></span>で<ruby>試合<rt>しあい</rt></ruby>をして<span\
+  \ style=\"color: blue;\"><ruby>代表<rt>だいひょう</rt></ruby></span>を<ruby>決<rt>き</rt></ruby>めます。そして、<span\
+  \ style=\"color: blue;\"><ruby>代表<rt>だいひょう</rt></ruby></span>になった３００<ruby>人<rt>にん</rt></ruby>ぐらいが<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>に<ruby>出<rt>で</rt></ruby>ます。</p>\n\
+  <p><ruby>茨城県<rt>いばらきけん</rt></ruby>の<span style=\"color: blue;\"><ruby>知事<rt>ちじ</rt></ruby></span>は「『ｅスポーツ』は、<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>もお<span\
+  \ style=\"color: blue;\"><ruby>年寄<rt>としよ</rt></ruby>り</span>も<ruby>男性<rt>だんせい</rt></ruby>も<ruby>女性<rt>じょせい</rt></ruby>も<ruby>楽<rt>たの</rt></ruby>しむことができます」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ゲーム
+  descriptions:
+  - <ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>遊</rb><rt>あそ</rt></ruby>び。
+  - <ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: 大会
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+  - ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: 都道府県
+  descriptions:
+  - <ruby><rb>全国</rb><rt>ぜんこく</rt></ruby>を４７に<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>区画</rb><rt>くかく</rt></ruby>。<ruby><rb>東京都</rb><rt>とうきょうと</rt></ruby>・<ruby><rb>北海道</rb><rt>ほっかいどう</rt></ruby>・<ruby><rb>大阪府</rb><rt>おおさかふ</rt></ruby>・<ruby><rb>京都府</rb><rt>きょうとふ</rt></ruby>と、４３の<ruby><rb>県</rb><rt>けん</rt></ruby>。
+- word: 代表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって<ruby><rb>何</rb><rt>なに</rt></ruby>かをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>で<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>特色</rb><rt>とくしょく</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、そのもの。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 戦う
+  descriptions:
+  - <ruby><rb>戦争</rb><rt>せんそう</rt></ruby>をする。
+  - わざを<ruby><rb>比</rb><rt>くら</rt></ruby>べて、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める。
+- word: それぞれ
+  descriptions:
+  - めいめい。おのおの。
+- word: 知事
+  descriptions:
+  - <ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 年寄り
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。
+  - <ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011448311000/k10011448311000.html
+web_title_with_ruby: <ruby>コンピューター<rt>こんぴゅーたー</rt></ruby><ruby>ゲーム<rt>げーむ</rt></ruby>
+  “<ruby>競技<rt>きょうぎ</rt></ruby>” 「ｅ<ruby>スポーツ<rt>すぽーつ</rt></ruby>」<ruby>全国大会<rt>ぜんこくたいかい</rt></ruby><ruby>開催<rt>かいさい</rt></ruby>へ
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/22/コンピューターゲーム-競技-eスポーツ全国大会開催へ
+related_news:
+- title: テニスの<ruby>大坂<rt>おおさか</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>国際<rt>こくさい</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>で<ruby>優勝<rt>ゆうしょう</rt></ruby>　<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>女子<rt>じょし</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて
+  url: https://newswebeasy.github.io/news/easy/2018/03/19/テニスの大坂選手が国際大会で優勝-日本の女子で初めて
+- title: <ruby>川内<rt>かわうち</rt></ruby><ruby>優輝<rt>ゆうき</rt></ruby>さんが<ruby>公務員<rt>こうむいん</rt></ruby>をやめてプロのマラソン<ruby>選手<rt>せんしゅ</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/04/20/川内優輝さんが公務員をやめてプロのマラソン選手になる
+- title: <ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>福島町<rt>ふくしまちょう</rt></ruby>が<ruby>今年<rt>ことし</rt></ruby>も<ruby>女性<rt>じょせい</rt></ruby>の<ruby>相撲<rt>すもう</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/05/14/北海道福島町が今年も女性の相撲大会を開く
+...

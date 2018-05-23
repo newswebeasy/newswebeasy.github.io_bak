@@ -1,0 +1,64 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011447191000
+last_modified_at: '2018-05-23T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>23<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 太平洋のクロマグロが少なくなったため、日本など世界の国は、小さなクロマグロを取る量を今までの半分ぐらいにしています。
+title: 太平洋のクロマグロは少しずつ増えている
+title_with_ruby: <ruby>太平洋<rt>たいへいよう</rt></ruby>のクロマグロは<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>増<rt>ふ</rt></ruby>えている
+outline: 太平洋のクロマグロが少なくなったため、日本など世界の国は、小さなクロマグロを取る量を今までの半分ぐらいにしています。
+outline_with_ruby: <ruby>太平洋<rt>たいへいよう</rt></ruby>のクロマグロが<ruby>少<rt>すく</rt></ruby>なくなったため、<ruby>日本<rt>にっぽん</rt></ruby>など<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>は、<ruby>小<rt>ちい</rt></ruby>さなクロマグロを<ruby>取<rt>と</rt></ruby>る<ruby>量<rt>りょう</rt></ruby>を<ruby>今<rt>いま</rt></ruby>までの<ruby>半分<rt>はんぶん</rt></ruby>ぐらいにしています。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/21/K10011447191_1805211958_1805212005_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/23/k10011447191000.mp4
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>太平洋<rt>たいへいよう</rt></ruby></span>の<span\
+  \ style=\"color: blue;\">クロマグロ</span>が<ruby>少<rt>すく</rt></ruby>なくなったため、<ruby>日本<rt>にっぽん</rt></ruby>など<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>は、<ruby>小<rt>ちい</rt></ruby>さな<span\
+  \ style=\"color: blue;\">クロマグロ</span>を<ruby>取<rt>と</rt></ruby>る<span style=\"color:\
+  \ blue;\"><ruby>量<rt>りょう</rt></ruby></span>を<ruby>今<rt>いま</rt></ruby>までの<ruby>半分<rt>はんぶん</rt></ruby>ぐらいにしています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>太平洋<rt>たいへいよう</rt></ruby></span>の<span style=\"\
+  color: blue;\">クロマグロ</span>を<ruby>調<rt>しら</rt></ruby>べている<span style=\"color: blue;\"\
+  ><ruby>団体<rt>だんたい</rt></ruby></span>によると、２０１０<ruby>年<rt>ねん</rt></ruby>には<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\">クロマグロ</span>が１<ruby>万<rt>まん</rt></ruby>２０００ｔぐらいいました。そのあと<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>増<rt>ふ</rt></ruby>えて、２０１６<ruby>年<rt>ねん</rt></ruby>には２<ruby>万<rt>まん</rt></ruby>１０００ｔぐらいになりました。</p>\n\
+  <p><ruby>去年<rt>きょねん</rt></ruby>、<span style=\"color: blue;\"><ruby>太平洋<rt>たいへいよう</rt></ruby></span>で<span\
+  \ style=\"color: blue;\">クロマグロ</span>を<ruby>取<rt>と</rt></ruby>っている<ruby>国<rt>くに</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まる<ruby>会議<rt>かいぎ</rt></ruby>で、<span\
+  \ style=\"color: blue;\">クロマグロ</span>が<ruby>増<rt>ふ</rt></ruby>えたら、<ruby>取<rt>と</rt></ruby>る<span\
+  \ style=\"color: blue;\"><ruby>量<rt>りょう</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>増<rt>ふ</rt></ruby>やす</span>ことができると<ruby>決<rt>き</rt></ruby>まりました。このため、<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>取<rt>と</rt></ruby>ることができる<span\
+  \ style=\"color: blue;\">クロマグロ</span>が<ruby>増<rt>ふ</rt></ruby>えるかもしれません。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 太平洋
+  descriptions:
+  - アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。
+- word: 鮪
+  descriptions:
+  - <ruby><rb>暖</rb><rt>あたた</rt></ruby>かな<ruby><rb>海</rb><rt>うみ</rt></ruby>を<ruby><rb>回遊</rb><rt>かいゆう</rt></ruby>する<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>魚</rb><rt>さかな</rt></ruby>。メバチ・キハダマグロ・クロマグロなどがいる。さし<ruby><rb>身</rb><rt>み</rt></ruby>やすしにして<ruby><rb>食</rb><rt>た</rt></ruby>べる。
+- word: 量
+  descriptions:
+  - かさ。ますめ。
+  - ものをはかる。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>広</rb><rt>ひろ</rt></ruby>さ。<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさ。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011447191000/k10011447191000.html
+web_title_with_ruby: <ruby>太平洋<rt>たいへいよう</rt></ruby><ruby>クロマグロ<rt>くろまぐろ</rt></ruby>の<ruby>資源<rt>しげん</rt></ruby><ruby>量<rt>りょう</rt></ruby><ruby>回復<rt>かいふく</rt></ruby>
+  <ruby>漁獲枠<rt>ぎょかくわく</rt></ruby><ruby>増加<rt>ぞうか</rt></ruby>の<ruby>可能性<rt>かのうせい</rt></ruby>も
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/21/太平洋クロマグロの資源量回復-漁獲枠増加の可能性も
+related_news:
+- title: ピョンチャンパラリンピックが<ruby>終<rt>お</rt></ruby>わって<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/03/20/ピョンチャンパラリンピックが終わって選手が日本に戻る
+- title: オリンピックの<ruby>選手<rt>せんしゅ</rt></ruby>たちがファンに<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>伝<rt>つた</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2018/02/28/オリンピックの選手たちがファンに感謝の気持ちを伝える
+- title: <ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>外国人<rt>がいこくじん</rt></ruby>は２５６<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>　<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2018/03/28/日本に住んでいる外国人は256万人-今までで最も多い
+- title: ＴＰＰに<ruby>日本<rt>にっぽん</rt></ruby>など１１の<ruby>国<rt>くに</rt></ruby>がサインをする
+  url: https://newswebeasy.github.io/news/easy/2018/03/09/TPPに日本など11の国がサインをする
+- title: パラリンピック　<ruby>村岡桃佳<rt>むらおかももか</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がスキーの<ruby>大回転<rt>だいかいてん</rt></ruby>で<ruby>金<rt>きん</rt></ruby>メダル
+  url: https://newswebeasy.github.io/news/easy/2018/03/15/パラリンピック-村岡桃佳選手がスキーの大回転で金メダル
+...
