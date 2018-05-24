@@ -1,0 +1,73 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011448971000
+last_modified_at: '2018-05-24T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 徳島大学は虫のコオロギを使ってパンを作る研究をしています。
+title: 徳島大学が虫のコオロギを使ってパンを作る
+title_with_ruby: <ruby>徳島大学<rt>とくしまだいがく</rt></ruby>が<ruby>虫<rt>むし</rt></ruby>のコオロギを<ruby>使<rt>つか</rt></ruby>ってパンを<ruby>作<rt>つく</rt></ruby>る
+outline: 徳島大学は虫のコオロギを使ってパンを作る研究をしています。
+outline_with_ruby: <ruby>徳島大学<rt>とくしまだいがく</rt></ruby>は<ruby>虫<rt>むし</rt></ruby>のコオロギを<ruby>使<rt>つか</rt></ruby>ってパンを<ruby>作<rt>つく</rt></ruby>る<ruby>研究<rt>けんきゅう</rt></ruby>をしています。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/23/K10011448971_1805231038_1805231056_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/24/k10011448971000.mp4
+content_with_ruby: "<p><ruby>徳島大学<rt>とくしまだいがく</rt></ruby>は<ruby>虫<rt>むし</rt></ruby>の<span\
+  \ style=\"color: blue;\">コオロギ</span>を<ruby>使<rt>つか</rt></ruby>ってパンを<ruby>作<rt>つく</rt></ruby>る<ruby>研究<rt>けんきゅう</rt></ruby>をしています。<ruby>研究<rt>けんきゅう</rt></ruby>では、<ruby>沖縄<rt>おきなわ</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>東南<rt>とうなん</rt></ruby>アジア</span>にいる<ruby>体<rt>からだ</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きい<span\
+  \ style=\"color: blue;\">コオロギ</span>を<ruby>使<rt>つか</rt></ruby>います。<span style=\"\
+  color: blue;\"><ruby>凍<rt>こお</rt></ruby>ら</span>せてから<span style=\"color: blue;\"\
+  ><ruby>乾<rt>かわ</rt></ruby>かし</span>た<span style=\"color: blue;\">コオロギ</span>を<span\
+  \ style=\"color: blue;\"><ruby>粉<rt>こな</rt></ruby></span>にして、<span style=\"color:\
+  \ blue;\"><ruby>小麦粉<rt>こむぎこ</rt></ruby></span>と<ruby>米<rt>こめ</rt></ruby>の<span style=\"\
+  color: blue;\"><ruby>粉<rt>こな</rt></ruby></span>に<ruby>入<rt>い</rt></ruby>れてパンを<ruby>作<rt>つく</rt></ruby>ります。</p>\n\
+  <p><ruby>大学<rt>だいがく</rt></ruby>は<span style=\"color: blue;\">コオロギ</span>の<span style=\"\
+  color: blue;\"><ruby>粉<rt>こな</rt></ruby></span>の<span style=\"color: blue;\"><ruby>量<rt>りょう</rt></ruby></span>を<ruby>変<rt>か</rt></ruby>えたパンを４<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span><ruby>作<rt>つく</rt></ruby>って、<ruby>味<rt>あじ</rt></ruby>やにおいを<ruby>比<rt>くら</rt></ruby>べてもらう<ruby>会<rt>かい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>きました。<ruby>食<rt>た</rt></ruby>べた<ruby>人<rt>ひと</rt></ruby>は「<ruby>普通<rt>ふつう</rt></ruby>のパンとあまり<ruby>変<rt>か</rt></ruby>わらなくて、おいしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>大学<rt>だいがく</rt></ruby>は<span style=\"color: blue;\">コオロギ</span>は<span style=\"\
+  color: blue;\">たんぱく<ruby>質<rt>しつ</rt></ruby></span>などの<span style=\"color: blue;\"\
+  ><ruby>栄養<rt>えいよう</rt></ruby></span>が<ruby>多<rt>おお</rt></ruby>いと<ruby>言<rt>い</rt></ruby>っています。<ruby>将来<rt>しょうらい</rt></ruby>、<ruby>世界<rt>せかい</rt></ruby>で<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなったときに<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つようにしたいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: こおろぎ
+  descriptions:
+  - <ruby><rb>夏</rb><rt>なつ</rt></ruby>から<ruby><rb>秋</rb><rt>あき</rt></ruby>にかけて<ruby><rb>草</rb><rt>くさ</rt></ruby>むらなどにすむ<ruby><rb>昆虫</rb><rt>こんちゅう</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>は、<ruby><rb>多</rb><rt>おお</rt></ruby>くこげ<ruby><rb>茶色</rb><rt>ちゃいろ</rt></ruby>でつやがある。<ruby><rb>雄</rb><rt>おす</rt></ruby>は<ruby><rb>羽</rb><rt>はね</rt></ruby>をすり<ruby><rb>合</rb><rt>あ</rt></ruby>わせてよく<ruby><rb>鳴</rb><rt>な</rt></ruby>く。エンマコオロギなど、<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: 東南アジア
+  descriptions:
+  - アジアの<ruby><rb>南東部</rb><rt>なんとうぶ</rt></ruby>。ベトナム・ラオス・カンボジア・マレーシア・タイ・ミャンマー・インドネシア・フィリピンなどの<ruby><rb>国</rb><rt>くに</rt></ruby>がある。
+- word: 凍る
+  descriptions:
+  - <ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。
+- word: 乾かす
+  descriptions:
+  - <ruby><rb>日光</rb><rt>にっこう</rt></ruby>や<ruby><rb>風</rb><rt>かぜ</rt></ruby>に<ruby><rb>当</rb><rt>あ</rt></ruby>てて、しめり<ruby><rb>気</rb><rt>け</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。<ruby><rb>干</rb><rt>ほ</rt></ruby>す。
+- word: 粉
+  descriptions:
+  - （<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>などを）<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>細</rb><rt>こま</rt></ruby>かにくだいたもの。<ruby><rb>粉末</rb><rt>ふんまつ</rt></ruby>。
+- word: 小麦粉
+  descriptions:
+  - <ruby><rb>小麦</rb><rt>こむぎ</rt></ruby>の<ruby><rb>実</rb><rt>み</rt></ruby>をひいて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>粉</rb><rt>こな</rt></ruby>。うどん・パン・<ruby><rb>菓子</rb><rt>かし</rt></ruby>などに<ruby><rb>加工</rb><rt>かこう</rt></ruby>する。うどん<ruby><rb>粉</rb><rt>こ</rt></ruby>。メリケン<ruby><rb>粉</rb><rt>こ</rt></ruby>。
+- word: 量
+  descriptions:
+  - かさ。ますめ。
+  - ものをはかる。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>広</rb><rt>ひろ</rt></ruby>さ。<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさ。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: たんぱく質
+  descriptions:
+  - <ruby><rb>動植物</rb><rt>どうしょくぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている<ruby><rb>栄養</rb><rt>えいよう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>肉</rb><rt>にく</rt></ruby>・ミルク・<ruby><rb>豆</rb><rt>まめ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>の<ruby><rb>白身</rb><rt>しろみ</rt></ruby>などに<ruby><rb>多</rb><rt>おお</rt></ruby>くふくまれている。
+- word: 栄養
+  descriptions:
+  - それをとることにより、<ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきを<ruby><rb>保</rb><rt>たも</rt></ruby>ったり、<ruby><rb>成長</rb><rt>せいちょう</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けたりする<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011448971000/k10011448971000.html
+web_title_with_ruby: <ruby>コオロギ<rt>こおろぎ</rt></ruby><ruby>パン<rt>ぱん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べてみた
+  <ruby>徳島<rt>とくしま</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/23/コオロギパンを食べてみた-徳島
+related_news:
+- title: フランス　３Ｄプリンターを<ruby>使<rt>つか</rt></ruby>って<ruby>家<rt>いえ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/04/12/フランス-3Dプリンターを使って家を作る
+- title: ５<ruby>月<rt>がつ</rt></ruby>からチーズと<ruby>納豆<rt>なっとう</rt></ruby>とパンの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/05/02/5月からチーズと納豆とパンの値段が高くなる
+...

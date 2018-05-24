@@ -1,0 +1,79 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011449521000
+last_modified_at: '2018-05-24T17:15:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>15<ruby>分<rt>ふん</rt></ruby>
+description: スペインの有名なサッカーの選手、アンドレス・イニエスタ選手が日本の「ヴィッセル神戸」というチームに入ることが決まりました。
+title: サッカー　スペインのイニエスタ選手が日本のチームに入る
+title_with_ruby: サッカー　スペインのイニエスタ<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>のチームに<ruby>入<rt>はい</rt></ruby>る
+outline: スペインの有名なサッカーの選手、アンドレス・イニエスタ選手が日本の「ヴィッセル神戸」というチームに入ることが決まりました。
+outline_with_ruby: スペインの<ruby>有名<rt>ゆうめい</rt></ruby>なサッカーの<ruby>選手<rt>せんしゅ</rt></ruby>、アンドレス・イニエスタ<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>の「ヴィッセル<ruby>神戸<rt>こうべ</rt></ruby>」というチームに<ruby>入<rt>はい</rt></ruby>ることが<ruby>決<rt>き</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/23/K10011449521_1805231703_1805231708_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/24/k10011449521000.mp4
+content_with_ruby: "<p>スペインの<ruby>有名<rt>ゆうめい</rt></ruby>な<span style=\"color: blue;\"\
+  >サッカー</span>の<span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>、アンドレス・イニエスタ<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>日本<rt>にっぽん</rt></ruby>の「ヴィッセル<ruby>神戸<rt>こうべ</rt></ruby>」という<span\
+  \ style=\"color: blue;\">チーム</span>に<ruby>入<rt>はい</rt></ruby>ることが<ruby>決<rt>き</rt></ruby>まりました。</p>\n\
+  <p>イニエスタ<span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は３４<ruby>歳<rt>さい</rt></ruby>で、<ruby>今<rt>いま</rt></ruby>までスペインの「バルセロナ」という<span\
+  \ style=\"color: blue;\">チーム</span>にいました。<span style=\"color: blue;\">ドリブル</span>や<span\
+  \ style=\"color: blue;\">パス</span>などの<ruby>技術<rt>ぎじゅつ</rt></ruby>がとても<ruby>高<rt>たか</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>です。<span style=\"color:\
+  \ blue;\">ワールドカップ</span>には３<ruby>回<rt>かい</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>出<rt>で</rt></ruby>ました。２０１０<ruby>年<rt>ねん</rt></ruby>の<span\
+  \ style=\"color: blue;\">ワールドカップ</span>では、イニエスタ<span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>点<rt>てん</rt></ruby>を<ruby>取<rt>と</rt></ruby>って、スペインが<ruby>初<rt>はじ</rt></ruby>めて<span\
+  \ style=\"color: blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。</p>\n<p>イニエスタ<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が「バルセロナ」をやめると<ruby>言<rt>い</rt></ruby>ったあと、<ruby>次<rt>つぎ</rt></ruby>にどの<span\
+  \ style=\"color: blue;\">チーム</span>に<ruby>入<rt>はい</rt></ruby>るか、<ruby>世界中<rt>せかいじゅう</rt></ruby>の<span\
+  \ style=\"color: blue;\">ファン</span>が<ruby>興味<rt>きょうみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていました。イニエスタ<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>が<ruby>入<rt>はい</rt></ruby>る「ヴィッセル<ruby>神戸<rt>こうべ</rt></ruby>」には、<span\
+  \ style=\"color: blue;\">ワールドカップ</span>で<span style=\"color: blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>したことがあるドイツのルーカス・ポドルスキ<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>もいます。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: サッカー
+  descriptions:
+  - １１<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの<ruby><rb>２</rb><rt>に</rt></ruby>チームが、<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>わずに、ボールを<ruby><rb>相手</rb><rt>あいて</rt></ruby>のゴールにけりこんで<ruby><rb>得点</rb><rt>とくてん</rt></ruby>をきそう<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。フットボール。
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: ドリブル
+  descriptions:
+  - サッカーやラグビーで、ボールをけりながら、<ruby><rb>進</rb><rt>すす</rt></ruby>むこと。
+  - バスケットボールやハンドボールで、ボールを<ruby><rb>手</rb><rt>て</rt></ruby>でつきながら<ruby><rb>進</rb><rt>すす</rt></ruby>むこと。
+  - バレーボールで、<ruby><rb>一人</rb><rt>ひとり</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>がボールに、<ruby><rb>続</rb><rt>つづ</rt></ruby>けて<ruby><rb>二度</rb><rt>にど</rt></ruby>ふれる<ruby><rb>反則</rb><rt>はんそく</rt></ruby>。
+- word: パス
+  descriptions:
+  - <ruby><rb>試験</rb><rt>しけん</rt></ruby>などに<ruby><rb>合格</rb><rt>ごうかく</rt></ruby>すること。
+  - <ruby><rb>順番</rb><rt>じゅんばん</rt></ruby>をぬかすこと。
+  - <ruby><rb>球技</rb><rt>きゅうぎ</rt></ruby>などで、ボールを<ruby><rb>味方</rb><rt>みかた</rt></ruby>に<ruby><rb>送</rb><rt>おく</rt></ruby>ること。
+  - <ruby><rb>定期券</rb><rt>ていきけん</rt></ruby>。
+- word: ワールドカップ
+  descriptions:
+  - スポーツ<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>の<ruby><rb>世界選手権大会</rb><rt>せかいせんしゅけんたいかい</rt></ruby>の<ruby><rb>優勝者</rb><rt>ゆうしょうしゃ</rt></ruby>にあたえられるカップ。また、そのカップを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>W杯</rb><rt>ダブリューはい</rt></ruby>。
+- word: 優勝
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>などで、<ruby><rb>一位</rb><rt>いちい</rt></ruby>で<ruby><rb>勝</rb><rt>か</rt></ruby>つこと。
+- word: ファン
+  descriptions:
+  - スポーツや<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>演劇</rb><rt>えんげき</rt></ruby>などが、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>に<ruby><rb>好</rb><rt>す</rt></ruby>きな<ruby><rb>人</rb><rt>ひと</rt></ruby>。または、ある<ruby><rb>俳優</rb><rt>はいゆう</rt></ruby>や、<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>などを<ruby><rb>熱心</rb><rt>ねっしん</rt></ruby>に<ruby><rb>応援</rb><rt>おうえん</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。フアン。
+  - <ruby><rb>扇風機</rb><rt>せんぷうき</rt></ruby>。<ruby><rb>送風機</rb><rt>そうふうき</rt></ruby>。<ruby><rb>換気扇</rb><rt>かんきせん</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011449521000/k10011449521000.html
+web_title_with_ruby: <ruby>サッカー<rt>さっかー</rt></ruby><ruby>スペイン<rt>すぺいん</rt></ruby><ruby>代表<rt>だいひょう</rt></ruby>
+  <ruby>イニエスタ<rt>いにえすた</rt></ruby> Ｊ１<ruby>神戸<rt>こうべ</rt></ruby>に<ruby>移籍<rt>いせき</rt></ruby>へ
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/23/サッカースペイン代表-イニエスタ-J1神戸に移籍へ
+related_news:
+- title: <ruby>高梨<rt>たかなし</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がワールドカップで<ruby>優勝<rt>ゆうしょう</rt></ruby>　いちばん<ruby>多<rt>おお</rt></ruby>い<ruby>記録<rt>きろく</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/03/26/高梨選手がワールドカップで優勝-いちばん多い記録になる
+- title: テニスの<ruby>大坂<rt>おおさか</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>国際<rt>こくさい</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>で<ruby>優勝<rt>ゆうしょう</rt></ruby>　<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>女子<rt>じょし</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて
+  url: https://newswebeasy.github.io/news/easy/2018/03/19/テニスの大坂選手が国際大会で優勝-日本の女子で初めて
+- title: アメリカのボストンマラソンで<ruby>川内<rt>かわうち</rt></ruby><ruby>優輝<rt>ゆうき</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/17/アメリカのボストンマラソンで川内優輝選手が優勝
+- title: オリンピックの<ruby>選手<rt>せんしゅ</rt></ruby>たちがファンに<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>伝<rt>つた</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2018/02/28/オリンピックの選手たちがファンに感謝の気持ちを伝える
+- title: パラリンピック　<ruby>村岡桃佳<rt>むらおかももか</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がスキーの<ruby>大回転<rt>だいかいてん</rt></ruby>で<ruby>金<rt>きん</rt></ruby>メダル
+  url: https://newswebeasy.github.io/news/easy/2018/03/15/パラリンピック-村岡桃佳選手がスキーの大回転で金メダル
+...

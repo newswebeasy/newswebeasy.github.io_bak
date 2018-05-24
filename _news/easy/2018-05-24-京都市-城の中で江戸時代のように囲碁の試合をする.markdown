@@ -1,0 +1,66 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011449221000
+last_modified_at: '2018-05-24T17:15:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>24<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>15<ruby>分<rt>ふん</rt></ruby>
+description: 京都市にある二条城という世界遺産の城で２３日、囲碁の試合がありました。
+title: 京都市　城の中で江戸時代のように囲碁の試合をする
+title_with_ruby: <ruby>京都市<rt>きょうとし</rt></ruby>　<ruby>城<rt>しろ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>江戸時代<rt>えどじだい</rt></ruby>のように<ruby>囲碁<rt>いご</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>をする
+outline: 京都市にある二条城という世界遺産の城で２３日、囲碁の試合がありました。
+outline_with_ruby: <ruby>京都市<rt>きょうとし</rt></ruby>にある<ruby>二条城<rt>にじょうじょう</rt></ruby>という<ruby>世界遺産<rt>せかいいさん</rt></ruby>の<ruby>城<rt>しろ</rt></ruby>で２３<ruby>日<rt>にち</rt></ruby>、<ruby>囲碁<rt>いご</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/23/K10011449221_1805231226_1805231228_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/24/k10011449221000.mp4
+content_with_ruby: "<p><ruby>京都市<rt>きょうとし</rt></ruby>にある<ruby>二条城<rt>にじょうじょう</rt></ruby>という<span\
+  \ style=\"color: blue;\"><ruby>世界遺産<rt>せかいいさん</rt></ruby></span>の<span style=\"\
+  color: blue;\"><ruby>城<rt>しろ</rt></ruby></span>で２３<ruby>日<rt>にち</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>囲碁<rt>いご</rt></ruby></span>の<ruby>試合<rt>しあい</rt></ruby>がありました。<ruby>井山裕太<rt>いやまゆうた</rt></ruby>さんと<ruby>山下<rt>やました</rt></ruby><ruby>敬吾<rt>けいご</rt></ruby>さんが「<ruby>本因坊<rt>ほんいんぼう</rt></ruby>」という<span\
+  \ style=\"color: blue;\">タイトル</span>を<ruby>取<rt>と</rt></ruby>るために<ruby>試合<rt>しあい</rt></ruby>をしました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>江戸時代<rt>えどじだい</rt></ruby></span>、<span style=\"\
+  color: blue;\"><ruby>将軍<rt>しょうぐん</rt></ruby></span>の<ruby>前<rt>まえ</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う<span\
+  \ style=\"color: blue;\"><ruby>囲碁<rt>いご</rt></ruby></span>の<ruby>試合<rt>しあい</rt></ruby>は「<ruby>御城碁<rt>おしろご</rt></ruby>」と<ruby>呼<rt>よ</rt></ruby>ばれていました。２３<ruby>日<rt>にち</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>は「<ruby>御城碁<rt>おしろご</rt></ruby>」と<ruby>同<rt>おな</rt></ruby>じ<ruby>形<rt>かたち</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>井山<rt>いやま</rt></ruby>さんと<ruby>山下<rt>やました</rt></ruby>さんは<ruby>着物<rt>きもの</rt></ruby>を<ruby>着<rt>き</rt></ruby>て<ruby>試合<rt>しあい</rt></ruby>をしました。<ruby>京都市<rt>きょうとし</rt></ruby>の<ruby>門川<rt>かどかわ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>市長<rt>しちょう</rt></ruby></span>も<ruby>着物<rt>きもの</rt></ruby>を<ruby>着<rt>き</rt></ruby>て、<span\
+  \ style=\"color: blue;\"><ruby>将軍<rt>しょうぐん</rt></ruby></span>と<ruby>同<rt>おな</rt></ruby>じように<ruby>試合<rt>しあい</rt></ruby>を<ruby>見<rt>み</rt></ruby>ていました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 城
+  descriptions:
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>、<ruby><rb>大名</rb><rt>だいみょう</rt></ruby>などが、<ruby><rb>敵</rb><rt>てき</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>大</rb><rt>おお</rt></ruby>がかりな<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+- word: 江戸時代
+  descriptions:
+  - <ruby><rb>徳川家康</rb><rt>とくがわいえやす</rt></ruby>が、１６０３<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>江戸</rb><rt>えど</rt></ruby>に<ruby><rb>幕府</rb><rt>ばくふ</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いてから、１８６７<ruby><rb>年</rb><rt>ねん</rt></ruby>にほろびるまでの<ruby><rb>約</rb><rt>やく</rt></ruby>２６０<ruby><rb>年間</rb><rt>ねんかん</rt></ruby>。<ruby><rb>鎖国</rb><rt>さこく</rt></ruby>のために<ruby><rb>日本</rb><rt>にっぽん</rt></ruby><ruby><rb>独特</rb><rt>どくとく</rt></ruby>の<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>栄</rb><rt>さか</rt></ruby>えた。「<ruby><rb>徳川時代</rb><rt>とくがわじだい</rt></ruby>」ともいう。
+- word: 碁
+  descriptions:
+  - <ruby><rb>縦横</rb><rt>たてよこ</rt></ruby>に１９<ruby><rb>本</rb><rt>ほん</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>盤</rb><rt>ばん</rt></ruby>に、<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>の<ruby><rb>石</rb><rt>いし</rt></ruby>を<ruby><rb>２人</rb><rt>ふたり</rt></ruby>で<ruby><rb>代</rb><rt>か</rt></ruby>わる<ruby><rb>代</rb><rt>が</rt></ruby>わるに<ruby><rb>並</rb><rt>なら</rt></ruby>べて、<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>（<ruby><rb>地</rb><rt>じ</rt></ruby>）を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>合</rb><rt>あ</rt></ruby>うゲーム。<ruby><rb>囲碁</rb><rt>いご</rt></ruby>。
+- word: 世界遺産
+  descriptions:
+  - ユネスコの「<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby><ruby><rb>及</rb><rt>およ</rt></ruby>び<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>の<ruby><rb>保護</rb><rt>ほご</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>条約</rb><rt>じょうやく</rt></ruby>」（「<ruby><rb>世界遺産保護条約</rb><rt>せかいいさんほごじょうやく</rt></ruby>」）にもとづいて<ruby><rb>決</rb><rt>き</rt></ruby>められた、<ruby><rb>世界的</rb><rt>せかいてき</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>す<ruby><rb>価値</rb><rt>かち</rt></ruby>があると<ruby><rb>認</rb><rt>みと</rt></ruby>められた<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>や<ruby><rb>自然</rb><rt>しぜん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby>として<ruby><rb>姫路城</rb><rt>ひめじじょう</rt></ruby>や<ruby><rb>法隆寺</rb><rt>ほうりゅうじ</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の<ruby><rb>首里城</rb><rt>しゅりじょう</rt></ruby>など、<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>として<ruby><rb>屋久島</rb><rt>やくしま</rt></ruby>や<ruby><rb>白神山地</rb><rt>しらかみさんち</rt></ruby>などが<ruby><rb>指定</rb><rt>してい</rt></ruby>されている。
+- word: タイトル
+  descriptions:
+  - <ruby><rb>本</rb><rt>ほん</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>などの<ruby><rb>題名</rb><rt>だいめい</rt></ruby>。
+  - <ruby><rb>映画</rb><rt>えいが</rt></ruby>の<ruby><rb>字幕</rb><rt>じまく</rt></ruby>。
+  - スポーツで、<ruby><rb>選手権</rb><rt>せんしゅけん</rt></ruby>。
+- word: 将軍
+  descriptions:
+  - <ruby><rb>幕府</rb><rt>ばくふ</rt></ruby>の、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>位</rb><rt>くらい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>軍隊</rb><rt>ぐんたい</rt></ruby>で、<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>を<ruby><rb>指揮</rb><rt>しき</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 市長
+  descriptions:
+  - <ruby><rb>市</rb><rt>し</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>し、その<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとり<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011449221000/k10011449221000.html
+web_title_with_ruby: <ruby>囲碁<rt>いご</rt></ruby> <ruby>本因坊<rt>ほんいんぼう</rt></ruby><ruby>戦<rt>せん</rt></ruby>で<ruby>江戸時代<rt>えどじだい</rt></ruby>の<ruby>対局<rt>たいきょく</rt></ruby><ruby>再現<rt>さいげん</rt></ruby>
+  <ruby>京都<rt>きょうと</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/23/囲碁-本因坊戦で江戸時代の対局再現-京都
+related_news:
+- title: <ruby>野球<rt>やきゅう</rt></ruby>の<ruby>大谷<rt>おおたに</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がアメリカで<ruby>初<rt>はじ</rt></ruby>めての<ruby>試合<rt>しあい</rt></ruby>で２<ruby>点<rt>てん</rt></ruby><ruby>取<rt>と</rt></ruby>られる
+  url: https://newswebeasy.github.io/news/easy/2018/02/26/野球の大谷選手がアメリカで初めての試合で2点取られる
+- title: <ruby>来年<rt>らいねん</rt></ruby>のラグビーのワールドカップ　ボランティアを<ruby>集<rt>あつ</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2018/04/24/来年のラグビーのワールドカップ-ボランティアを集める
+- title: テニスの<ruby>大坂<rt>おおさか</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>国際<rt>こくさい</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>で<ruby>優勝<rt>ゆうしょう</rt></ruby>　<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>女子<rt>じょし</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて
+  url: https://newswebeasy.github.io/news/easy/2018/03/19/テニスの大坂選手が国際大会で優勝-日本の女子で初めて
+- title: <ruby>大谷<rt>おおたに</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>大<rt>だい</rt></ruby>リーグの<ruby>試合<rt>しあい</rt></ruby>に<ruby>初<rt>はじ</rt></ruby>めてピッチャーで<ruby>出<rt>で</rt></ruby>て<ruby>勝<rt>か</rt></ruby>つ
+  url: https://newswebeasy.github.io/news/easy/2018/04/02/大谷選手が大リーグの試合に初めてピッチャーで出て勝つ
+- title: <ruby>東京<rt>とうきょう</rt></ruby>オリンピックに<ruby>出<rt>で</rt></ruby>る<ruby>国<rt>くに</rt></ruby>をイメージした<ruby>着物<rt>きもの</rt></ruby>のショー
+  url: https://newswebeasy.github.io/news/easy/2018/05/01/東京オリンピックに出る国をイメージした着物のショー
+...
