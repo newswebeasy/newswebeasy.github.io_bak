@@ -1,0 +1,83 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011450231000
+last_modified_at: '2018-05-25T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>25<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: アメリカのトランプ大統領は、インターネットのツイッターで一部の人をブロックしています。
+title: トランプ大統領がツイッターでブロックしたのは憲法に違反
+title_with_ruby: トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>がツイッターでブロックしたのは<ruby>憲法<rt>けんぽう</rt></ruby>に<ruby>違反<rt>いはん</rt></ruby>
+outline: アメリカのトランプ大統領は、インターネットのツイッターで一部の人をブロックしています。
+outline_with_ruby: アメリカのトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>は、インターネットのツイッターで<ruby>一部<rt>いちぶ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>をブロックしています。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/24/K10011450231_1805240703_1805240733_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/25/k10011450231000.mp4
+content_with_ruby: "<p>アメリカのトランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は、インターネットのツイッターで<span\
+  \ style=\"color: blue;\"><ruby>一部<rt>いちぶ</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>を<span\
+  \ style=\"color: blue;\">ブロック</span>しています。<span style=\"color: blue;\">ブロック</span>された<ruby>人<rt>ひと</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>の<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>に<ruby>反対<rt>はんたい</rt></ruby>するような<ruby>意見<rt>いけん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>のツイッターに<ruby>書<rt>か</rt></ruby>いた<ruby>人<rt>ひと</rt></ruby>たちです。この<ruby>人<rt>ひと</rt></ruby>たちは<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>のツイッターに<ruby>意見<rt>いけん</rt></ruby>を<ruby>書<rt>か</rt></ruby>くことができなくなっています。</p>\n\
+  <p>ニューヨークにあるアメリカの<ruby>連邦<rt>れんぽう</rt></ruby><ruby>地方<rt>ちほう</rt></ruby><ruby>裁判所<rt>さいばんしょ</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>のツイッターはみんなが<ruby>自分<rt>じぶん</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>自由<rt>じゆう</rt></ruby>に<ruby>言<rt>い</rt></ruby>うことができる<ruby>場所<rt>ばしょ</rt></ruby>です。<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>と<ruby>意見<rt>いけん</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>を<span\
+  \ style=\"color: blue;\">ブロック</span>することは<span style=\"color: blue;\"><ruby>差別<rt>さべつ</rt></ruby></span>で、<span\
+  \ style=\"color: blue;\"><ruby>憲法<rt>けんぽう</rt></ruby></span>に<span style=\"color:\
+  \ blue;\"><ruby>違反<rt>いはん</rt></ruby></span>しています」と<ruby>言<rt>い</rt></ruby>いました。そして、<ruby>裁判所<rt>さいばんしょ</rt></ruby>はトランプ<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>に<span style=\"\
+  color: blue;\">ブロック</span>をやめるように<span style=\"color: blue;\"><ruby>命令<rt>めいれい</rt></ruby></span>しました。</p>\n\
+  <p>トランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>を<span\
+  \ style=\"color: blue;\"><ruby>弁護<rt>べんご</rt></ruby></span>しているアメリカの<ruby>司法省<rt>しほうしょう</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>のツイッターは<ruby>仕事<rt>しごと</rt></ruby>と<ruby>関係<rt>かんけい</rt></ruby>がない<span\
+  \ style=\"color: blue;\">プライベート</span>なものです」などと<ruby>言<rt>い</rt></ruby>っていました。しかし、<ruby>裁判所<rt>さいばんしょ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>命令<rt>めいれい</rt></ruby></span>が<ruby>出<rt>で</rt></ruby>たため、これからどうするか<ruby>考<rt>かんが</rt></ruby>えると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: ブロック
+  descriptions:
+  - かたまり。
+  - コンクリートを<ruby><rb>四角</rb><rt>しかく</rt></ruby>にかためたもの。
+  - <ruby><rb>土地</rb><rt>とち</rt></ruby>や<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>のひと<ruby><rb>区切</rb><rt>くぎ</rt></ruby>り。
+  - スポーツで、<ruby><rb>相手</rb><rt>あいて</rt></ruby>の<ruby><rb>攻撃</rb><rt>こうげき</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>いだり、じゃましたりすること。
+- word: 憲法
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>成</rb><rt>な</rt></ruby>り<ruby><rb>立</rb><rt>た</rt></ruby>っていく<ruby><rb>上</rb><rt>うえ</rt></ruby>で、いちばんだいじなことを<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>。
+- word: 違反
+  descriptions:
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。
+- word: 一部
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: 差別
+  descriptions:
+  - あるものとほかのものとの<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>差</rb><rt>さ</rt></ruby>をつけて、あつかい<ruby><rb>方</rb><rt>かた</rt></ruby>をちがわせること。
+- word: 命令
+  descriptions:
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>言</rb><rt>い</rt></ruby>いつけること。<ruby><rb>言</rb><rt>い</rt></ruby>いつけ。
+- word: 弁護
+  descriptions:
+  - その<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>利益</rb><rt>りえき</rt></ruby>になるように、<ruby><rb>当人</rb><rt>とうにん</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わってわけを<ruby><rb>説明</rb><rt>せつめい</rt></ruby>してかばってやること。
+- word: プライベート
+  descriptions:
+  - <ruby><rb>個人的</rb><rt>こじんてき</rt></ruby>。<ruby><rb>私的</rb><rt>してき</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011450231000/k10011450231000.html
+web_title_with_ruby: <ruby>トランプ<rt>とらんぷ</rt></ruby><ruby>大統領<rt>だいとうりょう</rt></ruby>の<ruby>ツイッター<rt>ついったー</rt></ruby>
+  <ruby>批判<rt>ひはん</rt></ruby><ruby>ブロック<rt>ぶろっく</rt></ruby>は<ruby>憲法<rt>けんぽう</rt></ruby><ruby>違反<rt>いはん</rt></ruby>
+  <ruby>連邦<rt>れんぽう</rt></ruby><ruby>地裁<rt>ちさい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/24/トランプ大統領のツイッター-批判ブロックは憲法違反-連邦地裁
+related_news:
+- title: ロシア　プーチンさんが４<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>の<ruby>大統領<rt>だいとうりょう</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/05/08/ロシア-プーチンさんが4回目の大統領になる
+- title: トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>「キム<ruby>委員長<rt>いいんちょう</rt></ruby>と<ruby>会<rt>あ</rt></ruby>うかどうか<ruby>来週<rt>らいしゅう</rt></ruby>わかる」
+  url: https://newswebeasy.github.io/news/easy/2018/05/24/トランプ大統領キム委員長と会うかどうか来週わかる
+- title: ロシア　<ruby>次<rt>つぎ</rt></ruby>の<ruby>大統領<rt>だいとうりょう</rt></ruby>はプーチンさんに<ruby>決<rt>き</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/03/19/ロシア-次の大統領はプーチンさんに決まる
+- title: <ruby>北朝鮮<rt>きたちょうせん</rt></ruby>に<ruby>捕<rt>つか</rt></ruby>まっていた３<ruby>人<rt>にん</rt></ruby>がアメリカに<ruby>戻<rt>もど</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/05/10/北朝鮮に捕まっていた3人がアメリカに戻る
+- title: アメリカのトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>「イランにまた<ruby>経済制裁<rt>けいざいせいさい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う」
+  url: https://newswebeasy.github.io/news/easy/2018/05/09/アメリカのトランプ大統領イランにまた経済制裁を行う
+...
