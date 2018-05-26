@@ -1,0 +1,75 @@
+---
+layout: web_news
+categories: web
+newsid: k10011453771000
+title: 九州南部が梅雨入り
+title_with_ruby: <ruby>九州<rt data-ruby-level="3">きゅうしゅう</rt></ruby><ruby>南部<rt data-ruby-level="3">なんぶ</rt></ruby>が<ruby>梅雨入<rt
+  data-ruby-level="8">つゆい</rt></ruby>り
+last_modified_at: '2018-05-26T11:14:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>05<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>26<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 11<ruby>時<rt data-ruby-level="2">じ</rt></ruby>14<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 九州南部は低気圧や前線の影響で広い範囲で雨が降り、向こう１週間も曇りや雨の日が多くなる見込みで、鹿児島地方気象台は２６日、「九州南部が梅雨入りしたと見られる」と発表しました。
+summary: <ruby>九州<rt data-ruby-level="3">きゅうしゅう</rt></ruby><ruby>南部<rt data-ruby-level="3">なんぶ</rt></ruby>は<ruby>低気圧<rt
+  data-ruby-level="5">ていきあつ</rt></ruby>や<ruby>前線<rt data-ruby-level="2">ぜんせん</rt></ruby>の<ruby>影響<rt
+  data-ruby-level="7">えいきょう</rt></ruby>で<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>い<ruby>範囲<rt
+  data-ruby-level="7">はんい</rt></ruby>で<ruby>雨<rt data-ruby-level="6">あめ</rt></ruby>が<ruby>降<rt
+  data-ruby-level="6">ふ</rt></ruby>り、<ruby>向<rt data-ruby-level="3">む</rt></ruby>こう１<ruby>週間<rt
+  data-ruby-level="2">しゅうかん</rt></ruby>も<ruby>曇<rt data-ruby-level="7">くも</rt></ruby>りや<ruby>雨<rt
+  data-ruby-level="1">あめ</rt></ruby>の<ruby>日<rt data-ruby-level="1">ひ</rt></ruby>が<ruby>多<rt
+  data-ruby-level="2">おお</rt></ruby>くなる<ruby>見込<rt data-ruby-level="7">みこ</rt></ruby>みで、<ruby>鹿児島<rt
+  data-ruby-level="8">かごしま</rt></ruby><ruby>地方<rt data-ruby-level="2">ちほう</rt></ruby><ruby>気象台<rt
+  data-ruby-level="4">きしょうだい</rt></ruby>は２６<ruby>日<rt data-ruby-level="1">にち</rt></ruby>、「<ruby>九州<rt
+  data-ruby-level="3">きゅうしゅう</rt></ruby><ruby>南部<rt data-ruby-level="3">なんぶ</rt></ruby>が<ruby>梅雨入<rt
+  data-ruby-level="8">つゆい</rt></ruby>りしたと<ruby>見<rt data-ruby-level="1">み</rt></ruby>られる」と<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/26/K10011453771_1805261125_1805261127_01_02.jpg
+more: <ruby>梅雨前線<rt data-ruby-level="4">ばいうぜんせん</rt></ruby>が<ruby>停滞<rt data-ruby-level="7">ていたい</rt></ruby>し、<ruby>南<rt
+  data-ruby-level="2">みなみ</rt></ruby>から<ruby>暖<rt data-ruby-level="6">あたた</rt></ruby>かく<ruby>湿<rt
+  data-ruby-level="7">しめ</rt></ruby>った<ruby>空気<rt data-ruby-level="1">くうき</rt></ruby>が<ruby>流<rt
+  data-ruby-level="7">なが</rt></ruby>れ<ruby>込<rt data-ruby-level="7">こ</rt></ruby>んでいる<ruby>影響<rt
+  data-ruby-level="7">えいきょう</rt></ruby>で、<ruby>九州<rt data-ruby-level="3">きゅうしゅう</rt></ruby><ruby>南部<rt
+  data-ruby-level="3">なんぶ</rt></ruby>を<ruby>中心<rt data-ruby-level="2">ちゅうしん</rt></ruby>に<ruby>発達<rt
+  data-ruby-level="4">はったつ</rt></ruby>した<ruby>雨雲<rt data-ruby-level="2">あまぐも</rt></ruby>がかかり、<ruby>広<rt
+  data-ruby-level="2">ひろ</rt></ruby>い<ruby>範囲<rt data-ruby-level="7">はんい</rt></ruby>で<ruby>雨<rt
+  data-ruby-level="1">あめ</rt></ruby>が<ruby>降<rt data-ruby-level="6">ふ</rt></ruby>っています。<br
+  /><br /><ruby>九州<rt data-ruby-level="3">きゅうしゅう</rt></ruby><ruby>南部<rt data-ruby-level="3">なんぶ</rt></ruby>は<ruby>向<rt
+  data-ruby-level="3">む</rt></ruby>こう１<ruby>週間<rt data-ruby-level="2">しゅうかん</rt></ruby>も<ruby>曇<rt
+  data-ruby-level="7">くも</rt></ruby>りや<ruby>雨<rt data-ruby-level="1">あめ</rt></ruby>の<ruby>日<rt
+  data-ruby-level="1">ひ</rt></ruby>が<ruby>多<rt data-ruby-level="2">おお</rt></ruby>くなる<ruby>見込<rt
+  data-ruby-level="7">みこ</rt></ruby>みで、<ruby>鹿児島<rt data-ruby-level="8">かごしま</rt></ruby><ruby>地方<rt
+  data-ruby-level="2">ちほう</rt></ruby><ruby>気象台<rt data-ruby-level="4">きしょうだい</rt></ruby>は２６<ruby>日午前<rt
+  data-ruby-level="2">にちごぜん</rt></ruby>１１<ruby>時<rt data-ruby-level="2">じ</rt></ruby>、「<ruby>九州<rt
+  data-ruby-level="3">きゅうしゅう</rt></ruby><ruby>南部<rt data-ruby-level="3">なんぶ</rt></ruby>が<ruby>梅雨入<rt
+  data-ruby-level="8">つゆい</rt></ruby>りしたと<ruby>見<rt data-ruby-level="1">み</rt></ruby>られる」と<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>しました。<br /><br /><ruby>鹿児島<rt data-ruby-level="8">かごしま</rt></ruby><ruby>県内<rt
+  data-ruby-level="3">けんない</rt></ruby>では<ruby>午前中<rt data-ruby-level="2">ごぜんちゅう</rt></ruby>、<ruby>雨足<rt
+  data-ruby-level="1">あまあし</rt></ruby>が<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>くなる<ruby>時間帯<rt
+  data-ruby-level="4">じかんたい</rt></ruby>がありました。<br /><br />また、<ruby>宮崎市<rt data-ruby-level="7">みやざきし</rt></ruby><ruby>中心部<rt
+  data-ruby-level="3">ちゅうしんぶ</rt></ruby>はどんよりとした<ruby>雲<rt data-ruby-level="2">くも</rt></ruby>に<ruby>覆<rt
+  data-ruby-level="7">おお</rt></ruby>われて<ruby>雨<rt data-ruby-level="6">あめ</rt></ruby>が<ruby>降<rt
+  data-ruby-level="6">ふ</rt></ruby>り、<ruby>傘<rt data-ruby-level="7">かさ</rt></ruby>をさした<ruby>買<rt
+  data-ruby-level="3">か</rt></ruby>い<ruby>物客<rt data-ruby-level="3">ものきゃく</rt></ruby>などが<ruby>水<rt
+  data-ruby-level="1">みず</rt></ruby>たまりを<ruby>避<rt data-ruby-level="7">さ</rt></ruby>けながら<ruby>足早<rt
+  data-ruby-level="1">あしばや</rt></ruby>に<ruby>歩<rt data-ruby-level="2">ある</rt></ruby>く<ruby>姿<rt
+  data-ruby-level="6">すがた</rt></ruby>が<ruby>見<rt data-ruby-level="1">み</rt></ruby>られました。<br
+  /><br /><ruby>九州<rt data-ruby-level="3">きゅうしゅう</rt></ruby><ruby>南部<rt data-ruby-level="3">なんぶ</rt></ruby>の<ruby>梅雨入<rt
+  data-ruby-level="8">つゆい</rt></ruby>りは<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>より１１<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby><ruby>早<rt data-ruby-level="1">はや</rt></ruby>く、<ruby>平年<rt
+  data-ruby-level="3">へいねん</rt></ruby>より５<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>早<rt
+  data-ruby-level="1">はや</rt></ruby>くなっています。
+movie_url: https://newswebeasy.github.io/ja201805/news/web/movie/2018/05/26/k10011453771_201805261211_201805261219.mp4
+voice_url: https://newswebeasy.github.io/ja201805/news/web/voice/2018/05/26/k10011453771_201805261211_201805261219.mp3
+source_url: https://www3.nhk.or.jp/news/html/20180526/k10011453771000.html
+related_news:
+- title: <ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>で<ruby>気温<rt data-ruby-level="3">きおん</rt></ruby><ruby>上昇<rt
+    data-ruby-level="7">じょうしょう</rt></ruby> <ruby>真夏日<rt data-ruby-level="3">まなつび</rt></ruby>のところも
+    <ruby>熱中症<rt data-ruby-level="7">ねっちゅうしょう</rt></ruby>に<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/04/21/各地で気温上昇-真夏日のところも-熱中症に注意
+- title: きょうも<ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>で<ruby>真夏日<rt data-ruby-level="3">まなつび</rt></ruby>か
+    <ruby>熱中症<rt data-ruby-level="7">ねっちゅうしょう</rt></ruby>に<ruby>十分<rt data-ruby-level="2">じゅうぶん</rt></ruby><ruby>注意<rt
+    data-ruby-level="3">ちゅうい</rt></ruby>！
+  url: https://newswebeasy.github.io/news/web/2018/04/22/きょうも各地で真夏日か-熱中症に十分注意
+- title: それは<ruby>気象<rt data-ruby-level="4">きしょう</rt></ruby><ruby>病<rt data-ruby-level="3">びょう</rt></ruby>かも
+  url: https://newswebeasy.github.io/news/web/2018/03/12/それは気象病かも
+...
