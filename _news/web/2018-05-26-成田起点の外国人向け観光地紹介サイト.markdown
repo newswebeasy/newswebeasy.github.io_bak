@@ -1,0 +1,86 @@
+---
+layout: web_news
+categories: web
+newsid: k10011453801000
+title: 成田起点の外国人向け観光地紹介サイト
+title_with_ruby: <ruby>成田<rt data-ruby-level="4">なりた</rt></ruby><ruby>起点<rt data-ruby-level="3">きてん</rt></ruby>の<ruby>外国人<rt
+  data-ruby-level="2">がいこくじん</rt></ruby><ruby>向<rt data-ruby-level="3">む</rt></ruby>け<ruby>観光地<rt
+  data-ruby-level="4">かんこうち</rt></ruby><ruby>紹介<rt data-ruby-level="7">しょうかい</rt></ruby>サイト
+last_modified_at: '2018-05-26T11:42:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>05<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>26<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 11<ruby>時<rt data-ruby-level="2">じ</rt></ruby>42<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 外国人旅行者に役立ててもらおうと、成田空港会社は空港を起点としてＬＣＣ＝格安航空会社の便などで訪れることができる全国の観光地を紹介するウェブサイトを新たに作りました。
+summary: <ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby><ruby>旅行者<rt data-ruby-level="3">りょこうしゃ</rt></ruby>に<ruby>役立<rt
+  data-ruby-level="3">やくだ</rt></ruby>ててもらおうと、<ruby>成田空港<rt data-ruby-level="4">なりたくうこう</rt></ruby><ruby>会社<rt
+  data-ruby-level="2">がいしゃ</rt></ruby>は<ruby>空港<rt data-ruby-level="3">くうこう</rt></ruby>を<ruby>起点<rt
+  data-ruby-level="3">きてん</rt></ruby>としてＬＣＣ＝<ruby>格安<rt data-ruby-level="5">かくやす</rt></ruby><ruby>航空<rt
+  data-ruby-level="4">こうくう</rt></ruby><ruby>会社<rt data-ruby-level="2">がいしゃ</rt></ruby>の<ruby>便<rt
+  data-ruby-level="4">びん</rt></ruby>などで<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れることができる<ruby>全国<rt
+  data-ruby-level="3">ぜんこく</rt></ruby>の<ruby>観光地<rt data-ruby-level="4">かんこうち</rt></ruby>を<ruby>紹介<rt
+  data-ruby-level="7">しょうかい</rt></ruby>するウェブサイトを<ruby>新<rt data-ruby-level="2">あら</rt></ruby>たに<ruby>作<rt
+  data-ruby-level="2">つく</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/26/K10011453801_1805261149_1805261153_01_02.jpg
+more: <ruby>成田空港<rt data-ruby-level="4">なりたくうこう</rt></ruby><ruby>会社<rt data-ruby-level="2">かいしゃ</rt></ruby>によりますと<ruby>去年<rt
+  data-ruby-level="3">きょねん</rt></ruby>１<ruby>年間<rt data-ruby-level="2">ねんかん</rt></ruby>に<ruby>成田空港<rt
+  data-ruby-level="4">なりたくうこう</rt></ruby>の<ruby>国際線<rt data-ruby-level="5">こくさいせん</rt></ruby>を<ruby>利用<rt
+  data-ruby-level="4">りよう</rt></ruby>した<ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby>は１５５０<ruby>万人<rt
+  data-ruby-level="2">まんにん</rt></ruby><ruby>余<rt data-ruby-level="5">あま</rt></ruby>りで、４<ruby>年<rt
+  data-ruby-level="1">ねん</rt></ruby><ruby>連続<rt data-ruby-level="4">れんぞく</rt></ruby>で<ruby>過去<rt
+  data-ruby-level="5">かこ</rt></ruby><ruby>最多<rt data-ruby-level="4">さいた</rt></ruby>を<ruby>更新<rt
+  data-ruby-level="7">こうしん</rt></ruby>しました。<br /><br /><ruby>空港<rt data-ruby-level="3">くうこう</rt></ruby><ruby>会社<rt
+  data-ruby-level="2">がいしゃ</rt></ruby>は<ruby>先月<rt data-ruby-level="1">せんげつ</rt></ruby>、<ruby>空港<rt
+  data-ruby-level="3">くうこう</rt></ruby>を<ruby>起点<rt data-ruby-level="3">きてん</rt></ruby>に<ruby>格安<rt
+  data-ruby-level="5">かくやす</rt></ruby><ruby>航空<rt data-ruby-level="4">こうくう</rt></ruby><ruby>会社<rt
+  data-ruby-level="2">がいしゃ</rt></ruby>の<ruby>便<rt data-ruby-level="4">びん</rt></ruby>や<ruby>高速<rt
+  data-ruby-level="3">こうそく</rt></ruby>バスなどで<ruby>訪<rt data-ruby-level="7">おとず</rt></ruby>れることができる<ruby>全国<rt
+  data-ruby-level="3">ぜんこく</rt></ruby>およそ３０の<ruby>観光地<rt data-ruby-level="4">かんこうち</rt></ruby>を<ruby>紹介<rt
+  data-ruby-level="7">しょうかい</rt></ruby>した<ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby><ruby>向<rt
+  data-ruby-level="3">む</rt></ruby>けウェブサイトを<ruby>新<rt data-ruby-level="2">あら</rt></ruby>たに<ruby>作<rt
+  data-ruby-level="2">つく</rt></ruby>りました。<br /><br /><ruby>目的地<rt data-ruby-level="4">もくてきち</rt></ruby>までの<ruby>所要時間<rt
+  data-ruby-level="4">しょようじかん</rt></ruby>や<ruby>交通費<rt data-ruby-level="4">こうつうひ</rt></ruby>などが<ruby>簡単<rt
+  data-ruby-level="6">かんたん</rt></ruby>にわかり、<ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>、<ruby>外国人<rt
+  data-ruby-level="2">がいこくじん</rt></ruby>から<ruby>見<rt data-ruby-level="1">み</rt></ruby>た<ruby>魅力的<rt
+  data-ruby-level="7">みりょくてき</rt></ruby>な<ruby>旅<rt data-ruby-level="3">たび</rt></ruby>のルートも<ruby>紹介<rt
+  data-ruby-level="7">しょうかい</rt></ruby>する<ruby>予定<rt data-ruby-level="3">よてい</rt></ruby>です。<br
+  /><br /><ruby>現在<rt data-ruby-level="5">げんざい</rt></ruby>は<ruby>英語版<rt data-ruby-level="5">えいごばん</rt></ruby>だけですが、７<ruby>月以降<rt
+  data-ruby-level="6">がついこう</rt></ruby>は<ruby>中国語<rt data-ruby-level="2">ちゅうごくご</rt></ruby>や<ruby>韓国語<rt
+  data-ruby-level="7">かんこくご</rt></ruby>でも<ruby>閲覧<rt data-ruby-level="7">えつらん</rt></ruby>できるようにするということです。<br
+  /><br /><ruby>成田空港<rt data-ruby-level="4">なりたくうこう</rt></ruby><ruby>会社<rt data-ruby-level="2">がいしゃ</rt></ruby>の<ruby>高須<rt
+  data-ruby-level="7">たかす</rt></ruby><ruby>英一郎<rt data-ruby-level="7">えいいちろう</rt></ruby><ruby>担当部<rt
+  data-ruby-level="6">たんとうぶ</rt></ruby><ruby>長<rt data-ruby-level="2">ちょう</rt></ruby>は「<ruby>成田<rt
+  data-ruby-level="4">なりた</rt></ruby>からの<ruby>旅<rt data-ruby-level="3">たび</rt></ruby>を<ruby>楽<rt
+  data-ruby-level="2">たの</rt></ruby>しんでもらえればリピーターも<ruby>増<rt data-ruby-level="5">ふ</rt></ruby>える。さらに<ruby>需要<rt
+  data-ruby-level="7">じゅよう</rt></ruby>を<ruby>掘<rt data-ruby-level="7">ほ</rt></ruby>り<ruby>起<rt
+  data-ruby-level="7">お</rt></ruby>こしたい」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>しています。
+source_url: https://www3.nhk.or.jp/news/html/20180526/k10011453801000.html
+related_news:
+- title: <ruby>成田<rt data-ruby-level="4">なりた</rt></ruby><ruby>国際線<rt data-ruby-level="5">こくさいせん</rt></ruby>
+    <ruby>大型<rt data-ruby-level="4">おおがた</rt></ruby><ruby>連休<rt data-ruby-level="4">れんきゅう</rt></ruby>ピーク
+    <ruby>出国<rt data-ruby-level="2">しゅっこく</rt></ruby>は<ruby>今月<rt data-ruby-level="2">こんげつ</rt></ruby>28<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby> <ruby>帰国<rt data-ruby-level="2">きこく</rt></ruby>は<ruby>来月<rt
+    data-ruby-level="2">らいげつ</rt></ruby>6<ruby>日<rt data-ruby-level="1">にち</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/04/24/成田国際線-大型連休ピーク-出国は今月28日-帰国は来月6日
+- title: <ruby>成田空港<rt data-ruby-level="4">なりたくうこう</rt></ruby><ruby>会社<rt data-ruby-level="2">がいしゃ</rt></ruby>
+    <ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby><ruby>旅行者<rt data-ruby-level="3">りょこうしゃ</rt></ruby>の<ruby>買<rt
+    data-ruby-level="3">か</rt></ruby>い<ruby>物<rt data-ruby-level="3">もの</rt></ruby><ruby>好調<rt
+    data-ruby-level="4">こうちょう</rt></ruby>で<ruby>過去<rt data-ruby-level="5">かこ</rt></ruby><ruby>最高益<rt
+    data-ruby-level="5">さいこうえき</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/05/11/成田空港会社-外国人旅行者の買い物好調で過去最高益
+- title: <ruby>成田<rt data-ruby-level="4">なりた</rt></ruby><ruby>開港<rt data-ruby-level="3">かいこう</rt></ruby>40<ruby>年<rt
+    data-ruby-level="1">ねん</rt></ruby>を<ruby>前<rt data-ruby-level="8">さき</rt></ruby>に<ruby>安全<rt
+    data-ruby-level="3">あんぜん</rt></ruby><ruby>祈願祭<rt data-ruby-level="7">きがんさい</rt></ruby>「すべての<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>に<ruby>感謝<rt data-ruby-level="5">かんしゃ</rt></ruby>」
+  url: https://newswebeasy.github.io/news/web/2018/05/18/成田開港40年を前に安全祈願祭すべての人に感謝
+- title: <ruby>全国初<rt data-ruby-level="4">ぜんこくはつ</rt></ruby> <ruby>人口<rt data-ruby-level="1">じんこう</rt></ruby><ruby>減少<rt
+    data-ruby-level="5">げんしょう</rt></ruby><ruby>対策<rt data-ruby-level="6">たいさく</rt></ruby>に<ruby>外国人<rt
+    data-ruby-level="2">がいこくじん</rt></ruby>の<ruby>移住<rt data-ruby-level="5">いじゅう</rt></ruby>を<ruby>促進<rt
+    data-ruby-level="7">そくしん</rt></ruby> <ruby>広島<rt data-ruby-level="3">ひろしま</rt></ruby>
+    <ruby>安芸高田<rt data-ruby-level="8">あきたかた</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/03/13/全国初-人口減少対策に外国人の移住を促進-広島-安芸高田
+- title: <ruby>独自<rt data-ruby-level="5">どくじ</rt></ruby><ruby>分析<rt data-ruby-level="7">ぶんせき</rt></ruby>
+    <ruby>全<rt data-ruby-level="3">ぜん</rt></ruby>1741<ruby>市区町村<rt data-ruby-level="3">しくちょうそん</rt></ruby>の75％で<ruby>外国人<rt
+    data-ruby-level="2">がいこくじん</rt></ruby><ruby>増加<rt data-ruby-level="5">ぞうか</rt></ruby>
+    <ruby>背景<rt data-ruby-level="6">はいけい</rt></ruby>は？
+  url: https://newswebeasy.github.io/news/web/2018/03/04/独自分析-全1741市区町村の75で外国人増加-背景は
+...
