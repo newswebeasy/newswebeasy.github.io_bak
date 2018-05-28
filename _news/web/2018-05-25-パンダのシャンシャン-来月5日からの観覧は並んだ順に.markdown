@@ -52,5 +52,9 @@ more: <ruby>上野動物園<rt data-ruby-level="3">うえのどうぶつえん</
 movie_url: https://newswebeasy.github.io/ja201805/news/web/movie/2018/05/25/k10011451691_201805250756_201805250757.mp4
 voice_url: https://newswebeasy.github.io/ja201805/news/web/voice/2018/05/25/k10011451691_201805250756_201805250757.mp3
 source_url: https://www3.nhk.or.jp/news/html/20180525/k10011451691000.html
+easy_title_with_ruby: パンダのシャンシャン ６<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>５<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>から<ruby>並<rt data-ruby-level="6">なら</rt></ruby>んだ<ruby>順番<rt
+  data-ruby-level="4">じゅんばん</rt></ruby>で<ruby>見<rt data-ruby-level="1">み</rt></ruby>せる
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/05/28/パンダのシャンシャン-6月5日から並んだ順番で見せる
 related_news: []
 ...

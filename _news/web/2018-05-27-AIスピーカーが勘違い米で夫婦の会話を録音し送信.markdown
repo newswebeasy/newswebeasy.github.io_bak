@@ -61,6 +61,10 @@ more: ＡＩスピーカーは、<ruby>人<rt data-ruby-level="1">ひと</rt></r
   data-ruby-level="5">ほご</rt></ruby>などをめぐり<ruby>論議<rt data-ruby-level="6">ろんぎ</rt></ruby>を<ruby>呼<rt
   data-ruby-level="6">よ</rt></ruby>びそうです。
 source_url: https://www3.nhk.or.jp/news/html/20180527/k10011454571000.html
+easy_title_with_ruby: ＡＩスピーカーが<ruby>命令<rt data-ruby-level="4">めいれい</rt></ruby>されたと<ruby>間違<rt
+  data-ruby-level="7">まちが</rt></ruby>えて<ruby>会話<rt data-ruby-level="2">かいわ</rt></ruby>を<ruby>録音<rt
+  data-ruby-level="4">ろくおん</rt></ruby>して<ruby>送<rt data-ruby-level="3">おく</rt></ruby>る
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/05/28/AIスピーカーが命令されたと間違えて会話を録音して送る
 related_news:
 - title: フェイスブック「<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>データ<ruby>流出<rt data-ruby-level="3">りゅうしゅつ</rt></ruby>は<ruby>最大<rt
     data-ruby-level="4">さいだい</rt></ruby>で8700<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>」

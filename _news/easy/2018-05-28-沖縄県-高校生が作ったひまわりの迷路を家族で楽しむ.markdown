@@ -1,0 +1,52 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011454861000
+last_modified_at: '2018-05-28T16:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 沖縄県の宮古島の宮古総合実業高校では、農業の勉強をしている高校生たちが、毎年ひまわりを育てています。
+title: 沖縄県　高校生が作ったひまわりの迷路を家族で楽しむ
+title_with_ruby: <ruby>沖縄県<rt>おきなわけん</rt></ruby>　<ruby>高校生<rt>こうこうせい</rt></ruby>が<ruby>作<rt>つく</rt></ruby>ったひまわりの<ruby>迷路<rt>めいろ</rt></ruby>を<ruby>家族<rt>かぞく</rt></ruby>で<ruby>楽<rt>たの</rt></ruby>しむ
+outline: 沖縄県の宮古島の宮古総合実業高校では、農業の勉強をしている高校生たちが、毎年ひまわりを育てています。
+outline_with_ruby: <ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>宮古島<rt>みやこじま</rt></ruby>の<ruby>宮古総合<rt>みやこそうごう</rt></ruby><ruby>実業<rt>じつぎょう</rt></ruby><ruby>高校<rt>こうこう</rt></ruby>では、<ruby>農業<rt>のうぎょう</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>をしている<ruby>高校生<rt>こうこうせい</rt></ruby>たちが、<ruby>毎年<rt>まいとし</rt></ruby>ひまわりを<ruby>育<rt>そだ</rt></ruby>てています。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/27/K10011454861_1805271332_1805271345_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/28/k10011454861000.mp4
+content_with_ruby: "<p><ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>宮古島<rt>みやこじま</rt></ruby>の<ruby>宮古総合<rt>みやこそうごう</rt></ruby><ruby>実業<rt>じつぎょう</rt></ruby><ruby>高校<rt>こうこう</rt></ruby>では、<span\
+  \ style=\"color: blue;\"><ruby>農業<rt>のうぎょう</rt></ruby></span>の<ruby>勉強<rt>べんきょう</rt></ruby>をしている<ruby>高校生<rt>こうこうせい</rt></ruby>たちが、<ruby>毎年<rt>まいとし</rt></ruby><span\
+  \ style=\"color: blue;\">ひまわり</span>を<ruby>育<rt>そだ</rt></ruby>てています。<span style=\"\
+  color: blue;\">ひまわり</span>は、<ruby>学校<rt>がっこう</rt></ruby>の<span style=\"color: blue;\"\
+  ><ruby>畑<rt>はたけ</rt></ruby></span>に<ruby>長<rt>なが</rt></ruby>さが４００ｍぐらいの<span style=\"\
+  color: blue;\"><ruby>迷路<rt>めいろ</rt></ruby></span>になるように<ruby>植<rt>う</rt></ruby>えてあって、<ruby>高<rt>たか</rt></ruby>さは２ｍぐらいになりました。</p>\n\
+  <p>２７<ruby>日<rt>にち</rt></ruby>は、<ruby>午前<rt>ごぜん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>から<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>が<ruby>学校<rt>がっこう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って、<span\
+  \ style=\"color: blue;\">ひまわり</span>の<span style=\"color: blue;\"><ruby>迷路<rt>めいろ</rt></ruby></span>を<ruby>楽<rt>たの</rt></ruby>しみました。<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は「<ruby>楽<rt>たの</rt></ruby>しかったです。１０<ruby>回<rt>かい</rt></ruby>ぐらい<span\
+  \ style=\"color: blue;\"><ruby>迷<rt>まよ</rt></ruby>い</span>ました」と<ruby>話<rt>はな</rt></ruby>していました。お<ruby>母<rt>かあ</rt></ruby>さんは「<ruby>気持<rt>きも</rt></ruby>ちが<ruby>明<rt>あか</rt></ruby>るくなって、とても<ruby>楽<rt>たの</rt></ruby>しかったです。<ruby>子<rt>こ</rt></ruby>どもたちも<ruby>楽<rt>たの</rt></ruby>しんでいました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p>６<ruby>月<rt>がつ</rt></ruby><ruby>２日<rt>ふつか</rt></ruby>と<ruby>３日<rt>みっか</rt></ruby>も<span\
+  \ style=\"color: blue;\">ひまわり</span>の<span style=\"color: blue;\"><ruby>迷路<rt>めいろ</rt></ruby></span>を<ruby>楽<rt>たの</rt></ruby>しむことができます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ひまわり
+  descriptions:
+  - キクのなかまの<ruby><rb>草花</rb><rt>くさばな</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>二</rb><rt>に</rt></ruby>メートルをこす<ruby><rb>茎</rb><rt>くき</rt></ruby>の<ruby><rb>先</rb><rt>さき</rt></ruby>に、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>種</rb><rt>たね</rt></ruby>は<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にしたり、<ruby><rb>油</rb><rt>あぶら</rt></ruby>をとったりする。
+- word: 迷路
+  descriptions:
+  - <ruby><rb>入</rb><rt>はい</rt></ruby>ると、<ruby><rb>入</rb><rt>い</rt></ruby>り<ruby><rb>口</rb><rt>ぐち</rt></ruby>も<ruby><rb>出口</rb><rt>でぐち</rt></ruby>も、<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>さえもわからなくなるような<ruby><rb>道</rb><rt>みち</rt></ruby>。<ruby><rb>迷</rb><rt>まよ</rt></ruby>いやすい<ruby><rb>道</rb><rt>みち</rt></ruby>。
+- word: 農業
+  descriptions:
+  - <ruby><rb>田</rb><rt>た</rt></ruby>や<ruby><rb>畑</rb><rt>はたけ</rt></ruby>で、<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>・<ruby><rb>野菜</rb><rt>やさい</rt></ruby>・<ruby><rb>果物</rb><rt>くだもの</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。<ruby><rb>牛</rb><rt>うし</rt></ruby>などの<ruby><rb>家畜</rb><rt>かちく</rt></ruby>を<ruby><rb>飼</rb><rt>か</rt></ruby>う<ruby><rb>仕事</rb><rt>しごと</rt></ruby>もふくめていうことがある。
+- word: 畑
+  descriptions:
+  - <ruby><rb>野菜</rb><rt>やさい</rt></ruby>や<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>土地</rb><rt>とち</rt></ruby>。
+  - <ruby><rb>専門</rb><rt>せんもん</rt></ruby>。
+- word: 迷う
+  descriptions:
+  - <ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>がわからなくなる。
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えが<ruby><rb>決</rb><rt>き</rt></ruby>まらなかったり、<ruby><rb>判断</rb><rt>はんだん</rt></ruby>できなかったりする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011454861000/k10011454861000.html
+web_title_with_ruby: ひまわりの<ruby>迷路<rt>めいろ</rt></ruby>にぎわう <ruby>沖縄<rt>おきなわ</rt></ruby>
+  <ruby>宮古島<rt>みやこじま</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/27/ひまわりの迷路にぎわう-沖縄-宮古島
+related_news:
+- title: <ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>む<ruby>子<rt>こ</rt></ruby>ども「<ruby>体<rt>からだ</rt></ruby>と<ruby>心<rt>こころ</rt></ruby>の<ruby>治療<rt>ちりょう</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>」
+  url: https://newswebeasy.github.io/news/easy/2018/03/05/体の調子が悪くて学校を休む子ども体と心の治療が大切
+...

@@ -1,0 +1,62 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011454571000
+last_modified_at: '2018-05-28T16:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ＡＩスピーカーは、自分で考えるコンピューターのＡＩを使って人と話をして、インターネットで情報を調べたり、テレビをつけたりすることができます。
+title: ＡＩスピーカーが命令されたと間違えて会話を録音して送る
+title_with_ruby: ＡＩスピーカーが<ruby>命令<rt>めいれい</rt></ruby>されたと<ruby>間違<rt>まちが</rt></ruby>えて<ruby>会話<rt>かいわ</rt></ruby>を<ruby>録音<rt>ろくおん</rt></ruby>して<ruby>送<rt>おく</rt></ruby>る
+outline: ＡＩスピーカーは、自分で考えるコンピューターのＡＩを使って人と話をして、インターネットで情報を調べたり、テレビをつけたりすることができます。
+outline_with_ruby: ＡＩスピーカーは、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>えるコンピューターのＡＩを<ruby>使<rt>つか</rt></ruby>って<ruby>人<rt>ひと</rt></ruby>と<ruby>話<rt>はなし</rt></ruby>をして、インターネットで<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べたり、テレビをつけたりすることができます。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/27/K10011454571_1805270737_1805270742_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/28/k10011454571000.mp4
+content_with_ruby: "<p>ＡＩスピーカーは、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>えるコンピューターのＡＩを<ruby>使<rt>つか</rt></ruby>って<ruby>人<rt>ひと</rt></ruby>と<ruby>話<rt>はなし</rt></ruby>をして、インターネットで<span\
+  \ style=\"color: blue;\"><ruby>情報<rt>じょうほう</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べたり、テレビをつけたりすることができます。</p>\n\
+  <p>アメリカのオレゴン<ruby>州<rt>しゅう</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<span style=\"\
+  color: blue;\"><ruby>夫婦<rt>ふうふ</rt></ruby></span>は<ruby>今月<rt>こんげつ</rt></ruby>、<ruby>知<rt>し</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>から「ＡＩスピーカーがあなたたちの<ruby>会話<rt>かいわ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>録音<rt>ろくおん</rt></ruby></span>を<ruby>送<rt>おく</rt></ruby>ってきました。<ruby>家<rt>いえ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>床<rt>ゆか</rt></ruby></span>の<ruby>話<rt>はなし</rt></ruby>をしていましたか」と<ruby>聞<rt>き</rt></ruby>かれました。</p>\n\
+  <p>このＡＩスピーカーを<ruby>作<rt>つく</rt></ruby>った「アマゾン」によると、<span style=\"color: blue;\"\
+  ><ruby>夫婦<rt>ふうふ</rt></ruby></span>が<ruby>会話<rt>かいわ</rt></ruby>をしていたときにＡＩが<span\
+  \ style=\"color: blue;\"><ruby>命令<rt>めいれい</rt></ruby></span>されたと<ruby>間違<rt>まちが</rt></ruby>えて、<span\
+  \ style=\"color: blue;\"><ruby>夫婦<rt>ふうふ</rt></ruby></span>の<ruby>会話<rt>かいわ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>録音<rt>ろくおん</rt></ruby></span>して<ruby>送<rt>おく</rt></ruby>ったようです。</p>\n\
+  <p><ruby>会話<rt>かいわ</rt></ruby>をしていた<ruby>妻<rt>つま</rt></ruby>は「<span style=\"color:\
+  \ blue;\">プライバシー</span>の<ruby>心配<rt>しんぱい</rt></ruby>があるので、もう<ruby>使<rt>つか</rt></ruby>いません」と<ruby>怒<rt>おこ</rt></ruby>っていました。アマゾンは<span\
+  \ style=\"color: blue;\"><ruby>夫婦<rt>ふうふ</rt></ruby></span>に<ruby>謝<rt>あやま</rt></ruby>って、<ruby>同<rt>おな</rt></ruby>じようなことが<span\
+  \ style=\"color: blue;\"><ruby>起<rt>お</rt></ruby>こら</span>ないようにすると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 命令
+  descriptions:
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>言</rb><rt>い</rt></ruby>いつけること。<ruby><rb>言</rb><rt>い</rt></ruby>いつけ。
+- word: 録音
+  descriptions:
+  - レコードやテープなどに<ruby><rb>声</rb><rt>こえ</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>収</rb><rt>おさ</rt></ruby>めること。また、その<ruby><rb>音</rb><rt>おと</rt></ruby>。
+- word: 情報
+  descriptions:
+  - できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。
+- word: 夫婦
+  descriptions:
+  - <ruby><rb>結婚</rb><rt>けっこん</rt></ruby>している<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>と<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>夫</rb><rt>おっと</rt></ruby>と<ruby><rb>妻</rb><rt>つま</rt></ruby>。
+- word: 床
+  descriptions:
+  - <ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、<ruby><rb>地面</rb><rt>じめん</rt></ruby>より<ruby><rb>高</rb><rt>たか</rt></ruby>く、<ruby><rb>板</rb><rt>いた</rt></ruby>を<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>張</rb><rt>は</rt></ruby>ったところ。
+- word: プライバシー
+  descriptions:
+  - ほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>られたくない<ruby><rb>個人的</rb><rt>こじんてき</rt></ruby>なことがらや<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>。
+- word: 起こる
+  descriptions:
+  - <ruby><rb>始</rb><rt>はじ</rt></ruby>まる。
+  - <ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011454571000/k10011454571000.html
+web_title_with_ruby: ＡＩ<ruby>スピーカー<rt>すぴーかー</rt></ruby>が<ruby>勘違<rt>かんちが</rt></ruby>い？<ruby>米<rt>べい</rt></ruby>で<ruby>夫婦<rt>ふうふ</rt></ruby>の<ruby>会話<rt>かいわ</rt></ruby>を<ruby>録音<rt>ろくおん</rt></ruby>し<ruby>送信<rt>そうしん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/27/AIスピーカーが勘違い米で夫婦の会話を録音し送信
+related_news:
+- title: <ruby>神奈川県<rt>かながわけん</rt></ruby>の<ruby>警察<rt>けいさつ</rt></ruby>がＡＩを<ruby>使<rt>つか</rt></ruby>って<ruby>事件<rt>じけん</rt></ruby>や<ruby>事故<rt>じこ</rt></ruby>を<ruby>予測<rt>よそく</rt></ruby>する<ruby>計画<rt>けいかく</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/02/27/神奈川県の警察がAIを使って事件や事故を予測する計画
+- title: <ruby>韓国<rt>かんこく</rt></ruby>　<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>に<ruby>宣伝<rt>せんでん</rt></ruby>するためのスピーカーを<ruby>片<rt>かた</rt></ruby>づける
+  url: https://newswebeasy.github.io/news/easy/2018/05/02/韓国-北朝鮮に宣伝するためのスピーカーを片づける
+...

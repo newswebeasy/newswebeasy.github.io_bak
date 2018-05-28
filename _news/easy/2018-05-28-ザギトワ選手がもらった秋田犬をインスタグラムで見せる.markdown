@@ -1,0 +1,81 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011455241000
+last_modified_at: '2018-05-28T16:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ピョンチャンオリンピックで金メダルを取ったフィギュアスケートのアリーナ・ザギトワ選手に２６日、日本から犬がプレゼントされました。
+title: ザギトワ選手がもらった秋田犬をインスタグラムで見せる
+title_with_ruby: ザギトワ<ruby>選手<rt>せんしゅ</rt></ruby>がもらった<ruby>秋田犬<rt>あきたいぬ</rt></ruby>をインスタグラムで<ruby>見<rt>み</rt></ruby>せる
+outline: ピョンチャンオリンピックで金メダルを取ったフィギュアスケートのアリーナ・ザギトワ選手に２６日、日本から犬がプレゼントされました。
+outline_with_ruby: ピョンチャンオリンピックで<ruby>金<rt>きん</rt></ruby>メダルを<ruby>取<rt>と</rt></ruby>ったフィギュアスケートのアリーナ・ザギトワ<ruby>選手<rt>せんしゅ</rt></ruby>に２６<ruby>日<rt>にち</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>から<ruby>犬<rt>いぬ</rt></ruby>がプレゼントされました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/27/K10011455241_1805280721_1805280728_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/28/k10011455241000.mp4
+content_with_ruby: "<p>ピョンチャンオリンピックで<span style=\"color: blue;\"><ruby>金<rt>きん</rt></ruby></span><span\
+  \ style=\"color: blue;\">メダル</span>を<ruby>取<rt>と</rt></ruby>った<span style=\"color:\
+  \ blue;\">フィギュアスケート</span>のアリーナ・ザギトワ<span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>に２６<ruby>日<rt>にち</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>から<ruby>犬<rt>いぬ</rt></ruby>がプレゼントされました。ザギトワ<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>秋田犬<rt>あきたいぬ</rt></ruby>がほしいと<ruby>言<rt>い</rt></ruby>っていました。この<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いた<ruby>秋田犬<rt>あきたいぬ</rt></ruby><ruby>保存<rt>ほぞん</rt></ruby><ruby>会<rt>かい</rt></ruby>が、<ruby>生<rt>う</rt></ruby>まれてから３か<ruby>月<rt>げつ</rt></ruby>の<ruby>犬<rt>いぬ</rt></ruby>をロシアに<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>ってプレゼントしました。</p>\n\
+  <p>ザキトワ<span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は、もらった<ruby>犬<rt>いぬ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>抱<rt>だ</rt></ruby>い</span>ている<ruby>写真<rt>しゃしん</rt></ruby>や、<ruby>散歩<rt>さんぽ</rt></ruby>させている<span\
+  \ style=\"color: blue;\">ビデオ</span>をインターネットのインスタグラムで<ruby>見<rt>み</rt></ruby>せました。インスタグラムには「<ruby>大好<rt>だいす</rt></ruby>き」とか「<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ります」と<ruby>書<rt>か</rt></ruby>いてあります。</p>\n\
+  <p>ザギトワ<span style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>のインスタグラムは<ruby>世界<rt>せかい</rt></ruby>で４５<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>ぐらいの<ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>ていて、<ruby>犬<rt>いぬ</rt></ruby>を<span\
+  \ style=\"color: blue;\">かわいがる</span><span style=\"color: blue;\"><ruby>様子<rt>ようす</rt></ruby></span>が<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>になっています。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 金
+  descriptions:
+  - <ruby><rb>黄色</rb><rt>きいろ</rt></ruby>いつやのある、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。こがね。
+  - こがね<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+  - おかね。
+  - 「<span class="dic_sansyogogi">1)</span>」のように、だいじな。りっぱな。
+  - かなもの。
+  - <ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>金曜日</rb><rt>きんようび</rt></ruby>。
+- word: メダル
+  descriptions:
+  - <ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。
+- word: フィギュア
+  descriptions:
+  - <ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>を、<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせておどるようにすべって、<ruby><rb>美</rb><rt>うつく</rt></ruby>しさやわざをきそうスケート<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+- word: 抱く
+  descriptions:
+  - <ruby><rb>腕</rb><rt>うで</rt></ruby>でかかえて<ruby><rb>持</rb><rt>も</rt></ruby>つ。
+  - ある<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>持</rb><rt>も</rt></ruby>つ。
+  - <ruby><rb>温</rb><rt>あたた</rt></ruby>めてひなをかえす。
+- word: ビデオ
+  descriptions:
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。
+  - 「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: かわいがる
+  descriptions:
+  - <ruby><rb>愛</rb><rt>あい</rt></ruby>して、だいじにする。
+- word: 様子
+  descriptions:
+  - ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。
+  - <ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。
+  - そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。
+  - わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011455241000/k10011455241000.html
+web_title_with_ruby: <ruby>ザギトワ<rt>ざぎとわ</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby> <ruby>秋田犬<rt>あきたいぬ</rt></ruby>「<ruby>マサル<rt>まさる</rt></ruby>」<ruby>散歩<rt>さんぽ</rt></ruby>の<ruby>動画<rt>どうが</rt></ruby><ruby>投稿<rt>とうこう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/27/ザギトワ選手-秋田犬マサル散歩の動画投稿
+related_news:
+- title: ザギトワ<ruby>選手<rt>せんしゅ</rt></ruby>「<ruby>秋田犬<rt>あきたいぬ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>は『マサル』にする」
+  url: https://newswebeasy.github.io/news/easy/2018/03/05/ザギトワ選手秋田犬の名前はマサルにする
+- title: ザギトワ<ruby>選手<rt>せんしゅ</rt></ruby>に<ruby>秋田犬<rt>あきたいぬ</rt></ruby>のぬいぐるみ　<ruby>秋田県<rt>あきたけん</rt></ruby>と<ruby>大館市<rt>おおだてし</rt></ruby>が<ruby>送<rt>おく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/03/01/ザギトワ選手に秋田犬のぬいぐるみ-秋田県と大館市が送る
+- title: オリンピックの<ruby>選手<rt>せんしゅ</rt></ruby>たちがファンに<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>伝<rt>つた</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2018/02/28/オリンピックの選手たちがファンに感謝の気持ちを伝える
+- title: パラリンピック　<ruby>村岡桃佳<rt>むらおかももか</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がスキーの<ruby>大回転<rt>だいかいてん</rt></ruby>で<ruby>金<rt>きん</rt></ruby>メダル
+  url: https://newswebeasy.github.io/news/easy/2018/03/15/パラリンピック-村岡桃佳選手がスキーの大回転で金メダル
+- title: フィギュアスケートの<ruby>羽生<rt>はにゅう</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>仙台市<rt>せんだいし</rt></ruby>でパレードをする
+  url: https://newswebeasy.github.io/news/easy/2018/04/23/フィギュアスケートの羽生選手が仙台市でパレードをする
+...
