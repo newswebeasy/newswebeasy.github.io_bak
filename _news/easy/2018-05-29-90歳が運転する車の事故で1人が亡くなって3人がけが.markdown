@@ -1,0 +1,79 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011456321000
+last_modified_at: '2018-05-29T17:35:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>29<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>35<ruby>分<rt>ふん</rt></ruby>
+description: 神奈川県茅ヶ崎市で２８日の午前１１時ごろ、車が横断歩道を歩いていた人などをはねる事故がありました。
+title: ９０歳が運転する車の事故で１人が亡くなって３人がけが
+title_with_ruby: ９０<ruby>歳<rt>さい</rt></ruby>が<ruby>運転<rt>うんてん</rt></ruby>する<ruby>車<rt>くるま</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>で<ruby>１人<rt>ひとり</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって３<ruby>人<rt>にん</rt></ruby>がけが
+outline: 神奈川県茅ヶ崎市で２８日の午前１１時ごろ、車が横断歩道を歩いていた人などをはねる事故がありました。
+outline_with_ruby: <ruby>神奈川県<rt>かながわけん</rt></ruby><ruby>茅ヶ崎<rt>ちがさき</rt></ruby><ruby>市<rt>し</rt></ruby>で２８<ruby>日<rt>にち</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby>１１<ruby>時<rt>じ</rt></ruby>ごろ、<ruby>車<rt>くるま</rt></ruby>が<ruby>横断歩道<rt>おうだんほどう</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>いていた<ruby>人<rt>ひと</rt></ruby>などをはねる<ruby>事故<rt>じこ</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/28/K10011456321_1805290509_1805290511_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/29/k10011456321000.mp4
+content_with_ruby: "<p><ruby>神奈川県<rt>かながわけん</rt></ruby><ruby>茅ヶ崎<rt>ちがさき</rt></ruby><ruby>市<rt>し</rt></ruby>で２８<ruby>日<rt>にち</rt></ruby>の<ruby>午前<rt>ごぜん</rt></ruby>１１<ruby>時<rt>じ</rt></ruby>ごろ、<ruby>車<rt>くるま</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>横断歩道<rt>おうだんほどう</rt></ruby></span>を<ruby>歩<rt>ある</rt></ruby>いていた<ruby>人<rt>ひと</rt></ruby>などを<span\
+  \ style=\"color: blue;\">はねる</span><ruby>事故<rt>じこ</rt></ruby>がありました。この<ruby>事故<rt>じこ</rt></ruby>で<ruby>１人<rt>ひとり</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、３<ruby>人<rt>にん</rt></ruby>がけがをしました。<ruby>警察<rt>けいさつ</rt></ruby>は、<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>していた９０<ruby>歳<rt>さい</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>逮捕<rt>たいほ</rt></ruby></span>しました。</p>\n<p><ruby>警察<rt>けいさつ</rt></ruby>によると<ruby>女<rt>おんな</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>信号<rt>しんごう</rt></ruby></span>は<ruby>赤<rt>あか</rt></ruby>でしたが、<ruby>人<rt>ひと</rt></ruby>がまだ<span\
+  \ style=\"color: blue;\"><ruby>横断歩道<rt>おうだんほどう</rt></ruby></span>を<ruby>渡<rt>わた</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めていなかったので、<ruby>通<rt>とお</rt></ruby>ることができると<ruby>思<rt>おも</rt></ruby>った。そのあと<ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>えて<ruby>急<rt>いそ</rt></ruby>いで<span\
+  \ style=\"color: blue;\">ハンドル</span>を<ruby>左<rt>ひだり</rt></ruby>に<span style=\"color:\
+  \ blue;\"><ruby>回<rt>まわ</rt></ruby>し</span>た」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p>７５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>運転<rt>うんてん</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>免許<rt>めんきょ</rt></ruby></span>を<ruby>新<rt>あたら</rt></ruby>しくするときに、<span\
+  \ style=\"color: blue;\"><ruby>脳<rt>のう</rt></ruby></span>の<ruby>病気<rt>びょうき</rt></ruby>になっていないかどうかテストを<ruby>受<rt>う</rt></ruby>けます。<ruby>警察<rt>けいさつ</rt></ruby>は、この<ruby>女<rt>おんな</rt></ruby>が<ruby>今年<rt>ことし</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>にテストを<ruby>受<rt>う</rt></ruby>けたときには<ruby>問題<rt>もんだい</rt></ruby>がなかったと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 横断歩道
+  descriptions:
+  - <ruby><rb>歩</rb><rt>ある</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>に<ruby><rb>車道</rb><rt>しゃどう</rt></ruby>をわたれるように、<ruby><rb>道路</rb><rt>どうろ</rt></ruby>にしるしをつけた<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。
+- word: 撥ねる
+  descriptions:
+  - はじきとばす。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>除</rb><rt>のぞ</rt></ruby>く。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>にわたす<ruby><rb>分</rb><rt>ぶん</rt></ruby>の<ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>を<ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - <ruby><rb>字</rb><rt>じ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>くとき、<ruby><rb>線</rb><rt>せん</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりをはらい<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+- word: 逮捕
+  descriptions:
+  - <ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>がつかまえること。
+- word: 信号機
+  descriptions:
+  - <ruby><rb>道路</rb><rt>どうろ</rt></ruby>や<ruby><rb>鉄道</rb><rt>てつどう</rt></ruby>などで、<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>・<ruby><rb>危険</rb><rt>きけん</rt></ruby>・<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>などを<ruby><rb>合図</rb><rt>あいず</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。<ruby><rb>信号</rb><rt>しんごう</rt></ruby>。シグナル。
+- word: ハンドル
+  descriptions:
+  - <ruby><rb>取</rb><rt>と</rt></ruby>っ<ruby><rb>手</rb><rt>て</rt></ruby>。にぎり。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>でにぎって、<ruby><rb>機械</rb><rt>きかい</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かすもの。
+- word: 回す
+  descriptions:
+  - <ruby><rb>円</rb><rt>えん</rt></ruby>をかくように<ruby><rb>動</rb><rt>うご</rt></ruby>かす。
+  - <ruby><rb>順</rb><rt>じゅん</rt></ruby>に<ruby><rb>送</rb><rt>おく</rt></ruby>る。
+  - <ruby><rb>必要</rb><rt>ひつよう</rt></ruby>とするところへふり<ruby><rb>向</rb><rt>む</rt></ruby>ける。さし<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>巻</rb><rt>ま</rt></ruby>くようにする。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>届</rb><rt>とど</rt></ruby>かせる。
+- word: 免許
+  descriptions:
+  - あることがらについて、<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などが<ruby><rb>許</rb><rt>ゆる</rt></ruby>しをあたえること。
+  - <ruby><rb>芸</rb><rt>げい</rt></ruby>ごとで、<ruby><rb>先生</rb><rt>せんせい</rt></ruby>が<ruby><rb>弟子</rb><rt>でし</rt></ruby>にあたえる<ruby><rb>資格</rb><rt>しかく</rt></ruby>。
+- word: 脳
+  descriptions:
+  - <ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>考</rb><rt>かんが</rt></ruby>えたり<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かしたりするはたらきを<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>つところ。
+  - <ruby><rb>頭</rb><rt>あたま</rt></ruby>のはたらき。
+  - <ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となる<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011456321000/k10011456321000.html
+web_title_with_ruby: <ruby>歩行者<rt>ほこうしゃ</rt></ruby>４<ruby>人<rt>にん</rt></ruby><ruby>死傷<rt>ししょう</rt></ruby><ruby>事故<rt>じこ</rt></ruby>
+  <ruby>運転<rt>うんてん</rt></ruby>の90<ruby>歳<rt>さい</rt></ruby><ruby>女<rt>おんな</rt></ruby>を<ruby>逮捕<rt>たいほ</rt></ruby>
+  <ruby>神奈川<rt>かながわ</rt></ruby> <ruby>茅ヶ崎<rt>ちがさき</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/28/歩行者4人死傷事故-運転の90歳女を逮捕-神奈川-茅ヶ崎
+related_news:
+- title: 「ポケモンＧＯ」をしながら<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>して<ruby>事故<rt>じこ</rt></ruby>　<ruby>１人<rt>ひとり</rt></ruby><ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/04/16/ポケモンGOをしながら車を運転して事故-1人亡くなる
+- title: アメリカ　<ruby>自動<rt>じどう</rt></ruby>で<ruby>運転<rt>うんてん</rt></ruby>する<ruby>車<rt>くるま</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>で<ruby>１人<rt>ひとり</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/03/20/アメリカ-自動で運転する車の事故で1人が亡くなる
+- title: カナダ　<ruby>車<rt>くるま</rt></ruby>が<ruby>歩<rt>ある</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>をはねて１０<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/04/25/カナダ-車が歩いている人をはねて10人が亡くなる
+- title: <ruby>花粉症<rt>かふんしょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は<ruby>運転<rt>うんてん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>のくしゃみに<ruby>気<rt>き</rt></ruby>をつけて
+  url: https://newswebeasy.github.io/news/easy/2018/03/05/花粉症の人は運転中のくしゃみに気をつけて
+- title: サウジアラビアで<ruby>女性<rt>じょせい</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント
+  url: https://newswebeasy.github.io/news/easy/2018/05/17/サウジアラビアで女性に車を紹介するイベント
+...
