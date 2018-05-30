@@ -1,0 +1,71 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011457881000
+last_modified_at: '2018-05-30T16:55:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>55<ruby>分<rt>ふん</rt></ruby>
+description: 日本相撲協会は３０日、栃ノ心を大相撲で上から２番目の「大関」にすることを決めました。
+title: 大相撲　ジョージア出身の栃ノ心が大関になる
+title_with_ruby: <ruby>大相撲<rt>おおずもう</rt></ruby>　ジョージア<ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>栃ノ心<rt>とちのしん</rt></ruby>が<ruby>大関<rt>おおぜき</rt></ruby>になる
+outline: 日本相撲協会は３０日、栃ノ心を大相撲で上から２番目の「大関」にすることを決めました。
+outline_with_ruby: <ruby>日本相撲協会<rt>にほんすもうきょうかい</rt></ruby>は３０<ruby>日<rt>にち</rt></ruby>、<ruby>栃ノ心<rt>とちのしん</rt></ruby>を<ruby>大相撲<rt>おおずもう</rt></ruby>で<ruby>上<rt>うえ</rt></ruby>から２<ruby>番目<rt>ばんめ</rt></ruby>の「<ruby>大関<rt>おおぜき</rt></ruby>」にすることを<ruby>決<rt>き</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/30/K10011457881_1805300946_1805300947_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/30/k10011457881000.mp4
+content_with_ruby: "<p><ruby>日本相撲協会<rt>にほんすもうきょうかい</rt></ruby>は３０<ruby>日<rt>にち</rt></ruby>、<ruby>栃ノ心<rt>とちのしん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>大相撲<rt>おおずもう</rt></ruby></span>で<ruby>上<rt>うえ</rt></ruby>から２<ruby>番目<rt>ばんめ</rt></ruby>の「<span\
+  \ style=\"color: blue;\"><ruby>大関<rt>おおぜき</rt></ruby></span>」にすることを<ruby>決<rt>き</rt></ruby>めました。<ruby>栃ノ心<rt>とちのしん</rt></ruby>は５<ruby>月<rt>がつ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>で１５<ruby>回<rt>かい</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>のうち１３<ruby>回<rt>かい</rt></ruby><ruby>勝<rt>か</rt></ruby>ちました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>大関<rt>おおぜき</rt></ruby></span>になるためには、３つの<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>で３３<ruby>回<rt>かい</rt></ruby>ぐらい<ruby>勝<rt>か</rt></ruby>たなければなりません。<ruby>栃ノ心<rt>とちのしん</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>の３つの<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>で３７<ruby>回<rt>かい</rt></ruby><ruby>勝<rt>か</rt></ruby>ちました。</p>\n\
+  <p><ruby>栃ノ心<rt>とちのしん</rt></ruby>はロシアとトルコの<ruby>間<rt>あいだ</rt></ruby>にあるジョージアという<ruby>国<rt>くに</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>出身<rt>しゅっしん</rt></ruby></span>で、３０<ruby>歳<rt>さい</rt></ruby>です。１８<ruby>歳<rt>さい</rt></ruby>のとき<ruby>初<rt>はじ</rt></ruby>めて<span\
+  \ style=\"color: blue;\"><ruby>大相撲<rt>おおずもう</rt></ruby></span>の<ruby>試合<rt>しあい</rt></ruby>に<ruby>出<rt>で</rt></ruby>ました。<span\
+  \ style=\"color: blue;\">ヨーロッパ</span>の<span style=\"color: blue;\"><ruby>出身<rt>しゅっしん</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>大関<rt>おおぜき</rt></ruby></span>は３<ruby>人<rt>にん</rt></ruby><ruby>目<rt>め</rt></ruby>です。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>大関<rt>おおぜき</rt></ruby></span>になることを<ruby>日本相撲協会<rt>にほんすもうきょうかい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>伝<rt>つた</rt></ruby>えると、<ruby>栃ノ心<rt>とちのしん</rt></ruby>は「ほかの<span\
+  \ style=\"color: blue;\"><ruby>力士<rt>りきし</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>手本<rt>てほん</rt></ruby></span>になるように<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>します」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大相撲
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>が<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>専門</rb><rt>せんもん</rt></ruby>の<ruby><rb>力士</rb><rt>りきし</rt></ruby>による<ruby><rb>相撲</rb><rt>すもう</rt></ruby>。
+  - <ruby><rb>相撲</rb><rt>すもう</rt></ruby>で、なかなか<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けの<ruby><rb>決</rb><rt>き</rt></ruby>まらない<ruby><rb>力</rb><rt>ちから</rt></ruby>の<ruby><rb>入</rb><rt>はい</rt></ruby>った<ruby><rb>取組</rb><rt>とりくみ</rt></ruby>。
+- word: 出身
+  descriptions:
+  - その<ruby><rb>土地</rb><rt>とち</rt></ruby>で<ruby><rb>生</rb><rt>う</rt></ruby>まれたこと。
+  - その<ruby><rb>学校</rb><rt>がっこう</rt></ruby>を<ruby><rb>卒業</rb><rt>そつぎょう</rt></ruby>したこと。
+- word: 大関
+  descriptions:
+  - すもうで、<ruby><rb>横綱</rb><rt>よこづな</rt></ruby>の<ruby><rb>次</rb><rt>つぎ</rt></ruby>の<ruby><rb>位</rb><rt>くらい</rt></ruby>。
+- word: 大会
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+  - ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: 力士
+  descriptions:
+  - すもうをとることを<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。すもうとり。
+- word: 手本
+  descriptions:
+  - <ruby><rb>字</rb><rt>じ</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>をかくとき、<ruby><rb>見習</rb><rt>みなら</rt></ruby>って<ruby><rb>練習</rb><rt>れんしゅう</rt></ruby>するための<ruby><rb>本</rb><rt>ほん</rt></ruby>。
+  - <ruby><rb>見習</rb><rt>みなら</rt></ruby>うだけの<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちがある<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>行</rb><rt>おこな</rt></ruby>い。
+source_url: http://www3.nhk.or.jp/news/easy/k10011457881000/k10011457881000.html
+web_title_with_ruby: <ruby>大関<rt>おおぜき</rt></ruby><ruby>昇進<rt>しょうしん</rt></ruby>の<ruby>栃<rt>とち</rt></ruby><ruby>ノ<rt>の</rt></ruby><ruby>心<rt>しん</rt></ruby>「<ruby>手本<rt>てほん</rt></ruby>となるように<ruby>稽古<rt>けいこ</rt></ruby>に<ruby>精進<rt>しょうじん</rt></ruby>」と<ruby>口上<rt>こうじょう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/30/大関昇進の栃ノ心手本となるように稽古に精進と口上
+related_news:
+- title: <ruby>北海道<rt>ほっかいどう</rt></ruby><ruby>福島町<rt>ふくしまちょう</rt></ruby>が<ruby>今年<rt>ことし</rt></ruby>も<ruby>女性<rt>じょせい</rt></ruby>の<ruby>相撲<rt>すもう</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/05/14/北海道福島町が今年も女性の相撲大会を開く
+- title: テニスの<ruby>大坂<rt>おおさか</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>国際<rt>こくさい</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>で<ruby>優勝<rt>ゆうしょう</rt></ruby>　<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>女子<rt>じょし</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて
+  url: https://newswebeasy.github.io/news/easy/2018/03/19/テニスの大坂選手が国際大会で優勝-日本の女子で初めて
+- title: <ruby>大相撲<rt>おおずもう</rt></ruby>　<ruby>人<rt>ひと</rt></ruby>を<ruby>助<rt>たす</rt></ruby>けようとした<ruby>女性<rt>じょせい</rt></ruby>に「<ruby>土俵<rt>どひょう</rt></ruby>を<ruby>下<rt>お</rt></ruby>りて」と<ruby>言<rt>い</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/04/05/大相撲-人を助けようとした女性に土俵を下りてと言う
+- title: サッカーの<ruby>日本<rt>にっぽん</rt></ruby><ruby>代表<rt>だいひょう</rt></ruby>の<ruby>監督<rt>かんとく</rt></ruby>が<ruby>交代<rt>こうたい</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2018/04/10/サッカーの日本代表の監督が交代する
+- title: <ruby>茨城県<rt>いばらきけん</rt></ruby>がコンピューターゲームの<ruby>大会<rt>たいかい</rt></ruby>を<ruby>来年<rt>らいねん</rt></ruby><ruby>開<rt>ひら</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/05/23/茨城県がコンピューターゲームの大会を来年開く
+...

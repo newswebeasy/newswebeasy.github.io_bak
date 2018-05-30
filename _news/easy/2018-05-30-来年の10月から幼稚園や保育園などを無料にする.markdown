@@ -1,0 +1,74 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011456341000
+last_modified_at: '2018-05-30T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 政府は来年１０月から、小学校に入る前の小さな子どもの幼稚園や保育園などにかかるお金を無料にしようと考えています。
+title: 来年の１０月から幼稚園や保育園などを無料にする
+title_with_ruby: <ruby>来年<rt>らいねん</rt></ruby>の１０<ruby>月<rt>がつ</rt></ruby>から<ruby>幼稚園<rt>ようちえん</rt></ruby>や<ruby>保育園<rt>ほいくえん</rt></ruby>などを<ruby>無料<rt>むりょう</rt></ruby>にする
+outline: 政府は来年１０月から、小学校に入る前の小さな子どもの幼稚園や保育園などにかかるお金を無料にしようと考えています。
+outline_with_ruby: <ruby>政府<rt>せいふ</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>から、<ruby>小学校<rt>しょうがっこう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さな<ruby>子<rt>こ</rt></ruby>どもの<ruby>幼稚園<rt>ようちえん</rt></ruby>や<ruby>保育園<rt>ほいくえん</rt></ruby>などにかかるお<ruby>金<rt>かね</rt></ruby>を<ruby>無料<rt>むりょう</rt></ruby>にしようと<ruby>考<rt>かんが</rt></ruby>えています。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/29/K10011456341_1805290447_1805290451_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/30/k10011456341000.mp4
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は<ruby>来年<rt>らいねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>から、<ruby>小学校<rt>しょうがっこう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さな<ruby>子<rt>こ</rt></ruby>どもの<span\
+  \ style=\"color: blue;\"><ruby>幼稚園<rt>ようちえん</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>保育園<rt>ほいくえん</rt></ruby></span>などにかかるお<ruby>金<rt>かね</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>無料<rt>むりょう</rt></ruby></span>にしようと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p>３<ruby>歳<rt>さい</rt></ruby>から５<ruby>歳<rt>さい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもは、<ruby>家庭<rt>かてい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>収入<rt>しゅうにゅう</rt></ruby></span>に<ruby>関係<rt>かんけい</rt></ruby>なく、<span\
+  \ style=\"color: blue;\"><ruby>幼稚園<rt>ようちえん</rt></ruby></span>や<span style=\"color:\
+  \ blue;\"><ruby>保育園<rt>ほいくえん</rt></ruby></span>などを<span style=\"color: blue;\"><ruby>無料<rt>むりょう</rt></ruby></span>にします。０<ruby>歳<rt>さい</rt></ruby>から２<ruby>歳<rt>さい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもは、<ruby>家庭<rt>かてい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>収入<rt>しゅうにゅう</rt></ruby></span>が<ruby>少<rt>すく</rt></ruby>ない<ruby>場合<rt>ばあい</rt></ruby>だけ<span\
+  \ style=\"color: blue;\"><ruby>無料<rt>むりょう</rt></ruby></span>にします。</p>\n<p><ruby>県<rt>けん</rt></ruby>や<ruby>市<rt>し</rt></ruby>などが<span\
+  \ style=\"color: blue;\"><ruby>認可<rt>にんか</rt></ruby></span>していない<span style=\"color:\
+  \ blue;\"><ruby>保育園<rt>ほいくえん</rt></ruby></span>は<span style=\"color: blue;\"><ruby>無料<rt>むりょう</rt></ruby></span>ではなくて、<span\
+  \ style=\"color: blue;\"><ruby>一部<rt>いちぶ</rt></ruby></span>だけ<ruby>国<rt>くに</rt></ruby>が<ruby>払<rt>はら</rt></ruby>います。</p>\n\
+  <p><ruby>来年<rt>らいねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>、<span style=\"color:\
+  \ blue;\"><ruby>消費税<rt>しょうひぜい</rt></ruby></span>が８％から１０％に<ruby>上<rt>あ</rt></ruby>がる<ruby>予定<rt>よてい</rt></ruby>です。<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<ruby>小<rt>ちい</rt></ruby>さな<ruby>子<rt>こ</rt></ruby>どもがいる<ruby>家庭<rt>かてい</rt></ruby>の<ruby>手伝<rt>てつだ</rt></ruby>いをしたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 幼稚園
+  descriptions:
+  - <ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>る<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>どもに、<ruby><rb>集団生活</rb><rt>しゅうだんせいかつ</rt></ruby>に<ruby><rb>慣</rb><rt>な</rt></ruby>れさせるため、いろいろのことを<ruby><rb>教</rb><rt>おし</rt></ruby>える<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 保育所
+  descriptions:
+  - <ruby><rb>幼</rb><rt>おさな</rt></ruby>い<ruby><rb>子</rb><rt>こ</rt></ruby>どもを<ruby><rb>朝</rb><rt>あさ</rt></ruby>から<ruby><rb>夕方</rb><rt>ゆうがた</rt></ruby>まで<ruby><rb>預</rb><rt>あず</rt></ruby>かって、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。ほいくしょ。<ruby><rb>保育園</rb><rt>ほいくえん</rt></ruby>。
+- word: 無料
+  descriptions:
+  - <ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 収入
+  descriptions:
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>が<ruby><rb>入</rb><rt>はい</rt></ruby>ること。また、そのお<ruby><rb>金</rb><rt>かね</rt></ruby>。
+- word: 認可
+  descriptions:
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>たことを、<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などがよいと<ruby><rb>認</rb><rt>みと</rt></ruby>めて、<ruby><rb>許</rb><rt>ゆる</rt></ruby>すこと。
+- word: 一部
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: 消費税
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>買</rb><rt>か</rt></ruby>ったり、サービスを<ruby><rb>受</rb><rt>う</rt></ruby>けたりしたときに、かけられる<ruby><rb>税金</rb><rt>ぜいきん</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011456341000/k10011456341000.html
+web_title_with_ruby: <ruby>幼児<rt>ようじ</rt></ruby><ruby>教育<rt>きょういく</rt></ruby>・<ruby>保育<rt>ほいく</rt></ruby>の<ruby>無償<rt>むしょう</rt></ruby><ruby>化<rt>か</rt></ruby>
+  <ruby>来年<rt>らいねん</rt></ruby>10<ruby>月<rt>がつ</rt></ruby>から<ruby>実施<rt>じっし</rt></ruby>へ
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/29/幼児教育保育の無償化-来年10月から実施へ
+related_news:
+- title: 「<ruby>子<rt>こ</rt></ruby>ども<ruby>食堂<rt>しょくどう</rt></ruby>」が２０００<ruby>以上<rt>いじょう</rt></ruby>になる　おととしの７<ruby>倍<rt>ばい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/05/子ども食堂が2000以上になる-おととしの7倍
+- title: <ruby>東京都<rt>とうきょうと</rt></ruby>　<ruby>子<rt>こ</rt></ruby>どもの７０％がスマートフォンなどを<ruby>使<rt>つか</rt></ruby>っている
+  url: https://newswebeasy.github.io/news/easy/2018/05/08/東京都-子どもの70がスマートフォンなどを使っている
+- title: <ruby>子<rt>こ</rt></ruby>どもと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>自転車<rt>じてんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ったときの<ruby>事故<rt>じこ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いている
+  url: https://newswebeasy.github.io/news/easy/2018/05/15/子どもと一緒に自転車に乗ったときの事故が続いている
+- title: ＳＮＳで<ruby>犯罪<rt>はんざい</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>にあった<ruby>子<rt>こ</rt></ruby>ども　<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2018/04/27/SNSで犯罪の被害にあった子ども-今までで最も多い
+- title: <ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>む<ruby>子<rt>こ</rt></ruby>ども「<ruby>体<rt>からだ</rt></ruby>と<ruby>心<rt>こころ</rt></ruby>の<ruby>治療<rt>ちりょう</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>」
+  url: https://newswebeasy.github.io/news/easy/2018/03/05/体の調子が悪くて学校を休む子ども体と心の治療が大切
+...

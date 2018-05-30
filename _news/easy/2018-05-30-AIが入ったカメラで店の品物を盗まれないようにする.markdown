@@ -1,0 +1,46 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011455881000
+last_modified_at: '2018-05-30T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: コンピューターのＡＩが入ったカメラを使って、スーパーなどで品物を盗まれないようにするシステムができました。
+title: ＡＩが入ったカメラで店の品物を盗まれないようにする
+title_with_ruby: ＡＩが<ruby>入<rt>はい</rt></ruby>ったカメラで<ruby>店<rt>みせ</rt></ruby>の<ruby>品物<rt>しなもの</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>まれないようにする
+outline: コンピューターのＡＩが入ったカメラを使って、スーパーなどで品物を盗まれないようにするシステムができました。
+outline_with_ruby: コンピューターのＡＩが<ruby>入<rt>はい</rt></ruby>ったカメラを<ruby>使<rt>つか</rt></ruby>って、スーパーなどで<ruby>品物<rt>しなもの</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>まれないようにするシステムができました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/28/K10011455881_1805281739_1805281741_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/30/k10011455881000.mp4
+content_with_ruby: "<p>コンピューターのＡＩが<ruby>入<rt>はい</rt></ruby>ったカメラを<ruby>使<rt>つか</rt></ruby>って、スーパーなどで<ruby>品物<rt>しなもの</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>まれないようにする<span\
+  \ style=\"color: blue;\">システム</span>ができました。ＮＴＴ<ruby>東日本<rt>ひがしにほん</rt></ruby>と<span\
+  \ style=\"color: blue;\">ＩＴ</span>の<ruby>会社<rt>かいしゃ</rt></ruby>がつくりました。</p>\n<p>ＡＩが<ruby>入<rt>はい</rt></ruby>ったカメラは<ruby>店<rt>みせ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>をずっとチェックしています。そして、<ruby>周<rt>まわ</rt></ruby>りを<ruby>何<rt>なん</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>見<rt>み</rt></ruby>ながら<ruby>歩<rt>ある</rt></ruby>いたり、カメラや<ruby>店員<rt>てんいん</rt></ruby>から<ruby>見<rt>み</rt></ruby>えない<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>こうとしたりする<ruby>人<rt>ひと</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけると、<ruby>店員<rt>てんいん</rt></ruby>のスマートフォンに<ruby>知<rt>し</rt></ruby>らせます。<ruby>店員<rt>てんいん</rt></ruby>がすぐに<ruby>行<rt>い</rt></ruby>ってその<ruby>人<rt>ひと</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>話<rt>はな</rt></ruby>しかけ</span>て、<ruby>品物<rt>しなもの</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>まれないようにします。</p>\n\
+  <p>ＮＴＴ<ruby>東日本<rt>ひがしにほん</rt></ruby>などは、この<span style=\"color: blue;\">システム</span>を<ruby>使<rt>つか</rt></ruby>った<ruby>店<rt>みせ</rt></ruby>では<ruby>品物<rt>しなもの</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>まれることが<ruby>少<rt>すく</rt></ruby>なくなっているので、たくさんの<ruby>店<rt>みせ</rt></ruby>で<ruby>使<rt>つか</rt></ruby>ってほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: システム
+  descriptions:
+  - <ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+  - ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。
+- word: IT
+  descriptions:
+  - コンピューターを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>とした<ruby><rb>情報技術</rb><rt>じょうほうぎじゅつ</rt></ruby>。
+- word: 話しかける
+  descriptions:
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>話</rb><rt>はなし</rt></ruby>をしかける。
+  - <ruby><rb>話</rb><rt>はなし</rt></ruby>を<ruby><rb>始</rb><rt>はじ</rt></ruby>める。
+source_url: http://www3.nhk.or.jp/news/easy/k10011455881000/k10011455881000.html
+web_title_with_ruby: <ruby>怪<rt>あや</rt></ruby>しい<ruby>動<rt>うご</rt></ruby>き…<ruby>万引<rt>まんび</rt></ruby>きか?!
+  ＡＩ<ruby>カメラ<rt>かめら</rt></ruby>が<ruby>店内<rt>てんない</rt></ruby><ruby>監視<rt>かんし</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/28/怪しい動き万引きか-AIカメラが店内監視
+related_news:
+- title: <ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りない<ruby>店<rt>みせ</rt></ruby>で<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する<ruby>展示<rt>てんじ</rt></ruby><ruby>会<rt>かい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/03/08/働く人が足りない店で役に立つ技術を紹介する展示会
+- title: ローソン　レジに<ruby>並<rt>なら</rt></ruby>ばないでスマートフォンでお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/04/25/ローソン-レジに並ばないでスマートフォンでお金を払う
+- title: ９５<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>のドイツのカメラが３<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/03/14/95年前のドイツのカメラが3億円以上になる
+- title: ２<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>石垣島<rt>いしがきじま</rt></ruby>でなくしたカメラが<ruby>台湾<rt>たいわん</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかる
+  url: https://newswebeasy.github.io/news/easy/2018/03/29/2年以上前に石垣島でなくしたカメラが台湾で見つかる
+...

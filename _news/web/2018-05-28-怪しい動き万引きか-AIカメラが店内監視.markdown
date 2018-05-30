@@ -1,0 +1,75 @@
+---
+layout: web_news
+categories: web
+newsid: k10011455881000
+title: 怪しい動き…万引きか?! ＡＩカメラが店内監視
+title_with_ruby: <ruby>怪<rt data-ruby-level="7">あや</rt></ruby>しい<ruby>動<rt data-ruby-level="3">うご</rt></ruby>き…<ruby>万引<rt
+  data-ruby-level="2">まんび</rt></ruby>きか?! ＡＩカメラが<ruby>店内<rt data-ruby-level="2">てんない</rt></ruby><ruby>監視<rt
+  data-ruby-level="7">かんし</rt></ruby>
+last_modified_at: '2018-05-28T17:06:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>05<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>28<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 17<ruby>時<rt data-ruby-level="2">じ</rt></ruby>06<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ＡＩ＝人工知能を搭載したカメラが万引きにつながるような怪しい行動をした客を検知し、店員に知らせるシステムが新たに開発されました。
+summary: ＡＩ＝<ruby>人工<rt data-ruby-level="2">じんこう</rt></ruby><ruby>知能<rt data-ruby-level="5">ちのう</rt></ruby>を<ruby>搭載<rt
+  data-ruby-level="7">とうさい</rt></ruby>したカメラが<ruby>万引<rt data-ruby-level="2">まんび</rt></ruby>きにつながるような<ruby>怪<rt
+  data-ruby-level="7">あや</rt></ruby>しい<ruby>行動<rt data-ruby-level="3">こうどう</rt></ruby>をした<ruby>客<rt
+  data-ruby-level="3">きゃく</rt></ruby>を<ruby>検知<rt data-ruby-level="5">けんち</rt></ruby>し、<ruby>店員<rt
+  data-ruby-level="3">てんいん</rt></ruby>に<ruby>知<rt data-ruby-level="2">し</rt></ruby>らせるシステムが<ruby>新<rt
+  data-ruby-level="2">あら</rt></ruby>たに<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>されました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/28/K10011455881_1805281739_1805281741_01_02.jpg
+more: この「<ruby>万引<rt data-ruby-level="2">まんび</rt></ruby>き<ruby>防止<rt data-ruby-level="5">ぼうし</rt></ruby>システム」は<ruby>ＮＴＴ東日本<rt
+  data-ruby-level="2">えぬてぃてぃひがしにほん</rt></ruby>とＩＴベンチャーが<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>したものです。<br
+  /><br />システムではＡＩを<ruby>搭載<rt data-ruby-level="7">とうさい</rt></ruby>したカメラが<ruby>店内<rt
+  data-ruby-level="2">てんない</rt></ruby>を<ruby>常<rt data-ruby-level="5">つね</rt></ruby>に<ruby>監視<rt
+  data-ruby-level="7">かんし</rt></ruby>します。<br /><ruby>客<rt data-ruby-level="3">きゃく</rt></ruby>が<ruby>周<rt
+  data-ruby-level="4">まわ</rt></ruby>りをしきりに<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>しながらうろうろしたり、<ruby>店内<rt
+  data-ruby-level="2">てんない</rt></ruby>の<ruby>死角<rt data-ruby-level="3">しかく</rt></ruby>に<ruby>入<rt
+  data-ruby-level="1">はい</rt></ruby>ろうとしたりするなど、<ruby>怪<rt data-ruby-level="7">あや</rt></ruby>しい<ruby>行動<rt
+  data-ruby-level="3">こうどう</rt></ruby>をとるとすぐに<ruby>検知<rt data-ruby-level="5">けんち</rt></ruby>し、<ruby>店員<rt
+  data-ruby-level="3">てんいん</rt></ruby>のスマートフォンに<ruby>通知<rt data-ruby-level="2">つうち</rt></ruby>します。<br
+  /><br />その<ruby>際<rt data-ruby-level="5">さい</rt></ruby>、<ruby>不審<rt data-ruby-level="7">ふしん</rt></ruby>な<ruby>客<rt
+  data-ruby-level="3">きゃく</rt></ruby>がいる<ruby>場所<rt data-ruby-level="3">ばしょ</rt></ruby>も<ruby>画像<rt
+  data-ruby-level="5">がぞう</rt></ruby>で<ruby>知<rt data-ruby-level="2">し</rt></ruby>らせ、<ruby>現場<rt
+  data-ruby-level="5">げんば</rt></ruby>にかけつけた<ruby>店員<rt data-ruby-level="3">てんいん</rt></ruby>がすぐさま<ruby>声<rt
+  data-ruby-level="2">こえ</rt></ruby>をかけることで<ruby>万引<rt data-ruby-level="2">まんび</rt></ruby>き<ruby>防止<rt
+  data-ruby-level="5">ぼうし</rt></ruby>につなげようという<ruby>仕組<rt data-ruby-level="3">しく</rt></ruby>みです。<br
+  /><br />このシステムを<ruby>試験的<rt data-ruby-level="4">しけんてき</rt></ruby>に<ruby>導入<rt data-ruby-level="5">どうにゅう</rt></ruby>したドラッグストアでは<ruby>万引<rt
+  data-ruby-level="2">まんび</rt></ruby>きの<ruby>被害<rt data-ruby-level="7">ひがい</rt></ruby>が<ruby>大幅<rt
+  data-ruby-level="7">おおはば</rt></ruby>に<ruby>減<rt data-ruby-level="5">へ</rt></ruby>ったということで、ＮＴＴなどでは<ruby>今後<rt
+  data-ruby-level="2">こんご</rt></ruby>３<ruby>年間<rt data-ruby-level="2">ねんかん</rt></ruby>で<ruby>全国<rt
+  data-ruby-level="3">ぜんこく</rt></ruby>の１<ruby>万<rt data-ruby-level="2">まん</rt></ruby><ruby>店舗<rt
+  data-ruby-level="7">てんぽ</rt></ruby>に<ruby>導入<rt data-ruby-level="5">どうにゅう</rt></ruby>していきたいとしています。<br
+  /><br /><ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>したＩＴベンチャー「アースアイズ」の<ruby>山内<rt
+  data-ruby-level="2">やまうち</rt></ruby><ruby>三郎<rt data-ruby-level="8">さぶろう</rt></ruby><ruby>代表<rt
+  data-ruby-level="3">だいひょう</rt></ruby>は「<ruby>小売業<rt data-ruby-level="3">こうりぎょう</rt></ruby><ruby>界<rt
+  data-ruby-level="3">かい</rt></ruby>は、<ruby>人手<rt data-ruby-level="1">ひとで</rt></ruby><ruby>不足<rt
+  data-ruby-level="4">ぶそく</rt></ruby>に<ruby>加<rt data-ruby-level="4">くわ</rt></ruby>え、<ruby>賃金<rt
+  data-ruby-level="6">ちんぎん</rt></ruby>も<ruby>上昇<rt data-ruby-level="7">じょうしょう</rt></ruby>していて<ruby>経営<rt
+  data-ruby-level="5">けいえい</rt></ruby><ruby>環境<rt data-ruby-level="7">かんきょう</rt></ruby>も<ruby>厳<rt
+  data-ruby-level="6">きび</rt></ruby>しく<ruby>対策<rt data-ruby-level="6">たいさく</rt></ruby>が<ruby>後手<rt
+  data-ruby-level="2">ごて</rt></ruby>になりがちになので<ruby>少<rt data-ruby-level="2">すこ</rt></ruby>しでも<ruby>手助<rt
+  data-ruby-level="3">てだす</rt></ruby>けできれば」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。
+source_url: https://www3.nhk.or.jp/news/html/20180528/k10011455881000.html
+easy_title_with_ruby: ＡＩが<ruby>入<rt data-ruby-level="1">はい</rt></ruby>ったカメラで<ruby>店<rt
+  data-ruby-level="2">みせ</rt></ruby>の<ruby>品物<rt data-ruby-level="3">しなもの</rt></ruby>を<ruby>盗<rt
+  data-ruby-level="7">ぬす</rt></ruby>まれないようにする
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/05/30/AIが入ったカメラで店の品物を盗まれないようにする
+related_news:
+- title: “レジ<ruby>不要<rt data-ruby-level="4">ふよう</rt></ruby>”<ruby>店舗<rt data-ruby-level="7">てんぽ</rt></ruby>の<ruby>最新<rt
+    data-ruby-level="4">さいしん</rt></ruby><ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>などを<ruby>紹介<rt
+    data-ruby-level="7">しょうかい</rt></ruby>する<ruby>展示会<rt data-ruby-level="6">てんじかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/03/06/レジ不要店舗の最新技術などを紹介する展示会
+- title: ”<ruby>観客<rt data-ruby-level="4">かんきゃく</rt></ruby>２<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>から<ruby>容疑者<rt
+    data-ruby-level="6">ようぎしゃ</rt></ruby><ruby>拘束<rt data-ruby-level="7">こうそく</rt></ruby>”
+    <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>の<ruby>顔<rt data-ruby-level="2">かお</rt></ruby><ruby>認識<rt
+    data-ruby-level="7">にんしき</rt></ruby>システムが<ruby>話題<rt data-ruby-level="3">わだい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/05/22/観客2万人から容疑者拘束-中国の顔認識システムが話題
+- title: おもてなしロボット<ruby>登場<rt data-ruby-level="3">とうじょう</rt></ruby> ホテルの<ruby>接客<rt
+    data-ruby-level="5">せっきゃく</rt></ruby>に<ruby>特化<rt data-ruby-level="4">とっか</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/04/18/おもてなしロボット登場-ホテルの接客に特化
+- title: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby><ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby>・パラで<ruby>顔認証<rt
+    data-ruby-level="7">かおにんしょう</rt></ruby>システム<ruby>導入<rt data-ruby-level="5">どうにゅう</rt></ruby>へ
+    <ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby><ruby>史上初<rt data-ruby-level="4">しじょうはつ</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/03/27/東京五輪パラで顔認証システム導入へ-五輪史上初
+...

@@ -1,0 +1,79 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011457661000
+last_modified_at: '2018-05-30T16:55:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>55<ruby>分<rt>ふん</rt></ruby>
+description: 日本では子どもが少なくなって、働く人が足りなくなる心配があります。
+title: 日本で働く外国人を増やすために新しいビザを作る計画
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>く<ruby>外国人<rt>がいこくじん</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やすために<ruby>新<rt>あたら</rt></ruby>しいビザを<ruby>作<rt>つく</rt></ruby>る<ruby>計画<rt>けいかく</rt></ruby>
+outline: 日本では子どもが少なくなって、働く人が足りなくなる心配があります。
+outline_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>では<ruby>子<rt>こ</rt></ruby>どもが<ruby>少<rt>すく</rt></ruby>なくなって、<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなる<ruby>心配<rt>しんぱい</rt></ruby>があります。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/30/K10011457661_1805300537_1805300545_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/30/k10011457661000.mp4
+content_with_ruby: "<p><ruby>日本<rt>にっぽん</rt></ruby>では<ruby>子<rt>こ</rt></ruby>どもが<ruby>少<rt>すく</rt></ruby>なくなって、<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなる<ruby>心配<rt>しんぱい</rt></ruby>があります。このため、<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>く<ruby>外国人<rt>がいこくじん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>増<rt>ふ</rt></ruby>やし</span>たいと<ruby>考<rt>かんが</rt></ruby>えて、<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\">ビザ</span>を<ruby>作<rt>つく</rt></ruby>ることを<ruby>計画<rt>けいかく</rt></ruby>しています。</p>\n\
+  <p><ruby>計画<rt>けいかく</rt></ruby>では、<span style=\"color: blue;\"><ruby>介護<rt>かいご</rt></ruby></span>や<span\
+  \ style=\"color: blue;\"><ruby>農業<rt>のうぎょう</rt></ruby></span>などの<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>外国人<rt>がいこくじん</rt></ruby>に５<ruby>年<rt>ねん</rt></ruby>まで<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>くことができる<span\
+  \ style=\"color: blue;\">ビザ</span>を<ruby>出<rt>だ</rt></ruby>すことにします。この<span style=\"\
+  color: blue;\">ビザ</span>をもらうためには、<ruby>専門<rt>せんもん</rt></ruby>の<span style=\"color:\
+  \ blue;\"><ruby>知識<rt>ちしき</rt></ruby></span>と<ruby>技術<rt>ぎじゅつ</rt></ruby>と<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>合格<rt>ごうかく</rt></ruby></span>しなければなりません。</p>\n<p><span\
+  \ style=\"color: blue;\"><ruby>発展途上国<rt>はってんとじょうこく</rt></ruby></span>から<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、<ruby>働<rt>はたら</rt></ruby>きながら<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>習<rt>なら</rt></ruby>う「<ruby>技能<rt>ぎのう</rt></ruby><ruby>実習生<rt>じっしゅうせい</rt></ruby>」は、<ruby>今<rt>いま</rt></ruby>も５<ruby>年<rt>ねん</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>にいることができます。<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\">ビザ</span>ができたら、<ruby>全部<rt>ぜんぶ</rt></ruby>で１０<ruby>年<rt>ねん</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>くことができるようになります。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>はこの<ruby>計画<rt>けいかく</rt></ruby>についてこれからよく<span\
+  \ style=\"color: blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う</span>ことにしています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+- word: ビザ
+  descriptions:
+  - <ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>来</rb><rt>き</rt></ruby>た<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>旅券</rb><rt>りょけん</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べ、その<ruby><rb>国</rb><rt>くに</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ることを<ruby><rb>認</rb><rt>みと</rt></ruby>める<ruby><rb>許可証</rb><rt>きょかしょう</rt></ruby>。<ruby><rb>査証</rb><rt>さしょう</rt></ruby>。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+- word: 介護
+  descriptions:
+  - <ruby><rb>病人</rb><rt>びょうにん</rt></ruby>などを<ruby><rb>介抱</rb><rt>かいほう</rt></ruby>し、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をすること。
+- word: 農業
+  descriptions:
+  - <ruby><rb>田</rb><rt>た</rt></ruby>や<ruby><rb>畑</rb><rt>はたけ</rt></ruby>で、<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>・<ruby><rb>野菜</rb><rt>やさい</rt></ruby>・<ruby><rb>果物</rb><rt>くだもの</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。<ruby><rb>牛</rb><rt>うし</rt></ruby>などの<ruby><rb>家畜</rb><rt>かちく</rt></ruby>を<ruby><rb>飼</rb><rt>か</rt></ruby>う<ruby><rb>仕事</rb><rt>しごと</rt></ruby>もふくめていうことがある。
+- word: 知識
+  descriptions:
+  - ものごとについて、<ruby><rb>正</rb><rt>ただ</rt></ruby>しくはっきり<ruby><rb>知</rb><rt>し</rt></ruby>っていること。また、<ruby><rb>知</rb><rt>し</rt></ruby>っている<ruby><rb>内容</rb><rt>ないよう</rt></ruby>。
+- word: 合格
+  descriptions:
+  - <ruby><rb>学校</rb><rt>がっこう</rt></ruby>や<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>の<ruby><rb>試験</rb><rt>しけん</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>かること。パス。
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>などが<ruby><rb>決</rb><rt>き</rt></ruby>められたことがらに<ruby><rb>合</rb><rt>あ</rt></ruby>っていること。
+- word: 発展途上国
+  descriptions:
+  - <ruby><rb>経済</rb><rt>けいざい</rt></ruby>や<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>などが、<ruby><rb>発展</rb><rt>はってん</rt></ruby>の<ruby><rb>途中</rb><rt>とちゅう</rt></ruby>にある<ruby><rb>国</rb><rt>くに</rt></ruby>。
+- word: 話し合う
+  descriptions:
+  - たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。
+  - <ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。
+source_url: http://www3.nhk.or.jp/news/easy/k10011457661000/k10011457661000.html
+web_title_with_ruby: <ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>人材<rt>じんざい</rt></ruby><ruby>受<rt>う</rt></ruby>け<ruby>入<rt>い</rt></ruby>れ<ruby>拡大<rt>かくだい</rt></ruby>へ
+  <ruby>新<rt>あら</rt></ruby>たな<ruby>在留<rt>ざいりゅう</rt></ruby><ruby>資格<rt>しかく</rt></ruby><ruby>創設<rt>そうせつ</rt></ruby>へ
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/30/外国人の人材受け入れ拡大へ-新たな在留資格創設へ
+related_news:
+- title: <ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>外国人<rt>がいこくじん</rt></ruby>は２５６<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>　<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2018/03/28/日本に住んでいる外国人は256万人-今までで最も多い
+- title: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>市<rt>し</rt></ruby>や<ruby>町<rt>まち</rt></ruby>の７５％で<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えた
+  url: https://newswebeasy.github.io/news/easy/2018/03/06/日本の市や町の75で外国人が増えた
+- title: <ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby>「<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>来<rt>く</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>結核<rt>けっかく</rt></ruby>の<ruby>検査<rt>けんさ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けてほしい」
+  url: https://newswebeasy.github.io/news/easy/2018/03/01/厚生労働省日本へ来る前に結核の検査を受けてほしい
+- title: <ruby>外国人<rt>がいこくじん</rt></ruby>がデパートで<ruby>使<rt>つか</rt></ruby>ったお<ruby>金<rt>かね</rt></ruby>が<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/05/25/外国人がデパートで使ったお金が今まででいちばん多くなる
+- title: <ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>早<rt>はや</rt></ruby>く１０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/05/21/日本へ旅行に来た外国人が最も早く1000万人になる
+...
