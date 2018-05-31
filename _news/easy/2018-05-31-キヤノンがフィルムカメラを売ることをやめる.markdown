@@ -1,0 +1,53 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011458671000
+last_modified_at: '2018-05-31T17:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: カメラの会社のキヤノンは、フィルムを使うカメラを売ることをやめると発表しました。
+title: キヤノンがフィルムカメラを売ることをやめる
+title_with_ruby: キヤノンがフィルムカメラを<ruby>売<rt>う</rt></ruby>ることをやめる
+outline: カメラの会社のキヤノンは、フィルムを使うカメラを売ることをやめると発表しました。
+outline_with_ruby: カメラの<ruby>会社<rt>かいしゃ</rt></ruby>のキヤノンは、フィルムを<ruby>使<rt>つか</rt></ruby>うカメラを<ruby>売<rt>う</rt></ruby>ることをやめると<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/30/K10011458671_1805302002_1805302006_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/31/k10011458671000.mp4
+content_with_ruby: "<p>カメラの<ruby>会社<rt>かいしゃ</rt></ruby>のキヤノンは、フィルムを<ruby>使<rt>つか</rt></ruby>うカメラを<ruby>売<rt>う</rt></ruby>ることをやめると<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>キヤノンは<ruby>会社<rt>かいしゃ</rt></ruby>ができた１９３７<ruby>年<rt>ねん</rt></ruby>からずっとフィルムカメラを<ruby>売<rt>う</rt></ruby>ってきました。しかし、<ruby>最近<rt>さいきん</rt></ruby>は<span\
+  \ style=\"color: blue;\">デジタルカメラ</span>が<ruby>多<rt>おお</rt></ruby>くなって、キヤノンのフィルムカメラは「ＥＯＳー１ｖ」という<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>の１つだけになっていました。</p>\n\
+  <p>キヤノンは、フィルムカメラを<ruby>使<rt>つか</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなって、<ruby>売<rt>う</rt></ruby>り<ruby>続<rt>つづ</rt></ruby>けることが<ruby>難<rt>むずか</rt></ruby>しくなったと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>では、ニコンが<ruby>今<rt>いま</rt></ruby>もフィルムカメラを<ruby>売<rt>う</rt></ruby>り<ruby>続<rt>つづ</rt></ruby>けています。<ruby>富士<rt>ふじ</rt></ruby>フイルムは<span\
+  \ style=\"color: blue;\"><ruby>白黒<rt>しろくろ</rt></ruby></span>の<ruby>写真<rt>しゃしん</rt></ruby>のフィルムを<ruby>売<rt>う</rt></ruby>ることを<ruby>今年<rt>ことし</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>でやめると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: デジタルカメラ
+  descriptions:
+  - フィルムを<ruby><rb>使</rb><rt>つか</rt></ruby>わないで、<ruby><rb>写</rb><rt>うつ</rt></ruby>したものを<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>に<ruby><rb>変</rb><rt>か</rt></ruby>えて、<ruby><rb>記録</rb><rt>きろく</rt></ruby>できるようにしたカメラ。デジカメ。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 白黒
+  descriptions:
+  - <ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>。
+  - <ruby><rb>写真</rb><rt>しゃしん</rt></ruby>・<ruby><rb>映画</rb><rt>えいが</rt></ruby>などで、<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>だけの<ruby><rb>色</rb><rt>いろ</rt></ruby>のもの。
+  - <ruby><rb>善</rb><rt>ぜん</rt></ruby>と<ruby><rb>悪</rb><rt>あく</rt></ruby>。<ruby><rb>無罪</rb><rt>むざい</rt></ruby>と<ruby><rb>有罪</rb><rt>ゆうざい</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011458671000/k10011458671000.html
+web_title_with_ruby: <ruby>キヤノン<rt>きやのん</rt></ruby> <ruby>フィルム<rt>ふぃるむ</rt></ruby><ruby>カメラ<rt>かめら</rt></ruby><ruby>販売<rt>はんばい</rt></ruby><ruby>終了<rt>しゅうりょう</rt></ruby>
+  80<ruby>年<rt>ねん</rt></ruby><ruby>超<rt>ちょう</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>に<ruby>幕<rt>まく</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/30/キヤノン-フィルムカメラ販売終了-80年超の歴史に幕
+related_news:
+- title: ９５<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>のドイツのカメラが３<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/03/14/95年前のドイツのカメラが3億円以上になる
+- title: ２<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>石垣島<rt>いしがきじま</rt></ruby>でなくしたカメラが<ruby>台湾<rt>たいわん</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかる
+  url: https://newswebeasy.github.io/news/easy/2018/03/29/2年以上前に石垣島でなくしたカメラが台湾で見つかる
+- title: <ruby>東京<rt>とうきょう</rt></ruby>のＪＲ<ruby>山手線<rt>やまのてせん</rt></ruby>　１９<ruby>日<rt>にち</rt></ruby>からカメラがついた<ruby>車両<rt>しゃりょう</rt></ruby>が<ruby>走<rt>はし</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/05/18/東京のJR山手線-19日からカメラがついた車両が走る
+- title: ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>がこれからつくる<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>にカメラを<ruby>付<rt>つ</rt></ruby>ける
+  url: https://newswebeasy.github.io/news/easy/2018/04/05/JR東日本がこれからつくる全部の電車にカメラを付ける
+- title: ＡＩが<ruby>入<rt>はい</rt></ruby>ったカメラで<ruby>店<rt>みせ</rt></ruby>の<ruby>品物<rt>しなもの</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>まれないようにする
+  url: https://newswebeasy.github.io/news/easy/2018/05/30/AIが入ったカメラで店の品物を盗まれないようにする
+...

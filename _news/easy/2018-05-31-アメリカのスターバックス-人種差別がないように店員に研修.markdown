@@ -1,0 +1,82 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011457901000
+last_modified_at: '2018-05-31T17:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: アメリカのスターバックスは、いろいろな所に喫茶店を開いています。
+title: アメリカのスターバックス　人種差別がないように店員に研修
+title_with_ruby: アメリカのスターバックス　<ruby>人種<rt>じんしゅ</rt></ruby><ruby>差別<rt>さべつ</rt></ruby>がないように<ruby>店員<rt>てんいん</rt></ruby>に<ruby>研修<rt>けんしゅう</rt></ruby>
+outline: アメリカのスターバックスは、いろいろな所に喫茶店を開いています。
+outline_with_ruby: アメリカのスターバックスは、いろいろな<ruby>所<rt>ところ</rt></ruby>に<ruby>喫茶店<rt>きっさてん</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いています。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/30/K10011457901_1805301215_1805301216_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/31/k10011457901000.mp4
+content_with_ruby: "<p></p>\n<p>アメリカのスターバックスは、いろいろな<ruby>所<rt>ところ</rt></ruby>に<ruby>喫茶店<rt>きっさてん</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いています。ペンシルベニア<ruby>州<rt>しゅう</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>で<ruby>先月<rt>せんげつ</rt></ruby>、<ruby>２人<rt>ふたり</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>黒人<rt>こくじん</rt></ruby></span>の<ruby>男性<rt>だんせい</rt></ruby>が<ruby>何<rt>なに</rt></ruby>も<span\
+  \ style=\"color: blue;\"><ruby>注文<rt>ちゅうもん</rt></ruby></span>しないで、<ruby>友達<rt>ともだち</rt></ruby>を<ruby>待<rt>ま</rt></ruby>っていました。<ruby>２人<rt>ふたり</rt></ruby>が<ruby>店員<rt>てんいん</rt></ruby>にトイレを<ruby>使<rt>つか</rt></ruby>ってもいいかと<ruby>聞<rt>き</rt></ruby>くと、<ruby>店<rt>みせ</rt></ruby>が<ruby>警察<rt>けいさつ</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>んで、<ruby>２人<rt>ふたり</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>逮捕<rt>たいほ</rt></ruby></span>されました。この<span style=\"\
+  color: blue;\"><ruby>様子<rt>ようす</rt></ruby></span>を<ruby>撮<rt>と</rt></ruby>った<span\
+  \ style=\"color: blue;\">ビデオ</span>がインターネットに<ruby>出<rt>で</rt></ruby>ました。たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>て、スターバックスがしたことは<span\
+  \ style=\"color: blue;\"><ruby>人種<rt>じんしゅ</rt></ruby></span><span style=\"color:\
+  \ blue;\"><ruby>差別<rt>さべつ</rt></ruby></span>だと<ruby>言<rt>い</rt></ruby>いました。スターバックスは<ruby>謝<rt>あやま</rt></ruby>りました。</p>\n\
+  <p>スターバックスはまた<ruby>同<rt>おな</rt></ruby>じことがないようにしたいと<ruby>考<rt>かんが</rt></ruby>えました。２９<ruby>日<rt>にち</rt></ruby>、アメリカの８０００<ruby>以上<rt>いじょう</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>を４<ruby>時間<rt>じかん</rt></ruby><ruby>閉<rt>し</rt></ruby>めて、<ruby>店<rt>みせ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いている<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１７<ruby>万<rt>まん</rt></ruby>５０００<ruby>人<rt>にん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>研修<rt>けんしゅう</rt></ruby></span>をしました。<span style=\"\
+  color: blue;\"><ruby>研修<rt>けんしゅう</rt></ruby></span>では<ruby>専門家<rt>せんもんか</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いたり、みんなが<ruby>自分<rt>じぶん</rt></ruby>の<ruby>経験<rt>けいけん</rt></ruby>を<ruby>話<rt>はな</rt></ruby>したりしました。</p>\n\
+  <p>スターバックスは「<ruby>誰<rt>だれ</rt></ruby>でも<ruby>寄<rt>よ</rt></ruby>ることができる<ruby>店<rt>みせ</rt></ruby>にします」などと<ruby>書<rt>か</rt></ruby>いた<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>広告<rt>こうこく</rt></ruby></span>を<ruby>新聞<rt>しんぶん</rt></ruby>に<ruby>出<rt>だ</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 人種
+  descriptions:
+  - <ruby><rb>人類</rb><rt>じんるい</rt></ruby>を、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>の<ruby><rb>色</rb><rt>いろ</rt></ruby>、<ruby><rb>体</rb><rt>からだ</rt></ruby>つきなどの<ruby><rb>特徴</rb><rt>とくちょう</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>。
+- word: 差別
+  descriptions:
+  - あるものとほかのものとの<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>差</rb><rt>さ</rt></ruby>をつけて、あつかい<ruby><rb>方</rb><rt>かた</rt></ruby>をちがわせること。
+- word: 研修
+  descriptions:
+  - <ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>や<ruby><rb>知識</rb><rt>ちしき</rt></ruby>を<ruby><rb>高</rb><rt>たか</rt></ruby>めるために、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>や<ruby><rb>実習</rb><rt>じっしゅう</rt></ruby>をすること。
+- word: 黒色人種
+  descriptions:
+  - <ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>の<ruby><rb>色</rb><rt>いろ</rt></ruby>が<ruby><rb>黒</rb><rt>くろ</rt></ruby>い<ruby><rb>色</rb><rt>いろ</rt></ruby>をしている<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。<ruby><rb>黒人</rb><rt>こくじん</rt></ruby>。
+- word: 注文
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>らせたり、<ruby><rb>届</rb><rt>とど</rt></ruby>けさせたりすること。
+  - <ruby><rb>希望</rb><rt>きぼう</rt></ruby>や<ruby><rb>条件</rb><rt>じょうけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 逮捕
+  descriptions:
+  - <ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>がつかまえること。
+- word: 様子
+  descriptions:
+  - ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。
+  - <ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。
+  - そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。
+  - わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。
+- word: ビデオ
+  descriptions:
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。
+  - 「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 広告
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。また、<ruby><rb>知</rb><rt>し</rt></ruby>らせるために<ruby><rb>書</rb><rt>か</rt></ruby>かれたものなど。コマーシャル。
+source_url: http://www3.nhk.or.jp/news/easy/k10011457901000/k10011457901000.html
+web_title_with_ruby: <ruby>米<rt>べい</rt></ruby><ruby>スターバックス<rt>すたーばっくす</rt></ruby>
+  <ruby>人種<rt>じんしゅ</rt></ruby><ruby>差別<rt>さべつ</rt></ruby><ruby>批判<rt>ひはん</rt></ruby><ruby>受<rt>う</rt></ruby>け<ruby>一斉<rt>いっせい</rt></ruby><ruby>閉店<rt>へいてん</rt></ruby>し<ruby>従業員<rt>じゅうぎょういん</rt></ruby><ruby>研修<rt>けんしゅう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/30/米スターバックス-人種差別批判受け一斉閉店し従業員研修
+related_news:
+- title: ローソン　レジに<ruby>並<rt>なら</rt></ruby>ばないでスマートフォンでお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/04/25/ローソン-レジに並ばないでスマートフォンでお金を払う
+- title: <ruby>大阪<rt>おおさか</rt></ruby>の<ruby>道頓堀<rt>どうとんぼり</rt></ruby>に<ruby>来月<rt>らいげつ</rt></ruby>「<ruby>道頓堀<rt>どうとんぼり</rt></ruby>スクエア」がオープンする
+  url: https://newswebeasy.github.io/news/easy/2018/05/29/大阪の道頓堀に来月道頓堀スクエアがオープンする
+- title: ＡＩが<ruby>入<rt>はい</rt></ruby>ったカメラで<ruby>店<rt>みせ</rt></ruby>の<ruby>品物<rt>しなもの</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>まれないようにする
+  url: https://newswebeasy.github.io/news/easy/2018/05/30/AIが入ったカメラで店の品物を盗まれないようにする
+- title: コンビニ　<ruby>店<rt>みせ</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う<ruby>電気<rt>でんき</rt></ruby>の<ruby>半分<rt>はんぶん</rt></ruby>を<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>と<ruby>風<rt>かぜ</rt></ruby>で<ruby>作<rt>つく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/05/23/コンビニ-店で使う電気の半分を太陽の光と風で作る
+...

@@ -1,0 +1,57 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011456971000
+last_modified_at: '2018-05-31T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 「ナスカの地上絵」はペルーのナスカの地面に２０００年ぐらい前にかかれたとても大きな絵です。
+title: ペルーのナスカの近くで２５以上の地上絵が見つかる
+title_with_ruby: ペルーのナスカの<ruby>近<rt>ちか</rt></ruby>くで２５<ruby>以上<rt>いじょう</rt></ruby>の<ruby>地上<rt>ちじょう</rt></ruby><ruby>絵<rt>え</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかる
+outline: 「ナスカの地上絵」はペルーのナスカの地面に２０００年ぐらい前にかかれたとても大きな絵です。
+outline_with_ruby: 「ナスカの<ruby>地上絵<rt>ちじょうえ</rt></ruby>」はペルーのナスカの<ruby>地面<rt>じめん</rt></ruby>に２０００<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>にかかれたとても<ruby>大<rt>おお</rt></ruby>きな<ruby>絵<rt>え</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/29/K10011456971_1805291503_1805291517_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/31/k10011456971000.mp4
+content_with_ruby: "<p>「ナスカの<ruby>地上絵<rt>ちじょうえ</rt></ruby>」はペルーのナスカの<span style=\"\
+  color: blue;\"><ruby>地面<rt>じめん</rt></ruby></span>に２０００<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>にかかれたとても<ruby>大<rt>おお</rt></ruby>きな<ruby>絵<rt>え</rt></ruby>です。<ruby>動物<rt>どうぶつ</rt></ruby>などの<ruby>絵<rt>え</rt></ruby>が<ruby>今<rt>いま</rt></ruby>までに１０００<ruby>以上<rt>いじょう</rt></ruby><ruby>見<rt>み</rt></ruby>つかっています。</p>\n\
+  <p>ペルーの<span style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、ナスカの２０ｋｍ<ruby>北<rt>きた</rt></ruby>にあるパルパという<ruby>町<rt>まち</rt></ruby>で、２５<ruby>以上<rt>いじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>地上<rt>ちじょう</rt></ruby></span><ruby>絵<rt>え</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかったと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p><ruby>見<rt>み</rt></ruby>つかったのは<span\
+  \ style=\"color: blue;\"><ruby>猿<rt>さる</rt></ruby></span>や<ruby>踊<rt>おど</rt></ruby>っている<ruby>女性<rt>じょせい</rt></ruby>などの<ruby>絵<rt>え</rt></ruby>です。<ruby>雨<rt>あめ</rt></ruby>や<ruby>風<rt>かぜ</rt></ruby>などで<ruby>絵<rt>え</rt></ruby>の<ruby>線<rt>せん</rt></ruby>が<ruby>細<rt>ほそ</rt></ruby>くなっていたため、<ruby>空<rt>そら</rt></ruby>の<ruby>高<rt>たか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>からはよく<ruby>見<rt>み</rt></ruby>えませんでした。<ruby>低<rt>ひく</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ぶドローンで<ruby>調<rt>しら</rt></ruby>べて、この<ruby>絵<rt>え</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかりました。</p>\n\
+  <p><ruby>専門家<rt>せんもんか</rt></ruby>は「ナスカの<ruby>地上絵<rt>ちじょうえ</rt></ruby>」より<ruby>前<rt>まえ</rt></ruby>にかかれた<ruby>絵<rt>え</rt></ruby>だと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 地上
+  descriptions:
+  - <ruby><rb>地面</rb><rt>じめん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>。
+- word: 地面
+  descriptions:
+  - <ruby><rb>土地</rb><rt>とち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>土</rb><rt>つち</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>。<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>。<ruby><rb>地</rb><rt>じ</rt></ruby>べた。
+  - <ruby><rb>土地</rb><rt>とち</rt></ruby>。<ruby><rb>地所</rb><rt>じしょ</rt></ruby>。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 猿
+  descriptions:
+  - <ruby><rb>森林</rb><rt>しんりん</rt></ruby>にすみ、<ruby><rb>木登</rb><rt>きのぼ</rt></ruby>りがうまく、<ruby><rb>群</rb><rt>む</rt></ruby>れを<ruby><rb>作</rb><rt>つく</rt></ruby>って<ruby><rb>暮</rb><rt>く</rt></ruby>らしている<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。チンパンジー・ゴリラ・オランウータン・テナガザルなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>にはニホンザルがいる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011456971000/k10011456971000.html
+web_title_with_ruby: <ruby>ナスカ<rt>なすか</rt></ruby>で<ruby>新<rt>あら</rt></ruby>たな<ruby>地上<rt>ちじょう</rt></ruby><ruby>絵<rt>え</rt></ruby>
+  <ruby>ドローン<rt>どろーん</rt></ruby>での<ruby>調査<rt>ちょうさ</rt></ruby>で<ruby>発見<rt>はっけん</rt></ruby>
+  <ruby>ペルー<rt>ぺるー</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/29/ナスカで新たな地上絵-ドローンでの調査で発見-ペルー
+related_news:
+- title: オークションで<ruby>買<rt>か</rt></ruby>った<ruby>絵<rt>え</rt></ruby>はレンブラントがかいた<ruby>絵<rt>え</rt></ruby>だった
+  url: https://newswebeasy.github.io/news/easy/2018/05/18/オークションで買った絵はレンブラントがかいた絵だった
+- title: <ruby>香港<rt>ほんこん</rt></ruby>　<ruby>香取<rt>かとり</rt></ruby><ruby>慎吾<rt>しんご</rt></ruby>さんが<ruby>壁<rt>かべ</rt></ruby>にかいた<ruby>絵<rt>え</rt></ruby>を<ruby>見<rt>み</rt></ruby>せる
+  url: https://newswebeasy.github.io/news/easy/2018/03/29/香港-香取慎吾さんが壁にかいた絵を見せる
+- title: フランスの<ruby>美術館<rt>びじゅつかん</rt></ruby>　<ruby>半分<rt>はんぶん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>絵<rt>え</rt></ruby>が<ruby>偽物<rt>にせもの</rt></ruby>だったと<ruby>謝<rt>あやま</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/05/02/フランスの美術館-半分以上の絵が偽物だったと謝る
+- title: <ruby>天皇<rt>てんのう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>と<ruby>皇后<rt>こうごう</rt></ruby>さまをかいた<ruby>絵<rt>え</rt></ruby>ができる
+  url: https://newswebeasy.github.io/news/easy/2018/05/22/天皇陛下と皇后さまをかいた絵ができる
+- title: ニューヨークで<ruby>日本<rt>にっぽん</rt></ruby>にいるような<ruby>写真<rt>しゃしん</rt></ruby>が<ruby>撮<rt>と</rt></ruby>れるイベント
+  url: https://newswebeasy.github.io/news/easy/2018/03/16/ニューヨークで日本にいるような写真が撮れるイベント
+...
