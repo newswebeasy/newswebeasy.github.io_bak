@@ -1,0 +1,80 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011459221000
+last_modified_at: '2018-05-31T17:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>05<ruby>月<rt>がつ</rt></ruby>31<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ３０日、アメリカのコロンビア大学でピュリツァー賞を渡す式がありました。
+title: アメリカ　ピュリツァー賞はセクハラを伝えたニュース
+title_with_ruby: アメリカ　ピュリツァー<ruby>賞<rt>しょう</rt></ruby>はセクハラを<ruby>伝<rt>つた</rt></ruby>えたニュース
+outline: ３０日、アメリカのコロンビア大学でピュリツァー賞を渡す式がありました。
+outline_with_ruby: ３０<ruby>日<rt>にち</rt></ruby>、アメリカのコロンビア<ruby>大学<rt>だいがく</rt></ruby>でピュリツァー<ruby>賞<rt>しょう</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>す<ruby>式<rt>しき</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201805/news/web/image/2018/05/31/K10011459221_1805310833_1805310846_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201805/news/easy/voice/2018/05/31/k10011459221000.mp4
+content_with_ruby: "<p>３０<ruby>日<rt>にち</rt></ruby>、アメリカのコロンビア<ruby>大学<rt>だいがく</rt></ruby>でピュリツァー<ruby>賞<rt>しょう</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>す<ruby>式<rt>しき</rt></ruby>がありました。ピュリツァー<ruby>賞<rt>しょう</rt></ruby>は、<ruby>誰<rt>だれ</rt></ruby>も<ruby>知<rt>し</rt></ruby>らなかったようなニュースをアメリカで<ruby>伝<rt>つた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>などに<span\
+  \ style=\"color: blue;\"><ruby>贈<rt>おく</rt></ruby>る</span><span style=\"color: blue;\"\
+  ><ruby>賞<rt>しょう</rt></ruby></span>です。</p>\n<p><ruby>新聞<rt>しんぶん</rt></ruby>の「ニューヨークタイムズ」と<ruby>雑誌<rt>ざっし</rt></ruby>の「ニューヨーカー」は、<ruby>大<rt>おお</rt></ruby>きな<ruby>力<rt>ちから</rt></ruby>を<ruby>持<rt>も</rt></ruby>っている<span\
+  \ style=\"color: blue;\">プロデューサー</span>が<span style=\"color: blue;\">セクハラ</span>をしたと<ruby>伝<rt>つた</rt></ruby>えて、<ruby>一緒<rt>いっしょ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>賞<rt>しょう</rt></ruby></span>をもらいました。</p>\n<p>このニュースのあと、インターネットでは<ruby>世界中<rt>せかいじゅう</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>たちから<ruby>私<rt>わたし</rt></ruby>も<span\
+  \ style=\"color: blue;\">セクハラ</span>をされたという<ruby>声<rt>こえ</rt></ruby>などが<ruby>集<rt>あつ</rt></ruby>まりました。ニュースが<ruby>社会<rt>しゃかい</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>動<rt>うご</rt></ruby>かし</span>たと<ruby>言<rt>い</rt></ruby>われています。</p>\n\
+  <p>「ニューヨーカー」のロナン・ファロー<span style=\"color: blue;\"><ruby>記者<rt>きしゃ</rt></ruby></span>は「<span\
+  \ style=\"color: blue;\"><ruby>勇気<rt>ゆうき</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>して<ruby>話<rt>はな</rt></ruby>した<ruby>女性<rt>じょせい</rt></ruby>たちに<span\
+  \ style=\"color: blue;\"><ruby>感謝<rt>かんしゃ</rt></ruby></span>します。<ruby>女性<rt>じょせい</rt></ruby>たちの<ruby>声<rt>こえ</rt></ruby>がいま<ruby>世界<rt>せかい</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>広<rt>ひろ</rt></ruby>がっ</span>ています。もっと<ruby>調<rt>しら</rt></ruby>べて<span\
+  \ style=\"color: blue;\"><ruby>記事<rt>きじ</rt></ruby></span>を<ruby>書<rt>か</rt></ruby>かないといけないと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: セクシャルハラスメント
+  descriptions:
+  - <ruby><rb>性</rb><rt>せい</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>して<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>不快</rb><rt>ふかい</rt></ruby>にしたり<ruby><rb>不安</rb><rt>ふあん</rt></ruby>にしたりする、いやがらせ。セクハラ。
+- word: 贈る
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。
+  - <ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。
+- word: 賞
+  descriptions:
+  - ほめる。たたえる。
+  - ほうび。
+  - <ruby><rb>味</rb><rt>あじ</rt></ruby>わって<ruby><rb>楽</rb><rt>たの</rt></ruby>しむ。
+- word: プロデューサー
+  descriptions:
+  - <ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>演劇</rb><rt>えんげき</rt></ruby>・<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>責任者</rb><rt>せきにんしゃ</rt></ruby>。
+- word: 動かす
+  descriptions:
+  - <ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。
+  - <ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。
+  - <ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。
+- word: 記者
+  descriptions:
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 勇気
+  descriptions:
+  - <ruby><rb>何事</rb><rt>なにごと</rt></ruby>もおそれない<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>心</rb><rt>こころ</rt></ruby>。
+- word: 感謝
+  descriptions:
+  - ありがたいと<ruby><rb>思</rb><rt>おも</rt></ruby>う<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。また、その<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。
+- word: 広がる
+  descriptions:
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>くなる。
+  - <ruby><rb>広々</rb><rt>ひろびろ</rt></ruby>と<ruby><rb>見</rb><rt>み</rt></ruby>わたせる。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。
+- word: 記事
+  descriptions:
+  - できごとやものごとを<ruby><rb>伝</rb><rt>つた</rt></ruby>えるために、<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011459221000/k10011459221000.html
+web_title_with_ruby: <ruby>ピュリツァー<rt>ぴゅりつぁー</rt></ruby><ruby>賞<rt>しょう</rt></ruby><ruby>授賞式<rt>じゅしょうしき</rt></ruby>
+  <ruby>セクハラ<rt>せくはら</rt></ruby><ruby>告発<rt>こくはつ</rt></ruby>の<ruby>記者<rt>きしゃ</rt></ruby>が<ruby>受賞<rt>じゅしょう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/31/ピュリツァー賞授賞式-セクハラ告発の記者が受賞
+related_news:
+- title: 「セクハラをなくしたい」<ruby>女性<rt>じょせい</rt></ruby>の<ruby>記者<rt>きしゃ</rt></ruby>がグループを<ruby>作<rt>つく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/05/16/セクハラをなくしたい女性の記者がグループを作る
+- title: <ruby>雑誌<rt>ざっし</rt></ruby>にセクハラしたと<ruby>書<rt>か</rt></ruby>かれた<ruby>財務省<rt>ざいむしょう</rt></ruby>の<ruby>事務<rt>じむ</rt></ruby><ruby>次官<rt>じかん</rt></ruby>がやめる
+  url: https://newswebeasy.github.io/news/easy/2018/04/19/雑誌にセクハラしたと書かれた財務省の事務次官がやめる
+- title: サウジアラビアで<ruby>女性<rt>じょせい</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント
+  url: https://newswebeasy.github.io/news/easy/2018/05/17/サウジアラビアで女性に車を紹介するイベント
+- title: <ruby>選挙<rt>せんきょ</rt></ruby>で<ruby>男性<rt>だんせい</rt></ruby>と<ruby>女性<rt>じょせい</rt></ruby>の<ruby>候補<rt>こうほ</rt></ruby>を<ruby>同<rt>おな</rt></ruby>じぐらいにする<ruby>法律<rt>ほうりつ</rt></ruby>ができる
+  url: https://newswebeasy.github.io/news/easy/2018/05/17/選挙で男性と女性の候補を同じぐらいにする法律ができる
+...

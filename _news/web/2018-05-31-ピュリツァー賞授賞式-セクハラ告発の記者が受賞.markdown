@@ -57,9 +57,9 @@ more: ピュリツァー<ruby>賞<rt data-ruby-level="4">しょう</rt></ruby>�
 movie_url: https://newswebeasy.github.io/ja201805/news/web/movie/2018/05/31/k10011459221_201805310700_201805310700.mp4
 voice_url: https://newswebeasy.github.io/ja201805/news/web/voice/2018/05/31/k10011459221_201805310700_201805310700.mp3
 source_url: https://www3.nhk.or.jp/news/html/20180531/k10011459221000.html
-easy_title_with_ruby: アメリカ <ruby>ピュリッツァー<rt data-ruby-level="4">ぴゅりっつぁー</rt></ruby><ruby>賞<rt
-  data-ruby-level="4">しょう</rt></ruby>はセクハラを<ruby>伝<rt data-ruby-level="4">つた</rt></ruby>えたニュース
-easy_news_url: https://newswebeasy.github.io/news/easy/2018/05/31/アメリカ-ピュリッツァー賞はセクハラを伝えたニュース
+easy_title_with_ruby: アメリカ ピュリツァー<ruby>賞<rt data-ruby-level="4">しょう</rt></ruby>はセクハラを<ruby>伝<rt
+  data-ruby-level="4">つた</rt></ruby>えたニュース
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/05/31/アメリカ-ピュリツァー賞はセクハラを伝えたニュース
 related_news:
 - title: 「＃ＭｅＴｏｏ」<ruby>米<rt data-ruby-level="2">べい</rt></ruby><ruby>大物<rt data-ruby-level="3">だいもつ</rt></ruby>プロデューサーを<ruby>訴追<rt
     data-ruby-level="7">そつい</rt></ruby> <ruby>性的<rt data-ruby-level="5">せいてき</rt></ruby><ruby>暴行<rt
