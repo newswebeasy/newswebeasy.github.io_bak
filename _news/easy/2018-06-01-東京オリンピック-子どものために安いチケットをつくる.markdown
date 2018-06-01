@@ -1,0 +1,58 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011458681000
+last_modified_at: '2018-06-01T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>01<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ２０２０年に東京でオリンピックとパラリンピックがあります。
+title: 東京オリンピック　子どものために安いチケットをつくる
+title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>オリンピック　<ruby>子<rt>こ</rt></ruby>どものために<ruby>安<rt>やす</rt></ruby>いチケットをつくる
+outline: ２０２０年に東京でオリンピックとパラリンピックがあります。
+outline_with_ruby: ２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>でオリンピックとパラリンピックがあります。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/05/30/K10011458681_1805302018_1805302022_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/01/k10011458681000.mp4
+content_with_ruby: "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<span\
+  \ style=\"color: blue;\">オリンピック</span>と<span style=\"color: blue;\">パラリンピック</span>があります。この<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>の<ruby>準備<rt>じゅんび</rt></ruby>をしている<ruby>組織委員会<rt>そしきいいんかい</rt></ruby>は３０<ruby>日<rt>にち</rt></ruby>、<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>いて、<span\
+  \ style=\"color: blue;\">チケット</span>の<ruby>値段<rt>ねだん</rt></ruby>や<span style=\"\
+  color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>について<span style=\"color: blue;\"\
+  ><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>い</span>ました。</p>\n<p><ruby>会議<rt>かいぎ</rt></ruby>では、たくさんの<ruby>子<rt>こ</rt></ruby>どもに<ruby>来<rt>き</rt></ruby>てもらうため、<ruby>安<rt>やす</rt></ruby>い<span\
+  \ style=\"color: blue;\">チケット</span>をつくって<ruby>学校<rt>がっこう</rt></ruby>などで<ruby>売<rt>う</rt></ruby>ることを<ruby>決<rt>き</rt></ruby>めました。</p>\n\
+  <p><ruby>子<rt>こ</rt></ruby>どもの<span style=\"color: blue;\">チケット</span>は、<ruby>小学校<rt>しょうがっこう</rt></ruby>と<ruby>中学校<rt>ちゅうがっこう</rt></ruby>と<ruby>高校<rt>こうこう</rt></ruby>と<ruby>特別支援学校<rt>とくべつしえんがっこう</rt></ruby>で１００<ruby>万<rt>まん</rt></ruby><ruby>枚<rt>まい</rt></ruby>ぐらい<ruby>売<rt>う</rt></ruby>ります。<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">チケット</span>は<ruby>全部<rt>ぜんぶ</rt></ruby>で１０１０<ruby>万<rt>まん</rt></ruby><ruby>枚<rt>まい</rt></ruby>で、その１０％ぐらいが<ruby>子<rt>こ</rt></ruby>どもの<span\
+  \ style=\"color: blue;\">チケット</span>になります。</p>\n<p></p>\n<p></p>"
+words:
+- word: チケット
+  descriptions:
+  - きっぷ。<ruby><rb>券</rb><rt>けん</rt></ruby>。<ruby><rb>入場券</rb><rt>にゅうじょうけん</rt></ruby>・<ruby><rb>乗車券</rb><rt>じょうしゃけん</rt></ruby>・<ruby><rb>食券</rb><rt>しょっけん</rt></ruby>など。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>４年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: 大会
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+  - ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 話し合う
+  descriptions:
+  - たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。
+  - <ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。
+source_url: http://www3.nhk.or.jp/news/easy/k10011458681000/k10011458681000.html
+web_title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby><ruby>五輪<rt>ごりん</rt></ruby> <ruby>低価格<rt>ていかかく</rt></ruby>の<ruby>子<rt>こ</rt></ruby>ども<ruby>向<rt>む</rt></ruby>け<ruby>チケット<rt>ちけっと</rt></ruby>
+  100<ruby>万<rt>まん</rt></ruby><ruby>枚<rt>まい</rt></ruby><ruby>規模<rt>きぼ</rt></ruby>で<ruby>販売<rt>はんばい</rt></ruby>へ
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/30/東京五輪-低価格の子ども向けチケット-100万枚規模で販売へ
+related_news:
+- title: <ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>む<ruby>子<rt>こ</rt></ruby>ども「<ruby>体<rt>からだ</rt></ruby>と<ruby>心<rt>こころ</rt></ruby>の<ruby>治療<rt>ちりょう</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>」
+  url: https://newswebeasy.github.io/news/easy/2018/03/05/体の調子が悪くて学校を休む子ども体と心の治療が大切
+- title: <ruby>東京都<rt>とうきょうと</rt></ruby>　<ruby>子<rt>こ</rt></ruby>どもの７０％がスマートフォンなどを<ruby>使<rt>つか</rt></ruby>っている
+  url: https://newswebeasy.github.io/news/easy/2018/05/08/東京都-子どもの70がスマートフォンなどを使っている
+- title: 「<ruby>子<rt>こ</rt></ruby>ども<ruby>食堂<rt>しょくどう</rt></ruby>」が２０００<ruby>以上<rt>いじょう</rt></ruby>になる　おととしの７<ruby>倍<rt>ばい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/05/子ども食堂が2000以上になる-おととしの7倍
+...
