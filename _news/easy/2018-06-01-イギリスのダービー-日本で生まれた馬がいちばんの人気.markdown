@@ -1,0 +1,74 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011460711000
+last_modified_at: '2018-06-01T17:15:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>01<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>15<ruby>分<rt>ふん</rt></ruby>
+description: １３年前、日本の３つの大きな競馬のレースで「ディープインパクト」という馬が優勝しました。
+title: イギリスの「ダービー」　日本で生まれた馬がいちばんの人気
+title_with_ruby: イギリスの「ダービー」　<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれた<ruby>馬<rt>うま</rt></ruby>がいちばんの<ruby>人気<rt>にんき</rt></ruby>
+outline: １３年前、日本の３つの大きな競馬のレースで「ディープインパクト」という馬が優勝しました。
+outline_with_ruby: １３<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の３つの<ruby>大<rt>おお</rt></ruby>きな<ruby>競馬<rt>けいば</rt></ruby>のレースで「ディープインパクト」という<ruby>馬<rt>うま</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/01/K10011460711_1806010158_1806010433_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/01/k10011460711000.mp4
+content_with_ruby: "<p>１３<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>の３つの<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>競馬<rt>けいば</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">レース</span>で「ディープインパクト」という<span style=\"color: blue;\"><ruby>馬<rt>うま</rt></ruby></span>が<span\
+  \ style=\"color: blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>しました。この<span style=\"\
+  color: blue;\"><ruby>馬<rt>うま</rt></ruby></span>の<ruby>子<rt>こ</rt></ruby>どもの「サクソンウォリアー」は２０１５<ruby>年<rt>ねん</rt></ruby>に<ruby>北海道<rt>ほっかいどう</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれて、アイルランドで<ruby>練習<rt>れんしゅう</rt></ruby>をしていました。</p>\n\
+  <p>サクソンウォリアーは、イギリスで<ruby>歴史<rt>れきし</rt></ruby>が<ruby>長<rt>なが</rt></ruby>い「ダービー」という<span\
+  \ style=\"color: blue;\">レース</span>に<ruby>出<rt>で</rt></ruby>ます。<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれた<span\
+  \ style=\"color: blue;\"><ruby>馬<rt>うま</rt></ruby></span>がダービーで<ruby>走<rt>はし</rt></ruby>るのは<ruby>初<rt>はじ</rt></ruby>めてです。サクソンウォリアーは、４<ruby>回<rt>かい</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<span\
+  \ style=\"color: blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>していて<ruby>負<rt>ま</rt></ruby>けたことがありません。ダービーで<span\
+  \ style=\"color: blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>する<span style=\"color:\
+  \ blue;\"><ruby>馬<rt>うま</rt></ruby></span>の<span style=\"color: blue;\"><ruby>予想<rt>よそう</rt></ruby></span>では、<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>がいちばん<ruby>高<rt>たか</rt></ruby>くなっています。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>予想<rt>よそう</rt></ruby></span>を<span style=\"\
+  color: blue;\">まとめる</span><ruby>会社<rt>かいしゃ</rt></ruby>は「サクソンウォリアーには、<ruby>最近<rt>さいきん</rt></ruby>の１０<ruby>年<rt>ねん</rt></ruby>ぐらいでいちばんたくさんのお<ruby>金<rt>かね</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>賭<rt>か</rt></ruby>け</span>られそうです」と<ruby>話<rt>はな</rt></ruby>しています。ダービーで、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれた<span\
+  \ style=\"color: blue;\"><ruby>馬<rt>うま</rt></ruby></span>が<ruby>初<rt>はじ</rt></ruby>めて<span\
+  \ style=\"color: blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>するかどうか、たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>興味<rt>きょうみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っています。ダービーは、イギリスの<ruby>時間<rt>じかん</rt></ruby>の６<ruby>月<rt>がつ</rt></ruby><ruby>２日<rt>ふつか</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>われます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 馬
+  descriptions:
+  - <ruby><rb>家畜</rb><rt>かちく</rt></ruby>として<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>飼</rb><rt>か</rt></ruby>われる<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>力</rb><rt>ちから</rt></ruby>が<ruby><rb>強</rb><rt>つよ</rt></ruby>く、<ruby><rb>走</rb><rt>はし</rt></ruby>るのがはやい。<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>の<ruby><rb>運搬</rb><rt>うんぱん</rt></ruby>や<ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>、<ruby><rb>競馬</rb><rt>けいば</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: 競馬
+  descriptions:
+  - <ruby><rb>騎手</rb><rt>きしゅ</rt></ruby>が<ruby><rb>馬</rb><rt>うま</rt></ruby>に<ruby><rb>乗</rb><rt>の</rt></ruby>って、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競走</rb><rt>きょうそう</rt></ruby>。
+- word: レース
+  descriptions:
+  - <ruby><rb>競走</rb><rt>きょうそう</rt></ruby>・<ruby><rb>競泳</rb><rt>きょうえい</rt></ruby>などの<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。
+  - <ruby><rb>競争</rb><rt>きょうそう</rt></ruby>。
+- word: 優勝
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>などで、<ruby><rb>一位</rb><rt>いちい</rt></ruby>で<ruby><rb>勝</rb><rt>か</rt></ruby>つこと。
+- word: 予想
+  descriptions:
+  - <ruby><rb>前</rb><rt>まえ</rt></ruby>もって、こうだろうと<ruby><rb>考</rb><rt>かんが</rt></ruby>えること。または、その<ruby><rb>考</rb><rt>かんが</rt></ruby>え。
+- word: まとめる
+  descriptions:
+  - ばらばらだったものを<ruby><rb>一</rb><rt>ひと</rt></ruby>つにする。
+  - うまく<ruby><rb>解決</rb><rt>かいけつ</rt></ruby>する。
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つのものとして、きちんと<ruby><rb>仕上</rb><rt>しあ</rt></ruby>げる。
+- word: 賭ける
+  descriptions:
+  - <ruby><rb>勝</rb><rt>か</rt></ruby>ったほうがもらう<ruby><rb>約束</rb><rt>やくそく</rt></ruby>で、お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。かけごとをする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011460711000/k10011460711000.html
+web_title_with_ruby: <ruby>イギリス<rt>いぎりす</rt></ruby><ruby>伝統<rt>でんとう</rt></ruby>の「<ruby>ダービー<rt>だーびー</rt></ruby>」
+  <ruby>日本<rt>にっぽん</rt></ruby><ruby>生<rt>う</rt></ruby>まれの<ruby>競走馬<rt>きょうそうば</rt></ruby>が１<ruby>番<rt>ばん</rt></ruby><ruby>人気<rt>にんき</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/01/イギリス伝統のダービー-日本生まれの競走馬が1番人気
+related_news:
+- title: <ruby>馬<rt>うま</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>戦<rt>たたか</rt></ruby>う「<ruby>打毬<rt>だきゅう</rt></ruby>」を<ruby>天皇<rt>てんのう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>に<ruby>見<rt>み</rt></ruby>せる
+  url: https://newswebeasy.github.io/news/easy/2018/05/30/馬に乗って戦う打毬を天皇陛下に見せる
+- title: アメリカのボストンマラソンで<ruby>川内<rt>かわうち</rt></ruby><ruby>優輝<rt>ゆうき</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/17/アメリカのボストンマラソンで川内優輝選手が優勝
+- title: <ruby>高梨<rt>たかなし</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がワールドカップで<ruby>優勝<rt>ゆうしょう</rt></ruby>　いちばん<ruby>多<rt>おお</rt></ruby>い<ruby>記録<rt>きろく</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/03/26/高梨選手がワールドカップで優勝-いちばん多い記録になる
+- title: テニスの<ruby>大坂<rt>おおさか</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>国際<rt>こくさい</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>で<ruby>優勝<rt>ゆうしょう</rt></ruby>　<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>女子<rt>じょし</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて
+  url: https://newswebeasy.github.io/news/easy/2018/03/19/テニスの大坂選手が国際大会で優勝-日本の女子で初めて
+...

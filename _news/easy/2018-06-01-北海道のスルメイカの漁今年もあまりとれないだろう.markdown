@@ -1,0 +1,66 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011458341000
+last_modified_at: '2018-06-01T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>01<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ６月１日から北海道の海でスルメイカというイカの漁が始まりました。
+title: 北海道のスルメイカの漁「今年もあまりとれないだろう」
+title_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby>のスルメイカの<ruby>漁<rt>りょう</rt></ruby>「<ruby>今年<rt>ことし</rt></ruby>もあまりとれないだろう」
+outline: ６月１日から北海道の海でスルメイカというイカの漁が始まりました。
+outline_with_ruby: ６<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>でスルメイカというイカの<ruby>漁<rt>りょう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/05/30/K10011458341_1805301635_1805301646_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/01/k10011458341000.mp4
+content_with_ruby: "<p>６<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>から<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>でスルメイカという<span\
+  \ style=\"color: blue;\">イカ</span>の<span style=\"color: blue;\"><ruby>漁<rt>りょう</rt></ruby></span>が<ruby>始<rt>はじ</rt></ruby>まりました。<ruby>日本<rt>にっぽん</rt></ruby>ではスルメイカをよく<ruby>食<rt>た</rt></ruby>べますが、<ruby>最近<rt>さいきん</rt></ruby>はあまり<span\
+  \ style=\"color: blue;\">とれ</span>なくなっています。<span style=\"color: blue;\"><ruby>農林水産省<rt>のうりんすいさんしょう</rt></ruby></span>によると、<ruby>去年<rt>きょねん</rt></ruby><span\
+  \ style=\"color: blue;\">とれ</span>たスルメイカは、たくさん<span style=\"color: blue;\">とれ</span>た５０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の１０％<ruby>以下<rt>いか</rt></ruby>で、<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>少<rt>すく</rt></ruby>なくなりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>漁<rt>りょう</rt></ruby></span>が<ruby>始<rt>はじ</rt></ruby>まる<ruby>前<rt>まえ</rt></ruby>の５<ruby>月<rt>がつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>、スルメイカの<span\
+  \ style=\"color: blue;\"><ruby>漁<rt>りょう</rt></ruby></span>をする<ruby>人<rt>ひと</rt></ruby>などが<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>函館市<rt>はこだてし</rt></ruby>に<ruby>集<rt>あつ</rt></ruby>まりました。そして、<span\
+  \ style=\"color: blue;\">イカ</span>を<ruby>研究<rt>けんきゅう</rt></ruby>している<ruby>専門家<rt>せんもんか</rt></ruby>が<ruby>今年<rt>ことし</rt></ruby>スルメイカがどのくらい<span\
+  \ style=\"color: blue;\">とれ</span>そうか<ruby>話<rt>はな</rt></ruby>しました。</p>\n<p><ruby>専門家<rt>せんもんか</rt></ruby>によると、<ruby>卵<rt>たまご</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>産<rt>う</rt></ruby>む</span><span style=\"color: blue;\"\
+  ><ruby>親<rt>おや</rt></ruby></span>のスルメイカが<ruby>少<rt>すく</rt></ruby>なくなっています。<ruby>卵<rt>たまご</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>産<rt>う</rt></ruby>む</span><ruby>場所<rt>ばしょ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>温度<rt>おんど</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べると、<span\
+  \ style=\"color: blue;\"><ruby>産<rt>う</rt></ruby>み</span>やすい<ruby>場所<rt>ばしょ</rt></ruby>も<ruby>去年<rt>きょねん</rt></ruby>やおととしと<ruby>同<rt>おな</rt></ruby>じように<ruby>少<rt>すく</rt></ruby>なくなっています。このため、<ruby>専門家<rt>せんもんか</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>もスルメイカがあまり<span\
+  \ style=\"color: blue;\">とれ</span>ないだろうと<ruby>話<rt>はな</rt></ruby>しました。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 漁
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>などをとること。
+- word: 捕れる
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+  - とることができる。
+- word: 烏賊
+  descriptions:
+  - <ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。スルメイカ・ヤリイカ・ホタルイカなど。<ruby><rb>胴</rb><rt>どう</rt></ruby>は<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>いふくろの<ruby><rb>形</rb><rt>かたち</rt></ruby>で、１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>の<ruby><rb>足</rb><rt>あし</rt></ruby>が<ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>から<ruby><rb>出</rb><rt>で</rt></ruby>ている。<ruby><rb>敵</rb><rt>てき</rt></ruby>にあうと、すみをはいてにげる。
+- word: 農林水産省
+  descriptions:
+  - <ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>・<ruby><rb>林業</rb><rt>りんぎょう</rt></ruby>・<ruby><rb>水産業</rb><rt>すいさんぎょう</rt></ruby>・<ruby><rb>畜産業</rb><rt>ちくさんぎょう</rt></ruby>などについての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>農水省</rb><rt>のうすいしょう</rt></ruby>。
+- word: 産む
+  descriptions:
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+- word: 親
+  descriptions:
+  - <ruby><rb>父</rb><rt>ちち</rt></ruby>や<ruby><rb>母</rb><rt>はは</rt></ruby>。<ruby><rb>両親</rb><rt>りょうしん</rt></ruby>。
+  - <ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>をうんだもの。
+  - トランプやかるたなどの<ruby><rb>遊</rb><rt>あそ</rt></ruby>びで、カードを<ruby><rb>配</rb><rt>くば</rt></ruby>る<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となるもの。<ruby><rb>大</rb><rt>おお</rt></ruby>きいもの。
+- word: 温度
+  descriptions:
+  - <ruby><rb>熱</rb><rt>あつ</rt></ruby>さや<ruby><rb>冷</rb><rt>つめ</rt></ruby>たさの<ruby><rb>度合</rb><rt>どあ</rt></ruby>いを<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。
+- word: 産む
+  descriptions:
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+source_url: http://www3.nhk.or.jp/news/easy/k10011458341000/k10011458341000.html
+web_title_with_ruby: <ruby>イカ<rt>いか</rt></ruby><ruby>漁<rt>りょう</rt></ruby> “ことしも<ruby>不漁<rt>ふりょう</rt></ruby>の<ruby>傾向<rt>けいこう</rt></ruby><ruby>続<rt>つづ</rt></ruby>く”
+  <ruby>研究者<rt>けんきゅうしゃ</rt></ruby>が<ruby>報告<rt>ほうこく</rt></ruby> <ruby>北海道<rt>ほっかいどう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/05/30/イカ漁-ことしも不漁の傾向続く-研究者が報告-北海道
+related_news:
+- title: スルメイカとサンマとサケの<ruby>漁<rt>りょう</rt></ruby>　<ruby>去年<rt>きょねん</rt></ruby>はとても<ruby>少<rt>すく</rt></ruby>なかった
+  url: https://newswebeasy.github.io/news/easy/2018/05/01/スルメイカとサンマとサケの漁-去年はとても少なかった
+...
