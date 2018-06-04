@@ -1,0 +1,80 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011463541000
+last_modified_at: '2018-06-04T17:15:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>04<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>15<ruby>分<rt>ふん</rt></ruby>
+description: 宇宙飛行士の金井宣茂さんが、日本の時間の３日、宇宙船に乗って地球に帰ってきました。
+title: 宇宙飛行士の金井さんが６か月の仕事が終わって地球に帰る
+title_with_ruby: <ruby>宇宙飛行士<rt>うちゅうひこうし</rt></ruby>の<ruby>金井<rt>かない</rt></ruby>さんが６か<ruby>月<rt>げつ</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>が<ruby>終<rt>お</rt></ruby>わって<ruby>地球<rt>ちきゅう</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>る
+outline: 宇宙飛行士の金井宣茂さんが、日本の時間の３日、宇宙船に乗って地球に帰ってきました。
+outline_with_ruby: <ruby>宇宙飛行士<rt>うちゅうひこうし</rt></ruby>の<ruby>金井<rt>かない</rt></ruby><ruby>宣茂<rt>のりしげ</rt></ruby>さんが、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>の<ruby>３日<rt>みっか</rt></ruby>、<ruby>宇宙船<rt>うちゅうせん</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>地球<rt>ちきゅう</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ってきました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/03/K10011463541_1806032301_1806040814_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/04/k10011463541000.mp4
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>宇宙飛行士<rt>うちゅうひこうし</rt></ruby></span>の<ruby>金井<rt>かない</rt></ruby><ruby>宣茂<rt>のりしげ</rt></ruby>さんが、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>の<ruby>３日<rt>みっか</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>宇宙船<rt>うちゅうせん</rt></ruby></span>に<ruby>乗<rt>の</rt></ruby>って<span\
+  \ style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>に<ruby>帰<rt>かえ</rt></ruby>ってきました。カザフスタンに<ruby>着<rt>つ</rt></ruby>いた<ruby>金井<rt>かない</rt></ruby>さんは、<span\
+  \ style=\"color: blue;\"><ruby>宇宙船<rt>うちゅうせん</rt></ruby></span>から<ruby>出<rt>で</rt></ruby>ると、<ruby>笑<rt>わら</rt></ruby>って<ruby>手<rt>て</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>振<rt>ふ</rt></ruby>り</span>ました。</p>\n<p><ruby>金井<rt>かない</rt></ruby>さんは、<ruby>去年<rt>きょねん</rt></ruby>１２<ruby>月<rt>がつ</rt></ruby>から<ruby>国際<rt>こくさい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby>ステーション</span>で<ruby>仕事<rt>しごと</rt></ruby>をしていました。<span\
+  \ style=\"color: blue;\"><ruby>医師<rt>いし</rt></ruby></span>をしていた<ruby>金井<rt>かない</rt></ruby>さんは、<ruby>体<rt>からだ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>変化<rt>へんか</rt></ruby></span>や<ruby>新<rt>あたら</rt></ruby>しい<ruby>薬<rt>くすり</rt></ruby>などの<span\
+  \ style=\"color: blue;\"><ruby>実験<rt>じっけん</rt></ruby></span>をしました。<ruby>国際<rt>こくさい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby>ステーション</span>から<ruby>出<rt>で</rt></ruby>て<span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>で<span style=\"color:\
+  \ blue;\"><ruby>作業<rt>さぎょう</rt></ruby></span>もしました。</p>\n<p><ruby>金井<rt>かない</rt></ruby>さんは「これからたくさんの<ruby>人<rt>ひと</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>に<ruby>行<rt>い</rt></ruby>く<ruby>時代<rt>じだい</rt></ruby>になると<ruby>思<rt>おも</rt></ruby>います。<ruby>私<rt>わたし</rt></ruby>はみなさんより<ruby>先<rt>さき</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>に<ruby>行<rt>い</rt></ruby>くことができて<span\
+  \ style=\"color: blue;\"><ruby>幸<rt>しあわ</rt></ruby>せ</span>です」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 宇宙飛行士
+  descriptions:
+  - <ruby><rb>宇宙船</rb><rt>うちゅうせん</rt></ruby>や<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>ステーションの<ruby><rb>乗組員</rb><rt>のりくみいん</rt></ruby>。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: 宇宙船
+  descriptions:
+  - <ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>飛行</rb><rt>ひこう</rt></ruby>するための<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: 振る
+  descriptions:
+  - ゆり<ruby><rb>動</rb><rt>うご</rt></ruby>かす。
+  - まき<ruby><rb>散</rb><rt>ち</rt></ruby>らす。
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>割</rb><rt>わ</rt></ruby>り<ruby><rb>当</rb><rt>あ</rt></ruby>てる。
+  - つける。
+  - やめる。<ruby><rb>断</rb><rt>ことわ</rt></ruby>る。
+  - むだにする。
+  - <ruby><rb>向</rb><rt>む</rt></ruby>きを<ruby><rb>変</rb><rt>か</rt></ruby>える。
+- word: 宇宙ステーション
+  descriptions:
+  - スペースシャトルなどで<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby><ruby><rb>旅行</rb><rt>りょこう</rt></ruby>や、<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>での<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>の<ruby><rb>基地</rb><rt>きち</rt></ruby>として、その<ruby><rb>中</rb><rt>なか</rt></ruby>でたくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>続</rb><rt>つづ</rt></ruby>けられる<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>人工衛星</rb><rt>じんこうえいせい</rt></ruby>。
+- word: 医師
+  descriptions:
+  - <ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがを<ruby><rb>治</rb><rt>なお</rt></ruby>すことを<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>とする<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>。
+- word: 変化
+  descriptions:
+  - ようすや<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>が<ruby><rb>変</rb><rt>か</rt></ruby>わること。
+- word: 実験
+  descriptions:
+  - <ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。
+- word: 宇宙
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。
+- word: 作業
+  descriptions:
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>をすること。
+- word: 幸せ
+  descriptions:
+  - <ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>満足</rb><rt>まんぞく</rt></ruby>している<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011463541000/k10011463541000.html
+web_title_with_ruby: <ruby>宇宙<rt>うちゅう</rt></ruby><ruby>飛行士<rt>ひこうし</rt></ruby> <ruby>金井<rt>かない</rt></ruby>さん<ruby>無事<rt>ぶじ</rt></ruby><ruby>帰還<rt>きかん</rt></ruby>
+  <ruby>半年間<rt>はんとしかん</rt></ruby>の<ruby>任務<rt>にんむ</rt></ruby><ruby>終<rt>お</rt></ruby>え
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/03/宇宙飛行士-金井さん無事帰還-半年間の任務終え
+related_news:
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>宇宙<rt>うちゅう</rt></ruby>ステーションの<ruby>破片<rt>はへん</rt></ruby>が<ruby>落<rt>お</rt></ruby>ちてくるかもしれない
+  url: https://newswebeasy.github.io/news/easy/2018/03/29/中国の宇宙ステーションの破片が落ちてくるかもしれない
+- title: <ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>なホーキング<ruby>博士<rt>はかせ</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/03/15/宇宙の研究で有名なホーキング博士が亡くなる
+...

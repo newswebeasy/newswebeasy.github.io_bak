@@ -1,0 +1,62 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011460441000
+last_modified_at: '2018-06-04T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>04<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 日本出版販売は、去年の１１月下旬から６か月の間にたくさん売れた本を発表しました。
+title: ６か月で１番売れた本は「漫画　君たちはどう生きるか」
+title_with_ruby: ６か<ruby>月<rt>げつ</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby><ruby>売<rt>う</rt></ruby>れた<ruby>本<rt>ほん</rt></ruby>は「<ruby>漫画<rt>まんが</rt></ruby>　<ruby>君<rt>きみ</rt></ruby>たちはどう<ruby>生<rt>い</rt></ruby>きるか」
+outline: 日本出版販売は、去年の１１月下旬から６か月の間にたくさん売れた本を発表しました。
+outline_with_ruby: <ruby>日本出版販売<rt>にっぽんしゅっぱんはんばい</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>の１１<ruby>月<rt>がつ</rt></ruby><ruby>下旬<rt>げじゅん</rt></ruby>から６か<ruby>月<rt>げつ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にたくさん<ruby>売<rt>う</rt></ruby>れた<ruby>本<rt>ほん</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/01/K10011460441_1805312156_1805312207_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/04/k10011460441000.mp4
+content_with_ruby: "<p><ruby>日本出版販売<rt>にっぽんしゅっぱんはんばい</rt></ruby>は、<ruby>去年<rt>きょねん</rt></ruby>の１１<ruby>月<rt>がつ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>下旬<rt>げじゅん</rt></ruby></span>から６か<ruby>月<rt>げつ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にたくさん<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れ</span>た<ruby>本<rt>ほん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>１<ruby>番<rt>ばん</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れ</span>た<ruby>本<rt>ほん</rt></ruby>は、１９３７<ruby>年<rt>ねん</rt></ruby>に<ruby>吉野<rt>よしの</rt></ruby><ruby>源三郎<rt>げんざぶろう</rt></ruby>が<ruby>子<rt>こ</rt></ruby>どもたちのために<ruby>書<rt>か</rt></ruby>いた<ruby>本<rt>ほん</rt></ruby>を<ruby>漫画<rt>まんが</rt></ruby>にした「<ruby>漫画<rt>まんが</rt></ruby>　<ruby>君<rt>きみ</rt></ruby>たちはどう<ruby>生<rt>い</rt></ruby>きるか」でした。この<ruby>本<rt>ほん</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>の８<ruby>月<rt>がつ</rt></ruby>に<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めてから２０２<ruby>万<rt>まん</rt></ruby><ruby>冊<rt>さつ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れ</span>ました。<ruby>小説<rt>しょうせつ</rt></ruby>の「<ruby>君<rt>きみ</rt></ruby>たちはどう<ruby>生<rt>い</rt></ruby>きるか」も４<ruby>番<rt>ばん</rt></ruby><ruby>目<rt>め</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れ</span>ました。</p>\n<p>３<ruby>番目<rt>ばんめ</rt></ruby>はいろいろな<span\
+  \ style=\"color: blue;\"><ruby>生<rt>い</rt></ruby>き<ruby>物<rt>もの</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>不思議<rt>ふしぎ</rt></ruby></span>なところを<ruby>紹介<rt>しょうかい</rt></ruby>する「ざんねんないきもの<ruby>事典<rt>じてん</rt></ruby>」で、その<ruby>続<rt>つづ</rt></ruby>きの<ruby>本<rt>ほん</rt></ruby>も７<ruby>番目<rt>ばんめ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れ</span>ました。</p>\n<p><ruby>日本出版販売<rt>にっぽんしゅっぱんはんばい</rt></ruby>は「<ruby>子<rt>こ</rt></ruby>どもの<ruby>本<rt>ほん</rt></ruby>がよく<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れ</span>ました。テレビなどが<ruby>紹介<rt>しょうかい</rt></ruby>しているのを<ruby>見<rt>み</rt></ruby>て、<ruby>多<rt>おお</rt></ruby>くの<ruby>子<rt>こ</rt></ruby>どもや<span\
+  \ style=\"color: blue;\"><ruby>親<rt>おや</rt></ruby></span>が<ruby>買<rt>か</rt></ruby>ったと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 売れる
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。
+- word: 下旬
+  descriptions:
+  - <ruby><rb>月</rb><rt>つき</rt></ruby>の<ruby><rb>２１日</rb><rt>にじゅういちにち</rt></ruby>から<ruby><rb>終</rb><rt>お</rt></ruby>わりまでの、<ruby><rb>約１０日間</rb><rt>やくとおかかん</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 生き物
+  descriptions:
+  - <ruby><rb>生</rb><rt>い</rt></ruby>きているもの。<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>のこと。
+- word: 不思議
+  descriptions:
+  - ふつうでは<ruby><rb>考</rb><rt>かんが</rt></ruby>えられないこと。あやしいこと。<ruby><rb>不可思議</rb><rt>ふかしぎ</rt></ruby>。
+- word: 親
+  descriptions:
+  - <ruby><rb>父</rb><rt>ちち</rt></ruby>や<ruby><rb>母</rb><rt>はは</rt></ruby>。<ruby><rb>両親</rb><rt>りょうしん</rt></ruby>。
+  - <ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>をうんだもの。
+  - トランプやかるたなどの<ruby><rb>遊</rb><rt>あそ</rt></ruby>びで、カードを<ruby><rb>配</rb><rt>くば</rt></ruby>る<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となるもの。<ruby><rb>大</rb><rt>おお</rt></ruby>きいもの。
+source_url: http://www3.nhk.or.jp/news/easy/k10011460441000/k10011460441000.html
+web_title_with_ruby: この<ruby>半年<rt>はんとし</rt></ruby>に<ruby>最<rt>もっと</rt></ruby>も<ruby>売<rt>う</rt></ruby>れた<ruby>本<rt>ほん</rt></ruby>
+  「<ruby>漫画<rt>まんが</rt></ruby> <ruby>君<rt>きみ</rt></ruby>たちはどう<ruby>生<rt>い</rt></ruby>きるか」
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/01/この半年に最も売れた本-漫画-君たちはどう生きるか
+related_news:
+- title: <ruby>村上春樹<rt>むらかみはるき</rt></ruby>さんの<ruby>小説<rt>しょうせつ</rt></ruby>「<ruby>騎士団長殺<rt>きしだんちょうごろ</rt></ruby>し」を<ruby>中国<rt>ちゅうごく</rt></ruby>で<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2018/03/13/村上春樹さんの小説騎士団長殺しを中国で売り始める
+- title: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>神保<rt>じんぼう</rt></ruby><ruby>町<rt>ちょう</rt></ruby>　<ruby>喫茶店<rt>きっさてん</rt></ruby>や<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>部屋<rt>へや</rt></ruby>がある<ruby>本屋<rt>ほんや</rt></ruby>ができる
+  url: https://newswebeasy.github.io/news/easy/2018/04/13/東京の神保町-喫茶店や仕事をする部屋がある本屋ができる
+- title: <ruby>作家<rt>さっか</rt></ruby>の<ruby>角野<rt>かどの</rt></ruby><ruby>栄子<rt>えいこ</rt></ruby>さんが「<ruby>国際<rt>こくさい</rt></ruby>アンデルセン<ruby>賞<rt>しょう</rt></ruby>」に<ruby>決<rt>き</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/03/28/作家の角野栄子さんが国際アンデルセン賞に決まる
+...

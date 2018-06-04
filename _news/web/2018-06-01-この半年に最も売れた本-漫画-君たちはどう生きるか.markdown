@@ -103,6 +103,11 @@ body:
   textPos: bottom
   image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/01/K10011460441_1805312156_1805312207_01_04.jpg
 source_url: https://www3.nhk.or.jp/news/html/20180601/k10011460441000.html
+easy_title_with_ruby: ６か<ruby>月<rt data-ruby-level="1">げつ</rt></ruby>で１<ruby>番<rt
+  data-ruby-level="2">ばん</rt></ruby><ruby>売<rt data-ruby-level="2">う</rt></ruby>れた<ruby>本<rt
+  data-ruby-level="1">ほん</rt></ruby>は「<ruby>漫画<rt data-ruby-level="7">まんが</rt></ruby>
+  <ruby>君<rt data-ruby-level="3">きみ</rt></ruby>たちはどう<ruby>生<rt data-ruby-level="1">い</rt></ruby>きるか」
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/06/04/6か月で1番売れた本は漫画-君たちはどう生きるか
 related_news:
 - title: １<ruby>位<rt data-ruby-level="4">い</rt></ruby>は「ざんねんないきもの<ruby>事典<rt data-ruby-level="4">じてん</rt></ruby>」
     <ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもが<ruby>選<rt data-ruby-level="4">えら</rt></ruby>ぶ<ruby>最<rt
