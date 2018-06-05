@@ -1,0 +1,68 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011463631000
+last_modified_at: '2018-06-05T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>05<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 気象庁は、地球の気温が上がる原因になる二酸化炭素の濃度を３つの場所で調べています。
+title: 日本の二酸化炭素の濃度が今まででいちばん高くなる
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby>の<ruby>濃度<rt>のうど</rt></ruby>が<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>高<rt>たか</rt></ruby>くなる
+outline: 気象庁は、地球の気温が上がる原因になる二酸化炭素の濃度を３つの場所で調べています。
+outline_with_ruby: <ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>地球<rt>ちきゅう</rt></ruby>の<ruby>気温<rt>きおん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がる<ruby>原因<rt>げんいん</rt></ruby>になる<ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby>の<ruby>濃度<rt>のうど</rt></ruby>を３つの<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>調<rt>しら</rt></ruby>べています。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/04/K10011463631_1806040052_1806040417_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/05/k10011463631000.mp4
+content_with_ruby: "<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<span style=\"color: blue;\"\
+  ><ruby>地球<rt>ちきゅう</rt></ruby></span>の<span style=\"color: blue;\"><ruby>気温<rt>きおん</rt></ruby></span>が<ruby>上<rt>あ</rt></ruby>がる<ruby>原因<rt>げんいん</rt></ruby>になる<span\
+  \ style=\"color: blue;\"><ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby></span>の<span style=\"\
+  color: blue;\"><ruby>濃度<rt>のうど</rt></ruby></span>を３つの<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>調<rt>しら</rt></ruby>べています。<ruby>去年<rt>きょねん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>濃度<rt>のうど</rt></ruby></span>は、<ruby>岩手県<rt>いわてけん</rt></ruby><ruby>大船渡市<rt>おおふなとし</rt></ruby>で４０９．２ｐｐｍ、<ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>与那国島<rt>よなぐにじま</rt></ruby>で４０９．５ｐｐｍ、<span\
+  \ style=\"color: blue;\"><ruby>小笠原諸島<rt>おがさわらしょとう</rt></ruby></span>の<ruby>南鳥島<rt>みなみとりしま</rt></ruby>で４０７．７ｐｐｍでした。<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>高<rt>たか</rt></ruby>くなりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>国連<rt>こくれん</rt></ruby></span>は、<span style=\"\
+  color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>気温<rt>きおん</rt></ruby></span>が２℃<ruby>以上<rt>いじょう</rt></ruby><ruby>上<rt>あ</rt></ruby>がらないように、<ruby>世界<rt>せかい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>濃度<rt>のうど</rt></ruby></span>を４２０ｐｐｍぐらいにしたいと<ruby>言<rt>い</rt></ruby>っています。しかし、<ruby>日本<rt>にっぽん</rt></ruby>の３つの<ruby>場所<rt>ばしょ</rt></ruby>では<ruby>毎年<rt>まいとし</rt></ruby>２ｐｐｍぐらいずつ<ruby>増<rt>ふ</rt></ruby>えていて、あと１０<ruby>年<rt>ねん</rt></ruby>ぐらいで４２０ｐｐｍ<ruby>以上<rt>いじょう</rt></ruby>になる<span\
+  \ style=\"color: blue;\"><ruby>可能性<rt>かのうせい</rt></ruby></span>があります。</p>\n<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は「もっと<span\
+  \ style=\"color: blue;\"><ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>さないようにしなければなりません」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 二酸化炭素
+  descriptions:
+  - <ruby><rb>炭素</rb><rt>たんそ</rt></ruby>と<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>の<ruby><rb>化合物</rb><rt>かごうぶつ</rt></ruby>で、<ruby><rb>色</rb><rt>いろ</rt></ruby>もにおいもない<ruby><rb>気体</rb><rt>きたい</rt></ruby>。<ruby><rb>炭火</rb><rt>すみび</rt></ruby>の<ruby><rb>燃</rb><rt>も</rt></ruby>えるときなどに<ruby><rb>発生</rb><rt>はっせい</rt></ruby>し、<ruby><rb>人</rb><rt>ひと</rt></ruby>のはく<ruby><rb>息</rb><rt>いき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にもふくまれている。ドライアイス・ソーダ<ruby><rb>水</rb><rt>すい</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。<ruby><rb>炭酸</rb><rt>たんさん</rt></ruby>ガス。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「<ruby><rb>CO<span
+    class="dic_sub">2</span></rb><rt>シーオーツー</rt></ruby>」。
+- word: 濃度
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>や<ruby><rb>気体</rb><rt>きたい</rt></ruby>のこい、うすいの<ruby><rb>度合</rb><rt>どあ</rt></ruby>い。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: 気温
+  descriptions:
+  - <ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+- word: 小笠原諸島
+  descriptions:
+  - <ruby><rb>東京都</rb><rt>とうきょうと</rt></ruby>の<ruby><rb>一部</rb><rt>いちぶ</rt></ruby>で、<ruby><rb>都心</rb><rt>としん</rt></ruby>から<ruby><rb>南</rb><rt>みなみ</rt></ruby>へ<ruby><rb>約</rb><rt>やく</rt></ruby>１２００キロメートルの<ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>にある<ruby><rb>島々</rb><rt>しまじま</rt></ruby>。おもな<ruby><rb>島</rb><rt>しま</rt></ruby>は<ruby><rb>父島</rb><rt>ちちじま</rt></ruby>と<ruby><rb>母島</rb><rt>ははじま</rt></ruby>である。
+- word: 国際連合
+  descriptions:
+  - <ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。
+- word: 可能性
+  descriptions:
+  - その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。
+source_url: http://www3.nhk.or.jp/news/easy/k10011463631000/k10011463631000.html
+web_title_with_ruby: ＣＯ２の<ruby>平均<rt>へいきん</rt></ruby><ruby>濃度<rt>のうど</rt></ruby> <ruby>国内<rt>こくない</rt></ruby>３<ruby>観測点<rt>かんそくてん</rt></ruby>すべて<ruby>過去<rt>かこ</rt></ruby><ruby>最高<rt>さいこう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/04/CO2の平均濃度-国内3観測点すべて過去最高
+related_news:
+- title: <ruby>気象庁<rt>きしょうちょう</rt></ruby>　５<ruby>月<rt>がつ</rt></ruby>から７<ruby>月<rt>がつ</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>くて<ruby>梅雨<rt>つゆ</rt></ruby>には<ruby>雨<rt>あめ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなりそう
+  url: https://newswebeasy.github.io/news/easy/2018/04/27/気象庁-5月から7月は暑くて梅雨には雨が多くなりそう
+- title: <ruby>暖<rt>あたた</rt></ruby>かかった３<ruby>月<rt>がつ</rt></ruby>　<ruby>東日本<rt>ひがしにほん</rt></ruby>では<ruby>平均<rt>へいきん</rt></ruby><ruby>気温<rt>きおん</rt></ruby>が<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>かった
+  url: https://newswebeasy.github.io/news/easy/2018/04/03/暖かかった3月-東日本では平均気温が今までで最も高かった
+- title: <ruby>長崎県<rt>ながさきけん</rt></ruby>と<ruby>熊本県<rt>くまもとけん</rt></ruby>のキリスト<ruby>教<rt>きょう</rt></ruby>の<ruby>建物<rt>たてもの</rt></ruby>が<ruby>世界遺産<rt>せかいいさん</rt></ruby>に<ruby>決<rt>き</rt></ruby>まりそう
+  url: https://newswebeasy.github.io/news/easy/2018/05/07/長崎県と熊本県のキリスト教の建物が世界遺産に決まりそう
+...

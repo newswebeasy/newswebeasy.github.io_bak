@@ -1,0 +1,90 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011464471000
+last_modified_at: '2018-06-05T18:25:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>05<ruby>日<rt>にち</rt></ruby>
+  18<ruby>時<rt>じ</rt></ruby>25<ruby>分<rt>ふん</rt></ruby>
+description: 大相撲の大関になった栃ノ心は４日、ふるさとのジョージアに帰りました。
+title: 新しい大関の栃ノ心がふるさとのジョージアに帰る
+title_with_ruby: <ruby>新<rt>あたら</rt></ruby>しい<ruby>大関<rt>おおぜき</rt></ruby>の<ruby>栃ノ心<rt>とちのしん</rt></ruby>がふるさとのジョージアに<ruby>帰<rt>かえ</rt></ruby>る
+outline: 大相撲の大関になった栃ノ心は４日、ふるさとのジョージアに帰りました。
+outline_with_ruby: <ruby>大相撲<rt>おおずもう</rt></ruby>の<ruby>大関<rt>おおぜき</rt></ruby>になった<ruby>栃ノ心<rt>とちのしん</rt></ruby>は<ruby>４日<rt>よっか</rt></ruby>、ふるさとのジョージアに<ruby>帰<rt>かえ</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/04/K10011464471_1806041917_1806042155_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/05/k10011464471000.mp4
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>大相撲<rt>おおずもう</rt></ruby></span>の<span\
+  \ style=\"color: blue;\"><ruby>大関<rt>おおぜき</rt></ruby></span>になった<ruby>栃ノ心<rt>とちのしん</rt></ruby>は<ruby>４日<rt>よっか</rt></ruby>、<span\
+  \ style=\"color: blue;\">ふるさと</span>のジョージアに<ruby>帰<rt>かえ</rt></ruby>りました。</p>\n\
+  <p><ruby>空港<rt>くうこう</rt></ruby>には<span style=\"color: blue;\">ファン</span>や<ruby>家族<rt>かぞく</rt></ruby>など１００<ruby>人<rt>にん</rt></ruby>ぐらいが<ruby>集<rt>あつ</rt></ruby>まりました。<span\
+  \ style=\"color: blue;\">ファン</span>たちは<ruby>栃ノ心<rt>とちのしん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>大関<rt>おおぜき</rt></ruby></span>になったことを<ruby>喜<rt>よろこ</rt></ruby>んでいました。<ruby>栃ノ心<rt>とちのしん</rt></ruby>は「たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まってくれて、<span\
+  \ style=\"color: blue;\"><ruby>最高<rt>さいこう</rt></ruby></span>の<ruby>日<rt>ひ</rt></ruby>です」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p><ruby>栃ノ心<rt>とちのしん</rt></ruby>の<ruby>妻<rt>つま</rt></ruby>のニノさんは<ruby>生<rt>う</rt></ruby>まれたばかりの<ruby>娘<rt>むすめ</rt></ruby>と<ruby>空港<rt>くうこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、「やっと<ruby>夫<rt>おっと</rt></ruby>に<ruby>娘<rt>むすめ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>抱<rt>だ</rt></ruby>い</span>てもらうことができます。とても<span style=\"\
+  color: blue;\"><ruby>幸<rt>しあわ</rt></ruby>せ</span>です」と<ruby>言<rt>い</rt></ruby>いました。<span\
+  \ style=\"color: blue;\"><ruby>母親<rt>ははおや</rt></ruby></span>のヌヌさんは「<ruby>世界<rt>せかい</rt></ruby>でいちばん<span\
+  \ style=\"color: blue;\"><ruby>幸<rt>しあわ</rt></ruby>せ</span>です。<ruby>息子<rt>むすこ</rt></ruby>がこれからも<span\
+  \ style=\"color: blue;\"><ruby>活躍<rt>かつやく</rt></ruby></span>するように<span style=\"\
+  color: blue;\"><ruby>願<rt>ねが</rt></ruby>っ</span>ています」と<ruby>言<rt>い</rt></ruby>いました。</p>\n\
+  <p>ジョージアにいる<ruby>日本<rt>にっぽん</rt></ruby>の<span style=\"color: blue;\"><ruby>大使<rt>たいし</rt></ruby></span>は<ruby>６日<rt>むいか</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>とジョージアの<span\
+  \ style=\"color: blue;\"><ruby>友好<rt>ゆうこう</rt></ruby></span>に<span style=\"color:\
+  \ blue;\"><ruby>協力<rt>きょうりょく</rt></ruby></span>した<ruby>栃ノ心<rt>とちのしん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>表彰<rt>ひょうしょう</rt></ruby></span>する<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大関
+  descriptions:
+  - すもうで、<ruby><rb>横綱</rb><rt>よこづな</rt></ruby>の<ruby><rb>次</rb><rt>つぎ</rt></ruby>の<ruby><rb>位</rb><rt>くらい</rt></ruby>。
+- word: ふるさと
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>生</rb><rt>う</rt></ruby>まれ<ruby><rb>育</rb><rt>そだ</rt></ruby>った<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>故郷</rb><rt>こきょう</rt></ruby>。
+- word: 大相撲
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>が<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>専門</rb><rt>せんもん</rt></ruby>の<ruby><rb>力士</rb><rt>りきし</rt></ruby>による<ruby><rb>相撲</rb><rt>すもう</rt></ruby>。
+  - <ruby><rb>相撲</rb><rt>すもう</rt></ruby>で、なかなか<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けの<ruby><rb>決</rb><rt>き</rt></ruby>まらない<ruby><rb>力</rb><rt>ちから</rt></ruby>の<ruby><rb>入</rb><rt>はい</rt></ruby>った<ruby><rb>取組</rb><rt>とりくみ</rt></ruby>。
+- word: ファン
+  descriptions:
+  - スポーツや<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>演劇</rb><rt>えんげき</rt></ruby>などが、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>に<ruby><rb>好</rb><rt>す</rt></ruby>きな<ruby><rb>人</rb><rt>ひと</rt></ruby>。または、ある<ruby><rb>俳優</rb><rt>はいゆう</rt></ruby>や、<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>などを<ruby><rb>熱心</rb><rt>ねっしん</rt></ruby>に<ruby><rb>応援</rb><rt>おうえん</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。フアン。
+  - <ruby><rb>扇風機</rb><rt>せんぷうき</rt></ruby>。<ruby><rb>送風機</rb><rt>そうふうき</rt></ruby>。<ruby><rb>換気扇</rb><rt>かんきせん</rt></ruby>。
+- word: 最高
+  descriptions:
+  - いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>いこと。
+  - いちばんよいこと。
+- word: 抱く
+  descriptions:
+  - <ruby><rb>腕</rb><rt>うで</rt></ruby>でかかえて<ruby><rb>持</rb><rt>も</rt></ruby>つ。
+  - ある<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>持</rb><rt>も</rt></ruby>つ。
+  - <ruby><rb>温</rb><rt>あたた</rt></ruby>めてひなをかえす。
+- word: 幸せ
+  descriptions:
+  - <ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>満足</rb><rt>まんぞく</rt></ruby>している<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。
+- word: 母親
+  descriptions:
+  - <ruby><rb>母</rb><rt>はは</rt></ruby>。
+- word: 活躍
+  descriptions:
+  - めざましく<ruby><rb>働</rb><rt>はたら</rt></ruby>くこと。
+- word: 願う
+  descriptions:
+  - （<ruby><rb>神</rb><rt>かみ</rt></ruby>や<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>やほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>に）こうしてほしいと<ruby><rb>思</rb><rt>おも</rt></ruby>う。たのむ。<ruby><rb>望</rb><rt>のぞ</rt></ruby>む。
+- word: 大使
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>して<ruby><rb>外交</rb><rt>がいこう</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>外交官</rb><rt>がいこうかん</rt></ruby>のいちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役</rb><rt>やく</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 友好
+  descriptions:
+  - <ruby><rb>仲</rb><rt>なか</rt></ruby>のよいつき<ruby><rb>合</rb><rt>あ</rt></ruby>い。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+- word: 表彰
+  descriptions:
+  - よい<ruby><rb>行</rb><rt>おこな</rt></ruby>いや、りっぱな<ruby><rb>成績</rb><rt>せいせき</rt></ruby>をたたえて、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011464471000/k10011464471000.html
+web_title_with_ruby: <ruby>栃<rt>とち</rt></ruby><ruby>ノ<rt>の</rt></ruby><ruby>心<rt>しん</rt></ruby>
+  <ruby>故郷<rt>こきょう</rt></ruby><ruby>ジョージア<rt>じょーじあ</rt></ruby>に<ruby>凱旋<rt>がいせん</rt></ruby>
+  <ruby>大関<rt>おおぜき</rt></ruby><ruby>昇進<rt>しょうしん</rt></ruby>を<ruby>家族<rt>かぞく</rt></ruby>ら<ruby>祝<rt>いわ</rt></ruby>う
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/04/栃ノ心-故郷ジョージアに凱旋-大関昇進を家族ら祝う
+related_news:
+- title: <ruby>大相撲<rt>おおずもう</rt></ruby>　ジョージア<ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>栃ノ心<rt>とちのしん</rt></ruby>が<ruby>大関<rt>おおぜき</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/05/30/大相撲-ジョージア出身の栃ノ心が大関になる
+...

@@ -1,0 +1,70 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011464911000
+last_modified_at: '2018-06-05T18:25:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>05<ruby>日<rt>にち</rt></ruby>
+  18<ruby>時<rt>じ</rt></ruby>25<ruby>分<rt>ふん</rt></ruby>
+description: メキシコの南にあるグアテマラで３日、高さ３７００ｍぐらいのフエゴ火山が噴火しました。
+title: グアテマラのフエゴ火山が噴火　６０人以上が亡くなる
+title_with_ruby: グアテマラのフエゴ<ruby>火山<rt>かざん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>　６０<ruby>人<rt>にん</rt></ruby>以上が<ruby>亡<rt>な</rt></ruby>くなる
+outline: メキシコの南にあるグアテマラで３日、高さ３７００ｍぐらいのフエゴ火山が噴火しました。
+outline_with_ruby: メキシコの<ruby>南<rt>みなみ</rt></ruby>にあるグアテマラで<ruby>３日<rt>みっか</rt></ruby>、<ruby>高<rt>たか</rt></ruby>さ３７００ｍぐらいのフエゴ<ruby>火山<rt>かざん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/05/K10011464911_1806050944_1806050948_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/05/k10011464911000.mp4
+content_with_ruby: "<p>メキシコの<ruby>南<rt>みなみ</rt></ruby>にあるグアテマラで<ruby>３日<rt>みっか</rt></ruby>、<ruby>高<rt>たか</rt></ruby>さ３７００ｍぐらいのフエゴ<ruby>火山<rt>かざん</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>しました。<span style=\"color:\
+  \ blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>の<span style=\"color: blue;\"><ruby>煙<rt>けむり</rt></ruby></span>は<ruby>高<rt>たか</rt></ruby>さ１０ｋｍまで<ruby>上<rt>あ</rt></ruby>がって、<ruby>周<rt>まわ</rt></ruby>りに<span\
+  \ style=\"color: blue;\"><ruby>灰<rt>はい</rt></ruby></span>が<ruby>飛<rt>と</rt></ruby>びました。<ruby>４日<rt>よっか</rt></ruby>にも<span\
+  \ style=\"color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>がありました。</p>\n<p><ruby>近<rt>ちか</rt></ruby>くの<ruby>村<rt>むら</rt></ruby>には<span\
+  \ style=\"color: blue;\"><ruby>溶岩<rt>ようがん</rt></ruby></span>が<span style=\"color:\
+  \ blue;\"><ruby>流<rt>なが</rt></ruby>れ</span>てきて、<ruby>家<rt>いえ</rt></ruby>などが<ruby>焼<rt>や</rt></ruby>けています。グアテマラの<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>によると、６０<ruby>人<rt>にん</rt></ruby>以上が<ruby>亡<rt>な</rt></ruby>くなりました。３２００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>避難<rt>ひなん</rt></ruby></span>していますが、まだ<span style=\"\
+  color: blue;\"><ruby>行方不明<rt>ゆくえふめい</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>もいます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 噴火
+  descriptions:
+  - <ruby><rb>火山</rb><rt>かざん</rt></ruby>が<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>して、とけた<ruby><rb>溶岩</rb><rt>ようがん</rt></ruby>や、<ruby><rb>火山灰</rb><rt>かざんばい</rt></ruby>・<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>・ガスをふき<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 煙
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>燃</rb><rt>も</rt></ruby>えるときに<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>気体</rb><rt>きたい</rt></ruby>。けむ。けぶり。
+  - けむりのように<ruby><rb>見</rb><rt>み</rt></ruby>えるもの。
+- word: 灰
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>燃</rb><rt>も</rt></ruby>えたあとに<ruby><rb>残</rb><rt>のこ</rt></ruby>る<ruby><rb>粉</rb><rt>こな</rt></ruby>のようなもの。
+- word: 溶岩
+  descriptions:
+  - <ruby><rb>地下</rb><rt>ちか</rt></ruby>のとけた<ruby><rb>岩</rb><rt>いわ</rt></ruby>が、<ruby><rb>火山</rb><rt>かざん</rt></ruby>の<ruby><rb>噴火</rb><rt>ふんか</rt></ruby>で<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>に<ruby><rb>流</rb><rt>なが</rt></ruby>れ<ruby><rb>出</rb><rt>で</rt></ruby>たもの。また、それが<ruby><rb>冷</rb><rt>ひ</rt></ruby>えて<ruby><rb>固</rb><rt>かた</rt></ruby>まった<ruby><rb>岩</rb><rt>いわ</rt></ruby>。
+- word: 流れる
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。
+  - <ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。
+  - うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - とりやめになる。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 避難
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。
+- word: 行方不明
+  descriptions:
+  - どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011464911000/k10011464911000.html
+web_title_with_ruby: <ruby>グアテマラ<rt>ぐあてまら</rt></ruby> <ruby>火山<rt>かざん</rt></ruby><ruby>噴火<rt>ふんか</rt></ruby>
+  <ruby>死者<rt>ししゃ</rt></ruby>69<ruby>人<rt>にん</rt></ruby>に さらに<ruby>増加<rt>ぞうか</rt></ruby>も
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/05/グアテマラ-火山噴火-死者69人に-さらに増加も
+related_news:
+- title: ハワイ<ruby>島<rt>とう</rt></ruby>で<ruby>火山<rt>かざん</rt></ruby>の<ruby>噴火<rt>ふんか</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>く　<ruby>溶岩<rt>ようがん</rt></ruby>で<ruby>男性<rt>だんせい</rt></ruby>がけがをする
+  url: https://newswebeasy.github.io/news/easy/2018/05/22/ハワイ島で火山の噴火が続く-溶岩で男性がけがをする
+- title: <ruby>鹿児島県<rt>かごしまけん</rt></ruby>と<ruby>宮崎県<rt>みやざきけん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にある<ruby>新燃岳<rt>しんもえだけ</rt></ruby>　<ruby>噴火<rt>ふんか</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/03/08/鹿児島県と宮崎県の間にある新燃岳-噴火が続く
+- title: <ruby>宮崎県<rt>みやざきけん</rt></ruby>にある<ruby>硫黄山<rt>いおうやま</rt></ruby>で２<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>の<ruby>噴火<rt>ふんか</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/27/宮崎県にある硫黄山で2回目の噴火
+- title: ハワイ<ruby>島<rt>とう</rt></ruby>にあるキラウエア<ruby>火山<rt>かざん</rt></ruby>で<ruby>噴火<rt>ふんか</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/05/08/ハワイ島にあるキラウエア火山で噴火が続く
+...

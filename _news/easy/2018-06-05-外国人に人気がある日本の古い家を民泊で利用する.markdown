@@ -1,0 +1,51 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011463521000
+last_modified_at: '2018-06-05T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>05<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: １５日から新しい法律が始まって、ホテルではない家やマンションでも、お金をもらって客を泊める「民泊」ができるようになります。
+title: 外国人に人気がある日本の古い家を「民泊」で利用する
+title_with_ruby: <ruby>外国人<rt>がいこくじん</rt></ruby>に<ruby>人気<rt>にんき</rt></ruby>がある<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>古<rt>ふる</rt></ruby>い<ruby>家<rt>いえ</rt></ruby>を「<ruby>民泊<rt>みんぱく</rt></ruby>」で<ruby>利用<rt>りよう</rt></ruby>する
+outline: １５日から新しい法律が始まって、ホテルではない家やマンションでも、お金をもらって客を泊める「民泊」ができるようになります。
+outline_with_ruby: １５<ruby>日<rt>にち</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しい<ruby>法律<rt>ほうりつ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まって、ホテルではない<ruby>家<rt>いえ</rt></ruby>やマンションでも、お<ruby>金<rt>かね</rt></ruby>をもらって<ruby>客<rt>きゃく</rt></ruby>を<ruby>泊<rt>と</rt></ruby>める「<ruby>民泊<rt>みんぱく</rt></ruby>」ができるようになります。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/04/K10011463521_1806040035_1806040418_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/05/k10011463521000.mp4
+content_with_ruby: "<p>１５<ruby>日<rt>にち</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しい<ruby>法律<rt>ほうりつ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まって、ホテルではない<ruby>家<rt>いえ</rt></ruby>や<span\
+  \ style=\"color: blue;\">マンション</span>でも、お<ruby>金<rt>かね</rt></ruby>をもらって<ruby>客<rt>きゃく</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>泊<rt>と</rt></ruby>める</span>「<ruby>民泊<rt>みんぱく</rt></ruby>」ができるようになります。<ruby>民泊<rt>みんぱく</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>する<ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>では、<ruby>人<rt>ひと</rt></ruby>が<ruby>生活<rt>せいかつ</rt></ruby>していた<ruby>古<rt>ふる</rt></ruby>い<ruby>家<rt>いえ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>です。<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>や<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>がわかるためです。</p>\n\
+  <p><ruby>民泊<rt>みんぱく</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>しているアメリカの「ホームアウェイ」という<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>人<rt>ひと</rt></ruby>が<ruby>住<rt>す</rt></ruby>まなくなった<ruby>古<rt>ふる</rt></ruby>い<ruby>家<rt>いえ</rt></ruby>を<ruby>直<rt>なお</rt></ruby>して、<ruby>旅行<rt>りょこう</rt></ruby>する<ruby>外国人<rt>がいこくじん</rt></ruby>に<ruby>紹介<rt>しょうかい</rt></ruby>することにしました。そして、<ruby>福岡県<rt>ふくおかけん</rt></ruby>うきは<ruby>市<rt>し</rt></ruby>で１５０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>建<rt>た</rt></ruby>てられた<ruby>古<rt>ふる</rt></ruby>い<ruby>家<rt>いえ</rt></ruby>を<ruby>直<rt>なお</rt></ruby>して、<ruby>民泊<rt>みんぱく</rt></ruby>で<ruby>利用<rt>りよう</rt></ruby>できるようにしました。</p>\n\
+  <p><ruby>家<rt>いえ</rt></ruby>を<ruby>直<rt>なお</rt></ruby>すのに<span style=\"color: blue;\"\
+  ><ruby>協力<rt>きょうりょく</rt></ruby></span>した<ruby>川口<rt>かわぐち</rt></ruby><ruby>智廣<rt>ともひろ</rt></ruby>さんは「<ruby>古<rt>ふる</rt></ruby>い<ruby>家<rt>いえ</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>地域<rt>ちいき</rt></ruby></span>の<ruby>文化<rt>ぶんか</rt></ruby>がわかる<ruby>大事<rt>だいじ</rt></ruby>な<ruby>建物<rt>たてもの</rt></ruby>なので、たくさんの<ruby>人<rt>ひと</rt></ruby>に<ruby>利用<rt>りよう</rt></ruby>してもらいたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: マンション
+  descriptions:
+  - コンクリートで<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>で、<ruby><rb>高級</rb><rt>こうきゅう</rt></ruby>な<ruby><rb>感</rb><rt>かん</rt></ruby>じがするアパート。
+- word: 泊める
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>家</rb><rt>いえ</rt></ruby>で<ruby><rb>夜</rb><rt>よる</rt></ruby>を<ruby><rb>過</rb><rt>す</rt></ruby>ごさせる。
+- word: 協力
+  descriptions:
+  - <ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。
+- word: 地域
+  descriptions:
+  - ある<ruby><rb>範囲</rb><rt>はんい</rt></ruby>に<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011463521000/k10011463521000.html
+web_title_with_ruby: <ruby>外国人<rt>がいこくじん</rt></ruby>に<ruby>人気<rt>にんき</rt></ruby>！
+  「<ruby>古民家<rt>こみんか</rt></ruby>」<ruby>改修<rt>かいしゅう</rt></ruby>し<ruby>民泊<rt>みんぱく</rt></ruby>に<ruby>利用<rt>りよう</rt></ruby><ruby>広<rt>ひろ</rt></ruby>がる
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/04/外国人に人気-古民家改修し民泊に利用広がる
+related_news:
+- title: <ruby>民泊<rt>みんぱく</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をするための<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みが<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/03/16/民泊の仕事をするための申し込みが始まる
+- title: フランス　３Ｄプリンターを<ruby>使<rt>つか</rt></ruby>って<ruby>家<rt>いえ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/04/12/フランス-3Dプリンターを使って家を作る
+- title: <ruby>成田空港<rt>なりたくうこう</rt></ruby>が<ruby>外国人<rt>がいこくじん</rt></ruby>に<ruby>観光地<rt>かんこうち</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するウェブサイトを<ruby>作<rt>つく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/05/29/成田空港が外国人に観光地を紹介するウェブサイトを作る
+...
