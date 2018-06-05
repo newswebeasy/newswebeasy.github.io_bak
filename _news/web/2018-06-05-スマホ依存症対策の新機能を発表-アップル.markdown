@@ -1,0 +1,119 @@
+---
+layout: web_news
+categories: web
+newsid: k10011464871000
+title: スマホ依存症対策の新機能を発表 アップル
+title_with_ruby: スマホ<ruby>依存症<rt data-ruby-level="7">いぞんしょう</rt></ruby><ruby>対策<rt
+  data-ruby-level="6">たいさく</rt></ruby>の<ruby>新機能<rt data-ruby-level="5">しんきのう</rt></ruby>を<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby> アップル
+last_modified_at: '2018-06-05T05:59:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>06<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>05<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 05<ruby>時<rt data-ruby-level="2">じ</rt></ruby>59<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: アメリカのＩＴ企業アップルは、子どもや１０代の若者がスマートフォンを長時間使うと心の健康を害するという指摘などを踏まえて、保護者が子どものスマホの使用時間をより簡単に制限できる機能を発表しました。
+summary: アメリカのＩＴ<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>アップルは、<ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもや１０<ruby>代<rt
+  data-ruby-level="3">だい</rt></ruby>の<ruby>若者<rt data-ruby-level="6">わかもの</rt></ruby>がスマートフォンを<ruby>長時間<rt
+  data-ruby-level="2">ちょうじかん</rt></ruby><ruby>使<rt data-ruby-level="3">つか</rt></ruby>うと<ruby>心<rt
+  data-ruby-level="2">こころ</rt></ruby>の<ruby>健康<rt data-ruby-level="4">けんこう</rt></ruby>を<ruby>害<rt
+  data-ruby-level="4">がい</rt></ruby>するという<ruby>指摘<rt data-ruby-level="7">してき</rt></ruby>などを<ruby>踏<rt
+  data-ruby-level="7">ふ</rt></ruby>まえて、<ruby>保護者<rt data-ruby-level="5">ほごしゃ</rt></ruby>が<ruby>子<rt
+  data-ruby-level="1">こ</rt></ruby>どものスマホの<ruby>使用<rt data-ruby-level="3">しよう</rt></ruby><ruby>時間<rt
+  data-ruby-level="2">じかん</rt></ruby>をより<ruby>簡単<rt data-ruby-level="6">かんたん</rt></ruby>に<ruby>制限<rt
+  data-ruby-level="5">せいげん</rt></ruby>できる<ruby>機能<rt data-ruby-level="5">きのう</rt></ruby>を<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/05/K10011464871_1806050821_1806050826_01_03.jpg
+more: アメリカのアップルのティム・クックＣＥＯは４<ruby>日<rt data-ruby-level="1">にち</rt></ruby>、<ruby>カリフォルニア<rt
+  data-ruby-level="3">かりふぉるにあ</rt></ruby><ruby>州<rt data-ruby-level="3">しゅう</rt></ruby>サンノゼで<ruby>開<rt
+  data-ruby-level="3">ひら</rt></ruby>いている<ruby>開発者<rt data-ruby-level="3">かいはつしゃ</rt></ruby><ruby>向<rt
+  data-ruby-level="3">む</rt></ruby>けのイベントで<ruby>基調<rt data-ruby-level="5">きちょう</rt></ruby><ruby>講演<rt
+  data-ruby-level="5">こうえん</rt></ruby>し、「<ruby>皆<rt data-ruby-level="7">みな</rt></ruby>さんとともによりよい<ruby>方向<rt
+  data-ruby-level="3">ほうこう</rt></ruby>に<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>を<ruby>変<rt
+  data-ruby-level="4">か</rt></ruby>えたい。<ruby>何<rt data-ruby-level="2">なに</rt></ruby>をする<ruby>上<rt
+  data-ruby-level="1">うえ</rt></ruby>でも<ruby>常<rt data-ruby-level="5">つね</rt></ruby>に<ruby>顧客<rt
+  data-ruby-level="7">こきゃく</rt></ruby><ruby>最優先<rt data-ruby-level="6">さいゆうせん</rt></ruby>で<ruby>考<rt
+  data-ruby-level="2">かんが</rt></ruby>えている」と<ruby>述<rt data-ruby-level="5">の</rt></ruby>べ、ｉＰｈｏｎｅなどの<ruby>新<rt
+  data-ruby-level="2">あら</rt></ruby>たな<ruby>基本<rt data-ruby-level="5">きほん</rt></ruby>ソフトを<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>しました。<br /><br /><ruby>具体的<rt data-ruby-level="4">ぐたいてき</rt></ruby>には、<ruby>週<rt
+  data-ruby-level="2">しゅう</rt></ruby>に１<ruby>回<rt data-ruby-level="2">かい</rt></ruby>、<ruby>自分<rt
+  data-ruby-level="2">じぶん</rt></ruby>がどのアプリをどの<ruby>程度<rt data-ruby-level="5">ていど</rt></ruby><ruby>使<rt
+  data-ruby-level="3">つか</rt></ruby>ったか、１<ruby>時間<rt data-ruby-level="2">じかん</rt></ruby><ruby>当<rt
+  data-ruby-level="2">あ</rt></ruby>たり<ruby>何度<rt data-ruby-level="3">なんど</rt></ruby>スマホを<ruby>使<rt
+  data-ruby-level="3">つか</rt></ruby>ったかなどのデータを<ruby>入手<rt data-ruby-level="1">にゅうしゅ</rt></ruby>し、スマホの<ruby>設定<rt
+  data-ruby-level="5">せってい</rt></ruby>で<ruby>使用<rt data-ruby-level="3">しよう</rt></ruby><ruby>時間<rt
+  data-ruby-level="2">じかん</rt></ruby>を<ruby>制限<rt data-ruby-level="5">せいげん</rt></ruby>できるということです。<br
+  /><br />また、<ruby>保護者<rt data-ruby-level="5">ほごしゃ</rt></ruby>が<ruby>子<rt data-ruby-level="1">こ</rt></ruby>どものスマホの<ruby>使用<rt
+  data-ruby-level="3">しよう</rt></ruby><ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>などのデータを<ruby>受<rt
+  data-ruby-level="3">う</rt></ruby>け<ruby>取<rt data-ruby-level="3">と</rt></ruby>れるようにし、<ruby>遠隔操作<rt
+  data-ruby-level="7">えんかくそうさ</rt></ruby>でより<ruby>簡単<rt data-ruby-level="6">かんたん</rt></ruby>に<ruby>使用<rt
+  data-ruby-level="3">しよう</rt></ruby><ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>を<ruby>制限<rt
+  data-ruby-level="5">せいげん</rt></ruby>できるとしています。<br /><br />アメリカの<ruby>投資<rt data-ruby-level="5">とうし</rt></ruby>ファンドと<ruby>カリフォルニア<rt
+  data-ruby-level="3">かりふぉるにあ</rt></ruby><ruby>州<rt data-ruby-level="3">しゅう</rt></ruby>の<ruby>教職員<rt
+  data-ruby-level="5">きょうしょくいん</rt></ruby><ruby>退職<rt data-ruby-level="5">たいしょく</rt></ruby><ruby>年金<rt
+  data-ruby-level="1">ねんきん</rt></ruby><ruby>基金<rt data-ruby-level="5">ききん</rt></ruby>はことし１<ruby>月<rt
+  data-ruby-level="1">がつ</rt></ruby>、<ruby>株<rt data-ruby-level="6">かぶ</rt></ruby><ruby>主<rt
+  data-ruby-level="3">しゅ</rt></ruby>としてアップルに<ruby>書簡<rt data-ruby-level="6">しょかん</rt></ruby>を<ruby>送<rt
+  data-ruby-level="3">おく</rt></ruby>り、<ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもや１０<ruby>代<rt
+  data-ruby-level="3">だい</rt></ruby>の<ruby>若者<rt data-ruby-level="6">わかもの</rt></ruby>が<ruby>長時間<rt
+  data-ruby-level="2">ちょうじかん</rt></ruby>スマートフォンを<ruby>使<rt data-ruby-level="3">つか</rt></ruby>うと<ruby>心<rt
+  data-ruby-level="2">こころ</rt></ruby>の<ruby>健康<rt data-ruby-level="4">けんこう</rt></ruby>を<ruby>害<rt
+  data-ruby-level="4">がい</rt></ruby>するという<ruby>複数<rt data-ruby-level="5">ふくすう</rt></ruby>の<ruby>調査<rt
+  data-ruby-level="5">ちょうさ</rt></ruby><ruby>結果<rt data-ruby-level="4">けっか</rt></ruby>を<ruby>示<rt
+  data-ruby-level="5">しめ</rt></ruby>したうえで、<ruby>対策<rt data-ruby-level="6">たいさく</rt></ruby>をとるよう<ruby>求<rt
+  data-ruby-level="4">もと</rt></ruby>めるなど、スマホ<ruby>依存<rt data-ruby-level="7">いぞん</rt></ruby>について<ruby>対策<rt
+  data-ruby-level="6">たいさく</rt></ruby>を<ruby>求<rt data-ruby-level="4">もと</rt></ruby>める<ruby>声<rt
+  data-ruby-level="2">こえ</rt></ruby>が<ruby>高<rt data-ruby-level="2">たか</rt></ruby>まっていました。<br
+  /><br />グーグルもスマホの<ruby>使用<rt data-ruby-level="3">しよう</rt></ruby><ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>などを<ruby>表示<rt
+  data-ruby-level="5">ひょうじ</rt></ruby>できる<ruby>機能<rt data-ruby-level="5">きのう</rt></ruby>を<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>しており、<ruby>最新<rt data-ruby-level="4">さいしん</rt></ruby>テクノロジーの<ruby>健康<rt
+  data-ruby-level="4">けんこう</rt></ruby>への<ruby>影響<rt data-ruby-level="7">えいきょう</rt></ruby>をめぐり<ruby>大手<rt
+  data-ruby-level="1">おおて</rt></ruby>ＩＴ<ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>の<ruby>責任<rt
+  data-ruby-level="5">せきにん</rt></ruby>に<ruby>関心<rt data-ruby-level="4">かんしん</rt></ruby>が<ruby>集<rt
+  data-ruby-level="3">あつ</rt></ruby>まっています。
+movie_url: https://newswebeasy.github.io/ja201806/news/web/movie/2018/06/05/k10011464871_201806050821_201806050825.mp4
+voice_url: https://newswebeasy.github.io/ja201806/news/web/voice/2018/06/05/k10011464871_201806050821_201806050825.mp3
+body:
+- title: ｉＯＳ12 ＡＲ<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby><ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>など<ruby>新機能<rt
+    data-ruby-level="5">しんきのう</rt></ruby>
+  text: アップルのスマートフォンやタブレット<ruby>端末<rt data-ruby-level="7">たんまつ</rt></ruby><ruby>向<rt
+    data-ruby-level="3">む</rt></ruby>けの<ruby>新<rt data-ruby-level="2">あたら</rt></ruby>しい<ruby>基本<rt
+    data-ruby-level="5">きほん</rt></ruby>ソフト「ｉＯＳ１２」はこの<ruby>秋<rt data-ruby-level="2">あき</rt></ruby>からダウンロードができるようになります。<br
+    /><br /><ruby>新<rt data-ruby-level="2">あたら</rt></ruby>しい<ruby>機能<rt data-ruby-level="5">きのう</rt></ruby>としては、ＡＲ＝<ruby>拡張<rt
+    data-ruby-level="6">かくちょう</rt></ruby><ruby>現実<rt data-ruby-level="5">げんじつ</rt></ruby>の<ruby>技術<rt
+    data-ruby-level="5">ぎじゅつ</rt></ruby>を<ruby>使<rt data-ruby-level="3">つか</rt></ruby>って、カメラで<ruby>映<rt
+    data-ruby-level="6">うつ</rt></ruby>し<ruby>出<rt data-ruby-level="6">だ</rt></ruby>したスーツケースやテーブルなどの<ruby>画像<rt
+    data-ruby-level="5">がぞう</rt></ruby>の２<ruby>点<rt data-ruby-level="2">てん</rt></ruby>を<ruby>画面上<rt
+    data-ruby-level="3">がめんじょう</rt></ruby>で<ruby>触<rt data-ruby-level="7">さわ</rt></ruby>ると<ruby>長<rt
+    data-ruby-level="2">なが</rt></ruby>さや<ruby>高<rt data-ruby-level="2">たか</rt></ruby>さ、<ruby>奥行<rt
+    data-ruby-level="7">おくゆ</rt></ruby>きなどが<ruby>計測<rt data-ruby-level="5">けいそく</rt></ruby>できるほか、<ruby>肌<rt
+    data-ruby-level="7">はだ</rt></ruby>の<ruby>色<rt data-ruby-level="2">いろ</rt></ruby>や<ruby>髪型<rt
+    data-ruby-level="7">かみがた</rt></ruby>などを<ruby>選<rt data-ruby-level="4">えら</rt></ruby>び、みずからを<ruby>模<rt
+    data-ruby-level="6">も</rt></ruby>した”<ruby>動<rt data-ruby-level="3">うご</rt></ruby>くキャラクター”をつくることもできるようになります。<br
+    /><br />また<ruby>現在<rt data-ruby-level="5">げんざい</rt></ruby>は１<ruby>対<rt data-ruby-level="3">たい</rt></ruby>１のみで<ruby>可能<rt
+    data-ruby-level="5">かのう</rt></ruby>なビデオ<ruby>通話<rt data-ruby-level="2">つうわ</rt></ruby>の<ruby>機能<rt
+    data-ruby-level="5">きのう</rt></ruby>については、いちどに<ruby>最大<rt data-ruby-level="4">さいだい</rt></ruby>３２<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>がつながることができるようになります。<br /><ruby>会場<rt data-ruby-level="2">かいじょう</rt></ruby>でも、<ruby>多<rt
+    data-ruby-level="2">おお</rt></ruby>くの<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>が<ruby>参加<rt
+    data-ruby-level="4">さんか</rt></ruby>したビデオ<ruby>通話<rt data-ruby-level="2">つうわ</rt></ruby>の<ruby>会議<rt
+    data-ruby-level="4">かいぎ</rt></ruby>で、<ruby>参加者<rt data-ruby-level="4">さんかしゃ</rt></ruby>のうち<ruby>話<rt
+    data-ruby-level="2">はな</rt></ruby>している<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>の<ruby>画面<rt
+    data-ruby-level="3">がめん</rt></ruby>が<ruby>自動的<rt data-ruby-level="4">じどうてき</rt></ruby>に<ruby>大<rt
+    data-ruby-level="1">おお</rt></ruby>きくなるデモが<ruby>披露<rt data-ruby-level="7">ひろう</rt></ruby>されていました。
+source_url: https://www3.nhk.or.jp/news/html/20180605/k10011464871000.html
+related_news:
+- title: フェイスブックが<ruby>新機能<rt data-ruby-level="5">しんきのう</rt></ruby><ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>
+    <ruby>閲覧<rt data-ruby-level="7">えつらん</rt></ruby><ruby>履歴<rt data-ruby-level="7">りれき</rt></ruby>など<ruby>消去<rt
+    data-ruby-level="3">しょうきょ</rt></ruby><ruby>可能<rt data-ruby-level="5">かのう</rt></ruby>に
+  url: https://newswebeasy.github.io/news/web/2018/05/02/フェイスブックが新機能発表-閲覧履歴など消去可能に
+- title: グーグル モールス<ruby>信号<rt data-ruby-level="4">しんごう</rt></ruby>で<ruby>文字<rt data-ruby-level="1">もじ</rt></ruby><ruby>入力<rt
+    data-ruby-level="1">にゅうりょく</rt></ruby> <ruby>読<rt data-ruby-level="2">よ</rt></ruby>み<ruby>上<rt
+    data-ruby-level="2">あ</rt></ruby>げ<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>を<ruby>公開<rt
+    data-ruby-level="3">こうかい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/05/10/グーグル-モールス信号で文字入力-読み上げ技術を公開
+- title: フェイスブック「<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby>データ<ruby>流出<rt data-ruby-level="3">りゅうしゅつ</rt></ruby>は<ruby>最大<rt
+    data-ruby-level="4">さいだい</rt></ruby>で8700<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>」
+  url: https://newswebeasy.github.io/news/web/2018/04/05/フェイスブック個人データ流出は最大で8700万人
+- title: <ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもの70％ スマホ<ruby>利用<rt data-ruby-level="4">りよう</rt></ruby>
+    <ruby>低年齢化<rt data-ruby-level="7">ていねんれいか</rt></ruby>や<ruby>長時間<rt data-ruby-level="2">ちょうじかん</rt></ruby><ruby>化<rt
+    data-ruby-level="3">か</rt></ruby><ruby>進<rt data-ruby-level="3">すす</rt></ruby>む
+  url: https://newswebeasy.github.io/news/web/2018/05/05/子どもの70-スマホ利用-低年齢化や長時間化進む
+...
