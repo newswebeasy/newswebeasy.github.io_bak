@@ -1,0 +1,69 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011464871000
+last_modified_at: '2018-06-06T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>06<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 子どもや若い人が長い時間スマートフォンを使うと、心の健康によくないと言われています。
+title: アップル　スマートフォンを使いすぎないようにする機能
+title_with_ruby: アップル　スマートフォンを<ruby>使<rt>つか</rt></ruby>いすぎないようにする<ruby>機能<rt>きのう</rt></ruby>
+outline: 子どもや若い人が長い時間スマートフォンを使うと、心の健康によくないと言われています。
+outline_with_ruby: <ruby>子<rt>こ</rt></ruby>どもや<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>が<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>スマートフォンを<ruby>使<rt>つか</rt></ruby>うと、<ruby>心<rt>こころ</rt></ruby>の<ruby>健康<rt>けんこう</rt></ruby>によくないと<ruby>言<rt>い</rt></ruby>われています。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/05/K10011464871_1806050821_1806050826_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/06/k10011464871000.mp4
+content_with_ruby: "<p><ruby>子<rt>こ</rt></ruby>どもや<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>が<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>スマートフォンを<ruby>使<rt>つか</rt></ruby>うと、<ruby>心<rt>こころ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>健康<rt>けんこう</rt></ruby></span>によくないと<ruby>言<rt>い</rt></ruby>われています。このため、アメリカのアップルは<ruby>４日<rt>よっか</rt></ruby>、スマートフォンを<ruby>使<rt>つか</rt></ruby>いすぎないようにするための<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>機能<rt>きのう</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p><ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>機能<rt>きのう</rt></ruby></span>では、どのアプリをどのくらい<ruby>使<rt>つか</rt></ruby>ったかや、１<ruby>時間<rt>じかん</rt></ruby>に<ruby>何<rt>なん</rt></ruby><ruby>回<rt>かい</rt></ruby>スマートフォンを<ruby>使<rt>つか</rt></ruby>ったかなどの<span\
+  \ style=\"color: blue;\">データ</span>を１<ruby>週間<rt>しゅうかん</rt></ruby>に１<ruby>回<rt>かい</rt></ruby><ruby>知<rt>し</rt></ruby>らせます。アプリを<ruby>使<rt>つか</rt></ruby>う<ruby>時間<rt>じかん</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>で<ruby>決<rt>き</rt></ruby>めることもできます。</p>\n\
+  <p><ruby>子<rt>こ</rt></ruby>どもがスマートフォンを<ruby>使<rt>つか</rt></ruby>った<ruby>時間<rt>じかん</rt></ruby>などの<span\
+  \ style=\"color: blue;\">データ</span>を<span style=\"color: blue;\"><ruby>親<rt>おや</rt></ruby></span>に<ruby>知<rt>し</rt></ruby>らせることもできます。<span\
+  \ style=\"color: blue;\"><ruby>親<rt>おや</rt></ruby></span>が<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>子<rt>こ</rt></ruby>どもの<ruby>使<rt>つか</rt></ruby>う<ruby>時間<rt>じかん</rt></ruby>を<ruby>決<rt>き</rt></ruby>めることができるようになります。</p>\n\
+  <p>この<span style=\"color: blue;\"><ruby>機能<rt>きのう</rt></ruby></span>が<ruby>入<rt>はい</rt></ruby>った<ruby>新<rt>あたら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>基本<rt>きほん</rt></ruby></span><span style=\"color:\
+  \ blue;\">ソフト</span>「ｉＯＳ１２」は、<ruby>今年<rt>ことし</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>から<span\
+  \ style=\"color: blue;\">ダウンロード</span>できるようになります。</p>\n<p></p>\n<p></p>"
+words:
+- word: 機能
+  descriptions:
+  - その<ruby><rb>目的</rb><rt>もくてき</rt></ruby>どおりにはたらくこと。また、そのはたらき。<ruby><rb>作用</rb><rt>さよう</rt></ruby>。
+- word: 健康
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: データ
+  descriptions:
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。
+  - コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。
+- word: 親
+  descriptions:
+  - <ruby><rb>父</rb><rt>ちち</rt></ruby>や<ruby><rb>母</rb><rt>はは</rt></ruby>。<ruby><rb>両親</rb><rt>りょうしん</rt></ruby>。
+  - <ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>をうんだもの。
+  - トランプやかるたなどの<ruby><rb>遊</rb><rt>あそ</rt></ruby>びで、カードを<ruby><rb>配</rb><rt>くば</rt></ruby>る<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となるもの。<ruby><rb>大</rb><rt>おお</rt></ruby>きいもの。
+- word: 基本
+  descriptions:
+  - ものごとの<ruby><rb>大</rb><rt>おお</rt></ruby>もと。
+- word: ソフトウエア
+  descriptions:
+  - コンピューターを<ruby><rb>動</rb><rt>うご</rt></ruby>かすためのプログラムや<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>。ソフト。
+- word: ダウンロード
+  descriptions:
+  - ほかのコンピューターから<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のパソコンなどに、<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>なデータを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>入</rb><rt>い</rt></ruby>れること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011464871000/k10011464871000.html
+web_title_with_ruby: <ruby>スマホ<rt>すまほ</rt></ruby><ruby>依存症<rt>いぞんしょう</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>の<ruby>新機能<rt>しんきのう</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>
+  <ruby>アップル<rt>あっぷる</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/05/スマホ依存症対策の新機能を発表-アップル
+related_news:
+- title: <ruby>東京都<rt>とうきょうと</rt></ruby>　<ruby>子<rt>こ</rt></ruby>どもの７０％がスマートフォンなどを<ruby>使<rt>つか</rt></ruby>っている
+  url: https://newswebeasy.github.io/news/easy/2018/05/08/東京都-子どもの70がスマートフォンなどを使っている
+- title: フェイスブック「８７００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>不正<rt>ふせい</rt></ruby>に<ruby>使<rt>つか</rt></ruby>われた」
+  url: https://newswebeasy.github.io/news/easy/2018/04/05/フェイスブック8700万人の情報が不正に使われた
+- title: ローソン　レジに<ruby>並<rt>なら</rt></ruby>ばないでスマートフォンでお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/04/25/ローソン-レジに並ばないでスマートフォンでお金を払う
+...

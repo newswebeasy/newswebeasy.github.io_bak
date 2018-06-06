@@ -1,0 +1,73 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011464261000
+last_modified_at: '2018-06-06T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>06<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 髪が生えなくなったり少なくなったりして困っている人は日本に２５００万人以上いると言われています。
+title: 髪を作る「毛包」がたくさんできる技術
+title_with_ruby: <ruby>髪<rt>かみ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る「<ruby>毛包<rt>もうほう</rt></ruby>」がたくさんできる<ruby>技術<rt>ぎじゅつ</rt></ruby>
+outline: 髪が生えなくなったり少なくなったりして困っている人は日本に２５００万人以上いると言われています。
+outline_with_ruby: <ruby>髪<rt>かみ</rt></ruby>が<ruby>生<rt>は</rt></ruby>えなくなったり<ruby>少<rt>すく</rt></ruby>なくなったりして<ruby>困<rt>こま</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>は<ruby>日本<rt>にっぽん</rt></ruby>に２５００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>いると<ruby>言<rt>い</rt></ruby>われています。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/04/K10011464261_1806041744_1806041748_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/06/k10011464261000.mp4
+content_with_ruby: "<p><ruby>髪<rt>かみ</rt></ruby>が<span style=\"color: blue;\"><ruby>生<rt>は</rt></ruby>え</span>なくなったり<ruby>少<rt>すく</rt></ruby>なくなったりして<ruby>困<rt>こま</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>は<ruby>日本<rt>にっぽん</rt></ruby>に２５００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>いると<ruby>言<rt>い</rt></ruby>われています。<ruby>理化学研究所<rt>りかがくけんきゅうしょ</rt></ruby>などの<span\
+  \ style=\"color: blue;\">グループ</span>は、このような<ruby>人<rt>ひと</rt></ruby>たちの<span style=\"\
+  color: blue;\"><ruby>治療<rt>ちりょう</rt></ruby></span>に<ruby>使<rt>つか</rt></ruby>う<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>しています。</p>\n\
+  <p><ruby>髪<rt>かみ</rt></ruby>は<ruby>頭<rt>あたま</rt></ruby>の<span style=\"color: blue;\"\
+  ><ruby>皮膚<rt>ひふ</rt></ruby></span>にある「<ruby>毛包<rt>もうほう</rt></ruby>」という<span style=\"\
+  color: blue;\"><ruby>部分<rt>ぶぶん</rt></ruby></span>で<ruby>作<rt>つく</rt></ruby>られます。<span\
+  \ style=\"color: blue;\">グループ</span>は、<ruby>人<rt>ひと</rt></ruby>の<ruby>頭<rt>あたま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>皮膚<rt>ひふ</rt></ruby></span>から<ruby>取<rt>と</rt></ruby>った３<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>細胞<rt>さいぼう</rt></ruby></span>を<ruby>育<rt>そだ</rt></ruby>てて、<ruby>毛包<rt>もうほう</rt></ruby>をたくさん<ruby>作<rt>つく</rt></ruby>る<ruby>技術<rt>ぎじゅつ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。<span style=\"\
+  color: blue;\">グループ</span>によると、<ruby>２０日<rt>はつか</rt></ruby>ぐらいで５０００の<ruby>毛包<rt>もうほう</rt></ruby>ができます。５０００の<ruby>毛包<rt>もうほう</rt></ruby>で<ruby>髪<rt>かみ</rt></ruby>を１<ruby>万<rt>まん</rt></ruby><ruby>本<rt>ぼん</rt></ruby>ぐらい<ruby>作<rt>つく</rt></ruby>ることができます。</p>\n\
+  <p><span style=\"color: blue;\">グループ</span>はこの<ruby>技術<rt>ぎじゅつ</rt></ruby>が<ruby>安全<rt>あんぜん</rt></ruby>かどうか<ruby>調<rt>しら</rt></ruby>べるため、<ruby>作<rt>つく</rt></ruby>った<ruby>毛包<rt>もうほう</rt></ruby>を<ruby>動物<rt>どうぶつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>移植<rt>いしょく</rt></ruby></span>する<ruby>試験<rt>しけん</rt></ruby>を７<ruby>月<rt>がつ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>めることにしています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 生える
+  descriptions:
+  - <ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>の<ruby><rb>芽</rb><rt>め</rt></ruby>や<ruby><rb>根</rb><rt>ね</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>る。また、のびて<ruby><rb>育</rb><rt>そだ</rt></ruby>つ。
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>歯</rb><rt>は</rt></ruby>やひげ、<ruby><rb>毛</rb><rt>け</rt></ruby>がのび<ruby><rb>出</rb><rt>で</rt></ruby>る。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 治療
+  descriptions:
+  - <ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがの<ruby><rb>手当</rb><rt>てあ</rt></ruby>てをして<ruby><rb>治</rb><rt>なお</rt></ruby>すこと。
+- word: 皮膚
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>包</rb><rt>つつ</rt></ruby>んでいる<ruby><rb>皮</rb><rt>かわ</rt></ruby>。<ruby><rb>肌</rb><rt>はだ</rt></ruby>。
+- word: 部分
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>を、いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>けたものの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 細胞
+  descriptions:
+  - <ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てている、いちばん<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>単位</rb><rt>たんい</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 移植
+  descriptions:
+  - <ruby><rb>草</rb><rt>くさ</rt></ruby>や<ruby><rb>木</rb><rt>き</rt></ruby>を、ほかの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>に<ruby><rb>植</rb><rt>う</rt></ruby>えかえること。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>を、ほかの<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>やほかの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>移</rb><rt>うつ</rt></ruby>しかえること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011464261000/k10011464261000.html
+web_title_with_ruby: <ruby>毛髪<rt>もうはつ</rt></ruby>の“もと”<ruby>大量<rt>たいりょう</rt></ruby>に<ruby>作<rt>つく</rt></ruby>る<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>開発<rt>かいはつ</rt></ruby>
+  <ruby>理化学研究所<rt>りかがくけんきゅうじょ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/04/毛髪のもと大量に作る技術を開発-理化学研究所
+related_news:
+- title: ｉＰＳ<ruby>細胞<rt>さいぼう</rt></ruby>で<ruby>心臓<rt>しんぞう</rt></ruby>の<ruby>病気<rt>びょうき</rt></ruby>の<ruby>治療<rt>ちりょう</rt></ruby>をすることが<ruby>決<rt>き</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/05/17/iPS細胞で心臓の病気の治療をすることが決まる
+- title: 「２<ruby>万<rt>まん</rt></ruby>７０００<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>にこのような<ruby>顔<rt>かお</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>にいた」
+  url: https://newswebeasy.github.io/news/easy/2018/04/24/2万7000年前にこのような顔の人が日本にいた
+- title: 「セクハラをなくしたい」<ruby>女性<rt>じょせい</rt></ruby>の<ruby>記者<rt>きしゃ</rt></ruby>がグループを<ruby>作<rt>つく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/05/16/セクハラをなくしたい女性の記者がグループを作る
+- title: <ruby>石川県<rt>いしかわけん</rt></ruby>　<ruby>九谷焼<rt>くたにやき</rt></ruby>のアクセサリーを<ruby>自動販売機<rt>じどうはんばいき</rt></ruby>で<ruby>売<rt>う</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/04/18/石川県-九谷焼のアクセサリーを自動販売機で売る
+...

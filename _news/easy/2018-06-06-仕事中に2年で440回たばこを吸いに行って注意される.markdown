@@ -1,0 +1,61 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011465851000
+last_modified_at: '2018-06-06T16:40:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>06<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ふん</rt></ruby>
+description: 大阪府は「役所の職員が仕事中に外へたばこを吸いに行っている」と知らせてきた人がいたため、４９歳の男性の職員に話を聞きました。
+title: 仕事中に２年で４４０回たばこを吸いに行って注意される
+title_with_ruby: <ruby>仕事中<rt>しごとちゅう</rt></ruby>に２<ruby>年<rt>ねん</rt></ruby>で４４０<ruby>回<rt>かい</rt></ruby>たばこを<ruby>吸<rt>す</rt></ruby>いに<ruby>行<rt>い</rt></ruby>って<ruby>注意<rt>ちゅうい</rt></ruby>される
+outline: 大阪府は「役所の職員が仕事中に外へたばこを吸いに行っている」と知らせてきた人がいたため、４９歳の男性の職員に話を聞きました。
+outline_with_ruby: <ruby>大阪府<rt>おおさかふ</rt></ruby>は「<ruby>役所<rt>やくしょ</rt></ruby>の<ruby>職員<rt>しょくいん</rt></ruby>が<ruby>仕事中<rt>しごとちゅう</rt></ruby>に<ruby>外<rt>そと</rt></ruby>へたばこを<ruby>吸<rt>す</rt></ruby>いに<ruby>行<rt>い</rt></ruby>っている」と<ruby>知<rt>し</rt></ruby>らせてきた<ruby>人<rt>ひと</rt></ruby>がいたため、４９<ruby>歳<rt>さい</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>の<ruby>職員<rt>しょくいん</rt></ruby>に<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/05/K10011465851_1806051911_1806051915_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/06/k10011465851000.mp4
+content_with_ruby: "<p><ruby>大阪府<rt>おおさかふ</rt></ruby>は「<span style=\"color: blue;\"\
+  ><ruby>役所<rt>やくしょ</rt></ruby></span>の<span style=\"color: blue;\"><ruby>職員<rt>しょくいん</rt></ruby></span>が<ruby>仕事中<rt>しごとちゅう</rt></ruby>に<ruby>外<rt>そと</rt></ruby>へたばこを<ruby>吸<rt>す</rt></ruby>いに<ruby>行<rt>い</rt></ruby>っている」と<ruby>知<rt>し</rt></ruby>らせてきた<ruby>人<rt>ひと</rt></ruby>がいたため、４９<ruby>歳<rt>さい</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>職員<rt>しょくいん</rt></ruby></span>に<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きました。<ruby>男性<rt>だんせい</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>役所<rt>やくしょ</rt></ruby></span>から１５０ｍぐらいの<ruby>所<rt>ところ</rt></ruby>にあるビルへ１<ruby>日<rt>にち</rt></ruby>に２<ruby>回<rt>かい</rt></ruby>か３<ruby>回<rt>かい</rt></ruby>たばこを<ruby>吸<rt>す</rt></ruby>いに<ruby>行<rt>い</rt></ruby>っていた」と<ruby>言<rt>い</rt></ruby>いました。<ruby>大阪府<rt>おおさかふ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>役所<rt>やくしょ</rt></ruby></span>の<ruby>建物<rt>たてもの</rt></ruby>や<ruby>庭<rt>にわ</rt></ruby>では１０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>からたばこを<ruby>吸<rt>す</rt></ruby>うことができません。</p>\n\
+  <p><ruby>大阪府<rt>おおさかふ</rt></ruby>は、<ruby>男性<rt>だんせい</rt></ruby>が２<ruby>年<rt>ねん</rt></ruby>で４４０<ruby>回<rt>かい</rt></ruby>ぐらい、<ruby>全部<rt>ぜんぶ</rt></ruby>で１００<ruby>時間<rt>じかん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>仕事中<rt>しごとちゅう</rt></ruby>に<ruby>外<rt>そと</rt></ruby>へ<ruby>行<rt>い</rt></ruby>っていたと<ruby>考<rt>かんが</rt></ruby>えて、<ruby>男性<rt>だんせい</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>しました。<ruby>男性<rt>だんせい</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>職員<rt>しょくいん</rt></ruby></span>を<span style=\"color:\
+  \ blue;\">やめ</span>ました。<ruby>男性<rt>だんせい</rt></ruby>は<ruby>大阪府<rt>おおさかふ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>たちの<span\
+  \ style=\"color: blue;\"><ruby>健康<rt>けんこう</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>守<rt>まも</rt></ruby>る</span> <span style=\"color: blue;\"><ruby>部<rt>ぶ</rt></ruby></span>で<ruby>仕事<rt>しごと</rt></ruby>をしていました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 役所
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。
+- word: 職員
+  descriptions:
+  - <ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 辞める
+  descriptions:
+  - <ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。
+- word: 健康
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 部
+  descriptions:
+  - <ruby><rb>区分</rb><rt>くわ</rt></ruby>け。<ruby><rb>区分</rb><rt>くわ</rt></ruby>けした<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+  - <ruby><rb>本</rb><rt>ほん</rt></ruby>や<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+source_url: http://www3.nhk.or.jp/news/easy/k10011465851000/k10011465851000.html
+web_title_with_ruby: たばこ<ruby>吸<rt>す</rt></ruby>うため<ruby>離席<rt>りせき</rt></ruby>440<ruby>回<rt>かい</rt></ruby>で<ruby>職員<rt>しょくいん</rt></ruby>を<ruby>処分<rt>しょぶん</rt></ruby>
+  <ruby>大阪府<rt>おおさかふ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/05/たばこ吸うため離席440回で職員を処分-大阪府
+related_news:
+- title: たばこを<ruby>吸<rt>す</rt></ruby>ったあと４５<ruby>分<rt>ふん</rt></ruby>エレベーターに<ruby>乗<rt>の</rt></ruby>ってはいけない
+  url: https://newswebeasy.github.io/news/easy/2018/04/02/たばこを吸ったあと45分エレベーターに乗ってはいけない
+- title: ニッポンレンタカー　<ruby>客<rt>きゃく</rt></ruby>に<ruby>貸<rt>か</rt></ruby>す<ruby>車<rt>くるま</rt></ruby>を１１<ruby>月<rt>がつ</rt></ruby>から<ruby>禁煙<rt>きんえん</rt></ruby>にする
+  url: https://newswebeasy.github.io/news/easy/2018/04/09/ニッポンレンタカー-客に貸す車を11月から禁煙にする
+- title: <ruby>動物園<rt>どうぶつえん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>がたばこを<ruby>投<rt>な</rt></ruby>げてオランウータンが<ruby>吸<rt>す</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/03/12/動物園に来た人がたばこを投げてオランウータンが吸う
+- title: <ruby>元気<rt>げんき</rt></ruby>に<ruby>生活<rt>せいかつ</rt></ruby>できる「<ruby>健康寿命<rt>けんこうじゅみょう</rt></ruby>」が<ruby>女性<rt>じょせい</rt></ruby>も<ruby>男性<rt>だんせい</rt></ruby>も<ruby>長<rt>なが</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/03/12/元気に生活できる健康寿命が女性も男性も長くなる
+...
