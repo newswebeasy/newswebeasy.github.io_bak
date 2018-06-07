@@ -1,0 +1,75 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011466651000
+last_modified_at: '2018-06-07T17:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>07<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 雨の日が続く梅雨の季節になって、いろいろな場所であじさいの花が咲いています。
+title: 京都の三室戸寺　１万株のあじさいが咲く
+title_with_ruby: <ruby>京都<rt>きょうと</rt></ruby>の<ruby>三室戸寺<rt>みむろとじ</rt></ruby>　１<ruby>万<rt>まん</rt></ruby><ruby>株<rt>かぶ</rt></ruby>のあじさいが<ruby>咲<rt>さ</rt></ruby>く
+outline: 雨の日が続く梅雨の季節になって、いろいろな場所であじさいの花が咲いています。
+outline_with_ruby: <ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>く<ruby>梅雨<rt>つゆ</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>になって、いろいろな<ruby>場所<rt>ばしょ</rt></ruby>であじさいの<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いています。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/06/K10011466651_1806061454_1806061458_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/07/k10011466651000.mp4
+content_with_ruby: "<p><ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>く<span\
+  \ style=\"color: blue;\"><ruby>梅雨<rt>つゆ</rt></ruby></span>の<ruby>季節<rt>きせつ</rt></ruby>になって、いろいろな<ruby>場所<rt>ばしょ</rt></ruby>で<span\
+  \ style=\"color: blue;\">あじさい</span>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いています。</p>\n\
+  <p><ruby>京都府<rt>きょうとふ</rt></ruby><ruby>宇治市<rt>うじし</rt></ruby>にある<ruby>三室戸寺<rt>みむろとじ</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>７０００m²の<ruby>庭<rt>にわ</rt></ruby>に５０<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>ぐらいの<span style=\"color:\
+  \ blue;\">あじさい</span>を１<ruby>万<rt>まん</rt></ruby><span style=\"color: blue;\"><ruby>株<rt>かぶ</rt></ruby></span><ruby>植<rt>う</rt></ruby>えています。<ruby>今月<rt>こんげつ</rt></ruby>になって、<ruby>青<rt>あお</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>紫<rt>むらさき</rt></ruby></span>、<ruby>白<rt>しろ</rt></ruby>などの<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めました。<span\
+  \ style=\"color: blue;\">ハート</span>の<ruby>形<rt>かたち</rt></ruby>に<ruby>見<rt>み</rt></ruby>える<span\
+  \ style=\"color: blue;\">あじさい</span>もあって、<ruby>見<rt>み</rt></ruby>にきた<ruby>人<rt>ひと</rt></ruby>は<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>っていました。</p>\n\
+  <p><ruby>三室戸寺<rt>みむろとじ</rt></ruby>によると、<ruby>今年<rt>ことし</rt></ruby>は<ruby>春<rt>はる</rt></ruby>が<ruby>暖<rt>あたた</rt></ruby>かかったため、いつもの<ruby>年<rt>とし</rt></ruby>より１<ruby>週間<rt>しゅうかん</rt></ruby>ぐらい<ruby>早<rt>はや</rt></ruby>く<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めました。<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろまできれいな<ruby>花<rt>はな</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむことができそうです。</p>\n\
+  <p><ruby>横浜市<rt>よこはまし</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>女性<rt>じょせい</rt></ruby>は、「<ruby>雨<rt>あめ</rt></ruby>にぬれて、<span\
+  \ style=\"color: blue;\">あじさい</span>の<ruby>青<rt>あお</rt></ruby>い<ruby>色<rt>いろ</rt></ruby>がとてもきれいに<ruby>見<rt>み</rt></ruby>えました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 株
+  descriptions:
+  - <ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>草</rb><rt>くさ</rt></ruby>の<ruby><rb>根</rb><rt>ね</rt></ruby>もと。
+  - <ruby><rb>株式</rb><rt>かぶしき</rt></ruby>。
+  - <ruby><rb>得意</rb><rt>とくい</rt></ruby>なこと。
+  - <ruby><rb>人気</rb><rt>にんき</rt></ruby>。<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+  - <ruby><rb>根</rb><rt>ね</rt></ruby>のついたものを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 紫陽花
+  descriptions:
+  - <ruby><rb>庭</rb><rt>にわ</rt></ruby>に<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>木</rb><rt>き</rt></ruby>。<ruby><rb>葉</rb><rt>は</rt></ruby>は<ruby><rb>楕円形</rb><rt>だえんけい</rt></ruby>で<ruby><rb>大</rb><rt>おお</rt></ruby>きく、<ruby><rb>梅雨</rb><rt>つゆ</rt></ruby>のころに<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>青</rb><rt>あお</rt></ruby>むらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>などの<ruby><rb>花</rb><rt>はな</rt></ruby>がまるく<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>咲</rb><rt>さ</rt></ruby>く。めしべがなく、<ruby><rb>種</rb><rt>たね</rt></ruby>はできない。
+- word: 梅雨
+  descriptions:
+  - <ruby><rb>六月</rb><rt>ろくがつ</rt></ruby>から<ruby><rb>七月</rb><rt>しちがつ</rt></ruby>にかけて<ruby><rb>降</rb><rt>ふ</rt></ruby>り<ruby><rb>続</rb><rt>つづ</rt></ruby>く<ruby><rb>雨</rb><rt>あめ</rt></ruby>。また、その<ruby><rb>季節</rb><rt>きせつ</rt></ruby>。ばいう。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 紫
+  descriptions:
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>と<ruby><rb>青</rb><rt>あお</rt></ruby>の<ruby><rb>混</rb><rt>ま</rt></ruby>じった<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+  - <ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>小花</rb><rt>こばな</rt></ruby>をつける<ruby><rb>草</rb><rt>くさ</rt></ruby>。<ruby><rb>根</rb><rt>ね</rt></ruby>からむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>染料</rb><rt>せんりょう</rt></ruby>をとる。
+  - 「しょうゆ」の<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>方</rb><rt>かた</rt></ruby>。
+- word: ハート
+  descriptions:
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>。<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。
+  - <ruby><rb>心臓</rb><rt>しんぞう</rt></ruby>。
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>い「<span class="dic_red">♥</span>」のしるしのついたトランプのカード。
+source_url: http://www3.nhk.or.jp/news/easy/k10011466651000/k10011466651000.html
+web_title_with_ruby: <ruby>京都<rt>きょうと</rt></ruby> “<ruby>花<rt>はな</rt></ruby>の<ruby>寺<rt>てら</rt></ruby>”の<ruby>アジサイ<rt>あじさい</rt></ruby><ruby>庭園<rt>ていえん</rt></ruby>が<ruby>見頃<rt>みごろ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/06/京都-花の寺のアジサイ庭園が見頃
+related_news:
+- title: <ruby>東京<rt>とうきょう</rt></ruby>でいつもの<ruby>年<rt>とし</rt></ruby>より<ruby>９日<rt>ここのか</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2018/03/19/東京でいつもの年より9日早く桜が咲き始める
+- title: アメリカのワシントンで<ruby>東京<rt>とうきょう</rt></ruby>からもらった<ruby>桜<rt>さくら</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/04/09/アメリカのワシントンで東京からもらった桜の花が咲く
+- title: <ruby>暖<rt>あたた</rt></ruby>かい<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く<ruby>日<rt>ひ</rt></ruby>が<ruby>早<rt>はや</rt></ruby>くなりそう
+  url: https://newswebeasy.github.io/news/easy/2018/03/15/暖かい日が続いて桜が咲く日が早くなりそう
+- title: <ruby>大阪<rt>おおさか</rt></ruby>の<ruby>造幣局<rt>ぞうへいきょく</rt></ruby>の「<ruby>桜<rt>さくら</rt></ruby>の<ruby>通<rt>とお</rt></ruby>り<ruby>抜<rt>ぬ</rt></ruby>け」が<ruby>始<rt>はじ</rt></ruby>まって<ruby>花<rt>はな</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむ
+  url: https://newswebeasy.github.io/news/easy/2018/04/12/大阪の造幣局の桜の通り抜けが始まって花を楽しむ
+- title: <ruby>気象庁<rt>きしょうちょう</rt></ruby>　５<ruby>月<rt>がつ</rt></ruby>から７<ruby>月<rt>がつ</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>くて<ruby>梅雨<rt>つゆ</rt></ruby>には<ruby>雨<rt>あめ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなりそう
+  url: https://newswebeasy.github.io/news/easy/2018/04/27/気象庁-5月から7月は暑くて梅雨には雨が多くなりそう
+...

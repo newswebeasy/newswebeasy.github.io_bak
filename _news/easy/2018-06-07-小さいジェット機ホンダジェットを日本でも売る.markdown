@@ -1,0 +1,67 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011466751000
+last_modified_at: '2018-06-07T17:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>07<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 自動車会社のホンダは、７人まで乗ることができる「ホンダジェット」という小さいジェット機を日本でも売ると発表しました。
+title: 小さいジェット機「ホンダジェット」を日本でも売る
+title_with_ruby: <ruby>小<rt>ちい</rt></ruby>さいジェット<ruby>機<rt>き</rt></ruby>「ホンダジェット」を<ruby>日本<rt>にっぽん</rt></ruby>でも<ruby>売<rt>う</rt></ruby>る
+outline: 自動車会社のホンダは、７人まで乗ることができる「ホンダジェット」という小さいジェット機を日本でも売ると発表しました。
+outline_with_ruby: <ruby>自動車<rt>じどうしゃ</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>のホンダは、７<ruby>人<rt>にん</rt></ruby>まで<ruby>乗<rt>の</rt></ruby>ることができる「ホンダジェット」という<ruby>小<rt>ちい</rt></ruby>さいジェット<ruby>機<rt>き</rt></ruby>を<ruby>日本<rt>にっぽん</rt></ruby>でも<ruby>売<rt>う</rt></ruby>ると<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/06/K10011466751_1806061626_1806061650_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/07/k10011466751000.mp4
+content_with_ruby: "<p><ruby>自動車<rt>じどうしゃ</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>のホンダは、７<ruby>人<rt>にん</rt></ruby>まで<ruby>乗<rt>の</rt></ruby>ることができる「ホンダジェット」という<ruby>小<rt>ちい</rt></ruby>さい<span\
+  \ style=\"color: blue;\">ジェット<ruby>機<rt>き</rt></ruby></span>を<ruby>日本<rt>にっぽん</rt></ruby>でも<ruby>売<rt>う</rt></ruby>ると<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>アメリカの<ruby>工場<rt>こうじょう</rt></ruby>で<ruby>生産<rt>せいさん</rt></ruby>しているホンダジェットは、６７の<ruby>国<rt>くに</rt></ruby>で<ruby>売<rt>う</rt></ruby>っています。<ruby>小<rt>ちい</rt></ruby>さい<span\
+  \ style=\"color: blue;\">ジェット<ruby>機<rt>き</rt></ruby></span>では<span style=\"color:\
+  \ blue;\">スピード</span>が<ruby>速<rt>はや</rt></ruby>くて、<ruby>中<rt>なか</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>いため、<ruby>去年<rt>きょねん</rt></ruby><ruby>世界<rt>せかい</rt></ruby>でいちばんたくさん<span\
+  \ style=\"color: blue;\"><ruby>売<rt>う</rt></ruby>れ</span>ました。この<ruby>飛行機<rt>ひこうき</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>上海<rt>しゃんはい</rt></ruby>や<ruby>台湾<rt>たいわん</rt></ruby>まで<ruby>飛<rt>と</rt></ruby>ぶことができて、<ruby>値段<rt>ねだん</rt></ruby>は<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>５<ruby>億<rt>おく</rt></ruby>７０００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>です。</p>\n\
+  <p><ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>社長<rt>しゃちょう</rt></ruby>などが<ruby>持<rt>も</rt></ruby>っている<span\
+  \ style=\"color: blue;\">ジェット<ruby>機<rt>き</rt></ruby></span>は、アメリカでは<span style=\"\
+  color: blue;\"><ruby>約<rt>やく</rt></ruby></span>１<ruby>万<rt>まん</rt></ruby>３０００<span\
+  \ style=\"color: blue;\"><ruby>機<rt>き</rt></ruby></span>ありますが、<ruby>日本<rt>にっぽん</rt></ruby>では９０<span\
+  \ style=\"color: blue;\"><ruby>機<rt>き</rt></ruby></span>ぐらいです。この<ruby>飛行機<rt>ひこうき</rt></ruby>を<ruby>生産<rt>せいさん</rt></ruby>している<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>社長<rt>しゃちょう</rt></ruby>は「<ruby>日本<rt>にっぽん</rt></ruby>でも<ruby>自分<rt>じぶん</rt></ruby>の<ruby>飛行機<rt>ひこうき</rt></ruby>がほしいと<ruby>思<rt>おも</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>はもっといると<ruby>思<rt>おも</rt></ruby>います。この<ruby>飛行機<rt>ひこうき</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>のどんな<ruby>所<rt>ところ</rt></ruby>へでもすぐに<ruby>行<rt>い</rt></ruby>くことができるようにしたいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ジェット機
+  descriptions:
+  - ジェットエンジンで<ruby><rb>飛</rb><rt>と</rt></ruby>ぶ<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: スピード
+  descriptions:
+  - <ruby><rb>速</rb><rt>はや</rt></ruby>さ。<ruby><rb>速力</rb><rt>そくりょく</rt></ruby>。
+- word: 売れる
+  descriptions:
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 機
+  descriptions:
+  - <ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。
+  - とき。きっかけ。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>動</rb><rt>うご</rt></ruby>き。
+  - はたらき。
+  - だいじな<ruby><rb>点</rb><rt>てん</rt></ruby>。
+  - 「<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。また、<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+source_url: http://www3.nhk.or.jp/news/easy/k10011466751000/k10011466751000.html
+web_title_with_ruby: <ruby>ホンダ<rt>ほんだ</rt></ruby> <ruby>小型<rt>こがた</rt></ruby><ruby>ビジネス<rt>びじねす</rt></ruby><ruby>ジェット<rt>じぇっと</rt></ruby><ruby>機<rt>き</rt></ruby>を<ruby>国内<rt>こくない</rt></ruby>でも<ruby>販売<rt>はんばい</rt></ruby>へ
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/06/ホンダ-小型ビジネスジェット機を国内でも販売へ
+related_news:
+- title: <ruby>日本航空<rt>にほんこうくう</rt></ruby>　チケットが<ruby>安<rt>やす</rt></ruby>い<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しく<ruby>作<rt>つく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/05/10/日本航空-チケットが安い飛行機の会社を新しく作る
+- title: <ruby>飛行機<rt>ひこうき</rt></ruby>がネパールの<ruby>空港<rt>くうこう</rt></ruby>に<ruby>下<rt>お</rt></ruby>りるとき<ruby>失敗<rt>しっぱい</rt></ruby>　４９<ruby>人<rt>にん</rt></ruby><ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/03/13/飛行機がネパールの空港に下りるとき失敗-49人亡くなる
+- title: ユニクロの<ruby>服<rt>ふく</rt></ruby>　<ruby>初<rt>はじ</rt></ruby>めて<ruby>日本<rt>にっぽん</rt></ruby>より<ruby>外国<rt>がいこく</rt></ruby>でたくさん<ruby>売<rt>う</rt></ruby>れた
+  url: https://newswebeasy.github.io/news/easy/2018/04/16/ユニクロの服-初めて日本より外国でたくさん売れた
+- title: ボーイングの<ruby>飛行機<rt>ひこうき</rt></ruby>のエンジンに<ruby>問題<rt>もんだい</rt></ruby>が<ruby>起<rt>お</rt></ruby>こる<ruby>可能性<rt>かのうせい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/19/ボーイングの飛行機のエンジンに問題が起こる可能性
+...

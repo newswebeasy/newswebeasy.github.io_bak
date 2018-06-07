@@ -1,0 +1,52 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011465781000
+last_modified_at: '2018-06-07T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>07<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: スペインの画家のピカソが２０歳ごろかいた「海辺の母子像」という有名な絵は、神奈川県にあるポーラ美術館が持っています。
+title: ピカソ　同じキャンバスに３回絵をかいた
+title_with_ruby: ピカソ　<ruby>同<rt>おな</rt></ruby>じキャンバスに３<ruby>回<rt>かい</rt></ruby><ruby>絵<rt>え</rt></ruby>をかいた
+outline: スペインの画家のピカソが２０歳ごろかいた「海辺の母子像」という有名な絵は、神奈川県にあるポーラ美術館が持っています。
+outline_with_ruby: スペインの<ruby>画家<rt>がか</rt></ruby>のピカソが２０<ruby>歳<rt>さい</rt></ruby>ごろかいた「<ruby>海辺<rt>うみべ</rt></ruby>の<ruby>母子像<rt>ぼしぞう</rt></ruby>」という<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>絵<rt>え</rt></ruby>は、<ruby>神奈川県<rt>かながわけん</rt></ruby>にあるポーラ<ruby>美術館<rt>びじゅつかん</rt></ruby>が<ruby>持<rt>も</rt></ruby>っています。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/05/K10011465781_1806051818_1806051839_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/07/k10011465781000.mp4
+content_with_ruby: "<p>スペインの<span style=\"color: blue;\"><ruby>画家<rt>がか</rt></ruby></span>のピカソが２０<ruby>歳<rt>さい</rt></ruby>ごろかいた「<ruby>海辺<rt>うみべ</rt></ruby>の<ruby>母子像<rt>ぼしぞう</rt></ruby>」という<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>絵<rt>え</rt></ruby>は、<ruby>神奈川県<rt>かながわけん</rt></ruby>にあるポーラ<ruby>美術館<rt>びじゅつかん</rt></ruby>が<ruby>持<rt>も</rt></ruby>っています。この<ruby>絵<rt>え</rt></ruby>の<ruby>下<rt>した</rt></ruby>には<ruby>女性<rt>じょせい</rt></ruby>をかいた<ruby>別<rt>べつ</rt></ruby>の<ruby>絵<rt>え</rt></ruby>があることがわかっていました。</p>\n\
+  <p>ポーラ<ruby>美術館<rt>びじゅつかん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い<ruby>技術<rt>ぎじゅつ</rt></ruby>の<span\
+  \ style=\"color: blue;\">スキャナー</span>を<ruby>使<rt>つか</rt></ruby>って４<ruby>月<rt>がつ</rt></ruby>から「<ruby>海辺<rt>うみべ</rt></ruby>の<ruby>母子像<rt>ぼしぞう</rt></ruby>」を<ruby>調<rt>しら</rt></ruby>べると、この<ruby>絵<rt>え</rt></ruby>の<ruby>下<rt>した</rt></ruby>に<ruby>新聞<rt>しんぶん</rt></ruby>が<ruby>貼<rt>は</rt></ruby>ってあることがわかりました。１９０２<ruby>年<rt>ねん</rt></ruby>１<ruby>月<rt>がつ</rt></ruby>１８<ruby>日<rt>にち</rt></ruby>のフランスの<ruby>新聞<rt>しんぶん</rt></ruby>でした。</p>\n\
+  <p><ruby>新聞<rt>しんぶん</rt></ruby>の<ruby>下<rt>した</rt></ruby>には、<ruby>前<rt>まえ</rt></ruby>に<ruby>見<rt>み</rt></ruby>つかった<ruby>女性<rt>じょせい</rt></ruby>の<ruby>絵<rt>え</rt></ruby>があって、その<ruby>下<rt>した</rt></ruby>にピカソが<span\
+  \ style=\"color: blue;\">サイン</span>をした<ruby>別<rt>べつ</rt></ruby>の<ruby>絵<rt>え</rt></ruby>がありました。</p>\n\
+  <p>ポーラ<ruby>美術館<rt>びじゅつかん</rt></ruby>は、ピカソは<span style=\"color: blue;\">サイン</span>をした<ruby>絵<rt>え</rt></ruby>のあと<ruby>女性<rt>じょせい</rt></ruby>の<ruby>絵<rt>え</rt></ruby>をかいて、その<ruby>上<rt>うえ</rt></ruby>に<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>貼<rt>は</rt></ruby>って「<ruby>海辺<rt>うみべ</rt></ruby>の<ruby>母子像<rt>ぼしぞう</rt></ruby>」をかいたようだと<ruby>考<rt>かんが</rt></ruby>えています。ピカソは<ruby>同<rt>おな</rt></ruby>じ<span\
+  \ style=\"color: blue;\">キャンバス</span>に３<ruby>回<rt>かい</rt></ruby><ruby>絵<rt>え</rt></ruby>をかいたことになります。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: キャンバス
+  descriptions:
+  - <ruby><rb>油絵</rb><rt>あぶらえ</rt></ruby>をかく<ruby><rb>布</rb><rt>ぬの</rt></ruby>。カンバス。
+- word: 画家
+  descriptions:
+  - <ruby><rb>絵</rb><rt>え</rt></ruby>をかくことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>絵</rb><rt>え</rt></ruby>かき。
+- word: スキャナー
+  descriptions:
+  - <ruby><rb>画像</rb><rt>がぞう</rt></ruby>や<ruby><rb>文書</rb><rt>ぶんしょ</rt></ruby>などを<ruby><rb>読</rb><rt>よ</rt></ruby>み<ruby><rb>取</rb><rt>と</rt></ruby>って、コンピューターに<ruby><rb>入力</rb><rt>にゅうりょく</rt></ruby>する<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+  - <ruby><rb>文字</rb><rt>もじ</rt></ruby>やバーコードを<ruby><rb>読</rb><rt>よ</rt></ruby>み<ruby><rb>取</rb><rt>と</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: サイン
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>くこと。<ruby><rb>署名</rb><rt>しょめい</rt></ruby>。
+  - <ruby><rb>合図</rb><rt>あいず</rt></ruby>。しるし。
+source_url: http://www3.nhk.or.jp/news/easy/k10011465781000/k10011465781000.html
+web_title_with_ruby: <ruby>ピカソ<rt>ぴかそ</rt></ruby><ruby>代表作<rt>だいひょうさく</rt></ruby>「<ruby>海辺<rt>うみべ</rt></ruby>の<ruby>母子像<rt>ぼしぞう</rt></ruby>」<ruby>最先端<rt>さいせんたん</rt></ruby><ruby>スキャナー<rt>すきゃなー</rt></ruby>で<ruby>新発見<rt>しんはっけん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/05/ピカソ代表作海辺の母子像最先端スキャナーで新発見
+related_news:
+- title: オークションで<ruby>買<rt>か</rt></ruby>った<ruby>絵<rt>え</rt></ruby>はレンブラントがかいた<ruby>絵<rt>え</rt></ruby>だった
+  url: https://newswebeasy.github.io/news/easy/2018/05/18/オークションで買った絵はレンブラントがかいた絵だった
+- title: フランスの<ruby>美術館<rt>びじゅつかん</rt></ruby>　<ruby>半分<rt>はんぶん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>絵<rt>え</rt></ruby>が<ruby>偽物<rt>にせもの</rt></ruby>だったと<ruby>謝<rt>あやま</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/05/02/フランスの美術館-半分以上の絵が偽物だったと謝る
+- title: ペルーのナスカの<ruby>近<rt>ちか</rt></ruby>くで２５<ruby>以上<rt>いじょう</rt></ruby>の<ruby>地上<rt>ちじょう</rt></ruby><ruby>絵<rt>え</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかる
+  url: https://newswebeasy.github.io/news/easy/2018/05/31/ペルーのナスカの近くで25以上の地上絵が見つかる
+- title: <ruby>香港<rt>ほんこん</rt></ruby>　<ruby>香取<rt>かとり</rt></ruby><ruby>慎吾<rt>しんご</rt></ruby>さんが<ruby>壁<rt>かべ</rt></ruby>にかいた<ruby>絵<rt>え</rt></ruby>を<ruby>見<rt>み</rt></ruby>せる
+  url: https://newswebeasy.github.io/news/easy/2018/03/29/香港-香取慎吾さんが壁にかいた絵を見せる
+- title: <ruby>天皇<rt>てんのう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>と<ruby>皇后<rt>こうごう</rt></ruby>さまをかいた<ruby>絵<rt>え</rt></ruby>ができる
+  url: https://newswebeasy.github.io/news/easy/2018/05/22/天皇陛下と皇后さまをかいた絵ができる
+...
