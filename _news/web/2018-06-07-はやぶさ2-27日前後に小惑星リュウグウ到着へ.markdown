@@ -1,0 +1,106 @@
+---
+layout: web_news
+categories: web
+newsid: k10011467881000
+title: 「はやぶさ２」 27日前後に小惑星「リュウグウ」到着へ
+title_with_ruby: 「はやぶさ２」 27<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>前後<rt
+  data-ruby-level="2">ぜんご</rt></ruby>に<ruby>小惑星<rt data-ruby-level="7">しょうわくせい</rt></ruby>「リュウグウ」<ruby>到着<rt
+  data-ruby-level="7">とうちゃく</rt></ruby>へ
+last_modified_at: '2018-06-07T15:53:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>06<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>07<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 15<ruby>時<rt data-ruby-level="2">じ</rt></ruby>53<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 生命の起源に迫ろうと、４年前に打ち上げられた日本の探査機「はやぶさ２」は、現在、目的地の小惑星「リュウグウ」までおよそ2000キロの距離に迫り、今月27日前後には到着できる見通しになったとＪＡＸＡ＝宇宙航空研究開発機構が発表しました。
+summary: <ruby>生命<rt data-ruby-level="3">せいめい</rt></ruby>の<ruby>起源<rt data-ruby-level="6">きげん</rt></ruby>に<ruby>迫<rt
+  data-ruby-level="7">せま</rt></ruby>ろうと、４<ruby>年前<rt data-ruby-level="2">ねんまえ</rt></ruby>に<ruby>打<rt
+  data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げられた<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>の<ruby>探査機<rt data-ruby-level="6">たんさき</rt></ruby>「はやぶさ２」は、<ruby>現在<rt
+  data-ruby-level="5">げんざい</rt></ruby>、<ruby>目的地<rt data-ruby-level="4">もくてきち</rt></ruby>の<ruby>小惑星<rt
+  data-ruby-level="7">しょうわくせい</rt></ruby>「リュウグウ」までおよそ2000キロの<ruby>距離<rt data-ruby-level="7">きょり</rt></ruby>に<ruby>迫<rt
+  data-ruby-level="7">せま</rt></ruby>り、<ruby>今月<rt data-ruby-level="2">こんげつ</rt></ruby>27<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby><ruby>前後<rt data-ruby-level="2">ぜんご</rt></ruby>には<ruby>到着<rt
+  data-ruby-level="7">とうちゃく</rt></ruby>できる<ruby>見通<rt data-ruby-level="2">みとお</rt></ruby>しになったとＪＡＸＡ＝<ruby>宇宙<rt
+  data-ruby-level="6">うちゅう</rt></ruby><ruby>航空<rt data-ruby-level="4">こうくう</rt></ruby><ruby>研究<rt
+  data-ruby-level="3">けんきゅう</rt></ruby><ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby><ruby>機構<rt
+  data-ruby-level="5">きこう</rt></ruby>が<ruby>発表<rt data-ruby-level="3">はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/07/K10011467881_1806071602_1806071603_01_02.jpg
+movie_url: https://newswebeasy.github.io/ja201806/news/web/movie/2018/06/07/k10011467881_201806071713_201806071724.mp4
+voice_url: https://newswebeasy.github.io/ja201806/news/web/voice/2018/06/07/k10011467881_201806071713_201806071724.mp3
+body:
+- text: ７<ruby>日<rt data-ruby-level="1">にち</rt></ruby>に<ruby>会見<rt data-ruby-level="2">かいけん</rt></ruby>したＪＡＸＡによりますと、<ruby>平成<rt
+    data-ruby-level="4">へいせい</rt></ruby>26<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>に<ruby>鹿児島県<rt
+    data-ruby-level="8">かごしまけん</rt></ruby>の<ruby>種子島<rt data-ruby-level="8">たねがしま</rt></ruby><ruby>宇宙<rt
+    data-ruby-level="6">うちゅう</rt></ruby>センターから<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+    data-ruby-level="3">あ</rt></ruby>げられた「はやぶさ２」は、<ruby>現在<rt data-ruby-level="5">げんざい</rt></ruby>、<ruby>地球<rt
+    data-ruby-level="3">ちきゅう</rt></ruby>からおよそ３<ruby>億<rt data-ruby-level="4">おく</rt></ruby>キロ<ruby>離<rt
+    data-ruby-level="7">はな</rt></ruby>れた<ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby><ruby>空間<rt
+    data-ruby-level="2">くうかん</rt></ruby>を<ruby>飛行<rt data-ruby-level="4">ひこう</rt></ruby>していて、<ruby>目的地<rt
+    data-ruby-level="4">もくてきち</rt></ruby>の<ruby>小惑星<rt data-ruby-level="7">しょうわくせい</rt></ruby>「リュウグウ」まで<ruby>残<rt
+    data-ruby-level="4">のこ</rt></ruby>り2100キロの<ruby>距離<rt data-ruby-level="7">きょり</rt></ruby>に<ruby>近<rt
+    data-ruby-level="2">ちか</rt></ruby>づいたということです。<br /><br />また、<ruby>今月<rt data-ruby-level="2">こんげつ</rt></ruby>３<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>にはイオンエンジンを<ruby>停止<rt data-ruby-level="4">ていし</rt></ruby>し、カメラで<ruby>小惑星<rt
+    data-ruby-level="7">しょうわくせい</rt></ruby>を<ruby>撮影<rt data-ruby-level="7">さつえい</rt></ruby>して<ruby>位置<rt
+    data-ruby-level="4">いち</rt></ruby>を<ruby>精密<rt data-ruby-level="6">せいみつ</rt></ruby>に<ruby>合<rt
+    data-ruby-level="2">あ</rt></ruby>わせながら<ruby>近<rt data-ruby-level="2">ちか</rt></ruby>づいていく「<ruby>光学<rt
+    data-ruby-level="2">こうがく</rt></ruby><ruby>航法<rt data-ruby-level="4">こうほう</rt></ruby>」と<ruby>呼<rt
+    data-ruby-level="6">よ</rt></ruby>ばれる<ruby>到着<rt data-ruby-level="7">とうちゃく</rt></ruby>に<ruby>向<rt
+    data-ruby-level="3">む</rt></ruby>けた<ruby>最終<rt data-ruby-level="4">さいしゅう</rt></ruby><ruby>段階<rt
+    data-ruby-level="6">だんかい</rt></ruby>に<ruby>入<rt data-ruby-level="1">はい</rt></ruby>っていて、<ruby>順調<rt
+    data-ruby-level="4">じゅんちょう</rt></ruby>にいけば<ruby>今月<rt data-ruby-level="2">こんげつ</rt></ruby>27<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby><ruby>前後<rt data-ruby-level="2">ぜんご</rt></ruby>には<ruby>到着<rt
+    data-ruby-level="7">とうちゃく</rt></ruby>できる<ruby>見通<rt data-ruby-level="2">みとお</rt></ruby>しだということです。<br
+    /><br />「はやぶさ２」は、<ruby>到着後<rt data-ruby-level="7">とうちゃくご</rt></ruby>、１<ruby>年半<rt
+    data-ruby-level="2">ねんはん</rt></ruby>の<ruby>間<rt data-ruby-level="2">あいだ</rt></ruby>に３<ruby>回<rt
+    data-ruby-level="2">かい</rt></ruby>、「リュウグウ」に<ruby>着陸<rt data-ruby-level="4">ちゃくりく</rt></ruby>して<ruby>岩石<rt
+    data-ruby-level="2">がんせき</rt></ruby>の<ruby>採取<rt data-ruby-level="5">さいしゅ</rt></ruby>を<ruby>行<rt
+    data-ruby-level="2">おこな</rt></ruby>う<ruby>予定<rt data-ruby-level="3">よてい</rt></ruby>です。<br
+    /><br /><ruby>私<rt data-ruby-level="8">わたし</rt></ruby>たち<ruby>人間<rt data-ruby-level="2">にんげん</rt></ruby>も<ruby>含<rt
+    data-ruby-level="7">ふく</rt></ruby>めた<ruby>地球上<rt data-ruby-level="3">ちきゅうじょう</rt></ruby>の<ruby>生命<rt
+    data-ruby-level="3">せいめい</rt></ruby>につながる<ruby>物質<rt data-ruby-level="5">ぶっしつ</rt></ruby>は、<ruby>地球<rt
+    data-ruby-level="3">ちきゅう</rt></ruby>にぶつかった<ruby>小惑星<rt data-ruby-level="7">しょうわくせい</rt></ruby>からもたらされたとする<ruby>説<rt
+    data-ruby-level="4">せつ</rt></ruby>があり、「はやぶさ２」が<ruby>持<rt data-ruby-level="3">も</rt></ruby>ち<ruby>帰<rt
+    data-ruby-level="3">かえ</rt></ruby>った<ruby>岩<rt data-ruby-level="2">いわ</rt></ruby>や<ruby>砂<rt
+    data-ruby-level="6">すな</rt></ruby>から<ruby>水<rt data-ruby-level="1">みず</rt></ruby>や<ruby>有機物<rt
+    data-ruby-level="4">ゆうきぶつ</rt></ruby>が<ruby>見<rt data-ruby-level="1">み</rt></ruby>つかれば、<ruby>生命<rt
+    data-ruby-level="3">せいめい</rt></ruby>の<ruby>起源<rt data-ruby-level="6">きげん</rt></ruby>に<ruby>迫<rt
+    data-ruby-level="7">せま</rt></ruby>れる<ruby>可能性<rt data-ruby-level="5">かのうせい</rt></ruby>もあると<ruby>期待<rt
+    data-ruby-level="3">きたい</rt></ruby>されています。<br /><br />ＪＡＸＡの<ruby>吉川<rt data-ruby-level="8">よしかわ</rt></ruby><ruby>真<rt
+    data-ruby-level="8">まこと</rt></ruby>ミッションマネージャは「これから<ruby>到着<rt data-ruby-level="7">とうちゃく</rt></ruby>までは<ruby>精密<rt
+    data-ruby-level="6">せいみつ</rt></ruby>な<ruby>誘導<rt data-ruby-level="7">ゆうどう</rt></ruby>が<ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>となる。<ruby>予定<rt data-ruby-level="3">よてい</rt></ruby>どおり<ruby>到着<rt
+    data-ruby-level="7">とうちゃく</rt></ruby>できるよう<ruby>全力<rt data-ruby-level="3">ぜんりょく</rt></ruby>で<ruby>取<rt
+    data-ruby-level="3">と</rt></ruby>り<ruby>組<rt data-ruby-level="3">く</rt></ruby>んでいきたい」と<ruby>話<rt
+    data-ruby-level="2">はな</rt></ruby>していました。
+  image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/07/K10011467881_1806071602_1806071603_01_03.jpg
+source_url: https://www3.nhk.or.jp/news/html/20180607/k10011467881000.html
+easy_title_with_ruby: 「はやぶさ２」は２７<ruby>日<rt data-ruby-level="1">にち</rt></ruby>ごろ<ruby>小<rt
+  data-ruby-level="1">ちい</rt></ruby>さい<ruby>星<rt data-ruby-level="2">ほし</rt></ruby>の<ruby>近<rt
+  data-ruby-level="2">ちか</rt></ruby>くに<ruby>着<rt data-ruby-level="3">つ</rt></ruby>く<ruby>予定<rt
+  data-ruby-level="3">よてい</rt></ruby>
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/06/08/はやぶさ2は27日ごろ小さい星の近くに着く予定
+related_news:
+- title: <ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby><ruby>飛行士<rt data-ruby-level="4">ひこうし</rt></ruby>
+    <ruby>金井<rt data-ruby-level="7">かない</rt></ruby>さん<ruby>無事<rt data-ruby-level="4">ぶじ</rt></ruby><ruby>帰還<rt
+    data-ruby-level="7">きかん</rt></ruby> <ruby>半年間<rt data-ruby-level="2">はんとしかん</rt></ruby>の<ruby>任務<rt
+    data-ruby-level="5">にんむ</rt></ruby><ruby>終<rt data-ruby-level="3">お</rt></ruby>え
+  url: https://newswebeasy.github.io/news/web/2018/06/04/宇宙飛行士-金井さん無事帰還-半年間の任務終え
+- title: <ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby><ruby>飛行士<rt data-ruby-level="4">ひこうし</rt></ruby>の<ruby>金井<rt
+    data-ruby-level="7">かない</rt></ruby>さん きょう<ruby>地球<rt data-ruby-level="3">ちきゅう</rt></ruby>に<ruby>帰還<rt
+    data-ruby-level="7">きかん</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2018/06/03/宇宙飛行士の金井さん-きょう地球に帰還へ
+- title: <ruby>月<rt data-ruby-level="1">つき</rt></ruby>の<ruby>裏側<rt data-ruby-level="6">うらがわ</rt></ruby>を<ruby>本格的<rt
+    data-ruby-level="5">ほんかくてき</rt></ruby>に<ruby>探査<rt data-ruby-level="6">たんさ</rt></ruby>へ
+    <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>が<ruby>通信<rt data-ruby-level="4">つうしん</rt></ruby><ruby>衛星<rt
+    data-ruby-level="5">えいせい</rt></ruby><ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt
+    data-ruby-level="3">あ</rt></ruby>げ<ruby>成功<rt data-ruby-level="4">せいこう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/05/21/月の裏側を本格的に探査へ-中国が通信衛星打ち上げ成功
+- title: <ruby>車<rt data-ruby-level="1">くるま</rt></ruby>いすの<ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby><ruby>物理<rt
+    data-ruby-level="3">ぶつり</rt></ruby><ruby>学者<rt data-ruby-level="3">がくしゃ</rt></ruby>
+    ホーキング<ruby>博士<rt data-ruby-level="8">はかせ</rt></ruby>が<ruby>死去<rt data-ruby-level="3">しきょ</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/03/14/車いすの宇宙物理学者-ホーキング博士が死去
+- title: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>の<ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby>ステーション<ruby>実験機<rt
+    data-ruby-level="4">じっけんき</rt></ruby> １<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>夜<rt
+    data-ruby-level="2">よる</rt></ruby><ruby>以降<rt data-ruby-level="6">いこう</rt></ruby><ruby>大気圏<rt
+    data-ruby-level="7">たいきけん</rt></ruby>に<ruby>再突入<rt data-ruby-level="7">さいとつにゅう</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2018/04/01/中国の宇宙ステーション実験機-1日夜以降大気圏に再突入へ
+...

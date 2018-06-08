@@ -1,0 +1,68 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011468781000
+last_modified_at: '2018-06-08T16:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>08<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: アメリカのハワイに日本人が移住を始めてから、今年で１５０年です。
+title: 日本人がハワイに移住してから１５０年をお祝いする式
+title_with_ruby: <ruby>日本人<rt>にっぽんじん</rt></ruby>がハワイに<ruby>移住<rt>いじゅう</rt></ruby>してから１５０<ruby>年<rt>ねん</rt></ruby>をお<ruby>祝<rt>いわ</rt></ruby>いする<ruby>式<rt>しき</rt></ruby>
+outline: アメリカのハワイに日本人が移住を始めてから、今年で１５０年です。
+outline_with_ruby: アメリカのハワイに<ruby>日本人<rt>にっぽんじん</rt></ruby>が<ruby>移住<rt>いじゅう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めてから、<ruby>今年<rt>ことし</rt></ruby>で１５０<ruby>年<rt>ねん</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201806/news/easy/image/2018/06/08/k10011468781000.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/08/k10011468781000.mp4
+content_with_ruby: "<p>アメリカのハワイに<ruby>日本人<rt>にっぽんじん</rt></ruby>が<span style=\"color:\
+  \ blue;\"><ruby>移住<rt>いじゅう</rt></ruby></span>を<ruby>始<rt>はじ</rt></ruby>めてから、<ruby>今年<rt>ことし</rt></ruby>で１５０<ruby>年<rt>ねん</rt></ruby>です。ホノルルで<ruby>７日<rt>なのか</rt></ruby>、１５０<ruby>年<rt>ねん</rt></ruby>になったことをお<ruby>祝<rt>いわ</rt></ruby>いする<ruby>式<rt>しき</rt></ruby>がありました。</p>\n\
+  <p><ruby>式<rt>しき</rt></ruby>の<ruby>初<rt>はじ</rt></ruby>めに、１８６８<ruby>年<rt>ねん</rt></ruby>に<ruby>最初<rt>さいしょ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>移住<rt>いじゅう</rt></ruby></span>した<ruby>日本人<rt>にっぽんじん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>孫<rt>まご</rt></ruby></span>などが<span style=\"color:\
+  \ blue;\">フラダンス</span>を<ruby>踊<rt>おど</rt></ruby>りました。</p>\n<p>ハワイのデービッド・イゲ<span\
+  \ style=\"color: blue;\"><ruby>知事<rt>ちじ</rt></ruby></span>は、<span style=\"color:\
+  \ blue;\"><ruby>移住<rt>いじゅう</rt></ruby></span>した<ruby>日本人<rt>にっぽんじん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>孫<rt>まご</rt></ruby></span>です。イゲ<span style=\"color:\
+  \ blue;\"><ruby>知事<rt>ちじ</rt></ruby></span>は「<ruby>最初<rt>さいしょ</rt></ruby>にハワイに<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちの<ruby>気持<rt>きも</rt></ruby>ちを<ruby>大切<rt>たいせつ</rt></ruby>にして、ハワイと<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>関係<rt>かんけい</rt></ruby>をもっと<ruby>強<rt>つよ</rt></ruby>くしたいと<ruby>思<rt>おも</rt></ruby>います」とあいさつしました。</p>\n\
+  <p><ruby>次<rt>つぎ</rt></ruby>に、<span style=\"color: blue;\"><ruby>天皇<rt>てんのう</rt></ruby></span><span\
+  \ style=\"color: blue;\"><ruby>陛下<rt>へいか</rt></ruby></span>の<ruby>息子<rt>むすこ</rt></ruby>の<ruby>秋篠宮<rt>あきしののみや</rt></ruby>さまが「ハワイに<span\
+  \ style=\"color: blue;\"><ruby>移住<rt>いじゅう</rt></ruby></span>した<ruby>人<rt>ひと</rt></ruby>たちが<span\
+  \ style=\"color: blue;\"><ruby>苦<rt>くる</rt></ruby>しみ</span>ながらハワイのために<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>働<rt>はたら</rt></ruby>いたことを<ruby>忘<rt>わす</rt></ruby>れません。これからもっと<ruby>日本<rt>にっぽん</rt></ruby>とハワイの<ruby>関係<rt>かんけい</rt></ruby>がよくなってほしいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 移住
+  descriptions:
+  - よその<ruby><rb>土地</rb><rt>とち</rt></ruby>に<ruby><rb>移</rb><rt>うつ</rt></ruby>り、そこで<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>すること。
+- word: 孫
+  descriptions:
+  - その<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>どもの<ruby><rb>子</rb><rt>こ</rt></ruby>ども。
+- word: フラダンス
+  descriptions:
+  - <ruby><rb>音楽</rb><rt>おんがく</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、<ruby><rb>腰</rb><rt>こし</rt></ruby>や<ruby><rb>手</rb><rt>て</rt></ruby>をくねらせる、ハワイのおどり。
+- word: 知事
+  descriptions:
+  - <ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 天皇
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>象徴</rb><rt>しょうちょう</rt></ruby>としてあおがれている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 陛下
+  descriptions:
+  - <ruby><rb>天皇</rb><rt>てんのう</rt></ruby>や<ruby><rb>皇后</rb><rt>こうごう</rt></ruby>などを<ruby><rb>敬</rb><rt>うやま</rt></ruby>って<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶことば。
+- word: 苦しむ
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>が<ruby><rb>苦</rb><rt>くる</rt></ruby>しく<ruby><rb>感</rb><rt>かん</rt></ruby>じる。つらいと<ruby><rb>思</rb><rt>おも</rt></ruby>う。
+  - <ruby><rb>困</rb><rt>こま</rt></ruby>る。<ruby><rb>苦労</rb><rt>くろう</rt></ruby>する。
+source_url: http://www3.nhk.or.jp/news/easy/k10011468781000/k10011468781000.html
+web_title_with_ruby: <ruby>ハワイ<rt>はわい</rt></ruby><ruby>訪問<rt>ほうもん</rt></ruby>の<ruby>秋篠宮<rt>あきしののみや</rt></ruby>ご<ruby>夫妻<rt>ふさい</rt></ruby>
+  <ruby>日本人<rt>にほんじん</rt></ruby><ruby>移住<rt>いじゅう</rt></ruby>150<ruby>年<rt>ねん</rt></ruby><ruby>式典<rt>しきてん</rt></ruby>に<ruby>出席<rt>しゅっせき</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/08/ハワイ訪問の秋篠宮ご夫妻-日本人移住150年式典に出席
+related_news:
+- title: <ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>外国人<rt>がいこくじん</rt></ruby>は２５６<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>　<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2018/03/28/日本に住んでいる外国人は256万人-今までで最も多い
+- title: <ruby>外国人<rt>がいこくじん</rt></ruby>がデパートで<ruby>使<rt>つか</rt></ruby>ったお<ruby>金<rt>かね</rt></ruby>が<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>多<rt>おお</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/05/25/外国人がデパートで使ったお金が今まででいちばん多くなる
+- title: <ruby>日本<rt>にっぽん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>く<ruby>外国人<rt>がいこくじん</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やすために<ruby>新<rt>あたら</rt></ruby>しいビザを<ruby>作<rt>つく</rt></ruby>る<ruby>計画<rt>けいかく</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/05/30/日本で働く外国人を増やすために新しいビザを作る計画
+- title: <ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>早<rt>はや</rt></ruby>く１０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/05/21/日本へ旅行に来た外国人が最も早く1000万人になる
+- title: アメリカのワシントンで<ruby>東京<rt>とうきょう</rt></ruby>からもらった<ruby>桜<rt>さくら</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/04/09/アメリカのワシントンで東京からもらった桜の花が咲く
+...

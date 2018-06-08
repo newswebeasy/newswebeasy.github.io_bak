@@ -1,0 +1,63 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011467881000
+last_modified_at: '2018-06-08T16:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>08<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: 宇宙の研究をしている日本のＪＡＸＡは４年前、「はやぶさ２」を打ち上げました。
+title: 「はやぶさ２」は２７日ごろ小さい星の近くに着く予定
+title_with_ruby: 「はやぶさ２」は２７<ruby>日<rt>にち</rt></ruby>ごろ<ruby>小<rt>ちい</rt></ruby>さい<ruby>星<rt>ほし</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>着<rt>つ</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>
+outline: 宇宙の研究をしている日本のＪＡＸＡは４年前、「はやぶさ２」を打ち上げました。
+outline_with_ruby: <ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>をしている<ruby>日本<rt>にっぽん</rt></ruby>のＪＡＸＡは４<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>、「はやぶさ２」を<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/07/K10011467881_1806071602_1806071603_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/08/k10011467881000.mp4
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>宇宙<rt>うちゅう</rt></ruby></span>の<ruby>研究<rt>けんきゅう</rt></ruby>をしている<ruby>日本<rt>にっぽん</rt></ruby>のＪＡＸＡは４<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>、「はやぶさ２」を<span\
+  \ style=\"color: blue;\"><ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げ</span>ました。「はやぶさ２」は「リュウグウ」という<ruby>名前<rt>なまえ</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さい<ruby>星<rt>ほし</rt></ruby>に<ruby>行<rt>い</rt></ruby>って、<ruby>石<rt>いし</rt></ruby>や<ruby>砂<rt>すな</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めます。</p>\n\
+  <p>ＪＡＸＡは<ruby>７日<rt>なのか</rt></ruby>、「はやぶさ２」が<span style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>から<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>３<ruby>億<rt>おく</rt></ruby>ｋｍの<ruby>所<rt>ところ</rt></ruby>にいて、リュウグウまであと２１００ｋｍだと<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。そして、<ruby>今月<rt>こんげつ</rt></ruby>２７<ruby>日<rt>にち</rt></ruby>ごろにリュウグウの<ruby>近<rt>ちか</rt></ruby>くに<ruby>着<rt>つ</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>だと<ruby>言<rt>い</rt></ruby>いました。そのあと「はやぶさ２」は、１<ruby>年<rt>ねん</rt></ruby>６か<ruby>月<rt>げつ</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に３<ruby>回<rt>かい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>地面<rt>じめん</rt></ruby></span>に<ruby>下<rt>お</rt></ruby>りて、<ruby>石<rt>いし</rt></ruby>や<ruby>砂<rt>すな</rt></ruby>などを<ruby>集<rt>あつ</rt></ruby>める<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p>「はやぶさ２」が<ruby>集<rt>あつ</rt></ruby>めた<ruby>石<rt>いし</rt></ruby>や<ruby>砂<rt>すな</rt></ruby>から、<span\
+  \ style=\"color: blue;\"><ruby>生<rt>い</rt></ruby>き<ruby>物<rt>もの</rt></ruby></span>になる<span\
+  \ style=\"color: blue;\"><ruby>物質<rt>ぶっしつ</rt></ruby></span>や<ruby>水<rt>みず</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかったら、<span\
+  \ style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>生<rt>い</rt></ruby>き<ruby>物<rt>もの</rt></ruby></span>がどうやって<ruby>生<rt>う</rt></ruby>まれたかわかるかもしれません。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 宇宙
+  descriptions:
+  - <ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。
+- word: 打ち上げる
+  descriptions:
+  - （<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - <ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。
+  - （<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>３番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 地面
+  descriptions:
+  - <ruby><rb>土地</rb><rt>とち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>土</rb><rt>つち</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>。<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>。<ruby><rb>地</rb><rt>じ</rt></ruby>べた。
+  - <ruby><rb>土地</rb><rt>とち</rt></ruby>。<ruby><rb>地所</rb><rt>じしょ</rt></ruby>。
+- word: 生き物
+  descriptions:
+  - <ruby><rb>生</rb><rt>い</rt></ruby>きているもの。<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>のこと。
+- word: 物質
+  descriptions:
+  - <ruby><rb>見</rb><rt>み</rt></ruby>たりさわったりすることができるもの。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011467881000/k10011467881000.html
+web_title_with_ruby: 「はやぶさ２」 27<ruby>日<rt>にち</rt></ruby><ruby>前後<rt>ぜんご</rt></ruby>に<ruby>小惑星<rt>しょうわくせい</rt></ruby>「<ruby>リュウ<rt>りゅう</rt></ruby><ruby>グウ<rt>ぐう</rt></ruby>」<ruby>到着<rt>とうちゃく</rt></ruby>へ
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/07/はやぶさ2-27日前後に小惑星リュウグウ到着へ
+related_news:
+- title: <ruby>海<rt>うみ</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>で<ruby>生<rt>い</rt></ruby>き<ruby>物<rt>もの</rt></ruby>を<ruby>探<rt>さが</rt></ruby>して<ruby>取<rt>と</rt></ruby>るロボットを<ruby>作<rt>つく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/04/25/海の深い所で生き物を探して取るロボットを作る
+...

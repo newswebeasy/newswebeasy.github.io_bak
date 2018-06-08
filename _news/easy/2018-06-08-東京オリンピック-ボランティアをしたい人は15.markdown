@@ -1,0 +1,56 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011466921000
+last_modified_at: '2018-06-08T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>08<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ２０２０年に東京でオリンピックとパラリンピックがあります。
+title: 東京オリンピック　ボランティアをしたい人は１５％
+title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>オリンピック　ボランティアをしたい<ruby>人<rt>ひと</rt></ruby>は１５％
+outline: ２０２０年に東京でオリンピックとパラリンピックがあります。
+outline_with_ruby: ２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>でオリンピックとパラリンピックがあります。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/06/K10011466921_1806061846_1806061853_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/08/k10011466921000.mp4
+content_with_ruby: "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<span\
+  \ style=\"color: blue;\">オリンピック</span>と<span style=\"color: blue;\">パラリンピック</span>があります。ＮＨＫはこの２つの<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>について<ruby>日本<rt>にっぽん</rt></ruby>の２０<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>聞<rt>き</rt></ruby>きました。２４５９<ruby>人<rt>にん</rt></ruby>が<ruby>答<rt>こた</rt></ruby>えました。</p>\n\
+  <p><span style=\"color: blue;\">オリンピック</span>に<ruby>興味<rt>きょうみ</rt></ruby>があると<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>は７８％で、<ruby>大勢<rt>おおぜい</rt></ruby>いました。しかし、<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>を<ruby>手伝<rt>てつだ</rt></ruby>う<span\
+  \ style=\"color: blue;\">ボランティア</span>をしたいと<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>は１５％で、とても<ruby>少<rt>すく</rt></ruby>ないです。<span\
+  \ style=\"color: blue;\">ボランティア</span>をしたいと<ruby>思<rt>おも</rt></ruby>わないと<ruby>答<rt>こた</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>は８３％でした。</p>\n\
+  <p><span style=\"color: blue;\">ボランティア</span>は<ruby>全部<rt>ぜんぶ</rt></ruby>で１１<ruby>万<rt>まん</rt></ruby>５０００<ruby>人<rt>にん</rt></ruby>ぐらい<ruby>必要<rt>ひつよう</rt></ruby>で、<ruby>今年<rt>ことし</rt></ruby>９<ruby>月<rt>がつ</rt></ruby>から<span\
+  \ style=\"color: blue;\"><ruby>募集<rt>ぼしゅう</rt></ruby></span>が<ruby>始<rt>はじ</rt></ruby>まります。<span\
+  \ style=\"color: blue;\"><ruby>大会<rt>たいかい</rt></ruby></span>の<ruby>準備<rt>じゅんび</rt></ruby>をしている<ruby>組織委員会<rt>そしきいいんかい</rt></ruby>は「<span\
+  \ style=\"color: blue;\">ボランティア</span>が<ruby>何<rt>なに</rt></ruby>をするかなどをみなさんにわかりやすく<ruby>伝<rt>つた</rt></ruby>えて、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<span\
+  \ style=\"color: blue;\">ボランティア</span>をしてもらうことができるようにしたいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ボランティア
+  descriptions:
+  - <ruby><rb>社会</rb><rt>しゃかい</rt></ruby>のために、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>から<ruby><rb>進</rb><rt>すす</rt></ruby>んで、<ruby><rb>無料</rb><rt>むりょう</rt></ruby>で<ruby><rb>奉仕活動</rb><rt>ほうしかつどう</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>４年</rb><rt>よねん</rt></ruby>に<ruby><rb>１度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: 大会
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+  - ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。
+- word: 募集
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>作品</rb><rt>さくひん</rt></ruby>などを、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>呼</rb><rt>よ</rt></ruby>びかけて<ruby><rb>集</rb><rt>あつ</rt></ruby>めること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011466921000/k10011466921000.html
+web_title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby><ruby>五輪<rt>ごりん</rt></ruby><ruby>ボランティア<rt>ぼらんてぃあ</rt></ruby>「<ruby>参加<rt>さんか</rt></ruby>したい
+  15％」ＮＨＫ<ruby>世論調査<rt>よろんちょうさ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/06/東京五輪ボランティア参加したい-15NHK世論調査
+related_news:
+- title: <ruby>来年<rt>らいねん</rt></ruby>のラグビーのワールドカップ　ボランティアを<ruby>集<rt>あつ</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2018/04/24/来年のラグビーのワールドカップ-ボランティアを集める
+- title: <ruby>東京<rt>とうきょう</rt></ruby>オリンピックで<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>たい<ruby>競技<rt>きょうぎ</rt></ruby>　１<ruby>番<rt>ばん</rt></ruby>はバレーボール
+  url: https://newswebeasy.github.io/news/easy/2018/03/15/東京オリンピックで若い人が見たい競技-1番はバレーボール
+- title: <ruby>春<rt>はる</rt></ruby>に<ruby>体<rt>からだ</rt></ruby>や<ruby>心<rt>こころ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>がよくないと<ruby>感<rt>かん</rt></ruby>じる<ruby>人<rt>ひと</rt></ruby>が６０％いた
+  url: https://newswebeasy.github.io/news/easy/2018/04/04/春に体や心の調子がよくないと感じる人が60いた
+...
