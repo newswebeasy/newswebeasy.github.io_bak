@@ -1,0 +1,61 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011468501000
+last_modified_at: '2018-06-11T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 国土交通省はおととし、バス会社にアンケートをしました。
+title: ８１%のバス会社は運転手が足りないと考えている
+title_with_ruby: ８１%のバス<ruby>会社<rt>がいしゃ</rt></ruby>は<ruby>運転手<rt>うんてんしゅ</rt></ruby>が<ruby>足<rt>た</rt></ruby>りないと<ruby>考<rt>かんが</rt></ruby>えている
+outline: 国土交通省はおととし、バス会社にアンケートをしました。
+outline_with_ruby: <ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby>はおととし、バス<ruby>会社<rt>がいしゃ</rt></ruby>にアンケートをしました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/08/K10011468501_1806080724_1806080727_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/11/k10011468501000.mp4
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby></span>はおととし、バス<ruby>会社<rt>がいしゃ</rt></ruby>に<span\
+  \ style=\"color: blue;\">アンケート</span>をしました。３５０の<ruby>会社<rt>かいしゃ</rt></ruby>のうち、８１％の２８３の<ruby>会社<rt>かいしゃ</rt></ruby>が「<ruby>運転手<rt>うんてんしゅ</rt></ruby>が<ruby>足<rt>た</rt></ruby>りない」と<ruby>答<rt>こた</rt></ruby>えました。このうち５９の<ruby>会社<rt>かいしゃ</rt></ruby>は、バスが<ruby>走<rt>はし</rt></ruby>る<span\
+  \ style=\"color: blue;\"><ruby>回数<rt>かいすう</rt></ruby></span>を<ruby>少<rt>すく</rt></ruby>なくしたり、<ruby>運転<rt>うんてん</rt></ruby>をやめたりすることを<ruby>考<rt>かんが</rt></ruby>えていると<ruby>答<rt>こた</rt></ruby>えました。</p>\n\
+  <p><ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>だと<ruby>考<rt>かんが</rt></ruby>えている<ruby>運転手<rt>うんてんしゅ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>から、<ruby>今<rt>いま</rt></ruby><ruby>働<rt>はたら</rt></ruby>いている<ruby>運転手<rt>うんてんしゅ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>を<ruby>引<rt>ひ</rt></ruby>くと、３０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>足<rt>た</rt></ruby>りないこともわかりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>国土交通省<rt>こくどこうつうしょう</rt></ruby></span>は「バスの<ruby>運転手<rt>うんてんしゅ</rt></ruby>は<ruby>働<rt>はたら</rt></ruby>く<ruby>時間<rt>じかん</rt></ruby>が<ruby>長<rt>なが</rt></ruby>くて、<span\
+  \ style=\"color: blue;\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>が<ruby>安<rt>やす</rt></ruby>いことが<ruby>問題<rt>もんだい</rt></ruby>になっています。<ruby>問題<rt>もんだい</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>解決<rt>かいけつ</rt></ruby></span>するように<ruby>手伝<rt>てつだ</rt></ruby>いたいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 国土交通省
+  descriptions:
+  - <ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>建物</rb><rt>たてもの</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>交通</rb><rt>こうつう</rt></ruby>・<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>の<ruby><rb>運送</rb><rt>うんそう</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>国交省</rb><rt>こっこうしょう</rt></ruby>。
+- word: アンケート
+  descriptions:
+  - たくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>問</rb><rt>と</rt></ruby>い<ruby><rb>合</rb><rt>あ</rt></ruby>わせ、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>書</rb><rt>か</rt></ruby>いてもらって、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>調</rb><rt>しら</rt></ruby>べる<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。
+- word: 回数
+  descriptions:
+  - ものごとが<ruby><rb>何回</rb><rt>なんかい</rt></ruby><ruby><rb>起</rb><rt>お</rt></ruby>こったか、<ruby><rb>行</rb><rt>おこな</rt></ruby>われたかという<ruby><rb>数</rb><rt>かず</rt></ruby>。
+- word: 数
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。
+  - いくつもあること。たくさん。
+  - <ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。
+- word: 給料
+  descriptions:
+  - やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。
+- word: 解決
+  descriptions:
+  - <ruby><rb>事件</rb><rt>じけん</rt></ruby>や<ruby><rb>問題</rb><rt>もんだい</rt></ruby>がうまくかたづくこと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011468501000/k10011468501000.html
+web_title_with_ruby: <ruby>バス<rt>ばす</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>の80％で<ruby>運転手<rt>うんてんしゅ</rt></ruby><ruby>不足<rt>ぶそく</rt></ruby>
+  <ruby>国交省<rt>こっこうしょう</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>で<ruby>判明<rt>はんめい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/08/バス会社の80で運転手不足-国交省調査で判明
+related_news:
+- title: <ruby>倒産<rt>とうさん</rt></ruby>した<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える　<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りないことなどが<ruby>原因<rt>げんいん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/11/倒産した会社が増える-働く人が足りないことなどが原因
+- title: <ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>に<ruby>就職<rt>しゅうしょく</rt></ruby>する<ruby>大学生<rt>だいがくせい</rt></ruby>の<ruby>面接<rt>めんせつ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/06/01/来年の春に就職する大学生の面接が始まる
+- title: <ruby>会社員<rt>かいしゃいん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>のボーナスが３<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>増<rt>ふ</rt></ruby>えそう
+  url: https://newswebeasy.github.io/news/easy/2018/04/17/会社員の夏のボーナスが3年続けて増えそう
+- title: <ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくてお<ruby>年寄<rt>としよ</rt></ruby>りに<ruby>仕事<rt>しごと</rt></ruby>を<ruby>頼<rt>たの</rt></ruby>む<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2018/05/22/働く人が足りなくてお年寄りに仕事を頼む会社が増える
+- title: <ruby>東京<rt>とうきょう</rt></ruby>オリンピックで<ruby>道<rt>みち</rt></ruby>や<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>混<rt>こ</rt></ruby>まないように<ruby>考<rt>かんが</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2018/04/26/東京オリンピックで道や電車が混まないように考える
+...

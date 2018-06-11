@@ -1,0 +1,64 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011470321000
+last_modified_at: '2018-06-11T17:45:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>45<ruby>分<rt>ふん</rt></ruby>
+description: 日本のいろいろなまちのギョーザを食べることができるイベント「全国餃子まつり」が、９日と１０日にありました。
+title: いろいろなまちのギョーザを食べることができるイベント
+title_with_ruby: いろいろなまちのギョーザを<ruby>食<rt>た</rt></ruby>べることができるイベント
+outline: 日本のいろいろなまちのギョーザを食べることができるイベント「全国餃子まつり」が、９日と１０日にありました。
+outline_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>のいろいろなまちのギョーザを<ruby>食<rt>た</rt></ruby>べることができるイベント「<ruby>全国<rt>ぜんこく</rt></ruby><ruby>餃子<rt>ぎょうざ</rt></ruby>まつり」が、<ruby>９日<rt>ここのか</rt></ruby>と<ruby>１０日<rt>とおか</rt></ruby>にありました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/09/K10011470321_1806091309_1806091313_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/11/k10011470321000.mp4
+content_with_ruby: "<p><ruby>日本<rt>にっぽん</rt></ruby>のいろいろなまちの<span style=\"color: blue;\"\
+  >ギョーザ</span>を<ruby>食<rt>た</rt></ruby>べることができる<span style=\"color: blue;\">イベント</span>「<ruby>全国<rt>ぜんこく</rt></ruby><ruby>餃子<rt>ぎょうざ</rt></ruby>まつり」が、<ruby>９日<rt>ここのか</rt></ruby>と<ruby>１０日<rt>とおか</rt></ruby>にありました。この<span\
+  \ style=\"color: blue;\">イベント</span>は<ruby>毎年<rt>まいとし</rt></ruby><ruby>行<rt>おこな</rt></ruby>われていて、<ruby>今年<rt>ことし</rt></ruby>の<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>宮城県<rt>みやぎけん</rt></ruby><ruby>仙台市<rt>せんだいし</rt></ruby>には、たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まりました。<ruby>会場<rt>かいじょう</rt></ruby>では、いろいろな<span\
+  \ style=\"color: blue;\">ギョーザ</span>を<span style=\"color: blue;\">それぞれ</span>３００<ruby>円<rt>えん</rt></ruby>で<ruby>食<rt>た</rt></ruby>べることができます。</p>\n\
+  <p><ruby>特<rt>とく</rt></ruby>に<ruby>栃木県<rt>とちぎけん</rt></ruby><ruby>宇都宮市<rt>うつのみやし</rt></ruby>と<ruby>静岡県<rt>しずおかけん</rt></ruby><ruby>浜松市<rt>はままつし</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>には、たくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>並<rt>なら</rt></ruby>んでいました。１つの<ruby>家族<rt>かぞく</rt></ruby>が１<ruby>年<rt>ねん</rt></ruby>に<span\
+  \ style=\"color: blue;\">ギョーザ</span>を<ruby>買<rt>か</rt></ruby>う<span style=\"color:\
+  \ blue;\"><ruby>金額<rt>きんがく</rt></ruby></span>は、この２つの<ruby>市<rt>し</rt></ruby>のどちらかが<ruby>日本<rt>にっぽん</rt></ruby>でいちばんになっています。<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>鍋<rt>なべ</rt></ruby></span>で１<ruby>回<rt>かい</rt></ruby>に５００<ruby>個<rt>こ</rt></ruby>の<span\
+  \ style=\"color: blue;\">ギョーザ</span>を<ruby>焼<rt>や</rt></ruby>く<ruby>福島県<rt>ふくしまけん</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>も、<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>を<ruby>集<rt>あつ</rt></ruby>めていました。</p>\n\
+  <p><ruby>家族<rt>かぞく</rt></ruby>と<ruby>来<rt>き</rt></ruby>た<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は「<ruby>肉<rt>にく</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>皮<rt>かわ</rt></ruby></span>の<ruby>味<rt>あじ</rt></ruby>がみんな<ruby>違<rt>ちが</rt></ruby>って、とてもおいしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ギョーザ
+  descriptions:
+  - <ruby><rb>小麦粉</rb><rt>こむぎこ</rt></ruby>をうすくのばした<ruby><rb>皮</rb><rt>かわ</rt></ruby>で<ruby><rb>豚肉</rb><rt>ぶたにく</rt></ruby>や<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などをつつみ、<ruby><rb>焼</rb><rt>や</rt></ruby>いたり、むしたり、ゆでたりした<ruby><rb>中華料理</rb><rt>ちゅうかりょうり</rt></ruby>。
+- word: イベント
+  descriptions:
+  - <ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。
+  - <ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。
+- word: それぞれ
+  descriptions:
+  - めいめい。おのおの。
+- word: 金額
+  descriptions:
+  - お<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>量</rb><rt>りょう</rt></ruby>。お<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>。
+- word: 鍋
+  descriptions:
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>煮</rb><rt>に</rt></ruby>るのに<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。
+  - 「<span class="dic_sansyogogi">1)</span>」で<ruby><rb>煮</rb><rt>に</rt></ruby>ながら<ruby><rb>食</rb><rt>た</rt></ruby>べる<ruby><rb>料理</rb><rt>りょうり</rt></ruby>。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: 皮
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>や<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>などの<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>を<ruby><rb>包</rb><rt>つつ</rt></ruby>んでいるもの。
+  - <ruby><rb>中身</rb><rt>なかみ</rt></ruby>をおおって<ruby><rb>包</rb><rt>つつ</rt></ruby>んでいるもの。
+source_url: http://www3.nhk.or.jp/news/easy/k10011470321000/k10011470321000.html
+web_title_with_ruby: ご<ruby>当地<rt>とうち</rt></ruby><ruby>ギョーザ<rt>ぎょーざ</rt></ruby>が<ruby>集合<rt>しゅうごう</rt></ruby>!
+  <ruby>全国<rt>ぜんこく</rt></ruby><ruby>餃子<rt>ぎょーざ</rt></ruby>まつり <ruby>仙台<rt>せんだい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/09/ご当地ギョーザが集合-全国餃子まつり-仙台
+related_news:
+- title: <ruby>福島県<rt>ふくしまけん</rt></ruby>の<ruby>米<rt>こめ</rt></ruby>や<ruby>肉<rt>にく</rt></ruby>などをイギリスで<ruby>紹介<rt>しょうかい</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2018/03/26/福島県の米や肉などをイギリスで紹介する
+- title: ユニクロの<ruby>服<rt>ふく</rt></ruby>　<ruby>初<rt>はじ</rt></ruby>めて<ruby>日本<rt>にっぽん</rt></ruby>より<ruby>外国<rt>がいこく</rt></ruby>でたくさん<ruby>売<rt>う</rt></ruby>れた
+  url: https://newswebeasy.github.io/news/easy/2018/04/16/ユニクロの服-初めて日本より外国でたくさん売れた
+- title: <ruby>来年<rt>らいねん</rt></ruby>のラグビーのワールドカップ　ボランティアを<ruby>集<rt>あつ</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2018/04/24/来年のラグビーのワールドカップ-ボランティアを集める
+...
