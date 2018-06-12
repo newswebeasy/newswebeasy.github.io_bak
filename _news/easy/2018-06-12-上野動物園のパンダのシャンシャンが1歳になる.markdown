@@ -1,0 +1,59 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011472201000
+last_modified_at: '2018-06-12T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 東京の上野動物園で生まれたパンダのシャンシャンは、１２日に１歳になりました。
+title: 上野動物園のパンダのシャンシャンが１歳になる
+title_with_ruby: <ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>のパンダのシャンシャンが１<ruby>歳<rt>さい</rt></ruby>になる
+outline: 東京の上野動物園で生まれたパンダのシャンシャンは、１２日に１歳になりました。
+outline_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれたパンダのシャンシャンは、１２<ruby>日<rt>にち</rt></ruby>に１<ruby>歳<rt>さい</rt></ruby>になりました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/11/K10011472201_1806111218_1806111219_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/12/k10011472201000.mp4
+content_with_ruby: "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれた<span\
+  \ style=\"color: blue;\">パンダ</span>のシャンシャンは、１２<ruby>日<rt>にち</rt></ruby>に１<ruby>歳<rt>さい</rt></ruby>になりました。</p>\n\
+  <p><ruby>動物園<rt>どうぶつえん</rt></ruby>は１１<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、テレビや<ruby>新聞<rt>しんぶん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>記者<rt>きしゃ</rt></ruby></span>などにシャンシャンがいる<ruby>部屋<rt>へや</rt></ruby>を１<ruby>時間<rt>じかん</rt></ruby>ぐらい<ruby>見<rt>み</rt></ruby>せました。</p>\n\
+  <p><ruby>部屋<rt>へや</rt></ruby>には、<ruby>動物園<rt>どうぶつえん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>作<rt>つく</rt></ruby>ってシャンシャンにプレゼントした<span\
+  \ style=\"color: blue;\">ハンモック</span>がありました。シャンシャンは、<ruby>木<rt>き</rt></ruby>と<ruby>木<rt>き</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にかけてある<span\
+  \ style=\"color: blue;\">ハンモック</span>の<ruby>上<rt>うえ</rt></ruby>で<ruby>元気<rt>げんき</rt></ruby>に<ruby>遊<rt>あそ</rt></ruby>んでいました。<ruby>木<rt>き</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>で<ruby>元気<rt>げんき</rt></ruby>に<ruby>動<rt>うご</rt></ruby>いたり、<ruby>口<rt>くち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>竹<rt>たけ</rt></ruby></span>の<ruby>葉<rt>は</rt></ruby>を<ruby>入<rt>い</rt></ruby>れたりしているシャンシャンも<ruby>見<rt>み</rt></ruby>ることができました。</p>\n\
+  <p><ruby>動物園<rt>どうぶつえん</rt></ruby>は、<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>記念<rt>きねん</rt></ruby></span>の<span style=\"color:\
+  \ blue;\">カード</span>をあげたり、シャンシャンの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めた<ruby>本<rt>ほん</rt></ruby>を<ruby>売<rt>う</rt></ruby>ったりして、<ruby>誕生日<rt>たんじょうび</rt></ruby>をお<ruby>祝<rt>いわ</rt></ruby>いします。</p>\n\
+  <p><ruby>動物園<rt>どうぶつえん</rt></ruby>は「シャンシャンが１<ruby>歳<rt>さい</rt></ruby>になって<ruby>安心<rt>あんしん</rt></ruby>しています。これからもシャンシャンが<ruby>元気<rt>げんき</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きくなるように<ruby>頑張<rt>がんば</rt></ruby>ります」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: パンダ
+  descriptions:
+  - アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中央部</rb><rt>ちゅうおうぶ</rt></ruby>にすむけもの。ジャイアントパンダとレッサーパンダがいる。
+  - <ruby><rb>特</rb><rt>とく</rt></ruby>にジャイアントパンダ。<ruby><rb>中国西部</rb><rt>ちゅうごくせいぶ</rt></ruby>の<ruby><rb>山地</rb><rt>さんち</rt></ruby>にすむ。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>に<ruby><rb>色分</rb><rt>いろわ</rt></ruby>けされて、<ruby><rb>顔</rb><rt>かお</rt></ruby>つきや<ruby><rb>動作</rb><rt>どうさ</rt></ruby>がかわいい。
+- word: 記者
+  descriptions:
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: ハンモック
+  descriptions:
+  - <ruby><rb>二本</rb><rt>にほん</rt></ruby>の<ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>柱</rb><rt>はしら</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>につって、ねどこにするもの。<ruby><rb>丈夫</rb><rt>じょうぶ</rt></ruby>なひもで<ruby><rb>編</rb><rt>あ</rt></ruby>んで<ruby><rb>作</rb><rt>つく</rt></ruby>る。つりどこ。
+- word: 竹
+  descriptions:
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>空</rb><rt>から</rt></ruby>の<ruby><rb>茎</rb><rt>くき</rt></ruby>に、<ruby><rb>節</rb><rt>ふし</rt></ruby>のある<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>や、<ruby><rb>細工物</rb><rt>さいくもの</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>芽</rb><rt>め</rt></ruby>を「たけのこ」という。
+- word: 記念
+  descriptions:
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>しておくこと。また、その<ruby><rb>物</rb><rt>もの</rt></ruby>。
+- word: カード
+  descriptions:
+  - <ruby><rb>紙</rb><rt>かみ</rt></ruby>を、<ruby><rb>四角</rb><rt>しかく</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さく<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。<ruby><rb>記入</rb><rt>きにゅう</rt></ruby>したり、<ruby><rb>整理</rb><rt>せいり</rt></ruby>するときなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+  - 「クレジットカード」「キャッシュカード」などの<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - トランプ（の<ruby><rb>札</rb><rt>ふだ</rt></ruby>）。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>などの、<ruby><rb>試合</rb><rt>しあい</rt></ruby>の<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011472201000/k10011472201000.html
+web_title_with_ruby: <ruby>シャンシャン<rt>しゃんしゃん</rt></ruby> あす１<ruby>歳<rt>さい</rt></ruby>の<ruby>誕生日<rt>たんじょうび</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/11/シャンシャン-あす1歳の誕生日
+related_news:
+- title: <ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>　５<ruby>月<rt>がつ</rt></ruby>の<ruby>連休<rt>れんきゅう</rt></ruby>はシャンシャンを<ruby>見<rt>み</rt></ruby>る<ruby>抽選<rt>ちゅうせん</rt></ruby>がある
+  url: https://newswebeasy.github.io/news/easy/2018/03/23/上野動物園-5月の連休はシャンシャンを見る抽選がある
+- title: パンダのシャンシャン　６<ruby>月<rt>がつ</rt></ruby><ruby>５日<rt>いつか</rt></ruby>から<ruby>並<rt>なら</rt></ruby>んだ<ruby>順番<rt>じゅんばん</rt></ruby>で<ruby>見<rt>み</rt></ruby>せる
+  url: https://newswebeasy.github.io/news/easy/2018/05/28/パンダのシャンシャン-6月5日から並んだ順番で見せる
+...

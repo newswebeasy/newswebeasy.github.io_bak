@@ -1,0 +1,83 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011470361000
+last_modified_at: '2018-06-12T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>12<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: グアテマラのフエゴ火山で３日、大きな噴火があって、火山の周りに溶岩が流れたり石が飛んだりしました。
+title: グアテマラ　火山の噴火でコーヒー豆の畑がだめになる
+title_with_ruby: グアテマラ　<ruby>火山<rt>かざん</rt></ruby>の<ruby>噴火<rt>ふんか</rt></ruby>でコーヒー<ruby>豆<rt>まめ</rt></ruby>の<ruby>畑<rt>はたけ</rt></ruby>がだめになる
+outline: グアテマラのフエゴ火山で３日、大きな噴火があって、火山の周りに溶岩が流れたり石が飛んだりしました。
+outline_with_ruby: グアテマラのフエゴ<ruby>火山<rt>かざん</rt></ruby>で<ruby>３日<rt>みっか</rt></ruby>、<ruby>大<rt>おお</rt></ruby>きな<ruby>噴火<rt>ふんか</rt></ruby>があって、<ruby>火山<rt>かざん</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りに<ruby>溶岩<rt>ようがん</rt></ruby>が<ruby>流<rt>なが</rt></ruby>れたり<ruby>石<rt>いし</rt></ruby>が<ruby>飛<rt>と</rt></ruby>んだりしました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/09/K10011470361_1806091352_1806091400_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/12/k10011470361000.mp4
+content_with_ruby: "<p>グアテマラのフエゴ<ruby>火山<rt>かざん</rt></ruby>で<ruby>３日<rt>みっか</rt></ruby>、<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>噴火<rt>ふんか</rt></ruby></span>があって、<span style=\"color:\
+  \ blue;\"><ruby>火山<rt>かざん</rt></ruby></span>の<ruby>周<rt>まわ</rt></ruby>りに<span style=\"\
+  color: blue;\"><ruby>溶岩<rt>ようがん</rt></ruby></span>が<span style=\"color: blue;\"\
+  ><ruby>流<rt>なが</rt></ruby>れ</span>たり<ruby>石<rt>いし</rt></ruby>が<ruby>飛<rt>と</rt></ruby>んだりしました。１００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、２００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>行方不明<rt>ゆくえふめい</rt></ruby></span>になっています。</p>\n<p>グアテマラはコーヒー<span\
+  \ style=\"color: blue;\"><ruby>豆<rt>まめ</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>って<ruby>輸出<rt>ゆしゅつ</rt></ruby>していて、フエゴ<ruby>火山<rt>かざん</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りにはコーヒー<span\
+  \ style=\"color: blue;\"><ruby>豆<rt>まめ</rt></ruby></span>の<span style=\"color: blue;\"\
+  ><ruby>畑<rt>はたけ</rt></ruby></span>がたくさんあります。コーヒーの<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>によると、５０００<ruby>以上<rt>いじょう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>農家<rt>のうか</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>畑<rt>はたけ</rt></ruby></span>に<ruby>石<rt>いし</rt></ruby>や<span style=\"\
+  color: blue;\"><ruby>灰<rt>はい</rt></ruby></span>が<ruby>降<rt>ふ</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>畑<rt>はたけ</rt></ruby></span>がだめになったりしています。</p>\n<p><span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>火山<rt>かざん</rt></ruby></span>の<ruby>周<rt>まわ</rt></ruby>りにはコーヒーの<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>人<rt>ひと</rt></ruby>がたくさんいて、みんなとても<ruby>困<rt>こま</rt></ruby>っています。<ruby>別<rt>べつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>ができるように<ruby>手伝<rt>てつだ</rt></ruby>いたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 火山
+  descriptions:
+  - <ruby><rb>地下</rb><rt>ちか</rt></ruby>のマグマが、<ruby><rb>地表</rb><rt>ちひょう</rt></ruby>にふき<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>山</rb><rt>やま</rt></ruby>となっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: 噴火
+  descriptions:
+  - <ruby><rb>火山</rb><rt>かざん</rt></ruby>が<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>して、とけた<ruby><rb>溶岩</rb><rt>ようがん</rt></ruby>や、<ruby><rb>火山灰</rb><rt>かざんばい</rt></ruby>・<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>・ガスをふき<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 豆
+  descriptions:
+  - ダイズ・アズキ・ソラマメなど、さやの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>種</rb><rt>たね</rt></ruby>ができる<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。また、その<ruby><rb>種</rb><rt>たね</rt></ruby>。
+  - 「<ruby><rb>小</rb><rt>ちい</rt></ruby>さい」や「<ruby><rb>子</rb><rt>こ</rt></ruby>ども」という<ruby><rb>意味</rb><rt>いみ</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。
+- word: 畑
+  descriptions:
+  - <ruby><rb>野菜</rb><rt>やさい</rt></ruby>や<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>土地</rb><rt>とち</rt></ruby>。
+  - <ruby><rb>専門</rb><rt>せんもん</rt></ruby>。
+- word: 溶岩
+  descriptions:
+  - <ruby><rb>地下</rb><rt>ちか</rt></ruby>のとけた<ruby><rb>岩</rb><rt>いわ</rt></ruby>が、<ruby><rb>火山</rb><rt>かざん</rt></ruby>の<ruby><rb>噴火</rb><rt>ふんか</rt></ruby>で<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>に<ruby><rb>流</rb><rt>なが</rt></ruby>れ<ruby><rb>出</rb><rt>で</rt></ruby>たもの。また、それが<ruby><rb>冷</rb><rt>ひ</rt></ruby>えて<ruby><rb>固</rb><rt>かた</rt></ruby>まった<ruby><rb>岩</rb><rt>いわ</rt></ruby>。
+- word: 流れる
+  descriptions:
+  - <ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。
+  - <ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。
+  - うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - <ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - とりやめになる。
+- word: 行方不明
+  descriptions:
+  - どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 農家
+  descriptions:
+  - <ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らしを<ruby><rb>立</rb><rt>た</rt></ruby>てている<ruby><rb>家</rb><rt>いえ</rt></ruby>。また、その<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+- word: 灰
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>燃</rb><rt>も</rt></ruby>えたあとに<ruby><rb>残</rb><rt>のこ</rt></ruby>る<ruby><rb>粉</rb><rt>こな</rt></ruby>のようなもの。
+source_url: http://www3.nhk.or.jp/news/easy/k10011470361000/k10011470361000.html
+web_title_with_ruby: <ruby>グアテマラ<rt>ぐあてまら</rt></ruby>の<ruby>噴火<rt>ふんか</rt></ruby>
+  <ruby>経済<rt>けいざい</rt></ruby><ruby>支<rt>ささ</rt></ruby>える<ruby>コーヒー<rt>こーひー</rt></ruby><ruby>産業<rt>さんぎょう</rt></ruby>にも<ruby>打撃<rt>だげき</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/09/グアテマラの噴火-経済支えるコーヒー産業にも打撃
+related_news:
+- title: グアテマラのフエゴ<ruby>火山<rt>かざん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>　６０<ruby>人<rt>にん</rt></ruby>以上が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/06/05/グアテマラのフエゴ火山が噴火-60人以上が亡くなる
+- title: ハワイ<ruby>島<rt>とう</rt></ruby>で<ruby>火山<rt>かざん</rt></ruby>の<ruby>噴火<rt>ふんか</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>く　<ruby>溶岩<rt>ようがん</rt></ruby>で<ruby>男性<rt>だんせい</rt></ruby>がけがをする
+  url: https://newswebeasy.github.io/news/easy/2018/05/22/ハワイ島で火山の噴火が続く-溶岩で男性がけがをする
+- title: ２つ<ruby>以上<rt>いじょう</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えている
+  url: https://newswebeasy.github.io/news/easy/2018/04/10/2つ以上の仕事をしている人が増えている
+- title: ハワイ<ruby>島<rt>とう</rt></ruby>にあるキラウエア<ruby>火山<rt>かざん</rt></ruby>で<ruby>噴火<rt>ふんか</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/05/08/ハワイ島にあるキラウエア火山で噴火が続く
+...
