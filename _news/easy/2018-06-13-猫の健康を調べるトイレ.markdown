@@ -1,0 +1,83 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011472611000
+last_modified_at: '2018-06-13T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 電化製品を作っている会社のシャープは、鳥取大学と一緒に猫のトイレを作りました。
+title: 猫の健康を調べるトイレ
+title_with_ruby: <ruby>猫<rt>ねこ</rt></ruby>の<ruby>健康<rt>けんこう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるトイレ
+outline: 電化製品を作っている会社のシャープは、鳥取大学と一緒に猫のトイレを作りました。
+outline_with_ruby: <ruby>電化製品<rt>でんかせいひん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っている<ruby>会社<rt>かいしゃ</rt></ruby>のシャープは、<ruby>鳥取<rt>とっとり</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>猫<rt>ねこ</rt></ruby>のトイレを<ruby>作<rt>つく</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/11/K10011472611_1806111553_1806111639_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/13/k10011472611000.mp4
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>電化製品<rt>でんかせいひん</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>っている<ruby>会社<rt>かいしゃ</rt></ruby>のシャープは、<ruby>鳥取<rt>とっとり</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>猫<rt>ねこ</rt></ruby>のトイレを<ruby>作<rt>つく</rt></ruby>りました。<ruby>鳥取<rt>とっとり</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>は<ruby>猫<rt>ねこ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>尿<rt>にょう</rt></ruby></span>と<span style=\"color:\
+  \ blue;\"><ruby>健康<rt>けんこう</rt></ruby></span>の<ruby>関係<rt>かんけい</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>しています。</p>\n\
+  <p>トイレには<span style=\"color: blue;\">センサー</span>が<span style=\"color: blue;\">つい</span>ていて、<ruby>猫<rt>ねこ</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>の<ruby>重<rt>おも</rt></ruby>さや<span\
+  \ style=\"color: blue;\"><ruby>尿<rt>にょう</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>量<rt>りょう</rt></ruby></span>と<span style=\"color: blue;\"><ruby>回数<rt>かいすう</rt></ruby></span>、トイレにいた<ruby>時間<rt>じかん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>測<rt>はか</rt></ruby>る</span>ことができます。<span style=\"\
+  color: blue;\">センサー</span>はインターネットに<span style=\"color: blue;\">つながっ</span>ていて、<ruby>猫<rt>ねこ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>飼<rt>か</rt></ruby>っ</span>ている<ruby>人<rt>ひと</rt></ruby>のスマートフォンに<span\
+  \ style=\"color: blue;\">データ</span>を<ruby>送<rt>おく</rt></ruby>ります。</p>\n<p>このトイレは<ruby>来月<rt>らいげつ</rt></ruby>から<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めます。トイレの<ruby>値段<rt>ねだん</rt></ruby>は２<ruby>万<rt>まん</rt></ruby>５０００<ruby>円<rt>えん</rt></ruby>ぐらいで、スマートフォンのアプリは１か<ruby>月<rt>げつ</rt></ruby>３００<ruby>円<rt>えん</rt></ruby>で<ruby>利用<rt>りよう</rt></ruby>できます。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>尿<rt>にょう</rt></ruby></span>がとても<ruby>少<rt>すく</rt></ruby>なくなったり、トイレにいる<ruby>時間<rt>じかん</rt></ruby>が<ruby>長<rt>なが</rt></ruby>くなった<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>猫<rt>ねこ</rt></ruby>を<ruby>病院<rt>びょういん</rt></ruby>に<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>くことを<ruby>考<rt>かんが</rt></ruby>えてほしいと<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 健康
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。
+- word: 電化製品
+  descriptions:
+  - <ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って、はたらかせる<ruby><rb>機械</rb><rt>きかい</rt></ruby>。<ruby><rb>電気冷蔵庫</rb><rt>でんきれいぞうこ</rt></ruby>・<ruby><rb>電気洗濯機</rb><rt>でんきせんたくき</rt></ruby>など。
+- word: 尿
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>のいらなくなった<ruby><rb>水分</rb><rt>すいぶん</rt></ruby>や<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>が、<ruby><rb>体外</rb><rt>たいがい</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>されるもの。<ruby><rb>小便</rb><rt>しょうべん</rt></ruby>。おしっこ。
+- word: センサー
+  descriptions:
+  - <ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>、<ruby><rb>温度</rb><rt>おんど</rt></ruby>などに<ruby><rb>反応</rb><rt>はんのう</rt></ruby>して、<ruby><rb>電気的</rb><rt>でんきてき</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 付く
+  descriptions:
+  - ものがくっつく。
+  - つきそう。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>わる。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まる。
+  - <ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。
+  - <ruby><rb>感</rb><rt>かん</rt></ruby>じる。
+  - ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。
+- word: 量
+  descriptions:
+  - かさ。ますめ。
+  - ものをはかる。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>広</rb><rt>ひろ</rt></ruby>さ。<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさ。
+- word: 回数
+  descriptions:
+  - ものごとが<ruby><rb>何回</rb><rt>なんかい</rt></ruby><ruby><rb>起</rb><rt>お</rt></ruby>こったか、<ruby><rb>行</rb><rt>おこな</rt></ruby>われたかという<ruby><rb>数</rb><rt>かず</rt></ruby>。
+- word: 測る
+  descriptions:
+  - <ruby><rb>長</rb><rt>なが</rt></ruby>さ・<ruby><rb>高</rb><rt>たか</rt></ruby>さ・<ruby><rb>深</rb><rt>ふか</rt></ruby>さ・<ruby><rb>広</rb><rt>ひろ</rt></ruby>さなどを<ruby><rb>調</rb><rt>しら</rt></ruby>べる。
+- word: つながる
+  descriptions:
+  - はなれているものが<ruby><rb>結</rb><rt>むす</rt></ruby>ばれる。
+  - <ruby><rb>関係</rb><rt>かんけい</rt></ruby>がある。<ruby><rb>結</rb><rt>むす</rt></ruby>びつく。
+- word: 飼う
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>にえさをあたえて<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。
+- word: データ
+  descriptions:
+  - <ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。
+  - コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011472611000/k10011472611000.html
+web_title_with_ruby: <ruby>ペット<rt>ぺっと</rt></ruby>の<ruby>健康<rt>けんこう</rt></ruby><ruby>管理<rt>かんり</rt></ruby>もＩｏＴで
+  <ruby>シャープ<rt>しゃーぷ</rt></ruby>が<ruby>参入<rt>さんにゅう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/11/ペットの健康管理もIoTで-シャープが参入
+related_news:
+- title: <ruby>尿<rt>にょう</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べてがんを<ruby>見<rt>み</rt></ruby>つける　<ruby>世界<rt>せかい</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めての<ruby>実験<rt>じっけん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/17/尿を調べてがんを見つける-世界で初めての実験
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>　「ドラえもん」に<ruby>似<rt>に</rt></ruby>たキャラクターの<ruby>商標登録<rt>しょうひょうとうろく</rt></ruby>はだめ
+  url: https://newswebeasy.github.io/news/easy/2018/05/07/中国-ドラえもんに似たキャラクターの商標登録はだめ
+- title: アップル　スマートフォンを<ruby>使<rt>つか</rt></ruby>いすぎないようにする<ruby>機能<rt>きのう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/06/06/アップル-スマートフォンを使いすぎないようにする機能
+...
