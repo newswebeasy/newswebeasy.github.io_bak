@@ -1,0 +1,87 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011476871000
+last_modified_at: '2018-06-14T17:55:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>14<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>55<ruby>分<rt>ふん</rt></ruby>
+description: 奈良市の鹿を守っている団体に１３日、「奈良公園の鹿に矢のような物が刺さっています」と連絡がありました。
+title: 奈良公園で矢のような物が刺さった鹿が見つかる
+title_with_ruby: <ruby>奈良公園<rt>ならこうえん</rt></ruby>で<ruby>矢<rt>や</rt></ruby>のような<ruby>物<rt>もの</rt></ruby>が<ruby>刺<rt>さ</rt></ruby>さった<ruby>鹿<rt>しか</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかる
+outline: 奈良市の鹿を守っている団体に１３日、「奈良公園の鹿に矢のような物が刺さっています」と連絡がありました。
+outline_with_ruby: <ruby>奈良市<rt>ならし</rt></ruby>の<ruby>鹿<rt>しか</rt></ruby>を<ruby>守<rt>まも</rt></ruby>っている<ruby>団体<rt>だんたい</rt></ruby>に１３<ruby>日<rt>にち</rt></ruby>、「<ruby>奈良公園<rt>ならこうえん</rt></ruby>の<ruby>鹿<rt>しか</rt></ruby>に<ruby>矢<rt>や</rt></ruby>のような<ruby>物<rt>もの</rt></ruby>が<ruby>刺<rt>さ</rt></ruby>さっています」と<ruby>連絡<rt>れんらく</rt></ruby>がありました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/13/K10011476871_1806132057_1806132109_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/14/k10011476871000.mp4
+content_with_ruby: "<p><ruby>奈良市<rt>ならし</rt></ruby>の<span style=\"color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>を<span\
+  \ style=\"color: blue;\"><ruby>守<rt>まも</rt></ruby>っ</span>ている<span style=\"color:\
+  \ blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>に１３<ruby>日<rt>にち</rt></ruby>、「<ruby>奈良公園<rt>ならこうえん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>に<span style=\"color: blue;\"\
+  ><ruby>矢<rt>や</rt></ruby></span>のような<ruby>物<rt>もの</rt></ruby>が<span style=\"color:\
+  \ blue;\"><ruby>刺<rt>さ</rt></ruby>さっ</span>ています」と<ruby>連絡<rt>れんらく</rt></ruby>がありました。<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>くと、<ruby>鉛筆<rt>えんぴつ</rt></ruby>に<ruby>紙<rt>かみ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>巻<rt>ま</rt></ruby>い</span>た１５ｃｍぐらいの<ruby>物<rt>もの</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>の<ruby>首<rt>くび</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>刺<rt>さ</rt></ruby>さっ</span>ていました。<span style=\"color:\
+  \ blue;\"><ruby>鹿<rt>しか</rt></ruby></span>は４<ruby>歳<rt>さい</rt></ruby>ぐらいの<span style=\"\
+  color: blue;\"><ruby>雌<rt>めす</rt></ruby></span>で、<ruby>軽<rt>かる</rt></ruby>いけがでした。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>にけがをさせようとしていて、ひどいと<ruby>思<rt>おも</rt></ruby>います。<span\
+  \ style=\"color: blue;\"><ruby>絶対<rt>ぜったい</rt></ruby></span>にやめてください」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p><ruby>奈良公園<rt>ならこうえん</rt></ruby>とその<ruby>近<rt>ちか</rt></ruby>くにいる<span style=\"\
+  color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>は<ruby>国<rt>くに</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>天然記念物<rt>てんねんきねんぶつ</rt></ruby></span>になっています。<ruby>警察<rt>けいさつ</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>鹿<rt>しか</rt></ruby></span>に<span style=\"color: blue;\"\
+  ><ruby>矢<rt>や</rt></ruby></span>のような<ruby>物<rt>もの</rt></ruby>を<span style=\"color:\
+  \ blue;\"><ruby>刺<rt>さ</rt></ruby>し</span>たか<ruby>調<rt>しら</rt></ruby>べています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 矢
+  descriptions:
+  - <ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>武器</rb><rt>ぶき</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>弓</rb><rt>ゆみ</rt></ruby>のつるにつがえて<ruby><rb>射</rb><rt>い</rt></ruby>るもの。
+- word: 刺さる
+  descriptions:
+  - （<ruby><rb>物</rb><rt>もの</rt></ruby>に）とがったものがつき<ruby><rb>立</rb><rt>た</rt></ruby>つ。
+- word: 鹿
+  descriptions:
+  - <ruby><rb>森林</rb><rt>しんりん</rt></ruby>や<ruby><rb>山野</rb><rt>さんや</rt></ruby>にすむ、<ruby><rb>草食</rb><rt>そうしょく</rt></ruby>のおとなしいけもの。<ruby><rb>足</rb><rt>あし</rt></ruby>は<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>く、<ruby><rb>雄</rb><rt>おす</rt></ruby>は<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>枝</rb><rt>えだ</rt></ruby>のような<ruby><rb>角</rb><rt>つの</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ。<ruby><rb>世界各地</rb><rt>せかいかくち</rt></ruby>にいる。
+- word: 守る
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。
+  - <ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 巻く
+  descriptions:
+  - <ruby><rb>長</rb><rt>なが</rt></ruby>いものを、はしから<ruby><rb>丸</rb><rt>まる</rt></ruby>める。
+  - <ruby><rb>長</rb><rt>なが</rt></ruby>いものを<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りにからみつける。
+  - ぐるぐるとまるく<ruby><rb>動</rb><rt>うご</rt></ruby>く。また、<ruby><rb>動</rb><rt>うご</rt></ruby>かす。
+  - <ruby><rb>回</rb><rt>まわ</rt></ruby>してしめる。
+  - <ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>囲</rb><rt>かこ</rt></ruby>む。
+- word: 雌
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>を<ruby><rb>生</rb><rt>う</rt></ruby>む<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>があるほう。
+- word: 絶対
+  descriptions:
+  - ほかに<ruby><rb>比</rb><rt>くら</rt></ruby>べるものがないこと。
+  - まちがいなく。<ruby><rb>必</rb><rt>かなら</rt></ruby>ず。
+  - けっして。とうてい。
+- word: 天然記念物
+  descriptions:
+  - <ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>で、だいじにするように<ruby><rb>決</rb><rt>き</rt></ruby>められている、めずらしい<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>や<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>・<ruby><rb>鉱物</rb><rt>こうぶつ</rt></ruby>のこと。<ruby><rb>例</rb><rt>たと</rt></ruby>えば、<ruby><rb>北海道</rb><rt>ほっかいどう</rt></ruby>の<ruby><rb>阿寒湖</rb><rt>あかんこ</rt></ruby>のマリモなど。
+- word: 刺す
+  descriptions:
+  - とがったものをつき<ruby><rb>通</rb><rt>とお</rt></ruby>す。
+  - <ruby><rb>鼻</rb><rt>はな</rt></ruby>・<ruby><rb>舌</rb><rt>した</rt></ruby>・はだなどに、するどい<ruby><rb>刺激</rb><rt>しげき</rt></ruby>をあたえる。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>走者</rb><rt>そうしゃ</rt></ruby>にタッチして、アウトにする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011476871000/k10011476871000.html
+web_title_with_ruby: 「<ruby>矢<rt>や</rt></ruby>」が<ruby>刺<rt>さ</rt></ruby>さった<ruby>シカ<rt>しか</rt></ruby>
+  <ruby>奈良<rt>なら</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>で<ruby>見<rt>み</rt></ruby>つかる
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/13/矢が刺さったシカ-奈良公園で見つかる
+related_news:
+- title: <ruby>奈良市<rt>ならし</rt></ruby>で<ruby>鹿<rt>しか</rt></ruby>が<ruby>町<rt>まち</rt></ruby>を<ruby>走<rt>はし</rt></ruby>るビデオがインターネットに<ruby>出<rt>で</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/05/17/奈良市で鹿が町を走るビデオがインターネットに出る
+- title: <ruby>奈良公園<rt>ならこうえん</rt></ruby>　<ruby>鹿<rt>しか</rt></ruby>のお<ruby>菓子<rt>かし</rt></ruby>のあげ<ruby>方<rt>かた</rt></ruby>を<ruby>英語<rt>えいご</rt></ruby>と<ruby>中国語<rt>ちゅうごくご</rt></ruby>で<ruby>看板<rt>かんばん</rt></ruby>に<ruby>書<rt>か</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/04/04/奈良公園-鹿のお菓子のあげ方を英語と中国語で看板に書く
+...
