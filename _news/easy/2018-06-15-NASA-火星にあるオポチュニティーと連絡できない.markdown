@@ -1,0 +1,58 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011477351000
+last_modified_at: '2018-06-15T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: アメリカのＮＡＳＡの「オポチュニティー」は、２００４年１月に火星に着きました。
+title: ＮＡＳＡ　火星にある「オポチュニティー」と連絡できない
+title_with_ruby: ＮＡＳＡ　<ruby>火星<rt>かせい</rt></ruby>にある「オポチュニティー」と<ruby>連絡<rt>れんらく</rt></ruby>できない
+outline: アメリカのＮＡＳＡの「オポチュニティー」は、２００４年１月に火星に着きました。
+outline_with_ruby: アメリカのＮＡＳＡの「オポチュニティー」は、２００４<ruby>年<rt>ねん</rt></ruby>１<ruby>月<rt>がつ</rt></ruby>に<ruby>火星<rt>かせい</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/14/K10011477351_1806140917_1806140919_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/15/k10011477351000.mp4
+content_with_ruby: "<p>アメリカの<span style=\"color: blue;\">ＮＡＳＡ</span>の「オポチュニティー」は、２００４<ruby>年<rt>ねん</rt></ruby>１<ruby>月<rt>がつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>火星<rt>かせい</rt></ruby></span>に<ruby>着<rt>つ</rt></ruby>きました。それから１４<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>火星<rt>かせい</rt></ruby></span>を<ruby>調<rt>しら</rt></ruby>べ<ruby>続<rt>つづ</rt></ruby>けて、<span\
+  \ style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>に<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>送<rt>おく</rt></ruby>っていました。</p>\n\
+  <p><span style=\"color: blue;\">ＮＡＳＡ</span>によると、<span style=\"color: blue;\"><ruby>火星<rt>かせい</rt></ruby></span>では５<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりごろから<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>でとてもたくさんの<ruby>砂<rt>すな</rt></ruby>が<ruby>飛<rt>と</rt></ruby>んでいます。このため、<span\
+  \ style=\"color: blue;\"><ruby>太陽<rt>たいよう</rt></ruby></span>の<ruby>光<rt>ひかり</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>届<rt>とど</rt></ruby>か</span>なくなって、オポチュニティーは<ruby>電気<rt>でんき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ることができなくなりました。６<ruby>月<rt>がつ</rt></ruby><ruby>１０日<rt>とおか</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>がありましたが、そのあと<ruby>連絡<rt>れんらく</rt></ruby>ができなくなりました。</p>\n\
+  <p><span style=\"color: blue;\">ＮＡＳＡ</span>は<span style=\"color: blue;\"><ruby>火星<rt>かせい</rt></ruby></span>で<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>かなくなったら、オポチュニティーがまた<ruby>動<rt>うご</rt></ruby>くようにしたいと<ruby>考<rt>かんが</rt></ruby>えています。<span\
+  \ style=\"color: blue;\">ＮＡＳＡ</span>の<ruby>人<rt>ひと</rt></ruby>は「<span style=\"color:\
+  \ blue;\"><ruby>愛<rt>あい</rt></ruby>する</span><ruby>人<rt>ひと</rt></ruby>が<ruby>死<rt>し</rt></ruby>ぬかもしれないような<ruby>気持<rt>きも</rt></ruby>ちです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: NASA
+  descriptions:
+  - <ruby><rb>宇宙開発</rb><rt>うちゅうかいはつ</rt></ruby>のために<ruby><rb>作</rb><rt>つく</rt></ruby>られた、アメリカ<ruby><rb>政府</rb><rt>せいふ</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>。スペースシャトルの<ruby><rb>開発</rb><rt>かいはつ</rt></ruby>などをする。
+- word: 火星
+  descriptions:
+  - <ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>四番</rb><rt>よばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>星</rb><rt>ほし</rt></ruby>の<ruby><rb>色</rb><rt>いろ</rt></ruby>は<ruby><rb>赤</rb><rt>あか</rt></ruby>く<ruby><rb>見</rb><rt>み</rt></ruby>え、<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>が<ruby><rb>二</rb><rt>ふた</rt></ruby>つある。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: 太陽
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。
+- word: 届く
+  descriptions:
+  - <ruby><rb>送</rb><rt>おく</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>着</rb><rt>つ</rt></ruby>く。
+  - のばしたものが、つく。
+  - <ruby><rb>行</rb><rt>い</rt></ruby>きわたる。
+  - <ruby><rb>願</rb><rt>ねが</rt></ruby>いなどがかなう。
+- word: 愛する
+  descriptions:
+  - かわいがる。
+  - <ruby><rb>好</rb><rt>す</rt></ruby>きだ。<ruby><rb>好</rb><rt>この</rt></ruby>む。
+  - <ruby><rb>大切</rb><rt>たいせつ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。
+source_url: http://www3.nhk.or.jp/news/easy/k10011477351000/k10011477351000.html
+web_title_with_ruby: ＮＡＳＡ「<ruby>愛<rt>あい</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>危篤<rt>きとく</rt></ruby>に」<ruby>火星<rt>かせい</rt></ruby><ruby>探査機<rt>たんさき</rt></ruby>と<ruby>通信<rt>つうしん</rt></ruby><ruby>途絶<rt>とだ</rt></ruby>える
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/14/NASA愛する人が危篤に火星探査機と通信途絶える
+related_news:
+- title: ＮＡＳＡ　ドローンで<ruby>火星<rt>かせい</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べる<ruby>計画<rt>けいかく</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/05/15/NASA-ドローンで火星を調べる計画
+- title: コンビニ　<ruby>店<rt>みせ</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う<ruby>電気<rt>でんき</rt></ruby>の<ruby>半分<rt>はんぶん</rt></ruby>を<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>と<ruby>風<rt>かぜ</rt></ruby>で<ruby>作<rt>つく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/05/23/コンビニ-店で使う電気の半分を太陽の光と風で作る
+...

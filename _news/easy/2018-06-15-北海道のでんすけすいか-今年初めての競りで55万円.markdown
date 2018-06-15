@@ -1,0 +1,49 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011477651000
+last_modified_at: '2018-06-15T18:10:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>15<ruby>日<rt>にち</rt></ruby>
+  18<ruby>時<rt>じ</rt></ruby>10<ruby>分<rt>ふん</rt></ruby>
+description: 北海道の当麻町で作っている「でんすけすいか」は、皮が黒くてとても甘いすいかです。
+title: 北海道の「でんすけすいか」　今年初めての競りで５５万円
+title_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby>の「でんすけすいか」　<ruby>今年<rt>ことし</rt></ruby><ruby>初<rt>はじ</rt></ruby>めての<ruby>競<rt>せ</rt></ruby>りで５５<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>
+outline: 北海道の当麻町で作っている「でんすけすいか」は、皮が黒くてとても甘いすいかです。
+outline_with_ruby: <ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>当麻町<rt>とうまちょう</rt></ruby>で<ruby>作<rt>つく</rt></ruby>っている「でんすけすいか」は、<ruby>皮<rt>かわ</rt></ruby>が<ruby>黒<rt>くろ</rt></ruby>くてとても<ruby>甘<rt>あま</rt></ruby>いすいかです。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/14/K10011477651_1806141338_1806141338_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/15/k10011477651000.mp4
+content_with_ruby: "<p><ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>当麻町<rt>とうまちょう</rt></ruby>で<ruby>作<rt>つく</rt></ruby>っている「でんすけすいか」は、<span\
+  \ style=\"color: blue;\"><ruby>皮<rt>かわ</rt></ruby></span>が<ruby>黒<rt>くろ</rt></ruby>くてとても<ruby>甘<rt>あま</rt></ruby>い<span\
+  \ style=\"color: blue;\">すいか</span>です。</p>\n<p><ruby>旭川市<rt>あさひかわし</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>市場<rt>いちば</rt></ruby></span>で<ruby>１４日<rt>じゅうよっか</rt></ruby>、<ruby>今年<rt>ことし</rt></ruby><ruby>初<rt>はじ</rt></ruby>めて「でんすけすいか」の<span\
+  \ style=\"color: blue;\"><ruby>競<rt>せ</rt></ruby>り</span>がありました。<span style=\"color:\
+  \ blue;\"><ruby>市場<rt>いちば</rt></ruby></span>に<ruby>集<rt>あつ</rt></ruby>まった１５８<ruby>個<rt>こ</rt></ruby>の「でんすけすいか」のうち、いちばん<ruby>高<rt>たか</rt></ruby>い<span\
+  \ style=\"color: blue;\">すいか</span>は１<ruby>個<rt>こ</rt></ruby>５５<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>になりました。<ruby>去年<rt>きょねん</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>より５<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>高<rt>たか</rt></ruby>くなりました。</p>\n\
+  <p>この<span style=\"color: blue;\">すいか</span>を<ruby>買<rt>か</rt></ruby>ったスーパーの<ruby>人<rt>ひと</rt></ruby>は「<ruby>今年<rt>ことし</rt></ruby>の<span\
+  \ style=\"color: blue;\">すいか</span>はとても<ruby>甘<rt>あま</rt></ruby>いので、たくさん<ruby>売<rt>う</rt></ruby>りたいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 競り売り
+  descriptions:
+  - <ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。
+- word: 皮
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>や<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>などの<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>を<ruby><rb>包</rb><rt>つつ</rt></ruby>んでいるもの。
+  - <ruby><rb>中身</rb><rt>なかみ</rt></ruby>をおおって<ruby><rb>包</rb><rt>つつ</rt></ruby>んでいるもの。
+- word: 西瓜
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>実</rb><rt>み</rt></ruby>が、<ruby><rb>地面</rb><rt>じめん</rt></ruby>をはうつるにでき、<ruby><rb>中身</rb><rt>なかみ</rt></ruby>は<ruby><rb>赤</rb><rt>あか</rt></ruby>や<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>で<ruby><rb>水分</rb><rt>すいぶん</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>くあまい。
+- word: 市場
+  descriptions:
+  - <ruby><rb>商人</rb><rt>しょうにん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などを<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>買</rb><rt>か</rt></ruby>いする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>市</rb><rt>いち</rt></ruby>。
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>などの<ruby><rb>小売店</rb><rt>こうりてん</rt></ruby>が、<ruby><rb>一</rb><rt>いっ</rt></ruby>か<ruby><rb>所</rb><rt>しょ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>っている<ruby><rb>所</rb><rt>ところ</rt></ruby>。マーケット。
+source_url: http://www3.nhk.or.jp/news/easy/k10011477651000/k10011477651000.html
+web_title_with_ruby: でんすけすいかの<ruby>初<rt>はつ</rt></ruby><ruby>競<rt>せ</rt></ruby>り <ruby>北海道<rt>ほっかいどう</rt></ruby>
+  <ruby>旭川<rt>あさひかわ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/14/でんすけすいかの初競り-北海道-旭川
+related_news:
+- title: <ruby>宮崎県<rt>みやざきけん</rt></ruby>のマンゴー　<ruby>今年<rt>ことし</rt></ruby><ruby>初<rt>はじ</rt></ruby>めての<ruby>競<rt>せ</rt></ruby>りで２<ruby>個<rt>こ</rt></ruby>４０<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/17/宮崎県のマンゴー-今年初めての競りで2個40万円
+- title: ４<ruby>月<rt>がつ</rt></ruby>から<ruby>食料品<rt>しょくりょうひん</rt></ruby>などの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がる
+  url: https://newswebeasy.github.io/news/easy/2018/04/02/4月から食料品などの値段が上がる
+...
