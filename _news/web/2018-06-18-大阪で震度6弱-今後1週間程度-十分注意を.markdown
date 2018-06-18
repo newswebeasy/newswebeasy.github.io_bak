@@ -1,0 +1,142 @@
+---
+layout: web_news
+categories: web
+newsid: k10011482351000
+title: 大阪で震度６弱 今後１週間程度 十分注意を
+title_with_ruby: <ruby>大阪<rt data-ruby-level="8">おおさか</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>６<ruby>弱<rt
+  data-ruby-level="2">じゃく</rt></ruby> <ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>１<ruby>週間<rt
+  data-ruby-level="2">しゅうかん</rt></ruby><ruby>程度<rt data-ruby-level="5">ていど</rt></ruby>
+  <ruby>十分<rt data-ruby-level="2">じゅうぶん</rt></ruby><ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>を
+last_modified_at: '2018-06-18T17:29:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>06<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>18<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 17<ruby>時<rt data-ruby-level="2">じ</rt></ruby>29<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 18日朝、大阪府北部を震源とするマグニチュード6.1の地震があり、大阪・高槻市などで震度６弱の揺れを観測したほか、近畿地方の広い範囲で震度５強や５弱の揺れを観測しました。大阪府北部ではその後も余震と見られる地震が相次いでいて、気象庁は今後、１週間程度、最大で震度６弱程度の揺れを伴う地震に十分注意するよう呼びかけています。
+summary: 18<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>朝<rt data-ruby-level="2">あさ</rt></ruby>、<ruby>大阪府<rt
+  data-ruby-level="8">おおさかふ</rt></ruby><ruby>北部<rt data-ruby-level="3">ほくぶ</rt></ruby>を<ruby>震源<rt
+  data-ruby-level="7">しんげん</rt></ruby>とするマグニチュード6.1の<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>があり、<ruby>大阪<rt
+  data-ruby-level="8">おおさか</rt></ruby>・<ruby>高槻市<rt data-ruby-level="8">たかつきし</rt></ruby>などで<ruby>震度<rt
+  data-ruby-level="7">しんど</rt></ruby>６<ruby>弱<rt data-ruby-level="2">じゃく</rt></ruby>の<ruby>揺<rt
+  data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>したほか、<ruby>近畿地方<rt
+  data-ruby-level="7">きんきちほう</rt></ruby>の<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>い<ruby>範囲<rt
+  data-ruby-level="7">はんい</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>強<rt
+  data-ruby-level="2">きょう</rt></ruby>や５<ruby>弱<rt data-ruby-level="2">じゃく</rt></ruby>の<ruby>揺<rt
+  data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>しました。<ruby>大阪府<rt
+  data-ruby-level="8">おおさかふ</rt></ruby><ruby>北部<rt data-ruby-level="3">ほくぶ</rt></ruby>ではその<ruby>後<rt
+  data-ruby-level="2">ご</rt></ruby>も<ruby>余震<rt data-ruby-level="7">よしん</rt></ruby>と<ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>られる<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>が<ruby>相次<rt
+  data-ruby-level="3">あいつ</rt></ruby>いでいて、<ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>は<ruby>今後<rt
+  data-ruby-level="2">こんご</rt></ruby>、１<ruby>週間<rt data-ruby-level="2">しゅうかん</rt></ruby><ruby>程度<rt
+  data-ruby-level="5">ていど</rt></ruby>、<ruby>最大<rt data-ruby-level="4">さいだい</rt></ruby>で<ruby>震度<rt
+  data-ruby-level="7">しんど</rt></ruby>６<ruby>弱<rt data-ruby-level="2">じゃく</rt></ruby><ruby>程度<rt
+  data-ruby-level="5">ていど</rt></ruby>の<ruby>揺<rt data-ruby-level="7">ゆ</rt></ruby>れを<ruby>伴<rt
+  data-ruby-level="7">ともな</rt></ruby>う<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>に<ruby>十分<rt
+  data-ruby-level="2">じゅうぶん</rt></ruby><ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>するよう<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけています。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/18/K10011482351_1806181005_1806181006_01_02.jpg
+more: 18<ruby>日午前<rt data-ruby-level="2">にちごぜん</rt></ruby>７<ruby>時<rt data-ruby-level="2">じ</rt></ruby>58<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>ごろ、<ruby>大阪府<rt data-ruby-level="8">おおさかふ</rt></ruby><ruby>北部<rt
+  data-ruby-level="3">ほくぶ</rt></ruby>を<ruby>震源<rt data-ruby-level="7">しんげん</rt></ruby>とする<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>があり、<ruby>大阪市<rt data-ruby-level="8">おおさかし</rt></ruby><ruby>北区<rt
+  data-ruby-level="3">きたく</rt></ruby>、<ruby>高槻市<rt data-ruby-level="8">たかつきし</rt></ruby>、<ruby>枚方市<rt
+  data-ruby-level="8">ひらかたし</rt></ruby>、<ruby>茨木市<rt data-ruby-level="7">いばらきし</rt></ruby>、<ruby>箕面市<rt
+  data-ruby-level="8">みのおし</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>６<ruby>弱<rt
+  data-ruby-level="2">じゃく</rt></ruby>の<ruby>揺<rt data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>しました。<br /><br />また、<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>強<rt
+  data-ruby-level="2">きょう</rt></ruby>の<ruby>揺<rt data-ruby-level="7">ゆ</rt></ruby>れを<ruby>京都市<rt
+  data-ruby-level="3">きょうとし</rt></ruby>の<ruby>中京区<rt data-ruby-level="3">なかぎょうく</rt></ruby>、<ruby>伏見区<rt
+  data-ruby-level="7">ふしみく</rt></ruby>、<ruby>西京区<rt data-ruby-level="3">にしきょうく</rt></ruby>、<ruby>京都府<rt
+  data-ruby-level="4">きょうとふ</rt></ruby>の<ruby>亀岡市<rt data-ruby-level="7">かめおかし</rt></ruby>、<ruby>長岡京市<rt
+  data-ruby-level="7">ながおかきょうし</rt></ruby><ruby>八幡市<rt data-ruby-level="8">やわたし</rt></ruby>、<ruby>大山崎町<rt
+  data-ruby-level="7">おおやまざきちょう</rt></ruby>、<ruby>久御山町<rt data-ruby-level="8">くみやまちょう</rt></ruby>、<ruby>大阪市<rt
+  data-ruby-level="8">おおさかし</rt></ruby>の<ruby>都島区<rt data-ruby-level="3">みやこじまく</rt></ruby>、<ruby>東淀川区<rt
+  data-ruby-level="8">ひがしよどがわく</rt></ruby>、<ruby>旭区<rt data-ruby-level="8">あさひく</rt></ruby>、<ruby>淀川区<rt
+  data-ruby-level="8">よどがわく</rt></ruby>、それに<ruby>大阪府<rt data-ruby-level="8">おおさかふ</rt></ruby>の<ruby>豊中市<rt
+  data-ruby-level="8">とよなかし</rt></ruby>、<ruby>吹田市<rt data-ruby-level="7">すいたし</rt></ruby>、<ruby>寝屋川市<rt
+  data-ruby-level="7">ねやがわし</rt></ruby>、<ruby>摂津市<rt data-ruby-level="7">せっつし</rt></ruby>、<ruby>交野市<rt
+  data-ruby-level="8">かたのし</rt></ruby>、<ruby>島本町<rt data-ruby-level="3">しまもとちょう</rt></ruby>で<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>しました。<br /><br /><ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>弱<rt
+  data-ruby-level="2">じゃく</rt></ruby>の<ruby>揺<rt data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>したのが、<ruby>滋賀県<rt data-ruby-level="8">しがけん</rt></ruby>の<ruby>大津市<rt
+  data-ruby-level="7">おおつし</rt></ruby>、<ruby>京都府<rt data-ruby-level="4">きょうとふ</rt></ruby>の<ruby>宇治市<rt
+  data-ruby-level="6">うじし</rt></ruby>、<ruby>城陽市<rt data-ruby-level="6">じょうようし</rt></ruby>、<ruby>向日市<rt
+  data-ruby-level="8">むこうし</rt></ruby>、<ruby>京田辺市<rt data-ruby-level="8">きょうたなべし</rt></ruby>、<ruby>南丹市<rt
+  data-ruby-level="7">なんたんし</rt></ruby>、<ruby>井手町<rt data-ruby-level="7">いでちょう</rt></ruby>、<ruby>精華町<rt
+  data-ruby-level="7">せいかちょう</rt></ruby>、<ruby>大阪市<rt data-ruby-level="8">おおさかし</rt></ruby>の<ruby>福島区<rt
+  data-ruby-level="3">ふくしまく</rt></ruby>、<ruby>此花区<rt data-ruby-level="8">このはなく</rt></ruby>、<ruby>港区<rt
+  data-ruby-level="3">みなとく</rt></ruby>、<ruby>西淀川区<rt data-ruby-level="8">にしよどがわく</rt></ruby>、<ruby>生野区<rt
+  data-ruby-level="8">いくのく</rt></ruby>、それに<ruby>大阪府<rt data-ruby-level="8">おおさかふ</rt></ruby>の<ruby>池田市<rt
+  data-ruby-level="2">いけだし</rt></ruby>、<ruby>守口市<rt data-ruby-level="7">もりぐちし</rt></ruby>、<ruby>大東市<rt
+  data-ruby-level="2">だいとうし</rt></ruby>、<ruby>四條畷市<rt data-ruby-level="8">しじょうなわてし</rt></ruby>、<ruby>豊能町<rt
+  data-ruby-level="8">とよのちょう</rt></ruby>、<ruby>能勢町<rt data-ruby-level="8">のせちょう</rt></ruby>、<ruby>兵庫県<rt
+  data-ruby-level="7">ひょうごけん</rt></ruby>の<ruby>尼崎市<rt data-ruby-level="8">あまがさきし</rt></ruby>、<ruby>西宮市<rt
+  data-ruby-level="8">にしのみやし</rt></ruby>、<ruby>伊丹市<rt data-ruby-level="8">いたみし</rt></ruby>、<ruby>川西市<rt
+  data-ruby-level="2">かわにしし</rt></ruby>、<ruby>奈良県<rt data-ruby-level="8">ならけん</rt></ruby>の<ruby>大和郡山市<rt
+  data-ruby-level="8">やまとこおりやまし</rt></ruby>、<ruby>御所市<rt data-ruby-level="8">ごせし</rt></ruby>、<ruby>高取町<rt
+  data-ruby-level="3">たかとりちょう</rt></ruby>、<ruby>広陵町<rt data-ruby-level="7">こうりょうちょう</rt></ruby>でした。<br
+  /><br />このほか、<ruby>近畿<rt data-ruby-level="7">きんき</rt></ruby>、<ruby>東海<rt data-ruby-level="2">とうかい</rt></ruby>、<ruby>四国<rt
+  data-ruby-level="2">しこく</rt></ruby>、<ruby>中国地方<rt data-ruby-level="2">ちゅうごくちほう</rt></ruby>の<ruby>各地<rt
+  data-ruby-level="4">かくち</rt></ruby>で、<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>４や３の<ruby>揺<rt
+  data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>し、<ruby>関東<rt
+  data-ruby-level="4">かんとう</rt></ruby>や<ruby>九州<rt data-ruby-level="3">きゅうしゅう</rt></ruby>でも<ruby>震度<rt
+  data-ruby-level="7">しんど</rt></ruby>２や１の<ruby>揺<rt data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>しました。<br /><br />この<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>による<ruby>津波<rt
+  data-ruby-level="7">つなみ</rt></ruby>はありませんでした。<br /><br /><ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>の<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>によりますと、<ruby>震源地<rt data-ruby-level="7">しんげんち</rt></ruby>は<ruby>大阪府<rt
+  data-ruby-level="8">おおさかふ</rt></ruby><ruby>北部<rt data-ruby-level="3">ほくぶ</rt></ruby>、<ruby>震源<rt
+  data-ruby-level="7">しんげん</rt></ruby>の<ruby>深<rt data-ruby-level="3">ふか</rt></ruby>さは13キロ、<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>の<ruby>規模<rt data-ruby-level="6">きぼ</rt></ruby>を<ruby>示<rt
+  data-ruby-level="5">しめ</rt></ruby>すマグニチュードは6.1と<ruby>推定<rt data-ruby-level="6">すいてい</rt></ruby>されています。<br
+  /><br /><ruby>大阪府<rt data-ruby-level="8">おおさかふ</rt></ruby><ruby>北部<rt data-ruby-level="3">ほくぶ</rt></ruby>ではその<ruby>後<rt
+  data-ruby-level="2">ご</rt></ruby>も<ruby>余震<rt data-ruby-level="7">よしん</rt></ruby>と<ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>られる<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>が<ruby>相次<rt
+  data-ruby-level="3">あいつ</rt></ruby>ぎ、<ruby>午後<rt data-ruby-level="2">ごご</rt></ruby>５<ruby>時<rt
+  data-ruby-level="2">じ</rt></ruby>までに<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>１<ruby>以上<rt
+  data-ruby-level="4">いじょう</rt></ruby>の<ruby>揺<rt data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>する<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>が16<ruby>回<rt
+  data-ruby-level="2">かい</rt></ruby><ruby>起<rt data-ruby-level="3">お</rt></ruby>きていて、<ruby>震度<rt
+  data-ruby-level="7">しんど</rt></ruby>３が１<ruby>回<rt data-ruby-level="2">かい</rt></ruby>、<ruby>震度<rt
+  data-ruby-level="7">しんど</rt></ruby>２が５<ruby>回<rt data-ruby-level="2">かい</rt></ruby>、<ruby>震度<rt
+  data-ruby-level="7">しんど</rt></ruby>１が10<ruby>回<rt data-ruby-level="2">かい</rt></ruby>となっています。<br
+  /><br /><ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>は「<ruby>揺<rt data-ruby-level="7">ゆ</rt></ruby>れの<ruby>強<rt
+  data-ruby-level="2">つよ</rt></ruby>かった<ruby>地域<rt data-ruby-level="6">ちいき</rt></ruby>では、<ruby>家屋<rt
+  data-ruby-level="3">かおく</rt></ruby>の<ruby>倒壊<rt data-ruby-level="7">とうかい</rt></ruby>や<ruby>土砂<rt
+  data-ruby-level="7">どしゃ</rt></ruby><ruby>災害<rt data-ruby-level="5">さいがい</rt></ruby>などの<ruby>危険性<rt
+  data-ruby-level="6">きけんせい</rt></ruby>が<ruby>高<rt data-ruby-level="2">たか</rt></ruby>まっているおそれがあり、やむをえない<ruby>事情<rt
+  data-ruby-level="5">じじょう</rt></ruby>がないかぎり、<ruby>危険<rt data-ruby-level="6">きけん</rt></ruby>な<ruby>場所<rt
+  data-ruby-level="3">ばしょ</rt></ruby>に<ruby>立<rt data-ruby-level="1">た</rt></ruby>ち<ruby>入<rt
+  data-ruby-level="1">い</rt></ruby>らないなど<ruby>身<rt data-ruby-level="3">み</rt></ruby>の<ruby>安全<rt
+  data-ruby-level="3">あんぜん</rt></ruby>を<ruby>図<rt data-ruby-level="7">はか</rt></ruby>るよう<ruby>心<rt
+  data-ruby-level="2">こころ</rt></ruby>がけてほしい。<ruby>揺<rt data-ruby-level="7">ゆ</rt></ruby>れの<ruby>強<rt
+  data-ruby-level="2">つよ</rt></ruby>かった<ruby>地域<rt data-ruby-level="6">ちいき</rt></ruby>では、<ruby>今後<rt
+  data-ruby-level="2">こんご</rt></ruby>１<ruby>週間<rt data-ruby-level="2">しゅうかん</rt></ruby><ruby>程度<rt
+  data-ruby-level="5">ていど</rt></ruby>、<ruby>最大<rt data-ruby-level="4">さいだい</rt></ruby><ruby>震度<rt
+  data-ruby-level="7">しんど</rt></ruby>６<ruby>弱<rt data-ruby-level="2">じゃく</rt></ruby><ruby>程度<rt
+  data-ruby-level="5">ていど</rt></ruby>の<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>に<ruby>注意<rt
+  data-ruby-level="3">ちゅうい</rt></ruby>してほしい」と<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけています。<br
+  /><br />そのうえで、「<ruby>揺<rt data-ruby-level="7">ゆ</rt></ruby>れの<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>かった<ruby>地域<rt
+  data-ruby-level="6">ちいき</rt></ruby>では、<ruby>地盤<rt data-ruby-level="7">じばん</rt></ruby>が<ruby>緩<rt
+  data-ruby-level="7">ゆる</rt></ruby>んでいて<ruby>少<rt data-ruby-level="2">すく</rt></ruby>ない<ruby>雨<rt
+  data-ruby-level="1">あめ</rt></ruby>でも<ruby>土砂<rt data-ruby-level="7">どしゃ</rt></ruby><ruby>災害<rt
+  data-ruby-level="5">さいがい</rt></ruby>が<ruby>起<rt data-ruby-level="3">お</rt></ruby>こる<ruby>可能性<rt
+  data-ruby-level="5">かのうせい</rt></ruby>があるので、<ruby>最新<rt data-ruby-level="4">さいしん</rt></ruby>の<ruby>気象<rt
+  data-ruby-level="4">きしょう</rt></ruby><ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>に<ruby>十分<rt
+  data-ruby-level="2">じゅうぶん</rt></ruby><ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>してほしい」としています。
+movie_url: https://newswebeasy.github.io/ja201806/news/web/movie/2018/06/18/k10011482351_201806181408_201806181409.mp4
+voice_url: https://newswebeasy.github.io/ja201806/news/web/voice/2018/06/18/k10011482351_201806181408_201806181409.mp3
+source_url: https://www3.nhk.or.jp/news/html/20180618/k10011482351000.html
+easy_title_with_ruby: <ruby>大阪府<rt data-ruby-level="8">おおさかふ</rt></ruby>で<ruby>震度<rt
+  data-ruby-level="7">しんど</rt></ruby>６<ruby>弱<rt data-ruby-level="2">じゃく</rt></ruby>の<ruby>大<rt
+  data-ruby-level="1">おお</rt></ruby>きな<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/06/18/大阪府で震度6弱の大きな地震
+related_news:
+- title: <ruby>島根県<rt data-ruby-level="3">しまねけん</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>強<rt
+    data-ruby-level="2">きょう</rt></ruby> <ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>４の<ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>も<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>く
+  url: https://newswebeasy.github.io/news/web/2018/04/09/島根県で震度5強-震度4の地震も続く
+- title: <ruby>緊急<rt data-ruby-level="7">きんきゅう</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby><ruby>速報<rt
+    data-ruby-level="5">そくほう</rt></ruby> きょうから<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>では「<ruby>続報<rt data-ruby-level="5">ぞくほう</rt></ruby>」<ruby>発表<rt
+    data-ruby-level="3">はっぴょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/03/22/緊急地震速報-きょうから巨大地震では続報発表
+...

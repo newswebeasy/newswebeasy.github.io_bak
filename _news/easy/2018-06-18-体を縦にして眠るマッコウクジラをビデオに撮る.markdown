@@ -1,0 +1,65 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011477681000
+last_modified_at: '2018-06-18T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 今月７日、ＮＨＫのカメラマンが長崎県の五島列島の近くの海で眠っているマッコウクジラをビデオに撮りました。
+title: 体を縦にして眠るマッコウクジラをビデオに撮る
+title_with_ruby: <ruby>体<rt>からだ</rt></ruby>を<ruby>縦<rt>たて</rt></ruby>にして<ruby>眠<rt>ねむ</rt></ruby>るマッコウクジラをビデオに<ruby>撮<rt>と</rt></ruby>る
+outline: 今月７日、ＮＨＫのカメラマンが長崎県の五島列島の近くの海で眠っているマッコウクジラをビデオに撮りました。
+outline_with_ruby: <ruby>今月<rt>こんげつ</rt></ruby><ruby>７日<rt>なのか</rt></ruby>、ＮＨＫのカメラマンが<ruby>長崎県<rt>ながさきけん</rt></ruby>の<ruby>五島列島<rt>ごとうれっとう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>海<rt>うみ</rt></ruby>で<ruby>眠<rt>ねむ</rt></ruby>っているマッコウクジラをビデオに<ruby>撮<rt>と</rt></ruby>りました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/14/K10011477681_1806141610_1806141620_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/18/k10011477681000.mp4
+content_with_ruby: "<p><ruby>今月<rt>こんげつ</rt></ruby><ruby>７日<rt>なのか</rt></ruby>、ＮＨＫの<span\
+  \ style=\"color: blue;\">カメラマン</span>が<ruby>長崎県<rt>ながさきけん</rt></ruby>の<ruby>五島列島<rt>ごとうれっとう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>海<rt>うみ</rt></ruby>で<ruby>眠<rt>ねむ</rt></ruby>っている<span\
+  \ style=\"color: blue;\">マッコウクジラ</span>を<span style=\"color: blue;\">ビデオ</span>に<ruby>撮<rt>と</rt></ruby>りました。</p>\n\
+  <p><span style=\"color: blue;\">マッコウクジラ</span>は、<ruby>体<rt>からだ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさが１８ｍ、<ruby>重<rt>おも</rt></ruby>さが４５ｔぐらいになります。この<span\
+  \ style=\"color: blue;\">クジラ</span>は１<ruby>日<rt>にち</rt></ruby>に<span style=\"color:\
+  \ blue;\"><ruby>平均<rt>へいきん</rt></ruby></span>で２<ruby>時間<rt>じかん</rt></ruby>ぐらい、<ruby>頭<rt>あたま</rt></ruby>を<ruby>上<rt>うえ</rt></ruby>にして<ruby>縦<rt>たて</rt></ruby>になって<ruby>眠<rt>ねむ</rt></ruby>ると<ruby>言<rt>い</rt></ruby>われています。</p>\n\
+  <p><span style=\"color: blue;\">ビデオ</span>には、１０<ruby>歳<rt>さい</rt></ruby>から２０<ruby>歳<rt>さい</rt></ruby>ぐらいの<ruby>若<rt>わか</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>雄<rt>おす</rt></ruby></span>の<span style=\"color: blue;\"\
+  >マッコウクジラ</span>が<ruby>縦<rt>たて</rt></ruby>になって<ruby>眠<rt>ねむ</rt></ruby>ったあと、<ruby>深<rt>ふか</rt></ruby>い<ruby>海<rt>うみ</rt></ruby>へ<ruby>泳<rt>およ</rt></ruby>いで<ruby>行<rt>い</rt></ruby>くところが<span\
+  \ style=\"color: blue;\"><ruby>写<rt>うつ</rt></ruby>っ</span>ていました。</p>\n<p><span style=\"\
+  color: blue;\">マッコウクジラ</span>の<ruby>研究<rt>けんきゅう</rt></ruby>をしている<ruby>長崎<rt>ながさき</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>の<ruby>天野<rt>あまの</rt></ruby><ruby>雅男<rt>まさお</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>教授<rt>きょうじゅ</rt></ruby></span>は、「<span style=\"color:\
+  \ blue;\"><ruby>雄<rt>おす</rt></ruby></span>の<span style=\"color: blue;\">マッコウクジラ</span>が<ruby>寝<rt>ね</rt></ruby>ている<span\
+  \ style=\"color: blue;\">ビデオ</span>は<ruby>見<rt>み</rt></ruby>たことがありません。とても<ruby>珍<rt>めずら</rt></ruby>しいです」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 鯨
+  descriptions:
+  - <ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>大形</rb><rt>おおがた</rt></ruby>の<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。シロナガスクジラ・マッコウクジラ・セミクジラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>哺乳類</rb><rt>ほにゅうるい</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>は<ruby><rb>乳</rb><rt>ちち</rt></ruby>を<ruby><rb>飲</rb><rt>の</rt></ruby>んで<ruby><rb>育</rb><rt>そだ</rt></ruby>つ。
+- word: ビデオ
+  descriptions:
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。
+  - 「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: カメラマン
+  descriptions:
+  - <ruby><rb>写真</rb><rt>しゃしん</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>、ビデオなどの<ruby><rb>撮影</rb><rt>さつえい</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 平均
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>少</rb><rt>すく</rt></ruby>ないや<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>低</rb><rt>ひく</rt></ruby>いなどがないように、ならすこと。
+  - つり<ruby><rb>合</rb><rt>あ</rt></ruby>いがとれること。バランス。
+- word: 雄
+  descriptions:
+  - <ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>男性</rb><rt>だんせい</rt></ruby>にあたるもの。
+- word: 写る
+  descriptions:
+  - （<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>字</rb><rt>じ</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>が）すけて<ruby><rb>見</rb><rt>み</rt></ruby>える。
+  - <ruby><rb>写真</rb><rt>しゃしん</rt></ruby>にとられる。
+- word: 教授
+  descriptions:
+  - <ruby><rb>大学</rb><rt>だいがく</rt></ruby>の<ruby><rb>先生</rb><rt>せんせい</rt></ruby>。
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>にものを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011477681000/k10011477681000.html
+web_title_with_ruby: <ruby>マッコウクジラ<rt>まっこうくじら</rt></ruby> <ruby>体<rt>からだ</rt></ruby>を<ruby>縦<rt>たて</rt></ruby>にして<ruby>眠<rt>ねむ</rt></ruby>る<ruby>姿<rt>すがた</rt></ruby>を<ruby>撮影<rt>さつえい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/14/マッコウクジラ-体を縦にして眠る姿を撮影
+related_news:
+- title: <ruby>東京<rt>とうきょう</rt></ruby>のＪＲ<ruby>山手線<rt>やまのてせん</rt></ruby>　１９<ruby>日<rt>にち</rt></ruby>からカメラがついた<ruby>車両<rt>しゃりょう</rt></ruby>が<ruby>走<rt>はし</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/05/18/東京のJR山手線-19日からカメラがついた車両が走る
+- title: <ruby>雄<rt>おす</rt></ruby>と<ruby>雌<rt>めす</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ったカブトムシを<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>が<ruby>見<rt>み</rt></ruby>つける
+  url: https://newswebeasy.github.io/news/easy/2018/06/15/雄と雌の体を持ったカブトムシを男の子が見つける
+...

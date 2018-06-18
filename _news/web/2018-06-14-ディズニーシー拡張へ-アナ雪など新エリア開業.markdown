@@ -130,6 +130,10 @@ body:
     data-ruby-level="2">かんが</rt></ruby>えを<ruby>明<rt data-ruby-level="2">あき</rt></ruby>らかにしました。
   image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/14/K10011477921_1806141706_1806141726_01_05.jpg
 source_url: https://www3.nhk.or.jp/news/html/20180614/k10011477921000.html
+easy_title_with_ruby: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby><ruby>ディズニーシー<rt
+  data-ruby-level="2">でぃずにーしー</rt></ruby>を<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>くする
+  「アナと<ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>の<ruby>女王<rt data-ruby-level="1">じょおう</rt></ruby>」がテーマ
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/06/18/東京ディズニーシーを広くする-アナと雪の女王がテーマ
 related_news:
 - title: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby><ruby>ディズニーランド<rt data-ruby-level="2">でぃずにーらんど</rt></ruby>が<ruby>開園<rt
     data-ruby-level="3">かいえん</rt></ruby>35<ruby>周年<rt data-ruby-level="4">しゅうねん</rt></ruby>
