@@ -1,0 +1,93 @@
+---
+layout: web_news
+categories: web
+newsid: k10011482351000
+title: 大阪で震度６弱の地震 津波なし
+title_with_ruby: <ruby>大阪<rt data-ruby-level="8">おおさか</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>６<ruby>弱<rt
+  data-ruby-level="2">じゃく</rt></ruby>の<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>
+  <ruby>津波<rt data-ruby-level="7">つなみ</rt></ruby>なし
+last_modified_at: '2018-06-18T10:08:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>06<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>18<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 10<ruby>時<rt data-ruby-level="2">じ</rt></ruby>08<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 18日午前７時58分ごろ、大阪府北部を震源とする地震があり、大阪市北区、大阪・高槻市、枚方市、茨木市、箕面市で震度６弱の揺れを観測したほか、近畿地方の広い範囲で震度５強や５弱の揺れを観測しました。この地震による津波はありませんでした。
+summary: 18<ruby>日午前<rt data-ruby-level="2">にちごぜん</rt></ruby>７<ruby>時<rt data-ruby-level="2">じ</rt></ruby>58<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>ごろ、<ruby>大阪府<rt data-ruby-level="8">おおさかふ</rt></ruby><ruby>北部<rt
+  data-ruby-level="3">ほくぶ</rt></ruby>を<ruby>震源<rt data-ruby-level="7">しんげん</rt></ruby>とする<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>があり、<ruby>大阪市<rt data-ruby-level="8">おおさかし</rt></ruby><ruby>北区<rt
+  data-ruby-level="3">きたく</rt></ruby>、<ruby>大阪<rt data-ruby-level="8">おおさか</rt></ruby>・<ruby>高槻市<rt
+  data-ruby-level="8">たかつきし</rt></ruby>、<ruby>枚方市<rt data-ruby-level="8">ひらかたし</rt></ruby>、<ruby>茨木市<rt
+  data-ruby-level="7">いばらきし</rt></ruby>、<ruby>箕面市<rt data-ruby-level="8">みのおし</rt></ruby>で<ruby>震度<rt
+  data-ruby-level="7">しんど</rt></ruby>６<ruby>弱<rt data-ruby-level="2">じゃく</rt></ruby>の<ruby>揺<rt
+  data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>したほか、<ruby>近畿地方<rt
+  data-ruby-level="7">きんきちほう</rt></ruby>の<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>い<ruby>範囲<rt
+  data-ruby-level="7">はんい</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>強<rt
+  data-ruby-level="2">きょう</rt></ruby>や５<ruby>弱<rt data-ruby-level="2">じゃく</rt></ruby>の<ruby>揺<rt
+  data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>しました。この<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>による<ruby>津波<rt data-ruby-level="7">つなみ</rt></ruby>はありませんでした。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/18/K10011482351_1806181005_1806181006_01_02.jpg
+more: <ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>6<ruby>弱<rt data-ruby-level="2">じゃく</rt></ruby>の<ruby>揺<rt
+  data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>したのは<ruby>大阪<rt
+  data-ruby-level="8">おおさか</rt></ruby><ruby>北区<rt data-ruby-level="3">きたく</rt></ruby>、<ruby>高槻市<rt
+  data-ruby-level="8">たかつきし</rt></ruby>、<ruby>枚方市<rt data-ruby-level="8">ひらかたし</rt></ruby>、<ruby>茨木市<rt
+  data-ruby-level="7">いばらきし</rt></ruby>、<ruby>箕面市<rt data-ruby-level="8">みのおし</rt></ruby>でした。<br
+  /><br />また、<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>強<rt data-ruby-level="2">きょう</rt></ruby>が<ruby>京都市<rt
+  data-ruby-level="3">きょうとし</rt></ruby>の<ruby>中京区<rt data-ruby-level="3">なかぎょうく</rt></ruby>、<ruby>伏見区<rt
+  data-ruby-level="7">ふしみく</rt></ruby>、<ruby>西京区<rt data-ruby-level="3">にしきょうく</rt></ruby>、<ruby>京都府<rt
+  data-ruby-level="4">きょうとふ</rt></ruby>の<ruby>亀岡市<rt data-ruby-level="7">かめおかし</rt></ruby>、<ruby>長岡京市<rt
+  data-ruby-level="7">ながおかきょうし</rt></ruby><ruby>八幡市<rt data-ruby-level="8">やわたし</rt></ruby>、<ruby>大山崎町<rt
+  data-ruby-level="7">おおやまざきちょう</rt></ruby>、<ruby>久御山町<rt data-ruby-level="8">くみやまちょう</rt></ruby>、<ruby>大阪<rt
+  data-ruby-level="8">おおさか</rt></ruby>の<ruby>都島区<rt data-ruby-level="3">みやこじまく</rt></ruby>、<ruby>東淀川区<rt
+  data-ruby-level="8">ひがしよどがわく</rt></ruby>、それに<ruby>旭区<rt data-ruby-level="8">あさひく</rt></ruby>、<ruby>淀川区<rt
+  data-ruby-level="8">よどがわく</rt></ruby>、それに<ruby>大阪府<rt data-ruby-level="8">おおさかふ</rt></ruby>の<ruby>豊中市<rt
+  data-ruby-level="8">とよなかし</rt></ruby>、<ruby>吹田市<rt data-ruby-level="7">すいたし</rt></ruby>、<ruby>寝屋川市<rt
+  data-ruby-level="7">ねやがわし</rt></ruby>、<ruby>摂津市<rt data-ruby-level="7">せっつし</rt></ruby>、<ruby>交野市<rt
+  data-ruby-level="8">かたのし</rt></ruby>、<ruby>島本町<rt data-ruby-level="3">しまもとちょう</rt></ruby>でした。<br
+  /><br />さらに<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>弱<rt data-ruby-level="2">じゃく</rt></ruby>が<ruby>滋賀県<rt
+  data-ruby-level="8">しがけん</rt></ruby>の<ruby>大津市<rt data-ruby-level="7">おおつし</rt></ruby>、<ruby>京都府<rt
+  data-ruby-level="4">きょうとふ</rt></ruby>の<ruby>宇治市<rt data-ruby-level="6">うじし</rt></ruby>、<ruby>城陽市<rt
+  data-ruby-level="6">じょうようし</rt></ruby>、<ruby>向日市<rt data-ruby-level="8">むこうし</rt></ruby>、<ruby>京田辺市<rt
+  data-ruby-level="8">きょうたなべし</rt></ruby>、<ruby>南丹市<rt data-ruby-level="7">なんたんし</rt></ruby>、<ruby>井手町<rt
+  data-ruby-level="7">いでちょう</rt></ruby>、<ruby>精華町<rt data-ruby-level="7">せいかちょう</rt></ruby>、<ruby>大阪<rt
+  data-ruby-level="8">おおさか</rt></ruby>の<ruby>福島区<rt data-ruby-level="3">ふくしまく</rt></ruby>、<ruby>此花区<rt
+  data-ruby-level="8">このはなく</rt></ruby>、<ruby>港区<rt data-ruby-level="3">みなとく</rt></ruby>、<ruby>西淀川区<rt
+  data-ruby-level="8">にしよどがわく</rt></ruby>、<ruby>生野区<rt data-ruby-level="8">いくのく</rt></ruby>、<ruby>池田市<rt
+  data-ruby-level="2">いけだし</rt></ruby>、<ruby>守口市<rt data-ruby-level="7">もりぐちし</rt></ruby>、<ruby>大東市<rt
+  data-ruby-level="2">だいとうし</rt></ruby>、<ruby>四條畷市<rt data-ruby-level="8">しじょうなわてし</rt></ruby>、<ruby>豊能町<rt
+  data-ruby-level="8">とよのちょう</rt></ruby>、<ruby>能勢町<rt data-ruby-level="8">のせちょう</rt></ruby>、<ruby>兵庫県<rt
+  data-ruby-level="7">ひょうごけん</rt></ruby>の<ruby>尼崎市<rt data-ruby-level="8">あまがさきし</rt></ruby>、<ruby>西宮市<rt
+  data-ruby-level="8">にしのみやし</rt></ruby>、<ruby>伊丹市<rt data-ruby-level="8">いたみし</rt></ruby>、<ruby>川西市<rt
+  data-ruby-level="2">かわにしし</rt></ruby>、<ruby>奈良県<rt data-ruby-level="8">ならけん</rt></ruby>の<ruby>大和郡山市<rt
+  data-ruby-level="8">やまとこおりやまし</rt></ruby>、<ruby>御所市<rt data-ruby-level="8">ごせし</rt></ruby>、<ruby>高取町<rt
+  data-ruby-level="3">たかとりちょう</rt></ruby>、<ruby>広陵町<rt data-ruby-level="7">こうりょうちょう</rt></ruby>でした。<br
+  /><br />このほか、<ruby>近畿<rt data-ruby-level="7">きんき</rt></ruby>、<ruby>東海<rt data-ruby-level="2">とうかい</rt></ruby>、<ruby>四国<rt
+  data-ruby-level="2">しこく</rt></ruby>、<ruby>中国地方<rt data-ruby-level="2">ちゅうごくちほう</rt></ruby>の<ruby>各地<rt
+  data-ruby-level="4">かくち</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>４や３の<ruby>揺<rt
+  data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>し<ruby>関東<rt
+  data-ruby-level="4">かんとう</rt></ruby>や<ruby>九州<rt data-ruby-level="3">きゅうしゅう</rt></ruby>でも<ruby>震度<rt
+  data-ruby-level="7">しんど</rt></ruby>２や１の<ruby>揺<rt data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>しました。<br /><br /><ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>の<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>によりますと、<ruby>震源地<rt data-ruby-level="7">しんげんち</rt></ruby>は<ruby>大阪府<rt
+  data-ruby-level="8">おおさかふ</rt></ruby><ruby>北部<rt data-ruby-level="3">ほくぶ</rt></ruby>で<ruby>震源<rt
+  data-ruby-level="7">しんげん</rt></ruby>の<ruby>深<rt data-ruby-level="3">ふか</rt></ruby>さは13キロ、<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>の<ruby>規模<rt data-ruby-level="6">きぼ</rt></ruby>を<ruby>示<rt
+  data-ruby-level="5">しめ</rt></ruby>すマグニチュードは6.1と<ruby>推定<rt data-ruby-level="6">すいてい</rt></ruby>されています。<br
+  /><br /><ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>によりますと<ruby>大阪<rt data-ruby-level="8">おおさか</rt></ruby><ruby>府内<rt
+  data-ruby-level="4">ふない</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>６<ruby>弱<rt
+  data-ruby-level="2">じゃく</rt></ruby>の<ruby>揺<rt data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>したのは<ruby>大正<rt data-ruby-level="1">たいしょう</rt></ruby>12<ruby>年<rt
+  data-ruby-level="1">ねん</rt></ruby>に<ruby>統計<rt data-ruby-level="5">とうけい</rt></ruby>を<ruby>取<rt
+  data-ruby-level="3">と</rt></ruby>り<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>めてから<ruby>初<rt
+  data-ruby-level="4">はじ</rt></ruby>めてだということです。
+source_url: https://www3.nhk.or.jp/news/html/20180618/k10011482351000.html
+related_news:
+- title: <ruby>島根県<rt data-ruby-level="3">しまねけん</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>強<rt
+    data-ruby-level="2">きょう</rt></ruby> <ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>４の<ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>も<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>く
+  url: https://newswebeasy.github.io/news/web/2018/04/09/島根県で震度5強-震度4の地震も続く
+- title: <ruby>緊急<rt data-ruby-level="7">きんきゅう</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby><ruby>速報<rt
+    data-ruby-level="5">そくほう</rt></ruby> きょうから<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby><ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>では「<ruby>続報<rt data-ruby-level="5">ぞくほう</rt></ruby>」<ruby>発表<rt
+    data-ruby-level="3">はっぴょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/03/22/緊急地震速報-きょうから巨大地震では続報発表
+...
