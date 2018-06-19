@@ -1,0 +1,41 @@
+---
+layout: web_news
+categories: web
+newsid: k10011486351000
+title: サッカーＷ杯 日本 対 コロンビア 試合開始
+title_with_ruby: サッカー<ruby>Ｗ杯<rt data-ruby-level="7">わーるどかっぷ</rt></ruby> <ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby> <ruby>対<rt data-ruby-level="3">たい</rt></ruby>
+  コロンビア <ruby>試合<rt data-ruby-level="4">しあい</rt></ruby><ruby>開始<rt data-ruby-level="3">かいし</rt></ruby>
+last_modified_at: '2018-06-19T21:03:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>06<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>19<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 21<ruby>時<rt data-ruby-level="2">じ</rt></ruby>03<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: サッカーワールドカップ ロシア大会の１次リーグの日本の初戦、コロンビア戦は、日本時間の午後９時すぎに、日本のキックオフで始まりました。
+summary: サッカーワールドカップ ロシア<ruby>大会<rt data-ruby-level="2">たいかい</rt></ruby>の１<ruby>次<rt
+  data-ruby-level="3">じ</rt></ruby>リーグの<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>初戦<rt
+  data-ruby-level="4">しょせん</rt></ruby>、コロンビア<ruby>戦<rt data-ruby-level="4">せん</rt></ruby>は、<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby><ruby>時間<rt data-ruby-level="2">じかん</rt></ruby>の<ruby>午後<rt
+  data-ruby-level="2">ごご</rt></ruby>９<ruby>時<rt data-ruby-level="2">じ</rt></ruby>すぎに、<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>のキックオフで<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/19/K10011486351_1806192133_1806192134_01_02.jpg
+source_url: https://www3.nhk.or.jp/news/html/20180619/k10011486351000.html
+related_news:
+- title: サッカー<ruby>Ｗ杯<rt data-ruby-level="7">わーるどかっぷ</rt></ruby> <ruby>最終<rt data-ruby-level="4">さいしゅう</rt></ruby>メンバー23<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby><ruby>決<rt data-ruby-level="3">き</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/web/2018/05/31/サッカーW杯-最終メンバー23人決まる
+- title: サッカー<ruby>Ｗ杯<rt data-ruby-level="7">わーるどかっぷ</rt></ruby><ruby>前<rt data-ruby-level="2">まえ</rt></ruby>にトロフィーのレプリカ<ruby>作<rt
+    data-ruby-level="2">づく</rt></ruby>り<ruby>大忙<rt data-ruby-level="7">おおいそが</rt></ruby>し
+    <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/06/07/サッカーW杯前にトロフィーのレプリカ作り大忙し-中国
+- title: サッカー<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>代表<rt data-ruby-level="3">だいひょう</rt></ruby><ruby>監督<rt
+    data-ruby-level="7">かんとく</rt></ruby>に<ruby>西野<rt data-ruby-level="2">にしの</rt></ruby><ruby>朗<rt
+    data-ruby-level="8">あきら</rt></ruby><ruby>氏<rt data-ruby-level="4">し</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/04/09/サッカー日本代表監督に西野朗氏
+- title: 「<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>は<ruby>暑<rt data-ruby-level="3">あつ</rt></ruby>い！」
+    <ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby>に<ruby>熱中症<rt data-ruby-level="7">ねっちゅうしょう</rt></ruby><ruby>注意<rt
+    data-ruby-level="3">ちゅうい</rt></ruby><ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけ
+  url: https://newswebeasy.github.io/news/web/2018/05/16/日本は暑い-外国人に熱中症注意呼びかけ
+- title: サッカー<ruby>Ｗ杯<rt data-ruby-level="7">わーるどかっぷ</rt></ruby> ロシア<ruby>大会<rt data-ruby-level="2">たいかい</rt></ruby><ruby>開幕<rt
+    data-ruby-level="6">かいまく</rt></ruby>でセレモニー
+  url: https://newswebeasy.github.io/news/web/2018/06/15/サッカーW杯-ロシア大会開幕でセレモニー
+...

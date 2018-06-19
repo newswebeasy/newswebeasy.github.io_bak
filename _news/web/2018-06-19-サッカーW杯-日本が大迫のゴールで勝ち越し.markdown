@@ -1,0 +1,43 @@
+---
+layout: web_news
+categories: web
+newsid: k10011486491000
+title: サッカーＷ杯 日本が大迫のゴールで勝ち越し
+title_with_ruby: サッカー<ruby>Ｗ杯<rt data-ruby-level="7">わーるどかっぷ</rt></ruby> <ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>が<ruby>大迫<rt data-ruby-level="8">おおはさま</rt></ruby>のゴールで<ruby>勝<rt
+  data-ruby-level="3">か</rt></ruby>ち<ruby>越<rt data-ruby-level="7">ご</rt></ruby>し
+last_modified_at: '2018-06-19T22:33:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>06<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>19<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 22<ruby>時<rt data-ruby-level="2">じ</rt></ruby>33<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: サッカーワールドカップ ロシア大会、日本 対 コロンビアの試合は、後半28分に本田圭佑選手のコーナーキックから大迫勇也選手がヘディングでゴールを決め、日本が２対１と勝ち越しました。
+summary: サッカーワールドカップ ロシア<ruby>大会<rt data-ruby-level="2">たいかい</rt></ruby>、<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby> <ruby>対<rt data-ruby-level="3">たい</rt></ruby>
+  コロンビアの<ruby>試合<rt data-ruby-level="4">しあい</rt></ruby>は、<ruby>後半<rt data-ruby-level="2">こうはん</rt></ruby>28<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>に<ruby>本田<rt data-ruby-level="1">ほんだ</rt></ruby><ruby>圭佑<rt
+  data-ruby-level="8">けいすけ</rt></ruby><ruby>選手<rt data-ruby-level="4">せんしゅ</rt></ruby>のコーナーキックから<ruby>大迫<rt
+  data-ruby-level="8">おおさこ</rt></ruby><ruby>勇也<rt data-ruby-level="8">ゆうや</rt></ruby><ruby>選手<rt
+  data-ruby-level="4">せんしゅ</rt></ruby>がヘディングでゴールを<ruby>決<rt data-ruby-level="3">き</rt></ruby>め、<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>が２<ruby>対<rt data-ruby-level="3">たい</rt></ruby>１と<ruby>勝<rt
+  data-ruby-level="7">か</rt></ruby>ち<ruby>越<rt data-ruby-level="7">こ</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/19/K10011486491_1806192238_1806192239_01_02.jpg
+source_url: https://www3.nhk.or.jp/news/html/20180619/k10011486491000.html
+related_news:
+- title: サッカー<ruby>Ｗ杯<rt data-ruby-level="7">わーるどかっぷ</rt></ruby> <ruby>最終<rt data-ruby-level="4">さいしゅう</rt></ruby>メンバー23<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby><ruby>決<rt data-ruby-level="3">き</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/web/2018/05/31/サッカーW杯-最終メンバー23人決まる
+- title: サッカー<ruby>Ｗ杯<rt data-ruby-level="7">わーるどかっぷ</rt></ruby><ruby>開幕戦<rt data-ruby-level="6">かいまくせん</rt></ruby>
+    ロシアがサウジアラビアに<ruby>勝利<rt data-ruby-level="4">しょうり</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/06/15/サッカーW杯開幕戦-ロシアがサウジアラビアに勝利
+- title: サッカー<ruby>W杯<rt data-ruby-level="7">わーるどかっぷ</rt></ruby> アイスランドが<ruby>歴史的<rt
+    data-ruby-level="4">れきしてき</rt></ruby>な<ruby>勝<rt data-ruby-level="3">か</rt></ruby>ち<ruby>点<rt
+    data-ruby-level="3">てん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/06/17/サッカーW杯-アイスランドが歴史的な勝ち点
+- title: サッカースペイン<ruby>代表<rt data-ruby-level="3">だいひょう</rt></ruby> イニエスタ Ｊ１<ruby>神戸<rt
+    data-ruby-level="8">こうべ</rt></ruby>に<ruby>移籍<rt data-ruby-level="7">いせき</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2018/05/23/サッカースペイン代表-イニエスタ-J1神戸に移籍へ
+- title: サッカー<ruby>Ｗ杯<rt data-ruby-level="7">わーるどかっぷ</rt></ruby> ポルトガル<ruby>対<rt data-ruby-level="3">たい</rt></ruby>スペインは３<ruby>対<rt
+    data-ruby-level="3">たい</rt></ruby>３で<ruby>引<rt data-ruby-level="2">ひ</rt></ruby>き<ruby>分<rt
+    data-ruby-level="2">わ</rt></ruby>け
+  url: https://newswebeasy.github.io/news/web/2018/06/16/サッカーW杯-ポルトガル対スペインは3対3で引き分け
+...
