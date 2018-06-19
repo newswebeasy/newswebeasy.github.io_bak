@@ -1,0 +1,81 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011481241000
+last_modified_at: '2018-06-19T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 気象庁のウェブサイトの右側にある「この雨大丈夫？そんな時　危険度分布」をクリックすると、川に色がついている日本の地図が出てきます。
+title: 「川の危険を知らせる色が薄い紫になったら避難を考えて」
+title_with_ruby: 「<ruby>川<rt>かわ</rt></ruby>の<ruby>危険<rt>きけん</rt></ruby>を<ruby>知<rt>し</rt></ruby>らせる<ruby>色<rt>いろ</rt></ruby>が<ruby>薄<rt>うす</rt></ruby>い<ruby>紫<rt>むらさき</rt></ruby>になったら<ruby>避難<rt>ひなん</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えて」
+outline: 気象庁のウェブサイトの右側にある「この雨大丈夫？そんな時　危険度分布」をクリックすると、川に色がついている日本の地図が出てきます。
+outline_with_ruby: <ruby>気象庁<rt>きしょうちょう</rt></ruby>のウェブサイトの<ruby>右側<rt>みぎがわ</rt></ruby>にある「この<ruby>雨<rt>あめ</rt></ruby><ruby>大丈夫<rt>だいじょうぶ</rt></ruby>？そんな<ruby>時<rt>とき</rt></ruby>　<ruby>危険度<rt>きけんど</rt></ruby><ruby>分布<rt>ぶんぷ</rt></ruby>」をクリックすると、<ruby>川<rt>かわ</rt></ruby>に<ruby>色<rt>いろ</rt></ruby>がついている<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>地図<rt>ちず</rt></ruby>が<ruby>出<rt>で</rt></ruby>てきます。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/17/K10011481241_1806170803_1806170807_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/19/k10011481241000.mp4
+content_with_ruby: "<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>の<span style=\"color: blue;\"\
+  >ウェブサイト</span>の<ruby>右側<rt>みぎがわ</rt></ruby>にある「この<ruby>雨<rt>あめ</rt></ruby><ruby>大丈夫<rt>だいじょうぶ</rt></ruby>？そんな<ruby>時<rt>とき</rt></ruby>\
+  \ <ruby>危険度<rt>きけんど</rt></ruby><ruby>分布<rt>ぶんぷ</rt></ruby>」を<span style=\"color:\
+  \ blue;\">クリック</span>すると、<ruby>川<rt>かわ</rt></ruby>に<ruby>色<rt>いろ</rt></ruby>がついている<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>地図<rt>ちず</rt></ruby>が<ruby>出<rt>で</rt></ruby>てきます。<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>ると、<ruby>川<rt>かわ</rt></ruby>の<ruby>色<rt>いろ</rt></ruby>が<ruby>変<rt>か</rt></ruby>わって、どのくらい<ruby>危険<rt>きけん</rt></ruby>になるか<ruby>知<rt>し</rt></ruby>らせます。１<ruby>番<rt>ばん</rt></ruby><ruby>危険<rt>きけん</rt></ruby>な<ruby>場合<rt>ばあい</rt></ruby>は「<span\
+  \ style=\"color: blue;\"><ruby>濃<rt>こ</rt></ruby>い</span><span style=\"color: blue;\"\
+  ><ruby>紫<rt>むらさき</rt></ruby></span>」で、そのあと「<ruby>薄<rt>うす</rt></ruby>い<span style=\"\
+  color: blue;\"><ruby>紫<rt>むらさき</rt></ruby></span>」「<ruby>赤<rt>あか</rt></ruby>」「<ruby>黄色<rt>きいろ</rt></ruby>」「<span\
+  \ style=\"color: blue;\"><ruby>水色<rt>みずいろ</rt></ruby></span>」の<span style=\"color:\
+  \ blue;\"><ruby>順番<rt>じゅんばん</rt></ruby></span>になっています。</p>\n<p><ruby>去年<rt>きょねん</rt></ruby>、<ruby>九州<rt>きゅうしゅう</rt></ruby>と<ruby>秋田県<rt>あきたけん</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>がありました。<ruby>気象庁<rt>きしょうちょう</rt></ruby>は、その<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>と<ruby>危険<rt>きけん</rt></ruby>を<ruby>知<rt>し</rt></ruby>らせた<ruby>色<rt>いろ</rt></ruby>を<ruby>比<rt>くら</rt></ruby>べました。１<ruby>番<rt>ばん</rt></ruby><ruby>危険<rt>きけん</rt></ruby>な「<span\
+  \ style=\"color: blue;\"><ruby>濃<rt>こ</rt></ruby>い</span><span style=\"color: blue;\"\
+  ><ruby>紫<rt>むらさき</rt></ruby></span>」だった９７の<ruby>川<rt>かわ</rt></ruby>のうち６７で、<ruby>川<rt>かわ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<span\
+  \ style=\"color: blue;\">あふれ</span>たり<span style=\"color: blue;\"><ruby>堤防<rt>ていぼう</rt></ruby></span>が<ruby>壊<rt>こわ</rt></ruby>れたりしたことがわかりました。「<span\
+  \ style=\"color: blue;\"><ruby>濃<rt>こ</rt></ruby>い</span><span style=\"color: blue;\"\
+  ><ruby>紫<rt>むらさき</rt></ruby></span>」になる<ruby>前<rt>まえ</rt></ruby>でも、<ruby>川<rt>かわ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<span\
+  \ style=\"color: blue;\">あふれ</span>て<span style=\"color: blue;\"><ruby>避難<rt>ひなん</rt></ruby></span>が<ruby>難<rt>むずか</rt></ruby>しかった<ruby>場合<rt>ばあい</rt></ruby>がありました。</p>\n\
+  <p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は、<ruby>地図<rt>ちず</rt></ruby>の<ruby>川<rt>かわ</rt></ruby>の<ruby>色<rt>いろ</rt></ruby>が２<ruby>番目<rt>ばんめ</rt></ruby>に<ruby>危険<rt>きけん</rt></ruby>な「<ruby>薄<rt>うす</rt></ruby>い<span\
+  \ style=\"color: blue;\"><ruby>紫<rt>むらさき</rt></ruby></span>」になったら、すぐに<span style=\"\
+  color: blue;\"><ruby>避難<rt>ひなん</rt></ruby></span>を<ruby>考<rt>かんが</rt></ruby>えてほしいと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 紫
+  descriptions:
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>と<ruby><rb>青</rb><rt>あお</rt></ruby>の<ruby><rb>混</rb><rt>ま</rt></ruby>じった<ruby><rb>色</rb><rt>いろ</rt></ruby>。
+  - <ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>小花</rb><rt>こばな</rt></ruby>をつける<ruby><rb>草</rb><rt>くさ</rt></ruby>。<ruby><rb>根</rb><rt>ね</rt></ruby>からむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>染料</rb><rt>せんりょう</rt></ruby>をとる。
+  - 「しょうゆ」の<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>方</rb><rt>かた</rt></ruby>。
+- word: 避難
+  descriptions:
+  - <ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。
+- word: ウェブサイト
+  descriptions:
+  - インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。
+- word: クリック
+  descriptions:
+  - マウスなどの<ruby><rb>入力装置</rb><rt>にゅうりょくそうち</rt></ruby>のボタンをおすこと。二<ruby><rb>回</rb><rt>かい</rt></ruby><ruby><rb>続</rb><rt>つづ</rt></ruby>けておすことをダブルクリックという。
+- word: 濃い
+  descriptions:
+  - <ruby><rb>色合</rb><rt>いろあ</rt></ruby>いや<ruby><rb>味</rb><rt>あじ</rt></ruby>などが<ruby><rb>強</rb><rt>つよ</rt></ruby>い。
+  - <ruby><rb>中</rb><rt>なか</rt></ruby>にふくまれているものの、<ruby><rb>度合</rb><rt>どあ</rt></ruby>いが<ruby><rb>高</rb><rt>たか</rt></ruby>い。
+  - びっしりとすき<ruby><rb>間</rb><rt>ま</rt></ruby>がない。
+  - そのような<ruby><rb>感</rb><rt>かん</rt></ruby>じが<ruby><rb>強</rb><rt>つよ</rt></ruby>い。
+- word: 水色
+  descriptions:
+  - うすい<ruby><rb>青色</rb><rt>あおいろ</rt></ruby>。<ruby><rb>空色</rb><rt>そらいろ</rt></ruby>。
+- word: 順番
+  descriptions:
+  - <ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>に<ruby><rb>従</rb><rt>したが</rt></ruby>ってすること。また、その<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>。
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: あふれる
+  descriptions:
+  - いっぱいになって、こぼれる。
+  - <ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。
+- word: 堤防
+  descriptions:
+  - <ruby><rb>川</rb><rt>かわ</rt></ruby>や<ruby><rb>海</rb><rt>うみ</rt></ruby>があふれないように、<ruby><rb>川岸</rb><rt>かわぎし</rt></ruby>や<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>に、<ruby><rb>石</rb><rt>いし</rt></ruby>やコンクリートなどで<ruby><rb>築</rb><rt>きず</rt></ruby>いたもの。つつみ。<ruby><rb>土手</rb><rt>どて</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011481241000/k10011481241000.html
+web_title_with_ruby: <ruby>気象庁<rt>きしょうちょう</rt></ruby>「<ruby>洪水<rt>こうずい</rt></ruby><ruby>警報<rt>けいほう</rt></ruby>の<ruby>危険度<rt>きけんど</rt></ruby><ruby>分布<rt>ぶんぷ</rt></ruby>」<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>避難<rt>ひなん</rt></ruby>の<ruby>目安<rt>めやす</rt></ruby>に
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/17/気象庁洪水警報の危険度分布情報を避難の目安に
+related_news:
+- title: <ruby>暖<rt>あたた</rt></ruby>かかった３<ruby>月<rt>がつ</rt></ruby>　<ruby>東日本<rt>ひがしにほん</rt></ruby>では<ruby>平均<rt>へいきん</rt></ruby><ruby>気温<rt>きおん</rt></ruby>が<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>かった
+  url: https://newswebeasy.github.io/news/easy/2018/04/03/暖かかった3月-東日本では平均気温が今までで最も高かった
+- title: <ruby>気象庁<rt>きしょうちょう</rt></ruby>　５<ruby>月<rt>がつ</rt></ruby>から７<ruby>月<rt>がつ</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>くて<ruby>梅雨<rt>つゆ</rt></ruby>には<ruby>雨<rt>あめ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなりそう
+  url: https://newswebeasy.github.io/news/easy/2018/04/27/気象庁-5月から7月は暑くて梅雨には雨が多くなりそう
+...

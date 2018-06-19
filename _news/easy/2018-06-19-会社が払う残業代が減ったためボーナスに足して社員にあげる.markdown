@@ -1,0 +1,84 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011481191000
+last_modified_at: '2018-06-19T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>19<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 社員が長い時間働きすぎないようにするために、会社はいろいろな方法を考えています。
+title: 会社が払う残業代が減ったためボーナスに足して社員にあげる
+title_with_ruby: <ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>払<rt>はら</rt></ruby>う<ruby>残業<rt>ざんぎょう</rt></ruby><ruby>代<rt>だい</rt></ruby>が<ruby>減<rt>へ</rt></ruby>ったためボーナスに<ruby>足<rt>た</rt></ruby>して<ruby>社員<rt>しゃいん</rt></ruby>にあげる
+outline: 社員が長い時間働きすぎないようにするために、会社はいろいろな方法を考えています。
+outline_with_ruby: <ruby>社員<rt>しゃいん</rt></ruby>が<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby><ruby>働<rt>はたら</rt></ruby>きすぎないようにするために、<ruby>会社<rt>かいしゃ</rt></ruby>はいろいろな<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えています。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/17/K10011481191_1806162330_1806170538_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/19/k10011481191000.mp4
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>が<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby><ruby>働<rt>はたら</rt></ruby>きすぎないようにするために、<ruby>会社<rt>かいしゃ</rt></ruby>はいろいろな<span\
+  \ style=\"color: blue;\"><ruby>方法<rt>ほうほう</rt></ruby></span>を<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p>「アルプス<ruby>電気<rt>でんき</rt></ruby>」は、<span style=\"color: blue;\"><ruby>残業<rt>ざんぎょう</rt></ruby></span>の<ruby>時間<rt>じかん</rt></ruby>を<ruby>短<rt>みじか</rt></ruby>くしたため、<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>払<rt>はら</rt></ruby>う<span\
+  \ style=\"color: blue;\"><ruby>残業<rt>ざんぎょう</rt></ruby></span><ruby>代<rt>だい</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>減<rt>へ</rt></ruby>り</span>ました。このため<ruby>会社<rt>かいしゃ</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>減<rt>へ</rt></ruby>っ</span>た<span style=\"color: blue;\"\
+  ><ruby>残業<rt>ざんぎょう</rt></ruby></span><ruby>代<rt>だい</rt></ruby>の<span style=\"color:\
+  \ blue;\"><ruby>約<rt>やく</rt></ruby></span>３３％を、<ruby>夏<rt>なつ</rt></ruby>の<span style=\"\
+  color: blue;\">ボーナス</span>に<ruby>足<rt>た</rt></ruby>して<span style=\"color: blue;\"\
+  ><ruby>社員<rt>しゃいん</rt></ruby></span>にあげることを<ruby>決<rt>き</rt></ruby>めました。</p>\n<p>「はるやまホールディングス」は、１か<ruby>月<rt>げつ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>残業<rt>ざんぎょう</rt></ruby></span>しなかった<ruby>場合<rt>ばあい</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>社員<rt>しゃいん</rt></ruby></span>に１<ruby>万<rt>まん</rt></ruby>５０００<ruby>円<rt>えん</rt></ruby>あげています。２０１７<span\
+  \ style=\"color: blue;\"><ruby>年度<rt>ねんど</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>残業<rt>ざんぎょう</rt></ruby></span>の<ruby>時間<rt>じかん</rt></ruby>は、<ruby>前<rt>まえ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>年度<rt>ねんど</rt></ruby></span>より１７％<ruby>短<rt>みじか</rt></ruby>くなったと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>「<ruby>三菱電機<rt>みつびしでんき</rt></ruby>」は、<span style=\"color: blue;\"><ruby>給料<rt>きゅうりょう</rt></ruby></span>をもらうことができる「<ruby>有給休暇<rt>ゆうきゅうきゅうか</rt></ruby>」という<ruby>休<rt>やす</rt></ruby>みを、<ruby>例<rt>たと</rt></ruby>えば２<ruby>時間<rt>じかん</rt></ruby>など<ruby>細<rt>こま</rt></ruby>かい<ruby>時間<rt>じかん</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>分<rt>わ</rt></ruby>け</span>て<ruby>取<rt>と</rt></ruby>ることができるようにします。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 残業
+  descriptions:
+  - <ruby><rb>決</rb><rt>き</rt></ruby>められた<ruby><rb>時間</rb><rt>じかん</rt></ruby>のあと、<ruby><rb>残</rb><rt>のこ</rt></ruby>って<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をすること。
+- word: 減る
+  descriptions:
+  - <ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。
+  - すく。
+- word: ボーナス
+  descriptions:
+  - <ruby><rb>給料</rb><rt>きゅうりょう</rt></ruby>のほかに、<ruby><rb>夏</rb><rt>なつ</rt></ruby>と<ruby><rb>年末</rb><rt>ねんまつ</rt></ruby>などに<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>にもらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>賞与</rb><rt>しょうよ</rt></ruby>。
+- word: 社員
+  descriptions:
+  - その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。
+- word: 方法
+  descriptions:
+  - ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。
+- word: 減る
+  descriptions:
+  - <ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。
+  - すく。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 年度
+  descriptions:
+  - <ruby><rb>仕事</rb><rt>しごと</rt></ruby>のつごうで<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>一年</rb><rt>いちねん</rt></ruby>の<ruby><rb>期間</rb><rt>きかん</rt></ruby>。ふつう４<ruby><rb>月</rb><rt>がつ</rt></ruby><ruby><rb>１日</rb><rt>ついたち</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まり、<ruby><rb>翌年</rb><rt>よくねん</rt></ruby>の３<ruby><rb>月</rb><rt>がつ</rt></ruby>３１<ruby><rb>日</rb><rt>にち</rt></ruby>に<ruby><rb>終</rb><rt>お</rt></ruby>わる。
+- word: 給料
+  descriptions:
+  - やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。
+- word: 分ける
+  descriptions:
+  - <ruby><rb>別々</rb><rt>べつべつ</rt></ruby>にする。はなす。
+  - <ruby><rb>配</rb><rt>くば</rt></ruby>る。<ruby><rb>分配</rb><rt>ぶんぱい</rt></ruby>する。
+  - <ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>に、おし<ruby><rb>開</rb><rt>ひら</rt></ruby>く。
+  - <ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>分</rb><rt>わ</rt></ruby>けにする。
+  - <ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011481191000/k10011481191000.html
+web_title_with_ruby: <ruby>働<rt>はたら</rt></ruby>き<ruby>方<rt>かた</rt></ruby><ruby>改革<rt>かいかく</rt></ruby>で<ruby>減<rt>へ</rt></ruby>った<ruby>残業代<rt>ざんぎょうだい</rt></ruby>を<ruby>ボーナス<rt>ぼーなす</rt></ruby>に
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/17/働き方改革で減った残業代をボーナスに
+related_news:
+- title: <ruby>会社員<rt>かいしゃいん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>のボーナスが３<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>増<rt>ふ</rt></ruby>えそう
+  url: https://newswebeasy.github.io/news/easy/2018/04/17/会社員の夏のボーナスが3年続けて増えそう
+- title: <ruby>多<rt>おお</rt></ruby>くの<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>社員<rt>しゃいん</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>える<ruby>入社式<rt>にゅうしゃしき</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/04/03/多くの会社が新しい社員を迎える入社式を行う
+- title: <ruby>東京<rt>とうきょう</rt></ruby>オリンピックで<ruby>道<rt>みち</rt></ruby>や<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>混<rt>こ</rt></ruby>まないように<ruby>考<rt>かんが</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2018/04/26/東京オリンピックで道や電車が混まないように考える
+- title: アップル　スマートフォンを<ruby>使<rt>つか</rt></ruby>いすぎないようにする<ruby>機能<rt>きのう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/06/06/アップル-スマートフォンを使いすぎないようにする機能
+...
