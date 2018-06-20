@@ -1,0 +1,75 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011483941000
+last_modified_at: '2018-06-20T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 今年７月２０日は「土用のうしの日」です。
+title: うなぎが高い　代わりに「さばのかば焼き」や牛肉も売る
+title_with_ruby: うなぎが<ruby>高<rt>たか</rt></ruby>い　<ruby>代<rt>か</rt></ruby>わりに「さばのかば<ruby>焼<rt>や</rt></ruby>き」や<ruby>牛肉<rt>ぎゅうにく</rt></ruby>も<ruby>売<rt>う</rt></ruby>る
+outline: 今年７月２０日は「土用のうしの日」です。
+outline_with_ruby: <ruby>今年<rt>ことし</rt></ruby>７<ruby>月<rt>がつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>は「<ruby>土用<rt>どよう</rt></ruby>のうしの<ruby>日<rt>ひ</rt></ruby>」です。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/18/K10011483941_1806181916_1806181918_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/20/k10011483941000.mp4
+content_with_ruby: "<p><ruby>今年<rt>ことし</rt></ruby>７<ruby>月<rt>がつ</rt></ruby><ruby>２０日<rt>はつか</rt></ruby>は「<ruby>土用<rt>どよう</rt></ruby>のうしの<ruby>日<rt>ひ</rt></ruby>」です。<ruby>日本<rt>にっぽん</rt></ruby>ではこの<ruby>日<rt>ひ</rt></ruby>に<span\
+  \ style=\"color: blue;\">うなぎ</span>を<ruby>食<rt>た</rt></ruby>べる<ruby>習慣<rt>しゅうかん</rt></ruby>があります。しかし、<span\
+  \ style=\"color: blue;\">うなぎ</span>は<ruby>少<rt>すく</rt></ruby>なくなっているため、<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなっています。</p>\n\
+  <p>スーパーのイオンは<ruby>今年<rt>ことし</rt></ruby>、<ruby>値段<rt>ねだん</rt></ruby>が<ruby>安<rt>やす</rt></ruby>いインドネシアの<span\
+  \ style=\"color: blue;\">うなぎ</span>をたくさん<ruby>売<rt>う</rt></ruby>ることにしました。そして、<span\
+  \ style=\"color: blue;\">うなぎ</span>のかば<ruby>焼<rt>や</rt></ruby>きのほかに、<span style=\"\
+  color: blue;\">さば</span>のかば<ruby>焼<rt>や</rt></ruby>きを<ruby>初<rt>はじ</rt></ruby>めて<ruby>売<rt>う</rt></ruby>ることにしました。かば<ruby>焼<rt>や</rt></ruby>きは、<ruby>魚<rt>さかな</rt></ruby>にしょうゆの<span\
+  \ style=\"color: blue;\">たれ</span>を<span style=\"color: blue;\">つけ</span>て<ruby>焼<rt>や</rt></ruby>いた<ruby>料理<rt>りょうり</rt></ruby>です。</p>\n\
+  <p>らでぃっしゅぼーやという<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>家<rt>いえ</rt></ruby>に<ruby>届<rt>とど</rt></ruby>ける<span\
+  \ style=\"color: blue;\">サービス</span>をしています。この<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>、<ruby>牛肉<rt>ぎゅうにく</rt></ruby>のステーキや、<span\
+  \ style=\"color: blue;\">ビタミン</span>が<ruby>多<rt>おお</rt></ruby>い<span style=\"color:\
+  \ blue;\">しじみ</span>なども<ruby>売<rt>う</rt></ruby>ることにしました。<ruby>会社<rt>かいしゃ</rt></ruby>は、<ruby>昔<rt>むかし</rt></ruby>の「<ruby>土用<rt>どよう</rt></ruby>のうしの<ruby>日<rt>ひ</rt></ruby>」は、<span\
+  \ style=\"color: blue;\">うなぎ</span>のほかにも<ruby>体<rt>からだ</rt></ruby>が<ruby>元気<rt>げんき</rt></ruby>になる<ruby>物<rt>もの</rt></ruby>を<ruby>食<rt>た</rt></ruby>べていたと<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 鰻
+  descriptions:
+  - <ruby><rb>川</rb><rt>かわ</rt></ruby>やぬまにすむ、ぬるぬるした<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>海</rb><rt>うみ</rt></ruby>で<ruby><rb>卵</rb><rt>たまご</rt></ruby>からかえり、<ruby><rb>川</rb><rt>かわ</rt></ruby>に<ruby><rb>上</rb><rt>のぼ</rt></ruby>ってくる。かば<ruby><rb>焼</rb><rt>や</rt></ruby>きなどにして<ruby><rb>食</rb><rt>た</rt></ruby>べる。
+- word: 鯖
+  descriptions:
+  - <ruby><rb>暖</rb><rt>あたた</rt></ruby>かい<ruby><rb>海</rb><rt>うみ</rt></ruby>に<ruby><rb>群</rb><rt>む</rt></ruby>れを<ruby><rb>作</rb><rt>つく</rt></ruby>ってすむ<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にする。
+- word: 垂れ
+  descriptions:
+  - <ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>をつけて<ruby><rb>食</rb><rt>た</rt></ruby>べる、<ruby><rb>味</rb><rt>あじ</rt></ruby>のこいしる。
+  - <ruby><rb>漢字</rb><rt>かんじ</rt></ruby>を<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てる<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。「<ruby><rb>原</rb><rt>げん</rt></ruby>」の「厂」や「<ruby><rb>病</rb><rt>びょう</rt></ruby>」の「⽧」など、<ruby><rb>上</rb><rt>うえ</rt></ruby>から<ruby><rb>左</rb><rt>ひだり</rt></ruby>のほうに<ruby><rb>垂</rb><rt>た</rt></ruby>れる<ruby><rb>形</rb><rt>かたち</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>で、<ruby><rb>部首</rb><rt>ぶしゅ</rt></ruby>ともなる。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: ビタミン
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>を<ruby><rb>整</rb><rt>ととの</rt></ruby>えるはたらきをする、なくてはならない<ruby><rb>栄養素</rb><rt>えいようそ</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。ビタミン<ruby><rb>A</rb><rt>エー</rt></ruby>、ビタミン<ruby><rb>B<span
+    class="dic_sub">1</span></rb><rt>ビーワン</rt></ruby>・<ruby><rb>B<span class="dic_sub">2</span></rb><rt>ビーツー</rt></ruby>、ビタミン<ruby><rb>C</rb><rt>シー</rt></ruby>など、<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: 蜆
+  descriptions:
+  - <ruby><rb>川</rb><rt>かわ</rt></ruby>や<ruby><rb>湖</rb><rt>みずうみ</rt></ruby>にすむ<ruby><rb>黒</rb><rt>くろ</rt></ruby>くて<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>二枚貝</rb><rt>にまいがい</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011483941000/k10011483941000.html
+web_title_with_ruby: <ruby>高騰<rt>こうとう</rt></ruby><ruby>続<rt>つづ</rt></ruby>くうなぎ <ruby>土用<rt>どよう</rt></ruby>の<ruby>丑<rt>うし</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に<ruby>向<rt>む</rt></ruby>け<ruby>代替<rt>だいたい</rt></ruby><ruby>食材<rt>しょくざい</rt></ruby><ruby>模索<rt>もさく</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/18/高騰続くうなぎ-土用の丑の日に向け代替食材模索
+related_news:
+- title: ４<ruby>月<rt>がつ</rt></ruby>から<ruby>食料品<rt>しょくりょうひん</rt></ruby>などの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がる
+  url: https://newswebeasy.github.io/news/easy/2018/04/02/4月から食料品などの値段が上がる
+- title: <ruby>会社員<rt>かいしゃいん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>のボーナスが３<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>増<rt>ふ</rt></ruby>えそう
+  url: https://newswebeasy.github.io/news/easy/2018/04/17/会社員の夏のボーナスが3年続けて増えそう
+- title: <ruby>武田薬品<rt>たけだやくひん</rt></ruby>がアイルランドの<ruby>会社<rt>かいしゃ</rt></ruby>を６<ruby>兆<rt>ちょう</rt></ruby>８０００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>で<ruby>買<rt>か</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/05/10/武田薬品がアイルランドの会社を6兆8000億円で買う
+- title: <ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>に<ruby>就職<rt>しゅうしょく</rt></ruby>する<ruby>大学生<rt>だいがくせい</rt></ruby>の<ruby>面接<rt>めんせつ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/06/01/来年の春に就職する大学生の面接が始まる
+...

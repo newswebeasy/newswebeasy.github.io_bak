@@ -1,0 +1,57 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011487481000
+last_modified_at: '2018-06-20T17:10:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>20<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>10<ruby>分<rt>ふん</rt></ruby>
+description: １８日に大きな地震があった大阪府高槻市で、被害があった家の片づけなどを手伝うボランティアの受け付けが２０日から始まりました。
+title: 地震があった大阪府高槻市でボランティアの受け付け
+title_with_ruby: <ruby>地震<rt>じしん</rt></ruby>があった<ruby>大阪府<rt>おおさかふ</rt></ruby><ruby>高槻市<rt>たかつきし</rt></ruby>でボランティアの<ruby>受<rt>う</rt></ruby>け<ruby>付<rt>つ</rt></ruby>け
+outline: １８日に大きな地震があった大阪府高槻市で、被害があった家の片づけなどを手伝うボランティアの受け付けが２０日から始まりました。
+outline_with_ruby: １８<ruby>日<rt>にち</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>があった<ruby>大阪府<rt>おおさかふ</rt></ruby><ruby>高槻市<rt>たかつきし</rt></ruby>で、<ruby>被害<rt>ひがい</rt></ruby>があった<ruby>家<rt>いえ</rt></ruby>の<ruby>片<rt>かた</rt></ruby>づけなどを<ruby>手伝<rt>てつだ</rt></ruby>うボランティアの<ruby>受<rt>う</rt></ruby>け<ruby>付<rt>つ</rt></ruby>けが<ruby>２０日<rt>はつか</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まりました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/20/K10011487481_1806201242_1806201306_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/20/k10011487481000.mp4
+content_with_ruby: "<p>１８<ruby>日<rt>にち</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>があった<ruby>大阪府<rt>おおさかふ</rt></ruby><ruby>高槻市<rt>たかつきし</rt></ruby>で、<span\
+  \ style=\"color: blue;\"><ruby>被害<rt>ひがい</rt></ruby></span>があった<ruby>家<rt>いえ</rt></ruby>の<ruby>片<rt>かた</rt></ruby>づけなどを<ruby>手伝<rt>てつだ</rt></ruby>う<span\
+  \ style=\"color: blue;\">ボランティア</span>の<span style=\"color: blue;\"><ruby>受<rt>う</rt></ruby>け<ruby>付<rt>つ</rt></ruby>け</span>が<ruby>２０日<rt>はつか</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まりました。</p>\n\
+  <p><ruby>高槻市<rt>たかつきし</rt></ruby>の<ruby>地域<rt>ちいき</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>会館<rt>かいかん</rt></ruby>には<span\
+  \ style=\"color: blue;\">ボランティア</span>をしたい<ruby>人<rt>ひと</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まりました。<ruby>市<rt>し</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>職員<rt>しょくいん</rt></ruby></span>は、どんな<ruby>手伝<rt>てつだ</rt></ruby>いを<ruby>何<rt>なん</rt></ruby><ruby>日<rt>にち</rt></ruby>ぐらいできるか<ruby>聞<rt>き</rt></ruby>いていました。１８<ruby>歳<rt>さい</rt></ruby>の<ruby>大学生<rt>だいがくせい</rt></ruby>は「<ruby>困<rt>こま</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>の<ruby>手伝<rt>てつだ</rt></ruby>いをしたいと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><span style=\"color: blue;\">ボランティア</span>に<ruby>来<rt>き</rt></ruby>てほしい<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>受<rt>う</rt></ruby>け<ruby>付<rt>つ</rt></ruby>け</span>もしています。<ruby>雨<rt>あめ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>らないように<ruby>家<rt>いえ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>屋根<rt>やね</rt></ruby></span>に<span style=\"color:\
+  \ blue;\">シート</span>をかけてほしいという<ruby>人<rt>ひと</rt></ruby>もいました。</p>\n<p></p>\n<p></p>"
+words:
+- word: ボランティア
+  descriptions:
+  - <ruby><rb>社会</rb><rt>しゃかい</rt></ruby>のために、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>から<ruby><rb>進</rb><rt>すす</rt></ruby>んで、<ruby><rb>無料</rb><rt>むりょう</rt></ruby>で<ruby><rb>奉仕活動</rb><rt>ほうしかつどう</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 受け付け・
+  descriptions:
+  - <ruby><rb>申</rb><rt>もう</rt></ruby>しこみなどを<ruby><rb>受</rb><rt>う</rt></ruby>けること。
+  - <ruby><rb>訪</rb><rt>たず</rt></ruby>ねてきた<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>用事</rb><rt>ようじ</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>次</rb><rt>つ</rt></ruby>いだりする<ruby><rb>所</rb><rt>ところ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 被害
+  descriptions:
+  - <ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。
+- word: 職員
+  descriptions:
+  - <ruby><rb>役所</rb><rt>やくしょ</rt></ruby>・<ruby><rb>学校</rb><rt>がっこう</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などに<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 屋根
+  descriptions:
+  - <ruby><rb>雨</rb><rt>あめ</rt></ruby>などを<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために、<ruby><rb>家</rb><rt>いえ</rt></ruby>をおおうもの。
+  - <ruby><rb>上</rb><rt>うえ</rt></ruby>をおおうもの。
+  - いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。
+- word: シート
+  descriptions:
+  - <ruby><rb>一枚</rb><rt>いちまい</rt></ruby>の<ruby><rb>紙</rb><rt>かみ</rt></ruby>。
+  - おおいなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>布</rb><rt>ぬの</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011487481000/k10011487481000.html
+web_title_with_ruby: <ruby>災害<rt>さいがい</rt></ruby><ruby>ボランティア<rt>ぼらんてぃあ</rt></ruby>の<ruby>受<rt>う</rt></ruby>け<ruby>付<rt>つ</rt></ruby>け<ruby>始<rt>はじ</rt></ruby>まる
+  <ruby>大阪<rt>おおさか</rt></ruby> <ruby>高槻<rt>たかつき</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/20/災害ボランティアの受け付け始まる-大阪-高槻
+related_news:
+- title: <ruby>東京<rt>とうきょう</rt></ruby>オリンピック　ボランティアをしたい<ruby>人<rt>ひと</rt></ruby>は１５％
+  url: https://newswebeasy.github.io/news/easy/2018/06/08/東京オリンピック-ボランティアをしたい人は15
+- title: <ruby>来年<rt>らいねん</rt></ruby>のラグビーのワールドカップ　ボランティアを<ruby>集<rt>あつ</rt></ruby>める
+  url: https://newswebeasy.github.io/news/easy/2018/04/24/来年のラグビーのワールドカップ-ボランティアを集める
+...
