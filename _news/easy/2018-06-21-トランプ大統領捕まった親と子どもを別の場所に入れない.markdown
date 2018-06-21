@@ -1,0 +1,65 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011488981000
+last_modified_at: '2018-06-21T19:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>21<ruby>日<rt>にち</rt></ruby>
+  19<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: アメリカでは最近、法律に違反してメキシコとの間の国境から来た人たちが捕まって、親と子どもが別の場所に入れられています。
+title: トランプ大統領「捕まった親と子どもを別の場所に入れない」
+title_with_ruby: トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>「<ruby>捕<rt>つか</rt></ruby>まった<ruby>親<rt>おや</rt></ruby>と<ruby>子<rt>こ</rt></ruby>どもを<ruby>別<rt>べつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れない」
+outline: アメリカでは最近、法律に違反してメキシコとの間の国境から来た人たちが捕まって、親と子どもが別の場所に入れられています。
+outline_with_ruby: アメリカでは<ruby>最近<rt>さいきん</rt></ruby>、<ruby>法律<rt>ほうりつ</rt></ruby>に<ruby>違反<rt>いはん</rt></ruby>してメキシコとの<ruby>間<rt>あいだ</rt></ruby>の<ruby>国境<rt>こっきょう</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちが<ruby>捕<rt>つか</rt></ruby>まって、<ruby>親<rt>おや</rt></ruby>と<ruby>子<rt>こ</rt></ruby>どもが<ruby>別<rt>べつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れられています。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/21/K10011488981_1806210738_1806210748_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/21/k10011488981000.mp4
+content_with_ruby: "<p>アメリカでは<ruby>最近<rt>さいきん</rt></ruby>、<ruby>法律<rt>ほうりつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>違反<rt>いはん</rt></ruby></span>してメキシコとの<ruby>間<rt>あいだ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>国境<rt>こっきょう</rt></ruby></span>から<ruby>来<rt>き</rt></ruby>た<ruby>人<rt>ひと</rt></ruby>たちが<span\
+  \ style=\"color: blue;\"><ruby>捕<rt>つか</rt></ruby>まっ</span>て、<span style=\"color:\
+  \ blue;\"><ruby>親<rt>おや</rt></ruby></span>と<ruby>子<rt>こ</rt></ruby>どもが<ruby>別<rt>べつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れられています。５<ruby>月<rt>がつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりまでの６<ruby>週間<rt>しゅうかん</rt></ruby>で２０００<ruby>人<rt>にん</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもが<span\
+  \ style=\"color: blue;\"><ruby>親<rt>おや</rt></ruby></span>と<ruby>一緒<rt>いっしょ</rt></ruby>にいることができなくなりました。このため、トランプ<span\
+  \ style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>のやり<ruby>方<rt>かた</rt></ruby>はよくないという<ruby>意見<rt>いけん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなっています。</p>\n\
+  <p>トランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は<ruby>２０日<rt>はつか</rt></ruby>、「<ruby>私<rt>わたし</rt></ruby>たちは<ruby>優<rt>やさ</rt></ruby>しい<ruby>心<rt>こころ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っています。<ruby>家族<rt>かぞく</rt></ruby>を<ruby>一緒<rt>いっしょ</rt></ruby>にしたいです。とても<ruby>大事<rt>だいじ</rt></ruby>なことです」と<ruby>言<rt>い</rt></ruby>いました。そして、<span\
+  \ style=\"color: blue;\"><ruby>親<rt>おや</rt></ruby></span>と<ruby>子<rt>こ</rt></ruby>どもを<ruby>別<rt>べつ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れないという<span\
+  \ style=\"color: blue;\"><ruby>命令<rt>めいれい</rt></ruby></span>を<ruby>出<rt>だ</rt></ruby>しました。</p>\n\
+  <p>しかし、トランプ<span style=\"color: blue;\"><ruby>大統領<rt>だいとうりょう</rt></ruby></span>は、<ruby>法律<rt>ほうりつ</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>違反<rt>いはん</rt></ruby></span>してアメリカに<ruby>来<rt>き</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>たちに<ruby>厳<rt>きび</rt></ruby>しくすることはこれからも<ruby>続<rt>つづ</rt></ruby>けると<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 大統領
+  descriptions:
+  - <ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 捕まる
+  descriptions:
+  - とらえられる。つかまえられる。
+- word: 親
+  descriptions:
+  - <ruby><rb>父</rb><rt>ちち</rt></ruby>や<ruby><rb>母</rb><rt>はは</rt></ruby>。<ruby><rb>両親</rb><rt>りょうしん</rt></ruby>。
+  - <ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>をうんだもの。
+  - トランプやかるたなどの<ruby><rb>遊</rb><rt>あそ</rt></ruby>びで、カードを<ruby><rb>配</rb><rt>くば</rt></ruby>る<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - <ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となるもの。<ruby><rb>大</rb><rt>おお</rt></ruby>きいもの。
+- word: 違反
+  descriptions:
+  - <ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。
+- word: 国境
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>と<ruby><rb>国</rb><rt>くに</rt></ruby>との<ruby><rb>境</rb><rt>さかい</rt></ruby>。くにざかい。
+- word: 命令
+  descriptions:
+  - <ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>言</rb><rt>い</rt></ruby>いつけること。<ruby><rb>言</rb><rt>い</rt></ruby>いつけ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011488981000/k10011488981000.html
+web_title_with_ruby: <ruby>トランプ<rt>とらんぷ</rt></ruby><ruby>大統領<rt>だいとうりょう</rt></ruby>
+  <ruby>不法<rt>ふほう</rt></ruby><ruby>入国<rt>にゅうこく</rt></ruby>の<ruby>親子<rt>おやこ</rt></ruby><ruby>分離<rt>ぶんり</rt></ruby><ruby>回避<rt>かいひ</rt></ruby>の<ruby>大統領令<rt>だいとうりょうれい</rt></ruby>に<ruby>署名<rt>しょめい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/21/トランプ大統領-不法入国の親子分離回避の大統領令に署名
+related_news:
+- title: トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>がツイッターでブロックしたのは<ruby>憲法<rt>けんぽう</rt></ruby>に<ruby>違反<rt>いはん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/05/25/トランプ大統領がツイッターでブロックしたのは憲法に違反
+- title: トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>「<ruby>拉致<rt>らち</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>についてキム<ruby>委員長<rt>いいんちょう</rt></ruby>に<ruby>話<rt>はな</rt></ruby>した」
+  url: https://newswebeasy.github.io/news/easy/2018/06/13/トランプ大統領拉致の問題についてキム委員長に話した
+- title: トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>「キム<ruby>委員長<rt>いいんちょう</rt></ruby>と<ruby>会<rt>あ</rt></ruby>うかどうか<ruby>来週<rt>らいしゅう</rt></ruby>わかる」
+  url: https://newswebeasy.github.io/news/easy/2018/05/24/トランプ大統領キム委員長と会うかどうか来週わかる
+- title: アメリカのトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>と<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のキム<ruby>委員長<rt>いいんちょう</rt></ruby>が<ruby>初<rt>はじ</rt></ruby>めて<ruby>会<rt>あ</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/06/12/アメリカのトランプ大統領と北朝鮮のキム委員長が初めて会う
+- title: アメリカと<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>のトップがシンガポールに<ruby>着<rt>つ</rt></ruby>く
+  url: https://newswebeasy.github.io/news/easy/2018/06/11/アメリカと北朝鮮のトップがシンガポールに着く
+...
