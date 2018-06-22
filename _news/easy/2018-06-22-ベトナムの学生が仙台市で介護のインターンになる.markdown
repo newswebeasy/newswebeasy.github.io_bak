@@ -1,0 +1,60 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011490291000
+last_modified_at: '2018-06-22T18:40:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>
+  18<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ふん</rt></ruby>
+description: 日本では、お年寄りの世話をする介護の仕事をする人が足りなくなっています。
+title: ベトナムの学生が仙台市で介護のインターンになる
+title_with_ruby: ベトナムの<ruby>学生<rt>がくせい</rt></ruby>が<ruby>仙台市<rt>せんだいし</rt></ruby>で<ruby>介護<rt>かいご</rt></ruby>のインターンになる
+outline: 日本では、お年寄りの世話をする介護の仕事をする人が足りなくなっています。
+outline_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>では、お<ruby>年寄<rt>としよ</rt></ruby>りの<ruby>世話<rt>せわ</rt></ruby>をする<ruby>介護<rt>かいご</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなっています。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/22/K10011490291_1806220934_1806220938_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/22/k10011490291000.mp4
+content_with_ruby: "<p><ruby>日本<rt>にっぽん</rt></ruby>では、お<span style=\"color: blue;\"\
+  ><ruby>年寄<rt>としよ</rt></ruby>り</span>の<ruby>世話<rt>せわ</rt></ruby>をする<span style=\"\
+  color: blue;\"><ruby>介護<rt>かいご</rt></ruby></span>の<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなっています。<ruby>宮城県<rt>みやぎけん</rt></ruby><ruby>仙台市<rt>せんだいし</rt></ruby>にある<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>は、<ruby>外国<rt>がいこく</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>介護<rt>かいご</rt></ruby></span>と<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>をしている<ruby>学生<rt>がくせい</rt></ruby>を<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>招待<rt>しょうたい</rt></ruby>して、<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>習<rt>なら</rt></ruby>うインターンになってもらおうと<ruby>考<rt>かんが</rt></ruby>えました。</p>\n\
+  <p>２１<ruby>日<rt>にち</rt></ruby>、この<span style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>がベトナムから<ruby>招待<rt>しょうたい</rt></ruby>した<ruby>２人<rt>ふたり</rt></ruby>のインターンが<ruby>仙台市<rt>せんだいし</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。<ruby>２人<rt>ふたり</rt></ruby>はベトナムのホーチミン<ruby>市<rt>し</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>です。<span\
+  \ style=\"color: blue;\"><ruby>団体<rt>だんたい</rt></ruby></span>によると、<span style=\"\
+  color: blue;\"><ruby>介護<rt>かいご</rt></ruby></span>のインターンは<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めてです。</p>\n\
+  <p>インターンの<ruby>１人<rt>ひとり</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>は「<ruby>日本<rt>にっぽん</rt></ruby>で１<ruby>年<rt>ねん</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>習<rt>なら</rt></ruby>って、<span\
+  \ style=\"color: blue;\"><ruby>資格<rt>しかく</rt></ruby></span>を<ruby>取<rt>と</rt></ruby>りたいと<ruby>思<rt>おも</rt></ruby>っています。<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えて、ベトナムでも<ruby>仕事<rt>しごと</rt></ruby>をしたいです」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>には、<ruby>働<rt>はたら</rt></ruby>きながら<span style=\"color:\
+  \ blue;\"><ruby>介護<rt>かいご</rt></ruby></span>の<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>習<rt>なら</rt></ruby>う<ruby>技能<rt>ぎのう</rt></ruby><ruby>実習生<rt>じっしゅうせい</rt></ruby>などがいますが、<ruby>高<rt>たか</rt></ruby>い<ruby>日本語<rt>にほんご</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>能力<rt>のうりょく</rt></ruby></span>などが<ruby>必要<rt>ひつよう</rt></ruby>なため、あまり<ruby>増<rt>ふ</rt></ruby>えていません。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 介護
+  descriptions:
+  - <ruby><rb>病人</rb><rt>びょうにん</rt></ruby>などを<ruby><rb>介抱</rb><rt>かいほう</rt></ruby>し、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をすること。
+- word: 年寄り
+  descriptions:
+  - <ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。
+  - <ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 団体
+  descriptions:
+  - <ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+- word: 資格
+  descriptions:
+  - <ruby><rb>何</rb><rt>なに</rt></ruby>かをするときの、その<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>身分</rb><rt>みぶん</rt></ruby>や<ruby><rb>立場</rb><rt>たちば</rt></ruby>。
+  - ある<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>などにつくための<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>な<ruby><rb>条件</rb><rt>じょうけん</rt></ruby>。
+- word: 能力
+  descriptions:
+  - ものごとを<ruby><rb>成</rb><rt>な</rt></ruby>しとげることのできる<ruby><rb>力</rb><rt>ちから</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011490291000/k10011490291000.html
+web_title_with_ruby: <ruby>介護<rt>かいご</rt></ruby><ruby>インターン<rt>いんたーん</rt></ruby>で<ruby>外国人<rt>がいこくじん</rt></ruby><ruby>学生<rt>がくせい</rt></ruby><ruby>招<rt>まね</rt></ruby>く
+  <ruby>ベトナム<rt>べとなむ</rt></ruby>から2<ruby>人<rt>にん</rt></ruby><ruby>到着<rt>とうちゃく</rt></ruby>
+  <ruby>仙台<rt>せんだい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/22/介護インターンで外国人学生招く-ベトナムから2人到着-仙台
+related_news:
+- title: <ruby>日本<rt>にっぽん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>く<ruby>外国人<rt>がいこくじん</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やすために<ruby>新<rt>あたら</rt></ruby>しいビザを<ruby>作<rt>つく</rt></ruby>る<ruby>計画<rt>けいかく</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/05/30/日本で働く外国人を増やすために新しいビザを作る計画
+- title: <ruby>介護<rt>かいご</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>うロボットを<ruby>作<rt>つく</rt></ruby>ろう
+  url: https://newswebeasy.github.io/news/easy/2018/04/03/介護の仕事を手伝うロボットを作ろう
+- title: <ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>外国人<rt>がいこくじん</rt></ruby>は２５６<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>　<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い
+  url: https://newswebeasy.github.io/news/easy/2018/03/28/日本に住んでいる外国人は256万人-今までで最も多い
+...

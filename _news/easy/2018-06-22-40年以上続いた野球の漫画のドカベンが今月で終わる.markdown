@@ -1,0 +1,67 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011488661000
+last_modified_at: '2018-06-22T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 「ドカベン」は、水島新司さんが秋田書店の雑誌にかいている野球の漫画です。
+title: ４０年以上続いた野球の漫画の「ドカベン」が今月で終わる
+title_with_ruby: ４０<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>続<rt>つづ</rt></ruby>いた<ruby>野球<rt>やきゅう</rt></ruby>の<ruby>漫画<rt>まんが</rt></ruby>の「ドカベン」が<ruby>今月<rt>こんげつ</rt></ruby>で<ruby>終<rt>お</rt></ruby>わる
+outline: 「ドカベン」は、水島新司さんが秋田書店の雑誌にかいている野球の漫画です。
+outline_with_ruby: 「ドカベン」は、<ruby>水島<rt>みずしま</rt></ruby><ruby>新司<rt>しんじ</rt></ruby>さんが<ruby>秋田書店<rt>あきたしょてん</rt></ruby>の<ruby>雑誌<rt>ざっし</rt></ruby>にかいている<ruby>野球<rt>やきゅう</rt></ruby>の<ruby>漫画<rt>まんが</rt></ruby>です。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/21/K10011488661_1806210106_1806210421_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/22/k10011488661000.mp4
+content_with_ruby: "<p>「ドカベン」は、<ruby>水島<rt>みずしま</rt></ruby><ruby>新司<rt>しんじ</rt></ruby>さんが<ruby>秋田書店<rt>あきたしょてん</rt></ruby>の<ruby>雑誌<rt>ざっし</rt></ruby>にかいている<span\
+  \ style=\"color: blue;\"><ruby>野球<rt>やきゅう</rt></ruby></span>の<ruby>漫画<rt>まんが</rt></ruby>です。</p>\n\
+  <p>１９７２<ruby>年<rt>ねん</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まったときは、<ruby>高校<rt>こうこう</rt></ruby>の<span\
+  \ style=\"color: blue;\">チーム</span>で、<span style=\"color: blue;\">キャッチャー</span>で<ruby>遠<rt>とお</rt></ruby>くまで<ruby>打<rt>う</rt></ruby>つ<span\
+  \ style=\"color: blue;\">バッター</span>の<ruby>山田<rt>やまだ</rt></ruby><ruby>太郎<rt>たろう</rt></ruby>や、<ruby>岩鬼<rt>いわき</rt></ruby><ruby>正美<rt>まさみ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>活躍<rt>かつやく</rt></ruby></span>する<ruby>話<rt>はなし</rt></ruby>でした。そのあと<span\
+  \ style=\"color: blue;\">プロ</span><span style=\"color: blue;\"><ruby>野球<rt>やきゅう</rt></ruby></span>で<span\
+  \ style=\"color: blue;\"><ruby>活躍<rt>かつやく</rt></ruby></span>する<ruby>話<rt>はなし</rt></ruby>になって、<ruby>今<rt>いま</rt></ruby>まで<ruby>続<rt>つづ</rt></ruby>いていました。「ドカベン」の<ruby>本<rt>ほん</rt></ruby>は２０３<ruby>冊<rt>さつ</rt></ruby><ruby>出<rt>で</rt></ruby>ています。</p>\n\
+  <p>「ドカベン」は２８<ruby>日<rt>にち</rt></ruby>に<ruby>出<rt>だ</rt></ruby>す<ruby>雑誌<rt>ざっし</rt></ruby>で<ruby>終<rt>お</rt></ruby>わることになりました。<ruby>水島<rt>みずしま</rt></ruby>さんの<span\
+  \ style=\"color: blue;\">コメント</span>や「ドカベン」の<ruby>歴史<rt>れきし</rt></ruby>も<ruby>雑誌<rt>ざっし</rt></ruby>に<span\
+  \ style=\"color: blue;\"><ruby>載<rt>の</rt></ruby>る</span><ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 野球
+  descriptions:
+  - <ruby><rb>九人</rb><rt>くにん</rt></ruby>ずつの<ruby><rb>二</rb><rt>に</rt></ruby>チームが、たがいにバットでボールを<ruby><rb>打</rb><rt>う</rt></ruby>ってせめ<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>点</rb><rt>てん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ベースボール。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: キャッチャー
+  descriptions:
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>本塁</rb><rt>ほんるい</rt></ruby>にいて、ピッチャーの<ruby><rb>投</rb><rt>な</rt></ruby>げたボールを<ruby><rb>受</rb><rt>う</rt></ruby>ける<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>捕手</rb><rt>ほしゅ</rt></ruby>。
+- word: バッター
+  descriptions:
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、ボールを<ruby><rb>打</rb><rt>う</rt></ruby>つ<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>打者</rb><rt>だしゃ</rt></ruby>。
+- word: 活躍
+  descriptions:
+  - めざましく<ruby><rb>働</rb><rt>はたら</rt></ruby>くこと。
+- word: プロ
+  descriptions:
+  - <ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。
+  - 「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+- word: コメント
+  descriptions:
+  - ことがらについて<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>述</rb><rt>の</rt></ruby>べること。また、その<ruby><rb>意見</rb><rt>いけん</rt></ruby>。<ruby><rb>見解</rb><rt>けんかい</rt></ruby>。<ruby><rb>解説</rb><rt>かいせつ</rt></ruby>。
+- word: 載る
+  descriptions:
+  - <ruby><rb>何</rb><rt>なに</rt></ruby>かの<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>かれている。<ruby><rb>積</rb><rt>つ</rt></ruby>んである。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や、<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などに<ruby><rb>書</rb><rt>か</rt></ruby>かれる。
+source_url: http://www3.nhk.or.jp/news/easy/k10011488661000/k10011488661000.html
+web_title_with_ruby: <ruby>水島<rt>みずしま</rt></ruby><ruby>新司<rt>しんじ</rt></ruby>さんの<ruby>野球<rt>やきゅう</rt></ruby><ruby>漫画<rt>まんが</rt></ruby>「<ruby>ドカベン<rt>どかべん</rt></ruby>」
+  <ruby>連載<rt>れんさい</rt></ruby><ruby>終了<rt>しゅうりょう</rt></ruby>へ
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/21/水島新司さんの野球漫画ドカベン-連載終了へ
+related_news:
+- title: <ruby>雑誌<rt>ざっし</rt></ruby>にセクハラしたと<ruby>書<rt>か</rt></ruby>かれた<ruby>財務省<rt>ざいむしょう</rt></ruby>の<ruby>事務<rt>じむ</rt></ruby><ruby>次官<rt>じかん</rt></ruby>がやめる
+  url: https://newswebeasy.github.io/news/easy/2018/04/19/雑誌にセクハラしたと書かれた財務省の事務次官がやめる
+- title: <ruby>大谷<rt>おおたに</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>がアメリカの<ruby>大<rt>だい</rt></ruby>リーグの<ruby>初<rt>はじ</rt></ruby>めての<ruby>試合<rt>しあい</rt></ruby>でヒットを<ruby>打<rt>う</rt></ruby>つ
+  url: https://newswebeasy.github.io/news/easy/2018/03/30/大谷選手がアメリカの大リーグの初めての試合でヒットを打つ
+- title: <ruby>大谷<rt>おおたに</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>大<rt>だい</rt></ruby>リーグの<ruby>試合<rt>しあい</rt></ruby>に<ruby>初<rt>はじ</rt></ruby>めてピッチャーで<ruby>出<rt>で</rt></ruby>て<ruby>勝<rt>か</rt></ruby>つ
+  url: https://newswebeasy.github.io/news/easy/2018/04/02/大谷選手が大リーグの試合に初めてピッチャーで出て勝つ
+- title: <ruby>漫画<rt>まんが</rt></ruby>「<ruby>鉄腕<rt>てつわん</rt></ruby>アトム」の１ページがオークションで３５００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/05/08/漫画鉄腕アトムの1ページがオークションで3500万円
+...

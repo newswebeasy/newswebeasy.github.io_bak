@@ -1,0 +1,52 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011489441000
+last_modified_at: '2018-06-22T18:40:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>
+  18<ruby>時<rt>じ</rt></ruby>40<ruby>分<rt>ふん</rt></ruby>
+description: ニュージーランドのアーダーン首相が２１日、女の子を産みました。
+title: ニュージーランドの首相が赤ちゃんを産む「６週間休みます」
+title_with_ruby: ニュージーランドの<ruby>首相<rt>しゅしょう</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>産<rt>う</rt></ruby>む「６<ruby>週間<rt>しゅうかん</rt></ruby><ruby>休<rt>やす</rt></ruby>みます」
+outline: ニュージーランドのアーダーン首相が２１日、女の子を産みました。
+outline_with_ruby: ニュージーランドのアーダーン<ruby>首相<rt>しゅしょう</rt></ruby>が２１<ruby>日<rt>にち</rt></ruby>、<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>を<ruby>産<rt>う</rt></ruby>みました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/21/K10011489441_1806211616_1806211618_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/22/k10011489441000.mp4
+content_with_ruby: "<p>ニュージーランドのアーダーン<ruby>首相<rt>しゅしょう</rt></ruby>が２１<ruby>日<rt>にち</rt></ruby>、<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>産<rt>う</rt></ruby>み</span>ました。これから６<ruby>週間<rt>しゅうかん</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby>を<ruby>休<rt>やす</rt></ruby>むことになります。<ruby>首相<rt>しゅしょう</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>ちゃんを<span\
+  \ style=\"color: blue;\"><ruby>産<rt>う</rt></ruby>ん</span>で<ruby>仕事<rt>しごと</rt></ruby>を<ruby>休<rt>やす</rt></ruby>むのは、<ruby>世界<rt>せかい</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めてです。</p>\n\
+  <p>アーダーン<ruby>首相<rt>しゅしょう</rt></ruby>は、<ruby>赤<rt>あか</rt></ruby>ちゃんと<ruby>赤<rt>あか</rt></ruby>ちゃんのお<ruby>父<rt>とう</rt></ruby>さんと３<ruby>人<rt>にん</rt></ruby>で<ruby>撮<rt>と</rt></ruby>った<ruby>写真<rt>しゃしん</rt></ruby>をインターネットで<ruby>見<rt>み</rt></ruby>せました。そして「<span\
+  \ style=\"color: blue;\"><ruby>健康<rt>けんこう</rt></ruby></span>な<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれて、とても<span\
+  \ style=\"color: blue;\"><ruby>幸<rt>しあわ</rt></ruby>せ</span>です。みなさんからのお<ruby>祝<rt>いわ</rt></ruby>いや<ruby>優<rt>やさ</rt></ruby>しさにありがとうと<ruby>言<rt>い</rt></ruby>いたいです」と<ruby>書<rt>か</rt></ruby>きました。</p>\n\
+  <p>ニュージーランドの<ruby>新聞<rt>しんぶん</rt></ruby>は「<ruby>女性<rt>じょせい</rt></ruby>の<ruby>首相<rt>しゅしょう</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>ちゃんを<span\
+  \ style=\"color: blue;\"><ruby>産<rt>う</rt></ruby>ん</span>だことはニュージーランドでは<ruby>初<rt>はじ</rt></ruby>めてで、<ruby>大<rt>おお</rt></ruby>きな<ruby>意味<rt>いみ</rt></ruby>があります」と<ruby>伝<rt>つた</rt></ruby>えました。テレビでは、<ruby>首相<rt>しゅしょう</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>ちゃんを<span\
+  \ style=\"color: blue;\"><ruby>産<rt>う</rt></ruby>ん</span>だ<ruby>病院<rt>びょういん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>から<ruby>何<rt>なん</rt></ruby><ruby>回<rt>かい</rt></ruby>も<ruby>放送<rt>ほうそう</rt></ruby>しました。</p>\n\
+  <p>アーダーン<ruby>首相<rt>しゅしょう</rt></ruby>が<ruby>休<rt>やす</rt></ruby>んでいる<ruby>間<rt>あいだ</rt></ruby>は、ピーターズ<ruby>副首相<rt>ふくしゅしょう</rt></ruby>が<ruby>代<rt>か</rt></ruby>わりに<ruby>仕事<rt>しごと</rt></ruby>をします。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 産む
+  descriptions:
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+- word: 産む
+  descriptions:
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+- word: 産む
+  descriptions:
+  - <ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。
+- word: 健康
+  descriptions:
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。
+  - <ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。
+- word: 幸せ
+  descriptions:
+  - <ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>満足</rb><rt>まんぞく</rt></ruby>している<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011489441000/k10011489441000.html
+web_title_with_ruby: <ruby>ニュージーランド<rt>にゅーじーらんど</rt></ruby><ruby>首相<rt>しゅしょう</rt></ruby>が<ruby>出産<rt>しゅっさん</rt></ruby>
+  <ruby>産休<rt>さんきゅう</rt></ruby>へ <ruby>現職<rt>げんしょく</rt></ruby>の<ruby>産休<rt>さんきゅう</rt></ruby><ruby>取得<rt>しゅとく</rt></ruby>は<ruby>世界初<rt>せかいはつ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/21/ニュージーランド首相が出産-産休へ-現職の産休取得は世界初
+related_news:
+- title: ２つ<ruby>以上<rt>いじょう</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えている
+  url: https://newswebeasy.github.io/news/easy/2018/04/10/2つ以上の仕事をしている人が増えている
+- title: <ruby>道<rt>みち</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>ろうとしたカモの<ruby>親<rt>おや</rt></ruby>と<ruby>赤<rt>あか</rt></ruby>ちゃんを<ruby>警官<rt>けいかん</rt></ruby>が<ruby>案内<rt>あんない</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2018/06/07/道を渡ろうとしたカモの親と赤ちゃんを警官が案内する
+...
