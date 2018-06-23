@@ -1,0 +1,158 @@
+---
+layout: web_news
+categories: web
+newsid: k10011492631000
+title: ＱＲコードにセキュリティー上の弱点 不正サイトに誘導も
+title_with_ruby: ＱＲコードにセキュリティー<ruby>上<rt data-ruby-level="1">じょう</rt></ruby>の<ruby>弱点<rt
+  data-ruby-level="2">じゃくてん</rt></ruby> <ruby>不正<rt data-ruby-level="4">ふせい</rt></ruby>サイトに<ruby>誘導<rt
+  data-ruby-level="7">ゆうどう</rt></ruby>も
+last_modified_at: '2018-06-23T18:01:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>06<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>23<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 18<ruby>時<rt data-ruby-level="2">じ</rt></ruby>01<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 電子決済や広告などに広く利用されている「ＱＲコード」に、偽の情報を仕込むことができるセキュリティ上の弱点があることが、神戸大学のグループの研究でわかりました。この弱点を悪用すると、利用者を一定の割合で不正なサイトに誘導することも可能で、グループではセキュリティー対策の強化が必要だとしています。
+summary: <ruby>電子<rt data-ruby-level="2">でんし</rt></ruby><ruby>決済<rt data-ruby-level="6">けっさい</rt></ruby>や<ruby>広告<rt
+  data-ruby-level="4">こうこく</rt></ruby>などに<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>く<ruby>利用<rt
+  data-ruby-level="4">りよう</rt></ruby>されている「ＱＲコード」に、<ruby>偽<rt data-ruby-level="7">にせ</rt></ruby>の<ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>を<ruby>仕込<rt data-ruby-level="7">しこ</rt></ruby>むことができるセキュリティ<ruby>上<rt
+  data-ruby-level="1">じょう</rt></ruby>の<ruby>弱点<rt data-ruby-level="2">じゃくてん</rt></ruby>があることが、<ruby>神戸大学<rt
+  data-ruby-level="8">こうべだいがく</rt></ruby>のグループの<ruby>研究<rt data-ruby-level="3">けんきゅう</rt></ruby>でわかりました。この<ruby>弱点<rt
+  data-ruby-level="2">じゃくてん</rt></ruby>を<ruby>悪用<rt data-ruby-level="3">あくよう</rt></ruby>すると、<ruby>利用者<rt
+  data-ruby-level="4">りようしゃ</rt></ruby>を<ruby>一定<rt data-ruby-level="3">いってい</rt></ruby>の<ruby>割合<rt
+  data-ruby-level="6">わりあい</rt></ruby>で<ruby>不正<rt data-ruby-level="4">ふせい</rt></ruby>なサイトに<ruby>誘導<rt
+  data-ruby-level="7">ゆうどう</rt></ruby>することも<ruby>可能<rt data-ruby-level="5">かのう</rt></ruby>で、グループではセキュリティー<ruby>対策<rt
+  data-ruby-level="6">たいさく</rt></ruby>の<ruby>強化<rt data-ruby-level="3">きょうか</rt></ruby>が<ruby>必要<rt
+  data-ruby-level="4">ひつよう</rt></ruby>だとしています。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/23/K10011492631_1806231810_1806231811_01_03.jpg
+more: ＱＲコードは、インターネットのアドレスなどの<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>を<ruby>白<rt
+  data-ruby-level="1">しろ</rt></ruby>と<ruby>黒<rt data-ruby-level="2">くろ</rt></ruby>の<ruby>四角<rt
+  data-ruby-level="2">しかく</rt></ruby>い<ruby>図形<rt data-ruby-level="2">ずけい</rt></ruby>として<ruby>表示<rt
+  data-ruby-level="5">ひょうじ</rt></ruby>し、スマートフォンなどで<ruby>読<rt data-ruby-level="3">よ</rt></ruby>み<ruby>取<rt
+  data-ruby-level="3">と</rt></ruby>るもので、<ruby>電子<rt data-ruby-level="2">でんし</rt></ruby><ruby>決済<rt
+  data-ruby-level="6">けっさい</rt></ruby>や<ruby>広告<rt data-ruby-level="4">こうこく</rt></ruby>などに<ruby>広<rt
+  data-ruby-level="2">ひろ</rt></ruby>く<ruby>利用<rt data-ruby-level="4">りよう</rt></ruby>されています。<br
+  /><br />このＱＲコードのセキュリティについて、<ruby>神戸大学<rt data-ruby-level="8">こうべだいがく</rt></ruby>の<ruby>森井<rt
+  data-ruby-level="7">もりい</rt></ruby><ruby>昌克<rt data-ruby-level="8">まさかつ</rt></ruby><ruby>教授<rt
+  data-ruby-level="5">きょうじゅ</rt></ruby>らのグループが<ruby>検証<rt data-ruby-level="5">けんしょう</rt></ruby>したところ、コードを<ruby>作成<rt
+  data-ruby-level="4">さくせい</rt></ruby>する<ruby>際<rt data-ruby-level="5">さい</rt></ruby>に<ruby>不正<rt
+  data-ruby-level="4">ふせい</rt></ruby>な<ruby>操作<rt data-ruby-level="6">そうさ</rt></ruby>を<ruby>加<rt
+  data-ruby-level="4">くわ</rt></ruby>えると、<ruby>本来<rt data-ruby-level="2">ほんらい</rt></ruby>の<ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>に<ruby>加<rt data-ruby-level="4">くわ</rt></ruby>えて、<ruby>偽<rt
+  data-ruby-level="7">にせ</rt></ruby>の<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>を<ruby>仕込<rt
+  data-ruby-level="7">しこ</rt></ruby>むことができることがわかったということです。<br /><br />これはコードを<ruby>読<rt
+  data-ruby-level="3">よ</rt></ruby>み<ruby>取<rt data-ruby-level="3">と</rt></ruby>る<ruby>際<rt
+  data-ruby-level="5">さい</rt></ruby>のエラーを<ruby>修復<rt data-ruby-level="5">しゅうふく</rt></ruby>する<ruby>機能<rt
+  data-ruby-level="5">きのう</rt></ruby>を<ruby>悪用<rt data-ruby-level="3">あくよう</rt></ruby>したもので、こうして<ruby>作<rt
+  data-ruby-level="2">つく</rt></ruby>られたＱＲコードを<ruby>読<rt data-ruby-level="3">よ</rt></ruby>み<ruby>取<rt
+  data-ruby-level="3">と</rt></ruby>ると、<ruby>多<rt data-ruby-level="2">おお</rt></ruby>くの<ruby>場合<rt
+  data-ruby-level="2">ばあい</rt></ruby>は<ruby>本来<rt data-ruby-level="2">ほんらい</rt></ruby>のサイトに<ruby>誘導<rt
+  data-ruby-level="7">ゆうどう</rt></ruby>されますが、100<ruby>人<rt data-ruby-level="1">にん</rt></ruby>に１<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>といった<ruby>一定<rt data-ruby-level="3">いってい</rt></ruby>の<ruby>割合<rt
+  data-ruby-level="6">わりあい</rt></ruby>で、<ruby>別<rt data-ruby-level="4">べつ</rt></ruby>のサイトなどに<ruby>誘導<rt
+  data-ruby-level="7">ゆうどう</rt></ruby>することができるということです。<br /><br />このため、<ruby>金融<rt
+  data-ruby-level="7">きんゆう</rt></ruby><ruby>機関<rt data-ruby-level="4">きかん</rt></ruby>などにつながると<ruby>偽装<rt
+  data-ruby-level="7">ぎそう</rt></ruby>したＱＲコードが<ruby>表示<rt data-ruby-level="5">ひょうじ</rt></ruby>されていた<ruby>場合<rt
+  data-ruby-level="2">ばあい</rt></ruby>、<ruby>本来<rt data-ruby-level="2">ほんらい</rt></ruby>のサイトに<ruby>誘導<rt
+  data-ruby-level="7">ゆうどう</rt></ruby>されることもあるため、<ruby>利用者<rt data-ruby-level="4">りようしゃ</rt></ruby>が<ruby>不正<rt
+  data-ruby-level="4">ふせい</rt></ruby>に<ruby>気付<rt data-ruby-level="4">きづ</rt></ruby>きにくくなるおそれがあるということです。<br
+  /><br />こうした<ruby>弱点<rt data-ruby-level="2">じゃくてん</rt></ruby>を<ruby>悪用<rt data-ruby-level="3">あくよう</rt></ruby>した<ruby>被害<rt
+  data-ruby-level="7">ひがい</rt></ruby>などは、まだ<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>されていないということですが、<ruby>森井<rt
+  data-ruby-level="7">もりい</rt></ruby><ruby>教授<rt data-ruby-level="5">きょうじゅ</rt></ruby>は「ＱＲコードは<ruby>急速<rt
+  data-ruby-level="3">きゅうそく</rt></ruby>に<ruby>普及<rt data-ruby-level="7">ふきゅう</rt></ruby>しているので、<ruby>今後<rt
+  data-ruby-level="2">こんご</rt></ruby>、<ruby>狙<rt data-ruby-level="7">ねら</rt></ruby>われる<ruby>危険性<rt
+  data-ruby-level="6">きけんせい</rt></ruby>がある。ＱＲコードは<ruby>一見<rt data-ruby-level="1">いっけん</rt></ruby>しただけでは<ruby>内容<rt
+  data-ruby-level="5">ないよう</rt></ruby>がわからないので、<ruby>誘導<rt data-ruby-level="7">ゆうどう</rt></ruby>された<ruby>先<rt
+  data-ruby-level="1">さき</rt></ruby>が<ruby>正<rt data-ruby-level="1">ただ</rt></ruby>しいかどうかチェックを<ruby>強化<rt
+  data-ruby-level="3">きょうか</rt></ruby>する<ruby>必要<rt data-ruby-level="4">ひつよう</rt></ruby>がある」と<ruby>話<rt
+  data-ruby-level="2">はな</rt></ruby>しています。
+movie_url: https://newswebeasy.github.io/ja201806/news/web/movie/2018/06/23/k10011492631_201806231810_201806231811.mp4
+voice_url: https://newswebeasy.github.io/ja201806/news/web/voice/2018/06/23/k10011492631_201806231810_201806231811.mp3
+body:
+- title: <ruby>決済<rt data-ruby-level="6">けっさい</rt></ruby>などで<ruby>利用<rt data-ruby-level="4">りよう</rt></ruby><ruby>広<rt
+    data-ruby-level="2">ひろ</rt></ruby>がる
+  text: ＱＲコードは、<ruby>平成<rt data-ruby-level="4">へいせい</rt></ruby>６<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>に<ruby>日本<rt
+    data-ruby-level="1">にっぽん</rt></ruby>の<ruby>大手<rt data-ruby-level="1">おおて</rt></ruby><ruby>自動車部品<rt
+    data-ruby-level="3">じどうしゃぶひん</rt></ruby>メーカーが<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>した<ruby>技術<rt
+    data-ruby-level="5">ぎじゅつ</rt></ruby>で、<ruby>情報<rt data-ruby-level="5">じょうほう</rt></ruby>を１<ruby>枚<rt
+    data-ruby-level="6">まい</rt></ruby>の<ruby>図形<rt data-ruby-level="2">ずけい</rt></ruby>に<ruby>盛<rt
+    data-ruby-level="7">も</rt></ruby>り<ruby>込<rt data-ruby-level="7">こ</rt></ruby>んでスマートフォンなどで<ruby>読<rt
+    data-ruby-level="3">よ</rt></ruby>み<ruby>取<rt data-ruby-level="3">と</rt></ruby>ることができます。<br
+    /><br /><ruby>読<rt data-ruby-level="3">よ</rt></ruby>み<ruby>取<rt data-ruby-level="3">と</rt></ruby>りが<ruby>速<rt
+    data-ruby-level="3">はや</rt></ruby>く、<ruby>記録<rt data-ruby-level="4">きろく</rt></ruby>できるデータ<ruby>量<rt
+    data-ruby-level="4">りょう</rt></ruby>も<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きいため、<ruby>広告<rt
+    data-ruby-level="4">こうこく</rt></ruby>や<ruby>観光<rt data-ruby-level="4">かんこう</rt></ruby><ruby>案内<rt
+    data-ruby-level="4">あんない</rt></ruby>、それに<ruby>電子<rt data-ruby-level="2">でんし</rt></ruby>チケットなどさまざまな<ruby>場面<rt
+    data-ruby-level="3">ばめん</rt></ruby>で<ruby>使<rt data-ruby-level="3">つか</rt></ruby>われているほか、<ruby>現金<rt
+    data-ruby-level="5">げんきん</rt></ruby>の<ruby>代<rt data-ruby-level="3">か</rt></ruby>わりにＱＲコードを<ruby>使<rt
+    data-ruby-level="3">つか</rt></ruby>った<ruby>決済<rt data-ruby-level="6">けっさい</rt></ruby>サービスも<ruby>広<rt
+    data-ruby-level="3">ひろ</rt></ruby>がり<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>めています。<br
+    /><br />このうち、<ruby>大阪<rt data-ruby-level="8">おおさか</rt></ruby>・<ruby>難波<rt data-ruby-level="6">なんば</rt></ruby>の<ruby>商業<rt
+    data-ruby-level="3">しょうぎょう</rt></ruby><ruby>施設<rt data-ruby-level="7">しせつ</rt></ruby>では、ことし４<ruby>月<rt
+    data-ruby-level="1">がつ</rt></ruby>からほぼ<ruby>全店<rt data-ruby-level="3">ぜんてん</rt></ruby>のおよそ460<ruby>店<rt
+    data-ruby-level="2">てん</rt></ruby>に、ＱＲコードで<ruby>買<rt data-ruby-level="3">か</rt></ruby>い<ruby>物<rt
+    data-ruby-level="3">もの</rt></ruby>ができるシステムを<ruby>導入<rt data-ruby-level="5">どうにゅう</rt></ruby>しました。<br
+    /><br /><ruby>利用者<rt data-ruby-level="4">りようしゃ</rt></ruby>は<ruby>買<rt data-ruby-level="3">か</rt></ruby>い<ruby>物<rt
+    data-ruby-level="3">もの</rt></ruby>をする<ruby>際<rt data-ruby-level="5">さい</rt></ruby>に、<ruby>店側<rt
+    data-ruby-level="4">みせがわ</rt></ruby>が<ruby>表示<rt data-ruby-level="5">ひょうじ</rt></ruby>したＱＲコードをスマートフォンで<ruby>読<rt
+    data-ruby-level="3">よ</rt></ruby>み<ruby>取<rt data-ruby-level="3">と</rt></ruby>ることで<ruby>一瞬<rt
+    data-ruby-level="7">いっしゅん</rt></ruby>で<ruby>決済<rt data-ruby-level="6">けっさい</rt></ruby>することができ、<ruby>代金<rt
+    data-ruby-level="3">だいきん</rt></ruby>は<ruby>口座<rt data-ruby-level="6">こうざ</rt></ruby>から<ruby>直接<rt
+    data-ruby-level="5">ちょくせつ</rt></ruby>、<ruby>引<rt data-ruby-level="3">ひ</rt></ruby>き<ruby>落<rt
+    data-ruby-level="3">お</rt></ruby>とされます。<br /><br />ＱＲコードを<ruby>使<rt data-ruby-level="3">つか</rt></ruby>った<ruby>決済<rt
+    data-ruby-level="6">けっさい</rt></ruby>サービスは、<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>など<ruby>海外<rt
+    data-ruby-level="2">かいがい</rt></ruby>でも<ruby>広<rt data-ruby-level="2">ひろ</rt></ruby>がっていることから、<ruby>外国<rt
+    data-ruby-level="2">がいこく</rt></ruby>からの<ruby>観光客<rt data-ruby-level="4">かんこうきゃく</rt></ruby>が<ruby>利用<rt
+    data-ruby-level="4">りよう</rt></ruby>することも<ruby>多<rt data-ruby-level="2">おお</rt></ruby>いということで、この<ruby>商業<rt
+    data-ruby-level="3">しょうぎょう</rt></ruby><ruby>施設<rt data-ruby-level="7">しせつ</rt></ruby>では<ruby>開始<rt
+    data-ruby-level="3">かいし</rt></ruby>から２か<ruby>月<rt data-ruby-level="1">げつ</rt></ruby>で、<ruby>売<rt
+    data-ruby-level="2">う</rt></ruby>り<ruby>上<rt data-ruby-level="2">あ</rt></ruby>げの４％をＱＲコードの<ruby>決済<rt
+    data-ruby-level="6">けっさい</rt></ruby>が<ruby>占<rt data-ruby-level="7">し</rt></ruby>めたいうことです。<br
+    /><br /><ruby>買<rt data-ruby-level="3">か</rt></ruby>い<ruby>物客<rt data-ruby-level="3">ものきゃく</rt></ruby>は「サッと<ruby>会計<rt
+    data-ruby-level="2">かいけい</rt></ruby>ができて、とても<ruby>便利<rt data-ruby-level="4">べんり</rt></ruby>です。<ruby>現金<rt
+    data-ruby-level="5">げんきん</rt></ruby>を<ruby>出<rt data-ruby-level="1">だ</rt></ruby>す<ruby>機会<rt
+    data-ruby-level="4">きかい</rt></ruby>がだいぶ<ruby>減<rt data-ruby-level="5">へ</rt></ruby>りました」と<ruby>話<rt
+    data-ruby-level="2">はな</rt></ruby>していました。<br /><br /><ruby>南海電鉄<rt data-ruby-level="3">なんかいでんてつ</rt></ruby>・なんばＣＩＴＹ<ruby>担当<rt
+    data-ruby-level="6">たんとう</rt></ruby>の<ruby>黒田<rt data-ruby-level="2">くろだ</rt></ruby><ruby>康介<rt
+    data-ruby-level="8">こうすけ</rt></ruby><ruby>主任<rt data-ruby-level="5">しゅにん</rt></ruby>は「スマートフォンさえあれば、<ruby>買<rt
+    data-ruby-level="3">か</rt></ruby>い<ruby>物<rt data-ruby-level="3">もの</rt></ruby>ができるという<ruby>点<rt
+    data-ruby-level="2">てん</rt></ruby>が<ruby>非常<rt data-ruby-level="5">ひじょう</rt></ruby>に<ruby>魅力<rt
+    data-ruby-level="7">みりょく</rt></ruby>で、<ruby>海外<rt data-ruby-level="2">かいがい</rt></ruby>の<ruby>利用者<rt
+    data-ruby-level="4">りようしゃ</rt></ruby>も<ruby>多<rt data-ruby-level="2">おお</rt></ruby>い。セキュリティー<ruby>対策<rt
+    data-ruby-level="6">たいさく</rt></ruby>を<ruby>万全<rt data-ruby-level="7">ばんぜん</rt></ruby>にしたうえで、<ruby>今後<rt
+    data-ruby-level="2">こんご</rt></ruby>も<ruby>利用<rt data-ruby-level="4">りよう</rt></ruby>を<ruby>広<rt
+    data-ruby-level="2">ひろ</rt></ruby>げていきたい」と<ruby>話<rt data-ruby-level="2">はな</rt></ruby>していました。
+- title: <ruby>改<rt data-ruby-level="4">かい</rt></ruby>ざん<ruby>被害<rt data-ruby-level="7">ひがい</rt></ruby>も
+  text: ＱＲコードの<ruby>普及<rt data-ruby-level="7">ふきゅう</rt></ruby>に<ruby>伴<rt data-ruby-level="7">ともな</rt></ruby>って、ＱＲコードを<ruby>改<rt
+    data-ruby-level="4">かい</rt></ruby>ざんしてインターネットの<ruby>悪質<rt data-ruby-level="5">あくしつ</rt></ruby>なサイトに<ruby>誘導<rt
+    data-ruby-level="7">ゆうどう</rt></ruby>したり、<ruby>現金<rt data-ruby-level="5">げんきん</rt></ruby>がだまし<ruby>取<rt
+    data-ruby-level="3">と</rt></ruby>られたりする<ruby>被害<rt data-ruby-level="7">ひがい</rt></ruby>も<ruby>出<rt
+    data-ruby-level="1">で</rt></ruby>ています。<br /><br /><ruby>神戸大学<rt data-ruby-level="8">こうべだいがく</rt></ruby>の<ruby>研究<rt
+    data-ruby-level="3">けんきゅう</rt></ruby>グループなどによりますと、ＱＲコードは<ruby>見<rt data-ruby-level="1">み</rt></ruby>ただけでは<ruby>内容<rt
+    data-ruby-level="5">ないよう</rt></ruby>がわからないため、<ruby>改<rt data-ruby-level="4">かい</rt></ruby>ざんしたＱＲコードを<ruby>読<rt
+    data-ruby-level="3">よ</rt></ruby>み<ruby>取<rt data-ruby-level="3">と</rt></ruby>らせる<ruby>手口<rt
+    data-ruby-level="1">てぐち</rt></ruby>が<ruby>多<rt data-ruby-level="2">おお</rt></ruby>いということです。<br
+    /><br />このうち、<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>ではスーパーで<ruby>商品<rt
+    data-ruby-level="3">しょうひん</rt></ruby>ごとに<ruby>掲示<rt data-ruby-level="7">けいじ</rt></ruby>された<ruby>支払<rt
+    data-ruby-level="7">しはら</rt></ruby>い<ruby>用<rt data-ruby-level="2">よう</rt></ruby>のＱＲコードを、<ruby>客<rt
+    data-ruby-level="3">きゃく</rt></ruby>がスマートフォンで<ruby>読<rt data-ruby-level="3">よ</rt></ruby>み<ruby>取<rt
+    data-ruby-level="3">と</rt></ruby>って<ruby>決済<rt data-ruby-level="6">けっさい</rt></ruby>するサービスが<ruby>普及<rt
+    data-ruby-level="7">ふきゅう</rt></ruby>しているということで、<ruby>改<rt data-ruby-level="4">かい</rt></ruby>ざんしたＱＲコードを<ruby>正<rt
+    data-ruby-level="1">ただ</rt></ruby>しいコードの<ruby>上<rt data-ruby-level="1">うえ</rt></ruby>から<ruby>貼<rt
+    data-ruby-level="7">は</rt></ruby>り<ruby>付<rt data-ruby-level="7">つ</rt></ruby>ける<ruby>手口<rt
+    data-ruby-level="1">てぐち</rt></ruby>で、<ruby>代金<rt data-ruby-level="3">だいきん</rt></ruby>をだまし<ruby>取<rt
+    data-ruby-level="3">と</rt></ruby>られる<ruby>被害<rt data-ruby-level="7">ひがい</rt></ruby>も<ruby>相次<rt
+    data-ruby-level="3">あいつ</rt></ruby>いでいるということです。<br /><br />また、<ruby>国内<rt data-ruby-level="2">こくない</rt></ruby>でもインターネットに<ruby>掲載<rt
+    data-ruby-level="7">けいさい</rt></ruby>したＱＲコードで、<ruby>悪質<rt data-ruby-level="5">あくしつ</rt></ruby>なサイトに<ruby>誘導<rt
+    data-ruby-level="7">ゆうどう</rt></ruby>して、<ruby>個人<rt data-ruby-level="5">こじん</rt></ruby><ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby>などをだまし<ruby>取<rt data-ruby-level="3">と</rt></ruby>ろうとする<ruby>手口<rt
+    data-ruby-level="1">てぐち</rt></ruby>が<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>されているということです。
+source_url: https://www3.nhk.or.jp/news/html/20180623/k10011492631000.html
+related_news:
+- title: ゆうちょ<ruby>銀<rt data-ruby-level="3">ぎん</rt></ruby> ＱＲコード<ruby>決済<rt data-ruby-level="6">けっさい</rt></ruby>に<ruby>参入<rt
+    data-ruby-level="4">さんにゅう</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2018/05/19/ゆうちょ銀-QRコード決済に参入へ
+- title: 「<ruby>将来<rt data-ruby-level="6">しょうらい</rt></ruby>は<ruby>買<rt data-ruby-level="3">か</rt></ruby>い<ruby>物<rt
+    data-ruby-level="3">もの</rt></ruby>の80％をキャッシュレスで」<ruby>経産省<rt data-ruby-level="5">けいさんしょう</rt></ruby>が<ruby>提言<rt
+    data-ruby-level="5">ていげん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/04/10/将来は買い物の80をキャッシュレスで経産省が提言
+...
