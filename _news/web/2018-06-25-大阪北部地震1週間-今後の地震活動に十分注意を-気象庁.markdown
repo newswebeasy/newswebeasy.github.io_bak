@@ -1,0 +1,151 @@
+---
+layout: web_news
+categories: web
+newsid: k10011494061000
+title: 大阪北部地震１週間 今後の地震活動に十分注意を 気象庁
+title_with_ruby: <ruby>大阪<rt data-ruby-level="8">おおさか</rt></ruby><ruby>北部<rt data-ruby-level="3">ほくぶ</rt></ruby><ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>１<ruby>週間<rt data-ruby-level="2">しゅうかん</rt></ruby>
+  <ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>の<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby><ruby>活動<rt
+  data-ruby-level="3">かつどう</rt></ruby>に<ruby>十分<rt data-ruby-level="2">じゅうぶん</rt></ruby><ruby>注意<rt
+  data-ruby-level="3">ちゅうい</rt></ruby>を <ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>
+last_modified_at: '2018-06-25T06:36:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>06<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>25<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 06<ruby>時<rt data-ruby-level="2">じ</rt></ruby>36<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 大阪府北部で震度６弱の揺れを観測した地震が発生してから25日で１週間になります。震源の周辺では、震度１以上の揺れを伴う地震は徐々に減っていますが、体に感じないごく小さな地震が数多く発生するなど依然として活発な地震活動が続いていて、気象庁は今後の地震活動に十分注意するよう呼びかけています。
+summary: <ruby>大阪府<rt data-ruby-level="8">おおさかふ</rt></ruby><ruby>北部<rt data-ruby-level="3">ほくぶ</rt></ruby>で<ruby>震度<rt
+  data-ruby-level="7">しんど</rt></ruby>６<ruby>弱<rt data-ruby-level="2">じゃく</rt></ruby>の<ruby>揺<rt
+  data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>した<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>が<ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby>してから25<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>で１<ruby>週間<rt data-ruby-level="2">しゅうかん</rt></ruby>になります。<ruby>震源<rt
+  data-ruby-level="7">しんげん</rt></ruby>の<ruby>周辺<rt data-ruby-level="4">しゅうへん</rt></ruby>では、<ruby>震度<rt
+  data-ruby-level="7">しんど</rt></ruby>１<ruby>以上<rt data-ruby-level="4">いじょう</rt></ruby>の<ruby>揺<rt
+  data-ruby-level="7">ゆ</rt></ruby>れを<ruby>伴<rt data-ruby-level="7">ともな</rt></ruby>う<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>は<ruby>徐々<rt data-ruby-level="7">じょじょ</rt></ruby>に<ruby>減<rt
+  data-ruby-level="5">へ</rt></ruby>っていますが、<ruby>体<rt data-ruby-level="2">からだ</rt></ruby>に<ruby>感<rt
+  data-ruby-level="3">かん</rt></ruby>じないごく<ruby>小<rt data-ruby-level="1">ちい</rt></ruby>さな<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>が<ruby>数多<rt data-ruby-level="2">かずおお</rt></ruby>く<ruby>発生<rt
+  data-ruby-level="3">はっせい</rt></ruby>するなど<ruby>依然<rt data-ruby-level="7">いぜん</rt></ruby>として<ruby>活発<rt
+  data-ruby-level="3">かっぱつ</rt></ruby>な<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby><ruby>活動<rt
+  data-ruby-level="3">かつどう</rt></ruby>が<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>いていて、<ruby>気象庁<rt
+  data-ruby-level="6">きしょうちょう</rt></ruby>は<ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>の<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby><ruby>活動<rt data-ruby-level="3">かつどう</rt></ruby>に<ruby>十分<rt
+  data-ruby-level="2">じゅうぶん</rt></ruby><ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>するよう<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけています。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/25/K10011494061_1806250911_1806250929_01_02.jpg
+more: １<ruby>週間前<rt data-ruby-level="2">しゅうかんまえ</rt></ruby>の<ruby>今月<rt data-ruby-level="2">こんげつ</rt></ruby>18<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby>、<ruby>大阪府<rt data-ruby-level="8">おおさかふ</rt></ruby><ruby>北部<rt
+  data-ruby-level="3">ほくぶ</rt></ruby>を<ruby>震源<rt data-ruby-level="7">しんげん</rt></ruby>とするマグニチュード6.1の<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>が<ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby>し、<ruby>大阪市<rt
+  data-ruby-level="8">おおさかし</rt></ruby>や<ruby>高槻市<rt data-ruby-level="8">たかつきし</rt></ruby>などで<ruby>震度<rt
+  data-ruby-level="7">しんど</rt></ruby>６<ruby>弱<rt data-ruby-level="2">じゃく</rt></ruby>の<ruby>揺<rt
+  data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>しました。<br
+  /><br /><ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>などによりますと、この<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>の<ruby>震源<rt data-ruby-level="7">しんげん</rt></ruby><ruby>付近<rt
+  data-ruby-level="4">ふきん</rt></ruby>では、<ruby>東西<rt data-ruby-level="2">とうざい</rt></ruby>およそ５キロ、<ruby>南北<rt
+  data-ruby-level="2">なんぼく</rt></ruby>およそ５キロの<ruby>範囲<rt data-ruby-level="7">はんい</rt></ruby>で<ruby>余震<rt
+  data-ruby-level="7">よしん</rt></ruby>と<ruby>見<rt data-ruby-level="1">み</rt></ruby>られる<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>が<ruby>起<rt data-ruby-level="3">お</rt></ruby>きているということです。<br
+  /><br /><ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>によりますと、<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>６<ruby>弱<rt
+  data-ruby-level="2">じゃく</rt></ruby>の<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>が<ruby>起<rt
+  data-ruby-level="3">お</rt></ruby>きたあと、24<ruby>日午後<rt data-ruby-level="2">にちごご</rt></ruby>10<ruby>時<rt
+  data-ruby-level="2">じ</rt></ruby>までに<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>１<ruby>以上<rt
+  data-ruby-level="4">いじょう</rt></ruby>の<ruby>揺<rt data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>した<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>は40<ruby>回<rt
+  data-ruby-level="2">かい</rt></ruby><ruby>発生<rt data-ruby-level="3">はっせい</rt></ruby>し、このうち<ruby>今月<rt
+  data-ruby-level="2">こんげつ</rt></ruby>18<ruby>日<rt data-ruby-level="1">にち</rt></ruby>は21<ruby>回<rt
+  data-ruby-level="2">かい</rt></ruby>、19<ruby>日<rt data-ruby-level="1">にち</rt></ruby>は12<ruby>回<rt
+  data-ruby-level="2">かい</rt></ruby>に<ruby>達<rt data-ruby-level="4">たっ</rt></ruby>しました。<br
+  /><br />その<ruby>後<rt data-ruby-level="2">ご</rt></ruby>、20<ruby>日以降<rt data-ruby-level="6">にちいこう</rt></ruby>は１<ruby>日当<rt
+  data-ruby-level="2">にちあ</rt></ruby>たり１、２<ruby>回程度<rt data-ruby-level="5">かいていど</rt></ruby>と<ruby>徐々<rt
+  data-ruby-level="7">じょじょ</rt></ruby>に<ruby>減<rt data-ruby-level="5">へ</rt></ruby>ってきていますが、<ruby>引<rt
+  data-ruby-level="4">ひ</rt></ruby>き<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>き<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>されているほか、<ruby>体<rt data-ruby-level="2">からだ</rt></ruby>に<ruby>感<rt
+  data-ruby-level="3">かん</rt></ruby>じないごく<ruby>小<rt data-ruby-level="1">ちい</rt></ruby>さな<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>が<ruby>数多<rt data-ruby-level="2">かずおお</rt></ruby>く<ruby>発生<rt
+  data-ruby-level="3">はっせい</rt></ruby>していることから、<ruby>依然<rt data-ruby-level="7">いぜん</rt></ruby>として<ruby>活発<rt
+  data-ruby-level="3">かっぱつ</rt></ruby>な<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby><ruby>活動<rt
+  data-ruby-level="3">かつどう</rt></ruby>が<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>いているということです。<br
+  /><br />このため、<ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>は、<ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>の<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby><ruby>活動<rt data-ruby-level="3">かつどう</rt></ruby>に<ruby>注意<rt
+  data-ruby-level="3">ちゅうい</rt></ruby>し、<ruby>揺<rt data-ruby-level="7">ゆ</rt></ruby>れの<ruby>強<rt
+  data-ruby-level="2">つよ</rt></ruby>かった<ruby>地域<rt data-ruby-level="6">ちいき</rt></ruby>では<ruby>建物<rt
+  data-ruby-level="4">たてもの</rt></ruby>が<ruby>倒壊<rt data-ruby-level="7">とうかい</rt></ruby>する<ruby>危険性<rt
+  data-ruby-level="6">きけんせい</rt></ruby>が<ruby>高<rt data-ruby-level="2">たか</rt></ruby>くなっているおそれがあることから、<ruby>危険<rt
+  data-ruby-level="6">きけん</rt></ruby>な<ruby>場所<rt data-ruby-level="3">ばしょ</rt></ruby>には<ruby>立<rt
+  data-ruby-level="1">た</rt></ruby>ち<ruby>入<rt data-ruby-level="1">い</rt></ruby>らないなど<ruby>安全<rt
+  data-ruby-level="3">あんぜん</rt></ruby>を<ruby>意識<rt data-ruby-level="5">いしき</rt></ruby>して<ruby>行動<rt
+  data-ruby-level="3">こうどう</rt></ruby>するよう<ruby>呼<rt data-ruby-level="6">よ</rt></ruby>びかけています。<br
+  /><br />また、<ruby>地盤<rt data-ruby-level="7">じばん</rt></ruby>が<ruby>緩<rt data-ruby-level="7">ゆる</rt></ruby>み、<ruby>少<rt
+  data-ruby-level="2">すこ</rt></ruby>しの<ruby>雨<rt data-ruby-level="1">あめ</rt></ruby>でも<ruby>土砂<rt
+  data-ruby-level="7">どしゃ</rt></ruby><ruby>災害<rt data-ruby-level="5">さいがい</rt></ruby>が<ruby>起<rt
+  data-ruby-level="3">お</rt></ruby>きるおそれがあることから、<ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>の<ruby>雨<rt
+  data-ruby-level="1">あめ</rt></ruby>の<ruby>降<rt data-ruby-level="6">お</rt></ruby>り<ruby>方<rt
+  data-ruby-level="6">かた</rt></ruby>に<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>するとともに、<ruby>最新<rt
+  data-ruby-level="4">さいしん</rt></ruby>の<ruby>気象<rt data-ruby-level="4">きしょう</rt></ruby><ruby>情報<rt
+  data-ruby-level="5">じょうほう</rt></ruby>を<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>するよう<ruby>呼<rt
+  data-ruby-level="6">よ</rt></ruby>びかけています。
+body:
+- title: <ruby>熱中症<rt data-ruby-level="7">ねっちゅうしょう</rt></ruby>にも<ruby>十分<rt data-ruby-level="2">じゅうぶん</rt></ruby><ruby>注意<rt
+    data-ruby-level="3">ちゅうい</rt></ruby>を
+  text: <ruby>揺<rt data-ruby-level="7">ゆ</rt></ruby>れが<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>かった<ruby>地域<rt
+    data-ruby-level="6">ちいき</rt></ruby>を<ruby>含<rt data-ruby-level="7">ふく</rt></ruby>む<ruby>近畿<rt
+    data-ruby-level="7">きんき</rt></ruby><ruby>中部<rt data-ruby-level="3">ちゅうぶ</rt></ruby>や<ruby>北部<rt
+    data-ruby-level="3">ほくぶ</rt></ruby>では、<ruby>気温<rt data-ruby-level="3">きおん</rt></ruby>が30<ruby>度<rt
+    data-ruby-level="3">ど</rt></ruby><ruby>以上<rt data-ruby-level="4">いじょう</rt></ruby>のことし１<ruby>番<rt
+    data-ruby-level="2">ばん</rt></ruby>の<ruby>暑<rt data-ruby-level="3">あつ</rt></ruby>さが<ruby>予想<rt
+    data-ruby-level="3">よそう</rt></ruby>され、<ruby>熱中症<rt data-ruby-level="7">ねっちゅうしょう</rt></ruby>にも<ruby>十分<rt
+    data-ruby-level="2">じゅうぶん</rt></ruby>な<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>が<ruby>必要<rt
+    data-ruby-level="4">ひつよう</rt></ruby>です。<br /><br /><ruby>近畿地方<rt data-ruby-level="7">きんきちほう</rt></ruby>は25<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>、<ruby>高気圧<rt data-ruby-level="5">こうきあつ</rt></ruby>に<ruby>覆<rt
+    data-ruby-level="7">おお</rt></ruby>われて<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>い<ruby>日<rt
+    data-ruby-level="1">ひ</rt></ruby>ざしが<ruby>照<rt data-ruby-level="4">て</rt></ruby>りつけ、<ruby>気温<rt
+    data-ruby-level="3">きおん</rt></ruby>がかなり<ruby>高<rt data-ruby-level="2">たか</rt></ruby>くなる<ruby>見込<rt
+    data-ruby-level="7">みこ</rt></ruby>みです。<br /><br /><ruby>日中<rt data-ruby-level="1">にっちゅう</rt></ruby>の<ruby>最高<rt
+    data-ruby-level="4">さいこう</rt></ruby><ruby>気温<rt data-ruby-level="3">きおん</rt></ruby>は、<ruby>京都市<rt
+    data-ruby-level="3">きょうとし</rt></ruby>が35<ruby>度<rt data-ruby-level="3">ど</rt></ruby>、<ruby>奈良市<rt
+    data-ruby-level="8">ならし</rt></ruby>と<ruby>大津市<rt data-ruby-level="7">おおつし</rt></ruby>が33<ruby>度<rt
+    data-ruby-level="3">ど</rt></ruby>、<ruby>大阪市<rt data-ruby-level="8">おおさかし</rt></ruby>が32<ruby>度<rt
+    data-ruby-level="3">ど</rt></ruby>などと<ruby>予想<rt data-ruby-level="3">よそう</rt></ruby>され、<ruby>特<rt
+    data-ruby-level="4">とく</rt></ruby>に<ruby>近畿<rt data-ruby-level="7">きんき</rt></ruby><ruby>中部<rt
+    data-ruby-level="3">ちゅうぶ</rt></ruby>や<ruby>北部<rt data-ruby-level="3">ほくぶ</rt></ruby>の<ruby>各地<rt
+    data-ruby-level="4">かくち</rt></ruby>は24<ruby>日<rt data-ruby-level="1">にち</rt></ruby>より３<ruby>度<rt
+    data-ruby-level="3">ど</rt></ruby><ruby>前後<rt data-ruby-level="2">ぜんご</rt></ruby>も<ruby>高<rt
+    data-ruby-level="2">たか</rt></ruby>くなって、ことし１<ruby>番<rt data-ruby-level="2">ばん</rt></ruby>の<ruby>暑<rt
+    data-ruby-level="3">あつ</rt></ruby>さが<ruby>予想<rt data-ruby-level="3">よそう</rt></ruby>されています。<br
+    /><br /><ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>は、<ruby>熱中症<rt data-ruby-level="7">ねっちゅうしょう</rt></ruby>に<ruby>十分<rt
+    data-ruby-level="2">じゅうぶん</rt></ruby><ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>し、<ruby>屋外<rt
+    data-ruby-level="3">おくがい</rt></ruby>で<ruby>作業<rt data-ruby-level="3">さぎょう</rt></ruby>する<ruby>場合<rt
+    data-ruby-level="2">ばあい</rt></ruby>だけでなく、<ruby>室内<rt data-ruby-level="2">しつない</rt></ruby>でもこまめに<ruby>水分<rt
+    data-ruby-level="2">すいぶん</rt></ruby>を<ruby>補給<rt data-ruby-level="6">ほきゅう</rt></ruby>するなど、<ruby>体調<rt
+    data-ruby-level="3">たいちょう</rt></ruby>の<ruby>管理<rt data-ruby-level="4">かんり</rt></ruby>に<ruby>気<rt
+    data-ruby-level="1">き</rt></ruby>を<ruby>配<rt data-ruby-level="3">くば</rt></ruby>るよう<ruby>呼<rt
+    data-ruby-level="6">よ</rt></ruby>びかけています。
+source_url: https://www3.nhk.or.jp/news/html/20180625/k10011494061000.html
+easy_title_with_ruby: <ruby>大阪府<rt data-ruby-level="8">おおさかふ</rt></ruby>の<ruby>大<rt
+  data-ruby-level="1">おお</rt></ruby>きな<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>から１<ruby>週間<rt
+  data-ruby-level="2">しゅうかん</rt></ruby>
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/06/25/大阪府の大きな地震から1週間
+related_news:
+- title: <ruby>島根県<rt data-ruby-level="3">しまねけん</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>強<rt
+    data-ruby-level="2">きょう</rt></ruby> <ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>４の<ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>も<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>く
+  url: https://newswebeasy.github.io/news/web/2018/04/09/島根県で震度5強-震度4の地震も続く
+- title: <ruby>大阪<rt data-ruby-level="8">おおさか</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>６<ruby>弱<rt
+    data-ruby-level="2">じゃく</rt></ruby>の<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>
+    <ruby>津波<rt data-ruby-level="7">つなみ</rt></ruby>なし
+  url: https://newswebeasy.github.io/news/web/2018/06/18/大阪で震度6弱の地震-津波なし
+- title: きょうも<ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>で<ruby>真夏日<rt data-ruby-level="3">まなつび</rt></ruby>か
+    <ruby>熱中症<rt data-ruby-level="7">ねっちゅうしょう</rt></ruby>に<ruby>十分<rt data-ruby-level="2">じゅうぶん</rt></ruby><ruby>注意<rt
+    data-ruby-level="3">ちゅうい</rt></ruby>！
+  url: https://newswebeasy.github.io/news/web/2018/04/22/きょうも各地で真夏日か-熱中症に十分注意
+- title: <ruby>ハワイ<rt data-ruby-level="3">はわい</rt></ruby><ruby>島<rt data-ruby-level="3">とう</rt></ruby>でM6.9の<ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>  <ruby>活発<rt data-ruby-level="3">かっぱつ</rt></ruby>な<ruby>火山<rt
+    data-ruby-level="1">かざん</rt></ruby><ruby>活動<rt data-ruby-level="3">かつどう</rt></ruby><ruby>続<rt
+    data-ruby-level="4">つづ</rt></ruby>く
+  url: https://newswebeasy.github.io/news/web/2018/05/05/ハワイ島でM69の地震-活発な火山活動続く
+- title: <ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>で<ruby>気温<rt data-ruby-level="3">きおん</rt></ruby><ruby>上昇<rt
+    data-ruby-level="7">じょうしょう</rt></ruby> <ruby>真夏日<rt data-ruby-level="3">まなつび</rt></ruby>のところも
+    <ruby>熱中症<rt data-ruby-level="7">ねっちゅうしょう</rt></ruby>に<ruby>注意<rt data-ruby-level="3">ちゅうい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/04/21/各地で気温上昇-真夏日のところも-熱中症に注意
+...
