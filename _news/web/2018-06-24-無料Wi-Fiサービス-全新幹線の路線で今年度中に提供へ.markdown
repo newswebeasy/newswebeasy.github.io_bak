@@ -59,6 +59,10 @@ more: <ruby>手軽<rt data-ruby-level="3">てがる</rt></ruby>にインター�
 movie_url: https://newswebeasy.github.io/ja201806/news/web/movie/2018/06/24/k10011493501_201806241809_201806241811.mp4
 voice_url: https://newswebeasy.github.io/ja201806/news/web/voice/2018/06/24/k10011493501_201806241809_201806241811.mp3
 source_url: https://www3.nhk.or.jp/news/html/20180624/k10011493501000.html
+easy_title_with_ruby: Ｗｉ－Ｆｉを<ruby>利用<rt data-ruby-level="4">りよう</rt></ruby>できるサービスが<ruby>全部<rt
+  data-ruby-level="3">ぜんぶ</rt></ruby>の<ruby>新幹線<rt data-ruby-level="5">しんかんせん</rt></ruby>で<ruby>始<rt
+  data-ruby-level="3">はじ</rt></ruby>まる
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/06/26/Wi-Fiを利用できるサービスが全部の新幹線で始まる
 related_news:
 - title: <ruby>大型<rt data-ruby-level="4">おおがた</rt></ruby><ruby>連休<rt data-ruby-level="4">れんきゅう</rt></ruby>
     <ruby>前半<rt data-ruby-level="2">ぜんはん</rt></ruby><ruby>始<rt data-ruby-level="3">はじ</rt></ruby>まる

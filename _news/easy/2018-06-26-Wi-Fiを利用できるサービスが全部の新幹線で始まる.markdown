@@ -1,0 +1,68 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011493501000
+last_modified_at: '2018-06-26T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>26<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ＪＲは全部の新幹線の中で、インターネットに無線でつながるＷｉ－Ｆｉの無料のサービスを始めます。
+title: Ｗｉ－Ｆｉを利用できるサービスが全部の新幹線で始まる
+title_with_ruby: Ｗｉ－Ｆｉを<ruby>利用<rt>りよう</rt></ruby>できるサービスが<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>新幹線<rt>しんかんせん</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まる
+outline: ＪＲは全部の新幹線の中で、インターネットに無線でつながるＷｉ－Ｆｉの無料のサービスを始めます。
+outline_with_ruby: ＪＲは<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、インターネットに<ruby>無線<rt>むせん</rt></ruby>でつながるＷｉ－Ｆｉの<ruby>無料<rt>むりょう</rt></ruby>のサービスを<ruby>始<rt>はじ</rt></ruby>めます。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/24/K10011493501_1806241558_1806241600_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/26/k10011493501000.mp4
+content_with_ruby: "<p>ＪＲは<ruby>全部<rt>ぜんぶ</rt></ruby>の<span style=\"color: blue;\"\
+  ><ruby>新幹線<rt>しんかんせん</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>で、インターネットに<span\
+  \ style=\"color: blue;\"><ruby>無線<rt>むせん</rt></ruby></span>で<span style=\"color:\
+  \ blue;\">つながる</span>Ｗｉ－Ｆｉの<span style=\"color: blue;\"><ruby>無料<rt>むりょう</rt></ruby></span>の<span\
+  \ style=\"color: blue;\">サービス</span>を<ruby>始<rt>はじ</rt></ruby>めます。<ruby>今<rt>いま</rt></ruby>までＷｉ－Ｆｉを<ruby>利用<rt>りよう</rt></ruby>できる<span\
+  \ style=\"color: blue;\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>は<span style=\"color:\
+  \ blue;\"><ruby>一部<rt>いちぶ</rt></ruby></span>だけでしたが、<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>外国人<rt>がいこくじん</rt></ruby>などからもっと<ruby>利用<rt>りよう</rt></ruby>できるようにしてほしいと<ruby>言<rt>い</rt></ruby>われていました。</p>\n\
+  <p><ruby>秋田新幹線<rt>あきたしんかんせん</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby>５<ruby>月<rt>がつ</rt></ruby>まで、<ruby>北陸新幹線<rt>ほくりくしんかんせん</rt></ruby>は<ruby>来年<rt>らいねん</rt></ruby>９<ruby>月<rt>がつ</rt></ruby>まで、<ruby>東海道<rt>とうかいどう</rt></ruby>と<ruby>山陽<rt>さんよう</rt></ruby>、<ruby>九州<rt>きゅうしゅう</rt></ruby>、<ruby>山形新幹線<rt>やまがたしんかんせん</rt></ruby>は２０２０<ruby>年<rt>ねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>までに<ruby>全部<rt>ぜんぶ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>車両<rt>しゃりょう</rt></ruby></span>で<ruby>利用<rt>りよう</rt></ruby>できるようにします。<ruby>北海道<rt>ほっかいどう</rt></ruby>、<ruby>東北<rt>とうほく</rt></ruby>、<ruby>上越<rt>じょうえつ</rt></ruby><ruby>新幹線<rt>しんかんせん</rt></ruby>でも<ruby>利用<rt>りよう</rt></ruby>できる<span\
+  \ style=\"color: blue;\"><ruby>車両<rt>しゃりょう</rt></ruby></span>を<span style=\"color:\
+  \ blue;\"><ruby>増<rt>ふ</rt></ruby>やし</span>ます。</p>\n<p>アメリカから<ruby>旅行<rt>りょこう</rt></ruby>で<ruby>来<rt>き</rt></ruby>た<ruby>男性<rt>だんせい</rt></ruby>は、「Ｗｉ－Ｆｉを<ruby>使<rt>つか</rt></ruby>うことができたら、<span\
+  \ style=\"color: blue;\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>から<ruby>家族<rt>かぞく</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>をすることができるのでうれしいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: サービス
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。
+  - <ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。
+- word: 新幹線
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>のおもな<ruby><rb>都市</rb><rt>とし</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで、<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶための<ruby><rb>高速鉄道</rb><rt>こうそくてつどう</rt></ruby>。<ruby><rb>東海道新幹線</rb><rt>とうかいどうしんかんせん</rt></ruby>、<ruby><rb>山陽新幹線</rb><rt>さんようしんかんせん</rt></ruby>、<ruby><rb>上越新幹線</rb><rt>じょうえつしんかんせん</rt></ruby>、<ruby><rb>長野新幹線</rb><rt>ながのしんかんせん</rt></ruby>、<ruby><rb>東北新幹線</rb><rt>とうほくしんかんせん</rt></ruby>、<ruby><rb>山形新幹線</rb><rt>やまがたしんかんせん</rt></ruby>、<ruby><rb>秋田新幹線</rb><rt>あきたしんかんせん</rt></ruby>、<ruby><rb>九州新幹線</rb><rt>きゅうしゅうしんかんせん</rt></ruby>がある。
+- word: 無線
+  descriptions:
+  - <ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>で、<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>い、<ruby><rb>電線</rb><rt>でんせん</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>わないこと。
+  - 「<ruby><rb>無線電信</rb><rt>むせんでんしん</rt></ruby>」や「<ruby><rb>無線電話</rb><rt>むせんでんわ</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+- word: つながる
+  descriptions:
+  - はなれているものが<ruby><rb>結</rb><rt>むす</rt></ruby>ばれる。
+  - <ruby><rb>関係</rb><rt>かんけい</rt></ruby>がある。<ruby><rb>結</rb><rt>むす</rt></ruby>びつく。
+- word: 無料
+  descriptions:
+  - <ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。
+- word: 一部
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: 車両
+  descriptions:
+  - <ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>・<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>などのこと。また、その<ruby><rb>一台</rb><rt>いちだい</rt></ruby><ruby><rb>一台</rb><rt>いちだい</rt></ruby>。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011493501000/k10011493501000.html
+web_title_with_ruby: <ruby>無料<rt>むりょう</rt></ruby>Ｗｉ－Ｆｉ<ruby>サービス<rt>さーびす</rt></ruby>
+  <ruby>全<rt>ぜん</rt></ruby><ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>路線<rt>ろせん</rt></ruby>で<ruby>今年度中<rt>こんねんどちゅう</rt></ruby>に<ruby>提供<rt>ていきょう</rt></ruby>へ
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/24/無料Wi-Fiサービス-全新幹線の路線で今年度中に提供へ
+related_news:
+- title: <ruby>東北新幹線<rt>とうほくしんかんせん</rt></ruby>が<ruby>止<rt>と</rt></ruby>まる　パンタグラフに<ruby>何<rt>なに</rt></ruby>かがぶつかった<ruby>跡<rt>あと</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/06/18/東北新幹線が止まる-パンタグラフに何かがぶつかった跡
+- title: <ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>外国人<rt>がいこくじん</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やす　マナーの<ruby>問題<rt>もんだい</rt></ruby>も<ruby>考<rt>かんが</rt></ruby>える<ruby>必要<rt>ひつよう</rt></ruby>がある
+  url: https://newswebeasy.github.io/news/easy/2018/06/07/旅行に来る外国人を増やす-マナーの問題も考える必要がある
+- title: <ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>早<rt>はや</rt></ruby>く１０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>になる
+  url: https://newswebeasy.github.io/news/easy/2018/05/21/日本へ旅行に来た外国人が最も早く1000万人になる
+...

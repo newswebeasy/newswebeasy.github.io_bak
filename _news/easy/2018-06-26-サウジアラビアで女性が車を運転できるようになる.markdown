@@ -1,0 +1,50 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011494251000
+last_modified_at: '2018-06-26T17:35:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>26<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>35<ruby>分<rt>ふん</rt></ruby>
+description: サウジアラビアでは女性が車を運転してはいけないことになっていました。
+title: サウジアラビアで女性が車を運転できるようになる
+title_with_ruby: サウジアラビアで<ruby>女性<rt>じょせい</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>できるようになる
+outline: サウジアラビアでは女性が車を運転してはいけないことになっていました。
+outline_with_ruby: サウジアラビアでは<ruby>女性<rt>じょせい</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>してはいけないことになっていました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/25/K10011494251_1806250440_1806250441_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/26/k10011494251000.mp4
+content_with_ruby: "<p>サウジアラビアでは<ruby>女性<rt>じょせい</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>してはいけないことになっていました。しかし、<ruby>女性<rt>じょせい</rt></ruby>がもっと<ruby>社会<rt>しゃかい</rt></ruby>に<ruby>出<rt>で</rt></ruby>ることができるようにするために、<ruby>２４日<rt>にじゅうよっか</rt></ruby>から<ruby>運転<rt>うんてん</rt></ruby>できるようになりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>首都<rt>しゅと</rt></ruby></span>リヤドなどでは<ruby>２４日<rt>にじゅうよっか</rt></ruby>になるとすぐに、<ruby>女性<rt>じょせい</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。<ruby>初<rt>はじ</rt></ruby>めて<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>して<ruby>家<rt>いえ</rt></ruby>から<ruby>仕事<rt>しごと</rt></ruby>に<ruby>行<rt>い</rt></ruby>った<ruby>女性<rt>じょせい</rt></ruby>は「これから<ruby>女性<rt>じょせい</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>変<rt>か</rt></ruby>わると<ruby>思<rt>おも</rt></ruby>います。<ruby>家<rt>いえ</rt></ruby>の<ruby>用事<rt>ようじ</rt></ruby>や<ruby>仕事<rt>しごと</rt></ruby>をする<ruby>女性<rt>じょせい</rt></ruby>が<ruby>運転<rt>うんてん</rt></ruby>するのは<ruby>普通<rt>ふつう</rt></ruby>のことだと<ruby>思<rt>おも</rt></ruby>います」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p><ruby>交通事故<rt>こうつうじこ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べる４０<ruby>人<rt>にん</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>も<ruby>仕事<rt>しごと</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。サウジアラビアの<span\
+  \ style=\"color: blue;\"><ruby>政府<rt>せいふ</rt></ruby></span>は、<ruby>女性<rt>じょせい</rt></ruby>にひどいことをした<ruby>人<rt>ひと</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>罰<rt>ばっ</rt></ruby>する</span><span style=\"color:\
+  \ blue;\"><ruby>決<rt>き</rt></ruby>まり</span>も<ruby>作<rt>つく</rt></ruby>って、<ruby>女性<rt>じょせい</rt></ruby>が<ruby>運転<rt>うんてん</rt></ruby>しやすいようにしました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 首都
+  descriptions:
+  - その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。
+- word: 政府
+  descriptions:
+  - <ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。
+  - <ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。
+- word: 罰する
+  descriptions:
+  - <ruby><rb>罰</rb><rt>ばつ</rt></ruby>をあたえる。こらしめる。
+- word: 決まり
+  descriptions:
+  - <ruby><rb>決</rb><rt>き</rt></ruby>められていること。<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>習慣</rb><rt>しゅうかん</rt></ruby>。
+  - しめくくり。おさまり。
+source_url: http://www3.nhk.or.jp/news/easy/k10011494251000/k10011494251000.html
+web_title_with_ruby: <ruby>女性<rt>じょせい</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby>が<ruby>解禁<rt>かいきん</rt></ruby>
+  <ruby>サウジアラビア<rt>さうじあらびあ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/25/女性の車の運転が解禁-サウジアラビア
+related_news:
+- title: サウジアラビアで<ruby>女性<rt>じょせい</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント
+  url: https://newswebeasy.github.io/news/easy/2018/05/17/サウジアラビアで女性に車を紹介するイベント
+- title: 「ポケモンＧＯ」をしながら<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>して<ruby>事故<rt>じこ</rt></ruby>　<ruby>１人<rt>ひとり</rt></ruby><ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/04/16/ポケモンGOをしながら車を運転して事故-1人亡くなる
+- title: <ruby>選挙<rt>せんきょ</rt></ruby>で<ruby>男性<rt>だんせい</rt></ruby>と<ruby>女性<rt>じょせい</rt></ruby>の<ruby>候補<rt>こうほ</rt></ruby>を<ruby>同<rt>おな</rt></ruby>じぐらいにする<ruby>法律<rt>ほうりつ</rt></ruby>ができる
+  url: https://newswebeasy.github.io/news/easy/2018/05/17/選挙で男性と女性の候補を同じぐらいにする法律ができる
+- title: <ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>する７５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の５<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が「<ruby>認知症<rt>にんちしょう</rt></ruby>の<ruby>可能性<rt>かのうせい</rt></ruby>」
+  url: https://newswebeasy.github.io/news/easy/2018/06/08/車を運転する75歳以上の5万人以上が認知症の可能性
+...

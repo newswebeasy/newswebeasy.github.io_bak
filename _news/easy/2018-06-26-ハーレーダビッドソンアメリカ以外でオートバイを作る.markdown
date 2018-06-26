@@ -1,0 +1,62 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011495631000
+last_modified_at: '2018-06-26T17:35:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>26<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>35<ruby>分<rt>ふん</rt></ruby>
+description: アメリカは、外国から輸入する鉄などの関税を高くしました。
+title: ハーレーダビッドソン「アメリカ以外でオートバイを作る」
+title_with_ruby: ハーレーダビッドソン「アメリカ<ruby>以外<rt>いがい</rt></ruby>でオートバイを<ruby>作<rt>つく</rt></ruby>る」
+outline: アメリカは、外国から輸入する鉄などの関税を高くしました。
+outline_with_ruby: アメリカは、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>輸入<rt>ゆにゅう</rt></ruby>する<ruby>鉄<rt>てつ</rt></ruby>などの<ruby>関税<rt>かんぜい</rt></ruby>を<ruby>高<rt>たか</rt></ruby>くしました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/26/K10011495631_1806260621_1806260631_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/26/k10011495631000.mp4
+content_with_ruby: "<p>アメリカは、<ruby>外国<rt>がいこく</rt></ruby>から<ruby>輸入<rt>ゆにゅう</rt></ruby>する<span\
+  \ style=\"color: blue;\"><ruby>鉄<rt>てつ</rt></ruby></span>などの<span style=\"color:\
+  \ blue;\"><ruby>関税<rt>かんぜい</rt></ruby></span>を<ruby>高<rt>たか</rt></ruby>くしました。<span\
+  \ style=\"color: blue;\">ＥＵ</span>はこの<span style=\"color: blue;\"><ruby>関税<rt>かんぜい</rt></ruby></span>が<ruby>高<rt>たか</rt></ruby>すぎると<ruby>言<rt>い</rt></ruby>って、アメリカから<ruby>輸入<rt>ゆにゅう</rt></ruby>するオートバイの<span\
+  \ style=\"color: blue;\"><ruby>関税<rt>かんぜい</rt></ruby></span>を<ruby>今<rt>いま</rt></ruby>までの６％から３１％に<ruby>上<rt>あ</rt></ruby>げました。</p>\n\
+  <p>アメリカの<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>会社<rt>かいしゃ</rt></ruby>のハーレーダビッドソンは、<span\
+  \ style=\"color: blue;\">ヨーロッパ</span>でオートバイをたくさん<ruby>売<rt>う</rt></ruby>っています。<ruby>会社<rt>かいしゃ</rt></ruby>が<span\
+  \ style=\"color: blue;\">ヨーロッパ</span>に<ruby>輸出<rt>ゆしゅつ</rt></ruby>するオートバイの<span\
+  \ style=\"color: blue;\"><ruby>関税<rt>かんぜい</rt></ruby></span>は<ruby>今<rt>いま</rt></ruby>までより１<ruby>年<rt>ねん</rt></ruby>で１１０<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>高<rt>たか</rt></ruby>くなります。</p>\n\
+  <p>このため、<ruby>会社<rt>かいしゃ</rt></ruby>は<span style=\"color: blue;\">ヨーロッパ</span>で<ruby>売<rt>う</rt></ruby>るオートバイをアメリカ<ruby>以外<rt>いがい</rt></ruby>の<ruby>工場<rt>こうじょう</rt></ruby>で<ruby>作<rt>つく</rt></ruby>ることにしました。<ruby>会社<rt>かいしゃ</rt></ruby>は、オートバイの<ruby>値段<rt>ねだん</rt></ruby>を<ruby>高<rt>たか</rt></ruby>くしないためには<span\
+  \ style=\"color: blue;\">しかたがない</span>と<ruby>言<rt>い</rt></ruby>っています。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: 鉄
+  descriptions:
+  - <ruby><rb>鉄鉱石</rb><rt>てっこうせき</rt></ruby>から<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>した<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。かたくて<ruby><rb>使</rb><rt>つか</rt></ruby>いみちが<ruby><rb>広</rb><rt>ひろ</rt></ruby>い。
+  - かたくて<ruby><rb>強</rb><rt>つよ</rt></ruby>い。
+  - <ruby><rb>鉄道</rb><rt>てつどう</rt></ruby>のこと。
+- word: 関税
+  descriptions:
+  - <ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>輸入</rb><rt>ゆにゅう</rt></ruby>する<ruby><rb>品物</rb><rt>しなもの</rt></ruby>に<ruby><rb>国</rb><rt>くに</rt></ruby>がかける<ruby><rb>税金</rb><rt>ぜいきん</rt></ruby>。
+- word: EU
+  descriptions:
+  - イギリス・ドイツ・フランスなどヨーロッパの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が、<ruby><rb>共同</rb><rt>きょうどう</rt></ruby>で<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>をはかったり<ruby><rb>経済</rb><rt>けいざい</rt></ruby>を<ruby><rb>運営</rb><rt>うんえい</rt></ruby>したりしようとする<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+- word: ヨーロッパ
+  descriptions:
+  - <ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。
+- word: 仕方がない
+  descriptions:
+  - ほかによい<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>がない。
+  - よくない。しようがない。
+  - たまらない。
+source_url: http://www3.nhk.or.jp/news/easy/k10011495631000/k10011495631000.html
+web_title_with_ruby: <ruby>米<rt>べい</rt></ruby><ruby>ハーレー<rt>はーれー</rt></ruby> <ruby>欧州<rt>おうしゅう</rt></ruby><ruby>向<rt>む</rt></ruby>け<ruby>バイク<rt>ばいく</rt></ruby><ruby>生産<rt>せいさん</rt></ruby>
+  <ruby>報復<rt>ほうふく</rt></ruby><ruby>関税<rt>かんぜい</rt></ruby><ruby>避<rt>よ</rt></ruby>け<ruby>国外<rt>こくがい</rt></ruby><ruby>移転<rt>いてん</rt></ruby>へ
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/26/米ハーレー-欧州向けバイク生産-報復関税避け国外移転へ
+related_news:
+- title: ４<ruby>月<rt>がつ</rt></ruby>から<ruby>食料品<rt>しょくりょうひん</rt></ruby>などの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がる
+  url: https://newswebeasy.github.io/news/easy/2018/04/02/4月から食料品などの値段が上がる
+- title: <ruby>武田薬品<rt>たけだやくひん</rt></ruby>がアイルランドの<ruby>会社<rt>かいしゃ</rt></ruby>を６<ruby>兆<rt>ちょう</rt></ruby>８０００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>で<ruby>買<rt>か</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/05/10/武田薬品がアイルランドの会社を6兆8000億円で買う
+- title: <ruby>日本航空<rt>にほんこうくう</rt></ruby>　チケットが<ruby>安<rt>やす</rt></ruby>い<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しく<ruby>作<rt>つく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/05/10/日本航空-チケットが安い飛行機の会社を新しく作る
+- title: <ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>に<ruby>就職<rt>しゅうしょく</rt></ruby>する<ruby>大学生<rt>だいがくせい</rt></ruby>の<ruby>面接<rt>めんせつ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/06/01/来年の春に就職する大学生の面接が始まる
+- title: アメリカ　コンピューターのゲームの<ruby>展示<rt>てんじ</rt></ruby><ruby>会<rt>かい</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/06/14/アメリカ-コンピューターのゲームの展示会が始まる
+...
