@@ -1,0 +1,52 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011495401000
+last_modified_at: '2018-06-27T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 「クールジャパン機構」は、日本の映画や音楽などを外国に輸出する手伝いをしています。
+title: 日本のテレビ番組をミャンマーに紹介するために会社を作る
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>のテレビ<ruby>番組<rt>ばんぐみ</rt></ruby>をミャンマーに<ruby>紹介<rt>しょうかい</rt></ruby>するために<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る
+outline: 「クールジャパン機構」は、日本の映画や音楽などを外国に輸出する手伝いをしています。
+outline_with_ruby: 「クールジャパン<ruby>機構<rt>きこう</rt></ruby>」は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>や<ruby>音楽<rt>おんがく</rt></ruby>などを<ruby>外国<rt>がいこく</rt></ruby>に<ruby>輸出<rt>ゆしゅつ</rt></ruby>する<ruby>手伝<rt>てつだ</rt></ruby>いをしています。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/25/K10011495401_1806252031_1806252034_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/27/k10011495401000.mp4
+content_with_ruby: "<p>「クールジャパン<ruby>機構<rt>きこう</rt></ruby>」は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>や<ruby>音楽<rt>おんがく</rt></ruby>などを<ruby>外国<rt>がいこく</rt></ruby>に<ruby>輸出<rt>ゆしゅつ</rt></ruby>する<ruby>手伝<rt>てつだ</rt></ruby>いをしています。「クールジャパン<ruby>機構<rt>きこう</rt></ruby>」などは、ミャンマーでテレビ<ruby>局<rt>きょく</rt></ruby>を<ruby>持<rt>も</rt></ruby>っている<ruby>会社<rt>かいしゃ</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に、<ruby>新<rt>あたら</rt></ruby>しい<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。この<ruby>会社<rt>かいしゃ</rt></ruby>は、ミャンマーのテレビ<ruby>局<rt>きょく</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>番組<rt>ばんぐみ</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>したり、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>番組<rt>ばんぐみ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ったりします。</p>\n\
+  <p>ミャンマーでテレビを<ruby>持<rt>も</rt></ruby>っている<ruby>家庭<rt>かてい</rt></ruby>はまだ６０％ぐらいです。しかし、<ruby>経済<rt>けいざい</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>成長<rt>せいちょう</rt></ruby></span>しているため、これからテレビや<span\
+  \ style=\"color: blue;\"><ruby>広告<rt>こうこく</rt></ruby></span>が<ruby>増<rt>ふ</rt></ruby>えると<ruby>考<rt>かんが</rt></ruby>えられています。</p>\n\
+  <p>ミャンマーでは<ruby>韓国<rt>かんこく</rt></ruby><span style=\"color: blue;\">ドラマ</span>などが<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>で、<ruby>日本<rt>にっぽん</rt></ruby>もテレビ<ruby>番組<rt>ばんぐみ</rt></ruby>をたくさん<ruby>輸出<rt>ゆしゅつ</rt></ruby>したいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 成長
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>が<ruby><rb>育</rb><rt>そだ</rt></ruby>って<ruby><rb>大</rb><rt>おお</rt></ruby>きくなること。
+  - ものごとが<ruby><rb>発展</rb><rt>はってん</rt></ruby>すること。
+- word: 広告
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。また、<ruby><rb>知</rb><rt>し</rt></ruby>らせるために<ruby><rb>書</rb><rt>か</rt></ruby>かれたものなど。コマーシャル。
+- word: ドラマ
+  descriptions:
+  - <ruby><rb>劇</rb><rt>げき</rt></ruby>。
+  - <ruby><rb>脚本</rb><rt>きゃくほん</rt></ruby>。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011495401000/k10011495401000.html
+web_title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>テレビ<rt>てれび</rt></ruby><ruby>番組<rt>ばんぐみ</rt></ruby>を<ruby>ミャンマー<rt>みゃんまー</rt></ruby>に
+  <ruby>現地<rt>げんち</rt></ruby>で<ruby>合弁会社<rt>ごうべんがいしゃ</rt></ruby><ruby>設立<rt>せつりつ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/25/日本のテレビ番組をミャンマーに-現地で合弁会社設立
+related_news:
+- title: <ruby>倒産<rt>とうさん</rt></ruby>した<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える　<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りないことなどが<ruby>原因<rt>げんいん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/11/倒産した会社が増える-働く人が足りないことなどが原因
+- title: <ruby>日本航空<rt>にほんこうくう</rt></ruby>　チケットが<ruby>安<rt>やす</rt></ruby>い<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しく<ruby>作<rt>つく</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/05/10/日本航空-チケットが安い飛行機の会社を新しく作る
+- title: <ruby>武田薬品<rt>たけだやくひん</rt></ruby>がアイルランドの<ruby>会社<rt>かいしゃ</rt></ruby>を６<ruby>兆<rt>ちょう</rt></ruby>８０００<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>で<ruby>買<rt>か</rt></ruby>う
+  url: https://newswebeasy.github.io/news/easy/2018/05/10/武田薬品がアイルランドの会社を6兆8000億円で買う
+- title: <ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>に<ruby>就職<rt>しゅうしょく</rt></ruby>する<ruby>大学生<rt>だいがくせい</rt></ruby>の<ruby>面接<rt>めんせつ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/06/01/来年の春に就職する大学生の面接が始まる
+- title: <ruby>東京<rt>とうきょう</rt></ruby>ディズニーシーを<ruby>広<rt>ひろ</rt></ruby>くする　「アナと<ruby>雪<rt>ゆき</rt></ruby>の<ruby>女王<rt>じょおう</rt></ruby>」がテーマ
+  url: https://newswebeasy.github.io/news/easy/2018/06/18/東京ディズニーシーを広くする-アナと雪の女王がテーマ
+...

@@ -1,0 +1,42 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011497101000
+last_modified_at: '2018-06-27T17:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: アメリカが日本やＥＵの国、中国などに、イランの石油を輸入しないように言っていることがわかりました。
+title: アメリカが世界の国にイランの石油を輸入しないように言う
+title_with_ruby: アメリカが<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>にイランの<ruby>石油<rt>せきゆ</rt></ruby>を<ruby>輸入<rt>ゆにゅう</rt></ruby>しないように<ruby>言<rt>い</rt></ruby>う
+outline: アメリカが日本やＥＵの国、中国などに、イランの石油を輸入しないように言っていることがわかりました。
+outline_with_ruby: アメリカが<ruby>日本<rt>にっぽん</rt></ruby>やＥＵの<ruby>国<rt>くに</rt></ruby>、<ruby>中国<rt>ちゅうごく</rt></ruby>などに、イランの<ruby>石油<rt>せきゆ</rt></ruby>を<ruby>輸入<rt>ゆにゅう</rt></ruby>しないように<ruby>言<rt>い</rt></ruby>っていることがわかりました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/27/K10011497101_1806270717_1806270718_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/27/k10011497101000.mp4
+content_with_ruby: "<p>アメリカが<ruby>日本<rt>にっぽん</rt></ruby>や<span style=\"color: blue;\"\
+  >ＥＵ</span>の<ruby>国<rt>くに</rt></ruby>、<ruby>中国<rt>ちゅうごく</rt></ruby>などに、イランの<span\
+  \ style=\"color: blue;\"><ruby>石油<rt>せきゆ</rt></ruby></span>を<ruby>輸入<rt>ゆにゅう</rt></ruby>しないように<ruby>言<rt>い</rt></ruby>っていることがわかりました。<ruby>今年<rt>ことし</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby><ruby>４日<rt>よっか</rt></ruby>までに<ruby>輸入<rt>ゆにゅう</rt></ruby>をやめるように<ruby>言<rt>い</rt></ruby>っています。</p>\n\
+  <p>イランは<span style=\"color: blue;\"><ruby>核兵器<rt>かくへいき</rt></ruby></span>を<ruby>作<rt>つく</rt></ruby>ることができないようにするという<ruby>約束<rt>やくそく</rt></ruby>を２０１５<ruby>年<rt>ねん</rt></ruby>にアメリカなど６つの<ruby>国<rt>くに</rt></ruby>としました。その<ruby>代<rt>か</rt></ruby>わりに、６つの<ruby>国<rt>くに</rt></ruby>は<ruby>経済制裁<rt>けいざいせいさい</rt></ruby>をやめて、イランと<ruby>貿易<rt>ぼうえき</rt></ruby>などをすると<ruby>約束<rt>やくそく</rt></ruby>しました。しかし、アメリカは<ruby>今年<rt>ことし</rt></ruby>５<ruby>月<rt>がつ</rt></ruby>、この<ruby>約束<rt>やくそく</rt></ruby>をやめて、イランにまた<ruby>経済制裁<rt>けいざいせいさい</rt></ruby>をすると<ruby>言<rt>い</rt></ruby>っていました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>はイランからの<span style=\"color: blue;\"><ruby>石油<rt>せきゆ</rt></ruby></span>の<ruby>輸入<rt>ゆにゅう</rt></ruby>をどうするか、アメリカと<span\
+  \ style=\"color: blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>い</span>をしていくことにしています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 石油
+  descriptions:
+  - <ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>から<ruby><rb>出</rb><rt>で</rt></ruby>る、<ruby><rb>黒</rb><rt>くろ</rt></ruby>くどろどろした<ruby><rb>燃</rb><rt>も</rt></ruby>えやすい<ruby><rb>油</rb><rt>あぶら</rt></ruby>。<ruby><rb>大昔</rb><rt>おおむかし</rt></ruby>の<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>が<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>にうまってできたもの。<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>からとったままのものを<ruby><rb>原油</rb><rt>げんゆ</rt></ruby>といい、ガソリン・<ruby><rb>軽油</rb><rt>けいゆ</rt></ruby>・<ruby><rb>灯油</rb><rt>とうゆ</rt></ruby>・<ruby><rb>重油</rb><rt>じゅうゆ</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る。<ruby><rb>化学工業</rb><rt>かがくこうぎょう</rt></ruby>の<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>としても<ruby><rb>使</rb><rt>つか</rt></ruby>われる。
+  - 「<span class="dic_sansyogogi">1)</span>」から<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>燃料</rb><rt>ねんりょう</rt></ruby>やじゅんかつ<ruby><rb>油</rb><rt>ゆ</rt></ruby>などの<ruby><rb>製品</rb><rt>せいひん</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>灯油</rb><rt>とうゆ</rt></ruby>のこと。
+- word: EU
+  descriptions:
+  - イギリス・ドイツ・フランスなどヨーロッパの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が、<ruby><rb>共同</rb><rt>きょうどう</rt></ruby>で<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>をはかったり<ruby><rb>経済</rb><rt>けいざい</rt></ruby>を<ruby><rb>運営</rb><rt>うんえい</rt></ruby>したりしようとする<ruby><rb>組織</rb><rt>そしき</rt></ruby>。
+- word: 核兵器
+  descriptions:
+  - <ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。
+- word: 話し合い
+  descriptions:
+  - <ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>相談</rb><rt>そうだん</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011497101000/k10011497101000.html
+web_title_with_ruby: <ruby>トランプ<rt>とらんぷ</rt></ruby><ruby>政権<rt>せいけん</rt></ruby> <ruby>イラン<rt>いらん</rt></ruby><ruby>産<rt>さん</rt></ruby><ruby>原油<rt>げんゆ</rt></ruby>の<ruby>輸入<rt>ゆにゅう</rt></ruby><ruby>完全<rt>かんぜん</rt></ruby><ruby>停止<rt>ていし</rt></ruby>を<ruby>各国<rt>かっこく</rt></ruby>に<ruby>要求<rt>ようきゅう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/27/トランプ政権-イラン産原油の輸入完全停止を各国に要求
+related_news:
+- title: アメリカのトランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>「イランにまた<ruby>経済制裁<rt>けいざいせいさい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う」
+  url: https://newswebeasy.github.io/news/easy/2018/05/09/アメリカのトランプ大統領イランにまた経済制裁を行う
+...

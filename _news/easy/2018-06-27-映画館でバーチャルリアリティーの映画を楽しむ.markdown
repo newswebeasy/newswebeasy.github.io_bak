@@ -1,0 +1,60 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011496211000
+last_modified_at: '2018-06-27T17:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: 映画の会社の東映とパソコンの会社のＶＡＩＯなどが２６日、日本で初めて映画館でバーチャルリアリティーの映画を始めると発表しました。
+title: 映画館でバーチャルリアリティーの映画を楽しむ
+title_with_ruby: <ruby>映画館<rt>えいがかん</rt></ruby>でバーチャルリアリティーの<ruby>映画<rt>えいが</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむ
+outline: 映画の会社の東映とパソコンの会社のＶＡＩＯなどが２６日、日本で初めて映画館でバーチャルリアリティーの映画を始めると発表しました。
+outline_with_ruby: <ruby>映画<rt>えいが</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>東映<rt>とうえい</rt></ruby>とパソコンの<ruby>会社<rt>かいしゃ</rt></ruby>のＶＡＩＯなどが２６<ruby>日<rt>にち</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>映画館<rt>えいがかん</rt></ruby>でバーチャルリアリティーの<ruby>映画<rt>えいが</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めると<ruby>発表<rt>はっぴょう</rt></ruby>しました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/26/K10011496211_1806261544_1806261549_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/27/k10011496211000.mp4
+content_with_ruby: "<p><ruby>映画<rt>えいが</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>東映<rt>とうえい</rt></ruby>とパソコンの<ruby>会社<rt>かいしゃ</rt></ruby>のＶＡＩＯなどが２６<ruby>日<rt>にち</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>映画館<rt>えいがかん</rt></ruby>でバーチャルリアリティーの<ruby>映画<rt>えいが</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めると<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。</p>\n<p>この<ruby>映画<rt>えいが</rt></ruby>は、<span\
+  \ style=\"color: blue;\">ゴーグル</span>の<ruby>形<rt>かたち</rt></ruby>の<ruby>機械<rt>きかい</rt></ruby>を<span\
+  \ style=\"color: blue;\">つける</span>と、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>映画<rt>えいが</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>にいるように<ruby>見<rt>み</rt></ruby>えます。</p>\n\
+  <p><ruby>東京都<rt>とうきょうと</rt></ruby><ruby>新宿区<rt>しんじゅくく</rt></ruby>にある<ruby>映画館<rt>えいがかん</rt></ruby>で７<ruby>月<rt>がつ</rt></ruby><ruby>２日<rt>ふつか</rt></ruby>から１か<ruby>月<rt>げつ</rt></ruby>、<span\
+  \ style=\"color: blue;\">アニメ</span>の「エヴァンゲリオン」など３つの<ruby>映画<rt>えいが</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむことができます。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span><ruby>会<rt>かい</rt></ruby>に<ruby>出席<rt>しゅっせき</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>はこの<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、「<ruby>音<rt>おと</rt></ruby>もすばらしかったです。いろいろな<ruby>映画<rt>えいが</rt></ruby>をバーチャルリアリティーで<ruby>見<rt>み</rt></ruby>たいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: ゴーグル
+  descriptions:
+  - <ruby><rb>目</rb><rt>め</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>をすっかりおおう<ruby><rb>眼鏡</rb><rt>めがね</rt></ruby>。<ruby><rb>登山</rb><rt>とざん</rt></ruby>、スキー、<ruby><rb>水泳</rb><rt>すいえい</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。
+- word: 付ける
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。
+  - しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。
+  - <ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。
+  - <ruby><rb>加</rb><rt>くわ</rt></ruby>える。
+  - そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。
+  - ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。
+  - <ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。
+  - <ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。
+  - …し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。
+- word: アニメーション
+  descriptions:
+  - かいた<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>を、<ruby><rb>動</rb><rt>うご</rt></ruby>きに<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>撮影</rb><rt>さつえい</rt></ruby>し、それを<ruby><rb>映</rb><rt>うつ</rt></ruby>して<ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>動</rb><rt>うご</rt></ruby>いているように<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>映画</rb><rt>えいが</rt></ruby>。<ruby><rb>動画</rb><rt>どうが</rt></ruby>。アニメ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011496211000/k10011496211000.html
+web_title_with_ruby: <ruby>映画館<rt>えいがかん</rt></ruby>でＶＲ<ruby>作品<rt>さくひん</rt></ruby>を<ruby>上映<rt>じょうえい</rt></ruby>
+  <ruby>来月<rt>らいげつ</rt></ruby>から<ruby>東京<rt>とうきょう</rt></ruby>で
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/26/映画館でVR作品を上映-来月から東京で
+related_news:
+- title: カンヌ<ruby>映画祭<rt>えいがさい</rt></ruby>　<ruby>是枝<rt>これえだ</rt></ruby><ruby>監督<rt>かんとく</rt></ruby>がいちばんすばらしい<ruby>賞<rt>しょう</rt></ruby>をもらう
+  url: https://newswebeasy.github.io/news/easy/2018/05/22/カンヌ映画祭-是枝監督がいちばんすばらしい賞をもらう
+- title: サウジアラビアに<ruby>映画館<rt>えいがかん</rt></ruby>がオープン　３５<ruby>年<rt>ねん</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>だった
+  url: https://newswebeasy.github.io/news/easy/2018/04/20/サウジアラビアに映画館がオープン-35年禁止だった
+- title: アニメーション<ruby>映画<rt>えいが</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>高畑勲<rt>たかはたいさお</rt></ruby>さんが<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/04/06/アニメーション映画で有名な高畑勲さんが亡くなる
+- title: <ruby>東京<rt>とうきょう</rt></ruby>ディズニーシーを<ruby>広<rt>ひろ</rt></ruby>くする　「アナと<ruby>雪<rt>ゆき</rt></ruby>の<ruby>女王<rt>じょおう</rt></ruby>」がテーマ
+  url: https://newswebeasy.github.io/news/easy/2018/06/18/東京ディズニーシーを広くする-アナと雪の女王がテーマ
+- title: <ruby>愛知県<rt>あいちけん</rt></ruby>　ジブリパークを２０２３<ruby>年<rt>ねん</rt></ruby>までにオープンしたい
+  url: https://newswebeasy.github.io/news/easy/2018/04/26/愛知県-ジブリパークを2023年までにオープンしたい
+...

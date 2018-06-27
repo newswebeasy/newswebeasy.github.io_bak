@@ -1,0 +1,67 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011496851000
+last_modified_at: '2018-06-27T17:50:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>50<ruby>分<rt>ふん</rt></ruby>
+description: 日本は昔、売るために鯨をとっていました。
+title: 日本「増えた鯨は昔のようにとりたい」
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>「<ruby>増<rt>ふ</rt></ruby>えた<ruby>鯨<rt>くじら</rt></ruby>は<ruby>昔<rt>むかし</rt></ruby>のようにとりたい」
+outline: 日本は昔、売るために鯨をとっていました。
+outline_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>は<ruby>昔<rt>むかし</rt></ruby>、<ruby>売<rt>う</rt></ruby>るために<ruby>鯨<rt>くじら</rt></ruby>をとっていました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/27/K10011496851_1806262335_1806270419_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/27/k10011496851000.mp4
+content_with_ruby: "<p><ruby>日本<rt>にっぽん</rt></ruby>は<ruby>昔<rt>むかし</rt></ruby>、<ruby>売<rt>う</rt></ruby>るために<span\
+  \ style=\"color: blue;\"><ruby>鯨<rt>くじら</rt></ruby></span>をとっていました。３０<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>前<rt>まえ</rt></ruby>、<ruby>世界<rt>せかい</rt></ruby>の<ruby>国<rt>くに</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>鯨<rt>くじら</rt></ruby></span>について<span style=\"color:\
+  \ blue;\"><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う</span>ＩＷＣの<ruby>会議<rt>かいぎ</rt></ruby>で、<span\
+  \ style=\"color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span><ruby>以外<rt>いがい</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>鯨<rt>くじら</rt></ruby></span>をとってはいけないと<ruby>決<rt>き</rt></ruby>まりました。このため、<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>今<rt>いま</rt></ruby>までの３０<ruby>年<rt>ねん</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span><ruby>以外<rt>いがい</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>鯨<rt>くじら</rt></ruby></span>をとっていません。</p>\n<p><ruby>日本<rt>にっぽん</rt></ruby>は、<span\
+  \ style=\"color: blue;\"><ruby>一部<rt>いちぶ</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<span style=\"color: blue;\"><ruby>鯨<rt>くじら</rt></ruby></span>が<ruby>増<rt>ふ</rt></ruby>えてきたため、<ruby>昔<rt>むかし</rt></ruby>のように<span\
+  \ style=\"color: blue;\"><ruby>鯨<rt>くじら</rt></ruby></span>をとりたいと<ruby>考<rt>かんが</rt></ruby>えています。そして、９<ruby>月<rt>がつ</rt></ruby>のＩＷＣの<ruby>会議<rt>かいぎ</rt></ruby>で、<ruby>増<rt>ふ</rt></ruby>えた<span\
+  \ style=\"color: blue;\"><ruby>種類<rt>しゅるい</rt></ruby></span>の<span style=\"color:\
+  \ blue;\"><ruby>鯨<rt>くじら</rt></ruby></span>は<span style=\"color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span><ruby>以外<rt>いがい</rt></ruby>でも<span\
+  \ style=\"color: blue;\">とれる</span>ようにしたいと<ruby>言<rt>い</rt></ruby>うことにしています。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>は、<span style=\"color: blue;\"><ruby>調査<rt>ちょうさ</rt></ruby></span><ruby>以外<rt>いがい</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>鯨<rt>くじら</rt></ruby></span>をとりたいと<ruby>今<rt>いま</rt></ruby>までもＩＷＣに<ruby>言<rt>い</rt></ruby>っていました。しかし、いろいろな<ruby>国<rt>くに</rt></ruby>が<ruby>反対<rt>はんたい</rt></ruby>しました。９<ruby>月<rt>がつ</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>で、ほかの<ruby>国<rt>くに</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>賛成<rt>さんせい</rt></ruby></span>するかどうかわかりません。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 鯨
+  descriptions:
+  - <ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>大形</rb><rt>おおがた</rt></ruby>の<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。シロナガスクジラ・マッコウクジラ・セミクジラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>哺乳類</rb><rt>ほにゅうるい</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>は<ruby><rb>乳</rb><rt>ちち</rt></ruby>を<ruby><rb>飲</rb><rt>の</rt></ruby>んで<ruby><rb>育</rb><rt>そだ</rt></ruby>つ。
+- word: 話し合う
+  descriptions:
+  - たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。
+  - <ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。
+- word: 調査
+  descriptions:
+  - <ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。
+- word: 一部
+  descriptions:
+  - <ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。
+- word: 種類
+  descriptions:
+  - <ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。
+- word: 捕れる
+  descriptions:
+  - <ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>鳥</rb><rt>とり</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。
+  - とることができる。
+- word: 賛成
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えをよいと<ruby><rb>認</rb><rt>みと</rt></ruby>めること。<ruby><rb>同意</rb><rt>どうい</rt></ruby>すること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011496851000/k10011496851000.html
+web_title_with_ruby: <ruby>政府<rt>せいふ</rt></ruby> <ruby>商業<rt>しょうぎょう</rt></ruby><ruby>捕鯨<rt>ほげい</rt></ruby>の<ruby>再開<rt>さいかい</rt></ruby><ruby>提案<rt>ていあん</rt></ruby>へ
+  ９<ruby>月<rt>がつ</rt></ruby>のＩＷＣ<ruby>総会<rt>そうかい</rt></ruby>で
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/27/政府-商業捕鯨の再開提案へ-9月のIWC総会で
+related_news:
+- title: <ruby>東京湾<rt>とうきょうわん</rt></ruby>で<ruby>鯨<rt>くじら</rt></ruby>が<ruby>泳<rt>およ</rt></ruby>いでいる「<ruby>船<rt>ふね</rt></ruby>は<ruby>気<rt>き</rt></ruby>をつけて」
+  url: https://newswebeasy.github.io/news/easy/2018/06/26/東京湾で鯨が泳いでいる船は気をつけて
+- title: タイ　<ruby>死<rt>し</rt></ruby>んだ<ruby>鯨<rt>くじら</rt></ruby>のおなかの<ruby>中<rt>なか</rt></ruby>にたくさんのプラスチックの<ruby>袋<rt>ふくろ</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/06/04/タイ-死んだ鯨のおなかの中にたくさんのプラスチックの袋
+...

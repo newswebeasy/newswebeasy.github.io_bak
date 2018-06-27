@@ -1,0 +1,38 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011495211000
+last_modified_at: '2018-06-27T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ２０２０年に東京でオリンピックとパラリンピックがあります。
+title: 東京オリンピック　横浜の港で大きな船をホテルにする
+title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby>オリンピック　<ruby>横浜<rt>よこはま</rt></ruby>の<ruby>港<rt>みなと</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>をホテルにする
+outline: ２０２０年に東京でオリンピックとパラリンピックがあります。
+outline_with_ruby: ２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>でオリンピックとパラリンピックがあります。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/25/K10011495211_1806251806_1806251808_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/27/k10011495211000.mp4
+content_with_ruby: "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<span\
+  \ style=\"color: blue;\">オリンピック</span>と<span style=\"color: blue;\">パラリンピック</span>があります。<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>来<rt>き</rt></ruby>て、<ruby>東京<rt>とうきょう</rt></ruby>やその<ruby>周<rt>まわ</rt></ruby>りではホテルや<ruby>旅館<rt>りょかん</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなる<ruby>心配<rt>しんぱい</rt></ruby>があります。</p>\n\
+  <p><ruby>旅行<rt>りょこう</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>のＪＴＢは、<ruby>横浜<rt>よこはま</rt></ruby>の<ruby>港<rt>みなと</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>をとめて、ホテルの<ruby>代<rt>か</rt></ruby>わりに<ruby>使<rt>つか</rt></ruby>うことにしました。<ruby>使<rt>つか</rt></ruby>うのはアメリカの<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>船<rt>ふね</rt></ruby>で、<ruby>泊<rt>と</rt></ruby>まることができる<ruby>部屋<rt>へや</rt></ruby>が１０００<ruby>以上<rt>いじょう</rt></ruby>あります。プールも３つあります。<span\
+  \ style=\"color: blue;\">１<ruby>泊<rt>ぱく</rt></ruby></span>の<ruby>値段<rt>ねだん</rt></ruby>は<ruby>１人<rt>ひとり</rt></ruby>３<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>から３０<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>ぐらいの<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p><ruby>東京<rt>とうきょう</rt></ruby>でも、スイスの<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>船<rt>ふね</rt></ruby>をホテルの<ruby>代<rt>か</rt></ruby>わりに<ruby>使<rt>つか</rt></ruby>う<ruby>計画<rt>けいかく</rt></ruby>が<ruby>進<rt>すす</rt></ruby>んでいます。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: オリンピック
+  descriptions:
+  - <ruby><rb>４年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。
+- word: パラリンピック
+  descriptions:
+  - <ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。
+- word: 一泊
+  descriptions:
+  - <ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>家</rb><rt>いえ</rt></ruby>でない<ruby><rb>所</rb><rt>ところ</rt></ruby>に、ひと<ruby><rb>晩</rb><rt>ばん</rt></ruby><ruby><rb>泊</rb><rt>と</rt></ruby>まること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011495211000/k10011495211000.html
+web_title_with_ruby: <ruby>東京<rt>とうきょう</rt></ruby><ruby>五輪<rt>ごりん</rt></ruby>の<ruby>期間中<rt>きかんちゅう</rt></ruby>
+  <ruby>豪華<rt>ごうか</rt></ruby><ruby>客船<rt>きゃくせん</rt></ruby>が<ruby>横浜港<rt>よこはまこう</rt></ruby>に<ruby>停泊<rt>ていはく</rt></ruby>し<ruby>ホテル<rt>ほてる</rt></ruby>に
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/25/東京五輪の期間中-豪華客船が横浜港に停泊しホテルに
+related_news:
+- title: <ruby>東京都<rt>とうきょうと</rt></ruby>　ホテルの<ruby>代<rt>か</rt></ruby>わりに<ruby>使<rt>つか</rt></ruby>う<ruby>船<rt>ふね</rt></ruby>　スイスの<ruby>会社<rt>かいしゃ</rt></ruby>と<ruby>相談<rt>そうだん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/05/29/東京都-ホテルの代わりに使う船-スイスの会社と相談
+...
