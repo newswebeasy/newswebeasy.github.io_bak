@@ -1,0 +1,63 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011496001000
+last_modified_at: '2018-06-28T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 埼玉県にあるＪＲ東日本の鉄道博物館では、鉄道の歴史や技術を見ることができます。
+title: 鉄道博物館　新しい建物が来月オープンする
+title_with_ruby: <ruby>鉄道博物館<rt>てつどうはくぶつかん</rt></ruby>　<ruby>新<rt>あたら</rt></ruby>しい<ruby>建物<rt>たてもの</rt></ruby>が<ruby>来月<rt>らいげつ</rt></ruby>オープンする
+outline: 埼玉県にあるＪＲ東日本の鉄道博物館では、鉄道の歴史や技術を見ることができます。
+outline_with_ruby: <ruby>埼玉県<rt>さいたまけん</rt></ruby>にあるＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>の<ruby>鉄道博物館<rt>てつどうはくぶつかん</rt></ruby>では、<ruby>鉄道<rt>てつどう</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>ることができます。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/26/K10011496001_1806261350_1806261355_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/28/k10011496001000.mp4
+content_with_ruby: "<p><ruby>埼玉県<rt>さいたまけん</rt></ruby>にあるＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>の<ruby>鉄道博物館<rt>てつどうはくぶつかん</rt></ruby>では、<span\
+  \ style=\"color: blue;\"><ruby>鉄道<rt>てつどう</rt></ruby></span>の<ruby>歴史<rt>れきし</rt></ruby>や<ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>ることができます。この<span\
+  \ style=\"color: blue;\"><ruby>博物館<rt>はくぶつかん</rt></ruby></span>は、もっとたくさんの<ruby>人<rt>ひと</rt></ruby>に<ruby>来<rt>き</rt></ruby>てほしいと<ruby>考<rt>かんが</rt></ruby>えて、<ruby>隣<rt>となり</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>建物<rt>たてもの</rt></ruby>をつくりました。</p>\n\
+  <p><ruby>新<rt>あたら</rt></ruby>しい<ruby>建物<rt>たてもの</rt></ruby>は４<ruby>階<rt>かい</rt></ruby><ruby>建<rt>だ</rt></ruby>てです。１<ruby>階<rt>かい</rt></ruby>と２<ruby>階<rt>かい</rt></ruby>では<span\
+  \ style=\"color: blue;\"><ruby>鉄道<rt>てつどう</rt></ruby></span>の<ruby>仕事<rt>しごと</rt></ruby>が<ruby>経験<rt>けいけん</rt></ruby>できます。<ruby>運転<rt>うんてん</rt></ruby><ruby>席<rt>せき</rt></ruby>からの<ruby>景色<rt>けしき</rt></ruby>を<span\
+  \ style=\"color: blue;\">ビデオ</span>で<ruby>見<rt>み</rt></ruby>ながら、<span style=\"color:\
+  \ blue;\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>を<ruby>運転<rt>うんてん</rt></ruby>しているような<ruby>気分<rt>きぶん</rt></ruby>になることができます。<ruby>電車<rt>でんしゃ</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>車掌<rt>しゃしょう</rt></ruby></span>になって<ruby>駅<rt>えき</rt></ruby>の<span\
+  \ style=\"color: blue;\">ホーム</span>に<ruby>立<rt>た</rt></ruby>つこともできます。３<ruby>階<rt>がい</rt></ruby>では<span\
+  \ style=\"color: blue;\"><ruby>鉄道<rt>てつどう</rt></ruby></span>の<ruby>歴史<rt>れきし</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>しています。</p>\n\
+  <p><ruby>新<rt>あたら</rt></ruby>しい<ruby>建物<rt>たてもの</rt></ruby>は７<ruby>月<rt>がつ</rt></ruby><ruby>５日<rt>いつか</rt></ruby>に<span\
+  \ style=\"color: blue;\">オープン</span>する<ruby>予定<rt>よてい</rt></ruby>です。</p>\n<p></p>\n\
+  <p></p>"
+words:
+- word: オープン
+  descriptions:
+  - <ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。
+  - かくしだてをしないようす。
+  - おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。
+- word: 鉄道
+  descriptions:
+  - <ruby><rb>鉄</rb><rt>てつ</rt></ruby>のレールをしいて、<ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>を<ruby><rb>走</rb><rt>はし</rt></ruby>らせる<ruby><rb>交通機関</rb><rt>こうつうきかん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、１８７２<ruby><rb>年</rb><rt>ねん</rt></ruby>（<ruby><rb>明治</rb><rt>めいじ</rt></ruby>５<ruby><rb>年</rb><rt>ねん</rt></ruby>）に<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>の<ruby><rb>新橋</rb><rt>しんばし</rt></ruby>と<ruby><rb>横浜</rb><rt>よこはま</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>初</rb><rt>はじ</rt></ruby>めて<ruby><rb>開通</rb><rt>かいつう</rt></ruby>した。
+- word: 博物館
+  descriptions:
+  - <ruby><rb>自然</rb><rt>しぜん</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>、<ruby><rb>歴史</rb><rt>れきし</rt></ruby>などについての<ruby><rb>資料</rb><rt>しりょう</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めて、<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。
+- word: ビデオ
+  descriptions:
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。
+  - 「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。
+  - <ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。
+- word: 新幹線
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>のおもな<ruby><rb>都市</rb><rt>とし</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで、<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶための<ruby><rb>高速鉄道</rb><rt>こうそくてつどう</rt></ruby>。<ruby><rb>東海道新幹線</rb><rt>とうかいどうしんかんせん</rt></ruby>、<ruby><rb>山陽新幹線</rb><rt>さんようしんかんせん</rt></ruby>、<ruby><rb>上越新幹線</rb><rt>じょうえつしんかんせん</rt></ruby>、<ruby><rb>長野新幹線</rb><rt>ながのしんかんせん</rt></ruby>、<ruby><rb>東北新幹線</rb><rt>とうほくしんかんせん</rt></ruby>、<ruby><rb>山形新幹線</rb><rt>やまがたしんかんせん</rt></ruby>、<ruby><rb>秋田新幹線</rb><rt>あきたしんかんせん</rt></ruby>、<ruby><rb>九州新幹線</rb><rt>きゅうしゅうしんかんせん</rt></ruby>がある。
+- word: 車掌
+  descriptions:
+  - <ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>・<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>などの<ruby><rb>中</rb><rt>なか</rt></ruby>で、<ruby><rb>発車</rb><rt>はっしゃ</rt></ruby>の<ruby><rb>合図</rb><rt>あいず</rt></ruby>や<ruby><rb>車内</rb><rt>しゃない</rt></ruby>の<ruby><rb>客</rb><rt>きゃく</rt></ruby>の<ruby><rb>世話</rb><rt>せわ</rt></ruby>などの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: プラットホーム
+  descriptions:
+  - <ruby><rb>駅</rb><rt>えき</rt></ruby>で<ruby><rb>乗客</rb><rt>じょうきゃく</rt></ruby>が<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>降</rb><rt>お</rt></ruby>りする<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。ホーム。
+source_url: http://www3.nhk.or.jp/news/easy/k10011496001000/k10011496001000.html
+web_title_with_ruby: <ruby>鉄道<rt>てつどう</rt></ruby><ruby>博物館<rt>はくぶつかん</rt></ruby>の<ruby>新館<rt>しんかん</rt></ruby>が<ruby>完成<rt>かんせい</rt></ruby>
+  さいたま
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/26/鉄道博物館の新館が完成-さいたま
+related_news:
+- title: ＪＲ<ruby>東日本<rt>ひがしにほん</rt></ruby>がこれからつくる<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>にカメラを<ruby>付<rt>つ</rt></ruby>ける
+  url: https://newswebeasy.github.io/news/easy/2018/04/05/JR東日本がこれからつくる全部の電車にカメラを付ける
+- title: ２０２０<ruby>年<rt>ねん</rt></ruby>から<ruby>東京<rt>とうきょう</rt></ruby>と<ruby>伊豆<rt>いず</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しい<ruby>観光<rt>かんこう</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>走<rt>はし</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/05/09/2020年から東京と伊豆の間を新しい観光の電車が走る
+...

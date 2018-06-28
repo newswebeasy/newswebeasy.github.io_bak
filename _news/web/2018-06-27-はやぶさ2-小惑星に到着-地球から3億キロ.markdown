@@ -1,0 +1,154 @@
+---
+layout: web_news
+categories: web
+newsid: k10011497221000
+title: 「はやぶさ２」 小惑星に到着 地球から３億キロ
+title_with_ruby: 「はやぶさ２」 <ruby>小惑星<rt data-ruby-level="7">しょうわくせい</rt></ruby>に<ruby>到着<rt
+  data-ruby-level="7">とうちゃく</rt></ruby> <ruby>地球<rt data-ruby-level="3">ちきゅう</rt></ruby>から３<ruby>億<rt
+  data-ruby-level="4">おく</rt></ruby>キロ
+last_modified_at: '2018-06-27T10:53:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>06<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>27<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 10<ruby>時<rt data-ruby-level="2">じ</rt></ruby>53<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: 生命の起源を探るため、４年前に打ち上げられた日本の小惑星探査機「はやぶさ２」が27日午前９時35分、地球から３億キロ離れた目標の小惑星「リュウグウ」に到着しました。上空から地表の観測を続けたあと着陸して岩石を採取し、地球に持ち帰る計画で、世界をリードする日本の小惑星探査に注目が集まっています。
+summary: <ruby>生命<rt data-ruby-level="3">せいめい</rt></ruby>の<ruby>起源<rt data-ruby-level="6">きげん</rt></ruby>を<ruby>探<rt
+  data-ruby-level="7">さぐ</rt></ruby>るため、４<ruby>年前<rt data-ruby-level="2">ねんまえ</rt></ruby>に<ruby>打<rt
+  data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げられた<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>の<ruby>小惑星<rt data-ruby-level="7">しょうわくせい</rt></ruby><ruby>探査機<rt
+  data-ruby-level="6">たんさき</rt></ruby>「はやぶさ２」が27<ruby>日午前<rt data-ruby-level="2">にちごぜん</rt></ruby>９<ruby>時<rt
+  data-ruby-level="2">じ</rt></ruby>35<ruby>分<rt data-ruby-level="2">ふん</rt></ruby>、<ruby>地球<rt
+  data-ruby-level="3">ちきゅう</rt></ruby>から３<ruby>億<rt data-ruby-level="4">おく</rt></ruby>キロ<ruby>離<rt
+  data-ruby-level="7">はな</rt></ruby>れた<ruby>目標<rt data-ruby-level="4">もくひょう</rt></ruby>の<ruby>小惑星<rt
+  data-ruby-level="7">しょうわくせい</rt></ruby>「リュウグウ」に<ruby>到着<rt data-ruby-level="7">とうちゃく</rt></ruby>しました。<ruby>上空<rt
+  data-ruby-level="1">じょうくう</rt></ruby>から<ruby>地表<rt data-ruby-level="3">ちひょう</rt></ruby>の<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>を<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>けたあと<ruby>着陸<rt
+  data-ruby-level="4">ちゃくりく</rt></ruby>して<ruby>岩石<rt data-ruby-level="2">がんせき</rt></ruby>を<ruby>採取<rt
+  data-ruby-level="5">さいしゅ</rt></ruby>し、<ruby>地球<rt data-ruby-level="3">ちきゅう</rt></ruby>に<ruby>持<rt
+  data-ruby-level="3">も</rt></ruby>ち<ruby>帰<rt data-ruby-level="3">かえ</rt></ruby>る<ruby>計画<rt
+  data-ruby-level="2">けいかく</rt></ruby>で、<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>をリードする<ruby>日本<rt
+  data-ruby-level="1">にっぽん</rt></ruby>の<ruby>小惑星<rt data-ruby-level="7">しょうわくせい</rt></ruby><ruby>探査<rt
+  data-ruby-level="6">たんさ</rt></ruby>に<ruby>注目<rt data-ruby-level="3">ちゅうもく</rt></ruby>が<ruby>集<rt
+  data-ruby-level="3">あつ</rt></ruby>まっています。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/27/K10011497221_1806271221_1806271223_01_03.jpg
+more: ＪＡＸＡ＝<ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby><ruby>航空<rt data-ruby-level="4">こうくう</rt></ruby><ruby>研究<rt
+  data-ruby-level="3">けんきゅう</rt></ruby><ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby><ruby>機構<rt
+  data-ruby-level="5">きこう</rt></ruby>は、2014<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>12<ruby>月<rt
+  data-ruby-level="1">がつ</rt></ruby>に<ruby>鹿児島県<rt data-ruby-level="8">かごしまけん</rt></ruby>から<ruby>打<rt
+  data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げた<ruby>探査機<rt
+  data-ruby-level="6">たんさき</rt></ruby>「はやぶさ２」が27<ruby>日午前<rt data-ruby-level="2">にちごぜん</rt></ruby>９<ruby>時<rt
+  data-ruby-level="2">じ</rt></ruby>35<ruby>分<rt data-ruby-level="2">ふん</rt></ruby>、<ruby>地球<rt
+  data-ruby-level="3">ちきゅう</rt></ruby>から３<ruby>億<rt data-ruby-level="4">おく</rt></ruby>キロ<ruby>離<rt
+  data-ruby-level="7">はな</rt></ruby>れた<ruby>目標<rt data-ruby-level="4">もくひょう</rt></ruby>の<ruby>小惑星<rt
+  data-ruby-level="7">しょうわくせい</rt></ruby>「リュウグウ」に<ruby>到着<rt data-ruby-level="7">とうちゃく</rt></ruby>したと<ruby>発表<rt
+  data-ruby-level="3">はっぴょう</rt></ruby>しました。<br /><br />「リュウグウ」は<ruby>地球<rt data-ruby-level="3">ちきゅう</rt></ruby>と<ruby>火星<rt
+  data-ruby-level="2">かせい</rt></ruby>の<ruby>間<rt data-ruby-level="2">あいだ</rt></ruby>にある<ruby>小惑星<rt
+  data-ruby-level="7">しょうわくせい</rt></ruby>で<ruby>直径<rt data-ruby-level="4">ちょっけい</rt></ruby>はおよそ900メートル、<ruby>南北<rt
+  data-ruby-level="2">なんぼく</rt></ruby>の<ruby>極<rt data-ruby-level="4">きょく</rt></ruby>と<ruby>赤道<rt
+  data-ruby-level="2">せきどう</rt></ruby><ruby>部分<rt data-ruby-level="3">ぶぶん</rt></ruby>が<ruby>角張<rt
+  data-ruby-level="5">かどば</rt></ruby>ったコマのような<ruby>形<rt data-ruby-level="2">かたち</rt></ruby>をしていて、<ruby>岩石<rt
+  data-ruby-level="2">がんせき</rt></ruby>には46<ruby>億<rt data-ruby-level="4">おく</rt></ruby><ruby>年前<rt
+  data-ruby-level="2">ねんまえ</rt></ruby>に<ruby>太陽系<rt data-ruby-level="6">たいようけい</rt></ruby>が<ruby>誕生<rt
+  data-ruby-level="6">たんじょう</rt></ruby>した<ruby>頃<rt data-ruby-level="7">ころ</rt></ruby>の<ruby>水<rt
+  data-ruby-level="1">みず</rt></ruby>や<ruby>有機物<rt data-ruby-level="4">ゆうきぶつ</rt></ruby>が<ruby>残<rt
+  data-ruby-level="4">のこ</rt></ruby>されている<ruby>可能性<rt data-ruby-level="5">かのうせい</rt></ruby>が<ruby>高<rt
+  data-ruby-level="2">たか</rt></ruby>いとされています。<br /><br />「はやぶさ２」は<ruby>上空<rt data-ruby-level="1">じょうくう</rt></ruby>２<ruby>万<rt
+  data-ruby-level="2">まん</rt></ruby>メートルから２か<ruby>月<rt data-ruby-level="1">げつ</rt></ruby>ほど<ruby>地表<rt
+  data-ruby-level="3">ちひょう</rt></ruby>の<ruby>形<rt data-ruby-level="2">かたち</rt></ruby>を<ruby>詳<rt
+  data-ruby-level="7">くわ</rt></ruby>しく<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>し、ことし<ruby>秋<rt
+  data-ruby-level="2">あき</rt></ruby>から<ruby>来年春<rt data-ruby-level="2">らいねんはる</rt></ruby>にかけて３<ruby>回<rt
+  data-ruby-level="2">かい</rt></ruby><ruby>着陸<rt data-ruby-level="4">ちゃくりく</rt></ruby>して<ruby>岩石<rt
+  data-ruby-level="2">がんせき</rt></ruby>を<ruby>採取<rt data-ruby-level="5">さいしゅ</rt></ruby>する<ruby>計画<rt
+  data-ruby-level="2">けいかく</rt></ruby>です。<br /><br /><ruby>特<rt data-ruby-level="4">とく</rt></ruby>に<ruby>最後<rt
+  data-ruby-level="4">さいご</rt></ruby>の<ruby>着陸<rt data-ruby-level="4">ちゃくりく</rt></ruby>では<ruby>金属<rt
+  data-ruby-level="5">きんぞく</rt></ruby>の<ruby>弾丸<rt data-ruby-level="7">だんがん</rt></ruby>を<ruby>小惑星<rt
+  data-ruby-level="7">しょうわくせい</rt></ruby>にぶつけて<ruby>表面<rt data-ruby-level="3">ひょうめん</rt></ruby>に<ruby>穴<rt
+  data-ruby-level="6">あな</rt></ruby>をつくり、<ruby>地中<rt data-ruby-level="2">ちちゅう</rt></ruby>の<ruby>岩石<rt
+  data-ruby-level="2">がんせき</rt></ruby>を<ruby>採取<rt data-ruby-level="5">さいしゅ</rt></ruby>する<ruby>世界初<rt
+  data-ruby-level="4">せかいはつ</rt></ruby>の<ruby>挑戦<rt data-ruby-level="7">ちょうせん</rt></ruby>を<ruby>行<rt
+  data-ruby-level="2">おこな</rt></ruby>います。<br /><br />その<ruby>後<rt data-ruby-level="2">ご</rt></ruby>「はやぶさ２」は<ruby>来年<rt
+  data-ruby-level="2">らいねん</rt></ruby>12<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>ごろに「リュウグウ」を<ruby>離<rt
+  data-ruby-level="7">はな</rt></ruby>れておよそ１<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>かけて<ruby>地球<rt
+  data-ruby-level="3">ちきゅう</rt></ruby>に<ruby>戻<rt data-ruby-level="7">もど</rt></ruby>る<ruby>計画<rt
+  data-ruby-level="2">けいかく</rt></ruby>で、<ruby>持<rt data-ruby-level="3">も</rt></ruby>ち<ruby>帰<rt
+  data-ruby-level="3">かえ</rt></ruby>った<ruby>岩石<rt data-ruby-level="2">がんせき</rt></ruby>から<ruby>水<rt
+  data-ruby-level="1">みず</rt></ruby>や<ruby>有機物<rt data-ruby-level="4">ゆうきぶつ</rt></ruby>が<ruby>確認<rt
+  data-ruby-level="7">かくにん</rt></ruby>されれば<ruby>生命<rt data-ruby-level="3">せいめい</rt></ruby>の<ruby>起源<rt
+  data-ruby-level="6">きげん</rt></ruby><ruby>解明<rt data-ruby-level="5">かいめい</rt></ruby>にもつながるため、その<ruby>成果<rt
+  data-ruby-level="4">せいか</rt></ruby>に<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>の<ruby>注目<rt
+  data-ruby-level="3">ちゅうもく</rt></ruby>が<ruby>集<rt data-ruby-level="3">あつ</rt></ruby>まっています。
+movie_url: https://newswebeasy.github.io/ja201806/news/web/movie/2018/06/27/k10011497221_201806271221_201806271223.mp4
+voice_url: https://newswebeasy.github.io/ja201806/news/web/voice/2018/06/27/k10011497221_201806271221_201806271223.mp3
+body:
+- title: 「<ruby>米国<rt data-ruby-level="2">べいこく</rt></ruby><ruby>版<rt data-ruby-level="5">ばん</rt></ruby>はやぶさ」も<ruby>観測<rt
+    data-ruby-level="5">かんそく</rt></ruby>へ
+  text: 「はやぶさ」<ruby>以降<rt data-ruby-level="6">いこう</rt></ruby>、<ruby>小惑星<rt data-ruby-level="7">しょうわくせい</rt></ruby>の<ruby>探査<rt
+    data-ruby-level="6">たんさ</rt></ruby>は<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>とアメリカが<ruby>協力<rt
+    data-ruby-level="4">きょうりょく</rt></ruby>して<ruby>進<rt data-ruby-level="3">すす</rt></ruby>めています。<br
+    /><br />そのアメリカ<ruby>版<rt data-ruby-level="5">ばん</rt></ruby>の「はやぶさ」とも<ruby>言<rt
+    data-ruby-level="2">い</rt></ruby>えるのが、ＮＡＳＡ＝<ruby>航空<rt data-ruby-level="4">こうくう</rt></ruby><ruby>宇宙<rt
+    data-ruby-level="6">うちゅう</rt></ruby><ruby>局<rt data-ruby-level="3">きょく</rt></ruby>の「オシリス・レックス」。<br
+    />「はやぶさ２」に<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>いて、<ruby>近<rt data-ruby-level="2">ちか</rt></ruby>く<ruby>観測<rt
+    data-ruby-level="5">かんそく</rt></ruby>を<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>めます。<br
+    /><br />おととし<ruby>打<rt data-ruby-level="3">う</rt></ruby>ち<ruby>上<rt data-ruby-level="3">あ</rt></ruby>げられた「オシリス・レックス」は、<ruby>日本<rt
+    data-ruby-level="1">にっぽん</rt></ruby>の「はやぶさ」によって<ruby>得<rt data-ruby-level="4">え</rt></ruby>られた<ruby>小惑星<rt
+    data-ruby-level="7">しょうわくせい</rt></ruby>に<ruby>関<rt data-ruby-level="4">かん</rt></ruby>する<ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby>を<ruby>生<rt data-ruby-level="1">い</rt></ruby>かして<ruby>設計<rt
+    data-ruby-level="5">せっけい</rt></ruby>されました。<br /><br />ことし８<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>17<ruby>日<rt
+    data-ruby-level="1">にち</rt></ruby>に<ruby>別<rt data-ruby-level="4">べつ</rt></ruby>の<ruby>小惑星<rt
+    data-ruby-level="7">しょうわくせい</rt></ruby>「ベンヌ」まで200<ruby>万<rt data-ruby-level="2">まん</rt></ruby>キロの<ruby>距離<rt
+    data-ruby-level="7">きょり</rt></ruby>に<ruby>到達<rt data-ruby-level="7">とうたつ</rt></ruby>し、<ruby>最初<rt
+    data-ruby-level="4">さいしょ</rt></ruby>の<ruby>写真<rt data-ruby-level="3">しゃしん</rt></ruby>を<ruby>地球<rt
+    data-ruby-level="3">ちきゅう</rt></ruby>に<ruby>送<rt data-ruby-level="3">おく</rt></ruby>る<ruby>予定<rt
+    data-ruby-level="3">よてい</rt></ruby>です。<br /><br /><ruby>小惑星<rt data-ruby-level="7">しょうわくせい</rt></ruby>「ベンヌ」は、<ruby>直径<rt
+    data-ruby-level="4">ちょっけい</rt></ruby>がおよそ500メートルと「リュウグウ」の<ruby>半分<rt data-ruby-level="2">はんぶん</rt></ruby>ほどで、「リュウグウ」と<ruby>同様<rt
+    data-ruby-level="3">どうよう</rt></ruby>、46<ruby>億<rt data-ruby-level="4">おく</rt></ruby><ruby>年前<rt
+    data-ruby-level="2">ねんまえ</rt></ruby>に<ruby>太陽系<rt data-ruby-level="6">たいようけい</rt></ruby>ができた<ruby>当時<rt
+    data-ruby-level="2">とうじ</rt></ruby>のままの<ruby>有機物<rt data-ruby-level="4">ゆうきぶつ</rt></ruby>が<ruby>残<rt
+    data-ruby-level="4">のこ</rt></ruby>されている<ruby>可能性<rt data-ruby-level="5">かのうせい</rt></ruby>があると<ruby>考<rt
+    data-ruby-level="2">かんが</rt></ruby>えられています。<br /><br />「オシリス・レックス」はことし12<ruby>月<rt
+    data-ruby-level="1">がつ</rt></ruby>に<ruby>小惑星<rt data-ruby-level="7">しょうわくせい</rt></ruby>の<ruby>近<rt
+    data-ruby-level="2">ちか</rt></ruby>くの<ruby>軌道<rt data-ruby-level="7">きどう</rt></ruby>に<ruby>到着<rt
+    data-ruby-level="7">とうちゃく</rt></ruby>したあと、およそ２<ruby>年半<rt data-ruby-level="2">ねんはん</rt></ruby>にわたって<ruby>観測<rt
+    data-ruby-level="5">かんそく</rt></ruby>を<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>け、この<ruby>間<rt
+    data-ruby-level="2">あいだ</rt></ruby>の2020<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>７<ruby>月<rt
+    data-ruby-level="1">がつ</rt></ruby>には<ruby>表面<rt data-ruby-level="3">ひょうめん</rt></ruby>に<ruby>接近<rt
+    data-ruby-level="5">せっきん</rt></ruby>して<ruby>砂<rt data-ruby-level="6">すな</rt></ruby>や<ruby>石<rt
+    data-ruby-level="1">いし</rt></ruby>を<ruby>採取<rt data-ruby-level="5">さいしゅ</rt></ruby>する<ruby>予定<rt
+    data-ruby-level="3">よてい</rt></ruby>です。<br /><br />そして2023<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>に<ruby>地球<rt
+    data-ruby-level="3">ちきゅう</rt></ruby>に<ruby>帰還<rt data-ruby-level="7">きかん</rt></ruby>し、<ruby>採取<rt
+    data-ruby-level="5">さいしゅ</rt></ruby>した<ruby>砂<rt data-ruby-level="6">すな</rt></ruby>や<ruby>石<rt
+    data-ruby-level="1">いし</rt></ruby>を<ruby>解析<rt data-ruby-level="7">かいせき</rt></ruby>することで<ruby>生命<rt
+    data-ruby-level="3">せいめい</rt></ruby>の<ruby>起源<rt data-ruby-level="6">きげん</rt></ruby>や<ruby>太陽系<rt
+    data-ruby-level="6">たいようけい</rt></ruby>の<ruby>成<rt data-ruby-level="4">な</rt></ruby>り<ruby>立<rt
+    data-ruby-level="4">た</rt></ruby>ちに<ruby>迫<rt data-ruby-level="7">せま</rt></ruby>ることを<ruby>目指<rt
+    data-ruby-level="3">めざ</rt></ruby>しています。<br /><br />「はやぶさ２」と「オシリス・レックス」をめぐってＮＡＳＡとＪＡＸＡは<ruby>協定<rt
+    data-ruby-level="4">きょうてい</rt></ruby>を<ruby>結<rt data-ruby-level="4">むす</rt></ruby>び、それぞれの<ruby>研究者<rt
+    data-ruby-level="3">けんきゅうしゃ</rt></ruby>を<ruby>相手<rt data-ruby-level="3">あいて</rt></ruby>のプロジェクトにも<ruby>参加<rt
+    data-ruby-level="4">さんか</rt></ruby>させ、<ruby>採取<rt data-ruby-level="5">さいしゅ</rt></ruby>した<ruby>小惑星<rt
+    data-ruby-level="7">しょうわくせい</rt></ruby>の<ruby>物質<rt data-ruby-level="5">ぶっしつ</rt></ruby>も<ruby>共有<rt
+    data-ruby-level="4">きょうゆう</rt></ruby>して<ruby>解析<rt data-ruby-level="7">かいせき</rt></ruby>することにしています。<br
+    /><br />ＮＡＳＡは<ruby>公式<rt data-ruby-level="3">こうしき</rt></ruby>サイトで２つの<ruby>探査機<rt
+    data-ruby-level="6">たんさき</rt></ruby>を<ruby>紹介<rt data-ruby-level="7">しょうかい</rt></ruby>し、「<ruby>両者<rt
+    data-ruby-level="3">りょうしゃ</rt></ruby>は<ruby>課題<rt data-ruby-level="4">かだい</rt></ruby>を<ruby>共有<rt
+    data-ruby-level="4">きょうゆう</rt></ruby>し、ともに<ruby>速<rt data-ruby-level="3">はや</rt></ruby>いスピードで<ruby>小惑星<rt
+    data-ruby-level="7">しょうわくせい</rt></ruby>について<ruby>学<rt data-ruby-level="1">まな</rt></ruby>ぶことになるだろう。２つの<ruby>探査<rt
+    data-ruby-level="6">たんさ</rt></ruby>から<ruby>得<rt data-ruby-level="4">え</rt></ruby>られる<ruby>成果<rt
+    data-ruby-level="4">せいか</rt></ruby>はそれぞれの<ruby>探査<rt data-ruby-level="6">たんさ</rt></ruby>の<ruby>成果<rt
+    data-ruby-level="4">せいか</rt></ruby>を<ruby>足<rt data-ruby-level="1">た</rt></ruby>し<ruby>上<rt
+    data-ruby-level="1">あ</rt></ruby>げたものよりずっと<ruby>大<rt data-ruby-level="1">おお</rt></ruby>きくなる」と<ruby>協力<rt
+    data-ruby-level="4">きょうりょく</rt></ruby>の<ruby>意義<rt data-ruby-level="5">いぎ</rt></ruby>を<ruby>強調<rt
+    data-ruby-level="3">きょうちょう</rt></ruby>しています。
+source_url: https://www3.nhk.or.jp/news/html/20180627/k10011497221000.html
+easy_title_with_ruby: 「はやぶさ２」が<ruby>地球<rt data-ruby-level="3">ちきゅう</rt></ruby>から３<ruby>億<rt
+  data-ruby-level="4">おく</rt></ruby>ｋｍの<ruby>小<rt data-ruby-level="1">ちい</rt></ruby>さい<ruby>星<rt
+  data-ruby-level="2">ほし</rt></ruby>に<ruby>着<rt data-ruby-level="3">つ</rt></ruby>く
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/06/28/はやぶさ2が地球から3億kmの小さい星に着く
+related_news:
+- title: 「はやぶさ２」 27<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>前後<rt data-ruby-level="2">ぜんご</rt></ruby>に<ruby>小惑星<rt
+    data-ruby-level="7">しょうわくせい</rt></ruby>「リュウグウ」<ruby>到着<rt data-ruby-level="7">とうちゃく</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2018/06/07/はやぶさ2-27日前後に小惑星リュウグウ到着へ
+- title: <ruby>直径<rt data-ruby-level="4">ちょっけい</rt></ruby>200ｍのクレーターも <ruby>探査機<rt
+    data-ruby-level="6">たんさき</rt></ruby>「はやぶさ２」が<ruby>小惑星<rt data-ruby-level="7">しょうわくせい</rt></ruby><ruby>撮影<rt
+    data-ruby-level="7">さつえい</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/06/19/直径200mのクレーターも-探査機はやぶさ2が小惑星撮影
+...

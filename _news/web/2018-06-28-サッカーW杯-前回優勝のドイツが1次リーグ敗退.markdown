@@ -175,6 +175,9 @@ body:
     data-ruby-level="4">へんか</rt></ruby>や<ruby>進化<rt data-ruby-level="3">しんか</rt></ruby>が<ruby>求<rt
     data-ruby-level="4">もと</rt></ruby>められることを<ruby>示<rt data-ruby-level="5">しめ</rt></ruby>しています。
 source_url: https://www3.nhk.or.jp/news/html/20180628/k10011498221000.html
+easy_title_with_ruby: サッカー <ruby>前<rt data-ruby-level="2">まえ</rt></ruby>のワールドカップで<ruby>優勝<rt
+  data-ruby-level="6">ゆうしょう</rt></ruby>したドイツが<ruby>負<rt data-ruby-level="3">ま</rt></ruby>ける
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/06/28/サッカー-前のワールドカップで優勝したドイツが負ける
 related_news:
 - title: サッカー<ruby>Ｗ杯<rt data-ruby-level="7">わーるどかっぷ</rt></ruby> ドイツ<ruby>終了<rt data-ruby-level="7">しゅうりょう</rt></ruby><ruby>間際<rt
     data-ruby-level="7">まぎわ</rt></ruby>に<ruby>逆転<rt data-ruby-level="5">ぎゃくてん</rt></ruby>
