@@ -1,0 +1,77 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011499751000
+last_modified_at: '2018-06-29T17:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>29<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ロシアで行っているサッカーのワールドカップで２８日、日本はポーランドと試合をしました。
+title: ワールドカップ　日本が決勝トーナメントに進む
+title_with_ruby: ワールドカップ　<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>決勝<rt>けっしょう</rt></ruby>トーナメントに<ruby>進<rt>すす</rt></ruby>む
+outline: ロシアで行っているサッカーのワールドカップで２８日、日本はポーランドと試合をしました。
+outline_with_ruby: ロシアで<ruby>行<rt>おこな</rt></ruby>っているサッカーのワールドカップで２８<ruby>日<rt>にち</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>はポーランドと<ruby>試合<rt>しあい</rt></ruby>をしました。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/29/K10011499751_1806290120_1806290125_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/29/k10011499751000.mp4
+content_with_ruby: "<p>ロシアで<ruby>行<rt>おこな</rt></ruby>っている<span style=\"color: blue;\"\
+  >サッカー</span>の<span style=\"color: blue;\">ワールドカップ</span>で２８<ruby>日<rt>にち</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>はポーランドと<ruby>試合<rt>しあい</rt></ruby>をしました。<span\
+  \ style=\"color: blue;\"><ruby>前半<rt>ぜんはん</rt></ruby></span>は<ruby>日本<rt>にっぽん</rt></ruby>もポーランドも<ruby>点<rt>てん</rt></ruby>を<ruby>取<rt>と</rt></ruby>ることができなくて、０−０でした。<span\
+  \ style=\"color: blue;\"><ruby>後半<rt>こうはん</rt></ruby></span>にポーランドが１<ruby>点<rt>てん</rt></ruby><ruby>取<rt>と</rt></ruby>って、<ruby>日本<rt>にっぽん</rt></ruby>は０−１で<ruby>負<rt>ま</rt></ruby>けました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>優勝<rt>ゆうしょう</rt></ruby></span>の<span style=\"\
+  color: blue;\">チーム</span>を<ruby>決<rt>き</rt></ruby>めるための<ruby>決勝<rt>けっしょう</rt></ruby>トーナメントに<ruby>進<rt>すす</rt></ruby>むことができるのは、４つの<ruby>国<rt>くに</rt></ruby>の<span\
+  \ style=\"color: blue;\">グループ</span>の<ruby>中<rt>なか</rt></ruby>で２つだけです。</p>\n<p><ruby>日本<rt>にっぽん</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<span\
+  \ style=\"color: blue;\">グループ</span>のセネガルとコロンビアの<ruby>試合<rt>しあい</rt></ruby>では、コロンビアが<ruby>勝<rt>か</rt></ruby>ちました。その<span\
+  \ style=\"color: blue;\"><ruby>結果<rt>けっか</rt></ruby></span>、コロンビアが<span style=\"\
+  color: blue;\">グループ</span>の<ruby>中<rt>なか</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby>になりました。<ruby>日本<rt>にっぽん</rt></ruby>とセネガルは<ruby>勝<rt>か</rt></ruby>った<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>と<ruby>負<rt>ま</rt></ruby>けた<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>、<ruby>取<rt>と</rt></ruby>った<ruby>点<rt>てん</rt></ruby>が<ruby>同<rt>おな</rt></ruby>じでした。しかし、<ruby>日本<rt>にっぽん</rt></ruby>はセネガルより<span\
+  \ style=\"color: blue;\"><ruby>反則<rt>はんそく</rt></ruby></span>が<ruby>少<rt>すく</rt></ruby>なかったため、２<ruby>番<rt>ばん</rt></ruby>になって、<ruby>決勝<rt>けっしょう</rt></ruby>トーナメントに<ruby>進<rt>すす</rt></ruby>むことになりました。<ruby>日本<rt>にっぽん</rt></ruby>が<span\
+  \ style=\"color: blue;\">ワールドカップ</span>で<ruby>決勝<rt>けっしょう</rt></ruby>トーナメントに<ruby>進<rt>すす</rt></ruby>んだのは３<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>です。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>で７<ruby>月<rt>がつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby>はベルギーと<ruby>試合<rt>しあい</rt></ruby>をします。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ワールドカップ
+  descriptions:
+  - スポーツ<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>の<ruby><rb>世界選手権大会</rb><rt>せかいせんしゅけんたいかい</rt></ruby>の<ruby><rb>優勝者</rb><rt>ゆうしょうしゃ</rt></ruby>にあたえられるカップ。また、そのカップを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>W杯</rb><rt>ダブリューはい</rt></ruby>。
+- word: サッカー
+  descriptions:
+  - １１<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの<ruby><rb>２</rb><rt>に</rt></ruby>チームが、<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>わずに、ボールを<ruby><rb>相手</rb><rt>あいて</rt></ruby>のゴールにけりこんで<ruby><rb>得点</rb><rt>とくてん</rt></ruby>をきそう<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。フットボール。
+- word: 前半
+  descriptions:
+  - ものごとを<ruby><rb>二</rb><rt>ふた</rt></ruby>つに<ruby><rb>分</rb><rt>わ</rt></ruby>けたうちの、<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>半分</rb><rt>はんぶん</rt></ruby>。ぜんぱん。
+- word: 後半
+  descriptions:
+  - あとの<ruby><rb>半分</rb><rt>はんぶん</rt></ruby>。
+- word: 優勝
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>などで、<ruby><rb>一位</rb><rt>いちい</rt></ruby>で<ruby><rb>勝</rb><rt>か</rt></ruby>つこと。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: グループ
+  descriptions:
+  - <ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。
+- word: 結果
+  descriptions:
+  - あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。
+- word: 数
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。
+  - いくつもあること。たくさん。
+  - <ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。
+- word: 反則
+  descriptions:
+  - <ruby><rb>規則</rb><rt>きそく</rt></ruby>、<ruby><rb>特</rb><rt>とく</rt></ruby>にスポーツのルールを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011499751000/k10011499751000.html
+web_title_with_ruby: <ruby>サッカー<rt>さっかー</rt></ruby><ruby>Ｗ杯<rt>わーるどかっぷ</rt></ruby>
+  <ruby>日本<rt>にっぽん</rt></ruby>が２<ruby>大会<rt>たいかい</rt></ruby>ぶり<ruby>決勝<rt>けっしょう</rt></ruby><ruby>トーナメント<rt>とーなめんと</rt></ruby>へ
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/29/サッカーW杯-日本が2大会ぶり決勝トーナメントへ
+related_news:
+- title: サッカーのワールドカップ　<ruby>日本<rt>にっぽん</rt></ruby>がコロンビアに<ruby>勝<rt>か</rt></ruby>つ
+  url: https://newswebeasy.github.io/news/easy/2018/06/20/サッカーのワールドカップ-日本がコロンビアに勝つ
+- title: サッカー　<ruby>前<rt>まえ</rt></ruby>のワールドカップで<ruby>優勝<rt>ゆうしょう</rt></ruby>したドイツが<ruby>負<rt>ま</rt></ruby>ける
+  url: https://newswebeasy.github.io/news/easy/2018/06/28/サッカー-前のワールドカップで優勝したドイツが負ける
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>広州<rt>こうしゅう</rt></ruby>で<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>観光<rt>かんこう</rt></ruby>と<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント
+  url: https://newswebeasy.github.io/news/easy/2018/06/25/中国の広州で日本の観光と食べ物を紹介するイベント
+- title: サッカーの<ruby>日本<rt>にっぽん</rt></ruby><ruby>代表<rt>だいひょう</rt></ruby>の<ruby>監督<rt>かんとく</rt></ruby>が<ruby>交代<rt>こうたい</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2018/04/10/サッカーの日本代表の監督が交代する
+...

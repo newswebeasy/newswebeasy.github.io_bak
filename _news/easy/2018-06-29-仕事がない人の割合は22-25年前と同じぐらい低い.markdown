@@ -1,0 +1,54 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011500211000
+last_modified_at: '2018-06-29T17:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>29<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 総務省によると、今年の５月に日本で仕事をしている人の数は６６９８万人でした。
+title: 仕事がない人の割合は２．２％　２５年前と同じぐらい低い
+title_with_ruby: <ruby>仕事<rt>しごと</rt></ruby>がない<ruby>人<rt>ひと</rt></ruby>の<ruby>割合<rt>わりあい</rt></ruby>は２．２％　２５<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じぐらい<ruby>低<rt>ひく</rt></ruby>い
+outline: 総務省によると、今年の５月に日本で仕事をしている人の数は６６９８万人でした。
+outline_with_ruby: <ruby>総務省<rt>そうむしょう</rt></ruby>によると、<ruby>今年<rt>ことし</rt></ruby>の５<ruby>月<rt>がつ</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>人<rt>ひと</rt></ruby>の<ruby>数<rt>かず</rt></ruby>は６６９８<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>でした。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/29/K10011500211_1806290902_1806290906_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/29/k10011500211000.mp4
+content_with_ruby: "<p><span style=\"color: blue;\"><ruby>総務省<rt>そうむしょう</rt></ruby></span>によると、<ruby>今年<rt>ことし</rt></ruby>の５<ruby>月<rt>がつ</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>人<rt>ひと</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>数<rt>かず</rt></ruby></span>は６６９８<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>でした。<ruby>去年<rt>きょねん</rt></ruby>の５<ruby>月<rt>がつ</rt></ruby>に<ruby>比<rt>くら</rt></ruby>べて１５１<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>増<rt>ふ</rt></ruby>えて、６５か<ruby>月<rt>げつ</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>増<rt>ふ</rt></ruby>えました。</p>\n\
+  <p><ruby>仕事<rt>しごと</rt></ruby>を<ruby>探<rt>さが</rt></ruby>しているのに<ruby>仕事<rt>しごと</rt></ruby>がない<ruby>人<rt>ひと</rt></ruby>は１５８<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>で、<ruby>去年<rt>きょねん</rt></ruby>の５<ruby>月<rt>がつ</rt></ruby>と<ruby>比<rt>くら</rt></ruby>べて５２<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>少<rt>すく</rt></ruby>なくなりました。<ruby>仕事<rt>しごと</rt></ruby>がない<ruby>人<rt>ひと</rt></ruby>は９６か<ruby>月<rt>げつ</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>少<rt>すく</rt></ruby>なくなっています。</p>\n\
+  <p><ruby>仕事<rt>しごと</rt></ruby>がない<ruby>人<rt>ひと</rt></ruby>の<span style=\"color:\
+  \ blue;\"><ruby>割合<rt>わりあい</rt></ruby></span>は、２．２％で、１９９２<ruby>年<rt>ねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じぐらい<ruby>低<rt>ひく</rt></ruby>くなりました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>総務省<rt>そうむしょう</rt></ruby></span>は「<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りない<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。<ruby>多<rt>おお</rt></ruby>くの<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>増<rt>ふ</rt></ruby>やし</span>ているため、<ruby>仕事<rt>しごと</rt></ruby>がない<ruby>人<rt>ひと</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなりました」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 割合
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>と<ruby><rb>物</rb><rt>もの</rt></ruby>との<ruby><rb>関係</rb><rt>かんけい</rt></ruby>を、<ruby><rb>数</rb><rt>かず</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。<ruby><rb>割</rb><rt>わり</rt></ruby>。<ruby><rb>率</rb><rt>りつ</rt></ruby>。<ruby><rb>歩合</rb><rt>ぶあい</rt></ruby>。
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>いのほか。<ruby><rb>比較的</rb><rt>ひかくてき</rt></ruby>。
+- word: 総務省
+  descriptions:
+  - <ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>・<ruby><rb>市区町村</rb><rt>しくちょうそん</rt></ruby>などの<ruby><rb>地方自治体</rb><rt>ちほうじちたい</rt></ruby>や<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>の<ruby><rb>世話</rb><rt>せわ</rt></ruby>、<ruby><rb>郵便</rb><rt>ゆうびん</rt></ruby>・<ruby><rb>郵便貯金</rb><rt>ゆうびんちょきん</rt></ruby>・<ruby><rb>簡易保険</rb><rt>かんいほけん</rt></ruby>・<ruby><rb>電気通信</rb><rt>でんきつうしん</rt></ruby>などについての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。
+- word: 数
+  descriptions:
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。
+  - いくつもあること。たくさん。
+  - <ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。
+- word: 増やす
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くする。
+source_url: http://www3.nhk.or.jp/news/easy/k10011500211000/k10011500211000.html
+web_title_with_ruby: ５<ruby>月<rt>がつ</rt></ruby>の<ruby>完全<rt>かんぜん</rt></ruby><ruby>失業率<rt>しつぎょうりつ</rt></ruby>2.2％
+  25<ruby>年<rt>ねん</rt></ruby>７か<ruby>月<rt>げつ</rt></ruby>ぶりの<ruby>低水準<rt>ていすいじゅん</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/29/5月の完全失業率22-25年7か月ぶりの低水準
+related_news:
+- title: ２つ<ruby>以上<rt>いじょう</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えている
+  url: https://newswebeasy.github.io/news/easy/2018/04/10/2つ以上の仕事をしている人が増えている
+- title: <ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくてお<ruby>年寄<rt>としよ</rt></ruby>りに<ruby>仕事<rt>しごと</rt></ruby>を<ruby>頼<rt>たの</rt></ruby>む<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える
+  url: https://newswebeasy.github.io/news/easy/2018/05/22/働く人が足りなくてお年寄りに仕事を頼む会社が増える
+- title: <ruby>介護<rt>かいご</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>うロボットを<ruby>作<rt>つく</rt></ruby>ろう
+  url: https://newswebeasy.github.io/news/easy/2018/04/03/介護の仕事を手伝うロボットを作ろう
+- title: <ruby>倒産<rt>とうさん</rt></ruby>した<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える　<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りないことなどが<ruby>原因<rt>げんいん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/11/倒産した会社が増える-働く人が足りないことなどが原因
+- title: <ruby>会社員<rt>かいしゃいん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>のボーナスが３<ruby>年<rt>ねん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>増<rt>ふ</rt></ruby>えそう
+  url: https://newswebeasy.github.io/news/easy/2018/04/17/会社員の夏のボーナスが3年続けて増えそう
+...

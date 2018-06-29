@@ -1,0 +1,75 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011498561000
+last_modified_at: '2018-06-29T17:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>06<ruby>月<rt>がつ</rt></ruby>29<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 三菱航空機は、客を乗せるジェット機を日本で初めて開発しています。
+title: 日本のジェット機「ＭＲＪ」　飛ぶ試験を初めて見せる
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>のジェット<ruby>機<rt>き</rt></ruby>「ＭＲＪ」　<ruby>飛<rt>と</rt></ruby>ぶ<ruby>試験<rt>しけん</rt></ruby>を<ruby>初<rt>はじ</rt></ruby>めて<ruby>見<rt>み</rt></ruby>せる
+outline: 三菱航空機は、客を乗せるジェット機を日本で初めて開発しています。
+outline_with_ruby: <ruby>三菱航空機<rt>みつびしこうくうき</rt></ruby>は、<ruby>客<rt>きゃく</rt></ruby>を<ruby>乗<rt>の</rt></ruby>せるジェット<ruby>機<rt>き</rt></ruby>を<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>開発<rt>かいはつ</rt></ruby>しています。
+image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/28/K10011498561_1806281121_1806281129_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201806/news/easy/voice/2018/06/29/k10011498561000.mp4
+content_with_ruby: "<p><ruby>三菱航空機<rt>みつびしこうくうき</rt></ruby>は、<ruby>客<rt>きゃく</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>乗<rt>の</rt></ruby>せる</span> <span style=\"color:\
+  \ blue;\">ジェット<ruby>機<rt>き</rt></ruby></span>を<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<span\
+  \ style=\"color: blue;\"><ruby>開発<rt>かいはつ</rt></ruby></span>しています。「ＭＲＪ」という<ruby>名前<rt>なまえ</rt></ruby>の<ruby>飛行機<rt>ひこうき</rt></ruby>で、<ruby>安全<rt>あんぜん</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>確<rt>たし</rt></ruby>かめる</span>ための<ruby>試験<rt>しけん</rt></ruby>をアメリカで<ruby>行<rt>おこな</rt></ruby>っています。６<ruby>月<rt>がつ</rt></ruby>２７<ruby>日<rt>にち</rt></ruby>、テレビや<ruby>新聞<rt>しんぶん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>記者<rt>きしゃ</rt></ruby></span>たちに<ruby>初<rt>はじ</rt></ruby>めてＭＲＪの<ruby>試験<rt>しけん</rt></ruby>を<ruby>見<rt>み</rt></ruby>せました。</p>\n\
+  <p>ＭＲＪは<ruby>左<rt>ひだり</rt></ruby>や<ruby>右<rt>みぎ</rt></ruby>に<span style=\"color:\
+  \ blue;\"><ruby>急<rt>きゅう</rt></ruby>に</span><ruby>曲<rt>ま</rt></ruby>がったり、<ruby>速<rt>はや</rt></ruby>さや<ruby>高<rt>たか</rt></ruby>さを<ruby>変<rt>か</rt></ruby>えたりして<ruby>飛<rt>と</rt></ruby>びました。<ruby>三菱航空機<rt>みつびしこうくうき</rt></ruby>は、４<span\
+  \ style=\"color: blue;\"><ruby>機<rt>き</rt></ruby></span>のＭＲＪで<ruby>試験<rt>しけん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>っていて、<ruby>試験<rt>しけん</rt></ruby>で<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>時間<rt>じかん</rt></ruby>の<ruby>半分<rt>はんぶん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<ruby>飛<rt>と</rt></ruby>んだと<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p>ＭＲＪは、<ruby>日本<rt>にっぽん</rt></ruby>やアメリカの<span style=\"color: blue;\"><ruby>航空<rt>こうくう</rt></ruby></span><ruby>会社<rt>がいしゃ</rt></ruby>などが４００<span\
+  \ style=\"color: blue;\"><ruby>機<rt>き</rt></ruby></span>ぐらい<ruby>買<rt>か</rt></ruby>うことになっています。しかし、<span\
+  \ style=\"color: blue;\"><ruby>設計<rt>せっけい</rt></ruby></span>を<ruby>変<rt>か</rt></ruby>えたりしたため、ＭＲＪを<span\
+  \ style=\"color: blue;\"><ruby>航空<rt>こうくう</rt></ruby></span><ruby>会社<rt>がいしゃ</rt></ruby>などに<ruby>届<rt>とど</rt></ruby>ける<ruby>約束<rt>やくそく</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は５<ruby>回<rt>かい</rt></ruby>も<ruby>遅<rt>おく</rt></ruby>れていて、２０２０<ruby>年<rt>ねん</rt></ruby>になりそうです。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ジェット機
+  descriptions:
+  - ジェットエンジンで<ruby><rb>飛</rb><rt>と</rt></ruby>ぶ<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>。
+- word: 乗せる
+  descriptions:
+  - <ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などに<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>む。
+  - <ruby><rb>調子</rb><rt>ちょうし</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。
+  - だます。
+- word: 開発
+  descriptions:
+  - <ruby><rb>資源</rb><rt>しげん</rt></ruby>や<ruby><rb>土地</rb><rt>とち</rt></ruby>などを<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>つようにすること。
+  - <ruby><rb>能力</rb><rt>のうりょく</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>育</rb><rt>そだ</rt></ruby>てること。
+  - <ruby><rb>新</rb><rt>あたら</rt></ruby>しい<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。
+- word: 確かめる
+  descriptions:
+  - まちがいがないようにする。あやふやな<ruby><rb>点</rb><rt>てん</rt></ruby>を、はっきりさせる。
+- word: 記者
+  descriptions:
+  - <ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 急に
+  descriptions:
+  - とつぜん。にわかに。
+- word: 機
+  descriptions:
+  - <ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。
+  - とき。きっかけ。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>動</rb><rt>うご</rt></ruby>き。
+  - はたらき。
+  - だいじな<ruby><rb>点</rb><rt>てん</rt></ruby>。
+  - 「<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。また、<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。
+- word: 航空
+  descriptions:
+  - <ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>などで<ruby><rb>空</rb><rt>そら</rt></ruby>を<ruby><rb>飛</rb><rt>と</rt></ruby>ぶこと。
+- word: 設計
+  descriptions:
+  - <ruby><rb>家</rb><rt>いえ</rt></ruby>や<ruby><rb>機械</rb><rt>きかい</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>るとき、その<ruby><rb>計画</rb><rt>けいかく</rt></ruby>を<ruby><rb>細</rb><rt>こま</rt></ruby>かく<ruby><rb>図</rb><rt>ず</rt></ruby>にかくこと。また、その<ruby><rb>計画</rb><rt>けいかく</rt></ruby>。
+  - <ruby><rb>人生</rb><rt>じんせい</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>などの<ruby><rb>計画</rb><rt>けいかく</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てること。
+source_url: http://www3.nhk.or.jp/news/easy/k10011498561000/k10011498561000.html
+web_title_with_ruby: <ruby>国産<rt>こくさん</rt></ruby><ruby>ジェット<rt>じぇっと</rt></ruby><ruby>旅客機<rt>りょかっき</rt></ruby>「ＭＲＪ」<ruby>飛行<rt>ひこう</rt></ruby><ruby>試験<rt>しけん</rt></ruby>を<ruby>初公開<rt>はつこうかい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/28/国産ジェット旅客機MRJ飛行試験を初公開
+related_news:
+- title: <ruby>小<rt>ちい</rt></ruby>さいジェット<ruby>機<rt>き</rt></ruby>「ホンダジェット」を<ruby>日本<rt>にっぽん</rt></ruby>でも<ruby>売<rt>う</rt></ruby>る
+  url: https://newswebeasy.github.io/news/easy/2018/06/07/小さいジェット機ホンダジェットを日本でも売る
+- title: ボーイングの<ruby>飛行機<rt>ひこうき</rt></ruby>のエンジンに<ruby>問題<rt>もんだい</rt></ruby>が<ruby>起<rt>お</rt></ruby>こる<ruby>可能性<rt>かのうせい</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/04/19/ボーイングの飛行機のエンジンに問題が起こる可能性
+...
