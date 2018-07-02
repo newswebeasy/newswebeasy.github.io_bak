@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011498161000
 title: 秋田犬マサルのいとこ「マサオ」が元横綱の朝青龍に
 title_with_ruby: <ruby>秋田犬<rt data-ruby-level="2">あきたいぬ</rt></ruby>マサルのいとこ「マサオ」が<ruby>元横綱<rt

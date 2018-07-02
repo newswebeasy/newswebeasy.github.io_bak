@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011393451000
 title: 35万円の模型を即購入も 日本製フィギュアなど展示即売会 中国
 title_with_ruby: 35<ruby>万<rt data-ruby-level="2">まん</rt></ruby><ruby>円<rt data-ruby-level="1">えん</rt></ruby>の<ruby>模型<rt

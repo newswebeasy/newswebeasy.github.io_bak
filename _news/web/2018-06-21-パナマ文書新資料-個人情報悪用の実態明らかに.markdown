@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011488571000
 title: 「パナマ文書」新資料 個人情報悪用の実態明らかに
 title_with_ruby: 「パナマ<ruby>文書<rt data-ruby-level="2">ぶんしょ</rt></ruby>」<ruby>新資料<rt

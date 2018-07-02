@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011452251000
 title: クレヨンから消えた“肌色”
 title_with_ruby: クレヨンから<ruby>消<rt data-ruby-level="3">き</rt></ruby>えた“<ruby>肌色<rt

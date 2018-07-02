@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011429951000
 title: 「隠し部屋なかった」ツタンカーメン王の墓 従来の見解を翻す
 title_with_ruby: 「<ruby>隠<rt data-ruby-level="7">かく</rt></ruby>し<ruby>部屋<rt data-ruby-level="8">へや</rt></ruby>なかった」ツタンカーメン<ruby>王<rt

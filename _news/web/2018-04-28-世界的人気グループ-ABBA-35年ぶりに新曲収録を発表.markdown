@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011421441000
 title: 世界的人気グループ ＡＢＢＡ 35年ぶりに新曲収録を発表
 title_with_ruby: <ruby>世界的<rt data-ruby-level="4">せかいてき</rt></ruby><ruby>人気<rt data-ruby-level="1">にんき</rt></ruby>グループ

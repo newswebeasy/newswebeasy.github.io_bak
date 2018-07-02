@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011383291000
 title: 台湾に漂着のカメラ 持ち主が判明 ２年以上前に石垣島でなくす
 title_with_ruby: <ruby>台湾<rt data-ruby-level="7">たいわん</rt></ruby>に<ruby>漂着<rt data-ruby-level="7">ひょうちゃく</rt></ruby>のカメラ

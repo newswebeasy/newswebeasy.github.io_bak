@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011436801000
 title: 中国初 国産空母が試験航行 海洋進出強める
 title_with_ruby: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby><ruby>初<rt data-ruby-level="4">はつ</rt></ruby>

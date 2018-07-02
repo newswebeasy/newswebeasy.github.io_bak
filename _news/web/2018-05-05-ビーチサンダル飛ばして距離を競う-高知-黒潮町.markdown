@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011428221000
 title: ビーチサンダル飛ばして距離を競う 高知 黒潮町
 title_with_ruby: ビーチサンダル<ruby>飛<rt data-ruby-level="4">と</rt></ruby>ばして<ruby>距離<rt

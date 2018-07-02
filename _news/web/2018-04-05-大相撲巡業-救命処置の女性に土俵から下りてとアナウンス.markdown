@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011391191000
 title: 大相撲巡業 救命処置の女性に「土俵から下りて」とアナウンス
 title_with_ruby: <ruby>大相撲<rt data-ruby-level="8">おおずもう</rt></ruby><ruby>巡業<rt data-ruby-level="7">じゅんぎょう</rt></ruby>

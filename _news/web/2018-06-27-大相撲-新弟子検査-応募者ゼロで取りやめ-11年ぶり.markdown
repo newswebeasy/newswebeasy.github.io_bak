@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011497611000
 title: 大相撲 新弟子検査 応募者ゼロで取りやめ 11年ぶり
 title_with_ruby: <ruby>大相撲<rt data-ruby-level="8">おおずもう</rt></ruby> <ruby>新弟子<rt data-ruby-level="7">しんでし</rt></ruby><ruby>検査<rt

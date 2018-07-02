@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011435281000
 title: 古い携帯電話から思い出が復活 那覇でイベント
 title_with_ruby: <ruby>古<rt data-ruby-level="2">ふる</rt></ruby>い<ruby>携帯<rt data-ruby-level="7">けいたい</rt></ruby><ruby>電話<rt

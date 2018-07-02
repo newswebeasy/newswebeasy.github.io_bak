@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011405301000
 title: 「ポケモンＧＯ」しながら運転か 85歳はねられ死亡 愛知
 title_with_ruby: 「ポケモンＧＯ」しながら<ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby>か 85<ruby>歳<rt

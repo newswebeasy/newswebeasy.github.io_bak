@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011406231000
 title: “洋服にアイロンで貼り付け” 太陽電池を開発
 title_with_ruby: “<ruby>洋服<rt data-ruby-level="3">ようふく</rt></ruby>にアイロンで<ruby>貼<rt

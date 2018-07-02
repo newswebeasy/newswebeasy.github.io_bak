@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011340551000
 title: 年賀はがき 62円に値上げを発表
 title_with_ruby: <ruby>年賀<rt data-ruby-level="5">ねんが</rt></ruby>はがき 62<ruby>円<rt data-ruby-level="1">えん</rt></ruby>に<ruby>値上<rt

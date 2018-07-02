@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011428521000
 title: マルクス生誕200年 出身地に中国から銅像 ドイツ
 title_with_ruby: マルクス<ruby>生誕<rt data-ruby-level="6">せいたん</rt></ruby>200<ruby>年<rt

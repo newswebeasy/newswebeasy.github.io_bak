@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011409441000
 title: サウジで映画館が35年ぶり復活「穏健なイスラム」政策で
 title_with_ruby: サウジで<ruby>映画館<rt data-ruby-level="6">えいがかん</rt></ruby>が35<ruby>年<rt

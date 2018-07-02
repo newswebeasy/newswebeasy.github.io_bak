@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011498971000
 title: 上海の小学校に刃物男 子ども２人死亡
 title_with_ruby: <ruby>上海<rt data-ruby-level="8">しゃんはい</rt></ruby>の<ruby>小学校<rt data-ruby-level="1">しょうがっこう</rt></ruby>に<ruby>刃物<rt

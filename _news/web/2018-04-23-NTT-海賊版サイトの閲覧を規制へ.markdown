@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011414251000
 title: ＮＴＴ 海賊版サイトの閲覧を規制へ
 title_with_ruby: ＮＴＴ <ruby>海賊版<rt data-ruby-level="7">かいぞくばん</rt></ruby>サイトの<ruby>閲覧<rt

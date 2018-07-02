@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011480361000
 title: トランプ政権の制裁措置に中国も報復 貿易摩擦の激化も
 title_with_ruby: トランプ<ruby>政権<rt data-ruby-level="6">せいけん</rt></ruby>の<ruby>制裁<rt

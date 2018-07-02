@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011378781000
 title: もし、あなたの大切な人が…女性専用車両を考える
 title_with_ruby: もし、あなたの<ruby>大切<rt data-ruby-level="2">たいせつ</rt></ruby>な<ruby>人<rt

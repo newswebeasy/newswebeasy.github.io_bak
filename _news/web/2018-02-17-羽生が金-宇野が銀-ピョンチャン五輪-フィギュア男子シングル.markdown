@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011333051000
 title: 羽生が金 宇野が銀 ピョンチャン五輪 フィギュア男子シングル
 title_with_ruby: <ruby>羽生<rt data-ruby-level="8">はにゅう</rt></ruby>が<ruby>金<rt data-ruby-level="1">きん</rt></ruby>

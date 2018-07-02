@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011412791000
 title: 武者姿で「人間将棋」 山形 天童
 title_with_ruby: <ruby>武者姿<rt data-ruby-level="6">むしゃすがた</rt></ruby>で「<ruby>人間<rt

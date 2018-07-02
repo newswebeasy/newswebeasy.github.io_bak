@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011445091000
 title: アメフト問題 日大 内田監督が辞意表明
 title_with_ruby: アメフト<ruby>問題<rt data-ruby-level="3">もんだい</rt></ruby> <ruby>日大<rt

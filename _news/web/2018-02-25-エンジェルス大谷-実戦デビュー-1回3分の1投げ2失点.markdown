@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011342381000
 title: エンジェルス大谷 実戦デビュー 1回3分の1投げ２失点
 title_with_ruby: エンジェルス<ruby>大谷<rt data-ruby-level="2">おおたに</rt></ruby> <ruby>実戦<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011326321000
 title: 高梨が銅メダル ジャンプ女子
 title_with_ruby: <ruby>高梨<rt data-ruby-level="7">たかなし</rt></ruby>が<ruby>銅<rt data-ruby-level="5">どう</rt></ruby><ruby>メダル<rt

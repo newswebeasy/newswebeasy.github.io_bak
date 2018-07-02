@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011457781000
 title: 米政府 中国への制裁関税品目 来月公表し発動へ
 title_with_ruby: <ruby>米政府<rt data-ruby-level="5">べいせいふ</rt></ruby> <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>への<ruby>制裁<rt

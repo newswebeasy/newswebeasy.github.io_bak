@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011389381000
 title: ロボットで警備や道案内 丸の内に登場
 title_with_ruby: ロボットで<ruby>警備<rt data-ruby-level="6">けいび</rt></ruby>や<ruby>道案内<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011495551000
 title: サッカーＷ杯 ウルグアイ３連勝 首位で決勝トーナメントへ
 title_with_ruby: サッカー<ruby>Ｗ杯<rt data-ruby-level="7">わーるどかっぷ</rt></ruby> ウルグアイ３<ruby>連勝<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011407741000
 title: 米 ボーイング７８７の運航条件厳しくする措置
 title_with_ruby: <ruby>米<rt data-ruby-level="2">べい</rt></ruby> ボーイング７８７の<ruby>運航<rt

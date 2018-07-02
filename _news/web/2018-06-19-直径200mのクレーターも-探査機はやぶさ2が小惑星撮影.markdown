@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011486141000
 title: 直径200ｍのクレーターも 探査機「はやぶさ２」が小惑星撮影
 title_with_ruby: <ruby>直径<rt data-ruby-level="4">ちょっけい</rt></ruby>200ｍのクレーターも <ruby>探査機<rt

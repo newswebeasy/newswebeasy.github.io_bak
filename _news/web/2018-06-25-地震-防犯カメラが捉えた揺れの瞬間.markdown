@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011494101000
 title: 地震 防犯カメラが捉えた揺れの瞬間
 title_with_ruby: <ruby>地震<rt data-ruby-level="7">じしん</rt></ruby> <ruby>防犯<rt data-ruby-level="5">ぼうはん</rt></ruby>カメラが<ruby>捉<rt

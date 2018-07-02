@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011448311000
 title: コンピューターゲーム “競技” 「ｅスポーツ」全国大会開催へ
 title_with_ruby: コンピューターゲーム “<ruby>競技<rt data-ruby-level="5">きょうぎ</rt></ruby>” 「ｅスポーツ」<ruby>全国大会<rt

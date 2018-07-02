@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 4
 newsid: k10011425801000
 title: きょうは憲法記念日 各党が声明など発表
 title_with_ruby: きょうは<ruby>憲法<rt data-ruby-level="6">けんぽう</rt></ruby><ruby>記念日<rt

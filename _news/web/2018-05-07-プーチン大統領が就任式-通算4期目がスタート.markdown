@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011429931000
 title: プーチン大統領が就任式 通算４期目がスタート
 title_with_ruby: プーチン<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby>が<ruby>就任式<rt

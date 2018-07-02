@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011389451000
 title: オスプレイ５機 横田基地に今週後半到着へ 在日米軍
 title_with_ruby: オスプレイ５<ruby>機<rt data-ruby-level="4">き</rt></ruby> <ruby>横田基地<rt

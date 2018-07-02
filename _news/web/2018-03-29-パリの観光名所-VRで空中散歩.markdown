@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011383361000
 title: パリの観光名所 ＶＲで空中散歩
 title_with_ruby: パリの<ruby>観光<rt data-ruby-level="4">かんこう</rt></ruby><ruby>名所<rt data-ruby-level="3">めいしょ</rt></ruby>

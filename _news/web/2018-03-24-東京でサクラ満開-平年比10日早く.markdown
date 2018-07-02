@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011377321000
 title: 東京でサクラ満開 平年比10日早く
 title_with_ruby: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>でサクラ<ruby>満開<rt

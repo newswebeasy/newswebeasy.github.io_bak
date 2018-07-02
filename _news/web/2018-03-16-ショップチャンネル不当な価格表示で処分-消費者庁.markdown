@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011367911000
 title: 「ショップチャンネル」不当な価格表示で処分 消費者庁
 title_with_ruby: 「ショップチャンネル」<ruby>不当<rt data-ruby-level="4">ふとう</rt></ruby>な<ruby>価格<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011461331000
 title: 去年の出生率1.43 人口の減少幅は過去最大に
 title_with_ruby: <ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>の<ruby>出生率<rt data-ruby-level="5">しゅっせいりつ</rt></ruby>1.43

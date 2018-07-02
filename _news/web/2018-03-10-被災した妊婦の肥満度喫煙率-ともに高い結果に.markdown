@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011358891000
 title: 被災した妊婦の肥満度・喫煙率 ともに高い結果に
 title_with_ruby: <ruby>被災<rt data-ruby-level="7">ひさい</rt></ruby>した<ruby>妊婦<rt data-ruby-level="7">にんぷ</rt></ruby>の<ruby>肥満度<rt

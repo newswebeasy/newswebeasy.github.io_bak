@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 4
 newsid: k10011348591000
 title: フィギュア 羽生結弦選手に国民栄誉賞授与へ
 title_with_ruby: フィギュア <ruby>羽生<rt data-ruby-level="8">はにゅう</rt></ruby><ruby>結弦<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011354171000
 title: アマゾンＣＥＯ 世界の長者番付で初の首位
 title_with_ruby: アマゾンＣＥＯ <ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>の<ruby>長者番付<rt

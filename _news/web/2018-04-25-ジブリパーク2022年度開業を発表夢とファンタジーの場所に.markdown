@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011416661000
 title: ジブリパーク2022年度開業を発表「夢とファンタジーの場所に」
 title_with_ruby: ジブリパーク2022<ruby>年度<rt data-ruby-level="3">ねんど</rt></ruby><ruby>開業<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011424841000
 title: フェイスブックが新機能発表 閲覧履歴など消去可能に
 title_with_ruby: フェイスブックが<ruby>新機能<rt data-ruby-level="5">しんきのう</rt></ruby><ruby>発表<rt

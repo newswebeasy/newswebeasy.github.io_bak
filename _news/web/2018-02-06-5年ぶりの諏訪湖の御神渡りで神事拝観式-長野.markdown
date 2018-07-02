@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011316461000
 title: ５年ぶりの諏訪湖の御神渡りで神事「拝観式」 長野
 title_with_ruby: ５<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>ぶりの<ruby>諏訪湖<rt data-ruby-level="8">すわこ</rt></ruby>の<ruby>御神渡<rt

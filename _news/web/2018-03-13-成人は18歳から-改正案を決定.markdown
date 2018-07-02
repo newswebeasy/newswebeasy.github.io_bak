@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 4
 newsid: k10011362621000
 title: 成人は「18歳」から 改正案を決定
 title_with_ruby: <ruby>成人<rt data-ruby-level="4">せいじん</rt></ruby>は「18<ruby>歳<rt data-ruby-level="7">さい</rt></ruby>」から

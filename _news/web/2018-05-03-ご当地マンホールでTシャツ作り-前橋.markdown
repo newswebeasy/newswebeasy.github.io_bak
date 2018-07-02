@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011426161000
 title: 「ご当地マンホール」でＴシャツ作り 前橋
 title_with_ruby: 「ご<ruby>当地<rt data-ruby-level="2">とうち</rt></ruby>マンホール」でＴシャツ<ruby>作<rt

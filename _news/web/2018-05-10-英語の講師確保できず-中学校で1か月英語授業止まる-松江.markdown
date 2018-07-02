@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011434151000
 title: 英語の講師確保できず 中学校で１か月英語授業止まる 松江
 title_with_ruby: <ruby>英語<rt data-ruby-level="4">えいご</rt></ruby>の<ruby>講師<rt data-ruby-level="5">こうし</rt></ruby><ruby>確保<rt

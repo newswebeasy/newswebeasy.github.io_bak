@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011319231000
 title: 雪道の自動走行実験始まる ＧＰＳ衛星「みちびき」活用
 title_with_ruby: <ruby>雪道<rt data-ruby-level="2">ゆきみち</rt></ruby>の<ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>走行<rt

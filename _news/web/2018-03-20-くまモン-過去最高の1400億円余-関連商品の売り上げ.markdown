@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011372331000
 title: くまモン 過去最高の1400億円余 関連商品の売り上げ
 title_with_ruby: くまモン <ruby>過去<rt data-ruby-level="5">かこ</rt></ruby><ruby>最高<rt data-ruby-level="4">さいこう</rt></ruby>の1400<ruby>億円余<rt

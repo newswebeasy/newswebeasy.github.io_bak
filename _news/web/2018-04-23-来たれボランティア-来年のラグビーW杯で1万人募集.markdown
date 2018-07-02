@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011414401000
 title: 来たれボランティア 来年のラグビーＷ杯で１万人募集
 title_with_ruby: <ruby>来<rt data-ruby-level="2">き</rt></ruby>たれボランティア <ruby>来年<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011440591000
 title: 「日本は暑い！」 外国人に熱中症注意呼びかけ
 title_with_ruby: 「<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>は<ruby>暑<rt data-ruby-level="3">あつ</rt></ruby>い！」

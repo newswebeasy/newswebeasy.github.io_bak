@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011324461000
 title: 香港で２階建てバス横転 19人死亡 60人以上けが
 title_with_ruby: <ruby>香港<rt data-ruby-level="8">ほんこん</rt></ruby>で<ruby>２階建<rt data-ruby-level="4">にかいだ</rt></ruby>てバス<ruby>横転<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011439401000
 title: 中国最大手旅行サイト 日本市場に本格参入へ
 title_with_ruby: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby><ruby>最大手<rt data-ruby-level="4">さいおおて</rt></ruby><ruby>旅行<rt

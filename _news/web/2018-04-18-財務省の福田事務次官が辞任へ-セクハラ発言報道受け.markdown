@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011408571000
 title: 財務省の福田事務次官が辞任へ 「セクハラ発言」報道受け
 title_with_ruby: <ruby>財務省<rt data-ruby-level="5">ざいむしょう</rt></ruby>の<ruby>福田<rt data-ruby-level="3">ふくだ</rt></ruby><ruby>事務<rt

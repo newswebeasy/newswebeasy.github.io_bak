@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011463221000
 title: 舞妓さんがアユの稚魚放流 生き物に感謝 京都
 title_with_ruby: <ruby>舞妓<rt data-ruby-level="8">まいこ</rt></ruby>さんがアユの<ruby>稚魚<rt

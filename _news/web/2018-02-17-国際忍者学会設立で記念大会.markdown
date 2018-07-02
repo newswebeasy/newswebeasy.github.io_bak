@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011333331000
 title: 国際忍者学会設立で記念大会
 title_with_ruby: <ruby>国際<rt data-ruby-level="5">こくさい</rt></ruby><ruby>忍者<rt data-ruby-level="7">にんじゃ</rt></ruby><ruby>学会<rt

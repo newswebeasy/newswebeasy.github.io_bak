@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011327631000
 title: 韓国 チェ・スンシル被告に懲役20年 ロッテ会長も実刑判決
 title_with_ruby: <ruby>韓国<rt data-ruby-level="7">かんこく</rt></ruby> チェ・スンシル<ruby>被告<rt

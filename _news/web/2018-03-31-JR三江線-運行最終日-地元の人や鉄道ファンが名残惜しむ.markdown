@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011386631000
 title: ＪＲ三江線 運行最終日 地元の人や鉄道ファンが名残惜しむ
 title_with_ruby: ＪＲ<ruby>三江<rt data-ruby-level="7">みえ</rt></ruby><ruby>線<rt data-ruby-level="2">せん</rt></ruby>

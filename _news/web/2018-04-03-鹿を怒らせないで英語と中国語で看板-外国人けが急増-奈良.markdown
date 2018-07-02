@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011389151000
 title: 「鹿を怒らせないで」英語と中国語で看板 外国人けが急増 奈良
 title_with_ruby: 「<ruby>鹿<rt data-ruby-level="7">しか</rt></ruby>を<ruby>怒<rt data-ruby-level="7">いか</rt></ruby>らせないで」<ruby>英語<rt

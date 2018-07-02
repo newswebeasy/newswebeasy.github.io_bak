@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011465071000
 title: 外国人観光客 市民生活への影響も検討を 観光白書
 title_with_ruby: <ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby><ruby>観光客<rt data-ruby-level="4">かんこうきゃく</rt></ruby>

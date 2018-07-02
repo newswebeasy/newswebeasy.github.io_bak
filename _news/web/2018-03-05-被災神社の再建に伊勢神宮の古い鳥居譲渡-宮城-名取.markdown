@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011352091000
 title: 被災神社の再建に伊勢神宮の古い鳥居譲渡 宮城 名取
 title_with_ruby: <ruby>被災<rt data-ruby-level="7">ひさい</rt></ruby><ruby>神社<rt data-ruby-level="3">じんじゃ</rt></ruby>の<ruby>再建<rt

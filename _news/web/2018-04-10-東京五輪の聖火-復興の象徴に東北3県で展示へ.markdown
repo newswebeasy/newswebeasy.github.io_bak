@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011397761000
 title: 東京五輪の聖火 復興の象徴に東北３県で展示へ
 title_with_ruby: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby><ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby>の<ruby>聖火<rt

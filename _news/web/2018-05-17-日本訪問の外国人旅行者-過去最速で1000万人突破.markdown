@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011442071000
 title: 日本訪問の外国人旅行者 過去最速で1000万人突破
 title_with_ruby: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>訪問<rt data-ruby-level="6">ほうもん</rt></ruby>の<ruby>外国人<rt

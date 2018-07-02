@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011456971000
 title: ナスカで新たな地上絵 ドローンでの調査で発見 ペルー
 title_with_ruby: ナスカで<ruby>新<rt data-ruby-level="2">あら</rt></ruby>たな<ruby>地上<rt data-ruby-level="2">ちじょう</rt></ruby><ruby>絵<rt

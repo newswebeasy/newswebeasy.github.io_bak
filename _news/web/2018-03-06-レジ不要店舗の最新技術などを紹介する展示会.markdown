@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011353551000
 title: “レジ不要”店舗の最新技術などを紹介する展示会
 title_with_ruby: “レジ<ruby>不要<rt data-ruby-level="4">ふよう</rt></ruby>”<ruby>店舗<rt data-ruby-level="7">てんぽ</rt></ruby>の<ruby>最新<rt

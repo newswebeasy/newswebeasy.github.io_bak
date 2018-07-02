@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011389501000
 title: 「子ども食堂」全国で急増 2000か所超える
 title_with_ruby: 「<ruby>子<rt data-ruby-level="1">こ</rt></ruby>ども<ruby>食堂<rt data-ruby-level="4">しょくどう</rt></ruby>」<ruby>全国<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011498561000
 title: 国産ジェット旅客機「ＭＲＪ」飛行試験を初公開
 title_with_ruby: <ruby>国産<rt data-ruby-level="4">こくさん</rt></ruby>ジェット<ruby>旅客機<rt

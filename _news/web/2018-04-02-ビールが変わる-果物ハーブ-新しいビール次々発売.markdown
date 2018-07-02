@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011387631000
 title: ビールが変わる 果物…ハーブ… 新しいビール次々発売
 title_with_ruby: ビールが<ruby>変<rt data-ruby-level="4">か</rt></ruby>わる <ruby>果物<rt data-ruby-level="8">くだもの</rt></ruby>…ハーブ…

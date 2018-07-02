@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011409731000
 title: 長濱ねるさん表紙の広報誌ネットで転売 戸惑う自治体
 title_with_ruby: <ruby>長濱<rt data-ruby-level="8">ながはま</rt></ruby>ねるさん<ruby>表紙<rt data-ruby-level="3">びょうし</rt></ruby>の<ruby>広報誌<rt

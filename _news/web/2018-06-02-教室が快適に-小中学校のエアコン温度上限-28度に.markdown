@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011462161000
 title: 教室が快適に？ 小中学校のエアコン温度上限 28度に
 title_with_ruby: <ruby>教室<rt data-ruby-level="2">きょうしつ</rt></ruby>が<ruby>快適<rt data-ruby-level="5">かいてき</rt></ruby>に？

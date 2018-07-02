@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011350651000
 title: 「月、火星、そしてその先まで」太陽系探査の国際会議
 title_with_ruby: 「<ruby>月<rt data-ruby-level="1">つき</rt></ruby>、<ruby>火星<rt data-ruby-level="2">かせい</rt></ruby>、そしてその<ruby>先<rt

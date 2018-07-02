@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 4
 newsid: k10011497601000
 title: 都の受動喫煙防止条例 可決・成立 国の法案より厳しい内容
 title_with_ruby: <ruby>都<rt data-ruby-level="3">と</rt></ruby>の<ruby>受動<rt data-ruby-level="3">じゅどう</rt></ruby><ruby>喫煙<rt

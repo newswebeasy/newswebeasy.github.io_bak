@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011416971000
 title: 大型連休は「２泊３日」と「インスタ映え」
 title_with_ruby: <ruby>大型<rt data-ruby-level="4">おおがた</rt></ruby><ruby>連休<rt data-ruby-level="4">れんきゅう</rt></ruby>は「２<ruby>泊<rt

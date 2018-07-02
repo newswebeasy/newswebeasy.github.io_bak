@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011453771000
 title: 九州南部が梅雨入り
 title_with_ruby: <ruby>九州<rt data-ruby-level="3">きゅうしゅう</rt></ruby><ruby>南部<rt data-ruby-level="3">なんぶ</rt></ruby>が<ruby>梅雨入<rt

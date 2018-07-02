@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011483901000
 title: “黒歴史”って何ごみ？
 title_with_ruby: “<ruby>黒<rt data-ruby-level="2">くろ</rt></ruby><ruby>歴史<rt data-ruby-level="4">れきし</rt></ruby>”って<ruby>何<rt

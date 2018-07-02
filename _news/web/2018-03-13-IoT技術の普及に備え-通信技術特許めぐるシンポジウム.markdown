@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011363781000
 title: ＩｏＴ技術の普及に備え 通信技術特許めぐるシンポジウム
 title_with_ruby: ＩｏＴ<ruby>技術<rt data-ruby-level="5">ぎじゅつ</rt></ruby>の<ruby>普及<rt data-ruby-level="7">ふきゅう</rt></ruby>に<ruby>備<rt

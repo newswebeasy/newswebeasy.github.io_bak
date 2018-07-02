@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011371601000
 title: 千葉市の小中学校 体育にパラスポーツ導入へ
 title_with_ruby: <ruby>千葉市<rt data-ruby-level="3">ちばし</rt></ruby>の<ruby>小中学校<rt data-ruby-level="1">しょうちゅうがっこう</rt></ruby>

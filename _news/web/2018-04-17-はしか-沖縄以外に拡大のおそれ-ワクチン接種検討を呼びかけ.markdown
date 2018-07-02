@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011407141000
 title: はしか 沖縄以外に拡大のおそれ ワクチン接種検討を呼びかけ
 title_with_ruby: はしか <ruby>沖縄<rt data-ruby-level="7">おきなわ</rt></ruby><ruby>以外<rt data-ruby-level="4">いがい</rt></ruby>に<ruby>拡大<rt

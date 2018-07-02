@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011418091000
 title: ＳＮＳがきっかけで犯罪の被害にあった子ども 過去最多
 title_with_ruby: ＳＮＳがきっかけで<ruby>犯罪<rt data-ruby-level="5">はんざい</rt></ruby>の<ruby>被害<rt

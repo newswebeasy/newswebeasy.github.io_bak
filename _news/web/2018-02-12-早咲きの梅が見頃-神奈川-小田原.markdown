@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011325581000
 title: 早咲きの梅が見頃 神奈川 小田原
 title_with_ruby: <ruby>早咲<rt data-ruby-level="7">はやざ</rt></ruby>きの<ruby>梅<rt data-ruby-level="4">うめ</rt></ruby>が<ruby>見頃<rt

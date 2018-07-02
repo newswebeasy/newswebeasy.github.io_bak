@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011321791000
 title: ピョンチャンオリンピック きょう開幕
 title_with_ruby: ピョンチャンオリンピック きょう<ruby>開幕<rt data-ruby-level="6">かいまく</rt></ruby>

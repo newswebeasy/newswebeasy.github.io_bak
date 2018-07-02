@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011454861000
 title: ひまわりの迷路にぎわう 沖縄 宮古島
 title_with_ruby: ひまわりの<ruby>迷路<rt data-ruby-level="7">めいろ</rt></ruby>にぎわう <ruby>沖縄<rt

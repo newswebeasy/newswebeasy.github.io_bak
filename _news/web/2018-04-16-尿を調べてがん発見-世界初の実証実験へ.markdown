@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011405771000
 title: “尿を調べてがん発見” 世界初の実証実験へ
 title_with_ruby: “<ruby>尿<rt data-ruby-level="7">にょう</rt></ruby>を<ruby>調<rt data-ruby-level="3">しら</rt></ruby>べてがん<ruby>発見<rt

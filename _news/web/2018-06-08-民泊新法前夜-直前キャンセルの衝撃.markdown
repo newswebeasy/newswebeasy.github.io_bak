@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011469661000
 title: 民泊新法前夜 直前キャンセルの衝撃
 title_with_ruby: <ruby>民泊<rt data-ruby-level="7">みんぱく</rt></ruby><ruby>新法<rt data-ruby-level="4">しんぽう</rt></ruby><ruby>前夜<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011366371000
 title: 世界最大手の民泊サイト運営会社も申請 観光庁
 title_with_ruby: <ruby>世界<rt data-ruby-level="3">せかい</rt></ruby><ruby>最大手<rt data-ruby-level="4">さいおおて</rt></ruby>の<ruby>民泊<rt

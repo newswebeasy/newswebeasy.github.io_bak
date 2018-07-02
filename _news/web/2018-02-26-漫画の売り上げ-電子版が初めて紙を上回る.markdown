@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011343931000
 title: 漫画の売り上げ 電子版が初めて紙を上回る
 title_with_ruby: <ruby>漫画<rt data-ruby-level="7">まんが</rt></ruby>の<ruby>売<rt data-ruby-level="2">う</rt></ruby>り<ruby>上<rt

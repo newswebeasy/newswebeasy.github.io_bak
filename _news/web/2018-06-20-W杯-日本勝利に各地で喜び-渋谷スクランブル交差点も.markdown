@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011486661000
 title: W杯 日本勝利に各地で喜び 渋谷スクランブル交差点も
 title_with_ruby: <ruby>W杯<rt data-ruby-level="7">わーるどかっぷ</rt></ruby> <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>勝利<rt

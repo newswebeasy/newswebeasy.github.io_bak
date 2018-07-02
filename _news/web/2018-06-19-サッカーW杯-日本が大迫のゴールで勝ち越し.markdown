@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011486491000
 title: サッカーＷ杯 日本が大迫のゴールで勝ち越し
 title_with_ruby: サッカー<ruby>Ｗ杯<rt data-ruby-level="7">わーるどかっぷ</rt></ruby> <ruby>日本<rt

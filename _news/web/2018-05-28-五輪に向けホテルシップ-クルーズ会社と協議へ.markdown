@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011455341000
 title: 五輪に向けホテルシップ クルーズ会社と協議へ
 title_with_ruby: <ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby>に<ruby>向<rt data-ruby-level="3">む</rt></ruby>けホテルシップ

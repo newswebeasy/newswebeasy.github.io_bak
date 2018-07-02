@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011353841000
 title: 来月末に南北首脳会談開催で合意 韓国政府発表
 title_with_ruby: <ruby>来月末<rt data-ruby-level="4">らいげつまつ</rt></ruby>に<ruby>南北<rt data-ruby-level="2">なんぼく</rt></ruby><ruby>首脳<rt

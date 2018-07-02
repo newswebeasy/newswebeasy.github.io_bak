@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011458611000
 title: 上海株式市場 株価指数 2.5％余の下落
 title_with_ruby: <ruby>上海<rt data-ruby-level="8">しゃんはい</rt></ruby><ruby>株式<rt data-ruby-level="6">かぶしき</rt></ruby><ruby>市場<rt

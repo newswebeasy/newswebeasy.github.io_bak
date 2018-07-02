@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011477351000
 title: ＮＡＳＡ「愛する人が危篤に」火星探査機と通信途絶える
 title_with_ruby: ＮＡＳＡ「<ruby>愛<rt data-ruby-level="4">あい</rt></ruby>する<ruby>人<rt data-ruby-level="1">ひと</rt></ruby>が<ruby>危篤<rt

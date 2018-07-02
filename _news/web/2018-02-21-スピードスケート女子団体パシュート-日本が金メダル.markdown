@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011338091000
 title: スピードスケート女子団体パシュート 日本が金メダル
 title_with_ruby: スピードスケート<ruby>女子<rt data-ruby-level="1">じょし</rt></ruby><ruby>団体<rt

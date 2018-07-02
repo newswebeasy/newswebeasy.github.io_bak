@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011496001000
 title: 鉄道博物館の新館が完成 さいたま
 title_with_ruby: <ruby>鉄道<rt data-ruby-level="3">てつどう</rt></ruby><ruby>博物館<rt data-ruby-level="4">はくぶつかん</rt></ruby>の<ruby>新館<rt

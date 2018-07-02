@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011426541000
 title: 韓国と北朝鮮が合同チーム 卓球団体世界選手権女子
 title_with_ruby: <ruby>韓国<rt data-ruby-level="7">かんこく</rt></ruby>と<ruby>北朝鮮<rt data-ruby-level="7">きたちょうせん</rt></ruby>が<ruby>合同<rt

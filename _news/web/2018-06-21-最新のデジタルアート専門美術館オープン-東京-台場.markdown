@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011489721000
 title: 最新のデジタルアート専門美術館オープン 東京 台場
 title_with_ruby: <ruby>最新<rt data-ruby-level="4">さいしん</rt></ruby>のデジタルアート<ruby>専門<rt

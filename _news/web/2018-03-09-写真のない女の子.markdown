@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011358301000
 title: 写真のない女の子
 title_with_ruby: <ruby>写真<rt data-ruby-level="3">しゃしん</rt></ruby>のない<ruby>女<rt data-ruby-level="1">おんな</rt></ruby>の<ruby>子<rt

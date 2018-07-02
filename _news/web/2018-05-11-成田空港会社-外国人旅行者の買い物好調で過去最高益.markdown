@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011435391000
 title: 成田空港会社 外国人旅行者の買い物好調で過去最高益
 title_with_ruby: <ruby>成田空港<rt data-ruby-level="4">なりたくうこう</rt></ruby><ruby>会社<rt

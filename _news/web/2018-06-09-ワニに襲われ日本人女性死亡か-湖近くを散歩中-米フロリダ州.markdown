@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011470251000
 title: ワニに襲われ日本人女性死亡か 湖近くを散歩中 米フロリダ州
 title_with_ruby: ワニに<ruby>襲<rt data-ruby-level="7">おそ</rt></ruby>われ<ruby>日本人<rt data-ruby-level="1">にほんじん</rt></ruby><ruby>女性<rt

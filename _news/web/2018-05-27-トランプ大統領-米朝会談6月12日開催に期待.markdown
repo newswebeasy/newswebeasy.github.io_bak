@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011454791000
 title: トランプ大統領 米朝会談６月12日開催に期待
 title_with_ruby: トランプ<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby> <ruby>米朝<rt

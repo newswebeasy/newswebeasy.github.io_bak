@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011447471000
 title: ”観客２万人から容疑者拘束” 中国の顔認識システムが話題
 title_with_ruby: ”<ruby>観客<rt data-ruby-level="4">かんきゃく</rt></ruby>２<ruby>万人<rt data-ruby-level="2">まんにん</rt></ruby>から<ruby>容疑者<rt

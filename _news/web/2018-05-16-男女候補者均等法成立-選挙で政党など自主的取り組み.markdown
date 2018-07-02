@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 4
 newsid: k10011440341000
 title: 「男女候補者均等法」成立 選挙で政党など自主的取り組み
 title_with_ruby: 「<ruby>男女<rt data-ruby-level="1">だんじょ</rt></ruby><ruby>候補者<rt data-ruby-level="6">こうほしゃ</rt></ruby><ruby>均等法<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011414221000
 title: レジ通さずスマホ決済 ローソンが都内３店舗で実証実験
 title_with_ruby: レジ<ruby>通<rt data-ruby-level="2">とお</rt></ruby>さずスマホ<ruby>決済<rt data-ruby-level="6">けっさい</rt></ruby>

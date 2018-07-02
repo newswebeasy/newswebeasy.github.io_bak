@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011316271000
 title: 下町ボブスレー 「五輪で使わない」と連絡受ける
 title_with_ruby: <ruby>下町<rt data-ruby-level="1">したまち</rt></ruby>ボブスレー 「<ruby>五輪<rt

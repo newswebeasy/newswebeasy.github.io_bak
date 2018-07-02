@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011430631000
 title: 武田薬品 ６兆8000億円でシャイアー買収合意
 title_with_ruby: <ruby>武田薬品<rt data-ruby-level="8">たけだやくひん</rt></ruby> ６<ruby>兆<rt

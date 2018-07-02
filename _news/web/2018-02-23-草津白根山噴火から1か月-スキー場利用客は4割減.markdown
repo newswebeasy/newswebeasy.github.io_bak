@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011339591000
 title: 草津白根山噴火から１か月 スキー場利用客は４割減
 title_with_ruby: <ruby>草津<rt data-ruby-level="7">くさつ</rt></ruby><ruby>白根山<rt data-ruby-level="3">しらねさん</rt></ruby><ruby>噴火<rt

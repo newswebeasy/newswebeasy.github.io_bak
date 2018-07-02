@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011465851000
 title: たばこ吸うため離席440回で職員を処分 大阪府
 title_with_ruby: たばこ<ruby>吸<rt data-ruby-level="6">す</rt></ruby>うため<ruby>離席<rt data-ruby-level="7">りせき</rt></ruby>440<ruby>回<rt

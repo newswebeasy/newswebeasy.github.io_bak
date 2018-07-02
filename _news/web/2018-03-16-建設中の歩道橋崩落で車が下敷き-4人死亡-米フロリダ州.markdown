@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011367291000
 title: 建設中の歩道橋崩落で車が下敷き ４人死亡 米フロリダ州
 title_with_ruby: <ruby>建設中<rt data-ruby-level="5">けんせつちゅう</rt></ruby>の<ruby>歩道橋<rt

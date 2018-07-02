@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011336241000
 title: 無電柱化 今後３年で1400キロ計画 国交省
 title_with_ruby: <ruby>無<rt data-ruby-level="4">む</rt></ruby><ruby>電柱<rt data-ruby-level="3">でんちゅう</rt></ruby><ruby>化<rt

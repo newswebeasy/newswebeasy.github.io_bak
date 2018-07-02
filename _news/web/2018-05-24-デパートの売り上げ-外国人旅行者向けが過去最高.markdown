@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011449931000
 title: デパートの売り上げ 外国人旅行者向けが過去最高
 title_with_ruby: デパートの<ruby>売<rt data-ruby-level="2">う</rt></ruby>り<ruby>上<rt data-ruby-level="2">あ</rt></ruby>げ

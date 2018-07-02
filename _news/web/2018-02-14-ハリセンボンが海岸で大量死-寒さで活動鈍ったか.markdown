@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011329141000
 title: ハリセンボンが海岸で大量死  寒さで活動鈍ったか
 title_with_ruby: ハリセンボンが<ruby>海岸<rt data-ruby-level="3">かいがん</rt></ruby>で<ruby>大量死<rt

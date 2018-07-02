@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011434561000
 title: 国道に巨大タイヤ落下 8時間通行止め 神奈川 松田町
 title_with_ruby: <ruby>国道<rt data-ruby-level="2">こくどう</rt></ruby>に<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby>タイヤ<ruby>落下<rt

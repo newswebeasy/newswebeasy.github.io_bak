@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011466251000
 title: ミス・アメリカ 水着審査を廃止
 title_with_ruby: ミス・アメリカ <ruby>水着<rt data-ruby-level="3">みずぎ</rt></ruby><ruby>審査<rt

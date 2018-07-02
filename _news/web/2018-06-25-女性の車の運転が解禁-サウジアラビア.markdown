@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011494251000
 title: 女性の車の運転が解禁 サウジアラビア
 title_with_ruby: <ruby>女性<rt data-ruby-level="5">じょせい</rt></ruby>の<ruby>車<rt data-ruby-level="1">くるま</rt></ruby>の<ruby>運転<rt

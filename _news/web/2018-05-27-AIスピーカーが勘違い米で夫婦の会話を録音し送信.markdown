@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011454571000
 title: ＡＩスピーカーが勘違い？米で夫婦の会話を録音し送信
 title_with_ruby: ＡＩスピーカーが<ruby>勘違<rt data-ruby-level="7">かんちが</rt></ruby>い？<ruby>米<rt

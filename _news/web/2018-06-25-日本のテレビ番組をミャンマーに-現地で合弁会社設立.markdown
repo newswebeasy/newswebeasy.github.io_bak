@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011495401000
 title: 日本のテレビ番組をミャンマーに 現地で合弁会社設立
 title_with_ruby: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>のテレビ<ruby>番組<rt data-ruby-level="2">ばんぐみ</rt></ruby>をミャンマーに

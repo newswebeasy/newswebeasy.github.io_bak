@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011439931000
 title: サウジアラビアで女性向けの自動車ショー
 title_with_ruby: サウジアラビアで<ruby>女性向<rt data-ruby-level="5">じょせいむ</rt></ruby>けの<ruby>自動車<rt

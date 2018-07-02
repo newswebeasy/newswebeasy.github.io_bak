@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011436861000
 title: きょうは母の日 各地で感謝伝える催し
 title_with_ruby: きょうは<ruby>母<rt data-ruby-level="2">はは</rt></ruby>の<ruby>日<rt data-ruby-level="2">ひ</rt></ruby>

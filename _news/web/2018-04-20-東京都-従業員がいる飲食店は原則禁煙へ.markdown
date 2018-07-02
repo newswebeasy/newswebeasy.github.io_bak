@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011411641000
 title: 東京都 従業員がいる飲食店は原則禁煙へ
 title_with_ruby: <ruby>東京都<rt data-ruby-level="3">とうきょうと</rt></ruby> <ruby>従業員<rt

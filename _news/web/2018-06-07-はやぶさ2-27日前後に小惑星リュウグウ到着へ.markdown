@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011467881000
 title: 「はやぶさ２」 27日前後に小惑星「リュウグウ」到着へ
 title_with_ruby: 「はやぶさ２」 27<ruby>日<rt data-ruby-level="1">にち</rt></ruby><ruby>前後<rt

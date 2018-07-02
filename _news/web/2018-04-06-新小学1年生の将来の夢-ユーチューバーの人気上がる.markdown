@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011392851000
 title: 新小学１年生の将来の夢 ユーチューバーの人気上がる
 title_with_ruby: <ruby>新<rt data-ruby-level="2">しん</rt></ruby><ruby>小学<rt data-ruby-level="1">しょうがく</rt></ruby>１<ruby>年生<rt

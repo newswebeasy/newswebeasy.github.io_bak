@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011495211000
 title: 東京五輪の期間中 豪華客船が横浜港に停泊しホテルに
 title_with_ruby: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby><ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby>の<ruby>期間中<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011451601000
 title: 日航機から落下の金属片はエンジンの部品と確認
 title_with_ruby: <ruby>日航機<rt data-ruby-level="4">にっこうき</rt></ruby>から<ruby>落下<rt data-ruby-level="3">らっか</rt></ruby>の<ruby>金属片<rt

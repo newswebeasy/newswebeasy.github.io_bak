@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011359571000
 title: 新型新幹線車両「Ｎ700Ｓ」公開
 title_with_ruby: <ruby>新型<rt data-ruby-level="4">しんがた</rt></ruby><ruby>新幹線<rt data-ruby-level="5">しんかんせん</rt></ruby><ruby>車両<rt

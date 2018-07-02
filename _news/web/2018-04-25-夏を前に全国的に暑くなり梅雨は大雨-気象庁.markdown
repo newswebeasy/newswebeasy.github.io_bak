@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011417041000
 title: 夏を前に全国的に暑くなり梅雨は大雨 気象庁
 title_with_ruby: <ruby>夏<rt data-ruby-level="2">なつ</rt></ruby>を<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>に<ruby>全国的<rt

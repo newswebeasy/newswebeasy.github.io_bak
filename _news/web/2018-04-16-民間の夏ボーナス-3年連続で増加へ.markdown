@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011405051000
 title: 民間の夏ボーナス ３年連続で増加へ
 title_with_ruby: <ruby>民間<rt data-ruby-level="4">みんかん</rt></ruby>の<ruby>夏<rt data-ruby-level="2">なつ</rt></ruby>ボーナス

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011448971000
 title: コオロギパンを食べてみた 徳島
 title_with_ruby: コオロギパンを<ruby>食<rt data-ruby-level="2">た</rt></ruby>べてみた <ruby>徳島<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011438481000
 title: 米大使館エルサレム移転で衝突 50人以上が死亡
 title_with_ruby: <ruby>米<rt data-ruby-level="2">べい</rt></ruby><ruby>大使館<rt data-ruby-level="3">たいしかん</rt></ruby>エルサレム<ruby>移転<rt

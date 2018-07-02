@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011496211000
 title: 映画館でＶＲ作品を上映 来月から東京で
 title_with_ruby: <ruby>映画館<rt data-ruby-level="6">えいがかん</rt></ruby>でＶＲ<ruby>作品<rt

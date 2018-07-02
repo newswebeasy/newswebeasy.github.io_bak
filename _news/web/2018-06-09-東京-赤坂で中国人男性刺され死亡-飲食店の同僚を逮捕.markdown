@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011470551000
 title: 東京 赤坂で中国人男性刺され死亡 飲食店の同僚を逮捕
 title_with_ruby: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby> <ruby>赤坂<rt data-ruby-level="3">あかさか</rt></ruby>で<ruby>中国人<rt

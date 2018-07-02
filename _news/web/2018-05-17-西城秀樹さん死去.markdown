@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011441641000
 title: 西城秀樹さん死去
 title_with_ruby: <ruby>西城<rt data-ruby-level="6">さいじょう</rt></ruby><ruby>秀樹<rt data-ruby-level="8">ひでき</rt></ruby>さん<ruby>死去<rt

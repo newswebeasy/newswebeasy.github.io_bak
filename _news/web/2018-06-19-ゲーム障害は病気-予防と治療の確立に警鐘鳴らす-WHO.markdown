@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011484701000
 title: 「ゲーム障害」は病気 予防と治療の確立に警鐘鳴らす ＷＨＯ
 title_with_ruby: 「ゲーム<ruby>障害<rt data-ruby-level="6">しょうがい</rt></ruby>」は<ruby>病気<rt

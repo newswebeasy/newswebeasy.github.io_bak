@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011438191000
 title: 京都大学の立て看板 撤去後も新たに抗議の看板
 title_with_ruby: <ruby>京都大学<rt data-ruby-level="3">きょうとだいがく</rt></ruby>の<ruby>立<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011313031000
 title: 上海で火が出た車が歩道に突っ込む 18人けが
 title_with_ruby: <ruby>上海<rt data-ruby-level="8">しゃんはい</rt></ruby>で<ruby>火<rt data-ruby-level="1">ひ</rt></ruby>が<ruby>出<rt

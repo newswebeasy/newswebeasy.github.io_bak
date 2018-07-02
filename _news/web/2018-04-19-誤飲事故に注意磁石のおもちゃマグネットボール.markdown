@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011410281000
 title: 誤飲事故に注意！磁石のおもちゃ「マグネットボール」
 title_with_ruby: <ruby>誤飲<rt data-ruby-level="6">ごいん</rt></ruby><ruby>事故<rt data-ruby-level="5">じこ</rt></ruby>に<ruby>注意<rt

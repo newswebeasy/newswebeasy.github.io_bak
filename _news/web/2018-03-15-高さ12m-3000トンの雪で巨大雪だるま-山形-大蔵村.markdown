@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011366391000
 title: 高さ12ｍ 3000トンの雪で巨大雪だるま 山形 大蔵村
 title_with_ruby: <ruby>高<rt data-ruby-level="2">たか</rt></ruby>さ12ｍ 3000トンの<ruby>雪<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011437001000
 title: 女性だけの相撲大会で熱戦 北海道 福島町
 title_with_ruby: <ruby>女性<rt data-ruby-level="5">じょせい</rt></ruby>だけの<ruby>相撲<rt data-ruby-level="8">すもう</rt></ruby><ruby>大会<rt

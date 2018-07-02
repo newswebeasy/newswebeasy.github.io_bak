@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011314781000
 title: 高台まで一気に「韋駄天競走」 津波の教訓次世代に 岩手
 title_with_ruby: <ruby>高台<rt data-ruby-level="2">たかだい</rt></ruby>まで<ruby>一気<rt data-ruby-level="1">いっき</rt></ruby>に「<ruby>韋駄天<rt

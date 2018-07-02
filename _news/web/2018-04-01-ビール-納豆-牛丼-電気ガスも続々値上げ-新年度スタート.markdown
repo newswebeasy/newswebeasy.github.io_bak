@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011387021000
 title: ビール 納豆 牛丼… 電気・ガスも続々値上げ 新年度スタート
 title_with_ruby: ビール <ruby>納豆<rt data-ruby-level="7">なっとう</rt></ruby> <ruby>牛丼<rt

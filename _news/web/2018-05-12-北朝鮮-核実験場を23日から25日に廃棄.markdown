@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011436561000
 title: 北朝鮮 核実験場を「23日から25日に廃棄」
 title_with_ruby: <ruby>北朝鮮<rt data-ruby-level="7">きたちょうせん</rt></ruby> <ruby>核実験<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011416431000
 title: 容疑者 女性に好かれないと怒りのメッセージ投稿
 title_with_ruby: <ruby>容疑者<rt data-ruby-level="6">ようぎしゃ</rt></ruby> <ruby>女性<rt data-ruby-level="5">じょせい</rt></ruby>に<ruby>好<rt

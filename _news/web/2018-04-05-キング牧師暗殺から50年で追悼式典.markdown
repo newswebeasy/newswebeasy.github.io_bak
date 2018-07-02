@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011391651000
 title: キング牧師暗殺から50年で追悼式典
 title_with_ruby: キング<ruby>牧師<rt data-ruby-level="5">ぼくし</rt></ruby><ruby>暗殺<rt data-ruby-level="4">あんさつ</rt></ruby>から50<ruby>年<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011378141000
 title: 仮想通貨の購入にカード使えないようにする動き相次ぐ
 title_with_ruby: <ruby>仮想<rt data-ruby-level="5">かそう</rt></ruby><ruby>通貨<rt data-ruby-level="4">つうか</rt></ruby>の<ruby>購入<rt

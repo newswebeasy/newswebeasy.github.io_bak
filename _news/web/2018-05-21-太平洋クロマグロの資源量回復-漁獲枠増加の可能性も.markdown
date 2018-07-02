@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011447191000
 title: 太平洋クロマグロの資源量回復 漁獲枠増加の可能性も
 title_with_ruby: <ruby>太平洋<rt data-ruby-level="3">たいへいよう</rt></ruby>クロマグロの<ruby>資源<rt

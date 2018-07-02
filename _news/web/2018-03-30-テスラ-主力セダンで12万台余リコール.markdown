@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011385231000
 title: テスラ 主力セダンで12万台余リコール
 title_with_ruby: テスラ <ruby>主力<rt data-ruby-level="3">しゅりょく</rt></ruby>セダンで12<ruby>万台<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011463741000
 title: 死んだクジラの胃から80枚余のプラスチック袋 タイ
 title_with_ruby: <ruby>死<rt data-ruby-level="3">し</rt></ruby>んだクジラの<ruby>胃<rt data-ruby-level="4">い</rt></ruby>から80<ruby>枚<rt

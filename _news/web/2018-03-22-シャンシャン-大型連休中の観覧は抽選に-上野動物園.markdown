@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011374671000
 title: シャンシャン 大型連休中の観覧は抽選に 上野動物園
 title_with_ruby: シャンシャン <ruby>大型<rt data-ruby-level="4">おおがた</rt></ruby><ruby>連休中<rt

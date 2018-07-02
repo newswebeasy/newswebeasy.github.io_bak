@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011352941000
 title: 北朝鮮「満足いく合意」 韓国「結果あり失望させるものでない」
 title_with_ruby: <ruby>北朝鮮<rt data-ruby-level="7">きたちょうせん</rt></ruby>「<ruby>満足<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011492381000
 title: 沖縄戦から73年 戦没者追悼式開かれる
 title_with_ruby: <ruby>沖縄戦<rt data-ruby-level="7">おきなわせん</rt></ruby>から73<ruby>年<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011391171000
 title: 24年前に行方不明の娘と涙の再会 中国
 title_with_ruby: 24<ruby>年前<rt data-ruby-level="2">ねんまえ</rt></ruby>に<ruby>行方不明<rt

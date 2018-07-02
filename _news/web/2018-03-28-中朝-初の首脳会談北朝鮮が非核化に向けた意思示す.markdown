@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011382141000
 title: 中朝 初の首脳会談“北朝鮮が非核化に向けた意思示す”
 title_with_ruby: <ruby>中朝<rt data-ruby-level="2">ちゅうちょう</rt></ruby> <ruby>初<rt data-ruby-level="4">はつ</rt></ruby>の<ruby>首脳<rt

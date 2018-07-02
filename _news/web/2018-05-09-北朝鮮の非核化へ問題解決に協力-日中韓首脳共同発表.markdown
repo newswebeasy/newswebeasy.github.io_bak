@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 4
 newsid: k10011431721000
 title: 北朝鮮の非核化へ問題解決に協力 日中韓首脳共同発表
 title_with_ruby: <ruby>北朝鮮<rt data-ruby-level="7">きたちょうせん</rt></ruby>の<ruby>非核化<rt

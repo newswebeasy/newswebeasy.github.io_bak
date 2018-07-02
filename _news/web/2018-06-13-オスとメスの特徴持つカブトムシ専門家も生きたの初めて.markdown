@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011476591000
 title: オスとメスの特徴持つカブトムシ！専門家も「生きたの初めて」
 title_with_ruby: オスとメスの<ruby>特徴<rt data-ruby-level="7">とくちょう</rt></ruby><ruby>持<rt

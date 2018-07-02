@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011327141000
 title: 子どもの運動能力 女子は4年連続上昇 男子は横ばい
 title_with_ruby: <ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもの<ruby>運動<rt data-ruby-level="3">うんどう</rt></ruby><ruby>能力<rt

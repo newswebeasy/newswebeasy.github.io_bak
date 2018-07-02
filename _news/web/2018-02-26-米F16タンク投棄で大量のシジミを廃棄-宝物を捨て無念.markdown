@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011343841000
 title: 米Ｆ16タンク投棄で大量のシジミを廃棄 「宝物を捨て無念」
 title_with_ruby: <ruby>米<rt data-ruby-level="2">べい</rt></ruby>Ｆ16タンク<ruby>投棄<rt data-ruby-level="7">とうき</rt></ruby>で<ruby>大量<rt

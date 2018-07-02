@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011392801000
 title: お母さん、仕事やめて
 title_with_ruby: お<ruby>母<rt data-ruby-level="8">かあ</rt></ruby>さん、<ruby>仕事<rt data-ruby-level="3">しごと</rt></ruby>やめて

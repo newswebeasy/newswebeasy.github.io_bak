@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011380021000
 title: 外国人に人気！ ニッポンの花見
 title_with_ruby: <ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby>に<ruby>人気<rt data-ruby-level="1">にんき</rt></ruby>！

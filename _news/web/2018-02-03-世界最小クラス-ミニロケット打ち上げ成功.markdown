@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011314111000
 title: 世界最小クラス ミニロケット打ち上げ成功
 title_with_ruby: <ruby>世界<rt data-ruby-level="3">せかい</rt></ruby><ruby>最小<rt data-ruby-level="4">さいしょう</rt></ruby>クラス

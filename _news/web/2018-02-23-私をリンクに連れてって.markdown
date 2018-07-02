@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011340891000
 title: 私をリンクに連れてって
 title_with_ruby: <ruby>私<rt data-ruby-level="8">わたし</rt></ruby>をリンクに<ruby>連<rt data-ruby-level="4">つ</rt></ruby>れてって

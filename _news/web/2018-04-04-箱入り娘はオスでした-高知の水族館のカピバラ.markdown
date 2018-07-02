@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011390621000
 title: 「“箱入り娘”はオスでした」 高知の水族館のカピバラ
 title_with_ruby: 「“<ruby>箱入<rt data-ruby-level="7">はこい</rt></ruby>り<ruby>娘<rt data-ruby-level="7">むすめ</rt></ruby>”はオスでした」

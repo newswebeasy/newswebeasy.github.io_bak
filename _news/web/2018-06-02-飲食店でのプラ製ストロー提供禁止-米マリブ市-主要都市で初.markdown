@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011462281000
 title: 飲食店でのプラ製ストロー提供禁止 米マリブ市 主要都市で初
 title_with_ruby: <ruby>飲食店<rt data-ruby-level="3">いんしょくてん</rt></ruby>でのプラ<ruby>製<rt

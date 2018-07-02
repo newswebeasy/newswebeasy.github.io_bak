@@ -10,22 +10,20 @@
           <h2 class="rich_media_title">{{ page.title }}</h2>
 
           <div class="rich_media_meta_list">
-            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/web/social/">社会</a></span>
-            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/web/culture/">科学・文化</a></span>
-            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/web/politics/">政治</a></span>
+            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/web/social/"><ruby>社会<rt data-ruby-level="2">しゃかい</rt></ruby></a></span>
+            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/web/culture/"><ruby>科学<rt data-ruby-level="2">かがく</rt></ruby>・<ruby>文化<rt data-ruby-level="3">ぶんか</rt></ruby></a></span>
+            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/web/politics/"><ruby>政治<rt data-ruby-level="5">せいじ</rt></ruby></a></span>
             <span class="rich_media_meta rich_media_meta_text"><a href="/tags/web/business/">ビジネス</a></span>
-            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/web/international/">国際</a></span>
+            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/web/international/"><ruby>国際<rt data-ruby-level="5">こくさい</rt></ruby></a></span>
             <span class="rich_media_meta rich_media_meta_text"><a href="/tags/web/sports/">スポーツ</a></span>
-            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/web/life/">暮らし</a></span>
+            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/web/life/"><ruby>暮<rt data-ruby-level="6">く</rt></ruby>らし</a></span>
           </div>
 
           <div class="rich_media_content">
-            <div style="margin: 10px 0">
-              <span><ruby>振<rt>ふ</rt></ruby>り<ruby>仮名<rt>がな</rt></ruby><ruby>表示<rt>ひょうじ</rt></ruby></span>
-              <label class="switch">
-                <input id="furigana_toggle" type="checkbox" checked/>
-                <span class="slider round"></span>
-              </label>
+            <div class="furigana_bar">
+              <span><ruby>振<rt data-ruby-level="7">ふ</rt></ruby>り<ruby>仮名<rt data-ruby-level="7">がな</rt></ruby>レベル</span>
+              <input id="furigana_slider" class="furigana_slider" type="range" min="1" max="9"/>
+              <span id="level"></span>
             </div>
             <ul>
               {% assign weblist = site.news | where: "categories", "web" | where: "cate", page.cate | sort: "last_modified_at" | reverse %}
@@ -66,13 +64,13 @@
         </div>
 
         <div class="rich_media_tool">
-          <a class="media_tool_meta meta_primary" href="/tags/web/social/">社会</a>
-          <a class="media_tool_meta meta_primary" href="/tags/web/culture/">科学・文化</a>
-          <a class="media_tool_meta meta_primary" href="/tags/web/politics/">政治</a>
+          <a class="media_tool_meta meta_primary" href="/tags/web/social/"><ruby>社会<rt data-ruby-level="2">しゃかい</rt></ruby></a>
+          <a class="media_tool_meta meta_primary" href="/tags/web/culture/"><ruby>科学<rt data-ruby-level="2">かがく</rt></ruby>・<ruby>文化<rt data-ruby-level="3">ぶんか</rt></ruby></a>
+          <a class="media_tool_meta meta_primary" href="/tags/web/politics/"><ruby>政治<rt data-ruby-level="5">せいじ</rt></ruby></a>
           <a class="media_tool_meta meta_primary" href="/tags/web/business/">ビジネス</a>
-          <a class="media_tool_meta meta_primary" href="/tags/web/international/">国際</a>
+          <a class="media_tool_meta meta_primary" href="/tags/web/international/"><ruby>国際<rt data-ruby-level="5">こくさい</rt></ruby></a>
           <a class="media_tool_meta meta_primary" href="/tags/web/sports/">スポーツ</a>
-          <a class="media_tool_meta meta_primary" href="/tags/web/life/">暮らし</a>
+          <a class="media_tool_meta meta_primary" href="/tags/web/life/"><ruby>暮<rt data-ruby-level="6">く</rt></ruby>らし</a>
         </div>
       </div>
 

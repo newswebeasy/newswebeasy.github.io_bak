@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011470761000
 title: 東海道新幹線の車内で人刺される １人重体２人けが 容疑者逮捕
 title_with_ruby: <ruby>東海道新幹線<rt data-ruby-level="5">とうかいどうしんかんせん</rt></ruby>の<ruby>車内<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 4
 newsid: k10011343191000
 title: Ｊアラート 英語 中国語 韓国語でも情報提供へ
 title_with_ruby: Ｊアラート <ruby>英語<rt data-ruby-level="4">えいご</rt></ruby> <ruby>中国語<rt

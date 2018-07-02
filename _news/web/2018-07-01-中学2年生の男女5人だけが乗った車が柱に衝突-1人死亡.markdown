@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011503711000
 title: 中学２年生の男女５人だけが乗った車が柱に衝突 １人死亡
 title_with_ruby: <ruby>中学<rt data-ruby-level="1">ちゅうがく</rt></ruby>２<ruby>年生<rt data-ruby-level="1">ねんせい</rt></ruby>の<ruby>男女<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011334601000
 title: 肌に直接貼る薄型ディスプレー開発
 title_with_ruby: <ruby>肌<rt data-ruby-level="7">はだ</rt></ruby>に<ruby>直接<rt data-ruby-level="5">ちょくせつ</rt></ruby><ruby>貼<rt

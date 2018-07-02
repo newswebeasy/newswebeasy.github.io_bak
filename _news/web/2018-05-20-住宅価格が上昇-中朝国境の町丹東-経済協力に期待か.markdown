@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011445941000
 title: 住宅価格が上昇 中朝国境の町「丹東」 経済協力に期待か
 title_with_ruby: <ruby>住宅<rt data-ruby-level="6">じゅうたく</rt></ruby><ruby>価格<rt data-ruby-level="5">かかく</rt></ruby>が<ruby>上昇<rt

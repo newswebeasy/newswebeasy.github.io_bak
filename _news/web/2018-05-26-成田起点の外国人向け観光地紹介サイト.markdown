@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011453801000
 title: 成田起点の外国人向け観光地紹介サイト
 title_with_ruby: <ruby>成田<rt data-ruby-level="4">なりた</rt></ruby><ruby>起点<rt data-ruby-level="3">きてん</rt></ruby>の<ruby>外国人<rt

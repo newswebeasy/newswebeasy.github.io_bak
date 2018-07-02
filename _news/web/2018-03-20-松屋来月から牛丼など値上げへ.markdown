@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011372501000
 title: 「松屋」来月から牛丼など値上げへ
 title_with_ruby: 「<ruby>松屋<rt data-ruby-level="4">まつや</rt></ruby>」<ruby>来月<rt data-ruby-level="2">らいげつ</rt></ruby>から<ruby>牛丼<rt

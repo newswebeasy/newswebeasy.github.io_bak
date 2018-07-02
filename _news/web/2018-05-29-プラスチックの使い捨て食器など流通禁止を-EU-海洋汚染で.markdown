@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011456741000
 title: プラスチックの使い捨て食器など流通禁止を ＥＵ 海洋汚染で
 title_with_ruby: プラスチックの<ruby>使<rt data-ruby-level="6">つか</rt></ruby>い<ruby>捨<rt data-ruby-level="6">す</rt></ruby>て<ruby>食器<rt

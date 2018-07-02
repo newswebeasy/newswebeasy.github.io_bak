@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011419221000
 title: ２回目の噴火速報の硫黄山 警戒レベル３を継続
 title_with_ruby: ２<ruby>回目<rt data-ruby-level="2">かいめ</rt></ruby>の<ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby><ruby>速報<rt

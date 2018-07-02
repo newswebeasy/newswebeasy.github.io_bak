@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011477681000
 title: マッコウクジラ 体を縦にして眠る姿を撮影
 title_with_ruby: マッコウクジラ <ruby>体<rt data-ruby-level="2">からだ</rt></ruby>を<ruby>縦<rt

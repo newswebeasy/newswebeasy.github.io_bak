@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011461471000
 title: クレヨンしんちゃんの声優 矢島晶子さんが降板へ
 title_with_ruby: クレヨンしんちゃんの<ruby>声優<rt data-ruby-level="6">せいゆう</rt></ruby> <ruby>矢島<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011377951000
 title: 「私には夢がある 銃のない世界に」キング牧師の孫がデモで
 title_with_ruby: 「<ruby>私<rt data-ruby-level="8">わたし</rt></ruby>には<ruby>夢<rt data-ruby-level="5">ゆめ</rt></ruby>がある

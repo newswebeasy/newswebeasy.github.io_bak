@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011405291000
 title: 熊本地震２年 あの車と同じ色の花を… 大学生の遺族が現場に
 title_with_ruby: <ruby>熊本<rt data-ruby-level="7">くまもと</rt></ruby><ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>２<ruby>年<rt

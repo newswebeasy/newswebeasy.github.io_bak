@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011327031000
 title: 「男はつらいよ」寅さんの町が国の重要文化的景観に
 title_with_ruby: 「<ruby>男<rt data-ruby-level="1">おとこ</rt></ruby>はつらいよ」<ruby>寅<rt data-ruby-level="8">とら</rt></ruby>さんの<ruby>町<rt

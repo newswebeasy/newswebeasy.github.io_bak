@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011388151000
 title: 富山湾のシロエビ漁 ことしの初水揚げ
 title_with_ruby: <ruby>富山湾<rt data-ruby-level="7">とやまわん</rt></ruby>のシロエビ<ruby>漁<rt

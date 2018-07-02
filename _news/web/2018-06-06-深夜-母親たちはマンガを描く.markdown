@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011466781000
 title: 深夜 母親たちはマンガを描く
 title_with_ruby: <ruby>深夜<rt data-ruby-level="3">しんや</rt></ruby> <ruby>母親<rt data-ruby-level="2">ははおや</rt></ruby>たちはマンガを<ruby>描<rt

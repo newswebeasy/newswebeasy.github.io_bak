@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011463631000
 title: ＣＯ２の平均濃度 国内３観測点すべて過去最高
 title_with_ruby: ＣＯ２の<ruby>平均<rt data-ruby-level="5">へいきん</rt></ruby><ruby>濃度<rt data-ruby-level="7">のうど</rt></ruby>

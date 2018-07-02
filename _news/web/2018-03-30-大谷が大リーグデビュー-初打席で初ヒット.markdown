@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011384961000
 title: 大谷が大リーグデビュー 初打席で初ヒット
 title_with_ruby: <ruby>大谷<rt data-ruby-level="2">おおたに</rt></ruby>が<ruby>大<rt data-ruby-level="1">だい</rt></ruby><ruby>リーグ<rt

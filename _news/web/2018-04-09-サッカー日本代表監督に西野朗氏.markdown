@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011396251000
 title: サッカー日本代表監督に西野朗氏
 title_with_ruby: サッカー<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>代表<rt data-ruby-level="3">だいひょう</rt></ruby><ruby>監督<rt

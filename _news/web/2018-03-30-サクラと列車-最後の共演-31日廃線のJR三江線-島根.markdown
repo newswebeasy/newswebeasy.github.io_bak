@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011386211000
 title: サクラと列車 最後の共演 31日廃線のＪＲ三江線  島根
 title_with_ruby: サクラと<ruby>列車<rt data-ruby-level="3">れっしゃ</rt></ruby> <ruby>最後<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011502961000
 title: 訪日外国人向け免税 きょうから拡充
 title_with_ruby: <ruby>訪日<rt data-ruby-level="6">ほうにち</rt></ruby><ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby><ruby>向<rt

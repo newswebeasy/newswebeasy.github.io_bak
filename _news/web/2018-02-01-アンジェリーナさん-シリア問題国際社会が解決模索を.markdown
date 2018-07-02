@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011310751000
 title: アンジェリーナさん シリア問題「国際社会が解決模索を」
 title_with_ruby: アンジェリーナさん シリア<ruby>問題<rt data-ruby-level="3">もんだい</rt></ruby>「<ruby>国際<rt

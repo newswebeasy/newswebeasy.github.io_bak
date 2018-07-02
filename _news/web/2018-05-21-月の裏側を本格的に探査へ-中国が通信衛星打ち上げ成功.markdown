@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011446671000
 title: 月の裏側を本格的に探査へ 中国が通信衛星打ち上げ成功
 title_with_ruby: <ruby>月<rt data-ruby-level="1">つき</rt></ruby>の<ruby>裏側<rt data-ruby-level="6">うらがわ</rt></ruby>を<ruby>本格的<rt

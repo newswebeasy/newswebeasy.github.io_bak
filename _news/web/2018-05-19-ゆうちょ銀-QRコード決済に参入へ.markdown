@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011444241000
 title: ゆうちょ銀 ＱＲコード決済に参入へ
 title_with_ruby: ゆうちょ<ruby>銀<rt data-ruby-level="3">ぎん</rt></ruby> ＱＲコード<ruby>決済<rt

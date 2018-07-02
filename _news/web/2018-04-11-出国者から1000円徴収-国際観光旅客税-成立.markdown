@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011398481000
 title: 出国者から1000円徴収 国際観光旅客税 成立
 title_with_ruby: <ruby>出国者<rt data-ruby-level="3">しゅっこくしゃ</rt></ruby>から1000<ruby>円<rt

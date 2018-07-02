@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011406941000
 title: 九谷焼の自動販売機がお披露目 石川
 title_with_ruby: <ruby>九谷焼<rt data-ruby-level="4">くたにやき</rt></ruby>の<ruby>自動販売機<rt

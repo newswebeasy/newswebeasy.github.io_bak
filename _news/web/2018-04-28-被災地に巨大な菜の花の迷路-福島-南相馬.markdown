@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011421811000
 title: 被災地に巨大な菜の花の迷路 福島 南相馬
 title_with_ruby: <ruby>被災地<rt data-ruby-level="7">ひさいち</rt></ruby>に<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby>な<ruby>菜<rt

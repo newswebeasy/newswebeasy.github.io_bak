@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011364331000
 title: 米大統領 中国からの輸入品100品目に関税検討か 家電など対象
 title_with_ruby: <ruby>米<rt data-ruby-level="2">べい</rt></ruby><ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby>

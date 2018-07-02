@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011494001000
 title: サッカーＷ杯 イングランドがパナマに大勝 １次リーグ突破
 title_with_ruby: サッカー<ruby>Ｗ杯<rt data-ruby-level="7">わーるどかっぷ</rt></ruby> イングランドがパナマに<ruby>大勝<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011438421000
 title: 中国 飛行中に旅客機の操縦席の窓壊れる 副操縦士らけが
 title_with_ruby: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby> <ruby>飛行中<rt data-ruby-level="4">ひこうちゅう</rt></ruby>に<ruby>旅客機<rt

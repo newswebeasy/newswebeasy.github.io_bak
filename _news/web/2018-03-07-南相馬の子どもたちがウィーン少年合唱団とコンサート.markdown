@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011354221000
 title: 南相馬の子どもたちがウィーン少年合唱団とコンサート
 title_with_ruby: <ruby>南相馬<rt data-ruby-level="7">みなみそうま</rt></ruby>の<ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもたちがウィーン<ruby>少年<rt

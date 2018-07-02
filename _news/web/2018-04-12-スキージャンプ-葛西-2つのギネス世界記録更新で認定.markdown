@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011400981000
 title: スキージャンプ 葛西 ２つのギネス世界記録更新で認定
 title_with_ruby: スキージャンプ <ruby>葛西<rt data-ruby-level="8">かさい</rt></ruby> ２つのギネス<ruby>世界<rt

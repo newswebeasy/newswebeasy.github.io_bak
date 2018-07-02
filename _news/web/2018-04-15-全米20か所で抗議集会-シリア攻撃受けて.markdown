@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011404351000
 title: 全米20か所で抗議集会 シリア攻撃受けて
 title_with_ruby: <ruby>全米<rt data-ruby-level="3">ぜんべい</rt></ruby>20か<ruby>所<rt data-ruby-level="3">しょ</rt></ruby>で<ruby>抗議<rt

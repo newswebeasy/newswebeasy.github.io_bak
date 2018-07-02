@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011342691000
 title: 羽田空港 人工知能搭載バスで自動運転の実証実験
 title_with_ruby: <ruby>羽田空港<rt data-ruby-level="3">はねだくうこう</rt></ruby> <ruby>人工<rt

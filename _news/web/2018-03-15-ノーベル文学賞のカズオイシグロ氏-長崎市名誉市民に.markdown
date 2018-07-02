@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011366431000
 title: ノーベル文学賞のカズオ・イシグロ氏 長崎市名誉市民に
 title_with_ruby: ノーベル<ruby>文学賞<rt data-ruby-level="4">ぶんがくしょう</rt></ruby>のカズオ・イシグロ<ruby>氏<rt

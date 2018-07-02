@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011445651000
 title: カンヌ映画祭で最優秀賞に是枝裕和監督の「万引き家族」
 title_with_ruby: <ruby>カンヌ<rt data-ruby-level="6">かんぬ</rt></ruby><ruby>映画祭<rt data-ruby-level="6">えいがさい</rt></ruby>で<ruby>最優秀賞<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011391421000
 title: ワシントンで日本から寄贈の桜が見頃
 title_with_ruby: ワシントンで<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>から<ruby>寄贈<rt

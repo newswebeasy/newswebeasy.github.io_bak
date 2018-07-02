@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011423761000
 title: 美術館絵画の半数以上“がん作”で謝罪 フランス
 title_with_ruby: <ruby>美術館<rt data-ruby-level="5">びじゅつかん</rt></ruby><ruby>絵画<rt data-ruby-level="2">かいが</rt></ruby>の<ruby>半数<rt

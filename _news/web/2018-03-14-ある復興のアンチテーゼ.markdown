@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011364881000
 title: ある復興のアンチテーゼ
 title_with_ruby: ある<ruby>復興<rt data-ruby-level="5">ふっこう</rt></ruby>のアンチテーゼ

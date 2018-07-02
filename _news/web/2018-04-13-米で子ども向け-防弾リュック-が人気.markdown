@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011401281000
 title: 米で子ども向け “防弾リュック” が人気
 title_with_ruby: <ruby>米<rt data-ruby-level="2">べい</rt></ruby>で<ruby>子<rt data-ruby-level="1">こ</rt></ruby>ども<ruby>向<rt

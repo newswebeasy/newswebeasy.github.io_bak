@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011415451000
 title: 深海の生物 探知から採取まで自動のロボット開発
 title_with_ruby: <ruby>深海<rt data-ruby-level="3">しんかい</rt></ruby>の<ruby>生物<rt data-ruby-level="3">せいぶつ</rt></ruby>

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011363951000
 title: 円谷プロ「中国ウルトラマン」著作権侵害で訴え
 title_with_ruby: <ruby>円谷<rt data-ruby-level="8">つぶらや</rt></ruby>プロ「<ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>ウルトラマン」<ruby>著作権<rt

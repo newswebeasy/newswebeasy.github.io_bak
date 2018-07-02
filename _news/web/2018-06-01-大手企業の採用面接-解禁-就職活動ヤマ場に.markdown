@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011460991000
 title: 大手企業の採用面接 解禁 就職活動ヤマ場に
 title_with_ruby: <ruby>大手<rt data-ruby-level="1">おおて</rt></ruby><ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>の<ruby>採用<rt

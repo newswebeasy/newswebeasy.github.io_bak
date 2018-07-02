@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011443051000
 title: 成田開港40年を前に安全祈願祭「すべての人に感謝」
 title_with_ruby: <ruby>成田<rt data-ruby-level="4">なりた</rt></ruby><ruby>開港<rt data-ruby-level="3">かいこう</rt></ruby>40<ruby>年<rt

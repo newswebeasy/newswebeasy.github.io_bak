@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011479691000
 title: 好調インバウンド 財布のひもは意外に固い？
 title_with_ruby: <ruby>好調<rt data-ruby-level="4">こうちょう</rt></ruby>インバウンド <ruby>財布<rt

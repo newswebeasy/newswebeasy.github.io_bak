@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 4
 newsid: k10011456341000
 title: 幼児教育・保育の無償化 来年10月から実施へ
 title_with_ruby: <ruby>幼児<rt data-ruby-level="6">ようじ</rt></ruby><ruby>教育<rt data-ruby-level="3">きょういく</rt></ruby>・<ruby>保育<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011360091000
 title: 福島第一原発 半径80キロ圏の放射線量 平均約74％減少
 title_with_ruby: <ruby>福島<rt data-ruby-level="3">ふくしま</rt></ruby><ruby>第<rt data-ruby-level="3">だい</rt></ruby>一<ruby>原発<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011456921000
 title: 両陛下 宮中伝統の馬術「打毬」を観覧
 title_with_ruby: <ruby>両陛下<rt data-ruby-level="6">りょうへいか</rt></ruby> <ruby>宮中<rt data-ruby-level="3">みやなか</rt></ruby><ruby>伝統<rt

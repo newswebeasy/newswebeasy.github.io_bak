@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011363351000
 title: 約100年ぶりに新種のサクラ発見 紀伊半島南部
 title_with_ruby: <ruby>約<rt data-ruby-level="4">やく</rt></ruby>100<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>ぶりに<ruby>新種<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011369291000
 title: 地下鉄サリン事件から23年「心の傷残る」遺族が現状訴え
 title_with_ruby: <ruby>地下鉄<rt data-ruby-level="5">ちかてつ</rt></ruby><ruby>サリン<rt data-ruby-level="5">さりん</rt></ruby><ruby>事件<rt

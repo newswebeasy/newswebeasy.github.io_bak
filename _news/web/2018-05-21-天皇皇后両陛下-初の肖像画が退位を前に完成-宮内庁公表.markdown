@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011446801000
 title: 天皇皇后両陛下 初の肖像画が退位を前に完成 宮内庁公表
 title_with_ruby: <ruby>天皇<rt data-ruby-level="6">てんのう</rt></ruby><ruby>皇后<rt data-ruby-level="6">こうごう</rt></ruby><ruby>両陛下<rt

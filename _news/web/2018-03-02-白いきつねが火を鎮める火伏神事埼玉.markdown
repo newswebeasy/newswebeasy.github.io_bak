@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011349571000
 title: 白いきつねが火を鎮める「火伏神事」埼玉
 title_with_ruby: <ruby>白<rt data-ruby-level="1">しろ</rt></ruby>いきつねが<ruby>火<rt data-ruby-level="1">ひ</rt></ruby>を<ruby>鎮<rt

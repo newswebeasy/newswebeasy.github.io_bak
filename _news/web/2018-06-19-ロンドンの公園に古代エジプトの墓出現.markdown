@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011484671000
 title: ロンドンの公園に“古代エジプトの墓”出現
 title_with_ruby: ロンドンの<ruby>公園<rt data-ruby-level="2">こうえん</rt></ruby>に“<ruby>古代<rt

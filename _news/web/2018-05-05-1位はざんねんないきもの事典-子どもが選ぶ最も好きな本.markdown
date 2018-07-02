@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011428071000
 title: １位は「ざんねんないきもの事典」 子どもが選ぶ最も好きな本
 title_with_ruby: １<ruby>位<rt data-ruby-level="4">い</rt></ruby>は「ざんねんないきもの<ruby>事典<rt

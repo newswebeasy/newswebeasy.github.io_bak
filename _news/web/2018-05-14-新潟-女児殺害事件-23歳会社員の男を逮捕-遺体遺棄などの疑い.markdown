@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011438271000
 title: 新潟 女児殺害事件 23歳会社員の男を逮捕 遺体遺棄などの疑い
 title_with_ruby: <ruby>新潟<rt data-ruby-level="7">にいがた</rt></ruby> <ruby>女児<rt data-ruby-level="4">じょじ</rt></ruby><ruby>殺害<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011361601000
 title: それは気象病かも
 title_with_ruby: それは<ruby>気象<rt data-ruby-level="4">きしょう</rt></ruby><ruby>病<rt data-ruby-level="3">びょう</rt></ruby>かも

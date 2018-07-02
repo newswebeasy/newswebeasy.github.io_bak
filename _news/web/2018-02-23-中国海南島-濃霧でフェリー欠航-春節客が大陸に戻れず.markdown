@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011340391000
 title: 中国海南島 濃霧でフェリー欠航 春節客が大陸に戻れず
 title_with_ruby: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby><ruby>海南島<rt data-ruby-level="3">かいなんとう</rt></ruby>

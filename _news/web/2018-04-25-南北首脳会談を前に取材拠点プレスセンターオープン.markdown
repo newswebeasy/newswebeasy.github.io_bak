@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011417191000
 title: 南北首脳会談を前に取材拠点「プレスセンター」オープン
 title_with_ruby: <ruby>南北<rt data-ruby-level="2">なんぼく</rt></ruby><ruby>首脳<rt data-ruby-level="6">しゅのう</rt></ruby><ruby>会談<rt

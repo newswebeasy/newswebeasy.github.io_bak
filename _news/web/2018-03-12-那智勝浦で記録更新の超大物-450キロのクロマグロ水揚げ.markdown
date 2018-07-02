@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011361441000
 title: 那智勝浦で記録更新の超大物 450キロのクロマグロ水揚げ
 title_with_ruby: <ruby>那智勝浦<rt data-ruby-level="8">なちかつうら</rt></ruby>で<ruby>記録<rt

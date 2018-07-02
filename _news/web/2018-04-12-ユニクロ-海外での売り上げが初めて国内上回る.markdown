@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011400691000
 title: ユニクロ 海外での売り上げが初めて国内上回る
 title_with_ruby: ユニクロ <ruby>海外<rt data-ruby-level="2">かいがい</rt></ruby>での<ruby>売<rt

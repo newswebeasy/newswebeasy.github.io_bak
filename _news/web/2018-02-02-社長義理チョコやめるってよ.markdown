@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011313471000
 title: 社長、義理チョコやめるってよ
 title_with_ruby: <ruby>社長<rt data-ruby-level="2">しゃちょう</rt></ruby>、<ruby>義理<rt data-ruby-level="5">ぎり</rt></ruby>チョコやめるってよ

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011382001000
 title: 映画館に鍵で多くの子ども逃げられず ロシア64人死亡火災
 title_with_ruby: <ruby>映画館<rt data-ruby-level="6">えいがかん</rt></ruby>に<ruby>鍵<rt data-ruby-level="7">かぎ</rt></ruby>で<ruby>多<rt

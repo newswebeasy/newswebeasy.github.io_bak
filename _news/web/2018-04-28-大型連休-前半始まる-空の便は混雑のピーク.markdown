@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011421531000
 title: 大型連休 前半始まる 空の便は混雑のピーク
 title_with_ruby: <ruby>大型<rt data-ruby-level="4">おおがた</rt></ruby><ruby>連休<rt data-ruby-level="4">れんきゅう</rt></ruby>

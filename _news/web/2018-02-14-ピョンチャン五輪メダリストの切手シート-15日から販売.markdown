@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011328721000
 title: ピョンチャン五輪メダリストの切手シート 15日から販売
 title_with_ruby: ピョンチャン<ruby>五輪<rt data-ruby-level="4">ごりん</rt></ruby>メダリストの<ruby>切手<rt

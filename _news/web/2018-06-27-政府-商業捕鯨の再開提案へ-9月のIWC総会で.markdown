@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011496851000
 title: 政府 商業捕鯨の再開提案へ ９月のＩＷＣ総会で
 title_with_ruby: <ruby>政府<rt data-ruby-level="5">せいふ</rt></ruby> <ruby>商業<rt data-ruby-level="3">しょうぎょう</rt></ruby><ruby>捕鯨<rt

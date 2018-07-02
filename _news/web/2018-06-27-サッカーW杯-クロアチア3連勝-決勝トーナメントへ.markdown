@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011497031000
 title: サッカーW杯 クロアチア３連勝 決勝トーナメントへ
 title_with_ruby: サッカー<ruby>W杯<rt data-ruby-level="7">わーるどかっぷ</rt></ruby> クロアチア３<ruby>連勝<rt

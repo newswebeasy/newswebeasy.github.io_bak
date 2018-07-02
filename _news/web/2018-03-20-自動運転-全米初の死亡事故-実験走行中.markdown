@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011371791000
 title: 自動運転 全米初の死亡事故 実験走行中
 title_with_ruby: <ruby>自動<rt data-ruby-level="3">じどう</rt></ruby><ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby>

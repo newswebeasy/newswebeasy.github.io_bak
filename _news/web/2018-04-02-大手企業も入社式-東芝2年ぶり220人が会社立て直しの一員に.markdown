@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011388001000
 title: 大手企業も入社式 東芝２年ぶり220人が会社立て直しの一員に
 title_with_ruby: <ruby>大手<rt data-ruby-level="1">おおて</rt></ruby><ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>も<ruby>入社式<rt

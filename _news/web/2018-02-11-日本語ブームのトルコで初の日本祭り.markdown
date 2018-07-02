@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011324661000
 title: 日本語ブームのトルコで初の日本祭り
 title_with_ruby: <ruby>日本語<rt data-ruby-level="2">にほんご</rt></ruby>ブームのトルコで<ruby>初<rt

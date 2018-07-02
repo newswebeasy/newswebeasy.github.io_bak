@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011325191000
 title: モスクワ 71人乗った国内線旅客機墜落
 title_with_ruby: モスクワ 71<ruby>人<rt data-ruby-level="1">にん</rt></ruby><ruby>乗<rt data-ruby-level="3">の</rt></ruby>った<ruby>国内線<rt

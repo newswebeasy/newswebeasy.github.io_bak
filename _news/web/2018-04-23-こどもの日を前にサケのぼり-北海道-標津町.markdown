@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011414301000
 title: こどもの日を前に「サケのぼり」 北海道 標津町
 title_with_ruby: こどもの<ruby>日<rt data-ruby-level="1">ひ</rt></ruby>を<ruby>前<rt data-ruby-level="2">まえ</rt></ruby>に「サケのぼり」

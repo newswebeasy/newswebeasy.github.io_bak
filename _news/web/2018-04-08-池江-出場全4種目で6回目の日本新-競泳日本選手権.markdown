@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011395201000
 title: 池江 出場全４種目で６回目の日本新 競泳日本選手権
 title_with_ruby: <ruby>池江<rt data-ruby-level="7">いけえ</rt></ruby> <ruby>出場<rt data-ruby-level="2">しゅつじょう</rt></ruby><ruby>全<rt

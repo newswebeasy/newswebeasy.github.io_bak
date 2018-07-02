@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011355401000
 title: イチロー マリナーズ復帰会見「チームにすべてささげる」
 title_with_ruby: イチロー マリナーズ<ruby>復帰<rt data-ruby-level="5">ふっき</rt></ruby><ruby>会見<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011467621000
 title: 吸盤１つ５センチ！水族館史上最大のタコが来た 北海道
 title_with_ruby: <ruby>吸盤<rt data-ruby-level="7">きゅうばん</rt></ruby>１つ５センチ！<ruby>水族館<rt

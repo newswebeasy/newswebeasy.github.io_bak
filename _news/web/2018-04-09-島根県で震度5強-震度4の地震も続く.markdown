@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011395491000
 title: 島根県で震度５強 震度４の地震も続く
 title_with_ruby: <ruby>島根県<rt data-ruby-level="3">しまねけん</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>強<rt

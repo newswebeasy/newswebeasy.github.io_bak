@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011457381000
 title: イバンカ氏の投稿写真に批判相次ぐ
 title_with_ruby: イバン<ruby>カ<rt data-ruby-level="4">か</rt></ruby><ruby>氏<rt data-ruby-level="4">し</rt></ruby>の<ruby>投稿<rt

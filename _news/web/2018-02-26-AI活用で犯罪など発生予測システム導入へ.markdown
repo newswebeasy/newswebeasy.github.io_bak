@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011343261000
 title: ＡＩ活用で犯罪など発生予測システム導入へ
 title_with_ruby: ＡＩ<ruby>活用<rt data-ruby-level="2">かつよう</rt></ruby>で<ruby>犯罪<rt data-ruby-level="5">はんざい</rt></ruby>など<ruby>発生<rt

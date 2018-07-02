@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011494061000
 title: 大阪北部地震１週間 今後の地震活動に十分注意を 気象庁
 title_with_ruby: <ruby>大阪<rt data-ruby-level="8">おおさか</rt></ruby><ruby>北部<rt data-ruby-level="3">ほくぶ</rt></ruby><ruby>地震<rt

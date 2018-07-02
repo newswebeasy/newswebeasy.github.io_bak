@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011394841000
 title: ヒノキ花粉が急増 都内で記録的飛散量（動画）
 title_with_ruby: ヒノキ<ruby>花粉<rt data-ruby-level="4">かふん</rt></ruby>が<ruby>急増<rt data-ruby-level="5">きゅうぞう</rt></ruby>

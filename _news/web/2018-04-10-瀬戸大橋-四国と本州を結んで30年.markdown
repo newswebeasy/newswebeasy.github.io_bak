@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011396891000
 title: 瀬戸大橋 四国と本州を結んで30年
 title_with_ruby: <ruby>瀬戸大橋<rt data-ruby-level="7">せとおおはし</rt></ruby> <ruby>四国<rt

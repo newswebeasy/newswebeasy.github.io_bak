@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011323311000
 title: 南海トラフと根室沖の巨大地震 発生確率80％に引き上げ
 title_with_ruby: <ruby>南海<rt data-ruby-level="2">なんかい</rt></ruby>トラフと<ruby>根室<rt data-ruby-level="7">ねむろ</rt></ruby><ruby>沖<rt

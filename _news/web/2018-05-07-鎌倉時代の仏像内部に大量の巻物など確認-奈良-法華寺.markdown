@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011429891000
 title: 鎌倉時代の仏像内部に大量の巻物など確認 奈良 法華寺
 title_with_ruby: <ruby>鎌倉時代<rt data-ruby-level="7">かまくらじだい</rt></ruby>の<ruby>仏像<rt

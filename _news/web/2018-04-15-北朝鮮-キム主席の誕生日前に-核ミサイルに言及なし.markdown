@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011404341000
 title: 北朝鮮 キム主席の誕生日前に 核・ミサイルに言及なし
 title_with_ruby: <ruby>北朝鮮<rt data-ruby-level="7">きたちょうせん</rt></ruby> キム<ruby>主席<rt

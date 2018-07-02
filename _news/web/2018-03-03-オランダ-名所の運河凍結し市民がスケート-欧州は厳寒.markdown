@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011350331000
 title: オランダ 名所の運河凍結し市民がスケート 欧州は厳寒
 title_with_ruby: オランダ <ruby>名所<rt data-ruby-level="3">めいしょ</rt></ruby>の<ruby>運河<rt

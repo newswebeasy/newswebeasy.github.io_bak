@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011386371000
 title: 「ＪＫビジネス」131店 ９割余が東京と大阪
 title_with_ruby: 「ＪＫビジネス」131<ruby>店<rt data-ruby-level="2">てん</rt></ruby> ９<ruby>割<rt

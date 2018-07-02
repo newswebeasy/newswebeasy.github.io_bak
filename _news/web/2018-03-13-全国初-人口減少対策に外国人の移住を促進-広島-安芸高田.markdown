@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011363851000
 title: 全国初 人口減少対策に外国人の移住を促進 広島 安芸高田
 title_with_ruby: <ruby>全国初<rt data-ruby-level="4">ぜんこくはつ</rt></ruby> <ruby>人口<rt data-ruby-level="1">じんこう</rt></ruby><ruby>減少<rt

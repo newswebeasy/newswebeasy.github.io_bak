@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011360151000
 title: 中国で村上春樹さんの「騎士団長殺し」発売 イベントに大勢の人
 title_with_ruby: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>で<ruby>村上<rt data-ruby-level="1">むらかみ</rt></ruby><ruby>春樹<rt

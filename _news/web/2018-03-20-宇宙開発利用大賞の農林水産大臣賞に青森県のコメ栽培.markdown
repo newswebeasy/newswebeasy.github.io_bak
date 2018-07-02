@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011372741000
 title: 宇宙開発利用大賞の農林水産大臣賞に青森県のコメ栽培
 title_with_ruby: <ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby><ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby><ruby>利用<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011444991000
 title: 北朝鮮の男性２人 韓国への亡命の意思示す
 title_with_ruby: <ruby>北朝鮮<rt data-ruby-level="7">きたちょうせん</rt></ruby>の<ruby>男性<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011446971000
 title: キラウエア火山噴火続く 溶岩当たり近くに住む男性大けが
 title_with_ruby: キラウエア<ruby>火山<rt data-ruby-level="1">かざん</rt></ruby><ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby><ruby>続<rt

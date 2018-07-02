@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011387401000
 title: 中国の宇宙ステーション実験機 １日夜以降大気圏に再突入へ
 title_with_ruby: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>の<ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby>ステーション<ruby>実験機<rt

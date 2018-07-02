@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011503141000
 title: 中国 自動車関税大幅引き下げ
 title_with_ruby: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby> <ruby>自動車<rt data-ruby-level="3">じどうしゃ</rt></ruby><ruby>関税<rt

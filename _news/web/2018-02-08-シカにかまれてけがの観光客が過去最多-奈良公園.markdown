@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011319871000
 title: シカにかまれてけがの観光客が過去最多 奈良公園
 title_with_ruby: シカにかまれてけがの<ruby>観光客<rt data-ruby-level="4">かんこうきゃく</rt></ruby>が<ruby>過去<rt

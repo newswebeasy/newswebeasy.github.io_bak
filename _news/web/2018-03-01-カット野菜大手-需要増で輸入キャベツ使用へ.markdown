@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011348171000
 title: カット野菜大手 需要増で輸入キャベツ使用へ
 title_with_ruby: カット<ruby>野菜<rt data-ruby-level="4">やさい</rt></ruby><ruby>大手<rt data-ruby-level="1">おおて</rt></ruby>

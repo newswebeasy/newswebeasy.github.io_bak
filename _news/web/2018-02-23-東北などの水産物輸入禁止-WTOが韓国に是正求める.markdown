@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011339621000
 title: 東北などの水産物輸入禁止 ＷＴＯが韓国に是正求める
 title_with_ruby: <ruby>東北<rt data-ruby-level="2">とうほく</rt></ruby>などの<ruby>水産物<rt data-ruby-level="4">すいさんぶつ</rt></ruby><ruby>輸入<rt

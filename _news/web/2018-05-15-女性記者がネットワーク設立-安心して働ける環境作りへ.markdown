@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011439391000
 title: 女性記者がネットワーク設立 安心して働ける環境作りへ
 title_with_ruby: <ruby>女性<rt data-ruby-level="5">じょせい</rt></ruby><ruby>記者<rt data-ruby-level="3">きしゃ</rt></ruby>がネットワーク<ruby>設立<rt

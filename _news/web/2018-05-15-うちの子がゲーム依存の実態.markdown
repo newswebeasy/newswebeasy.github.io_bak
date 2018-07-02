@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011439251000
 title: 「うちの子が…」″ゲーム依存″の実態
 title_with_ruby: 「うちの<ruby>子<rt data-ruby-level="1">こ</rt></ruby>が…」″ゲーム<ruby>依存<rt

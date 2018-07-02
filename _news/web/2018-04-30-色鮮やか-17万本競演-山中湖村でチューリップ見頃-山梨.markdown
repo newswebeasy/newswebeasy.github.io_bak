@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011423231000
 title: 色鮮やか 17万本競演 山中湖村でチューリップ見頃 山梨
 title_with_ruby: <ruby>色鮮<rt data-ruby-level="7">いろあざ</rt></ruby>やか 17<ruby>万<rt data-ruby-level="2">まん</rt></ruby><ruby>本<rt

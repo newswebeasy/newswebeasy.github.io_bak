@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011444081000
 title: 将棋の藤井聡太さん 15歳で七段に 最年少記録を61年ぶり更新
 title_with_ruby: <ruby>将棋<rt data-ruby-level="7">しょうぎ</rt></ruby>の<ruby>藤井<rt data-ruby-level="7">ふじい</rt></ruby><ruby>聡太<rt

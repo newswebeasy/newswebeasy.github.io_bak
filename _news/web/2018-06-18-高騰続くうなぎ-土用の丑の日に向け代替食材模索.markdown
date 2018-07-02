@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011483941000
 title: 高騰続くうなぎ 土用の丑の日に向け代替食材模索
 title_with_ruby: <ruby>高騰<rt data-ruby-level="7">こうとう</rt></ruby><ruby>続<rt data-ruby-level="4">つづ</rt></ruby>くうなぎ

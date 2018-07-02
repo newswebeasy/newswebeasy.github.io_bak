@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011426281000
 title: 金メダリスト ザギトワ選手に贈る秋田犬 お披露目
 title_with_ruby: <ruby>金<rt data-ruby-level="1">きん</rt></ruby><ruby>メダリスト<rt data-ruby-level="1">めだりすと</rt></ruby>

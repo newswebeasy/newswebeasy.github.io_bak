@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011363721000
 title: 花見の幹事さん見てください
 title_with_ruby: <ruby>花見<rt data-ruby-level="1">はなみ</rt></ruby>の<ruby>幹事<rt data-ruby-level="5">かんじ</rt></ruby>さん<ruby>見<rt

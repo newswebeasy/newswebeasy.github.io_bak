@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011456321000
 title: 歩行者４人死傷事故 運転の90歳女を逮捕 神奈川 茅ヶ崎
 title_with_ruby: <ruby>歩行者<rt data-ruby-level="3">ほこうしゃ</rt></ruby>４<ruby>人<rt data-ruby-level="1">にん</rt></ruby><ruby>死傷<rt

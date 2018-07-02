@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011489781000
 title: 日本の観光や食をテーマにした催し 中国 広州
 title_with_ruby: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby>の<ruby>観光<rt data-ruby-level="4">かんこう</rt></ruby>や<ruby>食<rt

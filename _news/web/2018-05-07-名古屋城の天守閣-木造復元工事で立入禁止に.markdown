@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011429321000
 title: 名古屋城の天守閣 木造復元工事で立入禁止に
 title_with_ruby: <ruby>名古屋城<rt data-ruby-level="6">なごやじょう</rt></ruby>の<ruby>天守閣<rt

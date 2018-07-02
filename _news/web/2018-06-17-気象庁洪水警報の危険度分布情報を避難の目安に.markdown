@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011481241000
 title: 気象庁「洪水警報の危険度分布」情報を避難の目安に
 title_with_ruby: <ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>「<ruby>洪水<rt

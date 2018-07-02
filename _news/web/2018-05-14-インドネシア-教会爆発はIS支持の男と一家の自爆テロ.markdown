@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011437301000
 title: インドネシア 教会爆発はＩＳ支持の男と一家の自爆テロ
 title_with_ruby: インドネシア <ruby>教会<rt data-ruby-level="2">きょうかい</rt></ruby><ruby>爆発<rt

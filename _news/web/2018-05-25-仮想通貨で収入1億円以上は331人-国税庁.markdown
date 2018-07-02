@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011453331000
 title: 仮想通貨で収入１億円以上は331人 国税庁
 title_with_ruby: <ruby>仮想<rt data-ruby-level="5">かそう</rt></ruby><ruby>通貨<rt data-ruby-level="4">つうか</rt></ruby>で<ruby>収入<rt

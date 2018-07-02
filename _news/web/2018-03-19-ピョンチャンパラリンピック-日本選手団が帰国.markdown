@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011371071000
 title: ピョンチャンパラリンピック 日本選手団が帰国
 title_with_ruby: ピョンチャンパラリンピック <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>選手団<rt

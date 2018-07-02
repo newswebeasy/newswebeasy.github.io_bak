@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011325131000
 title: 漫画家が海賊版サイトに声明発表へ
 title_with_ruby: <ruby>漫画家<rt data-ruby-level="7">まんがか</rt></ruby>が<ruby>海賊版<rt data-ruby-level="7">かいぞくばん</rt></ruby>サイトに<ruby>声明<rt

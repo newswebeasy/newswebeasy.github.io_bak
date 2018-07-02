@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011329781000
 title: 米フロリダ州の高校の発砲事件 17人が死亡 地元警察
 title_with_ruby: <ruby>米<rt data-ruby-level="3">べい</rt></ruby><ruby>フロリダ<rt data-ruby-level="3">ふろりだ</rt></ruby><ruby>州<rt

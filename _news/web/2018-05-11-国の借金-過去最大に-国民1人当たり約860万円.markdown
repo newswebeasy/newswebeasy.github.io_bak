@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011434321000
 title: 国の借金 過去最大に 国民１人当たり約860万円
 title_with_ruby: <ruby>国<rt data-ruby-level="2">くに</rt></ruby>の<ruby>借金<rt data-ruby-level="4">しゃっきん</rt></ruby>

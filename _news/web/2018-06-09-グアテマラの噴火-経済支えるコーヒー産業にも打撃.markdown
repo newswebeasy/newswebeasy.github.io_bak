@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011470361000
 title: グアテマラの噴火 経済支えるコーヒー産業にも打撃
 title_with_ruby: グアテマラの<ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby> <ruby>経済<rt

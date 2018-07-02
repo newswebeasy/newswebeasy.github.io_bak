@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011374791000
 title: 野菜 徐々に値下がり 来月中には平年並みか
 title_with_ruby: <ruby>野菜<rt data-ruby-level="4">やさい</rt></ruby> <ruby>徐々<rt data-ruby-level="7">じょじょ</rt></ruby>に<ruby>値下<rt

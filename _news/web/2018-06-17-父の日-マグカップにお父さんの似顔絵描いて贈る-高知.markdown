@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011481781000
 title: 父の日 マグカップにお父さんの似顔絵描いて贈る 高知
 title_with_ruby: <ruby>父<rt data-ruby-level="2">ちち</rt></ruby>の<ruby>日<rt data-ruby-level="2">ひ</rt></ruby>

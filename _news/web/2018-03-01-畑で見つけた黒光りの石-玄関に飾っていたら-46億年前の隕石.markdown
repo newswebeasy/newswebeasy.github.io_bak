@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011348131000
 title: 畑で見つけた黒光りの石 玄関に飾っていたら… 46億年前の隕石！
 title_with_ruby: <ruby>畑<rt data-ruby-level="3">はた</rt></ruby>で<ruby>見<rt data-ruby-level="1">み</rt></ruby>つけた<ruby>黒光<rt

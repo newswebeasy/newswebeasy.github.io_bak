@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011335061000
 title: 銭湯の魅力伝える展示会 東京
 title_with_ruby: <ruby>銭湯<rt data-ruby-level="5">せんとう</rt></ruby>の<ruby>魅力<rt data-ruby-level="7">みりょく</rt></ruby><ruby>伝<rt

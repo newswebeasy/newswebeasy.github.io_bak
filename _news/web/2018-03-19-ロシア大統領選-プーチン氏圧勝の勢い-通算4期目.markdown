@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011370561000
 title: ロシア大統領選 プーチン氏圧勝の勢い 通算４期目
 title_with_ruby: ロシア<ruby>大統領選<rt data-ruby-level="5">だいとうりょうせん</rt></ruby> プーチン<ruby>氏<rt

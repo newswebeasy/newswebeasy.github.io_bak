@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011412481000
 title: ６割超がライフル銃販売禁止を支持 米世論調査
 title_with_ruby: ６<ruby>割<rt data-ruby-level="6">わり</rt></ruby><ruby>超<rt data-ruby-level="7">ちょう</rt></ruby>が<ruby>ライフル<rt

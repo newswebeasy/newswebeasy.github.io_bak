@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011382561000
 title: 知床に「幻氷」出現 記録的暖かさで「しんきろう」の一種
 title_with_ruby: <ruby>知床<rt data-ruby-level="8">しれとこ</rt></ruby>に「<ruby>幻<rt data-ruby-level="7">まぼろし</rt></ruby><ruby>氷<rt

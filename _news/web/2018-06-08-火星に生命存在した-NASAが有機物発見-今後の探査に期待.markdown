@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011469261000
 title: 火星に生命存在した!? ＮＡＳＡが有機物発見 今後の探査に期待
 title_with_ruby: <ruby>火星<rt data-ruby-level="2">かせい</rt></ruby>に<ruby>生命<rt data-ruby-level="3">せいめい</rt></ruby><ruby>存在<rt

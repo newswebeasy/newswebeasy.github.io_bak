@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011356641000
 title: ピョンチャンパラリンピックきょう開幕 予想気温は氷点下６度
 title_with_ruby: ピョンチャンパラリンピックきょう<ruby>開幕<rt data-ruby-level="6">かいまく</rt></ruby>

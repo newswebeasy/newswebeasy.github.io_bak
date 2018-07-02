@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011472201000
 title: シャンシャン あす１歳の誕生日
 title_with_ruby: シャンシャン あす１<ruby>歳<rt data-ruby-level="7">さい</rt></ruby>の<ruby>誕生日<rt

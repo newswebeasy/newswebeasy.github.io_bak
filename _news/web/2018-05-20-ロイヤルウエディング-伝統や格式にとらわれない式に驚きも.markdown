@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011445661000
 title: ロイヤルウエディング 伝統や格式にとらわれない式に驚きも
 title_with_ruby: ロイヤルウエディング <ruby>伝統<rt data-ruby-level="5">でんとう</rt></ruby>や<ruby>格式<rt

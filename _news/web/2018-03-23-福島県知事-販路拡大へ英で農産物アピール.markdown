@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011375491000
 title: 福島県知事 販路拡大へ英で農産物アピール
 title_with_ruby: <ruby>福島県<rt data-ruby-level="3">ふくしまけん</rt></ruby><ruby>知事<rt data-ruby-level="3">ちじ</rt></ruby>

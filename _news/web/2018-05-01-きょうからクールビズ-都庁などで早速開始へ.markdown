@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011423701000
 title: きょうから「クールビズ」 都庁などで早速開始へ
 title_with_ruby: きょうから「クールビズ」 <ruby>都庁<rt data-ruby-level="6">とちょう</rt></ruby>などで<ruby>早速<rt

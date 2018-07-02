@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011488551000
 title: サッカーW杯 ポルトガルがモロッコに勝利
 title_with_ruby: サッカー<ruby>W杯<rt data-ruby-level="7">わーるどかっぷ</rt></ruby> ポルトガルがモロッコに<ruby>勝利<rt

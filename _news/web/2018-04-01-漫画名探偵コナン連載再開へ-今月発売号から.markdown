@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011387161000
 title: 漫画「名探偵コナン」連載再開へ 今月発売号から
 title_with_ruby: <ruby>漫画<rt data-ruby-level="7">まんが</rt></ruby>「<ruby>名探偵<rt data-ruby-level="7">めいたんてい</rt></ruby><ruby>コナン<rt

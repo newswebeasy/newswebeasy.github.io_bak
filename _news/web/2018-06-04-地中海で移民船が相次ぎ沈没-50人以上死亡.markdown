@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011463751000
 title: 地中海で移民船が相次ぎ沈没 50人以上死亡
 title_with_ruby: <ruby>地中海<rt data-ruby-level="2">ちちゅうかい</rt></ruby>で<ruby>移民船<rt

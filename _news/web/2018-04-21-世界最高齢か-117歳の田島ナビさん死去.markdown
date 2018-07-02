@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011413001000
 title: “世界最高齢か” 117歳の田島ナビさん死去
 title_with_ruby: “<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby><ruby>最高齢<rt data-ruby-level="7">さいこうれい</rt></ruby>か”

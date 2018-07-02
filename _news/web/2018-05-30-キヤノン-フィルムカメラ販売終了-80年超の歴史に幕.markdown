@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011458671000
 title: キヤノン フィルムカメラ販売終了 80年超の歴史に幕
 title_with_ruby: キヤノン フィルムカメラ<ruby>販売<rt data-ruby-level="7">はんばい</rt></ruby><ruby>終了<rt

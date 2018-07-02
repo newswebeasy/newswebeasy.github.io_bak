@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011467501000
 title: 高齢者ドライバー ５万7000人余「認知症のおそれ」
 title_with_ruby: <ruby>高齢者<rt data-ruby-level="7">こうれいしゃ</rt></ruby>ドライバー ５<ruby>万<rt

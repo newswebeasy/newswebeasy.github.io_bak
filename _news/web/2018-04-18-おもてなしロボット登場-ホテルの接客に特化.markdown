@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011408321000
 title: おもてなしロボット登場 ホテルの接客に特化
 title_with_ruby: おもてなしロボット<ruby>登場<rt data-ruby-level="3">とうじょう</rt></ruby> ホテルの<ruby>接客<rt

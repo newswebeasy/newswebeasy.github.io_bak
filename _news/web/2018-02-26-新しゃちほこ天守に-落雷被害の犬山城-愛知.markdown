@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011343481000
 title: 新「しゃちほこ」天守に 落雷被害の犬山城 愛知
 title_with_ruby: <ruby>新<rt data-ruby-level="2">しん</rt></ruby>「しゃちほこ」<ruby>天守<rt data-ruby-level="3">てんしゅ</rt></ruby>に

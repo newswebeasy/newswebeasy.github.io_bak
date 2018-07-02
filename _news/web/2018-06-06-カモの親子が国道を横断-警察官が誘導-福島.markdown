@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011467121000
 title: カモの親子が国道を横断 警察官が誘導 福島
 title_with_ruby: カモの<ruby>親子<rt data-ruby-level="2">おやこ</rt></ruby>が<ruby>国道<rt data-ruby-level="2">こくどう</rt></ruby>を<ruby>横断<rt

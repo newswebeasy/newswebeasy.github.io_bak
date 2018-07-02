@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011378581000
 title: 標高の決め方 変わります
 title_with_ruby: <ruby>標高<rt data-ruby-level="4">ひょうこう</rt></ruby>の<ruby>決<rt data-ruby-level="3">き</rt></ruby>め<ruby>方<rt

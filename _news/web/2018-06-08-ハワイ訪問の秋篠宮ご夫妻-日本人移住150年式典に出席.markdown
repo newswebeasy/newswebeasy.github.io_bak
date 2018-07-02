@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011468781000
 title: ハワイ訪問の秋篠宮ご夫妻 日本人移住150年式典に出席
 title_with_ruby: ハワイ<ruby>訪問<rt data-ruby-level="6">ほうもん</rt></ruby>の<ruby>秋篠宮<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011314871000
 title: アニー賞「リメンバー・ミー」が最多11賞 日本人監督作品は逃す
 title_with_ruby: アニー<ruby>賞<rt data-ruby-level="4">しょう</rt></ruby>「リメンバー・ミー」が<ruby>最多<rt

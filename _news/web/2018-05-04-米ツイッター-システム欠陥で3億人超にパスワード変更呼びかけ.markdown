@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011426981000
 title: 米ツイッター システム欠陥で３億人超にパスワード変更呼びかけ
 title_with_ruby: <ruby>米<rt data-ruby-level="2">べい</rt></ruby>ツイッター システム<ruby>欠陥<rt

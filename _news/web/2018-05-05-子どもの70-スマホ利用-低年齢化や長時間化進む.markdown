@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011427811000
 title: 子どもの70％ スマホ利用 低年齢化や長時間化進む
 title_with_ruby: <ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもの70％ スマホ<ruby>利用<rt

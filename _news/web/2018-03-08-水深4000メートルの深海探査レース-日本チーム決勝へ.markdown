@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011356301000
 title: 水深4000メートルの深海探査レース 日本チーム決勝へ
 title_with_ruby: <ruby>水深<rt data-ruby-level="3">すいしん</rt></ruby>4000メートルの<ruby>深海<rt

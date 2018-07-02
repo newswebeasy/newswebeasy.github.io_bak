@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011326251000
 title: 高木美帆は銀メダル スピードスケート女子1500m
 title_with_ruby: <ruby>高木<rt data-ruby-level="2">たかぎ</rt></ruby><ruby>美帆<rt data-ruby-level="8">みほ</rt></ruby>は<ruby>銀<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011365441000
 title: サルの赤ちゃん誕生 動物園でベビーラッシュ 香川 小豆島
 title_with_ruby: サルの<ruby>赤<rt data-ruby-level="1">あか</rt></ruby>ちゃん<ruby>誕生<rt data-ruby-level="6">たんじょう</rt></ruby>

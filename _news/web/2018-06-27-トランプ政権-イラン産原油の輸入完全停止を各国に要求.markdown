@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011497101000
 title: トランプ政権 イラン産原油の輸入完全停止を各国に要求
 title_with_ruby: トランプ<ruby>政権<rt data-ruby-level="6">せいけん</rt></ruby> イラン<ruby>産<rt

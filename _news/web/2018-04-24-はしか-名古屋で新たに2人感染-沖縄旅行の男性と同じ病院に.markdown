@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011415501000
 title: はしか 名古屋で新たに２人感染 沖縄旅行の男性と同じ病院に
 title_with_ruby: はしか <ruby>名古屋<rt data-ruby-level="3">なごや</rt></ruby>で<ruby>新<rt data-ruby-level="2">あら</rt></ruby>たに２<ruby>人<rt

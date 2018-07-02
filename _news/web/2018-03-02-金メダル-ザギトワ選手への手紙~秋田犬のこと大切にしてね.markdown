@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011349881000
 title: 金メダル ザギトワ選手への手紙～秋田犬のこと、大切にしてね
 title_with_ruby: <ruby>金<rt data-ruby-level="1">きん</rt></ruby><ruby>メダル<rt data-ruby-level="1">めだる</rt></ruby>

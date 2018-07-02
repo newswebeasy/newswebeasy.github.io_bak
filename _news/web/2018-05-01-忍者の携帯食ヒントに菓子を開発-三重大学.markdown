@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011424301000
 title: 忍者の携帯食ヒントに菓子を開発 三重大学
 title_with_ruby: <ruby>忍者<rt data-ruby-level="7">にんじゃ</rt></ruby>の<ruby>携帯食<rt data-ruby-level="7">けいたいしょく</rt></ruby>ヒントに<ruby>菓子<rt

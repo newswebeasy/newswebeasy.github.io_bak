@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011484231000
 title: 倒壊のブロック塀は「建築基準法違反」高槻市
 title_with_ruby: <ruby>倒壊<rt data-ruby-level="7">とうかい</rt></ruby>のブロック<ruby>塀<rt data-ruby-level="7">べい</rt></ruby>は「<ruby>建築<rt

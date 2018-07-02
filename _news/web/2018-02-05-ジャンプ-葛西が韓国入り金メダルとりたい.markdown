@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011315711000
 title: ジャンプ 葛西が韓国入り「金メダルとりたい」
 title_with_ruby: ジャンプ <ruby>葛西<rt data-ruby-level="8">かさい</rt></ruby>が<ruby>韓国<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011371971000
 title: 米韓合同軍事演習 来月１日から実施 韓国国防省
 title_with_ruby: <ruby>米韓<rt data-ruby-level="7">べいかん</rt></ruby><ruby>合同<rt data-ruby-level="2">ごうどう</rt></ruby><ruby>軍事<rt

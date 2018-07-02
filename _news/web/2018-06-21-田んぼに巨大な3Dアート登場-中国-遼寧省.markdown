@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011488641000
 title: 田んぼに巨大な３Ｄアート登場 中国 遼寧省
 title_with_ruby: <ruby>田<rt data-ruby-level="1">た</rt></ruby>んぼに<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby>な３Ｄアート<ruby>登場<rt

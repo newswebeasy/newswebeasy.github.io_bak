@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011382671000
 title: 中国の宇宙実験機 破片が地球に落下も 31日～来月初め
 title_with_ruby: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>の<ruby>宇宙<rt data-ruby-level="6">うちゅう</rt></ruby><ruby>実験機<rt

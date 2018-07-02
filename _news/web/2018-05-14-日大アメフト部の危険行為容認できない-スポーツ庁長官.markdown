@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011437831000
 title: 日大アメフト部の危険行為「容認できない」 スポーツ庁長官
 title_with_ruby: <ruby>日大<rt data-ruby-level="1">にちだい</rt></ruby>アメフト<ruby>部<rt data-ruby-level="3">ぶ</rt></ruby>の<ruby>危険<rt

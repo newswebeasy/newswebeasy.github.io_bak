@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011375351000
 title: 韓国 イ・ミョンバク氏逮捕 大統領経験者の逮捕は４人目
 title_with_ruby: <ruby>韓国<rt data-ruby-level="7">かんこく</rt></ruby> イ・ミョンバク<ruby>氏<rt

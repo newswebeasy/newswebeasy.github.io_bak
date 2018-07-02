@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011315071000
 title: 「はれのひ」経営破綻 新成人が振り袖着て記念撮影 横浜
 title_with_ruby: 「はれのひ」<ruby>経営<rt data-ruby-level="5">けいえい</rt></ruby><ruby>破綻<rt

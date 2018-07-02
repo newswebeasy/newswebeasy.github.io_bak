@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011398791000
 title: 造幣局の「桜の通り抜け」始まる 大阪
 title_with_ruby: <ruby>造幣局<rt data-ruby-level="7">ぞうへいきょく</rt></ruby>の「<ruby>桜<rt

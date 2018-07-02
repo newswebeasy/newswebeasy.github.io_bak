@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011496981000
 title: サッカーＷ杯 ペルーが今大会初勝利 オーストラリア下す
 title_with_ruby: サッカー<ruby>Ｗ杯<rt data-ruby-level="7">わーるどかっぷ</rt></ruby> ペルーが<ruby>今大会<rt

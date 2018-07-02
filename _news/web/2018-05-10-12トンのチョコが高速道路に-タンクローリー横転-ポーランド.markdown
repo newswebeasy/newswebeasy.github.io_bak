@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011432911000
 title: 12トンのチョコが高速道路に タンクローリー横転 ポーランド
 title_with_ruby: 12トンのチョコが<ruby>高速道路<rt data-ruby-level="3">こうそくどうろ</rt></ruby>に タンクローリー<ruby>横転<rt

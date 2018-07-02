@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011399961000
 title: 富士山のふもとと５合目結ぶ「富士スバルライン」全線開通
 title_with_ruby: <ruby>富士山<rt data-ruby-level="5">ふじさん</rt></ruby>のふもとと５<ruby>合目<rt

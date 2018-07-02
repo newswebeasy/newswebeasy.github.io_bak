@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011427201000
 title: ハワイ島のキラウエア火山噴火 住民に避難命令
 title_with_ruby: <ruby>ハワイ<rt data-ruby-level="3">はわい</rt></ruby><ruby>島<rt data-ruby-level="3">とう</rt></ruby>のキラウエア<ruby>火山<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011491231000
 title: 21年ぶりの刷新 トヨタ「センチュリー」 新型車発売
 title_with_ruby: 21<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>ぶりの<ruby>刷新<rt data-ruby-level="4">さっしん</rt></ruby>

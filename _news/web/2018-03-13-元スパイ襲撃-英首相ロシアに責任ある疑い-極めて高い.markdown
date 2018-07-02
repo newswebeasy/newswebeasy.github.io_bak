@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011362461000
 title: 元スパイ襲撃 英首相「ロシアに責任ある疑い 極めて高い」
 title_with_ruby: <ruby>元<rt data-ruby-level="2">もと</rt></ruby>スパイ<ruby>襲撃<rt data-ruby-level="7">しゅうげき</rt></ruby>

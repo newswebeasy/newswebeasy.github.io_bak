@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011422751000
 title: 200匹のこいのぼり海岸に 三重 熊野
 title_with_ruby: 200<ruby>匹<rt data-ruby-level="7">ひき</rt></ruby>のこいのぼり<ruby>海岸<rt

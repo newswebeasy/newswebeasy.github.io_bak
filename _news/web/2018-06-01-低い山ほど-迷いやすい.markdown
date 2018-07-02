@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011461821000
 title: 「低い山」ほど 迷いやすい
 title_with_ruby: 「<ruby>低<rt data-ruby-level="4">ひく</rt></ruby>い<ruby>山<rt data-ruby-level="1">やま</rt></ruby>」ほど

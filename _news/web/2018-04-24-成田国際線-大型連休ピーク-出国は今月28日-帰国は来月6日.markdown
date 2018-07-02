@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011414931000
 title: 成田国際線 大型連休ピーク 出国は今月28日 帰国は来月6日
 title_with_ruby: <ruby>成田<rt data-ruby-level="4">なりた</rt></ruby><ruby>国際線<rt data-ruby-level="5">こくさいせん</rt></ruby>

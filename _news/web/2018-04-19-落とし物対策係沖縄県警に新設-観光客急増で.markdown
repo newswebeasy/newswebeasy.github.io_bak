@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011408921000
 title: 「落とし物対策係」沖縄県警に新設 観光客急増で
 title_with_ruby: 「<ruby>落<rt data-ruby-level="3">お</rt></ruby>とし<ruby>物<rt data-ruby-level="3">もの</rt></ruby><ruby>対策<rt

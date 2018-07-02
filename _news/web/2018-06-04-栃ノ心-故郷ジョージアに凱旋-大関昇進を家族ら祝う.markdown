@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011464471000
 title: 栃ノ心 故郷ジョージアに凱旋 大関昇進を家族ら祝う
 title_with_ruby: <ruby>栃<rt data-ruby-level="7">とち</rt></ruby><ruby>ノ<rt data-ruby-level="7">の</rt></ruby><ruby>心<rt

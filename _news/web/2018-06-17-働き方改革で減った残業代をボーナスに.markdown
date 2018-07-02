@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011481191000
 title: 働き方改革で減った残業代をボーナスに
 title_with_ruby: <ruby>働<rt data-ruby-level="4">はたら</rt></ruby>き<ruby>方<rt data-ruby-level="4">かた</rt></ruby><ruby>改革<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011436281000
 title: ヘリ型ドローン 火星で飛行実験へ NASAが地球以外で初
 title_with_ruby: ヘリ<ruby>型<rt data-ruby-level="4">がた</rt></ruby>ドローン <ruby>火星<rt data-ruby-level="2">かせい</rt></ruby>で<ruby>飛行<rt

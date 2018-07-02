@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011330481000
 title: 手荷物の中が立体映像に 成田空港で最新保安検査の実験
 title_with_ruby: <ruby>手荷物<rt data-ruby-level="3">てにもつ</rt></ruby>の<ruby>中<rt data-ruby-level="1">なか</rt></ruby>が<ruby>立体<rt

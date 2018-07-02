@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011455881000
 title: 怪しい動き…万引きか?! ＡＩカメラが店内監視
 title_with_ruby: <ruby>怪<rt data-ruby-level="7">あや</rt></ruby>しい<ruby>動<rt data-ruby-level="3">うご</rt></ruby>き…<ruby>万引<rt

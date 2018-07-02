@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011445251000
 title: 英王室 午後８時から結婚式 参列者が次々に
 title_with_ruby: <ruby>英<rt data-ruby-level="4">えい</rt></ruby><ruby>王室<rt data-ruby-level="2">おうしつ</rt></ruby>

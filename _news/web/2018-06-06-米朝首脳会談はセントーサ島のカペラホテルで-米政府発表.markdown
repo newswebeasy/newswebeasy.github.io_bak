@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011466171000
 title: 米朝首脳会談はセントーサ島のカペラホテルで 米政府発表
 title_with_ruby: <ruby>米朝<rt data-ruby-level="2">べいちょう</rt></ruby><ruby>首脳<rt data-ruby-level="6">しゅのう</rt></ruby><ruby>会談<rt

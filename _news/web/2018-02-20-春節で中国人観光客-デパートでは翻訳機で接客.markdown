@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011335551000
 title: 春節で中国人観光客 デパートでは翻訳機で接客
 title_with_ruby: <ruby>春節<rt data-ruby-level="4">しゅんせつ</rt></ruby>で<ruby>中国人<rt data-ruby-level="2">ちゅうごくじん</rt></ruby><ruby>観光客<rt

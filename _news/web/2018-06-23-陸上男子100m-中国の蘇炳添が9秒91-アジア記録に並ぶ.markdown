@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011492561000
 title: 陸上男子100ｍ 中国の蘇炳添が９秒91 アジア記録に並ぶ
 title_with_ruby: <ruby>陸上<rt data-ruby-level="4">りくじょう</rt></ruby><ruby>男子<rt data-ruby-level="1">だんし</rt></ruby>100ｍ

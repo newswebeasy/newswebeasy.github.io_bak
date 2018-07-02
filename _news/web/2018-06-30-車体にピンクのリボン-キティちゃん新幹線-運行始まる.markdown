@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011502331000
 title: 車体にピンクのリボン “キティちゃん新幹線” 運行始まる
 title_with_ruby: <ruby>車体<rt data-ruby-level="2">しゃたい</rt></ruby>にピンクのリボン “キティちゃん<ruby>新幹線<rt

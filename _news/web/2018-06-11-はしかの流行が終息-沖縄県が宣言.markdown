@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011472631000
 title: はしかの流行が終息 沖縄県が宣言
 title_with_ruby: はしかの<ruby>流行<rt data-ruby-level="3">りゅうこう</rt></ruby>が<ruby>終息<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011495451000
 title: 小笠原諸島返還50年 自然保護と交通手段改善が課題
 title_with_ruby: <ruby>小笠原<rt data-ruby-level="8">おがさわら</rt></ruby><ruby>諸島<rt data-ruby-level="6">しょとう</rt></ruby><ruby>返還<rt

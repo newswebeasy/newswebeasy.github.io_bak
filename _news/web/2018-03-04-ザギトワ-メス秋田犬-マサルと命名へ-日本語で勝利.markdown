@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011351651000
 title: ザギトワ メス秋田犬 「マサル」と命名へ 「日本語で『勝利』」
 title_with_ruby: ザギトワ メス<ruby>秋田犬<rt data-ruby-level="2">あきたいぬ</rt></ruby> 「マサル」と<ruby>命名<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011355291000
 title: 新燃岳 噴火活動が活発化 大きな噴石や火砕流に警戒を
 title_with_ruby: <ruby>新燃岳<rt data-ruby-level="8">しんもえだけ</rt></ruby> <ruby>噴火<rt data-ruby-level="7">ふんか</rt></ruby><ruby>活動<rt

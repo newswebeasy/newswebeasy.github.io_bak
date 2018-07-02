@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011398201000
 title: 紀伊半島沿岸のサンゴに大きな被害 海面の水温低下で
 title_with_ruby: <ruby>紀伊<rt data-ruby-level="8">きい</rt></ruby><ruby>半島<rt data-ruby-level="3">はんとう</rt></ruby><ruby>沿岸<rt

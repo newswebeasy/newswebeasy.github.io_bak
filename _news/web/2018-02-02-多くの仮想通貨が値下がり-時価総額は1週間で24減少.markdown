@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011313151000
 title: 多くの仮想通貨が値下がり 時価総額は１週間で24％減少
 title_with_ruby: <ruby>多<rt data-ruby-level="2">おお</rt></ruby>くの<ruby>仮想<rt data-ruby-level="5">かそう</rt></ruby><ruby>通貨<rt

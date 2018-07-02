@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011392731000
 title: アニメ作家 高畑勲さん死去 「火垂るの墓」などの作品
 title_with_ruby: アニメ<ruby>作家<rt data-ruby-level="2">さっか</rt></ruby> <ruby>高畑<rt data-ruby-level="3">たかはた</rt></ruby><ruby>勲<rt

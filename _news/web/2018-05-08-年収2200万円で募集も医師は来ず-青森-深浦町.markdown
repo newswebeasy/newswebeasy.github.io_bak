@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011430621000
 title: 年収2200万円で募集も医師は来ず 青森 深浦町
 title_with_ruby: <ruby>年収<rt data-ruby-level="6">ねんしゅう</rt></ruby>2200<ruby>万円<rt

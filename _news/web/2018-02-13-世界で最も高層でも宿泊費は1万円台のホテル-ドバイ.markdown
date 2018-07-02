@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011326611000
 title: 世界で最も高層でも宿泊費は１万円台のホテル ドバイ
 title_with_ruby: <ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>で<ruby>最<rt data-ruby-level="4">もっと</rt></ruby>も<ruby>高層<rt

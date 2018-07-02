@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011413101000
 title: きょうも各地で真夏日か 熱中症に十分注意！
 title_with_ruby: きょうも<ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>で<ruby>真夏日<rt

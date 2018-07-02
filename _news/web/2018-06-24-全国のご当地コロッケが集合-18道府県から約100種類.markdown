@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011493841000
 title: 全国のご当地コロッケが集合 18道府県から約100種類
 title_with_ruby: <ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby>のご<ruby>当地<rt data-ruby-level="2">とうち</rt></ruby>コロッケが<ruby>集合<rt

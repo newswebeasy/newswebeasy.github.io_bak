@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011338431000
 title: 銃乱射事件の高校の生徒たちが集会 銃規制の強化訴える
 title_with_ruby: <ruby>銃<rt data-ruby-level="7">じゅう</rt></ruby><ruby>乱射<rt data-ruby-level="6">らんしゃ</rt></ruby><ruby>事件<rt

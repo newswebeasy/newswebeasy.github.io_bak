@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011377361000
 title: 皇居「乾通り」一般公開 サクラ見ごろに
 title_with_ruby: <ruby>皇居<rt data-ruby-level="6">こうきょ</rt></ruby>「<ruby>乾<rt data-ruby-level="8">いぬい</rt></ruby><ruby>通<rt

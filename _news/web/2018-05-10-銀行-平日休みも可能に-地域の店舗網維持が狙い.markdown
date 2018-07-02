@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011432981000
 title: 銀行 平日休みも可能に 地域の店舗網維持が狙い
 title_with_ruby: <ruby>銀行<rt data-ruby-level="3">ぎんこう</rt></ruby> <ruby>平日<rt data-ruby-level="3">へいじつ</rt></ruby><ruby>休<rt

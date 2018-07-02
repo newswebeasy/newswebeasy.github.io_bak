@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011390291000
 title: “インスタ映え” 演習林に訪問者急増 大学は対応に苦慮 福岡
 title_with_ruby: “インスタ<ruby>映<rt data-ruby-level="7">は</rt></ruby>え” <ruby>演習林<rt

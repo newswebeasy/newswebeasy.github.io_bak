@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011377931000
 title: “銃規制強化を” 全米でデモ 乱射事件の高校の生徒ら呼びかけ
 title_with_ruby: “<ruby>銃規制<rt data-ruby-level="7">じゅうきせい</rt></ruby><ruby>強化<rt data-ruby-level="3">きょうか</rt></ruby>を”

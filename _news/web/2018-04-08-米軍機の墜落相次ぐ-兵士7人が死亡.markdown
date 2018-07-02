@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011395041000
 title: 米軍機の墜落相次ぐ 兵士７人が死亡
 title_with_ruby: <ruby>米軍機<rt data-ruby-level="4">べいぐんき</rt></ruby>の<ruby>墜落<rt data-ruby-level="7">ついらく</rt></ruby><ruby>相次<rt

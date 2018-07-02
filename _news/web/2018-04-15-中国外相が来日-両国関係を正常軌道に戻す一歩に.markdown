@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011404851000
 title: 中国外相が来日 「両国関係を正常軌道に戻す一歩に」
 title_with_ruby: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby><ruby>外相<rt data-ruby-level="7">がいしょう</rt></ruby>が<ruby>来日<rt

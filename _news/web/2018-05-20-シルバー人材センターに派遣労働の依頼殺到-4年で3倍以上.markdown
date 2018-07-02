@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011446111000
 title: シルバー人材センターに派遣労働の依頼殺到 ４年で３倍以上
 title_with_ruby: シルバー<ruby>人材<rt data-ruby-level="4">じんざい</rt></ruby>センターに<ruby>派遣<rt

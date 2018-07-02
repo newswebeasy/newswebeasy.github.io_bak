@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011319561000
 title: 日本庭園ランクで足立美術館が１５年連続日本一 島根
 title_with_ruby: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>庭園<rt data-ruby-level="3">ていえん</rt></ruby>ランクで<ruby>足立<rt

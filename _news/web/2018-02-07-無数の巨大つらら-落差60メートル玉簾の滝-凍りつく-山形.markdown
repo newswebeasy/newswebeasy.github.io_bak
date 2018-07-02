@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011319091000
 title: 無数の巨大つらら 落差60メートル玉簾の滝 凍りつく 山形
 title_with_ruby: <ruby>無数<rt data-ruby-level="4">むすう</rt></ruby>の<ruby>巨大<rt data-ruby-level="7">きょだい</rt></ruby>つらら

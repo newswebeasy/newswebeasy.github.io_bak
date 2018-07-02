@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011436221000
 title: 全国で最も遅い「桜の開花」北海道 釧路・稚内
 title_with_ruby: <ruby>全国<rt data-ruby-level="3">ぜんこく</rt></ruby>で<ruby>最<rt data-ruby-level="4">もっと</rt></ruby>も<ruby>遅<rt

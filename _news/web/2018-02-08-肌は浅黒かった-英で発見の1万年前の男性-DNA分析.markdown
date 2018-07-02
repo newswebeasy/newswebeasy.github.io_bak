@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011320191000
 title: 肌は浅黒かった 英で発見の１万年前の男性 ＤＮＡ分析
 title_with_ruby: <ruby>肌<rt data-ruby-level="7">はだ</rt></ruby>は<ruby>浅黒<rt data-ruby-level="4">あさぐろ</rt></ruby>かった

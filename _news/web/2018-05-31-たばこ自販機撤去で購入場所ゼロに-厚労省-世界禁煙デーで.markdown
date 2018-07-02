@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011459431000
 title: たばこ自販機撤去で購入場所ゼロに 厚労省 世界禁煙デーで
 title_with_ruby: たばこ<ruby>自販機<rt data-ruby-level="7">じはんき</rt></ruby><ruby>撤去<rt data-ruby-level="7">てっきょ</rt></ruby>で<ruby>購入<rt

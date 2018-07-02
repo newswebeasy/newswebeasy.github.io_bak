@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 4
 newsid: k10011457661000
 title: 外国人の人材受け入れ拡大へ 新たな在留資格創設へ
 title_with_ruby: <ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby>の<ruby>人材<rt data-ruby-level="4">じんざい</rt></ruby><ruby>受<rt

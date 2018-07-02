@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011493541000
 title: 海洋ごみ問題の解決に連携で合意 日中韓環境相
 title_with_ruby: <ruby>海洋<rt data-ruby-level="3">かいよう</rt></ruby>ごみ<ruby>問題<rt data-ruby-level="3">もんだい</rt></ruby>の<ruby>解決<rt

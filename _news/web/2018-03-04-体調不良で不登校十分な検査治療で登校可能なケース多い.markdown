@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011350941000
 title: 体調不良で不登校“十分な検査・治療で登校可能なケース多い”
 title_with_ruby: <ruby>体調<rt data-ruby-level="3">たいちょう</rt></ruby><ruby>不良<rt data-ruby-level="4">ふりょう</rt></ruby>で<ruby>不登校<rt

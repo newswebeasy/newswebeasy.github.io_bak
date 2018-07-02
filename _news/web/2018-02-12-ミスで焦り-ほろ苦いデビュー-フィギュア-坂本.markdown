@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011325761000
 title: ミスで焦り ほろ苦いデビュー フィギュア 坂本
 title_with_ruby: ミスで<ruby>焦<rt data-ruby-level="7">あせ</rt></ruby>り ほろ<ruby>苦<rt data-ruby-level="3">にが</rt></ruby>いデビュー

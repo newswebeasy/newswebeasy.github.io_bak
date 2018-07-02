@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011407321000
 title: 伊豆半島「世界ジオパーク」に認定 ユネスコ
 title_with_ruby: <ruby>伊豆<rt data-ruby-level="8">いず</rt></ruby><ruby>半島<rt data-ruby-level="3">はんとう</rt></ruby>「<ruby>世界<rt

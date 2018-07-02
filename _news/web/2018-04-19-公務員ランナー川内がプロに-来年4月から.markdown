@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011409951000
 title: 「公務員ランナー」川内がプロに 来年４月から
 title_with_ruby: 「<ruby>公務員<rt data-ruby-level="5">こうむいん</rt></ruby>ランナー」<ruby>川内<rt

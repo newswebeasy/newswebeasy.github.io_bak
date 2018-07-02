@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011457881000
 title: 大関昇進の栃ノ心「手本となるように稽古に精進」と口上
 title_with_ruby: <ruby>大関<rt data-ruby-level="4">おおぜき</rt></ruby><ruby>昇進<rt data-ruby-level="7">しょうしん</rt></ruby>の<ruby>栃<rt

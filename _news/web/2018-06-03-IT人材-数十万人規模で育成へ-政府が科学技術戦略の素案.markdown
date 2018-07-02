@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 4
 newsid: k10011462791000
 title: “ＩＴ人材 数十万人規模で育成へ” 政府が科学技術戦略の素案
 title_with_ruby: “ＩＴ<ruby>人材<rt data-ruby-level="4">じんざい</rt></ruby> <ruby>数十<rt data-ruby-level="2">すうじゅう</rt></ruby><ruby>万人<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011449221000
 title: 囲碁 本因坊戦で江戸時代の対局再現 京都
 title_with_ruby: <ruby>囲碁<rt data-ruby-level="7">いご</rt></ruby> <ruby>本因坊<rt data-ruby-level="7">ほんいんぼう</rt></ruby><ruby>戦<rt

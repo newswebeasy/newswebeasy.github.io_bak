@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011436831000
 title: 侍の仮装で走る 群馬 安中でマラソン大会
 title_with_ruby: <ruby>侍<rt data-ruby-level="7">さむらい</rt></ruby>の<ruby>仮装<rt data-ruby-level="6">かそう</rt></ruby>で<ruby>走<rt

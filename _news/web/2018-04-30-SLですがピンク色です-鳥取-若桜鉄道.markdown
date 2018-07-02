@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011423491000
 title: ＳＬですがピンク色です 鳥取 若桜鉄道
 title_with_ruby: ＳＬですが<ruby>ピンク<rt data-ruby-level="2">ぴんく</rt></ruby><ruby>色<rt data-ruby-level="2">いろ</rt></ruby>です

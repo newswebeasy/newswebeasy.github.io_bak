@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011372901000
 title: 花見シーズンに事故多発 「カセットコンロ 正しい使い方を」
 title_with_ruby: <ruby>花見<rt data-ruby-level="1">はなみ</rt></ruby>シーズンに<ruby>事故<rt data-ruby-level="5">じこ</rt></ruby><ruby>多発<rt

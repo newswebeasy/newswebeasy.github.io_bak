@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011500211000
 title: ５月の完全失業率2.2％ 25年７か月ぶりの低水準
 title_with_ruby: ５<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>の<ruby>完全<rt data-ruby-level="4">かんぜん</rt></ruby><ruby>失業率<rt

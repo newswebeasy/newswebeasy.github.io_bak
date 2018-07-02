@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011336391000
 title: 米軍Ｆ16タンク投棄 湖面に大きな穴 「あわや惨事」の声も
 title_with_ruby: <ruby>米軍<rt data-ruby-level="4">べいぐん</rt></ruby>Ｆ16タンク<ruby>投棄<rt

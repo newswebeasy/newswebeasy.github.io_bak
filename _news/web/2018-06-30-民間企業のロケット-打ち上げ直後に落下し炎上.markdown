@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011502051000
 title: 民間企業のロケット 打ち上げ直後に落下し炎上
 title_with_ruby: <ruby>民間<rt data-ruby-level="4">みんかん</rt></ruby><ruby>企業<rt data-ruby-level="7">きぎょう</rt></ruby>のロケット

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011491011000
 title: セネガル戦 見てから寝るか 寝てから見るか
 title_with_ruby: セネガル<ruby>戦<rt data-ruby-level="4">せん</rt></ruby> <ruby>見<rt data-ruby-level="1">み</rt></ruby>てから<ruby>寝<rt

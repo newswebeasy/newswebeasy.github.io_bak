@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011311431000
 title: ”男女”じゃない、それだけで
 title_with_ruby: ”<ruby>男女<rt data-ruby-level="1">だんじょ</rt></ruby>”じゃない、それだけで

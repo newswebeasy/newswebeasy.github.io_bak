@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011481331000
 title: サッカーW杯 アイスランドが歴史的な勝ち点
 title_with_ruby: サッカー<ruby>W杯<rt data-ruby-level="7">わーるどかっぷ</rt></ruby> アイスランドが<ruby>歴史的<rt

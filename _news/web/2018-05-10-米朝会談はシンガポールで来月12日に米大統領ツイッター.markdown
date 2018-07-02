@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011434411000
 title: 「米朝会談はシンガポールで来月12日に」米大統領ツイッター
 title_with_ruby: 「<ruby>米朝<rt data-ruby-level="2">べいちょう</rt></ruby><ruby>会談<rt data-ruby-level="3">かいだん</rt></ruby>はシンガポールで<ruby>来月<rt

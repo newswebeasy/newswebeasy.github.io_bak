@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011377441000
 title: 熊本城の桜の名所「行幸坂」を開放 花見の期間限定
 title_with_ruby: <ruby>熊本城<rt data-ruby-level="7">くまもとじょう</rt></ruby>の<ruby>桜<rt data-ruby-level="5">さくら</rt></ruby>の<ruby>名所<rt

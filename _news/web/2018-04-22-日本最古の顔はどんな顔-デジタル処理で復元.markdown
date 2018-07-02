@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011413661000
 title: “日本最古の顔”はどんな顔？ デジタル処理で復元
 title_with_ruby: “<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>最古<rt data-ruby-level="4">さいこ</rt></ruby>の<ruby>顔<rt

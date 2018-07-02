@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011450551000
 title: 尾瀬の山開き 福島 檜枝岐村
 title_with_ruby: <ruby>尾瀬<rt data-ruby-level="7">おぜ</rt></ruby>の<ruby>山開<rt data-ruby-level="3">やまびら</rt></ruby>き

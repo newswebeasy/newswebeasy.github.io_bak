@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011378511000
 title: 引っ越し時期に合わせ “メダル用金属 提供を”東京都
 title_with_ruby: <ruby>引<rt data-ruby-level="7">ひ</rt></ruby>っ<ruby>越<rt data-ruby-level="7">こ</rt></ruby>し<ruby>時期<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011423171000
 title: 中国 王毅外相 来月２日から訪朝へ
 title_with_ruby: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby> <ruby>王毅<rt data-ruby-level="8">おうき</rt></ruby><ruby>外相<rt

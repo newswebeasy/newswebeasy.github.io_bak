@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011410861000
 title: 小学生に配布の防犯ブザー電池破裂 使用控えて
 title_with_ruby: <ruby>小学生<rt data-ruby-level="1">しょうがくせい</rt></ruby>に<ruby>配布<rt

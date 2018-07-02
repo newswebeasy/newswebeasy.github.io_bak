@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011395451000
 title: マルチ商法に気をつけて 若者中心にトラブル 相談も急増
 title_with_ruby: マルチ<ruby>商法<rt data-ruby-level="4">しょうほう</rt></ruby>に<ruby>気<rt data-ruby-level="1">き</rt></ruby>をつけて

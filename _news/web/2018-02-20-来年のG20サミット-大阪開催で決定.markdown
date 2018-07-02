@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 4
 newsid: k10011336441000
 title: 来年のＧ２０サミット 大阪開催で決定
 title_with_ruby: <ruby>来年<rt data-ruby-level="2">らいねん</rt></ruby>のＧ２０サミット <ruby>大阪<rt

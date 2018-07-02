@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011442291000
 title: 両足義足の69歳中国人登山家 エベレスト登頂成功
 title_with_ruby: <ruby>両足<rt data-ruby-level="3">りょうあし</rt></ruby><ruby>義足<rt data-ruby-level="5">ぎそく</rt></ruby>の69<ruby>歳<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011351441000
 title: 独自分析 全1741市区町村の75％で外国人増加 背景は？
 title_with_ruby: <ruby>独自<rt data-ruby-level="5">どくじ</rt></ruby><ruby>分析<rt data-ruby-level="7">ぶんせき</rt></ruby>

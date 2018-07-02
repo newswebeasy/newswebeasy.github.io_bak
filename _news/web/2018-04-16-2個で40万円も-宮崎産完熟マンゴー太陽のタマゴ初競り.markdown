@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011405401000
 title: ２個で40万円も！ 宮崎産完熟マンゴー「太陽のタマゴ」初競り
 title_with_ruby: ２<ruby>個<rt data-ruby-level="5">こ</rt></ruby>で40<ruby>万円<rt data-ruby-level="2">まんえん</rt></ruby>も！

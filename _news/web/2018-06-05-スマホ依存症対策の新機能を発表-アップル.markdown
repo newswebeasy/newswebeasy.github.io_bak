@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011464871000
 title: スマホ依存症対策の新機能を発表 アップル
 title_with_ruby: スマホ<ruby>依存症<rt data-ruby-level="7">いぞんしょう</rt></ruby><ruby>対策<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011450231000
 title: トランプ大統領のツイッター 批判ブロックは憲法違反 連邦地裁
 title_with_ruby: トランプ<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby>のツイッター <ruby>批判<rt

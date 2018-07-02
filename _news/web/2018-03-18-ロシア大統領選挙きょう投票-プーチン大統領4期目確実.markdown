@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011369521000
 title: ロシア大統領選挙きょう投票 プーチン大統領４期目確実
 title_with_ruby: ロシア<ruby>大統領<rt data-ruby-level="5">だいとうりょう</rt></ruby><ruby>選挙<rt

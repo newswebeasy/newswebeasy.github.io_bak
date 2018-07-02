@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011459221000
 title: ピュリツァー賞授賞式 セクハラ告発の記者が受賞
 title_with_ruby: ピュリツァー<ruby>賞<rt data-ruby-level="4">しょう</rt></ruby><ruby>授賞式<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011381771000
 title: 香取慎吾さん 香港でアート作品を披露
 title_with_ruby: <ruby>香取慎吾<rt data-ruby-level="8">かとりしんご</rt></ruby>さん <ruby>香港<rt

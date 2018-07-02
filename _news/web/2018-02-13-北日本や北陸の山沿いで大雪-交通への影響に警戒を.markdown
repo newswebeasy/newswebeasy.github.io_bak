@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011326521000
 title: 北日本や北陸の山沿いで大雪 交通への影響に警戒を
 title_with_ruby: <ruby>北日本<rt data-ruby-level="2">きたにっぽん</rt></ruby>や<ruby>北陸<rt data-ruby-level="4">ほくりく</rt></ruby>の<ruby>山沿<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011487481000
 title: 災害ボランティアの受け付け始まる 大阪 高槻
 title_with_ruby: <ruby>災害<rt data-ruby-level="5">さいがい</rt></ruby>ボランティアの<ruby>受<rt

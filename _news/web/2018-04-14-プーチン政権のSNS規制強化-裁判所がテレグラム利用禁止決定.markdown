@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011402801000
 title: プーチン政権のＳＮＳ規制強化 裁判所がテレグラム利用禁止決定
 title_with_ruby: プーチン<ruby>政権<rt data-ruby-level="6">せいけん</rt></ruby>のＳＮＳ<ruby>規制<rt

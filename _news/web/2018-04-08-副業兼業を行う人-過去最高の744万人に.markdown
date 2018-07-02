@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011395071000
 title: 副業・兼業を行う人 過去最高の744万人に
 title_with_ruby: <ruby>副業<rt data-ruby-level="4">ふくぎょう</rt></ruby>・<ruby>兼業<rt data-ruby-level="7">けんぎょう</rt></ruby>を<ruby>行<rt

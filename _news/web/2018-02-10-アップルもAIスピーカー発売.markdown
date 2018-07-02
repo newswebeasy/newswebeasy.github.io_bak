@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011323571000
 title: アップルもＡＩスピーカー発売
 title_with_ruby: アップルもＡＩスピーカー<ruby>発売<rt data-ruby-level="3">はつばい</rt></ruby>

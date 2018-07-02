@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011361561000
 title: 史上最高 3億円余で落札 100年近く前のドイツ製カメラ
 title_with_ruby: <ruby>史上<rt data-ruby-level="4">しじょう</rt></ruby><ruby>最高<rt data-ruby-level="4">さいこう</rt></ruby>

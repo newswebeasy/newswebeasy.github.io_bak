@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011386811000
 title: 満開の桜眺めながら舟下り 岐阜 大垣
 title_with_ruby: <ruby>満開<rt data-ruby-level="4">まんかい</rt></ruby>の<ruby>桜<rt data-ruby-level="5">さくら</rt></ruby><ruby>眺<rt

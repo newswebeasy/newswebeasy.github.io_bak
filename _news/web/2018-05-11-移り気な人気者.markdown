@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011434681000
 title: 移り気な人気者
 title_with_ruby: <ruby>移<rt data-ruby-level="5">うつ</rt></ruby>り<ruby>気<rt data-ruby-level="5">ぎ</rt></ruby>な<ruby>人気者<rt

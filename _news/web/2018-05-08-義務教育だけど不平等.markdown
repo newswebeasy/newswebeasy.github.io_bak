@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011430951000
 title: 義務教育だけど不平等
 title_with_ruby: <ruby>義務<rt data-ruby-level="5">ぎむ</rt></ruby><ruby>教育<rt data-ruby-level="3">きょういく</rt></ruby>だけど<ruby>不平等<rt
