@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011294091000
 title: 世界の平均気温 去年は２番目の暑さ 温暖化止まらず
 title_with_ruby: <ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>の<ruby>平均<rt data-ruby-level="5">へいきん</rt></ruby><ruby>気温<rt

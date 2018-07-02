@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011284861000
 title: １０６歳 競技自転車乗りのフランス人男性引退
 title_with_ruby: １０６<ruby>歳<rt data-ruby-level="7">さい</rt></ruby> <ruby>競技<rt data-ruby-level="5">きょうぎ</rt></ruby><ruby>自転車<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011278971000
 title: 和式トイレを洋式に改修へ 外国人旅行者増に対応
 title_with_ruby: <ruby>和式<rt data-ruby-level="3">わしき</rt></ruby>トイレを<ruby>洋式<rt data-ruby-level="3">ようしき</rt></ruby>に<ruby>改修<rt

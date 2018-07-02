@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011305661000
 title: コインチェック 被害受けた26万人に補償と発表
 title_with_ruby: コインチェック <ruby>被害<rt data-ruby-level="7">ひがい</rt></ruby><ruby>受<rt

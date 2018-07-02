@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011292071000
 title: 北アルプス鹿島槍ヶ岳の氷体 「氷河」と認定
 title_with_ruby: <ruby>北<rt data-ruby-level="2">きた</rt></ruby><ruby>アルプス<rt data-ruby-level="2">あるぷす</rt></ruby><ruby>鹿島槍ヶ岳<rt

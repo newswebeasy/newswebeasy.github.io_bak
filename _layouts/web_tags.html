@@ -7,7 +7,18 @@
     <div class="rich_media_inner">
       <div class="rich_media_area_primary">
         <div>
-          <h2 class="rich_media_title">{{ page.cate }}</h2>
+          <h2 class="rich_media_title">{{ page.title }}</h2>
+
+          <div class="rich_media_meta_list">
+            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/web/social/">社会</a></span>
+            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/web/culture/">科学・文化</a></span>
+            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/web/politics/">政治</a></span>
+            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/web/business/">ビジネス</a></span>
+            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/web/international/">国際</a></span>
+            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/web/sports/">スポーツ</a></span>
+            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/web/life/">暮らし</a></span>
+          </div>
+
           <div class="rich_media_content">
             <div style="margin: 10px 0">
               <span><ruby>振<rt>ふ</rt></ruby>り<ruby>仮名<rt>がな</rt></ruby><ruby>表示<rt>ひょうじ</rt></ruby></span>
@@ -25,6 +36,9 @@
                 <p><img class="fullwidth" data-s="300,640" src="{{ post.image_url }}" data-ratio="0" data-w="640" /></p>
                 {% endif %}
                 <h2 class="subtitle"><a href="{{ post.url }}">{% if post.title_with_ruby %}{{ post.title_with_ruby }}{% else %}{{ post.title }}{% endif %}</a></h2>
+                <div class="rich_media_meta_list">
+                  <em class="rich_media_meta rich_media_meta_text">{{ post.datetime }}</em>
+                </div>
                 <div class="rich_media_content">
                   <p class="summary">{{ post.summary }}</p>
                 </div>
@@ -49,6 +63,16 @@
           <a class="media_tool_meta meta_primary" href="/news/easy/playlist">すべて<ruby>再生<rt>さいせい</rt></ruby></a>
           <a class="media_tool_meta meta_primary" href="/news/web/"><ruby>普通<rt>ふつう</rt></ruby>のニュース</a>
           <a class="media_tool_meta meta_primary" href="{{ site.nhk_news_web_easy_home }}"><ruby>閲読<rt>えつどく</rt></ruby><ruby>原文<rt>げんぶん</rt></ruby></a>
+        </div>
+
+        <div class="rich_media_tool">
+          <a class="media_tool_meta meta_primary" href="/tags/web/social/">社会</a>
+          <a class="media_tool_meta meta_primary" href="/tags/web/culture/">科学・文化</a>
+          <a class="media_tool_meta meta_primary" href="/tags/web/politics/">政治</a>
+          <a class="media_tool_meta meta_primary" href="/tags/web/business/">ビジネス</a>
+          <a class="media_tool_meta meta_primary" href="/tags/web/international/">国際</a>
+          <a class="media_tool_meta meta_primary" href="/tags/web/sports/">スポーツ</a>
+          <a class="media_tool_meta meta_primary" href="/tags/web/life/">暮らし</a>
         </div>
       </div>
 

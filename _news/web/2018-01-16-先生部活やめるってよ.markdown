@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011290881000
 title: 先生、部活やめるってよ
 title_with_ruby: <ruby>先生<rt data-ruby-level="1">せんせい</rt></ruby>、<ruby>部活<rt data-ruby-level="3">ぶかつ</rt></ruby>やめるってよ

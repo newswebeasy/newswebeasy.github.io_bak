@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011284671000
 title: 晴れ着トラブル 契約の合計額は１億円超か
 title_with_ruby: <ruby>晴<rt data-ruby-level="3">は</rt></ruby>れ<ruby>着<rt data-ruby-level="3">ぎ</rt></ruby>トラブル

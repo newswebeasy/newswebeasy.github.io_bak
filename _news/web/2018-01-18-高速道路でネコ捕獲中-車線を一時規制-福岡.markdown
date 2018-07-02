@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011293951000
 title: 高速道路で「ネコ捕獲中」 車線を一時規制 福岡
 title_with_ruby: <ruby>高速道路<rt data-ruby-level="3">こうそくどうろ</rt></ruby>で「ネコ<ruby>捕獲中<rt

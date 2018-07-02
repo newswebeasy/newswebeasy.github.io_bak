@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011300241000
 title: 月は遠かった… 世界初の月面探査レース 勝者なく終了へ
 title_with_ruby: <ruby>月<rt data-ruby-level="1">つき</rt></ruby>は<ruby>遠<rt data-ruby-level="2">とお</rt></ruby>かった…

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011298261000
 title: 都心など関東各地で積雪２０センチ超 大雪や路面凍結に警戒を
 title_with_ruby: <ruby>都心<rt data-ruby-level="3">としん</rt></ruby>など<ruby>関東<rt data-ruby-level="4">かんとう</rt></ruby><ruby>各地<rt

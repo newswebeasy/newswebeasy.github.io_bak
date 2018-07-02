@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011283341000
 title: 南北閣僚級会談 北朝鮮の五輪参加 軍当局者会談など合意
 title_with_ruby: <ruby>南北<rt data-ruby-level="2">なんぼく</rt></ruby><ruby>閣僚級<rt data-ruby-level="7">かくりょうきゅう</rt></ruby><ruby>会談<rt

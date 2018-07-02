@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011277161000
 title: 高校生ら競う「国際科学オリンピック」国内各地で開催へ
 title_with_ruby: <ruby>高校生<rt data-ruby-level="2">こうこうせい</rt></ruby>ら<ruby>競<rt data-ruby-level="7">きそ</rt></ruby>う「<ruby>国際<rt

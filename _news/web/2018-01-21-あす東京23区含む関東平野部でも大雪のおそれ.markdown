@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011296271000
 title: あす東京23区含む関東平野部でも大雪のおそれ
 title_with_ruby: あす<ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>23<ruby>区<rt data-ruby-level="3">く</rt></ruby><ruby>含<rt

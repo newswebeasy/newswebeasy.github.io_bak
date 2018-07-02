@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011306131000
 title: 世界最高水準の大型赤外線望遠鏡が完成
 title_with_ruby: <ruby>世界<rt data-ruby-level="3">せかい</rt></ruby><ruby>最高<rt data-ruby-level="4">さいこう</rt></ruby><ruby>水準<rt

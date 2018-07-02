@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011300121000
 title: 米軍ヘリ また緊急着陸 今月だけで３回 沖縄
 title_with_ruby: <ruby>米軍<rt data-ruby-level="4">べいぐん</rt></ruby>ヘリ また<ruby>緊急<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011307441000
 title: 「白いイチゴ」の新品種 栃木県が開発
 title_with_ruby: 「<ruby>白<rt data-ruby-level="1">しろ</rt></ruby>いイチゴ」の<ruby>新品種<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011278251000
 title: 不審なメール相次ぐ 休み明けは注意を
 title_with_ruby: <ruby>不審<rt data-ruby-level="7">ふしん</rt></ruby>なメール<ruby>相次<rt data-ruby-level="3">あいつ</rt></ruby>ぐ

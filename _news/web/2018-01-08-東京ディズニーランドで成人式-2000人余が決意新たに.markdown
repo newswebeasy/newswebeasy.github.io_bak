@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011281751000
 title: 東京ディズニーランドで成人式 2000人余が決意新たに
 title_with_ruby: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby><ruby>ディズニーランド<rt

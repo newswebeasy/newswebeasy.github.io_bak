@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011278201000
 title: 北京市 ＰＭ2.5濃度 大幅減少と発表 対策の成果強調
 title_with_ruby: <ruby>北京<rt data-ruby-level="8">ぺきん</rt></ruby><ruby>市<rt data-ruby-level="2">し</rt></ruby>

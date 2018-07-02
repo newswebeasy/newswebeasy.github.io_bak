@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011281841000
 title: 米の記録的寒波 空港では水道管が凍結で破裂も
 title_with_ruby: <ruby>米<rt data-ruby-level="2">べい</rt></ruby>の<ruby>記録的<rt data-ruby-level="4">きろくてき</rt></ruby><ruby>寒波<rt

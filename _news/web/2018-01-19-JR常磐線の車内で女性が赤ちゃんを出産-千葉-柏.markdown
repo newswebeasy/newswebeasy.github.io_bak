@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011294871000
 title: ＪＲ常磐線の車内で女性が赤ちゃんを出産 千葉 柏
 title_with_ruby: ＪＲ<ruby>常磐線<rt data-ruby-level="8">じょうばんせん</rt></ruby>の<ruby>車内<rt

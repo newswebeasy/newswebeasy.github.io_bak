@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011295031000
 title: 中国 西安に巨大空気清浄機 大気汚染の改善なるか
 title_with_ruby: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby> <ruby>西安<rt data-ruby-level="3">せいあん</rt></ruby>に<ruby>巨大<rt

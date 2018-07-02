@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011288361000
 title: 日中の学生が合同で成人式 中国 北京
 title_with_ruby: <ruby>日中<rt data-ruby-level="1">にっちゅう</rt></ruby>の<ruby>学生<rt data-ruby-level="1">がくせい</rt></ruby>が<ruby>合同<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011299461000
 title: ＪＲ東海 特急列車の台車部品に約20センチの亀裂
 title_with_ruby: <ruby>ＪＲ東海<rt data-ruby-level="2">じぇーあーるとうかい</rt></ruby> <ruby>特急<rt

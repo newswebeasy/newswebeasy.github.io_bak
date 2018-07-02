@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011278131000
 title: ことしの日本経済は 景気回復も賃金上昇し実感広がるか
 title_with_ruby: ことしの<ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>経済<rt data-ruby-level="6">けいざい</rt></ruby>は

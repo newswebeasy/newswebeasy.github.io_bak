@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011277741000
 title: パリ協定 12月にルール作りの交渉期限 各国は合意できるか
 title_with_ruby: パリ<ruby>協定<rt data-ruby-level="4">きょうてい</rt></ruby> 12<ruby>月<rt

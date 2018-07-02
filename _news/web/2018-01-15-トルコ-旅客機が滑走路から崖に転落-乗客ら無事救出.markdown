@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011289171000
 title: トルコ 旅客機が滑走路から崖に転落 乗客ら無事救出
 title_with_ruby: トルコ <ruby>旅客機<rt data-ruby-level="7">りょかっき</rt></ruby>が<ruby>滑走路<rt

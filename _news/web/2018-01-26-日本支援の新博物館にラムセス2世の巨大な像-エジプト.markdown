@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011303051000
 title: 日本支援の新博物館にラムセス２世の巨大な像 エジプト
 title_with_ruby: <ruby>日本<rt data-ruby-level="1">にっぽん</rt></ruby><ruby>支援<rt data-ruby-level="7">しえん</rt></ruby>の<ruby>新<rt

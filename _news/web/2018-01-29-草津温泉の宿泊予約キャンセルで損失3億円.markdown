@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011306961000
 title: 草津温泉の宿泊予約キャンセルで損失３億円
 title_with_ruby: <ruby>草津<rt data-ruby-level="7">くさつ</rt></ruby><ruby>温泉<rt data-ruby-level="6">おんせん</rt></ruby>の<ruby>宿泊<rt

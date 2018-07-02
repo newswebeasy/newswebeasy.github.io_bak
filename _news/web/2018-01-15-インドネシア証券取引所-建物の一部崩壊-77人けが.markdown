@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011289601000
 title: インドネシア証券取引所 建物の一部崩壊 77人けが
 title_with_ruby: インドネシア<ruby>証券<rt data-ruby-level="5">しょうけん</rt></ruby><ruby>取引所<rt

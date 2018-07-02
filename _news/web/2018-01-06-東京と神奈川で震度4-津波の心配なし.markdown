@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011280551000
 title: 東京と神奈川で震度４ 津波の心配なし
 title_with_ruby: <ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>と<ruby>神奈川<rt data-ruby-level="8">かながわ</rt></ruby>で<ruby>震度<rt

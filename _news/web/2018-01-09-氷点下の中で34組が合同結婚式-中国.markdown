@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011282361000
 title: 氷点下の中で34組が合同結婚式 中国
 title_with_ruby: <ruby>氷点下<rt data-ruby-level="3">ひょうてんか</rt></ruby>の<ruby>中<rt data-ruby-level="1">なか</rt></ruby>で34<ruby>組<rt

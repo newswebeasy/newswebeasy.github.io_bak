@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 4
 newsid: k10011305971000
 title: 日中外相会談 首脳の相互往来の実現を着実に
 title_with_ruby: <ruby>日中<rt data-ruby-level="1">にっちゅう</rt></ruby><ruby>外相<rt data-ruby-level="7">がいしょう</rt></ruby><ruby>会談<rt

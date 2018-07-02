@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011282821000
 title: 野菜や果物の高値続く だいこんなど平年の２倍超の品目も
 title_with_ruby: <ruby>野菜<rt data-ruby-level="4">やさい</rt></ruby>や<ruby>果物<rt data-ruby-level="8">くだもの</rt></ruby>の<ruby>高値<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011276611000
 title: 動画）平成３０年スタート 各地の表情
 title_with_ruby: <ruby>動画<rt data-ruby-level="3">どうが</rt></ruby>）<ruby>平成<rt data-ruby-level="4">へいせい</rt></ruby>３０<ruby>年<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011282661000
 title: 受験生の皆さん スマホの誘惑に勝てますか？
 title_with_ruby: <ruby>受験生<rt data-ruby-level="4">じゅけんせい</rt></ruby>の<ruby>皆<rt data-ruby-level="7">みな</rt></ruby>さん

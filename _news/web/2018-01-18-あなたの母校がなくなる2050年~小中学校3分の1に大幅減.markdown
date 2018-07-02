@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011293581000
 title: あなたの母校がなくなる…2050年～小中学校3分の1に大幅減
 title_with_ruby: あなたの<ruby>母校<rt data-ruby-level="2">ぼこう</rt></ruby>がなくなる…2050<ruby>年<rt

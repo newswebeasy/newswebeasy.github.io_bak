@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011295541000
 title: 運転免許証 75歳以上の自主返納 最多の25万人余
 title_with_ruby: <ruby>運転<rt data-ruby-level="3">うんてん</rt></ruby><ruby>免許証<rt data-ruby-level="7">めんきょしょう</rt></ruby>

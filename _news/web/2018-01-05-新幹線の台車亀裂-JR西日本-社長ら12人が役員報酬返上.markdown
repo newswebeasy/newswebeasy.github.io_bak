@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011280191000
 title: 新幹線の台車亀裂 ＪＲ西日本 社長ら12人が役員報酬返上
 title_with_ruby: <ruby>新幹線<rt data-ruby-level="5">しんかんせん</rt></ruby>の<ruby>台車<rt data-ruby-level="2">だいしゃ</rt></ruby><ruby>亀裂<rt

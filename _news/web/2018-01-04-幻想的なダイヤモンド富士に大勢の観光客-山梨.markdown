@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011278821000
 title: 幻想的なダイヤモンド富士に大勢の観光客 山梨
 title_with_ruby: <ruby>幻想的<rt data-ruby-level="7">げんそうてき</rt></ruby>なダイヤモンド<ruby>富士<rt

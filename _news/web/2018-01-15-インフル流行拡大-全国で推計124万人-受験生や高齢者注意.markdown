@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011289611000
 title: インフル流行拡大 全国で推計124万人 受験生や高齢者注意
 title_with_ruby: インフル<ruby>流行<rt data-ruby-level="3">りゅうこう</rt></ruby><ruby>拡大<rt

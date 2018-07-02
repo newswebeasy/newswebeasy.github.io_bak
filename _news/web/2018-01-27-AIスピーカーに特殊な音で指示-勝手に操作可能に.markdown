@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011304431000
 title: ＡＩスピーカーに特殊な音で指示 勝手に操作可能に
 title_with_ruby: ＡＩスピーカーに<ruby>特殊<rt data-ruby-level="7">とくしゅ</rt></ruby>な<ruby>音<rt

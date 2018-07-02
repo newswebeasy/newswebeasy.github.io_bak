@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011286431000
 title: 去年の訪日外国人旅行者は２８６９万人 過去最高を更新
 title_with_ruby: <ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>の<ruby>訪日<rt data-ruby-level="6">ほうにち</rt></ruby><ruby>外国人<rt

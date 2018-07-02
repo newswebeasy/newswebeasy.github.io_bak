@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011304801000
 title: ダボス会議が閉幕
 title_with_ruby: ダボス<ruby>会議<rt data-ruby-level="4">かいぎ</rt></ruby>が<ruby>閉幕<rt data-ruby-level="6">へいまく</rt></ruby>

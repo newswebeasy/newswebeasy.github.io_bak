@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011284971000
 title: 全世界のパソコンやスマホ ＣＰＵに深刻な欠陥 攻撃のおそれ
 title_with_ruby: <ruby>全世界<rt data-ruby-level="3">ぜんせかい</rt></ruby>のパソコンやスマホ ＣＰＵに<ruby>深刻<rt

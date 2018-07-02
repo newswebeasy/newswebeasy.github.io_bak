@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011292341000
 title: 山あいの川にアザラシ出現で話題に 秋田 能代
 title_with_ruby: <ruby>山<rt data-ruby-level="1">やま</rt></ruby>あいの<ruby>川<rt data-ruby-level="1">かわ</rt></ruby>にアザラシ<ruby>出現<rt

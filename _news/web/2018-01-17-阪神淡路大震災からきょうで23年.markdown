@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011291461000
 title: 阪神・淡路大震災からきょうで23年
 title_with_ruby: <ruby>阪神<rt data-ruby-level="7">はんしん</rt></ruby>・<ruby>淡路<rt data-ruby-level="7">あわじ</rt></ruby><ruby>大震災<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011289051000
 title: 完全自動運転車 17年後は４台に１台に 民間コンサルが試算
 title_with_ruby: <ruby>完<rt data-ruby-level="4">かん</rt></ruby><ruby>全自動<rt data-ruby-level="3">ぜんじどう</rt></ruby><ruby>運転<rt

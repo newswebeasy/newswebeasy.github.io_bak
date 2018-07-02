@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011303151000
 title: “地球最後の日まで「残り２分」”  終末時計 冷戦期と並ぶ
 title_with_ruby: “<ruby>地球<rt data-ruby-level="3">ちきゅう</rt></ruby><ruby>最後<rt data-ruby-level="4">さいご</rt></ruby>の<ruby>日<rt

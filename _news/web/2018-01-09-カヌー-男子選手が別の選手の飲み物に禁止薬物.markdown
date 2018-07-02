@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011282371000
 title: カヌー 男子選手が別の選手の飲み物に禁止薬物
 title_with_ruby: カヌー <ruby>男子<rt data-ruby-level="1">だんし</rt></ruby><ruby>選手<rt data-ruby-level="4">せんしゅ</rt></ruby>が<ruby>別<rt

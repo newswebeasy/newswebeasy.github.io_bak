@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011302231000
 title: ニューヨークの地下鉄車両 最大で1600両余受注 川崎重工
 title_with_ruby: ニューヨークの<ruby>地下鉄<rt data-ruby-level="3">ちかてつ</rt></ruby><ruby>車両<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011283441000
 title: 米で家電ショー開幕 コンセプトカーやロボットなどに注目
 title_with_ruby: <ruby>米<rt data-ruby-level="2">べい</rt></ruby>で<ruby>家電<rt data-ruby-level="2">かでん</rt></ruby>ショー<ruby>開幕<rt

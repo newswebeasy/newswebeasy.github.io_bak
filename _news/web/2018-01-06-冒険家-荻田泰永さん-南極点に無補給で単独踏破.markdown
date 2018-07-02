@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011280681000
 title: 冒険家 荻田泰永さん 南極点に無補給で単独踏破
 title_with_ruby: <ruby>冒険家<rt data-ruby-level="7">ぼうけんか</rt></ruby> <ruby>荻田<rt data-ruby-level="8">おぎた</rt></ruby><ruby>泰<rt

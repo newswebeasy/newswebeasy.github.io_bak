@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011282241000
 title: 米軍ヘリ緊急着陸 強まる怒りや不安の声 沖縄県が抗議へ
 title_with_ruby: <ruby>米軍<rt data-ruby-level="4">べいぐん</rt></ruby>ヘリ<ruby>緊急<rt data-ruby-level="7">きんきゅう</rt></ruby><ruby>着陸<rt

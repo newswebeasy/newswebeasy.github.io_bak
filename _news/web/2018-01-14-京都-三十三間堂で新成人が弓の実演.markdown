@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011288651000
 title: 京都 三十三間堂で新成人が弓の実演
 title_with_ruby: <ruby>京都<rt data-ruby-level="3">きょうと</rt></ruby> <ruby>三十三間堂<rt data-ruby-level="4">さんじゅうさんげんどう</rt></ruby>で<ruby>新成人<rt

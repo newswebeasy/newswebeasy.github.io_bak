@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011291441000
 title: 埼玉 長瀞町で天然氷の切り出し
 title_with_ruby: <ruby>埼玉<rt data-ruby-level="7">さいたま</rt></ruby> <ruby>長瀞町<rt data-ruby-level="8">ながとろまち</rt></ruby>で<ruby>天然<rt

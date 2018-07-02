@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011286621000
 title: 中国の去年１年の貿易総額 輸出入好調で１１％増
 title_with_ruby: <ruby>中国<rt data-ruby-level="2">ちゅうごく</rt></ruby>の<ruby>去年<rt data-ruby-level="3">きょねん</rt></ruby>１<ruby>年<rt

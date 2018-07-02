@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011280941000
 title: 大阪大 去年の入試で出題ミス ３０人が不合格に
 title_with_ruby: <ruby>大阪<rt data-ruby-level="8">おおさか</rt></ruby><ruby>大<rt data-ruby-level="1">だい</rt></ruby>

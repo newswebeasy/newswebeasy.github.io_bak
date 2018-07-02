@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 6
 newsid: k10011285841000
 title: 子犬をスタッフに任命 米ボストン美術館で嗅覚生かした仕事を
 title_with_ruby: <ruby>子犬<rt data-ruby-level="1">こいぬ</rt></ruby>をスタッフに<ruby>任命<rt

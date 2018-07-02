@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011301621000
 title: 非常に強い寒気で厳しい冷え込み 大雪・猛吹雪に厳重警戒を
 title_with_ruby: <ruby>非常<rt data-ruby-level="5">ひじょう</rt></ruby>に<ruby>強<rt data-ruby-level="2">つよ</rt></ruby>い<ruby>寒気<rt

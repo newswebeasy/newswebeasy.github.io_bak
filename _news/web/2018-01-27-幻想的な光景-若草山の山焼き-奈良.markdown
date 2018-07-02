@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011305531000
 title: 幻想的な光景 若草山の山焼き 奈良
 title_with_ruby: <ruby>幻想的<rt data-ruby-level="7">げんそうてき</rt></ruby>な<ruby>光景<rt data-ruby-level="4">こうけい</rt></ruby>

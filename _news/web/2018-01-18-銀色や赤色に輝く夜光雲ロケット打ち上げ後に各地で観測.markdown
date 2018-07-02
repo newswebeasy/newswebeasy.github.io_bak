@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 3
 newsid: k10011293131000
 title: 銀色や赤色に輝く「夜光雲」ロケット打ち上げ後に各地で観測
 title_with_ruby: <ruby>銀色<rt data-ruby-level="3">ぎんいろ</rt></ruby>や<ruby>赤色<rt data-ruby-level="2">あかいろ</rt></ruby>に<ruby>輝<rt

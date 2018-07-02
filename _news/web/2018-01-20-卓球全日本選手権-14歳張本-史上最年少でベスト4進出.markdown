@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 7
 newsid: k10011295651000
 title: 卓球全日本選手権 14歳張本 史上最年少でベスト４進出
 title_with_ruby: <ruby>卓球<rt data-ruby-level="7">たっきゅう</rt></ruby><ruby>全日本<rt data-ruby-level="3">ぜんにほん</rt></ruby><ruby>選手権<rt

@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011287811000
 title: 大学入試センター試験始まる 大雪で開始時間繰り下げも
 title_with_ruby: <ruby>大学<rt data-ruby-level="1">だいがく</rt></ruby><ruby>入試<rt data-ruby-level="4">にゅうし</rt></ruby>センター<ruby>試験<rt

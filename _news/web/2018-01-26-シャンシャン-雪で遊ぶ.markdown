@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011303961000
 title: シャンシャン 雪で遊ぶ
 title_with_ruby: シャンシャン <ruby>雪<rt data-ruby-level="2">ゆき</rt></ruby>で<ruby>遊<rt data-ruby-level="3">あそ</rt></ruby>ぶ

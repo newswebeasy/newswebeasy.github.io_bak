@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 1
 newsid: k10011285691000
 title: 子どもは聞いている
 title_with_ruby: <ruby>子<rt data-ruby-level="1">こ</rt></ruby>どもは<ruby>聞<rt data-ruby-level="2">き</rt></ruby>いている

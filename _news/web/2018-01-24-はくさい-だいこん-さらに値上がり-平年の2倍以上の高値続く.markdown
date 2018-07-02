@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011300821000
 title: はくさい だいこん さらに値上がり 平年の２倍以上の高値続く
 title_with_ruby: はくさい だいこん さらに<ruby>値上<rt data-ruby-level="6">ねあ</rt></ruby>がり <ruby>平年<rt

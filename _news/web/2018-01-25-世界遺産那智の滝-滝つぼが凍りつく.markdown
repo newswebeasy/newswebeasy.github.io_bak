@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 8
 newsid: k10011302761000
 title: 世界遺産「那智の滝」 滝つぼが凍りつく
 title_with_ruby: <ruby>世界<rt data-ruby-level="3">せかい</rt></ruby><ruby>遺産<rt data-ruby-level="6">いさん</rt></ruby>「<ruby>那智<rt

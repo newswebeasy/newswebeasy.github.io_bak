@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 5
 newsid: k10011285271000
 title: ソニー aiboの後継機発売 AI搭載で約20万円
 title_with_ruby: ソニー aiboの<ruby>後継機<rt data-ruby-level="7">こうけいき</rt></ruby><ruby>発売<rt

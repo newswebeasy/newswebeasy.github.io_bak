@@ -25,6 +25,9 @@
                 <p><img class="fullwidth" data-s="300,640" src="{{ post.image_url }}" data-ratio="0" data-w="640" /></p>
                 {% endif %}
                 <h2 class="subtitle"><a href="{{ post.url }}">{{ post.title_with_ruby }}</a></h2>
+                <div class="rich_media_meta_list">
+                  <em class="rich_media_meta rich_media_meta_text">{{ post.datetime }}</em>
+                </div>
                 <div class="rich_media_content easynewscontent">
                   {{ post.outline_with_ruby }}
                 </div>

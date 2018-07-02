@@ -1,6 +1,7 @@
 ---
 layout: web_news
 categories: web
+cate: 2
 newsid: k10011285621000
 title: 光るつけまつげ開発 ＬＥＤ使い配線なく よりおしゃれに
 title_with_ruby: <ruby>光<rt data-ruby-level="2">ひか</rt></ruby>るつけまつげ<ruby>開発<rt data-ruby-level="3">かいはつ</rt></ruby>
