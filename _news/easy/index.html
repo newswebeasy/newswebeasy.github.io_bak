@@ -22,6 +22,7 @@ permalink: news/easy/
             </div>
             <ul>
               {% assign easylist = site.news | where: "categories", "easy"  | sort: "last_modified_at" | reverse %}
+              {% assign c = 0 %}
               {% for post in easylist limit: 10 %}
               <li class="card">
                 {% if post.image_url %}
@@ -35,6 +36,13 @@ permalink: news/easy/
                   {{ post.outline_with_ruby }}
                 </div>
               </li>
+              {% assign d = c | modulo: 3 %}
+              {% if d == 1  %}
+              <li class="card">
+                {% include adsense_web_stream.html %}
+              </li>
+              {% endif %}
+              {% assign c = c | plus: 1 %}
               {% endfor %}
             </ul>
           </div>

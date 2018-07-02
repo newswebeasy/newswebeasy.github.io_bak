@@ -34,7 +34,8 @@ permalink: news/web/
                   <p class="summary">{{ post.summary }}</p>
                 </div>
               </li>
-              {% if c == 4 %}
+              {% assign d = c | modulo: 3 %}
+              {% if d == 1  %}
               <li class="card">
                 {% include adsense_web_stream.html %}
               </li>
