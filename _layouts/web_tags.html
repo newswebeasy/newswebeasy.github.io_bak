@@ -17,16 +17,16 @@
               </label>
             </div>
             <ul>
-              {% assign easylist = site.news | where: "categories", "easy"  | where: "cate", page.cate | sort: "last_modified_at" | reverse %}
+              {% assign weblist = site.news | where: "categories", "web" | where: "cate", page.cate | sort: "last_modified_at" | reverse %}
               {% assign c = 0 %}
-              {% for post in easylist limit: 20 %}
+              {% for post in weblist limit: 20 %}
               <li class="card">
                 {% if post.image_url %}
                 <p><img class="fullwidth" data-s="300,640" src="{{ post.image_url }}" data-ratio="0" data-w="640" /></p>
                 {% endif %}
-                <h2 class="subtitle"><a href="{{ post.url }}">{{ post.title_with_ruby }}</a></h2>
-                <div class="rich_media_content easynewscontent">
-                  {{ post.outline_with_ruby }}
+                <h2 class="subtitle"><a href="{{ post.url }}">{% if post.title_with_ruby %}{{ post.title_with_ruby }}{% else %}{{ post.title }}{% endif %}</a></h2>
+                <div class="rich_media_content">
+                  <p class="summary">{{ post.summary }}</p>
                 </div>
               </li>
               {% assign d = c | modulo: 3 %}
