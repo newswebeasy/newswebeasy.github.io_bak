@@ -1,6 +1,7 @@
 ---
 layout: easy_news
 categories: easy
+cate: 1
 newsid: k10011418091000
 last_modified_at: '2018-04-27T17:30:00+09:00'
 datetime: 2018<ruby>年<rt>ねん</rt></ruby>04<ruby>月<rt>がつ</rt></ruby>27<ruby>日<rt>にち</rt></ruby>
