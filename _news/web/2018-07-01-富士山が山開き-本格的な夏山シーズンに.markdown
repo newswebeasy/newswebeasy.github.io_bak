@@ -66,6 +66,10 @@ more: <ruby>山梨<rt data-ruby-level="7">やまなし</rt></ruby>と<ruby>静�
 movie_url: https://newswebeasy.github.io/ja201807/news/web/movie/2018/07/01/k10011503291_201807011043_201807011044.mp4
 voice_url: https://newswebeasy.github.io/ja201807/news/web/voice/2018/07/01/k10011503291_201807011043_201807011044.mp3
 source_url: https://www3.nhk.or.jp/news/html/20180701/k10011503291000.html
+easy_title_with_ruby: <ruby>富士山<rt data-ruby-level="5">ふじさん</rt></ruby> <ruby>山梨県<rt
+  data-ruby-level="7">やまなしけん</rt></ruby>から<ruby>登<rt data-ruby-level="3">のぼ</rt></ruby>る<ruby>道<rt
+  data-ruby-level="2">みち</rt></ruby>で「<ruby>山開<rt data-ruby-level="3">やまびら</rt></ruby>き」
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/07/02/富士山-山梨県から登る道で山開き
 related_news:
 - title: <ruby>富士山<rt data-ruby-level="5">ふじさん</rt></ruby>のふもとと５<ruby>合目<rt data-ruby-level="2">ごうめ</rt></ruby><ruby>結<rt
     data-ruby-level="4">むす</rt></ruby>ぶ「<ruby>富士<rt data-ruby-level="5">ふじ</rt></ruby>スバルライン」<ruby>全線<rt

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body class="zh_CN mm_appmsg">
+  <div class="rich_media">
+    <div class="rich_media_inner">
+      <div class="rich_media_area_primary">
+        <div>
+          <h2 class="rich_media_title">{{ page.tags }}</h2>
+          <div class="rich_media_content">
+            <div style="margin: 10px 0">
+              <span><ruby>振<rt>ふ</rt></ruby>り<ruby>仮名<rt>がな</rt></ruby><ruby>表示<rt>ひょうじ</rt></ruby></span>
+              <label class="switch">
+                <input id="furigana_toggle" type="checkbox" checked/>
+                <span class="slider round"></span>
+              </label>
+            </div>
+            <ul>
+              {% assign easylist = site.news | where: "categories", "easy"  | where: "tags", page.tags | sort: "last_modified_at" | reverse %}
+              {% assign c = 0 %}
+              {% for post in easylist limit: 20 %}
+              <li class="card">
+                {% if post.image_url %}
+                <p><img class="fullwidth" data-s="300,640" src="{{ post.image_url }}" data-ratio="0" data-w="640" /></p>
+                {% endif %}
+                <h2 class="subtitle"><a href="{{ post.url }}">{{ post.title_with_ruby }}</a></h2>
+                <div class="rich_media_meta_list">
+                  <em class="rich_media_meta rich_media_meta_text">{{ post.datetime }}</em>
+                </div>
+                <div class="rich_media_content easynewscontent">
+                  {{ post.outline_with_ruby }}
+                </div>
+              </li>
+              {% assign d = c | modulo: 3 %}
+              {% if d == 1  %}
+              <li class="card">
+                {% include adsense_web_stream.html %}
+              </li>
+              {% endif %}
+              {% assign c = c | plus: 1 %}
+              {% endfor %}
+            </ul>
+          </div>
+
+          <div class="ct_mpda_wrp">
+            <!-- js_sponsor_ad_area -->
+          </div>
+        </div>
+
+        <div class="rich_media_tool">
+          <a class="media_tool_meta meta_primary" href="/news/easy/playlist">すべて<ruby>再生<rt>さいせい</rt></ruby></a>
+          <a class="media_tool_meta meta_primary" href="/news/web/"><ruby>普通<rt>ふつう</rt></ruby>のニュース</a>
+          <a class="media_tool_meta meta_primary" href="{{ site.nhk_news_web_easy_home }}"><ruby>閲読<rt>えつどく</rt></ruby><ruby>原文<rt>げんぶん</rt></ruby></a>
+        </div>
+      </div>
+
+      <div class="rich_media_area_extra">
+        <div class="mpda_bottom_container">
+        {% include adsense_easy.html %}
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <script src="/assets/furigana_toggle.js"></script>
+</body>
+
+</html>

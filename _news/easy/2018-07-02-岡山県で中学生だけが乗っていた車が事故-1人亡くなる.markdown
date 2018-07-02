@@ -1,0 +1,59 @@
+---
+layout: easy_news
+categories: easy
+newsid: k10011503711000
+last_modified_at: '2018-07-02T16:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>07<ruby>月<rt>がつ</rt></ruby>02<ruby>日<rt>にち</rt></ruby>
+  16<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ７月１日午前５時ごろ岡山県で、走っていた車が道の真ん中にある柱にぶつかりました。
+title: 岡山県で中学生だけが乗っていた車が事故　１人亡くなる
+title_with_ruby: <ruby>岡山県<rt>おかやまけん</rt></ruby>で<ruby>中学生<rt>ちゅうがくせい</rt></ruby>だけが<ruby>乗<rt>の</rt></ruby>っていた<ruby>車<rt>くるま</rt></ruby>が<ruby>事故<rt>じこ</rt></ruby>　<ruby>１人<rt>ひとり</rt></ruby><ruby>亡<rt>な</rt></ruby>くなる
+outline: ７月１日午前５時ごろ岡山県で、走っていた車が道の真ん中にある柱にぶつかりました。
+outline_with_ruby: ７<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>５<ruby>時<rt>じ</rt></ruby>ごろ<ruby>岡山県<rt>おかやまけん</rt></ruby>で、<ruby>走<rt>はし</rt></ruby>っていた<ruby>車<rt>くるま</rt></ruby>が<ruby>道<rt>みち</rt></ruby>の<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>にある<ruby>柱<rt>はしら</rt></ruby>にぶつかりました。
+image_url: https://newswebeasy.github.io/ja201807/news/web/image/2018/07/01/K10011503711_1807011841_1807011841_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201807/news/easy/voice/2018/07/02/k10011503711000.mp4
+content_with_ruby: "<p>７<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>５<ruby>時<rt>じ</rt></ruby>ごろ<ruby>岡山県<rt>おかやまけん</rt></ruby>で、<ruby>走<rt>はし</rt></ruby>っていた<ruby>車<rt>くるま</rt></ruby>が<ruby>道<rt>みち</rt></ruby>の<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>にある<span\
+  \ style=\"color: blue;\"><ruby>柱<rt>はしら</rt></ruby></span>に<span style=\"color:\
+  \ blue;\">ぶつかり</span>ました。</p>\n<p><ruby>警察<rt>けいさつ</rt></ruby>によると、<ruby>車<rt>くるま</rt></ruby>には<ruby>中学校<rt>ちゅうがっこう</rt></ruby>２<ruby>年生<rt>ねんせい</rt></ruby>で１３<ruby>歳<rt>さい</rt></ruby>の５<ruby>人<rt>にん</rt></ruby>が<ruby>乗<rt>の</rt></ruby>っていました。<ruby>岡山<rt>おかやま</rt></ruby><ruby>市<rt>し</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>女子<rt>じょし</rt></ruby></span>が<ruby>１人<rt>ひとり</rt></ruby><ruby>亡<rt>な</rt></ruby>くなって、４<ruby>人<rt>にん</rt></ruby>がけがをしました。</p>\n\
+  <p><ruby>日本<rt>にっぽん</rt></ruby>では１８<ruby>歳<rt>さい</rt></ruby>から<ruby>車<rt>くるま</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>免許<rt>めんきょ</rt></ruby></span>を<ruby>取<rt>と</rt></ruby>ることができます。<ruby>警察<rt>けいさつ</rt></ruby>は、なぜ<span\
+  \ style=\"color: blue;\"><ruby>免許<rt>めんきょ</rt></ruby></span>がない<ruby>中学生<rt>ちゅうがくせい</rt></ruby>だけで<ruby>車<rt>くるま</rt></ruby>に<ruby>乗<rt>の</rt></ruby>っていたのか、<ruby>誰<rt>だれ</rt></ruby>が<ruby>運転<rt>うんてん</rt></ruby>していたのかなど<ruby>調<rt>しら</rt></ruby>べています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 柱
+  descriptions:
+  - <ruby><rb>土台</rb><rt>どだい</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>てて、<ruby><rb>屋根</rb><rt>やね</rt></ruby>などを<ruby><rb>支</rb><rt>ささ</rt></ruby>える<ruby><rb>材木</rb><rt>ざいもく</rt></ruby>や<ruby><rb>鉄材</rb><rt>てつざい</rt></ruby>。
+  - たよりになる<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+  - まっすぐに<ruby><rb>立</rb><rt>た</rt></ruby>っているもの。
+  - <ruby><rb>神</rb><rt>かみ</rt></ruby>や、お<ruby><rb>骨</rb><rt>こつ</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときのことば。
+- word: ぶつかる
+  descriptions:
+  - <ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。
+  - <ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。
+  - <ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。
+  - <ruby><rb>重</rb><rt>かさ</rt></ruby>なる。
+- word: 女子
+  descriptions:
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。
+  - <ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>女性</rb><rt>じょせい</rt></ruby>。
+- word: 免許
+  descriptions:
+  - あることがらについて、<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>などが<ruby><rb>許</rb><rt>ゆる</rt></ruby>しをあたえること。
+  - <ruby><rb>芸</rb><rt>げい</rt></ruby>ごとで、<ruby><rb>先生</rb><rt>せんせい</rt></ruby>が<ruby><rb>弟子</rb><rt>でし</rt></ruby>にあたえる<ruby><rb>資格</rb><rt>しかく</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011503711000/k10011503711000.html
+web_title_with_ruby: <ruby>中学<rt>ちゅうがく</rt></ruby>２<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>男女<rt>だんじょ</rt></ruby>５<ruby>人<rt>にん</rt></ruby>だけが<ruby>乗<rt>の</rt></ruby>った<ruby>車<rt>くるま</rt></ruby>が<ruby>柱<rt>はしら</rt></ruby>に<ruby>衝突<rt>しょうとつ</rt></ruby>
+  １<ruby>人<rt>にん</rt></ruby><ruby>死亡<rt>しぼう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/07/01/中学2年生の男女5人だけが乗った車が柱に衝突-1人死亡
+related_news:
+- title: サウジアラビアで<ruby>女性<rt>じょせい</rt></ruby>に<ruby>車<rt>くるま</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント
+  url: https://newswebeasy.github.io/news/easy/2018/05/17/サウジアラビアで女性に車を紹介するイベント
+- title: <ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>する７５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の５<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が「<ruby>認知症<rt>にんちしょう</rt></ruby>の<ruby>可能性<rt>かのうせい</rt></ruby>」
+  url: https://newswebeasy.github.io/news/easy/2018/06/08/車を運転する75歳以上の5万人以上が認知症の可能性
+- title: ９０<ruby>歳<rt>さい</rt></ruby>が<ruby>運転<rt>うんてん</rt></ruby>する<ruby>車<rt>くるま</rt></ruby>の<ruby>事故<rt>じこ</rt></ruby>で<ruby>１人<rt>ひとり</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって３<ruby>人<rt>にん</rt></ruby>がけが
+  url: https://newswebeasy.github.io/news/easy/2018/05/29/90歳が運転する車の事故で1人が亡くなって3人がけが
+- title: 「ポケモンＧＯ」をしながら<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>して<ruby>事故<rt>じこ</rt></ruby>　<ruby>１人<rt>ひとり</rt></ruby><ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/04/16/ポケモンGOをしながら車を運転して事故-1人亡くなる
+- title: カナダ　<ruby>車<rt>くるま</rt></ruby>が<ruby>歩<rt>ある</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>をはねて１０<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/04/25/カナダ-車が歩いている人をはねて10人が亡くなる
+...

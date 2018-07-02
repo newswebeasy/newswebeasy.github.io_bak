@@ -10,6 +10,9 @@ collections:
   news:
     output: true
     permalink: /news/:categories/:year/:month/:day/:title/
+  tags:
+    output: true
+    permalink: /tags/:categories/:title/
 
 # Build settings
 markdown: kramdown
