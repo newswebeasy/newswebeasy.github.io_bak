@@ -10,13 +10,14 @@
           <h2 class="rich_media_title">{{ page.title }}</h2>
 
           <div class="rich_media_meta_list">
-            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/easy/social/"><ruby>社会<rt>しゃかい</rt></ruby></a></span>
-            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/easy/culture/"><ruby>科学<rt>かがく</rt></ruby>・<ruby>文化<rt>ぶんか</rt></ruby></a></span>
-            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/easy/politics/"><ruby>政治<rt>せいじ</rt></ruby></a></span>
-            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/easy/business/">ビジネス</a></span>
-            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/easy/international/"><ruby>国際<rt>こくさい</rt></ruby></a></span>
-            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/easy/sports/">スポーツ</a></span>
-            <span class="rich_media_meta rich_media_meta_text"><a href="/tags/easy/life/"><ruby>暮<rt>く</rt></ruby>らし</a></span>
+            <span class="rich_media_meta rich_media_meta_text"><a href="/news/easy/"><ruby>新着<rt>しんちゃく</rt></ruby></a></span>
+            {% unless page.cate == 1 %}<span class="rich_media_meta rich_media_meta_text"><a href="/tags/easy/social/"><ruby>社会<rt>しゃかい</rt></ruby></a></span>{% endunless %}
+            {% unless page.cate == 3 %}<span class="rich_media_meta rich_media_meta_text"><a href="/tags/easy/culture/"><ruby>科学<rt>かがく</rt></ruby>・<ruby>文化<rt>ぶんか</rt></ruby></a></span>{% endunless %}
+            {% unless page.cate == 4 %}<span class="rich_media_meta rich_media_meta_text"><a href="/tags/easy/politics/"><ruby>政治<rt>せいじ</rt></ruby></a></span>{% endunless %}
+            {% unless page.cate == 5 %}<span class="rich_media_meta rich_media_meta_text"><a href="/tags/easy/business/">ビジネス</a></span>{% endunless %}
+            {% unless page.cate == 6 %}<span class="rich_media_meta rich_media_meta_text"><a href="/tags/easy/international/"><ruby>国際<rt>こくさい</rt></ruby></a></span>{% endunless %}
+            {% unless page.cate == 7 %}<span class="rich_media_meta rich_media_meta_text"><a href="/tags/easy/sports/">スポーツ</a></span>{% endunless %}
+            {% unless page.cate == 2 %}<span class="rich_media_meta rich_media_meta_text"><a href="/tags/easy/life/"><ruby>暮<rt>く</rt></ruby>らし</a></span>{% endunless %}
           </div>
 
           <div class="rich_media_content">
@@ -60,17 +61,17 @@
         </div>
 
         <div class="rich_media_tool">
-          <a class="media_tool_meta meta_primary" href="/news/easy/">イージーニュース</a>
         </div>
 
         <div class="rich_media_tool">
-          <a class="media_tool_meta meta_primary" href="/tags/easy/social/"><ruby>社会<rt>しゃかい</rt></ruby></a>
-          <a class="media_tool_meta meta_primary" href="/tags/easy/culture/"><ruby>科学<rt>かがく</rt></ruby>・<ruby>文化<rt>ぶんか</rt></ruby></a>
-          <a class="media_tool_meta meta_primary" href="/tags/easy/politics/"><ruby>政治<rt>せいじ</rt></ruby></a>
-          <a class="media_tool_meta meta_primary" href="/tags/easy/business/">ビジネス</a>
-          <a class="media_tool_meta meta_primary" href="/tags/easy/international/"><ruby>国際<rt>こくさい</rt></ruby></a>
-          <a class="media_tool_meta meta_primary" href="/tags/easy/sports/">スポーツ</a>
-          <a class="media_tool_meta meta_primary" href="/tags/easy/life/"><ruby>暮<rt>く</rt></ruby>らし</a>
+          <a class="media_tool_meta meta_primary" href="/news/easy/"><ruby>新着<rt>しんちゃく</rt></ruby></a>
+          {% unless page.cate == 1 %}<a class="media_tool_meta meta_primary" href="/tags/easy/social/"><ruby>社会<rt>しゃかい</rt></ruby></a>{% endunless %}
+          {% unless page.cate == 3 %}<a class="media_tool_meta meta_primary" href="/tags/easy/culture/"><ruby>科学<rt>かがく</rt></ruby>・<ruby>文化<rt>ぶんか</rt></ruby></a>{% endunless %}
+          {% unless page.cate == 4 %}<a class="media_tool_meta meta_primary" href="/tags/easy/politics/"><ruby>政治<rt>せいじ</rt></ruby></a>{% endunless %}
+          {% unless page.cate == 5 %}<a class="media_tool_meta meta_primary" href="/tags/easy/business/">ビジネス</a>{% endunless %}
+          {% unless page.cate == 6 %}<a class="media_tool_meta meta_primary" href="/tags/easy/international/"><ruby>国際<rt>こくさい</rt></ruby></a>{% endunless %}
+          {% unless page.cate == 7 %}<a class="media_tool_meta meta_primary" href="/tags/easy/sports/">スポーツ</a>{% endunless %}
+          {% unless page.cate == 2 %}<a class="media_tool_meta meta_primary" href="/tags/easy/life/"><ruby>暮<rt>く</rt></ruby>らし</a>{% endunless %}
         </div>
       </div>
 
