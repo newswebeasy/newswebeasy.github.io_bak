@@ -1,7 +1,7 @@
 ---
 layout: web_news
 categories: web
-cate: '6'
+cate: 6
 newsid: k10011505561000
 title: 洞窟で不明の少年ら13人全員の生存確認 タイ
 title_with_ruby: <ruby>洞窟<rt data-ruby-level="7">どうくつ</rt></ruby>で<ruby>不明<rt data-ruby-level="4">ふめい</rt></ruby>の<ruby>少年<rt
