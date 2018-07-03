@@ -1,0 +1,54 @@
+---
+layout: easy_news
+categories: easy
+cate: '6'
+newsid: k10011505561000
+last_modified_at: '2018-07-03T17:20:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>07<ruby>月<rt>がつ</rt></ruby>03<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>20<ruby>分<rt>ふん</rt></ruby>
+description: タイで先月２３日、サッカーのチームに入っている１１歳から１６歳の男の子とコーチの１３人が洞窟に入ったあと、いなくなりました。
+title: タイ　洞窟に入ったあといなくなった男の子たちが見つかる
+title_with_ruby: タイ　<ruby>洞窟<rt>どうくつ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ったあといなくなった<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>たちが<ruby>見<rt>み</rt></ruby>つかる
+outline: タイで先月２３日、サッカーのチームに入っている１１歳から１６歳の男の子とコーチの１３人が洞窟に入ったあと、いなくなりました。
+outline_with_ruby: タイで<ruby>先月<rt>せんげつ</rt></ruby>２３<ruby>日<rt>にち</rt></ruby>、サッカーのチームに<ruby>入<rt>はい</rt></ruby>っている１１<ruby>歳<rt>さい</rt></ruby>から１６<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>とコーチの１３<ruby>人<rt>にん</rt></ruby>が<ruby>洞窟<rt>どうくつ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ったあと、いなくなりました。
+image_url: https://newswebeasy.github.io/ja201807/news/web/image/2018/07/03/K10011505561_1807030623_1807030624_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201807/news/easy/voice/2018/07/03/k10011505561000.mp4
+content_with_ruby: "<p>タイで<ruby>先月<rt>せんげつ</rt></ruby>２３<ruby>日<rt>にち</rt></ruby>、<span\
+  \ style=\"color: blue;\">サッカー</span>の<span style=\"color: blue;\">チーム</span>に<ruby>入<rt>はい</rt></ruby>っている１１<ruby>歳<rt>さい</rt></ruby>から１６<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>と<span\
+  \ style=\"color: blue;\">コーチ</span>の１３<ruby>人<rt>にん</rt></ruby>が<span style=\"color:\
+  \ blue;\"><ruby>洞窟<rt>どうくつ</rt></ruby></span>に<ruby>入<rt>はい</rt></ruby>ったあと、いなくなりました。</p>\n\
+  <p><ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて<span\
+  \ style=\"color: blue;\"><ruby>洞窟<rt>どうくつ</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>にたくさんの<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ったため、<span\
+  \ style=\"color: blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>や<ruby>警察<rt>けいさつ</rt></ruby>などがさがすことが<ruby>難<rt>むずか</rt></ruby>しくなっていました。しかし３０<ruby>日<rt>にち</rt></ruby>ごろから<ruby>雨<rt>あめ</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なくなったため、<span\
+  \ style=\"color: blue;\">ダイバー</span>が<span style=\"color: blue;\"><ruby>洞窟<rt>どうくつ</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってさがしました。</p>\n\
+  <p>７<ruby>月<rt>がつ</rt></ruby><ruby>２日<rt>ふつか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>洞窟<rt>どうくつ</rt></ruby></span>の<ruby>入<rt>い</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby>から５ｋｍぐらいの<ruby>所<rt>ところ</rt></ruby>で<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>たちが<ruby>見<rt>み</rt></ruby>つかりました。<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>たちは、<ruby>少<rt>すこ</rt></ruby>し<ruby>高<rt>たか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>っていました。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>軍<rt>ぐん</rt></ruby></span>などは<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>洞窟<rt>どうくつ</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>んで、<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>たちが<ruby>元気<rt>げんき</rt></ruby>になったら、<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>だ</rt></ruby>そうと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 洞穴
+  descriptions:
+  - <ruby><rb>岩</rb><rt>いわ</rt></ruby>やがけにあいた、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>深</rb><rt>ふか</rt></ruby>い<ruby><rb>穴</rb><rt>あな</rt></ruby>。どうくつ。
+- word: サッカー
+  descriptions:
+  - １１<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの<ruby><rb>２</rb><rt>に</rt></ruby>チームが、<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>わずに、ボールを<ruby><rb>相手</rb><rt>あいて</rt></ruby>のゴールにけりこんで<ruby><rb>得点</rb><rt>とくてん</rt></ruby>をきそう<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。フットボール。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: コーチ
+  descriptions:
+  - スポーツで、そのやり<ruby><rb>方</rb><rt>かた</rt></ruby>などを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 軍
+  descriptions:
+  - <ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。
+  - <ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。
+- word: ダイバー
+  descriptions:
+  - ダイビングをする<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011505561000/k10011505561000.html
+web_title_with_ruby: <ruby>洞窟<rt>どうくつ</rt></ruby>で<ruby>不明<rt>ふめい</rt></ruby>の<ruby>少年<rt>しょうねん</rt></ruby>ら13<ruby>人<rt>にん</rt></ruby><ruby>全員<rt>ぜんいん</rt></ruby>の<ruby>生存<rt>せいぞん</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>
+  <ruby>タイ<rt>たい</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/07/03/洞窟で不明の少年ら13人全員の生存確認-タイ
+related_news: []
+...

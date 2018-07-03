@@ -1,7 +1,7 @@
 ---
 layout: web_news
 categories: web
-cate: 5
+cate: '5'
 newsid: k10011502961000
 title: 訪日外国人向け免税 きょうから拡充
 title_with_ruby: <ruby>訪日<rt data-ruby-level="6">ほうにち</rt></ruby><ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby><ruby>向<rt
@@ -69,6 +69,12 @@ more: これまでの<ruby>消費税<rt data-ruby-level="5">しょうひぜい</
 movie_url: https://newswebeasy.github.io/ja201807/news/web/movie/2018/07/01/k10011502961_201807010745_201807010752.mp4
 voice_url: https://newswebeasy.github.io/ja201807/news/web/voice/2018/07/01/k10011502961_201807010745_201807010752.mp3
 source_url: https://www3.nhk.or.jp/news/html/20180701/k10011502961000.html
+easy_title_with_ruby: <ruby>旅行<rt data-ruby-level="3">りょこう</rt></ruby>に<ruby>来<rt
+  data-ruby-level="2">き</rt></ruby>た<ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby>の<ruby>買<rt
+  data-ruby-level="3">か</rt></ruby>い<ruby>物<rt data-ruby-level="3">もの</rt></ruby>
+  <ruby>免税<rt data-ruby-level="7">めんぜい</rt></ruby>の<ruby>手続<rt data-ruby-level="4">てつづ</rt></ruby>きが<ruby>簡単<rt
+  data-ruby-level="6">かんたん</rt></ruby>になる
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/07/03/旅行に来た外国人の買い物-免税の手続きが簡単になる
 related_news:
 - title: <ruby>外国人<rt data-ruby-level="2">がいこくじん</rt></ruby><ruby>観光客<rt data-ruby-level="4">かんこうきゃく</rt></ruby>
     <ruby>市民<rt data-ruby-level="4">しみん</rt></ruby><ruby>生活<rt data-ruby-level="2">せいかつ</rt></ruby>への<ruby>影響<rt

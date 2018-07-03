@@ -1,0 +1,68 @@
+---
+layout: easy_news
+categories: easy
+cate: '2'
+newsid: k10011502331000
+last_modified_at: '2018-07-03T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>07<ruby>月<rt>がつ</rt></ruby>03<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: ＪＲ西日本は６月３０日から、「ハローキティ」がかいてある新幹線の運転を始めました。
+title: 「ハローキティ」の絵で飾った新幹線の運転が始まる
+title_with_ruby: 「ハローキティ」の<ruby>絵<rt>え</rt></ruby>で<ruby>飾<rt>かざ</rt></ruby>った<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる
+outline: ＪＲ西日本は６月３０日から、「ハローキティ」がかいてある新幹線の運転を始めました。
+outline_with_ruby: ＪＲ<ruby>西日本<rt>にしにほん</rt></ruby>は６<ruby>月<rt>がつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>から、「ハローキティ」がかいてある<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。
+image_url: https://newswebeasy.github.io/ja201807/news/web/image/2018/06/30/K10011502331_1806301259_1806301313_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201807/news/easy/voice/2018/07/03/k10011502331000.mp4
+content_with_ruby: "<p>ＪＲ<ruby>西日本<rt>にしにほん</rt></ruby>は６<ruby>月<rt>がつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>から、「ハローキティ」がかいてある<span\
+  \ style=\"color: blue;\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>の<ruby>運転<rt>うんてん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。「<ruby>山陽新幹線<rt>さんようしんかんせん</rt></ruby>」の<ruby>博多駅<rt>はかたえき</rt></ruby>と<ruby>新大阪駅<rt>しんおおさかえき</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>を１<ruby>日<rt>にち</rt></ruby>に１<ruby>回<rt>かい</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>往復<rt>おうふく</rt></ruby></span>します。ハローキティは<ruby>外国<rt>がいこく</rt></ruby>でも<span\
+  \ style=\"color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>がある<span style=\"color:\
+  \ blue;\">キャラクター</span>で、ＪＲ<ruby>西日本<rt>にしにほん</rt></ruby>は<ruby>乗<rt>の</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>を<ruby>多<rt>おお</rt></ruby>くしたいと<ruby>考<rt>かんが</rt></ruby>えています。</p>\n\
+  <p><ruby>白<rt>しろ</rt></ruby>い<span style=\"color: blue;\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>には、きれいな<span\
+  \ style=\"color: blue;\">ピンク</span><ruby>色<rt>いろ</rt></ruby>の<span style=\"color:\
+  \ blue;\">リボン</span>や、いろいろな<span style=\"color: blue;\">デザイン</span>のハローキティの<ruby>絵<rt>え</rt></ruby>がかいてあります。ハローキティの<ruby>世界<rt>せかい</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しんだり、<span\
+  \ style=\"color: blue;\"><ruby>記念<rt>きねん</rt></ruby></span>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ったりする<ruby>所<rt>ところ</rt></ruby>もあります。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>新幹線<rt>しんかんせん</rt></ruby></span>を<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>た８<ruby>歳<rt>さい</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>は「いろいろな<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>たハローキティがかわいいと<ruby>思<rt>おも</rt></ruby>いました。<ruby>乗<rt>の</rt></ruby>ってみたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 新幹線
+  descriptions:
+  - <ruby><rb>日本</rb><rt>にっぽん</rt></ruby>のおもな<ruby><rb>都市</rb><rt>とし</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで、<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶための<ruby><rb>高速鉄道</rb><rt>こうそくてつどう</rt></ruby>。<ruby><rb>東海道新幹線</rb><rt>とうかいどうしんかんせん</rt></ruby>、<ruby><rb>山陽新幹線</rb><rt>さんようしんかんせん</rt></ruby>、<ruby><rb>上越新幹線</rb><rt>じょうえつしんかんせん</rt></ruby>、<ruby><rb>長野新幹線</rb><rt>ながのしんかんせん</rt></ruby>、<ruby><rb>東北新幹線</rb><rt>とうほくしんかんせん</rt></ruby>、<ruby><rb>山形新幹線</rb><rt>やまがたしんかんせん</rt></ruby>、<ruby><rb>秋田新幹線</rb><rt>あきたしんかんせん</rt></ruby>、<ruby><rb>九州新幹線</rb><rt>きゅうしゅうしんかんせん</rt></ruby>がある。
+- word: 往復
+  descriptions:
+  - <ruby><rb>行</rb><rt>い</rt></ruby>ったり<ruby><rb>来</rb><rt>き</rt></ruby>たりすること。<ruby><rb>行</rb><rt>い</rt></ruby>きと<ruby><rb>帰</rb><rt>かえ</rt></ruby>り。
+  - やり<ruby><rb>取</rb><rt>と</rt></ruby>り。
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: キャラクター
+  descriptions:
+  - <ruby><rb>性格</rb><rt>せいかく</rt></ruby>。<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>味</rb><rt>あじ</rt></ruby>。
+  - まんが・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>劇</rb><rt>げき</rt></ruby>などに<ruby><rb>出</rb><rt>で</rt></ruby>てくる<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。
+- word: ピンク
+  descriptions:
+  - もも<ruby><rb>色</rb><rt>いろ</rt></ruby>。うすい<ruby><rb>赤色</rb><rt>あかいろ</rt></ruby>。
+- word: リボン
+  descriptions:
+  - かざりのために<ruby><rb>使</rb><rt>つか</rt></ruby>う、きれいな<ruby><rb>色</rb><rt>いろ</rt></ruby>の、はばのせまい<ruby><rb>布</rb><rt>ぬの</rt></ruby>。また、そのかざり。
+- word: デザイン
+  descriptions:
+  - <ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。
+  - <ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。
+- word: 記念
+  descriptions:
+  - <ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>しておくこと。また、その<ruby><rb>物</rb><rt>もの</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011502331000/k10011502331000.html
+web_title_with_ruby: <ruby>車体<rt>しゃたい</rt></ruby>に<ruby>ピンク<rt>ぴんく</rt></ruby>の<ruby>リボン<rt>りぼん</rt></ruby>
+  “<ruby>キティちゃん<rt>きてぃちゃん</rt></ruby><ruby>新幹線<rt>しんかんせん</rt></ruby>” <ruby>運行<rt>うんこう</rt></ruby><ruby>始<rt>はじ</rt></ruby>まる
+web_news_url: https://newswebeasy.github.io/news/web/2018/06/30/車体にピンクのリボン-キティちゃん新幹線-運行始まる
+related_news:
+- title: Ｗｉ－Ｆｉを<ruby>利用<rt>りよう</rt></ruby>できるサービスが<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>新幹線<rt>しんかんせん</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まる
+  url: https://newswebeasy.github.io/news/easy/2018/06/26/Wi-Fiを利用できるサービスが全部の新幹線で始まる
+- title: <ruby>東北新幹線<rt>とうほくしんかんせん</rt></ruby>が<ruby>止<rt>と</rt></ruby>まる　パンタグラフに<ruby>何<rt>なに</rt></ruby>かがぶつかった<ruby>跡<rt>あと</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/06/18/東北新幹線が止まる-パンタグラフに何かがぶつかった跡
+- title: <ruby>天皇<rt>てんのう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>と<ruby>皇后<rt>こうごう</rt></ruby>さまをかいた<ruby>絵<rt>え</rt></ruby>ができる
+  url: https://newswebeasy.github.io/news/easy/2018/05/22/天皇陛下と皇后さまをかいた絵ができる
+- title: オークションで<ruby>買<rt>か</rt></ruby>った<ruby>絵<rt>え</rt></ruby>はレンブラントがかいた<ruby>絵<rt>え</rt></ruby>だった
+  url: https://newswebeasy.github.io/news/easy/2018/05/18/オークションで買った絵はレンブラントがかいた絵だった
+...

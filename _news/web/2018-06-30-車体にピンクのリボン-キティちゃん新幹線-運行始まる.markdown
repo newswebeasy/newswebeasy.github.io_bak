@@ -1,7 +1,7 @@
 ---
 layout: web_news
 categories: web
-cate: 2
+cate: '2'
 newsid: k10011502331000
 title: 車体にピンクのリボン “キティちゃん新幹線” 運行始まる
 title_with_ruby: <ruby>車体<rt data-ruby-level="2">しゃたい</rt></ruby>にピンクのリボン “キティちゃん<ruby>新幹線<rt
@@ -16,9 +16,9 @@ summary: <ruby>山陽新幹線<rt data-ruby-level="5">さんようしんかん�
   data-ruby-level="3">しゃりょう</rt></ruby>が<ruby>登場<rt data-ruby-level="3">とうじょう</rt></ruby>し、30<ruby>日<rt
   data-ruby-level="1">にち</rt></ruby>から<ruby>運行<rt data-ruby-level="3">うんこう</rt></ruby>を<ruby>始<rt
   data-ruby-level="3">はじ</rt></ruby>めました。
-image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/30/K10011502331_1806301259_1806301313_01_03.jpg
-movie_url: https://newswebeasy.github.io/ja201806/news/web/movie/2018/06/30/k10011502331_201806301309_201806301309.mp4
-voice_url: https://newswebeasy.github.io/ja201806/news/web/voice/2018/06/30/k10011502331_201806301309_201806301309.mp3
+image_url: https://newswebeasy.github.io/ja201807/news/web/image/2018/06/30/K10011502331_1806301259_1806301313_01_03.jpg
+movie_url: https://newswebeasy.github.io/ja201807/news/web/movie/2018/06/30/k10011502331_201806301309_201806301309.mp4
+voice_url: https://newswebeasy.github.io/ja201807/news/web/voice/2018/06/30/k10011502331_201806301309_201806301309.mp3
 body:
 - text: <ruby>ＪＲ西日本<rt data-ruby-level="2">じぇーあーるにしにほん</rt></ruby>が<ruby>運行<rt data-ruby-level="3">うんこう</rt></ruby>を<ruby>始<rt
     data-ruby-level="3">はじ</rt></ruby>めたのは、<ruby>山陽新幹線<rt data-ruby-level="5">さんようしんかんせん</rt></ruby>の<ruby>博多駅<rt
@@ -58,8 +58,12 @@ body:
     data-ruby-level="1">にち</rt></ruby>１<ruby>往復<rt data-ruby-level="5">おうふく</rt></ruby>する<ruby>予定<rt
     data-ruby-level="3">よてい</rt></ruby>です。
   textPos: bottom
-  image_url: https://newswebeasy.github.io/ja201806/news/web/image/2018/06/30/K10011502331_1806301259_1806301313_01_04.jpg
+  image_url: https://newswebeasy.github.io/ja201807/news/web/image/2018/06/30/K10011502331_1806301259_1806301313_01_04.jpg
 source_url: https://www3.nhk.or.jp/news/html/20180630/k10011502331000.html
+easy_title_with_ruby: 「ハローキティ」の<ruby>絵<rt data-ruby-level="2">え</rt></ruby>で<ruby>飾<rt
+  data-ruby-level="7">かざ</rt></ruby>った<ruby>新幹線<rt data-ruby-level="5">しんかんせん</rt></ruby>の<ruby>運転<rt
+  data-ruby-level="3">うんてん</rt></ruby>が<ruby>始<rt data-ruby-level="3">はじ</rt></ruby>まる
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/07/03/ハローキティの絵で飾った新幹線の運転が始まる
 related_news:
 - title: <ruby>東海道新幹線<rt data-ruby-level="5">とうかいどうしんかんせん</rt></ruby>の<ruby>車内<rt
     data-ruby-level="2">しゃない</rt></ruby>で<ruby>人<rt data-ruby-level="1">ひと</rt></ruby><ruby>刺<rt
@@ -67,12 +71,12 @@ related_news:
     data-ruby-level="3">じゅうたい</rt></ruby>２<ruby>人<rt data-ruby-level="1">にん</rt></ruby>けが
     <ruby>容疑者<rt data-ruby-level="6">ようぎしゃ</rt></ruby><ruby>逮捕<rt data-ruby-level="7">たいほ</rt></ruby>
   url: https://newswebeasy.github.io/news/web/2018/06/09/東海道新幹線の車内で人刺される-1人重体2人けが-容疑者逮捕
-- title: <ruby>秩父鉄道<rt data-ruby-level="8">ちちぶてつどう</rt></ruby>のＳＬ<ruby>運行<rt data-ruby-level="3">うんこう</rt></ruby>スタート
-    <ruby>春<rt data-ruby-level="2">はる</rt></ruby>の<ruby>観光<rt data-ruby-level="4">かんこう</rt></ruby>シーズン<ruby>幕開<rt
-    data-ruby-level="6">まくあ</rt></ruby>け
-  url: https://newswebeasy.github.io/news/web/2018/04/01/秩父鉄道のSL運行スタート-春の観光シーズン幕開け
 - title: <ruby>無料<rt data-ruby-level="4">むりょう</rt></ruby>Ｗｉ－Ｆｉサービス <ruby>全<rt data-ruby-level="3">ぜん</rt></ruby><ruby>新幹線<rt
     data-ruby-level="5">しんかんせん</rt></ruby>の<ruby>路線<rt data-ruby-level="3">ろせん</rt></ruby>で<ruby>今年度中<rt
     data-ruby-level="3">こんねんどちゅう</rt></ruby>に<ruby>提供<rt data-ruby-level="6">ていきょう</rt></ruby>へ
   url: https://newswebeasy.github.io/news/web/2018/06/24/無料Wi-Fiサービス-全新幹線の路線で今年度中に提供へ
+- title: ＪＲ<ruby>山手線<rt data-ruby-level="2">やまてせん</rt></ruby> <ruby>車内<rt data-ruby-level="2">しゃない</rt></ruby>の<ruby>防犯<rt
+    data-ruby-level="5">ぼうはん</rt></ruby>カメラ <ruby>全車両<rt data-ruby-level="3">ぜんしゃりょう</rt></ruby>に<ruby>設置<rt
+    data-ruby-level="5">せっち</rt></ruby>へ
+  url: https://newswebeasy.github.io/news/web/2018/05/17/JR山手線-車内の防犯カメラ-全車両に設置へ
 ...
