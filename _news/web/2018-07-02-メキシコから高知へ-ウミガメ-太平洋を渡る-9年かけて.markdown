@@ -1,0 +1,71 @@
+---
+layout: web_news
+categories: web
+cate: 3
+newsid: k10011505141000
+title: メキシコから高知へ ウミガメ 太平洋を渡る ９年かけて
+title_with_ruby: メキシコから<ruby>高知<rt data-ruby-level="2">こうち</rt></ruby>へ ウミガメ <ruby>太平洋<rt
+  data-ruby-level="3">たいへいよう</rt></ruby>を<ruby>渡<rt data-ruby-level="7">わた</rt></ruby>る
+  ９<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>かけて
+last_modified_at: '2018-07-02T20:18:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>07<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>02<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 20<ruby>時<rt data-ruby-level="2">じ</rt></ruby>18<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ９年前にメキシコ沖で捕獲され、標識をつけて放流された野生のアカウミガメが、先週、高知県の室戸市沖で見つかりました。ウミガメの調査などを行っている協議会によりますと、野生のアカウミガメが太平洋を横断したことが確認できたのは世界で２例目だということです。
+summary: ９<ruby>年前<rt data-ruby-level="2">ねんまえ</rt></ruby>にメキシコ<ruby>沖<rt data-ruby-level="7">おき</rt></ruby>で<ruby>捕獲<rt
+  data-ruby-level="7">ほかく</rt></ruby>され、<ruby>標識<rt data-ruby-level="5">ひょうしき</rt></ruby>をつけて<ruby>放流<rt
+  data-ruby-level="3">ほうりゅう</rt></ruby>された<ruby>野生<rt data-ruby-level="2">やせい</rt></ruby>のアカウミガメが、<ruby>先週<rt
+  data-ruby-level="2">せんしゅう</rt></ruby>、<ruby>高知県<rt data-ruby-level="3">こうちけん</rt></ruby>の<ruby>室戸市<rt
+  data-ruby-level="7">むろとし</rt></ruby><ruby>沖<rt data-ruby-level="7">おき</rt></ruby>で<ruby>見<rt
+  data-ruby-level="1">み</rt></ruby>つかりました。ウミガメの<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby>などを<ruby>行<rt
+  data-ruby-level="2">おこな</rt></ruby>っている<ruby>協議会<rt data-ruby-level="4">きょうぎかい</rt></ruby>によりますと、<ruby>野生<rt
+  data-ruby-level="2">やせい</rt></ruby>のアカウミガメが<ruby>太平洋<rt data-ruby-level="3">たいへいよう</rt></ruby>を<ruby>横断<rt
+  data-ruby-level="5">おうだん</rt></ruby>したことが<ruby>確認<rt data-ruby-level="7">かくにん</rt></ruby>できたのは<ruby>世界<rt
+  data-ruby-level="3">せかい</rt></ruby>で２<ruby>例目<rt data-ruby-level="4">れいめ</rt></ruby>だということです。
+image_url: https://newswebeasy.github.io/ja201807/news/web/image/2018/07/02/K10011505141_1807022005_1807022007_01_02.jpg
+body:
+- text: <ruby>先月<rt data-ruby-level="1">せんげつ</rt></ruby>27<ruby>日<rt data-ruby-level="1">にち</rt></ruby>、<ruby>室戸市<rt
+    data-ruby-level="7">むろとし</rt></ruby><ruby>沖<rt data-ruby-level="7">おき</rt></ruby>の<ruby>定置網<rt
+    data-ruby-level="7">ていちあみ</rt></ruby>にウミガメがかかった、と<ruby>漁業者<rt data-ruby-level="4">ぎょぎょうしゃ</rt></ruby>から<ruby>室戸市<rt
+    data-ruby-level="7">むろとし</rt></ruby>の「むろと<ruby>廃校<rt data-ruby-level="7">はいこう</rt></ruby><ruby>水族館<rt
+    data-ruby-level="3">すいぞくかん</rt></ruby>」に<ruby>連絡<rt data-ruby-level="7">れんらく</rt></ruby>がありました。<br
+    /><br /><ruby>水族館<rt data-ruby-level="3">すいぞくかん</rt></ruby>によりますと、ウミガメの<ruby>右<rt
+    data-ruby-level="1">みぎ</rt></ruby>の<ruby>前足<rt data-ruby-level="2">まえあし</rt></ruby>には<ruby>金属製<rt
+    data-ruby-level="5">きんぞくせい</rt></ruby>の<ruby>標識<rt data-ruby-level="5">ひょうしき</rt></ruby>が<ruby>付<rt
+    data-ruby-level="4">つ</rt></ruby>いていて、アメリカ<ruby>海洋<rt data-ruby-level="3">かいよう</rt></ruby><ruby>大気<rt
+    data-ruby-level="1">たいき</rt></ruby><ruby>局<rt data-ruby-level="3">きょく</rt></ruby>を<ruby>示<rt
+    data-ruby-level="5">しめ</rt></ruby>す「ＮＯＡＡ」という<ruby>文字<rt data-ruby-level="1">もじ</rt></ruby>や<ruby>個体<rt
+    data-ruby-level="5">こたい</rt></ruby><ruby>番号<rt data-ruby-level="3">ばんごう</rt></ruby>が<ruby>記載<rt
+    data-ruby-level="7">きさい</rt></ruby>されていました。<br /><br /><ruby>水族館<rt data-ruby-level="3">すいぞくかん</rt></ruby>がこの<ruby>標識<rt
+    data-ruby-level="5">ひょうしき</rt></ruby>を<ruby>付<rt data-ruby-level="4">つ</rt></ruby>けた<ruby>海外<rt
+    data-ruby-level="2">かいがい</rt></ruby>の<ruby>研究者<rt data-ruby-level="3">けんきゅうしゃ</rt></ruby>に<ruby>問<rt
+    data-ruby-level="3">と</rt></ruby>い<ruby>合<rt data-ruby-level="3">あ</rt></ruby>わせたところ、メキシコ<ruby>沖<rt
+    data-ruby-level="7">おき</rt></ruby>で2009<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>７<ruby>月<rt
+    data-ruby-level="1">がつ</rt></ruby>に<ruby>捕獲<rt data-ruby-level="7">ほかく</rt></ruby>された<ruby>野生<rt
+    data-ruby-level="2">やせい</rt></ruby>のアカウミガメのメスとわかったということです。<br /><br />９<ruby>年前<rt
+    data-ruby-level="2">ねんまえ</rt></ruby>に<ruby>比<rt data-ruby-level="5">くら</rt></ruby>べて30センチほど<ruby>大<rt
+    data-ruby-level="1">おお</rt></ruby>きくなり、<ruby>標識<rt data-ruby-level="5">ひょうしき</rt></ruby>が<ruby>体<rt
+    data-ruby-level="2">からだ</rt></ruby>に<ruby>食<rt data-ruby-level="7">く</rt></ruby>い<ruby>込<rt
+    data-ruby-level="7">こ</rt></ruby>んでいたため、<ruby>水族館<rt data-ruby-level="3">すいぞくかん</rt></ruby>は<ruby>新<rt
+    data-ruby-level="2">あら</rt></ruby>たな<ruby>標識<rt data-ruby-level="5">ひょうしき</rt></ruby>を<ruby>付<rt
+    data-ruby-level="4">つ</rt></ruby>けて<ruby>再<rt data-ruby-level="5">ふたた</rt></ruby>び<ruby>海<rt
+    data-ruby-level="2">うみ</rt></ruby>に<ruby>放<rt data-ruby-level="3">はな</rt></ruby>したということです。<br
+    /><br />ウミガメの<ruby>調査<rt data-ruby-level="5">ちょうさ</rt></ruby>や<ruby>保護<rt data-ruby-level="5">ほご</rt></ruby><ruby>活動<rt
+    data-ruby-level="3">かつどう</rt></ruby>を<ruby>行<rt data-ruby-level="2">おこな</rt></ruby>う<ruby>日本<rt
+    data-ruby-level="1">にっぽん</rt></ruby>ウミガメ<ruby>協議会<rt data-ruby-level="4">きょうぎかい</rt></ruby>によりますと、アカウミガメが<ruby>太平洋<rt
+    data-ruby-level="3">たいへいよう</rt></ruby>を<ruby>横断<rt data-ruby-level="5">おうだん</rt></ruby>したのを<ruby>確認<rt
+    data-ruby-level="7">かくにん</rt></ruby>できたのは<ruby>世界<rt data-ruby-level="3">せかい</rt></ruby>で２<ruby>例目<rt
+    data-ruby-level="4">れいめ</rt></ruby>だということです。
+  textPos: bottom
+  image_url: https://newswebeasy.github.io/ja201807/news/web/image/2018/07/02/K10011505141_1807022005_1807022007_01_03.jpg
+source_url: https://www3.nhk.or.jp/news/html/20180702/k10011505141000.html
+easy_title_with_ruby: <ruby>亀<rt data-ruby-level="7">かめ</rt></ruby>がメキシコから<ruby>高知県<rt
+  data-ruby-level="3">こうちけん</rt></ruby>まで<ruby>太平洋<rt data-ruby-level="3">たいへいよう</rt></ruby>を<ruby>泳<rt
+  data-ruby-level="3">およ</rt></ruby>いで<ruby>渡<rt data-ruby-level="7">わた</rt></ruby>る
+easy_news_url: https://newswebeasy.github.io/news/easy/2018/07/04/亀がメキシコから高知県まで太平洋を泳いで渡る
+related_news:
+- title: <ruby>吸盤<rt data-ruby-level="7">きゅうばん</rt></ruby>１つ５センチ！<ruby>水族館<rt data-ruby-level="3">すいぞくかん</rt></ruby><ruby>史上<rt
+    data-ruby-level="4">しじょう</rt></ruby><ruby>最大<rt data-ruby-level="4">さいだい</rt></ruby>のタコが<ruby>来<rt
+    data-ruby-level="2">き</rt></ruby>た <ruby>北海道<rt data-ruby-level="2">ほっかいどう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/06/07/吸盤1つ5センチ水族館史上最大のタコが来た-北海道
+...

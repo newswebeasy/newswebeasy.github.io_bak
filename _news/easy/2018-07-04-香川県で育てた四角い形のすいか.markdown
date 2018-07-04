@@ -1,0 +1,78 @@
+---
+layout: easy_news
+categories: easy
+cate: 1
+newsid: k10011505521000
+last_modified_at: '2018-07-04T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>07<ruby>月<rt>がつ</rt></ruby>04<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 香川県善通寺市では５０年ぐらい前から、飾り用の四角い形のすいかを育てています。
+title: 香川県で育てた四角い形のすいか
+title_with_ruby: <ruby>香川県<rt>かがわけん</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>てた<ruby>四角<rt>しかく</rt></ruby>い<ruby>形<rt>かたち</rt></ruby>のすいか
+outline: 香川県善通寺市では５０年ぐらい前から、飾り用の四角い形のすいかを育てています。
+outline_with_ruby: <ruby>香川県<rt>かがわけん</rt></ruby><ruby>善通寺市<rt>ぜんつうじし</rt></ruby>では５０<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>から、<ruby>飾<rt>かざ</rt></ruby>り<ruby>用<rt>よう</rt></ruby>の<ruby>四角<rt>しかく</rt></ruby>い<ruby>形<rt>かたち</rt></ruby>のすいかを<ruby>育<rt>そだ</rt></ruby>てています。
+image_url: https://newswebeasy.github.io/ja201807/news/web/image/2018/07/03/K10011505521_1807030034_1807030411_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201807/news/easy/voice/2018/07/04/k10011505521000.mp4
+content_with_ruby: "<p><ruby>香川県<rt>かがわけん</rt></ruby><ruby>善通寺市<rt>ぜんつうじし</rt></ruby>では５０<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前<rt>まえ</rt></ruby>から、<span\
+  \ style=\"color: blue;\"><ruby>飾<rt>かざ</rt></ruby>り</span><ruby>用<rt>よう</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>四角<rt>しかく</rt></ruby>い</span><ruby>形<rt>かたち</rt></ruby>の<span\
+  \ style=\"color: blue;\">すいか</span>を<ruby>育<rt>そだ</rt></ruby>てています。<span style=\"\
+  color: blue;\"><ruby>四角<rt>しかく</rt></ruby>い</span><ruby>形<rt>かたち</rt></ruby>の<span\
+  \ style=\"color: blue;\">プラスチック</span>の<ruby>中<rt>なか</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>てた<span\
+  \ style=\"color: blue;\">すいか</span>は、<ruby>縦<rt>たて</rt></ruby>と<ruby>横<rt>よこ</rt></ruby>と<ruby>高<rt>たか</rt></ruby>さが１８ｃｍです。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>農家<rt>のうか</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>たちは<ruby>２日<rt>ふつか</rt></ruby>、<span\
+  \ style=\"color: blue;\"><ruby>約<rt>やく</rt></ruby></span>２５０<ruby>個<rt>こ</rt></ruby>の<span\
+  \ style=\"color: blue;\">すいか</span>に<span style=\"color: blue;\"><ruby>傷<rt>きず</rt></ruby></span>がないかどうか<ruby>調<rt>しら</rt></ruby>べてから<ruby>箱<rt>はこ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れて、<ruby>店<rt>みせ</rt></ruby>などに<ruby>送<rt>おく</rt></ruby>る<ruby>準備<rt>じゅんび</rt></ruby>をしました。<ruby>今月<rt>こんげつ</rt></ruby><span\
+  \ style=\"color: blue;\"><ruby>中旬<rt>ちゅうじゅん</rt></ruby></span>までに<span style=\"\
+  color: blue;\"><ruby>約<rt>やく</rt></ruby></span>５００<ruby>個<rt>こ</rt></ruby>を<ruby>東京<rt>とうきょう</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>関西<rt>かんさい</rt></ruby></span>などに<ruby>送<rt>おく</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。</p>\n\
+  <p><span style=\"color: blue;\"><ruby>農家<rt>のうか</rt></ruby></span>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>珍<rt>めずら</rt></ruby>しい<span\
+  \ style=\"color: blue;\"><ruby>四角<rt>しかく</rt></ruby>い</span><ruby>形<rt>かたち</rt></ruby>の<span\
+  \ style=\"color: blue;\">すいか</span>を<ruby>見<rt>み</rt></ruby>て、<ruby>涼<rt>すず</rt></ruby>しさを<span\
+  \ style=\"color: blue;\"><ruby>感<rt>かん</rt></ruby>じ</span>てもらいたいです」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 四角
+  descriptions:
+  - <ruby><rb>四</rb><rt>よ</rt></ruby>すみに<ruby><rb>角</rb><rt>かど</rt></ruby>がある<ruby><rb>形</rb><rt>かたち</rt></ruby>。
+- word: 西瓜
+  descriptions:
+  - <ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>実</rb><rt>み</rt></ruby>が、<ruby><rb>地面</rb><rt>じめん</rt></ruby>をはうつるにでき、<ruby><rb>中身</rb><rt>なかみ</rt></ruby>は<ruby><rb>赤</rb><rt>あか</rt></ruby>や<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>で<ruby><rb>水分</rb><rt>すいぶん</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>くあまい。
+- word: 飾り
+  descriptions:
+  - <ruby><rb>飾</rb><rt>かざ</rt></ruby>ること。また、<ruby><rb>飾</rb><rt>かざ</rt></ruby>って<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>見</rb><rt>み</rt></ruby>せるもの。
+- word: プラスチック
+  descriptions:
+  - <ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>圧力</rb><rt>あつりょく</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>えて、<ruby><rb>自由</rb><rt>じゆう</rt></ruby>に<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ることができる<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>合成樹脂</rb><rt>ごうせいじゅし</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>す。<ruby><rb>使</rb><rt>つか</rt></ruby>い<ruby><rb>道</rb><rt>みち</rt></ruby>が<ruby><rb>広</rb><rt>ひろ</rt></ruby>い。
+- word: 農家
+  descriptions:
+  - <ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らしを<ruby><rb>立</rb><rt>た</rt></ruby>てている<ruby><rb>家</rb><rt>いえ</rt></ruby>。また、その<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。
+- word: 約
+  descriptions:
+  - ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。
+  - <ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。
+  - おおよそ。ほぼ。だいたい。
+- word: 傷
+  descriptions:
+  - <ruby><rb>打</rb><rt>う</rt></ruby>ったり<ruby><rb>切</rb><rt>き</rt></ruby>ったりして、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>や<ruby><rb>肉</rb><rt>にく</rt></ruby>をいためたところ。
+  - <ruby><rb>品物</rb><rt>しなもの</rt></ruby>のいたんだところ。
+  - <ruby><rb>悪</rb><rt>わる</rt></ruby>い<ruby><rb>点</rb><rt>てん</rt></ruby>。<ruby><rb>欠点</rb><rt>けってん</rt></ruby>。
+- word: 中旬
+  descriptions:
+  - <ruby><rb>月</rb><rt>つき</rt></ruby>の<ruby><rb>１１</rb><rt>じゅういち</rt></ruby><ruby><rb>日</rb><rt>にち</rt></ruby>から<ruby><rb>２０日</rb><rt>はつか</rt></ruby>までの<ruby><rb>間</rb><rt>あいだ</rt></ruby>。
+- word: 関西
+  descriptions:
+  - <ruby><rb>京都</rb><rt>きょうと</rt></ruby>・<ruby><rb>大阪</rb><rt>おおさか</rt></ruby>・<ruby><rb>神戸</rb><rt>こうべ</rt></ruby>・<ruby><rb>奈良</rb><rt>なら</rt></ruby>などの<ruby><rb>地方</rb><rt>ちほう</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>すことば。
+- word: 感じる
+  descriptions:
+  - <ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。
+  - <ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。
+  - <ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。
+source_url: http://www3.nhk.or.jp/news/easy/k10011505521000/k10011505521000.html
+web_title_with_ruby: <ruby>四角<rt>しかく</rt></ruby>い<ruby>スイカ<rt>すいか</rt></ruby> <ruby>出荷<rt>しゅっか</rt></ruby><ruby>始<rt>はじ</rt></ruby>まる
+  <ruby>香川<rt>かがわ</rt></ruby> <ruby>善通寺<rt>ぜんつうじ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/07/03/四角いスイカ-出荷始まる-香川-善通寺
+related_news:
+- title: <ruby>北海道<rt>ほっかいどう</rt></ruby>の「でんすけすいか」　<ruby>今年<rt>ことし</rt></ruby><ruby>初<rt>はじ</rt></ruby>めての<ruby>競<rt>せ</rt></ruby>りで５５<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/06/15/北海道のでんすけすいか-今年初めての競りで55万円
+...
