@@ -1,0 +1,40 @@
+---
+layout: easy_news
+categories: easy
+cate: 1
+newsid: k10011507541000
+last_modified_at: '2018-07-04T18:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>07<ruby>月<rt>がつ</rt></ruby>04<ruby>日<rt>にち</rt></ruby>
+  18<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: 建物や道が、車いすを使っている人に利用しやすいかどうか、みんなで調べて紹介しているスマートフォンのアプリがあります。
+title: 車いすの人が利用しやすい場所かどうか高校生が調べる
+title_with_ruby: <ruby>車<rt>くるま</rt></ruby>いすの<ruby>人<rt>ひと</rt></ruby>が<ruby>利用<rt>りよう</rt></ruby>しやすい<ruby>場所<rt>ばしょ</rt></ruby>かどうか<ruby>高校生<rt>こうこうせい</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べる
+outline: 建物や道が、車いすを使っている人に利用しやすいかどうか、みんなで調べて紹介しているスマートフォンのアプリがあります。
+outline_with_ruby: <ruby>建物<rt>たてもの</rt></ruby>や<ruby>道<rt>みち</rt></ruby>が、<ruby>車<rt>くるま</rt></ruby>いすを<ruby>使<rt>つか</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>に<ruby>利用<rt>りよう</rt></ruby>しやすいかどうか、みんなで<ruby>調<rt>しら</rt></ruby>べて<ruby>紹介<rt>しょうかい</rt></ruby>しているスマートフォンのアプリがあります。
+image_url: https://newswebeasy.github.io/ja201807/news/web/image/2018/07/04/K10011507541_1807040050_1807040051_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201807/news/easy/voice/2018/07/04/k10011507541000.mp4
+content_with_ruby: "<p><ruby>建物<rt>たてもの</rt></ruby>や<ruby>道<rt>みち</rt></ruby>が、<span\
+  \ style=\"color: blue;\"><ruby>車<rt>くるま</rt></ruby>いす</span>を<ruby>使<rt>つか</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>に<ruby>利用<rt>りよう</rt></ruby>しやすいかどうか、みんなで<ruby>調<rt>しら</rt></ruby>べて<ruby>紹介<rt>しょうかい</rt></ruby>しているスマートフォンのアプリがあります。</p>\n\
+  <p><ruby>３日<rt>みっか</rt></ruby>、<ruby>群馬県<rt>ぐんまけん</rt></ruby><ruby>伊勢崎<rt>いせさき</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>高校生<rt>こうこうせい</rt></ruby>３３<ruby>人<rt>にん</rt></ruby>が、<ruby>学校<rt>がっこう</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くの<ruby>建物<rt>たてもの</rt></ruby>や<ruby>道<rt>みち</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>車<rt>くるま</rt></ruby>いす</span>で<ruby>回<rt>まわ</rt></ruby>って、トイレやエレベーターを<ruby>調<rt>しら</rt></ruby>べました。そして、<ruby>利用<rt>りよう</rt></ruby>しやすい<ruby>場所<rt>ばしょ</rt></ruby>は、アプリの<ruby>地図<rt>ちず</rt></ruby>に<ruby>写真<rt>しゃしん</rt></ruby>や<ruby>説明<rt>せつめい</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して<ruby>紹介<rt>しょうかい</rt></ruby>しました。</p>\n\
+  <p><ruby>高校生<rt>こうこうせい</rt></ruby>の<ruby>１人<rt>ひとり</rt></ruby>は「<span style=\"color:\
+  \ blue;\"><ruby>車<rt>くるま</rt></ruby>いす</span>に<ruby>乗<rt>の</rt></ruby>ってみて、<ruby>道<rt>みち</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さが<ruby>違<rt>ちが</rt></ruby>うと<ruby>利用<rt>りよう</rt></ruby>しにくいことがわかりました」と<ruby>話<rt>はな</rt></ruby>していました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 車椅子
+  descriptions:
+  - <ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>病気</rb><rt>びょうき</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>などが、<ruby><rb>腰</rb><rt>こし</rt></ruby>かけたまま<ruby><rb>移動</rb><rt>いどう</rt></ruby>できるように<ruby><rb>車</rb><rt>くるま</rt></ruby>をつけた、いす。
+source_url: http://www3.nhk.or.jp/news/easy/k10011507541000/k10011507541000.html
+web_title_with_ruby: <ruby>車<rt>くるま</rt></ruby>いすの<ruby>人<rt>ひと</rt></ruby>も<ruby>利用<rt>りよう</rt></ruby>しやすい<ruby>施設<rt>しせつ</rt></ruby>は？
+  <ruby>高校生<rt>こうこうせい</rt></ruby>が<ruby>アプリ<rt>あぷり</rt></ruby>で<ruby>学習<rt>がくしゅう</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/07/04/車いすの人も利用しやすい施設は-高校生がアプリで学習
+related_news:
+- title: フェイスブック　<ruby>自分<rt>じぶん</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るための<ruby>新<rt>あたら</rt></ruby>しい<ruby>機能<rt>きのう</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/05/07/フェイスブック-自分の情報を守るための新しい機能
+- title: <ruby>成田空港<rt>なりたくうこう</rt></ruby>　ＬＣＣのための「<ruby>第<rt>だい</rt></ruby>３ターミナル」を<ruby>広<rt>ひろ</rt></ruby>くする
+  url: https://newswebeasy.github.io/news/easy/2018/05/01/成田空港-LCCのための第3ターミナルを広くする
+- title: フェイスブック「８７００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>不正<rt>ふせい</rt></ruby>に<ruby>使<rt>つか</rt></ruby>われた」
+  url: https://newswebeasy.github.io/news/easy/2018/04/05/フェイスブック8700万人の情報が不正に使われた
+- title: <ruby>外国人<rt>がいこくじん</rt></ruby>に<ruby>人気<rt>にんき</rt></ruby>がある<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>古<rt>ふる</rt></ruby>い<ruby>家<rt>いえ</rt></ruby>を「<ruby>民泊<rt>みんぱく</rt></ruby>」で<ruby>利用<rt>りよう</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2018/06/05/外国人に人気がある日本の古い家を民泊で利用する
+...
