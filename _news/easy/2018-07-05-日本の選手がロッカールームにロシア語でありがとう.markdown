@@ -1,0 +1,82 @@
+---
+layout: easy_news
+categories: easy
+cate: 7
+newsid: k10011506591000
+last_modified_at: '2018-07-05T17:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>07<ruby>月<rt>がつ</rt></ruby>05<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: ロシアで行っているサッカーのワールドカップで、日本はベルギーと試合をして負けました。
+title: 日本の選手がロッカールームにロシア語で「ありがとう」
+title_with_ruby: <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>がロッカールームにロシア<ruby>語<rt>ご</rt></ruby>で「ありがとう」
+outline: ロシアで行っているサッカーのワールドカップで、日本はベルギーと試合をして負けました。
+outline_with_ruby: ロシアで<ruby>行<rt>おこな</rt></ruby>っているサッカーのワールドカップで、<ruby>日本<rt>にっぽん</rt></ruby>はベルギーと<ruby>試合<rt>しあい</rt></ruby>をして<ruby>負<rt>ま</rt></ruby>けました。
+image_url: https://newswebeasy.github.io/ja201807/news/web/image/2018/07/03/K10011506591_1807031634_1807031636_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201807/news/easy/voice/2018/07/05/k10011506591000.mp4
+content_with_ruby: "<p>ロシアで<ruby>行<rt>おこな</rt></ruby>っている<span style=\"color: blue;\"\
+  >サッカー</span>の<span style=\"color: blue;\">ワールドカップ</span>で、<ruby>日本<rt>にっぽん</rt></ruby>はベルギーと<ruby>試合<rt>しあい</rt></ruby>をして<ruby>負<rt>ま</rt></ruby>けました。</p>\n\
+  <p>この<ruby>試合<rt>しあい</rt></ruby>のあと、<span style=\"color: blue;\">ワールドカップ</span>と<ruby>関係<rt>かんけい</rt></ruby>がある<ruby>人<rt>ひと</rt></ruby>がインターネットのツイッターに「ベルギーに<ruby>負<rt>ま</rt></ruby>けたあとの<ruby>日本<rt>にっぽん</rt></ruby>のロッカー<span\
+  \ style=\"color: blue;\">ルーム</span>です」と<ruby>書<rt>か</rt></ruby>いて、<ruby>試合<rt>しあい</rt></ruby>の<ruby>会場<rt>かいじょう</rt></ruby>で<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>たちが<ruby>使<rt>つか</rt></ruby>う<ruby>部屋<rt>へや</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>出<rt>だ</rt></ruby>しました。<ruby>部屋<rt>へや</rt></ruby>はきれいに<ruby>掃除<rt>そうじ</rt></ruby>してあって、テーブルの<ruby>上<rt>うえ</rt></ruby>にはロシア<ruby>語<rt>ご</rt></ruby>で「ありがとう」と<ruby>書<rt>か</rt></ruby>いた<span\
+  \ style=\"color: blue;\">メモ</span>があります。</p>\n<p><ruby>写真<rt>しゃしん</rt></ruby>を<ruby>出<rt>だ</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>は「<ruby>日本<rt>にっぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>選手<rt>せんしゅ</rt></ruby></span>は<ruby>試合<rt>しあい</rt></ruby>を<ruby>見<rt>み</rt></ruby>ていた<ruby>人<rt>ひと</rt></ruby>たちに<span\
+  \ style=\"color: blue;\"><ruby>感謝<rt>かんしゃ</rt></ruby></span>したあと、<ruby>自分<rt>じぶん</rt></ruby>たちが<ruby>使<rt>つか</rt></ruby>った<span\
+  \ style=\"color: blue;\">ベンチ</span>と<ruby>部屋<rt>へや</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>しました。<ruby>残<rt>のこ</rt></ruby>っていた<ruby>物<rt>もの</rt></ruby>は『ありがとう』という<span\
+  \ style=\"color: blue;\">メモ</span>だけです。<ruby>日本<rt>にっぽん</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby>の<ruby>国<rt>くに</rt></ruby>の<span\
+  \ style=\"color: blue;\">チーム</span>の<span style=\"color: blue;\"><ruby>手本<rt>てほん</rt></ruby></span>です」と<ruby>英語<rt>えいご</rt></ruby>でツイッターに<ruby>書<rt>か</rt></ruby>きました。</p>\n\
+  <p>このツイッターを<ruby>見<rt>み</rt></ruby>て<ruby>友達<rt>ともだち</rt></ruby>などに<ruby>教<rt>おし</rt></ruby>えた<ruby>人<rt>ひと</rt></ruby>は、５<ruby>時間<rt>じかん</rt></ruby>ぐらいで１<ruby>万<rt>まん</rt></ruby>７０００<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりました。「<span\
+  \ style=\"color: blue;\"><ruby>地球<rt>ちきゅう</rt></ruby></span>でいちばん<span style=\"\
+  color: blue;\"><ruby>尊敬<rt>そんけい</rt></ruby></span>する<ruby>人<rt>ひと</rt></ruby>たちです」などと<ruby>言<rt>い</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>もたくさんいました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 選手
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: ルーム
+  descriptions:
+  - <ruby><rb>部屋</rb><rt>へや</rt></ruby>。<ruby><rb>室</rb><rt>しつ</rt></ruby>。
+- word: サッカー
+  descriptions:
+  - １１<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの<ruby><rb>２</rb><rt>に</rt></ruby>チームが、<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>わずに、ボールを<ruby><rb>相手</rb><rt>あいて</rt></ruby>のゴールにけりこんで<ruby><rb>得点</rb><rt>とくてん</rt></ruby>をきそう<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。フットボール。
+- word: ワールドカップ
+  descriptions:
+  - スポーツ<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>の<ruby><rb>世界選手権大会</rb><rt>せかいせんしゅけんたいかい</rt></ruby>の<ruby><rb>優勝者</rb><rt>ゆうしょうしゃ</rt></ruby>にあたえられるカップ。また、そのカップを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>W杯</rb><rt>ダブリューはい</rt></ruby>。
+- word: メモ
+  descriptions:
+  - <ruby><rb>忘</rb><rt>わす</rt></ruby>れないように<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、その<ruby><rb>紙</rb><rt>かみ</rt></ruby>やノート。<ruby><rb>覚</rb><rt>おぼ</rt></ruby>え<ruby><rb>書</rb><rt>が</rt></ruby>き。
+- word: 感謝
+  descriptions:
+  - ありがたいと<ruby><rb>思</rb><rt>おも</rt></ruby>う<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。また、その<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。
+- word: ベンチ
+  descriptions:
+  - <ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>腰</rb><rt>こし</rt></ruby>かけ。<ruby><rb>長</rb><rt>なが</rt></ruby>いす。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>などで、<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>・<ruby><rb>監督</rb><rt>かんとく</rt></ruby>のいる<ruby><rb>席</rb><rt>せき</rt></ruby>。また、<ruby><rb>作戦</rb><rt>さくせん</rt></ruby>を<ruby><rb>指示</rb><rt>しじ</rt></ruby>する<ruby><rb>監督</rb><rt>かんとく</rt></ruby>・コーチ。
+- word: チーム
+  descriptions:
+  - <ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。
+- word: 手本
+  descriptions:
+  - <ruby><rb>字</rb><rt>じ</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>をかくとき、<ruby><rb>見習</rb><rt>みなら</rt></ruby>って<ruby><rb>練習</rb><rt>れんしゅう</rt></ruby>するための<ruby><rb>本</rb><rt>ほん</rt></ruby>。
+  - <ruby><rb>見習</rb><rt>みなら</rt></ruby>うだけの<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちがある<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>行</rb><rt>おこな</rt></ruby>い。
+- word: 地球
+  descriptions:
+  - <ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>３番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。
+- word: 尊敬
+  descriptions:
+  - <ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>心</rb><rt>こころ</rt></ruby>からえらいと<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。
+source_url: http://www3.nhk.or.jp/news/easy/k10011506591000/k10011506591000.html
+web_title_with_ruby: <ruby>ロシア<rt>ろしあ</rt></ruby><ruby>語<rt>ご</rt></ruby>で「ありがとう」
+  <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>控<rt>ひか</rt></ruby>え<ruby>室<rt>しつ</rt></ruby>が<ruby>ネット<rt>ねっと</rt></ruby>で<ruby>話題<rt>わだい</rt></ruby>に
+web_news_url: https://newswebeasy.github.io/news/web/2018/07/03/ロシア語でありがとう-日本の控え室がネットで話題に
+related_news:
+- title: サッカーのワールドカップ　<ruby>日本<rt>にっぽん</rt></ruby>がベルギーに<ruby>負<rt>ま</rt></ruby>ける
+  url: https://newswebeasy.github.io/news/easy/2018/07/03/サッカーのワールドカップ-日本がベルギーに負ける
+- title: サッカーのワールドカップ　<ruby>日本<rt>にっぽん</rt></ruby>がコロンビアに<ruby>勝<rt>か</rt></ruby>つ
+  url: https://newswebeasy.github.io/news/easy/2018/06/20/サッカーのワールドカップ-日本がコロンビアに勝つ
+- title: ワールドカップ　<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>決勝<rt>けっしょう</rt></ruby>トーナメントに<ruby>進<rt>すす</rt></ruby>む
+  url: https://newswebeasy.github.io/news/easy/2018/06/29/ワールドカップ-日本が決勝トーナメントに進む
+- title: 「<ruby>大迫<rt>おおさこ</rt></ruby><ruby>半端<rt>はんぱ</rt></ruby>ない」という<ruby>言葉<rt>ことば</rt></ruby>がインターネットにたくさん<ruby>出<rt>で</rt></ruby>た
+  url: https://newswebeasy.github.io/news/easy/2018/06/21/大迫半端ないという言葉がインターネットにたくさん出た
+- title: サッカーの<ruby>日本<rt>にっぽん</rt></ruby><ruby>代表<rt>だいひょう</rt></ruby>の<ruby>監督<rt>かんとく</rt></ruby>が<ruby>交代<rt>こうたい</rt></ruby>する
+  url: https://newswebeasy.github.io/news/easy/2018/04/10/サッカーの日本代表の監督が交代する
+...

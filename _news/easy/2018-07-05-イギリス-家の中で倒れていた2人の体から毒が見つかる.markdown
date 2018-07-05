@@ -1,0 +1,61 @@
+---
+layout: easy_news
+categories: easy
+cate: 6
+newsid: k10011509301000
+last_modified_at: '2018-07-05T17:00:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>07<ruby>月<rt>がつ</rt></ruby>05<ruby>日<rt>にち</rt></ruby>
+  17<ruby>時<rt>じ</rt></ruby>00<ruby>分<rt>ふん</rt></ruby>
+description: イギリスのエイムズベリーという町で先月３０日、４０歳ぐらいの男性と女性のイギリス人が家の中で倒れていました。
+title: イギリス　家の中で倒れていた２人の体から毒が見つかる
+title_with_ruby: イギリス　<ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>倒<rt>たお</rt></ruby>れていた<ruby>２人<rt>ふたり</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>から<ruby>毒<rt>どく</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかる
+outline: イギリスのエイムズベリーという町で先月３０日、４０歳ぐらいの男性と女性のイギリス人が家の中で倒れていました。
+outline_with_ruby: イギリスのエイムズベリーという<ruby>町<rt>まち</rt></ruby>で<ruby>先月<rt>せんげつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>、４０<ruby>歳<rt>さい</rt></ruby>ぐらいの<ruby>男性<rt>だんせい</rt></ruby>と<ruby>女性<rt>じょせい</rt></ruby>のイギリス<ruby>人<rt>じん</rt></ruby>が<ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>倒<rt>たお</rt></ruby>れていました。
+image_url: https://newswebeasy.github.io/ja201807/news/web/image/2018/07/05/K10011509301_1807050741_1807050748_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201807/news/easy/voice/2018/07/05/k10011509301000.mp4
+content_with_ruby: "<p>イギリスのエイムズベリーという<ruby>町<rt>まち</rt></ruby>で<ruby>先月<rt>せんげつ</rt></ruby>３０<ruby>日<rt>にち</rt></ruby>、４０<ruby>歳<rt>さい</rt></ruby>ぐらいの<ruby>男性<rt>だんせい</rt></ruby>と<ruby>女性<rt>じょせい</rt></ruby>のイギリス<ruby>人<rt>じん</rt></ruby>が<ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>倒<rt>たお</rt></ruby>れていました。<ruby>警察<rt>けいさつ</rt></ruby>が<ruby>調<rt>しら</rt></ruby>べると、<ruby>２人<rt>ふたり</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>から「ノビチョク」という<span\
+  \ style=\"color: blue;\"><ruby>毒<rt>どく</rt></ruby></span>が<ruby>見<rt>み</rt></ruby>つかりました。</p>\n\
+  <p><ruby>今年<rt>ことし</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>、<ruby>２人<rt>ふたり</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>から１１ｋｍぐらいの<ruby>所<rt>ところ</rt></ruby>にある<ruby>町<rt>まち</rt></ruby>で、ロシアの<span\
+  \ style=\"color: blue;\">スパイ</span>をしていた<ruby>男性<rt>だんせい</rt></ruby>と<ruby>娘<rt>むすめ</rt></ruby>がノビチョクで<span\
+  \ style=\"color: blue;\"><ruby>殺<rt>ころ</rt></ruby>さ</span>れそうになる<span style=\"color:\
+  \ blue;\"><ruby>事件<rt>じけん</rt></ruby></span>がありました。</p>\n<p><ruby>警察<rt>けいさつ</rt></ruby>は、２つの<span\
+  \ style=\"color: blue;\"><ruby>事件<rt>じけん</rt></ruby></span>で<ruby>使<rt>つか</rt></ruby>われたノビチョクが<ruby>同<rt>おな</rt></ruby>じかどうかまだわからないと<ruby>言<rt>い</rt></ruby>っています。そして、<ruby>２人<rt>ふたり</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>かに<span\
+  \ style=\"color: blue;\"><ruby>殺<rt>ころ</rt></ruby>さ</span>れるような<ruby>仕事<rt>しごと</rt></ruby>をしていないし、<span\
+  \ style=\"color: blue;\">スパイ</span>だった<ruby>男性<rt>だんせい</rt></ruby>と<ruby>娘<rt>むすめ</rt></ruby>が<span\
+  \ style=\"color: blue;\"><ruby>殺<rt>ころ</rt></ruby>さ</span>れそうになった<ruby>場所<rt>ばしょ</rt></ruby>にも<ruby>行<rt>い</rt></ruby>っていないようだと<ruby>話<rt>はな</rt></ruby>しています。しかし、<ruby>警察<rt>けいさつ</rt></ruby>は２つの<span\
+  \ style=\"color: blue;\"><ruby>事件<rt>じけん</rt></ruby></span>の<ruby>関係<rt>かんけい</rt></ruby>を<span\
+  \ style=\"color: blue;\"><ruby>詳<rt>くわ</rt></ruby>しく</span><ruby>調<rt>しら</rt></ruby>べています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 毒
+  descriptions:
+  - <ruby><rb>害</rb><rt>がい</rt></ruby>のあるもの。<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>傷</rb><rt>きず</rt></ruby>つけるもの。
+- word: スパイ
+  descriptions:
+  - <ruby><rb>敵</rb><rt>てき</rt></ruby>の<ruby><rb>内部</rb><rt>ないぶ</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>って、<ruby><rb>秘密</rb><rt>ひみつ</rt></ruby>をさぐること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。
+- word: 殺す
+  descriptions:
+  - <ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。
+  - （<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。
+  - <ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。
+  - <ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。
+- word: 事件
+  descriptions:
+  - ふだんないような、できごと。
+- word: 詳しい
+  descriptions:
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かい。
+  - <ruby><rb>細</rb><rt>こま</rt></ruby>かいことまでよく<ruby><rb>知</rb><rt>し</rt></ruby>っている。
+source_url: http://www3.nhk.or.jp/news/easy/k10011509301000/k10011509301000.html
+web_title_with_ruby: <ruby>英<rt>えい</rt></ruby> <ruby>意識<rt>いしき</rt></ruby><ruby>不明<rt>ふめい</rt></ruby>の<ruby>男女<rt>だんじょ</rt></ruby>２<ruby>人<rt>にん</rt></ruby>から<ruby>神経<rt>しんけい</rt></ruby><ruby>剤<rt>ざい</rt></ruby><ruby>ノビチョク<rt>のびちょく</rt></ruby>を<ruby>検出<rt>けんしゅつ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/07/05/英-意識不明の男女2人から神経剤ノビチョクを検出
+related_news:
+- title: <ruby>新潟県<rt>にいがたけん</rt></ruby>で<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>が<ruby>殺<rt>ころ</rt></ruby>された<ruby>事件<rt>じけん</rt></ruby>　２３<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>を<ruby>逮捕<rt>たいほ</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/05/15/新潟県で女の子が殺された事件-23歳の男を逮捕
+- title: カナダ　<ruby>車<rt>くるま</rt></ruby>が<ruby>歩<rt>ある</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>をはねて１０<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる
+  url: https://newswebeasy.github.io/news/easy/2018/04/25/カナダ-車が歩いている人をはねて10人が亡くなる
+- title: １８<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>家族<rt>かぞく</rt></ruby>が<ruby>殺<rt>ころ</rt></ruby>された<ruby>事件<rt>じけん</rt></ruby>「<ruby>犯人<rt>はんにん</rt></ruby>は１５<ruby>歳<rt>さい</rt></ruby>から２９<ruby>歳<rt>さい</rt></ruby>」
+  url: https://newswebeasy.github.io/news/easy/2018/05/23/18年前に家族が殺された事件犯人は15歳から29歳
+- title: <ruby>仕事中<rt>しごとちゅう</rt></ruby>に２<ruby>年<rt>ねん</rt></ruby>で４４０<ruby>回<rt>かい</rt></ruby>たばこを<ruby>吸<rt>す</rt></ruby>いに<ruby>行<rt>い</rt></ruby>って<ruby>注意<rt>ちゅうい</rt></ruby>される
+  url: https://newswebeasy.github.io/news/easy/2018/06/06/仕事中に2年で440回たばこを吸いに行って注意される
+...

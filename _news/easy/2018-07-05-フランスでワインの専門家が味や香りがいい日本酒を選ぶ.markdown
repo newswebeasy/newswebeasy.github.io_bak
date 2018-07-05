@@ -1,0 +1,56 @@
+---
+layout: easy_news
+categories: easy
+cate: 6
+newsid: k10011507731000
+last_modified_at: '2018-07-05T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>07<ruby>月<rt>がつ</rt></ruby>05<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: フランスでは最近日本酒を楽しむ人が増えています。
+title: フランスでワインの専門家が味や香りがいい日本酒を選ぶ
+title_with_ruby: フランスでワインの<ruby>専門家<rt>せんもんか</rt></ruby>が<ruby>味<rt>あじ</rt></ruby>や<ruby>香<rt>かお</rt></ruby>りがいい<ruby>日本酒<rt>にほんしゅ</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ
+outline: フランスでは最近日本酒を楽しむ人が増えています。
+outline_with_ruby: フランスでは<ruby>最近<rt>さいきん</rt></ruby><ruby>日本酒<rt>にほんしゅ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむ<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。
+image_url: https://newswebeasy.github.io/ja201807/news/web/image/2018/07/04/K10011507731_1807040610_1807040619_01_02.jpg
+voice_url: https://newswebeasy.github.io/ja201807/news/easy/voice/2018/07/05/k10011507731000.mp4
+content_with_ruby: "<p>フランスでは<ruby>最近<rt>さいきん</rt></ruby><span style=\"color: blue;\"\
+  ><ruby>日本酒<rt>にほんしゅ</rt></ruby></span>を<ruby>楽<rt>たの</rt></ruby>しむ<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。<ruby>去年<rt>きょねん</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>がフランスに<ruby>輸出<rt>ゆしゅつ</rt></ruby>した<span\
+  \ style=\"color: blue;\"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span>は、５<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の３<ruby>倍<rt>ばい</rt></ruby>の２<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になりました。</p>\n\
+  <p>フランスで<ruby>３日<rt>みっか</rt></ruby>、<span style=\"color: blue;\">ワイン</span>の<ruby>専門家<rt>せんもんか</rt></ruby>が６５０<ruby>本<rt>ぽん</rt></ruby>の<span\
+  \ style=\"color: blue;\"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span>の<ruby>中<rt>なか</rt></ruby>から<ruby>味<rt>あじ</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>香<rt>かお</rt></ruby>り</span>がいい１００<ruby>本<rt>ぽん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んで<span\
+  \ style=\"color: blue;\"><ruby>発表<rt>はっぴょう</rt></ruby></span>しました。いちばんすばらしい<span\
+  \ style=\"color: blue;\"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span>には、<ruby>大分県<rt>おおいたけん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>のお<ruby>酒<rt>さけ</rt></ruby>が<ruby>選<rt>えら</rt></ruby>ばれました。この<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>社長<rt>しゃちょう</rt></ruby>は「これからもいい<span\
+  \ style=\"color: blue;\"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span>を<ruby>輸出<rt>ゆしゅつ</rt></ruby>したいです」と<ruby>話<rt>はな</rt></ruby>しました。</p>\n\
+  <p><ruby>会場<rt>かいじょう</rt></ruby>に<ruby>集<rt>あつ</rt></ruby>まった<ruby>人<rt>ひと</rt></ruby>たちは、<span\
+  \ style=\"color: blue;\"><ruby>賞<rt>しょう</rt></ruby></span>をもらった<span style=\"color:\
+  \ blue;\"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span>を<ruby>飲<rt>の</rt></ruby>んで<ruby>味<rt>あじ</rt></ruby>や<span\
+  \ style=\"color: blue;\"><ruby>香<rt>かお</rt></ruby>り</span>を<ruby>楽<rt>たの</rt></ruby>しみました。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: ワイン
+  descriptions:
+  - ブドウの<ruby><rb>実</rb><rt>み</rt></ruby>のしるを<ruby><rb>発酵</rb><rt>はっこう</rt></ruby>させて<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>酒</rb><rt>さけ</rt></ruby>。ぶどう<ruby><rb>酒</rb><rt>しゅ</rt></ruby>。
+- word: 香り
+  descriptions:
+  - いいにおい。
+  - そのものから<ruby><rb>感</rb><rt>かん</rt></ruby>じられる<ruby><rb>品</rb><rt>ひん</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>さ。
+- word: 日本酒
+  descriptions:
+  - <ruby><rb>米</rb><rt>こめ</rt></ruby>から<ruby><rb>造</rb><rt>つく</rt></ruby>る、<ruby><rb>日本特有</rb><rt>にっぽんとくゆう</rt></ruby>の<ruby><rb>酒</rb><rt>さけ</rt></ruby>。<ruby><rb>清酒</rb><rt>せいしゅ</rt></ruby>。
+- word: 発表
+  descriptions:
+  - <ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。
+- word: 賞
+  descriptions:
+  - ほめる。たたえる。
+  - ほうび。
+  - <ruby><rb>味</rb><rt>あじ</rt></ruby>わって<ruby><rb>楽</rb><rt>たの</rt></ruby>しむ。
+source_url: http://www3.nhk.or.jp/news/easy/k10011507731000/k10011507731000.html
+web_title_with_ruby: <ruby>人気<rt>にんき</rt></ruby>の<ruby>日本酒<rt>にほんしゅ</rt></ruby> <ruby>仏<rt>ほとけ</rt></ruby>の<ruby>ソムリエ<rt>そむりえ</rt></ruby>が<ruby>コンクール<rt>こんくーる</rt></ruby>
+  <ruby>最優秀<rt>さいゆうしゅう</rt></ruby>は<ruby>大分<rt>おおいた</rt></ruby>の<ruby>酒<rt>さけ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/07/04/人気の日本酒-仏のソムリエがコンクール-最優秀は大分の酒
+related_news:
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>広州<rt>こうしゅう</rt></ruby>で<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>観光<rt>かんこう</rt></ruby>と<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>するイベント
+  url: https://newswebeasy.github.io/news/easy/2018/06/25/中国の広州で日本の観光と食べ物を紹介するイベント
+...
