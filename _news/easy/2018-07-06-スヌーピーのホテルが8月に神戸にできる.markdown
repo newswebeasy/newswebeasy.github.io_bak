@@ -1,0 +1,71 @@
+---
+layout: easy_news
+categories: easy
+cate: 2
+newsid: k10011508191000
+last_modified_at: '2018-07-06T12:30:00+09:00'
+datetime: 2018<ruby>年<rt>ねん</rt></ruby>07<ruby>月<rt>がつ</rt></ruby>06<ruby>日<rt>にち</rt></ruby>
+  12<ruby>時<rt>じ</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>
+description: 「スヌーピー」はアメリカの漫画「ピーナッツ」の人気のキャラクターです。
+title: 「スヌーピー」のホテルが８月に神戸にできる
+title_with_ruby: 「スヌーピー」のホテルが８<ruby>月<rt>がつ</rt></ruby>に<ruby>神戸<rt>こうべ</rt></ruby>にできる
+outline: 「スヌーピー」はアメリカの漫画「ピーナッツ」の人気のキャラクターです。
+outline_with_ruby: 「スヌーピー」はアメリカの<ruby>漫画<rt>まんが</rt></ruby>「ピーナッツ」の<ruby>人気<rt>にんき</rt></ruby>のキャラクターです。
+image_url: https://newswebeasy.github.io/ja201807/news/web/image/2018/07/04/K10011508191_1807041555_1807041633_01_03.jpg
+voice_url: https://newswebeasy.github.io/ja201807/news/easy/voice/2018/07/06/k10011508191000.mp4
+content_with_ruby: "<p>「スヌーピー」はアメリカの<ruby>漫画<rt>まんが</rt></ruby>「ピーナッツ」の<span style=\"\
+  color: blue;\"><ruby>人気<rt>にんき</rt></ruby></span>の<span style=\"color: blue;\">キャラクター</span>です。この<ruby>漫画<rt>まんが</rt></ruby>は１９５０<ruby>年<rt>ねん</rt></ruby>から２０００<ruby>年<rt>ねん</rt></ruby>までアメリカの<ruby>新聞<rt>しんぶん</rt></ruby>に<ruby>出<rt>で</rt></ruby>ていました。<ruby>来月<rt>らいげつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>、スヌーピーを<span\
+  \ style=\"color: blue;\">テーマ</span>にしたホテルが<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>兵庫県<rt>ひょうごけん</rt></ruby>の<ruby>神戸<rt>こうべ</rt></ruby>にできます。</p>\n\
+  <p>ホテルにある<ruby>全部<rt>ぜんぶ</rt></ruby>で１８の<ruby>部屋<rt>へや</rt></ruby>には、<span style=\"\
+  color: blue;\"><ruby>友情<rt>ゆうじょう</rt></ruby></span>や<span style=\"color: blue;\"\
+  ><ruby>恋<rt>こい</rt></ruby></span>などを<span style=\"color: blue;\">テーマ</span>にした<ruby>漫画<rt>まんが</rt></ruby>の<ruby>絵<rt>え</rt></ruby>が<ruby>飾<rt>かざ</rt></ruby>ってあります。<ruby>壁<rt>かべ</rt></ruby>には<span\
+  \ style=\"color: blue;\">キャラクター</span>や<ruby>漫画<rt>まんが</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>などがかいてあります。レストランでは、スヌーピーが<ruby>好<rt>す</rt></ruby>きな<span\
+  \ style=\"color: blue;\">ピザ</span>や、ほかの<span style=\"color: blue;\">キャラクター</span>を<span\
+  \ style=\"color: blue;\">イメージ</span>したチョコレートケーキなどを<ruby>食<rt>た</rt></ruby>べることができます。</p>\n\
+  <p>ホテルの<ruby>会社<rt>かいしゃ</rt></ruby>は「<ruby>神戸<rt>こうべ</rt></ruby>はこの<ruby>漫画<rt>まんが</rt></ruby>が<ruby>生<rt>う</rt></ruby>まれたまちと<span\
+  \ style=\"color: blue;\"><ruby>雰囲気<rt>ふんいき</rt></ruby></span>が<ruby>似<rt>に</rt></ruby>ています」と<ruby>話<rt>はな</rt></ruby>しています。</p>\n\
+  <p></p>\n<p></p>"
+words:
+- word: 人気
+  descriptions:
+  - <ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。
+- word: キャラクター
+  descriptions:
+  - <ruby><rb>性格</rb><rt>せいかく</rt></ruby>。<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>味</rb><rt>あじ</rt></ruby>。
+  - まんが・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>劇</rb><rt>げき</rt></ruby>などに<ruby><rb>出</rb><rt>で</rt></ruby>てくる<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。
+- word: テーマ
+  descriptions:
+  - <ruby><rb>作品</rb><rt>さくひん</rt></ruby>にかかれていることの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。また、<ruby><rb>作品</rb><rt>さくひん</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になっている<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>主題</rb><rt>しゅだい</rt></ruby>。
+  - <ruby><rb>論文</rb><rt>ろんぶん</rt></ruby>や、<ruby><rb>演説</rb><rt>えんぜつ</rt></ruby>の<ruby><rb>題目</rb><rt>だいもく</rt></ruby>。
+  - <ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>曲</rb><rt>きょく</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となっているメロディー。
+- word: 友情
+  descriptions:
+  - <ruby><rb>友達</rb><rt>ともだち</rt></ruby>どうしの<ruby><rb>思</rb><rt>おも</rt></ruby>いやりや、まごころ。
+- word: 恋
+  descriptions:
+  - <ruby><rb>異性</rb><rt>いせい</rt></ruby>を<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>に<ruby><rb>好</rb><rt>す</rt></ruby>きになる<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。<ruby><rb>恋愛</rb><rt>れんあい</rt></ruby>。
+- word: ピザ
+  descriptions:
+  - こねた<ruby><rb>小麦粉</rb><rt>こむぎこ</rt></ruby>の<ruby><rb>生地</rb><rt>きじ</rt></ruby>に、チーズ・トマト・サラミなどをのせて<ruby><rb>焼</rb><rt>や</rt></ruby>いたイタリアふうのパイ。ピッツァ。
+- word: イメージ
+  descriptions:
+  - <ruby><rb>想像</rb><rt>そうぞう</rt></ruby>して、<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にえがき<ruby><rb>出</rb><rt>だ</rt></ruby>す、ものの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>姿</rb><rt>すがた</rt></ruby>。
+- word: 雰囲気
+  descriptions:
+  - その<ruby><rb>場</rb><rt>ば</rt></ruby>の<ruby><rb>感</rb><rt>かん</rt></ruby>じや<ruby><rb>気分</rb><rt>きぶん</rt></ruby>。
+source_url: http://www3.nhk.or.jp/news/easy/k10011508191000/k10011508191000.html
+web_title_with_ruby: <ruby>スヌーピー<rt>すぬーぴー</rt></ruby>を<ruby>テーマ<rt>てーま</rt></ruby>にした<ruby>国内初<rt>こくないはつ</rt></ruby>の<ruby>ホテル<rt>ほてる</rt></ruby>が<ruby>オープン<rt>おーぷん</rt></ruby>へ
+  <ruby>神戸<rt>こうべ</rt></ruby>
+web_news_url: https://newswebeasy.github.io/news/web/2018/07/04/スヌーピーをテーマにした国内初のホテルがオープンへ-神戸
+related_news:
+- title: <ruby>漫画<rt>まんが</rt></ruby>「<ruby>鉄腕<rt>てつわん</rt></ruby>アトム」の１ページがオークションで３５００<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/05/08/漫画鉄腕アトムの1ページがオークションで3500万円
+- title: ＮＴＴが<ruby>漫画<rt>まんが</rt></ruby>などの<ruby>海賊版<rt>かいぞくばん</rt></ruby>サイトを<ruby>見<rt>み</rt></ruby>ることができなくする
+  url: https://newswebeasy.github.io/news/easy/2018/04/24/NTTが漫画などの海賊版サイトを見ることができなくする
+- title: <ruby>東京<rt>とうきょう</rt></ruby>オリンピック　<ruby>横浜<rt>よこはま</rt></ruby>の<ruby>港<rt>みなと</rt></ruby>で<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>をホテルにする
+  url: https://newswebeasy.github.io/news/easy/2018/06/27/東京オリンピック-横浜の港で大きな船をホテルにする
+- title: <ruby>東京都<rt>とうきょうと</rt></ruby>　ホテルの<ruby>代<rt>か</rt></ruby>わりに<ruby>使<rt>つか</rt></ruby>う<ruby>船<rt>ふね</rt></ruby>　スイスの<ruby>会社<rt>かいしゃ</rt></ruby>と<ruby>相談<rt>そうだん</rt></ruby>
+  url: https://newswebeasy.github.io/news/easy/2018/05/29/東京都-ホテルの代わりに使う船-スイスの会社と相談
+- title: <ruby>中国<rt>ちゅうごく</rt></ruby>　「ドラえもん」に<ruby>似<rt>に</rt></ruby>たキャラクターの<ruby>商標登録<rt>しょうひょうとうろく</rt></ruby>はだめ
+  url: https://newswebeasy.github.io/news/easy/2018/05/07/中国-ドラえもんに似たキャラクターの商標登録はだめ
+...
