@@ -1,0 +1,87 @@
+---
+layout: web_news
+categories: web
+cate: 8
+newsid: k10011521581000
+title: 千葉県で震度５弱 津波の心配なし
+title_with_ruby: <ruby>千葉県<rt data-ruby-level="3">ちばけん</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>弱<rt
+  data-ruby-level="2">じゃく</rt></ruby> <ruby>津波<rt data-ruby-level="7">つなみ</rt></ruby>の<ruby>心配<rt
+  data-ruby-level="3">しんぱい</rt></ruby>なし
+last_modified_at: '2018-07-07T20:26:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>07<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>07<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 20<ruby>時<rt data-ruby-level="2">じ</rt></ruby>26<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ７日午後８時23分ごろ、千葉県で震度５弱の揺れを観測する地震がありました。この地震による津波の心配はありません。
+summary: ７<ruby>日午後<rt data-ruby-level="2">にちごご</rt></ruby>８<ruby>時<rt data-ruby-level="2">じ</rt></ruby>23<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>ごろ、<ruby>千葉県<rt data-ruby-level="3">ちばけん</rt></ruby>で<ruby>震度<rt
+  data-ruby-level="7">しんど</rt></ruby>５<ruby>弱<rt data-ruby-level="2">じゃく</rt></ruby>の<ruby>揺<rt
+  data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>する<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>がありました。この<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>による<ruby>津波<rt
+  data-ruby-level="7">つなみ</rt></ruby>の<ruby>心配<rt data-ruby-level="3">しんぱい</rt></ruby>はありません。
+image_url: https://newswebeasy.github.io/ja201807/news/web/image/2018/07/07/K10011521581_1807072036_1807072045_01_02.jpg
+more: <ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>弱<rt data-ruby-level="2">じゃく</rt></ruby>の<ruby>揺<rt
+  data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>したのは<ruby>千葉県<rt
+  data-ruby-level="3">ちばけん</rt></ruby><ruby>長南町<rt data-ruby-level="2">ちょうなんまち</rt></ruby>で、<ruby>震度<rt
+  data-ruby-level="7">しんど</rt></ruby>４はいずれも<ruby>千葉県<rt data-ruby-level="3">ちばけん</rt></ruby>で、<ruby>千葉市<rt
+  data-ruby-level="3">ちばし</rt></ruby><ruby>中央区<rt data-ruby-level="3">ちゅうおうく</rt></ruby>、<ruby>館山市<rt
+  data-ruby-level="8">たてやまし</rt></ruby>、<ruby>市原市<rt data-ruby-level="2">いちはらし</rt></ruby>、<ruby>君津市<rt
+  data-ruby-level="7">きみつし</rt></ruby>など、<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>３が<ruby>茨城県<rt
+  data-ruby-level="8">いばらきけん</rt></ruby>、<ruby>栃木県<rt data-ruby-level="7">とちぎけん</rt></ruby>、<ruby>埼玉県<rt
+  data-ruby-level="7">さいたまけん</rt></ruby>、<ruby>東京<rt data-ruby-level="2">とうきょう</rt></ruby>、<ruby>神奈川県<rt
+  data-ruby-level="8">かながわけん</rt></ruby>、<ruby>山梨県<rt data-ruby-level="7">やまなしけん</rt></ruby>、<ruby>静岡県<rt
+  data-ruby-level="7">しずおかけん</rt></ruby>の<ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>で<ruby>観測<rt
+  data-ruby-level="5">かんそく</rt></ruby>しました。<br /><br />このほか、<ruby>東北<rt data-ruby-level="2">とうほく</rt></ruby>、<ruby>関東<rt
+  data-ruby-level="4">かんとう</rt></ruby><ruby>甲信越<rt data-ruby-level="7">こうしんえつ</rt></ruby>、<ruby>東海<rt
+  data-ruby-level="2">とうかい</rt></ruby>、<ruby>北陸<rt data-ruby-level="4">ほくりく</rt></ruby>の<ruby>各地<rt
+  data-ruby-level="4">かくち</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>２や１の<ruby>揺<rt
+  data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>しました。<br
+  /><br /><ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>の<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>によりますと、<ruby>震源地<rt
+  data-ruby-level="7">しんげんち</rt></ruby>は<ruby>千葉県<rt data-ruby-level="3">ちばけん</rt></ruby><ruby>東方<rt
+  data-ruby-level="2">とうほう</rt></ruby><ruby>沖<rt data-ruby-level="7">おき</rt></ruby>で<ruby>震源<rt
+  data-ruby-level="7">しんげん</rt></ruby>の<ruby>深<rt data-ruby-level="3">ふか</rt></ruby>さは50キロ、<ruby>地震<rt
+  data-ruby-level="7">じしん</rt></ruby>の<ruby>規模<rt data-ruby-level="6">きぼ</rt></ruby>を<ruby>示<rt
+  data-ruby-level="5">しめ</rt></ruby>すマグニチュードは6.0と<ruby>推定<rt data-ruby-level="6">すいてい</rt></ruby>されています。
+body:
+- title: <ruby>長南町<rt data-ruby-level="2">ちょうなんまち</rt></ruby> けが<ruby>人<rt data-ruby-level="1">にん</rt></ruby>の<ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby>なし
+  text: <ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>弱<rt data-ruby-level="2">じゃく</rt></ruby>の<ruby>揺<rt
+    data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>した<ruby>千葉県<rt
+    data-ruby-level="3">ちばけん</rt></ruby><ruby>長南町<rt data-ruby-level="2">ちょうなんまち</rt></ruby>などをエリアとする「<ruby>長生郡<rt
+    data-ruby-level="4">ちょうせいぐん</rt></ruby><ruby>市<rt data-ruby-level="2">し</rt></ruby><ruby>広域<rt
+    data-ruby-level="6">こういき</rt></ruby><ruby>市町村圏<rt data-ruby-level="7">しちょうそんけん</rt></ruby><ruby>組合<rt
+    data-ruby-level="2">くみあい</rt></ruby><ruby>消防<rt data-ruby-level="5">しょうぼう</rt></ruby><ruby>本部<rt
+    data-ruby-level="3">ほんぶ</rt></ruby>」によりますと、<ruby>今<rt data-ruby-level="2">いま</rt></ruby>のところ、この<ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>によるけが<ruby>人<rt data-ruby-level="1">にん</rt></ruby>などの<ruby>情報<rt
+    data-ruby-level="5">じょうほう</rt></ruby>は<ruby>入<rt data-ruby-level="1">はい</rt></ruby>っていないということです。
+- title: <ruby>千葉県<rt data-ruby-level="3">ちばけん</rt></ruby>での<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>弱以上<rt
+    data-ruby-level="4">じゃくいじょう</rt></ruby>は<ruby>平成<rt data-ruby-level="4">へいせい</rt></ruby>24<ruby>年以来<rt
+    data-ruby-level="4">ねんいらい</rt></ruby>
+  text: <ruby>千葉県<rt data-ruby-level="3">ちばけん</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>弱以上<rt
+    data-ruby-level="4">じゃくいじょう</rt></ruby>の<ruby>揺<rt data-ruby-level="7">ゆ</rt></ruby>れを<ruby>観測<rt
+    data-ruby-level="5">かんそく</rt></ruby>したのは、<ruby>平成<rt data-ruby-level="4">へいせい</rt></ruby>24<ruby>年<rt
+    data-ruby-level="1">ねん</rt></ruby>４<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>に<ruby>千葉県<rt
+    data-ruby-level="3">ちばけん</rt></ruby><ruby>北東部<rt data-ruby-level="3">ほくとうぶ</rt></ruby>を<ruby>震源<rt
+    data-ruby-level="7">しんげん</rt></ruby>とするマグニチュード5.8の<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>により、<ruby>旭市<rt
+    data-ruby-level="8">あさひし</rt></ruby>で<ruby>観測<rt data-ruby-level="5">かんそく</rt></ruby>して<ruby>以来<rt
+    data-ruby-level="4">いらい</rt></ruby>です。
+source_url: https://www3.nhk.or.jp/news/html/20180707/k10011521581000.html
+related_news:
+- title: <ruby>島根県<rt data-ruby-level="3">しまねけん</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>５<ruby>強<rt
+    data-ruby-level="2">きょう</rt></ruby> <ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>４の<ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>も<ruby>続<rt data-ruby-level="4">つづ</rt></ruby>く
+  url: https://newswebeasy.github.io/news/web/2018/04/09/島根県で震度5強-震度4の地震も続く
+- title: <ruby>大阪<rt data-ruby-level="8">おおさか</rt></ruby>で<ruby>震度<rt data-ruby-level="7">しんど</rt></ruby>６<ruby>弱<rt
+    data-ruby-level="2">じゃく</rt></ruby>の<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby>
+    <ruby>津波<rt data-ruby-level="7">つなみ</rt></ruby>なし
+  url: https://newswebeasy.github.io/news/web/2018/06/18/大阪で震度6弱の地震-津波なし
+- title: <ruby>大阪<rt data-ruby-level="8">おおさか</rt></ruby><ruby>北部<rt data-ruby-level="3">ほくぶ</rt></ruby><ruby>地震<rt
+    data-ruby-level="7">じしん</rt></ruby>１<ruby>週間<rt data-ruby-level="2">しゅうかん</rt></ruby>
+    <ruby>今後<rt data-ruby-level="2">こんご</rt></ruby>の<ruby>地震<rt data-ruby-level="7">じしん</rt></ruby><ruby>活動<rt
+    data-ruby-level="3">かつどう</rt></ruby>に<ruby>十分<rt data-ruby-level="2">じゅうぶん</rt></ruby><ruby>注意<rt
+    data-ruby-level="3">ちゅうい</rt></ruby>を <ruby>気象庁<rt data-ruby-level="6">きしょうちょう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/06/25/大阪北部地震1週間-今後の地震活動に十分注意を-気象庁
+- title: <ruby>地震<rt data-ruby-level="7">じしん</rt></ruby> <ruby>防犯<rt data-ruby-level="5">ぼうはん</rt></ruby>カメラが<ruby>捉<rt
+    data-ruby-level="7">とら</rt></ruby>えた<ruby>揺<rt data-ruby-level="7">ゆ</rt></ruby>れの<ruby>瞬間<rt
+    data-ruby-level="7">しゅんかん</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/06/25/地震-防犯カメラが捉えた揺れの瞬間
+...
