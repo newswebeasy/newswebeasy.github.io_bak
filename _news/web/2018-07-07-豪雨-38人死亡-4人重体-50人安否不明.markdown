@@ -1,0 +1,101 @@
+---
+layout: web_news
+categories: web
+cate: 8
+newsid: k10011520771000
+title: 豪雨 38人死亡 4人重体 50人安否不明
+title_with_ruby: <ruby>豪雨<rt data-ruby-level="7">ごうう</rt></ruby> 38<ruby>人<rt data-ruby-level="1">にん</rt></ruby><ruby>死亡<rt
+  data-ruby-level="6">しぼう</rt></ruby> 4<ruby>人<rt data-ruby-level="1">にん</rt></ruby><ruby>重体<rt
+  data-ruby-level="3">じゅうたい</rt></ruby> 50<ruby>人<rt data-ruby-level="1">にん</rt></ruby><ruby>安否<rt
+  data-ruby-level="6">あんぴ</rt></ruby><ruby>不明<rt data-ruby-level="4">ふめい</rt></ruby>
+last_modified_at: '2018-07-07T17:46:00+09:00'
+datetime: 2018<ruby>年<rt data-ruby-level="1">ねん</rt></ruby>07<ruby>月<rt data-ruby-level="1">がつ</rt></ruby>07<ruby>日<rt
+  data-ruby-level="1">にち</rt></ruby> 17<ruby>時<rt data-ruby-level="2">じ</rt></ruby>46<ruby>分<rt
+  data-ruby-level="2">ふん</rt></ruby>
+description: ＮＨＫが各地の警察や消防を取材してまとめたところ、今回の記録的な豪雨で、７日午後４時半現在、全国で38人が死亡し、４人が意識不明の重体になっているほか、少なくとも50人の安否が不明となっています。
+summary: ＮＨＫが<ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>の<ruby>警察<rt data-ruby-level="6">けいさつ</rt></ruby>や<ruby>消防<rt
+  data-ruby-level="5">しょうぼう</rt></ruby>を<ruby>取材<rt data-ruby-level="4">しゅざい</rt></ruby>してまとめたところ、<ruby>今回<rt
+  data-ruby-level="2">こんかい</rt></ruby>の<ruby>記録的<rt data-ruby-level="4">きろくてき</rt></ruby>な<ruby>豪雨<rt
+  data-ruby-level="7">ごうう</rt></ruby>で、７<ruby>日午後<rt data-ruby-level="2">にちごご</rt></ruby>４<ruby>時半<rt
+  data-ruby-level="2">じはん</rt></ruby><ruby>現在<rt data-ruby-level="5">げんざい</rt></ruby>、<ruby>全国<rt
+  data-ruby-level="3">ぜんこく</rt></ruby>で38<ruby>人<rt data-ruby-level="1">にん</rt></ruby>が<ruby>死亡<rt
+  data-ruby-level="6">しぼう</rt></ruby>し、４<ruby>人<rt data-ruby-level="1">にん</rt></ruby>が<ruby>意識<rt
+  data-ruby-level="5">いしき</rt></ruby><ruby>不明<rt data-ruby-level="4">ふめい</rt></ruby>の<ruby>重体<rt
+  data-ruby-level="3">じゅうたい</rt></ruby>になっているほか、<ruby>少<rt data-ruby-level="2">すく</rt></ruby>なくとも50<ruby>人<rt
+  data-ruby-level="1">にん</rt></ruby>の<ruby>安否<rt data-ruby-level="6">あんぴ</rt></ruby>が<ruby>不明<rt
+  data-ruby-level="4">ふめい</rt></ruby>となっています。
+image_url: https://newswebeasy.github.io/ja201807/news/web/image/2018/07/07/K10011520771_1807071508_1807071510_01_02.jpg
+body:
+- title: <ruby>死者<rt data-ruby-level="3">ししゃ</rt></ruby>38<ruby>人<rt data-ruby-level="1">にん</rt></ruby>
+  text: このうち、<ruby>広島県<rt data-ruby-level="3">ひろしまけん</rt></ruby>では、<ruby>東広島市<rt data-ruby-level="3">ひがしひろしまし</rt></ruby>で５<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>、<ruby>広島市<rt data-ruby-level="3">ひろしまし</rt></ruby>で４<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>、<ruby>三原市<rt data-ruby-level="2">みはらし</rt></ruby>で４<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>、<ruby>竹原市<rt data-ruby-level="2">たけはらし</rt></ruby>で２<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>、<ruby>府中市<rt data-ruby-level="4">ふちゅうし</rt></ruby>で１<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>、<ruby>呉市<rt data-ruby-level="8">くれし</rt></ruby>で３<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>、<ruby>安芸高田市<rt data-ruby-level="8">あきたかたし</rt></ruby>で１<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>、<ruby>福山市<rt data-ruby-level="3">ふくやまし</rt></ruby>で１<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>が<ruby>死亡<rt data-ruby-level="6">しぼう</rt></ruby>していて、<ruby>今回<rt
+    data-ruby-level="2">こんかい</rt></ruby>の<ruby>記録的<rt data-ruby-level="4">きろくてき</rt></ruby>な<ruby>豪雨<rt
+    data-ruby-level="7">ごうう</rt></ruby>で<ruby>広島<rt data-ruby-level="3">ひろしま</rt></ruby><ruby>県内<rt
+    data-ruby-level="3">けんない</rt></ruby>で<ruby>死亡<rt data-ruby-level="6">しぼう</rt></ruby>した<ruby>人<rt
+    data-ruby-level="1">ひと</rt></ruby>は<ruby>合<rt data-ruby-level="2">あ</rt></ruby>わせて21<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>に<ruby>上<rt data-ruby-level="1">のぼ</rt></ruby>っています。<br
+    /><br /><ruby>愛媛県<rt data-ruby-level="8">えひめけん</rt></ruby>では、<ruby>西予市<rt data-ruby-level="3">せいよし</rt></ruby>で５<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>、<ruby>松山市<rt data-ruby-level="4">まつやまし</rt></ruby>で３<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>、<ruby>宇和島市<rt data-ruby-level="6">うわじまし</rt></ruby>で３<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>、<ruby>愛媛県<rt data-ruby-level="8">えひめけん</rt></ruby><ruby>大洲市<rt
+    data-ruby-level="8">おおずし</rt></ruby>で１<ruby>人<rt data-ruby-level="1">にん</rt></ruby>の<ruby>合<rt
+    data-ruby-level="2">あ</rt></ruby>わせて１２<ruby>人<rt data-ruby-level="1">にん</rt></ruby>が<ruby>死亡<rt
+    data-ruby-level="6">しぼう</rt></ruby>しました。<br /><br />また、<ruby>岡山県<rt data-ruby-level="7">おかやまけん</rt></ruby><ruby>笠岡市<rt
+    data-ruby-level="8">かさおかし</rt></ruby>で１<ruby>人<rt data-ruby-level="1">にん</rt></ruby>、<ruby>兵庫県<rt
+    data-ruby-level="7">ひょうごけん</rt></ruby><ruby>猪名川町<rt data-ruby-level="8">いながわちょう</rt></ruby>で１<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>、<ruby>京都府<rt data-ruby-level="4">きょうとふ</rt></ruby><ruby>亀岡市<rt
+    data-ruby-level="7">かめおかし</rt></ruby>で１<ruby>人<rt data-ruby-level="1">にん</rt></ruby>、<ruby>滋賀県<rt
+    data-ruby-level="8">しがけん</rt></ruby><ruby>高島市<rt data-ruby-level="3">たかしまし</rt></ruby>で１<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>、<ruby>福岡県<rt data-ruby-level="7">ふくおかけん</rt></ruby><ruby>筑紫野市<rt
+    data-ruby-level="8">ちくしのし</rt></ruby>で１<ruby>人<rt data-ruby-level="1">にん</rt></ruby>が<ruby>死亡<rt
+    data-ruby-level="6">しぼう</rt></ruby>しました。
+- title: <ruby>重体<rt data-ruby-level="3">じゅうたい</rt></ruby>４<ruby>人<rt data-ruby-level="1">にん</rt></ruby>
+  text: さらに、<ruby>土砂崩<rt data-ruby-level="7">どしゃくず</rt></ruby>れなどのため、<ruby>広島市<rt
+    data-ruby-level="3">ひろしまし</rt></ruby>で２<ruby>人<rt data-ruby-level="1">にん</rt></ruby>、<ruby>愛媛県<rt
+    data-ruby-level="8">えひめけん</rt></ruby><ruby>今治市<rt data-ruby-level="8">いまばりし</rt></ruby>で１<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>、<ruby>山口県<rt data-ruby-level="3">やまぐちけん</rt></ruby><ruby>岩国市<rt
+    data-ruby-level="2">いわくにし</rt></ruby>で１<ruby>人<rt data-ruby-level="1">にん</rt></ruby>の<ruby>合<rt
+    data-ruby-level="2">あ</rt></ruby>わせて４<ruby>人<rt data-ruby-level="1">にん</rt></ruby>が<ruby>意識<rt
+    data-ruby-level="5">いしき</rt></ruby><ruby>不明<rt data-ruby-level="4">ふめい</rt></ruby>の<ruby>重体<rt
+    data-ruby-level="3">じゅうたい</rt></ruby>となっています。
+- title: <ruby>安否<rt data-ruby-level="6">あんぴ</rt></ruby><ruby>不明<rt data-ruby-level="4">ふめい</rt></ruby>50<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>
+  text: このほか、<ruby>広島県<rt data-ruby-level="3">ひろしまけん</rt></ruby>で23<ruby>人<rt data-ruby-level="1">にん</rt></ruby>、<ruby>愛媛県<rt
+    data-ruby-level="8">えひめけん</rt></ruby>で9<ruby>人<rt data-ruby-level="1">にん</rt></ruby>、<ruby>岡山県<rt
+    data-ruby-level="7">おかやまけん</rt></ruby>で６<ruby>人<rt data-ruby-level="1">にん</rt></ruby>、<ruby>京都府<rt
+    data-ruby-level="4">きょうとふ</rt></ruby>で４<ruby>人<rt data-ruby-level="1">にん</rt></ruby>、<ruby>福岡県<rt
+    data-ruby-level="7">ふくおかけん</rt></ruby>で2<ruby>人<rt data-ruby-level="1">にん</rt></ruby>、<ruby>佐賀県<rt
+    data-ruby-level="7">さがけん</rt></ruby>で２<ruby>人<rt data-ruby-level="1">にん</rt></ruby>、<ruby>兵庫県<rt
+    data-ruby-level="7">ひょうごけん</rt></ruby>で１<ruby>人<rt data-ruby-level="1">にん</rt></ruby>、<ruby>奈良県<rt
+    data-ruby-level="8">ならけん</rt></ruby>で１<ruby>人<rt data-ruby-level="1">にん</rt></ruby>、<ruby>高知県<rt
+    data-ruby-level="3">こうちけん</rt></ruby>で１<ruby>人<rt data-ruby-level="1">にん</rt></ruby>、<ruby>大阪府<rt
+    data-ruby-level="8">おおさかふ</rt></ruby>で１<ruby>人<rt data-ruby-level="1">にん</rt></ruby>の<ruby>安否<rt
+    data-ruby-level="6">あんぴ</rt></ruby>が<ruby>不明<rt data-ruby-level="4">ふめい</rt></ruby>となっています。<br
+    /><br /><ruby>各地<rt data-ruby-level="4">かくち</rt></ruby>で<ruby>消防<rt data-ruby-level="5">しょうぼう</rt></ruby>などが<ruby>活動<rt
+    data-ruby-level="3">かつどう</rt></ruby>に<ruby>当<rt data-ruby-level="2">あ</rt></ruby>たっていますが、<ruby>救助<rt
+    data-ruby-level="4">きゅうじょ</rt></ruby>や<ruby>状況<rt data-ruby-level="7">じょうきょう</rt></ruby>の<ruby>確認<rt
+    data-ruby-level="7">かくにん</rt></ruby>が<ruby>難航<rt data-ruby-level="6">なんこう</rt></ruby>しているところもあり、<ruby>被害<rt
+    data-ruby-level="7">ひがい</rt></ruby>の<ruby>全容<rt data-ruby-level="5">ぜんよう</rt></ruby>はわかっていません。
+source_url: https://www3.nhk.or.jp/news/html/20180707/k10011520771000.html
+related_news:
+- title: <ruby>英<rt data-ruby-level="4">えい</rt></ruby> <ruby>意識<rt data-ruby-level="5">いしき</rt></ruby><ruby>不明<rt
+    data-ruby-level="4">ふめい</rt></ruby>の<ruby>男女<rt data-ruby-level="1">だんじょ</rt></ruby>２<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>から<ruby>神経<rt data-ruby-level="5">しんけい</rt></ruby><ruby>剤<rt
+    data-ruby-level="7">ざい</rt></ruby>ノビチョクを<ruby>検出<rt data-ruby-level="5">けんしゅつ</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/07/05/英-意識不明の男女2人から神経剤ノビチョクを検出
+- title: <ruby>地中海<rt data-ruby-level="2">ちちゅうかい</rt></ruby>で<ruby>移民船<rt data-ruby-level="5">いみんせん</rt></ruby>が<ruby>相次<rt
+    data-ruby-level="3">あいつ</rt></ruby>ぎ<ruby>沈没<rt data-ruby-level="7">ちんぼつ</rt></ruby>
+    50<ruby>人以上<rt data-ruby-level="4">にんいじょう</rt></ruby><ruby>死亡<rt data-ruby-level="6">しぼう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/06/04/地中海で移民船が相次ぎ沈没-50人以上死亡
+- title: <ruby>米軍機<rt data-ruby-level="4">べいぐんき</rt></ruby>の<ruby>墜落<rt data-ruby-level="7">ついらく</rt></ruby><ruby>相次<rt
+    data-ruby-level="3">あいつ</rt></ruby>ぐ <ruby>兵士<rt data-ruby-level="4">へいし</rt></ruby>７<ruby>人<rt
+    data-ruby-level="1">にん</rt></ruby>が<ruby>死亡<rt data-ruby-level="6">しぼう</rt></ruby>
+  url: https://newswebeasy.github.io/news/web/2018/04/08/米軍機の墜落相次ぐ-兵士7人が死亡
+...
